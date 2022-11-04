@@ -1,23 +1,7 @@
 {
-    "code": [],
-    "collection": [],
-    "description": [],
-    "distributorPartNumber": [],
-    "eagleBoard": [],
-    "eagleSchem": [],
-    "footprintEagle": [],
-    "footprintEagleDetails": [],
-    "footprintKicad": [],
-    "footprintKicadDetails": [],
-    "gitName": [],
-    "gitRepo": [],
     "hexID": [
         "FZECONAMPDSG144"
     ],
-    "kicadBoard": [],
-    "kicadSchem": [],
-    "manufacturerPartNumber": [],
-    "matchSpecial": [],
     "name": [
         "con-amp : DIMSG144"
     ],
@@ -42,6 +26,12 @@
         ],
         "jsonBasic": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-amp/DIMSG144/basic.json"
+        ],
+        "jsonFull": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-amp/DIMSG144/full.json"
+        ],
+        "readme": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-amp/DIMSG144/README.md"
         ]
     },
     "oompID": [
@@ -50,18 +40,10 @@
     "oompIndex": [
         "DIMSG144"
     ],
-    "oompInstances": [],
-    "oompParts": [],
     "oompSize": [
         "eagle"
     ],
     "oompType": [
         "FOOTPRINT"
-    ],
-    "oplPartNumber": [],
-    "rawParts": [],
-    "symbolEagle": [],
-    "symbolEagleDetails": [],
-    "symbolKicad": [],
-    "symbolKicadDetails": []
+    ]
 }

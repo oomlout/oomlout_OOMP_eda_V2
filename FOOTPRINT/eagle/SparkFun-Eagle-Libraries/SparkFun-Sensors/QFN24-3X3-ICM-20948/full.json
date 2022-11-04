@@ -1,23 +1,7 @@
 {
-    "code": [],
-    "collection": [],
-    "description": [],
-    "distributorPartNumber": [],
-    "eagleBoard": [],
-    "eagleSchem": [],
-    "footprintEagle": [],
-    "footprintEagleDetails": [],
-    "footprintKicad": [],
-    "footprintKicadDetails": [],
-    "gitName": [],
-    "gitRepo": [],
     "hexID": [
         "FZSSPARKFUNSENSQFN243X3ICM2948"
     ],
-    "kicadBoard": [],
-    "kicadSchem": [],
-    "manufacturerPartNumber": [],
-    "matchSpecial": [],
     "name": [
         "SparkFun-Sensors : QFN24-3X3-ICM-20948"
     ],
@@ -42,6 +26,12 @@
         ],
         "jsonBasic": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Sensors/QFN24-3X3-ICM-20948/basic.json"
+        ],
+        "jsonFull": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Sensors/QFN24-3X3-ICM-20948/full.json"
+        ],
+        "readme": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Sensors/QFN24-3X3-ICM-20948/README.md"
         ]
     },
     "oompID": [
@@ -50,18 +40,10 @@
     "oompIndex": [
         "QFN24-3X3-ICM-20948"
     ],
-    "oompInstances": [],
-    "oompParts": [],
     "oompSize": [
         "eagle"
     ],
     "oompType": [
         "FOOTPRINT"
-    ],
-    "oplPartNumber": [],
-    "rawParts": [],
-    "symbolEagle": [],
-    "symbolEagleDetails": [],
-    "symbolKicad": [],
-    "symbolKicadDetails": []
+    ]
 }

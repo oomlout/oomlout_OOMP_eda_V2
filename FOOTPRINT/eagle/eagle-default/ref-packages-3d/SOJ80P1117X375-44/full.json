@@ -1,23 +1,7 @@
 {
-    "code": [],
-    "collection": [],
-    "description": [],
-    "distributorPartNumber": [],
-    "eagleBoard": [],
-    "eagleSchem": [],
-    "footprintEagle": [],
-    "footprintEagleDetails": [],
-    "footprintKicad": [],
-    "footprintKicadDetails": [],
-    "gitName": [],
-    "gitRepo": [],
     "hexID": [
         "FZEREFPACKAGES3DSOJ8P1117X37544"
     ],
-    "kicadBoard": [],
-    "kicadSchem": [],
-    "manufacturerPartNumber": [],
-    "matchSpecial": [],
     "name": [
         "ref-packages-3d : SOJ80P1117X375-44"
     ],
@@ -42,6 +26,12 @@
         ],
         "jsonBasic": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ref-packages-3d/SOJ80P1117X375-44/basic.json"
+        ],
+        "jsonFull": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ref-packages-3d/SOJ80P1117X375-44/full.json"
+        ],
+        "readme": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ref-packages-3d/SOJ80P1117X375-44/README.md"
         ]
     },
     "oompID": [
@@ -50,18 +40,10 @@
     "oompIndex": [
         "SOJ80P1117X375-44"
     ],
-    "oompInstances": [],
-    "oompParts": [],
     "oompSize": [
         "eagle"
     ],
     "oompType": [
         "FOOTPRINT"
-    ],
-    "oplPartNumber": [],
-    "rawParts": [],
-    "symbolEagle": [],
-    "symbolEagleDetails": [],
-    "symbolKicad": [],
-    "symbolKicadDetails": []
+    ]
 }

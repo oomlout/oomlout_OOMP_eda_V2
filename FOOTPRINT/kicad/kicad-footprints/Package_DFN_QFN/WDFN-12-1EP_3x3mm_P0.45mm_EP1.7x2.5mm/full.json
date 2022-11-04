@@ -1,13 +1,4 @@
 {
-    "code": [],
-    "collection": [],
-    "description": [],
-    "distributorPartNumber": [],
-    "eagleBoard": [],
-    "eagleSchem": [],
-    "footprintEagle": [],
-    "footprintEagleDetails": [],
-    "footprintKicad": [],
     "footprintKicadDetails": [
         {
             "attributeType": "smd",
@@ -21,15 +12,9 @@
             "threeDModel": "${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/WDFN-12-1EP_3x3mm_P0.45mm_EP1.7x2.5mm.wrl"
         }
     ],
-    "gitName": [],
-    "gitRepo": [],
     "hexID": [
         "FZKDFNWDFN121EP3X3P45EP17X25"
     ],
-    "kicadBoard": [],
-    "kicadSchem": [],
-    "manufacturerPartNumber": [],
-    "matchSpecial": [],
     "name": [
         "Package_DFN_QFN : WDFN-12-1EP_3x3mm_P0.45mm_EP1.7x2.5mm"
     ],
@@ -86,18 +71,10 @@
     "oompIndex": [
         "WDFN-12-1EP_3x3mm_P0.45mm_EP1.7x2.5mm"
     ],
-    "oompInstances": [],
-    "oompParts": [],
     "oompSize": [
         "kicad"
     ],
     "oompType": [
         "FOOTPRINT"
-    ],
-    "oplPartNumber": [],
-    "rawParts": [],
-    "symbolEagle": [],
-    "symbolEagleDetails": [],
-    "symbolKicad": [],
-    "symbolKicadDetails": []
+    ]
 }

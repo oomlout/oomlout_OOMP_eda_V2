@@ -1,23 +1,7 @@
 {
-    "code": [],
-    "collection": [],
-    "description": [],
-    "distributorPartNumber": [],
-    "eagleBoard": [],
-    "eagleSchem": [],
-    "footprintEagle": [],
-    "footprintEagleDetails": [],
-    "footprintKicad": [],
-    "footprintKicadDetails": [],
-    "gitName": [],
-    "gitRepo": [],
     "hexID": [
         "FZEVREGTO22L"
     ],
-    "kicadBoard": [],
-    "kicadSchem": [],
-    "manufacturerPartNumber": [],
-    "matchSpecial": [],
     "name": [
         "v-reg : TO202L"
     ],
@@ -42,6 +26,12 @@
         ],
         "jsonBasic": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/v-reg/TO202L/basic.json"
+        ],
+        "jsonFull": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/v-reg/TO202L/full.json"
+        ],
+        "readme": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/v-reg/TO202L/README.md"
         ]
     },
     "oompID": [
@@ -50,18 +40,10 @@
     "oompIndex": [
         "TO202L"
     ],
-    "oompInstances": [],
-    "oompParts": [],
     "oompSize": [
         "eagle"
     ],
     "oompType": [
         "FOOTPRINT"
-    ],
-    "oplPartNumber": [],
-    "rawParts": [],
-    "symbolEagle": [],
-    "symbolEagleDetails": [],
-    "symbolKicad": [],
-    "symbolKicadDetails": []
+    ]
 }

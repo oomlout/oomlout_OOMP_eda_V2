@@ -1,23 +1,7 @@
 {
-    "code": [],
-    "collection": [],
-    "description": [],
-    "distributorPartNumber": [],
-    "eagleBoard": [],
-    "eagleSchem": [],
-    "footprintEagle": [],
-    "footprintEagleDetails": [],
-    "footprintKicad": [],
-    "footprintKicadDetails": [],
-    "gitName": [],
-    "gitRepo": [],
     "hexID": [
         "FZEPHOTOELEMENTSD11XXH"
     ],
-    "kicadBoard": [],
-    "kicadSchem": [],
-    "manufacturerPartNumber": [],
-    "matchSpecial": [],
     "name": [
         "photo-elements : D11XX_H"
     ],
@@ -42,6 +26,12 @@
         ],
         "jsonBasic": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/photo-elements/D11XX_H/basic.json"
+        ],
+        "jsonFull": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/photo-elements/D11XX_H/full.json"
+        ],
+        "readme": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/photo-elements/D11XX_H/README.md"
         ]
     },
     "oompID": [
@@ -50,18 +40,10 @@
     "oompIndex": [
         "D11XX_H"
     ],
-    "oompInstances": [],
-    "oompParts": [],
     "oompSize": [
         "eagle"
     ],
     "oompType": [
         "FOOTPRINT"
-    ],
-    "oplPartNumber": [],
-    "rawParts": [],
-    "symbolEagle": [],
-    "symbolEagleDetails": [],
-    "symbolKicad": [],
-    "symbolKicadDetails": []
+    ]
 }

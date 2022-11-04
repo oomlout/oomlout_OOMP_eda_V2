@@ -6,6 +6,8 @@ Contents
 ========
 
 * [FZKSOINFINEONPGDSO1211THERMALVIAS > Package_SO : Infineon_PG-DSO-12-11_ThermalVias](#fzksoinfineonpgdso1211thermalvias--package_so--infineon_pg-dso-12-11_thermalvias)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +19,18 @@ Contents
 - Description: Package_SO : Infineon_PG-DSO-12-11_ThermalVias
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SO-Infineon_PG-DSO-12-11_ThermalVias](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SO-Infineon_PG-DSO-12-11_ThermalVias)
 - Short Link: [http://oom.lt/FZKSOINFINEONPGDSO1211THERMALVIAS](http://oom.lt/FZKSOINFINEONPGDSO1211THERMALVIAS)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Package_SO+:+Infineon_PG-DSO-12-11_ThermalVias)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Package_SO+:+Infineon_PG-DSO-12-11_ThermalVias)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Package_SO+:+Infineon_PG-DSO-12-11_ThermalVias)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Package_SO+:+Infineon_PG-DSO-12-11_ThermalVias)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Package_SO+:+Infineon_PG-DSO-12-11_ThermalVias)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Package_SO+:+Infineon_PG-DSO-12-11_ThermalVias)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/Infineon_PG-DSO-12-11_ThermalVias/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/Infineon_PG-DSO-12-11_ThermalVias/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/Infineon_PG-DSO-12-11_ThermalVias/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/Infineon_PG-DSO-12-11_ThermalVias/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/Infineon_PG-DSO-12-11_ThermalVias/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/Infineon_PG-DSO-12-11_ThermalVias/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/Infineon_PG-DSO-12-11_ThermalVias/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/Infineon_PG-DSO-12-11_ThermalVias/kicadPcb3dBack.png)|

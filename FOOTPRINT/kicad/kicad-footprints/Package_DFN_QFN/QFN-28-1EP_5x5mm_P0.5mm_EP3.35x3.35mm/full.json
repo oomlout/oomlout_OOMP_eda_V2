@@ -1,13 +1,4 @@
 {
-    "code": [],
-    "collection": [],
-    "description": [],
-    "distributorPartNumber": [],
-    "eagleBoard": [],
-    "eagleSchem": [],
-    "footprintEagle": [],
-    "footprintEagleDetails": [],
-    "footprintKicad": [],
     "footprintKicadDetails": [
         {
             "attributeType": "smd",
@@ -21,15 +12,9 @@
             "threeDModel": "${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/QFN-28-1EP_5x5mm_P0.5mm_EP3.35x3.35mm.wrl"
         }
     ],
-    "gitName": [],
-    "gitRepo": [],
     "hexID": [
         "FZKDFNQFN281EP5X5P5EP335X335"
     ],
-    "kicadBoard": [],
-    "kicadSchem": [],
-    "manufacturerPartNumber": [],
-    "matchSpecial": [],
     "name": [
         "Package_DFN_QFN : QFN-28-1EP_5x5mm_P0.5mm_EP3.35x3.35mm"
     ],
@@ -86,18 +71,10 @@
     "oompIndex": [
         "QFN-28-1EP_5x5mm_P0.5mm_EP3.35x3.35mm"
     ],
-    "oompInstances": [],
-    "oompParts": [],
     "oompSize": [
         "kicad"
     ],
     "oompType": [
         "FOOTPRINT"
-    ],
-    "oplPartNumber": [],
-    "rawParts": [],
-    "symbolEagle": [],
-    "symbolEagleDetails": [],
-    "symbolKicad": [],
-    "symbolKicadDetails": []
+    ]
 }

@@ -1,13 +1,4 @@
 {
-    "code": [],
-    "collection": [],
-    "description": [],
-    "distributorPartNumber": [],
-    "eagleBoard": [],
-    "eagleSchem": [],
-    "footprintEagle": [],
-    "footprintEagleDetails": [],
-    "footprintKicad": [],
     "footprintKicadDetails": [
         {
             "attributeType": "smd",
@@ -21,15 +12,9 @@
             "threeDModel": "${KICAD6_3DMODEL_DIR}/Package_QFP.3dshapes/PQFP-160_28x28mm_P0.65mm.wrl"
         }
     ],
-    "gitName": [],
-    "gitRepo": [],
     "hexID": [
         "FZKQFPPQFP1628X28P65"
     ],
-    "kicadBoard": [],
-    "kicadSchem": [],
-    "manufacturerPartNumber": [],
-    "matchSpecial": [],
     "name": [
         "Package_QFP : PQFP-160_28x28mm_P0.65mm"
     ],
@@ -86,18 +71,10 @@
     "oompIndex": [
         "PQFP-160_28x28mm_P0.65mm"
     ],
-    "oompInstances": [],
-    "oompParts": [],
     "oompSize": [
         "kicad"
     ],
     "oompType": [
         "FOOTPRINT"
-    ],
-    "oplPartNumber": [],
-    "rawParts": [],
-    "symbolEagle": [],
-    "symbolEagleDetails": [],
-    "symbolKicad": [],
-    "symbolKicadDetails": []
+    ]
 }

@@ -1,13 +1,4 @@
 {
-    "code": [],
-    "collection": [],
-    "description": [],
-    "distributorPartNumber": [],
-    "eagleBoard": [],
-    "eagleSchem": [],
-    "footprintEagle": [],
-    "footprintEagleDetails": [],
-    "footprintKicad": [],
     "footprintKicadDetails": [
         {
             "attributeType": null,
@@ -21,15 +12,9 @@
             "threeDModel": "${KICAD6_3DMODEL_DIR}/Connector_PCBEdge.3dshapes/molex_EDGELOCK_6-CKT.wrl"
         }
     ],
-    "gitName": [],
-    "gitRepo": [],
     "hexID": [
         "FZKCNPCBEDGEMXEDGEL6CKT"
     ],
-    "kicadBoard": [],
-    "kicadSchem": [],
-    "manufacturerPartNumber": [],
-    "matchSpecial": [],
     "name": [
         "Connector_PCBEdge : molex_EDGELOCK_6-CKT"
     ],
@@ -86,18 +71,10 @@
     "oompIndex": [
         "molex_EDGELOCK_6-CKT"
     ],
-    "oompInstances": [],
-    "oompParts": [],
     "oompSize": [
         "kicad"
     ],
     "oompType": [
         "FOOTPRINT"
-    ],
-    "oplPartNumber": [],
-    "rawParts": [],
-    "symbolEagle": [],
-    "symbolEagleDetails": [],
-    "symbolKicad": [],
-    "symbolKicadDetails": []
+    ]
 }

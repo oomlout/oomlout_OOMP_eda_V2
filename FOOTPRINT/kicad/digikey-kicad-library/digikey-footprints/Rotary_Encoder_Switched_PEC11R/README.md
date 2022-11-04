@@ -6,6 +6,8 @@ Contents
 ========
 
 * [FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSRESWITCHEDPEC11R > digikey-footprints : Rotary_Encoder_Switched_PEC11R](#fzkicaddigikeykicadlibrarydigikeyfootprintsreswitchedpec11r--digikey-footprints--rotary_encoder_switched_pec11r)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +19,18 @@ Contents
 - Description: digikey-footprints : Rotary_Encoder_Switched_PEC11R
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Rotary_Encoder_Switched_PEC11R](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Rotary_Encoder_Switched_PEC11R)
 - Short Link: [http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSRESWITCHEDPEC11R](http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSRESWITCHEDPEC11R)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117digikey-footprints+:+Rotary_Encoder_Switched_PEC11R)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/digikey-footprints+:+Rotary_Encoder_Switched_PEC11R)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=digikey-footprints+:+Rotary_Encoder_Switched_PEC11R)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=digikey-footprints+:+Rotary_Encoder_Switched_PEC11R)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=digikey-footprints+:+Rotary_Encoder_Switched_PEC11R)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=digikey-footprints+:+Rotary_Encoder_Switched_PEC11R)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Rotary_Encoder_Switched_PEC11R/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Rotary_Encoder_Switched_PEC11R/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Rotary_Encoder_Switched_PEC11R/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Rotary_Encoder_Switched_PEC11R/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Rotary_Encoder_Switched_PEC11R/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Rotary_Encoder_Switched_PEC11R/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Rotary_Encoder_Switched_PEC11R/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Rotary_Encoder_Switched_PEC11R/kicadPcb3dBack.png)|

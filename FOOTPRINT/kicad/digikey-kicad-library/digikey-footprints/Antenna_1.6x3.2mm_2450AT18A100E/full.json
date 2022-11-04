@@ -1,13 +1,4 @@
 {
-    "code": [],
-    "collection": [],
-    "description": [],
-    "distributorPartNumber": [],
-    "eagleBoard": [],
-    "eagleSchem": [],
-    "footprintEagle": [],
-    "footprintEagleDetails": [],
-    "footprintKicad": [],
     "footprintKicadDetails": [
         {
             "attributeType": "smd",
@@ -20,15 +11,9 @@
             "tags": null
         }
     ],
-    "gitName": [],
-    "gitRepo": [],
     "hexID": [
         "FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSANTENNA16X32245AT18A1E"
     ],
-    "kicadBoard": [],
-    "kicadSchem": [],
-    "manufacturerPartNumber": [],
-    "matchSpecial": [],
     "name": [
         "digikey-footprints : Antenna_1.6x3.2mm_2450AT18A100E"
     ],
@@ -85,18 +70,10 @@
     "oompIndex": [
         "Antenna_1.6x3.2mm_2450AT18A100E"
     ],
-    "oompInstances": [],
-    "oompParts": [],
     "oompSize": [
         "kicad"
     ],
     "oompType": [
         "FOOTPRINT"
-    ],
-    "oplPartNumber": [],
-    "rawParts": [],
-    "symbolEagle": [],
-    "symbolEagleDetails": [],
-    "symbolKicad": [],
-    "symbolKicadDetails": []
+    ]
 }

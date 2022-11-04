@@ -1,13 +1,4 @@
 {
-    "code": [],
-    "collection": [],
-    "description": [],
-    "distributorPartNumber": [],
-    "eagleBoard": [],
-    "eagleSchem": [],
-    "footprintEagle": [],
-    "footprintEagleDetails": [],
-    "footprintKicad": [],
     "footprintKicadDetails": [
         {
             "attributeType": null,
@@ -17,15 +8,9 @@
             "tags": "Logo CE certification"
         }
     ],
-    "gitName": [],
-    "gitRepo": [],
     "hexID": [
         "FZKSZCEL85X6SILKSCREEN"
     ],
-    "kicadBoard": [],
-    "kicadSchem": [],
-    "manufacturerPartNumber": [],
-    "matchSpecial": [],
     "name": [
         "Symbol : CE-Logo_8.5x6mm_SilkScreen"
     ],
@@ -82,18 +67,10 @@
     "oompIndex": [
         "CE-Logo_8.5x6mm_SilkScreen"
     ],
-    "oompInstances": [],
-    "oompParts": [],
     "oompSize": [
         "kicad"
     ],
     "oompType": [
         "FOOTPRINT"
-    ],
-    "oplPartNumber": [],
-    "rawParts": [],
-    "symbolEagle": [],
-    "symbolEagleDetails": [],
-    "symbolKicad": [],
-    "symbolKicadDetails": []
+    ]
 }

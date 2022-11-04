@@ -1,13 +1,4 @@
 {
-    "code": [],
-    "collection": [],
-    "description": [],
-    "distributorPartNumber": [],
-    "eagleBoard": [],
-    "eagleSchem": [],
-    "footprintEagle": [],
-    "footprintEagleDetails": [],
-    "footprintKicad": [],
     "footprintKicadDetails": [
         {
             "attributeType": "through_hole",
@@ -21,15 +12,9 @@
             "threeDModel": "${KICAD6_3DMODEL_DIR}/Connector_Phoenix_GMSTB.3dshapes/PhoenixContact_GMSTBV_2,5_9-GF-7,62_1x09_P7.62mm_Vertical_ThreadedFlange_MountHole.wrl"
         }
     ],
-    "gitName": [],
-    "gitRepo": [],
     "hexID": [
         "FZKCNPHOENIXGMSTBPHOENIXCONTACTGMSTBV259GF7621X9P762VERTICALTHREADEDFLANGEMOUNTHOLE"
     ],
-    "kicadBoard": [],
-    "kicadSchem": [],
-    "manufacturerPartNumber": [],
-    "matchSpecial": [],
     "name": [
         "Connector_Phoenix_GMSTB : PhoenixContact_GMSTBV_2,5_9-GF-7,62_1x09_P7.62mm_Vertical_ThreadedFlange_MountHole"
     ],
@@ -86,18 +71,10 @@
     "oompIndex": [
         "PhoenixContact_GMSTBV_2,5_9-GF-7,62_1x09_P7.62mm_Vertical_ThreadedFlange_MountHole"
     ],
-    "oompInstances": [],
-    "oompParts": [],
     "oompSize": [
         "kicad"
     ],
     "oompType": [
         "FOOTPRINT"
-    ],
-    "oplPartNumber": [],
-    "rawParts": [],
-    "symbolEagle": [],
-    "symbolEagleDetails": [],
-    "symbolKicad": [],
-    "symbolKicadDetails": []
+    ]
 }

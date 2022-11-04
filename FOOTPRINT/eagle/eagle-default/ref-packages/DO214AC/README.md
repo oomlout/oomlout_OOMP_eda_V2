@@ -1,0 +1,49 @@
+
+
+
+
+Contents
+========
+
+* [FZEREFPACKAGESDO214AC > ref-packages : DO214AC](#fzerefpackagesdo214ac--ref-packages--do214ac)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
+	* [Tags](#tags)
+  
+NO IMAGE  
+# FZEREFPACKAGESDO214AC > ref-packages : DO214AC
+
+- ID: FOOTPRINT-eagle-eagle-default-ref-packages-DO214AC
+- Hex ID: FZEREFPACKAGESDO214AC
+- Name: ref-packages : DO214AC
+- Description: ref-packages : DO214AC
+- Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-DO214AC](http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-DO214AC)
+- Short Link: [http://oom.lt/FZEREFPACKAGESDO214AC](http://oom.lt/FZEREFPACKAGESDO214AC)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117ref-packages+:+DO214AC)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/ref-packages+:+DO214AC)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=ref-packages+:+DO214AC)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=ref-packages+:+DO214AC)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=ref-packages+:+DO214AC)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=ref-packages+:+DO214AC)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
+  
+NO IMAGES  
+## Tags
+  
+
+|Tag Name|Tag Code|Tag Value|
+| :--- | :--- | :--- |
+|OOMP Type|oompType|FOOTPRINT|
+|OOMP Size|oompSize|eagle|
+|OOMP Color|oompColor|eagle-default|
+|OOMP Description|oompDesc|ref-packages|
+|OOMP Index|oompIndex|DO214AC|
+|Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-ref-packages-DO214AC|
+|Hex ID (short code)|hexID|FZEREFPACKAGESDO214AC|
+|name|name|ref-packages : DO214AC|
+||||

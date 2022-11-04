@@ -1,13 +1,4 @@
 {
-    "code": [],
-    "collection": [],
-    "description": [],
-    "distributorPartNumber": [],
-    "eagleBoard": [],
-    "eagleSchem": [],
-    "footprintEagle": [],
-    "footprintEagleDetails": [],
-    "footprintKicad": [],
     "footprintKicadDetails": [
         {
             "attributeType": null,
@@ -20,15 +11,9 @@
             "tags": "net tie solder jumper bridged"
         }
     ],
-    "gitName": [],
-    "gitRepo": [],
     "hexID": [
         "FZKJSOLDERJ3P13BRIDGED12PAD1X15"
     ],
-    "kicadBoard": [],
-    "kicadSchem": [],
-    "manufacturerPartNumber": [],
-    "matchSpecial": [],
     "name": [
         "Jumper : SolderJumper-3_P1.3mm_Bridged12_Pad1.0x1.5mm"
     ],
@@ -85,18 +70,10 @@
     "oompIndex": [
         "SolderJumper-3_P1.3mm_Bridged12_Pad1.0x1.5mm"
     ],
-    "oompInstances": [],
-    "oompParts": [],
     "oompSize": [
         "kicad"
     ],
     "oompType": [
         "FOOTPRINT"
-    ],
-    "oplPartNumber": [],
-    "rawParts": [],
-    "symbolEagle": [],
-    "symbolEagleDetails": [],
-    "symbolKicad": [],
-    "symbolKicadDetails": []
+    ]
 }

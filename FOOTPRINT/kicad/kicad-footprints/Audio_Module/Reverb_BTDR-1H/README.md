@@ -6,6 +6,8 @@ Contents
 ========
 
 * [FZKAREVERBBTDR1H > Audio_Module : Reverb_BTDR-1H](#fzkareverbbtdr1h--audio_module--reverb_btdr-1h)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +19,18 @@ Contents
 - Description: Audio_Module : Reverb_BTDR-1H
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Audio_Module-Reverb_BTDR-1H](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Audio_Module-Reverb_BTDR-1H)
 - Short Link: [http://oom.lt/FZKAREVERBBTDR1H](http://oom.lt/FZKAREVERBBTDR1H)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Audio_Module+:+Reverb_BTDR-1H)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Audio_Module+:+Reverb_BTDR-1H)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Audio_Module+:+Reverb_BTDR-1H)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Audio_Module+:+Reverb_BTDR-1H)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Audio_Module+:+Reverb_BTDR-1H)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Audio_Module+:+Reverb_BTDR-1H)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Audio_Module/Reverb_BTDR-1H/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Audio_Module/Reverb_BTDR-1H/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Audio_Module/Reverb_BTDR-1H/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Audio_Module/Reverb_BTDR-1H/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Audio_Module/Reverb_BTDR-1H/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Audio_Module/Reverb_BTDR-1H/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Audio_Module/Reverb_BTDR-1H/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Audio_Module/Reverb_BTDR-1H/kicadPcb3dBack.png)|

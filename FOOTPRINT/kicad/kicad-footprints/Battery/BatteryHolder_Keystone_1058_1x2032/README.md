@@ -6,6 +6,8 @@ Contents
 ========
 
 * [FZKBATBATHOLDERKEYSTONE1581X232 > Battery : BatteryHolder_Keystone_1058_1x2032](#fzkbatbatholderkeystone1581x232--battery--batteryholder_keystone_1058_1x2032)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +19,18 @@ Contents
 - Description: Battery : BatteryHolder_Keystone_1058_1x2032
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Battery-BatteryHolder_Keystone_1058_1x2032](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Battery-BatteryHolder_Keystone_1058_1x2032)
 - Short Link: [http://oom.lt/FZKBATBATHOLDERKEYSTONE1581X232](http://oom.lt/FZKBATBATHOLDERKEYSTONE1581X232)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Battery+:+BatteryHolder_Keystone_1058_1x2032)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Battery+:+BatteryHolder_Keystone_1058_1x2032)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Battery+:+BatteryHolder_Keystone_1058_1x2032)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Battery+:+BatteryHolder_Keystone_1058_1x2032)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Battery+:+BatteryHolder_Keystone_1058_1x2032)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Battery+:+BatteryHolder_Keystone_1058_1x2032)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Battery/BatteryHolder_Keystone_1058_1x2032/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Battery/BatteryHolder_Keystone_1058_1x2032/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Battery/BatteryHolder_Keystone_1058_1x2032/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Battery/BatteryHolder_Keystone_1058_1x2032/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Battery/BatteryHolder_Keystone_1058_1x2032/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Battery/BatteryHolder_Keystone_1058_1x2032/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Battery/BatteryHolder_Keystone_1058_1x2032/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Battery/BatteryHolder_Keystone_1058_1x2032/kicadPcb3dBack.png)|

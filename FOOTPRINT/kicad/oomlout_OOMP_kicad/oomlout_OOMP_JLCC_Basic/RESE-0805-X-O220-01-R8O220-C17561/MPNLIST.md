@@ -1,0 +1,12 @@
+
+
+
+
+# MPN Summary For: FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICRESE85XO221R8O22C17561 > oomlout_OOMP_JLCC_Basic : RESE-0805-X-O220-01-R8O220-C17561
+
+## MPNs
+  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||

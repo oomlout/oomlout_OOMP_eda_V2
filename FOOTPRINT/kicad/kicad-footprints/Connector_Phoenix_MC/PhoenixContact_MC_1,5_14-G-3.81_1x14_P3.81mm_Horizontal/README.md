@@ -6,6 +6,8 @@ Contents
 ========
 
 * [FZKCNPHOENIXMCPHOENIXCONTACTMC1514G3811X14P381HORIZONTAL > Connector_Phoenix_MC : PhoenixContact_MC_1,5_14-G-3.81_1x14_P3.81mm_Horizontal](#fzkcnphoenixmcphoenixcontactmc1514g3811x14p381horizontal--connector_phoenix_mc--phoenixcontact_mc_15_14-g-381_1x14_p381mm_horizontal)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +19,18 @@ Contents
 - Description: Connector_Phoenix_MC : PhoenixContact_MC_1,5_14-G-3.81_1x14_P3.81mm_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Phoenix_MC-PhoenixContact_MC_1,5_14-G-3.81_1x14_P3.81mm_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Phoenix_MC-PhoenixContact_MC_1,5_14-G-3.81_1x14_P3.81mm_Horizontal)
 - Short Link: [http://oom.lt/FZKCNPHOENIXMCPHOENIXCONTACTMC1514G3811X14P381HORIZONTAL](http://oom.lt/FZKCNPHOENIXMCPHOENIXCONTACTMC1514G3811X14P381HORIZONTAL)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Connector_Phoenix_MC+:+PhoenixContact_MC_1,5_14-G-3.81_1x14_P3.81mm_Horizontal)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Connector_Phoenix_MC+:+PhoenixContact_MC_1,5_14-G-3.81_1x14_P3.81mm_Horizontal)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Connector_Phoenix_MC+:+PhoenixContact_MC_1,5_14-G-3.81_1x14_P3.81mm_Horizontal)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Connector_Phoenix_MC+:+PhoenixContact_MC_1,5_14-G-3.81_1x14_P3.81mm_Horizontal)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Connector_Phoenix_MC+:+PhoenixContact_MC_1,5_14-G-3.81_1x14_P3.81mm_Horizontal)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Connector_Phoenix_MC+:+PhoenixContact_MC_1,5_14-G-3.81_1x14_P3.81mm_Horizontal)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Phoenix_MC/PhoenixContact_MC_1,5_14-G-3.81_1x14_P3.81mm_Horizontal/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Phoenix_MC/PhoenixContact_MC_1,5_14-G-3.81_1x14_P3.81mm_Horizontal/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Phoenix_MC/PhoenixContact_MC_1,5_14-G-3.81_1x14_P3.81mm_Horizontal/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Phoenix_MC/PhoenixContact_MC_1,5_14-G-3.81_1x14_P3.81mm_Horizontal/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Phoenix_MC/PhoenixContact_MC_1,5_14-G-3.81_1x14_P3.81mm_Horizontal/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Phoenix_MC/PhoenixContact_MC_1,5_14-G-3.81_1x14_P3.81mm_Horizontal/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Phoenix_MC/PhoenixContact_MC_1,5_14-G-3.81_1x14_P3.81mm_Horizontal/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Phoenix_MC/PhoenixContact_MC_1,5_14-G-3.81_1x14_P3.81mm_Horizontal/kicadPcb3dBack.png)|

@@ -6,6 +6,8 @@ Contents
 ========
 
 * [FZKHHAAVID5733D1GTO263 > Heatsink : Heatsink_AAVID_573300D00010G_TO-263](#fzkhhaavid5733d1gto263--heatsink--heatsink_aavid_573300d00010g_to-263)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +19,18 @@ Contents
 - Description: Heatsink : Heatsink_AAVID_573300D00010G_TO-263
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Heatsink-Heatsink_AAVID_573300D00010G_TO-263](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Heatsink-Heatsink_AAVID_573300D00010G_TO-263)
 - Short Link: [http://oom.lt/FZKHHAAVID5733D1GTO263](http://oom.lt/FZKHHAAVID5733D1GTO263)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Heatsink+:+Heatsink_AAVID_573300D00010G_TO-263)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Heatsink+:+Heatsink_AAVID_573300D00010G_TO-263)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Heatsink+:+Heatsink_AAVID_573300D00010G_TO-263)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Heatsink+:+Heatsink_AAVID_573300D00010G_TO-263)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Heatsink+:+Heatsink_AAVID_573300D00010G_TO-263)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Heatsink+:+Heatsink_AAVID_573300D00010G_TO-263)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Heatsink/Heatsink_AAVID_573300D00010G_TO-263/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Heatsink/Heatsink_AAVID_573300D00010G_TO-263/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Heatsink/Heatsink_AAVID_573300D00010G_TO-263/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Heatsink/Heatsink_AAVID_573300D00010G_TO-263/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Heatsink/Heatsink_AAVID_573300D00010G_TO-263/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Heatsink/Heatsink_AAVID_573300D00010G_TO-263/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Heatsink/Heatsink_AAVID_573300D00010G_TO-263/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Heatsink/Heatsink_AAVID_573300D00010G_TO-263/kicadPcb3dBack.png)|

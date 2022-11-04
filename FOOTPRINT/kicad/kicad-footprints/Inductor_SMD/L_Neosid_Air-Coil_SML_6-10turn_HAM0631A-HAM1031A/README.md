@@ -6,6 +6,8 @@ Contents
 ========
 
 * [FZKINDUCTORSMLNEOSIDAIRCOILSML61TURNHAM631AHAM131A > Inductor_SMD : L_Neosid_Air-Coil_SML_6-10turn_HAM0631A-HAM1031A](#fzkinductorsmlneosidaircoilsml61turnham631aham131a--inductor_smd--l_neosid_air-coil_sml_6-10turn_ham0631a-ham1031a)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +19,18 @@ Contents
 - Description: Inductor_SMD : L_Neosid_Air-Coil_SML_6-10turn_HAM0631A-HAM1031A
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Neosid_Air-Coil_SML_6-10turn_HAM0631A-HAM1031A](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Neosid_Air-Coil_SML_6-10turn_HAM0631A-HAM1031A)
 - Short Link: [http://oom.lt/FZKINDUCTORSMLNEOSIDAIRCOILSML61TURNHAM631AHAM131A](http://oom.lt/FZKINDUCTORSMLNEOSIDAIRCOILSML61TURNHAM631AHAM131A)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Inductor_SMD+:+L_Neosid_Air-Coil_SML_6-10turn_HAM0631A-HAM1031A)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Inductor_SMD+:+L_Neosid_Air-Coil_SML_6-10turn_HAM0631A-HAM1031A)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Inductor_SMD+:+L_Neosid_Air-Coil_SML_6-10turn_HAM0631A-HAM1031A)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Inductor_SMD+:+L_Neosid_Air-Coil_SML_6-10turn_HAM0631A-HAM1031A)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Inductor_SMD+:+L_Neosid_Air-Coil_SML_6-10turn_HAM0631A-HAM1031A)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Inductor_SMD+:+L_Neosid_Air-Coil_SML_6-10turn_HAM0631A-HAM1031A)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Neosid_Air-Coil_SML_6-10turn_HAM0631A-HAM1031A/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Neosid_Air-Coil_SML_6-10turn_HAM0631A-HAM1031A/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Neosid_Air-Coil_SML_6-10turn_HAM0631A-HAM1031A/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Neosid_Air-Coil_SML_6-10turn_HAM0631A-HAM1031A/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Neosid_Air-Coil_SML_6-10turn_HAM0631A-HAM1031A/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Neosid_Air-Coil_SML_6-10turn_HAM0631A-HAM1031A/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Neosid_Air-Coil_SML_6-10turn_HAM0631A-HAM1031A/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Neosid_Air-Coil_SML_6-10turn_HAM0631A-HAM1031A/kicadPcb3dBack.png)|

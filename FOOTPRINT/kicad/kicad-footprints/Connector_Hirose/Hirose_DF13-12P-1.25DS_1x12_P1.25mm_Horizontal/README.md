@@ -6,6 +6,8 @@ Contents
 ========
 
 * [FZKCNHIROSEHIROSEDF1312P125DS1X12P125HORIZONTAL > Connector_Hirose : Hirose_DF13-12P-1.25DS_1x12_P1.25mm_Horizontal](#fzkcnhirosehirosedf1312p125ds1x12p125horizontal--connector_hirose--hirose_df13-12p-125ds_1x12_p125mm_horizontal)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +19,18 @@ Contents
 - Description: Connector_Hirose : Hirose_DF13-12P-1.25DS_1x12_P1.25mm_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Hirose-Hirose_DF13-12P-1.25DS_1x12_P1.25mm_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Hirose-Hirose_DF13-12P-1.25DS_1x12_P1.25mm_Horizontal)
 - Short Link: [http://oom.lt/FZKCNHIROSEHIROSEDF1312P125DS1X12P125HORIZONTAL](http://oom.lt/FZKCNHIROSEHIROSEDF1312P125DS1X12P125HORIZONTAL)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Connector_Hirose+:+Hirose_DF13-12P-1.25DS_1x12_P1.25mm_Horizontal)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Connector_Hirose+:+Hirose_DF13-12P-1.25DS_1x12_P1.25mm_Horizontal)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Connector_Hirose+:+Hirose_DF13-12P-1.25DS_1x12_P1.25mm_Horizontal)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Connector_Hirose+:+Hirose_DF13-12P-1.25DS_1x12_P1.25mm_Horizontal)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Connector_Hirose+:+Hirose_DF13-12P-1.25DS_1x12_P1.25mm_Horizontal)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Connector_Hirose+:+Hirose_DF13-12P-1.25DS_1x12_P1.25mm_Horizontal)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Hirose/Hirose_DF13-12P-1.25DS_1x12_P1.25mm_Horizontal/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Hirose/Hirose_DF13-12P-1.25DS_1x12_P1.25mm_Horizontal/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Hirose/Hirose_DF13-12P-1.25DS_1x12_P1.25mm_Horizontal/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Hirose/Hirose_DF13-12P-1.25DS_1x12_P1.25mm_Horizontal/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Hirose/Hirose_DF13-12P-1.25DS_1x12_P1.25mm_Horizontal/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Hirose/Hirose_DF13-12P-1.25DS_1x12_P1.25mm_Horizontal/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Hirose/Hirose_DF13-12P-1.25DS_1x12_P1.25mm_Horizontal/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Hirose/Hirose_DF13-12P-1.25DS_1x12_P1.25mm_Horizontal/kicadPcb3dBack.png)|

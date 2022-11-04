@@ -6,6 +6,8 @@ Contents
 ========
 
 * [FZKSZSYCCATTRIBUTIONCTOPSLL > Symbol : Symbol_CC-Attribution_CopperTop_Small](#fzkszsyccattributionctopsll--symbol--symbol_cc-attribution_coppertop_small)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +19,18 @@ Contents
 - Description: Symbol : Symbol_CC-Attribution_CopperTop_Small
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Symbol-Symbol_CC-Attribution_CopperTop_Small](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Symbol-Symbol_CC-Attribution_CopperTop_Small)
 - Short Link: [http://oom.lt/FZKSZSYCCATTRIBUTIONCTOPSLL](http://oom.lt/FZKSZSYCCATTRIBUTIONCTOPSLL)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Symbol+:+Symbol_CC-Attribution_CopperTop_Small)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Symbol+:+Symbol_CC-Attribution_CopperTop_Small)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Symbol+:+Symbol_CC-Attribution_CopperTop_Small)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Symbol+:+Symbol_CC-Attribution_CopperTop_Small)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Symbol+:+Symbol_CC-Attribution_CopperTop_Small)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Symbol+:+Symbol_CC-Attribution_CopperTop_Small)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Symbol/Symbol_CC-Attribution_CopperTop_Small/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Symbol/Symbol_CC-Attribution_CopperTop_Small/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Symbol/Symbol_CC-Attribution_CopperTop_Small/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Symbol/Symbol_CC-Attribution_CopperTop_Small/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Symbol/Symbol_CC-Attribution_CopperTop_Small/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Symbol/Symbol_CC-Attribution_CopperTop_Small/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Symbol/Symbol_CC-Attribution_CopperTop_Small/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Symbol/Symbol_CC-Attribution_CopperTop_Small/kicadPcb3dBack.png)|

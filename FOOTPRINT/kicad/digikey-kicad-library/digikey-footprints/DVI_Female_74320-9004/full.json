@@ -1,13 +1,4 @@
 {
-    "code": [],
-    "collection": [],
-    "description": [],
-    "distributorPartNumber": [],
-    "eagleBoard": [],
-    "eagleSchem": [],
-    "footprintEagle": [],
-    "footprintEagleDetails": [],
-    "footprintKicad": [],
     "footprintKicadDetails": [
         {
             "attributeType": null,
@@ -19,15 +10,9 @@
             "tags": null
         }
     ],
-    "gitName": [],
-    "gitRepo": [],
     "hexID": [
         "FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSDVIFEMALE743294"
     ],
-    "kicadBoard": [],
-    "kicadSchem": [],
-    "manufacturerPartNumber": [],
-    "matchSpecial": [],
     "name": [
         "digikey-footprints : DVI_Female_74320-9004"
     ],
@@ -84,18 +69,10 @@
     "oompIndex": [
         "DVI_Female_74320-9004"
     ],
-    "oompInstances": [],
-    "oompParts": [],
     "oompSize": [
         "kicad"
     ],
     "oompType": [
         "FOOTPRINT"
-    ],
-    "oplPartNumber": [],
-    "rawParts": [],
-    "symbolEagle": [],
-    "symbolEagleDetails": [],
-    "symbolKicad": [],
-    "symbolKicadDetails": []
+    ]
 }

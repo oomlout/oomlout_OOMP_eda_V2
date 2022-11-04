@@ -1,13 +1,4 @@
 {
-    "code": [],
-    "collection": [],
-    "description": [],
-    "distributorPartNumber": [],
-    "eagleBoard": [],
-    "eagleSchem": [],
-    "footprintEagle": [],
-    "footprintEagleDetails": [],
-    "footprintKicad": [],
     "footprintKicadDetails": [
         {
             "attributeType": "smd",
@@ -20,15 +11,9 @@
             "tags": null
         }
     ],
-    "gitName": [],
-    "gitRepo": [],
     "hexID": [
         "FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSTFLGA163X325"
     ],
-    "kicadBoard": [],
-    "kicadSchem": [],
-    "manufacturerPartNumber": [],
-    "matchSpecial": [],
     "name": [
         "digikey-footprints : TFLGA-16_3x3.25mm"
     ],
@@ -85,18 +70,10 @@
     "oompIndex": [
         "TFLGA-16_3x3.25mm"
     ],
-    "oompInstances": [],
-    "oompParts": [],
     "oompSize": [
         "kicad"
     ],
     "oompType": [
         "FOOTPRINT"
-    ],
-    "oplPartNumber": [],
-    "rawParts": [],
-    "symbolEagle": [],
-    "symbolEagleDetails": [],
-    "symbolKicad": [],
-    "symbolKicadDetails": []
+    ]
 }

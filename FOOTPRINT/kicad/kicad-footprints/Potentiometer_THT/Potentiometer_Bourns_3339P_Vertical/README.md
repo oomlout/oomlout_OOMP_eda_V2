@@ -6,6 +6,8 @@ Contents
 ========
 
 * [FZKPPOTENTIOMETERBOURNS3339PVERTICAL > Potentiometer_THT : Potentiometer_Bourns_3339P_Vertical](#fzkppotentiometerbourns3339pvertical--potentiometer_tht--potentiometer_bourns_3339p_vertical)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +19,18 @@ Contents
 - Description: Potentiometer_THT : Potentiometer_Bourns_3339P_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Potentiometer_THT-Potentiometer_Bourns_3339P_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Potentiometer_THT-Potentiometer_Bourns_3339P_Vertical)
 - Short Link: [http://oom.lt/FZKPPOTENTIOMETERBOURNS3339PVERTICAL](http://oom.lt/FZKPPOTENTIOMETERBOURNS3339PVERTICAL)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Potentiometer_THT+:+Potentiometer_Bourns_3339P_Vertical)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Potentiometer_THT+:+Potentiometer_Bourns_3339P_Vertical)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Potentiometer_THT+:+Potentiometer_Bourns_3339P_Vertical)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Potentiometer_THT+:+Potentiometer_Bourns_3339P_Vertical)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Potentiometer_THT+:+Potentiometer_Bourns_3339P_Vertical)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Potentiometer_THT+:+Potentiometer_Bourns_3339P_Vertical)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Potentiometer_THT/Potentiometer_Bourns_3339P_Vertical/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Potentiometer_THT/Potentiometer_Bourns_3339P_Vertical/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Potentiometer_THT/Potentiometer_Bourns_3339P_Vertical/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Potentiometer_THT/Potentiometer_Bourns_3339P_Vertical/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Potentiometer_THT/Potentiometer_Bourns_3339P_Vertical/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Potentiometer_THT/Potentiometer_Bourns_3339P_Vertical/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Potentiometer_THT/Potentiometer_Bourns_3339P_Vertical/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Potentiometer_THT/Potentiometer_Bourns_3339P_Vertical/kicadPcb3dBack.png)|

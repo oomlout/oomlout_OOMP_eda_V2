@@ -6,6 +6,8 @@ Contents
 ========
 
 * [FZKDFNMLF61EP16X16P5EP5X126 > Package_DFN_QFN : MLF-6-1EP_1.6x1.6mm_P0.5mm_EP0.5x1.26mm](#fzkdfnmlf61ep16x16p5ep5x126--package_dfn_qfn--mlf-6-1ep_16x16mm_p05mm_ep05x126mm)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +19,18 @@ Contents
 - Description: Package_DFN_QFN : MLF-6-1EP_1.6x1.6mm_P0.5mm_EP0.5x1.26mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-MLF-6-1EP_1.6x1.6mm_P0.5mm_EP0.5x1.26mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-MLF-6-1EP_1.6x1.6mm_P0.5mm_EP0.5x1.26mm)
 - Short Link: [http://oom.lt/FZKDFNMLF61EP16X16P5EP5X126](http://oom.lt/FZKDFNMLF61EP16X16P5EP5X126)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Package_DFN_QFN+:+MLF-6-1EP_1.6x1.6mm_P0.5mm_EP0.5x1.26mm)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Package_DFN_QFN+:+MLF-6-1EP_1.6x1.6mm_P0.5mm_EP0.5x1.26mm)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Package_DFN_QFN+:+MLF-6-1EP_1.6x1.6mm_P0.5mm_EP0.5x1.26mm)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Package_DFN_QFN+:+MLF-6-1EP_1.6x1.6mm_P0.5mm_EP0.5x1.26mm)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Package_DFN_QFN+:+MLF-6-1EP_1.6x1.6mm_P0.5mm_EP0.5x1.26mm)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Package_DFN_QFN+:+MLF-6-1EP_1.6x1.6mm_P0.5mm_EP0.5x1.26mm)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/MLF-6-1EP_1.6x1.6mm_P0.5mm_EP0.5x1.26mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/MLF-6-1EP_1.6x1.6mm_P0.5mm_EP0.5x1.26mm/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/MLF-6-1EP_1.6x1.6mm_P0.5mm_EP0.5x1.26mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/MLF-6-1EP_1.6x1.6mm_P0.5mm_EP0.5x1.26mm/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/MLF-6-1EP_1.6x1.6mm_P0.5mm_EP0.5x1.26mm/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/MLF-6-1EP_1.6x1.6mm_P0.5mm_EP0.5x1.26mm/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/MLF-6-1EP_1.6x1.6mm_P0.5mm_EP0.5x1.26mm/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/MLF-6-1EP_1.6x1.6mm_P0.5mm_EP0.5x1.26mm/kicadPcb3dBack.png)|

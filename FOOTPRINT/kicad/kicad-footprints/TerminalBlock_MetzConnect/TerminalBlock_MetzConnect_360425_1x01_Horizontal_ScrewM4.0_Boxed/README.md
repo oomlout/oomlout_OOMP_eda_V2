@@ -6,6 +6,8 @@ Contents
 ========
 
 * [FZKTBMETZCONNECTTBMETZCONNECT364251X1HORIZONTALSCREWM4BOXED > TerminalBlock_MetzConnect : TerminalBlock_MetzConnect_360425_1x01_Horizontal_ScrewM4.0_Boxed](#fzktbmetzconnecttbmetzconnect364251x1horizontalscrewm4boxed--terminalblock_metzconnect--terminalblock_metzconnect_360425_1x01_horizontal_screwm40_boxed)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +19,18 @@ Contents
 - Description: TerminalBlock_MetzConnect : TerminalBlock_MetzConnect_360425_1x01_Horizontal_ScrewM4.0_Boxed
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-TerminalBlock_MetzConnect-TerminalBlock_MetzConnect_360425_1x01_Horizontal_ScrewM4.0_Boxed](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-TerminalBlock_MetzConnect-TerminalBlock_MetzConnect_360425_1x01_Horizontal_ScrewM4.0_Boxed)
 - Short Link: [http://oom.lt/FZKTBMETZCONNECTTBMETZCONNECT364251X1HORIZONTALSCREWM4BOXED](http://oom.lt/FZKTBMETZCONNECTTBMETZCONNECT364251X1HORIZONTALSCREWM4BOXED)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117TerminalBlock_MetzConnect+:+TerminalBlock_MetzConnect_360425_1x01_Horizontal_ScrewM4.0_Boxed)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/TerminalBlock_MetzConnect+:+TerminalBlock_MetzConnect_360425_1x01_Horizontal_ScrewM4.0_Boxed)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=TerminalBlock_MetzConnect+:+TerminalBlock_MetzConnect_360425_1x01_Horizontal_ScrewM4.0_Boxed)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=TerminalBlock_MetzConnect+:+TerminalBlock_MetzConnect_360425_1x01_Horizontal_ScrewM4.0_Boxed)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=TerminalBlock_MetzConnect+:+TerminalBlock_MetzConnect_360425_1x01_Horizontal_ScrewM4.0_Boxed)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=TerminalBlock_MetzConnect+:+TerminalBlock_MetzConnect_360425_1x01_Horizontal_ScrewM4.0_Boxed)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/TerminalBlock_MetzConnect/TerminalBlock_MetzConnect_360425_1x01_Horizontal_ScrewM4.0_Boxed/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/TerminalBlock_MetzConnect/TerminalBlock_MetzConnect_360425_1x01_Horizontal_ScrewM4.0_Boxed/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/TerminalBlock_MetzConnect/TerminalBlock_MetzConnect_360425_1x01_Horizontal_ScrewM4.0_Boxed/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/TerminalBlock_MetzConnect/TerminalBlock_MetzConnect_360425_1x01_Horizontal_ScrewM4.0_Boxed/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/TerminalBlock_MetzConnect/TerminalBlock_MetzConnect_360425_1x01_Horizontal_ScrewM4.0_Boxed/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/TerminalBlock_MetzConnect/TerminalBlock_MetzConnect_360425_1x01_Horizontal_ScrewM4.0_Boxed/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/TerminalBlock_MetzConnect/TerminalBlock_MetzConnect_360425_1x01_Horizontal_ScrewM4.0_Boxed/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/TerminalBlock_MetzConnect/TerminalBlock_MetzConnect_360425_1x01_Horizontal_ScrewM4.0_Boxed/kicadPcb3dBack.png)|

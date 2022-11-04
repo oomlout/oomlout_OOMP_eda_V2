@@ -6,6 +6,8 @@ Contents
 ========
 
 * [FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSXBEEANDXBEEPRO37SM > digikey-footprints : XBEE_and_XBEE-PRO_37_SMD](#fzkicaddigikeykicadlibrarydigikeyfootprintsxbeeandxbeepro37sm--digikey-footprints--xbee_and_xbee-pro_37_smd)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +19,18 @@ Contents
 - Description: digikey-footprints : XBEE_and_XBEE-PRO_37_SMD
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-XBEE_and_XBEE-PRO_37_SMD](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-XBEE_and_XBEE-PRO_37_SMD)
 - Short Link: [http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSXBEEANDXBEEPRO37SM](http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSXBEEANDXBEEPRO37SM)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117digikey-footprints+:+XBEE_and_XBEE-PRO_37_SMD)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/digikey-footprints+:+XBEE_and_XBEE-PRO_37_SMD)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=digikey-footprints+:+XBEE_and_XBEE-PRO_37_SMD)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=digikey-footprints+:+XBEE_and_XBEE-PRO_37_SMD)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=digikey-footprints+:+XBEE_and_XBEE-PRO_37_SMD)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=digikey-footprints+:+XBEE_and_XBEE-PRO_37_SMD)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/XBEE_and_XBEE-PRO_37_SMD/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/XBEE_and_XBEE-PRO_37_SMD/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/XBEE_and_XBEE-PRO_37_SMD/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/XBEE_and_XBEE-PRO_37_SMD/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/XBEE_and_XBEE-PRO_37_SMD/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/XBEE_and_XBEE-PRO_37_SMD/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/XBEE_and_XBEE-PRO_37_SMD/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/XBEE_and_XBEE-PRO_37_SMD/kicadPcb3dBack.png)|

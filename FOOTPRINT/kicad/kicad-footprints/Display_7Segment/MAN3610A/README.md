@@ -6,6 +6,8 @@ Contents
 ========
 
 * [FZKDI7SMAN361A > Display_7Segment : MAN3610A](#fzkdi7sman361a--display_7segment--man3610a)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +19,18 @@ Contents
 - Description: Display_7Segment : MAN3610A
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Display_7Segment-MAN3610A](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Display_7Segment-MAN3610A)
 - Short Link: [http://oom.lt/FZKDI7SMAN361A](http://oom.lt/FZKDI7SMAN361A)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Display_7Segment+:+MAN3610A)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Display_7Segment+:+MAN3610A)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Display_7Segment+:+MAN3610A)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Display_7Segment+:+MAN3610A)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Display_7Segment+:+MAN3610A)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Display_7Segment+:+MAN3610A)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Display_7Segment/MAN3610A/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Display_7Segment/MAN3610A/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Display_7Segment/MAN3610A/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Display_7Segment/MAN3610A/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Display_7Segment/MAN3610A/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Display_7Segment/MAN3610A/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Display_7Segment/MAN3610A/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Display_7Segment/MAN3610A/kicadPcb3dBack.png)|

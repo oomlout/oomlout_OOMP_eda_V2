@@ -6,6 +6,8 @@ Contents
 ========
 
 * [FZKLLSIDEEMITTERRW45H16 > LED_THT : LED_SideEmitter_Rectangular_W4.5mm_H1.6mm](#fzkllsideemitterrw45h16--led_tht--led_sideemitter_rectangular_w45mm_h16mm)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +19,18 @@ Contents
 - Description: LED_THT : LED_SideEmitter_Rectangular_W4.5mm_H1.6mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-LED_THT-LED_SideEmitter_Rectangular_W4.5mm_H1.6mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-LED_THT-LED_SideEmitter_Rectangular_W4.5mm_H1.6mm)
 - Short Link: [http://oom.lt/FZKLLSIDEEMITTERRW45H16](http://oom.lt/FZKLLSIDEEMITTERRW45H16)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117LED_THT+:+LED_SideEmitter_Rectangular_W4.5mm_H1.6mm)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/LED_THT+:+LED_SideEmitter_Rectangular_W4.5mm_H1.6mm)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=LED_THT+:+LED_SideEmitter_Rectangular_W4.5mm_H1.6mm)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=LED_THT+:+LED_SideEmitter_Rectangular_W4.5mm_H1.6mm)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=LED_THT+:+LED_SideEmitter_Rectangular_W4.5mm_H1.6mm)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=LED_THT+:+LED_SideEmitter_Rectangular_W4.5mm_H1.6mm)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/LED_THT/LED_SideEmitter_Rectangular_W4.5mm_H1.6mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/LED_THT/LED_SideEmitter_Rectangular_W4.5mm_H1.6mm/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/LED_THT/LED_SideEmitter_Rectangular_W4.5mm_H1.6mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/LED_THT/LED_SideEmitter_Rectangular_W4.5mm_H1.6mm/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/LED_THT/LED_SideEmitter_Rectangular_W4.5mm_H1.6mm/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/LED_THT/LED_SideEmitter_Rectangular_W4.5mm_H1.6mm/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/LED_THT/LED_SideEmitter_Rectangular_W4.5mm_H1.6mm/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/LED_THT/LED_SideEmitter_Rectangular_W4.5mm_H1.6mm/kicadPcb3dBack.png)|

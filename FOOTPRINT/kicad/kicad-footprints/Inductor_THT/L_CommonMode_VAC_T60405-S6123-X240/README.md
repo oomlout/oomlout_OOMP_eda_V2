@@ -6,6 +6,8 @@ Contents
 ========
 
 * [FZKINLCOONMODEVACT645S6123X24 > Inductor_THT : L_CommonMode_VAC_T60405-S6123-X240](#fzkinlcoonmodevact645s6123x24--inductor_tht--l_commonmode_vac_t60405-s6123-x240)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +19,18 @@ Contents
 - Description: Inductor_THT : L_CommonMode_VAC_T60405-S6123-X240
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_CommonMode_VAC_T60405-S6123-X240](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_CommonMode_VAC_T60405-S6123-X240)
 - Short Link: [http://oom.lt/FZKINLCOONMODEVACT645S6123X24](http://oom.lt/FZKINLCOONMODEVACT645S6123X24)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Inductor_THT+:+L_CommonMode_VAC_T60405-S6123-X240)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Inductor_THT+:+L_CommonMode_VAC_T60405-S6123-X240)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Inductor_THT+:+L_CommonMode_VAC_T60405-S6123-X240)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Inductor_THT+:+L_CommonMode_VAC_T60405-S6123-X240)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Inductor_THT+:+L_CommonMode_VAC_T60405-S6123-X240)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Inductor_THT+:+L_CommonMode_VAC_T60405-S6123-X240)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_CommonMode_VAC_T60405-S6123-X240/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_CommonMode_VAC_T60405-S6123-X240/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_CommonMode_VAC_T60405-S6123-X240/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_CommonMode_VAC_T60405-S6123-X240/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_CommonMode_VAC_T60405-S6123-X240/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_CommonMode_VAC_T60405-S6123-X240/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_CommonMode_VAC_T60405-S6123-X240/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_CommonMode_VAC_T60405-S6123-X240/kicadPcb3dBack.png)|

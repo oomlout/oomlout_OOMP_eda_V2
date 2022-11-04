@@ -6,6 +6,8 @@ Contents
 ========
 
 * [FZKRFMCIRCUITSQQQ13CLWISEPINNUMBERING > RF_Mini-Circuits : Mini-Circuits_QQQ130_ClockwisePinNumbering](#fzkrfmcircuitsqqq13clwisepinnumbering--rf_mini-circuits--mini-circuits_qqq130_clockwisepinnumbering)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +19,18 @@ Contents
 - Description: RF_Mini-Circuits : Mini-Circuits_QQQ130_ClockwisePinNumbering
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_Mini-Circuits-Mini-Circuits_QQQ130_ClockwisePinNumbering](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_Mini-Circuits-Mini-Circuits_QQQ130_ClockwisePinNumbering)
 - Short Link: [http://oom.lt/FZKRFMCIRCUITSQQQ13CLWISEPINNUMBERING](http://oom.lt/FZKRFMCIRCUITSQQQ13CLWISEPINNUMBERING)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117RF_Mini-Circuits+:+Mini-Circuits_QQQ130_ClockwisePinNumbering)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/RF_Mini-Circuits+:+Mini-Circuits_QQQ130_ClockwisePinNumbering)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=RF_Mini-Circuits+:+Mini-Circuits_QQQ130_ClockwisePinNumbering)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=RF_Mini-Circuits+:+Mini-Circuits_QQQ130_ClockwisePinNumbering)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=RF_Mini-Circuits+:+Mini-Circuits_QQQ130_ClockwisePinNumbering)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=RF_Mini-Circuits+:+Mini-Circuits_QQQ130_ClockwisePinNumbering)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/RF_Mini-Circuits/Mini-Circuits_QQQ130_ClockwisePinNumbering/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/RF_Mini-Circuits/Mini-Circuits_QQQ130_ClockwisePinNumbering/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/RF_Mini-Circuits/Mini-Circuits_QQQ130_ClockwisePinNumbering/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/RF_Mini-Circuits/Mini-Circuits_QQQ130_ClockwisePinNumbering/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/RF_Mini-Circuits/Mini-Circuits_QQQ130_ClockwisePinNumbering/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/RF_Mini-Circuits/Mini-Circuits_QQQ130_ClockwisePinNumbering/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/RF_Mini-Circuits/Mini-Circuits_QQQ130_ClockwisePinNumbering/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/RF_Mini-Circuits/Mini-Circuits_QQQ130_ClockwisePinNumbering/kicadPcb3dBack.png)|

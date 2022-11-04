@@ -6,6 +6,8 @@ Contents
 ========
 
 * [FZKOPBROADCOMAFBR16XXZHORIZONTAL > OptoDevice : Broadcom_AFBR-16xxZ_Horizontal](#fzkopbroadcomafbr16xxzhorizontal--optodevice--broadcom_afbr-16xxz_horizontal)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +19,18 @@ Contents
 - Description: OptoDevice : Broadcom_AFBR-16xxZ_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-OptoDevice-Broadcom_AFBR-16xxZ_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-OptoDevice-Broadcom_AFBR-16xxZ_Horizontal)
 - Short Link: [http://oom.lt/FZKOPBROADCOMAFBR16XXZHORIZONTAL](http://oom.lt/FZKOPBROADCOMAFBR16XXZHORIZONTAL)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117OptoDevice+:+Broadcom_AFBR-16xxZ_Horizontal)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/OptoDevice+:+Broadcom_AFBR-16xxZ_Horizontal)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=OptoDevice+:+Broadcom_AFBR-16xxZ_Horizontal)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=OptoDevice+:+Broadcom_AFBR-16xxZ_Horizontal)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=OptoDevice+:+Broadcom_AFBR-16xxZ_Horizontal)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=OptoDevice+:+Broadcom_AFBR-16xxZ_Horizontal)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/OptoDevice/Broadcom_AFBR-16xxZ_Horizontal/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/OptoDevice/Broadcom_AFBR-16xxZ_Horizontal/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/OptoDevice/Broadcom_AFBR-16xxZ_Horizontal/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/OptoDevice/Broadcom_AFBR-16xxZ_Horizontal/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/OptoDevice/Broadcom_AFBR-16xxZ_Horizontal/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/OptoDevice/Broadcom_AFBR-16xxZ_Horizontal/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/OptoDevice/Broadcom_AFBR-16xxZ_Horizontal/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/OptoDevice/Broadcom_AFBR-16xxZ_Horizontal/kicadPcb3dBack.png)|

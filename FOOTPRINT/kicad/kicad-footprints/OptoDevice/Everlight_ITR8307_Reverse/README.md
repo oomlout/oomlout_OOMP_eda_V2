@@ -6,6 +6,8 @@ Contents
 ========
 
 * [FZKOPEVERLIGHTITR837R > OptoDevice : Everlight_ITR8307_Reverse](#fzkopeverlightitr837r--optodevice--everlight_itr8307_reverse)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +19,18 @@ Contents
 - Description: OptoDevice : Everlight_ITR8307_Reverse
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-OptoDevice-Everlight_ITR8307_Reverse](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-OptoDevice-Everlight_ITR8307_Reverse)
 - Short Link: [http://oom.lt/FZKOPEVERLIGHTITR837R](http://oom.lt/FZKOPEVERLIGHTITR837R)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117OptoDevice+:+Everlight_ITR8307_Reverse)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/OptoDevice+:+Everlight_ITR8307_Reverse)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=OptoDevice+:+Everlight_ITR8307_Reverse)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=OptoDevice+:+Everlight_ITR8307_Reverse)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=OptoDevice+:+Everlight_ITR8307_Reverse)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=OptoDevice+:+Everlight_ITR8307_Reverse)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/OptoDevice/Everlight_ITR8307_Reverse/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/OptoDevice/Everlight_ITR8307_Reverse/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/OptoDevice/Everlight_ITR8307_Reverse/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/OptoDevice/Everlight_ITR8307_Reverse/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/OptoDevice/Everlight_ITR8307_Reverse/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/OptoDevice/Everlight_ITR8307_Reverse/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/OptoDevice/Everlight_ITR8307_Reverse/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/OptoDevice/Everlight_ITR8307_Reverse/kicadPcb3dBack.png)|

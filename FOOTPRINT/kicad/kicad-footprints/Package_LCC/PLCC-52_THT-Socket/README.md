@@ -6,6 +6,8 @@ Contents
 ========
 
 * [FZKLCCPLCC52THTSO > Package_LCC : PLCC-52_THT-Socket](#fzklccplcc52thtso--package_lcc--plcc-52_tht-socket)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +19,18 @@ Contents
 - Description: Package_LCC : PLCC-52_THT-Socket
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_LCC-PLCC-52_THT-Socket](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_LCC-PLCC-52_THT-Socket)
 - Short Link: [http://oom.lt/FZKLCCPLCC52THTSO](http://oom.lt/FZKLCCPLCC52THTSO)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Package_LCC+:+PLCC-52_THT-Socket)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Package_LCC+:+PLCC-52_THT-Socket)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Package_LCC+:+PLCC-52_THT-Socket)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Package_LCC+:+PLCC-52_THT-Socket)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Package_LCC+:+PLCC-52_THT-Socket)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Package_LCC+:+PLCC-52_THT-Socket)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_LCC/PLCC-52_THT-Socket/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_LCC/PLCC-52_THT-Socket/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_LCC/PLCC-52_THT-Socket/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_LCC/PLCC-52_THT-Socket/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_LCC/PLCC-52_THT-Socket/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_LCC/PLCC-52_THT-Socket/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_LCC/PLCC-52_THT-Socket/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_LCC/PLCC-52_THT-Socket/kicadPcb3dBack.png)|

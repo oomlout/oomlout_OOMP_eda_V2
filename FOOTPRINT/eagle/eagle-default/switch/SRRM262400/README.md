@@ -1,0 +1,49 @@
+
+
+
+
+Contents
+========
+
+* [FZESWITCHSRRM2624 > switch : SRRM262400](#fzeswitchsrrm2624--switch--srrm262400)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
+	* [Tags](#tags)
+  
+NO IMAGE  
+# FZESWITCHSRRM2624 > switch : SRRM262400
+
+- ID: FOOTPRINT-eagle-eagle-default-switch-SRRM262400
+- Hex ID: FZESWITCHSRRM2624
+- Name: switch : SRRM262400
+- Description: switch : SRRM262400
+- Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-SRRM262400](http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-SRRM262400)
+- Short Link: [http://oom.lt/FZESWITCHSRRM2624](http://oom.lt/FZESWITCHSRRM2624)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117switch+:+SRRM262400)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/switch+:+SRRM262400)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=switch+:+SRRM262400)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=switch+:+SRRM262400)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=switch+:+SRRM262400)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=switch+:+SRRM262400)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
+  
+NO IMAGES  
+## Tags
+  
+
+|Tag Name|Tag Code|Tag Value|
+| :--- | :--- | :--- |
+|OOMP Type|oompType|FOOTPRINT|
+|OOMP Size|oompSize|eagle|
+|OOMP Color|oompColor|eagle-default|
+|OOMP Description|oompDesc|switch|
+|OOMP Index|oompIndex|SRRM262400|
+|Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-switch-SRRM262400|
+|Hex ID (short code)|hexID|FZESWITCHSRRM2624|
+|name|name|switch : SRRM262400|
+||||

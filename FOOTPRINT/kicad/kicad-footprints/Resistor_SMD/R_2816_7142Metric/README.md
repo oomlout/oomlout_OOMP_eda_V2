@@ -6,6 +6,8 @@ Contents
 ========
 
 * [FZKRESISTORSMR28167142METRIC > Resistor_SMD : R_2816_7142Metric](#fzkresistorsmr28167142metric--resistor_smd--r_2816_7142metric)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +19,18 @@ Contents
 - Description: Resistor_SMD : R_2816_7142Metric
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_2816_7142Metric](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_2816_7142Metric)
 - Short Link: [http://oom.lt/FZKRESISTORSMR28167142METRIC](http://oom.lt/FZKRESISTORSMR28167142METRIC)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Resistor_SMD+:+R_2816_7142Metric)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Resistor_SMD+:+R_2816_7142Metric)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Resistor_SMD+:+R_2816_7142Metric)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Resistor_SMD+:+R_2816_7142Metric)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Resistor_SMD+:+R_2816_7142Metric)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Resistor_SMD+:+R_2816_7142Metric)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_2816_7142Metric/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_2816_7142Metric/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_2816_7142Metric/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_2816_7142Metric/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_2816_7142Metric/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_2816_7142Metric/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_2816_7142Metric/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_2816_7142Metric/kicadPcb3dBack.png)|

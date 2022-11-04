@@ -6,6 +6,8 @@ Contents
 ========
 
 * [FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSOCSMEMSSIT1533AIH4DCC32768E > digikey-footprints : Oscillator_MEMS_SIT1533AI-H4-DCC-32.768E](#fzkicaddigikeykicadlibrarydigikeyfootprintsocsmemssit1533aih4dcc32768e--digikey-footprints--oscillator_mems_sit1533ai-h4-dcc-32768e)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +19,18 @@ Contents
 - Description: digikey-footprints : Oscillator_MEMS_SIT1533AI-H4-DCC-32.768E
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Oscillator_MEMS_SIT1533AI-H4-DCC-32.768E](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Oscillator_MEMS_SIT1533AI-H4-DCC-32.768E)
 - Short Link: [http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSOCSMEMSSIT1533AIH4DCC32768E](http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSOCSMEMSSIT1533AIH4DCC32768E)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117digikey-footprints+:+Oscillator_MEMS_SIT1533AI-H4-DCC-32.768E)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/digikey-footprints+:+Oscillator_MEMS_SIT1533AI-H4-DCC-32.768E)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=digikey-footprints+:+Oscillator_MEMS_SIT1533AI-H4-DCC-32.768E)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=digikey-footprints+:+Oscillator_MEMS_SIT1533AI-H4-DCC-32.768E)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=digikey-footprints+:+Oscillator_MEMS_SIT1533AI-H4-DCC-32.768E)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=digikey-footprints+:+Oscillator_MEMS_SIT1533AI-H4-DCC-32.768E)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Oscillator_MEMS_SIT1533AI-H4-DCC-32.768E/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Oscillator_MEMS_SIT1533AI-H4-DCC-32.768E/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Oscillator_MEMS_SIT1533AI-H4-DCC-32.768E/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Oscillator_MEMS_SIT1533AI-H4-DCC-32.768E/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Oscillator_MEMS_SIT1533AI-H4-DCC-32.768E/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Oscillator_MEMS_SIT1533AI-H4-DCC-32.768E/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Oscillator_MEMS_SIT1533AI-H4-DCC-32.768E/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Oscillator_MEMS_SIT1533AI-H4-DCC-32.768E/kicadPcb3dBack.png)|

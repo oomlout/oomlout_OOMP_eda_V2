@@ -6,6 +6,8 @@ Contents
 ========
 
 * [FZKFUFUHOLDERCYLINDER63X32SCHURTER3182HORIZONTALOPEN > Fuse : Fuseholder_Cylinder-6.3x32mm_Schurter_0031-8002_Horizontal_Open](#fzkfufuholdercylinder63x32schurter3182horizontalopen--fuse--fuseholder_cylinder-63x32mm_schurter_0031-8002_horizontal_open)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +19,18 @@ Contents
 - Description: Fuse : Fuseholder_Cylinder-6.3x32mm_Schurter_0031-8002_Horizontal_Open
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Fuse-Fuseholder_Cylinder-6.3x32mm_Schurter_0031-8002_Horizontal_Open](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Fuse-Fuseholder_Cylinder-6.3x32mm_Schurter_0031-8002_Horizontal_Open)
 - Short Link: [http://oom.lt/FZKFUFUHOLDERCYLINDER63X32SCHURTER3182HORIZONTALOPEN](http://oom.lt/FZKFUFUHOLDERCYLINDER63X32SCHURTER3182HORIZONTALOPEN)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Fuse+:+Fuseholder_Cylinder-6.3x32mm_Schurter_0031-8002_Horizontal_Open)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Fuse+:+Fuseholder_Cylinder-6.3x32mm_Schurter_0031-8002_Horizontal_Open)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Fuse+:+Fuseholder_Cylinder-6.3x32mm_Schurter_0031-8002_Horizontal_Open)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Fuse+:+Fuseholder_Cylinder-6.3x32mm_Schurter_0031-8002_Horizontal_Open)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Fuse+:+Fuseholder_Cylinder-6.3x32mm_Schurter_0031-8002_Horizontal_Open)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Fuse+:+Fuseholder_Cylinder-6.3x32mm_Schurter_0031-8002_Horizontal_Open)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Fuse/Fuseholder_Cylinder-6.3x32mm_Schurter_0031-8002_Horizontal_Open/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Fuse/Fuseholder_Cylinder-6.3x32mm_Schurter_0031-8002_Horizontal_Open/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Fuse/Fuseholder_Cylinder-6.3x32mm_Schurter_0031-8002_Horizontal_Open/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Fuse/Fuseholder_Cylinder-6.3x32mm_Schurter_0031-8002_Horizontal_Open/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Fuse/Fuseholder_Cylinder-6.3x32mm_Schurter_0031-8002_Horizontal_Open/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Fuse/Fuseholder_Cylinder-6.3x32mm_Schurter_0031-8002_Horizontal_Open/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Fuse/Fuseholder_Cylinder-6.3x32mm_Schurter_0031-8002_Horizontal_Open/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Fuse/Fuseholder_Cylinder-6.3x32mm_Schurter_0031-8002_Horizontal_Open/kicadPcb3dBack.png)|

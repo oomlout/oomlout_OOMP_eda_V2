@@ -6,6 +6,8 @@ Contents
 ========
 
 * [FZKCNBARRELJBARRELJSWITCHCRAFTCONXALLRAPC1UHORIZONTAL > Connector_BarrelJack : BarrelJack_SwitchcraftConxall_RAPC10U_Horizontal](#fzkcnbarreljbarreljswitchcraftconxallrapc1uhorizontal--connector_barreljack--barreljack_switchcraftconxall_rapc10u_horizontal)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +19,18 @@ Contents
 - Description: Connector_BarrelJack : BarrelJack_SwitchcraftConxall_RAPC10U_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_BarrelJack-BarrelJack_SwitchcraftConxall_RAPC10U_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_BarrelJack-BarrelJack_SwitchcraftConxall_RAPC10U_Horizontal)
 - Short Link: [http://oom.lt/FZKCNBARRELJBARRELJSWITCHCRAFTCONXALLRAPC1UHORIZONTAL](http://oom.lt/FZKCNBARRELJBARRELJSWITCHCRAFTCONXALLRAPC1UHORIZONTAL)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Connector_BarrelJack+:+BarrelJack_SwitchcraftConxall_RAPC10U_Horizontal)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Connector_BarrelJack+:+BarrelJack_SwitchcraftConxall_RAPC10U_Horizontal)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Connector_BarrelJack+:+BarrelJack_SwitchcraftConxall_RAPC10U_Horizontal)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Connector_BarrelJack+:+BarrelJack_SwitchcraftConxall_RAPC10U_Horizontal)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Connector_BarrelJack+:+BarrelJack_SwitchcraftConxall_RAPC10U_Horizontal)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Connector_BarrelJack+:+BarrelJack_SwitchcraftConxall_RAPC10U_Horizontal)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_BarrelJack/BarrelJack_SwitchcraftConxall_RAPC10U_Horizontal/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_BarrelJack/BarrelJack_SwitchcraftConxall_RAPC10U_Horizontal/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_BarrelJack/BarrelJack_SwitchcraftConxall_RAPC10U_Horizontal/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_BarrelJack/BarrelJack_SwitchcraftConxall_RAPC10U_Horizontal/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_BarrelJack/BarrelJack_SwitchcraftConxall_RAPC10U_Horizontal/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_BarrelJack/BarrelJack_SwitchcraftConxall_RAPC10U_Horizontal/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_BarrelJack/BarrelJack_SwitchcraftConxall_RAPC10U_Horizontal/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_BarrelJack/BarrelJack_SwitchcraftConxall_RAPC10U_Horizontal/kicadPcb3dBack.png)|

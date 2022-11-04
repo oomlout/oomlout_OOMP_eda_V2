@@ -6,6 +6,8 @@ Contents
 ========
 
 * [FZKPPOTENTIOMETERALPSRK97SINGLEHORIZONTALSWITCH > Potentiometer_THT : Potentiometer_Alps_RK097_Single_Horizontal_Switch](#fzkppotentiometeralpsrk97singlehorizontalswitch--potentiometer_tht--potentiometer_alps_rk097_single_horizontal_switch)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +19,18 @@ Contents
 - Description: Potentiometer_THT : Potentiometer_Alps_RK097_Single_Horizontal_Switch
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Potentiometer_THT-Potentiometer_Alps_RK097_Single_Horizontal_Switch](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Potentiometer_THT-Potentiometer_Alps_RK097_Single_Horizontal_Switch)
 - Short Link: [http://oom.lt/FZKPPOTENTIOMETERALPSRK97SINGLEHORIZONTALSWITCH](http://oom.lt/FZKPPOTENTIOMETERALPSRK97SINGLEHORIZONTALSWITCH)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Potentiometer_THT+:+Potentiometer_Alps_RK097_Single_Horizontal_Switch)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Potentiometer_THT+:+Potentiometer_Alps_RK097_Single_Horizontal_Switch)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Potentiometer_THT+:+Potentiometer_Alps_RK097_Single_Horizontal_Switch)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Potentiometer_THT+:+Potentiometer_Alps_RK097_Single_Horizontal_Switch)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Potentiometer_THT+:+Potentiometer_Alps_RK097_Single_Horizontal_Switch)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Potentiometer_THT+:+Potentiometer_Alps_RK097_Single_Horizontal_Switch)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Potentiometer_THT/Potentiometer_Alps_RK097_Single_Horizontal_Switch/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Potentiometer_THT/Potentiometer_Alps_RK097_Single_Horizontal_Switch/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Potentiometer_THT/Potentiometer_Alps_RK097_Single_Horizontal_Switch/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Potentiometer_THT/Potentiometer_Alps_RK097_Single_Horizontal_Switch/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Potentiometer_THT/Potentiometer_Alps_RK097_Single_Horizontal_Switch/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Potentiometer_THT/Potentiometer_Alps_RK097_Single_Horizontal_Switch/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Potentiometer_THT/Potentiometer_Alps_RK097_Single_Horizontal_Switch/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Potentiometer_THT/Potentiometer_Alps_RK097_Single_Horizontal_Switch/kicadPcb3dBack.png)|

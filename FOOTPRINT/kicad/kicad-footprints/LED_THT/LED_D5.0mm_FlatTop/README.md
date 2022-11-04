@@ -6,6 +6,8 @@ Contents
 ========
 
 * [FZKLLD5FLATTOP > LED_THT : LED_D5.0mm_FlatTop](#fzklld5flattop--led_tht--led_d50mm_flattop)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +19,18 @@ Contents
 - Description: LED_THT : LED_D5.0mm_FlatTop
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-LED_THT-LED_D5.0mm_FlatTop](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-LED_THT-LED_D5.0mm_FlatTop)
 - Short Link: [http://oom.lt/FZKLLD5FLATTOP](http://oom.lt/FZKLLD5FLATTOP)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117LED_THT+:+LED_D5.0mm_FlatTop)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/LED_THT+:+LED_D5.0mm_FlatTop)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=LED_THT+:+LED_D5.0mm_FlatTop)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=LED_THT+:+LED_D5.0mm_FlatTop)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=LED_THT+:+LED_D5.0mm_FlatTop)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=LED_THT+:+LED_D5.0mm_FlatTop)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/LED_THT/LED_D5.0mm_FlatTop/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/LED_THT/LED_D5.0mm_FlatTop/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/LED_THT/LED_D5.0mm_FlatTop/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/LED_THT/LED_D5.0mm_FlatTop/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/LED_THT/LED_D5.0mm_FlatTop/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/LED_THT/LED_D5.0mm_FlatTop/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/LED_THT/LED_D5.0mm_FlatTop/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/LED_THT/LED_D5.0mm_FlatTop/kicadPcb3dBack.png)|

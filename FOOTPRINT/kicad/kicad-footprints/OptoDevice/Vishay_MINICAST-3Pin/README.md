@@ -6,6 +6,8 @@ Contents
 ========
 
 * [FZKOPVISHAYMCAST3PIN > OptoDevice : Vishay_MINICAST-3Pin](#fzkopvishaymcast3pin--optodevice--vishay_minicast-3pin)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +19,18 @@ Contents
 - Description: OptoDevice : Vishay_MINICAST-3Pin
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-OptoDevice-Vishay_MINICAST-3Pin](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-OptoDevice-Vishay_MINICAST-3Pin)
 - Short Link: [http://oom.lt/FZKOPVISHAYMCAST3PIN](http://oom.lt/FZKOPVISHAYMCAST3PIN)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117OptoDevice+:+Vishay_MINICAST-3Pin)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/OptoDevice+:+Vishay_MINICAST-3Pin)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=OptoDevice+:+Vishay_MINICAST-3Pin)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=OptoDevice+:+Vishay_MINICAST-3Pin)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=OptoDevice+:+Vishay_MINICAST-3Pin)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=OptoDevice+:+Vishay_MINICAST-3Pin)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/OptoDevice/Vishay_MINICAST-3Pin/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/OptoDevice/Vishay_MINICAST-3Pin/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/OptoDevice/Vishay_MINICAST-3Pin/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/OptoDevice/Vishay_MINICAST-3Pin/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/OptoDevice/Vishay_MINICAST-3Pin/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/OptoDevice/Vishay_MINICAST-3Pin/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/OptoDevice/Vishay_MINICAST-3Pin/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/OptoDevice/Vishay_MINICAST-3Pin/kicadPcb3dBack.png)|

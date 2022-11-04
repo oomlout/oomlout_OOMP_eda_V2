@@ -1,0 +1,12 @@
+
+
+
+
+# MPN Summary For: FZKBSWCHERRYMX2UPCB > Button_Switch_Keyboard : SW_Cherry_MX_2.00u_PCB
+
+## MPNs
+  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||

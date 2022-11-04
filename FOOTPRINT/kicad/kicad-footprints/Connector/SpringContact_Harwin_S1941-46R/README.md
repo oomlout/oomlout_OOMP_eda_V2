@@ -6,6 +6,8 @@ Contents
 ========
 
 * [FZKCNSPRINGCONTACTHARWINS194146R > Connector : SpringContact_Harwin_S1941-46R](#fzkcnspringcontactharwins194146r--connector--springcontact_harwin_s1941-46r)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +19,18 @@ Contents
 - Description: Connector : SpringContact_Harwin_S1941-46R
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector-SpringContact_Harwin_S1941-46R](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector-SpringContact_Harwin_S1941-46R)
 - Short Link: [http://oom.lt/FZKCNSPRINGCONTACTHARWINS194146R](http://oom.lt/FZKCNSPRINGCONTACTHARWINS194146R)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Connector+:+SpringContact_Harwin_S1941-46R)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Connector+:+SpringContact_Harwin_S1941-46R)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Connector+:+SpringContact_Harwin_S1941-46R)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Connector+:+SpringContact_Harwin_S1941-46R)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Connector+:+SpringContact_Harwin_S1941-46R)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Connector+:+SpringContact_Harwin_S1941-46R)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector/SpringContact_Harwin_S1941-46R/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector/SpringContact_Harwin_S1941-46R/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector/SpringContact_Harwin_S1941-46R/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector/SpringContact_Harwin_S1941-46R/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector/SpringContact_Harwin_S1941-46R/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector/SpringContact_Harwin_S1941-46R/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector/SpringContact_Harwin_S1941-46R/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector/SpringContact_Harwin_S1941-46R/kicadPcb3dBack.png)|

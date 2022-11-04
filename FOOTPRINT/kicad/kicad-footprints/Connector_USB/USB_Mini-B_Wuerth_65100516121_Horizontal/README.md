@@ -6,6 +6,8 @@ Contents
 ========
 
 * [FZKCNUUMBWUERTH651516121HORIZONTAL > Connector_USB : USB_Mini-B_Wuerth_65100516121_Horizontal](#fzkcnuumbwuerth651516121horizontal--connector_usb--usb_mini-b_wuerth_65100516121_horizontal)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +19,18 @@ Contents
 - Description: Connector_USB : USB_Mini-B_Wuerth_65100516121_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_Mini-B_Wuerth_65100516121_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_Mini-B_Wuerth_65100516121_Horizontal)
 - Short Link: [http://oom.lt/FZKCNUUMBWUERTH651516121HORIZONTAL](http://oom.lt/FZKCNUUMBWUERTH651516121HORIZONTAL)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Connector_USB+:+USB_Mini-B_Wuerth_65100516121_Horizontal)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Connector_USB+:+USB_Mini-B_Wuerth_65100516121_Horizontal)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Connector_USB+:+USB_Mini-B_Wuerth_65100516121_Horizontal)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Connector_USB+:+USB_Mini-B_Wuerth_65100516121_Horizontal)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Connector_USB+:+USB_Mini-B_Wuerth_65100516121_Horizontal)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Connector_USB+:+USB_Mini-B_Wuerth_65100516121_Horizontal)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB_Mini-B_Wuerth_65100516121_Horizontal/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB_Mini-B_Wuerth_65100516121_Horizontal/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB_Mini-B_Wuerth_65100516121_Horizontal/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB_Mini-B_Wuerth_65100516121_Horizontal/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB_Mini-B_Wuerth_65100516121_Horizontal/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB_Mini-B_Wuerth_65100516121_Horizontal/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB_Mini-B_Wuerth_65100516121_Horizontal/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB_Mini-B_Wuerth_65100516121_Horizontal/kicadPcb3dBack.png)|

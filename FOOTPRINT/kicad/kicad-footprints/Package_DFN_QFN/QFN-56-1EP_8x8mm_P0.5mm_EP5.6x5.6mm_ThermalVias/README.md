@@ -6,6 +6,8 @@ Contents
 ========
 
 * [FZKDFNQFN561EP8X8P5EP56X56THERMALVIAS > Package_DFN_QFN : QFN-56-1EP_8x8mm_P0.5mm_EP5.6x5.6mm_ThermalVias](#fzkdfnqfn561ep8x8p5ep56x56thermalvias--package_dfn_qfn--qfn-56-1ep_8x8mm_p05mm_ep56x56mm_thermalvias)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +19,18 @@ Contents
 - Description: Package_DFN_QFN : QFN-56-1EP_8x8mm_P0.5mm_EP5.6x5.6mm_ThermalVias
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-QFN-56-1EP_8x8mm_P0.5mm_EP5.6x5.6mm_ThermalVias](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-QFN-56-1EP_8x8mm_P0.5mm_EP5.6x5.6mm_ThermalVias)
 - Short Link: [http://oom.lt/FZKDFNQFN561EP8X8P5EP56X56THERMALVIAS](http://oom.lt/FZKDFNQFN561EP8X8P5EP56X56THERMALVIAS)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Package_DFN_QFN+:+QFN-56-1EP_8x8mm_P0.5mm_EP5.6x5.6mm_ThermalVias)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Package_DFN_QFN+:+QFN-56-1EP_8x8mm_P0.5mm_EP5.6x5.6mm_ThermalVias)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Package_DFN_QFN+:+QFN-56-1EP_8x8mm_P0.5mm_EP5.6x5.6mm_ThermalVias)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Package_DFN_QFN+:+QFN-56-1EP_8x8mm_P0.5mm_EP5.6x5.6mm_ThermalVias)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Package_DFN_QFN+:+QFN-56-1EP_8x8mm_P0.5mm_EP5.6x5.6mm_ThermalVias)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Package_DFN_QFN+:+QFN-56-1EP_8x8mm_P0.5mm_EP5.6x5.6mm_ThermalVias)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/QFN-56-1EP_8x8mm_P0.5mm_EP5.6x5.6mm_ThermalVias/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/QFN-56-1EP_8x8mm_P0.5mm_EP5.6x5.6mm_ThermalVias/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/QFN-56-1EP_8x8mm_P0.5mm_EP5.6x5.6mm_ThermalVias/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/QFN-56-1EP_8x8mm_P0.5mm_EP5.6x5.6mm_ThermalVias/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/QFN-56-1EP_8x8mm_P0.5mm_EP5.6x5.6mm_ThermalVias/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/QFN-56-1EP_8x8mm_P0.5mm_EP5.6x5.6mm_ThermalVias/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/QFN-56-1EP_8x8mm_P0.5mm_EP5.6x5.6mm_ThermalVias/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/QFN-56-1EP_8x8mm_P0.5mm_EP5.6x5.6mm_ThermalVias/kicadPcb3dBack.png)|

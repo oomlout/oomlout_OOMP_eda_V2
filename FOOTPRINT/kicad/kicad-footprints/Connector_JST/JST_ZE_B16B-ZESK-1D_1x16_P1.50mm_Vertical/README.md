@@ -6,6 +6,8 @@ Contents
 ========
 
 * [FZKCNJSTJSTZEB16BZESK1D1X16P15VERTICAL > Connector_JST : JST_ZE_B16B-ZESK-1D_1x16_P1.50mm_Vertical](#fzkcnjstjstzeb16bzesk1d1x16p15vertical--connector_jst--jst_ze_b16b-zesk-1d_1x16_p150mm_vertical)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +19,18 @@ Contents
 - Description: Connector_JST : JST_ZE_B16B-ZESK-1D_1x16_P1.50mm_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_ZE_B16B-ZESK-1D_1x16_P1.50mm_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_ZE_B16B-ZESK-1D_1x16_P1.50mm_Vertical)
 - Short Link: [http://oom.lt/FZKCNJSTJSTZEB16BZESK1D1X16P15VERTICAL](http://oom.lt/FZKCNJSTJSTZEB16BZESK1D1X16P15VERTICAL)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Connector_JST+:+JST_ZE_B16B-ZESK-1D_1x16_P1.50mm_Vertical)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Connector_JST+:+JST_ZE_B16B-ZESK-1D_1x16_P1.50mm_Vertical)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Connector_JST+:+JST_ZE_B16B-ZESK-1D_1x16_P1.50mm_Vertical)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Connector_JST+:+JST_ZE_B16B-ZESK-1D_1x16_P1.50mm_Vertical)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Connector_JST+:+JST_ZE_B16B-ZESK-1D_1x16_P1.50mm_Vertical)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Connector_JST+:+JST_ZE_B16B-ZESK-1D_1x16_P1.50mm_Vertical)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_ZE_B16B-ZESK-1D_1x16_P1.50mm_Vertical/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_ZE_B16B-ZESK-1D_1x16_P1.50mm_Vertical/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_ZE_B16B-ZESK-1D_1x16_P1.50mm_Vertical/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_ZE_B16B-ZESK-1D_1x16_P1.50mm_Vertical/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_ZE_B16B-ZESK-1D_1x16_P1.50mm_Vertical/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_ZE_B16B-ZESK-1D_1x16_P1.50mm_Vertical/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_ZE_B16B-ZESK-1D_1x16_P1.50mm_Vertical/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_ZE_B16B-ZESK-1D_1x16_P1.50mm_Vertical/kicadPcb3dBack.png)|

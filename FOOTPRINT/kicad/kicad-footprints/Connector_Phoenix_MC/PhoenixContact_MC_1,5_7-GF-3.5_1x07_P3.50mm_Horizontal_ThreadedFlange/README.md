@@ -6,6 +6,8 @@ Contents
 ========
 
 * [FZKCNPHOENIXMCPHOENIXCONTACTMC157GF351X7P35HORIZONTALTHREADEDFLANGE > Connector_Phoenix_MC : PhoenixContact_MC_1,5_7-GF-3.5_1x07_P3.50mm_Horizontal_ThreadedFlange](#fzkcnphoenixmcphoenixcontactmc157gf351x7p35horizontalthreadedflange--connector_phoenix_mc--phoenixcontact_mc_15_7-gf-35_1x07_p350mm_horizontal_threadedflange)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +19,18 @@ Contents
 - Description: Connector_Phoenix_MC : PhoenixContact_MC_1,5_7-GF-3.5_1x07_P3.50mm_Horizontal_ThreadedFlange
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Phoenix_MC-PhoenixContact_MC_1,5_7-GF-3.5_1x07_P3.50mm_Horizontal_ThreadedFlange](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Phoenix_MC-PhoenixContact_MC_1,5_7-GF-3.5_1x07_P3.50mm_Horizontal_ThreadedFlange)
 - Short Link: [http://oom.lt/FZKCNPHOENIXMCPHOENIXCONTACTMC157GF351X7P35HORIZONTALTHREADEDFLANGE](http://oom.lt/FZKCNPHOENIXMCPHOENIXCONTACTMC157GF351X7P35HORIZONTALTHREADEDFLANGE)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Connector_Phoenix_MC+:+PhoenixContact_MC_1,5_7-GF-3.5_1x07_P3.50mm_Horizontal_ThreadedFlange)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Connector_Phoenix_MC+:+PhoenixContact_MC_1,5_7-GF-3.5_1x07_P3.50mm_Horizontal_ThreadedFlange)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Connector_Phoenix_MC+:+PhoenixContact_MC_1,5_7-GF-3.5_1x07_P3.50mm_Horizontal_ThreadedFlange)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Connector_Phoenix_MC+:+PhoenixContact_MC_1,5_7-GF-3.5_1x07_P3.50mm_Horizontal_ThreadedFlange)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Connector_Phoenix_MC+:+PhoenixContact_MC_1,5_7-GF-3.5_1x07_P3.50mm_Horizontal_ThreadedFlange)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Connector_Phoenix_MC+:+PhoenixContact_MC_1,5_7-GF-3.5_1x07_P3.50mm_Horizontal_ThreadedFlange)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Phoenix_MC/PhoenixContact_MC_1,5_7-GF-3.5_1x07_P3.50mm_Horizontal_ThreadedFlange/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Phoenix_MC/PhoenixContact_MC_1,5_7-GF-3.5_1x07_P3.50mm_Horizontal_ThreadedFlange/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Phoenix_MC/PhoenixContact_MC_1,5_7-GF-3.5_1x07_P3.50mm_Horizontal_ThreadedFlange/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Phoenix_MC/PhoenixContact_MC_1,5_7-GF-3.5_1x07_P3.50mm_Horizontal_ThreadedFlange/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Phoenix_MC/PhoenixContact_MC_1,5_7-GF-3.5_1x07_P3.50mm_Horizontal_ThreadedFlange/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Phoenix_MC/PhoenixContact_MC_1,5_7-GF-3.5_1x07_P3.50mm_Horizontal_ThreadedFlange/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Phoenix_MC/PhoenixContact_MC_1,5_7-GF-3.5_1x07_P3.50mm_Horizontal_ThreadedFlange/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Phoenix_MC/PhoenixContact_MC_1,5_7-GF-3.5_1x07_P3.50mm_Horizontal_ThreadedFlange/kicadPcb3dBack.png)|

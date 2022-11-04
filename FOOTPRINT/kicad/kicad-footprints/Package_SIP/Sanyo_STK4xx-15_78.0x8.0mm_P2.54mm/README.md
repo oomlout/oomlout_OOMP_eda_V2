@@ -6,6 +6,8 @@ Contents
 ========
 
 * [FZKSIPSANYOSTK4XX1578X8P254 > Package_SIP : Sanyo_STK4xx-15_78.0x8.0mm_P2.54mm](#fzksipsanyostk4xx1578x8p254--package_sip--sanyo_stk4xx-15_780x80mm_p254mm)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +19,18 @@ Contents
 - Description: Package_SIP : Sanyo_STK4xx-15_78.0x8.0mm_P2.54mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SIP-Sanyo_STK4xx-15_78.0x8.0mm_P2.54mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SIP-Sanyo_STK4xx-15_78.0x8.0mm_P2.54mm)
 - Short Link: [http://oom.lt/FZKSIPSANYOSTK4XX1578X8P254](http://oom.lt/FZKSIPSANYOSTK4XX1578X8P254)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Package_SIP+:+Sanyo_STK4xx-15_78.0x8.0mm_P2.54mm)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Package_SIP+:+Sanyo_STK4xx-15_78.0x8.0mm_P2.54mm)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Package_SIP+:+Sanyo_STK4xx-15_78.0x8.0mm_P2.54mm)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Package_SIP+:+Sanyo_STK4xx-15_78.0x8.0mm_P2.54mm)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Package_SIP+:+Sanyo_STK4xx-15_78.0x8.0mm_P2.54mm)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Package_SIP+:+Sanyo_STK4xx-15_78.0x8.0mm_P2.54mm)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_SIP/Sanyo_STK4xx-15_78.0x8.0mm_P2.54mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_SIP/Sanyo_STK4xx-15_78.0x8.0mm_P2.54mm/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_SIP/Sanyo_STK4xx-15_78.0x8.0mm_P2.54mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_SIP/Sanyo_STK4xx-15_78.0x8.0mm_P2.54mm/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_SIP/Sanyo_STK4xx-15_78.0x8.0mm_P2.54mm/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_SIP/Sanyo_STK4xx-15_78.0x8.0mm_P2.54mm/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_SIP/Sanyo_STK4xx-15_78.0x8.0mm_P2.54mm/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_SIP/Sanyo_STK4xx-15_78.0x8.0mm_P2.54mm/kicadPcb3dBack.png)|

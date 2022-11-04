@@ -6,6 +6,8 @@ Contents
 ========
 
 * [FZKCAPACITORSMCTRIERMTZW4 > Capacitor_SMD : C_Trimmer_Murata_TZW4](#fzkcapacitorsmctriermtzw4--capacitor_smd--c_trimmer_murata_tzw4)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +19,18 @@ Contents
 - Description: Capacitor_SMD : C_Trimmer_Murata_TZW4
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_Trimmer_Murata_TZW4](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_Trimmer_Murata_TZW4)
 - Short Link: [http://oom.lt/FZKCAPACITORSMCTRIERMTZW4](http://oom.lt/FZKCAPACITORSMCTRIERMTZW4)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Capacitor_SMD+:+C_Trimmer_Murata_TZW4)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Capacitor_SMD+:+C_Trimmer_Murata_TZW4)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Capacitor_SMD+:+C_Trimmer_Murata_TZW4)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Capacitor_SMD+:+C_Trimmer_Murata_TZW4)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Capacitor_SMD+:+C_Trimmer_Murata_TZW4)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Capacitor_SMD+:+C_Trimmer_Murata_TZW4)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_SMD/C_Trimmer_Murata_TZW4/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_SMD/C_Trimmer_Murata_TZW4/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_SMD/C_Trimmer_Murata_TZW4/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_SMD/C_Trimmer_Murata_TZW4/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_SMD/C_Trimmer_Murata_TZW4/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_SMD/C_Trimmer_Murata_TZW4/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_SMD/C_Trimmer_Murata_TZW4/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_SMD/C_Trimmer_Murata_TZW4/kicadPcb3dBack.png)|

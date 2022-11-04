@@ -1,0 +1,49 @@
+
+
+
+
+Contents
+========
+
+* [FZECON3M224127562J > con-3m : 224-1275-00-0602J](#fzecon3m224127562j--con-3m--224-1275-00-0602j)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
+	* [Tags](#tags)
+  
+NO IMAGE  
+# FZECON3M224127562J > con-3m : 224-1275-00-0602J
+
+- ID: FOOTPRINT-eagle-eagle-default-con-3m-224-1275-00-0602J
+- Hex ID: FZECON3M224127562J
+- Name: con-3m : 224-1275-00-0602J
+- Description: con-3m : 224-1275-00-0602J
+- Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-3m-224-1275-00-0602J](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-3m-224-1275-00-0602J)
+- Short Link: [http://oom.lt/FZECON3M224127562J](http://oom.lt/FZECON3M224127562J)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117con-3m+:+224-1275-00-0602J)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/con-3m+:+224-1275-00-0602J)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=con-3m+:+224-1275-00-0602J)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=con-3m+:+224-1275-00-0602J)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=con-3m+:+224-1275-00-0602J)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=con-3m+:+224-1275-00-0602J)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
+  
+NO IMAGES  
+## Tags
+  
+
+|Tag Name|Tag Code|Tag Value|
+| :--- | :--- | :--- |
+|OOMP Type|oompType|FOOTPRINT|
+|OOMP Size|oompSize|eagle|
+|OOMP Color|oompColor|eagle-default|
+|OOMP Description|oompDesc|con-3m|
+|OOMP Index|oompIndex|224-1275-00-0602J|
+|Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-con-3m-224-1275-00-0602J|
+|Hex ID (short code)|hexID|FZECON3M224127562J|
+|name|name|con-3m : 224-1275-00-0602J|
+||||

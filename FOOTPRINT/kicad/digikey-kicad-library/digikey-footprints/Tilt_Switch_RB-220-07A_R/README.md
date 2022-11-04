@@ -6,6 +6,8 @@ Contents
 ========
 
 * [FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSTILTSWITCHRB227AR > digikey-footprints : Tilt_Switch_RB-220-07A_R](#fzkicaddigikeykicadlibrarydigikeyfootprintstiltswitchrb227ar--digikey-footprints--tilt_switch_rb-220-07a_r)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +19,18 @@ Contents
 - Description: digikey-footprints : Tilt_Switch_RB-220-07A_R
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Tilt_Switch_RB-220-07A_R](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Tilt_Switch_RB-220-07A_R)
 - Short Link: [http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSTILTSWITCHRB227AR](http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSTILTSWITCHRB227AR)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117digikey-footprints+:+Tilt_Switch_RB-220-07A_R)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/digikey-footprints+:+Tilt_Switch_RB-220-07A_R)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=digikey-footprints+:+Tilt_Switch_RB-220-07A_R)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=digikey-footprints+:+Tilt_Switch_RB-220-07A_R)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=digikey-footprints+:+Tilt_Switch_RB-220-07A_R)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=digikey-footprints+:+Tilt_Switch_RB-220-07A_R)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Tilt_Switch_RB-220-07A_R/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Tilt_Switch_RB-220-07A_R/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Tilt_Switch_RB-220-07A_R/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Tilt_Switch_RB-220-07A_R/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Tilt_Switch_RB-220-07A_R/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Tilt_Switch_RB-220-07A_R/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Tilt_Switch_RB-220-07A_R/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Tilt_Switch_RB-220-07A_R/kicadPcb3dBack.png)|

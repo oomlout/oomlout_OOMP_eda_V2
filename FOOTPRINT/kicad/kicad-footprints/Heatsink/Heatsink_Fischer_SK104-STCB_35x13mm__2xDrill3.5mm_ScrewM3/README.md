@@ -6,6 +6,8 @@ Contents
 ========
 
 * [FZKHHFISCHERSK14STCB35X132XDRILL35SCREWM3 > Heatsink : Heatsink_Fischer_SK104-STCB_35x13mm__2xDrill3.5mm_ScrewM3](#fzkhhfischersk14stcb35x132xdrill35screwm3--heatsink--heatsink_fischer_sk104-stcb_35x13mm__2xdrill35mm_screwm3)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +19,18 @@ Contents
 - Description: Heatsink : Heatsink_Fischer_SK104-STCB_35x13mm__2xDrill3.5mm_ScrewM3
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Heatsink-Heatsink_Fischer_SK104-STCB_35x13mm__2xDrill3.5mm_ScrewM3](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Heatsink-Heatsink_Fischer_SK104-STCB_35x13mm__2xDrill3.5mm_ScrewM3)
 - Short Link: [http://oom.lt/FZKHHFISCHERSK14STCB35X132XDRILL35SCREWM3](http://oom.lt/FZKHHFISCHERSK14STCB35X132XDRILL35SCREWM3)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Heatsink+:+Heatsink_Fischer_SK104-STCB_35x13mm__2xDrill3.5mm_ScrewM3)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Heatsink+:+Heatsink_Fischer_SK104-STCB_35x13mm__2xDrill3.5mm_ScrewM3)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Heatsink+:+Heatsink_Fischer_SK104-STCB_35x13mm__2xDrill3.5mm_ScrewM3)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Heatsink+:+Heatsink_Fischer_SK104-STCB_35x13mm__2xDrill3.5mm_ScrewM3)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Heatsink+:+Heatsink_Fischer_SK104-STCB_35x13mm__2xDrill3.5mm_ScrewM3)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Heatsink+:+Heatsink_Fischer_SK104-STCB_35x13mm__2xDrill3.5mm_ScrewM3)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Heatsink/Heatsink_Fischer_SK104-STCB_35x13mm__2xDrill3.5mm_ScrewM3/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Heatsink/Heatsink_Fischer_SK104-STCB_35x13mm__2xDrill3.5mm_ScrewM3/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Heatsink/Heatsink_Fischer_SK104-STCB_35x13mm__2xDrill3.5mm_ScrewM3/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Heatsink/Heatsink_Fischer_SK104-STCB_35x13mm__2xDrill3.5mm_ScrewM3/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Heatsink/Heatsink_Fischer_SK104-STCB_35x13mm__2xDrill3.5mm_ScrewM3/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Heatsink/Heatsink_Fischer_SK104-STCB_35x13mm__2xDrill3.5mm_ScrewM3/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Heatsink/Heatsink_Fischer_SK104-STCB_35x13mm__2xDrill3.5mm_ScrewM3/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Heatsink/Heatsink_Fischer_SK104-STCB_35x13mm__2xDrill3.5mm_ScrewM3/kicadPcb3dBack.png)|

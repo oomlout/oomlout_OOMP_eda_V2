@@ -6,6 +6,8 @@ Contents
 ========
 
 * [FZKPACKAGETOSOTSMTO53LONGPADWITHHOLEHOUSING > Package_TO_SOT_SMD : TO-50-3_LongPad-WithHole_Housing](#fzkpackagetosotsmto53longpadwithholehousing--package_to_sot_smd--to-50-3_longpad-withhole_housing)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +19,18 @@ Contents
 - Description: Package_TO_SOT_SMD : TO-50-3_LongPad-WithHole_Housing
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-TO-50-3_LongPad-WithHole_Housing](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-TO-50-3_LongPad-WithHole_Housing)
 - Short Link: [http://oom.lt/FZKPACKAGETOSOTSMTO53LONGPADWITHHOLEHOUSING](http://oom.lt/FZKPACKAGETOSOTSMTO53LONGPADWITHHOLEHOUSING)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Package_TO_SOT_SMD+:+TO-50-3_LongPad-WithHole_Housing)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Package_TO_SOT_SMD+:+TO-50-3_LongPad-WithHole_Housing)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Package_TO_SOT_SMD+:+TO-50-3_LongPad-WithHole_Housing)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Package_TO_SOT_SMD+:+TO-50-3_LongPad-WithHole_Housing)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Package_TO_SOT_SMD+:+TO-50-3_LongPad-WithHole_Housing)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Package_TO_SOT_SMD+:+TO-50-3_LongPad-WithHole_Housing)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/TO-50-3_LongPad-WithHole_Housing/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/TO-50-3_LongPad-WithHole_Housing/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/TO-50-3_LongPad-WithHole_Housing/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/TO-50-3_LongPad-WithHole_Housing/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/TO-50-3_LongPad-WithHole_Housing/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/TO-50-3_LongPad-WithHole_Housing/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/TO-50-3_LongPad-WithHole_Housing/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/TO-50-3_LongPad-WithHole_Housing/kicadPcb3dBack.png)|

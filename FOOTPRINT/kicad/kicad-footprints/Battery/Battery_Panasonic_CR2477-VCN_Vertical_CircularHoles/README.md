@@ -6,6 +6,8 @@ Contents
 ========
 
 * [FZKBATBATPANASONICCR2477VCNVERTICALCIRCULARH > Battery : Battery_Panasonic_CR2477-VCN_Vertical_CircularHoles](#fzkbatbatpanasoniccr2477vcnverticalcircularh--battery--battery_panasonic_cr2477-vcn_vertical_circularholes)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +19,18 @@ Contents
 - Description: Battery : Battery_Panasonic_CR2477-VCN_Vertical_CircularHoles
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Battery-Battery_Panasonic_CR2477-VCN_Vertical_CircularHoles](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Battery-Battery_Panasonic_CR2477-VCN_Vertical_CircularHoles)
 - Short Link: [http://oom.lt/FZKBATBATPANASONICCR2477VCNVERTICALCIRCULARH](http://oom.lt/FZKBATBATPANASONICCR2477VCNVERTICALCIRCULARH)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Battery+:+Battery_Panasonic_CR2477-VCN_Vertical_CircularHoles)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Battery+:+Battery_Panasonic_CR2477-VCN_Vertical_CircularHoles)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Battery+:+Battery_Panasonic_CR2477-VCN_Vertical_CircularHoles)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Battery+:+Battery_Panasonic_CR2477-VCN_Vertical_CircularHoles)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Battery+:+Battery_Panasonic_CR2477-VCN_Vertical_CircularHoles)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Battery+:+Battery_Panasonic_CR2477-VCN_Vertical_CircularHoles)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Battery/Battery_Panasonic_CR2477-VCN_Vertical_CircularHoles/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Battery/Battery_Panasonic_CR2477-VCN_Vertical_CircularHoles/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Battery/Battery_Panasonic_CR2477-VCN_Vertical_CircularHoles/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Battery/Battery_Panasonic_CR2477-VCN_Vertical_CircularHoles/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Battery/Battery_Panasonic_CR2477-VCN_Vertical_CircularHoles/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Battery/Battery_Panasonic_CR2477-VCN_Vertical_CircularHoles/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Battery/Battery_Panasonic_CR2477-VCN_Vertical_CircularHoles/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Battery/Battery_Panasonic_CR2477-VCN_Vertical_CircularHoles/kicadPcb3dBack.png)|

@@ -1,13 +1,4 @@
 {
-    "code": [],
-    "collection": [],
-    "description": [],
-    "distributorPartNumber": [],
-    "eagleBoard": [],
-    "eagleSchem": [],
-    "footprintEagle": [],
-    "footprintEagleDetails": [],
-    "footprintKicad": [],
     "footprintKicadDetails": [
         {
             "attributeType": null,
@@ -20,15 +11,9 @@
             "tags": "solder jumper open"
         }
     ],
-    "gitName": [],
-    "gitRepo": [],
     "hexID": [
         "FZKJSOLDERJ3P2OPENTRIANGLEPAD1X15NUMBERLABELS"
     ],
-    "kicadBoard": [],
-    "kicadSchem": [],
-    "manufacturerPartNumber": [],
-    "matchSpecial": [],
     "name": [
         "Jumper : SolderJumper-3_P2.0mm_Open_TrianglePad1.0x1.5mm_NumberLabels"
     ],
@@ -85,18 +70,10 @@
     "oompIndex": [
         "SolderJumper-3_P2.0mm_Open_TrianglePad1.0x1.5mm_NumberLabels"
     ],
-    "oompInstances": [],
-    "oompParts": [],
     "oompSize": [
         "kicad"
     ],
     "oompType": [
         "FOOTPRINT"
-    ],
-    "oplPartNumber": [],
-    "rawParts": [],
-    "symbolEagle": [],
-    "symbolEagleDetails": [],
-    "symbolKicad": [],
-    "symbolKicadDetails": []
+    ]
 }

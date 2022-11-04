@@ -6,6 +6,8 @@ Contents
 ========
 
 * [FZKSZOSHWL19X2C > Symbol : OSHW-Logo_19x20mm_Copper](#fzkszoshwl19x2c--symbol--oshw-logo_19x20mm_copper)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +19,18 @@ Contents
 - Description: Symbol : OSHW-Logo_19x20mm_Copper
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Symbol-OSHW-Logo_19x20mm_Copper](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Symbol-OSHW-Logo_19x20mm_Copper)
 - Short Link: [http://oom.lt/FZKSZOSHWL19X2C](http://oom.lt/FZKSZOSHWL19X2C)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Symbol+:+OSHW-Logo_19x20mm_Copper)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Symbol+:+OSHW-Logo_19x20mm_Copper)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Symbol+:+OSHW-Logo_19x20mm_Copper)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Symbol+:+OSHW-Logo_19x20mm_Copper)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Symbol+:+OSHW-Logo_19x20mm_Copper)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Symbol+:+OSHW-Logo_19x20mm_Copper)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Symbol/OSHW-Logo_19x20mm_Copper/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Symbol/OSHW-Logo_19x20mm_Copper/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Symbol/OSHW-Logo_19x20mm_Copper/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Symbol/OSHW-Logo_19x20mm_Copper/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Symbol/OSHW-Logo_19x20mm_Copper/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Symbol/OSHW-Logo_19x20mm_Copper/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Symbol/OSHW-Logo_19x20mm_Copper/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Symbol/OSHW-Logo_19x20mm_Copper/kicadPcb3dBack.png)|

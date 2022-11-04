@@ -6,6 +6,8 @@ Contents
 ========
 
 * [FZKCNWIRESOLDERWIRE75SQ1X6P7D125OD35RELIEF > Connector_Wire : SolderWire-0.75sqmm_1x06_P7mm_D1.25mm_OD3.5mm_Relief](#fzkcnwiresolderwire75sq1x6p7d125od35relief--connector_wire--solderwire-075sqmm_1x06_p7mm_d125mm_od35mm_relief)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +19,18 @@ Contents
 - Description: Connector_Wire : SolderWire-0.75sqmm_1x06_P7mm_D1.25mm_OD3.5mm_Relief
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Wire-SolderWire-0.75sqmm_1x06_P7mm_D1.25mm_OD3.5mm_Relief](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Wire-SolderWire-0.75sqmm_1x06_P7mm_D1.25mm_OD3.5mm_Relief)
 - Short Link: [http://oom.lt/FZKCNWIRESOLDERWIRE75SQ1X6P7D125OD35RELIEF](http://oom.lt/FZKCNWIRESOLDERWIRE75SQ1X6P7D125OD35RELIEF)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Connector_Wire+:+SolderWire-0.75sqmm_1x06_P7mm_D1.25mm_OD3.5mm_Relief)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Connector_Wire+:+SolderWire-0.75sqmm_1x06_P7mm_D1.25mm_OD3.5mm_Relief)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Connector_Wire+:+SolderWire-0.75sqmm_1x06_P7mm_D1.25mm_OD3.5mm_Relief)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Connector_Wire+:+SolderWire-0.75sqmm_1x06_P7mm_D1.25mm_OD3.5mm_Relief)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Connector_Wire+:+SolderWire-0.75sqmm_1x06_P7mm_D1.25mm_OD3.5mm_Relief)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Connector_Wire+:+SolderWire-0.75sqmm_1x06_P7mm_D1.25mm_OD3.5mm_Relief)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Wire/SolderWire-0.75sqmm_1x06_P7mm_D1.25mm_OD3.5mm_Relief/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Wire/SolderWire-0.75sqmm_1x06_P7mm_D1.25mm_OD3.5mm_Relief/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Wire/SolderWire-0.75sqmm_1x06_P7mm_D1.25mm_OD3.5mm_Relief/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Wire/SolderWire-0.75sqmm_1x06_P7mm_D1.25mm_OD3.5mm_Relief/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Wire/SolderWire-0.75sqmm_1x06_P7mm_D1.25mm_OD3.5mm_Relief/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Wire/SolderWire-0.75sqmm_1x06_P7mm_D1.25mm_OD3.5mm_Relief/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Wire/SolderWire-0.75sqmm_1x06_P7mm_D1.25mm_OD3.5mm_Relief/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Wire/SolderWire-0.75sqmm_1x06_P7mm_D1.25mm_OD3.5mm_Relief/kicadPcb3dBack.png)|

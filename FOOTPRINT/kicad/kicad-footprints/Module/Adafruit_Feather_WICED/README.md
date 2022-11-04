@@ -6,6 +6,8 @@ Contents
 ========
 
 * [FZKMOADAFEATHERWICED > Module : Adafruit_Feather_WICED](#fzkmoadafeatherwiced--module--adafruit_feather_wiced)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +19,18 @@ Contents
 - Description: Module : Adafruit_Feather_WICED
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Module-Adafruit_Feather_WICED](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Module-Adafruit_Feather_WICED)
 - Short Link: [http://oom.lt/FZKMOADAFEATHERWICED](http://oom.lt/FZKMOADAFEATHERWICED)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Module+:+Adafruit_Feather_WICED)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Module+:+Adafruit_Feather_WICED)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Module+:+Adafruit_Feather_WICED)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Module+:+Adafruit_Feather_WICED)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Module+:+Adafruit_Feather_WICED)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Module+:+Adafruit_Feather_WICED)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Module/Adafruit_Feather_WICED/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Module/Adafruit_Feather_WICED/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Module/Adafruit_Feather_WICED/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Module/Adafruit_Feather_WICED/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Module/Adafruit_Feather_WICED/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Module/Adafruit_Feather_WICED/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Module/Adafruit_Feather_WICED/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Module/Adafruit_Feather_WICED/kicadPcb3dBack.png)|

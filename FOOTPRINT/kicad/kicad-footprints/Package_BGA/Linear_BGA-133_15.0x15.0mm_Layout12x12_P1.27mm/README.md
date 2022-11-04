@@ -6,6 +6,8 @@ Contents
 ========
 
 * [FZKBGALINEARBGA13315X15LAYOUT12X12P127 > Package_BGA : Linear_BGA-133_15.0x15.0mm_Layout12x12_P1.27mm](#fzkbgalinearbga13315x15layout12x12p127--package_bga--linear_bga-133_150x150mm_layout12x12_p127mm)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +19,18 @@ Contents
 - Description: Package_BGA : Linear_BGA-133_15.0x15.0mm_Layout12x12_P1.27mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_BGA-Linear_BGA-133_15.0x15.0mm_Layout12x12_P1.27mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_BGA-Linear_BGA-133_15.0x15.0mm_Layout12x12_P1.27mm)
 - Short Link: [http://oom.lt/FZKBGALINEARBGA13315X15LAYOUT12X12P127](http://oom.lt/FZKBGALINEARBGA13315X15LAYOUT12X12P127)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Package_BGA+:+Linear_BGA-133_15.0x15.0mm_Layout12x12_P1.27mm)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Package_BGA+:+Linear_BGA-133_15.0x15.0mm_Layout12x12_P1.27mm)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Package_BGA+:+Linear_BGA-133_15.0x15.0mm_Layout12x12_P1.27mm)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Package_BGA+:+Linear_BGA-133_15.0x15.0mm_Layout12x12_P1.27mm)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Package_BGA+:+Linear_BGA-133_15.0x15.0mm_Layout12x12_P1.27mm)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Package_BGA+:+Linear_BGA-133_15.0x15.0mm_Layout12x12_P1.27mm)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_BGA/Linear_BGA-133_15.0x15.0mm_Layout12x12_P1.27mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_BGA/Linear_BGA-133_15.0x15.0mm_Layout12x12_P1.27mm/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_BGA/Linear_BGA-133_15.0x15.0mm_Layout12x12_P1.27mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_BGA/Linear_BGA-133_15.0x15.0mm_Layout12x12_P1.27mm/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_BGA/Linear_BGA-133_15.0x15.0mm_Layout12x12_P1.27mm/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_BGA/Linear_BGA-133_15.0x15.0mm_Layout12x12_P1.27mm/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_BGA/Linear_BGA-133_15.0x15.0mm_Layout12x12_P1.27mm/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_BGA/Linear_BGA-133_15.0x15.0mm_Layout12x12_P1.27mm/kicadPcb3dBack.png)|

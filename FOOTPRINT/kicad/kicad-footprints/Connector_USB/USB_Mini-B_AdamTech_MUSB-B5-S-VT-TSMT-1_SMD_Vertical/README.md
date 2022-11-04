@@ -6,6 +6,8 @@ Contents
 ========
 
 * [FZKCNUUMBADAMTECHMUB5SVTTSMT1SMVERTICAL > Connector_USB : USB_Mini-B_AdamTech_MUSB-B5-S-VT-TSMT-1_SMD_Vertical](#fzkcnuumbadamtechmub5svttsmt1smvertical--connector_usb--usb_mini-b_adamtech_musb-b5-s-vt-tsmt-1_smd_vertical)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +19,18 @@ Contents
 - Description: Connector_USB : USB_Mini-B_AdamTech_MUSB-B5-S-VT-TSMT-1_SMD_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_Mini-B_AdamTech_MUSB-B5-S-VT-TSMT-1_SMD_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_Mini-B_AdamTech_MUSB-B5-S-VT-TSMT-1_SMD_Vertical)
 - Short Link: [http://oom.lt/FZKCNUUMBADAMTECHMUB5SVTTSMT1SMVERTICAL](http://oom.lt/FZKCNUUMBADAMTECHMUB5SVTTSMT1SMVERTICAL)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Connector_USB+:+USB_Mini-B_AdamTech_MUSB-B5-S-VT-TSMT-1_SMD_Vertical)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Connector_USB+:+USB_Mini-B_AdamTech_MUSB-B5-S-VT-TSMT-1_SMD_Vertical)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Connector_USB+:+USB_Mini-B_AdamTech_MUSB-B5-S-VT-TSMT-1_SMD_Vertical)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Connector_USB+:+USB_Mini-B_AdamTech_MUSB-B5-S-VT-TSMT-1_SMD_Vertical)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Connector_USB+:+USB_Mini-B_AdamTech_MUSB-B5-S-VT-TSMT-1_SMD_Vertical)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Connector_USB+:+USB_Mini-B_AdamTech_MUSB-B5-S-VT-TSMT-1_SMD_Vertical)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB_Mini-B_AdamTech_MUSB-B5-S-VT-TSMT-1_SMD_Vertical/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB_Mini-B_AdamTech_MUSB-B5-S-VT-TSMT-1_SMD_Vertical/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB_Mini-B_AdamTech_MUSB-B5-S-VT-TSMT-1_SMD_Vertical/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB_Mini-B_AdamTech_MUSB-B5-S-VT-TSMT-1_SMD_Vertical/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB_Mini-B_AdamTech_MUSB-B5-S-VT-TSMT-1_SMD_Vertical/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB_Mini-B_AdamTech_MUSB-B5-S-VT-TSMT-1_SMD_Vertical/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB_Mini-B_AdamTech_MUSB-B5-S-VT-TSMT-1_SMD_Vertical/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB_Mini-B_AdamTech_MUSB-B5-S-VT-TSMT-1_SMD_Vertical/kicadPcb3dBack.png)|

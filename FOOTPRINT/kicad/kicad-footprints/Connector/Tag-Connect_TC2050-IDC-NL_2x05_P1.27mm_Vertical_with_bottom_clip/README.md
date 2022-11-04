@@ -6,6 +6,8 @@ Contents
 ========
 
 * [FZKCNTAGCONNECTTC25IDCNL2X5P127VERTICALWITHBOTTOMCLIP > Connector : Tag-Connect_TC2050-IDC-NL_2x05_P1.27mm_Vertical_with_bottom_clip](#fzkcntagconnecttc25idcnl2x5p127verticalwithbottomclip--connector--tag-connect_tc2050-idc-nl_2x05_p127mm_vertical_with_bottom_clip)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +19,18 @@ Contents
 - Description: Connector : Tag-Connect_TC2050-IDC-NL_2x05_P1.27mm_Vertical_with_bottom_clip
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector-Tag-Connect_TC2050-IDC-NL_2x05_P1.27mm_Vertical_with_bottom_clip](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector-Tag-Connect_TC2050-IDC-NL_2x05_P1.27mm_Vertical_with_bottom_clip)
 - Short Link: [http://oom.lt/FZKCNTAGCONNECTTC25IDCNL2X5P127VERTICALWITHBOTTOMCLIP](http://oom.lt/FZKCNTAGCONNECTTC25IDCNL2X5P127VERTICALWITHBOTTOMCLIP)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Connector+:+Tag-Connect_TC2050-IDC-NL_2x05_P1.27mm_Vertical_with_bottom_clip)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Connector+:+Tag-Connect_TC2050-IDC-NL_2x05_P1.27mm_Vertical_with_bottom_clip)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Connector+:+Tag-Connect_TC2050-IDC-NL_2x05_P1.27mm_Vertical_with_bottom_clip)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Connector+:+Tag-Connect_TC2050-IDC-NL_2x05_P1.27mm_Vertical_with_bottom_clip)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Connector+:+Tag-Connect_TC2050-IDC-NL_2x05_P1.27mm_Vertical_with_bottom_clip)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Connector+:+Tag-Connect_TC2050-IDC-NL_2x05_P1.27mm_Vertical_with_bottom_clip)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector/Tag-Connect_TC2050-IDC-NL_2x05_P1.27mm_Vertical_with_bottom_clip/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector/Tag-Connect_TC2050-IDC-NL_2x05_P1.27mm_Vertical_with_bottom_clip/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector/Tag-Connect_TC2050-IDC-NL_2x05_P1.27mm_Vertical_with_bottom_clip/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector/Tag-Connect_TC2050-IDC-NL_2x05_P1.27mm_Vertical_with_bottom_clip/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector/Tag-Connect_TC2050-IDC-NL_2x05_P1.27mm_Vertical_with_bottom_clip/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector/Tag-Connect_TC2050-IDC-NL_2x05_P1.27mm_Vertical_with_bottom_clip/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector/Tag-Connect_TC2050-IDC-NL_2x05_P1.27mm_Vertical_with_bottom_clip/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector/Tag-Connect_TC2050-IDC-NL_2x05_P1.27mm_Vertical_with_bottom_clip/kicadPcb3dBack.png)|

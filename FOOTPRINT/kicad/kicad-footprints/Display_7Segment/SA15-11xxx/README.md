@@ -6,6 +6,8 @@ Contents
 ========
 
 * [FZKDI7SSA1511XXX > Display_7Segment : SA15-11xxx](#fzkdi7ssa1511xxx--display_7segment--sa15-11xxx)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +19,18 @@ Contents
 - Description: Display_7Segment : SA15-11xxx
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Display_7Segment-SA15-11xxx](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Display_7Segment-SA15-11xxx)
 - Short Link: [http://oom.lt/FZKDI7SSA1511XXX](http://oom.lt/FZKDI7SSA1511XXX)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Display_7Segment+:+SA15-11xxx)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Display_7Segment+:+SA15-11xxx)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Display_7Segment+:+SA15-11xxx)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Display_7Segment+:+SA15-11xxx)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Display_7Segment+:+SA15-11xxx)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Display_7Segment+:+SA15-11xxx)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Display_7Segment/SA15-11xxx/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Display_7Segment/SA15-11xxx/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Display_7Segment/SA15-11xxx/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Display_7Segment/SA15-11xxx/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Display_7Segment/SA15-11xxx/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Display_7Segment/SA15-11xxx/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Display_7Segment/SA15-11xxx/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Display_7Segment/SA15-11xxx/kicadPcb3dBack.png)|

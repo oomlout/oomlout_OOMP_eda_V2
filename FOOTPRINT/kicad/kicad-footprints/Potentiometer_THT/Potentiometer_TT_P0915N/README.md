@@ -6,6 +6,8 @@ Contents
 ========
 
 * [FZKPPOTENTIOMETERTTP915N > Potentiometer_THT : Potentiometer_TT_P0915N](#fzkppotentiometerttp915n--potentiometer_tht--potentiometer_tt_p0915n)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +19,18 @@ Contents
 - Description: Potentiometer_THT : Potentiometer_TT_P0915N
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Potentiometer_THT-Potentiometer_TT_P0915N](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Potentiometer_THT-Potentiometer_TT_P0915N)
 - Short Link: [http://oom.lt/FZKPPOTENTIOMETERTTP915N](http://oom.lt/FZKPPOTENTIOMETERTTP915N)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Potentiometer_THT+:+Potentiometer_TT_P0915N)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Potentiometer_THT+:+Potentiometer_TT_P0915N)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Potentiometer_THT+:+Potentiometer_TT_P0915N)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Potentiometer_THT+:+Potentiometer_TT_P0915N)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Potentiometer_THT+:+Potentiometer_TT_P0915N)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Potentiometer_THT+:+Potentiometer_TT_P0915N)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Potentiometer_THT/Potentiometer_TT_P0915N/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Potentiometer_THT/Potentiometer_TT_P0915N/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Potentiometer_THT/Potentiometer_TT_P0915N/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Potentiometer_THT/Potentiometer_TT_P0915N/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Potentiometer_THT/Potentiometer_TT_P0915N/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Potentiometer_THT/Potentiometer_TT_P0915N/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Potentiometer_THT/Potentiometer_TT_P0915N/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Potentiometer_THT/Potentiometer_TT_P0915N/kicadPcb3dBack.png)|

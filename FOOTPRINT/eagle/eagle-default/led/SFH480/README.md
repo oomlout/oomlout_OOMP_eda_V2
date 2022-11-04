@@ -1,0 +1,49 @@
+
+
+
+
+Contents
+========
+
+* [FZELSFH48 > led : SFH480](#fzelsfh48--led--sfh480)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
+	* [Tags](#tags)
+  
+NO IMAGE  
+# FZELSFH48 > led : SFH480
+
+- ID: FOOTPRINT-eagle-eagle-default-led-SFH480
+- Hex ID: FZELSFH48
+- Name: led : SFH480
+- Description: led : SFH480
+- Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-led-SFH480](http://oom.lt/FOOTPRINT-eagle-eagle-default-led-SFH480)
+- Short Link: [http://oom.lt/FZELSFH48](http://oom.lt/FZELSFH48)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117led+:+SFH480)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/led+:+SFH480)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=led+:+SFH480)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=led+:+SFH480)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=led+:+SFH480)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=led+:+SFH480)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
+  
+NO IMAGES  
+## Tags
+  
+
+|Tag Name|Tag Code|Tag Value|
+| :--- | :--- | :--- |
+|OOMP Type|oompType|FOOTPRINT|
+|OOMP Size|oompSize|eagle|
+|OOMP Color|oompColor|eagle-default|
+|OOMP Description|oompDesc|led|
+|OOMP Index|oompIndex|SFH480|
+|Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-led-SFH480|
+|Hex ID (short code)|hexID|FZELSFH48|
+|name|name|led : SFH480|
+||||

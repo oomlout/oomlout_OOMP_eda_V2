@@ -6,6 +6,8 @@ Contents
 ========
 
 * [FZKDFNLINEARDE14MA > Package_DFN_QFN : Linear_DE14MA](#fzkdfnlinearde14ma--package_dfn_qfn--linear_de14ma)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +19,18 @@ Contents
 - Description: Package_DFN_QFN : Linear_DE14MA
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Linear_DE14MA](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Linear_DE14MA)
 - Short Link: [http://oom.lt/FZKDFNLINEARDE14MA](http://oom.lt/FZKDFNLINEARDE14MA)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Package_DFN_QFN+:+Linear_DE14MA)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Package_DFN_QFN+:+Linear_DE14MA)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Package_DFN_QFN+:+Linear_DE14MA)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Package_DFN_QFN+:+Linear_DE14MA)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Package_DFN_QFN+:+Linear_DE14MA)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Package_DFN_QFN+:+Linear_DE14MA)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/Linear_DE14MA/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/Linear_DE14MA/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/Linear_DE14MA/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/Linear_DE14MA/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/Linear_DE14MA/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/Linear_DE14MA/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/Linear_DE14MA/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/Linear_DE14MA/kicadPcb3dBack.png)|

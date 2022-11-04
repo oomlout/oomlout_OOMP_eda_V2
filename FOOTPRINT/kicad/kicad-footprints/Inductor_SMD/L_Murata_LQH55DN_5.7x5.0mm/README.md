@@ -6,6 +6,8 @@ Contents
 ========
 
 * [FZKINDUCTORSMLMLQH55DN57X5 > Inductor_SMD : L_Murata_LQH55DN_5.7x5.0mm](#fzkinductorsmlmlqh55dn57x5--inductor_smd--l_murata_lqh55dn_57x50mm)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +19,18 @@ Contents
 - Description: Inductor_SMD : L_Murata_LQH55DN_5.7x5.0mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Murata_LQH55DN_5.7x5.0mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Murata_LQH55DN_5.7x5.0mm)
 - Short Link: [http://oom.lt/FZKINDUCTORSMLMLQH55DN57X5](http://oom.lt/FZKINDUCTORSMLMLQH55DN57X5)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Inductor_SMD+:+L_Murata_LQH55DN_5.7x5.0mm)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Inductor_SMD+:+L_Murata_LQH55DN_5.7x5.0mm)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Inductor_SMD+:+L_Murata_LQH55DN_5.7x5.0mm)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Inductor_SMD+:+L_Murata_LQH55DN_5.7x5.0mm)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Inductor_SMD+:+L_Murata_LQH55DN_5.7x5.0mm)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Inductor_SMD+:+L_Murata_LQH55DN_5.7x5.0mm)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Murata_LQH55DN_5.7x5.0mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Murata_LQH55DN_5.7x5.0mm/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Murata_LQH55DN_5.7x5.0mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Murata_LQH55DN_5.7x5.0mm/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Murata_LQH55DN_5.7x5.0mm/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Murata_LQH55DN_5.7x5.0mm/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Murata_LQH55DN_5.7x5.0mm/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Murata_LQH55DN_5.7x5.0mm/kicadPcb3dBack.png)|

@@ -1,0 +1,12 @@
+
+
+
+
+# MPN Summary For: FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICRESE63XO2241R6O224C22961 > oomlout_OOMP_JLCC_Basic : RESE-0603-X-O224-01-R6O224-C22961
+
+## MPNs
+  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||

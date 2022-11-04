@@ -6,6 +6,8 @@ Contents
 ========
 
 * [FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSOD323F > digikey-footprints : SOD-323F](#fzkicaddigikeykicadlibrarydigikeyfootprintssod323f--digikey-footprints--sod-323f)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +19,18 @@ Contents
 - Description: digikey-footprints : SOD-323F
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SOD-323F](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SOD-323F)
 - Short Link: [http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSOD323F](http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSOD323F)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117digikey-footprints+:+SOD-323F)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/digikey-footprints+:+SOD-323F)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=digikey-footprints+:+SOD-323F)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=digikey-footprints+:+SOD-323F)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=digikey-footprints+:+SOD-323F)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=digikey-footprints+:+SOD-323F)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/SOD-323F/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/SOD-323F/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/SOD-323F/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/SOD-323F/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/SOD-323F/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/SOD-323F/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/SOD-323F/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/SOD-323F/kicadPcb3dBack.png)|

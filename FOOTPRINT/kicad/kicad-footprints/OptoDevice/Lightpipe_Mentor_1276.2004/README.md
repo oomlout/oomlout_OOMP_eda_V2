@@ -6,6 +6,8 @@ Contents
 ========
 
 * [FZKOPLIGHTPIPEMENTOR127624 > OptoDevice : Lightpipe_Mentor_1276.2004](#fzkoplightpipementor127624--optodevice--lightpipe_mentor_12762004)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +19,18 @@ Contents
 - Description: OptoDevice : Lightpipe_Mentor_1276.2004
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-OptoDevice-Lightpipe_Mentor_1276.2004](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-OptoDevice-Lightpipe_Mentor_1276.2004)
 - Short Link: [http://oom.lt/FZKOPLIGHTPIPEMENTOR127624](http://oom.lt/FZKOPLIGHTPIPEMENTOR127624)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117OptoDevice+:+Lightpipe_Mentor_1276.2004)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/OptoDevice+:+Lightpipe_Mentor_1276.2004)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=OptoDevice+:+Lightpipe_Mentor_1276.2004)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=OptoDevice+:+Lightpipe_Mentor_1276.2004)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=OptoDevice+:+Lightpipe_Mentor_1276.2004)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=OptoDevice+:+Lightpipe_Mentor_1276.2004)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/OptoDevice/Lightpipe_Mentor_1276.2004/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/OptoDevice/Lightpipe_Mentor_1276.2004/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/OptoDevice/Lightpipe_Mentor_1276.2004/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/OptoDevice/Lightpipe_Mentor_1276.2004/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/OptoDevice/Lightpipe_Mentor_1276.2004/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/OptoDevice/Lightpipe_Mentor_1276.2004/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/OptoDevice/Lightpipe_Mentor_1276.2004/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/OptoDevice/Lightpipe_Mentor_1276.2004/kicadPcb3dBack.png)|

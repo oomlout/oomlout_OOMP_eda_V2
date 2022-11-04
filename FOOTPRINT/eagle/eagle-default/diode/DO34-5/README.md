@@ -1,0 +1,49 @@
+
+
+
+
+Contents
+========
+
+* [FZEDIODEDO345 > diode : DO34-5](#fzediodedo345--diode--do34-5)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
+	* [Tags](#tags)
+  
+NO IMAGE  
+# FZEDIODEDO345 > diode : DO34-5
+
+- ID: FOOTPRINT-eagle-eagle-default-diode-DO34-5
+- Hex ID: FZEDIODEDO345
+- Name: diode : DO34-5
+- Description: diode : DO34-5
+- Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-diode-DO34-5](http://oom.lt/FOOTPRINT-eagle-eagle-default-diode-DO34-5)
+- Short Link: [http://oom.lt/FZEDIODEDO345](http://oom.lt/FZEDIODEDO345)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117diode+:+DO34-5)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/diode+:+DO34-5)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=diode+:+DO34-5)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=diode+:+DO34-5)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=diode+:+DO34-5)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=diode+:+DO34-5)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
+  
+NO IMAGES  
+## Tags
+  
+
+|Tag Name|Tag Code|Tag Value|
+| :--- | :--- | :--- |
+|OOMP Type|oompType|FOOTPRINT|
+|OOMP Size|oompSize|eagle|
+|OOMP Color|oompColor|eagle-default|
+|OOMP Description|oompDesc|diode|
+|OOMP Index|oompIndex|DO34-5|
+|Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-diode-DO34-5|
+|Hex ID (short code)|hexID|FZEDIODEDO345|
+|name|name|diode : DO34-5|
+||||

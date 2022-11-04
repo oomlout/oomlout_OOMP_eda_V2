@@ -1,0 +1,12 @@
+
+
+
+
+# MPN Summary For: FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICCAPC42XNF2V16C4N216C16772 > oomlout_OOMP_JLCC_Basic : CAPC-0402-X-NF20-V16-C4N2016-C16772
+
+## MPNs
+  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||

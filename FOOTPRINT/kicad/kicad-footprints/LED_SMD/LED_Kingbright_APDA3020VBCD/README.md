@@ -6,6 +6,8 @@ Contents
 ========
 
 * [FZKLSMLKINGBRIGHTAPDA32VBCD > LED_SMD : LED_Kingbright_APDA3020VBCD](#fzklsmlkingbrightapda32vbcd--led_smd--led_kingbright_apda3020vbcd)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -17,6 +19,18 @@ NO IMAGE
 - Description: LED_SMD : LED_Kingbright_APDA3020VBCD
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_Kingbright_APDA3020VBCD](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_Kingbright_APDA3020VBCD)
 - Short Link: [http://oom.lt/FZKLSMLKINGBRIGHTAPDA32VBCD](http://oom.lt/FZKLSMLKINGBRIGHTAPDA32VBCD)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117LED_SMD+:+LED_Kingbright_APDA3020VBCD)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/LED_SMD+:+LED_Kingbright_APDA3020VBCD)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=LED_SMD+:+LED_Kingbright_APDA3020VBCD)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=LED_SMD+:+LED_Kingbright_APDA3020VBCD)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=LED_SMD+:+LED_Kingbright_APDA3020VBCD)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=LED_SMD+:+LED_Kingbright_APDA3020VBCD)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 NO IMAGES  
 ## Tags

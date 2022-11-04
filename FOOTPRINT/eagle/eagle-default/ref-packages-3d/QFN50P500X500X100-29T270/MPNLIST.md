@@ -1,0 +1,12 @@
+
+
+
+
+# MPN Summary For: FZEREFPACKAGES3DQFN5P5X5X129T27 > ref-packages-3d : QFN50P500X500X100-29T270
+
+## MPNs
+  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||

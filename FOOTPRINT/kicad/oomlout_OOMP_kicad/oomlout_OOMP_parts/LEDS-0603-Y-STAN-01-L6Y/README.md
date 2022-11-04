@@ -6,6 +6,8 @@ Contents
 ========
 
 * [FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSLS63YSTAN1L6Y > oomlout_OOMP_parts : LEDS-0603-Y-STAN-01-L6Y](#fzkicadoomloutoompkicadoomloutoomppartsls63ystan1l6y--oomlout_oomp_parts--leds-0603-y-stan-01-l6y)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +19,18 @@ Contents
 - Description: oomlout_OOMP_parts : LEDS-0603-Y-STAN-01-L6Y
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-LEDS-0603-Y-STAN-01-L6Y](http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-LEDS-0603-Y-STAN-01-L6Y)
 - Short Link: [http://oom.lt/FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSLS63YSTAN1L6Y](http://oom.lt/FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSLS63YSTAN1L6Y)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117oomlout_OOMP_parts+:+LEDS-0603-Y-STAN-01-L6Y)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/oomlout_OOMP_parts+:+LEDS-0603-Y-STAN-01-L6Y)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=oomlout_OOMP_parts+:+LEDS-0603-Y-STAN-01-L6Y)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=oomlout_OOMP_parts+:+LEDS-0603-Y-STAN-01-L6Y)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=oomlout_OOMP_parts+:+LEDS-0603-Y-STAN-01-L6Y)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=oomlout_OOMP_parts+:+LEDS-0603-Y-STAN-01-L6Y)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/LEDS-0603-Y-STAN-01-L6Y/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/LEDS-0603-Y-STAN-01-L6Y/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/LEDS-0603-Y-STAN-01-L6Y/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/LEDS-0603-Y-STAN-01-L6Y/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/LEDS-0603-Y-STAN-01-L6Y/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/LEDS-0603-Y-STAN-01-L6Y/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/LEDS-0603-Y-STAN-01-L6Y/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/LEDS-0603-Y-STAN-01-L6Y/kicadPcb3dBack.png)|

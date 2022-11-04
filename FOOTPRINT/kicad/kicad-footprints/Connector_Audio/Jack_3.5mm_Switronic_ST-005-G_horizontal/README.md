@@ -6,6 +6,8 @@ Contents
 ========
 
 * [FZKCNAUDIOJ35SWITRONICST5GHORIZONTAL > Connector_Audio : Jack_3.5mm_Switronic_ST-005-G_horizontal](#fzkcnaudioj35switronicst5ghorizontal--connector_audio--jack_35mm_switronic_st-005-g_horizontal)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +19,18 @@ Contents
 - Description: Connector_Audio : Jack_3.5mm_Switronic_ST-005-G_horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Audio-Jack_3.5mm_Switronic_ST-005-G_horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Audio-Jack_3.5mm_Switronic_ST-005-G_horizontal)
 - Short Link: [http://oom.lt/FZKCNAUDIOJ35SWITRONICST5GHORIZONTAL](http://oom.lt/FZKCNAUDIOJ35SWITRONICST5GHORIZONTAL)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Connector_Audio+:+Jack_3.5mm_Switronic_ST-005-G_horizontal)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Connector_Audio+:+Jack_3.5mm_Switronic_ST-005-G_horizontal)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Connector_Audio+:+Jack_3.5mm_Switronic_ST-005-G_horizontal)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Connector_Audio+:+Jack_3.5mm_Switronic_ST-005-G_horizontal)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Connector_Audio+:+Jack_3.5mm_Switronic_ST-005-G_horizontal)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Connector_Audio+:+Jack_3.5mm_Switronic_ST-005-G_horizontal)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Audio/Jack_3.5mm_Switronic_ST-005-G_horizontal/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Audio/Jack_3.5mm_Switronic_ST-005-G_horizontal/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Audio/Jack_3.5mm_Switronic_ST-005-G_horizontal/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Audio/Jack_3.5mm_Switronic_ST-005-G_horizontal/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Audio/Jack_3.5mm_Switronic_ST-005-G_horizontal/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Audio/Jack_3.5mm_Switronic_ST-005-G_horizontal/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Audio/Jack_3.5mm_Switronic_ST-005-G_horizontal/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Audio/Jack_3.5mm_Switronic_ST-005-G_horizontal/kicadPcb3dBack.png)|

@@ -6,6 +6,8 @@ Contents
 ========
 
 * [FZKRFBALUNJOHANSON54BL15B5E > RF_Converter : Balun_Johanson_5400BL15B050E](#fzkrfbalunjohanson54bl15b5e--rf_converter--balun_johanson_5400bl15b050e)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +19,18 @@ Contents
 - Description: RF_Converter : Balun_Johanson_5400BL15B050E
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_Converter-Balun_Johanson_5400BL15B050E](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_Converter-Balun_Johanson_5400BL15B050E)
 - Short Link: [http://oom.lt/FZKRFBALUNJOHANSON54BL15B5E](http://oom.lt/FZKRFBALUNJOHANSON54BL15B5E)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117RF_Converter+:+Balun_Johanson_5400BL15B050E)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/RF_Converter+:+Balun_Johanson_5400BL15B050E)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=RF_Converter+:+Balun_Johanson_5400BL15B050E)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=RF_Converter+:+Balun_Johanson_5400BL15B050E)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=RF_Converter+:+Balun_Johanson_5400BL15B050E)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=RF_Converter+:+Balun_Johanson_5400BL15B050E)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/RF_Converter/Balun_Johanson_5400BL15B050E/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/RF_Converter/Balun_Johanson_5400BL15B050E/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/RF_Converter/Balun_Johanson_5400BL15B050E/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/RF_Converter/Balun_Johanson_5400BL15B050E/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/RF_Converter/Balun_Johanson_5400BL15B050E/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/RF_Converter/Balun_Johanson_5400BL15B050E/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/RF_Converter/Balun_Johanson_5400BL15B050E/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/RF_Converter/Balun_Johanson_5400BL15B050E/kicadPcb3dBack.png)|

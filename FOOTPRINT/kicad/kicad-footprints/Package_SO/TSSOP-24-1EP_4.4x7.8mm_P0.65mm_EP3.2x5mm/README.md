@@ -6,6 +6,8 @@ Contents
 ========
 
 * [FZKSOTSS241EP44X78P65EP32X5 > Package_SO : TSSOP-24-1EP_4.4x7.8mm_P0.65mm_EP3.2x5mm](#fzksotss241ep44x78p65ep32x5--package_so--tssop-24-1ep_44x78mm_p065mm_ep32x5mm)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +19,18 @@ Contents
 - Description: Package_SO : TSSOP-24-1EP_4.4x7.8mm_P0.65mm_EP3.2x5mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SO-TSSOP-24-1EP_4.4x7.8mm_P0.65mm_EP3.2x5mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SO-TSSOP-24-1EP_4.4x7.8mm_P0.65mm_EP3.2x5mm)
 - Short Link: [http://oom.lt/FZKSOTSS241EP44X78P65EP32X5](http://oom.lt/FZKSOTSS241EP44X78P65EP32X5)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Package_SO+:+TSSOP-24-1EP_4.4x7.8mm_P0.65mm_EP3.2x5mm)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Package_SO+:+TSSOP-24-1EP_4.4x7.8mm_P0.65mm_EP3.2x5mm)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Package_SO+:+TSSOP-24-1EP_4.4x7.8mm_P0.65mm_EP3.2x5mm)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Package_SO+:+TSSOP-24-1EP_4.4x7.8mm_P0.65mm_EP3.2x5mm)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Package_SO+:+TSSOP-24-1EP_4.4x7.8mm_P0.65mm_EP3.2x5mm)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Package_SO+:+TSSOP-24-1EP_4.4x7.8mm_P0.65mm_EP3.2x5mm)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/TSSOP-24-1EP_4.4x7.8mm_P0.65mm_EP3.2x5mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/TSSOP-24-1EP_4.4x7.8mm_P0.65mm_EP3.2x5mm/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/TSSOP-24-1EP_4.4x7.8mm_P0.65mm_EP3.2x5mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/TSSOP-24-1EP_4.4x7.8mm_P0.65mm_EP3.2x5mm/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/TSSOP-24-1EP_4.4x7.8mm_P0.65mm_EP3.2x5mm/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/TSSOP-24-1EP_4.4x7.8mm_P0.65mm_EP3.2x5mm/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/TSSOP-24-1EP_4.4x7.8mm_P0.65mm_EP3.2x5mm/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/TSSOP-24-1EP_4.4x7.8mm_P0.65mm_EP3.2x5mm/kicadPcb3dBack.png)|

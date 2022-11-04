@@ -1,0 +1,12 @@
+
+
+
+
+# MPN Summary For: FZKCNMXMXKK39652733A1X3P396VERTICAL > Connector_Molex : Molex_KK-396_5273-03A_1x03_P3.96mm_Vertical
+
+## MPNs
+  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||

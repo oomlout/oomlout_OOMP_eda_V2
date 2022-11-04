@@ -6,6 +6,8 @@ Contents
 ========
 
 * [FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSWITCHTACTILESM45X45TL3315NF16Q > digikey-footprints : Switch_Tactile_SMD_4.5x4.5mm_TL3315NF160Q](#fzkicaddigikeykicadlibrarydigikeyfootprintsswitchtactilesm45x45tl3315nf16q--digikey-footprints--switch_tactile_smd_45x45mm_tl3315nf160q)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +19,18 @@ Contents
 - Description: digikey-footprints : Switch_Tactile_SMD_4.5x4.5mm_TL3315NF160Q
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Switch_Tactile_SMD_4.5x4.5mm_TL3315NF160Q](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Switch_Tactile_SMD_4.5x4.5mm_TL3315NF160Q)
 - Short Link: [http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSWITCHTACTILESM45X45TL3315NF16Q](http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSWITCHTACTILESM45X45TL3315NF16Q)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117digikey-footprints+:+Switch_Tactile_SMD_4.5x4.5mm_TL3315NF160Q)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/digikey-footprints+:+Switch_Tactile_SMD_4.5x4.5mm_TL3315NF160Q)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=digikey-footprints+:+Switch_Tactile_SMD_4.5x4.5mm_TL3315NF160Q)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=digikey-footprints+:+Switch_Tactile_SMD_4.5x4.5mm_TL3315NF160Q)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=digikey-footprints+:+Switch_Tactile_SMD_4.5x4.5mm_TL3315NF160Q)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=digikey-footprints+:+Switch_Tactile_SMD_4.5x4.5mm_TL3315NF160Q)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Switch_Tactile_SMD_4.5x4.5mm_TL3315NF160Q/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Switch_Tactile_SMD_4.5x4.5mm_TL3315NF160Q/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Switch_Tactile_SMD_4.5x4.5mm_TL3315NF160Q/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Switch_Tactile_SMD_4.5x4.5mm_TL3315NF160Q/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Switch_Tactile_SMD_4.5x4.5mm_TL3315NF160Q/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Switch_Tactile_SMD_4.5x4.5mm_TL3315NF160Q/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Switch_Tactile_SMD_4.5x4.5mm_TL3315NF160Q/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Switch_Tactile_SMD_4.5x4.5mm_TL3315NF160Q/kicadPcb3dBack.png)|

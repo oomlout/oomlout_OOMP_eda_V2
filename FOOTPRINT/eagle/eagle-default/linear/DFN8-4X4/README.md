@@ -1,0 +1,49 @@
+
+
+
+
+Contents
+========
+
+* [FZELINEARDFN84X4 > linear : DFN8-4X4](#fzelineardfn84x4--linear--dfn8-4x4)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
+	* [Tags](#tags)
+  
+NO IMAGE  
+# FZELINEARDFN84X4 > linear : DFN8-4X4
+
+- ID: FOOTPRINT-eagle-eagle-default-linear-DFN8-4X4
+- Hex ID: FZELINEARDFN84X4
+- Name: linear : DFN8-4X4
+- Description: linear : DFN8-4X4
+- Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-linear-DFN8-4X4](http://oom.lt/FOOTPRINT-eagle-eagle-default-linear-DFN8-4X4)
+- Short Link: [http://oom.lt/FZELINEARDFN84X4](http://oom.lt/FZELINEARDFN84X4)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117linear+:+DFN8-4X4)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/linear+:+DFN8-4X4)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=linear+:+DFN8-4X4)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=linear+:+DFN8-4X4)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=linear+:+DFN8-4X4)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=linear+:+DFN8-4X4)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
+  
+NO IMAGES  
+## Tags
+  
+
+|Tag Name|Tag Code|Tag Value|
+| :--- | :--- | :--- |
+|OOMP Type|oompType|FOOTPRINT|
+|OOMP Size|oompSize|eagle|
+|OOMP Color|oompColor|eagle-default|
+|OOMP Description|oompDesc|linear|
+|OOMP Index|oompIndex|DFN8-4X4|
+|Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-linear-DFN8-4X4|
+|Hex ID (short code)|hexID|FZELINEARDFN84X4|
+|name|name|linear : DFN8-4X4|
+||||

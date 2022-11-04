@@ -6,6 +6,8 @@ Contents
 ========
 
 * [FZKRFSLAIRDTECHNOLOGIES9723127X1337 > RF_Shielding : Laird_Technologies_97-2003_12.70x13.37mm](#fzkrfslairdtechnologies9723127x1337--rf_shielding--laird_technologies_97-2003_1270x1337mm)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +19,18 @@ Contents
 - Description: RF_Shielding : Laird_Technologies_97-2003_12.70x13.37mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_Shielding-Laird_Technologies_97-2003_12.70x13.37mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_Shielding-Laird_Technologies_97-2003_12.70x13.37mm)
 - Short Link: [http://oom.lt/FZKRFSLAIRDTECHNOLOGIES9723127X1337](http://oom.lt/FZKRFSLAIRDTECHNOLOGIES9723127X1337)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117RF_Shielding+:+Laird_Technologies_97-2003_12.70x13.37mm)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/RF_Shielding+:+Laird_Technologies_97-2003_12.70x13.37mm)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=RF_Shielding+:+Laird_Technologies_97-2003_12.70x13.37mm)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=RF_Shielding+:+Laird_Technologies_97-2003_12.70x13.37mm)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=RF_Shielding+:+Laird_Technologies_97-2003_12.70x13.37mm)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=RF_Shielding+:+Laird_Technologies_97-2003_12.70x13.37mm)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/RF_Shielding/Laird_Technologies_97-2003_12.70x13.37mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/RF_Shielding/Laird_Technologies_97-2003_12.70x13.37mm/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/RF_Shielding/Laird_Technologies_97-2003_12.70x13.37mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/RF_Shielding/Laird_Technologies_97-2003_12.70x13.37mm/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/RF_Shielding/Laird_Technologies_97-2003_12.70x13.37mm/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/RF_Shielding/Laird_Technologies_97-2003_12.70x13.37mm/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/RF_Shielding/Laird_Technologies_97-2003_12.70x13.37mm/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/RF_Shielding/Laird_Technologies_97-2003_12.70x13.37mm/kicadPcb3dBack.png)|

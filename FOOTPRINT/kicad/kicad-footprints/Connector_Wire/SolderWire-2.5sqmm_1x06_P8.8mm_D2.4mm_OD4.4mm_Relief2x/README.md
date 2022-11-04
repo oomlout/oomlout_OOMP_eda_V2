@@ -6,6 +6,8 @@ Contents
 ========
 
 * [FZKCNWIRESOLDERWIRE25SQ1X6P88D24OD44RELIEF2X > Connector_Wire : SolderWire-2.5sqmm_1x06_P8.8mm_D2.4mm_OD4.4mm_Relief2x](#fzkcnwiresolderwire25sq1x6p88d24od44relief2x--connector_wire--solderwire-25sqmm_1x06_p88mm_d24mm_od44mm_relief2x)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +19,18 @@ Contents
 - Description: Connector_Wire : SolderWire-2.5sqmm_1x06_P8.8mm_D2.4mm_OD4.4mm_Relief2x
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Wire-SolderWire-2.5sqmm_1x06_P8.8mm_D2.4mm_OD4.4mm_Relief2x](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Wire-SolderWire-2.5sqmm_1x06_P8.8mm_D2.4mm_OD4.4mm_Relief2x)
 - Short Link: [http://oom.lt/FZKCNWIRESOLDERWIRE25SQ1X6P88D24OD44RELIEF2X](http://oom.lt/FZKCNWIRESOLDERWIRE25SQ1X6P88D24OD44RELIEF2X)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Connector_Wire+:+SolderWire-2.5sqmm_1x06_P8.8mm_D2.4mm_OD4.4mm_Relief2x)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Connector_Wire+:+SolderWire-2.5sqmm_1x06_P8.8mm_D2.4mm_OD4.4mm_Relief2x)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Connector_Wire+:+SolderWire-2.5sqmm_1x06_P8.8mm_D2.4mm_OD4.4mm_Relief2x)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Connector_Wire+:+SolderWire-2.5sqmm_1x06_P8.8mm_D2.4mm_OD4.4mm_Relief2x)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Connector_Wire+:+SolderWire-2.5sqmm_1x06_P8.8mm_D2.4mm_OD4.4mm_Relief2x)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Connector_Wire+:+SolderWire-2.5sqmm_1x06_P8.8mm_D2.4mm_OD4.4mm_Relief2x)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Wire/SolderWire-2.5sqmm_1x06_P8.8mm_D2.4mm_OD4.4mm_Relief2x/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Wire/SolderWire-2.5sqmm_1x06_P8.8mm_D2.4mm_OD4.4mm_Relief2x/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Wire/SolderWire-2.5sqmm_1x06_P8.8mm_D2.4mm_OD4.4mm_Relief2x/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Wire/SolderWire-2.5sqmm_1x06_P8.8mm_D2.4mm_OD4.4mm_Relief2x/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Wire/SolderWire-2.5sqmm_1x06_P8.8mm_D2.4mm_OD4.4mm_Relief2x/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Wire/SolderWire-2.5sqmm_1x06_P8.8mm_D2.4mm_OD4.4mm_Relief2x/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Wire/SolderWire-2.5sqmm_1x06_P8.8mm_D2.4mm_OD4.4mm_Relief2x/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Wire/SolderWire-2.5sqmm_1x06_P8.8mm_D2.4mm_OD4.4mm_Relief2x/kicadPcb3dBack.png)|

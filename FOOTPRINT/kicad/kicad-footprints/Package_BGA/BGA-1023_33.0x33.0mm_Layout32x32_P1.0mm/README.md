@@ -6,6 +6,8 @@ Contents
 ========
 
 * [FZKBGABGA12333X33LAYOUT32X32P1 > Package_BGA : BGA-1023_33.0x33.0mm_Layout32x32_P1.0mm](#fzkbgabga12333x33layout32x32p1--package_bga--bga-1023_330x330mm_layout32x32_p10mm)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +19,18 @@ Contents
 - Description: Package_BGA : BGA-1023_33.0x33.0mm_Layout32x32_P1.0mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_BGA-BGA-1023_33.0x33.0mm_Layout32x32_P1.0mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_BGA-BGA-1023_33.0x33.0mm_Layout32x32_P1.0mm)
 - Short Link: [http://oom.lt/FZKBGABGA12333X33LAYOUT32X32P1](http://oom.lt/FZKBGABGA12333X33LAYOUT32X32P1)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Package_BGA+:+BGA-1023_33.0x33.0mm_Layout32x32_P1.0mm)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Package_BGA+:+BGA-1023_33.0x33.0mm_Layout32x32_P1.0mm)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Package_BGA+:+BGA-1023_33.0x33.0mm_Layout32x32_P1.0mm)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Package_BGA+:+BGA-1023_33.0x33.0mm_Layout32x32_P1.0mm)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Package_BGA+:+BGA-1023_33.0x33.0mm_Layout32x32_P1.0mm)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Package_BGA+:+BGA-1023_33.0x33.0mm_Layout32x32_P1.0mm)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_BGA/BGA-1023_33.0x33.0mm_Layout32x32_P1.0mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_BGA/BGA-1023_33.0x33.0mm_Layout32x32_P1.0mm/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_BGA/BGA-1023_33.0x33.0mm_Layout32x32_P1.0mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_BGA/BGA-1023_33.0x33.0mm_Layout32x32_P1.0mm/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_BGA/BGA-1023_33.0x33.0mm_Layout32x32_P1.0mm/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_BGA/BGA-1023_33.0x33.0mm_Layout32x32_P1.0mm/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_BGA/BGA-1023_33.0x33.0mm_Layout32x32_P1.0mm/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_BGA/BGA-1023_33.0x33.0mm_Layout32x32_P1.0mm/kicadPcb3dBack.png)|

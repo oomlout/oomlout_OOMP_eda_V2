@@ -1,0 +1,49 @@
+
+
+
+
+Contents
+========
+
+* [FZEEXARS24 > exar : SOP-24](#fzeexars24--exar--sop-24)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
+	* [Tags](#tags)
+  
+NO IMAGE  
+# FZEEXARS24 > exar : SOP-24
+
+- ID: FOOTPRINT-eagle-eagle-default-exar-SOP-24
+- Hex ID: FZEEXARS24
+- Name: exar : SOP-24
+- Description: exar : SOP-24
+- Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-exar-SOP-24](http://oom.lt/FOOTPRINT-eagle-eagle-default-exar-SOP-24)
+- Short Link: [http://oom.lt/FZEEXARS24](http://oom.lt/FZEEXARS24)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117exar+:+SOP-24)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/exar+:+SOP-24)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=exar+:+SOP-24)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=exar+:+SOP-24)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=exar+:+SOP-24)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=exar+:+SOP-24)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
+  
+NO IMAGES  
+## Tags
+  
+
+|Tag Name|Tag Code|Tag Value|
+| :--- | :--- | :--- |
+|OOMP Type|oompType|FOOTPRINT|
+|OOMP Size|oompSize|eagle|
+|OOMP Color|oompColor|eagle-default|
+|OOMP Description|oompDesc|exar|
+|OOMP Index|oompIndex|SOP-24|
+|Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-exar-SOP-24|
+|Hex ID (short code)|hexID|FZEEXARS24|
+|name|name|exar : SOP-24|
+||||

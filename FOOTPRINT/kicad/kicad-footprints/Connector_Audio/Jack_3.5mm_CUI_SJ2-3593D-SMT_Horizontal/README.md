@@ -6,6 +6,8 @@ Contents
 ========
 
 * [FZKCNAUDIOJ35CUISJ23593DSHORIZONTAL > Connector_Audio : Jack_3.5mm_CUI_SJ2-3593D-SMT_Horizontal](#fzkcnaudioj35cuisj23593dshorizontal--connector_audio--jack_35mm_cui_sj2-3593d-smt_horizontal)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +19,18 @@ Contents
 - Description: Connector_Audio : Jack_3.5mm_CUI_SJ2-3593D-SMT_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Audio-Jack_3.5mm_CUI_SJ2-3593D-SMT_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Audio-Jack_3.5mm_CUI_SJ2-3593D-SMT_Horizontal)
 - Short Link: [http://oom.lt/FZKCNAUDIOJ35CUISJ23593DSHORIZONTAL](http://oom.lt/FZKCNAUDIOJ35CUISJ23593DSHORIZONTAL)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Connector_Audio+:+Jack_3.5mm_CUI_SJ2-3593D-SMT_Horizontal)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Connector_Audio+:+Jack_3.5mm_CUI_SJ2-3593D-SMT_Horizontal)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Connector_Audio+:+Jack_3.5mm_CUI_SJ2-3593D-SMT_Horizontal)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Connector_Audio+:+Jack_3.5mm_CUI_SJ2-3593D-SMT_Horizontal)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Connector_Audio+:+Jack_3.5mm_CUI_SJ2-3593D-SMT_Horizontal)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Connector_Audio+:+Jack_3.5mm_CUI_SJ2-3593D-SMT_Horizontal)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 
 |kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Audio/Jack_3.5mm_CUI_SJ2-3593D-SMT_Horizontal/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Audio/Jack_3.5mm_CUI_SJ2-3593D-SMT_Horizontal/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Audio/Jack_3.5mm_CUI_SJ2-3593D-SMT_Horizontal/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Audio/Jack_3.5mm_CUI_SJ2-3593D-SMT_Horizontal/kicadPcb3dBack.png)|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Audio/Jack_3.5mm_CUI_SJ2-3593D-SMT_Horizontal/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Audio/Jack_3.5mm_CUI_SJ2-3593D-SMT_Horizontal/kicadPcb3d.png)||

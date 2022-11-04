@@ -6,6 +6,8 @@ Contents
 ========
 
 * [FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICCAPC63XUF1V1C6U11C1972 > oomlout_OOMP_JLCC_Basic : CAPC-0603-X-UF10-V10-C6U1010-C19702](#fzkicadoomloutoompkicadoomloutoompjlccbasiccapc63xuf1v1c6u11c1972--oomlout_oomp_jlcc_basic--capc-0603-x-uf10-v10-c6u1010-c19702)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +19,18 @@ Contents
 - Description: oomlout_OOMP_JLCC_Basic : CAPC-0603-X-UF10-V10-C6U1010-C19702
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0603-X-UF10-V10-C6U1010-C19702](http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0603-X-UF10-V10-C6U1010-C19702)
 - Short Link: [http://oom.lt/FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICCAPC63XUF1V1C6U11C1972](http://oom.lt/FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICCAPC63XUF1V1C6U11C1972)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117oomlout_OOMP_JLCC_Basic+:+CAPC-0603-X-UF10-V10-C6U1010-C19702)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/oomlout_OOMP_JLCC_Basic+:+CAPC-0603-X-UF10-V10-C6U1010-C19702)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=oomlout_OOMP_JLCC_Basic+:+CAPC-0603-X-UF10-V10-C6U1010-C19702)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=oomlout_OOMP_JLCC_Basic+:+CAPC-0603-X-UF10-V10-C6U1010-C19702)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=oomlout_OOMP_JLCC_Basic+:+CAPC-0603-X-UF10-V10-C6U1010-C19702)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=oomlout_OOMP_JLCC_Basic+:+CAPC-0603-X-UF10-V10-C6U1010-C19702)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_JLCC_Basic/CAPC-0603-X-UF10-V10-C6U1010-C19702/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_JLCC_Basic/CAPC-0603-X-UF10-V10-C6U1010-C19702/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_JLCC_Basic/CAPC-0603-X-UF10-V10-C6U1010-C19702/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_JLCC_Basic/CAPC-0603-X-UF10-V10-C6U1010-C19702/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_JLCC_Basic/CAPC-0603-X-UF10-V10-C6U1010-C19702/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_JLCC_Basic/CAPC-0603-X-UF10-V10-C6U1010-C19702/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_JLCC_Basic/CAPC-0603-X-UF10-V10-C6U1010-C19702/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_JLCC_Basic/CAPC-0603-X-UF10-V10-C6U1010-C19702/kicadPcb3dBack.png)|

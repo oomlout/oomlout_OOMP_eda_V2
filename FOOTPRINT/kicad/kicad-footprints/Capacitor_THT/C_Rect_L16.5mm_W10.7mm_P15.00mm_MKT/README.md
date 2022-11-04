@@ -6,6 +6,8 @@ Contents
 ========
 
 * [FZKCCRECTL165W17P15MKT > Capacitor_THT : C_Rect_L16.5mm_W10.7mm_P15.00mm_MKT](#fzkccrectl165w17p15mkt--capacitor_tht--c_rect_l165mm_w107mm_p1500mm_mkt)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +19,18 @@ Contents
 - Description: Capacitor_THT : C_Rect_L16.5mm_W10.7mm_P15.00mm_MKT
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_THT-C_Rect_L16.5mm_W10.7mm_P15.00mm_MKT](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_THT-C_Rect_L16.5mm_W10.7mm_P15.00mm_MKT)
 - Short Link: [http://oom.lt/FZKCCRECTL165W17P15MKT](http://oom.lt/FZKCCRECTL165W17P15MKT)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Capacitor_THT+:+C_Rect_L16.5mm_W10.7mm_P15.00mm_MKT)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Capacitor_THT+:+C_Rect_L16.5mm_W10.7mm_P15.00mm_MKT)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Capacitor_THT+:+C_Rect_L16.5mm_W10.7mm_P15.00mm_MKT)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Capacitor_THT+:+C_Rect_L16.5mm_W10.7mm_P15.00mm_MKT)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Capacitor_THT+:+C_Rect_L16.5mm_W10.7mm_P15.00mm_MKT)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Capacitor_THT+:+C_Rect_L16.5mm_W10.7mm_P15.00mm_MKT)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_THT/C_Rect_L16.5mm_W10.7mm_P15.00mm_MKT/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_THT/C_Rect_L16.5mm_W10.7mm_P15.00mm_MKT/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_THT/C_Rect_L16.5mm_W10.7mm_P15.00mm_MKT/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_THT/C_Rect_L16.5mm_W10.7mm_P15.00mm_MKT/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_THT/C_Rect_L16.5mm_W10.7mm_P15.00mm_MKT/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_THT/C_Rect_L16.5mm_W10.7mm_P15.00mm_MKT/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_THT/C_Rect_L16.5mm_W10.7mm_P15.00mm_MKT/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_THT/C_Rect_L16.5mm_W10.7mm_P15.00mm_MKT/kicadPcb3dBack.png)|

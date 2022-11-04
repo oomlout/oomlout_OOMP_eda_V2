@@ -1,0 +1,12 @@
+
+
+
+
+# MPN Summary For: FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICRESE126XO1R12OC17888 > oomlout_OOMP_JLCC_Basic : RESE-1206-X-O000-01-R12O000-C17888
+
+## MPNs
+  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||

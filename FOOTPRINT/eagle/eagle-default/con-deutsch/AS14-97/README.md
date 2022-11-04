@@ -1,0 +1,49 @@
+
+
+
+
+Contents
+========
+
+* [FZECONDEUTSCHAS1497 > con-deutsch : AS14-97](#fzecondeutschas1497--con-deutsch--as14-97)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
+	* [Tags](#tags)
+  
+NO IMAGE  
+# FZECONDEUTSCHAS1497 > con-deutsch : AS14-97
+
+- ID: FOOTPRINT-eagle-eagle-default-con-deutsch-AS14-97
+- Hex ID: FZECONDEUTSCHAS1497
+- Name: con-deutsch : AS14-97
+- Description: con-deutsch : AS14-97
+- Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-deutsch-AS14-97](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-deutsch-AS14-97)
+- Short Link: [http://oom.lt/FZECONDEUTSCHAS1497](http://oom.lt/FZECONDEUTSCHAS1497)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117con-deutsch+:+AS14-97)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/con-deutsch+:+AS14-97)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=con-deutsch+:+AS14-97)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=con-deutsch+:+AS14-97)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=con-deutsch+:+AS14-97)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=con-deutsch+:+AS14-97)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
+  
+NO IMAGES  
+## Tags
+  
+
+|Tag Name|Tag Code|Tag Value|
+| :--- | :--- | :--- |
+|OOMP Type|oompType|FOOTPRINT|
+|OOMP Size|oompSize|eagle|
+|OOMP Color|oompColor|eagle-default|
+|OOMP Description|oompDesc|con-deutsch|
+|OOMP Index|oompIndex|AS14-97|
+|Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-con-deutsch-AS14-97|
+|Hex ID (short code)|hexID|FZECONDEUTSCHAS1497|
+|name|name|con-deutsch : AS14-97|
+||||

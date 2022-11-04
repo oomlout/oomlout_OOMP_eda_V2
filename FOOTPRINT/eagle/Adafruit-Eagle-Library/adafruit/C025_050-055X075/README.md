@@ -1,0 +1,49 @@
+
+
+
+
+Contents
+========
+
+* [FZAC25555X75 > adafruit : C025_050-055X075](#fzac25555x75--adafruit--c025_050-055x075)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
+	* [Tags](#tags)
+  
+NO IMAGE  
+# FZAC25555X75 > adafruit : C025_050-055X075
+
+- ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-C025_050-055X075
+- Hex ID: FZAC25555X75
+- Name: adafruit : C025_050-055X075
+- Description: adafruit : C025_050-055X075
+- Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-C025_050-055X075](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-C025_050-055X075)
+- Short Link: [http://oom.lt/FZAC25555X75](http://oom.lt/FZAC25555X75)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117adafruit+:+C025_050-055X075)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/adafruit+:+C025_050-055X075)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=adafruit+:+C025_050-055X075)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=adafruit+:+C025_050-055X075)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=adafruit+:+C025_050-055X075)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=adafruit+:+C025_050-055X075)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
+  
+NO IMAGES  
+## Tags
+  
+
+|Tag Name|Tag Code|Tag Value|
+| :--- | :--- | :--- |
+|OOMP Type|oompType|FOOTPRINT|
+|OOMP Size|oompSize|eagle|
+|OOMP Color|oompColor|Adafruit-Eagle-Library|
+|OOMP Description|oompDesc|adafruit|
+|OOMP Index|oompIndex|C025_050-055X075|
+|Full OOMP ID|oompID|FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-C025_050-055X075|
+|Hex ID (short code)|hexID|FZAC25555X75|
+|name|name|adafruit : C025_050-055X075|
+||||

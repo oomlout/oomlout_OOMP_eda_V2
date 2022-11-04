@@ -1,0 +1,49 @@
+
+
+
+
+Contents
+========
+
+* [FZEINDUCTORNEOSIDSMT4 > inductor-neosid : SM-T4](#fzeinductorneosidsmt4--inductor-neosid--sm-t4)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
+	* [Tags](#tags)
+  
+NO IMAGE  
+# FZEINDUCTORNEOSIDSMT4 > inductor-neosid : SM-T4
+
+- ID: FOOTPRINT-eagle-eagle-default-inductor-neosid-SM-T4
+- Hex ID: FZEINDUCTORNEOSIDSMT4
+- Name: inductor-neosid : SM-T4
+- Description: inductor-neosid : SM-T4
+- Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-inductor-neosid-SM-T4](http://oom.lt/FOOTPRINT-eagle-eagle-default-inductor-neosid-SM-T4)
+- Short Link: [http://oom.lt/FZEINDUCTORNEOSIDSMT4](http://oom.lt/FZEINDUCTORNEOSIDSMT4)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117inductor-neosid+:+SM-T4)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/inductor-neosid+:+SM-T4)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=inductor-neosid+:+SM-T4)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=inductor-neosid+:+SM-T4)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=inductor-neosid+:+SM-T4)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=inductor-neosid+:+SM-T4)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
+  
+NO IMAGES  
+## Tags
+  
+
+|Tag Name|Tag Code|Tag Value|
+| :--- | :--- | :--- |
+|OOMP Type|oompType|FOOTPRINT|
+|OOMP Size|oompSize|eagle|
+|OOMP Color|oompColor|eagle-default|
+|OOMP Description|oompDesc|inductor-neosid|
+|OOMP Index|oompIndex|SM-T4|
+|Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-inductor-neosid-SM-T4|
+|Hex ID (short code)|hexID|FZEINDUCTORNEOSIDSMT4|
+|name|name|inductor-neosid : SM-T4|
+||||

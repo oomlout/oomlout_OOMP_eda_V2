@@ -1,0 +1,2 @@
+def load(newPart,it):
+    it['FOOTPRINT-eagle-eagle-default-micro-motorola-SQFP-S-10X10-44']['oompParts'] = [{}]

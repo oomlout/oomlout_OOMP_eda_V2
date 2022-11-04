@@ -6,6 +6,8 @@ Contents
 ========
 
 * [FZKTBALTECHALTECHAK31X1P545DEGREE > TerminalBlock_Altech : Altech_AK300_1x10_P5.00mm_45-Degree](#fzktbaltechaltechak31x1p545degree--terminalblock_altech--altech_ak300_1x10_p500mm_45-degree)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +19,18 @@ Contents
 - Description: TerminalBlock_Altech : Altech_AK300_1x10_P5.00mm_45-Degree
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-TerminalBlock_Altech-Altech_AK300_1x10_P5.00mm_45-Degree](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-TerminalBlock_Altech-Altech_AK300_1x10_P5.00mm_45-Degree)
 - Short Link: [http://oom.lt/FZKTBALTECHALTECHAK31X1P545DEGREE](http://oom.lt/FZKTBALTECHALTECHAK31X1P545DEGREE)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117TerminalBlock_Altech+:+Altech_AK300_1x10_P5.00mm_45-Degree)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/TerminalBlock_Altech+:+Altech_AK300_1x10_P5.00mm_45-Degree)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=TerminalBlock_Altech+:+Altech_AK300_1x10_P5.00mm_45-Degree)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=TerminalBlock_Altech+:+Altech_AK300_1x10_P5.00mm_45-Degree)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=TerminalBlock_Altech+:+Altech_AK300_1x10_P5.00mm_45-Degree)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=TerminalBlock_Altech+:+Altech_AK300_1x10_P5.00mm_45-Degree)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/TerminalBlock_Altech/Altech_AK300_1x10_P5.00mm_45-Degree/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/TerminalBlock_Altech/Altech_AK300_1x10_P5.00mm_45-Degree/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/TerminalBlock_Altech/Altech_AK300_1x10_P5.00mm_45-Degree/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/TerminalBlock_Altech/Altech_AK300_1x10_P5.00mm_45-Degree/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/TerminalBlock_Altech/Altech_AK300_1x10_P5.00mm_45-Degree/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/TerminalBlock_Altech/Altech_AK300_1x10_P5.00mm_45-Degree/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/TerminalBlock_Altech/Altech_AK300_1x10_P5.00mm_45-Degree/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/TerminalBlock_Altech/Altech_AK300_1x10_P5.00mm_45-Degree/kicadPcb3dBack.png)|

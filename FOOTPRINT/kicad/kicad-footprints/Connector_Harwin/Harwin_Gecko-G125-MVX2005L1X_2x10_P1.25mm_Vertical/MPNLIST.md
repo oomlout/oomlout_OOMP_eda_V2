@@ -1,0 +1,12 @@
+
+
+
+
+# MPN Summary For: FZKCNHARWINHARWINGECKOG125MVX25L1X2X1P125VERTICAL > Connector_Harwin : Harwin_Gecko-G125-MVX2005L1X_2x10_P1.25mm_Vertical
+
+## MPNs
+  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||

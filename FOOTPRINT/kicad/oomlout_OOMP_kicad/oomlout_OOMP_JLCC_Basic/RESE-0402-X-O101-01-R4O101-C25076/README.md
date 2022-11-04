@@ -6,6 +6,8 @@ Contents
 ========
 
 * [FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICRESE42XO111R4O11C2576 > oomlout_OOMP_JLCC_Basic : RESE-0402-X-O101-01-R4O101-C25076](#fzkicadoomloutoompkicadoomloutoompjlccbasicrese42xo111r4o11c2576--oomlout_oomp_jlcc_basic--rese-0402-x-o101-01-r4o101-c25076)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +19,18 @@ Contents
 - Description: oomlout_OOMP_JLCC_Basic : RESE-0402-X-O101-01-R4O101-C25076
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-RESE-0402-X-O101-01-R4O101-C25076](http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-RESE-0402-X-O101-01-R4O101-C25076)
 - Short Link: [http://oom.lt/FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICRESE42XO111R4O11C2576](http://oom.lt/FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICRESE42XO111R4O11C2576)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117oomlout_OOMP_JLCC_Basic+:+RESE-0402-X-O101-01-R4O101-C25076)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/oomlout_OOMP_JLCC_Basic+:+RESE-0402-X-O101-01-R4O101-C25076)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=oomlout_OOMP_JLCC_Basic+:+RESE-0402-X-O101-01-R4O101-C25076)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=oomlout_OOMP_JLCC_Basic+:+RESE-0402-X-O101-01-R4O101-C25076)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=oomlout_OOMP_JLCC_Basic+:+RESE-0402-X-O101-01-R4O101-C25076)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=oomlout_OOMP_JLCC_Basic+:+RESE-0402-X-O101-01-R4O101-C25076)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_JLCC_Basic/RESE-0402-X-O101-01-R4O101-C25076/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_JLCC_Basic/RESE-0402-X-O101-01-R4O101-C25076/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_JLCC_Basic/RESE-0402-X-O101-01-R4O101-C25076/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_JLCC_Basic/RESE-0402-X-O101-01-R4O101-C25076/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_JLCC_Basic/RESE-0402-X-O101-01-R4O101-C25076/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_JLCC_Basic/RESE-0402-X-O101-01-R4O101-C25076/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_JLCC_Basic/RESE-0402-X-O101-01-R4O101-C25076/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_JLCC_Basic/RESE-0402-X-O101-01-R4O101-C25076/kicadPcb3dBack.png)|

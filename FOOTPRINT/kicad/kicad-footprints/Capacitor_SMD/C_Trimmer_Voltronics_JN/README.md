@@ -6,6 +6,8 @@ Contents
 ========
 
 * [FZKCAPACITORSMCTRIERVOLTRONICSJN > Capacitor_SMD : C_Trimmer_Voltronics_JN](#fzkcapacitorsmctriervoltronicsjn--capacitor_smd--c_trimmer_voltronics_jn)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +19,18 @@ Contents
 - Description: Capacitor_SMD : C_Trimmer_Voltronics_JN
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_Trimmer_Voltronics_JN](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_Trimmer_Voltronics_JN)
 - Short Link: [http://oom.lt/FZKCAPACITORSMCTRIERVOLTRONICSJN](http://oom.lt/FZKCAPACITORSMCTRIERVOLTRONICSJN)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Capacitor_SMD+:+C_Trimmer_Voltronics_JN)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Capacitor_SMD+:+C_Trimmer_Voltronics_JN)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Capacitor_SMD+:+C_Trimmer_Voltronics_JN)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Capacitor_SMD+:+C_Trimmer_Voltronics_JN)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Capacitor_SMD+:+C_Trimmer_Voltronics_JN)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Capacitor_SMD+:+C_Trimmer_Voltronics_JN)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_SMD/C_Trimmer_Voltronics_JN/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_SMD/C_Trimmer_Voltronics_JN/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_SMD/C_Trimmer_Voltronics_JN/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_SMD/C_Trimmer_Voltronics_JN/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_SMD/C_Trimmer_Voltronics_JN/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_SMD/C_Trimmer_Voltronics_JN/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_SMD/C_Trimmer_Voltronics_JN/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_SMD/C_Trimmer_Voltronics_JN/kicadPcb3dBack.png)|

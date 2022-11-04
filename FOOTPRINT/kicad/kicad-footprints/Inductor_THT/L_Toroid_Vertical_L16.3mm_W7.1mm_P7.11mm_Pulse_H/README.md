@@ -6,6 +6,8 @@ Contents
 ========
 
 * [FZKINLTOROIDVERTICALL163W71P711PULSEH > Inductor_THT : L_Toroid_Vertical_L16.3mm_W7.1mm_P7.11mm_Pulse_H](#fzkinltoroidverticall163w71p711pulseh--inductor_tht--l_toroid_vertical_l163mm_w71mm_p711mm_pulse_h)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +19,18 @@ Contents
 - Description: Inductor_THT : L_Toroid_Vertical_L16.3mm_W7.1mm_P7.11mm_Pulse_H
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Toroid_Vertical_L16.3mm_W7.1mm_P7.11mm_Pulse_H](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Toroid_Vertical_L16.3mm_W7.1mm_P7.11mm_Pulse_H)
 - Short Link: [http://oom.lt/FZKINLTOROIDVERTICALL163W71P711PULSEH](http://oom.lt/FZKINLTOROIDVERTICALL163W71P711PULSEH)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Inductor_THT+:+L_Toroid_Vertical_L16.3mm_W7.1mm_P7.11mm_Pulse_H)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Inductor_THT+:+L_Toroid_Vertical_L16.3mm_W7.1mm_P7.11mm_Pulse_H)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Inductor_THT+:+L_Toroid_Vertical_L16.3mm_W7.1mm_P7.11mm_Pulse_H)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Inductor_THT+:+L_Toroid_Vertical_L16.3mm_W7.1mm_P7.11mm_Pulse_H)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Inductor_THT+:+L_Toroid_Vertical_L16.3mm_W7.1mm_P7.11mm_Pulse_H)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Inductor_THT+:+L_Toroid_Vertical_L16.3mm_W7.1mm_P7.11mm_Pulse_H)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Toroid_Vertical_L16.3mm_W7.1mm_P7.11mm_Pulse_H/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Toroid_Vertical_L16.3mm_W7.1mm_P7.11mm_Pulse_H/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Toroid_Vertical_L16.3mm_W7.1mm_P7.11mm_Pulse_H/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Toroid_Vertical_L16.3mm_W7.1mm_P7.11mm_Pulse_H/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Toroid_Vertical_L16.3mm_W7.1mm_P7.11mm_Pulse_H/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Toroid_Vertical_L16.3mm_W7.1mm_P7.11mm_Pulse_H/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Toroid_Vertical_L16.3mm_W7.1mm_P7.11mm_Pulse_H/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Toroid_Vertical_L16.3mm_W7.1mm_P7.11mm_Pulse_H/kicadPcb3dBack.png)|

@@ -1,0 +1,12 @@
+
+
+
+
+# MPN Summary For: FZKDFNUQFN161EP4X4P65EP27X27 > Package_DFN_QFN : UQFN-16-1EP_4x4mm_P0.65mm_EP2.7x2.7mm
+
+## MPNs
+  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||

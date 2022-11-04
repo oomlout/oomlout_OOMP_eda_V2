@@ -1,0 +1,2 @@
+def load(newPart,it):
+    it['FOOTPRINT-eagle-eagle-default-con-subd-HDM62H']['oompParts'] = [{}]

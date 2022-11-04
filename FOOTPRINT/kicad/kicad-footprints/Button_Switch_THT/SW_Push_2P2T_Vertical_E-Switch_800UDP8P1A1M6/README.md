@@ -6,6 +6,8 @@ Contents
 ========
 
 * [FZKBSWPUSH2P2TVERTICALESWITCH8UDP8P1A1M6 > Button_Switch_THT : SW_Push_2P2T_Vertical_E-Switch_800UDP8P1A1M6](#fzkbswpush2p2tverticaleswitch8udp8p1a1m6--button_switch_tht--sw_push_2p2t_vertical_e-switch_800udp8p1a1m6)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +19,18 @@ Contents
 - Description: Button_Switch_THT : SW_Push_2P2T_Vertical_E-Switch_800UDP8P1A1M6
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Button_Switch_THT-SW_Push_2P2T_Vertical_E-Switch_800UDP8P1A1M6](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Button_Switch_THT-SW_Push_2P2T_Vertical_E-Switch_800UDP8P1A1M6)
 - Short Link: [http://oom.lt/FZKBSWPUSH2P2TVERTICALESWITCH8UDP8P1A1M6](http://oom.lt/FZKBSWPUSH2P2TVERTICALESWITCH8UDP8P1A1M6)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Button_Switch_THT+:+SW_Push_2P2T_Vertical_E-Switch_800UDP8P1A1M6)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Button_Switch_THT+:+SW_Push_2P2T_Vertical_E-Switch_800UDP8P1A1M6)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Button_Switch_THT+:+SW_Push_2P2T_Vertical_E-Switch_800UDP8P1A1M6)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Button_Switch_THT+:+SW_Push_2P2T_Vertical_E-Switch_800UDP8P1A1M6)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Button_Switch_THT+:+SW_Push_2P2T_Vertical_E-Switch_800UDP8P1A1M6)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Button_Switch_THT+:+SW_Push_2P2T_Vertical_E-Switch_800UDP8P1A1M6)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/SW_Push_2P2T_Vertical_E-Switch_800UDP8P1A1M6/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/SW_Push_2P2T_Vertical_E-Switch_800UDP8P1A1M6/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/SW_Push_2P2T_Vertical_E-Switch_800UDP8P1A1M6/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/SW_Push_2P2T_Vertical_E-Switch_800UDP8P1A1M6/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/SW_Push_2P2T_Vertical_E-Switch_800UDP8P1A1M6/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/SW_Push_2P2T_Vertical_E-Switch_800UDP8P1A1M6/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/SW_Push_2P2T_Vertical_E-Switch_800UDP8P1A1M6/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/SW_Push_2P2T_Vertical_E-Switch_800UDP8P1A1M6/kicadPcb3dBack.png)|

@@ -6,6 +6,8 @@ Contents
 ========
 
 * [FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSCAPC126XUF1V63DC12U163D > oomlout_OOMP_parts : CAPC-1206-X-UF100-V63D-C12U10063D](#fzkicadoomloutoompkicadoomloutoomppartscapc126xuf1v63dc12u163d--oomlout_oomp_parts--capc-1206-x-uf100-v63d-c12u10063d)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +19,18 @@ Contents
 - Description: oomlout_OOMP_parts : CAPC-1206-X-UF100-V63D-C12U10063D
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-1206-X-UF100-V63D-C12U10063D](http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-1206-X-UF100-V63D-C12U10063D)
 - Short Link: [http://oom.lt/FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSCAPC126XUF1V63DC12U163D](http://oom.lt/FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSCAPC126XUF1V63DC12U163D)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117oomlout_OOMP_parts+:+CAPC-1206-X-UF100-V63D-C12U10063D)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/oomlout_OOMP_parts+:+CAPC-1206-X-UF100-V63D-C12U10063D)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=oomlout_OOMP_parts+:+CAPC-1206-X-UF100-V63D-C12U10063D)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=oomlout_OOMP_parts+:+CAPC-1206-X-UF100-V63D-C12U10063D)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=oomlout_OOMP_parts+:+CAPC-1206-X-UF100-V63D-C12U10063D)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=oomlout_OOMP_parts+:+CAPC-1206-X-UF100-V63D-C12U10063D)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/CAPC-1206-X-UF100-V63D-C12U10063D/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/CAPC-1206-X-UF100-V63D-C12U10063D/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/CAPC-1206-X-UF100-V63D-C12U10063D/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/CAPC-1206-X-UF100-V63D-C12U10063D/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/CAPC-1206-X-UF100-V63D-C12U10063D/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/CAPC-1206-X-UF100-V63D-C12U10063D/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/CAPC-1206-X-UF100-V63D-C12U10063D/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/CAPC-1206-X-UF100-V63D-C12U10063D/kicadPcb3dBack.png)|

@@ -6,6 +6,8 @@ Contents
 ========
 
 * [FZKOPOSRAMSFH9XX > OptoDevice : Osram_SFH9x0x](#fzkoposramsfh9xx--optodevice--osram_sfh9x0x)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +19,18 @@ Contents
 - Description: OptoDevice : Osram_SFH9x0x
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-OptoDevice-Osram_SFH9x0x](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-OptoDevice-Osram_SFH9x0x)
 - Short Link: [http://oom.lt/FZKOPOSRAMSFH9XX](http://oom.lt/FZKOPOSRAMSFH9XX)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117OptoDevice+:+Osram_SFH9x0x)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/OptoDevice+:+Osram_SFH9x0x)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=OptoDevice+:+Osram_SFH9x0x)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=OptoDevice+:+Osram_SFH9x0x)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=OptoDevice+:+Osram_SFH9x0x)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=OptoDevice+:+Osram_SFH9x0x)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/OptoDevice/Osram_SFH9x0x/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/OptoDevice/Osram_SFH9x0x/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/OptoDevice/Osram_SFH9x0x/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/OptoDevice/Osram_SFH9x0x/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/OptoDevice/Osram_SFH9x0x/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/OptoDevice/Osram_SFH9x0x/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/OptoDevice/Osram_SFH9x0x/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/OptoDevice/Osram_SFH9x0x/kicadPcb3dBack.png)|

@@ -1,0 +1,49 @@
+
+
+
+
+Contents
+========
+
+* [FZESWITCHMISCRF19 > switch-misc : RF19](#fzeswitchmiscrf19--switch-misc--rf19)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
+	* [Tags](#tags)
+  
+NO IMAGE  
+# FZESWITCHMISCRF19 > switch-misc : RF19
+
+- ID: FOOTPRINT-eagle-eagle-default-switch-misc-RF19
+- Hex ID: FZESWITCHMISCRF19
+- Name: switch-misc : RF19
+- Description: switch-misc : RF19
+- Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-misc-RF19](http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-misc-RF19)
+- Short Link: [http://oom.lt/FZESWITCHMISCRF19](http://oom.lt/FZESWITCHMISCRF19)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117switch-misc+:+RF19)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/switch-misc+:+RF19)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=switch-misc+:+RF19)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=switch-misc+:+RF19)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=switch-misc+:+RF19)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=switch-misc+:+RF19)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
+  
+NO IMAGES  
+## Tags
+  
+
+|Tag Name|Tag Code|Tag Value|
+| :--- | :--- | :--- |
+|OOMP Type|oompType|FOOTPRINT|
+|OOMP Size|oompSize|eagle|
+|OOMP Color|oompColor|eagle-default|
+|OOMP Description|oompDesc|switch-misc|
+|OOMP Index|oompIndex|RF19|
+|Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-switch-misc-RF19|
+|Hex ID (short code)|hexID|FZESWITCHMISCRF19|
+|name|name|switch-misc : RF19|
+||||

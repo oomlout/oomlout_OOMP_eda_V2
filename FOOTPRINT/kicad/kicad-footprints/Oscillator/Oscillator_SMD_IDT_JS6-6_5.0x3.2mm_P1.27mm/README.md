@@ -6,6 +6,8 @@ Contents
 ========
 
 * [FZKOCSOCSSMIDTJS665X32P127 > Oscillator : Oscillator_SMD_IDT_JS6-6_5.0x3.2mm_P1.27mm](#fzkocsocssmidtjs665x32p127--oscillator--oscillator_smd_idt_js6-6_50x32mm_p127mm)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +19,18 @@ Contents
 - Description: Oscillator : Oscillator_SMD_IDT_JS6-6_5.0x3.2mm_P1.27mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Oscillator-Oscillator_SMD_IDT_JS6-6_5.0x3.2mm_P1.27mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Oscillator-Oscillator_SMD_IDT_JS6-6_5.0x3.2mm_P1.27mm)
 - Short Link: [http://oom.lt/FZKOCSOCSSMIDTJS665X32P127](http://oom.lt/FZKOCSOCSSMIDTJS665X32P127)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Oscillator+:+Oscillator_SMD_IDT_JS6-6_5.0x3.2mm_P1.27mm)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Oscillator+:+Oscillator_SMD_IDT_JS6-6_5.0x3.2mm_P1.27mm)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Oscillator+:+Oscillator_SMD_IDT_JS6-6_5.0x3.2mm_P1.27mm)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Oscillator+:+Oscillator_SMD_IDT_JS6-6_5.0x3.2mm_P1.27mm)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Oscillator+:+Oscillator_SMD_IDT_JS6-6_5.0x3.2mm_P1.27mm)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Oscillator+:+Oscillator_SMD_IDT_JS6-6_5.0x3.2mm_P1.27mm)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Oscillator/Oscillator_SMD_IDT_JS6-6_5.0x3.2mm_P1.27mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Oscillator/Oscillator_SMD_IDT_JS6-6_5.0x3.2mm_P1.27mm/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Oscillator/Oscillator_SMD_IDT_JS6-6_5.0x3.2mm_P1.27mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Oscillator/Oscillator_SMD_IDT_JS6-6_5.0x3.2mm_P1.27mm/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Oscillator/Oscillator_SMD_IDT_JS6-6_5.0x3.2mm_P1.27mm/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Oscillator/Oscillator_SMD_IDT_JS6-6_5.0x3.2mm_P1.27mm/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Oscillator/Oscillator_SMD_IDT_JS6-6_5.0x3.2mm_P1.27mm/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Oscillator/Oscillator_SMD_IDT_JS6-6_5.0x3.2mm_P1.27mm/kicadPcb3dBack.png)|

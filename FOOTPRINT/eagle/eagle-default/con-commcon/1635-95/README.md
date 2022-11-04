@@ -1,0 +1,49 @@
+
+
+
+
+Contents
+========
+
+* [FZECONCOCON163595 > con-commcon : 1635-95](#fzeconcocon163595--con-commcon--1635-95)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
+	* [Tags](#tags)
+  
+NO IMAGE  
+# FZECONCOCON163595 > con-commcon : 1635-95
+
+- ID: FOOTPRINT-eagle-eagle-default-con-commcon-1635-95
+- Hex ID: FZECONCOCON163595
+- Name: con-commcon : 1635-95
+- Description: con-commcon : 1635-95
+- Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-commcon-1635-95](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-commcon-1635-95)
+- Short Link: [http://oom.lt/FZECONCOCON163595](http://oom.lt/FZECONCOCON163595)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117con-commcon+:+1635-95)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/con-commcon+:+1635-95)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=con-commcon+:+1635-95)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=con-commcon+:+1635-95)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=con-commcon+:+1635-95)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=con-commcon+:+1635-95)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
+  
+NO IMAGES  
+## Tags
+  
+
+|Tag Name|Tag Code|Tag Value|
+| :--- | :--- | :--- |
+|OOMP Type|oompType|FOOTPRINT|
+|OOMP Size|oompSize|eagle|
+|OOMP Color|oompColor|eagle-default|
+|OOMP Description|oompDesc|con-commcon|
+|OOMP Index|oompIndex|1635-95|
+|Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-con-commcon-1635-95|
+|Hex ID (short code)|hexID|FZECONCOCON163595|
+|name|name|con-commcon : 1635-95|
+||||

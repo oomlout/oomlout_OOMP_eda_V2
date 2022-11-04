@@ -6,6 +6,8 @@ Contents
 ========
 
 * [FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSUMBMALEUJ2MIBH4STR > digikey-footprints : USB_Micro_B_Male_UJ2-MIBH-4-SMT-TR](#fzkicaddigikeykicadlibrarydigikeyfootprintsumbmaleuj2mibh4str--digikey-footprints--usb_micro_b_male_uj2-mibh-4-smt-tr)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +19,18 @@ Contents
 - Description: digikey-footprints : USB_Micro_B_Male_UJ2-MIBH-4-SMT-TR
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-USB_Micro_B_Male_UJ2-MIBH-4-SMT-TR](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-USB_Micro_B_Male_UJ2-MIBH-4-SMT-TR)
 - Short Link: [http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSUMBMALEUJ2MIBH4STR](http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSUMBMALEUJ2MIBH4STR)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117digikey-footprints+:+USB_Micro_B_Male_UJ2-MIBH-4-SMT-TR)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/digikey-footprints+:+USB_Micro_B_Male_UJ2-MIBH-4-SMT-TR)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=digikey-footprints+:+USB_Micro_B_Male_UJ2-MIBH-4-SMT-TR)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=digikey-footprints+:+USB_Micro_B_Male_UJ2-MIBH-4-SMT-TR)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=digikey-footprints+:+USB_Micro_B_Male_UJ2-MIBH-4-SMT-TR)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=digikey-footprints+:+USB_Micro_B_Male_UJ2-MIBH-4-SMT-TR)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/USB_Micro_B_Male_UJ2-MIBH-4-SMT-TR/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/USB_Micro_B_Male_UJ2-MIBH-4-SMT-TR/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/USB_Micro_B_Male_UJ2-MIBH-4-SMT-TR/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/USB_Micro_B_Male_UJ2-MIBH-4-SMT-TR/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/USB_Micro_B_Male_UJ2-MIBH-4-SMT-TR/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/USB_Micro_B_Male_UJ2-MIBH-4-SMT-TR/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/USB_Micro_B_Male_UJ2-MIBH-4-SMT-TR/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/USB_Micro_B_Male_UJ2-MIBH-4-SMT-TR/kicadPcb3dBack.png)|

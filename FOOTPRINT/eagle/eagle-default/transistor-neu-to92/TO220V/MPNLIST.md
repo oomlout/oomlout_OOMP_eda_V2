@@ -1,0 +1,12 @@
+
+
+
+
+# MPN Summary For: FZETRANSISTORNEUTO92TO22V > transistor-neu-to92 : TO220V
+
+## MPNs
+  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||

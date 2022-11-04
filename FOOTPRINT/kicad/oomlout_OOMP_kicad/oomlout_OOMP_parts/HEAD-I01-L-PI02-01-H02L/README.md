@@ -6,6 +6,8 @@ Contents
 ========
 
 * [FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSHEADI1LPI21H2L > oomlout_OOMP_parts : HEAD-I01-L-PI02-01-H02L](#fzkicadoomloutoompkicadoomloutoomppartsheadi1lpi21h2l--oomlout_oomp_parts--head-i01-l-pi02-01-h02l)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +19,18 @@ Contents
 - Description: oomlout_OOMP_parts : HEAD-I01-L-PI02-01-H02L
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-I01-L-PI02-01-H02L](http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-I01-L-PI02-01-H02L)
 - Short Link: [http://oom.lt/FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSHEADI1LPI21H2L](http://oom.lt/FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSHEADI1LPI21H2L)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117oomlout_OOMP_parts+:+HEAD-I01-L-PI02-01-H02L)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/oomlout_OOMP_parts+:+HEAD-I01-L-PI02-01-H02L)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=oomlout_OOMP_parts+:+HEAD-I01-L-PI02-01-H02L)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=oomlout_OOMP_parts+:+HEAD-I01-L-PI02-01-H02L)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=oomlout_OOMP_parts+:+HEAD-I01-L-PI02-01-H02L)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=oomlout_OOMP_parts+:+HEAD-I01-L-PI02-01-H02L)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/HEAD-I01-L-PI02-01-H02L/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/HEAD-I01-L-PI02-01-H02L/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/HEAD-I01-L-PI02-01-H02L/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/HEAD-I01-L-PI02-01-H02L/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/HEAD-I01-L-PI02-01-H02L/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/HEAD-I01-L-PI02-01-H02L/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/HEAD-I01-L-PI02-01-H02L/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/HEAD-I01-L-PI02-01-H02L/kicadPcb3dBack.png)|

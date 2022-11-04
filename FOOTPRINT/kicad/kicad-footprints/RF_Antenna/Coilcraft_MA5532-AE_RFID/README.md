@@ -6,6 +6,8 @@ Contents
 ========
 
 * [FZKRFCOILCRAFTMA5532AERFID > RF_Antenna : Coilcraft_MA5532-AE_RFID](#fzkrfcoilcraftma5532aerfid--rf_antenna--coilcraft_ma5532-ae_rfid)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +19,18 @@ Contents
 - Description: RF_Antenna : Coilcraft_MA5532-AE_RFID
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_Antenna-Coilcraft_MA5532-AE_RFID](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_Antenna-Coilcraft_MA5532-AE_RFID)
 - Short Link: [http://oom.lt/FZKRFCOILCRAFTMA5532AERFID](http://oom.lt/FZKRFCOILCRAFTMA5532AERFID)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117RF_Antenna+:+Coilcraft_MA5532-AE_RFID)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/RF_Antenna+:+Coilcraft_MA5532-AE_RFID)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=RF_Antenna+:+Coilcraft_MA5532-AE_RFID)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=RF_Antenna+:+Coilcraft_MA5532-AE_RFID)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=RF_Antenna+:+Coilcraft_MA5532-AE_RFID)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=RF_Antenna+:+Coilcraft_MA5532-AE_RFID)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/RF_Antenna/Coilcraft_MA5532-AE_RFID/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/RF_Antenna/Coilcraft_MA5532-AE_RFID/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/RF_Antenna/Coilcraft_MA5532-AE_RFID/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/RF_Antenna/Coilcraft_MA5532-AE_RFID/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/RF_Antenna/Coilcraft_MA5532-AE_RFID/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/RF_Antenna/Coilcraft_MA5532-AE_RFID/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/RF_Antenna/Coilcraft_MA5532-AE_RFID/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/RF_Antenna/Coilcraft_MA5532-AE_RFID/kicadPcb3dBack.png)|

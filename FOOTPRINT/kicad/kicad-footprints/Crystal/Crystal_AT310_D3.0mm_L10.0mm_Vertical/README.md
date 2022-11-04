@@ -6,6 +6,8 @@ Contents
 ========
 
 * [FZKXXAT31D3L1VERTICAL > Crystal : Crystal_AT310_D3.0mm_L10.0mm_Vertical](#fzkxxat31d3l1vertical--crystal--crystal_at310_d30mm_l100mm_vertical)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +19,18 @@ Contents
 - Description: Crystal : Crystal_AT310_D3.0mm_L10.0mm_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_AT310_D3.0mm_L10.0mm_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_AT310_D3.0mm_L10.0mm_Vertical)
 - Short Link: [http://oom.lt/FZKXXAT31D3L1VERTICAL](http://oom.lt/FZKXXAT31D3L1VERTICAL)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Crystal+:+Crystal_AT310_D3.0mm_L10.0mm_Vertical)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Crystal+:+Crystal_AT310_D3.0mm_L10.0mm_Vertical)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Crystal+:+Crystal_AT310_D3.0mm_L10.0mm_Vertical)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Crystal+:+Crystal_AT310_D3.0mm_L10.0mm_Vertical)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Crystal+:+Crystal_AT310_D3.0mm_L10.0mm_Vertical)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Crystal+:+Crystal_AT310_D3.0mm_L10.0mm_Vertical)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_AT310_D3.0mm_L10.0mm_Vertical/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_AT310_D3.0mm_L10.0mm_Vertical/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_AT310_D3.0mm_L10.0mm_Vertical/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_AT310_D3.0mm_L10.0mm_Vertical/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_AT310_D3.0mm_L10.0mm_Vertical/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_AT310_D3.0mm_L10.0mm_Vertical/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_AT310_D3.0mm_L10.0mm_Vertical/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_AT310_D3.0mm_L10.0mm_Vertical/kicadPcb3dBack.png)|

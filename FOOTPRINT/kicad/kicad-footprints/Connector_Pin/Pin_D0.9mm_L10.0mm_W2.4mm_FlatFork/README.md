@@ -6,6 +6,8 @@ Contents
 ========
 
 * [FZKCNPINPIND9L1W24FLATFORK > Connector_Pin : Pin_D0.9mm_L10.0mm_W2.4mm_FlatFork](#fzkcnpinpind9l1w24flatfork--connector_pin--pin_d09mm_l100mm_w24mm_flatfork)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +19,18 @@ Contents
 - Description: Connector_Pin : Pin_D0.9mm_L10.0mm_W2.4mm_FlatFork
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Pin-Pin_D0.9mm_L10.0mm_W2.4mm_FlatFork](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Pin-Pin_D0.9mm_L10.0mm_W2.4mm_FlatFork)
 - Short Link: [http://oom.lt/FZKCNPINPIND9L1W24FLATFORK](http://oom.lt/FZKCNPINPIND9L1W24FLATFORK)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Connector_Pin+:+Pin_D0.9mm_L10.0mm_W2.4mm_FlatFork)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Connector_Pin+:+Pin_D0.9mm_L10.0mm_W2.4mm_FlatFork)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Connector_Pin+:+Pin_D0.9mm_L10.0mm_W2.4mm_FlatFork)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Connector_Pin+:+Pin_D0.9mm_L10.0mm_W2.4mm_FlatFork)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Connector_Pin+:+Pin_D0.9mm_L10.0mm_W2.4mm_FlatFork)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Connector_Pin+:+Pin_D0.9mm_L10.0mm_W2.4mm_FlatFork)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Pin/Pin_D0.9mm_L10.0mm_W2.4mm_FlatFork/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Pin/Pin_D0.9mm_L10.0mm_W2.4mm_FlatFork/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Pin/Pin_D0.9mm_L10.0mm_W2.4mm_FlatFork/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Pin/Pin_D0.9mm_L10.0mm_W2.4mm_FlatFork/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Pin/Pin_D0.9mm_L10.0mm_W2.4mm_FlatFork/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Pin/Pin_D0.9mm_L10.0mm_W2.4mm_FlatFork/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Pin/Pin_D0.9mm_L10.0mm_W2.4mm_FlatFork/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Pin/Pin_D0.9mm_L10.0mm_W2.4mm_FlatFork/kicadPcb3dBack.png)|

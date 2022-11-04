@@ -1,0 +1,49 @@
+
+
+
+
+Contents
+========
+
+* [FZSIUTQFP32 > SparkFun-IC-Microcontroller : TQFP32](#fzsiutqfp32--sparkfun-ic-microcontroller--tqfp32)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
+	* [Tags](#tags)
+  
+NO IMAGE  
+# FZSIUTQFP32 > SparkFun-IC-Microcontroller : TQFP32
+
+- ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Microcontroller-TQFP32
+- Hex ID: FZSIUTQFP32
+- Name: SparkFun-IC-Microcontroller : TQFP32
+- Description: SparkFun-IC-Microcontroller : TQFP32
+- Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Microcontroller-TQFP32](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Microcontroller-TQFP32)
+- Short Link: [http://oom.lt/FZSIUTQFP32](http://oom.lt/FZSIUTQFP32)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117SparkFun-IC-Microcontroller+:+TQFP32)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/SparkFun-IC-Microcontroller+:+TQFP32)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=SparkFun-IC-Microcontroller+:+TQFP32)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=SparkFun-IC-Microcontroller+:+TQFP32)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=SparkFun-IC-Microcontroller+:+TQFP32)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=SparkFun-IC-Microcontroller+:+TQFP32)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
+  
+NO IMAGES  
+## Tags
+  
+
+|Tag Name|Tag Code|Tag Value|
+| :--- | :--- | :--- |
+|OOMP Type|oompType|FOOTPRINT|
+|OOMP Size|oompSize|eagle|
+|OOMP Color|oompColor|SparkFun-Eagle-Libraries|
+|OOMP Description|oompDesc|SparkFun-IC-Microcontroller|
+|OOMP Index|oompIndex|TQFP32|
+|Full OOMP ID|oompID|FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Microcontroller-TQFP32|
+|Hex ID (short code)|hexID|FZSIUTQFP32|
+|name|name|SparkFun-IC-Microcontroller : TQFP32|
+||||

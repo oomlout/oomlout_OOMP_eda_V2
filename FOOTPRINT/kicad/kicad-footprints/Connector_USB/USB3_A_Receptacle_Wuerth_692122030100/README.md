@@ -6,6 +6,8 @@ Contents
 ========
 
 * [FZKCNUU3ARECEPTACLEWUERTH69212231 > Connector_USB : USB3_A_Receptacle_Wuerth_692122030100](#fzkcnuu3areceptaclewuerth69212231--connector_usb--usb3_a_receptacle_wuerth_692122030100)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -17,6 +19,18 @@ NO IMAGE
 - Description: Connector_USB : USB3_A_Receptacle_Wuerth_692122030100
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB3_A_Receptacle_Wuerth_692122030100](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB3_A_Receptacle_Wuerth_692122030100)
 - Short Link: [http://oom.lt/FZKCNUU3ARECEPTACLEWUERTH69212231](http://oom.lt/FZKCNUU3ARECEPTACLEWUERTH69212231)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Connector_USB+:+USB3_A_Receptacle_Wuerth_692122030100)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Connector_USB+:+USB3_A_Receptacle_Wuerth_692122030100)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Connector_USB+:+USB3_A_Receptacle_Wuerth_692122030100)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Connector_USB+:+USB3_A_Receptacle_Wuerth_692122030100)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Connector_USB+:+USB3_A_Receptacle_Wuerth_692122030100)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Connector_USB+:+USB3_A_Receptacle_Wuerth_692122030100)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 NO IMAGES  
 ## Tags

@@ -6,6 +6,8 @@ Contents
 ========
 
 * [FZKDDIODEBRIDGEVISHAYKBU > Diode_THT : Diode_Bridge_Vishay_KBU](#fzkddiodebridgevishaykbu--diode_tht--diode_bridge_vishay_kbu)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +19,18 @@ Contents
 - Description: Diode_THT : Diode_Bridge_Vishay_KBU
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Diode_THT-Diode_Bridge_Vishay_KBU](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Diode_THT-Diode_Bridge_Vishay_KBU)
 - Short Link: [http://oom.lt/FZKDDIODEBRIDGEVISHAYKBU](http://oom.lt/FZKDDIODEBRIDGEVISHAYKBU)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Diode_THT+:+Diode_Bridge_Vishay_KBU)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Diode_THT+:+Diode_Bridge_Vishay_KBU)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Diode_THT+:+Diode_Bridge_Vishay_KBU)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Diode_THT+:+Diode_Bridge_Vishay_KBU)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Diode_THT+:+Diode_Bridge_Vishay_KBU)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Diode_THT+:+Diode_Bridge_Vishay_KBU)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Diode_THT/Diode_Bridge_Vishay_KBU/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Diode_THT/Diode_Bridge_Vishay_KBU/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Diode_THT/Diode_Bridge_Vishay_KBU/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Diode_THT/Diode_Bridge_Vishay_KBU/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Diode_THT/Diode_Bridge_Vishay_KBU/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Diode_THT/Diode_Bridge_Vishay_KBU/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Diode_THT/Diode_Bridge_Vishay_KBU/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Diode_THT/Diode_Bridge_Vishay_KBU/kicadPcb3dBack.png)|

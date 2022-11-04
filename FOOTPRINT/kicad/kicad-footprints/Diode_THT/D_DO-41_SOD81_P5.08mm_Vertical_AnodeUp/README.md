@@ -6,6 +6,8 @@ Contents
 ========
 
 * [FZKDDDO41SOD81P58VERTICALANODEUP > Diode_THT : D_DO-41_SOD81_P5.08mm_Vertical_AnodeUp](#fzkdddo41sod81p58verticalanodeup--diode_tht--d_do-41_sod81_p508mm_vertical_anodeup)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +19,18 @@ Contents
 - Description: Diode_THT : D_DO-41_SOD81_P5.08mm_Vertical_AnodeUp
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Diode_THT-D_DO-41_SOD81_P5.08mm_Vertical_AnodeUp](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Diode_THT-D_DO-41_SOD81_P5.08mm_Vertical_AnodeUp)
 - Short Link: [http://oom.lt/FZKDDDO41SOD81P58VERTICALANODEUP](http://oom.lt/FZKDDDO41SOD81P58VERTICALANODEUP)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Diode_THT+:+D_DO-41_SOD81_P5.08mm_Vertical_AnodeUp)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Diode_THT+:+D_DO-41_SOD81_P5.08mm_Vertical_AnodeUp)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Diode_THT+:+D_DO-41_SOD81_P5.08mm_Vertical_AnodeUp)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Diode_THT+:+D_DO-41_SOD81_P5.08mm_Vertical_AnodeUp)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Diode_THT+:+D_DO-41_SOD81_P5.08mm_Vertical_AnodeUp)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Diode_THT+:+D_DO-41_SOD81_P5.08mm_Vertical_AnodeUp)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Diode_THT/D_DO-41_SOD81_P5.08mm_Vertical_AnodeUp/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Diode_THT/D_DO-41_SOD81_P5.08mm_Vertical_AnodeUp/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Diode_THT/D_DO-41_SOD81_P5.08mm_Vertical_AnodeUp/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Diode_THT/D_DO-41_SOD81_P5.08mm_Vertical_AnodeUp/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Diode_THT/D_DO-41_SOD81_P5.08mm_Vertical_AnodeUp/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Diode_THT/D_DO-41_SOD81_P5.08mm_Vertical_AnodeUp/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Diode_THT/D_DO-41_SOD81_P5.08mm_Vertical_AnodeUp/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Diode_THT/D_DO-41_SOD81_P5.08mm_Vertical_AnodeUp/kicadPcb3dBack.png)|

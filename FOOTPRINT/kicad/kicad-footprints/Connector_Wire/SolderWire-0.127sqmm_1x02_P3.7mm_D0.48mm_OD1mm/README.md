@@ -6,6 +6,8 @@ Contents
 ========
 
 * [FZKCNWIRESOLDERWIRE127SQ1X2P37D48OD1 > Connector_Wire : SolderWire-0.127sqmm_1x02_P3.7mm_D0.48mm_OD1mm](#fzkcnwiresolderwire127sq1x2p37d48od1--connector_wire--solderwire-0127sqmm_1x02_p37mm_d048mm_od1mm)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +19,18 @@ Contents
 - Description: Connector_Wire : SolderWire-0.127sqmm_1x02_P3.7mm_D0.48mm_OD1mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Wire-SolderWire-0.127sqmm_1x02_P3.7mm_D0.48mm_OD1mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Wire-SolderWire-0.127sqmm_1x02_P3.7mm_D0.48mm_OD1mm)
 - Short Link: [http://oom.lt/FZKCNWIRESOLDERWIRE127SQ1X2P37D48OD1](http://oom.lt/FZKCNWIRESOLDERWIRE127SQ1X2P37D48OD1)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Connector_Wire+:+SolderWire-0.127sqmm_1x02_P3.7mm_D0.48mm_OD1mm)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Connector_Wire+:+SolderWire-0.127sqmm_1x02_P3.7mm_D0.48mm_OD1mm)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Connector_Wire+:+SolderWire-0.127sqmm_1x02_P3.7mm_D0.48mm_OD1mm)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Connector_Wire+:+SolderWire-0.127sqmm_1x02_P3.7mm_D0.48mm_OD1mm)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Connector_Wire+:+SolderWire-0.127sqmm_1x02_P3.7mm_D0.48mm_OD1mm)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Connector_Wire+:+SolderWire-0.127sqmm_1x02_P3.7mm_D0.48mm_OD1mm)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Wire/SolderWire-0.127sqmm_1x02_P3.7mm_D0.48mm_OD1mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Wire/SolderWire-0.127sqmm_1x02_P3.7mm_D0.48mm_OD1mm/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Wire/SolderWire-0.127sqmm_1x02_P3.7mm_D0.48mm_OD1mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Wire/SolderWire-0.127sqmm_1x02_P3.7mm_D0.48mm_OD1mm/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Wire/SolderWire-0.127sqmm_1x02_P3.7mm_D0.48mm_OD1mm/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Wire/SolderWire-0.127sqmm_1x02_P3.7mm_D0.48mm_OD1mm/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Wire/SolderWire-0.127sqmm_1x02_P3.7mm_D0.48mm_OD1mm/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Wire/SolderWire-0.127sqmm_1x02_P3.7mm_D0.48mm_OD1mm/kicadPcb3dBack.png)|

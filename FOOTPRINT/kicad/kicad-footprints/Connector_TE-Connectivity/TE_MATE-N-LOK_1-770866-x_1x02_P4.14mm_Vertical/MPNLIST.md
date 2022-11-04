@@ -1,0 +1,12 @@
+
+
+
+
+# MPN Summary For: FZKCNTECONNECTIVITYTEMATENLOK177866X1X2P414VERTICAL > Connector_TE-Connectivity : TE_MATE-N-LOK_1-770866-x_1x02_P4.14mm_Vertical
+
+## MPNs
+  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
