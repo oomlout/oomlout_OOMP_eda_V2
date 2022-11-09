@@ -6,8 +6,6 @@ Contents
 ========
 
 * [FZERECTIFIERMBS > rectifier : MBS](#fzerectifiermbs--rectifier--mbs)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -19,18 +17,6 @@ NO IMAGE
 - Description: rectifier : MBS
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-rectifier-MBS](http://oom.lt/FOOTPRINT-eagle-eagle-default-rectifier-MBS)
 - Short Link: [http://oom.lt/FZERECTIFIERMBS](http://oom.lt/FZERECTIFIERMBS)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117rectifier+:+MBS)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/rectifier+:+MBS)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=rectifier+:+MBS)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=rectifier+:+MBS)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=rectifier+:+MBS)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=rectifier+:+MBS)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 NO IMAGES  
 ## Tags

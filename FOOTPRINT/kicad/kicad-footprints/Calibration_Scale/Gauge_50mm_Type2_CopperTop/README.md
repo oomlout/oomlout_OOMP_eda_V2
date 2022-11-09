@@ -6,8 +6,6 @@ Contents
 ========
 
 * [FZKCSGAUGE5TYPE2CTOP > Calibration_Scale : Gauge_50mm_Type2_CopperTop](#fzkcsgauge5type2ctop--calibration_scale--gauge_50mm_type2_coppertop)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -19,18 +17,6 @@ Contents
 - Description: Calibration_Scale : Gauge_50mm_Type2_CopperTop
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Calibration_Scale-Gauge_50mm_Type2_CopperTop](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Calibration_Scale-Gauge_50mm_Type2_CopperTop)
 - Short Link: [http://oom.lt/FZKCSGAUGE5TYPE2CTOP](http://oom.lt/FZKCSGAUGE5TYPE2CTOP)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Calibration_Scale+:+Gauge_50mm_Type2_CopperTop)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Calibration_Scale+:+Gauge_50mm_Type2_CopperTop)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Calibration_Scale+:+Gauge_50mm_Type2_CopperTop)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Calibration_Scale+:+Gauge_50mm_Type2_CopperTop)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Calibration_Scale+:+Gauge_50mm_Type2_CopperTop)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Calibration_Scale+:+Gauge_50mm_Type2_CopperTop)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Calibration_Scale/Gauge_50mm_Type2_CopperTop/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Calibration_Scale/Gauge_50mm_Type2_CopperTop/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Calibration_Scale/Gauge_50mm_Type2_CopperTop/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Calibration_Scale/Gauge_50mm_Type2_CopperTop/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Calibration_Scale/Gauge_50mm_Type2_CopperTop/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Calibration_Scale/Gauge_50mm_Type2_CopperTop/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Calibration_Scale/Gauge_50mm_Type2_CopperTop/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Calibration_Scale/Gauge_50mm_Type2_CopperTop/kicadPcb3dBack.png)|

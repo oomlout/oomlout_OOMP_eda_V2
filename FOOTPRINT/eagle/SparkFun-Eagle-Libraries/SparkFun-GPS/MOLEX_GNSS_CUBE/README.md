@@ -6,8 +6,6 @@ Contents
 ========
 
 * [FZSGMXGNSSCUBE > SparkFun-GPS : MOLEX_GNSS_CUBE](#fzsgmxgnsscube--sparkfun-gps--molex_gnss_cube)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -19,18 +17,6 @@ NO IMAGE
 - Description: SparkFun-GPS : MOLEX_GNSS_CUBE
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-GPS-MOLEX_GNSS_CUBE](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-GPS-MOLEX_GNSS_CUBE)
 - Short Link: [http://oom.lt/FZSGMXGNSSCUBE](http://oom.lt/FZSGMXGNSSCUBE)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117SparkFun-GPS+:+MOLEX_GNSS_CUBE)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/SparkFun-GPS+:+MOLEX_GNSS_CUBE)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=SparkFun-GPS+:+MOLEX_GNSS_CUBE)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=SparkFun-GPS+:+MOLEX_GNSS_CUBE)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=SparkFun-GPS+:+MOLEX_GNSS_CUBE)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=SparkFun-GPS+:+MOLEX_GNSS_CUBE)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 NO IMAGES  
 ## Tags

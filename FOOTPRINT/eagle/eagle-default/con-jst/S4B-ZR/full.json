@@ -30,6 +30,9 @@
         "jsonFull": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-jst/S4B-ZR/full.json"
         ],
+        "mpnList": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-jst/S4B-ZR/MPNLIST.md"
+        ],
         "readme": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-jst/S4B-ZR/README.md"
         ]

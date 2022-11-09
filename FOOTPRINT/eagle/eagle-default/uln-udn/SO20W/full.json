@@ -30,6 +30,9 @@
         "jsonFull": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/uln-udn/SO20W/full.json"
         ],
+        "mpnList": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/uln-udn/SO20W/MPNLIST.md"
+        ],
         "readme": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/uln-udn/SO20W/README.md"
         ]

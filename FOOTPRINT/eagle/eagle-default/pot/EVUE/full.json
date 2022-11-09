@@ -30,6 +30,9 @@
         "jsonFull": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/pot/EVUE/full.json"
         ],
+        "mpnList": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/pot/EVUE/MPNLIST.md"
+        ],
         "readme": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/pot/EVUE/README.md"
         ]

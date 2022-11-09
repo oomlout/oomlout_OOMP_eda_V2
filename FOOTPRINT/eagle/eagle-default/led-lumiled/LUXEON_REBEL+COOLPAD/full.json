@@ -30,6 +30,9 @@
         "jsonFull": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/led-lumiled/LUXEON_REBEL+COOLPAD/full.json"
         ],
+        "mpnList": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/led-lumiled/LUXEON_REBEL+COOLPAD/MPNLIST.md"
+        ],
         "readme": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/led-lumiled/LUXEON_REBEL+COOLPAD/README.md"
         ]

@@ -6,8 +6,6 @@ Contents
 ========
 
 * [FZKINDUCTORSMLTAIYOYUDENBKARRAY1263216METRIC > Inductor_SMD : L_Taiyo-Yuden_BK_Array_1206_3216Metric](#fzkinductorsmltaiyoyudenbkarray1263216metric--inductor_smd--l_taiyo-yuden_bk_array_1206_3216metric)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -19,18 +17,6 @@ NO IMAGE
 - Description: Inductor_SMD : L_Taiyo-Yuden_BK_Array_1206_3216Metric
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Taiyo-Yuden_BK_Array_1206_3216Metric](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Taiyo-Yuden_BK_Array_1206_3216Metric)
 - Short Link: [http://oom.lt/FZKINDUCTORSMLTAIYOYUDENBKARRAY1263216METRIC](http://oom.lt/FZKINDUCTORSMLTAIYOYUDENBKARRAY1263216METRIC)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Inductor_SMD+:+L_Taiyo-Yuden_BK_Array_1206_3216Metric)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Inductor_SMD+:+L_Taiyo-Yuden_BK_Array_1206_3216Metric)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Inductor_SMD+:+L_Taiyo-Yuden_BK_Array_1206_3216Metric)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Inductor_SMD+:+L_Taiyo-Yuden_BK_Array_1206_3216Metric)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Inductor_SMD+:+L_Taiyo-Yuden_BK_Array_1206_3216Metric)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Inductor_SMD+:+L_Taiyo-Yuden_BK_Array_1206_3216Metric)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 NO IMAGES  
 ## Tags

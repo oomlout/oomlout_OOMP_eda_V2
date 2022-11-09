@@ -6,11 +6,9 @@ Contents
 ========
 
 * [FZEAM29MEMORYBGA256A > am29-memory : BGA256-A](#fzeam29memorybga256a--am29-memory--bga256-a)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEAM29MEMORYBGA256A > am29-memory : BGA256-A
 
 - ID: FOOTPRINT-eagle-eagle-default-am29-memory-BGA256-A
@@ -19,20 +17,12 @@ NO IMAGE
 - Description: am29-memory : BGA256-A
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-am29-memory-BGA256-A](http://oom.lt/FOOTPRINT-eagle-eagle-default-am29-memory-BGA256-A)
 - Short Link: [http://oom.lt/FZEAM29MEMORYBGA256A](http://oom.lt/FZEAM29MEMORYBGA256A)
+  
 
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117am29-memory+:+BGA256-A)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/am29-memory+:+BGA256-A)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=am29-memory+:+BGA256-A)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=am29-memory+:+BGA256-A)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=am29-memory+:+BGA256-A)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=am29-memory+:+BGA256-A)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/am29-memory/BGA256-A/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/am29-memory/BGA256-A/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/am29-memory/BGA256-A/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/am29-memory/BGA256-A/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/am29-memory/BGA256-A/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/am29-memory/BGA256-A/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/am29-memory/BGA256-A/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/am29-memory/BGA256-A/kicadPcb3dBack.png)|
+| :---: | :---: | :---: | :---: |
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/am29-memory/BGA256-A/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/am29-memory/BGA256-A/kicadPcb3d.png)||||
 
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
-  
-NO IMAGES  
 ## Tags
   
 
@@ -47,3 +37,7 @@ NO IMAGES
 |Hex ID (short code)|hexID|FZEAM29MEMORYBGA256A|
 |name|name|am29-memory : BGA256-A|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

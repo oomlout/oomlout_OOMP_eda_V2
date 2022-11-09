@@ -6,8 +6,6 @@ Contents
 ========
 
 * [FZETRANSISTORPOWERTOP3AHS > transistor-power : TOP3AHS](#fzetransistorpowertop3ahs--transistor-power--top3ahs)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -19,18 +17,6 @@ NO IMAGE
 - Description: transistor-power : TOP3AHS
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-power-TOP3AHS](http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-power-TOP3AHS)
 - Short Link: [http://oom.lt/FZETRANSISTORPOWERTOP3AHS](http://oom.lt/FZETRANSISTORPOWERTOP3AHS)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117transistor-power+:+TOP3AHS)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/transistor-power+:+TOP3AHS)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=transistor-power+:+TOP3AHS)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=transistor-power+:+TOP3AHS)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=transistor-power+:+TOP3AHS)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=transistor-power+:+TOP3AHS)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 NO IMAGES  
 ## Tags

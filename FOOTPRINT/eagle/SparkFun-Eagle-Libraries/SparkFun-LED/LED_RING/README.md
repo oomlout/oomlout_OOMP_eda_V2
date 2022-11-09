@@ -6,8 +6,6 @@ Contents
 ========
 
 * [FZSLLRING > SparkFun-LED : LED_RING](#fzsllring--sparkfun-led--led_ring)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -19,18 +17,6 @@ NO IMAGE
 - Description: SparkFun-LED : LED_RING
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-LED-LED_RING](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-LED-LED_RING)
 - Short Link: [http://oom.lt/FZSLLRING](http://oom.lt/FZSLLRING)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117SparkFun-LED+:+LED_RING)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/SparkFun-LED+:+LED_RING)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=SparkFun-LED+:+LED_RING)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=SparkFun-LED+:+LED_RING)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=SparkFun-LED+:+LED_RING)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=SparkFun-LED+:+LED_RING)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 NO IMAGES  
 ## Tags

@@ -6,8 +6,6 @@ Contents
 ========
 
 * [FZEEXARSO2LD > exar : SO-20LD](#fzeexarso2ld--exar--so-20ld)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -19,18 +17,6 @@ NO IMAGE
 - Description: exar : SO-20LD
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-exar-SO-20LD](http://oom.lt/FOOTPRINT-eagle-eagle-default-exar-SO-20LD)
 - Short Link: [http://oom.lt/FZEEXARSO2LD](http://oom.lt/FZEEXARSO2LD)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117exar+:+SO-20LD)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/exar+:+SO-20LD)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=exar+:+SO-20LD)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=exar+:+SO-20LD)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=exar+:+SO-20LD)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=exar+:+SO-20LD)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 NO IMAGES  
 ## Tags

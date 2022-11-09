@@ -6,8 +6,6 @@ Contents
 ========
 
 * [FZAJST8POS > adafruit : JST-8POS](#fzajst8pos--adafruit--jst-8pos)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -19,18 +17,6 @@ NO IMAGE
 - Description: adafruit : JST-8POS
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-JST-8POS](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-JST-8POS)
 - Short Link: [http://oom.lt/FZAJST8POS](http://oom.lt/FZAJST8POS)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117adafruit+:+JST-8POS)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/adafruit+:+JST-8POS)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=adafruit+:+JST-8POS)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=adafruit+:+JST-8POS)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=adafruit+:+JST-8POS)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=adafruit+:+JST-8POS)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 NO IMAGES  
 ## Tags

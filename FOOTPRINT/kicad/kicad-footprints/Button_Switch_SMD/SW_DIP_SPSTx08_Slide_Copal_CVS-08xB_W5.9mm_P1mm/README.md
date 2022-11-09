@@ -6,8 +6,6 @@ Contents
 ========
 
 * [FZKBSWITCHSMSWDIPSPSTX8SLIDECOPALCVS8XBW59P1 > Button_Switch_SMD : SW_DIP_SPSTx08_Slide_Copal_CVS-08xB_W5.9mm_P1mm](#fzkbswitchsmswdipspstx8slidecopalcvs8xbw59p1--button_switch_smd--sw_dip_spstx08_slide_copal_cvs-08xb_w59mm_p1mm)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -19,18 +17,6 @@ Contents
 - Description: Button_Switch_SMD : SW_DIP_SPSTx08_Slide_Copal_CVS-08xB_W5.9mm_P1mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-SW_DIP_SPSTx08_Slide_Copal_CVS-08xB_W5.9mm_P1mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-SW_DIP_SPSTx08_Slide_Copal_CVS-08xB_W5.9mm_P1mm)
 - Short Link: [http://oom.lt/FZKBSWITCHSMSWDIPSPSTX8SLIDECOPALCVS8XBW59P1](http://oom.lt/FZKBSWITCHSMSWDIPSPSTX8SLIDECOPALCVS8XBW59P1)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Button_Switch_SMD+:+SW_DIP_SPSTx08_Slide_Copal_CVS-08xB_W5.9mm_P1mm)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Button_Switch_SMD+:+SW_DIP_SPSTx08_Slide_Copal_CVS-08xB_W5.9mm_P1mm)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Button_Switch_SMD+:+SW_DIP_SPSTx08_Slide_Copal_CVS-08xB_W5.9mm_P1mm)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Button_Switch_SMD+:+SW_DIP_SPSTx08_Slide_Copal_CVS-08xB_W5.9mm_P1mm)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Button_Switch_SMD+:+SW_DIP_SPSTx08_Slide_Copal_CVS-08xB_W5.9mm_P1mm)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Button_Switch_SMD+:+SW_DIP_SPSTx08_Slide_Copal_CVS-08xB_W5.9mm_P1mm)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_SMD/SW_DIP_SPSTx08_Slide_Copal_CVS-08xB_W5.9mm_P1mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_SMD/SW_DIP_SPSTx08_Slide_Copal_CVS-08xB_W5.9mm_P1mm/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_SMD/SW_DIP_SPSTx08_Slide_Copal_CVS-08xB_W5.9mm_P1mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_SMD/SW_DIP_SPSTx08_Slide_Copal_CVS-08xB_W5.9mm_P1mm/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_SMD/SW_DIP_SPSTx08_Slide_Copal_CVS-08xB_W5.9mm_P1mm/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_SMD/SW_DIP_SPSTx08_Slide_Copal_CVS-08xB_W5.9mm_P1mm/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_SMD/SW_DIP_SPSTx08_Slide_Copal_CVS-08xB_W5.9mm_P1mm/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_SMD/SW_DIP_SPSTx08_Slide_Copal_CVS-08xB_W5.9mm_P1mm/kicadPcb3dBack.png)|

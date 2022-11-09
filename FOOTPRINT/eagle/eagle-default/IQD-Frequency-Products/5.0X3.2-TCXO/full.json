@@ -30,6 +30,9 @@
         "jsonFull": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/IQD-Frequency-Products/5.0X3.2-TCXO/full.json"
         ],
+        "mpnList": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/IQD-Frequency-Products/5.0X3.2-TCXO/MPNLIST.md"
+        ],
         "readme": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/IQD-Frequency-Products/5.0X3.2-TCXO/README.md"
         ]

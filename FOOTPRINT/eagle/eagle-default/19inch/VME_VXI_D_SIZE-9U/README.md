@@ -6,11 +6,9 @@ Contents
 ========
 
 * [FZE19INCHVMEVXIDSIZE9U > 19inch : VME_VXI_D_SIZE-9U](#fze19inchvmevxidsize9u--19inch--vme_vxi_d_size-9u)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZE19INCHVMEVXIDSIZE9U > 19inch : VME_VXI_D_SIZE-9U
 
 - ID: FOOTPRINT-eagle-eagle-default-19inch-VME_VXI_D_SIZE-9U
@@ -19,20 +17,12 @@ NO IMAGE
 - Description: 19inch : VME_VXI_D_SIZE-9U
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-19inch-VME_VXI_D_SIZE-9U](http://oom.lt/FOOTPRINT-eagle-eagle-default-19inch-VME_VXI_D_SIZE-9U)
 - Short Link: [http://oom.lt/FZE19INCHVMEVXIDSIZE9U](http://oom.lt/FZE19INCHVMEVXIDSIZE9U)
+  
 
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=111719inch+:+VME_VXI_D_SIZE-9U)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/19inch+:+VME_VXI_D_SIZE-9U)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=19inch+:+VME_VXI_D_SIZE-9U)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=19inch+:+VME_VXI_D_SIZE-9U)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=19inch+:+VME_VXI_D_SIZE-9U)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=19inch+:+VME_VXI_D_SIZE-9U)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/19inch/VME_VXI_D_SIZE-9U/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/19inch/VME_VXI_D_SIZE-9U/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/19inch/VME_VXI_D_SIZE-9U/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/19inch/VME_VXI_D_SIZE-9U/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/19inch/VME_VXI_D_SIZE-9U/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/19inch/VME_VXI_D_SIZE-9U/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/19inch/VME_VXI_D_SIZE-9U/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/19inch/VME_VXI_D_SIZE-9U/kicadPcb3dBack.png)|
+| :---: | :---: | :---: | :---: |
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/19inch/VME_VXI_D_SIZE-9U/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/19inch/VME_VXI_D_SIZE-9U/kicadPcb3d.png)||||
 
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
-  
-NO IMAGES  
 ## Tags
   
 
@@ -47,3 +37,7 @@ NO IMAGES
 |Hex ID (short code)|hexID|FZE19INCHVMEVXIDSIZE9U|
 |name|name|19inch : VME_VXI_D_SIZE-9U|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

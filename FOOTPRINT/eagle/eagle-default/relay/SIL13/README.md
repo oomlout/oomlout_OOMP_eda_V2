@@ -6,8 +6,6 @@ Contents
 ========
 
 * [FZERELAYSIL13 > relay : SIL13](#fzerelaysil13--relay--sil13)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -19,18 +17,6 @@ NO IMAGE
 - Description: relay : SIL13
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-SIL13](http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-SIL13)
 - Short Link: [http://oom.lt/FZERELAYSIL13](http://oom.lt/FZERELAYSIL13)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117relay+:+SIL13)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/relay+:+SIL13)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=relay+:+SIL13)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=relay+:+SIL13)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=relay+:+SIL13)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=relay+:+SIL13)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 NO IMAGES  
 ## Tags

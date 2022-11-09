@@ -6,8 +6,6 @@ Contents
 ========
 
 * [FZECONPCAGPUC > con-pc : AGP_UC](#fzeconpcagpuc--con-pc--agp_uc)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -19,18 +17,6 @@ NO IMAGE
 - Description: con-pc : AGP_UC
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-pc-AGP_UC](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-pc-AGP_UC)
 - Short Link: [http://oom.lt/FZECONPCAGPUC](http://oom.lt/FZECONPCAGPUC)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117con-pc+:+AGP_UC)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/con-pc+:+AGP_UC)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=con-pc+:+AGP_UC)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=con-pc+:+AGP_UC)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=con-pc+:+AGP_UC)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=con-pc+:+AGP_UC)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 NO IMAGES  
 ## Tags

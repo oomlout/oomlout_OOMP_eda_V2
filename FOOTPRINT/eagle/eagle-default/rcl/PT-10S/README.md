@@ -6,8 +6,6 @@ Contents
 ========
 
 * [FZERCLPT1S > rcl : PT-10S](#fzerclpt1s--rcl--pt-10s)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -19,18 +17,6 @@ NO IMAGE
 - Description: rcl : PT-10S
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-PT-10S](http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-PT-10S)
 - Short Link: [http://oom.lt/FZERCLPT1S](http://oom.lt/FZERCLPT1S)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117rcl+:+PT-10S)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/rcl+:+PT-10S)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=rcl+:+PT-10S)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=rcl+:+PT-10S)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=rcl+:+PT-10S)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=rcl+:+PT-10S)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 NO IMAGES  
 ## Tags

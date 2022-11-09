@@ -6,8 +6,6 @@ Contents
 ========
 
 * [FZETELEFUNKENSO8 > telefunken : SO08](#fzetelefunkenso8--telefunken--so08)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -19,18 +17,6 @@ NO IMAGE
 - Description: telefunken : SO08
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-telefunken-SO08](http://oom.lt/FOOTPRINT-eagle-eagle-default-telefunken-SO08)
 - Short Link: [http://oom.lt/FZETELEFUNKENSO8](http://oom.lt/FZETELEFUNKENSO8)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117telefunken+:+SO08)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/telefunken+:+SO08)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=telefunken+:+SO08)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=telefunken+:+SO08)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=telefunken+:+SO08)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=telefunken+:+SO08)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 NO IMAGES  
 ## Tags

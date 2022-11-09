@@ -6,8 +6,6 @@ Contents
 ========
 
 * [FZELQ6292B156 > led : Q62902-B156](#fzelq6292b156--led--q62902-b156)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -19,18 +17,6 @@ NO IMAGE
 - Description: led : Q62902-B156
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-led-Q62902-B156](http://oom.lt/FOOTPRINT-eagle-eagle-default-led-Q62902-B156)
 - Short Link: [http://oom.lt/FZELQ6292B156](http://oom.lt/FZELQ6292B156)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117led+:+Q62902-B156)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/led+:+Q62902-B156)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=led+:+Q62902-B156)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=led+:+Q62902-B156)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=led+:+Q62902-B156)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=led+:+Q62902-B156)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 NO IMAGES  
 ## Tags

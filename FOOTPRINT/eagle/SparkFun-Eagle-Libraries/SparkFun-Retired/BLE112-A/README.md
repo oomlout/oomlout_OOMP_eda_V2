@@ -6,8 +6,6 @@ Contents
 ========
 
 * [FZSRTBLE112A > SparkFun-Retired : BLE112-A](#fzsrtble112a--sparkfun-retired--ble112-a)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -19,18 +17,6 @@ NO IMAGE
 - Description: SparkFun-Retired : BLE112-A
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-BLE112-A](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-BLE112-A)
 - Short Link: [http://oom.lt/FZSRTBLE112A](http://oom.lt/FZSRTBLE112A)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117SparkFun-Retired+:+BLE112-A)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/SparkFun-Retired+:+BLE112-A)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=SparkFun-Retired+:+BLE112-A)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=SparkFun-Retired+:+BLE112-A)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=SparkFun-Retired+:+BLE112-A)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=SparkFun-Retired+:+BLE112-A)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 NO IMAGES  
 ## Tags

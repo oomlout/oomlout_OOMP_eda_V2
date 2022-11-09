@@ -6,8 +6,6 @@ Contents
 ========
 
 * [FZKCNPHOENIXMCPHOENIXCONTACTMCV159GF351X9P35VERTICALTHREADEDFLANGEMOUNTHOLE > Connector_Phoenix_MC : PhoenixContact_MCV_1,5_9-GF-3.5_1x09_P3.50mm_Vertical_ThreadedFlange_MountHole](#fzkcnphoenixmcphoenixcontactmcv159gf351x9p35verticalthreadedflangemounthole--connector_phoenix_mc--phoenixcontact_mcv_15_9-gf-35_1x09_p350mm_vertical_threadedflange_mounthole)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -19,18 +17,6 @@ Contents
 - Description: Connector_Phoenix_MC : PhoenixContact_MCV_1,5_9-GF-3.5_1x09_P3.50mm_Vertical_ThreadedFlange_MountHole
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Phoenix_MC-PhoenixContact_MCV_1,5_9-GF-3.5_1x09_P3.50mm_Vertical_ThreadedFlange_MountHole](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Phoenix_MC-PhoenixContact_MCV_1,5_9-GF-3.5_1x09_P3.50mm_Vertical_ThreadedFlange_MountHole)
 - Short Link: [http://oom.lt/FZKCNPHOENIXMCPHOENIXCONTACTMCV159GF351X9P35VERTICALTHREADEDFLANGEMOUNTHOLE](http://oom.lt/FZKCNPHOENIXMCPHOENIXCONTACTMCV159GF351X9P35VERTICALTHREADEDFLANGEMOUNTHOLE)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Connector_Phoenix_MC+:+PhoenixContact_MCV_1,5_9-GF-3.5_1x09_P3.50mm_Vertical_ThreadedFlange_MountHole)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Connector_Phoenix_MC+:+PhoenixContact_MCV_1,5_9-GF-3.5_1x09_P3.50mm_Vertical_ThreadedFlange_MountHole)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Connector_Phoenix_MC+:+PhoenixContact_MCV_1,5_9-GF-3.5_1x09_P3.50mm_Vertical_ThreadedFlange_MountHole)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Connector_Phoenix_MC+:+PhoenixContact_MCV_1,5_9-GF-3.5_1x09_P3.50mm_Vertical_ThreadedFlange_MountHole)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Connector_Phoenix_MC+:+PhoenixContact_MCV_1,5_9-GF-3.5_1x09_P3.50mm_Vertical_ThreadedFlange_MountHole)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Connector_Phoenix_MC+:+PhoenixContact_MCV_1,5_9-GF-3.5_1x09_P3.50mm_Vertical_ThreadedFlange_MountHole)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Phoenix_MC/PhoenixContact_MCV_1,5_9-GF-3.5_1x09_P3.50mm_Vertical_ThreadedFlange_MountHole/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Phoenix_MC/PhoenixContact_MCV_1,5_9-GF-3.5_1x09_P3.50mm_Vertical_ThreadedFlange_MountHole/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Phoenix_MC/PhoenixContact_MCV_1,5_9-GF-3.5_1x09_P3.50mm_Vertical_ThreadedFlange_MountHole/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Phoenix_MC/PhoenixContact_MCV_1,5_9-GF-3.5_1x09_P3.50mm_Vertical_ThreadedFlange_MountHole/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Phoenix_MC/PhoenixContact_MCV_1,5_9-GF-3.5_1x09_P3.50mm_Vertical_ThreadedFlange_MountHole/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Phoenix_MC/PhoenixContact_MCV_1,5_9-GF-3.5_1x09_P3.50mm_Vertical_ThreadedFlange_MountHole/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Phoenix_MC/PhoenixContact_MCV_1,5_9-GF-3.5_1x09_P3.50mm_Vertical_ThreadedFlange_MountHole/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Phoenix_MC/PhoenixContact_MCV_1,5_9-GF-3.5_1x09_P3.50mm_Vertical_ThreadedFlange_MountHole/kicadPcb3dBack.png)|

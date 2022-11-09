@@ -6,8 +6,6 @@ Contents
 ========
 
 * [FZESMSPECIALSMB > smd-special : SMB](#fzesmspecialsmb--smd-special--smb)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -19,18 +17,6 @@ NO IMAGE
 - Description: smd-special : SMB
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-special-SMB](http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-special-SMB)
 - Short Link: [http://oom.lt/FZESMSPECIALSMB](http://oom.lt/FZESMSPECIALSMB)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117smd-special+:+SMB)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/smd-special+:+SMB)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=smd-special+:+SMB)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=smd-special+:+SMB)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=smd-special+:+SMB)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=smd-special+:+SMB)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 NO IMAGES  
 ## Tags

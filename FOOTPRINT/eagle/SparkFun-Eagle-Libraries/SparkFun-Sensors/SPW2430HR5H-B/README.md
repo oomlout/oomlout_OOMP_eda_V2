@@ -6,8 +6,6 @@ Contents
 ========
 
 * [FZSSPARKFUNSENSSPW243HR5HB > SparkFun-Sensors : SPW2430HR5H-B](#fzssparkfunsensspw243hr5hb--sparkfun-sensors--spw2430hr5h-b)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -19,18 +17,6 @@ NO IMAGE
 - Description: SparkFun-Sensors : SPW2430HR5H-B
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-SPW2430HR5H-B](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-SPW2430HR5H-B)
 - Short Link: [http://oom.lt/FZSSPARKFUNSENSSPW243HR5HB](http://oom.lt/FZSSPARKFUNSENSSPW243HR5HB)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117SparkFun-Sensors+:+SPW2430HR5H-B)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/SparkFun-Sensors+:+SPW2430HR5H-B)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=SparkFun-Sensors+:+SPW2430HR5H-B)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=SparkFun-Sensors+:+SPW2430HR5H-B)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=SparkFun-Sensors+:+SPW2430HR5H-B)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=SparkFun-Sensors+:+SPW2430HR5H-B)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 NO IMAGES  
 ## Tags

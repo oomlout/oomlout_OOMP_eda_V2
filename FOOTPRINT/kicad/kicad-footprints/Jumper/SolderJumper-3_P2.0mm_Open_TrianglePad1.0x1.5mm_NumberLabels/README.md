@@ -6,8 +6,6 @@ Contents
 ========
 
 * [FZKJSOLDERJ3P2OPENTRIANGLEPAD1X15NUMBERLABELS > Jumper : SolderJumper-3_P2.0mm_Open_TrianglePad1.0x1.5mm_NumberLabels](#fzkjsolderj3p2opentrianglepad1x15numberlabels--jumper--solderjumper-3_p20mm_open_trianglepad10x15mm_numberlabels)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -19,18 +17,6 @@ Contents
 - Description: Jumper : SolderJumper-3_P2.0mm_Open_TrianglePad1.0x1.5mm_NumberLabels
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Jumper-SolderJumper-3_P2.0mm_Open_TrianglePad1.0x1.5mm_NumberLabels](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Jumper-SolderJumper-3_P2.0mm_Open_TrianglePad1.0x1.5mm_NumberLabels)
 - Short Link: [http://oom.lt/FZKJSOLDERJ3P2OPENTRIANGLEPAD1X15NUMBERLABELS](http://oom.lt/FZKJSOLDERJ3P2OPENTRIANGLEPAD1X15NUMBERLABELS)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Jumper+:+SolderJumper-3_P2.0mm_Open_TrianglePad1.0x1.5mm_NumberLabels)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Jumper+:+SolderJumper-3_P2.0mm_Open_TrianglePad1.0x1.5mm_NumberLabels)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Jumper+:+SolderJumper-3_P2.0mm_Open_TrianglePad1.0x1.5mm_NumberLabels)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Jumper+:+SolderJumper-3_P2.0mm_Open_TrianglePad1.0x1.5mm_NumberLabels)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Jumper+:+SolderJumper-3_P2.0mm_Open_TrianglePad1.0x1.5mm_NumberLabels)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Jumper+:+SolderJumper-3_P2.0mm_Open_TrianglePad1.0x1.5mm_NumberLabels)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Jumper/SolderJumper-3_P2.0mm_Open_TrianglePad1.0x1.5mm_NumberLabels/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Jumper/SolderJumper-3_P2.0mm_Open_TrianglePad1.0x1.5mm_NumberLabels/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Jumper/SolderJumper-3_P2.0mm_Open_TrianglePad1.0x1.5mm_NumberLabels/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Jumper/SolderJumper-3_P2.0mm_Open_TrianglePad1.0x1.5mm_NumberLabels/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Jumper/SolderJumper-3_P2.0mm_Open_TrianglePad1.0x1.5mm_NumberLabels/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Jumper/SolderJumper-3_P2.0mm_Open_TrianglePad1.0x1.5mm_NumberLabels/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Jumper/SolderJumper-3_P2.0mm_Open_TrianglePad1.0x1.5mm_NumberLabels/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Jumper/SolderJumper-3_P2.0mm_Open_TrianglePad1.0x1.5mm_NumberLabels/kicadPcb3dBack.png)|

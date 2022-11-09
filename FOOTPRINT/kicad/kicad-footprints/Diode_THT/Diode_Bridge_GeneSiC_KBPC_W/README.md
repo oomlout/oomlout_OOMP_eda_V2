@@ -6,8 +6,6 @@ Contents
 ========
 
 * [FZKDDIODEBRIDGEGENESICKBPCW > Diode_THT : Diode_Bridge_GeneSiC_KBPC_W](#fzkddiodebridgegenesickbpcw--diode_tht--diode_bridge_genesic_kbpc_w)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -19,18 +17,6 @@ NO IMAGE
 - Description: Diode_THT : Diode_Bridge_GeneSiC_KBPC_W
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Diode_THT-Diode_Bridge_GeneSiC_KBPC_W](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Diode_THT-Diode_Bridge_GeneSiC_KBPC_W)
 - Short Link: [http://oom.lt/FZKDDIODEBRIDGEGENESICKBPCW](http://oom.lt/FZKDDIODEBRIDGEGENESICKBPCW)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Diode_THT+:+Diode_Bridge_GeneSiC_KBPC_W)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Diode_THT+:+Diode_Bridge_GeneSiC_KBPC_W)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Diode_THT+:+Diode_Bridge_GeneSiC_KBPC_W)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Diode_THT+:+Diode_Bridge_GeneSiC_KBPC_W)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Diode_THT+:+Diode_Bridge_GeneSiC_KBPC_W)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Diode_THT+:+Diode_Bridge_GeneSiC_KBPC_W)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 NO IMAGES  
 ## Tags

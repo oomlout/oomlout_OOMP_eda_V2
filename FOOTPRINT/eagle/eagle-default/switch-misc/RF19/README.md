@@ -6,8 +6,6 @@ Contents
 ========
 
 * [FZESWITCHMISCRF19 > switch-misc : RF19](#fzeswitchmiscrf19--switch-misc--rf19)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -19,18 +17,6 @@ NO IMAGE
 - Description: switch-misc : RF19
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-misc-RF19](http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-misc-RF19)
 - Short Link: [http://oom.lt/FZESWITCHMISCRF19](http://oom.lt/FZESWITCHMISCRF19)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117switch-misc+:+RF19)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/switch-misc+:+RF19)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=switch-misc+:+RF19)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=switch-misc+:+RF19)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=switch-misc+:+RF19)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=switch-misc+:+RF19)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 NO IMAGES  
 ## Tags

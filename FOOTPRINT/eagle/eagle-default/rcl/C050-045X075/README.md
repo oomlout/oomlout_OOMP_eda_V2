@@ -6,8 +6,6 @@ Contents
 ========
 
 * [FZERCLC545X75 > rcl : C050-045X075](#fzerclc545x75--rcl--c050-045x075)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -19,18 +17,6 @@ NO IMAGE
 - Description: rcl : C050-045X075
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-C050-045X075](http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-C050-045X075)
 - Short Link: [http://oom.lt/FZERCLC545X75](http://oom.lt/FZERCLC545X75)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117rcl+:+C050-045X075)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/rcl+:+C050-045X075)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=rcl+:+C050-045X075)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=rcl+:+C050-045X075)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=rcl+:+C050-045X075)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=rcl+:+C050-045X075)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 NO IMAGES  
 ## Tags

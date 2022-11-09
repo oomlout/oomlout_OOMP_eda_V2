@@ -6,8 +6,6 @@ Contents
 ========
 
 * [FZKCNPINHEADER127PINHEADER1X2P127VERTICALSMPIN1RIGHT > Connector_PinHeader_1.27mm : PinHeader_1x20_P1.27mm_Vertical_SMD_Pin1Right](#fzkcnpinheader127pinheader1x2p127verticalsmpin1right--connector_pinheader_127mm--pinheader_1x20_p127mm_vertical_smd_pin1right)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -19,18 +17,6 @@ Contents
 - Description: Connector_PinHeader_1.27mm : PinHeader_1x20_P1.27mm_Vertical_SMD_Pin1Right
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_PinHeader_1.27mm-PinHeader_1x20_P1.27mm_Vertical_SMD_Pin1Right](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_PinHeader_1.27mm-PinHeader_1x20_P1.27mm_Vertical_SMD_Pin1Right)
 - Short Link: [http://oom.lt/FZKCNPINHEADER127PINHEADER1X2P127VERTICALSMPIN1RIGHT](http://oom.lt/FZKCNPINHEADER127PINHEADER1X2P127VERTICALSMPIN1RIGHT)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Connector_PinHeader_1.27mm+:+PinHeader_1x20_P1.27mm_Vertical_SMD_Pin1Right)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Connector_PinHeader_1.27mm+:+PinHeader_1x20_P1.27mm_Vertical_SMD_Pin1Right)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Connector_PinHeader_1.27mm+:+PinHeader_1x20_P1.27mm_Vertical_SMD_Pin1Right)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Connector_PinHeader_1.27mm+:+PinHeader_1x20_P1.27mm_Vertical_SMD_Pin1Right)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Connector_PinHeader_1.27mm+:+PinHeader_1x20_P1.27mm_Vertical_SMD_Pin1Right)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Connector_PinHeader_1.27mm+:+PinHeader_1x20_P1.27mm_Vertical_SMD_Pin1Right)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_PinHeader_1.27mm/PinHeader_1x20_P1.27mm_Vertical_SMD_Pin1Right/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_PinHeader_1.27mm/PinHeader_1x20_P1.27mm_Vertical_SMD_Pin1Right/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_PinHeader_1.27mm/PinHeader_1x20_P1.27mm_Vertical_SMD_Pin1Right/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_PinHeader_1.27mm/PinHeader_1x20_P1.27mm_Vertical_SMD_Pin1Right/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_PinHeader_1.27mm/PinHeader_1x20_P1.27mm_Vertical_SMD_Pin1Right/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_PinHeader_1.27mm/PinHeader_1x20_P1.27mm_Vertical_SMD_Pin1Right/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_PinHeader_1.27mm/PinHeader_1x20_P1.27mm_Vertical_SMD_Pin1Right/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_PinHeader_1.27mm/PinHeader_1x20_P1.27mm_Vertical_SMD_Pin1Right/kicadPcb3dBack.png)|

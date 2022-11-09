@@ -6,8 +6,6 @@ Contents
 ========
 
 * [FZEREFPACKAGESM212 > ref-packages : M2012](#fzerefpackagesm212--ref-packages--m2012)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -19,18 +17,6 @@ NO IMAGE
 - Description: ref-packages : M2012
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-M2012](http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-M2012)
 - Short Link: [http://oom.lt/FZEREFPACKAGESM212](http://oom.lt/FZEREFPACKAGESM212)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117ref-packages+:+M2012)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/ref-packages+:+M2012)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=ref-packages+:+M2012)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=ref-packages+:+M2012)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=ref-packages+:+M2012)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=ref-packages+:+M2012)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 NO IMAGES  
 ## Tags

@@ -30,6 +30,9 @@
         "jsonFull": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-xmultiple/XRJK-S-01-6-6-0-2G2-NO/full.json"
         ],
+        "mpnList": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-xmultiple/XRJK-S-01-6-6-0-2G2-NO/MPNLIST.md"
+        ],
         "readme": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-xmultiple/XRJK-S-01-6-6-0-2G2-NO/README.md"
         ]

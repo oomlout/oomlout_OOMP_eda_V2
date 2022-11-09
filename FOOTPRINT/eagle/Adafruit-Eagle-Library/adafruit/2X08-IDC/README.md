@@ -6,8 +6,6 @@ Contents
 ========
 
 * [FZA2X8IDC > adafruit : 2X08-IDC](#fza2x8idc--adafruit--2x08-idc)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -19,18 +17,6 @@ NO IMAGE
 - Description: adafruit : 2X08-IDC
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-2X08-IDC](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-2X08-IDC)
 - Short Link: [http://oom.lt/FZA2X8IDC](http://oom.lt/FZA2X8IDC)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117adafruit+:+2X08-IDC)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/adafruit+:+2X08-IDC)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=adafruit+:+2X08-IDC)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=adafruit+:+2X08-IDC)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=adafruit+:+2X08-IDC)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=adafruit+:+2X08-IDC)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 NO IMAGES  
 ## Tags

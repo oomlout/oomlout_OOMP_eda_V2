@@ -6,8 +6,6 @@ Contents
 ========
 
 * [FZECONPC14PC14PLUS > con-pc104 : PC104-PLUS](#fzeconpc14pc14plus--con-pc104--pc104-plus)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -19,18 +17,6 @@ NO IMAGE
 - Description: con-pc104 : PC104-PLUS
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-pc104-PC104-PLUS](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-pc104-PC104-PLUS)
 - Short Link: [http://oom.lt/FZECONPC14PC14PLUS](http://oom.lt/FZECONPC14PC14PLUS)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117con-pc104+:+PC104-PLUS)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/con-pc104+:+PC104-PLUS)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=con-pc104+:+PC104-PLUS)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=con-pc104+:+PC104-PLUS)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=con-pc104+:+PC104-PLUS)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=con-pc104+:+PC104-PLUS)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 NO IMAGES  
 ## Tags

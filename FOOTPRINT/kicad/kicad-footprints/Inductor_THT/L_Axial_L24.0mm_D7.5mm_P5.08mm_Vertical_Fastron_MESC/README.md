@@ -6,8 +6,6 @@ Contents
 ========
 
 * [FZKINLAXIALL24D75P58VERTICALFASTRONMESC > Inductor_THT : L_Axial_L24.0mm_D7.5mm_P5.08mm_Vertical_Fastron_MESC](#fzkinlaxiall24d75p58verticalfastronmesc--inductor_tht--l_axial_l240mm_d75mm_p508mm_vertical_fastron_mesc)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -19,18 +17,6 @@ Contents
 - Description: Inductor_THT : L_Axial_L24.0mm_D7.5mm_P5.08mm_Vertical_Fastron_MESC
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Axial_L24.0mm_D7.5mm_P5.08mm_Vertical_Fastron_MESC](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Axial_L24.0mm_D7.5mm_P5.08mm_Vertical_Fastron_MESC)
 - Short Link: [http://oom.lt/FZKINLAXIALL24D75P58VERTICALFASTRONMESC](http://oom.lt/FZKINLAXIALL24D75P58VERTICALFASTRONMESC)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Inductor_THT+:+L_Axial_L24.0mm_D7.5mm_P5.08mm_Vertical_Fastron_MESC)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Inductor_THT+:+L_Axial_L24.0mm_D7.5mm_P5.08mm_Vertical_Fastron_MESC)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Inductor_THT+:+L_Axial_L24.0mm_D7.5mm_P5.08mm_Vertical_Fastron_MESC)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Inductor_THT+:+L_Axial_L24.0mm_D7.5mm_P5.08mm_Vertical_Fastron_MESC)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Inductor_THT+:+L_Axial_L24.0mm_D7.5mm_P5.08mm_Vertical_Fastron_MESC)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Inductor_THT+:+L_Axial_L24.0mm_D7.5mm_P5.08mm_Vertical_Fastron_MESC)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Axial_L24.0mm_D7.5mm_P5.08mm_Vertical_Fastron_MESC/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Axial_L24.0mm_D7.5mm_P5.08mm_Vertical_Fastron_MESC/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Axial_L24.0mm_D7.5mm_P5.08mm_Vertical_Fastron_MESC/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Axial_L24.0mm_D7.5mm_P5.08mm_Vertical_Fastron_MESC/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Axial_L24.0mm_D7.5mm_P5.08mm_Vertical_Fastron_MESC/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Axial_L24.0mm_D7.5mm_P5.08mm_Vertical_Fastron_MESC/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Axial_L24.0mm_D7.5mm_P5.08mm_Vertical_Fastron_MESC/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Axial_L24.0mm_D7.5mm_P5.08mm_Vertical_Fastron_MESC/kicadPcb3dBack.png)|

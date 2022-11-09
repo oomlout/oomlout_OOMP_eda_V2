@@ -6,8 +6,6 @@ Contents
 ========
 
 * [FZAB45181B > adafruit : B45181B](#fzab45181b--adafruit--b45181b)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -19,18 +17,6 @@ NO IMAGE
 - Description: adafruit : B45181B
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-B45181B](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-B45181B)
 - Short Link: [http://oom.lt/FZAB45181B](http://oom.lt/FZAB45181B)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117adafruit+:+B45181B)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/adafruit+:+B45181B)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=adafruit+:+B45181B)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=adafruit+:+B45181B)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=adafruit+:+B45181B)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=adafruit+:+B45181B)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 NO IMAGES  
 ## Tags

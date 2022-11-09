@@ -6,8 +6,6 @@ Contents
 ========
 
 * [FZERESISTORDILEXBV8V > resistor-dil : EXBV8V](#fzeresistordilexbv8v--resistor-dil--exbv8v)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -19,18 +17,6 @@ NO IMAGE
 - Description: resistor-dil : EXBV8V
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-resistor-dil-EXBV8V](http://oom.lt/FOOTPRINT-eagle-eagle-default-resistor-dil-EXBV8V)
 - Short Link: [http://oom.lt/FZERESISTORDILEXBV8V](http://oom.lt/FZERESISTORDILEXBV8V)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117resistor-dil+:+EXBV8V)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/resistor-dil+:+EXBV8V)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=resistor-dil+:+EXBV8V)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=resistor-dil+:+EXBV8V)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=resistor-dil+:+EXBV8V)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=resistor-dil+:+EXBV8V)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 NO IMAGES  
 ## Tags

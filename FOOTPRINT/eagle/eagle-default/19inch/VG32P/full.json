@@ -24,11 +24,32 @@
         "details": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/19inch/VG32P/details.py"
         ],
+        "image": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/19inch/VG32P/image.png"
+        ],
+        "imagePng": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/19inch/VG32P/image.png"
+        ],
         "jsonBasic": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/19inch/VG32P/basic.json"
         ],
         "jsonFull": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/19inch/VG32P/full.json"
+        ],
+        "kicadFootprint": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/19inch/VG32P/footprint.kicad_mod"
+        ],
+        "kicadPcb3d": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/19inch/VG32P/kicadPcb3d.png"
+        ],
+        "kicadPcb3dBack": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/19inch/VG32P/kicadPcb3dBack.png"
+        ],
+        "kicadPcb3dFront": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/19inch/VG32P/kicadPcb3dFront.png"
+        ],
+        "mpnList": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/19inch/VG32P/MPNLIST.md"
         ],
         "readme": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/19inch/VG32P/README.md"

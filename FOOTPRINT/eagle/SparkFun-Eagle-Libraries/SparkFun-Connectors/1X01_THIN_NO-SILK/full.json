@@ -1,0 +1,43 @@
+{
+    "hexID": [
+        "FZSSPARKFUNCNS1X1THINNOSILK"
+    ],
+    "name": [
+        "SparkFun-Connectors : 1X01_THIN_NO-SILK"
+    ],
+    "oompColor": [
+        "SparkFun-Eagle-Libraries"
+    ],
+    "oompDesc": [
+        "SparkFun-Connectors"
+    ],
+    "oompFiles": {
+        "": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Connectors/1X01_THIN_NO-SILK/"
+        ],
+        "details": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Connectors/1X01_THIN_NO-SILK/details.py"
+        ],
+        "jsonBasic": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Connectors/1X01_THIN_NO-SILK/basic.json"
+        ],
+        "jsonFull": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Connectors/1X01_THIN_NO-SILK/full.json"
+        ],
+        "readme": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Connectors/1X01_THIN_NO-SILK/README.md"
+        ]
+    },
+    "oompID": [
+        "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-1X01_THIN_NO-SILK"
+    ],
+    "oompIndex": [
+        "1X01_THIN_NO-SILK"
+    ],
+    "oompSize": [
+        "eagle"
+    ],
+    "oompType": [
+        "FOOTPRINT"
+    ]
+}

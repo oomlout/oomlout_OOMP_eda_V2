@@ -6,8 +6,6 @@ Contents
 ========
 
 * [FZERESISTORDILSOMC14 > resistor-dil : SOMC14](#fzeresistordilsomc14--resistor-dil--somc14)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -19,18 +17,6 @@ NO IMAGE
 - Description: resistor-dil : SOMC14
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-resistor-dil-SOMC14](http://oom.lt/FOOTPRINT-eagle-eagle-default-resistor-dil-SOMC14)
 - Short Link: [http://oom.lt/FZERESISTORDILSOMC14](http://oom.lt/FZERESISTORDILSOMC14)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117resistor-dil+:+SOMC14)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/resistor-dil+:+SOMC14)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=resistor-dil+:+SOMC14)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=resistor-dil+:+SOMC14)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=resistor-dil+:+SOMC14)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=resistor-dil+:+SOMC14)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 NO IMAGES  
 ## Tags

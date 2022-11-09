@@ -6,8 +6,6 @@ Contents
 ========
 
 * [FZEDIODES73791 > diode : S7379-01](#fzediodes73791--diode--s7379-01)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -19,18 +17,6 @@ NO IMAGE
 - Description: diode : S7379-01
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-diode-S7379-01](http://oom.lt/FOOTPRINT-eagle-eagle-default-diode-S7379-01)
 - Short Link: [http://oom.lt/FZEDIODES73791](http://oom.lt/FZEDIODES73791)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117diode+:+S7379-01)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/diode+:+S7379-01)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=diode+:+S7379-01)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=diode+:+S7379-01)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=diode+:+S7379-01)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=diode+:+S7379-01)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 NO IMAGES  
 ## Tags

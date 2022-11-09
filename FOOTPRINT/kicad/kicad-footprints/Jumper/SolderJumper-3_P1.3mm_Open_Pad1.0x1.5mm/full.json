@@ -60,6 +60,9 @@
         "kicadPcb3dFront": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Jumper/SolderJumper-3_P1.3mm_Open_Pad1.0x1.5mm/kicadPcb3dFront.png"
         ],
+        "mpnList": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Jumper/SolderJumper-3_P1.3mm_Open_Pad1.0x1.5mm/MPNLIST.md"
+        ],
         "readme": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Jumper/SolderJumper-3_P1.3mm_Open_Pad1.0x1.5mm/README.md"
         ]

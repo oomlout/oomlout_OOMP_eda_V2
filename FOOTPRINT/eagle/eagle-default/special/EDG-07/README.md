@@ -6,8 +6,6 @@ Contents
 ========
 
 * [FZESPECIALEDG7 > special : EDG-07](#fzespecialedg7--special--edg-07)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -19,18 +17,6 @@ NO IMAGE
 - Description: special : EDG-07
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-special-EDG-07](http://oom.lt/FOOTPRINT-eagle-eagle-default-special-EDG-07)
 - Short Link: [http://oom.lt/FZESPECIALEDG7](http://oom.lt/FZESPECIALEDG7)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117special+:+EDG-07)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/special+:+EDG-07)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=special+:+EDG-07)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=special+:+EDG-07)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=special+:+EDG-07)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=special+:+EDG-07)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 NO IMAGES  
 ## Tags

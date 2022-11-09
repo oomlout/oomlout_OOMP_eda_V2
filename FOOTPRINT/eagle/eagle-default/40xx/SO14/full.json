@@ -24,11 +24,32 @@
         "details": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/40xx/SO14/details.py"
         ],
+        "image": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/40xx/SO14/image.png"
+        ],
+        "imagePng": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/40xx/SO14/image.png"
+        ],
         "jsonBasic": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/40xx/SO14/basic.json"
         ],
         "jsonFull": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/40xx/SO14/full.json"
+        ],
+        "kicadFootprint": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/40xx/SO14/footprint.kicad_mod"
+        ],
+        "kicadPcb3d": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/40xx/SO14/kicadPcb3d.png"
+        ],
+        "kicadPcb3dBack": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/40xx/SO14/kicadPcb3dBack.png"
+        ],
+        "kicadPcb3dFront": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/40xx/SO14/kicadPcb3dFront.png"
+        ],
+        "mpnList": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/40xx/SO14/MPNLIST.md"
         ],
         "readme": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/40xx/SO14/README.md"

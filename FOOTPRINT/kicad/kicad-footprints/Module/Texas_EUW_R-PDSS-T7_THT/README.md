@@ -6,8 +6,6 @@ Contents
 ========
 
 * [FZKMOTEXASEUWRPDSST7THT > Module : Texas_EUW_R-PDSS-T7_THT](#fzkmotexaseuwrpdsst7tht--module--texas_euw_r-pdss-t7_tht)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -19,18 +17,6 @@ Contents
 - Description: Module : Texas_EUW_R-PDSS-T7_THT
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Module-Texas_EUW_R-PDSS-T7_THT](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Module-Texas_EUW_R-PDSS-T7_THT)
 - Short Link: [http://oom.lt/FZKMOTEXASEUWRPDSST7THT](http://oom.lt/FZKMOTEXASEUWRPDSST7THT)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Module+:+Texas_EUW_R-PDSS-T7_THT)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Module+:+Texas_EUW_R-PDSS-T7_THT)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Module+:+Texas_EUW_R-PDSS-T7_THT)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Module+:+Texas_EUW_R-PDSS-T7_THT)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Module+:+Texas_EUW_R-PDSS-T7_THT)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Module+:+Texas_EUW_R-PDSS-T7_THT)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Module/Texas_EUW_R-PDSS-T7_THT/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Module/Texas_EUW_R-PDSS-T7_THT/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Module/Texas_EUW_R-PDSS-T7_THT/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Module/Texas_EUW_R-PDSS-T7_THT/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Module/Texas_EUW_R-PDSS-T7_THT/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Module/Texas_EUW_R-PDSS-T7_THT/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Module/Texas_EUW_R-PDSS-T7_THT/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Module/Texas_EUW_R-PDSS-T7_THT/kicadPcb3dBack.png)|

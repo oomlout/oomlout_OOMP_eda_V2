@@ -55,6 +55,9 @@
         "kicadPcb3d": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Capacitor_THT/C_Rect_L11.5mm_W4.5mm_P10.00mm_MKT/kicadPcb3d.png"
         ],
+        "mpnList": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Capacitor_THT/C_Rect_L11.5mm_W4.5mm_P10.00mm_MKT/MPNLIST.md"
+        ],
         "readme": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Capacitor_THT/C_Rect_L11.5mm_W4.5mm_P10.00mm_MKT/README.md"
         ]

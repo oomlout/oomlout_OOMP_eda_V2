@@ -6,8 +6,6 @@ Contents
 ========
 
 * [FZERCLLAL3KH > rcl : LAL03KH](#fzercllal3kh--rcl--lal03kh)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -19,18 +17,6 @@ NO IMAGE
 - Description: rcl : LAL03KH
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-LAL03KH](http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-LAL03KH)
 - Short Link: [http://oom.lt/FZERCLLAL3KH](http://oom.lt/FZERCLLAL3KH)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117rcl+:+LAL03KH)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/rcl+:+LAL03KH)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=rcl+:+LAL03KH)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=rcl+:+LAL03KH)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=rcl+:+LAL03KH)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=rcl+:+LAL03KH)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 NO IMAGES  
 ## Tags

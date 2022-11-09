@@ -6,8 +6,6 @@ Contents
 ========
 
 * [FZKCNMXMXMFITSR428252XX1X5P1HORIZONTALTHERMALVIAS > Connector_Molex : Molex_Mini-Fit_Sr_42820-52XX_1x05_P10.00mm_Horizontal_ThermalVias](#fzkcnmxmxmfitsr428252xx1x5p1horizontalthermalvias--connector_molex--molex_mini-fit_sr_42820-52xx_1x05_p1000mm_horizontal_thermalvias)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -19,18 +17,6 @@ Contents
 - Description: Connector_Molex : Molex_Mini-Fit_Sr_42820-52XX_1x05_P10.00mm_Horizontal_ThermalVias
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_Mini-Fit_Sr_42820-52XX_1x05_P10.00mm_Horizontal_ThermalVias](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_Mini-Fit_Sr_42820-52XX_1x05_P10.00mm_Horizontal_ThermalVias)
 - Short Link: [http://oom.lt/FZKCNMXMXMFITSR428252XX1X5P1HORIZONTALTHERMALVIAS](http://oom.lt/FZKCNMXMXMFITSR428252XX1X5P1HORIZONTALTHERMALVIAS)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Connector_Molex+:+Molex_Mini-Fit_Sr_42820-52XX_1x05_P10.00mm_Horizontal_ThermalVias)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Connector_Molex+:+Molex_Mini-Fit_Sr_42820-52XX_1x05_P10.00mm_Horizontal_ThermalVias)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Connector_Molex+:+Molex_Mini-Fit_Sr_42820-52XX_1x05_P10.00mm_Horizontal_ThermalVias)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Connector_Molex+:+Molex_Mini-Fit_Sr_42820-52XX_1x05_P10.00mm_Horizontal_ThermalVias)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Connector_Molex+:+Molex_Mini-Fit_Sr_42820-52XX_1x05_P10.00mm_Horizontal_ThermalVias)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Connector_Molex+:+Molex_Mini-Fit_Sr_42820-52XX_1x05_P10.00mm_Horizontal_ThermalVias)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_Mini-Fit_Sr_42820-52XX_1x05_P10.00mm_Horizontal_ThermalVias/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_Mini-Fit_Sr_42820-52XX_1x05_P10.00mm_Horizontal_ThermalVias/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_Mini-Fit_Sr_42820-52XX_1x05_P10.00mm_Horizontal_ThermalVias/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_Mini-Fit_Sr_42820-52XX_1x05_P10.00mm_Horizontal_ThermalVias/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_Mini-Fit_Sr_42820-52XX_1x05_P10.00mm_Horizontal_ThermalVias/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_Mini-Fit_Sr_42820-52XX_1x05_P10.00mm_Horizontal_ThermalVias/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_Mini-Fit_Sr_42820-52XX_1x05_P10.00mm_Horizontal_ThermalVias/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_Mini-Fit_Sr_42820-52XX_1x05_P10.00mm_Horizontal_ThermalVias/kicadPcb3dBack.png)|

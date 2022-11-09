@@ -6,11 +6,9 @@ Contents
 ========
 
 * [FZEALLEGROTSS16E > allegro : TSSOP16E](#fzeallegrotss16e--allegro--tssop16e)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEALLEGROTSS16E > allegro : TSSOP16E
 
 - ID: FOOTPRINT-eagle-eagle-default-allegro-TSSOP16E
@@ -19,20 +17,12 @@ NO IMAGE
 - Description: allegro : TSSOP16E
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-allegro-TSSOP16E](http://oom.lt/FOOTPRINT-eagle-eagle-default-allegro-TSSOP16E)
 - Short Link: [http://oom.lt/FZEALLEGROTSS16E](http://oom.lt/FZEALLEGROTSS16E)
+  
 
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117allegro+:+TSSOP16E)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/allegro+:+TSSOP16E)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=allegro+:+TSSOP16E)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=allegro+:+TSSOP16E)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=allegro+:+TSSOP16E)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=allegro+:+TSSOP16E)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/allegro/TSSOP16E/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/allegro/TSSOP16E/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/allegro/TSSOP16E/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/allegro/TSSOP16E/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/allegro/TSSOP16E/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/allegro/TSSOP16E/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/allegro/TSSOP16E/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/allegro/TSSOP16E/kicadPcb3dBack.png)|
+| :---: | :---: | :---: | :---: |
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/allegro/TSSOP16E/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/allegro/TSSOP16E/kicadPcb3d.png)||||
 
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
-  
-NO IMAGES  
 ## Tags
   
 
@@ -47,3 +37,7 @@ NO IMAGES
 |Hex ID (short code)|hexID|FZEALLEGROTSS16E|
 |name|name|allegro : TSSOP16E|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

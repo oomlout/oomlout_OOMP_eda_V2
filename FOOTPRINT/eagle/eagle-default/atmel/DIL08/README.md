@@ -6,8 +6,6 @@ Contents
 ========
 
 * [FZEATMELDIL8 > atmel : DIL08](#fzeatmeldil8--atmel--dil08)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -19,18 +17,6 @@ NO IMAGE
 - Description: atmel : DIL08
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-atmel-DIL08](http://oom.lt/FOOTPRINT-eagle-eagle-default-atmel-DIL08)
 - Short Link: [http://oom.lt/FZEATMELDIL8](http://oom.lt/FZEATMELDIL8)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117atmel+:+DIL08)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/atmel+:+DIL08)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=atmel+:+DIL08)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=atmel+:+DIL08)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=atmel+:+DIL08)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=atmel+:+DIL08)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 NO IMAGES  
 ## Tags

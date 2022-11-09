@@ -6,8 +6,6 @@ Contents
 ========
 
 * [FZERELAYV23127A > relay : V23127A](#fzerelayv23127a--relay--v23127a)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -19,18 +17,6 @@ NO IMAGE
 - Description: relay : V23127A
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-V23127A](http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-V23127A)
 - Short Link: [http://oom.lt/FZERELAYV23127A](http://oom.lt/FZERELAYV23127A)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117relay+:+V23127A)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/relay+:+V23127A)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=relay+:+V23127A)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=relay+:+V23127A)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=relay+:+V23127A)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=relay+:+V23127A)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 NO IMAGES  
 ## Tags

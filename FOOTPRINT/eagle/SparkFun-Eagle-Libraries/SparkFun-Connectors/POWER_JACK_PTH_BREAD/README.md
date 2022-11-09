@@ -6,8 +6,6 @@ Contents
 ========
 
 * [FZSSPARKFUNCNSPOWERJPBREAD > SparkFun-Connectors : POWER_JACK_PTH_BREAD](#fzssparkfuncnspowerjpbread--sparkfun-connectors--power_jack_pth_bread)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -19,18 +17,6 @@ NO IMAGE
 - Description: SparkFun-Connectors : POWER_JACK_PTH_BREAD
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-POWER_JACK_PTH_BREAD](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-POWER_JACK_PTH_BREAD)
 - Short Link: [http://oom.lt/FZSSPARKFUNCNSPOWERJPBREAD](http://oom.lt/FZSSPARKFUNCNSPOWERJPBREAD)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117SparkFun-Connectors+:+POWER_JACK_PTH_BREAD)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/SparkFun-Connectors+:+POWER_JACK_PTH_BREAD)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=SparkFun-Connectors+:+POWER_JACK_PTH_BREAD)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=SparkFun-Connectors+:+POWER_JACK_PTH_BREAD)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=SparkFun-Connectors+:+POWER_JACK_PTH_BREAD)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=SparkFun-Connectors+:+POWER_JACK_PTH_BREAD)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 NO IMAGES  
 ## Tags

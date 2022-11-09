@@ -6,8 +6,6 @@ Contents
 ========
 
 * [FZSSPARKFUNSENSTCM824MD > SparkFun-Sensors : TCM8240MD](#fzssparkfunsenstcm824md--sparkfun-sensors--tcm8240md)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -19,18 +17,6 @@ NO IMAGE
 - Description: SparkFun-Sensors : TCM8240MD
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-TCM8240MD](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-TCM8240MD)
 - Short Link: [http://oom.lt/FZSSPARKFUNSENSTCM824MD](http://oom.lt/FZSSPARKFUNSENSTCM824MD)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117SparkFun-Sensors+:+TCM8240MD)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/SparkFun-Sensors+:+TCM8240MD)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=SparkFun-Sensors+:+TCM8240MD)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=SparkFun-Sensors+:+TCM8240MD)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=SparkFun-Sensors+:+TCM8240MD)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=SparkFun-Sensors+:+TCM8240MD)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 NO IMAGES  
 ## Tags

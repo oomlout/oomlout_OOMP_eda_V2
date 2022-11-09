@@ -30,6 +30,9 @@
         "jsonFull": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-MicroMod/M.2-CARD-E-22_FUNCTION_STANDARD/full.json"
         ],
+        "mpnList": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-MicroMod/M.2-CARD-E-22_FUNCTION_STANDARD/MPNLIST.md"
+        ],
         "readme": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-MicroMod/M.2-CARD-E-22_FUNCTION_STANDARD/README.md"
         ]

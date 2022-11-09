@@ -24,11 +24,32 @@
         "details": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/allegro/SIP3-UA/details.py"
         ],
+        "image": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/allegro/SIP3-UA/image.png"
+        ],
+        "imagePng": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/allegro/SIP3-UA/image.png"
+        ],
         "jsonBasic": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/allegro/SIP3-UA/basic.json"
         ],
         "jsonFull": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/allegro/SIP3-UA/full.json"
+        ],
+        "kicadFootprint": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/allegro/SIP3-UA/footprint.kicad_mod"
+        ],
+        "kicadPcb3d": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/allegro/SIP3-UA/kicadPcb3d.png"
+        ],
+        "kicadPcb3dBack": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/allegro/SIP3-UA/kicadPcb3dBack.png"
+        ],
+        "kicadPcb3dFront": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/allegro/SIP3-UA/kicadPcb3dFront.png"
+        ],
+        "mpnList": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/allegro/SIP3-UA/MPNLIST.md"
         ],
         "readme": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/allegro/SIP3-UA/README.md"

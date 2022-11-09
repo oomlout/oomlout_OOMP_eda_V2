@@ -6,8 +6,6 @@ Contents
 ========
 
 * [FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSVOCSENLGA11EP27X4CCS811B > digikey-footprints : VOC_Sensor_LGA-10-1EP-2.7x4mm_CCS811B](#fzkicaddigikeykicadlibrarydigikeyfootprintsvocsenlga11ep27x4ccs811b--digikey-footprints--voc_sensor_lga-10-1ep-27x4mm_ccs811b)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -19,18 +17,6 @@ Contents
 - Description: digikey-footprints : VOC_Sensor_LGA-10-1EP-2.7x4mm_CCS811B
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-VOC_Sensor_LGA-10-1EP-2.7x4mm_CCS811B](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-VOC_Sensor_LGA-10-1EP-2.7x4mm_CCS811B)
 - Short Link: [http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSVOCSENLGA11EP27X4CCS811B](http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSVOCSENLGA11EP27X4CCS811B)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117digikey-footprints+:+VOC_Sensor_LGA-10-1EP-2.7x4mm_CCS811B)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/digikey-footprints+:+VOC_Sensor_LGA-10-1EP-2.7x4mm_CCS811B)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=digikey-footprints+:+VOC_Sensor_LGA-10-1EP-2.7x4mm_CCS811B)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=digikey-footprints+:+VOC_Sensor_LGA-10-1EP-2.7x4mm_CCS811B)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=digikey-footprints+:+VOC_Sensor_LGA-10-1EP-2.7x4mm_CCS811B)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=digikey-footprints+:+VOC_Sensor_LGA-10-1EP-2.7x4mm_CCS811B)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/VOC_Sensor_LGA-10-1EP-2.7x4mm_CCS811B/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/VOC_Sensor_LGA-10-1EP-2.7x4mm_CCS811B/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/VOC_Sensor_LGA-10-1EP-2.7x4mm_CCS811B/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/VOC_Sensor_LGA-10-1EP-2.7x4mm_CCS811B/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/VOC_Sensor_LGA-10-1EP-2.7x4mm_CCS811B/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/VOC_Sensor_LGA-10-1EP-2.7x4mm_CCS811B/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/VOC_Sensor_LGA-10-1EP-2.7x4mm_CCS811B/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/VOC_Sensor_LGA-10-1EP-2.7x4mm_CCS811B/kicadPcb3dBack.png)|

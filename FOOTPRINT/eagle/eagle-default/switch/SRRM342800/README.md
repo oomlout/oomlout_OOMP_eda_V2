@@ -6,8 +6,6 @@ Contents
 ========
 
 * [FZESWITCHSRRM3428 > switch : SRRM342800](#fzeswitchsrrm3428--switch--srrm342800)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -19,18 +17,6 @@ NO IMAGE
 - Description: switch : SRRM342800
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-SRRM342800](http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-SRRM342800)
 - Short Link: [http://oom.lt/FZESWITCHSRRM3428](http://oom.lt/FZESWITCHSRRM3428)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117switch+:+SRRM342800)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/switch+:+SRRM342800)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=switch+:+SRRM342800)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=switch+:+SRRM342800)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=switch+:+SRRM342800)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=switch+:+SRRM342800)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 NO IMAGES  
 ## Tags

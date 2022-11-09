@@ -30,6 +30,9 @@
         "jsonFull": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-RF/ANT-2.4GHZ-3.2X1.6X1.2MM-REDUCED_KEEPOUT/full.json"
         ],
+        "mpnList": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-RF/ANT-2.4GHZ-3.2X1.6X1.2MM-REDUCED_KEEPOUT/MPNLIST.md"
+        ],
         "readme": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-RF/ANT-2.4GHZ-3.2X1.6X1.2MM-REDUCED_KEEPOUT/README.md"
         ]

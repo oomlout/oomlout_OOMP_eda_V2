@@ -6,8 +6,6 @@ Contents
 ========
 
 * [FZEAMDMACHPQFP16 > amd-mach : PQFP160](#fzeamdmachpqfp16--amd-mach--pqfp160)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -19,18 +17,6 @@ NO IMAGE
 - Description: amd-mach : PQFP160
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-amd-mach-PQFP160](http://oom.lt/FOOTPRINT-eagle-eagle-default-amd-mach-PQFP160)
 - Short Link: [http://oom.lt/FZEAMDMACHPQFP16](http://oom.lt/FZEAMDMACHPQFP16)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117amd-mach+:+PQFP160)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/amd-mach+:+PQFP160)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=amd-mach+:+PQFP160)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=amd-mach+:+PQFP160)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=amd-mach+:+PQFP160)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=amd-mach+:+PQFP160)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 NO IMAGES  
 ## Tags

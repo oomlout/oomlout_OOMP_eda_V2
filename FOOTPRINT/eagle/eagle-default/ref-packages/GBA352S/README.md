@@ -6,8 +6,6 @@ Contents
 ========
 
 * [FZEREFPACKAGESGBA352S > ref-packages : GBA352S](#fzerefpackagesgba352s--ref-packages--gba352s)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -19,18 +17,6 @@ NO IMAGE
 - Description: ref-packages : GBA352S
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-GBA352S](http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-GBA352S)
 - Short Link: [http://oom.lt/FZEREFPACKAGESGBA352S](http://oom.lt/FZEREFPACKAGESGBA352S)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117ref-packages+:+GBA352S)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/ref-packages+:+GBA352S)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=ref-packages+:+GBA352S)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=ref-packages+:+GBA352S)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=ref-packages+:+GBA352S)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=ref-packages+:+GBA352S)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 NO IMAGES  
 ## Tags

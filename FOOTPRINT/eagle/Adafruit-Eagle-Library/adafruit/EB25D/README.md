@@ -6,8 +6,6 @@ Contents
 ========
 
 * [FZAEB25D > adafruit : EB25D](#fzaeb25d--adafruit--eb25d)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -19,18 +17,6 @@ NO IMAGE
 - Description: adafruit : EB25D
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-EB25D](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-EB25D)
 - Short Link: [http://oom.lt/FZAEB25D](http://oom.lt/FZAEB25D)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117adafruit+:+EB25D)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/adafruit+:+EB25D)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=adafruit+:+EB25D)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=adafruit+:+EB25D)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=adafruit+:+EB25D)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=adafruit+:+EB25D)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 NO IMAGES  
 ## Tags

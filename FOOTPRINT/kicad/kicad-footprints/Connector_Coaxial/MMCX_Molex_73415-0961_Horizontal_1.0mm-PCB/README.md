@@ -6,8 +6,6 @@ Contents
 ========
 
 * [FZKCNCOACXMX73415961HORIZONTAL1PCB > Connector_Coaxial : MMCX_Molex_73415-0961_Horizontal_1.0mm-PCB](#fzkcncoacxmx73415961horizontal1pcb--connector_coaxial--mmcx_molex_73415-0961_horizontal_10mm-pcb)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -19,18 +17,6 @@ Contents
 - Description: Connector_Coaxial : MMCX_Molex_73415-0961_Horizontal_1.0mm-PCB
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Coaxial-MMCX_Molex_73415-0961_Horizontal_1.0mm-PCB](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Coaxial-MMCX_Molex_73415-0961_Horizontal_1.0mm-PCB)
 - Short Link: [http://oom.lt/FZKCNCOACXMX73415961HORIZONTAL1PCB](http://oom.lt/FZKCNCOACXMX73415961HORIZONTAL1PCB)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Connector_Coaxial+:+MMCX_Molex_73415-0961_Horizontal_1.0mm-PCB)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Connector_Coaxial+:+MMCX_Molex_73415-0961_Horizontal_1.0mm-PCB)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Connector_Coaxial+:+MMCX_Molex_73415-0961_Horizontal_1.0mm-PCB)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Connector_Coaxial+:+MMCX_Molex_73415-0961_Horizontal_1.0mm-PCB)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Connector_Coaxial+:+MMCX_Molex_73415-0961_Horizontal_1.0mm-PCB)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Connector_Coaxial+:+MMCX_Molex_73415-0961_Horizontal_1.0mm-PCB)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Coaxial/MMCX_Molex_73415-0961_Horizontal_1.0mm-PCB/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Coaxial/MMCX_Molex_73415-0961_Horizontal_1.0mm-PCB/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Coaxial/MMCX_Molex_73415-0961_Horizontal_1.0mm-PCB/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Coaxial/MMCX_Molex_73415-0961_Horizontal_1.0mm-PCB/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Coaxial/MMCX_Molex_73415-0961_Horizontal_1.0mm-PCB/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Coaxial/MMCX_Molex_73415-0961_Horizontal_1.0mm-PCB/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Coaxial/MMCX_Molex_73415-0961_Horizontal_1.0mm-PCB/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Coaxial/MMCX_Molex_73415-0961_Horizontal_1.0mm-PCB/kicadPcb3dBack.png)|

@@ -6,8 +6,6 @@ Contents
 ========
 
 * [FZECONOMRONXF2B234531A > con-omron : XF2B-2345-31A](#fzeconomronxf2b234531a--con-omron--xf2b-2345-31a)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -19,18 +17,6 @@ NO IMAGE
 - Description: con-omron : XF2B-2345-31A
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-omron-XF2B-2345-31A](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-omron-XF2B-2345-31A)
 - Short Link: [http://oom.lt/FZECONOMRONXF2B234531A](http://oom.lt/FZECONOMRONXF2B234531A)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117con-omron+:+XF2B-2345-31A)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/con-omron+:+XF2B-2345-31A)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=con-omron+:+XF2B-2345-31A)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=con-omron+:+XF2B-2345-31A)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=con-omron+:+XF2B-2345-31A)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=con-omron+:+XF2B-2345-31A)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 NO IMAGES  
 ## Tags

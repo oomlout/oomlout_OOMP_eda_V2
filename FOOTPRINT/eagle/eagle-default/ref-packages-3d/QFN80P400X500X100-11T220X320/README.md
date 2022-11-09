@@ -6,8 +6,6 @@ Contents
 ========
 
 * [FZEREFPACKAGES3DQFN8P4X5X111T22X32 > ref-packages-3d : QFN80P400X500X100-11T220X320](#fzerefpackages3dqfn8p4x5x111t22x32--ref-packages-3d--qfn80p400x500x100-11t220x320)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -19,18 +17,6 @@ NO IMAGE
 - Description: ref-packages-3d : QFN80P400X500X100-11T220X320
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-3d-QFN80P400X500X100-11T220X320](http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-3d-QFN80P400X500X100-11T220X320)
 - Short Link: [http://oom.lt/FZEREFPACKAGES3DQFN8P4X5X111T22X32](http://oom.lt/FZEREFPACKAGES3DQFN8P4X5X111T22X32)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117ref-packages-3d+:+QFN80P400X500X100-11T220X320)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/ref-packages-3d+:+QFN80P400X500X100-11T220X320)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=ref-packages-3d+:+QFN80P400X500X100-11T220X320)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=ref-packages-3d+:+QFN80P400X500X100-11T220X320)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=ref-packages-3d+:+QFN80P400X500X100-11T220X320)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=ref-packages-3d+:+QFN80P400X500X100-11T220X320)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 NO IMAGES  
 ## Tags

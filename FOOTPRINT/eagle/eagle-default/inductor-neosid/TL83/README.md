@@ -6,8 +6,6 @@ Contents
 ========
 
 * [FZEINDUCTORNEOSIDTL83 > inductor-neosid : TL83](#fzeinductorneosidtl83--inductor-neosid--tl83)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -19,18 +17,6 @@ NO IMAGE
 - Description: inductor-neosid : TL83
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-inductor-neosid-TL83](http://oom.lt/FOOTPRINT-eagle-eagle-default-inductor-neosid-TL83)
 - Short Link: [http://oom.lt/FZEINDUCTORNEOSIDTL83](http://oom.lt/FZEINDUCTORNEOSIDTL83)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117inductor-neosid+:+TL83)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/inductor-neosid+:+TL83)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=inductor-neosid+:+TL83)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=inductor-neosid+:+TL83)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=inductor-neosid+:+TL83)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=inductor-neosid+:+TL83)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 NO IMAGES  
 ## Tags

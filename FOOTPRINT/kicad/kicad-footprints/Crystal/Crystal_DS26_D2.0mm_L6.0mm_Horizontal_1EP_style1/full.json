@@ -61,6 +61,9 @@
         "kicadPcb3dFront": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_DS26_D2.0mm_L6.0mm_Horizontal_1EP_style1/kicadPcb3dFront.png"
         ],
+        "mpnList": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_DS26_D2.0mm_L6.0mm_Horizontal_1EP_style1/MPNLIST.md"
+        ],
         "readme": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_DS26_D2.0mm_L6.0mm_Horizontal_1EP_style1/README.md"
         ]

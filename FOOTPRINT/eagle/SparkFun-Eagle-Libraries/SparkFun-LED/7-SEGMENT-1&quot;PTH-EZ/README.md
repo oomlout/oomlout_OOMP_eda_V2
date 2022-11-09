@@ -6,8 +6,6 @@ Contents
 ========
 
 * [FZSL7S1&QUOT;PEZ > SparkFun-LED : 7-SEGMENT-1&quot;PTH-EZ](#fzsl7s1quotpez--sparkfun-led--7-segment-1quotpth-ez)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -19,18 +17,6 @@ NO IMAGE
 - Description: SparkFun-LED : 7-SEGMENT-1&quot;PTH-EZ
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-LED-7-SEGMENT-1&quot;PTH-EZ](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-LED-7-SEGMENT-1&quot;PTH-EZ)
 - Short Link: [http://oom.lt/FZSL7S1&QUOT;PEZ](http://oom.lt/FZSL7S1&QUOT;PEZ)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117SparkFun-LED+:+7-SEGMENT-1&quot;PTH-EZ)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/SparkFun-LED+:+7-SEGMENT-1&quot;PTH-EZ)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=SparkFun-LED+:+7-SEGMENT-1&quot;PTH-EZ)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=SparkFun-LED+:+7-SEGMENT-1&quot;PTH-EZ)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=SparkFun-LED+:+7-SEGMENT-1&quot;PTH-EZ)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=SparkFun-LED+:+7-SEGMENT-1&quot;PTH-EZ)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 NO IMAGES  
 ## Tags

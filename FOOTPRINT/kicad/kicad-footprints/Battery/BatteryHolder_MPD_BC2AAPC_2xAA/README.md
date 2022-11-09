@@ -6,8 +6,6 @@ Contents
 ========
 
 * [FZKBATBATHOLDERMPDBC2AAPC2XAA > Battery : BatteryHolder_MPD_BC2AAPC_2xAA](#fzkbatbatholdermpdbc2aapc2xaa--battery--batteryholder_mpd_bc2aapc_2xaa)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -19,18 +17,6 @@ Contents
 - Description: Battery : BatteryHolder_MPD_BC2AAPC_2xAA
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Battery-BatteryHolder_MPD_BC2AAPC_2xAA](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Battery-BatteryHolder_MPD_BC2AAPC_2xAA)
 - Short Link: [http://oom.lt/FZKBATBATHOLDERMPDBC2AAPC2XAA](http://oom.lt/FZKBATBATHOLDERMPDBC2AAPC2XAA)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Battery+:+BatteryHolder_MPD_BC2AAPC_2xAA)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Battery+:+BatteryHolder_MPD_BC2AAPC_2xAA)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Battery+:+BatteryHolder_MPD_BC2AAPC_2xAA)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Battery+:+BatteryHolder_MPD_BC2AAPC_2xAA)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Battery+:+BatteryHolder_MPD_BC2AAPC_2xAA)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Battery+:+BatteryHolder_MPD_BC2AAPC_2xAA)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Battery/BatteryHolder_MPD_BC2AAPC_2xAA/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Battery/BatteryHolder_MPD_BC2AAPC_2xAA/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Battery/BatteryHolder_MPD_BC2AAPC_2xAA/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Battery/BatteryHolder_MPD_BC2AAPC_2xAA/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Battery/BatteryHolder_MPD_BC2AAPC_2xAA/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Battery/BatteryHolder_MPD_BC2AAPC_2xAA/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Battery/BatteryHolder_MPD_BC2AAPC_2xAA/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Battery/BatteryHolder_MPD_BC2AAPC_2xAA/kicadPcb3dBack.png)|

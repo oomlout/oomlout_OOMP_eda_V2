@@ -6,8 +6,6 @@ Contents
 ========
 
 * [FZAARDR3ICSPS > adafruit : ARDUINOR3_ICSP_SMT](#fzaardr3icsps--adafruit--arduinor3_icsp_smt)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -19,18 +17,6 @@ NO IMAGE
 - Description: adafruit : ARDUINOR3_ICSP_SMT
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-ARDUINOR3_ICSP_SMT](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-ARDUINOR3_ICSP_SMT)
 - Short Link: [http://oom.lt/FZAARDR3ICSPS](http://oom.lt/FZAARDR3ICSPS)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117adafruit+:+ARDUINOR3_ICSP_SMT)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/adafruit+:+ARDUINOR3_ICSP_SMT)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=adafruit+:+ARDUINOR3_ICSP_SMT)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=adafruit+:+ARDUINOR3_ICSP_SMT)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=adafruit+:+ARDUINOR3_ICSP_SMT)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=adafruit+:+ARDUINOR3_ICSP_SMT)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 NO IMAGES  
 ## Tags

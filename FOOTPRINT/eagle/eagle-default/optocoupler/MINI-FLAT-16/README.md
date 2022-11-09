@@ -6,8 +6,6 @@ Contents
 ========
 
 * [FZEOPTOCOUPLERMFLAT16 > optocoupler : MINI-FLAT-16](#fzeoptocouplermflat16--optocoupler--mini-flat-16)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -19,18 +17,6 @@ NO IMAGE
 - Description: optocoupler : MINI-FLAT-16
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-optocoupler-MINI-FLAT-16](http://oom.lt/FOOTPRINT-eagle-eagle-default-optocoupler-MINI-FLAT-16)
 - Short Link: [http://oom.lt/FZEOPTOCOUPLERMFLAT16](http://oom.lt/FZEOPTOCOUPLERMFLAT16)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117optocoupler+:+MINI-FLAT-16)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/optocoupler+:+MINI-FLAT-16)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=optocoupler+:+MINI-FLAT-16)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=optocoupler+:+MINI-FLAT-16)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=optocoupler+:+MINI-FLAT-16)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=optocoupler+:+MINI-FLAT-16)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 NO IMAGES  
 ## Tags

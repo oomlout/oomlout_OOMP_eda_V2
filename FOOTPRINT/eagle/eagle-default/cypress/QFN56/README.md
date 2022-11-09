@@ -6,8 +6,6 @@ Contents
 ========
 
 * [FZECYPRESSQFN56 > cypress : QFN56](#fzecypressqfn56--cypress--qfn56)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -19,18 +17,6 @@ NO IMAGE
 - Description: cypress : QFN56
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-cypress-QFN56](http://oom.lt/FOOTPRINT-eagle-eagle-default-cypress-QFN56)
 - Short Link: [http://oom.lt/FZECYPRESSQFN56](http://oom.lt/FZECYPRESSQFN56)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117cypress+:+QFN56)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/cypress+:+QFN56)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=cypress+:+QFN56)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=cypress+:+QFN56)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=cypress+:+QFN56)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=cypress+:+QFN56)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 NO IMAGES  
 ## Tags

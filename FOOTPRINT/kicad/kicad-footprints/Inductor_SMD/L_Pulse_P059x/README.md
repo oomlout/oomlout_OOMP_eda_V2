@@ -6,8 +6,6 @@ Contents
 ========
 
 * [FZKINDUCTORSMLPULSEP59X > Inductor_SMD : L_Pulse_P059x](#fzkinductorsmlpulsep59x--inductor_smd--l_pulse_p059x)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -19,18 +17,6 @@ NO IMAGE
 - Description: Inductor_SMD : L_Pulse_P059x
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Pulse_P059x](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Pulse_P059x)
 - Short Link: [http://oom.lt/FZKINDUCTORSMLPULSEP59X](http://oom.lt/FZKINDUCTORSMLPULSEP59X)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Inductor_SMD+:+L_Pulse_P059x)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Inductor_SMD+:+L_Pulse_P059x)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Inductor_SMD+:+L_Pulse_P059x)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Inductor_SMD+:+L_Pulse_P059x)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Inductor_SMD+:+L_Pulse_P059x)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Inductor_SMD+:+L_Pulse_P059x)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 NO IMAGES  
 ## Tags

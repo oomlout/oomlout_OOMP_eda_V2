@@ -6,8 +6,6 @@ Contents
 ========
 
 * [FZKCNDSUBDSUB15MALEVERTICALP277X284HOLS > Connector_Dsub : DSUB-15_Male_Vertical_P2.77x2.84mm_MountingHoles](#fzkcndsubdsub15maleverticalp277x284hols--connector_dsub--dsub-15_male_vertical_p277x284mm_mountingholes)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -19,18 +17,6 @@ Contents
 - Description: Connector_Dsub : DSUB-15_Male_Vertical_P2.77x2.84mm_MountingHoles
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Dsub-DSUB-15_Male_Vertical_P2.77x2.84mm_MountingHoles](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Dsub-DSUB-15_Male_Vertical_P2.77x2.84mm_MountingHoles)
 - Short Link: [http://oom.lt/FZKCNDSUBDSUB15MALEVERTICALP277X284HOLS](http://oom.lt/FZKCNDSUBDSUB15MALEVERTICALP277X284HOLS)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Connector_Dsub+:+DSUB-15_Male_Vertical_P2.77x2.84mm_MountingHoles)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Connector_Dsub+:+DSUB-15_Male_Vertical_P2.77x2.84mm_MountingHoles)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Connector_Dsub+:+DSUB-15_Male_Vertical_P2.77x2.84mm_MountingHoles)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Connector_Dsub+:+DSUB-15_Male_Vertical_P2.77x2.84mm_MountingHoles)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Connector_Dsub+:+DSUB-15_Male_Vertical_P2.77x2.84mm_MountingHoles)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Connector_Dsub+:+DSUB-15_Male_Vertical_P2.77x2.84mm_MountingHoles)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Dsub/DSUB-15_Male_Vertical_P2.77x2.84mm_MountingHoles/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Dsub/DSUB-15_Male_Vertical_P2.77x2.84mm_MountingHoles/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Dsub/DSUB-15_Male_Vertical_P2.77x2.84mm_MountingHoles/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Dsub/DSUB-15_Male_Vertical_P2.77x2.84mm_MountingHoles/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Dsub/DSUB-15_Male_Vertical_P2.77x2.84mm_MountingHoles/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Dsub/DSUB-15_Male_Vertical_P2.77x2.84mm_MountingHoles/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Dsub/DSUB-15_Male_Vertical_P2.77x2.84mm_MountingHoles/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Dsub/DSUB-15_Male_Vertical_P2.77x2.84mm_MountingHoles/kicadPcb3dBack.png)|

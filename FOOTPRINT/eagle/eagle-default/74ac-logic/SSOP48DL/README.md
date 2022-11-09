@@ -6,11 +6,9 @@ Contents
 ========
 
 * [FZE74ACLOGICSS48DL > 74ac-logic : SSOP48DL](#fze74aclogicss48dl--74ac-logic--ssop48dl)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZE74ACLOGICSS48DL > 74ac-logic : SSOP48DL
 
 - ID: FOOTPRINT-eagle-eagle-default-74ac-logic-SSOP48DL
@@ -19,20 +17,12 @@ NO IMAGE
 - Description: 74ac-logic : SSOP48DL
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-74ac-logic-SSOP48DL](http://oom.lt/FOOTPRINT-eagle-eagle-default-74ac-logic-SSOP48DL)
 - Short Link: [http://oom.lt/FZE74ACLOGICSS48DL](http://oom.lt/FZE74ACLOGICSS48DL)
+  
 
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=111774ac-logic+:+SSOP48DL)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/74ac-logic+:+SSOP48DL)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=74ac-logic+:+SSOP48DL)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=74ac-logic+:+SSOP48DL)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=74ac-logic+:+SSOP48DL)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=74ac-logic+:+SSOP48DL)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/74ac-logic/SSOP48DL/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/74ac-logic/SSOP48DL/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/74ac-logic/SSOP48DL/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/74ac-logic/SSOP48DL/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/74ac-logic/SSOP48DL/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/74ac-logic/SSOP48DL/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/74ac-logic/SSOP48DL/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/74ac-logic/SSOP48DL/kicadPcb3dBack.png)|
+| :---: | :---: | :---: | :---: |
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/74ac-logic/SSOP48DL/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/74ac-logic/SSOP48DL/kicadPcb3d.png)||||
 
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
-  
-NO IMAGES  
 ## Tags
   
 
@@ -47,3 +37,7 @@ NO IMAGES
 |Hex ID (short code)|hexID|FZE74ACLOGICSS48DL|
 |name|name|74ac-logic : SSOP48DL|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

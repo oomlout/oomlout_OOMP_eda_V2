@@ -30,6 +30,9 @@
         "jsonFull": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/smd-special/PLCC44-SMD-AMP-SOCKED/full.json"
         ],
+        "mpnList": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/smd-special/PLCC44-SMD-AMP-SOCKED/MPNLIST.md"
+        ],
         "readme": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/smd-special/PLCC44-SMD-AMP-SOCKED/README.md"
         ]

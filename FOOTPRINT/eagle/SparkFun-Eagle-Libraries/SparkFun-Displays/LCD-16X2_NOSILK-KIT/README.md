@@ -6,8 +6,6 @@ Contents
 ========
 
 * [FZSSPARKFUNDISLCD16X2NOSILKK > SparkFun-Displays : LCD-16X2_NOSILK-KIT](#fzssparkfundislcd16x2nosilkk--sparkfun-displays--lcd-16x2_nosilk-kit)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -19,18 +17,6 @@ NO IMAGE
 - Description: SparkFun-Displays : LCD-16X2_NOSILK-KIT
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Displays-LCD-16X2_NOSILK-KIT](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Displays-LCD-16X2_NOSILK-KIT)
 - Short Link: [http://oom.lt/FZSSPARKFUNDISLCD16X2NOSILKK](http://oom.lt/FZSSPARKFUNDISLCD16X2NOSILKK)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117SparkFun-Displays+:+LCD-16X2_NOSILK-KIT)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/SparkFun-Displays+:+LCD-16X2_NOSILK-KIT)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=SparkFun-Displays+:+LCD-16X2_NOSILK-KIT)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=SparkFun-Displays+:+LCD-16X2_NOSILK-KIT)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=SparkFun-Displays+:+LCD-16X2_NOSILK-KIT)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=SparkFun-Displays+:+LCD-16X2_NOSILK-KIT)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 NO IMAGES  
 ## Tags

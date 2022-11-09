@@ -6,8 +6,6 @@ Contents
 ========
 
 * [FZEREFPACKAGESG412E > ref-packages : G4-12E](#fzerefpackagesg412e--ref-packages--g4-12e)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -19,18 +17,6 @@ NO IMAGE
 - Description: ref-packages : G4-12E
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-G4-12E](http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-G4-12E)
 - Short Link: [http://oom.lt/FZEREFPACKAGESG412E](http://oom.lt/FZEREFPACKAGESG412E)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117ref-packages+:+G4-12E)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/ref-packages+:+G4-12E)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=ref-packages+:+G4-12E)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=ref-packages+:+G4-12E)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=ref-packages+:+G4-12E)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=ref-packages+:+G4-12E)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 NO IMAGES  
 ## Tags

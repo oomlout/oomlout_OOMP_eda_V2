@@ -6,11 +6,9 @@ Contents
 ========
 
 * [FZE19INCHVG64B > 19inch : VG64B](#fze19inchvg64b--19inch--vg64b)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZE19INCHVG64B > 19inch : VG64B
 
 - ID: FOOTPRINT-eagle-eagle-default-19inch-VG64B
@@ -19,20 +17,12 @@ NO IMAGE
 - Description: 19inch : VG64B
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-19inch-VG64B](http://oom.lt/FOOTPRINT-eagle-eagle-default-19inch-VG64B)
 - Short Link: [http://oom.lt/FZE19INCHVG64B](http://oom.lt/FZE19INCHVG64B)
+  
 
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=111719inch+:+VG64B)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/19inch+:+VG64B)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=19inch+:+VG64B)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=19inch+:+VG64B)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=19inch+:+VG64B)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=19inch+:+VG64B)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/19inch/VG64B/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/19inch/VG64B/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/19inch/VG64B/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/19inch/VG64B/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/19inch/VG64B/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/19inch/VG64B/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/19inch/VG64B/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/19inch/VG64B/kicadPcb3dBack.png)|
+| :---: | :---: | :---: | :---: |
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/19inch/VG64B/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/19inch/VG64B/kicadPcb3d.png)||||
 
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
-  
-NO IMAGES  
 ## Tags
   
 
@@ -47,3 +37,7 @@ NO IMAGES
 |Hex ID (short code)|hexID|FZE19INCHVG64B|
 |name|name|19inch : VG64B|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

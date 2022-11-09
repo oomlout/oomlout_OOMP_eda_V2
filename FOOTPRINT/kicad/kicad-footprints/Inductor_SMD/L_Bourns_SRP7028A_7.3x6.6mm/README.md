@@ -6,8 +6,6 @@ Contents
 ========
 
 * [FZKINDUCTORSMLBOURNSSRP728A73X66 > Inductor_SMD : L_Bourns_SRP7028A_7.3x6.6mm](#fzkinductorsmlbournssrp728a73x66--inductor_smd--l_bourns_srp7028a_73x66mm)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -19,18 +17,6 @@ Contents
 - Description: Inductor_SMD : L_Bourns_SRP7028A_7.3x6.6mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Bourns_SRP7028A_7.3x6.6mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Bourns_SRP7028A_7.3x6.6mm)
 - Short Link: [http://oom.lt/FZKINDUCTORSMLBOURNSSRP728A73X66](http://oom.lt/FZKINDUCTORSMLBOURNSSRP728A73X66)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Inductor_SMD+:+L_Bourns_SRP7028A_7.3x6.6mm)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Inductor_SMD+:+L_Bourns_SRP7028A_7.3x6.6mm)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Inductor_SMD+:+L_Bourns_SRP7028A_7.3x6.6mm)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Inductor_SMD+:+L_Bourns_SRP7028A_7.3x6.6mm)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Inductor_SMD+:+L_Bourns_SRP7028A_7.3x6.6mm)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Inductor_SMD+:+L_Bourns_SRP7028A_7.3x6.6mm)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Bourns_SRP7028A_7.3x6.6mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Bourns_SRP7028A_7.3x6.6mm/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Bourns_SRP7028A_7.3x6.6mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Bourns_SRP7028A_7.3x6.6mm/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Bourns_SRP7028A_7.3x6.6mm/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Bourns_SRP7028A_7.3x6.6mm/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Bourns_SRP7028A_7.3x6.6mm/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Bourns_SRP7028A_7.3x6.6mm/kicadPcb3dBack.png)|

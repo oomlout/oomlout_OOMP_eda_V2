@@ -6,8 +6,6 @@ Contents
 ========
 
 * [FZEAM29MEMORYPLCCSR32 > am29-memory : PLCC-SR32](#fzeam29memoryplccsr32--am29-memory--plcc-sr32)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -19,20 +17,12 @@ NO IMAGE
 - Description: am29-memory : PLCC-SR32
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-am29-memory-PLCC-SR32](http://oom.lt/FOOTPRINT-eagle-eagle-default-am29-memory-PLCC-SR32)
 - Short Link: [http://oom.lt/FZEAM29MEMORYPLCCSR32](http://oom.lt/FZEAM29MEMORYPLCCSR32)
+  
 
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117am29-memory+:+PLCC-SR32)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/am29-memory+:+PLCC-SR32)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=am29-memory+:+PLCC-SR32)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=am29-memory+:+PLCC-SR32)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=am29-memory+:+PLCC-SR32)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=am29-memory+:+PLCC-SR32)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/am29-memory/PLCC-SR32/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/am29-memory/PLCC-SR32/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/am29-memory/PLCC-SR32/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/am29-memory/PLCC-SR32/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/am29-memory/PLCC-SR32/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/am29-memory/PLCC-SR32/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/am29-memory/PLCC-SR32/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/am29-memory/PLCC-SR32/kicadPcb3dBack.png)|
+| :---: | :---: | :---: | :---: |
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/am29-memory/PLCC-SR32/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/am29-memory/PLCC-SR32/kicadPcb3d.png)||||
 
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
-  
-NO IMAGES  
 ## Tags
   
 

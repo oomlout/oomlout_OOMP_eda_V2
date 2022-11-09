@@ -6,8 +6,6 @@ Contents
 ========
 
 * [FZKCNFFCFPCOMRONXF2M4151A1X41MPP5HORIZONTAL > Connector_FFC-FPC : Omron_XF2M-4015-1A_1x40-1MP_P0.5mm_Horizontal](#fzkcnffcfpcomronxf2m4151a1x41mpp5horizontal--connector_ffc-fpc--omron_xf2m-4015-1a_1x40-1mp_p05mm_horizontal)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -19,18 +17,6 @@ NO IMAGE
 - Description: Connector_FFC-FPC : Omron_XF2M-4015-1A_1x40-1MP_P0.5mm_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_FFC-FPC-Omron_XF2M-4015-1A_1x40-1MP_P0.5mm_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_FFC-FPC-Omron_XF2M-4015-1A_1x40-1MP_P0.5mm_Horizontal)
 - Short Link: [http://oom.lt/FZKCNFFCFPCOMRONXF2M4151A1X41MPP5HORIZONTAL](http://oom.lt/FZKCNFFCFPCOMRONXF2M4151A1X41MPP5HORIZONTAL)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Connector_FFC-FPC+:+Omron_XF2M-4015-1A_1x40-1MP_P0.5mm_Horizontal)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Connector_FFC-FPC+:+Omron_XF2M-4015-1A_1x40-1MP_P0.5mm_Horizontal)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Connector_FFC-FPC+:+Omron_XF2M-4015-1A_1x40-1MP_P0.5mm_Horizontal)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Connector_FFC-FPC+:+Omron_XF2M-4015-1A_1x40-1MP_P0.5mm_Horizontal)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Connector_FFC-FPC+:+Omron_XF2M-4015-1A_1x40-1MP_P0.5mm_Horizontal)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Connector_FFC-FPC+:+Omron_XF2M-4015-1A_1x40-1MP_P0.5mm_Horizontal)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 NO IMAGES  
 ## Tags

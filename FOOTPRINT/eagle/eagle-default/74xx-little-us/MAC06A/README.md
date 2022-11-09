@@ -6,11 +6,9 @@ Contents
 ========
 
 * [FZE74XXLITTLEUSMAC6A > 74xx-little-us : MAC06A](#fze74xxlittleusmac6a--74xx-little-us--mac06a)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZE74XXLITTLEUSMAC6A > 74xx-little-us : MAC06A
 
 - ID: FOOTPRINT-eagle-eagle-default-74xx-little-us-MAC06A
@@ -19,20 +17,12 @@ NO IMAGE
 - Description: 74xx-little-us : MAC06A
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-74xx-little-us-MAC06A](http://oom.lt/FOOTPRINT-eagle-eagle-default-74xx-little-us-MAC06A)
 - Short Link: [http://oom.lt/FZE74XXLITTLEUSMAC6A](http://oom.lt/FZE74XXLITTLEUSMAC6A)
+  
 
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=111774xx-little-us+:+MAC06A)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/74xx-little-us+:+MAC06A)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=74xx-little-us+:+MAC06A)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=74xx-little-us+:+MAC06A)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=74xx-little-us+:+MAC06A)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=74xx-little-us+:+MAC06A)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/74xx-little-us/MAC06A/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/74xx-little-us/MAC06A/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/74xx-little-us/MAC06A/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/74xx-little-us/MAC06A/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/74xx-little-us/MAC06A/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/74xx-little-us/MAC06A/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/74xx-little-us/MAC06A/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/74xx-little-us/MAC06A/kicadPcb3dBack.png)|
+| :---: | :---: | :---: | :---: |
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/74xx-little-us/MAC06A/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/74xx-little-us/MAC06A/kicadPcb3d.png)||||
 
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
-  
-NO IMAGES  
 ## Tags
   
 
@@ -47,3 +37,7 @@ NO IMAGES
 |Hex ID (short code)|hexID|FZE74XXLITTLEUSMAC6A|
 |name|name|74xx-little-us : MAC06A|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

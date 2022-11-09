@@ -6,8 +6,6 @@ Contents
 ========
 
 * [FZETEXASSN55SN75PSRPDSOG8 > texas-sn55-sn75 : PS_R-PDSO-G8](#fzetexassn55sn75psrpdsog8--texas-sn55-sn75--ps_r-pdso-g8)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -19,18 +17,6 @@ NO IMAGE
 - Description: texas-sn55-sn75 : PS_R-PDSO-G8
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-texas-sn55-sn75-PS_R-PDSO-G8](http://oom.lt/FOOTPRINT-eagle-eagle-default-texas-sn55-sn75-PS_R-PDSO-G8)
 - Short Link: [http://oom.lt/FZETEXASSN55SN75PSRPDSOG8](http://oom.lt/FZETEXASSN55SN75PSRPDSOG8)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117texas-sn55-sn75+:+PS_R-PDSO-G8)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/texas-sn55-sn75+:+PS_R-PDSO-G8)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=texas-sn55-sn75+:+PS_R-PDSO-G8)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=texas-sn55-sn75+:+PS_R-PDSO-G8)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=texas-sn55-sn75+:+PS_R-PDSO-G8)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=texas-sn55-sn75+:+PS_R-PDSO-G8)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 NO IMAGES  
 ## Tags

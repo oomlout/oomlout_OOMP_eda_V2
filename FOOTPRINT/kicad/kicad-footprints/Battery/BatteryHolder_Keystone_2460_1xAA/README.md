@@ -6,8 +6,6 @@ Contents
 ========
 
 * [FZKBATBATHOLDERKEYSTONE2461XAA > Battery : BatteryHolder_Keystone_2460_1xAA](#fzkbatbatholderkeystone2461xaa--battery--batteryholder_keystone_2460_1xaa)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -19,18 +17,6 @@ Contents
 - Description: Battery : BatteryHolder_Keystone_2460_1xAA
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Battery-BatteryHolder_Keystone_2460_1xAA](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Battery-BatteryHolder_Keystone_2460_1xAA)
 - Short Link: [http://oom.lt/FZKBATBATHOLDERKEYSTONE2461XAA](http://oom.lt/FZKBATBATHOLDERKEYSTONE2461XAA)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Battery+:+BatteryHolder_Keystone_2460_1xAA)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Battery+:+BatteryHolder_Keystone_2460_1xAA)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Battery+:+BatteryHolder_Keystone_2460_1xAA)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Battery+:+BatteryHolder_Keystone_2460_1xAA)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Battery+:+BatteryHolder_Keystone_2460_1xAA)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Battery+:+BatteryHolder_Keystone_2460_1xAA)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Battery/BatteryHolder_Keystone_2460_1xAA/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Battery/BatteryHolder_Keystone_2460_1xAA/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Battery/BatteryHolder_Keystone_2460_1xAA/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Battery/BatteryHolder_Keystone_2460_1xAA/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Battery/BatteryHolder_Keystone_2460_1xAA/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Battery/BatteryHolder_Keystone_2460_1xAA/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Battery/BatteryHolder_Keystone_2460_1xAA/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Battery/BatteryHolder_Keystone_2460_1xAA/kicadPcb3dBack.png)|

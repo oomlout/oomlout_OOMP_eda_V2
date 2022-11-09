@@ -6,8 +6,6 @@ Contents
 ========
 
 * [FZEOPTOTRANSSIEMENSSFH26 > opto-trans-siemens : SFH206](#fzeoptotranssiemenssfh26--opto-trans-siemens--sfh206)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -19,18 +17,6 @@ NO IMAGE
 - Description: opto-trans-siemens : SFH206
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-opto-trans-siemens-SFH206](http://oom.lt/FOOTPRINT-eagle-eagle-default-opto-trans-siemens-SFH206)
 - Short Link: [http://oom.lt/FZEOPTOTRANSSIEMENSSFH26](http://oom.lt/FZEOPTOTRANSSIEMENSSFH26)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117opto-trans-siemens+:+SFH206)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/opto-trans-siemens+:+SFH206)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=opto-trans-siemens+:+SFH206)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=opto-trans-siemens+:+SFH206)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=opto-trans-siemens+:+SFH206)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=opto-trans-siemens+:+SFH206)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 NO IMAGES  
 ## Tags

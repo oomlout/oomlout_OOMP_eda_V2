@@ -6,8 +6,6 @@ Contents
 ========
 
 * [FZKMONMONWASMSI45H297742482 > Mounting_Wuerth : Mounting_Wuerth_WA-SMSI-4.5mm_H2mm_9774020482](#fzkmonmonwasmsi45h297742482--mounting_wuerth--mounting_wuerth_wa-smsi-45mm_h2mm_9774020482)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -19,18 +17,6 @@ Contents
 - Description: Mounting_Wuerth : Mounting_Wuerth_WA-SMSI-4.5mm_H2mm_9774020482
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Mounting_Wuerth-Mounting_Wuerth_WA-SMSI-4.5mm_H2mm_9774020482](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Mounting_Wuerth-Mounting_Wuerth_WA-SMSI-4.5mm_H2mm_9774020482)
 - Short Link: [http://oom.lt/FZKMONMONWASMSI45H297742482](http://oom.lt/FZKMONMONWASMSI45H297742482)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Mounting_Wuerth+:+Mounting_Wuerth_WA-SMSI-4.5mm_H2mm_9774020482)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Mounting_Wuerth+:+Mounting_Wuerth_WA-SMSI-4.5mm_H2mm_9774020482)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Mounting_Wuerth+:+Mounting_Wuerth_WA-SMSI-4.5mm_H2mm_9774020482)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Mounting_Wuerth+:+Mounting_Wuerth_WA-SMSI-4.5mm_H2mm_9774020482)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Mounting_Wuerth+:+Mounting_Wuerth_WA-SMSI-4.5mm_H2mm_9774020482)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Mounting_Wuerth+:+Mounting_Wuerth_WA-SMSI-4.5mm_H2mm_9774020482)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Mounting_Wuerth/Mounting_Wuerth_WA-SMSI-4.5mm_H2mm_9774020482/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Mounting_Wuerth/Mounting_Wuerth_WA-SMSI-4.5mm_H2mm_9774020482/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Mounting_Wuerth/Mounting_Wuerth_WA-SMSI-4.5mm_H2mm_9774020482/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Mounting_Wuerth/Mounting_Wuerth_WA-SMSI-4.5mm_H2mm_9774020482/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Mounting_Wuerth/Mounting_Wuerth_WA-SMSI-4.5mm_H2mm_9774020482/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Mounting_Wuerth/Mounting_Wuerth_WA-SMSI-4.5mm_H2mm_9774020482/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Mounting_Wuerth/Mounting_Wuerth_WA-SMSI-4.5mm_H2mm_9774020482/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Mounting_Wuerth/Mounting_Wuerth_WA-SMSI-4.5mm_H2mm_9774020482/kicadPcb3dBack.png)|

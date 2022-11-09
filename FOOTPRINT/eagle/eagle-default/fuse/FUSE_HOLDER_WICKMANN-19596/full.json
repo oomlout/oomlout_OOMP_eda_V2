@@ -30,6 +30,9 @@
         "jsonFull": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/fuse/FUSE_HOLDER_WICKMANN-19596/full.json"
         ],
+        "mpnList": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/fuse/FUSE_HOLDER_WICKMANN-19596/MPNLIST.md"
+        ],
         "readme": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/fuse/FUSE_HOLDER_WICKMANN-19596/README.md"
         ]

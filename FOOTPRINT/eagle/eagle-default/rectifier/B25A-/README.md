@@ -6,8 +6,6 @@ Contents
 ========
 
 * [FZERECTIFIERB25A > rectifier : B25A-](#fzerectifierb25a--rectifier--b25a-)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -19,18 +17,6 @@ NO IMAGE
 - Description: rectifier : B25A-
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-rectifier-B25A-](http://oom.lt/FOOTPRINT-eagle-eagle-default-rectifier-B25A-)
 - Short Link: [http://oom.lt/FZERECTIFIERB25A](http://oom.lt/FZERECTIFIERB25A)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117rectifier+:+B25A-)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/rectifier+:+B25A-)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=rectifier+:+B25A-)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=rectifier+:+B25A-)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=rectifier+:+B25A-)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=rectifier+:+B25A-)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 NO IMAGES  
 ## Tags

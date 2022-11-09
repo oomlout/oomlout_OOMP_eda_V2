@@ -6,8 +6,6 @@ Contents
 ========
 
 * [FZE19INCHVG32 > 19inch : VG32](#fze19inchvg32--19inch--vg32)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -19,18 +17,6 @@ NO IMAGE
 - Description: 19inch : VG32
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-19inch-VG32](http://oom.lt/FOOTPRINT-eagle-eagle-default-19inch-VG32)
 - Short Link: [http://oom.lt/FZE19INCHVG32](http://oom.lt/FZE19INCHVG32)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=111719inch+:+VG32)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/19inch+:+VG32)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=19inch+:+VG32)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=19inch+:+VG32)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=19inch+:+VG32)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=19inch+:+VG32)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 NO IMAGES  
 ## Tags

@@ -6,8 +6,6 @@ Contents
 ========
 
 * [FZASTRIP5PINSS > adafruit : STRIP-5PINSS](#fzastrip5pinss--adafruit--strip-5pinss)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -19,18 +17,6 @@ NO IMAGE
 - Description: adafruit : STRIP-5PINSS
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-STRIP-5PINSS](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-STRIP-5PINSS)
 - Short Link: [http://oom.lt/FZASTRIP5PINSS](http://oom.lt/FZASTRIP5PINSS)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117adafruit+:+STRIP-5PINSS)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/adafruit+:+STRIP-5PINSS)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=adafruit+:+STRIP-5PINSS)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=adafruit+:+STRIP-5PINSS)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=adafruit+:+STRIP-5PINSS)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=adafruit+:+STRIP-5PINSS)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 NO IMAGES  
 ## Tags

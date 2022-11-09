@@ -6,11 +6,9 @@ Contents
 ========
 
 * [FZEALTERASTRATIXIVFBGA78 > altera-stratix-iv : FBGA780](#fzealterastratixivfbga78--altera-stratix-iv--fbga780)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEALTERASTRATIXIVFBGA78 > altera-stratix-iv : FBGA780
 
 - ID: FOOTPRINT-eagle-eagle-default-altera-stratix-iv-FBGA780
@@ -19,20 +17,12 @@ NO IMAGE
 - Description: altera-stratix-iv : FBGA780
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-altera-stratix-iv-FBGA780](http://oom.lt/FOOTPRINT-eagle-eagle-default-altera-stratix-iv-FBGA780)
 - Short Link: [http://oom.lt/FZEALTERASTRATIXIVFBGA78](http://oom.lt/FZEALTERASTRATIXIVFBGA78)
+  
 
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117altera-stratix-iv+:+FBGA780)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/altera-stratix-iv+:+FBGA780)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=altera-stratix-iv+:+FBGA780)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=altera-stratix-iv+:+FBGA780)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=altera-stratix-iv+:+FBGA780)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=altera-stratix-iv+:+FBGA780)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/altera-stratix-iv/FBGA780/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/altera-stratix-iv/FBGA780/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/altera-stratix-iv/FBGA780/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/altera-stratix-iv/FBGA780/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/altera-stratix-iv/FBGA780/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/altera-stratix-iv/FBGA780/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/altera-stratix-iv/FBGA780/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/altera-stratix-iv/FBGA780/kicadPcb3dBack.png)|
+| :---: | :---: | :---: | :---: |
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/altera-stratix-iv/FBGA780/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/altera-stratix-iv/FBGA780/kicadPcb3d.png)||||
 
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
-  
-NO IMAGES  
 ## Tags
   
 
@@ -47,3 +37,7 @@ NO IMAGES
 |Hex ID (short code)|hexID|FZEALTERASTRATIXIVFBGA78|
 |name|name|altera-stratix-iv : FBGA780|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

@@ -6,8 +6,6 @@ Contents
 ========
 
 * [FZKCNAMPHENOLAMPHENOLM8S3PRSF81 > Connector_Amphenol : Amphenol_M8S-03PMMR-SF8001](#fzkcnamphenolamphenolm8s3prsf81--connector_amphenol--amphenol_m8s-03pmmr-sf8001)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -19,18 +17,6 @@ Contents
 - Description: Connector_Amphenol : Amphenol_M8S-03PMMR-SF8001
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Amphenol-Amphenol_M8S-03PMMR-SF8001](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Amphenol-Amphenol_M8S-03PMMR-SF8001)
 - Short Link: [http://oom.lt/FZKCNAMPHENOLAMPHENOLM8S3PRSF81](http://oom.lt/FZKCNAMPHENOLAMPHENOLM8S3PRSF81)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Connector_Amphenol+:+Amphenol_M8S-03PMMR-SF8001)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Connector_Amphenol+:+Amphenol_M8S-03PMMR-SF8001)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Connector_Amphenol+:+Amphenol_M8S-03PMMR-SF8001)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Connector_Amphenol+:+Amphenol_M8S-03PMMR-SF8001)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Connector_Amphenol+:+Amphenol_M8S-03PMMR-SF8001)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Connector_Amphenol+:+Amphenol_M8S-03PMMR-SF8001)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Amphenol/Amphenol_M8S-03PMMR-SF8001/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Amphenol/Amphenol_M8S-03PMMR-SF8001/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Amphenol/Amphenol_M8S-03PMMR-SF8001/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Amphenol/Amphenol_M8S-03PMMR-SF8001/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Amphenol/Amphenol_M8S-03PMMR-SF8001/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Amphenol/Amphenol_M8S-03PMMR-SF8001/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Amphenol/Amphenol_M8S-03PMMR-SF8001/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Amphenol/Amphenol_M8S-03PMMR-SF8001/kicadPcb3dBack.png)|

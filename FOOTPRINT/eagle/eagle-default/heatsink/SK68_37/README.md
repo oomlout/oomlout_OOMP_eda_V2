@@ -6,8 +6,6 @@ Contents
 ========
 
 * [FZEHSK6837 > heatsink : SK68_37](#fzehsk6837--heatsink--sk68_37)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -19,18 +17,6 @@ NO IMAGE
 - Description: heatsink : SK68_37
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-heatsink-SK68_37](http://oom.lt/FOOTPRINT-eagle-eagle-default-heatsink-SK68_37)
 - Short Link: [http://oom.lt/FZEHSK6837](http://oom.lt/FZEHSK6837)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117heatsink+:+SK68_37)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/heatsink+:+SK68_37)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=heatsink+:+SK68_37)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=heatsink+:+SK68_37)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=heatsink+:+SK68_37)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=heatsink+:+SK68_37)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 NO IMAGES  
 ## Tags

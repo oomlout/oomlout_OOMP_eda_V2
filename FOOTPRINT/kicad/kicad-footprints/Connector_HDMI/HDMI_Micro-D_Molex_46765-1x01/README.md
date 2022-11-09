@@ -6,8 +6,6 @@ Contents
 ========
 
 * [FZKCNHDMIHDMIMDMX467651X1 > Connector_HDMI : HDMI_Micro-D_Molex_46765-1x01](#fzkcnhdmihdmimdmx467651x1--connector_hdmi--hdmi_micro-d_molex_46765-1x01)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -19,18 +17,6 @@ Contents
 - Description: Connector_HDMI : HDMI_Micro-D_Molex_46765-1x01
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_HDMI-HDMI_Micro-D_Molex_46765-1x01](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_HDMI-HDMI_Micro-D_Molex_46765-1x01)
 - Short Link: [http://oom.lt/FZKCNHDMIHDMIMDMX467651X1](http://oom.lt/FZKCNHDMIHDMIMDMX467651X1)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Connector_HDMI+:+HDMI_Micro-D_Molex_46765-1x01)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Connector_HDMI+:+HDMI_Micro-D_Molex_46765-1x01)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Connector_HDMI+:+HDMI_Micro-D_Molex_46765-1x01)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Connector_HDMI+:+HDMI_Micro-D_Molex_46765-1x01)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Connector_HDMI+:+HDMI_Micro-D_Molex_46765-1x01)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Connector_HDMI+:+HDMI_Micro-D_Molex_46765-1x01)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_HDMI/HDMI_Micro-D_Molex_46765-1x01/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_HDMI/HDMI_Micro-D_Molex_46765-1x01/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_HDMI/HDMI_Micro-D_Molex_46765-1x01/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_HDMI/HDMI_Micro-D_Molex_46765-1x01/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_HDMI/HDMI_Micro-D_Molex_46765-1x01/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_HDMI/HDMI_Micro-D_Molex_46765-1x01/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_HDMI/HDMI_Micro-D_Molex_46765-1x01/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_HDMI/HDMI_Micro-D_Molex_46765-1x01/kicadPcb3dBack.png)|

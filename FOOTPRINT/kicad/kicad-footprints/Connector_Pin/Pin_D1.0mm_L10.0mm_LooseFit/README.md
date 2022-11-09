@@ -6,8 +6,6 @@ Contents
 ========
 
 * [FZKCNPINPIND1L1LOOSEFIT > Connector_Pin : Pin_D1.0mm_L10.0mm_LooseFit](#fzkcnpinpind1l1loosefit--connector_pin--pin_d10mm_l100mm_loosefit)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -19,18 +17,6 @@ Contents
 - Description: Connector_Pin : Pin_D1.0mm_L10.0mm_LooseFit
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Pin-Pin_D1.0mm_L10.0mm_LooseFit](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Pin-Pin_D1.0mm_L10.0mm_LooseFit)
 - Short Link: [http://oom.lt/FZKCNPINPIND1L1LOOSEFIT](http://oom.lt/FZKCNPINPIND1L1LOOSEFIT)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Connector_Pin+:+Pin_D1.0mm_L10.0mm_LooseFit)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Connector_Pin+:+Pin_D1.0mm_L10.0mm_LooseFit)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Connector_Pin+:+Pin_D1.0mm_L10.0mm_LooseFit)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Connector_Pin+:+Pin_D1.0mm_L10.0mm_LooseFit)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Connector_Pin+:+Pin_D1.0mm_L10.0mm_LooseFit)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Connector_Pin+:+Pin_D1.0mm_L10.0mm_LooseFit)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Pin/Pin_D1.0mm_L10.0mm_LooseFit/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Pin/Pin_D1.0mm_L10.0mm_LooseFit/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Pin/Pin_D1.0mm_L10.0mm_LooseFit/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Pin/Pin_D1.0mm_L10.0mm_LooseFit/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Pin/Pin_D1.0mm_L10.0mm_LooseFit/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Pin/Pin_D1.0mm_L10.0mm_LooseFit/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Pin/Pin_D1.0mm_L10.0mm_LooseFit/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Pin/Pin_D1.0mm_L10.0mm_LooseFit/kicadPcb3dBack.png)|

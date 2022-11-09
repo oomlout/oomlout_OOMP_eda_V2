@@ -6,8 +6,6 @@ Contents
 ========
 
 * [FZERCLLAL4KB > rcl : LAL04KB](#fzercllal4kb--rcl--lal04kb)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -19,18 +17,6 @@ NO IMAGE
 - Description: rcl : LAL04KB
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-LAL04KB](http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-LAL04KB)
 - Short Link: [http://oom.lt/FZERCLLAL4KB](http://oom.lt/FZERCLLAL4KB)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117rcl+:+LAL04KB)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/rcl+:+LAL04KB)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=rcl+:+LAL04KB)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=rcl+:+LAL04KB)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=rcl+:+LAL04KB)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=rcl+:+LAL04KB)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 NO IMAGES  
 ## Tags

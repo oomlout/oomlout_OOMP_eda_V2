@@ -6,8 +6,6 @@ Contents
 ========
 
 * [FZKCNUUCRECEPTACLEAMPHENOL124161E42ACIRCULARH > Connector_USB : USB_C_Receptacle_Amphenol_12401610E4-2A_CircularHoles](#fzkcnuucreceptacleamphenol124161e42acircularh--connector_usb--usb_c_receptacle_amphenol_12401610e4-2a_circularholes)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -19,18 +17,6 @@ Contents
 - Description: Connector_USB : USB_C_Receptacle_Amphenol_12401610E4-2A_CircularHoles
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_C_Receptacle_Amphenol_12401610E4-2A_CircularHoles](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_C_Receptacle_Amphenol_12401610E4-2A_CircularHoles)
 - Short Link: [http://oom.lt/FZKCNUUCRECEPTACLEAMPHENOL124161E42ACIRCULARH](http://oom.lt/FZKCNUUCRECEPTACLEAMPHENOL124161E42ACIRCULARH)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Connector_USB+:+USB_C_Receptacle_Amphenol_12401610E4-2A_CircularHoles)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Connector_USB+:+USB_C_Receptacle_Amphenol_12401610E4-2A_CircularHoles)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Connector_USB+:+USB_C_Receptacle_Amphenol_12401610E4-2A_CircularHoles)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Connector_USB+:+USB_C_Receptacle_Amphenol_12401610E4-2A_CircularHoles)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Connector_USB+:+USB_C_Receptacle_Amphenol_12401610E4-2A_CircularHoles)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Connector_USB+:+USB_C_Receptacle_Amphenol_12401610E4-2A_CircularHoles)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB_C_Receptacle_Amphenol_12401610E4-2A_CircularHoles/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB_C_Receptacle_Amphenol_12401610E4-2A_CircularHoles/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB_C_Receptacle_Amphenol_12401610E4-2A_CircularHoles/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB_C_Receptacle_Amphenol_12401610E4-2A_CircularHoles/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB_C_Receptacle_Amphenol_12401610E4-2A_CircularHoles/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB_C_Receptacle_Amphenol_12401610E4-2A_CircularHoles/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB_C_Receptacle_Amphenol_12401610E4-2A_CircularHoles/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB_C_Receptacle_Amphenol_12401610E4-2A_CircularHoles/kicadPcb3dBack.png)|

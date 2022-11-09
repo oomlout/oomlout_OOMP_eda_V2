@@ -6,8 +6,6 @@ Contents
 ========
 
 * [FZEMNASPQFN641 > micronas : PQFN64-1](#fzemnaspqfn641--micronas--pqfn64-1)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -19,18 +17,6 @@ NO IMAGE
 - Description: micronas : PQFN64-1
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-micronas-PQFN64-1](http://oom.lt/FOOTPRINT-eagle-eagle-default-micronas-PQFN64-1)
 - Short Link: [http://oom.lt/FZEMNASPQFN641](http://oom.lt/FZEMNASPQFN641)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117micronas+:+PQFN64-1)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/micronas+:+PQFN64-1)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=micronas+:+PQFN64-1)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=micronas+:+PQFN64-1)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=micronas+:+PQFN64-1)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=micronas+:+PQFN64-1)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 NO IMAGES  
 ## Tags

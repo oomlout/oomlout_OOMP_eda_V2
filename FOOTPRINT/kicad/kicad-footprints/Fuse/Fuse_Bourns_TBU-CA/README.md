@@ -6,8 +6,6 @@ Contents
 ========
 
 * [FZKFUFUBOURNSTBUCA > Fuse : Fuse_Bourns_TBU-CA](#fzkfufubournstbuca--fuse--fuse_bourns_tbu-ca)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -19,18 +17,6 @@ NO IMAGE
 - Description: Fuse : Fuse_Bourns_TBU-CA
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Fuse-Fuse_Bourns_TBU-CA](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Fuse-Fuse_Bourns_TBU-CA)
 - Short Link: [http://oom.lt/FZKFUFUBOURNSTBUCA](http://oom.lt/FZKFUFUBOURNSTBUCA)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Fuse+:+Fuse_Bourns_TBU-CA)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Fuse+:+Fuse_Bourns_TBU-CA)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Fuse+:+Fuse_Bourns_TBU-CA)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Fuse+:+Fuse_Bourns_TBU-CA)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Fuse+:+Fuse_Bourns_TBU-CA)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Fuse+:+Fuse_Bourns_TBU-CA)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 NO IMAGES  
 ## Tags

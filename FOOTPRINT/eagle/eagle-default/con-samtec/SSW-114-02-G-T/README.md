@@ -6,8 +6,6 @@ Contents
 ========
 
 * [FZECONSAMTECSSW1142GT > con-samtec : SSW-114-02-G-T](#fzeconsamtecssw1142gt--con-samtec--ssw-114-02-g-t)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -19,18 +17,6 @@ NO IMAGE
 - Description: con-samtec : SSW-114-02-G-T
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-samtec-SSW-114-02-G-T](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-samtec-SSW-114-02-G-T)
 - Short Link: [http://oom.lt/FZECONSAMTECSSW1142GT](http://oom.lt/FZECONSAMTECSSW1142GT)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117con-samtec+:+SSW-114-02-G-T)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/con-samtec+:+SSW-114-02-G-T)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=con-samtec+:+SSW-114-02-G-T)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=con-samtec+:+SSW-114-02-G-T)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=con-samtec+:+SSW-114-02-G-T)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=con-samtec+:+SSW-114-02-G-T)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 NO IMAGES  
 ## Tags

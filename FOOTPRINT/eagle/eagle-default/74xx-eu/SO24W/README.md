@@ -6,8 +6,6 @@ Contents
 ========
 
 * [FZE74XXEUSO24W > 74xx-eu : SO24W](#fze74xxeuso24w--74xx-eu--so24w)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -19,20 +17,12 @@ NO IMAGE
 - Description: 74xx-eu : SO24W
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-74xx-eu-SO24W](http://oom.lt/FOOTPRINT-eagle-eagle-default-74xx-eu-SO24W)
 - Short Link: [http://oom.lt/FZE74XXEUSO24W](http://oom.lt/FZE74XXEUSO24W)
+  
 
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=111774xx-eu+:+SO24W)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/74xx-eu+:+SO24W)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=74xx-eu+:+SO24W)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=74xx-eu+:+SO24W)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=74xx-eu+:+SO24W)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=74xx-eu+:+SO24W)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/74xx-eu/SO24W/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/74xx-eu/SO24W/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/74xx-eu/SO24W/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/74xx-eu/SO24W/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/74xx-eu/SO24W/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/74xx-eu/SO24W/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/74xx-eu/SO24W/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/74xx-eu/SO24W/kicadPcb3dBack.png)|
+| :---: | :---: | :---: | :---: |
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/74xx-eu/SO24W/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/74xx-eu/SO24W/kicadPcb3d.png)||||
 
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
-  
-NO IMAGES  
 ## Tags
   
 

@@ -6,8 +6,6 @@ Contents
 ========
 
 * [FZKBZINDICATORPUIAI144TWT24V2R > Buzzer_Beeper : Indicator_PUI_AI-1440-TWT-24V-2-R](#fzkbzindicatorpuiai144twt24v2r--buzzer_beeper--indicator_pui_ai-1440-twt-24v-2-r)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -19,18 +17,6 @@ Contents
 - Description: Buzzer_Beeper : Indicator_PUI_AI-1440-TWT-24V-2-R
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Buzzer_Beeper-Indicator_PUI_AI-1440-TWT-24V-2-R](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Buzzer_Beeper-Indicator_PUI_AI-1440-TWT-24V-2-R)
 - Short Link: [http://oom.lt/FZKBZINDICATORPUIAI144TWT24V2R](http://oom.lt/FZKBZINDICATORPUIAI144TWT24V2R)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Buzzer_Beeper+:+Indicator_PUI_AI-1440-TWT-24V-2-R)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Buzzer_Beeper+:+Indicator_PUI_AI-1440-TWT-24V-2-R)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Buzzer_Beeper+:+Indicator_PUI_AI-1440-TWT-24V-2-R)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Buzzer_Beeper+:+Indicator_PUI_AI-1440-TWT-24V-2-R)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Buzzer_Beeper+:+Indicator_PUI_AI-1440-TWT-24V-2-R)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Buzzer_Beeper+:+Indicator_PUI_AI-1440-TWT-24V-2-R)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Buzzer_Beeper/Indicator_PUI_AI-1440-TWT-24V-2-R/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Buzzer_Beeper/Indicator_PUI_AI-1440-TWT-24V-2-R/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Buzzer_Beeper/Indicator_PUI_AI-1440-TWT-24V-2-R/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Buzzer_Beeper/Indicator_PUI_AI-1440-TWT-24V-2-R/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Buzzer_Beeper/Indicator_PUI_AI-1440-TWT-24V-2-R/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Buzzer_Beeper/Indicator_PUI_AI-1440-TWT-24V-2-R/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Buzzer_Beeper/Indicator_PUI_AI-1440-TWT-24V-2-R/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Buzzer_Beeper/Indicator_PUI_AI-1440-TWT-24V-2-R/kicadPcb3dBack.png)|

@@ -6,8 +6,6 @@ Contents
 ========
 
 * [FZKCAPACITORSMCPELECCAPXXDMF3ZXXXXXXXX3D > Capacitor_SMD : CP_Elec_CAP-XX_DMF3Zxxxxxxxx3D](#fzkcapacitorsmcpeleccapxxdmf3zxxxxxxxx3d--capacitor_smd--cp_elec_cap-xx_dmf3zxxxxxxxx3d)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -19,18 +17,6 @@ NO IMAGE
 - Description: Capacitor_SMD : CP_Elec_CAP-XX_DMF3Zxxxxxxxx3D
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-CP_Elec_CAP-XX_DMF3Zxxxxxxxx3D](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-CP_Elec_CAP-XX_DMF3Zxxxxxxxx3D)
 - Short Link: [http://oom.lt/FZKCAPACITORSMCPELECCAPXXDMF3ZXXXXXXXX3D](http://oom.lt/FZKCAPACITORSMCPELECCAPXXDMF3ZXXXXXXXX3D)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Capacitor_SMD+:+CP_Elec_CAP-XX_DMF3Zxxxxxxxx3D)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Capacitor_SMD+:+CP_Elec_CAP-XX_DMF3Zxxxxxxxx3D)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Capacitor_SMD+:+CP_Elec_CAP-XX_DMF3Zxxxxxxxx3D)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Capacitor_SMD+:+CP_Elec_CAP-XX_DMF3Zxxxxxxxx3D)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Capacitor_SMD+:+CP_Elec_CAP-XX_DMF3Zxxxxxxxx3D)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Capacitor_SMD+:+CP_Elec_CAP-XX_DMF3Zxxxxxxxx3D)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 NO IMAGES  
 ## Tags

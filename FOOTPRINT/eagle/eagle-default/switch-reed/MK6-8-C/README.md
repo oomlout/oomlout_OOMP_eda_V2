@@ -6,8 +6,6 @@ Contents
 ========
 
 * [FZESWITCHREEDMK68C > switch-reed : MK6-8-C](#fzeswitchreedmk68c--switch-reed--mk6-8-c)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -19,18 +17,6 @@ NO IMAGE
 - Description: switch-reed : MK6-8-C
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-reed-MK6-8-C](http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-reed-MK6-8-C)
 - Short Link: [http://oom.lt/FZESWITCHREEDMK68C](http://oom.lt/FZESWITCHREEDMK68C)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117switch-reed+:+MK6-8-C)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/switch-reed+:+MK6-8-C)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=switch-reed+:+MK6-8-C)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=switch-reed+:+MK6-8-C)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=switch-reed+:+MK6-8-C)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=switch-reed+:+MK6-8-C)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 NO IMAGES  
 ## Tags

@@ -6,8 +6,6 @@ Contents
 ========
 
 * [FZKCAPACITORSMCPELEC8X67 > Capacitor_SMD : CP_Elec_8x6.7](#fzkcapacitorsmcpelec8x67--capacitor_smd--cp_elec_8x67)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -19,18 +17,6 @@ Contents
 - Description: Capacitor_SMD : CP_Elec_8x6.7
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-CP_Elec_8x6.7](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-CP_Elec_8x6.7)
 - Short Link: [http://oom.lt/FZKCAPACITORSMCPELEC8X67](http://oom.lt/FZKCAPACITORSMCPELEC8X67)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Capacitor_SMD+:+CP_Elec_8x6.7)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Capacitor_SMD+:+CP_Elec_8x6.7)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Capacitor_SMD+:+CP_Elec_8x6.7)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Capacitor_SMD+:+CP_Elec_8x6.7)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Capacitor_SMD+:+CP_Elec_8x6.7)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Capacitor_SMD+:+CP_Elec_8x6.7)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_SMD/CP_Elec_8x6.7/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_SMD/CP_Elec_8x6.7/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_SMD/CP_Elec_8x6.7/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_SMD/CP_Elec_8x6.7/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_SMD/CP_Elec_8x6.7/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_SMD/CP_Elec_8x6.7/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_SMD/CP_Elec_8x6.7/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_SMD/CP_Elec_8x6.7/kicadPcb3dBack.png)|

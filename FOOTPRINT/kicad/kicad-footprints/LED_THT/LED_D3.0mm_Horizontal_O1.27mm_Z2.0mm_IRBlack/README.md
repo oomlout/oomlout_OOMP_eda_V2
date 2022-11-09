@@ -6,8 +6,6 @@ Contents
 ========
 
 * [FZKLLD3HORIZONTALO127Z2IRBLACK > LED_THT : LED_D3.0mm_Horizontal_O1.27mm_Z2.0mm_IRBlack](#fzklld3horizontalo127z2irblack--led_tht--led_d30mm_horizontal_o127mm_z20mm_irblack)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -19,18 +17,6 @@ Contents
 - Description: LED_THT : LED_D3.0mm_Horizontal_O1.27mm_Z2.0mm_IRBlack
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-LED_THT-LED_D3.0mm_Horizontal_O1.27mm_Z2.0mm_IRBlack](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-LED_THT-LED_D3.0mm_Horizontal_O1.27mm_Z2.0mm_IRBlack)
 - Short Link: [http://oom.lt/FZKLLD3HORIZONTALO127Z2IRBLACK](http://oom.lt/FZKLLD3HORIZONTALO127Z2IRBLACK)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117LED_THT+:+LED_D3.0mm_Horizontal_O1.27mm_Z2.0mm_IRBlack)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/LED_THT+:+LED_D3.0mm_Horizontal_O1.27mm_Z2.0mm_IRBlack)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=LED_THT+:+LED_D3.0mm_Horizontal_O1.27mm_Z2.0mm_IRBlack)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=LED_THT+:+LED_D3.0mm_Horizontal_O1.27mm_Z2.0mm_IRBlack)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=LED_THT+:+LED_D3.0mm_Horizontal_O1.27mm_Z2.0mm_IRBlack)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=LED_THT+:+LED_D3.0mm_Horizontal_O1.27mm_Z2.0mm_IRBlack)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/LED_THT/LED_D3.0mm_Horizontal_O1.27mm_Z2.0mm_IRBlack/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/LED_THT/LED_D3.0mm_Horizontal_O1.27mm_Z2.0mm_IRBlack/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/LED_THT/LED_D3.0mm_Horizontal_O1.27mm_Z2.0mm_IRBlack/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/LED_THT/LED_D3.0mm_Horizontal_O1.27mm_Z2.0mm_IRBlack/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/LED_THT/LED_D3.0mm_Horizontal_O1.27mm_Z2.0mm_IRBlack/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/LED_THT/LED_D3.0mm_Horizontal_O1.27mm_Z2.0mm_IRBlack/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/LED_THT/LED_D3.0mm_Horizontal_O1.27mm_Z2.0mm_IRBlack/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/LED_THT/LED_D3.0mm_Horizontal_O1.27mm_Z2.0mm_IRBlack/kicadPcb3dBack.png)|

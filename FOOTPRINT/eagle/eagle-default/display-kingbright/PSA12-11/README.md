@@ -6,8 +6,6 @@ Contents
 ========
 
 * [FZEDIKINGBRIGHTPSA1211 > display-kingbright : PSA12-11](#fzedikingbrightpsa1211--display-kingbright--psa12-11)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -19,18 +17,6 @@ NO IMAGE
 - Description: display-kingbright : PSA12-11
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-display-kingbright-PSA12-11](http://oom.lt/FOOTPRINT-eagle-eagle-default-display-kingbright-PSA12-11)
 - Short Link: [http://oom.lt/FZEDIKINGBRIGHTPSA1211](http://oom.lt/FZEDIKINGBRIGHTPSA1211)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117display-kingbright+:+PSA12-11)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/display-kingbright+:+PSA12-11)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=display-kingbright+:+PSA12-11)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=display-kingbright+:+PSA12-11)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=display-kingbright+:+PSA12-11)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=display-kingbright+:+PSA12-11)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 NO IMAGES  
 ## Tags

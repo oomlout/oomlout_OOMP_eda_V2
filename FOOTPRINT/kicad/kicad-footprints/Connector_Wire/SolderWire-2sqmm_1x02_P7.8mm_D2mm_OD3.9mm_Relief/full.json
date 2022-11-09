@@ -61,6 +61,9 @@
         "kicadPcb3dFront": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Wire/SolderWire-2sqmm_1x02_P7.8mm_D2mm_OD3.9mm_Relief/kicadPcb3dFront.png"
         ],
+        "mpnList": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Wire/SolderWire-2sqmm_1x02_P7.8mm_D2mm_OD3.9mm_Relief/MPNLIST.md"
+        ],
         "readme": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Wire/SolderWire-2sqmm_1x02_P7.8mm_D2mm_OD3.9mm_Relief/README.md"
         ]

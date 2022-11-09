@@ -6,8 +6,6 @@ Contents
 ========
 
 * [FZEREFPACKAGESAG > ref-packages : AG](#fzerefpackagesag--ref-packages--ag)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -19,18 +17,6 @@ NO IMAGE
 - Description: ref-packages : AG
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-AG](http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-AG)
 - Short Link: [http://oom.lt/FZEREFPACKAGESAG](http://oom.lt/FZEREFPACKAGESAG)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117ref-packages+:+AG)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/ref-packages+:+AG)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=ref-packages+:+AG)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=ref-packages+:+AG)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=ref-packages+:+AG)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=ref-packages+:+AG)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 NO IMAGES  
 ## Tags

@@ -46,6 +46,9 @@
         "kicadFootprint": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_FFC-FPC/Omron_XF2M-4015-1A_1x40-1MP_P0.5mm_Horizontal/footprint.kicad_mod"
         ],
+        "mpnList": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_FFC-FPC/Omron_XF2M-4015-1A_1x40-1MP_P0.5mm_Horizontal/MPNLIST.md"
+        ],
         "readme": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_FFC-FPC/Omron_XF2M-4015-1A_1x40-1MP_P0.5mm_Horizontal/README.md"
         ]

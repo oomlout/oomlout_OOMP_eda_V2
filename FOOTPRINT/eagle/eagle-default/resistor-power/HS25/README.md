@@ -6,8 +6,6 @@ Contents
 ========
 
 * [FZERESISTORPOWERHS25 > resistor-power : HS25](#fzeresistorpowerhs25--resistor-power--hs25)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -19,18 +17,6 @@ NO IMAGE
 - Description: resistor-power : HS25
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-resistor-power-HS25](http://oom.lt/FOOTPRINT-eagle-eagle-default-resistor-power-HS25)
 - Short Link: [http://oom.lt/FZERESISTORPOWERHS25](http://oom.lt/FZERESISTORPOWERHS25)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117resistor-power+:+HS25)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/resistor-power+:+HS25)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=resistor-power+:+HS25)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=resistor-power+:+HS25)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=resistor-power+:+HS25)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=resistor-power+:+HS25)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 NO IMAGES  
 ## Tags

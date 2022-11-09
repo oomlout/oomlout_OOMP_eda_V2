@@ -61,6 +61,9 @@
         "kicadPcb3dFront": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Pin/Pin_D1.2mm_L10.2mm_W2.9mm_FlatFork/kicadPcb3dFront.png"
         ],
+        "mpnList": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Pin/Pin_D1.2mm_L10.2mm_W2.9mm_FlatFork/MPNLIST.md"
+        ],
         "readme": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Pin/Pin_D1.2mm_L10.2mm_W2.9mm_FlatFork/README.md"
         ]

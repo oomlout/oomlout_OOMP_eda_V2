@@ -61,6 +61,9 @@
         "kicadPcb3dFront": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_PinSocket_2.54mm/PinSocket_1x40_P2.54mm_Vertical_SMD_Pin1Left/kicadPcb3dFront.png"
         ],
+        "mpnList": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_PinSocket_2.54mm/PinSocket_1x40_P2.54mm_Vertical_SMD_Pin1Left/MPNLIST.md"
+        ],
         "readme": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_PinSocket_2.54mm/PinSocket_1x40_P2.54mm_Vertical_SMD_Pin1Left/README.md"
         ]

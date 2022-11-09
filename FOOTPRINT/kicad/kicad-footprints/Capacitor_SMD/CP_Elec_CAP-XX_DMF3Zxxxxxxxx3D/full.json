@@ -46,6 +46,9 @@
         "kicadFootprint": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Capacitor_SMD/CP_Elec_CAP-XX_DMF3Zxxxxxxxx3D/footprint.kicad_mod"
         ],
+        "mpnList": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Capacitor_SMD/CP_Elec_CAP-XX_DMF3Zxxxxxxxx3D/MPNLIST.md"
+        ],
         "readme": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Capacitor_SMD/CP_Elec_CAP-XX_DMF3Zxxxxxxxx3D/README.md"
         ]

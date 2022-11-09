@@ -61,6 +61,9 @@
         "kicadPcb3dFront": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Button_Switch_Keyboard/SW_Cherry_MX_2.00u_Vertical_Plate/kicadPcb3dFront.png"
         ],
+        "mpnList": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Button_Switch_Keyboard/SW_Cherry_MX_2.00u_Vertical_Plate/MPNLIST.md"
+        ],
         "readme": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Button_Switch_Keyboard/SW_Cherry_MX_2.00u_Vertical_Plate/README.md"
         ]

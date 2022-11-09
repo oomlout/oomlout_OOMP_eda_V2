@@ -6,8 +6,6 @@ Contents
 ========
 
 * [FZEREFPACKAGESTOP3BV > ref-packages : TOP3BV](#fzerefpackagestop3bv--ref-packages--top3bv)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -19,18 +17,6 @@ NO IMAGE
 - Description: ref-packages : TOP3BV
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-TOP3BV](http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-TOP3BV)
 - Short Link: [http://oom.lt/FZEREFPACKAGESTOP3BV](http://oom.lt/FZEREFPACKAGESTOP3BV)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117ref-packages+:+TOP3BV)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/ref-packages+:+TOP3BV)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=ref-packages+:+TOP3BV)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=ref-packages+:+TOP3BV)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=ref-packages+:+TOP3BV)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=ref-packages+:+TOP3BV)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 NO IMAGES  
 ## Tags

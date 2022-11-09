@@ -6,8 +6,6 @@ Contents
 ========
 
 * [FZSIAQFN8PAD > SparkFun-IC-Amplifiers : QFN-8_PAD](#fzsiaqfn8pad--sparkfun-ic-amplifiers--qfn-8_pad)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -19,18 +17,6 @@ NO IMAGE
 - Description: SparkFun-IC-Amplifiers : QFN-8_PAD
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Amplifiers-QFN-8_PAD](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Amplifiers-QFN-8_PAD)
 - Short Link: [http://oom.lt/FZSIAQFN8PAD](http://oom.lt/FZSIAQFN8PAD)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117SparkFun-IC-Amplifiers+:+QFN-8_PAD)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/SparkFun-IC-Amplifiers+:+QFN-8_PAD)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=SparkFun-IC-Amplifiers+:+QFN-8_PAD)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=SparkFun-IC-Amplifiers+:+QFN-8_PAD)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=SparkFun-IC-Amplifiers+:+QFN-8_PAD)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=SparkFun-IC-Amplifiers+:+QFN-8_PAD)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 NO IMAGES  
 ## Tags

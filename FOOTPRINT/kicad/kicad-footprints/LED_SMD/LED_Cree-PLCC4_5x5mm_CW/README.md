@@ -6,8 +6,6 @@ Contents
 ========
 
 * [FZKLSMLCREEPLCC45X5CW > LED_SMD : LED_Cree-PLCC4_5x5mm_CW](#fzklsmlcreeplcc45x5cw--led_smd--led_cree-plcc4_5x5mm_cw)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -19,18 +17,6 @@ Contents
 - Description: LED_SMD : LED_Cree-PLCC4_5x5mm_CW
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_Cree-PLCC4_5x5mm_CW](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_Cree-PLCC4_5x5mm_CW)
 - Short Link: [http://oom.lt/FZKLSMLCREEPLCC45X5CW](http://oom.lt/FZKLSMLCREEPLCC45X5CW)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117LED_SMD+:+LED_Cree-PLCC4_5x5mm_CW)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/LED_SMD+:+LED_Cree-PLCC4_5x5mm_CW)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=LED_SMD+:+LED_Cree-PLCC4_5x5mm_CW)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=LED_SMD+:+LED_Cree-PLCC4_5x5mm_CW)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=LED_SMD+:+LED_Cree-PLCC4_5x5mm_CW)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=LED_SMD+:+LED_Cree-PLCC4_5x5mm_CW)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_Cree-PLCC4_5x5mm_CW/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_Cree-PLCC4_5x5mm_CW/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_Cree-PLCC4_5x5mm_CW/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_Cree-PLCC4_5x5mm_CW/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_Cree-PLCC4_5x5mm_CW/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_Cree-PLCC4_5x5mm_CW/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_Cree-PLCC4_5x5mm_CW/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_Cree-PLCC4_5x5mm_CW/kicadPcb3dBack.png)|

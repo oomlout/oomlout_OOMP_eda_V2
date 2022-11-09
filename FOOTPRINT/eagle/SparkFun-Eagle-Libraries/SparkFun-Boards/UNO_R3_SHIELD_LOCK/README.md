@@ -6,8 +6,6 @@ Contents
 ========
 
 * [FZSBOUNOR3SHL > SparkFun-Boards : UNO_R3_SHIELD_LOCK](#fzsbounor3shl--sparkfun-boards--uno_r3_shield_lock)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -19,18 +17,6 @@ NO IMAGE
 - Description: SparkFun-Boards : UNO_R3_SHIELD_LOCK
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Boards-UNO_R3_SHIELD_LOCK](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Boards-UNO_R3_SHIELD_LOCK)
 - Short Link: [http://oom.lt/FZSBOUNOR3SHL](http://oom.lt/FZSBOUNOR3SHL)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117SparkFun-Boards+:+UNO_R3_SHIELD_LOCK)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/SparkFun-Boards+:+UNO_R3_SHIELD_LOCK)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=SparkFun-Boards+:+UNO_R3_SHIELD_LOCK)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=SparkFun-Boards+:+UNO_R3_SHIELD_LOCK)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=SparkFun-Boards+:+UNO_R3_SHIELD_LOCK)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=SparkFun-Boards+:+UNO_R3_SHIELD_LOCK)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 NO IMAGES  
 ## Tags

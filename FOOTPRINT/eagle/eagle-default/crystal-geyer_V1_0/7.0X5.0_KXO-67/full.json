@@ -30,6 +30,9 @@
         "jsonFull": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/crystal-geyer_V1_0/7.0X5.0_KXO-67/full.json"
         ],
+        "mpnList": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/crystal-geyer_V1_0/7.0X5.0_KXO-67/MPNLIST.md"
+        ],
         "readme": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/crystal-geyer_V1_0/7.0X5.0_KXO-67/README.md"
         ]

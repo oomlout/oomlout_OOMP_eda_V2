@@ -6,8 +6,6 @@ Contents
 ========
 
 * [FZEREFPACKAGESTO92D > ref-packages : TO92D](#fzerefpackagesto92d--ref-packages--to92d)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -19,18 +17,6 @@ NO IMAGE
 - Description: ref-packages : TO92D
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-TO92D](http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-TO92D)
 - Short Link: [http://oom.lt/FZEREFPACKAGESTO92D](http://oom.lt/FZEREFPACKAGESTO92D)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117ref-packages+:+TO92D)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/ref-packages+:+TO92D)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=ref-packages+:+TO92D)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=ref-packages+:+TO92D)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=ref-packages+:+TO92D)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=ref-packages+:+TO92D)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 NO IMAGES  
 ## Tags

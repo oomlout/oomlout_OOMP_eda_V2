@@ -6,8 +6,6 @@ Contents
 ========
 
 * [FZKBSWITCHSMNIDECCOPALSH74B > Button_Switch_SMD : Nidec_Copal_SH-7040B](#fzkbswitchsmnideccopalsh74b--button_switch_smd--nidec_copal_sh-7040b)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -19,18 +17,6 @@ Contents
 - Description: Button_Switch_SMD : Nidec_Copal_SH-7040B
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-Nidec_Copal_SH-7040B](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-Nidec_Copal_SH-7040B)
 - Short Link: [http://oom.lt/FZKBSWITCHSMNIDECCOPALSH74B](http://oom.lt/FZKBSWITCHSMNIDECCOPALSH74B)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Button_Switch_SMD+:+Nidec_Copal_SH-7040B)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Button_Switch_SMD+:+Nidec_Copal_SH-7040B)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Button_Switch_SMD+:+Nidec_Copal_SH-7040B)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Button_Switch_SMD+:+Nidec_Copal_SH-7040B)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Button_Switch_SMD+:+Nidec_Copal_SH-7040B)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Button_Switch_SMD+:+Nidec_Copal_SH-7040B)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_SMD/Nidec_Copal_SH-7040B/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_SMD/Nidec_Copal_SH-7040B/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_SMD/Nidec_Copal_SH-7040B/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_SMD/Nidec_Copal_SH-7040B/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_SMD/Nidec_Copal_SH-7040B/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_SMD/Nidec_Copal_SH-7040B/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_SMD/Nidec_Copal_SH-7040B/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_SMD/Nidec_Copal_SH-7040B/kicadPcb3dBack.png)|

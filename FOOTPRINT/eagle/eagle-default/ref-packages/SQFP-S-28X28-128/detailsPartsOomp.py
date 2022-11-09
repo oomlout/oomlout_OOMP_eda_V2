@@ -1,2 +1,0 @@
-def load(newPart,it):
-    it['FOOTPRINT-eagle-eagle-default-ref-packages-SQFP-S-28X28-128']['oompParts'] = [{}]

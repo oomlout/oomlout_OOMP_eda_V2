@@ -1,0 +1,43 @@
+{
+    "hexID": [
+        "FZSSPARKFUNCNS1X4SMVERTICALCOMBOCENTERED"
+    ],
+    "name": [
+        "SparkFun-Connectors : 1X04_SMD_VERTICAL_COMBO_CENTERED"
+    ],
+    "oompColor": [
+        "SparkFun-Eagle-Libraries"
+    ],
+    "oompDesc": [
+        "SparkFun-Connectors"
+    ],
+    "oompFiles": {
+        "": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Connectors/1X04_SMD_VERTICAL_COMBO_CENTERED/"
+        ],
+        "details": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Connectors/1X04_SMD_VERTICAL_COMBO_CENTERED/details.py"
+        ],
+        "jsonBasic": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Connectors/1X04_SMD_VERTICAL_COMBO_CENTERED/basic.json"
+        ],
+        "jsonFull": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Connectors/1X04_SMD_VERTICAL_COMBO_CENTERED/full.json"
+        ],
+        "readme": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Connectors/1X04_SMD_VERTICAL_COMBO_CENTERED/README.md"
+        ]
+    },
+    "oompID": [
+        "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-1X04_SMD_VERTICAL_COMBO_CENTERED"
+    ],
+    "oompIndex": [
+        "1X04_SMD_VERTICAL_COMBO_CENTERED"
+    ],
+    "oompSize": [
+        "eagle"
+    ],
+    "oompType": [
+        "FOOTPRINT"
+    ]
+}

@@ -55,6 +55,9 @@
         "kicadPcb3dFront": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Audio/Jack_3.5mm_CUI_SJ2-3593D-SMT_Horizontal/kicadPcb3dFront.png"
         ],
+        "mpnList": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Audio/Jack_3.5mm_CUI_SJ2-3593D-SMT_Horizontal/MPNLIST.md"
+        ],
         "readme": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Audio/Jack_3.5mm_CUI_SJ2-3593D-SMT_Horizontal/README.md"
         ]

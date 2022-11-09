@@ -6,8 +6,6 @@ Contents
 ========
 
 * [FZEINDUCTORSED16 > inductors : ED16](#fzeinductorsed16--inductors--ed16)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -19,18 +17,6 @@ NO IMAGE
 - Description: inductors : ED16
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-inductors-ED16](http://oom.lt/FOOTPRINT-eagle-eagle-default-inductors-ED16)
 - Short Link: [http://oom.lt/FZEINDUCTORSED16](http://oom.lt/FZEINDUCTORSED16)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117inductors+:+ED16)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/inductors+:+ED16)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=inductors+:+ED16)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=inductors+:+ED16)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=inductors+:+ED16)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=inductors+:+ED16)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 NO IMAGES  
 ## Tags

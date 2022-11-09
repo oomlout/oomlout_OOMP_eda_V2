@@ -6,8 +6,6 @@ Contents
 ========
 
 * [FZKXXSMMXMS3VT1R > Crystal : Crystal_SMD_MicroCrystal_MS3V-T1R](#fzkxxsmmxms3vt1r--crystal--crystal_smd_microcrystal_ms3v-t1r)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -19,18 +17,6 @@ Contents
 - Description: Crystal : Crystal_SMD_MicroCrystal_MS3V-T1R
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_SMD_MicroCrystal_MS3V-T1R](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_SMD_MicroCrystal_MS3V-T1R)
 - Short Link: [http://oom.lt/FZKXXSMMXMS3VT1R](http://oom.lt/FZKXXSMMXMS3VT1R)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Crystal+:+Crystal_SMD_MicroCrystal_MS3V-T1R)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Crystal+:+Crystal_SMD_MicroCrystal_MS3V-T1R)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Crystal+:+Crystal_SMD_MicroCrystal_MS3V-T1R)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Crystal+:+Crystal_SMD_MicroCrystal_MS3V-T1R)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Crystal+:+Crystal_SMD_MicroCrystal_MS3V-T1R)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Crystal+:+Crystal_SMD_MicroCrystal_MS3V-T1R)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_SMD_MicroCrystal_MS3V-T1R/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_SMD_MicroCrystal_MS3V-T1R/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_SMD_MicroCrystal_MS3V-T1R/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_SMD_MicroCrystal_MS3V-T1R/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_SMD_MicroCrystal_MS3V-T1R/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_SMD_MicroCrystal_MS3V-T1R/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_SMD_MicroCrystal_MS3V-T1R/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_SMD_MicroCrystal_MS3V-T1R/kicadPcb3dBack.png)|

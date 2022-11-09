@@ -6,8 +6,6 @@ Contents
 ========
 
 * [FZSISWQFN24 > SparkFun-IC-Special-Function : WQFN-24](#fzsiswqfn24--sparkfun-ic-special-function--wqfn-24)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -19,18 +17,6 @@ NO IMAGE
 - Description: SparkFun-IC-Special-Function : WQFN-24
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Special-Function-WQFN-24](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Special-Function-WQFN-24)
 - Short Link: [http://oom.lt/FZSISWQFN24](http://oom.lt/FZSISWQFN24)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117SparkFun-IC-Special-Function+:+WQFN-24)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/SparkFun-IC-Special-Function+:+WQFN-24)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=SparkFun-IC-Special-Function+:+WQFN-24)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=SparkFun-IC-Special-Function+:+WQFN-24)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=SparkFun-IC-Special-Function+:+WQFN-24)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=SparkFun-IC-Special-Function+:+WQFN-24)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 NO IMAGES  
 ## Tags

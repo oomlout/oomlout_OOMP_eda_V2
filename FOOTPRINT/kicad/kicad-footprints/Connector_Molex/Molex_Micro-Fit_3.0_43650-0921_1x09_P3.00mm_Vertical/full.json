@@ -61,6 +61,9 @@
         "kicadPcb3dFront": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_Micro-Fit_3.0_43650-0921_1x09_P3.00mm_Vertical/kicadPcb3dFront.png"
         ],
+        "mpnList": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_Micro-Fit_3.0_43650-0921_1x09_P3.00mm_Vertical/MPNLIST.md"
+        ],
         "readme": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_Micro-Fit_3.0_43650-0921_1x09_P3.00mm_Vertical/README.md"
         ]

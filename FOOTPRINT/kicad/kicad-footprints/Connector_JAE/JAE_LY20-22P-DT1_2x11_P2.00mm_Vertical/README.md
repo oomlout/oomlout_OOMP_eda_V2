@@ -6,8 +6,6 @@ Contents
 ========
 
 * [FZKCNJAEJAELY222PDT12X11P2VERTICAL > Connector_JAE : JAE_LY20-22P-DT1_2x11_P2.00mm_Vertical](#fzkcnjaejaely222pdt12x11p2vertical--connector_jae--jae_ly20-22p-dt1_2x11_p200mm_vertical)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -19,18 +17,6 @@ Contents
 - Description: Connector_JAE : JAE_LY20-22P-DT1_2x11_P2.00mm_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_JAE-JAE_LY20-22P-DT1_2x11_P2.00mm_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_JAE-JAE_LY20-22P-DT1_2x11_P2.00mm_Vertical)
 - Short Link: [http://oom.lt/FZKCNJAEJAELY222PDT12X11P2VERTICAL](http://oom.lt/FZKCNJAEJAELY222PDT12X11P2VERTICAL)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Connector_JAE+:+JAE_LY20-22P-DT1_2x11_P2.00mm_Vertical)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Connector_JAE+:+JAE_LY20-22P-DT1_2x11_P2.00mm_Vertical)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Connector_JAE+:+JAE_LY20-22P-DT1_2x11_P2.00mm_Vertical)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Connector_JAE+:+JAE_LY20-22P-DT1_2x11_P2.00mm_Vertical)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Connector_JAE+:+JAE_LY20-22P-DT1_2x11_P2.00mm_Vertical)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Connector_JAE+:+JAE_LY20-22P-DT1_2x11_P2.00mm_Vertical)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_JAE/JAE_LY20-22P-DT1_2x11_P2.00mm_Vertical/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_JAE/JAE_LY20-22P-DT1_2x11_P2.00mm_Vertical/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_JAE/JAE_LY20-22P-DT1_2x11_P2.00mm_Vertical/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_JAE/JAE_LY20-22P-DT1_2x11_P2.00mm_Vertical/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_JAE/JAE_LY20-22P-DT1_2x11_P2.00mm_Vertical/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_JAE/JAE_LY20-22P-DT1_2x11_P2.00mm_Vertical/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_JAE/JAE_LY20-22P-DT1_2x11_P2.00mm_Vertical/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_JAE/JAE_LY20-22P-DT1_2x11_P2.00mm_Vertical/kicadPcb3dBack.png)|

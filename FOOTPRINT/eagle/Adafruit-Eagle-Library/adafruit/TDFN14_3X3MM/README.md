@@ -6,8 +6,6 @@ Contents
 ========
 
 * [FZATDFN143X3 > adafruit : TDFN14_3X3MM](#fzatdfn143x3--adafruit--tdfn14_3x3mm)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -19,18 +17,6 @@ NO IMAGE
 - Description: adafruit : TDFN14_3X3MM
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-TDFN14_3X3MM](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-TDFN14_3X3MM)
 - Short Link: [http://oom.lt/FZATDFN143X3](http://oom.lt/FZATDFN143X3)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117adafruit+:+TDFN14_3X3MM)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/adafruit+:+TDFN14_3X3MM)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=adafruit+:+TDFN14_3X3MM)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=adafruit+:+TDFN14_3X3MM)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=adafruit+:+TDFN14_3X3MM)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=adafruit+:+TDFN14_3X3MM)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 NO IMAGES  
 ## Tags

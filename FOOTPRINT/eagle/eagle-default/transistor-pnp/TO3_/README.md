@@ -6,8 +6,6 @@ Contents
 ========
 
 * [FZETRANSISTORPNPTO3 > transistor-pnp : TO3_](#fzetransistorpnpto3--transistor-pnp--to3_)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -19,18 +17,6 @@ NO IMAGE
 - Description: transistor-pnp : TO3_
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-pnp-TO3_](http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-pnp-TO3_)
 - Short Link: [http://oom.lt/FZETRANSISTORPNPTO3](http://oom.lt/FZETRANSISTORPNPTO3)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117transistor-pnp+:+TO3_)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/transistor-pnp+:+TO3_)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=transistor-pnp+:+TO3_)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=transistor-pnp+:+TO3_)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=transistor-pnp+:+TO3_)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=transistor-pnp+:+TO3_)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 NO IMAGES  
 ## Tags

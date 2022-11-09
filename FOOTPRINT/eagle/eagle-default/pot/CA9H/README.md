@@ -6,8 +6,6 @@ Contents
 ========
 
 * [FZEPOTCA9H > pot : CA9H](#fzepotca9h--pot--ca9h)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -19,18 +17,6 @@ NO IMAGE
 - Description: pot : CA9H
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-pot-CA9H](http://oom.lt/FOOTPRINT-eagle-eagle-default-pot-CA9H)
 - Short Link: [http://oom.lt/FZEPOTCA9H](http://oom.lt/FZEPOTCA9H)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117pot+:+CA9H)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/pot+:+CA9H)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=pot+:+CA9H)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=pot+:+CA9H)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=pot+:+CA9H)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=pot+:+CA9H)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 NO IMAGES  
 ## Tags

@@ -6,8 +6,6 @@ Contents
 ========
 
 * [FZKCNPHOENIXMCPHOENIXCONTACTMCV1515GF3811X15P381VERTICALTHREADEDFLANGE > Connector_Phoenix_MC : PhoenixContact_MCV_1,5_15-GF-3.81_1x15_P3.81mm_Vertical_ThreadedFlange](#fzkcnphoenixmcphoenixcontactmcv1515gf3811x15p381verticalthreadedflange--connector_phoenix_mc--phoenixcontact_mcv_15_15-gf-381_1x15_p381mm_vertical_threadedflange)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -19,18 +17,6 @@ Contents
 - Description: Connector_Phoenix_MC : PhoenixContact_MCV_1,5_15-GF-3.81_1x15_P3.81mm_Vertical_ThreadedFlange
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Phoenix_MC-PhoenixContact_MCV_1,5_15-GF-3.81_1x15_P3.81mm_Vertical_ThreadedFlange](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Phoenix_MC-PhoenixContact_MCV_1,5_15-GF-3.81_1x15_P3.81mm_Vertical_ThreadedFlange)
 - Short Link: [http://oom.lt/FZKCNPHOENIXMCPHOENIXCONTACTMCV1515GF3811X15P381VERTICALTHREADEDFLANGE](http://oom.lt/FZKCNPHOENIXMCPHOENIXCONTACTMCV1515GF3811X15P381VERTICALTHREADEDFLANGE)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Connector_Phoenix_MC+:+PhoenixContact_MCV_1,5_15-GF-3.81_1x15_P3.81mm_Vertical_ThreadedFlange)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Connector_Phoenix_MC+:+PhoenixContact_MCV_1,5_15-GF-3.81_1x15_P3.81mm_Vertical_ThreadedFlange)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Connector_Phoenix_MC+:+PhoenixContact_MCV_1,5_15-GF-3.81_1x15_P3.81mm_Vertical_ThreadedFlange)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Connector_Phoenix_MC+:+PhoenixContact_MCV_1,5_15-GF-3.81_1x15_P3.81mm_Vertical_ThreadedFlange)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Connector_Phoenix_MC+:+PhoenixContact_MCV_1,5_15-GF-3.81_1x15_P3.81mm_Vertical_ThreadedFlange)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Connector_Phoenix_MC+:+PhoenixContact_MCV_1,5_15-GF-3.81_1x15_P3.81mm_Vertical_ThreadedFlange)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Phoenix_MC/PhoenixContact_MCV_1,5_15-GF-3.81_1x15_P3.81mm_Vertical_ThreadedFlange/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Phoenix_MC/PhoenixContact_MCV_1,5_15-GF-3.81_1x15_P3.81mm_Vertical_ThreadedFlange/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Phoenix_MC/PhoenixContact_MCV_1,5_15-GF-3.81_1x15_P3.81mm_Vertical_ThreadedFlange/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Phoenix_MC/PhoenixContact_MCV_1,5_15-GF-3.81_1x15_P3.81mm_Vertical_ThreadedFlange/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Phoenix_MC/PhoenixContact_MCV_1,5_15-GF-3.81_1x15_P3.81mm_Vertical_ThreadedFlange/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Phoenix_MC/PhoenixContact_MCV_1,5_15-GF-3.81_1x15_P3.81mm_Vertical_ThreadedFlange/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Phoenix_MC/PhoenixContact_MCV_1,5_15-GF-3.81_1x15_P3.81mm_Vertical_ThreadedFlange/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Phoenix_MC/PhoenixContact_MCV_1,5_15-GF-3.81_1x15_P3.81mm_Vertical_ThreadedFlange/kicadPcb3dBack.png)|

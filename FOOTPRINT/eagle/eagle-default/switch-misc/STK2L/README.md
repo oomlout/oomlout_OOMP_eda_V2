@@ -6,8 +6,6 @@ Contents
 ========
 
 * [FZESWITCHMISCSTK2L > switch-misc : STK2L](#fzeswitchmiscstk2l--switch-misc--stk2l)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -19,18 +17,6 @@ NO IMAGE
 - Description: switch-misc : STK2L
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-misc-STK2L](http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-misc-STK2L)
 - Short Link: [http://oom.lt/FZESWITCHMISCSTK2L](http://oom.lt/FZESWITCHMISCSTK2L)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117switch-misc+:+STK2L)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/switch-misc+:+STK2L)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=switch-misc+:+STK2L)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=switch-misc+:+STK2L)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=switch-misc+:+STK2L)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=switch-misc+:+STK2L)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 NO IMAGES  
 ## Tags

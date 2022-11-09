@@ -30,6 +30,9 @@
         "jsonFull": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/LilyPad-Wearables/PETAL-MEDIUM-NOHOLE/full.json"
         ],
+        "mpnList": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/LilyPad-Wearables/PETAL-MEDIUM-NOHOLE/MPNLIST.md"
+        ],
         "readme": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/LilyPad-Wearables/PETAL-MEDIUM-NOHOLE/README.md"
         ]

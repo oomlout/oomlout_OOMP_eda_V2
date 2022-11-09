@@ -6,8 +6,6 @@ Contents
 ========
 
 * [FZERECTIFIERFB15A > rectifier : FB15A](#fzerectifierfb15a--rectifier--fb15a)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -19,18 +17,6 @@ NO IMAGE
 - Description: rectifier : FB15A
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-rectifier-FB15A](http://oom.lt/FOOTPRINT-eagle-eagle-default-rectifier-FB15A)
 - Short Link: [http://oom.lt/FZERECTIFIERFB15A](http://oom.lt/FZERECTIFIERFB15A)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117rectifier+:+FB15A)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/rectifier+:+FB15A)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=rectifier+:+FB15A)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=rectifier+:+FB15A)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=rectifier+:+FB15A)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=rectifier+:+FB15A)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 NO IMAGES  
 ## Tags

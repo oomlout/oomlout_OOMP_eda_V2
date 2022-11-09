@@ -6,8 +6,6 @@ Contents
 ========
 
 * [FZERELAYTK > relay : TK](#fzerelaytk--relay--tk)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -19,18 +17,6 @@ NO IMAGE
 - Description: relay : TK
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-TK](http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-TK)
 - Short Link: [http://oom.lt/FZERELAYTK](http://oom.lt/FZERELAYTK)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117relay+:+TK)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/relay+:+TK)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=relay+:+TK)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=relay+:+TK)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=relay+:+TK)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=relay+:+TK)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 NO IMAGES  
 ## Tags

@@ -6,8 +6,6 @@ Contents
 ========
 
 * [FZKCNSAMTECSAMTECLSHM15XXXXDVS2X51SHP5VERTICAL > Connector_Samtec : Samtec_LSHM-105-xx.x-x-DV-S_2x05-1SH_P0.50mm_Vertical](#fzkcnsamtecsamteclshm15xxxxdvs2x51shp5vertical--connector_samtec--samtec_lshm-105-xxx-x-dv-s_2x05-1sh_p050mm_vertical)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -19,18 +17,6 @@ Contents
 - Description: Connector_Samtec : Samtec_LSHM-105-xx.x-x-DV-S_2x05-1SH_P0.50mm_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Samtec-Samtec_LSHM-105-xx.x-x-DV-S_2x05-1SH_P0.50mm_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Samtec-Samtec_LSHM-105-xx.x-x-DV-S_2x05-1SH_P0.50mm_Vertical)
 - Short Link: [http://oom.lt/FZKCNSAMTECSAMTECLSHM15XXXXDVS2X51SHP5VERTICAL](http://oom.lt/FZKCNSAMTECSAMTECLSHM15XXXXDVS2X51SHP5VERTICAL)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Connector_Samtec+:+Samtec_LSHM-105-xx.x-x-DV-S_2x05-1SH_P0.50mm_Vertical)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Connector_Samtec+:+Samtec_LSHM-105-xx.x-x-DV-S_2x05-1SH_P0.50mm_Vertical)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Connector_Samtec+:+Samtec_LSHM-105-xx.x-x-DV-S_2x05-1SH_P0.50mm_Vertical)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Connector_Samtec+:+Samtec_LSHM-105-xx.x-x-DV-S_2x05-1SH_P0.50mm_Vertical)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Connector_Samtec+:+Samtec_LSHM-105-xx.x-x-DV-S_2x05-1SH_P0.50mm_Vertical)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Connector_Samtec+:+Samtec_LSHM-105-xx.x-x-DV-S_2x05-1SH_P0.50mm_Vertical)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Samtec/Samtec_LSHM-105-xx.x-x-DV-S_2x05-1SH_P0.50mm_Vertical/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Samtec/Samtec_LSHM-105-xx.x-x-DV-S_2x05-1SH_P0.50mm_Vertical/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Samtec/Samtec_LSHM-105-xx.x-x-DV-S_2x05-1SH_P0.50mm_Vertical/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Samtec/Samtec_LSHM-105-xx.x-x-DV-S_2x05-1SH_P0.50mm_Vertical/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Samtec/Samtec_LSHM-105-xx.x-x-DV-S_2x05-1SH_P0.50mm_Vertical/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Samtec/Samtec_LSHM-105-xx.x-x-DV-S_2x05-1SH_P0.50mm_Vertical/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Samtec/Samtec_LSHM-105-xx.x-x-DV-S_2x05-1SH_P0.50mm_Vertical/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Samtec/Samtec_LSHM-105-xx.x-x-DV-S_2x05-1SH_P0.50mm_Vertical/kicadPcb3dBack.png)|

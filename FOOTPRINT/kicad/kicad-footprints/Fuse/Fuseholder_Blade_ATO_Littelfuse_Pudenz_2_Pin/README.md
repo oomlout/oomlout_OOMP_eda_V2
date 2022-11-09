@@ -6,8 +6,6 @@ Contents
 ========
 
 * [FZKFUFUHOLDERBLADEATOLITTELFUPUDENZ2PIN > Fuse : Fuseholder_Blade_ATO_Littelfuse_Pudenz_2_Pin](#fzkfufuholderbladeatolittelfupudenz2pin--fuse--fuseholder_blade_ato_littelfuse_pudenz_2_pin)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -19,18 +17,6 @@ Contents
 - Description: Fuse : Fuseholder_Blade_ATO_Littelfuse_Pudenz_2_Pin
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Fuse-Fuseholder_Blade_ATO_Littelfuse_Pudenz_2_Pin](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Fuse-Fuseholder_Blade_ATO_Littelfuse_Pudenz_2_Pin)
 - Short Link: [http://oom.lt/FZKFUFUHOLDERBLADEATOLITTELFUPUDENZ2PIN](http://oom.lt/FZKFUFUHOLDERBLADEATOLITTELFUPUDENZ2PIN)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Fuse+:+Fuseholder_Blade_ATO_Littelfuse_Pudenz_2_Pin)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Fuse+:+Fuseholder_Blade_ATO_Littelfuse_Pudenz_2_Pin)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Fuse+:+Fuseholder_Blade_ATO_Littelfuse_Pudenz_2_Pin)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Fuse+:+Fuseholder_Blade_ATO_Littelfuse_Pudenz_2_Pin)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Fuse+:+Fuseholder_Blade_ATO_Littelfuse_Pudenz_2_Pin)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Fuse+:+Fuseholder_Blade_ATO_Littelfuse_Pudenz_2_Pin)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Fuse/Fuseholder_Blade_ATO_Littelfuse_Pudenz_2_Pin/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Fuse/Fuseholder_Blade_ATO_Littelfuse_Pudenz_2_Pin/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Fuse/Fuseholder_Blade_ATO_Littelfuse_Pudenz_2_Pin/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Fuse/Fuseholder_Blade_ATO_Littelfuse_Pudenz_2_Pin/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Fuse/Fuseholder_Blade_ATO_Littelfuse_Pudenz_2_Pin/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Fuse/Fuseholder_Blade_ATO_Littelfuse_Pudenz_2_Pin/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Fuse/Fuseholder_Blade_ATO_Littelfuse_Pudenz_2_Pin/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Fuse/Fuseholder_Blade_ATO_Littelfuse_Pudenz_2_Pin/kicadPcb3dBack.png)|

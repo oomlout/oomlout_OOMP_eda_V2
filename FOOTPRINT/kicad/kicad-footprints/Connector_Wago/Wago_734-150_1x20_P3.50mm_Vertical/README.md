@@ -6,8 +6,6 @@ Contents
 ========
 
 * [FZKCNWAGOWAGO734151X2P35VERTICAL > Connector_Wago : Wago_734-150_1x20_P3.50mm_Vertical](#fzkcnwagowago734151x2p35vertical--connector_wago--wago_734-150_1x20_p350mm_vertical)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -19,18 +17,6 @@ Contents
 - Description: Connector_Wago : Wago_734-150_1x20_P3.50mm_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Wago-Wago_734-150_1x20_P3.50mm_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Wago-Wago_734-150_1x20_P3.50mm_Vertical)
 - Short Link: [http://oom.lt/FZKCNWAGOWAGO734151X2P35VERTICAL](http://oom.lt/FZKCNWAGOWAGO734151X2P35VERTICAL)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Connector_Wago+:+Wago_734-150_1x20_P3.50mm_Vertical)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Connector_Wago+:+Wago_734-150_1x20_P3.50mm_Vertical)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Connector_Wago+:+Wago_734-150_1x20_P3.50mm_Vertical)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Connector_Wago+:+Wago_734-150_1x20_P3.50mm_Vertical)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Connector_Wago+:+Wago_734-150_1x20_P3.50mm_Vertical)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Connector_Wago+:+Wago_734-150_1x20_P3.50mm_Vertical)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Wago/Wago_734-150_1x20_P3.50mm_Vertical/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Wago/Wago_734-150_1x20_P3.50mm_Vertical/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Wago/Wago_734-150_1x20_P3.50mm_Vertical/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Wago/Wago_734-150_1x20_P3.50mm_Vertical/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Wago/Wago_734-150_1x20_P3.50mm_Vertical/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Wago/Wago_734-150_1x20_P3.50mm_Vertical/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Wago/Wago_734-150_1x20_P3.50mm_Vertical/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Wago/Wago_734-150_1x20_P3.50mm_Vertical/kicadPcb3dBack.png)|

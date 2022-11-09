@@ -6,8 +6,6 @@ Contents
 ========
 
 * [FZEDIODESOD64Z1 > diode : SOD64Z10](#fzediodesod64z1--diode--sod64z10)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -19,18 +17,6 @@ NO IMAGE
 - Description: diode : SOD64Z10
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-diode-SOD64Z10](http://oom.lt/FOOTPRINT-eagle-eagle-default-diode-SOD64Z10)
 - Short Link: [http://oom.lt/FZEDIODESOD64Z1](http://oom.lt/FZEDIODESOD64Z1)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117diode+:+SOD64Z10)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/diode+:+SOD64Z10)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=diode+:+SOD64Z10)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=diode+:+SOD64Z10)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=diode+:+SOD64Z10)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=diode+:+SOD64Z10)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 NO IMAGES  
 ## Tags

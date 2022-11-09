@@ -6,8 +6,6 @@ Contents
 ========
 
 * [FZEMPHILIPSHVQFN164X4 > micro-philips : HVQFN16_4X4](#fzemphilipshvqfn164x4--micro-philips--hvqfn16_4x4)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -19,18 +17,6 @@ NO IMAGE
 - Description: micro-philips : HVQFN16_4X4
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-philips-HVQFN16_4X4](http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-philips-HVQFN16_4X4)
 - Short Link: [http://oom.lt/FZEMPHILIPSHVQFN164X4](http://oom.lt/FZEMPHILIPSHVQFN164X4)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117micro-philips+:+HVQFN16_4X4)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/micro-philips+:+HVQFN16_4X4)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=micro-philips+:+HVQFN16_4X4)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=micro-philips+:+HVQFN16_4X4)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=micro-philips+:+HVQFN16_4X4)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=micro-philips+:+HVQFN16_4X4)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 NO IMAGES  
 ## Tags

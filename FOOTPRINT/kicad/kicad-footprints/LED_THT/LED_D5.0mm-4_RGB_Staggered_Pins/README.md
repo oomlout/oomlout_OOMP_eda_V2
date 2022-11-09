@@ -6,8 +6,6 @@ Contents
 ========
 
 * [FZKLLD54RGBSTAGGEREDPINS > LED_THT : LED_D5.0mm-4_RGB_Staggered_Pins](#fzklld54rgbstaggeredpins--led_tht--led_d50mm-4_rgb_staggered_pins)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -19,18 +17,6 @@ Contents
 - Description: LED_THT : LED_D5.0mm-4_RGB_Staggered_Pins
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-LED_THT-LED_D5.0mm-4_RGB_Staggered_Pins](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-LED_THT-LED_D5.0mm-4_RGB_Staggered_Pins)
 - Short Link: [http://oom.lt/FZKLLD54RGBSTAGGEREDPINS](http://oom.lt/FZKLLD54RGBSTAGGEREDPINS)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117LED_THT+:+LED_D5.0mm-4_RGB_Staggered_Pins)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/LED_THT+:+LED_D5.0mm-4_RGB_Staggered_Pins)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=LED_THT+:+LED_D5.0mm-4_RGB_Staggered_Pins)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=LED_THT+:+LED_D5.0mm-4_RGB_Staggered_Pins)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=LED_THT+:+LED_D5.0mm-4_RGB_Staggered_Pins)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=LED_THT+:+LED_D5.0mm-4_RGB_Staggered_Pins)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/LED_THT/LED_D5.0mm-4_RGB_Staggered_Pins/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/LED_THT/LED_D5.0mm-4_RGB_Staggered_Pins/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/LED_THT/LED_D5.0mm-4_RGB_Staggered_Pins/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/LED_THT/LED_D5.0mm-4_RGB_Staggered_Pins/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/LED_THT/LED_D5.0mm-4_RGB_Staggered_Pins/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/LED_THT/LED_D5.0mm-4_RGB_Staggered_Pins/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/LED_THT/LED_D5.0mm-4_RGB_Staggered_Pins/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/LED_THT/LED_D5.0mm-4_RGB_Staggered_Pins/kicadPcb3dBack.png)|

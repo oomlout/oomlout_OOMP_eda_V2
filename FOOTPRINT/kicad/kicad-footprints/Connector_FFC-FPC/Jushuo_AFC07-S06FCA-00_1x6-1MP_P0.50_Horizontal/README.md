@@ -6,8 +6,6 @@ Contents
 ========
 
 * [FZKCNFFCFPCJUSHUOAFC7S6FCA1X61MPP5HORIZONTAL > Connector_FFC-FPC : Jushuo_AFC07-S06FCA-00_1x6-1MP_P0.50_Horizontal](#fzkcnffcfpcjushuoafc7s6fca1x61mpp5horizontal--connector_ffc-fpc--jushuo_afc07-s06fca-00_1x6-1mp_p050_horizontal)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -19,18 +17,6 @@ NO IMAGE
 - Description: Connector_FFC-FPC : Jushuo_AFC07-S06FCA-00_1x6-1MP_P0.50_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_FFC-FPC-Jushuo_AFC07-S06FCA-00_1x6-1MP_P0.50_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_FFC-FPC-Jushuo_AFC07-S06FCA-00_1x6-1MP_P0.50_Horizontal)
 - Short Link: [http://oom.lt/FZKCNFFCFPCJUSHUOAFC7S6FCA1X61MPP5HORIZONTAL](http://oom.lt/FZKCNFFCFPCJUSHUOAFC7S6FCA1X61MPP5HORIZONTAL)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Connector_FFC-FPC+:+Jushuo_AFC07-S06FCA-00_1x6-1MP_P0.50_Horizontal)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Connector_FFC-FPC+:+Jushuo_AFC07-S06FCA-00_1x6-1MP_P0.50_Horizontal)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Connector_FFC-FPC+:+Jushuo_AFC07-S06FCA-00_1x6-1MP_P0.50_Horizontal)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Connector_FFC-FPC+:+Jushuo_AFC07-S06FCA-00_1x6-1MP_P0.50_Horizontal)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Connector_FFC-FPC+:+Jushuo_AFC07-S06FCA-00_1x6-1MP_P0.50_Horizontal)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Connector_FFC-FPC+:+Jushuo_AFC07-S06FCA-00_1x6-1MP_P0.50_Horizontal)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 NO IMAGES  
 ## Tags

@@ -6,8 +6,6 @@ Contents
 ========
 
 * [FZKCONCONMEANWELLIRM2XXSM > Converter_ACDC : Converter_ACDC_MeanWell_IRM-02-xx_SMD](#fzkconconmeanwellirm2xxsm--converter_acdc--converter_acdc_meanwell_irm-02-xx_smd)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -19,18 +17,6 @@ Contents
 - Description: Converter_ACDC : Converter_ACDC_MeanWell_IRM-02-xx_SMD
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Converter_ACDC-Converter_ACDC_MeanWell_IRM-02-xx_SMD](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Converter_ACDC-Converter_ACDC_MeanWell_IRM-02-xx_SMD)
 - Short Link: [http://oom.lt/FZKCONCONMEANWELLIRM2XXSM](http://oom.lt/FZKCONCONMEANWELLIRM2XXSM)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Converter_ACDC+:+Converter_ACDC_MeanWell_IRM-02-xx_SMD)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Converter_ACDC+:+Converter_ACDC_MeanWell_IRM-02-xx_SMD)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Converter_ACDC+:+Converter_ACDC_MeanWell_IRM-02-xx_SMD)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Converter_ACDC+:+Converter_ACDC_MeanWell_IRM-02-xx_SMD)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Converter_ACDC+:+Converter_ACDC_MeanWell_IRM-02-xx_SMD)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Converter_ACDC+:+Converter_ACDC_MeanWell_IRM-02-xx_SMD)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Converter_ACDC/Converter_ACDC_MeanWell_IRM-02-xx_SMD/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Converter_ACDC/Converter_ACDC_MeanWell_IRM-02-xx_SMD/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Converter_ACDC/Converter_ACDC_MeanWell_IRM-02-xx_SMD/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Converter_ACDC/Converter_ACDC_MeanWell_IRM-02-xx_SMD/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Converter_ACDC/Converter_ACDC_MeanWell_IRM-02-xx_SMD/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Converter_ACDC/Converter_ACDC_MeanWell_IRM-02-xx_SMD/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Converter_ACDC/Converter_ACDC_MeanWell_IRM-02-xx_SMD/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Converter_ACDC/Converter_ACDC_MeanWell_IRM-02-xx_SMD/kicadPcb3dBack.png)|

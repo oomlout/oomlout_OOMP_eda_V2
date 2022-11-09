@@ -6,8 +6,6 @@ Contents
 ========
 
 * [FZSRT2X22SHTOPM > SparkFun-Retired : 2X20-2MM-SHROUDED-SMT-TOP-M](#fzsrt2x22shtopm--sparkfun-retired--2x20-2mm-shrouded-smt-top-m)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -19,18 +17,6 @@ NO IMAGE
 - Description: SparkFun-Retired : 2X20-2MM-SHROUDED-SMT-TOP-M
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-2X20-2MM-SHROUDED-SMT-TOP-M](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-2X20-2MM-SHROUDED-SMT-TOP-M)
 - Short Link: [http://oom.lt/FZSRT2X22SHTOPM](http://oom.lt/FZSRT2X22SHTOPM)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117SparkFun-Retired+:+2X20-2MM-SHROUDED-SMT-TOP-M)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/SparkFun-Retired+:+2X20-2MM-SHROUDED-SMT-TOP-M)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=SparkFun-Retired+:+2X20-2MM-SHROUDED-SMT-TOP-M)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=SparkFun-Retired+:+2X20-2MM-SHROUDED-SMT-TOP-M)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=SparkFun-Retired+:+2X20-2MM-SHROUDED-SMT-TOP-M)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=SparkFun-Retired+:+2X20-2MM-SHROUDED-SMT-TOP-M)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 NO IMAGES  
 ## Tags

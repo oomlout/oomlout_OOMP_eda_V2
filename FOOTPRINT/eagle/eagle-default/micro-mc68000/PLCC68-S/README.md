@@ -6,8 +6,6 @@ Contents
 ========
 
 * [FZEMMC68PLCC68S > micro-mc68000 : PLCC68-S](#fzemmc68plcc68s--micro-mc68000--plcc68-s)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -19,18 +17,6 @@ NO IMAGE
 - Description: micro-mc68000 : PLCC68-S
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-mc68000-PLCC68-S](http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-mc68000-PLCC68-S)
 - Short Link: [http://oom.lt/FZEMMC68PLCC68S](http://oom.lt/FZEMMC68PLCC68S)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117micro-mc68000+:+PLCC68-S)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/micro-mc68000+:+PLCC68-S)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=micro-mc68000+:+PLCC68-S)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=micro-mc68000+:+PLCC68-S)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=micro-mc68000+:+PLCC68-S)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=micro-mc68000+:+PLCC68-S)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 NO IMAGES  
 ## Tags

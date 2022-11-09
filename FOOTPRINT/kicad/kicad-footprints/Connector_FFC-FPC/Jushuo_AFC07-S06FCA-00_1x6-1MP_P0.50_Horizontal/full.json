@@ -46,6 +46,9 @@
         "kicadFootprint": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_FFC-FPC/Jushuo_AFC07-S06FCA-00_1x6-1MP_P0.50_Horizontal/footprint.kicad_mod"
         ],
+        "mpnList": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_FFC-FPC/Jushuo_AFC07-S06FCA-00_1x6-1MP_P0.50_Horizontal/MPNLIST.md"
+        ],
         "readme": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_FFC-FPC/Jushuo_AFC07-S06FCA-00_1x6-1MP_P0.50_Horizontal/README.md"
         ]
