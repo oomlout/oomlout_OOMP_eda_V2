@@ -36,6 +36,9 @@
         "jsonFull": [
             "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/1N630xCA/full.json"
         ],
+        "mpnList": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/1N630xCA/MPNLIST.md"
+        ],
         "readme": [
             "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/1N630xCA/README.md"
         ]

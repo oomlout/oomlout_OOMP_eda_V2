@@ -36,6 +36,9 @@
         "jsonFull": [
             "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Audio/TAS5825MRHB/full.json"
         ],
+        "mpnList": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Audio/TAS5825MRHB/MPNLIST.md"
+        ],
         "readme": [
             "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Audio/TAS5825MRHB/README.md"
         ]

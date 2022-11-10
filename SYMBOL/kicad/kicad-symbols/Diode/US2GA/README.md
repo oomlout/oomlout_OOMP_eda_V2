@@ -6,8 +6,6 @@ Contents
 ========
 
 * [SZKDIODEUS2GA > Diode : US2GA](#szkdiodeus2ga--diode--us2ga)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -19,18 +17,6 @@ Contents
 - Description: Diode : US2GA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-US2GA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-US2GA)
 - Short Link: [http://oom.lt/SZKDIODEUS2GA](http://oom.lt/SZKDIODEUS2GA)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Diode+:+US2GA)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Diode+:+US2GA)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Diode+:+US2GA)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Diode+:+US2GA)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Diode+:+US2GA)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Diode+:+US2GA)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Diode/US2GA/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Diode/US2GA/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Diode/US2GA/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Diode/US2GA/image.png)|||

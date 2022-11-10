@@ -36,6 +36,9 @@
         "jsonFull": [
             "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/CPU/CDP1802BCE/full.json"
         ],
+        "mpnList": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/CPU/CDP1802BCE/MPNLIST.md"
+        ],
         "readme": [
             "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/CPU/CDP1802BCE/README.md"
         ]

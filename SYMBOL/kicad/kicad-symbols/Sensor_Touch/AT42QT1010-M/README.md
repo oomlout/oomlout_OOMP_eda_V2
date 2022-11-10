@@ -6,8 +6,6 @@ Contents
 ========
 
 * [SZKSENTOUCHAT42QT11M > Sensor_Touch : AT42QT1010-M](#szksentouchat42qt11m--sensor_touch--at42qt1010-m)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -19,18 +17,6 @@ Contents
 - Description: Sensor_Touch : AT42QT1010-M
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Touch-AT42QT1010-M](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Touch-AT42QT1010-M)
 - Short Link: [http://oom.lt/SZKSENTOUCHAT42QT11M](http://oom.lt/SZKSENTOUCHAT42QT11M)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Sensor_Touch+:+AT42QT1010-M)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Sensor_Touch+:+AT42QT1010-M)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Sensor_Touch+:+AT42QT1010-M)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Sensor_Touch+:+AT42QT1010-M)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Sensor_Touch+:+AT42QT1010-M)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Sensor_Touch+:+AT42QT1010-M)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Touch/AT42QT1010-M/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Touch/AT42QT1010-M/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Touch/AT42QT1010-M/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Touch/AT42QT1010-M/image.png)|||

@@ -36,6 +36,9 @@
         "jsonFull": [
             "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/SM2000/full.json"
         ],
+        "mpnList": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/SM2000/MPNLIST.md"
+        ],
         "readme": [
             "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/SM2000/README.md"
         ]

@@ -36,6 +36,9 @@
         "jsonFull": [
             "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_ATtiny/ATtiny841-M/full.json"
         ],
+        "mpnList": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_ATtiny/ATtiny841-M/MPNLIST.md"
+        ],
         "readme": [
             "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_ATtiny/ATtiny841-M/README.md"
         ]

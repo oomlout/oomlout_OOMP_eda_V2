@@ -6,8 +6,6 @@ Contents
 ========
 
 * [SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSCAPC85XNF1V1C8N11 > oomlout_OOMP_parts : CAPC-0805-X-NF100-V100-C8N100100](#szkicadoomloutoompkicadoomloutoomppartscapc85xnf1v1c8n11--oomlout_oomp_parts--capc-0805-x-nf100-v100-c8n100100)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -19,18 +17,6 @@ NO IMAGE
 - Description: oomlout_OOMP_parts : CAPC-0805-X-NF100-V100-C8N100100
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0805-X-NF100-V100-C8N100100](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0805-X-NF100-V100-C8N100100)
 - Short Link: [http://oom.lt/SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSCAPC85XNF1V1C8N11](http://oom.lt/SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSCAPC85XNF1V1C8N11)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117oomlout_OOMP_parts+:+CAPC-0805-X-NF100-V100-C8N100100)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/oomlout_OOMP_parts+:+CAPC-0805-X-NF100-V100-C8N100100)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=oomlout_OOMP_parts+:+CAPC-0805-X-NF100-V100-C8N100100)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=oomlout_OOMP_parts+:+CAPC-0805-X-NF100-V100-C8N100100)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=oomlout_OOMP_parts+:+CAPC-0805-X-NF100-V100-C8N100100)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=oomlout_OOMP_parts+:+CAPC-0805-X-NF100-V100-C8N100100)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 NO IMAGES  
 ## Tags

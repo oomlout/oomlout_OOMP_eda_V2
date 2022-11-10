@@ -6,8 +6,6 @@ Contents
 ========
 
 * [SZKDIODEBD4448HTW > Diode : MMBD4448HTW](#szkdiodebd4448htw--diode--mmbd4448htw)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -19,18 +17,6 @@ Contents
 - Description: Diode : MMBD4448HTW
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-MMBD4448HTW](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-MMBD4448HTW)
 - Short Link: [http://oom.lt/SZKDIODEBD4448HTW](http://oom.lt/SZKDIODEBD4448HTW)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Diode+:+MMBD4448HTW)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Diode+:+MMBD4448HTW)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Diode+:+MMBD4448HTW)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Diode+:+MMBD4448HTW)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Diode+:+MMBD4448HTW)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Diode+:+MMBD4448HTW)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Diode/MMBD4448HTW/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Diode/MMBD4448HTW/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Diode/MMBD4448HTW/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Diode/MMBD4448HTW/image.png)|||

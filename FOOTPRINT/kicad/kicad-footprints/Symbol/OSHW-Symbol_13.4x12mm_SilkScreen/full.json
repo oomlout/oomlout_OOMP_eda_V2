@@ -57,6 +57,9 @@
         "kicadPcb3dFront": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Symbol/OSHW-Symbol_13.4x12mm_SilkScreen/kicadPcb3dFront.png"
         ],
+        "mpnList": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Symbol/OSHW-Symbol_13.4x12mm_SilkScreen/MPNLIST.md"
+        ],
         "readme": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Symbol/OSHW-Symbol_13.4x12mm_SilkScreen/README.md"
         ]

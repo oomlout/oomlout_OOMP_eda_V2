@@ -6,8 +6,6 @@ Contents
 ========
 
 * [SZKREGULATORSWITCHINGLMR3361BDDAR > Regulator_Switching : LMR33610BDDAR](#szkregulatorswitchinglmr3361bddar--regulator_switching--lmr33610bddar)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -19,18 +17,6 @@ Contents
 - Description: Regulator_Switching : LMR33610BDDAR
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LMR33610BDDAR](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LMR33610BDDAR)
 - Short Link: [http://oom.lt/SZKREGULATORSWITCHINGLMR3361BDDAR](http://oom.lt/SZKREGULATORSWITCHINGLMR3361BDDAR)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Regulator_Switching+:+LMR33610BDDAR)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Regulator_Switching+:+LMR33610BDDAR)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Regulator_Switching+:+LMR33610BDDAR)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Regulator_Switching+:+LMR33610BDDAR)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Regulator_Switching+:+LMR33610BDDAR)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Regulator_Switching+:+LMR33610BDDAR)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/LMR33610BDDAR/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/LMR33610BDDAR/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/LMR33610BDDAR/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/LMR33610BDDAR/image.png)|||

@@ -61,6 +61,9 @@
         "kicadPcb3dFront": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_BGA/Fujitsu_WLP-15_2.28x3.092mm_Layout3x5_P0.4mm/kicadPcb3dFront.png"
         ],
+        "mpnList": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_BGA/Fujitsu_WLP-15_2.28x3.092mm_Layout3x5_P0.4mm/MPNLIST.md"
+        ],
         "readme": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_BGA/Fujitsu_WLP-15_2.28x3.092mm_Layout3x5_P0.4mm/README.md"
         ]

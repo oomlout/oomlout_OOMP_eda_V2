@@ -6,8 +6,6 @@ Contents
 ========
 
 * [SZKTRTG11S5N2XX > Transformer : TG110-S050N2xx](#szktrtg11s5n2xx--transformer--tg110-s050n2xx)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -19,18 +17,6 @@ Contents
 - Description: Transformer : TG110-S050N2xx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transformer-TG110-S050N2xx](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transformer-TG110-S050N2xx)
 - Short Link: [http://oom.lt/SZKTRTG11S5N2XX](http://oom.lt/SZKTRTG11S5N2XX)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Transformer+:+TG110-S050N2xx)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Transformer+:+TG110-S050N2xx)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Transformer+:+TG110-S050N2xx)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Transformer+:+TG110-S050N2xx)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Transformer+:+TG110-S050N2xx)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Transformer+:+TG110-S050N2xx)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transformer/TG110-S050N2xx/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transformer/TG110-S050N2xx/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transformer/TG110-S050N2xx/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transformer/TG110-S050N2xx/image.png)|||

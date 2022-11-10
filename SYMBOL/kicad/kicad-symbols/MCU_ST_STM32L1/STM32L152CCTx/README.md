@@ -6,8 +6,6 @@ Contents
 ========
 
 * [SZKMCUSTSTM32L1STM32L152CCTX > MCU_ST_STM32L1 : STM32L152CCTx](#szkmcuststm32l1stm32l152cctx--mcu_st_stm32l1--stm32l152cctx)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -19,18 +17,6 @@ Contents
 - Description: MCU_ST_STM32L1 : STM32L152CCTx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32L1-STM32L152CCTx](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32L1-STM32L152CCTx)
 - Short Link: [http://oom.lt/SZKMCUSTSTM32L1STM32L152CCTX](http://oom.lt/SZKMCUSTSTM32L1STM32L152CCTX)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117MCU_ST_STM32L1+:+STM32L152CCTx)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/MCU_ST_STM32L1+:+STM32L152CCTx)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=MCU_ST_STM32L1+:+STM32L152CCTx)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=MCU_ST_STM32L1+:+STM32L152CCTx)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=MCU_ST_STM32L1+:+STM32L152CCTx)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=MCU_ST_STM32L1+:+STM32L152CCTx)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32L1/STM32L152CCTx/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32L1/STM32L152CCTx/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32L1/STM32L152CCTx/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32L1/STM32L152CCTx/image.png)|||

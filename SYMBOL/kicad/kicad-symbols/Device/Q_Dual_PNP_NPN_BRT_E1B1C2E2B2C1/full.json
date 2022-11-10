@@ -36,6 +36,9 @@
         "jsonFull": [
             "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/Q_Dual_PNP_NPN_BRT_E1B1C2E2B2C1/full.json"
         ],
+        "mpnList": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/Q_Dual_PNP_NPN_BRT_E1B1C2E2B2C1/MPNLIST.md"
+        ],
         "readme": [
             "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/Q_Dual_PNP_NPN_BRT_E1B1C2E2B2C1/README.md"
         ]

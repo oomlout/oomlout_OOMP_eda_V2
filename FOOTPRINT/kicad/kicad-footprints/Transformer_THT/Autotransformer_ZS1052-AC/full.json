@@ -61,6 +61,9 @@
         "kicadPcb3dFront": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Transformer_THT/Autotransformer_ZS1052-AC/kicadPcb3dFront.png"
         ],
+        "mpnList": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Transformer_THT/Autotransformer_ZS1052-AC/MPNLIST.md"
+        ],
         "readme": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Transformer_THT/Autotransformer_ZS1052-AC/README.md"
         ]

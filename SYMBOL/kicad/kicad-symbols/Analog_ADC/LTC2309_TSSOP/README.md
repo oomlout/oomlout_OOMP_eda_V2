@@ -6,8 +6,6 @@ Contents
 ========
 
 * [SZKANALOGADCLTC239TSS > Analog_ADC : LTC2309_TSSOP](#szkanalogadcltc239tss--analog_adc--ltc2309_tssop)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -19,18 +17,6 @@ Contents
 - Description: Analog_ADC : LTC2309_TSSOP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-LTC2309_TSSOP](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-LTC2309_TSSOP)
 - Short Link: [http://oom.lt/SZKANALOGADCLTC239TSS](http://oom.lt/SZKANALOGADCLTC239TSS)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Analog_ADC+:+LTC2309_TSSOP)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Analog_ADC+:+LTC2309_TSSOP)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Analog_ADC+:+LTC2309_TSSOP)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Analog_ADC+:+LTC2309_TSSOP)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Analog_ADC+:+LTC2309_TSSOP)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Analog_ADC+:+LTC2309_TSSOP)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Analog_ADC/LTC2309_TSSOP/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Analog_ADC/LTC2309_TSSOP/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Analog_ADC/LTC2309_TSSOP/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Analog_ADC/LTC2309_TSSOP/image.png)|||

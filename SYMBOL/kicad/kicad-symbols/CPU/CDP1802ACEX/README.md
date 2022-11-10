@@ -6,8 +6,6 @@ Contents
 ========
 
 * [SZKCPUCDP182ACEX > CPU : CDP1802ACEX](#szkcpucdp182acex--cpu--cdp1802acex)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -19,18 +17,6 @@ Contents
 - Description: CPU : CDP1802ACEX
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-CPU-CDP1802ACEX](http://oom.lt/SYMBOL-kicad-kicad-symbols-CPU-CDP1802ACEX)
 - Short Link: [http://oom.lt/SZKCPUCDP182ACEX](http://oom.lt/SZKCPUCDP182ACEX)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117CPU+:+CDP1802ACEX)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/CPU+:+CDP1802ACEX)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=CPU+:+CDP1802ACEX)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=CPU+:+CDP1802ACEX)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=CPU+:+CDP1802ACEX)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=CPU+:+CDP1802ACEX)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/CPU/CDP1802ACEX/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/CPU/CDP1802ACEX/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/CPU/CDP1802ACEX/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/CPU/CDP1802ACEX/image.png)|||

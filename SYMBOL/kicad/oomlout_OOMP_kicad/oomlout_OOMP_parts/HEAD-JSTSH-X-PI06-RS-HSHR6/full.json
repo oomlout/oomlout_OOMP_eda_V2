@@ -30,6 +30,9 @@
         "jsonFull": [
             "oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/HEAD-JSTSH-X-PI06-RS-HSHR6/full.json"
         ],
+        "mpnList": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/HEAD-JSTSH-X-PI06-RS-HSHR6/MPNLIST.md"
+        ],
         "readme": [
             "oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/HEAD-JSTSH-X-PI06-RS-HSHR6/README.md"
         ]

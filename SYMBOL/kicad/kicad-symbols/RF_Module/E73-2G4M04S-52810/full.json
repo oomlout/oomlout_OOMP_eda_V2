@@ -30,6 +30,9 @@
         "jsonFull": [
             "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_Module/E73-2G4M04S-52810/full.json"
         ],
+        "mpnList": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_Module/E73-2G4M04S-52810/MPNLIST.md"
+        ],
         "readme": [
             "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_Module/E73-2G4M04S-52810/README.md"
         ]

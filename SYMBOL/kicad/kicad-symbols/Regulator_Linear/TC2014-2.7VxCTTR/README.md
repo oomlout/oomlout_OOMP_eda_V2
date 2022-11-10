@@ -6,8 +6,6 @@ Contents
 ========
 
 * [SZKREGULATORLINEARTC21427VXCTTR > Regulator_Linear : TC2014-2.7VxCTTR](#szkregulatorlineartc21427vxcttr--regulator_linear--tc2014-27vxcttr)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -19,18 +17,6 @@ Contents
 - Description: Regulator_Linear : TC2014-2.7VxCTTR
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-TC2014-2.7VxCTTR](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-TC2014-2.7VxCTTR)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARTC21427VXCTTR](http://oom.lt/SZKREGULATORLINEARTC21427VXCTTR)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Regulator_Linear+:+TC2014-2.7VxCTTR)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Regulator_Linear+:+TC2014-2.7VxCTTR)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Regulator_Linear+:+TC2014-2.7VxCTTR)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Regulator_Linear+:+TC2014-2.7VxCTTR)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Regulator_Linear+:+TC2014-2.7VxCTTR)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Regulator_Linear+:+TC2014-2.7VxCTTR)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/TC2014-2.7VxCTTR/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/TC2014-2.7VxCTTR/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/TC2014-2.7VxCTTR/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/TC2014-2.7VxCTTR/image.png)|||

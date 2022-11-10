@@ -30,6 +30,9 @@
         "jsonFull": [
             "oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_JLCC_Basic/RESE-0603-X-O301-01-R6O301-C23025/full.json"
         ],
+        "mpnList": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_JLCC_Basic/RESE-0603-X-O301-01-R6O301-C23025/MPNLIST.md"
+        ],
         "readme": [
             "oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_JLCC_Basic/RESE-0603-X-O301-01-R6O301-C23025/README.md"
         ]

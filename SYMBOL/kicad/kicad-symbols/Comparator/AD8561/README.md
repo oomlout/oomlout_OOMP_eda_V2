@@ -6,8 +6,6 @@ Contents
 ========
 
 * [SZKCOMPARATORAD8561 > Comparator : AD8561](#szkcomparatorad8561--comparator--ad8561)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -19,18 +17,6 @@ Contents
 - Description: Comparator : AD8561
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Comparator-AD8561](http://oom.lt/SYMBOL-kicad-kicad-symbols-Comparator-AD8561)
 - Short Link: [http://oom.lt/SZKCOMPARATORAD8561](http://oom.lt/SZKCOMPARATORAD8561)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Comparator+:+AD8561)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Comparator+:+AD8561)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Comparator+:+AD8561)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Comparator+:+AD8561)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Comparator+:+AD8561)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Comparator+:+AD8561)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Comparator/AD8561/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Comparator/AD8561/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Comparator/AD8561/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Comparator/AD8561/image.png)|||

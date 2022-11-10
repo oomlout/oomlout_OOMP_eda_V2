@@ -30,6 +30,9 @@
         "jsonFull": [
             "oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/LEDS-10-O-FROS-01-L10O/full.json"
         ],
+        "mpnList": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/LEDS-10-O-FROS-01-L10O/MPNLIST.md"
+        ],
         "readme": [
             "oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/LEDS-10-O-FROS-01-L10O/README.md"
         ]

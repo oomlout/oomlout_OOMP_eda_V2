@@ -6,8 +6,6 @@ Contents
 ========
 
 * [SZKRFFILHFCN16D > RF_Filter : HFCN-1600D](#szkrffilhfcn16d--rf_filter--hfcn-1600d)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -19,18 +17,6 @@ NO IMAGE
 - Description: RF_Filter : HFCN-1600D
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Filter-HFCN-1600D](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Filter-HFCN-1600D)
 - Short Link: [http://oom.lt/SZKRFFILHFCN16D](http://oom.lt/SZKRFFILHFCN16D)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117RF_Filter+:+HFCN-1600D)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/RF_Filter+:+HFCN-1600D)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=RF_Filter+:+HFCN-1600D)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=RF_Filter+:+HFCN-1600D)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=RF_Filter+:+HFCN-1600D)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=RF_Filter+:+HFCN-1600D)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 NO IMAGES  
 ## Tags

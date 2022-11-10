@@ -59,6 +59,9 @@
         "kicadPcb3dFront": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/oomlout_OOMP_kicad/oobbOutlines/OOBB-05-04/kicadPcb3dFront.png"
         ],
+        "mpnList": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/oomlout_OOMP_kicad/oobbOutlines/OOBB-05-04/MPNLIST.md"
+        ],
         "readme": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/oomlout_OOMP_kicad/oobbOutlines/OOBB-05-04/README.md"
         ]

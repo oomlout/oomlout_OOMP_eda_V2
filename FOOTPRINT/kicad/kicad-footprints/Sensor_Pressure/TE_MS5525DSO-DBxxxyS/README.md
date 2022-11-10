@@ -6,8 +6,6 @@ Contents
 ========
 
 * [FZKSENPRESSURETEMS5525DSODBXXXYS > Sensor_Pressure : TE_MS5525DSO-DBxxxyS](#fzksenpressuretems5525dsodbxxxys--sensor_pressure--te_ms5525dso-dbxxxys)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -19,18 +17,6 @@ Contents
 - Description: Sensor_Pressure : TE_MS5525DSO-DBxxxyS
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Sensor_Pressure-TE_MS5525DSO-DBxxxyS](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Sensor_Pressure-TE_MS5525DSO-DBxxxyS)
 - Short Link: [http://oom.lt/FZKSENPRESSURETEMS5525DSODBXXXYS](http://oom.lt/FZKSENPRESSURETEMS5525DSODBXXXYS)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Sensor_Pressure+:+TE_MS5525DSO-DBxxxyS)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Sensor_Pressure+:+TE_MS5525DSO-DBxxxyS)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Sensor_Pressure+:+TE_MS5525DSO-DBxxxyS)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Sensor_Pressure+:+TE_MS5525DSO-DBxxxyS)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Sensor_Pressure+:+TE_MS5525DSO-DBxxxyS)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Sensor_Pressure+:+TE_MS5525DSO-DBxxxyS)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Sensor_Pressure/TE_MS5525DSO-DBxxxyS/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Sensor_Pressure/TE_MS5525DSO-DBxxxyS/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Sensor_Pressure/TE_MS5525DSO-DBxxxyS/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Sensor_Pressure/TE_MS5525DSO-DBxxxyS/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Sensor_Pressure/TE_MS5525DSO-DBxxxyS/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Sensor_Pressure/TE_MS5525DSO-DBxxxyS/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Sensor_Pressure/TE_MS5525DSO-DBxxxyS/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Sensor_Pressure/TE_MS5525DSO-DBxxxyS/kicadPcb3dBack.png)|

@@ -6,8 +6,6 @@ Contents
 ========
 
 * [SZKINTERFACEETHERNETLAN9512I > Interface_Ethernet : LAN9512i](#szkinterfaceethernetlan9512i--interface_ethernet--lan9512i)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -19,18 +17,6 @@ Contents
 - Description: Interface_Ethernet : LAN9512i
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Ethernet-LAN9512i](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Ethernet-LAN9512i)
 - Short Link: [http://oom.lt/SZKINTERFACEETHERNETLAN9512I](http://oom.lt/SZKINTERFACEETHERNETLAN9512I)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Interface_Ethernet+:+LAN9512i)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Interface_Ethernet+:+LAN9512i)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Interface_Ethernet+:+LAN9512i)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Interface_Ethernet+:+LAN9512i)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Interface_Ethernet+:+LAN9512i)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Interface_Ethernet+:+LAN9512i)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface_Ethernet/LAN9512i/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface_Ethernet/LAN9512i/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface_Ethernet/LAN9512i/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface_Ethernet/LAN9512i/image.png)|||

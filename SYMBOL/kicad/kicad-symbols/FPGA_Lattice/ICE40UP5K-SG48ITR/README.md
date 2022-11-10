@@ -6,8 +6,6 @@ Contents
 ========
 
 * [SZKFPGALATTICEICE4UP5KSG48ITR > FPGA_Lattice : ICE40UP5K-SG48ITR](#szkfpgalatticeice4up5ksg48itr--fpga_lattice--ice40up5k-sg48itr)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -19,18 +17,6 @@ Contents
 - Description: FPGA_Lattice : ICE40UP5K-SG48ITR
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-FPGA_Lattice-ICE40UP5K-SG48ITR](http://oom.lt/SYMBOL-kicad-kicad-symbols-FPGA_Lattice-ICE40UP5K-SG48ITR)
 - Short Link: [http://oom.lt/SZKFPGALATTICEICE4UP5KSG48ITR](http://oom.lt/SZKFPGALATTICEICE4UP5KSG48ITR)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117FPGA_Lattice+:+ICE40UP5K-SG48ITR)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/FPGA_Lattice+:+ICE40UP5K-SG48ITR)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=FPGA_Lattice+:+ICE40UP5K-SG48ITR)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=FPGA_Lattice+:+ICE40UP5K-SG48ITR)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=FPGA_Lattice+:+ICE40UP5K-SG48ITR)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=FPGA_Lattice+:+ICE40UP5K-SG48ITR)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/FPGA_Lattice/ICE40UP5K-SG48ITR/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/FPGA_Lattice/ICE40UP5K-SG48ITR/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/FPGA_Lattice/ICE40UP5K-SG48ITR/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/FPGA_Lattice/ICE40UP5K-SG48ITR/image.png)|||

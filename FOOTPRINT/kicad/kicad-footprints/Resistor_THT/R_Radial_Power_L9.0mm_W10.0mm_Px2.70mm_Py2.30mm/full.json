@@ -61,6 +61,9 @@
         "kicadPcb3dFront": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Resistor_THT/R_Radial_Power_L9.0mm_W10.0mm_Px2.70mm_Py2.30mm/kicadPcb3dFront.png"
         ],
+        "mpnList": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Resistor_THT/R_Radial_Power_L9.0mm_W10.0mm_Px2.70mm_Py2.30mm/MPNLIST.md"
+        ],
         "readme": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Resistor_THT/R_Radial_Power_L9.0mm_W10.0mm_Px2.70mm_Py2.30mm/README.md"
         ]

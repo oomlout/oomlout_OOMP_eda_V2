@@ -6,8 +6,6 @@ Contents
 ========
 
 * [SZKRFAQH2213 > RF : AQH2213](#szkrfaqh2213--rf--aqh2213)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -19,18 +17,6 @@ NO IMAGE
 - Description: RF : AQH2213
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF-AQH2213](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF-AQH2213)
 - Short Link: [http://oom.lt/SZKRFAQH2213](http://oom.lt/SZKRFAQH2213)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117RF+:+AQH2213)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/RF+:+AQH2213)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=RF+:+AQH2213)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=RF+:+AQH2213)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=RF+:+AQH2213)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=RF+:+AQH2213)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 NO IMAGES  
 ## Tags

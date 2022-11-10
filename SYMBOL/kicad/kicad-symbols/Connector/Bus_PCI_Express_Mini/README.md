@@ -6,8 +6,6 @@ Contents
 ========
 
 * [SZKCNBUSPCIEXPRESSM > Connector : Bus_PCI_Express_Mini](#szkcnbuspciexpressm--connector--bus_pci_express_mini)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -19,18 +17,6 @@ Contents
 - Description: Connector : Bus_PCI_Express_Mini
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-Bus_PCI_Express_Mini](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-Bus_PCI_Express_Mini)
 - Short Link: [http://oom.lt/SZKCNBUSPCIEXPRESSM](http://oom.lt/SZKCNBUSPCIEXPRESSM)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Connector+:+Bus_PCI_Express_Mini)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Connector+:+Bus_PCI_Express_Mini)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Connector+:+Bus_PCI_Express_Mini)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Connector+:+Bus_PCI_Express_Mini)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Connector+:+Bus_PCI_Express_Mini)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Connector+:+Bus_PCI_Express_Mini)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/Bus_PCI_Express_Mini/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Bus_PCI_Express_Mini/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/Bus_PCI_Express_Mini/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Bus_PCI_Express_Mini/image.png)|||

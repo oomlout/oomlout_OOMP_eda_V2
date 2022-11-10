@@ -6,8 +6,6 @@ Contents
 ========
 
 * [SZKINTERFACEUARTSP3485CP > Interface_UART : SP3485CP](#szkinterfaceuartsp3485cp--interface_uart--sp3485cp)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -19,18 +17,6 @@ Contents
 - Description: Interface_UART : SP3485CP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_UART-SP3485CP](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_UART-SP3485CP)
 - Short Link: [http://oom.lt/SZKINTERFACEUARTSP3485CP](http://oom.lt/SZKINTERFACEUARTSP3485CP)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Interface_UART+:+SP3485CP)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Interface_UART+:+SP3485CP)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Interface_UART+:+SP3485CP)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Interface_UART+:+SP3485CP)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Interface_UART+:+SP3485CP)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Interface_UART+:+SP3485CP)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface_UART/SP3485CP/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface_UART/SP3485CP/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface_UART/SP3485CP/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface_UART/SP3485CP/image.png)|||

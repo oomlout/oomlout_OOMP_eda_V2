@@ -61,6 +61,9 @@
         "kicadPcb3dFront": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_CSP/WLCSP-16_1.409x1.409mm_P0.35mm/kicadPcb3dFront.png"
         ],
+        "mpnList": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_CSP/WLCSP-16_1.409x1.409mm_P0.35mm/MPNLIST.md"
+        ],
         "readme": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_CSP/WLCSP-16_1.409x1.409mm_P0.35mm/README.md"
         ]

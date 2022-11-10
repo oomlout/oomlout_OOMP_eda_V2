@@ -30,6 +30,9 @@
         "jsonFull": [
             "oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/HEAD-JSTXH-X-PI05-01-HXH5/full.json"
         ],
+        "mpnList": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/HEAD-JSTXH-X-PI05-01-HXH5/MPNLIST.md"
+        ],
         "readme": [
             "oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/HEAD-JSTXH-X-PI05-01-HXH5/README.md"
         ]

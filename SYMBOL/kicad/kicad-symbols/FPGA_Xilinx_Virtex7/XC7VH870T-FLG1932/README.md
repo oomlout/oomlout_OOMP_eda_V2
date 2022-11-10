@@ -6,8 +6,6 @@ Contents
 ========
 
 * [SZKFPGAXILINXVIRTEX7XC7VH87TFLG1932 > FPGA_Xilinx_Virtex7 : XC7VH870T-FLG1932](#szkfpgaxilinxvirtex7xc7vh87tflg1932--fpga_xilinx_virtex7--xc7vh870t-flg1932)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -19,18 +17,6 @@ Contents
 - Description: FPGA_Xilinx_Virtex7 : XC7VH870T-FLG1932
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-FPGA_Xilinx_Virtex7-XC7VH870T-FLG1932](http://oom.lt/SYMBOL-kicad-kicad-symbols-FPGA_Xilinx_Virtex7-XC7VH870T-FLG1932)
 - Short Link: [http://oom.lt/SZKFPGAXILINXVIRTEX7XC7VH87TFLG1932](http://oom.lt/SZKFPGAXILINXVIRTEX7XC7VH87TFLG1932)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117FPGA_Xilinx_Virtex7+:+XC7VH870T-FLG1932)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/FPGA_Xilinx_Virtex7+:+XC7VH870T-FLG1932)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=FPGA_Xilinx_Virtex7+:+XC7VH870T-FLG1932)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=FPGA_Xilinx_Virtex7+:+XC7VH870T-FLG1932)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=FPGA_Xilinx_Virtex7+:+XC7VH870T-FLG1932)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=FPGA_Xilinx_Virtex7+:+XC7VH870T-FLG1932)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/FPGA_Xilinx_Virtex7/XC7VH870T-FLG1932/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/FPGA_Xilinx_Virtex7/XC7VH870T-FLG1932/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/FPGA_Xilinx_Virtex7/XC7VH870T-FLG1932/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/FPGA_Xilinx_Virtex7/XC7VH870T-FLG1932/image.png)|||

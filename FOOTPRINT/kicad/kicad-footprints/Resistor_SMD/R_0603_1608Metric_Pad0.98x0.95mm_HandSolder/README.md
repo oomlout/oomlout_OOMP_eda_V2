@@ -6,8 +6,6 @@ Contents
 ========
 
 * [FZKRESISTORSMR63168METRICPAD98X95HANDSOLDER > Resistor_SMD : R_0603_1608Metric_Pad0.98x0.95mm_HandSolder](#fzkresistorsmr63168metricpad98x95handsolder--resistor_smd--r_0603_1608metric_pad098x095mm_handsolder)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -19,18 +17,6 @@ Contents
 - Description: Resistor_SMD : R_0603_1608Metric_Pad0.98x0.95mm_HandSolder
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0603_1608Metric_Pad0.98x0.95mm_HandSolder](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0603_1608Metric_Pad0.98x0.95mm_HandSolder)
 - Short Link: [http://oom.lt/FZKRESISTORSMR63168METRICPAD98X95HANDSOLDER](http://oom.lt/FZKRESISTORSMR63168METRICPAD98X95HANDSOLDER)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Resistor_SMD+:+R_0603_1608Metric_Pad0.98x0.95mm_HandSolder)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Resistor_SMD+:+R_0603_1608Metric_Pad0.98x0.95mm_HandSolder)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Resistor_SMD+:+R_0603_1608Metric_Pad0.98x0.95mm_HandSolder)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Resistor_SMD+:+R_0603_1608Metric_Pad0.98x0.95mm_HandSolder)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Resistor_SMD+:+R_0603_1608Metric_Pad0.98x0.95mm_HandSolder)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Resistor_SMD+:+R_0603_1608Metric_Pad0.98x0.95mm_HandSolder)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_0603_1608Metric_Pad0.98x0.95mm_HandSolder/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_0603_1608Metric_Pad0.98x0.95mm_HandSolder/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_0603_1608Metric_Pad0.98x0.95mm_HandSolder/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_0603_1608Metric_Pad0.98x0.95mm_HandSolder/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_0603_1608Metric_Pad0.98x0.95mm_HandSolder/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_0603_1608Metric_Pad0.98x0.95mm_HandSolder/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_0603_1608Metric_Pad0.98x0.95mm_HandSolder/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_0603_1608Metric_Pad0.98x0.95mm_HandSolder/kicadPcb3dBack.png)|

@@ -36,6 +36,9 @@
         "jsonFull": [
             "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/D_Zener_Dual_CommonCathode_AKA_Parallel/full.json"
         ],
+        "mpnList": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/D_Zener_Dual_CommonCathode_AKA_Parallel/MPNLIST.md"
+        ],
         "readme": [
             "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/D_Zener_Dual_CommonCathode_AKA_Parallel/README.md"
         ]

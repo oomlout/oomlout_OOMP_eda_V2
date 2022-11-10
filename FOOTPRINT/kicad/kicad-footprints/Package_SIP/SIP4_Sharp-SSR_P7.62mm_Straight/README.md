@@ -6,8 +6,6 @@ Contents
 ========
 
 * [FZKSIPSIP4SHARPSSRP762S > Package_SIP : SIP4_Sharp-SSR_P7.62mm_Straight](#fzksipsip4sharpssrp762s--package_sip--sip4_sharp-ssr_p762mm_straight)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -19,18 +17,6 @@ Contents
 - Description: Package_SIP : SIP4_Sharp-SSR_P7.62mm_Straight
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SIP-SIP4_Sharp-SSR_P7.62mm_Straight](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SIP-SIP4_Sharp-SSR_P7.62mm_Straight)
 - Short Link: [http://oom.lt/FZKSIPSIP4SHARPSSRP762S](http://oom.lt/FZKSIPSIP4SHARPSSRP762S)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Package_SIP+:+SIP4_Sharp-SSR_P7.62mm_Straight)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Package_SIP+:+SIP4_Sharp-SSR_P7.62mm_Straight)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Package_SIP+:+SIP4_Sharp-SSR_P7.62mm_Straight)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Package_SIP+:+SIP4_Sharp-SSR_P7.62mm_Straight)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Package_SIP+:+SIP4_Sharp-SSR_P7.62mm_Straight)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Package_SIP+:+SIP4_Sharp-SSR_P7.62mm_Straight)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_SIP/SIP4_Sharp-SSR_P7.62mm_Straight/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_SIP/SIP4_Sharp-SSR_P7.62mm_Straight/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_SIP/SIP4_Sharp-SSR_P7.62mm_Straight/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_SIP/SIP4_Sharp-SSR_P7.62mm_Straight/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_SIP/SIP4_Sharp-SSR_P7.62mm_Straight/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_SIP/SIP4_Sharp-SSR_P7.62mm_Straight/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_SIP/SIP4_Sharp-SSR_P7.62mm_Straight/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_SIP/SIP4_Sharp-SSR_P7.62mm_Straight/kicadPcb3dBack.png)|

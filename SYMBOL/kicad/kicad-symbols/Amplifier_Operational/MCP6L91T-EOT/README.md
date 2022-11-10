@@ -6,8 +6,6 @@ Contents
 ========
 
 * [SZKAMPLIFIEROPERATIONALMCP6L91TEOT > Amplifier_Operational : MCP6L91T-EOT](#szkamplifieroperationalmcp6l91teot--amplifier_operational--mcp6l91t-eot)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -19,18 +17,6 @@ Contents
 - Description: Amplifier_Operational : MCP6L91T-EOT
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-MCP6L91T-EOT](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-MCP6L91T-EOT)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALMCP6L91TEOT](http://oom.lt/SZKAMPLIFIEROPERATIONALMCP6L91TEOT)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Amplifier_Operational+:+MCP6L91T-EOT)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Amplifier_Operational+:+MCP6L91T-EOT)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Amplifier_Operational+:+MCP6L91T-EOT)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Amplifier_Operational+:+MCP6L91T-EOT)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Amplifier_Operational+:+MCP6L91T-EOT)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Amplifier_Operational+:+MCP6L91T-EOT)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/MCP6L91T-EOT/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/MCP6L91T-EOT/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/MCP6L91T-EOT/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/MCP6L91T-EOT/image.png)|||

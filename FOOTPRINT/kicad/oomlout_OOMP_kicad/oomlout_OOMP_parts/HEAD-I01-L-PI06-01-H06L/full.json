@@ -61,6 +61,9 @@
         "kicadPcb3dFront": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/HEAD-I01-L-PI06-01-H06L/kicadPcb3dFront.png"
         ],
+        "mpnList": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/HEAD-I01-L-PI06-01-H06L/MPNLIST.md"
+        ],
         "readme": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/HEAD-I01-L-PI06-01-H06L/README.md"
         ]

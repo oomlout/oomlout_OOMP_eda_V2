@@ -46,6 +46,9 @@
         "kicadFootprint": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/TRNN-SO23-X-KS8050-01-TNS248050/footprint.kicad_mod"
         ],
+        "mpnList": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/TRNN-SO23-X-KS8050-01-TNS248050/MPNLIST.md"
+        ],
         "readme": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/TRNN-SO23-X-KS8050-01-TNS248050/README.md"
         ]

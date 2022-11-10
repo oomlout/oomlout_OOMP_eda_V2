@@ -57,6 +57,9 @@
         "kicadPcb3dFront": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Symbol/Symbol_GNU-Logo_CopperTop/kicadPcb3dFront.png"
         ],
+        "mpnList": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Symbol/Symbol_GNU-Logo_CopperTop/MPNLIST.md"
+        ],
         "readme": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Symbol/Symbol_GNU-Logo_CopperTop/README.md"
         ]

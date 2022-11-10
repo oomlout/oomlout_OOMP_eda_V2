@@ -6,8 +6,6 @@ Contents
 ========
 
 * [FZKTRSMTRETHERNETYDS3F51NLSO2471X151 > Transformer_SMD : Transformer_Ethernet_YDS_30F-51NL_SO-24_7.1x15.1mm](#fzktrsmtrethernetyds3f51nlso2471x151--transformer_smd--transformer_ethernet_yds_30f-51nl_so-24_71x151mm)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -19,18 +17,6 @@ Contents
 - Description: Transformer_SMD : Transformer_Ethernet_YDS_30F-51NL_SO-24_7.1x15.1mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Transformer_SMD-Transformer_Ethernet_YDS_30F-51NL_SO-24_7.1x15.1mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Transformer_SMD-Transformer_Ethernet_YDS_30F-51NL_SO-24_7.1x15.1mm)
 - Short Link: [http://oom.lt/FZKTRSMTRETHERNETYDS3F51NLSO2471X151](http://oom.lt/FZKTRSMTRETHERNETYDS3F51NLSO2471X151)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Transformer_SMD+:+Transformer_Ethernet_YDS_30F-51NL_SO-24_7.1x15.1mm)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Transformer_SMD+:+Transformer_Ethernet_YDS_30F-51NL_SO-24_7.1x15.1mm)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Transformer_SMD+:+Transformer_Ethernet_YDS_30F-51NL_SO-24_7.1x15.1mm)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Transformer_SMD+:+Transformer_Ethernet_YDS_30F-51NL_SO-24_7.1x15.1mm)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Transformer_SMD+:+Transformer_Ethernet_YDS_30F-51NL_SO-24_7.1x15.1mm)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Transformer_SMD+:+Transformer_Ethernet_YDS_30F-51NL_SO-24_7.1x15.1mm)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Transformer_SMD/Transformer_Ethernet_YDS_30F-51NL_SO-24_7.1x15.1mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Transformer_SMD/Transformer_Ethernet_YDS_30F-51NL_SO-24_7.1x15.1mm/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Transformer_SMD/Transformer_Ethernet_YDS_30F-51NL_SO-24_7.1x15.1mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Transformer_SMD/Transformer_Ethernet_YDS_30F-51NL_SO-24_7.1x15.1mm/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Transformer_SMD/Transformer_Ethernet_YDS_30F-51NL_SO-24_7.1x15.1mm/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Transformer_SMD/Transformer_Ethernet_YDS_30F-51NL_SO-24_7.1x15.1mm/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Transformer_SMD/Transformer_Ethernet_YDS_30F-51NL_SO-24_7.1x15.1mm/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Transformer_SMD/Transformer_Ethernet_YDS_30F-51NL_SO-24_7.1x15.1mm/kicadPcb3dBack.png)|

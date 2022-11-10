@@ -61,6 +61,9 @@
         "kicadPcb3dFront": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/TRNN-SO23-X-KS8050-01-TN98050/kicadPcb3dFront.png"
         ],
+        "mpnList": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/TRNN-SO23-X-KS8050-01-TN98050/MPNLIST.md"
+        ],
         "readme": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/TRNN-SO23-X-KS8050-01-TN98050/README.md"
         ]

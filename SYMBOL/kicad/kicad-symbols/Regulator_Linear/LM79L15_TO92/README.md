@@ -6,8 +6,6 @@ Contents
 ========
 
 * [SZKREGULATORLINEARLM79L15TO92 > Regulator_Linear : LM79L15_TO92](#szkregulatorlinearlm79l15to92--regulator_linear--lm79l15_to92)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -19,18 +17,6 @@ Contents
 - Description: Regulator_Linear : LM79L15_TO92
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LM79L15_TO92](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LM79L15_TO92)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARLM79L15TO92](http://oom.lt/SZKREGULATORLINEARLM79L15TO92)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Regulator_Linear+:+LM79L15_TO92)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Regulator_Linear+:+LM79L15_TO92)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Regulator_Linear+:+LM79L15_TO92)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Regulator_Linear+:+LM79L15_TO92)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Regulator_Linear+:+LM79L15_TO92)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Regulator_Linear+:+LM79L15_TO92)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LM79L15_TO92/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LM79L15_TO92/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LM79L15_TO92/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LM79L15_TO92/image.png)|||

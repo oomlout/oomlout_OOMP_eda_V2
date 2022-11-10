@@ -6,8 +6,6 @@ Contents
 ========
 
 * [SZKINTERFACELINEDRIVERDS89C21 > Interface_LineDriver : DS89C21](#szkinterfacelinedriverds89c21--interface_linedriver--ds89c21)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -19,18 +17,6 @@ Contents
 - Description: Interface_LineDriver : DS89C21
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_LineDriver-DS89C21](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_LineDriver-DS89C21)
 - Short Link: [http://oom.lt/SZKINTERFACELINEDRIVERDS89C21](http://oom.lt/SZKINTERFACELINEDRIVERDS89C21)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Interface_LineDriver+:+DS89C21)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Interface_LineDriver+:+DS89C21)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Interface_LineDriver+:+DS89C21)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Interface_LineDriver+:+DS89C21)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Interface_LineDriver+:+DS89C21)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Interface_LineDriver+:+DS89C21)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface_LineDriver/DS89C21/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface_LineDriver/DS89C21/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface_LineDriver/DS89C21/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface_LineDriver/DS89C21/image.png)|||

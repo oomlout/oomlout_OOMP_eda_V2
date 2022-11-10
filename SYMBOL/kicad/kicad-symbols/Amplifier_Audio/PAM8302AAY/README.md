@@ -6,8 +6,6 @@ Contents
 ========
 
 * [SZKAMPLIFIERAUDIOPAM832AAY > Amplifier_Audio : PAM8302AAY](#szkamplifieraudiopam832aay--amplifier_audio--pam8302aay)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -19,18 +17,6 @@ Contents
 - Description: Amplifier_Audio : PAM8302AAY
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Audio-PAM8302AAY](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Audio-PAM8302AAY)
 - Short Link: [http://oom.lt/SZKAMPLIFIERAUDIOPAM832AAY](http://oom.lt/SZKAMPLIFIERAUDIOPAM832AAY)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Amplifier_Audio+:+PAM8302AAY)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Amplifier_Audio+:+PAM8302AAY)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Amplifier_Audio+:+PAM8302AAY)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Amplifier_Audio+:+PAM8302AAY)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Amplifier_Audio+:+PAM8302AAY)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Amplifier_Audio+:+PAM8302AAY)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Amplifier_Audio/PAM8302AAY/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Amplifier_Audio/PAM8302AAY/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Amplifier_Audio/PAM8302AAY/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Amplifier_Audio/PAM8302AAY/image.png)|||

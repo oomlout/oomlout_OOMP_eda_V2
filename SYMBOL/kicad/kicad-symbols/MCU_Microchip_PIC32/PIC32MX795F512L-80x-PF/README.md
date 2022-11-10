@@ -6,8 +6,6 @@ Contents
 ========
 
 * [SZKMCUMCHIPPIC32PIC32MX795F512L8XPF > MCU_Microchip_PIC32 : PIC32MX795F512L-80x-PF](#szkmcumchippic32pic32mx795f512l8xpf--mcu_microchip_pic32--pic32mx795f512l-80x-pf)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -19,18 +17,6 @@ Contents
 - Description: MCU_Microchip_PIC32 : PIC32MX795F512L-80x-PF
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC32-PIC32MX795F512L-80x-PF](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC32-PIC32MX795F512L-80x-PF)
 - Short Link: [http://oom.lt/SZKMCUMCHIPPIC32PIC32MX795F512L8XPF](http://oom.lt/SZKMCUMCHIPPIC32PIC32MX795F512L8XPF)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117MCU_Microchip_PIC32+:+PIC32MX795F512L-80x-PF)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/MCU_Microchip_PIC32+:+PIC32MX795F512L-80x-PF)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=MCU_Microchip_PIC32+:+PIC32MX795F512L-80x-PF)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=MCU_Microchip_PIC32+:+PIC32MX795F512L-80x-PF)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=MCU_Microchip_PIC32+:+PIC32MX795F512L-80x-PF)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=MCU_Microchip_PIC32+:+PIC32MX795F512L-80x-PF)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC32/PIC32MX795F512L-80x-PF/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC32/PIC32MX795F512L-80x-PF/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC32/PIC32MX795F512L-80x-PF/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC32/PIC32MX795F512L-80x-PF/image.png)|||

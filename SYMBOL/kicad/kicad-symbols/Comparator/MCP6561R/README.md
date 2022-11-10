@@ -6,8 +6,6 @@ Contents
 ========
 
 * [SZKCOMPARATORMCP6561R > Comparator : MCP6561R](#szkcomparatormcp6561r--comparator--mcp6561r)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -19,18 +17,6 @@ Contents
 - Description: Comparator : MCP6561R
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Comparator-MCP6561R](http://oom.lt/SYMBOL-kicad-kicad-symbols-Comparator-MCP6561R)
 - Short Link: [http://oom.lt/SZKCOMPARATORMCP6561R](http://oom.lt/SZKCOMPARATORMCP6561R)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Comparator+:+MCP6561R)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Comparator+:+MCP6561R)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Comparator+:+MCP6561R)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Comparator+:+MCP6561R)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Comparator+:+MCP6561R)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Comparator+:+MCP6561R)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Comparator/MCP6561R/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Comparator/MCP6561R/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Comparator/MCP6561R/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Comparator/MCP6561R/image.png)|||

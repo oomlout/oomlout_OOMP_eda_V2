@@ -36,6 +36,9 @@
         "jsonFull": [
             "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_02x16_Counter_Clockwise/full.json"
         ],
+        "mpnList": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_02x16_Counter_Clockwise/MPNLIST.md"
+        ],
         "readme": [
             "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_02x16_Counter_Clockwise/README.md"
         ]

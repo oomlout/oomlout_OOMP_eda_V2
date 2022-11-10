@@ -6,8 +6,6 @@ Contents
 ========
 
 * [SZKCONRAC215DK > Converter_ACDC : RAC20-15DK](#szkconrac215dk--converter_acdc--rac20-15dk)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -19,18 +17,6 @@ Contents
 - Description: Converter_ACDC : RAC20-15DK
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_ACDC-RAC20-15DK](http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_ACDC-RAC20-15DK)
 - Short Link: [http://oom.lt/SZKCONRAC215DK](http://oom.lt/SZKCONRAC215DK)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Converter_ACDC+:+RAC20-15DK)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Converter_ACDC+:+RAC20-15DK)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Converter_ACDC+:+RAC20-15DK)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Converter_ACDC+:+RAC20-15DK)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Converter_ACDC+:+RAC20-15DK)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Converter_ACDC+:+RAC20-15DK)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Converter_ACDC/RAC20-15DK/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Converter_ACDC/RAC20-15DK/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Converter_ACDC/RAC20-15DK/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Converter_ACDC/RAC20-15DK/image.png)|||

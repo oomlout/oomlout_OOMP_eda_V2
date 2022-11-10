@@ -6,8 +6,6 @@ Contents
 ========
 
 * [SZKPOWERGNDA > power : GNDA](#szkpowergnda--power--gnda)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -19,18 +17,6 @@ Contents
 - Description: power : GNDA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-power-GNDA](http://oom.lt/SYMBOL-kicad-kicad-symbols-power-GNDA)
 - Short Link: [http://oom.lt/SZKPOWERGNDA](http://oom.lt/SZKPOWERGNDA)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117power+:+GNDA)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/power+:+GNDA)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=power+:+GNDA)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=power+:+GNDA)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=power+:+GNDA)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=power+:+GNDA)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/power/GNDA/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/power/GNDA/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/power/GNDA/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/power/GNDA/image.png)|||

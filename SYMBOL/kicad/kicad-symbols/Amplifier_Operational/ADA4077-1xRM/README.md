@@ -6,8 +6,6 @@ Contents
 ========
 
 * [SZKAMPLIFIEROPERATIONALADA4771XRM > Amplifier_Operational : ADA4077-1xRM](#szkamplifieroperationalada4771xrm--amplifier_operational--ada4077-1xrm)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -19,18 +17,6 @@ Contents
 - Description: Amplifier_Operational : ADA4077-1xRM
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-ADA4077-1xRM](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-ADA4077-1xRM)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALADA4771XRM](http://oom.lt/SZKAMPLIFIEROPERATIONALADA4771XRM)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Amplifier_Operational+:+ADA4077-1xRM)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Amplifier_Operational+:+ADA4077-1xRM)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Amplifier_Operational+:+ADA4077-1xRM)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Amplifier_Operational+:+ADA4077-1xRM)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Amplifier_Operational+:+ADA4077-1xRM)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Amplifier_Operational+:+ADA4077-1xRM)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/ADA4077-1xRM/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/ADA4077-1xRM/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/ADA4077-1xRM/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/ADA4077-1xRM/image.png)|||

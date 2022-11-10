@@ -46,6 +46,9 @@
         "kicadFootprint": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/MOSN-T252-X-K4184-01-MN2524184A/footprint.kicad_mod"
         ],
+        "mpnList": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/MOSN-T252-X-K4184-01-MN2524184A/MPNLIST.md"
+        ],
         "readme": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/MOSN-T252-X-K4184-01-MN2524184A/README.md"
         ]

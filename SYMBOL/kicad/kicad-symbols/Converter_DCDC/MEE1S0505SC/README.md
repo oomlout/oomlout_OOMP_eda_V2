@@ -6,8 +6,6 @@ Contents
 ========
 
 * [SZKCONMEE1S55SC > Converter_DCDC : MEE1S0505SC](#szkconmee1s55sc--converter_dcdc--mee1s0505sc)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -19,18 +17,6 @@ Contents
 - Description: Converter_DCDC : MEE1S0505SC
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-MEE1S0505SC](http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-MEE1S0505SC)
 - Short Link: [http://oom.lt/SZKCONMEE1S55SC](http://oom.lt/SZKCONMEE1S55SC)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Converter_DCDC+:+MEE1S0505SC)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Converter_DCDC+:+MEE1S0505SC)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Converter_DCDC+:+MEE1S0505SC)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Converter_DCDC+:+MEE1S0505SC)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Converter_DCDC+:+MEE1S0505SC)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Converter_DCDC+:+MEE1S0505SC)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Converter_DCDC/MEE1S0505SC/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Converter_DCDC/MEE1S0505SC/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Converter_DCDC/MEE1S0505SC/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Converter_DCDC/MEE1S0505SC/image.png)|||

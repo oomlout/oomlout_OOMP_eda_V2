@@ -6,8 +6,6 @@ Contents
 ========
 
 * [SZKRFAMPLIFIERADL5541 > RF_Amplifier : ADL5541](#szkrfamplifieradl5541--rf_amplifier--adl5541)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -19,18 +17,6 @@ NO IMAGE
 - Description: RF_Amplifier : ADL5541
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Amplifier-ADL5541](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Amplifier-ADL5541)
 - Short Link: [http://oom.lt/SZKRFAMPLIFIERADL5541](http://oom.lt/SZKRFAMPLIFIERADL5541)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117RF_Amplifier+:+ADL5541)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/RF_Amplifier+:+ADL5541)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=RF_Amplifier+:+ADL5541)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=RF_Amplifier+:+ADL5541)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=RF_Amplifier+:+ADL5541)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=RF_Amplifier+:+ADL5541)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 NO IMAGES  
 ## Tags

@@ -6,8 +6,6 @@ Contents
 ========
 
 * [FZKRFMOAITHINKERRA1LORA > RF_Module : Ai-Thinker-Ra-01-LoRa](#fzkrfmoaithinkerra1lora--rf_module--ai-thinker-ra-01-lora)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -19,18 +17,6 @@ Contents
 - Description: RF_Module : Ai-Thinker-Ra-01-LoRa
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_Module-Ai-Thinker-Ra-01-LoRa](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_Module-Ai-Thinker-Ra-01-LoRa)
 - Short Link: [http://oom.lt/FZKRFMOAITHINKERRA1LORA](http://oom.lt/FZKRFMOAITHINKERRA1LORA)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117RF_Module+:+Ai-Thinker-Ra-01-LoRa)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/RF_Module+:+Ai-Thinker-Ra-01-LoRa)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=RF_Module+:+Ai-Thinker-Ra-01-LoRa)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=RF_Module+:+Ai-Thinker-Ra-01-LoRa)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=RF_Module+:+Ai-Thinker-Ra-01-LoRa)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=RF_Module+:+Ai-Thinker-Ra-01-LoRa)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/RF_Module/Ai-Thinker-Ra-01-LoRa/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/RF_Module/Ai-Thinker-Ra-01-LoRa/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/RF_Module/Ai-Thinker-Ra-01-LoRa/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/RF_Module/Ai-Thinker-Ra-01-LoRa/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/RF_Module/Ai-Thinker-Ra-01-LoRa/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/RF_Module/Ai-Thinker-Ra-01-LoRa/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/RF_Module/Ai-Thinker-Ra-01-LoRa/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/RF_Module/Ai-Thinker-Ra-01-LoRa/kicadPcb3dBack.png)|

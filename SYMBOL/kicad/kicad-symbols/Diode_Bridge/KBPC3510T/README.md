@@ -6,8 +6,6 @@ Contents
 ========
 
 * [SZKDIODEBRIDGEKBPC351T > Diode_Bridge : KBPC3510T](#szkdiodebridgekbpc351t--diode_bridge--kbpc3510t)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -19,18 +17,6 @@ NO IMAGE
 - Description: Diode_Bridge : KBPC3510T
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode_Bridge-KBPC3510T](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode_Bridge-KBPC3510T)
 - Short Link: [http://oom.lt/SZKDIODEBRIDGEKBPC351T](http://oom.lt/SZKDIODEBRIDGEKBPC351T)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Diode_Bridge+:+KBPC3510T)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Diode_Bridge+:+KBPC3510T)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Diode_Bridge+:+KBPC3510T)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Diode_Bridge+:+KBPC3510T)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Diode_Bridge+:+KBPC3510T)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Diode_Bridge+:+KBPC3510T)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 NO IMAGES  
 ## Tags

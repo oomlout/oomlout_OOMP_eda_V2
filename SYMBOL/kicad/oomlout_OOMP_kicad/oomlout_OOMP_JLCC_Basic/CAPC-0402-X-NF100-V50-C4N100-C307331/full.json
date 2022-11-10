@@ -30,6 +30,9 @@
         "jsonFull": [
             "oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_JLCC_Basic/CAPC-0402-X-NF100-V50-C4N100-C307331/full.json"
         ],
+        "mpnList": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_JLCC_Basic/CAPC-0402-X-NF100-V50-C4N100-C307331/MPNLIST.md"
+        ],
         "readme": [
             "oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_JLCC_Basic/CAPC-0402-X-NF100-V50-C4N100-C307331/README.md"
         ]

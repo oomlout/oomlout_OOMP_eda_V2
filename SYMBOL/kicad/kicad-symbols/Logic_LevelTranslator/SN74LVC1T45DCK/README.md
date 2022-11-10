@@ -6,8 +6,6 @@ Contents
 ========
 
 * [SZKLOGICLEVELTRANSLATORSN74LVC1T45DCK > Logic_LevelTranslator : SN74LVC1T45DCK](#szklogicleveltranslatorsn74lvc1t45dck--logic_leveltranslator--sn74lvc1t45dck)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -19,18 +17,6 @@ Contents
 - Description: Logic_LevelTranslator : SN74LVC1T45DCK
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Logic_LevelTranslator-SN74LVC1T45DCK](http://oom.lt/SYMBOL-kicad-kicad-symbols-Logic_LevelTranslator-SN74LVC1T45DCK)
 - Short Link: [http://oom.lt/SZKLOGICLEVELTRANSLATORSN74LVC1T45DCK](http://oom.lt/SZKLOGICLEVELTRANSLATORSN74LVC1T45DCK)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Logic_LevelTranslator+:+SN74LVC1T45DCK)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Logic_LevelTranslator+:+SN74LVC1T45DCK)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Logic_LevelTranslator+:+SN74LVC1T45DCK)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Logic_LevelTranslator+:+SN74LVC1T45DCK)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Logic_LevelTranslator+:+SN74LVC1T45DCK)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Logic_LevelTranslator+:+SN74LVC1T45DCK)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Logic_LevelTranslator/SN74LVC1T45DCK/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Logic_LevelTranslator/SN74LVC1T45DCK/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Logic_LevelTranslator/SN74LVC1T45DCK/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Logic_LevelTranslator/SN74LVC1T45DCK/image.png)|||

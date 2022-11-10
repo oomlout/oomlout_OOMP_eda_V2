@@ -6,8 +6,6 @@ Contents
 ========
 
 * [FZKRELAYSMRELAYDPDTOMRONG6SK2F > Relay_SMD : Relay_DPDT_Omron_G6SK-2F](#fzkrelaysmrelaydpdtomrong6sk2f--relay_smd--relay_dpdt_omron_g6sk-2f)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -19,18 +17,6 @@ Contents
 - Description: Relay_SMD : Relay_DPDT_Omron_G6SK-2F
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Relay_SMD-Relay_DPDT_Omron_G6SK-2F](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Relay_SMD-Relay_DPDT_Omron_G6SK-2F)
 - Short Link: [http://oom.lt/FZKRELAYSMRELAYDPDTOMRONG6SK2F](http://oom.lt/FZKRELAYSMRELAYDPDTOMRONG6SK2F)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Relay_SMD+:+Relay_DPDT_Omron_G6SK-2F)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Relay_SMD+:+Relay_DPDT_Omron_G6SK-2F)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Relay_SMD+:+Relay_DPDT_Omron_G6SK-2F)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Relay_SMD+:+Relay_DPDT_Omron_G6SK-2F)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Relay_SMD+:+Relay_DPDT_Omron_G6SK-2F)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Relay_SMD+:+Relay_DPDT_Omron_G6SK-2F)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Relay_SMD/Relay_DPDT_Omron_G6SK-2F/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Relay_SMD/Relay_DPDT_Omron_G6SK-2F/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Relay_SMD/Relay_DPDT_Omron_G6SK-2F/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Relay_SMD/Relay_DPDT_Omron_G6SK-2F/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Relay_SMD/Relay_DPDT_Omron_G6SK-2F/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Relay_SMD/Relay_DPDT_Omron_G6SK-2F/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Relay_SMD/Relay_DPDT_Omron_G6SK-2F/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Relay_SMD/Relay_DPDT_Omron_G6SK-2F/kicadPcb3dBack.png)|

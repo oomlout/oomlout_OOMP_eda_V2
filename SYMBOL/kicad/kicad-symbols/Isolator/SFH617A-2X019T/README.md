@@ -6,8 +6,6 @@ Contents
 ========
 
 * [SZKISOLATORSFH617A2X19T > Isolator : SFH617A-2X019T](#szkisolatorsfh617a2x19t--isolator--sfh617a-2x019t)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -19,18 +17,6 @@ Contents
 - Description: Isolator : SFH617A-2X019T
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-SFH617A-2X019T](http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-SFH617A-2X019T)
 - Short Link: [http://oom.lt/SZKISOLATORSFH617A2X19T](http://oom.lt/SZKISOLATORSFH617A2X19T)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Isolator+:+SFH617A-2X019T)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Isolator+:+SFH617A-2X019T)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Isolator+:+SFH617A-2X019T)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Isolator+:+SFH617A-2X019T)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Isolator+:+SFH617A-2X019T)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Isolator+:+SFH617A-2X019T)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Isolator/SFH617A-2X019T/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Isolator/SFH617A-2X019T/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Isolator/SFH617A-2X019T/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Isolator/SFH617A-2X019T/image.png)|||

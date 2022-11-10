@@ -6,8 +6,6 @@ Contents
 ========
 
 * [SZKMEMORYFLASHIS25WP256DXM > Memory_Flash : IS25WP256D-xM](#szkmemoryflashis25wp256dxm--memory_flash--is25wp256d-xm)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -19,18 +17,6 @@ Contents
 - Description: Memory_Flash : IS25WP256D-xM
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_Flash-IS25WP256D-xM](http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_Flash-IS25WP256D-xM)
 - Short Link: [http://oom.lt/SZKMEMORYFLASHIS25WP256DXM](http://oom.lt/SZKMEMORYFLASHIS25WP256DXM)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Memory_Flash+:+IS25WP256D-xM)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Memory_Flash+:+IS25WP256D-xM)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Memory_Flash+:+IS25WP256D-xM)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Memory_Flash+:+IS25WP256D-xM)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Memory_Flash+:+IS25WP256D-xM)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Memory_Flash+:+IS25WP256D-xM)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Memory_Flash/IS25WP256D-xM/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Memory_Flash/IS25WP256D-xM/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Memory_Flash/IS25WP256D-xM/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Memory_Flash/IS25WP256D-xM/image.png)|||

@@ -6,8 +6,6 @@ Contents
 ========
 
 * [SZKMCUSTCIAP15W25S35XS16 > MCU_STC : IAP15W205S-35x-SOP16](#szkmcustciap15w25s35xs16--mcu_stc--iap15w205s-35x-sop16)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -19,18 +17,6 @@ Contents
 - Description: MCU_STC : IAP15W205S-35x-SOP16
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_STC-IAP15W205S-35x-SOP16](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_STC-IAP15W205S-35x-SOP16)
 - Short Link: [http://oom.lt/SZKMCUSTCIAP15W25S35XS16](http://oom.lt/SZKMCUSTCIAP15W25S35XS16)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117MCU_STC+:+IAP15W205S-35x-SOP16)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/MCU_STC+:+IAP15W205S-35x-SOP16)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=MCU_STC+:+IAP15W205S-35x-SOP16)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=MCU_STC+:+IAP15W205S-35x-SOP16)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=MCU_STC+:+IAP15W205S-35x-SOP16)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=MCU_STC+:+IAP15W205S-35x-SOP16)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_STC/IAP15W205S-35x-SOP16/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_STC/IAP15W205S-35x-SOP16/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_STC/IAP15W205S-35x-SOP16/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_STC/IAP15W205S-35x-SOP16/image.png)|||

@@ -6,8 +6,6 @@ Contents
 ========
 
 * [SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSBUTA6XSMS1B6S > oomlout_OOMP_parts : BUTA-06-X-SMDS-01-B06S](#szkicadoomloutoompkicadoomloutoomppartsbuta6xsms1b6s--oomlout_oomp_parts--buta-06-x-smds-01-b06s)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -19,18 +17,6 @@ NO IMAGE
 - Description: oomlout_OOMP_parts : BUTA-06-X-SMDS-01-B06S
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-BUTA-06-X-SMDS-01-B06S](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-BUTA-06-X-SMDS-01-B06S)
 - Short Link: [http://oom.lt/SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSBUTA6XSMS1B6S](http://oom.lt/SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSBUTA6XSMS1B6S)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117oomlout_OOMP_parts+:+BUTA-06-X-SMDS-01-B06S)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/oomlout_OOMP_parts+:+BUTA-06-X-SMDS-01-B06S)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=oomlout_OOMP_parts+:+BUTA-06-X-SMDS-01-B06S)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=oomlout_OOMP_parts+:+BUTA-06-X-SMDS-01-B06S)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=oomlout_OOMP_parts+:+BUTA-06-X-SMDS-01-B06S)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=oomlout_OOMP_parts+:+BUTA-06-X-SMDS-01-B06S)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 NO IMAGES  
 ## Tags

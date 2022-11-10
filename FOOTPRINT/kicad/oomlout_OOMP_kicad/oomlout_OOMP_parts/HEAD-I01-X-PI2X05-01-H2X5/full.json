@@ -46,6 +46,9 @@
         "kicadFootprint": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/HEAD-I01-X-PI2X05-01-H2X5/footprint.kicad_mod"
         ],
+        "mpnList": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/HEAD-I01-X-PI2X05-01-H2X5/MPNLIST.md"
+        ],
         "readme": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/HEAD-I01-X-PI2X05-01-H2X5/README.md"
         ]

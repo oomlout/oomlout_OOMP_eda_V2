@@ -6,8 +6,6 @@ Contents
 ========
 
 * [SZKMCUNXPS8MC9S8DV32XLH > MCU_NXP_S08 : MC9S08DV32xLH](#szkmcunxps8mc9s8dv32xlh--mcu_nxp_s08--mc9s08dv32xlh)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -19,18 +17,6 @@ Contents
 - Description: MCU_NXP_S08 : MC9S08DV32xLH
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_NXP_S08-MC9S08DV32xLH](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_NXP_S08-MC9S08DV32xLH)
 - Short Link: [http://oom.lt/SZKMCUNXPS8MC9S8DV32XLH](http://oom.lt/SZKMCUNXPS8MC9S8DV32XLH)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117MCU_NXP_S08+:+MC9S08DV32xLH)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/MCU_NXP_S08+:+MC9S08DV32xLH)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=MCU_NXP_S08+:+MC9S08DV32xLH)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=MCU_NXP_S08+:+MC9S08DV32xLH)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=MCU_NXP_S08+:+MC9S08DV32xLH)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=MCU_NXP_S08+:+MC9S08DV32xLH)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_NXP_S08/MC9S08DV32xLH/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_NXP_S08/MC9S08DV32xLH/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_NXP_S08/MC9S08DV32xLH/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_NXP_S08/MC9S08DV32xLH/image.png)|||

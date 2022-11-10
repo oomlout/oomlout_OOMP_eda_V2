@@ -6,8 +6,6 @@ Contents
 ========
 
 * [SZKRFZIGBEECC252 > RF_ZigBee : CC2520](#szkrfzigbeecc252--rf_zigbee--cc2520)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -19,18 +17,6 @@ NO IMAGE
 - Description: RF_ZigBee : CC2520
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_ZigBee-CC2520](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_ZigBee-CC2520)
 - Short Link: [http://oom.lt/SZKRFZIGBEECC252](http://oom.lt/SZKRFZIGBEECC252)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117RF_ZigBee+:+CC2520)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/RF_ZigBee+:+CC2520)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=RF_ZigBee+:+CC2520)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=RF_ZigBee+:+CC2520)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=RF_ZigBee+:+CC2520)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=RF_ZigBee+:+CC2520)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 NO IMAGES  
 ## Tags

@@ -6,8 +6,6 @@ Contents
 ========
 
 * [SZKTRIACTHYRISTORBTA168CW > Triac_Thyristor : BTA16-800CW](#szktriacthyristorbta168cw--triac_thyristor--bta16-800cw)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -19,18 +17,6 @@ Contents
 - Description: Triac_Thyristor : BTA16-800CW
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Triac_Thyristor-BTA16-800CW](http://oom.lt/SYMBOL-kicad-kicad-symbols-Triac_Thyristor-BTA16-800CW)
 - Short Link: [http://oom.lt/SZKTRIACTHYRISTORBTA168CW](http://oom.lt/SZKTRIACTHYRISTORBTA168CW)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Triac_Thyristor+:+BTA16-800CW)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Triac_Thyristor+:+BTA16-800CW)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Triac_Thyristor+:+BTA16-800CW)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Triac_Thyristor+:+BTA16-800CW)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Triac_Thyristor+:+BTA16-800CW)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Triac_Thyristor+:+BTA16-800CW)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Triac_Thyristor/BTA16-800CW/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Triac_Thyristor/BTA16-800CW/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Triac_Thyristor/BTA16-800CW/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Triac_Thyristor/BTA16-800CW/image.png)|||

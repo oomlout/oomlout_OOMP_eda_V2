@@ -6,8 +6,6 @@ Contents
 ========
 
 * [SZKPOWERMANAGEMENTBTS5551TMA > Power_Management : BTS50055-1TMA](#szkpowermanagementbts5551tma--power_management--bts50055-1tma)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -19,18 +17,6 @@ Contents
 - Description: Power_Management : BTS50055-1TMA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-BTS50055-1TMA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-BTS50055-1TMA)
 - Short Link: [http://oom.lt/SZKPOWERMANAGEMENTBTS5551TMA](http://oom.lt/SZKPOWERMANAGEMENTBTS5551TMA)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Power_Management+:+BTS50055-1TMA)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Power_Management+:+BTS50055-1TMA)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Power_Management+:+BTS50055-1TMA)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Power_Management+:+BTS50055-1TMA)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Power_Management+:+BTS50055-1TMA)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Power_Management+:+BTS50055-1TMA)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Power_Management/BTS50055-1TMA/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Power_Management/BTS50055-1TMA/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Power_Management/BTS50055-1TMA/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Power_Management/BTS50055-1TMA/image.png)|||

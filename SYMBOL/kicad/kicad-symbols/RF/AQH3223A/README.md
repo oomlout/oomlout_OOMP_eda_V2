@@ -6,8 +6,6 @@ Contents
 ========
 
 * [SZKRFAQH3223A > RF : AQH3223A](#szkrfaqh3223a--rf--aqh3223a)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -19,18 +17,6 @@ NO IMAGE
 - Description: RF : AQH3223A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF-AQH3223A](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF-AQH3223A)
 - Short Link: [http://oom.lt/SZKRFAQH3223A](http://oom.lt/SZKRFAQH3223A)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117RF+:+AQH3223A)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/RF+:+AQH3223A)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=RF+:+AQH3223A)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=RF+:+AQH3223A)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=RF+:+AQH3223A)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=RF+:+AQH3223A)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 NO IMAGES  
 ## Tags

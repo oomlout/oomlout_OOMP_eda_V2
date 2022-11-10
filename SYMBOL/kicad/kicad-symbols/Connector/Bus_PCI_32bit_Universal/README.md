@@ -6,8 +6,6 @@ Contents
 ========
 
 * [SZKCNBUSPCI32BITUNIVERSAL > Connector : Bus_PCI_32bit_Universal](#szkcnbuspci32bituniversal--connector--bus_pci_32bit_universal)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -19,18 +17,6 @@ Contents
 - Description: Connector : Bus_PCI_32bit_Universal
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-Bus_PCI_32bit_Universal](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-Bus_PCI_32bit_Universal)
 - Short Link: [http://oom.lt/SZKCNBUSPCI32BITUNIVERSAL](http://oom.lt/SZKCNBUSPCI32BITUNIVERSAL)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Connector+:+Bus_PCI_32bit_Universal)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Connector+:+Bus_PCI_32bit_Universal)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Connector+:+Bus_PCI_32bit_Universal)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Connector+:+Bus_PCI_32bit_Universal)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Connector+:+Bus_PCI_32bit_Universal)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Connector+:+Bus_PCI_32bit_Universal)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/Bus_PCI_32bit_Universal/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Bus_PCI_32bit_Universal/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/Bus_PCI_32bit_Universal/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Bus_PCI_32bit_Universal/image.png)|||

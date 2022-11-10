@@ -46,6 +46,9 @@
         "kicadFootprint": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_CSP/LFCSP-6-1EP_2x2mm_P0.65mm_EP1x1.6mm/footprint.kicad_mod"
         ],
+        "mpnList": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_CSP/LFCSP-6-1EP_2x2mm_P0.65mm_EP1x1.6mm/MPNLIST.md"
+        ],
         "readme": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_CSP/LFCSP-6-1EP_2x2mm_P0.65mm_EP1x1.6mm/README.md"
         ]

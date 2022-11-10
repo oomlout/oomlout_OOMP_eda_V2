@@ -6,8 +6,6 @@ Contents
 ========
 
 * [SZKCNMSEMIFLASHPROJTAG1 > Connector : Microsemi_FlashPro-JTAG-10](#szkcnmsemiflashprojtag1--connector--microsemi_flashpro-jtag-10)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -19,18 +17,6 @@ Contents
 - Description: Connector : Microsemi_FlashPro-JTAG-10
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-Microsemi_FlashPro-JTAG-10](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-Microsemi_FlashPro-JTAG-10)
 - Short Link: [http://oom.lt/SZKCNMSEMIFLASHPROJTAG1](http://oom.lt/SZKCNMSEMIFLASHPROJTAG1)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Connector+:+Microsemi_FlashPro-JTAG-10)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Connector+:+Microsemi_FlashPro-JTAG-10)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Connector+:+Microsemi_FlashPro-JTAG-10)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Connector+:+Microsemi_FlashPro-JTAG-10)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Connector+:+Microsemi_FlashPro-JTAG-10)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Connector+:+Microsemi_FlashPro-JTAG-10)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/Microsemi_FlashPro-JTAG-10/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Microsemi_FlashPro-JTAG-10/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/Microsemi_FlashPro-JTAG-10/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Microsemi_FlashPro-JTAG-10/image.png)|||

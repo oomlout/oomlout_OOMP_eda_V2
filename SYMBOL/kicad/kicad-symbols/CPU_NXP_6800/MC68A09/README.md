@@ -6,8 +6,6 @@ Contents
 ========
 
 * [SZKCPUNXP68MC68A9 > CPU_NXP_6800 : MC68A09](#szkcpunxp68mc68a9--cpu_nxp_6800--mc68a09)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -19,18 +17,6 @@ Contents
 - Description: CPU_NXP_6800 : MC68A09
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-CPU_NXP_6800-MC68A09](http://oom.lt/SYMBOL-kicad-kicad-symbols-CPU_NXP_6800-MC68A09)
 - Short Link: [http://oom.lt/SZKCPUNXP68MC68A9](http://oom.lt/SZKCPUNXP68MC68A9)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117CPU_NXP_6800+:+MC68A09)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/CPU_NXP_6800+:+MC68A09)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=CPU_NXP_6800+:+MC68A09)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=CPU_NXP_6800+:+MC68A09)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=CPU_NXP_6800+:+MC68A09)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=CPU_NXP_6800+:+MC68A09)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/CPU_NXP_6800/MC68A09/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/CPU_NXP_6800/MC68A09/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/CPU_NXP_6800/MC68A09/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/CPU_NXP_6800/MC68A09/image.png)|||

@@ -6,8 +6,6 @@ Contents
 ========
 
 * [FZKTRTRTOROIDHORIZONTALD15AMIDONT37 > Transformer_THT : Transformer_Toroid_Horizontal_D10.5mm_Amidon-T37](#fzktrtrtoroidhorizontald15amidont37--transformer_tht--transformer_toroid_horizontal_d105mm_amidon-t37)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -19,18 +17,6 @@ Contents
 - Description: Transformer_THT : Transformer_Toroid_Horizontal_D10.5mm_Amidon-T37
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Transformer_THT-Transformer_Toroid_Horizontal_D10.5mm_Amidon-T37](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Transformer_THT-Transformer_Toroid_Horizontal_D10.5mm_Amidon-T37)
 - Short Link: [http://oom.lt/FZKTRTRTOROIDHORIZONTALD15AMIDONT37](http://oom.lt/FZKTRTRTOROIDHORIZONTALD15AMIDONT37)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Transformer_THT+:+Transformer_Toroid_Horizontal_D10.5mm_Amidon-T37)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Transformer_THT+:+Transformer_Toroid_Horizontal_D10.5mm_Amidon-T37)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Transformer_THT+:+Transformer_Toroid_Horizontal_D10.5mm_Amidon-T37)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Transformer_THT+:+Transformer_Toroid_Horizontal_D10.5mm_Amidon-T37)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Transformer_THT+:+Transformer_Toroid_Horizontal_D10.5mm_Amidon-T37)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Transformer_THT+:+Transformer_Toroid_Horizontal_D10.5mm_Amidon-T37)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Transformer_THT/Transformer_Toroid_Horizontal_D10.5mm_Amidon-T37/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Transformer_THT/Transformer_Toroid_Horizontal_D10.5mm_Amidon-T37/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Transformer_THT/Transformer_Toroid_Horizontal_D10.5mm_Amidon-T37/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Transformer_THT/Transformer_Toroid_Horizontal_D10.5mm_Amidon-T37/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Transformer_THT/Transformer_Toroid_Horizontal_D10.5mm_Amidon-T37/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Transformer_THT/Transformer_Toroid_Horizontal_D10.5mm_Amidon-T37/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Transformer_THT/Transformer_Toroid_Horizontal_D10.5mm_Amidon-T37/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Transformer_THT/Transformer_Toroid_Horizontal_D10.5mm_Amidon-T37/kicadPcb3dBack.png)|

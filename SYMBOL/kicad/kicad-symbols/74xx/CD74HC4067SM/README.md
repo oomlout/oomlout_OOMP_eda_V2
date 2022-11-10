@@ -6,8 +6,6 @@ Contents
 ========
 
 * [SZK74XXCD74HC467SM > 74xx : CD74HC4067SM](#szk74xxcd74hc467sm--74xx--cd74hc4067sm)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -19,18 +17,6 @@ Contents
 - Description: 74xx : CD74HC4067SM
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-74xx-CD74HC4067SM](http://oom.lt/SYMBOL-kicad-kicad-symbols-74xx-CD74HC4067SM)
 - Short Link: [http://oom.lt/SZK74XXCD74HC467SM](http://oom.lt/SZK74XXCD74HC467SM)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=111774xx+:+CD74HC4067SM)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/74xx+:+CD74HC4067SM)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=74xx+:+CD74HC4067SM)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=74xx+:+CD74HC4067SM)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=74xx+:+CD74HC4067SM)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=74xx+:+CD74HC4067SM)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/74xx/CD74HC4067SM/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/74xx/CD74HC4067SM/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/74xx/CD74HC4067SM/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/74xx/CD74HC4067SM/image.png)|||

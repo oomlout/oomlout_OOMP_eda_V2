@@ -6,8 +6,6 @@ Contents
 ========
 
 * [SZKCOMPARATORLTC6752XMS82 > Comparator : LTC6752xMS8-2](#szkcomparatorltc6752xms82--comparator--ltc6752xms8-2)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -19,18 +17,6 @@ Contents
 - Description: Comparator : LTC6752xMS8-2
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Comparator-LTC6752xMS8-2](http://oom.lt/SYMBOL-kicad-kicad-symbols-Comparator-LTC6752xMS8-2)
 - Short Link: [http://oom.lt/SZKCOMPARATORLTC6752XMS82](http://oom.lt/SZKCOMPARATORLTC6752XMS82)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Comparator+:+LTC6752xMS8-2)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Comparator+:+LTC6752xMS8-2)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Comparator+:+LTC6752xMS8-2)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Comparator+:+LTC6752xMS8-2)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Comparator+:+LTC6752xMS8-2)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Comparator+:+LTC6752xMS8-2)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Comparator/LTC6752xMS8-2/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Comparator/LTC6752xMS8-2/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Comparator/LTC6752xMS8-2/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Comparator/LTC6752xMS8-2/image.png)|||

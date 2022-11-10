@@ -6,8 +6,6 @@ Contents
 ========
 
 * [SZKAUDIOAS333F > Audio : AS3330F](#szkaudioas333f--audio--as3330f)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -19,18 +17,6 @@ Contents
 - Description: Audio : AS3330F
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Audio-AS3330F](http://oom.lt/SYMBOL-kicad-kicad-symbols-Audio-AS3330F)
 - Short Link: [http://oom.lt/SZKAUDIOAS333F](http://oom.lt/SZKAUDIOAS333F)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Audio+:+AS3330F)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Audio+:+AS3330F)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Audio+:+AS3330F)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Audio+:+AS3330F)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Audio+:+AS3330F)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Audio+:+AS3330F)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Audio/AS3330F/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Audio/AS3330F/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Audio/AS3330F/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Audio/AS3330F/image.png)|||

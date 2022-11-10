@@ -36,6 +36,9 @@
         "jsonFull": [
             "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/FPGA_Lattice/LFE5U-85F-8BG381x/full.json"
         ],
+        "mpnList": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/FPGA_Lattice/LFE5U-85F-8BG381x/MPNLIST.md"
+        ],
         "readme": [
             "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/FPGA_Lattice/LFE5U-85F-8BG381x/README.md"
         ]

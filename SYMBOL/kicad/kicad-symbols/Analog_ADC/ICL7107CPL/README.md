@@ -6,8 +6,6 @@ Contents
 ========
 
 * [SZKANALOGADCICL717CPL > Analog_ADC : ICL7107CPL](#szkanalogadcicl717cpl--analog_adc--icl7107cpl)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -19,18 +17,6 @@ Contents
 - Description: Analog_ADC : ICL7107CPL
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-ICL7107CPL](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-ICL7107CPL)
 - Short Link: [http://oom.lt/SZKANALOGADCICL717CPL](http://oom.lt/SZKANALOGADCICL717CPL)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Analog_ADC+:+ICL7107CPL)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Analog_ADC+:+ICL7107CPL)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Analog_ADC+:+ICL7107CPL)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Analog_ADC+:+ICL7107CPL)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Analog_ADC+:+ICL7107CPL)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Analog_ADC+:+ICL7107CPL)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Analog_ADC/ICL7107CPL/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Analog_ADC/ICL7107CPL/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Analog_ADC/ICL7107CPL/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Analog_ADC/ICL7107CPL/image.png)|||

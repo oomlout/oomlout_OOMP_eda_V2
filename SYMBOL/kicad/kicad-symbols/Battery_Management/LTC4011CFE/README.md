@@ -6,8 +6,6 @@ Contents
 ========
 
 * [SZKBATMANAGEMENTLTC411CFE > Battery_Management : LTC4011CFE](#szkbatmanagementltc411cfe--battery_management--ltc4011cfe)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -19,18 +17,6 @@ Contents
 - Description: Battery_Management : LTC4011CFE
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Battery_Management-LTC4011CFE](http://oom.lt/SYMBOL-kicad-kicad-symbols-Battery_Management-LTC4011CFE)
 - Short Link: [http://oom.lt/SZKBATMANAGEMENTLTC411CFE](http://oom.lt/SZKBATMANAGEMENTLTC411CFE)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Battery_Management+:+LTC4011CFE)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Battery_Management+:+LTC4011CFE)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Battery_Management+:+LTC4011CFE)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Battery_Management+:+LTC4011CFE)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Battery_Management+:+LTC4011CFE)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Battery_Management+:+LTC4011CFE)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Battery_Management/LTC4011CFE/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Battery_Management/LTC4011CFE/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Battery_Management/LTC4011CFE/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Battery_Management/LTC4011CFE/image.png)|||

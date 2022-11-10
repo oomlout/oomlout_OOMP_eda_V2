@@ -57,6 +57,9 @@
         "kicadPcb3dFront": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Symbol/KiCad-Logo2_20mm_Copper/kicadPcb3dFront.png"
         ],
+        "mpnList": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Symbol/KiCad-Logo2_20mm_Copper/MPNLIST.md"
+        ],
         "readme": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Symbol/KiCad-Logo2_20mm_Copper/README.md"
         ]

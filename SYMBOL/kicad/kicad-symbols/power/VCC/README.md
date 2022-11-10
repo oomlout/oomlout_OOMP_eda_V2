@@ -6,8 +6,6 @@ Contents
 ========
 
 * [SZKPOWERVCC > power : VCC](#szkpowervcc--power--vcc)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -19,18 +17,6 @@ Contents
 - Description: power : VCC
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-power-VCC](http://oom.lt/SYMBOL-kicad-kicad-symbols-power-VCC)
 - Short Link: [http://oom.lt/SZKPOWERVCC](http://oom.lt/SZKPOWERVCC)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117power+:+VCC)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/power+:+VCC)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=power+:+VCC)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=power+:+VCC)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=power+:+VCC)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=power+:+VCC)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/power/VCC/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/power/VCC/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/power/VCC/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/power/VCC/image.png)|||

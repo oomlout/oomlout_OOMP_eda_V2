@@ -57,6 +57,9 @@
         "kicadPcb3dFront": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Symbol/Symbol_CreativeCommonsPublicDomain_SilkScreenTop_Small/kicadPcb3dFront.png"
         ],
+        "mpnList": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Symbol/Symbol_CreativeCommonsPublicDomain_SilkScreenTop_Small/MPNLIST.md"
+        ],
         "readme": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Symbol/Symbol_CreativeCommonsPublicDomain_SilkScreenTop_Small/README.md"
         ]

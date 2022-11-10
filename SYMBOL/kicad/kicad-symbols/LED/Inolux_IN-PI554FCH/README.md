@@ -6,8 +6,6 @@ Contents
 ========
 
 * [SZKLINOLUXINPI554FCH > LED : Inolux_IN-PI554FCH](#szklinoluxinpi554fch--led--inolux_in-pi554fch)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -19,18 +17,6 @@ Contents
 - Description: LED : Inolux_IN-PI554FCH
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-LED-Inolux_IN-PI554FCH](http://oom.lt/SYMBOL-kicad-kicad-symbols-LED-Inolux_IN-PI554FCH)
 - Short Link: [http://oom.lt/SZKLINOLUXINPI554FCH](http://oom.lt/SZKLINOLUXINPI554FCH)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117LED+:+Inolux_IN-PI554FCH)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/LED+:+Inolux_IN-PI554FCH)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=LED+:+Inolux_IN-PI554FCH)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=LED+:+Inolux_IN-PI554FCH)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=LED+:+Inolux_IN-PI554FCH)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=LED+:+Inolux_IN-PI554FCH)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/LED/Inolux_IN-PI554FCH/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/LED/Inolux_IN-PI554FCH/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/LED/Inolux_IN-PI554FCH/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/LED/Inolux_IN-PI554FCH/image.png)|||

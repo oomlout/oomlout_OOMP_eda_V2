@@ -6,8 +6,6 @@ Contents
 ========
 
 * [SZKCNCONNCOAXIALPOWER > Connector : Conn_Coaxial_Power](#szkcnconncoaxialpower--connector--conn_coaxial_power)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -19,18 +17,6 @@ Contents
 - Description: Connector : Conn_Coaxial_Power
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-Conn_Coaxial_Power](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-Conn_Coaxial_Power)
 - Short Link: [http://oom.lt/SZKCNCONNCOAXIALPOWER](http://oom.lt/SZKCNCONNCOAXIALPOWER)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Connector+:+Conn_Coaxial_Power)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Connector+:+Conn_Coaxial_Power)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Connector+:+Conn_Coaxial_Power)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Connector+:+Conn_Coaxial_Power)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Connector+:+Conn_Coaxial_Power)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Connector+:+Conn_Coaxial_Power)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_Coaxial_Power/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_Coaxial_Power/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_Coaxial_Power/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_Coaxial_Power/image.png)|||

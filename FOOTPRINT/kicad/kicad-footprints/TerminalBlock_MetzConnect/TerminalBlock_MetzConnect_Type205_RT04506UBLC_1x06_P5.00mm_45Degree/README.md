@@ -6,8 +6,6 @@ Contents
 ========
 
 * [FZKTBMETZCONNECTTBMETZCONNECTTYPE25RT456UBLC1X6P545DEGREE > TerminalBlock_MetzConnect : TerminalBlock_MetzConnect_Type205_RT04506UBLC_1x06_P5.00mm_45Degree](#fzktbmetzconnecttbmetzconnecttype25rt456ublc1x6p545degree--terminalblock_metzconnect--terminalblock_metzconnect_type205_rt04506ublc_1x06_p500mm_45degree)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -19,18 +17,6 @@ Contents
 - Description: TerminalBlock_MetzConnect : TerminalBlock_MetzConnect_Type205_RT04506UBLC_1x06_P5.00mm_45Degree
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-TerminalBlock_MetzConnect-TerminalBlock_MetzConnect_Type205_RT04506UBLC_1x06_P5.00mm_45Degree](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-TerminalBlock_MetzConnect-TerminalBlock_MetzConnect_Type205_RT04506UBLC_1x06_P5.00mm_45Degree)
 - Short Link: [http://oom.lt/FZKTBMETZCONNECTTBMETZCONNECTTYPE25RT456UBLC1X6P545DEGREE](http://oom.lt/FZKTBMETZCONNECTTBMETZCONNECTTYPE25RT456UBLC1X6P545DEGREE)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117TerminalBlock_MetzConnect+:+TerminalBlock_MetzConnect_Type205_RT04506UBLC_1x06_P5.00mm_45Degree)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/TerminalBlock_MetzConnect+:+TerminalBlock_MetzConnect_Type205_RT04506UBLC_1x06_P5.00mm_45Degree)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=TerminalBlock_MetzConnect+:+TerminalBlock_MetzConnect_Type205_RT04506UBLC_1x06_P5.00mm_45Degree)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=TerminalBlock_MetzConnect+:+TerminalBlock_MetzConnect_Type205_RT04506UBLC_1x06_P5.00mm_45Degree)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=TerminalBlock_MetzConnect+:+TerminalBlock_MetzConnect_Type205_RT04506UBLC_1x06_P5.00mm_45Degree)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=TerminalBlock_MetzConnect+:+TerminalBlock_MetzConnect_Type205_RT04506UBLC_1x06_P5.00mm_45Degree)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/TerminalBlock_MetzConnect/TerminalBlock_MetzConnect_Type205_RT04506UBLC_1x06_P5.00mm_45Degree/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/TerminalBlock_MetzConnect/TerminalBlock_MetzConnect_Type205_RT04506UBLC_1x06_P5.00mm_45Degree/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/TerminalBlock_MetzConnect/TerminalBlock_MetzConnect_Type205_RT04506UBLC_1x06_P5.00mm_45Degree/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/TerminalBlock_MetzConnect/TerminalBlock_MetzConnect_Type205_RT04506UBLC_1x06_P5.00mm_45Degree/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/TerminalBlock_MetzConnect/TerminalBlock_MetzConnect_Type205_RT04506UBLC_1x06_P5.00mm_45Degree/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/TerminalBlock_MetzConnect/TerminalBlock_MetzConnect_Type205_RT04506UBLC_1x06_P5.00mm_45Degree/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/TerminalBlock_MetzConnect/TerminalBlock_MetzConnect_Type205_RT04506UBLC_1x06_P5.00mm_45Degree/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/TerminalBlock_MetzConnect/TerminalBlock_MetzConnect_Type205_RT04506UBLC_1x06_P5.00mm_45Degree/kicadPcb3dBack.png)|

@@ -6,8 +6,6 @@ Contents
 ========
 
 * [FZKTBDINKLETBDINKLEDT55B1X18P1 > TerminalBlock_Dinkle : TerminalBlock_Dinkle_DT-55-B01X-18_P10.00mm](#fzktbdinkletbdinkledt55b1x18p1--terminalblock_dinkle--terminalblock_dinkle_dt-55-b01x-18_p1000mm)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -19,18 +17,6 @@ Contents
 - Description: TerminalBlock_Dinkle : TerminalBlock_Dinkle_DT-55-B01X-18_P10.00mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-TerminalBlock_Dinkle-TerminalBlock_Dinkle_DT-55-B01X-18_P10.00mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-TerminalBlock_Dinkle-TerminalBlock_Dinkle_DT-55-B01X-18_P10.00mm)
 - Short Link: [http://oom.lt/FZKTBDINKLETBDINKLEDT55B1X18P1](http://oom.lt/FZKTBDINKLETBDINKLEDT55B1X18P1)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117TerminalBlock_Dinkle+:+TerminalBlock_Dinkle_DT-55-B01X-18_P10.00mm)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/TerminalBlock_Dinkle+:+TerminalBlock_Dinkle_DT-55-B01X-18_P10.00mm)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=TerminalBlock_Dinkle+:+TerminalBlock_Dinkle_DT-55-B01X-18_P10.00mm)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=TerminalBlock_Dinkle+:+TerminalBlock_Dinkle_DT-55-B01X-18_P10.00mm)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=TerminalBlock_Dinkle+:+TerminalBlock_Dinkle_DT-55-B01X-18_P10.00mm)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=TerminalBlock_Dinkle+:+TerminalBlock_Dinkle_DT-55-B01X-18_P10.00mm)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/TerminalBlock_Dinkle/TerminalBlock_Dinkle_DT-55-B01X-18_P10.00mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/TerminalBlock_Dinkle/TerminalBlock_Dinkle_DT-55-B01X-18_P10.00mm/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/TerminalBlock_Dinkle/TerminalBlock_Dinkle_DT-55-B01X-18_P10.00mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/TerminalBlock_Dinkle/TerminalBlock_Dinkle_DT-55-B01X-18_P10.00mm/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/TerminalBlock_Dinkle/TerminalBlock_Dinkle_DT-55-B01X-18_P10.00mm/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/TerminalBlock_Dinkle/TerminalBlock_Dinkle_DT-55-B01X-18_P10.00mm/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/TerminalBlock_Dinkle/TerminalBlock_Dinkle_DT-55-B01X-18_P10.00mm/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/TerminalBlock_Dinkle/TerminalBlock_Dinkle_DT-55-B01X-18_P10.00mm/kicadPcb3dBack.png)|

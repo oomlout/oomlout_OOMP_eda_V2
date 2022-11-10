@@ -6,8 +6,6 @@ Contents
 ========
 
 * [SZKAMPLIFIERINSTRUMENTATIONAD8421BRZ > Amplifier_Instrumentation : AD8421BRZ](#szkamplifierinstrumentationad8421brz--amplifier_instrumentation--ad8421brz)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -19,18 +17,6 @@ Contents
 - Description: Amplifier_Instrumentation : AD8421BRZ
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Instrumentation-AD8421BRZ](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Instrumentation-AD8421BRZ)
 - Short Link: [http://oom.lt/SZKAMPLIFIERINSTRUMENTATIONAD8421BRZ](http://oom.lt/SZKAMPLIFIERINSTRUMENTATIONAD8421BRZ)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Amplifier_Instrumentation+:+AD8421BRZ)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Amplifier_Instrumentation+:+AD8421BRZ)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Amplifier_Instrumentation+:+AD8421BRZ)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Amplifier_Instrumentation+:+AD8421BRZ)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Amplifier_Instrumentation+:+AD8421BRZ)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Amplifier_Instrumentation+:+AD8421BRZ)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Amplifier_Instrumentation/AD8421BRZ/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Amplifier_Instrumentation/AD8421BRZ/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Amplifier_Instrumentation/AD8421BRZ/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Amplifier_Instrumentation/AD8421BRZ/image.png)|||

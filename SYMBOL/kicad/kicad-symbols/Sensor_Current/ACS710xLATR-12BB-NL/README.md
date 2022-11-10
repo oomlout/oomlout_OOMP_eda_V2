@@ -6,8 +6,6 @@ Contents
 ========
 
 * [SZKSENCURRENTACS71XLATR12BBNL > Sensor_Current : ACS710xLATR-12BB-NL](#szksencurrentacs71xlatr12bbnl--sensor_current--acs710xlatr-12bb-nl)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -19,18 +17,6 @@ Contents
 - Description: Sensor_Current : ACS710xLATR-12BB-NL
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-ACS710xLATR-12BB-NL](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-ACS710xLATR-12BB-NL)
 - Short Link: [http://oom.lt/SZKSENCURRENTACS71XLATR12BBNL](http://oom.lt/SZKSENCURRENTACS71XLATR12BBNL)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Sensor_Current+:+ACS710xLATR-12BB-NL)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Sensor_Current+:+ACS710xLATR-12BB-NL)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Sensor_Current+:+ACS710xLATR-12BB-NL)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Sensor_Current+:+ACS710xLATR-12BB-NL)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Sensor_Current+:+ACS710xLATR-12BB-NL)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Sensor_Current+:+ACS710xLATR-12BB-NL)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Current/ACS710xLATR-12BB-NL/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Current/ACS710xLATR-12BB-NL/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Current/ACS710xLATR-12BB-NL/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Current/ACS710xLATR-12BB-NL/image.png)|||

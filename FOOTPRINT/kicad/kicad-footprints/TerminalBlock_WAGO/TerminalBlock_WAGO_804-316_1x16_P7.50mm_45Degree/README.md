@@ -6,8 +6,6 @@ Contents
 ========
 
 * [FZKTBWAGOTBWAGO843161X16P7545DEGREE > TerminalBlock_WAGO : TerminalBlock_WAGO_804-316_1x16_P7.50mm_45Degree](#fzktbwagotbwago843161x16p7545degree--terminalblock_wago--terminalblock_wago_804-316_1x16_p750mm_45degree)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -19,18 +17,6 @@ Contents
 - Description: TerminalBlock_WAGO : TerminalBlock_WAGO_804-316_1x16_P7.50mm_45Degree
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-TerminalBlock_WAGO-TerminalBlock_WAGO_804-316_1x16_P7.50mm_45Degree](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-TerminalBlock_WAGO-TerminalBlock_WAGO_804-316_1x16_P7.50mm_45Degree)
 - Short Link: [http://oom.lt/FZKTBWAGOTBWAGO843161X16P7545DEGREE](http://oom.lt/FZKTBWAGOTBWAGO843161X16P7545DEGREE)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117TerminalBlock_WAGO+:+TerminalBlock_WAGO_804-316_1x16_P7.50mm_45Degree)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/TerminalBlock_WAGO+:+TerminalBlock_WAGO_804-316_1x16_P7.50mm_45Degree)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=TerminalBlock_WAGO+:+TerminalBlock_WAGO_804-316_1x16_P7.50mm_45Degree)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=TerminalBlock_WAGO+:+TerminalBlock_WAGO_804-316_1x16_P7.50mm_45Degree)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=TerminalBlock_WAGO+:+TerminalBlock_WAGO_804-316_1x16_P7.50mm_45Degree)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=TerminalBlock_WAGO+:+TerminalBlock_WAGO_804-316_1x16_P7.50mm_45Degree)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/TerminalBlock_WAGO/TerminalBlock_WAGO_804-316_1x16_P7.50mm_45Degree/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/TerminalBlock_WAGO/TerminalBlock_WAGO_804-316_1x16_P7.50mm_45Degree/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/TerminalBlock_WAGO/TerminalBlock_WAGO_804-316_1x16_P7.50mm_45Degree/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/TerminalBlock_WAGO/TerminalBlock_WAGO_804-316_1x16_P7.50mm_45Degree/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/TerminalBlock_WAGO/TerminalBlock_WAGO_804-316_1x16_P7.50mm_45Degree/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/TerminalBlock_WAGO/TerminalBlock_WAGO_804-316_1x16_P7.50mm_45Degree/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/TerminalBlock_WAGO/TerminalBlock_WAGO_804-316_1x16_P7.50mm_45Degree/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/TerminalBlock_WAGO/TerminalBlock_WAGO_804-316_1x16_P7.50mm_45Degree/kicadPcb3dBack.png)|

@@ -6,8 +6,6 @@ Contents
 ========
 
 * [SZKMCUTEXASLM4F111E5QR > MCU_Texas : LM4F111E5QR](#szkmcutexaslm4f111e5qr--mcu_texas--lm4f111e5qr)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -19,18 +17,6 @@ Contents
 - Description: MCU_Texas : LM4F111E5QR
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Texas-LM4F111E5QR](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Texas-LM4F111E5QR)
 - Short Link: [http://oom.lt/SZKMCUTEXASLM4F111E5QR](http://oom.lt/SZKMCUTEXASLM4F111E5QR)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117MCU_Texas+:+LM4F111E5QR)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/MCU_Texas+:+LM4F111E5QR)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=MCU_Texas+:+LM4F111E5QR)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=MCU_Texas+:+LM4F111E5QR)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=MCU_Texas+:+LM4F111E5QR)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=MCU_Texas+:+LM4F111E5QR)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Texas/LM4F111E5QR/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Texas/LM4F111E5QR/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Texas/LM4F111E5QR/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Texas/LM4F111E5QR/image.png)|||

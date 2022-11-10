@@ -36,6 +36,9 @@
         "jsonFull": [
             "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector_Generic_MountingPin/Conn_02x38_Top_Bottom_MountingPin/full.json"
         ],
+        "mpnList": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector_Generic_MountingPin/Conn_02x38_Top_Bottom_MountingPin/MPNLIST.md"
+        ],
         "readme": [
             "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector_Generic_MountingPin/Conn_02x38_Top_Bottom_MountingPin/README.md"
         ]

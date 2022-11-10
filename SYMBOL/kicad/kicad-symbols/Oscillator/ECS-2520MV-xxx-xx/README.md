@@ -6,8 +6,6 @@ Contents
 ========
 
 * [SZKOCSECS252MVXXXXX > Oscillator : ECS-2520MV-xxx-xx](#szkocsecs252mvxxxxx--oscillator--ecs-2520mv-xxx-xx)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -19,18 +17,6 @@ Contents
 - Description: Oscillator : ECS-2520MV-xxx-xx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Oscillator-ECS-2520MV-xxx-xx](http://oom.lt/SYMBOL-kicad-kicad-symbols-Oscillator-ECS-2520MV-xxx-xx)
 - Short Link: [http://oom.lt/SZKOCSECS252MVXXXXX](http://oom.lt/SZKOCSECS252MVXXXXX)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Oscillator+:+ECS-2520MV-xxx-xx)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Oscillator+:+ECS-2520MV-xxx-xx)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Oscillator+:+ECS-2520MV-xxx-xx)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Oscillator+:+ECS-2520MV-xxx-xx)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Oscillator+:+ECS-2520MV-xxx-xx)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Oscillator+:+ECS-2520MV-xxx-xx)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Oscillator/ECS-2520MV-xxx-xx/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Oscillator/ECS-2520MV-xxx-xx/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Oscillator/ECS-2520MV-xxx-xx/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Oscillator/ECS-2520MV-xxx-xx/image.png)|||

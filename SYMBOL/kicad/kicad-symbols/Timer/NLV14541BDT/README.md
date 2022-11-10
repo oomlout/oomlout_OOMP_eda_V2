@@ -6,8 +6,6 @@ Contents
 ========
 
 * [SZKTIMERNLV14541BDT > Timer : NLV14541BDT](#szktimernlv14541bdt--timer--nlv14541bdt)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -19,18 +17,6 @@ NO IMAGE
 - Description: Timer : NLV14541BDT
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Timer-NLV14541BDT](http://oom.lt/SYMBOL-kicad-kicad-symbols-Timer-NLV14541BDT)
 - Short Link: [http://oom.lt/SZKTIMERNLV14541BDT](http://oom.lt/SZKTIMERNLV14541BDT)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Timer+:+NLV14541BDT)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Timer+:+NLV14541BDT)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Timer+:+NLV14541BDT)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Timer+:+NLV14541BDT)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Timer+:+NLV14541BDT)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Timer+:+NLV14541BDT)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 NO IMAGES  
 ## Tags

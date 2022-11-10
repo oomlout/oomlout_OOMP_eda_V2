@@ -6,8 +6,6 @@ Contents
 ========
 
 * [SZKDICHARACTERHDSP787 > Display_Character : HDSP-7807](#szkdicharacterhdsp787--display_character--hdsp-7807)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -19,18 +17,6 @@ Contents
 - Description: Display_Character : HDSP-7807
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-HDSP-7807](http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-HDSP-7807)
 - Short Link: [http://oom.lt/SZKDICHARACTERHDSP787](http://oom.lt/SZKDICHARACTERHDSP787)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Display_Character+:+HDSP-7807)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Display_Character+:+HDSP-7807)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Display_Character+:+HDSP-7807)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Display_Character+:+HDSP-7807)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Display_Character+:+HDSP-7807)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Display_Character+:+HDSP-7807)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Display_Character/HDSP-7807/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Display_Character/HDSP-7807/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Display_Character/HDSP-7807/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Display_Character/HDSP-7807/image.png)|||

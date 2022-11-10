@@ -6,8 +6,6 @@ Contents
 ========
 
 * [SZKRFSWITCHHMC7992 > RF_Switch : HMC7992](#szkrfswitchhmc7992--rf_switch--hmc7992)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -19,18 +17,6 @@ NO IMAGE
 - Description: RF_Switch : HMC7992
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Switch-HMC7992](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Switch-HMC7992)
 - Short Link: [http://oom.lt/SZKRFSWITCHHMC7992](http://oom.lt/SZKRFSWITCHHMC7992)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117RF_Switch+:+HMC7992)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/RF_Switch+:+HMC7992)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=RF_Switch+:+HMC7992)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=RF_Switch+:+HMC7992)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=RF_Switch+:+HMC7992)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=RF_Switch+:+HMC7992)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 NO IMAGES  
 ## Tags

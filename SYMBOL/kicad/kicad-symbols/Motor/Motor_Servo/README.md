@@ -6,8 +6,6 @@ Contents
 ========
 
 * [SZKMOTORMOTORSERVO > Motor : Motor_Servo](#szkmotormotorservo--motor--motor_servo)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -19,18 +17,6 @@ Contents
 - Description: Motor : Motor_Servo
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Motor-Motor_Servo](http://oom.lt/SYMBOL-kicad-kicad-symbols-Motor-Motor_Servo)
 - Short Link: [http://oom.lt/SZKMOTORMOTORSERVO](http://oom.lt/SZKMOTORMOTORSERVO)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Motor+:+Motor_Servo)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Motor+:+Motor_Servo)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Motor+:+Motor_Servo)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Motor+:+Motor_Servo)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Motor+:+Motor_Servo)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Motor+:+Motor_Servo)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Motor/Motor_Servo/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Motor/Motor_Servo/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Motor/Motor_Servo/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Motor/Motor_Servo/image.png)|||

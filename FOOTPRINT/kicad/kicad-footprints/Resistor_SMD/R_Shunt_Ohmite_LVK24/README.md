@@ -6,8 +6,6 @@ Contents
 ========
 
 * [FZKRESISTORSMRSHUNTOHMITELVK24 > Resistor_SMD : R_Shunt_Ohmite_LVK24](#fzkresistorsmrshuntohmitelvk24--resistor_smd--r_shunt_ohmite_lvk24)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -19,18 +17,6 @@ Contents
 - Description: Resistor_SMD : R_Shunt_Ohmite_LVK24
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_Shunt_Ohmite_LVK24](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_Shunt_Ohmite_LVK24)
 - Short Link: [http://oom.lt/FZKRESISTORSMRSHUNTOHMITELVK24](http://oom.lt/FZKRESISTORSMRSHUNTOHMITELVK24)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Resistor_SMD+:+R_Shunt_Ohmite_LVK24)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Resistor_SMD+:+R_Shunt_Ohmite_LVK24)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Resistor_SMD+:+R_Shunt_Ohmite_LVK24)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Resistor_SMD+:+R_Shunt_Ohmite_LVK24)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Resistor_SMD+:+R_Shunt_Ohmite_LVK24)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Resistor_SMD+:+R_Shunt_Ohmite_LVK24)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_Shunt_Ohmite_LVK24/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_Shunt_Ohmite_LVK24/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_Shunt_Ohmite_LVK24/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_Shunt_Ohmite_LVK24/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_Shunt_Ohmite_LVK24/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_Shunt_Ohmite_LVK24/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_Shunt_Ohmite_LVK24/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_Shunt_Ohmite_LVK24/kicadPcb3dBack.png)|

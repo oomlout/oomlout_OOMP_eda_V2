@@ -6,8 +6,6 @@ Contents
 ========
 
 * [SZKRFS116S2 > RF : S116S02](#szkrfs116s2--rf--s116s02)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -19,18 +17,6 @@ NO IMAGE
 - Description: RF : S116S02
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF-S116S02](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF-S116S02)
 - Short Link: [http://oom.lt/SZKRFS116S2](http://oom.lt/SZKRFS116S2)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117RF+:+S116S02)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/RF+:+S116S02)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=RF+:+S116S02)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=RF+:+S116S02)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=RF+:+S116S02)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=RF+:+S116S02)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 NO IMAGES  
 ## Tags

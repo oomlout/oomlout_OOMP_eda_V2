@@ -6,8 +6,6 @@ Contents
 ========
 
 * [SZKRFTLP222A2 > RF : TLP222A-2](#szkrftlp222a2--rf--tlp222a-2)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -19,18 +17,6 @@ NO IMAGE
 - Description: RF : TLP222A-2
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF-TLP222A-2](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF-TLP222A-2)
 - Short Link: [http://oom.lt/SZKRFTLP222A2](http://oom.lt/SZKRFTLP222A2)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117RF+:+TLP222A-2)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/RF+:+TLP222A-2)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=RF+:+TLP222A-2)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=RF+:+TLP222A-2)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=RF+:+TLP222A-2)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=RF+:+TLP222A-2)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 NO IMAGES  
 ## Tags

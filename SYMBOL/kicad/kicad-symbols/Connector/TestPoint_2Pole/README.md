@@ -6,8 +6,6 @@ Contents
 ========
 
 * [SZKCNTP2POLE > Connector : TestPoint_2Pole](#szkcntp2pole--connector--testpoint_2pole)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -19,18 +17,6 @@ Contents
 - Description: Connector : TestPoint_2Pole
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-TestPoint_2Pole](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-TestPoint_2Pole)
 - Short Link: [http://oom.lt/SZKCNTP2POLE](http://oom.lt/SZKCNTP2POLE)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Connector+:+TestPoint_2Pole)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Connector+:+TestPoint_2Pole)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Connector+:+TestPoint_2Pole)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Connector+:+TestPoint_2Pole)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Connector+:+TestPoint_2Pole)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Connector+:+TestPoint_2Pole)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/TestPoint_2Pole/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/TestPoint_2Pole/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/TestPoint_2Pole/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/TestPoint_2Pole/image.png)|||

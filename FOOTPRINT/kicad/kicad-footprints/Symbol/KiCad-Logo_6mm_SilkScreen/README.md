@@ -6,8 +6,6 @@ Contents
 ========
 
 * [FZKSZKICADL6SILKSCREEN > Symbol : KiCad-Logo_6mm_SilkScreen](#fzkszkicadl6silkscreen--symbol--kicad-logo_6mm_silkscreen)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -19,18 +17,6 @@ Contents
 - Description: Symbol : KiCad-Logo_6mm_SilkScreen
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Symbol-KiCad-Logo_6mm_SilkScreen](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Symbol-KiCad-Logo_6mm_SilkScreen)
 - Short Link: [http://oom.lt/FZKSZKICADL6SILKSCREEN](http://oom.lt/FZKSZKICADL6SILKSCREEN)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Symbol+:+KiCad-Logo_6mm_SilkScreen)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Symbol+:+KiCad-Logo_6mm_SilkScreen)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Symbol+:+KiCad-Logo_6mm_SilkScreen)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Symbol+:+KiCad-Logo_6mm_SilkScreen)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Symbol+:+KiCad-Logo_6mm_SilkScreen)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Symbol+:+KiCad-Logo_6mm_SilkScreen)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Symbol/KiCad-Logo_6mm_SilkScreen/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Symbol/KiCad-Logo_6mm_SilkScreen/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Symbol/KiCad-Logo_6mm_SilkScreen/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Symbol/KiCad-Logo_6mm_SilkScreen/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Symbol/KiCad-Logo_6mm_SilkScreen/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Symbol/KiCad-Logo_6mm_SilkScreen/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Symbol/KiCad-Logo_6mm_SilkScreen/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Symbol/KiCad-Logo_6mm_SilkScreen/kicadPcb3dBack.png)|

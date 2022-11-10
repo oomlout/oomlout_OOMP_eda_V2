@@ -6,8 +6,6 @@ Contents
 ========
 
 * [SZKMCUMCHIPPIC16PIC16F1829LINESS > MCU_Microchip_PIC16 : PIC16F1829LIN-ESS](#szkmcumchippic16pic16f1829liness--mcu_microchip_pic16--pic16f1829lin-ess)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -19,18 +17,6 @@ Contents
 - Description: MCU_Microchip_PIC16 : PIC16F1829LIN-ESS
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F1829LIN-ESS](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F1829LIN-ESS)
 - Short Link: [http://oom.lt/SZKMCUMCHIPPIC16PIC16F1829LINESS](http://oom.lt/SZKMCUMCHIPPIC16PIC16F1829LINESS)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117MCU_Microchip_PIC16+:+PIC16F1829LIN-ESS)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/MCU_Microchip_PIC16+:+PIC16F1829LIN-ESS)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=MCU_Microchip_PIC16+:+PIC16F1829LIN-ESS)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=MCU_Microchip_PIC16+:+PIC16F1829LIN-ESS)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=MCU_Microchip_PIC16+:+PIC16F1829LIN-ESS)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=MCU_Microchip_PIC16+:+PIC16F1829LIN-ESS)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC16/PIC16F1829LIN-ESS/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC16/PIC16F1829LIN-ESS/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC16/PIC16F1829LIN-ESS/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC16/PIC16F1829LIN-ESS/image.png)|||

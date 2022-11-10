@@ -6,8 +6,6 @@ Contents
 ========
 
 * [SZKMEMORYEEPROMAT24CS2XHM > Memory_EEPROM : AT24CS02-XHM](#szkmemoryeepromat24cs2xhm--memory_eeprom--at24cs02-xhm)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -19,18 +17,6 @@ Contents
 - Description: Memory_EEPROM : AT24CS02-XHM
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_EEPROM-AT24CS02-XHM](http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_EEPROM-AT24CS02-XHM)
 - Short Link: [http://oom.lt/SZKMEMORYEEPROMAT24CS2XHM](http://oom.lt/SZKMEMORYEEPROMAT24CS2XHM)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Memory_EEPROM+:+AT24CS02-XHM)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Memory_EEPROM+:+AT24CS02-XHM)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Memory_EEPROM+:+AT24CS02-XHM)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Memory_EEPROM+:+AT24CS02-XHM)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Memory_EEPROM+:+AT24CS02-XHM)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Memory_EEPROM+:+AT24CS02-XHM)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Memory_EEPROM/AT24CS02-XHM/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Memory_EEPROM/AT24CS02-XHM/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Memory_EEPROM/AT24CS02-XHM/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Memory_EEPROM/AT24CS02-XHM/image.png)|||

@@ -6,8 +6,6 @@ Contents
 ========
 
 * [SZKDRIVERDIAY438XP > Driver_Display : AY0438X-P](#szkdriverdiay438xp--driver_display--ay0438x-p)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -19,18 +17,6 @@ Contents
 - Description: Driver_Display : AY0438X-P
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_Display-AY0438X-P](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_Display-AY0438X-P)
 - Short Link: [http://oom.lt/SZKDRIVERDIAY438XP](http://oom.lt/SZKDRIVERDIAY438XP)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Driver_Display+:+AY0438X-P)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Driver_Display+:+AY0438X-P)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Driver_Display+:+AY0438X-P)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Driver_Display+:+AY0438X-P)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Driver_Display+:+AY0438X-P)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Driver_Display+:+AY0438X-P)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Driver_Display/AY0438X-P/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Driver_Display/AY0438X-P/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Driver_Display/AY0438X-P/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Driver_Display/AY0438X-P/image.png)|||

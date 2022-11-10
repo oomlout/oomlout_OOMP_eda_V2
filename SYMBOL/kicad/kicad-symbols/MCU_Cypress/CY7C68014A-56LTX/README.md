@@ -6,8 +6,6 @@ Contents
 ========
 
 * [SZKMCUCYPRESSCY7C6814A56LTX > MCU_Cypress : CY7C68014A-56LTX](#szkmcucypresscy7c6814a56ltx--mcu_cypress--cy7c68014a-56ltx)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -19,18 +17,6 @@ Contents
 - Description: MCU_Cypress : CY7C68014A-56LTX
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Cypress-CY7C68014A-56LTX](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Cypress-CY7C68014A-56LTX)
 - Short Link: [http://oom.lt/SZKMCUCYPRESSCY7C6814A56LTX](http://oom.lt/SZKMCUCYPRESSCY7C6814A56LTX)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117MCU_Cypress+:+CY7C68014A-56LTX)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/MCU_Cypress+:+CY7C68014A-56LTX)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=MCU_Cypress+:+CY7C68014A-56LTX)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=MCU_Cypress+:+CY7C68014A-56LTX)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=MCU_Cypress+:+CY7C68014A-56LTX)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=MCU_Cypress+:+CY7C68014A-56LTX)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Cypress/CY7C68014A-56LTX/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Cypress/CY7C68014A-56LTX/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Cypress/CY7C68014A-56LTX/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Cypress/CY7C68014A-56LTX/image.png)|||

@@ -6,8 +6,6 @@ Contents
 ========
 
 * [SZKINTERFACELINEDRIVEREL7242C > Interface_LineDriver : EL7242C](#szkinterfacelinedriverel7242c--interface_linedriver--el7242c)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -19,18 +17,6 @@ Contents
 - Description: Interface_LineDriver : EL7242C
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_LineDriver-EL7242C](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_LineDriver-EL7242C)
 - Short Link: [http://oom.lt/SZKINTERFACELINEDRIVEREL7242C](http://oom.lt/SZKINTERFACELINEDRIVEREL7242C)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Interface_LineDriver+:+EL7242C)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Interface_LineDriver+:+EL7242C)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Interface_LineDriver+:+EL7242C)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Interface_LineDriver+:+EL7242C)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Interface_LineDriver+:+EL7242C)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Interface_LineDriver+:+EL7242C)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface_LineDriver/EL7242C/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface_LineDriver/EL7242C/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface_LineDriver/EL7242C/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface_LineDriver/EL7242C/image.png)|||

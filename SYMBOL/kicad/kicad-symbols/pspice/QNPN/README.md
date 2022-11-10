@@ -6,8 +6,6 @@ Contents
 ========
 
 * [SZKPSPICEQNPN > pspice : QNPN](#szkpspiceqnpn--pspice--qnpn)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -19,18 +17,6 @@ Contents
 - Description: pspice : QNPN
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-pspice-QNPN](http://oom.lt/SYMBOL-kicad-kicad-symbols-pspice-QNPN)
 - Short Link: [http://oom.lt/SZKPSPICEQNPN](http://oom.lt/SZKPSPICEQNPN)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117pspice+:+QNPN)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/pspice+:+QNPN)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=pspice+:+QNPN)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=pspice+:+QNPN)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=pspice+:+QNPN)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=pspice+:+QNPN)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/pspice/QNPN/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/pspice/QNPN/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/pspice/QNPN/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/pspice/QNPN/image.png)|||

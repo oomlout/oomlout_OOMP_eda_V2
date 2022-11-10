@@ -36,6 +36,9 @@
         "jsonFull": [
             "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/FPGA_Lattice/ICE40UP5K-SG48ITR/full.json"
         ],
+        "mpnList": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/FPGA_Lattice/ICE40UP5K-SG48ITR/MPNLIST.md"
+        ],
         "readme": [
             "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/FPGA_Lattice/ICE40UP5K-SG48ITR/README.md"
         ]

@@ -6,8 +6,6 @@ Contents
 ========
 
 * [SZKCNRB1125B8G1A > Connector : RB1-125B8G1A](#szkcnrb1125b8g1a--connector--rb1-125b8g1a)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -19,18 +17,6 @@ Contents
 - Description: Connector : RB1-125B8G1A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-RB1-125B8G1A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-RB1-125B8G1A)
 - Short Link: [http://oom.lt/SZKCNRB1125B8G1A](http://oom.lt/SZKCNRB1125B8G1A)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Connector+:+RB1-125B8G1A)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Connector+:+RB1-125B8G1A)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Connector+:+RB1-125B8G1A)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Connector+:+RB1-125B8G1A)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Connector+:+RB1-125B8G1A)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Connector+:+RB1-125B8G1A)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/RB1-125B8G1A/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/RB1-125B8G1A/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/RB1-125B8G1A/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/RB1-125B8G1A/image.png)|||

@@ -6,8 +6,6 @@ Contents
 ========
 
 * [SZKDICHARACTERHDSM443B > Display_Character : HDSM-443B](#szkdicharacterhdsm443b--display_character--hdsm-443b)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -19,18 +17,6 @@ Contents
 - Description: Display_Character : HDSM-443B
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-HDSM-443B](http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-HDSM-443B)
 - Short Link: [http://oom.lt/SZKDICHARACTERHDSM443B](http://oom.lt/SZKDICHARACTERHDSM443B)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Display_Character+:+HDSM-443B)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Display_Character+:+HDSM-443B)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Display_Character+:+HDSM-443B)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Display_Character+:+HDSM-443B)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Display_Character+:+HDSM-443B)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Display_Character+:+HDSM-443B)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Display_Character/HDSM-443B/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Display_Character/HDSM-443B/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Display_Character/HDSM-443B/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Display_Character/HDSM-443B/image.png)|||

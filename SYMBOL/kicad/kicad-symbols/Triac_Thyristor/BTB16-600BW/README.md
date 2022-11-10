@@ -6,8 +6,6 @@ Contents
 ========
 
 * [SZKTRIACTHYRISTORBTB166BW > Triac_Thyristor : BTB16-600BW](#szktriacthyristorbtb166bw--triac_thyristor--btb16-600bw)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -19,18 +17,6 @@ Contents
 - Description: Triac_Thyristor : BTB16-600BW
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Triac_Thyristor-BTB16-600BW](http://oom.lt/SYMBOL-kicad-kicad-symbols-Triac_Thyristor-BTB16-600BW)
 - Short Link: [http://oom.lt/SZKTRIACTHYRISTORBTB166BW](http://oom.lt/SZKTRIACTHYRISTORBTB166BW)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Triac_Thyristor+:+BTB16-600BW)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Triac_Thyristor+:+BTB16-600BW)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Triac_Thyristor+:+BTB16-600BW)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Triac_Thyristor+:+BTB16-600BW)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Triac_Thyristor+:+BTB16-600BW)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Triac_Thyristor+:+BTB16-600BW)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Triac_Thyristor/BTB16-600BW/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Triac_Thyristor/BTB16-600BW/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Triac_Thyristor/BTB16-600BW/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Triac_Thyristor/BTB16-600BW/image.png)|||

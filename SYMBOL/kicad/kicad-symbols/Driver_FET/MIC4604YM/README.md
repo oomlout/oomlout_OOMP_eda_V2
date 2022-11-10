@@ -6,8 +6,6 @@ Contents
 ========
 
 * [SZKDRIVERFETMIC464YM > Driver_FET : MIC4604YM](#szkdriverfetmic464ym--driver_fet--mic4604ym)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -19,18 +17,6 @@ Contents
 - Description: Driver_FET : MIC4604YM
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-MIC4604YM](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-MIC4604YM)
 - Short Link: [http://oom.lt/SZKDRIVERFETMIC464YM](http://oom.lt/SZKDRIVERFETMIC464YM)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Driver_FET+:+MIC4604YM)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Driver_FET+:+MIC4604YM)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Driver_FET+:+MIC4604YM)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Driver_FET+:+MIC4604YM)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Driver_FET+:+MIC4604YM)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Driver_FET+:+MIC4604YM)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Driver_FET/MIC4604YM/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Driver_FET/MIC4604YM/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Driver_FET/MIC4604YM/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Driver_FET/MIC4604YM/image.png)|||

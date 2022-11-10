@@ -6,8 +6,6 @@ Contents
 ========
 
 * [SZKDIGRAPHICEAEDIP16W7LW > Display_Graphic : EA_eDIP160W-7LW](#szkdigraphiceaedip16w7lw--display_graphic--ea_edip160w-7lw)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -19,18 +17,6 @@ Contents
 - Description: Display_Graphic : EA_eDIP160W-7LW
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Graphic-EA_eDIP160W-7LW](http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Graphic-EA_eDIP160W-7LW)
 - Short Link: [http://oom.lt/SZKDIGRAPHICEAEDIP16W7LW](http://oom.lt/SZKDIGRAPHICEAEDIP16W7LW)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Display_Graphic+:+EA_eDIP160W-7LW)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Display_Graphic+:+EA_eDIP160W-7LW)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Display_Graphic+:+EA_eDIP160W-7LW)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Display_Graphic+:+EA_eDIP160W-7LW)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Display_Graphic+:+EA_eDIP160W-7LW)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Display_Graphic+:+EA_eDIP160W-7LW)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Display_Graphic/EA_eDIP160W-7LW/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Display_Graphic/EA_eDIP160W-7LW/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Display_Graphic/EA_eDIP160W-7LW/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Display_Graphic/EA_eDIP160W-7LW/image.png)|||

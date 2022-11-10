@@ -6,8 +6,6 @@ Contents
 ========
 
 * [FZKOCSOCSSMSEIKOEPSONSG82JA4PIN14X87HANDSOLDERING > Oscillator : Oscillator_SMD_SeikoEpson_SG8002JA-4Pin_14.0x8.7mm_HandSoldering](#fzkocsocssmseikoepsonsg82ja4pin14x87handsoldering--oscillator--oscillator_smd_seikoepson_sg8002ja-4pin_140x87mm_handsoldering)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -19,18 +17,6 @@ Contents
 - Description: Oscillator : Oscillator_SMD_SeikoEpson_SG8002JA-4Pin_14.0x8.7mm_HandSoldering
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Oscillator-Oscillator_SMD_SeikoEpson_SG8002JA-4Pin_14.0x8.7mm_HandSoldering](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Oscillator-Oscillator_SMD_SeikoEpson_SG8002JA-4Pin_14.0x8.7mm_HandSoldering)
 - Short Link: [http://oom.lt/FZKOCSOCSSMSEIKOEPSONSG82JA4PIN14X87HANDSOLDERING](http://oom.lt/FZKOCSOCSSMSEIKOEPSONSG82JA4PIN14X87HANDSOLDERING)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Oscillator+:+Oscillator_SMD_SeikoEpson_SG8002JA-4Pin_14.0x8.7mm_HandSoldering)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Oscillator+:+Oscillator_SMD_SeikoEpson_SG8002JA-4Pin_14.0x8.7mm_HandSoldering)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Oscillator+:+Oscillator_SMD_SeikoEpson_SG8002JA-4Pin_14.0x8.7mm_HandSoldering)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Oscillator+:+Oscillator_SMD_SeikoEpson_SG8002JA-4Pin_14.0x8.7mm_HandSoldering)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Oscillator+:+Oscillator_SMD_SeikoEpson_SG8002JA-4Pin_14.0x8.7mm_HandSoldering)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Oscillator+:+Oscillator_SMD_SeikoEpson_SG8002JA-4Pin_14.0x8.7mm_HandSoldering)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Oscillator/Oscillator_SMD_SeikoEpson_SG8002JA-4Pin_14.0x8.7mm_HandSoldering/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Oscillator/Oscillator_SMD_SeikoEpson_SG8002JA-4Pin_14.0x8.7mm_HandSoldering/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Oscillator/Oscillator_SMD_SeikoEpson_SG8002JA-4Pin_14.0x8.7mm_HandSoldering/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Oscillator/Oscillator_SMD_SeikoEpson_SG8002JA-4Pin_14.0x8.7mm_HandSoldering/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Oscillator/Oscillator_SMD_SeikoEpson_SG8002JA-4Pin_14.0x8.7mm_HandSoldering/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Oscillator/Oscillator_SMD_SeikoEpson_SG8002JA-4Pin_14.0x8.7mm_HandSoldering/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Oscillator/Oscillator_SMD_SeikoEpson_SG8002JA-4Pin_14.0x8.7mm_HandSoldering/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Oscillator/Oscillator_SMD_SeikoEpson_SG8002JA-4Pin_14.0x8.7mm_HandSoldering/kicadPcb3dBack.png)|

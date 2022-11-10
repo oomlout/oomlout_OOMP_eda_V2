@@ -6,8 +6,6 @@ Contents
 ========
 
 * [SZKRFTLP16G > RF : TLP160G](#szkrftlp16g--rf--tlp160g)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -19,18 +17,6 @@ NO IMAGE
 - Description: RF : TLP160G
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF-TLP160G](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF-TLP160G)
 - Short Link: [http://oom.lt/SZKRFTLP16G](http://oom.lt/SZKRFTLP16G)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117RF+:+TLP160G)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/RF+:+TLP160G)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=RF+:+TLP160G)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=RF+:+TLP160G)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=RF+:+TLP160G)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=RF+:+TLP160G)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 NO IMAGES  
 ## Tags

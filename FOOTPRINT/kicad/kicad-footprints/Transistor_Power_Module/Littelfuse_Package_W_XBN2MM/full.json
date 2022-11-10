@@ -61,6 +61,9 @@
         "kicadPcb3dFront": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Transistor_Power_Module/Littelfuse_Package_W_XBN2MM/kicadPcb3dFront.png"
         ],
+        "mpnList": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Transistor_Power_Module/Littelfuse_Package_W_XBN2MM/MPNLIST.md"
+        ],
         "readme": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Transistor_Power_Module/Littelfuse_Package_W_XBN2MM/README.md"
         ]

@@ -6,8 +6,6 @@ Contents
 ========
 
 * [SZKRFAMPLIFIERGALI5F > RF_Amplifier : GALI-5F](#szkrfamplifiergali5f--rf_amplifier--gali-5f)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -19,18 +17,6 @@ NO IMAGE
 - Description: RF_Amplifier : GALI-5F
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Amplifier-GALI-5F](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Amplifier-GALI-5F)
 - Short Link: [http://oom.lt/SZKRFAMPLIFIERGALI5F](http://oom.lt/SZKRFAMPLIFIERGALI5F)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117RF_Amplifier+:+GALI-5F)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/RF_Amplifier+:+GALI-5F)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=RF_Amplifier+:+GALI-5F)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=RF_Amplifier+:+GALI-5F)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=RF_Amplifier+:+GALI-5F)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=RF_Amplifier+:+GALI-5F)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 NO IMAGES  
 ## Tags

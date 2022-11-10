@@ -6,8 +6,6 @@ Contents
 ========
 
 * [SZKINTERFACEUMCP2221AXML > Interface_USB : MCP2221AxML](#szkinterfaceumcp2221axml--interface_usb--mcp2221axml)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -19,18 +17,6 @@ Contents
 - Description: Interface_USB : MCP2221AxML
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_USB-MCP2221AxML](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_USB-MCP2221AxML)
 - Short Link: [http://oom.lt/SZKINTERFACEUMCP2221AXML](http://oom.lt/SZKINTERFACEUMCP2221AXML)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Interface_USB+:+MCP2221AxML)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Interface_USB+:+MCP2221AxML)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Interface_USB+:+MCP2221AxML)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Interface_USB+:+MCP2221AxML)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Interface_USB+:+MCP2221AxML)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Interface_USB+:+MCP2221AxML)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface_USB/MCP2221AxML/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface_USB/MCP2221AxML/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface_USB/MCP2221AxML/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface_USB/MCP2221AxML/image.png)|||

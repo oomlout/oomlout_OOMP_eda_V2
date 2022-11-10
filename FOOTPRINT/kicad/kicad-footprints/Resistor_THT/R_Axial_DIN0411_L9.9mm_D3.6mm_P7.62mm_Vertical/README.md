@@ -6,8 +6,6 @@ Contents
 ========
 
 * [FZKRRAXIALDIN411L99D36P762VERTICAL > Resistor_THT : R_Axial_DIN0411_L9.9mm_D3.6mm_P7.62mm_Vertical](#fzkrraxialdin411l99d36p762vertical--resistor_tht--r_axial_din0411_l99mm_d36mm_p762mm_vertical)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -19,18 +17,6 @@ Contents
 - Description: Resistor_THT : R_Axial_DIN0411_L9.9mm_D3.6mm_P7.62mm_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Resistor_THT-R_Axial_DIN0411_L9.9mm_D3.6mm_P7.62mm_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Resistor_THT-R_Axial_DIN0411_L9.9mm_D3.6mm_P7.62mm_Vertical)
 - Short Link: [http://oom.lt/FZKRRAXIALDIN411L99D36P762VERTICAL](http://oom.lt/FZKRRAXIALDIN411L99D36P762VERTICAL)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Resistor_THT+:+R_Axial_DIN0411_L9.9mm_D3.6mm_P7.62mm_Vertical)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Resistor_THT+:+R_Axial_DIN0411_L9.9mm_D3.6mm_P7.62mm_Vertical)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Resistor_THT+:+R_Axial_DIN0411_L9.9mm_D3.6mm_P7.62mm_Vertical)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Resistor_THT+:+R_Axial_DIN0411_L9.9mm_D3.6mm_P7.62mm_Vertical)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Resistor_THT+:+R_Axial_DIN0411_L9.9mm_D3.6mm_P7.62mm_Vertical)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Resistor_THT+:+R_Axial_DIN0411_L9.9mm_D3.6mm_P7.62mm_Vertical)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Resistor_THT/R_Axial_DIN0411_L9.9mm_D3.6mm_P7.62mm_Vertical/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Resistor_THT/R_Axial_DIN0411_L9.9mm_D3.6mm_P7.62mm_Vertical/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Resistor_THT/R_Axial_DIN0411_L9.9mm_D3.6mm_P7.62mm_Vertical/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Resistor_THT/R_Axial_DIN0411_L9.9mm_D3.6mm_P7.62mm_Vertical/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Resistor_THT/R_Axial_DIN0411_L9.9mm_D3.6mm_P7.62mm_Vertical/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Resistor_THT/R_Axial_DIN0411_L9.9mm_D3.6mm_P7.62mm_Vertical/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Resistor_THT/R_Axial_DIN0411_L9.9mm_D3.6mm_P7.62mm_Vertical/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Resistor_THT/R_Axial_DIN0411_L9.9mm_D3.6mm_P7.62mm_Vertical/kicadPcb3dBack.png)|

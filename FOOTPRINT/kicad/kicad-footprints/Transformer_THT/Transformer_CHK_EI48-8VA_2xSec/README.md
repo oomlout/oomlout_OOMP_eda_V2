@@ -6,8 +6,6 @@ Contents
 ========
 
 * [FZKTRTRCHKEI488VA2XSEC > Transformer_THT : Transformer_CHK_EI48-8VA_2xSec](#fzktrtrchkei488va2xsec--transformer_tht--transformer_chk_ei48-8va_2xsec)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -19,18 +17,6 @@ Contents
 - Description: Transformer_THT : Transformer_CHK_EI48-8VA_2xSec
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Transformer_THT-Transformer_CHK_EI48-8VA_2xSec](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Transformer_THT-Transformer_CHK_EI48-8VA_2xSec)
 - Short Link: [http://oom.lt/FZKTRTRCHKEI488VA2XSEC](http://oom.lt/FZKTRTRCHKEI488VA2XSEC)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Transformer_THT+:+Transformer_CHK_EI48-8VA_2xSec)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Transformer_THT+:+Transformer_CHK_EI48-8VA_2xSec)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Transformer_THT+:+Transformer_CHK_EI48-8VA_2xSec)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Transformer_THT+:+Transformer_CHK_EI48-8VA_2xSec)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Transformer_THT+:+Transformer_CHK_EI48-8VA_2xSec)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Transformer_THT+:+Transformer_CHK_EI48-8VA_2xSec)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Transformer_THT/Transformer_CHK_EI48-8VA_2xSec/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Transformer_THT/Transformer_CHK_EI48-8VA_2xSec/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Transformer_THT/Transformer_CHK_EI48-8VA_2xSec/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Transformer_THT/Transformer_CHK_EI48-8VA_2xSec/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Transformer_THT/Transformer_CHK_EI48-8VA_2xSec/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Transformer_THT/Transformer_CHK_EI48-8VA_2xSec/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Transformer_THT/Transformer_CHK_EI48-8VA_2xSec/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Transformer_THT/Transformer_CHK_EI48-8VA_2xSec/kicadPcb3dBack.png)|

@@ -6,8 +6,6 @@ Contents
 ========
 
 * [SZKSENTOUCHAT42QT111TSHR > Sensor_Touch : AT42QT1011-TSHR](#szksentouchat42qt111tshr--sensor_touch--at42qt1011-tshr)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -19,18 +17,6 @@ Contents
 - Description: Sensor_Touch : AT42QT1011-TSHR
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Touch-AT42QT1011-TSHR](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Touch-AT42QT1011-TSHR)
 - Short Link: [http://oom.lt/SZKSENTOUCHAT42QT111TSHR](http://oom.lt/SZKSENTOUCHAT42QT111TSHR)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Sensor_Touch+:+AT42QT1011-TSHR)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Sensor_Touch+:+AT42QT1011-TSHR)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Sensor_Touch+:+AT42QT1011-TSHR)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Sensor_Touch+:+AT42QT1011-TSHR)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Sensor_Touch+:+AT42QT1011-TSHR)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Sensor_Touch+:+AT42QT1011-TSHR)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Touch/AT42QT1011-TSHR/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Touch/AT42QT1011-TSHR/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Touch/AT42QT1011-TSHR/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Touch/AT42QT1011-TSHR/image.png)|||

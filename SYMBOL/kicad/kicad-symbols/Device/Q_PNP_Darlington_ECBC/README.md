@@ -6,8 +6,6 @@ Contents
 ========
 
 * [SZKDEVICEQPNPDARLINGTONECBC > Device : Q_PNP_Darlington_ECBC](#szkdeviceqpnpdarlingtonecbc--device--q_pnp_darlington_ecbc)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -19,18 +17,6 @@ Contents
 - Description: Device : Q_PNP_Darlington_ECBC
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Q_PNP_Darlington_ECBC](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Q_PNP_Darlington_ECBC)
 - Short Link: [http://oom.lt/SZKDEVICEQPNPDARLINGTONECBC](http://oom.lt/SZKDEVICEQPNPDARLINGTONECBC)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Device+:+Q_PNP_Darlington_ECBC)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Device+:+Q_PNP_Darlington_ECBC)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Device+:+Q_PNP_Darlington_ECBC)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Device+:+Q_PNP_Darlington_ECBC)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Device+:+Q_PNP_Darlington_ECBC)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Device+:+Q_PNP_Darlington_ECBC)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/Q_PNP_Darlington_ECBC/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/Q_PNP_Darlington_ECBC/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/Q_PNP_Darlington_ECBC/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/Q_PNP_Darlington_ECBC/image.png)|||

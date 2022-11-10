@@ -61,6 +61,9 @@
         "kicadPcb3dFront": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Rotary_Encoder/RotaryEncoder_Alps_EC12E_Vertical_H20mm_CircularMountingHoles/kicadPcb3dFront.png"
         ],
+        "mpnList": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Rotary_Encoder/RotaryEncoder_Alps_EC12E_Vertical_H20mm_CircularMountingHoles/MPNLIST.md"
+        ],
         "readme": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Rotary_Encoder/RotaryEncoder_Alps_EC12E_Vertical_H20mm_CircularMountingHoles/README.md"
         ]

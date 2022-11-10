@@ -6,8 +6,6 @@ Contents
 ========
 
 * [SZKDEVICERNETWORK7SPLIT > Device : R_Network07_Split](#szkdevicernetwork7split--device--r_network07_split)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -19,18 +17,6 @@ Contents
 - Description: Device : R_Network07_Split
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-R_Network07_Split](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-R_Network07_Split)
 - Short Link: [http://oom.lt/SZKDEVICERNETWORK7SPLIT](http://oom.lt/SZKDEVICERNETWORK7SPLIT)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Device+:+R_Network07_Split)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Device+:+R_Network07_Split)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Device+:+R_Network07_Split)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Device+:+R_Network07_Split)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Device+:+R_Network07_Split)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Device+:+R_Network07_Split)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/R_Network07_Split/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/R_Network07_Split/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/R_Network07_Split/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/R_Network07_Split/image.png)|||

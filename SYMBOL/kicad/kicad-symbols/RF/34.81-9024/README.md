@@ -6,8 +6,6 @@ Contents
 ========
 
 * [SZKRF3481924 > RF : 34.81-9024](#szkrf3481924--rf--3481-9024)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -19,18 +17,6 @@ NO IMAGE
 - Description: RF : 34.81-9024
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF-34.81-9024](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF-34.81-9024)
 - Short Link: [http://oom.lt/SZKRF3481924](http://oom.lt/SZKRF3481924)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117RF+:+34.81-9024)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/RF+:+34.81-9024)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=RF+:+34.81-9024)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=RF+:+34.81-9024)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=RF+:+34.81-9024)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=RF+:+34.81-9024)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 NO IMAGES  
 ## Tags

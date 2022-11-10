@@ -6,8 +6,6 @@ Contents
 ========
 
 * [SZKPOWERPROTECTIONESD224DQA > Power_Protection : ESD224DQA](#szkpowerprotectionesd224dqa--power_protection--esd224dqa)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -19,18 +17,6 @@ Contents
 - Description: Power_Protection : ESD224DQA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Protection-ESD224DQA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Protection-ESD224DQA)
 - Short Link: [http://oom.lt/SZKPOWERPROTECTIONESD224DQA](http://oom.lt/SZKPOWERPROTECTIONESD224DQA)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Power_Protection+:+ESD224DQA)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Power_Protection+:+ESD224DQA)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Power_Protection+:+ESD224DQA)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Power_Protection+:+ESD224DQA)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Power_Protection+:+ESD224DQA)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Power_Protection+:+ESD224DQA)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Power_Protection/ESD224DQA/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Power_Protection/ESD224DQA/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Power_Protection/ESD224DQA/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Power_Protection/ESD224DQA/image.png)|||

@@ -6,8 +6,6 @@ Contents
 ========
 
 * [SZKSENADPS996 > Sensor : ADPS-9960](#szksenadps996--sensor--adps-9960)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -19,18 +17,6 @@ NO IMAGE
 - Description: Sensor : ADPS-9960
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor-ADPS-9960](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor-ADPS-9960)
 - Short Link: [http://oom.lt/SZKSENADPS996](http://oom.lt/SZKSENADPS996)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Sensor+:+ADPS-9960)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Sensor+:+ADPS-9960)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Sensor+:+ADPS-9960)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Sensor+:+ADPS-9960)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Sensor+:+ADPS-9960)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Sensor+:+ADPS-9960)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 NO IMAGES  
 ## Tags

@@ -6,8 +6,6 @@ Contents
 ========
 
 * [SZKRFFILBFCN385A > RF_Filter : BFCN-3085A](#szkrffilbfcn385a--rf_filter--bfcn-3085a)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -19,18 +17,6 @@ NO IMAGE
 - Description: RF_Filter : BFCN-3085A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Filter-BFCN-3085A](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Filter-BFCN-3085A)
 - Short Link: [http://oom.lt/SZKRFFILBFCN385A](http://oom.lt/SZKRFFILBFCN385A)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117RF_Filter+:+BFCN-3085A)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/RF_Filter+:+BFCN-3085A)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=RF_Filter+:+BFCN-3085A)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=RF_Filter+:+BFCN-3085A)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=RF_Filter+:+BFCN-3085A)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=RF_Filter+:+BFCN-3085A)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 NO IMAGES  
 ## Tags

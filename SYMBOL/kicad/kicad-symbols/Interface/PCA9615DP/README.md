@@ -6,8 +6,6 @@ Contents
 ========
 
 * [SZKINTERFACEPCA9615DP > Interface : PCA9615DP](#szkinterfacepca9615dp--interface--pca9615dp)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -19,18 +17,6 @@ NO IMAGE
 - Description: Interface : PCA9615DP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-PCA9615DP](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-PCA9615DP)
 - Short Link: [http://oom.lt/SZKINTERFACEPCA9615DP](http://oom.lt/SZKINTERFACEPCA9615DP)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Interface+:+PCA9615DP)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Interface+:+PCA9615DP)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Interface+:+PCA9615DP)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Interface+:+PCA9615DP)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Interface+:+PCA9615DP)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Interface+:+PCA9615DP)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 NO IMAGES  
 ## Tags

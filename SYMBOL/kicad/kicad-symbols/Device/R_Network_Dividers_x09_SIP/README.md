@@ -6,8 +6,6 @@ Contents
 ========
 
 * [SZKDEVICERNETWORKDIVIDERSX9SIP > Device : R_Network_Dividers_x09_SIP](#szkdevicernetworkdividersx9sip--device--r_network_dividers_x09_sip)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -19,18 +17,6 @@ Contents
 - Description: Device : R_Network_Dividers_x09_SIP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-R_Network_Dividers_x09_SIP](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-R_Network_Dividers_x09_SIP)
 - Short Link: [http://oom.lt/SZKDEVICERNETWORKDIVIDERSX9SIP](http://oom.lt/SZKDEVICERNETWORKDIVIDERSX9SIP)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Device+:+R_Network_Dividers_x09_SIP)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Device+:+R_Network_Dividers_x09_SIP)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Device+:+R_Network_Dividers_x09_SIP)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Device+:+R_Network_Dividers_x09_SIP)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Device+:+R_Network_Dividers_x09_SIP)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Device+:+R_Network_Dividers_x09_SIP)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/R_Network_Dividers_x09_SIP/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/R_Network_Dividers_x09_SIP/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/R_Network_Dividers_x09_SIP/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/R_Network_Dividers_x09_SIP/image.png)|||

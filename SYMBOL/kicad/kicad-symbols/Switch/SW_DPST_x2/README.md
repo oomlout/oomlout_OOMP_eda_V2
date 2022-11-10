@@ -6,8 +6,6 @@ Contents
 ========
 
 * [SZKSWITCHSWDPSTX2 > Switch : SW_DPST_x2](#szkswitchswdpstx2--switch--sw_dpst_x2)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -19,18 +17,6 @@ Contents
 - Description: Switch : SW_DPST_x2
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Switch-SW_DPST_x2](http://oom.lt/SYMBOL-kicad-kicad-symbols-Switch-SW_DPST_x2)
 - Short Link: [http://oom.lt/SZKSWITCHSWDPSTX2](http://oom.lt/SZKSWITCHSWDPSTX2)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Switch+:+SW_DPST_x2)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Switch+:+SW_DPST_x2)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Switch+:+SW_DPST_x2)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Switch+:+SW_DPST_x2)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Switch+:+SW_DPST_x2)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Switch+:+SW_DPST_x2)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Switch/SW_DPST_x2/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Switch/SW_DPST_x2/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Switch/SW_DPST_x2/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Switch/SW_DPST_x2/image.png)|||

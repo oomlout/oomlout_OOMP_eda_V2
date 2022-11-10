@@ -6,8 +6,6 @@ Contents
 ========
 
 * [SZKSECURITYATECC68AMAHDA > Security : ATECC608A-MAHDA](#szksecurityatecc68amahda--security--atecc608a-mahda)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -19,18 +17,6 @@ Contents
 - Description: Security : ATECC608A-MAHDA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Security-ATECC608A-MAHDA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Security-ATECC608A-MAHDA)
 - Short Link: [http://oom.lt/SZKSECURITYATECC68AMAHDA](http://oom.lt/SZKSECURITYATECC68AMAHDA)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Security+:+ATECC608A-MAHDA)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Security+:+ATECC608A-MAHDA)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Security+:+ATECC608A-MAHDA)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Security+:+ATECC608A-MAHDA)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Security+:+ATECC608A-MAHDA)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Security+:+ATECC608A-MAHDA)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Security/ATECC608A-MAHDA/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Security/ATECC608A-MAHDA/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Security/ATECC608A-MAHDA/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Security/ATECC608A-MAHDA/image.png)|||

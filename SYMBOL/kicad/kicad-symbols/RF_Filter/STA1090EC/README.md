@@ -6,8 +6,6 @@ Contents
 ========
 
 * [SZKRFFILSTA19EC > RF_Filter : STA1090EC](#szkrffilsta19ec--rf_filter--sta1090ec)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -19,18 +17,6 @@ NO IMAGE
 - Description: RF_Filter : STA1090EC
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Filter-STA1090EC](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Filter-STA1090EC)
 - Short Link: [http://oom.lt/SZKRFFILSTA19EC](http://oom.lt/SZKRFFILSTA19EC)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117RF_Filter+:+STA1090EC)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/RF_Filter+:+STA1090EC)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=RF_Filter+:+STA1090EC)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=RF_Filter+:+STA1090EC)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=RF_Filter+:+STA1090EC)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=RF_Filter+:+STA1090EC)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 NO IMAGES  
 ## Tags

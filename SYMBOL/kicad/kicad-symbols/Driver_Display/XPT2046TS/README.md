@@ -6,8 +6,6 @@ Contents
 ========
 
 * [SZKDRIVERDIXPT246TS > Driver_Display : XPT2046TS](#szkdriverdixpt246ts--driver_display--xpt2046ts)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -19,18 +17,6 @@ Contents
 - Description: Driver_Display : XPT2046TS
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_Display-XPT2046TS](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_Display-XPT2046TS)
 - Short Link: [http://oom.lt/SZKDRIVERDIXPT246TS](http://oom.lt/SZKDRIVERDIXPT246TS)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Driver_Display+:+XPT2046TS)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Driver_Display+:+XPT2046TS)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Driver_Display+:+XPT2046TS)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Driver_Display+:+XPT2046TS)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Driver_Display+:+XPT2046TS)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Driver_Display+:+XPT2046TS)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Driver_Display/XPT2046TS/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Driver_Display/XPT2046TS/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Driver_Display/XPT2046TS/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Driver_Display/XPT2046TS/image.png)|||

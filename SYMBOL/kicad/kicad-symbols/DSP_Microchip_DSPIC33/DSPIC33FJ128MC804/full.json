@@ -36,6 +36,9 @@
         "jsonFull": [
             "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/DSP_Microchip_DSPIC33/DSPIC33FJ128MC804/full.json"
         ],
+        "mpnList": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/DSP_Microchip_DSPIC33/DSPIC33FJ128MC804/MPNLIST.md"
+        ],
         "readme": [
             "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/DSP_Microchip_DSPIC33/DSPIC33FJ128MC804/README.md"
         ]

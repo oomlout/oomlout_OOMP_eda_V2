@@ -60,6 +60,9 @@
         "kicadPcb3dFront": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/RF_Antenna/Texas_SWRA416_868MHz_915MHz/kicadPcb3dFront.png"
         ],
+        "mpnList": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/RF_Antenna/Texas_SWRA416_868MHz_915MHz/MPNLIST.md"
+        ],
         "readme": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/RF_Antenna/Texas_SWRA416_868MHz_915MHz/README.md"
         ]

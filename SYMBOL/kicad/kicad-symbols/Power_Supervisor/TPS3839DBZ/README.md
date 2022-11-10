@@ -6,8 +6,6 @@ Contents
 ========
 
 * [SZKPOWERSUPERVISORTPS3839DBZ > Power_Supervisor : TPS3839DBZ](#szkpowersupervisortps3839dbz--power_supervisor--tps3839dbz)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -19,18 +17,6 @@ Contents
 - Description: Power_Supervisor : TPS3839DBZ
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Supervisor-TPS3839DBZ](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Supervisor-TPS3839DBZ)
 - Short Link: [http://oom.lt/SZKPOWERSUPERVISORTPS3839DBZ](http://oom.lt/SZKPOWERSUPERVISORTPS3839DBZ)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Power_Supervisor+:+TPS3839DBZ)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Power_Supervisor+:+TPS3839DBZ)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Power_Supervisor+:+TPS3839DBZ)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Power_Supervisor+:+TPS3839DBZ)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Power_Supervisor+:+TPS3839DBZ)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Power_Supervisor+:+TPS3839DBZ)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Power_Supervisor/TPS3839DBZ/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Power_Supervisor/TPS3839DBZ/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Power_Supervisor/TPS3839DBZ/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Power_Supervisor/TPS3839DBZ/image.png)|||

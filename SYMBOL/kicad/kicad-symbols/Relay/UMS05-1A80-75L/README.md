@@ -6,8 +6,6 @@ Contents
 ========
 
 * [SZKRELAYUMS51A875L > Relay : UMS05-1A80-75L](#szkrelayums51a875l--relay--ums05-1a80-75l)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -19,18 +17,6 @@ Contents
 - Description: Relay : UMS05-1A80-75L
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-UMS05-1A80-75L](http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-UMS05-1A80-75L)
 - Short Link: [http://oom.lt/SZKRELAYUMS51A875L](http://oom.lt/SZKRELAYUMS51A875L)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Relay+:+UMS05-1A80-75L)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Relay+:+UMS05-1A80-75L)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Relay+:+UMS05-1A80-75L)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Relay+:+UMS05-1A80-75L)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Relay+:+UMS05-1A80-75L)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Relay+:+UMS05-1A80-75L)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Relay/UMS05-1A80-75L/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Relay/UMS05-1A80-75L/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Relay/UMS05-1A80-75L/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Relay/UMS05-1A80-75L/image.png)|||

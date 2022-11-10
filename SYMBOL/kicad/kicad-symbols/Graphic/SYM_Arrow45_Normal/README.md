@@ -6,8 +6,6 @@ Contents
 ========
 
 * [SZKGRAPHICSYMARROW45NORMAL > Graphic : SYM_Arrow45_Normal](#szkgraphicsymarrow45normal--graphic--sym_arrow45_normal)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -19,18 +17,6 @@ Contents
 - Description: Graphic : SYM_Arrow45_Normal
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Graphic-SYM_Arrow45_Normal](http://oom.lt/SYMBOL-kicad-kicad-symbols-Graphic-SYM_Arrow45_Normal)
 - Short Link: [http://oom.lt/SZKGRAPHICSYMARROW45NORMAL](http://oom.lt/SZKGRAPHICSYMARROW45NORMAL)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Graphic+:+SYM_Arrow45_Normal)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Graphic+:+SYM_Arrow45_Normal)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Graphic+:+SYM_Arrow45_Normal)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Graphic+:+SYM_Arrow45_Normal)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Graphic+:+SYM_Arrow45_Normal)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Graphic+:+SYM_Arrow45_Normal)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Graphic/SYM_Arrow45_Normal/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Graphic/SYM_Arrow45_Normal/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Graphic/SYM_Arrow45_Normal/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Graphic/SYM_Arrow45_Normal/image.png)|||

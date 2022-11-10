@@ -6,8 +6,6 @@ Contents
 ========
 
 * [FZKHOLHOL64M6ISO1458PADTOPONLY > MountingHole : MountingHole_6.4mm_M6_ISO14580_Pad_TopOnly](#fzkholhol64m6iso1458padtoponly--mountinghole--mountinghole_64mm_m6_iso14580_pad_toponly)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -19,18 +17,6 @@ Contents
 - Description: MountingHole : MountingHole_6.4mm_M6_ISO14580_Pad_TopOnly
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-MountingHole-MountingHole_6.4mm_M6_ISO14580_Pad_TopOnly](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-MountingHole-MountingHole_6.4mm_M6_ISO14580_Pad_TopOnly)
 - Short Link: [http://oom.lt/FZKHOLHOL64M6ISO1458PADTOPONLY](http://oom.lt/FZKHOLHOL64M6ISO1458PADTOPONLY)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117MountingHole+:+MountingHole_6.4mm_M6_ISO14580_Pad_TopOnly)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/MountingHole+:+MountingHole_6.4mm_M6_ISO14580_Pad_TopOnly)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=MountingHole+:+MountingHole_6.4mm_M6_ISO14580_Pad_TopOnly)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=MountingHole+:+MountingHole_6.4mm_M6_ISO14580_Pad_TopOnly)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=MountingHole+:+MountingHole_6.4mm_M6_ISO14580_Pad_TopOnly)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=MountingHole+:+MountingHole_6.4mm_M6_ISO14580_Pad_TopOnly)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/MountingHole/MountingHole_6.4mm_M6_ISO14580_Pad_TopOnly/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/MountingHole/MountingHole_6.4mm_M6_ISO14580_Pad_TopOnly/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/MountingHole/MountingHole_6.4mm_M6_ISO14580_Pad_TopOnly/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/MountingHole/MountingHole_6.4mm_M6_ISO14580_Pad_TopOnly/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/MountingHole/MountingHole_6.4mm_M6_ISO14580_Pad_TopOnly/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/MountingHole/MountingHole_6.4mm_M6_ISO14580_Pad_TopOnly/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/MountingHole/MountingHole_6.4mm_M6_ISO14580_Pad_TopOnly/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/MountingHole/MountingHole_6.4mm_M6_ISO14580_Pad_TopOnly/kicadPcb3dBack.png)|

@@ -61,6 +61,9 @@
         "kicadPcb3dFront": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Resistor_THT/R_Axial_Shunt_L35.3mm_W9.5mm_PS25.40mm_P38.10mm/kicadPcb3dFront.png"
         ],
+        "mpnList": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Resistor_THT/R_Axial_Shunt_L35.3mm_W9.5mm_PS25.40mm_P38.10mm/MPNLIST.md"
+        ],
         "readme": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Resistor_THT/R_Axial_Shunt_L35.3mm_W9.5mm_PS25.40mm_P38.10mm/README.md"
         ]

@@ -6,8 +6,6 @@ Contents
 ========
 
 * [FZKSZSYHIGHVOLTAGETYPE2CTOPVERYSLL > Symbol : Symbol_HighVoltage_Type2_CopperTop_VerySmall](#fzkszsyhighvoltagetype2ctopverysll--symbol--symbol_highvoltage_type2_coppertop_verysmall)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -19,18 +17,6 @@ Contents
 - Description: Symbol : Symbol_HighVoltage_Type2_CopperTop_VerySmall
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Symbol-Symbol_HighVoltage_Type2_CopperTop_VerySmall](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Symbol-Symbol_HighVoltage_Type2_CopperTop_VerySmall)
 - Short Link: [http://oom.lt/FZKSZSYHIGHVOLTAGETYPE2CTOPVERYSLL](http://oom.lt/FZKSZSYHIGHVOLTAGETYPE2CTOPVERYSLL)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Symbol+:+Symbol_HighVoltage_Type2_CopperTop_VerySmall)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Symbol+:+Symbol_HighVoltage_Type2_CopperTop_VerySmall)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Symbol+:+Symbol_HighVoltage_Type2_CopperTop_VerySmall)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Symbol+:+Symbol_HighVoltage_Type2_CopperTop_VerySmall)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Symbol+:+Symbol_HighVoltage_Type2_CopperTop_VerySmall)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Symbol+:+Symbol_HighVoltage_Type2_CopperTop_VerySmall)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Symbol/Symbol_HighVoltage_Type2_CopperTop_VerySmall/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Symbol/Symbol_HighVoltage_Type2_CopperTop_VerySmall/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Symbol/Symbol_HighVoltage_Type2_CopperTop_VerySmall/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Symbol/Symbol_HighVoltage_Type2_CopperTop_VerySmall/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Symbol/Symbol_HighVoltage_Type2_CopperTop_VerySmall/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Symbol/Symbol_HighVoltage_Type2_CopperTop_VerySmall/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Symbol/Symbol_HighVoltage_Type2_CopperTop_VerySmall/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Symbol/Symbol_HighVoltage_Type2_CopperTop_VerySmall/kicadPcb3dBack.png)|

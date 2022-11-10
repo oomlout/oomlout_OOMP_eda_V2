@@ -6,8 +6,6 @@ Contents
 ========
 
 * [SZKAUDIOSRC4392XPFB > Audio : SRC4392xPFB](#szkaudiosrc4392xpfb--audio--src4392xpfb)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -19,18 +17,6 @@ Contents
 - Description: Audio : SRC4392xPFB
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Audio-SRC4392xPFB](http://oom.lt/SYMBOL-kicad-kicad-symbols-Audio-SRC4392xPFB)
 - Short Link: [http://oom.lt/SZKAUDIOSRC4392XPFB](http://oom.lt/SZKAUDIOSRC4392XPFB)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Audio+:+SRC4392xPFB)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Audio+:+SRC4392xPFB)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Audio+:+SRC4392xPFB)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Audio+:+SRC4392xPFB)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Audio+:+SRC4392xPFB)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Audio+:+SRC4392xPFB)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Audio/SRC4392xPFB/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Audio/SRC4392xPFB/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Audio/SRC4392xPFB/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Audio/SRC4392xPFB/image.png)|||

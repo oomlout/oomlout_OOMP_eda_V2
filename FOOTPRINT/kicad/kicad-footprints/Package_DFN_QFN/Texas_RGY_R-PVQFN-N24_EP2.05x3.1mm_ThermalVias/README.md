@@ -6,8 +6,6 @@ Contents
 ========
 
 * [FZKDFNTEXASRGYRPVQFNN24EP25X31THERMALVIAS > Package_DFN_QFN : Texas_RGY_R-PVQFN-N24_EP2.05x3.1mm_ThermalVias](#fzkdfntexasrgyrpvqfnn24ep25x31thermalvias--package_dfn_qfn--texas_rgy_r-pvqfn-n24_ep205x31mm_thermalvias)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -19,18 +17,6 @@ Contents
 - Description: Package_DFN_QFN : Texas_RGY_R-PVQFN-N24_EP2.05x3.1mm_ThermalVias
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Texas_RGY_R-PVQFN-N24_EP2.05x3.1mm_ThermalVias](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Texas_RGY_R-PVQFN-N24_EP2.05x3.1mm_ThermalVias)
 - Short Link: [http://oom.lt/FZKDFNTEXASRGYRPVQFNN24EP25X31THERMALVIAS](http://oom.lt/FZKDFNTEXASRGYRPVQFNN24EP25X31THERMALVIAS)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Package_DFN_QFN+:+Texas_RGY_R-PVQFN-N24_EP2.05x3.1mm_ThermalVias)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Package_DFN_QFN+:+Texas_RGY_R-PVQFN-N24_EP2.05x3.1mm_ThermalVias)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Package_DFN_QFN+:+Texas_RGY_R-PVQFN-N24_EP2.05x3.1mm_ThermalVias)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Package_DFN_QFN+:+Texas_RGY_R-PVQFN-N24_EP2.05x3.1mm_ThermalVias)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Package_DFN_QFN+:+Texas_RGY_R-PVQFN-N24_EP2.05x3.1mm_ThermalVias)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Package_DFN_QFN+:+Texas_RGY_R-PVQFN-N24_EP2.05x3.1mm_ThermalVias)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/Texas_RGY_R-PVQFN-N24_EP2.05x3.1mm_ThermalVias/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/Texas_RGY_R-PVQFN-N24_EP2.05x3.1mm_ThermalVias/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/Texas_RGY_R-PVQFN-N24_EP2.05x3.1mm_ThermalVias/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/Texas_RGY_R-PVQFN-N24_EP2.05x3.1mm_ThermalVias/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/Texas_RGY_R-PVQFN-N24_EP2.05x3.1mm_ThermalVias/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/Texas_RGY_R-PVQFN-N24_EP2.05x3.1mm_ThermalVias/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/Texas_RGY_R-PVQFN-N24_EP2.05x3.1mm_ThermalVias/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/Texas_RGY_R-PVQFN-N24_EP2.05x3.1mm_ThermalVias/kicadPcb3dBack.png)|

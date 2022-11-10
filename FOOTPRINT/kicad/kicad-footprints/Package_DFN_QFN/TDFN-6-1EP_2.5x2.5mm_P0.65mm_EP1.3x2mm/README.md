@@ -6,8 +6,6 @@ Contents
 ========
 
 * [FZKDFNTDFN61EP25X25P65EP13X2 > Package_DFN_QFN : TDFN-6-1EP_2.5x2.5mm_P0.65mm_EP1.3x2mm](#fzkdfntdfn61ep25x25p65ep13x2--package_dfn_qfn--tdfn-6-1ep_25x25mm_p065mm_ep13x2mm)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -19,18 +17,6 @@ Contents
 - Description: Package_DFN_QFN : TDFN-6-1EP_2.5x2.5mm_P0.65mm_EP1.3x2mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-TDFN-6-1EP_2.5x2.5mm_P0.65mm_EP1.3x2mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-TDFN-6-1EP_2.5x2.5mm_P0.65mm_EP1.3x2mm)
 - Short Link: [http://oom.lt/FZKDFNTDFN61EP25X25P65EP13X2](http://oom.lt/FZKDFNTDFN61EP25X25P65EP13X2)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Package_DFN_QFN+:+TDFN-6-1EP_2.5x2.5mm_P0.65mm_EP1.3x2mm)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Package_DFN_QFN+:+TDFN-6-1EP_2.5x2.5mm_P0.65mm_EP1.3x2mm)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Package_DFN_QFN+:+TDFN-6-1EP_2.5x2.5mm_P0.65mm_EP1.3x2mm)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Package_DFN_QFN+:+TDFN-6-1EP_2.5x2.5mm_P0.65mm_EP1.3x2mm)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Package_DFN_QFN+:+TDFN-6-1EP_2.5x2.5mm_P0.65mm_EP1.3x2mm)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Package_DFN_QFN+:+TDFN-6-1EP_2.5x2.5mm_P0.65mm_EP1.3x2mm)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/TDFN-6-1EP_2.5x2.5mm_P0.65mm_EP1.3x2mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/TDFN-6-1EP_2.5x2.5mm_P0.65mm_EP1.3x2mm/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/TDFN-6-1EP_2.5x2.5mm_P0.65mm_EP1.3x2mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/TDFN-6-1EP_2.5x2.5mm_P0.65mm_EP1.3x2mm/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/TDFN-6-1EP_2.5x2.5mm_P0.65mm_EP1.3x2mm/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/TDFN-6-1EP_2.5x2.5mm_P0.65mm_EP1.3x2mm/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/TDFN-6-1EP_2.5x2.5mm_P0.65mm_EP1.3x2mm/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/TDFN-6-1EP_2.5x2.5mm_P0.65mm_EP1.3x2mm/kicadPcb3dBack.png)|

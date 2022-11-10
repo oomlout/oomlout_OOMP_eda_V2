@@ -6,8 +6,6 @@ Contents
 ========
 
 * [FZKCSPLFCSP61EP2X2P65EP1X16 > Package_CSP : LFCSP-6-1EP_2x2mm_P0.65mm_EP1x1.6mm](#fzkcsplfcsp61ep2x2p65ep1x16--package_csp--lfcsp-6-1ep_2x2mm_p065mm_ep1x16mm)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -19,18 +17,6 @@ NO IMAGE
 - Description: Package_CSP : LFCSP-6-1EP_2x2mm_P0.65mm_EP1x1.6mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_CSP-LFCSP-6-1EP_2x2mm_P0.65mm_EP1x1.6mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_CSP-LFCSP-6-1EP_2x2mm_P0.65mm_EP1x1.6mm)
 - Short Link: [http://oom.lt/FZKCSPLFCSP61EP2X2P65EP1X16](http://oom.lt/FZKCSPLFCSP61EP2X2P65EP1X16)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Package_CSP+:+LFCSP-6-1EP_2x2mm_P0.65mm_EP1x1.6mm)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Package_CSP+:+LFCSP-6-1EP_2x2mm_P0.65mm_EP1x1.6mm)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Package_CSP+:+LFCSP-6-1EP_2x2mm_P0.65mm_EP1x1.6mm)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Package_CSP+:+LFCSP-6-1EP_2x2mm_P0.65mm_EP1x1.6mm)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Package_CSP+:+LFCSP-6-1EP_2x2mm_P0.65mm_EP1x1.6mm)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Package_CSP+:+LFCSP-6-1EP_2x2mm_P0.65mm_EP1x1.6mm)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 NO IMAGES  
 ## Tags

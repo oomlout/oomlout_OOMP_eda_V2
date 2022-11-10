@@ -36,6 +36,9 @@
         "jsonFull": [
             "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector/RJ45_Abracon_ARJP11A-MASA-B-A-EMU2/full.json"
         ],
+        "mpnList": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector/RJ45_Abracon_ARJP11A-MASA-B-A-EMU2/MPNLIST.md"
+        ],
         "readme": [
             "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector/RJ45_Abracon_ARJP11A-MASA-B-A-EMU2/README.md"
         ]

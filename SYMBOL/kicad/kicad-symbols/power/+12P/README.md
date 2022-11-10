@@ -6,8 +6,6 @@ Contents
 ========
 
 * [SZKPOWER+12P > power : +12P](#szkpower12p--power--12p)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -19,18 +17,6 @@ Contents
 - Description: power : +12P
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-power-+12P](http://oom.lt/SYMBOL-kicad-kicad-symbols-power-+12P)
 - Short Link: [http://oom.lt/SZKPOWER+12P](http://oom.lt/SZKPOWER+12P)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117power+:++12P)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/power+:++12P)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=power+:++12P)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=power+:++12P)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=power+:++12P)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=power+:++12P)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/power/+12P/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/power/+12P/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/power/+12P/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/power/+12P/image.png)|||

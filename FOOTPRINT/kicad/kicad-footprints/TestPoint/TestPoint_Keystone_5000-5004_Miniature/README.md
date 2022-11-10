@@ -6,8 +6,6 @@ Contents
 ========
 
 * [FZKTPTPKEYSTONE554MATURE > TestPoint : TestPoint_Keystone_5000-5004_Miniature](#fzktptpkeystone554mature--testpoint--testpoint_keystone_5000-5004_miniature)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -19,18 +17,6 @@ Contents
 - Description: TestPoint : TestPoint_Keystone_5000-5004_Miniature
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-TestPoint-TestPoint_Keystone_5000-5004_Miniature](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-TestPoint-TestPoint_Keystone_5000-5004_Miniature)
 - Short Link: [http://oom.lt/FZKTPTPKEYSTONE554MATURE](http://oom.lt/FZKTPTPKEYSTONE554MATURE)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117TestPoint+:+TestPoint_Keystone_5000-5004_Miniature)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/TestPoint+:+TestPoint_Keystone_5000-5004_Miniature)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=TestPoint+:+TestPoint_Keystone_5000-5004_Miniature)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=TestPoint+:+TestPoint_Keystone_5000-5004_Miniature)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=TestPoint+:+TestPoint_Keystone_5000-5004_Miniature)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=TestPoint+:+TestPoint_Keystone_5000-5004_Miniature)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/TestPoint/TestPoint_Keystone_5000-5004_Miniature/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/TestPoint/TestPoint_Keystone_5000-5004_Miniature/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/TestPoint/TestPoint_Keystone_5000-5004_Miniature/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/TestPoint/TestPoint_Keystone_5000-5004_Miniature/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/TestPoint/TestPoint_Keystone_5000-5004_Miniature/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/TestPoint/TestPoint_Keystone_5000-5004_Miniature/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/TestPoint/TestPoint_Keystone_5000-5004_Miniature/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/TestPoint/TestPoint_Keystone_5000-5004_Miniature/kicadPcb3dBack.png)|

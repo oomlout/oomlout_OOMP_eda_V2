@@ -6,8 +6,6 @@ Contents
 ========
 
 * [SZKPOWERMANAGEMENTMIC2261BN > Power_Management : MIC2026-1BN](#szkpowermanagementmic2261bn--power_management--mic2026-1bn)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -19,18 +17,6 @@ Contents
 - Description: Power_Management : MIC2026-1BN
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-MIC2026-1BN](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-MIC2026-1BN)
 - Short Link: [http://oom.lt/SZKPOWERMANAGEMENTMIC2261BN](http://oom.lt/SZKPOWERMANAGEMENTMIC2261BN)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Power_Management+:+MIC2026-1BN)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Power_Management+:+MIC2026-1BN)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Power_Management+:+MIC2026-1BN)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Power_Management+:+MIC2026-1BN)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Power_Management+:+MIC2026-1BN)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Power_Management+:+MIC2026-1BN)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Power_Management/MIC2026-1BN/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Power_Management/MIC2026-1BN/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Power_Management/MIC2026-1BN/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Power_Management/MIC2026-1BN/image.png)|||

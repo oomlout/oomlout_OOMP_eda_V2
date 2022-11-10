@@ -6,8 +6,6 @@ Contents
 ========
 
 * [FZKSZOSHWSY335X3C > Symbol : OSHW-Symbol_33.5x30mm_Copper](#fzkszoshwsy335x3c--symbol--oshw-symbol_335x30mm_copper)
-	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -19,18 +17,6 @@ Contents
 - Description: Symbol : OSHW-Symbol_33.5x30mm_Copper
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Symbol-OSHW-Symbol_33.5x30mm_Copper](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Symbol-OSHW-Symbol_33.5x30mm_Copper)
 - Short Link: [http://oom.lt/FZKSZOSHWSY335X3C](http://oom.lt/FZKSZOSHWSY335X3C)
-
-## Distributor Searches
-  
-Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Symbol+:+OSHW-Symbol_33.5x30mm_Copper)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Symbol+:+OSHW-Symbol_33.5x30mm_Copper)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Symbol+:+OSHW-Symbol_33.5x30mm_Copper)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Symbol+:+OSHW-Symbol_33.5x30mm_Copper)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Symbol+:+OSHW-Symbol_33.5x30mm_Copper)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Symbol+:+OSHW-Symbol_33.5x30mm_Copper)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Symbol/OSHW-Symbol_33.5x30mm_Copper/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Symbol/OSHW-Symbol_33.5x30mm_Copper/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Symbol/OSHW-Symbol_33.5x30mm_Copper/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Symbol/OSHW-Symbol_33.5x30mm_Copper/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Symbol/OSHW-Symbol_33.5x30mm_Copper/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Symbol/OSHW-Symbol_33.5x30mm_Copper/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Symbol/OSHW-Symbol_33.5x30mm_Copper/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Symbol/OSHW-Symbol_33.5x30mm_Copper/kicadPcb3dBack.png)|
