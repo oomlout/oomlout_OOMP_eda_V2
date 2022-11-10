@@ -8,7 +8,7 @@ Contents
 * [FZA2X2B > adafruit : 2X20-BIG](#fza2x2b--adafruit--2x20-big)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZA2X2B > adafruit : 2X20-BIG
 
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-2X20-BIG
@@ -18,7 +18,11 @@ NO IMAGE
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-2X20-BIG](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-2X20-BIG)
 - Short Link: [http://oom.lt/FZA2X2B](http://oom.lt/FZA2X2B)
   
-NO IMAGES  
+
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/2X20-BIG/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/2X20-BIG/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/2X20-BIG/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/2X20-BIG/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/2X20-BIG/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/2X20-BIG/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/2X20-BIG/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/2X20-BIG/kicadPcb3dBack.png)|
+| :---: | :---: | :---: | :---: |
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/2X20-BIG/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/2X20-BIG/kicadPcb3d.png)||||
+
 ## Tags
   
 
@@ -33,3 +37,7 @@ NO IMAGES
 |Hex ID (short code)|hexID|FZA2X2B|
 |name|name|adafruit : 2X20-BIG|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

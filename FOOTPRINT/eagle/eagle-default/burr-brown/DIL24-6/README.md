@@ -8,7 +8,7 @@ Contents
 * [FZEBURRBROWNDIL246 > burr-brown : DIL24-6](#fzeburrbrowndil246--burr-brown--dil24-6)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEBURRBROWNDIL246 > burr-brown : DIL24-6
 
 - ID: FOOTPRINT-eagle-eagle-default-burr-brown-DIL24-6
@@ -18,7 +18,11 @@ NO IMAGE
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-burr-brown-DIL24-6](http://oom.lt/FOOTPRINT-eagle-eagle-default-burr-brown-DIL24-6)
 - Short Link: [http://oom.lt/FZEBURRBROWNDIL246](http://oom.lt/FZEBURRBROWNDIL246)
   
-NO IMAGES  
+
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/burr-brown/DIL24-6/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/burr-brown/DIL24-6/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/burr-brown/DIL24-6/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/burr-brown/DIL24-6/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/burr-brown/DIL24-6/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/burr-brown/DIL24-6/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/burr-brown/DIL24-6/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/burr-brown/DIL24-6/kicadPcb3dBack.png)|
+| :---: | :---: | :---: | :---: |
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/burr-brown/DIL24-6/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/burr-brown/DIL24-6/kicadPcb3d.png)||||
+
 ## Tags
   
 
@@ -33,3 +37,7 @@ NO IMAGES
 |Hex ID (short code)|hexID|FZEBURRBROWNDIL246|
 |name|name|burr-brown : DIL24-6|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

@@ -8,7 +8,7 @@ Contents
 * [FZA1X15CB > adafruit : 1X15-CB](#fza1x15cb--adafruit--1x15-cb)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZA1X15CB > adafruit : 1X15-CB
 
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-1X15-CB
@@ -18,7 +18,11 @@ NO IMAGE
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-1X15-CB](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-1X15-CB)
 - Short Link: [http://oom.lt/FZA1X15CB](http://oom.lt/FZA1X15CB)
   
-NO IMAGES  
+
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/1X15-CB/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/1X15-CB/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/1X15-CB/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/1X15-CB/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/1X15-CB/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/1X15-CB/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/1X15-CB/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/1X15-CB/kicadPcb3dBack.png)|
+| :---: | :---: | :---: | :---: |
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/1X15-CB/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/1X15-CB/kicadPcb3d.png)||||
+
 ## Tags
   
 
@@ -33,3 +37,7 @@ NO IMAGES
 |Hex ID (short code)|hexID|FZA1X15CB|
 |name|name|adafruit : 1X15-CB|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

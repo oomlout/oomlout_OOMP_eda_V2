@@ -8,7 +8,7 @@ Contents
 * [FZAC1584X183 > adafruit : C150-084X183](#fzac1584x183--adafruit--c150-084x183)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZAC1584X183 > adafruit : C150-084X183
 
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-C150-084X183
@@ -18,7 +18,11 @@ NO IMAGE
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-C150-084X183](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-C150-084X183)
 - Short Link: [http://oom.lt/FZAC1584X183](http://oom.lt/FZAC1584X183)
   
-NO IMAGES  
+
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/C150-084X183/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/C150-084X183/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/C150-084X183/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/C150-084X183/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/C150-084X183/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/C150-084X183/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/C150-084X183/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/C150-084X183/kicadPcb3dBack.png)|
+| :---: | :---: | :---: | :---: |
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/C150-084X183/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/C150-084X183/kicadPcb3d.png)||||
+
 ## Tags
   
 
@@ -33,3 +37,7 @@ NO IMAGES
 |Hex ID (short code)|hexID|FZAC1584X183|
 |name|name|adafruit : C150-084X183|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

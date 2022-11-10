@@ -35,7 +35,7 @@ Contents
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Reference_Voltage-MAX874|
 |Hex ID (short code)|hexID|SZKREFERENCEVOLTAGEMAX874|
 |name|name|Reference_Voltage : MAX874|
-|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MAX874'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//pdfserv.maximintegrated.com/en/ds/MAX872-MAX874.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Low-Dropout Precision Voltage Reference'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '10µA Low-Dropout Precision Voltage Reference</td><td> SO-8/DIP-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP*W7.62mm* SOIC*3.9x4.9mm*P1.27mm*'</td></tr></table>]|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MAX874'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//pdfserv.maximintegrated.com/en/ds/MAX872-MAX874.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Low-Dropout Precision Voltage Reference'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '10ÂµA Low-Dropout Precision Voltage Reference</td><td> SO-8/DIP-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP*W7.62mm* SOIC*3.9x4.9mm*P1.27mm*'</td></tr></table>]|
 ||||
 
 

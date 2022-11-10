@@ -35,7 +35,7 @@ Contents
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-LT1307CN8|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGLT137CN8|
 |name|name|Regulator_Switching : LT1307CN8|
-|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LT1307CN8'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DIP</td></tr><tr><td>DIP-8_W7.62mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.analog.com/media/en/technical-documentation/data-sheets/1307fa.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Micropower PWM DC/DC Converter'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Single Cell Micropower 600kHz PWM DC/DC Converter</td><td> 50µA Quiescent Current</td><td> DIP-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP*W7.62mm*'</td></tr></table>]|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LT1307CN8'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DIP</td></tr><tr><td>DIP-8_W7.62mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.analog.com/media/en/technical-documentation/data-sheets/1307fa.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Micropower PWM DC/DC Converter'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Single Cell Micropower 600kHz PWM DC/DC Converter</td><td> 50ÂµA Quiescent Current</td><td> DIP-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP*W7.62mm*'</td></tr></table>]|
 ||||
 
 

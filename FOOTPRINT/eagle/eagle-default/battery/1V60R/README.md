@@ -8,7 +8,7 @@ Contents
 * [FZEBAT1V6R > battery : 1V60R](#fzebat1v6r--battery--1v60r)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEBAT1V6R > battery : 1V60R
 
 - ID: FOOTPRINT-eagle-eagle-default-battery-1V60R
@@ -18,7 +18,11 @@ NO IMAGE
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-battery-1V60R](http://oom.lt/FOOTPRINT-eagle-eagle-default-battery-1V60R)
 - Short Link: [http://oom.lt/FZEBAT1V6R](http://oom.lt/FZEBAT1V6R)
   
-NO IMAGES  
+
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/battery/1V60R/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/battery/1V60R/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/battery/1V60R/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/battery/1V60R/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/battery/1V60R/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/battery/1V60R/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/battery/1V60R/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/battery/1V60R/kicadPcb3dBack.png)|
+| :---: | :---: | :---: | :---: |
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/battery/1V60R/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/battery/1V60R/kicadPcb3d.png)||||
+
 ## Tags
   
 
@@ -33,3 +37,7 @@ NO IMAGES
 |Hex ID (short code)|hexID|FZEBAT1V6R|
 |name|name|battery : 1V60R|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

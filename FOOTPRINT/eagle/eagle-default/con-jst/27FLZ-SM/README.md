@@ -8,7 +8,7 @@ Contents
 * [FZECONJST27FLZSM > con-jst : 27FLZ-SM](#fzeconjst27flzsm--con-jst--27flz-sm)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZECONJST27FLZSM > con-jst : 27FLZ-SM
 
 - ID: FOOTPRINT-eagle-eagle-default-con-jst-27FLZ-SM
@@ -18,7 +18,11 @@ NO IMAGE
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-jst-27FLZ-SM](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-jst-27FLZ-SM)
 - Short Link: [http://oom.lt/FZECONJST27FLZSM](http://oom.lt/FZECONJST27FLZSM)
   
-NO IMAGES  
+
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/con-jst/27FLZ-SM/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/con-jst/27FLZ-SM/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/con-jst/27FLZ-SM/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/con-jst/27FLZ-SM/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/con-jst/27FLZ-SM/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/con-jst/27FLZ-SM/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/con-jst/27FLZ-SM/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/con-jst/27FLZ-SM/kicadPcb3dBack.png)|
+| :---: | :---: | :---: | :---: |
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/con-jst/27FLZ-SM/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/con-jst/27FLZ-SM/kicadPcb3d.png)||||
+
 ## Tags
   
 
@@ -33,3 +37,7 @@ NO IMAGES
 |Hex ID (short code)|hexID|FZECONJST27FLZSM|
 |name|name|con-jst : 27FLZ-SM|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

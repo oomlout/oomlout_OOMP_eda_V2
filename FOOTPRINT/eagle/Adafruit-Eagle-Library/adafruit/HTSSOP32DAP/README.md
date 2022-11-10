@@ -8,7 +8,7 @@ Contents
 * [FZAHTSS32DAP > adafruit : HTSSOP32DAP](#fzahtss32dap--adafruit--htssop32dap)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZAHTSS32DAP > adafruit : HTSSOP32DAP
 
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-HTSSOP32DAP
@@ -18,7 +18,11 @@ NO IMAGE
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-HTSSOP32DAP](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-HTSSOP32DAP)
 - Short Link: [http://oom.lt/FZAHTSS32DAP](http://oom.lt/FZAHTSS32DAP)
   
-NO IMAGES  
+
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/HTSSOP32DAP/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/HTSSOP32DAP/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/HTSSOP32DAP/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/HTSSOP32DAP/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/HTSSOP32DAP/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/HTSSOP32DAP/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/HTSSOP32DAP/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/HTSSOP32DAP/kicadPcb3dBack.png)|
+| :---: | :---: | :---: | :---: |
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/HTSSOP32DAP/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/HTSSOP32DAP/kicadPcb3d.png)||||
+
 ## Tags
   
 
@@ -33,3 +37,7 @@ NO IMAGES
 |Hex ID (short code)|hexID|FZAHTSS32DAP|
 |name|name|adafruit : HTSSOP32DAP|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

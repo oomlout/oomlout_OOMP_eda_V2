@@ -8,7 +8,7 @@ Contents
 * [FZECONAMPMTS9P > con-amp-mt : S09P](#fzeconampmts9p--con-amp-mt--s09p)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZECONAMPMTS9P > con-amp-mt : S09P
 
 - ID: FOOTPRINT-eagle-eagle-default-con-amp-mt-S09P
@@ -18,7 +18,11 @@ NO IMAGE
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-amp-mt-S09P](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-amp-mt-S09P)
 - Short Link: [http://oom.lt/FZECONAMPMTS9P](http://oom.lt/FZECONAMPMTS9P)
   
-NO IMAGES  
+
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/con-amp-mt/S09P/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/con-amp-mt/S09P/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/con-amp-mt/S09P/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/con-amp-mt/S09P/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/con-amp-mt/S09P/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/con-amp-mt/S09P/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/con-amp-mt/S09P/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/con-amp-mt/S09P/kicadPcb3dBack.png)|
+| :---: | :---: | :---: | :---: |
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/con-amp-mt/S09P/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/con-amp-mt/S09P/kicadPcb3d.png)||||
+
 ## Tags
   
 
@@ -33,3 +37,7 @@ NO IMAGES
 |Hex ID (short code)|hexID|FZECONAMPMTS9P|
 |name|name|con-amp-mt : S09P|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

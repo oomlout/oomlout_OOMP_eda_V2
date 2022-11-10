@@ -35,7 +35,7 @@ Contents
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Relay_SolidState-LBB110|
 |Hex ID (short code)|hexID|SZKRELAYSOLIDSTATELBB11|
 |name|name|Relay_SolidState : LBB110|
-|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'TLP222A-2'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LBB110'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DIP</td></tr><tr><td>DIP-8_W7.62mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ixysic.com/home/pdfs.nsf/www/LBB110.pdf/$file/LBB110.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Dual MOSFET Output Photorelay 1-Form-B'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Dual Single-Pole</td><td> Normally Closed OptoMOS® Relay</td><td> DIP-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP*W7.62mm*'</td></tr></table>]|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'TLP222A-2'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LBB110'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DIP</td></tr><tr><td>DIP-8_W7.62mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ixysic.com/home/pdfs.nsf/www/LBB110.pdf/$file/LBB110.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Dual MOSFET Output Photorelay 1-Form-B'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Dual Single-Pole</td><td> Normally Closed OptoMOSÂ® Relay</td><td> DIP-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP*W7.62mm*'</td></tr></table>]|
 ||||
 
 

@@ -8,7 +8,7 @@ Contents
 * [FZEBUZZERFTMB > buzzer : F_TMB](#fzebuzzerftmb--buzzer--f_tmb)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEBUZZERFTMB > buzzer : F_TMB
 
 - ID: FOOTPRINT-eagle-eagle-default-buzzer-F_TMB
@@ -18,7 +18,11 @@ NO IMAGE
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-buzzer-F_TMB](http://oom.lt/FOOTPRINT-eagle-eagle-default-buzzer-F_TMB)
 - Short Link: [http://oom.lt/FZEBUZZERFTMB](http://oom.lt/FZEBUZZERFTMB)
   
-NO IMAGES  
+
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/buzzer/F_TMB/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/buzzer/F_TMB/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/buzzer/F_TMB/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/buzzer/F_TMB/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/buzzer/F_TMB/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/buzzer/F_TMB/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/buzzer/F_TMB/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/buzzer/F_TMB/kicadPcb3dBack.png)|
+| :---: | :---: | :---: | :---: |
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/buzzer/F_TMB/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/buzzer/F_TMB/kicadPcb3d.png)||||
+
 ## Tags
   
 
@@ -33,3 +37,7 @@ NO IMAGES
 |Hex ID (short code)|hexID|FZEBUZZERFTMB|
 |name|name|buzzer : F_TMB|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

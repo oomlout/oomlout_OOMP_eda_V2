@@ -8,7 +8,7 @@ Contents
 * [FZAMC1493BTSS14 > adafruit : MC14093B-TSSOP14](#fzamc1493btss14--adafruit--mc14093b-tssop14)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZAMC1493BTSS14 > adafruit : MC14093B-TSSOP14
 
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-MC14093B-TSSOP14
@@ -18,7 +18,11 @@ NO IMAGE
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-MC14093B-TSSOP14](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-MC14093B-TSSOP14)
 - Short Link: [http://oom.lt/FZAMC1493BTSS14](http://oom.lt/FZAMC1493BTSS14)
   
-NO IMAGES  
+
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/MC14093B-TSSOP14/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/MC14093B-TSSOP14/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/MC14093B-TSSOP14/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/MC14093B-TSSOP14/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/MC14093B-TSSOP14/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/MC14093B-TSSOP14/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/MC14093B-TSSOP14/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/MC14093B-TSSOP14/kicadPcb3dBack.png)|
+| :---: | :---: | :---: | :---: |
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/MC14093B-TSSOP14/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/MC14093B-TSSOP14/kicadPcb3d.png)||||
+
 ## Tags
   
 
@@ -33,3 +37,7 @@ NO IMAGES
 |Hex ID (short code)|hexID|FZAMC1493BTSS14|
 |name|name|adafruit : MC14093B-TSSOP14|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

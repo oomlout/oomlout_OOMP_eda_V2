@@ -8,7 +8,7 @@ Contents
 * [FZECONHIROSEUX6AMB5ST > con-hirose : UX60A-MB-5ST](#fzeconhiroseux6amb5st--con-hirose--ux60a-mb-5st)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZECONHIROSEUX6AMB5ST > con-hirose : UX60A-MB-5ST
 
 - ID: FOOTPRINT-eagle-eagle-default-con-hirose-UX60A-MB-5ST
@@ -18,7 +18,11 @@ NO IMAGE
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-hirose-UX60A-MB-5ST](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-hirose-UX60A-MB-5ST)
 - Short Link: [http://oom.lt/FZECONHIROSEUX6AMB5ST](http://oom.lt/FZECONHIROSEUX6AMB5ST)
   
-NO IMAGES  
+
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/con-hirose/UX60A-MB-5ST/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/con-hirose/UX60A-MB-5ST/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/con-hirose/UX60A-MB-5ST/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/con-hirose/UX60A-MB-5ST/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/con-hirose/UX60A-MB-5ST/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/con-hirose/UX60A-MB-5ST/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/con-hirose/UX60A-MB-5ST/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/con-hirose/UX60A-MB-5ST/kicadPcb3dBack.png)|
+| :---: | :---: | :---: | :---: |
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/con-hirose/UX60A-MB-5ST/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/con-hirose/UX60A-MB-5ST/kicadPcb3d.png)||||
+
 ## Tags
   
 
@@ -33,3 +37,7 @@ NO IMAGES
 |Hex ID (short code)|hexID|FZECONHIROSEUX6AMB5ST|
 |name|name|con-hirose : UX60A-MB-5ST|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

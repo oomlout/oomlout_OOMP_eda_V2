@@ -35,7 +35,7 @@ Contents
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Isolator_Analog-ACPL-C87A|
 |Hex ID (short code)|hexID|SZKISOLATORANALOGACPLC87A|
 |name|name|Isolator_Analog : ACPL-C87A|
-|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'ACPL-C870'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'ACPL-C87A'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>SSO-8_6.8x5.9mm_P1.27mm_Clearance8mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'www.avagotech.com/docs/AV02-3563EN'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Optycally Isolated Voltage Sensor'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Precision Optycally Isolated Voltage Sensor</td><td> ±1% Gain Tolerance</td><td> Bandwidth 100kHz</td><td> SSO-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SSO*6.8x5.9mm*P1.27mm*Clearance8mm*'</td></tr></table>]|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'ACPL-C870'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'ACPL-C87A'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>SSO-8_6.8x5.9mm_P1.27mm_Clearance8mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'www.avagotech.com/docs/AV02-3563EN'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Optycally Isolated Voltage Sensor'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Precision Optycally Isolated Voltage Sensor</td><td> Â±1% Gain Tolerance</td><td> Bandwidth 100kHz</td><td> SSO-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SSO*6.8x5.9mm*P1.27mm*Clearance8mm*'</td></tr></table>]|
 ||||
 
 

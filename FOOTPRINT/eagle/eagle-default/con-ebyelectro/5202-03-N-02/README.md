@@ -8,7 +8,7 @@ Contents
 * [FZECONEBYELECTRO5223N2 > con-ebyelectro : 5202-03-N-02](#fzeconebyelectro5223n2--con-ebyelectro--5202-03-n-02)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZECONEBYELECTRO5223N2 > con-ebyelectro : 5202-03-N-02
 
 - ID: FOOTPRINT-eagle-eagle-default-con-ebyelectro-5202-03-N-02
@@ -18,7 +18,11 @@ NO IMAGE
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-ebyelectro-5202-03-N-02](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-ebyelectro-5202-03-N-02)
 - Short Link: [http://oom.lt/FZECONEBYELECTRO5223N2](http://oom.lt/FZECONEBYELECTRO5223N2)
   
-NO IMAGES  
+
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/con-ebyelectro/5202-03-N-02/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/con-ebyelectro/5202-03-N-02/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/con-ebyelectro/5202-03-N-02/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/con-ebyelectro/5202-03-N-02/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/con-ebyelectro/5202-03-N-02/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/con-ebyelectro/5202-03-N-02/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/con-ebyelectro/5202-03-N-02/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/con-ebyelectro/5202-03-N-02/kicadPcb3dBack.png)|
+| :---: | :---: | :---: | :---: |
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/con-ebyelectro/5202-03-N-02/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/con-ebyelectro/5202-03-N-02/kicadPcb3d.png)||||
+
 ## Tags
   
 
@@ -33,3 +37,7 @@ NO IMAGES
 |Hex ID (short code)|hexID|FZECONEBYELECTRO5223N2|
 |name|name|con-ebyelectro : 5202-03-N-02|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

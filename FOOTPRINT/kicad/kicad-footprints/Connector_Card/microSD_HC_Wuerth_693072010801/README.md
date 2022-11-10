@@ -36,7 +36,7 @@ Contents
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Card-microSD_HC_Wuerth_693072010801|
 |Hex ID (short code)|hexID|FZKCNCARDMSDHCWUERTH69372181|
 |name|name|Connector_Card : microSD_HC_Wuerth_693072010801|
-|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'microSD_HC_Wuerth_693072010801'</td><td> 'description'</td></tr><tr><td> 'http</td></tr><tr><td>//katalog.we-online.de/em/datasheet/693072010801.pdf'</td><td> 'tags'</td></tr><tr><td> 'Micro SD Wuerth Wurth Würth'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_Card.3dshapes/microSD_HC_Wuerth_693072010801.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'microSD_HC_Wuerth_693072010801'</td><td> 'description'</td></tr><tr><td> 'http</td></tr><tr><td>//katalog.we-online.de/em/datasheet/693072010801.pdf'</td><td> 'tags'</td></tr><tr><td> 'Micro SD Wuerth Wurth WÃ¼rth'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_Card.3dshapes/microSD_HC_Wuerth_693072010801.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

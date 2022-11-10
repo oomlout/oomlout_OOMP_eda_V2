@@ -8,7 +8,7 @@ Contents
 * [FZECHIPCARDSIEMENSM2SM > chipcard-siemens : M20-SMD](#fzechipcardsiemensm2sm--chipcard-siemens--m20-smd)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZECHIPCARDSIEMENSM2SM > chipcard-siemens : M20-SMD
 
 - ID: FOOTPRINT-eagle-eagle-default-chipcard-siemens-M20-SMD
@@ -18,7 +18,11 @@ NO IMAGE
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-chipcard-siemens-M20-SMD](http://oom.lt/FOOTPRINT-eagle-eagle-default-chipcard-siemens-M20-SMD)
 - Short Link: [http://oom.lt/FZECHIPCARDSIEMENSM2SM](http://oom.lt/FZECHIPCARDSIEMENSM2SM)
   
-NO IMAGES  
+
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/chipcard-siemens/M20-SMD/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/chipcard-siemens/M20-SMD/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/chipcard-siemens/M20-SMD/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/chipcard-siemens/M20-SMD/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/chipcard-siemens/M20-SMD/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/chipcard-siemens/M20-SMD/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/chipcard-siemens/M20-SMD/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/chipcard-siemens/M20-SMD/kicadPcb3dBack.png)|
+| :---: | :---: | :---: | :---: |
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/chipcard-siemens/M20-SMD/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/chipcard-siemens/M20-SMD/kicadPcb3d.png)||||
+
 ## Tags
   
 
@@ -33,3 +37,7 @@ NO IMAGES
 |Hex ID (short code)|hexID|FZECHIPCARDSIEMENSM2SM|
 |name|name|chipcard-siemens : M20-SMD|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

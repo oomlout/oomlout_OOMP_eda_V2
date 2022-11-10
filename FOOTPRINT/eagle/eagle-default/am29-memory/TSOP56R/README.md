@@ -8,7 +8,7 @@ Contents
 * [FZEAM29MEMORYTS56R > am29-memory : TSOP56R](#fzeam29memoryts56r--am29-memory--tsop56r)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEAM29MEMORYTS56R > am29-memory : TSOP56R
 
 - ID: FOOTPRINT-eagle-eagle-default-am29-memory-TSOP56R
@@ -18,7 +18,11 @@ NO IMAGE
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-am29-memory-TSOP56R](http://oom.lt/FOOTPRINT-eagle-eagle-default-am29-memory-TSOP56R)
 - Short Link: [http://oom.lt/FZEAM29MEMORYTS56R](http://oom.lt/FZEAM29MEMORYTS56R)
   
-NO IMAGES  
+
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/am29-memory/TSOP56R/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/am29-memory/TSOP56R/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/am29-memory/TSOP56R/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/am29-memory/TSOP56R/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/am29-memory/TSOP56R/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/am29-memory/TSOP56R/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/am29-memory/TSOP56R/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/am29-memory/TSOP56R/kicadPcb3dBack.png)|
+| :---: | :---: | :---: | :---: |
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/am29-memory/TSOP56R/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/am29-memory/TSOP56R/kicadPcb3d.png)||||
+
 ## Tags
   
 
@@ -33,3 +37,7 @@ NO IMAGES
 |Hex ID (short code)|hexID|FZEAM29MEMORYTS56R|
 |name|name|am29-memory : TSOP56R|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

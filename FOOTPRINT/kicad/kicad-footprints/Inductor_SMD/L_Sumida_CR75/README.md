@@ -36,7 +36,7 @@ Contents
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Sumida_CR75|
 |Hex ID (short code)|hexID|FZKINDUCTORSMLSUMIDACR75|
 |name|name|Inductor_SMD : L_Sumida_CR75|
-|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'L_Sumida_CR75'</td><td> 'description'</td></tr><tr><td> 'Inductor</td><td> Sumida</td><td> 8.1mm × 7.3mm × 5.5 mm</td><td> Unshielded</td><td> http</td></tr><tr><td>//products.sumida.com/products/pdf/CR75.pdf'</td><td> 'tags'</td></tr><tr><td> 'Inductor SMD CR75 Unshielded'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Inductor_SMD.3dshapes/L_Sumida_CR75.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'L_Sumida_CR75'</td><td> 'description'</td></tr><tr><td> 'Inductor</td><td> Sumida</td><td> 8.1mm Ã— 7.3mm Ã— 5.5 mm</td><td> Unshielded</td><td> http</td></tr><tr><td>//products.sumida.com/products/pdf/CR75.pdf'</td><td> 'tags'</td></tr><tr><td> 'Inductor SMD CR75 Unshielded'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Inductor_SMD.3dshapes/L_Sumida_CR75.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||
 
 

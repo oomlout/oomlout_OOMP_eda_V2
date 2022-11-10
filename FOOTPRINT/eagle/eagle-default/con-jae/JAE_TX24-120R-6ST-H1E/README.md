@@ -8,7 +8,7 @@ Contents
 * [FZECONJAEJAETX2412R6STH1E > con-jae : JAE_TX24-120R-6ST-H1E](#fzeconjaejaetx2412r6sth1e--con-jae--jae_tx24-120r-6st-h1e)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZECONJAEJAETX2412R6STH1E > con-jae : JAE_TX24-120R-6ST-H1E
 
 - ID: FOOTPRINT-eagle-eagle-default-con-jae-JAE_TX24-120R-6ST-H1E
@@ -18,7 +18,11 @@ NO IMAGE
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-jae-JAE_TX24-120R-6ST-H1E](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-jae-JAE_TX24-120R-6ST-H1E)
 - Short Link: [http://oom.lt/FZECONJAEJAETX2412R6STH1E](http://oom.lt/FZECONJAEJAETX2412R6STH1E)
   
-NO IMAGES  
+
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/con-jae/JAE_TX24-120R-6ST-H1E/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/con-jae/JAE_TX24-120R-6ST-H1E/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/con-jae/JAE_TX24-120R-6ST-H1E/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/con-jae/JAE_TX24-120R-6ST-H1E/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/con-jae/JAE_TX24-120R-6ST-H1E/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/con-jae/JAE_TX24-120R-6ST-H1E/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/con-jae/JAE_TX24-120R-6ST-H1E/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/con-jae/JAE_TX24-120R-6ST-H1E/kicadPcb3dBack.png)|
+| :---: | :---: | :---: | :---: |
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/con-jae/JAE_TX24-120R-6ST-H1E/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/con-jae/JAE_TX24-120R-6ST-H1E/kicadPcb3d.png)||||
+
 ## Tags
   
 
@@ -33,3 +37,7 @@ NO IMAGES
 |Hex ID (short code)|hexID|FZECONJAEJAETX2412R6STH1E|
 |name|name|con-jae : JAE_TX24-120R-6ST-H1E|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

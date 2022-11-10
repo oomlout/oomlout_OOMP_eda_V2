@@ -8,7 +8,7 @@ Contents
 * [FZECONCYPRESSINDUSTRIES3234XB > con-cypressindustries : 32003-40XB](#fzeconcypressindustries3234xb--con-cypressindustries--32003-40xb)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZECONCYPRESSINDUSTRIES3234XB > con-cypressindustries : 32003-40XB
 
 - ID: FOOTPRINT-eagle-eagle-default-con-cypressindustries-32003-40XB
@@ -18,7 +18,11 @@ NO IMAGE
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-cypressindustries-32003-40XB](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-cypressindustries-32003-40XB)
 - Short Link: [http://oom.lt/FZECONCYPRESSINDUSTRIES3234XB](http://oom.lt/FZECONCYPRESSINDUSTRIES3234XB)
   
-NO IMAGES  
+
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/con-cypressindustries/32003-40XB/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/con-cypressindustries/32003-40XB/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/con-cypressindustries/32003-40XB/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/con-cypressindustries/32003-40XB/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/con-cypressindustries/32003-40XB/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/con-cypressindustries/32003-40XB/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/con-cypressindustries/32003-40XB/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/con-cypressindustries/32003-40XB/kicadPcb3dBack.png)|
+| :---: | :---: | :---: | :---: |
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/con-cypressindustries/32003-40XB/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/con-cypressindustries/32003-40XB/kicadPcb3d.png)||||
+
 ## Tags
   
 
@@ -33,3 +37,7 @@ NO IMAGES
 |Hex ID (short code)|hexID|FZECONCYPRESSINDUSTRIES3234XB|
 |name|name|con-cypressindustries : 32003-40XB|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

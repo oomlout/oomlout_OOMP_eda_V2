@@ -35,7 +35,7 @@ Contents
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Isolator_Analog-ACPL-C790|
 |Hex ID (short code)|hexID|SZKISOLATORANALOGACPLC79|
 |name|name|Isolator_Analog : ACPL-C790|
-|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'ACPL-C790'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>SSO-8_6.8x5.9mm_P1.27mm_Clearance8mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//docs.avagotech.com/docs/AV02-2460EN'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Isolation Amplifer'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Precision Isolation Amplifer</td><td> ±3% Gain Tolerance</td><td> Bandwidth 200kHz</td><td> SSO-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SSO*6.8x5.9mm*P1.27mm*Clearance8mm*'</td></tr></table>]|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'ACPL-C790'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>SSO-8_6.8x5.9mm_P1.27mm_Clearance8mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//docs.avagotech.com/docs/AV02-2460EN'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Isolation Amplifer'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Precision Isolation Amplifer</td><td> Â±3% Gain Tolerance</td><td> Bandwidth 200kHz</td><td> SSO-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SSO*6.8x5.9mm*P1.27mm*Clearance8mm*'</td></tr></table>]|
 ||||
 
 

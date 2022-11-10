@@ -8,7 +8,7 @@ Contents
 * [FZECONAMPCHAMP24HP > con-amp-champ : 24HP](#fzeconampchamp24hp--con-amp-champ--24hp)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZECONAMPCHAMP24HP > con-amp-champ : 24HP
 
 - ID: FOOTPRINT-eagle-eagle-default-con-amp-champ-24HP
@@ -18,7 +18,11 @@ NO IMAGE
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-amp-champ-24HP](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-amp-champ-24HP)
 - Short Link: [http://oom.lt/FZECONAMPCHAMP24HP](http://oom.lt/FZECONAMPCHAMP24HP)
   
-NO IMAGES  
+
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/con-amp-champ/24HP/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/con-amp-champ/24HP/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/con-amp-champ/24HP/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/con-amp-champ/24HP/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/con-amp-champ/24HP/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/con-amp-champ/24HP/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/con-amp-champ/24HP/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/con-amp-champ/24HP/kicadPcb3dBack.png)|
+| :---: | :---: | :---: | :---: |
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/con-amp-champ/24HP/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/con-amp-champ/24HP/kicadPcb3d.png)||||
+
 ## Tags
   
 
@@ -33,3 +37,7 @@ NO IMAGES
 |Hex ID (short code)|hexID|FZECONAMPCHAMP24HP|
 |name|name|con-amp-champ : 24HP|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

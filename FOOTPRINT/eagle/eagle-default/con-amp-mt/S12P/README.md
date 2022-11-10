@@ -8,7 +8,7 @@ Contents
 * [FZECONAMPMTS12P > con-amp-mt : S12P](#fzeconampmts12p--con-amp-mt--s12p)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZECONAMPMTS12P > con-amp-mt : S12P
 
 - ID: FOOTPRINT-eagle-eagle-default-con-amp-mt-S12P
@@ -18,7 +18,11 @@ NO IMAGE
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-amp-mt-S12P](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-amp-mt-S12P)
 - Short Link: [http://oom.lt/FZECONAMPMTS12P](http://oom.lt/FZECONAMPMTS12P)
   
-NO IMAGES  
+
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/con-amp-mt/S12P/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/con-amp-mt/S12P/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/con-amp-mt/S12P/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/con-amp-mt/S12P/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/con-amp-mt/S12P/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/con-amp-mt/S12P/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/con-amp-mt/S12P/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/con-amp-mt/S12P/kicadPcb3dBack.png)|
+| :---: | :---: | :---: | :---: |
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/con-amp-mt/S12P/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/con-amp-mt/S12P/kicadPcb3d.png)||||
+
 ## Tags
   
 
@@ -33,3 +37,7 @@ NO IMAGES
 |Hex ID (short code)|hexID|FZECONAMPMTS12P|
 |name|name|con-amp-mt : S12P|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

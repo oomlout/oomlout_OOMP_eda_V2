@@ -8,7 +8,7 @@ Contents
 * [FZAPBSMSJ > adafruit : PUSHBUTTON_SMD_SJ](#fzapbsmsj--adafruit--pushbutton_smd_sj)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZAPBSMSJ > adafruit : PUSHBUTTON_SMD_SJ
 
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-PUSHBUTTON_SMD_SJ
@@ -18,7 +18,11 @@ NO IMAGE
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-PUSHBUTTON_SMD_SJ](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-PUSHBUTTON_SMD_SJ)
 - Short Link: [http://oom.lt/FZAPBSMSJ](http://oom.lt/FZAPBSMSJ)
   
-NO IMAGES  
+
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/PUSHBUTTON_SMD_SJ/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/PUSHBUTTON_SMD_SJ/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/PUSHBUTTON_SMD_SJ/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/PUSHBUTTON_SMD_SJ/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/PUSHBUTTON_SMD_SJ/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/PUSHBUTTON_SMD_SJ/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/PUSHBUTTON_SMD_SJ/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/PUSHBUTTON_SMD_SJ/kicadPcb3dBack.png)|
+| :---: | :---: | :---: | :---: |
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/PUSHBUTTON_SMD_SJ/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/PUSHBUTTON_SMD_SJ/kicadPcb3d.png)||||
+
 ## Tags
   
 
@@ -33,3 +37,7 @@ NO IMAGES
 |Hex ID (short code)|hexID|FZAPBSMSJ|
 |name|name|adafruit : PUSHBUTTON_SMD_SJ|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

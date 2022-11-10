@@ -8,7 +8,7 @@ Contents
 * [FZECON3M2321271112JH > con-3m : 232-1271-00-1102JH](#fzecon3m2321271112jh--con-3m--232-1271-00-1102jh)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZECON3M2321271112JH > con-3m : 232-1271-00-1102JH
 
 - ID: FOOTPRINT-eagle-eagle-default-con-3m-232-1271-00-1102JH
@@ -18,7 +18,11 @@ NO IMAGE
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-3m-232-1271-00-1102JH](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-3m-232-1271-00-1102JH)
 - Short Link: [http://oom.lt/FZECON3M2321271112JH](http://oom.lt/FZECON3M2321271112JH)
   
-NO IMAGES  
+
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/con-3m/232-1271-00-1102JH/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/con-3m/232-1271-00-1102JH/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/con-3m/232-1271-00-1102JH/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/con-3m/232-1271-00-1102JH/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/con-3m/232-1271-00-1102JH/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/con-3m/232-1271-00-1102JH/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/con-3m/232-1271-00-1102JH/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/con-3m/232-1271-00-1102JH/kicadPcb3dBack.png)|
+| :---: | :---: | :---: | :---: |
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/con-3m/232-1271-00-1102JH/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/con-3m/232-1271-00-1102JH/kicadPcb3d.png)||||
+
 ## Tags
   
 
@@ -33,3 +37,7 @@ NO IMAGES
 |Hex ID (short code)|hexID|FZECON3M2321271112JH|
 |name|name|con-3m : 232-1271-00-1102JH|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

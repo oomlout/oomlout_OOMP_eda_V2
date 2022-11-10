@@ -8,7 +8,7 @@ Contents
 * [FZEANALOGDEVICESSO16W > analog-devices : SO-16W](#fzeanalogdevicesso16w--analog-devices--so-16w)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEANALOGDEVICESSO16W > analog-devices : SO-16W
 
 - ID: FOOTPRINT-eagle-eagle-default-analog-devices-SO-16W
@@ -18,7 +18,11 @@ NO IMAGE
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-analog-devices-SO-16W](http://oom.lt/FOOTPRINT-eagle-eagle-default-analog-devices-SO-16W)
 - Short Link: [http://oom.lt/FZEANALOGDEVICESSO16W](http://oom.lt/FZEANALOGDEVICESSO16W)
   
-NO IMAGES  
+
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/analog-devices/SO-16W/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/analog-devices/SO-16W/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/analog-devices/SO-16W/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/analog-devices/SO-16W/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/analog-devices/SO-16W/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/analog-devices/SO-16W/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/analog-devices/SO-16W/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/analog-devices/SO-16W/kicadPcb3dBack.png)|
+| :---: | :---: | :---: | :---: |
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/analog-devices/SO-16W/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/analog-devices/SO-16W/kicadPcb3d.png)||||
+
 ## Tags
   
 
@@ -33,3 +37,7 @@ NO IMAGES
 |Hex ID (short code)|hexID|FZEANALOGDEVICESSO16W|
 |name|name|analog-devices : SO-16W|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

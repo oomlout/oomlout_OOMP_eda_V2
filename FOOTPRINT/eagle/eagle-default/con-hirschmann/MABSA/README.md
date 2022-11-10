@@ -8,7 +8,7 @@ Contents
 * [FZECONHIRSCHMANNMABSA > con-hirschmann : MABSA](#fzeconhirschmannmabsa--con-hirschmann--mabsa)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZECONHIRSCHMANNMABSA > con-hirschmann : MABSA
 
 - ID: FOOTPRINT-eagle-eagle-default-con-hirschmann-MABSA
@@ -18,7 +18,11 @@ NO IMAGE
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-hirschmann-MABSA](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-hirschmann-MABSA)
 - Short Link: [http://oom.lt/FZECONHIRSCHMANNMABSA](http://oom.lt/FZECONHIRSCHMANNMABSA)
   
-NO IMAGES  
+
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/con-hirschmann/MABSA/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/con-hirschmann/MABSA/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/con-hirschmann/MABSA/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/con-hirschmann/MABSA/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/con-hirschmann/MABSA/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/con-hirschmann/MABSA/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/con-hirschmann/MABSA/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/con-hirschmann/MABSA/kicadPcb3dBack.png)|
+| :---: | :---: | :---: | :---: |
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/con-hirschmann/MABSA/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/con-hirschmann/MABSA/kicadPcb3d.png)||||
+
 ## Tags
   
 
@@ -33,3 +37,7 @@ NO IMAGES
 |Hex ID (short code)|hexID|FZECONHIRSCHMANNMABSA|
 |name|name|con-hirschmann : MABSA|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

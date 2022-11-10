@@ -8,7 +8,7 @@ Contents
 * [FZECONCOAXLTISASF54GT > con-coax : LTI-SASF54GT](#fzeconcoaxltisasf54gt--con-coax--lti-sasf54gt)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZECONCOAXLTISASF54GT > con-coax : LTI-SASF54GT
 
 - ID: FOOTPRINT-eagle-eagle-default-con-coax-LTI-SASF54GT
@@ -18,7 +18,11 @@ NO IMAGE
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-coax-LTI-SASF54GT](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-coax-LTI-SASF54GT)
 - Short Link: [http://oom.lt/FZECONCOAXLTISASF54GT](http://oom.lt/FZECONCOAXLTISASF54GT)
   
-NO IMAGES  
+
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/con-coax/LTI-SASF54GT/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/con-coax/LTI-SASF54GT/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/con-coax/LTI-SASF54GT/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/con-coax/LTI-SASF54GT/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/con-coax/LTI-SASF54GT/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/con-coax/LTI-SASF54GT/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/con-coax/LTI-SASF54GT/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/con-coax/LTI-SASF54GT/kicadPcb3dBack.png)|
+| :---: | :---: | :---: | :---: |
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/con-coax/LTI-SASF54GT/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/con-coax/LTI-SASF54GT/kicadPcb3d.png)||||
+
 ## Tags
   
 
@@ -33,3 +37,7 @@ NO IMAGES
 |Hex ID (short code)|hexID|FZECONCOAXLTISASF54GT|
 |name|name|con-coax : LTI-SASF54GT|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

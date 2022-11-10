@@ -8,7 +8,7 @@ Contents
 * [FZASFV4R1STE1LF > adafruit : SFV4R-1STE1LF](#fzasfv4r1ste1lf--adafruit--sfv4r-1ste1lf)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZASFV4R1STE1LF > adafruit : SFV4R-1STE1LF
 
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-SFV4R-1STE1LF
@@ -18,7 +18,11 @@ NO IMAGE
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-SFV4R-1STE1LF](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-SFV4R-1STE1LF)
 - Short Link: [http://oom.lt/FZASFV4R1STE1LF](http://oom.lt/FZASFV4R1STE1LF)
   
-NO IMAGES  
+
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/SFV4R-1STE1LF/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/SFV4R-1STE1LF/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/SFV4R-1STE1LF/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/SFV4R-1STE1LF/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/SFV4R-1STE1LF/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/SFV4R-1STE1LF/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/SFV4R-1STE1LF/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/SFV4R-1STE1LF/kicadPcb3dBack.png)|
+| :---: | :---: | :---: | :---: |
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/SFV4R-1STE1LF/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/SFV4R-1STE1LF/kicadPcb3d.png)||||
+
 ## Tags
   
 
@@ -33,3 +37,7 @@ NO IMAGES
 |Hex ID (short code)|hexID|FZASFV4R1STE1LF|
 |name|name|adafruit : SFV4R-1STE1LF|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

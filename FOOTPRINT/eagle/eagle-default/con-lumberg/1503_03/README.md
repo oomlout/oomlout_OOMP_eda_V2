@@ -8,7 +8,7 @@ Contents
 * [FZECONLUMBERG1533 > con-lumberg : 1503_03](#fzeconlumberg1533--con-lumberg--1503_03)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZECONLUMBERG1533 > con-lumberg : 1503_03
 
 - ID: FOOTPRINT-eagle-eagle-default-con-lumberg-1503_03
@@ -18,7 +18,11 @@ NO IMAGE
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-lumberg-1503_03](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-lumberg-1503_03)
 - Short Link: [http://oom.lt/FZECONLUMBERG1533](http://oom.lt/FZECONLUMBERG1533)
   
-NO IMAGES  
+
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/con-lumberg/1503_03/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/con-lumberg/1503_03/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/con-lumberg/1503_03/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/con-lumberg/1503_03/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/con-lumberg/1503_03/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/con-lumberg/1503_03/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/con-lumberg/1503_03/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/con-lumberg/1503_03/kicadPcb3dBack.png)|
+| :---: | :---: | :---: | :---: |
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/con-lumberg/1503_03/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/con-lumberg/1503_03/kicadPcb3d.png)||||
+
 ## Tags
   
 
@@ -33,3 +37,7 @@ NO IMAGES
 |Hex ID (short code)|hexID|FZECONLUMBERG1533|
 |name|name|con-lumberg : 1503_03|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

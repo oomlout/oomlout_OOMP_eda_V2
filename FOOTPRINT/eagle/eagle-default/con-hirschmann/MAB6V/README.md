@@ -8,7 +8,7 @@ Contents
 * [FZECONHIRSCHMANNMAB6V > con-hirschmann : MAB6V](#fzeconhirschmannmab6v--con-hirschmann--mab6v)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZECONHIRSCHMANNMAB6V > con-hirschmann : MAB6V
 
 - ID: FOOTPRINT-eagle-eagle-default-con-hirschmann-MAB6V
@@ -18,7 +18,11 @@ NO IMAGE
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-hirschmann-MAB6V](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-hirschmann-MAB6V)
 - Short Link: [http://oom.lt/FZECONHIRSCHMANNMAB6V](http://oom.lt/FZECONHIRSCHMANNMAB6V)
   
-NO IMAGES  
+
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/con-hirschmann/MAB6V/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/con-hirschmann/MAB6V/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/con-hirschmann/MAB6V/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/con-hirschmann/MAB6V/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/con-hirschmann/MAB6V/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/con-hirschmann/MAB6V/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/con-hirschmann/MAB6V/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/con-hirschmann/MAB6V/kicadPcb3dBack.png)|
+| :---: | :---: | :---: | :---: |
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/con-hirschmann/MAB6V/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/con-hirschmann/MAB6V/kicadPcb3d.png)||||
+
 ## Tags
   
 
@@ -33,3 +37,7 @@ NO IMAGES
 |Hex ID (short code)|hexID|FZECONHIRSCHMANNMAB6V|
 |name|name|con-hirschmann : MAB6V|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png
