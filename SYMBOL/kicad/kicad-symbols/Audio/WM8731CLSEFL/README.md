@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKAUDIOWM8731CLSEFL > Audio : WM8731CLSEFL](#szkaudiowm8731clsefl--audio--wm8731clsefl)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Audio : WM8731CLSEFL
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Audio-WM8731CLSEFL](http://oom.lt/SYMBOL-kicad-kicad-symbols-Audio-WM8731CLSEFL)
 - Short Link: [http://oom.lt/SZKAUDIOWM8731CLSEFL](http://oom.lt/SZKAUDIOWM8731CLSEFL)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Audio/WM8731CLSEFL/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Audio/WM8731CLSEFL/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Audio/WM8731CLSEFL/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Audio/WM8731CLSEFL/image.png)|||

@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKLOGICLEVELTRANSLATORNLSV2T244D > Logic_LevelTranslator : NLSV2T244D](#szklogicleveltranslatornlsv2t244d--logic_leveltranslator--nlsv2t244d)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Logic_LevelTranslator : NLSV2T244D
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Logic_LevelTranslator-NLSV2T244D](http://oom.lt/SYMBOL-kicad-kicad-symbols-Logic_LevelTranslator-NLSV2T244D)
 - Short Link: [http://oom.lt/SZKLOGICLEVELTRANSLATORNLSV2T244D](http://oom.lt/SZKLOGICLEVELTRANSLATORNLSV2T244D)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Logic_LevelTranslator/NLSV2T244D/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Logic_LevelTranslator/NLSV2T244D/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Logic_LevelTranslator/NLSV2T244D/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Logic_LevelTranslator/NLSV2T244D/image.png)|||

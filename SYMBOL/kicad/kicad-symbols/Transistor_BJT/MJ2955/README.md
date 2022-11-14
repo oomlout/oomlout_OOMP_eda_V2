@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKTRANSISTORBJTMJ2955 > Transistor_BJT : MJ2955](#szktransistorbjtmj2955--transistor_bjt--mj2955)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Transistor_BJT : MJ2955
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-MJ2955](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-MJ2955)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJTMJ2955](http://oom.lt/SZKTRANSISTORBJTMJ2955)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_BJT/MJ2955/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_BJT/MJ2955/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_BJT/MJ2955/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_BJT/MJ2955/image.png)|||

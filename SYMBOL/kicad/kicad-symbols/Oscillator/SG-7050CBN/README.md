@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKOCSSG75CBN > Oscillator : SG-7050CBN](#szkocssg75cbn--oscillator--sg-7050cbn)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Oscillator : SG-7050CBN
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Oscillator-SG-7050CBN](http://oom.lt/SYMBOL-kicad-kicad-symbols-Oscillator-SG-7050CBN)
 - Short Link: [http://oom.lt/SZKOCSSG75CBN](http://oom.lt/SZKOCSSG75CBN)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Oscillator/SG-7050CBN/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Oscillator/SG-7050CBN/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Oscillator/SG-7050CBN/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Oscillator/SG-7050CBN/image.png)|||

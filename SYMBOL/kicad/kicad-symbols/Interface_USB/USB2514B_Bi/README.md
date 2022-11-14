@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKINTERFACEUU2514BBI > Interface_USB : USB2514B_Bi](#szkinterfaceuu2514bbi--interface_usb--usb2514b_bi)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Interface_USB : USB2514B_Bi
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_USB-USB2514B_Bi](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_USB-USB2514B_Bi)
 - Short Link: [http://oom.lt/SZKINTERFACEUU2514BBI](http://oom.lt/SZKINTERFACEUU2514BBI)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface_USB/USB2514B_Bi/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface_USB/USB2514B_Bi/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface_USB/USB2514B_Bi/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface_USB/USB2514B_Bi/image.png)|||

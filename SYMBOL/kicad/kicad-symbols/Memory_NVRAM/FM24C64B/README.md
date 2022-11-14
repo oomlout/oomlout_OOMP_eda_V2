@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKMEMORYNVRAMFM24C64B > Memory_NVRAM : FM24C64B](#szkmemorynvramfm24c64b--memory_nvram--fm24c64b)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Memory_NVRAM : FM24C64B
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_NVRAM-FM24C64B](http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_NVRAM-FM24C64B)
 - Short Link: [http://oom.lt/SZKMEMORYNVRAMFM24C64B](http://oom.lt/SZKMEMORYNVRAMFM24C64B)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Memory_NVRAM/FM24C64B/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Memory_NVRAM/FM24C64B/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Memory_NVRAM/FM24C64B/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Memory_NVRAM/FM24C64B/image.png)|||

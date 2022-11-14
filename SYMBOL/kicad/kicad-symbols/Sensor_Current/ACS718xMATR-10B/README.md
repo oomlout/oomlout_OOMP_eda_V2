@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKSENCURRENTACS718XMATR1B > Sensor_Current : ACS718xMATR-10B](#szksencurrentacs718xmatr1b--sensor_current--acs718xmatr-10b)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Sensor_Current : ACS718xMATR-10B
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-ACS718xMATR-10B](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-ACS718xMATR-10B)
 - Short Link: [http://oom.lt/SZKSENCURRENTACS718XMATR1B](http://oom.lt/SZKSENCURRENTACS718XMATR1B)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Current/ACS718xMATR-10B/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Current/ACS718xMATR-10B/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Current/ACS718xMATR-10B/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Current/ACS718xMATR-10B/image.png)|||

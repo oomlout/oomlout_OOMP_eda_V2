@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKMCUMCHIPPIC24PIC24FJ256DA21XBG > MCU_Microchip_PIC24 : PIC24FJ256DA210-xBG](#szkmcumchippic24pic24fj256da21xbg--mcu_microchip_pic24--pic24fj256da210-xbg)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: MCU_Microchip_PIC24 : PIC24FJ256DA210-xBG
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC24-PIC24FJ256DA210-xBG](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC24-PIC24FJ256DA210-xBG)
 - Short Link: [http://oom.lt/SZKMCUMCHIPPIC24PIC24FJ256DA21XBG](http://oom.lt/SZKMCUMCHIPPIC24PIC24FJ256DA21XBG)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC24/PIC24FJ256DA210-xBG/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC24/PIC24FJ256DA210-xBG/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC24/PIC24FJ256DA210-xBG/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC24/PIC24FJ256DA210-xBG/image.png)|||

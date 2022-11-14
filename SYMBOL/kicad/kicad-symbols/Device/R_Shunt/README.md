@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDEVICERSHUNT > Device : R_Shunt](#szkdevicershunt--device--r_shunt)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Device : R_Shunt
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-R_Shunt](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-R_Shunt)
 - Short Link: [http://oom.lt/SZKDEVICERSHUNT](http://oom.lt/SZKDEVICERSHUNT)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/R_Shunt/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/R_Shunt/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/R_Shunt/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/R_Shunt/image.png)|||

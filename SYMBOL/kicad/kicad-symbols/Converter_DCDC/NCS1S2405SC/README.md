@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKCONNCS1S245SC > Converter_DCDC : NCS1S2405SC](#szkconncs1s245sc--converter_dcdc--ncs1s2405sc)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Converter_DCDC : NCS1S2405SC
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-NCS1S2405SC](http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-NCS1S2405SC)
 - Short Link: [http://oom.lt/SZKCONNCS1S245SC](http://oom.lt/SZKCONNCS1S245SC)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Converter_DCDC/NCS1S2405SC/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Converter_DCDC/NCS1S2405SC/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Converter_DCDC/NCS1S2405SC/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Converter_DCDC/NCS1S2405SC/image.png)|||

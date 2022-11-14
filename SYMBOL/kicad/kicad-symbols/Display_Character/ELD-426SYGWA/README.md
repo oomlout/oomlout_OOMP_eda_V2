@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDICHARACTERELD426SYGWA > Display_Character : ELD-426SYGWA](#szkdicharactereld426sygwa--display_character--eld-426sygwa)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Display_Character : ELD-426SYGWA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-ELD-426SYGWA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-ELD-426SYGWA)
 - Short Link: [http://oom.lt/SZKDICHARACTERELD426SYGWA](http://oom.lt/SZKDICHARACTERELD426SYGWA)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Display_Character/ELD-426SYGWA/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Display_Character/ELD-426SYGWA/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Display_Character/ELD-426SYGWA/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Display_Character/ELD-426SYGWA/image.png)|||

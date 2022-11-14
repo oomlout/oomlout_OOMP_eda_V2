@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKFPGALATTICELFE5UM85F7BG756X > FPGA_Lattice : LFE5UM-85F-7BG756x](#szkfpgalatticelfe5um85f7bg756x--fpga_lattice--lfe5um-85f-7bg756x)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: FPGA_Lattice : LFE5UM-85F-7BG756x
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-FPGA_Lattice-LFE5UM-85F-7BG756x](http://oom.lt/SYMBOL-kicad-kicad-symbols-FPGA_Lattice-LFE5UM-85F-7BG756x)
 - Short Link: [http://oom.lt/SZKFPGALATTICELFE5UM85F7BG756X](http://oom.lt/SZKFPGALATTICELFE5UM85F7BG756X)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/FPGA_Lattice/LFE5UM-85F-7BG756x/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/FPGA_Lattice/LFE5UM-85F-7BG756x/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/FPGA_Lattice/LFE5UM-85F-7BG756x/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/FPGA_Lattice/LFE5UM-85F-7BG756x/image.png)|||

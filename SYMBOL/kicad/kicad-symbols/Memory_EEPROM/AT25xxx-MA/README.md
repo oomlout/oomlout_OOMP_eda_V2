@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKMEMORYEEPROMAT25XXXMA > Memory_EEPROM : AT25xxx-MA](#szkmemoryeepromat25xxxma--memory_eeprom--at25xxx-ma)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Memory_EEPROM : AT25xxx-MA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_EEPROM-AT25xxx-MA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_EEPROM-AT25xxx-MA)
 - Short Link: [http://oom.lt/SZKMEMORYEEPROMAT25XXXMA](http://oom.lt/SZKMEMORYEEPROMAT25XXXMA)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Memory_EEPROM/AT25xxx-MA/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Memory_EEPROM/AT25xxx-MA/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Memory_EEPROM/AT25xxx-MA/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Memory_EEPROM/AT25xxx-MA/image.png)|||

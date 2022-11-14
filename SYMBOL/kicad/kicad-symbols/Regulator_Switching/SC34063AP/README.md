@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKREGULATORSWITCHINGSC3463AP > Regulator_Switching : SC34063AP](#szkregulatorswitchingsc3463ap--regulator_switching--sc34063ap)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Regulator_Switching : SC34063AP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-SC34063AP](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-SC34063AP)
 - Short Link: [http://oom.lt/SZKREGULATORSWITCHINGSC3463AP](http://oom.lt/SZKREGULATORSWITCHINGSC3463AP)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/SC34063AP/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/SC34063AP/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/SC34063AP/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/SC34063AP/image.png)|||

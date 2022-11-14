@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKREGULATORSWITCHINGPAM236AYPAA > Regulator_Switching : PAM2306AYPAA](#szkregulatorswitchingpam236aypaa--regulator_switching--pam2306aypaa)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Regulator_Switching : PAM2306AYPAA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-PAM2306AYPAA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-PAM2306AYPAA)
 - Short Link: [http://oom.lt/SZKREGULATORSWITCHINGPAM236AYPAA](http://oom.lt/SZKREGULATORSWITCHINGPAM236AYPAA)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/PAM2306AYPAA/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/PAM2306AYPAA/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/PAM2306AYPAA/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/PAM2306AYPAA/image.png)|||

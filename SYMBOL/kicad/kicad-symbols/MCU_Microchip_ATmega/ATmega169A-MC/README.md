@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKMCUMCHIPATMEGAATMEGA169AMC > MCU_Microchip_ATmega : ATmega169A-MC](#szkmcumchipatmegaatmega169amc--mcu_microchip_atmega--atmega169a-mc)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: MCU_Microchip_ATmega : ATmega169A-MC
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega169A-MC](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega169A-MC)
 - Short Link: [http://oom.lt/SZKMCUMCHIPATMEGAATMEGA169AMC](http://oom.lt/SZKMCUMCHIPATMEGAATMEGA169AMC)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_ATmega/ATmega169A-MC/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_ATmega/ATmega169A-MC/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_ATmega/ATmega169A-MC/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_ATmega/ATmega169A-MC/image.png)|||

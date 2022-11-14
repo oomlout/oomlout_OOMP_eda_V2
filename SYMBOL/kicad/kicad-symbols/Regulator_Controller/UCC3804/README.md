@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKREGULATORCONTROLLERUCC384 > Regulator_Controller : UCC3804](#szkregulatorcontrollerucc384--regulator_controller--ucc3804)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Regulator_Controller : UCC3804
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Controller-UCC3804](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Controller-UCC3804)
 - Short Link: [http://oom.lt/SZKREGULATORCONTROLLERUCC384](http://oom.lt/SZKREGULATORCONTROLLERUCC384)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Controller/UCC3804/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Controller/UCC3804/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Controller/UCC3804/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Controller/UCC3804/image.png)|||

@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKMCUMCHIPPIC18PIC18LF455IPT > MCU_Microchip_PIC18 : PIC18LF4550-IPT](#szkmcumchippic18pic18lf455ipt--mcu_microchip_pic18--pic18lf4550-ipt)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: MCU_Microchip_PIC18 : PIC18LF4550-IPT
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC18-PIC18LF4550-IPT](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC18-PIC18LF4550-IPT)
 - Short Link: [http://oom.lt/SZKMCUMCHIPPIC18PIC18LF455IPT](http://oom.lt/SZKMCUMCHIPPIC18PIC18LF455IPT)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC18/PIC18LF4550-IPT/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC18/PIC18LF4550-IPT/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC18/PIC18LF4550-IPT/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC18/PIC18LF4550-IPT/image.png)|||

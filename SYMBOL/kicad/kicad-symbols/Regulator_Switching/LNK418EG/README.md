@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKREGULATORSWITCHINGLNK418EG > Regulator_Switching : LNK418EG](#szkregulatorswitchinglnk418eg--regulator_switching--lnk418eg)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Regulator_Switching : LNK418EG
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LNK418EG](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LNK418EG)
 - Short Link: [http://oom.lt/SZKREGULATORSWITCHINGLNK418EG](http://oom.lt/SZKREGULATORSWITCHINGLNK418EG)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/LNK418EG/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/LNK418EG/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/LNK418EG/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/LNK418EG/image.png)|||

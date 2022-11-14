@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKAMPLIFIERINSTRUMENTATIONINA326 > Amplifier_Instrumentation : INA326](#szkamplifierinstrumentationina326--amplifier_instrumentation--ina326)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Amplifier_Instrumentation : INA326
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Instrumentation-INA326](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Instrumentation-INA326)
 - Short Link: [http://oom.lt/SZKAMPLIFIERINSTRUMENTATIONINA326](http://oom.lt/SZKAMPLIFIERINSTRUMENTATIONINA326)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Amplifier_Instrumentation/INA326/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Amplifier_Instrumentation/INA326/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Amplifier_Instrumentation/INA326/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Amplifier_Instrumentation/INA326/image.png)|||

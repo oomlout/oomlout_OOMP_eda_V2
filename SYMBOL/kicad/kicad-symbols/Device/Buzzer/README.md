@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDEVICEBUZZER > Device : Buzzer](#szkdevicebuzzer--device--buzzer)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Device : Buzzer
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Buzzer](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Buzzer)
 - Short Link: [http://oom.lt/SZKDEVICEBUZZER](http://oom.lt/SZKDEVICEBUZZER)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/Buzzer/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/Buzzer/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/Buzzer/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/Buzzer/image.png)|||

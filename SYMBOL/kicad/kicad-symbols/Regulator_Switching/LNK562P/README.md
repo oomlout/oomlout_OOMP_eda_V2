@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKREGULATORSWITCHINGLNK562P > Regulator_Switching : LNK562P](#szkregulatorswitchinglnk562p--regulator_switching--lnk562p)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Regulator_Switching : LNK562P
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LNK562P](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LNK562P)
 - Short Link: [http://oom.lt/SZKREGULATORSWITCHINGLNK562P](http://oom.lt/SZKREGULATORSWITCHINGLNK562P)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/LNK562P/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/LNK562P/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/LNK562P/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/LNK562P/image.png)|||

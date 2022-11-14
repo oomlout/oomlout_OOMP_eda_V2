@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKREGULATORLINEARLDK13PU18RDFN6 > Regulator_Linear : LDK130PU18R_DFN6](#szkregulatorlinearldk13pu18rdfn6--regulator_linear--ldk130pu18r_dfn6)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Regulator_Linear : LDK130PU18R_DFN6
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LDK130PU18R_DFN6](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LDK130PU18R_DFN6)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARLDK13PU18RDFN6](http://oom.lt/SZKREGULATORLINEARLDK13PU18RDFN6)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LDK130PU18R_DFN6/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LDK130PU18R_DFN6/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LDK130PU18R_DFN6/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LDK130PU18R_DFN6/image.png)|||

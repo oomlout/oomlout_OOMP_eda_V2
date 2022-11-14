@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKGRAPHICSYMARROW45L > Graphic : SYM_Arrow45_Large](#szkgraphicsymarrow45l--graphic--sym_arrow45_large)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Graphic : SYM_Arrow45_Large
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Graphic-SYM_Arrow45_Large](http://oom.lt/SYMBOL-kicad-kicad-symbols-Graphic-SYM_Arrow45_Large)
 - Short Link: [http://oom.lt/SZKGRAPHICSYMARROW45L](http://oom.lt/SZKGRAPHICSYMARROW45L)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Graphic/SYM_Arrow45_Large/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Graphic/SYM_Arrow45_Large/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Graphic/SYM_Arrow45_Large/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Graphic/SYM_Arrow45_Large/image.png)|||

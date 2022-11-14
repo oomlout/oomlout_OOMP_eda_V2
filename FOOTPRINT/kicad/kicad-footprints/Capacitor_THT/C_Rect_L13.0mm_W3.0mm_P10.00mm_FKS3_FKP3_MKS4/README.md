@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKCCRECTL13W3P1FKS3FKP3MKS4 > Capacitor_THT : C_Rect_L13.0mm_W3.0mm_P10.00mm_FKS3_FKP3_MKS4](#fzkccrectl13w3p1fks3fkp3mks4--capacitor_tht--c_rect_l130mm_w30mm_p1000mm_fks3_fkp3_mks4)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Capacitor_THT : C_Rect_L13.0mm_W3.0mm_P10.00mm_FKS3_FKP3_MKS4
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_THT-C_Rect_L13.0mm_W3.0mm_P10.00mm_FKS3_FKP3_MKS4](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_THT-C_Rect_L13.0mm_W3.0mm_P10.00mm_FKS3_FKP3_MKS4)
 - Short Link: [http://oom.lt/FZKCCRECTL13W3P1FKS3FKP3MKS4](http://oom.lt/FZKCCRECTL13W3P1FKS3FKP3MKS4)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_THT/C_Rect_L13.0mm_W3.0mm_P10.00mm_FKS3_FKP3_MKS4/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_THT/C_Rect_L13.0mm_W3.0mm_P10.00mm_FKS3_FKP3_MKS4/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_THT/C_Rect_L13.0mm_W3.0mm_P10.00mm_FKS3_FKP3_MKS4/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_THT/C_Rect_L13.0mm_W3.0mm_P10.00mm_FKS3_FKP3_MKS4/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_THT/C_Rect_L13.0mm_W3.0mm_P10.00mm_FKS3_FKP3_MKS4/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_THT/C_Rect_L13.0mm_W3.0mm_P10.00mm_FKS3_FKP3_MKS4/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_THT/C_Rect_L13.0mm_W3.0mm_P10.00mm_FKS3_FKP3_MKS4/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_THT/C_Rect_L13.0mm_W3.0mm_P10.00mm_FKS3_FKP3_MKS4/kicadPcb3dBack.png)|

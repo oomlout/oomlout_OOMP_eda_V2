@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKISOLATORSFH62A3 > Isolator : SFH620A-3](#szkisolatorsfh62a3--isolator--sfh620a-3)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Isolator : SFH620A-3
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-SFH620A-3](http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-SFH620A-3)
 - Short Link: [http://oom.lt/SZKISOLATORSFH62A3](http://oom.lt/SZKISOLATORSFH62A3)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Isolator/SFH620A-3/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Isolator/SFH620A-3/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Isolator/SFH620A-3/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Isolator/SFH620A-3/image.png)|||

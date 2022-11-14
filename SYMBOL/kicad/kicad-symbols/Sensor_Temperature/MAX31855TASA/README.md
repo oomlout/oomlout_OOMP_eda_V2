@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKSENTEMPERATUREMAX31855TASA > Sensor_Temperature : MAX31855TASA](#szksentemperaturemax31855tasa--sensor_temperature--max31855tasa)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Sensor_Temperature : MAX31855TASA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Temperature-MAX31855TASA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Temperature-MAX31855TASA)
 - Short Link: [http://oom.lt/SZKSENTEMPERATUREMAX31855TASA](http://oom.lt/SZKSENTEMPERATUREMAX31855TASA)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Temperature/MAX31855TASA/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Temperature/MAX31855TASA/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Temperature/MAX31855TASA/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Temperature/MAX31855TASA/image.png)|||

@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKAMPLIFIEROPERATIONALADA487ARRZ > Amplifier_Operational : ADA4870ARRZ](#szkamplifieroperationalada487arrz--amplifier_operational--ada4870arrz)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Amplifier_Operational : ADA4870ARRZ
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-ADA4870ARRZ](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-ADA4870ARRZ)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALADA487ARRZ](http://oom.lt/SZKAMPLIFIEROPERATIONALADA487ARRZ)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/ADA4870ARRZ/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/ADA4870ARRZ/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/ADA4870ARRZ/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/ADA4870ARRZ/image.png)|||

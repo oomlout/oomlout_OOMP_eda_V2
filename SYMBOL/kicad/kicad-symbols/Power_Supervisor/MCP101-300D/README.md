@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKPOWERSUPERVISORMCP113D > Power_Supervisor : MCP101-300D](#szkpowersupervisormcp113d--power_supervisor--mcp101-300d)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Power_Supervisor : MCP101-300D
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Supervisor-MCP101-300D](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Supervisor-MCP101-300D)
 - Short Link: [http://oom.lt/SZKPOWERSUPERVISORMCP113D](http://oom.lt/SZKPOWERSUPERVISORMCP113D)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Power_Supervisor/MCP101-300D/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Power_Supervisor/MCP101-300D/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Power_Supervisor/MCP101-300D/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Power_Supervisor/MCP101-300D/image.png)|||

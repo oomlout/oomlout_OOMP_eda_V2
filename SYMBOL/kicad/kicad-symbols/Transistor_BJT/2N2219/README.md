@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKTRANSISTORBJT2N2219 > Transistor_BJT : 2N2219](#szktransistorbjt2n2219--transistor_bjt--2n2219)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Transistor_BJT : 2N2219
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-2N2219](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-2N2219)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJT2N2219](http://oom.lt/SZKTRANSISTORBJT2N2219)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_BJT/2N2219/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_BJT/2N2219/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_BJT/2N2219/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_BJT/2N2219/image.png)|||

@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKSENCURRENTHTFS8P > Sensor_Current : HTFS800-P](#szksencurrenthtfs8p--sensor_current--htfs800-p)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Sensor_Current : HTFS800-P
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-HTFS800-P](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-HTFS800-P)
 - Short Link: [http://oom.lt/SZKSENCURRENTHTFS8P](http://oom.lt/SZKSENCURRENTHTFS8P)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Current/HTFS800-P/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Current/HTFS800-P/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Current/HTFS800-P/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Current/HTFS800-P/image.png)|||

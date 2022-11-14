@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKFPGAMSEMIACT12PL68 > FPGA_Microsemi : ACT1020PL68](#szkfpgamsemiact12pl68--fpga_microsemi--act1020pl68)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: FPGA_Microsemi : ACT1020PL68
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-FPGA_Microsemi-ACT1020PL68](http://oom.lt/SYMBOL-kicad-kicad-symbols-FPGA_Microsemi-ACT1020PL68)
 - Short Link: [http://oom.lt/SZKFPGAMSEMIACT12PL68](http://oom.lt/SZKFPGAMSEMIACT12PL68)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/FPGA_Microsemi/ACT1020PL68/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/FPGA_Microsemi/ACT1020PL68/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/FPGA_Microsemi/ACT1020PL68/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/FPGA_Microsemi/ACT1020PL68/image.png)|||

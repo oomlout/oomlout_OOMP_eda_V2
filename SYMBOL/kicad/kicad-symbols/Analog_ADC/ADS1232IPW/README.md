@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKANALOGADCADS1232IPW > Analog_ADC : ADS1232IPW](#szkanalogadcads1232ipw--analog_adc--ads1232ipw)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Analog_ADC : ADS1232IPW
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-ADS1232IPW](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-ADS1232IPW)
 - Short Link: [http://oom.lt/SZKANALOGADCADS1232IPW](http://oom.lt/SZKANALOGADCADS1232IPW)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Analog_ADC/ADS1232IPW/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Analog_ADC/ADS1232IPW/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Analog_ADC/ADS1232IPW/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Analog_ADC/ADS1232IPW/image.png)|||

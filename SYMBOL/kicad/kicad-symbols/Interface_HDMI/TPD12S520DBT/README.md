@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKINTERFACEHDMITPD12S52DBT > Interface_HDMI : TPD12S520DBT](#szkinterfacehdmitpd12s52dbt--interface_hdmi--tpd12s520dbt)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Interface_HDMI : TPD12S520DBT
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_HDMI-TPD12S520DBT](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_HDMI-TPD12S520DBT)
 - Short Link: [http://oom.lt/SZKINTERFACEHDMITPD12S52DBT](http://oom.lt/SZKINTERFACEHDMITPD12S52DBT)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface_HDMI/TPD12S520DBT/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface_HDMI/TPD12S520DBT/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface_HDMI/TPD12S520DBT/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface_HDMI/TPD12S520DBT/image.png)|||

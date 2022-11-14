@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKAMPLIFIEROPERATIONALNCS274D > Amplifier_Operational : NCS20074D](#szkamplifieroperationalncs274d--amplifier_operational--ncs20074d)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Amplifier_Operational : NCS20074D
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-NCS20074D](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-NCS20074D)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALNCS274D](http://oom.lt/SZKAMPLIFIEROPERATIONALNCS274D)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/NCS20074D/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/NCS20074D/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/NCS20074D/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/NCS20074D/image.png)|||

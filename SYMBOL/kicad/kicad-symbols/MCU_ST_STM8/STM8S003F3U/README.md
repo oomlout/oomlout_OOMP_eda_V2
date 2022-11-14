@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKMCUSTSTM8STM8S3F3U > MCU_ST_STM8 : STM8S003F3U](#szkmcuststm8stm8s3f3u--mcu_st_stm8--stm8s003f3u)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: MCU_ST_STM8 : STM8S003F3U
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM8-STM8S003F3U](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM8-STM8S003F3U)
 - Short Link: [http://oom.lt/SZKMCUSTSTM8STM8S3F3U](http://oom.lt/SZKMCUSTSTM8STM8S3F3U)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_ST_STM8/STM8S003F3U/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_ST_STM8/STM8S003F3U/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_ST_STM8/STM8S003F3U/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_ST_STM8/STM8S003F3U/image.png)|||

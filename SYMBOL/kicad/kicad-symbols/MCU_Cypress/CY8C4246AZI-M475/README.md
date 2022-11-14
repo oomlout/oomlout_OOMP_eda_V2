@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKMCUCYPRESSCY8C4246AZIM475 > MCU_Cypress : CY8C4246AZI-M475](#szkmcucypresscy8c4246azim475--mcu_cypress--cy8c4246azi-m475)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: MCU_Cypress : CY8C4246AZI-M475
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Cypress-CY8C4246AZI-M475](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Cypress-CY8C4246AZI-M475)
 - Short Link: [http://oom.lt/SZKMCUCYPRESSCY8C4246AZIM475](http://oom.lt/SZKMCUCYPRESSCY8C4246AZIM475)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Cypress/CY8C4246AZI-M475/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Cypress/CY8C4246AZI-M475/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Cypress/CY8C4246AZI-M475/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Cypress/CY8C4246AZI-M475/image.png)|||

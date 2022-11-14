@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKMCUNXPS8MC9S8SE4XRL > MCU_NXP_S08 : MC9S08SE4xRL](#szkmcunxps8mc9s8se4xrl--mcu_nxp_s08--mc9s08se4xrl)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: MCU_NXP_S08 : MC9S08SE4xRL
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_NXP_S08-MC9S08SE4xRL](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_NXP_S08-MC9S08SE4xRL)
 - Short Link: [http://oom.lt/SZKMCUNXPS8MC9S8SE4XRL](http://oom.lt/SZKMCUNXPS8MC9S8SE4XRL)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_NXP_S08/MC9S08SE4xRL/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_NXP_S08/MC9S08SE4xRL/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_NXP_S08/MC9S08SE4xRL/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_NXP_S08/MC9S08SE4xRL/image.png)|||

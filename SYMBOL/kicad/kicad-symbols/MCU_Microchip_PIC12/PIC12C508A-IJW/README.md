@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKMCUMCHIPPIC12PIC12C58AIJW > MCU_Microchip_PIC12 : PIC12C508A-IJW](#szkmcumchippic12pic12c58aijw--mcu_microchip_pic12--pic12c508a-ijw)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: MCU_Microchip_PIC12 : PIC12C508A-IJW
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC12-PIC12C508A-IJW](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC12-PIC12C508A-IJW)
 - Short Link: [http://oom.lt/SZKMCUMCHIPPIC12PIC12C58AIJW](http://oom.lt/SZKMCUMCHIPPIC12PIC12C58AIJW)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC12/PIC12C508A-IJW/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC12/PIC12C508A-IJW/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC12/PIC12C508A-IJW/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC12/PIC12C508A-IJW/image.png)|||

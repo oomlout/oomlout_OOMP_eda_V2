@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKBATMANAGEMENTLTC4156 > Battery_Management : LTC4156](#szkbatmanagementltc4156--battery_management--ltc4156)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Battery_Management : LTC4156
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Battery_Management-LTC4156](http://oom.lt/SYMBOL-kicad-kicad-symbols-Battery_Management-LTC4156)
 - Short Link: [http://oom.lt/SZKBATMANAGEMENTLTC4156](http://oom.lt/SZKBATMANAGEMENTLTC4156)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Battery_Management/LTC4156/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Battery_Management/LTC4156/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Battery_Management/LTC4156/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Battery_Management/LTC4156/image.png)|||

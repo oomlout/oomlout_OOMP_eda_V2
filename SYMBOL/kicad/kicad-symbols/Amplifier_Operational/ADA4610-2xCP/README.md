@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKAMPLIFIEROPERATIONALADA4612XCP > Amplifier_Operational : ADA4610-2xCP](#szkamplifieroperationalada4612xcp--amplifier_operational--ada4610-2xcp)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Amplifier_Operational : ADA4610-2xCP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-ADA4610-2xCP](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-ADA4610-2xCP)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALADA4612XCP](http://oom.lt/SZKAMPLIFIEROPERATIONALADA4612XCP)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/ADA4610-2xCP/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/ADA4610-2xCP/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/ADA4610-2xCP/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/ADA4610-2xCP/image.png)|||

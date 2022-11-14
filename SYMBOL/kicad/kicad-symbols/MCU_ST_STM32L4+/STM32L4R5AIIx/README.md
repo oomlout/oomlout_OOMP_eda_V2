@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKMCUSTSTM32L4+STM32L4R5AIIX > MCU_ST_STM32L4+ : STM32L4R5AIIx](#szkmcuststm32l4stm32l4r5aiix--mcu_st_stm32l4--stm32l4r5aiix)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: MCU_ST_STM32L4+ : STM32L4R5AIIx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32L4+-STM32L4R5AIIx](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32L4+-STM32L4R5AIIx)
 - Short Link: [http://oom.lt/SZKMCUSTSTM32L4+STM32L4R5AIIX](http://oom.lt/SZKMCUSTSTM32L4+STM32L4R5AIIX)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32L4+/STM32L4R5AIIx/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32L4+/STM32L4R5AIIx/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32L4+/STM32L4R5AIIx/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32L4+/STM32L4R5AIIx/image.png)|||

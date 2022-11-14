@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKBATMANAGEMENTMAX713EPE > Battery_Management : MAX713EPE](#szkbatmanagementmax713epe--battery_management--max713epe)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Battery_Management : MAX713EPE
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Battery_Management-MAX713EPE](http://oom.lt/SYMBOL-kicad-kicad-symbols-Battery_Management-MAX713EPE)
 - Short Link: [http://oom.lt/SZKBATMANAGEMENTMAX713EPE](http://oom.lt/SZKBATMANAGEMENTMAX713EPE)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Battery_Management/MAX713EPE/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Battery_Management/MAX713EPE/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Battery_Management/MAX713EPE/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Battery_Management/MAX713EPE/image.png)|||

@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKAMPLIFIEROPERATIONALOPA33XXDCK > Amplifier_Operational : OPA330xxDCK](#szkamplifieroperationalopa33xxdck--amplifier_operational--opa330xxdck)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Amplifier_Operational : OPA330xxDCK
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-OPA330xxDCK](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-OPA330xxDCK)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALOPA33XXDCK](http://oom.lt/SZKAMPLIFIEROPERATIONALOPA33XXDCK)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/OPA330xxDCK/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/OPA330xxDCK/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/OPA330xxDCK/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/OPA330xxDCK/image.png)|||

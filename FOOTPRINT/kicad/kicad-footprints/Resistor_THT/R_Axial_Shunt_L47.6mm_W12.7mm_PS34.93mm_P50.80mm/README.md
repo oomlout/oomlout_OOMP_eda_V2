@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKRRAXIALSHUNTL476W127PS3493P58 > Resistor_THT : R_Axial_Shunt_L47.6mm_W12.7mm_PS34.93mm_P50.80mm](#fzkrraxialshuntl476w127ps3493p58--resistor_tht--r_axial_shunt_l476mm_w127mm_ps3493mm_p5080mm)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Resistor_THT : R_Axial_Shunt_L47.6mm_W12.7mm_PS34.93mm_P50.80mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Resistor_THT-R_Axial_Shunt_L47.6mm_W12.7mm_PS34.93mm_P50.80mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Resistor_THT-R_Axial_Shunt_L47.6mm_W12.7mm_PS34.93mm_P50.80mm)
 - Short Link: [http://oom.lt/FZKRRAXIALSHUNTL476W127PS3493P58](http://oom.lt/FZKRRAXIALSHUNTL476W127PS3493P58)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Resistor_THT/R_Axial_Shunt_L47.6mm_W12.7mm_PS34.93mm_P50.80mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Resistor_THT/R_Axial_Shunt_L47.6mm_W12.7mm_PS34.93mm_P50.80mm/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Resistor_THT/R_Axial_Shunt_L47.6mm_W12.7mm_PS34.93mm_P50.80mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Resistor_THT/R_Axial_Shunt_L47.6mm_W12.7mm_PS34.93mm_P50.80mm/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Resistor_THT/R_Axial_Shunt_L47.6mm_W12.7mm_PS34.93mm_P50.80mm/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Resistor_THT/R_Axial_Shunt_L47.6mm_W12.7mm_PS34.93mm_P50.80mm/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Resistor_THT/R_Axial_Shunt_L47.6mm_W12.7mm_PS34.93mm_P50.80mm/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Resistor_THT/R_Axial_Shunt_L47.6mm_W12.7mm_PS34.93mm_P50.80mm/kicadPcb3dBack.png)|

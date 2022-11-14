@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKINTERFACEUCY7C6521532LTXI > Interface_USB : CY7C65215-32LTXI](#szkinterfaceucy7c6521532ltxi--interface_usb--cy7c65215-32ltxi)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Interface_USB : CY7C65215-32LTXI
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_USB-CY7C65215-32LTXI](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_USB-CY7C65215-32LTXI)
 - Short Link: [http://oom.lt/SZKINTERFACEUCY7C6521532LTXI](http://oom.lt/SZKINTERFACEUCY7C6521532LTXI)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface_USB/CY7C65215-32LTXI/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface_USB/CY7C65215-32LTXI/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface_USB/CY7C65215-32LTXI/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface_USB/CY7C65215-32LTXI/image.png)|||

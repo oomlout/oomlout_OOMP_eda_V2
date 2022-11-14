@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKREGULATORLINEARMCP184X52XMT > Regulator_Linear : MCP1804x-5002xMT](#szkregulatorlinearmcp184x52xmt--regulator_linear--mcp1804x-5002xmt)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Regulator_Linear : MCP1804x-5002xMT
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-MCP1804x-5002xMT](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-MCP1804x-5002xMT)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARMCP184X52XMT](http://oom.lt/SZKREGULATORLINEARMCP184X52XMT)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/MCP1804x-5002xMT/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/MCP1804x-5002xMT/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/MCP1804x-5002xMT/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/MCP1804x-5002xMT/image.png)|||

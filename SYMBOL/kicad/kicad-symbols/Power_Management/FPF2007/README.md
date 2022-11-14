@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKPOWERMANAGEMENTFPF27 > Power_Management : FPF2007](#szkpowermanagementfpf27--power_management--fpf2007)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Power_Management : FPF2007
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-FPF2007](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-FPF2007)
 - Short Link: [http://oom.lt/SZKPOWERMANAGEMENTFPF27](http://oom.lt/SZKPOWERMANAGEMENTFPF27)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Power_Management/FPF2007/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Power_Management/FPF2007/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Power_Management/FPF2007/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Power_Management/FPF2007/image.png)|||

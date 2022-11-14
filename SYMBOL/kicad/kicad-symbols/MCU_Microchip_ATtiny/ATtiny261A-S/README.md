@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKMCUMCHIPATTINYATTINY261AS > MCU_Microchip_ATtiny : ATtiny261A-S](#szkmcumchipattinyattiny261as--mcu_microchip_attiny--attiny261a-s)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: MCU_Microchip_ATtiny : ATtiny261A-S
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny261A-S](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny261A-S)
 - Short Link: [http://oom.lt/SZKMCUMCHIPATTINYATTINY261AS](http://oom.lt/SZKMCUMCHIPATTINYATTINY261AS)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_ATtiny/ATtiny261A-S/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_ATtiny/ATtiny261A-S/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_ATtiny/ATtiny261A-S/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_ATtiny/ATtiny261A-S/image.png)|||

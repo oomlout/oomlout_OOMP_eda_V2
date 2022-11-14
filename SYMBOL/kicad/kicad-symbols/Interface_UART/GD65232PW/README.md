@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKINTERFACEUARTGD65232PW > Interface_UART : GD65232PW](#szkinterfaceuartgd65232pw--interface_uart--gd65232pw)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Interface_UART : GD65232PW
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_UART-GD65232PW](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_UART-GD65232PW)
 - Short Link: [http://oom.lt/SZKINTERFACEUARTGD65232PW](http://oom.lt/SZKINTERFACEUARTGD65232PW)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface_UART/GD65232PW/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface_UART/GD65232PW/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface_UART/GD65232PW/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface_UART/GD65232PW/image.png)|||

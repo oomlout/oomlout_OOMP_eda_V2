@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKMCUMCHIPATMEGAATMEGA48PAA > MCU_Microchip_ATmega : ATmega48PA-A](#szkmcumchipatmegaatmega48paa--mcu_microchip_atmega--atmega48pa-a)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: MCU_Microchip_ATmega : ATmega48PA-A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega48PA-A](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega48PA-A)
 - Short Link: [http://oom.lt/SZKMCUMCHIPATMEGAATMEGA48PAA](http://oom.lt/SZKMCUMCHIPATMEGAATMEGA48PAA)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_ATmega/ATmega48PA-A/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_ATmega/ATmega48PA-A/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_ATmega/ATmega48PA-A/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_ATmega/ATmega48PA-A/image.png)|||

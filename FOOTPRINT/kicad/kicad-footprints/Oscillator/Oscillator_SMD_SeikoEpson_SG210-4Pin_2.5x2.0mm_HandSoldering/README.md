@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKOCSOCSSMSEIKOEPSONSG214PIN25X2HANDSOLDERING > Oscillator : Oscillator_SMD_SeikoEpson_SG210-4Pin_2.5x2.0mm_HandSoldering](#fzkocsocssmseikoepsonsg214pin25x2handsoldering--oscillator--oscillator_smd_seikoepson_sg210-4pin_25x20mm_handsoldering)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Oscillator : Oscillator_SMD_SeikoEpson_SG210-4Pin_2.5x2.0mm_HandSoldering
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Oscillator-Oscillator_SMD_SeikoEpson_SG210-4Pin_2.5x2.0mm_HandSoldering](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Oscillator-Oscillator_SMD_SeikoEpson_SG210-4Pin_2.5x2.0mm_HandSoldering)
 - Short Link: [http://oom.lt/FZKOCSOCSSMSEIKOEPSONSG214PIN25X2HANDSOLDERING](http://oom.lt/FZKOCSOCSSMSEIKOEPSONSG214PIN25X2HANDSOLDERING)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Oscillator/Oscillator_SMD_SeikoEpson_SG210-4Pin_2.5x2.0mm_HandSoldering/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Oscillator/Oscillator_SMD_SeikoEpson_SG210-4Pin_2.5x2.0mm_HandSoldering/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Oscillator/Oscillator_SMD_SeikoEpson_SG210-4Pin_2.5x2.0mm_HandSoldering/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Oscillator/Oscillator_SMD_SeikoEpson_SG210-4Pin_2.5x2.0mm_HandSoldering/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Oscillator/Oscillator_SMD_SeikoEpson_SG210-4Pin_2.5x2.0mm_HandSoldering/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Oscillator/Oscillator_SMD_SeikoEpson_SG210-4Pin_2.5x2.0mm_HandSoldering/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Oscillator/Oscillator_SMD_SeikoEpson_SG210-4Pin_2.5x2.0mm_HandSoldering/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Oscillator/Oscillator_SMD_SeikoEpson_SG210-4Pin_2.5x2.0mm_HandSoldering/kicadPcb3dBack.png)|

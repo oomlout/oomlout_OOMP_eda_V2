@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKCNSDCARD > Connector : SD_Card](#szkcnsdcard--connector--sd_card)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Connector : SD_Card
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-SD_Card](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-SD_Card)
 - Short Link: [http://oom.lt/SZKCNSDCARD](http://oom.lt/SZKCNSDCARD)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/SD_Card/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/SD_Card/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/SD_Card/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/SD_Card/image.png)|||

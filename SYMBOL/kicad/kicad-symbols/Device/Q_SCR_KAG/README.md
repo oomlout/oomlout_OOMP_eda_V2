@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDEVICEQSCRKAG > Device : Q_SCR_KAG](#szkdeviceqscrkag--device--q_scr_kag)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Device : Q_SCR_KAG
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Q_SCR_KAG](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Q_SCR_KAG)
 - Short Link: [http://oom.lt/SZKDEVICEQSCRKAG](http://oom.lt/SZKDEVICEQSCRKAG)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/Q_SCR_KAG/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/Q_SCR_KAG/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/Q_SCR_KAG/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/Q_SCR_KAG/image.png)|||

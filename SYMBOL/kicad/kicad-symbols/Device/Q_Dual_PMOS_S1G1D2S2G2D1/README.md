@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDEVICEQDUALPMOSS1G1D2S2G2D1 > Device : Q_Dual_PMOS_S1G1D2S2G2D1](#szkdeviceqdualpmoss1g1d2s2g2d1--device--q_dual_pmos_s1g1d2s2g2d1)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Device : Q_Dual_PMOS_S1G1D2S2G2D1
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Q_Dual_PMOS_S1G1D2S2G2D1](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Q_Dual_PMOS_S1G1D2S2G2D1)
 - Short Link: [http://oom.lt/SZKDEVICEQDUALPMOSS1G1D2S2G2D1](http://oom.lt/SZKDEVICEQDUALPMOSS1G1D2S2G2D1)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/Q_Dual_PMOS_S1G1D2S2G2D1/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/Q_Dual_PMOS_S1G1D2S2G2D1/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/Q_Dual_PMOS_S1G1D2S2G2D1/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/Q_Dual_PMOS_S1G1D2S2G2D1/image.png)|||

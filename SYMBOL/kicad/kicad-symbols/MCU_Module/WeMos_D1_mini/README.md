@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKMCUMOWEMOSD1M > MCU_Module : WeMos_D1_mini](#szkmcumowemosd1m--mcu_module--wemos_d1_mini)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: MCU_Module : WeMos_D1_mini
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Module-WeMos_D1_mini](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Module-WeMos_D1_mini)
 - Short Link: [http://oom.lt/SZKMCUMOWEMOSD1M](http://oom.lt/SZKMCUMOWEMOSD1M)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Module/WeMos_D1_mini/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Module/WeMos_D1_mini/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Module/WeMos_D1_mini/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Module/WeMos_D1_mini/image.png)|||

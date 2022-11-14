@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKMCUMCHIPAVRAT9U1287M > MCU_Microchip_AVR : AT90USB1287-M](#szkmcumchipavrat9u1287m--mcu_microchip_avr--at90usb1287-m)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: MCU_Microchip_AVR : AT90USB1287-M
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_AVR-AT90USB1287-M](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_AVR-AT90USB1287-M)
 - Short Link: [http://oom.lt/SZKMCUMCHIPAVRAT9U1287M](http://oom.lt/SZKMCUMCHIPAVRAT9U1287M)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_AVR/AT90USB1287-M/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_AVR/AT90USB1287-M/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_AVR/AT90USB1287-M/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_AVR/AT90USB1287-M/image.png)|||

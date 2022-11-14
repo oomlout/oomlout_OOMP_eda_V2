@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKTRANSISTORBJTDTD122J > Transistor_BJT : DTD122J](#szktransistorbjtdtd122j--transistor_bjt--dtd122j)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Transistor_BJT : DTD122J
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-DTD122J](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-DTD122J)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJTDTD122J](http://oom.lt/SZKTRANSISTORBJTDTD122J)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_BJT/DTD122J/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_BJT/DTD122J/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_BJT/DTD122J/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_BJT/DTD122J/image.png)|||

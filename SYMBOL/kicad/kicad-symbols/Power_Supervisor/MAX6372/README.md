@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKPOWERSUPERVISORMAX6372 > Power_Supervisor : MAX6372](#szkpowersupervisormax6372--power_supervisor--max6372)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Power_Supervisor : MAX6372
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Supervisor-MAX6372](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Supervisor-MAX6372)
 - Short Link: [http://oom.lt/SZKPOWERSUPERVISORMAX6372](http://oom.lt/SZKPOWERSUPERVISORMAX6372)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Power_Supervisor/MAX6372/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Power_Supervisor/MAX6372/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Power_Supervisor/MAX6372/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Power_Supervisor/MAX6372/image.png)|||

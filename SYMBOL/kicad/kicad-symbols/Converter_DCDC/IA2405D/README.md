@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKCONIA245D > Converter_DCDC : IA2405D](#szkconia245d--converter_dcdc--ia2405d)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Converter_DCDC : IA2405D
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-IA2405D](http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-IA2405D)
 - Short Link: [http://oom.lt/SZKCONIA245D](http://oom.lt/SZKCONIA245D)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Converter_DCDC/IA2405D/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Converter_DCDC/IA2405D/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Converter_DCDC/IA2405D/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Converter_DCDC/IA2405D/image.png)|||

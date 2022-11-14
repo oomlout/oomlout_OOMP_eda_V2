@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKREGULATORLINEARMAX666 > Regulator_Linear : MAX666](#szkregulatorlinearmax666--regulator_linear--max666)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Regulator_Linear : MAX666
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-MAX666](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-MAX666)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARMAX666](http://oom.lt/SZKREGULATORLINEARMAX666)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/MAX666/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/MAX666/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/MAX666/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/MAX666/image.png)|||

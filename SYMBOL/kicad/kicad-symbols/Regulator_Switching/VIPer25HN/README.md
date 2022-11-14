@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKREGULATORSWITCHINGVIPER25HN > Regulator_Switching : VIPer25HN](#szkregulatorswitchingviper25hn--regulator_switching--viper25hn)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Regulator_Switching : VIPer25HN
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-VIPer25HN](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-VIPer25HN)
 - Short Link: [http://oom.lt/SZKREGULATORSWITCHINGVIPER25HN](http://oom.lt/SZKREGULATORSWITCHINGVIPER25HN)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/VIPer25HN/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/VIPer25HN/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/VIPer25HN/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/VIPer25HN/image.png)|||

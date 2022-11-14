@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKMCUSILICONLABSEFM8LB12F32ECQFP32 > MCU_SiliconLabs : EFM8LB12F32E-C-QFP32](#szkmcusiliconlabsefm8lb12f32ecqfp32--mcu_siliconlabs--efm8lb12f32e-c-qfp32)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: MCU_SiliconLabs : EFM8LB12F32E-C-QFP32
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_SiliconLabs-EFM8LB12F32E-C-QFP32](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_SiliconLabs-EFM8LB12F32E-C-QFP32)
 - Short Link: [http://oom.lt/SZKMCUSILICONLABSEFM8LB12F32ECQFP32](http://oom.lt/SZKMCUSILICONLABSEFM8LB12F32ECQFP32)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_SiliconLabs/EFM8LB12F32E-C-QFP32/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_SiliconLabs/EFM8LB12F32E-C-QFP32/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_SiliconLabs/EFM8LB12F32E-C-QFP32/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_SiliconLabs/EFM8LB12F32E-C-QFP32/image.png)|||

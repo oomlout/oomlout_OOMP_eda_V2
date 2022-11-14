@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKINTERFACEDS9LV11A > Interface : DS90LV011A](#szkinterfaceds9lv11a--interface--ds90lv011a)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Interface : DS90LV011A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-DS90LV011A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-DS90LV011A)
 - Short Link: [http://oom.lt/SZKINTERFACEDS9LV11A](http://oom.lt/SZKINTERFACEDS9LV11A)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface/DS90LV011A/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface/DS90LV011A/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface/DS90LV011A/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface/DS90LV011A/image.png)|||

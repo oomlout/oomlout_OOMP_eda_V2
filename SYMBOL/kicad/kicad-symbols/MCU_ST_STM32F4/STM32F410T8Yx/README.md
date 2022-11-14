@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKMCUSTSTM32F4STM32F41T8YX > MCU_ST_STM32F4 : STM32F410T8Yx](#szkmcuststm32f4stm32f41t8yx--mcu_st_stm32f4--stm32f410t8yx)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: MCU_ST_STM32F4 : STM32F410T8Yx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F4-STM32F410T8Yx](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F4-STM32F410T8Yx)
 - Short Link: [http://oom.lt/SZKMCUSTSTM32F4STM32F41T8YX](http://oom.lt/SZKMCUSTSTM32F4STM32F41T8YX)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32F4/STM32F410T8Yx/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32F4/STM32F410T8Yx/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32F4/STM32F410T8Yx/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32F4/STM32F410T8Yx/image.png)|||

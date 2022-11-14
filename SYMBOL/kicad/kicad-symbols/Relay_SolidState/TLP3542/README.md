@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKRELAYSOLIDSTATETLP3542 > Relay_SolidState : TLP3542](#szkrelaysolidstatetlp3542--relay_solidstate--tlp3542)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Relay_SolidState : TLP3542
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay_SolidState-TLP3542](http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay_SolidState-TLP3542)
 - Short Link: [http://oom.lt/SZKRELAYSOLIDSTATETLP3542](http://oom.lt/SZKRELAYSOLIDSTATETLP3542)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Relay_SolidState/TLP3542/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Relay_SolidState/TLP3542/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Relay_SolidState/TLP3542/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Relay_SolidState/TLP3542/image.png)|||

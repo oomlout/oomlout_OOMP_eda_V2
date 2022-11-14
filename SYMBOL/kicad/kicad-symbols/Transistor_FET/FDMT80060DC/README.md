@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKTRANSISTORFETFDMT86DC > Transistor_FET : FDMT80060DC](#szktransistorfetfdmt86dc--transistor_fet--fdmt80060dc)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Transistor_FET : FDMT80060DC
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-FDMT80060DC](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-FDMT80060DC)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETFDMT86DC](http://oom.lt/SZKTRANSISTORFETFDMT86DC)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/FDMT80060DC/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/FDMT80060DC/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/FDMT80060DC/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/FDMT80060DC/image.png)|||

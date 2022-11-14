@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKINTERFACEUARTLT18 > Interface_UART : LT1080](#szkinterfaceuartlt18--interface_uart--lt1080)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Interface_UART : LT1080
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_UART-LT1080](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_UART-LT1080)
 - Short Link: [http://oom.lt/SZKINTERFACEUARTLT18](http://oom.lt/SZKINTERFACEUARTLT18)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface_UART/LT1080/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface_UART/LT1080/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface_UART/LT1080/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface_UART/LT1080/image.png)|||

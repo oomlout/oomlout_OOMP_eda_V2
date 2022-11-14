@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDEVICEQPHOTONPNEBC > Device : Q_Photo_NPN_EBC](#szkdeviceqphotonpnebc--device--q_photo_npn_ebc)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Device : Q_Photo_NPN_EBC
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Q_Photo_NPN_EBC](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Q_Photo_NPN_EBC)
 - Short Link: [http://oom.lt/SZKDEVICEQPHOTONPNEBC](http://oom.lt/SZKDEVICEQPHOTONPNEBC)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/Q_Photo_NPN_EBC/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/Q_Photo_NPN_EBC/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/Q_Photo_NPN_EBC/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/Q_Photo_NPN_EBC/image.png)|||

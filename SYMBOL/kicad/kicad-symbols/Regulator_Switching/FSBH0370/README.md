@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKREGULATORSWITCHINGFSBH37 > Regulator_Switching : FSBH0370](#szkregulatorswitchingfsbh37--regulator_switching--fsbh0370)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Regulator_Switching : FSBH0370
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-FSBH0370](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-FSBH0370)
 - Short Link: [http://oom.lt/SZKREGULATORSWITCHINGFSBH37](http://oom.lt/SZKREGULATORSWITCHINGFSBH37)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/FSBH0370/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/FSBH0370/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/FSBH0370/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/FSBH0370/image.png)|||

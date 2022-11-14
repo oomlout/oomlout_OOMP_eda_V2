@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKOCSSG532CAN > Oscillator : SG-5032CAN](#szkocssg532can--oscillator--sg-5032can)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Oscillator : SG-5032CAN
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Oscillator-SG-5032CAN](http://oom.lt/SYMBOL-kicad-kicad-symbols-Oscillator-SG-5032CAN)
 - Short Link: [http://oom.lt/SZKOCSSG532CAN](http://oom.lt/SZKOCSSG532CAN)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Oscillator/SG-5032CAN/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Oscillator/SG-5032CAN/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Oscillator/SG-5032CAN/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Oscillator/SG-5032CAN/image.png)|||

@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKTR54BL15B5 > Transformer : 5400BL15B050](#szktr54bl15b5--transformer--5400bl15b050)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Transformer : 5400BL15B050
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transformer-5400BL15B050](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transformer-5400BL15B050)
 - Short Link: [http://oom.lt/SZKTR54BL15B5](http://oom.lt/SZKTR54BL15B5)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transformer/5400BL15B050/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transformer/5400BL15B050/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transformer/5400BL15B050/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transformer/5400BL15B050/image.png)|||

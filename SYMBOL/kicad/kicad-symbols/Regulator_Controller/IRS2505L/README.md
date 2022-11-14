@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKREGULATORCONTROLLERIRS255L > Regulator_Controller : IRS2505L](#szkregulatorcontrollerirs255l--regulator_controller--irs2505l)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Regulator_Controller : IRS2505L
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Controller-IRS2505L](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Controller-IRS2505L)
 - Short Link: [http://oom.lt/SZKREGULATORCONTROLLERIRS255L](http://oom.lt/SZKREGULATORCONTROLLERIRS255L)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Controller/IRS2505L/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Controller/IRS2505L/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Controller/IRS2505L/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Controller/IRS2505L/image.png)|||

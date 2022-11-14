@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZK74XGXXSN74LVC1G14DRL > 74xGxx : SN74LVC1G14DRL](#szk74xgxxsn74lvc1g14drl--74xgxx--sn74lvc1g14drl)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: 74xGxx : SN74LVC1G14DRL
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-74xGxx-SN74LVC1G14DRL](http://oom.lt/SYMBOL-kicad-kicad-symbols-74xGxx-SN74LVC1G14DRL)
 - Short Link: [http://oom.lt/SZK74XGXXSN74LVC1G14DRL](http://oom.lt/SZK74XGXXSN74LVC1G14DRL)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/74xGxx/SN74LVC1G14DRL/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/74xGxx/SN74LVC1G14DRL/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/74xGxx/SN74LVC1G14DRL/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/74xGxx/SN74LVC1G14DRL/image.png)|||

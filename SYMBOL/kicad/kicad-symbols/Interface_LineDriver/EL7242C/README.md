@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKINTERFACELINEDRIVEREL7242C > Interface_LineDriver : EL7242C](#szkinterfacelinedriverel7242c--interface_linedriver--el7242c)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Interface_LineDriver : EL7242C
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_LineDriver-EL7242C](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_LineDriver-EL7242C)
 - Short Link: [http://oom.lt/SZKINTERFACELINEDRIVEREL7242C](http://oom.lt/SZKINTERFACELINEDRIVEREL7242C)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface_LineDriver/EL7242C/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface_LineDriver/EL7242C/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface_LineDriver/EL7242C/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface_LineDriver/EL7242C/image.png)|||

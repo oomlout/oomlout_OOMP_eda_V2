@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKREGULATORLINEARNCP115AMX12TCG > Regulator_Linear : NCP115AMX120TCG](#szkregulatorlinearncp115amx12tcg--regulator_linear--ncp115amx120tcg)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Regulator_Linear : NCP115AMX120TCG
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-NCP115AMX120TCG](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-NCP115AMX120TCG)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARNCP115AMX12TCG](http://oom.lt/SZKREGULATORLINEARNCP115AMX12TCG)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/NCP115AMX120TCG/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/NCP115AMX120TCG/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/NCP115AMX120TCG/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/NCP115AMX120TCG/image.png)|||

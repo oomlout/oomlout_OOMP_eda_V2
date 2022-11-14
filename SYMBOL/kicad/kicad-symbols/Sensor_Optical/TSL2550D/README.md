@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKSENOPTICALTSL255D > Sensor_Optical : TSL2550D](#szksenopticaltsl255d--sensor_optical--tsl2550d)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Sensor_Optical : TSL2550D
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Optical-TSL2550D](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Optical-TSL2550D)
 - Short Link: [http://oom.lt/SZKSENOPTICALTSL255D](http://oom.lt/SZKSENOPTICALTSL255D)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Optical/TSL2550D/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Optical/TSL2550D/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Optical/TSL2550D/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Optical/TSL2550D/image.png)|||

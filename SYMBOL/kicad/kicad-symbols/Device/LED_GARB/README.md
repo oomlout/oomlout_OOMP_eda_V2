@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDEVICELGARB > Device : LED_GARB](#szkdevicelgarb--device--led_garb)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Device : LED_GARB
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-LED_GARB](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-LED_GARB)
 - Short Link: [http://oom.lt/SZKDEVICELGARB](http://oom.lt/SZKDEVICELGARB)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/LED_GARB/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/LED_GARB/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/LED_GARB/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/LED_GARB/image.png)|||

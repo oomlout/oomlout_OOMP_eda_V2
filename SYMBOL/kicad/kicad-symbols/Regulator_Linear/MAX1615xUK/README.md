@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKREGULATORLINEARMAX1615XUK > Regulator_Linear : MAX1615xUK](#szkregulatorlinearmax1615xuk--regulator_linear--max1615xuk)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Regulator_Linear : MAX1615xUK
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-MAX1615xUK](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-MAX1615xUK)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARMAX1615XUK](http://oom.lt/SZKREGULATORLINEARMAX1615XUK)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/MAX1615xUK/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/MAX1615xUK/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/MAX1615xUK/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/MAX1615xUK/image.png)|||

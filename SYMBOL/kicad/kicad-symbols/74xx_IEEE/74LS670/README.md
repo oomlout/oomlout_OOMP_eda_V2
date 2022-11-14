@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZK74XXIEEE74LS67 > 74xx_IEEE : 74LS670](#szk74xxieee74ls67--74xx_ieee--74ls670)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: 74xx_IEEE : 74LS670
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-74xx_IEEE-74LS670](http://oom.lt/SYMBOL-kicad-kicad-symbols-74xx_IEEE-74LS670)
 - Short Link: [http://oom.lt/SZK74XXIEEE74LS67](http://oom.lt/SZK74XXIEEE74LS67)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/74xx_IEEE/74LS670/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/74xx_IEEE/74LS670/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/74xx_IEEE/74LS670/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/74xx_IEEE/74LS670/image.png)|||

@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKTRANSISTORFETIRF7343PBF > Transistor_FET : IRF7343PBF](#szktransistorfetirf7343pbf--transistor_fet--irf7343pbf)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Transistor_FET : IRF7343PBF
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IRF7343PBF](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IRF7343PBF)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETIRF7343PBF](http://oom.lt/SZKTRANSISTORFETIRF7343PBF)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/IRF7343PBF/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/IRF7343PBF/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/IRF7343PBF/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/IRF7343PBF/image.png)|||

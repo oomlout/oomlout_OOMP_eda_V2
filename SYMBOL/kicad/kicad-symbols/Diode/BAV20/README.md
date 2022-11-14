@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDIODEBAV2 > Diode : BAV20](#szkdiodebav2--diode--bav20)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Diode : BAV20
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-BAV20](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-BAV20)
 - Short Link: [http://oom.lt/SZKDIODEBAV2](http://oom.lt/SZKDIODEBAV2)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Diode/BAV20/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Diode/BAV20/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Diode/BAV20/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Diode/BAV20/image.png)|||

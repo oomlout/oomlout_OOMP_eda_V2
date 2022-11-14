@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKFPGAXILINXVIRTEX6XC6VSX475TFF1759 > FPGA_Xilinx_Virtex6 : XC6VSX475T-FF1759](#szkfpgaxilinxvirtex6xc6vsx475tff1759--fpga_xilinx_virtex6--xc6vsx475t-ff1759)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: FPGA_Xilinx_Virtex6 : XC6VSX475T-FF1759
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-FPGA_Xilinx_Virtex6-XC6VSX475T-FF1759](http://oom.lt/SYMBOL-kicad-kicad-symbols-FPGA_Xilinx_Virtex6-XC6VSX475T-FF1759)
 - Short Link: [http://oom.lt/SZKFPGAXILINXVIRTEX6XC6VSX475TFF1759](http://oom.lt/SZKFPGAXILINXVIRTEX6XC6VSX475TFF1759)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/FPGA_Xilinx_Virtex6/XC6VSX475T-FF1759/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/FPGA_Xilinx_Virtex6/XC6VSX475T-FF1759/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/FPGA_Xilinx_Virtex6/XC6VSX475T-FF1759/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/FPGA_Xilinx_Virtex6/XC6VSX475T-FF1759/image.png)|||

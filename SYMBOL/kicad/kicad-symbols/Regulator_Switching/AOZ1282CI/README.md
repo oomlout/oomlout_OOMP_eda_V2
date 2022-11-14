@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKREGULATORSWITCHINGAOZ1282CI > Regulator_Switching : AOZ1282CI](#szkregulatorswitchingaoz1282ci--regulator_switching--aoz1282ci)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Regulator_Switching : AOZ1282CI
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-AOZ1282CI](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-AOZ1282CI)
 - Short Link: [http://oom.lt/SZKREGULATORSWITCHINGAOZ1282CI](http://oom.lt/SZKREGULATORSWITCHINGAOZ1282CI)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/AOZ1282CI/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/AOZ1282CI/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/AOZ1282CI/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/AOZ1282CI/image.png)|||

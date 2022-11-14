@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKREGULATORSWITCHINGMCP16312MNY > Regulator_Switching : MCP16312MNY](#szkregulatorswitchingmcp16312mny--regulator_switching--mcp16312mny)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Regulator_Switching : MCP16312MNY
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-MCP16312MNY](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-MCP16312MNY)
 - Short Link: [http://oom.lt/SZKREGULATORSWITCHINGMCP16312MNY](http://oom.lt/SZKREGULATORSWITCHINGMCP16312MNY)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/MCP16312MNY/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/MCP16312MNY/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/MCP16312MNY/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/MCP16312MNY/image.png)|||

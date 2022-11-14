@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKREGULATORCONTROLLERUCC2461DRB > Regulator_Controller : UCC24610DRB](#szkregulatorcontrollerucc2461drb--regulator_controller--ucc24610drb)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Regulator_Controller : UCC24610DRB
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Controller-UCC24610DRB](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Controller-UCC24610DRB)
 - Short Link: [http://oom.lt/SZKREGULATORCONTROLLERUCC2461DRB](http://oom.lt/SZKREGULATORCONTROLLERUCC2461DRB)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Controller/UCC24610DRB/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Controller/UCC24610DRB/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Controller/UCC24610DRB/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Controller/UCC24610DRB/image.png)|||

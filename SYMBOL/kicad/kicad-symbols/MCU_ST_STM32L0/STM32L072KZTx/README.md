@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKMCUSTSTM32LSTM32L72KZTX > MCU_ST_STM32L0 : STM32L072KZTx](#szkmcuststm32lstm32l72kztx--mcu_st_stm32l0--stm32l072kztx)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: MCU_ST_STM32L0 : STM32L072KZTx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32L0-STM32L072KZTx](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32L0-STM32L072KZTx)
 - Short Link: [http://oom.lt/SZKMCUSTSTM32LSTM32L72KZTX](http://oom.lt/SZKMCUSTSTM32LSTM32L72KZTX)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32L0/STM32L072KZTx/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32L0/STM32L072KZTx/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32L0/STM32L072KZTx/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32L0/STM32L072KZTx/image.png)|||

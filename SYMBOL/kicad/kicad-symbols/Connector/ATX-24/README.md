@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKCNATX24 > Connector : ATX-24](#szkcnatx24--connector--atx-24)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Connector : ATX-24
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-ATX-24](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-ATX-24)
 - Short Link: [http://oom.lt/SZKCNATX24](http://oom.lt/SZKCNATX24)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/ATX-24/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/ATX-24/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/ATX-24/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/ATX-24/image.png)|||

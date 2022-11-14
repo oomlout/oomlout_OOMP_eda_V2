@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKAMPLIFIERAUDIOLM495TS > Amplifier_Audio : LM4950TS](#szkamplifieraudiolm495ts--amplifier_audio--lm4950ts)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Amplifier_Audio : LM4950TS
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Audio-LM4950TS](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Audio-LM4950TS)
 - Short Link: [http://oom.lt/SZKAMPLIFIERAUDIOLM495TS](http://oom.lt/SZKAMPLIFIERAUDIOLM495TS)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Amplifier_Audio/LM4950TS/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Amplifier_Audio/LM4950TS/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Amplifier_Audio/LM4950TS/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Amplifier_Audio/LM4950TS/image.png)|||

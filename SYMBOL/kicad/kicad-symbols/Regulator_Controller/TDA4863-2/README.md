@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKREGULATORCONTROLLERTDA48632 > Regulator_Controller : TDA4863-2](#szkregulatorcontrollertda48632--regulator_controller--tda4863-2)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Regulator_Controller : TDA4863-2
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Controller-TDA4863-2](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Controller-TDA4863-2)
 - Short Link: [http://oom.lt/SZKREGULATORCONTROLLERTDA48632](http://oom.lt/SZKREGULATORCONTROLLERTDA48632)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Controller/TDA4863-2/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Controller/TDA4863-2/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Controller/TDA4863-2/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Controller/TDA4863-2/image.png)|||

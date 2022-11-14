@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKAMPLIFIEROPERATIONALMCP6L4XXSL > Amplifier_Operational : MCP6L04x-xSL](#szkamplifieroperationalmcp6l4xxsl--amplifier_operational--mcp6l04x-xsl)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Amplifier_Operational : MCP6L04x-xSL
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-MCP6L04x-xSL](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-MCP6L04x-xSL)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALMCP6L4XXSL](http://oom.lt/SZKAMPLIFIEROPERATIONALMCP6L4XXSL)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/MCP6L04x-xSL/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/MCP6L04x-xSL/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/MCP6L04x-xSL/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/MCP6L04x-xSL/image.png)|||

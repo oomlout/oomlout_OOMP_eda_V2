@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKMCUSTSTM32F4STM32F412CEUX > MCU_ST_STM32F4 : STM32F412CEUx](#szkmcuststm32f4stm32f412ceux--mcu_st_stm32f4--stm32f412ceux)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: MCU_ST_STM32F4 : STM32F412CEUx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F4-STM32F412CEUx](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F4-STM32F412CEUx)
 - Short Link: [http://oom.lt/SZKMCUSTSTM32F4STM32F412CEUX](http://oom.lt/SZKMCUSTSTM32F4STM32F412CEUX)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32F4/STM32F412CEUx/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32F4/STM32F412CEUx/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32F4/STM32F412CEUx/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32F4/STM32F412CEUx/image.png)|||

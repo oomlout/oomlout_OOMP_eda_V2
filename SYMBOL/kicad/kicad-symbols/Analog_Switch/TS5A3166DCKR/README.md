@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKANALOGSWITCHTS5A3166DCKR > Analog_Switch : TS5A3166DCKR](#szkanalogswitchts5a3166dckr--analog_switch--ts5a3166dckr)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Analog_Switch : TS5A3166DCKR
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_Switch-TS5A3166DCKR](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_Switch-TS5A3166DCKR)
 - Short Link: [http://oom.lt/SZKANALOGSWITCHTS5A3166DCKR](http://oom.lt/SZKANALOGSWITCHTS5A3166DCKR)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Analog_Switch/TS5A3166DCKR/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Analog_Switch/TS5A3166DCKR/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Analog_Switch/TS5A3166DCKR/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Analog_Switch/TS5A3166DCKR/image.png)|||

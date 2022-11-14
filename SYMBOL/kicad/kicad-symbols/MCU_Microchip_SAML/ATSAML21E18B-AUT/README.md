@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKMCUMCHIPSAMLATSAML21E18BAUT > MCU_Microchip_SAML : ATSAML21E18B-AUT](#szkmcumchipsamlatsaml21e18baut--mcu_microchip_saml--atsaml21e18b-aut)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: MCU_Microchip_SAML : ATSAML21E18B-AUT
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_SAML-ATSAML21E18B-AUT](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_SAML-ATSAML21E18B-AUT)
 - Short Link: [http://oom.lt/SZKMCUMCHIPSAMLATSAML21E18BAUT](http://oom.lt/SZKMCUMCHIPSAMLATSAML21E18BAUT)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_SAML/ATSAML21E18B-AUT/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_SAML/ATSAML21E18B-AUT/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_SAML/ATSAML21E18B-AUT/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_SAML/ATSAML21E18B-AUT/image.png)|||

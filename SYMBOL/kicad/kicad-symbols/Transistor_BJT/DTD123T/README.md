@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKTRANSISTORBJTDTD123T > Transistor_BJT : DTD123T](#szktransistorbjtdtd123t--transistor_bjt--dtd123t)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Transistor_BJT : DTD123T
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-DTD123T](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-DTD123T)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJTDTD123T](http://oom.lt/SZKTRANSISTORBJTDTD123T)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_BJT/DTD123T/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_BJT/DTD123T/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_BJT/DTD123T/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_BJT/DTD123T/image.png)|||

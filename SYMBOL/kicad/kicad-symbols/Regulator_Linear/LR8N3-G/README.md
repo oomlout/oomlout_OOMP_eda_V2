@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKREGULATORLINEARLR8N3G > Regulator_Linear : LR8N3-G](#szkregulatorlinearlr8n3g--regulator_linear--lr8n3-g)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Regulator_Linear : LR8N3-G
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LR8N3-G](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LR8N3-G)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARLR8N3G](http://oom.lt/SZKREGULATORLINEARLR8N3G)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LR8N3-G/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LR8N3-G/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LR8N3-G/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LR8N3-G/image.png)|||

@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKBGATEXASMSTARJUNIORBGA1137X7LAYOUT12X12P5 > Package_BGA : Texas_MicroStar_Junior_BGA-113_7.0x7.0mm_Layout12x12_P0.5mm](#fzkbgatexasmstarjuniorbga1137x7layout12x12p5--package_bga--texas_microstar_junior_bga-113_70x70mm_layout12x12_p05mm)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Package_BGA : Texas_MicroStar_Junior_BGA-113_7.0x7.0mm_Layout12x12_P0.5mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_BGA-Texas_MicroStar_Junior_BGA-113_7.0x7.0mm_Layout12x12_P0.5mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_BGA-Texas_MicroStar_Junior_BGA-113_7.0x7.0mm_Layout12x12_P0.5mm)
 - Short Link: [http://oom.lt/FZKBGATEXASMSTARJUNIORBGA1137X7LAYOUT12X12P5](http://oom.lt/FZKBGATEXASMSTARJUNIORBGA1137X7LAYOUT12X12P5)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_BGA/Texas_MicroStar_Junior_BGA-113_7.0x7.0mm_Layout12x12_P0.5mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_BGA/Texas_MicroStar_Junior_BGA-113_7.0x7.0mm_Layout12x12_P0.5mm/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_BGA/Texas_MicroStar_Junior_BGA-113_7.0x7.0mm_Layout12x12_P0.5mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_BGA/Texas_MicroStar_Junior_BGA-113_7.0x7.0mm_Layout12x12_P0.5mm/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_BGA/Texas_MicroStar_Junior_BGA-113_7.0x7.0mm_Layout12x12_P0.5mm/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_BGA/Texas_MicroStar_Junior_BGA-113_7.0x7.0mm_Layout12x12_P0.5mm/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_BGA/Texas_MicroStar_Junior_BGA-113_7.0x7.0mm_Layout12x12_P0.5mm/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_BGA/Texas_MicroStar_Junior_BGA-113_7.0x7.0mm_Layout12x12_P0.5mm/kicadPcb3dBack.png)|

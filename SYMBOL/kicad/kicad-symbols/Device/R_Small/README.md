@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDEVICERSLL > Device : R_Small](#szkdevicersll--device--r_small)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Device : R_Small
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-R_Small](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-R_Small)
 - Short Link: [http://oom.lt/SZKDEVICERSLL](http://oom.lt/SZKDEVICERSLL)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/R_Small/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/R_Small/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/R_Small/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/R_Small/image.png)|||

@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKDIHDSP48XX > Display : HDSP-48xx](#fzkdihdsp48xx--display--hdsp-48xx)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Display : HDSP-48xx
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Display-HDSP-48xx](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Display-HDSP-48xx)
 - Short Link: [http://oom.lt/FZKDIHDSP48XX](http://oom.lt/FZKDIHDSP48XX)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Display/HDSP-48xx/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Display/HDSP-48xx/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Display/HDSP-48xx/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Display/HDSP-48xx/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Display/HDSP-48xx/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Display/HDSP-48xx/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Display/HDSP-48xx/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Display/HDSP-48xx/kicadPcb3dBack.png)|

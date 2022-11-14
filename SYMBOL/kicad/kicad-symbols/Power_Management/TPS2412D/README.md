@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKPOWERMANAGEMENTTPS2412D > Power_Management : TPS2412D](#szkpowermanagementtps2412d--power_management--tps2412d)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Power_Management : TPS2412D
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-TPS2412D](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-TPS2412D)
 - Short Link: [http://oom.lt/SZKPOWERMANAGEMENTTPS2412D](http://oom.lt/SZKPOWERMANAGEMENTTPS2412D)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Power_Management/TPS2412D/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Power_Management/TPS2412D/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Power_Management/TPS2412D/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Power_Management/TPS2412D/image.png)|||

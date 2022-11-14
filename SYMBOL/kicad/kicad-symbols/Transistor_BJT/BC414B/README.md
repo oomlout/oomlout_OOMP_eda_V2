@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKTRANSISTORBJTBC414B > Transistor_BJT : BC414B](#szktransistorbjtbc414b--transistor_bjt--bc414b)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Transistor_BJT : BC414B
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-BC414B](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-BC414B)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJTBC414B](http://oom.lt/SZKTRANSISTORBJTBC414B)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_BJT/BC414B/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_BJT/BC414B/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_BJT/BC414B/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_BJT/BC414B/image.png)|||

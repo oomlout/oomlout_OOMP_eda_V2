@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKSENPROXIMITYSG17 > Sensor_Proximity : SG-107](#szksenproximitysg17--sensor_proximity--sg-107)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Sensor_Proximity : SG-107
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Proximity-SG-107](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Proximity-SG-107)
 - Short Link: [http://oom.lt/SZKSENPROXIMITYSG17](http://oom.lt/SZKSENPROXIMITYSG17)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Proximity/SG-107/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Proximity/SG-107/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Proximity/SG-107/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Proximity/SG-107/image.png)|||

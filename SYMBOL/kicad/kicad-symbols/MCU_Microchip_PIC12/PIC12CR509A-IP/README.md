@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKMCUMCHIPPIC12PIC12CR59AIP > MCU_Microchip_PIC12 : PIC12CR509A-IP](#szkmcumchippic12pic12cr59aip--mcu_microchip_pic12--pic12cr509a-ip)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: MCU_Microchip_PIC12 : PIC12CR509A-IP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC12-PIC12CR509A-IP](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC12-PIC12CR509A-IP)
 - Short Link: [http://oom.lt/SZKMCUMCHIPPIC12PIC12CR59AIP](http://oom.lt/SZKMCUMCHIPPIC12PIC12CR59AIP)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC12/PIC12CR509A-IP/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC12/PIC12CR509A-IP/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC12/PIC12CR509A-IP/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC12/PIC12CR509A-IP/image.png)|||

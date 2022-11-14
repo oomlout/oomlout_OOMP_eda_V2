@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKPOTENTIOMETERDIGITALMCP411 > Potentiometer_Digital : MCP41100](#szkpotentiometerdigitalmcp411--potentiometer_digital--mcp41100)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Potentiometer_Digital : MCP41100
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Potentiometer_Digital-MCP41100](http://oom.lt/SYMBOL-kicad-kicad-symbols-Potentiometer_Digital-MCP41100)
 - Short Link: [http://oom.lt/SZKPOTENTIOMETERDIGITALMCP411](http://oom.lt/SZKPOTENTIOMETERDIGITALMCP411)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Potentiometer_Digital/MCP41100/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Potentiometer_Digital/MCP41100/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Potentiometer_Digital/MCP41100/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Potentiometer_Digital/MCP41100/image.png)|||

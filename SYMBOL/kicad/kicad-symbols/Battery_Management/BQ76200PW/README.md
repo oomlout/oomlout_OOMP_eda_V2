@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKBATMANAGEMENTBQ762PW > Battery_Management : BQ76200PW](#szkbatmanagementbq762pw--battery_management--bq76200pw)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Battery_Management : BQ76200PW
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Battery_Management-BQ76200PW](http://oom.lt/SYMBOL-kicad-kicad-symbols-Battery_Management-BQ76200PW)
 - Short Link: [http://oom.lt/SZKBATMANAGEMENTBQ762PW](http://oom.lt/SZKBATMANAGEMENTBQ762PW)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Battery_Management/BQ76200PW/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Battery_Management/BQ76200PW/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Battery_Management/BQ76200PW/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Battery_Management/BQ76200PW/image.png)|||

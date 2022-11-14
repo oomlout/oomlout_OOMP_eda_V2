@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKCONTEN2241WIN > Converter_DCDC : TEN20-2410WIN](#szkconten2241win--converter_dcdc--ten20-2410win)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Converter_DCDC : TEN20-2410WIN
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-TEN20-2410WIN](http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-TEN20-2410WIN)
 - Short Link: [http://oom.lt/SZKCONTEN2241WIN](http://oom.lt/SZKCONTEN2241WIN)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Converter_DCDC/TEN20-2410WIN/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Converter_DCDC/TEN20-2410WIN/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Converter_DCDC/TEN20-2410WIN/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Converter_DCDC/TEN20-2410WIN/image.png)|||

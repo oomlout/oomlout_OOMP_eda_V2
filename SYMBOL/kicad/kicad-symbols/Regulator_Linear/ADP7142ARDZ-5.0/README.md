@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKREGULATORLINEARADP7142ARDZ5 > Regulator_Linear : ADP7142ARDZ-5.0](#szkregulatorlinearadp7142ardz5--regulator_linear--adp7142ardz-50)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Regulator_Linear : ADP7142ARDZ-5.0
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-ADP7142ARDZ-5.0](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-ADP7142ARDZ-5.0)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARADP7142ARDZ5](http://oom.lt/SZKREGULATORLINEARADP7142ARDZ5)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/ADP7142ARDZ-5.0/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/ADP7142ARDZ-5.0/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/ADP7142ARDZ-5.0/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/ADP7142ARDZ-5.0/image.png)|||

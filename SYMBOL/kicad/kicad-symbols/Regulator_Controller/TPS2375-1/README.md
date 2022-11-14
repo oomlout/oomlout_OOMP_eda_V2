@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKREGULATORCONTROLLERTPS23751 > Regulator_Controller : TPS2375-1](#szkregulatorcontrollertps23751--regulator_controller--tps2375-1)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Regulator_Controller : TPS2375-1
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Controller-TPS2375-1](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Controller-TPS2375-1)
 - Short Link: [http://oom.lt/SZKREGULATORCONTROLLERTPS23751](http://oom.lt/SZKREGULATORCONTROLLERTPS23751)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Controller/TPS2375-1/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Controller/TPS2375-1/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Controller/TPS2375-1/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Controller/TPS2375-1/image.png)|||

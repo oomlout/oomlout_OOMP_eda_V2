@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKREGULATORLINEARLM29363 > Regulator_Linear : LM2936-3.0](#szkregulatorlinearlm29363--regulator_linear--lm2936-30)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Regulator_Linear : LM2936-3.0
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LM2936-3.0](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LM2936-3.0)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARLM29363](http://oom.lt/SZKREGULATORLINEARLM29363)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LM2936-3.0/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LM2936-3.0/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LM2936-3.0/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LM2936-3.0/image.png)|||

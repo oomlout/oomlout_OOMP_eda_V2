@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKMEMORYNVRAMMB85RS2MT > Memory_NVRAM : MB85RS2MT](#szkmemorynvrammb85rs2mt--memory_nvram--mb85rs2mt)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Memory_NVRAM : MB85RS2MT
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_NVRAM-MB85RS2MT](http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_NVRAM-MB85RS2MT)
 - Short Link: [http://oom.lt/SZKMEMORYNVRAMMB85RS2MT](http://oom.lt/SZKMEMORYNVRAMMB85RS2MT)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Memory_NVRAM/MB85RS2MT/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Memory_NVRAM/MB85RS2MT/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Memory_NVRAM/MB85RS2MT/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Memory_NVRAM/MB85RS2MT/image.png)|||

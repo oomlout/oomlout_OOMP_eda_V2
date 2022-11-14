@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKINTERFACESI9986 > Interface : SI9986](#szkinterfacesi9986--interface--si9986)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Interface : SI9986
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-SI9986](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-SI9986)
 - Short Link: [http://oom.lt/SZKINTERFACESI9986](http://oom.lt/SZKINTERFACESI9986)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface/SI9986/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface/SI9986/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface/SI9986/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface/SI9986/image.png)|||

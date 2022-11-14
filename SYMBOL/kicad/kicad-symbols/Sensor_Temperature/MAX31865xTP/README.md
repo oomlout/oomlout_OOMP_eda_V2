@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKSENTEMPERATUREMAX31865XTP > Sensor_Temperature : MAX31865xTP](#szksentemperaturemax31865xtp--sensor_temperature--max31865xtp)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Sensor_Temperature : MAX31865xTP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Temperature-MAX31865xTP](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Temperature-MAX31865xTP)
 - Short Link: [http://oom.lt/SZKSENTEMPERATUREMAX31865XTP](http://oom.lt/SZKSENTEMPERATUREMAX31865XTP)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Temperature/MAX31865xTP/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Temperature/MAX31865xTP/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Temperature/MAX31865xTP/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Temperature/MAX31865xTP/image.png)|||

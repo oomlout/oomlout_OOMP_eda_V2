@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKSENCURRENTA1366XKTTN5 > Sensor_Current : A1366xKTTN-5](#szksencurrenta1366xkttn5--sensor_current--a1366xkttn-5)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Sensor_Current : A1366xKTTN-5
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-A1366xKTTN-5](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-A1366xKTTN-5)
 - Short Link: [http://oom.lt/SZKSENCURRENTA1366XKTTN5](http://oom.lt/SZKSENCURRENTA1366XKTTN5)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Current/A1366xKTTN-5/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Current/A1366xKTTN-5/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Current/A1366xKTTN-5/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Current/A1366xKTTN-5/image.png)|||

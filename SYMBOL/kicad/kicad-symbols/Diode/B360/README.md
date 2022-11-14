@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDIODEB36 > Diode : B360](#szkdiodeb36--diode--b360)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Diode : B360
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-B360](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-B360)
 - Short Link: [http://oom.lt/SZKDIODEB36](http://oom.lt/SZKDIODEB36)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Diode/B360/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Diode/B360/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Diode/B360/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Diode/B360/image.png)|||

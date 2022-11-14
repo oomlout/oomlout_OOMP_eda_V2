@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKCONITX55SR > Converter_DCDC : ITX0505S-R](#szkconitx55sr--converter_dcdc--itx0505s-r)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Converter_DCDC : ITX0505S-R
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-ITX0505S-R](http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-ITX0505S-R)
 - Short Link: [http://oom.lt/SZKCONITX55SR](http://oom.lt/SZKCONITX55SR)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Converter_DCDC/ITX0505S-R/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Converter_DCDC/ITX0505S-R/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Converter_DCDC/ITX0505S-R/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Converter_DCDC/ITX0505S-R/image.png)|||

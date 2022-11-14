@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKMCUSTSTM32F3STM32F32ZDTX > MCU_ST_STM32F3 : STM32F302ZDTx](#szkmcuststm32f3stm32f32zdtx--mcu_st_stm32f3--stm32f302zdtx)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: MCU_ST_STM32F3 : STM32F302ZDTx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F3-STM32F302ZDTx](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F3-STM32F302ZDTx)
 - Short Link: [http://oom.lt/SZKMCUSTSTM32F3STM32F32ZDTX](http://oom.lt/SZKMCUSTSTM32F3STM32F32ZDTX)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32F3/STM32F302ZDTx/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32F3/STM32F302ZDTx/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32F3/STM32F302ZDTx/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32F3/STM32F302ZDTx/image.png)|||

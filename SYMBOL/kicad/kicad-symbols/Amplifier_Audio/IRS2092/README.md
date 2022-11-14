@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKAMPLIFIERAUDIOIRS292 > Amplifier_Audio : IRS2092](#szkamplifieraudioirs292--amplifier_audio--irs2092)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Amplifier_Audio : IRS2092
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Audio-IRS2092](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Audio-IRS2092)
 - Short Link: [http://oom.lt/SZKAMPLIFIERAUDIOIRS292](http://oom.lt/SZKAMPLIFIERAUDIOIRS292)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Amplifier_Audio/IRS2092/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Amplifier_Audio/IRS2092/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Amplifier_Audio/IRS2092/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Amplifier_Audio/IRS2092/image.png)|||

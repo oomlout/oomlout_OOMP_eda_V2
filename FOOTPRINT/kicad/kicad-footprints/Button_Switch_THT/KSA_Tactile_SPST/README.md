@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKBKSATACTILESPST > Button_Switch_THT : KSA_Tactile_SPST](#fzkbksatactilespst--button_switch_tht--ksa_tactile_spst)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Button_Switch_THT : KSA_Tactile_SPST
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Button_Switch_THT-KSA_Tactile_SPST](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Button_Switch_THT-KSA_Tactile_SPST)
 - Short Link: [http://oom.lt/FZKBKSATACTILESPST](http://oom.lt/FZKBKSATACTILESPST)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/KSA_Tactile_SPST/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/KSA_Tactile_SPST/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/KSA_Tactile_SPST/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/KSA_Tactile_SPST/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/KSA_Tactile_SPST/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/KSA_Tactile_SPST/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/KSA_Tactile_SPST/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/KSA_Tactile_SPST/kicadPcb3dBack.png)|

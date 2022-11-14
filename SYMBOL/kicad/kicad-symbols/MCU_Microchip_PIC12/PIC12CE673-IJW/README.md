@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKMCUMCHIPPIC12PIC12CE673IJW > MCU_Microchip_PIC12 : PIC12CE673-IJW](#szkmcumchippic12pic12ce673ijw--mcu_microchip_pic12--pic12ce673-ijw)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: MCU_Microchip_PIC12 : PIC12CE673-IJW
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC12-PIC12CE673-IJW](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC12-PIC12CE673-IJW)
 - Short Link: [http://oom.lt/SZKMCUMCHIPPIC12PIC12CE673IJW](http://oom.lt/SZKMCUMCHIPPIC12PIC12CE673IJW)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC12/PIC12CE673-IJW/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC12/PIC12CE673-IJW/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC12/PIC12CE673-IJW/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC12/PIC12CE673-IJW/image.png)|||

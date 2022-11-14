@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKTBMETZCONNECTTBMETZCONNECT362721X1HORIZONTALSCREWM26 > TerminalBlock_MetzConnect : TerminalBlock_MetzConnect_360272_1x01_Horizontal_ScrewM2.6](#fzktbmetzconnecttbmetzconnect362721x1horizontalscrewm26--terminalblock_metzconnect--terminalblock_metzconnect_360272_1x01_horizontal_screwm26)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: TerminalBlock_MetzConnect : TerminalBlock_MetzConnect_360272_1x01_Horizontal_ScrewM2.6
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-TerminalBlock_MetzConnect-TerminalBlock_MetzConnect_360272_1x01_Horizontal_ScrewM2.6](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-TerminalBlock_MetzConnect-TerminalBlock_MetzConnect_360272_1x01_Horizontal_ScrewM2.6)
 - Short Link: [http://oom.lt/FZKTBMETZCONNECTTBMETZCONNECT362721X1HORIZONTALSCREWM26](http://oom.lt/FZKTBMETZCONNECTTBMETZCONNECT362721X1HORIZONTALSCREWM26)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/TerminalBlock_MetzConnect/TerminalBlock_MetzConnect_360272_1x01_Horizontal_ScrewM2.6/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/TerminalBlock_MetzConnect/TerminalBlock_MetzConnect_360272_1x01_Horizontal_ScrewM2.6/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/TerminalBlock_MetzConnect/TerminalBlock_MetzConnect_360272_1x01_Horizontal_ScrewM2.6/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/TerminalBlock_MetzConnect/TerminalBlock_MetzConnect_360272_1x01_Horizontal_ScrewM2.6/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/TerminalBlock_MetzConnect/TerminalBlock_MetzConnect_360272_1x01_Horizontal_ScrewM2.6/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/TerminalBlock_MetzConnect/TerminalBlock_MetzConnect_360272_1x01_Horizontal_ScrewM2.6/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/TerminalBlock_MetzConnect/TerminalBlock_MetzConnect_360272_1x01_Horizontal_ScrewM2.6/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/TerminalBlock_MetzConnect/TerminalBlock_MetzConnect_360272_1x01_Horizontal_ScrewM2.6/kicadPcb3dBack.png)|

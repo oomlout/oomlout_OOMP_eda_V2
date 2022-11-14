@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKVANOS6418 > Valve : NOS-6418](#szkvanos6418--valve--nos-6418)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Valve : NOS-6418
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Valve-NOS-6418](http://oom.lt/SYMBOL-kicad-kicad-symbols-Valve-NOS-6418)
 - Short Link: [http://oom.lt/SZKVANOS6418](http://oom.lt/SZKVANOS6418)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Valve/NOS-6418/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Valve/NOS-6418/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Valve/NOS-6418/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Valve/NOS-6418/image.png)|||

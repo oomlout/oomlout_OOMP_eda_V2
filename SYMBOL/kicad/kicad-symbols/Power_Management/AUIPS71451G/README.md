@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKPOWERMANAGEMENTAUIPS71451G > Power_Management : AUIPS71451G](#szkpowermanagementauips71451g--power_management--auips71451g)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Power_Management : AUIPS71451G
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-AUIPS71451G](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-AUIPS71451G)
 - Short Link: [http://oom.lt/SZKPOWERMANAGEMENTAUIPS71451G](http://oom.lt/SZKPOWERMANAGEMENTAUIPS71451G)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Power_Management/AUIPS71451G/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Power_Management/AUIPS71451G/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Power_Management/AUIPS71451G/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Power_Management/AUIPS71451G/image.png)|||

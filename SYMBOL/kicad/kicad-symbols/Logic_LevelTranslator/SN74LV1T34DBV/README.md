@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKLOGICLEVELTRANSLATORSN74LV1T34DBV > Logic_LevelTranslator : SN74LV1T34DBV](#szklogicleveltranslatorsn74lv1t34dbv--logic_leveltranslator--sn74lv1t34dbv)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Logic_LevelTranslator : SN74LV1T34DBV
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Logic_LevelTranslator-SN74LV1T34DBV](http://oom.lt/SYMBOL-kicad-kicad-symbols-Logic_LevelTranslator-SN74LV1T34DBV)
 - Short Link: [http://oom.lt/SZKLOGICLEVELTRANSLATORSN74LV1T34DBV](http://oom.lt/SZKLOGICLEVELTRANSLATORSN74LV1T34DBV)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Logic_LevelTranslator/SN74LV1T34DBV/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Logic_LevelTranslator/SN74LV1T34DBV/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Logic_LevelTranslator/SN74LV1T34DBV/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Logic_LevelTranslator/SN74LV1T34DBV/image.png)|||

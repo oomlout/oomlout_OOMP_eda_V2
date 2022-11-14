@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKJJ3BRIDGED12 > Jumper : Jumper_3_Bridged12](#szkjj3bridged12--jumper--jumper_3_bridged12)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Jumper : Jumper_3_Bridged12
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Jumper-Jumper_3_Bridged12](http://oom.lt/SYMBOL-kicad-kicad-symbols-Jumper-Jumper_3_Bridged12)
 - Short Link: [http://oom.lt/SZKJJ3BRIDGED12](http://oom.lt/SZKJJ3BRIDGED12)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Jumper/Jumper_3_Bridged12/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Jumper/Jumper_3_Bridged12/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Jumper/Jumper_3_Bridged12/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Jumper/Jumper_3_Bridged12/image.png)|||

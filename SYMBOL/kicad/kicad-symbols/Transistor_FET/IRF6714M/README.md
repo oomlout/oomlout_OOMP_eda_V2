@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKTRANSISTORFETIRF6714M > Transistor_FET : IRF6714M](#szktransistorfetirf6714m--transistor_fet--irf6714m)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Transistor_FET : IRF6714M
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IRF6714M](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IRF6714M)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETIRF6714M](http://oom.lt/SZKTRANSISTORFETIRF6714M)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/IRF6714M/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/IRF6714M/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/IRF6714M/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/IRF6714M/image.png)|||

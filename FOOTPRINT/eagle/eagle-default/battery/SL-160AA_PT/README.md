@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZEBATSL16AAPT > battery : SL-160AA_PT](#fzebatsl16aapt--battery--sl-160aa_pt)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: battery : SL-160AA_PT
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-battery-SL-160AA_PT](http://oom.lt/FOOTPRINT-eagle-eagle-default-battery-SL-160AA_PT)
 - Short Link: [http://oom.lt/FZEBATSL16AAPT](http://oom.lt/FZEBATSL16AAPT)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/battery/SL-160AA_PT/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/battery/SL-160AA_PT/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/battery/SL-160AA_PT/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/battery/SL-160AA_PT/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/battery/SL-160AA_PT/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/battery/SL-160AA_PT/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/battery/SL-160AA_PT/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/battery/SL-160AA_PT/kicadPcb3dBack.png)|

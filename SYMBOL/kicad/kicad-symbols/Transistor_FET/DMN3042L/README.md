@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKTRANSISTORFETDMN342L > Transistor_FET : DMN3042L](#szktransistorfetdmn342l--transistor_fet--dmn3042l)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Transistor_FET : DMN3042L
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-DMN3042L](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-DMN3042L)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETDMN342L](http://oom.lt/SZKTRANSISTORFETDMN342L)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/DMN3042L/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/DMN3042L/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/DMN3042L/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/DMN3042L/image.png)|||

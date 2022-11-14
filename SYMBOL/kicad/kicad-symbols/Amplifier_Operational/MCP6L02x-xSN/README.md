@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKAMPLIFIEROPERATIONALMCP6L2XXSN > Amplifier_Operational : MCP6L02x-xSN](#szkamplifieroperationalmcp6l2xxsn--amplifier_operational--mcp6l02x-xsn)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Amplifier_Operational : MCP6L02x-xSN
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-MCP6L02x-xSN](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-MCP6L02x-xSN)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALMCP6L2XXSN](http://oom.lt/SZKAMPLIFIEROPERATIONALMCP6L2XXSN)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/MCP6L02x-xSN/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/MCP6L02x-xSN/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/MCP6L02x-xSN/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/MCP6L02x-xSN/image.png)|||

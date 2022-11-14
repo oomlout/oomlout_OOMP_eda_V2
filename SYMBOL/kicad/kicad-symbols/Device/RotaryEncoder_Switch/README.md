@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDEVICEROTARYENCODERSWITCH > Device : RotaryEncoder_Switch](#szkdevicerotaryencoderswitch--device--rotaryencoder_switch)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Device : RotaryEncoder_Switch
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-RotaryEncoder_Switch](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-RotaryEncoder_Switch)
 - Short Link: [http://oom.lt/SZKDEVICEROTARYENCODERSWITCH](http://oom.lt/SZKDEVICEROTARYENCODERSWITCH)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/RotaryEncoder_Switch/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/RotaryEncoder_Switch/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/RotaryEncoder_Switch/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/RotaryEncoder_Switch/image.png)|||

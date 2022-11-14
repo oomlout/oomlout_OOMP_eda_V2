@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKSENCURRENTA1369XUA24 > Sensor_Current : A1369xUA-24](#szksencurrenta1369xua24--sensor_current--a1369xua-24)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Sensor_Current : A1369xUA-24
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-A1369xUA-24](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-A1369xUA-24)
 - Short Link: [http://oom.lt/SZKSENCURRENTA1369XUA24](http://oom.lt/SZKSENCURRENTA1369XUA24)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Current/A1369xUA-24/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Current/A1369xUA-24/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Current/A1369xUA-24/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Current/A1369xUA-24/image.png)|||

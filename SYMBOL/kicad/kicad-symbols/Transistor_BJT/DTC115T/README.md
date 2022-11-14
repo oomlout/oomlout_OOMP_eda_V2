@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKTRANSISTORBJTDTC115T > Transistor_BJT : DTC115T](#szktransistorbjtdtc115t--transistor_bjt--dtc115t)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Transistor_BJT : DTC115T
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-DTC115T](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-DTC115T)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJTDTC115T](http://oom.lt/SZKTRANSISTORBJTDTC115T)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_BJT/DTC115T/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_BJT/DTC115T/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_BJT/DTC115T/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_BJT/DTC115T/image.png)|||

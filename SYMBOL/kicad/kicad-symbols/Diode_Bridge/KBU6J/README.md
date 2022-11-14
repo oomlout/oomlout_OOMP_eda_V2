@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDIODEBRIDGEKBU6J > Diode_Bridge : KBU6J](#szkdiodebridgekbu6j--diode_bridge--kbu6j)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Diode_Bridge : KBU6J
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode_Bridge-KBU6J](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode_Bridge-KBU6J)
 - Short Link: [http://oom.lt/SZKDIODEBRIDGEKBU6J](http://oom.lt/SZKDIODEBRIDGEKBU6J)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Diode_Bridge/KBU6J/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Diode_Bridge/KBU6J/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Diode_Bridge/KBU6J/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Diode_Bridge/KBU6J/image.png)|||

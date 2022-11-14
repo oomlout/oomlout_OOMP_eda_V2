@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZE74XXUSSO16NS > 74xx-us : SO16NS](#fze74xxusso16ns--74xx-us--so16ns)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: 74xx-us : SO16NS
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-74xx-us-SO16NS](http://oom.lt/FOOTPRINT-eagle-eagle-default-74xx-us-SO16NS)
 - Short Link: [http://oom.lt/FZE74XXUSSO16NS](http://oom.lt/FZE74XXUSSO16NS)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/74xx-us/SO16NS/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/74xx-us/SO16NS/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/74xx-us/SO16NS/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/74xx-us/SO16NS/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/74xx-us/SO16NS/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/74xx-us/SO16NS/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/74xx-us/SO16NS/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/74xx-us/SO16NS/kicadPcb3dBack.png)|

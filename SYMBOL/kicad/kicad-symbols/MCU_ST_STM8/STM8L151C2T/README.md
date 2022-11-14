@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKMCUSTSTM8STM8L151C2T > MCU_ST_STM8 : STM8L151C2T](#szkmcuststm8stm8l151c2t--mcu_st_stm8--stm8l151c2t)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: MCU_ST_STM8 : STM8L151C2T
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM8-STM8L151C2T](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM8-STM8L151C2T)
 - Short Link: [http://oom.lt/SZKMCUSTSTM8STM8L151C2T](http://oom.lt/SZKMCUSTSTM8STM8L151C2T)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_ST_STM8/STM8L151C2T/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_ST_STM8/STM8L151C2T/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_ST_STM8/STM8L151C2T/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_ST_STM8/STM8L151C2T/image.png)|||

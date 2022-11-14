@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDIODELASERPLT5488 > Diode_Laser : PLT5_488](#szkdiodelaserplt5488--diode_laser--plt5_488)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Diode_Laser : PLT5_488
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode_Laser-PLT5_488](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode_Laser-PLT5_488)
 - Short Link: [http://oom.lt/SZKDIODELASERPLT5488](http://oom.lt/SZKDIODELASERPLT5488)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Diode_Laser/PLT5_488/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Diode_Laser/PLT5_488/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Diode_Laser/PLT5_488/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Diode_Laser/PLT5_488/image.png)|||

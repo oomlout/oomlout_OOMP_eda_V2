@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDRIVERMOTORZXBM521SP > Driver_Motor : ZXBM5210-SP](#szkdrivermotorzxbm521sp--driver_motor--zxbm5210-sp)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Driver_Motor : ZXBM5210-SP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_Motor-ZXBM5210-SP](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_Motor-ZXBM5210-SP)
 - Short Link: [http://oom.lt/SZKDRIVERMOTORZXBM521SP](http://oom.lt/SZKDRIVERMOTORZXBM521SP)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Driver_Motor/ZXBM5210-SP/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Driver_Motor/ZXBM5210-SP/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Driver_Motor/ZXBM5210-SP/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Driver_Motor/ZXBM5210-SP/image.png)|||

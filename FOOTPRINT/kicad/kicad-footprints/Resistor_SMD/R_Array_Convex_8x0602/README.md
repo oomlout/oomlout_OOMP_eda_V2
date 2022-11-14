@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKRESISTORSMRARRAYCONVEX8X62 > Resistor_SMD : R_Array_Convex_8x0602](#fzkresistorsmrarrayconvex8x62--resistor_smd--r_array_convex_8x0602)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Resistor_SMD : R_Array_Convex_8x0602
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_Array_Convex_8x0602](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_Array_Convex_8x0602)
 - Short Link: [http://oom.lt/FZKRESISTORSMRARRAYCONVEX8X62](http://oom.lt/FZKRESISTORSMRARRAYCONVEX8X62)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_Array_Convex_8x0602/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_Array_Convex_8x0602/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_Array_Convex_8x0602/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_Array_Convex_8x0602/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_Array_Convex_8x0602/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_Array_Convex_8x0602/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_Array_Convex_8x0602/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_Array_Convex_8x0602/kicadPcb3dBack.png)|

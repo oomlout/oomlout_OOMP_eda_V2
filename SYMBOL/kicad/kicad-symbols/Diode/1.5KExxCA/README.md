@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDIODE15KEXXCA > Diode : 1.5KExxCA](#szkdiode15kexxca--diode--15kexxca)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Diode : 1.5KExxCA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-1.5KExxCA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-1.5KExxCA)
 - Short Link: [http://oom.lt/SZKDIODE15KEXXCA](http://oom.lt/SZKDIODE15KEXXCA)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Diode/1.5KExxCA/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Diode/1.5KExxCA/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Diode/1.5KExxCA/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Diode/1.5KExxCA/image.png)|||

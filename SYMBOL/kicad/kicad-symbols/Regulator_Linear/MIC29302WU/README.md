@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKREGULATORLINEARMIC2932WU > Regulator_Linear : MIC29302WU](#szkregulatorlinearmic2932wu--regulator_linear--mic29302wu)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Regulator_Linear : MIC29302WU
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-MIC29302WU](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-MIC29302WU)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARMIC2932WU](http://oom.lt/SZKREGULATORLINEARMIC2932WU)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/MIC29302WU/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/MIC29302WU/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/MIC29302WU/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/MIC29302WU/image.png)|||

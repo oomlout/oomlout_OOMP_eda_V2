@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDEVICEQPNPBEC > Device : Q_PNP_BEC](#szkdeviceqpnpbec--device--q_pnp_bec)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Device : Q_PNP_BEC
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Q_PNP_BEC](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Q_PNP_BEC)
 - Short Link: [http://oom.lt/SZKDEVICEQPNPBEC](http://oom.lt/SZKDEVICEQPNPBEC)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/Q_PNP_BEC/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/Q_PNP_BEC/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/Q_PNP_BEC/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/Q_PNP_BEC/image.png)|||

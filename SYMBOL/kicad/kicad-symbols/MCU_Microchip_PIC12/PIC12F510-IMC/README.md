@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKMCUMCHIPPIC12PIC12F51IMC > MCU_Microchip_PIC12 : PIC12F510-IMC](#szkmcumchippic12pic12f51imc--mcu_microchip_pic12--pic12f510-imc)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: MCU_Microchip_PIC12 : PIC12F510-IMC
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC12-PIC12F510-IMC](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC12-PIC12F510-IMC)
 - Short Link: [http://oom.lt/SZKMCUMCHIPPIC12PIC12F51IMC](http://oom.lt/SZKMCUMCHIPPIC12PIC12F51IMC)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC12/PIC12F510-IMC/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC12/PIC12F510-IMC/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC12/PIC12F510-IMC/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC12/PIC12F510-IMC/image.png)|||

@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSPINHEADER1X2P396DRILL16 > digikey-footprints : PinHeader_1x2_P3.96mm_Drill1.6mm](#fzkicaddigikeykicadlibrarydigikeyfootprintspinheader1x2p396drill16--digikey-footprints--pinheader_1x2_p396mm_drill16mm)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: digikey-footprints : PinHeader_1x2_P3.96mm_Drill1.6mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-PinHeader_1x2_P3.96mm_Drill1.6mm](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-PinHeader_1x2_P3.96mm_Drill1.6mm)
 - Short Link: [http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSPINHEADER1X2P396DRILL16](http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSPINHEADER1X2P396DRILL16)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/PinHeader_1x2_P3.96mm_Drill1.6mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/PinHeader_1x2_P3.96mm_Drill1.6mm/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/PinHeader_1x2_P3.96mm_Drill1.6mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/PinHeader_1x2_P3.96mm_Drill1.6mm/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/PinHeader_1x2_P3.96mm_Drill1.6mm/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/PinHeader_1x2_P3.96mm_Drill1.6mm/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/PinHeader_1x2_P3.96mm_Drill1.6mm/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/PinHeader_1x2_P3.96mm_Drill1.6mm/kicadPcb3dBack.png)|

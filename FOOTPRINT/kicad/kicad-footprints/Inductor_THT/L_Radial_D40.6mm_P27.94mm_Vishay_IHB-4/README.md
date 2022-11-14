@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKINLRD46P2794VISHAYIHB4 > Inductor_THT : L_Radial_D40.6mm_P27.94mm_Vishay_IHB-4](#fzkinlrd46p2794vishayihb4--inductor_tht--l_radial_d406mm_p2794mm_vishay_ihb-4)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Inductor_THT : L_Radial_D40.6mm_P27.94mm_Vishay_IHB-4
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Radial_D40.6mm_P27.94mm_Vishay_IHB-4](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Radial_D40.6mm_P27.94mm_Vishay_IHB-4)
 - Short Link: [http://oom.lt/FZKINLRD46P2794VISHAYIHB4](http://oom.lt/FZKINLRD46P2794VISHAYIHB4)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Radial_D40.6mm_P27.94mm_Vishay_IHB-4/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Radial_D40.6mm_P27.94mm_Vishay_IHB-4/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Radial_D40.6mm_P27.94mm_Vishay_IHB-4/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Radial_D40.6mm_P27.94mm_Vishay_IHB-4/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Radial_D40.6mm_P27.94mm_Vishay_IHB-4/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Radial_D40.6mm_P27.94mm_Vishay_IHB-4/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Radial_D40.6mm_P27.94mm_Vishay_IHB-4/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Radial_D40.6mm_P27.94mm_Vishay_IHB-4/kicadPcb3dBack.png)|

@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKCOMPARATORLMV7219M5 > Comparator : LMV7219M5](#szkcomparatorlmv7219m5--comparator--lmv7219m5)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Comparator : LMV7219M5
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Comparator-LMV7219M5](http://oom.lt/SYMBOL-kicad-kicad-symbols-Comparator-LMV7219M5)
 - Short Link: [http://oom.lt/SZKCOMPARATORLMV7219M5](http://oom.lt/SZKCOMPARATORLMV7219M5)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Comparator/LMV7219M5/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Comparator/LMV7219M5/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Comparator/LMV7219M5/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Comparator/LMV7219M5/image.png)|||

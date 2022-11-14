@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKCN8P8CSHED > Connector : 8P8C_Shielded](#szkcn8p8cshed--connector--8p8c_shielded)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Connector : 8P8C_Shielded
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-8P8C_Shielded](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-8P8C_Shielded)
 - Short Link: [http://oom.lt/SZKCN8P8CSHED](http://oom.lt/SZKCN8P8CSHED)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/8P8C_Shielded/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/8P8C_Shielded/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/8P8C_Shielded/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/8P8C_Shielded/image.png)|||

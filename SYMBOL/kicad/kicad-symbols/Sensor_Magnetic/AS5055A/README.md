@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKSENMAGNETICAS555A > Sensor_Magnetic : AS5055A](#szksenmagneticas555a--sensor_magnetic--as5055a)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Sensor_Magnetic : AS5055A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Magnetic-AS5055A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Magnetic-AS5055A)
 - Short Link: [http://oom.lt/SZKSENMAGNETICAS555A](http://oom.lt/SZKSENMAGNETICAS555A)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Magnetic/AS5055A/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Magnetic/AS5055A/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Magnetic/AS5055A/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Magnetic/AS5055A/image.png)|||

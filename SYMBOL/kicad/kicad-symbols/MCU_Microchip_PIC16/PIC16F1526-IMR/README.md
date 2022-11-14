@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKMCUMCHIPPIC16PIC16F1526IMR > MCU_Microchip_PIC16 : PIC16F1526-IMR](#szkmcumchippic16pic16f1526imr--mcu_microchip_pic16--pic16f1526-imr)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: MCU_Microchip_PIC16 : PIC16F1526-IMR
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F1526-IMR](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F1526-IMR)
 - Short Link: [http://oom.lt/SZKMCUMCHIPPIC16PIC16F1526IMR](http://oom.lt/SZKMCUMCHIPPIC16PIC16F1526IMR)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC16/PIC16F1526-IMR/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC16/PIC16F1526-IMR/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC16/PIC16F1526-IMR/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC16/PIC16F1526-IMR/image.png)|||

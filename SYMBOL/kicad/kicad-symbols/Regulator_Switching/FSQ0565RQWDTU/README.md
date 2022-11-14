@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKREGULATORSWITCHINGFSQ565RQWDTU > Regulator_Switching : FSQ0565RQWDTU](#szkregulatorswitchingfsq565rqwdtu--regulator_switching--fsq0565rqwdtu)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Regulator_Switching : FSQ0565RQWDTU
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-FSQ0565RQWDTU](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-FSQ0565RQWDTU)
 - Short Link: [http://oom.lt/SZKREGULATORSWITCHINGFSQ565RQWDTU](http://oom.lt/SZKREGULATORSWITCHINGFSQ565RQWDTU)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/FSQ0565RQWDTU/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/FSQ0565RQWDTU/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/FSQ0565RQWDTU/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/FSQ0565RQWDTU/image.png)|||

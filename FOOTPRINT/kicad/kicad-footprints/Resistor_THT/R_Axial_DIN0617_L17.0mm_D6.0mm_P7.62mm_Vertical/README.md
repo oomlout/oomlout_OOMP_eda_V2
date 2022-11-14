@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKRRAXIALDIN617L17D6P762VERTICAL > Resistor_THT : R_Axial_DIN0617_L17.0mm_D6.0mm_P7.62mm_Vertical](#fzkrraxialdin617l17d6p762vertical--resistor_tht--r_axial_din0617_l170mm_d60mm_p762mm_vertical)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Resistor_THT : R_Axial_DIN0617_L17.0mm_D6.0mm_P7.62mm_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Resistor_THT-R_Axial_DIN0617_L17.0mm_D6.0mm_P7.62mm_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Resistor_THT-R_Axial_DIN0617_L17.0mm_D6.0mm_P7.62mm_Vertical)
 - Short Link: [http://oom.lt/FZKRRAXIALDIN617L17D6P762VERTICAL](http://oom.lt/FZKRRAXIALDIN617L17D6P762VERTICAL)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Resistor_THT/R_Axial_DIN0617_L17.0mm_D6.0mm_P7.62mm_Vertical/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Resistor_THT/R_Axial_DIN0617_L17.0mm_D6.0mm_P7.62mm_Vertical/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Resistor_THT/R_Axial_DIN0617_L17.0mm_D6.0mm_P7.62mm_Vertical/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Resistor_THT/R_Axial_DIN0617_L17.0mm_D6.0mm_P7.62mm_Vertical/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Resistor_THT/R_Axial_DIN0617_L17.0mm_D6.0mm_P7.62mm_Vertical/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Resistor_THT/R_Axial_DIN0617_L17.0mm_D6.0mm_P7.62mm_Vertical/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Resistor_THT/R_Axial_DIN0617_L17.0mm_D6.0mm_P7.62mm_Vertical/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Resistor_THT/R_Axial_DIN0617_L17.0mm_D6.0mm_P7.62mm_Vertical/kicadPcb3dBack.png)|

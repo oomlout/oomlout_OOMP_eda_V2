@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKTRANSISTORBJTDTA1D3R > Transistor_BJT : DTA1D3R](#szktransistorbjtdta1d3r--transistor_bjt--dta1d3r)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Transistor_BJT : DTA1D3R
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-DTA1D3R](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-DTA1D3R)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJTDTA1D3R](http://oom.lt/SZKTRANSISTORBJTDTA1D3R)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_BJT/DTA1D3R/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_BJT/DTA1D3R/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_BJT/DTA1D3R/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_BJT/DTA1D3R/image.png)|||

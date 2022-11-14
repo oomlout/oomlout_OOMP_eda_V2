@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKCNDSUBDSUB44HDFEMALEHORIZONTALP229X198EDGEPINOFFSET94 > Connector_Dsub : DSUB-44-HD_Female_Horizontal_P2.29x1.98mm_EdgePinOffset9.40mm](#fzkcndsubdsub44hdfemalehorizontalp229x198edgepinoffset94--connector_dsub--dsub-44-hd_female_horizontal_p229x198mm_edgepinoffset940mm)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Connector_Dsub : DSUB-44-HD_Female_Horizontal_P2.29x1.98mm_EdgePinOffset9.40mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Dsub-DSUB-44-HD_Female_Horizontal_P2.29x1.98mm_EdgePinOffset9.40mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Dsub-DSUB-44-HD_Female_Horizontal_P2.29x1.98mm_EdgePinOffset9.40mm)
 - Short Link: [http://oom.lt/FZKCNDSUBDSUB44HDFEMALEHORIZONTALP229X198EDGEPINOFFSET94](http://oom.lt/FZKCNDSUBDSUB44HDFEMALEHORIZONTALP229X198EDGEPINOFFSET94)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Dsub/DSUB-44-HD_Female_Horizontal_P2.29x1.98mm_EdgePinOffset9.40mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Dsub/DSUB-44-HD_Female_Horizontal_P2.29x1.98mm_EdgePinOffset9.40mm/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Dsub/DSUB-44-HD_Female_Horizontal_P2.29x1.98mm_EdgePinOffset9.40mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Dsub/DSUB-44-HD_Female_Horizontal_P2.29x1.98mm_EdgePinOffset9.40mm/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Dsub/DSUB-44-HD_Female_Horizontal_P2.29x1.98mm_EdgePinOffset9.40mm/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Dsub/DSUB-44-HD_Female_Horizontal_P2.29x1.98mm_EdgePinOffset9.40mm/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Dsub/DSUB-44-HD_Female_Horizontal_P2.29x1.98mm_EdgePinOffset9.40mm/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Dsub/DSUB-44-HD_Female_Horizontal_P2.29x1.98mm_EdgePinOffset9.40mm/kicadPcb3dBack.png)|

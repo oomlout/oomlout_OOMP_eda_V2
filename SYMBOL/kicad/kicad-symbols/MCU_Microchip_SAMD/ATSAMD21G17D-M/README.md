@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKMCUMCHIPSAMDATSAMD21G17DM > MCU_Microchip_SAMD : ATSAMD21G17D-M](#szkmcumchipsamdatsamd21g17dm--mcu_microchip_samd--atsamd21g17d-m)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: MCU_Microchip_SAMD : ATSAMD21G17D-M
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_SAMD-ATSAMD21G17D-M](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_SAMD-ATSAMD21G17D-M)
 - Short Link: [http://oom.lt/SZKMCUMCHIPSAMDATSAMD21G17DM](http://oom.lt/SZKMCUMCHIPSAMDATSAMD21G17DM)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_SAMD/ATSAMD21G17D-M/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_SAMD/ATSAMD21G17D-M/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_SAMD/ATSAMD21G17D-M/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_SAMD/ATSAMD21G17D-M/image.png)|||

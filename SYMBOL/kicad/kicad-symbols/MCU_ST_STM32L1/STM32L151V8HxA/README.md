@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKMCUSTSTM32L1STM32L151V8HXA > MCU_ST_STM32L1 : STM32L151V8HxA](#szkmcuststm32l1stm32l151v8hxa--mcu_st_stm32l1--stm32l151v8hxa)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: MCU_ST_STM32L1 : STM32L151V8HxA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32L1-STM32L151V8HxA](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32L1-STM32L151V8HxA)
 - Short Link: [http://oom.lt/SZKMCUSTSTM32L1STM32L151V8HXA](http://oom.lt/SZKMCUSTSTM32L1STM32L151V8HXA)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32L1/STM32L151V8HxA/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32L1/STM32L151V8HxA/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32L1/STM32L151V8HxA/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32L1/STM32L151V8HxA/image.png)|||

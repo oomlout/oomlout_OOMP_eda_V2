@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDEVICEDSCHOTTKYDUALCOONANODEKAK > Device : D_Schottky_Dual_CommonAnode_KAK](#szkdevicedschottkydualcoonanodekak--device--d_schottky_dual_commonanode_kak)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Device : D_Schottky_Dual_CommonAnode_KAK
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-D_Schottky_Dual_CommonAnode_KAK](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-D_Schottky_Dual_CommonAnode_KAK)
 - Short Link: [http://oom.lt/SZKDEVICEDSCHOTTKYDUALCOONANODEKAK](http://oom.lt/SZKDEVICEDSCHOTTKYDUALCOONANODEKAK)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/D_Schottky_Dual_CommonAnode_KAK/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/D_Schottky_Dual_CommonAnode_KAK/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/D_Schottky_Dual_CommonAnode_KAK/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/D_Schottky_Dual_CommonAnode_KAK/image.png)|||

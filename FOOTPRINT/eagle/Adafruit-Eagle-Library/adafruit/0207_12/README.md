@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZA2712 > adafruit : 0207_12](#fza2712--adafruit--0207_12)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: adafruit : 0207_12
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-0207_12](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-0207_12)
 - Short Link: [http://oom.lt/FZA2712](http://oom.lt/FZA2712)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/0207_12/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/0207_12/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/0207_12/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/0207_12/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/0207_12/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/0207_12/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/0207_12/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/0207_12/kicadPcb3dBack.png)|

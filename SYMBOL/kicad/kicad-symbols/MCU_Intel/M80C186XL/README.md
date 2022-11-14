@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKMCUINTELM8C186XL > MCU_Intel : M80C186XL](#szkmcuintelm8c186xl--mcu_intel--m80c186xl)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: MCU_Intel : M80C186XL
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Intel-M80C186XL](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Intel-M80C186XL)
 - Short Link: [http://oom.lt/SZKMCUINTELM8C186XL](http://oom.lt/SZKMCUINTELM8C186XL)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Intel/M80C186XL/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Intel/M80C186XL/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Intel/M80C186XL/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Intel/M80C186XL/image.png)|||

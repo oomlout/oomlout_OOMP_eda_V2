@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKXXSMMXCC7VT1A2PIN32X15 > Crystal : Crystal_SMD_MicroCrystal_CC7V-T1A-2Pin_3.2x1.5mm](#fzkxxsmmxcc7vt1a2pin32x15--crystal--crystal_smd_microcrystal_cc7v-t1a-2pin_32x15mm)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Crystal : Crystal_SMD_MicroCrystal_CC7V-T1A-2Pin_3.2x1.5mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_SMD_MicroCrystal_CC7V-T1A-2Pin_3.2x1.5mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_SMD_MicroCrystal_CC7V-T1A-2Pin_3.2x1.5mm)
 - Short Link: [http://oom.lt/FZKXXSMMXCC7VT1A2PIN32X15](http://oom.lt/FZKXXSMMXCC7VT1A2PIN32X15)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_SMD_MicroCrystal_CC7V-T1A-2Pin_3.2x1.5mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_SMD_MicroCrystal_CC7V-T1A-2Pin_3.2x1.5mm/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_SMD_MicroCrystal_CC7V-T1A-2Pin_3.2x1.5mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_SMD_MicroCrystal_CC7V-T1A-2Pin_3.2x1.5mm/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_SMD_MicroCrystal_CC7V-T1A-2Pin_3.2x1.5mm/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_SMD_MicroCrystal_CC7V-T1A-2Pin_3.2x1.5mm/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_SMD_MicroCrystal_CC7V-T1A-2Pin_3.2x1.5mm/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_SMD_MicroCrystal_CC7V-T1A-2Pin_3.2x1.5mm/kicadPcb3dBack.png)|

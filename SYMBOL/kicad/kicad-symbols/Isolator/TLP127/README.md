@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKISOLATORTLP127 > Isolator : TLP127](#szkisolatortlp127--isolator--tlp127)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Isolator : TLP127
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-TLP127](http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-TLP127)
 - Short Link: [http://oom.lt/SZKISOLATORTLP127](http://oom.lt/SZKISOLATORTLP127)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Isolator/TLP127/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Isolator/TLP127/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Isolator/TLP127/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Isolator/TLP127/image.png)|||

@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKCNJAEJAELY21PDT12X5P2VERTICAL > Connector_JAE : JAE_LY20-10P-DT1_2x05_P2.00mm_Vertical](#fzkcnjaejaely21pdt12x5p2vertical--connector_jae--jae_ly20-10p-dt1_2x05_p200mm_vertical)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Connector_JAE : JAE_LY20-10P-DT1_2x05_P2.00mm_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_JAE-JAE_LY20-10P-DT1_2x05_P2.00mm_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_JAE-JAE_LY20-10P-DT1_2x05_P2.00mm_Vertical)
 - Short Link: [http://oom.lt/FZKCNJAEJAELY21PDT12X5P2VERTICAL](http://oom.lt/FZKCNJAEJAELY21PDT12X5P2VERTICAL)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_JAE/JAE_LY20-10P-DT1_2x05_P2.00mm_Vertical/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_JAE/JAE_LY20-10P-DT1_2x05_P2.00mm_Vertical/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_JAE/JAE_LY20-10P-DT1_2x05_P2.00mm_Vertical/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_JAE/JAE_LY20-10P-DT1_2x05_P2.00mm_Vertical/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_JAE/JAE_LY20-10P-DT1_2x05_P2.00mm_Vertical/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_JAE/JAE_LY20-10P-DT1_2x05_P2.00mm_Vertical/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_JAE/JAE_LY20-10P-DT1_2x05_P2.00mm_Vertical/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_JAE/JAE_LY20-10P-DT1_2x05_P2.00mm_Vertical/kicadPcb3dBack.png)|

@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDEVICELAMPFLASH > Device : Lamp_Flash](#szkdevicelampflash--device--lamp_flash)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Device : Lamp_Flash
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Lamp_Flash](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Lamp_Flash)
 - Short Link: [http://oom.lt/SZKDEVICELAMPFLASH](http://oom.lt/SZKDEVICELAMPFLASH)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/Lamp_Flash/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/Lamp_Flash/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/Lamp_Flash/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/Lamp_Flash/image.png)|||

@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKPOWERVCOM > power : VCOM](#szkpowervcom--power--vcom)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: power : VCOM
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-power-VCOM](http://oom.lt/SYMBOL-kicad-kicad-symbols-power-VCOM)
 - Short Link: [http://oom.lt/SZKPOWERVCOM](http://oom.lt/SZKPOWERVCOM)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/power/VCOM/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/power/VCOM/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/power/VCOM/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/power/VCOM/image.png)|||

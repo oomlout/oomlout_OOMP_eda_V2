@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDIODE1N4148W > Diode : 1N4148W](#szkdiode1n4148w--diode--1n4148w)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Diode : 1N4148W
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-1N4148W](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-1N4148W)
 - Short Link: [http://oom.lt/SZKDIODE1N4148W](http://oom.lt/SZKDIODE1N4148W)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Diode/1N4148W/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Diode/1N4148W/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Diode/1N4148W/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Diode/1N4148W/image.png)|||

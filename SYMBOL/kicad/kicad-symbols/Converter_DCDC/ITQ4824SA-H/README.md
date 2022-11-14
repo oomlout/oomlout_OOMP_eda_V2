@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKCONITQ4824SAH > Converter_DCDC : ITQ4824SA-H](#szkconitq4824sah--converter_dcdc--itq4824sa-h)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Converter_DCDC : ITQ4824SA-H
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-ITQ4824SA-H](http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-ITQ4824SA-H)
 - Short Link: [http://oom.lt/SZKCONITQ4824SAH](http://oom.lt/SZKCONITQ4824SAH)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Converter_DCDC/ITQ4824SA-H/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Converter_DCDC/ITQ4824SA-H/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Converter_DCDC/ITQ4824SA-H/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Converter_DCDC/ITQ4824SA-H/image.png)|||

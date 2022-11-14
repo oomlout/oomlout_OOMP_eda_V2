@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKCOMPARATORMCP6561XLT > Comparator : MCP6561x-LT](#szkcomparatormcp6561xlt--comparator--mcp6561x-lt)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Comparator : MCP6561x-LT
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Comparator-MCP6561x-LT](http://oom.lt/SYMBOL-kicad-kicad-symbols-Comparator-MCP6561x-LT)
 - Short Link: [http://oom.lt/SZKCOMPARATORMCP6561XLT](http://oom.lt/SZKCOMPARATORMCP6561XLT)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Comparator/MCP6561x-LT/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Comparator/MCP6561x-LT/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Comparator/MCP6561x-LT/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Comparator/MCP6561x-LT/image.png)|||

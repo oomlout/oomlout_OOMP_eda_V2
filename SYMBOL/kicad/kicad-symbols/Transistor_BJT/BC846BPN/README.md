@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKTRANSISTORBJTBC846BPN > Transistor_BJT : BC846BPN](#szktransistorbjtbc846bpn--transistor_bjt--bc846bpn)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Transistor_BJT : BC846BPN
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-BC846BPN](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-BC846BPN)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJTBC846BPN](http://oom.lt/SZKTRANSISTORBJTBC846BPN)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_BJT/BC846BPN/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_BJT/BC846BPN/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_BJT/BC846BPN/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_BJT/BC846BPN/image.png)|||

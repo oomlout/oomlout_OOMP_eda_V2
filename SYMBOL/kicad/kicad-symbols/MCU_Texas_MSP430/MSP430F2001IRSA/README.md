@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKMCUTEXASMSP43MSP43F21IRSA > MCU_Texas_MSP430 : MSP430F2001IRSA](#szkmcutexasmsp43msp43f21irsa--mcu_texas_msp430--msp430f2001irsa)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: MCU_Texas_MSP430 : MSP430F2001IRSA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Texas_MSP430-MSP430F2001IRSA](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Texas_MSP430-MSP430F2001IRSA)
 - Short Link: [http://oom.lt/SZKMCUTEXASMSP43MSP43F21IRSA](http://oom.lt/SZKMCUTEXASMSP43MSP43F21IRSA)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Texas_MSP430/MSP430F2001IRSA/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Texas_MSP430/MSP430F2001IRSA/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Texas_MSP430/MSP430F2001IRSA/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Texas_MSP430/MSP430F2001IRSA/image.png)|||

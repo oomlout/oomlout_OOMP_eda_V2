@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKREFERENCEVOLTAGEREF312 > Reference_Voltage : REF3012](#szkreferencevoltageref312--reference_voltage--ref3012)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Reference_Voltage : REF3012
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Voltage-REF3012](http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Voltage-REF3012)
 - Short Link: [http://oom.lt/SZKREFERENCEVOLTAGEREF312](http://oom.lt/SZKREFERENCEVOLTAGEREF312)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Reference_Voltage/REF3012/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Reference_Voltage/REF3012/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Reference_Voltage/REF3012/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Reference_Voltage/REF3012/image.png)|||

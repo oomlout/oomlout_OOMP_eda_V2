@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZECONPCIBM16BIT > con-pc : IBM16BIT](#fzeconpcibm16bit--con-pc--ibm16bit)
+	* [Images](#images)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -17,8 +18,14 @@ NO IMAGE
 - Description: con-pc : IBM16BIT
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-pc-IBM16BIT](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-pc-IBM16BIT)
 - Short Link: [http://oom.lt/FZECONPCIBM16BIT](http://oom.lt/FZECONPCIBM16BIT)
+
+## Images
   
-NO IMAGES  
+
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/con-pc/IBM16BIT/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/con-pc/IBM16BIT/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/con-pc/IBM16BIT/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/con-pc/IBM16BIT/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/con-pc/IBM16BIT/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/con-pc/IBM16BIT/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/con-pc/IBM16BIT/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/con-pc/IBM16BIT/kicadPcb3dBack.png)|
+| :---: | :---: | :---: | :---: |
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/con-pc/IBM16BIT/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/con-pc/IBM16BIT/kicadPcb3d.png)||||
+
 ## Tags
   
 

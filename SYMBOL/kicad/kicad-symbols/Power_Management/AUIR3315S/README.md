@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKPOWERMANAGEMENTAUIR3315S > Power_Management : AUIR3315S](#szkpowermanagementauir3315s--power_management--auir3315s)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Power_Management : AUIR3315S
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-AUIR3315S](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-AUIR3315S)
 - Short Link: [http://oom.lt/SZKPOWERMANAGEMENTAUIR3315S](http://oom.lt/SZKPOWERMANAGEMENTAUIR3315S)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Power_Management/AUIR3315S/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Power_Management/AUIR3315S/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Power_Management/AUIR3315S/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Power_Management/AUIR3315S/image.png)|||

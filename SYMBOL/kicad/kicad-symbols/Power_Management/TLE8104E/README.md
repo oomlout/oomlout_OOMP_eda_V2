@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKPOWERMANAGEMENTTLE814E > Power_Management : TLE8104E](#szkpowermanagementtle814e--power_management--tle8104e)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Power_Management : TLE8104E
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-TLE8104E](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-TLE8104E)
 - Short Link: [http://oom.lt/SZKPOWERMANAGEMENTTLE814E](http://oom.lt/SZKPOWERMANAGEMENTTLE814E)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Power_Management/TLE8104E/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Power_Management/TLE8104E/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Power_Management/TLE8104E/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Power_Management/TLE8104E/image.png)|||

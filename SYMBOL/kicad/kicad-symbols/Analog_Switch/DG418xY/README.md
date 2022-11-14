@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKANALOGSWITCHDG418XY > Analog_Switch : DG418xY](#szkanalogswitchdg418xy--analog_switch--dg418xy)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Analog_Switch : DG418xY
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_Switch-DG418xY](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_Switch-DG418xY)
 - Short Link: [http://oom.lt/SZKANALOGSWITCHDG418XY](http://oom.lt/SZKANALOGSWITCHDG418XY)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Analog_Switch/DG418xY/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Analog_Switch/DG418xY/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Analog_Switch/DG418xY/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Analog_Switch/DG418xY/image.png)|||

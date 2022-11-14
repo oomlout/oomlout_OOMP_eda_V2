@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKSENOPTICALBPW21 > Sensor_Optical : BPW21](#szksenopticalbpw21--sensor_optical--bpw21)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Sensor_Optical : BPW21
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Optical-BPW21](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Optical-BPW21)
 - Short Link: [http://oom.lt/SZKSENOPTICALBPW21](http://oom.lt/SZKSENOPTICALBPW21)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Optical/BPW21/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Optical/BPW21/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Optical/BPW21/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Optical/BPW21/image.png)|||

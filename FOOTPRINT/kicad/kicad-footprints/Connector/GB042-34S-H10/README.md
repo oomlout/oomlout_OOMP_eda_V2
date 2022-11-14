@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKCNGB4234SH1 > Connector : GB042-34S-H10](#fzkcngb4234sh1--connector--gb042-34s-h10)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Connector : GB042-34S-H10
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector-GB042-34S-H10](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector-GB042-34S-H10)
 - Short Link: [http://oom.lt/FZKCNGB4234SH1](http://oom.lt/FZKCNGB4234SH1)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector/GB042-34S-H10/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector/GB042-34S-H10/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector/GB042-34S-H10/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector/GB042-34S-H10/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector/GB042-34S-H10/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector/GB042-34S-H10/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector/GB042-34S-H10/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector/GB042-34S-H10/kicadPcb3dBack.png)|

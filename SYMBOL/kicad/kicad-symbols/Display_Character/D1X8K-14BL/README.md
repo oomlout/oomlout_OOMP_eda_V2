@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDICHARACTERD1X8K14BL > Display_Character : D1X8K-14BL](#szkdicharacterd1x8k14bl--display_character--d1x8k-14bl)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Display_Character : D1X8K-14BL
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-D1X8K-14BL](http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-D1X8K-14BL)
 - Short Link: [http://oom.lt/SZKDICHARACTERD1X8K14BL](http://oom.lt/SZKDICHARACTERD1X8K14BL)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Display_Character/D1X8K-14BL/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Display_Character/D1X8K-14BL/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Display_Character/D1X8K-14BL/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Display_Character/D1X8K-14BL/image.png)|||

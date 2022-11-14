@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKMEMORYEEPROM93AAXXC > Memory_EEPROM : 93AAxxC](#szkmemoryeeprom93aaxxc--memory_eeprom--93aaxxc)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Memory_EEPROM : 93AAxxC
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_EEPROM-93AAxxC](http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_EEPROM-93AAxxC)
 - Short Link: [http://oom.lt/SZKMEMORYEEPROM93AAXXC](http://oom.lt/SZKMEMORYEEPROM93AAXXC)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Memory_EEPROM/93AAxxC/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Memory_EEPROM/93AAxxC/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Memory_EEPROM/93AAxxC/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Memory_EEPROM/93AAxxC/image.png)|||

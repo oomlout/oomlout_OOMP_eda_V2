@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKREGULATORSWITCHINGNMA155SC > Regulator_Switching : NMA1505SC](#szkregulatorswitchingnma155sc--regulator_switching--nma1505sc)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Regulator_Switching : NMA1505SC
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-NMA1505SC](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-NMA1505SC)
 - Short Link: [http://oom.lt/SZKREGULATORSWITCHINGNMA155SC](http://oom.lt/SZKREGULATORSWITCHINGNMA155SC)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/NMA1505SC/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/NMA1505SC/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/NMA1505SC/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/NMA1505SC/image.png)|||

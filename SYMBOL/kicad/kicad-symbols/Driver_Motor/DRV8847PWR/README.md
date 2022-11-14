@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDRIVERMOTORDRV8847PWR > Driver_Motor : DRV8847PWR](#szkdrivermotordrv8847pwr--driver_motor--drv8847pwr)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Driver_Motor : DRV8847PWR
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_Motor-DRV8847PWR](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_Motor-DRV8847PWR)
 - Short Link: [http://oom.lt/SZKDRIVERMOTORDRV8847PWR](http://oom.lt/SZKDRIVERMOTORDRV8847PWR)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Driver_Motor/DRV8847PWR/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Driver_Motor/DRV8847PWR/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Driver_Motor/DRV8847PWR/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Driver_Motor/DRV8847PWR/image.png)|||

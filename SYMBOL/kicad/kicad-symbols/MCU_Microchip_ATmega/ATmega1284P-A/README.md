@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKMCUMCHIPATMEGAATMEGA1284PA > MCU_Microchip_ATmega : ATmega1284P-A](#szkmcumchipatmegaatmega1284pa--mcu_microchip_atmega--atmega1284p-a)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: MCU_Microchip_ATmega : ATmega1284P-A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega1284P-A](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega1284P-A)
 - Short Link: [http://oom.lt/SZKMCUMCHIPATMEGAATMEGA1284PA](http://oom.lt/SZKMCUMCHIPATMEGAATMEGA1284PA)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_ATmega/ATmega1284P-A/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_ATmega/ATmega1284P-A/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_ATmega/ATmega1284P-A/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_ATmega/ATmega1284P-A/image.png)|||

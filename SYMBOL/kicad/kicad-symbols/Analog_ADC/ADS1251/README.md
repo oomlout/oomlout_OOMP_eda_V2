@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKANALOGADCADS1251 > Analog_ADC : ADS1251](#szkanalogadcads1251--analog_adc--ads1251)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Analog_ADC : ADS1251
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-ADS1251](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-ADS1251)
 - Short Link: [http://oom.lt/SZKANALOGADCADS1251](http://oom.lt/SZKANALOGADCADS1251)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Analog_ADC/ADS1251/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Analog_ADC/ADS1251/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Analog_ADC/ADS1251/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Analog_ADC/ADS1251/image.png)|||

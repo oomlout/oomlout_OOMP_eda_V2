@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZASTRIP5PINSS > adafruit : STRIP-5PINSS](#fzastrip5pinss--adafruit--strip-5pinss)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: adafruit : STRIP-5PINSS
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-STRIP-5PINSS](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-STRIP-5PINSS)
 - Short Link: [http://oom.lt/FZASTRIP5PINSS](http://oom.lt/FZASTRIP5PINSS)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/STRIP-5PINSS/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/STRIP-5PINSS/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/STRIP-5PINSS/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/STRIP-5PINSS/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/STRIP-5PINSS/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/STRIP-5PINSS/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/STRIP-5PINSS/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/STRIP-5PINSS/kicadPcb3dBack.png)|

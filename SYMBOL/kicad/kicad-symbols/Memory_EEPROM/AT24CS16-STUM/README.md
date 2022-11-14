@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKMEMORYEEPROMAT24CS16STUM > Memory_EEPROM : AT24CS16-STUM](#szkmemoryeepromat24cs16stum--memory_eeprom--at24cs16-stum)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Memory_EEPROM : AT24CS16-STUM
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_EEPROM-AT24CS16-STUM](http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_EEPROM-AT24CS16-STUM)
 - Short Link: [http://oom.lt/SZKMEMORYEEPROMAT24CS16STUM](http://oom.lt/SZKMEMORYEEPROMAT24CS16STUM)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Memory_EEPROM/AT24CS16-STUM/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Memory_EEPROM/AT24CS16-STUM/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Memory_EEPROM/AT24CS16-STUM/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Memory_EEPROM/AT24CS16-STUM/image.png)|||

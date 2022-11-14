@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKPOWERMANAGEMENTLTC4359MS8 > Power_Management : LTC4359-MS8](#szkpowermanagementltc4359ms8--power_management--ltc4359-ms8)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Power_Management : LTC4359-MS8
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-LTC4359-MS8](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-LTC4359-MS8)
 - Short Link: [http://oom.lt/SZKPOWERMANAGEMENTLTC4359MS8](http://oom.lt/SZKPOWERMANAGEMENTLTC4359MS8)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Power_Management/LTC4359-MS8/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Power_Management/LTC4359-MS8/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Power_Management/LTC4359-MS8/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Power_Management/LTC4359-MS8/image.png)|||

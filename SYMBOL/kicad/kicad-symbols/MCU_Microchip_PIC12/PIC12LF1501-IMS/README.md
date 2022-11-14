@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKMCUMCHIPPIC12PIC12LF151IMS > MCU_Microchip_PIC12 : PIC12LF1501-IMS](#szkmcumchippic12pic12lf151ims--mcu_microchip_pic12--pic12lf1501-ims)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: MCU_Microchip_PIC12 : PIC12LF1501-IMS
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC12-PIC12LF1501-IMS](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC12-PIC12LF1501-IMS)
 - Short Link: [http://oom.lt/SZKMCUMCHIPPIC12PIC12LF151IMS](http://oom.lt/SZKMCUMCHIPPIC12PIC12LF151IMS)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC12/PIC12LF1501-IMS/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC12/PIC12LF1501-IMS/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC12/PIC12LF1501-IMS/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC12/PIC12LF1501-IMS/image.png)|||

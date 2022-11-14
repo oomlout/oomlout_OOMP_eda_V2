@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKREGULATORLINEARHT75XX1SOT89 > Regulator_Linear : HT75xx-1-SOT89](#szkregulatorlinearht75xx1sot89--regulator_linear--ht75xx-1-sot89)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Regulator_Linear : HT75xx-1-SOT89
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-HT75xx-1-SOT89](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-HT75xx-1-SOT89)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARHT75XX1SOT89](http://oom.lt/SZKREGULATORLINEARHT75XX1SOT89)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/HT75xx-1-SOT89/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/HT75xx-1-SOT89/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/HT75xx-1-SOT89/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/HT75xx-1-SOT89/image.png)|||

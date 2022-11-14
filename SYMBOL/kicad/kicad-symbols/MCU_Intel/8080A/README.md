@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKMCUINTEL88A > MCU_Intel : 8080A](#szkmcuintel88a--mcu_intel--8080a)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: MCU_Intel : 8080A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Intel-8080A](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Intel-8080A)
 - Short Link: [http://oom.lt/SZKMCUINTEL88A](http://oom.lt/SZKMCUINTEL88A)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Intel/8080A/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Intel/8080A/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Intel/8080A/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Intel/8080A/image.png)|||

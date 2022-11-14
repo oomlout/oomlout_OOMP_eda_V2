@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKFPGAXILINXVIRTEX6XC6VLX13TFF784 > FPGA_Xilinx_Virtex6 : XC6VLX130T-FF784](#szkfpgaxilinxvirtex6xc6vlx13tff784--fpga_xilinx_virtex6--xc6vlx130t-ff784)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: FPGA_Xilinx_Virtex6 : XC6VLX130T-FF784
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-FPGA_Xilinx_Virtex6-XC6VLX130T-FF784](http://oom.lt/SYMBOL-kicad-kicad-symbols-FPGA_Xilinx_Virtex6-XC6VLX130T-FF784)
 - Short Link: [http://oom.lt/SZKFPGAXILINXVIRTEX6XC6VLX13TFF784](http://oom.lt/SZKFPGAXILINXVIRTEX6XC6VLX13TFF784)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/FPGA_Xilinx_Virtex6/XC6VLX130T-FF784/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/FPGA_Xilinx_Virtex6/XC6VLX130T-FF784/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/FPGA_Xilinx_Virtex6/XC6VLX130T-FF784/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/FPGA_Xilinx_Virtex6/XC6VLX130T-FF784/image.png)|||

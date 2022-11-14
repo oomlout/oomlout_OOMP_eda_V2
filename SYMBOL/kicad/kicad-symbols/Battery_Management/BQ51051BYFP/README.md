@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKBATMANAGEMENTBQ5151BYFP > Battery_Management : BQ51051BYFP](#szkbatmanagementbq5151byfp--battery_management--bq51051byfp)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Battery_Management : BQ51051BYFP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Battery_Management-BQ51051BYFP](http://oom.lt/SYMBOL-kicad-kicad-symbols-Battery_Management-BQ51051BYFP)
 - Short Link: [http://oom.lt/SZKBATMANAGEMENTBQ5151BYFP](http://oom.lt/SZKBATMANAGEMENTBQ5151BYFP)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Battery_Management/BQ51051BYFP/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Battery_Management/BQ51051BYFP/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Battery_Management/BQ51051BYFP/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Battery_Management/BQ51051BYFP/image.png)|||

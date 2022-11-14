@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKRRAXIALPOWERL38W64P464 > Resistor_THT : R_Axial_Power_L38.0mm_W6.4mm_P40.64mm](#fzkrraxialpowerl38w64p464--resistor_tht--r_axial_power_l380mm_w64mm_p4064mm)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Resistor_THT : R_Axial_Power_L38.0mm_W6.4mm_P40.64mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Resistor_THT-R_Axial_Power_L38.0mm_W6.4mm_P40.64mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Resistor_THT-R_Axial_Power_L38.0mm_W6.4mm_P40.64mm)
 - Short Link: [http://oom.lt/FZKRRAXIALPOWERL38W64P464](http://oom.lt/FZKRRAXIALPOWERL38W64P464)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Resistor_THT/R_Axial_Power_L38.0mm_W6.4mm_P40.64mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Resistor_THT/R_Axial_Power_L38.0mm_W6.4mm_P40.64mm/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Resistor_THT/R_Axial_Power_L38.0mm_W6.4mm_P40.64mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Resistor_THT/R_Axial_Power_L38.0mm_W6.4mm_P40.64mm/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Resistor_THT/R_Axial_Power_L38.0mm_W6.4mm_P40.64mm/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Resistor_THT/R_Axial_Power_L38.0mm_W6.4mm_P40.64mm/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Resistor_THT/R_Axial_Power_L38.0mm_W6.4mm_P40.64mm/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Resistor_THT/R_Axial_Power_L38.0mm_W6.4mm_P40.64mm/kicadPcb3dBack.png)|

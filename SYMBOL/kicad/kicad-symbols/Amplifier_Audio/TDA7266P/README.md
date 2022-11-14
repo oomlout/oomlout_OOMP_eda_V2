@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKAMPLIFIERAUDIOTDA7266P > Amplifier_Audio : TDA7266P](#szkamplifieraudiotda7266p--amplifier_audio--tda7266p)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Amplifier_Audio : TDA7266P
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Audio-TDA7266P](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Audio-TDA7266P)
 - Short Link: [http://oom.lt/SZKAMPLIFIERAUDIOTDA7266P](http://oom.lt/SZKAMPLIFIERAUDIOTDA7266P)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Amplifier_Audio/TDA7266P/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Amplifier_Audio/TDA7266P/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Amplifier_Audio/TDA7266P/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Amplifier_Audio/TDA7266P/image.png)|||

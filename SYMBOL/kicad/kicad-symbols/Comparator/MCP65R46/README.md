@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKCOMPARATORMCP65R46 > Comparator : MCP65R46](#szkcomparatormcp65r46--comparator--mcp65r46)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Comparator : MCP65R46
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Comparator-MCP65R46](http://oom.lt/SYMBOL-kicad-kicad-symbols-Comparator-MCP65R46)
 - Short Link: [http://oom.lt/SZKCOMPARATORMCP65R46](http://oom.lt/SZKCOMPARATORMCP65R46)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Comparator/MCP65R46/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Comparator/MCP65R46/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Comparator/MCP65R46/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Comparator/MCP65R46/image.png)|||

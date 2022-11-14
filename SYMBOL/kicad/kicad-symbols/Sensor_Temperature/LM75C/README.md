@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKSENTEMPERATURELM75C > Sensor_Temperature : LM75C](#szksentemperaturelm75c--sensor_temperature--lm75c)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Sensor_Temperature : LM75C
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Temperature-LM75C](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Temperature-LM75C)
 - Short Link: [http://oom.lt/SZKSENTEMPERATURELM75C](http://oom.lt/SZKSENTEMPERATURELM75C)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Temperature/LM75C/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Temperature/LM75C/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Temperature/LM75C/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Temperature/LM75C/image.png)|||

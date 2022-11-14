@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDIODEBAR42FILM > Diode : BAR42FILM](#szkdiodebar42film--diode--bar42film)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Diode : BAR42FILM
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-BAR42FILM](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-BAR42FILM)
 - Short Link: [http://oom.lt/SZKDIODEBAR42FILM](http://oom.lt/SZKDIODEBAR42FILM)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Diode/BAR42FILM/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Diode/BAR42FILM/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Diode/BAR42FILM/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Diode/BAR42FILM/image.png)|||

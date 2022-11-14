@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKANALOGDACAD735 > Analog_DAC : AD7305](#szkanalogdacad735--analog_dac--ad7305)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Analog_DAC : AD7305
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_DAC-AD7305](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_DAC-AD7305)
 - Short Link: [http://oom.lt/SZKANALOGDACAD735](http://oom.lt/SZKANALOGDACAD735)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Analog_DAC/AD7305/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Analog_DAC/AD7305/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Analog_DAC/AD7305/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Analog_DAC/AD7305/image.png)|||

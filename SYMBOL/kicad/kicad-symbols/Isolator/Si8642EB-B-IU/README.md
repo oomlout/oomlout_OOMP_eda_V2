@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKISOLATORSI8642EBBIU > Isolator : Si8642EB-B-IU](#szkisolatorsi8642ebbiu--isolator--si8642eb-b-iu)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Isolator : Si8642EB-B-IU
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-Si8642EB-B-IU](http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-Si8642EB-B-IU)
 - Short Link: [http://oom.lt/SZKISOLATORSI8642EBBIU](http://oom.lt/SZKISOLATORSI8642EBBIU)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Isolator/Si8642EB-B-IU/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Isolator/Si8642EB-B-IU/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Isolator/Si8642EB-B-IU/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Isolator/Si8642EB-B-IU/image.png)|||

@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKMCUMCHIPPIC16PIC16F1513ISP > MCU_Microchip_PIC16 : PIC16F1513-ISP](#szkmcumchippic16pic16f1513isp--mcu_microchip_pic16--pic16f1513-isp)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: MCU_Microchip_PIC16 : PIC16F1513-ISP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F1513-ISP](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F1513-ISP)
 - Short Link: [http://oom.lt/SZKMCUMCHIPPIC16PIC16F1513ISP](http://oom.lt/SZKMCUMCHIPPIC16PIC16F1513ISP)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC16/PIC16F1513-ISP/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC16/PIC16F1513-ISP/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC16/PIC16F1513-ISP/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC16/PIC16F1513-ISP/image.png)|||

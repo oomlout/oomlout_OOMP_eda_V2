@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDEVICEQTRIACGA1A2 > Device : Q_TRIAC_GA1A2](#szkdeviceqtriacga1a2--device--q_triac_ga1a2)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Device : Q_TRIAC_GA1A2
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Q_TRIAC_GA1A2](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Q_TRIAC_GA1A2)
 - Short Link: [http://oom.lt/SZKDEVICEQTRIACGA1A2](http://oom.lt/SZKDEVICEQTRIACGA1A2)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/Q_TRIAC_GA1A2/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/Q_TRIAC_GA1A2/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/Q_TRIAC_GA1A2/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/Q_TRIAC_GA1A2/image.png)|||

@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDIODELL41 > Diode : LL41](#szkdiodell41--diode--ll41)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Diode : LL41
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-LL41](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-LL41)
 - Short Link: [http://oom.lt/SZKDIODELL41](http://oom.lt/SZKDIODELL41)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Diode/LL41/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Diode/LL41/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Diode/LL41/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Diode/LL41/image.png)|||

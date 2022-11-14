@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKINTERFACECANLINTJA143TK > Interface_CAN_LIN : TJA1043TK](#szkinterfacecanlintja143tk--interface_can_lin--tja1043tk)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Interface_CAN_LIN : TJA1043TK
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_CAN_LIN-TJA1043TK](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_CAN_LIN-TJA1043TK)
 - Short Link: [http://oom.lt/SZKINTERFACECANLINTJA143TK](http://oom.lt/SZKINTERFACECANLINTJA143TK)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface_CAN_LIN/TJA1043TK/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface_CAN_LIN/TJA1043TK/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface_CAN_LIN/TJA1043TK/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface_CAN_LIN/TJA1043TK/image.png)|||

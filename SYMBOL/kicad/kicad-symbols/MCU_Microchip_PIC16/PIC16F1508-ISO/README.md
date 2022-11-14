@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKMCUMCHIPPIC16PIC16F158ISO > MCU_Microchip_PIC16 : PIC16F1508-ISO](#szkmcumchippic16pic16f158iso--mcu_microchip_pic16--pic16f1508-iso)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: MCU_Microchip_PIC16 : PIC16F1508-ISO
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F1508-ISO](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F1508-ISO)
 - Short Link: [http://oom.lt/SZKMCUMCHIPPIC16PIC16F158ISO](http://oom.lt/SZKMCUMCHIPPIC16PIC16F158ISO)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC16/PIC16F1508-ISO/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC16/PIC16F1508-ISO/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC16/PIC16F1508-ISO/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC16/PIC16F1508-ISO/image.png)|||

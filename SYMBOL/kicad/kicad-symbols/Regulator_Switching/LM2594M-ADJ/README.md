@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKREGULATORSWITCHINGLM2594MADJ > Regulator_Switching : LM2594M-ADJ](#szkregulatorswitchinglm2594madj--regulator_switching--lm2594m-adj)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Regulator_Switching : LM2594M-ADJ
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LM2594M-ADJ](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LM2594M-ADJ)
 - Short Link: [http://oom.lt/SZKREGULATORSWITCHINGLM2594MADJ](http://oom.lt/SZKREGULATORSWITCHINGLM2594MADJ)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/LM2594M-ADJ/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/LM2594M-ADJ/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/LM2594M-ADJ/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/LM2594M-ADJ/image.png)|||

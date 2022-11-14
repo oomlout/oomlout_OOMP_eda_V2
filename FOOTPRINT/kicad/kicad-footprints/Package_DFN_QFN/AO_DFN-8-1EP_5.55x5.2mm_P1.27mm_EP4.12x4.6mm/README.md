@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKDFNAODFN81EP555X52P127EP412X46 > Package_DFN_QFN : AO_DFN-8-1EP_5.55x5.2mm_P1.27mm_EP4.12x4.6mm](#fzkdfnaodfn81ep555x52p127ep412x46--package_dfn_qfn--ao_dfn-8-1ep_555x52mm_p127mm_ep412x46mm)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Package_DFN_QFN : AO_DFN-8-1EP_5.55x5.2mm_P1.27mm_EP4.12x4.6mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-AO_DFN-8-1EP_5.55x5.2mm_P1.27mm_EP4.12x4.6mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-AO_DFN-8-1EP_5.55x5.2mm_P1.27mm_EP4.12x4.6mm)
 - Short Link: [http://oom.lt/FZKDFNAODFN81EP555X52P127EP412X46](http://oom.lt/FZKDFNAODFN81EP555X52P127EP412X46)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/AO_DFN-8-1EP_5.55x5.2mm_P1.27mm_EP4.12x4.6mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/AO_DFN-8-1EP_5.55x5.2mm_P1.27mm_EP4.12x4.6mm/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/AO_DFN-8-1EP_5.55x5.2mm_P1.27mm_EP4.12x4.6mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/AO_DFN-8-1EP_5.55x5.2mm_P1.27mm_EP4.12x4.6mm/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/AO_DFN-8-1EP_5.55x5.2mm_P1.27mm_EP4.12x4.6mm/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/AO_DFN-8-1EP_5.55x5.2mm_P1.27mm_EP4.12x4.6mm/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/AO_DFN-8-1EP_5.55x5.2mm_P1.27mm_EP4.12x4.6mm/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/AO_DFN-8-1EP_5.55x5.2mm_P1.27mm_EP4.12x4.6mm/kicadPcb3dBack.png)|

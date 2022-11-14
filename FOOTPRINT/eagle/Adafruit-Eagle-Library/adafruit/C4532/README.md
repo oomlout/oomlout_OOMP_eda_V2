@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZAC4532 > adafruit : C4532](#fzac4532--adafruit--c4532)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: adafruit : C4532
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-C4532](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-C4532)
 - Short Link: [http://oom.lt/FZAC4532](http://oom.lt/FZAC4532)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/C4532/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/C4532/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/C4532/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/C4532/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/C4532/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/C4532/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/C4532/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/C4532/kicadPcb3dBack.png)|

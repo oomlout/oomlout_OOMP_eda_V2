@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKDIODESMDSMCRM1UNIVERSALHANDSOLDERING > Diode_SMD : D_SMC-RM10_Universal_Handsoldering](#fzkdiodesmdsmcrm1universalhandsoldering--diode_smd--d_smc-rm10_universal_handsoldering)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Diode_SMD : D_SMC-RM10_Universal_Handsoldering
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_SMC-RM10_Universal_Handsoldering](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_SMC-RM10_Universal_Handsoldering)
 - Short Link: [http://oom.lt/FZKDIODESMDSMCRM1UNIVERSALHANDSOLDERING](http://oom.lt/FZKDIODESMDSMCRM1UNIVERSALHANDSOLDERING)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Diode_SMD/D_SMC-RM10_Universal_Handsoldering/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Diode_SMD/D_SMC-RM10_Universal_Handsoldering/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Diode_SMD/D_SMC-RM10_Universal_Handsoldering/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Diode_SMD/D_SMC-RM10_Universal_Handsoldering/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Diode_SMD/D_SMC-RM10_Universal_Handsoldering/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Diode_SMD/D_SMC-RM10_Universal_Handsoldering/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Diode_SMD/D_SMC-RM10_Universal_Handsoldering/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Diode_SMD/D_SMC-RM10_Universal_Handsoldering/kicadPcb3dBack.png)|

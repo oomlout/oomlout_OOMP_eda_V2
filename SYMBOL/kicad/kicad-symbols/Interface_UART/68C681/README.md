@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKINTERFACEUART68C681 > Interface_UART : 68C681](#szkinterfaceuart68c681--interface_uart--68c681)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Interface_UART : 68C681
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_UART-68C681](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_UART-68C681)
 - Short Link: [http://oom.lt/SZKINTERFACEUART68C681](http://oom.lt/SZKINTERFACEUART68C681)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface_UART/68C681/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface_UART/68C681/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface_UART/68C681/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface_UART/68C681/image.png)|||

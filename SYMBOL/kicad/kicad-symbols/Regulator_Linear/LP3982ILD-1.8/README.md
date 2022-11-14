@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKREGULATORLINEARLP3982ILD18 > Regulator_Linear : LP3982ILD-1.8](#szkregulatorlinearlp3982ild18--regulator_linear--lp3982ild-18)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Regulator_Linear : LP3982ILD-1.8
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LP3982ILD-1.8](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LP3982ILD-1.8)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARLP3982ILD18](http://oom.lt/SZKREGULATORLINEARLP3982ILD18)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LP3982ILD-1.8/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LP3982ILD-1.8/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LP3982ILD-1.8/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LP3982ILD-1.8/image.png)|||

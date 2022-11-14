@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKVAEL34 > Valve : EL34](#szkvael34--valve--el34)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Valve : EL34
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Valve-EL34](http://oom.lt/SYMBOL-kicad-kicad-symbols-Valve-EL34)
 - Short Link: [http://oom.lt/SZKVAEL34](http://oom.lt/SZKVAEL34)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Valve/EL34/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Valve/EL34/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Valve/EL34/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Valve/EL34/image.png)|||

@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKTRANSISTORFETIRF748M > Transistor_FET : IRF7480M](#szktransistorfetirf748m--transistor_fet--irf7480m)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Transistor_FET : IRF7480M
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IRF7480M](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IRF7480M)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETIRF748M](http://oom.lt/SZKTRANSISTORFETIRF748M)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/IRF7480M/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/IRF7480M/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/IRF7480M/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/IRF7480M/image.png)|||

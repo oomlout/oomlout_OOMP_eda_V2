@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKRESISTORSMRSHUNTOHMITELVK12 > Resistor_SMD : R_Shunt_Ohmite_LVK12](#fzkresistorsmrshuntohmitelvk12--resistor_smd--r_shunt_ohmite_lvk12)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Resistor_SMD : R_Shunt_Ohmite_LVK12
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_Shunt_Ohmite_LVK12](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_Shunt_Ohmite_LVK12)
 - Short Link: [http://oom.lt/FZKRESISTORSMRSHUNTOHMITELVK12](http://oom.lt/FZKRESISTORSMRSHUNTOHMITELVK12)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_Shunt_Ohmite_LVK12/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_Shunt_Ohmite_LVK12/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_Shunt_Ohmite_LVK12/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_Shunt_Ohmite_LVK12/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_Shunt_Ohmite_LVK12/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_Shunt_Ohmite_LVK12/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_Shunt_Ohmite_LVK12/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_Shunt_Ohmite_LVK12/kicadPcb3dBack.png)|

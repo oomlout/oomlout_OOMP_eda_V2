@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKTRTEZ26D2 > Transformer : TEZ2.6-D-2](#szktrtez26d2--transformer--tez26-d-2)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Transformer : TEZ2.6-D-2
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transformer-TEZ2.6-D-2](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transformer-TEZ2.6-D-2)
 - Short Link: [http://oom.lt/SZKTRTEZ26D2](http://oom.lt/SZKTRTEZ26D2)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transformer/TEZ2.6-D-2/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transformer/TEZ2.6-D-2/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transformer/TEZ2.6-D-2/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transformer/TEZ2.6-D-2/image.png)|||

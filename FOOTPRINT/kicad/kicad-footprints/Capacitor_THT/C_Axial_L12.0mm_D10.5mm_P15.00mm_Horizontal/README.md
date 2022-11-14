@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKCCAXIALL12D15P15HORIZONTAL > Capacitor_THT : C_Axial_L12.0mm_D10.5mm_P15.00mm_Horizontal](#fzkccaxiall12d15p15horizontal--capacitor_tht--c_axial_l120mm_d105mm_p1500mm_horizontal)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Capacitor_THT : C_Axial_L12.0mm_D10.5mm_P15.00mm_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_THT-C_Axial_L12.0mm_D10.5mm_P15.00mm_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_THT-C_Axial_L12.0mm_D10.5mm_P15.00mm_Horizontal)
 - Short Link: [http://oom.lt/FZKCCAXIALL12D15P15HORIZONTAL](http://oom.lt/FZKCCAXIALL12D15P15HORIZONTAL)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_THT/C_Axial_L12.0mm_D10.5mm_P15.00mm_Horizontal/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_THT/C_Axial_L12.0mm_D10.5mm_P15.00mm_Horizontal/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_THT/C_Axial_L12.0mm_D10.5mm_P15.00mm_Horizontal/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_THT/C_Axial_L12.0mm_D10.5mm_P15.00mm_Horizontal/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_THT/C_Axial_L12.0mm_D10.5mm_P15.00mm_Horizontal/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_THT/C_Axial_L12.0mm_D10.5mm_P15.00mm_Horizontal/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_THT/C_Axial_L12.0mm_D10.5mm_P15.00mm_Horizontal/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_THT/C_Axial_L12.0mm_D10.5mm_P15.00mm_Horizontal/kicadPcb3dBack.png)|

@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKLGABOSCHLGA143X25P5 > Package_LGA : Bosch_LGA-14_3x2.5mm_P0.5mm](#fzklgaboschlga143x25p5--package_lga--bosch_lga-14_3x25mm_p05mm)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Package_LGA : Bosch_LGA-14_3x2.5mm_P0.5mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_LGA-Bosch_LGA-14_3x2.5mm_P0.5mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_LGA-Bosch_LGA-14_3x2.5mm_P0.5mm)
 - Short Link: [http://oom.lt/FZKLGABOSCHLGA143X25P5](http://oom.lt/FZKLGABOSCHLGA143X25P5)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_LGA/Bosch_LGA-14_3x2.5mm_P0.5mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_LGA/Bosch_LGA-14_3x2.5mm_P0.5mm/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_LGA/Bosch_LGA-14_3x2.5mm_P0.5mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_LGA/Bosch_LGA-14_3x2.5mm_P0.5mm/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_LGA/Bosch_LGA-14_3x2.5mm_P0.5mm/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_LGA/Bosch_LGA-14_3x2.5mm_P0.5mm/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_LGA/Bosch_LGA-14_3x2.5mm_P0.5mm/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_LGA/Bosch_LGA-14_3x2.5mm_P0.5mm/kicadPcb3dBack.png)|

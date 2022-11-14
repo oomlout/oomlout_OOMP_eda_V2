@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKTRANSISTORBJTBD249C > Transistor_BJT : BD249C](#szktransistorbjtbd249c--transistor_bjt--bd249c)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Transistor_BJT : BD249C
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-BD249C](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-BD249C)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJTBD249C](http://oom.lt/SZKTRANSISTORBJTBD249C)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_BJT/BD249C/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_BJT/BD249C/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_BJT/BD249C/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_BJT/BD249C/image.png)|||

@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKCNWUERTH749915112 > Connector : Wuerth_7499151120](#szkcnwuerth749915112--connector--wuerth_7499151120)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Connector : Wuerth_7499151120
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-Wuerth_7499151120](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-Wuerth_7499151120)
 - Short Link: [http://oom.lt/SZKCNWUERTH749915112](http://oom.lt/SZKCNWUERTH749915112)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/Wuerth_7499151120/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Wuerth_7499151120/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/Wuerth_7499151120/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Wuerth_7499151120/image.png)|||

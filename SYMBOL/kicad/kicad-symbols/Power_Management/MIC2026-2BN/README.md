@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKPOWERMANAGEMENTMIC2262BN > Power_Management : MIC2026-2BN](#szkpowermanagementmic2262bn--power_management--mic2026-2bn)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Power_Management : MIC2026-2BN
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-MIC2026-2BN](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-MIC2026-2BN)
 - Short Link: [http://oom.lt/SZKPOWERMANAGEMENTMIC2262BN](http://oom.lt/SZKPOWERMANAGEMENTMIC2262BN)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Power_Management/MIC2026-2BN/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Power_Management/MIC2026-2BN/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Power_Management/MIC2026-2BN/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Power_Management/MIC2026-2BN/image.png)|||

@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKPOWERMANAGEMENTMIC25871 > Power_Management : MIC2587-1](#szkpowermanagementmic25871--power_management--mic2587-1)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Power_Management : MIC2587-1
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-MIC2587-1](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-MIC2587-1)
 - Short Link: [http://oom.lt/SZKPOWERMANAGEMENTMIC25871](http://oom.lt/SZKPOWERMANAGEMENTMIC25871)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Power_Management/MIC2587-1/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Power_Management/MIC2587-1/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Power_Management/MIC2587-1/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Power_Management/MIC2587-1/image.png)|||

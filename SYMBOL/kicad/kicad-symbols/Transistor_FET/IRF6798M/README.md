@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKTRANSISTORFETIRF6798M > Transistor_FET : IRF6798M](#szktransistorfetirf6798m--transistor_fet--irf6798m)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Transistor_FET : IRF6798M
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IRF6798M](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IRF6798M)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETIRF6798M](http://oom.lt/SZKTRANSISTORFETIRF6798M)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/IRF6798M/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/IRF6798M/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/IRF6798M/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/IRF6798M/image.png)|||

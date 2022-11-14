@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKMCUSTSTM32F7STM32F779IITX > MCU_ST_STM32F7 : STM32F779IITx](#szkmcuststm32f7stm32f779iitx--mcu_st_stm32f7--stm32f779iitx)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: MCU_ST_STM32F7 : STM32F779IITx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F7-STM32F779IITx](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F7-STM32F779IITx)
 - Short Link: [http://oom.lt/SZKMCUSTSTM32F7STM32F779IITX](http://oom.lt/SZKMCUSTSTM32F7STM32F779IITX)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32F7/STM32F779IITx/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32F7/STM32F779IITx/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32F7/STM32F779IITx/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32F7/STM32F779IITx/image.png)|||

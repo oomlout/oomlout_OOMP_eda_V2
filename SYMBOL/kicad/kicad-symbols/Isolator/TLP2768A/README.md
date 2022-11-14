@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKISOLATORTLP2768A > Isolator : TLP2768A](#szkisolatortlp2768a--isolator--tlp2768a)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Isolator : TLP2768A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-TLP2768A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-TLP2768A)
 - Short Link: [http://oom.lt/SZKISOLATORTLP2768A](http://oom.lt/SZKISOLATORTLP2768A)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Isolator/TLP2768A/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Isolator/TLP2768A/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Isolator/TLP2768A/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Isolator/TLP2768A/image.png)|||

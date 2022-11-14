@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKANALOGADCLTC1865LS8 > Analog_ADC : LTC1865L-S8](#szkanalogadcltc1865ls8--analog_adc--ltc1865l-s8)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Analog_ADC : LTC1865L-S8
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-LTC1865L-S8](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-LTC1865L-S8)
 - Short Link: [http://oom.lt/SZKANALOGADCLTC1865LS8](http://oom.lt/SZKANALOGADCLTC1865LS8)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Analog_ADC/LTC1865L-S8/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Analog_ADC/LTC1865L-S8/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Analog_ADC/LTC1865L-S8/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Analog_ADC/LTC1865L-S8/image.png)|||

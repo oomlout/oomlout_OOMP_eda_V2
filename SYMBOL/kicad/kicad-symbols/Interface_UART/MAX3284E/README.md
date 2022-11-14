@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKINTERFACEUARTMAX3284E > Interface_UART : MAX3284E](#szkinterfaceuartmax3284e--interface_uart--max3284e)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Interface_UART : MAX3284E
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_UART-MAX3284E](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_UART-MAX3284E)
 - Short Link: [http://oom.lt/SZKINTERFACEUARTMAX3284E](http://oom.lt/SZKINTERFACEUARTMAX3284E)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface_UART/MAX3284E/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface_UART/MAX3284E/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface_UART/MAX3284E/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface_UART/MAX3284E/image.png)|||

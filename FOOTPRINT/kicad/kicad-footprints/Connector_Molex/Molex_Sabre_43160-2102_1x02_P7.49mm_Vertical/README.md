@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKCNMXMXSABRE43162121X2P749VERTICAL > Connector_Molex : Molex_Sabre_43160-2102_1x02_P7.49mm_Vertical](#fzkcnmxmxsabre43162121x2p749vertical--connector_molex--molex_sabre_43160-2102_1x02_p749mm_vertical)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Connector_Molex : Molex_Sabre_43160-2102_1x02_P7.49mm_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_Sabre_43160-2102_1x02_P7.49mm_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_Sabre_43160-2102_1x02_P7.49mm_Vertical)
 - Short Link: [http://oom.lt/FZKCNMXMXSABRE43162121X2P749VERTICAL](http://oom.lt/FZKCNMXMXSABRE43162121X2P749VERTICAL)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_Sabre_43160-2102_1x02_P7.49mm_Vertical/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_Sabre_43160-2102_1x02_P7.49mm_Vertical/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_Sabre_43160-2102_1x02_P7.49mm_Vertical/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_Sabre_43160-2102_1x02_P7.49mm_Vertical/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_Sabre_43160-2102_1x02_P7.49mm_Vertical/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_Sabre_43160-2102_1x02_P7.49mm_Vertical/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_Sabre_43160-2102_1x02_P7.49mm_Vertical/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_Sabre_43160-2102_1x02_P7.49mm_Vertical/kicadPcb3dBack.png)|

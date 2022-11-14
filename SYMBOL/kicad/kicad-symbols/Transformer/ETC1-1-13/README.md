@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKTRETC1113 > Transformer : ETC1-1-13](#szktretc1113--transformer--etc1-1-13)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Transformer : ETC1-1-13
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transformer-ETC1-1-13](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transformer-ETC1-1-13)
 - Short Link: [http://oom.lt/SZKTRETC1113](http://oom.lt/SZKTRETC1113)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transformer/ETC1-1-13/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transformer/ETC1-1-13/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transformer/ETC1-1-13/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transformer/ETC1-1-13/image.png)|||

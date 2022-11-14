@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDEVICELKRBG > Device : LED_KRBG](#szkdevicelkrbg--device--led_krbg)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Device : LED_KRBG
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-LED_KRBG](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-LED_KRBG)
 - Short Link: [http://oom.lt/SZKDEVICELKRBG](http://oom.lt/SZKDEVICELKRBG)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/LED_KRBG/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/LED_KRBG/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/LED_KRBG/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/LED_KRBG/image.png)|||

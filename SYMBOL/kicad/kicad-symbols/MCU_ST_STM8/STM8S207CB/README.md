@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKMCUSTSTM8STM8S27CB > MCU_ST_STM8 : STM8S207CB](#szkmcuststm8stm8s27cb--mcu_st_stm8--stm8s207cb)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: MCU_ST_STM8 : STM8S207CB
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM8-STM8S207CB](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM8-STM8S207CB)
 - Short Link: [http://oom.lt/SZKMCUSTSTM8STM8S27CB](http://oom.lt/SZKMCUSTSTM8STM8S27CB)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_ST_STM8/STM8S207CB/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_ST_STM8/STM8S207CB/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_ST_STM8/STM8S207CB/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_ST_STM8/STM8S207CB/image.png)|||

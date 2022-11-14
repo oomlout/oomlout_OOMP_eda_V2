@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZASBLM12A883 > adafruit : SEGMENT_BL-M12A883](#fzasblm12a883--adafruit--segment_bl-m12a883)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: adafruit : SEGMENT_BL-M12A883
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-SEGMENT_BL-M12A883](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-SEGMENT_BL-M12A883)
 - Short Link: [http://oom.lt/FZASBLM12A883](http://oom.lt/FZASBLM12A883)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/SEGMENT_BL-M12A883/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/SEGMENT_BL-M12A883/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/SEGMENT_BL-M12A883/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/SEGMENT_BL-M12A883/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/SEGMENT_BL-M12A883/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/SEGMENT_BL-M12A883/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/SEGMENT_BL-M12A883/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/SEGMENT_BL-M12A883/kicadPcb3dBack.png)|

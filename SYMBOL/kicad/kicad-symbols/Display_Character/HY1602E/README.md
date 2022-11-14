@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDICHARACTERHY162E > Display_Character : HY1602E](#szkdicharacterhy162e--display_character--hy1602e)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Display_Character : HY1602E
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-HY1602E](http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-HY1602E)
 - Short Link: [http://oom.lt/SZKDICHARACTERHY162E](http://oom.lt/SZKDICHARACTERHY162E)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Display_Character/HY1602E/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Display_Character/HY1602E/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Display_Character/HY1602E/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Display_Character/HY1602E/image.png)|||

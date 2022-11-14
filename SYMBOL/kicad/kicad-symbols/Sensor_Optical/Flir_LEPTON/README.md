@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKSENOPTICALFLIRLEPTON > Sensor_Optical : Flir_LEPTON](#szksenopticalflirlepton--sensor_optical--flir_lepton)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Sensor_Optical : Flir_LEPTON
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Optical-Flir_LEPTON](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Optical-Flir_LEPTON)
 - Short Link: [http://oom.lt/SZKSENOPTICALFLIRLEPTON](http://oom.lt/SZKSENOPTICALFLIRLEPTON)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Optical/Flir_LEPTON/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Optical/Flir_LEPTON/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Optical/Flir_LEPTON/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Optical/Flir_LEPTON/image.png)|||

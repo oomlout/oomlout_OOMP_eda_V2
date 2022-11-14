@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKMEMORYFLASHIS25WP256DXM > Memory_Flash : IS25WP256D-xM](#szkmemoryflashis25wp256dxm--memory_flash--is25wp256d-xm)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Memory_Flash : IS25WP256D-xM
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_Flash-IS25WP256D-xM](http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_Flash-IS25WP256D-xM)
 - Short Link: [http://oom.lt/SZKMEMORYFLASHIS25WP256DXM](http://oom.lt/SZKMEMORYFLASHIS25WP256DXM)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Memory_Flash/IS25WP256D-xM/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Memory_Flash/IS25WP256D-xM/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Memory_Flash/IS25WP256D-xM/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Memory_Flash/IS25WP256D-xM/image.png)|||

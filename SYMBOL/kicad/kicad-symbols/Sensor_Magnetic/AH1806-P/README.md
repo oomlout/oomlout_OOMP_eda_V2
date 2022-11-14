@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKSENMAGNETICAH186P > Sensor_Magnetic : AH1806-P](#szksenmagneticah186p--sensor_magnetic--ah1806-p)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Sensor_Magnetic : AH1806-P
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Magnetic-AH1806-P](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Magnetic-AH1806-P)
 - Short Link: [http://oom.lt/SZKSENMAGNETICAH186P](http://oom.lt/SZKSENMAGNETICAH186P)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Magnetic/AH1806-P/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Magnetic/AH1806-P/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Magnetic/AH1806-P/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Magnetic/AH1806-P/image.png)|||

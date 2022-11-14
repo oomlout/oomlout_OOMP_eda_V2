@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKMCUSTSTM32F7STM32F767VGTX > MCU_ST_STM32F7 : STM32F767VGTx](#szkmcuststm32f7stm32f767vgtx--mcu_st_stm32f7--stm32f767vgtx)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: MCU_ST_STM32F7 : STM32F767VGTx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F7-STM32F767VGTx](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F7-STM32F767VGTx)
 - Short Link: [http://oom.lt/SZKMCUSTSTM32F7STM32F767VGTX](http://oom.lt/SZKMCUSTSTM32F7STM32F767VGTX)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32F7/STM32F767VGTx/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32F7/STM32F767VGTx/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32F7/STM32F767VGTx/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32F7/STM32F767VGTx/image.png)|||

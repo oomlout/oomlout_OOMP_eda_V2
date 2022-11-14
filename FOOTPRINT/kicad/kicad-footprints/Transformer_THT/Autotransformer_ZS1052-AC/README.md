@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKTRAUTOTRZS152AC > Transformer_THT : Autotransformer_ZS1052-AC](#fzktrautotrzs152ac--transformer_tht--autotransformer_zs1052-ac)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Transformer_THT : Autotransformer_ZS1052-AC
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Transformer_THT-Autotransformer_ZS1052-AC](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Transformer_THT-Autotransformer_ZS1052-AC)
 - Short Link: [http://oom.lt/FZKTRAUTOTRZS152AC](http://oom.lt/FZKTRAUTOTRZS152AC)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Transformer_THT/Autotransformer_ZS1052-AC/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Transformer_THT/Autotransformer_ZS1052-AC/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Transformer_THT/Autotransformer_ZS1052-AC/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Transformer_THT/Autotransformer_ZS1052-AC/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Transformer_THT/Autotransformer_ZS1052-AC/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Transformer_THT/Autotransformer_ZS1052-AC/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Transformer_THT/Autotransformer_ZS1052-AC/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Transformer_THT/Autotransformer_ZS1052-AC/kicadPcb3dBack.png)|

@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKINLTOROIDHORIZONTALD112P17DIAMETER125AMIDONT44 > Inductor_THT : L_Toroid_Horizontal_D11.2mm_P17.00mm_Diameter12-5mm_Amidon-T44](#fzkinltoroidhorizontald112p17diameter125amidont44--inductor_tht--l_toroid_horizontal_d112mm_p1700mm_diameter12-5mm_amidon-t44)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Inductor_THT : L_Toroid_Horizontal_D11.2mm_P17.00mm_Diameter12-5mm_Amidon-T44
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Toroid_Horizontal_D11.2mm_P17.00mm_Diameter12-5mm_Amidon-T44](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Toroid_Horizontal_D11.2mm_P17.00mm_Diameter12-5mm_Amidon-T44)
 - Short Link: [http://oom.lt/FZKINLTOROIDHORIZONTALD112P17DIAMETER125AMIDONT44](http://oom.lt/FZKINLTOROIDHORIZONTALD112P17DIAMETER125AMIDONT44)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Toroid_Horizontal_D11.2mm_P17.00mm_Diameter12-5mm_Amidon-T44/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Toroid_Horizontal_D11.2mm_P17.00mm_Diameter12-5mm_Amidon-T44/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Toroid_Horizontal_D11.2mm_P17.00mm_Diameter12-5mm_Amidon-T44/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Toroid_Horizontal_D11.2mm_P17.00mm_Diameter12-5mm_Amidon-T44/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Toroid_Horizontal_D11.2mm_P17.00mm_Diameter12-5mm_Amidon-T44/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Toroid_Horizontal_D11.2mm_P17.00mm_Diameter12-5mm_Amidon-T44/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Toroid_Horizontal_D11.2mm_P17.00mm_Diameter12-5mm_Amidon-T44/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Toroid_Horizontal_D11.2mm_P17.00mm_Diameter12-5mm_Amidon-T44/kicadPcb3dBack.png)|

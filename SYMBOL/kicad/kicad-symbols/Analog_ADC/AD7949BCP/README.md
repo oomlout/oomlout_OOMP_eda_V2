@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKANALOGADCAD7949BCP > Analog_ADC : AD7949BCP](#szkanalogadcad7949bcp--analog_adc--ad7949bcp)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Analog_ADC : AD7949BCP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-AD7949BCP](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-AD7949BCP)
 - Short Link: [http://oom.lt/SZKANALOGADCAD7949BCP](http://oom.lt/SZKANALOGADCAD7949BCP)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Analog_ADC/AD7949BCP/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Analog_ADC/AD7949BCP/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Analog_ADC/AD7949BCP/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Analog_ADC/AD7949BCP/image.png)|||

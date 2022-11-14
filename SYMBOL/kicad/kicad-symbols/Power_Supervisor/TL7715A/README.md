@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKPOWERSUPERVISORTL7715A > Power_Supervisor : TL7715A](#szkpowersupervisortl7715a--power_supervisor--tl7715a)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Power_Supervisor : TL7715A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Supervisor-TL7715A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Supervisor-TL7715A)
 - Short Link: [http://oom.lt/SZKPOWERSUPERVISORTL7715A](http://oom.lt/SZKPOWERSUPERVISORTL7715A)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Power_Supervisor/TL7715A/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Power_Supervisor/TL7715A/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Power_Supervisor/TL7715A/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Power_Supervisor/TL7715A/image.png)|||

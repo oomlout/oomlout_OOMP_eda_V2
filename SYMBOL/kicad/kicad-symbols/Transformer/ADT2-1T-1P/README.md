@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKTRADT21T1P > Transformer : ADT2-1T-1P](#szktradt21t1p--transformer--adt2-1t-1p)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Transformer : ADT2-1T-1P
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transformer-ADT2-1T-1P](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transformer-ADT2-1T-1P)
 - Short Link: [http://oom.lt/SZKTRADT21T1P](http://oom.lt/SZKTRADT21T1P)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transformer/ADT2-1T-1P/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transformer/ADT2-1T-1P/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transformer/ADT2-1T-1P/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transformer/ADT2-1T-1P/image.png)|||

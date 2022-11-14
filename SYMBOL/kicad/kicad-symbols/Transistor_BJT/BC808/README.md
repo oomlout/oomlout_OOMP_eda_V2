@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKTRANSISTORBJTBC88 > Transistor_BJT : BC808](#szktransistorbjtbc88--transistor_bjt--bc808)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Transistor_BJT : BC808
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-BC808](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-BC808)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJTBC88](http://oom.lt/SZKTRANSISTORBJTBC88)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_BJT/BC808/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_BJT/BC808/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_BJT/BC808/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_BJT/BC808/image.png)|||

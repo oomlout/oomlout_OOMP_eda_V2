@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKMCUTEXASMSP43MSP43G2233IRHB32 > MCU_Texas_MSP430 : MSP430G2233IRHB32](#szkmcutexasmsp43msp43g2233irhb32--mcu_texas_msp430--msp430g2233irhb32)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: MCU_Texas_MSP430 : MSP430G2233IRHB32
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Texas_MSP430-MSP430G2233IRHB32](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Texas_MSP430-MSP430G2233IRHB32)
 - Short Link: [http://oom.lt/SZKMCUTEXASMSP43MSP43G2233IRHB32](http://oom.lt/SZKMCUTEXASMSP43MSP43G2233IRHB32)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Texas_MSP430/MSP430G2233IRHB32/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Texas_MSP430/MSP430G2233IRHB32/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Texas_MSP430/MSP430G2233IRHB32/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Texas_MSP430/MSP430G2233IRHB32/image.png)|||

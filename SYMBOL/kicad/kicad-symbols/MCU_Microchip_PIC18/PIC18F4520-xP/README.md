@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKMCUMCHIPPIC18PIC18F452XP > MCU_Microchip_PIC18 : PIC18F4520-xP](#szkmcumchippic18pic18f452xp--mcu_microchip_pic18--pic18f4520-xp)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: MCU_Microchip_PIC18 : PIC18F4520-xP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC18-PIC18F4520-xP](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC18-PIC18F4520-xP)
 - Short Link: [http://oom.lt/SZKMCUMCHIPPIC18PIC18F452XP](http://oom.lt/SZKMCUMCHIPPIC18PIC18F452XP)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC18/PIC18F4520-xP/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC18/PIC18F4520-xP/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC18/PIC18F4520-xP/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC18/PIC18F4520-xP/image.png)|||

@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKCNJSTJSTJ21S12BJ21DKGGXR2X6P25HORIZONTAL > Connector_JST : JST_J2100_S12B-J21DK-GGXR_2x06_P2.50mm_Horizontal](#fzkcnjstjstj21s12bj21dkggxr2x6p25horizontal--connector_jst--jst_j2100_s12b-j21dk-ggxr_2x06_p250mm_horizontal)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Connector_JST : JST_J2100_S12B-J21DK-GGXR_2x06_P2.50mm_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_J2100_S12B-J21DK-GGXR_2x06_P2.50mm_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_J2100_S12B-J21DK-GGXR_2x06_P2.50mm_Horizontal)
 - Short Link: [http://oom.lt/FZKCNJSTJSTJ21S12BJ21DKGGXR2X6P25HORIZONTAL](http://oom.lt/FZKCNJSTJSTJ21S12BJ21DKGGXR2X6P25HORIZONTAL)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_J2100_S12B-J21DK-GGXR_2x06_P2.50mm_Horizontal/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_J2100_S12B-J21DK-GGXR_2x06_P2.50mm_Horizontal/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_J2100_S12B-J21DK-GGXR_2x06_P2.50mm_Horizontal/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_J2100_S12B-J21DK-GGXR_2x06_P2.50mm_Horizontal/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_J2100_S12B-J21DK-GGXR_2x06_P2.50mm_Horizontal/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_J2100_S12B-J21DK-GGXR_2x06_P2.50mm_Horizontal/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_J2100_S12B-J21DK-GGXR_2x06_P2.50mm_Horizontal/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_J2100_S12B-J21DK-GGXR_2x06_P2.50mm_Horizontal/kicadPcb3dBack.png)|

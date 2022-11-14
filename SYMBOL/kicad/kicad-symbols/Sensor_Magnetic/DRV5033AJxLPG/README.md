@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKSENMAGNETICDRV533AJXLPG > Sensor_Magnetic : DRV5033AJxLPG](#szksenmagneticdrv533ajxlpg--sensor_magnetic--drv5033ajxlpg)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Sensor_Magnetic : DRV5033AJxLPG
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Magnetic-DRV5033AJxLPG](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Magnetic-DRV5033AJxLPG)
 - Short Link: [http://oom.lt/SZKSENMAGNETICDRV533AJXLPG](http://oom.lt/SZKSENMAGNETICDRV533AJXLPG)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Magnetic/DRV5033AJxLPG/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Magnetic/DRV5033AJxLPG/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Magnetic/DRV5033AJxLPG/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Magnetic/DRV5033AJxLPG/image.png)|||

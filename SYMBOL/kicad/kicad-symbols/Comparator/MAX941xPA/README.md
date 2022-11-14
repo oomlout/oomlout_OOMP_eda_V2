@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKCOMPARATORMAX941XPA > Comparator : MAX941xPA](#szkcomparatormax941xpa--comparator--max941xpa)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Comparator : MAX941xPA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Comparator-MAX941xPA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Comparator-MAX941xPA)
 - Short Link: [http://oom.lt/SZKCOMPARATORMAX941XPA](http://oom.lt/SZKCOMPARATORMAX941XPA)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Comparator/MAX941xPA/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Comparator/MAX941xPA/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Comparator/MAX941xPA/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Comparator/MAX941xPA/image.png)|||

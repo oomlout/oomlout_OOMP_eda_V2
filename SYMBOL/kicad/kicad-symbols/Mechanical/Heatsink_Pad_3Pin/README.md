@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKMECHANICALHPAD3PIN > Mechanical : Heatsink_Pad_3Pin](#szkmechanicalhpad3pin--mechanical--heatsink_pad_3pin)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Mechanical : Heatsink_Pad_3Pin
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Mechanical-Heatsink_Pad_3Pin](http://oom.lt/SYMBOL-kicad-kicad-symbols-Mechanical-Heatsink_Pad_3Pin)
 - Short Link: [http://oom.lt/SZKMECHANICALHPAD3PIN](http://oom.lt/SZKMECHANICALHPAD3PIN)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Mechanical/Heatsink_Pad_3Pin/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Mechanical/Heatsink_Pad_3Pin/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Mechanical/Heatsink_Pad_3Pin/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Mechanical/Heatsink_Pad_3Pin/image.png)|||

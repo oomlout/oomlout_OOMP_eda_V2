@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDEVICERPOTENTIOMETERDUAL > Device : R_Potentiometer_Dual](#szkdevicerpotentiometerdual--device--r_potentiometer_dual)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Device : R_Potentiometer_Dual
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-R_Potentiometer_Dual](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-R_Potentiometer_Dual)
 - Short Link: [http://oom.lt/SZKDEVICERPOTENTIOMETERDUAL](http://oom.lt/SZKDEVICERPOTENTIOMETERDUAL)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/R_Potentiometer_Dual/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/R_Potentiometer_Dual/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/R_Potentiometer_Dual/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/R_Potentiometer_Dual/image.png)|||

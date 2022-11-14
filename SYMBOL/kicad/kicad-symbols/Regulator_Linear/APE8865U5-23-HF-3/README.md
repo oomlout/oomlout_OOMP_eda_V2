@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKREGULATORLINEARAPE8865U523HF3 > Regulator_Linear : APE8865U5-23-HF-3](#szkregulatorlinearape8865u523hf3--regulator_linear--ape8865u5-23-hf-3)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Regulator_Linear : APE8865U5-23-HF-3
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-APE8865U5-23-HF-3](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-APE8865U5-23-HF-3)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARAPE8865U523HF3](http://oom.lt/SZKREGULATORLINEARAPE8865U523HF3)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/APE8865U5-23-HF-3/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/APE8865U5-23-HF-3/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/APE8865U5-23-HF-3/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/APE8865U5-23-HF-3/image.png)|||

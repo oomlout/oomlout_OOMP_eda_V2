@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKSENCURRENTHX6P > Sensor_Current : HX06-P](#szksencurrenthx6p--sensor_current--hx06-p)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Sensor_Current : HX06-P
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-HX06-P](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-HX06-P)
 - Short Link: [http://oom.lt/SZKSENCURRENTHX6P](http://oom.lt/SZKSENCURRENTHX6P)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Current/HX06-P/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Current/HX06-P/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Current/HX06-P/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Current/HX06-P/image.png)|||

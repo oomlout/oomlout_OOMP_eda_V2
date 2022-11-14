@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKMCUMCHIPPIC16PIC16F628AISO > MCU_Microchip_PIC16 : PIC16F628A-ISO](#szkmcumchippic16pic16f628aiso--mcu_microchip_pic16--pic16f628a-iso)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: MCU_Microchip_PIC16 : PIC16F628A-ISO
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F628A-ISO](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F628A-ISO)
 - Short Link: [http://oom.lt/SZKMCUMCHIPPIC16PIC16F628AISO](http://oom.lt/SZKMCUMCHIPPIC16PIC16F628AISO)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC16/PIC16F628A-ISO/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC16/PIC16F628A-ISO/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC16/PIC16F628A-ISO/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC16/PIC16F628A-ISO/image.png)|||

@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKSENMAGNETICC5883MA > Sensor_Magnetic : MMC5883MA](#szksenmagneticc5883ma--sensor_magnetic--mmc5883ma)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Sensor_Magnetic : MMC5883MA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Magnetic-MMC5883MA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Magnetic-MMC5883MA)
 - Short Link: [http://oom.lt/SZKSENMAGNETICC5883MA](http://oom.lt/SZKSENMAGNETICC5883MA)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Magnetic/MMC5883MA/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Magnetic/MMC5883MA/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Magnetic/MMC5883MA/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Magnetic/MMC5883MA/image.png)|||

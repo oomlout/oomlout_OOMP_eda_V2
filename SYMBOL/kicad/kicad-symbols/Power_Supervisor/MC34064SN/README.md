@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKPOWERSUPERVISORMC3464SN > Power_Supervisor : MC34064SN](#szkpowersupervisormc3464sn--power_supervisor--mc34064sn)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Power_Supervisor : MC34064SN
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Supervisor-MC34064SN](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Supervisor-MC34064SN)
 - Short Link: [http://oom.lt/SZKPOWERSUPERVISORMC3464SN](http://oom.lt/SZKPOWERSUPERVISORMC3464SN)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Power_Supervisor/MC34064SN/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Power_Supervisor/MC34064SN/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Power_Supervisor/MC34064SN/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Power_Supervisor/MC34064SN/image.png)|||

@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKMOTORMOTORSERVOJR > Motor : Motor_Servo_JR](#szkmotormotorservojr--motor--motor_servo_jr)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Motor : Motor_Servo_JR
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Motor-Motor_Servo_JR](http://oom.lt/SYMBOL-kicad-kicad-symbols-Motor-Motor_Servo_JR)
 - Short Link: [http://oom.lt/SZKMOTORMOTORSERVOJR](http://oom.lt/SZKMOTORMOTORSERVOJR)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Motor/Motor_Servo_JR/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Motor/Motor_Servo_JR/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Motor/Motor_Servo_JR/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Motor/Motor_Servo_JR/image.png)|||

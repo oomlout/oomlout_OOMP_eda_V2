@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKREGULATORSWITCHINGTPS5456BDDA > Regulator_Switching : TPS54560BDDA](#szkregulatorswitchingtps5456bdda--regulator_switching--tps54560bdda)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Regulator_Switching : TPS54560BDDA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS54560BDDA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS54560BDDA)
 - Short Link: [http://oom.lt/SZKREGULATORSWITCHINGTPS5456BDDA](http://oom.lt/SZKREGULATORSWITCHINGTPS5456BDDA)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/TPS54560BDDA/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/TPS54560BDDA/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/TPS54560BDDA/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/TPS54560BDDA/image.png)|||

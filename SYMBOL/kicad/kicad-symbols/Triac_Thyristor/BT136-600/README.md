@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKTRIACTHYRISTORBT1366 > Triac_Thyristor : BT136-600](#szktriacthyristorbt1366--triac_thyristor--bt136-600)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Triac_Thyristor : BT136-600
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Triac_Thyristor-BT136-600](http://oom.lt/SYMBOL-kicad-kicad-symbols-Triac_Thyristor-BT136-600)
 - Short Link: [http://oom.lt/SZKTRIACTHYRISTORBT1366](http://oom.lt/SZKTRIACTHYRISTORBT1366)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Triac_Thyristor/BT136-600/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Triac_Thyristor/BT136-600/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Triac_Thyristor/BT136-600/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Triac_Thyristor/BT136-600/image.png)|||

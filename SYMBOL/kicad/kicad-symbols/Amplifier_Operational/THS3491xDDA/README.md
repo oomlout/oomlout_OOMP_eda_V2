@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKAMPLIFIEROPERATIONALTHS3491XDDA > Amplifier_Operational : THS3491xDDA](#szkamplifieroperationalths3491xdda--amplifier_operational--ths3491xdda)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Amplifier_Operational : THS3491xDDA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-THS3491xDDA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-THS3491xDDA)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALTHS3491XDDA](http://oom.lt/SZKAMPLIFIEROPERATIONALTHS3491XDDA)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/THS3491xDDA/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/THS3491xDDA/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/THS3491xDDA/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/THS3491xDDA/image.png)|||

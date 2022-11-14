@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKCNPULSEJXD61NL > Connector : Pulse_JXD6-0001NL](#szkcnpulsejxd61nl--connector--pulse_jxd6-0001nl)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Connector : Pulse_JXD6-0001NL
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-Pulse_JXD6-0001NL](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-Pulse_JXD6-0001NL)
 - Short Link: [http://oom.lt/SZKCNPULSEJXD61NL](http://oom.lt/SZKCNPULSEJXD61NL)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/Pulse_JXD6-0001NL/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Pulse_JXD6-0001NL/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/Pulse_JXD6-0001NL/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Pulse_JXD6-0001NL/image.png)|||

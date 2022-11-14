@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKDIPDIP48W1651SMSOL > Package_DIP : DIP-48_W16.51mm_SMDSocket_LongPads](#fzkdipdip48w1651smsol--package_dip--dip-48_w1651mm_smdsocket_longpads)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Package_DIP : DIP-48_W16.51mm_SMDSocket_LongPads
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DIP-DIP-48_W16.51mm_SMDSocket_LongPads](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DIP-DIP-48_W16.51mm_SMDSocket_LongPads)
 - Short Link: [http://oom.lt/FZKDIPDIP48W1651SMSOL](http://oom.lt/FZKDIPDIP48W1651SMSOL)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_DIP/DIP-48_W16.51mm_SMDSocket_LongPads/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_DIP/DIP-48_W16.51mm_SMDSocket_LongPads/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_DIP/DIP-48_W16.51mm_SMDSocket_LongPads/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_DIP/DIP-48_W16.51mm_SMDSocket_LongPads/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_DIP/DIP-48_W16.51mm_SMDSocket_LongPads/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_DIP/DIP-48_W16.51mm_SMDSocket_LongPads/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_DIP/DIP-48_W16.51mm_SMDSocket_LongPads/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_DIP/DIP-48_W16.51mm_SMDSocket_LongPads/kicadPcb3dBack.png)|

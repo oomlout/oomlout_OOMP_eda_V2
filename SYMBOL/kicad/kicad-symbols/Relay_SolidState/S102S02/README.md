@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKRELAYSOLIDSTATES12S2 > Relay_SolidState : S102S02](#szkrelaysolidstates12s2--relay_solidstate--s102s02)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Relay_SolidState : S102S02
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay_SolidState-S102S02](http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay_SolidState-S102S02)
 - Short Link: [http://oom.lt/SZKRELAYSOLIDSTATES12S2](http://oom.lt/SZKRELAYSOLIDSTATES12S2)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Relay_SolidState/S102S02/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Relay_SolidState/S102S02/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Relay_SolidState/S102S02/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Relay_SolidState/S102S02/image.png)|||

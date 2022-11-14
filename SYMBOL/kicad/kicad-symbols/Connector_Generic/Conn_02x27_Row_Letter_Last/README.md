@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKCNGENERICCONN2X27ROWLETTERLAST > Connector_Generic : Conn_02x27_Row_Letter_Last](#szkcngenericconn2x27rowletterlast--connector_generic--conn_02x27_row_letter_last)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Connector_Generic : Conn_02x27_Row_Letter_Last
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x27_Row_Letter_Last](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x27_Row_Letter_Last)
 - Short Link: [http://oom.lt/SZKCNGENERICCONN2X27ROWLETTERLAST](http://oom.lt/SZKCNGENERICCONN2X27ROWLETTERLAST)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_02x27_Row_Letter_Last/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_02x27_Row_Letter_Last/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_02x27_Row_Letter_Last/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_02x27_Row_Letter_Last/image.png)|||

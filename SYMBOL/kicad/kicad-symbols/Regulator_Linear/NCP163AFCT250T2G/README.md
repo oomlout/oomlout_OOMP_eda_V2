@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKREGULATORLINEARNCP163AFCT25T2G > Regulator_Linear : NCP163AFCT250T2G](#szkregulatorlinearncp163afct25t2g--regulator_linear--ncp163afct250t2g)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Regulator_Linear : NCP163AFCT250T2G
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-NCP163AFCT250T2G](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-NCP163AFCT250T2G)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARNCP163AFCT25T2G](http://oom.lt/SZKREGULATORLINEARNCP163AFCT25T2G)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/NCP163AFCT250T2G/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/NCP163AFCT250T2G/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/NCP163AFCT250T2G/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/NCP163AFCT250T2G/image.png)|||

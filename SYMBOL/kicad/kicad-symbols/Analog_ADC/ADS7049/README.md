@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKANALOGADCADS749 > Analog_ADC : ADS7049](#szkanalogadcads749--analog_adc--ads7049)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Analog_ADC : ADS7049
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-ADS7049](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-ADS7049)
 - Short Link: [http://oom.lt/SZKANALOGADCADS749](http://oom.lt/SZKANALOGADCADS749)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Analog_ADC/ADS7049/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Analog_ADC/ADS7049/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Analog_ADC/ADS7049/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Analog_ADC/ADS7049/image.png)|||

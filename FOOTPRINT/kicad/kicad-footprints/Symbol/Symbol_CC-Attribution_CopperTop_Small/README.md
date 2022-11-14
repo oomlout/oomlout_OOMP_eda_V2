@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKSZSYCCATTRIBUTIONCTOPSLL > Symbol : Symbol_CC-Attribution_CopperTop_Small](#fzkszsyccattributionctopsll--symbol--symbol_cc-attribution_coppertop_small)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Symbol : Symbol_CC-Attribution_CopperTop_Small
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Symbol-Symbol_CC-Attribution_CopperTop_Small](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Symbol-Symbol_CC-Attribution_CopperTop_Small)
 - Short Link: [http://oom.lt/FZKSZSYCCATTRIBUTIONCTOPSLL](http://oom.lt/FZKSZSYCCATTRIBUTIONCTOPSLL)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Symbol/Symbol_CC-Attribution_CopperTop_Small/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Symbol/Symbol_CC-Attribution_CopperTop_Small/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Symbol/Symbol_CC-Attribution_CopperTop_Small/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Symbol/Symbol_CC-Attribution_CopperTop_Small/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Symbol/Symbol_CC-Attribution_CopperTop_Small/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Symbol/Symbol_CC-Attribution_CopperTop_Small/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Symbol/Symbol_CC-Attribution_CopperTop_Small/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Symbol/Symbol_CC-Attribution_CopperTop_Small/kicadPcb3dBack.png)|

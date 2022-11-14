@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKINTERFACE8255 > Interface : 8255](#szkinterface8255--interface--8255)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Interface : 8255
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-8255](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-8255)
 - Short Link: [http://oom.lt/SZKINTERFACE8255](http://oom.lt/SZKINTERFACE8255)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface/8255/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface/8255/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface/8255/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface/8255/image.png)|||

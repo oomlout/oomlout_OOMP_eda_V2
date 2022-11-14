@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKANALOGSWITCHCD497B > Analog_Switch : CD4097B](#szkanalogswitchcd497b--analog_switch--cd4097b)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Analog_Switch : CD4097B
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_Switch-CD4097B](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_Switch-CD4097B)
 - Short Link: [http://oom.lt/SZKANALOGSWITCHCD497B](http://oom.lt/SZKANALOGSWITCHCD497B)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Analog_Switch/CD4097B/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Analog_Switch/CD4097B/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Analog_Switch/CD4097B/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Analog_Switch/CD4097B/image.png)|||

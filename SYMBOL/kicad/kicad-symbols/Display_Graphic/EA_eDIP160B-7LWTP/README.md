@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDIGRAPHICEAEDIP16B7LWTP > Display_Graphic : EA_eDIP160B-7LWTP](#szkdigraphiceaedip16b7lwtp--display_graphic--ea_edip160b-7lwtp)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Display_Graphic : EA_eDIP160B-7LWTP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Graphic-EA_eDIP160B-7LWTP](http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Graphic-EA_eDIP160B-7LWTP)
 - Short Link: [http://oom.lt/SZKDIGRAPHICEAEDIP16B7LWTP](http://oom.lt/SZKDIGRAPHICEAEDIP16B7LWTP)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Display_Graphic/EA_eDIP160B-7LWTP/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Display_Graphic/EA_eDIP160B-7LWTP/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Display_Graphic/EA_eDIP160B-7LWTP/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Display_Graphic/EA_eDIP160B-7LWTP/image.png)|||

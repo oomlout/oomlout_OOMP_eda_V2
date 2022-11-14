@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKLNEOPIXELTHT > LED : NeoPixel_THT](#szklneopixeltht--led--neopixel_tht)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: LED : NeoPixel_THT
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-LED-NeoPixel_THT](http://oom.lt/SYMBOL-kicad-kicad-symbols-LED-NeoPixel_THT)
 - Short Link: [http://oom.lt/SZKLNEOPIXELTHT](http://oom.lt/SZKLNEOPIXELTHT)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/LED/NeoPixel_THT/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/LED/NeoPixel_THT/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/LED/NeoPixel_THT/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/LED/NeoPixel_THT/image.png)|||

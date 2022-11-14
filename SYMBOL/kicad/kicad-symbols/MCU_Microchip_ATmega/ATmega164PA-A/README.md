@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKMCUMCHIPATMEGAATMEGA164PAA > MCU_Microchip_ATmega : ATmega164PA-A](#szkmcumchipatmegaatmega164paa--mcu_microchip_atmega--atmega164pa-a)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: MCU_Microchip_ATmega : ATmega164PA-A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega164PA-A](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega164PA-A)
 - Short Link: [http://oom.lt/SZKMCUMCHIPATMEGAATMEGA164PAA](http://oom.lt/SZKMCUMCHIPATMEGAATMEGA164PAA)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_ATmega/ATmega164PA-A/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_ATmega/ATmega164PA-A/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_ATmega/ATmega164PA-A/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_ATmega/ATmega164PA-A/image.png)|||

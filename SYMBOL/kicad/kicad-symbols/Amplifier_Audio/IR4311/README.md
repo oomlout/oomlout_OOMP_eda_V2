@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKAMPLIFIERAUDIOIR4311 > Amplifier_Audio : IR4311](#szkamplifieraudioir4311--amplifier_audio--ir4311)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Amplifier_Audio : IR4311
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Audio-IR4311](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Audio-IR4311)
 - Short Link: [http://oom.lt/SZKAMPLIFIERAUDIOIR4311](http://oom.lt/SZKAMPLIFIERAUDIOIR4311)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Amplifier_Audio/IR4311/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Amplifier_Audio/IR4311/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Amplifier_Audio/IR4311/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Amplifier_Audio/IR4311/image.png)|||

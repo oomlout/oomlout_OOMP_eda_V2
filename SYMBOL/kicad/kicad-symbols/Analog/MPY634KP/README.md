@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKANALOGMPY634KP > Analog : MPY634KP](#szkanalogmpy634kp--analog--mpy634kp)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Analog : MPY634KP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog-MPY634KP](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog-MPY634KP)
 - Short Link: [http://oom.lt/SZKANALOGMPY634KP](http://oom.lt/SZKANALOGMPY634KP)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Analog/MPY634KP/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Analog/MPY634KP/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Analog/MPY634KP/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Analog/MPY634KP/image.png)|||

@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKCNGENERICMOUNTINGPINCONN2X32TOPBOTTOMMOUNTINGPIN > Connector_Generic_MountingPin : Conn_02x32_Top_Bottom_MountingPin](#szkcngenericmountingpinconn2x32topbottommountingpin--connector_generic_mountingpin--conn_02x32_top_bottom_mountingpin)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Connector_Generic_MountingPin : Conn_02x32_Top_Bottom_MountingPin
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector_Generic_MountingPin-Conn_02x32_Top_Bottom_MountingPin](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector_Generic_MountingPin-Conn_02x32_Top_Bottom_MountingPin)
 - Short Link: [http://oom.lt/SZKCNGENERICMOUNTINGPINCONN2X32TOPBOTTOMMOUNTINGPIN](http://oom.lt/SZKCNGENERICMOUNTINGPINCONN2X32TOPBOTTOMMOUNTINGPIN)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector_Generic_MountingPin/Conn_02x32_Top_Bottom_MountingPin/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector_Generic_MountingPin/Conn_02x32_Top_Bottom_MountingPin/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector_Generic_MountingPin/Conn_02x32_Top_Bottom_MountingPin/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector_Generic_MountingPin/Conn_02x32_Top_Bottom_MountingPin/image.png)|||

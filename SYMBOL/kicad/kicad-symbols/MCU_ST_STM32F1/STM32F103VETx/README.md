@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKMCUSTSTM32F1STM32F13VETX > MCU_ST_STM32F1 : STM32F103VETx](#szkmcuststm32f1stm32f13vetx--mcu_st_stm32f1--stm32f103vetx)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: MCU_ST_STM32F1 : STM32F103VETx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F1-STM32F103VETx](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F1-STM32F103VETx)
 - Short Link: [http://oom.lt/SZKMCUSTSTM32F1STM32F13VETX](http://oom.lt/SZKMCUSTSTM32F1STM32F13VETX)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32F1/STM32F103VETx/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32F1/STM32F103VETx/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32F1/STM32F103VETx/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32F1/STM32F103VETx/image.png)|||

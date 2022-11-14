@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKSENTEMPERATUREMAX3182 > Sensor_Temperature : MAX31820](#szksentemperaturemax3182--sensor_temperature--max31820)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Sensor_Temperature : MAX31820
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Temperature-MAX31820](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Temperature-MAX31820)
 - Short Link: [http://oom.lt/SZKSENTEMPERATUREMAX3182](http://oom.lt/SZKSENTEMPERATUREMAX3182)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Temperature/MAX31820/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Temperature/MAX31820/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Temperature/MAX31820/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Temperature/MAX31820/image.png)|||

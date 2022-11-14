@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKTRANSISTORBJTBCP56 > Transistor_BJT : BCP56](#szktransistorbjtbcp56--transistor_bjt--bcp56)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Transistor_BJT : BCP56
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-BCP56](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-BCP56)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJTBCP56](http://oom.lt/SZKTRANSISTORBJTBCP56)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_BJT/BCP56/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_BJT/BCP56/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_BJT/BCP56/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_BJT/BCP56/image.png)|||

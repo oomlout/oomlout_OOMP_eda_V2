@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKSENMOTIONINVENSENSEQFN244X4P5NOMASK > Sensor_Motion : InvenSense_QFN-24_4x4mm_P0.5mm_NoMask](#fzksenmotioninvensenseqfn244x4p5nomask--sensor_motion--invensense_qfn-24_4x4mm_p05mm_nomask)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Sensor_Motion : InvenSense_QFN-24_4x4mm_P0.5mm_NoMask
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Sensor_Motion-InvenSense_QFN-24_4x4mm_P0.5mm_NoMask](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Sensor_Motion-InvenSense_QFN-24_4x4mm_P0.5mm_NoMask)
 - Short Link: [http://oom.lt/FZKSENMOTIONINVENSENSEQFN244X4P5NOMASK](http://oom.lt/FZKSENMOTIONINVENSENSEQFN244X4P5NOMASK)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Sensor_Motion/InvenSense_QFN-24_4x4mm_P0.5mm_NoMask/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Sensor_Motion/InvenSense_QFN-24_4x4mm_P0.5mm_NoMask/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Sensor_Motion/InvenSense_QFN-24_4x4mm_P0.5mm_NoMask/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Sensor_Motion/InvenSense_QFN-24_4x4mm_P0.5mm_NoMask/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Sensor_Motion/InvenSense_QFN-24_4x4mm_P0.5mm_NoMask/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Sensor_Motion/InvenSense_QFN-24_4x4mm_P0.5mm_NoMask/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Sensor_Motion/InvenSense_QFN-24_4x4mm_P0.5mm_NoMask/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Sensor_Motion/InvenSense_QFN-24_4x4mm_P0.5mm_NoMask/kicadPcb3dBack.png)|

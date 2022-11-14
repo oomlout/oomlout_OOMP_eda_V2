@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKMEMORYEPROM27C1 > Memory_EPROM : 27C010](#szkmemoryeprom27c1--memory_eprom--27c010)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Memory_EPROM : 27C010
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_EPROM-27C010](http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_EPROM-27C010)
 - Short Link: [http://oom.lt/SZKMEMORYEPROM27C1](http://oom.lt/SZKMEMORYEPROM27C1)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Memory_EPROM/27C010/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Memory_EPROM/27C010/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Memory_EPROM/27C010/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Memory_EPROM/27C010/image.png)|||

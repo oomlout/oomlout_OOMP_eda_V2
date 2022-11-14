@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKTRPT6117PEL > Transformer : PT61017PEL](#szktrpt6117pel--transformer--pt61017pel)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Transformer : PT61017PEL
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transformer-PT61017PEL](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transformer-PT61017PEL)
 - Short Link: [http://oom.lt/SZKTRPT6117PEL](http://oom.lt/SZKTRPT6117PEL)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transformer/PT61017PEL/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transformer/PT61017PEL/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transformer/PT61017PEL/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transformer/PT61017PEL/image.png)|||

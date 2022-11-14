@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKCONITX125SH > Converter_DCDC : ITX1205S-H](#szkconitx125sh--converter_dcdc--itx1205s-h)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Converter_DCDC : ITX1205S-H
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-ITX1205S-H](http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-ITX1205S-H)
 - Short Link: [http://oom.lt/SZKCONITX125SH](http://oom.lt/SZKCONITX125SH)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Converter_DCDC/ITX1205S-H/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Converter_DCDC/ITX1205S-H/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Converter_DCDC/ITX1205S-H/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Converter_DCDC/ITX1205S-H/image.png)|||

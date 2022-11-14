@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKAMPLIFIERCURRENTAD8218XRM > Amplifier_Current : AD8218xRM](#szkamplifiercurrentad8218xrm--amplifier_current--ad8218xrm)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Amplifier_Current : AD8218xRM
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Current-AD8218xRM](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Current-AD8218xRM)
 - Short Link: [http://oom.lt/SZKAMPLIFIERCURRENTAD8218XRM](http://oom.lt/SZKAMPLIFIERCURRENTAD8218XRM)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Amplifier_Current/AD8218xRM/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Amplifier_Current/AD8218xRM/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Amplifier_Current/AD8218xRM/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Amplifier_Current/AD8218xRM/image.png)|||

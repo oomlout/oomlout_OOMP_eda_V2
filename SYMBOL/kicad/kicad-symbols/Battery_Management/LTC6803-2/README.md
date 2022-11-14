@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKBATMANAGEMENTLTC6832 > Battery_Management : LTC6803-2](#szkbatmanagementltc6832--battery_management--ltc6803-2)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Battery_Management : LTC6803-2
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Battery_Management-LTC6803-2](http://oom.lt/SYMBOL-kicad-kicad-symbols-Battery_Management-LTC6803-2)
 - Short Link: [http://oom.lt/SZKBATMANAGEMENTLTC6832](http://oom.lt/SZKBATMANAGEMENTLTC6832)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Battery_Management/LTC6803-2/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Battery_Management/LTC6803-2/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Battery_Management/LTC6803-2/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Battery_Management/LTC6803-2/image.png)|||

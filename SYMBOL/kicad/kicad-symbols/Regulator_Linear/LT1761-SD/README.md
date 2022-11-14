@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKREGULATORLINEARLT1761SD > Regulator_Linear : LT1761-SD](#szkregulatorlinearlt1761sd--regulator_linear--lt1761-sd)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Regulator_Linear : LT1761-SD
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LT1761-SD](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LT1761-SD)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARLT1761SD](http://oom.lt/SZKREGULATORLINEARLT1761SD)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LT1761-SD/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LT1761-SD/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LT1761-SD/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LT1761-SD/image.png)|||

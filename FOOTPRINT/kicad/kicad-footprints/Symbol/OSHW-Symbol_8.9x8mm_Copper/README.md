@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKSZOSHWSY89X8C > Symbol : OSHW-Symbol_8.9x8mm_Copper](#fzkszoshwsy89x8c--symbol--oshw-symbol_89x8mm_copper)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Symbol : OSHW-Symbol_8.9x8mm_Copper
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Symbol-OSHW-Symbol_8.9x8mm_Copper](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Symbol-OSHW-Symbol_8.9x8mm_Copper)
 - Short Link: [http://oom.lt/FZKSZOSHWSY89X8C](http://oom.lt/FZKSZOSHWSY89X8C)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Symbol/OSHW-Symbol_8.9x8mm_Copper/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Symbol/OSHW-Symbol_8.9x8mm_Copper/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Symbol/OSHW-Symbol_8.9x8mm_Copper/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Symbol/OSHW-Symbol_8.9x8mm_Copper/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Symbol/OSHW-Symbol_8.9x8mm_Copper/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Symbol/OSHW-Symbol_8.9x8mm_Copper/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Symbol/OSHW-Symbol_8.9x8mm_Copper/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Symbol/OSHW-Symbol_8.9x8mm_Copper/kicadPcb3dBack.png)|

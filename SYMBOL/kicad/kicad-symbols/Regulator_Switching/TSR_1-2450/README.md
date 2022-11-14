@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKREGULATORSWITCHINGTSR1245 > Regulator_Switching : TSR_1-2450](#szkregulatorswitchingtsr1245--regulator_switching--tsr_1-2450)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Regulator_Switching : TSR_1-2450
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TSR_1-2450](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TSR_1-2450)
 - Short Link: [http://oom.lt/SZKREGULATORSWITCHINGTSR1245](http://oom.lt/SZKREGULATORSWITCHINGTSR1245)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/TSR_1-2450/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/TSR_1-2450/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/TSR_1-2450/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/TSR_1-2450/image.png)|||

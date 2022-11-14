@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKPOWERMANAGEMENTAP2161W > Power_Management : AP2161W](#szkpowermanagementap2161w--power_management--ap2161w)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Power_Management : AP2161W
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-AP2161W](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-AP2161W)
 - Short Link: [http://oom.lt/SZKPOWERMANAGEMENTAP2161W](http://oom.lt/SZKPOWERMANAGEMENTAP2161W)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Power_Management/AP2161W/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Power_Management/AP2161W/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Power_Management/AP2161W/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Power_Management/AP2161W/image.png)|||

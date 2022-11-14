@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDEVICENT4 > Device : NetTie_4](#szkdevicent4--device--nettie_4)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Device : NetTie_4
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-NetTie_4](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-NetTie_4)
 - Short Link: [http://oom.lt/SZKDEVICENT4](http://oom.lt/SZKDEVICENT4)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/NetTie_4/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/NetTie_4/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/NetTie_4/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/NetTie_4/image.png)|||

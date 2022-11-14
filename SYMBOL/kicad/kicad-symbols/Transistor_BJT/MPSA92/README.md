@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKTRANSISTORBJTMPSA92 > Transistor_BJT : MPSA92](#szktransistorbjtmpsa92--transistor_bjt--mpsa92)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Transistor_BJT : MPSA92
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-MPSA92](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-MPSA92)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJTMPSA92](http://oom.lt/SZKTRANSISTORBJTMPSA92)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_BJT/MPSA92/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_BJT/MPSA92/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_BJT/MPSA92/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_BJT/MPSA92/image.png)|||

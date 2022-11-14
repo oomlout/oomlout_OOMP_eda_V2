@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKAMPLIFIERCURRENTMAX48S > Amplifier_Current : MAX4080S](#szkamplifiercurrentmax48s--amplifier_current--max4080s)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Amplifier_Current : MAX4080S
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Current-MAX4080S](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Current-MAX4080S)
 - Short Link: [http://oom.lt/SZKAMPLIFIERCURRENTMAX48S](http://oom.lt/SZKAMPLIFIERCURRENTMAX48S)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Amplifier_Current/MAX4080S/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Amplifier_Current/MAX4080S/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Amplifier_Current/MAX4080S/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Amplifier_Current/MAX4080S/image.png)|||

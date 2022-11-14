@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKSENOPTICALLTR33ALS1 > Sensor_Optical : LTR-303ALS-01](#szksenopticalltr33als1--sensor_optical--ltr-303als-01)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Sensor_Optical : LTR-303ALS-01
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Optical-LTR-303ALS-01](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Optical-LTR-303ALS-01)
 - Short Link: [http://oom.lt/SZKSENOPTICALLTR33ALS1](http://oom.lt/SZKSENOPTICALLTR33ALS1)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Optical/LTR-303ALS-01/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Optical/LTR-303ALS-01/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Optical/LTR-303ALS-01/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Optical/LTR-303ALS-01/image.png)|||

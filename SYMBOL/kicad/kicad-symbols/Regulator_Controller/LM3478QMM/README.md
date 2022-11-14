@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKREGULATORCONTROLLERLM3478Q > Regulator_Controller : LM3478QMM](#szkregulatorcontrollerlm3478q--regulator_controller--lm3478qmm)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Regulator_Controller : LM3478QMM
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Controller-LM3478QMM](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Controller-LM3478QMM)
 - Short Link: [http://oom.lt/SZKREGULATORCONTROLLERLM3478Q](http://oom.lt/SZKREGULATORCONTROLLERLM3478Q)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Controller/LM3478QMM/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Controller/LM3478QMM/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Controller/LM3478QMM/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Controller/LM3478QMM/image.png)|||

@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKAMPLIFIERAUDIOIS31AP4991SLS2 > Amplifier_Audio : IS31AP4991-SLS2](#szkamplifieraudiois31ap4991sls2--amplifier_audio--is31ap4991-sls2)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Amplifier_Audio : IS31AP4991-SLS2
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Audio-IS31AP4991-SLS2](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Audio-IS31AP4991-SLS2)
 - Short Link: [http://oom.lt/SZKAMPLIFIERAUDIOIS31AP4991SLS2](http://oom.lt/SZKAMPLIFIERAUDIOIS31AP4991SLS2)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Amplifier_Audio/IS31AP4991-SLS2/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Amplifier_Audio/IS31AP4991-SLS2/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Amplifier_Audio/IS31AP4991-SLS2/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Amplifier_Audio/IS31AP4991-SLS2/image.png)|||

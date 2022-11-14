@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKTRANSISTORFETIGT6R7D1 > Transistor_FET : IGT60R070D1](#szktransistorfetigt6r7d1--transistor_fet--igt60r070d1)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Transistor_FET : IGT60R070D1
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IGT60R070D1](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IGT60R070D1)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETIGT6R7D1](http://oom.lt/SZKTRANSISTORFETIGT6R7D1)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/IGT60R070D1/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/IGT60R070D1/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/IGT60R070D1/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/IGT60R070D1/image.png)|||

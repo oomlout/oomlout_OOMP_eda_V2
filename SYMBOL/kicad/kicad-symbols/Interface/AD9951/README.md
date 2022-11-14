@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKINTERFACEAD9951 > Interface : AD9951](#szkinterfacead9951--interface--ad9951)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Interface : AD9951
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-AD9951](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-AD9951)
 - Short Link: [http://oom.lt/SZKINTERFACEAD9951](http://oom.lt/SZKINTERFACEAD9951)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface/AD9951/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface/AD9951/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface/AD9951/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface/AD9951/image.png)|||

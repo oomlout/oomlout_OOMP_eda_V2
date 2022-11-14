@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZE4XXDIL8 > 40xx : DIL08](#fze4xxdil8--40xx--dil08)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: 40xx : DIL08
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-40xx-DIL08](http://oom.lt/FOOTPRINT-eagle-eagle-default-40xx-DIL08)
 - Short Link: [http://oom.lt/FZE4XXDIL8](http://oom.lt/FZE4XXDIL8)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/40xx/DIL08/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/40xx/DIL08/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/40xx/DIL08/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/40xx/DIL08/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/40xx/DIL08/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/40xx/DIL08/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/40xx/DIL08/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/40xx/DIL08/kicadPcb3dBack.png)|

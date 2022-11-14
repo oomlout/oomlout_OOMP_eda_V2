@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDEVICEDDUALSERIESACK > Device : D_Dual_Series_ACK](#szkdeviceddualseriesack--device--d_dual_series_ack)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Device : D_Dual_Series_ACK
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-D_Dual_Series_ACK](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-D_Dual_Series_ACK)
 - Short Link: [http://oom.lt/SZKDEVICEDDUALSERIESACK](http://oom.lt/SZKDEVICEDDUALSERIESACK)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/D_Dual_Series_ACK/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/D_Dual_Series_ACK/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/D_Dual_Series_ACK/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/D_Dual_Series_ACK/image.png)|||

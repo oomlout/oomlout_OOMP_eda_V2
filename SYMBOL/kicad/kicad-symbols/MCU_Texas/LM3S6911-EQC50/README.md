@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKMCUTEXASLM3S6911EQC5 > MCU_Texas : LM3S6911-EQC50](#szkmcutexaslm3s6911eqc5--mcu_texas--lm3s6911-eqc50)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: MCU_Texas : LM3S6911-EQC50
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Texas-LM3S6911-EQC50](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Texas-LM3S6911-EQC50)
 - Short Link: [http://oom.lt/SZKMCUTEXASLM3S6911EQC5](http://oom.lt/SZKMCUTEXASLM3S6911EQC5)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Texas/LM3S6911-EQC50/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Texas/LM3S6911-EQC50/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Texas/LM3S6911-EQC50/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Texas/LM3S6911-EQC50/image.png)|||

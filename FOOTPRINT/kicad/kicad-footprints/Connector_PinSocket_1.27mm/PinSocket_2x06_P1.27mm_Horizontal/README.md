@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKCNPINSO127PINSO2X6P127HORIZONTAL > Connector_PinSocket_1.27mm : PinSocket_2x06_P1.27mm_Horizontal](#fzkcnpinso127pinso2x6p127horizontal--connector_pinsocket_127mm--pinsocket_2x06_p127mm_horizontal)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Connector_PinSocket_1.27mm : PinSocket_2x06_P1.27mm_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_PinSocket_1.27mm-PinSocket_2x06_P1.27mm_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_PinSocket_1.27mm-PinSocket_2x06_P1.27mm_Horizontal)
 - Short Link: [http://oom.lt/FZKCNPINSO127PINSO2X6P127HORIZONTAL](http://oom.lt/FZKCNPINSO127PINSO2X6P127HORIZONTAL)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_PinSocket_1.27mm/PinSocket_2x06_P1.27mm_Horizontal/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_PinSocket_1.27mm/PinSocket_2x06_P1.27mm_Horizontal/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_PinSocket_1.27mm/PinSocket_2x06_P1.27mm_Horizontal/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_PinSocket_1.27mm/PinSocket_2x06_P1.27mm_Horizontal/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_PinSocket_1.27mm/PinSocket_2x06_P1.27mm_Horizontal/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_PinSocket_1.27mm/PinSocket_2x06_P1.27mm_Horizontal/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_PinSocket_1.27mm/PinSocket_2x06_P1.27mm_Horizontal/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_PinSocket_1.27mm/PinSocket_2x06_P1.27mm_Horizontal/kicadPcb3dBack.png)|

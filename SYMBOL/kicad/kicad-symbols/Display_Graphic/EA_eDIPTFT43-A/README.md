@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDIGRAPHICEAEDIPTFT43A > Display_Graphic : EA_eDIPTFT43-A](#szkdigraphiceaediptft43a--display_graphic--ea_ediptft43-a)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Display_Graphic : EA_eDIPTFT43-A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Graphic-EA_eDIPTFT43-A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Graphic-EA_eDIPTFT43-A)
 - Short Link: [http://oom.lt/SZKDIGRAPHICEAEDIPTFT43A](http://oom.lt/SZKDIGRAPHICEAEDIPTFT43A)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Display_Graphic/EA_eDIPTFT43-A/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Display_Graphic/EA_eDIPTFT43-A/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Display_Graphic/EA_eDIPTFT43-A/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Display_Graphic/EA_eDIPTFT43-A/image.png)|||

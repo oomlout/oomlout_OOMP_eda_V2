@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKREGULATORSWITCHINGST1S14PHR > Regulator_Switching : ST1S14PHR](#szkregulatorswitchingst1s14phr--regulator_switching--st1s14phr)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Regulator_Switching : ST1S14PHR
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-ST1S14PHR](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-ST1S14PHR)
 - Short Link: [http://oom.lt/SZKREGULATORSWITCHINGST1S14PHR](http://oom.lt/SZKREGULATORSWITCHINGST1S14PHR)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/ST1S14PHR/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/ST1S14PHR/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/ST1S14PHR/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/ST1S14PHR/image.png)|||

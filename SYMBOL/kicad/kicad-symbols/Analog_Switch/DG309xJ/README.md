@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKANALOGSWITCHDG39XJ > Analog_Switch : DG309xJ](#szkanalogswitchdg39xj--analog_switch--dg309xj)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Analog_Switch : DG309xJ
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_Switch-DG309xJ](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_Switch-DG309xJ)
 - Short Link: [http://oom.lt/SZKANALOGSWITCHDG39XJ](http://oom.lt/SZKANALOGSWITCHDG39XJ)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Analog_Switch/DG309xJ/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Analog_Switch/DG309xJ/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Analog_Switch/DG309xJ/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Analog_Switch/DG309xJ/image.png)|||

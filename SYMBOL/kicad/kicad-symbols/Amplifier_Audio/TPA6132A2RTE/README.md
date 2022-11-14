@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKAMPLIFIERAUDIOTPA6132A2RTE > Amplifier_Audio : TPA6132A2RTE](#szkamplifieraudiotpa6132a2rte--amplifier_audio--tpa6132a2rte)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Amplifier_Audio : TPA6132A2RTE
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Audio-TPA6132A2RTE](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Audio-TPA6132A2RTE)
 - Short Link: [http://oom.lt/SZKAMPLIFIERAUDIOTPA6132A2RTE](http://oom.lt/SZKAMPLIFIERAUDIOTPA6132A2RTE)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Amplifier_Audio/TPA6132A2RTE/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Amplifier_Audio/TPA6132A2RTE/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Amplifier_Audio/TPA6132A2RTE/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Amplifier_Audio/TPA6132A2RTE/image.png)|||

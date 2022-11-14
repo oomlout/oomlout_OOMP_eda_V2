@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKMCUMCHIPPIC1PIC1F222IP > MCU_Microchip_PIC10 : PIC10F222-IP](#szkmcumchippic1pic1f222ip--mcu_microchip_pic10--pic10f222-ip)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: MCU_Microchip_PIC10 : PIC10F222-IP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC10-PIC10F222-IP](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC10-PIC10F222-IP)
 - Short Link: [http://oom.lt/SZKMCUMCHIPPIC1PIC1F222IP](http://oom.lt/SZKMCUMCHIPPIC1PIC1F222IP)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC10/PIC10F222-IP/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC10/PIC10F222-IP/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC10/PIC10F222-IP/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC10/PIC10F222-IP/image.png)|||

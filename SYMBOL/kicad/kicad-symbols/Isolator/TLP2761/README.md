@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKISOLATORTLP2761 > Isolator : TLP2761](#szkisolatortlp2761--isolator--tlp2761)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Isolator : TLP2761
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-TLP2761](http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-TLP2761)
 - Short Link: [http://oom.lt/SZKISOLATORTLP2761](http://oom.lt/SZKISOLATORTLP2761)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Isolator/TLP2761/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Isolator/TLP2761/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Isolator/TLP2761/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Isolator/TLP2761/image.png)|||

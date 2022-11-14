@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKMCUSTSTM32LSTM32L71V8IX > MCU_ST_STM32L0 : STM32L071V8Ix](#szkmcuststm32lstm32l71v8ix--mcu_st_stm32l0--stm32l071v8ix)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: MCU_ST_STM32L0 : STM32L071V8Ix
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32L0-STM32L071V8Ix](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32L0-STM32L071V8Ix)
 - Short Link: [http://oom.lt/SZKMCUSTSTM32LSTM32L71V8IX](http://oom.lt/SZKMCUSTSTM32LSTM32L71V8IX)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32L0/STM32L071V8Ix/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32L0/STM32L071V8Ix/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32L0/STM32L071V8Ix/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32L0/STM32L071V8Ix/image.png)|||

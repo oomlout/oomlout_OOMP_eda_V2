@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKPOWERMANAGEMENTIPS631SPBF > Power_Management : IPS6031SPBF](#szkpowermanagementips631spbf--power_management--ips6031spbf)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Power_Management : IPS6031SPBF
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-IPS6031SPBF](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-IPS6031SPBF)
 - Short Link: [http://oom.lt/SZKPOWERMANAGEMENTIPS631SPBF](http://oom.lt/SZKPOWERMANAGEMENTIPS631SPBF)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Power_Management/IPS6031SPBF/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Power_Management/IPS6031SPBF/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Power_Management/IPS6031SPBF/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Power_Management/IPS6031SPBF/image.png)|||

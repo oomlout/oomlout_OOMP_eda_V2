@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKREGULATORLINEARLT183ADJ > Regulator_Linear : LT1083-ADJ](#szkregulatorlinearlt183adj--regulator_linear--lt1083-adj)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Regulator_Linear : LT1083-ADJ
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LT1083-ADJ](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LT1083-ADJ)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARLT183ADJ](http://oom.lt/SZKREGULATORLINEARLT183ADJ)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LT1083-ADJ/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LT1083-ADJ/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LT1083-ADJ/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LT1083-ADJ/image.png)|||

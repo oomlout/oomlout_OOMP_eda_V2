@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDSPMCHIPDSPIC33DSPIC33FJ64GP36AIMR > DSP_Microchip_DSPIC33 : DSPIC33FJ64GP306A-IMR](#szkdspmchipdspic33dspic33fj64gp36aimr--dsp_microchip_dspic33--dspic33fj64gp306a-imr)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: DSP_Microchip_DSPIC33 : DSPIC33FJ64GP306A-IMR
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-DSP_Microchip_DSPIC33-DSPIC33FJ64GP306A-IMR](http://oom.lt/SYMBOL-kicad-kicad-symbols-DSP_Microchip_DSPIC33-DSPIC33FJ64GP306A-IMR)
 - Short Link: [http://oom.lt/SZKDSPMCHIPDSPIC33DSPIC33FJ64GP36AIMR](http://oom.lt/SZKDSPMCHIPDSPIC33DSPIC33FJ64GP36AIMR)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/DSP_Microchip_DSPIC33/DSPIC33FJ64GP306A-IMR/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/DSP_Microchip_DSPIC33/DSPIC33FJ64GP306A-IMR/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/DSP_Microchip_DSPIC33/DSPIC33FJ64GP306A-IMR/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/DSP_Microchip_DSPIC33/DSPIC33FJ64GP306A-IMR/image.png)|||

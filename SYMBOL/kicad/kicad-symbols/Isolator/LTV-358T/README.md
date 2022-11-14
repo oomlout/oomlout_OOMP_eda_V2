@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKISOLATORLTV358T > Isolator : LTV-358T](#szkisolatorltv358t--isolator--ltv-358t)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Isolator : LTV-358T
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-LTV-358T](http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-LTV-358T)
 - Short Link: [http://oom.lt/SZKISOLATORLTV358T](http://oom.lt/SZKISOLATORLTV358T)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Isolator/LTV-358T/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Isolator/LTV-358T/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Isolator/LTV-358T/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Isolator/LTV-358T/image.png)|||

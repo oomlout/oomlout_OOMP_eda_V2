@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKAMPLIFIERAUDIOSSM2211CP > Amplifier_Audio : SSM2211CP](#szkamplifieraudiossm2211cp--amplifier_audio--ssm2211cp)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Amplifier_Audio : SSM2211CP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Audio-SSM2211CP](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Audio-SSM2211CP)
 - Short Link: [http://oom.lt/SZKAMPLIFIERAUDIOSSM2211CP](http://oom.lt/SZKAMPLIFIERAUDIOSSM2211CP)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Amplifier_Audio/SSM2211CP/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Amplifier_Audio/SSM2211CP/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Amplifier_Audio/SSM2211CP/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Amplifier_Audio/SSM2211CP/image.png)|||

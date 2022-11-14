@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKPOWERSUPERVISORTL772A > Power_Supervisor : TL7702A](#szkpowersupervisortl772a--power_supervisor--tl7702a)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Power_Supervisor : TL7702A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Supervisor-TL7702A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Supervisor-TL7702A)
 - Short Link: [http://oom.lt/SZKPOWERSUPERVISORTL772A](http://oom.lt/SZKPOWERSUPERVISORTL772A)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Power_Supervisor/TL7702A/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Power_Supervisor/TL7702A/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Power_Supervisor/TL7702A/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Power_Supervisor/TL7702A/image.png)|||

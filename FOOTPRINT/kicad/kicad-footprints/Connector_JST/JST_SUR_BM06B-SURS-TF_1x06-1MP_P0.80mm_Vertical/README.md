@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKCNJSTJSTSURBM6BSURSTF1X61MPP8VERTICAL > Connector_JST : JST_SUR_BM06B-SURS-TF_1x06-1MP_P0.80mm_Vertical](#fzkcnjstjstsurbm6bsurstf1x61mpp8vertical--connector_jst--jst_sur_bm06b-surs-tf_1x06-1mp_p080mm_vertical)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Connector_JST : JST_SUR_BM06B-SURS-TF_1x06-1MP_P0.80mm_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_SUR_BM06B-SURS-TF_1x06-1MP_P0.80mm_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_SUR_BM06B-SURS-TF_1x06-1MP_P0.80mm_Vertical)
 - Short Link: [http://oom.lt/FZKCNJSTJSTSURBM6BSURSTF1X61MPP8VERTICAL](http://oom.lt/FZKCNJSTJSTSURBM6BSURSTF1X61MPP8VERTICAL)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_SUR_BM06B-SURS-TF_1x06-1MP_P0.80mm_Vertical/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_SUR_BM06B-SURS-TF_1x06-1MP_P0.80mm_Vertical/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_SUR_BM06B-SURS-TF_1x06-1MP_P0.80mm_Vertical/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_SUR_BM06B-SURS-TF_1x06-1MP_P0.80mm_Vertical/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_SUR_BM06B-SURS-TF_1x06-1MP_P0.80mm_Vertical/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_SUR_BM06B-SURS-TF_1x06-1MP_P0.80mm_Vertical/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_SUR_BM06B-SURS-TF_1x06-1MP_P0.80mm_Vertical/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_SUR_BM06B-SURS-TF_1x06-1MP_P0.80mm_Vertical/kicadPcb3dBack.png)|

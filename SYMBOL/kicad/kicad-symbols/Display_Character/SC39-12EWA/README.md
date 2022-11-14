@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDICHARACTERSC3912EWA > Display_Character : SC39-12EWA](#szkdicharactersc3912ewa--display_character--sc39-12ewa)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Display_Character : SC39-12EWA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-SC39-12EWA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-SC39-12EWA)
 - Short Link: [http://oom.lt/SZKDICHARACTERSC3912EWA](http://oom.lt/SZKDICHARACTERSC3912EWA)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Display_Character/SC39-12EWA/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Display_Character/SC39-12EWA/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Display_Character/SC39-12EWA/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Display_Character/SC39-12EWA/image.png)|||

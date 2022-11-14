@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKMCUTEXASMSP43MSP43F5335IPZ > MCU_Texas_MSP430 : MSP430F5335IPZ](#szkmcutexasmsp43msp43f5335ipz--mcu_texas_msp430--msp430f5335ipz)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: MCU_Texas_MSP430 : MSP430F5335IPZ
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Texas_MSP430-MSP430F5335IPZ](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Texas_MSP430-MSP430F5335IPZ)
 - Short Link: [http://oom.lt/SZKMCUTEXASMSP43MSP43F5335IPZ](http://oom.lt/SZKMCUTEXASMSP43MSP43F5335IPZ)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Texas_MSP430/MSP430F5335IPZ/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Texas_MSP430/MSP430F5335IPZ/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Texas_MSP430/MSP430F5335IPZ/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Texas_MSP430/MSP430F5335IPZ/image.png)|||

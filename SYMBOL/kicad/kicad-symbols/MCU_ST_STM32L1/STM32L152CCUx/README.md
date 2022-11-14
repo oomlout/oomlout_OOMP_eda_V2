@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKMCUSTSTM32L1STM32L152CCUX > MCU_ST_STM32L1 : STM32L152CCUx](#szkmcuststm32l1stm32l152ccux--mcu_st_stm32l1--stm32l152ccux)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: MCU_ST_STM32L1 : STM32L152CCUx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32L1-STM32L152CCUx](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32L1-STM32L152CCUx)
 - Short Link: [http://oom.lt/SZKMCUSTSTM32L1STM32L152CCUX](http://oom.lt/SZKMCUSTSTM32L1STM32L152CCUX)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32L1/STM32L152CCUx/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32L1/STM32L152CCUx/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32L1/STM32L152CCUx/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32L1/STM32L152CCUx/image.png)|||

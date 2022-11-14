@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKSOSOIC81EP39X49P127EP262X351 > Package_SO : SOIC-8-1EP_3.9x4.9mm_P1.27mm_EP2.62x3.51mm](#fzksosoic81ep39x49p127ep262x351--package_so--soic-8-1ep_39x49mm_p127mm_ep262x351mm)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Package_SO : SOIC-8-1EP_3.9x4.9mm_P1.27mm_EP2.62x3.51mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SO-SOIC-8-1EP_3.9x4.9mm_P1.27mm_EP2.62x3.51mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SO-SOIC-8-1EP_3.9x4.9mm_P1.27mm_EP2.62x3.51mm)
 - Short Link: [http://oom.lt/FZKSOSOIC81EP39X49P127EP262X351](http://oom.lt/FZKSOSOIC81EP39X49P127EP262X351)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/SOIC-8-1EP_3.9x4.9mm_P1.27mm_EP2.62x3.51mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/SOIC-8-1EP_3.9x4.9mm_P1.27mm_EP2.62x3.51mm/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/SOIC-8-1EP_3.9x4.9mm_P1.27mm_EP2.62x3.51mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/SOIC-8-1EP_3.9x4.9mm_P1.27mm_EP2.62x3.51mm/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/SOIC-8-1EP_3.9x4.9mm_P1.27mm_EP2.62x3.51mm/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/SOIC-8-1EP_3.9x4.9mm_P1.27mm_EP2.62x3.51mm/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/SOIC-8-1EP_3.9x4.9mm_P1.27mm_EP2.62x3.51mm/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/SOIC-8-1EP_3.9x4.9mm_P1.27mm_EP2.62x3.51mm/kicadPcb3dBack.png)|

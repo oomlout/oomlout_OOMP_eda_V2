@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKREGULATORLINEARTPS79318EP > Regulator_Linear : TPS79318-EP](#szkregulatorlineartps79318ep--regulator_linear--tps79318-ep)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Regulator_Linear : TPS79318-EP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-TPS79318-EP](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-TPS79318-EP)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARTPS79318EP](http://oom.lt/SZKREGULATORLINEARTPS79318EP)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/TPS79318-EP/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/TPS79318-EP/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/TPS79318-EP/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/TPS79318-EP/image.png)|||

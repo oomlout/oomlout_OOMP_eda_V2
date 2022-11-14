@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDEVICELGBRA > Device : LED_GBRA](#szkdevicelgbra--device--led_gbra)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Device : LED_GBRA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-LED_GBRA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-LED_GBRA)
 - Short Link: [http://oom.lt/SZKDEVICELGBRA](http://oom.lt/SZKDEVICELGBRA)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/LED_GBRA/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/LED_GBRA/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/LED_GBRA/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/LED_GBRA/image.png)|||

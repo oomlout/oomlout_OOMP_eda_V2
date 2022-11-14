@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKREGULATORLINEARAP2127K28 > Regulator_Linear : AP2127K-2.8](#szkregulatorlinearap2127k28--regulator_linear--ap2127k-28)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Regulator_Linear : AP2127K-2.8
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-AP2127K-2.8](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-AP2127K-2.8)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARAP2127K28](http://oom.lt/SZKREGULATORLINEARAP2127K28)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/AP2127K-2.8/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/AP2127K-2.8/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/AP2127K-2.8/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/AP2127K-2.8/image.png)|||

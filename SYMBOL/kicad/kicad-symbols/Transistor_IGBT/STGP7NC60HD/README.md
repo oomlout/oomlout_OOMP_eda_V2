@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKTRANSISTORIGBTSTGP7NC6HD > Transistor_IGBT : STGP7NC60HD](#szktransistorigbtstgp7nc6hd--transistor_igbt--stgp7nc60hd)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Transistor_IGBT : STGP7NC60HD
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_IGBT-STGP7NC60HD](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_IGBT-STGP7NC60HD)
 - Short Link: [http://oom.lt/SZKTRANSISTORIGBTSTGP7NC6HD](http://oom.lt/SZKTRANSISTORIGBTSTGP7NC6HD)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_IGBT/STGP7NC60HD/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_IGBT/STGP7NC60HD/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_IGBT/STGP7NC60HD/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_IGBT/STGP7NC60HD/image.png)|||

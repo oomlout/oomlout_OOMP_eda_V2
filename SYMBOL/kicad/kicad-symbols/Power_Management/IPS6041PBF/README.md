@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKPOWERMANAGEMENTIPS641PBF > Power_Management : IPS6041PBF](#szkpowermanagementips641pbf--power_management--ips6041pbf)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Power_Management : IPS6041PBF
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-IPS6041PBF](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-IPS6041PBF)
 - Short Link: [http://oom.lt/SZKPOWERMANAGEMENTIPS641PBF](http://oom.lt/SZKPOWERMANAGEMENTIPS641PBF)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Power_Management/IPS6041PBF/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Power_Management/IPS6041PBF/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Power_Management/IPS6041PBF/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Power_Management/IPS6041PBF/image.png)|||

@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDEVICESOLARCELL > Device : Solar_Cell](#szkdevicesolarcell--device--solar_cell)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Device : Solar_Cell
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Solar_Cell](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Solar_Cell)
 - Short Link: [http://oom.lt/SZKDEVICESOLARCELL](http://oom.lt/SZKDEVICESOLARCELL)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/Solar_Cell/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/Solar_Cell/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/Solar_Cell/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/Solar_Cell/image.png)|||

@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKCONITX483SA > Converter_DCDC : ITX4803SA](#szkconitx483sa--converter_dcdc--itx4803sa)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Converter_DCDC : ITX4803SA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-ITX4803SA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-ITX4803SA)
 - Short Link: [http://oom.lt/SZKCONITX483SA](http://oom.lt/SZKCONITX483SA)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Converter_DCDC/ITX4803SA/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Converter_DCDC/ITX4803SA/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Converter_DCDC/ITX4803SA/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Converter_DCDC/ITX4803SA/image.png)|||

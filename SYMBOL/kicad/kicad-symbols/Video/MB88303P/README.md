@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKVIDEOMB8833P > Video : MB88303P](#szkvideomb8833p--video--mb88303p)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Video : MB88303P
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Video-MB88303P](http://oom.lt/SYMBOL-kicad-kicad-symbols-Video-MB88303P)
 - Short Link: [http://oom.lt/SZKVIDEOMB8833P](http://oom.lt/SZKVIDEOMB8833P)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Video/MB88303P/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Video/MB88303P/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Video/MB88303P/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Video/MB88303P/image.png)|||

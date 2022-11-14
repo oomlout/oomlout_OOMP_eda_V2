@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKMCUMCHIPPIC18PIC18F2331ISO > MCU_Microchip_PIC18 : PIC18F2331-ISO](#szkmcumchippic18pic18f2331iso--mcu_microchip_pic18--pic18f2331-iso)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: MCU_Microchip_PIC18 : PIC18F2331-ISO
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC18-PIC18F2331-ISO](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC18-PIC18F2331-ISO)
 - Short Link: [http://oom.lt/SZKMCUMCHIPPIC18PIC18F2331ISO](http://oom.lt/SZKMCUMCHIPPIC18PIC18F2331ISO)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC18/PIC18F2331-ISO/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC18/PIC18F2331-ISO/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC18/PIC18F2331-ISO/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC18/PIC18F2331-ISO/image.png)|||

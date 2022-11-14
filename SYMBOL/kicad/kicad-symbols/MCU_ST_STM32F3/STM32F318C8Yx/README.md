@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKMCUSTSTM32F3STM32F318C8YX > MCU_ST_STM32F3 : STM32F318C8Yx](#szkmcuststm32f3stm32f318c8yx--mcu_st_stm32f3--stm32f318c8yx)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: MCU_ST_STM32F3 : STM32F318C8Yx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F3-STM32F318C8Yx](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F3-STM32F318C8Yx)
 - Short Link: [http://oom.lt/SZKMCUSTSTM32F3STM32F318C8YX](http://oom.lt/SZKMCUSTSTM32F3STM32F318C8YX)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32F3/STM32F318C8Yx/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32F3/STM32F318C8Yx/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32F3/STM32F318C8Yx/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32F3/STM32F318C8Yx/image.png)|||

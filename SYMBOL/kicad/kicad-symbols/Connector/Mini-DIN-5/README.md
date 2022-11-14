@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKCNMDIN5 > Connector : Mini-DIN-5](#szkcnmdin5--connector--mini-din-5)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Connector : Mini-DIN-5
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-Mini-DIN-5](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-Mini-DIN-5)
 - Short Link: [http://oom.lt/SZKCNMDIN5](http://oom.lt/SZKCNMDIN5)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/Mini-DIN-5/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Mini-DIN-5/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/Mini-DIN-5/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Mini-DIN-5/image.png)|||

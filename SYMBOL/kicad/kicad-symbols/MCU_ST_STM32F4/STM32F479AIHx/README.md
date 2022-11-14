@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKMCUSTSTM32F4STM32F479AIHX > MCU_ST_STM32F4 : STM32F479AIHx](#szkmcuststm32f4stm32f479aihx--mcu_st_stm32f4--stm32f479aihx)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: MCU_ST_STM32F4 : STM32F479AIHx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F4-STM32F479AIHx](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F4-STM32F479AIHx)
 - Short Link: [http://oom.lt/SZKMCUSTSTM32F4STM32F479AIHX](http://oom.lt/SZKMCUSTSTM32F4STM32F479AIHX)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32F4/STM32F479AIHx/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32F4/STM32F479AIHx/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32F4/STM32F479AIHx/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32F4/STM32F479AIHx/image.png)|||

@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKTRADT16T > Transformer : ADT1-6T](#szktradt16t--transformer--adt1-6t)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Transformer : ADT1-6T
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transformer-ADT1-6T](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transformer-ADT1-6T)
 - Short Link: [http://oom.lt/SZKTRADT16T](http://oom.lt/SZKTRADT16T)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transformer/ADT1-6T/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transformer/ADT1-6T/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transformer/ADT1-6T/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transformer/ADT1-6T/image.png)|||

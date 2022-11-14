@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKTRANSISTORBJTTIP42 > Transistor_BJT : TIP42](#szktransistorbjttip42--transistor_bjt--tip42)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Transistor_BJT : TIP42
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-TIP42](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-TIP42)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJTTIP42](http://oom.lt/SZKTRANSISTORBJTTIP42)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_BJT/TIP42/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_BJT/TIP42/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_BJT/TIP42/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_BJT/TIP42/image.png)|||

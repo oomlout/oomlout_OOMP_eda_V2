@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKPOTENTIOMETERDIGITALAD5282 > Potentiometer_Digital : AD5282](#szkpotentiometerdigitalad5282--potentiometer_digital--ad5282)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Potentiometer_Digital : AD5282
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Potentiometer_Digital-AD5282](http://oom.lt/SYMBOL-kicad-kicad-symbols-Potentiometer_Digital-AD5282)
 - Short Link: [http://oom.lt/SZKPOTENTIOMETERDIGITALAD5282](http://oom.lt/SZKPOTENTIOMETERDIGITALAD5282)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Potentiometer_Digital/AD5282/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Potentiometer_Digital/AD5282/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Potentiometer_Digital/AD5282/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Potentiometer_Digital/AD5282/image.png)|||

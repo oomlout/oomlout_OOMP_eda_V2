@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKMCUMCHIPPIC18PIC18LF442IP > MCU_Microchip_PIC18 : PIC18LF442-IP](#szkmcumchippic18pic18lf442ip--mcu_microchip_pic18--pic18lf442-ip)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: MCU_Microchip_PIC18 : PIC18LF442-IP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC18-PIC18LF442-IP](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC18-PIC18LF442-IP)
 - Short Link: [http://oom.lt/SZKMCUMCHIPPIC18PIC18LF442IP](http://oom.lt/SZKMCUMCHIPPIC18PIC18LF442IP)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC18/PIC18LF442-IP/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC18/PIC18LF442-IP/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC18/PIC18LF442-IP/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC18/PIC18LF442-IP/image.png)|||

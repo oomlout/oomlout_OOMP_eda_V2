@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKMCUTEXASMSP43MSP43F123IDW > MCU_Texas_MSP430 : MSP430F123IDW](#szkmcutexasmsp43msp43f123idw--mcu_texas_msp430--msp430f123idw)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: MCU_Texas_MSP430 : MSP430F123IDW
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Texas_MSP430-MSP430F123IDW](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Texas_MSP430-MSP430F123IDW)
 - Short Link: [http://oom.lt/SZKMCUTEXASMSP43MSP43F123IDW](http://oom.lt/SZKMCUTEXASMSP43MSP43F123IDW)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Texas_MSP430/MSP430F123IDW/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Texas_MSP430/MSP430F123IDW/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Texas_MSP430/MSP430F123IDW/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Texas_MSP430/MSP430F123IDW/image.png)|||

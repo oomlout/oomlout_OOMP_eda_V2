@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKBATMANAGEMENTBQ5151BRHL > Battery_Management : BQ51051BRHL](#szkbatmanagementbq5151brhl--battery_management--bq51051brhl)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Battery_Management : BQ51051BRHL
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Battery_Management-BQ51051BRHL](http://oom.lt/SYMBOL-kicad-kicad-symbols-Battery_Management-BQ51051BRHL)
 - Short Link: [http://oom.lt/SZKBATMANAGEMENTBQ5151BRHL](http://oom.lt/SZKBATMANAGEMENTBQ5151BRHL)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Battery_Management/BQ51051BRHL/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Battery_Management/BQ51051BRHL/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Battery_Management/BQ51051BRHL/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Battery_Management/BQ51051BRHL/image.png)|||

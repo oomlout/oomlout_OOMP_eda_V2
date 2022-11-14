@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKSENCURRENTCKSR15NP > Sensor_Current : CKSR_15-NP](#szksencurrentcksr15np--sensor_current--cksr_15-np)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Sensor_Current : CKSR_15-NP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-CKSR_15-NP](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-CKSR_15-NP)
 - Short Link: [http://oom.lt/SZKSENCURRENTCKSR15NP](http://oom.lt/SZKSENCURRENTCKSR15NP)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Current/CKSR_15-NP/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Current/CKSR_15-NP/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Current/CKSR_15-NP/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Current/CKSR_15-NP/image.png)|||

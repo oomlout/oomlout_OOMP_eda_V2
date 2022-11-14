@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKDIPPOWERINTEGRATIONSPDIP8B > Package_DIP : PowerIntegrations_PDIP-8B](#fzkdippowerintegrationspdip8b--package_dip--powerintegrations_pdip-8b)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Package_DIP : PowerIntegrations_PDIP-8B
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DIP-PowerIntegrations_PDIP-8B](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DIP-PowerIntegrations_PDIP-8B)
 - Short Link: [http://oom.lt/FZKDIPPOWERINTEGRATIONSPDIP8B](http://oom.lt/FZKDIPPOWERINTEGRATIONSPDIP8B)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_DIP/PowerIntegrations_PDIP-8B/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_DIP/PowerIntegrations_PDIP-8B/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_DIP/PowerIntegrations_PDIP-8B/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_DIP/PowerIntegrations_PDIP-8B/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_DIP/PowerIntegrations_PDIP-8B/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_DIP/PowerIntegrations_PDIP-8B/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_DIP/PowerIntegrations_PDIP-8B/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_DIP/PowerIntegrations_PDIP-8B/kicadPcb3dBack.png)|

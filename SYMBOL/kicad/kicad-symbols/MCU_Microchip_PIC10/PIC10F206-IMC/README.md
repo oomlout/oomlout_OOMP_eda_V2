@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKMCUMCHIPPIC1PIC1F26IMC > MCU_Microchip_PIC10 : PIC10F206-IMC](#szkmcumchippic1pic1f26imc--mcu_microchip_pic10--pic10f206-imc)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: MCU_Microchip_PIC10 : PIC10F206-IMC
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC10-PIC10F206-IMC](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC10-PIC10F206-IMC)
 - Short Link: [http://oom.lt/SZKMCUMCHIPPIC1PIC1F26IMC](http://oom.lt/SZKMCUMCHIPPIC1PIC1F26IMC)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC10/PIC10F206-IMC/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC10/PIC10F206-IMC/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC10/PIC10F206-IMC/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC10/PIC10F206-IMC/image.png)|||

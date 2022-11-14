@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKMCUSTSTM32F2STM32F215RETX > MCU_ST_STM32F2 : STM32F215RETx](#szkmcuststm32f2stm32f215retx--mcu_st_stm32f2--stm32f215retx)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: MCU_ST_STM32F2 : STM32F215RETx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F2-STM32F215RETx](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F2-STM32F215RETx)
 - Short Link: [http://oom.lt/SZKMCUSTSTM32F2STM32F215RETX](http://oom.lt/SZKMCUSTSTM32F2STM32F215RETX)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32F2/STM32F215RETx/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32F2/STM32F215RETx/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32F2/STM32F215RETx/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32F2/STM32F215RETx/image.png)|||

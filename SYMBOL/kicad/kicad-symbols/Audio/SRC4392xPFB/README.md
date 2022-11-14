@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKAUDIOSRC4392XPFB > Audio : SRC4392xPFB](#szkaudiosrc4392xpfb--audio--src4392xpfb)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Audio : SRC4392xPFB
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Audio-SRC4392xPFB](http://oom.lt/SYMBOL-kicad-kicad-symbols-Audio-SRC4392xPFB)
 - Short Link: [http://oom.lt/SZKAUDIOSRC4392XPFB](http://oom.lt/SZKAUDIOSRC4392XPFB)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Audio/SRC4392xPFB/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Audio/SRC4392xPFB/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Audio/SRC4392xPFB/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Audio/SRC4392xPFB/image.png)|||

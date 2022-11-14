@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDEVICEPOLYFUSLL > Device : Polyfuse_Small](#szkdevicepolyfusll--device--polyfuse_small)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Device : Polyfuse_Small
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Polyfuse_Small](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Polyfuse_Small)
 - Short Link: [http://oom.lt/SZKDEVICEPOLYFUSLL](http://oom.lt/SZKDEVICEPOLYFUSLL)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/Polyfuse_Small/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/Polyfuse_Small/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/Polyfuse_Small/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/Polyfuse_Small/image.png)|||

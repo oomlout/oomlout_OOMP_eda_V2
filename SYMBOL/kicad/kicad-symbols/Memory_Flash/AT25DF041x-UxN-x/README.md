@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKMEMORYFLASHAT25DF41XUXNX > Memory_Flash : AT25DF041x-UxN-x](#szkmemoryflashat25df41xuxnx--memory_flash--at25df041x-uxn-x)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Memory_Flash : AT25DF041x-UxN-x
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_Flash-AT25DF041x-UxN-x](http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_Flash-AT25DF041x-UxN-x)
 - Short Link: [http://oom.lt/SZKMEMORYFLASHAT25DF41XUXNX](http://oom.lt/SZKMEMORYFLASHAT25DF41XUXNX)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Memory_Flash/AT25DF041x-UxN-x/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Memory_Flash/AT25DF041x-UxN-x/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Memory_Flash/AT25DF041x-UxN-x/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Memory_Flash/AT25DF041x-UxN-x/image.png)|||

@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKAMPLIFIERCURRENTINA138 > Amplifier_Current : INA138](#szkamplifiercurrentina138--amplifier_current--ina138)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Amplifier_Current : INA138
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Current-INA138](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Current-INA138)
 - Short Link: [http://oom.lt/SZKAMPLIFIERCURRENTINA138](http://oom.lt/SZKAMPLIFIERCURRENTINA138)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Amplifier_Current/INA138/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Amplifier_Current/INA138/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Amplifier_Current/INA138/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Amplifier_Current/INA138/image.png)|||

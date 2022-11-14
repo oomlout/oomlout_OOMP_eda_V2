@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKREGULATORLINEARMC78L5SOT89 > Regulator_Linear : MC78L05_SOT89](#szkregulatorlinearmc78l5sot89--regulator_linear--mc78l05_sot89)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Regulator_Linear : MC78L05_SOT89
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-MC78L05_SOT89](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-MC78L05_SOT89)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARMC78L5SOT89](http://oom.lt/SZKREGULATORLINEARMC78L5SOT89)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/MC78L05_SOT89/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/MC78L05_SOT89/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/MC78L05_SOT89/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/MC78L05_SOT89/image.png)|||

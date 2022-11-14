@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKTRANSISTORFETBSP89 > Transistor_FET : BSP89](#szktransistorfetbsp89--transistor_fet--bsp89)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Transistor_FET : BSP89
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-BSP89](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-BSP89)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETBSP89](http://oom.lt/SZKTRANSISTORFETBSP89)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/BSP89/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/BSP89/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/BSP89/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/BSP89/image.png)|||

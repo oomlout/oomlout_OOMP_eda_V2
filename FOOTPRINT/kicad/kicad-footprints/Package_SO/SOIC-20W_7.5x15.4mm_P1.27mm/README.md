@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKSOSOIC2W75X154P127 > Package_SO : SOIC-20W_7.5x15.4mm_P1.27mm](#fzksosoic2w75x154p127--package_so--soic-20w_75x154mm_p127mm)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Package_SO : SOIC-20W_7.5x15.4mm_P1.27mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SO-SOIC-20W_7.5x15.4mm_P1.27mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SO-SOIC-20W_7.5x15.4mm_P1.27mm)
 - Short Link: [http://oom.lt/FZKSOSOIC2W75X154P127](http://oom.lt/FZKSOSOIC2W75X154P127)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/SOIC-20W_7.5x15.4mm_P1.27mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/SOIC-20W_7.5x15.4mm_P1.27mm/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/SOIC-20W_7.5x15.4mm_P1.27mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/SOIC-20W_7.5x15.4mm_P1.27mm/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/SOIC-20W_7.5x15.4mm_P1.27mm/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/SOIC-20W_7.5x15.4mm_P1.27mm/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/SOIC-20W_7.5x15.4mm_P1.27mm/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/SOIC-20W_7.5x15.4mm_P1.27mm/kicadPcb3dBack.png)|

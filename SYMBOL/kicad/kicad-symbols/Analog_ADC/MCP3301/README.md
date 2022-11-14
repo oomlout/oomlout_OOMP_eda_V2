@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKANALOGADCMCP331 > Analog_ADC : MCP3301](#szkanalogadcmcp331--analog_adc--mcp3301)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Analog_ADC : MCP3301
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-MCP3301](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-MCP3301)
 - Short Link: [http://oom.lt/SZKANALOGADCMCP331](http://oom.lt/SZKANALOGADCMCP331)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Analog_ADC/MCP3301/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Analog_ADC/MCP3301/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Analog_ADC/MCP3301/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Analog_ADC/MCP3301/image.png)|||

@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDRIVERFETIR211 > Driver_FET : IR2011](#szkdriverfetir211--driver_fet--ir2011)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Driver_FET : IR2011
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-IR2011](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-IR2011)
 - Short Link: [http://oom.lt/SZKDRIVERFETIR211](http://oom.lt/SZKDRIVERFETIR211)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Driver_FET/IR2011/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Driver_FET/IR2011/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Driver_FET/IR2011/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Driver_FET/IR2011/image.png)|||

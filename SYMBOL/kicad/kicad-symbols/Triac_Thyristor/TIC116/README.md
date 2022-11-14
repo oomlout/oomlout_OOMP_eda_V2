@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKTRIACTHYRISTORTIC116 > Triac_Thyristor : TIC116](#szktriacthyristortic116--triac_thyristor--tic116)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Triac_Thyristor : TIC116
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Triac_Thyristor-TIC116](http://oom.lt/SYMBOL-kicad-kicad-symbols-Triac_Thyristor-TIC116)
 - Short Link: [http://oom.lt/SZKTRIACTHYRISTORTIC116](http://oom.lt/SZKTRIACTHYRISTORTIC116)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Triac_Thyristor/TIC116/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Triac_Thyristor/TIC116/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Triac_Thyristor/TIC116/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Triac_Thyristor/TIC116/image.png)|||

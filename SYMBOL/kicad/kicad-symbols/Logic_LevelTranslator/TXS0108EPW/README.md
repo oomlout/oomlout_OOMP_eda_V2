@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKLOGICLEVELTRANSLATORTXS18EPW > Logic_LevelTranslator : TXS0108EPW](#szklogicleveltranslatortxs18epw--logic_leveltranslator--txs0108epw)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Logic_LevelTranslator : TXS0108EPW
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Logic_LevelTranslator-TXS0108EPW](http://oom.lt/SYMBOL-kicad-kicad-symbols-Logic_LevelTranslator-TXS0108EPW)
 - Short Link: [http://oom.lt/SZKLOGICLEVELTRANSLATORTXS18EPW](http://oom.lt/SZKLOGICLEVELTRANSLATORTXS18EPW)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Logic_LevelTranslator/TXS0108EPW/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Logic_LevelTranslator/TXS0108EPW/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Logic_LevelTranslator/TXS0108EPW/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Logic_LevelTranslator/TXS0108EPW/image.png)|||

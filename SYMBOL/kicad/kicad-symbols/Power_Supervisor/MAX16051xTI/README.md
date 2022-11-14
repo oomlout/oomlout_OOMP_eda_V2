@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKPOWERSUPERVISORMAX1651XTI > Power_Supervisor : MAX16051xTI](#szkpowersupervisormax1651xti--power_supervisor--max16051xti)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Power_Supervisor : MAX16051xTI
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Supervisor-MAX16051xTI](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Supervisor-MAX16051xTI)
 - Short Link: [http://oom.lt/SZKPOWERSUPERVISORMAX1651XTI](http://oom.lt/SZKPOWERSUPERVISORMAX1651XTI)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Power_Supervisor/MAX16051xTI/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Power_Supervisor/MAX16051xTI/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Power_Supervisor/MAX16051xTI/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Power_Supervisor/MAX16051xTI/image.png)|||

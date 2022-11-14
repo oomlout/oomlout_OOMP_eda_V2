@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKREGULATORLINEARMIC535318YMT > Regulator_Linear : MIC5353-1.8YMT](#szkregulatorlinearmic535318ymt--regulator_linear--mic5353-18ymt)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Regulator_Linear : MIC5353-1.8YMT
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-MIC5353-1.8YMT](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-MIC5353-1.8YMT)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARMIC535318YMT](http://oom.lt/SZKREGULATORLINEARMIC535318YMT)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/MIC5353-1.8YMT/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/MIC5353-1.8YMT/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/MIC5353-1.8YMT/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/MIC5353-1.8YMT/image.png)|||

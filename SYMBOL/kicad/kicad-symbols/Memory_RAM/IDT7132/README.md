@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKMEMORYRAMIDT7132 > Memory_RAM : IDT7132](#szkmemoryramidt7132--memory_ram--idt7132)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Memory_RAM : IDT7132
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_RAM-IDT7132](http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_RAM-IDT7132)
 - Short Link: [http://oom.lt/SZKMEMORYRAMIDT7132](http://oom.lt/SZKMEMORYRAMIDT7132)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Memory_RAM/IDT7132/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Memory_RAM/IDT7132/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Memory_RAM/IDT7132/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Memory_RAM/IDT7132/image.png)|||

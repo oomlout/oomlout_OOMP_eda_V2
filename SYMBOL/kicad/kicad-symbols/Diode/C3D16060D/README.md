@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDIODEC3D166D > Diode : C3D16060D](#szkdiodec3d166d--diode--c3d16060d)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Diode : C3D16060D
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-C3D16060D](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-C3D16060D)
 - Short Link: [http://oom.lt/SZKDIODEC3D166D](http://oom.lt/SZKDIODEC3D166D)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Diode/C3D16060D/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Diode/C3D16060D/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Diode/C3D16060D/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Diode/C3D16060D/image.png)|||

@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKCNFFCFPCHIROSEFH1213S5SH1X131MPP5HORIZONTAL > Connector_FFC-FPC : Hirose_FH12-13S-0.5SH_1x13-1MP_P0.50mm_Horizontal](#fzkcnffcfpchirosefh1213s5sh1x131mpp5horizontal--connector_ffc-fpc--hirose_fh12-13s-05sh_1x13-1mp_p050mm_horizontal)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Connector_FFC-FPC : Hirose_FH12-13S-0.5SH_1x13-1MP_P0.50mm_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_FFC-FPC-Hirose_FH12-13S-0.5SH_1x13-1MP_P0.50mm_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_FFC-FPC-Hirose_FH12-13S-0.5SH_1x13-1MP_P0.50mm_Horizontal)
 - Short Link: [http://oom.lt/FZKCNFFCFPCHIROSEFH1213S5SH1X131MPP5HORIZONTAL](http://oom.lt/FZKCNFFCFPCHIROSEFH1213S5SH1X131MPP5HORIZONTAL)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_FFC-FPC/Hirose_FH12-13S-0.5SH_1x13-1MP_P0.50mm_Horizontal/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_FFC-FPC/Hirose_FH12-13S-0.5SH_1x13-1MP_P0.50mm_Horizontal/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_FFC-FPC/Hirose_FH12-13S-0.5SH_1x13-1MP_P0.50mm_Horizontal/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_FFC-FPC/Hirose_FH12-13S-0.5SH_1x13-1MP_P0.50mm_Horizontal/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_FFC-FPC/Hirose_FH12-13S-0.5SH_1x13-1MP_P0.50mm_Horizontal/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_FFC-FPC/Hirose_FH12-13S-0.5SH_1x13-1MP_P0.50mm_Horizontal/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_FFC-FPC/Hirose_FH12-13S-0.5SH_1x13-1MP_P0.50mm_Horizontal/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_FFC-FPC/Hirose_FH12-13S-0.5SH_1x13-1MP_P0.50mm_Horizontal/kicadPcb3dBack.png)|

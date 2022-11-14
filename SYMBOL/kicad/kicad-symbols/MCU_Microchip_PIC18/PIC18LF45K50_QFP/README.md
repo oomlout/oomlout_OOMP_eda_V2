@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKMCUMCHIPPIC18PIC18LF45K5QFP > MCU_Microchip_PIC18 : PIC18LF45K50_QFP](#szkmcumchippic18pic18lf45k5qfp--mcu_microchip_pic18--pic18lf45k50_qfp)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: MCU_Microchip_PIC18 : PIC18LF45K50_QFP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC18-PIC18LF45K50_QFP](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC18-PIC18LF45K50_QFP)
 - Short Link: [http://oom.lt/SZKMCUMCHIPPIC18PIC18LF45K5QFP](http://oom.lt/SZKMCUMCHIPPIC18PIC18LF45K5QFP)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC18/PIC18LF45K50_QFP/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC18/PIC18LF45K50_QFP/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC18/PIC18LF45K50_QFP/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC18/PIC18LF45K50_QFP/image.png)|||

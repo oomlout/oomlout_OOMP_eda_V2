@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKINTERFACEUARTGD75232N > Interface_UART : GD75232N](#szkinterfaceuartgd75232n--interface_uart--gd75232n)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Interface_UART : GD75232N
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_UART-GD75232N](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_UART-GD75232N)
 - Short Link: [http://oom.lt/SZKINTERFACEUARTGD75232N](http://oom.lt/SZKINTERFACEUARTGD75232N)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface_UART/GD75232N/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface_UART/GD75232N/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface_UART/GD75232N/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface_UART/GD75232N/image.png)|||

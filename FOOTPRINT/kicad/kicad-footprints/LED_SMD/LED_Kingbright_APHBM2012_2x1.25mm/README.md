@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKLSMLKINGBRIGHTAPHBM2122X125 > LED_SMD : LED_Kingbright_APHBM2012_2x1.25mm](#fzklsmlkingbrightaphbm2122x125--led_smd--led_kingbright_aphbm2012_2x125mm)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: LED_SMD : LED_Kingbright_APHBM2012_2x1.25mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_Kingbright_APHBM2012_2x1.25mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_Kingbright_APHBM2012_2x1.25mm)
 - Short Link: [http://oom.lt/FZKLSMLKINGBRIGHTAPHBM2122X125](http://oom.lt/FZKLSMLKINGBRIGHTAPHBM2122X125)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_Kingbright_APHBM2012_2x1.25mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_Kingbright_APHBM2012_2x1.25mm/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_Kingbright_APHBM2012_2x1.25mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_Kingbright_APHBM2012_2x1.25mm/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_Kingbright_APHBM2012_2x1.25mm/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_Kingbright_APHBM2012_2x1.25mm/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_Kingbright_APHBM2012_2x1.25mm/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_Kingbright_APHBM2012_2x1.25mm/kicadPcb3dBack.png)|

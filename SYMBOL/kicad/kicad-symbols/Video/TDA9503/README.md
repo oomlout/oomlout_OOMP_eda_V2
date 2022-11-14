@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKVIDEOTDA953 > Video : TDA9503](#szkvideotda953--video--tda9503)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Video : TDA9503
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Video-TDA9503](http://oom.lt/SYMBOL-kicad-kicad-symbols-Video-TDA9503)
 - Short Link: [http://oom.lt/SZKVIDEOTDA953](http://oom.lt/SZKVIDEOTDA953)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Video/TDA9503/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Video/TDA9503/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Video/TDA9503/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Video/TDA9503/image.png)|||

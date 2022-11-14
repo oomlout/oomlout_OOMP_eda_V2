@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDIODEUS2JA > Diode : US2JA](#szkdiodeus2ja--diode--us2ja)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Diode : US2JA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-US2JA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-US2JA)
 - Short Link: [http://oom.lt/SZKDIODEUS2JA](http://oom.lt/SZKDIODEUS2JA)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Diode/US2JA/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Diode/US2JA/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Diode/US2JA/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Diode/US2JA/image.png)|||

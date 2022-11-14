@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKDI7S7SLHDSM531HDSM533SM > Display_7Segment : 7SEGMENT-LED__HDSM531_HDSM533_SMD](#fzkdi7s7slhdsm531hdsm533sm--display_7segment--7segment-led__hdsm531_hdsm533_smd)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Display_7Segment : 7SEGMENT-LED__HDSM531_HDSM533_SMD
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Display_7Segment-7SEGMENT-LED__HDSM531_HDSM533_SMD](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Display_7Segment-7SEGMENT-LED__HDSM531_HDSM533_SMD)
 - Short Link: [http://oom.lt/FZKDI7S7SLHDSM531HDSM533SM](http://oom.lt/FZKDI7S7SLHDSM531HDSM533SM)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Display_7Segment/7SEGMENT-LED__HDSM531_HDSM533_SMD/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Display_7Segment/7SEGMENT-LED__HDSM531_HDSM533_SMD/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Display_7Segment/7SEGMENT-LED__HDSM531_HDSM533_SMD/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Display_7Segment/7SEGMENT-LED__HDSM531_HDSM533_SMD/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Display_7Segment/7SEGMENT-LED__HDSM531_HDSM533_SMD/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Display_7Segment/7SEGMENT-LED__HDSM531_HDSM533_SMD/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Display_7Segment/7SEGMENT-LED__HDSM531_HDSM533_SMD/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Display_7Segment/7SEGMENT-LED__HDSM531_HDSM533_SMD/kicadPcb3dBack.png)|

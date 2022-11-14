@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDICHARACTERDA5611YWA > Display_Character : DA56-11YWA](#szkdicharacterda5611ywa--display_character--da56-11ywa)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Display_Character : DA56-11YWA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-DA56-11YWA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-DA56-11YWA)
 - Short Link: [http://oom.lt/SZKDICHARACTERDA5611YWA](http://oom.lt/SZKDICHARACTERDA5611YWA)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Display_Character/DA56-11YWA/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Display_Character/DA56-11YWA/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Display_Character/DA56-11YWA/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Display_Character/DA56-11YWA/image.png)|||

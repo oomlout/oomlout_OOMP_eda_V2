@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKAMPLIFIEROPERATIONALTSV912IDT > Amplifier_Operational : TSV912IDT](#szkamplifieroperationaltsv912idt--amplifier_operational--tsv912idt)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Amplifier_Operational : TSV912IDT
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-TSV912IDT](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-TSV912IDT)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALTSV912IDT](http://oom.lt/SZKAMPLIFIEROPERATIONALTSV912IDT)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/TSV912IDT/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/TSV912IDT/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/TSV912IDT/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/TSV912IDT/image.png)|||

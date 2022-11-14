@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKLOGICPROGRAABLEPAL2 > Logic_Programmable : PAL20](#szklogicprograablepal2--logic_programmable--pal20)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Logic_Programmable : PAL20
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Logic_Programmable-PAL20](http://oom.lt/SYMBOL-kicad-kicad-symbols-Logic_Programmable-PAL20)
 - Short Link: [http://oom.lt/SZKLOGICPROGRAABLEPAL2](http://oom.lt/SZKLOGICPROGRAABLEPAL2)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Logic_Programmable/PAL20/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Logic_Programmable/PAL20/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Logic_Programmable/PAL20/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Logic_Programmable/PAL20/image.png)|||

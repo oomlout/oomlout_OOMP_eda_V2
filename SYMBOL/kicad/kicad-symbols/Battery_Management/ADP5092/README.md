@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKBATMANAGEMENTADP592 > Battery_Management : ADP5092](#szkbatmanagementadp592--battery_management--adp5092)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Battery_Management : ADP5092
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Battery_Management-ADP5092](http://oom.lt/SYMBOL-kicad-kicad-symbols-Battery_Management-ADP5092)
 - Short Link: [http://oom.lt/SZKBATMANAGEMENTADP592](http://oom.lt/SZKBATMANAGEMENTADP592)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Battery_Management/ADP5092/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Battery_Management/ADP5092/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Battery_Management/ADP5092/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Battery_Management/ADP5092/image.png)|||

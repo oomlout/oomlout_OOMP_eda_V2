@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKAMPLIFIEROPERATIONALLM7171XIM > Amplifier_Operational : LM7171xIM](#szkamplifieroperationallm7171xim--amplifier_operational--lm7171xim)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Amplifier_Operational : LM7171xIM
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LM7171xIM](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LM7171xIM)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALLM7171XIM](http://oom.lt/SZKAMPLIFIEROPERATIONALLM7171XIM)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/LM7171xIM/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/LM7171xIM/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/LM7171xIM/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/LM7171xIM/image.png)|||

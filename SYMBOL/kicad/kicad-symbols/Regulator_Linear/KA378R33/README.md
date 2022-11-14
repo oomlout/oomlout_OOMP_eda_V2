@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKREGULATORLINEARKA378R33 > Regulator_Linear : KA378R33](#szkregulatorlinearka378r33--regulator_linear--ka378r33)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Regulator_Linear : KA378R33
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-KA378R33](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-KA378R33)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARKA378R33](http://oom.lt/SZKREGULATORLINEARKA378R33)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/KA378R33/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/KA378R33/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/KA378R33/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/KA378R33/image.png)|||

@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDEVICEHEATER > Device : Heater](#szkdeviceheater--device--heater)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Device : Heater
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Heater](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Heater)
 - Short Link: [http://oom.lt/SZKDEVICEHEATER](http://oom.lt/SZKDEVICEHEATER)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/Heater/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/Heater/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/Heater/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/Heater/image.png)|||

@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKREGULATORSWITCHINGR78B152 > Regulator_Switching : R-78B1.5-2.0](#szkregulatorswitchingr78b152--regulator_switching--r-78b15-20)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Regulator_Switching : R-78B1.5-2.0
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-R-78B1.5-2.0](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-R-78B1.5-2.0)
 - Short Link: [http://oom.lt/SZKREGULATORSWITCHINGR78B152](http://oom.lt/SZKREGULATORSWITCHINGR78B152)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/R-78B1.5-2.0/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/R-78B1.5-2.0/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/R-78B1.5-2.0/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/R-78B1.5-2.0/image.png)|||

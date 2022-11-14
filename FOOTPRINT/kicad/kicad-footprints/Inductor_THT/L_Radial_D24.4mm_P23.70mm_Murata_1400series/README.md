@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKINLRD244P237M14SERIES > Inductor_THT : L_Radial_D24.4mm_P23.70mm_Murata_1400series](#fzkinlrd244p237m14series--inductor_tht--l_radial_d244mm_p2370mm_murata_1400series)
+	* [Images](#images)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -17,6 +18,8 @@ NO IMAGE
 - Description: Inductor_THT : L_Radial_D24.4mm_P23.70mm_Murata_1400series
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Radial_D24.4mm_P23.70mm_Murata_1400series](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Radial_D24.4mm_P23.70mm_Murata_1400series)
 - Short Link: [http://oom.lt/FZKINLRD244P237M14SERIES](http://oom.lt/FZKINLRD244P237M14SERIES)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Radial_D24.4mm_P23.70mm_Murata_1400series/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Radial_D24.4mm_P23.70mm_Murata_1400series/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Radial_D24.4mm_P23.70mm_Murata_1400series/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Radial_D24.4mm_P23.70mm_Murata_1400series/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Radial_D24.4mm_P23.70mm_Murata_1400series/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Radial_D24.4mm_P23.70mm_Murata_1400series/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Radial_D24.4mm_P23.70mm_Murata_1400series/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Radial_D24.4mm_P23.70mm_Murata_1400series/kicadPcb3dBack.png)|

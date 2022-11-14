@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKSENTOUCHAT42QT11TSHR > Sensor_Touch : AT42QT1010-TSHR](#szksentouchat42qt11tshr--sensor_touch--at42qt1010-tshr)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Sensor_Touch : AT42QT1010-TSHR
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Touch-AT42QT1010-TSHR](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Touch-AT42QT1010-TSHR)
 - Short Link: [http://oom.lt/SZKSENTOUCHAT42QT11TSHR](http://oom.lt/SZKSENTOUCHAT42QT11TSHR)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Touch/AT42QT1010-TSHR/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Touch/AT42QT1010-TSHR/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Touch/AT42QT1010-TSHR/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Touch/AT42QT1010-TSHR/image.png)|||

@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKTRANSISTORFETFDG124NZ > Transistor_FET : FDG1024NZ](#szktransistorfetfdg124nz--transistor_fet--fdg1024nz)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Transistor_FET : FDG1024NZ
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-FDG1024NZ](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-FDG1024NZ)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETFDG124NZ](http://oom.lt/SZKTRANSISTORFETFDG124NZ)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/FDG1024NZ/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/FDG1024NZ/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/FDG1024NZ/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/FDG1024NZ/image.png)|||

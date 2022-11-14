@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKTRANSISTORFETFDMS835LET4 > Transistor_FET : FDMS8350LET40](#szktransistorfetfdms835let4--transistor_fet--fdms8350let40)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Transistor_FET : FDMS8350LET40
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-FDMS8350LET40](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-FDMS8350LET40)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETFDMS835LET4](http://oom.lt/SZKTRANSISTORFETFDMS835LET4)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/FDMS8350LET40/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/FDMS8350LET40/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/FDMS8350LET40/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/FDMS8350LET40/image.png)|||

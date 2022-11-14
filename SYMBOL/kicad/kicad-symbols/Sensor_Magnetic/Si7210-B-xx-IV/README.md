@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKSENMAGNETICSI721BXXIV > Sensor_Magnetic : Si7210-B-xx-IV](#szksenmagneticsi721bxxiv--sensor_magnetic--si7210-b-xx-iv)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Sensor_Magnetic : Si7210-B-xx-IV
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Magnetic-Si7210-B-xx-IV](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Magnetic-Si7210-B-xx-IV)
 - Short Link: [http://oom.lt/SZKSENMAGNETICSI721BXXIV](http://oom.lt/SZKSENMAGNETICSI721BXXIV)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Magnetic/Si7210-B-xx-IV/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Magnetic/Si7210-B-xx-IV/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Magnetic/Si7210-B-xx-IV/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Magnetic/Si7210-B-xx-IV/image.png)|||

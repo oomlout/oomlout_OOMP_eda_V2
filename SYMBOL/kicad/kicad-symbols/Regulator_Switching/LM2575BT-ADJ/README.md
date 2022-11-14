@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKREGULATORSWITCHINGLM2575BTADJ > Regulator_Switching : LM2575BT-ADJ](#szkregulatorswitchinglm2575btadj--regulator_switching--lm2575bt-adj)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Regulator_Switching : LM2575BT-ADJ
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LM2575BT-ADJ](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LM2575BT-ADJ)
 - Short Link: [http://oom.lt/SZKREGULATORSWITCHINGLM2575BTADJ](http://oom.lt/SZKREGULATORSWITCHINGLM2575BTADJ)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/LM2575BT-ADJ/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/LM2575BT-ADJ/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/LM2575BT-ADJ/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/LM2575BT-ADJ/image.png)|||

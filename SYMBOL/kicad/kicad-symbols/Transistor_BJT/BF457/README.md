@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKTRANSISTORBJTBF457 > Transistor_BJT : BF457](#szktransistorbjtbf457--transistor_bjt--bf457)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Transistor_BJT : BF457
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-BF457](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-BF457)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJTBF457](http://oom.lt/SZKTRANSISTORBJTBF457)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_BJT/BF457/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_BJT/BF457/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_BJT/BF457/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_BJT/BF457/image.png)|||

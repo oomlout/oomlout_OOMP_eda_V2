@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKANALOGADCLTC1865MS > Analog_ADC : LTC1865-MS](#szkanalogadcltc1865ms--analog_adc--ltc1865-ms)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Analog_ADC : LTC1865-MS
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-LTC1865-MS](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-LTC1865-MS)
 - Short Link: [http://oom.lt/SZKANALOGADCLTC1865MS](http://oom.lt/SZKANALOGADCLTC1865MS)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Analog_ADC/LTC1865-MS/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Analog_ADC/LTC1865-MS/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Analog_ADC/LTC1865-MS/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Analog_ADC/LTC1865-MS/image.png)|||

@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKFUFUBOURNSMFSM95X671 > Fuse : Fuse_Bourns_MF-SM_9.5x6.71mm](#fzkfufubournsmfsm95x671--fuse--fuse_bourns_mf-sm_95x671mm)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Fuse : Fuse_Bourns_MF-SM_9.5x6.71mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Fuse-Fuse_Bourns_MF-SM_9.5x6.71mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Fuse-Fuse_Bourns_MF-SM_9.5x6.71mm)
 - Short Link: [http://oom.lt/FZKFUFUBOURNSMFSM95X671](http://oom.lt/FZKFUFUBOURNSMFSM95X671)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Fuse/Fuse_Bourns_MF-SM_9.5x6.71mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Fuse/Fuse_Bourns_MF-SM_9.5x6.71mm/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Fuse/Fuse_Bourns_MF-SM_9.5x6.71mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Fuse/Fuse_Bourns_MF-SM_9.5x6.71mm/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Fuse/Fuse_Bourns_MF-SM_9.5x6.71mm/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Fuse/Fuse_Bourns_MF-SM_9.5x6.71mm/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Fuse/Fuse_Bourns_MF-SM_9.5x6.71mm/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Fuse/Fuse_Bourns_MF-SM_9.5x6.71mm/kicadPcb3dBack.png)|

@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKISOLATORPS8821 > Isolator : PS8802-1](#szkisolatorps8821--isolator--ps8802-1)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Isolator : PS8802-1
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-PS8802-1](http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-PS8802-1)
 - Short Link: [http://oom.lt/SZKISOLATORPS8821](http://oom.lt/SZKISOLATORPS8821)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Isolator/PS8802-1/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Isolator/PS8802-1/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Isolator/PS8802-1/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Isolator/PS8802-1/image.png)|||

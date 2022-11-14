@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKSENCURRENTHX25PSP2 > Sensor_Current : HX25-P-SP2](#szksencurrenthx25psp2--sensor_current--hx25-p-sp2)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Sensor_Current : HX25-P-SP2
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-HX25-P-SP2](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-HX25-P-SP2)
 - Short Link: [http://oom.lt/SZKSENCURRENTHX25PSP2](http://oom.lt/SZKSENCURRENTHX25PSP2)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Current/HX25-P-SP2/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Current/HX25-P-SP2/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Current/HX25-P-SP2/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Current/HX25-P-SP2/image.png)|||

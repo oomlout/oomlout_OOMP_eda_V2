@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKREGULATORLINEARMC796 > Regulator_Linear : MC7906](#szkregulatorlinearmc796--regulator_linear--mc7906)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Regulator_Linear : MC7906
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-MC7906](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-MC7906)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARMC796](http://oom.lt/SZKREGULATORLINEARMC796)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/MC7906/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/MC7906/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/MC7906/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/MC7906/image.png)|||

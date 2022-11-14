@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDEVICELBARG > Device : LED_BARG](#szkdevicelbarg--device--led_barg)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Device : LED_BARG
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-LED_BARG](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-LED_BARG)
 - Short Link: [http://oom.lt/SZKDEVICELBARG](http://oom.lt/SZKDEVICELBARG)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/LED_BARG/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/LED_BARG/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/LED_BARG/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/LED_BARG/image.png)|||

@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKTRANSISTORFETFDS9934C > Transistor_FET : FDS9934C](#szktransistorfetfds9934c--transistor_fet--fds9934c)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Transistor_FET : FDS9934C
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-FDS9934C](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-FDS9934C)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETFDS9934C](http://oom.lt/SZKTRANSISTORFETFDS9934C)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/FDS9934C/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/FDS9934C/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/FDS9934C/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/FDS9934C/image.png)|||

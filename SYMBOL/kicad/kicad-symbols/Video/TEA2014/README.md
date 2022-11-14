@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKVIDEOTEA214 > Video : TEA2014](#szkvideotea214--video--tea2014)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Video : TEA2014
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Video-TEA2014](http://oom.lt/SYMBOL-kicad-kicad-symbols-Video-TEA2014)
 - Short Link: [http://oom.lt/SZKVIDEOTEA214](http://oom.lt/SZKVIDEOTEA214)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Video/TEA2014/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Video/TEA2014/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Video/TEA2014/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Video/TEA2014/image.png)|||

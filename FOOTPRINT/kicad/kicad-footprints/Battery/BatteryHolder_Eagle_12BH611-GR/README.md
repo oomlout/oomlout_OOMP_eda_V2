@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKBATBATHOLDEREAGLE12BH611GR > Battery : BatteryHolder_Eagle_12BH611-GR](#fzkbatbatholdereagle12bh611gr--battery--batteryholder_eagle_12bh611-gr)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Battery : BatteryHolder_Eagle_12BH611-GR
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Battery-BatteryHolder_Eagle_12BH611-GR](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Battery-BatteryHolder_Eagle_12BH611-GR)
 - Short Link: [http://oom.lt/FZKBATBATHOLDEREAGLE12BH611GR](http://oom.lt/FZKBATBATHOLDEREAGLE12BH611GR)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Battery/BatteryHolder_Eagle_12BH611-GR/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Battery/BatteryHolder_Eagle_12BH611-GR/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Battery/BatteryHolder_Eagle_12BH611-GR/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Battery/BatteryHolder_Eagle_12BH611-GR/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Battery/BatteryHolder_Eagle_12BH611-GR/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Battery/BatteryHolder_Eagle_12BH611-GR/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Battery/BatteryHolder_Eagle_12BH611-GR/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Battery/BatteryHolder_Eagle_12BH611-GR/kicadPcb3dBack.png)|

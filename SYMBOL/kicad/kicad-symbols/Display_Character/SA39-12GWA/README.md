@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDICHARACTERSA3912GWA > Display_Character : SA39-12GWA](#szkdicharactersa3912gwa--display_character--sa39-12gwa)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Display_Character : SA39-12GWA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-SA39-12GWA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-SA39-12GWA)
 - Short Link: [http://oom.lt/SZKDICHARACTERSA3912GWA](http://oom.lt/SZKDICHARACTERSA3912GWA)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Display_Character/SA39-12GWA/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Display_Character/SA39-12GWA/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Display_Character/SA39-12GWA/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Display_Character/SA39-12GWA/image.png)|||

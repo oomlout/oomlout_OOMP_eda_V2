@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKREGULATORLINEARTPS78236DDC > Regulator_Linear : TPS78236DDC](#szkregulatorlineartps78236ddc--regulator_linear--tps78236ddc)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Regulator_Linear : TPS78236DDC
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-TPS78236DDC](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-TPS78236DDC)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARTPS78236DDC](http://oom.lt/SZKREGULATORLINEARTPS78236DDC)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/TPS78236DDC/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/TPS78236DDC/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/TPS78236DDC/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/TPS78236DDC/image.png)|||

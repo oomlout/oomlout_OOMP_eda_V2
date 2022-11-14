@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKINTERFACEUARTADM232A > Interface_UART : ADM232A](#szkinterfaceuartadm232a--interface_uart--adm232a)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Interface_UART : ADM232A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_UART-ADM232A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_UART-ADM232A)
 - Short Link: [http://oom.lt/SZKINTERFACEUARTADM232A](http://oom.lt/SZKINTERFACEUARTADM232A)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface_UART/ADM232A/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface_UART/ADM232A/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface_UART/ADM232A/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface_UART/ADM232A/image.png)|||

@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKMCUINTEL849 > MCU_Intel : 8049](#szkmcuintel849--mcu_intel--8049)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: MCU_Intel : 8049
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Intel-8049](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Intel-8049)
 - Short Link: [http://oom.lt/SZKMCUINTEL849](http://oom.lt/SZKMCUINTEL849)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Intel/8049/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Intel/8049/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Intel/8049/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Intel/8049/image.png)|||

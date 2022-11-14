@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKANALOGDACMCP4821 > Analog_DAC : MCP4821](#szkanalogdacmcp4821--analog_dac--mcp4821)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Analog_DAC : MCP4821
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_DAC-MCP4821](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_DAC-MCP4821)
 - Short Link: [http://oom.lt/SZKANALOGDACMCP4821](http://oom.lt/SZKANALOGDACMCP4821)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Analog_DAC/MCP4821/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Analog_DAC/MCP4821/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Analog_DAC/MCP4821/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Analog_DAC/MCP4821/image.png)|||

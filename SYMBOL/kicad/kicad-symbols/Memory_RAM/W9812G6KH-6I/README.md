@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKMEMORYRAMW9812G6KH6I > Memory_RAM : W9812G6KH-6I](#szkmemoryramw9812g6kh6i--memory_ram--w9812g6kh-6i)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Memory_RAM : W9812G6KH-6I
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_RAM-W9812G6KH-6I](http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_RAM-W9812G6KH-6I)
 - Short Link: [http://oom.lt/SZKMEMORYRAMW9812G6KH6I](http://oom.lt/SZKMEMORYRAMW9812G6KH6I)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Memory_RAM/W9812G6KH-6I/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Memory_RAM/W9812G6KH-6I/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Memory_RAM/W9812G6KH-6I/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Memory_RAM/W9812G6KH-6I/image.png)|||

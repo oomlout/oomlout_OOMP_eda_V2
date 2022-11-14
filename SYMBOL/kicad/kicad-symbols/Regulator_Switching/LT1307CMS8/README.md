@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKREGULATORSWITCHINGLT137CMS8 > Regulator_Switching : LT1307CMS8](#szkregulatorswitchinglt137cms8--regulator_switching--lt1307cms8)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Regulator_Switching : LT1307CMS8
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LT1307CMS8](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LT1307CMS8)
 - Short Link: [http://oom.lt/SZKREGULATORSWITCHINGLT137CMS8](http://oom.lt/SZKREGULATORSWITCHINGLT137CMS8)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/LT1307CMS8/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/LT1307CMS8/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/LT1307CMS8/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/LT1307CMS8/image.png)|||

@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKOCSABLNO > Oscillator : ABLNO](#szkocsablno--oscillator--ablno)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Oscillator : ABLNO
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Oscillator-ABLNO](http://oom.lt/SYMBOL-kicad-kicad-symbols-Oscillator-ABLNO)
 - Short Link: [http://oom.lt/SZKOCSABLNO](http://oom.lt/SZKOCSABLNO)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Oscillator/ABLNO/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Oscillator/ABLNO/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Oscillator/ABLNO/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Oscillator/ABLNO/image.png)|||

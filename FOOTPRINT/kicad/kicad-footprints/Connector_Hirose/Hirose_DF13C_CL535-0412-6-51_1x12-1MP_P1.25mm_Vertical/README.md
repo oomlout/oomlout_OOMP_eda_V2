@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKCNHIROSEHIROSEDF13CCL5354126511X121MPP125VERTICAL > Connector_Hirose : Hirose_DF13C_CL535-0412-6-51_1x12-1MP_P1.25mm_Vertical](#fzkcnhirosehirosedf13ccl5354126511x121mpp125vertical--connector_hirose--hirose_df13c_cl535-0412-6-51_1x12-1mp_p125mm_vertical)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Connector_Hirose : Hirose_DF13C_CL535-0412-6-51_1x12-1MP_P1.25mm_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Hirose-Hirose_DF13C_CL535-0412-6-51_1x12-1MP_P1.25mm_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Hirose-Hirose_DF13C_CL535-0412-6-51_1x12-1MP_P1.25mm_Vertical)
 - Short Link: [http://oom.lt/FZKCNHIROSEHIROSEDF13CCL5354126511X121MPP125VERTICAL](http://oom.lt/FZKCNHIROSEHIROSEDF13CCL5354126511X121MPP125VERTICAL)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Hirose/Hirose_DF13C_CL535-0412-6-51_1x12-1MP_P1.25mm_Vertical/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Hirose/Hirose_DF13C_CL535-0412-6-51_1x12-1MP_P1.25mm_Vertical/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Hirose/Hirose_DF13C_CL535-0412-6-51_1x12-1MP_P1.25mm_Vertical/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Hirose/Hirose_DF13C_CL535-0412-6-51_1x12-1MP_P1.25mm_Vertical/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Hirose/Hirose_DF13C_CL535-0412-6-51_1x12-1MP_P1.25mm_Vertical/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Hirose/Hirose_DF13C_CL535-0412-6-51_1x12-1MP_P1.25mm_Vertical/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Hirose/Hirose_DF13C_CL535-0412-6-51_1x12-1MP_P1.25mm_Vertical/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Hirose/Hirose_DF13C_CL535-0412-6-51_1x12-1MP_P1.25mm_Vertical/kicadPcb3dBack.png)|

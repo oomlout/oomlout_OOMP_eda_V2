@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKOCSOCSSMEUROQUARTZXO914PIN7X5HANDSOLDERING > Oscillator : Oscillator_SMD_EuroQuartz_XO91-4Pin_7.0x5.0mm_HandSoldering](#fzkocsocssmeuroquartzxo914pin7x5handsoldering--oscillator--oscillator_smd_euroquartz_xo91-4pin_70x50mm_handsoldering)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Oscillator : Oscillator_SMD_EuroQuartz_XO91-4Pin_7.0x5.0mm_HandSoldering
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Oscillator-Oscillator_SMD_EuroQuartz_XO91-4Pin_7.0x5.0mm_HandSoldering](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Oscillator-Oscillator_SMD_EuroQuartz_XO91-4Pin_7.0x5.0mm_HandSoldering)
 - Short Link: [http://oom.lt/FZKOCSOCSSMEUROQUARTZXO914PIN7X5HANDSOLDERING](http://oom.lt/FZKOCSOCSSMEUROQUARTZXO914PIN7X5HANDSOLDERING)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Oscillator/Oscillator_SMD_EuroQuartz_XO91-4Pin_7.0x5.0mm_HandSoldering/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Oscillator/Oscillator_SMD_EuroQuartz_XO91-4Pin_7.0x5.0mm_HandSoldering/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Oscillator/Oscillator_SMD_EuroQuartz_XO91-4Pin_7.0x5.0mm_HandSoldering/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Oscillator/Oscillator_SMD_EuroQuartz_XO91-4Pin_7.0x5.0mm_HandSoldering/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Oscillator/Oscillator_SMD_EuroQuartz_XO91-4Pin_7.0x5.0mm_HandSoldering/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Oscillator/Oscillator_SMD_EuroQuartz_XO91-4Pin_7.0x5.0mm_HandSoldering/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Oscillator/Oscillator_SMD_EuroQuartz_XO91-4Pin_7.0x5.0mm_HandSoldering/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Oscillator/Oscillator_SMD_EuroQuartz_XO91-4Pin_7.0x5.0mm_HandSoldering/kicadPcb3dBack.png)|

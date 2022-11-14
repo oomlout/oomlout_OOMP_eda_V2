@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKISOLATOREL817 > Isolator : EL817](#szkisolatorel817--isolator--el817)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Isolator : EL817
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-EL817](http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-EL817)
 - Short Link: [http://oom.lt/SZKISOLATOREL817](http://oom.lt/SZKISOLATOREL817)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Isolator/EL817/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Isolator/EL817/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Isolator/EL817/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Isolator/EL817/image.png)|||

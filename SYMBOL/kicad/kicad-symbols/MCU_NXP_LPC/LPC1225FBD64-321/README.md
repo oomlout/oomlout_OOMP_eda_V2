@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKMCUNXPLPCLPC1225FBD64321 > MCU_NXP_LPC : LPC1225FBD64-321](#szkmcunxplpclpc1225fbd64321--mcu_nxp_lpc--lpc1225fbd64-321)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: MCU_NXP_LPC : LPC1225FBD64-321
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_NXP_LPC-LPC1225FBD64-321](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_NXP_LPC-LPC1225FBD64-321)
 - Short Link: [http://oom.lt/SZKMCUNXPLPCLPC1225FBD64321](http://oom.lt/SZKMCUNXPLPCLPC1225FBD64321)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_NXP_LPC/LPC1225FBD64-321/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_NXP_LPC/LPC1225FBD64-321/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_NXP_LPC/LPC1225FBD64-321/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_NXP_LPC/LPC1225FBD64-321/image.png)|||

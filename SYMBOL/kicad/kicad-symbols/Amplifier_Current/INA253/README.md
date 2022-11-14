@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKAMPLIFIERCURRENTINA253 > Amplifier_Current : INA253](#szkamplifiercurrentina253--amplifier_current--ina253)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Amplifier_Current : INA253
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Current-INA253](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Current-INA253)
 - Short Link: [http://oom.lt/SZKAMPLIFIERCURRENTINA253](http://oom.lt/SZKAMPLIFIERCURRENTINA253)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Amplifier_Current/INA253/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Amplifier_Current/INA253/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Amplifier_Current/INA253/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Amplifier_Current/INA253/image.png)|||

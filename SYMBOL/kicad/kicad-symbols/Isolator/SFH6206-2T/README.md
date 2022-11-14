@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKISOLATORSFH6262T > Isolator : SFH6206-2T](#szkisolatorsfh6262t--isolator--sfh6206-2t)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Isolator : SFH6206-2T
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-SFH6206-2T](http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-SFH6206-2T)
 - Short Link: [http://oom.lt/SZKISOLATORSFH6262T](http://oom.lt/SZKISOLATORSFH6262T)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Isolator/SFH6206-2T/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Isolator/SFH6206-2T/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Isolator/SFH6206-2T/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Isolator/SFH6206-2T/image.png)|||

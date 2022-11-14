@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKCONTEC24812WI > Converter_DCDC : TEC2-4812WI](#szkcontec24812wi--converter_dcdc--tec2-4812wi)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Converter_DCDC : TEC2-4812WI
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-TEC2-4812WI](http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-TEC2-4812WI)
 - Short Link: [http://oom.lt/SZKCONTEC24812WI](http://oom.lt/SZKCONTEC24812WI)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Converter_DCDC/TEC2-4812WI/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Converter_DCDC/TEC2-4812WI/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Converter_DCDC/TEC2-4812WI/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Converter_DCDC/TEC2-4812WI/image.png)|||

@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKBATMANAGEMENTBQ2479RGT > Battery_Management : BQ24079RGT](#szkbatmanagementbq2479rgt--battery_management--bq24079rgt)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Battery_Management : BQ24079RGT
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Battery_Management-BQ24079RGT](http://oom.lt/SYMBOL-kicad-kicad-symbols-Battery_Management-BQ24079RGT)
 - Short Link: [http://oom.lt/SZKBATMANAGEMENTBQ2479RGT](http://oom.lt/SZKBATMANAGEMENTBQ2479RGT)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Battery_Management/BQ24079RGT/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Battery_Management/BQ24079RGT/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Battery_Management/BQ24079RGT/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Battery_Management/BQ24079RGT/image.png)|||

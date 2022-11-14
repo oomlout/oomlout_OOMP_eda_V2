@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKSOTSS241EP44X78P65EP32X5 > Package_SO : TSSOP-24-1EP_4.4x7.8mm_P0.65mm_EP3.2x5mm](#fzksotss241ep44x78p65ep32x5--package_so--tssop-24-1ep_44x78mm_p065mm_ep32x5mm)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Package_SO : TSSOP-24-1EP_4.4x7.8mm_P0.65mm_EP3.2x5mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SO-TSSOP-24-1EP_4.4x7.8mm_P0.65mm_EP3.2x5mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SO-TSSOP-24-1EP_4.4x7.8mm_P0.65mm_EP3.2x5mm)
 - Short Link: [http://oom.lt/FZKSOTSS241EP44X78P65EP32X5](http://oom.lt/FZKSOTSS241EP44X78P65EP32X5)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/TSSOP-24-1EP_4.4x7.8mm_P0.65mm_EP3.2x5mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/TSSOP-24-1EP_4.4x7.8mm_P0.65mm_EP3.2x5mm/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/TSSOP-24-1EP_4.4x7.8mm_P0.65mm_EP3.2x5mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/TSSOP-24-1EP_4.4x7.8mm_P0.65mm_EP3.2x5mm/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/TSSOP-24-1EP_4.4x7.8mm_P0.65mm_EP3.2x5mm/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/TSSOP-24-1EP_4.4x7.8mm_P0.65mm_EP3.2x5mm/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/TSSOP-24-1EP_4.4x7.8mm_P0.65mm_EP3.2x5mm/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/TSSOP-24-1EP_4.4x7.8mm_P0.65mm_EP3.2x5mm/kicadPcb3dBack.png)|

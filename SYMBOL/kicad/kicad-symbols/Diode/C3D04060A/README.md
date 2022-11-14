@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDIODEC3D46A > Diode : C3D04060A](#szkdiodec3d46a--diode--c3d04060a)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Diode : C3D04060A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-C3D04060A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-C3D04060A)
 - Short Link: [http://oom.lt/SZKDIODEC3D46A](http://oom.lt/SZKDIODEC3D46A)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Diode/C3D04060A/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Diode/C3D04060A/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Diode/C3D04060A/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Diode/C3D04060A/image.png)|||

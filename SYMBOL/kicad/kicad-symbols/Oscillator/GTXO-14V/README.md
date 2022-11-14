@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKOCSGTXO14V > Oscillator : GTXO-14V](#szkocsgtxo14v--oscillator--gtxo-14v)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Oscillator : GTXO-14V
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Oscillator-GTXO-14V](http://oom.lt/SYMBOL-kicad-kicad-symbols-Oscillator-GTXO-14V)
 - Short Link: [http://oom.lt/SZKOCSGTXO14V](http://oom.lt/SZKOCSGTXO14V)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Oscillator/GTXO-14V/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Oscillator/GTXO-14V/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Oscillator/GTXO-14V/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Oscillator/GTXO-14V/image.png)|||

@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKANALOGADCMCP38 > Analog_ADC : MCP3008](#szkanalogadcmcp38--analog_adc--mcp3008)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Analog_ADC : MCP3008
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-MCP3008](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-MCP3008)
 - Short Link: [http://oom.lt/SZKANALOGADCMCP38](http://oom.lt/SZKANALOGADCMCP38)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Analog_ADC/MCP3008/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Analog_ADC/MCP3008/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Analog_ADC/MCP3008/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Analog_ADC/MCP3008/image.png)|||

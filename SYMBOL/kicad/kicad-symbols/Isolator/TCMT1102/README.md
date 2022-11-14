@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKISOLATORTCMT112 > Isolator : TCMT1102](#szkisolatortcmt112--isolator--tcmt1102)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Isolator : TCMT1102
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-TCMT1102](http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-TCMT1102)
 - Short Link: [http://oom.lt/SZKISOLATORTCMT112](http://oom.lt/SZKISOLATORTCMT112)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Isolator/TCMT1102/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Isolator/TCMT1102/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Isolator/TCMT1102/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Isolator/TCMT1102/image.png)|||

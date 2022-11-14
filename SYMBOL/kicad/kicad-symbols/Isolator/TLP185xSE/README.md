@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKISOLATORTLP185XSE > Isolator : TLP185xSE](#szkisolatortlp185xse--isolator--tlp185xse)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Isolator : TLP185xSE
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-TLP185xSE](http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-TLP185xSE)
 - Short Link: [http://oom.lt/SZKISOLATORTLP185XSE](http://oom.lt/SZKISOLATORTLP185XSE)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Isolator/TLP185xSE/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Isolator/TLP185xSE/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Isolator/TLP185xSE/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Isolator/TLP185xSE/image.png)|||

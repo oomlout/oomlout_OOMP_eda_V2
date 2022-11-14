@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKCNHDMIC13 > Connector : HDMI_C_1.3](#szkcnhdmic13--connector--hdmi_c_13)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Connector : HDMI_C_1.3
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-HDMI_C_1.3](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-HDMI_C_1.3)
 - Short Link: [http://oom.lt/SZKCNHDMIC13](http://oom.lt/SZKCNHDMIC13)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/HDMI_C_1.3/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/HDMI_C_1.3/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/HDMI_C_1.3/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/HDMI_C_1.3/image.png)|||

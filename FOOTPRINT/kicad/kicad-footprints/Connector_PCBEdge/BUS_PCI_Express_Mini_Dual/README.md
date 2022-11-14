@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKCNPCBEDGEBUSPCIEXPRESSMDUAL > Connector_PCBEdge : BUS_PCI_Express_Mini_Dual](#fzkcnpcbedgebuspciexpressmdual--connector_pcbedge--bus_pci_express_mini_dual)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Connector_PCBEdge : BUS_PCI_Express_Mini_Dual
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_PCBEdge-BUS_PCI_Express_Mini_Dual](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_PCBEdge-BUS_PCI_Express_Mini_Dual)
 - Short Link: [http://oom.lt/FZKCNPCBEDGEBUSPCIEXPRESSMDUAL](http://oom.lt/FZKCNPCBEDGEBUSPCIEXPRESSMDUAL)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_PCBEdge/BUS_PCI_Express_Mini_Dual/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_PCBEdge/BUS_PCI_Express_Mini_Dual/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_PCBEdge/BUS_PCI_Express_Mini_Dual/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_PCBEdge/BUS_PCI_Express_Mini_Dual/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_PCBEdge/BUS_PCI_Express_Mini_Dual/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_PCBEdge/BUS_PCI_Express_Mini_Dual/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_PCBEdge/BUS_PCI_Express_Mini_Dual/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_PCBEdge/BUS_PCI_Express_Mini_Dual/kicadPcb3dBack.png)|

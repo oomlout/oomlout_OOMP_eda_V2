@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKTRIACTHYRISTORBTA166B > Triac_Thyristor : BTA16-600B](#szktriacthyristorbta166b--triac_thyristor--bta16-600b)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Triac_Thyristor : BTA16-600B
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Triac_Thyristor-BTA16-600B](http://oom.lt/SYMBOL-kicad-kicad-symbols-Triac_Thyristor-BTA16-600B)
 - Short Link: [http://oom.lt/SZKTRIACTHYRISTORBTA166B](http://oom.lt/SZKTRIACTHYRISTORBTA166B)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Triac_Thyristor/BTA16-600B/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Triac_Thyristor/BTA16-600B/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Triac_Thyristor/BTA16-600B/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Triac_Thyristor/BTA16-600B/image.png)|||

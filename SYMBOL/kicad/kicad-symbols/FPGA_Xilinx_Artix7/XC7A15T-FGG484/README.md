@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKFPGAXILINXARTIX7XC7A15TFGG484 > FPGA_Xilinx_Artix7 : XC7A15T-FGG484](#szkfpgaxilinxartix7xc7a15tfgg484--fpga_xilinx_artix7--xc7a15t-fgg484)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: FPGA_Xilinx_Artix7 : XC7A15T-FGG484
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-FPGA_Xilinx_Artix7-XC7A15T-FGG484](http://oom.lt/SYMBOL-kicad-kicad-symbols-FPGA_Xilinx_Artix7-XC7A15T-FGG484)
 - Short Link: [http://oom.lt/SZKFPGAXILINXARTIX7XC7A15TFGG484](http://oom.lt/SZKFPGAXILINXARTIX7XC7A15TFGG484)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/FPGA_Xilinx_Artix7/XC7A15T-FGG484/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/FPGA_Xilinx_Artix7/XC7A15T-FGG484/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/FPGA_Xilinx_Artix7/XC7A15T-FGG484/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/FPGA_Xilinx_Artix7/XC7A15T-FGG484/image.png)|||

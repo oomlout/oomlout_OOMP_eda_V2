@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKRELAYSMRELAY2P2T1X6TEIMXXG > Relay_SMD : Relay_2P2T_10x6mm_TE_IMxxG](#fzkrelaysmrelay2p2t1x6teimxxg--relay_smd--relay_2p2t_10x6mm_te_imxxg)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Relay_SMD : Relay_2P2T_10x6mm_TE_IMxxG
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Relay_SMD-Relay_2P2T_10x6mm_TE_IMxxG](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Relay_SMD-Relay_2P2T_10x6mm_TE_IMxxG)
 - Short Link: [http://oom.lt/FZKRELAYSMRELAY2P2T1X6TEIMXXG](http://oom.lt/FZKRELAYSMRELAY2P2T1X6TEIMXXG)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Relay_SMD/Relay_2P2T_10x6mm_TE_IMxxG/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Relay_SMD/Relay_2P2T_10x6mm_TE_IMxxG/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Relay_SMD/Relay_2P2T_10x6mm_TE_IMxxG/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Relay_SMD/Relay_2P2T_10x6mm_TE_IMxxG/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Relay_SMD/Relay_2P2T_10x6mm_TE_IMxxG/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Relay_SMD/Relay_2P2T_10x6mm_TE_IMxxG/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Relay_SMD/Relay_2P2T_10x6mm_TE_IMxxG/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Relay_SMD/Relay_2P2T_10x6mm_TE_IMxxG/kicadPcb3dBack.png)|

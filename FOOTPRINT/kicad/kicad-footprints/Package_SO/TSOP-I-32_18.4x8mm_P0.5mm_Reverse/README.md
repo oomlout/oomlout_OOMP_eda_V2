@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKSOTSI32184X8P5R > Package_SO : TSOP-I-32_18.4x8mm_P0.5mm_Reverse](#fzksotsi32184x8p5r--package_so--tsop-i-32_184x8mm_p05mm_reverse)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Package_SO : TSOP-I-32_18.4x8mm_P0.5mm_Reverse
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SO-TSOP-I-32_18.4x8mm_P0.5mm_Reverse](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SO-TSOP-I-32_18.4x8mm_P0.5mm_Reverse)
 - Short Link: [http://oom.lt/FZKSOTSI32184X8P5R](http://oom.lt/FZKSOTSI32184X8P5R)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/TSOP-I-32_18.4x8mm_P0.5mm_Reverse/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/TSOP-I-32_18.4x8mm_P0.5mm_Reverse/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/TSOP-I-32_18.4x8mm_P0.5mm_Reverse/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/TSOP-I-32_18.4x8mm_P0.5mm_Reverse/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/TSOP-I-32_18.4x8mm_P0.5mm_Reverse/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/TSOP-I-32_18.4x8mm_P0.5mm_Reverse/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/TSOP-I-32_18.4x8mm_P0.5mm_Reverse/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/TSOP-I-32_18.4x8mm_P0.5mm_Reverse/kicadPcb3dBack.png)|

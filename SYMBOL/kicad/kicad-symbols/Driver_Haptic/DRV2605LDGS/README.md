@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDRIVERHAPTICDRV265LDGS > Driver_Haptic : DRV2605LDGS](#szkdriverhapticdrv265ldgs--driver_haptic--drv2605ldgs)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Driver_Haptic : DRV2605LDGS
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_Haptic-DRV2605LDGS](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_Haptic-DRV2605LDGS)
 - Short Link: [http://oom.lt/SZKDRIVERHAPTICDRV265LDGS](http://oom.lt/SZKDRIVERHAPTICDRV265LDGS)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Driver_Haptic/DRV2605LDGS/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Driver_Haptic/DRV2605LDGS/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Driver_Haptic/DRV2605LDGS/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Driver_Haptic/DRV2605LDGS/image.png)|||

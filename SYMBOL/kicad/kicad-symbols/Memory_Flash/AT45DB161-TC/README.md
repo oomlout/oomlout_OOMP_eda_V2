@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKMEMORYFLASHAT45DB161TC > Memory_Flash : AT45DB161-TC](#szkmemoryflashat45db161tc--memory_flash--at45db161-tc)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Memory_Flash : AT45DB161-TC
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_Flash-AT45DB161-TC](http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_Flash-AT45DB161-TC)
 - Short Link: [http://oom.lt/SZKMEMORYFLASHAT45DB161TC](http://oom.lt/SZKMEMORYFLASHAT45DB161TC)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Memory_Flash/AT45DB161-TC/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Memory_Flash/AT45DB161-TC/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Memory_Flash/AT45DB161-TC/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Memory_Flash/AT45DB161-TC/image.png)|||

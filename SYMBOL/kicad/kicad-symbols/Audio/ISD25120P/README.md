@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKAUDIOISD2512P > Audio : ISD25120P](#szkaudioisd2512p--audio--isd25120p)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Audio : ISD25120P
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Audio-ISD25120P](http://oom.lt/SYMBOL-kicad-kicad-symbols-Audio-ISD25120P)
 - Short Link: [http://oom.lt/SZKAUDIOISD2512P](http://oom.lt/SZKAUDIOISD2512P)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Audio/ISD25120P/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Audio/ISD25120P/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Audio/ISD25120P/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Audio/ISD25120P/image.png)|||

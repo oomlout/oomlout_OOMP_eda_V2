@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKCONIH125D > Converter_DCDC : IH1205D](#szkconih125d--converter_dcdc--ih1205d)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Converter_DCDC : IH1205D
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-IH1205D](http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-IH1205D)
 - Short Link: [http://oom.lt/SZKCONIH125D](http://oom.lt/SZKCONIH125D)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Converter_DCDC/IH1205D/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Converter_DCDC/IH1205D/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Converter_DCDC/IH1205D/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Converter_DCDC/IH1205D/image.png)|||

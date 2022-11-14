@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKDIPDIP12W762SO > Package_DIP : DIP-12_W7.62mm_Socket](#fzkdipdip12w762so--package_dip--dip-12_w762mm_socket)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Package_DIP : DIP-12_W7.62mm_Socket
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DIP-DIP-12_W7.62mm_Socket](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DIP-DIP-12_W7.62mm_Socket)
 - Short Link: [http://oom.lt/FZKDIPDIP12W762SO](http://oom.lt/FZKDIPDIP12W762SO)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_DIP/DIP-12_W7.62mm_Socket/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_DIP/DIP-12_W7.62mm_Socket/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_DIP/DIP-12_W7.62mm_Socket/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_DIP/DIP-12_W7.62mm_Socket/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_DIP/DIP-12_W7.62mm_Socket/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_DIP/DIP-12_W7.62mm_Socket/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_DIP/DIP-12_W7.62mm_Socket/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_DIP/DIP-12_W7.62mm_Socket/kicadPcb3dBack.png)|

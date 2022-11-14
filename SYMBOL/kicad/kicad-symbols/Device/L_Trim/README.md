@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDEVICELTRIM > Device : L_Trim](#szkdeviceltrim--device--l_trim)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Device : L_Trim
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-L_Trim](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-L_Trim)
 - Short Link: [http://oom.lt/SZKDEVICELTRIM](http://oom.lt/SZKDEVICELTRIM)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/L_Trim/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/L_Trim/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/L_Trim/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/L_Trim/image.png)|||

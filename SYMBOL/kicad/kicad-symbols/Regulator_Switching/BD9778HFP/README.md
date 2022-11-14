@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKREGULATORSWITCHINGBD9778HFP > Regulator_Switching : BD9778HFP](#szkregulatorswitchingbd9778hfp--regulator_switching--bd9778hfp)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Regulator_Switching : BD9778HFP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-BD9778HFP](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-BD9778HFP)
 - Short Link: [http://oom.lt/SZKREGULATORSWITCHINGBD9778HFP](http://oom.lt/SZKREGULATORSWITCHINGBD9778HFP)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/BD9778HFP/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/BD9778HFP/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/BD9778HFP/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/BD9778HFP/image.png)|||

@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZK74XXCD74HC467SM > 74xx : CD74HC4067SM](#szk74xxcd74hc467sm--74xx--cd74hc4067sm)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: 74xx : CD74HC4067SM
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-74xx-CD74HC4067SM](http://oom.lt/SYMBOL-kicad-kicad-symbols-74xx-CD74HC4067SM)
 - Short Link: [http://oom.lt/SZK74XXCD74HC467SM](http://oom.lt/SZK74XXCD74HC467SM)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/74xx/CD74HC4067SM/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/74xx/CD74HC4067SM/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/74xx/CD74HC4067SM/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/74xx/CD74HC4067SM/image.png)|||

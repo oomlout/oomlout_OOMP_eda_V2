@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKINTERFACECANLINSN65HVD23 > Interface_CAN_LIN : SN65HVD230](#szkinterfacecanlinsn65hvd23--interface_can_lin--sn65hvd230)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Interface_CAN_LIN : SN65HVD230
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_CAN_LIN-SN65HVD230](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_CAN_LIN-SN65HVD230)
 - Short Link: [http://oom.lt/SZKINTERFACECANLINSN65HVD23](http://oom.lt/SZKINTERFACECANLINSN65HVD23)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface_CAN_LIN/SN65HVD230/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface_CAN_LIN/SN65HVD230/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface_CAN_LIN/SN65HVD230/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface_CAN_LIN/SN65HVD230/image.png)|||

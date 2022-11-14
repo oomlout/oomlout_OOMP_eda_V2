@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKREGULATORLINEARTPS7A53PDBV > Regulator_Linear : TPS7A0530PDBV](#szkregulatorlineartps7a53pdbv--regulator_linear--tps7a0530pdbv)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Regulator_Linear : TPS7A0530PDBV
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-TPS7A0530PDBV](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-TPS7A0530PDBV)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARTPS7A53PDBV](http://oom.lt/SZKREGULATORLINEARTPS7A53PDBV)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/TPS7A0530PDBV/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/TPS7A0530PDBV/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/TPS7A0530PDBV/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/TPS7A0530PDBV/image.png)|||

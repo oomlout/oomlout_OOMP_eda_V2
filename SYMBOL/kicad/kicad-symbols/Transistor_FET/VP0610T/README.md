@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKTRANSISTORFETVP61T > Transistor_FET : VP0610T](#szktransistorfetvp61t--transistor_fet--vp0610t)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Transistor_FET : VP0610T
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-VP0610T](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-VP0610T)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETVP61T](http://oom.lt/SZKTRANSISTORFETVP61T)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/VP0610T/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/VP0610T/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/VP0610T/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/VP0610T/image.png)|||

@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKMCUSTSTM32F1STM32F11RGTX > MCU_ST_STM32F1 : STM32F101RGTx](#szkmcuststm32f1stm32f11rgtx--mcu_st_stm32f1--stm32f101rgtx)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: MCU_ST_STM32F1 : STM32F101RGTx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F1-STM32F101RGTx](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F1-STM32F101RGTx)
 - Short Link: [http://oom.lt/SZKMCUSTSTM32F1STM32F11RGTX](http://oom.lt/SZKMCUSTSTM32F1STM32F11RGTX)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32F1/STM32F101RGTx/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32F1/STM32F101RGTx/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32F1/STM32F101RGTx/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32F1/STM32F101RGTx/image.png)|||

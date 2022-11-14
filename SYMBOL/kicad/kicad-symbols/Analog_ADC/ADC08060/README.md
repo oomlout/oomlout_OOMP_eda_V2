@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKANALOGADCADC86 > Analog_ADC : ADC08060](#szkanalogadcadc86--analog_adc--adc08060)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Analog_ADC : ADC08060
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-ADC08060](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-ADC08060)
 - Short Link: [http://oom.lt/SZKANALOGADCADC86](http://oom.lt/SZKANALOGADCADC86)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Analog_ADC/ADC08060/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Analog_ADC/ADC08060/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Analog_ADC/ADC08060/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Analog_ADC/ADC08060/image.png)|||

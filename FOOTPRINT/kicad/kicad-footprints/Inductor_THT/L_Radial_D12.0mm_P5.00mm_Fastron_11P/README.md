@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKINLRD12P5FASTRON11P > Inductor_THT : L_Radial_D12.0mm_P5.00mm_Fastron_11P](#fzkinlrd12p5fastron11p--inductor_tht--l_radial_d120mm_p500mm_fastron_11p)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Inductor_THT : L_Radial_D12.0mm_P5.00mm_Fastron_11P
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Radial_D12.0mm_P5.00mm_Fastron_11P](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Radial_D12.0mm_P5.00mm_Fastron_11P)
 - Short Link: [http://oom.lt/FZKINLRD12P5FASTRON11P](http://oom.lt/FZKINLRD12P5FASTRON11P)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Radial_D12.0mm_P5.00mm_Fastron_11P/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Radial_D12.0mm_P5.00mm_Fastron_11P/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Radial_D12.0mm_P5.00mm_Fastron_11P/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Radial_D12.0mm_P5.00mm_Fastron_11P/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Radial_D12.0mm_P5.00mm_Fastron_11P/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Radial_D12.0mm_P5.00mm_Fastron_11P/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Radial_D12.0mm_P5.00mm_Fastron_11P/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Radial_D12.0mm_P5.00mm_Fastron_11P/kicadPcb3dBack.png)|

@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDEVICEQNPNDARLINGTONEBC > Device : Q_NPN_Darlington_EBC](#szkdeviceqnpndarlingtonebc--device--q_npn_darlington_ebc)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Device : Q_NPN_Darlington_EBC
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Q_NPN_Darlington_EBC](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Q_NPN_Darlington_EBC)
 - Short Link: [http://oom.lt/SZKDEVICEQNPNDARLINGTONEBC](http://oom.lt/SZKDEVICEQNPNDARLINGTONEBC)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/Q_NPN_Darlington_EBC/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/Q_NPN_Darlington_EBC/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/Q_NPN_Darlington_EBC/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/Q_NPN_Darlington_EBC/image.png)|||

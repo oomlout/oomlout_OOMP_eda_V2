@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKSENTEMPERATURETMP36XS > Sensor_Temperature : TMP36xS](#szksentemperaturetmp36xs--sensor_temperature--tmp36xs)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Sensor_Temperature : TMP36xS
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Temperature-TMP36xS](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Temperature-TMP36xS)
 - Short Link: [http://oom.lt/SZKSENTEMPERATURETMP36XS](http://oom.lt/SZKSENTEMPERATURETMP36XS)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Temperature/TMP36xS/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Temperature/TMP36xS/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Temperature/TMP36xS/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Temperature/TMP36xS/image.png)|||

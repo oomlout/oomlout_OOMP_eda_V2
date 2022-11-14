@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKFIBEROPTICAFBR1624Z > Fiber_Optic : AFBR-1624Z](#szkfiberopticafbr1624z--fiber_optic--afbr-1624z)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Fiber_Optic : AFBR-1624Z
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Fiber_Optic-AFBR-1624Z](http://oom.lt/SYMBOL-kicad-kicad-symbols-Fiber_Optic-AFBR-1624Z)
 - Short Link: [http://oom.lt/SZKFIBEROPTICAFBR1624Z](http://oom.lt/SZKFIBEROPTICAFBR1624Z)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Fiber_Optic/AFBR-1624Z/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Fiber_Optic/AFBR-1624Z/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Fiber_Optic/AFBR-1624Z/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Fiber_Optic/AFBR-1624Z/image.png)|||

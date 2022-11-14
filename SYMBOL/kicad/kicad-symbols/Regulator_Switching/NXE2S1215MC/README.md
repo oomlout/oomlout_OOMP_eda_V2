@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKREGULATORSWITCHINGNXE2S1215MC > Regulator_Switching : NXE2S1215MC](#szkregulatorswitchingnxe2s1215mc--regulator_switching--nxe2s1215mc)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Regulator_Switching : NXE2S1215MC
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-NXE2S1215MC](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-NXE2S1215MC)
 - Short Link: [http://oom.lt/SZKREGULATORSWITCHINGNXE2S1215MC](http://oom.lt/SZKREGULATORSWITCHINGNXE2S1215MC)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/NXE2S1215MC/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/NXE2S1215MC/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/NXE2S1215MC/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/NXE2S1215MC/image.png)|||

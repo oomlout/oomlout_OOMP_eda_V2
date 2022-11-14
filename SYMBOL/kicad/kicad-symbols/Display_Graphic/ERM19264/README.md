@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDIGRAPHICERM19264 > Display_Graphic : ERM19264](#szkdigraphicerm19264--display_graphic--erm19264)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Display_Graphic : ERM19264
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Graphic-ERM19264](http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Graphic-ERM19264)
 - Short Link: [http://oom.lt/SZKDIGRAPHICERM19264](http://oom.lt/SZKDIGRAPHICERM19264)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Display_Graphic/ERM19264/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Display_Graphic/ERM19264/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Display_Graphic/ERM19264/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Display_Graphic/ERM19264/image.png)|||

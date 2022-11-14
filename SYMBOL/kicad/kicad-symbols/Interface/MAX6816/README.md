@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKINTERFACEMAX6816 > Interface : MAX6816](#szkinterfacemax6816--interface--max6816)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Interface : MAX6816
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-MAX6816](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-MAX6816)
 - Short Link: [http://oom.lt/SZKINTERFACEMAX6816](http://oom.lt/SZKINTERFACEMAX6816)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface/MAX6816/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface/MAX6816/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface/MAX6816/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface/MAX6816/image.png)|||

@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKAMPLIFIERAUDIOMAX9715ETE+ > Amplifier_Audio : MAX9715ETE+](#szkamplifieraudiomax9715ete--amplifier_audio--max9715ete)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Amplifier_Audio : MAX9715ETE+
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Audio-MAX9715ETE+](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Audio-MAX9715ETE+)
 - Short Link: [http://oom.lt/SZKAMPLIFIERAUDIOMAX9715ETE+](http://oom.lt/SZKAMPLIFIERAUDIOMAX9715ETE+)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Amplifier_Audio/MAX9715ETE+/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Amplifier_Audio/MAX9715ETE+/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Amplifier_Audio/MAX9715ETE+/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Amplifier_Audio/MAX9715ETE+/image.png)|||

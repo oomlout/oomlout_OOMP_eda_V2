@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDIODESM6T75A > Diode : SM6T75A](#szkdiodesm6t75a--diode--sm6t75a)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Diode : SM6T75A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-SM6T75A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-SM6T75A)
 - Short Link: [http://oom.lt/SZKDIODESM6T75A](http://oom.lt/SZKDIODESM6T75A)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Diode/SM6T75A/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Diode/SM6T75A/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Diode/SM6T75A/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Diode/SM6T75A/image.png)|||

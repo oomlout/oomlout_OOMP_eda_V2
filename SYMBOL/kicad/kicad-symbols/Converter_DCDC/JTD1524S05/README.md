@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKCONJTD1524S5 > Converter_DCDC : JTD1524S05](#szkconjtd1524s5--converter_dcdc--jtd1524s05)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Converter_DCDC : JTD1524S05
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-JTD1524S05](http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-JTD1524S05)
 - Short Link: [http://oom.lt/SZKCONJTD1524S5](http://oom.lt/SZKCONJTD1524S5)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Converter_DCDC/JTD1524S05/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Converter_DCDC/JTD1524S05/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Converter_DCDC/JTD1524S05/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Converter_DCDC/JTD1524S05/image.png)|||

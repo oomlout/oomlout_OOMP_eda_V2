@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZEANALOGDEVICESSO8COOL > analog-devices : SO8-COOL](#fzeanalogdevicesso8cool--analog-devices--so8-cool)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: analog-devices : SO8-COOL
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-analog-devices-SO8-COOL](http://oom.lt/FOOTPRINT-eagle-eagle-default-analog-devices-SO8-COOL)
 - Short Link: [http://oom.lt/FZEANALOGDEVICESSO8COOL](http://oom.lt/FZEANALOGDEVICESSO8COOL)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/analog-devices/SO8-COOL/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/analog-devices/SO8-COOL/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/analog-devices/SO8-COOL/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/analog-devices/SO8-COOL/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/analog-devices/SO8-COOL/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/analog-devices/SO8-COOL/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/analog-devices/SO8-COOL/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/analog-devices/SO8-COOL/kicadPcb3dBack.png)|

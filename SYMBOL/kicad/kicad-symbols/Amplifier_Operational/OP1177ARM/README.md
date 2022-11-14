@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKAMPLIFIEROPERATIONALOP1177ARM > Amplifier_Operational : OP1177ARM](#szkamplifieroperationalop1177arm--amplifier_operational--op1177arm)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Amplifier_Operational : OP1177ARM
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-OP1177ARM](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-OP1177ARM)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALOP1177ARM](http://oom.lt/SZKAMPLIFIEROPERATIONALOP1177ARM)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/OP1177ARM/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/OP1177ARM/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/OP1177ARM/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/OP1177ARM/image.png)|||

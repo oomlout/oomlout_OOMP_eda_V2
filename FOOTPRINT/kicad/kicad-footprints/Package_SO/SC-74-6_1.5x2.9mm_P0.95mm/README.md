@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKSOSC74615X29P95 > Package_SO : SC-74-6_1.5x2.9mm_P0.95mm](#fzksosc74615x29p95--package_so--sc-74-6_15x29mm_p095mm)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Package_SO : SC-74-6_1.5x2.9mm_P0.95mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SO-SC-74-6_1.5x2.9mm_P0.95mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SO-SC-74-6_1.5x2.9mm_P0.95mm)
 - Short Link: [http://oom.lt/FZKSOSC74615X29P95](http://oom.lt/FZKSOSC74615X29P95)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/SC-74-6_1.5x2.9mm_P0.95mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/SC-74-6_1.5x2.9mm_P0.95mm/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/SC-74-6_1.5x2.9mm_P0.95mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/SC-74-6_1.5x2.9mm_P0.95mm/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/SC-74-6_1.5x2.9mm_P0.95mm/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/SC-74-6_1.5x2.9mm_P0.95mm/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/SC-74-6_1.5x2.9mm_P0.95mm/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/SC-74-6_1.5x2.9mm_P0.95mm/kicadPcb3dBack.png)|

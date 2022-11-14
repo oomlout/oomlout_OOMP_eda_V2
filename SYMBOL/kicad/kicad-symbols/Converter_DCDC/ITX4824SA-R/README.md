@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKCONITX4824SAR > Converter_DCDC : ITX4824SA-R](#szkconitx4824sar--converter_dcdc--itx4824sa-r)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Converter_DCDC : ITX4824SA-R
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-ITX4824SA-R](http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-ITX4824SA-R)
 - Short Link: [http://oom.lt/SZKCONITX4824SAR](http://oom.lt/SZKCONITX4824SAR)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Converter_DCDC/ITX4824SA-R/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Converter_DCDC/ITX4824SA-R/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Converter_DCDC/ITX4824SA-R/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Converter_DCDC/ITX4824SA-R/image.png)|||

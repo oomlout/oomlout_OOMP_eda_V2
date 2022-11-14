@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKTRANSISTORFETDMN223U > Transistor_FET : DMN2230U](#szktransistorfetdmn223u--transistor_fet--dmn2230u)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Transistor_FET : DMN2230U
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-DMN2230U](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-DMN2230U)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETDMN223U](http://oom.lt/SZKTRANSISTORFETDMN223U)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/DMN2230U/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/DMN2230U/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/DMN2230U/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/DMN2230U/image.png)|||

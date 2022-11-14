@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKPSPICEOPAMP > pspice : OPAMP](#szkpspiceopamp--pspice--opamp)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: pspice : OPAMP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-pspice-OPAMP](http://oom.lt/SYMBOL-kicad-kicad-symbols-pspice-OPAMP)
 - Short Link: [http://oom.lt/SZKPSPICEOPAMP](http://oom.lt/SZKPSPICEOPAMP)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/pspice/OPAMP/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/pspice/OPAMP/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/pspice/OPAMP/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/pspice/OPAMP/image.png)|||

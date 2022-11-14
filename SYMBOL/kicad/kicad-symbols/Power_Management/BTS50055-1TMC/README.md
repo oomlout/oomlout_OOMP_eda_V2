@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKPOWERMANAGEMENTBTS5551TMC > Power_Management : BTS50055-1TMC](#szkpowermanagementbts5551tmc--power_management--bts50055-1tmc)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Power_Management : BTS50055-1TMC
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-BTS50055-1TMC](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-BTS50055-1TMC)
 - Short Link: [http://oom.lt/SZKPOWERMANAGEMENTBTS5551TMC](http://oom.lt/SZKPOWERMANAGEMENTBTS5551TMC)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Power_Management/BTS50055-1TMC/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Power_Management/BTS50055-1TMC/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Power_Management/BTS50055-1TMC/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Power_Management/BTS50055-1TMC/image.png)|||

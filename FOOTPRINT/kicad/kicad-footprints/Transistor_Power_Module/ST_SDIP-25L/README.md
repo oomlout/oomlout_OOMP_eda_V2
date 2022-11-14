@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKTRANSISTORPOWERMOSTSDIP25L > Transistor_Power_Module : ST_SDIP-25L](#fzktransistorpowermostsdip25l--transistor_power_module--st_sdip-25l)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Transistor_Power_Module : ST_SDIP-25L
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Transistor_Power_Module-ST_SDIP-25L](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Transistor_Power_Module-ST_SDIP-25L)
 - Short Link: [http://oom.lt/FZKTRANSISTORPOWERMOSTSDIP25L](http://oom.lt/FZKTRANSISTORPOWERMOSTSDIP25L)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Transistor_Power_Module/ST_SDIP-25L/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Transistor_Power_Module/ST_SDIP-25L/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Transistor_Power_Module/ST_SDIP-25L/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Transistor_Power_Module/ST_SDIP-25L/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Transistor_Power_Module/ST_SDIP-25L/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Transistor_Power_Module/ST_SDIP-25L/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Transistor_Power_Module/ST_SDIP-25L/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Transistor_Power_Module/ST_SDIP-25L/kicadPcb3dBack.png)|

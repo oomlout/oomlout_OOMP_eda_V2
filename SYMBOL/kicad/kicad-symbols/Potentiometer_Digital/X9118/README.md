@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKPOTENTIOMETERDIGITALX9118 > Potentiometer_Digital : X9118](#szkpotentiometerdigitalx9118--potentiometer_digital--x9118)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Potentiometer_Digital : X9118
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Potentiometer_Digital-X9118](http://oom.lt/SYMBOL-kicad-kicad-symbols-Potentiometer_Digital-X9118)
 - Short Link: [http://oom.lt/SZKPOTENTIOMETERDIGITALX9118](http://oom.lt/SZKPOTENTIOMETERDIGITALX9118)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Potentiometer_Digital/X9118/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Potentiometer_Digital/X9118/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Potentiometer_Digital/X9118/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Potentiometer_Digital/X9118/image.png)|||

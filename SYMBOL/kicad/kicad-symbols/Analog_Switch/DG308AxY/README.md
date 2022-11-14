@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKANALOGSWITCHDG38AXY > Analog_Switch : DG308AxY](#szkanalogswitchdg38axy--analog_switch--dg308axy)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Analog_Switch : DG308AxY
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_Switch-DG308AxY](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_Switch-DG308AxY)
 - Short Link: [http://oom.lt/SZKANALOGSWITCHDG38AXY](http://oom.lt/SZKANALOGSWITCHDG38AXY)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Analog_Switch/DG308AxY/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Analog_Switch/DG308AxY/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Analog_Switch/DG308AxY/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Analog_Switch/DG308AxY/image.png)|||

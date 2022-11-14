@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDIGRAPHICEAEDIP24J7LW > Display_Graphic : EA_eDIP240J-7LW](#szkdigraphiceaedip24j7lw--display_graphic--ea_edip240j-7lw)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Display_Graphic : EA_eDIP240J-7LW
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Graphic-EA_eDIP240J-7LW](http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Graphic-EA_eDIP240J-7LW)
 - Short Link: [http://oom.lt/SZKDIGRAPHICEAEDIP24J7LW](http://oom.lt/SZKDIGRAPHICEAEDIP24J7LW)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Display_Graphic/EA_eDIP240J-7LW/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Display_Graphic/EA_eDIP240J-7LW/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Display_Graphic/EA_eDIP240J-7LW/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Display_Graphic/EA_eDIP240J-7LW/image.png)|||

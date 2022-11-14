@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKINLRL75W46P5NEOSIDSD75 > Inductor_THT : L_Radial_L7.5mm_W4.6mm_P5.00mm_Neosid_SD75](#fzkinlrl75w46p5neosidsd75--inductor_tht--l_radial_l75mm_w46mm_p500mm_neosid_sd75)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Inductor_THT : L_Radial_L7.5mm_W4.6mm_P5.00mm_Neosid_SD75
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Radial_L7.5mm_W4.6mm_P5.00mm_Neosid_SD75](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Radial_L7.5mm_W4.6mm_P5.00mm_Neosid_SD75)
 - Short Link: [http://oom.lt/FZKINLRL75W46P5NEOSIDSD75](http://oom.lt/FZKINLRL75W46P5NEOSIDSD75)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Radial_L7.5mm_W4.6mm_P5.00mm_Neosid_SD75/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Radial_L7.5mm_W4.6mm_P5.00mm_Neosid_SD75/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Radial_L7.5mm_W4.6mm_P5.00mm_Neosid_SD75/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Radial_L7.5mm_W4.6mm_P5.00mm_Neosid_SD75/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Radial_L7.5mm_W4.6mm_P5.00mm_Neosid_SD75/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Radial_L7.5mm_W4.6mm_P5.00mm_Neosid_SD75/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Radial_L7.5mm_W4.6mm_P5.00mm_Neosid_SD75/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Radial_L7.5mm_W4.6mm_P5.00mm_Neosid_SD75/kicadPcb3dBack.png)|

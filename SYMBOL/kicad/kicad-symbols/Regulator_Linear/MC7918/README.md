@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKREGULATORLINEARMC7918 > Regulator_Linear : MC7918](#szkregulatorlinearmc7918--regulator_linear--mc7918)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Regulator_Linear : MC7918
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-MC7918](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-MC7918)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARMC7918](http://oom.lt/SZKREGULATORLINEARMC7918)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/MC7918/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/MC7918/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/MC7918/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/MC7918/image.png)|||

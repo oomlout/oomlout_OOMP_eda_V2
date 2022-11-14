@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKMCUNXPLPCLPC11E12FBD4821 > MCU_NXP_LPC : LPC11E12FBD48-201](#szkmcunxplpclpc11e12fbd4821--mcu_nxp_lpc--lpc11e12fbd48-201)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: MCU_NXP_LPC : LPC11E12FBD48-201
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_NXP_LPC-LPC11E12FBD48-201](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_NXP_LPC-LPC11E12FBD48-201)
 - Short Link: [http://oom.lt/SZKMCUNXPLPCLPC11E12FBD4821](http://oom.lt/SZKMCUNXPLPCLPC11E12FBD4821)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_NXP_LPC/LPC11E12FBD48-201/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_NXP_LPC/LPC11E12FBD48-201/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_NXP_LPC/LPC11E12FBD48-201/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_NXP_LPC/LPC11E12FBD48-201/image.png)|||

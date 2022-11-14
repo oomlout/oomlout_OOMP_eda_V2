@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDIODE1N546 > Diode : 1N5406](#szkdiode1n546--diode--1n5406)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Diode : 1N5406
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-1N5406](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-1N5406)
 - Short Link: [http://oom.lt/SZKDIODE1N546](http://oom.lt/SZKDIODE1N546)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Diode/1N5406/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Diode/1N5406/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Diode/1N5406/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Diode/1N5406/image.png)|||

@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKMCUMCHIPPIC1PIC1F32IOT > MCU_Microchip_PIC10 : PIC10F320-IOT](#szkmcumchippic1pic1f32iot--mcu_microchip_pic10--pic10f320-iot)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: MCU_Microchip_PIC10 : PIC10F320-IOT
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC10-PIC10F320-IOT](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC10-PIC10F320-IOT)
 - Short Link: [http://oom.lt/SZKMCUMCHIPPIC1PIC1F32IOT](http://oom.lt/SZKMCUMCHIPPIC1PIC1F32IOT)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC10/PIC10F320-IOT/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC10/PIC10F320-IOT/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC10/PIC10F320-IOT/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC10/PIC10F320-IOT/image.png)|||

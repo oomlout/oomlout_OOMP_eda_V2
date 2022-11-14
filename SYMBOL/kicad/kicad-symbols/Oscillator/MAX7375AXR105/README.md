@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKOCSMAX7375AXR15 > Oscillator : MAX7375AXR105](#szkocsmax7375axr15--oscillator--max7375axr105)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Oscillator : MAX7375AXR105
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Oscillator-MAX7375AXR105](http://oom.lt/SYMBOL-kicad-kicad-symbols-Oscillator-MAX7375AXR105)
 - Short Link: [http://oom.lt/SZKOCSMAX7375AXR15](http://oom.lt/SZKOCSMAX7375AXR15)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Oscillator/MAX7375AXR105/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Oscillator/MAX7375AXR105/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Oscillator/MAX7375AXR105/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Oscillator/MAX7375AXR105/image.png)|||

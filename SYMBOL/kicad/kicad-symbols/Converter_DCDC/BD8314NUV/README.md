@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKCONBD8314NUV > Converter_DCDC : BD8314NUV](#szkconbd8314nuv--converter_dcdc--bd8314nuv)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Converter_DCDC : BD8314NUV
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-BD8314NUV](http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-BD8314NUV)
 - Short Link: [http://oom.lt/SZKCONBD8314NUV](http://oom.lt/SZKCONBD8314NUV)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Converter_DCDC/BD8314NUV/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Converter_DCDC/BD8314NUV/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Converter_DCDC/BD8314NUV/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Converter_DCDC/BD8314NUV/image.png)|||

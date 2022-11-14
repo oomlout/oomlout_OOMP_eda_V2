@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKANALOGADCMCP3427XUN > Analog_ADC : MCP3427-xUN](#szkanalogadcmcp3427xun--analog_adc--mcp3427-xun)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Analog_ADC : MCP3427-xUN
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-MCP3427-xUN](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-MCP3427-xUN)
 - Short Link: [http://oom.lt/SZKANALOGADCMCP3427XUN](http://oom.lt/SZKANALOGADCMCP3427XUN)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Analog_ADC/MCP3427-xUN/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Analog_ADC/MCP3427-xUN/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Analog_ADC/MCP3427-xUN/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Analog_ADC/MCP3427-xUN/image.png)|||

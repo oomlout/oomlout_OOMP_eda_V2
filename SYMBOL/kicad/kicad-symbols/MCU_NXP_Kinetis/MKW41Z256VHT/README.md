@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKMCUNXPKINETISMKW41Z256VHT > MCU_NXP_Kinetis : MKW41Z256VHT](#szkmcunxpkinetismkw41z256vht--mcu_nxp_kinetis--mkw41z256vht)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: MCU_NXP_Kinetis : MKW41Z256VHT
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_NXP_Kinetis-MKW41Z256VHT](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_NXP_Kinetis-MKW41Z256VHT)
 - Short Link: [http://oom.lt/SZKMCUNXPKINETISMKW41Z256VHT](http://oom.lt/SZKMCUNXPKINETISMKW41Z256VHT)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_NXP_Kinetis/MKW41Z256VHT/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_NXP_Kinetis/MKW41Z256VHT/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_NXP_Kinetis/MKW41Z256VHT/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_NXP_Kinetis/MKW41Z256VHT/image.png)|||

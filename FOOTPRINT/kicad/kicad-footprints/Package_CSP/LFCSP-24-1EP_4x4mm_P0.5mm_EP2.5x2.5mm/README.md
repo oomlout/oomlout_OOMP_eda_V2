@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKCSPLFCSP241EP4X4P5EP25X25 > Package_CSP : LFCSP-24-1EP_4x4mm_P0.5mm_EP2.5x2.5mm](#fzkcsplfcsp241ep4x4p5ep25x25--package_csp--lfcsp-24-1ep_4x4mm_p05mm_ep25x25mm)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Package_CSP : LFCSP-24-1EP_4x4mm_P0.5mm_EP2.5x2.5mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_CSP-LFCSP-24-1EP_4x4mm_P0.5mm_EP2.5x2.5mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_CSP-LFCSP-24-1EP_4x4mm_P0.5mm_EP2.5x2.5mm)
 - Short Link: [http://oom.lt/FZKCSPLFCSP241EP4X4P5EP25X25](http://oom.lt/FZKCSPLFCSP241EP4X4P5EP25X25)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_CSP/LFCSP-24-1EP_4x4mm_P0.5mm_EP2.5x2.5mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_CSP/LFCSP-24-1EP_4x4mm_P0.5mm_EP2.5x2.5mm/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_CSP/LFCSP-24-1EP_4x4mm_P0.5mm_EP2.5x2.5mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_CSP/LFCSP-24-1EP_4x4mm_P0.5mm_EP2.5x2.5mm/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_CSP/LFCSP-24-1EP_4x4mm_P0.5mm_EP2.5x2.5mm/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_CSP/LFCSP-24-1EP_4x4mm_P0.5mm_EP2.5x2.5mm/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_CSP/LFCSP-24-1EP_4x4mm_P0.5mm_EP2.5x2.5mm/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_CSP/LFCSP-24-1EP_4x4mm_P0.5mm_EP2.5x2.5mm/kicadPcb3dBack.png)|

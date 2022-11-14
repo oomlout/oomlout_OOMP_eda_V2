@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKCOMPARATORLM393 > Comparator : LM393](#szkcomparatorlm393--comparator--lm393)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Comparator : LM393
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Comparator-LM393](http://oom.lt/SYMBOL-kicad-kicad-symbols-Comparator-LM393)
 - Short Link: [http://oom.lt/SZKCOMPARATORLM393](http://oom.lt/SZKCOMPARATORLM393)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Comparator/LM393/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Comparator/LM393/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Comparator/LM393/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Comparator/LM393/image.png)|||

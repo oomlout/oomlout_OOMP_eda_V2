@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKCNIEEE1394A > Connector : IEEE1394a](#szkcnieee1394a--connector--ieee1394a)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Connector : IEEE1394a
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-IEEE1394a](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-IEEE1394a)
 - Short Link: [http://oom.lt/SZKCNIEEE1394A](http://oom.lt/SZKCNIEEE1394A)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/IEEE1394a/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/IEEE1394a/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/IEEE1394a/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/IEEE1394a/image.png)|||

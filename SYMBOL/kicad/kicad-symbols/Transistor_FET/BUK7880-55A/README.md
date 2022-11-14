@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKTRANSISTORFETBUK78855A > Transistor_FET : BUK7880-55A](#szktransistorfetbuk78855a--transistor_fet--buk7880-55a)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Transistor_FET : BUK7880-55A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-BUK7880-55A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-BUK7880-55A)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETBUK78855A](http://oom.lt/SZKTRANSISTORFETBUK78855A)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/BUK7880-55A/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/BUK7880-55A/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/BUK7880-55A/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/BUK7880-55A/image.png)|||

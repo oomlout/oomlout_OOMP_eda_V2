@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDICHARACTERD168K > Display_Character : D168K](#szkdicharacterd168k--display_character--d168k)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Display_Character : D168K
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-D168K](http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-D168K)
 - Short Link: [http://oom.lt/SZKDICHARACTERD168K](http://oom.lt/SZKDICHARACTERD168K)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Display_Character/D168K/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Display_Character/D168K/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Display_Character/D168K/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Display_Character/D168K/image.png)|||

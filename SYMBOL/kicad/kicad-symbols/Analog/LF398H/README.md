@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKANALOGLF398H > Analog : LF398H](#szkanaloglf398h--analog--lf398h)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Analog : LF398H
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog-LF398H](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog-LF398H)
 - Short Link: [http://oom.lt/SZKANALOGLF398H](http://oom.lt/SZKANALOGLF398H)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Analog/LF398H/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Analog/LF398H/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Analog/LF398H/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Analog/LF398H/image.png)|||

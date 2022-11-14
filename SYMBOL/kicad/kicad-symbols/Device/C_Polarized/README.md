@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDEVICECPOLARIZED > Device : C_Polarized](#szkdevicecpolarized--device--c_polarized)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Device : C_Polarized
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-C_Polarized](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-C_Polarized)
 - Short Link: [http://oom.lt/SZKDEVICECPOLARIZED](http://oom.lt/SZKDEVICECPOLARIZED)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/C_Polarized/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/C_Polarized/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/C_Polarized/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/C_Polarized/image.png)|||

@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKPOWERVMEM > power : VMEM](#szkpowervmem--power--vmem)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: power : VMEM
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-power-VMEM](http://oom.lt/SYMBOL-kicad-kicad-symbols-power-VMEM)
 - Short Link: [http://oom.lt/SZKPOWERVMEM](http://oom.lt/SZKPOWERVMEM)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/power/VMEM/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/power/VMEM/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/power/VMEM/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/power/VMEM/image.png)|||

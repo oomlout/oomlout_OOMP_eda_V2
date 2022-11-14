@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDRIVERMOTORSTSPIN23 > Driver_Motor : STSPIN230](#szkdrivermotorstspin23--driver_motor--stspin230)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Driver_Motor : STSPIN230
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_Motor-STSPIN230](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_Motor-STSPIN230)
 - Short Link: [http://oom.lt/SZKDRIVERMOTORSTSPIN23](http://oom.lt/SZKDRIVERMOTORSTSPIN23)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Driver_Motor/STSPIN230/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Driver_Motor/STSPIN230/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Driver_Motor/STSPIN230/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Driver_Motor/STSPIN230/image.png)|||

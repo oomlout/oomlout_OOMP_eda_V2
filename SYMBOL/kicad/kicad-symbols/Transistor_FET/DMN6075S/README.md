@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKTRANSISTORFETDMN675S > Transistor_FET : DMN6075S](#szktransistorfetdmn675s--transistor_fet--dmn6075s)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Transistor_FET : DMN6075S
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-DMN6075S](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-DMN6075S)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETDMN675S](http://oom.lt/SZKTRANSISTORFETDMN675S)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/DMN6075S/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/DMN6075S/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/DMN6075S/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/DMN6075S/image.png)|||

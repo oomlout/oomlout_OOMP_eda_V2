@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKAMPLIFIERAUDIOPAM832AAY > Amplifier_Audio : PAM8302AAY](#szkamplifieraudiopam832aay--amplifier_audio--pam8302aay)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Amplifier_Audio : PAM8302AAY
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Audio-PAM8302AAY](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Audio-PAM8302AAY)
 - Short Link: [http://oom.lt/SZKAMPLIFIERAUDIOPAM832AAY](http://oom.lt/SZKAMPLIFIERAUDIOPAM832AAY)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Amplifier_Audio/PAM8302AAY/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Amplifier_Audio/PAM8302AAY/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Amplifier_Audio/PAM8302AAY/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Amplifier_Audio/PAM8302AAY/image.png)|||

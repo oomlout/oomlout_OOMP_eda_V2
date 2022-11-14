@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKRESISTORSMR1542METRICPAD57X3HANDSOLDER > Resistor_SMD : R_01005_0402Metric_Pad0.57x0.30mm_HandSolder](#fzkresistorsmr1542metricpad57x3handsolder--resistor_smd--r_01005_0402metric_pad057x030mm_handsolder)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Resistor_SMD : R_01005_0402Metric_Pad0.57x0.30mm_HandSolder
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_01005_0402Metric_Pad0.57x0.30mm_HandSolder](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_01005_0402Metric_Pad0.57x0.30mm_HandSolder)
 - Short Link: [http://oom.lt/FZKRESISTORSMR1542METRICPAD57X3HANDSOLDER](http://oom.lt/FZKRESISTORSMR1542METRICPAD57X3HANDSOLDER)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_01005_0402Metric_Pad0.57x0.30mm_HandSolder/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_01005_0402Metric_Pad0.57x0.30mm_HandSolder/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_01005_0402Metric_Pad0.57x0.30mm_HandSolder/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_01005_0402Metric_Pad0.57x0.30mm_HandSolder/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_01005_0402Metric_Pad0.57x0.30mm_HandSolder/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_01005_0402Metric_Pad0.57x0.30mm_HandSolder/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_01005_0402Metric_Pad0.57x0.30mm_HandSolder/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_01005_0402Metric_Pad0.57x0.30mm_HandSolder/kicadPcb3dBack.png)|

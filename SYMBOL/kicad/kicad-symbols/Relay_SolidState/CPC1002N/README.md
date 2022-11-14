@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKRELAYSOLIDSTATECPC12N > Relay_SolidState : CPC1002N](#szkrelaysolidstatecpc12n--relay_solidstate--cpc1002n)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Relay_SolidState : CPC1002N
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay_SolidState-CPC1002N](http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay_SolidState-CPC1002N)
 - Short Link: [http://oom.lt/SZKRELAYSOLIDSTATECPC12N](http://oom.lt/SZKRELAYSOLIDSTATECPC12N)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Relay_SolidState/CPC1002N/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Relay_SolidState/CPC1002N/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Relay_SolidState/CPC1002N/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Relay_SolidState/CPC1002N/image.png)|||

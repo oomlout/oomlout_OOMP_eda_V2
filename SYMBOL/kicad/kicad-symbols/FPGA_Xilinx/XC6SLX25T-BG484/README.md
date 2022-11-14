@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKFPGAXILINXXC6SLX25TBG484 > FPGA_Xilinx : XC6SLX25T-BG484](#szkfpgaxilinxxc6slx25tbg484--fpga_xilinx--xc6slx25t-bg484)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: FPGA_Xilinx : XC6SLX25T-BG484
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-FPGA_Xilinx-XC6SLX25T-BG484](http://oom.lt/SYMBOL-kicad-kicad-symbols-FPGA_Xilinx-XC6SLX25T-BG484)
 - Short Link: [http://oom.lt/SZKFPGAXILINXXC6SLX25TBG484](http://oom.lt/SZKFPGAXILINXXC6SLX25TBG484)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/FPGA_Xilinx/XC6SLX25T-BG484/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/FPGA_Xilinx/XC6SLX25T-BG484/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/FPGA_Xilinx/XC6SLX25T-BG484/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/FPGA_Xilinx/XC6SLX25T-BG484/image.png)|||

@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKAMPLIFIERINSTRUMENTATIONAD623AR > Amplifier_Instrumentation : AD623AR](#szkamplifierinstrumentationad623ar--amplifier_instrumentation--ad623ar)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Amplifier_Instrumentation : AD623AR
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Instrumentation-AD623AR](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Instrumentation-AD623AR)
 - Short Link: [http://oom.lt/SZKAMPLIFIERINSTRUMENTATIONAD623AR](http://oom.lt/SZKAMPLIFIERINSTRUMENTATIONAD623AR)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Amplifier_Instrumentation/AD623AR/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Amplifier_Instrumentation/AD623AR/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Amplifier_Instrumentation/AD623AR/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Amplifier_Instrumentation/AD623AR/image.png)|||

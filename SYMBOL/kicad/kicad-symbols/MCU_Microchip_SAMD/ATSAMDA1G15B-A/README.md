@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKMCUMCHIPSAMDATSAMDA1G15BA > MCU_Microchip_SAMD : ATSAMDA1G15B-A](#szkmcumchipsamdatsamda1g15ba--mcu_microchip_samd--atsamda1g15b-a)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: MCU_Microchip_SAMD : ATSAMDA1G15B-A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_SAMD-ATSAMDA1G15B-A](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_SAMD-ATSAMDA1G15B-A)
 - Short Link: [http://oom.lt/SZKMCUMCHIPSAMDATSAMDA1G15BA](http://oom.lt/SZKMCUMCHIPSAMDATSAMDA1G15BA)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_SAMD/ATSAMDA1G15B-A/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_SAMD/ATSAMDA1G15B-A/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_SAMD/ATSAMDA1G15B-A/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_SAMD/ATSAMDA1G15B-A/image.png)|||

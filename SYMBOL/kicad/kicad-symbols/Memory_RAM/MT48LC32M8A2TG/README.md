@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKMEMORYRAMMT48LC32M8A2TG > Memory_RAM : MT48LC32M8A2TG](#szkmemoryrammt48lc32m8a2tg--memory_ram--mt48lc32m8a2tg)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Memory_RAM : MT48LC32M8A2TG
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_RAM-MT48LC32M8A2TG](http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_RAM-MT48LC32M8A2TG)
 - Short Link: [http://oom.lt/SZKMEMORYRAMMT48LC32M8A2TG](http://oom.lt/SZKMEMORYRAMMT48LC32M8A2TG)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Memory_RAM/MT48LC32M8A2TG/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Memory_RAM/MT48LC32M8A2TG/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Memory_RAM/MT48LC32M8A2TG/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Memory_RAM/MT48LC32M8A2TG/image.png)|||

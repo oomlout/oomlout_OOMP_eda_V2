@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDIODEPMEG61ELR > Diode : PMEG6010ELR](#szkdiodepmeg61elr--diode--pmeg6010elr)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Diode : PMEG6010ELR
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-PMEG6010ELR](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-PMEG6010ELR)
 - Short Link: [http://oom.lt/SZKDIODEPMEG61ELR](http://oom.lt/SZKDIODEPMEG61ELR)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Diode/PMEG6010ELR/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Diode/PMEG6010ELR/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Diode/PMEG6010ELR/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Diode/PMEG6010ELR/image.png)|||

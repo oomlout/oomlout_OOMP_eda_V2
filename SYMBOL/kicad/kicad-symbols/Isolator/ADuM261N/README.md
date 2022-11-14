@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKISOLATORADUM261N > Isolator : ADuM261N](#szkisolatoradum261n--isolator--adum261n)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Isolator : ADuM261N
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-ADuM261N](http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-ADuM261N)
 - Short Link: [http://oom.lt/SZKISOLATORADUM261N](http://oom.lt/SZKISOLATORADUM261N)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Isolator/ADuM261N/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Isolator/ADuM261N/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Isolator/ADuM261N/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Isolator/ADuM261N/image.png)|||

@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKREGULATORLINEARLK112M25TR > Regulator_Linear : LK112M25TR](#szkregulatorlinearlk112m25tr--regulator_linear--lk112m25tr)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Regulator_Linear : LK112M25TR
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LK112M25TR](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LK112M25TR)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARLK112M25TR](http://oom.lt/SZKREGULATORLINEARLK112M25TR)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LK112M25TR/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LK112M25TR/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LK112M25TR/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LK112M25TR/image.png)|||

@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKAMPLIFIERDIFFERENCETHS4551XRGT > Amplifier_Difference : THS4551xRGT](#szkamplifierdifferenceths4551xrgt--amplifier_difference--ths4551xrgt)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Amplifier_Difference : THS4551xRGT
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Difference-THS4551xRGT](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Difference-THS4551xRGT)
 - Short Link: [http://oom.lt/SZKAMPLIFIERDIFFERENCETHS4551XRGT](http://oom.lt/SZKAMPLIFIERDIFFERENCETHS4551XRGT)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Amplifier_Difference/THS4551xRGT/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Amplifier_Difference/THS4551xRGT/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Amplifier_Difference/THS4551xRGT/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Amplifier_Difference/THS4551xRGT/image.png)|||

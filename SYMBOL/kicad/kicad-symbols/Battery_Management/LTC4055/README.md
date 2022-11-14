@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKBATMANAGEMENTLTC455 > Battery_Management : LTC4055](#szkbatmanagementltc455--battery_management--ltc4055)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Battery_Management : LTC4055
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Battery_Management-LTC4055](http://oom.lt/SYMBOL-kicad-kicad-symbols-Battery_Management-LTC4055)
 - Short Link: [http://oom.lt/SZKBATMANAGEMENTLTC455](http://oom.lt/SZKBATMANAGEMENTLTC455)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Battery_Management/LTC4055/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Battery_Management/LTC4055/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Battery_Management/LTC4055/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Battery_Management/LTC4055/image.png)|||

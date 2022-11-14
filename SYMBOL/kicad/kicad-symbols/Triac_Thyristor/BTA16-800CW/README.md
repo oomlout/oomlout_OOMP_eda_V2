@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKTRIACTHYRISTORBTA168CW > Triac_Thyristor : BTA16-800CW](#szktriacthyristorbta168cw--triac_thyristor--bta16-800cw)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Triac_Thyristor : BTA16-800CW
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Triac_Thyristor-BTA16-800CW](http://oom.lt/SYMBOL-kicad-kicad-symbols-Triac_Thyristor-BTA16-800CW)
 - Short Link: [http://oom.lt/SZKTRIACTHYRISTORBTA168CW](http://oom.lt/SZKTRIACTHYRISTORBTA168CW)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Triac_Thyristor/BTA16-800CW/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Triac_Thyristor/BTA16-800CW/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Triac_Thyristor/BTA16-800CW/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Triac_Thyristor/BTA16-800CW/image.png)|||

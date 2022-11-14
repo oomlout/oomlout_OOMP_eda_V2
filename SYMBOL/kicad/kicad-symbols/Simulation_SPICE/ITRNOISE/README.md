@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKSIMULATIONSPICEITRNOISE > Simulation_SPICE : ITRNOISE](#szksimulationspiceitrnoise--simulation_spice--itrnoise)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Simulation_SPICE : ITRNOISE
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Simulation_SPICE-ITRNOISE](http://oom.lt/SYMBOL-kicad-kicad-symbols-Simulation_SPICE-ITRNOISE)
 - Short Link: [http://oom.lt/SZKSIMULATIONSPICEITRNOISE](http://oom.lt/SZKSIMULATIONSPICEITRNOISE)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Simulation_SPICE/ITRNOISE/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Simulation_SPICE/ITRNOISE/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Simulation_SPICE/ITRNOISE/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Simulation_SPICE/ITRNOISE/image.png)|||

@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKFUFULITTELFU395SERIES > Fuse : Fuse_Littelfuse_395Series](#fzkfufulittelfu395series--fuse--fuse_littelfuse_395series)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Fuse : Fuse_Littelfuse_395Series
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Fuse-Fuse_Littelfuse_395Series](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Fuse-Fuse_Littelfuse_395Series)
 - Short Link: [http://oom.lt/FZKFUFULITTELFU395SERIES](http://oom.lt/FZKFUFULITTELFU395SERIES)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Fuse/Fuse_Littelfuse_395Series/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Fuse/Fuse_Littelfuse_395Series/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Fuse/Fuse_Littelfuse_395Series/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Fuse/Fuse_Littelfuse_395Series/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Fuse/Fuse_Littelfuse_395Series/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Fuse/Fuse_Littelfuse_395Series/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Fuse/Fuse_Littelfuse_395Series/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Fuse/Fuse_Littelfuse_395Series/kicadPcb3dBack.png)|

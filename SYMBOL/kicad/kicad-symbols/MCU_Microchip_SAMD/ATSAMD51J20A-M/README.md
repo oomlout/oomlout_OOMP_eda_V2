@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKMCUMCHIPSAMDATSAMD51J2AM > MCU_Microchip_SAMD : ATSAMD51J20A-M](#szkmcumchipsamdatsamd51j2am--mcu_microchip_samd--atsamd51j20a-m)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: MCU_Microchip_SAMD : ATSAMD51J20A-M
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_SAMD-ATSAMD51J20A-M](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_SAMD-ATSAMD51J20A-M)
 - Short Link: [http://oom.lt/SZKMCUMCHIPSAMDATSAMD51J2AM](http://oom.lt/SZKMCUMCHIPSAMDATSAMD51J2AM)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_SAMD/ATSAMD51J20A-M/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_SAMD/ATSAMD51J20A-M/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_SAMD/ATSAMD51J20A-M/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_SAMD/ATSAMD51J20A-M/image.png)|||

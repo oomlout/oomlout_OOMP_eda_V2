@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKINTERFACECANLINTCAN143XDXQ1 > Interface_CAN_LIN : TCAN1043xDxQ1](#szkinterfacecanlintcan143xdxq1--interface_can_lin--tcan1043xdxq1)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Interface_CAN_LIN : TCAN1043xDxQ1
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_CAN_LIN-TCAN1043xDxQ1](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_CAN_LIN-TCAN1043xDxQ1)
 - Short Link: [http://oom.lt/SZKINTERFACECANLINTCAN143XDXQ1](http://oom.lt/SZKINTERFACECANLINTCAN143XDXQ1)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface_CAN_LIN/TCAN1043xDxQ1/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface_CAN_LIN/TCAN1043xDxQ1/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface_CAN_LIN/TCAN1043xDxQ1/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface_CAN_LIN/TCAN1043xDxQ1/image.png)|||

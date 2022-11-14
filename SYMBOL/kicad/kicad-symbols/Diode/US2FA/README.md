@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDIODEUS2FA > Diode : US2FA](#szkdiodeus2fa--diode--us2fa)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Diode : US2FA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-US2FA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-US2FA)
 - Short Link: [http://oom.lt/SZKDIODEUS2FA](http://oom.lt/SZKDIODEUS2FA)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Diode/US2FA/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Diode/US2FA/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Diode/US2FA/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Diode/US2FA/image.png)|||

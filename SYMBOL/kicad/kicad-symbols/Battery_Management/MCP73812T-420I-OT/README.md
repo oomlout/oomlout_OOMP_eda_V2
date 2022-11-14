@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKBATMANAGEMENTMCP73812T42IOT > Battery_Management : MCP73812T-420I-OT](#szkbatmanagementmcp73812t42iot--battery_management--mcp73812t-420i-ot)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Battery_Management : MCP73812T-420I-OT
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Battery_Management-MCP73812T-420I-OT](http://oom.lt/SYMBOL-kicad-kicad-symbols-Battery_Management-MCP73812T-420I-OT)
 - Short Link: [http://oom.lt/SZKBATMANAGEMENTMCP73812T42IOT](http://oom.lt/SZKBATMANAGEMENTMCP73812T42IOT)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Battery_Management/MCP73812T-420I-OT/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Battery_Management/MCP73812T-420I-OT/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Battery_Management/MCP73812T-420I-OT/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Battery_Management/MCP73812T-420I-OT/image.png)|||

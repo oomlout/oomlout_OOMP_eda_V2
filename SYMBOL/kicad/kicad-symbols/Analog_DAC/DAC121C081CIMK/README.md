@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKANALOGDACDAC121C81CIMK > Analog_DAC : DAC121C081CIMK](#szkanalogdacdac121c81cimk--analog_dac--dac121c081cimk)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Analog_DAC : DAC121C081CIMK
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_DAC-DAC121C081CIMK](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_DAC-DAC121C081CIMK)
 - Short Link: [http://oom.lt/SZKANALOGDACDAC121C81CIMK](http://oom.lt/SZKANALOGDACDAC121C81CIMK)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Analog_DAC/DAC121C081CIMK/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Analog_DAC/DAC121C081CIMK/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Analog_DAC/DAC121C081CIMK/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Analog_DAC/DAC121C081CIMK/image.png)|||

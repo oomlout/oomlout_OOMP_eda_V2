@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKREGULATORLINEARMIC29153WU > Regulator_Linear : MIC29153WU](#szkregulatorlinearmic29153wu--regulator_linear--mic29153wu)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Regulator_Linear : MIC29153WU
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-MIC29153WU](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-MIC29153WU)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARMIC29153WU](http://oom.lt/SZKREGULATORLINEARMIC29153WU)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/MIC29153WU/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/MIC29153WU/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/MIC29153WU/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/MIC29153WU/image.png)|||

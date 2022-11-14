@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKCNUUMBLUMBERG24861HORIZONTAL > Connector_USB : USB_Mini-B_Lumberg_2486_01_Horizontal](#fzkcnuumblumberg24861horizontal--connector_usb--usb_mini-b_lumberg_2486_01_horizontal)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Connector_USB : USB_Mini-B_Lumberg_2486_01_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_Mini-B_Lumberg_2486_01_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_Mini-B_Lumberg_2486_01_Horizontal)
 - Short Link: [http://oom.lt/FZKCNUUMBLUMBERG24861HORIZONTAL](http://oom.lt/FZKCNUUMBLUMBERG24861HORIZONTAL)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB_Mini-B_Lumberg_2486_01_Horizontal/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB_Mini-B_Lumberg_2486_01_Horizontal/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB_Mini-B_Lumberg_2486_01_Horizontal/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB_Mini-B_Lumberg_2486_01_Horizontal/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB_Mini-B_Lumberg_2486_01_Horizontal/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB_Mini-B_Lumberg_2486_01_Horizontal/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB_Mini-B_Lumberg_2486_01_Horizontal/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB_Mini-B_Lumberg_2486_01_Horizontal/kicadPcb3dBack.png)|

@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDRIVERMOTORSTSPIN24 > Driver_Motor : STSPIN240](#szkdrivermotorstspin24--driver_motor--stspin240)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Driver_Motor : STSPIN240
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_Motor-STSPIN240](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_Motor-STSPIN240)
 - Short Link: [http://oom.lt/SZKDRIVERMOTORSTSPIN24](http://oom.lt/SZKDRIVERMOTORSTSPIN24)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Driver_Motor/STSPIN240/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Driver_Motor/STSPIN240/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Driver_Motor/STSPIN240/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Driver_Motor/STSPIN240/image.png)|||

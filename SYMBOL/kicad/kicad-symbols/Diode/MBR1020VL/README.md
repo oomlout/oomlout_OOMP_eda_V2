@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDIODEMBR12VL > Diode : MBR1020VL](#szkdiodembr12vl--diode--mbr1020vl)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Diode : MBR1020VL
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-MBR1020VL](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-MBR1020VL)
 - Short Link: [http://oom.lt/SZKDIODEMBR12VL](http://oom.lt/SZKDIODEMBR12VL)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Diode/MBR1020VL/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Diode/MBR1020VL/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Diode/MBR1020VL/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Diode/MBR1020VL/image.png)|||

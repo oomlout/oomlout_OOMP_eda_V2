@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDRIVERMOTORSLA776MPRT > Driver_Motor : SLA7076MPRT](#szkdrivermotorsla776mprt--driver_motor--sla7076mprt)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Driver_Motor : SLA7076MPRT
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_Motor-SLA7076MPRT](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_Motor-SLA7076MPRT)
 - Short Link: [http://oom.lt/SZKDRIVERMOTORSLA776MPRT](http://oom.lt/SZKDRIVERMOTORSLA776MPRT)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Driver_Motor/SLA7076MPRT/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Driver_Motor/SLA7076MPRT/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Driver_Motor/SLA7076MPRT/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Driver_Motor/SLA7076MPRT/image.png)|||

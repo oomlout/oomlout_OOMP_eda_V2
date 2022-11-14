@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKINTERFACEHIDJOYWARRIOR24A8L > Interface_HID : JoyWarrior24A8L](#szkinterfacehidjoywarrior24a8l--interface_hid--joywarrior24a8l)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Interface_HID : JoyWarrior24A8L
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_HID-JoyWarrior24A8L](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_HID-JoyWarrior24A8L)
 - Short Link: [http://oom.lt/SZKINTERFACEHIDJOYWARRIOR24A8L](http://oom.lt/SZKINTERFACEHIDJOYWARRIOR24A8L)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface_HID/JoyWarrior24A8L/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface_HID/JoyWarrior24A8L/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface_HID/JoyWarrior24A8L/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface_HID/JoyWarrior24A8L/image.png)|||

@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKANALOGAD5593R > Analog : AD5593R](#szkanalogad5593r--analog--ad5593r)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Analog : AD5593R
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog-AD5593R](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog-AD5593R)
 - Short Link: [http://oom.lt/SZKANALOGAD5593R](http://oom.lt/SZKANALOGAD5593R)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Analog/AD5593R/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Analog/AD5593R/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Analog/AD5593R/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Analog/AD5593R/image.png)|||

@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKPOWERSUPERVISORTL775ACPSR > Power_Supervisor : TL7705ACPSR](#szkpowersupervisortl775acpsr--power_supervisor--tl7705acpsr)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Power_Supervisor : TL7705ACPSR
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Supervisor-TL7705ACPSR](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Supervisor-TL7705ACPSR)
 - Short Link: [http://oom.lt/SZKPOWERSUPERVISORTL775ACPSR](http://oom.lt/SZKPOWERSUPERVISORTL775ACPSR)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Power_Supervisor/TL7705ACPSR/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Power_Supervisor/TL7705ACPSR/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Power_Supervisor/TL7705ACPSR/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Power_Supervisor/TL7705ACPSR/image.png)|||

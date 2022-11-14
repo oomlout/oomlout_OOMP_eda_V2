@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKMCUSTSTM32F1STM32F13ZGHX > MCU_ST_STM32F1 : STM32F103ZGHx](#szkmcuststm32f1stm32f13zghx--mcu_st_stm32f1--stm32f103zghx)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: MCU_ST_STM32F1 : STM32F103ZGHx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F1-STM32F103ZGHx](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F1-STM32F103ZGHx)
 - Short Link: [http://oom.lt/SZKMCUSTSTM32F1STM32F13ZGHX](http://oom.lt/SZKMCUSTSTM32F1STM32F13ZGHX)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32F1/STM32F103ZGHx/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32F1/STM32F103ZGHx/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32F1/STM32F103ZGHx/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32F1/STM32F103ZGHx/image.png)|||

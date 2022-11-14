@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDEVICELRKGB > Device : LED_RKGB](#szkdevicelrkgb--device--led_rkgb)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Device : LED_RKGB
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-LED_RKGB](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-LED_RKGB)
 - Short Link: [http://oom.lt/SZKDEVICELRKGB](http://oom.lt/SZKDEVICELRKGB)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/LED_RKGB/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/LED_RKGB/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/LED_RKGB/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/LED_RKGB/image.png)|||

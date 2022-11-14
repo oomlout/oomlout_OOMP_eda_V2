@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKVIDEOADV728XCP > Video : ADV7280xCP](#szkvideoadv728xcp--video--adv7280xcp)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Video : ADV7280xCP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Video-ADV7280xCP](http://oom.lt/SYMBOL-kicad-kicad-symbols-Video-ADV7280xCP)
 - Short Link: [http://oom.lt/SZKVIDEOADV728XCP](http://oom.lt/SZKVIDEOADV728XCP)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Video/ADV7280xCP/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Video/ADV7280xCP/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Video/ADV7280xCP/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Video/ADV7280xCP/image.png)|||

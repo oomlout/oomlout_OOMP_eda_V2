@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKTRADT1517 > Transformer : ADT1.5-17](#szktradt1517--transformer--adt15-17)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Transformer : ADT1.5-17
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transformer-ADT1.5-17](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transformer-ADT1.5-17)
 - Short Link: [http://oom.lt/SZKTRADT1517](http://oom.lt/SZKTRADT1517)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transformer/ADT1.5-17/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transformer/ADT1.5-17/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transformer/ADT1.5-17/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transformer/ADT1.5-17/image.png)|||

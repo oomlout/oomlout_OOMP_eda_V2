@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKTIMERRTCDS132S+ > Timer_RTC : DS1302S+](#szktimerrtcds132s--timer_rtc--ds1302s)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Timer_RTC : DS1302S+
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Timer_RTC-DS1302S+](http://oom.lt/SYMBOL-kicad-kicad-symbols-Timer_RTC-DS1302S+)
 - Short Link: [http://oom.lt/SZKTIMERRTCDS132S+](http://oom.lt/SZKTIMERRTCDS132S+)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Timer_RTC/DS1302S+/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Timer_RTC/DS1302S+/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Timer_RTC/DS1302S+/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Timer_RTC/DS1302S+/image.png)|||

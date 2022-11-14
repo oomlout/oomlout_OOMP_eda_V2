@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKCONITX515SH > Converter_DCDC : ITX0515S-H](#szkconitx515sh--converter_dcdc--itx0515s-h)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Converter_DCDC : ITX0515S-H
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-ITX0515S-H](http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-ITX0515S-H)
 - Short Link: [http://oom.lt/SZKCONITX515SH](http://oom.lt/SZKCONITX515SH)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Converter_DCDC/ITX0515S-H/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Converter_DCDC/ITX0515S-H/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Converter_DCDC/ITX0515S-H/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Converter_DCDC/ITX0515S-H/image.png)|||

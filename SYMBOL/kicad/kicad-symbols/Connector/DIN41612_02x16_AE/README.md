@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKCNDIN416122X16AE > Connector : DIN41612_02x16_AE](#szkcndin416122x16ae--connector--din41612_02x16_ae)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Connector : DIN41612_02x16_AE
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-DIN41612_02x16_AE](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-DIN41612_02x16_AE)
 - Short Link: [http://oom.lt/SZKCNDIN416122X16AE](http://oom.lt/SZKCNDIN416122X16AE)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/DIN41612_02x16_AE/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/DIN41612_02x16_AE/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/DIN41612_02x16_AE/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/DIN41612_02x16_AE/image.png)|||

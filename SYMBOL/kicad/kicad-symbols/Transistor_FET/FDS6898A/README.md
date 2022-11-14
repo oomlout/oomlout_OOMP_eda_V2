@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKTRANSISTORFETFDS6898A > Transistor_FET : FDS6898A](#szktransistorfetfds6898a--transistor_fet--fds6898a)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Transistor_FET : FDS6898A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-FDS6898A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-FDS6898A)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETFDS6898A](http://oom.lt/SZKTRANSISTORFETFDS6898A)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/FDS6898A/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/FDS6898A/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/FDS6898A/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/FDS6898A/image.png)|||

@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDRIVERMOTORL298P > Driver_Motor : L298P](#szkdrivermotorl298p--driver_motor--l298p)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Driver_Motor : L298P
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_Motor-L298P](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_Motor-L298P)
 - Short Link: [http://oom.lt/SZKDRIVERMOTORL298P](http://oom.lt/SZKDRIVERMOTORL298P)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Driver_Motor/L298P/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Driver_Motor/L298P/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Driver_Motor/L298P/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Driver_Motor/L298P/image.png)|||

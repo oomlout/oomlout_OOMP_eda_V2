@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKREGULATORSWITCHINGKA5H265RCYDTU > Regulator_Switching : KA5H0265RCYDTU](#szkregulatorswitchingka5h265rcydtu--regulator_switching--ka5h0265rcydtu)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Regulator_Switching : KA5H0265RCYDTU
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-KA5H0265RCYDTU](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-KA5H0265RCYDTU)
 - Short Link: [http://oom.lt/SZKREGULATORSWITCHINGKA5H265RCYDTU](http://oom.lt/SZKREGULATORSWITCHINGKA5H265RCYDTU)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/KA5H0265RCYDTU/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/KA5H0265RCYDTU/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/KA5H0265RCYDTU/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/KA5H0265RCYDTU/image.png)|||

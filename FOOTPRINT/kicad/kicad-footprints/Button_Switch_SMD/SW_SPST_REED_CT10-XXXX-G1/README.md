@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKBSWITCHSMSWSPSTREEDCT1XXXXG1 > Button_Switch_SMD : SW_SPST_REED_CT10-XXXX-G1](#fzkbswitchsmswspstreedct1xxxxg1--button_switch_smd--sw_spst_reed_ct10-xxxx-g1)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Button_Switch_SMD : SW_SPST_REED_CT10-XXXX-G1
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-SW_SPST_REED_CT10-XXXX-G1](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-SW_SPST_REED_CT10-XXXX-G1)
 - Short Link: [http://oom.lt/FZKBSWITCHSMSWSPSTREEDCT1XXXXG1](http://oom.lt/FZKBSWITCHSMSWSPSTREEDCT1XXXXG1)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_SMD/SW_SPST_REED_CT10-XXXX-G1/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_SMD/SW_SPST_REED_CT10-XXXX-G1/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_SMD/SW_SPST_REED_CT10-XXXX-G1/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_SMD/SW_SPST_REED_CT10-XXXX-G1/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_SMD/SW_SPST_REED_CT10-XXXX-G1/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_SMD/SW_SPST_REED_CT10-XXXX-G1/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_SMD/SW_SPST_REED_CT10-XXXX-G1/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_SMD/SW_SPST_REED_CT10-XXXX-G1/kicadPcb3dBack.png)|

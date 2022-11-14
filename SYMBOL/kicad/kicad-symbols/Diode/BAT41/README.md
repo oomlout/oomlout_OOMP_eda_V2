@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDIODEBAT41 > Diode : BAT41](#szkdiodebat41--diode--bat41)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Diode : BAT41
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-BAT41](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-BAT41)
 - Short Link: [http://oom.lt/SZKDIODEBAT41](http://oom.lt/SZKDIODEBAT41)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Diode/BAT41/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Diode/BAT41/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Diode/BAT41/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Diode/BAT41/image.png)|||

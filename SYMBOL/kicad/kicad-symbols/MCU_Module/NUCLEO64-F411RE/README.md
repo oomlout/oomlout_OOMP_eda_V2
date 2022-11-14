@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKMCUMONUCLEO64F411RE > MCU_Module : NUCLEO64-F411RE](#szkmcumonucleo64f411re--mcu_module--nucleo64-f411re)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: MCU_Module : NUCLEO64-F411RE
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Module-NUCLEO64-F411RE](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Module-NUCLEO64-F411RE)
 - Short Link: [http://oom.lt/SZKMCUMONUCLEO64F411RE](http://oom.lt/SZKMCUMONUCLEO64F411RE)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Module/NUCLEO64-F411RE/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Module/NUCLEO64-F411RE/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Module/NUCLEO64-F411RE/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Module/NUCLEO64-F411RE/image.png)|||

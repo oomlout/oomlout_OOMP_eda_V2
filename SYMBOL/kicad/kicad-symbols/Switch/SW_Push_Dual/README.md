@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKSWITCHSWPUSHDUAL > Switch : SW_Push_Dual](#szkswitchswpushdual--switch--sw_push_dual)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Switch : SW_Push_Dual
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Switch-SW_Push_Dual](http://oom.lt/SYMBOL-kicad-kicad-symbols-Switch-SW_Push_Dual)
 - Short Link: [http://oom.lt/SZKSWITCHSWPUSHDUAL](http://oom.lt/SZKSWITCHSWPUSHDUAL)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Switch/SW_Push_Dual/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Switch/SW_Push_Dual/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Switch/SW_Push_Dual/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Switch/SW_Push_Dual/image.png)|||

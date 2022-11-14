@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKMCUPARALLAXP8X32AM44 > MCU_Parallax : P8X32A-M44](#szkmcuparallaxp8x32am44--mcu_parallax--p8x32a-m44)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: MCU_Parallax : P8X32A-M44
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Parallax-P8X32A-M44](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Parallax-P8X32A-M44)
 - Short Link: [http://oom.lt/SZKMCUPARALLAXP8X32AM44](http://oom.lt/SZKMCUPARALLAXP8X32AM44)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Parallax/P8X32A-M44/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Parallax/P8X32A-M44/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Parallax/P8X32A-M44/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Parallax/P8X32A-M44/image.png)|||

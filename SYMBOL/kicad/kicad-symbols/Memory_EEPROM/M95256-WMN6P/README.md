@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKMEMORYEEPROMM95256WMN6P > Memory_EEPROM : M95256-WMN6P](#szkmemoryeepromm95256wmn6p--memory_eeprom--m95256-wmn6p)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Memory_EEPROM : M95256-WMN6P
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_EEPROM-M95256-WMN6P](http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_EEPROM-M95256-WMN6P)
 - Short Link: [http://oom.lt/SZKMEMORYEEPROMM95256WMN6P](http://oom.lt/SZKMEMORYEEPROMM95256WMN6P)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Memory_EEPROM/M95256-WMN6P/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Memory_EEPROM/M95256-WMN6P/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Memory_EEPROM/M95256-WMN6P/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Memory_EEPROM/M95256-WMN6P/image.png)|||

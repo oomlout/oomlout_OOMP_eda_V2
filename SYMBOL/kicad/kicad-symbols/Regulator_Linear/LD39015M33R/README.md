@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKREGULATORLINEARLD3915M33R > Regulator_Linear : LD39015M33R](#szkregulatorlinearld3915m33r--regulator_linear--ld39015m33r)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Regulator_Linear : LD39015M33R
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LD39015M33R](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LD39015M33R)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARLD3915M33R](http://oom.lt/SZKREGULATORLINEARLD3915M33R)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LD39015M33R/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LD39015M33R/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LD39015M33R/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LD39015M33R/image.png)|||

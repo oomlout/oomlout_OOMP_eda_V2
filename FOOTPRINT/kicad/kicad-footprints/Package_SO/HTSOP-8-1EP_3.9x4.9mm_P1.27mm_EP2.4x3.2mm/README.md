@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKSOHTS81EP39X49P127EP24X32 > Package_SO : HTSOP-8-1EP_3.9x4.9mm_P1.27mm_EP2.4x3.2mm](#fzksohts81ep39x49p127ep24x32--package_so--htsop-8-1ep_39x49mm_p127mm_ep24x32mm)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Package_SO : HTSOP-8-1EP_3.9x4.9mm_P1.27mm_EP2.4x3.2mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SO-HTSOP-8-1EP_3.9x4.9mm_P1.27mm_EP2.4x3.2mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SO-HTSOP-8-1EP_3.9x4.9mm_P1.27mm_EP2.4x3.2mm)
 - Short Link: [http://oom.lt/FZKSOHTS81EP39X49P127EP24X32](http://oom.lt/FZKSOHTS81EP39X49P127EP24X32)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/HTSOP-8-1EP_3.9x4.9mm_P1.27mm_EP2.4x3.2mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/HTSOP-8-1EP_3.9x4.9mm_P1.27mm_EP2.4x3.2mm/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/HTSOP-8-1EP_3.9x4.9mm_P1.27mm_EP2.4x3.2mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/HTSOP-8-1EP_3.9x4.9mm_P1.27mm_EP2.4x3.2mm/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/HTSOP-8-1EP_3.9x4.9mm_P1.27mm_EP2.4x3.2mm/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/HTSOP-8-1EP_3.9x4.9mm_P1.27mm_EP2.4x3.2mm/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/HTSOP-8-1EP_3.9x4.9mm_P1.27mm_EP2.4x3.2mm/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/HTSOP-8-1EP_3.9x4.9mm_P1.27mm_EP2.4x3.2mm/kicadPcb3dBack.png)|

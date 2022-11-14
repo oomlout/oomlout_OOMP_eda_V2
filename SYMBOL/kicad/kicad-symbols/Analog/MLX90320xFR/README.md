@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKANALOGMLX932XFR > Analog : MLX90320xFR](#szkanalogmlx932xfr--analog--mlx90320xfr)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Analog : MLX90320xFR
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog-MLX90320xFR](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog-MLX90320xFR)
 - Short Link: [http://oom.lt/SZKANALOGMLX932XFR](http://oom.lt/SZKANALOGMLX932XFR)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Analog/MLX90320xFR/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Analog/MLX90320xFR/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Analog/MLX90320xFR/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Analog/MLX90320xFR/image.png)|||

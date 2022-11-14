@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKREGULATORLINEARLD186DT5TR > Regulator_Linear : LD1086DT50TR](#szkregulatorlinearld186dt5tr--regulator_linear--ld1086dt50tr)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Regulator_Linear : LD1086DT50TR
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LD1086DT50TR](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LD1086DT50TR)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARLD186DT5TR](http://oom.lt/SZKREGULATORLINEARLD186DT5TR)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LD1086DT50TR/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LD1086DT50TR/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LD1086DT50TR/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LD1086DT50TR/image.png)|||

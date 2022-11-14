@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKINTERFACEHT12D > Interface : HT12D](#szkinterfaceht12d--interface--ht12d)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Interface : HT12D
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-HT12D](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-HT12D)
 - Short Link: [http://oom.lt/SZKINTERFACEHT12D](http://oom.lt/SZKINTERFACEHT12D)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface/HT12D/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface/HT12D/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface/HT12D/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface/HT12D/image.png)|||

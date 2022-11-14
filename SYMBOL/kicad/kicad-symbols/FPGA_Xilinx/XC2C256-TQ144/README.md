@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKFPGAXILINXXC2C256TQ144 > FPGA_Xilinx : XC2C256-TQ144](#szkfpgaxilinxxc2c256tq144--fpga_xilinx--xc2c256-tq144)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: FPGA_Xilinx : XC2C256-TQ144
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-FPGA_Xilinx-XC2C256-TQ144](http://oom.lt/SYMBOL-kicad-kicad-symbols-FPGA_Xilinx-XC2C256-TQ144)
 - Short Link: [http://oom.lt/SZKFPGAXILINXXC2C256TQ144](http://oom.lt/SZKFPGAXILINXXC2C256TQ144)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/FPGA_Xilinx/XC2C256-TQ144/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/FPGA_Xilinx/XC2C256-TQ144/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/FPGA_Xilinx/XC2C256-TQ144/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/FPGA_Xilinx/XC2C256-TQ144/image.png)|||

@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKAMPLIFIEROPERATIONALOPA818XDRG > Amplifier_Operational : OPA818xDRG](#szkamplifieroperationalopa818xdrg--amplifier_operational--opa818xdrg)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Amplifier_Operational : OPA818xDRG
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-OPA818xDRG](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-OPA818xDRG)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALOPA818XDRG](http://oom.lt/SZKAMPLIFIEROPERATIONALOPA818XDRG)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/OPA818xDRG/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/OPA818xDRG/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/OPA818xDRG/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/OPA818xDRG/image.png)|||

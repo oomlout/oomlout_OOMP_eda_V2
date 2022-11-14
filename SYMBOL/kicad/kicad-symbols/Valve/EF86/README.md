@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKVAEF86 > Valve : EF86](#szkvaef86--valve--ef86)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Valve : EF86
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Valve-EF86](http://oom.lt/SYMBOL-kicad-kicad-symbols-Valve-EF86)
 - Short Link: [http://oom.lt/SZKVAEF86](http://oom.lt/SZKVAEF86)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Valve/EF86/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Valve/EF86/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Valve/EF86/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Valve/EF86/image.png)|||

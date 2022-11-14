@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKCNBUSPCI32BITUNIVERSAL > Connector : Bus_PCI_32bit_Universal](#szkcnbuspci32bituniversal--connector--bus_pci_32bit_universal)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Connector : Bus_PCI_32bit_Universal
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-Bus_PCI_32bit_Universal](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-Bus_PCI_32bit_Universal)
 - Short Link: [http://oom.lt/SZKCNBUSPCI32BITUNIVERSAL](http://oom.lt/SZKCNBUSPCI32BITUNIVERSAL)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/Bus_PCI_32bit_Universal/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Bus_PCI_32bit_Universal/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/Bus_PCI_32bit_Universal/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Bus_PCI_32bit_Universal/image.png)|||

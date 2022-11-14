@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKTRTRTOROIDTAPPEDHORIZONTALD14AMIDONT5 > Transformer_THT : Transformer_Toroid_Tapped_Horizontal_D14.0mm_Amidon-T50](#fzktrtrtoroidtappedhorizontald14amidont5--transformer_tht--transformer_toroid_tapped_horizontal_d140mm_amidon-t50)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Transformer_THT : Transformer_Toroid_Tapped_Horizontal_D14.0mm_Amidon-T50
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Transformer_THT-Transformer_Toroid_Tapped_Horizontal_D14.0mm_Amidon-T50](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Transformer_THT-Transformer_Toroid_Tapped_Horizontal_D14.0mm_Amidon-T50)
 - Short Link: [http://oom.lt/FZKTRTRTOROIDTAPPEDHORIZONTALD14AMIDONT5](http://oom.lt/FZKTRTRTOROIDTAPPEDHORIZONTALD14AMIDONT5)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Transformer_THT/Transformer_Toroid_Tapped_Horizontal_D14.0mm_Amidon-T50/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Transformer_THT/Transformer_Toroid_Tapped_Horizontal_D14.0mm_Amidon-T50/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Transformer_THT/Transformer_Toroid_Tapped_Horizontal_D14.0mm_Amidon-T50/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Transformer_THT/Transformer_Toroid_Tapped_Horizontal_D14.0mm_Amidon-T50/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Transformer_THT/Transformer_Toroid_Tapped_Horizontal_D14.0mm_Amidon-T50/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Transformer_THT/Transformer_Toroid_Tapped_Horizontal_D14.0mm_Amidon-T50/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Transformer_THT/Transformer_Toroid_Tapped_Horizontal_D14.0mm_Amidon-T50/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Transformer_THT/Transformer_Toroid_Tapped_Horizontal_D14.0mm_Amidon-T50/kicadPcb3dBack.png)|

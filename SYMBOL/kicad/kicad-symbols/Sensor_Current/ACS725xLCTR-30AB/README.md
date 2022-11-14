@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKSENCURRENTACS725XLCTR3AB > Sensor_Current : ACS725xLCTR-30AB](#szksencurrentacs725xlctr3ab--sensor_current--acs725xlctr-30ab)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Sensor_Current : ACS725xLCTR-30AB
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-ACS725xLCTR-30AB](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-ACS725xLCTR-30AB)
 - Short Link: [http://oom.lt/SZKSENCURRENTACS725XLCTR3AB](http://oom.lt/SZKSENCURRENTACS725XLCTR3AB)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Current/ACS725xLCTR-30AB/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Current/ACS725xLCTR-30AB/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Current/ACS725xLCTR-30AB/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Current/ACS725xLCTR-30AB/image.png)|||

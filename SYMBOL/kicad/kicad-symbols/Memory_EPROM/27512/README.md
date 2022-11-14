@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKMEMORYEPROM27512 > Memory_EPROM : 27512](#szkmemoryeprom27512--memory_eprom--27512)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Memory_EPROM : 27512
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_EPROM-27512](http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_EPROM-27512)
 - Short Link: [http://oom.lt/SZKMEMORYEPROM27512](http://oom.lt/SZKMEMORYEPROM27512)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Memory_EPROM/27512/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Memory_EPROM/27512/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Memory_EPROM/27512/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Memory_EPROM/27512/image.png)|||

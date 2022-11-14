@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKCNMXMXPANELMATE5378171X11MPP125HORIZONTAL > Connector_Molex : Molex_Panelmate_53780-1070_1x10-1MP_P1.25mm_Horizontal](#fzkcnmxmxpanelmate5378171x11mpp125horizontal--connector_molex--molex_panelmate_53780-1070_1x10-1mp_p125mm_horizontal)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Connector_Molex : Molex_Panelmate_53780-1070_1x10-1MP_P1.25mm_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_Panelmate_53780-1070_1x10-1MP_P1.25mm_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_Panelmate_53780-1070_1x10-1MP_P1.25mm_Horizontal)
 - Short Link: [http://oom.lt/FZKCNMXMXPANELMATE5378171X11MPP125HORIZONTAL](http://oom.lt/FZKCNMXMXPANELMATE5378171X11MPP125HORIZONTAL)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_Panelmate_53780-1070_1x10-1MP_P1.25mm_Horizontal/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_Panelmate_53780-1070_1x10-1MP_P1.25mm_Horizontal/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_Panelmate_53780-1070_1x10-1MP_P1.25mm_Horizontal/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_Panelmate_53780-1070_1x10-1MP_P1.25mm_Horizontal/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_Panelmate_53780-1070_1x10-1MP_P1.25mm_Horizontal/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_Panelmate_53780-1070_1x10-1MP_P1.25mm_Horizontal/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_Panelmate_53780-1070_1x10-1MP_P1.25mm_Horizontal/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_Panelmate_53780-1070_1x10-1MP_P1.25mm_Horizontal/kicadPcb3dBack.png)|

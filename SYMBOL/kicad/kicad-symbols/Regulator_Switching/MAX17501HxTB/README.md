@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKREGULATORSWITCHINGMAX1751HXTB > Regulator_Switching : MAX17501HxTB](#szkregulatorswitchingmax1751hxtb--regulator_switching--max17501hxtb)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Regulator_Switching : MAX17501HxTB
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-MAX17501HxTB](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-MAX17501HxTB)
 - Short Link: [http://oom.lt/SZKREGULATORSWITCHINGMAX1751HXTB](http://oom.lt/SZKREGULATORSWITCHINGMAX1751HXTB)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/MAX17501HxTB/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/MAX17501HxTB/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/MAX17501HxTB/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/MAX17501HxTB/image.png)|||

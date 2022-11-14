@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKTRANSISTORFETBSC13DN3NSFD > Transistor_FET : BSC13DN30NSFD](#szktransistorfetbsc13dn3nsfd--transistor_fet--bsc13dn30nsfd)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Transistor_FET : BSC13DN30NSFD
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-BSC13DN30NSFD](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-BSC13DN30NSFD)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETBSC13DN3NSFD](http://oom.lt/SZKTRANSISTORFETBSC13DN3NSFD)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/BSC13DN30NSFD/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/BSC13DN30NSFD/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/BSC13DN30NSFD/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/BSC13DN30NSFD/image.png)|||

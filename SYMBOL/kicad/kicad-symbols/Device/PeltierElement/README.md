@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDEVICEPELTIERELEMENT > Device : PeltierElement](#szkdevicepeltierelement--device--peltierelement)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Device : PeltierElement
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-PeltierElement](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-PeltierElement)
 - Short Link: [http://oom.lt/SZKDEVICEPELTIERELEMENT](http://oom.lt/SZKDEVICEPELTIERELEMENT)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/PeltierElement/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/PeltierElement/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/PeltierElement/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/PeltierElement/image.png)|||

@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKSENCURRENTCQ2232 > Sensor_Current : CQ-2232](#szksencurrentcq2232--sensor_current--cq-2232)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Sensor_Current : CQ-2232
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-CQ-2232](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-CQ-2232)
 - Short Link: [http://oom.lt/SZKSENCURRENTCQ2232](http://oom.lt/SZKSENCURRENTCQ2232)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Current/CQ-2232/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Current/CQ-2232/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Current/CQ-2232/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Current/CQ-2232/image.png)|||

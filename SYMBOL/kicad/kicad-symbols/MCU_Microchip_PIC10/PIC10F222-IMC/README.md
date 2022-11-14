@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKMCUMCHIPPIC1PIC1F222IMC > MCU_Microchip_PIC10 : PIC10F222-IMC](#szkmcumchippic1pic1f222imc--mcu_microchip_pic10--pic10f222-imc)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: MCU_Microchip_PIC10 : PIC10F222-IMC
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC10-PIC10F222-IMC](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC10-PIC10F222-IMC)
 - Short Link: [http://oom.lt/SZKMCUMCHIPPIC1PIC1F222IMC](http://oom.lt/SZKMCUMCHIPPIC1PIC1F222IMC)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC10/PIC10F222-IMC/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC10/PIC10F222-IMC/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC10/PIC10F222-IMC/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC10/PIC10F222-IMC/image.png)|||

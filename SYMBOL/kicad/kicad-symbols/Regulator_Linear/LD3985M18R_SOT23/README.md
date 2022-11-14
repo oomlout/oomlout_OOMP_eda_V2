@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKREGULATORLINEARLD3985M18RSOT23 > Regulator_Linear : LD3985M18R_SOT23](#szkregulatorlinearld3985m18rsot23--regulator_linear--ld3985m18r_sot23)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Regulator_Linear : LD3985M18R_SOT23
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LD3985M18R_SOT23](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LD3985M18R_SOT23)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARLD3985M18RSOT23](http://oom.lt/SZKREGULATORLINEARLD3985M18RSOT23)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LD3985M18R_SOT23/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LD3985M18R_SOT23/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LD3985M18R_SOT23/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LD3985M18R_SOT23/image.png)|||

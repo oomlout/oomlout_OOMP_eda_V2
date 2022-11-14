@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKINTERFACECANLINMCP221AXXXXMD > Interface_CAN_LIN : MCP2021A-xxxxMD](#szkinterfacecanlinmcp221axxxxmd--interface_can_lin--mcp2021a-xxxxmd)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Interface_CAN_LIN : MCP2021A-xxxxMD
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_CAN_LIN-MCP2021A-xxxxMD](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_CAN_LIN-MCP2021A-xxxxMD)
 - Short Link: [http://oom.lt/SZKINTERFACECANLINMCP221AXXXXMD](http://oom.lt/SZKINTERFACECANLINMCP221AXXXXMD)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface_CAN_LIN/MCP2021A-xxxxMD/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface_CAN_LIN/MCP2021A-xxxxMD/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface_CAN_LIN/MCP2021A-xxxxMD/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface_CAN_LIN/MCP2021A-xxxxMD/image.png)|||

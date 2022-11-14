@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKISOLATOR6N136S > Isolator : 6N136S](#szkisolator6n136s--isolator--6n136s)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Isolator : 6N136S
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-6N136S](http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-6N136S)
 - Short Link: [http://oom.lt/SZKISOLATOR6N136S](http://oom.lt/SZKISOLATOR6N136S)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Isolator/6N136S/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Isolator/6N136S/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Isolator/6N136S/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Isolator/6N136S/image.png)|||

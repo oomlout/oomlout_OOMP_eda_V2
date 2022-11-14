@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKREGULATORLINEARLT1585ADJ > Regulator_Linear : LT1585-ADJ](#szkregulatorlinearlt1585adj--regulator_linear--lt1585-adj)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Regulator_Linear : LT1585-ADJ
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LT1585-ADJ](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LT1585-ADJ)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARLT1585ADJ](http://oom.lt/SZKREGULATORLINEARLT1585ADJ)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LT1585-ADJ/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LT1585-ADJ/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LT1585-ADJ/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LT1585-ADJ/image.png)|||

@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDICHARACTERSBC1811EGWA > Display_Character : SBC18-11EGWA](#szkdicharactersbc1811egwa--display_character--sbc18-11egwa)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Display_Character : SBC18-11EGWA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-SBC18-11EGWA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-SBC18-11EGWA)
 - Short Link: [http://oom.lt/SZKDICHARACTERSBC1811EGWA](http://oom.lt/SZKDICHARACTERSBC1811EGWA)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Display_Character/SBC18-11EGWA/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Display_Character/SBC18-11EGWA/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Display_Character/SBC18-11EGWA/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Display_Character/SBC18-11EGWA/image.png)|||

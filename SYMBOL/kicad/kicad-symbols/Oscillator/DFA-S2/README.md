@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKOCSDFAS2 > Oscillator : DFA-S2](#szkocsdfas2--oscillator--dfa-s2)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Oscillator : DFA-S2
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Oscillator-DFA-S2](http://oom.lt/SYMBOL-kicad-kicad-symbols-Oscillator-DFA-S2)
 - Short Link: [http://oom.lt/SZKOCSDFAS2](http://oom.lt/SZKOCSDFAS2)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Oscillator/DFA-S2/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Oscillator/DFA-S2/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Oscillator/DFA-S2/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Oscillator/DFA-S2/image.png)|||

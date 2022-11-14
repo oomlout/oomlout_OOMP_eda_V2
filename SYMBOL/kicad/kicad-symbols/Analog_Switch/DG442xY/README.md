@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKANALOGSWITCHDG442XY > Analog_Switch : DG442xY](#szkanalogswitchdg442xy--analog_switch--dg442xy)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Analog_Switch : DG442xY
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_Switch-DG442xY](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_Switch-DG442xY)
 - Short Link: [http://oom.lt/SZKANALOGSWITCHDG442XY](http://oom.lt/SZKANALOGSWITCHDG442XY)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Analog_Switch/DG442xY/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Analog_Switch/DG442xY/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Analog_Switch/DG442xY/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Analog_Switch/DG442xY/image.png)|||

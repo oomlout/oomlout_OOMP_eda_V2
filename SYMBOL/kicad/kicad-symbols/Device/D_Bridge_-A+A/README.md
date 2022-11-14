@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDEVICEDBRIDGEA+A > Device : D_Bridge_-A+A](#szkdevicedbridgeaa--device--d_bridge_-aa)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Device : D_Bridge_-A+A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-D_Bridge_-A+A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-D_Bridge_-A+A)
 - Short Link: [http://oom.lt/SZKDEVICEDBRIDGEA+A](http://oom.lt/SZKDEVICEDBRIDGEA+A)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/D_Bridge_-A+A/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/D_Bridge_-A+A/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/D_Bridge_-A+A/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/D_Bridge_-A+A/image.png)|||

@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKSENMAGNETICA113ELHL > Sensor_Magnetic : A1103ELHL](#szksenmagnetica113elhl--sensor_magnetic--a1103elhl)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Sensor_Magnetic : A1103ELHL
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Magnetic-A1103ELHL](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Magnetic-A1103ELHL)
 - Short Link: [http://oom.lt/SZKSENMAGNETICA113ELHL](http://oom.lt/SZKSENMAGNETICA113ELHL)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Magnetic/A1103ELHL/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Magnetic/A1103ELHL/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Magnetic/A1103ELHL/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Magnetic/A1103ELHL/image.png)|||

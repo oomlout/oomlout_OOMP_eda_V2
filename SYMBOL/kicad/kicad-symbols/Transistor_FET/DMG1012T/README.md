@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKTRANSISTORFETDMG112T > Transistor_FET : DMG1012T](#szktransistorfetdmg112t--transistor_fet--dmg1012t)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Transistor_FET : DMG1012T
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-DMG1012T](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-DMG1012T)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETDMG112T](http://oom.lt/SZKTRANSISTORFETDMG112T)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/DMG1012T/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/DMG1012T/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/DMG1012T/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/DMG1012T/image.png)|||

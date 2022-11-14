@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKPOWERVAC > power : VAC](#szkpowervac--power--vac)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: power : VAC
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-power-VAC](http://oom.lt/SYMBOL-kicad-kicad-symbols-power-VAC)
 - Short Link: [http://oom.lt/SZKPOWERVAC](http://oom.lt/SZKPOWERVAC)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/power/VAC/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/power/VAC/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/power/VAC/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/power/VAC/image.png)|||

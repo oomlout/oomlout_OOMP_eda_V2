@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKMEMORYFLASHM25PX32VMW > Memory_Flash : M25PX32-VMW](#szkmemoryflashm25px32vmw--memory_flash--m25px32-vmw)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Memory_Flash : M25PX32-VMW
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_Flash-M25PX32-VMW](http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_Flash-M25PX32-VMW)
 - Short Link: [http://oom.lt/SZKMEMORYFLASHM25PX32VMW](http://oom.lt/SZKMEMORYFLASHM25PX32VMW)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Memory_Flash/M25PX32-VMW/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Memory_Flash/M25PX32-VMW/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Memory_Flash/M25PX32-VMW/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Memory_Flash/M25PX32-VMW/image.png)|||

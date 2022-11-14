@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDEVICEEARPHONE > Device : Earphone](#szkdeviceearphone--device--earphone)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Device : Earphone
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Earphone](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Earphone)
 - Short Link: [http://oom.lt/SZKDEVICEEARPHONE](http://oom.lt/SZKDEVICEEARPHONE)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/Earphone/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/Earphone/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/Earphone/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/Earphone/image.png)|||

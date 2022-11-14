@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKBATMANAGEMENTMAX1648 > Battery_Management : MAX1648](#szkbatmanagementmax1648--battery_management--max1648)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Battery_Management : MAX1648
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Battery_Management-MAX1648](http://oom.lt/SYMBOL-kicad-kicad-symbols-Battery_Management-MAX1648)
 - Short Link: [http://oom.lt/SZKBATMANAGEMENTMAX1648](http://oom.lt/SZKBATMANAGEMENTMAX1648)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Battery_Management/MAX1648/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Battery_Management/MAX1648/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Battery_Management/MAX1648/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Battery_Management/MAX1648/image.png)|||

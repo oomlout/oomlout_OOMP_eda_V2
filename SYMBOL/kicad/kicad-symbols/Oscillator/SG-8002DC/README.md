@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKOCSSG82DC > Oscillator : SG-8002DC](#szkocssg82dc--oscillator--sg-8002dc)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Oscillator : SG-8002DC
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Oscillator-SG-8002DC](http://oom.lt/SYMBOL-kicad-kicad-symbols-Oscillator-SG-8002DC)
 - Short Link: [http://oom.lt/SZKOCSSG82DC](http://oom.lt/SZKOCSSG82DC)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Oscillator/SG-8002DC/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Oscillator/SG-8002DC/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Oscillator/SG-8002DC/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Oscillator/SG-8002DC/image.png)|||

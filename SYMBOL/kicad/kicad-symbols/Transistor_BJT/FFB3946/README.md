@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKTRANSISTORBJTFFB3946 > Transistor_BJT : FFB3946](#szktransistorbjtffb3946--transistor_bjt--ffb3946)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Transistor_BJT : FFB3946
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-FFB3946](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-FFB3946)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJTFFB3946](http://oom.lt/SZKTRANSISTORBJTFFB3946)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_BJT/FFB3946/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_BJT/FFB3946/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_BJT/FFB3946/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_BJT/FFB3946/image.png)|||

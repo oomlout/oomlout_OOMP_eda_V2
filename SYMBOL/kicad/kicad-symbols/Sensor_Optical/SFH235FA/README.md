@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKSENOPTICALSFH235FA > Sensor_Optical : SFH235FA](#szksenopticalsfh235fa--sensor_optical--sfh235fa)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Sensor_Optical : SFH235FA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Optical-SFH235FA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Optical-SFH235FA)
 - Short Link: [http://oom.lt/SZKSENOPTICALSFH235FA](http://oom.lt/SZKSENOPTICALSFH235FA)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Optical/SFH235FA/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Optical/SFH235FA/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Optical/SFH235FA/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Optical/SFH235FA/image.png)|||

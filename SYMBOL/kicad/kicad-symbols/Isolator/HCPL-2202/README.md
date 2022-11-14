@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKISOLATORHCPL222 > Isolator : HCPL-2202](#szkisolatorhcpl222--isolator--hcpl-2202)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Isolator : HCPL-2202
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-HCPL-2202](http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-HCPL-2202)
 - Short Link: [http://oom.lt/SZKISOLATORHCPL222](http://oom.lt/SZKISOLATORHCPL222)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Isolator/HCPL-2202/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Isolator/HCPL-2202/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Isolator/HCPL-2202/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Isolator/HCPL-2202/image.png)|||

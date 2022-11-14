@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKTRANSISTORFETBUK9M156EX > Transistor_FET : BUK9M15-60EX](#szktransistorfetbuk9m156ex--transistor_fet--buk9m15-60ex)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Transistor_FET : BUK9M15-60EX
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-BUK9M15-60EX](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-BUK9M15-60EX)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETBUK9M156EX](http://oom.lt/SZKTRANSISTORFETBUK9M156EX)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/BUK9M15-60EX/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/BUK9M15-60EX/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/BUK9M15-60EX/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/BUK9M15-60EX/image.png)|||

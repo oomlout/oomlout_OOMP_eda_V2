@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKAMPLIFIERDIFFERENCEADA4942 > Amplifier_Difference : ADA4940-2](#szkamplifierdifferenceada4942--amplifier_difference--ada4940-2)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Amplifier_Difference : ADA4940-2
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Difference-ADA4940-2](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Difference-ADA4940-2)
 - Short Link: [http://oom.lt/SZKAMPLIFIERDIFFERENCEADA4942](http://oom.lt/SZKAMPLIFIERDIFFERENCEADA4942)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Amplifier_Difference/ADA4940-2/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Amplifier_Difference/ADA4940-2/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Amplifier_Difference/ADA4940-2/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Amplifier_Difference/ADA4940-2/image.png)|||

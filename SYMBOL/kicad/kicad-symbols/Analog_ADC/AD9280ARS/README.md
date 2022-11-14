@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKANALOGADCAD928ARS > Analog_ADC : AD9280ARS](#szkanalogadcad928ars--analog_adc--ad9280ars)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Analog_ADC : AD9280ARS
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-AD9280ARS](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-AD9280ARS)
 - Short Link: [http://oom.lt/SZKANALOGADCAD928ARS](http://oom.lt/SZKANALOGADCAD928ARS)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Analog_ADC/AD9280ARS/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Analog_ADC/AD9280ARS/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Analog_ADC/AD9280ARS/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Analog_ADC/AD9280ARS/image.png)|||

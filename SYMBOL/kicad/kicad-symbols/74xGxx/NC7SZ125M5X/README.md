@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZK74XGXXNC7SZ125M5X > 74xGxx : NC7SZ125M5X](#szk74xgxxnc7sz125m5x--74xgxx--nc7sz125m5x)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: 74xGxx : NC7SZ125M5X
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-74xGxx-NC7SZ125M5X](http://oom.lt/SYMBOL-kicad-kicad-symbols-74xGxx-NC7SZ125M5X)
 - Short Link: [http://oom.lt/SZK74XGXXNC7SZ125M5X](http://oom.lt/SZK74XGXXNC7SZ125M5X)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/74xGxx/NC7SZ125M5X/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/74xGxx/NC7SZ125M5X/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/74xGxx/NC7SZ125M5X/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/74xGxx/NC7SZ125M5X/image.png)|||

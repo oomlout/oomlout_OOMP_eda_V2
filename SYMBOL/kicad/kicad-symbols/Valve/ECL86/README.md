@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKVAECL86 > Valve : ECL86](#szkvaecl86--valve--ecl86)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Valve : ECL86
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Valve-ECL86](http://oom.lt/SYMBOL-kicad-kicad-symbols-Valve-ECL86)
 - Short Link: [http://oom.lt/SZKVAECL86](http://oom.lt/SZKVAECL86)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Valve/ECL86/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Valve/ECL86/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Valve/ECL86/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Valve/ECL86/image.png)|||

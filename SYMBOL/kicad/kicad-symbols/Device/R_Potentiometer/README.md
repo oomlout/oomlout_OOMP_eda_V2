@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDEVICERPOTENTIOMETER > Device : R_Potentiometer](#szkdevicerpotentiometer--device--r_potentiometer)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Device : R_Potentiometer
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-R_Potentiometer](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-R_Potentiometer)
 - Short Link: [http://oom.lt/SZKDEVICERPOTENTIOMETER](http://oom.lt/SZKDEVICERPOTENTIOMETER)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/R_Potentiometer/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/R_Potentiometer/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/R_Potentiometer/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/R_Potentiometer/image.png)|||

@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZK4XXXHEF493B > 4xxx : HEF4093B](#szk4xxxhef493b--4xxx--hef4093b)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: 4xxx : HEF4093B
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-4xxx-HEF4093B](http://oom.lt/SYMBOL-kicad-kicad-symbols-4xxx-HEF4093B)
 - Short Link: [http://oom.lt/SZK4XXXHEF493B](http://oom.lt/SZK4XXXHEF493B)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/4xxx/HEF4093B/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/4xxx/HEF4093B/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/4xxx/HEF4093B/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/4xxx/HEF4093B/image.png)|||

@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKPOWERGNDREF > power : GNDREF](#szkpowergndref--power--gndref)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: power : GNDREF
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-power-GNDREF](http://oom.lt/SYMBOL-kicad-kicad-symbols-power-GNDREF)
 - Short Link: [http://oom.lt/SZKPOWERGNDREF](http://oom.lt/SZKPOWERGNDREF)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/power/GNDREF/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/power/GNDREF/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/power/GNDREF/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/power/GNDREF/image.png)|||

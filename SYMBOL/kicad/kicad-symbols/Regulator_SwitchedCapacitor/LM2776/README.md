@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKREGULATORSWITCHEDCAPACITORLM2776 > Regulator_SwitchedCapacitor : LM2776](#szkregulatorswitchedcapacitorlm2776--regulator_switchedcapacitor--lm2776)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Regulator_SwitchedCapacitor : LM2776
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_SwitchedCapacitor-LM2776](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_SwitchedCapacitor-LM2776)
 - Short Link: [http://oom.lt/SZKREGULATORSWITCHEDCAPACITORLM2776](http://oom.lt/SZKREGULATORSWITCHEDCAPACITORLM2776)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_SwitchedCapacitor/LM2776/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_SwitchedCapacitor/LM2776/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_SwitchedCapacitor/LM2776/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_SwitchedCapacitor/LM2776/image.png)|||

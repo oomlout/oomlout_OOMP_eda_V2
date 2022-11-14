@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKBATMANAGEMENTLTC42EDD42 > Battery_Management : LTC4002EDD-4.2](#szkbatmanagementltc42edd42--battery_management--ltc4002edd-42)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Battery_Management : LTC4002EDD-4.2
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Battery_Management-LTC4002EDD-4.2](http://oom.lt/SYMBOL-kicad-kicad-symbols-Battery_Management-LTC4002EDD-4.2)
 - Short Link: [http://oom.lt/SZKBATMANAGEMENTLTC42EDD42](http://oom.lt/SZKBATMANAGEMENTLTC42EDD42)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Battery_Management/LTC4002EDD-4.2/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Battery_Management/LTC4002EDD-4.2/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Battery_Management/LTC4002EDD-4.2/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Battery_Management/LTC4002EDD-4.2/image.png)|||

@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKANALOGADCMCP3426XSN > Analog_ADC : MCP3426-xSN](#szkanalogadcmcp3426xsn--analog_adc--mcp3426-xsn)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Analog_ADC : MCP3426-xSN
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-MCP3426-xSN](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-MCP3426-xSN)
 - Short Link: [http://oom.lt/SZKANALOGADCMCP3426XSN](http://oom.lt/SZKANALOGADCMCP3426XSN)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Analog_ADC/MCP3426-xSN/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Analog_ADC/MCP3426-xSN/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Analog_ADC/MCP3426-xSN/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Analog_ADC/MCP3426-xSN/image.png)|||

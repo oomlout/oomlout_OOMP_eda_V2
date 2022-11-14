@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKCPUPOWERPCMPC8641D > CPU_PowerPC : MPC8641D](#szkcpupowerpcmpc8641d--cpu_powerpc--mpc8641d)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: CPU_PowerPC : MPC8641D
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-CPU_PowerPC-MPC8641D](http://oom.lt/SYMBOL-kicad-kicad-symbols-CPU_PowerPC-MPC8641D)
 - Short Link: [http://oom.lt/SZKCPUPOWERPCMPC8641D](http://oom.lt/SZKCPUPOWERPCMPC8641D)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/CPU_PowerPC/MPC8641D/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/CPU_PowerPC/MPC8641D/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/CPU_PowerPC/MPC8641D/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/CPU_PowerPC/MPC8641D/image.png)|||

@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDICHARACTERNHDC22BIZ > Display_Character : NHD-C0220BIZ](#szkdicharacternhdc22biz--display_character--nhd-c0220biz)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Display_Character : NHD-C0220BIZ
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-NHD-C0220BIZ](http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-NHD-C0220BIZ)
 - Short Link: [http://oom.lt/SZKDICHARACTERNHDC22BIZ](http://oom.lt/SZKDICHARACTERNHDC22BIZ)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Display_Character/NHD-C0220BIZ/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Display_Character/NHD-C0220BIZ/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Display_Character/NHD-C0220BIZ/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Display_Character/NHD-C0220BIZ/image.png)|||

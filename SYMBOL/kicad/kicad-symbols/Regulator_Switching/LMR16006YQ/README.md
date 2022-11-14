@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKREGULATORSWITCHINGLMR166YQ > Regulator_Switching : LMR16006YQ](#szkregulatorswitchinglmr166yq--regulator_switching--lmr16006yq)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Regulator_Switching : LMR16006YQ
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LMR16006YQ](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LMR16006YQ)
 - Short Link: [http://oom.lt/SZKREGULATORSWITCHINGLMR166YQ](http://oom.lt/SZKREGULATORSWITCHINGLMR166YQ)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/LMR16006YQ/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/LMR16006YQ/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/LMR16006YQ/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/LMR16006YQ/image.png)|||

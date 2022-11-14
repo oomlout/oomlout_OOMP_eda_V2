@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKLSMLAVAGOPLCC63X28 > LED_SMD : LED_Avago_PLCC6_3x2.8mm](#fzklsmlavagoplcc63x28--led_smd--led_avago_plcc6_3x28mm)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: LED_SMD : LED_Avago_PLCC6_3x2.8mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_Avago_PLCC6_3x2.8mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_Avago_PLCC6_3x2.8mm)
 - Short Link: [http://oom.lt/FZKLSMLAVAGOPLCC63X28](http://oom.lt/FZKLSMLAVAGOPLCC63X28)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_Avago_PLCC6_3x2.8mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_Avago_PLCC6_3x2.8mm/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_Avago_PLCC6_3x2.8mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_Avago_PLCC6_3x2.8mm/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_Avago_PLCC6_3x2.8mm/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_Avago_PLCC6_3x2.8mm/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_Avago_PLCC6_3x2.8mm/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_Avago_PLCC6_3x2.8mm/kicadPcb3dBack.png)|

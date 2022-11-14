@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKMEMORYFLASHMX25R3235FM1XX > Memory_Flash : MX25R3235FM1xx0](#szkmemoryflashmx25r3235fm1xx--memory_flash--mx25r3235fm1xx0)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Memory_Flash : MX25R3235FM1xx0
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_Flash-MX25R3235FM1xx0](http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_Flash-MX25R3235FM1xx0)
 - Short Link: [http://oom.lt/SZKMEMORYFLASHMX25R3235FM1XX](http://oom.lt/SZKMEMORYFLASHMX25R3235FM1XX)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Memory_Flash/MX25R3235FM1xx0/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Memory_Flash/MX25R3235FM1xx0/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Memory_Flash/MX25R3235FM1xx0/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Memory_Flash/MX25R3235FM1xx0/image.png)|||

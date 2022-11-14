@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKBATMANAGEMENTMCP738713CC > Battery_Management : MCP73871-3CC](#szkbatmanagementmcp738713cc--battery_management--mcp73871-3cc)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Battery_Management : MCP73871-3CC
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Battery_Management-MCP73871-3CC](http://oom.lt/SYMBOL-kicad-kicad-symbols-Battery_Management-MCP73871-3CC)
 - Short Link: [http://oom.lt/SZKBATMANAGEMENTMCP738713CC](http://oom.lt/SZKBATMANAGEMENTMCP738713CC)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Battery_Management/MCP73871-3CC/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Battery_Management/MCP73871-3CC/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Battery_Management/MCP73871-3CC/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Battery_Management/MCP73871-3CC/image.png)|||

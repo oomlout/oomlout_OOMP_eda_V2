@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKCNDINDIN41612Q32X1MALEVERTICALTHT > Connector_DIN : DIN41612_Q3_2x10_Male_Vertical_THT](#fzkcndindin41612q32x1maleverticaltht--connector_din--din41612_q3_2x10_male_vertical_tht)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Connector_DIN : DIN41612_Q3_2x10_Male_Vertical_THT
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_DIN-DIN41612_Q3_2x10_Male_Vertical_THT](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_DIN-DIN41612_Q3_2x10_Male_Vertical_THT)
 - Short Link: [http://oom.lt/FZKCNDINDIN41612Q32X1MALEVERTICALTHT](http://oom.lt/FZKCNDINDIN41612Q32X1MALEVERTICALTHT)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_DIN/DIN41612_Q3_2x10_Male_Vertical_THT/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_DIN/DIN41612_Q3_2x10_Male_Vertical_THT/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_DIN/DIN41612_Q3_2x10_Male_Vertical_THT/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_DIN/DIN41612_Q3_2x10_Male_Vertical_THT/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_DIN/DIN41612_Q3_2x10_Male_Vertical_THT/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_DIN/DIN41612_Q3_2x10_Male_Vertical_THT/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_DIN/DIN41612_Q3_2x10_Male_Vertical_THT/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_DIN/DIN41612_Q3_2x10_Male_Vertical_THT/kicadPcb3dBack.png)|

@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDICHARACTERLM16255K > Display_Character : LM16255K](#szkdicharacterlm16255k--display_character--lm16255k)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Display_Character : LM16255K
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-LM16255K](http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-LM16255K)
 - Short Link: [http://oom.lt/SZKDICHARACTERLM16255K](http://oom.lt/SZKDICHARACTERLM16255K)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Display_Character/LM16255K/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Display_Character/LM16255K/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Display_Character/LM16255K/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Display_Character/LM16255K/image.png)|||

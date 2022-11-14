@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKAMPLIFIERCURRENTZXCT19F > Amplifier_Current : ZXCT1009F](#szkamplifiercurrentzxct19f--amplifier_current--zxct1009f)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Amplifier_Current : ZXCT1009F
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Current-ZXCT1009F](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Current-ZXCT1009F)
 - Short Link: [http://oom.lt/SZKAMPLIFIERCURRENTZXCT19F](http://oom.lt/SZKAMPLIFIERCURRENTZXCT19F)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Amplifier_Current/ZXCT1009F/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Amplifier_Current/ZXCT1009F/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Amplifier_Current/ZXCT1009F/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Amplifier_Current/ZXCT1009F/image.png)|||

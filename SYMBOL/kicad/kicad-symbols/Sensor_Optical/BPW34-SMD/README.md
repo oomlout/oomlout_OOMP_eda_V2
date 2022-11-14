@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKSENOPTICALBPW34SM > Sensor_Optical : BPW34-SMD](#szksenopticalbpw34sm--sensor_optical--bpw34-smd)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Sensor_Optical : BPW34-SMD
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Optical-BPW34-SMD](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Optical-BPW34-SMD)
 - Short Link: [http://oom.lt/SZKSENOPTICALBPW34SM](http://oom.lt/SZKSENOPTICALBPW34SM)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Optical/BPW34-SMD/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Optical/BPW34-SMD/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Optical/BPW34-SMD/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Optical/BPW34-SMD/image.png)|||

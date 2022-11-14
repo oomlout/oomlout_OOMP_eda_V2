@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKINTERFACEETHERNETLAN9514 > Interface_Ethernet : LAN9514](#szkinterfaceethernetlan9514--interface_ethernet--lan9514)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Interface_Ethernet : LAN9514
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Ethernet-LAN9514](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Ethernet-LAN9514)
 - Short Link: [http://oom.lt/SZKINTERFACEETHERNETLAN9514](http://oom.lt/SZKINTERFACEETHERNETLAN9514)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface_Ethernet/LAN9514/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface_Ethernet/LAN9514/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface_Ethernet/LAN9514/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface_Ethernet/LAN9514/image.png)|||

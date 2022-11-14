@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKINTERFACEUU374BAI2 > Interface_USB : USB3740B-AI2](#szkinterfaceuu374bai2--interface_usb--usb3740b-ai2)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Interface_USB : USB3740B-AI2
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_USB-USB3740B-AI2](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_USB-USB3740B-AI2)
 - Short Link: [http://oom.lt/SZKINTERFACEUU374BAI2](http://oom.lt/SZKINTERFACEUU374BAI2)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface_USB/USB3740B-AI2/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface_USB/USB3740B-AI2/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface_USB/USB3740B-AI2/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface_USB/USB3740B-AI2/image.png)|||

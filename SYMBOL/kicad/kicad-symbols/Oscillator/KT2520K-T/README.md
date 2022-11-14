@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKOCSKT252KT > Oscillator : KT2520K-T](#szkocskt252kt--oscillator--kt2520k-t)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Oscillator : KT2520K-T
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Oscillator-KT2520K-T](http://oom.lt/SYMBOL-kicad-kicad-symbols-Oscillator-KT2520K-T)
 - Short Link: [http://oom.lt/SZKOCSKT252KT](http://oom.lt/SZKOCSKT252KT)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Oscillator/KT2520K-T/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Oscillator/KT2520K-T/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Oscillator/KT2520K-T/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Oscillator/KT2520K-T/image.png)|||

@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKOCSECS252MVXXXXX > Oscillator : ECS-2520MV-xxx-xx](#szkocsecs252mvxxxxx--oscillator--ecs-2520mv-xxx-xx)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Oscillator : ECS-2520MV-xxx-xx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Oscillator-ECS-2520MV-xxx-xx](http://oom.lt/SYMBOL-kicad-kicad-symbols-Oscillator-ECS-2520MV-xxx-xx)
 - Short Link: [http://oom.lt/SZKOCSECS252MVXXXXX](http://oom.lt/SZKOCSECS252MVXXXXX)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Oscillator/ECS-2520MV-xxx-xx/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Oscillator/ECS-2520MV-xxx-xx/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Oscillator/ECS-2520MV-xxx-xx/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Oscillator/ECS-2520MV-xxx-xx/image.png)|||

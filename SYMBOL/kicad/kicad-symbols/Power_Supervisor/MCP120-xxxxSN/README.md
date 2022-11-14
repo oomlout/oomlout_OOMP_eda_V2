@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKPOWERSUPERVISORMCP12XXXXSN > Power_Supervisor : MCP120-xxxxSN](#szkpowersupervisormcp12xxxxsn--power_supervisor--mcp120-xxxxsn)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Power_Supervisor : MCP120-xxxxSN
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Supervisor-MCP120-xxxxSN](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Supervisor-MCP120-xxxxSN)
 - Short Link: [http://oom.lt/SZKPOWERSUPERVISORMCP12XXXXSN](http://oom.lt/SZKPOWERSUPERVISORMCP12XXXXSN)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Power_Supervisor/MCP120-xxxxSN/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Power_Supervisor/MCP120-xxxxSN/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Power_Supervisor/MCP120-xxxxSN/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Power_Supervisor/MCP120-xxxxSN/image.png)|||

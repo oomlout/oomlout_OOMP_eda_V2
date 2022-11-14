@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKAUDIOTPA55 > Audio : TPA5050](#szkaudiotpa55--audio--tpa5050)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Audio : TPA5050
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Audio-TPA5050](http://oom.lt/SYMBOL-kicad-kicad-symbols-Audio-TPA5050)
 - Short Link: [http://oom.lt/SZKAUDIOTPA55](http://oom.lt/SZKAUDIOTPA55)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Audio/TPA5050/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Audio/TPA5050/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Audio/TPA5050/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Audio/TPA5050/image.png)|||

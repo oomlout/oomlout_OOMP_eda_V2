@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDIODESM6T39A > Diode : SM6T39A](#szkdiodesm6t39a--diode--sm6t39a)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Diode : SM6T39A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-SM6T39A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-SM6T39A)
 - Short Link: [http://oom.lt/SZKDIODESM6T39A](http://oom.lt/SZKDIODESM6T39A)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Diode/SM6T39A/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Diode/SM6T39A/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Diode/SM6T39A/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Diode/SM6T39A/image.png)|||

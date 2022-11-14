@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKBSWTACTILESKSLAXX1LFTR > Button_Switch_THT : SW_Tactile_Straight_KSL0Axx1LFTR](#fzkbswtactileskslaxx1lftr--button_switch_tht--sw_tactile_straight_ksl0axx1lftr)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Button_Switch_THT : SW_Tactile_Straight_KSL0Axx1LFTR
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Button_Switch_THT-SW_Tactile_Straight_KSL0Axx1LFTR](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Button_Switch_THT-SW_Tactile_Straight_KSL0Axx1LFTR)
 - Short Link: [http://oom.lt/FZKBSWTACTILESKSLAXX1LFTR](http://oom.lt/FZKBSWTACTILESKSLAXX1LFTR)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/SW_Tactile_Straight_KSL0Axx1LFTR/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/SW_Tactile_Straight_KSL0Axx1LFTR/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/SW_Tactile_Straight_KSL0Axx1LFTR/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/SW_Tactile_Straight_KSL0Axx1LFTR/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/SW_Tactile_Straight_KSL0Axx1LFTR/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/SW_Tactile_Straight_KSL0Axx1LFTR/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/SW_Tactile_Straight_KSL0Axx1LFTR/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/SW_Tactile_Straight_KSL0Axx1LFTR/kicadPcb3dBack.png)|

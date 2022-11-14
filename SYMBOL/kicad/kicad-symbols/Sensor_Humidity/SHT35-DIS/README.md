@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKSENHUMIDITYSHT35DIS > Sensor_Humidity : SHT35-DIS](#szksenhumiditysht35dis--sensor_humidity--sht35-dis)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Sensor_Humidity : SHT35-DIS
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Humidity-SHT35-DIS](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Humidity-SHT35-DIS)
 - Short Link: [http://oom.lt/SZKSENHUMIDITYSHT35DIS](http://oom.lt/SZKSENHUMIDITYSHT35DIS)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Humidity/SHT35-DIS/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Humidity/SHT35-DIS/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Humidity/SHT35-DIS/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Humidity/SHT35-DIS/image.png)|||

@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKCONCONMOKI78SRVERTICAL > Converter_DCDC : Converter_DCDC_Murata_OKI-78SR_Vertical](#fzkconconmoki78srvertical--converter_dcdc--converter_dcdc_murata_oki-78sr_vertical)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Converter_DCDC : Converter_DCDC_Murata_OKI-78SR_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Converter_DCDC-Converter_DCDC_Murata_OKI-78SR_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Converter_DCDC-Converter_DCDC_Murata_OKI-78SR_Vertical)
 - Short Link: [http://oom.lt/FZKCONCONMOKI78SRVERTICAL](http://oom.lt/FZKCONCONMOKI78SRVERTICAL)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Converter_DCDC/Converter_DCDC_Murata_OKI-78SR_Vertical/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Converter_DCDC/Converter_DCDC_Murata_OKI-78SR_Vertical/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Converter_DCDC/Converter_DCDC_Murata_OKI-78SR_Vertical/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Converter_DCDC/Converter_DCDC_Murata_OKI-78SR_Vertical/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Converter_DCDC/Converter_DCDC_Murata_OKI-78SR_Vertical/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Converter_DCDC/Converter_DCDC_Murata_OKI-78SR_Vertical/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Converter_DCDC/Converter_DCDC_Murata_OKI-78SR_Vertical/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Converter_DCDC/Converter_DCDC_Murata_OKI-78SR_Vertical/kicadPcb3dBack.png)|

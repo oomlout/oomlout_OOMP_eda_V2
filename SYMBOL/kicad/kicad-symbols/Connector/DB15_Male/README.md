@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKCNDB15MALE > Connector : DB15_Male](#szkcndb15male--connector--db15_male)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Connector : DB15_Male
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-DB15_Male](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-DB15_Male)
 - Short Link: [http://oom.lt/SZKCNDB15MALE](http://oom.lt/SZKCNDB15MALE)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/DB15_Male/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/DB15_Male/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/DB15_Male/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/DB15_Male/image.png)|||

@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKFLAIRDTECH28C236JW1 > Ferrite_THT : LairdTech_28C0236-0JW-10](#fzkflairdtech28c236jw1--ferrite_tht--lairdtech_28c0236-0jw-10)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Ferrite_THT : LairdTech_28C0236-0JW-10
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Ferrite_THT-LairdTech_28C0236-0JW-10](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Ferrite_THT-LairdTech_28C0236-0JW-10)
 - Short Link: [http://oom.lt/FZKFLAIRDTECH28C236JW1](http://oom.lt/FZKFLAIRDTECH28C236JW1)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Ferrite_THT/LairdTech_28C0236-0JW-10/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Ferrite_THT/LairdTech_28C0236-0JW-10/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Ferrite_THT/LairdTech_28C0236-0JW-10/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Ferrite_THT/LairdTech_28C0236-0JW-10/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Ferrite_THT/LairdTech_28C0236-0JW-10/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Ferrite_THT/LairdTech_28C0236-0JW-10/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Ferrite_THT/LairdTech_28C0236-0JW-10/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Ferrite_THT/LairdTech_28C0236-0JW-10/kicadPcb3dBack.png)|

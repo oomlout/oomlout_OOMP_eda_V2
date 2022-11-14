@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKTRANSISTORPOWERMOMG1275WXN2 > Transistor_Power_Module : MG1275W-XN2MM](#szktransistorpowermomg1275wxn2--transistor_power_module--mg1275w-xn2mm)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Transistor_Power_Module : MG1275W-XN2MM
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_Power_Module-MG1275W-XN2MM](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_Power_Module-MG1275W-XN2MM)
 - Short Link: [http://oom.lt/SZKTRANSISTORPOWERMOMG1275WXN2](http://oom.lt/SZKTRANSISTORPOWERMOMG1275WXN2)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_Power_Module/MG1275W-XN2MM/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_Power_Module/MG1275W-XN2MM/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_Power_Module/MG1275W-XN2MM/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_Power_Module/MG1275W-XN2MM/image.png)|||

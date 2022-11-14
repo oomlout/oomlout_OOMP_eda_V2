@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKREGULATORCONTROLLERNCP1217AP1 > Regulator_Controller : NCP1217AP100](#szkregulatorcontrollerncp1217ap1--regulator_controller--ncp1217ap100)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Regulator_Controller : NCP1217AP100
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Controller-NCP1217AP100](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Controller-NCP1217AP100)
 - Short Link: [http://oom.lt/SZKREGULATORCONTROLLERNCP1217AP1](http://oom.lt/SZKREGULATORCONTROLLERNCP1217AP1)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Controller/NCP1217AP100/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Controller/NCP1217AP100/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Controller/NCP1217AP100/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Controller/NCP1217AP100/image.png)|||

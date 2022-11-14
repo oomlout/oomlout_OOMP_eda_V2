@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKOCS5P49V6965 > Oscillator : 5P49V6965](#szkocs5p49v6965--oscillator--5p49v6965)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Oscillator : 5P49V6965
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Oscillator-5P49V6965](http://oom.lt/SYMBOL-kicad-kicad-symbols-Oscillator-5P49V6965)
 - Short Link: [http://oom.lt/SZKOCS5P49V6965](http://oom.lt/SZKOCS5P49V6965)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Oscillator/5P49V6965/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Oscillator/5P49V6965/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Oscillator/5P49V6965/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Oscillator/5P49V6965/image.png)|||

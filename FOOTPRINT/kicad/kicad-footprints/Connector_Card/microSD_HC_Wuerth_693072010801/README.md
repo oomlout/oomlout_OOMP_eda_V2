@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKCNCARDMSDHCWUERTH69372181 > Connector_Card : microSD_HC_Wuerth_693072010801](#fzkcncardmsdhcwuerth69372181--connector_card--microsd_hc_wuerth_693072010801)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Connector_Card : microSD_HC_Wuerth_693072010801
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Card-microSD_HC_Wuerth_693072010801](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Card-microSD_HC_Wuerth_693072010801)
 - Short Link: [http://oom.lt/FZKCNCARDMSDHCWUERTH69372181](http://oom.lt/FZKCNCARDMSDHCWUERTH69372181)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Card/microSD_HC_Wuerth_693072010801/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Card/microSD_HC_Wuerth_693072010801/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Card/microSD_HC_Wuerth_693072010801/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Card/microSD_HC_Wuerth_693072010801/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Card/microSD_HC_Wuerth_693072010801/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Card/microSD_HC_Wuerth_693072010801/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Card/microSD_HC_Wuerth_693072010801/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Card/microSD_HC_Wuerth_693072010801/kicadPcb3dBack.png)|

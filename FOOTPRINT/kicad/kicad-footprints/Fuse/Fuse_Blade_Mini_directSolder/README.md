@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKFUFUBLADEMDIRECTSOLDER > Fuse : Fuse_Blade_Mini_directSolder](#fzkfufublademdirectsolder--fuse--fuse_blade_mini_directsolder)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Fuse : Fuse_Blade_Mini_directSolder
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Fuse-Fuse_Blade_Mini_directSolder](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Fuse-Fuse_Blade_Mini_directSolder)
 - Short Link: [http://oom.lt/FZKFUFUBLADEMDIRECTSOLDER](http://oom.lt/FZKFUFUBLADEMDIRECTSOLDER)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Fuse/Fuse_Blade_Mini_directSolder/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Fuse/Fuse_Blade_Mini_directSolder/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Fuse/Fuse_Blade_Mini_directSolder/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Fuse/Fuse_Blade_Mini_directSolder/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Fuse/Fuse_Blade_Mini_directSolder/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Fuse/Fuse_Blade_Mini_directSolder/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Fuse/Fuse_Blade_Mini_directSolder/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Fuse/Fuse_Blade_Mini_directSolder/kicadPcb3dBack.png)|

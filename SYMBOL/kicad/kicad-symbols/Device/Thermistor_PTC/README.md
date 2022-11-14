@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDEVICETHERMISTORPTC > Device : Thermistor_PTC](#szkdevicethermistorptc--device--thermistor_ptc)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Device : Thermistor_PTC
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Thermistor_PTC](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Thermistor_PTC)
 - Short Link: [http://oom.lt/SZKDEVICETHERMISTORPTC](http://oom.lt/SZKDEVICETHERMISTORPTC)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/Thermistor_PTC/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/Thermistor_PTC/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/Thermistor_PTC/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/Thermistor_PTC/image.png)|||

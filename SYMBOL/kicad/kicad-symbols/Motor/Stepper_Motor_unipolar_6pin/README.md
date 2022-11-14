@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKMOTORSTEPPERMOTORUNIPOLAR6PIN > Motor : Stepper_Motor_unipolar_6pin](#szkmotorsteppermotorunipolar6pin--motor--stepper_motor_unipolar_6pin)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Motor : Stepper_Motor_unipolar_6pin
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Motor-Stepper_Motor_unipolar_6pin](http://oom.lt/SYMBOL-kicad-kicad-symbols-Motor-Stepper_Motor_unipolar_6pin)
 - Short Link: [http://oom.lt/SZKMOTORSTEPPERMOTORUNIPOLAR6PIN](http://oom.lt/SZKMOTORSTEPPERMOTORUNIPOLAR6PIN)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Motor/Stepper_Motor_unipolar_6pin/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Motor/Stepper_Motor_unipolar_6pin/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Motor/Stepper_Motor_unipolar_6pin/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Motor/Stepper_Motor_unipolar_6pin/image.png)|||

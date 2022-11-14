@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKPOWERSUPERVISORMCP13XXXFXTO > Power_Supervisor : MCP130-xxxFxTO](#szkpowersupervisormcp13xxxfxto--power_supervisor--mcp130-xxxfxto)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Power_Supervisor : MCP130-xxxFxTO
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Supervisor-MCP130-xxxFxTO](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Supervisor-MCP130-xxxFxTO)
 - Short Link: [http://oom.lt/SZKPOWERSUPERVISORMCP13XXXFXTO](http://oom.lt/SZKPOWERSUPERVISORMCP13XXXFXTO)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Power_Supervisor/MCP130-xxxFxTO/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Power_Supervisor/MCP130-xxxFxTO/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Power_Supervisor/MCP130-xxxFxTO/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Power_Supervisor/MCP130-xxxFxTO/image.png)|||

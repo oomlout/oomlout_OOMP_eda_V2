@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKCONMEE1S2412SC > Converter_DCDC : MEE1S2412SC](#szkconmee1s2412sc--converter_dcdc--mee1s2412sc)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Converter_DCDC : MEE1S2412SC
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-MEE1S2412SC](http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-MEE1S2412SC)
 - Short Link: [http://oom.lt/SZKCONMEE1S2412SC](http://oom.lt/SZKCONMEE1S2412SC)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Converter_DCDC/MEE1S2412SC/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Converter_DCDC/MEE1S2412SC/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Converter_DCDC/MEE1S2412SC/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Converter_DCDC/MEE1S2412SC/image.png)|||

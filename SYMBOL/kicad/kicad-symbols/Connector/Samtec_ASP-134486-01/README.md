@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKCNSAMTECASP1344861 > Connector : Samtec_ASP-134486-01](#szkcnsamtecasp1344861--connector--samtec_asp-134486-01)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Connector : Samtec_ASP-134486-01
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-Samtec_ASP-134486-01](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-Samtec_ASP-134486-01)
 - Short Link: [http://oom.lt/SZKCNSAMTECASP1344861](http://oom.lt/SZKCNSAMTECASP1344861)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/Samtec_ASP-134486-01/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Samtec_ASP-134486-01/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/Samtec_ASP-134486-01/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Samtec_ASP-134486-01/image.png)|||

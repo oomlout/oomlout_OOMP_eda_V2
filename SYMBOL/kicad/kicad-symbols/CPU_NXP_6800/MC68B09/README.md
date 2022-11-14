@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKCPUNXP68MC68B9 > CPU_NXP_6800 : MC68B09](#szkcpunxp68mc68b9--cpu_nxp_6800--mc68b09)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: CPU_NXP_6800 : MC68B09
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-CPU_NXP_6800-MC68B09](http://oom.lt/SYMBOL-kicad-kicad-symbols-CPU_NXP_6800-MC68B09)
 - Short Link: [http://oom.lt/SZKCPUNXP68MC68B9](http://oom.lt/SZKCPUNXP68MC68B9)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/CPU_NXP_6800/MC68B09/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/CPU_NXP_6800/MC68B09/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/CPU_NXP_6800/MC68B09/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/CPU_NXP_6800/MC68B09/image.png)|||

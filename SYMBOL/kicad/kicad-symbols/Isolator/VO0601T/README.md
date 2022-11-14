@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKISOLATORVO61T > Isolator : VO0601T](#szkisolatorvo61t--isolator--vo0601t)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Isolator : VO0601T
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-VO0601T](http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-VO0601T)
 - Short Link: [http://oom.lt/SZKISOLATORVO61T](http://oom.lt/SZKISOLATORVO61T)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Isolator/VO0601T/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Isolator/VO0601T/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Isolator/VO0601T/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Isolator/VO0601T/image.png)|||

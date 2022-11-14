@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKTRANSISTORFETSTS2DNE6 > Transistor_FET : STS2DNE60](#szktransistorfetsts2dne6--transistor_fet--sts2dne60)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Transistor_FET : STS2DNE60
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-STS2DNE60](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-STS2DNE60)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETSTS2DNE6](http://oom.lt/SZKTRANSISTORFETSTS2DNE6)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/STS2DNE60/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/STS2DNE60/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/STS2DNE60/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/STS2DNE60/image.png)|||

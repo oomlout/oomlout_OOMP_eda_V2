@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKSENHUMIDITYSHTC3 > Sensor_Humidity : SHTC3](#szksenhumidityshtc3--sensor_humidity--shtc3)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Sensor_Humidity : SHTC3
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Humidity-SHTC3](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Humidity-SHTC3)
 - Short Link: [http://oom.lt/SZKSENHUMIDITYSHTC3](http://oom.lt/SZKSENHUMIDITYSHTC3)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Humidity/SHTC3/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Humidity/SHTC3/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Humidity/SHTC3/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Humidity/SHTC3/image.png)|||

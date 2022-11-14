@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKSENMAGNETICA131KLHLTT > Sensor_Magnetic : A1301KLHLT-T](#szksenmagnetica131klhltt--sensor_magnetic--a1301klhlt-t)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Sensor_Magnetic : A1301KLHLT-T
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Magnetic-A1301KLHLT-T](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Magnetic-A1301KLHLT-T)
 - Short Link: [http://oom.lt/SZKSENMAGNETICA131KLHLTT](http://oom.lt/SZKSENMAGNETICA131KLHLTT)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Magnetic/A1301KLHLT-T/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Magnetic/A1301KLHLT-T/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Magnetic/A1301KLHLT-T/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Magnetic/A1301KLHLT-T/image.png)|||

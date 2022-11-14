@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDRIVERFETIR716S > Driver_FET : IR7106S](#szkdriverfetir716s--driver_fet--ir7106s)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Driver_FET : IR7106S
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-IR7106S](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-IR7106S)
 - Short Link: [http://oom.lt/SZKDRIVERFETIR716S](http://oom.lt/SZKDRIVERFETIR716S)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Driver_FET/IR7106S/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Driver_FET/IR7106S/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Driver_FET/IR7106S/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Driver_FET/IR7106S/image.png)|||

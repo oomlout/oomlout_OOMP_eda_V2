@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDIODEC3D465A > Diode : C3D04065A](#szkdiodec3d465a--diode--c3d04065a)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Diode : C3D04065A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-C3D04065A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-C3D04065A)
 - Short Link: [http://oom.lt/SZKDIODEC3D465A](http://oom.lt/SZKDIODEC3D465A)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Diode/C3D04065A/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Diode/C3D04065A/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Diode/C3D04065A/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Diode/C3D04065A/image.png)|||

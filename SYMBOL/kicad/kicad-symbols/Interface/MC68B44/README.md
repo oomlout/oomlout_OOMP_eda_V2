@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKINTERFACEMC68B44 > Interface : MC68B44](#szkinterfacemc68b44--interface--mc68b44)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Interface : MC68B44
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-MC68B44](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-MC68B44)
 - Short Link: [http://oom.lt/SZKINTERFACEMC68B44](http://oom.lt/SZKINTERFACEMC68B44)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface/MC68B44/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface/MC68B44/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface/MC68B44/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface/MC68B44/image.png)|||

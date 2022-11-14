@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKTRANSISTORFETBSR58 > Transistor_FET : BSR58](#szktransistorfetbsr58--transistor_fet--bsr58)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Transistor_FET : BSR58
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-BSR58](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-BSR58)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETBSR58](http://oom.lt/SZKTRANSISTORFETBSR58)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/BSR58/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/BSR58/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/BSR58/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/BSR58/image.png)|||

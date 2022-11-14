@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKMCUMCHIPAVRDXAVR128DA28XXSO > MCU_Microchip_AVR_Dx : AVR128DA28x-xSO](#szkmcumchipavrdxavr128da28xxso--mcu_microchip_avr_dx--avr128da28x-xso)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: MCU_Microchip_AVR_Dx : AVR128DA28x-xSO
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_AVR_Dx-AVR128DA28x-xSO](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_AVR_Dx-AVR128DA28x-xSO)
 - Short Link: [http://oom.lt/SZKMCUMCHIPAVRDXAVR128DA28XXSO](http://oom.lt/SZKMCUMCHIPAVRDXAVR128DA28XXSO)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_AVR_Dx/AVR128DA28x-xSO/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_AVR_Dx/AVR128DA28x-xSO/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_AVR_Dx/AVR128DA28x-xSO/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_AVR_Dx/AVR128DA28x-xSO/image.png)|||

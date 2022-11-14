@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKPSPICEQPNP > pspice : QPNP](#szkpspiceqpnp--pspice--qpnp)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: pspice : QPNP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-pspice-QPNP](http://oom.lt/SYMBOL-kicad-kicad-symbols-pspice-QPNP)
 - Short Link: [http://oom.lt/SZKPSPICEQPNP](http://oom.lt/SZKPSPICEQPNP)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/pspice/QPNP/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/pspice/QPNP/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/pspice/QPNP/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/pspice/QPNP/image.png)|||

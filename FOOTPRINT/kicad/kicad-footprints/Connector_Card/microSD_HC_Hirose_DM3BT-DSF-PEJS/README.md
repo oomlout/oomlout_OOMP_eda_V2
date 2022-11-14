@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKCNCARDMSDHCHIROSEDM3BTDSFPEJS > Connector_Card : microSD_HC_Hirose_DM3BT-DSF-PEJS](#fzkcncardmsdhchirosedm3btdsfpejs--connector_card--microsd_hc_hirose_dm3bt-dsf-pejs)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Connector_Card : microSD_HC_Hirose_DM3BT-DSF-PEJS
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Card-microSD_HC_Hirose_DM3BT-DSF-PEJS](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Card-microSD_HC_Hirose_DM3BT-DSF-PEJS)
 - Short Link: [http://oom.lt/FZKCNCARDMSDHCHIROSEDM3BTDSFPEJS](http://oom.lt/FZKCNCARDMSDHCHIROSEDM3BTDSFPEJS)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Card/microSD_HC_Hirose_DM3BT-DSF-PEJS/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Card/microSD_HC_Hirose_DM3BT-DSF-PEJS/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Card/microSD_HC_Hirose_DM3BT-DSF-PEJS/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Card/microSD_HC_Hirose_DM3BT-DSF-PEJS/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Card/microSD_HC_Hirose_DM3BT-DSF-PEJS/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Card/microSD_HC_Hirose_DM3BT-DSF-PEJS/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Card/microSD_HC_Hirose_DM3BT-DSF-PEJS/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Card/microSD_HC_Hirose_DM3BT-DSF-PEJS/kicadPcb3dBack.png)|

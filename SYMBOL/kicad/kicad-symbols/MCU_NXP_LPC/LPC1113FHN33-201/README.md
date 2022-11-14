@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKMCUNXPLPCLPC1113FHN3321 > MCU_NXP_LPC : LPC1113FHN33-201](#szkmcunxplpclpc1113fhn3321--mcu_nxp_lpc--lpc1113fhn33-201)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: MCU_NXP_LPC : LPC1113FHN33-201
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_NXP_LPC-LPC1113FHN33-201](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_NXP_LPC-LPC1113FHN33-201)
 - Short Link: [http://oom.lt/SZKMCUNXPLPCLPC1113FHN3321](http://oom.lt/SZKMCUNXPLPCLPC1113FHN3321)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_NXP_LPC/LPC1113FHN33-201/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_NXP_LPC/LPC1113FHN33-201/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_NXP_LPC/LPC1113FHN33-201/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_NXP_LPC/LPC1113FHN33-201/image.png)|||

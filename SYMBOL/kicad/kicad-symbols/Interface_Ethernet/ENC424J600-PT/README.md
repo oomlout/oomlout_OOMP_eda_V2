@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKINTERFACEETHERNETENC424J6PT > Interface_Ethernet : ENC424J600-PT](#szkinterfaceethernetenc424j6pt--interface_ethernet--enc424j600-pt)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Interface_Ethernet : ENC424J600-PT
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Ethernet-ENC424J600-PT](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Ethernet-ENC424J600-PT)
 - Short Link: [http://oom.lt/SZKINTERFACEETHERNETENC424J6PT](http://oom.lt/SZKINTERFACEETHERNETENC424J6PT)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface_Ethernet/ENC424J600-PT/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface_Ethernet/ENC424J600-PT/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface_Ethernet/ENC424J600-PT/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface_Ethernet/ENC424J600-PT/image.png)|||

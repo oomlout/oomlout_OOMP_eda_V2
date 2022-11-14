@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKINTERFACEUTPS2514A > Interface_USB : TPS2514A](#szkinterfaceutps2514a--interface_usb--tps2514a)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Interface_USB : TPS2514A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_USB-TPS2514A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_USB-TPS2514A)
 - Short Link: [http://oom.lt/SZKINTERFACEUTPS2514A](http://oom.lt/SZKINTERFACEUTPS2514A)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface_USB/TPS2514A/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface_USB/TPS2514A/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface_USB/TPS2514A/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface_USB/TPS2514A/image.png)|||

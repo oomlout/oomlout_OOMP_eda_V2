@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKCNFFCFPCHIROSEFH413S5SH1X31MP1SHP5HORIZONTAL > Connector_FFC-FPC : Hirose_FH41-30S-0.5SH_1x30_1MP_1SH_P0.5mm_Horizontal](#fzkcnffcfpchirosefh413s5sh1x31mp1shp5horizontal--connector_ffc-fpc--hirose_fh41-30s-05sh_1x30_1mp_1sh_p05mm_horizontal)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Connector_FFC-FPC : Hirose_FH41-30S-0.5SH_1x30_1MP_1SH_P0.5mm_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_FFC-FPC-Hirose_FH41-30S-0.5SH_1x30_1MP_1SH_P0.5mm_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_FFC-FPC-Hirose_FH41-30S-0.5SH_1x30_1MP_1SH_P0.5mm_Horizontal)
 - Short Link: [http://oom.lt/FZKCNFFCFPCHIROSEFH413S5SH1X31MP1SHP5HORIZONTAL](http://oom.lt/FZKCNFFCFPCHIROSEFH413S5SH1X31MP1SHP5HORIZONTAL)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_FFC-FPC/Hirose_FH41-30S-0.5SH_1x30_1MP_1SH_P0.5mm_Horizontal/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_FFC-FPC/Hirose_FH41-30S-0.5SH_1x30_1MP_1SH_P0.5mm_Horizontal/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_FFC-FPC/Hirose_FH41-30S-0.5SH_1x30_1MP_1SH_P0.5mm_Horizontal/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_FFC-FPC/Hirose_FH41-30S-0.5SH_1x30_1MP_1SH_P0.5mm_Horizontal/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_FFC-FPC/Hirose_FH41-30S-0.5SH_1x30_1MP_1SH_P0.5mm_Horizontal/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_FFC-FPC/Hirose_FH41-30S-0.5SH_1x30_1MP_1SH_P0.5mm_Horizontal/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_FFC-FPC/Hirose_FH41-30S-0.5SH_1x30_1MP_1SH_P0.5mm_Horizontal/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_FFC-FPC/Hirose_FH41-30S-0.5SH_1x30_1MP_1SH_P0.5mm_Horizontal/kicadPcb3dBack.png)|

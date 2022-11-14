@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKTRANSISTORFETBS25 > Transistor_FET : BS250](#szktransistorfetbs25--transistor_fet--bs250)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Transistor_FET : BS250
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-BS250](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-BS250)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETBS25](http://oom.lt/SZKTRANSISTORFETBS25)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/BS250/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/BS250/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/BS250/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/BS250/image.png)|||

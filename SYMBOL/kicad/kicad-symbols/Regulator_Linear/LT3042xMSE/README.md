@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKREGULATORLINEARLT342XMSE > Regulator_Linear : LT3042xMSE](#szkregulatorlinearlt342xmse--regulator_linear--lt3042xmse)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Regulator_Linear : LT3042xMSE
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LT3042xMSE](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LT3042xMSE)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARLT342XMSE](http://oom.lt/SZKREGULATORLINEARLT342XMSE)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LT3042xMSE/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LT3042xMSE/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LT3042xMSE/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LT3042xMSE/image.png)|||

@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKCOMPARATORLT116 > Comparator : LT1016](#szkcomparatorlt116--comparator--lt1016)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Comparator : LT1016
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Comparator-LT1016](http://oom.lt/SYMBOL-kicad-kicad-symbols-Comparator-LT1016)
 - Short Link: [http://oom.lt/SZKCOMPARATORLT116](http://oom.lt/SZKCOMPARATORLT116)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Comparator/LT1016/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Comparator/LT1016/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Comparator/LT1016/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Comparator/LT1016/image.png)|||

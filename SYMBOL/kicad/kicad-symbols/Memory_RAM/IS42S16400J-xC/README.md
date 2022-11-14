@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKMEMORYRAMIS42S164JXC > Memory_RAM : IS42S16400J-xC](#szkmemoryramis42s164jxc--memory_ram--is42s16400j-xc)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Memory_RAM : IS42S16400J-xC
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_RAM-IS42S16400J-xC](http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_RAM-IS42S16400J-xC)
 - Short Link: [http://oom.lt/SZKMEMORYRAMIS42S164JXC](http://oom.lt/SZKMEMORYRAMIS42S164JXC)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Memory_RAM/IS42S16400J-xC/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Memory_RAM/IS42S16400J-xC/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Memory_RAM/IS42S16400J-xC/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Memory_RAM/IS42S16400J-xC/image.png)|||

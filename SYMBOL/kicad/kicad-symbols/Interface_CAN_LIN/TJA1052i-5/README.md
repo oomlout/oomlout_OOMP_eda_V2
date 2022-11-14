@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKINTERFACECANLINTJA152I5 > Interface_CAN_LIN : TJA1052i-5](#szkinterfacecanlintja152i5--interface_can_lin--tja1052i-5)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Interface_CAN_LIN : TJA1052i-5
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_CAN_LIN-TJA1052i-5](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_CAN_LIN-TJA1052i-5)
 - Short Link: [http://oom.lt/SZKINTERFACECANLINTJA152I5](http://oom.lt/SZKINTERFACECANLINTJA152I5)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface_CAN_LIN/TJA1052i-5/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface_CAN_LIN/TJA1052i-5/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface_CAN_LIN/TJA1052i-5/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface_CAN_LIN/TJA1052i-5/image.png)|||

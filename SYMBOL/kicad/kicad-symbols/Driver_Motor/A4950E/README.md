@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDRIVERMOTORA495E > Driver_Motor : A4950E](#szkdrivermotora495e--driver_motor--a4950e)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Driver_Motor : A4950E
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_Motor-A4950E](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_Motor-A4950E)
 - Short Link: [http://oom.lt/SZKDRIVERMOTORA495E](http://oom.lt/SZKDRIVERMOTORA495E)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Driver_Motor/A4950E/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Driver_Motor/A4950E/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Driver_Motor/A4950E/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Driver_Motor/A4950E/image.png)|||

@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKPOWER+1V > power : +10V](#szkpower1v--power--10v)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: power : +10V
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-power-+10V](http://oom.lt/SYMBOL-kicad-kicad-symbols-power-+10V)
 - Short Link: [http://oom.lt/SZKPOWER+1V](http://oom.lt/SZKPOWER+1V)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/power/+10V/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/power/+10V/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/power/+10V/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/power/+10V/image.png)|||

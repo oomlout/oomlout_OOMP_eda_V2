@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKOCSMV317 > Oscillator : MV317](#szkocsmv317--oscillator--mv317)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Oscillator : MV317
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Oscillator-MV317](http://oom.lt/SYMBOL-kicad-kicad-symbols-Oscillator-MV317)
 - Short Link: [http://oom.lt/SZKOCSMV317](http://oom.lt/SZKOCSMV317)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Oscillator/MV317/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Oscillator/MV317/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Oscillator/MV317/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Oscillator/MV317/image.png)|||

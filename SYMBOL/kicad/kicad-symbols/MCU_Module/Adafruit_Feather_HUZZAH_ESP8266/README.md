@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKMCUMOADAFEATHERHUZZAHESP8266 > MCU_Module : Adafruit_Feather_HUZZAH_ESP8266](#szkmcumoadafeatherhuzzahesp8266--mcu_module--adafruit_feather_huzzah_esp8266)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: MCU_Module : Adafruit_Feather_HUZZAH_ESP8266
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Module-Adafruit_Feather_HUZZAH_ESP8266](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Module-Adafruit_Feather_HUZZAH_ESP8266)
 - Short Link: [http://oom.lt/SZKMCUMOADAFEATHERHUZZAHESP8266](http://oom.lt/SZKMCUMOADAFEATHERHUZZAHESP8266)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Module/Adafruit_Feather_HUZZAH_ESP8266/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Module/Adafruit_Feather_HUZZAH_ESP8266/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Module/Adafruit_Feather_HUZZAH_ESP8266/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Module/Adafruit_Feather_HUZZAH_ESP8266/image.png)|||

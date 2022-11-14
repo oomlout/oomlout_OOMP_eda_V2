@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKREGULATORLINEARBD8FCWFP > Regulator_Linear : BD80FC0WFP](#szkregulatorlinearbd8fcwfp--regulator_linear--bd80fc0wfp)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Regulator_Linear : BD80FC0WFP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-BD80FC0WFP](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-BD80FC0WFP)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARBD8FCWFP](http://oom.lt/SZKREGULATORLINEARBD8FCWFP)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/BD80FC0WFP/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/BD80FC0WFP/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/BD80FC0WFP/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/BD80FC0WFP/image.png)|||

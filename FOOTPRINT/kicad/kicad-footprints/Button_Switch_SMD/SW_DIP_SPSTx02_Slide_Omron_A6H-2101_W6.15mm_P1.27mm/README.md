@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKBSWITCHSMSWDIPSPSTX2SLIDEOMRONA6H211W615P127 > Button_Switch_SMD : SW_DIP_SPSTx02_Slide_Omron_A6H-2101_W6.15mm_P1.27mm](#fzkbswitchsmswdipspstx2slideomrona6h211w615p127--button_switch_smd--sw_dip_spstx02_slide_omron_a6h-2101_w615mm_p127mm)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Button_Switch_SMD : SW_DIP_SPSTx02_Slide_Omron_A6H-2101_W6.15mm_P1.27mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-SW_DIP_SPSTx02_Slide_Omron_A6H-2101_W6.15mm_P1.27mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-SW_DIP_SPSTx02_Slide_Omron_A6H-2101_W6.15mm_P1.27mm)
 - Short Link: [http://oom.lt/FZKBSWITCHSMSWDIPSPSTX2SLIDEOMRONA6H211W615P127](http://oom.lt/FZKBSWITCHSMSWDIPSPSTX2SLIDEOMRONA6H211W615P127)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_SMD/SW_DIP_SPSTx02_Slide_Omron_A6H-2101_W6.15mm_P1.27mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_SMD/SW_DIP_SPSTx02_Slide_Omron_A6H-2101_W6.15mm_P1.27mm/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_SMD/SW_DIP_SPSTx02_Slide_Omron_A6H-2101_W6.15mm_P1.27mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_SMD/SW_DIP_SPSTx02_Slide_Omron_A6H-2101_W6.15mm_P1.27mm/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_SMD/SW_DIP_SPSTx02_Slide_Omron_A6H-2101_W6.15mm_P1.27mm/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_SMD/SW_DIP_SPSTx02_Slide_Omron_A6H-2101_W6.15mm_P1.27mm/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_SMD/SW_DIP_SPSTx02_Slide_Omron_A6H-2101_W6.15mm_P1.27mm/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_SMD/SW_DIP_SPSTx02_Slide_Omron_A6H-2101_W6.15mm_P1.27mm/kicadPcb3dBack.png)|

@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDRIVERMOTORA4954 > Driver_Motor : A4954](#szkdrivermotora4954--driver_motor--a4954)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Driver_Motor : A4954
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_Motor-A4954](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_Motor-A4954)
 - Short Link: [http://oom.lt/SZKDRIVERMOTORA4954](http://oom.lt/SZKDRIVERMOTORA4954)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Driver_Motor/A4954/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Driver_Motor/A4954/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Driver_Motor/A4954/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Driver_Motor/A4954/image.png)|||

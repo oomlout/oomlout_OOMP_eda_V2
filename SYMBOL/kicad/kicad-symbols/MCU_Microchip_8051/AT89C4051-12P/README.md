@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKMCUMCHIP851AT89C45112P > MCU_Microchip_8051 : AT89C4051-12P](#szkmcumchip851at89c45112p--mcu_microchip_8051--at89c4051-12p)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: MCU_Microchip_8051 : AT89C4051-12P
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_8051-AT89C4051-12P](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_8051-AT89C4051-12P)
 - Short Link: [http://oom.lt/SZKMCUMCHIP851AT89C45112P](http://oom.lt/SZKMCUMCHIP851AT89C45112P)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_8051/AT89C4051-12P/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_8051/AT89C4051-12P/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_8051/AT89C4051-12P/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_8051/AT89C4051-12P/image.png)|||

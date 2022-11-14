@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKSIMULATIONSPICEIPWL > Simulation_SPICE : IPWL](#szksimulationspiceipwl--simulation_spice--ipwl)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Simulation_SPICE : IPWL
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Simulation_SPICE-IPWL](http://oom.lt/SYMBOL-kicad-kicad-symbols-Simulation_SPICE-IPWL)
 - Short Link: [http://oom.lt/SZKSIMULATIONSPICEIPWL](http://oom.lt/SZKSIMULATIONSPICEIPWL)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Simulation_SPICE/IPWL/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Simulation_SPICE/IPWL/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Simulation_SPICE/IPWL/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Simulation_SPICE/IPWL/image.png)|||

@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKCNGENERICSHEDCONN2ROWS63PINSSHED > Connector_Generic_Shielded : Conn_2Rows-63Pins_Shielded](#szkcngenericshedconn2rows63pinsshed--connector_generic_shielded--conn_2rows-63pins_shielded)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Connector_Generic_Shielded : Conn_2Rows-63Pins_Shielded
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector_Generic_Shielded-Conn_2Rows-63Pins_Shielded](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector_Generic_Shielded-Conn_2Rows-63Pins_Shielded)
 - Short Link: [http://oom.lt/SZKCNGENERICSHEDCONN2ROWS63PINSSHED](http://oom.lt/SZKCNGENERICSHEDCONN2ROWS63PINSSHED)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector_Generic_Shielded/Conn_2Rows-63Pins_Shielded/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector_Generic_Shielded/Conn_2Rows-63Pins_Shielded/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector_Generic_Shielded/Conn_2Rows-63Pins_Shielded/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector_Generic_Shielded/Conn_2Rows-63Pins_Shielded/image.png)|||

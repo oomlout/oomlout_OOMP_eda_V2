@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKSIMULATIONSPICEVPULSE > Simulation_SPICE : VPULSE](#szksimulationspicevpulse--simulation_spice--vpulse)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Simulation_SPICE : VPULSE
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Simulation_SPICE-VPULSE](http://oom.lt/SYMBOL-kicad-kicad-symbols-Simulation_SPICE-VPULSE)
 - Short Link: [http://oom.lt/SZKSIMULATIONSPICEVPULSE](http://oom.lt/SZKSIMULATIONSPICEVPULSE)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Simulation_SPICE/VPULSE/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Simulation_SPICE/VPULSE/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Simulation_SPICE/VPULSE/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Simulation_SPICE/VPULSE/image.png)|||

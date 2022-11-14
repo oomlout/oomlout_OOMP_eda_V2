@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDEVICEDSCHOTTKY > Device : D_Schottky](#szkdevicedschottky--device--d_schottky)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Device : D_Schottky
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-D_Schottky](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-D_Schottky)
 - Short Link: [http://oom.lt/SZKDEVICEDSCHOTTKY](http://oom.lt/SZKDEVICEDSCHOTTKY)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/D_Schottky/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/D_Schottky/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/D_Schottky/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/D_Schottky/image.png)|||

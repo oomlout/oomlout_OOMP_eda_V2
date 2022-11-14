@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKAUDIOAS336 > Audio : AS3360](#szkaudioas336--audio--as3360)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Audio : AS3360
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Audio-AS3360](http://oom.lt/SYMBOL-kicad-kicad-symbols-Audio-AS3360)
 - Short Link: [http://oom.lt/SZKAUDIOAS336](http://oom.lt/SZKAUDIOAS336)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Audio/AS3360/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Audio/AS3360/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Audio/AS3360/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Audio/AS3360/image.png)|||

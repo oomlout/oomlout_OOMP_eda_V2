@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKANALOGDACMC148DIP > Analog_DAC : MC1408_DIP](#szkanalogdacmc148dip--analog_dac--mc1408_dip)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Analog_DAC : MC1408_DIP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_DAC-MC1408_DIP](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_DAC-MC1408_DIP)
 - Short Link: [http://oom.lt/SZKANALOGDACMC148DIP](http://oom.lt/SZKANALOGDACMC148DIP)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Analog_DAC/MC1408_DIP/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Analog_DAC/MC1408_DIP/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Analog_DAC/MC1408_DIP/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Analog_DAC/MC1408_DIP/image.png)|||

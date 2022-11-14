@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDEVICELAMP > Device : Lamp](#szkdevicelamp--device--lamp)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Device : Lamp
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Lamp](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Lamp)
 - Short Link: [http://oom.lt/SZKDEVICELAMP](http://oom.lt/SZKDEVICELAMP)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/Lamp/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/Lamp/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/Lamp/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/Lamp/image.png)|||

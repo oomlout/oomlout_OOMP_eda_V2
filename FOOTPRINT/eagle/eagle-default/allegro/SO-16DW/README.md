@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZEALLEGROSO16DW > allegro : SO-16DW](#fzeallegroso16dw--allegro--so-16dw)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: allegro : SO-16DW
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-allegro-SO-16DW](http://oom.lt/FOOTPRINT-eagle-eagle-default-allegro-SO-16DW)
 - Short Link: [http://oom.lt/FZEALLEGROSO16DW](http://oom.lt/FZEALLEGROSO16DW)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/allegro/SO-16DW/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/allegro/SO-16DW/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/allegro/SO-16DW/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/allegro/SO-16DW/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/allegro/SO-16DW/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/allegro/SO-16DW/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/allegro/SO-16DW/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/allegro/SO-16DW/kicadPcb3dBack.png)|

@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKAMPLIFIERBUFFERLM6321H > Amplifier_Buffer : LM6321H](#szkamplifierbufferlm6321h--amplifier_buffer--lm6321h)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Amplifier_Buffer : LM6321H
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Buffer-LM6321H](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Buffer-LM6321H)
 - Short Link: [http://oom.lt/SZKAMPLIFIERBUFFERLM6321H](http://oom.lt/SZKAMPLIFIERBUFFERLM6321H)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Amplifier_Buffer/LM6321H/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Amplifier_Buffer/LM6321H/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Amplifier_Buffer/LM6321H/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Amplifier_Buffer/LM6321H/image.png)|||

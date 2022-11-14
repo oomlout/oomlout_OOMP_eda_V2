@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKMEMORYFLASH29F1TSSP > Memory_Flash : 29F010-TSOP-SP](#szkmemoryflash29f1tssp--memory_flash--29f010-tsop-sp)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Memory_Flash : 29F010-TSOP-SP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_Flash-29F010-TSOP-SP](http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_Flash-29F010-TSOP-SP)
 - Short Link: [http://oom.lt/SZKMEMORYFLASH29F1TSSP](http://oom.lt/SZKMEMORYFLASH29F1TSSP)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Memory_Flash/29F010-TSOP-SP/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Memory_Flash/29F010-TSOP-SP/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Memory_Flash/29F010-TSOP-SP/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Memory_Flash/29F010-TSOP-SP/image.png)|||

@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZECONAMPDII24 > con-amp : DIMII-240](#fzeconampdii24--con-amp--dimii-240)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: con-amp : DIMII-240
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-amp-DIMII-240](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-amp-DIMII-240)
 - Short Link: [http://oom.lt/FZECONAMPDII24](http://oom.lt/FZECONAMPDII24)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/con-amp/DIMII-240/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/con-amp/DIMII-240/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/con-amp/DIMII-240/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/con-amp/DIMII-240/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/con-amp/DIMII-240/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/con-amp/DIMII-240/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/con-amp/DIMII-240/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/con-amp/DIMII-240/kicadPcb3dBack.png)|

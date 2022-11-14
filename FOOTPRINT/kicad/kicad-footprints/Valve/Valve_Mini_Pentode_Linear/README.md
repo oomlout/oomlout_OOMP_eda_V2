@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKVAVAMPENTODELINEAR > Valve : Valve_Mini_Pentode_Linear](#fzkvavampentodelinear--valve--valve_mini_pentode_linear)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Valve : Valve_Mini_Pentode_Linear
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Valve-Valve_Mini_Pentode_Linear](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Valve-Valve_Mini_Pentode_Linear)
 - Short Link: [http://oom.lt/FZKVAVAMPENTODELINEAR](http://oom.lt/FZKVAVAMPENTODELINEAR)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Valve/Valve_Mini_Pentode_Linear/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Valve/Valve_Mini_Pentode_Linear/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Valve/Valve_Mini_Pentode_Linear/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Valve/Valve_Mini_Pentode_Linear/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Valve/Valve_Mini_Pentode_Linear/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Valve/Valve_Mini_Pentode_Linear/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Valve/Valve_Mini_Pentode_Linear/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Valve/Valve_Mini_Pentode_Linear/kicadPcb3dBack.png)|

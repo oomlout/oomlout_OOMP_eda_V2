@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKSENCURRENTACS758XCB5BPFF > Sensor_Current : ACS758xCB-050B-PFF](#szksencurrentacs758xcb5bpff--sensor_current--acs758xcb-050b-pff)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Sensor_Current : ACS758xCB-050B-PFF
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-ACS758xCB-050B-PFF](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-ACS758xCB-050B-PFF)
 - Short Link: [http://oom.lt/SZKSENCURRENTACS758XCB5BPFF](http://oom.lt/SZKSENCURRENTACS758XCB5BPFF)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Current/ACS758xCB-050B-PFF/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Current/ACS758xCB-050B-PFF/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Current/ACS758xCB-050B-PFF/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Current/ACS758xCB-050B-PFF/image.png)|||

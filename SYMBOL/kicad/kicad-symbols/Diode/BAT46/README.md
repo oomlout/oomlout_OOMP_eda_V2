@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDIODEBAT46 > Diode : BAT46](#szkdiodebat46--diode--bat46)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Diode : BAT46
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-BAT46](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-BAT46)
 - Short Link: [http://oom.lt/SZKDIODEBAT46](http://oom.lt/SZKDIODEBAT46)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Diode/BAT46/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Diode/BAT46/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Diode/BAT46/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Diode/BAT46/image.png)|||

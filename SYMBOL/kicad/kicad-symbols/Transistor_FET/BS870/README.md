@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKTRANSISTORFETBS87 > Transistor_FET : BS870](#szktransistorfetbs87--transistor_fet--bs870)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Transistor_FET : BS870
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-BS870](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-BS870)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETBS87](http://oom.lt/SZKTRANSISTORFETBS87)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/BS870/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/BS870/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/BS870/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/BS870/image.png)|||

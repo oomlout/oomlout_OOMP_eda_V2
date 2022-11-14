@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKPSPICEESOURCE > pspice : ESOURCE](#szkpspiceesource--pspice--esource)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: pspice : ESOURCE
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-pspice-ESOURCE](http://oom.lt/SYMBOL-kicad-kicad-symbols-pspice-ESOURCE)
 - Short Link: [http://oom.lt/SZKPSPICEESOURCE](http://oom.lt/SZKPSPICEESOURCE)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/pspice/ESOURCE/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/pspice/ESOURCE/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/pspice/ESOURCE/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/pspice/ESOURCE/image.png)|||

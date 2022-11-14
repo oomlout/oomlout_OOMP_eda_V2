@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKFPGAXILINXSPARTAN6XC6SLX25FTG256 > FPGA_Xilinx_Spartan6 : XC6SLX25-FTG256](#szkfpgaxilinxspartan6xc6slx25ftg256--fpga_xilinx_spartan6--xc6slx25-ftg256)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: FPGA_Xilinx_Spartan6 : XC6SLX25-FTG256
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-FPGA_Xilinx_Spartan6-XC6SLX25-FTG256](http://oom.lt/SYMBOL-kicad-kicad-symbols-FPGA_Xilinx_Spartan6-XC6SLX25-FTG256)
 - Short Link: [http://oom.lt/SZKFPGAXILINXSPARTAN6XC6SLX25FTG256](http://oom.lt/SZKFPGAXILINXSPARTAN6XC6SLX25FTG256)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/FPGA_Xilinx_Spartan6/XC6SLX25-FTG256/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/FPGA_Xilinx_Spartan6/XC6SLX25-FTG256/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/FPGA_Xilinx_Spartan6/XC6SLX25-FTG256/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/FPGA_Xilinx_Spartan6/XC6SLX25-FTG256/image.png)|||

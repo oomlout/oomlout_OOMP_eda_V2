@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDIODEC3D26E > Diode : C3D02060E](#szkdiodec3d26e--diode--c3d02060e)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Diode : C3D02060E
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-C3D02060E](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-C3D02060E)
 - Short Link: [http://oom.lt/SZKDIODEC3D26E](http://oom.lt/SZKDIODEC3D26E)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Diode/C3D02060E/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Diode/C3D02060E/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Diode/C3D02060E/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Diode/C3D02060E/image.png)|||

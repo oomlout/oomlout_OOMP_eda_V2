@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKCNHDMIC14 > Connector : HDMI_C_1.4](#szkcnhdmic14--connector--hdmi_c_14)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Connector : HDMI_C_1.4
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-HDMI_C_1.4](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-HDMI_C_1.4)
 - Short Link: [http://oom.lt/SZKCNHDMIC14](http://oom.lt/SZKCNHDMIC14)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/HDMI_C_1.4/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/HDMI_C_1.4/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/HDMI_C_1.4/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/HDMI_C_1.4/image.png)|||

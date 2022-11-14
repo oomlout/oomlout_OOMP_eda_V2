@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKANALOGDACAD39JD > Analog_DAC : AD390JD](#szkanalogdacad39jd--analog_dac--ad390jd)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Analog_DAC : AD390JD
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_DAC-AD390JD](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_DAC-AD390JD)
 - Short Link: [http://oom.lt/SZKANALOGDACAD39JD](http://oom.lt/SZKANALOGDACAD39JD)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Analog_DAC/AD390JD/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Analog_DAC/AD390JD/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Analog_DAC/AD390JD/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Analog_DAC/AD390JD/image.png)|||

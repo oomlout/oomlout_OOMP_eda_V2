@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKMCUNXPLPCLPC812M11JTB16 > MCU_NXP_LPC : LPC812M101JTB16](#szkmcunxplpclpc812m11jtb16--mcu_nxp_lpc--lpc812m101jtb16)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: MCU_NXP_LPC : LPC812M101JTB16
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_NXP_LPC-LPC812M101JTB16](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_NXP_LPC-LPC812M101JTB16)
 - Short Link: [http://oom.lt/SZKMCUNXPLPCLPC812M11JTB16](http://oom.lt/SZKMCUNXPLPCLPC812M11JTB16)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_NXP_LPC/LPC812M101JTB16/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_NXP_LPC/LPC812M101JTB16/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_NXP_LPC/LPC812M101JTB16/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_NXP_LPC/LPC812M101JTB16/image.png)|||

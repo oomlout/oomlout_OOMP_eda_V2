@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKAMPLIFIERAUDIOMAX985XTI > Amplifier_Audio : MAX9850xTI](#szkamplifieraudiomax985xti--amplifier_audio--max9850xti)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Amplifier_Audio : MAX9850xTI
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Audio-MAX9850xTI](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Audio-MAX9850xTI)
 - Short Link: [http://oom.lt/SZKAMPLIFIERAUDIOMAX985XTI](http://oom.lt/SZKAMPLIFIERAUDIOMAX985XTI)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Amplifier_Audio/MAX9850xTI/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Amplifier_Audio/MAX9850xTI/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Amplifier_Audio/MAX9850xTI/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Amplifier_Audio/MAX9850xTI/image.png)|||

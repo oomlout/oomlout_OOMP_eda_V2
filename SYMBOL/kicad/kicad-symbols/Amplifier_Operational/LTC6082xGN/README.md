@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKAMPLIFIEROPERATIONALLTC682XGN > Amplifier_Operational : LTC6082xGN](#szkamplifieroperationalltc682xgn--amplifier_operational--ltc6082xgn)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Amplifier_Operational : LTC6082xGN
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LTC6082xGN](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LTC6082xGN)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALLTC682XGN](http://oom.lt/SZKAMPLIFIEROPERATIONALLTC682XGN)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/LTC6082xGN/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/LTC6082xGN/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/LTC6082xGN/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/LTC6082xGN/image.png)|||

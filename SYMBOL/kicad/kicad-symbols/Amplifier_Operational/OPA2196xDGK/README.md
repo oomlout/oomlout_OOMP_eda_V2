@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKAMPLIFIEROPERATIONALOPA2196XDGK > Amplifier_Operational : OPA2196xDGK](#szkamplifieroperationalopa2196xdgk--amplifier_operational--opa2196xdgk)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Amplifier_Operational : OPA2196xDGK
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-OPA2196xDGK](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-OPA2196xDGK)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALOPA2196XDGK](http://oom.lt/SZKAMPLIFIEROPERATIONALOPA2196XDGK)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/OPA2196xDGK/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/OPA2196xDGK/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/OPA2196xDGK/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/OPA2196xDGK/image.png)|||

@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKMCUSTSTM32L4STM32L431CBYX > MCU_ST_STM32L4 : STM32L431CBYx](#szkmcuststm32l4stm32l431cbyx--mcu_st_stm32l4--stm32l431cbyx)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: MCU_ST_STM32L4 : STM32L431CBYx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32L4-STM32L431CBYx](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32L4-STM32L431CBYx)
 - Short Link: [http://oom.lt/SZKMCUSTSTM32L4STM32L431CBYX](http://oom.lt/SZKMCUSTSTM32L4STM32L431CBYX)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32L4/STM32L431CBYx/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32L4/STM32L431CBYx/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32L4/STM32L431CBYx/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32L4/STM32L431CBYx/image.png)|||

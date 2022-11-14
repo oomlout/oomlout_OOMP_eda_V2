@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKTRANSISTORFETDMN275U > Transistor_FET : DMN2075U](#szktransistorfetdmn275u--transistor_fet--dmn2075u)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Transistor_FET : DMN2075U
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-DMN2075U](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-DMN2075U)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETDMN275U](http://oom.lt/SZKTRANSISTORFETDMN275U)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/DMN2075U/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/DMN2075U/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/DMN2075U/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/DMN2075U/image.png)|||

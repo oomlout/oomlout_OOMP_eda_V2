@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKCAPACITORSMC18254564METRICPAD157X68HANDSOLDER > Capacitor_SMD : C_1825_4564Metric_Pad1.57x6.80mm_HandSolder](#fzkcapacitorsmc18254564metricpad157x68handsolder--capacitor_smd--c_1825_4564metric_pad157x680mm_handsolder)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Capacitor_SMD : C_1825_4564Metric_Pad1.57x6.80mm_HandSolder
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_1825_4564Metric_Pad1.57x6.80mm_HandSolder](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_1825_4564Metric_Pad1.57x6.80mm_HandSolder)
 - Short Link: [http://oom.lt/FZKCAPACITORSMC18254564METRICPAD157X68HANDSOLDER](http://oom.lt/FZKCAPACITORSMC18254564METRICPAD157X68HANDSOLDER)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_SMD/C_1825_4564Metric_Pad1.57x6.80mm_HandSolder/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_SMD/C_1825_4564Metric_Pad1.57x6.80mm_HandSolder/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_SMD/C_1825_4564Metric_Pad1.57x6.80mm_HandSolder/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_SMD/C_1825_4564Metric_Pad1.57x6.80mm_HandSolder/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_SMD/C_1825_4564Metric_Pad1.57x6.80mm_HandSolder/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_SMD/C_1825_4564Metric_Pad1.57x6.80mm_HandSolder/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_SMD/C_1825_4564Metric_Pad1.57x6.80mm_HandSolder/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_SMD/C_1825_4564Metric_Pad1.57x6.80mm_HandSolder/kicadPcb3dBack.png)|

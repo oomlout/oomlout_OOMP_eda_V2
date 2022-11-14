@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKANALOGSWITCHCD451B > Analog_Switch : CD4051B](#szkanalogswitchcd451b--analog_switch--cd4051b)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Analog_Switch : CD4051B
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_Switch-CD4051B](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_Switch-CD4051B)
 - Short Link: [http://oom.lt/SZKANALOGSWITCHCD451B](http://oom.lt/SZKANALOGSWITCHCD451B)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Analog_Switch/CD4051B/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Analog_Switch/CD4051B/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Analog_Switch/CD4051B/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Analog_Switch/CD4051B/image.png)|||

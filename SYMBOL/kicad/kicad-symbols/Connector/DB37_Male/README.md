@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKCNDB37MALE > Connector : DB37_Male](#szkcndb37male--connector--db37_male)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Connector : DB37_Male
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-DB37_Male](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-DB37_Male)
 - Short Link: [http://oom.lt/SZKCNDB37MALE](http://oom.lt/SZKCNDB37MALE)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/DB37_Male/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/DB37_Male/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/DB37_Male/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/DB37_Male/image.png)|||

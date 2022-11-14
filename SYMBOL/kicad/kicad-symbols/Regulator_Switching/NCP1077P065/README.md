@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKREGULATORSWITCHINGNCP177P65 > Regulator_Switching : NCP1077P065](#szkregulatorswitchingncp177p65--regulator_switching--ncp1077p065)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Regulator_Switching : NCP1077P065
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-NCP1077P065](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-NCP1077P065)
 - Short Link: [http://oom.lt/SZKREGULATORSWITCHINGNCP177P65](http://oom.lt/SZKREGULATORSWITCHINGNCP177P65)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/NCP1077P065/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/NCP1077P065/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/NCP1077P065/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/NCP1077P065/image.png)|||

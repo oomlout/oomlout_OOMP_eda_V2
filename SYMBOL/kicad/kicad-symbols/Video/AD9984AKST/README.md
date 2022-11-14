@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKVIDEOAD9984AKST > Video : AD9984AKST](#szkvideoad9984akst--video--ad9984akst)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Video : AD9984AKST
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Video-AD9984AKST](http://oom.lt/SYMBOL-kicad-kicad-symbols-Video-AD9984AKST)
 - Short Link: [http://oom.lt/SZKVIDEOAD9984AKST](http://oom.lt/SZKVIDEOAD9984AKST)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Video/AD9984AKST/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Video/AD9984AKST/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Video/AD9984AKST/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Video/AD9984AKST/image.png)|||

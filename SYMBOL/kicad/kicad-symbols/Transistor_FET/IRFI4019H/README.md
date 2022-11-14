@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKTRANSISTORFETIRFI419H > Transistor_FET : IRFI4019H](#szktransistorfetirfi419h--transistor_fet--irfi4019h)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Transistor_FET : IRFI4019H
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IRFI4019H](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IRFI4019H)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETIRFI419H](http://oom.lt/SZKTRANSISTORFETIRFI419H)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/IRFI4019H/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/IRFI4019H/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/IRFI4019H/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/IRFI4019H/image.png)|||

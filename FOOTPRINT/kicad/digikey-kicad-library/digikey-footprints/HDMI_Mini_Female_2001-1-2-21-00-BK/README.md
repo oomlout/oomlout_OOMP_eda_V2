@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSHDMIMFEMALE211221BK > digikey-footprints : HDMI_Mini_Female_2001-1-2-21-00-BK](#fzkicaddigikeykicadlibrarydigikeyfootprintshdmimfemale211221bk--digikey-footprints--hdmi_mini_female_2001-1-2-21-00-bk)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: digikey-footprints : HDMI_Mini_Female_2001-1-2-21-00-BK
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-HDMI_Mini_Female_2001-1-2-21-00-BK](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-HDMI_Mini_Female_2001-1-2-21-00-BK)
 - Short Link: [http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSHDMIMFEMALE211221BK](http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSHDMIMFEMALE211221BK)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/HDMI_Mini_Female_2001-1-2-21-00-BK/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/HDMI_Mini_Female_2001-1-2-21-00-BK/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/HDMI_Mini_Female_2001-1-2-21-00-BK/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/HDMI_Mini_Female_2001-1-2-21-00-BK/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/HDMI_Mini_Female_2001-1-2-21-00-BK/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/HDMI_Mini_Female_2001-1-2-21-00-BK/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/HDMI_Mini_Female_2001-1-2-21-00-BK/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/HDMI_Mini_Female_2001-1-2-21-00-BK/kicadPcb3dBack.png)|

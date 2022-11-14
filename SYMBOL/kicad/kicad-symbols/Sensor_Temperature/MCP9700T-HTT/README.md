@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKSENTEMPERATUREMCP97THTT > Sensor_Temperature : MCP9700T-HTT](#szksentemperaturemcp97thtt--sensor_temperature--mcp9700t-htt)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Sensor_Temperature : MCP9700T-HTT
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Temperature-MCP9700T-HTT](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Temperature-MCP9700T-HTT)
 - Short Link: [http://oom.lt/SZKSENTEMPERATUREMCP97THTT](http://oom.lt/SZKSENTEMPERATUREMCP97THTT)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Temperature/MCP9700T-HTT/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Temperature/MCP9700T-HTT/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Temperature/MCP9700T-HTT/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Temperature/MCP9700T-HTT/image.png)|||

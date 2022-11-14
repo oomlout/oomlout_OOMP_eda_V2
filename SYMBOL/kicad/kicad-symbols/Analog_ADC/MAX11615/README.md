@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKANALOGADCMAX11615 > Analog_ADC : MAX11615](#szkanalogadcmax11615--analog_adc--max11615)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Analog_ADC : MAX11615
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-MAX11615](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-MAX11615)
 - Short Link: [http://oom.lt/SZKANALOGADCMAX11615](http://oom.lt/SZKANALOGADCMAX11615)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Analog_ADC/MAX11615/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Analog_ADC/MAX11615/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Analog_ADC/MAX11615/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Analog_ADC/MAX11615/image.png)|||

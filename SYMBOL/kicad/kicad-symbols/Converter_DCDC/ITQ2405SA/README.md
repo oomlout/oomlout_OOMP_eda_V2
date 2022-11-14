@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKCONITQ245SA > Converter_DCDC : ITQ2405SA](#szkconitq245sa--converter_dcdc--itq2405sa)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Converter_DCDC : ITQ2405SA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-ITQ2405SA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-ITQ2405SA)
 - Short Link: [http://oom.lt/SZKCONITQ245SA](http://oom.lt/SZKCONITQ245SA)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Converter_DCDC/ITQ2405SA/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Converter_DCDC/ITQ2405SA/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Converter_DCDC/ITQ2405SA/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Converter_DCDC/ITQ2405SA/image.png)|||

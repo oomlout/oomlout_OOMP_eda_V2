@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKCNAVRJTAG1 > Connector : AVR-JTAG-10](#szkcnavrjtag1--connector--avr-jtag-10)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Connector : AVR-JTAG-10
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-AVR-JTAG-10](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-AVR-JTAG-10)
 - Short Link: [http://oom.lt/SZKCNAVRJTAG1](http://oom.lt/SZKCNAVRJTAG1)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/AVR-JTAG-10/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/AVR-JTAG-10/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/AVR-JTAG-10/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/AVR-JTAG-10/image.png)|||

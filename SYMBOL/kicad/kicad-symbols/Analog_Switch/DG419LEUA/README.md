@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKANALOGSWITCHDG419LEUA > Analog_Switch : DG419LEUA](#szkanalogswitchdg419leua--analog_switch--dg419leua)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Analog_Switch : DG419LEUA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_Switch-DG419LEUA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_Switch-DG419LEUA)
 - Short Link: [http://oom.lt/SZKANALOGSWITCHDG419LEUA](http://oom.lt/SZKANALOGSWITCHDG419LEUA)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Analog_Switch/DG419LEUA/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Analog_Switch/DG419LEUA/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Analog_Switch/DG419LEUA/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Analog_Switch/DG419LEUA/image.png)|||

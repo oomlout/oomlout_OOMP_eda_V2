@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDEVICERPACK11 > Device : R_Pack11](#szkdevicerpack11--device--r_pack11)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Device : R_Pack11
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-R_Pack11](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-R_Pack11)
 - Short Link: [http://oom.lt/SZKDEVICERPACK11](http://oom.lt/SZKDEVICERPACK11)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/R_Pack11/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/R_Pack11/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/R_Pack11/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/R_Pack11/image.png)|||

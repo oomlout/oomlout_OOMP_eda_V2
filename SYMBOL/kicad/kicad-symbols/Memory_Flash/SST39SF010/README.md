@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKMEMORYFLASHSST39SF1 > Memory_Flash : SST39SF010](#szkmemoryflashsst39sf1--memory_flash--sst39sf010)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Memory_Flash : SST39SF010
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_Flash-SST39SF010](http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_Flash-SST39SF010)
 - Short Link: [http://oom.lt/SZKMEMORYFLASHSST39SF1](http://oom.lt/SZKMEMORYFLASHSST39SF1)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Memory_Flash/SST39SF010/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Memory_Flash/SST39SF010/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Memory_Flash/SST39SF010/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Memory_Flash/SST39SF010/image.png)|||

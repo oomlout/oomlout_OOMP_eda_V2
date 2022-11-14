@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKAMPLIFIEROPERATIONALLTC1151CSW > Amplifier_Operational : LTC1151CSW](#szkamplifieroperationalltc1151csw--amplifier_operational--ltc1151csw)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Amplifier_Operational : LTC1151CSW
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LTC1151CSW](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LTC1151CSW)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALLTC1151CSW](http://oom.lt/SZKAMPLIFIEROPERATIONALLTC1151CSW)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/LTC1151CSW/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/LTC1151CSW/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/LTC1151CSW/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/LTC1151CSW/image.png)|||

@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKSOSTPOWERSSO36SLUGDOWNTHERMALVIAS > Package_SO : ST_PowerSSO-36_SlugDown_ThermalVias](#fzksostpowersso36slugdownthermalvias--package_so--st_powersso-36_slugdown_thermalvias)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Package_SO : ST_PowerSSO-36_SlugDown_ThermalVias
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SO-ST_PowerSSO-36_SlugDown_ThermalVias](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SO-ST_PowerSSO-36_SlugDown_ThermalVias)
 - Short Link: [http://oom.lt/FZKSOSTPOWERSSO36SLUGDOWNTHERMALVIAS](http://oom.lt/FZKSOSTPOWERSSO36SLUGDOWNTHERMALVIAS)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/ST_PowerSSO-36_SlugDown_ThermalVias/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/ST_PowerSSO-36_SlugDown_ThermalVias/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/ST_PowerSSO-36_SlugDown_ThermalVias/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/ST_PowerSSO-36_SlugDown_ThermalVias/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/ST_PowerSSO-36_SlugDown_ThermalVias/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/ST_PowerSSO-36_SlugDown_ThermalVias/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/ST_PowerSSO-36_SlugDown_ThermalVias/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/ST_PowerSSO-36_SlugDown_ThermalVias/kicadPcb3dBack.png)|

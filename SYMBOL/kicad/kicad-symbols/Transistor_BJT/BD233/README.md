@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKTRANSISTORBJTBD233 > Transistor_BJT : BD233](#szktransistorbjtbd233--transistor_bjt--bd233)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Transistor_BJT : BD233
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-BD233](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-BD233)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJTBD233](http://oom.lt/SZKTRANSISTORBJTBD233)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_BJT/BD233/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_BJT/BD233/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_BJT/BD233/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_BJT/BD233/image.png)|||

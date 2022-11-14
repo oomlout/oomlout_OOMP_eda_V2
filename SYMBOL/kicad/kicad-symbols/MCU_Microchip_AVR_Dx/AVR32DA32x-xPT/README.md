@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKMCUMCHIPAVRDXAVR32DA32XXPT > MCU_Microchip_AVR_Dx : AVR32DA32x-xPT](#szkmcumchipavrdxavr32da32xxpt--mcu_microchip_avr_dx--avr32da32x-xpt)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: MCU_Microchip_AVR_Dx : AVR32DA32x-xPT
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_AVR_Dx-AVR32DA32x-xPT](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_AVR_Dx-AVR32DA32x-xPT)
 - Short Link: [http://oom.lt/SZKMCUMCHIPAVRDXAVR32DA32XXPT](http://oom.lt/SZKMCUMCHIPAVRDXAVR32DA32XXPT)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_AVR_Dx/AVR32DA32x-xPT/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_AVR_Dx/AVR32DA32x-xPT/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_AVR_Dx/AVR32DA32x-xPT/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_AVR_Dx/AVR32DA32x-xPT/image.png)|||

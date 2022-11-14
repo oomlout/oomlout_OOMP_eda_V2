@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKTRANSISTORFETFDS896C > Transistor_FET : FDS8960C](#szktransistorfetfds896c--transistor_fet--fds8960c)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Transistor_FET : FDS8960C
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-FDS8960C](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-FDS8960C)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETFDS896C](http://oom.lt/SZKTRANSISTORFETFDS896C)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/FDS8960C/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/FDS8960C/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/FDS8960C/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/FDS8960C/image.png)|||

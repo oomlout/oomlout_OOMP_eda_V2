@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDEVICERNETWORK12SPLIT > Device : R_Network12_Split](#szkdevicernetwork12split--device--r_network12_split)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Device : R_Network12_Split
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-R_Network12_Split](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-R_Network12_Split)
 - Short Link: [http://oom.lt/SZKDEVICERNETWORK12SPLIT](http://oom.lt/SZKDEVICERNETWORK12SPLIT)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/R_Network12_Split/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/R_Network12_Split/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/R_Network12_Split/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/R_Network12_Split/image.png)|||

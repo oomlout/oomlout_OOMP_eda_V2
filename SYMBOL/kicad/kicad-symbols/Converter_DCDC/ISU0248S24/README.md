@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKCONISU248S24 > Converter_DCDC : ISU0248S24](#szkconisu248s24--converter_dcdc--isu0248s24)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Converter_DCDC : ISU0248S24
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-ISU0248S24](http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-ISU0248S24)
 - Short Link: [http://oom.lt/SZKCONISU248S24](http://oom.lt/SZKCONISU248S24)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Converter_DCDC/ISU0248S24/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Converter_DCDC/ISU0248S24/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Converter_DCDC/ISU0248S24/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Converter_DCDC/ISU0248S24/image.png)|||

@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKCNJSTJSTPHB13BPHK1X13P2VERTICAL > Connector_JST : JST_PH_B13B-PH-K_1x13_P2.00mm_Vertical](#fzkcnjstjstphb13bphk1x13p2vertical--connector_jst--jst_ph_b13b-ph-k_1x13_p200mm_vertical)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Connector_JST : JST_PH_B13B-PH-K_1x13_P2.00mm_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_PH_B13B-PH-K_1x13_P2.00mm_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_PH_B13B-PH-K_1x13_P2.00mm_Vertical)
 - Short Link: [http://oom.lt/FZKCNJSTJSTPHB13BPHK1X13P2VERTICAL](http://oom.lt/FZKCNJSTJSTPHB13BPHK1X13P2VERTICAL)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_PH_B13B-PH-K_1x13_P2.00mm_Vertical/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_PH_B13B-PH-K_1x13_P2.00mm_Vertical/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_PH_B13B-PH-K_1x13_P2.00mm_Vertical/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_PH_B13B-PH-K_1x13_P2.00mm_Vertical/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_PH_B13B-PH-K_1x13_P2.00mm_Vertical/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_PH_B13B-PH-K_1x13_P2.00mm_Vertical/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_PH_B13B-PH-K_1x13_P2.00mm_Vertical/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_PH_B13B-PH-K_1x13_P2.00mm_Vertical/kicadPcb3dBack.png)|

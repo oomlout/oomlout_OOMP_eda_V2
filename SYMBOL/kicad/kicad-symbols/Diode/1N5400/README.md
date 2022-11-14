@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDIODE1N54 > Diode : 1N5400](#szkdiode1n54--diode--1n5400)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Diode : 1N5400
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-1N5400](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-1N5400)
 - Short Link: [http://oom.lt/SZKDIODE1N54](http://oom.lt/SZKDIODE1N54)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Diode/1N5400/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Diode/1N5400/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Diode/1N5400/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Diode/1N5400/image.png)|||

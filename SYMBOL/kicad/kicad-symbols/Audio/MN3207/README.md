@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKAUDIOMN327 > Audio : MN3207](#szkaudiomn327--audio--mn3207)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Audio : MN3207
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Audio-MN3207](http://oom.lt/SYMBOL-kicad-kicad-symbols-Audio-MN3207)
 - Short Link: [http://oom.lt/SZKAUDIOMN327](http://oom.lt/SZKAUDIOMN327)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Audio/MN3207/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Audio/MN3207/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Audio/MN3207/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Audio/MN3207/image.png)|||

@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKSENVOLTAGELEMLV25P > Sensor_Voltage : LEM_LV25-P](#fzksenvoltagelemlv25p--sensor_voltage--lem_lv25-p)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Sensor_Voltage : LEM_LV25-P
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Sensor_Voltage-LEM_LV25-P](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Sensor_Voltage-LEM_LV25-P)
 - Short Link: [http://oom.lt/FZKSENVOLTAGELEMLV25P](http://oom.lt/FZKSENVOLTAGELEMLV25P)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Sensor_Voltage/LEM_LV25-P/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Sensor_Voltage/LEM_LV25-P/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Sensor_Voltage/LEM_LV25-P/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Sensor_Voltage/LEM_LV25-P/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Sensor_Voltage/LEM_LV25-P/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Sensor_Voltage/LEM_LV25-P/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Sensor_Voltage/LEM_LV25-P/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Sensor_Voltage/LEM_LV25-P/kicadPcb3dBack.png)|

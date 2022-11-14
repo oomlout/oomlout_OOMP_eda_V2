@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKTRTRANSF4 > Transformer : TRANSF4](#szktrtransf4--transformer--transf4)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Transformer : TRANSF4
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transformer-TRANSF4](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transformer-TRANSF4)
 - Short Link: [http://oom.lt/SZKTRTRANSF4](http://oom.lt/SZKTRTRANSF4)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transformer/TRANSF4/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transformer/TRANSF4/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transformer/TRANSF4/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transformer/TRANSF4/image.png)|||

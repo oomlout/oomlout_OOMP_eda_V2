@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDEVICELFERRITECOUPLSLL > Device : L_Ferrite_Coupled_Small](#szkdevicelferritecouplsll--device--l_ferrite_coupled_small)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Device : L_Ferrite_Coupled_Small
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-L_Ferrite_Coupled_Small](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-L_Ferrite_Coupled_Small)
 - Short Link: [http://oom.lt/SZKDEVICELFERRITECOUPLSLL](http://oom.lt/SZKDEVICELFERRITECOUPLSLL)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/L_Ferrite_Coupled_Small/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/L_Ferrite_Coupled_Small/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/L_Ferrite_Coupled_Small/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/L_Ferrite_Coupled_Small/image.png)|||

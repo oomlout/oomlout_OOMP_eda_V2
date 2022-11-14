@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKINTERFACEOPTICALIS471F > Interface_Optical : IS471F](#szkinterfaceopticalis471f--interface_optical--is471f)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Interface_Optical : IS471F
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Optical-IS471F](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Optical-IS471F)
 - Short Link: [http://oom.lt/SZKINTERFACEOPTICALIS471F](http://oom.lt/SZKINTERFACEOPTICALIS471F)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface_Optical/IS471F/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface_Optical/IS471F/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface_Optical/IS471F/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface_Optical/IS471F/image.png)|||

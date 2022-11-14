@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKINLRL8W8P5NEOSIDSD8 > Inductor_THT : L_Radial_L8.0mm_W8.0mm_P5.00mm_Neosid_SD8](#fzkinlrl8w8p5neosidsd8--inductor_tht--l_radial_l80mm_w80mm_p500mm_neosid_sd8)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Inductor_THT : L_Radial_L8.0mm_W8.0mm_P5.00mm_Neosid_SD8
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Radial_L8.0mm_W8.0mm_P5.00mm_Neosid_SD8](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Radial_L8.0mm_W8.0mm_P5.00mm_Neosid_SD8)
 - Short Link: [http://oom.lt/FZKINLRL8W8P5NEOSIDSD8](http://oom.lt/FZKINLRL8W8P5NEOSIDSD8)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Radial_L8.0mm_W8.0mm_P5.00mm_Neosid_SD8/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Radial_L8.0mm_W8.0mm_P5.00mm_Neosid_SD8/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Radial_L8.0mm_W8.0mm_P5.00mm_Neosid_SD8/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Radial_L8.0mm_W8.0mm_P5.00mm_Neosid_SD8/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Radial_L8.0mm_W8.0mm_P5.00mm_Neosid_SD8/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Radial_L8.0mm_W8.0mm_P5.00mm_Neosid_SD8/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Radial_L8.0mm_W8.0mm_P5.00mm_Neosid_SD8/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Radial_L8.0mm_W8.0mm_P5.00mm_Neosid_SD8/kicadPcb3dBack.png)|

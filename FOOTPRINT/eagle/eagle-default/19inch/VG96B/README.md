@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZE19INCHVG96B > 19inch : VG96B](#fze19inchvg96b--19inch--vg96b)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: 19inch : VG96B
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-19inch-VG96B](http://oom.lt/FOOTPRINT-eagle-eagle-default-19inch-VG96B)
 - Short Link: [http://oom.lt/FZE19INCHVG96B](http://oom.lt/FZE19INCHVG96B)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/19inch/VG96B/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/19inch/VG96B/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/19inch/VG96B/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/19inch/VG96B/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/19inch/VG96B/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/19inch/VG96B/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/19inch/VG96B/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/19inch/VG96B/kicadPcb3dBack.png)|

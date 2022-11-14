@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKINTERFACE82C55A > Interface : 82C55A](#szkinterface82c55a--interface--82c55a)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Interface : 82C55A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-82C55A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-82C55A)
 - Short Link: [http://oom.lt/SZKINTERFACE82C55A](http://oom.lt/SZKINTERFACE82C55A)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface/82C55A/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface/82C55A/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface/82C55A/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface/82C55A/image.png)|||

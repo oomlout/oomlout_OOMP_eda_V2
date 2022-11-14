@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKINCHOKESCHAFFNERRN2164155X23 > Inductor_THT : Choke_Schaffner_RN216-04-15.5x23.0mm](#fzkinchokeschaffnerrn2164155x23--inductor_tht--choke_schaffner_rn216-04-155x230mm)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Inductor_THT : Choke_Schaffner_RN216-04-15.5x23.0mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_THT-Choke_Schaffner_RN216-04-15.5x23.0mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_THT-Choke_Schaffner_RN216-04-15.5x23.0mm)
 - Short Link: [http://oom.lt/FZKINCHOKESCHAFFNERRN2164155X23](http://oom.lt/FZKINCHOKESCHAFFNERRN2164155X23)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/Choke_Schaffner_RN216-04-15.5x23.0mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/Choke_Schaffner_RN216-04-15.5x23.0mm/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/Choke_Schaffner_RN216-04-15.5x23.0mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/Choke_Schaffner_RN216-04-15.5x23.0mm/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/Choke_Schaffner_RN216-04-15.5x23.0mm/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/Choke_Schaffner_RN216-04-15.5x23.0mm/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/Choke_Schaffner_RN216-04-15.5x23.0mm/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/Choke_Schaffner_RN216-04-15.5x23.0mm/kicadPcb3dBack.png)|

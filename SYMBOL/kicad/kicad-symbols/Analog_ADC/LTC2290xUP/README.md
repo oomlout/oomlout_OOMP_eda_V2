@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKANALOGADCLTC229XUP > Analog_ADC : LTC2290xUP](#szkanalogadcltc229xup--analog_adc--ltc2290xup)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Analog_ADC : LTC2290xUP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-LTC2290xUP](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-LTC2290xUP)
 - Short Link: [http://oom.lt/SZKANALOGADCLTC229XUP](http://oom.lt/SZKANALOGADCLTC229XUP)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Analog_ADC/LTC2290xUP/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Analog_ADC/LTC2290xUP/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Analog_ADC/LTC2290xUP/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Analog_ADC/LTC2290xUP/image.png)|||

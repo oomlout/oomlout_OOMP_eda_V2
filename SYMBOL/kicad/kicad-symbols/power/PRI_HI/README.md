@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKPOWERPRIHI > power : PRI_HI](#szkpowerprihi--power--pri_hi)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: power : PRI_HI
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-power-PRI_HI](http://oom.lt/SYMBOL-kicad-kicad-symbols-power-PRI_HI)
 - Short Link: [http://oom.lt/SZKPOWERPRIHI](http://oom.lt/SZKPOWERPRIHI)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/power/PRI_HI/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/power/PRI_HI/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/power/PRI_HI/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/power/PRI_HI/image.png)|||

@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKPOWERMANAGEMENTBTS741EPP > Power_Management : BTS7004-1EPP](#szkpowermanagementbts741epp--power_management--bts7004-1epp)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Power_Management : BTS7004-1EPP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-BTS7004-1EPP](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-BTS7004-1EPP)
 - Short Link: [http://oom.lt/SZKPOWERMANAGEMENTBTS741EPP](http://oom.lt/SZKPOWERMANAGEMENTBTS741EPP)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Power_Management/BTS7004-1EPP/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Power_Management/BTS7004-1EPP/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Power_Management/BTS7004-1EPP/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Power_Management/BTS7004-1EPP/image.png)|||

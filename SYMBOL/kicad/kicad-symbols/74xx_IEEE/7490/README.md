@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZK74XXIEEE749 > 74xx_IEEE : 7490](#szk74xxieee749--74xx_ieee--7490)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: 74xx_IEEE : 7490
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-74xx_IEEE-7490](http://oom.lt/SYMBOL-kicad-kicad-symbols-74xx_IEEE-7490)
 - Short Link: [http://oom.lt/SZK74XXIEEE749](http://oom.lt/SZK74XXIEEE749)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/74xx_IEEE/7490/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/74xx_IEEE/7490/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/74xx_IEEE/7490/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/74xx_IEEE/7490/image.png)|||

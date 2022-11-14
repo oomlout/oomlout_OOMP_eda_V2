@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKREGULATORLINEARTPS77825HTSS2 > Regulator_Linear : TPS77825_HTSSOP20](#szkregulatorlineartps77825htss2--regulator_linear--tps77825_htssop20)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Regulator_Linear : TPS77825_HTSSOP20
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-TPS77825_HTSSOP20](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-TPS77825_HTSSOP20)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARTPS77825HTSS2](http://oom.lt/SZKREGULATORLINEARTPS77825HTSS2)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/TPS77825_HTSSOP20/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/TPS77825_HTSSOP20/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/TPS77825_HTSSOP20/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/TPS77825_HTSSOP20/image.png)|||

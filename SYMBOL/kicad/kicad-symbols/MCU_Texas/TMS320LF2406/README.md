@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKMCUTEXASTMS32LF246 > MCU_Texas : TMS320LF2406](#szkmcutexastms32lf246--mcu_texas--tms320lf2406)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: MCU_Texas : TMS320LF2406
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Texas-TMS320LF2406](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Texas-TMS320LF2406)
 - Short Link: [http://oom.lt/SZKMCUTEXASTMS32LF246](http://oom.lt/SZKMCUTEXASTMS32LF246)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Texas/TMS320LF2406/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Texas/TMS320LF2406/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Texas/TMS320LF2406/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Texas/TMS320LF2406/image.png)|||

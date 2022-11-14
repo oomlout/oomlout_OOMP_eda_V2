@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKBATMANAGEMENTLTC411CFE > Battery_Management : LTC4011CFE](#szkbatmanagementltc411cfe--battery_management--ltc4011cfe)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Battery_Management : LTC4011CFE
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Battery_Management-LTC4011CFE](http://oom.lt/SYMBOL-kicad-kicad-symbols-Battery_Management-LTC4011CFE)
 - Short Link: [http://oom.lt/SZKBATMANAGEMENTLTC411CFE](http://oom.lt/SZKBATMANAGEMENTLTC411CFE)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Battery_Management/LTC4011CFE/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Battery_Management/LTC4011CFE/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Battery_Management/LTC4011CFE/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Battery_Management/LTC4011CFE/image.png)|||

@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKLOGICPROGRAABLEPAL2RS1 > Logic_Programmable : PAL20RS10](#szklogicprograablepal2rs1--logic_programmable--pal20rs10)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Logic_Programmable : PAL20RS10
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Logic_Programmable-PAL20RS10](http://oom.lt/SYMBOL-kicad-kicad-symbols-Logic_Programmable-PAL20RS10)
 - Short Link: [http://oom.lt/SZKLOGICPROGRAABLEPAL2RS1](http://oom.lt/SZKLOGICPROGRAABLEPAL2RS1)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Logic_Programmable/PAL20RS10/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Logic_Programmable/PAL20RS10/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Logic_Programmable/PAL20RS10/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Logic_Programmable/PAL20RS10/image.png)|||

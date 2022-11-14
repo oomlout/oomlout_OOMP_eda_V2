@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKRELAYIM5 > Relay : IM05](#szkrelayim5--relay--im05)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Relay : IM05
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-IM05](http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-IM05)
 - Short Link: [http://oom.lt/SZKRELAYIM5](http://oom.lt/SZKRELAYIM5)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Relay/IM05/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Relay/IM05/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Relay/IM05/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Relay/IM05/image.png)|||

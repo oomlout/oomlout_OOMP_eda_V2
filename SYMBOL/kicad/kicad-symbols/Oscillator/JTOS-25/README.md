@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKOCSJTOS25 > Oscillator : JTOS-25](#szkocsjtos25--oscillator--jtos-25)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Oscillator : JTOS-25
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Oscillator-JTOS-25](http://oom.lt/SYMBOL-kicad-kicad-symbols-Oscillator-JTOS-25)
 - Short Link: [http://oom.lt/SZKOCSJTOS25](http://oom.lt/SZKOCSJTOS25)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Oscillator/JTOS-25/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Oscillator/JTOS-25/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Oscillator/JTOS-25/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Oscillator/JTOS-25/image.png)|||

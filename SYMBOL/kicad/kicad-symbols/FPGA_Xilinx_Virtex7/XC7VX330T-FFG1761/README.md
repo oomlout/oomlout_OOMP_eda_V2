@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKFPGAXILINXVIRTEX7XC7VX33TFFG1761 > FPGA_Xilinx_Virtex7 : XC7VX330T-FFG1761](#szkfpgaxilinxvirtex7xc7vx33tffg1761--fpga_xilinx_virtex7--xc7vx330t-ffg1761)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: FPGA_Xilinx_Virtex7 : XC7VX330T-FFG1761
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-FPGA_Xilinx_Virtex7-XC7VX330T-FFG1761](http://oom.lt/SYMBOL-kicad-kicad-symbols-FPGA_Xilinx_Virtex7-XC7VX330T-FFG1761)
 - Short Link: [http://oom.lt/SZKFPGAXILINXVIRTEX7XC7VX33TFFG1761](http://oom.lt/SZKFPGAXILINXVIRTEX7XC7VX33TFFG1761)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/FPGA_Xilinx_Virtex7/XC7VX330T-FFG1761/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/FPGA_Xilinx_Virtex7/XC7VX330T-FFG1761/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/FPGA_Xilinx_Virtex7/XC7VX330T-FFG1761/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/FPGA_Xilinx_Virtex7/XC7VX330T-FFG1761/image.png)|||

@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKMEMORYEEPROMAT24CS32XHM > Memory_EEPROM : AT24CS32-XHM](#szkmemoryeepromat24cs32xhm--memory_eeprom--at24cs32-xhm)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Memory_EEPROM : AT24CS32-XHM
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_EEPROM-AT24CS32-XHM](http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_EEPROM-AT24CS32-XHM)
 - Short Link: [http://oom.lt/SZKMEMORYEEPROMAT24CS32XHM](http://oom.lt/SZKMEMORYEEPROMAT24CS32XHM)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Memory_EEPROM/AT24CS32-XHM/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Memory_EEPROM/AT24CS32-XHM/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Memory_EEPROM/AT24CS32-XHM/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Memory_EEPROM/AT24CS32-XHM/image.png)|||

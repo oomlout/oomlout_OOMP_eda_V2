@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKTRANSISTORFETBSC123N1LSG > Transistor_FET : BSC123N10LSG](#szktransistorfetbsc123n1lsg--transistor_fet--bsc123n10lsg)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Transistor_FET : BSC123N10LSG
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-BSC123N10LSG](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-BSC123N10LSG)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETBSC123N1LSG](http://oom.lt/SZKTRANSISTORFETBSC123N1LSG)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/BSC123N10LSG/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/BSC123N10LSG/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/BSC123N10LSG/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/BSC123N10LSG/image.png)|||

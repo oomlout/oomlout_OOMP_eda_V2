@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKINTERFACEONET1191PRGT > Interface : ONET1191PRGT](#szkinterfaceonet1191prgt--interface--onet1191prgt)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Interface : ONET1191PRGT
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-ONET1191PRGT](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-ONET1191PRGT)
 - Short Link: [http://oom.lt/SZKINTERFACEONET1191PRGT](http://oom.lt/SZKINTERFACEONET1191PRGT)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface/ONET1191PRGT/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface/ONET1191PRGT/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface/ONET1191PRGT/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface/ONET1191PRGT/image.png)|||

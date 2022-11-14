@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKINTERFACEEXPANSIONMCP238XSO > Interface_Expansion : MCP23008-xSO](#szkinterfaceexpansionmcp238xso--interface_expansion--mcp23008-xso)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Interface_Expansion : MCP23008-xSO
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Expansion-MCP23008-xSO](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Expansion-MCP23008-xSO)
 - Short Link: [http://oom.lt/SZKINTERFACEEXPANSIONMCP238XSO](http://oom.lt/SZKINTERFACEEXPANSIONMCP238XSO)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface_Expansion/MCP23008-xSO/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface_Expansion/MCP23008-xSO/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface_Expansion/MCP23008-xSO/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface_Expansion/MCP23008-xSO/image.png)|||

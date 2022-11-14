@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKLGALGA164X4P65LAYOUTBORDER4X4Y > Package_LGA : LGA-16_4x4mm_P0.65mm_LayoutBorder4x4y](#fzklgalga164x4p65layoutborder4x4y--package_lga--lga-16_4x4mm_p065mm_layoutborder4x4y)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Package_LGA : LGA-16_4x4mm_P0.65mm_LayoutBorder4x4y
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_LGA-LGA-16_4x4mm_P0.65mm_LayoutBorder4x4y](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_LGA-LGA-16_4x4mm_P0.65mm_LayoutBorder4x4y)
 - Short Link: [http://oom.lt/FZKLGALGA164X4P65LAYOUTBORDER4X4Y](http://oom.lt/FZKLGALGA164X4P65LAYOUTBORDER4X4Y)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_LGA/LGA-16_4x4mm_P0.65mm_LayoutBorder4x4y/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_LGA/LGA-16_4x4mm_P0.65mm_LayoutBorder4x4y/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_LGA/LGA-16_4x4mm_P0.65mm_LayoutBorder4x4y/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_LGA/LGA-16_4x4mm_P0.65mm_LayoutBorder4x4y/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_LGA/LGA-16_4x4mm_P0.65mm_LayoutBorder4x4y/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_LGA/LGA-16_4x4mm_P0.65mm_LayoutBorder4x4y/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_LGA/LGA-16_4x4mm_P0.65mm_LayoutBorder4x4y/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_LGA/LGA-16_4x4mm_P0.65mm_LayoutBorder4x4y/kicadPcb3dBack.png)|

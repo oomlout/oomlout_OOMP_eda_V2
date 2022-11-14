@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZECONDEUTSCHCDGDRC137PB27 > con-deutsch : CDG-DRC13-70P-B027](#fzecondeutschcdgdrc137pb27--con-deutsch--cdg-drc13-70p-b027)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: con-deutsch : CDG-DRC13-70P-B027
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-deutsch-CDG-DRC13-70P-B027](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-deutsch-CDG-DRC13-70P-B027)
 - Short Link: [http://oom.lt/FZECONDEUTSCHCDGDRC137PB27](http://oom.lt/FZECONDEUTSCHCDGDRC137PB27)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/con-deutsch/CDG-DRC13-70P-B027/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/con-deutsch/CDG-DRC13-70P-B027/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/con-deutsch/CDG-DRC13-70P-B027/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/con-deutsch/CDG-DRC13-70P-B027/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/con-deutsch/CDG-DRC13-70P-B027/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/con-deutsch/CDG-DRC13-70P-B027/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/con-deutsch/CDG-DRC13-70P-B027/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/con-deutsch/CDG-DRC13-70P-B027/kicadPcb3dBack.png)|

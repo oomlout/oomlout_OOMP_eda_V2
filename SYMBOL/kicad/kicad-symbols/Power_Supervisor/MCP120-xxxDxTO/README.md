@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKPOWERSUPERVISORMCP12XXXDXTO > Power_Supervisor : MCP120-xxxDxTO](#szkpowersupervisormcp12xxxdxto--power_supervisor--mcp120-xxxdxto)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Power_Supervisor : MCP120-xxxDxTO
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Supervisor-MCP120-xxxDxTO](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Supervisor-MCP120-xxxDxTO)
 - Short Link: [http://oom.lt/SZKPOWERSUPERVISORMCP12XXXDXTO](http://oom.lt/SZKPOWERSUPERVISORMCP12XXXDXTO)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Power_Supervisor/MCP120-xxxDxTO/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Power_Supervisor/MCP120-xxxDxTO/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Power_Supervisor/MCP120-xxxDxTO/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Power_Supervisor/MCP120-xxxDxTO/image.png)|||

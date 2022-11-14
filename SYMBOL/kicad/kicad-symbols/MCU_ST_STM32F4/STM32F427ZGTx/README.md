@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKMCUSTSTM32F4STM32F427ZGTX > MCU_ST_STM32F4 : STM32F427ZGTx](#szkmcuststm32f4stm32f427zgtx--mcu_st_stm32f4--stm32f427zgtx)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: MCU_ST_STM32F4 : STM32F427ZGTx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F4-STM32F427ZGTx](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F4-STM32F427ZGTx)
 - Short Link: [http://oom.lt/SZKMCUSTSTM32F4STM32F427ZGTX](http://oom.lt/SZKMCUSTSTM32F4STM32F427ZGTX)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32F4/STM32F427ZGTx/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32F4/STM32F427ZGTx/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32F4/STM32F427ZGTx/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32F4/STM32F427ZGTx/image.png)|||

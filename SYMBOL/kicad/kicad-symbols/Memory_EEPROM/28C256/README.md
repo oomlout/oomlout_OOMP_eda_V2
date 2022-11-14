@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKMEMORYEEPROM28C256 > Memory_EEPROM : 28C256](#szkmemoryeeprom28c256--memory_eeprom--28c256)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Memory_EEPROM : 28C256
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_EEPROM-28C256](http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_EEPROM-28C256)
 - Short Link: [http://oom.lt/SZKMEMORYEEPROM28C256](http://oom.lt/SZKMEMORYEEPROM28C256)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Memory_EEPROM/28C256/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Memory_EEPROM/28C256/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Memory_EEPROM/28C256/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Memory_EEPROM/28C256/image.png)|||

@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKTRANSISTORFETDMC371LVT > Transistor_FET : DMC3071LVT](#szktransistorfetdmc371lvt--transistor_fet--dmc3071lvt)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Transistor_FET : DMC3071LVT
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-DMC3071LVT](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-DMC3071LVT)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETDMC371LVT](http://oom.lt/SZKTRANSISTORFETDMC371LVT)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/DMC3071LVT/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/DMC3071LVT/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/DMC3071LVT/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/DMC3071LVT/image.png)|||

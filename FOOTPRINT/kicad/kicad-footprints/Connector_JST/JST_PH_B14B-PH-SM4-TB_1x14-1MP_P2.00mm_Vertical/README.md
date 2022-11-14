@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKCNJSTJSTPHB14BPHSM4TB1X141MPP2VERTICAL > Connector_JST : JST_PH_B14B-PH-SM4-TB_1x14-1MP_P2.00mm_Vertical](#fzkcnjstjstphb14bphsm4tb1x141mpp2vertical--connector_jst--jst_ph_b14b-ph-sm4-tb_1x14-1mp_p200mm_vertical)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Connector_JST : JST_PH_B14B-PH-SM4-TB_1x14-1MP_P2.00mm_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_PH_B14B-PH-SM4-TB_1x14-1MP_P2.00mm_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_PH_B14B-PH-SM4-TB_1x14-1MP_P2.00mm_Vertical)
 - Short Link: [http://oom.lt/FZKCNJSTJSTPHB14BPHSM4TB1X141MPP2VERTICAL](http://oom.lt/FZKCNJSTJSTPHB14BPHSM4TB1X141MPP2VERTICAL)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_PH_B14B-PH-SM4-TB_1x14-1MP_P2.00mm_Vertical/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_PH_B14B-PH-SM4-TB_1x14-1MP_P2.00mm_Vertical/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_PH_B14B-PH-SM4-TB_1x14-1MP_P2.00mm_Vertical/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_PH_B14B-PH-SM4-TB_1x14-1MP_P2.00mm_Vertical/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_PH_B14B-PH-SM4-TB_1x14-1MP_P2.00mm_Vertical/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_PH_B14B-PH-SM4-TB_1x14-1MP_P2.00mm_Vertical/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_PH_B14B-PH-SM4-TB_1x14-1MP_P2.00mm_Vertical/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_PH_B14B-PH-SM4-TB_1x14-1MP_P2.00mm_Vertical/kicadPcb3dBack.png)|

@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKPOWERPROTECTIONTPD4S1394 > Power_Protection : TPD4S1394](#szkpowerprotectiontpd4s1394--power_protection--tpd4s1394)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Power_Protection : TPD4S1394
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Protection-TPD4S1394](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Protection-TPD4S1394)
 - Short Link: [http://oom.lt/SZKPOWERPROTECTIONTPD4S1394](http://oom.lt/SZKPOWERPROTECTIONTPD4S1394)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Power_Protection/TPD4S1394/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Power_Protection/TPD4S1394/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Power_Protection/TPD4S1394/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Power_Protection/TPD4S1394/image.png)|||

@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKDILCD16N2L > Display : LCD-016N002L](#fzkdilcd16n2l--display--lcd-016n002l)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Display : LCD-016N002L
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Display-LCD-016N002L](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Display-LCD-016N002L)
 - Short Link: [http://oom.lt/FZKDILCD16N2L](http://oom.lt/FZKDILCD16N2L)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Display/LCD-016N002L/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Display/LCD-016N002L/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Display/LCD-016N002L/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Display/LCD-016N002L/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Display/LCD-016N002L/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Display/LCD-016N002L/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Display/LCD-016N002L/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Display/LCD-016N002L/kicadPcb3dBack.png)|

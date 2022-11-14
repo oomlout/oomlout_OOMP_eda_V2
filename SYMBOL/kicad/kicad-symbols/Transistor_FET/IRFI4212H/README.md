@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKTRANSISTORFETIRFI4212H > Transistor_FET : IRFI4212H](#szktransistorfetirfi4212h--transistor_fet--irfi4212h)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Transistor_FET : IRFI4212H
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IRFI4212H](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IRFI4212H)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETIRFI4212H](http://oom.lt/SZKTRANSISTORFETIRFI4212H)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/IRFI4212H/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/IRFI4212H/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/IRFI4212H/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/IRFI4212H/image.png)|||

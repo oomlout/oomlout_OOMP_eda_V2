@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKTRANSISTORFETSI1442DH > Transistor_FET : Si1442DH](#szktransistorfetsi1442dh--transistor_fet--si1442dh)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Transistor_FET : Si1442DH
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-Si1442DH](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-Si1442DH)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETSI1442DH](http://oom.lt/SZKTRANSISTORFETSI1442DH)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/Si1442DH/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/Si1442DH/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/Si1442DH/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/Si1442DH/image.png)|||

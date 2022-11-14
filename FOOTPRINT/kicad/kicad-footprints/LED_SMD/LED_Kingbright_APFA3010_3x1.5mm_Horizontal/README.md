@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKLSMLKINGBRIGHTAPFA313X15HORIZONTAL > LED_SMD : LED_Kingbright_APFA3010_3x1.5mm_Horizontal](#fzklsmlkingbrightapfa313x15horizontal--led_smd--led_kingbright_apfa3010_3x15mm_horizontal)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: LED_SMD : LED_Kingbright_APFA3010_3x1.5mm_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_Kingbright_APFA3010_3x1.5mm_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_Kingbright_APFA3010_3x1.5mm_Horizontal)
 - Short Link: [http://oom.lt/FZKLSMLKINGBRIGHTAPFA313X15HORIZONTAL](http://oom.lt/FZKLSMLKINGBRIGHTAPFA313X15HORIZONTAL)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_Kingbright_APFA3010_3x1.5mm_Horizontal/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_Kingbright_APFA3010_3x1.5mm_Horizontal/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_Kingbright_APFA3010_3x1.5mm_Horizontal/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_Kingbright_APFA3010_3x1.5mm_Horizontal/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_Kingbright_APFA3010_3x1.5mm_Horizontal/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_Kingbright_APFA3010_3x1.5mm_Horizontal/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_Kingbright_APFA3010_3x1.5mm_Horizontal/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_Kingbright_APFA3010_3x1.5mm_Horizontal/kicadPcb3dBack.png)|

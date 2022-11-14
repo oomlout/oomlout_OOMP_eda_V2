@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDICHARACTERHDSP787 > Display_Character : HDSP-7807](#szkdicharacterhdsp787--display_character--hdsp-7807)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Display_Character : HDSP-7807
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-HDSP-7807](http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-HDSP-7807)
 - Short Link: [http://oom.lt/SZKDICHARACTERHDSP787](http://oom.lt/SZKDICHARACTERHDSP787)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Display_Character/HDSP-7807/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Display_Character/HDSP-7807/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Display_Character/HDSP-7807/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Display_Character/HDSP-7807/image.png)|||

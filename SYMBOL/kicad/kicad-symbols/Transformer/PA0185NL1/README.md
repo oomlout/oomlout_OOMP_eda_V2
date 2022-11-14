@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKTRPA185NL1 > Transformer : PA0185NL1](#szktrpa185nl1--transformer--pa0185nl1)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Transformer : PA0185NL1
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transformer-PA0185NL1](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transformer-PA0185NL1)
 - Short Link: [http://oom.lt/SZKTRPA185NL1](http://oom.lt/SZKTRPA185NL1)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transformer/PA0185NL1/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transformer/PA0185NL1/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transformer/PA0185NL1/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transformer/PA0185NL1/image.png)|||

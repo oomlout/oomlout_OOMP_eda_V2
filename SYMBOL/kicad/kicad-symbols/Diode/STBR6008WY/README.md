@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDIODESTBR68WY > Diode : STBR6008WY](#szkdiodestbr68wy--diode--stbr6008wy)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Diode : STBR6008WY
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-STBR6008WY](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-STBR6008WY)
 - Short Link: [http://oom.lt/SZKDIODESTBR68WY](http://oom.lt/SZKDIODESTBR68WY)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Diode/STBR6008WY/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Diode/STBR6008WY/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Diode/STBR6008WY/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Diode/STBR6008WY/image.png)|||

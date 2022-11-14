@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKSENCURRENTACS726XLFTR4B > Sensor_Current : ACS726xLFTR-40B](#szksencurrentacs726xlftr4b--sensor_current--acs726xlftr-40b)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Sensor_Current : ACS726xLFTR-40B
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-ACS726xLFTR-40B](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-ACS726xLFTR-40B)
 - Short Link: [http://oom.lt/SZKSENCURRENTACS726XLFTR4B](http://oom.lt/SZKSENCURRENTACS726XLFTR4B)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Current/ACS726xLFTR-40B/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Current/ACS726xLFTR-40B/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Current/ACS726xLFTR-40B/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Current/ACS726xLFTR-40B/image.png)|||

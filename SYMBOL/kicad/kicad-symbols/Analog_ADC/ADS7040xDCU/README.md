@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKANALOGADCADS74XDCU > Analog_ADC : ADS7040xDCU](#szkanalogadcads74xdcu--analog_adc--ads7040xdcu)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Analog_ADC : ADS7040xDCU
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-ADS7040xDCU](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-ADS7040xDCU)
 - Short Link: [http://oom.lt/SZKANALOGADCADS74XDCU](http://oom.lt/SZKANALOGADCADS74XDCU)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Analog_ADC/ADS7040xDCU/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Analog_ADC/ADS7040xDCU/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Analog_ADC/ADS7040xDCU/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Analog_ADC/ADS7040xDCU/image.png)|||

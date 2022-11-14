@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKSENTEMPERATUREPCT275D > Sensor_Temperature : PCT2075D](#szksentemperaturepct275d--sensor_temperature--pct2075d)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Sensor_Temperature : PCT2075D
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Temperature-PCT2075D](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Temperature-PCT2075D)
 - Short Link: [http://oom.lt/SZKSENTEMPERATUREPCT275D](http://oom.lt/SZKSENTEMPERATUREPCT275D)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Temperature/PCT2075D/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Temperature/PCT2075D/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Temperature/PCT2075D/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Temperature/PCT2075D/image.png)|||

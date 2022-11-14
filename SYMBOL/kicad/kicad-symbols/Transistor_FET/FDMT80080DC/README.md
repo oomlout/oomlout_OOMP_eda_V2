@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKTRANSISTORFETFDMT88DC > Transistor_FET : FDMT80080DC](#szktransistorfetfdmt88dc--transistor_fet--fdmt80080dc)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Transistor_FET : FDMT80080DC
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-FDMT80080DC](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-FDMT80080DC)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETFDMT88DC](http://oom.lt/SZKTRANSISTORFETFDMT88DC)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/FDMT80080DC/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/FDMT80080DC/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/FDMT80080DC/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/FDMT80080DC/image.png)|||

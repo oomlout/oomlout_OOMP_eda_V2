@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKISOLATORACPL2145E > Isolator : ACPL-214-500E](#szkisolatoracpl2145e--isolator--acpl-214-500e)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Isolator : ACPL-214-500E
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-ACPL-214-500E](http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-ACPL-214-500E)
 - Short Link: [http://oom.lt/SZKISOLATORACPL2145E](http://oom.lt/SZKISOLATORACPL2145E)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Isolator/ACPL-214-500E/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Isolator/ACPL-214-500E/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Isolator/ACPL-214-500E/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Isolator/ACPL-214-500E/image.png)|||

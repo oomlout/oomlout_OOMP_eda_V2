@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKREGULATORLINEARBD33FCWEFJ > Regulator_Linear : BD33FC0WEFJ](#szkregulatorlinearbd33fcwefj--regulator_linear--bd33fc0wefj)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Regulator_Linear : BD33FC0WEFJ
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-BD33FC0WEFJ](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-BD33FC0WEFJ)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARBD33FCWEFJ](http://oom.lt/SZKREGULATORLINEARBD33FCWEFJ)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/BD33FC0WEFJ/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/BD33FC0WEFJ/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/BD33FC0WEFJ/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/BD33FC0WEFJ/image.png)|||

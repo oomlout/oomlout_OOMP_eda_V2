@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKBGABGA13212X18LAYOUT11X17P1 > Package_BGA : BGA-132_12x18mm_Layout11x17_P1.0mm](#fzkbgabga13212x18layout11x17p1--package_bga--bga-132_12x18mm_layout11x17_p10mm)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Package_BGA : BGA-132_12x18mm_Layout11x17_P1.0mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_BGA-BGA-132_12x18mm_Layout11x17_P1.0mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_BGA-BGA-132_12x18mm_Layout11x17_P1.0mm)
 - Short Link: [http://oom.lt/FZKBGABGA13212X18LAYOUT11X17P1](http://oom.lt/FZKBGABGA13212X18LAYOUT11X17P1)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_BGA/BGA-132_12x18mm_Layout11x17_P1.0mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_BGA/BGA-132_12x18mm_Layout11x17_P1.0mm/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_BGA/BGA-132_12x18mm_Layout11x17_P1.0mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_BGA/BGA-132_12x18mm_Layout11x17_P1.0mm/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_BGA/BGA-132_12x18mm_Layout11x17_P1.0mm/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_BGA/BGA-132_12x18mm_Layout11x17_P1.0mm/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_BGA/BGA-132_12x18mm_Layout11x17_P1.0mm/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_BGA/BGA-132_12x18mm_Layout11x17_P1.0mm/kicadPcb3dBack.png)|

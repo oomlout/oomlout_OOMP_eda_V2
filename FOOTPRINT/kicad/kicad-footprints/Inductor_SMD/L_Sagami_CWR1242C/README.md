@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKINDUCTORSMLSAGAMICWR1242C > Inductor_SMD : L_Sagami_CWR1242C](#fzkinductorsmlsagamicwr1242c--inductor_smd--l_sagami_cwr1242c)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Inductor_SMD : L_Sagami_CWR1242C
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Sagami_CWR1242C](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Sagami_CWR1242C)
 - Short Link: [http://oom.lt/FZKINDUCTORSMLSAGAMICWR1242C](http://oom.lt/FZKINDUCTORSMLSAGAMICWR1242C)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Sagami_CWR1242C/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Sagami_CWR1242C/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Sagami_CWR1242C/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Sagami_CWR1242C/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Sagami_CWR1242C/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Sagami_CWR1242C/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Sagami_CWR1242C/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Sagami_CWR1242C/kicadPcb3dBack.png)|

@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKTRANSISTORBJTTIP41B > Transistor_BJT : TIP41B](#szktransistorbjttip41b--transistor_bjt--tip41b)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Transistor_BJT : TIP41B
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-TIP41B](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-TIP41B)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJTTIP41B](http://oom.lt/SZKTRANSISTORBJTTIP41B)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_BJT/TIP41B/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_BJT/TIP41B/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_BJT/TIP41B/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_BJT/TIP41B/image.png)|||

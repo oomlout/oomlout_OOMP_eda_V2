@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDIODEMBR53 > Diode : MBR0530](#szkdiodembr53--diode--mbr0530)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Diode : MBR0530
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-MBR0530](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-MBR0530)
 - Short Link: [http://oom.lt/SZKDIODEMBR53](http://oom.lt/SZKDIODEMBR53)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Diode/MBR0530/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Diode/MBR0530/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Diode/MBR0530/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Diode/MBR0530/image.png)|||

@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKOCSSG75CAN > Oscillator : SG-7050CAN](#szkocssg75can--oscillator--sg-7050can)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Oscillator : SG-7050CAN
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Oscillator-SG-7050CAN](http://oom.lt/SYMBOL-kicad-kicad-symbols-Oscillator-SG-7050CAN)
 - Short Link: [http://oom.lt/SZKOCSSG75CAN](http://oom.lt/SZKOCSSG75CAN)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Oscillator/SG-7050CAN/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Oscillator/SG-7050CAN/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Oscillator/SG-7050CAN/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Oscillator/SG-7050CAN/image.png)|||

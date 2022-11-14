@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDRIVERFETHIP482XB > Driver_FET : HIP4082xB](#szkdriverfethip482xb--driver_fet--hip4082xb)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Driver_FET : HIP4082xB
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-HIP4082xB](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-HIP4082xB)
 - Short Link: [http://oom.lt/SZKDRIVERFETHIP482XB](http://oom.lt/SZKDRIVERFETHIP482XB)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Driver_FET/HIP4082xB/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Driver_FET/HIP4082xB/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Driver_FET/HIP4082xB/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Driver_FET/HIP4082xB/image.png)|||

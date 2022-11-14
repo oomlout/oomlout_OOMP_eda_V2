@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKSZSYATTENTIONCTOPSLL > Symbol : Symbol_Attention_CopperTop_Small](#fzkszsyattentionctopsll--symbol--symbol_attention_coppertop_small)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Symbol : Symbol_Attention_CopperTop_Small
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Symbol-Symbol_Attention_CopperTop_Small](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Symbol-Symbol_Attention_CopperTop_Small)
 - Short Link: [http://oom.lt/FZKSZSYATTENTIONCTOPSLL](http://oom.lt/FZKSZSYATTENTIONCTOPSLL)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Symbol/Symbol_Attention_CopperTop_Small/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Symbol/Symbol_Attention_CopperTop_Small/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Symbol/Symbol_Attention_CopperTop_Small/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Symbol/Symbol_Attention_CopperTop_Small/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Symbol/Symbol_Attention_CopperTop_Small/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Symbol/Symbol_Attention_CopperTop_Small/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Symbol/Symbol_Attention_CopperTop_Small/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Symbol/Symbol_Attention_CopperTop_Small/kicadPcb3dBack.png)|

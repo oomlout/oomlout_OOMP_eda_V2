@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKSENOPTICALSFH26K > Sensor_Optical : SFH206K](#szksenopticalsfh26k--sensor_optical--sfh206k)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Sensor_Optical : SFH206K
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Optical-SFH206K](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Optical-SFH206K)
 - Short Link: [http://oom.lt/SZKSENOPTICALSFH26K](http://oom.lt/SZKSENOPTICALSFH26K)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Optical/SFH206K/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Optical/SFH206K/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Optical/SFH206K/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Optical/SFH206K/image.png)|||

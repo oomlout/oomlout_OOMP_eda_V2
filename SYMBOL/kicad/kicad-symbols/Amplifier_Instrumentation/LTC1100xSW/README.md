@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKAMPLIFIERINSTRUMENTATIONLTC11XSW > Amplifier_Instrumentation : LTC1100xSW](#szkamplifierinstrumentationltc11xsw--amplifier_instrumentation--ltc1100xsw)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Amplifier_Instrumentation : LTC1100xSW
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Instrumentation-LTC1100xSW](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Instrumentation-LTC1100xSW)
 - Short Link: [http://oom.lt/SZKAMPLIFIERINSTRUMENTATIONLTC11XSW](http://oom.lt/SZKAMPLIFIERINSTRUMENTATIONLTC11XSW)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Amplifier_Instrumentation/LTC1100xSW/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Amplifier_Instrumentation/LTC1100xSW/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Amplifier_Instrumentation/LTC1100xSW/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Amplifier_Instrumentation/LTC1100xSW/image.png)|||

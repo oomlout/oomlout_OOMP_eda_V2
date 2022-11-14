@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKINTERFACEUARTSC16IS76XBS > Interface_UART : SC16IS760xBS](#szkinterfaceuartsc16is76xbs--interface_uart--sc16is760xbs)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Interface_UART : SC16IS760xBS
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_UART-SC16IS760xBS](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_UART-SC16IS760xBS)
 - Short Link: [http://oom.lt/SZKINTERFACEUARTSC16IS76XBS](http://oom.lt/SZKINTERFACEUARTSC16IS76XBS)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface_UART/SC16IS760xBS/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface_UART/SC16IS760xBS/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface_UART/SC16IS760xBS/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface_UART/SC16IS760xBS/image.png)|||

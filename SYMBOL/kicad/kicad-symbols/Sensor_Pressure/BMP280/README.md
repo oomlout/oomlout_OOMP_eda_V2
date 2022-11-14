@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKSENPRESSUREBMP28 > Sensor_Pressure : BMP280](#szksenpressurebmp28--sensor_pressure--bmp280)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Sensor_Pressure : BMP280
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Pressure-BMP280](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Pressure-BMP280)
 - Short Link: [http://oom.lt/SZKSENPRESSUREBMP28](http://oom.lt/SZKSENPRESSUREBMP28)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Pressure/BMP280/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Pressure/BMP280/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Pressure/BMP280/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Pressure/BMP280/image.png)|||

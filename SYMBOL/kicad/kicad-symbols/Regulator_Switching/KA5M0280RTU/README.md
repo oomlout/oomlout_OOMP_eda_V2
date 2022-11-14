@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKREGULATORSWITCHINGKA5M28RTU > Regulator_Switching : KA5M0280RTU](#szkregulatorswitchingka5m28rtu--regulator_switching--ka5m0280rtu)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Regulator_Switching : KA5M0280RTU
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-KA5M0280RTU](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-KA5M0280RTU)
 - Short Link: [http://oom.lt/SZKREGULATORSWITCHINGKA5M28RTU](http://oom.lt/SZKREGULATORSWITCHINGKA5M28RTU)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/KA5M0280RTU/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/KA5M0280RTU/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/KA5M0280RTU/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/KA5M0280RTU/image.png)|||

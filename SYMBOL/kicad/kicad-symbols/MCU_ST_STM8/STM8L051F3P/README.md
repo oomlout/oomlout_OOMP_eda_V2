@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKMCUSTSTM8STM8L51F3P > MCU_ST_STM8 : STM8L051F3P](#szkmcuststm8stm8l51f3p--mcu_st_stm8--stm8l051f3p)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: MCU_ST_STM8 : STM8L051F3P
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM8-STM8L051F3P](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM8-STM8L051F3P)
 - Short Link: [http://oom.lt/SZKMCUSTSTM8STM8L51F3P](http://oom.lt/SZKMCUSTSTM8STM8L51F3P)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_ST_STM8/STM8L051F3P/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_ST_STM8/STM8L051F3P/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_ST_STM8/STM8L051F3P/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_ST_STM8/STM8L051F3P/image.png)|||

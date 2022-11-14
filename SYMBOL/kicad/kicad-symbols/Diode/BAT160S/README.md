@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDIODEBAT16S > Diode : BAT160S](#szkdiodebat16s--diode--bat160s)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Diode : BAT160S
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-BAT160S](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-BAT160S)
 - Short Link: [http://oom.lt/SZKDIODEBAT16S](http://oom.lt/SZKDIODEBAT16S)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Diode/BAT160S/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Diode/BAT160S/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Diode/BAT160S/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Diode/BAT160S/image.png)|||

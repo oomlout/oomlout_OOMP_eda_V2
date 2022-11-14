@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKLOGICPROGRAABLEGAL16V8 > Logic_Programmable : GAL16V8](#szklogicprograablegal16v8--logic_programmable--gal16v8)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Logic_Programmable : GAL16V8
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Logic_Programmable-GAL16V8](http://oom.lt/SYMBOL-kicad-kicad-symbols-Logic_Programmable-GAL16V8)
 - Short Link: [http://oom.lt/SZKLOGICPROGRAABLEGAL16V8](http://oom.lt/SZKLOGICPROGRAABLEGAL16V8)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Logic_Programmable/GAL16V8/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Logic_Programmable/GAL16V8/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Logic_Programmable/GAL16V8/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Logic_Programmable/GAL16V8/image.png)|||

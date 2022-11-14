@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKSENCURRENTHO25NSM > Sensor_Current : HO25-NSM](#szksencurrentho25nsm--sensor_current--ho25-nsm)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Sensor_Current : HO25-NSM
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-HO25-NSM](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-HO25-NSM)
 - Short Link: [http://oom.lt/SZKSENCURRENTHO25NSM](http://oom.lt/SZKSENCURRENTHO25NSM)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Current/HO25-NSM/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Current/HO25-NSM/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Current/HO25-NSM/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Current/HO25-NSM/image.png)|||

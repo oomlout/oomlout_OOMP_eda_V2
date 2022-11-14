@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKTRANSISTORFETBSB13NE2LXI > Transistor_FET : BSB013NE2LXI](#szktransistorfetbsb13ne2lxi--transistor_fet--bsb013ne2lxi)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Transistor_FET : BSB013NE2LXI
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-BSB013NE2LXI](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-BSB013NE2LXI)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETBSB13NE2LXI](http://oom.lt/SZKTRANSISTORFETBSB13NE2LXI)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/BSB013NE2LXI/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/BSB013NE2LXI/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/BSB013NE2LXI/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/BSB013NE2LXI/image.png)|||

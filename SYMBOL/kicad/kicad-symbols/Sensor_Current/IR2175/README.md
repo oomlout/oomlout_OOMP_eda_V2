@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKSENCURRENTIR2175 > Sensor_Current : IR2175](#szksencurrentir2175--sensor_current--ir2175)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Sensor_Current : IR2175
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-IR2175](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-IR2175)
 - Short Link: [http://oom.lt/SZKSENCURRENTIR2175](http://oom.lt/SZKSENCURRENTIR2175)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Current/IR2175/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Current/IR2175/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Current/IR2175/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Current/IR2175/image.png)|||

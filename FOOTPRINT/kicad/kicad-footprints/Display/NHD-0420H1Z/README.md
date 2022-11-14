@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKDINHD42H1Z > Display : NHD-0420H1Z](#fzkdinhd42h1z--display--nhd-0420h1z)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Display : NHD-0420H1Z
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Display-NHD-0420H1Z](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Display-NHD-0420H1Z)
 - Short Link: [http://oom.lt/FZKDINHD42H1Z](http://oom.lt/FZKDINHD42H1Z)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Display/NHD-0420H1Z/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Display/NHD-0420H1Z/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Display/NHD-0420H1Z/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Display/NHD-0420H1Z/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Display/NHD-0420H1Z/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Display/NHD-0420H1Z/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Display/NHD-0420H1Z/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Display/NHD-0420H1Z/kicadPcb3dBack.png)|

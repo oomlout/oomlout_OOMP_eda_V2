@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKTRPA3493NL > Transformer : PA3493NL](#szktrpa3493nl--transformer--pa3493nl)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Transformer : PA3493NL
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transformer-PA3493NL](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transformer-PA3493NL)
 - Short Link: [http://oom.lt/SZKTRPA3493NL](http://oom.lt/SZKTRPA3493NL)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transformer/PA3493NL/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transformer/PA3493NL/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transformer/PA3493NL/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transformer/PA3493NL/image.png)|||

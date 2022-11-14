@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKTRTRBREVETEZ35X42 > Transformer_THT : Transformer_Breve_TEZ-35x42](#fzktrtrbrevetez35x42--transformer_tht--transformer_breve_tez-35x42)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Transformer_THT : Transformer_Breve_TEZ-35x42
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Transformer_THT-Transformer_Breve_TEZ-35x42](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Transformer_THT-Transformer_Breve_TEZ-35x42)
 - Short Link: [http://oom.lt/FZKTRTRBREVETEZ35X42](http://oom.lt/FZKTRTRBREVETEZ35X42)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Transformer_THT/Transformer_Breve_TEZ-35x42/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Transformer_THT/Transformer_Breve_TEZ-35x42/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Transformer_THT/Transformer_Breve_TEZ-35x42/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Transformer_THT/Transformer_Breve_TEZ-35x42/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Transformer_THT/Transformer_Breve_TEZ-35x42/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Transformer_THT/Transformer_Breve_TEZ-35x42/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Transformer_THT/Transformer_Breve_TEZ-35x42/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Transformer_THT/Transformer_Breve_TEZ-35x42/kicadPcb3dBack.png)|

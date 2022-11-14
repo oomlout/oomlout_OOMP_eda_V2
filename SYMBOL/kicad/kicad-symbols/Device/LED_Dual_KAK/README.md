@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDEVICELDUALKAK > Device : LED_Dual_KAK](#szkdeviceldualkak--device--led_dual_kak)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Device : LED_Dual_KAK
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-LED_Dual_KAK](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-LED_Dual_KAK)
 - Short Link: [http://oom.lt/SZKDEVICELDUALKAK](http://oom.lt/SZKDEVICELDUALKAK)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/LED_Dual_KAK/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/LED_Dual_KAK/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/LED_Dual_KAK/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/LED_Dual_KAK/image.png)|||

@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKCONITX1215SA > Converter_DCDC : ITX1215SA](#szkconitx1215sa--converter_dcdc--itx1215sa)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Converter_DCDC : ITX1215SA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-ITX1215SA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-ITX1215SA)
 - Short Link: [http://oom.lt/SZKCONITX1215SA](http://oom.lt/SZKCONITX1215SA)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Converter_DCDC/ITX1215SA/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Converter_DCDC/ITX1215SA/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Converter_DCDC/ITX1215SA/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Converter_DCDC/ITX1215SA/image.png)|||

@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKINTERFACEETHERNETKSZ881MLX > Interface_Ethernet : KSZ8081MLX](#szkinterfaceethernetksz881mlx--interface_ethernet--ksz8081mlx)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Interface_Ethernet : KSZ8081MLX
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Ethernet-KSZ8081MLX](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Ethernet-KSZ8081MLX)
 - Short Link: [http://oom.lt/SZKINTERFACEETHERNETKSZ881MLX](http://oom.lt/SZKINTERFACEETHERNETKSZ881MLX)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface_Ethernet/KSZ8081MLX/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface_Ethernet/KSZ8081MLX/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface_Ethernet/KSZ8081MLX/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface_Ethernet/KSZ8081MLX/image.png)|||

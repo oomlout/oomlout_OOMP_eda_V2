@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKANALOGSWITCHDG412XUE > Analog_Switch : DG412xUE](#szkanalogswitchdg412xue--analog_switch--dg412xue)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Analog_Switch : DG412xUE
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_Switch-DG412xUE](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_Switch-DG412xUE)
 - Short Link: [http://oom.lt/SZKANALOGSWITCHDG412XUE](http://oom.lt/SZKANALOGSWITCHDG412XUE)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Analog_Switch/DG412xUE/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Analog_Switch/DG412xUE/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Analog_Switch/DG412xUE/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Analog_Switch/DG412xUE/image.png)|||

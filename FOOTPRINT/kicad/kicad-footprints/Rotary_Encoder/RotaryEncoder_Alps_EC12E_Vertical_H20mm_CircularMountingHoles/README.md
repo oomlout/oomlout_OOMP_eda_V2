@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKREROTARYENCODERALPSEC12EVERTICALH2CIRCULARHOLS > Rotary_Encoder : RotaryEncoder_Alps_EC12E_Vertical_H20mm_CircularMountingHoles](#fzkrerotaryencoderalpsec12everticalh2circularhols--rotary_encoder--rotaryencoder_alps_ec12e_vertical_h20mm_circularmountingholes)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Rotary_Encoder : RotaryEncoder_Alps_EC12E_Vertical_H20mm_CircularMountingHoles
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Rotary_Encoder-RotaryEncoder_Alps_EC12E_Vertical_H20mm_CircularMountingHoles](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Rotary_Encoder-RotaryEncoder_Alps_EC12E_Vertical_H20mm_CircularMountingHoles)
 - Short Link: [http://oom.lt/FZKREROTARYENCODERALPSEC12EVERTICALH2CIRCULARHOLS](http://oom.lt/FZKREROTARYENCODERALPSEC12EVERTICALH2CIRCULARHOLS)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Rotary_Encoder/RotaryEncoder_Alps_EC12E_Vertical_H20mm_CircularMountingHoles/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Rotary_Encoder/RotaryEncoder_Alps_EC12E_Vertical_H20mm_CircularMountingHoles/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Rotary_Encoder/RotaryEncoder_Alps_EC12E_Vertical_H20mm_CircularMountingHoles/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Rotary_Encoder/RotaryEncoder_Alps_EC12E_Vertical_H20mm_CircularMountingHoles/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Rotary_Encoder/RotaryEncoder_Alps_EC12E_Vertical_H20mm_CircularMountingHoles/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Rotary_Encoder/RotaryEncoder_Alps_EC12E_Vertical_H20mm_CircularMountingHoles/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Rotary_Encoder/RotaryEncoder_Alps_EC12E_Vertical_H20mm_CircularMountingHoles/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Rotary_Encoder/RotaryEncoder_Alps_EC12E_Vertical_H20mm_CircularMountingHoles/kicadPcb3dBack.png)|

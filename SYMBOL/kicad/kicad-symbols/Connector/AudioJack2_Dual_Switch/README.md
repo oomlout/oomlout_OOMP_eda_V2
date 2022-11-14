@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKCNAUDIOJ2DUALSWITCH > Connector : AudioJack2_Dual_Switch](#szkcnaudioj2dualswitch--connector--audiojack2_dual_switch)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Connector : AudioJack2_Dual_Switch
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-AudioJack2_Dual_Switch](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-AudioJack2_Dual_Switch)
 - Short Link: [http://oom.lt/SZKCNAUDIOJ2DUALSWITCH](http://oom.lt/SZKCNAUDIOJ2DUALSWITCH)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/AudioJack2_Dual_Switch/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/AudioJack2_Dual_Switch/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/AudioJack2_Dual_Switch/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/AudioJack2_Dual_Switch/image.png)|||

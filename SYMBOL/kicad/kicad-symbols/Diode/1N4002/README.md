@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDIODE1N42 > Diode : 1N4002](#szkdiode1n42--diode--1n4002)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Diode : 1N4002
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-1N4002](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-1N4002)
 - Short Link: [http://oom.lt/SZKDIODE1N42](http://oom.lt/SZKDIODE1N42)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Diode/1N4002/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Diode/1N4002/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Diode/1N4002/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Diode/1N4002/image.png)|||

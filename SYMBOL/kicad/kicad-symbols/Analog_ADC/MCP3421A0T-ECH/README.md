@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKANALOGADCMCP3421ATECH > Analog_ADC : MCP3421A0T-ECH](#szkanalogadcmcp3421atech--analog_adc--mcp3421a0t-ech)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Analog_ADC : MCP3421A0T-ECH
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-MCP3421A0T-ECH](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-MCP3421A0T-ECH)
 - Short Link: [http://oom.lt/SZKANALOGADCMCP3421ATECH](http://oom.lt/SZKANALOGADCMCP3421ATECH)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Analog_ADC/MCP3421A0T-ECH/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Analog_ADC/MCP3421A0T-ECH/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Analog_ADC/MCP3421A0T-ECH/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Analog_ADC/MCP3421A0T-ECH/image.png)|||

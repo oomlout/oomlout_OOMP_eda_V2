@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKSENTEMPERATURETMP2AIDCK > Sensor_Temperature : TMP20AIDCK](#szksentemperaturetmp2aidck--sensor_temperature--tmp20aidck)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Sensor_Temperature : TMP20AIDCK
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Temperature-TMP20AIDCK](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Temperature-TMP20AIDCK)
 - Short Link: [http://oom.lt/SZKSENTEMPERATURETMP2AIDCK](http://oom.lt/SZKSENTEMPERATURETMP2AIDCK)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Temperature/TMP20AIDCK/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Temperature/TMP20AIDCK/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Temperature/TMP20AIDCK/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Temperature/TMP20AIDCK/image.png)|||

@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKAUDIOAS333 > Audio : AS3330](#szkaudioas333--audio--as3330)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Audio : AS3330
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Audio-AS3330](http://oom.lt/SYMBOL-kicad-kicad-symbols-Audio-AS3330)
 - Short Link: [http://oom.lt/SZKAUDIOAS333](http://oom.lt/SZKAUDIOAS333)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Audio/AS3330/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Audio/AS3330/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Audio/AS3330/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Audio/AS3330/image.png)|||

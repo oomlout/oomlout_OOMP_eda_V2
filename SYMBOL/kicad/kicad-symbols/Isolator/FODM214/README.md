@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKISOLATORFODM214 > Isolator : FODM214](#szkisolatorfodm214--isolator--fodm214)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Isolator : FODM214
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-FODM214](http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-FODM214)
 - Short Link: [http://oom.lt/SZKISOLATORFODM214](http://oom.lt/SZKISOLATORFODM214)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Isolator/FODM214/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Isolator/FODM214/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Isolator/FODM214/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Isolator/FODM214/image.png)|||

@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKMCUMCHIPPIC32PIC32MX795F512L8XPT > MCU_Microchip_PIC32 : PIC32MX795F512L-80x-PT](#szkmcumchippic32pic32mx795f512l8xpt--mcu_microchip_pic32--pic32mx795f512l-80x-pt)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: MCU_Microchip_PIC32 : PIC32MX795F512L-80x-PT
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC32-PIC32MX795F512L-80x-PT](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC32-PIC32MX795F512L-80x-PT)
 - Short Link: [http://oom.lt/SZKMCUMCHIPPIC32PIC32MX795F512L8XPT](http://oom.lt/SZKMCUMCHIPPIC32PIC32MX795F512L8XPT)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC32/PIC32MX795F512L-80x-PT/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC32/PIC32MX795F512L-80x-PT/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC32/PIC32MX795F512L-80x-PT/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC32/PIC32MX795F512L-80x-PT/image.png)|||

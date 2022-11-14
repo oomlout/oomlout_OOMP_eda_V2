@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKMCUSTSTM32L4STM32L476JGYX > MCU_ST_STM32L4 : STM32L476JGYx](#szkmcuststm32l4stm32l476jgyx--mcu_st_stm32l4--stm32l476jgyx)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: MCU_ST_STM32L4 : STM32L476JGYx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32L4-STM32L476JGYx](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32L4-STM32L476JGYx)
 - Short Link: [http://oom.lt/SZKMCUSTSTM32L4STM32L476JGYX](http://oom.lt/SZKMCUSTSTM32L4STM32L476JGYX)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32L4/STM32L476JGYx/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32L4/STM32L476JGYx/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32L4/STM32L476JGYx/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32L4/STM32L476JGYx/image.png)|||

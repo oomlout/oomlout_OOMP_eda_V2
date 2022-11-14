@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKTRANSISTORPOWERMOFP15R12W2T4 > Transistor_Power_Module : FP15R12W2T4](#szktransistorpowermofp15r12w2t4--transistor_power_module--fp15r12w2t4)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Transistor_Power_Module : FP15R12W2T4
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_Power_Module-FP15R12W2T4](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_Power_Module-FP15R12W2T4)
 - Short Link: [http://oom.lt/SZKTRANSISTORPOWERMOFP15R12W2T4](http://oom.lt/SZKTRANSISTORPOWERMOFP15R12W2T4)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_Power_Module/FP15R12W2T4/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_Power_Module/FP15R12W2T4/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_Power_Module/FP15R12W2T4/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_Power_Module/FP15R12W2T4/image.png)|||

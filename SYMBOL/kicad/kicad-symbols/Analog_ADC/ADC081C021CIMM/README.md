@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKANALOGADCADC81C21CI > Analog_ADC : ADC081C021CIMM](#szkanalogadcadc81c21ci--analog_adc--adc081c021cimm)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Analog_ADC : ADC081C021CIMM
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-ADC081C021CIMM](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-ADC081C021CIMM)
 - Short Link: [http://oom.lt/SZKANALOGADCADC81C21CI](http://oom.lt/SZKANALOGADCADC81C21CI)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Analog_ADC/ADC081C021CIMM/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Analog_ADC/ADC081C021CIMM/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Analog_ADC/ADC081C021CIMM/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Analog_ADC/ADC081C021CIMM/image.png)|||

@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSHALLSENSIP3A132LUAT > digikey-footprints : Hall_Sensor_SIP-3_A132_LUA-T](#fzkicaddigikeykicadlibrarydigikeyfootprintshallsensip3a132luat--digikey-footprints--hall_sensor_sip-3_a132_lua-t)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: digikey-footprints : Hall_Sensor_SIP-3_A132_LUA-T
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Hall_Sensor_SIP-3_A132_LUA-T](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Hall_Sensor_SIP-3_A132_LUA-T)
 - Short Link: [http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSHALLSENSIP3A132LUAT](http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSHALLSENSIP3A132LUAT)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Hall_Sensor_SIP-3_A132_LUA-T/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Hall_Sensor_SIP-3_A132_LUA-T/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Hall_Sensor_SIP-3_A132_LUA-T/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Hall_Sensor_SIP-3_A132_LUA-T/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Hall_Sensor_SIP-3_A132_LUA-T/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Hall_Sensor_SIP-3_A132_LUA-T/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Hall_Sensor_SIP-3_A132_LUA-T/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Hall_Sensor_SIP-3_A132_LUA-T/kicadPcb3dBack.png)|

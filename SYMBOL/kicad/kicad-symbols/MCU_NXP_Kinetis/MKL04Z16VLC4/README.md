@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKMCUNXPKINETISMKL4Z16VLC4 > MCU_NXP_Kinetis : MKL04Z16VLC4](#szkmcunxpkinetismkl4z16vlc4--mcu_nxp_kinetis--mkl04z16vlc4)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: MCU_NXP_Kinetis : MKL04Z16VLC4
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_NXP_Kinetis-MKL04Z16VLC4](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_NXP_Kinetis-MKL04Z16VLC4)
 - Short Link: [http://oom.lt/SZKMCUNXPKINETISMKL4Z16VLC4](http://oom.lt/SZKMCUNXPKINETISMKL4Z16VLC4)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_NXP_Kinetis/MKL04Z16VLC4/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_NXP_Kinetis/MKL04Z16VLC4/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_NXP_Kinetis/MKL04Z16VLC4/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_NXP_Kinetis/MKL04Z16VLC4/image.png)|||

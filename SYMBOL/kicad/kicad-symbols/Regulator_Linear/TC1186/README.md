@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKREGULATORLINEARTC1186 > Regulator_Linear : TC1186](#szkregulatorlineartc1186--regulator_linear--tc1186)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Regulator_Linear : TC1186
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-TC1186](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-TC1186)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARTC1186](http://oom.lt/SZKREGULATORLINEARTC1186)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/TC1186/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/TC1186/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/TC1186/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/TC1186/image.png)|||

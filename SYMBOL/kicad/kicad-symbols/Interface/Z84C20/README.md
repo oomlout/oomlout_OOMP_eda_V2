@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKINTERFACEZ84C2 > Interface : Z84C20](#szkinterfacez84c2--interface--z84c20)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Interface : Z84C20
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-Z84C20](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-Z84C20)
 - Short Link: [http://oom.lt/SZKINTERFACEZ84C2](http://oom.lt/SZKINTERFACEZ84C2)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface/Z84C20/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface/Z84C20/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface/Z84C20/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface/Z84C20/image.png)|||

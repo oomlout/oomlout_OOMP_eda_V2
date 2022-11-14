@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKANALOGDACMAX5215 > Analog_DAC : MAX5215](#szkanalogdacmax5215--analog_dac--max5215)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Analog_DAC : MAX5215
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_DAC-MAX5215](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_DAC-MAX5215)
 - Short Link: [http://oom.lt/SZKANALOGDACMAX5215](http://oom.lt/SZKANALOGDACMAX5215)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Analog_DAC/MAX5215/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Analog_DAC/MAX5215/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Analog_DAC/MAX5215/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Analog_DAC/MAX5215/image.png)|||

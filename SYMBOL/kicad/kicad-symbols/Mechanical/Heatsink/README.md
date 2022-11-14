@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKMECHANICALH > Mechanical : Heatsink](#szkmechanicalh--mechanical--heatsink)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Mechanical : Heatsink
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Mechanical-Heatsink](http://oom.lt/SYMBOL-kicad-kicad-symbols-Mechanical-Heatsink)
 - Short Link: [http://oom.lt/SZKMECHANICALH](http://oom.lt/SZKMECHANICALH)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Mechanical/Heatsink/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Mechanical/Heatsink/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Mechanical/Heatsink/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Mechanical/Heatsink/image.png)|||

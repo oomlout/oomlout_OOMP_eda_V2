@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKCONPTN782HEUK7 > Converter_DCDC : PTN78020H_EUK-7](#szkconptn782heuk7--converter_dcdc--ptn78020h_euk-7)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Converter_DCDC : PTN78020H_EUK-7
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-PTN78020H_EUK-7](http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-PTN78020H_EUK-7)
 - Short Link: [http://oom.lt/SZKCONPTN782HEUK7](http://oom.lt/SZKCONPTN782HEUK7)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Converter_DCDC/PTN78020H_EUK-7/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Converter_DCDC/PTN78020H_EUK-7/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Converter_DCDC/PTN78020H_EUK-7/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Converter_DCDC/PTN78020H_EUK-7/image.png)|||

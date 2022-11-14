@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKSENCURRENTACS78XLRTR1U > Sensor_Current : ACS780xLRTR-100U](#szksencurrentacs78xlrtr1u--sensor_current--acs780xlrtr-100u)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Sensor_Current : ACS780xLRTR-100U
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-ACS780xLRTR-100U](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-ACS780xLRTR-100U)
 - Short Link: [http://oom.lt/SZKSENCURRENTACS78XLRTR1U](http://oom.lt/SZKSENCURRENTACS78XLRTR1U)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Current/ACS780xLRTR-100U/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Current/ACS780xLRTR-100U/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Current/ACS780xLRTR-100U/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Current/ACS780xLRTR-100U/image.png)|||

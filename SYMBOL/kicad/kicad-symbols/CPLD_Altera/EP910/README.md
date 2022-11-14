@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKCPLDALTERAEP91 > CPLD_Altera : EP910](#szkcpldalteraep91--cpld_altera--ep910)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: CPLD_Altera : EP910
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-CPLD_Altera-EP910](http://oom.lt/SYMBOL-kicad-kicad-symbols-CPLD_Altera-EP910)
 - Short Link: [http://oom.lt/SZKCPLDALTERAEP91](http://oom.lt/SZKCPLDALTERAEP91)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/CPLD_Altera/EP910/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/CPLD_Altera/EP910/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/CPLD_Altera/EP910/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/CPLD_Altera/EP910/image.png)|||

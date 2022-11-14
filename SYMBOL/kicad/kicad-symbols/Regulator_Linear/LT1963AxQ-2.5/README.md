@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKREGULATORLINEARLT1963AXQ25 > Regulator_Linear : LT1963AxQ-2.5](#szkregulatorlinearlt1963axq25--regulator_linear--lt1963axq-25)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Regulator_Linear : LT1963AxQ-2.5
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LT1963AxQ-2.5](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LT1963AxQ-2.5)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARLT1963AXQ25](http://oom.lt/SZKREGULATORLINEARLT1963AXQ25)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LT1963AxQ-2.5/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LT1963AxQ-2.5/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LT1963AxQ-2.5/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LT1963AxQ-2.5/image.png)|||

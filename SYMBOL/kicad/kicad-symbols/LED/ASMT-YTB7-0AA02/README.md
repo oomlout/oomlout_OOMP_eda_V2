@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKLASMTYTB7AA2 > LED : ASMT-YTB7-0AA02](#szklasmtytb7aa2--led--asmt-ytb7-0aa02)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: LED : ASMT-YTB7-0AA02
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-LED-ASMT-YTB7-0AA02](http://oom.lt/SYMBOL-kicad-kicad-symbols-LED-ASMT-YTB7-0AA02)
 - Short Link: [http://oom.lt/SZKLASMTYTB7AA2](http://oom.lt/SZKLASMTYTB7AA2)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/LED/ASMT-YTB7-0AA02/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/LED/ASMT-YTB7-0AA02/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/LED/ASMT-YTB7-0AA02/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/LED/ASMT-YTB7-0AA02/image.png)|||

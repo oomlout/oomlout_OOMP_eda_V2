@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKBGATEXASDSBGA69X14LAYOUT2X3P5 > Package_BGA : Texas_DSBGA-6_0.9x1.4mm_Layout2x3_P0.5mm](#fzkbgatexasdsbga69x14layout2x3p5--package_bga--texas_dsbga-6_09x14mm_layout2x3_p05mm)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Package_BGA : Texas_DSBGA-6_0.9x1.4mm_Layout2x3_P0.5mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_BGA-Texas_DSBGA-6_0.9x1.4mm_Layout2x3_P0.5mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_BGA-Texas_DSBGA-6_0.9x1.4mm_Layout2x3_P0.5mm)
 - Short Link: [http://oom.lt/FZKBGATEXASDSBGA69X14LAYOUT2X3P5](http://oom.lt/FZKBGATEXASDSBGA69X14LAYOUT2X3P5)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_BGA/Texas_DSBGA-6_0.9x1.4mm_Layout2x3_P0.5mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_BGA/Texas_DSBGA-6_0.9x1.4mm_Layout2x3_P0.5mm/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_BGA/Texas_DSBGA-6_0.9x1.4mm_Layout2x3_P0.5mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_BGA/Texas_DSBGA-6_0.9x1.4mm_Layout2x3_P0.5mm/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_BGA/Texas_DSBGA-6_0.9x1.4mm_Layout2x3_P0.5mm/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_BGA/Texas_DSBGA-6_0.9x1.4mm_Layout2x3_P0.5mm/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_BGA/Texas_DSBGA-6_0.9x1.4mm_Layout2x3_P0.5mm/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_BGA/Texas_DSBGA-6_0.9x1.4mm_Layout2x3_P0.5mm/kicadPcb3dBack.png)|

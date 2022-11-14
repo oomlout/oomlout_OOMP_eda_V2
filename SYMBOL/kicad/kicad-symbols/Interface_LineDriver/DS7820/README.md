@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKINTERFACELINEDRIVERDS782 > Interface_LineDriver : DS7820](#szkinterfacelinedriverds782--interface_linedriver--ds7820)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Interface_LineDriver : DS7820
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_LineDriver-DS7820](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_LineDriver-DS7820)
 - Short Link: [http://oom.lt/SZKINTERFACELINEDRIVERDS782](http://oom.lt/SZKINTERFACELINEDRIVERDS782)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface_LineDriver/DS7820/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface_LineDriver/DS7820/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface_LineDriver/DS7820/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface_LineDriver/DS7820/image.png)|||

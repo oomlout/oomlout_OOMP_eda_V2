@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKMCUCYPRESSCY8C4247LQQBL483 > MCU_Cypress : CY8C4247LQQ-BL483](#szkmcucypresscy8c4247lqqbl483--mcu_cypress--cy8c4247lqq-bl483)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: MCU_Cypress : CY8C4247LQQ-BL483
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Cypress-CY8C4247LQQ-BL483](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Cypress-CY8C4247LQQ-BL483)
 - Short Link: [http://oom.lt/SZKMCUCYPRESSCY8C4247LQQBL483](http://oom.lt/SZKMCUCYPRESSCY8C4247LQQBL483)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Cypress/CY8C4247LQQ-BL483/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Cypress/CY8C4247LQQ-BL483/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Cypress/CY8C4247LQQ-BL483/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Cypress/CY8C4247LQQ-BL483/image.png)|||

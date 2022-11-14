@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKINTERFACEFIN119MTC > Interface : FIN1019MTC](#szkinterfacefin119mtc--interface--fin1019mtc)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Interface : FIN1019MTC
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-FIN1019MTC](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-FIN1019MTC)
 - Short Link: [http://oom.lt/SZKINTERFACEFIN119MTC](http://oom.lt/SZKINTERFACEFIN119MTC)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface/FIN1019MTC/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface/FIN1019MTC/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface/FIN1019MTC/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface/FIN1019MTC/image.png)|||

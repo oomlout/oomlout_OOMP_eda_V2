@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKSENMAGNETICDRV533FAXDBZ > Sensor_Magnetic : DRV5033FAxDBZ](#szksenmagneticdrv533faxdbz--sensor_magnetic--drv5033faxdbz)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Sensor_Magnetic : DRV5033FAxDBZ
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Magnetic-DRV5033FAxDBZ](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Magnetic-DRV5033FAxDBZ)
 - Short Link: [http://oom.lt/SZKSENMAGNETICDRV533FAXDBZ](http://oom.lt/SZKSENMAGNETICDRV533FAXDBZ)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Magnetic/DRV5033FAxDBZ/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Magnetic/DRV5033FAxDBZ/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Magnetic/DRV5033FAxDBZ/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Magnetic/DRV5033FAxDBZ/image.png)|||

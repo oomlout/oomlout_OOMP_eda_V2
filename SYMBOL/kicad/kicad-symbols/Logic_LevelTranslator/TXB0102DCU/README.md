@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKLOGICLEVELTRANSLATORTXB12DCU > Logic_LevelTranslator : TXB0102DCU](#szklogicleveltranslatortxb12dcu--logic_leveltranslator--txb0102dcu)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Logic_LevelTranslator : TXB0102DCU
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Logic_LevelTranslator-TXB0102DCU](http://oom.lt/SYMBOL-kicad-kicad-symbols-Logic_LevelTranslator-TXB0102DCU)
 - Short Link: [http://oom.lt/SZKLOGICLEVELTRANSLATORTXB12DCU](http://oom.lt/SZKLOGICLEVELTRANSLATORTXB12DCU)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Logic_LevelTranslator/TXB0102DCU/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Logic_LevelTranslator/TXB0102DCU/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Logic_LevelTranslator/TXB0102DCU/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Logic_LevelTranslator/TXB0102DCU/image.png)|||

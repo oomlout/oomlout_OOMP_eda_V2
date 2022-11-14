@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKREGULATORSWITCHINGPAM235CGF28 > Regulator_Switching : PAM2305CGF280](#szkregulatorswitchingpam235cgf28--regulator_switching--pam2305cgf280)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Regulator_Switching : PAM2305CGF280
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-PAM2305CGF280](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-PAM2305CGF280)
 - Short Link: [http://oom.lt/SZKREGULATORSWITCHINGPAM235CGF28](http://oom.lt/SZKREGULATORSWITCHINGPAM235CGF28)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/PAM2305CGF280/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/PAM2305CGF280/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/PAM2305CGF280/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/PAM2305CGF280/image.png)|||

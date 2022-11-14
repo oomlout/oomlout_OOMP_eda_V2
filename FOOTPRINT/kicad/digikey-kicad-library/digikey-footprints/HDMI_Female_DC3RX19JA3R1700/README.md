@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSHDMIFEMALEDC3RX19JA3R17 > digikey-footprints : HDMI_Female_DC3RX19JA3R1700](#fzkicaddigikeykicadlibrarydigikeyfootprintshdmifemaledc3rx19ja3r17--digikey-footprints--hdmi_female_dc3rx19ja3r1700)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: digikey-footprints : HDMI_Female_DC3RX19JA3R1700
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-HDMI_Female_DC3RX19JA3R1700](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-HDMI_Female_DC3RX19JA3R1700)
 - Short Link: [http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSHDMIFEMALEDC3RX19JA3R17](http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSHDMIFEMALEDC3RX19JA3R17)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/HDMI_Female_DC3RX19JA3R1700/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/HDMI_Female_DC3RX19JA3R1700/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/HDMI_Female_DC3RX19JA3R1700/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/HDMI_Female_DC3RX19JA3R1700/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/HDMI_Female_DC3RX19JA3R1700/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/HDMI_Female_DC3RX19JA3R1700/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/HDMI_Female_DC3RX19JA3R1700/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/HDMI_Female_DC3RX19JA3R1700/kicadPcb3dBack.png)|

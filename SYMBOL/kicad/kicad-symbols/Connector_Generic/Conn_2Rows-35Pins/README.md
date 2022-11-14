@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKCNGENERICCONN2ROWS35PINS > Connector_Generic : Conn_2Rows-35Pins](#szkcngenericconn2rows35pins--connector_generic--conn_2rows-35pins)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Connector_Generic : Conn_2Rows-35Pins
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_2Rows-35Pins](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_2Rows-35Pins)
 - Short Link: [http://oom.lt/SZKCNGENERICCONN2ROWS35PINS](http://oom.lt/SZKCNGENERICCONN2ROWS35PINS)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_2Rows-35Pins/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_2Rows-35Pins/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_2Rows-35Pins/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_2Rows-35Pins/image.png)|||

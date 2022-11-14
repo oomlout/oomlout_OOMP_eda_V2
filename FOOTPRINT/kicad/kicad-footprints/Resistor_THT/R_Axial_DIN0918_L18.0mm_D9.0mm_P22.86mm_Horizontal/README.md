@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKRRAXIALDIN918L18D9P2286HORIZONTAL > Resistor_THT : R_Axial_DIN0918_L18.0mm_D9.0mm_P22.86mm_Horizontal](#fzkrraxialdin918l18d9p2286horizontal--resistor_tht--r_axial_din0918_l180mm_d90mm_p2286mm_horizontal)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Resistor_THT : R_Axial_DIN0918_L18.0mm_D9.0mm_P22.86mm_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Resistor_THT-R_Axial_DIN0918_L18.0mm_D9.0mm_P22.86mm_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Resistor_THT-R_Axial_DIN0918_L18.0mm_D9.0mm_P22.86mm_Horizontal)
 - Short Link: [http://oom.lt/FZKRRAXIALDIN918L18D9P2286HORIZONTAL](http://oom.lt/FZKRRAXIALDIN918L18D9P2286HORIZONTAL)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Resistor_THT/R_Axial_DIN0918_L18.0mm_D9.0mm_P22.86mm_Horizontal/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Resistor_THT/R_Axial_DIN0918_L18.0mm_D9.0mm_P22.86mm_Horizontal/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Resistor_THT/R_Axial_DIN0918_L18.0mm_D9.0mm_P22.86mm_Horizontal/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Resistor_THT/R_Axial_DIN0918_L18.0mm_D9.0mm_P22.86mm_Horizontal/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Resistor_THT/R_Axial_DIN0918_L18.0mm_D9.0mm_P22.86mm_Horizontal/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Resistor_THT/R_Axial_DIN0918_L18.0mm_D9.0mm_P22.86mm_Horizontal/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Resistor_THT/R_Axial_DIN0918_L18.0mm_D9.0mm_P22.86mm_Horizontal/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Resistor_THT/R_Axial_DIN0918_L18.0mm_D9.0mm_P22.86mm_Horizontal/kicadPcb3dBack.png)|

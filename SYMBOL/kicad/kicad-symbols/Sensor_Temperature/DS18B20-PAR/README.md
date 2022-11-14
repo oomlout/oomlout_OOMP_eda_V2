@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKSENTEMPERATUREDS18B2PAR > Sensor_Temperature : DS18B20-PAR](#szksentemperatureds18b2par--sensor_temperature--ds18b20-par)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Sensor_Temperature : DS18B20-PAR
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Temperature-DS18B20-PAR](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Temperature-DS18B20-PAR)
 - Short Link: [http://oom.lt/SZKSENTEMPERATUREDS18B2PAR](http://oom.lt/SZKSENTEMPERATUREDS18B2PAR)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Temperature/DS18B20-PAR/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Temperature/DS18B20-PAR/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Temperature/DS18B20-PAR/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Temperature/DS18B20-PAR/image.png)|||

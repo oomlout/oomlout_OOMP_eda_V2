@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDIODEBYV7915 > Diode : BYV79-150](#szkdiodebyv7915--diode--byv79-150)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Diode : BYV79-150
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-BYV79-150](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-BYV79-150)
 - Short Link: [http://oom.lt/SZKDIODEBYV7915](http://oom.lt/SZKDIODEBYV7915)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Diode/BYV79-150/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Diode/BYV79-150/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Diode/BYV79-150/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Diode/BYV79-150/image.png)|||

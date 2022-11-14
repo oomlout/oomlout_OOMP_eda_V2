@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDEVICETHERMISTORPTC3WIRE > Device : Thermistor_PTC_3Wire](#szkdevicethermistorptc3wire--device--thermistor_ptc_3wire)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Device : Thermistor_PTC_3Wire
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Thermistor_PTC_3Wire](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Thermistor_PTC_3Wire)
 - Short Link: [http://oom.lt/SZKDEVICETHERMISTORPTC3WIRE](http://oom.lt/SZKDEVICETHERMISTORPTC3WIRE)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/Thermistor_PTC_3Wire/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/Thermistor_PTC_3Wire/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/Thermistor_PTC_3Wire/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/Thermistor_PTC_3Wire/image.png)|||

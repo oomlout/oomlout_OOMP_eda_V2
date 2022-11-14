@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKMEMORYRAMESPPSRAM32 > Memory_RAM : ESP-PSRAM32](#szkmemoryramesppsram32--memory_ram--esp-psram32)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Memory_RAM : ESP-PSRAM32
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_RAM-ESP-PSRAM32](http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_RAM-ESP-PSRAM32)
 - Short Link: [http://oom.lt/SZKMEMORYRAMESPPSRAM32](http://oom.lt/SZKMEMORYRAMESPPSRAM32)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Memory_RAM/ESP-PSRAM32/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Memory_RAM/ESP-PSRAM32/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Memory_RAM/ESP-PSRAM32/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Memory_RAM/ESP-PSRAM32/image.png)|||

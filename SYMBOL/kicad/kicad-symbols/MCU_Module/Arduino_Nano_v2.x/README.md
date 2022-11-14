@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKMCUMOARDNANOV2X > MCU_Module : Arduino_Nano_v2.x](#szkmcumoardnanov2x--mcu_module--arduino_nano_v2x)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: MCU_Module : Arduino_Nano_v2.x
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Module-Arduino_Nano_v2.x](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Module-Arduino_Nano_v2.x)
 - Short Link: [http://oom.lt/SZKMCUMOARDNANOV2X](http://oom.lt/SZKMCUMOARDNANOV2X)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Module/Arduino_Nano_v2.x/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Module/Arduino_Nano_v2.x/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Module/Arduino_Nano_v2.x/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Module/Arduino_Nano_v2.x/image.png)|||

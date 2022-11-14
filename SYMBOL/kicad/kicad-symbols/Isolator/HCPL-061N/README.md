@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKISOLATORHCPL61N > Isolator : HCPL-061N](#szkisolatorhcpl61n--isolator--hcpl-061n)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Isolator : HCPL-061N
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-HCPL-061N](http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-HCPL-061N)
 - Short Link: [http://oom.lt/SZKISOLATORHCPL61N](http://oom.lt/SZKISOLATORHCPL61N)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Isolator/HCPL-061N/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Isolator/HCPL-061N/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Isolator/HCPL-061N/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Isolator/HCPL-061N/image.png)|||

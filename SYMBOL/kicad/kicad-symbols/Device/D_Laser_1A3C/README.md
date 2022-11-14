@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDEVICEDLASER1A3C > Device : D_Laser_1A3C](#szkdevicedlaser1a3c--device--d_laser_1a3c)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Device : D_Laser_1A3C
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-D_Laser_1A3C](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-D_Laser_1A3C)
 - Short Link: [http://oom.lt/SZKDEVICEDLASER1A3C](http://oom.lt/SZKDEVICEDLASER1A3C)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/D_Laser_1A3C/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/D_Laser_1A3C/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/D_Laser_1A3C/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/D_Laser_1A3C/image.png)|||

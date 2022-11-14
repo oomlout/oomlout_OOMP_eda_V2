@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKMEMORYNVRAMMR2H4 > Memory_NVRAM : MR20H40](#szkmemorynvrammr2h4--memory_nvram--mr20h40)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Memory_NVRAM : MR20H40
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_NVRAM-MR20H40](http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_NVRAM-MR20H40)
 - Short Link: [http://oom.lt/SZKMEMORYNVRAMMR2H4](http://oom.lt/SZKMEMORYNVRAMMR2H4)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Memory_NVRAM/MR20H40/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Memory_NVRAM/MR20H40/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Memory_NVRAM/MR20H40/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Memory_NVRAM/MR20H40/image.png)|||

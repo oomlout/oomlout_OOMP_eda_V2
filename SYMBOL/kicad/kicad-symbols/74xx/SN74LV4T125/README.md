@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZK74XXSN74LV4T125 > 74xx : SN74LV4T125](#szk74xxsn74lv4t125--74xx--sn74lv4t125)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: 74xx : SN74LV4T125
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-74xx-SN74LV4T125](http://oom.lt/SYMBOL-kicad-kicad-symbols-74xx-SN74LV4T125)
 - Short Link: [http://oom.lt/SZK74XXSN74LV4T125](http://oom.lt/SZK74XXSN74LV4T125)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/74xx/SN74LV4T125/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/74xx/SN74LV4T125/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/74xx/SN74LV4T125/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/74xx/SN74LV4T125/image.png)|||

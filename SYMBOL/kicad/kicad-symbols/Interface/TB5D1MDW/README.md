@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKINTERFACETB5D1MDW > Interface : TB5D1MDW](#szkinterfacetb5d1mdw--interface--tb5d1mdw)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Interface : TB5D1MDW
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-TB5D1MDW](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-TB5D1MDW)
 - Short Link: [http://oom.lt/SZKINTERFACETB5D1MDW](http://oom.lt/SZKINTERFACETB5D1MDW)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface/TB5D1MDW/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface/TB5D1MDW/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface/TB5D1MDW/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface/TB5D1MDW/image.png)|||

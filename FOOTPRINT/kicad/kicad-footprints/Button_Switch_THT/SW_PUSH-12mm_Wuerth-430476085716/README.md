@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKBSWPUSH12WUERTH4347685716 > Button_Switch_THT : SW_PUSH-12mm_Wuerth-430476085716](#fzkbswpush12wuerth4347685716--button_switch_tht--sw_push-12mm_wuerth-430476085716)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Button_Switch_THT : SW_PUSH-12mm_Wuerth-430476085716
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Button_Switch_THT-SW_PUSH-12mm_Wuerth-430476085716](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Button_Switch_THT-SW_PUSH-12mm_Wuerth-430476085716)
 - Short Link: [http://oom.lt/FZKBSWPUSH12WUERTH4347685716](http://oom.lt/FZKBSWPUSH12WUERTH4347685716)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/SW_PUSH-12mm_Wuerth-430476085716/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/SW_PUSH-12mm_Wuerth-430476085716/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/SW_PUSH-12mm_Wuerth-430476085716/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/SW_PUSH-12mm_Wuerth-430476085716/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/SW_PUSH-12mm_Wuerth-430476085716/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/SW_PUSH-12mm_Wuerth-430476085716/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/SW_PUSH-12mm_Wuerth-430476085716/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/SW_PUSH-12mm_Wuerth-430476085716/kicadPcb3dBack.png)|

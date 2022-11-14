@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKCNMXMXPICOSPOX8743714431X14P15VERTICAL > Connector_Molex : Molex_Pico-SPOX_87437-1443_1x14-P1.5mm_Vertical](#fzkcnmxmxpicospox8743714431x14p15vertical--connector_molex--molex_pico-spox_87437-1443_1x14-p15mm_vertical)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Connector_Molex : Molex_Pico-SPOX_87437-1443_1x14-P1.5mm_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_Pico-SPOX_87437-1443_1x14-P1.5mm_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_Pico-SPOX_87437-1443_1x14-P1.5mm_Vertical)
 - Short Link: [http://oom.lt/FZKCNMXMXPICOSPOX8743714431X14P15VERTICAL](http://oom.lt/FZKCNMXMXPICOSPOX8743714431X14P15VERTICAL)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_Pico-SPOX_87437-1443_1x14-P1.5mm_Vertical/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_Pico-SPOX_87437-1443_1x14-P1.5mm_Vertical/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_Pico-SPOX_87437-1443_1x14-P1.5mm_Vertical/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_Pico-SPOX_87437-1443_1x14-P1.5mm_Vertical/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_Pico-SPOX_87437-1443_1x14-P1.5mm_Vertical/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_Pico-SPOX_87437-1443_1x14-P1.5mm_Vertical/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_Pico-SPOX_87437-1443_1x14-P1.5mm_Vertical/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_Pico-SPOX_87437-1443_1x14-P1.5mm_Vertical/kicadPcb3dBack.png)|

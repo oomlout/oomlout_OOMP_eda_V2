@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDEVICELCOUPLSLL1243 > Device : L_Coupled_Small_1243](#szkdevicelcouplsll1243--device--l_coupled_small_1243)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Device : L_Coupled_Small_1243
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-L_Coupled_Small_1243](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-L_Coupled_Small_1243)
 - Short Link: [http://oom.lt/SZKDEVICELCOUPLSLL1243](http://oom.lt/SZKDEVICELCOUPLSLL1243)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/L_Coupled_Small_1243/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/L_Coupled_Small_1243/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/L_Coupled_Small_1243/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/L_Coupled_Small_1243/image.png)|||

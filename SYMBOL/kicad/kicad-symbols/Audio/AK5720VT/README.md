@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKAUDIOAK572VT > Audio : AK5720VT](#szkaudioak572vt--audio--ak5720vt)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Audio : AK5720VT
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Audio-AK5720VT](http://oom.lt/SYMBOL-kicad-kicad-symbols-Audio-AK5720VT)
 - Short Link: [http://oom.lt/SZKAUDIOAK572VT](http://oom.lt/SZKAUDIOAK572VT)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Audio/AK5720VT/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Audio/AK5720VT/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Audio/AK5720VT/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Audio/AK5720VT/image.png)|||

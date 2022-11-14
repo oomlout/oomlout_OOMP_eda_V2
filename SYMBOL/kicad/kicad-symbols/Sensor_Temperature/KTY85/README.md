@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKSENTEMPERATUREKTY85 > Sensor_Temperature : KTY85](#szksentemperaturekty85--sensor_temperature--kty85)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Sensor_Temperature : KTY85
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Temperature-KTY85](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Temperature-KTY85)
 - Short Link: [http://oom.lt/SZKSENTEMPERATUREKTY85](http://oom.lt/SZKSENTEMPERATUREKTY85)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Temperature/KTY85/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Temperature/KTY85/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Temperature/KTY85/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Temperature/KTY85/image.png)|||

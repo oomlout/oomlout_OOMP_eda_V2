@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDICHARACTERDC5611EWA > Display_Character : DC56-11EWA](#szkdicharacterdc5611ewa--display_character--dc56-11ewa)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Display_Character : DC56-11EWA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-DC56-11EWA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-DC56-11EWA)
 - Short Link: [http://oom.lt/SZKDICHARACTERDC5611EWA](http://oom.lt/SZKDICHARACTERDC5611EWA)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Display_Character/DC56-11EWA/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Display_Character/DC56-11EWA/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Display_Character/DC56-11EWA/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Display_Character/DC56-11EWA/image.png)|||

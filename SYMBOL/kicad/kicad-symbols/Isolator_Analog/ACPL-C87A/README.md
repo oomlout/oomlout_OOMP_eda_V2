@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKISOLATORANALOGACPLC87A > Isolator_Analog : ACPL-C87A](#szkisolatoranalogacplc87a--isolator_analog--acpl-c87a)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Isolator_Analog : ACPL-C87A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator_Analog-ACPL-C87A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator_Analog-ACPL-C87A)
 - Short Link: [http://oom.lt/SZKISOLATORANALOGACPLC87A](http://oom.lt/SZKISOLATORANALOGACPLC87A)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Isolator_Analog/ACPL-C87A/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Isolator_Analog/ACPL-C87A/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Isolator_Analog/ACPL-C87A/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Isolator_Analog/ACPL-C87A/image.png)|||

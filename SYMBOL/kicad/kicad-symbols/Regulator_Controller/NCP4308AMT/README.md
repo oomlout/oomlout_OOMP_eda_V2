@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKREGULATORCONTROLLERNCP438AMT > Regulator_Controller : NCP4308AMT](#szkregulatorcontrollerncp438amt--regulator_controller--ncp4308amt)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Regulator_Controller : NCP4308AMT
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Controller-NCP4308AMT](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Controller-NCP4308AMT)
 - Short Link: [http://oom.lt/SZKREGULATORCONTROLLERNCP438AMT](http://oom.lt/SZKREGULATORCONTROLLERNCP438AMT)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Controller/NCP4308AMT/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Controller/NCP4308AMT/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Controller/NCP4308AMT/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Controller/NCP4308AMT/image.png)|||

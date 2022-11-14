@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDIODEDZ2S56XL > Diode : DZ2S056X0L](#szkdiodedz2s56xl--diode--dz2s056x0l)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Diode : DZ2S056X0L
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-DZ2S056X0L](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-DZ2S056X0L)
 - Short Link: [http://oom.lt/SZKDIODEDZ2S56XL](http://oom.lt/SZKDIODEDZ2S56XL)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Diode/DZ2S056X0L/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Diode/DZ2S056X0L/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Diode/DZ2S056X0L/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Diode/DZ2S056X0L/image.png)|||

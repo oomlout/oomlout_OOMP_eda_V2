@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKAUDIOCS8416XNZ > Audio : CS8416-xNZ](#szkaudiocs8416xnz--audio--cs8416-xnz)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Audio : CS8416-xNZ
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Audio-CS8416-xNZ](http://oom.lt/SYMBOL-kicad-kicad-symbols-Audio-CS8416-xNZ)
 - Short Link: [http://oom.lt/SZKAUDIOCS8416XNZ](http://oom.lt/SZKAUDIOCS8416XNZ)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Audio/CS8416-xNZ/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Audio/CS8416-xNZ/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Audio/CS8416-xNZ/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Audio/CS8416-xNZ/image.png)|||

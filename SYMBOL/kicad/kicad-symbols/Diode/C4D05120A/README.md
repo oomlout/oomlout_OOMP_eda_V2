@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDIODEC4D512A > Diode : C4D05120A](#szkdiodec4d512a--diode--c4d05120a)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Diode : C4D05120A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-C4D05120A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-C4D05120A)
 - Short Link: [http://oom.lt/SZKDIODEC4D512A](http://oom.lt/SZKDIODEC4D512A)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Diode/C4D05120A/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Diode/C4D05120A/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Diode/C4D05120A/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Diode/C4D05120A/image.png)|||

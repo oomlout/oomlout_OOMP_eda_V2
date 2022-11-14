@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKREGULATORSWITCHINGLMR3364DDDA > Regulator_Switching : LMR33640DDDA](#szkregulatorswitchinglmr3364ddda--regulator_switching--lmr33640ddda)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Regulator_Switching : LMR33640DDDA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LMR33640DDDA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LMR33640DDDA)
 - Short Link: [http://oom.lt/SZKREGULATORSWITCHINGLMR3364DDDA](http://oom.lt/SZKREGULATORSWITCHINGLMR3364DDDA)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/LMR33640DDDA/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/LMR33640DDDA/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/LMR33640DDDA/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/LMR33640DDDA/image.png)|||

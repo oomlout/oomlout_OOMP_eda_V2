@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDEVICERNETWORK6US > Device : R_Network06_US](#szkdevicernetwork6us--device--r_network06_us)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Device : R_Network06_US
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-R_Network06_US](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-R_Network06_US)
 - Short Link: [http://oom.lt/SZKDEVICERNETWORK6US](http://oom.lt/SZKDEVICERNETWORK6US)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/R_Network06_US/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/R_Network06_US/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/R_Network06_US/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/R_Network06_US/image.png)|||

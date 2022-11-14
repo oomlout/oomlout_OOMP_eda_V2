@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKMCUNORDICNRF5284 > MCU_Nordic : nRF52840](#szkmcunordicnrf5284--mcu_nordic--nrf52840)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: MCU_Nordic : nRF52840
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Nordic-nRF52840](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Nordic-nRF52840)
 - Short Link: [http://oom.lt/SZKMCUNORDICNRF5284](http://oom.lt/SZKMCUNORDICNRF5284)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Nordic/nRF52840/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Nordic/nRF52840/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Nordic/nRF52840/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Nordic/nRF52840/image.png)|||

@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKTRANSISTORBJTBD138 > Transistor_BJT : BD138](#szktransistorbjtbd138--transistor_bjt--bd138)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Transistor_BJT : BD138
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-BD138](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-BD138)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJTBD138](http://oom.lt/SZKTRANSISTORBJTBD138)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_BJT/BD138/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_BJT/BD138/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_BJT/BD138/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_BJT/BD138/image.png)|||

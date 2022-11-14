@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKCNJDC > Connector : Jack-DC](#szkcnjdc--connector--jack-dc)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Connector : Jack-DC
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-Jack-DC](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-Jack-DC)
 - Short Link: [http://oom.lt/SZKCNJDC](http://oom.lt/SZKCNJDC)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/Jack-DC/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Jack-DC/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/Jack-DC/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Jack-DC/image.png)|||

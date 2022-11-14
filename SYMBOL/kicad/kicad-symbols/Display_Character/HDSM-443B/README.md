@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDICHARACTERHDSM443B > Display_Character : HDSM-443B](#szkdicharacterhdsm443b--display_character--hdsm-443b)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Display_Character : HDSM-443B
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-HDSM-443B](http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-HDSM-443B)
 - Short Link: [http://oom.lt/SZKDICHARACTERHDSM443B](http://oom.lt/SZKDICHARACTERHDSM443B)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Display_Character/HDSM-443B/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Display_Character/HDSM-443B/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Display_Character/HDSM-443B/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Display_Character/HDSM-443B/image.png)|||

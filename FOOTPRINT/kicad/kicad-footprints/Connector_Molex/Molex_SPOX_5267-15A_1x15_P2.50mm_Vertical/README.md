@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKCNMXMXSPOX526715A1X15P25VERTICAL > Connector_Molex : Molex_SPOX_5267-15A_1x15_P2.50mm_Vertical](#fzkcnmxmxspox526715a1x15p25vertical--connector_molex--molex_spox_5267-15a_1x15_p250mm_vertical)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Connector_Molex : Molex_SPOX_5267-15A_1x15_P2.50mm_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_SPOX_5267-15A_1x15_P2.50mm_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_SPOX_5267-15A_1x15_P2.50mm_Vertical)
 - Short Link: [http://oom.lt/FZKCNMXMXSPOX526715A1X15P25VERTICAL](http://oom.lt/FZKCNMXMXSPOX526715A1X15P25VERTICAL)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_SPOX_5267-15A_1x15_P2.50mm_Vertical/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_SPOX_5267-15A_1x15_P2.50mm_Vertical/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_SPOX_5267-15A_1x15_P2.50mm_Vertical/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_SPOX_5267-15A_1x15_P2.50mm_Vertical/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_SPOX_5267-15A_1x15_P2.50mm_Vertical/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_SPOX_5267-15A_1x15_P2.50mm_Vertical/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_SPOX_5267-15A_1x15_P2.50mm_Vertical/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_SPOX_5267-15A_1x15_P2.50mm_Vertical/kicadPcb3dBack.png)|

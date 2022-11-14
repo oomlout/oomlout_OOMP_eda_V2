@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKCNMXMXSABRE43161141X4P749HORIZONTALTHERMALVIAS > Connector_Molex : Molex_Sabre_43160-1104_1x04_P7.49mm_Horizontal_ThermalVias](#fzkcnmxmxsabre43161141x4p749horizontalthermalvias--connector_molex--molex_sabre_43160-1104_1x04_p749mm_horizontal_thermalvias)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Connector_Molex : Molex_Sabre_43160-1104_1x04_P7.49mm_Horizontal_ThermalVias
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_Sabre_43160-1104_1x04_P7.49mm_Horizontal_ThermalVias](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_Sabre_43160-1104_1x04_P7.49mm_Horizontal_ThermalVias)
 - Short Link: [http://oom.lt/FZKCNMXMXSABRE43161141X4P749HORIZONTALTHERMALVIAS](http://oom.lt/FZKCNMXMXSABRE43161141X4P749HORIZONTALTHERMALVIAS)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_Sabre_43160-1104_1x04_P7.49mm_Horizontal_ThermalVias/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_Sabre_43160-1104_1x04_P7.49mm_Horizontal_ThermalVias/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_Sabre_43160-1104_1x04_P7.49mm_Horizontal_ThermalVias/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_Sabre_43160-1104_1x04_P7.49mm_Horizontal_ThermalVias/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_Sabre_43160-1104_1x04_P7.49mm_Horizontal_ThermalVias/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_Sabre_43160-1104_1x04_P7.49mm_Horizontal_ThermalVias/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_Sabre_43160-1104_1x04_P7.49mm_Horizontal_ThermalVias/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_Sabre_43160-1104_1x04_P7.49mm_Horizontal_ThermalVias/kicadPcb3dBack.png)|

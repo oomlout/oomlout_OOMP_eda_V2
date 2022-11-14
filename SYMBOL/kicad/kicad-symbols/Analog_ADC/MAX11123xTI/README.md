@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKANALOGADCMAX11123XTI > Analog_ADC : MAX11123xTI](#szkanalogadcmax11123xti--analog_adc--max11123xti)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Analog_ADC : MAX11123xTI
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-MAX11123xTI](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-MAX11123xTI)
 - Short Link: [http://oom.lt/SZKANALOGADCMAX11123XTI](http://oom.lt/SZKANALOGADCMAX11123XTI)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Analog_ADC/MAX11123xTI/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Analog_ADC/MAX11123xTI/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Analog_ADC/MAX11123xTI/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Analog_ADC/MAX11123xTI/image.png)|||

@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKFPGAXILINXKINTEX7XC7K41TFBG676 > FPGA_Xilinx_Kintex7 : XC7K410T-FBG676](#szkfpgaxilinxkintex7xc7k41tfbg676--fpga_xilinx_kintex7--xc7k410t-fbg676)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: FPGA_Xilinx_Kintex7 : XC7K410T-FBG676
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-FPGA_Xilinx_Kintex7-XC7K410T-FBG676](http://oom.lt/SYMBOL-kicad-kicad-symbols-FPGA_Xilinx_Kintex7-XC7K410T-FBG676)
 - Short Link: [http://oom.lt/SZKFPGAXILINXKINTEX7XC7K41TFBG676](http://oom.lt/SZKFPGAXILINXKINTEX7XC7K41TFBG676)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/FPGA_Xilinx_Kintex7/XC7K410T-FBG676/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/FPGA_Xilinx_Kintex7/XC7K410T-FBG676/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/FPGA_Xilinx_Kintex7/XC7K410T-FBG676/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/FPGA_Xilinx_Kintex7/XC7K410T-FBG676/image.png)|||

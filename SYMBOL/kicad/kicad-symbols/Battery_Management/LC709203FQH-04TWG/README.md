@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKBATMANAGEMENTLC7923FQH4TWG > Battery_Management : LC709203FQH-04TWG](#szkbatmanagementlc7923fqh4twg--battery_management--lc709203fqh-04twg)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Battery_Management : LC709203FQH-04TWG
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Battery_Management-LC709203FQH-04TWG](http://oom.lt/SYMBOL-kicad-kicad-symbols-Battery_Management-LC709203FQH-04TWG)
 - Short Link: [http://oom.lt/SZKBATMANAGEMENTLC7923FQH4TWG](http://oom.lt/SZKBATMANAGEMENTLC7923FQH4TWG)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Battery_Management/LC709203FQH-04TWG/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Battery_Management/LC709203FQH-04TWG/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Battery_Management/LC709203FQH-04TWG/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Battery_Management/LC709203FQH-04TWG/image.png)|||

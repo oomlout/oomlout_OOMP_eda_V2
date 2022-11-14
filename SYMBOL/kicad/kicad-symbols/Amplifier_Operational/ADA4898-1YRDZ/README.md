@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKAMPLIFIEROPERATIONALADA48981YRDZ > Amplifier_Operational : ADA4898-1YRDZ](#szkamplifieroperationalada48981yrdz--amplifier_operational--ada4898-1yrdz)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Amplifier_Operational : ADA4898-1YRDZ
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-ADA4898-1YRDZ](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-ADA4898-1YRDZ)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALADA48981YRDZ](http://oom.lt/SZKAMPLIFIEROPERATIONALADA48981YRDZ)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/ADA4898-1YRDZ/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/ADA4898-1YRDZ/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/ADA4898-1YRDZ/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/ADA4898-1YRDZ/image.png)|||

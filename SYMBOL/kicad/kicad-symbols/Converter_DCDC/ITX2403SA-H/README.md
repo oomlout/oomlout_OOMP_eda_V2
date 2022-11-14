@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKCONITX243SAH > Converter_DCDC : ITX2403SA-H](#szkconitx243sah--converter_dcdc--itx2403sa-h)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Converter_DCDC : ITX2403SA-H
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-ITX2403SA-H](http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-ITX2403SA-H)
 - Short Link: [http://oom.lt/SZKCONITX243SAH](http://oom.lt/SZKCONITX243SAH)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Converter_DCDC/ITX2403SA-H/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Converter_DCDC/ITX2403SA-H/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Converter_DCDC/ITX2403SA-H/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Converter_DCDC/ITX2403SA-H/image.png)|||

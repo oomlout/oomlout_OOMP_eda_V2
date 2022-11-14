@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKTBPHOENIXTBPHOENIXMKDS36581X6P58HORIZONTAL > TerminalBlock_Phoenix : TerminalBlock_Phoenix_MKDS-3-6-5.08_1x06_P5.08mm_Horizontal](#fzktbphoenixtbphoenixmkds36581x6p58horizontal--terminalblock_phoenix--terminalblock_phoenix_mkds-3-6-508_1x06_p508mm_horizontal)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: TerminalBlock_Phoenix : TerminalBlock_Phoenix_MKDS-3-6-5.08_1x06_P5.08mm_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-TerminalBlock_Phoenix-TerminalBlock_Phoenix_MKDS-3-6-5.08_1x06_P5.08mm_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-TerminalBlock_Phoenix-TerminalBlock_Phoenix_MKDS-3-6-5.08_1x06_P5.08mm_Horizontal)
 - Short Link: [http://oom.lt/FZKTBPHOENIXTBPHOENIXMKDS36581X6P58HORIZONTAL](http://oom.lt/FZKTBPHOENIXTBPHOENIXMKDS36581X6P58HORIZONTAL)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/TerminalBlock_Phoenix/TerminalBlock_Phoenix_MKDS-3-6-5.08_1x06_P5.08mm_Horizontal/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/TerminalBlock_Phoenix/TerminalBlock_Phoenix_MKDS-3-6-5.08_1x06_P5.08mm_Horizontal/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/TerminalBlock_Phoenix/TerminalBlock_Phoenix_MKDS-3-6-5.08_1x06_P5.08mm_Horizontal/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/TerminalBlock_Phoenix/TerminalBlock_Phoenix_MKDS-3-6-5.08_1x06_P5.08mm_Horizontal/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/TerminalBlock_Phoenix/TerminalBlock_Phoenix_MKDS-3-6-5.08_1x06_P5.08mm_Horizontal/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/TerminalBlock_Phoenix/TerminalBlock_Phoenix_MKDS-3-6-5.08_1x06_P5.08mm_Horizontal/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/TerminalBlock_Phoenix/TerminalBlock_Phoenix_MKDS-3-6-5.08_1x06_P5.08mm_Horizontal/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/TerminalBlock_Phoenix/TerminalBlock_Phoenix_MKDS-3-6-5.08_1x06_P5.08mm_Horizontal/kicadPcb3dBack.png)|

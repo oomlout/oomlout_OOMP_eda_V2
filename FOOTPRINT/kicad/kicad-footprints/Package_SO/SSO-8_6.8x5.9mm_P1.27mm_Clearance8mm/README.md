@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKSOSSO868X59P127CLEARANCE8 > Package_SO : SSO-8_6.8x5.9mm_P1.27mm_Clearance8mm](#fzksosso868x59p127clearance8--package_so--sso-8_68x59mm_p127mm_clearance8mm)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Package_SO : SSO-8_6.8x5.9mm_P1.27mm_Clearance8mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SO-SSO-8_6.8x5.9mm_P1.27mm_Clearance8mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SO-SSO-8_6.8x5.9mm_P1.27mm_Clearance8mm)
 - Short Link: [http://oom.lt/FZKSOSSO868X59P127CLEARANCE8](http://oom.lt/FZKSOSSO868X59P127CLEARANCE8)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/SSO-8_6.8x5.9mm_P1.27mm_Clearance8mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/SSO-8_6.8x5.9mm_P1.27mm_Clearance8mm/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/SSO-8_6.8x5.9mm_P1.27mm_Clearance8mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/SSO-8_6.8x5.9mm_P1.27mm_Clearance8mm/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/SSO-8_6.8x5.9mm_P1.27mm_Clearance8mm/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/SSO-8_6.8x5.9mm_P1.27mm_Clearance8mm/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/SSO-8_6.8x5.9mm_P1.27mm_Clearance8mm/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/SSO-8_6.8x5.9mm_P1.27mm_Clearance8mm/kicadPcb3dBack.png)|

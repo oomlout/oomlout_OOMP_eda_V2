@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKAMPLIFIEROPERATIONALAD81AR > Amplifier_Operational : AD8001AR](#szkamplifieroperationalad81ar--amplifier_operational--ad8001ar)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Amplifier_Operational : AD8001AR
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-AD8001AR](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-AD8001AR)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALAD81AR](http://oom.lt/SZKAMPLIFIEROPERATIONALAD81AR)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/AD8001AR/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/AD8001AR/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/AD8001AR/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/AD8001AR/image.png)|||

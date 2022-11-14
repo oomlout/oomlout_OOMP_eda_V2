@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKINTERFACECANLINMCP2533EP > Interface_CAN_LIN : MCP2050-330-EP](#szkinterfacecanlinmcp2533ep--interface_can_lin--mcp2050-330-ep)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Interface_CAN_LIN : MCP2050-330-EP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_CAN_LIN-MCP2050-330-EP](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_CAN_LIN-MCP2050-330-EP)
 - Short Link: [http://oom.lt/SZKINTERFACECANLINMCP2533EP](http://oom.lt/SZKINTERFACECANLINMCP2533EP)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface_CAN_LIN/MCP2050-330-EP/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface_CAN_LIN/MCP2050-330-EP/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface_CAN_LIN/MCP2050-330-EP/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface_CAN_LIN/MCP2050-330-EP/image.png)|||

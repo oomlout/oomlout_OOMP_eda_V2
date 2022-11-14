@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKTRANSISTORFETDMN67D8L > Transistor_FET : DMN67D8L](#szktransistorfetdmn67d8l--transistor_fet--dmn67d8l)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Transistor_FET : DMN67D8L
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-DMN67D8L](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-DMN67D8L)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETDMN67D8L](http://oom.lt/SZKTRANSISTORFETDMN67D8L)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/DMN67D8L/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/DMN67D8L/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/DMN67D8L/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/DMN67D8L/image.png)|||

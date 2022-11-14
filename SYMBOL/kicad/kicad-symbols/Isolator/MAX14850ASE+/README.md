@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKISOLATORMAX1485ASE+ > Isolator : MAX14850ASE+](#szkisolatormax1485ase--isolator--max14850ase)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Isolator : MAX14850ASE+
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-MAX14850ASE+](http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-MAX14850ASE+)
 - Short Link: [http://oom.lt/SZKISOLATORMAX1485ASE+](http://oom.lt/SZKISOLATORMAX1485ASE+)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Isolator/MAX14850ASE+/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Isolator/MAX14850ASE+/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Isolator/MAX14850ASE+/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Isolator/MAX14850ASE+/image.png)|||

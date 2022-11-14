@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKCNGENERICCONN2X6TOPBOTTOM > Connector_Generic : Conn_02x06_Top_Bottom](#szkcngenericconn2x6topbottom--connector_generic--conn_02x06_top_bottom)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Connector_Generic : Conn_02x06_Top_Bottom
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x06_Top_Bottom](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x06_Top_Bottom)
 - Short Link: [http://oom.lt/SZKCNGENERICCONN2X6TOPBOTTOM](http://oom.lt/SZKCNGENERICCONN2X6TOPBOTTOM)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_02x06_Top_Bottom/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_02x06_Top_Bottom/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_02x06_Top_Bottom/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_02x06_Top_Bottom/image.png)|||

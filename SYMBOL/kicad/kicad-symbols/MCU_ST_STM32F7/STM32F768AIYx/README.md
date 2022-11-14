@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKMCUSTSTM32F7STM32F768AIYX > MCU_ST_STM32F7 : STM32F768AIYx](#szkmcuststm32f7stm32f768aiyx--mcu_st_stm32f7--stm32f768aiyx)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: MCU_ST_STM32F7 : STM32F768AIYx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F7-STM32F768AIYx](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F7-STM32F768AIYx)
 - Short Link: [http://oom.lt/SZKMCUSTSTM32F7STM32F768AIYX](http://oom.lt/SZKMCUSTSTM32F7STM32F768AIYX)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32F7/STM32F768AIYx/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32F7/STM32F768AIYx/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32F7/STM32F768AIYx/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32F7/STM32F768AIYx/image.png)|||

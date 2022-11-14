@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKAMPLIFIEROPERATIONALLTC682XDHC > Amplifier_Operational : LTC6082xDHC](#szkamplifieroperationalltc682xdhc--amplifier_operational--ltc6082xdhc)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Amplifier_Operational : LTC6082xDHC
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LTC6082xDHC](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LTC6082xDHC)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALLTC682XDHC](http://oom.lt/SZKAMPLIFIEROPERATIONALLTC682XDHC)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/LTC6082xDHC/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/LTC6082xDHC/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/LTC6082xDHC/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/LTC6082xDHC/image.png)|||

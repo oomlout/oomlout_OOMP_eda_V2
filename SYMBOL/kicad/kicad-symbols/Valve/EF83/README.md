@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKVAEF83 > Valve : EF83](#szkvaef83--valve--ef83)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Valve : EF83
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Valve-EF83](http://oom.lt/SYMBOL-kicad-kicad-symbols-Valve-EF83)
 - Short Link: [http://oom.lt/SZKVAEF83](http://oom.lt/SZKVAEF83)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Valve/EF83/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Valve/EF83/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Valve/EF83/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Valve/EF83/image.png)|||

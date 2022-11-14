@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKLGASTHLGA125X25P6LAYOUTBORDER3X2Y > Package_LGA : ST_HLGA-10_2.5x2.5mm_P0.6mm_LayoutBorder3x2y](#fzklgasthlga125x25p6layoutborder3x2y--package_lga--st_hlga-10_25x25mm_p06mm_layoutborder3x2y)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Package_LGA : ST_HLGA-10_2.5x2.5mm_P0.6mm_LayoutBorder3x2y
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_LGA-ST_HLGA-10_2.5x2.5mm_P0.6mm_LayoutBorder3x2y](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_LGA-ST_HLGA-10_2.5x2.5mm_P0.6mm_LayoutBorder3x2y)
 - Short Link: [http://oom.lt/FZKLGASTHLGA125X25P6LAYOUTBORDER3X2Y](http://oom.lt/FZKLGASTHLGA125X25P6LAYOUTBORDER3X2Y)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_LGA/ST_HLGA-10_2.5x2.5mm_P0.6mm_LayoutBorder3x2y/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_LGA/ST_HLGA-10_2.5x2.5mm_P0.6mm_LayoutBorder3x2y/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_LGA/ST_HLGA-10_2.5x2.5mm_P0.6mm_LayoutBorder3x2y/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_LGA/ST_HLGA-10_2.5x2.5mm_P0.6mm_LayoutBorder3x2y/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_LGA/ST_HLGA-10_2.5x2.5mm_P0.6mm_LayoutBorder3x2y/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_LGA/ST_HLGA-10_2.5x2.5mm_P0.6mm_LayoutBorder3x2y/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_LGA/ST_HLGA-10_2.5x2.5mm_P0.6mm_LayoutBorder3x2y/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_LGA/ST_HLGA-10_2.5x2.5mm_P0.6mm_LayoutBorder3x2y/kicadPcb3dBack.png)|

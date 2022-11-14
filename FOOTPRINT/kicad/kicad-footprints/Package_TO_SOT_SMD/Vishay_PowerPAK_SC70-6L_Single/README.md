@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKPACKAGETOSOTSMVISHAYPOWERPAKSC76LSINGLE > Package_TO_SOT_SMD : Vishay_PowerPAK_SC70-6L_Single](#fzkpackagetosotsmvishaypowerpaksc76lsingle--package_to_sot_smd--vishay_powerpak_sc70-6l_single)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Package_TO_SOT_SMD : Vishay_PowerPAK_SC70-6L_Single
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-Vishay_PowerPAK_SC70-6L_Single](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-Vishay_PowerPAK_SC70-6L_Single)
 - Short Link: [http://oom.lt/FZKPACKAGETOSOTSMVISHAYPOWERPAKSC76LSINGLE](http://oom.lt/FZKPACKAGETOSOTSMVISHAYPOWERPAKSC76LSINGLE)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/Vishay_PowerPAK_SC70-6L_Single/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/Vishay_PowerPAK_SC70-6L_Single/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/Vishay_PowerPAK_SC70-6L_Single/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/Vishay_PowerPAK_SC70-6L_Single/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/Vishay_PowerPAK_SC70-6L_Single/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/Vishay_PowerPAK_SC70-6L_Single/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/Vishay_PowerPAK_SC70-6L_Single/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/Vishay_PowerPAK_SC70-6L_Single/kicadPcb3dBack.png)|

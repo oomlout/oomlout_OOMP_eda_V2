@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKTRANSISTORFETC3M7512J > Transistor_FET : C3M0075120J](#szktransistorfetc3m7512j--transistor_fet--c3m0075120j)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Transistor_FET : C3M0075120J
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-C3M0075120J](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-C3M0075120J)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETC3M7512J](http://oom.lt/SZKTRANSISTORFETC3M7512J)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/C3M0075120J/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/C3M0075120J/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/C3M0075120J/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/C3M0075120J/image.png)|||

@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKSENCURRENTDIODESSIP341X15P127 > Sensor_Current : Diodes_SIP-3_4.1x1.5mm_P1.27mm](#fzksencurrentdiodessip341x15p127--sensor_current--diodes_sip-3_41x15mm_p127mm)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Sensor_Current : Diodes_SIP-3_4.1x1.5mm_P1.27mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Sensor_Current-Diodes_SIP-3_4.1x1.5mm_P1.27mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Sensor_Current-Diodes_SIP-3_4.1x1.5mm_P1.27mm)
 - Short Link: [http://oom.lt/FZKSENCURRENTDIODESSIP341X15P127](http://oom.lt/FZKSENCURRENTDIODESSIP341X15P127)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Sensor_Current/Diodes_SIP-3_4.1x1.5mm_P1.27mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Sensor_Current/Diodes_SIP-3_4.1x1.5mm_P1.27mm/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Sensor_Current/Diodes_SIP-3_4.1x1.5mm_P1.27mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Sensor_Current/Diodes_SIP-3_4.1x1.5mm_P1.27mm/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Sensor_Current/Diodes_SIP-3_4.1x1.5mm_P1.27mm/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Sensor_Current/Diodes_SIP-3_4.1x1.5mm_P1.27mm/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Sensor_Current/Diodes_SIP-3_4.1x1.5mm_P1.27mm/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Sensor_Current/Diodes_SIP-3_4.1x1.5mm_P1.27mm/kicadPcb3dBack.png)|

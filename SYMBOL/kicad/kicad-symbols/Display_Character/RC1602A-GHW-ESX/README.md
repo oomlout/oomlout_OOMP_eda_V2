@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDICHARACTERRC162AGHWESX > Display_Character : RC1602A-GHW-ESX](#szkdicharacterrc162aghwesx--display_character--rc1602a-ghw-esx)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Display_Character : RC1602A-GHW-ESX
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-RC1602A-GHW-ESX](http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-RC1602A-GHW-ESX)
 - Short Link: [http://oom.lt/SZKDICHARACTERRC162AGHWESX](http://oom.lt/SZKDICHARACTERRC162AGHWESX)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Display_Character/RC1602A-GHW-ESX/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Display_Character/RC1602A-GHW-ESX/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Display_Character/RC1602A-GHW-ESX/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Display_Character/RC1602A-GHW-ESX/image.png)|||

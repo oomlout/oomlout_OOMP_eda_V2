@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKSENMAGNETICB15 > Sensor_Magnetic : BMM150](#szksenmagneticb15--sensor_magnetic--bmm150)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Sensor_Magnetic : BMM150
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Magnetic-BMM150](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Magnetic-BMM150)
 - Short Link: [http://oom.lt/SZKSENMAGNETICB15](http://oom.lt/SZKSENMAGNETICB15)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Magnetic/BMM150/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Magnetic/BMM150/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Magnetic/BMM150/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Magnetic/BMM150/image.png)|||

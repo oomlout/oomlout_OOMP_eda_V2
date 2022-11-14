@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKMCUNXPKINETISMKE2Z64VLC4 > MCU_NXP_Kinetis : MKE02Z64VLC4](#szkmcunxpkinetismke2z64vlc4--mcu_nxp_kinetis--mke02z64vlc4)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: MCU_NXP_Kinetis : MKE02Z64VLC4
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_NXP_Kinetis-MKE02Z64VLC4](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_NXP_Kinetis-MKE02Z64VLC4)
 - Short Link: [http://oom.lt/SZKMCUNXPKINETISMKE2Z64VLC4](http://oom.lt/SZKMCUNXPKINETISMKE2Z64VLC4)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_NXP_Kinetis/MKE02Z64VLC4/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_NXP_Kinetis/MKE02Z64VLC4/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_NXP_Kinetis/MKE02Z64VLC4/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_NXP_Kinetis/MKE02Z64VLC4/image.png)|||

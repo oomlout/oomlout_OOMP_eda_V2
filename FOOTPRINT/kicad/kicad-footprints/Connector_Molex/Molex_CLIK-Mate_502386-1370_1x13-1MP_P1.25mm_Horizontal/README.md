@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKCNMXMXCLIKMATE523861371X131MPP125HORIZONTAL > Connector_Molex : Molex_CLIK-Mate_502386-1370_1x13-1MP_P1.25mm_Horizontal](#fzkcnmxmxclikmate523861371x131mpp125horizontal--connector_molex--molex_clik-mate_502386-1370_1x13-1mp_p125mm_horizontal)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Connector_Molex : Molex_CLIK-Mate_502386-1370_1x13-1MP_P1.25mm_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_CLIK-Mate_502386-1370_1x13-1MP_P1.25mm_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_CLIK-Mate_502386-1370_1x13-1MP_P1.25mm_Horizontal)
 - Short Link: [http://oom.lt/FZKCNMXMXCLIKMATE523861371X131MPP125HORIZONTAL](http://oom.lt/FZKCNMXMXCLIKMATE523861371X131MPP125HORIZONTAL)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_CLIK-Mate_502386-1370_1x13-1MP_P1.25mm_Horizontal/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_CLIK-Mate_502386-1370_1x13-1MP_P1.25mm_Horizontal/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_CLIK-Mate_502386-1370_1x13-1MP_P1.25mm_Horizontal/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_CLIK-Mate_502386-1370_1x13-1MP_P1.25mm_Horizontal/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_CLIK-Mate_502386-1370_1x13-1MP_P1.25mm_Horizontal/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_CLIK-Mate_502386-1370_1x13-1MP_P1.25mm_Horizontal/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_CLIK-Mate_502386-1370_1x13-1MP_P1.25mm_Horizontal/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_CLIK-Mate_502386-1370_1x13-1MP_P1.25mm_Horizontal/kicadPcb3dBack.png)|

@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKCPLDXILINXXC95144PQ1 > CPLD_Xilinx : XC95144PQ100](#szkcpldxilinxxc95144pq1--cpld_xilinx--xc95144pq100)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: CPLD_Xilinx : XC95144PQ100
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-CPLD_Xilinx-XC95144PQ100](http://oom.lt/SYMBOL-kicad-kicad-symbols-CPLD_Xilinx-XC95144PQ100)
 - Short Link: [http://oom.lt/SZKCPLDXILINXXC95144PQ1](http://oom.lt/SZKCPLDXILINXXC95144PQ1)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/CPLD_Xilinx/XC95144PQ100/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/CPLD_Xilinx/XC95144PQ100/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/CPLD_Xilinx/XC95144PQ100/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/CPLD_Xilinx/XC95144PQ100/image.png)|||

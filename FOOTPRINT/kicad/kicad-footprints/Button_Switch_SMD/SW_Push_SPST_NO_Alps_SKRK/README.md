@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKBSWITCHSMSWPUSHSPSTNOALPSSKRK > Button_Switch_SMD : SW_Push_SPST_NO_Alps_SKRK](#fzkbswitchsmswpushspstnoalpsskrk--button_switch_smd--sw_push_spst_no_alps_skrk)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Button_Switch_SMD : SW_Push_SPST_NO_Alps_SKRK
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-SW_Push_SPST_NO_Alps_SKRK](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-SW_Push_SPST_NO_Alps_SKRK)
 - Short Link: [http://oom.lt/FZKBSWITCHSMSWPUSHSPSTNOALPSSKRK](http://oom.lt/FZKBSWITCHSMSWPUSHSPSTNOALPSSKRK)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_SMD/SW_Push_SPST_NO_Alps_SKRK/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_SMD/SW_Push_SPST_NO_Alps_SKRK/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_SMD/SW_Push_SPST_NO_Alps_SKRK/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_SMD/SW_Push_SPST_NO_Alps_SKRK/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_SMD/SW_Push_SPST_NO_Alps_SKRK/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_SMD/SW_Push_SPST_NO_Alps_SKRK/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_SMD/SW_Push_SPST_NO_Alps_SKRK/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_SMD/SW_Push_SPST_NO_Alps_SKRK/kicadPcb3dBack.png)|

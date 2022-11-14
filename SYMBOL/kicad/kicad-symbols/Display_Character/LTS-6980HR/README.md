@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDICHARACTERLTS698HR > Display_Character : LTS-6980HR](#szkdicharacterlts698hr--display_character--lts-6980hr)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Display_Character : LTS-6980HR
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-LTS-6980HR](http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-LTS-6980HR)
 - Short Link: [http://oom.lt/SZKDICHARACTERLTS698HR](http://oom.lt/SZKDICHARACTERLTS698HR)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Display_Character/LTS-6980HR/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Display_Character/LTS-6980HR/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Display_Character/LTS-6980HR/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Display_Character/LTS-6980HR/image.png)|||

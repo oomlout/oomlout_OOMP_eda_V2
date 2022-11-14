@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDEVICEELECTROMAGNETICACTOR > Device : ElectromagneticActor](#szkdeviceelectromagneticactor--device--electromagneticactor)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Device : ElectromagneticActor
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-ElectromagneticActor](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-ElectromagneticActor)
 - Short Link: [http://oom.lt/SZKDEVICEELECTROMAGNETICACTOR](http://oom.lt/SZKDEVICEELECTROMAGNETICACTOR)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/ElectromagneticActor/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/ElectromagneticActor/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/ElectromagneticActor/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/ElectromagneticActor/image.png)|||

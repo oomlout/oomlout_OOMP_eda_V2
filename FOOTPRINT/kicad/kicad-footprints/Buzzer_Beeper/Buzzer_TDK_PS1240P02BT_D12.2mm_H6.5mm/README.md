@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKBZBUZZERTDKPS124P2BTD122H65 > Buzzer_Beeper : Buzzer_TDK_PS1240P02BT_D12.2mm_H6.5mm](#fzkbzbuzzertdkps124p2btd122h65--buzzer_beeper--buzzer_tdk_ps1240p02bt_d122mm_h65mm)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Buzzer_Beeper : Buzzer_TDK_PS1240P02BT_D12.2mm_H6.5mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Buzzer_Beeper-Buzzer_TDK_PS1240P02BT_D12.2mm_H6.5mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Buzzer_Beeper-Buzzer_TDK_PS1240P02BT_D12.2mm_H6.5mm)
 - Short Link: [http://oom.lt/FZKBZBUZZERTDKPS124P2BTD122H65](http://oom.lt/FZKBZBUZZERTDKPS124P2BTD122H65)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Buzzer_Beeper/Buzzer_TDK_PS1240P02BT_D12.2mm_H6.5mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Buzzer_Beeper/Buzzer_TDK_PS1240P02BT_D12.2mm_H6.5mm/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Buzzer_Beeper/Buzzer_TDK_PS1240P02BT_D12.2mm_H6.5mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Buzzer_Beeper/Buzzer_TDK_PS1240P02BT_D12.2mm_H6.5mm/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Buzzer_Beeper/Buzzer_TDK_PS1240P02BT_D12.2mm_H6.5mm/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Buzzer_Beeper/Buzzer_TDK_PS1240P02BT_D12.2mm_H6.5mm/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Buzzer_Beeper/Buzzer_TDK_PS1240P02BT_D12.2mm_H6.5mm/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Buzzer_Beeper/Buzzer_TDK_PS1240P02BT_D12.2mm_H6.5mm/kicadPcb3dBack.png)|

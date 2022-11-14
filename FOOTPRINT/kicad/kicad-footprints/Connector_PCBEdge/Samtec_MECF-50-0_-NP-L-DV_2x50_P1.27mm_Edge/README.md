@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKCNPCBEDGESAMTECMECF5NPLDV2X5P127EDGE > Connector_PCBEdge : Samtec_MECF-50-0_-NP-L-DV_2x50_P1.27mm_Edge](#fzkcnpcbedgesamtecmecf5npldv2x5p127edge--connector_pcbedge--samtec_mecf-50-0_-np-l-dv_2x50_p127mm_edge)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Connector_PCBEdge : Samtec_MECF-50-0_-NP-L-DV_2x50_P1.27mm_Edge
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_PCBEdge-Samtec_MECF-50-0_-NP-L-DV_2x50_P1.27mm_Edge](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_PCBEdge-Samtec_MECF-50-0_-NP-L-DV_2x50_P1.27mm_Edge)
 - Short Link: [http://oom.lt/FZKCNPCBEDGESAMTECMECF5NPLDV2X5P127EDGE](http://oom.lt/FZKCNPCBEDGESAMTECMECF5NPLDV2X5P127EDGE)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_PCBEdge/Samtec_MECF-50-0_-NP-L-DV_2x50_P1.27mm_Edge/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_PCBEdge/Samtec_MECF-50-0_-NP-L-DV_2x50_P1.27mm_Edge/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_PCBEdge/Samtec_MECF-50-0_-NP-L-DV_2x50_P1.27mm_Edge/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_PCBEdge/Samtec_MECF-50-0_-NP-L-DV_2x50_P1.27mm_Edge/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_PCBEdge/Samtec_MECF-50-0_-NP-L-DV_2x50_P1.27mm_Edge/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_PCBEdge/Samtec_MECF-50-0_-NP-L-DV_2x50_P1.27mm_Edge/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_PCBEdge/Samtec_MECF-50-0_-NP-L-DV_2x50_P1.27mm_Edge/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_PCBEdge/Samtec_MECF-50-0_-NP-L-DV_2x50_P1.27mm_Edge/kicadPcb3dBack.png)|

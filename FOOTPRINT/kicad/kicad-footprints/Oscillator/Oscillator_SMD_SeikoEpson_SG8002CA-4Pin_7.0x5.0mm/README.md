@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKOCSOCSSMSEIKOEPSONSG82CA4PIN7X5 > Oscillator : Oscillator_SMD_SeikoEpson_SG8002CA-4Pin_7.0x5.0mm](#fzkocsocssmseikoepsonsg82ca4pin7x5--oscillator--oscillator_smd_seikoepson_sg8002ca-4pin_70x50mm)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Oscillator : Oscillator_SMD_SeikoEpson_SG8002CA-4Pin_7.0x5.0mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Oscillator-Oscillator_SMD_SeikoEpson_SG8002CA-4Pin_7.0x5.0mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Oscillator-Oscillator_SMD_SeikoEpson_SG8002CA-4Pin_7.0x5.0mm)
 - Short Link: [http://oom.lt/FZKOCSOCSSMSEIKOEPSONSG82CA4PIN7X5](http://oom.lt/FZKOCSOCSSMSEIKOEPSONSG82CA4PIN7X5)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Oscillator/Oscillator_SMD_SeikoEpson_SG8002CA-4Pin_7.0x5.0mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Oscillator/Oscillator_SMD_SeikoEpson_SG8002CA-4Pin_7.0x5.0mm/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Oscillator/Oscillator_SMD_SeikoEpson_SG8002CA-4Pin_7.0x5.0mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Oscillator/Oscillator_SMD_SeikoEpson_SG8002CA-4Pin_7.0x5.0mm/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Oscillator/Oscillator_SMD_SeikoEpson_SG8002CA-4Pin_7.0x5.0mm/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Oscillator/Oscillator_SMD_SeikoEpson_SG8002CA-4Pin_7.0x5.0mm/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Oscillator/Oscillator_SMD_SeikoEpson_SG8002CA-4Pin_7.0x5.0mm/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Oscillator/Oscillator_SMD_SeikoEpson_SG8002CA-4Pin_7.0x5.0mm/kicadPcb3dBack.png)|

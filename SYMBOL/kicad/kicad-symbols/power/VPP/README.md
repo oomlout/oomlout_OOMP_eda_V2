@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKPOWERVPP > power : VPP](#szkpowervpp--power--vpp)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: power : VPP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-power-VPP](http://oom.lt/SYMBOL-kicad-kicad-symbols-power-VPP)
 - Short Link: [http://oom.lt/SZKPOWERVPP](http://oom.lt/SZKPOWERVPP)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/power/VPP/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/power/VPP/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/power/VPP/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/power/VPP/image.png)|||

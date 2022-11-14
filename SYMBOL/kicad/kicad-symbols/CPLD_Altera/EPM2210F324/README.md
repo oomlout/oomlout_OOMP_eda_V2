@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKCPLDALTERAEPM221F324 > CPLD_Altera : EPM2210F324](#szkcpldalteraepm221f324--cpld_altera--epm2210f324)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: CPLD_Altera : EPM2210F324
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-CPLD_Altera-EPM2210F324](http://oom.lt/SYMBOL-kicad-kicad-symbols-CPLD_Altera-EPM2210F324)
 - Short Link: [http://oom.lt/SZKCPLDALTERAEPM221F324](http://oom.lt/SZKCPLDALTERAEPM221F324)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/CPLD_Altera/EPM2210F324/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/CPLD_Altera/EPM2210F324/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/CPLD_Altera/EPM2210F324/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/CPLD_Altera/EPM2210F324/image.png)|||

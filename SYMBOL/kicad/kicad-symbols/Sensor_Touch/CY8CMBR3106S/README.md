@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKSENTOUCHCY8CMBR316S > Sensor_Touch : CY8CMBR3106S](#szksentouchcy8cmbr316s--sensor_touch--cy8cmbr3106s)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Sensor_Touch : CY8CMBR3106S
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Touch-CY8CMBR3106S](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Touch-CY8CMBR3106S)
 - Short Link: [http://oom.lt/SZKSENTOUCHCY8CMBR316S](http://oom.lt/SZKSENTOUCHCY8CMBR316S)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Touch/CY8CMBR3106S/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Touch/CY8CMBR3106S/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Touch/CY8CMBR3106S/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Touch/CY8CMBR3106S/image.png)|||

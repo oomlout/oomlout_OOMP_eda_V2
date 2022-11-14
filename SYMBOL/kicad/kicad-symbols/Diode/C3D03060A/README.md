@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDIODEC3D36A > Diode : C3D03060A](#szkdiodec3d36a--diode--c3d03060a)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Diode : C3D03060A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-C3D03060A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-C3D03060A)
 - Short Link: [http://oom.lt/SZKDIODEC3D36A](http://oom.lt/SZKDIODEC3D36A)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Diode/C3D03060A/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Diode/C3D03060A/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Diode/C3D03060A/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Diode/C3D03060A/image.png)|||

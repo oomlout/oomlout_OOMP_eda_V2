@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKTRANSISTORFETBUK9M9R14EX > Transistor_FET : BUK9M9R1-40EX](#szktransistorfetbuk9m9r14ex--transistor_fet--buk9m9r1-40ex)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Transistor_FET : BUK9M9R1-40EX
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-BUK9M9R1-40EX](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-BUK9M9R1-40EX)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETBUK9M9R14EX](http://oom.lt/SZKTRANSISTORFETBUK9M9R14EX)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/BUK9M9R1-40EX/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/BUK9M9R1-40EX/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/BUK9M9R1-40EX/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/BUK9M9R1-40EX/image.png)|||

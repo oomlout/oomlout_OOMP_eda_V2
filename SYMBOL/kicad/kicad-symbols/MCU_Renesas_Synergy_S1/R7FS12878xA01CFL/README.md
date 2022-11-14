@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKMCURENESASSYNERGYS1R7FS12878XA1CFL > MCU_Renesas_Synergy_S1 : R7FS12878xA01CFL](#szkmcurenesassynergys1r7fs12878xa1cfl--mcu_renesas_synergy_s1--r7fs12878xa01cfl)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: MCU_Renesas_Synergy_S1 : R7FS12878xA01CFL
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Renesas_Synergy_S1-R7FS12878xA01CFL](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Renesas_Synergy_S1-R7FS12878xA01CFL)
 - Short Link: [http://oom.lt/SZKMCURENESASSYNERGYS1R7FS12878XA1CFL](http://oom.lt/SZKMCURENESASSYNERGYS1R7FS12878XA1CFL)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Renesas_Synergy_S1/R7FS12878xA01CFL/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Renesas_Synergy_S1/R7FS12878xA01CFL/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Renesas_Synergy_S1/R7FS12878xA01CFL/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Renesas_Synergy_S1/R7FS12878xA01CFL/image.png)|||

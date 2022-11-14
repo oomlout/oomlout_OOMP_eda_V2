@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKREGULATORLINEARMCP1727182XSN > Regulator_Linear : MCP1727-1802xSN](#szkregulatorlinearmcp1727182xsn--regulator_linear--mcp1727-1802xsn)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Regulator_Linear : MCP1727-1802xSN
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-MCP1727-1802xSN](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-MCP1727-1802xSN)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARMCP1727182XSN](http://oom.lt/SZKREGULATORLINEARMCP1727182XSN)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/MCP1727-1802xSN/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/MCP1727-1802xSN/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/MCP1727-1802xSN/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/MCP1727-1802xSN/image.png)|||

@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKAMPLIFIERDIFFERENCEINA15KP > Amplifier_Difference : INA105KP](#szkamplifierdifferenceina15kp--amplifier_difference--ina105kp)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Amplifier_Difference : INA105KP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Difference-INA105KP](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Difference-INA105KP)
 - Short Link: [http://oom.lt/SZKAMPLIFIERDIFFERENCEINA15KP](http://oom.lt/SZKAMPLIFIERDIFFERENCEINA15KP)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Amplifier_Difference/INA105KP/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Amplifier_Difference/INA105KP/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Amplifier_Difference/INA105KP/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Amplifier_Difference/INA105KP/image.png)|||

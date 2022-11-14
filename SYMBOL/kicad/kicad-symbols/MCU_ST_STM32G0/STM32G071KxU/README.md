@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKMCUSTSTM32GSTM32G71KXU > MCU_ST_STM32G0 : STM32G071KxU](#szkmcuststm32gstm32g71kxu--mcu_st_stm32g0--stm32g071kxu)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: MCU_ST_STM32G0 : STM32G071KxU
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32G0-STM32G071KxU](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32G0-STM32G071KxU)
 - Short Link: [http://oom.lt/SZKMCUSTSTM32GSTM32G71KXU](http://oom.lt/SZKMCUSTSTM32GSTM32G71KXU)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32G0/STM32G071KxU/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32G0/STM32G071KxU/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32G0/STM32G071KxU/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32G0/STM32G071KxU/image.png)|||

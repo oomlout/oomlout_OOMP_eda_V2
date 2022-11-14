@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKMCUTEXASSIMPLELINKCC1312R1F3RGZ > MCU_Texas_SimpleLink : CC1312R1F3RGZ](#szkmcutexassimplelinkcc1312r1f3rgz--mcu_texas_simplelink--cc1312r1f3rgz)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: MCU_Texas_SimpleLink : CC1312R1F3RGZ
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Texas_SimpleLink-CC1312R1F3RGZ](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Texas_SimpleLink-CC1312R1F3RGZ)
 - Short Link: [http://oom.lt/SZKMCUTEXASSIMPLELINKCC1312R1F3RGZ](http://oom.lt/SZKMCUTEXASSIMPLELINKCC1312R1F3RGZ)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Texas_SimpleLink/CC1312R1F3RGZ/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Texas_SimpleLink/CC1312R1F3RGZ/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Texas_SimpleLink/CC1312R1F3RGZ/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Texas_SimpleLink/CC1312R1F3RGZ/image.png)|||

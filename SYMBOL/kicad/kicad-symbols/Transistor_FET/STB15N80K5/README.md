@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKTRANSISTORFETSTB15N8K5 > Transistor_FET : STB15N80K5](#szktransistorfetstb15n8k5--transistor_fet--stb15n80k5)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Transistor_FET : STB15N80K5
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-STB15N80K5](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-STB15N80K5)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETSTB15N8K5](http://oom.lt/SZKTRANSISTORFETSTB15N8K5)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/STB15N80K5/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/STB15N80K5/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/STB15N80K5/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/STB15N80K5/image.png)|||

@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKXXSM2122PIN2X12 > Crystal : Crystal_SMD_2012-2Pin_2.0x1.2mm](#fzkxxsm2122pin2x12--crystal--crystal_smd_2012-2pin_20x12mm)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Crystal : Crystal_SMD_2012-2Pin_2.0x1.2mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_SMD_2012-2Pin_2.0x1.2mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_SMD_2012-2Pin_2.0x1.2mm)
 - Short Link: [http://oom.lt/FZKXXSM2122PIN2X12](http://oom.lt/FZKXXSM2122PIN2X12)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_SMD_2012-2Pin_2.0x1.2mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_SMD_2012-2Pin_2.0x1.2mm/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_SMD_2012-2Pin_2.0x1.2mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_SMD_2012-2Pin_2.0x1.2mm/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_SMD_2012-2Pin_2.0x1.2mm/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_SMD_2012-2Pin_2.0x1.2mm/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_SMD_2012-2Pin_2.0x1.2mm/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_SMD_2012-2Pin_2.0x1.2mm/kicadPcb3dBack.png)|

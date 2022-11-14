@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKAMPLIFIEROPERATIONALADA4611XR > Amplifier_Operational : ADA4610-1xR](#szkamplifieroperationalada4611xr--amplifier_operational--ada4610-1xr)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Amplifier_Operational : ADA4610-1xR
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-ADA4610-1xR](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-ADA4610-1xR)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALADA4611XR](http://oom.lt/SZKAMPLIFIEROPERATIONALADA4611XR)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/ADA4610-1xR/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/ADA4610-1xR/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/ADA4610-1xR/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/ADA4610-1xR/image.png)|||

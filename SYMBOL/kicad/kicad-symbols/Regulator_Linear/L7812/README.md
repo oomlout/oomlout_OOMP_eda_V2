@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKREGULATORLINEARL7812 > Regulator_Linear : L7812](#szkregulatorlinearl7812--regulator_linear--l7812)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Regulator_Linear : L7812
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-L7812](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-L7812)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARL7812](http://oom.lt/SZKREGULATORLINEARL7812)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/L7812/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/L7812/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/L7812/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/L7812/image.png)|||

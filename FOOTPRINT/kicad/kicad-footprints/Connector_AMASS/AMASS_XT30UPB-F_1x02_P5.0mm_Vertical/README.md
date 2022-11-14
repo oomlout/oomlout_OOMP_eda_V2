@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKCNAMASSAMASSXT3UPBF1X2P5VERTICAL > Connector_AMASS : AMASS_XT30UPB-F_1x02_P5.0mm_Vertical](#fzkcnamassamassxt3upbf1x2p5vertical--connector_amass--amass_xt30upb-f_1x02_p50mm_vertical)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Connector_AMASS : AMASS_XT30UPB-F_1x02_P5.0mm_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_AMASS-AMASS_XT30UPB-F_1x02_P5.0mm_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_AMASS-AMASS_XT30UPB-F_1x02_P5.0mm_Vertical)
 - Short Link: [http://oom.lt/FZKCNAMASSAMASSXT3UPBF1X2P5VERTICAL](http://oom.lt/FZKCNAMASSAMASSXT3UPBF1X2P5VERTICAL)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_AMASS/AMASS_XT30UPB-F_1x02_P5.0mm_Vertical/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_AMASS/AMASS_XT30UPB-F_1x02_P5.0mm_Vertical/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_AMASS/AMASS_XT30UPB-F_1x02_P5.0mm_Vertical/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_AMASS/AMASS_XT30UPB-F_1x02_P5.0mm_Vertical/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_AMASS/AMASS_XT30UPB-F_1x02_P5.0mm_Vertical/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_AMASS/AMASS_XT30UPB-F_1x02_P5.0mm_Vertical/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_AMASS/AMASS_XT30UPB-F_1x02_P5.0mm_Vertical/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_AMASS/AMASS_XT30UPB-F_1x02_P5.0mm_Vertical/kicadPcb3dBack.png)|

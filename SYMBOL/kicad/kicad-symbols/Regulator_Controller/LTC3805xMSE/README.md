@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKREGULATORCONTROLLERLTC385XMSE > Regulator_Controller : LTC3805xMSE](#szkregulatorcontrollerltc385xmse--regulator_controller--ltc3805xmse)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Regulator_Controller : LTC3805xMSE
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Controller-LTC3805xMSE](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Controller-LTC3805xMSE)
 - Short Link: [http://oom.lt/SZKREGULATORCONTROLLERLTC385XMSE](http://oom.lt/SZKREGULATORCONTROLLERLTC385XMSE)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Controller/LTC3805xMSE/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Controller/LTC3805xMSE/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Controller/LTC3805xMSE/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Controller/LTC3805xMSE/image.png)|||

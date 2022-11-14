@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKLOGICLEVELTRANSLATOR74LVC2T45DC > Logic_LevelTranslator : 74LVC2T45DC](#szklogicleveltranslator74lvc2t45dc--logic_leveltranslator--74lvc2t45dc)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Logic_LevelTranslator : 74LVC2T45DC
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Logic_LevelTranslator-74LVC2T45DC](http://oom.lt/SYMBOL-kicad-kicad-symbols-Logic_LevelTranslator-74LVC2T45DC)
 - Short Link: [http://oom.lt/SZKLOGICLEVELTRANSLATOR74LVC2T45DC](http://oom.lt/SZKLOGICLEVELTRANSLATOR74LVC2T45DC)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Logic_LevelTranslator/74LVC2T45DC/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Logic_LevelTranslator/74LVC2T45DC/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Logic_LevelTranslator/74LVC2T45DC/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Logic_LevelTranslator/74LVC2T45DC/image.png)|||

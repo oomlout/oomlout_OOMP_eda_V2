@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKAUDIOAS3345 > Audio : AS3345](#szkaudioas3345--audio--as3345)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Audio : AS3345
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Audio-AS3345](http://oom.lt/SYMBOL-kicad-kicad-symbols-Audio-AS3345)
 - Short Link: [http://oom.lt/SZKAUDIOAS3345](http://oom.lt/SZKAUDIOAS3345)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Audio/AS3345/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Audio/AS3345/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Audio/AS3345/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Audio/AS3345/image.png)|||

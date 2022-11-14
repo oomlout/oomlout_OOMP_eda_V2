@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKISOLATORADUM541 > Isolator : ADuM5410](#szkisolatoradum541--isolator--adum5410)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Isolator : ADuM5410
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-ADuM5410](http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-ADuM5410)
 - Short Link: [http://oom.lt/SZKISOLATORADUM541](http://oom.lt/SZKISOLATORADUM541)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Isolator/ADuM5410/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Isolator/ADuM5410/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Isolator/ADuM5410/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Isolator/ADuM5410/image.png)|||

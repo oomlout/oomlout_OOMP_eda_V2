@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKCNBUSM2SOA > Connector : Bus_M.2_Socket_A](#szkcnbusm2soa--connector--bus_m2_socket_a)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Connector : Bus_M.2_Socket_A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-Bus_M.2_Socket_A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-Bus_M.2_Socket_A)
 - Short Link: [http://oom.lt/SZKCNBUSM2SOA](http://oom.lt/SZKCNBUSM2SOA)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/Bus_M.2_Socket_A/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Bus_M.2_Socket_A/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/Bus_M.2_Socket_A/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Bus_M.2_Socket_A/image.png)|||

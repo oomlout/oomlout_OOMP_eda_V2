@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKPOWERMANAGEMENTLTC4242XUHF > Power_Management : LTC4242xUHF](#szkpowermanagementltc4242xuhf--power_management--ltc4242xuhf)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Power_Management : LTC4242xUHF
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-LTC4242xUHF](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-LTC4242xUHF)
 - Short Link: [http://oom.lt/SZKPOWERMANAGEMENTLTC4242XUHF](http://oom.lt/SZKPOWERMANAGEMENTLTC4242XUHF)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Power_Management/LTC4242xUHF/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Power_Management/LTC4242xUHF/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Power_Management/LTC4242xUHF/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Power_Management/LTC4242xUHF/image.png)|||

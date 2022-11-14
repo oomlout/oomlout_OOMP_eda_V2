@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDIGRAPHICEAEDIPTFT7ATC > Display_Graphic : EA_eDIPTFT70-ATC](#szkdigraphiceaediptft7atc--display_graphic--ea_ediptft70-atc)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Display_Graphic : EA_eDIPTFT70-ATC
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Graphic-EA_eDIPTFT70-ATC](http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Graphic-EA_eDIPTFT70-ATC)
 - Short Link: [http://oom.lt/SZKDIGRAPHICEAEDIPTFT7ATC](http://oom.lt/SZKDIGRAPHICEAEDIPTFT7ATC)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Display_Graphic/EA_eDIPTFT70-ATC/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Display_Graphic/EA_eDIPTFT70-ATC/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Display_Graphic/EA_eDIPTFT70-ATC/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Display_Graphic/EA_eDIPTFT70-ATC/image.png)|||

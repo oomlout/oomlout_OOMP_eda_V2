@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKINTERFACEUARTMAX13432EESD > Interface_UART : MAX13432EESD](#szkinterfaceuartmax13432eesd--interface_uart--max13432eesd)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Interface_UART : MAX13432EESD
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_UART-MAX13432EESD](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_UART-MAX13432EESD)
 - Short Link: [http://oom.lt/SZKINTERFACEUARTMAX13432EESD](http://oom.lt/SZKINTERFACEUARTMAX13432EESD)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface_UART/MAX13432EESD/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface_UART/MAX13432EESD/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface_UART/MAX13432EESD/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface_UART/MAX13432EESD/image.png)|||

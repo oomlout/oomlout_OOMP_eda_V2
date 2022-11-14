@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKCPLDXILINXXCR364VQ44 > CPLD_Xilinx : XCR3064-VQ44](#szkcpldxilinxxcr364vq44--cpld_xilinx--xcr3064-vq44)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: CPLD_Xilinx : XCR3064-VQ44
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-CPLD_Xilinx-XCR3064-VQ44](http://oom.lt/SYMBOL-kicad-kicad-symbols-CPLD_Xilinx-XCR3064-VQ44)
 - Short Link: [http://oom.lt/SZKCPLDXILINXXCR364VQ44](http://oom.lt/SZKCPLDXILINXXCR364VQ44)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/CPLD_Xilinx/XCR3064-VQ44/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/CPLD_Xilinx/XCR3064-VQ44/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/CPLD_Xilinx/XCR3064-VQ44/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/CPLD_Xilinx/XCR3064-VQ44/image.png)|||

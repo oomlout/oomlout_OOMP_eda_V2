@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKREGULATORCONTROLLERICE2PCS1 > Regulator_Controller : ICE2PCS01](#szkregulatorcontrollerice2pcs1--regulator_controller--ice2pcs01)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Regulator_Controller : ICE2PCS01
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Controller-ICE2PCS01](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Controller-ICE2PCS01)
 - Short Link: [http://oom.lt/SZKREGULATORCONTROLLERICE2PCS1](http://oom.lt/SZKREGULATORCONTROLLERICE2PCS1)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Controller/ICE2PCS01/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Controller/ICE2PCS01/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Controller/ICE2PCS01/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Controller/ICE2PCS01/image.png)|||

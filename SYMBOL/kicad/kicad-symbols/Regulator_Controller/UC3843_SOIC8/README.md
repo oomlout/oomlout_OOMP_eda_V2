@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKREGULATORCONTROLLERUC3843SOIC8 > Regulator_Controller : UC3843_SOIC8](#szkregulatorcontrolleruc3843soic8--regulator_controller--uc3843_soic8)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Regulator_Controller : UC3843_SOIC8
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Controller-UC3843_SOIC8](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Controller-UC3843_SOIC8)
 - Short Link: [http://oom.lt/SZKREGULATORCONTROLLERUC3843SOIC8](http://oom.lt/SZKREGULATORCONTROLLERUC3843SOIC8)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Controller/UC3843_SOIC8/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Controller/UC3843_SOIC8/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Controller/UC3843_SOIC8/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Controller/UC3843_SOIC8/image.png)|||

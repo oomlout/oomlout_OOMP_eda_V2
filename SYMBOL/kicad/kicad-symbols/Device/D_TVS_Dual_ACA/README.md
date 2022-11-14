@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDEVICEDTVSDUALACA > Device : D_TVS_Dual_ACA](#szkdevicedtvsdualaca--device--d_tvs_dual_aca)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Device : D_TVS_Dual_ACA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-D_TVS_Dual_ACA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-D_TVS_Dual_ACA)
 - Short Link: [http://oom.lt/SZKDEVICEDTVSDUALACA](http://oom.lt/SZKDEVICEDTVSDUALACA)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/D_TVS_Dual_ACA/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/D_TVS_Dual_ACA/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/D_TVS_Dual_ACA/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/D_TVS_Dual_ACA/image.png)|||

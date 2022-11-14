@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKTRANSISTORFETFDMS85 > Transistor_FET : FDMS8050](#szktransistorfetfdms85--transistor_fet--fdms8050)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Transistor_FET : FDMS8050
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-FDMS8050](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-FDMS8050)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETFDMS85](http://oom.lt/SZKTRANSISTORFETFDMS85)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/FDMS8050/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/FDMS8050/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/FDMS8050/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/FDMS8050/image.png)|||

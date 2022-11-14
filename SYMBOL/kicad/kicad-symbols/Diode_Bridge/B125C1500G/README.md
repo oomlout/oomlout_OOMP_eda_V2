@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDIODEBRIDGEB125C15G > Diode_Bridge : B125C1500G](#szkdiodebridgeb125c15g--diode_bridge--b125c1500g)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Diode_Bridge : B125C1500G
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode_Bridge-B125C1500G](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode_Bridge-B125C1500G)
 - Short Link: [http://oom.lt/SZKDIODEBRIDGEB125C15G](http://oom.lt/SZKDIODEBRIDGEB125C15G)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Diode_Bridge/B125C1500G/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Diode_Bridge/B125C1500G/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Diode_Bridge/B125C1500G/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Diode_Bridge/B125C1500G/image.png)|||

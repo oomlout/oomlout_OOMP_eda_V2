@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKSENCURRENTACS77XCB15UPFF > Sensor_Current : ACS770xCB-150U-PFF](#szksencurrentacs77xcb15upff--sensor_current--acs770xcb-150u-pff)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Sensor_Current : ACS770xCB-150U-PFF
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-ACS770xCB-150U-PFF](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-ACS770xCB-150U-PFF)
 - Short Link: [http://oom.lt/SZKSENCURRENTACS77XCB15UPFF](http://oom.lt/SZKSENCURRENTACS77XCB15UPFF)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Current/ACS770xCB-150U-PFF/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Current/ACS770xCB-150U-PFF/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Current/ACS770xCB-150U-PFF/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Current/ACS770xCB-150U-PFF/image.png)|||

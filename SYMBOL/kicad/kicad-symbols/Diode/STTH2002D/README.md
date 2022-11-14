@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDIODESTTH22D > Diode : STTH2002D](#szkdiodestth22d--diode--stth2002d)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Diode : STTH2002D
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-STTH2002D](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-STTH2002D)
 - Short Link: [http://oom.lt/SZKDIODESTTH22D](http://oom.lt/SZKDIODESTTH22D)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Diode/STTH2002D/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Diode/STTH2002D/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Diode/STTH2002D/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Diode/STTH2002D/image.png)|||

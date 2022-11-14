@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKBZMAGNETICBUZZERPROSIGNALABI1RC > Buzzer_Beeper : MagneticBuzzer_ProSignal_ABI-010-RC](#fzkbzmagneticbuzzerprosignalabi1rc--buzzer_beeper--magneticbuzzer_prosignal_abi-010-rc)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Buzzer_Beeper : MagneticBuzzer_ProSignal_ABI-010-RC
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Buzzer_Beeper-MagneticBuzzer_ProSignal_ABI-010-RC](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Buzzer_Beeper-MagneticBuzzer_ProSignal_ABI-010-RC)
 - Short Link: [http://oom.lt/FZKBZMAGNETICBUZZERPROSIGNALABI1RC](http://oom.lt/FZKBZMAGNETICBUZZERPROSIGNALABI1RC)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Buzzer_Beeper/MagneticBuzzer_ProSignal_ABI-010-RC/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Buzzer_Beeper/MagneticBuzzer_ProSignal_ABI-010-RC/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Buzzer_Beeper/MagneticBuzzer_ProSignal_ABI-010-RC/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Buzzer_Beeper/MagneticBuzzer_ProSignal_ABI-010-RC/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Buzzer_Beeper/MagneticBuzzer_ProSignal_ABI-010-RC/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Buzzer_Beeper/MagneticBuzzer_ProSignal_ABI-010-RC/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Buzzer_Beeper/MagneticBuzzer_ProSignal_ABI-010-RC/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Buzzer_Beeper/MagneticBuzzer_ProSignal_ABI-010-RC/kicadPcb3dBack.png)|

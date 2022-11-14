@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKMCUSTSTM32F2STM32F25VGTX > MCU_ST_STM32F2 : STM32F205VGTx](#szkmcuststm32f2stm32f25vgtx--mcu_st_stm32f2--stm32f205vgtx)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: MCU_ST_STM32F2 : STM32F205VGTx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F2-STM32F205VGTx](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F2-STM32F205VGTx)
 - Short Link: [http://oom.lt/SZKMCUSTSTM32F2STM32F25VGTX](http://oom.lt/SZKMCUSTSTM32F2STM32F25VGTX)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32F2/STM32F205VGTx/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32F2/STM32F205VGTx/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32F2/STM32F205VGTx/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32F2/STM32F205VGTx/image.png)|||

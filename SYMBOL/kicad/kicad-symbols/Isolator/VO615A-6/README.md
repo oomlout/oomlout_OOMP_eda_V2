@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKISOLATORVO615A6 > Isolator : VO615A-6](#szkisolatorvo615a6--isolator--vo615a-6)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Isolator : VO615A-6
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-VO615A-6](http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-VO615A-6)
 - Short Link: [http://oom.lt/SZKISOLATORVO615A6](http://oom.lt/SZKISOLATORVO615A6)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Isolator/VO615A-6/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Isolator/VO615A-6/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Isolator/VO615A-6/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Isolator/VO615A-6/image.png)|||

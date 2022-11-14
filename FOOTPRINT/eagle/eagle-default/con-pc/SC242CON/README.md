@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZECONPCSC242CON > con-pc : SC242CON](#fzeconpcsc242con--con-pc--sc242con)
+	* [Images](#images)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -17,8 +18,14 @@ NO IMAGE
 - Description: con-pc : SC242CON
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-pc-SC242CON](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-pc-SC242CON)
 - Short Link: [http://oom.lt/FZECONPCSC242CON](http://oom.lt/FZECONPCSC242CON)
+
+## Images
   
-NO IMAGES  
+
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/con-pc/SC242CON/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/con-pc/SC242CON/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/con-pc/SC242CON/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/con-pc/SC242CON/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/con-pc/SC242CON/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/con-pc/SC242CON/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/con-pc/SC242CON/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/con-pc/SC242CON/kicadPcb3dBack.png)|
+| :---: | :---: | :---: | :---: |
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/con-pc/SC242CON/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/con-pc/SC242CON/kicadPcb3d.png)||||
+
 ## Tags
   
 

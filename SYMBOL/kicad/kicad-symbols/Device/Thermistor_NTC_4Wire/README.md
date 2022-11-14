@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDEVICETHERMISTORNTC4WIRE > Device : Thermistor_NTC_4Wire](#szkdevicethermistorntc4wire--device--thermistor_ntc_4wire)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Device : Thermistor_NTC_4Wire
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Thermistor_NTC_4Wire](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Thermistor_NTC_4Wire)
 - Short Link: [http://oom.lt/SZKDEVICETHERMISTORNTC4WIRE](http://oom.lt/SZKDEVICETHERMISTORNTC4WIRE)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/Thermistor_NTC_4Wire/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/Thermistor_NTC_4Wire/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/Thermistor_NTC_4Wire/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/Thermistor_NTC_4Wire/image.png)|||

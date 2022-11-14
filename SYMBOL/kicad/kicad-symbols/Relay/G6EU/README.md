@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKRELAYG6EU > Relay : G6EU](#szkrelayg6eu--relay--g6eu)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Relay : G6EU
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-G6EU](http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-G6EU)
 - Short Link: [http://oom.lt/SZKRELAYG6EU](http://oom.lt/SZKRELAYG6EU)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Relay/G6EU/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Relay/G6EU/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Relay/G6EU/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Relay/G6EU/image.png)|||

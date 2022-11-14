@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKCPUNXP6868D > CPU_NXP_68000 : 68000D](#szkcpunxp6868d--cpu_nxp_68000--68000d)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: CPU_NXP_68000 : 68000D
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-CPU_NXP_68000-68000D](http://oom.lt/SYMBOL-kicad-kicad-symbols-CPU_NXP_68000-68000D)
 - Short Link: [http://oom.lt/SZKCPUNXP6868D](http://oom.lt/SZKCPUNXP6868D)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/CPU_NXP_68000/68000D/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/CPU_NXP_68000/68000D/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/CPU_NXP_68000/68000D/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/CPU_NXP_68000/68000D/image.png)|||

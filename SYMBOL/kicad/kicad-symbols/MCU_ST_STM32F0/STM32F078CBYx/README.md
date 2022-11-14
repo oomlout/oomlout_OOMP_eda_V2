@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKMCUSTSTM32FSTM32F78CBYX > MCU_ST_STM32F0 : STM32F078CBYx](#szkmcuststm32fstm32f78cbyx--mcu_st_stm32f0--stm32f078cbyx)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: MCU_ST_STM32F0 : STM32F078CBYx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F0-STM32F078CBYx](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F0-STM32F078CBYx)
 - Short Link: [http://oom.lt/SZKMCUSTSTM32FSTM32F78CBYX](http://oom.lt/SZKMCUSTSTM32FSTM32F78CBYX)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32F0/STM32F078CBYx/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32F0/STM32F078CBYx/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32F0/STM32F078CBYx/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32F0/STM32F078CBYx/image.png)|||

@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDEVICEDIAC > Device : DIAC](#szkdevicediac--device--diac)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Device : DIAC
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-DIAC](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-DIAC)
 - Short Link: [http://oom.lt/SZKDEVICEDIAC](http://oom.lt/SZKDEVICEDIAC)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/DIAC/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/DIAC/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/DIAC/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/DIAC/image.png)|||

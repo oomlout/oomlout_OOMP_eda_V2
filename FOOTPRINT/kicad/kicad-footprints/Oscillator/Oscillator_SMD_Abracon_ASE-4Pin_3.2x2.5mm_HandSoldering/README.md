@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKOCSOCSSMABRACONASE4PIN32X25HANDSOLDERING > Oscillator : Oscillator_SMD_Abracon_ASE-4Pin_3.2x2.5mm_HandSoldering](#fzkocsocssmabraconase4pin32x25handsoldering--oscillator--oscillator_smd_abracon_ase-4pin_32x25mm_handsoldering)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Oscillator : Oscillator_SMD_Abracon_ASE-4Pin_3.2x2.5mm_HandSoldering
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Oscillator-Oscillator_SMD_Abracon_ASE-4Pin_3.2x2.5mm_HandSoldering](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Oscillator-Oscillator_SMD_Abracon_ASE-4Pin_3.2x2.5mm_HandSoldering)
 - Short Link: [http://oom.lt/FZKOCSOCSSMABRACONASE4PIN32X25HANDSOLDERING](http://oom.lt/FZKOCSOCSSMABRACONASE4PIN32X25HANDSOLDERING)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Oscillator/Oscillator_SMD_Abracon_ASE-4Pin_3.2x2.5mm_HandSoldering/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Oscillator/Oscillator_SMD_Abracon_ASE-4Pin_3.2x2.5mm_HandSoldering/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Oscillator/Oscillator_SMD_Abracon_ASE-4Pin_3.2x2.5mm_HandSoldering/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Oscillator/Oscillator_SMD_Abracon_ASE-4Pin_3.2x2.5mm_HandSoldering/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Oscillator/Oscillator_SMD_Abracon_ASE-4Pin_3.2x2.5mm_HandSoldering/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Oscillator/Oscillator_SMD_Abracon_ASE-4Pin_3.2x2.5mm_HandSoldering/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Oscillator/Oscillator_SMD_Abracon_ASE-4Pin_3.2x2.5mm_HandSoldering/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Oscillator/Oscillator_SMD_Abracon_ASE-4Pin_3.2x2.5mm_HandSoldering/kicadPcb3dBack.png)|

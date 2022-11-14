@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKDDIODEBRIDGE152X152X63P19 > Diode_THT : Diode_Bridge_15.2x15.2x6.3mm_P10.9mm](#fzkddiodebridge152x152x63p19--diode_tht--diode_bridge_152x152x63mm_p109mm)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Diode_THT : Diode_Bridge_15.2x15.2x6.3mm_P10.9mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Diode_THT-Diode_Bridge_15.2x15.2x6.3mm_P10.9mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Diode_THT-Diode_Bridge_15.2x15.2x6.3mm_P10.9mm)
 - Short Link: [http://oom.lt/FZKDDIODEBRIDGE152X152X63P19](http://oom.lt/FZKDDIODEBRIDGE152X152X63P19)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Diode_THT/Diode_Bridge_15.2x15.2x6.3mm_P10.9mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Diode_THT/Diode_Bridge_15.2x15.2x6.3mm_P10.9mm/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Diode_THT/Diode_Bridge_15.2x15.2x6.3mm_P10.9mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Diode_THT/Diode_Bridge_15.2x15.2x6.3mm_P10.9mm/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Diode_THT/Diode_Bridge_15.2x15.2x6.3mm_P10.9mm/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Diode_THT/Diode_Bridge_15.2x15.2x6.3mm_P10.9mm/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Diode_THT/Diode_Bridge_15.2x15.2x6.3mm_P10.9mm/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Diode_THT/Diode_Bridge_15.2x15.2x6.3mm_P10.9mm/kicadPcb3dBack.png)|

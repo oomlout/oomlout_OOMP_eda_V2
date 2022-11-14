@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKHHFISCHERFK24413D2PAK26X13 > Heatsink : Heatsink_Fischer_FK24413D2PAK_26x13mm](#fzkhhfischerfk24413d2pak26x13--heatsink--heatsink_fischer_fk24413d2pak_26x13mm)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Heatsink : Heatsink_Fischer_FK24413D2PAK_26x13mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Heatsink-Heatsink_Fischer_FK24413D2PAK_26x13mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Heatsink-Heatsink_Fischer_FK24413D2PAK_26x13mm)
 - Short Link: [http://oom.lt/FZKHHFISCHERFK24413D2PAK26X13](http://oom.lt/FZKHHFISCHERFK24413D2PAK26X13)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Heatsink/Heatsink_Fischer_FK24413D2PAK_26x13mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Heatsink/Heatsink_Fischer_FK24413D2PAK_26x13mm/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Heatsink/Heatsink_Fischer_FK24413D2PAK_26x13mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Heatsink/Heatsink_Fischer_FK24413D2PAK_26x13mm/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Heatsink/Heatsink_Fischer_FK24413D2PAK_26x13mm/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Heatsink/Heatsink_Fischer_FK24413D2PAK_26x13mm/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Heatsink/Heatsink_Fischer_FK24413D2PAK_26x13mm/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Heatsink/Heatsink_Fischer_FK24413D2PAK_26x13mm/kicadPcb3dBack.png)|

@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKTRANSISTORBJTUMH3N > Transistor_BJT : UMH3N](#szktransistorbjtumh3n--transistor_bjt--umh3n)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Transistor_BJT : UMH3N
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-UMH3N](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-UMH3N)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJTUMH3N](http://oom.lt/SZKTRANSISTORBJTUMH3N)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_BJT/UMH3N/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_BJT/UMH3N/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_BJT/UMH3N/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_BJT/UMH3N/image.png)|||

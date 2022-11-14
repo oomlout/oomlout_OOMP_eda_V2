@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKSENTEMPERATUREAD8497 > Sensor_Temperature : AD8497](#szksentemperaturead8497--sensor_temperature--ad8497)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Sensor_Temperature : AD8497
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Temperature-AD8497](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Temperature-AD8497)
 - Short Link: [http://oom.lt/SZKSENTEMPERATUREAD8497](http://oom.lt/SZKSENTEMPERATUREAD8497)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Temperature/AD8497/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Temperature/AD8497/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Temperature/AD8497/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Temperature/AD8497/image.png)|||

@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKOCSFT5HN > Oscillator : FT5HN](#szkocsft5hn--oscillator--ft5hn)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Oscillator : FT5HN
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Oscillator-FT5HN](http://oom.lt/SYMBOL-kicad-kicad-symbols-Oscillator-FT5HN)
 - Short Link: [http://oom.lt/SZKOCSFT5HN](http://oom.lt/SZKOCSFT5HN)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Oscillator/FT5HN/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Oscillator/FT5HN/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Oscillator/FT5HN/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Oscillator/FT5HN/image.png)|||

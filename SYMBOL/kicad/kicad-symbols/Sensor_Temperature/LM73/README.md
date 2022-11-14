@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKSENTEMPERATURELM73 > Sensor_Temperature : LM73](#szksentemperaturelm73--sensor_temperature--lm73)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Sensor_Temperature : LM73
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Temperature-LM73](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Temperature-LM73)
 - Short Link: [http://oom.lt/SZKSENTEMPERATURELM73](http://oom.lt/SZKSENTEMPERATURELM73)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Temperature/LM73/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Temperature/LM73/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Temperature/LM73/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Temperature/LM73/image.png)|||

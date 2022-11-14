@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKOCSSG532CBN > Oscillator : SG-5032CBN](#szkocssg532cbn--oscillator--sg-5032cbn)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Oscillator : SG-5032CBN
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Oscillator-SG-5032CBN](http://oom.lt/SYMBOL-kicad-kicad-symbols-Oscillator-SG-5032CBN)
 - Short Link: [http://oom.lt/SZKOCSSG532CBN](http://oom.lt/SZKOCSSG532CBN)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Oscillator/SG-5032CBN/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Oscillator/SG-5032CBN/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Oscillator/SG-5032CBN/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Oscillator/SG-5032CBN/image.png)|||

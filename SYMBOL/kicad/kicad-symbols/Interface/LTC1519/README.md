@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKINTERFACELTC1519 > Interface : LTC1519](#szkinterfaceltc1519--interface--ltc1519)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Interface : LTC1519
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-LTC1519](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-LTC1519)
 - Short Link: [http://oom.lt/SZKINTERFACELTC1519](http://oom.lt/SZKINTERFACELTC1519)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface/LTC1519/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface/LTC1519/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface/LTC1519/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface/LTC1519/image.png)|||

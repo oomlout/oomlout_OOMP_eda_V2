@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDRIVERMOTORSLA778MPRT > Driver_Motor : SLA7078MPRT](#szkdrivermotorsla778mprt--driver_motor--sla7078mprt)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Driver_Motor : SLA7078MPRT
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_Motor-SLA7078MPRT](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_Motor-SLA7078MPRT)
 - Short Link: [http://oom.lt/SZKDRIVERMOTORSLA778MPRT](http://oom.lt/SZKDRIVERMOTORSLA778MPRT)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Driver_Motor/SLA7078MPRT/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Driver_Motor/SLA7078MPRT/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Driver_Motor/SLA7078MPRT/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Driver_Motor/SLA7078MPRT/image.png)|||

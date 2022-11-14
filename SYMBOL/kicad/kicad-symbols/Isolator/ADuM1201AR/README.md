@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKISOLATORADUM121AR > Isolator : ADuM1201AR](#szkisolatoradum121ar--isolator--adum1201ar)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Isolator : ADuM1201AR
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-ADuM1201AR](http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-ADuM1201AR)
 - Short Link: [http://oom.lt/SZKISOLATORADUM121AR](http://oom.lt/SZKISOLATORADUM121AR)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Isolator/ADuM1201AR/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Isolator/ADuM1201AR/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Isolator/ADuM1201AR/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Isolator/ADuM1201AR/image.png)|||

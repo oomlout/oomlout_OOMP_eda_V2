@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKREGULATORSWITCHINGISL8117FRZ > Regulator_Switching : ISL8117FRZ](#szkregulatorswitchingisl8117frz--regulator_switching--isl8117frz)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Regulator_Switching : ISL8117FRZ
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-ISL8117FRZ](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-ISL8117FRZ)
 - Short Link: [http://oom.lt/SZKREGULATORSWITCHINGISL8117FRZ](http://oom.lt/SZKREGULATORSWITCHINGISL8117FRZ)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/ISL8117FRZ/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/ISL8117FRZ/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/ISL8117FRZ/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/ISL8117FRZ/image.png)|||

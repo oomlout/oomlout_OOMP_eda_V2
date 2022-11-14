@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDIODESM6T18A > Diode : SM6T18A](#szkdiodesm6t18a--diode--sm6t18a)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Diode : SM6T18A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-SM6T18A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-SM6T18A)
 - Short Link: [http://oom.lt/SZKDIODESM6T18A](http://oom.lt/SZKDIODESM6T18A)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Diode/SM6T18A/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Diode/SM6T18A/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Diode/SM6T18A/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Diode/SM6T18A/image.png)|||

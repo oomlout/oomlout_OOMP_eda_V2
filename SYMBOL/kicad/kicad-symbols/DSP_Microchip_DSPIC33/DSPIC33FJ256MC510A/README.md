@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDSPMCHIPDSPIC33DSPIC33FJ256MC51A > DSP_Microchip_DSPIC33 : DSPIC33FJ256MC510A](#szkdspmchipdspic33dspic33fj256mc51a--dsp_microchip_dspic33--dspic33fj256mc510a)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: DSP_Microchip_DSPIC33 : DSPIC33FJ256MC510A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-DSP_Microchip_DSPIC33-DSPIC33FJ256MC510A](http://oom.lt/SYMBOL-kicad-kicad-symbols-DSP_Microchip_DSPIC33-DSPIC33FJ256MC510A)
 - Short Link: [http://oom.lt/SZKDSPMCHIPDSPIC33DSPIC33FJ256MC51A](http://oom.lt/SZKDSPMCHIPDSPIC33DSPIC33FJ256MC51A)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/DSP_Microchip_DSPIC33/DSPIC33FJ256MC510A/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/DSP_Microchip_DSPIC33/DSPIC33FJ256MC510A/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/DSP_Microchip_DSPIC33/DSPIC33FJ256MC510A/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/DSP_Microchip_DSPIC33/DSPIC33FJ256MC510A/image.png)|||

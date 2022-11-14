@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZK74XGXX74LVC2G32 > 74xGxx : 74LVC2G32](#szk74xgxx74lvc2g32--74xgxx--74lvc2g32)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: 74xGxx : 74LVC2G32
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-74xGxx-74LVC2G32](http://oom.lt/SYMBOL-kicad-kicad-symbols-74xGxx-74LVC2G32)
 - Short Link: [http://oom.lt/SZK74XGXX74LVC2G32](http://oom.lt/SZK74XGXX74LVC2G32)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/74xGxx/74LVC2G32/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/74xGxx/74LVC2G32/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/74xGxx/74LVC2G32/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/74xGxx/74LVC2G32/image.png)|||

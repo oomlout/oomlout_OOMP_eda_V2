@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKMCUMOADAFEATHERHUZZAH32ESP32 > MCU_Module : Adafruit_Feather_HUZZAH32_ESP32](#szkmcumoadafeatherhuzzah32esp32--mcu_module--adafruit_feather_huzzah32_esp32)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: MCU_Module : Adafruit_Feather_HUZZAH32_ESP32
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Module-Adafruit_Feather_HUZZAH32_ESP32](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Module-Adafruit_Feather_HUZZAH32_ESP32)
 - Short Link: [http://oom.lt/SZKMCUMOADAFEATHERHUZZAH32ESP32](http://oom.lt/SZKMCUMOADAFEATHERHUZZAH32ESP32)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Module/Adafruit_Feather_HUZZAH32_ESP32/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Module/Adafruit_Feather_HUZZAH32_ESP32/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Module/Adafruit_Feather_HUZZAH32_ESP32/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Module/Adafruit_Feather_HUZZAH32_ESP32/image.png)|||

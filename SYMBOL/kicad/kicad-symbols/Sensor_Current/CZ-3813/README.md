@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKSENCURRENTCZ3813 > Sensor_Current : CZ-3813](#szksencurrentcz3813--sensor_current--cz-3813)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Sensor_Current : CZ-3813
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-CZ-3813](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-CZ-3813)
 - Short Link: [http://oom.lt/SZKSENCURRENTCZ3813](http://oom.lt/SZKSENCURRENTCZ3813)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Current/CZ-3813/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Current/CZ-3813/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Current/CZ-3813/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Current/CZ-3813/image.png)|||

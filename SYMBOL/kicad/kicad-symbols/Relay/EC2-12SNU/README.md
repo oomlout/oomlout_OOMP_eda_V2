@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKRELAYEC212SNU > Relay : EC2-12SNU](#szkrelayec212snu--relay--ec2-12snu)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Relay : EC2-12SNU
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-EC2-12SNU](http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-EC2-12SNU)
 - Short Link: [http://oom.lt/SZKRELAYEC212SNU](http://oom.lt/SZKRELAYEC212SNU)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Relay/EC2-12SNU/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Relay/EC2-12SNU/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Relay/EC2-12SNU/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Relay/EC2-12SNU/image.png)|||

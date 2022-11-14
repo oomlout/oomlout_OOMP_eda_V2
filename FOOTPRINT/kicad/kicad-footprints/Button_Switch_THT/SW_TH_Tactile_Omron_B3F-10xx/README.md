@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKBSWTHTACTILEOMRONB3F1XX > Button_Switch_THT : SW_TH_Tactile_Omron_B3F-10xx](#fzkbswthtactileomronb3f1xx--button_switch_tht--sw_th_tactile_omron_b3f-10xx)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Button_Switch_THT : SW_TH_Tactile_Omron_B3F-10xx
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Button_Switch_THT-SW_TH_Tactile_Omron_B3F-10xx](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Button_Switch_THT-SW_TH_Tactile_Omron_B3F-10xx)
 - Short Link: [http://oom.lt/FZKBSWTHTACTILEOMRONB3F1XX](http://oom.lt/FZKBSWTHTACTILEOMRONB3F1XX)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/SW_TH_Tactile_Omron_B3F-10xx/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/SW_TH_Tactile_Omron_B3F-10xx/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/SW_TH_Tactile_Omron_B3F-10xx/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/SW_TH_Tactile_Omron_B3F-10xx/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/SW_TH_Tactile_Omron_B3F-10xx/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/SW_TH_Tactile_Omron_B3F-10xx/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/SW_TH_Tactile_Omron_B3F-10xx/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/SW_TH_Tactile_Omron_B3F-10xx/kicadPcb3dBack.png)|

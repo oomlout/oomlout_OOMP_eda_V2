@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKTRTR6IC > Transformer : TR60_IC](#szktrtr6ic--transformer--tr60_ic)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Transformer : TR60_IC
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transformer-TR60_IC](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transformer-TR60_IC)
 - Short Link: [http://oom.lt/SZKTRTR6IC](http://oom.lt/SZKTRTR6IC)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transformer/TR60_IC/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transformer/TR60_IC/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transformer/TR60_IC/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transformer/TR60_IC/image.png)|||

@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKINTERFACETELECOMFX614 > Interface_Telecom : FX614](#szkinterfacetelecomfx614--interface_telecom--fx614)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Interface_Telecom : FX614
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Telecom-FX614](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Telecom-FX614)
 - Short Link: [http://oom.lt/SZKINTERFACETELECOMFX614](http://oom.lt/SZKINTERFACETELECOMFX614)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface_Telecom/FX614/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface_Telecom/FX614/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface_Telecom/FX614/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface_Telecom/FX614/image.png)|||

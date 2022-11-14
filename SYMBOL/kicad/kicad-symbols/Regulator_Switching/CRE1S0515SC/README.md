@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKREGULATORSWITCHINGCRE1S515SC > Regulator_Switching : CRE1S0515SC](#szkregulatorswitchingcre1s515sc--regulator_switching--cre1s0515sc)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Regulator_Switching : CRE1S0515SC
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-CRE1S0515SC](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-CRE1S0515SC)
 - Short Link: [http://oom.lt/SZKREGULATORSWITCHINGCRE1S515SC](http://oom.lt/SZKREGULATORSWITCHINGCRE1S515SC)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/CRE1S0515SC/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/CRE1S0515SC/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/CRE1S0515SC/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/CRE1S0515SC/image.png)|||

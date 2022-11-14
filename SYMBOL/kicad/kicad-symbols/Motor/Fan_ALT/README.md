@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKMOTORFANALT > Motor : Fan_ALT](#szkmotorfanalt--motor--fan_alt)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Motor : Fan_ALT
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Motor-Fan_ALT](http://oom.lt/SYMBOL-kicad-kicad-symbols-Motor-Fan_ALT)
 - Short Link: [http://oom.lt/SZKMOTORFANALT](http://oom.lt/SZKMOTORFANALT)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Motor/Fan_ALT/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Motor/Fan_ALT/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Motor/Fan_ALT/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Motor/Fan_ALT/image.png)|||

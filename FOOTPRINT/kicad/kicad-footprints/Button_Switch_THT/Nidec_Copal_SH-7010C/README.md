@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKBNIDECCOPALSH71C > Button_Switch_THT : Nidec_Copal_SH-7010C](#fzkbnideccopalsh71c--button_switch_tht--nidec_copal_sh-7010c)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Button_Switch_THT : Nidec_Copal_SH-7010C
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Button_Switch_THT-Nidec_Copal_SH-7010C](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Button_Switch_THT-Nidec_Copal_SH-7010C)
 - Short Link: [http://oom.lt/FZKBNIDECCOPALSH71C](http://oom.lt/FZKBNIDECCOPALSH71C)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/Nidec_Copal_SH-7010C/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/Nidec_Copal_SH-7010C/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/Nidec_Copal_SH-7010C/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/Nidec_Copal_SH-7010C/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/Nidec_Copal_SH-7010C/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/Nidec_Copal_SH-7010C/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/Nidec_Copal_SH-7010C/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/Nidec_Copal_SH-7010C/kicadPcb3dBack.png)|

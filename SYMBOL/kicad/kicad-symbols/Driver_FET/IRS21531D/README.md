@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDRIVERFETIRS21531D > Driver_FET : IRS21531D](#szkdriverfetirs21531d--driver_fet--irs21531d)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Driver_FET : IRS21531D
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-IRS21531D](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-IRS21531D)
 - Short Link: [http://oom.lt/SZKDRIVERFETIRS21531D](http://oom.lt/SZKDRIVERFETIRS21531D)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Driver_FET/IRS21531D/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Driver_FET/IRS21531D/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Driver_FET/IRS21531D/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Driver_FET/IRS21531D/image.png)|||

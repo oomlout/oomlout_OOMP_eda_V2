@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDEVICEGDT2PIN > Device : GDT_2Pin](#szkdevicegdt2pin--device--gdt_2pin)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Device : GDT_2Pin
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-GDT_2Pin](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-GDT_2Pin)
 - Short Link: [http://oom.lt/SZKDEVICEGDT2PIN](http://oom.lt/SZKDEVICEGDT2PIN)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/GDT_2Pin/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/GDT_2Pin/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/GDT_2Pin/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/GDT_2Pin/image.png)|||

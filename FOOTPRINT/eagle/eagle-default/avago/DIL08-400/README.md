@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZEAVAGODIL84 > avago : DIL08-400](#fzeavagodil84--avago--dil08-400)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: avago : DIL08-400
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-avago-DIL08-400](http://oom.lt/FOOTPRINT-eagle-eagle-default-avago-DIL08-400)
 - Short Link: [http://oom.lt/FZEAVAGODIL84](http://oom.lt/FZEAVAGODIL84)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/avago/DIL08-400/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/avago/DIL08-400/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/avago/DIL08-400/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/avago/DIL08-400/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/avago/DIL08-400/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/avago/DIL08-400/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/avago/DIL08-400/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/avago/DIL08-400/kicadPcb3dBack.png)|

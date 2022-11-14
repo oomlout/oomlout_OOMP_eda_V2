@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZAUMBTMX > adafruit : USB-MINIB-THM-MOLEX-PWRONLY](#fzaumbtmx--adafruit--usb-minib-thm-molex-pwronly)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: adafruit : USB-MINIB-THM-MOLEX-PWRONLY
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-USB-MINIB-THM-MOLEX-PWRONLY](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-USB-MINIB-THM-MOLEX-PWRONLY)
 - Short Link: [http://oom.lt/FZAUMBTMX](http://oom.lt/FZAUMBTMX)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/USB-MINIB-THM-MOLEX-PWRONLY/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/USB-MINIB-THM-MOLEX-PWRONLY/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/USB-MINIB-THM-MOLEX-PWRONLY/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/USB-MINIB-THM-MOLEX-PWRONLY/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/USB-MINIB-THM-MOLEX-PWRONLY/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/USB-MINIB-THM-MOLEX-PWRONLY/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/USB-MINIB-THM-MOLEX-PWRONLY/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/USB-MINIB-THM-MOLEX-PWRONLY/kicadPcb3dBack.png)|

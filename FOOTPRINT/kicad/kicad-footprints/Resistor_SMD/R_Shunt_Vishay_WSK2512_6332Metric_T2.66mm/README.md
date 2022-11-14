@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKRESISTORSMRSHUNTVISHAYWSK25126332METRICT266 > Resistor_SMD : R_Shunt_Vishay_WSK2512_6332Metric_T2.66mm](#fzkresistorsmrshuntvishaywsk25126332metrict266--resistor_smd--r_shunt_vishay_wsk2512_6332metric_t266mm)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Resistor_SMD : R_Shunt_Vishay_WSK2512_6332Metric_T2.66mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_Shunt_Vishay_WSK2512_6332Metric_T2.66mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_Shunt_Vishay_WSK2512_6332Metric_T2.66mm)
 - Short Link: [http://oom.lt/FZKRESISTORSMRSHUNTVISHAYWSK25126332METRICT266](http://oom.lt/FZKRESISTORSMRSHUNTVISHAYWSK25126332METRICT266)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_Shunt_Vishay_WSK2512_6332Metric_T2.66mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_Shunt_Vishay_WSK2512_6332Metric_T2.66mm/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_Shunt_Vishay_WSK2512_6332Metric_T2.66mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_Shunt_Vishay_WSK2512_6332Metric_T2.66mm/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_Shunt_Vishay_WSK2512_6332Metric_T2.66mm/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_Shunt_Vishay_WSK2512_6332Metric_T2.66mm/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_Shunt_Vishay_WSK2512_6332Metric_T2.66mm/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_Shunt_Vishay_WSK2512_6332Metric_T2.66mm/kicadPcb3dBack.png)|

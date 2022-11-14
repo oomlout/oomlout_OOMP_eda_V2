@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDRIVERFETIRS2113M > Driver_FET : IRS2113M](#szkdriverfetirs2113m--driver_fet--irs2113m)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Driver_FET : IRS2113M
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-IRS2113M](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-IRS2113M)
 - Short Link: [http://oom.lt/SZKDRIVERFETIRS2113M](http://oom.lt/SZKDRIVERFETIRS2113M)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Driver_FET/IRS2113M/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Driver_FET/IRS2113M/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Driver_FET/IRS2113M/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Driver_FET/IRS2113M/image.png)|||

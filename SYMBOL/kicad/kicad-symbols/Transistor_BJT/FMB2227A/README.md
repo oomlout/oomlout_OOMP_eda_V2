@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKTRANSISTORBJTFMB2227A > Transistor_BJT : FMB2227A](#szktransistorbjtfmb2227a--transistor_bjt--fmb2227a)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Transistor_BJT : FMB2227A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-FMB2227A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-FMB2227A)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJTFMB2227A](http://oom.lt/SZKTRANSISTORBJTFMB2227A)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_BJT/FMB2227A/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_BJT/FMB2227A/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_BJT/FMB2227A/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_BJT/FMB2227A/image.png)|||

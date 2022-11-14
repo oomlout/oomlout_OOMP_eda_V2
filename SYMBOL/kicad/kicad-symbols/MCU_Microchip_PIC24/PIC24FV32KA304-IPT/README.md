@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKMCUMCHIPPIC24PIC24FV32KA34IPT > MCU_Microchip_PIC24 : PIC24FV32KA304-IPT](#szkmcumchippic24pic24fv32ka34ipt--mcu_microchip_pic24--pic24fv32ka304-ipt)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: MCU_Microchip_PIC24 : PIC24FV32KA304-IPT
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC24-PIC24FV32KA304-IPT](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC24-PIC24FV32KA304-IPT)
 - Short Link: [http://oom.lt/SZKMCUMCHIPPIC24PIC24FV32KA34IPT](http://oom.lt/SZKMCUMCHIPPIC24PIC24FV32KA34IPT)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC24/PIC24FV32KA304-IPT/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC24/PIC24FV32KA304-IPT/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC24/PIC24FV32KA304-IPT/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC24/PIC24FV32KA304-IPT/image.png)|||

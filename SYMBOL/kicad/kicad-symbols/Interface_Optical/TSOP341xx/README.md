@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKINTERFACEOPTICALTS341XX > Interface_Optical : TSOP341xx](#szkinterfaceopticalts341xx--interface_optical--tsop341xx)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Interface_Optical : TSOP341xx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Optical-TSOP341xx](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Optical-TSOP341xx)
 - Short Link: [http://oom.lt/SZKINTERFACEOPTICALTS341XX](http://oom.lt/SZKINTERFACEOPTICALTS341XX)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface_Optical/TSOP341xx/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface_Optical/TSOP341xx/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface_Optical/TSOP341xx/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface_Optical/TSOP341xx/image.png)|||

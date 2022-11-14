@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKREGULATORLINEARLP298ADJ > Regulator_Linear : LP2980-ADJ](#szkregulatorlinearlp298adj--regulator_linear--lp2980-adj)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Regulator_Linear : LP2980-ADJ
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LP2980-ADJ](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LP2980-ADJ)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARLP298ADJ](http://oom.lt/SZKREGULATORLINEARLP298ADJ)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LP2980-ADJ/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LP2980-ADJ/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LP2980-ADJ/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LP2980-ADJ/image.png)|||

@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKSONTEXASSPWSONN1THERMALVIAS > Package_SON : Texas_S-PWSON-N10_ThermalVias](#fzksontexasspwsonn1thermalvias--package_son--texas_s-pwson-n10_thermalvias)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Package_SON : Texas_S-PWSON-N10_ThermalVias
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SON-Texas_S-PWSON-N10_ThermalVias](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SON-Texas_S-PWSON-N10_ThermalVias)
 - Short Link: [http://oom.lt/FZKSONTEXASSPWSONN1THERMALVIAS](http://oom.lt/FZKSONTEXASSPWSONN1THERMALVIAS)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_SON/Texas_S-PWSON-N10_ThermalVias/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_SON/Texas_S-PWSON-N10_ThermalVias/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_SON/Texas_S-PWSON-N10_ThermalVias/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_SON/Texas_S-PWSON-N10_ThermalVias/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_SON/Texas_S-PWSON-N10_ThermalVias/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_SON/Texas_S-PWSON-N10_ThermalVias/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_SON/Texas_S-PWSON-N10_ThermalVias/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_SON/Texas_S-PWSON-N10_ThermalVias/kicadPcb3dBack.png)|

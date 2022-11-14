@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKREGULATORSWITCHINGADP571AREZ > Regulator_Switching : ADP5071AREZ](#szkregulatorswitchingadp571arez--regulator_switching--adp5071arez)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Regulator_Switching : ADP5071AREZ
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-ADP5071AREZ](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-ADP5071AREZ)
 - Short Link: [http://oom.lt/SZKREGULATORSWITCHINGADP571AREZ](http://oom.lt/SZKREGULATORSWITCHINGADP571AREZ)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/ADP5071AREZ/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/ADP5071AREZ/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/ADP5071AREZ/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/ADP5071AREZ/image.png)|||

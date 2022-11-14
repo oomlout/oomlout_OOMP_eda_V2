@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKSENTEMPERATUREMCP953 > Sensor_Temperature : MCP9503](#szksentemperaturemcp953--sensor_temperature--mcp9503)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Sensor_Temperature : MCP9503
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Temperature-MCP9503](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Temperature-MCP9503)
 - Short Link: [http://oom.lt/SZKSENTEMPERATUREMCP953](http://oom.lt/SZKSENTEMPERATUREMCP953)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Temperature/MCP9503/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Temperature/MCP9503/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Temperature/MCP9503/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Temperature/MCP9503/image.png)|||

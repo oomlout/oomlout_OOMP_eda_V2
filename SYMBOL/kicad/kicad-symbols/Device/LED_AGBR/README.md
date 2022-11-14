@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDEVICELAGBR > Device : LED_AGBR](#szkdevicelagbr--device--led_agbr)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Device : LED_AGBR
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-LED_AGBR](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-LED_AGBR)
 - Short Link: [http://oom.lt/SZKDEVICELAGBR](http://oom.lt/SZKDEVICELAGBR)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/LED_AGBR/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/LED_AGBR/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/LED_AGBR/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/LED_AGBR/image.png)|||

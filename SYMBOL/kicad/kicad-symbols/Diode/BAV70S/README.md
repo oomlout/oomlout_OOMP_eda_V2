@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDIODEBAV7S > Diode : BAV70S](#szkdiodebav7s--diode--bav70s)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Diode : BAV70S
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-BAV70S](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-BAV70S)
 - Short Link: [http://oom.lt/SZKDIODEBAV7S](http://oom.lt/SZKDIODEBAV7S)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Diode/BAV70S/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Diode/BAV70S/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Diode/BAV70S/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Diode/BAV70S/image.png)|||

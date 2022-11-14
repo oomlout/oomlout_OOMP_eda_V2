@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKCPUNXPIMXMCIMX6QP7CVT > CPU_NXP_IMX : MCIMX6QP7CVT](#szkcpunxpimxmcimx6qp7cvt--cpu_nxp_imx--mcimx6qp7cvt)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: CPU_NXP_IMX : MCIMX6QP7CVT
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-CPU_NXP_IMX-MCIMX6QP7CVT](http://oom.lt/SYMBOL-kicad-kicad-symbols-CPU_NXP_IMX-MCIMX6QP7CVT)
 - Short Link: [http://oom.lt/SZKCPUNXPIMXMCIMX6QP7CVT](http://oom.lt/SZKCPUNXPIMXMCIMX6QP7CVT)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/CPU_NXP_IMX/MCIMX6QP7CVT/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/CPU_NXP_IMX/MCIMX6QP7CVT/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/CPU_NXP_IMX/MCIMX6QP7CVT/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/CPU_NXP_IMX/MCIMX6QP7CVT/image.png)|||

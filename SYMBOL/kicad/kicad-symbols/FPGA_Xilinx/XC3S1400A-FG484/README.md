@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKFPGAXILINXXC3S14AFG484 > FPGA_Xilinx : XC3S1400A-FG484](#szkfpgaxilinxxc3s14afg484--fpga_xilinx--xc3s1400a-fg484)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: FPGA_Xilinx : XC3S1400A-FG484
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-FPGA_Xilinx-XC3S1400A-FG484](http://oom.lt/SYMBOL-kicad-kicad-symbols-FPGA_Xilinx-XC3S1400A-FG484)
 - Short Link: [http://oom.lt/SZKFPGAXILINXXC3S14AFG484](http://oom.lt/SZKFPGAXILINXXC3S14AFG484)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/FPGA_Xilinx/XC3S1400A-FG484/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/FPGA_Xilinx/XC3S1400A-FG484/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/FPGA_Xilinx/XC3S1400A-FG484/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/FPGA_Xilinx/XC3S1400A-FG484/image.png)|||

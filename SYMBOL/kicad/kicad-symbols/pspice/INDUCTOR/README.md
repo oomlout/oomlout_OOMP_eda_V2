@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKPSPICEINDUCTOR > pspice : INDUCTOR](#szkpspiceinductor--pspice--inductor)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: pspice : INDUCTOR
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-pspice-INDUCTOR](http://oom.lt/SYMBOL-kicad-kicad-symbols-pspice-INDUCTOR)
 - Short Link: [http://oom.lt/SZKPSPICEINDUCTOR](http://oom.lt/SZKPSPICEINDUCTOR)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/pspice/INDUCTOR/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/pspice/INDUCTOR/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/pspice/INDUCTOR/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/pspice/INDUCTOR/image.png)|||

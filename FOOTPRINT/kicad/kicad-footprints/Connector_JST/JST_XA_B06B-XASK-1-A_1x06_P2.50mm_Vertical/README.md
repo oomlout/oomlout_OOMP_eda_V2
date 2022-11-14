@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKCNJSTJSTXAB6BXASK1A1X6P25VERTICAL > Connector_JST : JST_XA_B06B-XASK-1-A_1x06_P2.50mm_Vertical](#fzkcnjstjstxab6bxask1a1x6p25vertical--connector_jst--jst_xa_b06b-xask-1-a_1x06_p250mm_vertical)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Connector_JST : JST_XA_B06B-XASK-1-A_1x06_P2.50mm_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_XA_B06B-XASK-1-A_1x06_P2.50mm_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_XA_B06B-XASK-1-A_1x06_P2.50mm_Vertical)
 - Short Link: [http://oom.lt/FZKCNJSTJSTXAB6BXASK1A1X6P25VERTICAL](http://oom.lt/FZKCNJSTJSTXAB6BXASK1A1X6P25VERTICAL)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_XA_B06B-XASK-1-A_1x06_P2.50mm_Vertical/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_XA_B06B-XASK-1-A_1x06_P2.50mm_Vertical/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_XA_B06B-XASK-1-A_1x06_P2.50mm_Vertical/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_XA_B06B-XASK-1-A_1x06_P2.50mm_Vertical/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_XA_B06B-XASK-1-A_1x06_P2.50mm_Vertical/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_XA_B06B-XASK-1-A_1x06_P2.50mm_Vertical/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_XA_B06B-XASK-1-A_1x06_P2.50mm_Vertical/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_XA_B06B-XASK-1-A_1x06_P2.50mm_Vertical/kicadPcb3dBack.png)|

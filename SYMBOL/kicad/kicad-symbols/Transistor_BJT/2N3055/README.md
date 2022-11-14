@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKTRANSISTORBJT2N355 > Transistor_BJT : 2N3055](#szktransistorbjt2n355--transistor_bjt--2n3055)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Transistor_BJT : 2N3055
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-2N3055](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-2N3055)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJT2N355](http://oom.lt/SZKTRANSISTORBJT2N355)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_BJT/2N3055/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_BJT/2N3055/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_BJT/2N3055/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_BJT/2N3055/image.png)|||

@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDEVICERVARIABLEUS > Device : R_Variable_US](#szkdevicervariableus--device--r_variable_us)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Device : R_Variable_US
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-R_Variable_US](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-R_Variable_US)
 - Short Link: [http://oom.lt/SZKDEVICERVARIABLEUS](http://oom.lt/SZKDEVICERVARIABLEUS)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/R_Variable_US/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/R_Variable_US/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/R_Variable_US/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/R_Variable_US/image.png)|||

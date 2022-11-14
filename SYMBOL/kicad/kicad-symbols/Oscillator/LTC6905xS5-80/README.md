@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKOCSLTC695XS58 > Oscillator : LTC6905xS5-80](#szkocsltc695xs58--oscillator--ltc6905xs5-80)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Oscillator : LTC6905xS5-80
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Oscillator-LTC6905xS5-80](http://oom.lt/SYMBOL-kicad-kicad-symbols-Oscillator-LTC6905xS5-80)
 - Short Link: [http://oom.lt/SZKOCSLTC695XS58](http://oom.lt/SZKOCSLTC695XS58)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Oscillator/LTC6905xS5-80/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Oscillator/LTC6905xS5-80/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Oscillator/LTC6905xS5-80/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Oscillator/LTC6905xS5-80/image.png)|||

@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKREGULATORLINEARAMS1117CS15 > Regulator_Linear : AMS1117CS-1.5](#szkregulatorlinearams1117cs15--regulator_linear--ams1117cs-15)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Regulator_Linear : AMS1117CS-1.5
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-AMS1117CS-1.5](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-AMS1117CS-1.5)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARAMS1117CS15](http://oom.lt/SZKREGULATORLINEARAMS1117CS15)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/AMS1117CS-1.5/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/AMS1117CS-1.5/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/AMS1117CS-1.5/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/AMS1117CS-1.5/image.png)|||

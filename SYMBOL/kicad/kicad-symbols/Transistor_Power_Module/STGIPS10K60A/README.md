@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKTRANSISTORPOWERMOSTGIPS1K6A > Transistor_Power_Module : STGIPS10K60A](#szktransistorpowermostgips1k6a--transistor_power_module--stgips10k60a)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Transistor_Power_Module : STGIPS10K60A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_Power_Module-STGIPS10K60A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_Power_Module-STGIPS10K60A)
 - Short Link: [http://oom.lt/SZKTRANSISTORPOWERMOSTGIPS1K6A](http://oom.lt/SZKTRANSISTORPOWERMOSTGIPS1K6A)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_Power_Module/STGIPS10K60A/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_Power_Module/STGIPS10K60A/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_Power_Module/STGIPS10K60A/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_Power_Module/STGIPS10K60A/image.png)|||

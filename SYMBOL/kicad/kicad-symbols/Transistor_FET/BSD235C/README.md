@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKTRANSISTORFETBSD235C > Transistor_FET : BSD235C](#szktransistorfetbsd235c--transistor_fet--bsd235c)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Transistor_FET : BSD235C
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-BSD235C](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-BSD235C)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETBSD235C](http://oom.lt/SZKTRANSISTORFETBSD235C)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/BSD235C/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/BSD235C/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/BSD235C/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/BSD235C/image.png)|||

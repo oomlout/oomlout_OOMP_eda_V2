@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKTRANSISTORBJTPUMT1 > Transistor_BJT : PUMT1](#szktransistorbjtpumt1--transistor_bjt--pumt1)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Transistor_BJT : PUMT1
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-PUMT1](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-PUMT1)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJTPUMT1](http://oom.lt/SZKTRANSISTORBJTPUMT1)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_BJT/PUMT1/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_BJT/PUMT1/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_BJT/PUMT1/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_BJT/PUMT1/image.png)|||

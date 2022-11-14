@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKREGULATORSWITCHINGMCP164DMC > Regulator_Switching : MCP1640DMC](#szkregulatorswitchingmcp164dmc--regulator_switching--mcp1640dmc)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Regulator_Switching : MCP1640DMC
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-MCP1640DMC](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-MCP1640DMC)
 - Short Link: [http://oom.lt/SZKREGULATORSWITCHINGMCP164DMC](http://oom.lt/SZKREGULATORSWITCHINGMCP164DMC)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/MCP1640DMC/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/MCP1640DMC/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/MCP1640DMC/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/MCP1640DMC/image.png)|||

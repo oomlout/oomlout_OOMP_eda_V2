@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKREGULATORSWITCHINGGL2576ATA5R > Regulator_Switching : GL2576-ATA5R](#szkregulatorswitchinggl2576ata5r--regulator_switching--gl2576-ata5r)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Regulator_Switching : GL2576-ATA5R
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-GL2576-ATA5R](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-GL2576-ATA5R)
 - Short Link: [http://oom.lt/SZKREGULATORSWITCHINGGL2576ATA5R](http://oom.lt/SZKREGULATORSWITCHINGGL2576ATA5R)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/GL2576-ATA5R/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/GL2576-ATA5R/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/GL2576-ATA5R/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/GL2576-ATA5R/image.png)|||

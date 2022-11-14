@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDIGRAPHICEADOGL128X6 > Display_Graphic : EA_DOGL128X-6](#szkdigraphiceadogl128x6--display_graphic--ea_dogl128x-6)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Display_Graphic : EA_DOGL128X-6
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Graphic-EA_DOGL128X-6](http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Graphic-EA_DOGL128X-6)
 - Short Link: [http://oom.lt/SZKDIGRAPHICEADOGL128X6](http://oom.lt/SZKDIGRAPHICEADOGL128X6)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Display_Graphic/EA_DOGL128X-6/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Display_Graphic/EA_DOGL128X-6/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Display_Graphic/EA_DOGL128X-6/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Display_Graphic/EA_DOGL128X-6/image.png)|||

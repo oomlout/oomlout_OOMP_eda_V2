@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKANALOGDACMCP4725XXXXCH > Analog_DAC : MCP4725xxx-xCH](#szkanalogdacmcp4725xxxxch--analog_dac--mcp4725xxx-xch)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Analog_DAC : MCP4725xxx-xCH
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_DAC-MCP4725xxx-xCH](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_DAC-MCP4725xxx-xCH)
 - Short Link: [http://oom.lt/SZKANALOGDACMCP4725XXXXCH](http://oom.lt/SZKANALOGDACMCP4725XXXXCH)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Analog_DAC/MCP4725xxx-xCH/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Analog_DAC/MCP4725xxx-xCH/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Analog_DAC/MCP4725xxx-xCH/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Analog_DAC/MCP4725xxx-xCH/image.png)|||

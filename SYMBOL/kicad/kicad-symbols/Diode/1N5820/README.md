@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDIODE1N582 > Diode : 1N5820](#szkdiode1n582--diode--1n5820)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Diode : 1N5820
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-1N5820](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-1N5820)
 - Short Link: [http://oom.lt/SZKDIODE1N582](http://oom.lt/SZKDIODE1N582)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Diode/1N5820/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Diode/1N5820/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Diode/1N5820/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Diode/1N5820/image.png)|||

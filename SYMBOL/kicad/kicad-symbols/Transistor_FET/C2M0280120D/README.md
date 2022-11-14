@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKTRANSISTORFETC2M2812D > Transistor_FET : C2M0280120D](#szktransistorfetc2m2812d--transistor_fet--c2m0280120d)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Transistor_FET : C2M0280120D
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-C2M0280120D](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-C2M0280120D)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETC2M2812D](http://oom.lt/SZKTRANSISTORFETC2M2812D)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/C2M0280120D/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/C2M0280120D/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/C2M0280120D/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/C2M0280120D/image.png)|||

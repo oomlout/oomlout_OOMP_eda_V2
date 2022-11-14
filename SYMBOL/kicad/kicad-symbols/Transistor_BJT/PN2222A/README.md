@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKTRANSISTORBJTPN2222A > Transistor_BJT : PN2222A](#szktransistorbjtpn2222a--transistor_bjt--pn2222a)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Transistor_BJT : PN2222A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-PN2222A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-PN2222A)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJTPN2222A](http://oom.lt/SZKTRANSISTORBJTPN2222A)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_BJT/PN2222A/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_BJT/PN2222A/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_BJT/PN2222A/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_BJT/PN2222A/image.png)|||

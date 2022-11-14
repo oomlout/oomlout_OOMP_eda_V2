@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKDIADASSD136 > Display : Adafruit_SSD1306](#fzkdiadassd136--display--adafruit_ssd1306)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Display : Adafruit_SSD1306
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Display-Adafruit_SSD1306](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Display-Adafruit_SSD1306)
 - Short Link: [http://oom.lt/FZKDIADASSD136](http://oom.lt/FZKDIADASSD136)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Display/Adafruit_SSD1306/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Display/Adafruit_SSD1306/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Display/Adafruit_SSD1306/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Display/Adafruit_SSD1306/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Display/Adafruit_SSD1306/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Display/Adafruit_SSD1306/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Display/Adafruit_SSD1306/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Display/Adafruit_SSD1306/kicadPcb3dBack.png)|

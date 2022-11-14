@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZEBURRBROWNSO1618 > burr-brown : SO16-1_8](#fzeburrbrownso1618--burr-brown--so16-1_8)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: burr-brown : SO16-1_8
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-burr-brown-SO16-1_8](http://oom.lt/FOOTPRINT-eagle-eagle-default-burr-brown-SO16-1_8)
 - Short Link: [http://oom.lt/FZEBURRBROWNSO1618](http://oom.lt/FZEBURRBROWNSO1618)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/burr-brown/SO16-1_8/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/burr-brown/SO16-1_8/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/burr-brown/SO16-1_8/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/burr-brown/SO16-1_8/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/burr-brown/SO16-1_8/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/burr-brown/SO16-1_8/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/burr-brown/SO16-1_8/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/burr-brown/SO16-1_8/kicadPcb3dBack.png)|

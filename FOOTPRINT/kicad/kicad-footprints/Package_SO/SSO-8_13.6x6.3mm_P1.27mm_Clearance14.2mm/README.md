@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKSOSSO8136X63P127CLEARANCE142 > Package_SO : SSO-8_13.6x6.3mm_P1.27mm_Clearance14.2mm](#fzksosso8136x63p127clearance142--package_so--sso-8_136x63mm_p127mm_clearance142mm)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Package_SO : SSO-8_13.6x6.3mm_P1.27mm_Clearance14.2mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SO-SSO-8_13.6x6.3mm_P1.27mm_Clearance14.2mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SO-SSO-8_13.6x6.3mm_P1.27mm_Clearance14.2mm)
 - Short Link: [http://oom.lt/FZKSOSSO8136X63P127CLEARANCE142](http://oom.lt/FZKSOSSO8136X63P127CLEARANCE142)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/SSO-8_13.6x6.3mm_P1.27mm_Clearance14.2mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/SSO-8_13.6x6.3mm_P1.27mm_Clearance14.2mm/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/SSO-8_13.6x6.3mm_P1.27mm_Clearance14.2mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/SSO-8_13.6x6.3mm_P1.27mm_Clearance14.2mm/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/SSO-8_13.6x6.3mm_P1.27mm_Clearance14.2mm/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/SSO-8_13.6x6.3mm_P1.27mm_Clearance14.2mm/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/SSO-8_13.6x6.3mm_P1.27mm_Clearance14.2mm/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/SSO-8_13.6x6.3mm_P1.27mm_Clearance14.2mm/kicadPcb3dBack.png)|

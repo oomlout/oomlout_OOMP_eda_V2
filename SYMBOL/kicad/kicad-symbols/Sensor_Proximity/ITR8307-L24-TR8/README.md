@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKSENPROXIMITYITR837L24TR8 > Sensor_Proximity : ITR8307-L24-TR8](#szksenproximityitr837l24tr8--sensor_proximity--itr8307-l24-tr8)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Sensor_Proximity : ITR8307-L24-TR8
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Proximity-ITR8307-L24-TR8](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Proximity-ITR8307-L24-TR8)
 - Short Link: [http://oom.lt/SZKSENPROXIMITYITR837L24TR8](http://oom.lt/SZKSENPROXIMITYITR837L24TR8)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Proximity/ITR8307-L24-TR8/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Proximity/ITR8307-L24-TR8/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Proximity/ITR8307-L24-TR8/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Proximity/ITR8307-L24-TR8/image.png)|||

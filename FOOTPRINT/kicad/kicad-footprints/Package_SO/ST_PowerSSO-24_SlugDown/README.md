@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKSOSTPOWERSSO24SLUGDOWN > Package_SO : ST_PowerSSO-24_SlugDown](#fzksostpowersso24slugdown--package_so--st_powersso-24_slugdown)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Package_SO : ST_PowerSSO-24_SlugDown
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SO-ST_PowerSSO-24_SlugDown](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SO-ST_PowerSSO-24_SlugDown)
 - Short Link: [http://oom.lt/FZKSOSTPOWERSSO24SLUGDOWN](http://oom.lt/FZKSOSTPOWERSSO24SLUGDOWN)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/ST_PowerSSO-24_SlugDown/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/ST_PowerSSO-24_SlugDown/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/ST_PowerSSO-24_SlugDown/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/ST_PowerSSO-24_SlugDown/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/ST_PowerSSO-24_SlugDown/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/ST_PowerSSO-24_SlugDown/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/ST_PowerSSO-24_SlugDown/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/ST_PowerSSO-24_SlugDown/kicadPcb3dBack.png)|

@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKINTERFACEETHERNETKSZ9893RNX > Interface_Ethernet : KSZ9893RNX](#szkinterfaceethernetksz9893rnx--interface_ethernet--ksz9893rnx)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Interface_Ethernet : KSZ9893RNX
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Ethernet-KSZ9893RNX](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Ethernet-KSZ9893RNX)
 - Short Link: [http://oom.lt/SZKINTERFACEETHERNETKSZ9893RNX](http://oom.lt/SZKINTERFACEETHERNETKSZ9893RNX)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface_Ethernet/KSZ9893RNX/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface_Ethernet/KSZ9893RNX/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface_Ethernet/KSZ9893RNX/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface_Ethernet/KSZ9893RNX/image.png)|||

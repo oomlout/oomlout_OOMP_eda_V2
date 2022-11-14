@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKCNTECONNECTIVITYTE82657621X2P396VERTICAL > Connector_TE-Connectivity : TE_826576-2_1x02_P3.96mm_Vertical](#fzkcnteconnectivityte82657621x2p396vertical--connector_te-connectivity--te_826576-2_1x02_p396mm_vertical)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Connector_TE-Connectivity : TE_826576-2_1x02_P3.96mm_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_TE-Connectivity-TE_826576-2_1x02_P3.96mm_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_TE-Connectivity-TE_826576-2_1x02_P3.96mm_Vertical)
 - Short Link: [http://oom.lt/FZKCNTECONNECTIVITYTE82657621X2P396VERTICAL](http://oom.lt/FZKCNTECONNECTIVITYTE82657621X2P396VERTICAL)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_TE-Connectivity/TE_826576-2_1x02_P3.96mm_Vertical/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_TE-Connectivity/TE_826576-2_1x02_P3.96mm_Vertical/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_TE-Connectivity/TE_826576-2_1x02_P3.96mm_Vertical/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_TE-Connectivity/TE_826576-2_1x02_P3.96mm_Vertical/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_TE-Connectivity/TE_826576-2_1x02_P3.96mm_Vertical/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_TE-Connectivity/TE_826576-2_1x02_P3.96mm_Vertical/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_TE-Connectivity/TE_826576-2_1x02_P3.96mm_Vertical/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_TE-Connectivity/TE_826576-2_1x02_P3.96mm_Vertical/kicadPcb3dBack.png)|

@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDIODES2JTR > Diode : S2JTR](#szkdiodes2jtr--diode--s2jtr)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Diode : S2JTR
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-S2JTR](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-S2JTR)
 - Short Link: [http://oom.lt/SZKDIODES2JTR](http://oom.lt/SZKDIODES2JTR)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Diode/S2JTR/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Diode/S2JTR/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Diode/S2JTR/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Diode/S2JTR/image.png)|||

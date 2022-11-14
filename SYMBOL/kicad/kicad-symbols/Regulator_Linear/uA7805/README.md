@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKREGULATORLINEARUA785 > Regulator_Linear : uA7805](#szkregulatorlinearua785--regulator_linear--ua7805)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Regulator_Linear : uA7805
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-uA7805](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-uA7805)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARUA785](http://oom.lt/SZKREGULATORLINEARUA785)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/uA7805/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/uA7805/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/uA7805/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/uA7805/image.png)|||

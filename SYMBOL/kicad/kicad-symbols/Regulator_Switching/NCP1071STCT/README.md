@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKREGULATORSWITCHINGNCP171STCT > Regulator_Switching : NCP1071STCT](#szkregulatorswitchingncp171stct--regulator_switching--ncp1071stct)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Regulator_Switching : NCP1071STCT
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-NCP1071STCT](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-NCP1071STCT)
 - Short Link: [http://oom.lt/SZKREGULATORSWITCHINGNCP171STCT](http://oom.lt/SZKREGULATORSWITCHINGNCP171STCT)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/NCP1071STCT/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/NCP1071STCT/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/NCP1071STCT/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/NCP1071STCT/image.png)|||

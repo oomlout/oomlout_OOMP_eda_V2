@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKANALOGADCLTC146CGN > Analog_ADC : LTC1406CGN](#szkanalogadcltc146cgn--analog_adc--ltc1406cgn)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Analog_ADC : LTC1406CGN
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-LTC1406CGN](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-LTC1406CGN)
 - Short Link: [http://oom.lt/SZKANALOGADCLTC146CGN](http://oom.lt/SZKANALOGADCLTC146CGN)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Analog_ADC/LTC1406CGN/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Analog_ADC/LTC1406CGN/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Analog_ADC/LTC1406CGN/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Analog_ADC/LTC1406CGN/image.png)|||

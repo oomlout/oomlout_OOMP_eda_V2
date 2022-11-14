@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKISOLATORISO7763DBQ > Isolator : ISO7763DBQ](#szkisolatoriso7763dbq--isolator--iso7763dbq)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Isolator : ISO7763DBQ
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-ISO7763DBQ](http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-ISO7763DBQ)
 - Short Link: [http://oom.lt/SZKISOLATORISO7763DBQ](http://oom.lt/SZKISOLATORISO7763DBQ)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Isolator/ISO7763DBQ/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Isolator/ISO7763DBQ/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Isolator/ISO7763DBQ/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Isolator/ISO7763DBQ/image.png)|||

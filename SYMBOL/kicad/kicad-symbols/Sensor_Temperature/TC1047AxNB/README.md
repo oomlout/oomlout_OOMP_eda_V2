@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKSENTEMPERATURETC147AXNB > Sensor_Temperature : TC1047AxNB](#szksentemperaturetc147axnb--sensor_temperature--tc1047axnb)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Sensor_Temperature : TC1047AxNB
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Temperature-TC1047AxNB](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Temperature-TC1047AxNB)
 - Short Link: [http://oom.lt/SZKSENTEMPERATURETC147AXNB](http://oom.lt/SZKSENTEMPERATURETC147AXNB)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Temperature/TC1047AxNB/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Temperature/TC1047AxNB/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Temperature/TC1047AxNB/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Temperature/TC1047AxNB/image.png)|||

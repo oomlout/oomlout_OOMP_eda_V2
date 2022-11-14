@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKCNSAMTECSAMTECLSHM12XXXXDVS2X21SHP5VERTICAL > Connector_Samtec : Samtec_LSHM-120-xx.x-x-DV-S_2x20-1SH_P0.50mm_Vertical](#fzkcnsamtecsamteclshm12xxxxdvs2x21shp5vertical--connector_samtec--samtec_lshm-120-xxx-x-dv-s_2x20-1sh_p050mm_vertical)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Connector_Samtec : Samtec_LSHM-120-xx.x-x-DV-S_2x20-1SH_P0.50mm_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Samtec-Samtec_LSHM-120-xx.x-x-DV-S_2x20-1SH_P0.50mm_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Samtec-Samtec_LSHM-120-xx.x-x-DV-S_2x20-1SH_P0.50mm_Vertical)
 - Short Link: [http://oom.lt/FZKCNSAMTECSAMTECLSHM12XXXXDVS2X21SHP5VERTICAL](http://oom.lt/FZKCNSAMTECSAMTECLSHM12XXXXDVS2X21SHP5VERTICAL)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Samtec/Samtec_LSHM-120-xx.x-x-DV-S_2x20-1SH_P0.50mm_Vertical/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Samtec/Samtec_LSHM-120-xx.x-x-DV-S_2x20-1SH_P0.50mm_Vertical/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Samtec/Samtec_LSHM-120-xx.x-x-DV-S_2x20-1SH_P0.50mm_Vertical/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Samtec/Samtec_LSHM-120-xx.x-x-DV-S_2x20-1SH_P0.50mm_Vertical/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Samtec/Samtec_LSHM-120-xx.x-x-DV-S_2x20-1SH_P0.50mm_Vertical/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Samtec/Samtec_LSHM-120-xx.x-x-DV-S_2x20-1SH_P0.50mm_Vertical/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Samtec/Samtec_LSHM-120-xx.x-x-DV-S_2x20-1SH_P0.50mm_Vertical/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Samtec/Samtec_LSHM-120-xx.x-x-DV-S_2x20-1SH_P0.50mm_Vertical/kicadPcb3dBack.png)|

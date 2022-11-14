@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDICHARACTERMAN344A > Display_Character : MAN3440A](#szkdicharacterman344a--display_character--man3440a)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Display_Character : MAN3440A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-MAN3440A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-MAN3440A)
 - Short Link: [http://oom.lt/SZKDICHARACTERMAN344A](http://oom.lt/SZKDICHARACTERMAN344A)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Display_Character/MAN3440A/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Display_Character/MAN3440A/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Display_Character/MAN3440A/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Display_Character/MAN3440A/image.png)|||

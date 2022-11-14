@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKPOWER+5F > power : +5F](#szkpower5f--power--5f)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: power : +5F
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-power-+5F](http://oom.lt/SYMBOL-kicad-kicad-symbols-power-+5F)
 - Short Link: [http://oom.lt/SZKPOWER+5F](http://oom.lt/SZKPOWER+5F)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/power/+5F/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/power/+5F/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/power/+5F/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/power/+5F/image.png)|||

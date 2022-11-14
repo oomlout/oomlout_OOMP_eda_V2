@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKFPGAMSEMIACT1225PL84 > FPGA_Microsemi : ACT1225PL84](#szkfpgamsemiact1225pl84--fpga_microsemi--act1225pl84)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: FPGA_Microsemi : ACT1225PL84
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-FPGA_Microsemi-ACT1225PL84](http://oom.lt/SYMBOL-kicad-kicad-symbols-FPGA_Microsemi-ACT1225PL84)
 - Short Link: [http://oom.lt/SZKFPGAMSEMIACT1225PL84](http://oom.lt/SZKFPGAMSEMIACT1225PL84)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/FPGA_Microsemi/ACT1225PL84/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/FPGA_Microsemi/ACT1225PL84/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/FPGA_Microsemi/ACT1225PL84/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/FPGA_Microsemi/ACT1225PL84/image.png)|||

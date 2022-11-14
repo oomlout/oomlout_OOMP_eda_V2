@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKMEMORYRAMIDT721 > Memory_RAM : IDT7201](#szkmemoryramidt721--memory_ram--idt7201)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Memory_RAM : IDT7201
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_RAM-IDT7201](http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_RAM-IDT7201)
 - Short Link: [http://oom.lt/SZKMEMORYRAMIDT721](http://oom.lt/SZKMEMORYRAMIDT721)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Memory_RAM/IDT7201/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Memory_RAM/IDT7201/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Memory_RAM/IDT7201/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Memory_RAM/IDT7201/image.png)|||

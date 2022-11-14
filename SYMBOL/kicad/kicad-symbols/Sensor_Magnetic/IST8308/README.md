@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKSENMAGNETICIST838 > Sensor_Magnetic : IST8308](#szksenmagneticist838--sensor_magnetic--ist8308)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Sensor_Magnetic : IST8308
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Magnetic-IST8308](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Magnetic-IST8308)
 - Short Link: [http://oom.lt/SZKSENMAGNETICIST838](http://oom.lt/SZKSENMAGNETICIST838)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Magnetic/IST8308/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Magnetic/IST8308/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Magnetic/IST8308/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Magnetic/IST8308/image.png)|||

@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKSIMULATIONSPICEIDC > Simulation_SPICE : IDC](#szksimulationspiceidc--simulation_spice--idc)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Simulation_SPICE : IDC
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Simulation_SPICE-IDC](http://oom.lt/SYMBOL-kicad-kicad-symbols-Simulation_SPICE-IDC)
 - Short Link: [http://oom.lt/SZKSIMULATIONSPICEIDC](http://oom.lt/SZKSIMULATIONSPICEIDC)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Simulation_SPICE/IDC/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Simulation_SPICE/IDC/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Simulation_SPICE/IDC/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Simulation_SPICE/IDC/image.png)|||

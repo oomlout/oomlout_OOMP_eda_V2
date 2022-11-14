@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDEVICEQNIGBTGCE > Device : Q_NIGBT_GCE](#szkdeviceqnigbtgce--device--q_nigbt_gce)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Device : Q_NIGBT_GCE
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Q_NIGBT_GCE](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Q_NIGBT_GCE)
 - Short Link: [http://oom.lt/SZKDEVICEQNIGBTGCE](http://oom.lt/SZKDEVICEQNIGBTGCE)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/Q_NIGBT_GCE/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/Q_NIGBT_GCE/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/Q_NIGBT_GCE/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/Q_NIGBT_GCE/image.png)|||

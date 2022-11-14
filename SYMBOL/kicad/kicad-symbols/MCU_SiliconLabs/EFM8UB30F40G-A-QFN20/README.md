@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKMCUSILICONLABSEFM8UB3F4GAQFN2 > MCU_SiliconLabs : EFM8UB30F40G-A-QFN20](#szkmcusiliconlabsefm8ub3f4gaqfn2--mcu_siliconlabs--efm8ub30f40g-a-qfn20)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: MCU_SiliconLabs : EFM8UB30F40G-A-QFN20
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_SiliconLabs-EFM8UB30F40G-A-QFN20](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_SiliconLabs-EFM8UB30F40G-A-QFN20)
 - Short Link: [http://oom.lt/SZKMCUSILICONLABSEFM8UB3F4GAQFN2](http://oom.lt/SZKMCUSILICONLABSEFM8UB3F4GAQFN2)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_SiliconLabs/EFM8UB30F40G-A-QFN20/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_SiliconLabs/EFM8UB30F40G-A-QFN20/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_SiliconLabs/EFM8UB30F40G-A-QFN20/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_SiliconLabs/EFM8UB30F40G-A-QFN20/image.png)|||

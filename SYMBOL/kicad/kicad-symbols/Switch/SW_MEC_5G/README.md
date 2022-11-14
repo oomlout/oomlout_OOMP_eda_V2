@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKSWITCHSWMEC5G > Switch : SW_MEC_5G](#szkswitchswmec5g--switch--sw_mec_5g)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Switch : SW_MEC_5G
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Switch-SW_MEC_5G](http://oom.lt/SYMBOL-kicad-kicad-symbols-Switch-SW_MEC_5G)
 - Short Link: [http://oom.lt/SZKSWITCHSWMEC5G](http://oom.lt/SZKSWITCHSWMEC5G)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Switch/SW_MEC_5G/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Switch/SW_MEC_5G/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Switch/SW_MEC_5G/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Switch/SW_MEC_5G/image.png)|||

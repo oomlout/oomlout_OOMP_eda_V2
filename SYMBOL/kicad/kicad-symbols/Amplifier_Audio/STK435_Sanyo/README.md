@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKAMPLIFIERAUDIOSTK435SANYO > Amplifier_Audio : STK435_Sanyo](#szkamplifieraudiostk435sanyo--amplifier_audio--stk435_sanyo)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Amplifier_Audio : STK435_Sanyo
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Audio-STK435_Sanyo](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Audio-STK435_Sanyo)
 - Short Link: [http://oom.lt/SZKAMPLIFIERAUDIOSTK435SANYO](http://oom.lt/SZKAMPLIFIERAUDIOSTK435SANYO)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Amplifier_Audio/STK435_Sanyo/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Amplifier_Audio/STK435_Sanyo/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Amplifier_Audio/STK435_Sanyo/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Amplifier_Audio/STK435_Sanyo/image.png)|||

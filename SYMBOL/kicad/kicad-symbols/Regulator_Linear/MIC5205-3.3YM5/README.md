@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKREGULATORLINEARMIC52533YM5 > Regulator_Linear : MIC5205-3.3YM5](#szkregulatorlinearmic52533ym5--regulator_linear--mic5205-33ym5)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Regulator_Linear : MIC5205-3.3YM5
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-MIC5205-3.3YM5](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-MIC5205-3.3YM5)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARMIC52533YM5](http://oom.lt/SZKREGULATORLINEARMIC52533YM5)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/MIC5205-3.3YM5/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/MIC5205-3.3YM5/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/MIC5205-3.3YM5/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/MIC5205-3.3YM5/image.png)|||

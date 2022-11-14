@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKCNPHOENIXMSTBPHOENIXCONTACTMSTBA256G581X6P58HORIZONTAL > Connector_Phoenix_MSTB : PhoenixContact_MSTBA_2,5_6-G-5,08_1x06_P5.08mm_Horizontal](#fzkcnphoenixmstbphoenixcontactmstba256g581x6p58horizontal--connector_phoenix_mstb--phoenixcontact_mstba_25_6-g-508_1x06_p508mm_horizontal)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Connector_Phoenix_MSTB : PhoenixContact_MSTBA_2,5_6-G-5,08_1x06_P5.08mm_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Phoenix_MSTB-PhoenixContact_MSTBA_2,5_6-G-5,08_1x06_P5.08mm_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Phoenix_MSTB-PhoenixContact_MSTBA_2,5_6-G-5,08_1x06_P5.08mm_Horizontal)
 - Short Link: [http://oom.lt/FZKCNPHOENIXMSTBPHOENIXCONTACTMSTBA256G581X6P58HORIZONTAL](http://oom.lt/FZKCNPHOENIXMSTBPHOENIXCONTACTMSTBA256G581X6P58HORIZONTAL)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Phoenix_MSTB/PhoenixContact_MSTBA_2,5_6-G-5,08_1x06_P5.08mm_Horizontal/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Phoenix_MSTB/PhoenixContact_MSTBA_2,5_6-G-5,08_1x06_P5.08mm_Horizontal/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Phoenix_MSTB/PhoenixContact_MSTBA_2,5_6-G-5,08_1x06_P5.08mm_Horizontal/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Phoenix_MSTB/PhoenixContact_MSTBA_2,5_6-G-5,08_1x06_P5.08mm_Horizontal/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Phoenix_MSTB/PhoenixContact_MSTBA_2,5_6-G-5,08_1x06_P5.08mm_Horizontal/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Phoenix_MSTB/PhoenixContact_MSTBA_2,5_6-G-5,08_1x06_P5.08mm_Horizontal/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Phoenix_MSTB/PhoenixContact_MSTBA_2,5_6-G-5,08_1x06_P5.08mm_Horizontal/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Phoenix_MSTB/PhoenixContact_MSTBA_2,5_6-G-5,08_1x06_P5.08mm_Horizontal/kicadPcb3dBack.png)|

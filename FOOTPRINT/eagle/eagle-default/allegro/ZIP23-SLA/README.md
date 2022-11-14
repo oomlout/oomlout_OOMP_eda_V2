@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZEALLEGROZIP23SLA > allegro : ZIP23-SLA](#fzeallegrozip23sla--allegro--zip23-sla)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: allegro : ZIP23-SLA
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-allegro-ZIP23-SLA](http://oom.lt/FOOTPRINT-eagle-eagle-default-allegro-ZIP23-SLA)
 - Short Link: [http://oom.lt/FZEALLEGROZIP23SLA](http://oom.lt/FZEALLEGROZIP23SLA)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/allegro/ZIP23-SLA/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/allegro/ZIP23-SLA/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/allegro/ZIP23-SLA/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/allegro/ZIP23-SLA/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/allegro/ZIP23-SLA/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/allegro/ZIP23-SLA/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/allegro/ZIP23-SLA/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/allegro/ZIP23-SLA/kicadPcb3dBack.png)|

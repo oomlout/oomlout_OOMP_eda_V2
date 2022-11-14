@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKSOTTO224P58X254STAGGEREVENLEAD38VERTICAL > Package_TO_SOT_THT : TO-220-4_P5.08x2.54mm_StaggerEven_Lead3.8mm_Vertical](#fzksotto224p58x254staggerevenlead38vertical--package_to_sot_tht--to-220-4_p508x254mm_staggereven_lead38mm_vertical)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Package_TO_SOT_THT : TO-220-4_P5.08x2.54mm_StaggerEven_Lead3.8mm_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-TO-220-4_P5.08x2.54mm_StaggerEven_Lead3.8mm_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-TO-220-4_P5.08x2.54mm_StaggerEven_Lead3.8mm_Vertical)
 - Short Link: [http://oom.lt/FZKSOTTO224P58X254STAGGEREVENLEAD38VERTICAL](http://oom.lt/FZKSOTTO224P58X254STAGGEREVENLEAD38VERTICAL)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_THT/TO-220-4_P5.08x2.54mm_StaggerEven_Lead3.8mm_Vertical/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_THT/TO-220-4_P5.08x2.54mm_StaggerEven_Lead3.8mm_Vertical/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_THT/TO-220-4_P5.08x2.54mm_StaggerEven_Lead3.8mm_Vertical/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_THT/TO-220-4_P5.08x2.54mm_StaggerEven_Lead3.8mm_Vertical/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_THT/TO-220-4_P5.08x2.54mm_StaggerEven_Lead3.8mm_Vertical/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_THT/TO-220-4_P5.08x2.54mm_StaggerEven_Lead3.8mm_Vertical/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_THT/TO-220-4_P5.08x2.54mm_StaggerEven_Lead3.8mm_Vertical/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_THT/TO-220-4_P5.08x2.54mm_StaggerEven_Lead3.8mm_Vertical/kicadPcb3dBack.png)|

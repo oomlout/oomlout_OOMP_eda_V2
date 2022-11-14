@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDIODECDBA34HF > Diode : CDBA340-HF](#szkdiodecdba34hf--diode--cdba340-hf)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Diode : CDBA340-HF
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-CDBA340-HF](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-CDBA340-HF)
 - Short Link: [http://oom.lt/SZKDIODECDBA34HF](http://oom.lt/SZKDIODECDBA34HF)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Diode/CDBA340-HF/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Diode/CDBA340-HF/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Diode/CDBA340-HF/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Diode/CDBA340-HF/image.png)|||

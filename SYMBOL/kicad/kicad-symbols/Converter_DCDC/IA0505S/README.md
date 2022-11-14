@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKCONIA55S > Converter_DCDC : IA0505S](#szkconia55s--converter_dcdc--ia0505s)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Converter_DCDC : IA0505S
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-IA0505S](http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-IA0505S)
 - Short Link: [http://oom.lt/SZKCONIA55S](http://oom.lt/SZKCONIA55S)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Converter_DCDC/IA0505S/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Converter_DCDC/IA0505S/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Converter_DCDC/IA0505S/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Converter_DCDC/IA0505S/image.png)|||

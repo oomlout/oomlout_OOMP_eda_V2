@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKREGULATORLINEARSPX292T33TO263 > Regulator_Linear : SPX2920T-3.3_TO263](#szkregulatorlinearspx292t33to263--regulator_linear--spx2920t-33_to263)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Regulator_Linear : SPX2920T-3.3_TO263
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-SPX2920T-3.3_TO263](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-SPX2920T-3.3_TO263)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARSPX292T33TO263](http://oom.lt/SZKREGULATORLINEARSPX292T33TO263)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/SPX2920T-3.3_TO263/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/SPX2920T-3.3_TO263/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/SPX2920T-3.3_TO263/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/SPX2920T-3.3_TO263/image.png)|||

@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDIODEBAT48JFILM > Diode : BAT48JFILM](#szkdiodebat48jfilm--diode--bat48jfilm)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Diode : BAT48JFILM
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-BAT48JFILM](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-BAT48JFILM)
 - Short Link: [http://oom.lt/SZKDIODEBAT48JFILM](http://oom.lt/SZKDIODEBAT48JFILM)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Diode/BAT48JFILM/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Diode/BAT48JFILM/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Diode/BAT48JFILM/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Diode/BAT48JFILM/image.png)|||

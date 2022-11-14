@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKCNUUCRECEPTACLEXKBU26216XN4BVC11 > Connector_USB : USB_C_Receptacle_XKB_U262-16XN-4BVC11](#fzkcnuucreceptaclexkbu26216xn4bvc11--connector_usb--usb_c_receptacle_xkb_u262-16xn-4bvc11)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Connector_USB : USB_C_Receptacle_XKB_U262-16XN-4BVC11
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_C_Receptacle_XKB_U262-16XN-4BVC11](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_C_Receptacle_XKB_U262-16XN-4BVC11)
 - Short Link: [http://oom.lt/FZKCNUUCRECEPTACLEXKBU26216XN4BVC11](http://oom.lt/FZKCNUUCRECEPTACLEXKBU26216XN4BVC11)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB_C_Receptacle_XKB_U262-16XN-4BVC11/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB_C_Receptacle_XKB_U262-16XN-4BVC11/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB_C_Receptacle_XKB_U262-16XN-4BVC11/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB_C_Receptacle_XKB_U262-16XN-4BVC11/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB_C_Receptacle_XKB_U262-16XN-4BVC11/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB_C_Receptacle_XKB_U262-16XN-4BVC11/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB_C_Receptacle_XKB_U262-16XN-4BVC11/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB_C_Receptacle_XKB_U262-16XN-4BVC11/kicadPcb3dBack.png)|

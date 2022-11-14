@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKANALOGSWITCHADG419BN > Analog_Switch : ADG419BN](#szkanalogswitchadg419bn--analog_switch--adg419bn)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Analog_Switch : ADG419BN
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_Switch-ADG419BN](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_Switch-ADG419BN)
 - Short Link: [http://oom.lt/SZKANALOGSWITCHADG419BN](http://oom.lt/SZKANALOGSWITCHADG419BN)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Analog_Switch/ADG419BN/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Analog_Switch/ADG419BN/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Analog_Switch/ADG419BN/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Analog_Switch/ADG419BN/image.png)|||

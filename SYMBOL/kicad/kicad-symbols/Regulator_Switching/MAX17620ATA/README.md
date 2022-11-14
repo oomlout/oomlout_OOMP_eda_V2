@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKREGULATORSWITCHINGMAX1762ATA > Regulator_Switching : MAX17620ATA](#szkregulatorswitchingmax1762ata--regulator_switching--max17620ata)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Regulator_Switching : MAX17620ATA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-MAX17620ATA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-MAX17620ATA)
 - Short Link: [http://oom.lt/SZKREGULATORSWITCHINGMAX1762ATA](http://oom.lt/SZKREGULATORSWITCHINGMAX1762ATA)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/MAX17620ATA/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/MAX17620ATA/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/MAX17620ATA/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/MAX17620ATA/image.png)|||

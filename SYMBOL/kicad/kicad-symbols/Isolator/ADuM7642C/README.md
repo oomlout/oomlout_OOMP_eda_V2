@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKISOLATORADUM7642C > Isolator : ADuM7642C](#szkisolatoradum7642c--isolator--adum7642c)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Isolator : ADuM7642C
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-ADuM7642C](http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-ADuM7642C)
 - Short Link: [http://oom.lt/SZKISOLATORADUM7642C](http://oom.lt/SZKISOLATORADUM7642C)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Isolator/ADuM7642C/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Isolator/ADuM7642C/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Isolator/ADuM7642C/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Isolator/ADuM7642C/image.png)|||

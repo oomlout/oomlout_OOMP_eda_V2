@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKBATBATPANASONICCR125VSKVERTICALCIRCULARH > Battery : Battery_Panasonic_CR1025-VSK_Vertical_CircularHoles](#fzkbatbatpanasoniccr125vskverticalcircularh--battery--battery_panasonic_cr1025-vsk_vertical_circularholes)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Battery : Battery_Panasonic_CR1025-VSK_Vertical_CircularHoles
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Battery-Battery_Panasonic_CR1025-VSK_Vertical_CircularHoles](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Battery-Battery_Panasonic_CR1025-VSK_Vertical_CircularHoles)
 - Short Link: [http://oom.lt/FZKBATBATPANASONICCR125VSKVERTICALCIRCULARH](http://oom.lt/FZKBATBATPANASONICCR125VSKVERTICALCIRCULARH)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Battery/Battery_Panasonic_CR1025-VSK_Vertical_CircularHoles/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Battery/Battery_Panasonic_CR1025-VSK_Vertical_CircularHoles/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Battery/Battery_Panasonic_CR1025-VSK_Vertical_CircularHoles/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Battery/Battery_Panasonic_CR1025-VSK_Vertical_CircularHoles/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Battery/Battery_Panasonic_CR1025-VSK_Vertical_CircularHoles/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Battery/Battery_Panasonic_CR1025-VSK_Vertical_CircularHoles/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Battery/Battery_Panasonic_CR1025-VSK_Vertical_CircularHoles/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Battery/Battery_Panasonic_CR1025-VSK_Vertical_CircularHoles/kicadPcb3dBack.png)|

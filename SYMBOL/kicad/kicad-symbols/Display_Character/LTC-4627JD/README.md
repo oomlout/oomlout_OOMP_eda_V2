@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDICHARACTERLTC4627JD > Display_Character : LTC-4627JD](#szkdicharacterltc4627jd--display_character--ltc-4627jd)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Display_Character : LTC-4627JD
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-LTC-4627JD](http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-LTC-4627JD)
 - Short Link: [http://oom.lt/SZKDICHARACTERLTC4627JD](http://oom.lt/SZKDICHARACTERLTC4627JD)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Display_Character/LTC-4627JD/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Display_Character/LTC-4627JD/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Display_Character/LTC-4627JD/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Display_Character/LTC-4627JD/image.png)|||

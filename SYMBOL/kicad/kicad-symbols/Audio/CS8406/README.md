@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKAUDIOCS846 > Audio : CS8406](#szkaudiocs846--audio--cs8406)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Audio : CS8406
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Audio-CS8406](http://oom.lt/SYMBOL-kicad-kicad-symbols-Audio-CS8406)
 - Short Link: [http://oom.lt/SZKAUDIOCS846](http://oom.lt/SZKAUDIOCS846)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Audio/CS8406/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Audio/CS8406/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Audio/CS8406/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Audio/CS8406/image.png)|||

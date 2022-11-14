@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKMCUMCHIP851AT89C25124S > MCU_Microchip_8051 : AT89C2051-24S](#szkmcumchip851at89c25124s--mcu_microchip_8051--at89c2051-24s)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: MCU_Microchip_8051 : AT89C2051-24S
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_8051-AT89C2051-24S](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_8051-AT89C2051-24S)
 - Short Link: [http://oom.lt/SZKMCUMCHIP851AT89C25124S](http://oom.lt/SZKMCUMCHIP851AT89C25124S)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_8051/AT89C2051-24S/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_8051/AT89C2051-24S/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_8051/AT89C2051-24S/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_8051/AT89C2051-24S/image.png)|||

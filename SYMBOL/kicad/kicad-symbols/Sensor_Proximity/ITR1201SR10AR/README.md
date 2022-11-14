@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKSENPROXIMITYITR121SR1AR > Sensor_Proximity : ITR1201SR10AR](#szksenproximityitr121sr1ar--sensor_proximity--itr1201sr10ar)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Sensor_Proximity : ITR1201SR10AR
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Proximity-ITR1201SR10AR](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Proximity-ITR1201SR10AR)
 - Short Link: [http://oom.lt/SZKSENPROXIMITYITR121SR1AR](http://oom.lt/SZKSENPROXIMITYITR121SR1AR)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Proximity/ITR1201SR10AR/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Proximity/ITR1201SR10AR/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Proximity/ITR1201SR10AR/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Proximity/ITR1201SR10AR/image.png)|||

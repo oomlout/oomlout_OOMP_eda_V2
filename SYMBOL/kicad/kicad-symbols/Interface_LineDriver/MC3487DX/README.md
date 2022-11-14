@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKINTERFACELINEDRIVERMC3487DX > Interface_LineDriver : MC3487DX](#szkinterfacelinedrivermc3487dx--interface_linedriver--mc3487dx)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Interface_LineDriver : MC3487DX
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_LineDriver-MC3487DX](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_LineDriver-MC3487DX)
 - Short Link: [http://oom.lt/SZKINTERFACELINEDRIVERMC3487DX](http://oom.lt/SZKINTERFACELINEDRIVERMC3487DX)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface_LineDriver/MC3487DX/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface_LineDriver/MC3487DX/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface_LineDriver/MC3487DX/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface_LineDriver/MC3487DX/image.png)|||

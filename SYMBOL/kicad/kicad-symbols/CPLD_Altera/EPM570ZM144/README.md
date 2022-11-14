@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKCPLDALTERAEPM57ZM144 > CPLD_Altera : EPM570ZM144](#szkcpldalteraepm57zm144--cpld_altera--epm570zm144)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: CPLD_Altera : EPM570ZM144
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-CPLD_Altera-EPM570ZM144](http://oom.lt/SYMBOL-kicad-kicad-symbols-CPLD_Altera-EPM570ZM144)
 - Short Link: [http://oom.lt/SZKCPLDALTERAEPM57ZM144](http://oom.lt/SZKCPLDALTERAEPM57ZM144)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/CPLD_Altera/EPM570ZM144/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/CPLD_Altera/EPM570ZM144/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/CPLD_Altera/EPM570ZM144/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/CPLD_Altera/EPM570ZM144/image.png)|||

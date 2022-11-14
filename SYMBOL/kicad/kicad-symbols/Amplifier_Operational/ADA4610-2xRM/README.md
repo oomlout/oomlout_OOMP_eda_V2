@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKAMPLIFIEROPERATIONALADA4612XRM > Amplifier_Operational : ADA4610-2xRM](#szkamplifieroperationalada4612xrm--amplifier_operational--ada4610-2xrm)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Amplifier_Operational : ADA4610-2xRM
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-ADA4610-2xRM](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-ADA4610-2xRM)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALADA4612XRM](http://oom.lt/SZKAMPLIFIEROPERATIONALADA4612XRM)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/ADA4610-2xRM/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/ADA4610-2xRM/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/ADA4610-2xRM/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/ADA4610-2xRM/image.png)|||

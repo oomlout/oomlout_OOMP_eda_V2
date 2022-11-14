@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKINTERFACE8259 > Interface : 8259](#szkinterface8259--interface--8259)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Interface : 8259
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-8259](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-8259)
 - Short Link: [http://oom.lt/SZKINTERFACE8259](http://oom.lt/SZKINTERFACE8259)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface/8259/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface/8259/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface/8259/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface/8259/image.png)|||

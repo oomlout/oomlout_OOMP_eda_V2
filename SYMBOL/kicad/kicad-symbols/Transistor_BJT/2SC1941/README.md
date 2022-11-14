@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKTRANSISTORBJT2SC1941 > Transistor_BJT : 2SC1941](#szktransistorbjt2sc1941--transistor_bjt--2sc1941)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Transistor_BJT : 2SC1941
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-2SC1941](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-2SC1941)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJT2SC1941](http://oom.lt/SZKTRANSISTORBJT2SC1941)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_BJT/2SC1941/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_BJT/2SC1941/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_BJT/2SC1941/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_BJT/2SC1941/image.png)|||

@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKREGULATORLINEARADP7182AUJZ25 > Regulator_Linear : ADP7182AUJZ-2.5](#szkregulatorlinearadp7182aujz25--regulator_linear--adp7182aujz-25)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Regulator_Linear : ADP7182AUJZ-2.5
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-ADP7182AUJZ-2.5](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-ADP7182AUJZ-2.5)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARADP7182AUJZ25](http://oom.lt/SZKREGULATORLINEARADP7182AUJZ25)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/ADP7182AUJZ-2.5/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/ADP7182AUJZ-2.5/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/ADP7182AUJZ-2.5/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/ADP7182AUJZ-2.5/image.png)|||

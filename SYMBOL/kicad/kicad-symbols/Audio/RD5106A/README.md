@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKAUDIORD516A > Audio : RD5106A](#szkaudiord516a--audio--rd5106a)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Audio : RD5106A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Audio-RD5106A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Audio-RD5106A)
 - Short Link: [http://oom.lt/SZKAUDIORD516A](http://oom.lt/SZKAUDIORD516A)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Audio/RD5106A/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Audio/RD5106A/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Audio/RD5106A/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Audio/RD5106A/image.png)|||

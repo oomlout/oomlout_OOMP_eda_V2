@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKCONOKI78SR121W36HC > Converter_DCDC : OKI-78SR-12_1.0-W36H-C](#szkconoki78sr121w36hc--converter_dcdc--oki-78sr-12_10-w36h-c)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Converter_DCDC : OKI-78SR-12_1.0-W36H-C
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-OKI-78SR-12_1.0-W36H-C](http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-OKI-78SR-12_1.0-W36H-C)
 - Short Link: [http://oom.lt/SZKCONOKI78SR121W36HC](http://oom.lt/SZKCONOKI78SR121W36HC)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Converter_DCDC/OKI-78SR-12_1.0-W36H-C/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Converter_DCDC/OKI-78SR-12_1.0-W36H-C/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Converter_DCDC/OKI-78SR-12_1.0-W36H-C/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Converter_DCDC/OKI-78SR-12_1.0-W36H-C/image.png)|||

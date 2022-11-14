@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKTRANSISTORFETIPB18N1S42 > Transistor_FET : IPB180N10S4-02](#szktransistorfetipb18n1s42--transistor_fet--ipb180n10s4-02)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Transistor_FET : IPB180N10S4-02
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IPB180N10S4-02](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IPB180N10S4-02)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETIPB18N1S42](http://oom.lt/SZKTRANSISTORFETIPB18N1S42)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/IPB180N10S4-02/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/IPB180N10S4-02/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/IPB180N10S4-02/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/IPB180N10S4-02/image.png)|||

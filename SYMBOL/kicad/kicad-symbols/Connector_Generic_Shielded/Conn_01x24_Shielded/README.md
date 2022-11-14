@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKCNGENERICSHEDCONN1X24SHED > Connector_Generic_Shielded : Conn_01x24_Shielded](#szkcngenericshedconn1x24shed--connector_generic_shielded--conn_01x24_shielded)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Connector_Generic_Shielded : Conn_01x24_Shielded
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector_Generic_Shielded-Conn_01x24_Shielded](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector_Generic_Shielded-Conn_01x24_Shielded)
 - Short Link: [http://oom.lt/SZKCNGENERICSHEDCONN1X24SHED](http://oom.lt/SZKCNGENERICSHEDCONN1X24SHED)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector_Generic_Shielded/Conn_01x24_Shielded/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector_Generic_Shielded/Conn_01x24_Shielded/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector_Generic_Shielded/Conn_01x24_Shielded/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector_Generic_Shielded/Conn_01x24_Shielded/image.png)|||

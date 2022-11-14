@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKREGULATORSWITCHINGTLV628DSGX > Regulator_Switching : TLV62080DSGx](#szkregulatorswitchingtlv628dsgx--regulator_switching--tlv62080dsgx)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Regulator_Switching : TLV62080DSGx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TLV62080DSGx](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TLV62080DSGx)
 - Short Link: [http://oom.lt/SZKREGULATORSWITCHINGTLV628DSGX](http://oom.lt/SZKREGULATORSWITCHINGTLV628DSGX)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/TLV62080DSGx/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/TLV62080DSGx/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/TLV62080DSGx/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/TLV62080DSGx/image.png)|||

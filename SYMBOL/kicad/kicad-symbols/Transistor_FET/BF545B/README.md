@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKTRANSISTORFETBF545B > Transistor_FET : BF545B](#szktransistorfetbf545b--transistor_fet--bf545b)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Transistor_FET : BF545B
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-BF545B](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-BF545B)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETBF545B](http://oom.lt/SZKTRANSISTORFETBF545B)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/BF545B/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/BF545B/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/BF545B/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/BF545B/image.png)|||

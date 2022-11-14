@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKTIMERPLLICS5251R > Timer_PLL : ICS525-01R](#szktimerpllics5251r--timer_pll--ics525-01r)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Timer_PLL : ICS525-01R
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Timer_PLL-ICS525-01R](http://oom.lt/SYMBOL-kicad-kicad-symbols-Timer_PLL-ICS525-01R)
 - Short Link: [http://oom.lt/SZKTIMERPLLICS5251R](http://oom.lt/SZKTIMERPLLICS5251R)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Timer_PLL/ICS525-01R/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Timer_PLL/ICS525-01R/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Timer_PLL/ICS525-01R/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Timer_PLL/ICS525-01R/image.png)|||

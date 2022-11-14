@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKCNPCBEDGEMXEDGEL6CKT > Connector_PCBEdge : molex_EDGELOCK_6-CKT](#fzkcnpcbedgemxedgel6ckt--connector_pcbedge--molex_edgelock_6-ckt)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Connector_PCBEdge : molex_EDGELOCK_6-CKT
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_PCBEdge-molex_EDGELOCK_6-CKT](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_PCBEdge-molex_EDGELOCK_6-CKT)
 - Short Link: [http://oom.lt/FZKCNPCBEDGEMXEDGEL6CKT](http://oom.lt/FZKCNPCBEDGEMXEDGEL6CKT)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_PCBEdge/molex_EDGELOCK_6-CKT/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_PCBEdge/molex_EDGELOCK_6-CKT/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_PCBEdge/molex_EDGELOCK_6-CKT/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_PCBEdge/molex_EDGELOCK_6-CKT/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_PCBEdge/molex_EDGELOCK_6-CKT/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_PCBEdge/molex_EDGELOCK_6-CKT/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_PCBEdge/molex_EDGELOCK_6-CKT/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_PCBEdge/molex_EDGELOCK_6-CKT/kicadPcb3dBack.png)|

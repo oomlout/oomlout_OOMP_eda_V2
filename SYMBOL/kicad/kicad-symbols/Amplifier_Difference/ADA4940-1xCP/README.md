@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKAMPLIFIERDIFFERENCEADA4941XCP > Amplifier_Difference : ADA4940-1xCP](#szkamplifierdifferenceada4941xcp--amplifier_difference--ada4940-1xcp)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Amplifier_Difference : ADA4940-1xCP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Difference-ADA4940-1xCP](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Difference-ADA4940-1xCP)
 - Short Link: [http://oom.lt/SZKAMPLIFIERDIFFERENCEADA4941XCP](http://oom.lt/SZKAMPLIFIERDIFFERENCEADA4941XCP)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Amplifier_Difference/ADA4940-1xCP/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Amplifier_Difference/ADA4940-1xCP/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Amplifier_Difference/ADA4940-1xCP/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Amplifier_Difference/ADA4940-1xCP/image.png)|||

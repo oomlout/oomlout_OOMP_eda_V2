@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKSOJLEADTSOC6376X394P127 > Package_SO_J-Lead : TSOC-6_3.76x3.94mm_P1.27mm](#fzksojleadtsoc6376x394p127--package_so_j-lead--tsoc-6_376x394mm_p127mm)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Package_SO_J-Lead : TSOC-6_3.76x3.94mm_P1.27mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SO_J-Lead-TSOC-6_3.76x3.94mm_P1.27mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SO_J-Lead-TSOC-6_3.76x3.94mm_P1.27mm)
 - Short Link: [http://oom.lt/FZKSOJLEADTSOC6376X394P127](http://oom.lt/FZKSOJLEADTSOC6376X394P127)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_SO_J-Lead/TSOC-6_3.76x3.94mm_P1.27mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_SO_J-Lead/TSOC-6_3.76x3.94mm_P1.27mm/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_SO_J-Lead/TSOC-6_3.76x3.94mm_P1.27mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_SO_J-Lead/TSOC-6_3.76x3.94mm_P1.27mm/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_SO_J-Lead/TSOC-6_3.76x3.94mm_P1.27mm/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_SO_J-Lead/TSOC-6_3.76x3.94mm_P1.27mm/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_SO_J-Lead/TSOC-6_3.76x3.94mm_P1.27mm/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_SO_J-Lead/TSOC-6_3.76x3.94mm_P1.27mm/kicadPcb3dBack.png)|

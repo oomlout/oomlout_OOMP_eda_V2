@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDIGRAPHICEAEDIP32J8LWTP > Display_Graphic : EA_eDIP320J-8LWTP](#szkdigraphiceaedip32j8lwtp--display_graphic--ea_edip320j-8lwtp)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Display_Graphic : EA_eDIP320J-8LWTP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Graphic-EA_eDIP320J-8LWTP](http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Graphic-EA_eDIP320J-8LWTP)
 - Short Link: [http://oom.lt/SZKDIGRAPHICEAEDIP32J8LWTP](http://oom.lt/SZKDIGRAPHICEAEDIP32J8LWTP)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Display_Graphic/EA_eDIP320J-8LWTP/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Display_Graphic/EA_eDIP320J-8LWTP/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Display_Graphic/EA_eDIP320J-8LWTP/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Display_Graphic/EA_eDIP320J-8LWTP/image.png)|||

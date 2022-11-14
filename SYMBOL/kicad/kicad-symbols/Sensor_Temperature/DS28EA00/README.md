@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKSENTEMPERATUREDS28EA > Sensor_Temperature : DS28EA00](#szksentemperatureds28ea--sensor_temperature--ds28ea00)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Sensor_Temperature : DS28EA00
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Temperature-DS28EA00](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Temperature-DS28EA00)
 - Short Link: [http://oom.lt/SZKSENTEMPERATUREDS28EA](http://oom.lt/SZKSENTEMPERATUREDS28EA)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Temperature/DS28EA00/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Temperature/DS28EA00/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Temperature/DS28EA00/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Temperature/DS28EA00/image.png)|||

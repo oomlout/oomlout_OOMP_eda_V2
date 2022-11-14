@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKSENMAGNETICDRV555A1XDBZXQ1 > Sensor_Magnetic : DRV5055A1xDBZxQ1](#szksenmagneticdrv555a1xdbzxq1--sensor_magnetic--drv5055a1xdbzxq1)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Sensor_Magnetic : DRV5055A1xDBZxQ1
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Magnetic-DRV5055A1xDBZxQ1](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Magnetic-DRV5055A1xDBZxQ1)
 - Short Link: [http://oom.lt/SZKSENMAGNETICDRV555A1XDBZXQ1](http://oom.lt/SZKSENMAGNETICDRV555A1XDBZXQ1)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Magnetic/DRV5055A1xDBZxQ1/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Magnetic/DRV5055A1xDBZxQ1/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Magnetic/DRV5055A1xDBZxQ1/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Magnetic/DRV5055A1xDBZxQ1/image.png)|||

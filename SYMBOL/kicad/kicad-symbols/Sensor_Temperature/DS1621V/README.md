@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKSENTEMPERATUREDS1621V > Sensor_Temperature : DS1621V](#szksentemperatureds1621v--sensor_temperature--ds1621v)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Sensor_Temperature : DS1621V
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Temperature-DS1621V](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Temperature-DS1621V)
 - Short Link: [http://oom.lt/SZKSENTEMPERATUREDS1621V](http://oom.lt/SZKSENTEMPERATUREDS1621V)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Temperature/DS1621V/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Temperature/DS1621V/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Temperature/DS1621V/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Temperature/DS1621V/image.png)|||

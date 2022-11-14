@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKSENMOTIONKX2212 > Sensor_Motion : KX022-1020](#szksenmotionkx2212--sensor_motion--kx022-1020)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Sensor_Motion : KX022-1020
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Motion-KX022-1020](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Motion-KX022-1020)
 - Short Link: [http://oom.lt/SZKSENMOTIONKX2212](http://oom.lt/SZKSENMOTIONKX2212)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Motion/KX022-1020/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Motion/KX022-1020/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Motion/KX022-1020/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Motion/KX022-1020/image.png)|||

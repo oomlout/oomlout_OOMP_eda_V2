@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKMCUSTSTM32L4+STM32L4S9VITX > MCU_ST_STM32L4+ : STM32L4S9VITx](#szkmcuststm32l4stm32l4s9vitx--mcu_st_stm32l4--stm32l4s9vitx)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: MCU_ST_STM32L4+ : STM32L4S9VITx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32L4+-STM32L4S9VITx](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32L4+-STM32L4S9VITx)
 - Short Link: [http://oom.lt/SZKMCUSTSTM32L4+STM32L4S9VITX](http://oom.lt/SZKMCUSTSTM32L4+STM32L4S9VITX)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32L4+/STM32L4S9VITx/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32L4+/STM32L4S9VITx/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32L4+/STM32L4S9VITx/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32L4+/STM32L4S9VITx/image.png)|||

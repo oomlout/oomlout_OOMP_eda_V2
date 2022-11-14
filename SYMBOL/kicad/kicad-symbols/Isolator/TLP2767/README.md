@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKISOLATORTLP2767 > Isolator : TLP2767](#szkisolatortlp2767--isolator--tlp2767)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Isolator : TLP2767
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-TLP2767](http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-TLP2767)
 - Short Link: [http://oom.lt/SZKISOLATORTLP2767](http://oom.lt/SZKISOLATORTLP2767)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Isolator/TLP2767/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Isolator/TLP2767/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Isolator/TLP2767/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Isolator/TLP2767/image.png)|||

@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKBATMANAGEMENTMAX712CPE > Battery_Management : MAX712CPE](#szkbatmanagementmax712cpe--battery_management--max712cpe)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Battery_Management : MAX712CPE
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Battery_Management-MAX712CPE](http://oom.lt/SYMBOL-kicad-kicad-symbols-Battery_Management-MAX712CPE)
 - Short Link: [http://oom.lt/SZKBATMANAGEMENTMAX712CPE](http://oom.lt/SZKBATMANAGEMENTMAX712CPE)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Battery_Management/MAX712CPE/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Battery_Management/MAX712CPE/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Battery_Management/MAX712CPE/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Battery_Management/MAX712CPE/image.png)|||

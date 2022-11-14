@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKMEMORYRAMIS61C5128AL1TLI > Memory_RAM : IS61C5128AL-10TLI](#szkmemoryramis61c5128al1tli--memory_ram--is61c5128al-10tli)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Memory_RAM : IS61C5128AL-10TLI
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_RAM-IS61C5128AL-10TLI](http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_RAM-IS61C5128AL-10TLI)
 - Short Link: [http://oom.lt/SZKMEMORYRAMIS61C5128AL1TLI](http://oom.lt/SZKMEMORYRAMIS61C5128AL1TLI)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Memory_RAM/IS61C5128AL-10TLI/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Memory_RAM/IS61C5128AL-10TLI/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Memory_RAM/IS61C5128AL-10TLI/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Memory_RAM/IS61C5128AL-10TLI/image.png)|||

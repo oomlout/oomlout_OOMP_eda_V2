@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZK4XXXIEEE414 > 4xxx_IEEE : 4014](#szk4xxxieee414--4xxx_ieee--4014)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: 4xxx_IEEE : 4014
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-4xxx_IEEE-4014](http://oom.lt/SYMBOL-kicad-kicad-symbols-4xxx_IEEE-4014)
 - Short Link: [http://oom.lt/SZK4XXXIEEE414](http://oom.lt/SZK4XXXIEEE414)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/4xxx_IEEE/4014/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/4xxx_IEEE/4014/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/4xxx_IEEE/4014/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/4xxx_IEEE/4014/image.png)|||

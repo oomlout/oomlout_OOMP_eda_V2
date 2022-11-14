@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKCCPRD24P13PINSNAPIN > Capacitor_THT : CP_Radial_D24.0mm_P10.00mm_3pin_SnapIn](#fzkccprd24p13pinsnapin--capacitor_tht--cp_radial_d240mm_p1000mm_3pin_snapin)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Capacitor_THT : CP_Radial_D24.0mm_P10.00mm_3pin_SnapIn
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_THT-CP_Radial_D24.0mm_P10.00mm_3pin_SnapIn](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_THT-CP_Radial_D24.0mm_P10.00mm_3pin_SnapIn)
 - Short Link: [http://oom.lt/FZKCCPRD24P13PINSNAPIN](http://oom.lt/FZKCCPRD24P13PINSNAPIN)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_THT/CP_Radial_D24.0mm_P10.00mm_3pin_SnapIn/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_THT/CP_Radial_D24.0mm_P10.00mm_3pin_SnapIn/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_THT/CP_Radial_D24.0mm_P10.00mm_3pin_SnapIn/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_THT/CP_Radial_D24.0mm_P10.00mm_3pin_SnapIn/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_THT/CP_Radial_D24.0mm_P10.00mm_3pin_SnapIn/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_THT/CP_Radial_D24.0mm_P10.00mm_3pin_SnapIn/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_THT/CP_Radial_D24.0mm_P10.00mm_3pin_SnapIn/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_THT/CP_Radial_D24.0mm_P10.00mm_3pin_SnapIn/kicadPcb3dBack.png)|

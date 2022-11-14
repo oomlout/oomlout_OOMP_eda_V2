@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKSENMOTIONKXTJ3157 > Sensor_Motion : KXTJ3-1057](#szksenmotionkxtj3157--sensor_motion--kxtj3-1057)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Sensor_Motion : KXTJ3-1057
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Motion-KXTJ3-1057](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Motion-KXTJ3-1057)
 - Short Link: [http://oom.lt/SZKSENMOTIONKXTJ3157](http://oom.lt/SZKSENMOTIONKXTJ3157)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Motion/KXTJ3-1057/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Motion/KXTJ3-1057/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Motion/KXTJ3-1057/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Motion/KXTJ3-1057/image.png)|||

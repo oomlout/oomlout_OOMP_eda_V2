@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKCNIHIB6APCB45VERTICAL > Connector : IHI_B6A-PCB-45_Vertical](#fzkcnihib6apcb45vertical--connector--ihi_b6a-pcb-45_vertical)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Connector : IHI_B6A-PCB-45_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector-IHI_B6A-PCB-45_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector-IHI_B6A-PCB-45_Vertical)
 - Short Link: [http://oom.lt/FZKCNIHIB6APCB45VERTICAL](http://oom.lt/FZKCNIHIB6APCB45VERTICAL)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector/IHI_B6A-PCB-45_Vertical/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector/IHI_B6A-PCB-45_Vertical/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector/IHI_B6A-PCB-45_Vertical/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector/IHI_B6A-PCB-45_Vertical/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector/IHI_B6A-PCB-45_Vertical/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector/IHI_B6A-PCB-45_Vertical/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector/IHI_B6A-PCB-45_Vertical/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector/IHI_B6A-PCB-45_Vertical/kicadPcb3dBack.png)|

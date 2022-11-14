@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKSIMULATIONSPICEVTRNOISE > Simulation_SPICE : VTRNOISE](#szksimulationspicevtrnoise--simulation_spice--vtrnoise)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Simulation_SPICE : VTRNOISE
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Simulation_SPICE-VTRNOISE](http://oom.lt/SYMBOL-kicad-kicad-symbols-Simulation_SPICE-VTRNOISE)
 - Short Link: [http://oom.lt/SZKSIMULATIONSPICEVTRNOISE](http://oom.lt/SZKSIMULATIONSPICEVTRNOISE)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Simulation_SPICE/VTRNOISE/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Simulation_SPICE/VTRNOISE/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Simulation_SPICE/VTRNOISE/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Simulation_SPICE/VTRNOISE/image.png)|||

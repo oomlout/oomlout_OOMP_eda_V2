@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKSENOPTICALBPW42 > Sensor_Optical : BPW42](#szksenopticalbpw42--sensor_optical--bpw42)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Sensor_Optical : BPW42
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Optical-BPW42](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Optical-BPW42)
 - Short Link: [http://oom.lt/SZKSENOPTICALBPW42](http://oom.lt/SZKSENOPTICALBPW42)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Optical/BPW42/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Optical/BPW42/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Optical/BPW42/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Optical/BPW42/image.png)|||

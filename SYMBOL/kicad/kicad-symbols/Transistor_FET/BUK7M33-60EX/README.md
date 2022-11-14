@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKTRANSISTORFETBUK7M336EX > Transistor_FET : BUK7M33-60EX](#szktransistorfetbuk7m336ex--transistor_fet--buk7m33-60ex)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Transistor_FET : BUK7M33-60EX
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-BUK7M33-60EX](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-BUK7M33-60EX)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETBUK7M336EX](http://oom.lt/SZKTRANSISTORFETBUK7M336EX)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/BUK7M33-60EX/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/BUK7M33-60EX/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/BUK7M33-60EX/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/BUK7M33-60EX/image.png)|||

@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKCNPINPIND12L113W3FLAT > Connector_Pin : Pin_D1.2mm_L11.3mm_W3.0mm_Flat](#fzkcnpinpind12l113w3flat--connector_pin--pin_d12mm_l113mm_w30mm_flat)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Connector_Pin : Pin_D1.2mm_L11.3mm_W3.0mm_Flat
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Pin-Pin_D1.2mm_L11.3mm_W3.0mm_Flat](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Pin-Pin_D1.2mm_L11.3mm_W3.0mm_Flat)
 - Short Link: [http://oom.lt/FZKCNPINPIND12L113W3FLAT](http://oom.lt/FZKCNPINPIND12L113W3FLAT)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Pin/Pin_D1.2mm_L11.3mm_W3.0mm_Flat/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Pin/Pin_D1.2mm_L11.3mm_W3.0mm_Flat/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Pin/Pin_D1.2mm_L11.3mm_W3.0mm_Flat/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Pin/Pin_D1.2mm_L11.3mm_W3.0mm_Flat/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Pin/Pin_D1.2mm_L11.3mm_W3.0mm_Flat/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Pin/Pin_D1.2mm_L11.3mm_W3.0mm_Flat/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Pin/Pin_D1.2mm_L11.3mm_W3.0mm_Flat/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Pin/Pin_D1.2mm_L11.3mm_W3.0mm_Flat/kicadPcb3dBack.png)|

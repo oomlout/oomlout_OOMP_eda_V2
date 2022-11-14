@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKAMPLIFIERINSTRUMENTATIONINA333XXDRG > Amplifier_Instrumentation : INA333xxDRG](#szkamplifierinstrumentationina333xxdrg--amplifier_instrumentation--ina333xxdrg)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Amplifier_Instrumentation : INA333xxDRG
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Instrumentation-INA333xxDRG](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Instrumentation-INA333xxDRG)
 - Short Link: [http://oom.lt/SZKAMPLIFIERINSTRUMENTATIONINA333XXDRG](http://oom.lt/SZKAMPLIFIERINSTRUMENTATIONINA333XXDRG)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Amplifier_Instrumentation/INA333xxDRG/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Amplifier_Instrumentation/INA333xxDRG/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Amplifier_Instrumentation/INA333xxDRG/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Amplifier_Instrumentation/INA333xxDRG/image.png)|||

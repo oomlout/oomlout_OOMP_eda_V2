@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKANALOGDACAD7224KP > Analog_DAC : AD7224KP](#szkanalogdacad7224kp--analog_dac--ad7224kp)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Analog_DAC : AD7224KP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_DAC-AD7224KP](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_DAC-AD7224KP)
 - Short Link: [http://oom.lt/SZKANALOGDACAD7224KP](http://oom.lt/SZKANALOGDACAD7224KP)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Analog_DAC/AD7224KP/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Analog_DAC/AD7224KP/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Analog_DAC/AD7224KP/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Analog_DAC/AD7224KP/image.png)|||

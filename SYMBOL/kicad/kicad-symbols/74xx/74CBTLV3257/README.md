@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZK74XX74CBTLV3257 > 74xx : 74CBTLV3257](#szk74xx74cbtlv3257--74xx--74cbtlv3257)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: 74xx : 74CBTLV3257
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-74xx-74CBTLV3257](http://oom.lt/SYMBOL-kicad-kicad-symbols-74xx-74CBTLV3257)
 - Short Link: [http://oom.lt/SZK74XX74CBTLV3257](http://oom.lt/SZK74XX74CBTLV3257)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/74xx/74CBTLV3257/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/74xx/74CBTLV3257/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/74xx/74CBTLV3257/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/74xx/74CBTLV3257/image.png)|||

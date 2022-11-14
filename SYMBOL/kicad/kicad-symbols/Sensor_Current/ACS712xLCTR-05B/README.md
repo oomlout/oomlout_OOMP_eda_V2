@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKSENCURRENTACS712XLCTR5B > Sensor_Current : ACS712xLCTR-05B](#szksencurrentacs712xlctr5b--sensor_current--acs712xlctr-05b)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Sensor_Current : ACS712xLCTR-05B
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-ACS712xLCTR-05B](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-ACS712xLCTR-05B)
 - Short Link: [http://oom.lt/SZKSENCURRENTACS712XLCTR5B](http://oom.lt/SZKSENCURRENTACS712XLCTR5B)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Current/ACS712xLCTR-05B/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Current/ACS712xLCTR-05B/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Current/ACS712xLCTR-05B/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Current/ACS712xLCTR-05B/image.png)|||

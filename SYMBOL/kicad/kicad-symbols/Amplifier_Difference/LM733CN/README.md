@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKAMPLIFIERDIFFERENCELM733CN > Amplifier_Difference : LM733CN](#szkamplifierdifferencelm733cn--amplifier_difference--lm733cn)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Amplifier_Difference : LM733CN
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Difference-LM733CN](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Difference-LM733CN)
 - Short Link: [http://oom.lt/SZKAMPLIFIERDIFFERENCELM733CN](http://oom.lt/SZKAMPLIFIERDIFFERENCELM733CN)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Amplifier_Difference/LM733CN/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Amplifier_Difference/LM733CN/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Amplifier_Difference/LM733CN/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Amplifier_Difference/LM733CN/image.png)|||

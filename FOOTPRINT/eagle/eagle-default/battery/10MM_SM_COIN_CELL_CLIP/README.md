@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZEBAT1SMCOINCELLCLIP > battery : 10MM_SM_COIN_CELL_CLIP](#fzebat1smcoincellclip--battery--10mm_sm_coin_cell_clip)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: battery : 10MM_SM_COIN_CELL_CLIP
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-battery-10MM_SM_COIN_CELL_CLIP](http://oom.lt/FOOTPRINT-eagle-eagle-default-battery-10MM_SM_COIN_CELL_CLIP)
 - Short Link: [http://oom.lt/FZEBAT1SMCOINCELLCLIP](http://oom.lt/FZEBAT1SMCOINCELLCLIP)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/battery/10MM_SM_COIN_CELL_CLIP/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/battery/10MM_SM_COIN_CELL_CLIP/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/battery/10MM_SM_COIN_CELL_CLIP/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/battery/10MM_SM_COIN_CELL_CLIP/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/battery/10MM_SM_COIN_CELL_CLIP/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/battery/10MM_SM_COIN_CELL_CLIP/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/battery/10MM_SM_COIN_CELL_CLIP/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/battery/10MM_SM_COIN_CELL_CLIP/kicadPcb3dBack.png)|

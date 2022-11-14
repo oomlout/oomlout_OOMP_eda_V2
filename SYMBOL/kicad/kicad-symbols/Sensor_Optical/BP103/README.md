@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKSENOPTICALBP13 > Sensor_Optical : BP103](#szksenopticalbp13--sensor_optical--bp103)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Sensor_Optical : BP103
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Optical-BP103](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Optical-BP103)
 - Short Link: [http://oom.lt/SZKSENOPTICALBP13](http://oom.lt/SZKSENOPTICALBP13)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Optical/BP103/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Optical/BP103/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Optical/BP103/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Optical/BP103/image.png)|||

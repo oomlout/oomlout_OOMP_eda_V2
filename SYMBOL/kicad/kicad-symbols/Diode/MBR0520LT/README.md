@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDIODEMBR52LT > Diode : MBR0520LT](#szkdiodembr52lt--diode--mbr0520lt)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Diode : MBR0520LT
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-MBR0520LT](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-MBR0520LT)
 - Short Link: [http://oom.lt/SZKDIODEMBR52LT](http://oom.lt/SZKDIODEMBR52LT)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Diode/MBR0520LT/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Diode/MBR0520LT/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Diode/MBR0520LT/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Diode/MBR0520LT/image.png)|||

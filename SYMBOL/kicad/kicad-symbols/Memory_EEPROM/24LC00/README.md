@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKMEMORYEEPROM24LC > Memory_EEPROM : 24LC00](#szkmemoryeeprom24lc--memory_eeprom--24lc00)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Memory_EEPROM : 24LC00
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_EEPROM-24LC00](http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_EEPROM-24LC00)
 - Short Link: [http://oom.lt/SZKMEMORYEEPROM24LC](http://oom.lt/SZKMEMORYEEPROM24LC)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Memory_EEPROM/24LC00/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Memory_EEPROM/24LC00/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Memory_EEPROM/24LC00/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Memory_EEPROM/24LC00/image.png)|||

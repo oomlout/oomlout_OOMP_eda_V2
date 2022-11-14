@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKMCUSILICONLABSEFM8BB1F8IASOIC16 > MCU_SiliconLabs : EFM8BB10F8I-A-SOIC16](#szkmcusiliconlabsefm8bb1f8iasoic16--mcu_siliconlabs--efm8bb10f8i-a-soic16)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: MCU_SiliconLabs : EFM8BB10F8I-A-SOIC16
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_SiliconLabs-EFM8BB10F8I-A-SOIC16](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_SiliconLabs-EFM8BB10F8I-A-SOIC16)
 - Short Link: [http://oom.lt/SZKMCUSILICONLABSEFM8BB1F8IASOIC16](http://oom.lt/SZKMCUSILICONLABSEFM8BB1F8IASOIC16)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_SiliconLabs/EFM8BB10F8I-A-SOIC16/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_SiliconLabs/EFM8BB10F8I-A-SOIC16/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_SiliconLabs/EFM8BB10F8I-A-SOIC16/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_SiliconLabs/EFM8BB10F8I-A-SOIC16/image.png)|||

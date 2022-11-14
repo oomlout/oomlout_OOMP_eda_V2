@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDIODELASERPL52 > Diode_Laser : PL520](#szkdiodelaserpl52--diode_laser--pl520)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Diode_Laser : PL520
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode_Laser-PL520](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode_Laser-PL520)
 - Short Link: [http://oom.lt/SZKDIODELASERPL52](http://oom.lt/SZKDIODELASERPL52)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Diode_Laser/PL520/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Diode_Laser/PL520/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Diode_Laser/PL520/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Diode_Laser/PL520/image.png)|||

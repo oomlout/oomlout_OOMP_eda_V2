@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKTRANSISTORFETFDS9926A > Transistor_FET : FDS9926A](#szktransistorfetfds9926a--transistor_fet--fds9926a)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Transistor_FET : FDS9926A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-FDS9926A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-FDS9926A)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETFDS9926A](http://oom.lt/SZKTRANSISTORFETFDS9926A)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/FDS9926A/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/FDS9926A/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/FDS9926A/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/FDS9926A/image.png)|||

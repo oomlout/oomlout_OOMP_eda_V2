@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKCSPLFCSPVQ241EP4X4P5EP2642X2642 > Package_CSP : LFCSP-VQ-24-1EP_4x4mm_P0.5mm_EP2.642x2.642mm](#fzkcsplfcspvq241ep4x4p5ep2642x2642--package_csp--lfcsp-vq-24-1ep_4x4mm_p05mm_ep2642x2642mm)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Package_CSP : LFCSP-VQ-24-1EP_4x4mm_P0.5mm_EP2.642x2.642mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_CSP-LFCSP-VQ-24-1EP_4x4mm_P0.5mm_EP2.642x2.642mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_CSP-LFCSP-VQ-24-1EP_4x4mm_P0.5mm_EP2.642x2.642mm)
 - Short Link: [http://oom.lt/FZKCSPLFCSPVQ241EP4X4P5EP2642X2642](http://oom.lt/FZKCSPLFCSPVQ241EP4X4P5EP2642X2642)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_CSP/LFCSP-VQ-24-1EP_4x4mm_P0.5mm_EP2.642x2.642mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_CSP/LFCSP-VQ-24-1EP_4x4mm_P0.5mm_EP2.642x2.642mm/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_CSP/LFCSP-VQ-24-1EP_4x4mm_P0.5mm_EP2.642x2.642mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_CSP/LFCSP-VQ-24-1EP_4x4mm_P0.5mm_EP2.642x2.642mm/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_CSP/LFCSP-VQ-24-1EP_4x4mm_P0.5mm_EP2.642x2.642mm/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_CSP/LFCSP-VQ-24-1EP_4x4mm_P0.5mm_EP2.642x2.642mm/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_CSP/LFCSP-VQ-24-1EP_4x4mm_P0.5mm_EP2.642x2.642mm/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_CSP/LFCSP-VQ-24-1EP_4x4mm_P0.5mm_EP2.642x2.642mm/kicadPcb3dBack.png)|

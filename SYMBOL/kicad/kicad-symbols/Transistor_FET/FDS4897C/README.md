@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKTRANSISTORFETFDS4897C > Transistor_FET : FDS4897C](#szktransistorfetfds4897c--transistor_fet--fds4897c)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Transistor_FET : FDS4897C
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-FDS4897C](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-FDS4897C)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETFDS4897C](http://oom.lt/SZKTRANSISTORFETFDS4897C)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/FDS4897C/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/FDS4897C/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/FDS4897C/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/FDS4897C/image.png)|||

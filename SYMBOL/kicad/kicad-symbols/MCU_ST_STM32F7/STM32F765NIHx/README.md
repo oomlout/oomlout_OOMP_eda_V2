@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKMCUSTSTM32F7STM32F765NIHX > MCU_ST_STM32F7 : STM32F765NIHx](#szkmcuststm32f7stm32f765nihx--mcu_st_stm32f7--stm32f765nihx)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: MCU_ST_STM32F7 : STM32F765NIHx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F7-STM32F765NIHx](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F7-STM32F765NIHx)
 - Short Link: [http://oom.lt/SZKMCUSTSTM32F7STM32F765NIHX](http://oom.lt/SZKMCUSTSTM32F7STM32F765NIHX)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32F7/STM32F765NIHx/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32F7/STM32F765NIHx/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32F7/STM32F765NIHx/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32F7/STM32F765NIHx/image.png)|||

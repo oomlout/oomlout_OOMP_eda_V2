@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSL7SEGVAOSC42S9BW5 > digikey-footprints : LED_7Seg_VAOS-C402S9-BW_50](#fzkicaddigikeykicadlibrarydigikeyfootprintsl7segvaosc42s9bw5--digikey-footprints--led_7seg_vaos-c402s9-bw_50)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: digikey-footprints : LED_7Seg_VAOS-C402S9-BW_50
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-LED_7Seg_VAOS-C402S9-BW_50](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-LED_7Seg_VAOS-C402S9-BW_50)
 - Short Link: [http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSL7SEGVAOSC42S9BW5](http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSL7SEGVAOSC42S9BW5)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/LED_7Seg_VAOS-C402S9-BW_50/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/LED_7Seg_VAOS-C402S9-BW_50/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/LED_7Seg_VAOS-C402S9-BW_50/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/LED_7Seg_VAOS-C402S9-BW_50/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/LED_7Seg_VAOS-C402S9-BW_50/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/LED_7Seg_VAOS-C402S9-BW_50/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/LED_7Seg_VAOS-C402S9-BW_50/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/LED_7Seg_VAOS-C402S9-BW_50/kicadPcb3dBack.png)|

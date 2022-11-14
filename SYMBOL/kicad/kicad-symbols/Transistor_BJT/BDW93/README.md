@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKTRANSISTORBJTBDW93 > Transistor_BJT : BDW93](#szktransistorbjtbdw93--transistor_bjt--bdw93)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Transistor_BJT : BDW93
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-BDW93](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-BDW93)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJTBDW93](http://oom.lt/SZKTRANSISTORBJTBDW93)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_BJT/BDW93/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_BJT/BDW93/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_BJT/BDW93/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_BJT/BDW93/image.png)|||

@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKPOWERPROTECTIONDT124A8LP381 > Power_Protection : DT1240A-08LP3810](#szkpowerprotectiondt124a8lp381--power_protection--dt1240a-08lp3810)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Power_Protection : DT1240A-08LP3810
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Protection-DT1240A-08LP3810](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Protection-DT1240A-08LP3810)
 - Short Link: [http://oom.lt/SZKPOWERPROTECTIONDT124A8LP381](http://oom.lt/SZKPOWERPROTECTIONDT124A8LP381)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Power_Protection/DT1240A-08LP3810/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Power_Protection/DT1240A-08LP3810/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Power_Protection/DT1240A-08LP3810/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Power_Protection/DT1240A-08LP3810/image.png)|||

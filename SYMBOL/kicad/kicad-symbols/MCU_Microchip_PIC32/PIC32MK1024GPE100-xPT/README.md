@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKMCUMCHIPPIC32PIC32MK124GPE1XPT > MCU_Microchip_PIC32 : PIC32MK1024GPE100-xPT](#szkmcumchippic32pic32mk124gpe1xpt--mcu_microchip_pic32--pic32mk1024gpe100-xpt)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: MCU_Microchip_PIC32 : PIC32MK1024GPE100-xPT
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC32-PIC32MK1024GPE100-xPT](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC32-PIC32MK1024GPE100-xPT)
 - Short Link: [http://oom.lt/SZKMCUMCHIPPIC32PIC32MK124GPE1XPT](http://oom.lt/SZKMCUMCHIPPIC32PIC32MK124GPE1XPT)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC32/PIC32MK1024GPE100-xPT/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC32/PIC32MK1024GPE100-xPT/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC32/PIC32MK1024GPE100-xPT/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC32/PIC32MK1024GPE100-xPT/image.png)|||

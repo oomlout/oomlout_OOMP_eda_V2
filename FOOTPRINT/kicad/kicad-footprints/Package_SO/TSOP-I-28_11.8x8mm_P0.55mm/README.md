@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKSOTSI28118X8P55 > Package_SO : TSOP-I-28_11.8x8mm_P0.55mm](#fzksotsi28118x8p55--package_so--tsop-i-28_118x8mm_p055mm)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Package_SO : TSOP-I-28_11.8x8mm_P0.55mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SO-TSOP-I-28_11.8x8mm_P0.55mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SO-TSOP-I-28_11.8x8mm_P0.55mm)
 - Short Link: [http://oom.lt/FZKSOTSI28118X8P55](http://oom.lt/FZKSOTSI28118X8P55)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/TSOP-I-28_11.8x8mm_P0.55mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/TSOP-I-28_11.8x8mm_P0.55mm/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/TSOP-I-28_11.8x8mm_P0.55mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/TSOP-I-28_11.8x8mm_P0.55mm/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/TSOP-I-28_11.8x8mm_P0.55mm/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/TSOP-I-28_11.8x8mm_P0.55mm/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/TSOP-I-28_11.8x8mm_P0.55mm/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/TSOP-I-28_11.8x8mm_P0.55mm/kicadPcb3dBack.png)|

@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKSENCURRENTACS723XMATR4AB > Sensor_Current : ACS723xMATR-40AB](#szksencurrentacs723xmatr4ab--sensor_current--acs723xmatr-40ab)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Sensor_Current : ACS723xMATR-40AB
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-ACS723xMATR-40AB](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-ACS723xMATR-40AB)
 - Short Link: [http://oom.lt/SZKSENCURRENTACS723XMATR4AB](http://oom.lt/SZKSENCURRENTACS723XMATR4AB)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Current/ACS723xMATR-40AB/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Current/ACS723xMATR-40AB/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Current/ACS723xMATR-40AB/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Current/ACS723xMATR-40AB/image.png)|||

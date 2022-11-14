@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKAMPLIFIERAUDIOIRS2452AM > Amplifier_Audio : IRS2452AM](#szkamplifieraudioirs2452am--amplifier_audio--irs2452am)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Amplifier_Audio : IRS2452AM
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Audio-IRS2452AM](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Audio-IRS2452AM)
 - Short Link: [http://oom.lt/SZKAMPLIFIERAUDIOIRS2452AM](http://oom.lt/SZKAMPLIFIERAUDIOIRS2452AM)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Amplifier_Audio/IRS2452AM/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Amplifier_Audio/IRS2452AM/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Amplifier_Audio/IRS2452AM/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Amplifier_Audio/IRS2452AM/image.png)|||

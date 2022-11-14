@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKSENOPTICALSFH25F > Sensor_Optical : SFH205F](#szksenopticalsfh25f--sensor_optical--sfh205f)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Sensor_Optical : SFH205F
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Optical-SFH205F](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Optical-SFH205F)
 - Short Link: [http://oom.lt/SZKSENOPTICALSFH25F](http://oom.lt/SZKSENOPTICALSFH25F)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Optical/SFH205F/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Optical/SFH205F/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Optical/SFH205F/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Optical/SFH205F/image.png)|||

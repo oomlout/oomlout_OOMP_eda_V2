@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKMEMORYEEPROMTMS4C15N > Memory_EEPROM : TMS4C1050N](#szkmemoryeepromtms4c15n--memory_eeprom--tms4c1050n)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Memory_EEPROM : TMS4C1050N
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_EEPROM-TMS4C1050N](http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_EEPROM-TMS4C1050N)
 - Short Link: [http://oom.lt/SZKMEMORYEEPROMTMS4C15N](http://oom.lt/SZKMEMORYEEPROMTMS4C15N)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Memory_EEPROM/TMS4C1050N/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Memory_EEPROM/TMS4C1050N/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Memory_EEPROM/TMS4C1050N/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Memory_EEPROM/TMS4C1050N/image.png)|||

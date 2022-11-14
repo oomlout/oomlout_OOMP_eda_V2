@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKREGULATORLINEARTC214285VXCTTR > Regulator_Linear : TC2014-2.85VxCTTR](#szkregulatorlineartc214285vxcttr--regulator_linear--tc2014-285vxcttr)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Regulator_Linear : TC2014-2.85VxCTTR
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-TC2014-2.85VxCTTR](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-TC2014-2.85VxCTTR)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARTC214285VXCTTR](http://oom.lt/SZKREGULATORLINEARTC214285VXCTTR)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/TC2014-2.85VxCTTR/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/TC2014-2.85VxCTTR/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/TC2014-2.85VxCTTR/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/TC2014-2.85VxCTTR/image.png)|||

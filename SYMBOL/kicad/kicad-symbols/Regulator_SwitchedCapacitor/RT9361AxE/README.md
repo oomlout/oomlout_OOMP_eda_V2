@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKREGULATORSWITCHEDCAPACITORRT9361AXE > Regulator_SwitchedCapacitor : RT9361AxE](#szkregulatorswitchedcapacitorrt9361axe--regulator_switchedcapacitor--rt9361axe)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Regulator_SwitchedCapacitor : RT9361AxE
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_SwitchedCapacitor-RT9361AxE](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_SwitchedCapacitor-RT9361AxE)
 - Short Link: [http://oom.lt/SZKREGULATORSWITCHEDCAPACITORRT9361AXE](http://oom.lt/SZKREGULATORSWITCHEDCAPACITORRT9361AXE)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_SwitchedCapacitor/RT9361AxE/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_SwitchedCapacitor/RT9361AxE/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_SwitchedCapacitor/RT9361AxE/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_SwitchedCapacitor/RT9361AxE/image.png)|||

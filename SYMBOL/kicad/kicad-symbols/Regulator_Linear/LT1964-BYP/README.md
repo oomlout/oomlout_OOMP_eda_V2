@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKREGULATORLINEARLT1964BYP > Regulator_Linear : LT1964-BYP](#szkregulatorlinearlt1964byp--regulator_linear--lt1964-byp)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Regulator_Linear : LT1964-BYP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LT1964-BYP](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LT1964-BYP)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARLT1964BYP](http://oom.lt/SZKREGULATORLINEARLT1964BYP)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LT1964-BYP/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LT1964-BYP/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LT1964-BYP/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LT1964-BYP/image.png)|||

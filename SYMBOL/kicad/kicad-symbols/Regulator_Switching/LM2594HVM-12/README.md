@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKREGULATORSWITCHINGLM2594HVM12 > Regulator_Switching : LM2594HVM-12](#szkregulatorswitchinglm2594hvm12--regulator_switching--lm2594hvm-12)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Regulator_Switching : LM2594HVM-12
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LM2594HVM-12](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LM2594HVM-12)
 - Short Link: [http://oom.lt/SZKREGULATORSWITCHINGLM2594HVM12](http://oom.lt/SZKREGULATORSWITCHINGLM2594HVM12)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/LM2594HVM-12/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/LM2594HVM-12/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/LM2594HVM-12/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/LM2594HVM-12/image.png)|||

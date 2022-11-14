@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKLOGICLEVELTRANSLATORTXB18DQSR > Logic_LevelTranslator : TXB0108DQSR](#szklogicleveltranslatortxb18dqsr--logic_leveltranslator--txb0108dqsr)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Logic_LevelTranslator : TXB0108DQSR
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Logic_LevelTranslator-TXB0108DQSR](http://oom.lt/SYMBOL-kicad-kicad-symbols-Logic_LevelTranslator-TXB0108DQSR)
 - Short Link: [http://oom.lt/SZKLOGICLEVELTRANSLATORTXB18DQSR](http://oom.lt/SZKLOGICLEVELTRANSLATORTXB18DQSR)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Logic_LevelTranslator/TXB0108DQSR/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Logic_LevelTranslator/TXB0108DQSR/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Logic_LevelTranslator/TXB0108DQSR/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Logic_LevelTranslator/TXB0108DQSR/image.png)|||

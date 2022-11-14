@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKMCUNXPCOLDFIREMCF5282 > MCU_NXP_ColdFire : MCF5282](#szkmcunxpcoldfiremcf5282--mcu_nxp_coldfire--mcf5282)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: MCU_NXP_ColdFire : MCF5282
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_NXP_ColdFire-MCF5282](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_NXP_ColdFire-MCF5282)
 - Short Link: [http://oom.lt/SZKMCUNXPCOLDFIREMCF5282](http://oom.lt/SZKMCUNXPCOLDFIREMCF5282)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_NXP_ColdFire/MCF5282/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_NXP_ColdFire/MCF5282/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_NXP_ColdFire/MCF5282/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_NXP_ColdFire/MCF5282/image.png)|||

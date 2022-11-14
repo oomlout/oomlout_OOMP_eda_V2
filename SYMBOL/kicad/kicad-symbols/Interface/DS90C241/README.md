@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKINTERFACEDS9C241 > Interface : DS90C241](#szkinterfaceds9c241--interface--ds90c241)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Interface : DS90C241
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-DS90C241](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-DS90C241)
 - Short Link: [http://oom.lt/SZKINTERFACEDS9C241](http://oom.lt/SZKINTERFACEDS9C241)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface/DS90C241/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface/DS90C241/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface/DS90C241/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface/DS90C241/image.png)|||

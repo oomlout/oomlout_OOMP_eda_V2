@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKANALOGADCADC128D818 > Analog_ADC : ADC128D818](#szkanalogadcadc128d818--analog_adc--adc128d818)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Analog_ADC : ADC128D818
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-ADC128D818](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-ADC128D818)
 - Short Link: [http://oom.lt/SZKANALOGADCADC128D818](http://oom.lt/SZKANALOGADCADC128D818)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Analog_ADC/ADC128D818/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Analog_ADC/ADC128D818/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Analog_ADC/ADC128D818/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Analog_ADC/ADC128D818/image.png)|||

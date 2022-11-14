@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDICHARACTERCA5612SURKWA > Display_Character : CA56-12SURKWA](#szkdicharacterca5612surkwa--display_character--ca56-12surkwa)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Display_Character : CA56-12SURKWA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-CA56-12SURKWA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-CA56-12SURKWA)
 - Short Link: [http://oom.lt/SZKDICHARACTERCA5612SURKWA](http://oom.lt/SZKDICHARACTERCA5612SURKWA)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Display_Character/CA56-12SURKWA/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Display_Character/CA56-12SURKWA/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Display_Character/CA56-12SURKWA/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Display_Character/CA56-12SURKWA/image.png)|||

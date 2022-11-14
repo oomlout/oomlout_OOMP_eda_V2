@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKSENMOTIONLIS2HH12 > Sensor_Motion : LIS2HH12](#szksenmotionlis2hh12--sensor_motion--lis2hh12)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Sensor_Motion : LIS2HH12
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Motion-LIS2HH12](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Motion-LIS2HH12)
 - Short Link: [http://oom.lt/SZKSENMOTIONLIS2HH12](http://oom.lt/SZKSENMOTIONLIS2HH12)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Motion/LIS2HH12/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Motion/LIS2HH12/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Motion/LIS2HH12/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Motion/LIS2HH12/image.png)|||

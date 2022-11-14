@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKSENOPTICALA16 > Sensor_Optical : A1060](#szksenopticala16--sensor_optical--a1060)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Sensor_Optical : A1060
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Optical-A1060](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Optical-A1060)
 - Short Link: [http://oom.lt/SZKSENOPTICALA16](http://oom.lt/SZKSENOPTICALA16)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Optical/A1060/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Optical/A1060/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Optical/A1060/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Optical/A1060/image.png)|||

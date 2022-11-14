@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKSENCURRENTACS76XLC5C > Sensor_Current : ACS706xLC-05C](#szksencurrentacs76xlc5c--sensor_current--acs706xlc-05c)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Sensor_Current : ACS706xLC-05C
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-ACS706xLC-05C](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-ACS706xLC-05C)
 - Short Link: [http://oom.lt/SZKSENCURRENTACS76XLC5C](http://oom.lt/SZKSENCURRENTACS76XLC5C)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Current/ACS706xLC-05C/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Current/ACS706xLC-05C/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Current/ACS706xLC-05C/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Current/ACS706xLC-05C/image.png)|||

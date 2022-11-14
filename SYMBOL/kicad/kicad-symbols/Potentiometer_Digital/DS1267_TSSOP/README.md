@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKPOTENTIOMETERDIGITALDS1267TSS > Potentiometer_Digital : DS1267_TSSOP](#szkpotentiometerdigitalds1267tss--potentiometer_digital--ds1267_tssop)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Potentiometer_Digital : DS1267_TSSOP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Potentiometer_Digital-DS1267_TSSOP](http://oom.lt/SYMBOL-kicad-kicad-symbols-Potentiometer_Digital-DS1267_TSSOP)
 - Short Link: [http://oom.lt/SZKPOTENTIOMETERDIGITALDS1267TSS](http://oom.lt/SZKPOTENTIOMETERDIGITALDS1267TSS)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Potentiometer_Digital/DS1267_TSSOP/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Potentiometer_Digital/DS1267_TSSOP/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Potentiometer_Digital/DS1267_TSSOP/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Potentiometer_Digital/DS1267_TSSOP/image.png)|||

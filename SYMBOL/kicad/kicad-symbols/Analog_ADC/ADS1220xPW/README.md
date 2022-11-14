@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKANALOGADCADS122XPW > Analog_ADC : ADS1220xPW](#szkanalogadcads122xpw--analog_adc--ads1220xpw)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Analog_ADC : ADS1220xPW
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-ADS1220xPW](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-ADS1220xPW)
 - Short Link: [http://oom.lt/SZKANALOGADCADS122XPW](http://oom.lt/SZKANALOGADCADS122XPW)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Analog_ADC/ADS1220xPW/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Analog_ADC/ADS1220xPW/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Analog_ADC/ADS1220xPW/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Analog_ADC/ADS1220xPW/image.png)|||

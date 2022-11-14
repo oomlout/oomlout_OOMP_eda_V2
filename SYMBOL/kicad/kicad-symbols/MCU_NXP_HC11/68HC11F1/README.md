@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKMCUNXPHC1168HC11F1 > MCU_NXP_HC11 : 68HC11F1](#szkmcunxphc1168hc11f1--mcu_nxp_hc11--68hc11f1)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: MCU_NXP_HC11 : 68HC11F1
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_NXP_HC11-68HC11F1](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_NXP_HC11-68HC11F1)
 - Short Link: [http://oom.lt/SZKMCUNXPHC1168HC11F1](http://oom.lt/SZKMCUNXPHC1168HC11F1)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_NXP_HC11/68HC11F1/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_NXP_HC11/68HC11F1/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_NXP_HC11/68HC11F1/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_NXP_HC11/68HC11F1/image.png)|||

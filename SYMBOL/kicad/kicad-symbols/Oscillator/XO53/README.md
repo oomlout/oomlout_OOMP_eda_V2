@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKOCSXO53 > Oscillator : XO53](#szkocsxo53--oscillator--xo53)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Oscillator : XO53
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Oscillator-XO53](http://oom.lt/SYMBOL-kicad-kicad-symbols-Oscillator-XO53)
 - Short Link: [http://oom.lt/SZKOCSXO53](http://oom.lt/SZKOCSXO53)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Oscillator/XO53/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Oscillator/XO53/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Oscillator/XO53/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Oscillator/XO53/image.png)|||

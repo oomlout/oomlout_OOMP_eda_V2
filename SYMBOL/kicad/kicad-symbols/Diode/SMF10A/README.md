@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDIODESMF1A > Diode : SMF10A](#szkdiodesmf1a--diode--smf10a)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Diode : SMF10A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-SMF10A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-SMF10A)
 - Short Link: [http://oom.lt/SZKDIODESMF1A](http://oom.lt/SZKDIODESMF1A)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Diode/SMF10A/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Diode/SMF10A/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Diode/SMF10A/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Diode/SMF10A/image.png)|||

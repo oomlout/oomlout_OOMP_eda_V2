@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKMEMORYFLASHW25X4CLSS > Memory_Flash : W25X40CLSS](#szkmemoryflashw25x4clss--memory_flash--w25x40clss)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Memory_Flash : W25X40CLSS
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_Flash-W25X40CLSS](http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_Flash-W25X40CLSS)
 - Short Link: [http://oom.lt/SZKMEMORYFLASHW25X4CLSS](http://oom.lt/SZKMEMORYFLASHW25X4CLSS)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Memory_Flash/W25X40CLSS/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Memory_Flash/W25X40CLSS/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Memory_Flash/W25X40CLSS/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Memory_Flash/W25X40CLSS/image.png)|||

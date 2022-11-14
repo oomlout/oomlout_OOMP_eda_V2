@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZK74XXSN74AVC16827DGGR > 74xx : SN74AVC16827DGGR](#szk74xxsn74avc16827dggr--74xx--sn74avc16827dggr)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: 74xx : SN74AVC16827DGGR
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-74xx-SN74AVC16827DGGR](http://oom.lt/SYMBOL-kicad-kicad-symbols-74xx-SN74AVC16827DGGR)
 - Short Link: [http://oom.lt/SZK74XXSN74AVC16827DGGR](http://oom.lt/SZK74XXSN74AVC16827DGGR)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/74xx/SN74AVC16827DGGR/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/74xx/SN74AVC16827DGGR/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/74xx/SN74AVC16827DGGR/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/74xx/SN74AVC16827DGGR/image.png)|||

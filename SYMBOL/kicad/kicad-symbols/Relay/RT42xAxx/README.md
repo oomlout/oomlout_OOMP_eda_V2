@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKRELAYRT42XAXX > Relay : RT42xAxx](#szkrelayrt42xaxx--relay--rt42xaxx)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Relay : RT42xAxx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-RT42xAxx](http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-RT42xAxx)
 - Short Link: [http://oom.lt/SZKRELAYRT42XAXX](http://oom.lt/SZKRELAYRT42XAXX)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Relay/RT42xAxx/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Relay/RT42xAxx/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Relay/RT42xAxx/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Relay/RT42xAxx/image.png)|||

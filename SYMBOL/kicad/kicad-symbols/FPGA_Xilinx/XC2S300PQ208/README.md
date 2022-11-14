@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKFPGAXILINXXC2S3PQ28 > FPGA_Xilinx : XC2S300PQ208](#szkfpgaxilinxxc2s3pq28--fpga_xilinx--xc2s300pq208)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: FPGA_Xilinx : XC2S300PQ208
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-FPGA_Xilinx-XC2S300PQ208](http://oom.lt/SYMBOL-kicad-kicad-symbols-FPGA_Xilinx-XC2S300PQ208)
 - Short Link: [http://oom.lt/SZKFPGAXILINXXC2S3PQ28](http://oom.lt/SZKFPGAXILINXXC2S3PQ28)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/FPGA_Xilinx/XC2S300PQ208/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/FPGA_Xilinx/XC2S300PQ208/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/FPGA_Xilinx/XC2S300PQ208/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/FPGA_Xilinx/XC2S300PQ208/image.png)|||

@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZECONCHIPCARDISO7816AFNORCHIPCARD > con-chipcard-iso7816 : AFNOR-CHIPCARD](#fzeconchipcardiso7816afnorchipcard--con-chipcard-iso7816--afnor-chipcard)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: con-chipcard-iso7816 : AFNOR-CHIPCARD
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-chipcard-iso7816-AFNOR-CHIPCARD](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-chipcard-iso7816-AFNOR-CHIPCARD)
 - Short Link: [http://oom.lt/FZECONCHIPCARDISO7816AFNORCHIPCARD](http://oom.lt/FZECONCHIPCARDISO7816AFNORCHIPCARD)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/con-chipcard-iso7816/AFNOR-CHIPCARD/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/con-chipcard-iso7816/AFNOR-CHIPCARD/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/con-chipcard-iso7816/AFNOR-CHIPCARD/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/con-chipcard-iso7816/AFNOR-CHIPCARD/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/con-chipcard-iso7816/AFNOR-CHIPCARD/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/con-chipcard-iso7816/AFNOR-CHIPCARD/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/con-chipcard-iso7816/AFNOR-CHIPCARD/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/con-chipcard-iso7816/AFNOR-CHIPCARD/kicadPcb3dBack.png)|

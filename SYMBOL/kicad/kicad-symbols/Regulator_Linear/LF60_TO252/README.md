@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKREGULATORLINEARLF6TO252 > Regulator_Linear : LF60_TO252](#szkregulatorlinearlf6to252--regulator_linear--lf60_to252)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Regulator_Linear : LF60_TO252
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LF60_TO252](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LF60_TO252)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARLF6TO252](http://oom.lt/SZKREGULATORLINEARLF6TO252)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LF60_TO252/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LF60_TO252/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LF60_TO252/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LF60_TO252/image.png)|||

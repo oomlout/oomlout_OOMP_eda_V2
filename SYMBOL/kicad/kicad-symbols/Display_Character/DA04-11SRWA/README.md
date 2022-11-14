@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDICHARACTERDA411SRWA > Display_Character : DA04-11SRWA](#szkdicharacterda411srwa--display_character--da04-11srwa)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Display_Character : DA04-11SRWA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-DA04-11SRWA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-DA04-11SRWA)
 - Short Link: [http://oom.lt/SZKDICHARACTERDA411SRWA](http://oom.lt/SZKDICHARACTERDA411SRWA)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Display_Character/DA04-11SRWA/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Display_Character/DA04-11SRWA/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Display_Character/DA04-11SRWA/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Display_Character/DA04-11SRWA/image.png)|||

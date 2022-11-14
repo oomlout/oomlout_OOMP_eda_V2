@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKMCUSTSTM32H7STM32H743VITX > MCU_ST_STM32H7 : STM32H743VITx](#szkmcuststm32h7stm32h743vitx--mcu_st_stm32h7--stm32h743vitx)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: MCU_ST_STM32H7 : STM32H743VITx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32H7-STM32H743VITx](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32H7-STM32H743VITx)
 - Short Link: [http://oom.lt/SZKMCUSTSTM32H7STM32H743VITX](http://oom.lt/SZKMCUSTSTM32H7STM32H743VITX)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32H7/STM32H743VITx/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32H7/STM32H743VITx/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32H7/STM32H743VITx/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32H7/STM32H743VITx/image.png)|||

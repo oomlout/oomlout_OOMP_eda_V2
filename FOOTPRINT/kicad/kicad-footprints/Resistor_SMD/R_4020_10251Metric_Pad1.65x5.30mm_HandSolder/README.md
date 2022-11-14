@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKRESISTORSMR421251METRICPAD165X53HANDSOLDER > Resistor_SMD : R_4020_10251Metric_Pad1.65x5.30mm_HandSolder](#fzkresistorsmr421251metricpad165x53handsolder--resistor_smd--r_4020_10251metric_pad165x530mm_handsolder)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Resistor_SMD : R_4020_10251Metric_Pad1.65x5.30mm_HandSolder
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_4020_10251Metric_Pad1.65x5.30mm_HandSolder](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_4020_10251Metric_Pad1.65x5.30mm_HandSolder)
 - Short Link: [http://oom.lt/FZKRESISTORSMR421251METRICPAD165X53HANDSOLDER](http://oom.lt/FZKRESISTORSMR421251METRICPAD165X53HANDSOLDER)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_4020_10251Metric_Pad1.65x5.30mm_HandSolder/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_4020_10251Metric_Pad1.65x5.30mm_HandSolder/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_4020_10251Metric_Pad1.65x5.30mm_HandSolder/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_4020_10251Metric_Pad1.65x5.30mm_HandSolder/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_4020_10251Metric_Pad1.65x5.30mm_HandSolder/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_4020_10251Metric_Pad1.65x5.30mm_HandSolder/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_4020_10251Metric_Pad1.65x5.30mm_HandSolder/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_4020_10251Metric_Pad1.65x5.30mm_HandSolder/kicadPcb3dBack.png)|

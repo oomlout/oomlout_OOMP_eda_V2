@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKINDUCTORSMLNEOSIDMCOILMS36L > Inductor_SMD : L_Neosid_MicroCoil_Ms36-L](#fzkinductorsmlneosidmcoilms36l--inductor_smd--l_neosid_microcoil_ms36-l)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Inductor_SMD : L_Neosid_MicroCoil_Ms36-L
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Neosid_MicroCoil_Ms36-L](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Neosid_MicroCoil_Ms36-L)
 - Short Link: [http://oom.lt/FZKINDUCTORSMLNEOSIDMCOILMS36L](http://oom.lt/FZKINDUCTORSMLNEOSIDMCOILMS36L)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Neosid_MicroCoil_Ms36-L/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Neosid_MicroCoil_Ms36-L/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Neosid_MicroCoil_Ms36-L/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Neosid_MicroCoil_Ms36-L/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Neosid_MicroCoil_Ms36-L/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Neosid_MicroCoil_Ms36-L/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Neosid_MicroCoil_Ms36-L/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Neosid_MicroCoil_Ms36-L/kicadPcb3dBack.png)|

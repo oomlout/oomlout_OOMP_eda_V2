@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKMCUMOADAFEATHERWICEDWIFI > MCU_Module : Adafruit_Feather_WICED_Wifi](#szkmcumoadafeatherwicedwifi--mcu_module--adafruit_feather_wiced_wifi)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: MCU_Module : Adafruit_Feather_WICED_Wifi
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Module-Adafruit_Feather_WICED_Wifi](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Module-Adafruit_Feather_WICED_Wifi)
 - Short Link: [http://oom.lt/SZKMCUMOADAFEATHERWICEDWIFI](http://oom.lt/SZKMCUMOADAFEATHERWICEDWIFI)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Module/Adafruit_Feather_WICED_Wifi/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Module/Adafruit_Feather_WICED_Wifi/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Module/Adafruit_Feather_WICED_Wifi/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Module/Adafruit_Feather_WICED_Wifi/image.png)|||

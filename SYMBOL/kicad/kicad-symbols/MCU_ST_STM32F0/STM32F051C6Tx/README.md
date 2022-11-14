@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKMCUSTSTM32FSTM32F51C6TX > MCU_ST_STM32F0 : STM32F051C6Tx](#szkmcuststm32fstm32f51c6tx--mcu_st_stm32f0--stm32f051c6tx)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: MCU_ST_STM32F0 : STM32F051C6Tx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F0-STM32F051C6Tx](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F0-STM32F051C6Tx)
 - Short Link: [http://oom.lt/SZKMCUSTSTM32FSTM32F51C6TX](http://oom.lt/SZKMCUSTSTM32FSTM32F51C6TX)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32F0/STM32F051C6Tx/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32F0/STM32F051C6Tx/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32F0/STM32F051C6Tx/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32F0/STM32F051C6Tx/image.png)|||

@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKTRANSISTORFETZXMN1A7F > Transistor_FET : ZXMN10A07F](#szktransistorfetzxmn1a7f--transistor_fet--zxmn10a07f)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Transistor_FET : ZXMN10A07F
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-ZXMN10A07F](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-ZXMN10A07F)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETZXMN1A7F](http://oom.lt/SZKTRANSISTORFETZXMN1A7F)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/ZXMN10A07F/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/ZXMN10A07F/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/ZXMN10A07F/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/ZXMN10A07F/image.png)|||

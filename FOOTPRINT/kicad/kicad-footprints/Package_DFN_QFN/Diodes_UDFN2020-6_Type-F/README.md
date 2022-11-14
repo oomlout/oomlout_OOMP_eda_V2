@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKDFNDIODESUDFN226TYPEF > Package_DFN_QFN : Diodes_UDFN2020-6_Type-F](#fzkdfndiodesudfn226typef--package_dfn_qfn--diodes_udfn2020-6_type-f)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Package_DFN_QFN : Diodes_UDFN2020-6_Type-F
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Diodes_UDFN2020-6_Type-F](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Diodes_UDFN2020-6_Type-F)
 - Short Link: [http://oom.lt/FZKDFNDIODESUDFN226TYPEF](http://oom.lt/FZKDFNDIODESUDFN226TYPEF)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/Diodes_UDFN2020-6_Type-F/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/Diodes_UDFN2020-6_Type-F/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/Diodes_UDFN2020-6_Type-F/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/Diodes_UDFN2020-6_Type-F/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/Diodes_UDFN2020-6_Type-F/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/Diodes_UDFN2020-6_Type-F/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/Diodes_UDFN2020-6_Type-F/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/Diodes_UDFN2020-6_Type-F/kicadPcb3dBack.png)|

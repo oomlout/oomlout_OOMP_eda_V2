@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKREGULATORLINEARLT38XST > Regulator_Linear : LT3080xST](#szkregulatorlinearlt38xst--regulator_linear--lt3080xst)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Regulator_Linear : LT3080xST
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LT3080xST](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LT3080xST)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARLT38XST](http://oom.lt/SZKREGULATORLINEARLT38XST)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LT3080xST/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LT3080xST/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LT3080xST/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LT3080xST/image.png)|||

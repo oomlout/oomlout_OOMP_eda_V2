@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKBGAFBBGA48423X23LAYOUT22X22P1 > Package_BGA : FB-BGA-484_23.0x23.0mm_Layout22x22_P1.0mm](#fzkbgafbbga48423x23layout22x22p1--package_bga--fb-bga-484_230x230mm_layout22x22_p10mm)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Package_BGA : FB-BGA-484_23.0x23.0mm_Layout22x22_P1.0mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_BGA-FB-BGA-484_23.0x23.0mm_Layout22x22_P1.0mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_BGA-FB-BGA-484_23.0x23.0mm_Layout22x22_P1.0mm)
 - Short Link: [http://oom.lt/FZKBGAFBBGA48423X23LAYOUT22X22P1](http://oom.lt/FZKBGAFBBGA48423X23LAYOUT22X22P1)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_BGA/FB-BGA-484_23.0x23.0mm_Layout22x22_P1.0mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_BGA/FB-BGA-484_23.0x23.0mm_Layout22x22_P1.0mm/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_BGA/FB-BGA-484_23.0x23.0mm_Layout22x22_P1.0mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_BGA/FB-BGA-484_23.0x23.0mm_Layout22x22_P1.0mm/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_BGA/FB-BGA-484_23.0x23.0mm_Layout22x22_P1.0mm/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_BGA/FB-BGA-484_23.0x23.0mm_Layout22x22_P1.0mm/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_BGA/FB-BGA-484_23.0x23.0mm_Layout22x22_P1.0mm/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_BGA/FB-BGA-484_23.0x23.0mm_Layout22x22_P1.0mm/kicadPcb3dBack.png)|

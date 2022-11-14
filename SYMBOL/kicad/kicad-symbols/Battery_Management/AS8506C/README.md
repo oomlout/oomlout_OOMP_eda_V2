@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKBATMANAGEMENTAS856C > Battery_Management : AS8506C](#szkbatmanagementas856c--battery_management--as8506c)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Battery_Management : AS8506C
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Battery_Management-AS8506C](http://oom.lt/SYMBOL-kicad-kicad-symbols-Battery_Management-AS8506C)
 - Short Link: [http://oom.lt/SZKBATMANAGEMENTAS856C](http://oom.lt/SZKBATMANAGEMENTAS856C)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Battery_Management/AS8506C/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Battery_Management/AS8506C/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Battery_Management/AS8506C/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Battery_Management/AS8506C/image.png)|||

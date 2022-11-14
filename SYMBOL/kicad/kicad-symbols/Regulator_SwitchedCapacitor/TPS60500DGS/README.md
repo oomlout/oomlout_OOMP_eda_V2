@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKREGULATORSWITCHEDCAPACITORTPS65DGS > Regulator_SwitchedCapacitor : TPS60500DGS](#szkregulatorswitchedcapacitortps65dgs--regulator_switchedcapacitor--tps60500dgs)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Regulator_SwitchedCapacitor : TPS60500DGS
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_SwitchedCapacitor-TPS60500DGS](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_SwitchedCapacitor-TPS60500DGS)
 - Short Link: [http://oom.lt/SZKREGULATORSWITCHEDCAPACITORTPS65DGS](http://oom.lt/SZKREGULATORSWITCHEDCAPACITORTPS65DGS)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_SwitchedCapacitor/TPS60500DGS/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_SwitchedCapacitor/TPS60500DGS/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_SwitchedCapacitor/TPS60500DGS/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_SwitchedCapacitor/TPS60500DGS/image.png)|||

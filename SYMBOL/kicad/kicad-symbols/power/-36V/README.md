@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKPOWER36V > power : -36V](#szkpower36v--power---36v)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: power : -36V
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-power--36V](http://oom.lt/SYMBOL-kicad-kicad-symbols-power--36V)
 - Short Link: [http://oom.lt/SZKPOWER36V](http://oom.lt/SZKPOWER36V)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/power/-36V/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/power/-36V/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/power/-36V/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/power/-36V/image.png)|||

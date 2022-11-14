@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKISOLATORISO7762FDW > Isolator : ISO7762FDW](#szkisolatoriso7762fdw--isolator--iso7762fdw)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Isolator : ISO7762FDW
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-ISO7762FDW](http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-ISO7762FDW)
 - Short Link: [http://oom.lt/SZKISOLATORISO7762FDW](http://oom.lt/SZKISOLATORISO7762FDW)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Isolator/ISO7762FDW/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Isolator/ISO7762FDW/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Isolator/ISO7762FDW/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Isolator/ISO7762FDW/image.png)|||

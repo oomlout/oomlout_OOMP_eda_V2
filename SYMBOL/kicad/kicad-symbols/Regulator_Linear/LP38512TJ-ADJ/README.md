@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKREGULATORLINEARLP38512TJADJ > Regulator_Linear : LP38512TJ-ADJ](#szkregulatorlinearlp38512tjadj--regulator_linear--lp38512tj-adj)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Regulator_Linear : LP38512TJ-ADJ
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LP38512TJ-ADJ](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LP38512TJ-ADJ)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARLP38512TJADJ](http://oom.lt/SZKREGULATORLINEARLP38512TJADJ)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LP38512TJ-ADJ/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LP38512TJ-ADJ/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LP38512TJ-ADJ/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LP38512TJ-ADJ/image.png)|||

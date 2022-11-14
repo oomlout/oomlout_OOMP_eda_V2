@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKDIPDIP24W116SO > Package_DIP : DIP-24_W10.16mm_Socket](#fzkdipdip24w116so--package_dip--dip-24_w1016mm_socket)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Package_DIP : DIP-24_W10.16mm_Socket
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DIP-DIP-24_W10.16mm_Socket](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DIP-DIP-24_W10.16mm_Socket)
 - Short Link: [http://oom.lt/FZKDIPDIP24W116SO](http://oom.lt/FZKDIPDIP24W116SO)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_DIP/DIP-24_W10.16mm_Socket/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_DIP/DIP-24_W10.16mm_Socket/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_DIP/DIP-24_W10.16mm_Socket/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_DIP/DIP-24_W10.16mm_Socket/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_DIP/DIP-24_W10.16mm_Socket/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_DIP/DIP-24_W10.16mm_Socket/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_DIP/DIP-24_W10.16mm_Socket/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_DIP/DIP-24_W10.16mm_Socket/kicadPcb3dBack.png)|

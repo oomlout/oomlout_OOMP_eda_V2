@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKAMPLIFIERCURRENTINA24A3PW > Amplifier_Current : INA240A3PW](#szkamplifiercurrentina24a3pw--amplifier_current--ina240a3pw)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Amplifier_Current : INA240A3PW
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Current-INA240A3PW](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Current-INA240A3PW)
 - Short Link: [http://oom.lt/SZKAMPLIFIERCURRENTINA24A3PW](http://oom.lt/SZKAMPLIFIERCURRENTINA24A3PW)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Amplifier_Current/INA240A3PW/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Amplifier_Current/INA240A3PW/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Amplifier_Current/INA240A3PW/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Amplifier_Current/INA240A3PW/image.png)|||

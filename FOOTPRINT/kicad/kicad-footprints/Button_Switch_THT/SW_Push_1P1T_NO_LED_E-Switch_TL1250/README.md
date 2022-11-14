@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKBSWPUSH1P1TNOLESWITCHTL125 > Button_Switch_THT : SW_Push_1P1T_NO_LED_E-Switch_TL1250](#fzkbswpush1p1tnoleswitchtl125--button_switch_tht--sw_push_1p1t_no_led_e-switch_tl1250)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Button_Switch_THT : SW_Push_1P1T_NO_LED_E-Switch_TL1250
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Button_Switch_THT-SW_Push_1P1T_NO_LED_E-Switch_TL1250](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Button_Switch_THT-SW_Push_1P1T_NO_LED_E-Switch_TL1250)
 - Short Link: [http://oom.lt/FZKBSWPUSH1P1TNOLESWITCHTL125](http://oom.lt/FZKBSWPUSH1P1TNOLESWITCHTL125)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/SW_Push_1P1T_NO_LED_E-Switch_TL1250/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/SW_Push_1P1T_NO_LED_E-Switch_TL1250/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/SW_Push_1P1T_NO_LED_E-Switch_TL1250/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/SW_Push_1P1T_NO_LED_E-Switch_TL1250/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/SW_Push_1P1T_NO_LED_E-Switch_TL1250/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/SW_Push_1P1T_NO_LED_E-Switch_TL1250/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/SW_Push_1P1T_NO_LED_E-Switch_TL1250/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/SW_Push_1P1T_NO_LED_E-Switch_TL1250/kicadPcb3dBack.png)|

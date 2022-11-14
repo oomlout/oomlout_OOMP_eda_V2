@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKBATMANAGEMENTMC34673 > Battery_Management : MC34673](#szkbatmanagementmc34673--battery_management--mc34673)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Battery_Management : MC34673
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Battery_Management-MC34673](http://oom.lt/SYMBOL-kicad-kicad-symbols-Battery_Management-MC34673)
 - Short Link: [http://oom.lt/SZKBATMANAGEMENTMC34673](http://oom.lt/SZKBATMANAGEMENTMC34673)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Battery_Management/MC34673/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Battery_Management/MC34673/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Battery_Management/MC34673/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Battery_Management/MC34673/image.png)|||

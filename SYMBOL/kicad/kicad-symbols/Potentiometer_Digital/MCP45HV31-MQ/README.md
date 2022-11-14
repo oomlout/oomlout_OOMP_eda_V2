@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKPOTENTIOMETERDIGITALMCP45HV31MQ > Potentiometer_Digital : MCP45HV31-MQ](#szkpotentiometerdigitalmcp45hv31mq--potentiometer_digital--mcp45hv31-mq)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Potentiometer_Digital : MCP45HV31-MQ
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Potentiometer_Digital-MCP45HV31-MQ](http://oom.lt/SYMBOL-kicad-kicad-symbols-Potentiometer_Digital-MCP45HV31-MQ)
 - Short Link: [http://oom.lt/SZKPOTENTIOMETERDIGITALMCP45HV31MQ](http://oom.lt/SZKPOTENTIOMETERDIGITALMCP45HV31MQ)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Potentiometer_Digital/MCP45HV31-MQ/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Potentiometer_Digital/MCP45HV31-MQ/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Potentiometer_Digital/MCP45HV31-MQ/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Potentiometer_Digital/MCP45HV31-MQ/image.png)|||

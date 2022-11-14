@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKSENMOTIONBMF55 > Sensor_Motion : BMF055](#szksenmotionbmf55--sensor_motion--bmf055)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Sensor_Motion : BMF055
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Motion-BMF055](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Motion-BMF055)
 - Short Link: [http://oom.lt/SZKSENMOTIONBMF55](http://oom.lt/SZKSENMOTIONBMF55)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Motion/BMF055/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Motion/BMF055/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Motion/BMF055/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Motion/BMF055/image.png)|||

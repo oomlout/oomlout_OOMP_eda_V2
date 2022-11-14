@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKSENTEMPERATUREMCP9844XXMN > Sensor_Temperature : MCP9844x-xMN](#szksentemperaturemcp9844xxmn--sensor_temperature--mcp9844x-xmn)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Sensor_Temperature : MCP9844x-xMN
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Temperature-MCP9844x-xMN](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Temperature-MCP9844x-xMN)
 - Short Link: [http://oom.lt/SZKSENTEMPERATUREMCP9844XXMN](http://oom.lt/SZKSENTEMPERATUREMCP9844XXMN)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Temperature/MCP9844x-xMN/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Temperature/MCP9844x-xMN/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Temperature/MCP9844x-xMN/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Temperature/MCP9844x-xMN/image.png)|||

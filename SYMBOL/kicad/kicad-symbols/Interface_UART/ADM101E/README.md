@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKINTERFACEUARTADM11E > Interface_UART : ADM101E](#szkinterfaceuartadm11e--interface_uart--adm101e)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Interface_UART : ADM101E
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_UART-ADM101E](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_UART-ADM101E)
 - Short Link: [http://oom.lt/SZKINTERFACEUARTADM11E](http://oom.lt/SZKINTERFACEUARTADM11E)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface_UART/ADM101E/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface_UART/ADM101E/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface_UART/ADM101E/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface_UART/ADM101E/image.png)|||

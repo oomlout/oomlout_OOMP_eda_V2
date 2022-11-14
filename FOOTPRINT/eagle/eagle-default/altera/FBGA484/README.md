@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZEALTERAFBGA484 > altera : FBGA484](#fzealterafbga484--altera--fbga484)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: altera : FBGA484
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-altera-FBGA484](http://oom.lt/FOOTPRINT-eagle-eagle-default-altera-FBGA484)
 - Short Link: [http://oom.lt/FZEALTERAFBGA484](http://oom.lt/FZEALTERAFBGA484)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/altera/FBGA484/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/altera/FBGA484/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/altera/FBGA484/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/altera/FBGA484/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/altera/FBGA484/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/altera/FBGA484/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/altera/FBGA484/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/altera/FBGA484/kicadPcb3dBack.png)|

@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKREGULATORLINEARTC218533VXCTTR > Regulator_Linear : TC2185-3.3VxCTTR](#szkregulatorlineartc218533vxcttr--regulator_linear--tc2185-33vxcttr)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Regulator_Linear : TC2185-3.3VxCTTR
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-TC2185-3.3VxCTTR](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-TC2185-3.3VxCTTR)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARTC218533VXCTTR](http://oom.lt/SZKREGULATORLINEARTC218533VXCTTR)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/TC2185-3.3VxCTTR/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/TC2185-3.3VxCTTR/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/TC2185-3.3VxCTTR/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/TC2185-3.3VxCTTR/image.png)|||

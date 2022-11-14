@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDEVICELBRGA > Device : LED_BRGA](#szkdevicelbrga--device--led_brga)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Device : LED_BRGA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-LED_BRGA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-LED_BRGA)
 - Short Link: [http://oom.lt/SZKDEVICELBRGA](http://oom.lt/SZKDEVICELBRGA)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/LED_BRGA/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/LED_BRGA/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/LED_BRGA/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/LED_BRGA/image.png)|||

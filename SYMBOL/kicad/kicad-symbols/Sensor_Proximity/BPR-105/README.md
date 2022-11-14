@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKSENPROXIMITYBPR15 > Sensor_Proximity : BPR-105](#szksenproximitybpr15--sensor_proximity--bpr-105)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Sensor_Proximity : BPR-105
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Proximity-BPR-105](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Proximity-BPR-105)
 - Short Link: [http://oom.lt/SZKSENPROXIMITYBPR15](http://oom.lt/SZKSENPROXIMITYBPR15)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Proximity/BPR-105/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Proximity/BPR-105/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Proximity/BPR-105/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Proximity/BPR-105/image.png)|||

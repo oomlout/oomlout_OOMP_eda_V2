@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKREGULATORSWITCHINGMAX535BUPA > Regulator_Switching : MAX5035BUPA](#szkregulatorswitchingmax535bupa--regulator_switching--max5035bupa)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Regulator_Switching : MAX5035BUPA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-MAX5035BUPA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-MAX5035BUPA)
 - Short Link: [http://oom.lt/SZKREGULATORSWITCHINGMAX535BUPA](http://oom.lt/SZKREGULATORSWITCHINGMAX535BUPA)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/MAX5035BUPA/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/MAX5035BUPA/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/MAX5035BUPA/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/MAX5035BUPA/image.png)|||

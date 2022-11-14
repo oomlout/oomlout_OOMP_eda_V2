@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZEALLEGROSLA752MLF872 > allegro : SLA7052MLF872](#fzeallegrosla752mlf872--allegro--sla7052mlf872)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: allegro : SLA7052MLF872
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-allegro-SLA7052MLF872](http://oom.lt/FOOTPRINT-eagle-eagle-default-allegro-SLA7052MLF872)
 - Short Link: [http://oom.lt/FZEALLEGROSLA752MLF872](http://oom.lt/FZEALLEGROSLA752MLF872)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/allegro/SLA7052MLF872/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/allegro/SLA7052MLF872/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/allegro/SLA7052MLF872/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/allegro/SLA7052MLF872/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/allegro/SLA7052MLF872/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/allegro/SLA7052MLF872/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/allegro/SLA7052MLF872/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/allegro/SLA7052MLF872/kicadPcb3dBack.png)|

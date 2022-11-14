@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDEVICELABGR > Device : LED_ABGR](#szkdevicelabgr--device--led_abgr)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Device : LED_ABGR
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-LED_ABGR](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-LED_ABGR)
 - Short Link: [http://oom.lt/SZKDEVICELABGR](http://oom.lt/SZKDEVICELABGR)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/LED_ABGR/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/LED_ABGR/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/LED_ABGR/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/LED_ABGR/image.png)|||

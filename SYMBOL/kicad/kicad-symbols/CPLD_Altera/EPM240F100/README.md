@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKCPLDALTERAEPM24F1 > CPLD_Altera : EPM240F100](#szkcpldalteraepm24f1--cpld_altera--epm240f100)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: CPLD_Altera : EPM240F100
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-CPLD_Altera-EPM240F100](http://oom.lt/SYMBOL-kicad-kicad-symbols-CPLD_Altera-EPM240F100)
 - Short Link: [http://oom.lt/SZKCPLDALTERAEPM24F1](http://oom.lt/SZKCPLDALTERAEPM24F1)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/CPLD_Altera/EPM240F100/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/CPLD_Altera/EPM240F100/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/CPLD_Altera/EPM240F100/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/CPLD_Altera/EPM240F100/image.png)|||

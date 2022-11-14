@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDRIVERFETMCP1415R > Driver_FET : MCP1415R](#szkdriverfetmcp1415r--driver_fet--mcp1415r)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Driver_FET : MCP1415R
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-MCP1415R](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-MCP1415R)
 - Short Link: [http://oom.lt/SZKDRIVERFETMCP1415R](http://oom.lt/SZKDRIVERFETMCP1415R)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Driver_FET/MCP1415R/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Driver_FET/MCP1415R/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Driver_FET/MCP1415R/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Driver_FET/MCP1415R/image.png)|||

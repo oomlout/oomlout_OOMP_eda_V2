@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKLOGICLEVELTRANSLATORSN74AUP1T34DCK > Logic_LevelTranslator : SN74AUP1T34DCK](#szklogicleveltranslatorsn74aup1t34dck--logic_leveltranslator--sn74aup1t34dck)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Logic_LevelTranslator : SN74AUP1T34DCK
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Logic_LevelTranslator-SN74AUP1T34DCK](http://oom.lt/SYMBOL-kicad-kicad-symbols-Logic_LevelTranslator-SN74AUP1T34DCK)
 - Short Link: [http://oom.lt/SZKLOGICLEVELTRANSLATORSN74AUP1T34DCK](http://oom.lt/SZKLOGICLEVELTRANSLATORSN74AUP1T34DCK)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Logic_LevelTranslator/SN74AUP1T34DCK/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Logic_LevelTranslator/SN74AUP1T34DCK/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Logic_LevelTranslator/SN74AUP1T34DCK/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Logic_LevelTranslator/SN74AUP1T34DCK/image.png)|||

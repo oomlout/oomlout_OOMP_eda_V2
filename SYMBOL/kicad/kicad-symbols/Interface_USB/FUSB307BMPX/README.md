@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKINTERFACEUFU37BMPX > Interface_USB : FUSB307BMPX](#szkinterfaceufu37bmpx--interface_usb--fusb307bmpx)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Interface_USB : FUSB307BMPX
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_USB-FUSB307BMPX](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_USB-FUSB307BMPX)
 - Short Link: [http://oom.lt/SZKINTERFACEUFU37BMPX](http://oom.lt/SZKINTERFACEUFU37BMPX)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface_USB/FUSB307BMPX/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface_USB/FUSB307BMPX/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface_USB/FUSB307BMPX/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface_USB/FUSB307BMPX/image.png)|||

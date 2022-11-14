@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKCCRECTL18W9P15FKS3FKP3 > Capacitor_THT : C_Rect_L18.0mm_W9.0mm_P15.00mm_FKS3_FKP3](#fzkccrectl18w9p15fks3fkp3--capacitor_tht--c_rect_l180mm_w90mm_p1500mm_fks3_fkp3)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Capacitor_THT : C_Rect_L18.0mm_W9.0mm_P15.00mm_FKS3_FKP3
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_THT-C_Rect_L18.0mm_W9.0mm_P15.00mm_FKS3_FKP3](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_THT-C_Rect_L18.0mm_W9.0mm_P15.00mm_FKS3_FKP3)
 - Short Link: [http://oom.lt/FZKCCRECTL18W9P15FKS3FKP3](http://oom.lt/FZKCCRECTL18W9P15FKS3FKP3)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_THT/C_Rect_L18.0mm_W9.0mm_P15.00mm_FKS3_FKP3/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_THT/C_Rect_L18.0mm_W9.0mm_P15.00mm_FKS3_FKP3/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_THT/C_Rect_L18.0mm_W9.0mm_P15.00mm_FKS3_FKP3/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_THT/C_Rect_L18.0mm_W9.0mm_P15.00mm_FKS3_FKP3/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_THT/C_Rect_L18.0mm_W9.0mm_P15.00mm_FKS3_FKP3/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_THT/C_Rect_L18.0mm_W9.0mm_P15.00mm_FKS3_FKP3/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_THT/C_Rect_L18.0mm_W9.0mm_P15.00mm_FKS3_FKP3/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_THT/C_Rect_L18.0mm_W9.0mm_P15.00mm_FKS3_FKP3/kicadPcb3dBack.png)|

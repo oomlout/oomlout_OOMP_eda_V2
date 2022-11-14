@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKAMPLIFIEROPERATIONALADA4872ARM > Amplifier_Operational : ADA4807-2ARM](#szkamplifieroperationalada4872arm--amplifier_operational--ada4807-2arm)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Amplifier_Operational : ADA4807-2ARM
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-ADA4807-2ARM](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-ADA4807-2ARM)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALADA4872ARM](http://oom.lt/SZKAMPLIFIEROPERATIONALADA4872ARM)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/ADA4807-2ARM/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/ADA4807-2ARM/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/ADA4807-2ARM/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/ADA4807-2ARM/image.png)|||

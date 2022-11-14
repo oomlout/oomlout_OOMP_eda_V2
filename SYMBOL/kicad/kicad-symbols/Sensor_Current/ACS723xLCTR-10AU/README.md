@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKSENCURRENTACS723XLCTR1AU > Sensor_Current : ACS723xLCTR-10AU](#szksencurrentacs723xlctr1au--sensor_current--acs723xlctr-10au)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Sensor_Current : ACS723xLCTR-10AU
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-ACS723xLCTR-10AU](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-ACS723xLCTR-10AU)
 - Short Link: [http://oom.lt/SZKSENCURRENTACS723XLCTR1AU](http://oom.lt/SZKSENCURRENTACS723XLCTR1AU)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Current/ACS723xLCTR-10AU/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Current/ACS723xLCTR-10AU/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Current/ACS723xLCTR-10AU/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Current/ACS723xLCTR-10AU/image.png)|||

@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKISOLATORTLP29 > Isolator : TLP290](#szkisolatortlp29--isolator--tlp290)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Isolator : TLP290
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-TLP290](http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-TLP290)
 - Short Link: [http://oom.lt/SZKISOLATORTLP29](http://oom.lt/SZKISOLATORTLP29)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Isolator/TLP290/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Isolator/TLP290/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Isolator/TLP290/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Isolator/TLP290/image.png)|||

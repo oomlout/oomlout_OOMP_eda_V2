@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKMCUSTSTM32F1STM32F13C8TX > MCU_ST_STM32F1 : STM32F103C8Tx](#szkmcuststm32f1stm32f13c8tx--mcu_st_stm32f1--stm32f103c8tx)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: MCU_ST_STM32F1 : STM32F103C8Tx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F1-STM32F103C8Tx](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F1-STM32F103C8Tx)
 - Short Link: [http://oom.lt/SZKMCUSTSTM32F1STM32F13C8TX](http://oom.lt/SZKMCUSTSTM32F1STM32F13C8TX)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32F1/STM32F103C8Tx/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32F1/STM32F103C8Tx/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32F1/STM32F103C8Tx/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32F1/STM32F103C8Tx/image.png)|||

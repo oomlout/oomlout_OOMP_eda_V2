@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKSENOPTICALBPY62 > Sensor_Optical : BPY62](#szksenopticalbpy62--sensor_optical--bpy62)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Sensor_Optical : BPY62
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Optical-BPY62](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Optical-BPY62)
 - Short Link: [http://oom.lt/SZKSENOPTICALBPY62](http://oom.lt/SZKSENOPTICALBPY62)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Optical/BPY62/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Optical/BPY62/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Optical/BPY62/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Optical/BPY62/image.png)|||

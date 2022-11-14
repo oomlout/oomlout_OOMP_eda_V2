@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKCONJTD248S12 > Converter_DCDC : JTD2048S12](#szkconjtd248s12--converter_dcdc--jtd2048s12)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Converter_DCDC : JTD2048S12
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-JTD2048S12](http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-JTD2048S12)
 - Short Link: [http://oom.lt/SZKCONJTD248S12](http://oom.lt/SZKCONJTD248S12)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Converter_DCDC/JTD2048S12/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Converter_DCDC/JTD2048S12/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Converter_DCDC/JTD2048S12/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Converter_DCDC/JTD2048S12/image.png)|||

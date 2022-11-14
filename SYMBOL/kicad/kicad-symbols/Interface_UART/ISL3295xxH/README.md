@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKINTERFACEUARTISL3295XXH > Interface_UART : ISL3295xxH](#szkinterfaceuartisl3295xxh--interface_uart--isl3295xxh)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Interface_UART : ISL3295xxH
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_UART-ISL3295xxH](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_UART-ISL3295xxH)
 - Short Link: [http://oom.lt/SZKINTERFACEUARTISL3295XXH](http://oom.lt/SZKINTERFACEUARTISL3295XXH)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface_UART/ISL3295xxH/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface_UART/ISL3295xxH/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface_UART/ISL3295xxH/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface_UART/ISL3295xxH/image.png)|||

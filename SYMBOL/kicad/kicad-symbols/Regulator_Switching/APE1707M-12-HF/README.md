@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKREGULATORSWITCHINGAPE177M12HF > Regulator_Switching : APE1707M-12-HF](#szkregulatorswitchingape177m12hf--regulator_switching--ape1707m-12-hf)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Regulator_Switching : APE1707M-12-HF
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-APE1707M-12-HF](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-APE1707M-12-HF)
 - Short Link: [http://oom.lt/SZKREGULATORSWITCHINGAPE177M12HF](http://oom.lt/SZKREGULATORSWITCHINGAPE177M12HF)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/APE1707M-12-HF/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/APE1707M-12-HF/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/APE1707M-12-HF/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/APE1707M-12-HF/image.png)|||

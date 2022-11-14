@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDIODEC4D212D > Diode : C4D20120D](#szkdiodec4d212d--diode--c4d20120d)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Diode : C4D20120D
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-C4D20120D](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-C4D20120D)
 - Short Link: [http://oom.lt/SZKDIODEC4D212D](http://oom.lt/SZKDIODEC4D212D)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Diode/C4D20120D/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Diode/C4D20120D/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Diode/C4D20120D/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Diode/C4D20120D/image.png)|||

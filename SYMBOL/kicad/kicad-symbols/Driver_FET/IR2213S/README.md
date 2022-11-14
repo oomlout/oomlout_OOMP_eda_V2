@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDRIVERFETIR2213S > Driver_FET : IR2213S](#szkdriverfetir2213s--driver_fet--ir2213s)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Driver_FET : IR2213S
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-IR2213S](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-IR2213S)
 - Short Link: [http://oom.lt/SZKDRIVERFETIR2213S](http://oom.lt/SZKDRIVERFETIR2213S)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Driver_FET/IR2213S/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Driver_FET/IR2213S/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Driver_FET/IR2213S/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Driver_FET/IR2213S/image.png)|||

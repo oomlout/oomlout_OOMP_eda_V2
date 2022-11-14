@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKRELAYG5V2SPLIT > Relay : G5V-2_Split](#szkrelayg5v2split--relay--g5v-2_split)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Relay : G5V-2_Split
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-G5V-2_Split](http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-G5V-2_Split)
 - Short Link: [http://oom.lt/SZKRELAYG5V2SPLIT](http://oom.lt/SZKRELAYG5V2SPLIT)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Relay/G5V-2_Split/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Relay/G5V-2_Split/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Relay/G5V-2_Split/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Relay/G5V-2_Split/image.png)|||

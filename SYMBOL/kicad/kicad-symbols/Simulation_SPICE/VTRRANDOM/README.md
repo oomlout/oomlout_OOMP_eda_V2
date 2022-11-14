@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKSIMULATIONSPICEVTRRANDOM > Simulation_SPICE : VTRRANDOM](#szksimulationspicevtrrandom--simulation_spice--vtrrandom)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Simulation_SPICE : VTRRANDOM
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Simulation_SPICE-VTRRANDOM](http://oom.lt/SYMBOL-kicad-kicad-symbols-Simulation_SPICE-VTRRANDOM)
 - Short Link: [http://oom.lt/SZKSIMULATIONSPICEVTRRANDOM](http://oom.lt/SZKSIMULATIONSPICEVTRRANDOM)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Simulation_SPICE/VTRRANDOM/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Simulation_SPICE/VTRRANDOM/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Simulation_SPICE/VTRRANDOM/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Simulation_SPICE/VTRRANDOM/image.png)|||

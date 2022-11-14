@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKTIMER82C54PLCC > Timer : 82C54_PLCC](#szktimer82c54plcc--timer--82c54_plcc)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Timer : 82C54_PLCC
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Timer-82C54_PLCC](http://oom.lt/SYMBOL-kicad-kicad-symbols-Timer-82C54_PLCC)
 - Short Link: [http://oom.lt/SZKTIMER82C54PLCC](http://oom.lt/SZKTIMER82C54PLCC)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Timer/82C54_PLCC/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Timer/82C54_PLCC/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Timer/82C54_PLCC/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Timer/82C54_PLCC/image.png)|||

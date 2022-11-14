@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKCNWIRESOLDERWIRE75SQ1X4P7D125OD35 > Connector_Wire : SolderWire-0.75sqmm_1x04_P7mm_D1.25mm_OD3.5mm](#fzkcnwiresolderwire75sq1x4p7d125od35--connector_wire--solderwire-075sqmm_1x04_p7mm_d125mm_od35mm)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Connector_Wire : SolderWire-0.75sqmm_1x04_P7mm_D1.25mm_OD3.5mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Wire-SolderWire-0.75sqmm_1x04_P7mm_D1.25mm_OD3.5mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Wire-SolderWire-0.75sqmm_1x04_P7mm_D1.25mm_OD3.5mm)
 - Short Link: [http://oom.lt/FZKCNWIRESOLDERWIRE75SQ1X4P7D125OD35](http://oom.lt/FZKCNWIRESOLDERWIRE75SQ1X4P7D125OD35)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Wire/SolderWire-0.75sqmm_1x04_P7mm_D1.25mm_OD3.5mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Wire/SolderWire-0.75sqmm_1x04_P7mm_D1.25mm_OD3.5mm/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Wire/SolderWire-0.75sqmm_1x04_P7mm_D1.25mm_OD3.5mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Wire/SolderWire-0.75sqmm_1x04_P7mm_D1.25mm_OD3.5mm/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Wire/SolderWire-0.75sqmm_1x04_P7mm_D1.25mm_OD3.5mm/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Wire/SolderWire-0.75sqmm_1x04_P7mm_D1.25mm_OD3.5mm/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Wire/SolderWire-0.75sqmm_1x04_P7mm_D1.25mm_OD3.5mm/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Wire/SolderWire-0.75sqmm_1x04_P7mm_D1.25mm_OD3.5mm/kicadPcb3dBack.png)|

@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKMEMORYEPROM27C128 > Memory_EPROM : 27C128](#szkmemoryeprom27c128--memory_eprom--27c128)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Memory_EPROM : 27C128
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_EPROM-27C128](http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_EPROM-27C128)
 - Short Link: [http://oom.lt/SZKMEMORYEPROM27C128](http://oom.lt/SZKMEMORYEPROM27C128)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Memory_EPROM/27C128/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Memory_EPROM/27C128/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Memory_EPROM/27C128/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Memory_EPROM/27C128/image.png)|||

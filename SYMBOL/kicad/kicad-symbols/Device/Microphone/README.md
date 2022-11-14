@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDEVICEMPHONE > Device : Microphone](#szkdevicemphone--device--microphone)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Device : Microphone
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Microphone](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Microphone)
 - Short Link: [http://oom.lt/SZKDEVICEMPHONE](http://oom.lt/SZKDEVICEMPHONE)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/Microphone/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/Microphone/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/Microphone/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/Microphone/image.png)|||

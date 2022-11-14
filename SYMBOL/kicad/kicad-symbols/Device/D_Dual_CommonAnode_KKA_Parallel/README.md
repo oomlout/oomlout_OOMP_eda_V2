@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDEVICEDDUALCOONANODEKKAPARALLEL > Device : D_Dual_CommonAnode_KKA_Parallel](#szkdeviceddualcoonanodekkaparallel--device--d_dual_commonanode_kka_parallel)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Device : D_Dual_CommonAnode_KKA_Parallel
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-D_Dual_CommonAnode_KKA_Parallel](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-D_Dual_CommonAnode_KKA_Parallel)
 - Short Link: [http://oom.lt/SZKDEVICEDDUALCOONANODEKKAPARALLEL](http://oom.lt/SZKDEVICEDDUALCOONANODEKKAPARALLEL)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/D_Dual_CommonAnode_KKA_Parallel/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/D_Dual_CommonAnode_KKA_Parallel/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/D_Dual_CommonAnode_KKA_Parallel/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/D_Dual_CommonAnode_KKA_Parallel/image.png)|||

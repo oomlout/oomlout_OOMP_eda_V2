@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKLGAKIONIXLGA122X2P5LAYOUTBORDER2X4Y > Package_LGA : Kionix_LGA-12_2x2mm_P0.5mm_LayoutBorder2x4y](#fzklgakionixlga122x2p5layoutborder2x4y--package_lga--kionix_lga-12_2x2mm_p05mm_layoutborder2x4y)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Package_LGA : Kionix_LGA-12_2x2mm_P0.5mm_LayoutBorder2x4y
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_LGA-Kionix_LGA-12_2x2mm_P0.5mm_LayoutBorder2x4y](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_LGA-Kionix_LGA-12_2x2mm_P0.5mm_LayoutBorder2x4y)
 - Short Link: [http://oom.lt/FZKLGAKIONIXLGA122X2P5LAYOUTBORDER2X4Y](http://oom.lt/FZKLGAKIONIXLGA122X2P5LAYOUTBORDER2X4Y)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_LGA/Kionix_LGA-12_2x2mm_P0.5mm_LayoutBorder2x4y/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_LGA/Kionix_LGA-12_2x2mm_P0.5mm_LayoutBorder2x4y/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_LGA/Kionix_LGA-12_2x2mm_P0.5mm_LayoutBorder2x4y/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_LGA/Kionix_LGA-12_2x2mm_P0.5mm_LayoutBorder2x4y/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_LGA/Kionix_LGA-12_2x2mm_P0.5mm_LayoutBorder2x4y/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_LGA/Kionix_LGA-12_2x2mm_P0.5mm_LayoutBorder2x4y/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_LGA/Kionix_LGA-12_2x2mm_P0.5mm_LayoutBorder2x4y/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_LGA/Kionix_LGA-12_2x2mm_P0.5mm_LayoutBorder2x4y/kicadPcb3dBack.png)|

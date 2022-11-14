@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDIODEBRIDGEGBU8B > Diode_Bridge : GBU8B](#szkdiodebridgegbu8b--diode_bridge--gbu8b)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Diode_Bridge : GBU8B
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode_Bridge-GBU8B](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode_Bridge-GBU8B)
 - Short Link: [http://oom.lt/SZKDIODEBRIDGEGBU8B](http://oom.lt/SZKDIODEBRIDGEGBU8B)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Diode_Bridge/GBU8B/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Diode_Bridge/GBU8B/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Diode_Bridge/GBU8B/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Diode_Bridge/GBU8B/image.png)|||

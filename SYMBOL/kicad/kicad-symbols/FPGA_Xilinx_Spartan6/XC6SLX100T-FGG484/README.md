@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKFPGAXILINXSPARTAN6XC6SLX1TFGG484 > FPGA_Xilinx_Spartan6 : XC6SLX100T-FGG484](#szkfpgaxilinxspartan6xc6slx1tfgg484--fpga_xilinx_spartan6--xc6slx100t-fgg484)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: FPGA_Xilinx_Spartan6 : XC6SLX100T-FGG484
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-FPGA_Xilinx_Spartan6-XC6SLX100T-FGG484](http://oom.lt/SYMBOL-kicad-kicad-symbols-FPGA_Xilinx_Spartan6-XC6SLX100T-FGG484)
 - Short Link: [http://oom.lt/SZKFPGAXILINXSPARTAN6XC6SLX1TFGG484](http://oom.lt/SZKFPGAXILINXSPARTAN6XC6SLX1TFGG484)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/FPGA_Xilinx_Spartan6/XC6SLX100T-FGG484/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/FPGA_Xilinx_Spartan6/XC6SLX100T-FGG484/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/FPGA_Xilinx_Spartan6/XC6SLX100T-FGG484/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/FPGA_Xilinx_Spartan6/XC6SLX100T-FGG484/image.png)|||

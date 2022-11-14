@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKINTERFACE6823 > Interface : 68230](#szkinterface6823--interface--68230)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Interface : 68230
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-68230](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-68230)
 - Short Link: [http://oom.lt/SZKINTERFACE6823](http://oom.lt/SZKINTERFACE6823)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface/68230/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface/68230/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface/68230/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface/68230/image.png)|||

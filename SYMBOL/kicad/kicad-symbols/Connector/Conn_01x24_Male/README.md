@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKCNCONN1X24MALE > Connector : Conn_01x24_Male](#szkcnconn1x24male--connector--conn_01x24_male)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Connector : Conn_01x24_Male
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-Conn_01x24_Male](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-Conn_01x24_Male)
 - Short Link: [http://oom.lt/SZKCNCONN1X24MALE](http://oom.lt/SZKCNCONN1X24MALE)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x24_Male/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x24_Male/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x24_Male/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x24_Male/image.png)|||

@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKSENCURRENTLTSR25NP > Sensor_Current : LTSR25-NP](#szksencurrentltsr25np--sensor_current--ltsr25-np)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Sensor_Current : LTSR25-NP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-LTSR25-NP](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-LTSR25-NP)
 - Short Link: [http://oom.lt/SZKSENCURRENTLTSR25NP](http://oom.lt/SZKSENCURRENTLTSR25NP)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Current/LTSR25-NP/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Current/LTSR25-NP/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Current/LTSR25-NP/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Current/LTSR25-NP/image.png)|||

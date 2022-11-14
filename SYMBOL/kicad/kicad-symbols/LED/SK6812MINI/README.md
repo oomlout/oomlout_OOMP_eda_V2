@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKLSK6812M > LED : SK6812MINI](#szklsk6812m--led--sk6812mini)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: LED : SK6812MINI
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-LED-SK6812MINI](http://oom.lt/SYMBOL-kicad-kicad-symbols-LED-SK6812MINI)
 - Short Link: [http://oom.lt/SZKLSK6812M](http://oom.lt/SZKLSK6812M)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/LED/SK6812MINI/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/LED/SK6812MINI/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/LED/SK6812MINI/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/LED/SK6812MINI/image.png)|||

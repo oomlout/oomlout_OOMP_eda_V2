@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKAMPLIFIERVIDEOAD813 > Amplifier_Video : AD813](#szkamplifiervideoad813--amplifier_video--ad813)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Amplifier_Video : AD813
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Video-AD813](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Video-AD813)
 - Short Link: [http://oom.lt/SZKAMPLIFIERVIDEOAD813](http://oom.lt/SZKAMPLIFIERVIDEOAD813)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Amplifier_Video/AD813/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Amplifier_Video/AD813/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Amplifier_Video/AD813/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Amplifier_Video/AD813/image.png)|||

@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZECONHIROSEDF1236 > con-hirose : DF12-3.0-60](#fzeconhirosedf1236--con-hirose--df12-30-60)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: con-hirose : DF12-3.0-60
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-hirose-DF12-3.0-60](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-hirose-DF12-3.0-60)
 - Short Link: [http://oom.lt/FZECONHIROSEDF1236](http://oom.lt/FZECONHIROSEDF1236)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/con-hirose/DF12-3.0-60/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/con-hirose/DF12-3.0-60/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/con-hirose/DF12-3.0-60/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/con-hirose/DF12-3.0-60/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/con-hirose/DF12-3.0-60/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/con-hirose/DF12-3.0-60/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/con-hirose/DF12-3.0-60/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/con-hirose/DF12-3.0-60/kicadPcb3dBack.png)|

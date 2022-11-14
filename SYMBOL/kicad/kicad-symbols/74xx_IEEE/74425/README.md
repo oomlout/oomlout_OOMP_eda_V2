@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZK74XXIEEE74425 > 74xx_IEEE : 74425](#szk74xxieee74425--74xx_ieee--74425)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: 74xx_IEEE : 74425
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-74xx_IEEE-74425](http://oom.lt/SYMBOL-kicad-kicad-symbols-74xx_IEEE-74425)
 - Short Link: [http://oom.lt/SZK74XXIEEE74425](http://oom.lt/SZK74XXIEEE74425)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/74xx_IEEE/74425/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/74xx_IEEE/74425/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/74xx_IEEE/74425/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/74xx_IEEE/74425/image.png)|||

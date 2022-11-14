@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKGRAPHICSYMARROWSLL > Graphic : SYM_Arrow_Small](#szkgraphicsymarrowsll--graphic--sym_arrow_small)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Graphic : SYM_Arrow_Small
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Graphic-SYM_Arrow_Small](http://oom.lt/SYMBOL-kicad-kicad-symbols-Graphic-SYM_Arrow_Small)
 - Short Link: [http://oom.lt/SZKGRAPHICSYMARROWSLL](http://oom.lt/SZKGRAPHICSYMARROWSLL)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Graphic/SYM_Arrow_Small/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Graphic/SYM_Arrow_Small/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Graphic/SYM_Arrow_Small/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Graphic/SYM_Arrow_Small/image.png)|||

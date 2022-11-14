@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKCNPCBEDGESAMTECMECF62NPLDVWT2X6P127SOHORIZONTAL > Connector_PCBEdge : Samtec_MECF-60-02-NP-L-DV-WT_2x60_P1.27mm_Socket_Horizontal](#fzkcnpcbedgesamtecmecf62npldvwt2x6p127sohorizontal--connector_pcbedge--samtec_mecf-60-02-np-l-dv-wt_2x60_p127mm_socket_horizontal)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Connector_PCBEdge : Samtec_MECF-60-02-NP-L-DV-WT_2x60_P1.27mm_Socket_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_PCBEdge-Samtec_MECF-60-02-NP-L-DV-WT_2x60_P1.27mm_Socket_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_PCBEdge-Samtec_MECF-60-02-NP-L-DV-WT_2x60_P1.27mm_Socket_Horizontal)
 - Short Link: [http://oom.lt/FZKCNPCBEDGESAMTECMECF62NPLDVWT2X6P127SOHORIZONTAL](http://oom.lt/FZKCNPCBEDGESAMTECMECF62NPLDVWT2X6P127SOHORIZONTAL)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_PCBEdge/Samtec_MECF-60-02-NP-L-DV-WT_2x60_P1.27mm_Socket_Horizontal/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_PCBEdge/Samtec_MECF-60-02-NP-L-DV-WT_2x60_P1.27mm_Socket_Horizontal/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_PCBEdge/Samtec_MECF-60-02-NP-L-DV-WT_2x60_P1.27mm_Socket_Horizontal/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_PCBEdge/Samtec_MECF-60-02-NP-L-DV-WT_2x60_P1.27mm_Socket_Horizontal/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_PCBEdge/Samtec_MECF-60-02-NP-L-DV-WT_2x60_P1.27mm_Socket_Horizontal/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_PCBEdge/Samtec_MECF-60-02-NP-L-DV-WT_2x60_P1.27mm_Socket_Horizontal/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_PCBEdge/Samtec_MECF-60-02-NP-L-DV-WT_2x60_P1.27mm_Socket_Horizontal/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_PCBEdge/Samtec_MECF-60-02-NP-L-DV-WT_2x60_P1.27mm_Socket_Horizontal/kicadPcb3dBack.png)|

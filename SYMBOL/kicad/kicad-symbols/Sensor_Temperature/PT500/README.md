@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKSENTEMPERATUREPT5 > Sensor_Temperature : PT500](#szksentemperaturept5--sensor_temperature--pt500)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Sensor_Temperature : PT500
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Temperature-PT500](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Temperature-PT500)
 - Short Link: [http://oom.lt/SZKSENTEMPERATUREPT5](http://oom.lt/SZKSENTEMPERATUREPT5)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Temperature/PT500/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Temperature/PT500/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Temperature/PT500/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Temperature/PT500/image.png)|||

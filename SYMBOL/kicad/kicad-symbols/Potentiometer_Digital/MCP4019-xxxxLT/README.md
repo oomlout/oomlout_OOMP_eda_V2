@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKPOTENTIOMETERDIGITALMCP419XXXXLT > Potentiometer_Digital : MCP4019-xxxxLT](#szkpotentiometerdigitalmcp419xxxxlt--potentiometer_digital--mcp4019-xxxxlt)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Potentiometer_Digital : MCP4019-xxxxLT
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Potentiometer_Digital-MCP4019-xxxxLT](http://oom.lt/SYMBOL-kicad-kicad-symbols-Potentiometer_Digital-MCP4019-xxxxLT)
 - Short Link: [http://oom.lt/SZKPOTENTIOMETERDIGITALMCP419XXXXLT](http://oom.lt/SZKPOTENTIOMETERDIGITALMCP419XXXXLT)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Potentiometer_Digital/MCP4019-xxxxLT/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Potentiometer_Digital/MCP4019-xxxxLT/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Potentiometer_Digital/MCP4019-xxxxLT/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Potentiometer_Digital/MCP4019-xxxxLT/image.png)|||

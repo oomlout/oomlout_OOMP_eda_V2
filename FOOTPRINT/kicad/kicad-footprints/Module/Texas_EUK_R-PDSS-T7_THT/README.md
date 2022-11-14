@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKMOTEXASEUKRPDSST7THT > Module : Texas_EUK_R-PDSS-T7_THT](#fzkmotexaseukrpdsst7tht--module--texas_euk_r-pdss-t7_tht)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Module : Texas_EUK_R-PDSS-T7_THT
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Module-Texas_EUK_R-PDSS-T7_THT](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Module-Texas_EUK_R-PDSS-T7_THT)
 - Short Link: [http://oom.lt/FZKMOTEXASEUKRPDSST7THT](http://oom.lt/FZKMOTEXASEUKRPDSST7THT)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Module/Texas_EUK_R-PDSS-T7_THT/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Module/Texas_EUK_R-PDSS-T7_THT/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Module/Texas_EUK_R-PDSS-T7_THT/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Module/Texas_EUK_R-PDSS-T7_THT/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Module/Texas_EUK_R-PDSS-T7_THT/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Module/Texas_EUK_R-PDSS-T7_THT/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Module/Texas_EUK_R-PDSS-T7_THT/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Module/Texas_EUK_R-PDSS-T7_THT/kicadPcb3dBack.png)|

@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKREGULATORLINEARAP13115 > Regulator_Linear : AP131-15](#szkregulatorlinearap13115--regulator_linear--ap131-15)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Regulator_Linear : AP131-15
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-AP131-15](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-AP131-15)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARAP13115](http://oom.lt/SZKREGULATORLINEARAP13115)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/AP131-15/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/AP131-15/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/AP131-15/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/AP131-15/image.png)|||

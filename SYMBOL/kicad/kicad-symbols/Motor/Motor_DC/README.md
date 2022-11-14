@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKMOTORMOTORDC > Motor : Motor_DC](#szkmotormotordc--motor--motor_dc)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Motor : Motor_DC
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Motor-Motor_DC](http://oom.lt/SYMBOL-kicad-kicad-symbols-Motor-Motor_DC)
 - Short Link: [http://oom.lt/SZKMOTORMOTORDC](http://oom.lt/SZKMOTORMOTORDC)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Motor/Motor_DC/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Motor/Motor_DC/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Motor/Motor_DC/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Motor/Motor_DC/image.png)|||

@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKMCUCYPRESSCY7C6814A56PVX > MCU_Cypress : CY7C68014A-56PVX](#szkmcucypresscy7c6814a56pvx--mcu_cypress--cy7c68014a-56pvx)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: MCU_Cypress : CY7C68014A-56PVX
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Cypress-CY7C68014A-56PVX](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Cypress-CY7C68014A-56PVX)
 - Short Link: [http://oom.lt/SZKMCUCYPRESSCY7C6814A56PVX](http://oom.lt/SZKMCUCYPRESSCY7C6814A56PVX)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Cypress/CY7C68014A-56PVX/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Cypress/CY7C68014A-56PVX/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Cypress/CY7C68014A-56PVX/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Cypress/CY7C68014A-56PVX/image.png)|||

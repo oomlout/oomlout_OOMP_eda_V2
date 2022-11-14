@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKISOLATORISO1212 > Isolator : ISO1212](#szkisolatoriso1212--isolator--iso1212)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Isolator : ISO1212
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-ISO1212](http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-ISO1212)
 - Short Link: [http://oom.lt/SZKISOLATORISO1212](http://oom.lt/SZKISOLATORISO1212)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Isolator/ISO1212/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Isolator/ISO1212/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Isolator/ISO1212/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Isolator/ISO1212/image.png)|||

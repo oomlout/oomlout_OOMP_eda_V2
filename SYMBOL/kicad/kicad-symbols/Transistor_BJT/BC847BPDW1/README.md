@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKTRANSISTORBJTBC847BPDW1 > Transistor_BJT : BC847BPDW1](#szktransistorbjtbc847bpdw1--transistor_bjt--bc847bpdw1)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Transistor_BJT : BC847BPDW1
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-BC847BPDW1](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-BC847BPDW1)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJTBC847BPDW1](http://oom.lt/SZKTRANSISTORBJTBC847BPDW1)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_BJT/BC847BPDW1/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_BJT/BC847BPDW1/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_BJT/BC847BPDW1/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_BJT/BC847BPDW1/image.png)|||

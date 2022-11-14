@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKCNWIRESOLDERWIRE2SQ1X6P78D2OD39RELIEF > Connector_Wire : SolderWire-2sqmm_1x06_P7.8mm_D2mm_OD3.9mm_Relief](#fzkcnwiresolderwire2sq1x6p78d2od39relief--connector_wire--solderwire-2sqmm_1x06_p78mm_d2mm_od39mm_relief)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Connector_Wire : SolderWire-2sqmm_1x06_P7.8mm_D2mm_OD3.9mm_Relief
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Wire-SolderWire-2sqmm_1x06_P7.8mm_D2mm_OD3.9mm_Relief](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Wire-SolderWire-2sqmm_1x06_P7.8mm_D2mm_OD3.9mm_Relief)
 - Short Link: [http://oom.lt/FZKCNWIRESOLDERWIRE2SQ1X6P78D2OD39RELIEF](http://oom.lt/FZKCNWIRESOLDERWIRE2SQ1X6P78D2OD39RELIEF)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Wire/SolderWire-2sqmm_1x06_P7.8mm_D2mm_OD3.9mm_Relief/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Wire/SolderWire-2sqmm_1x06_P7.8mm_D2mm_OD3.9mm_Relief/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Wire/SolderWire-2sqmm_1x06_P7.8mm_D2mm_OD3.9mm_Relief/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Wire/SolderWire-2sqmm_1x06_P7.8mm_D2mm_OD3.9mm_Relief/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Wire/SolderWire-2sqmm_1x06_P7.8mm_D2mm_OD3.9mm_Relief/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Wire/SolderWire-2sqmm_1x06_P7.8mm_D2mm_OD3.9mm_Relief/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Wire/SolderWire-2sqmm_1x06_P7.8mm_D2mm_OD3.9mm_Relief/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Wire/SolderWire-2sqmm_1x06_P7.8mm_D2mm_OD3.9mm_Relief/kicadPcb3dBack.png)|

@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKINTERFACEUARTMC685 > Interface_UART : MC6850](#szkinterfaceuartmc685--interface_uart--mc6850)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Interface_UART : MC6850
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_UART-MC6850](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_UART-MC6850)
 - Short Link: [http://oom.lt/SZKINTERFACEUARTMC685](http://oom.lt/SZKINTERFACEUARTMC685)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface_UART/MC6850/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface_UART/MC6850/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface_UART/MC6850/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface_UART/MC6850/image.png)|||

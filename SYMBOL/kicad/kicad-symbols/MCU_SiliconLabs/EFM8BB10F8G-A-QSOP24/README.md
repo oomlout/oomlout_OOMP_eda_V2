@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKMCUSILICONLABSEFM8BB1F8GAQS24 > MCU_SiliconLabs : EFM8BB10F8G-A-QSOP24](#szkmcusiliconlabsefm8bb1f8gaqs24--mcu_siliconlabs--efm8bb10f8g-a-qsop24)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: MCU_SiliconLabs : EFM8BB10F8G-A-QSOP24
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_SiliconLabs-EFM8BB10F8G-A-QSOP24](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_SiliconLabs-EFM8BB10F8G-A-QSOP24)
 - Short Link: [http://oom.lt/SZKMCUSILICONLABSEFM8BB1F8GAQS24](http://oom.lt/SZKMCUSILICONLABSEFM8BB1F8GAQS24)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_SiliconLabs/EFM8BB10F8G-A-QSOP24/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_SiliconLabs/EFM8BB10F8G-A-QSOP24/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_SiliconLabs/EFM8BB10F8G-A-QSOP24/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_SiliconLabs/EFM8BB10F8G-A-QSOP24/image.png)|||

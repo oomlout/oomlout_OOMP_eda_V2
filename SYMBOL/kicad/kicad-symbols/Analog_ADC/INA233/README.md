@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKANALOGADCINA233 > Analog_ADC : INA233](#szkanalogadcina233--analog_adc--ina233)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Analog_ADC : INA233
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-INA233](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-INA233)
 - Short Link: [http://oom.lt/SZKANALOGADCINA233](http://oom.lt/SZKANALOGADCINA233)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Analog_ADC/INA233/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Analog_ADC/INA233/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Analog_ADC/INA233/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Analog_ADC/INA233/image.png)|||

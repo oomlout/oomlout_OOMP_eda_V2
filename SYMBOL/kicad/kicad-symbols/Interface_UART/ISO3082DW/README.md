@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKINTERFACEUARTISO382DW > Interface_UART : ISO3082DW](#szkinterfaceuartiso382dw--interface_uart--iso3082dw)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Interface_UART : ISO3082DW
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_UART-ISO3082DW](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_UART-ISO3082DW)
 - Short Link: [http://oom.lt/SZKINTERFACEUARTISO382DW](http://oom.lt/SZKINTERFACEUARTISO382DW)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface_UART/ISO3082DW/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface_UART/ISO3082DW/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface_UART/ISO3082DW/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface_UART/ISO3082DW/image.png)|||

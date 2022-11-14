@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKCNPINSO127PINSO2X17P127VERTICAL > Connector_PinSocket_1.27mm : PinSocket_2x17_P1.27mm_Vertical](#fzkcnpinso127pinso2x17p127vertical--connector_pinsocket_127mm--pinsocket_2x17_p127mm_vertical)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Connector_PinSocket_1.27mm : PinSocket_2x17_P1.27mm_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_PinSocket_1.27mm-PinSocket_2x17_P1.27mm_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_PinSocket_1.27mm-PinSocket_2x17_P1.27mm_Vertical)
 - Short Link: [http://oom.lt/FZKCNPINSO127PINSO2X17P127VERTICAL](http://oom.lt/FZKCNPINSO127PINSO2X17P127VERTICAL)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_PinSocket_1.27mm/PinSocket_2x17_P1.27mm_Vertical/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_PinSocket_1.27mm/PinSocket_2x17_P1.27mm_Vertical/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_PinSocket_1.27mm/PinSocket_2x17_P1.27mm_Vertical/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_PinSocket_1.27mm/PinSocket_2x17_P1.27mm_Vertical/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_PinSocket_1.27mm/PinSocket_2x17_P1.27mm_Vertical/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_PinSocket_1.27mm/PinSocket_2x17_P1.27mm_Vertical/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_PinSocket_1.27mm/PinSocket_2x17_P1.27mm_Vertical/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_PinSocket_1.27mm/PinSocket_2x17_P1.27mm_Vertical/kicadPcb3dBack.png)|

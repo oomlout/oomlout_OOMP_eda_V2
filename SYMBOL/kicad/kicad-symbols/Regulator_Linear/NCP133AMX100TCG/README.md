@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKREGULATORLINEARNCP133AMX1TCG > Regulator_Linear : NCP133AMX100TCG](#szkregulatorlinearncp133amx1tcg--regulator_linear--ncp133amx100tcg)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Regulator_Linear : NCP133AMX100TCG
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-NCP133AMX100TCG](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-NCP133AMX100TCG)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARNCP133AMX1TCG](http://oom.lt/SZKREGULATORLINEARNCP133AMX1TCG)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/NCP133AMX100TCG/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/NCP133AMX100TCG/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/NCP133AMX100TCG/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/NCP133AMX100TCG/image.png)|||

@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKMCUMOADAFEATHER32U4BLUEFRUITLE > MCU_Module : Adafruit_Feather_32u4_BluefruitLE](#szkmcumoadafeather32u4bluefruitle--mcu_module--adafruit_feather_32u4_bluefruitle)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: MCU_Module : Adafruit_Feather_32u4_BluefruitLE
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Module-Adafruit_Feather_32u4_BluefruitLE](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Module-Adafruit_Feather_32u4_BluefruitLE)
 - Short Link: [http://oom.lt/SZKMCUMOADAFEATHER32U4BLUEFRUITLE](http://oom.lt/SZKMCUMOADAFEATHER32U4BLUEFRUITLE)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Module/Adafruit_Feather_32u4_BluefruitLE/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Module/Adafruit_Feather_32u4_BluefruitLE/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Module/Adafruit_Feather_32u4_BluefruitLE/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Module/Adafruit_Feather_32u4_BluefruitLE/image.png)|||

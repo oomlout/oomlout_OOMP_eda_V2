@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDRIVERFETFAN7842 > Driver_FET : FAN7842](#szkdriverfetfan7842--driver_fet--fan7842)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Driver_FET : FAN7842
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-FAN7842](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-FAN7842)
 - Short Link: [http://oom.lt/SZKDRIVERFETFAN7842](http://oom.lt/SZKDRIVERFETFAN7842)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Driver_FET/FAN7842/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Driver_FET/FAN7842/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Driver_FET/FAN7842/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Driver_FET/FAN7842/image.png)|||

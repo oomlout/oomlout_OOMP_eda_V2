@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKREGULATORLINEARTPS7A72RGW > Regulator_Linear : TPS7A7200RGW](#szkregulatorlineartps7a72rgw--regulator_linear--tps7a7200rgw)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Regulator_Linear : TPS7A7200RGW
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-TPS7A7200RGW](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-TPS7A7200RGW)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARTPS7A72RGW](http://oom.lt/SZKREGULATORLINEARTPS7A72RGW)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/TPS7A7200RGW/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/TPS7A7200RGW/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/TPS7A7200RGW/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/TPS7A7200RGW/image.png)|||

@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKMCUTEXASTM4C1231C3PM > MCU_Texas : TM4C1231C3PM](#szkmcutexastm4c1231c3pm--mcu_texas--tm4c1231c3pm)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: MCU_Texas : TM4C1231C3PM
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Texas-TM4C1231C3PM](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Texas-TM4C1231C3PM)
 - Short Link: [http://oom.lt/SZKMCUTEXASTM4C1231C3PM](http://oom.lt/SZKMCUTEXASTM4C1231C3PM)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Texas/TM4C1231C3PM/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Texas/TM4C1231C3PM/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Texas/TM4C1231C3PM/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Texas/TM4C1231C3PM/image.png)|||

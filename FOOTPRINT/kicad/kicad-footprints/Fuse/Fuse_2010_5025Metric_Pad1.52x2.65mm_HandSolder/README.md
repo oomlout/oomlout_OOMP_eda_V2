@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKFUFU21525METRICPAD152X265HANDSOLDER > Fuse : Fuse_2010_5025Metric_Pad1.52x2.65mm_HandSolder](#fzkfufu21525metricpad152x265handsolder--fuse--fuse_2010_5025metric_pad152x265mm_handsolder)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Fuse : Fuse_2010_5025Metric_Pad1.52x2.65mm_HandSolder
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Fuse-Fuse_2010_5025Metric_Pad1.52x2.65mm_HandSolder](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Fuse-Fuse_2010_5025Metric_Pad1.52x2.65mm_HandSolder)
 - Short Link: [http://oom.lt/FZKFUFU21525METRICPAD152X265HANDSOLDER](http://oom.lt/FZKFUFU21525METRICPAD152X265HANDSOLDER)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Fuse/Fuse_2010_5025Metric_Pad1.52x2.65mm_HandSolder/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Fuse/Fuse_2010_5025Metric_Pad1.52x2.65mm_HandSolder/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Fuse/Fuse_2010_5025Metric_Pad1.52x2.65mm_HandSolder/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Fuse/Fuse_2010_5025Metric_Pad1.52x2.65mm_HandSolder/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Fuse/Fuse_2010_5025Metric_Pad1.52x2.65mm_HandSolder/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Fuse/Fuse_2010_5025Metric_Pad1.52x2.65mm_HandSolder/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Fuse/Fuse_2010_5025Metric_Pad1.52x2.65mm_HandSolder/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Fuse/Fuse_2010_5025Metric_Pad1.52x2.65mm_HandSolder/kicadPcb3dBack.png)|

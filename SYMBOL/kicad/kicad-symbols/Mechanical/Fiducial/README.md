@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKMECHANICALFID > Mechanical : Fiducial](#szkmechanicalfid--mechanical--fiducial)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Mechanical : Fiducial
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Mechanical-Fiducial](http://oom.lt/SYMBOL-kicad-kicad-symbols-Mechanical-Fiducial)
 - Short Link: [http://oom.lt/SZKMECHANICALFID](http://oom.lt/SZKMECHANICALFID)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Mechanical/Fiducial/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Mechanical/Fiducial/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Mechanical/Fiducial/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Mechanical/Fiducial/image.png)|||

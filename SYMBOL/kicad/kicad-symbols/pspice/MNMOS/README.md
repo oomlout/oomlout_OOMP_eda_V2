@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKPSPICEMNMOS > pspice : MNMOS](#szkpspicemnmos--pspice--mnmos)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: pspice : MNMOS
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-pspice-MNMOS](http://oom.lt/SYMBOL-kicad-kicad-symbols-pspice-MNMOS)
 - Short Link: [http://oom.lt/SZKPSPICEMNMOS](http://oom.lt/SZKPSPICEMNMOS)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/pspice/MNMOS/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/pspice/MNMOS/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/pspice/MNMOS/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/pspice/MNMOS/image.png)|||

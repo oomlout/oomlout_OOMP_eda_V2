@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKSIMULATIONSPICEIAM > Simulation_SPICE : IAM](#szksimulationspiceiam--simulation_spice--iam)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Simulation_SPICE : IAM
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Simulation_SPICE-IAM](http://oom.lt/SYMBOL-kicad-kicad-symbols-Simulation_SPICE-IAM)
 - Short Link: [http://oom.lt/SZKSIMULATIONSPICEIAM](http://oom.lt/SZKSIMULATIONSPICEIAM)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Simulation_SPICE/IAM/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Simulation_SPICE/IAM/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Simulation_SPICE/IAM/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Simulation_SPICE/IAM/image.png)|||

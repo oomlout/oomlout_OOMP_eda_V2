@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKANALOGADCADS112RVA > Analog_ADC : ADS1120-RVA](#szkanalogadcads112rva--analog_adc--ads1120-rva)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Analog_ADC : ADS1120-RVA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-ADS1120-RVA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-ADS1120-RVA)
 - Short Link: [http://oom.lt/SZKANALOGADCADS112RVA](http://oom.lt/SZKANALOGADCADS112RVA)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Analog_ADC/ADS1120-RVA/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Analog_ADC/ADS1120-RVA/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Analog_ADC/ADS1120-RVA/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Analog_ADC/ADS1120-RVA/image.png)|||

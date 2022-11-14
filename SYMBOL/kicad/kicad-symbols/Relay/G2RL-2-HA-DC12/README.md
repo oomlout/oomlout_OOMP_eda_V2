@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKRELAYG2RL2HADC12 > Relay : G2RL-2-HA-DC12](#szkrelayg2rl2hadc12--relay--g2rl-2-ha-dc12)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Relay : G2RL-2-HA-DC12
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-G2RL-2-HA-DC12](http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-G2RL-2-HA-DC12)
 - Short Link: [http://oom.lt/SZKRELAYG2RL2HADC12](http://oom.lt/SZKRELAYG2RL2HADC12)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Relay/G2RL-2-HA-DC12/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Relay/G2RL-2-HA-DC12/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Relay/G2RL-2-HA-DC12/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Relay/G2RL-2-HA-DC12/image.png)|||

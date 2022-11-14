@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKAUDIOAK5392VS > Audio : AK5392VS](#szkaudioak5392vs--audio--ak5392vs)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Audio : AK5392VS
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Audio-AK5392VS](http://oom.lt/SYMBOL-kicad-kicad-symbols-Audio-AK5392VS)
 - Short Link: [http://oom.lt/SZKAUDIOAK5392VS](http://oom.lt/SZKAUDIOAK5392VS)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Audio/AK5392VS/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Audio/AK5392VS/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Audio/AK5392VS/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Audio/AK5392VS/image.png)|||

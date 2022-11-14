@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDEVICEDELAYLINE > Device : DelayLine](#szkdevicedelayline--device--delayline)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Device : DelayLine
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-DelayLine](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-DelayLine)
 - Short Link: [http://oom.lt/SZKDEVICEDELAYLINE](http://oom.lt/SZKDEVICEDELAYLINE)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/DelayLine/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/DelayLine/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/DelayLine/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/DelayLine/image.png)|||

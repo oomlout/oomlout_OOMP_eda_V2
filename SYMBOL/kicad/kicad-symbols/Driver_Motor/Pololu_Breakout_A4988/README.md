@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDRIVERMOTORPOLOLUBREAKOUTA4988 > Driver_Motor : Pololu_Breakout_A4988](#szkdrivermotorpololubreakouta4988--driver_motor--pololu_breakout_a4988)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Driver_Motor : Pololu_Breakout_A4988
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_Motor-Pololu_Breakout_A4988](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_Motor-Pololu_Breakout_A4988)
 - Short Link: [http://oom.lt/SZKDRIVERMOTORPOLOLUBREAKOUTA4988](http://oom.lt/SZKDRIVERMOTORPOLOLUBREAKOUTA4988)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Driver_Motor/Pololu_Breakout_A4988/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Driver_Motor/Pololu_Breakout_A4988/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Driver_Motor/Pololu_Breakout_A4988/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Driver_Motor/Pololu_Breakout_A4988/image.png)|||

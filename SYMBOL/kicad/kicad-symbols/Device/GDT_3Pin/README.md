@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDEVICEGDT3PIN > Device : GDT_3Pin](#szkdevicegdt3pin--device--gdt_3pin)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Device : GDT_3Pin
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-GDT_3Pin](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-GDT_3Pin)
 - Short Link: [http://oom.lt/SZKDEVICEGDT3PIN](http://oom.lt/SZKDEVICEGDT3PIN)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/GDT_3Pin/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/GDT_3Pin/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/GDT_3Pin/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/GDT_3Pin/image.png)|||

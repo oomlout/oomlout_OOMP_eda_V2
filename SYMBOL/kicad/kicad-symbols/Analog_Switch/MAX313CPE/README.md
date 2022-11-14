@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKANALOGSWITCHMAX313CPE > Analog_Switch : MAX313CPE](#szkanalogswitchmax313cpe--analog_switch--max313cpe)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Analog_Switch : MAX313CPE
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_Switch-MAX313CPE](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_Switch-MAX313CPE)
 - Short Link: [http://oom.lt/SZKANALOGSWITCHMAX313CPE](http://oom.lt/SZKANALOGSWITCHMAX313CPE)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Analog_Switch/MAX313CPE/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Analog_Switch/MAX313CPE/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Analog_Switch/MAX313CPE/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Analog_Switch/MAX313CPE/image.png)|||

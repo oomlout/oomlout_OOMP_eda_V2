@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKAUDIOCS4334 > Audio : CS4334](#szkaudiocs4334--audio--cs4334)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Audio : CS4334
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Audio-CS4334](http://oom.lt/SYMBOL-kicad-kicad-symbols-Audio-CS4334)
 - Short Link: [http://oom.lt/SZKAUDIOCS4334](http://oom.lt/SZKAUDIOCS4334)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Audio/CS4334/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Audio/CS4334/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Audio/CS4334/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Audio/CS4334/image.png)|||

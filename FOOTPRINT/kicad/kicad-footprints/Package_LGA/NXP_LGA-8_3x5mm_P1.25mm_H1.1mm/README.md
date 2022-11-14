@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKLGANXPLGA83X5P125H11 > Package_LGA : NXP_LGA-8_3x5mm_P1.25mm_H1.1mm](#fzklganxplga83x5p125h11--package_lga--nxp_lga-8_3x5mm_p125mm_h11mm)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Package_LGA : NXP_LGA-8_3x5mm_P1.25mm_H1.1mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_LGA-NXP_LGA-8_3x5mm_P1.25mm_H1.1mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_LGA-NXP_LGA-8_3x5mm_P1.25mm_H1.1mm)
 - Short Link: [http://oom.lt/FZKLGANXPLGA83X5P125H11](http://oom.lt/FZKLGANXPLGA83X5P125H11)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_LGA/NXP_LGA-8_3x5mm_P1.25mm_H1.1mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_LGA/NXP_LGA-8_3x5mm_P1.25mm_H1.1mm/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_LGA/NXP_LGA-8_3x5mm_P1.25mm_H1.1mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_LGA/NXP_LGA-8_3x5mm_P1.25mm_H1.1mm/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_LGA/NXP_LGA-8_3x5mm_P1.25mm_H1.1mm/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_LGA/NXP_LGA-8_3x5mm_P1.25mm_H1.1mm/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_LGA/NXP_LGA-8_3x5mm_P1.25mm_H1.1mm/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_LGA/NXP_LGA-8_3x5mm_P1.25mm_H1.1mm/kicadPcb3dBack.png)|

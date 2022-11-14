@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKINTERFACESN7516BN > Interface : SN75160BN](#szkinterfacesn7516bn--interface--sn75160bn)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Interface : SN75160BN
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-SN75160BN](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-SN75160BN)
 - Short Link: [http://oom.lt/SZKINTERFACESN7516BN](http://oom.lt/SZKINTERFACESN7516BN)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface/SN75160BN/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface/SN75160BN/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface/SN75160BN/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface/SN75160BN/image.png)|||

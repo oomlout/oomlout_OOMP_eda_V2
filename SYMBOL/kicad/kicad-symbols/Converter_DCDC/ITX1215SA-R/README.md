@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKCONITX1215SAR > Converter_DCDC : ITX1215SA-R](#szkconitx1215sar--converter_dcdc--itx1215sa-r)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Converter_DCDC : ITX1215SA-R
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-ITX1215SA-R](http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-ITX1215SA-R)
 - Short Link: [http://oom.lt/SZKCONITX1215SAR](http://oom.lt/SZKCONITX1215SAR)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Converter_DCDC/ITX1215SA-R/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Converter_DCDC/ITX1215SA-R/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Converter_DCDC/ITX1215SA-R/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Converter_DCDC/ITX1215SA-R/image.png)|||

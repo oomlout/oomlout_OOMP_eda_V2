@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKOCSTXC7C > Oscillator : TXC-7C](#szkocstxc7c--oscillator--txc-7c)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Oscillator : TXC-7C
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Oscillator-TXC-7C](http://oom.lt/SYMBOL-kicad-kicad-symbols-Oscillator-TXC-7C)
 - Short Link: [http://oom.lt/SZKOCSTXC7C](http://oom.lt/SZKOCSTXC7C)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Oscillator/TXC-7C/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Oscillator/TXC-7C/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Oscillator/TXC-7C/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Oscillator/TXC-7C/image.png)|||

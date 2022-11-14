@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKMCUMONUCLEO144F27ZG > MCU_Module : NUCLEO144-F207ZG](#szkmcumonucleo144f27zg--mcu_module--nucleo144-f207zg)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: MCU_Module : NUCLEO144-F207ZG
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Module-NUCLEO144-F207ZG](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Module-NUCLEO144-F207ZG)
 - Short Link: [http://oom.lt/SZKMCUMONUCLEO144F27ZG](http://oom.lt/SZKMCUMONUCLEO144F27ZG)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Module/NUCLEO144-F207ZG/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Module/NUCLEO144-F207ZG/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Module/NUCLEO144-F207ZG/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Module/NUCLEO144-F207ZG/image.png)|||

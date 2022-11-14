@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKBGABGA14413X13LAYOUT12X12P1 > Package_BGA : BGA-144_13.0x13.0mm_Layout12x12_P1.0mm](#fzkbgabga14413x13layout12x12p1--package_bga--bga-144_130x130mm_layout12x12_p10mm)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Package_BGA : BGA-144_13.0x13.0mm_Layout12x12_P1.0mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_BGA-BGA-144_13.0x13.0mm_Layout12x12_P1.0mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_BGA-BGA-144_13.0x13.0mm_Layout12x12_P1.0mm)
 - Short Link: [http://oom.lt/FZKBGABGA14413X13LAYOUT12X12P1](http://oom.lt/FZKBGABGA14413X13LAYOUT12X12P1)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_BGA/BGA-144_13.0x13.0mm_Layout12x12_P1.0mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_BGA/BGA-144_13.0x13.0mm_Layout12x12_P1.0mm/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_BGA/BGA-144_13.0x13.0mm_Layout12x12_P1.0mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_BGA/BGA-144_13.0x13.0mm_Layout12x12_P1.0mm/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_BGA/BGA-144_13.0x13.0mm_Layout12x12_P1.0mm/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_BGA/BGA-144_13.0x13.0mm_Layout12x12_P1.0mm/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_BGA/BGA-144_13.0x13.0mm_Layout12x12_P1.0mm/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_BGA/BGA-144_13.0x13.0mm_Layout12x12_P1.0mm/kicadPcb3dBack.png)|

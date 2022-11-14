@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKGRAPHICSYMHOTL > Graphic : SYM_Hot_Large](#szkgraphicsymhotl--graphic--sym_hot_large)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Graphic : SYM_Hot_Large
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Graphic-SYM_Hot_Large](http://oom.lt/SYMBOL-kicad-kicad-symbols-Graphic-SYM_Hot_Large)
 - Short Link: [http://oom.lt/SZKGRAPHICSYMHOTL](http://oom.lt/SZKGRAPHICSYMHOTL)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Graphic/SYM_Hot_Large/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Graphic/SYM_Hot_Large/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Graphic/SYM_Hot_Large/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Graphic/SYM_Hot_Large/image.png)|||

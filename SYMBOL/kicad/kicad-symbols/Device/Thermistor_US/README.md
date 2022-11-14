@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDEVICETHERMISTORUS > Device : Thermistor_US](#szkdevicethermistorus--device--thermistor_us)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Device : Thermistor_US
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Thermistor_US](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Thermistor_US)
 - Short Link: [http://oom.lt/SZKDEVICETHERMISTORUS](http://oom.lt/SZKDEVICETHERMISTORUS)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/Thermistor_US/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/Thermistor_US/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/Thermistor_US/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/Thermistor_US/image.png)|||

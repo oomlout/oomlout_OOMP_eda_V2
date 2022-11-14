@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKBUFFERPI6C59462ZH > Buffer : PI6C5946002ZH](#szkbufferpi6c59462zh--buffer--pi6c5946002zh)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Buffer : PI6C5946002ZH
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Buffer-PI6C5946002ZH](http://oom.lt/SYMBOL-kicad-kicad-symbols-Buffer-PI6C5946002ZH)
 - Short Link: [http://oom.lt/SZKBUFFERPI6C59462ZH](http://oom.lt/SZKBUFFERPI6C59462ZH)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Buffer/PI6C5946002ZH/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Buffer/PI6C5946002ZH/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Buffer/PI6C5946002ZH/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Buffer/PI6C5946002ZH/image.png)|||

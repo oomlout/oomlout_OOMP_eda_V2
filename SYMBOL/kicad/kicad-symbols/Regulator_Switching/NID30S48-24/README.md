@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKREGULATORSWITCHINGNID3S4824 > Regulator_Switching : NID30S48-24](#szkregulatorswitchingnid3s4824--regulator_switching--nid30s48-24)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Regulator_Switching : NID30S48-24
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-NID30S48-24](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-NID30S48-24)
 - Short Link: [http://oom.lt/SZKREGULATORSWITCHINGNID3S4824](http://oom.lt/SZKREGULATORSWITCHINGNID3S4824)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/NID30S48-24/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/NID30S48-24/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/NID30S48-24/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/NID30S48-24/image.png)|||

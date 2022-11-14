@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKMEMORYFLASHGD25D1CT > Memory_Flash : GD25D10CT](#szkmemoryflashgd25d1ct--memory_flash--gd25d10ct)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Memory_Flash : GD25D10CT
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_Flash-GD25D10CT](http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_Flash-GD25D10CT)
 - Short Link: [http://oom.lt/SZKMEMORYFLASHGD25D1CT](http://oom.lt/SZKMEMORYFLASHGD25D1CT)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Memory_Flash/GD25D10CT/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Memory_Flash/GD25D10CT/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Memory_Flash/GD25D10CT/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Memory_Flash/GD25D10CT/image.png)|||

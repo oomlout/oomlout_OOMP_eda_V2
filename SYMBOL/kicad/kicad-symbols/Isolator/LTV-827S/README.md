@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKISOLATORLTV827S > Isolator : LTV-827S](#szkisolatorltv827s--isolator--ltv-827s)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Isolator : LTV-827S
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-LTV-827S](http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-LTV-827S)
 - Short Link: [http://oom.lt/SZKISOLATORLTV827S](http://oom.lt/SZKISOLATORLTV827S)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Isolator/LTV-827S/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Isolator/LTV-827S/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Isolator/LTV-827S/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Isolator/LTV-827S/image.png)|||

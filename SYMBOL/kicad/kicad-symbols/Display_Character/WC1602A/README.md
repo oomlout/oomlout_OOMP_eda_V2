@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDICHARACTERWC162A > Display_Character : WC1602A](#szkdicharacterwc162a--display_character--wc1602a)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Display_Character : WC1602A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-WC1602A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-WC1602A)
 - Short Link: [http://oom.lt/SZKDICHARACTERWC162A](http://oom.lt/SZKDICHARACTERWC162A)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Display_Character/WC1602A/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Display_Character/WC1602A/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Display_Character/WC1602A/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Display_Character/WC1602A/image.png)|||

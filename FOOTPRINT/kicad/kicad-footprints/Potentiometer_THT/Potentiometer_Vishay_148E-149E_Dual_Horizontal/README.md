@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKPPOTENTIOMETERVISHAY148E149EDUALHORIZONTAL > Potentiometer_THT : Potentiometer_Vishay_148E-149E_Dual_Horizontal](#fzkppotentiometervishay148e149edualhorizontal--potentiometer_tht--potentiometer_vishay_148e-149e_dual_horizontal)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Potentiometer_THT : Potentiometer_Vishay_148E-149E_Dual_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Potentiometer_THT-Potentiometer_Vishay_148E-149E_Dual_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Potentiometer_THT-Potentiometer_Vishay_148E-149E_Dual_Horizontal)
 - Short Link: [http://oom.lt/FZKPPOTENTIOMETERVISHAY148E149EDUALHORIZONTAL](http://oom.lt/FZKPPOTENTIOMETERVISHAY148E149EDUALHORIZONTAL)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Potentiometer_THT/Potentiometer_Vishay_148E-149E_Dual_Horizontal/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Potentiometer_THT/Potentiometer_Vishay_148E-149E_Dual_Horizontal/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Potentiometer_THT/Potentiometer_Vishay_148E-149E_Dual_Horizontal/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Potentiometer_THT/Potentiometer_Vishay_148E-149E_Dual_Horizontal/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Potentiometer_THT/Potentiometer_Vishay_148E-149E_Dual_Horizontal/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Potentiometer_THT/Potentiometer_Vishay_148E-149E_Dual_Horizontal/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Potentiometer_THT/Potentiometer_Vishay_148E-149E_Dual_Horizontal/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Potentiometer_THT/Potentiometer_Vishay_148E-149E_Dual_Horizontal/kicadPcb3dBack.png)|

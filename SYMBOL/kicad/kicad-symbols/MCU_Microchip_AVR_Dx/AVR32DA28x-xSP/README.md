@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKMCUMCHIPAVRDXAVR32DA28XXSP > MCU_Microchip_AVR_Dx : AVR32DA28x-xSP](#szkmcumchipavrdxavr32da28xxsp--mcu_microchip_avr_dx--avr32da28x-xsp)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: MCU_Microchip_AVR_Dx : AVR32DA28x-xSP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_AVR_Dx-AVR32DA28x-xSP](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_AVR_Dx-AVR32DA28x-xSP)
 - Short Link: [http://oom.lt/SZKMCUMCHIPAVRDXAVR32DA28XXSP](http://oom.lt/SZKMCUMCHIPAVRDXAVR32DA28XXSP)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_AVR_Dx/AVR32DA28x-xSP/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_AVR_Dx/AVR32DA28x-xSP/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_AVR_Dx/AVR32DA28x-xSP/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_AVR_Dx/AVR32DA28x-xSP/image.png)|||

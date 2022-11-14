@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKMCUSTSTM32L4+STM32L4R5QGIX > MCU_ST_STM32L4+ : STM32L4R5QGIx](#szkmcuststm32l4stm32l4r5qgix--mcu_st_stm32l4--stm32l4r5qgix)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: MCU_ST_STM32L4+ : STM32L4R5QGIx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32L4+-STM32L4R5QGIx](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32L4+-STM32L4R5QGIx)
 - Short Link: [http://oom.lt/SZKMCUSTSTM32L4+STM32L4R5QGIX](http://oom.lt/SZKMCUSTSTM32L4+STM32L4R5QGIX)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32L4+/STM32L4R5QGIx/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32L4+/STM32L4R5QGIx/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32L4+/STM32L4R5QGIx/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32L4+/STM32L4R5QGIx/image.png)|||

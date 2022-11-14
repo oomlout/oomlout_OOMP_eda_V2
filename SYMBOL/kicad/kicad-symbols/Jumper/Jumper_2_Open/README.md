@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKJJ2OPEN > Jumper : Jumper_2_Open](#szkjj2open--jumper--jumper_2_open)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Jumper : Jumper_2_Open
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Jumper-Jumper_2_Open](http://oom.lt/SYMBOL-kicad-kicad-symbols-Jumper-Jumper_2_Open)
 - Short Link: [http://oom.lt/SZKJJ2OPEN](http://oom.lt/SZKJJ2OPEN)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Jumper/Jumper_2_Open/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Jumper/Jumper_2_Open/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Jumper/Jumper_2_Open/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Jumper/Jumper_2_Open/image.png)|||

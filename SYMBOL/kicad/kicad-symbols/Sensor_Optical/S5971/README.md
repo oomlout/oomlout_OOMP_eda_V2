@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKSENOPTICALS5971 > Sensor_Optical : S5971](#szksenopticals5971--sensor_optical--s5971)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Sensor_Optical : S5971
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Optical-S5971](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Optical-S5971)
 - Short Link: [http://oom.lt/SZKSENOPTICALS5971](http://oom.lt/SZKSENOPTICALS5971)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Optical/S5971/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Optical/S5971/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Optical/S5971/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Optical/S5971/image.png)|||

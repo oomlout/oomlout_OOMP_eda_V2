@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKREGULATORLINEARIFX271TFV > Regulator_Linear : IFX27001TFV](#szkregulatorlinearifx271tfv--regulator_linear--ifx27001tfv)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Regulator_Linear : IFX27001TFV
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-IFX27001TFV](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-IFX27001TFV)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARIFX271TFV](http://oom.lt/SZKREGULATORLINEARIFX271TFV)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/IFX27001TFV/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/IFX27001TFV/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/IFX27001TFV/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/IFX27001TFV/image.png)|||

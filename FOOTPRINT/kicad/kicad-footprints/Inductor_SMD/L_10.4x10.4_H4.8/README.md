@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKINDUCTORSML14X14H48 > Inductor_SMD : L_10.4x10.4_H4.8](#fzkinductorsml14x14h48--inductor_smd--l_104x104_h48)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Inductor_SMD : L_10.4x10.4_H4.8
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_10.4x10.4_H4.8](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_10.4x10.4_H4.8)
 - Short Link: [http://oom.lt/FZKINDUCTORSML14X14H48](http://oom.lt/FZKINDUCTORSML14X14H48)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_10.4x10.4_H4.8/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_10.4x10.4_H4.8/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_10.4x10.4_H4.8/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_10.4x10.4_H4.8/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_10.4x10.4_H4.8/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_10.4x10.4_H4.8/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_10.4x10.4_H4.8/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_10.4x10.4_H4.8/kicadPcb3dBack.png)|

@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKMEMORYNVRAMMB85RS512T > Memory_NVRAM : MB85RS512T](#szkmemorynvrammb85rs512t--memory_nvram--mb85rs512t)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Memory_NVRAM : MB85RS512T
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_NVRAM-MB85RS512T](http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_NVRAM-MB85RS512T)
 - Short Link: [http://oom.lt/SZKMEMORYNVRAMMB85RS512T](http://oom.lt/SZKMEMORYNVRAMMB85RS512T)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Memory_NVRAM/MB85RS512T/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Memory_NVRAM/MB85RS512T/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Memory_NVRAM/MB85RS512T/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Memory_NVRAM/MB85RS512T/image.png)|||

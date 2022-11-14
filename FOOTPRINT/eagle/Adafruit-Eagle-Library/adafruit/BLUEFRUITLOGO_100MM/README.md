@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZABLUEFRUITL1 > adafruit : BLUEFRUITLOGO_100MM](#fzabluefruitl1--adafruit--bluefruitlogo_100mm)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: adafruit : BLUEFRUITLOGO_100MM
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-BLUEFRUITLOGO_100MM](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-BLUEFRUITLOGO_100MM)
 - Short Link: [http://oom.lt/FZABLUEFRUITL1](http://oom.lt/FZABLUEFRUITL1)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/BLUEFRUITLOGO_100MM/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/BLUEFRUITLOGO_100MM/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/BLUEFRUITLOGO_100MM/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/BLUEFRUITLOGO_100MM/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/BLUEFRUITLOGO_100MM/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/BLUEFRUITLOGO_100MM/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/BLUEFRUITLOGO_100MM/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/BLUEFRUITLOGO_100MM/kicadPcb3dBack.png)|

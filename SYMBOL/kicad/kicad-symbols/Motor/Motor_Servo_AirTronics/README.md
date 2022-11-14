@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKMOTORMOTORSERVOAIRTRONICS > Motor : Motor_Servo_AirTronics](#szkmotormotorservoairtronics--motor--motor_servo_airtronics)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Motor : Motor_Servo_AirTronics
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Motor-Motor_Servo_AirTronics](http://oom.lt/SYMBOL-kicad-kicad-symbols-Motor-Motor_Servo_AirTronics)
 - Short Link: [http://oom.lt/SZKMOTORMOTORSERVOAIRTRONICS](http://oom.lt/SZKMOTORMOTORSERVOAIRTRONICS)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Motor/Motor_Servo_AirTronics/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Motor/Motor_Servo_AirTronics/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Motor/Motor_Servo_AirTronics/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Motor/Motor_Servo_AirTronics/image.png)|||

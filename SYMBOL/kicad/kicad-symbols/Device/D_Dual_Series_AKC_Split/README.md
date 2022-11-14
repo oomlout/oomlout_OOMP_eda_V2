@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDEVICEDDUALSERIESAKCSPLIT > Device : D_Dual_Series_AKC_Split](#szkdeviceddualseriesakcsplit--device--d_dual_series_akc_split)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Device : D_Dual_Series_AKC_Split
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-D_Dual_Series_AKC_Split](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-D_Dual_Series_AKC_Split)
 - Short Link: [http://oom.lt/SZKDEVICEDDUALSERIESAKCSPLIT](http://oom.lt/SZKDEVICEDDUALSERIESAKCSPLIT)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/D_Dual_Series_AKC_Split/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/D_Dual_Series_AKC_Split/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/D_Dual_Series_AKC_Split/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/D_Dual_Series_AKC_Split/image.png)|||

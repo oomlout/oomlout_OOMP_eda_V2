@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDEVICENT3TEE > Device : NetTie_3_Tee](#szkdevicent3tee--device--nettie_3_tee)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Device : NetTie_3_Tee
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-NetTie_3_Tee](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-NetTie_3_Tee)
 - Short Link: [http://oom.lt/SZKDEVICENT3TEE](http://oom.lt/SZKDEVICENT3TEE)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/NetTie_3_Tee/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/NetTie_3_Tee/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/NetTie_3_Tee/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/NetTie_3_Tee/image.png)|||

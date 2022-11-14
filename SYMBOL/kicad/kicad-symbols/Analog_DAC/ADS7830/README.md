@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKANALOGDACADS783 > Analog_DAC : ADS7830](#szkanalogdacads783--analog_dac--ads7830)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Analog_DAC : ADS7830
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_DAC-ADS7830](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_DAC-ADS7830)
 - Short Link: [http://oom.lt/SZKANALOGDACADS783](http://oom.lt/SZKANALOGDACADS783)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Analog_DAC/ADS7830/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Analog_DAC/ADS7830/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Analog_DAC/ADS7830/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Analog_DAC/ADS7830/image.png)|||

@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZE74ACLOGICSO28W > 74ac-logic : SO28W](#fze74aclogicso28w--74ac-logic--so28w)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: 74ac-logic : SO28W
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-74ac-logic-SO28W](http://oom.lt/FOOTPRINT-eagle-eagle-default-74ac-logic-SO28W)
 - Short Link: [http://oom.lt/FZE74ACLOGICSO28W](http://oom.lt/FZE74ACLOGICSO28W)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/74ac-logic/SO28W/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/74ac-logic/SO28W/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/74ac-logic/SO28W/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/74ac-logic/SO28W/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/74ac-logic/SO28W/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/74ac-logic/SO28W/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/74ac-logic/SO28W/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/74ac-logic/SO28W/kicadPcb3dBack.png)|

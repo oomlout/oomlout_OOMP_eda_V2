@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKANALOGADCADC832 > Analog_ADC : ADC0832](#szkanalogadcadc832--analog_adc--adc0832)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Analog_ADC : ADC0832
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-ADC0832](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-ADC0832)
 - Short Link: [http://oom.lt/SZKANALOGADCADC832](http://oom.lt/SZKANALOGADCADC832)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Analog_ADC/ADC0832/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Analog_ADC/ADC0832/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Analog_ADC/ADC0832/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Analog_ADC/ADC0832/image.png)|||

@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDRIVERFETZXGD39E6 > Driver_FET : ZXGD3009E6](#szkdriverfetzxgd39e6--driver_fet--zxgd3009e6)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Driver_FET : ZXGD3009E6
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-ZXGD3009E6](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-ZXGD3009E6)
 - Short Link: [http://oom.lt/SZKDRIVERFETZXGD39E6](http://oom.lt/SZKDRIVERFETZXGD39E6)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Driver_FET/ZXGD3009E6/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Driver_FET/ZXGD3009E6/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Driver_FET/ZXGD3009E6/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Driver_FET/ZXGD3009E6/image.png)|||

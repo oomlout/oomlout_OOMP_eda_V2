@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKREGULATORLINEARL798 > Regulator_Linear : L7908](#szkregulatorlinearl798--regulator_linear--l7908)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Regulator_Linear : L7908
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-L7908](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-L7908)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARL798](http://oom.lt/SZKREGULATORLINEARL798)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/L7908/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/L7908/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/L7908/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/L7908/image.png)|||

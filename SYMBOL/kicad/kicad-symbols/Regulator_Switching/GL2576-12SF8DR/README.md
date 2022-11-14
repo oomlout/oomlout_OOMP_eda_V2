@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKREGULATORSWITCHINGGL257612SF8DR > Regulator_Switching : GL2576-12SF8DR](#szkregulatorswitchinggl257612sf8dr--regulator_switching--gl2576-12sf8dr)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Regulator_Switching : GL2576-12SF8DR
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-GL2576-12SF8DR](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-GL2576-12SF8DR)
 - Short Link: [http://oom.lt/SZKREGULATORSWITCHINGGL257612SF8DR](http://oom.lt/SZKREGULATORSWITCHINGGL257612SF8DR)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/GL2576-12SF8DR/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/GL2576-12SF8DR/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/GL2576-12SF8DR/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/GL2576-12SF8DR/image.png)|||

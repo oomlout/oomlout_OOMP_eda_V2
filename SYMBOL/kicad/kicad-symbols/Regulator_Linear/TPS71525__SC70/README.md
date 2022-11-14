@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKREGULATORLINEARTPS71525SC7 > Regulator_Linear : TPS71525__SC70](#szkregulatorlineartps71525sc7--regulator_linear--tps71525__sc70)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Regulator_Linear : TPS71525__SC70
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-TPS71525__SC70](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-TPS71525__SC70)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARTPS71525SC7](http://oom.lt/SZKREGULATORLINEARTPS71525SC7)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/TPS71525__SC70/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/TPS71525__SC70/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/TPS71525__SC70/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/TPS71525__SC70/image.png)|||

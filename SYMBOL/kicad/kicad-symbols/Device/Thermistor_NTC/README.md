@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDEVICETHERMISTORNTC > Device : Thermistor_NTC](#szkdevicethermistorntc--device--thermistor_ntc)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Device : Thermistor_NTC
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Thermistor_NTC](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Thermistor_NTC)
 - Short Link: [http://oom.lt/SZKDEVICETHERMISTORNTC](http://oom.lt/SZKDEVICETHERMISTORNTC)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/Thermistor_NTC/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/Thermistor_NTC/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/Thermistor_NTC/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/Thermistor_NTC/image.png)|||

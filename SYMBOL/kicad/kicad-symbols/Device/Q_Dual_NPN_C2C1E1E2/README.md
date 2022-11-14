@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDEVICEQDUALNPNC2C1E1E2 > Device : Q_Dual_NPN_C2C1E1E2](#szkdeviceqdualnpnc2c1e1e2--device--q_dual_npn_c2c1e1e2)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Device : Q_Dual_NPN_C2C1E1E2
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Q_Dual_NPN_C2C1E1E2](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Q_Dual_NPN_C2C1E1E2)
 - Short Link: [http://oom.lt/SZKDEVICEQDUALNPNC2C1E1E2](http://oom.lt/SZKDEVICEQDUALNPNC2C1E1E2)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/Q_Dual_NPN_C2C1E1E2/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/Q_Dual_NPN_C2C1E1E2/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/Q_Dual_NPN_C2C1E1E2/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/Q_Dual_NPN_C2C1E1E2/image.png)|||

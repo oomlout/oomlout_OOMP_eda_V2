@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKANALOGSWITCHMAX394 > Analog_Switch : MAX394](#szkanalogswitchmax394--analog_switch--max394)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Analog_Switch : MAX394
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_Switch-MAX394](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_Switch-MAX394)
 - Short Link: [http://oom.lt/SZKANALOGSWITCHMAX394](http://oom.lt/SZKANALOGSWITCHMAX394)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Analog_Switch/MAX394/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Analog_Switch/MAX394/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Analog_Switch/MAX394/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Analog_Switch/MAX394/image.png)|||

@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKSENPROXIMITYITR837F43 > Sensor_Proximity : ITR8307-F43](#szksenproximityitr837f43--sensor_proximity--itr8307-f43)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Sensor_Proximity : ITR8307-F43
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Proximity-ITR8307-F43](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Proximity-ITR8307-F43)
 - Short Link: [http://oom.lt/SZKSENPROXIMITYITR837F43](http://oom.lt/SZKSENPROXIMITYITR837F43)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Proximity/ITR8307-F43/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Proximity/ITR8307-F43/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Proximity/ITR8307-F43/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Proximity/ITR8307-F43/image.png)|||

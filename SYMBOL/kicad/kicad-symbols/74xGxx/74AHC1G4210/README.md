@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZK74XGXX74AHC1G421 > 74xGxx : 74AHC1G4210](#szk74xgxx74ahc1g421--74xgxx--74ahc1g4210)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: 74xGxx : 74AHC1G4210
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-74xGxx-74AHC1G4210](http://oom.lt/SYMBOL-kicad-kicad-symbols-74xGxx-74AHC1G4210)
 - Short Link: [http://oom.lt/SZK74XGXX74AHC1G421](http://oom.lt/SZK74XGXX74AHC1G421)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/74xGxx/74AHC1G4210/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/74xGxx/74AHC1G4210/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/74xGxx/74AHC1G4210/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/74xGxx/74AHC1G4210/image.png)|||

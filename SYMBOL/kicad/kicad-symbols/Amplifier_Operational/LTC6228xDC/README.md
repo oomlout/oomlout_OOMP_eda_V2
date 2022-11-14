@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKAMPLIFIEROPERATIONALLTC6228XDC > Amplifier_Operational : LTC6228xDC](#szkamplifieroperationalltc6228xdc--amplifier_operational--ltc6228xdc)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Amplifier_Operational : LTC6228xDC
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LTC6228xDC](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LTC6228xDC)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALLTC6228XDC](http://oom.lt/SZKAMPLIFIEROPERATIONALLTC6228XDC)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/LTC6228xDC/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/LTC6228xDC/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/LTC6228xDC/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/LTC6228xDC/image.png)|||

@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDEVICEDZENERDUALCOONANODEKKA > Device : D_Zener_Dual_CommonAnode_KKA](#szkdevicedzenerdualcoonanodekka--device--d_zener_dual_commonanode_kka)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Device : D_Zener_Dual_CommonAnode_KKA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-D_Zener_Dual_CommonAnode_KKA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-D_Zener_Dual_CommonAnode_KKA)
 - Short Link: [http://oom.lt/SZKDEVICEDZENERDUALCOONANODEKKA](http://oom.lt/SZKDEVICEDZENERDUALCOONANODEKKA)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/D_Zener_Dual_CommonAnode_KKA/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/D_Zener_Dual_CommonAnode_KKA/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/D_Zener_Dual_CommonAnode_KKA/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/D_Zener_Dual_CommonAnode_KKA/image.png)|||

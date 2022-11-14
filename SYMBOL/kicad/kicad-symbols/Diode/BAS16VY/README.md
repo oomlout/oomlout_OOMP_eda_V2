@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDIODEBAS16VY > Diode : BAS16VY](#szkdiodebas16vy--diode--bas16vy)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Diode : BAS16VY
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-BAS16VY](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-BAS16VY)
 - Short Link: [http://oom.lt/SZKDIODEBAS16VY](http://oom.lt/SZKDIODEBAS16VY)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Diode/BAS16VY/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Diode/BAS16VY/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Diode/BAS16VY/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Diode/BAS16VY/image.png)|||

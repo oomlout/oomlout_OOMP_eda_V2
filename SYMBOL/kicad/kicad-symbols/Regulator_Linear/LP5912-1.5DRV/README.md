@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKREGULATORLINEARLP591215DRV > Regulator_Linear : LP5912-1.5DRV](#szkregulatorlinearlp591215drv--regulator_linear--lp5912-15drv)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Regulator_Linear : LP5912-1.5DRV
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LP5912-1.5DRV](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LP5912-1.5DRV)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARLP591215DRV](http://oom.lt/SZKREGULATORLINEARLP591215DRV)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LP5912-1.5DRV/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LP5912-1.5DRV/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LP5912-1.5DRV/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LP5912-1.5DRV/image.png)|||

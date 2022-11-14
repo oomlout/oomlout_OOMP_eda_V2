@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDIODECSD16A > Diode : CSD01060A](#szkdiodecsd16a--diode--csd01060a)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Diode : CSD01060A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-CSD01060A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-CSD01060A)
 - Short Link: [http://oom.lt/SZKDIODECSD16A](http://oom.lt/SZKDIODECSD16A)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Diode/CSD01060A/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Diode/CSD01060A/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Diode/CSD01060A/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Diode/CSD01060A/image.png)|||

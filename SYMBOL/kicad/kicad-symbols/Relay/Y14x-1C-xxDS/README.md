@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKRELAYY14X1CXXDS > Relay : Y14x-1C-xxDS](#szkrelayy14x1cxxds--relay--y14x-1c-xxds)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Relay : Y14x-1C-xxDS
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-Y14x-1C-xxDS](http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-Y14x-1C-xxDS)
 - Short Link: [http://oom.lt/SZKRELAYY14X1CXXDS](http://oom.lt/SZKRELAYY14X1CXXDS)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Relay/Y14x-1C-xxDS/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Relay/Y14x-1C-xxDS/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Relay/Y14x-1C-xxDS/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Relay/Y14x-1C-xxDS/image.png)|||

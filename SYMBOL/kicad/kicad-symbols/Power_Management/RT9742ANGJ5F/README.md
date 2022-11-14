@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKPOWERMANAGEMENTRT9742ANGJ5F > Power_Management : RT9742ANGJ5F](#szkpowermanagementrt9742angj5f--power_management--rt9742angj5f)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Power_Management : RT9742ANGJ5F
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-RT9742ANGJ5F](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-RT9742ANGJ5F)
 - Short Link: [http://oom.lt/SZKPOWERMANAGEMENTRT9742ANGJ5F](http://oom.lt/SZKPOWERMANAGEMENTRT9742ANGJ5F)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Power_Management/RT9742ANGJ5F/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Power_Management/RT9742ANGJ5F/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Power_Management/RT9742ANGJ5F/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Power_Management/RT9742ANGJ5F/image.png)|||

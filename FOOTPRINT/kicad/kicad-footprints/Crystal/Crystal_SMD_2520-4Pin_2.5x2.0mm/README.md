@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKXXSM2524PIN25X2 > Crystal : Crystal_SMD_2520-4Pin_2.5x2.0mm](#fzkxxsm2524pin25x2--crystal--crystal_smd_2520-4pin_25x20mm)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Crystal : Crystal_SMD_2520-4Pin_2.5x2.0mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_SMD_2520-4Pin_2.5x2.0mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_SMD_2520-4Pin_2.5x2.0mm)
 - Short Link: [http://oom.lt/FZKXXSM2524PIN25X2](http://oom.lt/FZKXXSM2524PIN25X2)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_SMD_2520-4Pin_2.5x2.0mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_SMD_2520-4Pin_2.5x2.0mm/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_SMD_2520-4Pin_2.5x2.0mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_SMD_2520-4Pin_2.5x2.0mm/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_SMD_2520-4Pin_2.5x2.0mm/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_SMD_2520-4Pin_2.5x2.0mm/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_SMD_2520-4Pin_2.5x2.0mm/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_SMD_2520-4Pin_2.5x2.0mm/kicadPcb3dBack.png)|

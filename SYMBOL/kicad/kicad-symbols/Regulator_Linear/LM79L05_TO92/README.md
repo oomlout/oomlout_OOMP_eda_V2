@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKREGULATORLINEARLM79L5TO92 > Regulator_Linear : LM79L05_TO92](#szkregulatorlinearlm79l5to92--regulator_linear--lm79l05_to92)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Regulator_Linear : LM79L05_TO92
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LM79L05_TO92](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LM79L05_TO92)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARLM79L5TO92](http://oom.lt/SZKREGULATORLINEARLM79L5TO92)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LM79L05_TO92/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LM79L05_TO92/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LM79L05_TO92/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LM79L05_TO92/image.png)|||

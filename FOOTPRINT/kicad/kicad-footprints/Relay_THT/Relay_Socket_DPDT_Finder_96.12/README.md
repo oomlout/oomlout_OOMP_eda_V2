@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKRELRELAYSODPDTFINDER9612 > Relay_THT : Relay_Socket_DPDT_Finder_96.12](#fzkrelrelaysodpdtfinder9612--relay_tht--relay_socket_dpdt_finder_9612)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Relay_THT : Relay_Socket_DPDT_Finder_96.12
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Relay_THT-Relay_Socket_DPDT_Finder_96.12](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Relay_THT-Relay_Socket_DPDT_Finder_96.12)
 - Short Link: [http://oom.lt/FZKRELRELAYSODPDTFINDER9612](http://oom.lt/FZKRELRELAYSODPDTFINDER9612)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Relay_THT/Relay_Socket_DPDT_Finder_96.12/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Relay_THT/Relay_Socket_DPDT_Finder_96.12/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Relay_THT/Relay_Socket_DPDT_Finder_96.12/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Relay_THT/Relay_Socket_DPDT_Finder_96.12/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Relay_THT/Relay_Socket_DPDT_Finder_96.12/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Relay_THT/Relay_Socket_DPDT_Finder_96.12/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Relay_THT/Relay_Socket_DPDT_Finder_96.12/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Relay_THT/Relay_Socket_DPDT_Finder_96.12/kicadPcb3dBack.png)|

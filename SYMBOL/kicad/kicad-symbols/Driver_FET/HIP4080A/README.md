@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDRIVERFETHIP48A > Driver_FET : HIP4080A](#szkdriverfethip48a--driver_fet--hip4080a)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Driver_FET : HIP4080A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-HIP4080A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-HIP4080A)
 - Short Link: [http://oom.lt/SZKDRIVERFETHIP48A](http://oom.lt/SZKDRIVERFETHIP48A)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Driver_FET/HIP4080A/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Driver_FET/HIP4080A/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Driver_FET/HIP4080A/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Driver_FET/HIP4080A/image.png)|||

@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZEANALOGDEVICESPBGAB26 > analog-devices : PBGA_B260](#fzeanalogdevicespbgab26--analog-devices--pbga_b260)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: analog-devices : PBGA_B260
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-analog-devices-PBGA_B260](http://oom.lt/FOOTPRINT-eagle-eagle-default-analog-devices-PBGA_B260)
 - Short Link: [http://oom.lt/FZEANALOGDEVICESPBGAB26](http://oom.lt/FZEANALOGDEVICESPBGAB26)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/analog-devices/PBGA_B260/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/analog-devices/PBGA_B260/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/analog-devices/PBGA_B260/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/analog-devices/PBGA_B260/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/analog-devices/PBGA_B260/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/analog-devices/PBGA_B260/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/analog-devices/PBGA_B260/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/analog-devices/PBGA_B260/kicadPcb3dBack.png)|

@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDEVICESPARKGAP > Device : SparkGap](#szkdevicesparkgap--device--sparkgap)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Device : SparkGap
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-SparkGap](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-SparkGap)
 - Short Link: [http://oom.lt/SZKDEVICESPARKGAP](http://oom.lt/SZKDEVICESPARKGAP)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/SparkGap/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/SparkGap/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/SparkGap/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/SparkGap/image.png)|||

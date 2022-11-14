@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKRELAYIM23 > Relay : IM23](#szkrelayim23--relay--im23)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Relay : IM23
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-IM23](http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-IM23)
 - Short Link: [http://oom.lt/SZKRELAYIM23](http://oom.lt/SZKRELAYIM23)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Relay/IM23/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Relay/IM23/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Relay/IM23/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Relay/IM23/image.png)|||

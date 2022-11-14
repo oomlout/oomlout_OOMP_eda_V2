@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKAMPLIFIERCURRENTZXCT117 > Amplifier_Current : ZXCT1107](#szkamplifiercurrentzxct117--amplifier_current--zxct1107)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Amplifier_Current : ZXCT1107
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Current-ZXCT1107](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Current-ZXCT1107)
 - Short Link: [http://oom.lt/SZKAMPLIFIERCURRENTZXCT117](http://oom.lt/SZKAMPLIFIERCURRENTZXCT117)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Amplifier_Current/ZXCT1107/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Amplifier_Current/ZXCT1107/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Amplifier_Current/ZXCT1107/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Amplifier_Current/ZXCT1107/image.png)|||

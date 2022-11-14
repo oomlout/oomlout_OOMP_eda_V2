@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKLCLS6BFKW > LED : CLS6B-FKW](#szklcls6bfkw--led--cls6b-fkw)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: LED : CLS6B-FKW
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-LED-CLS6B-FKW](http://oom.lt/SYMBOL-kicad-kicad-symbols-LED-CLS6B-FKW)
 - Short Link: [http://oom.lt/SZKLCLS6BFKW](http://oom.lt/SZKLCLS6BFKW)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/LED/CLS6B-FKW/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/LED/CLS6B-FKW/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/LED/CLS6B-FKW/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/LED/CLS6B-FKW/image.png)|||

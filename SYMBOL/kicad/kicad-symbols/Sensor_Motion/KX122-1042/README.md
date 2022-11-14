@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKSENMOTIONKX122142 > Sensor_Motion : KX122-1042](#szksenmotionkx122142--sensor_motion--kx122-1042)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Sensor_Motion : KX122-1042
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Motion-KX122-1042](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Motion-KX122-1042)
 - Short Link: [http://oom.lt/SZKSENMOTIONKX122142](http://oom.lt/SZKSENMOTIONKX122142)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Motion/KX122-1042/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Motion/KX122-1042/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Motion/KX122-1042/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Motion/KX122-1042/image.png)|||

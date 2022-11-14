@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKINTERFACEMC68A21 > Interface : MC68A21](#szkinterfacemc68a21--interface--mc68a21)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Interface : MC68A21
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-MC68A21](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-MC68A21)
 - Short Link: [http://oom.lt/SZKINTERFACEMC68A21](http://oom.lt/SZKINTERFACEMC68A21)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface/MC68A21/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface/MC68A21/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface/MC68A21/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface/MC68A21/image.png)|||

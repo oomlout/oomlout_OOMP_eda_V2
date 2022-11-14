@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKPOWERAC > power : AC](#szkpowerac--power--ac)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: power : AC
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-power-AC](http://oom.lt/SYMBOL-kicad-kicad-symbols-power-AC)
 - Short Link: [http://oom.lt/SZKPOWERAC](http://oom.lt/SZKPOWERAC)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/power/AC/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/power/AC/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/power/AC/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/power/AC/image.png)|||

@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKPOWERMANAGEMENTBD48XXFVE > Power_Management : BD48xxFVE](#szkpowermanagementbd48xxfve--power_management--bd48xxfve)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Power_Management : BD48xxFVE
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-BD48xxFVE](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-BD48xxFVE)
 - Short Link: [http://oom.lt/SZKPOWERMANAGEMENTBD48XXFVE](http://oom.lt/SZKPOWERMANAGEMENTBD48XXFVE)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Power_Management/BD48xxFVE/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Power_Management/BD48xxFVE/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Power_Management/BD48xxFVE/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Power_Management/BD48xxFVE/image.png)|||

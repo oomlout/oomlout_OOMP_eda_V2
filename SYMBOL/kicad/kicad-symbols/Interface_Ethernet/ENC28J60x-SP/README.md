@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKINTERFACEETHERNETENC28J6XSP > Interface_Ethernet : ENC28J60x-SP](#szkinterfaceethernetenc28j6xsp--interface_ethernet--enc28j60x-sp)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Interface_Ethernet : ENC28J60x-SP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Ethernet-ENC28J60x-SP](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Ethernet-ENC28J60x-SP)
 - Short Link: [http://oom.lt/SZKINTERFACEETHERNETENC28J6XSP](http://oom.lt/SZKINTERFACEETHERNETENC28J6XSP)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface_Ethernet/ENC28J60x-SP/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface_Ethernet/ENC28J60x-SP/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface_Ethernet/ENC28J60x-SP/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface_Ethernet/ENC28J60x-SP/image.png)|||

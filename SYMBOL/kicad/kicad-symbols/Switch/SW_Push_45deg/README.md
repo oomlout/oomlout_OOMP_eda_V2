@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKSWITCHSWPUSH45DEG > Switch : SW_Push_45deg](#szkswitchswpush45deg--switch--sw_push_45deg)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Switch : SW_Push_45deg
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Switch-SW_Push_45deg](http://oom.lt/SYMBOL-kicad-kicad-symbols-Switch-SW_Push_45deg)
 - Short Link: [http://oom.lt/SZKSWITCHSWPUSH45DEG](http://oom.lt/SZKSWITCHSWPUSH45DEG)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Switch/SW_Push_45deg/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Switch/SW_Push_45deg/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Switch/SW_Push_45deg/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Switch/SW_Push_45deg/image.png)|||

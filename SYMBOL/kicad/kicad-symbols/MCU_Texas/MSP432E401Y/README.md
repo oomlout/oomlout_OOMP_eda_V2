@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKMCUTEXASMSP432E41Y > MCU_Texas : MSP432E401Y](#szkmcutexasmsp432e41y--mcu_texas--msp432e401y)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: MCU_Texas : MSP432E401Y
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Texas-MSP432E401Y](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Texas-MSP432E401Y)
 - Short Link: [http://oom.lt/SZKMCUTEXASMSP432E41Y](http://oom.lt/SZKMCUTEXASMSP432E41Y)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Texas/MSP432E401Y/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Texas/MSP432E401Y/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Texas/MSP432E401Y/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Texas/MSP432E401Y/image.png)|||

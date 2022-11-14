@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKPOWERMANAGEMENTSTM66 > Power_Management : STM6600](#szkpowermanagementstm66--power_management--stm6600)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Power_Management : STM6600
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-STM6600](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-STM6600)
 - Short Link: [http://oom.lt/SZKPOWERMANAGEMENTSTM66](http://oom.lt/SZKPOWERMANAGEMENTSTM66)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Power_Management/STM6600/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Power_Management/STM6600/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Power_Management/STM6600/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Power_Management/STM6600/image.png)|||

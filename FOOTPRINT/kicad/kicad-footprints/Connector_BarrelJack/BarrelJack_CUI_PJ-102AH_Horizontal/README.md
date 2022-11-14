@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKCNBARRELJBARRELJCUIPJ12AHHORIZONTAL > Connector_BarrelJack : BarrelJack_CUI_PJ-102AH_Horizontal](#fzkcnbarreljbarreljcuipj12ahhorizontal--connector_barreljack--barreljack_cui_pj-102ah_horizontal)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Connector_BarrelJack : BarrelJack_CUI_PJ-102AH_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_BarrelJack-BarrelJack_CUI_PJ-102AH_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_BarrelJack-BarrelJack_CUI_PJ-102AH_Horizontal)
 - Short Link: [http://oom.lt/FZKCNBARRELJBARRELJCUIPJ12AHHORIZONTAL](http://oom.lt/FZKCNBARRELJBARRELJCUIPJ12AHHORIZONTAL)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_BarrelJack/BarrelJack_CUI_PJ-102AH_Horizontal/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_BarrelJack/BarrelJack_CUI_PJ-102AH_Horizontal/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_BarrelJack/BarrelJack_CUI_PJ-102AH_Horizontal/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_BarrelJack/BarrelJack_CUI_PJ-102AH_Horizontal/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_BarrelJack/BarrelJack_CUI_PJ-102AH_Horizontal/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_BarrelJack/BarrelJack_CUI_PJ-102AH_Horizontal/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_BarrelJack/BarrelJack_CUI_PJ-102AH_Horizontal/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_BarrelJack/BarrelJack_CUI_PJ-102AH_Horizontal/kicadPcb3dBack.png)|

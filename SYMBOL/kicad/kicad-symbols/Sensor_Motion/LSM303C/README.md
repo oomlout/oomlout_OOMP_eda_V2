@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKSENMOTIONLSM33C > Sensor_Motion : LSM303C](#szksenmotionlsm33c--sensor_motion--lsm303c)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Sensor_Motion : LSM303C
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Motion-LSM303C](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Motion-LSM303C)
 - Short Link: [http://oom.lt/SZKSENMOTIONLSM33C](http://oom.lt/SZKSENMOTIONLSM33C)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Motion/LSM303C/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Motion/LSM303C/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Motion/LSM303C/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Motion/LSM303C/image.png)|||

@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDIODEC4D112E > Diode : C4D10120E](#szkdiodec4d112e--diode--c4d10120e)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Diode : C4D10120E
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-C4D10120E](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-C4D10120E)
 - Short Link: [http://oom.lt/SZKDIODEC4D112E](http://oom.lt/SZKDIODEC4D112E)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Diode/C4D10120E/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Diode/C4D10120E/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Diode/C4D10120E/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Diode/C4D10120E/image.png)|||

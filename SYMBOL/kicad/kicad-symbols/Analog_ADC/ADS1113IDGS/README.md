@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKANALOGADCADS1113IDGS > Analog_ADC : ADS1113IDGS](#szkanalogadcads1113idgs--analog_adc--ads1113idgs)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Analog_ADC : ADS1113IDGS
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-ADS1113IDGS](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-ADS1113IDGS)
 - Short Link: [http://oom.lt/SZKANALOGADCADS1113IDGS](http://oom.lt/SZKANALOGADCADS1113IDGS)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Analog_ADC/ADS1113IDGS/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Analog_ADC/ADS1113IDGS/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Analog_ADC/ADS1113IDGS/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Analog_ADC/ADS1113IDGS/image.png)|||

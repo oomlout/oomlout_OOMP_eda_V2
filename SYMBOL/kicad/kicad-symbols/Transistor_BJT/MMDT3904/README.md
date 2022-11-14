@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKTRANSISTORBJTDT394 > Transistor_BJT : MMDT3904](#szktransistorbjtdt394--transistor_bjt--mmdt3904)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Transistor_BJT : MMDT3904
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-MMDT3904](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-MMDT3904)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJTDT394](http://oom.lt/SZKTRANSISTORBJTDT394)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_BJT/MMDT3904/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_BJT/MMDT3904/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_BJT/MMDT3904/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_BJT/MMDT3904/image.png)|||

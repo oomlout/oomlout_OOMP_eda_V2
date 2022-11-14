@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKOCSSG532CCN > Oscillator : SG-5032CCN](#szkocssg532ccn--oscillator--sg-5032ccn)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Oscillator : SG-5032CCN
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Oscillator-SG-5032CCN](http://oom.lt/SYMBOL-kicad-kicad-symbols-Oscillator-SG-5032CCN)
 - Short Link: [http://oom.lt/SZKOCSSG532CCN](http://oom.lt/SZKOCSSG532CCN)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Oscillator/SG-5032CCN/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Oscillator/SG-5032CCN/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Oscillator/SG-5032CCN/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Oscillator/SG-5032CCN/image.png)|||

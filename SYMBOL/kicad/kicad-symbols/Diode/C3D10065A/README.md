@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDIODEC3D165A > Diode : C3D10065A](#szkdiodec3d165a--diode--c3d10065a)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Diode : C3D10065A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-C3D10065A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-C3D10065A)
 - Short Link: [http://oom.lt/SZKDIODEC3D165A](http://oom.lt/SZKDIODEC3D165A)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Diode/C3D10065A/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Diode/C3D10065A/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Diode/C3D10065A/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Diode/C3D10065A/image.png)|||

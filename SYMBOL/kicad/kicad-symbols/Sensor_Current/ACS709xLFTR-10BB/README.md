@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKSENCURRENTACS79XLFTR1BB > Sensor_Current : ACS709xLFTR-10BB](#szksencurrentacs79xlftr1bb--sensor_current--acs709xlftr-10bb)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Sensor_Current : ACS709xLFTR-10BB
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-ACS709xLFTR-10BB](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-ACS709xLFTR-10BB)
 - Short Link: [http://oom.lt/SZKSENCURRENTACS79XLFTR1BB](http://oom.lt/SZKSENCURRENTACS79XLFTR1BB)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Current/ACS709xLFTR-10BB/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Current/ACS709xLFTR-10BB/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Current/ACS709xLFTR-10BB/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Current/ACS709xLFTR-10BB/image.png)|||

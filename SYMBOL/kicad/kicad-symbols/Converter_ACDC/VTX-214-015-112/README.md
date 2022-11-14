@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKCONVTX21415112 > Converter_ACDC : VTX-214-015-112](#szkconvtx21415112--converter_acdc--vtx-214-015-112)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Converter_ACDC : VTX-214-015-112
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_ACDC-VTX-214-015-112](http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_ACDC-VTX-214-015-112)
 - Short Link: [http://oom.lt/SZKCONVTX21415112](http://oom.lt/SZKCONVTX21415112)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Converter_ACDC/VTX-214-015-112/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Converter_ACDC/VTX-214-015-112/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Converter_ACDC/VTX-214-015-112/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Converter_ACDC/VTX-214-015-112/image.png)|||

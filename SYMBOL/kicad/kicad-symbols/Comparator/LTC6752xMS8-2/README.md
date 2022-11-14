@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKCOMPARATORLTC6752XMS82 > Comparator : LTC6752xMS8-2](#szkcomparatorltc6752xms82--comparator--ltc6752xms8-2)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Comparator : LTC6752xMS8-2
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Comparator-LTC6752xMS8-2](http://oom.lt/SYMBOL-kicad-kicad-symbols-Comparator-LTC6752xMS8-2)
 - Short Link: [http://oom.lt/SZKCOMPARATORLTC6752XMS82](http://oom.lt/SZKCOMPARATORLTC6752XMS82)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Comparator/LTC6752xMS8-2/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Comparator/LTC6752xMS8-2/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Comparator/LTC6752xMS8-2/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Comparator/LTC6752xMS8-2/image.png)|||

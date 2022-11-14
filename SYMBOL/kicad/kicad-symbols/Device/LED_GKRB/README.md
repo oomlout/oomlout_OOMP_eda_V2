@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDEVICELGKRB > Device : LED_GKRB](#szkdevicelgkrb--device--led_gkrb)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Device : LED_GKRB
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-LED_GKRB](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-LED_GKRB)
 - Short Link: [http://oom.lt/SZKDEVICELGKRB](http://oom.lt/SZKDEVICELGKRB)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/LED_GKRB/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/LED_GKRB/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/LED_GKRB/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/LED_GKRB/image.png)|||

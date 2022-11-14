@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKINLAXIALL16D63P232HORIZONTALFASTRONVHBCC > Inductor_THT : L_Axial_L16.0mm_D6.3mm_P20.32mm_Horizontal_Fastron_VHBCC](#fzkinlaxiall16d63p232horizontalfastronvhbcc--inductor_tht--l_axial_l160mm_d63mm_p2032mm_horizontal_fastron_vhbcc)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Inductor_THT : L_Axial_L16.0mm_D6.3mm_P20.32mm_Horizontal_Fastron_VHBCC
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Axial_L16.0mm_D6.3mm_P20.32mm_Horizontal_Fastron_VHBCC](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Axial_L16.0mm_D6.3mm_P20.32mm_Horizontal_Fastron_VHBCC)
 - Short Link: [http://oom.lt/FZKINLAXIALL16D63P232HORIZONTALFASTRONVHBCC](http://oom.lt/FZKINLAXIALL16D63P232HORIZONTALFASTRONVHBCC)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Axial_L16.0mm_D6.3mm_P20.32mm_Horizontal_Fastron_VHBCC/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Axial_L16.0mm_D6.3mm_P20.32mm_Horizontal_Fastron_VHBCC/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Axial_L16.0mm_D6.3mm_P20.32mm_Horizontal_Fastron_VHBCC/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Axial_L16.0mm_D6.3mm_P20.32mm_Horizontal_Fastron_VHBCC/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Axial_L16.0mm_D6.3mm_P20.32mm_Horizontal_Fastron_VHBCC/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Axial_L16.0mm_D6.3mm_P20.32mm_Horizontal_Fastron_VHBCC/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Axial_L16.0mm_D6.3mm_P20.32mm_Horizontal_Fastron_VHBCC/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Axial_L16.0mm_D6.3mm_P20.32mm_Horizontal_Fastron_VHBCC/kicadPcb3dBack.png)|

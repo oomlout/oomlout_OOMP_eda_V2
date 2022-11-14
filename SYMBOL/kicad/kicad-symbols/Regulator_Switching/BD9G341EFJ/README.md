@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKREGULATORSWITCHINGBD9G341EFJ > Regulator_Switching : BD9G341EFJ](#szkregulatorswitchingbd9g341efj--regulator_switching--bd9g341efj)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Regulator_Switching : BD9G341EFJ
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-BD9G341EFJ](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-BD9G341EFJ)
 - Short Link: [http://oom.lt/SZKREGULATORSWITCHINGBD9G341EFJ](http://oom.lt/SZKREGULATORSWITCHINGBD9G341EFJ)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/BD9G341EFJ/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/BD9G341EFJ/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/BD9G341EFJ/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/BD9G341EFJ/image.png)|||

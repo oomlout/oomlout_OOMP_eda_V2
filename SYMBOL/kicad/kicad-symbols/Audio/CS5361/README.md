@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKAUDIOCS5361 > Audio : CS5361](#szkaudiocs5361--audio--cs5361)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Audio : CS5361
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Audio-CS5361](http://oom.lt/SYMBOL-kicad-kicad-symbols-Audio-CS5361)
 - Short Link: [http://oom.lt/SZKAUDIOCS5361](http://oom.lt/SZKAUDIOCS5361)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Audio/CS5361/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Audio/CS5361/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Audio/CS5361/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Audio/CS5361/image.png)|||

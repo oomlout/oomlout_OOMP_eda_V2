@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDIODEB25 > Diode : B250](#szkdiodeb25--diode--b250)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Diode : B250
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-B250](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-B250)
 - Short Link: [http://oom.lt/SZKDIODEB25](http://oom.lt/SZKDIODEB25)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Diode/B250/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Diode/B250/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Diode/B250/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Diode/B250/image.png)|||

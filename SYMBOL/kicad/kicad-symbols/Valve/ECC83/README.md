@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKVAECC83 > Valve : ECC83](#szkvaecc83--valve--ecc83)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Valve : ECC83
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Valve-ECC83](http://oom.lt/SYMBOL-kicad-kicad-symbols-Valve-ECC83)
 - Short Link: [http://oom.lt/SZKVAECC83](http://oom.lt/SZKVAECC83)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Valve/ECC83/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Valve/ECC83/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Valve/ECC83/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Valve/ECC83/image.png)|||

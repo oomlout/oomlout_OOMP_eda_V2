@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKTRANSISTORFETPGA26E7BA > Transistor_FET : PGA26E07BA](#szktransistorfetpga26e7ba--transistor_fet--pga26e07ba)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Transistor_FET : PGA26E07BA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-PGA26E07BA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-PGA26E07BA)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETPGA26E7BA](http://oom.lt/SZKTRANSISTORFETPGA26E7BA)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/PGA26E07BA/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/PGA26E07BA/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/PGA26E07BA/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/PGA26E07BA/image.png)|||

@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKSENPROXIMITYTSSP5838 > Sensor_Proximity : TSSP58038](#szksenproximitytssp5838--sensor_proximity--tssp58038)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Sensor_Proximity : TSSP58038
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Proximity-TSSP58038](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Proximity-TSSP58038)
 - Short Link: [http://oom.lt/SZKSENPROXIMITYTSSP5838](http://oom.lt/SZKSENPROXIMITYTSSP5838)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Proximity/TSSP58038/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Proximity/TSSP58038/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Proximity/TSSP58038/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Proximity/TSSP58038/image.png)|||

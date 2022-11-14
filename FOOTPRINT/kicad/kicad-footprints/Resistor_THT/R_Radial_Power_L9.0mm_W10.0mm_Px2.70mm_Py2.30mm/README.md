@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKRRRPOWERL9W1PX27PY23 > Resistor_THT : R_Radial_Power_L9.0mm_W10.0mm_Px2.70mm_Py2.30mm](#fzkrrrpowerl9w1px27py23--resistor_tht--r_radial_power_l90mm_w100mm_px270mm_py230mm)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Resistor_THT : R_Radial_Power_L9.0mm_W10.0mm_Px2.70mm_Py2.30mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Resistor_THT-R_Radial_Power_L9.0mm_W10.0mm_Px2.70mm_Py2.30mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Resistor_THT-R_Radial_Power_L9.0mm_W10.0mm_Px2.70mm_Py2.30mm)
 - Short Link: [http://oom.lt/FZKRRRPOWERL9W1PX27PY23](http://oom.lt/FZKRRRPOWERL9W1PX27PY23)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Resistor_THT/R_Radial_Power_L9.0mm_W10.0mm_Px2.70mm_Py2.30mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Resistor_THT/R_Radial_Power_L9.0mm_W10.0mm_Px2.70mm_Py2.30mm/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Resistor_THT/R_Radial_Power_L9.0mm_W10.0mm_Px2.70mm_Py2.30mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Resistor_THT/R_Radial_Power_L9.0mm_W10.0mm_Px2.70mm_Py2.30mm/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Resistor_THT/R_Radial_Power_L9.0mm_W10.0mm_Px2.70mm_Py2.30mm/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Resistor_THT/R_Radial_Power_L9.0mm_W10.0mm_Px2.70mm_Py2.30mm/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Resistor_THT/R_Radial_Power_L9.0mm_W10.0mm_Px2.70mm_Py2.30mm/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Resistor_THT/R_Radial_Power_L9.0mm_W10.0mm_Px2.70mm_Py2.30mm/kicadPcb3dBack.png)|

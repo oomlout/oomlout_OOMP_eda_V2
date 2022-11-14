@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKPOWER+5VP > power : +5VP](#szkpower5vp--power--5vp)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: power : +5VP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-power-+5VP](http://oom.lt/SYMBOL-kicad-kicad-symbols-power-+5VP)
 - Short Link: [http://oom.lt/SZKPOWER+5VP](http://oom.lt/SZKPOWER+5VP)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/power/+5VP/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/power/+5VP/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/power/+5VP/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/power/+5VP/image.png)|||

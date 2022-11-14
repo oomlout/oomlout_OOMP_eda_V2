@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDICHARACTERCA5612SEKWA > Display_Character : CA56-12SEKWA](#szkdicharacterca5612sekwa--display_character--ca56-12sekwa)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Display_Character : CA56-12SEKWA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-CA56-12SEKWA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-CA56-12SEKWA)
 - Short Link: [http://oom.lt/SZKDICHARACTERCA5612SEKWA](http://oom.lt/SZKDICHARACTERCA5612SEKWA)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Display_Character/CA56-12SEKWA/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Display_Character/CA56-12SEKWA/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Display_Character/CA56-12SEKWA/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Display_Character/CA56-12SEKWA/image.png)|||

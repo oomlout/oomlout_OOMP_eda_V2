@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZK4XXX447 > 4xxx : 4047](#szk4xxx447--4xxx--4047)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: 4xxx : 4047
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-4xxx-4047](http://oom.lt/SYMBOL-kicad-kicad-symbols-4xxx-4047)
 - Short Link: [http://oom.lt/SZK4XXX447](http://oom.lt/SZK4XXX447)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/4xxx/4047/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/4xxx/4047/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/4xxx/4047/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/4xxx/4047/image.png)|||

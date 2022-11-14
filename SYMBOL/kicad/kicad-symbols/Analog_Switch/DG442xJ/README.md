@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKANALOGSWITCHDG442XJ > Analog_Switch : DG442xJ](#szkanalogswitchdg442xj--analog_switch--dg442xj)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Analog_Switch : DG442xJ
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_Switch-DG442xJ](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_Switch-DG442xJ)
 - Short Link: [http://oom.lt/SZKANALOGSWITCHDG442XJ](http://oom.lt/SZKANALOGSWITCHDG442XJ)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Analog_Switch/DG442xJ/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Analog_Switch/DG442xJ/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Analog_Switch/DG442xJ/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Analog_Switch/DG442xJ/image.png)|||

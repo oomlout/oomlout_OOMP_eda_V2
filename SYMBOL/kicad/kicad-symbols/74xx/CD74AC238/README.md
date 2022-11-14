@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZK74XXCD74AC238 > 74xx : CD74AC238](#szk74xxcd74ac238--74xx--cd74ac238)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: 74xx : CD74AC238
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-74xx-CD74AC238](http://oom.lt/SYMBOL-kicad-kicad-symbols-74xx-CD74AC238)
 - Short Link: [http://oom.lt/SZK74XXCD74AC238](http://oom.lt/SZK74XXCD74AC238)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/74xx/CD74AC238/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/74xx/CD74AC238/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/74xx/CD74AC238/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/74xx/CD74AC238/image.png)|||

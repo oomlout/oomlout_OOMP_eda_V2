@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDEVICECSLL > Device : C_Small](#szkdevicecsll--device--c_small)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Device : C_Small
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-C_Small](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-C_Small)
 - Short Link: [http://oom.lt/SZKDEVICECSLL](http://oom.lt/SZKDEVICECSLL)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/C_Small/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/C_Small/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/C_Small/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/C_Small/image.png)|||

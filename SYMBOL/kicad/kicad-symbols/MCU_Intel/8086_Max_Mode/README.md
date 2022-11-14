@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKMCUINTEL886MAXMODE > MCU_Intel : 8086_Max_Mode](#szkmcuintel886maxmode--mcu_intel--8086_max_mode)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: MCU_Intel : 8086_Max_Mode
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Intel-8086_Max_Mode](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Intel-8086_Max_Mode)
 - Short Link: [http://oom.lt/SZKMCUINTEL886MAXMODE](http://oom.lt/SZKMCUINTEL886MAXMODE)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Intel/8086_Max_Mode/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Intel/8086_Max_Mode/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Intel/8086_Max_Mode/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Intel/8086_Max_Mode/image.png)|||

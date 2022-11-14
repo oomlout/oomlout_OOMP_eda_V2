@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKCOMPARATORTL3116 > Comparator : TL3116](#szkcomparatortl3116--comparator--tl3116)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Comparator : TL3116
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Comparator-TL3116](http://oom.lt/SYMBOL-kicad-kicad-symbols-Comparator-TL3116)
 - Short Link: [http://oom.lt/SZKCOMPARATORTL3116](http://oom.lt/SZKCOMPARATORTL3116)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Comparator/TL3116/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Comparator/TL3116/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Comparator/TL3116/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Comparator/TL3116/image.png)|||

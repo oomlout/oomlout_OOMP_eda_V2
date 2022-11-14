@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKREGULATORLINEARLD186D2T18TR > Regulator_Linear : LD1086D2T18TR](#szkregulatorlinearld186d2t18tr--regulator_linear--ld1086d2t18tr)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Regulator_Linear : LD1086D2T18TR
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LD1086D2T18TR](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LD1086D2T18TR)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARLD186D2T18TR](http://oom.lt/SZKREGULATORLINEARLD186D2T18TR)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LD1086D2T18TR/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LD1086D2T18TR/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LD1086D2T18TR/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LD1086D2T18TR/image.png)|||

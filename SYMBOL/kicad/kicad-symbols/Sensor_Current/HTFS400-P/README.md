@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKSENCURRENTHTFS4P > Sensor_Current : HTFS400-P](#szksencurrenthtfs4p--sensor_current--htfs400-p)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Sensor_Current : HTFS400-P
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-HTFS400-P](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-HTFS400-P)
 - Short Link: [http://oom.lt/SZKSENCURRENTHTFS4P](http://oom.lt/SZKSENCURRENTHTFS4P)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Current/HTFS400-P/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Current/HTFS400-P/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Current/HTFS400-P/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Current/HTFS400-P/image.png)|||

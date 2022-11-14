@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKSENCURRENTACS71XLATR6BB > Sensor_Current : ACS710xLATR-6BB](#szksencurrentacs71xlatr6bb--sensor_current--acs710xlatr-6bb)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Sensor_Current : ACS710xLATR-6BB
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-ACS710xLATR-6BB](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-ACS710xLATR-6BB)
 - Short Link: [http://oom.lt/SZKSENCURRENTACS71XLATR6BB](http://oom.lt/SZKSENCURRENTACS71XLATR6BB)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Current/ACS710xLATR-6BB/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Current/ACS710xLATR-6BB/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Current/ACS710xLATR-6BB/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Current/ACS710xLATR-6BB/image.png)|||

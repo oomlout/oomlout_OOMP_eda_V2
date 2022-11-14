@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKBATMANAGEMENTLP3947 > Battery_Management : LP3947](#szkbatmanagementlp3947--battery_management--lp3947)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Battery_Management : LP3947
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Battery_Management-LP3947](http://oom.lt/SYMBOL-kicad-kicad-symbols-Battery_Management-LP3947)
 - Short Link: [http://oom.lt/SZKBATMANAGEMENTLP3947](http://oom.lt/SZKBATMANAGEMENTLP3947)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Battery_Management/LP3947/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Battery_Management/LP3947/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Battery_Management/LP3947/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Battery_Management/LP3947/image.png)|||

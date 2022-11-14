@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKAUDIOPCM5122PW > Audio : PCM5122PW](#szkaudiopcm5122pw--audio--pcm5122pw)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Audio : PCM5122PW
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Audio-PCM5122PW](http://oom.lt/SYMBOL-kicad-kicad-symbols-Audio-PCM5122PW)
 - Short Link: [http://oom.lt/SZKAUDIOPCM5122PW](http://oom.lt/SZKAUDIOPCM5122PW)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Audio/PCM5122PW/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Audio/PCM5122PW/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Audio/PCM5122PW/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Audio/PCM5122PW/image.png)|||

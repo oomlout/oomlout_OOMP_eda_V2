@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKTRANSISTORFETDMG3414U > Transistor_FET : DMG3414U](#szktransistorfetdmg3414u--transistor_fet--dmg3414u)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Transistor_FET : DMG3414U
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-DMG3414U](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-DMG3414U)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETDMG3414U](http://oom.lt/SZKTRANSISTORFETDMG3414U)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/DMG3414U/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/DMG3414U/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/DMG3414U/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/DMG3414U/image.png)|||

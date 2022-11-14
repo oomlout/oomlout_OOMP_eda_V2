@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKREGULATORLINEARLM7915TO22 > Regulator_Linear : LM7915_TO220](#szkregulatorlinearlm7915to22--regulator_linear--lm7915_to220)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Regulator_Linear : LM7915_TO220
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LM7915_TO220](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LM7915_TO220)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARLM7915TO22](http://oom.lt/SZKREGULATORLINEARLM7915TO22)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LM7915_TO220/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LM7915_TO220/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LM7915_TO220/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LM7915_TO220/image.png)|||

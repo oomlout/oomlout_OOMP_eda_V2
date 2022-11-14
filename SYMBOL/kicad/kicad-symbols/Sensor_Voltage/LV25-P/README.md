@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKSENVOLTAGELV25P > Sensor_Voltage : LV25-P](#szksenvoltagelv25p--sensor_voltage--lv25-p)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Sensor_Voltage : LV25-P
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Voltage-LV25-P](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Voltage-LV25-P)
 - Short Link: [http://oom.lt/SZKSENVOLTAGELV25P](http://oom.lt/SZKSENVOLTAGELV25P)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Voltage/LV25-P/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Voltage/LV25-P/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Voltage/LV25-P/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Voltage/LV25-P/image.png)|||

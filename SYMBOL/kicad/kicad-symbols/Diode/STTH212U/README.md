@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDIODESTTH212U > Diode : STTH212U](#szkdiodestth212u--diode--stth212u)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Diode : STTH212U
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-STTH212U](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-STTH212U)
 - Short Link: [http://oom.lt/SZKDIODESTTH212U](http://oom.lt/SZKDIODESTTH212U)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Diode/STTH212U/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Diode/STTH212U/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Diode/STTH212U/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Diode/STTH212U/image.png)|||

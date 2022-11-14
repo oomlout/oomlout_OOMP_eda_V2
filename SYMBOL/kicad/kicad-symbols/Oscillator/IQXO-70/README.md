@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKOCSIQXO7 > Oscillator : IQXO-70](#szkocsiqxo7--oscillator--iqxo-70)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Oscillator : IQXO-70
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Oscillator-IQXO-70](http://oom.lt/SYMBOL-kicad-kicad-symbols-Oscillator-IQXO-70)
 - Short Link: [http://oom.lt/SZKOCSIQXO7](http://oom.lt/SZKOCSIQXO7)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Oscillator/IQXO-70/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Oscillator/IQXO-70/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Oscillator/IQXO-70/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Oscillator/IQXO-70/image.png)|||

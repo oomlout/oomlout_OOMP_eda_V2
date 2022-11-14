@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKCPUNXP68MC68FN > CPU_NXP_68000 : MC68000FN](#szkcpunxp68mc68fn--cpu_nxp_68000--mc68000fn)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: CPU_NXP_68000 : MC68000FN
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-CPU_NXP_68000-MC68000FN](http://oom.lt/SYMBOL-kicad-kicad-symbols-CPU_NXP_68000-MC68000FN)
 - Short Link: [http://oom.lt/SZKCPUNXP68MC68FN](http://oom.lt/SZKCPUNXP68MC68FN)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/CPU_NXP_68000/MC68000FN/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/CPU_NXP_68000/MC68000FN/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/CPU_NXP_68000/MC68000FN/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/CPU_NXP_68000/MC68000FN/image.png)|||

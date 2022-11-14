@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKBATBATHOLDERBULGINBX361XC > Battery : BatteryHolder_Bulgin_BX0036_1xC](#fzkbatbatholderbulginbx361xc--battery--batteryholder_bulgin_bx0036_1xc)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Battery : BatteryHolder_Bulgin_BX0036_1xC
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Battery-BatteryHolder_Bulgin_BX0036_1xC](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Battery-BatteryHolder_Bulgin_BX0036_1xC)
 - Short Link: [http://oom.lt/FZKBATBATHOLDERBULGINBX361XC](http://oom.lt/FZKBATBATHOLDERBULGINBX361XC)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Battery/BatteryHolder_Bulgin_BX0036_1xC/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Battery/BatteryHolder_Bulgin_BX0036_1xC/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Battery/BatteryHolder_Bulgin_BX0036_1xC/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Battery/BatteryHolder_Bulgin_BX0036_1xC/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Battery/BatteryHolder_Bulgin_BX0036_1xC/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Battery/BatteryHolder_Bulgin_BX0036_1xC/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Battery/BatteryHolder_Bulgin_BX0036_1xC/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Battery/BatteryHolder_Bulgin_BX0036_1xC/kicadPcb3dBack.png)|

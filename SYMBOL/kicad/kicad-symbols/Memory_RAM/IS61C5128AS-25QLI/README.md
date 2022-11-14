@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKMEMORYRAMIS61C5128AS25QLI > Memory_RAM : IS61C5128AS-25QLI](#szkmemoryramis61c5128as25qli--memory_ram--is61c5128as-25qli)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Memory_RAM : IS61C5128AS-25QLI
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_RAM-IS61C5128AS-25QLI](http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_RAM-IS61C5128AS-25QLI)
 - Short Link: [http://oom.lt/SZKMEMORYRAMIS61C5128AS25QLI](http://oom.lt/SZKMEMORYRAMIS61C5128AS25QLI)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Memory_RAM/IS61C5128AS-25QLI/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Memory_RAM/IS61C5128AS-25QLI/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Memory_RAM/IS61C5128AS-25QLI/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Memory_RAM/IS61C5128AS-25QLI/image.png)|||

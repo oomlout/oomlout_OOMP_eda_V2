@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKOCSASEXXXMHZ > Oscillator : ASE-xxxMHz](#szkocsasexxxmhz--oscillator--ase-xxxmhz)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Oscillator : ASE-xxxMHz
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Oscillator-ASE-xxxMHz](http://oom.lt/SYMBOL-kicad-kicad-symbols-Oscillator-ASE-xxxMHz)
 - Short Link: [http://oom.lt/SZKOCSASEXXXMHZ](http://oom.lt/SZKOCSASEXXXMHZ)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Oscillator/ASE-xxxMHz/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Oscillator/ASE-xxxMHz/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Oscillator/ASE-xxxMHz/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Oscillator/ASE-xxxMHz/image.png)|||

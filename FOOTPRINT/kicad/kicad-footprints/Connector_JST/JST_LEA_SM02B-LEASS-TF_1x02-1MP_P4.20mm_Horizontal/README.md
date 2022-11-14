@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKCNJSTJSTLEASM2BLEASSTF1X21MPP42HORIZONTAL > Connector_JST : JST_LEA_SM02B-LEASS-TF_1x02-1MP_P4.20mm_Horizontal](#fzkcnjstjstleasm2bleasstf1x21mpp42horizontal--connector_jst--jst_lea_sm02b-leass-tf_1x02-1mp_p420mm_horizontal)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Connector_JST : JST_LEA_SM02B-LEASS-TF_1x02-1MP_P4.20mm_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_LEA_SM02B-LEASS-TF_1x02-1MP_P4.20mm_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_LEA_SM02B-LEASS-TF_1x02-1MP_P4.20mm_Horizontal)
 - Short Link: [http://oom.lt/FZKCNJSTJSTLEASM2BLEASSTF1X21MPP42HORIZONTAL](http://oom.lt/FZKCNJSTJSTLEASM2BLEASSTF1X21MPP42HORIZONTAL)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_LEA_SM02B-LEASS-TF_1x02-1MP_P4.20mm_Horizontal/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_LEA_SM02B-LEASS-TF_1x02-1MP_P4.20mm_Horizontal/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_LEA_SM02B-LEASS-TF_1x02-1MP_P4.20mm_Horizontal/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_LEA_SM02B-LEASS-TF_1x02-1MP_P4.20mm_Horizontal/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_LEA_SM02B-LEASS-TF_1x02-1MP_P4.20mm_Horizontal/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_LEA_SM02B-LEASS-TF_1x02-1MP_P4.20mm_Horizontal/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_LEA_SM02B-LEASS-TF_1x02-1MP_P4.20mm_Horizontal/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_LEA_SM02B-LEASS-TF_1x02-1MP_P4.20mm_Horizontal/kicadPcb3dBack.png)|

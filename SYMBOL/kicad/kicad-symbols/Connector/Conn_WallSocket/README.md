@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKCNCONNWALLSO > Connector : Conn_WallSocket](#szkcnconnwallso--connector--conn_wallsocket)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Connector : Conn_WallSocket
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-Conn_WallSocket](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-Conn_WallSocket)
 - Short Link: [http://oom.lt/SZKCNCONNWALLSO](http://oom.lt/SZKCNCONNWALLSO)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_WallSocket/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_WallSocket/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_WallSocket/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_WallSocket/image.png)|||

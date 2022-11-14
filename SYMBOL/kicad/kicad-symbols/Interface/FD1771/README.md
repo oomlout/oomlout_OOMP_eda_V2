@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKINTERFACEFD1771 > Interface : FD1771](#szkinterfacefd1771--interface--fd1771)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Interface : FD1771
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-FD1771](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-FD1771)
 - Short Link: [http://oom.lt/SZKINTERFACEFD1771](http://oom.lt/SZKINTERFACEFD1771)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface/FD1771/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface/FD1771/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface/FD1771/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface/FD1771/image.png)|||

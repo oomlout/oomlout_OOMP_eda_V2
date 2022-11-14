@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKTRADTL112 > Transformer : ADTL1-12](#szktradtl112--transformer--adtl1-12)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Transformer : ADTL1-12
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transformer-ADTL1-12](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transformer-ADTL1-12)
 - Short Link: [http://oom.lt/SZKTRADTL112](http://oom.lt/SZKTRADTL112)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transformer/ADTL1-12/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transformer/ADTL1-12/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transformer/ADTL1-12/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transformer/ADTL1-12/image.png)|||

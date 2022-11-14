@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKDI7S7SLLTS676LTS678 > Display_7Segment : 7SegmentLED_LTS6760_LTS6780](#fzkdi7s7sllts676lts678--display_7segment--7segmentled_lts6760_lts6780)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Display_7Segment : 7SegmentLED_LTS6760_LTS6780
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Display_7Segment-7SegmentLED_LTS6760_LTS6780](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Display_7Segment-7SegmentLED_LTS6760_LTS6780)
 - Short Link: [http://oom.lt/FZKDI7S7SLLTS676LTS678](http://oom.lt/FZKDI7S7SLLTS676LTS678)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Display_7Segment/7SegmentLED_LTS6760_LTS6780/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Display_7Segment/7SegmentLED_LTS6760_LTS6780/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Display_7Segment/7SegmentLED_LTS6760_LTS6780/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Display_7Segment/7SegmentLED_LTS6760_LTS6780/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Display_7Segment/7SegmentLED_LTS6760_LTS6780/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Display_7Segment/7SegmentLED_LTS6760_LTS6780/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Display_7Segment/7SegmentLED_LTS6760_LTS6780/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Display_7Segment/7SegmentLED_LTS6760_LTS6780/kicadPcb3dBack.png)|

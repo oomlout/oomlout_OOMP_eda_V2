@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDEVICELBRAG > Device : LED_BRAG](#szkdevicelbrag--device--led_brag)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Device : LED_BRAG
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-LED_BRAG](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-LED_BRAG)
 - Short Link: [http://oom.lt/SZKDEVICELBRAG](http://oom.lt/SZKDEVICELBRAG)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/LED_BRAG/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/LED_BRAG/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/LED_BRAG/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/LED_BRAG/image.png)|||

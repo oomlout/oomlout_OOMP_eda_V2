@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKTRANSISTORFETFDMS86255 > Transistor_FET : FDMS86255](#szktransistorfetfdms86255--transistor_fet--fdms86255)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Transistor_FET : FDMS86255
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-FDMS86255](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-FDMS86255)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETFDMS86255](http://oom.lt/SZKTRANSISTORFETFDMS86255)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/FDMS86255/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/FDMS86255/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/FDMS86255/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/FDMS86255/image.png)|||

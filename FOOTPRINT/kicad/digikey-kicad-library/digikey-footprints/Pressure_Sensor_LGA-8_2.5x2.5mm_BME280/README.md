@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSPRESSURESENLGA825X25BME28 > digikey-footprints : Pressure_Sensor_LGA-8_2.5x2.5mm_BME280](#fzkicaddigikeykicadlibrarydigikeyfootprintspressuresenlga825x25bme28--digikey-footprints--pressure_sensor_lga-8_25x25mm_bme280)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: digikey-footprints : Pressure_Sensor_LGA-8_2.5x2.5mm_BME280
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Pressure_Sensor_LGA-8_2.5x2.5mm_BME280](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Pressure_Sensor_LGA-8_2.5x2.5mm_BME280)
 - Short Link: [http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSPRESSURESENLGA825X25BME28](http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSPRESSURESENLGA825X25BME28)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Pressure_Sensor_LGA-8_2.5x2.5mm_BME280/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Pressure_Sensor_LGA-8_2.5x2.5mm_BME280/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Pressure_Sensor_LGA-8_2.5x2.5mm_BME280/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Pressure_Sensor_LGA-8_2.5x2.5mm_BME280/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Pressure_Sensor_LGA-8_2.5x2.5mm_BME280/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Pressure_Sensor_LGA-8_2.5x2.5mm_BME280/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Pressure_Sensor_LGA-8_2.5x2.5mm_BME280/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Pressure_Sensor_LGA-8_2.5x2.5mm_BME280/kicadPcb3dBack.png)|

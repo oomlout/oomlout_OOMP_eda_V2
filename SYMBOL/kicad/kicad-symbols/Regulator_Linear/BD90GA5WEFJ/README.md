@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKREGULATORLINEARBD9GA5WEFJ > Regulator_Linear : BD90GA5WEFJ](#szkregulatorlinearbd9ga5wefj--regulator_linear--bd90ga5wefj)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Regulator_Linear : BD90GA5WEFJ
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-BD90GA5WEFJ](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-BD90GA5WEFJ)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARBD9GA5WEFJ](http://oom.lt/SZKREGULATORLINEARBD9GA5WEFJ)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/BD90GA5WEFJ/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/BD90GA5WEFJ/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/BD90GA5WEFJ/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/BD90GA5WEFJ/image.png)|||

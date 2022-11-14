@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKCONTMR24813WI > Converter_DCDC : TMR2-4813WI](#szkcontmr24813wi--converter_dcdc--tmr2-4813wi)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Converter_DCDC : TMR2-4813WI
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-TMR2-4813WI](http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-TMR2-4813WI)
 - Short Link: [http://oom.lt/SZKCONTMR24813WI](http://oom.lt/SZKCONTMR24813WI)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Converter_DCDC/TMR2-4813WI/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Converter_DCDC/TMR2-4813WI/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Converter_DCDC/TMR2-4813WI/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Converter_DCDC/TMR2-4813WI/image.png)|||

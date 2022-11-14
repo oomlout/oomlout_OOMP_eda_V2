@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKTRANSISTORFETZXMN3A14F > Transistor_FET : ZXMN3A14F](#szktransistorfetzxmn3a14f--transistor_fet--zxmn3a14f)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Transistor_FET : ZXMN3A14F
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-ZXMN3A14F](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-ZXMN3A14F)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETZXMN3A14F](http://oom.lt/SZKTRANSISTORFETZXMN3A14F)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/ZXMN3A14F/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/ZXMN3A14F/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/ZXMN3A14F/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/ZXMN3A14F/image.png)|||

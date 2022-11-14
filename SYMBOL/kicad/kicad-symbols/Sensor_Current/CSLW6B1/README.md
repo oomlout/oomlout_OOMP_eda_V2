@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKSENCURRENTCSLW6B1 > Sensor_Current : CSLW6B1](#szksencurrentcslw6b1--sensor_current--cslw6b1)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Sensor_Current : CSLW6B1
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-CSLW6B1](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-CSLW6B1)
 - Short Link: [http://oom.lt/SZKSENCURRENTCSLW6B1](http://oom.lt/SZKSENCURRENTCSLW6B1)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Current/CSLW6B1/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Current/CSLW6B1/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Current/CSLW6B1/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Current/CSLW6B1/image.png)|||

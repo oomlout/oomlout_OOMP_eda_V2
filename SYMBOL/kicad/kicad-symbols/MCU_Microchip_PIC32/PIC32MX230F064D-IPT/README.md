@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKMCUMCHIPPIC32PIC32MX23F64DIPT > MCU_Microchip_PIC32 : PIC32MX230F064D-IPT](#szkmcumchippic32pic32mx23f64dipt--mcu_microchip_pic32--pic32mx230f064d-ipt)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: MCU_Microchip_PIC32 : PIC32MX230F064D-IPT
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC32-PIC32MX230F064D-IPT](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC32-PIC32MX230F064D-IPT)
 - Short Link: [http://oom.lt/SZKMCUMCHIPPIC32PIC32MX23F64DIPT](http://oom.lt/SZKMCUMCHIPPIC32PIC32MX23F64DIPT)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC32/PIC32MX230F064D-IPT/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC32/PIC32MX230F064D-IPT/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC32/PIC32MX230F064D-IPT/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC32/PIC32MX230F064D-IPT/image.png)|||

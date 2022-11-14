@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKISOLATORLTV814 > Isolator : LTV-814](#szkisolatorltv814--isolator--ltv-814)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Isolator : LTV-814
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-LTV-814](http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-LTV-814)
 - Short Link: [http://oom.lt/SZKISOLATORLTV814](http://oom.lt/SZKISOLATORLTV814)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Isolator/LTV-814/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Isolator/LTV-814/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Isolator/LTV-814/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Isolator/LTV-814/image.png)|||

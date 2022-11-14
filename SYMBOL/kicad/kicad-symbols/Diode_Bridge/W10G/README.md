@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDIODEBRIDGEW1G > Diode_Bridge : W10G](#szkdiodebridgew1g--diode_bridge--w10g)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Diode_Bridge : W10G
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode_Bridge-W10G](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode_Bridge-W10G)
 - Short Link: [http://oom.lt/SZKDIODEBRIDGEW1G](http://oom.lt/SZKDIODEBRIDGEW1G)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Diode_Bridge/W10G/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Diode_Bridge/W10G/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Diode_Bridge/W10G/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Diode_Bridge/W10G/image.png)|||

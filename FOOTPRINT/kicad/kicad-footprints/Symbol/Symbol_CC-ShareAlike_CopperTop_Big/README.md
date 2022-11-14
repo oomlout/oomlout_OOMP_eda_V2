@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKSZSYCCSHAREALIKECTOPBIG > Symbol : Symbol_CC-ShareAlike_CopperTop_Big](#fzkszsyccsharealikectopbig--symbol--symbol_cc-sharealike_coppertop_big)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Symbol : Symbol_CC-ShareAlike_CopperTop_Big
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Symbol-Symbol_CC-ShareAlike_CopperTop_Big](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Symbol-Symbol_CC-ShareAlike_CopperTop_Big)
 - Short Link: [http://oom.lt/FZKSZSYCCSHAREALIKECTOPBIG](http://oom.lt/FZKSZSYCCSHAREALIKECTOPBIG)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Symbol/Symbol_CC-ShareAlike_CopperTop_Big/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Symbol/Symbol_CC-ShareAlike_CopperTop_Big/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Symbol/Symbol_CC-ShareAlike_CopperTop_Big/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Symbol/Symbol_CC-ShareAlike_CopperTop_Big/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Symbol/Symbol_CC-ShareAlike_CopperTop_Big/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Symbol/Symbol_CC-ShareAlike_CopperTop_Big/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Symbol/Symbol_CC-ShareAlike_CopperTop_Big/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Symbol/Symbol_CC-ShareAlike_CopperTop_Big/kicadPcb3dBack.png)|

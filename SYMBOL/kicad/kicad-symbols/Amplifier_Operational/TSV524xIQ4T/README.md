@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKAMPLIFIEROPERATIONALTSV524XIQ4T > Amplifier_Operational : TSV524xIQ4T](#szkamplifieroperationaltsv524xiq4t--amplifier_operational--tsv524xiq4t)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Amplifier_Operational : TSV524xIQ4T
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-TSV524xIQ4T](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-TSV524xIQ4T)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALTSV524XIQ4T](http://oom.lt/SZKAMPLIFIEROPERATIONALTSV524XIQ4T)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/TSV524xIQ4T/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/TSV524xIQ4T/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/TSV524xIQ4T/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/TSV524xIQ4T/image.png)|||

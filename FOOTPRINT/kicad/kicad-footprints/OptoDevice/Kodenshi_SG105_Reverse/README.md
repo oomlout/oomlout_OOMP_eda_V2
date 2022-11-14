@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKOPKODENSHISG15R > OptoDevice : Kodenshi_SG105_Reverse](#fzkopkodenshisg15r--optodevice--kodenshi_sg105_reverse)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: OptoDevice : Kodenshi_SG105_Reverse
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-OptoDevice-Kodenshi_SG105_Reverse](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-OptoDevice-Kodenshi_SG105_Reverse)
 - Short Link: [http://oom.lt/FZKOPKODENSHISG15R](http://oom.lt/FZKOPKODENSHISG15R)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/OptoDevice/Kodenshi_SG105_Reverse/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/OptoDevice/Kodenshi_SG105_Reverse/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/OptoDevice/Kodenshi_SG105_Reverse/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/OptoDevice/Kodenshi_SG105_Reverse/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/OptoDevice/Kodenshi_SG105_Reverse/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/OptoDevice/Kodenshi_SG105_Reverse/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/OptoDevice/Kodenshi_SG105_Reverse/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/OptoDevice/Kodenshi_SG105_Reverse/kicadPcb3dBack.png)|

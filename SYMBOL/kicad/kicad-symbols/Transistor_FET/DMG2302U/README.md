@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKTRANSISTORFETDMG232U > Transistor_FET : DMG2302U](#szktransistorfetdmg232u--transistor_fet--dmg2302u)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Transistor_FET : DMG2302U
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-DMG2302U](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-DMG2302U)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETDMG232U](http://oom.lt/SZKTRANSISTORFETDMG232U)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/DMG2302U/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/DMG2302U/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/DMG2302U/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/DMG2302U/image.png)|||

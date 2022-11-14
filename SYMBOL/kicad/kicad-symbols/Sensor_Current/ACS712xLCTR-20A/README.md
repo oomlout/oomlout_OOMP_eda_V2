@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKSENCURRENTACS712XLCTR2A > Sensor_Current : ACS712xLCTR-20A](#szksencurrentacs712xlctr2a--sensor_current--acs712xlctr-20a)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Sensor_Current : ACS712xLCTR-20A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-ACS712xLCTR-20A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-ACS712xLCTR-20A)
 - Short Link: [http://oom.lt/SZKSENCURRENTACS712XLCTR2A](http://oom.lt/SZKSENCURRENTACS712XLCTR2A)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Current/ACS712xLCTR-20A/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Current/ACS712xLCTR-20A/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Current/ACS712xLCTR-20A/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Current/ACS712xLCTR-20A/image.png)|||

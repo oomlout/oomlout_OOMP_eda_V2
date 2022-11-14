@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKPOWERVCC > power : VCC](#szkpowervcc--power--vcc)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: power : VCC
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-power-VCC](http://oom.lt/SYMBOL-kicad-kicad-symbols-power-VCC)
 - Short Link: [http://oom.lt/SZKPOWERVCC](http://oom.lt/SZKPOWERVCC)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/power/VCC/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/power/VCC/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/power/VCC/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/power/VCC/image.png)|||

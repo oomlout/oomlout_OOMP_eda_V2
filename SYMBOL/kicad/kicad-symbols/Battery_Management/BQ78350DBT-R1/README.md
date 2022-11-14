@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKBATMANAGEMENTBQ7835DBTR1 > Battery_Management : BQ78350DBT-R1](#szkbatmanagementbq7835dbtr1--battery_management--bq78350dbt-r1)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Battery_Management : BQ78350DBT-R1
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Battery_Management-BQ78350DBT-R1](http://oom.lt/SYMBOL-kicad-kicad-symbols-Battery_Management-BQ78350DBT-R1)
 - Short Link: [http://oom.lt/SZKBATMANAGEMENTBQ7835DBTR1](http://oom.lt/SZKBATMANAGEMENTBQ7835DBTR1)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Battery_Management/BQ78350DBT-R1/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Battery_Management/BQ78350DBT-R1/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Battery_Management/BQ78350DBT-R1/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Battery_Management/BQ78350DBT-R1/image.png)|||

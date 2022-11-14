@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDIGRAPHICEADOGXL167 > Display_Graphic : EA_DOGXL160-7](#szkdigraphiceadogxl167--display_graphic--ea_dogxl160-7)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Display_Graphic : EA_DOGXL160-7
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Graphic-EA_DOGXL160-7](http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Graphic-EA_DOGXL160-7)
 - Short Link: [http://oom.lt/SZKDIGRAPHICEADOGXL167](http://oom.lt/SZKDIGRAPHICEADOGXL167)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Display_Graphic/EA_DOGXL160-7/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Display_Graphic/EA_DOGXL160-7/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Display_Graphic/EA_DOGXL160-7/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Display_Graphic/EA_DOGXL160-7/image.png)|||

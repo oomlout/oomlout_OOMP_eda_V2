@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKMOTORMOTORAC > Motor : Motor_AC](#szkmotormotorac--motor--motor_ac)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Motor : Motor_AC
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Motor-Motor_AC](http://oom.lt/SYMBOL-kicad-kicad-symbols-Motor-Motor_AC)
 - Short Link: [http://oom.lt/SZKMOTORMOTORAC](http://oom.lt/SZKMOTORMOTORAC)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Motor/Motor_AC/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Motor/Motor_AC/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Motor/Motor_AC/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Motor/Motor_AC/image.png)|||

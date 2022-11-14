@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDIGRAPHICEAEDIPTFT57ATP > Display_Graphic : EA_eDIPTFT57-ATP](#szkdigraphiceaediptft57atp--display_graphic--ea_ediptft57-atp)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Display_Graphic : EA_eDIPTFT57-ATP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Graphic-EA_eDIPTFT57-ATP](http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Graphic-EA_eDIPTFT57-ATP)
 - Short Link: [http://oom.lt/SZKDIGRAPHICEAEDIPTFT57ATP](http://oom.lt/SZKDIGRAPHICEAEDIPTFT57ATP)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Display_Graphic/EA_eDIPTFT57-ATP/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Display_Graphic/EA_eDIPTFT57-ATP/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Display_Graphic/EA_eDIPTFT57-ATP/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Display_Graphic/EA_eDIPTFT57-ATP/image.png)|||

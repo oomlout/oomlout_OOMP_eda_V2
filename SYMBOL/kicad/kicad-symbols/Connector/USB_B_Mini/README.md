@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKCNUBM > Connector : USB_B_Mini](#szkcnubm--connector--usb_b_mini)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Connector : USB_B_Mini
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-USB_B_Mini](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-USB_B_Mini)
 - Short Link: [http://oom.lt/SZKCNUBM](http://oom.lt/SZKCNUBM)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/USB_B_Mini/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/USB_B_Mini/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/USB_B_Mini/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/USB_B_Mini/image.png)|||

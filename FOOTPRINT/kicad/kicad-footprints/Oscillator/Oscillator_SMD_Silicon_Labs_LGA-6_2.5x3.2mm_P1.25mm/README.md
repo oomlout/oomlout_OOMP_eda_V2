@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKOCSOCSSMSILICONLABSLGA625X32P125 > Oscillator : Oscillator_SMD_Silicon_Labs_LGA-6_2.5x3.2mm_P1.25mm](#fzkocsocssmsiliconlabslga625x32p125--oscillator--oscillator_smd_silicon_labs_lga-6_25x32mm_p125mm)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Oscillator : Oscillator_SMD_Silicon_Labs_LGA-6_2.5x3.2mm_P1.25mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Oscillator-Oscillator_SMD_Silicon_Labs_LGA-6_2.5x3.2mm_P1.25mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Oscillator-Oscillator_SMD_Silicon_Labs_LGA-6_2.5x3.2mm_P1.25mm)
 - Short Link: [http://oom.lt/FZKOCSOCSSMSILICONLABSLGA625X32P125](http://oom.lt/FZKOCSOCSSMSILICONLABSLGA625X32P125)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Oscillator/Oscillator_SMD_Silicon_Labs_LGA-6_2.5x3.2mm_P1.25mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Oscillator/Oscillator_SMD_Silicon_Labs_LGA-6_2.5x3.2mm_P1.25mm/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Oscillator/Oscillator_SMD_Silicon_Labs_LGA-6_2.5x3.2mm_P1.25mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Oscillator/Oscillator_SMD_Silicon_Labs_LGA-6_2.5x3.2mm_P1.25mm/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Oscillator/Oscillator_SMD_Silicon_Labs_LGA-6_2.5x3.2mm_P1.25mm/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Oscillator/Oscillator_SMD_Silicon_Labs_LGA-6_2.5x3.2mm_P1.25mm/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Oscillator/Oscillator_SMD_Silicon_Labs_LGA-6_2.5x3.2mm_P1.25mm/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Oscillator/Oscillator_SMD_Silicon_Labs_LGA-6_2.5x3.2mm_P1.25mm/kicadPcb3dBack.png)|

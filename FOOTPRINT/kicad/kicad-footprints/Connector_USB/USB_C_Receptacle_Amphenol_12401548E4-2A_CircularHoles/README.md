@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKCNUUCRECEPTACLEAMPHENOL1241548E42ACIRCULARH > Connector_USB : USB_C_Receptacle_Amphenol_12401548E4-2A_CircularHoles](#fzkcnuucreceptacleamphenol1241548e42acircularh--connector_usb--usb_c_receptacle_amphenol_12401548e4-2a_circularholes)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Connector_USB : USB_C_Receptacle_Amphenol_12401548E4-2A_CircularHoles
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_C_Receptacle_Amphenol_12401548E4-2A_CircularHoles](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_C_Receptacle_Amphenol_12401548E4-2A_CircularHoles)
 - Short Link: [http://oom.lt/FZKCNUUCRECEPTACLEAMPHENOL1241548E42ACIRCULARH](http://oom.lt/FZKCNUUCRECEPTACLEAMPHENOL1241548E42ACIRCULARH)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB_C_Receptacle_Amphenol_12401548E4-2A_CircularHoles/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB_C_Receptacle_Amphenol_12401548E4-2A_CircularHoles/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB_C_Receptacle_Amphenol_12401548E4-2A_CircularHoles/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB_C_Receptacle_Amphenol_12401548E4-2A_CircularHoles/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB_C_Receptacle_Amphenol_12401548E4-2A_CircularHoles/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB_C_Receptacle_Amphenol_12401548E4-2A_CircularHoles/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB_C_Receptacle_Amphenol_12401548E4-2A_CircularHoles/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB_C_Receptacle_Amphenol_12401548E4-2A_CircularHoles/kicadPcb3dBack.png)|

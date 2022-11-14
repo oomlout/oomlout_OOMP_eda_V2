@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKDIODESMD1213225METRICPAD142X265HANDSOLDER > Diode_SMD : D_1210_3225Metric_Pad1.42x2.65mm_HandSolder](#fzkdiodesmd1213225metricpad142x265handsolder--diode_smd--d_1210_3225metric_pad142x265mm_handsolder)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Diode_SMD : D_1210_3225Metric_Pad1.42x2.65mm_HandSolder
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_1210_3225Metric_Pad1.42x2.65mm_HandSolder](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_1210_3225Metric_Pad1.42x2.65mm_HandSolder)
 - Short Link: [http://oom.lt/FZKDIODESMD1213225METRICPAD142X265HANDSOLDER](http://oom.lt/FZKDIODESMD1213225METRICPAD142X265HANDSOLDER)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Diode_SMD/D_1210_3225Metric_Pad1.42x2.65mm_HandSolder/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Diode_SMD/D_1210_3225Metric_Pad1.42x2.65mm_HandSolder/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Diode_SMD/D_1210_3225Metric_Pad1.42x2.65mm_HandSolder/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Diode_SMD/D_1210_3225Metric_Pad1.42x2.65mm_HandSolder/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Diode_SMD/D_1210_3225Metric_Pad1.42x2.65mm_HandSolder/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Diode_SMD/D_1210_3225Metric_Pad1.42x2.65mm_HandSolder/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Diode_SMD/D_1210_3225Metric_Pad1.42x2.65mm_HandSolder/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Diode_SMD/D_1210_3225Metric_Pad1.42x2.65mm_HandSolder/kicadPcb3dBack.png)|

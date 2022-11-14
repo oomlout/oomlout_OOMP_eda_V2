@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKSWITCHSWSPDTMSM > Switch : SW_SPDT_MSM](#szkswitchswspdtmsm--switch--sw_spdt_msm)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Switch : SW_SPDT_MSM
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Switch-SW_SPDT_MSM](http://oom.lt/SYMBOL-kicad-kicad-symbols-Switch-SW_SPDT_MSM)
 - Short Link: [http://oom.lt/SZKSWITCHSWSPDTMSM](http://oom.lt/SZKSWITCHSWSPDTMSM)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Switch/SW_SPDT_MSM/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Switch/SW_SPDT_MSM/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Switch/SW_SPDT_MSM/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Switch/SW_SPDT_MSM/image.png)|||

@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKPSPICEDIODE > pspice : DIODE](#szkpspicediode--pspice--diode)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: pspice : DIODE
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-pspice-DIODE](http://oom.lt/SYMBOL-kicad-kicad-symbols-pspice-DIODE)
 - Short Link: [http://oom.lt/SZKPSPICEDIODE](http://oom.lt/SZKPSPICEDIODE)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/pspice/DIODE/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/pspice/DIODE/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/pspice/DIODE/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/pspice/DIODE/image.png)|||

@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKPOWERPWRFLAG > power : PWR_FLAG](#szkpowerpwrflag--power--pwr_flag)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: power : PWR_FLAG
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-power-PWR_FLAG](http://oom.lt/SYMBOL-kicad-kicad-symbols-power-PWR_FLAG)
 - Short Link: [http://oom.lt/SZKPOWERPWRFLAG](http://oom.lt/SZKPOWERPWRFLAG)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/power/PWR_FLAG/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/power/PWR_FLAG/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/power/PWR_FLAG/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/power/PWR_FLAG/image.png)|||

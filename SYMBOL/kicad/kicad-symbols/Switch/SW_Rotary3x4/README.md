@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKSWITCHSWROTARY3X4 > Switch : SW_Rotary3x4](#szkswitchswrotary3x4--switch--sw_rotary3x4)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Switch : SW_Rotary3x4
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Switch-SW_Rotary3x4](http://oom.lt/SYMBOL-kicad-kicad-symbols-Switch-SW_Rotary3x4)
 - Short Link: [http://oom.lt/SZKSWITCHSWROTARY3X4](http://oom.lt/SZKSWITCHSWROTARY3X4)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Switch/SW_Rotary3x4/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Switch/SW_Rotary3x4/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Switch/SW_Rotary3x4/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Switch/SW_Rotary3x4/image.png)|||

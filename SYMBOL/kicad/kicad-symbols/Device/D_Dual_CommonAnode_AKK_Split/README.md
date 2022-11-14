@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDEVICEDDUALCOONANODEAKKSPLIT > Device : D_Dual_CommonAnode_AKK_Split](#szkdeviceddualcoonanodeakksplit--device--d_dual_commonanode_akk_split)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Device : D_Dual_CommonAnode_AKK_Split
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-D_Dual_CommonAnode_AKK_Split](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-D_Dual_CommonAnode_AKK_Split)
 - Short Link: [http://oom.lt/SZKDEVICEDDUALCOONANODEAKKSPLIT](http://oom.lt/SZKDEVICEDDUALCOONANODEAKKSPLIT)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/D_Dual_CommonAnode_AKK_Split/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/D_Dual_CommonAnode_AKK_Split/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/D_Dual_CommonAnode_AKK_Split/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/D_Dual_CommonAnode_AKK_Split/image.png)|||

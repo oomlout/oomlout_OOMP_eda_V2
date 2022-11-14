@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKBATMANAGEMENTBQ27441DRZTG1A > Battery_Management : BQ27441DRZT-G1A](#szkbatmanagementbq27441drztg1a--battery_management--bq27441drzt-g1a)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Battery_Management : BQ27441DRZT-G1A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Battery_Management-BQ27441DRZT-G1A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Battery_Management-BQ27441DRZT-G1A)
 - Short Link: [http://oom.lt/SZKBATMANAGEMENTBQ27441DRZTG1A](http://oom.lt/SZKBATMANAGEMENTBQ27441DRZTG1A)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Battery_Management/BQ27441DRZT-G1A/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Battery_Management/BQ27441DRZT-G1A/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Battery_Management/BQ27441DRZT-G1A/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Battery_Management/BQ27441DRZT-G1A/image.png)|||

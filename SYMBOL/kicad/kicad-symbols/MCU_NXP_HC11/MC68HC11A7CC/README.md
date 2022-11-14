@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKMCUNXPHC11MC68HC11A7CC > MCU_NXP_HC11 : MC68HC11A7CC](#szkmcunxphc11mc68hc11a7cc--mcu_nxp_hc11--mc68hc11a7cc)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: MCU_NXP_HC11 : MC68HC11A7CC
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_NXP_HC11-MC68HC11A7CC](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_NXP_HC11-MC68HC11A7CC)
 - Short Link: [http://oom.lt/SZKMCUNXPHC11MC68HC11A7CC](http://oom.lt/SZKMCUNXPHC11MC68HC11A7CC)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_NXP_HC11/MC68HC11A7CC/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_NXP_HC11/MC68HC11A7CC/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_NXP_HC11/MC68HC11A7CC/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_NXP_HC11/MC68HC11A7CC/image.png)|||

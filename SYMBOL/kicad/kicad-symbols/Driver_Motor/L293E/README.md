@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDRIVERMOTORL293E > Driver_Motor : L293E](#szkdrivermotorl293e--driver_motor--l293e)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Driver_Motor : L293E
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_Motor-L293E](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_Motor-L293E)
 - Short Link: [http://oom.lt/SZKDRIVERMOTORL293E](http://oom.lt/SZKDRIVERMOTORL293E)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Driver_Motor/L293E/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Driver_Motor/L293E/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Driver_Motor/L293E/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Driver_Motor/L293E/image.png)|||

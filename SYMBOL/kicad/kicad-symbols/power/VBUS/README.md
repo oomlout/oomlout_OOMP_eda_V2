@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKPOWERVBUS > power : VBUS](#szkpowervbus--power--vbus)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: power : VBUS
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-power-VBUS](http://oom.lt/SYMBOL-kicad-kicad-symbols-power-VBUS)
 - Short Link: [http://oom.lt/SZKPOWERVBUS](http://oom.lt/SZKPOWERVBUS)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/power/VBUS/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/power/VBUS/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/power/VBUS/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/power/VBUS/image.png)|||

@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKPOWERPRILO > power : PRI_LO](#szkpowerprilo--power--pri_lo)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: power : PRI_LO
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-power-PRI_LO](http://oom.lt/SYMBOL-kicad-kicad-symbols-power-PRI_LO)
 - Short Link: [http://oom.lt/SZKPOWERPRILO](http://oom.lt/SZKPOWERPRILO)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/power/PRI_LO/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/power/PRI_LO/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/power/PRI_LO/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/power/PRI_LO/image.png)|||

@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDIODEB34 > Diode : B340](#szkdiodeb34--diode--b340)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Diode : B340
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-B340](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-B340)
 - Short Link: [http://oom.lt/SZKDIODEB34](http://oom.lt/SZKDIODEB34)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Diode/B340/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Diode/B340/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Diode/B340/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Diode/B340/image.png)|||

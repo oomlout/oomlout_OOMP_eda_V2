@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKSOVISHAYPOWERPAK12128DUAL > Package_SO : Vishay_PowerPAK_1212-8_Dual](#fzksovishaypowerpak12128dual--package_so--vishay_powerpak_1212-8_dual)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Package_SO : Vishay_PowerPAK_1212-8_Dual
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SO-Vishay_PowerPAK_1212-8_Dual](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SO-Vishay_PowerPAK_1212-8_Dual)
 - Short Link: [http://oom.lt/FZKSOVISHAYPOWERPAK12128DUAL](http://oom.lt/FZKSOVISHAYPOWERPAK12128DUAL)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/Vishay_PowerPAK_1212-8_Dual/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/Vishay_PowerPAK_1212-8_Dual/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/Vishay_PowerPAK_1212-8_Dual/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/Vishay_PowerPAK_1212-8_Dual/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/Vishay_PowerPAK_1212-8_Dual/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/Vishay_PowerPAK_1212-8_Dual/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/Vishay_PowerPAK_1212-8_Dual/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/Vishay_PowerPAK_1212-8_Dual/kicadPcb3dBack.png)|

@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKREGULATORLINEARLD186VDG > Regulator_Linear : LD1086V-DG](#szkregulatorlinearld186vdg--regulator_linear--ld1086v-dg)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Regulator_Linear : LD1086V-DG
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LD1086V-DG](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LD1086V-DG)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARLD186VDG](http://oom.lt/SZKREGULATORLINEARLD186VDG)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LD1086V-DG/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LD1086V-DG/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LD1086V-DG/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LD1086V-DG/image.png)|||

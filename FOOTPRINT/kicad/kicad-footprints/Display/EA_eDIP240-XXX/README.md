@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKDIEAEDIP24XXX > Display : EA_eDIP240-XXX](#fzkdieaedip24xxx--display--ea_edip240-xxx)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Display : EA_eDIP240-XXX
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Display-EA_eDIP240-XXX](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Display-EA_eDIP240-XXX)
 - Short Link: [http://oom.lt/FZKDIEAEDIP24XXX](http://oom.lt/FZKDIEAEDIP24XXX)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Display/EA_eDIP240-XXX/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Display/EA_eDIP240-XXX/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Display/EA_eDIP240-XXX/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Display/EA_eDIP240-XXX/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Display/EA_eDIP240-XXX/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Display/EA_eDIP240-XXX/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Display/EA_eDIP240-XXX/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Display/EA_eDIP240-XXX/kicadPcb3dBack.png)|

@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKANALOGLF398SOIC14 > Analog : LF398_SOIC14](#szkanaloglf398soic14--analog--lf398_soic14)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Analog : LF398_SOIC14
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog-LF398_SOIC14](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog-LF398_SOIC14)
 - Short Link: [http://oom.lt/SZKANALOGLF398SOIC14](http://oom.lt/SZKANALOGLF398SOIC14)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Analog/LF398_SOIC14/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Analog/LF398_SOIC14/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Analog/LF398_SOIC14/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Analog/LF398_SOIC14/image.png)|||

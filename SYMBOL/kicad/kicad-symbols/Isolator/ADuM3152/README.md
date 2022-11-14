@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKISOLATORADUM3152 > Isolator : ADuM3152](#szkisolatoradum3152--isolator--adum3152)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Isolator : ADuM3152
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-ADuM3152](http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-ADuM3152)
 - Short Link: [http://oom.lt/SZKISOLATORADUM3152](http://oom.lt/SZKISOLATORADUM3152)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Isolator/ADuM3152/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Isolator/ADuM3152/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Isolator/ADuM3152/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Isolator/ADuM3152/image.png)|||

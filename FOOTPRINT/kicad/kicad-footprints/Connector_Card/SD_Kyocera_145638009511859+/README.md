@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKCNCARDSDKYOCERA1456389511859+ > Connector_Card : SD_Kyocera_145638009511859+](#fzkcncardsdkyocera1456389511859--connector_card--sd_kyocera_145638009511859)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Connector_Card : SD_Kyocera_145638009511859+
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Card-SD_Kyocera_145638009511859+](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Card-SD_Kyocera_145638009511859+)
 - Short Link: [http://oom.lt/FZKCNCARDSDKYOCERA1456389511859+](http://oom.lt/FZKCNCARDSDKYOCERA1456389511859+)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Card/SD_Kyocera_145638009511859+/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Card/SD_Kyocera_145638009511859+/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Card/SD_Kyocera_145638009511859+/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Card/SD_Kyocera_145638009511859+/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Card/SD_Kyocera_145638009511859+/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Card/SD_Kyocera_145638009511859+/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Card/SD_Kyocera_145638009511859+/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Card/SD_Kyocera_145638009511859+/kicadPcb3dBack.png)|

@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKTRADT45WT > Transformer : ADT4-5WT](#szktradt45wt--transformer--adt4-5wt)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Transformer : ADT4-5WT
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transformer-ADT4-5WT](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transformer-ADT4-5WT)
 - Short Link: [http://oom.lt/SZKTRADT45WT](http://oom.lt/SZKTRADT45WT)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transformer/ADT4-5WT/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transformer/ADT4-5WT/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transformer/ADT4-5WT/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transformer/ADT4-5WT/image.png)|||

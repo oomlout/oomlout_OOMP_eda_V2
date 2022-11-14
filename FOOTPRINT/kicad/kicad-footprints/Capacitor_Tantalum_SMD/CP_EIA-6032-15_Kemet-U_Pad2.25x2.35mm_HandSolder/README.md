@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKCAPACITORTANTALUMSMCPEIA63215KEMETUPAD225X235HANDSOLDER > Capacitor_Tantalum_SMD : CP_EIA-6032-15_Kemet-U_Pad2.25x2.35mm_HandSolder](#fzkcapacitortantalumsmcpeia63215kemetupad225x235handsolder--capacitor_tantalum_smd--cp_eia-6032-15_kemet-u_pad225x235mm_handsolder)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Capacitor_Tantalum_SMD : CP_EIA-6032-15_Kemet-U_Pad2.25x2.35mm_HandSolder
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_Tantalum_SMD-CP_EIA-6032-15_Kemet-U_Pad2.25x2.35mm_HandSolder](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_Tantalum_SMD-CP_EIA-6032-15_Kemet-U_Pad2.25x2.35mm_HandSolder)
 - Short Link: [http://oom.lt/FZKCAPACITORTANTALUMSMCPEIA63215KEMETUPAD225X235HANDSOLDER](http://oom.lt/FZKCAPACITORTANTALUMSMCPEIA63215KEMETUPAD225X235HANDSOLDER)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_Tantalum_SMD/CP_EIA-6032-15_Kemet-U_Pad2.25x2.35mm_HandSolder/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_Tantalum_SMD/CP_EIA-6032-15_Kemet-U_Pad2.25x2.35mm_HandSolder/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_Tantalum_SMD/CP_EIA-6032-15_Kemet-U_Pad2.25x2.35mm_HandSolder/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_Tantalum_SMD/CP_EIA-6032-15_Kemet-U_Pad2.25x2.35mm_HandSolder/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_Tantalum_SMD/CP_EIA-6032-15_Kemet-U_Pad2.25x2.35mm_HandSolder/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_Tantalum_SMD/CP_EIA-6032-15_Kemet-U_Pad2.25x2.35mm_HandSolder/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_Tantalum_SMD/CP_EIA-6032-15_Kemet-U_Pad2.25x2.35mm_HandSolder/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_Tantalum_SMD/CP_EIA-6032-15_Kemet-U_Pad2.25x2.35mm_HandSolder/kicadPcb3dBack.png)|

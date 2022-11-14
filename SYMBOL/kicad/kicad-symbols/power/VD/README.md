@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKPOWERVD > power : VD](#szkpowervd--power--vd)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: power : VD
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-power-VD](http://oom.lt/SYMBOL-kicad-kicad-symbols-power-VD)
 - Short Link: [http://oom.lt/SZKPOWERVD](http://oom.lt/SZKPOWERVD)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/power/VD/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/power/VD/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/power/VD/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/power/VD/image.png)|||

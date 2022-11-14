@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKINTERFACEEXPANSIONPCA9547BS > Interface_Expansion : PCA9547BS](#szkinterfaceexpansionpca9547bs--interface_expansion--pca9547bs)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Interface_Expansion : PCA9547BS
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Expansion-PCA9547BS](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Expansion-PCA9547BS)
 - Short Link: [http://oom.lt/SZKINTERFACEEXPANSIONPCA9547BS](http://oom.lt/SZKINTERFACEEXPANSIONPCA9547BS)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface_Expansion/PCA9547BS/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface_Expansion/PCA9547BS/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface_Expansion/PCA9547BS/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface_Expansion/PCA9547BS/image.png)|||

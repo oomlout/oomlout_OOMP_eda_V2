@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZK4XXXIEEE495 > 4xxx_IEEE : 4095](#szk4xxxieee495--4xxx_ieee--4095)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: 4xxx_IEEE : 4095
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-4xxx_IEEE-4095](http://oom.lt/SYMBOL-kicad-kicad-symbols-4xxx_IEEE-4095)
 - Short Link: [http://oom.lt/SZK4XXXIEEE495](http://oom.lt/SZK4XXXIEEE495)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/4xxx_IEEE/4095/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/4xxx_IEEE/4095/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/4xxx_IEEE/4095/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/4xxx_IEEE/4095/image.png)|||

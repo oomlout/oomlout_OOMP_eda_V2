@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKSENMOTIONLSM9DS1 > Sensor_Motion : LSM9DS1](#szksenmotionlsm9ds1--sensor_motion--lsm9ds1)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Sensor_Motion : LSM9DS1
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Motion-LSM9DS1](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Motion-LSM9DS1)
 - Short Link: [http://oom.lt/SZKSENMOTIONLSM9DS1](http://oom.lt/SZKSENMOTIONLSM9DS1)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Motion/LSM9DS1/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Motion/LSM9DS1/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Motion/LSM9DS1/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Motion/LSM9DS1/image.png)|||

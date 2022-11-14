@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKPOWERMANAGEMENTUCC392D > Power_Management : UCC39002D](#szkpowermanagementucc392d--power_management--ucc39002d)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Power_Management : UCC39002D
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-UCC39002D](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-UCC39002D)
 - Short Link: [http://oom.lt/SZKPOWERMANAGEMENTUCC392D](http://oom.lt/SZKPOWERMANAGEMENTUCC392D)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Power_Management/UCC39002D/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Power_Management/UCC39002D/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Power_Management/UCC39002D/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Power_Management/UCC39002D/image.png)|||

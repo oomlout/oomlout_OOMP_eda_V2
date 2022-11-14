@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKINTERFACEAM26LS31CDB > Interface : AM26LS31CDB](#szkinterfaceam26ls31cdb--interface--am26ls31cdb)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Interface : AM26LS31CDB
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-AM26LS31CDB](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-AM26LS31CDB)
 - Short Link: [http://oom.lt/SZKINTERFACEAM26LS31CDB](http://oom.lt/SZKINTERFACEAM26LS31CDB)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface/AM26LS31CDB/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface/AM26LS31CDB/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface/AM26LS31CDB/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface/AM26LS31CDB/image.png)|||

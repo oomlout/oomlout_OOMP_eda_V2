@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKRRBOXL26W5P2 > Resistor_THT : R_Box_L26.0mm_W5.0mm_P20.00mm](#fzkrrboxl26w5p2--resistor_tht--r_box_l260mm_w50mm_p2000mm)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Resistor_THT : R_Box_L26.0mm_W5.0mm_P20.00mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Resistor_THT-R_Box_L26.0mm_W5.0mm_P20.00mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Resistor_THT-R_Box_L26.0mm_W5.0mm_P20.00mm)
 - Short Link: [http://oom.lt/FZKRRBOXL26W5P2](http://oom.lt/FZKRRBOXL26W5P2)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Resistor_THT/R_Box_L26.0mm_W5.0mm_P20.00mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Resistor_THT/R_Box_L26.0mm_W5.0mm_P20.00mm/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Resistor_THT/R_Box_L26.0mm_W5.0mm_P20.00mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Resistor_THT/R_Box_L26.0mm_W5.0mm_P20.00mm/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Resistor_THT/R_Box_L26.0mm_W5.0mm_P20.00mm/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Resistor_THT/R_Box_L26.0mm_W5.0mm_P20.00mm/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Resistor_THT/R_Box_L26.0mm_W5.0mm_P20.00mm/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Resistor_THT/R_Box_L26.0mm_W5.0mm_P20.00mm/kicadPcb3dBack.png)|

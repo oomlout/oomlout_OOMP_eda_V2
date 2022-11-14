@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKCNMXMXCLIKMATE52382571X51MPP125VERTICAL > Connector_Molex : Molex_CLIK-Mate_502382-0570_1x05-1MP_P1.25mm_Vertical](#fzkcnmxmxclikmate52382571x51mpp125vertical--connector_molex--molex_clik-mate_502382-0570_1x05-1mp_p125mm_vertical)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Connector_Molex : Molex_CLIK-Mate_502382-0570_1x05-1MP_P1.25mm_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_CLIK-Mate_502382-0570_1x05-1MP_P1.25mm_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_CLIK-Mate_502382-0570_1x05-1MP_P1.25mm_Vertical)
 - Short Link: [http://oom.lt/FZKCNMXMXCLIKMATE52382571X51MPP125VERTICAL](http://oom.lt/FZKCNMXMXCLIKMATE52382571X51MPP125VERTICAL)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_CLIK-Mate_502382-0570_1x05-1MP_P1.25mm_Vertical/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_CLIK-Mate_502382-0570_1x05-1MP_P1.25mm_Vertical/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_CLIK-Mate_502382-0570_1x05-1MP_P1.25mm_Vertical/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_CLIK-Mate_502382-0570_1x05-1MP_P1.25mm_Vertical/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_CLIK-Mate_502382-0570_1x05-1MP_P1.25mm_Vertical/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_CLIK-Mate_502382-0570_1x05-1MP_P1.25mm_Vertical/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_CLIK-Mate_502382-0570_1x05-1MP_P1.25mm_Vertical/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_CLIK-Mate_502382-0570_1x05-1MP_P1.25mm_Vertical/kicadPcb3dBack.png)|

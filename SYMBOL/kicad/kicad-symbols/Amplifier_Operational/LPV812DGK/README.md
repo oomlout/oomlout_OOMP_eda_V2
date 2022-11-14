@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKAMPLIFIEROPERATIONALLPV812DGK > Amplifier_Operational : LPV812DGK](#szkamplifieroperationallpv812dgk--amplifier_operational--lpv812dgk)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Amplifier_Operational : LPV812DGK
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LPV812DGK](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LPV812DGK)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALLPV812DGK](http://oom.lt/SZKAMPLIFIEROPERATIONALLPV812DGK)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/LPV812DGK/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/LPV812DGK/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/LPV812DGK/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/LPV812DGK/image.png)|||

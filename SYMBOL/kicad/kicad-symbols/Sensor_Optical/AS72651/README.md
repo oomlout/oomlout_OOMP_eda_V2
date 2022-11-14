@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKSENOPTICALAS72651 > Sensor_Optical : AS72651](#szksenopticalas72651--sensor_optical--as72651)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Sensor_Optical : AS72651
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Optical-AS72651](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Optical-AS72651)
 - Short Link: [http://oom.lt/SZKSENOPTICALAS72651](http://oom.lt/SZKSENOPTICALAS72651)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Optical/AS72651/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Optical/AS72651/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Optical/AS72651/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Optical/AS72651/image.png)|||

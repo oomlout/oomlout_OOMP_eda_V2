@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKREGULATORSWITCHINGLMR151YSD > Regulator_Switching : LMR10510YSD](#szkregulatorswitchinglmr151ysd--regulator_switching--lmr10510ysd)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Regulator_Switching : LMR10510YSD
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LMR10510YSD](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LMR10510YSD)
 - Short Link: [http://oom.lt/SZKREGULATORSWITCHINGLMR151YSD](http://oom.lt/SZKREGULATORSWITCHINGLMR151YSD)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/LMR10510YSD/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/LMR10510YSD/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/LMR10510YSD/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/LMR10510YSD/image.png)|||

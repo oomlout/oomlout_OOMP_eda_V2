@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKAUDIOAK7742EQ > Audio : AK7742EQ](#szkaudioak7742eq--audio--ak7742eq)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Audio : AK7742EQ
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Audio-AK7742EQ](http://oom.lt/SYMBOL-kicad-kicad-symbols-Audio-AK7742EQ)
 - Short Link: [http://oom.lt/SZKAUDIOAK7742EQ](http://oom.lt/SZKAUDIOAK7742EQ)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Audio/AK7742EQ/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Audio/AK7742EQ/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Audio/AK7742EQ/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Audio/AK7742EQ/image.png)|||

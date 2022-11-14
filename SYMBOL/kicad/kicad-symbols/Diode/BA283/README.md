@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDIODEBA283 > Diode : BA283](#szkdiodeba283--diode--ba283)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Diode : BA283
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-BA283](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-BA283)
 - Short Link: [http://oom.lt/SZKDIODEBA283](http://oom.lt/SZKDIODEBA283)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Diode/BA283/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Diode/BA283/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Diode/BA283/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Diode/BA283/image.png)|||

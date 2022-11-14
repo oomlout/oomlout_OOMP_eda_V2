@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKTRANSISTORFETBF244A > Transistor_FET : BF244A](#szktransistorfetbf244a--transistor_fet--bf244a)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Transistor_FET : BF244A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-BF244A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-BF244A)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETBF244A](http://oom.lt/SZKTRANSISTORFETBF244A)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/BF244A/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/BF244A/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/BF244A/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/BF244A/image.png)|||

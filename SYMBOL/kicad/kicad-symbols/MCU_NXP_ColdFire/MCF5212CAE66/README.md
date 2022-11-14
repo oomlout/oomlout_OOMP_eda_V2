@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKMCUNXPCOLDFIREMCF5212CAE66 > MCU_NXP_ColdFire : MCF5212CAE66](#szkmcunxpcoldfiremcf5212cae66--mcu_nxp_coldfire--mcf5212cae66)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: MCU_NXP_ColdFire : MCF5212CAE66
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_NXP_ColdFire-MCF5212CAE66](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_NXP_ColdFire-MCF5212CAE66)
 - Short Link: [http://oom.lt/SZKMCUNXPCOLDFIREMCF5212CAE66](http://oom.lt/SZKMCUNXPCOLDFIREMCF5212CAE66)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_NXP_ColdFire/MCF5212CAE66/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_NXP_ColdFire/MCF5212CAE66/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_NXP_ColdFire/MCF5212CAE66/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_NXP_ColdFire/MCF5212CAE66/image.png)|||

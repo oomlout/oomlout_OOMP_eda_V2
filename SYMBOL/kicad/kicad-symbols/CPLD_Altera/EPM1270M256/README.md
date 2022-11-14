@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKCPLDALTERAEPM127M256 > CPLD_Altera : EPM1270M256](#szkcpldalteraepm127m256--cpld_altera--epm1270m256)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: CPLD_Altera : EPM1270M256
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-CPLD_Altera-EPM1270M256](http://oom.lt/SYMBOL-kicad-kicad-symbols-CPLD_Altera-EPM1270M256)
 - Short Link: [http://oom.lt/SZKCPLDALTERAEPM127M256](http://oom.lt/SZKCPLDALTERAEPM127M256)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/CPLD_Altera/EPM1270M256/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/CPLD_Altera/EPM1270M256/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/CPLD_Altera/EPM1270M256/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/CPLD_Altera/EPM1270M256/image.png)|||

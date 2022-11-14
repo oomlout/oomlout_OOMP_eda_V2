@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKHHAAVID57682B39G > Heatsink : Heatsink_AAVID_576802B03900G](#fzkhhaavid57682b39g--heatsink--heatsink_aavid_576802b03900g)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Heatsink : Heatsink_AAVID_576802B03900G
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Heatsink-Heatsink_AAVID_576802B03900G](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Heatsink-Heatsink_AAVID_576802B03900G)
 - Short Link: [http://oom.lt/FZKHHAAVID57682B39G](http://oom.lt/FZKHHAAVID57682B39G)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Heatsink/Heatsink_AAVID_576802B03900G/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Heatsink/Heatsink_AAVID_576802B03900G/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Heatsink/Heatsink_AAVID_576802B03900G/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Heatsink/Heatsink_AAVID_576802B03900G/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Heatsink/Heatsink_AAVID_576802B03900G/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Heatsink/Heatsink_AAVID_576802B03900G/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Heatsink/Heatsink_AAVID_576802B03900G/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Heatsink/Heatsink_AAVID_576802B03900G/kicadPcb3dBack.png)|

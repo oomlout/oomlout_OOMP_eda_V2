@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKDFNTEXASSPDSON1EP12X2THERMALVIAS > Package_DFN_QFN : Texas_S-PDSO-N10_EP1.2x2mm_ThermalVias](#fzkdfntexasspdson1ep12x2thermalvias--package_dfn_qfn--texas_s-pdso-n10_ep12x2mm_thermalvias)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Package_DFN_QFN : Texas_S-PDSO-N10_EP1.2x2mm_ThermalVias
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Texas_S-PDSO-N10_EP1.2x2mm_ThermalVias](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Texas_S-PDSO-N10_EP1.2x2mm_ThermalVias)
 - Short Link: [http://oom.lt/FZKDFNTEXASSPDSON1EP12X2THERMALVIAS](http://oom.lt/FZKDFNTEXASSPDSON1EP12X2THERMALVIAS)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/Texas_S-PDSO-N10_EP1.2x2mm_ThermalVias/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/Texas_S-PDSO-N10_EP1.2x2mm_ThermalVias/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/Texas_S-PDSO-N10_EP1.2x2mm_ThermalVias/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/Texas_S-PDSO-N10_EP1.2x2mm_ThermalVias/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/Texas_S-PDSO-N10_EP1.2x2mm_ThermalVias/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/Texas_S-PDSO-N10_EP1.2x2mm_ThermalVias/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/Texas_S-PDSO-N10_EP1.2x2mm_ThermalVias/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/Texas_S-PDSO-N10_EP1.2x2mm_ThermalVias/kicadPcb3dBack.png)|

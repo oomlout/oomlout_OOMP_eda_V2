@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDIODEBAT54SW > Diode : BAT54SW](#szkdiodebat54sw--diode--bat54sw)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Diode : BAT54SW
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-BAT54SW](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-BAT54SW)
 - Short Link: [http://oom.lt/SZKDIODEBAT54SW](http://oom.lt/SZKDIODEBAT54SW)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Diode/BAT54SW/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Diode/BAT54SW/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Diode/BAT54SW/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Diode/BAT54SW/image.png)|||

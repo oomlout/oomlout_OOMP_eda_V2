@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDRIVERMOTORSTK6724E > Driver_Motor : STK672-040-E](#szkdrivermotorstk6724e--driver_motor--stk672-040-e)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Driver_Motor : STK672-040-E
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_Motor-STK672-040-E](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_Motor-STK672-040-E)
 - Short Link: [http://oom.lt/SZKDRIVERMOTORSTK6724E](http://oom.lt/SZKDRIVERMOTORSTK6724E)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Driver_Motor/STK672-040-E/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Driver_Motor/STK672-040-E/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Driver_Motor/STK672-040-E/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Driver_Motor/STK672-040-E/image.png)|||

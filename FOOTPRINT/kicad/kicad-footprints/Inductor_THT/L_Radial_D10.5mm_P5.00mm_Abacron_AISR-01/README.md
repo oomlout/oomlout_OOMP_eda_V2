@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKINLRD15P5ABACRONAISR1 > Inductor_THT : L_Radial_D10.5mm_P5.00mm_Abacron_AISR-01](#fzkinlrd15p5abacronaisr1--inductor_tht--l_radial_d105mm_p500mm_abacron_aisr-01)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Inductor_THT : L_Radial_D10.5mm_P5.00mm_Abacron_AISR-01
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Radial_D10.5mm_P5.00mm_Abacron_AISR-01](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Radial_D10.5mm_P5.00mm_Abacron_AISR-01)
 - Short Link: [http://oom.lt/FZKINLRD15P5ABACRONAISR1](http://oom.lt/FZKINLRD15P5ABACRONAISR1)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Radial_D10.5mm_P5.00mm_Abacron_AISR-01/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Radial_D10.5mm_P5.00mm_Abacron_AISR-01/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Radial_D10.5mm_P5.00mm_Abacron_AISR-01/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Radial_D10.5mm_P5.00mm_Abacron_AISR-01/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Radial_D10.5mm_P5.00mm_Abacron_AISR-01/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Radial_D10.5mm_P5.00mm_Abacron_AISR-01/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Radial_D10.5mm_P5.00mm_Abacron_AISR-01/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Radial_D10.5mm_P5.00mm_Abacron_AISR-01/kicadPcb3dBack.png)|

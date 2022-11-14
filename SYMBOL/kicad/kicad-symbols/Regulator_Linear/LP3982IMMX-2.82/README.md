@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKREGULATORLINEARLP3982IX282 > Regulator_Linear : LP3982IMMX-2.82](#szkregulatorlinearlp3982ix282--regulator_linear--lp3982immx-282)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Regulator_Linear : LP3982IMMX-2.82
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LP3982IMMX-2.82](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LP3982IMMX-2.82)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARLP3982IX282](http://oom.lt/SZKREGULATORLINEARLP3982IX282)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LP3982IMMX-2.82/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LP3982IMMX-2.82/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LP3982IMMX-2.82/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LP3982IMMX-2.82/image.png)|||

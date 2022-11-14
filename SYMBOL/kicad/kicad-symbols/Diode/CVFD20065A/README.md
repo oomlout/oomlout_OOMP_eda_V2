@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDIODECVFD265A > Diode : CVFD20065A](#szkdiodecvfd265a--diode--cvfd20065a)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Diode : CVFD20065A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-CVFD20065A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-CVFD20065A)
 - Short Link: [http://oom.lt/SZKDIODECVFD265A](http://oom.lt/SZKDIODECVFD265A)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Diode/CVFD20065A/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Diode/CVFD20065A/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Diode/CVFD20065A/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Diode/CVFD20065A/image.png)|||

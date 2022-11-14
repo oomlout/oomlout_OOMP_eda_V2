@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKINDUCTORSMLVISHAYIHSM5832 > Inductor_SMD : L_Vishay_IHSM-5832](#fzkinductorsmlvishayihsm5832--inductor_smd--l_vishay_ihsm-5832)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Inductor_SMD : L_Vishay_IHSM-5832
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Vishay_IHSM-5832](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Vishay_IHSM-5832)
 - Short Link: [http://oom.lt/FZKINDUCTORSMLVISHAYIHSM5832](http://oom.lt/FZKINDUCTORSMLVISHAYIHSM5832)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Vishay_IHSM-5832/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Vishay_IHSM-5832/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Vishay_IHSM-5832/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Vishay_IHSM-5832/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Vishay_IHSM-5832/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Vishay_IHSM-5832/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Vishay_IHSM-5832/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Vishay_IHSM-5832/kicadPcb3dBack.png)|

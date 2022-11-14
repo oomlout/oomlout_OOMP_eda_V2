@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKCNCOABNCPANELMOUNTABLEVERTICAL > Connector_Coaxial : BNC_PanelMountable_Vertical](#fzkcncoabncpanelmountablevertical--connector_coaxial--bnc_panelmountable_vertical)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Connector_Coaxial : BNC_PanelMountable_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Coaxial-BNC_PanelMountable_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Coaxial-BNC_PanelMountable_Vertical)
 - Short Link: [http://oom.lt/FZKCNCOABNCPANELMOUNTABLEVERTICAL](http://oom.lt/FZKCNCOABNCPANELMOUNTABLEVERTICAL)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Coaxial/BNC_PanelMountable_Vertical/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Coaxial/BNC_PanelMountable_Vertical/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Coaxial/BNC_PanelMountable_Vertical/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Coaxial/BNC_PanelMountable_Vertical/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Coaxial/BNC_PanelMountable_Vertical/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Coaxial/BNC_PanelMountable_Vertical/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Coaxial/BNC_PanelMountable_Vertical/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Coaxial/BNC_PanelMountable_Vertical/kicadPcb3dBack.png)|

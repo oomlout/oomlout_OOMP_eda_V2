@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZK74XX74LS158 > 74xx : 74LS158](#szk74xx74ls158--74xx--74ls158)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: 74xx : 74LS158
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-74xx-74LS158](http://oom.lt/SYMBOL-kicad-kicad-symbols-74xx-74LS158)
 - Short Link: [http://oom.lt/SZK74XX74LS158](http://oom.lt/SZK74XX74LS158)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/74xx/74LS158/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/74xx/74LS158/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/74xx/74LS158/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/74xx/74LS158/image.png)|||

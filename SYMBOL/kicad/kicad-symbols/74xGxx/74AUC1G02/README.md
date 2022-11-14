@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZK74XGXX74AUC1G2 > 74xGxx : 74AUC1G02](#szk74xgxx74auc1g2--74xgxx--74auc1g02)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: 74xGxx : 74AUC1G02
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-74xGxx-74AUC1G02](http://oom.lt/SYMBOL-kicad-kicad-symbols-74xGxx-74AUC1G02)
 - Short Link: [http://oom.lt/SZK74XGXX74AUC1G2](http://oom.lt/SZK74XGXX74AUC1G2)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/74xGxx/74AUC1G02/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/74xGxx/74AUC1G02/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/74xGxx/74AUC1G02/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/74xGxx/74AUC1G02/image.png)|||

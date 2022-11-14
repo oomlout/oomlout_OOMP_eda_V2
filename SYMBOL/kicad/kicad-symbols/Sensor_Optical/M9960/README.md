@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKSENOPTICALM996 > Sensor_Optical : M9960](#szksenopticalm996--sensor_optical--m9960)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Sensor_Optical : M9960
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Optical-M9960](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Optical-M9960)
 - Short Link: [http://oom.lt/SZKSENOPTICALM996](http://oom.lt/SZKSENOPTICALM996)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Optical/M9960/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Optical/M9960/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Optical/M9960/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Optical/M9960/image.png)|||

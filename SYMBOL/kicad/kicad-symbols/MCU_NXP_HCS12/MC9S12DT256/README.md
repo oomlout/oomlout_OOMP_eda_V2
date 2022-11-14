@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKMCUNXPHCS12MC9S12DT256 > MCU_NXP_HCS12 : MC9S12DT256](#szkmcunxphcs12mc9s12dt256--mcu_nxp_hcs12--mc9s12dt256)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: MCU_NXP_HCS12 : MC9S12DT256
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_NXP_HCS12-MC9S12DT256](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_NXP_HCS12-MC9S12DT256)
 - Short Link: [http://oom.lt/SZKMCUNXPHCS12MC9S12DT256](http://oom.lt/SZKMCUNXPHCS12MC9S12DT256)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_NXP_HCS12/MC9S12DT256/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_NXP_HCS12/MC9S12DT256/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_NXP_HCS12/MC9S12DT256/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_NXP_HCS12/MC9S12DT256/image.png)|||

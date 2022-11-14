@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKMCUSILICONLABSC851F38CGM > MCU_SiliconLabs : C8051F38C-GM](#szkmcusiliconlabsc851f38cgm--mcu_siliconlabs--c8051f38c-gm)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: MCU_SiliconLabs : C8051F38C-GM
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_SiliconLabs-C8051F38C-GM](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_SiliconLabs-C8051F38C-GM)
 - Short Link: [http://oom.lt/SZKMCUSILICONLABSC851F38CGM](http://oom.lt/SZKMCUSILICONLABSC851F38CGM)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_SiliconLabs/C8051F38C-GM/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_SiliconLabs/C8051F38C-GM/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_SiliconLabs/C8051F38C-GM/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_SiliconLabs/C8051F38C-GM/image.png)|||

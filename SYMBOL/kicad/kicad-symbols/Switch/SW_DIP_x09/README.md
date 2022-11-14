@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKSWITCHSWDIPX9 > Switch : SW_DIP_x09](#szkswitchswdipx9--switch--sw_dip_x09)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Switch : SW_DIP_x09
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Switch-SW_DIP_x09](http://oom.lt/SYMBOL-kicad-kicad-symbols-Switch-SW_DIP_x09)
 - Short Link: [http://oom.lt/SZKSWITCHSWDIPX9](http://oom.lt/SZKSWITCHSWDIPX9)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Switch/SW_DIP_x09/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Switch/SW_DIP_x09/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Switch/SW_DIP_x09/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Switch/SW_DIP_x09/image.png)|||

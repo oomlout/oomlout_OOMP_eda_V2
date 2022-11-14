@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKSOSSO896X63P127CLEARANCE15 > Package_SO : SSO-8_9.6x6.3mm_P1.27mm_Clearance10.5mm](#fzksosso896x63p127clearance15--package_so--sso-8_96x63mm_p127mm_clearance105mm)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Package_SO : SSO-8_9.6x6.3mm_P1.27mm_Clearance10.5mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SO-SSO-8_9.6x6.3mm_P1.27mm_Clearance10.5mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SO-SSO-8_9.6x6.3mm_P1.27mm_Clearance10.5mm)
 - Short Link: [http://oom.lt/FZKSOSSO896X63P127CLEARANCE15](http://oom.lt/FZKSOSSO896X63P127CLEARANCE15)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/SSO-8_9.6x6.3mm_P1.27mm_Clearance10.5mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/SSO-8_9.6x6.3mm_P1.27mm_Clearance10.5mm/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/SSO-8_9.6x6.3mm_P1.27mm_Clearance10.5mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/SSO-8_9.6x6.3mm_P1.27mm_Clearance10.5mm/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/SSO-8_9.6x6.3mm_P1.27mm_Clearance10.5mm/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/SSO-8_9.6x6.3mm_P1.27mm_Clearance10.5mm/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/SSO-8_9.6x6.3mm_P1.27mm_Clearance10.5mm/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/SSO-8_9.6x6.3mm_P1.27mm_Clearance10.5mm/kicadPcb3dBack.png)|

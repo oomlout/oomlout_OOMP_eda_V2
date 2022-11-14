@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKPOTENTIOMETERDIGITALMCP4431XXXXST > Potentiometer_Digital : MCP4431-xxxx-ST](#szkpotentiometerdigitalmcp4431xxxxst--potentiometer_digital--mcp4431-xxxx-st)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Potentiometer_Digital : MCP4431-xxxx-ST
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Potentiometer_Digital-MCP4431-xxxx-ST](http://oom.lt/SYMBOL-kicad-kicad-symbols-Potentiometer_Digital-MCP4431-xxxx-ST)
 - Short Link: [http://oom.lt/SZKPOTENTIOMETERDIGITALMCP4431XXXXST](http://oom.lt/SZKPOTENTIOMETERDIGITALMCP4431XXXXST)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Potentiometer_Digital/MCP4431-xxxx-ST/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Potentiometer_Digital/MCP4431-xxxx-ST/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Potentiometer_Digital/MCP4431-xxxx-ST/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Potentiometer_Digital/MCP4431-xxxx-ST/image.png)|||

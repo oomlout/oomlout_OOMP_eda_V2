@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKFPGAXILINXKINTEX7XC7K48TFFG1156 > FPGA_Xilinx_Kintex7 : XC7K480T-FFG1156](#szkfpgaxilinxkintex7xc7k48tffg1156--fpga_xilinx_kintex7--xc7k480t-ffg1156)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: FPGA_Xilinx_Kintex7 : XC7K480T-FFG1156
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-FPGA_Xilinx_Kintex7-XC7K480T-FFG1156](http://oom.lt/SYMBOL-kicad-kicad-symbols-FPGA_Xilinx_Kintex7-XC7K480T-FFG1156)
 - Short Link: [http://oom.lt/SZKFPGAXILINXKINTEX7XC7K48TFFG1156](http://oom.lt/SZKFPGAXILINXKINTEX7XC7K48TFFG1156)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/FPGA_Xilinx_Kintex7/XC7K480T-FFG1156/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/FPGA_Xilinx_Kintex7/XC7K480T-FFG1156/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/FPGA_Xilinx_Kintex7/XC7K480T-FFG1156/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/FPGA_Xilinx_Kintex7/XC7K480T-FFG1156/image.png)|||

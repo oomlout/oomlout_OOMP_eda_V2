@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKDIODESMNEXPERIACFP3SOD123W > Diode_SMD : Nexperia_CFP3_SOD-123W](#fzkdiodesmnexperiacfp3sod123w--diode_smd--nexperia_cfp3_sod-123w)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Diode_SMD : Nexperia_CFP3_SOD-123W
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Diode_SMD-Nexperia_CFP3_SOD-123W](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Diode_SMD-Nexperia_CFP3_SOD-123W)
 - Short Link: [http://oom.lt/FZKDIODESMNEXPERIACFP3SOD123W](http://oom.lt/FZKDIODESMNEXPERIACFP3SOD123W)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Diode_SMD/Nexperia_CFP3_SOD-123W/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Diode_SMD/Nexperia_CFP3_SOD-123W/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Diode_SMD/Nexperia_CFP3_SOD-123W/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Diode_SMD/Nexperia_CFP3_SOD-123W/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Diode_SMD/Nexperia_CFP3_SOD-123W/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Diode_SMD/Nexperia_CFP3_SOD-123W/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Diode_SMD/Nexperia_CFP3_SOD-123W/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Diode_SMD/Nexperia_CFP3_SOD-123W/kicadPcb3dBack.png)|

@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKCPLDMCHIPATF154ASLXAX44 > CPLD_Microchip : ATF1504ASL-xAx44](#szkcpldmchipatf154aslxax44--cpld_microchip--atf1504asl-xax44)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: CPLD_Microchip : ATF1504ASL-xAx44
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-CPLD_Microchip-ATF1504ASL-xAx44](http://oom.lt/SYMBOL-kicad-kicad-symbols-CPLD_Microchip-ATF1504ASL-xAx44)
 - Short Link: [http://oom.lt/SZKCPLDMCHIPATF154ASLXAX44](http://oom.lt/SZKCPLDMCHIPATF154ASLXAX44)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/CPLD_Microchip/ATF1504ASL-xAx44/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/CPLD_Microchip/ATF1504ASL-xAx44/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/CPLD_Microchip/ATF1504ASL-xAx44/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/CPLD_Microchip/ATF1504ASL-xAx44/image.png)|||

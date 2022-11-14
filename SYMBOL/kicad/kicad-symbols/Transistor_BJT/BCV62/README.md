@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKTRANSISTORBJTBCV62 > Transistor_BJT : BCV62](#szktransistorbjtbcv62--transistor_bjt--bcv62)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Transistor_BJT : BCV62
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-BCV62](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-BCV62)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJTBCV62](http://oom.lt/SZKTRANSISTORBJTBCV62)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_BJT/BCV62/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_BJT/BCV62/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_BJT/BCV62/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_BJT/BCV62/image.png)|||

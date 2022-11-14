@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKDIOL128O64D > Display : OLED-128O064D](#fzkdiol128o64d--display--oled-128o064d)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Display : OLED-128O064D
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Display-OLED-128O064D](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Display-OLED-128O064D)
 - Short Link: [http://oom.lt/FZKDIOL128O64D](http://oom.lt/FZKDIOL128O64D)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Display/OLED-128O064D/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Display/OLED-128O064D/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Display/OLED-128O064D/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Display/OLED-128O064D/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Display/OLED-128O064D/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Display/OLED-128O064D/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Display/OLED-128O064D/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Display/OLED-128O064D/kicadPcb3dBack.png)|

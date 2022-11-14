@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKSENCURRENTALLEGROQS2439X87P635 > Sensor_Current : Allegro_QSOP-24_3.9x8.7mm_P0.635mm](#fzksencurrentallegroqs2439x87p635--sensor_current--allegro_qsop-24_39x87mm_p0635mm)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Sensor_Current : Allegro_QSOP-24_3.9x8.7mm_P0.635mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Sensor_Current-Allegro_QSOP-24_3.9x8.7mm_P0.635mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Sensor_Current-Allegro_QSOP-24_3.9x8.7mm_P0.635mm)
 - Short Link: [http://oom.lt/FZKSENCURRENTALLEGROQS2439X87P635](http://oom.lt/FZKSENCURRENTALLEGROQS2439X87P635)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Sensor_Current/Allegro_QSOP-24_3.9x8.7mm_P0.635mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Sensor_Current/Allegro_QSOP-24_3.9x8.7mm_P0.635mm/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Sensor_Current/Allegro_QSOP-24_3.9x8.7mm_P0.635mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Sensor_Current/Allegro_QSOP-24_3.9x8.7mm_P0.635mm/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Sensor_Current/Allegro_QSOP-24_3.9x8.7mm_P0.635mm/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Sensor_Current/Allegro_QSOP-24_3.9x8.7mm_P0.635mm/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Sensor_Current/Allegro_QSOP-24_3.9x8.7mm_P0.635mm/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Sensor_Current/Allegro_QSOP-24_3.9x8.7mm_P0.635mm/kicadPcb3dBack.png)|

@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKAMPLIFIEROPERATIONALOPA2376XXYZD > Amplifier_Operational : OPA2376xxYZD](#szkamplifieroperationalopa2376xxyzd--amplifier_operational--opa2376xxyzd)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Amplifier_Operational : OPA2376xxYZD
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-OPA2376xxYZD](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-OPA2376xxYZD)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALOPA2376XXYZD](http://oom.lt/SZKAMPLIFIEROPERATIONALOPA2376XXYZD)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/OPA2376xxYZD/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/OPA2376xxYZD/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/OPA2376xxYZD/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/OPA2376xxYZD/image.png)|||

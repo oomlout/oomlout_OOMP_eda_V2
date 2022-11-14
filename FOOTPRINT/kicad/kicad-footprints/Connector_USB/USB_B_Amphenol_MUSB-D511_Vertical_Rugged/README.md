@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKCNUUBAMPHENOLMUD511VERTICALRUGGED > Connector_USB : USB_B_Amphenol_MUSB-D511_Vertical_Rugged](#fzkcnuubamphenolmud511verticalrugged--connector_usb--usb_b_amphenol_musb-d511_vertical_rugged)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Connector_USB : USB_B_Amphenol_MUSB-D511_Vertical_Rugged
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_B_Amphenol_MUSB-D511_Vertical_Rugged](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_B_Amphenol_MUSB-D511_Vertical_Rugged)
 - Short Link: [http://oom.lt/FZKCNUUBAMPHENOLMUD511VERTICALRUGGED](http://oom.lt/FZKCNUUBAMPHENOLMUD511VERTICALRUGGED)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB_B_Amphenol_MUSB-D511_Vertical_Rugged/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB_B_Amphenol_MUSB-D511_Vertical_Rugged/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB_B_Amphenol_MUSB-D511_Vertical_Rugged/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB_B_Amphenol_MUSB-D511_Vertical_Rugged/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB_B_Amphenol_MUSB-D511_Vertical_Rugged/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB_B_Amphenol_MUSB-D511_Vertical_Rugged/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB_B_Amphenol_MUSB-D511_Vertical_Rugged/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB_B_Amphenol_MUSB-D511_Vertical_Rugged/kicadPcb3dBack.png)|

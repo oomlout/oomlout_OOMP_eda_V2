@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKTRANSISTORFETBSC4N8NS5 > Transistor_FET : BSC040N08NS5](#szktransistorfetbsc4n8ns5--transistor_fet--bsc040n08ns5)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Transistor_FET : BSC040N08NS5
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-BSC040N08NS5](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-BSC040N08NS5)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETBSC4N8NS5](http://oom.lt/SZKTRANSISTORFETBSC4N8NS5)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/BSC040N08NS5/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/BSC040N08NS5/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/BSC040N08NS5/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/BSC040N08NS5/image.png)|||

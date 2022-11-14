@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKTRANSISTORFETIPT12N8N5 > Transistor_FET : IPT012N08N5](#szktransistorfetipt12n8n5--transistor_fet--ipt012n08n5)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Transistor_FET : IPT012N08N5
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IPT012N08N5](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IPT012N08N5)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETIPT12N8N5](http://oom.lt/SZKTRANSISTORFETIPT12N8N5)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/IPT012N08N5/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/IPT012N08N5/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/IPT012N08N5/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/IPT012N08N5/image.png)|||

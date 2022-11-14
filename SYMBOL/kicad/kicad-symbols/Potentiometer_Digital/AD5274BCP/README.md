@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKPOTENTIOMETERDIGITALAD5274BCP > Potentiometer_Digital : AD5274BCP](#szkpotentiometerdigitalad5274bcp--potentiometer_digital--ad5274bcp)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Potentiometer_Digital : AD5274BCP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Potentiometer_Digital-AD5274BCP](http://oom.lt/SYMBOL-kicad-kicad-symbols-Potentiometer_Digital-AD5274BCP)
 - Short Link: [http://oom.lt/SZKPOTENTIOMETERDIGITALAD5274BCP](http://oom.lt/SZKPOTENTIOMETERDIGITALAD5274BCP)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Potentiometer_Digital/AD5274BCP/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Potentiometer_Digital/AD5274BCP/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Potentiometer_Digital/AD5274BCP/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Potentiometer_Digital/AD5274BCP/image.png)|||

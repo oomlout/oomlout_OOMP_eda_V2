@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKBZMAGNETICBUZZERCUICMT8541S > Buzzer_Beeper : MagneticBuzzer_CUI_CMT-8504-100-SMT](#fzkbzmagneticbuzzercuicmt8541s--buzzer_beeper--magneticbuzzer_cui_cmt-8504-100-smt)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Buzzer_Beeper : MagneticBuzzer_CUI_CMT-8504-100-SMT
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Buzzer_Beeper-MagneticBuzzer_CUI_CMT-8504-100-SMT](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Buzzer_Beeper-MagneticBuzzer_CUI_CMT-8504-100-SMT)
 - Short Link: [http://oom.lt/FZKBZMAGNETICBUZZERCUICMT8541S](http://oom.lt/FZKBZMAGNETICBUZZERCUICMT8541S)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Buzzer_Beeper/MagneticBuzzer_CUI_CMT-8504-100-SMT/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Buzzer_Beeper/MagneticBuzzer_CUI_CMT-8504-100-SMT/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Buzzer_Beeper/MagneticBuzzer_CUI_CMT-8504-100-SMT/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Buzzer_Beeper/MagneticBuzzer_CUI_CMT-8504-100-SMT/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Buzzer_Beeper/MagneticBuzzer_CUI_CMT-8504-100-SMT/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Buzzer_Beeper/MagneticBuzzer_CUI_CMT-8504-100-SMT/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Buzzer_Beeper/MagneticBuzzer_CUI_CMT-8504-100-SMT/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Buzzer_Beeper/MagneticBuzzer_CUI_CMT-8504-100-SMT/kicadPcb3dBack.png)|

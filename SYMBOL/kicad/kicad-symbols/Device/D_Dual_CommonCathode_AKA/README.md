@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDEVICEDDUALCOONCATHODEAKA > Device : D_Dual_CommonCathode_AKA](#szkdeviceddualcooncathodeaka--device--d_dual_commoncathode_aka)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Device : D_Dual_CommonCathode_AKA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-D_Dual_CommonCathode_AKA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-D_Dual_CommonCathode_AKA)
 - Short Link: [http://oom.lt/SZKDEVICEDDUALCOONCATHODEAKA](http://oom.lt/SZKDEVICEDDUALCOONCATHODEAKA)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/D_Dual_CommonCathode_AKA/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/D_Dual_CommonCathode_AKA/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/D_Dual_CommonCathode_AKA/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/D_Dual_CommonCathode_AKA/image.png)|||

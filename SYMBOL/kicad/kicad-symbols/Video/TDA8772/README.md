@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKVIDEOTDA8772 > Video : TDA8772](#szkvideotda8772--video--tda8772)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Video : TDA8772
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Video-TDA8772](http://oom.lt/SYMBOL-kicad-kicad-symbols-Video-TDA8772)
 - Short Link: [http://oom.lt/SZKVIDEOTDA8772](http://oom.lt/SZKVIDEOTDA8772)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Video/TDA8772/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Video/TDA8772/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Video/TDA8772/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Video/TDA8772/image.png)|||

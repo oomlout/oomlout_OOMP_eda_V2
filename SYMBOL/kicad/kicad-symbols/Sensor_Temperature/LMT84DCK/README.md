@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKSENTEMPERATURELMT84DCK > Sensor_Temperature : LMT84DCK](#szksentemperaturelmt84dck--sensor_temperature--lmt84dck)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Sensor_Temperature : LMT84DCK
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Temperature-LMT84DCK](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Temperature-LMT84DCK)
 - Short Link: [http://oom.lt/SZKSENTEMPERATURELMT84DCK](http://oom.lt/SZKSENTEMPERATURELMT84DCK)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Temperature/LMT84DCK/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Temperature/LMT84DCK/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Temperature/LMT84DCK/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Temperature/LMT84DCK/image.png)|||

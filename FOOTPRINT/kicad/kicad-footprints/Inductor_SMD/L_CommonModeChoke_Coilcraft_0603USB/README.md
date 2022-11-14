@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKINDUCTORSMLCOONMODECHOKECOILCRAFT63U > Inductor_SMD : L_CommonModeChoke_Coilcraft_0603USB](#fzkinductorsmlcoonmodechokecoilcraft63u--inductor_smd--l_commonmodechoke_coilcraft_0603usb)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Inductor_SMD : L_CommonModeChoke_Coilcraft_0603USB
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_CommonModeChoke_Coilcraft_0603USB](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_CommonModeChoke_Coilcraft_0603USB)
 - Short Link: [http://oom.lt/FZKINDUCTORSMLCOONMODECHOKECOILCRAFT63U](http://oom.lt/FZKINDUCTORSMLCOONMODECHOKECOILCRAFT63U)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_CommonModeChoke_Coilcraft_0603USB/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_CommonModeChoke_Coilcraft_0603USB/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_CommonModeChoke_Coilcraft_0603USB/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_CommonModeChoke_Coilcraft_0603USB/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_CommonModeChoke_Coilcraft_0603USB/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_CommonModeChoke_Coilcraft_0603USB/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_CommonModeChoke_Coilcraft_0603USB/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_CommonModeChoke_Coilcraft_0603USB/kicadPcb3dBack.png)|

@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKMCUMCHIPAVRAT9U1286A > MCU_Microchip_AVR : AT90USB1286-A](#szkmcumchipavrat9u1286a--mcu_microchip_avr--at90usb1286-a)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: MCU_Microchip_AVR : AT90USB1286-A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_AVR-AT90USB1286-A](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_AVR-AT90USB1286-A)
 - Short Link: [http://oom.lt/SZKMCUMCHIPAVRAT9U1286A](http://oom.lt/SZKMCUMCHIPAVRAT9U1286A)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_AVR/AT90USB1286-A/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_AVR/AT90USB1286-A/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_AVR/AT90USB1286-A/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_AVR/AT90USB1286-A/image.png)|||

@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKREGULATORLINEARLT315XQ12 > Regulator_Linear : LT3015xQ-12](#szkregulatorlinearlt315xq12--regulator_linear--lt3015xq-12)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Regulator_Linear : LT3015xQ-12
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LT3015xQ-12](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LT3015xQ-12)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARLT315XQ12](http://oom.lt/SZKREGULATORLINEARLT315XQ12)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LT3015xQ-12/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LT3015xQ-12/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LT3015xQ-12/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LT3015xQ-12/image.png)|||

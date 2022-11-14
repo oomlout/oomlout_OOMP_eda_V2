@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKJJ2BRIDGED > Jumper : Jumper_2_Bridged](#szkjj2bridged--jumper--jumper_2_bridged)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Jumper : Jumper_2_Bridged
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Jumper-Jumper_2_Bridged](http://oom.lt/SYMBOL-kicad-kicad-symbols-Jumper-Jumper_2_Bridged)
 - Short Link: [http://oom.lt/SZKJJ2BRIDGED](http://oom.lt/SZKJJ2BRIDGED)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Jumper/Jumper_2_Bridged/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Jumper/Jumper_2_Bridged/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Jumper/Jumper_2_Bridged/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Jumper/Jumper_2_Bridged/image.png)|||

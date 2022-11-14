@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKREGULATORLINEARBD5FCFP > Regulator_Linear : BD50FC0FP](#szkregulatorlinearbd5fcfp--regulator_linear--bd50fc0fp)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Regulator_Linear : BD50FC0FP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-BD50FC0FP](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-BD50FC0FP)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARBD5FCFP](http://oom.lt/SZKREGULATORLINEARBD5FCFP)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/BD50FC0FP/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/BD50FC0FP/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/BD50FC0FP/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/BD50FC0FP/image.png)|||

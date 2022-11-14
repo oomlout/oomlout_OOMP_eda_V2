@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDEVICEMPHONECONDENSER > Device : Microphone_Condenser](#szkdevicemphonecondenser--device--microphone_condenser)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Device : Microphone_Condenser
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Microphone_Condenser](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Microphone_Condenser)
 - Short Link: [http://oom.lt/SZKDEVICEMPHONECONDENSER](http://oom.lt/SZKDEVICEMPHONECONDENSER)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/Microphone_Condenser/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/Microphone_Condenser/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/Microphone_Condenser/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/Microphone_Condenser/image.png)|||

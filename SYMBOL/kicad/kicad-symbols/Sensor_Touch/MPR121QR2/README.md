@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKSENTOUCHMPR121QR2 > Sensor_Touch : MPR121QR2](#szksentouchmpr121qr2--sensor_touch--mpr121qr2)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Sensor_Touch : MPR121QR2
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Touch-MPR121QR2](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Touch-MPR121QR2)
 - Short Link: [http://oom.lt/SZKSENTOUCHMPR121QR2](http://oom.lt/SZKSENTOUCHMPR121QR2)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Touch/MPR121QR2/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Touch/MPR121QR2/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Touch/MPR121QR2/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Touch/MPR121QR2/image.png)|||

@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKCNJSTJSTPUDB28BPUDSS2X14P2VERTICAL > Connector_JST : JST_PUD_B28B-PUDSS_2x14_P2.00mm_Vertical](#fzkcnjstjstpudb28bpudss2x14p2vertical--connector_jst--jst_pud_b28b-pudss_2x14_p200mm_vertical)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Connector_JST : JST_PUD_B28B-PUDSS_2x14_P2.00mm_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_PUD_B28B-PUDSS_2x14_P2.00mm_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_PUD_B28B-PUDSS_2x14_P2.00mm_Vertical)
 - Short Link: [http://oom.lt/FZKCNJSTJSTPUDB28BPUDSS2X14P2VERTICAL](http://oom.lt/FZKCNJSTJSTPUDB28BPUDSS2X14P2VERTICAL)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_PUD_B28B-PUDSS_2x14_P2.00mm_Vertical/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_PUD_B28B-PUDSS_2x14_P2.00mm_Vertical/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_PUD_B28B-PUDSS_2x14_P2.00mm_Vertical/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_PUD_B28B-PUDSS_2x14_P2.00mm_Vertical/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_PUD_B28B-PUDSS_2x14_P2.00mm_Vertical/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_PUD_B28B-PUDSS_2x14_P2.00mm_Vertical/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_PUD_B28B-PUDSS_2x14_P2.00mm_Vertical/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_PUD_B28B-PUDSS_2x14_P2.00mm_Vertical/kicadPcb3dBack.png)|

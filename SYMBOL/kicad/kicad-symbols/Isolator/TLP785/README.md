@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKISOLATORTLP785 > Isolator : TLP785](#szkisolatortlp785--isolator--tlp785)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Isolator : TLP785
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-TLP785](http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-TLP785)
 - Short Link: [http://oom.lt/SZKISOLATORTLP785](http://oom.lt/SZKISOLATORTLP785)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Isolator/TLP785/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Isolator/TLP785/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Isolator/TLP785/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Isolator/TLP785/image.png)|||

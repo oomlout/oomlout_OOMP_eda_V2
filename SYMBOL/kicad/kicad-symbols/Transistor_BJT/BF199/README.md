@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKTRANSISTORBJTBF199 > Transistor_BJT : BF199](#szktransistorbjtbf199--transistor_bjt--bf199)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Transistor_BJT : BF199
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-BF199](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-BF199)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJTBF199](http://oom.lt/SZKTRANSISTORBJTBF199)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_BJT/BF199/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_BJT/BF199/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_BJT/BF199/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_BJT/BF199/image.png)|||

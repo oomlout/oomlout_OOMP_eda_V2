@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKSWITCHSWPUSHDPDT > Switch : SW_Push_DPDT](#szkswitchswpushdpdt--switch--sw_push_dpdt)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Switch : SW_Push_DPDT
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Switch-SW_Push_DPDT](http://oom.lt/SYMBOL-kicad-kicad-symbols-Switch-SW_Push_DPDT)
 - Short Link: [http://oom.lt/SZKSWITCHSWPUSHDPDT](http://oom.lt/SZKSWITCHSWPUSHDPDT)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Switch/SW_Push_DPDT/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Switch/SW_Push_DPDT/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Switch/SW_Push_DPDT/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Switch/SW_Push_DPDT/image.png)|||

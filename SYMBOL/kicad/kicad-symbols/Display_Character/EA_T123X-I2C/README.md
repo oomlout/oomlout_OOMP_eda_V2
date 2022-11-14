@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDICHARACTEREAT123XI2C > Display_Character : EA_T123X-I2C](#szkdicharactereat123xi2c--display_character--ea_t123x-i2c)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Display_Character : EA_T123X-I2C
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-EA_T123X-I2C](http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-EA_T123X-I2C)
 - Short Link: [http://oom.lt/SZKDICHARACTEREAT123XI2C](http://oom.lt/SZKDICHARACTEREAT123XI2C)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Display_Character/EA_T123X-I2C/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Display_Character/EA_T123X-I2C/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Display_Character/EA_T123X-I2C/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Display_Character/EA_T123X-I2C/image.png)|||

@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKREGULATORLINEARAZ184285 > Regulator_Linear : AZ1084-2.85](#szkregulatorlinearaz184285--regulator_linear--az1084-285)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Regulator_Linear : AZ1084-2.85
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-AZ1084-2.85](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-AZ1084-2.85)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARAZ184285](http://oom.lt/SZKREGULATORLINEARAZ184285)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/AZ1084-2.85/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/AZ1084-2.85/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/AZ1084-2.85/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/AZ1084-2.85/image.png)|||

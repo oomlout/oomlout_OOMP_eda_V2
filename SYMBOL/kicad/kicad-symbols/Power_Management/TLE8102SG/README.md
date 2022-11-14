@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKPOWERMANAGEMENTTLE812SG > Power_Management : TLE8102SG](#szkpowermanagementtle812sg--power_management--tle8102sg)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Power_Management : TLE8102SG
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-TLE8102SG](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-TLE8102SG)
 - Short Link: [http://oom.lt/SZKPOWERMANAGEMENTTLE812SG](http://oom.lt/SZKPOWERMANAGEMENTTLE812SG)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Power_Management/TLE8102SG/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Power_Management/TLE8102SG/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Power_Management/TLE8102SG/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Power_Management/TLE8102SG/image.png)|||

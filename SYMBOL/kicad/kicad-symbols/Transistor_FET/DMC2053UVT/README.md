@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKTRANSISTORFETDMC253UVT > Transistor_FET : DMC2053UVT](#szktransistorfetdmc253uvt--transistor_fet--dmc2053uvt)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Transistor_FET : DMC2053UVT
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-DMC2053UVT](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-DMC2053UVT)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETDMC253UVT](http://oom.lt/SZKTRANSISTORFETDMC253UVT)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/DMC2053UVT/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/DMC2053UVT/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/DMC2053UVT/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/DMC2053UVT/image.png)|||

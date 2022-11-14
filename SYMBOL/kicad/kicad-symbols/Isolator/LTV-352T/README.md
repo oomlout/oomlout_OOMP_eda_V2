@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKISOLATORLTV352T > Isolator : LTV-352T](#szkisolatorltv352t--isolator--ltv-352t)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Isolator : LTV-352T
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-LTV-352T](http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-LTV-352T)
 - Short Link: [http://oom.lt/SZKISOLATORLTV352T](http://oom.lt/SZKISOLATORLTV352T)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Isolator/LTV-352T/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Isolator/LTV-352T/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Isolator/LTV-352T/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Isolator/LTV-352T/image.png)|||

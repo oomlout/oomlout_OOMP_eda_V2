@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKREGULATORSWITCHINGLM2576HVT12 > Regulator_Switching : LM2576HVT-12](#szkregulatorswitchinglm2576hvt12--regulator_switching--lm2576hvt-12)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Regulator_Switching : LM2576HVT-12
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LM2576HVT-12](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LM2576HVT-12)
 - Short Link: [http://oom.lt/SZKREGULATORSWITCHINGLM2576HVT12](http://oom.lt/SZKREGULATORSWITCHINGLM2576HVT12)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/LM2576HVT-12/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/LM2576HVT-12/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/LM2576HVT-12/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/LM2576HVT-12/image.png)|||

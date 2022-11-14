@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKTRANSISTORPOWERMOA2C25S12M3 > Transistor_Power_Module : A2C25S12M3](#szktransistorpowermoa2c25s12m3--transistor_power_module--a2c25s12m3)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Transistor_Power_Module : A2C25S12M3
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_Power_Module-A2C25S12M3](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_Power_Module-A2C25S12M3)
 - Short Link: [http://oom.lt/SZKTRANSISTORPOWERMOA2C25S12M3](http://oom.lt/SZKTRANSISTORPOWERMOA2C25S12M3)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_Power_Module/A2C25S12M3/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_Power_Module/A2C25S12M3/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_Power_Module/A2C25S12M3/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_Power_Module/A2C25S12M3/image.png)|||

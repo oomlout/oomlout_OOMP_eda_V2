@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKTRANSISTORFETVNP1N7 > Transistor_FET : VNP10N07](#szktransistorfetvnp1n7--transistor_fet--vnp10n07)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Transistor_FET : VNP10N07
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-VNP10N07](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-VNP10N07)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETVNP1N7](http://oom.lt/SZKTRANSISTORFETVNP1N7)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/VNP10N07/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/VNP10N07/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/VNP10N07/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/VNP10N07/image.png)|||

@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKTRANSISTORPOWERMOFP1R6W1E3 > Transistor_Power_Module : FP10R06W1E3](#szktransistorpowermofp1r6w1e3--transistor_power_module--fp10r06w1e3)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Transistor_Power_Module : FP10R06W1E3
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_Power_Module-FP10R06W1E3](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_Power_Module-FP10R06W1E3)
 - Short Link: [http://oom.lt/SZKTRANSISTORPOWERMOFP1R6W1E3](http://oom.lt/SZKTRANSISTORPOWERMOFP1R6W1E3)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_Power_Module/FP10R06W1E3/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_Power_Module/FP10R06W1E3/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_Power_Module/FP10R06W1E3/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_Power_Module/FP10R06W1E3/image.png)|||

@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKBGAMNFBGA788X15LAYOUT9X13P8 > Package_BGA : Micron_FBGA-78_8x10.5mm_Layout9x13_P0.8mm](#fzkbgamnfbga788x15layout9x13p8--package_bga--micron_fbga-78_8x105mm_layout9x13_p08mm)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Package_BGA : Micron_FBGA-78_8x10.5mm_Layout9x13_P0.8mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_BGA-Micron_FBGA-78_8x10.5mm_Layout9x13_P0.8mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_BGA-Micron_FBGA-78_8x10.5mm_Layout9x13_P0.8mm)
 - Short Link: [http://oom.lt/FZKBGAMNFBGA788X15LAYOUT9X13P8](http://oom.lt/FZKBGAMNFBGA788X15LAYOUT9X13P8)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_BGA/Micron_FBGA-78_8x10.5mm_Layout9x13_P0.8mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_BGA/Micron_FBGA-78_8x10.5mm_Layout9x13_P0.8mm/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_BGA/Micron_FBGA-78_8x10.5mm_Layout9x13_P0.8mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_BGA/Micron_FBGA-78_8x10.5mm_Layout9x13_P0.8mm/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_BGA/Micron_FBGA-78_8x10.5mm_Layout9x13_P0.8mm/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_BGA/Micron_FBGA-78_8x10.5mm_Layout9x13_P0.8mm/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_BGA/Micron_FBGA-78_8x10.5mm_Layout9x13_P0.8mm/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_BGA/Micron_FBGA-78_8x10.5mm_Layout9x13_P0.8mm/kicadPcb3dBack.png)|

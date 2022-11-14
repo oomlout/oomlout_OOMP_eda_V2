@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKCNGENERICCONN1X27 > Connector_Generic : Conn_01x27](#szkcngenericconn1x27--connector_generic--conn_01x27)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Connector_Generic : Conn_01x27
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x27](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x27)
 - Short Link: [http://oom.lt/SZKCNGENERICCONN1X27](http://oom.lt/SZKCNGENERICCONN1X27)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_01x27/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_01x27/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_01x27/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_01x27/image.png)|||

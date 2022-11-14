@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKAUDIOCS427 > Audio : CS4270](#szkaudiocs427--audio--cs4270)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Audio : CS4270
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Audio-CS4270](http://oom.lt/SYMBOL-kicad-kicad-symbols-Audio-CS4270)
 - Short Link: [http://oom.lt/SZKAUDIOCS427](http://oom.lt/SZKAUDIOCS427)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Audio/CS4270/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Audio/CS4270/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Audio/CS4270/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Audio/CS4270/image.png)|||

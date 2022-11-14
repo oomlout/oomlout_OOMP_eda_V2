@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZK74XX74HCT123 > 74xx : 74HCT123](#szk74xx74hct123--74xx--74hct123)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: 74xx : 74HCT123
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-74xx-74HCT123](http://oom.lt/SYMBOL-kicad-kicad-symbols-74xx-74HCT123)
 - Short Link: [http://oom.lt/SZK74XX74HCT123](http://oom.lt/SZK74XX74HCT123)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/74xx/74HCT123/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/74xx/74HCT123/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/74xx/74HCT123/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/74xx/74HCT123/image.png)|||

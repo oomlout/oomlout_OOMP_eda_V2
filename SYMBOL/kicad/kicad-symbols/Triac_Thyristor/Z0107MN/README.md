@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKTRIACTHYRISTORZ17MN > Triac_Thyristor : Z0107MN](#szktriacthyristorz17mn--triac_thyristor--z0107mn)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Triac_Thyristor : Z0107MN
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Triac_Thyristor-Z0107MN](http://oom.lt/SYMBOL-kicad-kicad-symbols-Triac_Thyristor-Z0107MN)
 - Short Link: [http://oom.lt/SZKTRIACTHYRISTORZ17MN](http://oom.lt/SZKTRIACTHYRISTORZ17MN)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Triac_Thyristor/Z0107MN/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Triac_Thyristor/Z0107MN/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Triac_Thyristor/Z0107MN/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Triac_Thyristor/Z0107MN/image.png)|||

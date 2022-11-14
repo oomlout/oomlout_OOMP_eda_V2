@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDEVICERPACK8SPLIT > Device : R_Pack08_Split](#szkdevicerpack8split--device--r_pack08_split)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Device : R_Pack08_Split
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-R_Pack08_Split](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-R_Pack08_Split)
 - Short Link: [http://oom.lt/SZKDEVICERPACK8SPLIT](http://oom.lt/SZKDEVICERPACK8SPLIT)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/R_Pack08_Split/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/R_Pack08_Split/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/R_Pack08_Split/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/R_Pack08_Split/image.png)|||

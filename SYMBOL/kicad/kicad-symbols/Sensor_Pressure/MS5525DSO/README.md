@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKSENPRESSUREMS5525DSO > Sensor_Pressure : MS5525DSO](#szksenpressurems5525dso--sensor_pressure--ms5525dso)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Sensor_Pressure : MS5525DSO
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Pressure-MS5525DSO](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Pressure-MS5525DSO)
 - Short Link: [http://oom.lt/SZKSENPRESSUREMS5525DSO](http://oom.lt/SZKSENPRESSUREMS5525DSO)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Pressure/MS5525DSO/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Pressure/MS5525DSO/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Pressure/MS5525DSO/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Pressure/MS5525DSO/image.png)|||

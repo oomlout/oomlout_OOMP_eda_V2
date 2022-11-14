@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDEVICEQDUALPNPPNPBRTE1B1C2E2B2C1 > Device : Q_Dual_PNP_PNP_BRT_E1B1C2E2B2C1](#szkdeviceqdualpnppnpbrte1b1c2e2b2c1--device--q_dual_pnp_pnp_brt_e1b1c2e2b2c1)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Device : Q_Dual_PNP_PNP_BRT_E1B1C2E2B2C1
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Q_Dual_PNP_PNP_BRT_E1B1C2E2B2C1](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Q_Dual_PNP_PNP_BRT_E1B1C2E2B2C1)
 - Short Link: [http://oom.lt/SZKDEVICEQDUALPNPPNPBRTE1B1C2E2B2C1](http://oom.lt/SZKDEVICEQDUALPNPPNPBRTE1B1C2E2B2C1)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/Q_Dual_PNP_PNP_BRT_E1B1C2E2B2C1/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/Q_Dual_PNP_PNP_BRT_E1B1C2E2B2C1/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/Q_Dual_PNP_PNP_BRT_E1B1C2E2B2C1/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/Q_Dual_PNP_PNP_BRT_E1B1C2E2B2C1/image.png)|||

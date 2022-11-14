@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKSENTOUCHCAP126XSL > Sensor_Touch : CAP1206-x-SL](#szksentouchcap126xsl--sensor_touch--cap1206-x-sl)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Sensor_Touch : CAP1206-x-SL
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Touch-CAP1206-x-SL](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Touch-CAP1206-x-SL)
 - Short Link: [http://oom.lt/SZKSENTOUCHCAP126XSL](http://oom.lt/SZKSENTOUCHCAP126XSL)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Touch/CAP1206-x-SL/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Touch/CAP1206-x-SL/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Touch/CAP1206-x-SL/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Touch/CAP1206-x-SL/image.png)|||

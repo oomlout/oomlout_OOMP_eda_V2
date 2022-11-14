@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDICHARACTERMAN73A > Display_Character : MAN73A](#szkdicharacterman73a--display_character--man73a)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Display_Character : MAN73A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-MAN73A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-MAN73A)
 - Short Link: [http://oom.lt/SZKDICHARACTERMAN73A](http://oom.lt/SZKDICHARACTERMAN73A)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Display_Character/MAN73A/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Display_Character/MAN73A/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Display_Character/MAN73A/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Display_Character/MAN73A/image.png)|||

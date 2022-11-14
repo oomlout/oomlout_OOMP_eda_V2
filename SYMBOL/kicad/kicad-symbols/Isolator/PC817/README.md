@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKISOLATORPC817 > Isolator : PC817](#szkisolatorpc817--isolator--pc817)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Isolator : PC817
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-PC817](http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-PC817)
 - Short Link: [http://oom.lt/SZKISOLATORPC817](http://oom.lt/SZKISOLATORPC817)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Isolator/PC817/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Isolator/PC817/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Isolator/PC817/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Isolator/PC817/image.png)|||

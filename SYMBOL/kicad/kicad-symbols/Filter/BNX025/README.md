@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKFILBNX25 > Filter : BNX025](#szkfilbnx25--filter--bnx025)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Filter : BNX025
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Filter-BNX025](http://oom.lt/SYMBOL-kicad-kicad-symbols-Filter-BNX025)
 - Short Link: [http://oom.lt/SZKFILBNX25](http://oom.lt/SZKFILBNX25)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Filter/BNX025/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Filter/BNX025/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Filter/BNX025/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Filter/BNX025/image.png)|||

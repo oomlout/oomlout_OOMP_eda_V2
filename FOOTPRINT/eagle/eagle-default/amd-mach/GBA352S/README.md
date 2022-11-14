@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZEAMDMACHGBA352S > amd-mach : GBA352S](#fzeamdmachgba352s--amd-mach--gba352s)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: amd-mach : GBA352S
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-amd-mach-GBA352S](http://oom.lt/FOOTPRINT-eagle-eagle-default-amd-mach-GBA352S)
 - Short Link: [http://oom.lt/FZEAMDMACHGBA352S](http://oom.lt/FZEAMDMACHGBA352S)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/amd-mach/GBA352S/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/amd-mach/GBA352S/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/amd-mach/GBA352S/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/amd-mach/GBA352S/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/amd-mach/GBA352S/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/amd-mach/GBA352S/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/amd-mach/GBA352S/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/amd-mach/GBA352S/kicadPcb3dBack.png)|

@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKTRANSISTORPOWERMOINFINEONEASYPIM1B > Transistor_Power_Module : Infineon_EasyPIM-1B](#fzktransistorpowermoinfineoneasypim1b--transistor_power_module--infineon_easypim-1b)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Transistor_Power_Module : Infineon_EasyPIM-1B
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Transistor_Power_Module-Infineon_EasyPIM-1B](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Transistor_Power_Module-Infineon_EasyPIM-1B)
 - Short Link: [http://oom.lt/FZKTRANSISTORPOWERMOINFINEONEASYPIM1B](http://oom.lt/FZKTRANSISTORPOWERMOINFINEONEASYPIM1B)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Transistor_Power_Module/Infineon_EasyPIM-1B/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Transistor_Power_Module/Infineon_EasyPIM-1B/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Transistor_Power_Module/Infineon_EasyPIM-1B/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Transistor_Power_Module/Infineon_EasyPIM-1B/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Transistor_Power_Module/Infineon_EasyPIM-1B/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Transistor_Power_Module/Infineon_EasyPIM-1B/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Transistor_Power_Module/Infineon_EasyPIM-1B/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Transistor_Power_Module/Infineon_EasyPIM-1B/kicadPcb3dBack.png)|

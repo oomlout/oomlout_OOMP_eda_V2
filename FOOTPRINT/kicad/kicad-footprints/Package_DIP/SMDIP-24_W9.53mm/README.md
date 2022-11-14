@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKDIPSMIP24W953 > Package_DIP : SMDIP-24_W9.53mm](#fzkdipsmip24w953--package_dip--smdip-24_w953mm)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Package_DIP : SMDIP-24_W9.53mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DIP-SMDIP-24_W9.53mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DIP-SMDIP-24_W9.53mm)
 - Short Link: [http://oom.lt/FZKDIPSMIP24W953](http://oom.lt/FZKDIPSMIP24W953)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_DIP/SMDIP-24_W9.53mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_DIP/SMDIP-24_W9.53mm/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_DIP/SMDIP-24_W9.53mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_DIP/SMDIP-24_W9.53mm/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_DIP/SMDIP-24_W9.53mm/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_DIP/SMDIP-24_W9.53mm/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_DIP/SMDIP-24_W9.53mm/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_DIP/SMDIP-24_W9.53mm/kicadPcb3dBack.png)|

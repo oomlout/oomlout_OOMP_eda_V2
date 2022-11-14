@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDIODEBYV792 > Diode : BYV79-200](#szkdiodebyv792--diode--byv79-200)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Diode : BYV79-200
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-BYV79-200](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-BYV79-200)
 - Short Link: [http://oom.lt/SZKDIODEBYV792](http://oom.lt/SZKDIODEBYV792)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Diode/BYV79-200/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Diode/BYV79-200/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Diode/BYV79-200/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Diode/BYV79-200/image.png)|||

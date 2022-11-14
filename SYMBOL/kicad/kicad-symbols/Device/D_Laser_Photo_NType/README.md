@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDEVICEDLASERPHOTONTYPE > Device : D_Laser_Photo_NType](#szkdevicedlaserphotontype--device--d_laser_photo_ntype)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Device : D_Laser_Photo_NType
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-D_Laser_Photo_NType](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-D_Laser_Photo_NType)
 - Short Link: [http://oom.lt/SZKDEVICEDLASERPHOTONTYPE](http://oom.lt/SZKDEVICEDLASERPHOTONTYPE)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/D_Laser_Photo_NType/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/D_Laser_Photo_NType/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/D_Laser_Photo_NType/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/D_Laser_Photo_NType/image.png)|||

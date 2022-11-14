@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKSENMAGNETICAS545B > Sensor_Magnetic : AS5045B](#szksenmagneticas545b--sensor_magnetic--as5045b)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Sensor_Magnetic : AS5045B
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Magnetic-AS5045B](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Magnetic-AS5045B)
 - Short Link: [http://oom.lt/SZKSENMAGNETICAS545B](http://oom.lt/SZKSENMAGNETICAS545B)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Magnetic/AS5045B/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Magnetic/AS5045B/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Magnetic/AS5045B/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Magnetic/AS5045B/image.png)|||

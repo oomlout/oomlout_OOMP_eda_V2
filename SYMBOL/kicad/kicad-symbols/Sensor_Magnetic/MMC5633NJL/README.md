@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKSENMAGNETICC5633NJL > Sensor_Magnetic : MMC5633NJL](#szksenmagneticc5633njl--sensor_magnetic--mmc5633njl)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Sensor_Magnetic : MMC5633NJL
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Magnetic-MMC5633NJL](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Magnetic-MMC5633NJL)
 - Short Link: [http://oom.lt/SZKSENMAGNETICC5633NJL](http://oom.lt/SZKSENMAGNETICC5633NJL)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Magnetic/MMC5633NJL/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Magnetic/MMC5633NJL/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Magnetic/MMC5633NJL/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Magnetic/MMC5633NJL/image.png)|||

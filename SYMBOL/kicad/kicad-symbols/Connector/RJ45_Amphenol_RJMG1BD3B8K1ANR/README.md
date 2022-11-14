@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKCNRJ45AMPHENOLRJMG1BD3B8K1ANR > Connector : RJ45_Amphenol_RJMG1BD3B8K1ANR](#szkcnrj45amphenolrjmg1bd3b8k1anr--connector--rj45_amphenol_rjmg1bd3b8k1anr)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Connector : RJ45_Amphenol_RJMG1BD3B8K1ANR
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-RJ45_Amphenol_RJMG1BD3B8K1ANR](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-RJ45_Amphenol_RJMG1BD3B8K1ANR)
 - Short Link: [http://oom.lt/SZKCNRJ45AMPHENOLRJMG1BD3B8K1ANR](http://oom.lt/SZKCNRJ45AMPHENOLRJMG1BD3B8K1ANR)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/RJ45_Amphenol_RJMG1BD3B8K1ANR/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/RJ45_Amphenol_RJMG1BD3B8K1ANR/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/RJ45_Amphenol_RJMG1BD3B8K1ANR/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/RJ45_Amphenol_RJMG1BD3B8K1ANR/image.png)|||

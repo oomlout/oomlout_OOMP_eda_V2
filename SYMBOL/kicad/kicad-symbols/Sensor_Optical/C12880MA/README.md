@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKSENOPTICALC1288MA > Sensor_Optical : C12880MA](#szksenopticalc1288ma--sensor_optical--c12880ma)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Sensor_Optical : C12880MA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Optical-C12880MA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Optical-C12880MA)
 - Short Link: [http://oom.lt/SZKSENOPTICALC1288MA](http://oom.lt/SZKSENOPTICALC1288MA)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Optical/C12880MA/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Optical/C12880MA/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Optical/C12880MA/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Optical/C12880MA/image.png)|||

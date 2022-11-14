@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDIODEBAS44 > Diode : BAS40-04](#szkdiodebas44--diode--bas40-04)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Diode : BAS40-04
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-BAS40-04](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-BAS40-04)
 - Short Link: [http://oom.lt/SZKDIODEBAS44](http://oom.lt/SZKDIODEBAS44)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Diode/BAS40-04/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Diode/BAS40-04/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Diode/BAS40-04/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Diode/BAS40-04/image.png)|||

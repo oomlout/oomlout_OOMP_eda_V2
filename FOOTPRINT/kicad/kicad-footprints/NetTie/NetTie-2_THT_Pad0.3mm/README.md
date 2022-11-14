@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKNTNT2THTPAD3 > NetTie : NetTie-2_THT_Pad0.3mm](#fzkntnt2thtpad3--nettie--nettie-2_tht_pad03mm)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: NetTie : NetTie-2_THT_Pad0.3mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-NetTie-NetTie-2_THT_Pad0.3mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-NetTie-NetTie-2_THT_Pad0.3mm)
 - Short Link: [http://oom.lt/FZKNTNT2THTPAD3](http://oom.lt/FZKNTNT2THTPAD3)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/NetTie/NetTie-2_THT_Pad0.3mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/NetTie/NetTie-2_THT_Pad0.3mm/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/NetTie/NetTie-2_THT_Pad0.3mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/NetTie/NetTie-2_THT_Pad0.3mm/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/NetTie/NetTie-2_THT_Pad0.3mm/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/NetTie/NetTie-2_THT_Pad0.3mm/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/NetTie/NetTie-2_THT_Pad0.3mm/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/NetTie/NetTie-2_THT_Pad0.3mm/kicadPcb3dBack.png)|

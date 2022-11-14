@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKRELAYFUJITSUFTRF1A > Relay : Fujitsu_FTR-F1A](#szkrelayfujitsuftrf1a--relay--fujitsu_ftr-f1a)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Relay : Fujitsu_FTR-F1A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-Fujitsu_FTR-F1A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-Fujitsu_FTR-F1A)
 - Short Link: [http://oom.lt/SZKRELAYFUJITSUFTRF1A](http://oom.lt/SZKRELAYFUJITSUFTRF1A)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Relay/Fujitsu_FTR-F1A/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Relay/Fujitsu_FTR-F1A/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Relay/Fujitsu_FTR-F1A/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Relay/Fujitsu_FTR-F1A/image.png)|||

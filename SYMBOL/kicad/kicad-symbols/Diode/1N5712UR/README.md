@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDIODE1N5712UR > Diode : 1N5712UR](#szkdiode1n5712ur--diode--1n5712ur)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Diode : 1N5712UR
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-1N5712UR](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-1N5712UR)
 - Short Link: [http://oom.lt/SZKDIODE1N5712UR](http://oom.lt/SZKDIODE1N5712UR)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Diode/1N5712UR/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Diode/1N5712UR/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Diode/1N5712UR/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Diode/1N5712UR/image.png)|||

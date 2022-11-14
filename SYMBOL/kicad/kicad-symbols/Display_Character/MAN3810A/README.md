@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDICHARACTERMAN381A > Display_Character : MAN3810A](#szkdicharacterman381a--display_character--man3810a)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Display_Character : MAN3810A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-MAN3810A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-MAN3810A)
 - Short Link: [http://oom.lt/SZKDICHARACTERMAN381A](http://oom.lt/SZKDICHARACTERMAN381A)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Display_Character/MAN3810A/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Display_Character/MAN3810A/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Display_Character/MAN3810A/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Display_Character/MAN3810A/image.png)|||

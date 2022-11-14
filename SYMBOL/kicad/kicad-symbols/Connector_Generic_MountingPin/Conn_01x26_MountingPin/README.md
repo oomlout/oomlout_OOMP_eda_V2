@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKCNGENERICMOUNTINGPINCONN1X26MOUNTINGPIN > Connector_Generic_MountingPin : Conn_01x26_MountingPin](#szkcngenericmountingpinconn1x26mountingpin--connector_generic_mountingpin--conn_01x26_mountingpin)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Connector_Generic_MountingPin : Conn_01x26_MountingPin
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector_Generic_MountingPin-Conn_01x26_MountingPin](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector_Generic_MountingPin-Conn_01x26_MountingPin)
 - Short Link: [http://oom.lt/SZKCNGENERICMOUNTINGPINCONN1X26MOUNTINGPIN](http://oom.lt/SZKCNGENERICMOUNTINGPINCONN1X26MOUNTINGPIN)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector_Generic_MountingPin/Conn_01x26_MountingPin/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector_Generic_MountingPin/Conn_01x26_MountingPin/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector_Generic_MountingPin/Conn_01x26_MountingPin/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector_Generic_MountingPin/Conn_01x26_MountingPin/image.png)|||

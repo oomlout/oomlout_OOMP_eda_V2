@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDIODEBRIDGEVSKBPC15 > Diode_Bridge : VS-KBPC1005](#szkdiodebridgevskbpc15--diode_bridge--vs-kbpc1005)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Diode_Bridge : VS-KBPC1005
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode_Bridge-VS-KBPC1005](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode_Bridge-VS-KBPC1005)
 - Short Link: [http://oom.lt/SZKDIODEBRIDGEVSKBPC15](http://oom.lt/SZKDIODEBRIDGEVSKBPC15)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Diode_Bridge/VS-KBPC1005/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Diode_Bridge/VS-KBPC1005/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Diode_Bridge/VS-KBPC1005/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Diode_Bridge/VS-KBPC1005/image.png)|||

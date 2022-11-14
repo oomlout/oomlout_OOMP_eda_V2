@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKINTERFACEUARTADM2587E > Interface_UART : ADM2587E](#szkinterfaceuartadm2587e--interface_uart--adm2587e)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Interface_UART : ADM2587E
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_UART-ADM2587E](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_UART-ADM2587E)
 - Short Link: [http://oom.lt/SZKINTERFACEUARTADM2587E](http://oom.lt/SZKINTERFACEUARTADM2587E)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface_UART/ADM2587E/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface_UART/ADM2587E/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface_UART/ADM2587E/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface_UART/ADM2587E/image.png)|||

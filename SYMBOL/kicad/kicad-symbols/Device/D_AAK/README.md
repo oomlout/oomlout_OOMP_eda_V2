@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDEVICEDAAK > Device : D_AAK](#szkdevicedaak--device--d_aak)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Device : D_AAK
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-D_AAK](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-D_AAK)
 - Short Link: [http://oom.lt/SZKDEVICEDAAK](http://oom.lt/SZKDEVICEDAAK)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/D_AAK/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/D_AAK/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/D_AAK/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/D_AAK/image.png)|||

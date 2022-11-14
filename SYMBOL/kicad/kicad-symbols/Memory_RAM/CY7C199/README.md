@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKMEMORYRAMCY7C199 > Memory_RAM : CY7C199](#szkmemoryramcy7c199--memory_ram--cy7c199)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Memory_RAM : CY7C199
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_RAM-CY7C199](http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_RAM-CY7C199)
 - Short Link: [http://oom.lt/SZKMEMORYRAMCY7C199](http://oom.lt/SZKMEMORYRAMCY7C199)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Memory_RAM/CY7C199/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Memory_RAM/CY7C199/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Memory_RAM/CY7C199/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Memory_RAM/CY7C199/image.png)|||

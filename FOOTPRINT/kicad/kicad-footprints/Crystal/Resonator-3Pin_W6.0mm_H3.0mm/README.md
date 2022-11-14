@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKXR3PINW6H3 > Crystal : Resonator-3Pin_W6.0mm_H3.0mm](#fzkxr3pinw6h3--crystal--resonator-3pin_w60mm_h30mm)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Crystal : Resonator-3Pin_W6.0mm_H3.0mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Crystal-Resonator-3Pin_W6.0mm_H3.0mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Crystal-Resonator-3Pin_W6.0mm_H3.0mm)
 - Short Link: [http://oom.lt/FZKXR3PINW6H3](http://oom.lt/FZKXR3PINW6H3)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Crystal/Resonator-3Pin_W6.0mm_H3.0mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Crystal/Resonator-3Pin_W6.0mm_H3.0mm/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Crystal/Resonator-3Pin_W6.0mm_H3.0mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Crystal/Resonator-3Pin_W6.0mm_H3.0mm/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Crystal/Resonator-3Pin_W6.0mm_H3.0mm/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Crystal/Resonator-3Pin_W6.0mm_H3.0mm/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Crystal/Resonator-3Pin_W6.0mm_H3.0mm/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Crystal/Resonator-3Pin_W6.0mm_H3.0mm/kicadPcb3dBack.png)|

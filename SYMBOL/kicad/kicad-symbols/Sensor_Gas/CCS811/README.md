@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKSENGASCCS811 > Sensor_Gas : CCS811](#szksengasccs811--sensor_gas--ccs811)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Sensor_Gas : CCS811
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Gas-CCS811](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Gas-CCS811)
 - Short Link: [http://oom.lt/SZKSENGASCCS811](http://oom.lt/SZKSENGASCCS811)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Gas/CCS811/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Gas/CCS811/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Gas/CCS811/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Gas/CCS811/image.png)|||

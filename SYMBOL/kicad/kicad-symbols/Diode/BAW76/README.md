@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDIODEBAW76 > Diode : BAW76](#szkdiodebaw76--diode--baw76)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Diode : BAW76
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-BAW76](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-BAW76)
 - Short Link: [http://oom.lt/SZKDIODEBAW76](http://oom.lt/SZKDIODEBAW76)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Diode/BAW76/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Diode/BAW76/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Diode/BAW76/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Diode/BAW76/image.png)|||

@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKSENCURRENTCQ32A > Sensor_Current : CQ-320A](#szksencurrentcq32a--sensor_current--cq-320a)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Sensor_Current : CQ-320A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-CQ-320A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-CQ-320A)
 - Short Link: [http://oom.lt/SZKSENCURRENTCQ32A](http://oom.lt/SZKSENCURRENTCQ32A)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Current/CQ-320A/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Current/CQ-320A/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Current/CQ-320A/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Current/CQ-320A/image.png)|||

@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKMCUSTSTM32F2STM32F25ZFTX > MCU_ST_STM32F2 : STM32F205ZFTx](#szkmcuststm32f2stm32f25zftx--mcu_st_stm32f2--stm32f205zftx)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: MCU_ST_STM32F2 : STM32F205ZFTx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F2-STM32F205ZFTx](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F2-STM32F205ZFTx)
 - Short Link: [http://oom.lt/SZKMCUSTSTM32F2STM32F25ZFTX](http://oom.lt/SZKMCUSTSTM32F2STM32F25ZFTX)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32F2/STM32F205ZFTx/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32F2/STM32F205ZFTx/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32F2/STM32F205ZFTx/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32F2/STM32F205ZFTx/image.png)|||

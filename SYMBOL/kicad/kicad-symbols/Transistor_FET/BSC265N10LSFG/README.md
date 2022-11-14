@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKTRANSISTORFETBSC265N1LSFG > Transistor_FET : BSC265N10LSFG](#szktransistorfetbsc265n1lsfg--transistor_fet--bsc265n10lsfg)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Transistor_FET : BSC265N10LSFG
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-BSC265N10LSFG](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-BSC265N10LSFG)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETBSC265N1LSFG](http://oom.lt/SZKTRANSISTORFETBSC265N1LSFG)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/BSC265N10LSFG/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/BSC265N10LSFG/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/BSC265N10LSFG/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/BSC265N10LSFG/image.png)|||

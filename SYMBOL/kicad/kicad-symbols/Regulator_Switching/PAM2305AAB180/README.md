@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKREGULATORSWITCHINGPAM235AAB18 > Regulator_Switching : PAM2305AAB180](#szkregulatorswitchingpam235aab18--regulator_switching--pam2305aab180)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Regulator_Switching : PAM2305AAB180
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-PAM2305AAB180](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-PAM2305AAB180)
 - Short Link: [http://oom.lt/SZKREGULATORSWITCHINGPAM235AAB18](http://oom.lt/SZKREGULATORSWITCHINGPAM235AAB18)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/PAM2305AAB180/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/PAM2305AAB180/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/PAM2305AAB180/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/PAM2305AAB180/image.png)|||

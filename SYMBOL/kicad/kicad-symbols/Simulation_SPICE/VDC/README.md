@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKSIMULATIONSPICEVDC > Simulation_SPICE : VDC](#szksimulationspicevdc--simulation_spice--vdc)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Simulation_SPICE : VDC
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Simulation_SPICE-VDC](http://oom.lt/SYMBOL-kicad-kicad-symbols-Simulation_SPICE-VDC)
 - Short Link: [http://oom.lt/SZKSIMULATIONSPICEVDC](http://oom.lt/SZKSIMULATIONSPICEVDC)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Simulation_SPICE/VDC/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Simulation_SPICE/VDC/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Simulation_SPICE/VDC/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Simulation_SPICE/VDC/image.png)|||

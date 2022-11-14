@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKSENMAGNETICSM351LT > Sensor_Magnetic : SM351LT](#szksenmagneticsm351lt--sensor_magnetic--sm351lt)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Sensor_Magnetic : SM351LT
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Magnetic-SM351LT](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Magnetic-SM351LT)
 - Short Link: [http://oom.lt/SZKSENMAGNETICSM351LT](http://oom.lt/SZKSENMAGNETICSM351LT)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Magnetic/SM351LT/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Magnetic/SM351LT/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Magnetic/SM351LT/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Magnetic/SM351LT/image.png)|||

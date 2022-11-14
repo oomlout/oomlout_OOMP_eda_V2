@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKCNBUSISA16BIT > Connector : Bus_ISA_16bit](#szkcnbusisa16bit--connector--bus_isa_16bit)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Connector : Bus_ISA_16bit
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-Bus_ISA_16bit](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-Bus_ISA_16bit)
 - Short Link: [http://oom.lt/SZKCNBUSISA16BIT](http://oom.lt/SZKCNBUSISA16BIT)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/Bus_ISA_16bit/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Bus_ISA_16bit/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/Bus_ISA_16bit/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Bus_ISA_16bit/image.png)|||

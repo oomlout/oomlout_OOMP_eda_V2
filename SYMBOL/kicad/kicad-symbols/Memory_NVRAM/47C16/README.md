@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKMEMORYNVRAM47C16 > Memory_NVRAM : 47C16](#szkmemorynvram47c16--memory_nvram--47c16)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Memory_NVRAM : 47C16
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_NVRAM-47C16](http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_NVRAM-47C16)
 - Short Link: [http://oom.lt/SZKMEMORYNVRAM47C16](http://oom.lt/SZKMEMORYNVRAM47C16)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Memory_NVRAM/47C16/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Memory_NVRAM/47C16/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Memory_NVRAM/47C16/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Memory_NVRAM/47C16/image.png)|||

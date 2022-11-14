@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKISOLATORSFH617A2X6 > Isolator : SFH617A-2X006](#szkisolatorsfh617a2x6--isolator--sfh617a-2x006)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Isolator : SFH617A-2X006
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-SFH617A-2X006](http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-SFH617A-2X006)
 - Short Link: [http://oom.lt/SZKISOLATORSFH617A2X6](http://oom.lt/SZKISOLATORSFH617A2X6)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Isolator/SFH617A-2X006/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Isolator/SFH617A-2X006/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Isolator/SFH617A-2X006/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Isolator/SFH617A-2X006/image.png)|||

@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKAUDIOTDA122 > Audio : TDA1022](#szkaudiotda122--audio--tda1022)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Audio : TDA1022
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Audio-TDA1022](http://oom.lt/SYMBOL-kicad-kicad-symbols-Audio-TDA1022)
 - Short Link: [http://oom.lt/SZKAUDIOTDA122](http://oom.lt/SZKAUDIOTDA122)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Audio/TDA1022/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Audio/TDA1022/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Audio/TDA1022/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Audio/TDA1022/image.png)|||

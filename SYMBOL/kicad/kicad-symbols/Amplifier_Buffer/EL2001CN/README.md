@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKAMPLIFIERBUFFEREL21CN > Amplifier_Buffer : EL2001CN](#szkamplifierbufferel21cn--amplifier_buffer--el2001cn)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Amplifier_Buffer : EL2001CN
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Buffer-EL2001CN](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Buffer-EL2001CN)
 - Short Link: [http://oom.lt/SZKAMPLIFIERBUFFEREL21CN](http://oom.lt/SZKAMPLIFIERBUFFEREL21CN)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Amplifier_Buffer/EL2001CN/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Amplifier_Buffer/EL2001CN/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Amplifier_Buffer/EL2001CN/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Amplifier_Buffer/EL2001CN/image.png)|||

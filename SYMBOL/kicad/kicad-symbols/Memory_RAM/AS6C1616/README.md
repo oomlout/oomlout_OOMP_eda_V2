@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKMEMORYRAMAS6C1616 > Memory_RAM : AS6C1616](#szkmemoryramas6c1616--memory_ram--as6c1616)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Memory_RAM : AS6C1616
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_RAM-AS6C1616](http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_RAM-AS6C1616)
 - Short Link: [http://oom.lt/SZKMEMORYRAMAS6C1616](http://oom.lt/SZKMEMORYRAMAS6C1616)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Memory_RAM/AS6C1616/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Memory_RAM/AS6C1616/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Memory_RAM/AS6C1616/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Memory_RAM/AS6C1616/image.png)|||

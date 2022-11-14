@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKSOINFINEONPGDSO82739X49EP265X3 > Package_SO : Infineon_PG-DSO-8-27_3.9x4.9mm_EP2.65x3mm](#fzksoinfineonpgdso82739x49ep265x3--package_so--infineon_pg-dso-8-27_39x49mm_ep265x3mm)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Package_SO : Infineon_PG-DSO-8-27_3.9x4.9mm_EP2.65x3mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SO-Infineon_PG-DSO-8-27_3.9x4.9mm_EP2.65x3mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SO-Infineon_PG-DSO-8-27_3.9x4.9mm_EP2.65x3mm)
 - Short Link: [http://oom.lt/FZKSOINFINEONPGDSO82739X49EP265X3](http://oom.lt/FZKSOINFINEONPGDSO82739X49EP265X3)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/Infineon_PG-DSO-8-27_3.9x4.9mm_EP2.65x3mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/Infineon_PG-DSO-8-27_3.9x4.9mm_EP2.65x3mm/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/Infineon_PG-DSO-8-27_3.9x4.9mm_EP2.65x3mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/Infineon_PG-DSO-8-27_3.9x4.9mm_EP2.65x3mm/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/Infineon_PG-DSO-8-27_3.9x4.9mm_EP2.65x3mm/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/Infineon_PG-DSO-8-27_3.9x4.9mm_EP2.65x3mm/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/Infineon_PG-DSO-8-27_3.9x4.9mm_EP2.65x3mm/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/Infineon_PG-DSO-8-27_3.9x4.9mm_EP2.65x3mm/kicadPcb3dBack.png)|

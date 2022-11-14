@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKISOLATORSI864BDBIS > Isolator : Si8640BD-B-IS](#szkisolatorsi864bdbis--isolator--si8640bd-b-is)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Isolator : Si8640BD-B-IS
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-Si8640BD-B-IS](http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-Si8640BD-B-IS)
 - Short Link: [http://oom.lt/SZKISOLATORSI864BDBIS](http://oom.lt/SZKISOLATORSI864BDBIS)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Isolator/Si8640BD-B-IS/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Isolator/Si8640BD-B-IS/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Isolator/Si8640BD-B-IS/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Isolator/Si8640BD-B-IS/image.png)|||

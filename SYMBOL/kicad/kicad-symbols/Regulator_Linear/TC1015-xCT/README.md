@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKREGULATORLINEARTC115XCT > Regulator_Linear : TC1015-xCT](#szkregulatorlineartc115xct--regulator_linear--tc1015-xct)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Regulator_Linear : TC1015-xCT
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-TC1015-xCT](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-TC1015-xCT)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARTC115XCT](http://oom.lt/SZKREGULATORLINEARTC115XCT)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/TC1015-xCT/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/TC1015-xCT/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/TC1015-xCT/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/TC1015-xCT/image.png)|||

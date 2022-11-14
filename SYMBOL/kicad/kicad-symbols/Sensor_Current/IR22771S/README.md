@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKSENCURRENTIR22771S > Sensor_Current : IR22771S](#szksencurrentir22771s--sensor_current--ir22771s)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Sensor_Current : IR22771S
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-IR22771S](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-IR22771S)
 - Short Link: [http://oom.lt/SZKSENCURRENTIR22771S](http://oom.lt/SZKSENCURRENTIR22771S)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Current/IR22771S/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Current/IR22771S/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Current/IR22771S/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Current/IR22771S/image.png)|||

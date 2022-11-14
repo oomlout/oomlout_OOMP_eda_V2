@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKSWITCHSWDPDTX2 > Switch : SW_DPDT_x2](#szkswitchswdpdtx2--switch--sw_dpdt_x2)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Switch : SW_DPDT_x2
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Switch-SW_DPDT_x2](http://oom.lt/SYMBOL-kicad-kicad-symbols-Switch-SW_DPDT_x2)
 - Short Link: [http://oom.lt/SZKSWITCHSWDPDTX2](http://oom.lt/SZKSWITCHSWDPDTX2)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Switch/SW_DPDT_x2/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Switch/SW_DPDT_x2/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Switch/SW_DPDT_x2/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Switch/SW_DPDT_x2/image.png)|||

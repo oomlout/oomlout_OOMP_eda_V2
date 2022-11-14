@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKTRANSISTORFETSI4532DY > Transistor_FET : Si4532DY](#szktransistorfetsi4532dy--transistor_fet--si4532dy)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Transistor_FET : Si4532DY
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-Si4532DY](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-Si4532DY)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETSI4532DY](http://oom.lt/SZKTRANSISTORFETSI4532DY)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/Si4532DY/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/Si4532DY/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/Si4532DY/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/Si4532DY/image.png)|||

@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKBGAXILINXFFG1926FFG1927FFG1928FFG193 > Package_BGA : Xilinx_FFG1926_FFG1927_FFG1928_FFG1930](#fzkbgaxilinxffg1926ffg1927ffg1928ffg193--package_bga--xilinx_ffg1926_ffg1927_ffg1928_ffg1930)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Package_BGA : Xilinx_FFG1926_FFG1927_FFG1928_FFG1930
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_BGA-Xilinx_FFG1926_FFG1927_FFG1928_FFG1930](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_BGA-Xilinx_FFG1926_FFG1927_FFG1928_FFG1930)
 - Short Link: [http://oom.lt/FZKBGAXILINXFFG1926FFG1927FFG1928FFG193](http://oom.lt/FZKBGAXILINXFFG1926FFG1927FFG1928FFG193)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_BGA/Xilinx_FFG1926_FFG1927_FFG1928_FFG1930/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_BGA/Xilinx_FFG1926_FFG1927_FFG1928_FFG1930/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_BGA/Xilinx_FFG1926_FFG1927_FFG1928_FFG1930/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_BGA/Xilinx_FFG1926_FFG1927_FFG1928_FFG1930/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_BGA/Xilinx_FFG1926_FFG1927_FFG1928_FFG1930/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_BGA/Xilinx_FFG1926_FFG1927_FFG1928_FFG1930/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_BGA/Xilinx_FFG1926_FFG1927_FFG1928_FFG1930/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_BGA/Xilinx_FFG1926_FFG1927_FFG1928_FFG1930/kicadPcb3dBack.png)|

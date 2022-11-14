@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKINTERFACEUARTADM2483XRW > Interface_UART : ADM2483xRW](#szkinterfaceuartadm2483xrw--interface_uart--adm2483xrw)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Interface_UART : ADM2483xRW
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_UART-ADM2483xRW](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_UART-ADM2483xRW)
 - Short Link: [http://oom.lt/SZKINTERFACEUARTADM2483XRW](http://oom.lt/SZKINTERFACEUARTADM2483XRW)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface_UART/ADM2483xRW/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface_UART/ADM2483xRW/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface_UART/ADM2483xRW/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface_UART/ADM2483xRW/image.png)|||

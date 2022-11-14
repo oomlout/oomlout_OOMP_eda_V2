@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKMEMORYRAM628128DIP32SS32 > Memory_RAM : 628128_DIP32_SSOP32](#szkmemoryram628128dip32ss32--memory_ram--628128_dip32_ssop32)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Memory_RAM : 628128_DIP32_SSOP32
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_RAM-628128_DIP32_SSOP32](http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_RAM-628128_DIP32_SSOP32)
 - Short Link: [http://oom.lt/SZKMEMORYRAM628128DIP32SS32](http://oom.lt/SZKMEMORYRAM628128DIP32SS32)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Memory_RAM/628128_DIP32_SSOP32/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Memory_RAM/628128_DIP32_SSOP32/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Memory_RAM/628128_DIP32_SSOP32/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Memory_RAM/628128_DIP32_SSOP32/image.png)|||

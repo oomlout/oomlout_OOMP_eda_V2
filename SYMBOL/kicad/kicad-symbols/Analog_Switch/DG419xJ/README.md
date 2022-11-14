@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKANALOGSWITCHDG419XJ > Analog_Switch : DG419xJ](#szkanalogswitchdg419xj--analog_switch--dg419xj)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Analog_Switch : DG419xJ
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_Switch-DG419xJ](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_Switch-DG419xJ)
 - Short Link: [http://oom.lt/SZKANALOGSWITCHDG419XJ](http://oom.lt/SZKANALOGSWITCHDG419XJ)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Analog_Switch/DG419xJ/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Analog_Switch/DG419xJ/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Analog_Switch/DG419xJ/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Analog_Switch/DG419xJ/image.png)|||

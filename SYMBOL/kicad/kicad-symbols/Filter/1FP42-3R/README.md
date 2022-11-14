@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKFIL1FP423R > Filter : 1FP42-3R](#szkfil1fp423r--filter--1fp42-3r)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Filter : 1FP42-3R
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Filter-1FP42-3R](http://oom.lt/SYMBOL-kicad-kicad-symbols-Filter-1FP42-3R)
 - Short Link: [http://oom.lt/SZKFIL1FP423R](http://oom.lt/SZKFIL1FP423R)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Filter/1FP42-3R/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Filter/1FP42-3R/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Filter/1FP42-3R/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Filter/1FP42-3R/image.png)|||

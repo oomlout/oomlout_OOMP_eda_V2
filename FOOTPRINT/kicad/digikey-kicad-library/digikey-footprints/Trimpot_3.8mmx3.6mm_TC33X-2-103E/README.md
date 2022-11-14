@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSTRIMPOT38X36TC33X213E > digikey-footprints : Trimpot_3.8mmx3.6mm_TC33X-2-103E](#fzkicaddigikeykicadlibrarydigikeyfootprintstrimpot38x36tc33x213e--digikey-footprints--trimpot_38mmx36mm_tc33x-2-103e)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: digikey-footprints : Trimpot_3.8mmx3.6mm_TC33X-2-103E
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Trimpot_3.8mmx3.6mm_TC33X-2-103E](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Trimpot_3.8mmx3.6mm_TC33X-2-103E)
 - Short Link: [http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSTRIMPOT38X36TC33X213E](http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSTRIMPOT38X36TC33X213E)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Trimpot_3.8mmx3.6mm_TC33X-2-103E/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Trimpot_3.8mmx3.6mm_TC33X-2-103E/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Trimpot_3.8mmx3.6mm_TC33X-2-103E/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Trimpot_3.8mmx3.6mm_TC33X-2-103E/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Trimpot_3.8mmx3.6mm_TC33X-2-103E/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Trimpot_3.8mmx3.6mm_TC33X-2-103E/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Trimpot_3.8mmx3.6mm_TC33X-2-103E/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Trimpot_3.8mmx3.6mm_TC33X-2-103E/kicadPcb3dBack.png)|

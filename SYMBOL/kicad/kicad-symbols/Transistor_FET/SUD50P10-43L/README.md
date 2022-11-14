@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKTRANSISTORFETSUD5P143L > Transistor_FET : SUD50P10-43L](#szktransistorfetsud5p143l--transistor_fet--sud50p10-43l)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Transistor_FET : SUD50P10-43L
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-SUD50P10-43L](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-SUD50P10-43L)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETSUD5P143L](http://oom.lt/SZKTRANSISTORFETSUD5P143L)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/SUD50P10-43L/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/SUD50P10-43L/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/SUD50P10-43L/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/SUD50P10-43L/image.png)|||

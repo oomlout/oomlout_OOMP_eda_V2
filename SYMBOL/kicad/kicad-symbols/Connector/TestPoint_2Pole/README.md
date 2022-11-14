@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKCNTP2POLE > Connector : TestPoint_2Pole](#szkcntp2pole--connector--testpoint_2pole)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Connector : TestPoint_2Pole
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-TestPoint_2Pole](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-TestPoint_2Pole)
 - Short Link: [http://oom.lt/SZKCNTP2POLE](http://oom.lt/SZKCNTP2POLE)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/TestPoint_2Pole/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/TestPoint_2Pole/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/TestPoint_2Pole/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/TestPoint_2Pole/image.png)|||

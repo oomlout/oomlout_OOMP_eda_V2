@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKOCSNB3N52 > Oscillator : NB3N502](#szkocsnb3n52--oscillator--nb3n502)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Oscillator : NB3N502
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Oscillator-NB3N502](http://oom.lt/SYMBOL-kicad-kicad-symbols-Oscillator-NB3N502)
 - Short Link: [http://oom.lt/SZKOCSNB3N52](http://oom.lt/SZKOCSNB3N52)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Oscillator/NB3N502/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Oscillator/NB3N502/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Oscillator/NB3N502/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Oscillator/NB3N502/image.png)|||

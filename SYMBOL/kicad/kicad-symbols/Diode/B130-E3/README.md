@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDIODEB13E3 > Diode : B130-E3](#szkdiodeb13e3--diode--b130-e3)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Diode : B130-E3
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-B130-E3](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-B130-E3)
 - Short Link: [http://oom.lt/SZKDIODEB13E3](http://oom.lt/SZKDIODEB13E3)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Diode/B130-E3/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Diode/B130-E3/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Diode/B130-E3/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Diode/B130-E3/image.png)|||

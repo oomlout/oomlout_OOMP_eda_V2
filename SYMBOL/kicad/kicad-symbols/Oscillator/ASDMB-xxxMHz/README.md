@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKOCSASDMBXXXMHZ > Oscillator : ASDMB-xxxMHz](#szkocsasdmbxxxmhz--oscillator--asdmb-xxxmhz)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Oscillator : ASDMB-xxxMHz
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Oscillator-ASDMB-xxxMHz](http://oom.lt/SYMBOL-kicad-kicad-symbols-Oscillator-ASDMB-xxxMHz)
 - Short Link: [http://oom.lt/SZKOCSASDMBXXXMHZ](http://oom.lt/SZKOCSASDMBXXXMHZ)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Oscillator/ASDMB-xxxMHz/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Oscillator/ASDMB-xxxMHz/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Oscillator/ASDMB-xxxMHz/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Oscillator/ASDMB-xxxMHz/image.png)|||

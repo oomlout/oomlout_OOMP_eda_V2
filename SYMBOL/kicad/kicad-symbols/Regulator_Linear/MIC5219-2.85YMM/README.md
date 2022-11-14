@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKREGULATORLINEARMIC5219285Y > Regulator_Linear : MIC5219-2.85YMM](#szkregulatorlinearmic5219285y--regulator_linear--mic5219-285ymm)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Regulator_Linear : MIC5219-2.85YMM
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-MIC5219-2.85YMM](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-MIC5219-2.85YMM)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARMIC5219285Y](http://oom.lt/SZKREGULATORLINEARMIC5219285Y)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/MIC5219-2.85YMM/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/MIC5219-2.85YMM/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/MIC5219-2.85YMM/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/MIC5219-2.85YMM/image.png)|||

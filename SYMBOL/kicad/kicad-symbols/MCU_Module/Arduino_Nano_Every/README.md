@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKMCUMOARDNANOEVERY > MCU_Module : Arduino_Nano_Every](#szkmcumoardnanoevery--mcu_module--arduino_nano_every)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: MCU_Module : Arduino_Nano_Every
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Module-Arduino_Nano_Every](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Module-Arduino_Nano_Every)
 - Short Link: [http://oom.lt/SZKMCUMOARDNANOEVERY](http://oom.lt/SZKMCUMOARDNANOEVERY)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Module/Arduino_Nano_Every/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Module/Arduino_Nano_Every/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Module/Arduino_Nano_Every/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Module/Arduino_Nano_Every/image.png)|||

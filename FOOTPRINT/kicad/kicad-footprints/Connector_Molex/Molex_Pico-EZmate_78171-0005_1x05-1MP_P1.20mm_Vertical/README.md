@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKCNMXMXPICOEZMATE7817151X51MPP12VERTICAL > Connector_Molex : Molex_Pico-EZmate_78171-0005_1x05-1MP_P1.20mm_Vertical](#fzkcnmxmxpicoezmate7817151x51mpp12vertical--connector_molex--molex_pico-ezmate_78171-0005_1x05-1mp_p120mm_vertical)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Connector_Molex : Molex_Pico-EZmate_78171-0005_1x05-1MP_P1.20mm_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_Pico-EZmate_78171-0005_1x05-1MP_P1.20mm_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_Pico-EZmate_78171-0005_1x05-1MP_P1.20mm_Vertical)
 - Short Link: [http://oom.lt/FZKCNMXMXPICOEZMATE7817151X51MPP12VERTICAL](http://oom.lt/FZKCNMXMXPICOEZMATE7817151X51MPP12VERTICAL)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_Pico-EZmate_78171-0005_1x05-1MP_P1.20mm_Vertical/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_Pico-EZmate_78171-0005_1x05-1MP_P1.20mm_Vertical/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_Pico-EZmate_78171-0005_1x05-1MP_P1.20mm_Vertical/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_Pico-EZmate_78171-0005_1x05-1MP_P1.20mm_Vertical/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_Pico-EZmate_78171-0005_1x05-1MP_P1.20mm_Vertical/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_Pico-EZmate_78171-0005_1x05-1MP_P1.20mm_Vertical/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_Pico-EZmate_78171-0005_1x05-1MP_P1.20mm_Vertical/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_Pico-EZmate_78171-0005_1x05-1MP_P1.20mm_Vertical/kicadPcb3dBack.png)|

@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDIODEDSB5712 > Diode : DSB5712](#szkdiodedsb5712--diode--dsb5712)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Diode : DSB5712
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-DSB5712](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-DSB5712)
 - Short Link: [http://oom.lt/SZKDIODEDSB5712](http://oom.lt/SZKDIODEDSB5712)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Diode/DSB5712/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Diode/DSB5712/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Diode/DSB5712/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Diode/DSB5712/image.png)|||

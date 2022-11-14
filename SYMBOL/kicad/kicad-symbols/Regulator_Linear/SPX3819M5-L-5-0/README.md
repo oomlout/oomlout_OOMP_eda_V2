@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKREGULATORLINEARSPX3819M5L5 > Regulator_Linear : SPX3819M5-L-5-0](#szkregulatorlinearspx3819m5l5--regulator_linear--spx3819m5-l-5-0)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Regulator_Linear : SPX3819M5-L-5-0
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-SPX3819M5-L-5-0](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-SPX3819M5-L-5-0)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARSPX3819M5L5](http://oom.lt/SZKREGULATORLINEARSPX3819M5L5)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/SPX3819M5-L-5-0/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/SPX3819M5-L-5-0/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/SPX3819M5-L-5-0/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/SPX3819M5-L-5-0/image.png)|||

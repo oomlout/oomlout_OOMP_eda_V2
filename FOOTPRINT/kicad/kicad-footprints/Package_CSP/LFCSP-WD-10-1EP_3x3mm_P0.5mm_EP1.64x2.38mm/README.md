@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKCSPLFCSPWD11EP3X3P5EP164X238 > Package_CSP : LFCSP-WD-10-1EP_3x3mm_P0.5mm_EP1.64x2.38mm](#fzkcsplfcspwd11ep3x3p5ep164x238--package_csp--lfcsp-wd-10-1ep_3x3mm_p05mm_ep164x238mm)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Package_CSP : LFCSP-WD-10-1EP_3x3mm_P0.5mm_EP1.64x2.38mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_CSP-LFCSP-WD-10-1EP_3x3mm_P0.5mm_EP1.64x2.38mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_CSP-LFCSP-WD-10-1EP_3x3mm_P0.5mm_EP1.64x2.38mm)
 - Short Link: [http://oom.lt/FZKCSPLFCSPWD11EP3X3P5EP164X238](http://oom.lt/FZKCSPLFCSPWD11EP3X3P5EP164X238)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_CSP/LFCSP-WD-10-1EP_3x3mm_P0.5mm_EP1.64x2.38mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_CSP/LFCSP-WD-10-1EP_3x3mm_P0.5mm_EP1.64x2.38mm/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_CSP/LFCSP-WD-10-1EP_3x3mm_P0.5mm_EP1.64x2.38mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_CSP/LFCSP-WD-10-1EP_3x3mm_P0.5mm_EP1.64x2.38mm/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_CSP/LFCSP-WD-10-1EP_3x3mm_P0.5mm_EP1.64x2.38mm/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_CSP/LFCSP-WD-10-1EP_3x3mm_P0.5mm_EP1.64x2.38mm/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_CSP/LFCSP-WD-10-1EP_3x3mm_P0.5mm_EP1.64x2.38mm/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_CSP/LFCSP-WD-10-1EP_3x3mm_P0.5mm_EP1.64x2.38mm/kicadPcb3dBack.png)|

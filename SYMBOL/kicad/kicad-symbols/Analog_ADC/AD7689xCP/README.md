@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKANALOGADCAD7689XCP > Analog_ADC : AD7689xCP](#szkanalogadcad7689xcp--analog_adc--ad7689xcp)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Analog_ADC : AD7689xCP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-AD7689xCP](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-AD7689xCP)
 - Short Link: [http://oom.lt/SZKANALOGADCAD7689XCP](http://oom.lt/SZKANALOGADCAD7689XCP)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Analog_ADC/AD7689xCP/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Analog_ADC/AD7689xCP/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Analog_ADC/AD7689xCP/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Analog_ADC/AD7689xCP/image.png)|||

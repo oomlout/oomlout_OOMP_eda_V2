@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKINTERFACEUFSU42MUX > Interface_USB : FSUSB42MUX](#szkinterfaceufsu42mux--interface_usb--fsusb42mux)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Interface_USB : FSUSB42MUX
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_USB-FSUSB42MUX](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_USB-FSUSB42MUX)
 - Short Link: [http://oom.lt/SZKINTERFACEUFSU42MUX](http://oom.lt/SZKINTERFACEUFSU42MUX)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface_USB/FSUSB42MUX/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface_USB/FSUSB42MUX/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface_USB/FSUSB42MUX/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface_USB/FSUSB42MUX/image.png)|||

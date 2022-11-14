@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKAUDIOAD1955 > Audio : AD1955](#szkaudioad1955--audio--ad1955)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Audio : AD1955
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Audio-AD1955](http://oom.lt/SYMBOL-kicad-kicad-symbols-Audio-AD1955)
 - Short Link: [http://oom.lt/SZKAUDIOAD1955](http://oom.lt/SZKAUDIOAD1955)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Audio/AD1955/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Audio/AD1955/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Audio/AD1955/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Audio/AD1955/image.png)|||

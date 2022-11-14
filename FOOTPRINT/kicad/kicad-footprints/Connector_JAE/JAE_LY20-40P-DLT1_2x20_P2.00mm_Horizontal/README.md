@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKCNJAEJAELY24PDLT12X2P2HORIZONTAL > Connector_JAE : JAE_LY20-40P-DLT1_2x20_P2.00mm_Horizontal](#fzkcnjaejaely24pdlt12x2p2horizontal--connector_jae--jae_ly20-40p-dlt1_2x20_p200mm_horizontal)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Connector_JAE : JAE_LY20-40P-DLT1_2x20_P2.00mm_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_JAE-JAE_LY20-40P-DLT1_2x20_P2.00mm_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_JAE-JAE_LY20-40P-DLT1_2x20_P2.00mm_Horizontal)
 - Short Link: [http://oom.lt/FZKCNJAEJAELY24PDLT12X2P2HORIZONTAL](http://oom.lt/FZKCNJAEJAELY24PDLT12X2P2HORIZONTAL)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_JAE/JAE_LY20-40P-DLT1_2x20_P2.00mm_Horizontal/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_JAE/JAE_LY20-40P-DLT1_2x20_P2.00mm_Horizontal/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_JAE/JAE_LY20-40P-DLT1_2x20_P2.00mm_Horizontal/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_JAE/JAE_LY20-40P-DLT1_2x20_P2.00mm_Horizontal/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_JAE/JAE_LY20-40P-DLT1_2x20_P2.00mm_Horizontal/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_JAE/JAE_LY20-40P-DLT1_2x20_P2.00mm_Horizontal/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_JAE/JAE_LY20-40P-DLT1_2x20_P2.00mm_Horizontal/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_JAE/JAE_LY20-40P-DLT1_2x20_P2.00mm_Horizontal/kicadPcb3dBack.png)|

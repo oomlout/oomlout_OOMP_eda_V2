@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKCOMPARATORLMV339 > Comparator : LMV339](#szkcomparatorlmv339--comparator--lmv339)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Comparator : LMV339
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Comparator-LMV339](http://oom.lt/SYMBOL-kicad-kicad-symbols-Comparator-LMV339)
 - Short Link: [http://oom.lt/SZKCOMPARATORLMV339](http://oom.lt/SZKCOMPARATORLMV339)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Comparator/LMV339/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Comparator/LMV339/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Comparator/LMV339/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Comparator/LMV339/image.png)|||

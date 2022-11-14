@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKMOTORMOTORSERVOFUTABAJ > Motor : Motor_Servo_Futaba_J](#szkmotormotorservofutabaj--motor--motor_servo_futaba_j)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Motor : Motor_Servo_Futaba_J
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Motor-Motor_Servo_Futaba_J](http://oom.lt/SYMBOL-kicad-kicad-symbols-Motor-Motor_Servo_Futaba_J)
 - Short Link: [http://oom.lt/SZKMOTORMOTORSERVOFUTABAJ](http://oom.lt/SZKMOTORMOTORSERVOFUTABAJ)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Motor/Motor_Servo_Futaba_J/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Motor/Motor_Servo_Futaba_J/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Motor/Motor_Servo_Futaba_J/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Motor/Motor_Servo_Futaba_J/image.png)|||

@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKREGULATORLINEARTCR2EE25 > Regulator_Linear : TCR2EE25](#szkregulatorlineartcr2ee25--regulator_linear--tcr2ee25)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Regulator_Linear : TCR2EE25
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-TCR2EE25](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-TCR2EE25)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARTCR2EE25](http://oom.lt/SZKREGULATORLINEARTCR2EE25)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/TCR2EE25/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/TCR2EE25/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/TCR2EE25/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/TCR2EE25/image.png)|||

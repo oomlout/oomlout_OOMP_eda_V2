@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKTRANSISTORFETIGT4R7D1E822 > Transistor_FET : IGT40R070D1_E8220](#szktransistorfetigt4r7d1e822--transistor_fet--igt40r070d1_e8220)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Transistor_FET : IGT40R070D1_E8220
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IGT40R070D1_E8220](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IGT40R070D1_E8220)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETIGT4R7D1E822](http://oom.lt/SZKTRANSISTORFETIGT4R7D1E822)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/IGT40R070D1_E8220/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/IGT40R070D1_E8220/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/IGT40R070D1_E8220/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/IGT40R070D1_E8220/image.png)|||

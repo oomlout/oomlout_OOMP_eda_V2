@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKXXSMFOXFE2PIN75X5 > Crystal : Crystal_SMD_FOX_FE-2Pin_7.5x5.0mm](#fzkxxsmfoxfe2pin75x5--crystal--crystal_smd_fox_fe-2pin_75x50mm)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Crystal : Crystal_SMD_FOX_FE-2Pin_7.5x5.0mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_SMD_FOX_FE-2Pin_7.5x5.0mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_SMD_FOX_FE-2Pin_7.5x5.0mm)
 - Short Link: [http://oom.lt/FZKXXSMFOXFE2PIN75X5](http://oom.lt/FZKXXSMFOXFE2PIN75X5)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_SMD_FOX_FE-2Pin_7.5x5.0mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_SMD_FOX_FE-2Pin_7.5x5.0mm/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_SMD_FOX_FE-2Pin_7.5x5.0mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_SMD_FOX_FE-2Pin_7.5x5.0mm/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_SMD_FOX_FE-2Pin_7.5x5.0mm/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_SMD_FOX_FE-2Pin_7.5x5.0mm/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_SMD_FOX_FE-2Pin_7.5x5.0mm/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_SMD_FOX_FE-2Pin_7.5x5.0mm/kicadPcb3dBack.png)|

@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKBSWITCHSMSWPUSH1P1TMPNOHORIZONTALALPSSKRTLAE1 > Button_Switch_SMD : SW_Push_1P1T-MP_NO_Horizontal_Alps_SKRTLAE010](#fzkbswitchsmswpush1p1tmpnohorizontalalpsskrtlae1--button_switch_smd--sw_push_1p1t-mp_no_horizontal_alps_skrtlae010)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Button_Switch_SMD : SW_Push_1P1T-MP_NO_Horizontal_Alps_SKRTLAE010
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-SW_Push_1P1T-MP_NO_Horizontal_Alps_SKRTLAE010](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-SW_Push_1P1T-MP_NO_Horizontal_Alps_SKRTLAE010)
 - Short Link: [http://oom.lt/FZKBSWITCHSMSWPUSH1P1TMPNOHORIZONTALALPSSKRTLAE1](http://oom.lt/FZKBSWITCHSMSWPUSH1P1TMPNOHORIZONTALALPSSKRTLAE1)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_SMD/SW_Push_1P1T-MP_NO_Horizontal_Alps_SKRTLAE010/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_SMD/SW_Push_1P1T-MP_NO_Horizontal_Alps_SKRTLAE010/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_SMD/SW_Push_1P1T-MP_NO_Horizontal_Alps_SKRTLAE010/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_SMD/SW_Push_1P1T-MP_NO_Horizontal_Alps_SKRTLAE010/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_SMD/SW_Push_1P1T-MP_NO_Horizontal_Alps_SKRTLAE010/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_SMD/SW_Push_1P1T-MP_NO_Horizontal_Alps_SKRTLAE010/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_SMD/SW_Push_1P1T-MP_NO_Horizontal_Alps_SKRTLAE010/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_SMD/SW_Push_1P1T-MP_NO_Horizontal_Alps_SKRTLAE010/kicadPcb3dBack.png)|

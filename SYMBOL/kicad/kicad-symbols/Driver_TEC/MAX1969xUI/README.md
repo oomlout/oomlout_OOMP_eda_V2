@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDRIVERTECMAX1969XUI > Driver_TEC : MAX1969xUI](#szkdrivertecmax1969xui--driver_tec--max1969xui)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Driver_TEC : MAX1969xUI
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_TEC-MAX1969xUI](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_TEC-MAX1969xUI)
 - Short Link: [http://oom.lt/SZKDRIVERTECMAX1969XUI](http://oom.lt/SZKDRIVERTECMAX1969XUI)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Driver_TEC/MAX1969xUI/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Driver_TEC/MAX1969xUI/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Driver_TEC/MAX1969xUI/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Driver_TEC/MAX1969xUI/image.png)|||

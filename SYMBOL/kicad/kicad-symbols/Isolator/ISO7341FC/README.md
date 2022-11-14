@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKISOLATORISO7341FC > Isolator : ISO7341FC](#szkisolatoriso7341fc--isolator--iso7341fc)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Isolator : ISO7341FC
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-ISO7341FC](http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-ISO7341FC)
 - Short Link: [http://oom.lt/SZKISOLATORISO7341FC](http://oom.lt/SZKISOLATORISO7341FC)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Isolator/ISO7341FC/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Isolator/ISO7341FC/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Isolator/ISO7341FC/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Isolator/ISO7341FC/image.png)|||

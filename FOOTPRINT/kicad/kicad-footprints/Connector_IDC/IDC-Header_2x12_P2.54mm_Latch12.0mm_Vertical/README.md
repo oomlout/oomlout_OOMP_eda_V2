@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKCNIDCIDCHEADER2X12P254LATCH12VERTICAL > Connector_IDC : IDC-Header_2x12_P2.54mm_Latch12.0mm_Vertical](#fzkcnidcidcheader2x12p254latch12vertical--connector_idc--idc-header_2x12_p254mm_latch120mm_vertical)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Connector_IDC : IDC-Header_2x12_P2.54mm_Latch12.0mm_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_IDC-IDC-Header_2x12_P2.54mm_Latch12.0mm_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_IDC-IDC-Header_2x12_P2.54mm_Latch12.0mm_Vertical)
 - Short Link: [http://oom.lt/FZKCNIDCIDCHEADER2X12P254LATCH12VERTICAL](http://oom.lt/FZKCNIDCIDCHEADER2X12P254LATCH12VERTICAL)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_IDC/IDC-Header_2x12_P2.54mm_Latch12.0mm_Vertical/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_IDC/IDC-Header_2x12_P2.54mm_Latch12.0mm_Vertical/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_IDC/IDC-Header_2x12_P2.54mm_Latch12.0mm_Vertical/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_IDC/IDC-Header_2x12_P2.54mm_Latch12.0mm_Vertical/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_IDC/IDC-Header_2x12_P2.54mm_Latch12.0mm_Vertical/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_IDC/IDC-Header_2x12_P2.54mm_Latch12.0mm_Vertical/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_IDC/IDC-Header_2x12_P2.54mm_Latch12.0mm_Vertical/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_IDC/IDC-Header_2x12_P2.54mm_Latch12.0mm_Vertical/kicadPcb3dBack.png)|

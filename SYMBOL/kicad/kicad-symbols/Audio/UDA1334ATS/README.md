@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKAUDIOUDA1334ATS > Audio : UDA1334ATS](#szkaudiouda1334ats--audio--uda1334ats)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Audio : UDA1334ATS
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Audio-UDA1334ATS](http://oom.lt/SYMBOL-kicad-kicad-symbols-Audio-UDA1334ATS)
 - Short Link: [http://oom.lt/SZKAUDIOUDA1334ATS](http://oom.lt/SZKAUDIOUDA1334ATS)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Audio/UDA1334ATS/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Audio/UDA1334ATS/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Audio/UDA1334ATS/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Audio/UDA1334ATS/image.png)|||

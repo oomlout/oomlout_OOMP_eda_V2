@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKANALOGADCICL717CPL > Analog_ADC : ICL7107CPL](#szkanalogadcicl717cpl--analog_adc--icl7107cpl)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Analog_ADC : ICL7107CPL
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-ICL7107CPL](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-ICL7107CPL)
 - Short Link: [http://oom.lt/SZKANALOGADCICL717CPL](http://oom.lt/SZKANALOGADCICL717CPL)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Analog_ADC/ICL7107CPL/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Analog_ADC/ICL7107CPL/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Analog_ADC/ICL7107CPL/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Analog_ADC/ICL7107CPL/image.png)|||

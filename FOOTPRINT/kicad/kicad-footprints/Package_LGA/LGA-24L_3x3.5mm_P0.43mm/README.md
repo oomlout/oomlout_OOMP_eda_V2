@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKLGALGA24L3X35P43 > Package_LGA : LGA-24L_3x3.5mm_P0.43mm](#fzklgalga24l3x35p43--package_lga--lga-24l_3x35mm_p043mm)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Package_LGA : LGA-24L_3x3.5mm_P0.43mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_LGA-LGA-24L_3x3.5mm_P0.43mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_LGA-LGA-24L_3x3.5mm_P0.43mm)
 - Short Link: [http://oom.lt/FZKLGALGA24L3X35P43](http://oom.lt/FZKLGALGA24L3X35P43)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_LGA/LGA-24L_3x3.5mm_P0.43mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_LGA/LGA-24L_3x3.5mm_P0.43mm/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_LGA/LGA-24L_3x3.5mm_P0.43mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_LGA/LGA-24L_3x3.5mm_P0.43mm/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_LGA/LGA-24L_3x3.5mm_P0.43mm/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_LGA/LGA-24L_3x3.5mm_P0.43mm/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_LGA/LGA-24L_3x3.5mm_P0.43mm/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_LGA/LGA-24L_3x3.5mm_P0.43mm/kicadPcb3dBack.png)|

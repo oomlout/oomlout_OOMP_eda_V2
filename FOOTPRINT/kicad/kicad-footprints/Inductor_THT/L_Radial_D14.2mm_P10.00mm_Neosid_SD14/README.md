@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKINLRD142P1NEOSIDSD14 > Inductor_THT : L_Radial_D14.2mm_P10.00mm_Neosid_SD14](#fzkinlrd142p1neosidsd14--inductor_tht--l_radial_d142mm_p1000mm_neosid_sd14)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Inductor_THT : L_Radial_D14.2mm_P10.00mm_Neosid_SD14
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Radial_D14.2mm_P10.00mm_Neosid_SD14](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Radial_D14.2mm_P10.00mm_Neosid_SD14)
 - Short Link: [http://oom.lt/FZKINLRD142P1NEOSIDSD14](http://oom.lt/FZKINLRD142P1NEOSIDSD14)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Radial_D14.2mm_P10.00mm_Neosid_SD14/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Radial_D14.2mm_P10.00mm_Neosid_SD14/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Radial_D14.2mm_P10.00mm_Neosid_SD14/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Radial_D14.2mm_P10.00mm_Neosid_SD14/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Radial_D14.2mm_P10.00mm_Neosid_SD14/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Radial_D14.2mm_P10.00mm_Neosid_SD14/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Radial_D14.2mm_P10.00mm_Neosid_SD14/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Radial_D14.2mm_P10.00mm_Neosid_SD14/kicadPcb3dBack.png)|

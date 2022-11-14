@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKMEMORYRAMIDT71V6593S > Memory_RAM : IDT71V65903S](#szkmemoryramidt71v6593s--memory_ram--idt71v65903s)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Memory_RAM : IDT71V65903S
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_RAM-IDT71V65903S](http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_RAM-IDT71V65903S)
 - Short Link: [http://oom.lt/SZKMEMORYRAMIDT71V6593S](http://oom.lt/SZKMEMORYRAMIDT71V6593S)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Memory_RAM/IDT71V65903S/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Memory_RAM/IDT71V65903S/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Memory_RAM/IDT71V65903S/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Memory_RAM/IDT71V65903S/image.png)|||

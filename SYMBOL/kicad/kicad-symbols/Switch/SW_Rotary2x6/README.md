@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKSWITCHSWROTARY2X6 > Switch : SW_Rotary2x6](#szkswitchswrotary2x6--switch--sw_rotary2x6)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Switch : SW_Rotary2x6
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Switch-SW_Rotary2x6](http://oom.lt/SYMBOL-kicad-kicad-symbols-Switch-SW_Rotary2x6)
 - Short Link: [http://oom.lt/SZKSWITCHSWROTARY2X6](http://oom.lt/SZKSWITCHSWROTARY2X6)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Switch/SW_Rotary2x6/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Switch/SW_Rotary2x6/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Switch/SW_Rotary2x6/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Switch/SW_Rotary2x6/image.png)|||

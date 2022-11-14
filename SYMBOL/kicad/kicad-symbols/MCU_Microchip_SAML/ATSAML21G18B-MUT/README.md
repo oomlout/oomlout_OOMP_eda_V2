@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKMCUMCHIPSAMLATSAML21G18BMUT > MCU_Microchip_SAML : ATSAML21G18B-MUT](#szkmcumchipsamlatsaml21g18bmut--mcu_microchip_saml--atsaml21g18b-mut)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: MCU_Microchip_SAML : ATSAML21G18B-MUT
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_SAML-ATSAML21G18B-MUT](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_SAML-ATSAML21G18B-MUT)
 - Short Link: [http://oom.lt/SZKMCUMCHIPSAMLATSAML21G18BMUT](http://oom.lt/SZKMCUMCHIPSAMLATSAML21G18BMUT)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_SAML/ATSAML21G18B-MUT/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_SAML/ATSAML21G18B-MUT/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_SAML/ATSAML21G18B-MUT/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_SAML/ATSAML21G18B-MUT/image.png)|||

@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKINTERFACECANLINISO15DUB > Interface_CAN_LIN : ISO1050DUB](#szkinterfacecanliniso15dub--interface_can_lin--iso1050dub)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Interface_CAN_LIN : ISO1050DUB
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_CAN_LIN-ISO1050DUB](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_CAN_LIN-ISO1050DUB)
 - Short Link: [http://oom.lt/SZKINTERFACECANLINISO15DUB](http://oom.lt/SZKINTERFACECANLINISO15DUB)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface_CAN_LIN/ISO1050DUB/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface_CAN_LIN/ISO1050DUB/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface_CAN_LIN/ISO1050DUB/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface_CAN_LIN/ISO1050DUB/image.png)|||

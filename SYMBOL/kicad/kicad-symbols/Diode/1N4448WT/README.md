@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDIODE1N4448WT > Diode : 1N4448WT](#szkdiode1n4448wt--diode--1n4448wt)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Diode : 1N4448WT
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-1N4448WT](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-1N4448WT)
 - Short Link: [http://oom.lt/SZKDIODE1N4448WT](http://oom.lt/SZKDIODE1N4448WT)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Diode/1N4448WT/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Diode/1N4448WT/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Diode/1N4448WT/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Diode/1N4448WT/image.png)|||

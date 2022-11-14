@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDIODEBRIDGEB38R > Diode_Bridge : B380R](#szkdiodebridgeb38r--diode_bridge--b380r)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Diode_Bridge : B380R
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode_Bridge-B380R](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode_Bridge-B380R)
 - Short Link: [http://oom.lt/SZKDIODEBRIDGEB38R](http://oom.lt/SZKDIODEBRIDGEB38R)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Diode_Bridge/B380R/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Diode_Bridge/B380R/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Diode_Bridge/B380R/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Diode_Bridge/B380R/image.png)|||

@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKGRAPHICSYMMAGNETSLL > Graphic : SYM_Magnet_Small](#szkgraphicsymmagnetsll--graphic--sym_magnet_small)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Graphic : SYM_Magnet_Small
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Graphic-SYM_Magnet_Small](http://oom.lt/SYMBOL-kicad-kicad-symbols-Graphic-SYM_Magnet_Small)
 - Short Link: [http://oom.lt/SZKGRAPHICSYMMAGNETSLL](http://oom.lt/SZKGRAPHICSYMMAGNETSLL)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Graphic/SYM_Magnet_Small/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Graphic/SYM_Magnet_Small/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Graphic/SYM_Magnet_Small/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Graphic/SYM_Magnet_Small/image.png)|||

@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKREGULATORSWITCHINGTPS63Q1 > Regulator_Switching : TPS63000-Q1](#szkregulatorswitchingtps63q1--regulator_switching--tps63000-q1)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Regulator_Switching : TPS63000-Q1
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS63000-Q1](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS63000-Q1)
 - Short Link: [http://oom.lt/SZKREGULATORSWITCHINGTPS63Q1](http://oom.lt/SZKREGULATORSWITCHINGTPS63Q1)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/TPS63000-Q1/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/TPS63000-Q1/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/TPS63000-Q1/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/TPS63000-Q1/image.png)|||

@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKCONIRM612 > Converter_ACDC : IRM-60-12](#szkconirm612--converter_acdc--irm-60-12)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Converter_ACDC : IRM-60-12
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_ACDC-IRM-60-12](http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_ACDC-IRM-60-12)
 - Short Link: [http://oom.lt/SZKCONIRM612](http://oom.lt/SZKCONIRM612)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Converter_ACDC/IRM-60-12/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Converter_ACDC/IRM-60-12/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Converter_ACDC/IRM-60-12/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Converter_ACDC/IRM-60-12/image.png)|||

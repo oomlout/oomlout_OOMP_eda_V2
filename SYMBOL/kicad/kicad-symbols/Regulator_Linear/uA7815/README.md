@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKREGULATORLINEARUA7815 > Regulator_Linear : uA7815](#szkregulatorlinearua7815--regulator_linear--ua7815)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Regulator_Linear : uA7815
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-uA7815](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-uA7815)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARUA7815](http://oom.lt/SZKREGULATORLINEARUA7815)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/uA7815/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/uA7815/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/uA7815/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/uA7815/image.png)|||

@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKSENCURRENTCQ265 > Sensor_Current : CQ-2065](#szksencurrentcq265--sensor_current--cq-2065)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Sensor_Current : CQ-2065
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-CQ-2065](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-CQ-2065)
 - Short Link: [http://oom.lt/SZKSENCURRENTCQ265](http://oom.lt/SZKSENCURRENTCQ265)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Current/CQ-2065/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Current/CQ-2065/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Current/CQ-2065/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Current/CQ-2065/image.png)|||

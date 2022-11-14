@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKSENOPTICALAPDS931 > Sensor_Optical : APDS-9301](#szksenopticalapds931--sensor_optical--apds-9301)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Sensor_Optical : APDS-9301
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Optical-APDS-9301](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Optical-APDS-9301)
 - Short Link: [http://oom.lt/SZKSENOPTICALAPDS931](http://oom.lt/SZKSENOPTICALAPDS931)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Optical/APDS-9301/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Optical/APDS-9301/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Optical/APDS-9301/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Optical/APDS-9301/image.png)|||

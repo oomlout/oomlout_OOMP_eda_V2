@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKCNUCRECEPTACLE > Connector : USB_C_Receptacle](#szkcnucreceptacle--connector--usb_c_receptacle)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Connector : USB_C_Receptacle
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-USB_C_Receptacle](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-USB_C_Receptacle)
 - Short Link: [http://oom.lt/SZKCNUCRECEPTACLE](http://oom.lt/SZKCNUCRECEPTACLE)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/USB_C_Receptacle/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/USB_C_Receptacle/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/USB_C_Receptacle/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/USB_C_Receptacle/image.png)|||

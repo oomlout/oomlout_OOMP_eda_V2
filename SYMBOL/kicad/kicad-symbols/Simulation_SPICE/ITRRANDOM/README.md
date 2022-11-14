@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKSIMULATIONSPICEITRRANDOM > Simulation_SPICE : ITRRANDOM](#szksimulationspiceitrrandom--simulation_spice--itrrandom)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Simulation_SPICE : ITRRANDOM
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Simulation_SPICE-ITRRANDOM](http://oom.lt/SYMBOL-kicad-kicad-symbols-Simulation_SPICE-ITRRANDOM)
 - Short Link: [http://oom.lt/SZKSIMULATIONSPICEITRRANDOM](http://oom.lt/SZKSIMULATIONSPICEITRRANDOM)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Simulation_SPICE/ITRRANDOM/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Simulation_SPICE/ITRRANDOM/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Simulation_SPICE/ITRRANDOM/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Simulation_SPICE/ITRRANDOM/image.png)|||

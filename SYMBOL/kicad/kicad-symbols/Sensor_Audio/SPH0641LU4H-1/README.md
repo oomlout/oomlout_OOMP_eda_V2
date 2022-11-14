@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKSENAUDIOSPH641LU4H1 > Sensor_Audio : SPH0641LU4H-1](#szksenaudiosph641lu4h1--sensor_audio--sph0641lu4h-1)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Sensor_Audio : SPH0641LU4H-1
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Audio-SPH0641LU4H-1](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Audio-SPH0641LU4H-1)
 - Short Link: [http://oom.lt/SZKSENAUDIOSPH641LU4H1](http://oom.lt/SZKSENAUDIOSPH641LU4H1)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Audio/SPH0641LU4H-1/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Audio/SPH0641LU4H-1/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Audio/SPH0641LU4H-1/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Audio/SPH0641LU4H-1/image.png)|||

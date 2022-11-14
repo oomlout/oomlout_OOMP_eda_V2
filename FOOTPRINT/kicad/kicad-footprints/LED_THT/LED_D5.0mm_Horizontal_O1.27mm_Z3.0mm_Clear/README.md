@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKLLD5HORIZONTALO127Z3CLEAR > LED_THT : LED_D5.0mm_Horizontal_O1.27mm_Z3.0mm_Clear](#fzklld5horizontalo127z3clear--led_tht--led_d50mm_horizontal_o127mm_z30mm_clear)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: LED_THT : LED_D5.0mm_Horizontal_O1.27mm_Z3.0mm_Clear
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-LED_THT-LED_D5.0mm_Horizontal_O1.27mm_Z3.0mm_Clear](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-LED_THT-LED_D5.0mm_Horizontal_O1.27mm_Z3.0mm_Clear)
 - Short Link: [http://oom.lt/FZKLLD5HORIZONTALO127Z3CLEAR](http://oom.lt/FZKLLD5HORIZONTALO127Z3CLEAR)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/LED_THT/LED_D5.0mm_Horizontal_O1.27mm_Z3.0mm_Clear/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/LED_THT/LED_D5.0mm_Horizontal_O1.27mm_Z3.0mm_Clear/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/LED_THT/LED_D5.0mm_Horizontal_O1.27mm_Z3.0mm_Clear/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/LED_THT/LED_D5.0mm_Horizontal_O1.27mm_Z3.0mm_Clear/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/LED_THT/LED_D5.0mm_Horizontal_O1.27mm_Z3.0mm_Clear/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/LED_THT/LED_D5.0mm_Horizontal_O1.27mm_Z3.0mm_Clear/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/LED_THT/LED_D5.0mm_Horizontal_O1.27mm_Z3.0mm_Clear/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/LED_THT/LED_D5.0mm_Horizontal_O1.27mm_Z3.0mm_Clear/kicadPcb3dBack.png)|

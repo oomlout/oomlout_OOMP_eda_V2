@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZE74ACLOGICSS48DL > 74ac-logic : SSOP48DL](#fze74aclogicss48dl--74ac-logic--ssop48dl)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: 74ac-logic : SSOP48DL
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-74ac-logic-SSOP48DL](http://oom.lt/FOOTPRINT-eagle-eagle-default-74ac-logic-SSOP48DL)
 - Short Link: [http://oom.lt/FZE74ACLOGICSS48DL](http://oom.lt/FZE74ACLOGICSS48DL)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/74ac-logic/SSOP48DL/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/74ac-logic/SSOP48DL/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/74ac-logic/SSOP48DL/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/74ac-logic/SSOP48DL/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/74ac-logic/SSOP48DL/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/74ac-logic/SSOP48DL/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/74ac-logic/SSOP48DL/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/74ac-logic/SSOP48DL/kicadPcb3dBack.png)|

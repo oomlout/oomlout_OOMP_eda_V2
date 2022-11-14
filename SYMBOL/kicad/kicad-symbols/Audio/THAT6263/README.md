@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKAUDIOTHAT6263 > Audio : THAT6263](#szkaudiothat6263--audio--that6263)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Audio : THAT6263
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Audio-THAT6263](http://oom.lt/SYMBOL-kicad-kicad-symbols-Audio-THAT6263)
 - Short Link: [http://oom.lt/SZKAUDIOTHAT6263](http://oom.lt/SZKAUDIOTHAT6263)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Audio/THAT6263/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Audio/THAT6263/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Audio/THAT6263/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Audio/THAT6263/image.png)|||

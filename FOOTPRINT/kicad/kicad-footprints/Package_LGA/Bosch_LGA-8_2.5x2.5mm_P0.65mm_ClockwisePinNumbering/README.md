@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKLGABOSCHLGA825X25P65CLWISEPINNUMBERING > Package_LGA : Bosch_LGA-8_2.5x2.5mm_P0.65mm_ClockwisePinNumbering](#fzklgaboschlga825x25p65clwisepinnumbering--package_lga--bosch_lga-8_25x25mm_p065mm_clockwisepinnumbering)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Package_LGA : Bosch_LGA-8_2.5x2.5mm_P0.65mm_ClockwisePinNumbering
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_LGA-Bosch_LGA-8_2.5x2.5mm_P0.65mm_ClockwisePinNumbering](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_LGA-Bosch_LGA-8_2.5x2.5mm_P0.65mm_ClockwisePinNumbering)
 - Short Link: [http://oom.lt/FZKLGABOSCHLGA825X25P65CLWISEPINNUMBERING](http://oom.lt/FZKLGABOSCHLGA825X25P65CLWISEPINNUMBERING)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_LGA/Bosch_LGA-8_2.5x2.5mm_P0.65mm_ClockwisePinNumbering/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_LGA/Bosch_LGA-8_2.5x2.5mm_P0.65mm_ClockwisePinNumbering/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_LGA/Bosch_LGA-8_2.5x2.5mm_P0.65mm_ClockwisePinNumbering/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_LGA/Bosch_LGA-8_2.5x2.5mm_P0.65mm_ClockwisePinNumbering/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_LGA/Bosch_LGA-8_2.5x2.5mm_P0.65mm_ClockwisePinNumbering/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_LGA/Bosch_LGA-8_2.5x2.5mm_P0.65mm_ClockwisePinNumbering/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_LGA/Bosch_LGA-8_2.5x2.5mm_P0.65mm_ClockwisePinNumbering/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_LGA/Bosch_LGA-8_2.5x2.5mm_P0.65mm_ClockwisePinNumbering/kicadPcb3dBack.png)|

@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKPOWER+1V8 > power : +1V8](#szkpower1v8--power--1v8)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: power : +1V8
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-power-+1V8](http://oom.lt/SYMBOL-kicad-kicad-symbols-power-+1V8)
 - Short Link: [http://oom.lt/SZKPOWER+1V8](http://oom.lt/SZKPOWER+1V8)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/power/+1V8/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/power/+1V8/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/power/+1V8/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/power/+1V8/image.png)|||

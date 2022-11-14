@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKOCSSG21SCD > Oscillator : SG-210SCD](#szkocssg21scd--oscillator--sg-210scd)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Oscillator : SG-210SCD
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Oscillator-SG-210SCD](http://oom.lt/SYMBOL-kicad-kicad-symbols-Oscillator-SG-210SCD)
 - Short Link: [http://oom.lt/SZKOCSSG21SCD](http://oom.lt/SZKOCSSG21SCD)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Oscillator/SG-210SCD/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Oscillator/SG-210SCD/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Oscillator/SG-210SCD/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Oscillator/SG-210SCD/image.png)|||

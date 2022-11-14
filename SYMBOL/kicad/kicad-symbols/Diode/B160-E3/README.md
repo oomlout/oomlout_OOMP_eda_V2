@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDIODEB16E3 > Diode : B160-E3](#szkdiodeb16e3--diode--b160-e3)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Diode : B160-E3
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-B160-E3](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-B160-E3)
 - Short Link: [http://oom.lt/SZKDIODEB16E3](http://oom.lt/SZKDIODEB16E3)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Diode/B160-E3/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Diode/B160-E3/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Diode/B160-E3/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Diode/B160-E3/image.png)|||

@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKPOTENTIOMETERDIGITALDS1267DIP > Potentiometer_Digital : DS1267_DIP](#szkpotentiometerdigitalds1267dip--potentiometer_digital--ds1267_dip)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Potentiometer_Digital : DS1267_DIP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Potentiometer_Digital-DS1267_DIP](http://oom.lt/SYMBOL-kicad-kicad-symbols-Potentiometer_Digital-DS1267_DIP)
 - Short Link: [http://oom.lt/SZKPOTENTIOMETERDIGITALDS1267DIP](http://oom.lt/SZKPOTENTIOMETERDIGITALDS1267DIP)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Potentiometer_Digital/DS1267_DIP/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Potentiometer_Digital/DS1267_DIP/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Potentiometer_Digital/DS1267_DIP/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Potentiometer_Digital/DS1267_DIP/image.png)|||

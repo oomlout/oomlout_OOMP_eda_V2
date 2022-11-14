@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKSIMULATIONSPICEISIN > Simulation_SPICE : ISIN](#szksimulationspiceisin--simulation_spice--isin)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Simulation_SPICE : ISIN
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Simulation_SPICE-ISIN](http://oom.lt/SYMBOL-kicad-kicad-symbols-Simulation_SPICE-ISIN)
 - Short Link: [http://oom.lt/SZKSIMULATIONSPICEISIN](http://oom.lt/SZKSIMULATIONSPICEISIN)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Simulation_SPICE/ISIN/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Simulation_SPICE/ISIN/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Simulation_SPICE/ISIN/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Simulation_SPICE/ISIN/image.png)|||

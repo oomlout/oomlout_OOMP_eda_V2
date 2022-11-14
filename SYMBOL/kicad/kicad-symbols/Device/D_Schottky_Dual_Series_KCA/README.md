@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDEVICEDSCHOTTKYDUALSERIESKCA > Device : D_Schottky_Dual_Series_KCA](#szkdevicedschottkydualserieskca--device--d_schottky_dual_series_kca)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Device : D_Schottky_Dual_Series_KCA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-D_Schottky_Dual_Series_KCA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-D_Schottky_Dual_Series_KCA)
 - Short Link: [http://oom.lt/SZKDEVICEDSCHOTTKYDUALSERIESKCA](http://oom.lt/SZKDEVICEDSCHOTTKYDUALSERIESKCA)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/D_Schottky_Dual_Series_KCA/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/D_Schottky_Dual_Series_KCA/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/D_Schottky_Dual_Series_KCA/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/D_Schottky_Dual_Series_KCA/image.png)|||

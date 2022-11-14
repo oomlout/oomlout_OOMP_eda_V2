@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKINTERFACECANLINMCP2558FDXMNY > Interface_CAN_LIN : MCP2558FD-xMNY](#szkinterfacecanlinmcp2558fdxmny--interface_can_lin--mcp2558fd-xmny)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Interface_CAN_LIN : MCP2558FD-xMNY
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_CAN_LIN-MCP2558FD-xMNY](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_CAN_LIN-MCP2558FD-xMNY)
 - Short Link: [http://oom.lt/SZKINTERFACECANLINMCP2558FDXMNY](http://oom.lt/SZKINTERFACECANLINMCP2558FDXMNY)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface_CAN_LIN/MCP2558FD-xMNY/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface_CAN_LIN/MCP2558FD-xMNY/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface_CAN_LIN/MCP2558FD-xMNY/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface_CAN_LIN/MCP2558FD-xMNY/image.png)|||

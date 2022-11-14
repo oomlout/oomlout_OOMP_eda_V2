@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKTBTBBORNIER5P58 > TerminalBlock : TerminalBlock_bornier-5_P5.08mm](#fzktbtbbornier5p58--terminalblock--terminalblock_bornier-5_p508mm)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: TerminalBlock : TerminalBlock_bornier-5_P5.08mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-TerminalBlock-TerminalBlock_bornier-5_P5.08mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-TerminalBlock-TerminalBlock_bornier-5_P5.08mm)
 - Short Link: [http://oom.lt/FZKTBTBBORNIER5P58](http://oom.lt/FZKTBTBBORNIER5P58)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/TerminalBlock/TerminalBlock_bornier-5_P5.08mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/TerminalBlock/TerminalBlock_bornier-5_P5.08mm/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/TerminalBlock/TerminalBlock_bornier-5_P5.08mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/TerminalBlock/TerminalBlock_bornier-5_P5.08mm/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/TerminalBlock/TerminalBlock_bornier-5_P5.08mm/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/TerminalBlock/TerminalBlock_bornier-5_P5.08mm/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/TerminalBlock/TerminalBlock_bornier-5_P5.08mm/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/TerminalBlock/TerminalBlock_bornier-5_P5.08mm/kicadPcb3dBack.png)|

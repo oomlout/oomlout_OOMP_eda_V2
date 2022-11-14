@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKREGULATORSWITCHEDCAPACITORLM2775DSG > Regulator_SwitchedCapacitor : LM2775DSG](#szkregulatorswitchedcapacitorlm2775dsg--regulator_switchedcapacitor--lm2775dsg)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Regulator_SwitchedCapacitor : LM2775DSG
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_SwitchedCapacitor-LM2775DSG](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_SwitchedCapacitor-LM2775DSG)
 - Short Link: [http://oom.lt/SZKREGULATORSWITCHEDCAPACITORLM2775DSG](http://oom.lt/SZKREGULATORSWITCHEDCAPACITORLM2775DSG)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_SwitchedCapacitor/LM2775DSG/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_SwitchedCapacitor/LM2775DSG/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_SwitchedCapacitor/LM2775DSG/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_SwitchedCapacitor/LM2775DSG/image.png)|||

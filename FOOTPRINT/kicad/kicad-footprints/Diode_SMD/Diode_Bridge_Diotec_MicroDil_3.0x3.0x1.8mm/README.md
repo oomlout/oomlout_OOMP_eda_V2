@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKDIODESMDIODEBRIDGEDIOTECMDIL3X3X18 > Diode_SMD : Diode_Bridge_Diotec_MicroDil_3.0x3.0x1.8mm](#fzkdiodesmdiodebridgediotecmdil3x3x18--diode_smd--diode_bridge_diotec_microdil_30x30x18mm)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Diode_SMD : Diode_Bridge_Diotec_MicroDil_3.0x3.0x1.8mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Diode_SMD-Diode_Bridge_Diotec_MicroDil_3.0x3.0x1.8mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Diode_SMD-Diode_Bridge_Diotec_MicroDil_3.0x3.0x1.8mm)
 - Short Link: [http://oom.lt/FZKDIODESMDIODEBRIDGEDIOTECMDIL3X3X18](http://oom.lt/FZKDIODESMDIODEBRIDGEDIOTECMDIL3X3X18)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Diode_SMD/Diode_Bridge_Diotec_MicroDil_3.0x3.0x1.8mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Diode_SMD/Diode_Bridge_Diotec_MicroDil_3.0x3.0x1.8mm/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Diode_SMD/Diode_Bridge_Diotec_MicroDil_3.0x3.0x1.8mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Diode_SMD/Diode_Bridge_Diotec_MicroDil_3.0x3.0x1.8mm/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Diode_SMD/Diode_Bridge_Diotec_MicroDil_3.0x3.0x1.8mm/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Diode_SMD/Diode_Bridge_Diotec_MicroDil_3.0x3.0x1.8mm/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Diode_SMD/Diode_Bridge_Diotec_MicroDil_3.0x3.0x1.8mm/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Diode_SMD/Diode_Bridge_Diotec_MicroDil_3.0x3.0x1.8mm/kicadPcb3dBack.png)|

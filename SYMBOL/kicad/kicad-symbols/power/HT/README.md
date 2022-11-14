@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKPOWERHT > power : HT](#szkpowerht--power--ht)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: power : HT
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-power-HT](http://oom.lt/SYMBOL-kicad-kicad-symbols-power-HT)
 - Short Link: [http://oom.lt/SZKPOWERHT](http://oom.lt/SZKPOWERHT)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/power/HT/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/power/HT/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/power/HT/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/power/HT/image.png)|||

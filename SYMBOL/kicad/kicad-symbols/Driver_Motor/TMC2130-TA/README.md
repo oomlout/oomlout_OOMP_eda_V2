@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDRIVERMOTORTMC213TA > Driver_Motor : TMC2130-TA](#szkdrivermotortmc213ta--driver_motor--tmc2130-ta)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Driver_Motor : TMC2130-TA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_Motor-TMC2130-TA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_Motor-TMC2130-TA)
 - Short Link: [http://oom.lt/SZKDRIVERMOTORTMC213TA](http://oom.lt/SZKDRIVERMOTORTMC213TA)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Driver_Motor/TMC2130-TA/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Driver_Motor/TMC2130-TA/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Driver_Motor/TMC2130-TA/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Driver_Motor/TMC2130-TA/image.png)|||

@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDIODEBZX84CXX > Diode : BZX84Cxx](#szkdiodebzx84cxx--diode--bzx84cxx)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Diode : BZX84Cxx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-BZX84Cxx](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-BZX84Cxx)
 - Short Link: [http://oom.lt/SZKDIODEBZX84CXX](http://oom.lt/SZKDIODEBZX84CXX)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Diode/BZX84Cxx/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Diode/BZX84Cxx/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Diode/BZX84Cxx/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Diode/BZX84Cxx/image.png)|||

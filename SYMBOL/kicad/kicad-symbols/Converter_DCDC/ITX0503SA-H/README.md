@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKCONITX53SAH > Converter_DCDC : ITX0503SA-H](#szkconitx53sah--converter_dcdc--itx0503sa-h)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Converter_DCDC : ITX0503SA-H
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-ITX0503SA-H](http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-ITX0503SA-H)
 - Short Link: [http://oom.lt/SZKCONITX53SAH](http://oom.lt/SZKCONITX53SAH)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Converter_DCDC/ITX0503SA-H/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Converter_DCDC/ITX0503SA-H/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Converter_DCDC/ITX0503SA-H/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Converter_DCDC/ITX0503SA-H/image.png)|||

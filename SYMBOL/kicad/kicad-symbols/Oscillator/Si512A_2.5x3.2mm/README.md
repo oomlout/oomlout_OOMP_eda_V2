@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKOCSSI512A25X32 > Oscillator : Si512A_2.5x3.2mm](#szkocssi512a25x32--oscillator--si512a_25x32mm)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Oscillator : Si512A_2.5x3.2mm
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Oscillator-Si512A_2.5x3.2mm](http://oom.lt/SYMBOL-kicad-kicad-symbols-Oscillator-Si512A_2.5x3.2mm)
 - Short Link: [http://oom.lt/SZKOCSSI512A25X32](http://oom.lt/SZKOCSSI512A25X32)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Oscillator/Si512A_2.5x3.2mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Oscillator/Si512A_2.5x3.2mm/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Oscillator/Si512A_2.5x3.2mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Oscillator/Si512A_2.5x3.2mm/image.png)|||

@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKRELAYSOLIDSTATETLP141G > Relay_SolidState : TLP141G](#szkrelaysolidstatetlp141g--relay_solidstate--tlp141g)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Relay_SolidState : TLP141G
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay_SolidState-TLP141G](http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay_SolidState-TLP141G)
 - Short Link: [http://oom.lt/SZKRELAYSOLIDSTATETLP141G](http://oom.lt/SZKRELAYSOLIDSTATETLP141G)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Relay_SolidState/TLP141G/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Relay_SolidState/TLP141G/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Relay_SolidState/TLP141G/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Relay_SolidState/TLP141G/image.png)|||

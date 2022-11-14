@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDEVICELFERRITE > Device : L_Ferrite](#szkdevicelferrite--device--l_ferrite)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Device : L_Ferrite
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-L_Ferrite](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-L_Ferrite)
 - Short Link: [http://oom.lt/SZKDEVICELFERRITE](http://oom.lt/SZKDEVICELFERRITE)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/L_Ferrite/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/L_Ferrite/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/L_Ferrite/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/L_Ferrite/image.png)|||

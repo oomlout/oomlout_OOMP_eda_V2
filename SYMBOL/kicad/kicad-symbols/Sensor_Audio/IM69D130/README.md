@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKSENAUDIOIM69D13 > Sensor_Audio : IM69D130](#szksenaudioim69d13--sensor_audio--im69d130)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Sensor_Audio : IM69D130
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Audio-IM69D130](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Audio-IM69D130)
 - Short Link: [http://oom.lt/SZKSENAUDIOIM69D13](http://oom.lt/SZKSENAUDIOIM69D13)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Audio/IM69D130/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Audio/IM69D130/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Audio/IM69D130/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Audio/IM69D130/image.png)|||

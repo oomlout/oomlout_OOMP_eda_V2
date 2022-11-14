@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKTRANSISTORFETBSC252N1NSFG > Transistor_FET : BSC252N10NSFG](#szktransistorfetbsc252n1nsfg--transistor_fet--bsc252n10nsfg)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Transistor_FET : BSC252N10NSFG
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-BSC252N10NSFG](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-BSC252N10NSFG)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETBSC252N1NSFG](http://oom.lt/SZKTRANSISTORFETBSC252N1NSFG)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/BSC252N10NSFG/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/BSC252N10NSFG/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/BSC252N10NSFG/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/BSC252N10NSFG/image.png)|||

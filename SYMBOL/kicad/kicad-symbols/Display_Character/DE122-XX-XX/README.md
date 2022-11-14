@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDICHARACTERDE122XXXX > Display_Character : DE122-XX-XX](#szkdicharacterde122xxxx--display_character--de122-xx-xx)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Display_Character : DE122-XX-XX
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-DE122-XX-XX](http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-DE122-XX-XX)
 - Short Link: [http://oom.lt/SZKDICHARACTERDE122XXXX](http://oom.lt/SZKDICHARACTERDE122XXXX)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Display_Character/DE122-XX-XX/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Display_Character/DE122-XX-XX/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Display_Character/DE122-XX-XX/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Display_Character/DE122-XX-XX/image.png)|||

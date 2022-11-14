@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKCPLDXILINXXC7336 > CPLD_Xilinx : XC7336](#szkcpldxilinxxc7336--cpld_xilinx--xc7336)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: CPLD_Xilinx : XC7336
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-CPLD_Xilinx-XC7336](http://oom.lt/SYMBOL-kicad-kicad-symbols-CPLD_Xilinx-XC7336)
 - Short Link: [http://oom.lt/SZKCPLDXILINXXC7336](http://oom.lt/SZKCPLDXILINXXC7336)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/CPLD_Xilinx/XC7336/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/CPLD_Xilinx/XC7336/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/CPLD_Xilinx/XC7336/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/CPLD_Xilinx/XC7336/image.png)|||

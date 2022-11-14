@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKREGULATORLINEARLP298525 > Regulator_Linear : LP2985-2.5](#szkregulatorlinearlp298525--regulator_linear--lp2985-25)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Regulator_Linear : LP2985-2.5
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LP2985-2.5](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LP2985-2.5)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARLP298525](http://oom.lt/SZKREGULATORLINEARLP298525)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LP2985-2.5/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LP2985-2.5/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LP2985-2.5/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LP2985-2.5/image.png)|||

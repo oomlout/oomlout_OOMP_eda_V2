@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKINLTOROIDVERTICALL164W76P66VISHAYTJ3 > Inductor_THT : L_Toroid_Vertical_L16.4mm_W7.6mm_P6.60mm_Vishay_TJ3](#fzkinltoroidverticall164w76p66vishaytj3--inductor_tht--l_toroid_vertical_l164mm_w76mm_p660mm_vishay_tj3)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Inductor_THT : L_Toroid_Vertical_L16.4mm_W7.6mm_P6.60mm_Vishay_TJ3
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Toroid_Vertical_L16.4mm_W7.6mm_P6.60mm_Vishay_TJ3](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Toroid_Vertical_L16.4mm_W7.6mm_P6.60mm_Vishay_TJ3)
 - Short Link: [http://oom.lt/FZKINLTOROIDVERTICALL164W76P66VISHAYTJ3](http://oom.lt/FZKINLTOROIDVERTICALL164W76P66VISHAYTJ3)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Toroid_Vertical_L16.4mm_W7.6mm_P6.60mm_Vishay_TJ3/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Toroid_Vertical_L16.4mm_W7.6mm_P6.60mm_Vishay_TJ3/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Toroid_Vertical_L16.4mm_W7.6mm_P6.60mm_Vishay_TJ3/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Toroid_Vertical_L16.4mm_W7.6mm_P6.60mm_Vishay_TJ3/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Toroid_Vertical_L16.4mm_W7.6mm_P6.60mm_Vishay_TJ3/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Toroid_Vertical_L16.4mm_W7.6mm_P6.60mm_Vishay_TJ3/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Toroid_Vertical_L16.4mm_W7.6mm_P6.60mm_Vishay_TJ3/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Toroid_Vertical_L16.4mm_W7.6mm_P6.60mm_Vishay_TJ3/kicadPcb3dBack.png)|

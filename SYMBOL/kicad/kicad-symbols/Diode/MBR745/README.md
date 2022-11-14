@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDIODEMBR745 > Diode : MBR745](#szkdiodembr745--diode--mbr745)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Diode : MBR745
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-MBR745](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-MBR745)
 - Short Link: [http://oom.lt/SZKDIODEMBR745](http://oom.lt/SZKDIODEMBR745)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Diode/MBR745/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Diode/MBR745/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Diode/MBR745/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Diode/MBR745/image.png)|||

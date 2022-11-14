@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKSENGAS45 > Sensor_Gas : 004-0-0050](#szksengas45--sensor_gas--004-0-0050)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Sensor_Gas : 004-0-0050
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Gas-004-0-0050](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Gas-004-0-0050)
 - Short Link: [http://oom.lt/SZKSENGAS45](http://oom.lt/SZKSENGAS45)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Gas/004-0-0050/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Gas/004-0-0050/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Gas/004-0-0050/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Gas/004-0-0050/image.png)|||

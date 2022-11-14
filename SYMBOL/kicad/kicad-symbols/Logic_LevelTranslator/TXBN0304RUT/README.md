@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKLOGICLEVELTRANSLATORTXBN34RUT > Logic_LevelTranslator : TXBN0304RUT](#szklogicleveltranslatortxbn34rut--logic_leveltranslator--txbn0304rut)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Logic_LevelTranslator : TXBN0304RUT
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Logic_LevelTranslator-TXBN0304RUT](http://oom.lt/SYMBOL-kicad-kicad-symbols-Logic_LevelTranslator-TXBN0304RUT)
 - Short Link: [http://oom.lt/SZKLOGICLEVELTRANSLATORTXBN34RUT](http://oom.lt/SZKLOGICLEVELTRANSLATORTXBN34RUT)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Logic_LevelTranslator/TXBN0304RUT/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Logic_LevelTranslator/TXBN0304RUT/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Logic_LevelTranslator/TXBN0304RUT/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Logic_LevelTranslator/TXBN0304RUT/image.png)|||

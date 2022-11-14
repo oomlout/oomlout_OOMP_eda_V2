@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKANALOGSWITCHTS3A24159YZPR > Analog_Switch : TS3A24159YZPR](#szkanalogswitchts3a24159yzpr--analog_switch--ts3a24159yzpr)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Analog_Switch : TS3A24159YZPR
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_Switch-TS3A24159YZPR](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_Switch-TS3A24159YZPR)
 - Short Link: [http://oom.lt/SZKANALOGSWITCHTS3A24159YZPR](http://oom.lt/SZKANALOGSWITCHTS3A24159YZPR)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Analog_Switch/TS3A24159YZPR/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Analog_Switch/TS3A24159YZPR/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Analog_Switch/TS3A24159YZPR/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Analog_Switch/TS3A24159YZPR/image.png)|||

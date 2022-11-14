@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKPOWERPROTECTIONSP55BAJT > Power_Protection : SP0505BAJT](#szkpowerprotectionsp55bajt--power_protection--sp0505bajt)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Power_Protection : SP0505BAJT
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Protection-SP0505BAJT](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Protection-SP0505BAJT)
 - Short Link: [http://oom.lt/SZKPOWERPROTECTIONSP55BAJT](http://oom.lt/SZKPOWERPROTECTIONSP55BAJT)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Power_Protection/SP0505BAJT/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Power_Protection/SP0505BAJT/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Power_Protection/SP0505BAJT/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Power_Protection/SP0505BAJT/image.png)|||

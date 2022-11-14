@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKXXC38LFD3L8HORIZONTAL1EPSTYLE2 > Crystal : Crystal_C38-LF_D3.0mm_L8.0mm_Horizontal_1EP_style2](#fzkxxc38lfd3l8horizontal1epstyle2--crystal--crystal_c38-lf_d30mm_l80mm_horizontal_1ep_style2)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Crystal : Crystal_C38-LF_D3.0mm_L8.0mm_Horizontal_1EP_style2
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_C38-LF_D3.0mm_L8.0mm_Horizontal_1EP_style2](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_C38-LF_D3.0mm_L8.0mm_Horizontal_1EP_style2)
 - Short Link: [http://oom.lt/FZKXXC38LFD3L8HORIZONTAL1EPSTYLE2](http://oom.lt/FZKXXC38LFD3L8HORIZONTAL1EPSTYLE2)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_C38-LF_D3.0mm_L8.0mm_Horizontal_1EP_style2/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_C38-LF_D3.0mm_L8.0mm_Horizontal_1EP_style2/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_C38-LF_D3.0mm_L8.0mm_Horizontal_1EP_style2/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_C38-LF_D3.0mm_L8.0mm_Horizontal_1EP_style2/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_C38-LF_D3.0mm_L8.0mm_Horizontal_1EP_style2/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_C38-LF_D3.0mm_L8.0mm_Horizontal_1EP_style2/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_C38-LF_D3.0mm_L8.0mm_Horizontal_1EP_style2/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_C38-LF_D3.0mm_L8.0mm_Horizontal_1EP_style2/kicadPcb3dBack.png)|

@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKRELAYEE212NKX > Relay : EE2-12NKX](#szkrelayee212nkx--relay--ee2-12nkx)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Relay : EE2-12NKX
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-EE2-12NKX](http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-EE2-12NKX)
 - Short Link: [http://oom.lt/SZKRELAYEE212NKX](http://oom.lt/SZKRELAYEE212NKX)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Relay/EE2-12NKX/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Relay/EE2-12NKX/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Relay/EE2-12NKX/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Relay/EE2-12NKX/image.png)|||

@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDEVICESPEAKERX > Device : Speaker_Crystal](#szkdevicespeakerx--device--speaker_crystal)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Device : Speaker_Crystal
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Speaker_Crystal](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Speaker_Crystal)
 - Short Link: [http://oom.lt/SZKDEVICESPEAKERX](http://oom.lt/SZKDEVICESPEAKERX)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/Speaker_Crystal/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/Speaker_Crystal/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/Speaker_Crystal/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/Speaker_Crystal/image.png)|||

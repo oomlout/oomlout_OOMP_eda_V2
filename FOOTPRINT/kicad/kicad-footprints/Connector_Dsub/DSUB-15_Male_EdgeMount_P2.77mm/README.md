@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKCNDSUBDSUB15MALEEDGEMOUNTP277 > Connector_Dsub : DSUB-15_Male_EdgeMount_P2.77mm](#fzkcndsubdsub15maleedgemountp277--connector_dsub--dsub-15_male_edgemount_p277mm)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Connector_Dsub : DSUB-15_Male_EdgeMount_P2.77mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Dsub-DSUB-15_Male_EdgeMount_P2.77mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Dsub-DSUB-15_Male_EdgeMount_P2.77mm)
 - Short Link: [http://oom.lt/FZKCNDSUBDSUB15MALEEDGEMOUNTP277](http://oom.lt/FZKCNDSUBDSUB15MALEEDGEMOUNTP277)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Dsub/DSUB-15_Male_EdgeMount_P2.77mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Dsub/DSUB-15_Male_EdgeMount_P2.77mm/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Dsub/DSUB-15_Male_EdgeMount_P2.77mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Dsub/DSUB-15_Male_EdgeMount_P2.77mm/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Dsub/DSUB-15_Male_EdgeMount_P2.77mm/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Dsub/DSUB-15_Male_EdgeMount_P2.77mm/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Dsub/DSUB-15_Male_EdgeMount_P2.77mm/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Dsub/DSUB-15_Male_EdgeMount_P2.77mm/kicadPcb3dBack.png)|

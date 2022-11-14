@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDSPMCHIPDSPIC33DSPIC33FJ128MC24 > DSP_Microchip_DSPIC33 : DSPIC33FJ128MC204](#szkdspmchipdspic33dspic33fj128mc24--dsp_microchip_dspic33--dspic33fj128mc204)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: DSP_Microchip_DSPIC33 : DSPIC33FJ128MC204
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-DSP_Microchip_DSPIC33-DSPIC33FJ128MC204](http://oom.lt/SYMBOL-kicad-kicad-symbols-DSP_Microchip_DSPIC33-DSPIC33FJ128MC204)
 - Short Link: [http://oom.lt/SZKDSPMCHIPDSPIC33DSPIC33FJ128MC24](http://oom.lt/SZKDSPMCHIPDSPIC33DSPIC33FJ128MC24)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/DSP_Microchip_DSPIC33/DSPIC33FJ128MC204/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/DSP_Microchip_DSPIC33/DSPIC33FJ128MC204/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/DSP_Microchip_DSPIC33/DSPIC33FJ128MC204/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/DSP_Microchip_DSPIC33/DSPIC33FJ128MC204/image.png)|||

@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKCPUCDP182BCE > CPU : CDP1802BCE](#szkcpucdp182bce--cpu--cdp1802bce)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: CPU : CDP1802BCE
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-CPU-CDP1802BCE](http://oom.lt/SYMBOL-kicad-kicad-symbols-CPU-CDP1802BCE)
 - Short Link: [http://oom.lt/SZKCPUCDP182BCE](http://oom.lt/SZKCPUCDP182BCE)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/CPU/CDP1802BCE/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/CPU/CDP1802BCE/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/CPU/CDP1802BCE/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/CPU/CDP1802BCE/image.png)|||

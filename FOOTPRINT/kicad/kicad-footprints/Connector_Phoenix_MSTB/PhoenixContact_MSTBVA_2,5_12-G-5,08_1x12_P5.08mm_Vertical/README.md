@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKCNPHOENIXMSTBPHOENIXCONTACTMSTBVA2512G581X12P58VERTICAL > Connector_Phoenix_MSTB : PhoenixContact_MSTBVA_2,5_12-G-5,08_1x12_P5.08mm_Vertical](#fzkcnphoenixmstbphoenixcontactmstbva2512g581x12p58vertical--connector_phoenix_mstb--phoenixcontact_mstbva_25_12-g-508_1x12_p508mm_vertical)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Connector_Phoenix_MSTB : PhoenixContact_MSTBVA_2,5_12-G-5,08_1x12_P5.08mm_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Phoenix_MSTB-PhoenixContact_MSTBVA_2,5_12-G-5,08_1x12_P5.08mm_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Phoenix_MSTB-PhoenixContact_MSTBVA_2,5_12-G-5,08_1x12_P5.08mm_Vertical)
 - Short Link: [http://oom.lt/FZKCNPHOENIXMSTBPHOENIXCONTACTMSTBVA2512G581X12P58VERTICAL](http://oom.lt/FZKCNPHOENIXMSTBPHOENIXCONTACTMSTBVA2512G581X12P58VERTICAL)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Phoenix_MSTB/PhoenixContact_MSTBVA_2,5_12-G-5,08_1x12_P5.08mm_Vertical/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Phoenix_MSTB/PhoenixContact_MSTBVA_2,5_12-G-5,08_1x12_P5.08mm_Vertical/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Phoenix_MSTB/PhoenixContact_MSTBVA_2,5_12-G-5,08_1x12_P5.08mm_Vertical/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Phoenix_MSTB/PhoenixContact_MSTBVA_2,5_12-G-5,08_1x12_P5.08mm_Vertical/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Phoenix_MSTB/PhoenixContact_MSTBVA_2,5_12-G-5,08_1x12_P5.08mm_Vertical/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Phoenix_MSTB/PhoenixContact_MSTBVA_2,5_12-G-5,08_1x12_P5.08mm_Vertical/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Phoenix_MSTB/PhoenixContact_MSTBVA_2,5_12-G-5,08_1x12_P5.08mm_Vertical/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Phoenix_MSTB/PhoenixContact_MSTBVA_2,5_12-G-5,08_1x12_P5.08mm_Vertical/kicadPcb3dBack.png)|

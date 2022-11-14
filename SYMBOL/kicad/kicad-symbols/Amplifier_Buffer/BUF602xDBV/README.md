@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKAMPLIFIERBUFFERBUF62XDBV > Amplifier_Buffer : BUF602xDBV](#szkamplifierbufferbuf62xdbv--amplifier_buffer--buf602xdbv)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Amplifier_Buffer : BUF602xDBV
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Buffer-BUF602xDBV](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Buffer-BUF602xDBV)
 - Short Link: [http://oom.lt/SZKAMPLIFIERBUFFERBUF62XDBV](http://oom.lt/SZKAMPLIFIERBUFFERBUF62XDBV)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Amplifier_Buffer/BUF602xDBV/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Amplifier_Buffer/BUF602xDBV/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Amplifier_Buffer/BUF602xDBV/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Amplifier_Buffer/BUF602xDBV/image.png)|||

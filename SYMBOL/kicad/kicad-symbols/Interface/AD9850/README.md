@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKINTERFACEAD985 > Interface : AD9850](#szkinterfacead985--interface--ad9850)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Interface : AD9850
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-AD9850](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-AD9850)
 - Short Link: [http://oom.lt/SZKINTERFACEAD985](http://oom.lt/SZKINTERFACEAD985)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface/AD9850/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface/AD9850/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface/AD9850/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface/AD9850/image.png)|||

@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKTRANSISTORFETBSF35NE2LQ > Transistor_FET : BSF035NE2LQ](#szktransistorfetbsf35ne2lq--transistor_fet--bsf035ne2lq)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Transistor_FET : BSF035NE2LQ
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-BSF035NE2LQ](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-BSF035NE2LQ)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETBSF35NE2LQ](http://oom.lt/SZKTRANSISTORFETBSF35NE2LQ)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/BSF035NE2LQ/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/BSF035NE2LQ/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/BSF035NE2LQ/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/BSF035NE2LQ/image.png)|||

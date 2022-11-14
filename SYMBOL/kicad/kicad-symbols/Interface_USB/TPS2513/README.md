@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKINTERFACEUTPS2513 > Interface_USB : TPS2513](#szkinterfaceutps2513--interface_usb--tps2513)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Interface_USB : TPS2513
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_USB-TPS2513](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_USB-TPS2513)
 - Short Link: [http://oom.lt/SZKINTERFACEUTPS2513](http://oom.lt/SZKINTERFACEUTPS2513)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface_USB/TPS2513/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface_USB/TPS2513/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface_USB/TPS2513/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface_USB/TPS2513/image.png)|||

@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDIODE5KPXXA > Diode : 5KPxxA](#szkdiode5kpxxa--diode--5kpxxa)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Diode : 5KPxxA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-5KPxxA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-5KPxxA)
 - Short Link: [http://oom.lt/SZKDIODE5KPXXA](http://oom.lt/SZKDIODE5KPXXA)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Diode/5KPxxA/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Diode/5KPxxA/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Diode/5KPxxA/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Diode/5KPxxA/image.png)|||

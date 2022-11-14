@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKSWITCHSWCODEDSH73 > Switch : SW_Coded_SH-7030](#szkswitchswcodedsh73--switch--sw_coded_sh-7030)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Switch : SW_Coded_SH-7030
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Switch-SW_Coded_SH-7030](http://oom.lt/SYMBOL-kicad-kicad-symbols-Switch-SW_Coded_SH-7030)
 - Short Link: [http://oom.lt/SZKSWITCHSWCODEDSH73](http://oom.lt/SZKSWITCHSWCODEDSH73)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Switch/SW_Coded_SH-7030/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Switch/SW_Coded_SH-7030/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Switch/SW_Coded_SH-7030/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Switch/SW_Coded_SH-7030/image.png)|||

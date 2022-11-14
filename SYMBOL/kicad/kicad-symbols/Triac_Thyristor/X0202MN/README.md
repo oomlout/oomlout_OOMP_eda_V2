@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKTRIACTHYRISTORX22MN > Triac_Thyristor : X0202MN](#szktriacthyristorx22mn--triac_thyristor--x0202mn)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Triac_Thyristor : X0202MN
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Triac_Thyristor-X0202MN](http://oom.lt/SYMBOL-kicad-kicad-symbols-Triac_Thyristor-X0202MN)
 - Short Link: [http://oom.lt/SZKTRIACTHYRISTORX22MN](http://oom.lt/SZKTRIACTHYRISTORX22MN)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Triac_Thyristor/X0202MN/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Triac_Thyristor/X0202MN/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Triac_Thyristor/X0202MN/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Triac_Thyristor/X0202MN/image.png)|||

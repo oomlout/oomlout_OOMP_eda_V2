@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKSOTSS281EP44X97P65EP285X67 > Package_SO : TSSOP-28-1EP_4.4x9.7mm_P0.65mm_EP2.85x6.7mm](#fzksotss281ep44x97p65ep285x67--package_so--tssop-28-1ep_44x97mm_p065mm_ep285x67mm)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Package_SO : TSSOP-28-1EP_4.4x9.7mm_P0.65mm_EP2.85x6.7mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SO-TSSOP-28-1EP_4.4x9.7mm_P0.65mm_EP2.85x6.7mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SO-TSSOP-28-1EP_4.4x9.7mm_P0.65mm_EP2.85x6.7mm)
 - Short Link: [http://oom.lt/FZKSOTSS281EP44X97P65EP285X67](http://oom.lt/FZKSOTSS281EP44X97P65EP285X67)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/TSSOP-28-1EP_4.4x9.7mm_P0.65mm_EP2.85x6.7mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/TSSOP-28-1EP_4.4x9.7mm_P0.65mm_EP2.85x6.7mm/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/TSSOP-28-1EP_4.4x9.7mm_P0.65mm_EP2.85x6.7mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/TSSOP-28-1EP_4.4x9.7mm_P0.65mm_EP2.85x6.7mm/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/TSSOP-28-1EP_4.4x9.7mm_P0.65mm_EP2.85x6.7mm/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/TSSOP-28-1EP_4.4x9.7mm_P0.65mm_EP2.85x6.7mm/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/TSSOP-28-1EP_4.4x9.7mm_P0.65mm_EP2.85x6.7mm/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/TSSOP-28-1EP_4.4x9.7mm_P0.65mm_EP2.85x6.7mm/kicadPcb3dBack.png)|

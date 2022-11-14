@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKINTERFACESN7516BDW > Interface : SN75160BDW](#szkinterfacesn7516bdw--interface--sn75160bdw)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Interface : SN75160BDW
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-SN75160BDW](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-SN75160BDW)
 - Short Link: [http://oom.lt/SZKINTERFACESN7516BDW](http://oom.lt/SZKINTERFACESN7516BDW)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface/SN75160BDW/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface/SN75160BDW/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface/SN75160BDW/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface/SN75160BDW/image.png)|||

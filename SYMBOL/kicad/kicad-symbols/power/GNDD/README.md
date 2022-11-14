@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKPOWERGNDD > power : GNDD](#szkpowergndd--power--gndd)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: power : GNDD
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-power-GNDD](http://oom.lt/SYMBOL-kicad-kicad-symbols-power-GNDD)
 - Short Link: [http://oom.lt/SZKPOWERGNDD](http://oom.lt/SZKPOWERGNDD)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/power/GNDD/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/power/GNDD/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/power/GNDD/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/power/GNDD/image.png)|||

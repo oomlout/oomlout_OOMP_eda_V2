@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKREGULATORLINEARLM299SX12 > Regulator_Linear : LM2990SX-12](#szkregulatorlinearlm299sx12--regulator_linear--lm2990sx-12)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Regulator_Linear : LM2990SX-12
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LM2990SX-12](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LM2990SX-12)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARLM299SX12](http://oom.lt/SZKREGULATORLINEARLM299SX12)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LM2990SX-12/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LM2990SX-12/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LM2990SX-12/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LM2990SX-12/image.png)|||

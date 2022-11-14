@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKPOWERMANAGEMENTSN655BDBV > Power_Management : SN6505BDBV](#szkpowermanagementsn655bdbv--power_management--sn6505bdbv)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Power_Management : SN6505BDBV
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-SN6505BDBV](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-SN6505BDBV)
 - Short Link: [http://oom.lt/SZKPOWERMANAGEMENTSN655BDBV](http://oom.lt/SZKPOWERMANAGEMENTSN655BDBV)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Power_Management/SN6505BDBV/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Power_Management/SN6505BDBV/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Power_Management/SN6505BDBV/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Power_Management/SN6505BDBV/image.png)|||

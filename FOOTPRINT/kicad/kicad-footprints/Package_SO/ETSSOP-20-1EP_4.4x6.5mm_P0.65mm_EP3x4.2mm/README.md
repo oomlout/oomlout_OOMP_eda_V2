@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKSOETSS21EP44X65P65EP3X42 > Package_SO : ETSSOP-20-1EP_4.4x6.5mm_P0.65mm_EP3x4.2mm](#fzksoetss21ep44x65p65ep3x42--package_so--etssop-20-1ep_44x65mm_p065mm_ep3x42mm)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Package_SO : ETSSOP-20-1EP_4.4x6.5mm_P0.65mm_EP3x4.2mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SO-ETSSOP-20-1EP_4.4x6.5mm_P0.65mm_EP3x4.2mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SO-ETSSOP-20-1EP_4.4x6.5mm_P0.65mm_EP3x4.2mm)
 - Short Link: [http://oom.lt/FZKSOETSS21EP44X65P65EP3X42](http://oom.lt/FZKSOETSS21EP44X65P65EP3X42)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/ETSSOP-20-1EP_4.4x6.5mm_P0.65mm_EP3x4.2mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/ETSSOP-20-1EP_4.4x6.5mm_P0.65mm_EP3x4.2mm/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/ETSSOP-20-1EP_4.4x6.5mm_P0.65mm_EP3x4.2mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/ETSSOP-20-1EP_4.4x6.5mm_P0.65mm_EP3x4.2mm/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/ETSSOP-20-1EP_4.4x6.5mm_P0.65mm_EP3x4.2mm/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/ETSSOP-20-1EP_4.4x6.5mm_P0.65mm_EP3x4.2mm/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/ETSSOP-20-1EP_4.4x6.5mm_P0.65mm_EP3x4.2mm/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/ETSSOP-20-1EP_4.4x6.5mm_P0.65mm_EP3x4.2mm/kicadPcb3dBack.png)|

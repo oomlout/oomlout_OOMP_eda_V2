@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDRIVERMOTORTMC513ATA > Driver_Motor : TMC5130A-TA](#szkdrivermotortmc513ata--driver_motor--tmc5130a-ta)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Driver_Motor : TMC5130A-TA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_Motor-TMC5130A-TA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_Motor-TMC5130A-TA)
 - Short Link: [http://oom.lt/SZKDRIVERMOTORTMC513ATA](http://oom.lt/SZKDRIVERMOTORTMC513ATA)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Driver_Motor/TMC5130A-TA/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Driver_Motor/TMC5130A-TA/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Driver_Motor/TMC5130A-TA/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Driver_Motor/TMC5130A-TA/image.png)|||

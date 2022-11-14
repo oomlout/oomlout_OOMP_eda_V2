@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKINTERFACEUARTMAX49E > Interface_UART : MAX490E](#szkinterfaceuartmax49e--interface_uart--max490e)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Interface_UART : MAX490E
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_UART-MAX490E](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_UART-MAX490E)
 - Short Link: [http://oom.lt/SZKINTERFACEUARTMAX49E](http://oom.lt/SZKINTERFACEUARTMAX49E)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface_UART/MAX490E/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface_UART/MAX490E/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface_UART/MAX490E/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface_UART/MAX490E/image.png)|||

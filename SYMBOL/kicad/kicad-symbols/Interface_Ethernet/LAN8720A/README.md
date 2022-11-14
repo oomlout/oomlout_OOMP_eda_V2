@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKINTERFACEETHERNETLAN872A > Interface_Ethernet : LAN8720A](#szkinterfaceethernetlan872a--interface_ethernet--lan8720a)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Interface_Ethernet : LAN8720A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Ethernet-LAN8720A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Ethernet-LAN8720A)
 - Short Link: [http://oom.lt/SZKINTERFACEETHERNETLAN872A](http://oom.lt/SZKINTERFACEETHERNETLAN872A)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface_Ethernet/LAN8720A/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface_Ethernet/LAN8720A/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface_Ethernet/LAN8720A/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface_Ethernet/LAN8720A/image.png)|||

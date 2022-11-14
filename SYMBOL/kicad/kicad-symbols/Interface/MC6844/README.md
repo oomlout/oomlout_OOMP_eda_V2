@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKINTERFACEMC6844 > Interface : MC6844](#szkinterfacemc6844--interface--mc6844)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Interface : MC6844
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-MC6844](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-MC6844)
 - Short Link: [http://oom.lt/SZKINTERFACEMC6844](http://oom.lt/SZKINTERFACEMC6844)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface/MC6844/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface/MC6844/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface/MC6844/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface/MC6844/image.png)|||

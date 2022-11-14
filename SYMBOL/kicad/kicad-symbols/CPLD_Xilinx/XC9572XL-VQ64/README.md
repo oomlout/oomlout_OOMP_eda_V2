@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKCPLDXILINXXC9572XLVQ64 > CPLD_Xilinx : XC9572XL-VQ64](#szkcpldxilinxxc9572xlvq64--cpld_xilinx--xc9572xl-vq64)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: CPLD_Xilinx : XC9572XL-VQ64
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-CPLD_Xilinx-XC9572XL-VQ64](http://oom.lt/SYMBOL-kicad-kicad-symbols-CPLD_Xilinx-XC9572XL-VQ64)
 - Short Link: [http://oom.lt/SZKCPLDXILINXXC9572XLVQ64](http://oom.lt/SZKCPLDXILINXXC9572XLVQ64)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/CPLD_Xilinx/XC9572XL-VQ64/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/CPLD_Xilinx/XC9572XL-VQ64/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/CPLD_Xilinx/XC9572XL-VQ64/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/CPLD_Xilinx/XC9572XL-VQ64/image.png)|||

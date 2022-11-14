@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKTRANSISTORBJT2SD6 > Transistor_BJT : 2SD600](#szktransistorbjt2sd6--transistor_bjt--2sd600)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Transistor_BJT : 2SD600
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-2SD600](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-2SD600)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJT2SD6](http://oom.lt/SZKTRANSISTORBJT2SD6)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_BJT/2SD600/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_BJT/2SD600/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_BJT/2SD600/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_BJT/2SD600/image.png)|||

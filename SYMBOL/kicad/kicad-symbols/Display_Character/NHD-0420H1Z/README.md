@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDICHARACTERNHD42H1Z > Display_Character : NHD-0420H1Z](#szkdicharacternhd42h1z--display_character--nhd-0420h1z)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Display_Character : NHD-0420H1Z
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-NHD-0420H1Z](http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-NHD-0420H1Z)
 - Short Link: [http://oom.lt/SZKDICHARACTERNHD42H1Z](http://oom.lt/SZKDICHARACTERNHD42H1Z)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Display_Character/NHD-0420H1Z/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Display_Character/NHD-0420H1Z/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Display_Character/NHD-0420H1Z/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Display_Character/NHD-0420H1Z/image.png)|||

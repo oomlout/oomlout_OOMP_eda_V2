@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKSENPRESSUREMPL3115A2 > Sensor_Pressure : MPL3115A2](#szksenpressurempl3115a2--sensor_pressure--mpl3115a2)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Sensor_Pressure : MPL3115A2
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Pressure-MPL3115A2](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Pressure-MPL3115A2)
 - Short Link: [http://oom.lt/SZKSENPRESSUREMPL3115A2](http://oom.lt/SZKSENPRESSUREMPL3115A2)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Pressure/MPL3115A2/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Pressure/MPL3115A2/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Pressure/MPL3115A2/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Pressure/MPL3115A2/image.png)|||

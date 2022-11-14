@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKAMPLIFIEROPERATIONALMAX4239ASA > Amplifier_Operational : MAX4239ASA](#szkamplifieroperationalmax4239asa--amplifier_operational--max4239asa)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Amplifier_Operational : MAX4239ASA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-MAX4239ASA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-MAX4239ASA)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALMAX4239ASA](http://oom.lt/SZKAMPLIFIEROPERATIONALMAX4239ASA)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/MAX4239ASA/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/MAX4239ASA/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/MAX4239ASA/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/MAX4239ASA/image.png)|||

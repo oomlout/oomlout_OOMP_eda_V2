@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKINTERFACEUFU32B1MPX > Interface_USB : FUSB302B01MPX](#szkinterfaceufu32b1mpx--interface_usb--fusb302b01mpx)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Interface_USB : FUSB302B01MPX
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_USB-FUSB302B01MPX](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_USB-FUSB302B01MPX)
 - Short Link: [http://oom.lt/SZKINTERFACEUFU32B1MPX](http://oom.lt/SZKINTERFACEUFU32B1MPX)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface_USB/FUSB302B01MPX/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface_USB/FUSB302B01MPX/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface_USB/FUSB302B01MPX/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface_USB/FUSB302B01MPX/image.png)|||

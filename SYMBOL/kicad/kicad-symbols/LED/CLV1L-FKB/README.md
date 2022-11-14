@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKLCLV1LFKB > LED : CLV1L-FKB](#szklclv1lfkb--led--clv1l-fkb)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: LED : CLV1L-FKB
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-LED-CLV1L-FKB](http://oom.lt/SYMBOL-kicad-kicad-symbols-LED-CLV1L-FKB)
 - Short Link: [http://oom.lt/SZKLCLV1LFKB](http://oom.lt/SZKLCLV1LFKB)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/LED/CLV1L-FKB/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/LED/CLV1L-FKB/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/LED/CLV1L-FKB/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/LED/CLV1L-FKB/image.png)|||

@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKCNUUCRECEPTACLEJAEDX7S16JA1R15 > Connector_USB : USB_C_Receptacle_JAE_DX07S016JA1R1500](#fzkcnuucreceptaclejaedx7s16ja1r15--connector_usb--usb_c_receptacle_jae_dx07s016ja1r1500)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Connector_USB : USB_C_Receptacle_JAE_DX07S016JA1R1500
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_C_Receptacle_JAE_DX07S016JA1R1500](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_C_Receptacle_JAE_DX07S016JA1R1500)
 - Short Link: [http://oom.lt/FZKCNUUCRECEPTACLEJAEDX7S16JA1R15](http://oom.lt/FZKCNUUCRECEPTACLEJAEDX7S16JA1R15)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB_C_Receptacle_JAE_DX07S016JA1R1500/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB_C_Receptacle_JAE_DX07S016JA1R1500/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB_C_Receptacle_JAE_DX07S016JA1R1500/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB_C_Receptacle_JAE_DX07S016JA1R1500/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB_C_Receptacle_JAE_DX07S016JA1R1500/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB_C_Receptacle_JAE_DX07S016JA1R1500/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB_C_Receptacle_JAE_DX07S016JA1R1500/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB_C_Receptacle_JAE_DX07S016JA1R1500/kicadPcb3dBack.png)|

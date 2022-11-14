@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKTRANSISTORPOWERMOA2C5S65M2F > Transistor_Power_Module : A2C50S65M2-F](#szktransistorpowermoa2c5s65m2f--transistor_power_module--a2c50s65m2-f)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Transistor_Power_Module : A2C50S65M2-F
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_Power_Module-A2C50S65M2-F](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_Power_Module-A2C50S65M2-F)
 - Short Link: [http://oom.lt/SZKTRANSISTORPOWERMOA2C5S65M2F](http://oom.lt/SZKTRANSISTORPOWERMOA2C5S65M2F)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_Power_Module/A2C50S65M2-F/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_Power_Module/A2C50S65M2-F/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_Power_Module/A2C50S65M2-F/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_Power_Module/A2C50S65M2-F/image.png)|||

@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKCONMGJ3T51555MC > Converter_DCDC : MGJ3T05150505MC](#szkconmgj3t51555mc--converter_dcdc--mgj3t05150505mc)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Converter_DCDC : MGJ3T05150505MC
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-MGJ3T05150505MC](http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-MGJ3T05150505MC)
 - Short Link: [http://oom.lt/SZKCONMGJ3T51555MC](http://oom.lt/SZKCONMGJ3T51555MC)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Converter_DCDC/MGJ3T05150505MC/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Converter_DCDC/MGJ3T05150505MC/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Converter_DCDC/MGJ3T05150505MC/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Converter_DCDC/MGJ3T05150505MC/image.png)|||

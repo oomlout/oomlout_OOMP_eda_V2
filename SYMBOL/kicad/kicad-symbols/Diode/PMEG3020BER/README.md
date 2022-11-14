@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDIODEPMEG32BER > Diode : PMEG3020BER](#szkdiodepmeg32ber--diode--pmeg3020ber)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Diode : PMEG3020BER
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-PMEG3020BER](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-PMEG3020BER)
 - Short Link: [http://oom.lt/SZKDIODEPMEG32BER](http://oom.lt/SZKDIODEPMEG32BER)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Diode/PMEG3020BER/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Diode/PMEG3020BER/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Diode/PMEG3020BER/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Diode/PMEG3020BER/image.png)|||

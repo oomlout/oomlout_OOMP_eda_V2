@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKANALOGADCADS8681RUM > Analog_ADC : ADS8681RUM](#szkanalogadcads8681rum--analog_adc--ads8681rum)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Analog_ADC : ADS8681RUM
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-ADS8681RUM](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-ADS8681RUM)
 - Short Link: [http://oom.lt/SZKANALOGADCADS8681RUM](http://oom.lt/SZKANALOGADCADS8681RUM)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Analog_ADC/ADS8681RUM/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Analog_ADC/ADS8681RUM/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Analog_ADC/ADS8681RUM/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Analog_ADC/ADS8681RUM/image.png)|||

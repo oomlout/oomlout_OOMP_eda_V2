@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKSENMAGNETICAS547D > Sensor_Magnetic : AS5047D](#szksenmagneticas547d--sensor_magnetic--as5047d)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Sensor_Magnetic : AS5047D
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Magnetic-AS5047D](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Magnetic-AS5047D)
 - Short Link: [http://oom.lt/SZKSENMAGNETICAS547D](http://oom.lt/SZKSENMAGNETICAS547D)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Magnetic/AS5047D/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Magnetic/AS5047D/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Magnetic/AS5047D/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Magnetic/AS5047D/image.png)|||

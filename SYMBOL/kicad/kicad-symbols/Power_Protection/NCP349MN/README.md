@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKPOWERPROTECTIONNCP349MN > Power_Protection : NCP349MN](#szkpowerprotectionncp349mn--power_protection--ncp349mn)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Power_Protection : NCP349MN
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Protection-NCP349MN](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Protection-NCP349MN)
 - Short Link: [http://oom.lt/SZKPOWERPROTECTIONNCP349MN](http://oom.lt/SZKPOWERPROTECTIONNCP349MN)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Power_Protection/NCP349MN/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Power_Protection/NCP349MN/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Power_Protection/NCP349MN/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Power_Protection/NCP349MN/image.png)|||

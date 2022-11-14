@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZEANALOGDEVICESDIL8 > analog-devices : DIL08](#fzeanalogdevicesdil8--analog-devices--dil08)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: analog-devices : DIL08
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-analog-devices-DIL08](http://oom.lt/FOOTPRINT-eagle-eagle-default-analog-devices-DIL08)
 - Short Link: [http://oom.lt/FZEANALOGDEVICESDIL8](http://oom.lt/FZEANALOGDEVICESDIL8)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/analog-devices/DIL08/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/analog-devices/DIL08/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/analog-devices/DIL08/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/analog-devices/DIL08/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/analog-devices/DIL08/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/analog-devices/DIL08/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/analog-devices/DIL08/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/analog-devices/DIL08/kicadPcb3dBack.png)|

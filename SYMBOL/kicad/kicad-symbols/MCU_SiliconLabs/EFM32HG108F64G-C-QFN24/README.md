@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKMCUSILICONLABSEFM32HG18F64GCQFN24 > MCU_SiliconLabs : EFM32HG108F64G-C-QFN24](#szkmcusiliconlabsefm32hg18f64gcqfn24--mcu_siliconlabs--efm32hg108f64g-c-qfn24)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: MCU_SiliconLabs : EFM32HG108F64G-C-QFN24
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_SiliconLabs-EFM32HG108F64G-C-QFN24](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_SiliconLabs-EFM32HG108F64G-C-QFN24)
 - Short Link: [http://oom.lt/SZKMCUSILICONLABSEFM32HG18F64GCQFN24](http://oom.lt/SZKMCUSILICONLABSEFM32HG18F64GCQFN24)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_SiliconLabs/EFM32HG108F64G-C-QFN24/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_SiliconLabs/EFM32HG108F64G-C-QFN24/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_SiliconLabs/EFM32HG108F64G-C-QFN24/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_SiliconLabs/EFM32HG108F64G-C-QFN24/image.png)|||

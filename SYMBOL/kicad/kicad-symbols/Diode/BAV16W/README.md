@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDIODEBAV16W > Diode : BAV16W](#szkdiodebav16w--diode--bav16w)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Diode : BAV16W
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-BAV16W](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-BAV16W)
 - Short Link: [http://oom.lt/SZKDIODEBAV16W](http://oom.lt/SZKDIODEBAV16W)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Diode/BAV16W/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Diode/BAV16W/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Diode/BAV16W/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Diode/BAV16W/image.png)|||

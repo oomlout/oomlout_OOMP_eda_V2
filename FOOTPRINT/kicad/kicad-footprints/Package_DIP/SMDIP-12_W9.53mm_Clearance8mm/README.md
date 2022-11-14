@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKDIPSMIP12W953CLEARANCE8 > Package_DIP : SMDIP-12_W9.53mm_Clearance8mm](#fzkdipsmip12w953clearance8--package_dip--smdip-12_w953mm_clearance8mm)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Package_DIP : SMDIP-12_W9.53mm_Clearance8mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DIP-SMDIP-12_W9.53mm_Clearance8mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DIP-SMDIP-12_W9.53mm_Clearance8mm)
 - Short Link: [http://oom.lt/FZKDIPSMIP12W953CLEARANCE8](http://oom.lt/FZKDIPSMIP12W953CLEARANCE8)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_DIP/SMDIP-12_W9.53mm_Clearance8mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_DIP/SMDIP-12_W9.53mm_Clearance8mm/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_DIP/SMDIP-12_W9.53mm_Clearance8mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_DIP/SMDIP-12_W9.53mm_Clearance8mm/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_DIP/SMDIP-12_W9.53mm_Clearance8mm/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_DIP/SMDIP-12_W9.53mm_Clearance8mm/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_DIP/SMDIP-12_W9.53mm_Clearance8mm/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_DIP/SMDIP-12_W9.53mm_Clearance8mm/kicadPcb3dBack.png)|

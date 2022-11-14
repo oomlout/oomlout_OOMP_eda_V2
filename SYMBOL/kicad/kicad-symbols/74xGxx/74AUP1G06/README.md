@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZK74XGXX74AUP1G6 > 74xGxx : 74AUP1G06](#szk74xgxx74aup1g6--74xgxx--74aup1g06)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: 74xGxx : 74AUP1G06
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-74xGxx-74AUP1G06](http://oom.lt/SYMBOL-kicad-kicad-symbols-74xGxx-74AUP1G06)
 - Short Link: [http://oom.lt/SZK74XGXX74AUP1G6](http://oom.lt/SZK74XGXX74AUP1G6)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/74xGxx/74AUP1G06/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/74xGxx/74AUP1G06/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/74xGxx/74AUP1G06/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/74xGxx/74AUP1G06/image.png)|||

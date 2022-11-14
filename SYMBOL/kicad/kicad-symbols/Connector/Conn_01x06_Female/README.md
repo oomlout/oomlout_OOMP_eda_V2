@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKCNCONN1X6FEMALE > Connector : Conn_01x06_Female](#szkcnconn1x6female--connector--conn_01x06_female)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Connector : Conn_01x06_Female
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-Conn_01x06_Female](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-Conn_01x06_Female)
 - Short Link: [http://oom.lt/SZKCNCONN1X6FEMALE](http://oom.lt/SZKCNCONN1X6FEMALE)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x06_Female/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x06_Female/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x06_Female/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x06_Female/image.png)|||

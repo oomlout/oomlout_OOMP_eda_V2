@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKINLRD75P35FASTRON7P > Inductor_THT : L_Radial_D7.5mm_P3.50mm_Fastron_07P](#fzkinlrd75p35fastron7p--inductor_tht--l_radial_d75mm_p350mm_fastron_07p)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Inductor_THT : L_Radial_D7.5mm_P3.50mm_Fastron_07P
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Radial_D7.5mm_P3.50mm_Fastron_07P](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Radial_D7.5mm_P3.50mm_Fastron_07P)
 - Short Link: [http://oom.lt/FZKINLRD75P35FASTRON7P](http://oom.lt/FZKINLRD75P35FASTRON7P)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Radial_D7.5mm_P3.50mm_Fastron_07P/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Radial_D7.5mm_P3.50mm_Fastron_07P/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Radial_D7.5mm_P3.50mm_Fastron_07P/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Radial_D7.5mm_P3.50mm_Fastron_07P/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Radial_D7.5mm_P3.50mm_Fastron_07P/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Radial_D7.5mm_P3.50mm_Fastron_07P/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Radial_D7.5mm_P3.50mm_Fastron_07P/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Radial_D7.5mm_P3.50mm_Fastron_07P/kicadPcb3dBack.png)|

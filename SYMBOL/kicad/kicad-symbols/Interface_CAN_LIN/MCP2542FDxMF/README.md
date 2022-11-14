@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKINTERFACECANLINMCP2542FDXMF > Interface_CAN_LIN : MCP2542FDxMF](#szkinterfacecanlinmcp2542fdxmf--interface_can_lin--mcp2542fdxmf)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Interface_CAN_LIN : MCP2542FDxMF
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_CAN_LIN-MCP2542FDxMF](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_CAN_LIN-MCP2542FDxMF)
 - Short Link: [http://oom.lt/SZKINTERFACECANLINMCP2542FDXMF](http://oom.lt/SZKINTERFACECANLINMCP2542FDXMF)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface_CAN_LIN/MCP2542FDxMF/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface_CAN_LIN/MCP2542FDxMF/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface_CAN_LIN/MCP2542FDxMF/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface_CAN_LIN/MCP2542FDxMF/image.png)|||

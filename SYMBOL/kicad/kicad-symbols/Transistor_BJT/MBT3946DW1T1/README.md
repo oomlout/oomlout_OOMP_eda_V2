@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKTRANSISTORBJTMBT3946DW1T1 > Transistor_BJT : MBT3946DW1T1](#szktransistorbjtmbt3946dw1t1--transistor_bjt--mbt3946dw1t1)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Transistor_BJT : MBT3946DW1T1
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-MBT3946DW1T1](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-MBT3946DW1T1)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJTMBT3946DW1T1](http://oom.lt/SZKTRANSISTORBJTMBT3946DW1T1)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_BJT/MBT3946DW1T1/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_BJT/MBT3946DW1T1/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_BJT/MBT3946DW1T1/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_BJT/MBT3946DW1T1/image.png)|||

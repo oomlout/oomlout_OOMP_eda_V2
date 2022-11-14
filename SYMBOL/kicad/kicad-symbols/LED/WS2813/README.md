@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKLWS2813 > LED : WS2813](#szklws2813--led--ws2813)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: LED : WS2813
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-LED-WS2813](http://oom.lt/SYMBOL-kicad-kicad-symbols-LED-WS2813)
 - Short Link: [http://oom.lt/SZKLWS2813](http://oom.lt/SZKLWS2813)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/LED/WS2813/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/LED/WS2813/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/LED/WS2813/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/LED/WS2813/image.png)|||

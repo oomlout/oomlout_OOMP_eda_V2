@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDICHARACTERHDSPA151 > Display_Character : HDSP-A151](#szkdicharacterhdspa151--display_character--hdsp-a151)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Display_Character : HDSP-A151
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-HDSP-A151](http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-HDSP-A151)
 - Short Link: [http://oom.lt/SZKDICHARACTERHDSPA151](http://oom.lt/SZKDICHARACTERHDSPA151)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Display_Character/HDSP-A151/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Display_Character/HDSP-A151/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Display_Character/HDSP-A151/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Display_Character/HDSP-A151/image.png)|||

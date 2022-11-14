@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKTRADT31T75 > Transformer : ADT3-1T-75](#szktradt31t75--transformer--adt3-1t-75)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Transformer : ADT3-1T-75
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transformer-ADT3-1T-75](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transformer-ADT3-1T-75)
 - Short Link: [http://oom.lt/SZKTRADT31T75](http://oom.lt/SZKTRADT31T75)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transformer/ADT3-1T-75/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transformer/ADT3-1T-75/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transformer/ADT3-1T-75/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transformer/ADT3-1T-75/image.png)|||

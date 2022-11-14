@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKMCUINTEL888MINMODE > MCU_Intel : 8088_Min_Mode](#szkmcuintel888minmode--mcu_intel--8088_min_mode)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: MCU_Intel : 8088_Min_Mode
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Intel-8088_Min_Mode](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Intel-8088_Min_Mode)
 - Short Link: [http://oom.lt/SZKMCUINTEL888MINMODE](http://oom.lt/SZKMCUINTEL888MINMODE)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Intel/8088_Min_Mode/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Intel/8088_Min_Mode/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Intel/8088_Min_Mode/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Intel/8088_Min_Mode/image.png)|||

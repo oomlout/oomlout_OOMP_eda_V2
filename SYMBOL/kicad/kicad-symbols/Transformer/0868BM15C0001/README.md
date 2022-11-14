@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKTR868BM15C1 > Transformer : 0868BM15C0001](#szktr868bm15c1--transformer--0868bm15c0001)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Transformer : 0868BM15C0001
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transformer-0868BM15C0001](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transformer-0868BM15C0001)
 - Short Link: [http://oom.lt/SZKTR868BM15C1](http://oom.lt/SZKTR868BM15C1)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transformer/0868BM15C0001/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transformer/0868BM15C0001/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transformer/0868BM15C0001/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transformer/0868BM15C0001/image.png)|||

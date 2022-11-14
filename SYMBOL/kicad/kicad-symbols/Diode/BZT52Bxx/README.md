@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDIODEBZT52BXX > Diode : BZT52Bxx](#szkdiodebzt52bxx--diode--bzt52bxx)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Diode : BZT52Bxx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-BZT52Bxx](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-BZT52Bxx)
 - Short Link: [http://oom.lt/SZKDIODEBZT52BXX](http://oom.lt/SZKDIODEBZT52BXX)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Diode/BZT52Bxx/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Diode/BZT52Bxx/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Diode/BZT52Bxx/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Diode/BZT52Bxx/image.png)|||

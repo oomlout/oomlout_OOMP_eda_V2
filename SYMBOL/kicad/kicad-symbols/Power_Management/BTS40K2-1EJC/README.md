@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKPOWERMANAGEMENTBTS4K21EJC > Power_Management : BTS40K2-1EJC](#szkpowermanagementbts4k21ejc--power_management--bts40k2-1ejc)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Power_Management : BTS40K2-1EJC
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-BTS40K2-1EJC](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-BTS40K2-1EJC)
 - Short Link: [http://oom.lt/SZKPOWERMANAGEMENTBTS4K21EJC](http://oom.lt/SZKPOWERMANAGEMENTBTS4K21EJC)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Power_Management/BTS40K2-1EJC/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Power_Management/BTS40K2-1EJC/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Power_Management/BTS40K2-1EJC/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Power_Management/BTS40K2-1EJC/image.png)|||

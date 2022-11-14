@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKMCUMOARDUNOR3 > MCU_Module : Arduino_UNO_R3](#szkmcumoardunor3--mcu_module--arduino_uno_r3)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: MCU_Module : Arduino_UNO_R3
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Module-Arduino_UNO_R3](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Module-Arduino_UNO_R3)
 - Short Link: [http://oom.lt/SZKMCUMOARDUNOR3](http://oom.lt/SZKMCUMOARDUNOR3)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Module/Arduino_UNO_R3/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Module/Arduino_UNO_R3/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Module/Arduino_UNO_R3/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Module/Arduino_UNO_R3/image.png)|||

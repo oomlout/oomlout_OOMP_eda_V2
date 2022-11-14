@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKINTERFACELINEDRIVERUA9638CP > Interface_LineDriver : UA9638CP](#szkinterfacelinedriverua9638cp--interface_linedriver--ua9638cp)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Interface_LineDriver : UA9638CP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_LineDriver-UA9638CP](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_LineDriver-UA9638CP)
 - Short Link: [http://oom.lt/SZKINTERFACELINEDRIVERUA9638CP](http://oom.lt/SZKINTERFACELINEDRIVERUA9638CP)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface_LineDriver/UA9638CP/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface_LineDriver/UA9638CP/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface_LineDriver/UA9638CP/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface_LineDriver/UA9638CP/image.png)|||

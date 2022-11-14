@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKMEMORYEEPROMBR25SXXX > Memory_EEPROM : BR25Sxxx](#szkmemoryeeprombr25sxxx--memory_eeprom--br25sxxx)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Memory_EEPROM : BR25Sxxx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_EEPROM-BR25Sxxx](http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_EEPROM-BR25Sxxx)
 - Short Link: [http://oom.lt/SZKMEMORYEEPROMBR25SXXX](http://oom.lt/SZKMEMORYEEPROMBR25SXXX)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Memory_EEPROM/BR25Sxxx/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Memory_EEPROM/BR25Sxxx/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Memory_EEPROM/BR25Sxxx/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Memory_EEPROM/BR25Sxxx/image.png)|||

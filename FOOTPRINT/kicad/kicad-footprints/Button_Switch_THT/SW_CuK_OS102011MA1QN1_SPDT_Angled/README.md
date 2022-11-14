@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKBSWCUKOS1211MA1QN1SPDTANGL > Button_Switch_THT : SW_CuK_OS102011MA1QN1_SPDT_Angled](#fzkbswcukos1211ma1qn1spdtangl--button_switch_tht--sw_cuk_os102011ma1qn1_spdt_angled)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Button_Switch_THT : SW_CuK_OS102011MA1QN1_SPDT_Angled
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Button_Switch_THT-SW_CuK_OS102011MA1QN1_SPDT_Angled](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Button_Switch_THT-SW_CuK_OS102011MA1QN1_SPDT_Angled)
 - Short Link: [http://oom.lt/FZKBSWCUKOS1211MA1QN1SPDTANGL](http://oom.lt/FZKBSWCUKOS1211MA1QN1SPDTANGL)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/SW_CuK_OS102011MA1QN1_SPDT_Angled/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/SW_CuK_OS102011MA1QN1_SPDT_Angled/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/SW_CuK_OS102011MA1QN1_SPDT_Angled/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/SW_CuK_OS102011MA1QN1_SPDT_Angled/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/SW_CuK_OS102011MA1QN1_SPDT_Angled/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/SW_CuK_OS102011MA1QN1_SPDT_Angled/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/SW_CuK_OS102011MA1QN1_SPDT_Angled/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/SW_CuK_OS102011MA1QN1_SPDT_Angled/kicadPcb3dBack.png)|

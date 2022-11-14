@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKAUDIOISD259E > Audio : ISD2590E](#szkaudioisd259e--audio--isd2590e)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Audio : ISD2590E
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Audio-ISD2590E](http://oom.lt/SYMBOL-kicad-kicad-symbols-Audio-ISD2590E)
 - Short Link: [http://oom.lt/SZKAUDIOISD259E](http://oom.lt/SZKAUDIOISD259E)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Audio/ISD2590E/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Audio/ISD2590E/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Audio/ISD2590E/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Audio/ISD2590E/image.png)|||

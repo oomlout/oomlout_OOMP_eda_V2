@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKSWITCHSWPUSHLAMP > Switch : SW_Push_Lamp](#szkswitchswpushlamp--switch--sw_push_lamp)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Switch : SW_Push_Lamp
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Switch-SW_Push_Lamp](http://oom.lt/SYMBOL-kicad-kicad-symbols-Switch-SW_Push_Lamp)
 - Short Link: [http://oom.lt/SZKSWITCHSWPUSHLAMP](http://oom.lt/SZKSWITCHSWPUSHLAMP)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Switch/SW_Push_Lamp/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Switch/SW_Push_Lamp/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Switch/SW_Push_Lamp/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Switch/SW_Push_Lamp/image.png)|||

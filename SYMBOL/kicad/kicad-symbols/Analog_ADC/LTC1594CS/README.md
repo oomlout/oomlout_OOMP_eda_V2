@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKANALOGADCLTC1594CS > Analog_ADC : LTC1594CS](#szkanalogadcltc1594cs--analog_adc--ltc1594cs)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Analog_ADC : LTC1594CS
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-LTC1594CS](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-LTC1594CS)
 - Short Link: [http://oom.lt/SZKANALOGADCLTC1594CS](http://oom.lt/SZKANALOGADCLTC1594CS)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Analog_ADC/LTC1594CS/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Analog_ADC/LTC1594CS/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Analog_ADC/LTC1594CS/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Analog_ADC/LTC1594CS/image.png)|||

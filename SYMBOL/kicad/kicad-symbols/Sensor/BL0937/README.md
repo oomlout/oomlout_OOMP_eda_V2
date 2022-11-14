@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKSENBL937 > Sensor : BL0937](#szksenbl937--sensor--bl0937)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Sensor : BL0937
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor-BL0937](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor-BL0937)
 - Short Link: [http://oom.lt/SZKSENBL937](http://oom.lt/SZKSENBL937)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor/BL0937/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor/BL0937/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor/BL0937/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor/BL0937/image.png)|||

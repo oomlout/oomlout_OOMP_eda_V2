@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKLLD271 > LED : LD271](#szklld271--led--ld271)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: LED : LD271
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-LED-LD271](http://oom.lt/SYMBOL-kicad-kicad-symbols-LED-LD271)
 - Short Link: [http://oom.lt/SZKLLD271](http://oom.lt/SZKLLD271)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/LED/LD271/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/LED/LD271/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/LED/LD271/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/LED/LD271/image.png)|||

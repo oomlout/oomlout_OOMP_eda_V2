@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKPOWER12V > power : -12V](#szkpower12v--power---12v)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: power : -12V
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-power--12V](http://oom.lt/SYMBOL-kicad-kicad-symbols-power--12V)
 - Short Link: [http://oom.lt/SZKPOWER12V](http://oom.lt/SZKPOWER12V)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/power/-12V/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/power/-12V/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/power/-12V/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/power/-12V/image.png)|||

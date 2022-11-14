@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKCOMPARATORMIC845H > Comparator : MIC845H](#szkcomparatormic845h--comparator--mic845h)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Comparator : MIC845H
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Comparator-MIC845H](http://oom.lt/SYMBOL-kicad-kicad-symbols-Comparator-MIC845H)
 - Short Link: [http://oom.lt/SZKCOMPARATORMIC845H](http://oom.lt/SZKCOMPARATORMIC845H)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Comparator/MIC845H/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Comparator/MIC845H/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Comparator/MIC845H/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Comparator/MIC845H/image.png)|||

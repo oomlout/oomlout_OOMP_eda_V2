@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKINTERFACEUARTSP3481CP > Interface_UART : SP3481CP](#szkinterfaceuartsp3481cp--interface_uart--sp3481cp)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Interface_UART : SP3481CP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_UART-SP3481CP](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_UART-SP3481CP)
 - Short Link: [http://oom.lt/SZKINTERFACEUARTSP3481CP](http://oom.lt/SZKINTERFACEUARTSP3481CP)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface_UART/SP3481CP/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface_UART/SP3481CP/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface_UART/SP3481CP/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface_UART/SP3481CP/image.png)|||

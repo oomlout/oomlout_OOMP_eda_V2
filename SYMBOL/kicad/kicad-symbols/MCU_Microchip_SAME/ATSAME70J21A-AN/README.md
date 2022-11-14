@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKMCUMCHIPSAMEATSAME7J21AAN > MCU_Microchip_SAME : ATSAME70J21A-AN](#szkmcumchipsameatsame7j21aan--mcu_microchip_same--atsame70j21a-an)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: MCU_Microchip_SAME : ATSAME70J21A-AN
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_SAME-ATSAME70J21A-AN](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_SAME-ATSAME70J21A-AN)
 - Short Link: [http://oom.lt/SZKMCUMCHIPSAMEATSAME7J21AAN](http://oom.lt/SZKMCUMCHIPSAMEATSAME7J21AAN)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_SAME/ATSAME70J21A-AN/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_SAME/ATSAME70J21A-AN/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_SAME/ATSAME70J21A-AN/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_SAME/ATSAME70J21A-AN/image.png)|||

@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZEBUZZERFSMX > buzzer : F_SMX](#fzebuzzerfsmx--buzzer--f_smx)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: buzzer : F_SMX
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-buzzer-F_SMX](http://oom.lt/FOOTPRINT-eagle-eagle-default-buzzer-F_SMX)
 - Short Link: [http://oom.lt/FZEBUZZERFSMX](http://oom.lt/FZEBUZZERFSMX)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/buzzer/F_SMX/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/buzzer/F_SMX/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/buzzer/F_SMX/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/buzzer/F_SMX/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/buzzer/F_SMX/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/buzzer/F_SMX/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/buzzer/F_SMX/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/buzzer/F_SMX/kicadPcb3dBack.png)|

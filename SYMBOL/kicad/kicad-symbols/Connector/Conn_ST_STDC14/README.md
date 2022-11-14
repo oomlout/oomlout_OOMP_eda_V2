@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKCNCONNSTSTDC14 > Connector : Conn_ST_STDC14](#szkcnconnststdc14--connector--conn_st_stdc14)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Connector : Conn_ST_STDC14
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-Conn_ST_STDC14](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-Conn_ST_STDC14)
 - Short Link: [http://oom.lt/SZKCNCONNSTSTDC14](http://oom.lt/SZKCNCONNSTSTDC14)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_ST_STDC14/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_ST_STDC14/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_ST_STDC14/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_ST_STDC14/image.png)|||

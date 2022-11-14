@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKTRANSISTORARRAYMC1413D > Transistor_Array : MC1413D](#szktransistorarraymc1413d--transistor_array--mc1413d)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Transistor_Array : MC1413D
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_Array-MC1413D](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_Array-MC1413D)
 - Short Link: [http://oom.lt/SZKTRANSISTORARRAYMC1413D](http://oom.lt/SZKTRANSISTORARRAYMC1413D)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_Array/MC1413D/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_Array/MC1413D/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_Array/MC1413D/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_Array/MC1413D/image.png)|||

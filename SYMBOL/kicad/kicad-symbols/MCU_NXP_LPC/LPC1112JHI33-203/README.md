@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKMCUNXPLPCLPC1112JHI3323 > MCU_NXP_LPC : LPC1112JHI33-203](#szkmcunxplpclpc1112jhi3323--mcu_nxp_lpc--lpc1112jhi33-203)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: MCU_NXP_LPC : LPC1112JHI33-203
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_NXP_LPC-LPC1112JHI33-203](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_NXP_LPC-LPC1112JHI33-203)
 - Short Link: [http://oom.lt/SZKMCUNXPLPCLPC1112JHI3323](http://oom.lt/SZKMCUNXPLPCLPC1112JHI3323)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_NXP_LPC/LPC1112JHI33-203/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_NXP_LPC/LPC1112JHI33-203/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_NXP_LPC/LPC1112JHI33-203/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_NXP_LPC/LPC1112JHI33-203/image.png)|||

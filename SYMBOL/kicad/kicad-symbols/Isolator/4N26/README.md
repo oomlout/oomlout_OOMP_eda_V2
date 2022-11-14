@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKISOLATOR4N26 > Isolator : 4N26](#szkisolator4n26--isolator--4n26)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Isolator : 4N26
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-4N26](http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-4N26)
 - Short Link: [http://oom.lt/SZKISOLATOR4N26](http://oom.lt/SZKISOLATOR4N26)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Isolator/4N26/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Isolator/4N26/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Isolator/4N26/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Isolator/4N26/image.png)|||

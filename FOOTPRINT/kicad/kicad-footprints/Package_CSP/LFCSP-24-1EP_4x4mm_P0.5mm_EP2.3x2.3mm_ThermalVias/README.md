@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKCSPLFCSP241EP4X4P5EP23X23THERMALVIAS > Package_CSP : LFCSP-24-1EP_4x4mm_P0.5mm_EP2.3x2.3mm_ThermalVias](#fzkcsplfcsp241ep4x4p5ep23x23thermalvias--package_csp--lfcsp-24-1ep_4x4mm_p05mm_ep23x23mm_thermalvias)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Package_CSP : LFCSP-24-1EP_4x4mm_P0.5mm_EP2.3x2.3mm_ThermalVias
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_CSP-LFCSP-24-1EP_4x4mm_P0.5mm_EP2.3x2.3mm_ThermalVias](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_CSP-LFCSP-24-1EP_4x4mm_P0.5mm_EP2.3x2.3mm_ThermalVias)
 - Short Link: [http://oom.lt/FZKCSPLFCSP241EP4X4P5EP23X23THERMALVIAS](http://oom.lt/FZKCSPLFCSP241EP4X4P5EP23X23THERMALVIAS)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_CSP/LFCSP-24-1EP_4x4mm_P0.5mm_EP2.3x2.3mm_ThermalVias/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_CSP/LFCSP-24-1EP_4x4mm_P0.5mm_EP2.3x2.3mm_ThermalVias/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_CSP/LFCSP-24-1EP_4x4mm_P0.5mm_EP2.3x2.3mm_ThermalVias/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_CSP/LFCSP-24-1EP_4x4mm_P0.5mm_EP2.3x2.3mm_ThermalVias/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_CSP/LFCSP-24-1EP_4x4mm_P0.5mm_EP2.3x2.3mm_ThermalVias/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_CSP/LFCSP-24-1EP_4x4mm_P0.5mm_EP2.3x2.3mm_ThermalVias/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_CSP/LFCSP-24-1EP_4x4mm_P0.5mm_EP2.3x2.3mm_ThermalVias/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_CSP/LFCSP-24-1EP_4x4mm_P0.5mm_EP2.3x2.3mm_ThermalVias/kicadPcb3dBack.png)|

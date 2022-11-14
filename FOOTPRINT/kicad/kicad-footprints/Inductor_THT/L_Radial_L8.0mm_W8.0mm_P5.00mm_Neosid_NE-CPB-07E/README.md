@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKINLRL8W8P5NEOSIDNECPB7E > Inductor_THT : L_Radial_L8.0mm_W8.0mm_P5.00mm_Neosid_NE-CPB-07E](#fzkinlrl8w8p5neosidnecpb7e--inductor_tht--l_radial_l80mm_w80mm_p500mm_neosid_ne-cpb-07e)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Inductor_THT : L_Radial_L8.0mm_W8.0mm_P5.00mm_Neosid_NE-CPB-07E
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Radial_L8.0mm_W8.0mm_P5.00mm_Neosid_NE-CPB-07E](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Radial_L8.0mm_W8.0mm_P5.00mm_Neosid_NE-CPB-07E)
 - Short Link: [http://oom.lt/FZKINLRL8W8P5NEOSIDNECPB7E](http://oom.lt/FZKINLRL8W8P5NEOSIDNECPB7E)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Radial_L8.0mm_W8.0mm_P5.00mm_Neosid_NE-CPB-07E/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Radial_L8.0mm_W8.0mm_P5.00mm_Neosid_NE-CPB-07E/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Radial_L8.0mm_W8.0mm_P5.00mm_Neosid_NE-CPB-07E/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Radial_L8.0mm_W8.0mm_P5.00mm_Neosid_NE-CPB-07E/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Radial_L8.0mm_W8.0mm_P5.00mm_Neosid_NE-CPB-07E/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Radial_L8.0mm_W8.0mm_P5.00mm_Neosid_NE-CPB-07E/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Radial_L8.0mm_W8.0mm_P5.00mm_Neosid_NE-CPB-07E/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Radial_L8.0mm_W8.0mm_P5.00mm_Neosid_NE-CPB-07E/kicadPcb3dBack.png)|

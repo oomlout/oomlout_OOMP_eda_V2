@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKCONTMR1212 > Converter_DCDC : TMR-1212](#szkcontmr1212--converter_dcdc--tmr-1212)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Converter_DCDC : TMR-1212
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-TMR-1212](http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-TMR-1212)
 - Short Link: [http://oom.lt/SZKCONTMR1212](http://oom.lt/SZKCONTMR1212)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Converter_DCDC/TMR-1212/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Converter_DCDC/TMR-1212/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Converter_DCDC/TMR-1212/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Converter_DCDC/TMR-1212/image.png)|||

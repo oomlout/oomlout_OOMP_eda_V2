@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDIODEBRIDGEB25R > Diode_Bridge : B250R](#szkdiodebridgeb25r--diode_bridge--b250r)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Diode_Bridge : B250R
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode_Bridge-B250R](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode_Bridge-B250R)
 - Short Link: [http://oom.lt/SZKDIODEBRIDGEB25R](http://oom.lt/SZKDIODEBRIDGEB25R)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Diode_Bridge/B250R/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Diode_Bridge/B250R/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Diode_Bridge/B250R/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Diode_Bridge/B250R/image.png)|||

@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKSENTOUCHPCA8886 > Sensor_Touch : PCA8886](#szksentouchpca8886--sensor_touch--pca8886)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Sensor_Touch : PCA8886
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Touch-PCA8886](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Touch-PCA8886)
 - Short Link: [http://oom.lt/SZKSENTOUCHPCA8886](http://oom.lt/SZKSENTOUCHPCA8886)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Touch/PCA8886/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Touch/PCA8886/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Touch/PCA8886/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Touch/PCA8886/image.png)|||

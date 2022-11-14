@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKTRTRCHKUI391VAFLAT > Transformer_THT : Transformer_CHK_UI39-10VA_Flat](#fzktrtrchkui391vaflat--transformer_tht--transformer_chk_ui39-10va_flat)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Transformer_THT : Transformer_CHK_UI39-10VA_Flat
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Transformer_THT-Transformer_CHK_UI39-10VA_Flat](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Transformer_THT-Transformer_CHK_UI39-10VA_Flat)
 - Short Link: [http://oom.lt/FZKTRTRCHKUI391VAFLAT](http://oom.lt/FZKTRTRCHKUI391VAFLAT)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Transformer_THT/Transformer_CHK_UI39-10VA_Flat/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Transformer_THT/Transformer_CHK_UI39-10VA_Flat/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Transformer_THT/Transformer_CHK_UI39-10VA_Flat/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Transformer_THT/Transformer_CHK_UI39-10VA_Flat/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Transformer_THT/Transformer_CHK_UI39-10VA_Flat/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Transformer_THT/Transformer_CHK_UI39-10VA_Flat/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Transformer_THT/Transformer_CHK_UI39-10VA_Flat/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Transformer_THT/Transformer_CHK_UI39-10VA_Flat/kicadPcb3dBack.png)|

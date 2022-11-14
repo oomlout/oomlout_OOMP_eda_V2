@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKCNWIRESOLDERWIRE127SQ1X1D48OD1RELIEF > Connector_Wire : SolderWire-0.127sqmm_1x01_D0.48mm_OD1mm_Relief](#fzkcnwiresolderwire127sq1x1d48od1relief--connector_wire--solderwire-0127sqmm_1x01_d048mm_od1mm_relief)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Connector_Wire : SolderWire-0.127sqmm_1x01_D0.48mm_OD1mm_Relief
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Wire-SolderWire-0.127sqmm_1x01_D0.48mm_OD1mm_Relief](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Wire-SolderWire-0.127sqmm_1x01_D0.48mm_OD1mm_Relief)
 - Short Link: [http://oom.lt/FZKCNWIRESOLDERWIRE127SQ1X1D48OD1RELIEF](http://oom.lt/FZKCNWIRESOLDERWIRE127SQ1X1D48OD1RELIEF)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Wire/SolderWire-0.127sqmm_1x01_D0.48mm_OD1mm_Relief/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Wire/SolderWire-0.127sqmm_1x01_D0.48mm_OD1mm_Relief/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Wire/SolderWire-0.127sqmm_1x01_D0.48mm_OD1mm_Relief/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Wire/SolderWire-0.127sqmm_1x01_D0.48mm_OD1mm_Relief/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Wire/SolderWire-0.127sqmm_1x01_D0.48mm_OD1mm_Relief/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Wire/SolderWire-0.127sqmm_1x01_D0.48mm_OD1mm_Relief/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Wire/SolderWire-0.127sqmm_1x01_D0.48mm_OD1mm_Relief/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Wire/SolderWire-0.127sqmm_1x01_D0.48mm_OD1mm_Relief/kicadPcb3dBack.png)|

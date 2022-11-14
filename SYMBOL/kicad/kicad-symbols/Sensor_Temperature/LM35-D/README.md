@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKSENTEMPERATURELM35D > Sensor_Temperature : LM35-D](#szksentemperaturelm35d--sensor_temperature--lm35-d)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Sensor_Temperature : LM35-D
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Temperature-LM35-D](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Temperature-LM35-D)
 - Short Link: [http://oom.lt/SZKSENTEMPERATURELM35D](http://oom.lt/SZKSENTEMPERATURELM35D)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Temperature/LM35-D/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Temperature/LM35-D/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Temperature/LM35-D/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Temperature/LM35-D/image.png)|||

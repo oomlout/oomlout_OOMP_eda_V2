@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKPOWERGND > power : GND](#szkpowergnd--power--gnd)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: power : GND
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-power-GND](http://oom.lt/SYMBOL-kicad-kicad-symbols-power-GND)
 - Short Link: [http://oom.lt/SZKPOWERGND](http://oom.lt/SZKPOWERGND)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/power/GND/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/power/GND/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/power/GND/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/power/GND/image.png)|||

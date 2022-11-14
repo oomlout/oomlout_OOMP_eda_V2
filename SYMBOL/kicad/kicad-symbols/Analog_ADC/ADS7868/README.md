@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKANALOGADCADS7868 > Analog_ADC : ADS7868](#szkanalogadcads7868--analog_adc--ads7868)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Analog_ADC : ADS7868
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-ADS7868](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-ADS7868)
 - Short Link: [http://oom.lt/SZKANALOGADCADS7868](http://oom.lt/SZKANALOGADCADS7868)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Analog_ADC/ADS7868/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Analog_ADC/ADS7868/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Analog_ADC/ADS7868/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Analog_ADC/ADS7868/image.png)|||

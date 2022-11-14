@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKLINOLUXINPI554FCH > LED : Inolux_IN-PI554FCH](#szklinoluxinpi554fch--led--inolux_in-pi554fch)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: LED : Inolux_IN-PI554FCH
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-LED-Inolux_IN-PI554FCH](http://oom.lt/SYMBOL-kicad-kicad-symbols-LED-Inolux_IN-PI554FCH)
 - Short Link: [http://oom.lt/SZKLINOLUXINPI554FCH](http://oom.lt/SZKLINOLUXINPI554FCH)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/LED/Inolux_IN-PI554FCH/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/LED/Inolux_IN-PI554FCH/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/LED/Inolux_IN-PI554FCH/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/LED/Inolux_IN-PI554FCH/image.png)|||

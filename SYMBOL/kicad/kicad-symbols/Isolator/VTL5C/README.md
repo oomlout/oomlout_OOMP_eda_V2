@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKISOLATORVTL5C > Isolator : VTL5C](#szkisolatorvtl5c--isolator--vtl5c)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Isolator : VTL5C
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-VTL5C](http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-VTL5C)
 - Short Link: [http://oom.lt/SZKISOLATORVTL5C](http://oom.lt/SZKISOLATORVTL5C)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Isolator/VTL5C/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Isolator/VTL5C/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Isolator/VTL5C/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Isolator/VTL5C/image.png)|||

@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKINDUCTORSML4215METRICPAD77X64HANDSOLDER > Inductor_SMD : L_0402_1005Metric_Pad0.77x0.64mm_HandSolder](#fzkinductorsml4215metricpad77x64handsolder--inductor_smd--l_0402_1005metric_pad077x064mm_handsolder)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Inductor_SMD : L_0402_1005Metric_Pad0.77x0.64mm_HandSolder
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_0402_1005Metric_Pad0.77x0.64mm_HandSolder](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_0402_1005Metric_Pad0.77x0.64mm_HandSolder)
 - Short Link: [http://oom.lt/FZKINDUCTORSML4215METRICPAD77X64HANDSOLDER](http://oom.lt/FZKINDUCTORSML4215METRICPAD77X64HANDSOLDER)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_0402_1005Metric_Pad0.77x0.64mm_HandSolder/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_0402_1005Metric_Pad0.77x0.64mm_HandSolder/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_0402_1005Metric_Pad0.77x0.64mm_HandSolder/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_0402_1005Metric_Pad0.77x0.64mm_HandSolder/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_0402_1005Metric_Pad0.77x0.64mm_HandSolder/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_0402_1005Metric_Pad0.77x0.64mm_HandSolder/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_0402_1005Metric_Pad0.77x0.64mm_HandSolder/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_0402_1005Metric_Pad0.77x0.64mm_HandSolder/kicadPcb3dBack.png)|

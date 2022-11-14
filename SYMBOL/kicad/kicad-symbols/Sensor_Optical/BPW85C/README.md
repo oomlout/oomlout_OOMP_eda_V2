@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKSENOPTICALBPW85C > Sensor_Optical : BPW85C](#szksenopticalbpw85c--sensor_optical--bpw85c)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Sensor_Optical : BPW85C
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Optical-BPW85C](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Optical-BPW85C)
 - Short Link: [http://oom.lt/SZKSENOPTICALBPW85C](http://oom.lt/SZKSENOPTICALBPW85C)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Optical/BPW85C/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Optical/BPW85C/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Optical/BPW85C/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Optical/BPW85C/image.png)|||

@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKMEMORYEEPROM24LC125 > Memory_EEPROM : 24LC1025](#szkmemoryeeprom24lc125--memory_eeprom--24lc1025)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Memory_EEPROM : 24LC1025
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_EEPROM-24LC1025](http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_EEPROM-24LC1025)
 - Short Link: [http://oom.lt/SZKMEMORYEEPROM24LC125](http://oom.lt/SZKMEMORYEEPROM24LC125)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Memory_EEPROM/24LC1025/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Memory_EEPROM/24LC1025/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Memory_EEPROM/24LC1025/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Memory_EEPROM/24LC1025/image.png)|||

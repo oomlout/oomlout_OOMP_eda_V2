@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKVIDEOTDA195 > Video : TDA1950](#szkvideotda195--video--tda1950)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Video : TDA1950
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Video-TDA1950](http://oom.lt/SYMBOL-kicad-kicad-symbols-Video-TDA1950)
 - Short Link: [http://oom.lt/SZKVIDEOTDA195](http://oom.lt/SZKVIDEOTDA195)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Video/TDA1950/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Video/TDA1950/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Video/TDA1950/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Video/TDA1950/image.png)|||

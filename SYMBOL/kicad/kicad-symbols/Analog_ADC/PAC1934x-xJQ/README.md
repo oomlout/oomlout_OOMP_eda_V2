@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKANALOGADCPAC1934XXJQ > Analog_ADC : PAC1934x-xJQ](#szkanalogadcpac1934xxjq--analog_adc--pac1934x-xjq)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Analog_ADC : PAC1934x-xJQ
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-PAC1934x-xJQ](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-PAC1934x-xJQ)
 - Short Link: [http://oom.lt/SZKANALOGADCPAC1934XXJQ](http://oom.lt/SZKANALOGADCPAC1934XXJQ)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Analog_ADC/PAC1934x-xJQ/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Analog_ADC/PAC1934x-xJQ/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Analog_ADC/PAC1934x-xJQ/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Analog_ADC/PAC1934x-xJQ/image.png)|||

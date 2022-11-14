@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKINTERFACEPCI93PQFP176 > Interface : PCI9030-PQFP176](#szkinterfacepci93pqfp176--interface--pci9030-pqfp176)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Interface : PCI9030-PQFP176
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-PCI9030-PQFP176](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-PCI9030-PQFP176)
 - Short Link: [http://oom.lt/SZKINTERFACEPCI93PQFP176](http://oom.lt/SZKINTERFACEPCI93PQFP176)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface/PCI9030-PQFP176/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface/PCI9030-PQFP176/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface/PCI9030-PQFP176/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface/PCI9030-PQFP176/image.png)|||

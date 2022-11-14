@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDEVICEQDUALNMOSS1G1S2G2D2D2D1D1 > Device : Q_Dual_NMOS_S1G1S2G2D2D2D1D1](#szkdeviceqdualnmoss1g1s2g2d2d2d1d1--device--q_dual_nmos_s1g1s2g2d2d2d1d1)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Device : Q_Dual_NMOS_S1G1S2G2D2D2D1D1
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Q_Dual_NMOS_S1G1S2G2D2D2D1D1](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Q_Dual_NMOS_S1G1S2G2D2D2D1D1)
 - Short Link: [http://oom.lt/SZKDEVICEQDUALNMOSS1G1S2G2D2D2D1D1](http://oom.lt/SZKDEVICEQDUALNMOSS1G1S2G2D2D2D1D1)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/Q_Dual_NMOS_S1G1S2G2D2D2D1D1/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/Q_Dual_NMOS_S1G1S2G2D2D2D1D1/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/Q_Dual_NMOS_S1G1S2G2D2D2D1D1/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/Q_Dual_NMOS_S1G1S2G2D2D2D1D1/image.png)|||

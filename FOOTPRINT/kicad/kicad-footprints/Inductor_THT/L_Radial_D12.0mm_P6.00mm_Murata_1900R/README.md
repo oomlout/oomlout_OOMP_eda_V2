@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKINLRD12P6M19R > Inductor_THT : L_Radial_D12.0mm_P6.00mm_Murata_1900R](#fzkinlrd12p6m19r--inductor_tht--l_radial_d120mm_p600mm_murata_1900r)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Inductor_THT : L_Radial_D12.0mm_P6.00mm_Murata_1900R
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Radial_D12.0mm_P6.00mm_Murata_1900R](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Radial_D12.0mm_P6.00mm_Murata_1900R)
 - Short Link: [http://oom.lt/FZKINLRD12P6M19R](http://oom.lt/FZKINLRD12P6M19R)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Radial_D12.0mm_P6.00mm_Murata_1900R/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Radial_D12.0mm_P6.00mm_Murata_1900R/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Radial_D12.0mm_P6.00mm_Murata_1900R/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Radial_D12.0mm_P6.00mm_Murata_1900R/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Radial_D12.0mm_P6.00mm_Murata_1900R/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Radial_D12.0mm_P6.00mm_Murata_1900R/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Radial_D12.0mm_P6.00mm_Murata_1900R/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Radial_D12.0mm_P6.00mm_Murata_1900R/kicadPcb3dBack.png)|

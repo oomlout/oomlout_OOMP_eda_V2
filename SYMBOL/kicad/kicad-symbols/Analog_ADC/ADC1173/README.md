@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKANALOGADCADC1173 > Analog_ADC : ADC1173](#szkanalogadcadc1173--analog_adc--adc1173)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Analog_ADC : ADC1173
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-ADC1173](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-ADC1173)
 - Short Link: [http://oom.lt/SZKANALOGADCADC1173](http://oom.lt/SZKANALOGADCADC1173)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Analog_ADC/ADC1173/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Analog_ADC/ADC1173/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Analog_ADC/ADC1173/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Analog_ADC/ADC1173/image.png)|||

@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKTRANSISTORFETIRL6283M > Transistor_FET : IRL6283M](#szktransistorfetirl6283m--transistor_fet--irl6283m)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Transistor_FET : IRL6283M
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IRL6283M](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IRL6283M)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETIRL6283M](http://oom.lt/SZKTRANSISTORFETIRL6283M)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/IRL6283M/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/IRL6283M/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/IRL6283M/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/IRL6283M/image.png)|||

@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKPSPICEC > pspice : C](#szkpspicec--pspice--c)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: pspice : C
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-pspice-C](http://oom.lt/SYMBOL-kicad-kicad-symbols-pspice-C)
 - Short Link: [http://oom.lt/SZKPSPICEC](http://oom.lt/SZKPSPICEC)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/pspice/C/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/pspice/C/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/pspice/C/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/pspice/C/image.png)|||

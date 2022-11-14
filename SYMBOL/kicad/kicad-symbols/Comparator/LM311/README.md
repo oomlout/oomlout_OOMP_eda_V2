@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKCOMPARATORLM311 > Comparator : LM311](#szkcomparatorlm311--comparator--lm311)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Comparator : LM311
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Comparator-LM311](http://oom.lt/SYMBOL-kicad-kicad-symbols-Comparator-LM311)
 - Short Link: [http://oom.lt/SZKCOMPARATORLM311](http://oom.lt/SZKCOMPARATORLM311)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Comparator/LM311/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Comparator/LM311/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Comparator/LM311/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Comparator/LM311/image.png)|||

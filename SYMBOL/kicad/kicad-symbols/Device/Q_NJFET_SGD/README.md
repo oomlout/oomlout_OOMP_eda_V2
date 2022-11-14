@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDEVICEQNJFETSGD > Device : Q_NJFET_SGD](#szkdeviceqnjfetsgd--device--q_njfet_sgd)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Device : Q_NJFET_SGD
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Q_NJFET_SGD](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Q_NJFET_SGD)
 - Short Link: [http://oom.lt/SZKDEVICEQNJFETSGD](http://oom.lt/SZKDEVICEQNJFETSGD)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/Q_NJFET_SGD/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/Q_NJFET_SGD/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/Q_NJFET_SGD/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/Q_NJFET_SGD/image.png)|||

@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKMCUNXPKINETISMK26FN2MVMD18 > MCU_NXP_Kinetis : MK26FN2M0VMD18](#szkmcunxpkinetismk26fn2mvmd18--mcu_nxp_kinetis--mk26fn2m0vmd18)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: MCU_NXP_Kinetis : MK26FN2M0VMD18
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_NXP_Kinetis-MK26FN2M0VMD18](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_NXP_Kinetis-MK26FN2M0VMD18)
 - Short Link: [http://oom.lt/SZKMCUNXPKINETISMK26FN2MVMD18](http://oom.lt/SZKMCUNXPKINETISMK26FN2MVMD18)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_NXP_Kinetis/MK26FN2M0VMD18/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_NXP_Kinetis/MK26FN2M0VMD18/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_NXP_Kinetis/MK26FN2M0VMD18/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_NXP_Kinetis/MK26FN2M0VMD18/image.png)|||

@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKSENTEMPERATURETMP175D > Sensor_Temperature : TMP1075D](#szksentemperaturetmp175d--sensor_temperature--tmp1075d)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Sensor_Temperature : TMP1075D
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Temperature-TMP1075D](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Temperature-TMP1075D)
 - Short Link: [http://oom.lt/SZKSENTEMPERATURETMP175D](http://oom.lt/SZKSENTEMPERATURETMP175D)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Temperature/TMP1075D/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Temperature/TMP1075D/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Temperature/TMP1075D/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Temperature/TMP1075D/image.png)|||

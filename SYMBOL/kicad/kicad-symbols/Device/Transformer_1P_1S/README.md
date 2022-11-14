@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDEVICETR1P1S > Device : Transformer_1P_1S](#szkdevicetr1p1s--device--transformer_1p_1s)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Device : Transformer_1P_1S
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Transformer_1P_1S](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Transformer_1P_1S)
 - Short Link: [http://oom.lt/SZKDEVICETR1P1S](http://oom.lt/SZKDEVICETR1P1S)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/Transformer_1P_1S/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/Transformer_1P_1S/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/Transformer_1P_1S/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/Transformer_1P_1S/image.png)|||

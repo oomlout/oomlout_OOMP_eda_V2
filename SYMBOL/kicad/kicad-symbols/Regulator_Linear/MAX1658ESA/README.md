@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKREGULATORLINEARMAX1658ESA > Regulator_Linear : MAX1658ESA](#szkregulatorlinearmax1658esa--regulator_linear--max1658esa)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Regulator_Linear : MAX1658ESA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-MAX1658ESA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-MAX1658ESA)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARMAX1658ESA](http://oom.lt/SZKREGULATORLINEARMAX1658ESA)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/MAX1658ESA/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/MAX1658ESA/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/MAX1658ESA/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/MAX1658ESA/image.png)|||

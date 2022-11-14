@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKREGULATORSWITCHINGADP218AUJ12 > Regulator_Switching : ADP2108AUJ-1.2](#szkregulatorswitchingadp218auj12--regulator_switching--adp2108auj-12)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Regulator_Switching : ADP2108AUJ-1.2
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-ADP2108AUJ-1.2](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-ADP2108AUJ-1.2)
 - Short Link: [http://oom.lt/SZKREGULATORSWITCHINGADP218AUJ12](http://oom.lt/SZKREGULATORSWITCHINGADP218AUJ12)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/ADP2108AUJ-1.2/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/ADP2108AUJ-1.2/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/ADP2108AUJ-1.2/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/ADP2108AUJ-1.2/image.png)|||

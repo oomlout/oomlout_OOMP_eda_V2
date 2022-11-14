@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKCNMXMXSPOX526811A1X11P25HORIZONTAL > Connector_Molex : Molex_SPOX_5268-11A_1x11_P2.50mm_Horizontal](#fzkcnmxmxspox526811a1x11p25horizontal--connector_molex--molex_spox_5268-11a_1x11_p250mm_horizontal)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Connector_Molex : Molex_SPOX_5268-11A_1x11_P2.50mm_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_SPOX_5268-11A_1x11_P2.50mm_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_SPOX_5268-11A_1x11_P2.50mm_Horizontal)
 - Short Link: [http://oom.lt/FZKCNMXMXSPOX526811A1X11P25HORIZONTAL](http://oom.lt/FZKCNMXMXSPOX526811A1X11P25HORIZONTAL)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_SPOX_5268-11A_1x11_P2.50mm_Horizontal/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_SPOX_5268-11A_1x11_P2.50mm_Horizontal/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_SPOX_5268-11A_1x11_P2.50mm_Horizontal/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_SPOX_5268-11A_1x11_P2.50mm_Horizontal/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_SPOX_5268-11A_1x11_P2.50mm_Horizontal/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_SPOX_5268-11A_1x11_P2.50mm_Horizontal/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_SPOX_5268-11A_1x11_P2.50mm_Horizontal/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_SPOX_5268-11A_1x11_P2.50mm_Horizontal/kicadPcb3dBack.png)|

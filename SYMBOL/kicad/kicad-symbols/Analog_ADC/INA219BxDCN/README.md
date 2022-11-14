@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKANALOGADCINA219BXDCN > Analog_ADC : INA219BxDCN](#szkanalogadcina219bxdcn--analog_adc--ina219bxdcn)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Analog_ADC : INA219BxDCN
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-INA219BxDCN](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-INA219BxDCN)
 - Short Link: [http://oom.lt/SZKANALOGADCINA219BXDCN](http://oom.lt/SZKANALOGADCINA219BXDCN)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Analog_ADC/INA219BxDCN/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Analog_ADC/INA219BxDCN/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Analog_ADC/INA219BxDCN/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Analog_ADC/INA219BxDCN/image.png)|||

@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDIODEPMEG12EH > Diode : PMEG1020EH](#szkdiodepmeg12eh--diode--pmeg1020eh)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Diode : PMEG1020EH
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-PMEG1020EH](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-PMEG1020EH)
 - Short Link: [http://oom.lt/SZKDIODEPMEG12EH](http://oom.lt/SZKDIODEPMEG12EH)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Diode/PMEG1020EH/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Diode/PMEG1020EH/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Diode/PMEG1020EH/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Diode/PMEG1020EH/image.png)|||

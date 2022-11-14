@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKCDX5R5HXXXXUD115P1 > Capacitor_THT : DX_5R5HxxxxU_D11.5mm_P10.00mm](#fzkcdx5r5hxxxxud115p1--capacitor_tht--dx_5r5hxxxxu_d115mm_p1000mm)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Capacitor_THT : DX_5R5HxxxxU_D11.5mm_P10.00mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_THT-DX_5R5HxxxxU_D11.5mm_P10.00mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_THT-DX_5R5HxxxxU_D11.5mm_P10.00mm)
 - Short Link: [http://oom.lt/FZKCDX5R5HXXXXUD115P1](http://oom.lt/FZKCDX5R5HXXXXUD115P1)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_THT/DX_5R5HxxxxU_D11.5mm_P10.00mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_THT/DX_5R5HxxxxU_D11.5mm_P10.00mm/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_THT/DX_5R5HxxxxU_D11.5mm_P10.00mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_THT/DX_5R5HxxxxU_D11.5mm_P10.00mm/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_THT/DX_5R5HxxxxU_D11.5mm_P10.00mm/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_THT/DX_5R5HxxxxU_D11.5mm_P10.00mm/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_THT/DX_5R5HxxxxU_D11.5mm_P10.00mm/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_THT/DX_5R5HxxxxU_D11.5mm_P10.00mm/kicadPcb3dBack.png)|

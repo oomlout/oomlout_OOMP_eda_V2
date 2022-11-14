@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKSENMAGNETICMA73 > Sensor_Magnetic : MA730](#szksenmagneticma73--sensor_magnetic--ma730)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Sensor_Magnetic : MA730
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Magnetic-MA730](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Magnetic-MA730)
 - Short Link: [http://oom.lt/SZKSENMAGNETICMA73](http://oom.lt/SZKSENMAGNETICMA73)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Magnetic/MA730/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Magnetic/MA730/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Magnetic/MA730/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Magnetic/MA730/image.png)|||

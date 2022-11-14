@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKTRANSISTORFETIPT2N1N3 > Transistor_FET : IPT020N10N3](#szktransistorfetipt2n1n3--transistor_fet--ipt020n10n3)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Transistor_FET : IPT020N10N3
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IPT020N10N3](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IPT020N10N3)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETIPT2N1N3](http://oom.lt/SZKTRANSISTORFETIPT2N1N3)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/IPT020N10N3/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/IPT020N10N3/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/IPT020N10N3/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/IPT020N10N3/image.png)|||

@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKTRANSISTORFETZXMN2B1F > Transistor_FET : ZXMN2B01F](#szktransistorfetzxmn2b1f--transistor_fet--zxmn2b01f)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Transistor_FET : ZXMN2B01F
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-ZXMN2B01F](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-ZXMN2B01F)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETZXMN2B1F](http://oom.lt/SZKTRANSISTORFETZXMN2B1F)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/ZXMN2B01F/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/ZXMN2B01F/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/ZXMN2B01F/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/ZXMN2B01F/image.png)|||

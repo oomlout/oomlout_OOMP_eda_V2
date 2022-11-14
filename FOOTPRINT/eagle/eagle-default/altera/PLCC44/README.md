@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZEALTERAPLCC44 > altera : PLCC44](#fzealteraplcc44--altera--plcc44)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: altera : PLCC44
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-altera-PLCC44](http://oom.lt/FOOTPRINT-eagle-eagle-default-altera-PLCC44)
 - Short Link: [http://oom.lt/FZEALTERAPLCC44](http://oom.lt/FZEALTERAPLCC44)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/altera/PLCC44/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/altera/PLCC44/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/altera/PLCC44/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/altera/PLCC44/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/altera/PLCC44/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/altera/PLCC44/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/altera/PLCC44/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/altera/PLCC44/kicadPcb3dBack.png)|

@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDIODEBRIDGEW6G > Diode_Bridge : W06G](#szkdiodebridgew6g--diode_bridge--w06g)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Diode_Bridge : W06G
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode_Bridge-W06G](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode_Bridge-W06G)
 - Short Link: [http://oom.lt/SZKDIODEBRIDGEW6G](http://oom.lt/SZKDIODEBRIDGEW6G)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Diode_Bridge/W06G/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Diode_Bridge/W06G/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Diode_Bridge/W06G/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Diode_Bridge/W06G/image.png)|||

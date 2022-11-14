@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDIODEC3D26F > Diode : C3D02060F](#szkdiodec3d26f--diode--c3d02060f)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Diode : C3D02060F
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-C3D02060F](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-C3D02060F)
 - Short Link: [http://oom.lt/SZKDIODEC3D26F](http://oom.lt/SZKDIODEC3D26F)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Diode/C3D02060F/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Diode/C3D02060F/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Diode/C3D02060F/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Diode/C3D02060F/image.png)|||

@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKAMPLIFIERDIFFERENCEAMC11DWV > Amplifier_Difference : AMC1100DWV](#szkamplifierdifferenceamc11dwv--amplifier_difference--amc1100dwv)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Amplifier_Difference : AMC1100DWV
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Difference-AMC1100DWV](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Difference-AMC1100DWV)
 - Short Link: [http://oom.lt/SZKAMPLIFIERDIFFERENCEAMC11DWV](http://oom.lt/SZKAMPLIFIERDIFFERENCEAMC11DWV)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Amplifier_Difference/AMC1100DWV/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Amplifier_Difference/AMC1100DWV/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Amplifier_Difference/AMC1100DWV/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Amplifier_Difference/AMC1100DWV/image.png)|||

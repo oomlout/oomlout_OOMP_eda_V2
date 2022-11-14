@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKINTERFACEAM26LV32XNS > Interface : AM26LV32xNS](#szkinterfaceam26lv32xns--interface--am26lv32xns)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Interface : AM26LV32xNS
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-AM26LV32xNS](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-AM26LV32xNS)
 - Short Link: [http://oom.lt/SZKINTERFACEAM26LV32XNS](http://oom.lt/SZKINTERFACEAM26LV32XNS)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface/AM26LV32xNS/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface/AM26LV32xNS/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface/AM26LV32xNS/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface/AM26LV32xNS/image.png)|||

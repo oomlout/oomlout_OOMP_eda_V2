@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKXXSMFOXFQ752PIN7X5HANDSOLDERING > Crystal : Crystal_SMD_FOX_FQ7050-2Pin_7.0x5.0mm_HandSoldering](#fzkxxsmfoxfq752pin7x5handsoldering--crystal--crystal_smd_fox_fq7050-2pin_70x50mm_handsoldering)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Crystal : Crystal_SMD_FOX_FQ7050-2Pin_7.0x5.0mm_HandSoldering
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_SMD_FOX_FQ7050-2Pin_7.0x5.0mm_HandSoldering](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_SMD_FOX_FQ7050-2Pin_7.0x5.0mm_HandSoldering)
 - Short Link: [http://oom.lt/FZKXXSMFOXFQ752PIN7X5HANDSOLDERING](http://oom.lt/FZKXXSMFOXFQ752PIN7X5HANDSOLDERING)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_SMD_FOX_FQ7050-2Pin_7.0x5.0mm_HandSoldering/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_SMD_FOX_FQ7050-2Pin_7.0x5.0mm_HandSoldering/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_SMD_FOX_FQ7050-2Pin_7.0x5.0mm_HandSoldering/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_SMD_FOX_FQ7050-2Pin_7.0x5.0mm_HandSoldering/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_SMD_FOX_FQ7050-2Pin_7.0x5.0mm_HandSoldering/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_SMD_FOX_FQ7050-2Pin_7.0x5.0mm_HandSoldering/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_SMD_FOX_FQ7050-2Pin_7.0x5.0mm_HandSoldering/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_SMD_FOX_FQ7050-2Pin_7.0x5.0mm_HandSoldering/kicadPcb3dBack.png)|

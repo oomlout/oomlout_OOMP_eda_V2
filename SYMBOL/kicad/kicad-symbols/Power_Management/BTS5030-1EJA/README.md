@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKPOWERMANAGEMENTBTS531EJA > Power_Management : BTS5030-1EJA](#szkpowermanagementbts531eja--power_management--bts5030-1eja)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Power_Management : BTS5030-1EJA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-BTS5030-1EJA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-BTS5030-1EJA)
 - Short Link: [http://oom.lt/SZKPOWERMANAGEMENTBTS531EJA](http://oom.lt/SZKPOWERMANAGEMENTBTS531EJA)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Power_Management/BTS5030-1EJA/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Power_Management/BTS5030-1EJA/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Power_Management/BTS5030-1EJA/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Power_Management/BTS5030-1EJA/image.png)|||

@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKPOWER12VA > power : -12VA](#szkpower12va--power---12va)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: power : -12VA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-power--12VA](http://oom.lt/SYMBOL-kicad-kicad-symbols-power--12VA)
 - Short Link: [http://oom.lt/SZKPOWER12VA](http://oom.lt/SZKPOWER12VA)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/power/-12VA/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/power/-12VA/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/power/-12VA/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/power/-12VA/image.png)|||

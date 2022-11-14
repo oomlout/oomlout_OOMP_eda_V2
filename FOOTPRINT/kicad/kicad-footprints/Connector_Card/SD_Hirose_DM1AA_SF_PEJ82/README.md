@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKCNCARDSDHIROSEDM1AASFPEJ82 > Connector_Card : SD_Hirose_DM1AA_SF_PEJ82](#fzkcncardsdhirosedm1aasfpej82--connector_card--sd_hirose_dm1aa_sf_pej82)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Connector_Card : SD_Hirose_DM1AA_SF_PEJ82
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Card-SD_Hirose_DM1AA_SF_PEJ82](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Card-SD_Hirose_DM1AA_SF_PEJ82)
 - Short Link: [http://oom.lt/FZKCNCARDSDHIROSEDM1AASFPEJ82](http://oom.lt/FZKCNCARDSDHIROSEDM1AASFPEJ82)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Card/SD_Hirose_DM1AA_SF_PEJ82/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Card/SD_Hirose_DM1AA_SF_PEJ82/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Card/SD_Hirose_DM1AA_SF_PEJ82/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Card/SD_Hirose_DM1AA_SF_PEJ82/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Card/SD_Hirose_DM1AA_SF_PEJ82/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Card/SD_Hirose_DM1AA_SF_PEJ82/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Card/SD_Hirose_DM1AA_SF_PEJ82/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Card/SD_Hirose_DM1AA_SF_PEJ82/kicadPcb3dBack.png)|

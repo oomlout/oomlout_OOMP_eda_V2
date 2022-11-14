@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKDIPDIP12W116L > Package_DIP : DIP-12_W10.16mm_LongPads](#fzkdipdip12w116l--package_dip--dip-12_w1016mm_longpads)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Package_DIP : DIP-12_W10.16mm_LongPads
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DIP-DIP-12_W10.16mm_LongPads](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DIP-DIP-12_W10.16mm_LongPads)
 - Short Link: [http://oom.lt/FZKDIPDIP12W116L](http://oom.lt/FZKDIPDIP12W116L)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_DIP/DIP-12_W10.16mm_LongPads/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_DIP/DIP-12_W10.16mm_LongPads/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_DIP/DIP-12_W10.16mm_LongPads/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_DIP/DIP-12_W10.16mm_LongPads/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_DIP/DIP-12_W10.16mm_LongPads/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_DIP/DIP-12_W10.16mm_LongPads/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_DIP/DIP-12_W10.16mm_LongPads/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_DIP/DIP-12_W10.16mm_LongPads/kicadPcb3dBack.png)|

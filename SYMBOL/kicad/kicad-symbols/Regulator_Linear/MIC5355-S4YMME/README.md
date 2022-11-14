@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKREGULATORLINEARMIC5355S4YE > Regulator_Linear : MIC5355-S4YMME](#szkregulatorlinearmic5355s4ye--regulator_linear--mic5355-s4ymme)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Regulator_Linear : MIC5355-S4YMME
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-MIC5355-S4YMME](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-MIC5355-S4YMME)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARMIC5355S4YE](http://oom.lt/SZKREGULATORLINEARMIC5355S4YE)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/MIC5355-S4YMME/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/MIC5355-S4YMME/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/MIC5355-S4YMME/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/MIC5355-S4YMME/image.png)|||

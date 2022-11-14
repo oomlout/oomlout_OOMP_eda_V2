@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKISOLATORTLP13 > Isolator : TLP130](#szkisolatortlp13--isolator--tlp130)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Isolator : TLP130
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-TLP130](http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-TLP130)
 - Short Link: [http://oom.lt/SZKISOLATORTLP13](http://oom.lt/SZKISOLATORTLP13)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Isolator/TLP130/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Isolator/TLP130/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Isolator/TLP130/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Isolator/TLP130/image.png)|||

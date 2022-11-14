@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKANALOGADCADS1298XPAG > Analog_ADC : ADS1298xPAG](#szkanalogadcads1298xpag--analog_adc--ads1298xpag)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Analog_ADC : ADS1298xPAG
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-ADS1298xPAG](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-ADS1298xPAG)
 - Short Link: [http://oom.lt/SZKANALOGADCADS1298XPAG](http://oom.lt/SZKANALOGADCADS1298XPAG)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Analog_ADC/ADS1298xPAG/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Analog_ADC/ADS1298xPAG/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Analog_ADC/ADS1298xPAG/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Analog_ADC/ADS1298xPAG/image.png)|||

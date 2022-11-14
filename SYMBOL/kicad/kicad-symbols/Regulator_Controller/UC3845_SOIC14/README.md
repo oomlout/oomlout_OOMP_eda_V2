@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKREGULATORCONTROLLERUC3845SOIC14 > Regulator_Controller : UC3845_SOIC14](#szkregulatorcontrolleruc3845soic14--regulator_controller--uc3845_soic14)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Regulator_Controller : UC3845_SOIC14
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Controller-UC3845_SOIC14](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Controller-UC3845_SOIC14)
 - Short Link: [http://oom.lt/SZKREGULATORCONTROLLERUC3845SOIC14](http://oom.lt/SZKREGULATORCONTROLLERUC3845SOIC14)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Controller/UC3845_SOIC14/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Controller/UC3845_SOIC14/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Controller/UC3845_SOIC14/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Controller/UC3845_SOIC14/image.png)|||

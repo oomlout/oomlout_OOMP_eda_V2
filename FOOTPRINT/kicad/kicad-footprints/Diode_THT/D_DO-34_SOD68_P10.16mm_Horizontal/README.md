@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKDDDO34SOD68P116HORIZONTAL > Diode_THT : D_DO-34_SOD68_P10.16mm_Horizontal](#fzkdddo34sod68p116horizontal--diode_tht--d_do-34_sod68_p1016mm_horizontal)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Diode_THT : D_DO-34_SOD68_P10.16mm_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Diode_THT-D_DO-34_SOD68_P10.16mm_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Diode_THT-D_DO-34_SOD68_P10.16mm_Horizontal)
 - Short Link: [http://oom.lt/FZKDDDO34SOD68P116HORIZONTAL](http://oom.lt/FZKDDDO34SOD68P116HORIZONTAL)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Diode_THT/D_DO-34_SOD68_P10.16mm_Horizontal/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Diode_THT/D_DO-34_SOD68_P10.16mm_Horizontal/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Diode_THT/D_DO-34_SOD68_P10.16mm_Horizontal/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Diode_THT/D_DO-34_SOD68_P10.16mm_Horizontal/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Diode_THT/D_DO-34_SOD68_P10.16mm_Horizontal/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Diode_THT/D_DO-34_SOD68_P10.16mm_Horizontal/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Diode_THT/D_DO-34_SOD68_P10.16mm_Horizontal/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Diode_THT/D_DO-34_SOD68_P10.16mm_Horizontal/kicadPcb3dBack.png)|

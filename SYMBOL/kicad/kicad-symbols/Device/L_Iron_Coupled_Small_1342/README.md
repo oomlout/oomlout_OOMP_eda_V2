@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDEVICELIRONCOUPLSLL1342 > Device : L_Iron_Coupled_Small_1342](#szkdevicelironcouplsll1342--device--l_iron_coupled_small_1342)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Device : L_Iron_Coupled_Small_1342
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-L_Iron_Coupled_Small_1342](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-L_Iron_Coupled_Small_1342)
 - Short Link: [http://oom.lt/SZKDEVICELIRONCOUPLSLL1342](http://oom.lt/SZKDEVICELIRONCOUPLSLL1342)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/L_Iron_Coupled_Small_1342/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/L_Iron_Coupled_Small_1342/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/L_Iron_Coupled_Small_1342/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/L_Iron_Coupled_Small_1342/image.png)|||

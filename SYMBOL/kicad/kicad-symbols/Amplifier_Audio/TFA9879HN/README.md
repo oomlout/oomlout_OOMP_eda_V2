@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKAMPLIFIERAUDIOTFA9879HN > Amplifier_Audio : TFA9879HN](#szkamplifieraudiotfa9879hn--amplifier_audio--tfa9879hn)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Amplifier_Audio : TFA9879HN
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Audio-TFA9879HN](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Audio-TFA9879HN)
 - Short Link: [http://oom.lt/SZKAMPLIFIERAUDIOTFA9879HN](http://oom.lt/SZKAMPLIFIERAUDIOTFA9879HN)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Amplifier_Audio/TFA9879HN/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Amplifier_Audio/TFA9879HN/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Amplifier_Audio/TFA9879HN/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Amplifier_Audio/TFA9879HN/image.png)|||

@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKTRANSISTORFETIRFS4127 > Transistor_FET : IRFS4127](#szktransistorfetirfs4127--transistor_fet--irfs4127)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Transistor_FET : IRFS4127
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IRFS4127](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IRFS4127)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETIRFS4127](http://oom.lt/SZKTRANSISTORFETIRFS4127)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/IRFS4127/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/IRFS4127/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/IRFS4127/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/IRFS4127/image.png)|||

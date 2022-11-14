@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKREGULATORSWITCHINGNID6S245 > Regulator_Switching : NID60S24-05](#szkregulatorswitchingnid6s245--regulator_switching--nid60s24-05)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Regulator_Switching : NID60S24-05
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-NID60S24-05](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-NID60S24-05)
 - Short Link: [http://oom.lt/SZKREGULATORSWITCHINGNID6S245](http://oom.lt/SZKREGULATORSWITCHINGNID6S245)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/NID60S24-05/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/NID60S24-05/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/NID60S24-05/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/NID60S24-05/image.png)|||

@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDIODEUS2KA > Diode : US2KA](#szkdiodeus2ka--diode--us2ka)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Diode : US2KA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-US2KA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-US2KA)
 - Short Link: [http://oom.lt/SZKDIODEUS2KA](http://oom.lt/SZKDIODEUS2KA)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Diode/US2KA/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Diode/US2KA/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Diode/US2KA/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Diode/US2KA/image.png)|||

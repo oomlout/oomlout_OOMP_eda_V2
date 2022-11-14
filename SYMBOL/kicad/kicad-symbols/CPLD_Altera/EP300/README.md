@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKCPLDALTERAEP3 > CPLD_Altera : EP300](#szkcpldalteraep3--cpld_altera--ep300)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: CPLD_Altera : EP300
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-CPLD_Altera-EP300](http://oom.lt/SYMBOL-kicad-kicad-symbols-CPLD_Altera-EP300)
 - Short Link: [http://oom.lt/SZKCPLDALTERAEP3](http://oom.lt/SZKCPLDALTERAEP3)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/CPLD_Altera/EP300/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/CPLD_Altera/EP300/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/CPLD_Altera/EP300/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/CPLD_Altera/EP300/image.png)|||

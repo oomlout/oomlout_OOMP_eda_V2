@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKINTERFACEMC1EPT22DT > Interface : MC100EPT22DT](#szkinterfacemc1ept22dt--interface--mc100ept22dt)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Interface : MC100EPT22DT
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-MC100EPT22DT](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-MC100EPT22DT)
 - Short Link: [http://oom.lt/SZKINTERFACEMC1EPT22DT](http://oom.lt/SZKINTERFACEMC1EPT22DT)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface/MC100EPT22DT/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface/MC100EPT22DT/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface/MC100EPT22DT/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface/MC100EPT22DT/image.png)|||

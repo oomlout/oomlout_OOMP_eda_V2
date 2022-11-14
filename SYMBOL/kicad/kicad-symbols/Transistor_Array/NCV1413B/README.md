@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKTRANSISTORARRAYNCV1413B > Transistor_Array : NCV1413B](#szktransistorarrayncv1413b--transistor_array--ncv1413b)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Transistor_Array : NCV1413B
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_Array-NCV1413B](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_Array-NCV1413B)
 - Short Link: [http://oom.lt/SZKTRANSISTORARRAYNCV1413B](http://oom.lt/SZKTRANSISTORARRAYNCV1413B)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_Array/NCV1413B/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_Array/NCV1413B/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_Array/NCV1413B/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_Array/NCV1413B/image.png)|||

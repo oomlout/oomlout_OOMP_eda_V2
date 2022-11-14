@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKLGALGA163X3P5LAYOUTBORDER3X5Y > Package_LGA : LGA-16_3x3mm_P0.5mm_LayoutBorder3x5y](#fzklgalga163x3p5layoutborder3x5y--package_lga--lga-16_3x3mm_p05mm_layoutborder3x5y)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Package_LGA : LGA-16_3x3mm_P0.5mm_LayoutBorder3x5y
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_LGA-LGA-16_3x3mm_P0.5mm_LayoutBorder3x5y](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_LGA-LGA-16_3x3mm_P0.5mm_LayoutBorder3x5y)
 - Short Link: [http://oom.lt/FZKLGALGA163X3P5LAYOUTBORDER3X5Y](http://oom.lt/FZKLGALGA163X3P5LAYOUTBORDER3X5Y)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_LGA/LGA-16_3x3mm_P0.5mm_LayoutBorder3x5y/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_LGA/LGA-16_3x3mm_P0.5mm_LayoutBorder3x5y/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_LGA/LGA-16_3x3mm_P0.5mm_LayoutBorder3x5y/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_LGA/LGA-16_3x3mm_P0.5mm_LayoutBorder3x5y/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_LGA/LGA-16_3x3mm_P0.5mm_LayoutBorder3x5y/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_LGA/LGA-16_3x3mm_P0.5mm_LayoutBorder3x5y/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_LGA/LGA-16_3x3mm_P0.5mm_LayoutBorder3x5y/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_LGA/LGA-16_3x3mm_P0.5mm_LayoutBorder3x5y/kicadPcb3dBack.png)|

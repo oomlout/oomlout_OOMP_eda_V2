@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKRELAYMSXX1AXX75 > Relay : MSxx-1Axx-75](#szkrelaymsxx1axx75--relay--msxx-1axx-75)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Relay : MSxx-1Axx-75
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-MSxx-1Axx-75](http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-MSxx-1Axx-75)
 - Short Link: [http://oom.lt/SZKRELAYMSXX1AXX75](http://oom.lt/SZKRELAYMSXX1AXX75)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Relay/MSxx-1Axx-75/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Relay/MSxx-1Axx-75/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Relay/MSxx-1Axx-75/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Relay/MSxx-1Axx-75/image.png)|||

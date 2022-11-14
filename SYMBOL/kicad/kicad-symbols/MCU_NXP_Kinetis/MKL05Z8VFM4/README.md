@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKMCUNXPKINETISMKL5Z8VFM4 > MCU_NXP_Kinetis : MKL05Z8VFM4](#szkmcunxpkinetismkl5z8vfm4--mcu_nxp_kinetis--mkl05z8vfm4)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: MCU_NXP_Kinetis : MKL05Z8VFM4
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_NXP_Kinetis-MKL05Z8VFM4](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_NXP_Kinetis-MKL05Z8VFM4)
 - Short Link: [http://oom.lt/SZKMCUNXPKINETISMKL5Z8VFM4](http://oom.lt/SZKMCUNXPKINETISMKL5Z8VFM4)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_NXP_Kinetis/MKL05Z8VFM4/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_NXP_Kinetis/MKL05Z8VFM4/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_NXP_Kinetis/MKL05Z8VFM4/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_NXP_Kinetis/MKL05Z8VFM4/image.png)|||

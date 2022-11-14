@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKCNMXMXPICOFLEX9325262X13P127VERTICAL > Connector_Molex : Molex_Picoflex_90325-0026_2x13_P1.27mm_Vertical](#fzkcnmxmxpicoflex9325262x13p127vertical--connector_molex--molex_picoflex_90325-0026_2x13_p127mm_vertical)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Connector_Molex : Molex_Picoflex_90325-0026_2x13_P1.27mm_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_Picoflex_90325-0026_2x13_P1.27mm_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_Picoflex_90325-0026_2x13_P1.27mm_Vertical)
 - Short Link: [http://oom.lt/FZKCNMXMXPICOFLEX9325262X13P127VERTICAL](http://oom.lt/FZKCNMXMXPICOFLEX9325262X13P127VERTICAL)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_Picoflex_90325-0026_2x13_P1.27mm_Vertical/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_Picoflex_90325-0026_2x13_P1.27mm_Vertical/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_Picoflex_90325-0026_2x13_P1.27mm_Vertical/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_Picoflex_90325-0026_2x13_P1.27mm_Vertical/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_Picoflex_90325-0026_2x13_P1.27mm_Vertical/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_Picoflex_90325-0026_2x13_P1.27mm_Vertical/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_Picoflex_90325-0026_2x13_P1.27mm_Vertical/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_Picoflex_90325-0026_2x13_P1.27mm_Vertical/kicadPcb3dBack.png)|

@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKOCSOCSSMABRACONASCO4PIN16X12 > Oscillator : Oscillator_SMD_Abracon_ASCO-4Pin_1.6x1.2mm](#fzkocsocssmabraconasco4pin16x12--oscillator--oscillator_smd_abracon_asco-4pin_16x12mm)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Oscillator : Oscillator_SMD_Abracon_ASCO-4Pin_1.6x1.2mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Oscillator-Oscillator_SMD_Abracon_ASCO-4Pin_1.6x1.2mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Oscillator-Oscillator_SMD_Abracon_ASCO-4Pin_1.6x1.2mm)
 - Short Link: [http://oom.lt/FZKOCSOCSSMABRACONASCO4PIN16X12](http://oom.lt/FZKOCSOCSSMABRACONASCO4PIN16X12)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Oscillator/Oscillator_SMD_Abracon_ASCO-4Pin_1.6x1.2mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Oscillator/Oscillator_SMD_Abracon_ASCO-4Pin_1.6x1.2mm/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Oscillator/Oscillator_SMD_Abracon_ASCO-4Pin_1.6x1.2mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Oscillator/Oscillator_SMD_Abracon_ASCO-4Pin_1.6x1.2mm/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Oscillator/Oscillator_SMD_Abracon_ASCO-4Pin_1.6x1.2mm/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Oscillator/Oscillator_SMD_Abracon_ASCO-4Pin_1.6x1.2mm/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Oscillator/Oscillator_SMD_Abracon_ASCO-4Pin_1.6x1.2mm/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Oscillator/Oscillator_SMD_Abracon_ASCO-4Pin_1.6x1.2mm/kicadPcb3dBack.png)|

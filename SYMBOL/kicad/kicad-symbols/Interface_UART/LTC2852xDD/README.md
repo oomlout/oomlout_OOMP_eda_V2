@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKINTERFACEUARTLTC2852XDD > Interface_UART : LTC2852xDD](#szkinterfaceuartltc2852xdd--interface_uart--ltc2852xdd)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Interface_UART : LTC2852xDD
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_UART-LTC2852xDD](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_UART-LTC2852xDD)
 - Short Link: [http://oom.lt/SZKINTERFACEUARTLTC2852XDD](http://oom.lt/SZKINTERFACEUARTLTC2852XDD)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface_UART/LTC2852xDD/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface_UART/LTC2852xDD/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface_UART/LTC2852xDD/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface_UART/LTC2852xDD/image.png)|||

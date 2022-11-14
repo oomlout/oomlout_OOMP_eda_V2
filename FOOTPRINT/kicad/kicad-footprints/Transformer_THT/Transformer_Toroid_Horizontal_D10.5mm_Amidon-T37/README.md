@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKTRTRTOROIDHORIZONTALD15AMIDONT37 > Transformer_THT : Transformer_Toroid_Horizontal_D10.5mm_Amidon-T37](#fzktrtrtoroidhorizontald15amidont37--transformer_tht--transformer_toroid_horizontal_d105mm_amidon-t37)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Transformer_THT : Transformer_Toroid_Horizontal_D10.5mm_Amidon-T37
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Transformer_THT-Transformer_Toroid_Horizontal_D10.5mm_Amidon-T37](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Transformer_THT-Transformer_Toroid_Horizontal_D10.5mm_Amidon-T37)
 - Short Link: [http://oom.lt/FZKTRTRTOROIDHORIZONTALD15AMIDONT37](http://oom.lt/FZKTRTRTOROIDHORIZONTALD15AMIDONT37)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Transformer_THT/Transformer_Toroid_Horizontal_D10.5mm_Amidon-T37/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Transformer_THT/Transformer_Toroid_Horizontal_D10.5mm_Amidon-T37/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Transformer_THT/Transformer_Toroid_Horizontal_D10.5mm_Amidon-T37/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Transformer_THT/Transformer_Toroid_Horizontal_D10.5mm_Amidon-T37/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Transformer_THT/Transformer_Toroid_Horizontal_D10.5mm_Amidon-T37/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Transformer_THT/Transformer_Toroid_Horizontal_D10.5mm_Amidon-T37/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Transformer_THT/Transformer_Toroid_Horizontal_D10.5mm_Amidon-T37/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Transformer_THT/Transformer_Toroid_Horizontal_D10.5mm_Amidon-T37/kicadPcb3dBack.png)|

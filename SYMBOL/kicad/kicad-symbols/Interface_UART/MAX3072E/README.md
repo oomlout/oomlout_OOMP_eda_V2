@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKINTERFACEUARTMAX372E > Interface_UART : MAX3072E](#szkinterfaceuartmax372e--interface_uart--max3072e)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Interface_UART : MAX3072E
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_UART-MAX3072E](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_UART-MAX3072E)
 - Short Link: [http://oom.lt/SZKINTERFACEUARTMAX372E](http://oom.lt/SZKINTERFACEUARTMAX372E)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface_UART/MAX3072E/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface_UART/MAX3072E/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface_UART/MAX3072E/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface_UART/MAX3072E/image.png)|||

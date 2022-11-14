@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKVIDEOHD63484PLCC > Video : HD63484_PLCC](#szkvideohd63484plcc--video--hd63484_plcc)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Video : HD63484_PLCC
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Video-HD63484_PLCC](http://oom.lt/SYMBOL-kicad-kicad-symbols-Video-HD63484_PLCC)
 - Short Link: [http://oom.lt/SZKVIDEOHD63484PLCC](http://oom.lt/SZKVIDEOHD63484PLCC)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Video/HD63484_PLCC/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Video/HD63484_PLCC/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Video/HD63484_PLCC/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Video/HD63484_PLCC/image.png)|||

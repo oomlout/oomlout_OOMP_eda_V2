@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZK74XXIEEE74HC237 > 74xx_IEEE : 74HC237](#szk74xxieee74hc237--74xx_ieee--74hc237)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: 74xx_IEEE : 74HC237
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-74xx_IEEE-74HC237](http://oom.lt/SYMBOL-kicad-kicad-symbols-74xx_IEEE-74HC237)
 - Short Link: [http://oom.lt/SZK74XXIEEE74HC237](http://oom.lt/SZK74XXIEEE74HC237)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/74xx_IEEE/74HC237/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/74xx_IEEE/74HC237/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/74xx_IEEE/74HC237/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/74xx_IEEE/74HC237/image.png)|||

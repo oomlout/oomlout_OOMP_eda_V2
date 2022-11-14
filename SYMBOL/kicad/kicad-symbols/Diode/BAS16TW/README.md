@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDIODEBAS16TW > Diode : BAS16TW](#szkdiodebas16tw--diode--bas16tw)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Diode : BAS16TW
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-BAS16TW](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-BAS16TW)
 - Short Link: [http://oom.lt/SZKDIODEBAS16TW](http://oom.lt/SZKDIODEBAS16TW)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Diode/BAS16TW/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Diode/BAS16TW/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Diode/BAS16TW/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Diode/BAS16TW/image.png)|||

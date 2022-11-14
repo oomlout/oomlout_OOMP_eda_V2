@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDEVICEVOLTAGEDIVIDER > Device : VoltageDivider](#szkdevicevoltagedivider--device--voltagedivider)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Device : VoltageDivider
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-VoltageDivider](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-VoltageDivider)
 - Short Link: [http://oom.lt/SZKDEVICEVOLTAGEDIVIDER](http://oom.lt/SZKDEVICEVOLTAGEDIVIDER)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/VoltageDivider/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/VoltageDivider/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/VoltageDivider/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/VoltageDivider/image.png)|||

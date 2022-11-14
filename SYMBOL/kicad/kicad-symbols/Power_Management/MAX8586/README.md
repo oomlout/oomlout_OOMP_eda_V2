@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKPOWERMANAGEMENTMAX8586 > Power_Management : MAX8586](#szkpowermanagementmax8586--power_management--max8586)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Power_Management : MAX8586
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-MAX8586](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-MAX8586)
 - Short Link: [http://oom.lt/SZKPOWERMANAGEMENTMAX8586](http://oom.lt/SZKPOWERMANAGEMENTMAX8586)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Power_Management/MAX8586/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Power_Management/MAX8586/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Power_Management/MAX8586/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Power_Management/MAX8586/image.png)|||

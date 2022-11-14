@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKCCDISCD3W16P25 > Capacitor_THT : C_Disc_D3.0mm_W1.6mm_P2.50mm](#fzkccdiscd3w16p25--capacitor_tht--c_disc_d30mm_w16mm_p250mm)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Capacitor_THT : C_Disc_D3.0mm_W1.6mm_P2.50mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_THT-C_Disc_D3.0mm_W1.6mm_P2.50mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_THT-C_Disc_D3.0mm_W1.6mm_P2.50mm)
 - Short Link: [http://oom.lt/FZKCCDISCD3W16P25](http://oom.lt/FZKCCDISCD3W16P25)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_THT/C_Disc_D3.0mm_W1.6mm_P2.50mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_THT/C_Disc_D3.0mm_W1.6mm_P2.50mm/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_THT/C_Disc_D3.0mm_W1.6mm_P2.50mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_THT/C_Disc_D3.0mm_W1.6mm_P2.50mm/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_THT/C_Disc_D3.0mm_W1.6mm_P2.50mm/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_THT/C_Disc_D3.0mm_W1.6mm_P2.50mm/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_THT/C_Disc_D3.0mm_W1.6mm_P2.50mm/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_THT/C_Disc_D3.0mm_W1.6mm_P2.50mm/kicadPcb3dBack.png)|

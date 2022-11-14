@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKTRANSISTORBJTS855 > Transistor_BJT : S8550](#szktransistorbjts855--transistor_bjt--s8550)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Transistor_BJT : S8550
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-S8550](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-S8550)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJTS855](http://oom.lt/SZKTRANSISTORBJTS855)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_BJT/S8550/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_BJT/S8550/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_BJT/S8550/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_BJT/S8550/image.png)|||

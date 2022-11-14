@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDIODEBRIDGEB38C2315A > Diode_Bridge : B380C2300-1500A](#szkdiodebridgeb38c2315a--diode_bridge--b380c2300-1500a)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Diode_Bridge : B380C2300-1500A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode_Bridge-B380C2300-1500A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode_Bridge-B380C2300-1500A)
 - Short Link: [http://oom.lt/SZKDIODEBRIDGEB38C2315A](http://oom.lt/SZKDIODEBRIDGEB38C2315A)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Diode_Bridge/B380C2300-1500A/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Diode_Bridge/B380C2300-1500A/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Diode_Bridge/B380C2300-1500A/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Diode_Bridge/B380C2300-1500A/image.png)|||

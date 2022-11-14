@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKCNSODI2 > Connector : SODIMM-200](#szkcnsodi2--connector--sodimm-200)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Connector : SODIMM-200
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-SODIMM-200](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-SODIMM-200)
 - Short Link: [http://oom.lt/SZKCNSODI2](http://oom.lt/SZKCNSODI2)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/SODIMM-200/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/SODIMM-200/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/SODIMM-200/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/SODIMM-200/image.png)|||

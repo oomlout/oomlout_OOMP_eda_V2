@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKCNJSTJSTXAS1BXASK11X1P25HORIZONTAL > Connector_JST : JST_XA_S10B-XASK-1_1x10_P2.50mm_Horizontal](#fzkcnjstjstxas1bxask11x1p25horizontal--connector_jst--jst_xa_s10b-xask-1_1x10_p250mm_horizontal)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Connector_JST : JST_XA_S10B-XASK-1_1x10_P2.50mm_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_XA_S10B-XASK-1_1x10_P2.50mm_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_XA_S10B-XASK-1_1x10_P2.50mm_Horizontal)
 - Short Link: [http://oom.lt/FZKCNJSTJSTXAS1BXASK11X1P25HORIZONTAL](http://oom.lt/FZKCNJSTJSTXAS1BXASK11X1P25HORIZONTAL)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_XA_S10B-XASK-1_1x10_P2.50mm_Horizontal/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_XA_S10B-XASK-1_1x10_P2.50mm_Horizontal/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_XA_S10B-XASK-1_1x10_P2.50mm_Horizontal/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_XA_S10B-XASK-1_1x10_P2.50mm_Horizontal/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_XA_S10B-XASK-1_1x10_P2.50mm_Horizontal/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_XA_S10B-XASK-1_1x10_P2.50mm_Horizontal/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_XA_S10B-XASK-1_1x10_P2.50mm_Horizontal/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_XA_S10B-XASK-1_1x10_P2.50mm_Horizontal/kicadPcb3dBack.png)|

@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKBSWDIPSPSTX4SLIDE978X1234W762P254 > Button_Switch_THT : SW_DIP_SPSTx04_Slide_9.78x12.34mm_W7.62mm_P2.54mm](#fzkbswdipspstx4slide978x1234w762p254--button_switch_tht--sw_dip_spstx04_slide_978x1234mm_w762mm_p254mm)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Button_Switch_THT : SW_DIP_SPSTx04_Slide_9.78x12.34mm_W7.62mm_P2.54mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Button_Switch_THT-SW_DIP_SPSTx04_Slide_9.78x12.34mm_W7.62mm_P2.54mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Button_Switch_THT-SW_DIP_SPSTx04_Slide_9.78x12.34mm_W7.62mm_P2.54mm)
 - Short Link: [http://oom.lt/FZKBSWDIPSPSTX4SLIDE978X1234W762P254](http://oom.lt/FZKBSWDIPSPSTX4SLIDE978X1234W762P254)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/SW_DIP_SPSTx04_Slide_9.78x12.34mm_W7.62mm_P2.54mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/SW_DIP_SPSTx04_Slide_9.78x12.34mm_W7.62mm_P2.54mm/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/SW_DIP_SPSTx04_Slide_9.78x12.34mm_W7.62mm_P2.54mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/SW_DIP_SPSTx04_Slide_9.78x12.34mm_W7.62mm_P2.54mm/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/SW_DIP_SPSTx04_Slide_9.78x12.34mm_W7.62mm_P2.54mm/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/SW_DIP_SPSTx04_Slide_9.78x12.34mm_W7.62mm_P2.54mm/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/SW_DIP_SPSTx04_Slide_9.78x12.34mm_W7.62mm_P2.54mm/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/SW_DIP_SPSTx04_Slide_9.78x12.34mm_W7.62mm_P2.54mm/kicadPcb3dBack.png)|

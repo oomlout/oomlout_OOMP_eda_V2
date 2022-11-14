@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKSOTPOWERINTEGRATIONSTO227C > Package_TO_SOT_THT : PowerIntegrations_TO-220-7C](#fzksotpowerintegrationsto227c--package_to_sot_tht--powerintegrations_to-220-7c)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Package_TO_SOT_THT : PowerIntegrations_TO-220-7C
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-PowerIntegrations_TO-220-7C](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-PowerIntegrations_TO-220-7C)
 - Short Link: [http://oom.lt/FZKSOTPOWERINTEGRATIONSTO227C](http://oom.lt/FZKSOTPOWERINTEGRATIONSTO227C)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_THT/PowerIntegrations_TO-220-7C/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_THT/PowerIntegrations_TO-220-7C/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_THT/PowerIntegrations_TO-220-7C/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_THT/PowerIntegrations_TO-220-7C/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_THT/PowerIntegrations_TO-220-7C/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_THT/PowerIntegrations_TO-220-7C/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_THT/PowerIntegrations_TO-220-7C/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_THT/PowerIntegrations_TO-220-7C/kicadPcb3dBack.png)|

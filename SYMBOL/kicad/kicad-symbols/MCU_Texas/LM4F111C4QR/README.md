@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKMCUTEXASLM4F111C4QR > MCU_Texas : LM4F111C4QR](#szkmcutexaslm4f111c4qr--mcu_texas--lm4f111c4qr)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: MCU_Texas : LM4F111C4QR
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Texas-LM4F111C4QR](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Texas-LM4F111C4QR)
 - Short Link: [http://oom.lt/SZKMCUTEXASLM4F111C4QR](http://oom.lt/SZKMCUTEXASLM4F111C4QR)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Texas/LM4F111C4QR/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Texas/LM4F111C4QR/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Texas/LM4F111C4QR/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Texas/LM4F111C4QR/image.png)|||

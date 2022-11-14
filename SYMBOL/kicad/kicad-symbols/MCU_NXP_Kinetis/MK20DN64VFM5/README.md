@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKMCUNXPKINETISMK2DN64VFM5 > MCU_NXP_Kinetis : MK20DN64VFM5](#szkmcunxpkinetismk2dn64vfm5--mcu_nxp_kinetis--mk20dn64vfm5)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: MCU_NXP_Kinetis : MK20DN64VFM5
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_NXP_Kinetis-MK20DN64VFM5](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_NXP_Kinetis-MK20DN64VFM5)
 - Short Link: [http://oom.lt/SZKMCUNXPKINETISMK2DN64VFM5](http://oom.lt/SZKMCUNXPKINETISMK2DN64VFM5)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_NXP_Kinetis/MK20DN64VFM5/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_NXP_Kinetis/MK20DN64VFM5/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_NXP_Kinetis/MK20DN64VFM5/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_NXP_Kinetis/MK20DN64VFM5/image.png)|||

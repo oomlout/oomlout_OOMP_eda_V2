@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKRELAYSOLIDSTATETLP148G > Relay_SolidState : TLP148G](#szkrelaysolidstatetlp148g--relay_solidstate--tlp148g)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Relay_SolidState : TLP148G
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay_SolidState-TLP148G](http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay_SolidState-TLP148G)
 - Short Link: [http://oom.lt/SZKRELAYSOLIDSTATETLP148G](http://oom.lt/SZKRELAYSOLIDSTATETLP148G)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Relay_SolidState/TLP148G/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Relay_SolidState/TLP148G/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Relay_SolidState/TLP148G/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Relay_SolidState/TLP148G/image.png)|||

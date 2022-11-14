@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKTIMERRTCMCP794NXP > Timer_RTC : MCP7940N-xP](#szktimerrtcmcp794nxp--timer_rtc--mcp7940n-xp)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Timer_RTC : MCP7940N-xP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Timer_RTC-MCP7940N-xP](http://oom.lt/SYMBOL-kicad-kicad-symbols-Timer_RTC-MCP7940N-xP)
 - Short Link: [http://oom.lt/SZKTIMERRTCMCP794NXP](http://oom.lt/SZKTIMERRTCMCP794NXP)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Timer_RTC/MCP7940N-xP/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Timer_RTC/MCP7940N-xP/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Timer_RTC/MCP7940N-xP/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Timer_RTC/MCP7940N-xP/image.png)|||

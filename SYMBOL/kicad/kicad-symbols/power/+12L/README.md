@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKPOWER+12L > power : +12L](#szkpower12l--power--12l)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: power : +12L
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-power-+12L](http://oom.lt/SYMBOL-kicad-kicad-symbols-power-+12L)
 - Short Link: [http://oom.lt/SZKPOWER+12L](http://oom.lt/SZKPOWER+12L)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/power/+12L/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/power/+12L/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/power/+12L/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/power/+12L/image.png)|||

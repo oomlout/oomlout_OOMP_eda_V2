@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKMCUSTCIRC15W27S35XS16 > MCU_STC : IRC15W207S-35x-SOP16](#szkmcustcirc15w27s35xs16--mcu_stc--irc15w207s-35x-sop16)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: MCU_STC : IRC15W207S-35x-SOP16
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_STC-IRC15W207S-35x-SOP16](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_STC-IRC15W207S-35x-SOP16)
 - Short Link: [http://oom.lt/SZKMCUSTCIRC15W27S35XS16](http://oom.lt/SZKMCUSTCIRC15W27S35XS16)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_STC/IRC15W207S-35x-SOP16/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_STC/IRC15W207S-35x-SOP16/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_STC/IRC15W207S-35x-SOP16/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_STC/IRC15W207S-35x-SOP16/image.png)|||

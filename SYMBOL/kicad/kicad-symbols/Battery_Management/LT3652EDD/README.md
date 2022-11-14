@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKBATMANAGEMENTLT3652EDD > Battery_Management : LT3652EDD](#szkbatmanagementlt3652edd--battery_management--lt3652edd)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Battery_Management : LT3652EDD
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Battery_Management-LT3652EDD](http://oom.lt/SYMBOL-kicad-kicad-symbols-Battery_Management-LT3652EDD)
 - Short Link: [http://oom.lt/SZKBATMANAGEMENTLT3652EDD](http://oom.lt/SZKBATMANAGEMENTLT3652EDD)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Battery_Management/LT3652EDD/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Battery_Management/LT3652EDD/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Battery_Management/LT3652EDD/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Battery_Management/LT3652EDD/image.png)|||

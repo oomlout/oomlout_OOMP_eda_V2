@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDRIVERFETMAX1513CXSA > Driver_FET : MAX15013CxSA](#szkdriverfetmax1513cxsa--driver_fet--max15013cxsa)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Driver_FET : MAX15013CxSA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-MAX15013CxSA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-MAX15013CxSA)
 - Short Link: [http://oom.lt/SZKDRIVERFETMAX1513CXSA](http://oom.lt/SZKDRIVERFETMAX1513CXSA)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Driver_FET/MAX15013CxSA/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Driver_FET/MAX15013CxSA/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Driver_FET/MAX15013CxSA/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Driver_FET/MAX15013CxSA/image.png)|||

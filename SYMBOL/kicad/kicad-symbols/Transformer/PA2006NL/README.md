@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKTRPA26NL > Transformer : PA2006NL](#szktrpa26nl--transformer--pa2006nl)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Transformer : PA2006NL
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transformer-PA2006NL](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transformer-PA2006NL)
 - Short Link: [http://oom.lt/SZKTRPA26NL](http://oom.lt/SZKTRPA26NL)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transformer/PA2006NL/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transformer/PA2006NL/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transformer/PA2006NL/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transformer/PA2006NL/image.png)|||

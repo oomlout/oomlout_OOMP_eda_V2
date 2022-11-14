@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKDFNQFN521EP7X8P5EP541X645 > Package_DFN_QFN : QFN-52-1EP_7x8mm_P0.5mm_EP5.41x6.45mm](#fzkdfnqfn521ep7x8p5ep541x645--package_dfn_qfn--qfn-52-1ep_7x8mm_p05mm_ep541x645mm)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Package_DFN_QFN : QFN-52-1EP_7x8mm_P0.5mm_EP5.41x6.45mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-QFN-52-1EP_7x8mm_P0.5mm_EP5.41x6.45mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-QFN-52-1EP_7x8mm_P0.5mm_EP5.41x6.45mm)
 - Short Link: [http://oom.lt/FZKDFNQFN521EP7X8P5EP541X645](http://oom.lt/FZKDFNQFN521EP7X8P5EP541X645)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/QFN-52-1EP_7x8mm_P0.5mm_EP5.41x6.45mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/QFN-52-1EP_7x8mm_P0.5mm_EP5.41x6.45mm/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/QFN-52-1EP_7x8mm_P0.5mm_EP5.41x6.45mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/QFN-52-1EP_7x8mm_P0.5mm_EP5.41x6.45mm/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/QFN-52-1EP_7x8mm_P0.5mm_EP5.41x6.45mm/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/QFN-52-1EP_7x8mm_P0.5mm_EP5.41x6.45mm/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/QFN-52-1EP_7x8mm_P0.5mm_EP5.41x6.45mm/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/QFN-52-1EP_7x8mm_P0.5mm_EP5.41x6.45mm/kicadPcb3dBack.png)|

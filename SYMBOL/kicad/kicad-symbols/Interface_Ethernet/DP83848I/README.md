@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKINTERFACEETHERNETDP83848I > Interface_Ethernet : DP83848I](#szkinterfaceethernetdp83848i--interface_ethernet--dp83848i)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Interface_Ethernet : DP83848I
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Ethernet-DP83848I](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Ethernet-DP83848I)
 - Short Link: [http://oom.lt/SZKINTERFACEETHERNETDP83848I](http://oom.lt/SZKINTERFACEETHERNETDP83848I)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface_Ethernet/DP83848I/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface_Ethernet/DP83848I/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface_Ethernet/DP83848I/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface_Ethernet/DP83848I/image.png)|||

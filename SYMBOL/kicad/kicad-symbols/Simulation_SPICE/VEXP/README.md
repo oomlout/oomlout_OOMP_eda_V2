@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKSIMULATIONSPICEVEXP > Simulation_SPICE : VEXP](#szksimulationspicevexp--simulation_spice--vexp)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Simulation_SPICE : VEXP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Simulation_SPICE-VEXP](http://oom.lt/SYMBOL-kicad-kicad-symbols-Simulation_SPICE-VEXP)
 - Short Link: [http://oom.lt/SZKSIMULATIONSPICEVEXP](http://oom.lt/SZKSIMULATIONSPICEVEXP)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Simulation_SPICE/VEXP/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Simulation_SPICE/VEXP/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Simulation_SPICE/VEXP/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Simulation_SPICE/VEXP/image.png)|||

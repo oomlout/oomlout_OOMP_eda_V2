@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKISOLATORCNY172 > Isolator : CNY17-2](#szkisolatorcny172--isolator--cny17-2)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Isolator : CNY17-2
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-CNY17-2](http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-CNY17-2)
 - Short Link: [http://oom.lt/SZKISOLATORCNY172](http://oom.lt/SZKISOLATORCNY172)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Isolator/CNY17-2/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Isolator/CNY17-2/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Isolator/CNY17-2/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Isolator/CNY17-2/image.png)|||

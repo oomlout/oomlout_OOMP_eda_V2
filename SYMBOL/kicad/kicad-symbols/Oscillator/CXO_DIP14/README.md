@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKOCSCXODIP14 > Oscillator : CXO_DIP14](#szkocscxodip14--oscillator--cxo_dip14)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Oscillator : CXO_DIP14
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Oscillator-CXO_DIP14](http://oom.lt/SYMBOL-kicad-kicad-symbols-Oscillator-CXO_DIP14)
 - Short Link: [http://oom.lt/SZKOCSCXODIP14](http://oom.lt/SZKOCSCXODIP14)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Oscillator/CXO_DIP14/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Oscillator/CXO_DIP14/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Oscillator/CXO_DIP14/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Oscillator/CXO_DIP14/image.png)|||

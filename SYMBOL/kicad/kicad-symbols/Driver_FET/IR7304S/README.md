@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDRIVERFETIR734S > Driver_FET : IR7304S](#szkdriverfetir734s--driver_fet--ir7304s)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Driver_FET : IR7304S
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-IR7304S](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-IR7304S)
 - Short Link: [http://oom.lt/SZKDRIVERFETIR734S](http://oom.lt/SZKDRIVERFETIR734S)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Driver_FET/IR7304S/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Driver_FET/IR7304S/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Driver_FET/IR7304S/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Driver_FET/IR7304S/image.png)|||

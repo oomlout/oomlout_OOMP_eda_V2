@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKPOWERPROTECTIONCM1213A1SO > Power_Protection : CM1213A-01SO](#szkpowerprotectioncm1213a1so--power_protection--cm1213a-01so)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Power_Protection : CM1213A-01SO
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Protection-CM1213A-01SO](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Protection-CM1213A-01SO)
 - Short Link: [http://oom.lt/SZKPOWERPROTECTIONCM1213A1SO](http://oom.lt/SZKPOWERPROTECTIONCM1213A1SO)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Power_Protection/CM1213A-01SO/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Power_Protection/CM1213A-01SO/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Power_Protection/CM1213A-01SO/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Power_Protection/CM1213A-01SO/image.png)|||

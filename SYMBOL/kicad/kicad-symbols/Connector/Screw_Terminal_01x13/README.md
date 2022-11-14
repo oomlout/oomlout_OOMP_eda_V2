@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKCNSCREWTERMINAL1X13 > Connector : Screw_Terminal_01x13](#szkcnscrewterminal1x13--connector--screw_terminal_01x13)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Connector : Screw_Terminal_01x13
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-Screw_Terminal_01x13](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-Screw_Terminal_01x13)
 - Short Link: [http://oom.lt/SZKCNSCREWTERMINAL1X13](http://oom.lt/SZKCNSCREWTERMINAL1X13)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/Screw_Terminal_01x13/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Screw_Terminal_01x13/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/Screw_Terminal_01x13/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Screw_Terminal_01x13/image.png)|||

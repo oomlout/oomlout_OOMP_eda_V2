@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDRIVERFETMC34152 > Driver_FET : MC34152](#szkdriverfetmc34152--driver_fet--mc34152)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Driver_FET : MC34152
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-MC34152](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-MC34152)
 - Short Link: [http://oom.lt/SZKDRIVERFETMC34152](http://oom.lt/SZKDRIVERFETMC34152)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Driver_FET/MC34152/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Driver_FET/MC34152/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Driver_FET/MC34152/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Driver_FET/MC34152/image.png)|||

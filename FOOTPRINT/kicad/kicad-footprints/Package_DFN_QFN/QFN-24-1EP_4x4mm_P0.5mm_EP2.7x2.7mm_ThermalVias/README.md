@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKDFNQFN241EP4X4P5EP27X27THERMALVIAS > Package_DFN_QFN : QFN-24-1EP_4x4mm_P0.5mm_EP2.7x2.7mm_ThermalVias](#fzkdfnqfn241ep4x4p5ep27x27thermalvias--package_dfn_qfn--qfn-24-1ep_4x4mm_p05mm_ep27x27mm_thermalvias)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Package_DFN_QFN : QFN-24-1EP_4x4mm_P0.5mm_EP2.7x2.7mm_ThermalVias
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-QFN-24-1EP_4x4mm_P0.5mm_EP2.7x2.7mm_ThermalVias](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-QFN-24-1EP_4x4mm_P0.5mm_EP2.7x2.7mm_ThermalVias)
 - Short Link: [http://oom.lt/FZKDFNQFN241EP4X4P5EP27X27THERMALVIAS](http://oom.lt/FZKDFNQFN241EP4X4P5EP27X27THERMALVIAS)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/QFN-24-1EP_4x4mm_P0.5mm_EP2.7x2.7mm_ThermalVias/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/QFN-24-1EP_4x4mm_P0.5mm_EP2.7x2.7mm_ThermalVias/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/QFN-24-1EP_4x4mm_P0.5mm_EP2.7x2.7mm_ThermalVias/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/QFN-24-1EP_4x4mm_P0.5mm_EP2.7x2.7mm_ThermalVias/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/QFN-24-1EP_4x4mm_P0.5mm_EP2.7x2.7mm_ThermalVias/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/QFN-24-1EP_4x4mm_P0.5mm_EP2.7x2.7mm_ThermalVias/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/QFN-24-1EP_4x4mm_P0.5mm_EP2.7x2.7mm_ThermalVias/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/QFN-24-1EP_4x4mm_P0.5mm_EP2.7x2.7mm_ThermalVias/kicadPcb3dBack.png)|

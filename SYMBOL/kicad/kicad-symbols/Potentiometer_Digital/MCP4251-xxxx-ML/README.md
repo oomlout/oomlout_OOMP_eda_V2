@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKPOTENTIOMETERDIGITALMCP4251XXXXML > Potentiometer_Digital : MCP4251-xxxx-ML](#szkpotentiometerdigitalmcp4251xxxxml--potentiometer_digital--mcp4251-xxxx-ml)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Potentiometer_Digital : MCP4251-xxxx-ML
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Potentiometer_Digital-MCP4251-xxxx-ML](http://oom.lt/SYMBOL-kicad-kicad-symbols-Potentiometer_Digital-MCP4251-xxxx-ML)
 - Short Link: [http://oom.lt/SZKPOTENTIOMETERDIGITALMCP4251XXXXML](http://oom.lt/SZKPOTENTIOMETERDIGITALMCP4251XXXXML)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Potentiometer_Digital/MCP4251-xxxx-ML/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Potentiometer_Digital/MCP4251-xxxx-ML/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Potentiometer_Digital/MCP4251-xxxx-ML/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Potentiometer_Digital/MCP4251-xxxx-ML/image.png)|||

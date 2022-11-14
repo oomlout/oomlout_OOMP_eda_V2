@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKCNHIROSEHIROSEDF12DF12E31DP5V2X5P5VERTICAL > Connector_Hirose : Hirose_DF12_DF12E3.0-10DP-0.5V_2x05_P0.50mm_Vertical](#fzkcnhirosehirosedf12df12e31dp5v2x5p5vertical--connector_hirose--hirose_df12_df12e30-10dp-05v_2x05_p050mm_vertical)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Connector_Hirose : Hirose_DF12_DF12E3.0-10DP-0.5V_2x05_P0.50mm_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Hirose-Hirose_DF12_DF12E3.0-10DP-0.5V_2x05_P0.50mm_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Hirose-Hirose_DF12_DF12E3.0-10DP-0.5V_2x05_P0.50mm_Vertical)
 - Short Link: [http://oom.lt/FZKCNHIROSEHIROSEDF12DF12E31DP5V2X5P5VERTICAL](http://oom.lt/FZKCNHIROSEHIROSEDF12DF12E31DP5V2X5P5VERTICAL)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Hirose/Hirose_DF12_DF12E3.0-10DP-0.5V_2x05_P0.50mm_Vertical/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Hirose/Hirose_DF12_DF12E3.0-10DP-0.5V_2x05_P0.50mm_Vertical/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Hirose/Hirose_DF12_DF12E3.0-10DP-0.5V_2x05_P0.50mm_Vertical/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Hirose/Hirose_DF12_DF12E3.0-10DP-0.5V_2x05_P0.50mm_Vertical/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Hirose/Hirose_DF12_DF12E3.0-10DP-0.5V_2x05_P0.50mm_Vertical/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Hirose/Hirose_DF12_DF12E3.0-10DP-0.5V_2x05_P0.50mm_Vertical/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Hirose/Hirose_DF12_DF12E3.0-10DP-0.5V_2x05_P0.50mm_Vertical/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Hirose/Hirose_DF12_DF12E3.0-10DP-0.5V_2x05_P0.50mm_Vertical/kicadPcb3dBack.png)|

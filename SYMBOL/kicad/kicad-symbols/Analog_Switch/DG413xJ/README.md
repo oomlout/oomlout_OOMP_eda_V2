@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKANALOGSWITCHDG413XJ > Analog_Switch : DG413xJ](#szkanalogswitchdg413xj--analog_switch--dg413xj)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Analog_Switch : DG413xJ
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_Switch-DG413xJ](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_Switch-DG413xJ)
 - Short Link: [http://oom.lt/SZKANALOGSWITCHDG413XJ](http://oom.lt/SZKANALOGSWITCHDG413XJ)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Analog_Switch/DG413xJ/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Analog_Switch/DG413xJ/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Analog_Switch/DG413xJ/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Analog_Switch/DG413xJ/image.png)|||

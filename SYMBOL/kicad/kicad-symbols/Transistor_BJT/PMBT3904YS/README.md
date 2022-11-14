@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKTRANSISTORBJTPMBT394YS > Transistor_BJT : PMBT3904YS](#szktransistorbjtpmbt394ys--transistor_bjt--pmbt3904ys)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Transistor_BJT : PMBT3904YS
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-PMBT3904YS](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-PMBT3904YS)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJTPMBT394YS](http://oom.lt/SZKTRANSISTORBJTPMBT394YS)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_BJT/PMBT3904YS/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_BJT/PMBT3904YS/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_BJT/PMBT3904YS/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_BJT/PMBT3904YS/image.png)|||

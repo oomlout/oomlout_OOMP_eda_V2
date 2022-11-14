@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKISOLATORH11L1 > Isolator : H11L1](#szkisolatorh11l1--isolator--h11l1)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Isolator : H11L1
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-H11L1](http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-H11L1)
 - Short Link: [http://oom.lt/SZKISOLATORH11L1](http://oom.lt/SZKISOLATORH11L1)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Isolator/H11L1/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Isolator/H11L1/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Isolator/H11L1/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Isolator/H11L1/image.png)|||

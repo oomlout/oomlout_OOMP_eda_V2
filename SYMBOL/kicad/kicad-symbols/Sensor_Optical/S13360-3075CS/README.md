@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKSENOPTICALS1336375CS > Sensor_Optical : S13360-3075CS](#szksenopticals1336375cs--sensor_optical--s13360-3075cs)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Sensor_Optical : S13360-3075CS
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Optical-S13360-3075CS](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Optical-S13360-3075CS)
 - Short Link: [http://oom.lt/SZKSENOPTICALS1336375CS](http://oom.lt/SZKSENOPTICALS1336375CS)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Optical/S13360-3075CS/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Optical/S13360-3075CS/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Optical/S13360-3075CS/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Optical/S13360-3075CS/image.png)|||

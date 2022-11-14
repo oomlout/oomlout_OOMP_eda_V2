@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKTRTREPCOSB66359A113THORIZONTAL > Transformer_THT : Transformer_EPCOS_B66359A1013T_Horizontal](#fzktrtrepcosb66359a113thorizontal--transformer_tht--transformer_epcos_b66359a1013t_horizontal)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Transformer_THT : Transformer_EPCOS_B66359A1013T_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Transformer_THT-Transformer_EPCOS_B66359A1013T_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Transformer_THT-Transformer_EPCOS_B66359A1013T_Horizontal)
 - Short Link: [http://oom.lt/FZKTRTREPCOSB66359A113THORIZONTAL](http://oom.lt/FZKTRTREPCOSB66359A113THORIZONTAL)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Transformer_THT/Transformer_EPCOS_B66359A1013T_Horizontal/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Transformer_THT/Transformer_EPCOS_B66359A1013T_Horizontal/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Transformer_THT/Transformer_EPCOS_B66359A1013T_Horizontal/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Transformer_THT/Transformer_EPCOS_B66359A1013T_Horizontal/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Transformer_THT/Transformer_EPCOS_B66359A1013T_Horizontal/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Transformer_THT/Transformer_EPCOS_B66359A1013T_Horizontal/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Transformer_THT/Transformer_EPCOS_B66359A1013T_Horizontal/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Transformer_THT/Transformer_EPCOS_B66359A1013T_Horizontal/kicadPcb3dBack.png)|

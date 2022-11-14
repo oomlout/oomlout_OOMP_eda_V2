@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKAUDIOPCM51 > Audio : PCM5100](#szkaudiopcm51--audio--pcm5100)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Audio : PCM5100
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Audio-PCM5100](http://oom.lt/SYMBOL-kicad-kicad-symbols-Audio-PCM5100)
 - Short Link: [http://oom.lt/SZKAUDIOPCM51](http://oom.lt/SZKAUDIOPCM51)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Audio/PCM5100/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Audio/PCM5100/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Audio/PCM5100/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Audio/PCM5100/image.png)|||

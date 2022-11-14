@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZE74XXLITTLEDEYZPRXBGAN8 > 74xx-little-de : YZP_R-XBGA-N8](#fze74xxlittledeyzprxbgan8--74xx-little-de--yzp_r-xbga-n8)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: 74xx-little-de : YZP_R-XBGA-N8
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-74xx-little-de-YZP_R-XBGA-N8](http://oom.lt/FOOTPRINT-eagle-eagle-default-74xx-little-de-YZP_R-XBGA-N8)
 - Short Link: [http://oom.lt/FZE74XXLITTLEDEYZPRXBGAN8](http://oom.lt/FZE74XXLITTLEDEYZPRXBGAN8)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/74xx-little-de/YZP_R-XBGA-N8/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/74xx-little-de/YZP_R-XBGA-N8/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/74xx-little-de/YZP_R-XBGA-N8/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/74xx-little-de/YZP_R-XBGA-N8/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/74xx-little-de/YZP_R-XBGA-N8/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/74xx-little-de/YZP_R-XBGA-N8/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/74xx-little-de/YZP_R-XBGA-N8/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/74xx-little-de/YZP_R-XBGA-N8/kicadPcb3dBack.png)|

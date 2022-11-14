@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDIODEBAS516 > Diode : BAS516](#szkdiodebas516--diode--bas516)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Diode : BAS516
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-BAS516](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-BAS516)
 - Short Link: [http://oom.lt/SZKDIODEBAS516](http://oom.lt/SZKDIODEBAS516)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Diode/BAS516/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Diode/BAS516/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Diode/BAS516/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Diode/BAS516/image.png)|||

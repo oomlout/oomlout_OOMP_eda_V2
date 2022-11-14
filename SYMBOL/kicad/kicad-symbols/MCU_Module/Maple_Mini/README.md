@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKMCUMOMAPLEM > MCU_Module : Maple_Mini](#szkmcumomaplem--mcu_module--maple_mini)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: MCU_Module : Maple_Mini
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Module-Maple_Mini](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Module-Maple_Mini)
 - Short Link: [http://oom.lt/SZKMCUMOMAPLEM](http://oom.lt/SZKMCUMOMAPLEM)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Module/Maple_Mini/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Module/Maple_Mini/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Module/Maple_Mini/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Module/Maple_Mini/image.png)|||

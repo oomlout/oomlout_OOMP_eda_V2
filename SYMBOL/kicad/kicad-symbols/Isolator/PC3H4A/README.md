@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKISOLATORPC3H4A > Isolator : PC3H4A](#szkisolatorpc3h4a--isolator--pc3h4a)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Isolator : PC3H4A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-PC3H4A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-PC3H4A)
 - Short Link: [http://oom.lt/SZKISOLATORPC3H4A](http://oom.lt/SZKISOLATORPC3H4A)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Isolator/PC3H4A/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Isolator/PC3H4A/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Isolator/PC3H4A/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Isolator/PC3H4A/image.png)|||

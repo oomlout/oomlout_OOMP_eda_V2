@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKMCUDIALOGDA14695 > MCU_Dialog : DA14695](#szkmcudialogda14695--mcu_dialog--da14695)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: MCU_Dialog : DA14695
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Dialog-DA14695](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Dialog-DA14695)
 - Short Link: [http://oom.lt/SZKMCUDIALOGDA14695](http://oom.lt/SZKMCUDIALOGDA14695)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Dialog/DA14695/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Dialog/DA14695/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Dialog/DA14695/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Dialog/DA14695/image.png)|||

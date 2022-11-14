@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKTRWUERTH7491311A > Transformer : Wuerth_749013011A](#szktrwuerth7491311a--transformer--wuerth_749013011a)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Transformer : Wuerth_749013011A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transformer-Wuerth_749013011A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transformer-Wuerth_749013011A)
 - Short Link: [http://oom.lt/SZKTRWUERTH7491311A](http://oom.lt/SZKTRWUERTH7491311A)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transformer/Wuerth_749013011A/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transformer/Wuerth_749013011A/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transformer/Wuerth_749013011A/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transformer/Wuerth_749013011A/image.png)|||

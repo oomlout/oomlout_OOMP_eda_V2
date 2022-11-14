@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDEVICEFU > Device : Fuse](#szkdevicefu--device--fuse)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Device : Fuse
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Fuse](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Fuse)
 - Short Link: [http://oom.lt/SZKDEVICEFU](http://oom.lt/SZKDEVICEFU)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/Fuse/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/Fuse/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/Fuse/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/Fuse/image.png)|||

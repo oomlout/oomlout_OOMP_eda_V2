@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKJSOLDERJ3P13OPENROUNDEDPAD1X15NUMBERLABELS > Jumper : SolderJumper-3_P1.3mm_Open_RoundedPad1.0x1.5mm_NumberLabels](#fzkjsolderj3p13openroundedpad1x15numberlabels--jumper--solderjumper-3_p13mm_open_roundedpad10x15mm_numberlabels)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Jumper : SolderJumper-3_P1.3mm_Open_RoundedPad1.0x1.5mm_NumberLabels
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Jumper-SolderJumper-3_P1.3mm_Open_RoundedPad1.0x1.5mm_NumberLabels](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Jumper-SolderJumper-3_P1.3mm_Open_RoundedPad1.0x1.5mm_NumberLabels)
 - Short Link: [http://oom.lt/FZKJSOLDERJ3P13OPENROUNDEDPAD1X15NUMBERLABELS](http://oom.lt/FZKJSOLDERJ3P13OPENROUNDEDPAD1X15NUMBERLABELS)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Jumper/SolderJumper-3_P1.3mm_Open_RoundedPad1.0x1.5mm_NumberLabels/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Jumper/SolderJumper-3_P1.3mm_Open_RoundedPad1.0x1.5mm_NumberLabels/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Jumper/SolderJumper-3_P1.3mm_Open_RoundedPad1.0x1.5mm_NumberLabels/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Jumper/SolderJumper-3_P1.3mm_Open_RoundedPad1.0x1.5mm_NumberLabels/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Jumper/SolderJumper-3_P1.3mm_Open_RoundedPad1.0x1.5mm_NumberLabels/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Jumper/SolderJumper-3_P1.3mm_Open_RoundedPad1.0x1.5mm_NumberLabels/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Jumper/SolderJumper-3_P1.3mm_Open_RoundedPad1.0x1.5mm_NumberLabels/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Jumper/SolderJumper-3_P1.3mm_Open_RoundedPad1.0x1.5mm_NumberLabels/kicadPcb3dBack.png)|

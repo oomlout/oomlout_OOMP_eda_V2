@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKINTERFACEUFT23XS > Interface_USB : FT230XS](#szkinterfaceuft23xs--interface_usb--ft230xs)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Interface_USB : FT230XS
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_USB-FT230XS](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_USB-FT230XS)
 - Short Link: [http://oom.lt/SZKINTERFACEUFT23XS](http://oom.lt/SZKINTERFACEUFT23XS)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface_USB/FT230XS/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface_USB/FT230XS/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface_USB/FT230XS/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface_USB/FT230XS/image.png)|||

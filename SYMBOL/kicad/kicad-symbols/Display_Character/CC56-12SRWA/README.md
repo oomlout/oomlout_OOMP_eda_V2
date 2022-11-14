@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDICHARACTERCC5612SRWA > Display_Character : CC56-12SRWA](#szkdicharactercc5612srwa--display_character--cc56-12srwa)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Display_Character : CC56-12SRWA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-CC56-12SRWA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-CC56-12SRWA)
 - Short Link: [http://oom.lt/SZKDICHARACTERCC5612SRWA](http://oom.lt/SZKDICHARACTERCC5612SRWA)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Display_Character/CC56-12SRWA/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Display_Character/CC56-12SRWA/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Display_Character/CC56-12SRWA/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Display_Character/CC56-12SRWA/image.png)|||

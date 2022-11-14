@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKINTERFACEPCA936DP > Interface : PCA9306DP](#szkinterfacepca936dp--interface--pca9306dp)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Interface : PCA9306DP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-PCA9306DP](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-PCA9306DP)
 - Short Link: [http://oom.lt/SZKINTERFACEPCA936DP](http://oom.lt/SZKINTERFACEPCA936DP)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface/PCA9306DP/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface/PCA9306DP/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface/PCA9306DP/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface/PCA9306DP/image.png)|||

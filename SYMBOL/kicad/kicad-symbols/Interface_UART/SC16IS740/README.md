@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKINTERFACEUARTSC16IS74 > Interface_UART : SC16IS740](#szkinterfaceuartsc16is74--interface_uart--sc16is740)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Interface_UART : SC16IS740
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_UART-SC16IS740](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_UART-SC16IS740)
 - Short Link: [http://oom.lt/SZKINTERFACEUARTSC16IS74](http://oom.lt/SZKINTERFACEUARTSC16IS74)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface_UART/SC16IS740/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface_UART/SC16IS740/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface_UART/SC16IS740/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface_UART/SC16IS740/image.png)|||

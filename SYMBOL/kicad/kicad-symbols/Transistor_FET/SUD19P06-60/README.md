@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKTRANSISTORFETSUD19P66 > Transistor_FET : SUD19P06-60](#szktransistorfetsud19p66--transistor_fet--sud19p06-60)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Transistor_FET : SUD19P06-60
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-SUD19P06-60](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-SUD19P06-60)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETSUD19P66](http://oom.lt/SZKTRANSISTORFETSUD19P66)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/SUD19P06-60/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/SUD19P06-60/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/SUD19P06-60/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/SUD19P06-60/image.png)|||

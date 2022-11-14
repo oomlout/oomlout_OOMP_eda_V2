@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKINTERFACEUBQ24392 > Interface_USB : BQ24392](#szkinterfaceubq24392--interface_usb--bq24392)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Interface_USB : BQ24392
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_USB-BQ24392](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_USB-BQ24392)
 - Short Link: [http://oom.lt/SZKINTERFACEUBQ24392](http://oom.lt/SZKINTERFACEUBQ24392)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface_USB/BQ24392/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface_USB/BQ24392/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface_USB/BQ24392/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface_USB/BQ24392/image.png)|||

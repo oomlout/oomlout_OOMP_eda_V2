@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKREGULATORLINEARTC155 > Regulator_Linear : TC1055](#szkregulatorlineartc155--regulator_linear--tc1055)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Regulator_Linear : TC1055
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-TC1055](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-TC1055)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARTC155](http://oom.lt/SZKREGULATORLINEARTC155)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/TC1055/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/TC1055/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/TC1055/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/TC1055/image.png)|||

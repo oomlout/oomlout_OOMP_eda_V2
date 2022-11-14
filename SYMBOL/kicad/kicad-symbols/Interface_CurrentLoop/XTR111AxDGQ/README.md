@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKINTERFACECURRENTLOOPXTR111AXDGQ > Interface_CurrentLoop : XTR111AxDGQ](#szkinterfacecurrentloopxtr111axdgq--interface_currentloop--xtr111axdgq)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Interface_CurrentLoop : XTR111AxDGQ
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_CurrentLoop-XTR111AxDGQ](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_CurrentLoop-XTR111AxDGQ)
 - Short Link: [http://oom.lt/SZKINTERFACECURRENTLOOPXTR111AXDGQ](http://oom.lt/SZKINTERFACECURRENTLOOPXTR111AXDGQ)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface_CurrentLoop/XTR111AxDGQ/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface_CurrentLoop/XTR111AxDGQ/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface_CurrentLoop/XTR111AxDGQ/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface_CurrentLoop/XTR111AxDGQ/image.png)|||

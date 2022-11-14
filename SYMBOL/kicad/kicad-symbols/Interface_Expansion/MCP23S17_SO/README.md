@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKINTERFACEEXPANSIONMCP23S17SO > Interface_Expansion : MCP23S17_SO](#szkinterfaceexpansionmcp23s17so--interface_expansion--mcp23s17_so)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Interface_Expansion : MCP23S17_SO
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Expansion-MCP23S17_SO](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Expansion-MCP23S17_SO)
 - Short Link: [http://oom.lt/SZKINTERFACEEXPANSIONMCP23S17SO](http://oom.lt/SZKINTERFACEEXPANSIONMCP23S17SO)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface_Expansion/MCP23S17_SO/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface_Expansion/MCP23S17_SO/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface_Expansion/MCP23S17_SO/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface_Expansion/MCP23S17_SO/image.png)|||

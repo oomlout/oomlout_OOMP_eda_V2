@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDIODESMF2A > Diode : SMF20A](#szkdiodesmf2a--diode--smf20a)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Diode : SMF20A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-SMF20A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-SMF20A)
 - Short Link: [http://oom.lt/SZKDIODESMF2A](http://oom.lt/SZKDIODESMF2A)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Diode/SMF20A/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Diode/SMF20A/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Diode/SMF20A/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Diode/SMF20A/image.png)|||

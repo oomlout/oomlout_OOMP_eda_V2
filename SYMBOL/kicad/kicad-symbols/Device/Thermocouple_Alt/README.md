@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDEVICETHERMOCOUPLEALT > Device : Thermocouple_Alt](#szkdevicethermocouplealt--device--thermocouple_alt)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Device : Thermocouple_Alt
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Thermocouple_Alt](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Thermocouple_Alt)
 - Short Link: [http://oom.lt/SZKDEVICETHERMOCOUPLEALT](http://oom.lt/SZKDEVICETHERMOCOUPLEALT)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/Thermocouple_Alt/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/Thermocouple_Alt/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/Thermocouple_Alt/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/Thermocouple_Alt/image.png)|||

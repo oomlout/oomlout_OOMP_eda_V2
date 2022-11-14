@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKMOTORMOTORSERVOHITEC > Motor : Motor_Servo_Hitec](#szkmotormotorservohitec--motor--motor_servo_hitec)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Motor : Motor_Servo_Hitec
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Motor-Motor_Servo_Hitec](http://oom.lt/SYMBOL-kicad-kicad-symbols-Motor-Motor_Servo_Hitec)
 - Short Link: [http://oom.lt/SZKMOTORMOTORSERVOHITEC](http://oom.lt/SZKMOTORMOTORSERVOHITEC)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Motor/Motor_Servo_Hitec/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Motor/Motor_Servo_Hitec/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Motor/Motor_Servo_Hitec/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Motor/Motor_Servo_Hitec/image.png)|||

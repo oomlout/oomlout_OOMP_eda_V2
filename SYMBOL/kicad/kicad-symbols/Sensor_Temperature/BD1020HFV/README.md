@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKSENTEMPERATUREBD12HFV > Sensor_Temperature : BD1020HFV](#szksentemperaturebd12hfv--sensor_temperature--bd1020hfv)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Sensor_Temperature : BD1020HFV
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Temperature-BD1020HFV](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Temperature-BD1020HFV)
 - Short Link: [http://oom.lt/SZKSENTEMPERATUREBD12HFV](http://oom.lt/SZKSENTEMPERATUREBD12HFV)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Temperature/BD1020HFV/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Temperature/BD1020HFV/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Temperature/BD1020HFV/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Temperature/BD1020HFV/image.png)|||

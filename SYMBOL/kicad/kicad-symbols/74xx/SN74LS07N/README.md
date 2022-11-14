@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZK74XXSN74LS7N > 74xx : SN74LS07N](#szk74xxsn74ls7n--74xx--sn74ls07n)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: 74xx : SN74LS07N
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-74xx-SN74LS07N](http://oom.lt/SYMBOL-kicad-kicad-symbols-74xx-SN74LS07N)
 - Short Link: [http://oom.lt/SZK74XXSN74LS7N](http://oom.lt/SZK74XXSN74LS7N)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/74xx/SN74LS07N/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/74xx/SN74LS07N/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/74xx/SN74LS07N/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/74xx/SN74LS07N/image.png)|||

@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKPOWERPRIMID > power : PRI_MID](#szkpowerprimid--power--pri_mid)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: power : PRI_MID
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-power-PRI_MID](http://oom.lt/SYMBOL-kicad-kicad-symbols-power-PRI_MID)
 - Short Link: [http://oom.lt/SZKPOWERPRIMID](http://oom.lt/SZKPOWERPRIMID)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/power/PRI_MID/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/power/PRI_MID/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/power/PRI_MID/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/power/PRI_MID/image.png)|||

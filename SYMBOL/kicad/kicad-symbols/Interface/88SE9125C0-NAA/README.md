@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKINTERFACE88SE9125CNAA > Interface : 88SE9125C0-NAA](#szkinterface88se9125cnaa--interface--88se9125c0-naa)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Interface : 88SE9125C0-NAA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-88SE9125C0-NAA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-88SE9125C0-NAA)
 - Short Link: [http://oom.lt/SZKINTERFACE88SE9125CNAA](http://oom.lt/SZKINTERFACE88SE9125CNAA)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface/88SE9125C0-NAA/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface/88SE9125C0-NAA/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface/88SE9125C0-NAA/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface/88SE9125C0-NAA/image.png)|||

@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKFPGALATTICEICE4UP5KSG48ITR > FPGA_Lattice : ICE40UP5K-SG48ITR](#szkfpgalatticeice4up5ksg48itr--fpga_lattice--ice40up5k-sg48itr)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: FPGA_Lattice : ICE40UP5K-SG48ITR
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-FPGA_Lattice-ICE40UP5K-SG48ITR](http://oom.lt/SYMBOL-kicad-kicad-symbols-FPGA_Lattice-ICE40UP5K-SG48ITR)
 - Short Link: [http://oom.lt/SZKFPGALATTICEICE4UP5KSG48ITR](http://oom.lt/SZKFPGALATTICEICE4UP5KSG48ITR)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/FPGA_Lattice/ICE40UP5K-SG48ITR/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/FPGA_Lattice/ICE40UP5K-SG48ITR/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/FPGA_Lattice/ICE40UP5K-SG48ITR/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/FPGA_Lattice/ICE40UP5K-SG48ITR/image.png)|||

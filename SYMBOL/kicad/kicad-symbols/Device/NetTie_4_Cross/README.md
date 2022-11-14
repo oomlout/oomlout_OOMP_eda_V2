@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDEVICENT4CROSS > Device : NetTie_4_Cross](#szkdevicent4cross--device--nettie_4_cross)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Device : NetTie_4_Cross
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-NetTie_4_Cross](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-NetTie_4_Cross)
 - Short Link: [http://oom.lt/SZKDEVICENT4CROSS](http://oom.lt/SZKDEVICENT4CROSS)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/NetTie_4_Cross/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/NetTie_4_Cross/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/NetTie_4_Cross/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/NetTie_4_Cross/image.png)|||

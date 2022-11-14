@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKANALOGSWITCHADG1414BRU > Analog_Switch : ADG1414BRU](#szkanalogswitchadg1414bru--analog_switch--adg1414bru)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Analog_Switch : ADG1414BRU
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_Switch-ADG1414BRU](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_Switch-ADG1414BRU)
 - Short Link: [http://oom.lt/SZKANALOGSWITCHADG1414BRU](http://oom.lt/SZKANALOGSWITCHADG1414BRU)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Analog_Switch/ADG1414BRU/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Analog_Switch/ADG1414BRU/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Analog_Switch/ADG1414BRU/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Analog_Switch/ADG1414BRU/image.png)|||

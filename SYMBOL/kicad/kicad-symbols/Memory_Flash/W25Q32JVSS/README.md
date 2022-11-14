@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKMEMORYFLASHW25Q32JVSS > Memory_Flash : W25Q32JVSS](#szkmemoryflashw25q32jvss--memory_flash--w25q32jvss)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Memory_Flash : W25Q32JVSS
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_Flash-W25Q32JVSS](http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_Flash-W25Q32JVSS)
 - Short Link: [http://oom.lt/SZKMEMORYFLASHW25Q32JVSS](http://oom.lt/SZKMEMORYFLASHW25Q32JVSS)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Memory_Flash/W25Q32JVSS/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Memory_Flash/W25Q32JVSS/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Memory_Flash/W25Q32JVSS/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Memory_Flash/W25Q32JVSS/image.png)|||

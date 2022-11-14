@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKTRPE68386NL > Transformer : PE-68386NL](#szktrpe68386nl--transformer--pe-68386nl)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Transformer : PE-68386NL
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transformer-PE-68386NL](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transformer-PE-68386NL)
 - Short Link: [http://oom.lt/SZKTRPE68386NL](http://oom.lt/SZKTRPE68386NL)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transformer/PE-68386NL/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transformer/PE-68386NL/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transformer/PE-68386NL/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transformer/PE-68386NL/image.png)|||

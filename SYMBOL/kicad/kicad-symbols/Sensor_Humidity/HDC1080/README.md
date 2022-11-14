@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKSENHUMIDITYHDC18 > Sensor_Humidity : HDC1080](#szksenhumidityhdc18--sensor_humidity--hdc1080)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Sensor_Humidity : HDC1080
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Humidity-HDC1080](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Humidity-HDC1080)
 - Short Link: [http://oom.lt/SZKSENHUMIDITYHDC18](http://oom.lt/SZKSENHUMIDITYHDC18)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Humidity/HDC1080/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Humidity/HDC1080/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Humidity/HDC1080/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Humidity/HDC1080/image.png)|||

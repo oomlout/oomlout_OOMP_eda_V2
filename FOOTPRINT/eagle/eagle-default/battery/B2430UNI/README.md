@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZEBATB243UNI > battery : B2430UNI](#fzebatb243uni--battery--b2430uni)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: battery : B2430UNI
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-battery-B2430UNI](http://oom.lt/FOOTPRINT-eagle-eagle-default-battery-B2430UNI)
 - Short Link: [http://oom.lt/FZEBATB243UNI](http://oom.lt/FZEBATB243UNI)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/battery/B2430UNI/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/battery/B2430UNI/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/battery/B2430UNI/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/battery/B2430UNI/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/battery/B2430UNI/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/battery/B2430UNI/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/battery/B2430UNI/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/battery/B2430UNI/kicadPcb3dBack.png)|

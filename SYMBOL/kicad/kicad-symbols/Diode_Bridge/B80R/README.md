@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKDIODEBRIDGEB8R > Diode_Bridge : B80R](#szkdiodebridgeb8r--diode_bridge--b80r)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Diode_Bridge : B80R
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode_Bridge-B80R](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode_Bridge-B80R)
 - Short Link: [http://oom.lt/SZKDIODEBRIDGEB8R](http://oom.lt/SZKDIODEBRIDGEB8R)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Diode_Bridge/B80R/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Diode_Bridge/B80R/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Diode_Bridge/B80R/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Diode_Bridge/B80R/image.png)|||

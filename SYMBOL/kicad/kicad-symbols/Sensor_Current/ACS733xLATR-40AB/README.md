@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKSENCURRENTACS733XLATR4AB > Sensor_Current : ACS733xLATR-40AB](#szksencurrentacs733xlatr4ab--sensor_current--acs733xlatr-40ab)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Sensor_Current : ACS733xLATR-40AB
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-ACS733xLATR-40AB](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-ACS733xLATR-40AB)
 - Short Link: [http://oom.lt/SZKSENCURRENTACS733XLATR4AB](http://oom.lt/SZKSENCURRENTACS733XLATR4AB)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Current/ACS733xLATR-40AB/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Current/ACS733xLATR-40AB/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Current/ACS733xLATR-40AB/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Current/ACS733xLATR-40AB/image.png)|||

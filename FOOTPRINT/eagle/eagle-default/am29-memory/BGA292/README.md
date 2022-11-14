@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZEAM29MEMORYBGA292 > am29-memory : BGA292](#fzeam29memorybga292--am29-memory--bga292)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: am29-memory : BGA292
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-am29-memory-BGA292](http://oom.lt/FOOTPRINT-eagle-eagle-default-am29-memory-BGA292)
 - Short Link: [http://oom.lt/FZEAM29MEMORYBGA292](http://oom.lt/FZEAM29MEMORYBGA292)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/am29-memory/BGA292/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/am29-memory/BGA292/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/am29-memory/BGA292/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/am29-memory/BGA292/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/am29-memory/BGA292/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/am29-memory/BGA292/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/am29-memory/BGA292/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/am29-memory/BGA292/kicadPcb3dBack.png)|

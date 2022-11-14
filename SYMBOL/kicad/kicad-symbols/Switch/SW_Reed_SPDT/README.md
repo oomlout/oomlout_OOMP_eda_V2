@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKSWITCHSWREEDSPDT > Switch : SW_Reed_SPDT](#szkswitchswreedspdt--switch--sw_reed_spdt)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Switch : SW_Reed_SPDT
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Switch-SW_Reed_SPDT](http://oom.lt/SYMBOL-kicad-kicad-symbols-Switch-SW_Reed_SPDT)
 - Short Link: [http://oom.lt/SZKSWITCHSWREEDSPDT](http://oom.lt/SZKSWITCHSWREEDSPDT)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Switch/SW_Reed_SPDT/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Switch/SW_Reed_SPDT/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Switch/SW_Reed_SPDT/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Switch/SW_Reed_SPDT/image.png)|||

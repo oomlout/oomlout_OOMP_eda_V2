@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKPOWERMANAGEMENTBTS511TAD > Power_Management : BTS50010-1TAD](#szkpowermanagementbts511tad--power_management--bts50010-1tad)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Power_Management : BTS50010-1TAD
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-BTS50010-1TAD](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-BTS50010-1TAD)
 - Short Link: [http://oom.lt/SZKPOWERMANAGEMENTBTS511TAD](http://oom.lt/SZKPOWERMANAGEMENTBTS511TAD)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Power_Management/BTS50010-1TAD/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Power_Management/BTS50010-1TAD/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Power_Management/BTS50010-1TAD/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Power_Management/BTS50010-1TAD/image.png)|||

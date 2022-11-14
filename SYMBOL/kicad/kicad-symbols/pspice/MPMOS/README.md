@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKPSPICEMPMOS > pspice : MPMOS](#szkpspicempmos--pspice--mpmos)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: pspice : MPMOS
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-pspice-MPMOS](http://oom.lt/SYMBOL-kicad-kicad-symbols-pspice-MPMOS)
 - Short Link: [http://oom.lt/SZKPSPICEMPMOS](http://oom.lt/SZKPSPICEMPMOS)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/pspice/MPMOS/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/pspice/MPMOS/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/pspice/MPMOS/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/pspice/MPMOS/image.png)|||

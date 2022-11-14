@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKREGULATORSWITCHEDCAPACITORLT154L > Regulator_SwitchedCapacitor : LT1054L](#szkregulatorswitchedcapacitorlt154l--regulator_switchedcapacitor--lt1054l)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Regulator_SwitchedCapacitor : LT1054L
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_SwitchedCapacitor-LT1054L](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_SwitchedCapacitor-LT1054L)
 - Short Link: [http://oom.lt/SZKREGULATORSWITCHEDCAPACITORLT154L](http://oom.lt/SZKREGULATORSWITCHEDCAPACITORLT154L)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_SwitchedCapacitor/LT1054L/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_SwitchedCapacitor/LT1054L/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_SwitchedCapacitor/LT1054L/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_SwitchedCapacitor/LT1054L/image.png)|||

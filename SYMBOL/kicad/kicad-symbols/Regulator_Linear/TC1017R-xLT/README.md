@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKREGULATORLINEARTC117RXLT > Regulator_Linear : TC1017R-xLT](#szkregulatorlineartc117rxlt--regulator_linear--tc1017r-xlt)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Regulator_Linear : TC1017R-xLT
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-TC1017R-xLT](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-TC1017R-xLT)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARTC117RXLT](http://oom.lt/SZKREGULATORLINEARTC117RXLT)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/TC1017R-xLT/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/TC1017R-xLT/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/TC1017R-xLT/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/TC1017R-xLT/image.png)|||

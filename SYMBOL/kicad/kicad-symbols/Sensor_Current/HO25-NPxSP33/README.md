@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKSENCURRENTHO25NPXSP33 > Sensor_Current : HO25-NPxSP33](#szksencurrentho25npxsp33--sensor_current--ho25-npxsp33)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Sensor_Current : HO25-NPxSP33
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-HO25-NPxSP33](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-HO25-NPxSP33)
 - Short Link: [http://oom.lt/SZKSENCURRENTHO25NPXSP33](http://oom.lt/SZKSENCURRENTHO25NPXSP33)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Current/HO25-NPxSP33/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Current/HO25-NPxSP33/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Current/HO25-NPxSP33/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Current/HO25-NPxSP33/image.png)|||

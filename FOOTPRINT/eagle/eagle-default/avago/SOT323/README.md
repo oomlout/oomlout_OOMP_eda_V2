@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZEAVAGOSOT323 > avago : SOT323](#fzeavagosot323--avago--sot323)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: avago : SOT323
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-avago-SOT323](http://oom.lt/FOOTPRINT-eagle-eagle-default-avago-SOT323)
 - Short Link: [http://oom.lt/FZEAVAGOSOT323](http://oom.lt/FZEAVAGOSOT323)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/avago/SOT323/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/avago/SOT323/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/avago/SOT323/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/avago/SOT323/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/avago/SOT323/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/avago/SOT323/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/avago/SOT323/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/avago/SOT323/kicadPcb3dBack.png)|

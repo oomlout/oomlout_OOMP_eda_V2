@@ -6,6 +6,7 @@ Contents
 ========
 
 * [SZKGPUMC68A45 > GPU : MC68A45](#szkgpumc68a45--gpu--mc68a45)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: GPU : MC68A45
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-GPU-MC68A45](http://oom.lt/SYMBOL-kicad-kicad-symbols-GPU-MC68A45)
 - Short Link: [http://oom.lt/SZKGPUMC68A45](http://oom.lt/SZKGPUMC68A45)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/GPU/MC68A45/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/GPU/MC68A45/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/GPU/MC68A45/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/GPU/MC68A45/image.png)|||

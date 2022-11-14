@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZKINLAXIALL95D4P58VERTICALFASTRONSMCC > Inductor_THT : L_Axial_L9.5mm_D4.0mm_P5.08mm_Vertical_Fastron_SMCC](#fzkinlaxiall95d4p58verticalfastronsmcc--inductor_tht--l_axial_l95mm_d40mm_p508mm_vertical_fastron_smcc)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +18,8 @@ Contents
 - Description: Inductor_THT : L_Axial_L9.5mm_D4.0mm_P5.08mm_Vertical_Fastron_SMCC
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Axial_L9.5mm_D4.0mm_P5.08mm_Vertical_Fastron_SMCC](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Axial_L9.5mm_D4.0mm_P5.08mm_Vertical_Fastron_SMCC)
 - Short Link: [http://oom.lt/FZKINLAXIALL95D4P58VERTICALFASTRONSMCC](http://oom.lt/FZKINLAXIALL95D4P58VERTICALFASTRONSMCC)
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Axial_L9.5mm_D4.0mm_P5.08mm_Vertical_Fastron_SMCC/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Axial_L9.5mm_D4.0mm_P5.08mm_Vertical_Fastron_SMCC/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Axial_L9.5mm_D4.0mm_P5.08mm_Vertical_Fastron_SMCC/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Axial_L9.5mm_D4.0mm_P5.08mm_Vertical_Fastron_SMCC/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Axial_L9.5mm_D4.0mm_P5.08mm_Vertical_Fastron_SMCC/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Axial_L9.5mm_D4.0mm_P5.08mm_Vertical_Fastron_SMCC/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Axial_L9.5mm_D4.0mm_P5.08mm_Vertical_Fastron_SMCC/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Axial_L9.5mm_D4.0mm_P5.08mm_Vertical_Fastron_SMCC/kicadPcb3dBack.png)|
