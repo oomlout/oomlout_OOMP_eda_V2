@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZECONPHOENIX5MSTBV2513G > con-phoenix-500 : MSTBV_2,5_13-G
 
 - ID: FOOTPRINT-eagle-eagle-default-con-phoenix-500-MSTBV_2,5_13-G
@@ -40,3 +40,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZECONPHOENIX5MSTBV2513G|
 |name|name|con-phoenix-500 : MSTBV_2,5_13-G|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

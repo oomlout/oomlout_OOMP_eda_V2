@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZECONPHOENIX35MKKDS1835 > con-phoenix-350 : MKKDS1_8-3,5
 
 - ID: FOOTPRINT-eagle-eagle-default-con-phoenix-350-MKKDS1_8-3,5
@@ -40,3 +40,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZECONPHOENIX35MKKDS1835|
 |name|name|con-phoenix-350 : MKKDS1_8-3,5|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

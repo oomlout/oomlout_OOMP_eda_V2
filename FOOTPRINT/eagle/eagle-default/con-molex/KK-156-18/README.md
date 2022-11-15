@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZECONMXKK15618 > con-molex : KK-156-18
 
 - ID: FOOTPRINT-eagle-eagle-default-con-molex-KK-156-18
@@ -40,3 +40,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZECONMXKK15618|
 |name|name|con-molex : KK-156-18|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

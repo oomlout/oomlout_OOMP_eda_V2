@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZECONOMRONXF2N21153 > con-omron : XF2N-2115-3
 
 - ID: FOOTPRINT-eagle-eagle-default-con-omron-XF2N-2115-3
@@ -40,3 +40,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZECONOMRONXF2N21153|
 |name|name|con-omron : XF2N-2115-3|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

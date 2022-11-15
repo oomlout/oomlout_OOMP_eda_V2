@@ -95,7 +95,7 @@
       )
       (pin input inverted (at -13.97 7.62 0) (length 7.62)
         (name "~{EN}" (effects (font (size 1.27 1.27))))
-        (number "6" (effects (font (size 1.27 1.27))))
+        (number "3" (effects (font (size 1.27 1.27))))
       )
       (pin output line (at 13.97 -3.81 180) (length 7.62)
         (name "Q1" (effects (font (size 1.27 1.27))))

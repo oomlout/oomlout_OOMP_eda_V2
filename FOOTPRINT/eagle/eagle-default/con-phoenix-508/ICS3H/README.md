@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZECONPHOENIX58ICS3H > con-phoenix-508 : ICS3H
 
 - ID: FOOTPRINT-eagle-eagle-default-con-phoenix-508-ICS3H
@@ -40,3 +40,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZECONPHOENIX58ICS3H|
 |name|name|con-phoenix-508 : ICS3H|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

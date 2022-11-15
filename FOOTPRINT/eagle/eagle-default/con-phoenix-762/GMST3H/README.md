@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZECONPHOENIX762GMST3H > con-phoenix-762 : GMST3H
 
 - ID: FOOTPRINT-eagle-eagle-default-con-phoenix-762-GMST3H
@@ -40,3 +40,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZECONPHOENIX762GMST3H|
 |name|name|con-phoenix-762 : GMST3H|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

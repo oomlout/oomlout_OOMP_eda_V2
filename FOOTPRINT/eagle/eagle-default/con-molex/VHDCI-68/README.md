@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZECONMXVHDCI68 > con-molex : VHDCI-68
 
 - ID: FOOTPRINT-eagle-eagle-default-con-molex-VHDCI-68
@@ -40,3 +40,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZECONMXVHDCI68|
 |name|name|con-molex : VHDCI-68|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

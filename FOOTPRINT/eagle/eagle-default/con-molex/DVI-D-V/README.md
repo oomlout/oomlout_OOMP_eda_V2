@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZECONMXDVIDV > con-molex : DVI-D-V
 
 - ID: FOOTPRINT-eagle-eagle-default-con-molex-DVI-D-V
@@ -40,3 +40,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZECONMXDVIDV|
 |name|name|con-molex : DVI-D-V|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

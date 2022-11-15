@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZECONPCPCIBRD > con-pc : PCI_BRD
 
 - ID: FOOTPRINT-eagle-eagle-default-con-pc-PCI_BRD
@@ -40,3 +40,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZECONPCPCIBRD|
 |name|name|con-pc : PCI_BRD|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

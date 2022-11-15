@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZECONPHOENIX5MSTBV8GR > con-phoenix-500 : MSTBV8GR
 
 - ID: FOOTPRINT-eagle-eagle-default-con-phoenix-500-MSTBV8GR
@@ -40,3 +40,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZECONPHOENIX5MSTBV8GR|
 |name|name|con-phoenix-500 : MSTBV8GR|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

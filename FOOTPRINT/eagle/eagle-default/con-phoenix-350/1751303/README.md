@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZECONPHOENIX35175133 > con-phoenix-350 : 1751303
 
 - ID: FOOTPRINT-eagle-eagle-default-con-phoenix-350-1751303
@@ -40,3 +40,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZECONPHOENIX35175133|
 |name|name|con-phoenix-350 : 1751303|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZECONNEUTRIKAGNCJ1FIH > con-neutrik_ag : NCJ10FI-H
 
 - ID: FOOTPRINT-eagle-eagle-default-con-neutrik_ag-NCJ10FI-H
@@ -40,3 +40,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZECONNEUTRIKAGNCJ1FIH|
 |name|name|con-neutrik_ag : NCJ10FI-H|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

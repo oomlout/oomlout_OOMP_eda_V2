@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZECONMXSIMCARD496191611 > con-molex : SIM-CARD_496191611
 
 - ID: FOOTPRINT-eagle-eagle-default-con-molex-SIM-CARD_496191611
@@ -40,3 +40,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZECONMXSIMCARD496191611|
 |name|name|con-molex : SIM-CARD_496191611|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

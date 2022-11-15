@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZECONPCEISA188 > con-pc : EISA-188
 
 - ID: FOOTPRINT-eagle-eagle-default-con-pc-EISA-188
@@ -40,3 +40,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZECONPCEISA188|
 |name|name|con-pc : EISA-188|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

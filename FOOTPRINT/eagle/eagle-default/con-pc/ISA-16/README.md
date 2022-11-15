@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZECONPCISA16 > con-pc : ISA-16
 
 - ID: FOOTPRINT-eagle-eagle-default-con-pc-ISA-16
@@ -40,3 +40,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZECONPCISA16|
 |name|name|con-pc : ISA-16|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZECONML3M6 > con-ml : 3M_60
 
 - ID: FOOTPRINT-eagle-eagle-default-con-ml-3M_60
@@ -40,3 +40,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZECONML3M6|
 |name|name|con-ml : 3M_60|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

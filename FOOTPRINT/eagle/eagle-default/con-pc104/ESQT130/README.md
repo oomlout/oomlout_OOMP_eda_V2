@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZECONPC14ESQT13 > con-pc104 : ESQT130
 
 - ID: FOOTPRINT-eagle-eagle-default-con-pc104-ESQT130
@@ -40,3 +40,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZECONPC14ESQT13|
 |name|name|con-pc104 : ESQT130|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

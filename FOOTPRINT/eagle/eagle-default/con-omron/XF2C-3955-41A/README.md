@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZECONOMRONXF2C395541A > con-omron : XF2C-3955-41A
 
 - ID: FOOTPRINT-eagle-eagle-default-con-omron-XF2C-3955-41A
@@ -40,3 +40,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZECONOMRONXF2C395541A|
 |name|name|con-omron : XF2C-3955-41A|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

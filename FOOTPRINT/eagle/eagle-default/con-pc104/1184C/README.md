@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZECONPC141184C > con-pc104 : 1184C
 
 - ID: FOOTPRINT-eagle-eagle-default-con-pc104-1184C
@@ -40,3 +40,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZECONPC141184C|
 |name|name|con-pc104 : 1184C|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

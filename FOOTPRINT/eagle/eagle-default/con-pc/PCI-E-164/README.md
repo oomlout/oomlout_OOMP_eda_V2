@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZECONPCPCIE164 > con-pc : PCI-E-164
 
 - ID: FOOTPRINT-eagle-eagle-default-con-pc-PCI-E-164
@@ -40,3 +40,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZECONPCPCIE164|
 |name|name|con-pc : PCI-E-164|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZECONPCVEROG44 > con-pc : VERO-G44
 
 - ID: FOOTPRINT-eagle-eagle-default-con-pc-VERO-G44
@@ -40,3 +40,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZECONPCVEROG44|
 |name|name|con-pc : VERO-G44|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

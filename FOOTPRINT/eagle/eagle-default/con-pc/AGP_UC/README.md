@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZECONPCAGPUC > con-pc : AGP_UC
 
 - ID: FOOTPRINT-eagle-eagle-default-con-pc-AGP_UC
@@ -40,3 +40,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZECONPCAGPUC|
 |name|name|con-pc : AGP_UC|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

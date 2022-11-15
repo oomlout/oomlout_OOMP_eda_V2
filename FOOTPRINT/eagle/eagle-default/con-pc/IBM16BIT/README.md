@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZECONPCIBM16BIT > con-pc : IBM16BIT
 
 - ID: FOOTPRINT-eagle-eagle-default-con-pc-IBM16BIT
@@ -40,3 +40,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZECONPCIBM16BIT|
 |name|name|con-pc : IBM16BIT|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

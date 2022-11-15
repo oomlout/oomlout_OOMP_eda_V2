@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZECONNEUTRIKAGNC3MBHR > con-neutrik_ag : NC3MBHR
 
 - ID: FOOTPRINT-eagle-eagle-default-con-neutrik_ag-NC3MBHR
@@ -40,3 +40,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZECONNEUTRIKAGNC3MBHR|
 |name|name|con-neutrik_ag : NC3MBHR|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

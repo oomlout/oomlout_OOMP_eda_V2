@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZECONPANDUIT5741 > con-panduit : 057-040-1
 
 - ID: FOOTPRINT-eagle-eagle-default-con-panduit-057-040-1
@@ -40,3 +40,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZECONPANDUIT5741|
 |name|name|con-panduit : 057-040-1|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

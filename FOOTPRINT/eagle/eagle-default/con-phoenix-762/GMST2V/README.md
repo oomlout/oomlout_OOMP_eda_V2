@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZECONPHOENIX762GMST2V > con-phoenix-762 : GMST2V
 
 - ID: FOOTPRINT-eagle-eagle-default-con-phoenix-762-GMST2V
@@ -40,3 +40,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZECONPHOENIX762GMST2V|
 |name|name|con-phoenix-762 : GMST2V|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

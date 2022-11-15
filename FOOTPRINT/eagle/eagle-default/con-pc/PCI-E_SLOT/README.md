@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZECONPCPCIESLOT > con-pc : PCI-E_SLOT
 
 - ID: FOOTPRINT-eagle-eagle-default-con-pc-PCI-E_SLOT
@@ -40,3 +40,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZECONPCPCIESLOT|
 |name|name|con-pc : PCI-E_SLOT|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

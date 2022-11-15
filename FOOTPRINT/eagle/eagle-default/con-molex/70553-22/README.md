@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZECONMX755322 > con-molex : 70553-22
 
 - ID: FOOTPRINT-eagle-eagle-default-con-molex-70553-22
@@ -40,3 +40,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZECONMX755322|
 |name|name|con-molex : 70553-22|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

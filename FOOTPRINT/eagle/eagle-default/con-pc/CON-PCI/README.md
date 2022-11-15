@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZECONPCCONPCI > con-pc : CON-PCI
 
 - ID: FOOTPRINT-eagle-eagle-default-con-pc-CON-PCI
@@ -40,3 +40,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZECONPCCONPCI|
 |name|name|con-pc : CON-PCI|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

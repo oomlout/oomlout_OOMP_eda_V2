@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZECONOMRONXF2H4151LW > con-omron : XF2H-4015-1LW
 
 - ID: FOOTPRINT-eagle-eagle-default-con-omron-XF2H-4015-1LW
@@ -40,3 +40,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZECONOMRONXF2H4151LW|
 |name|name|con-omron : XF2H-4015-1LW|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

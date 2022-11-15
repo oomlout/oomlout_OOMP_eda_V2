@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZECONPC14PC14STANDARD > con-pc104 : PC104-STANDARD
 
 - ID: FOOTPRINT-eagle-eagle-default-con-pc104-PC104-STANDARD
@@ -40,3 +40,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZECONPC14PC14STANDARD|
 |name|name|con-pc104 : PC104-STANDARD|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

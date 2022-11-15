@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZECONPCEISABRD > con-pc : EISA-BRD
 
 - ID: FOOTPRINT-eagle-eagle-default-con-pc-EISA-BRD
@@ -40,3 +40,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZECONPCEISABRD|
 |name|name|con-pc : EISA-BRD|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

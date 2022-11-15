@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZECONPHOENIXSMKDSPSMKDSP1515 > con-phoenix-smkdsp : SMKDSP_1,5_15
 
 - ID: FOOTPRINT-eagle-eagle-default-con-phoenix-smkdsp-SMKDSP_1,5_15
@@ -40,3 +40,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZECONPHOENIXSMKDSPSMKDSP1515|
 |name|name|con-phoenix-smkdsp : SMKDSP_1,5_15|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZECONOMRONXF3B8 > con-omron : XF3B-8
 
 - ID: FOOTPRINT-eagle-eagle-default-con-omron-XF3B-8
@@ -40,3 +40,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZECONOMRONXF3B8|
 |name|name|con-omron : XF3B-8|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

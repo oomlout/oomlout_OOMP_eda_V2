@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZECONMX8736SCSI > con-molex : 87360-SCSI
 
 - ID: FOOTPRINT-eagle-eagle-default-con-molex-87360-SCSI
@@ -40,3 +40,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZECONMX8736SCSI|
 |name|name|con-molex : 87360-SCSI|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

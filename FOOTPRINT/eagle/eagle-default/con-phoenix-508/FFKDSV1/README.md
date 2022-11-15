@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZECONPHOENIX58FFKDSV1 > con-phoenix-508 : FFKDSV1
 
 - ID: FOOTPRINT-eagle-eagle-default-con-phoenix-508-FFKDSV1
@@ -40,3 +40,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZECONPHOENIX58FFKDSV1|
 |name|name|con-phoenix-508 : FFKDSV1|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZECONPCAGPUCSLOT > con-pc : AGP_UC-SLOT
 
 - ID: FOOTPRINT-eagle-eagle-default-con-pc-AGP_UC-SLOT
@@ -40,3 +40,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZECONPCAGPUCSLOT|
 |name|name|con-pc : AGP_UC-SLOT|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

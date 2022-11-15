@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZECONOMRONXF2G161411 > con-omron : XF2G-1614-11
 
 - ID: FOOTPRINT-eagle-eagle-default-con-omron-XF2G-1614-11
@@ -40,3 +40,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZECONOMRONXF2G161411|
 |name|name|con-omron : XF2G-1614-11|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

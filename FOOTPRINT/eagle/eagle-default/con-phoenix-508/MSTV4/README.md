@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZECONPHOENIX58MSTV4 > con-phoenix-508 : MSTV4
 
 - ID: FOOTPRINT-eagle-eagle-default-con-phoenix-508-MSTV4
@@ -40,3 +40,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZECONPHOENIX58MSTV4|
 |name|name|con-phoenix-508 : MSTV4|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

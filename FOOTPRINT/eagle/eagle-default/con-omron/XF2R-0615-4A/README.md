@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZECONOMRONXF2R6154A > con-omron : XF2R-0615-4A
 
 - ID: FOOTPRINT-eagle-eagle-default-con-omron-XF2R-0615-4A
@@ -40,3 +40,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZECONOMRONXF2R6154A|
 |name|name|con-omron : XF2R-0615-4A|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

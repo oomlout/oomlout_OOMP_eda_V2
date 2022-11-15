@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZECONPCPCILONG > con-pc : PCI-LONG
 
 - ID: FOOTPRINT-eagle-eagle-default-con-pc-PCI-LONG
@@ -40,3 +40,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZECONPCPCILONG|
 |name|name|con-pc : PCI-LONG|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

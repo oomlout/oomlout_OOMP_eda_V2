@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZECONPCSC242CON > con-pc : SC242CON
 
 - ID: FOOTPRINT-eagle-eagle-default-con-pc-SC242CON
@@ -40,3 +40,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZECONPCSC242CON|
 |name|name|con-pc : SC242CON|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

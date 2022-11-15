@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZECONOMRONXF2B234531A > con-omron : XF2B-2345-31A
 
 - ID: FOOTPRINT-eagle-eagle-default-con-omron-XF2B-2345-31A
@@ -40,3 +40,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZECONOMRONXF2B234531A|
 |name|name|con-omron : XF2B-2345-31A|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png
