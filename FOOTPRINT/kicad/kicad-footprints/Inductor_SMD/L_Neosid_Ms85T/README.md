@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKINDUCTORSMLNEOSIDMS85T > Inductor_SMD : L_Neosid_Ms85T](#fzkinductorsmlneosidms85t--inductor_smd--l_neosid_ms85t)
+* [FZKINLNEOSIDMS85T > Inductor_SMD : L_Neosid_Ms85T](#fzkinlneosidms85t--inductor_smd--l_neosid_ms85t)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKINDUCTORSMLNEOSIDMS85T > Inductor_SMD : L_Neosid_Ms85T
+# FZKINLNEOSIDMS85T > Inductor_SMD : L_Neosid_Ms85T
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Neosid_Ms85T
-- Hex ID: FZKINDUCTORSMLNEOSIDMS85T
+- Hex ID: FZKINLNEOSIDMS85T
 - Name: Inductor_SMD : L_Neosid_Ms85T
 - Description: Inductor_SMD : L_Neosid_Ms85T
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Neosid_Ms85T](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Neosid_Ms85T)
-- Short Link: [http://oom.lt/FZKINDUCTORSMLNEOSIDMS85T](http://oom.lt/FZKINDUCTORSMLNEOSIDMS85T)
+- Short Link: [http://oom.lt/FZKINLNEOSIDMS85T](http://oom.lt/FZKINLNEOSIDMS85T)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Inductor_SMD|
 |OOMP Index|oompIndex|L_Neosid_Ms85T|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Neosid_Ms85T|
-|Hex ID (short code)|hexID|FZKINDUCTORSMLNEOSIDMS85T|
+|Hex ID (short code)|hexID|FZKINLNEOSIDMS85T|
 |name|name|Inductor_SMD : L_Neosid_Ms85T|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'L_Neosid_Ms85T'</td><td> 'description'</td></tr><tr><td> 'Neosid</td><td> Ms85</td><td> Ms85T</td><td> SMD Inductor</td><td> Fixed inductor</td><td> SMD</td><td> https</td></tr><tr><td>//neosid.de/import-data/product-pdf/neoFestind_Ms85T.pdf'</td><td> 'tags'</td></tr><tr><td> 'Neosid Ms85 Ms85T SMD Inductor Fixed inductor SMD'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Inductor_SMD.3dshapes/L_Neosid_Ms85T.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

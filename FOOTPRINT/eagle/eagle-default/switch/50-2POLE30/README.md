@@ -5,18 +5,18 @@
 Contents
 ========
 
-* [FZESWITCH52POLE3 > switch : 50-2POLE30](#fzeswitch52pole3--switch--50-2pole30)
+* [FZESW52POLE3 > switch : 50-2POLE30](#fzesw52pole3--switch--50-2pole30)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZESWITCH52POLE3 > switch : 50-2POLE30
+# FZESW52POLE3 > switch : 50-2POLE30
 
 - ID: FOOTPRINT-eagle-eagle-default-switch-50-2POLE30
-- Hex ID: FZESWITCH52POLE3
+- Hex ID: FZESW52POLE3
 - Name: switch : 50-2POLE30
 - Description: switch : 50-2POLE30
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-50-2POLE30](http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-50-2POLE30)
-- Short Link: [http://oom.lt/FZESWITCH52POLE3](http://oom.lt/FZESWITCH52POLE3)
+- Short Link: [http://oom.lt/FZESW52POLE3](http://oom.lt/FZESW52POLE3)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +30,6 @@ NO IMAGES
 |OOMP Description|oompDesc|switch|
 |OOMP Index|oompIndex|50-2POLE30|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-switch-50-2POLE30|
-|Hex ID (short code)|hexID|FZESWITCH52POLE3|
+|Hex ID (short code)|hexID|FZESW52POLE3|
 |name|name|switch : 50-2POLE30|
 ||||

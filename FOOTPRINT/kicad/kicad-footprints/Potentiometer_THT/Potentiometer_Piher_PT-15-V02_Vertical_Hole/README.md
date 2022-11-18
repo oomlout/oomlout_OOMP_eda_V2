@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKPPOTENTIOMETERPIHERPT15V2VERTICALHOLE > Potentiometer_THT : Potentiometer_Piher_PT-15-V02_Vertical_Hole](#fzkppotentiometerpiherpt15v2verticalhole--potentiometer_tht--potentiometer_piher_pt-15-v02_vertical_hole)
+* [FZKPPOTPIHERPT15V2FHOLE > Potentiometer_THT : Potentiometer_Piher_PT-15-V02_Vertical_Hole](#fzkppotpiherpt15v2fhole--potentiometer_tht--potentiometer_piher_pt-15-v02_vertical_hole)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKPPOTENTIOMETERPIHERPT15V2VERTICALHOLE > Potentiometer_THT : Potentiometer_Piher_PT-15-V02_Vertical_Hole
+# FZKPPOTPIHERPT15V2FHOLE > Potentiometer_THT : Potentiometer_Piher_PT-15-V02_Vertical_Hole
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Potentiometer_THT-Potentiometer_Piher_PT-15-V02_Vertical_Hole
-- Hex ID: FZKPPOTENTIOMETERPIHERPT15V2VERTICALHOLE
+- Hex ID: FZKPPOTPIHERPT15V2FHOLE
 - Name: Potentiometer_THT : Potentiometer_Piher_PT-15-V02_Vertical_Hole
 - Description: Potentiometer_THT : Potentiometer_Piher_PT-15-V02_Vertical_Hole
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Potentiometer_THT-Potentiometer_Piher_PT-15-V02_Vertical_Hole](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Potentiometer_THT-Potentiometer_Piher_PT-15-V02_Vertical_Hole)
-- Short Link: [http://oom.lt/FZKPPOTENTIOMETERPIHERPT15V2VERTICALHOLE](http://oom.lt/FZKPPOTENTIOMETERPIHERPT15V2VERTICALHOLE)
+- Short Link: [http://oom.lt/FZKPPOTPIHERPT15V2FHOLE](http://oom.lt/FZKPPOTPIHERPT15V2FHOLE)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Potentiometer_THT|
 |OOMP Index|oompIndex|Potentiometer_Piher_PT-15-V02_Vertical_Hole|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Potentiometer_THT-Potentiometer_Piher_PT-15-V02_Vertical_Hole|
-|Hex ID (short code)|hexID|FZKPPOTENTIOMETERPIHERPT15V2VERTICALHOLE|
+|Hex ID (short code)|hexID|FZKPPOTPIHERPT15V2FHOLE|
 |name|name|Potentiometer_THT : Potentiometer_Piher_PT-15-V02_Vertical_Hole|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Potentiometer_Piher_PT-15-V02_Vertical_Hole'</td><td> 'description'</td></tr><tr><td> 'Potentiometer</td><td> vertical</td><td> shaft hole</td><td> Piher PT-15-V02</td><td> http</td></tr><tr><td>//www.piher-nacesa.com/pdf/14-PT15v03.pdf'</td><td> 'tags'</td></tr><tr><td> 'Potentiometer vertical hole Piher PT-15-V02'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Potentiometer_THT.3dshapes/Potentiometer_Piher_PT-15-V02_Vertical_Hole.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'np_thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||

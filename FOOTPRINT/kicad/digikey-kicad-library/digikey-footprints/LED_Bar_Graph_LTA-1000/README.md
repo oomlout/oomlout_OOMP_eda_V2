@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSLBARGRAPHLTA1 > digikey-footprints : LED_Bar_Graph_LTA-1000](#fzkicaddigikeykicadlibrarydigikeyfootprintslbargraphlta1--digikey-footprints--led_bar_graph_lta-1000)
+* [FZDIGIDIGIKEYFOOTPRINTSLBARGRAPHLTA1 > digikey-footprints : LED_Bar_Graph_LTA-1000](#fzdigidigikeyfootprintslbargraphlta1--digikey-footprints--led_bar_graph_lta-1000)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSLBARGRAPHLTA1 > digikey-footprints : LED_Bar_Graph_LTA-1000
+# FZDIGIDIGIKEYFOOTPRINTSLBARGRAPHLTA1 > digikey-footprints : LED_Bar_Graph_LTA-1000
 
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-LED_Bar_Graph_LTA-1000
-- Hex ID: FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSLBARGRAPHLTA1
+- Hex ID: FZDIGIDIGIKEYFOOTPRINTSLBARGRAPHLTA1
 - Name: digikey-footprints : LED_Bar_Graph_LTA-1000
 - Description: digikey-footprints : LED_Bar_Graph_LTA-1000
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-LED_Bar_Graph_LTA-1000](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-LED_Bar_Graph_LTA-1000)
-- Short Link: [http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSLBARGRAPHLTA1](http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSLBARGRAPHLTA1)
+- Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSLBARGRAPHLTA1](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSLBARGRAPHLTA1)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|digikey-footprints|
 |OOMP Index|oompIndex|LED_Bar_Graph_LTA-1000|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-LED_Bar_Graph_LTA-1000|
-|Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSLBARGRAPHLTA1|
+|Hex ID (short code)|hexID|FZDIGIDIGIKEYFOOTPRINTSLBARGRAPHLTA1|
 |name|name|digikey-footprints : LED_Bar_Graph_LTA-1000|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'LED_Bar_Graph_LTA-1000'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> None</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

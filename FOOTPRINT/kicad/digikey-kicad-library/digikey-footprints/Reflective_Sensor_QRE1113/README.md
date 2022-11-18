@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSREFLECTIVESENQRE1113 > digikey-footprints : Reflective_Sensor_QRE1113](#fzkicaddigikeykicadlibrarydigikeyfootprintsreflectivesenqre1113--digikey-footprints--reflective_sensor_qre1113)
+* [FZDIGIDIGIKEYFOOTPRINTSREFLECTIVESENQRE1113 > digikey-footprints : Reflective_Sensor_QRE1113](#fzdigidigikeyfootprintsreflectivesenqre1113--digikey-footprints--reflective_sensor_qre1113)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSREFLECTIVESENQRE1113 > digikey-footprints : Reflective_Sensor_QRE1113
+# FZDIGIDIGIKEYFOOTPRINTSREFLECTIVESENQRE1113 > digikey-footprints : Reflective_Sensor_QRE1113
 
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Reflective_Sensor_QRE1113
-- Hex ID: FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSREFLECTIVESENQRE1113
+- Hex ID: FZDIGIDIGIKEYFOOTPRINTSREFLECTIVESENQRE1113
 - Name: digikey-footprints : Reflective_Sensor_QRE1113
 - Description: digikey-footprints : Reflective_Sensor_QRE1113
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Reflective_Sensor_QRE1113](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Reflective_Sensor_QRE1113)
-- Short Link: [http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSREFLECTIVESENQRE1113](http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSREFLECTIVESENQRE1113)
+- Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSREFLECTIVESENQRE1113](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSREFLECTIVESENQRE1113)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|digikey-footprints|
 |OOMP Index|oompIndex|Reflective_Sensor_QRE1113|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Reflective_Sensor_QRE1113|
-|Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSREFLECTIVESENQRE1113|
+|Hex ID (short code)|hexID|FZDIGIDIGIKEYFOOTPRINTSREFLECTIVESENQRE1113|
 |name|name|digikey-footprints : Reflective_Sensor_QRE1113|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Reflective_Sensor_QRE1113'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> None</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

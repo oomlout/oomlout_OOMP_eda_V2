@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKPPOTENTIOMETERVISHAY148E149EDUALHORIZONTAL > Potentiometer_THT : Potentiometer_Vishay_148E-149E_Dual_Horizontal](#fzkppotentiometervishay148e149edualhorizontal--potentiometer_tht--potentiometer_vishay_148e-149e_dual_horizontal)
+* [FZKPPOTVISHAY148E149EDUALH > Potentiometer_THT : Potentiometer_Vishay_148E-149E_Dual_Horizontal](#fzkppotvishay148e149edualh--potentiometer_tht--potentiometer_vishay_148e-149e_dual_horizontal)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKPPOTENTIOMETERVISHAY148E149EDUALHORIZONTAL > Potentiometer_THT : Potentiometer_Vishay_148E-149E_Dual_Horizontal
+# FZKPPOTVISHAY148E149EDUALH > Potentiometer_THT : Potentiometer_Vishay_148E-149E_Dual_Horizontal
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Potentiometer_THT-Potentiometer_Vishay_148E-149E_Dual_Horizontal
-- Hex ID: FZKPPOTENTIOMETERVISHAY148E149EDUALHORIZONTAL
+- Hex ID: FZKPPOTVISHAY148E149EDUALH
 - Name: Potentiometer_THT : Potentiometer_Vishay_148E-149E_Dual_Horizontal
 - Description: Potentiometer_THT : Potentiometer_Vishay_148E-149E_Dual_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Potentiometer_THT-Potentiometer_Vishay_148E-149E_Dual_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Potentiometer_THT-Potentiometer_Vishay_148E-149E_Dual_Horizontal)
-- Short Link: [http://oom.lt/FZKPPOTENTIOMETERVISHAY148E149EDUALHORIZONTAL](http://oom.lt/FZKPPOTENTIOMETERVISHAY148E149EDUALHORIZONTAL)
+- Short Link: [http://oom.lt/FZKPPOTVISHAY148E149EDUALH](http://oom.lt/FZKPPOTVISHAY148E149EDUALH)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Potentiometer_THT|
 |OOMP Index|oompIndex|Potentiometer_Vishay_148E-149E_Dual_Horizontal|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Potentiometer_THT-Potentiometer_Vishay_148E-149E_Dual_Horizontal|
-|Hex ID (short code)|hexID|FZKPPOTENTIOMETERVISHAY148E149EDUALHORIZONTAL|
+|Hex ID (short code)|hexID|FZKPPOTVISHAY148E149EDUALH|
 |name|name|Potentiometer_THT : Potentiometer_Vishay_148E-149E_Dual_Horizontal|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Potentiometer_Vishay_148E-149E_Dual_Horizontal'</td><td> 'description'</td></tr><tr><td> 'Potentiometer</td><td> horizontal</td><td> Vishay 148E-149E Dual</td><td> http</td></tr><tr><td>//www.vishay.com/docs/57040/148149.pdf'</td><td> 'tags'</td></tr><tr><td> 'Potentiometer horizontal Vishay 148E-149E Dual'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Potentiometer_THT.3dshapes/Potentiometer_Vishay_148E-149E_Dual_Horizontal.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||

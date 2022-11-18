@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKCNPINHEADER254PINHEADER1X14P254VERTICAL > Connector_PinHeader_2.54mm : PinHeader_1x14_P2.54mm_Vertical](#fzkcnpinheader254pinheader1x14p254vertical--connector_pinheader_254mm--pinheader_1x14_p254mm_vertical)
+* [FZKCNPINHEADER254PINHEADER1X14P254F > Connector_PinHeader_2.54mm : PinHeader_1x14_P2.54mm_Vertical](#fzkcnpinheader254pinheader1x14p254f--connector_pinheader_254mm--pinheader_1x14_p254mm_vertical)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKCNPINHEADER254PINHEADER1X14P254VERTICAL > Connector_PinHeader_2.54mm : PinHeader_1x14_P2.54mm_Vertical
+# FZKCNPINHEADER254PINHEADER1X14P254F > Connector_PinHeader_2.54mm : PinHeader_1x14_P2.54mm_Vertical
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_PinHeader_2.54mm-PinHeader_1x14_P2.54mm_Vertical
-- Hex ID: FZKCNPINHEADER254PINHEADER1X14P254VERTICAL
+- Hex ID: FZKCNPINHEADER254PINHEADER1X14P254F
 - Name: Connector_PinHeader_2.54mm : PinHeader_1x14_P2.54mm_Vertical
 - Description: Connector_PinHeader_2.54mm : PinHeader_1x14_P2.54mm_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_PinHeader_2.54mm-PinHeader_1x14_P2.54mm_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_PinHeader_2.54mm-PinHeader_1x14_P2.54mm_Vertical)
-- Short Link: [http://oom.lt/FZKCNPINHEADER254PINHEADER1X14P254VERTICAL](http://oom.lt/FZKCNPINHEADER254PINHEADER1X14P254VERTICAL)
+- Short Link: [http://oom.lt/FZKCNPINHEADER254PINHEADER1X14P254F](http://oom.lt/FZKCNPINHEADER254PINHEADER1X14P254F)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Connector_PinHeader_2.54mm|
 |OOMP Index|oompIndex|PinHeader_1x14_P2.54mm_Vertical|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_PinHeader_2.54mm-PinHeader_1x14_P2.54mm_Vertical|
-|Hex ID (short code)|hexID|FZKCNPINHEADER254PINHEADER1X14P254VERTICAL|
+|Hex ID (short code)|hexID|FZKCNPINHEADER254PINHEADER1X14P254F|
 |name|name|Connector_PinHeader_2.54mm : PinHeader_1x14_P2.54mm_Vertical|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'PinHeader_1x14_P2.54mm_Vertical'</td><td> 'description'</td></tr><tr><td> 'Through hole straight pin header</td><td> 1x14</td><td> 2.54mm pitch</td><td> single row'</td><td> 'tags'</td></tr><tr><td> 'Through hole pin header THT 1x14 2.54mm single row'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x14_P2.54mm_Vertical.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

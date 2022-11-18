@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKCNJSTJSTXHB9BXHA1X9P25VERTICAL > Connector_JST : JST_XH_B9B-XH-A_1x09_P2.50mm_Vertical](#fzkcnjstjstxhb9bxha1x9p25vertical--connector_jst--jst_xh_b9b-xh-a_1x09_p250mm_vertical)
+* [FZKCNJSTJSTXHB9BXHA1X9P25F > Connector_JST : JST_XH_B9B-XH-A_1x09_P2.50mm_Vertical](#fzkcnjstjstxhb9bxha1x9p25f--connector_jst--jst_xh_b9b-xh-a_1x09_p250mm_vertical)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKCNJSTJSTXHB9BXHA1X9P25VERTICAL > Connector_JST : JST_XH_B9B-XH-A_1x09_P2.50mm_Vertical
+# FZKCNJSTJSTXHB9BXHA1X9P25F > Connector_JST : JST_XH_B9B-XH-A_1x09_P2.50mm_Vertical
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_XH_B9B-XH-A_1x09_P2.50mm_Vertical
-- Hex ID: FZKCNJSTJSTXHB9BXHA1X9P25VERTICAL
+- Hex ID: FZKCNJSTJSTXHB9BXHA1X9P25F
 - Name: Connector_JST : JST_XH_B9B-XH-A_1x09_P2.50mm_Vertical
 - Description: Connector_JST : JST_XH_B9B-XH-A_1x09_P2.50mm_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_XH_B9B-XH-A_1x09_P2.50mm_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_XH_B9B-XH-A_1x09_P2.50mm_Vertical)
-- Short Link: [http://oom.lt/FZKCNJSTJSTXHB9BXHA1X9P25VERTICAL](http://oom.lt/FZKCNJSTJSTXHB9BXHA1X9P25VERTICAL)
+- Short Link: [http://oom.lt/FZKCNJSTJSTXHB9BXHA1X9P25F](http://oom.lt/FZKCNJSTJSTXHB9BXHA1X9P25F)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Connector_JST|
 |OOMP Index|oompIndex|JST_XH_B9B-XH-A_1x09_P2.50mm_Vertical|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_XH_B9B-XH-A_1x09_P2.50mm_Vertical|
-|Hex ID (short code)|hexID|FZKCNJSTJSTXHB9BXHA1X9P25VERTICAL|
+|Hex ID (short code)|hexID|FZKCNJSTJSTXHB9BXHA1X9P25F|
 |name|name|Connector_JST : JST_XH_B9B-XH-A_1x09_P2.50mm_Vertical|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'JST_XH_B9B-XH-A_1x09_P2.50mm_Vertical'</td><td> 'description'</td></tr><tr><td> 'JST XH series connector</td><td> B9B-XH-A (http</td></tr><tr><td>//www.jst-mfg.com/product/pdf/eng/eXH.pdf)</td><td> generated with kicad-footprint-generator'</td><td> 'tags'</td></tr><tr><td> 'connector JST XH vertical'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_JST.3dshapes/JST_XH_B9B-XH-A_1x09_P2.50mm_Vertical.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||

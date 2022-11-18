@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [SZKREGULATORSWITCHINGFSBH27 > Regulator_Switching : FSBH0270](#szkregulatorswitchingfsbh27--regulator_switching--fsbh0270)
+* [SZKREGULATORSWINGFSBH27 > Regulator_Switching : FSBH0270](#szkregulatorswingfsbh27--regulator_switching--fsbh0270)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# SZKREGULATORSWITCHINGFSBH27 > Regulator_Switching : FSBH0270
+# SZKREGULATORSWINGFSBH27 > Regulator_Switching : FSBH0270
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-FSBH0270
-- Hex ID: SZKREGULATORSWITCHINGFSBH27
+- Hex ID: SZKREGULATORSWINGFSBH27
 - Name: Regulator_Switching : FSBH0270
 - Description: Regulator_Switching : FSBH0270
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-FSBH0270](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-FSBH0270)
-- Short Link: [http://oom.lt/SZKREGULATORSWITCHINGFSBH27](http://oom.lt/SZKREGULATORSWITCHINGFSBH27)
+- Short Link: [http://oom.lt/SZKREGULATORSWINGFSBH27](http://oom.lt/SZKREGULATORSWINGFSBH27)
 
 ## Images
   
@@ -36,7 +36,7 @@ Contents
 |OOMP Description|oompDesc|Regulator_Switching|
 |OOMP Index|oompIndex|FSBH0270|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-FSBH0270|
-|Hex ID (short code)|hexID|SZKREGULATORSWITCHINGFSBH27|
+|Hex ID (short code)|hexID|SZKREGULATORSWINGFSBH27|
 |name|name|Regulator_Switching : FSBH0270|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'FSBH0170'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'FSBH0270'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DIP</td></tr><tr><td>DIP-8_W7.62mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.onsemi.com/pub/Collateral/FSBH0270-D.PDF'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'smps regulator'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Green Mode Fairchild Power Switch</td><td> 700V Vds</td><td> 2.0A Id</td><td> 20W/16W 230V/85-265V</td><td> VIN Pin</td><td> DIP-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP*W7.62mm*'</td></tr></table>]|
 ||||

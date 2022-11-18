@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKTRSMTRETHERNETHALOTG111MSC13 > Transformer_SMD : Transformer_Ethernet_HALO_TG111-MSC13](#fzktrsmtrethernethalotg111msc13--transformer_smd--transformer_ethernet_halo_tg111-msc13)
+* [FZKTRTRETHERNETHALOTG111MSC13 > Transformer_SMD : Transformer_Ethernet_HALO_TG111-MSC13](#fzktrtrethernethalotg111msc13--transformer_smd--transformer_ethernet_halo_tg111-msc13)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKTRSMTRETHERNETHALOTG111MSC13 > Transformer_SMD : Transformer_Ethernet_HALO_TG111-MSC13
+# FZKTRTRETHERNETHALOTG111MSC13 > Transformer_SMD : Transformer_Ethernet_HALO_TG111-MSC13
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Transformer_SMD-Transformer_Ethernet_HALO_TG111-MSC13
-- Hex ID: FZKTRSMTRETHERNETHALOTG111MSC13
+- Hex ID: FZKTRTRETHERNETHALOTG111MSC13
 - Name: Transformer_SMD : Transformer_Ethernet_HALO_TG111-MSC13
 - Description: Transformer_SMD : Transformer_Ethernet_HALO_TG111-MSC13
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Transformer_SMD-Transformer_Ethernet_HALO_TG111-MSC13](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Transformer_SMD-Transformer_Ethernet_HALO_TG111-MSC13)
-- Short Link: [http://oom.lt/FZKTRSMTRETHERNETHALOTG111MSC13](http://oom.lt/FZKTRSMTRETHERNETHALOTG111MSC13)
+- Short Link: [http://oom.lt/FZKTRTRETHERNETHALOTG111MSC13](http://oom.lt/FZKTRTRETHERNETHALOTG111MSC13)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Transformer_SMD|
 |OOMP Index|oompIndex|Transformer_Ethernet_HALO_TG111-MSC13|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Transformer_SMD-Transformer_Ethernet_HALO_TG111-MSC13|
-|Hex ID (short code)|hexID|FZKTRSMTRETHERNETHALOTG111MSC13|
+|Hex ID (short code)|hexID|FZKTRTRETHERNETHALOTG111MSC13|
 |name|name|Transformer_SMD : Transformer_Ethernet_HALO_TG111-MSC13|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Transformer_Ethernet_HALO_TG111-MSC13'</td><td> 'description'</td></tr><tr><td> 'Transformer Ethernet SMD</td><td> https</td></tr><tr><td>//www.haloelectronics.com/pdf/discrete-genesus.pdf'</td><td> 'tags'</td></tr><tr><td> 'Transformer Ethernet SMD'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Transformer_SMD.3dshapes/Transformer_Ethernet_HALO_TG111-MSC13.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

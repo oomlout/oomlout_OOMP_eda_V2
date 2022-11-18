@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [SZKREGULATORSWITCHINGLNK43LG > Regulator_Switching : LNK403LG](#szkregulatorswitchinglnk43lg--regulator_switching--lnk403lg)
+* [SZKREGULATORSWINGLNK43LG > Regulator_Switching : LNK403LG](#szkregulatorswinglnk43lg--regulator_switching--lnk403lg)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# SZKREGULATORSWITCHINGLNK43LG > Regulator_Switching : LNK403LG
+# SZKREGULATORSWINGLNK43LG > Regulator_Switching : LNK403LG
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-LNK403LG
-- Hex ID: SZKREGULATORSWITCHINGLNK43LG
+- Hex ID: SZKREGULATORSWINGLNK43LG
 - Name: Regulator_Switching : LNK403LG
 - Description: Regulator_Switching : LNK403LG
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LNK403LG](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LNK403LG)
-- Short Link: [http://oom.lt/SZKREGULATORSWITCHINGLNK43LG](http://oom.lt/SZKREGULATORSWITCHINGLNK43LG)
+- Short Link: [http://oom.lt/SZKREGULATORSWINGLNK43LG](http://oom.lt/SZKREGULATORSWINGLNK43LG)
 
 ## Images
   
@@ -36,7 +36,7 @@ Contents
 |OOMP Description|oompDesc|Regulator_Switching|
 |OOMP Index|oompIndex|LNK403LG|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-LNK403LG|
-|Hex ID (short code)|hexID|SZKREGULATORSWITCHINGLNK43LG|
+|Hex ID (short code)|hexID|SZKREGULATORSWINGLNK43LG|
 |name|name|Regulator_Switching : LNK403LG|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LNK403LG'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SIP</td></tr><tr><td>PowerIntegrations_eSIP-7F'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.powerint.com/sites/default/files/product-docs/linkswitch-ph_family_datasheet.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'LED Driver IC with TRIAC Dimming</td><td> Single-Stage PFC and Primary-Side Constant Current Control'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'LinkSwitch-PH Family</td><td> 12W Output Power</td><td> eSIP-7F'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'PowerIntegrations?eSIP?7F*'</td></tr></table>]|
 ||||

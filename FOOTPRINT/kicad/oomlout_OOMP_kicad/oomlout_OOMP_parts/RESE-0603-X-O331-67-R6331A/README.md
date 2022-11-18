@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE63XO33167R6331A > oomlout_OOMP_parts : RESE-0603-X-O331-67-R6331A](#fzkicadoomloutoompkicadoomloutoomppartsrese63xo33167r6331a--oomlout_oomp_parts--rese-0603-x-o331-67-r6331a)
+* [FZOOMPKOOMPPRESE63XO33167R6331A > oomlout_OOMP_parts : RESE-0603-X-O331-67-R6331A](#fzoompkoompprese63xo33167r6331a--oomlout_oomp_parts--rese-0603-x-o331-67-r6331a)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE63XO33167R6331A > oomlout_OOMP_parts : RESE-0603-X-O331-67-R6331A
+# FZOOMPKOOMPPRESE63XO33167R6331A > oomlout_OOMP_parts : RESE-0603-X-O331-67-R6331A
 
 - ID: FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O331-67-R6331A
-- Hex ID: FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE63XO33167R6331A
+- Hex ID: FZOOMPKOOMPPRESE63XO33167R6331A
 - Name: oomlout_OOMP_parts : RESE-0603-X-O331-67-R6331A
 - Description: oomlout_OOMP_parts : RESE-0603-X-O331-67-R6331A
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O331-67-R6331A](http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O331-67-R6331A)
-- Short Link: [http://oom.lt/FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE63XO33167R6331A](http://oom.lt/FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE63XO33167R6331A)
+- Short Link: [http://oom.lt/FZOOMPKOOMPPRESE63XO33167R6331A](http://oom.lt/FZOOMPKOOMPPRESE63XO33167R6331A)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|oomlout_OOMP_parts|
 |OOMP Index|oompIndex|RESE-0603-X-O331-67-R6331A|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O331-67-R6331A|
-|Hex ID (short code)|hexID|FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE63XO33167R6331A|
+|Hex ID (short code)|hexID|FZOOMPKOOMPPRESE63XO33167R6331A|
 |name|name|oomlout_OOMP_parts : RESE-0603-X-O331-67-R6331A|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'RESE-0603-X-O331-67-R6331A'</td><td> 'description'</td></tr><tr><td> 'hexID</td></tr><tr><td> R6331A; Resistor SMD 0603 (1608 Metric)</td><td> square (rectangular) end terminal</td><td> IPC_7351 nominal</td><td> (Body size source</td></tr><tr><td> IPC-SM-782 page 72</td><td> https</td></tr><tr><td>//www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)</td><td> generated with kicad-footprint-generator'</td><td> 'tags'</td></tr><tr><td> 'resistor'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Resistor_SMD.3dshapes/R_0603_1608Metric.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||

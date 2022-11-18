@@ -5,18 +5,18 @@
 Contents
 ========
 
-* [FZSWTACTILESWITCHPRIGHTANGLEK > SparkFun-Switches : TACTILE_SWITCH_PTH_RIGHT_ANGLE_KIT](#fzswtactileswitchprightanglek--sparkfun-switches--tactile_switch_pth_right_angle_kit)
+* [FZSWTSWPRIGHTANGLEK > SparkFun-Switches : TACTILE_SWITCH_PTH_RIGHT_ANGLE_KIT](#fzswtswprightanglek--sparkfun-switches--tactile_switch_pth_right_angle_kit)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZSWTACTILESWITCHPRIGHTANGLEK > SparkFun-Switches : TACTILE_SWITCH_PTH_RIGHT_ANGLE_KIT
+# FZSWTSWPRIGHTANGLEK > SparkFun-Switches : TACTILE_SWITCH_PTH_RIGHT_ANGLE_KIT
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Switches-TACTILE_SWITCH_PTH_RIGHT_ANGLE_KIT
-- Hex ID: FZSWTACTILESWITCHPRIGHTANGLEK
+- Hex ID: FZSWTSWPRIGHTANGLEK
 - Name: SparkFun-Switches : TACTILE_SWITCH_PTH_RIGHT_ANGLE_KIT
 - Description: SparkFun-Switches : TACTILE_SWITCH_PTH_RIGHT_ANGLE_KIT
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Switches-TACTILE_SWITCH_PTH_RIGHT_ANGLE_KIT](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Switches-TACTILE_SWITCH_PTH_RIGHT_ANGLE_KIT)
-- Short Link: [http://oom.lt/FZSWTACTILESWITCHPRIGHTANGLEK](http://oom.lt/FZSWTACTILESWITCHPRIGHTANGLEK)
+- Short Link: [http://oom.lt/FZSWTSWPRIGHTANGLEK](http://oom.lt/FZSWTSWPRIGHTANGLEK)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +30,6 @@ NO IMAGES
 |OOMP Description|oompDesc|SparkFun-Switches|
 |OOMP Index|oompIndex|TACTILE_SWITCH_PTH_RIGHT_ANGLE_KIT|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Switches-TACTILE_SWITCH_PTH_RIGHT_ANGLE_KIT|
-|Hex ID (short code)|hexID|FZSWTACTILESWITCHPRIGHTANGLEK|
+|Hex ID (short code)|hexID|FZSWTSWPRIGHTANGLEK|
 |name|name|SparkFun-Switches : TACTILE_SWITCH_PTH_RIGHT_ANGLE_KIT|
 ||||

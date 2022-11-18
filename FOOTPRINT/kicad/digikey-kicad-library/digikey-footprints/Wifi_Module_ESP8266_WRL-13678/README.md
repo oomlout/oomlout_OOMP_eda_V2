@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSWIFIMOESP8266WRL13678 > digikey-footprints : Wifi_Module_ESP8266_WRL-13678](#fzkicaddigikeykicadlibrarydigikeyfootprintswifimoesp8266wrl13678--digikey-footprints--wifi_module_esp8266_wrl-13678)
+* [FZDIGIDIGIKEYFOOTPRINTSWIFIMOESP8266WRL13678 > digikey-footprints : Wifi_Module_ESP8266_WRL-13678](#fzdigidigikeyfootprintswifimoesp8266wrl13678--digikey-footprints--wifi_module_esp8266_wrl-13678)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSWIFIMOESP8266WRL13678 > digikey-footprints : Wifi_Module_ESP8266_WRL-13678
+# FZDIGIDIGIKEYFOOTPRINTSWIFIMOESP8266WRL13678 > digikey-footprints : Wifi_Module_ESP8266_WRL-13678
 
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Wifi_Module_ESP8266_WRL-13678
-- Hex ID: FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSWIFIMOESP8266WRL13678
+- Hex ID: FZDIGIDIGIKEYFOOTPRINTSWIFIMOESP8266WRL13678
 - Name: digikey-footprints : Wifi_Module_ESP8266_WRL-13678
 - Description: digikey-footprints : Wifi_Module_ESP8266_WRL-13678
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Wifi_Module_ESP8266_WRL-13678](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Wifi_Module_ESP8266_WRL-13678)
-- Short Link: [http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSWIFIMOESP8266WRL13678](http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSWIFIMOESP8266WRL13678)
+- Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSWIFIMOESP8266WRL13678](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSWIFIMOESP8266WRL13678)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|digikey-footprints|
 |OOMP Index|oompIndex|Wifi_Module_ESP8266_WRL-13678|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Wifi_Module_ESP8266_WRL-13678|
-|Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSWIFIMOESP8266WRL13678|
+|Hex ID (short code)|hexID|FZDIGIDIGIKEYFOOTPRINTSWIFIMOESP8266WRL13678|
 |name|name|digikey-footprints : Wifi_Module_ESP8266_WRL-13678|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Wifi_Module_ESP8266_WRL-13678'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> None</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||

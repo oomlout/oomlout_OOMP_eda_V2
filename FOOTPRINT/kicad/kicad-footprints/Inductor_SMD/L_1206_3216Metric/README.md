@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKINDUCTORSML1263216METRIC > Inductor_SMD : L_1206_3216Metric](#fzkinductorsml1263216metric--inductor_smd--l_1206_3216metric)
+* [FZKINL1263216VA > Inductor_SMD : L_1206_3216Metric](#fzkinl1263216va--inductor_smd--l_1206_3216metric)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKINDUCTORSML1263216METRIC > Inductor_SMD : L_1206_3216Metric
+# FZKINL1263216VA > Inductor_SMD : L_1206_3216Metric
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_1206_3216Metric
-- Hex ID: FZKINDUCTORSML1263216METRIC
+- Hex ID: FZKINL1263216VA
 - Name: Inductor_SMD : L_1206_3216Metric
 - Description: Inductor_SMD : L_1206_3216Metric
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_1206_3216Metric](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_1206_3216Metric)
-- Short Link: [http://oom.lt/FZKINDUCTORSML1263216METRIC](http://oom.lt/FZKINDUCTORSML1263216METRIC)
+- Short Link: [http://oom.lt/FZKINL1263216VA](http://oom.lt/FZKINL1263216VA)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Inductor_SMD|
 |OOMP Index|oompIndex|L_1206_3216Metric|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_1206_3216Metric|
-|Hex ID (short code)|hexID|FZKINDUCTORSML1263216METRIC|
+|Hex ID (short code)|hexID|FZKINL1263216VA|
 |name|name|Inductor_SMD : L_1206_3216Metric|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'L_1206_3216Metric'</td><td> 'description'</td></tr><tr><td> 'Inductor SMD 1206 (3216 Metric)</td><td> square (rectangular) end terminal</td><td> IPC_7351 nominal</td><td> (Body size source</td></tr><tr><td> IPC-SM-782 page 80</td><td> https</td></tr><tr><td>//www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)</td><td> generated with kicad-footprint-generator'</td><td> 'tags'</td></tr><tr><td> 'inductor'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Inductor_SMD.3dshapes/L_1206_3216Metric.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||

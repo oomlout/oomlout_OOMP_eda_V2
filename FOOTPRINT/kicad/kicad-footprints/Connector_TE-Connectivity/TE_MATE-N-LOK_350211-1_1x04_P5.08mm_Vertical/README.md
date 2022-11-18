@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKCNTECONNECTIVITYTEMATENLOK3521111X4P58VERTICAL > Connector_TE-Connectivity : TE_MATE-N-LOK_350211-1_1x04_P5.08mm_Vertical](#fzkcnteconnectivitytematenlok3521111x4p58vertical--connector_te-connectivity--te_mate-n-lok_350211-1_1x04_p508mm_vertical)
+* [FZKCNTECONNECTIVITYTEMATENLOK3521111X4P58F > Connector_TE-Connectivity : TE_MATE-N-LOK_350211-1_1x04_P5.08mm_Vertical](#fzkcnteconnectivitytematenlok3521111x4p58f--connector_te-connectivity--te_mate-n-lok_350211-1_1x04_p508mm_vertical)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKCNTECONNECTIVITYTEMATENLOK3521111X4P58VERTICAL > Connector_TE-Connectivity : TE_MATE-N-LOK_350211-1_1x04_P5.08mm_Vertical
+# FZKCNTECONNECTIVITYTEMATENLOK3521111X4P58F > Connector_TE-Connectivity : TE_MATE-N-LOK_350211-1_1x04_P5.08mm_Vertical
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_TE-Connectivity-TE_MATE-N-LOK_350211-1_1x04_P5.08mm_Vertical
-- Hex ID: FZKCNTECONNECTIVITYTEMATENLOK3521111X4P58VERTICAL
+- Hex ID: FZKCNTECONNECTIVITYTEMATENLOK3521111X4P58F
 - Name: Connector_TE-Connectivity : TE_MATE-N-LOK_350211-1_1x04_P5.08mm_Vertical
 - Description: Connector_TE-Connectivity : TE_MATE-N-LOK_350211-1_1x04_P5.08mm_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_TE-Connectivity-TE_MATE-N-LOK_350211-1_1x04_P5.08mm_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_TE-Connectivity-TE_MATE-N-LOK_350211-1_1x04_P5.08mm_Vertical)
-- Short Link: [http://oom.lt/FZKCNTECONNECTIVITYTEMATENLOK3521111X4P58VERTICAL](http://oom.lt/FZKCNTECONNECTIVITYTEMATENLOK3521111X4P58VERTICAL)
+- Short Link: [http://oom.lt/FZKCNTECONNECTIVITYTEMATENLOK3521111X4P58F](http://oom.lt/FZKCNTECONNECTIVITYTEMATENLOK3521111X4P58F)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Connector_TE-Connectivity|
 |OOMP Index|oompIndex|TE_MATE-N-LOK_350211-1_1x04_P5.08mm_Vertical|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_TE-Connectivity-TE_MATE-N-LOK_350211-1_1x04_P5.08mm_Vertical|
-|Hex ID (short code)|hexID|FZKCNTECONNECTIVITYTEMATENLOK3521111X4P58VERTICAL|
+|Hex ID (short code)|hexID|FZKCNTECONNECTIVITYTEMATENLOK3521111X4P58F|
 |name|name|Connector_TE-Connectivity : TE_MATE-N-LOK_350211-1_1x04_P5.08mm_Vertical|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'TE_MATE-N-LOK_350211-1_1x04_P5.08mm_Vertical'</td><td> 'description'</td></tr><tr><td> 'https</td></tr><tr><td>//www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F350211%7FU5%7Fpdf%7FEnglish%7FENG_CD_350211_U5.pdf%7F350211-1'</td><td> 'tags'</td></tr><tr><td> 'connector TE MATE-N-LOK top entry ATA PATA IDE 5.25 inch floppy drive power'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_TE-Connectivity.3dshapes/TE_MATE-N-LOK_350211-1_1x04_P5.08mm_Vertical.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

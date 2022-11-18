@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [SZKREGULATORSWITCHINGLNK63PG > Regulator_Switching : LNK603PG](#szkregulatorswitchinglnk63pg--regulator_switching--lnk603pg)
+* [SZKREGULATORSWINGLNK63PG > Regulator_Switching : LNK603PG](#szkregulatorswinglnk63pg--regulator_switching--lnk603pg)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# SZKREGULATORSWITCHINGLNK63PG > Regulator_Switching : LNK603PG
+# SZKREGULATORSWINGLNK63PG > Regulator_Switching : LNK603PG
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-LNK603PG
-- Hex ID: SZKREGULATORSWITCHINGLNK63PG
+- Hex ID: SZKREGULATORSWINGLNK63PG
 - Name: Regulator_Switching : LNK603PG
 - Description: Regulator_Switching : LNK603PG
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LNK603PG](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LNK603PG)
-- Short Link: [http://oom.lt/SZKREGULATORSWITCHINGLNK63PG](http://oom.lt/SZKREGULATORSWITCHINGLNK63PG)
+- Short Link: [http://oom.lt/SZKREGULATORSWINGLNK63PG](http://oom.lt/SZKREGULATORSWINGLNK63PG)
 
 ## Images
   
@@ -36,7 +36,7 @@ Contents
 |OOMP Description|oompDesc|Regulator_Switching|
 |OOMP Index|oompIndex|LNK603PG|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-LNK603PG|
-|Hex ID (short code)|hexID|SZKREGULATORSWITCHINGLNK63PG|
+|Hex ID (short code)|hexID|SZKREGULATORSWINGLNK63PG|
 |name|name|Regulator_Switching : LNK603PG|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LNK603PG'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DIP</td></tr><tr><td>PowerIntegrations_PDIP-8C'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.powerint.com/sites/default/files/product-docs/linkswitch-ii_family_datasheet.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Energy-Efficient</td><td> Accurate CV/CC Switcher for Adapters and Chargers'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'LinkSwitch-II Family</td><td> 3.3W Output Power</td><td> DIP-8C'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'PowerIntegrations?PDIP?8C*'</td></tr></table>]|
 ||||

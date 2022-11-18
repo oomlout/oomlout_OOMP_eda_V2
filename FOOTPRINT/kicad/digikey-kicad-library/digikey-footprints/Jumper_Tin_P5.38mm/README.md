@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSJTINP538 > digikey-footprints : Jumper_Tin_P5.38mm](#fzkicaddigikeykicadlibrarydigikeyfootprintsjtinp538--digikey-footprints--jumper_tin_p538mm)
+* [FZDIGIDIGIKEYFOOTPRINTSJTINP538 > digikey-footprints : Jumper_Tin_P5.38mm](#fzdigidigikeyfootprintsjtinp538--digikey-footprints--jumper_tin_p538mm)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSJTINP538 > digikey-footprints : Jumper_Tin_P5.38mm
+# FZDIGIDIGIKEYFOOTPRINTSJTINP538 > digikey-footprints : Jumper_Tin_P5.38mm
 
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Jumper_Tin_P5.38mm
-- Hex ID: FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSJTINP538
+- Hex ID: FZDIGIDIGIKEYFOOTPRINTSJTINP538
 - Name: digikey-footprints : Jumper_Tin_P5.38mm
 - Description: digikey-footprints : Jumper_Tin_P5.38mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Jumper_Tin_P5.38mm](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Jumper_Tin_P5.38mm)
-- Short Link: [http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSJTINP538](http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSJTINP538)
+- Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSJTINP538](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSJTINP538)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|digikey-footprints|
 |OOMP Index|oompIndex|Jumper_Tin_P5.38mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Jumper_Tin_P5.38mm|
-|Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSJTINP538|
+|Hex ID (short code)|hexID|FZDIGIDIGIKEYFOOTPRINTSJTINP538|
 |name|name|digikey-footprints : Jumper_Tin_P5.38mm|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Jumper_Tin_P5.38mm'</td><td> 'description'</td></tr><tr><td> 'https</td></tr><tr><td>//cdn.harwin.com/pdfs/S1911R.pdf'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

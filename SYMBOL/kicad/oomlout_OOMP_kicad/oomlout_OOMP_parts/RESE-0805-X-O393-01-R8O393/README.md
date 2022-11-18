@@ -5,18 +5,18 @@
 Contents
 ========
 
-* [SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE85XO3931R8O393 > oomlout_OOMP_parts : RESE-0805-X-O393-01-R8O393](#szkicadoomloutoompkicadoomloutoomppartsrese85xo3931r8o393--oomlout_oomp_parts--rese-0805-x-o393-01-r8o393)
+* [SZOOMPKOOMPPRESE85XO3931R8O393 > oomlout_OOMP_parts : RESE-0805-X-O393-01-R8O393](#szoompkoompprese85xo3931r8o393--oomlout_oomp_parts--rese-0805-x-o393-01-r8o393)
 	* [Tags](#tags)
   
 NO IMAGE  
-# SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE85XO3931R8O393 > oomlout_OOMP_parts : RESE-0805-X-O393-01-R8O393
+# SZOOMPKOOMPPRESE85XO3931R8O393 > oomlout_OOMP_parts : RESE-0805-X-O393-01-R8O393
 
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0805-X-O393-01-R8O393
-- Hex ID: SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE85XO3931R8O393
+- Hex ID: SZOOMPKOOMPPRESE85XO3931R8O393
 - Name: oomlout_OOMP_parts : RESE-0805-X-O393-01-R8O393
 - Description: oomlout_OOMP_parts : RESE-0805-X-O393-01-R8O393
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0805-X-O393-01-R8O393](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0805-X-O393-01-R8O393)
-- Short Link: [http://oom.lt/SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE85XO3931R8O393](http://oom.lt/SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE85XO3931R8O393)
+- Short Link: [http://oom.lt/SZOOMPKOOMPPRESE85XO3931R8O393](http://oom.lt/SZOOMPKOOMPPRESE85XO3931R8O393)
   
 NO IMAGES  
 ## Tags
@@ -30,7 +30,7 @@ NO IMAGES
 |OOMP Description|oompDesc|oomlout_OOMP_parts|
 |OOMP Index|oompIndex|RESE-0805-X-O393-01-R8O393|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0805-X-O393-01-R8O393|
-|Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE85XO3931R8O393|
+|Hex ID (short code)|hexID|SZOOMPKOOMPPRESE85XO3931R8O393|
 |name|name|oomlout_OOMP_parts : RESE-0805-X-O393-01-R8O393|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'R'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'RESE-0805-X-O393-01-R8O393'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'oomlout_OOMP_parts</td></tr><tr><td>RESE-0805-X-O393-01-R8O393'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'oom.lt/R8O393'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'R res resistor'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'hexID</td></tr><tr><td> R8O393;PARTL C-JLCC;C25826;MANUF C-XXXX;0805W8F3902T5E;Resistor'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'R_*'</td></tr></table>]|
 ||||

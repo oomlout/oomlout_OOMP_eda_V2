@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKCNAUDIOJ35CUISJ23593DSHORIZONTAL > Connector_Audio : Jack_3.5mm_CUI_SJ2-3593D-SMT_Horizontal](#fzkcnaudioj35cuisj23593dshorizontal--connector_audio--jack_35mm_cui_sj2-3593d-smt_horizontal)
+* [FZKCNAUDIOJ35CUISJ23593DSH > Connector_Audio : Jack_3.5mm_CUI_SJ2-3593D-SMT_Horizontal](#fzkcnaudioj35cuisj23593dsh--connector_audio--jack_35mm_cui_sj2-3593d-smt_horizontal)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKCNAUDIOJ35CUISJ23593DSHORIZONTAL > Connector_Audio : Jack_3.5mm_CUI_SJ2-3593D-SMT_Horizontal
+# FZKCNAUDIOJ35CUISJ23593DSH > Connector_Audio : Jack_3.5mm_CUI_SJ2-3593D-SMT_Horizontal
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_Audio-Jack_3.5mm_CUI_SJ2-3593D-SMT_Horizontal
-- Hex ID: FZKCNAUDIOJ35CUISJ23593DSHORIZONTAL
+- Hex ID: FZKCNAUDIOJ35CUISJ23593DSH
 - Name: Connector_Audio : Jack_3.5mm_CUI_SJ2-3593D-SMT_Horizontal
 - Description: Connector_Audio : Jack_3.5mm_CUI_SJ2-3593D-SMT_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Audio-Jack_3.5mm_CUI_SJ2-3593D-SMT_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Audio-Jack_3.5mm_CUI_SJ2-3593D-SMT_Horizontal)
-- Short Link: [http://oom.lt/FZKCNAUDIOJ35CUISJ23593DSHORIZONTAL](http://oom.lt/FZKCNAUDIOJ35CUISJ23593DSHORIZONTAL)
+- Short Link: [http://oom.lt/FZKCNAUDIOJ35CUISJ23593DSH](http://oom.lt/FZKCNAUDIOJ35CUISJ23593DSH)
 
 ## Images
   
@@ -36,7 +36,7 @@ Contents
 |OOMP Description|oompDesc|Connector_Audio|
 |OOMP Index|oompIndex|Jack_3.5mm_CUI_SJ2-3593D-SMT_Horizontal|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Audio-Jack_3.5mm_CUI_SJ2-3593D-SMT_Horizontal|
-|Hex ID (short code)|hexID|FZKCNAUDIOJ35CUISJ23593DSHORIZONTAL|
+|Hex ID (short code)|hexID|FZKCNAUDIOJ35CUISJ23593DSH|
 |name|name|Connector_Audio : Jack_3.5mm_CUI_SJ2-3593D-SMT_Horizontal|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Jack_3.5mm_CUI_SJ2-3593D-SMT_Horizontal'</td><td> 'description'</td></tr><tr><td> '3.5 mm</td><td> Stereo</td><td> Right Angle</td><td> Surface Mount (SMT)</td><td> Audio Jack Connector (https</td></tr><tr><td>//www.cuidevices.com/product/resource/sj2-359x-smt.pdf)'</td><td> 'tags'</td></tr><tr><td> '3.5mm audio cui horizontal jack stereo'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_Audio.3dshapes/Jack_3.5mm_CUI_SJ2-3593D-SMT_Horizontal.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'np_thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||

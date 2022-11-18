@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKINDUCTORSMLNEOSIDSMS95SMS95P > Inductor_SMD : L_Neosid_SMs95_SMs95p](#fzkinductorsmlneosidsms95sms95p--inductor_smd--l_neosid_sms95_sms95p)
+* [FZKINLNEOSIDSMS95SMS95P > Inductor_SMD : L_Neosid_SMs95_SMs95p](#fzkinlneosidsms95sms95p--inductor_smd--l_neosid_sms95_sms95p)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKINDUCTORSMLNEOSIDSMS95SMS95P > Inductor_SMD : L_Neosid_SMs95_SMs95p
+# FZKINLNEOSIDSMS95SMS95P > Inductor_SMD : L_Neosid_SMs95_SMs95p
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Neosid_SMs95_SMs95p
-- Hex ID: FZKINDUCTORSMLNEOSIDSMS95SMS95P
+- Hex ID: FZKINLNEOSIDSMS95SMS95P
 - Name: Inductor_SMD : L_Neosid_SMs95_SMs95p
 - Description: Inductor_SMD : L_Neosid_SMs95_SMs95p
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Neosid_SMs95_SMs95p](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Neosid_SMs95_SMs95p)
-- Short Link: [http://oom.lt/FZKINDUCTORSMLNEOSIDSMS95SMS95P](http://oom.lt/FZKINDUCTORSMLNEOSIDSMS95SMS95P)
+- Short Link: [http://oom.lt/FZKINLNEOSIDSMS95SMS95P](http://oom.lt/FZKINLNEOSIDSMS95SMS95P)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Inductor_SMD|
 |OOMP Index|oompIndex|L_Neosid_SMs95_SMs95p|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Neosid_SMs95_SMs95p|
-|Hex ID (short code)|hexID|FZKINDUCTORSMLNEOSIDSMS95SMS95P|
+|Hex ID (short code)|hexID|FZKINLNEOSIDSMS95SMS95P|
 |name|name|Inductor_SMD : L_Neosid_SMs95_SMs95p|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'L_Neosid_SMs95_SMs95p'</td><td> 'description'</td></tr><tr><td> 'Neosid</td><td> Inductor</td><td> SMs95</td><td> Fixed inductor</td><td> SMD</td><td> magnetically shielded</td><td> https</td></tr><tr><td>//neosid.de/import-data/product-pdf/neoFestind_SMs95SMs95p.pdf'</td><td> 'tags'</td></tr><tr><td> 'Neosid Inductor SMs95 Fixed inductor SMD magnetically shielded'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Inductor_SMD.3dshapes/L_Neosid_SMs95_SMs95p.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

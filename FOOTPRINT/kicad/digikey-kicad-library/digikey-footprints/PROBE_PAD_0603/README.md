@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSPROBEPAD63 > digikey-footprints : PROBE_PAD_0603](#fzkicaddigikeykicadlibrarydigikeyfootprintsprobepad63--digikey-footprints--probe_pad_0603)
+* [FZDIGIDIGIKEYFOOTPRINTSPROBEPAD63 > digikey-footprints : PROBE_PAD_0603](#fzdigidigikeyfootprintsprobepad63--digikey-footprints--probe_pad_0603)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSPROBEPAD63 > digikey-footprints : PROBE_PAD_0603
+# FZDIGIDIGIKEYFOOTPRINTSPROBEPAD63 > digikey-footprints : PROBE_PAD_0603
 
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-PROBE_PAD_0603
-- Hex ID: FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSPROBEPAD63
+- Hex ID: FZDIGIDIGIKEYFOOTPRINTSPROBEPAD63
 - Name: digikey-footprints : PROBE_PAD_0603
 - Description: digikey-footprints : PROBE_PAD_0603
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-PROBE_PAD_0603](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-PROBE_PAD_0603)
-- Short Link: [http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSPROBEPAD63](http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSPROBEPAD63)
+- Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSPROBEPAD63](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSPROBEPAD63)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|digikey-footprints|
 |OOMP Index|oompIndex|PROBE_PAD_0603|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-PROBE_PAD_0603|
-|Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSPROBEPAD63|
+|Hex ID (short code)|hexID|FZDIGIDIGIKEYFOOTPRINTSPROBEPAD63|
 |name|name|digikey-footprints : PROBE_PAD_0603|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'PROBE_PAD_0603'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

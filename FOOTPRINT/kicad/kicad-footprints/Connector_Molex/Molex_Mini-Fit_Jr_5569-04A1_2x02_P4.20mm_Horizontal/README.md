@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKCNMXMXMFITJR55694A12X2P42HORIZONTAL > Connector_Molex : Molex_Mini-Fit_Jr_5569-04A1_2x02_P4.20mm_Horizontal](#fzkcnmxmxmfitjr55694a12x2p42horizontal--connector_molex--molex_mini-fit_jr_5569-04a1_2x02_p420mm_horizontal)
+* [FZKCNMXMXMFITJR55694A12X2P42H > Connector_Molex : Molex_Mini-Fit_Jr_5569-04A1_2x02_P4.20mm_Horizontal](#fzkcnmxmxmfitjr55694a12x2p42h--connector_molex--molex_mini-fit_jr_5569-04a1_2x02_p420mm_horizontal)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKCNMXMXMFITJR55694A12X2P42HORIZONTAL > Connector_Molex : Molex_Mini-Fit_Jr_5569-04A1_2x02_P4.20mm_Horizontal
+# FZKCNMXMXMFITJR55694A12X2P42H > Connector_Molex : Molex_Mini-Fit_Jr_5569-04A1_2x02_P4.20mm_Horizontal
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_Mini-Fit_Jr_5569-04A1_2x02_P4.20mm_Horizontal
-- Hex ID: FZKCNMXMXMFITJR55694A12X2P42HORIZONTAL
+- Hex ID: FZKCNMXMXMFITJR55694A12X2P42H
 - Name: Connector_Molex : Molex_Mini-Fit_Jr_5569-04A1_2x02_P4.20mm_Horizontal
 - Description: Connector_Molex : Molex_Mini-Fit_Jr_5569-04A1_2x02_P4.20mm_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_Mini-Fit_Jr_5569-04A1_2x02_P4.20mm_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_Mini-Fit_Jr_5569-04A1_2x02_P4.20mm_Horizontal)
-- Short Link: [http://oom.lt/FZKCNMXMXMFITJR55694A12X2P42HORIZONTAL](http://oom.lt/FZKCNMXMXMFITJR55694A12X2P42HORIZONTAL)
+- Short Link: [http://oom.lt/FZKCNMXMXMFITJR55694A12X2P42H](http://oom.lt/FZKCNMXMXMFITJR55694A12X2P42H)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Connector_Molex|
 |OOMP Index|oompIndex|Molex_Mini-Fit_Jr_5569-04A1_2x02_P4.20mm_Horizontal|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_Mini-Fit_Jr_5569-04A1_2x02_P4.20mm_Horizontal|
-|Hex ID (short code)|hexID|FZKCNMXMXMFITJR55694A12X2P42HORIZONTAL|
+|Hex ID (short code)|hexID|FZKCNMXMXMFITJR55694A12X2P42H|
 |name|name|Connector_Molex : Molex_Mini-Fit_Jr_5569-04A1_2x02_P4.20mm_Horizontal|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Molex_Mini-Fit_Jr_5569-04A1_2x02_P4.20mm_Horizontal'</td><td> 'description'</td></tr><tr><td> 'Molex Mini-Fit Jr. Power Connectors</td><td> old mpn/engineering number</td></tr><tr><td> 5569-04A1</td><td> example for new mpn</td></tr><tr><td> 39-29-4049</td><td> 2 Pins per row</td><td> Mounting</td></tr><tr><td> PCB Mounting Flange (http</td></tr><tr><td>//www.molex.com/pdm_docs/sd/039291047_sd.pdf)</td><td> generated with kicad-footprint-generator'</td><td> 'tags'</td></tr><tr><td> 'connector Molex Mini-Fit_Jr top entryscrew_flange'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_Molex.3dshapes/Molex_Mini-Fit_Jr_5569-04A1_2x02_P4.20mm_Horizontal.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'np_thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||

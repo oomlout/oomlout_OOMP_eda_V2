@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSPINHEADER1X2P254 > digikey-footprints : PinHeader_1x2_P2.54mm](#fzkicaddigikeykicadlibrarydigikeyfootprintspinheader1x2p254--digikey-footprints--pinheader_1x2_p254mm)
+* [FZDIGIDIGIKEYFOOTPRINTSPINHEADER1X2P254 > digikey-footprints : PinHeader_1x2_P2.54mm](#fzdigidigikeyfootprintspinheader1x2p254--digikey-footprints--pinheader_1x2_p254mm)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSPINHEADER1X2P254 > digikey-footprints : PinHeader_1x2_P2.54mm
+# FZDIGIDIGIKEYFOOTPRINTSPINHEADER1X2P254 > digikey-footprints : PinHeader_1x2_P2.54mm
 
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-PinHeader_1x2_P2.54mm
-- Hex ID: FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSPINHEADER1X2P254
+- Hex ID: FZDIGIDIGIKEYFOOTPRINTSPINHEADER1X2P254
 - Name: digikey-footprints : PinHeader_1x2_P2.54mm
 - Description: digikey-footprints : PinHeader_1x2_P2.54mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-PinHeader_1x2_P2.54mm](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-PinHeader_1x2_P2.54mm)
-- Short Link: [http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSPINHEADER1X2P254](http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSPINHEADER1X2P254)
+- Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSPINHEADER1X2P254](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSPINHEADER1X2P254)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|digikey-footprints|
 |OOMP Index|oompIndex|PinHeader_1x2_P2.54mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-PinHeader_1x2_P2.54mm|
-|Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSPINHEADER1X2P254|
+|Hex ID (short code)|hexID|FZDIGIDIGIKEYFOOTPRINTSPINHEADER1X2P254|
 |name|name|digikey-footprints : PinHeader_1x2_P2.54mm|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'PinHeader_1x2_P2.54mm'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> None</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||

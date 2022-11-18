@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKDIODESMDTUMD2 > Diode_SMD : D_TUMD2](#fzkdiodesmdtumd2--diode_smd--d_tumd2)
+* [FZKDDTUMD2 > Diode_SMD : D_TUMD2](#fzkddtumd2--diode_smd--d_tumd2)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKDIODESMDTUMD2 > Diode_SMD : D_TUMD2
+# FZKDDTUMD2 > Diode_SMD : D_TUMD2
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_TUMD2
-- Hex ID: FZKDIODESMDTUMD2
+- Hex ID: FZKDDTUMD2
 - Name: Diode_SMD : D_TUMD2
 - Description: Diode_SMD : D_TUMD2
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_TUMD2](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_TUMD2)
-- Short Link: [http://oom.lt/FZKDIODESMDTUMD2](http://oom.lt/FZKDIODESMDTUMD2)
+- Short Link: [http://oom.lt/FZKDDTUMD2](http://oom.lt/FZKDDTUMD2)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Diode_SMD|
 |OOMP Index|oompIndex|D_TUMD2|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_TUMD2|
-|Hex ID (short code)|hexID|FZKDIODESMDTUMD2|
+|Hex ID (short code)|hexID|FZKDDTUMD2|
 |name|name|Diode_SMD : D_TUMD2|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'D_TUMD2'</td><td> 'description'</td></tr><tr><td> 'ROHM - TUMD2'</td><td> 'tags'</td></tr><tr><td> 'TUMD2'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Diode_SMD.3dshapes/D_TUMD2.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

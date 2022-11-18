@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSCB5FORMEDLEADS > digikey-footprints : CB-5_Formed_Leads](#fzkicaddigikeykicadlibrarydigikeyfootprintscb5formedleads--digikey-footprints--cb-5_formed_leads)
+* [FZDIGIDIGIKEYFOOTPRINTSCB5FORMEDLEADS > digikey-footprints : CB-5_Formed_Leads](#fzdigidigikeyfootprintscb5formedleads--digikey-footprints--cb-5_formed_leads)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSCB5FORMEDLEADS > digikey-footprints : CB-5_Formed_Leads
+# FZDIGIDIGIKEYFOOTPRINTSCB5FORMEDLEADS > digikey-footprints : CB-5_Formed_Leads
 
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-CB-5_Formed_Leads
-- Hex ID: FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSCB5FORMEDLEADS
+- Hex ID: FZDIGIDIGIKEYFOOTPRINTSCB5FORMEDLEADS
 - Name: digikey-footprints : CB-5_Formed_Leads
 - Description: digikey-footprints : CB-5_Formed_Leads
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-CB-5_Formed_Leads](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-CB-5_Formed_Leads)
-- Short Link: [http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSCB5FORMEDLEADS](http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSCB5FORMEDLEADS)
+- Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSCB5FORMEDLEADS](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSCB5FORMEDLEADS)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|digikey-footprints|
 |OOMP Index|oompIndex|CB-5_Formed_Leads|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-CB-5_Formed_Leads|
-|Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSCB5FORMEDLEADS|
+|Hex ID (short code)|hexID|FZDIGIDIGIKEYFOOTPRINTSCB5FORMEDLEADS|
 |name|name|digikey-footprints : CB-5_Formed_Leads|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'CB-5_Formed_Leads'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> None</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

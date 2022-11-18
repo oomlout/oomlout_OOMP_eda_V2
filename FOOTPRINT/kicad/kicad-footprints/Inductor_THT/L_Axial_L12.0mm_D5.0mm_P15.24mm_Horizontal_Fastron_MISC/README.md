@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKINLAXIALL12D5P1524HORIZONTALFASTRONMISC > Inductor_THT : L_Axial_L12.0mm_D5.0mm_P15.24mm_Horizontal_Fastron_MISC](#fzkinlaxiall12d5p1524horizontalfastronmisc--inductor_tht--l_axial_l120mm_d50mm_p1524mm_horizontal_fastron_misc)
+* [FZKINLAXIALL12D5P1524HFASTRONMISC > Inductor_THT : L_Axial_L12.0mm_D5.0mm_P15.24mm_Horizontal_Fastron_MISC](#fzkinlaxiall12d5p1524hfastronmisc--inductor_tht--l_axial_l120mm_d50mm_p1524mm_horizontal_fastron_misc)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKINLAXIALL12D5P1524HORIZONTALFASTRONMISC > Inductor_THT : L_Axial_L12.0mm_D5.0mm_P15.24mm_Horizontal_Fastron_MISC
+# FZKINLAXIALL12D5P1524HFASTRONMISC > Inductor_THT : L_Axial_L12.0mm_D5.0mm_P15.24mm_Horizontal_Fastron_MISC
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Axial_L12.0mm_D5.0mm_P15.24mm_Horizontal_Fastron_MISC
-- Hex ID: FZKINLAXIALL12D5P1524HORIZONTALFASTRONMISC
+- Hex ID: FZKINLAXIALL12D5P1524HFASTRONMISC
 - Name: Inductor_THT : L_Axial_L12.0mm_D5.0mm_P15.24mm_Horizontal_Fastron_MISC
 - Description: Inductor_THT : L_Axial_L12.0mm_D5.0mm_P15.24mm_Horizontal_Fastron_MISC
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Axial_L12.0mm_D5.0mm_P15.24mm_Horizontal_Fastron_MISC](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Axial_L12.0mm_D5.0mm_P15.24mm_Horizontal_Fastron_MISC)
-- Short Link: [http://oom.lt/FZKINLAXIALL12D5P1524HORIZONTALFASTRONMISC](http://oom.lt/FZKINLAXIALL12D5P1524HORIZONTALFASTRONMISC)
+- Short Link: [http://oom.lt/FZKINLAXIALL12D5P1524HFASTRONMISC](http://oom.lt/FZKINLAXIALL12D5P1524HFASTRONMISC)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Inductor_THT|
 |OOMP Index|oompIndex|L_Axial_L12.0mm_D5.0mm_P15.24mm_Horizontal_Fastron_MISC|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Axial_L12.0mm_D5.0mm_P15.24mm_Horizontal_Fastron_MISC|
-|Hex ID (short code)|hexID|FZKINLAXIALL12D5P1524HORIZONTALFASTRONMISC|
+|Hex ID (short code)|hexID|FZKINLAXIALL12D5P1524HFASTRONMISC|
 |name|name|Inductor_THT : L_Axial_L12.0mm_D5.0mm_P15.24mm_Horizontal_Fastron_MISC|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'L_Axial_L12.0mm_D5.0mm_P15.24mm_Horizontal_Fastron_MISC'</td><td> 'description'</td></tr><tr><td> 'Inductor</td><td> Axial series</td><td> Axial</td><td> Horizontal</td><td> pin pitch=15.24mm</td><td> </td><td> length*diameter=12*5mm^2</td><td> Fastron</td><td> MISC</td><td> http</td></tr><tr><td>//cdn-reichelt.de/documents/datenblatt/B400/DS_MISC.pdf'</td><td> 'tags'</td></tr><tr><td> 'Inductor Axial series Axial Horizontal pin pitch 15.24mm  length 12mm diameter 5mm Fastron MISC'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Inductor_THT.3dshapes/L_Axial_L12.0mm_D5.0mm_P15.24mm_Horizontal_Fastron_MISC.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||

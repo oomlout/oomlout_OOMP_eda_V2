@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSCAPC63XNF8V5C6N8 > oomlout_OOMP_parts : CAPC-0603-X-NF8-V50-C6N8](#fzkicadoomloutoompkicadoomloutoomppartscapc63xnf8v5c6n8--oomlout_oomp_parts--capc-0603-x-nf8-v50-c6n8)
+* [FZOOMPKOOMPPCAPC63XNF8V5C6N8 > oomlout_OOMP_parts : CAPC-0603-X-NF8-V50-C6N8](#fzoompkoomppcapc63xnf8v5c6n8--oomlout_oomp_parts--capc-0603-x-nf8-v50-c6n8)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSCAPC63XNF8V5C6N8 > oomlout_OOMP_parts : CAPC-0603-X-NF8-V50-C6N8
+# FZOOMPKOOMPPCAPC63XNF8V5C6N8 > oomlout_OOMP_parts : CAPC-0603-X-NF8-V50-C6N8
 
 - ID: FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0603-X-NF8-V50-C6N8
-- Hex ID: FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSCAPC63XNF8V5C6N8
+- Hex ID: FZOOMPKOOMPPCAPC63XNF8V5C6N8
 - Name: oomlout_OOMP_parts : CAPC-0603-X-NF8-V50-C6N8
 - Description: oomlout_OOMP_parts : CAPC-0603-X-NF8-V50-C6N8
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0603-X-NF8-V50-C6N8](http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0603-X-NF8-V50-C6N8)
-- Short Link: [http://oom.lt/FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSCAPC63XNF8V5C6N8](http://oom.lt/FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSCAPC63XNF8V5C6N8)
+- Short Link: [http://oom.lt/FZOOMPKOOMPPCAPC63XNF8V5C6N8](http://oom.lt/FZOOMPKOOMPPCAPC63XNF8V5C6N8)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|oomlout_OOMP_parts|
 |OOMP Index|oompIndex|CAPC-0603-X-NF8-V50-C6N8|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0603-X-NF8-V50-C6N8|
-|Hex ID (short code)|hexID|FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSCAPC63XNF8V5C6N8|
+|Hex ID (short code)|hexID|FZOOMPKOOMPPCAPC63XNF8V5C6N8|
 |name|name|oomlout_OOMP_parts : CAPC-0603-X-NF8-V50-C6N8|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'CAPC-0603-X-NF8-V50-C6N8'</td><td> 'description'</td></tr><tr><td> 'hexID</td></tr><tr><td> C6N8;PARTL C-JLCC;C31658;MANUF C-XXXX;CL10B683KB8NNNC; Capacitor SMD 0603 (1608 Metric)</td><td> square (rectangular) end terminal</td><td> IPC_7351 nominal</td><td> (Body size source</td></tr><tr><td> IPC-SM-782 page 76</td><td> https</td></tr><tr><td>//www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)</td><td> generated with kicad-footprint-generator'</td><td> 'tags'</td></tr><tr><td> 'capacitor'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Capacitor_SMD.3dshapes/C_0603_1608Metric.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||

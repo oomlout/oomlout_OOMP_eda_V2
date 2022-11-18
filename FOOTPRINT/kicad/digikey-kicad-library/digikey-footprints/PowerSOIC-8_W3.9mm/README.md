@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSPOWERSOIC8W39 > digikey-footprints : PowerSOIC-8_W3.9mm](#fzkicaddigikeykicadlibrarydigikeyfootprintspowersoic8w39--digikey-footprints--powersoic-8_w39mm)
+* [FZDIGIDIGIKEYFOOTPRINTSPOWERSOIC8W39 > digikey-footprints : PowerSOIC-8_W3.9mm](#fzdigidigikeyfootprintspowersoic8w39--digikey-footprints--powersoic-8_w39mm)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSPOWERSOIC8W39 > digikey-footprints : PowerSOIC-8_W3.9mm
+# FZDIGIDIGIKEYFOOTPRINTSPOWERSOIC8W39 > digikey-footprints : PowerSOIC-8_W3.9mm
 
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-PowerSOIC-8_W3.9mm
-- Hex ID: FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSPOWERSOIC8W39
+- Hex ID: FZDIGIDIGIKEYFOOTPRINTSPOWERSOIC8W39
 - Name: digikey-footprints : PowerSOIC-8_W3.9mm
 - Description: digikey-footprints : PowerSOIC-8_W3.9mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-PowerSOIC-8_W3.9mm](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-PowerSOIC-8_W3.9mm)
-- Short Link: [http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSPOWERSOIC8W39](http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSPOWERSOIC8W39)
+- Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSPOWERSOIC8W39](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSPOWERSOIC8W39)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|digikey-footprints|
 |OOMP Index|oompIndex|PowerSOIC-8_W3.9mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-PowerSOIC-8_W3.9mm|
-|Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSPOWERSOIC8W39|
+|Hex ID (short code)|hexID|FZDIGIDIGIKEYFOOTPRINTSPOWERSOIC8W39|
 |name|name|digikey-footprints : PowerSOIC-8_W3.9mm|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'PowerSOIC-8_W3.9mm'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

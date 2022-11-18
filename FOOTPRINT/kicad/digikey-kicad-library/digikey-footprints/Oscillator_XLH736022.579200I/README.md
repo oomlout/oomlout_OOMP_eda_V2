@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSOCSXLH736225792I > digikey-footprints : Oscillator_XLH736022.579200I](#fzkicaddigikeykicadlibrarydigikeyfootprintsocsxlh736225792i--digikey-footprints--oscillator_xlh736022579200i)
+* [FZDIGIDIGIKEYFOOTPRINTSOCSXLH736225792I > digikey-footprints : Oscillator_XLH736022.579200I](#fzdigidigikeyfootprintsocsxlh736225792i--digikey-footprints--oscillator_xlh736022579200i)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSOCSXLH736225792I > digikey-footprints : Oscillator_XLH736022.579200I
+# FZDIGIDIGIKEYFOOTPRINTSOCSXLH736225792I > digikey-footprints : Oscillator_XLH736022.579200I
 
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Oscillator_XLH736022.579200I
-- Hex ID: FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSOCSXLH736225792I
+- Hex ID: FZDIGIDIGIKEYFOOTPRINTSOCSXLH736225792I
 - Name: digikey-footprints : Oscillator_XLH736022.579200I
 - Description: digikey-footprints : Oscillator_XLH736022.579200I
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Oscillator_XLH736022.579200I](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Oscillator_XLH736022.579200I)
-- Short Link: [http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSOCSXLH736225792I](http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSOCSXLH736225792I)
+- Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSOCSXLH736225792I](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSOCSXLH736225792I)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|digikey-footprints|
 |OOMP Index|oompIndex|Oscillator_XLH736022.579200I|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Oscillator_XLH736022.579200I|
-|Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSOCSXLH736225792I|
+|Hex ID (short code)|hexID|FZDIGIDIGIKEYFOOTPRINTSOCSXLH736225792I|
 |name|name|digikey-footprints : Oscillator_XLH736022.579200I|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Oscillator_XLH736022.579200I'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

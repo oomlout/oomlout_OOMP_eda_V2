@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [SZKREGULATORSWITCHINGMC3363AD > Regulator_Switching : MC33063AD](#szkregulatorswitchingmc3363ad--regulator_switching--mc33063ad)
+* [SZKREGULATORSWINGMC3363AD > Regulator_Switching : MC33063AD](#szkregulatorswingmc3363ad--regulator_switching--mc33063ad)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# SZKREGULATORSWITCHINGMC3363AD > Regulator_Switching : MC33063AD
+# SZKREGULATORSWINGMC3363AD > Regulator_Switching : MC33063AD
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-MC33063AD
-- Hex ID: SZKREGULATORSWITCHINGMC3363AD
+- Hex ID: SZKREGULATORSWINGMC3363AD
 - Name: Regulator_Switching : MC33063AD
 - Description: Regulator_Switching : MC33063AD
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-MC33063AD](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-MC33063AD)
-- Short Link: [http://oom.lt/SZKREGULATORSWITCHINGMC3363AD](http://oom.lt/SZKREGULATORSWITCHINGMC3363AD)
+- Short Link: [http://oom.lt/SZKREGULATORSWINGMC3363AD](http://oom.lt/SZKREGULATORSWINGMC3363AD)
 
 ## Images
   
@@ -36,7 +36,7 @@ Contents
 |OOMP Description|oompDesc|Regulator_Switching|
 |OOMP Index|oompIndex|MC33063AD|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-MC33063AD|
-|Hex ID (short code)|hexID|SZKREGULATORSWITCHINGMC3363AD|
+|Hex ID (short code)|hexID|SZKREGULATORSWINGMC3363AD|
 |name|name|Regulator_Switching : MC33063AD|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MC33063AD'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>SOIC-8_3.9x4.9mm_P1.27mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.onsemi.com/pub_link/Collateral/MC34063A-D.PDF'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'smps buck boost inverting'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '1.5A</td><td> step-up/down/inverting switching regulator</td><td> 3-40V Vin</td><td> 100kHz</td><td> SO-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOIC*3.9x4.9mm*P1.27mm*'</td></tr></table>]|
 ||||

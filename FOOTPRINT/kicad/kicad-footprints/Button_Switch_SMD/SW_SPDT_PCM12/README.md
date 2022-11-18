@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKBSWITCHSMSWSPDTPCM12 > Button_Switch_SMD : SW_SPDT_PCM12](#fzkbswitchsmswspdtpcm12--button_switch_smd--sw_spdt_pcm12)
+* [FZKBSWSPDTPCM12 > Button_Switch_SMD : SW_SPDT_PCM12](#fzkbswspdtpcm12--button_switch_smd--sw_spdt_pcm12)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKBSWITCHSMSWSPDTPCM12 > Button_Switch_SMD : SW_SPDT_PCM12
+# FZKBSWSPDTPCM12 > Button_Switch_SMD : SW_SPDT_PCM12
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-SW_SPDT_PCM12
-- Hex ID: FZKBSWITCHSMSWSPDTPCM12
+- Hex ID: FZKBSWSPDTPCM12
 - Name: Button_Switch_SMD : SW_SPDT_PCM12
 - Description: Button_Switch_SMD : SW_SPDT_PCM12
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-SW_SPDT_PCM12](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-SW_SPDT_PCM12)
-- Short Link: [http://oom.lt/FZKBSWITCHSMSWSPDTPCM12](http://oom.lt/FZKBSWITCHSMSWSPDTPCM12)
+- Short Link: [http://oom.lt/FZKBSWSPDTPCM12](http://oom.lt/FZKBSWSPDTPCM12)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Button_Switch_SMD|
 |OOMP Index|oompIndex|SW_SPDT_PCM12|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-SW_SPDT_PCM12|
-|Hex ID (short code)|hexID|FZKBSWITCHSMSWSPDTPCM12|
+|Hex ID (short code)|hexID|FZKBSWSPDTPCM12|
 |name|name|Button_Switch_SMD : SW_SPDT_PCM12|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'SW_SPDT_PCM12'</td><td> 'description'</td></tr><tr><td> 'Ultraminiature Surface Mount Slide Switch</td><td> right-angle</td><td> https</td></tr><tr><td>//www.ckswitches.com/media/1424/pcm.pdf'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Button_Switch_SMD.3dshapes/SW_SPDT_PCM12.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [SZKREGULATORSWITCHINGADP218AUJ182 > Regulator_Switching : ADP2108AUJ-1.82](#szkregulatorswitchingadp218auj182--regulator_switching--adp2108auj-182)
+* [SZKREGULATORSWINGADP218AUJ182 > Regulator_Switching : ADP2108AUJ-1.82](#szkregulatorswingadp218auj182--regulator_switching--adp2108auj-182)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# SZKREGULATORSWITCHINGADP218AUJ182 > Regulator_Switching : ADP2108AUJ-1.82
+# SZKREGULATORSWINGADP218AUJ182 > Regulator_Switching : ADP2108AUJ-1.82
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-ADP2108AUJ-1.82
-- Hex ID: SZKREGULATORSWITCHINGADP218AUJ182
+- Hex ID: SZKREGULATORSWINGADP218AUJ182
 - Name: Regulator_Switching : ADP2108AUJ-1.82
 - Description: Regulator_Switching : ADP2108AUJ-1.82
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-ADP2108AUJ-1.82](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-ADP2108AUJ-1.82)
-- Short Link: [http://oom.lt/SZKREGULATORSWITCHINGADP218AUJ182](http://oom.lt/SZKREGULATORSWITCHINGADP218AUJ182)
+- Short Link: [http://oom.lt/SZKREGULATORSWINGADP218AUJ182](http://oom.lt/SZKREGULATORSWINGADP218AUJ182)
 
 ## Images
   
@@ -36,7 +36,7 @@ Contents
 |OOMP Description|oompDesc|Regulator_Switching|
 |OOMP Index|oompIndex|ADP2108AUJ-1.82|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-ADP2108AUJ-1.82|
-|Hex ID (short code)|hexID|SZKREGULATORSWITCHINGADP218AUJ182|
+|Hex ID (short code)|hexID|SZKREGULATORSWINGADP218AUJ182|
 |name|name|Regulator_Switching : ADP2108AUJ-1.82|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'ADP2108AUJ-1.0'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'ADP2108AUJ-1.82'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>TSOT-23-5'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.analog.com/media/en/technical-documentation/data-sheets/ADP2108.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Voltage regulator switching buck fixed output analog'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '3MHz switching bucK regulator</td><td> 600mA 1.82V output voltage</td><td>'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TSOT?23*'</td></tr></table>]|
 ||||

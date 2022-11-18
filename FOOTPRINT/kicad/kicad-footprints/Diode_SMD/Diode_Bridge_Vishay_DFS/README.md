@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKDIODESMDIODEBRIDGEVISHAYDFS > Diode_SMD : Diode_Bridge_Vishay_DFS](#fzkdiodesmdiodebridgevishaydfs--diode_smd--diode_bridge_vishay_dfs)
+* [FZKDDIODEBRIDGEVISHAYDFS > Diode_SMD : Diode_Bridge_Vishay_DFS](#fzkddiodebridgevishaydfs--diode_smd--diode_bridge_vishay_dfs)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKDIODESMDIODEBRIDGEVISHAYDFS > Diode_SMD : Diode_Bridge_Vishay_DFS
+# FZKDDIODEBRIDGEVISHAYDFS > Diode_SMD : Diode_Bridge_Vishay_DFS
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Diode_SMD-Diode_Bridge_Vishay_DFS
-- Hex ID: FZKDIODESMDIODEBRIDGEVISHAYDFS
+- Hex ID: FZKDDIODEBRIDGEVISHAYDFS
 - Name: Diode_SMD : Diode_Bridge_Vishay_DFS
 - Description: Diode_SMD : Diode_Bridge_Vishay_DFS
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Diode_SMD-Diode_Bridge_Vishay_DFS](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Diode_SMD-Diode_Bridge_Vishay_DFS)
-- Short Link: [http://oom.lt/FZKDIODESMDIODEBRIDGEVISHAYDFS](http://oom.lt/FZKDIODESMDIODEBRIDGEVISHAYDFS)
+- Short Link: [http://oom.lt/FZKDDIODEBRIDGEVISHAYDFS](http://oom.lt/FZKDDIODEBRIDGEVISHAYDFS)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Diode_SMD|
 |OOMP Index|oompIndex|Diode_Bridge_Vishay_DFS|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Diode_SMD-Diode_Bridge_Vishay_DFS|
-|Hex ID (short code)|hexID|FZKDIODESMDIODEBRIDGEVISHAYDFS|
+|Hex ID (short code)|hexID|FZKDDIODEBRIDGEVISHAYDFS|
 |name|name|Diode_SMD : Diode_Bridge_Vishay_DFS|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Diode_Bridge_Vishay_DFS'</td><td> 'description'</td></tr><tr><td> 'SMD diode bridge DFS</td><td> see http</td></tr><tr><td>//www.vishay.com/docs/88854/padlayouts.pdf'</td><td> 'tags'</td></tr><tr><td> 'DFS'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Diode_SMD.3dshapes/Diode_Bridge_Vishay_DFS.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

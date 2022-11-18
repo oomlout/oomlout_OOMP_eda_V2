@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSTRANSSOT2234 > digikey-footprints : Trans_SOT-223-4](#fzkicaddigikeykicadlibrarydigikeyfootprintstranssot2234--digikey-footprints--trans_sot-223-4)
+* [FZDIGIDIGIKEYFOOTPRINTSTRANSSOT2234 > digikey-footprints : Trans_SOT-223-4](#fzdigidigikeyfootprintstranssot2234--digikey-footprints--trans_sot-223-4)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSTRANSSOT2234 > digikey-footprints : Trans_SOT-223-4
+# FZDIGIDIGIKEYFOOTPRINTSTRANSSOT2234 > digikey-footprints : Trans_SOT-223-4
 
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Trans_SOT-223-4
-- Hex ID: FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSTRANSSOT2234
+- Hex ID: FZDIGIDIGIKEYFOOTPRINTSTRANSSOT2234
 - Name: digikey-footprints : Trans_SOT-223-4
 - Description: digikey-footprints : Trans_SOT-223-4
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Trans_SOT-223-4](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Trans_SOT-223-4)
-- Short Link: [http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSTRANSSOT2234](http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSTRANSSOT2234)
+- Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSTRANSSOT2234](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSTRANSSOT2234)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|digikey-footprints|
 |OOMP Index|oompIndex|Trans_SOT-223-4|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Trans_SOT-223-4|
-|Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSTRANSSOT2234|
+|Hex ID (short code)|hexID|FZDIGIDIGIKEYFOOTPRINTSTRANSSOT2234|
 |name|name|digikey-footprints : Trans_SOT-223-4|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Trans_SOT-223-4'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

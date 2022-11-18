@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [SZKCNAUDIOJ2SWITCH > Connector : AudioJack2_Switch](#szkcnaudioj2switch--connector--audiojack2_switch)
+* [SZKCNAUDIOJ2SW > Connector : AudioJack2_Switch](#szkcnaudioj2sw--connector--audiojack2_switch)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# SZKCNAUDIOJ2SWITCH > Connector : AudioJack2_Switch
+# SZKCNAUDIOJ2SW > Connector : AudioJack2_Switch
 
 - ID: SYMBOL-kicad-kicad-symbols-Connector-AudioJack2_Switch
-- Hex ID: SZKCNAUDIOJ2SWITCH
+- Hex ID: SZKCNAUDIOJ2SW
 - Name: Connector : AudioJack2_Switch
 - Description: Connector : AudioJack2_Switch
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-AudioJack2_Switch](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-AudioJack2_Switch)
-- Short Link: [http://oom.lt/SZKCNAUDIOJ2SWITCH](http://oom.lt/SZKCNAUDIOJ2SWITCH)
+- Short Link: [http://oom.lt/SZKCNAUDIOJ2SW](http://oom.lt/SZKCNAUDIOJ2SW)
 
 ## Images
   
@@ -36,7 +36,7 @@ Contents
 |OOMP Description|oompDesc|Connector|
 |OOMP Index|oompIndex|AudioJack2_Switch|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector-AudioJack2_Switch|
-|Hex ID (short code)|hexID|SZKCNAUDIOJ2SWITCH|
+|Hex ID (short code)|hexID|SZKCNAUDIOJ2SW|
 |name|name|Connector : AudioJack2_Switch|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'J'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'AudioJack2_Switch'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'audio jack receptacle mono headphones phone TS connector'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Audio Jack</td><td> 2 Poles (Mono / TS)</td><td> Switched Pole (Normalling)'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Jack*'</td></tr></table>]|
 ||||

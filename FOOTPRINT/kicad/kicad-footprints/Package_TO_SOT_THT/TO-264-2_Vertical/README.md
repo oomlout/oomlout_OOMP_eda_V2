@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKSOTTO2642VERTICAL > Package_TO_SOT_THT : TO-264-2_Vertical](#fzksotto2642vertical--package_to_sot_tht--to-264-2_vertical)
+* [FZKSOTTO2642F > Package_TO_SOT_THT : TO-264-2_Vertical](#fzksotto2642f--package_to_sot_tht--to-264-2_vertical)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKSOTTO2642VERTICAL > Package_TO_SOT_THT : TO-264-2_Vertical
+# FZKSOTTO2642F > Package_TO_SOT_THT : TO-264-2_Vertical
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-TO-264-2_Vertical
-- Hex ID: FZKSOTTO2642VERTICAL
+- Hex ID: FZKSOTTO2642F
 - Name: Package_TO_SOT_THT : TO-264-2_Vertical
 - Description: Package_TO_SOT_THT : TO-264-2_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-TO-264-2_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-TO-264-2_Vertical)
-- Short Link: [http://oom.lt/FZKSOTTO2642VERTICAL](http://oom.lt/FZKSOTTO2642VERTICAL)
+- Short Link: [http://oom.lt/FZKSOTTO2642F](http://oom.lt/FZKSOTTO2642F)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Package_TO_SOT_THT|
 |OOMP Index|oompIndex|TO-264-2_Vertical|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-TO-264-2_Vertical|
-|Hex ID (short code)|hexID|FZKSOTTO2642VERTICAL|
+|Hex ID (short code)|hexID|FZKSOTTO2642F|
 |name|name|Package_TO_SOT_THT : TO-264-2_Vertical|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'TO-264-2_Vertical'</td><td> 'description'</td></tr><tr><td> 'TO-264-2</td><td> Vertical</td><td> RM 10.9mm</td><td> see https</td></tr><tr><td>//www.fairchildsemi.com/package-drawings/TO/TO264A03.pdf'</td><td> 'tags'</td></tr><tr><td> 'TO-264-2 Vertical RM 10.9mm'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_TO_SOT_THT.3dshapes/TO-264-2_Vertical.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

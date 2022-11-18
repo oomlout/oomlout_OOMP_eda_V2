@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKCNSATASASSATAAMPHENOL1293641LFHORIZONTAL > Connector_SATA_SAS : SATA_Amphenol_10029364-001LF_Horizontal](#fzkcnsatasassataamphenol1293641lfhorizontal--connector_sata_sas--sata_amphenol_10029364-001lf_horizontal)
+* [FZKCNSATASASSATAAMPHENOL1293641LFH > Connector_SATA_SAS : SATA_Amphenol_10029364-001LF_Horizontal](#fzkcnsatasassataamphenol1293641lfh--connector_sata_sas--sata_amphenol_10029364-001lf_horizontal)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKCNSATASASSATAAMPHENOL1293641LFHORIZONTAL > Connector_SATA_SAS : SATA_Amphenol_10029364-001LF_Horizontal
+# FZKCNSATASASSATAAMPHENOL1293641LFH > Connector_SATA_SAS : SATA_Amphenol_10029364-001LF_Horizontal
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_SATA_SAS-SATA_Amphenol_10029364-001LF_Horizontal
-- Hex ID: FZKCNSATASASSATAAMPHENOL1293641LFHORIZONTAL
+- Hex ID: FZKCNSATASASSATAAMPHENOL1293641LFH
 - Name: Connector_SATA_SAS : SATA_Amphenol_10029364-001LF_Horizontal
 - Description: Connector_SATA_SAS : SATA_Amphenol_10029364-001LF_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_SATA_SAS-SATA_Amphenol_10029364-001LF_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_SATA_SAS-SATA_Amphenol_10029364-001LF_Horizontal)
-- Short Link: [http://oom.lt/FZKCNSATASASSATAAMPHENOL1293641LFHORIZONTAL](http://oom.lt/FZKCNSATASASSATAAMPHENOL1293641LFHORIZONTAL)
+- Short Link: [http://oom.lt/FZKCNSATASASSATAAMPHENOL1293641LFH](http://oom.lt/FZKCNSATASASSATAAMPHENOL1293641LFH)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Connector_SATA_SAS|
 |OOMP Index|oompIndex|SATA_Amphenol_10029364-001LF_Horizontal|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_SATA_SAS-SATA_Amphenol_10029364-001LF_Horizontal|
-|Hex ID (short code)|hexID|FZKCNSATASASSATAAMPHENOL1293641LFHORIZONTAL|
+|Hex ID (short code)|hexID|FZKCNSATASASSATAAMPHENOL1293641LFH|
 |name|name|Connector_SATA_SAS : SATA_Amphenol_10029364-001LF_Horizontal|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'SATA_Amphenol_10029364-001LF_Horizontal'</td><td> 'description'</td></tr><tr><td> 'https</td></tr><tr><td>//cdn.amphenol-icc.com/media/wysiwyg/files/drawing/10029364.pdf'</td><td> 'tags'</td></tr><tr><td> 'SATA'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_SATA_SAS.3dshapes/SATA_Amphenol_10029364-001LF_Horizontal.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'np_thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||

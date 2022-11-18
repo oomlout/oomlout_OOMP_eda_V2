@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKINDUCTORSMLPULSEPA4344 > Inductor_SMD : L_Pulse_PA4344](#fzkinductorsmlpulsepa4344--inductor_smd--l_pulse_pa4344)
+* [FZKINLPULSEPA4344 > Inductor_SMD : L_Pulse_PA4344](#fzkinlpulsepa4344--inductor_smd--l_pulse_pa4344)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKINDUCTORSMLPULSEPA4344 > Inductor_SMD : L_Pulse_PA4344
+# FZKINLPULSEPA4344 > Inductor_SMD : L_Pulse_PA4344
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Pulse_PA4344
-- Hex ID: FZKINDUCTORSMLPULSEPA4344
+- Hex ID: FZKINLPULSEPA4344
 - Name: Inductor_SMD : L_Pulse_PA4344
 - Description: Inductor_SMD : L_Pulse_PA4344
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Pulse_PA4344](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Pulse_PA4344)
-- Short Link: [http://oom.lt/FZKINDUCTORSMLPULSEPA4344](http://oom.lt/FZKINDUCTORSMLPULSEPA4344)
+- Short Link: [http://oom.lt/FZKINLPULSEPA4344](http://oom.lt/FZKINLPULSEPA4344)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Inductor_SMD|
 |OOMP Index|oompIndex|L_Pulse_PA4344|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Pulse_PA4344|
-|Hex ID (short code)|hexID|FZKINDUCTORSMLPULSEPA4344|
+|Hex ID (short code)|hexID|FZKINLPULSEPA4344|
 |name|name|Inductor_SMD : L_Pulse_PA4344|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'L_Pulse_PA4344'</td><td> 'description'</td></tr><tr><td> 'Pulse PA4344 / PM4344 Series SMD Inductors https</td></tr><tr><td>//productfinder.pulseelectronics.com/api/public/uploads/product-attachments/datasheet_p771_1608107700.pdf'</td><td> 'tags'</td></tr><tr><td> 'Pulse PA4344 PM4344 Series SMD Inductors'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Inductor_SMD.3dshapes/L_Pulse_PA4344.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSOT753 > digikey-footprints : SOT-753](#fzkicaddigikeykicadlibrarydigikeyfootprintssot753--digikey-footprints--sot-753)
+* [FZDIGIDIGIKEYFOOTPRINTSSOT753 > digikey-footprints : SOT-753](#fzdigidigikeyfootprintssot753--digikey-footprints--sot-753)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSOT753 > digikey-footprints : SOT-753
+# FZDIGIDIGIKEYFOOTPRINTSSOT753 > digikey-footprints : SOT-753
 
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SOT-753
-- Hex ID: FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSOT753
+- Hex ID: FZDIGIDIGIKEYFOOTPRINTSSOT753
 - Name: digikey-footprints : SOT-753
 - Description: digikey-footprints : SOT-753
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SOT-753](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SOT-753)
-- Short Link: [http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSOT753](http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSOT753)
+- Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSSOT753](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSSOT753)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|digikey-footprints|
 |OOMP Index|oompIndex|SOT-753|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SOT-753|
-|Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSOT753|
+|Hex ID (short code)|hexID|FZDIGIDIGIKEYFOOTPRINTSSOT753|
 |name|name|digikey-footprints : SOT-753|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'SOT-753'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

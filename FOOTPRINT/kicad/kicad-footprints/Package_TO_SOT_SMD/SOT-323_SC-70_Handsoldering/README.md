@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKPACKAGETOSOTSMSOT323SC7HANDSOLDERING > Package_TO_SOT_SMD : SOT-323_SC-70_Handsoldering](#fzkpackagetosotsmsot323sc7handsoldering--package_to_sot_smd--sot-323_sc-70_handsoldering)
+* [FZKSOTSOT323SC7HANDSOLDERING > Package_TO_SOT_SMD : SOT-323_SC-70_Handsoldering](#fzksotsot323sc7handsoldering--package_to_sot_smd--sot-323_sc-70_handsoldering)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKPACKAGETOSOTSMSOT323SC7HANDSOLDERING > Package_TO_SOT_SMD : SOT-323_SC-70_Handsoldering
+# FZKSOTSOT323SC7HANDSOLDERING > Package_TO_SOT_SMD : SOT-323_SC-70_Handsoldering
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-323_SC-70_Handsoldering
-- Hex ID: FZKPACKAGETOSOTSMSOT323SC7HANDSOLDERING
+- Hex ID: FZKSOTSOT323SC7HANDSOLDERING
 - Name: Package_TO_SOT_SMD : SOT-323_SC-70_Handsoldering
 - Description: Package_TO_SOT_SMD : SOT-323_SC-70_Handsoldering
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-323_SC-70_Handsoldering](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-323_SC-70_Handsoldering)
-- Short Link: [http://oom.lt/FZKPACKAGETOSOTSMSOT323SC7HANDSOLDERING](http://oom.lt/FZKPACKAGETOSOTSMSOT323SC7HANDSOLDERING)
+- Short Link: [http://oom.lt/FZKSOTSOT323SC7HANDSOLDERING](http://oom.lt/FZKSOTSOT323SC7HANDSOLDERING)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Package_TO_SOT_SMD|
 |OOMP Index|oompIndex|SOT-323_SC-70_Handsoldering|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-323_SC-70_Handsoldering|
-|Hex ID (short code)|hexID|FZKPACKAGETOSOTSMSOT323SC7HANDSOLDERING|
+|Hex ID (short code)|hexID|FZKSOTSOT323SC7HANDSOLDERING|
 |name|name|Package_TO_SOT_SMD : SOT-323_SC-70_Handsoldering|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'SOT-323_SC-70_Handsoldering'</td><td> 'description'</td></tr><tr><td> 'SOT-323</td><td> SC-70 Handsoldering'</td><td> 'tags'</td></tr><tr><td> 'SOT-323 SC-70 Handsoldering'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_TO_SOT_SMD.3dshapes/SOT-323_SC-70.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

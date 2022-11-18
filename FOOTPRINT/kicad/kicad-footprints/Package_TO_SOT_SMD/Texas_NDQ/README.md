@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKPACKAGETOSOTSMTEXASNDQ > Package_TO_SOT_SMD : Texas_NDQ](#fzkpackagetosotsmtexasndq--package_to_sot_smd--texas_ndq)
+* [FZKSOTTEXASNDQ > Package_TO_SOT_SMD : Texas_NDQ](#fzksottexasndq--package_to_sot_smd--texas_ndq)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKPACKAGETOSOTSMTEXASNDQ > Package_TO_SOT_SMD : Texas_NDQ
+# FZKSOTTEXASNDQ > Package_TO_SOT_SMD : Texas_NDQ
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-Texas_NDQ
-- Hex ID: FZKPACKAGETOSOTSMTEXASNDQ
+- Hex ID: FZKSOTTEXASNDQ
 - Name: Package_TO_SOT_SMD : Texas_NDQ
 - Description: Package_TO_SOT_SMD : Texas_NDQ
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-Texas_NDQ](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-Texas_NDQ)
-- Short Link: [http://oom.lt/FZKPACKAGETOSOTSMTEXASNDQ](http://oom.lt/FZKPACKAGETOSOTSMTEXASNDQ)
+- Short Link: [http://oom.lt/FZKSOTTEXASNDQ](http://oom.lt/FZKSOTTEXASNDQ)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Package_TO_SOT_SMD|
 |OOMP Index|oompIndex|Texas_NDQ|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-Texas_NDQ|
-|Hex ID (short code)|hexID|FZKPACKAGETOSOTSMTEXASNDQ|
+|Hex ID (short code)|hexID|FZKSOTTEXASNDQ|
 |name|name|Package_TO_SOT_SMD : Texas_NDQ|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Texas_NDQ'</td><td> 'description'</td></tr><tr><td> 'Texas Instruments</td><td> NDQ</td><td> 5 pin (https</td></tr><tr><td>//www.ti.com/lit/ml/mmsf022/mmsf022.pdf)'</td><td> 'tags'</td></tr><tr><td> 'ti pfm dap'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_TO_SOT_SMD.3dshapes/Texas_NDQ.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

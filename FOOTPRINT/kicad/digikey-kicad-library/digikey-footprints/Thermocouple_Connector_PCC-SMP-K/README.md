@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSTHERMOCOUPLECNPCCSMPK > digikey-footprints : Thermocouple_Connector_PCC-SMP-K](#fzkicaddigikeykicadlibrarydigikeyfootprintsthermocouplecnpccsmpk--digikey-footprints--thermocouple_connector_pcc-smp-k)
+* [FZDIGIDIGIKEYFOOTPRINTSTHERMOCOUPLECNPCCSMPK > digikey-footprints : Thermocouple_Connector_PCC-SMP-K](#fzdigidigikeyfootprintsthermocouplecnpccsmpk--digikey-footprints--thermocouple_connector_pcc-smp-k)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSTHERMOCOUPLECNPCCSMPK > digikey-footprints : Thermocouple_Connector_PCC-SMP-K
+# FZDIGIDIGIKEYFOOTPRINTSTHERMOCOUPLECNPCCSMPK > digikey-footprints : Thermocouple_Connector_PCC-SMP-K
 
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Thermocouple_Connector_PCC-SMP-K
-- Hex ID: FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSTHERMOCOUPLECNPCCSMPK
+- Hex ID: FZDIGIDIGIKEYFOOTPRINTSTHERMOCOUPLECNPCCSMPK
 - Name: digikey-footprints : Thermocouple_Connector_PCC-SMP-K
 - Description: digikey-footprints : Thermocouple_Connector_PCC-SMP-K
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Thermocouple_Connector_PCC-SMP-K](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Thermocouple_Connector_PCC-SMP-K)
-- Short Link: [http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSTHERMOCOUPLECNPCCSMPK](http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSTHERMOCOUPLECNPCCSMPK)
+- Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSTHERMOCOUPLECNPCCSMPK](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSTHERMOCOUPLECNPCCSMPK)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|digikey-footprints|
 |OOMP Index|oompIndex|Thermocouple_Connector_PCC-SMP-K|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Thermocouple_Connector_PCC-SMP-K|
-|Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSTHERMOCOUPLECNPCCSMPK|
+|Hex ID (short code)|hexID|FZDIGIDIGIKEYFOOTPRINTSTHERMOCOUPLECNPCCSMPK|
 |name|name|digikey-footprints : Thermocouple_Connector_PCC-SMP-K|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Thermocouple_Connector_PCC-SMP-K'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> None</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||

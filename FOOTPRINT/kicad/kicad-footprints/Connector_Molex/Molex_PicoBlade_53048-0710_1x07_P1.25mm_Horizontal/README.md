@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKCNMXMXPICOBLADE5348711X7P125HORIZONTAL > Connector_Molex : Molex_PicoBlade_53048-0710_1x07_P1.25mm_Horizontal](#fzkcnmxmxpicoblade5348711x7p125horizontal--connector_molex--molex_picoblade_53048-0710_1x07_p125mm_horizontal)
+* [FZKCNMXMXPICOBLADE5348711X7P125H > Connector_Molex : Molex_PicoBlade_53048-0710_1x07_P1.25mm_Horizontal](#fzkcnmxmxpicoblade5348711x7p125h--connector_molex--molex_picoblade_53048-0710_1x07_p125mm_horizontal)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKCNMXMXPICOBLADE5348711X7P125HORIZONTAL > Connector_Molex : Molex_PicoBlade_53048-0710_1x07_P1.25mm_Horizontal
+# FZKCNMXMXPICOBLADE5348711X7P125H > Connector_Molex : Molex_PicoBlade_53048-0710_1x07_P1.25mm_Horizontal
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_PicoBlade_53048-0710_1x07_P1.25mm_Horizontal
-- Hex ID: FZKCNMXMXPICOBLADE5348711X7P125HORIZONTAL
+- Hex ID: FZKCNMXMXPICOBLADE5348711X7P125H
 - Name: Connector_Molex : Molex_PicoBlade_53048-0710_1x07_P1.25mm_Horizontal
 - Description: Connector_Molex : Molex_PicoBlade_53048-0710_1x07_P1.25mm_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_PicoBlade_53048-0710_1x07_P1.25mm_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_PicoBlade_53048-0710_1x07_P1.25mm_Horizontal)
-- Short Link: [http://oom.lt/FZKCNMXMXPICOBLADE5348711X7P125HORIZONTAL](http://oom.lt/FZKCNMXMXPICOBLADE5348711X7P125HORIZONTAL)
+- Short Link: [http://oom.lt/FZKCNMXMXPICOBLADE5348711X7P125H](http://oom.lt/FZKCNMXMXPICOBLADE5348711X7P125H)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Connector_Molex|
 |OOMP Index|oompIndex|Molex_PicoBlade_53048-0710_1x07_P1.25mm_Horizontal|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_PicoBlade_53048-0710_1x07_P1.25mm_Horizontal|
-|Hex ID (short code)|hexID|FZKCNMXMXPICOBLADE5348711X7P125HORIZONTAL|
+|Hex ID (short code)|hexID|FZKCNMXMXPICOBLADE5348711X7P125H|
 |name|name|Connector_Molex : Molex_PicoBlade_53048-0710_1x07_P1.25mm_Horizontal|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Molex_PicoBlade_53048-0710_1x07_P1.25mm_Horizontal'</td><td> 'description'</td></tr><tr><td> 'Molex PicoBlade Connector System</td><td> 53048-0710</td><td> 7 Pins per row (http</td></tr><tr><td>//www.molex.com/pdm_docs/sd/530480210_sd.pdf)</td><td> generated with kicad-footprint-generator'</td><td> 'tags'</td></tr><tr><td> 'connector Molex PicoBlade top entry'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_Molex.3dshapes/Molex_PicoBlade_53048-0710_1x07_P1.25mm_Horizontal.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||

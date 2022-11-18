@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKCNJAEJAELY21PDT12X5P2VERTICAL > Connector_JAE : JAE_LY20-10P-DT1_2x05_P2.00mm_Vertical](#fzkcnjaejaely21pdt12x5p2vertical--connector_jae--jae_ly20-10p-dt1_2x05_p200mm_vertical)
+* [FZKCNJAEJAELY21PDT12X5P2F > Connector_JAE : JAE_LY20-10P-DT1_2x05_P2.00mm_Vertical](#fzkcnjaejaely21pdt12x5p2f--connector_jae--jae_ly20-10p-dt1_2x05_p200mm_vertical)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKCNJAEJAELY21PDT12X5P2VERTICAL > Connector_JAE : JAE_LY20-10P-DT1_2x05_P2.00mm_Vertical
+# FZKCNJAEJAELY21PDT12X5P2F > Connector_JAE : JAE_LY20-10P-DT1_2x05_P2.00mm_Vertical
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_JAE-JAE_LY20-10P-DT1_2x05_P2.00mm_Vertical
-- Hex ID: FZKCNJAEJAELY21PDT12X5P2VERTICAL
+- Hex ID: FZKCNJAEJAELY21PDT12X5P2F
 - Name: Connector_JAE : JAE_LY20-10P-DT1_2x05_P2.00mm_Vertical
 - Description: Connector_JAE : JAE_LY20-10P-DT1_2x05_P2.00mm_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_JAE-JAE_LY20-10P-DT1_2x05_P2.00mm_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_JAE-JAE_LY20-10P-DT1_2x05_P2.00mm_Vertical)
-- Short Link: [http://oom.lt/FZKCNJAEJAELY21PDT12X5P2VERTICAL](http://oom.lt/FZKCNJAEJAELY21PDT12X5P2VERTICAL)
+- Short Link: [http://oom.lt/FZKCNJAEJAELY21PDT12X5P2F](http://oom.lt/FZKCNJAEJAELY21PDT12X5P2F)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Connector_JAE|
 |OOMP Index|oompIndex|JAE_LY20-10P-DT1_2x05_P2.00mm_Vertical|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_JAE-JAE_LY20-10P-DT1_2x05_P2.00mm_Vertical|
-|Hex ID (short code)|hexID|FZKCNJAEJAELY21PDT12X5P2VERTICAL|
+|Hex ID (short code)|hexID|FZKCNJAEJAELY21PDT12X5P2F|
 |name|name|Connector_JAE : JAE_LY20-10P-DT1_2x05_P2.00mm_Vertical|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'JAE_LY20-10P-DT1_2x05_P2.00mm_Vertical'</td><td> 'description'</td></tr><tr><td> 'Molex LY 20 series connector</td><td> LY20-10P-DT1</td><td> 5 Circuits (http</td></tr><tr><td>//www.jae.com/z-en/pdf_download_exec.cfm?param=SJ103130.pdf)</td><td> generated with kicad-footprint-generator'</td><td> 'tags'</td></tr><tr><td> 'connector JAE  side entry'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_JAE.3dshapes/JAE_LY20-10P-DT1_2x05_P2.00mm_Vertical.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||

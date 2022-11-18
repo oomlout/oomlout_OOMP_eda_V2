@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKCNJSTJSTZESM3BZESSTB1X31MPP15HORIZONTAL > Connector_JST : JST_ZE_SM03B-ZESS-TB_1x03-1MP_P1.50mm_Horizontal](#fzkcnjstjstzesm3bzesstb1x31mpp15horizontal--connector_jst--jst_ze_sm03b-zess-tb_1x03-1mp_p150mm_horizontal)
+* [FZKCNJSTJSTZESM3BZESSTB1X31MPP15H > Connector_JST : JST_ZE_SM03B-ZESS-TB_1x03-1MP_P1.50mm_Horizontal](#fzkcnjstjstzesm3bzesstb1x31mpp15h--connector_jst--jst_ze_sm03b-zess-tb_1x03-1mp_p150mm_horizontal)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKCNJSTJSTZESM3BZESSTB1X31MPP15HORIZONTAL > Connector_JST : JST_ZE_SM03B-ZESS-TB_1x03-1MP_P1.50mm_Horizontal
+# FZKCNJSTJSTZESM3BZESSTB1X31MPP15H > Connector_JST : JST_ZE_SM03B-ZESS-TB_1x03-1MP_P1.50mm_Horizontal
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_ZE_SM03B-ZESS-TB_1x03-1MP_P1.50mm_Horizontal
-- Hex ID: FZKCNJSTJSTZESM3BZESSTB1X31MPP15HORIZONTAL
+- Hex ID: FZKCNJSTJSTZESM3BZESSTB1X31MPP15H
 - Name: Connector_JST : JST_ZE_SM03B-ZESS-TB_1x03-1MP_P1.50mm_Horizontal
 - Description: Connector_JST : JST_ZE_SM03B-ZESS-TB_1x03-1MP_P1.50mm_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_ZE_SM03B-ZESS-TB_1x03-1MP_P1.50mm_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_ZE_SM03B-ZESS-TB_1x03-1MP_P1.50mm_Horizontal)
-- Short Link: [http://oom.lt/FZKCNJSTJSTZESM3BZESSTB1X31MPP15HORIZONTAL](http://oom.lt/FZKCNJSTJSTZESM3BZESSTB1X31MPP15HORIZONTAL)
+- Short Link: [http://oom.lt/FZKCNJSTJSTZESM3BZESSTB1X31MPP15H](http://oom.lt/FZKCNJSTJSTZESM3BZESSTB1X31MPP15H)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Connector_JST|
 |OOMP Index|oompIndex|JST_ZE_SM03B-ZESS-TB_1x03-1MP_P1.50mm_Horizontal|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_ZE_SM03B-ZESS-TB_1x03-1MP_P1.50mm_Horizontal|
-|Hex ID (short code)|hexID|FZKCNJSTJSTZESM3BZESSTB1X31MPP15HORIZONTAL|
+|Hex ID (short code)|hexID|FZKCNJSTJSTZESM3BZESSTB1X31MPP15H|
 |name|name|Connector_JST : JST_ZE_SM03B-ZESS-TB_1x03-1MP_P1.50mm_Horizontal|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'JST_ZE_SM03B-ZESS-TB_1x03-1MP_P1.50mm_Horizontal'</td><td> 'description'</td></tr><tr><td> 'JST ZE series connector</td><td> SM03B-ZESS-TB (http</td></tr><tr><td>//www.jst-mfg.com/product/pdf/eng/eZE.pdf)</td><td> generated with kicad-footprint-generator'</td><td> 'tags'</td></tr><tr><td> 'connector JST ZE horizontal'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_JST.3dshapes/JST_ZE_SM03B-ZESS-TB_1x03-1MP_P1.50mm_Horizontal.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||

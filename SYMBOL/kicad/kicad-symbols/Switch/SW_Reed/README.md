@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [SZKSWITCHSWREED > Switch : SW_Reed](#szkswitchswreed--switch--sw_reed)
+* [SZKSWSWREED > Switch : SW_Reed](#szkswswreed--switch--sw_reed)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# SZKSWITCHSWREED > Switch : SW_Reed
+# SZKSWSWREED > Switch : SW_Reed
 
 - ID: SYMBOL-kicad-kicad-symbols-Switch-SW_Reed
-- Hex ID: SZKSWITCHSWREED
+- Hex ID: SZKSWSWREED
 - Name: Switch : SW_Reed
 - Description: Switch : SW_Reed
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Switch-SW_Reed](http://oom.lt/SYMBOL-kicad-kicad-symbols-Switch-SW_Reed)
-- Short Link: [http://oom.lt/SZKSWITCHSWREED](http://oom.lt/SZKSWITCHSWREED)
+- Short Link: [http://oom.lt/SZKSWSWREED](http://oom.lt/SZKSWSWREED)
 
 ## Images
   
@@ -36,7 +36,7 @@ Contents
 |OOMP Description|oompDesc|Switch|
 |OOMP Index|oompIndex|SW_Reed|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Switch-SW_Reed|
-|Hex ID (short code)|hexID|SZKSWITCHSWREED|
+|Hex ID (short code)|hexID|SZKSWSWREED|
 |name|name|Switch : SW_Reed|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'SW'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'SW_Reed'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'reed magnetic switch'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'reed switch'</td></tr></table>]|
 ||||

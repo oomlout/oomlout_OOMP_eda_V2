@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSHEADJSTSHXPI4SMHSH4 > oomlout_OOMP_parts : HEAD-JSTSH-X-PI04-SM-HSH4](#fzkicadoomloutoompkicadoomloutoomppartsheadjstshxpi4smhsh4--oomlout_oomp_parts--head-jstsh-x-pi04-sm-hsh4)
+* [FZOOMPKOOMPPHEADJSTSHXPI4SMHSH4 > oomlout_OOMP_parts : HEAD-JSTSH-X-PI04-SM-HSH4](#fzoompkoomppheadjstshxpi4smhsh4--oomlout_oomp_parts--head-jstsh-x-pi04-sm-hsh4)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSHEADJSTSHXPI4SMHSH4 > oomlout_OOMP_parts : HEAD-JSTSH-X-PI04-SM-HSH4
+# FZOOMPKOOMPPHEADJSTSHXPI4SMHSH4 > oomlout_OOMP_parts : HEAD-JSTSH-X-PI04-SM-HSH4
 
 - ID: FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-JSTSH-X-PI04-SM-HSH4
-- Hex ID: FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSHEADJSTSHXPI4SMHSH4
+- Hex ID: FZOOMPKOOMPPHEADJSTSHXPI4SMHSH4
 - Name: oomlout_OOMP_parts : HEAD-JSTSH-X-PI04-SM-HSH4
 - Description: oomlout_OOMP_parts : HEAD-JSTSH-X-PI04-SM-HSH4
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-JSTSH-X-PI04-SM-HSH4](http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-JSTSH-X-PI04-SM-HSH4)
-- Short Link: [http://oom.lt/FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSHEADJSTSHXPI4SMHSH4](http://oom.lt/FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSHEADJSTSHXPI4SMHSH4)
+- Short Link: [http://oom.lt/FZOOMPKOOMPPHEADJSTSHXPI4SMHSH4](http://oom.lt/FZOOMPKOOMPPHEADJSTSHXPI4SMHSH4)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|oomlout_OOMP_parts|
 |OOMP Index|oompIndex|HEAD-JSTSH-X-PI04-SM-HSH4|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-JSTSH-X-PI04-SM-HSH4|
-|Hex ID (short code)|hexID|FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSHEADJSTSHXPI4SMHSH4|
+|Hex ID (short code)|hexID|FZOOMPKOOMPPHEADJSTSHXPI4SMHSH4|
 |name|name|oomlout_OOMP_parts : HEAD-JSTSH-X-PI04-SM-HSH4|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'HEAD-JSTSH-X-PI04-SM-HSH4'</td><td> 'description'</td></tr><tr><td> 'hexID</td></tr><tr><td> HSH4; JST SH series connector</td><td> BM04B-SRSS-TB (http</td></tr><tr><td>//www.jst-mfg.com/product/pdf/eng/eSH.pdf)</td><td> generated with kicad-footprint-generator'</td><td> 'tags'</td></tr><tr><td> 'connector JST SH side entry'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_JST.3dshapes/JST_SH_BM04B-SRSS-TB_1x04-1MP_P1.00mm_Vertical.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||

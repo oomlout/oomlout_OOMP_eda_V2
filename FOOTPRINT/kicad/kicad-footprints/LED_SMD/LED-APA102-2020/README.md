@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKLSMLAPA1222 > LED_SMD : LED-APA102-2020](#fzklsmlapa1222--led_smd--led-apa102-2020)
+* [FZKLLAPA1222 > LED_SMD : LED-APA102-2020](#fzkllapa1222--led_smd--led-apa102-2020)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKLSMLAPA1222 > LED_SMD : LED-APA102-2020
+# FZKLLAPA1222 > LED_SMD : LED-APA102-2020
 
 - ID: FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED-APA102-2020
-- Hex ID: FZKLSMLAPA1222
+- Hex ID: FZKLLAPA1222
 - Name: LED_SMD : LED-APA102-2020
 - Description: LED_SMD : LED-APA102-2020
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED-APA102-2020](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED-APA102-2020)
-- Short Link: [http://oom.lt/FZKLSMLAPA1222](http://oom.lt/FZKLSMLAPA1222)
+- Short Link: [http://oom.lt/FZKLLAPA1222](http://oom.lt/FZKLLAPA1222)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|LED_SMD|
 |OOMP Index|oompIndex|LED-APA102-2020|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED-APA102-2020|
-|Hex ID (short code)|hexID|FZKLSMLAPA1222|
+|Hex ID (short code)|hexID|FZKLLAPA1222|
 |name|name|LED_SMD : LED-APA102-2020|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'LED-APA102-2020'</td><td> 'description'</td></tr><tr><td> 'http</td></tr><tr><td>//www.led-color.com/upload/201604/APA102-2020%20SMD%20LED.pdf'</td><td> 'tags'</td></tr><tr><td> 'LED RGB SPI'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/LED_SMD.3dshapes/LED-APA102-2020.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

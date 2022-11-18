@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKCNFFCFPCMX541325331X51MPP5HORIZONTAL > Connector_FFC-FPC : Molex_54132-5033_1x50-1MP_P0.5mm_Horizontal](#fzkcnffcfpcmx541325331x51mpp5horizontal--connector_ffc-fpc--molex_54132-5033_1x50-1mp_p05mm_horizontal)
+* [FZKCNFFCFPCMX541325331X51MPP5H > Connector_FFC-FPC : Molex_54132-5033_1x50-1MP_P0.5mm_Horizontal](#fzkcnffcfpcmx541325331x51mpp5h--connector_ffc-fpc--molex_54132-5033_1x50-1mp_p05mm_horizontal)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKCNFFCFPCMX541325331X51MPP5HORIZONTAL > Connector_FFC-FPC : Molex_54132-5033_1x50-1MP_P0.5mm_Horizontal
+# FZKCNFFCFPCMX541325331X51MPP5H > Connector_FFC-FPC : Molex_54132-5033_1x50-1MP_P0.5mm_Horizontal
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_FFC-FPC-Molex_54132-5033_1x50-1MP_P0.5mm_Horizontal
-- Hex ID: FZKCNFFCFPCMX541325331X51MPP5HORIZONTAL
+- Hex ID: FZKCNFFCFPCMX541325331X51MPP5H
 - Name: Connector_FFC-FPC : Molex_54132-5033_1x50-1MP_P0.5mm_Horizontal
 - Description: Connector_FFC-FPC : Molex_54132-5033_1x50-1MP_P0.5mm_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_FFC-FPC-Molex_54132-5033_1x50-1MP_P0.5mm_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_FFC-FPC-Molex_54132-5033_1x50-1MP_P0.5mm_Horizontal)
-- Short Link: [http://oom.lt/FZKCNFFCFPCMX541325331X51MPP5HORIZONTAL](http://oom.lt/FZKCNFFCFPCMX541325331X51MPP5HORIZONTAL)
+- Short Link: [http://oom.lt/FZKCNFFCFPCMX541325331X51MPP5H](http://oom.lt/FZKCNFFCFPCMX541325331X51MPP5H)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Connector_FFC-FPC|
 |OOMP Index|oompIndex|Molex_54132-5033_1x50-1MP_P0.5mm_Horizontal|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_FFC-FPC-Molex_54132-5033_1x50-1MP_P0.5mm_Horizontal|
-|Hex ID (short code)|hexID|FZKCNFFCFPCMX541325331X51MPP5HORIZONTAL|
+|Hex ID (short code)|hexID|FZKCNFFCFPCMX541325331X51MPP5H|
 |name|name|Connector_FFC-FPC : Molex_54132-5033_1x50-1MP_P0.5mm_Horizontal|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Molex_54132-5033_1x50-1MP_P0.5mm_Horizontal'</td><td> 'description'</td></tr><tr><td> 'Molex FFC/FPC connector</td><td> 50 bottom-side contacts</td><td> 0.5mm pitch</td><td> 2.0mm height</td><td> https</td></tr><tr><td>//www.molex.com/pdm_docs/sd/541325033_sd.pdf'</td><td> 'tags'</td></tr><tr><td> 'FFC FPC'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_FFC-FPC.3dshapes/Molex_54132-5033_1x50-1MP_P0.5mm_Horizontal.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

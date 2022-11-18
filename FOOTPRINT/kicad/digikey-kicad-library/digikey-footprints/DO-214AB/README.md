@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSDO214AB > digikey-footprints : DO-214AB](#fzkicaddigikeykicadlibrarydigikeyfootprintsdo214ab--digikey-footprints--do-214ab)
+* [FZDIGIDIGIKEYFOOTPRINTSDO214AB > digikey-footprints : DO-214AB](#fzdigidigikeyfootprintsdo214ab--digikey-footprints--do-214ab)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSDO214AB > digikey-footprints : DO-214AB
+# FZDIGIDIGIKEYFOOTPRINTSDO214AB > digikey-footprints : DO-214AB
 
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-DO-214AB
-- Hex ID: FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSDO214AB
+- Hex ID: FZDIGIDIGIKEYFOOTPRINTSDO214AB
 - Name: digikey-footprints : DO-214AB
 - Description: digikey-footprints : DO-214AB
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-DO-214AB](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-DO-214AB)
-- Short Link: [http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSDO214AB](http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSDO214AB)
+- Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSDO214AB](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSDO214AB)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|digikey-footprints|
 |OOMP Index|oompIndex|DO-214AB|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-DO-214AB|
-|Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSDO214AB|
+|Hex ID (short code)|hexID|FZDIGIDIGIKEYFOOTPRINTSDO214AB|
 |name|name|digikey-footprints : DO-214AB|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'DO-214AB'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

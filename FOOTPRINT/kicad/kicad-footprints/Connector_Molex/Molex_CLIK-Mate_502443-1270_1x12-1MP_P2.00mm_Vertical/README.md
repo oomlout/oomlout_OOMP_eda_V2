@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKCNMXMXCLIKMATE524431271X121MPP2VERTICAL > Connector_Molex : Molex_CLIK-Mate_502443-1270_1x12-1MP_P2.00mm_Vertical](#fzkcnmxmxclikmate524431271x121mpp2vertical--connector_molex--molex_clik-mate_502443-1270_1x12-1mp_p200mm_vertical)
+* [FZKCNMXMXCLIKMATE524431271X121MPP2F > Connector_Molex : Molex_CLIK-Mate_502443-1270_1x12-1MP_P2.00mm_Vertical](#fzkcnmxmxclikmate524431271x121mpp2f--connector_molex--molex_clik-mate_502443-1270_1x12-1mp_p200mm_vertical)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKCNMXMXCLIKMATE524431271X121MPP2VERTICAL > Connector_Molex : Molex_CLIK-Mate_502443-1270_1x12-1MP_P2.00mm_Vertical
+# FZKCNMXMXCLIKMATE524431271X121MPP2F > Connector_Molex : Molex_CLIK-Mate_502443-1270_1x12-1MP_P2.00mm_Vertical
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_CLIK-Mate_502443-1270_1x12-1MP_P2.00mm_Vertical
-- Hex ID: FZKCNMXMXCLIKMATE524431271X121MPP2VERTICAL
+- Hex ID: FZKCNMXMXCLIKMATE524431271X121MPP2F
 - Name: Connector_Molex : Molex_CLIK-Mate_502443-1270_1x12-1MP_P2.00mm_Vertical
 - Description: Connector_Molex : Molex_CLIK-Mate_502443-1270_1x12-1MP_P2.00mm_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_CLIK-Mate_502443-1270_1x12-1MP_P2.00mm_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_CLIK-Mate_502443-1270_1x12-1MP_P2.00mm_Vertical)
-- Short Link: [http://oom.lt/FZKCNMXMXCLIKMATE524431271X121MPP2VERTICAL](http://oom.lt/FZKCNMXMXCLIKMATE524431271X121MPP2VERTICAL)
+- Short Link: [http://oom.lt/FZKCNMXMXCLIKMATE524431271X121MPP2F](http://oom.lt/FZKCNMXMXCLIKMATE524431271X121MPP2F)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Connector_Molex|
 |OOMP Index|oompIndex|Molex_CLIK-Mate_502443-1270_1x12-1MP_P2.00mm_Vertical|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_CLIK-Mate_502443-1270_1x12-1MP_P2.00mm_Vertical|
-|Hex ID (short code)|hexID|FZKCNMXMXCLIKMATE524431271X121MPP2VERTICAL|
+|Hex ID (short code)|hexID|FZKCNMXMXCLIKMATE524431271X121MPP2F|
 |name|name|Connector_Molex : Molex_CLIK-Mate_502443-1270_1x12-1MP_P2.00mm_Vertical|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Molex_CLIK-Mate_502443-1270_1x12-1MP_P2.00mm_Vertical'</td><td> 'description'</td></tr><tr><td> 'Molex CLIK-Mate series connector</td><td> 502443-1270 (http</td></tr><tr><td>//www.molex.com/pdm_docs/sd/5024430270_sd.pdf)</td><td> generated with kicad-footprint-generator'</td><td> 'tags'</td></tr><tr><td> 'connector Molex CLIK-Mate side entry'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_Molex.3dshapes/Molex_CLIK-Mate_502443-1270_1x12-1MP_P2.00mm_Vertical.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||

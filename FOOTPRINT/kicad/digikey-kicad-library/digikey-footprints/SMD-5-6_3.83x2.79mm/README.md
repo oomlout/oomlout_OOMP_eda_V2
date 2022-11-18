@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSM56383X279 > digikey-footprints : SMD-5-6_3.83x2.79mm](#fzkicaddigikeykicadlibrarydigikeyfootprintssm56383x279--digikey-footprints--smd-5-6_383x279mm)
+* [FZDIGIDIGIKEYFOOTPRINTSSM56383X279 > digikey-footprints : SMD-5-6_3.83x2.79mm](#fzdigidigikeyfootprintssm56383x279--digikey-footprints--smd-5-6_383x279mm)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSM56383X279 > digikey-footprints : SMD-5-6_3.83x2.79mm
+# FZDIGIDIGIKEYFOOTPRINTSSM56383X279 > digikey-footprints : SMD-5-6_3.83x2.79mm
 
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SMD-5-6_3.83x2.79mm
-- Hex ID: FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSM56383X279
+- Hex ID: FZDIGIDIGIKEYFOOTPRINTSSM56383X279
 - Name: digikey-footprints : SMD-5-6_3.83x2.79mm
 - Description: digikey-footprints : SMD-5-6_3.83x2.79mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SMD-5-6_3.83x2.79mm](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SMD-5-6_3.83x2.79mm)
-- Short Link: [http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSM56383X279](http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSM56383X279)
+- Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSSM56383X279](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSSM56383X279)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|digikey-footprints|
 |OOMP Index|oompIndex|SMD-5-6_3.83x2.79mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SMD-5-6_3.83x2.79mm|
-|Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSM56383X279|
+|Hex ID (short code)|hexID|FZDIGIDIGIKEYFOOTPRINTSSM56383X279|
 |name|name|digikey-footprints : SMD-5-6_3.83x2.79mm|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'SMD-5-6_3.83x2.79mm'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

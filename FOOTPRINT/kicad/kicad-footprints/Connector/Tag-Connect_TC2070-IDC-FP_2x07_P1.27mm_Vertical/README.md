@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKCNTAGCONNECTTC27IDCFP2X7P127VERTICAL > Connector : Tag-Connect_TC2070-IDC-FP_2x07_P1.27mm_Vertical](#fzkcntagconnecttc27idcfp2x7p127vertical--connector--tag-connect_tc2070-idc-fp_2x07_p127mm_vertical)
+* [FZKCNTAGCONNECTTC27IDCFP2X7P127F > Connector : Tag-Connect_TC2070-IDC-FP_2x07_P1.27mm_Vertical](#fzkcntagconnecttc27idcfp2x7p127f--connector--tag-connect_tc2070-idc-fp_2x07_p127mm_vertical)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKCNTAGCONNECTTC27IDCFP2X7P127VERTICAL > Connector : Tag-Connect_TC2070-IDC-FP_2x07_P1.27mm_Vertical
+# FZKCNTAGCONNECTTC27IDCFP2X7P127F > Connector : Tag-Connect_TC2070-IDC-FP_2x07_P1.27mm_Vertical
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector-Tag-Connect_TC2070-IDC-FP_2x07_P1.27mm_Vertical
-- Hex ID: FZKCNTAGCONNECTTC27IDCFP2X7P127VERTICAL
+- Hex ID: FZKCNTAGCONNECTTC27IDCFP2X7P127F
 - Name: Connector : Tag-Connect_TC2070-IDC-FP_2x07_P1.27mm_Vertical
 - Description: Connector : Tag-Connect_TC2070-IDC-FP_2x07_P1.27mm_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector-Tag-Connect_TC2070-IDC-FP_2x07_P1.27mm_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector-Tag-Connect_TC2070-IDC-FP_2x07_P1.27mm_Vertical)
-- Short Link: [http://oom.lt/FZKCNTAGCONNECTTC27IDCFP2X7P127VERTICAL](http://oom.lt/FZKCNTAGCONNECTTC27IDCFP2X7P127VERTICAL)
+- Short Link: [http://oom.lt/FZKCNTAGCONNECTTC27IDCFP2X7P127F](http://oom.lt/FZKCNTAGCONNECTTC27IDCFP2X7P127F)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Connector|
 |OOMP Index|oompIndex|Tag-Connect_TC2070-IDC-FP_2x07_P1.27mm_Vertical|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector-Tag-Connect_TC2070-IDC-FP_2x07_P1.27mm_Vertical|
-|Hex ID (short code)|hexID|FZKCNTAGCONNECTTC27IDCFP2X7P127VERTICAL|
+|Hex ID (short code)|hexID|FZKCNTAGCONNECTTC27IDCFP2X7P127F|
 |name|name|Connector : Tag-Connect_TC2070-IDC-FP_2x07_P1.27mm_Vertical|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Tag-Connect_TC2070-IDC-FP_2x07_P1.27mm_Vertical'</td><td> 'description'</td></tr><tr><td> 'Tag-Connect programming header; http</td></tr><tr><td>//www.tag-connect.com/Materials/TC2070-IDC%20Datasheet.pdf'</td><td> 'tags'</td></tr><tr><td> 'tag connect programming header pogo pins'</td><td> 'attributeType'</td></tr><tr><td> None</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'np_thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||

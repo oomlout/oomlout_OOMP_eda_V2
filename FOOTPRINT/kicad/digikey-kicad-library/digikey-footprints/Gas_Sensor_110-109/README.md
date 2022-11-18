@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSGASSEN1119 > digikey-footprints : Gas_Sensor_110-109](#fzkicaddigikeykicadlibrarydigikeyfootprintsgassen1119--digikey-footprints--gas_sensor_110-109)
+* [FZDIGIDIGIKEYFOOTPRINTSGASSEN1119 > digikey-footprints : Gas_Sensor_110-109](#fzdigidigikeyfootprintsgassen1119--digikey-footprints--gas_sensor_110-109)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSGASSEN1119 > digikey-footprints : Gas_Sensor_110-109
+# FZDIGIDIGIKEYFOOTPRINTSGASSEN1119 > digikey-footprints : Gas_Sensor_110-109
 
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Gas_Sensor_110-109
-- Hex ID: FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSGASSEN1119
+- Hex ID: FZDIGIDIGIKEYFOOTPRINTSGASSEN1119
 - Name: digikey-footprints : Gas_Sensor_110-109
 - Description: digikey-footprints : Gas_Sensor_110-109
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Gas_Sensor_110-109](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Gas_Sensor_110-109)
-- Short Link: [http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSGASSEN1119](http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSGASSEN1119)
+- Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSGASSEN1119](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSGASSEN1119)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|digikey-footprints|
 |OOMP Index|oompIndex|Gas_Sensor_110-109|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Gas_Sensor_110-109|
-|Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSGASSEN1119|
+|Hex ID (short code)|hexID|FZDIGIDIGIKEYFOOTPRINTSGASSEN1119|
 |name|name|digikey-footprints : Gas_Sensor_110-109|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Gas_Sensor_110-109'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

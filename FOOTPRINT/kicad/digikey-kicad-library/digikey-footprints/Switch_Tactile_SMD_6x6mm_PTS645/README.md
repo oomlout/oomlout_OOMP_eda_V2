@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSWITCHTACTILESM6X6PTS645 > digikey-footprints : Switch_Tactile_SMD_6x6mm_PTS645](#fzkicaddigikeykicadlibrarydigikeyfootprintsswitchtactilesm6x6pts645--digikey-footprints--switch_tactile_smd_6x6mm_pts645)
+* [FZDIGIDIGIKEYFOOTPRINTSSWTSM6X6PTS645 > digikey-footprints : Switch_Tactile_SMD_6x6mm_PTS645](#fzdigidigikeyfootprintsswtsm6x6pts645--digikey-footprints--switch_tactile_smd_6x6mm_pts645)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSWITCHTACTILESM6X6PTS645 > digikey-footprints : Switch_Tactile_SMD_6x6mm_PTS645
+# FZDIGIDIGIKEYFOOTPRINTSSWTSM6X6PTS645 > digikey-footprints : Switch_Tactile_SMD_6x6mm_PTS645
 
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Switch_Tactile_SMD_6x6mm_PTS645
-- Hex ID: FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSWITCHTACTILESM6X6PTS645
+- Hex ID: FZDIGIDIGIKEYFOOTPRINTSSWTSM6X6PTS645
 - Name: digikey-footprints : Switch_Tactile_SMD_6x6mm_PTS645
 - Description: digikey-footprints : Switch_Tactile_SMD_6x6mm_PTS645
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Switch_Tactile_SMD_6x6mm_PTS645](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Switch_Tactile_SMD_6x6mm_PTS645)
-- Short Link: [http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSWITCHTACTILESM6X6PTS645](http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSWITCHTACTILESM6X6PTS645)
+- Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSSWTSM6X6PTS645](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSSWTSM6X6PTS645)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|digikey-footprints|
 |OOMP Index|oompIndex|Switch_Tactile_SMD_6x6mm_PTS645|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Switch_Tactile_SMD_6x6mm_PTS645|
-|Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSWITCHTACTILESM6X6PTS645|
+|Hex ID (short code)|hexID|FZDIGIDIGIKEYFOOTPRINTSSWTSM6X6PTS645|
 |name|name|digikey-footprints : Switch_Tactile_SMD_6x6mm_PTS645|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Switch_Tactile_SMD_6x6mm_PTS645'</td><td> 'description'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ckswitches.com/media/1471/pts645.pdf'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

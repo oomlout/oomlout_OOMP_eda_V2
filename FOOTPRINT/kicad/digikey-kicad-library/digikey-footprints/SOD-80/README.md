@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSOD8 > digikey-footprints : SOD-80](#fzkicaddigikeykicadlibrarydigikeyfootprintssod8--digikey-footprints--sod-80)
+* [FZDIGIDIGIKEYFOOTPRINTSSOD8 > digikey-footprints : SOD-80](#fzdigidigikeyfootprintssod8--digikey-footprints--sod-80)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSOD8 > digikey-footprints : SOD-80
+# FZDIGIDIGIKEYFOOTPRINTSSOD8 > digikey-footprints : SOD-80
 
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SOD-80
-- Hex ID: FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSOD8
+- Hex ID: FZDIGIDIGIKEYFOOTPRINTSSOD8
 - Name: digikey-footprints : SOD-80
 - Description: digikey-footprints : SOD-80
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SOD-80](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SOD-80)
-- Short Link: [http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSOD8](http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSOD8)
+- Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSSOD8](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSSOD8)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|digikey-footprints|
 |OOMP Index|oompIndex|SOD-80|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SOD-80|
-|Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSOD8|
+|Hex ID (short code)|hexID|FZDIGIDIGIKEYFOOTPRINTSSOD8|
 |name|name|digikey-footprints : SOD-80|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'SOD-80'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

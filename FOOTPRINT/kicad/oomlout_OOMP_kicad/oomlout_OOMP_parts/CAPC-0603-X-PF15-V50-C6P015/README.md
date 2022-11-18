@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSCAPC63XPF15V5C6P15 > oomlout_OOMP_parts : CAPC-0603-X-PF15-V50-C6P015](#fzkicadoomloutoompkicadoomloutoomppartscapc63xpf15v5c6p15--oomlout_oomp_parts--capc-0603-x-pf15-v50-c6p015)
+* [FZOOMPKOOMPPCAPC63XPF15V5C6P15 > oomlout_OOMP_parts : CAPC-0603-X-PF15-V50-C6P015](#fzoompkoomppcapc63xpf15v5c6p15--oomlout_oomp_parts--capc-0603-x-pf15-v50-c6p015)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSCAPC63XPF15V5C6P15 > oomlout_OOMP_parts : CAPC-0603-X-PF15-V50-C6P015
+# FZOOMPKOOMPPCAPC63XPF15V5C6P15 > oomlout_OOMP_parts : CAPC-0603-X-PF15-V50-C6P015
 
 - ID: FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0603-X-PF15-V50-C6P015
-- Hex ID: FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSCAPC63XPF15V5C6P15
+- Hex ID: FZOOMPKOOMPPCAPC63XPF15V5C6P15
 - Name: oomlout_OOMP_parts : CAPC-0603-X-PF15-V50-C6P015
 - Description: oomlout_OOMP_parts : CAPC-0603-X-PF15-V50-C6P015
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0603-X-PF15-V50-C6P015](http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0603-X-PF15-V50-C6P015)
-- Short Link: [http://oom.lt/FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSCAPC63XPF15V5C6P15](http://oom.lt/FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSCAPC63XPF15V5C6P15)
+- Short Link: [http://oom.lt/FZOOMPKOOMPPCAPC63XPF15V5C6P15](http://oom.lt/FZOOMPKOOMPPCAPC63XPF15V5C6P15)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|oomlout_OOMP_parts|
 |OOMP Index|oompIndex|CAPC-0603-X-PF15-V50-C6P015|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0603-X-PF15-V50-C6P015|
-|Hex ID (short code)|hexID|FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSCAPC63XPF15V5C6P15|
+|Hex ID (short code)|hexID|FZOOMPKOOMPPCAPC63XPF15V5C6P15|
 |name|name|oomlout_OOMP_parts : CAPC-0603-X-PF15-V50-C6P015|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'CAPC-0603-X-PF15-V50-C6P015'</td><td> 'description'</td></tr><tr><td> 'hexID</td></tr><tr><td> C6P015; Capacitor SMD 0603 (1608 Metric)</td><td> square (rectangular) end terminal</td><td> IPC_7351 nominal</td><td> (Body size source</td></tr><tr><td> IPC-SM-782 page 76</td><td> https</td></tr><tr><td>//www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)</td><td> generated with kicad-footprint-generator'</td><td> 'tags'</td></tr><tr><td> 'capacitor'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Capacitor_SMD.3dshapes/C_0603_1608Metric.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||

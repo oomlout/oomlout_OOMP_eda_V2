@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKCNJSTJSTSURBM15BSURSTF1X151MPP8VERTICAL > Connector_JST : JST_SUR_BM15B-SURS-TF_1x15-1MP_P0.80mm_Vertical](#fzkcnjstjstsurbm15bsurstf1x151mpp8vertical--connector_jst--jst_sur_bm15b-surs-tf_1x15-1mp_p080mm_vertical)
+* [FZKCNJSTJSTSURBM15BSURSTF1X151MPP8F > Connector_JST : JST_SUR_BM15B-SURS-TF_1x15-1MP_P0.80mm_Vertical](#fzkcnjstjstsurbm15bsurstf1x151mpp8f--connector_jst--jst_sur_bm15b-surs-tf_1x15-1mp_p080mm_vertical)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKCNJSTJSTSURBM15BSURSTF1X151MPP8VERTICAL > Connector_JST : JST_SUR_BM15B-SURS-TF_1x15-1MP_P0.80mm_Vertical
+# FZKCNJSTJSTSURBM15BSURSTF1X151MPP8F > Connector_JST : JST_SUR_BM15B-SURS-TF_1x15-1MP_P0.80mm_Vertical
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_SUR_BM15B-SURS-TF_1x15-1MP_P0.80mm_Vertical
-- Hex ID: FZKCNJSTJSTSURBM15BSURSTF1X151MPP8VERTICAL
+- Hex ID: FZKCNJSTJSTSURBM15BSURSTF1X151MPP8F
 - Name: Connector_JST : JST_SUR_BM15B-SURS-TF_1x15-1MP_P0.80mm_Vertical
 - Description: Connector_JST : JST_SUR_BM15B-SURS-TF_1x15-1MP_P0.80mm_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_SUR_BM15B-SURS-TF_1x15-1MP_P0.80mm_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_SUR_BM15B-SURS-TF_1x15-1MP_P0.80mm_Vertical)
-- Short Link: [http://oom.lt/FZKCNJSTJSTSURBM15BSURSTF1X151MPP8VERTICAL](http://oom.lt/FZKCNJSTJSTSURBM15BSURSTF1X151MPP8VERTICAL)
+- Short Link: [http://oom.lt/FZKCNJSTJSTSURBM15BSURSTF1X151MPP8F](http://oom.lt/FZKCNJSTJSTSURBM15BSURSTF1X151MPP8F)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Connector_JST|
 |OOMP Index|oompIndex|JST_SUR_BM15B-SURS-TF_1x15-1MP_P0.80mm_Vertical|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_SUR_BM15B-SURS-TF_1x15-1MP_P0.80mm_Vertical|
-|Hex ID (short code)|hexID|FZKCNJSTJSTSURBM15BSURSTF1X151MPP8VERTICAL|
+|Hex ID (short code)|hexID|FZKCNJSTJSTSURBM15BSURSTF1X151MPP8F|
 |name|name|Connector_JST : JST_SUR_BM15B-SURS-TF_1x15-1MP_P0.80mm_Vertical|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'JST_SUR_BM15B-SURS-TF_1x15-1MP_P0.80mm_Vertical'</td><td> 'description'</td></tr><tr><td> 'JST SUR series connector</td><td> BM15B-SURS-TF (http</td></tr><tr><td>//www.jst-mfg.com/product/pdf/eng/eSUR.pdf)</td><td> generated with kicad-footprint-generator'</td><td> 'tags'</td></tr><tr><td> 'connector JST SUR side entry'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_JST.3dshapes/JST_SUR_BM15B-SURS-TF_1x15-1MP_P0.80mm_Vertical.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||

@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKXXROUNDD2VERTICAL > Crystal : Crystal_Round_D2.0mm_Vertical](#fzkxxroundd2vertical--crystal--crystal_round_d20mm_vertical)
+* [FZKXXROUNDD2F > Crystal : Crystal_Round_D2.0mm_Vertical](#fzkxxroundd2f--crystal--crystal_round_d20mm_vertical)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKXXROUNDD2VERTICAL > Crystal : Crystal_Round_D2.0mm_Vertical
+# FZKXXROUNDD2F > Crystal : Crystal_Round_D2.0mm_Vertical
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_Round_D2.0mm_Vertical
-- Hex ID: FZKXXROUNDD2VERTICAL
+- Hex ID: FZKXXROUNDD2F
 - Name: Crystal : Crystal_Round_D2.0mm_Vertical
 - Description: Crystal : Crystal_Round_D2.0mm_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_Round_D2.0mm_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_Round_D2.0mm_Vertical)
-- Short Link: [http://oom.lt/FZKXXROUNDD2VERTICAL](http://oom.lt/FZKXXROUNDD2VERTICAL)
+- Short Link: [http://oom.lt/FZKXXROUNDD2F](http://oom.lt/FZKXXROUNDD2F)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Crystal|
 |OOMP Index|oompIndex|Crystal_Round_D2.0mm_Vertical|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_Round_D2.0mm_Vertical|
-|Hex ID (short code)|hexID|FZKXXROUNDD2VERTICAL|
+|Hex ID (short code)|hexID|FZKXXROUNDD2F|
 |name|name|Crystal : Crystal_Round_D2.0mm_Vertical|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Crystal_Round_D2.0mm_Vertical'</td><td> 'description'</td></tr><tr><td> 'Crystal THT DS26 6.0mm length 2.0mm diameter http</td></tr><tr><td>//www.microcrystal.com/images/_Product-Documentation/03_TF_metal_Packages/01_Datasheet/DS-Series.pdf'</td><td> 'tags'</td></tr><tr><td> "['DS26']"</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Crystal.3dshapes/Crystal_Round_D2.0mm_Vertical.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||

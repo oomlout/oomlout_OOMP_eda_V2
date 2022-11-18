@@ -5,18 +5,18 @@
 Contents
 ========
 
-* [FZSWREEDSWITCHPLASTIC > SparkFun-Switches : REED_SWITCH_PLASTIC](#fzswreedswitchplastic--sparkfun-switches--reed_switch_plastic)
+* [FZSWREEDSWPLASTIC > SparkFun-Switches : REED_SWITCH_PLASTIC](#fzswreedswplastic--sparkfun-switches--reed_switch_plastic)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZSWREEDSWITCHPLASTIC > SparkFun-Switches : REED_SWITCH_PLASTIC
+# FZSWREEDSWPLASTIC > SparkFun-Switches : REED_SWITCH_PLASTIC
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Switches-REED_SWITCH_PLASTIC
-- Hex ID: FZSWREEDSWITCHPLASTIC
+- Hex ID: FZSWREEDSWPLASTIC
 - Name: SparkFun-Switches : REED_SWITCH_PLASTIC
 - Description: SparkFun-Switches : REED_SWITCH_PLASTIC
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Switches-REED_SWITCH_PLASTIC](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Switches-REED_SWITCH_PLASTIC)
-- Short Link: [http://oom.lt/FZSWREEDSWITCHPLASTIC](http://oom.lt/FZSWREEDSWITCHPLASTIC)
+- Short Link: [http://oom.lt/FZSWREEDSWPLASTIC](http://oom.lt/FZSWREEDSWPLASTIC)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +30,6 @@ NO IMAGES
 |OOMP Description|oompDesc|SparkFun-Switches|
 |OOMP Index|oompIndex|REED_SWITCH_PLASTIC|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Switches-REED_SWITCH_PLASTIC|
-|Hex ID (short code)|hexID|FZSWREEDSWITCHPLASTIC|
+|Hex ID (short code)|hexID|FZSWREEDSWPLASTIC|
 |name|name|SparkFun-Switches : REED_SWITCH_PLASTIC|
 ||||

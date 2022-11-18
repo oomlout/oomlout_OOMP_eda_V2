@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKLSMLSK6812PLCC45X5P32 > LED_SMD : LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm](#fzklsmlsk6812plcc45x5p32--led_smd--led_sk6812_plcc4_50x50mm_p32mm)
+* [FZKLLSK6812PLCC45X5P32 > LED_SMD : LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm](#fzkllsk6812plcc45x5p32--led_smd--led_sk6812_plcc4_50x50mm_p32mm)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKLSMLSK6812PLCC45X5P32 > LED_SMD : LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm
+# FZKLLSK6812PLCC45X5P32 > LED_SMD : LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm
 
 - ID: FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm
-- Hex ID: FZKLSMLSK6812PLCC45X5P32
+- Hex ID: FZKLLSK6812PLCC45X5P32
 - Name: LED_SMD : LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm
 - Description: LED_SMD : LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm)
-- Short Link: [http://oom.lt/FZKLSMLSK6812PLCC45X5P32](http://oom.lt/FZKLSMLSK6812PLCC45X5P32)
+- Short Link: [http://oom.lt/FZKLLSK6812PLCC45X5P32](http://oom.lt/FZKLLSK6812PLCC45X5P32)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|LED_SMD|
 |OOMP Index|oompIndex|LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm|
-|Hex ID (short code)|hexID|FZKLSMLSK6812PLCC45X5P32|
+|Hex ID (short code)|hexID|FZKLLSK6812PLCC45X5P32|
 |name|name|LED_SMD : LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm'</td><td> 'description'</td></tr><tr><td> 'https</td></tr><tr><td>//cdn-shop.adafruit.com/product-files/1138/SK6812+LED+datasheet+.pdf'</td><td> 'tags'</td></tr><tr><td> 'LED RGB NeoPixel'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/LED_SMD.3dshapes/LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [SZKREGULATORSWITCHINGLNK362P > Regulator_Switching : LNK362P](#szkregulatorswitchinglnk362p--regulator_switching--lnk362p)
+* [SZKREGULATORSWINGLNK362P > Regulator_Switching : LNK362P](#szkregulatorswinglnk362p--regulator_switching--lnk362p)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# SZKREGULATORSWITCHINGLNK362P > Regulator_Switching : LNK362P
+# SZKREGULATORSWINGLNK362P > Regulator_Switching : LNK362P
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-LNK362P
-- Hex ID: SZKREGULATORSWITCHINGLNK362P
+- Hex ID: SZKREGULATORSWINGLNK362P
 - Name: Regulator_Switching : LNK362P
 - Description: Regulator_Switching : LNK362P
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LNK362P](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LNK362P)
-- Short Link: [http://oom.lt/SZKREGULATORSWITCHINGLNK362P](http://oom.lt/SZKREGULATORSWITCHINGLNK362P)
+- Short Link: [http://oom.lt/SZKREGULATORSWINGLNK362P](http://oom.lt/SZKREGULATORSWINGLNK362P)
 
 ## Images
   
@@ -36,7 +36,7 @@ Contents
 |OOMP Description|oompDesc|Regulator_Switching|
 |OOMP Index|oompIndex|LNK362P|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-LNK362P|
-|Hex ID (short code)|hexID|SZKREGULATORSWITCHINGLNK362P|
+|Hex ID (short code)|hexID|SZKREGULATORSWINGLNK362P|
 |name|name|Regulator_Switching : LNK362P|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LNK362P'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DIP</td></tr><tr><td>PowerIntegrations_PDIP-8B'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.powerint.com/sites/default/files/product-docs/lnk362-364.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Energy Effi cient</td><td> Low Power Off-Line Switcher IC'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'LinkSwitch-XT Family</td><td> 2.6W Output Power</td><td> DIP-8B'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'PowerIntegrations?PDIP?8B*'</td></tr></table>]|
 ||||

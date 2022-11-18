@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKCNAUDIOJ35CUISJ13535NGHORIZONTAL > Connector_Audio : Jack_3.5mm_CUI_SJ1-3535NG_Horizontal](#fzkcnaudioj35cuisj13535nghorizontal--connector_audio--jack_35mm_cui_sj1-3535ng_horizontal)
+* [FZKCNAUDIOJ35CUISJ13535NGH > Connector_Audio : Jack_3.5mm_CUI_SJ1-3535NG_Horizontal](#fzkcnaudioj35cuisj13535ngh--connector_audio--jack_35mm_cui_sj1-3535ng_horizontal)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKCNAUDIOJ35CUISJ13535NGHORIZONTAL > Connector_Audio : Jack_3.5mm_CUI_SJ1-3535NG_Horizontal
+# FZKCNAUDIOJ35CUISJ13535NGH > Connector_Audio : Jack_3.5mm_CUI_SJ1-3535NG_Horizontal
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_Audio-Jack_3.5mm_CUI_SJ1-3535NG_Horizontal
-- Hex ID: FZKCNAUDIOJ35CUISJ13535NGHORIZONTAL
+- Hex ID: FZKCNAUDIOJ35CUISJ13535NGH
 - Name: Connector_Audio : Jack_3.5mm_CUI_SJ1-3535NG_Horizontal
 - Description: Connector_Audio : Jack_3.5mm_CUI_SJ1-3535NG_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Audio-Jack_3.5mm_CUI_SJ1-3535NG_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Audio-Jack_3.5mm_CUI_SJ1-3535NG_Horizontal)
-- Short Link: [http://oom.lt/FZKCNAUDIOJ35CUISJ13535NGHORIZONTAL](http://oom.lt/FZKCNAUDIOJ35CUISJ13535NGHORIZONTAL)
+- Short Link: [http://oom.lt/FZKCNAUDIOJ35CUISJ13535NGH](http://oom.lt/FZKCNAUDIOJ35CUISJ13535NGH)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Connector_Audio|
 |OOMP Index|oompIndex|Jack_3.5mm_CUI_SJ1-3535NG_Horizontal|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Audio-Jack_3.5mm_CUI_SJ1-3535NG_Horizontal|
-|Hex ID (short code)|hexID|FZKCNAUDIOJ35CUISJ13535NGHORIZONTAL|
+|Hex ID (short code)|hexID|FZKCNAUDIOJ35CUISJ13535NGH|
 |name|name|Connector_Audio : Jack_3.5mm_CUI_SJ1-3535NG_Horizontal|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Jack_3.5mm_CUI_SJ1-3535NG_Horizontal'</td><td> 'description'</td></tr><tr><td> 'TRS 3.5mm</td><td> horizontal</td><td> through-hole</td><td> with switch</td><td> https</td></tr><tr><td>//www.cui.com/product/resource/sj1-353xng.pdf'</td><td> 'tags'</td></tr><tr><td> 'TRS audio jack stereo horizontal'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_Audio.3dshapes/Jack_3.5mm_CUI_SJ1-3535NG_Horizontal.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'oval'</td></tr></table></td></tr></table>|
 ||||

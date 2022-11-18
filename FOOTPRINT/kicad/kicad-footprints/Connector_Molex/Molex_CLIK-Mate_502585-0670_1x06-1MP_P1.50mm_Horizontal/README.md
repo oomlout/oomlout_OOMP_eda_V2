@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKCNMXMXCLIKMATE52585671X61MPP15HORIZONTAL > Connector_Molex : Molex_CLIK-Mate_502585-0670_1x06-1MP_P1.50mm_Horizontal](#fzkcnmxmxclikmate52585671x61mpp15horizontal--connector_molex--molex_clik-mate_502585-0670_1x06-1mp_p150mm_horizontal)
+* [FZKCNMXMXCLIKMATE52585671X61MPP15H > Connector_Molex : Molex_CLIK-Mate_502585-0670_1x06-1MP_P1.50mm_Horizontal](#fzkcnmxmxclikmate52585671x61mpp15h--connector_molex--molex_clik-mate_502585-0670_1x06-1mp_p150mm_horizontal)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKCNMXMXCLIKMATE52585671X61MPP15HORIZONTAL > Connector_Molex : Molex_CLIK-Mate_502585-0670_1x06-1MP_P1.50mm_Horizontal
+# FZKCNMXMXCLIKMATE52585671X61MPP15H > Connector_Molex : Molex_CLIK-Mate_502585-0670_1x06-1MP_P1.50mm_Horizontal
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_CLIK-Mate_502585-0670_1x06-1MP_P1.50mm_Horizontal
-- Hex ID: FZKCNMXMXCLIKMATE52585671X61MPP15HORIZONTAL
+- Hex ID: FZKCNMXMXCLIKMATE52585671X61MPP15H
 - Name: Connector_Molex : Molex_CLIK-Mate_502585-0670_1x06-1MP_P1.50mm_Horizontal
 - Description: Connector_Molex : Molex_CLIK-Mate_502585-0670_1x06-1MP_P1.50mm_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_CLIK-Mate_502585-0670_1x06-1MP_P1.50mm_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_CLIK-Mate_502585-0670_1x06-1MP_P1.50mm_Horizontal)
-- Short Link: [http://oom.lt/FZKCNMXMXCLIKMATE52585671X61MPP15HORIZONTAL](http://oom.lt/FZKCNMXMXCLIKMATE52585671X61MPP15HORIZONTAL)
+- Short Link: [http://oom.lt/FZKCNMXMXCLIKMATE52585671X61MPP15H](http://oom.lt/FZKCNMXMXCLIKMATE52585671X61MPP15H)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Connector_Molex|
 |OOMP Index|oompIndex|Molex_CLIK-Mate_502585-0670_1x06-1MP_P1.50mm_Horizontal|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_CLIK-Mate_502585-0670_1x06-1MP_P1.50mm_Horizontal|
-|Hex ID (short code)|hexID|FZKCNMXMXCLIKMATE52585671X61MPP15HORIZONTAL|
+|Hex ID (short code)|hexID|FZKCNMXMXCLIKMATE52585671X61MPP15H|
 |name|name|Connector_Molex : Molex_CLIK-Mate_502585-0670_1x06-1MP_P1.50mm_Horizontal|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Molex_CLIK-Mate_502585-0670_1x06-1MP_P1.50mm_Horizontal'</td><td> 'description'</td></tr><tr><td> 'Molex CLIK-Mate series connector</td><td> 502585-0670 (http</td></tr><tr><td>//www.molex.com/pdm_docs/sd/5025850270_sd.pdf)</td><td> generated with kicad-footprint-generator'</td><td> 'tags'</td></tr><tr><td> 'connector Molex CLIK-Mate top entry'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_Molex.3dshapes/Molex_CLIK-Mate_502585-0670_1x06-1MP_P1.50mm_Horizontal.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||

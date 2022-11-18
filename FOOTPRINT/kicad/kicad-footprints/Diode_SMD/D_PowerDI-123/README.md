@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKDIODESMDPOWERDI123 > Diode_SMD : D_PowerDI-123](#fzkdiodesmdpowerdi123--diode_smd--d_powerdi-123)
+* [FZKDDPOWERDI123 > Diode_SMD : D_PowerDI-123](#fzkddpowerdi123--diode_smd--d_powerdi-123)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKDIODESMDPOWERDI123 > Diode_SMD : D_PowerDI-123
+# FZKDDPOWERDI123 > Diode_SMD : D_PowerDI-123
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_PowerDI-123
-- Hex ID: FZKDIODESMDPOWERDI123
+- Hex ID: FZKDDPOWERDI123
 - Name: Diode_SMD : D_PowerDI-123
 - Description: Diode_SMD : D_PowerDI-123
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_PowerDI-123](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_PowerDI-123)
-- Short Link: [http://oom.lt/FZKDIODESMDPOWERDI123](http://oom.lt/FZKDIODESMDPOWERDI123)
+- Short Link: [http://oom.lt/FZKDDPOWERDI123](http://oom.lt/FZKDDPOWERDI123)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Diode_SMD|
 |OOMP Index|oompIndex|D_PowerDI-123|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_PowerDI-123|
-|Hex ID (short code)|hexID|FZKDIODESMDPOWERDI123|
+|Hex ID (short code)|hexID|FZKDDPOWERDI123|
 |name|name|Diode_SMD : D_PowerDI-123|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'D_PowerDI-123'</td><td> 'description'</td></tr><tr><td> 'http</td></tr><tr><td>//www.diodes.com/_files/datasheets/ds30497.pdf'</td><td> 'tags'</td></tr><tr><td> 'PowerDI diode vishay'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Diode_SMD.3dshapes/D_PowerDI-123.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

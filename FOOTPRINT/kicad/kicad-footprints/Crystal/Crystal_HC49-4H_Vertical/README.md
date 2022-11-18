@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKXXHC494HVERTICAL > Crystal : Crystal_HC49-4H_Vertical](#fzkxxhc494hvertical--crystal--crystal_hc49-4h_vertical)
+* [FZKXXHC494HF > Crystal : Crystal_HC49-4H_Vertical](#fzkxxhc494hf--crystal--crystal_hc49-4h_vertical)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKXXHC494HVERTICAL > Crystal : Crystal_HC49-4H_Vertical
+# FZKXXHC494HF > Crystal : Crystal_HC49-4H_Vertical
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_HC49-4H_Vertical
-- Hex ID: FZKXXHC494HVERTICAL
+- Hex ID: FZKXXHC494HF
 - Name: Crystal : Crystal_HC49-4H_Vertical
 - Description: Crystal : Crystal_HC49-4H_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_HC49-4H_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_HC49-4H_Vertical)
-- Short Link: [http://oom.lt/FZKXXHC494HVERTICAL](http://oom.lt/FZKXXHC494HVERTICAL)
+- Short Link: [http://oom.lt/FZKXXHC494HF](http://oom.lt/FZKXXHC494HF)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Crystal|
 |OOMP Index|oompIndex|Crystal_HC49-4H_Vertical|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_HC49-4H_Vertical|
-|Hex ID (short code)|hexID|FZKXXHC494HVERTICAL|
+|Hex ID (short code)|hexID|FZKXXHC494HF|
 |name|name|Crystal : Crystal_HC49-4H_Vertical|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Crystal_HC49-4H_Vertical'</td><td> 'description'</td></tr><tr><td> 'Crystal THT HC-49-4H http</td></tr><tr><td>//5hertz.com/pdfs/04404_D.pdf'</td><td> 'tags'</td></tr><tr><td> 'THT crystalHC-49-4H'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Crystal.3dshapes/Crystal_HC49-4H_Vertical.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||

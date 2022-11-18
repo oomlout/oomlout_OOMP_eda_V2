@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKCAPACITORTANTALUMSMCPEIA7262AVXM > Capacitor_Tantalum_SMD : CP_EIA-7260-20_AVX-M](#fzkcapacitortantalumsmcpeia7262avxm--capacitor_tantalum_smd--cp_eia-7260-20_avx-m)
+* [FZKCCPEIA7262AVXM > Capacitor_Tantalum_SMD : CP_EIA-7260-20_AVX-M](#fzkccpeia7262avxm--capacitor_tantalum_smd--cp_eia-7260-20_avx-m)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKCAPACITORTANTALUMSMCPEIA7262AVXM > Capacitor_Tantalum_SMD : CP_EIA-7260-20_AVX-M
+# FZKCCPEIA7262AVXM > Capacitor_Tantalum_SMD : CP_EIA-7260-20_AVX-M
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Capacitor_Tantalum_SMD-CP_EIA-7260-20_AVX-M
-- Hex ID: FZKCAPACITORTANTALUMSMCPEIA7262AVXM
+- Hex ID: FZKCCPEIA7262AVXM
 - Name: Capacitor_Tantalum_SMD : CP_EIA-7260-20_AVX-M
 - Description: Capacitor_Tantalum_SMD : CP_EIA-7260-20_AVX-M
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_Tantalum_SMD-CP_EIA-7260-20_AVX-M](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_Tantalum_SMD-CP_EIA-7260-20_AVX-M)
-- Short Link: [http://oom.lt/FZKCAPACITORTANTALUMSMCPEIA7262AVXM](http://oom.lt/FZKCAPACITORTANTALUMSMCPEIA7262AVXM)
+- Short Link: [http://oom.lt/FZKCCPEIA7262AVXM](http://oom.lt/FZKCCPEIA7262AVXM)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Capacitor_Tantalum_SMD|
 |OOMP Index|oompIndex|CP_EIA-7260-20_AVX-M|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Capacitor_Tantalum_SMD-CP_EIA-7260-20_AVX-M|
-|Hex ID (short code)|hexID|FZKCAPACITORTANTALUMSMCPEIA7262AVXM|
+|Hex ID (short code)|hexID|FZKCCPEIA7262AVXM|
 |name|name|Capacitor_Tantalum_SMD : CP_EIA-7260-20_AVX-M|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'CP_EIA-7260-20_AVX-M'</td><td> 'description'</td></tr><tr><td> 'Tantalum Capacitor SMD AVX-M (7260-20 Metric)</td><td> IPC_7351 nominal</td><td> (Body size from</td></tr><tr><td> http</td></tr><tr><td>//datasheets.avx.com/F72-F75.pdf)</td><td> generated with kicad-footprint-generator'</td><td> 'tags'</td></tr><tr><td> 'capacitor tantalum'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Capacitor_Tantalum_SMD.3dshapes/CP_EIA-7260-20_AVX-M.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||

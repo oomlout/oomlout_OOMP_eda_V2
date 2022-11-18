@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKCNPINSO254PINSO1X35P254HORIZONTAL > Connector_PinSocket_2.54mm : PinSocket_1x35_P2.54mm_Horizontal](#fzkcnpinso254pinso1x35p254horizontal--connector_pinsocket_254mm--pinsocket_1x35_p254mm_horizontal)
+* [FZKCNPINSO254PINSO1X35P254H > Connector_PinSocket_2.54mm : PinSocket_1x35_P2.54mm_Horizontal](#fzkcnpinso254pinso1x35p254h--connector_pinsocket_254mm--pinsocket_1x35_p254mm_horizontal)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKCNPINSO254PINSO1X35P254HORIZONTAL > Connector_PinSocket_2.54mm : PinSocket_1x35_P2.54mm_Horizontal
+# FZKCNPINSO254PINSO1X35P254H > Connector_PinSocket_2.54mm : PinSocket_1x35_P2.54mm_Horizontal
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_PinSocket_2.54mm-PinSocket_1x35_P2.54mm_Horizontal
-- Hex ID: FZKCNPINSO254PINSO1X35P254HORIZONTAL
+- Hex ID: FZKCNPINSO254PINSO1X35P254H
 - Name: Connector_PinSocket_2.54mm : PinSocket_1x35_P2.54mm_Horizontal
 - Description: Connector_PinSocket_2.54mm : PinSocket_1x35_P2.54mm_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_PinSocket_2.54mm-PinSocket_1x35_P2.54mm_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_PinSocket_2.54mm-PinSocket_1x35_P2.54mm_Horizontal)
-- Short Link: [http://oom.lt/FZKCNPINSO254PINSO1X35P254HORIZONTAL](http://oom.lt/FZKCNPINSO254PINSO1X35P254HORIZONTAL)
+- Short Link: [http://oom.lt/FZKCNPINSO254PINSO1X35P254H](http://oom.lt/FZKCNPINSO254PINSO1X35P254H)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Connector_PinSocket_2.54mm|
 |OOMP Index|oompIndex|PinSocket_1x35_P2.54mm_Horizontal|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_PinSocket_2.54mm-PinSocket_1x35_P2.54mm_Horizontal|
-|Hex ID (short code)|hexID|FZKCNPINSO254PINSO1X35P254HORIZONTAL|
+|Hex ID (short code)|hexID|FZKCNPINSO254PINSO1X35P254H|
 |name|name|Connector_PinSocket_2.54mm : PinSocket_1x35_P2.54mm_Horizontal|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'PinSocket_1x35_P2.54mm_Horizontal'</td><td> 'description'</td></tr><tr><td> 'Through hole angled socket strip</td><td> 1x35</td><td> 2.54mm pitch</td><td> 8.51mm socket length</td><td> single row (from Kicad 4.0.7)</td><td> script generated'</td><td> 'tags'</td></tr><tr><td> 'Through hole angled socket strip THT 1x35 2.54mm single row'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_PinSocket_2.54mm.3dshapes/PinSocket_1x35_P2.54mm_Horizontal.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

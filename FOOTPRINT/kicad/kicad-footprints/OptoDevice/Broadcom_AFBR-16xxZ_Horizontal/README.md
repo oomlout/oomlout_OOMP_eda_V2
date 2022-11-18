@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKOPBROADCOMAFBR16XXZHORIZONTAL > OptoDevice : Broadcom_AFBR-16xxZ_Horizontal](#fzkopbroadcomafbr16xxzhorizontal--optodevice--broadcom_afbr-16xxz_horizontal)
+* [FZKOPBROADCOMAFBR16XXZH > OptoDevice : Broadcom_AFBR-16xxZ_Horizontal](#fzkopbroadcomafbr16xxzh--optodevice--broadcom_afbr-16xxz_horizontal)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKOPBROADCOMAFBR16XXZHORIZONTAL > OptoDevice : Broadcom_AFBR-16xxZ_Horizontal
+# FZKOPBROADCOMAFBR16XXZH > OptoDevice : Broadcom_AFBR-16xxZ_Horizontal
 
 - ID: FOOTPRINT-kicad-kicad-footprints-OptoDevice-Broadcom_AFBR-16xxZ_Horizontal
-- Hex ID: FZKOPBROADCOMAFBR16XXZHORIZONTAL
+- Hex ID: FZKOPBROADCOMAFBR16XXZH
 - Name: OptoDevice : Broadcom_AFBR-16xxZ_Horizontal
 - Description: OptoDevice : Broadcom_AFBR-16xxZ_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-OptoDevice-Broadcom_AFBR-16xxZ_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-OptoDevice-Broadcom_AFBR-16xxZ_Horizontal)
-- Short Link: [http://oom.lt/FZKOPBROADCOMAFBR16XXZHORIZONTAL](http://oom.lt/FZKOPBROADCOMAFBR16XXZHORIZONTAL)
+- Short Link: [http://oom.lt/FZKOPBROADCOMAFBR16XXZH](http://oom.lt/FZKOPBROADCOMAFBR16XXZH)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|OptoDevice|
 |OOMP Index|oompIndex|Broadcom_AFBR-16xxZ_Horizontal|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-OptoDevice-Broadcom_AFBR-16xxZ_Horizontal|
-|Hex ID (short code)|hexID|FZKOPBROADCOMAFBR16XXZHORIZONTAL|
+|Hex ID (short code)|hexID|FZKOPBROADCOMAFBR16XXZH|
 |name|name|OptoDevice : Broadcom_AFBR-16xxZ_Horizontal|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Broadcom_AFBR-16xxZ_Horizontal'</td><td> 'description'</td></tr><tr><td> 'Fiber Optic Transmitter and Receiver</td><td> https</td></tr><tr><td>//docs.broadcom.com/docs/AV02-4369EN'</td><td> 'tags'</td></tr><tr><td> 'Fiber Optic Transmitter and Receiver'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/OptoDevice.3dshapes/Broadcom_AFBR-16xxZ_Horizontal.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||

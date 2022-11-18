@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKINDUCTORSMLBOURNSSRR121A > Inductor_SMD : L_Bourns_SRR1210A](#fzkinductorsmlbournssrr121a--inductor_smd--l_bourns_srr1210a)
+* [FZKINLBOURNSSRR121A > Inductor_SMD : L_Bourns_SRR1210A](#fzkinlbournssrr121a--inductor_smd--l_bourns_srr1210a)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKINDUCTORSMLBOURNSSRR121A > Inductor_SMD : L_Bourns_SRR1210A
+# FZKINLBOURNSSRR121A > Inductor_SMD : L_Bourns_SRR1210A
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Bourns_SRR1210A
-- Hex ID: FZKINDUCTORSMLBOURNSSRR121A
+- Hex ID: FZKINLBOURNSSRR121A
 - Name: Inductor_SMD : L_Bourns_SRR1210A
 - Description: Inductor_SMD : L_Bourns_SRR1210A
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Bourns_SRR1210A](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Bourns_SRR1210A)
-- Short Link: [http://oom.lt/FZKINDUCTORSMLBOURNSSRR121A](http://oom.lt/FZKINDUCTORSMLBOURNSSRR121A)
+- Short Link: [http://oom.lt/FZKINLBOURNSSRR121A](http://oom.lt/FZKINLBOURNSSRR121A)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Inductor_SMD|
 |OOMP Index|oompIndex|L_Bourns_SRR1210A|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Bourns_SRR1210A|
-|Hex ID (short code)|hexID|FZKINDUCTORSMLBOURNSSRR121A|
+|Hex ID (short code)|hexID|FZKINLBOURNSSRR121A|
 |name|name|Inductor_SMD : L_Bourns_SRR1210A|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'L_Bourns_SRR1210A'</td><td> 'description'</td></tr><tr><td> 'Bourns SRR1210A series SMD inductor https</td></tr><tr><td>//www.bourns.com/docs/Product-Datasheets/SRR1210A.pdf'</td><td> 'tags'</td></tr><tr><td> 'Bourns SRR1210A SMD inductor'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Inductor_SMD.3dshapes/L_Bourns_SRR1210A.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

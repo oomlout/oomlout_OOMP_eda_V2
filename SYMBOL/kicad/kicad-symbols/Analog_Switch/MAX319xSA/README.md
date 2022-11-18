@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [SZKANALOGSWITCHMAX319XSA > Analog_Switch : MAX319xSA](#szkanalogswitchmax319xsa--analog_switch--max319xsa)
+* [SZKANALOGSWMAX319XSA > Analog_Switch : MAX319xSA](#szkanalogswmax319xsa--analog_switch--max319xsa)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# SZKANALOGSWITCHMAX319XSA > Analog_Switch : MAX319xSA
+# SZKANALOGSWMAX319XSA > Analog_Switch : MAX319xSA
 
 - ID: SYMBOL-kicad-kicad-symbols-Analog_Switch-MAX319xSA
-- Hex ID: SZKANALOGSWITCHMAX319XSA
+- Hex ID: SZKANALOGSWMAX319XSA
 - Name: Analog_Switch : MAX319xSA
 - Description: Analog_Switch : MAX319xSA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_Switch-MAX319xSA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_Switch-MAX319xSA)
-- Short Link: [http://oom.lt/SZKANALOGSWITCHMAX319XSA](http://oom.lt/SZKANALOGSWITCHMAX319XSA)
+- Short Link: [http://oom.lt/SZKANALOGSWMAX319XSA](http://oom.lt/SZKANALOGSWMAX319XSA)
 
 ## Images
   
@@ -36,7 +36,7 @@ Contents
 |OOMP Description|oompDesc|Analog_Switch|
 |OOMP Index|oompIndex|MAX319xSA|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Analog_Switch-MAX319xSA|
-|Hex ID (short code)|hexID|SZKANALOGSWITCHMAX319XSA|
+|Hex ID (short code)|hexID|SZKANALOGSWMAX319XSA|
 |name|name|Analog_Switch : MAX319xSA|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'DG419xY'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MAX319xSA'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>SOIC-8_3.9x4.9mm_P1.27mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//datasheets.maximintegrated.com/en/ds/MAX317-MAX319.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'CMOS Analog Switch'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Single SPDT Monolithic CMOS Analog Switch</td><td> 20Ohm Ron</td><td> SOIC-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOIC*3.9x4.9mm*P1.27mm*'</td></tr></table>]|
 ||||

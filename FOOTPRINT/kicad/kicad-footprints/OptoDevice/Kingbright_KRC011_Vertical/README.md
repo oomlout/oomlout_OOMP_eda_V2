@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKOPKINGBRIGHTKRC11VERTICAL > OptoDevice : Kingbright_KRC011_Vertical](#fzkopkingbrightkrc11vertical--optodevice--kingbright_krc011_vertical)
+* [FZKOPKINGBRIGHTKRC11F > OptoDevice : Kingbright_KRC011_Vertical](#fzkopkingbrightkrc11f--optodevice--kingbright_krc011_vertical)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKOPKINGBRIGHTKRC11VERTICAL > OptoDevice : Kingbright_KRC011_Vertical
+# FZKOPKINGBRIGHTKRC11F > OptoDevice : Kingbright_KRC011_Vertical
 
 - ID: FOOTPRINT-kicad-kicad-footprints-OptoDevice-Kingbright_KRC011_Vertical
-- Hex ID: FZKOPKINGBRIGHTKRC11VERTICAL
+- Hex ID: FZKOPKINGBRIGHTKRC11F
 - Name: OptoDevice : Kingbright_KRC011_Vertical
 - Description: OptoDevice : Kingbright_KRC011_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-OptoDevice-Kingbright_KRC011_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-OptoDevice-Kingbright_KRC011_Vertical)
-- Short Link: [http://oom.lt/FZKOPKINGBRIGHTKRC11VERTICAL](http://oom.lt/FZKOPKINGBRIGHTKRC11VERTICAL)
+- Short Link: [http://oom.lt/FZKOPKINGBRIGHTKRC11F](http://oom.lt/FZKOPKINGBRIGHTKRC11F)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|OptoDevice|
 |OOMP Index|oompIndex|Kingbright_KRC011_Vertical|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-OptoDevice-Kingbright_KRC011_Vertical|
-|Hex ID (short code)|hexID|FZKOPKINGBRIGHTKRC11VERTICAL|
+|Hex ID (short code)|hexID|FZKOPKINGBRIGHTKRC11F|
 |name|name|OptoDevice : Kingbright_KRC011_Vertical|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Kingbright_KRC011_Vertical'</td><td> 'description'</td></tr><tr><td> 'Subminiature Reflective Optical Sensor</td><td> http</td></tr><tr><td>//www.kingbright.com/attachments/file/psearch/000/00/00/KRC011(Ver.15).pdf'</td><td> 'tags'</td></tr><tr><td> 'Subminiature Reflective Optical Sensor'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/OptoDevice.3dshapes/Kingbright_KRC011_Vertical.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||

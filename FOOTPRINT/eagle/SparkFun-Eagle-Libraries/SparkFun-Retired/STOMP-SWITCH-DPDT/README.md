@@ -5,18 +5,18 @@
 Contents
 ========
 
-* [FZSRTSTOMPSWITCHDPDT > SparkFun-Retired : STOMP-SWITCH-DPDT](#fzsrtstompswitchdpdt--sparkfun-retired--stomp-switch-dpdt)
+* [FZSRTSTOMPSWDPDT > SparkFun-Retired : STOMP-SWITCH-DPDT](#fzsrtstompswdpdt--sparkfun-retired--stomp-switch-dpdt)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZSRTSTOMPSWITCHDPDT > SparkFun-Retired : STOMP-SWITCH-DPDT
+# FZSRTSTOMPSWDPDT > SparkFun-Retired : STOMP-SWITCH-DPDT
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-STOMP-SWITCH-DPDT
-- Hex ID: FZSRTSTOMPSWITCHDPDT
+- Hex ID: FZSRTSTOMPSWDPDT
 - Name: SparkFun-Retired : STOMP-SWITCH-DPDT
 - Description: SparkFun-Retired : STOMP-SWITCH-DPDT
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-STOMP-SWITCH-DPDT](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-STOMP-SWITCH-DPDT)
-- Short Link: [http://oom.lt/FZSRTSTOMPSWITCHDPDT](http://oom.lt/FZSRTSTOMPSWITCHDPDT)
+- Short Link: [http://oom.lt/FZSRTSTOMPSWDPDT](http://oom.lt/FZSRTSTOMPSWDPDT)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +30,6 @@ NO IMAGES
 |OOMP Description|oompDesc|SparkFun-Retired|
 |OOMP Index|oompIndex|STOMP-SWITCH-DPDT|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-STOMP-SWITCH-DPDT|
-|Hex ID (short code)|hexID|FZSRTSTOMPSWITCHDPDT|
+|Hex ID (short code)|hexID|FZSRTSTOMPSWDPDT|
 |name|name|SparkFun-Retired : STOMP-SWITCH-DPDT|
 ||||

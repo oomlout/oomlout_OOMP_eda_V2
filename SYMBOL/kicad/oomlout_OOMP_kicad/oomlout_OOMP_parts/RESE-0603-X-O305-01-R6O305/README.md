@@ -5,18 +5,18 @@
 Contents
 ========
 
-* [SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE63XO351R6O35 > oomlout_OOMP_parts : RESE-0603-X-O305-01-R6O305](#szkicadoomloutoompkicadoomloutoomppartsrese63xo351r6o35--oomlout_oomp_parts--rese-0603-x-o305-01-r6o305)
+* [SZOOMPKOOMPPRESE63XO351R6O35 > oomlout_OOMP_parts : RESE-0603-X-O305-01-R6O305](#szoompkoompprese63xo351r6o35--oomlout_oomp_parts--rese-0603-x-o305-01-r6o305)
 	* [Tags](#tags)
   
 NO IMAGE  
-# SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE63XO351R6O35 > oomlout_OOMP_parts : RESE-0603-X-O305-01-R6O305
+# SZOOMPKOOMPPRESE63XO351R6O35 > oomlout_OOMP_parts : RESE-0603-X-O305-01-R6O305
 
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O305-01-R6O305
-- Hex ID: SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE63XO351R6O35
+- Hex ID: SZOOMPKOOMPPRESE63XO351R6O35
 - Name: oomlout_OOMP_parts : RESE-0603-X-O305-01-R6O305
 - Description: oomlout_OOMP_parts : RESE-0603-X-O305-01-R6O305
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O305-01-R6O305](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O305-01-R6O305)
-- Short Link: [http://oom.lt/SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE63XO351R6O35](http://oom.lt/SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE63XO351R6O35)
+- Short Link: [http://oom.lt/SZOOMPKOOMPPRESE63XO351R6O35](http://oom.lt/SZOOMPKOOMPPRESE63XO351R6O35)
   
 NO IMAGES  
 ## Tags
@@ -30,7 +30,7 @@ NO IMAGES
 |OOMP Description|oompDesc|oomlout_OOMP_parts|
 |OOMP Index|oompIndex|RESE-0603-X-O305-01-R6O305|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O305-01-R6O305|
-|Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE63XO351R6O35|
+|Hex ID (short code)|hexID|SZOOMPKOOMPPRESE63XO351R6O35|
 |name|name|oomlout_OOMP_parts : RESE-0603-X-O305-01-R6O305|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'R'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'RESE-0603-X-O305-01-R6O305'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'oomlout_OOMP_parts</td></tr><tr><td>RESE-0603-X-O305-01-R6O305'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'oom.lt/R6O305'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'R res resistor'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'hexID</td></tr><tr><td> R6O305;PARTL C-JLCC;C23156;MANUF C-XXXX;0603WAF3004T5E;Resistor'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'R_*'</td></tr></table>]|
 ||||

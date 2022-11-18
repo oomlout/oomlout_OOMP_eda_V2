@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSHEADJSTXHXPI31HXH3 > oomlout_OOMP_parts : HEAD-JSTXH-X-PI03-01-HXH3](#fzkicadoomloutoompkicadoomloutoomppartsheadjstxhxpi31hxh3--oomlout_oomp_parts--head-jstxh-x-pi03-01-hxh3)
+* [FZOOMPKOOMPPHEADJSTXHXPI31HXH3 > oomlout_OOMP_parts : HEAD-JSTXH-X-PI03-01-HXH3](#fzoompkoomppheadjstxhxpi31hxh3--oomlout_oomp_parts--head-jstxh-x-pi03-01-hxh3)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSHEADJSTXHXPI31HXH3 > oomlout_OOMP_parts : HEAD-JSTXH-X-PI03-01-HXH3
+# FZOOMPKOOMPPHEADJSTXHXPI31HXH3 > oomlout_OOMP_parts : HEAD-JSTXH-X-PI03-01-HXH3
 
 - ID: FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-JSTXH-X-PI03-01-HXH3
-- Hex ID: FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSHEADJSTXHXPI31HXH3
+- Hex ID: FZOOMPKOOMPPHEADJSTXHXPI31HXH3
 - Name: oomlout_OOMP_parts : HEAD-JSTXH-X-PI03-01-HXH3
 - Description: oomlout_OOMP_parts : HEAD-JSTXH-X-PI03-01-HXH3
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-JSTXH-X-PI03-01-HXH3](http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-JSTXH-X-PI03-01-HXH3)
-- Short Link: [http://oom.lt/FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSHEADJSTXHXPI31HXH3](http://oom.lt/FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSHEADJSTXHXPI31HXH3)
+- Short Link: [http://oom.lt/FZOOMPKOOMPPHEADJSTXHXPI31HXH3](http://oom.lt/FZOOMPKOOMPPHEADJSTXHXPI31HXH3)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|oomlout_OOMP_parts|
 |OOMP Index|oompIndex|HEAD-JSTXH-X-PI03-01-HXH3|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-JSTXH-X-PI03-01-HXH3|
-|Hex ID (short code)|hexID|FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSHEADJSTXHXPI31HXH3|
+|Hex ID (short code)|hexID|FZOOMPKOOMPPHEADJSTXHXPI31HXH3|
 |name|name|oomlout_OOMP_parts : HEAD-JSTXH-X-PI03-01-HXH3|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'HEAD-JSTXH-X-PI03-01-HXH3'</td><td> 'description'</td></tr><tr><td> 'hexID</td></tr><tr><td> HXH3; JST XH series connector</td><td> B3B-XH-AM</td><td> with boss (http</td></tr><tr><td>//www.jst-mfg.com/product/pdf/eng/eXH.pdf)</td><td> generated with kicad-footprint-generator'</td><td> 'tags'</td></tr><tr><td> 'connector JST XH vertical boss'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_JST.3dshapes/JST_XH_B3B-XH-AM_1x03_P2.50mm_Vertical.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'np_thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||

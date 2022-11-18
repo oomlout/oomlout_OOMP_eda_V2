@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKCAPACITORSMC2163METRIC > Capacitor_SMD : C_0201_0603Metric](#fzkcapacitorsmc2163metric--capacitor_smd--c_0201_0603metric)
+* [FZKCC2163VA > Capacitor_SMD : C_0201_0603Metric](#fzkcc2163va--capacitor_smd--c_0201_0603metric)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKCAPACITORSMC2163METRIC > Capacitor_SMD : C_0201_0603Metric
+# FZKCC2163VA > Capacitor_SMD : C_0201_0603Metric
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0201_0603Metric
-- Hex ID: FZKCAPACITORSMC2163METRIC
+- Hex ID: FZKCC2163VA
 - Name: Capacitor_SMD : C_0201_0603Metric
 - Description: Capacitor_SMD : C_0201_0603Metric
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0201_0603Metric](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0201_0603Metric)
-- Short Link: [http://oom.lt/FZKCAPACITORSMC2163METRIC](http://oom.lt/FZKCAPACITORSMC2163METRIC)
+- Short Link: [http://oom.lt/FZKCC2163VA](http://oom.lt/FZKCC2163VA)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Capacitor_SMD|
 |OOMP Index|oompIndex|C_0201_0603Metric|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0201_0603Metric|
-|Hex ID (short code)|hexID|FZKCAPACITORSMC2163METRIC|
+|Hex ID (short code)|hexID|FZKCC2163VA|
 |name|name|Capacitor_SMD : C_0201_0603Metric|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'C_0201_0603Metric'</td><td> 'description'</td></tr><tr><td> 'Capacitor SMD 0201 (0603 Metric)</td><td> square (rectangular) end terminal</td><td> IPC_7351 nominal</td><td> (Body size source</td></tr><tr><td> https</td></tr><tr><td>//www.vishay.com/docs/20052/crcw0201e3.pdf)</td><td> generated with kicad-footprint-generator'</td><td> 'tags'</td></tr><tr><td> 'capacitor'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Capacitor_SMD.3dshapes/C_0201_0603Metric.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||

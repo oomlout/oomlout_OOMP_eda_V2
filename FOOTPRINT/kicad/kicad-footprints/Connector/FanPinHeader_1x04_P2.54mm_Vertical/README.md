@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKCNFANPINHEADER1X4P254VERTICAL > Connector : FanPinHeader_1x04_P2.54mm_Vertical](#fzkcnfanpinheader1x4p254vertical--connector--fanpinheader_1x04_p254mm_vertical)
+* [FZKCNFANPINHEADER1X4P254F > Connector : FanPinHeader_1x04_P2.54mm_Vertical](#fzkcnfanpinheader1x4p254f--connector--fanpinheader_1x04_p254mm_vertical)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKCNFANPINHEADER1X4P254VERTICAL > Connector : FanPinHeader_1x04_P2.54mm_Vertical
+# FZKCNFANPINHEADER1X4P254F > Connector : FanPinHeader_1x04_P2.54mm_Vertical
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector-FanPinHeader_1x04_P2.54mm_Vertical
-- Hex ID: FZKCNFANPINHEADER1X4P254VERTICAL
+- Hex ID: FZKCNFANPINHEADER1X4P254F
 - Name: Connector : FanPinHeader_1x04_P2.54mm_Vertical
 - Description: Connector : FanPinHeader_1x04_P2.54mm_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector-FanPinHeader_1x04_P2.54mm_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector-FanPinHeader_1x04_P2.54mm_Vertical)
-- Short Link: [http://oom.lt/FZKCNFANPINHEADER1X4P254VERTICAL](http://oom.lt/FZKCNFANPINHEADER1X4P254VERTICAL)
+- Short Link: [http://oom.lt/FZKCNFANPINHEADER1X4P254F](http://oom.lt/FZKCNFANPINHEADER1X4P254F)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Connector|
 |OOMP Index|oompIndex|FanPinHeader_1x04_P2.54mm_Vertical|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector-FanPinHeader_1x04_P2.54mm_Vertical|
-|Hex ID (short code)|hexID|FZKCNFANPINHEADER1X4P254VERTICAL|
+|Hex ID (short code)|hexID|FZKCNFANPINHEADER1X4P254F|
 |name|name|Connector : FanPinHeader_1x04_P2.54mm_Vertical|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'FanPinHeader_1x04_P2.54mm_Vertical'</td><td> 'description'</td></tr><tr><td> '4-pin CPU fan Through hole pin header</td><td> e.g. for Wieson part number 2366C888-007 Molex 47053-1000</td><td> Foxconn HF27040-M1</td><td> Tyco 1470947-1 or equivalent</td><td> see http</td></tr><tr><td>//www.formfactors.org/developer%5Cspecs%5Crev1_2_public.pdf'</td><td> 'tags'</td></tr><tr><td> 'pin header 4-pin CPU fan'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector.3dshapes/FanPinHeader_1x04_P2.54mm_Vertical.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'np_thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||

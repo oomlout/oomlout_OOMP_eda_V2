@@ -5,18 +5,18 @@
 Contents
 ========
 
-* [FZESWITCHDILP13 > switch-dil : P103](#fzeswitchdilp13--switch-dil--p103)
+* [FZESWDILP13 > switch-dil : P103](#fzeswdilp13--switch-dil--p103)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZESWITCHDILP13 > switch-dil : P103
+# FZESWDILP13 > switch-dil : P103
 
 - ID: FOOTPRINT-eagle-eagle-default-switch-dil-P103
-- Hex ID: FZESWITCHDILP13
+- Hex ID: FZESWDILP13
 - Name: switch-dil : P103
 - Description: switch-dil : P103
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-dil-P103](http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-dil-P103)
-- Short Link: [http://oom.lt/FZESWITCHDILP13](http://oom.lt/FZESWITCHDILP13)
+- Short Link: [http://oom.lt/FZESWDILP13](http://oom.lt/FZESWDILP13)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +30,6 @@ NO IMAGES
 |OOMP Description|oompDesc|switch-dil|
 |OOMP Index|oompIndex|P103|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-switch-dil-P103|
-|Hex ID (short code)|hexID|FZESWITCHDILP13|
+|Hex ID (short code)|hexID|FZESWDILP13|
 |name|name|switch-dil : P103|
 ||||

@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSOT3 > digikey-footprints : SOT-3](#fzkicaddigikeykicadlibrarydigikeyfootprintssot3--digikey-footprints--sot-3)
+* [FZDIGIDIGIKEYFOOTPRINTSSOT3 > digikey-footprints : SOT-3](#fzdigidigikeyfootprintssot3--digikey-footprints--sot-3)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSOT3 > digikey-footprints : SOT-3
+# FZDIGIDIGIKEYFOOTPRINTSSOT3 > digikey-footprints : SOT-3
 
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SOT-3
-- Hex ID: FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSOT3
+- Hex ID: FZDIGIDIGIKEYFOOTPRINTSSOT3
 - Name: digikey-footprints : SOT-3
 - Description: digikey-footprints : SOT-3
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SOT-3](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SOT-3)
-- Short Link: [http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSOT3](http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSOT3)
+- Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSSOT3](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSSOT3)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|digikey-footprints|
 |OOMP Index|oompIndex|SOT-3|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SOT-3|
-|Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSOT3|
+|Hex ID (short code)|hexID|FZDIGIDIGIKEYFOOTPRINTSSOT3|
 |name|name|digikey-footprints : SOT-3|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'SOT-3'</td><td> 'description'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/tpd2eusb30.pdf'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

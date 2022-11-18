@@ -5,18 +5,18 @@
 Contents
 ========
 
-* [FZESWITCHMISCSTKL > switch-misc : STKL](#fzeswitchmiscstkl--switch-misc--stkl)
+* [FZESWMISCSTKL > switch-misc : STKL](#fzeswmiscstkl--switch-misc--stkl)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZESWITCHMISCSTKL > switch-misc : STKL
+# FZESWMISCSTKL > switch-misc : STKL
 
 - ID: FOOTPRINT-eagle-eagle-default-switch-misc-STKL
-- Hex ID: FZESWITCHMISCSTKL
+- Hex ID: FZESWMISCSTKL
 - Name: switch-misc : STKL
 - Description: switch-misc : STKL
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-misc-STKL](http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-misc-STKL)
-- Short Link: [http://oom.lt/FZESWITCHMISCSTKL](http://oom.lt/FZESWITCHMISCSTKL)
+- Short Link: [http://oom.lt/FZESWMISCSTKL](http://oom.lt/FZESWMISCSTKL)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +30,6 @@ NO IMAGES
 |OOMP Description|oompDesc|switch-misc|
 |OOMP Index|oompIndex|STKL|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-switch-misc-STKL|
-|Hex ID (short code)|hexID|FZESWITCHMISCSTKL|
+|Hex ID (short code)|hexID|FZESWMISCSTKL|
 |name|name|switch-misc : STKL|
 ||||

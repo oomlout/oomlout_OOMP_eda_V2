@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKCNRJRJ45CETUSJ1B1211CCDHORIZONTAL > Connector_RJ : RJ45_Cetus_J1B1211CCD_Horizontal](#fzkcnrjrj45cetusj1b1211ccdhorizontal--connector_rj--rj45_cetus_j1b1211ccd_horizontal)
+* [FZKCNRJRJ45CETUSJ1B1211CCDH > Connector_RJ : RJ45_Cetus_J1B1211CCD_Horizontal](#fzkcnrjrj45cetusj1b1211ccdh--connector_rj--rj45_cetus_j1b1211ccd_horizontal)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKCNRJRJ45CETUSJ1B1211CCDHORIZONTAL > Connector_RJ : RJ45_Cetus_J1B1211CCD_Horizontal
+# FZKCNRJRJ45CETUSJ1B1211CCDH > Connector_RJ : RJ45_Cetus_J1B1211CCD_Horizontal
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_RJ-RJ45_Cetus_J1B1211CCD_Horizontal
-- Hex ID: FZKCNRJRJ45CETUSJ1B1211CCDHORIZONTAL
+- Hex ID: FZKCNRJRJ45CETUSJ1B1211CCDH
 - Name: Connector_RJ : RJ45_Cetus_J1B1211CCD_Horizontal
 - Description: Connector_RJ : RJ45_Cetus_J1B1211CCD_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_RJ-RJ45_Cetus_J1B1211CCD_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_RJ-RJ45_Cetus_J1B1211CCD_Horizontal)
-- Short Link: [http://oom.lt/FZKCNRJRJ45CETUSJ1B1211CCDHORIZONTAL](http://oom.lt/FZKCNRJRJ45CETUSJ1B1211CCDHORIZONTAL)
+- Short Link: [http://oom.lt/FZKCNRJRJ45CETUSJ1B1211CCDH](http://oom.lt/FZKCNRJRJ45CETUSJ1B1211CCDH)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Connector_RJ|
 |OOMP Index|oompIndex|RJ45_Cetus_J1B1211CCD_Horizontal|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_RJ-RJ45_Cetus_J1B1211CCD_Horizontal|
-|Hex ID (short code)|hexID|FZKCNRJRJ45CETUSJ1B1211CCDHORIZONTAL|
+|Hex ID (short code)|hexID|FZKCNRJRJ45CETUSJ1B1211CCDH|
 |name|name|Connector_RJ : RJ45_Cetus_J1B1211CCD_Horizontal|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'RJ45_Cetus_J1B1211CCD_Horizontal'</td><td> 'description'</td></tr><tr><td> '1 Port RJ45 Magjack Connector Through Hole 10/100 Base-T</td><td> Cetus</td><td> used and distributed by WIZnet (https</td></tr><tr><td>//wizwiki.net/wiki/lib/exe/fetch.php?media=products</td></tr><tr><td>wiz550web</td></tr><tr><td>wiz550webds_kr</td></tr><tr><td>j1b1211ccd.pdf)'</td><td> 'tags'</td></tr><tr><td> 'RJ45 Magjack'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_RJ.3dshapes/RJ45_Cetus_J1B1211CCD.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'np_thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||

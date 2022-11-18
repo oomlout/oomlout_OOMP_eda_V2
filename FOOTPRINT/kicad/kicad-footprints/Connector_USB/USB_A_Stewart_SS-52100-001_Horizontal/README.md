@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKCNUUASTEWARTSS5211HORIZONTAL > Connector_USB : USB_A_Stewart_SS-52100-001_Horizontal](#fzkcnuuastewartss5211horizontal--connector_usb--usb_a_stewart_ss-52100-001_horizontal)
+* [FZKCNUUASTEWARTSS5211H > Connector_USB : USB_A_Stewart_SS-52100-001_Horizontal](#fzkcnuuastewartss5211h--connector_usb--usb_a_stewart_ss-52100-001_horizontal)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKCNUUASTEWARTSS5211HORIZONTAL > Connector_USB : USB_A_Stewart_SS-52100-001_Horizontal
+# FZKCNUUASTEWARTSS5211H > Connector_USB : USB_A_Stewart_SS-52100-001_Horizontal
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_A_Stewart_SS-52100-001_Horizontal
-- Hex ID: FZKCNUUASTEWARTSS5211HORIZONTAL
+- Hex ID: FZKCNUUASTEWARTSS5211H
 - Name: Connector_USB : USB_A_Stewart_SS-52100-001_Horizontal
 - Description: Connector_USB : USB_A_Stewart_SS-52100-001_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_A_Stewart_SS-52100-001_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_A_Stewart_SS-52100-001_Horizontal)
-- Short Link: [http://oom.lt/FZKCNUUASTEWARTSS5211HORIZONTAL](http://oom.lt/FZKCNUUASTEWARTSS5211HORIZONTAL)
+- Short Link: [http://oom.lt/FZKCNUUASTEWARTSS5211H](http://oom.lt/FZKCNUUASTEWARTSS5211H)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Connector_USB|
 |OOMP Index|oompIndex|USB_A_Stewart_SS-52100-001_Horizontal|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_A_Stewart_SS-52100-001_Horizontal|
-|Hex ID (short code)|hexID|FZKCNUUASTEWARTSS5211HORIZONTAL|
+|Hex ID (short code)|hexID|FZKCNUUASTEWARTSS5211H|
 |name|name|Connector_USB : USB_A_Stewart_SS-52100-001_Horizontal|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'USB_A_Stewart_SS-52100-001_Horizontal'</td><td> 'description'</td></tr><tr><td> 'USB A connector https</td></tr><tr><td>//belfuse.com/resources/drawings/stewartconnector/dr-stw-ss-52100-001.pdf'</td><td> 'tags'</td></tr><tr><td> 'USB_A Female Connector receptacle'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_USB.3dshapes/USB_A_Stewart_SS-52100-001_Horizontal.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

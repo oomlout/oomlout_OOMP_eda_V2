@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSCAPC42XNF3V5C4N3 > oomlout_OOMP_parts : CAPC-0402-X-NF3-V50-C4N3](#fzkicadoomloutoompkicadoomloutoomppartscapc42xnf3v5c4n3--oomlout_oomp_parts--capc-0402-x-nf3-v50-c4n3)
+* [FZOOMPKOOMPPCAPC42XNF3V5C4N3 > oomlout_OOMP_parts : CAPC-0402-X-NF3-V50-C4N3](#fzoompkoomppcapc42xnf3v5c4n3--oomlout_oomp_parts--capc-0402-x-nf3-v50-c4n3)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSCAPC42XNF3V5C4N3 > oomlout_OOMP_parts : CAPC-0402-X-NF3-V50-C4N3
+# FZOOMPKOOMPPCAPC42XNF3V5C4N3 > oomlout_OOMP_parts : CAPC-0402-X-NF3-V50-C4N3
 
 - ID: FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0402-X-NF3-V50-C4N3
-- Hex ID: FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSCAPC42XNF3V5C4N3
+- Hex ID: FZOOMPKOOMPPCAPC42XNF3V5C4N3
 - Name: oomlout_OOMP_parts : CAPC-0402-X-NF3-V50-C4N3
 - Description: oomlout_OOMP_parts : CAPC-0402-X-NF3-V50-C4N3
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0402-X-NF3-V50-C4N3](http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0402-X-NF3-V50-C4N3)
-- Short Link: [http://oom.lt/FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSCAPC42XNF3V5C4N3](http://oom.lt/FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSCAPC42XNF3V5C4N3)
+- Short Link: [http://oom.lt/FZOOMPKOOMPPCAPC42XNF3V5C4N3](http://oom.lt/FZOOMPKOOMPPCAPC42XNF3V5C4N3)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|oomlout_OOMP_parts|
 |OOMP Index|oompIndex|CAPC-0402-X-NF3-V50-C4N3|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0402-X-NF3-V50-C4N3|
-|Hex ID (short code)|hexID|FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSCAPC42XNF3V5C4N3|
+|Hex ID (short code)|hexID|FZOOMPKOOMPPCAPC42XNF3V5C4N3|
 |name|name|oomlout_OOMP_parts : CAPC-0402-X-NF3-V50-C4N3|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'CAPC-0402-X-NF3-V50-C4N3'</td><td> 'description'</td></tr><tr><td> 'hexID</td></tr><tr><td> C4N3;PARTL C-JLCC;C26404;MANUF C-XXXX;CL05B332KB5NNNC; Capacitor SMD 0402 (1005 Metric)</td><td> square (rectangular) end terminal</td><td> IPC_7351 nominal</td><td> (Body size source</td></tr><tr><td> IPC-SM-782 page 76</td><td> https</td></tr><tr><td>//www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)</td><td> generated with kicad-footprint-generator'</td><td> 'tags'</td></tr><tr><td> 'capacitor'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Capacitor_SMD.3dshapes/C_0402_1005Metric.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||

@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKCNIDCIDCHEADER2X81MPP254LATCHVERTICAL > Connector_IDC : IDC-Header_2x08-1MP_P2.54mm_Latch_Vertical](#fzkcnidcidcheader2x81mpp254latchvertical--connector_idc--idc-header_2x08-1mp_p254mm_latch_vertical)
+* [FZKCNIDCIDCHEADER2X81MPP254LATCHF > Connector_IDC : IDC-Header_2x08-1MP_P2.54mm_Latch_Vertical](#fzkcnidcidcheader2x81mpp254latchf--connector_idc--idc-header_2x08-1mp_p254mm_latch_vertical)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKCNIDCIDCHEADER2X81MPP254LATCHVERTICAL > Connector_IDC : IDC-Header_2x08-1MP_P2.54mm_Latch_Vertical
+# FZKCNIDCIDCHEADER2X81MPP254LATCHF > Connector_IDC : IDC-Header_2x08-1MP_P2.54mm_Latch_Vertical
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_IDC-IDC-Header_2x08-1MP_P2.54mm_Latch_Vertical
-- Hex ID: FZKCNIDCIDCHEADER2X81MPP254LATCHVERTICAL
+- Hex ID: FZKCNIDCIDCHEADER2X81MPP254LATCHF
 - Name: Connector_IDC : IDC-Header_2x08-1MP_P2.54mm_Latch_Vertical
 - Description: Connector_IDC : IDC-Header_2x08-1MP_P2.54mm_Latch_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_IDC-IDC-Header_2x08-1MP_P2.54mm_Latch_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_IDC-IDC-Header_2x08-1MP_P2.54mm_Latch_Vertical)
-- Short Link: [http://oom.lt/FZKCNIDCIDCHEADER2X81MPP254LATCHVERTICAL](http://oom.lt/FZKCNIDCIDCHEADER2X81MPP254LATCHVERTICAL)
+- Short Link: [http://oom.lt/FZKCNIDCIDCHEADER2X81MPP254LATCHF](http://oom.lt/FZKCNIDCIDCHEADER2X81MPP254LATCHF)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Connector_IDC|
 |OOMP Index|oompIndex|IDC-Header_2x08-1MP_P2.54mm_Latch_Vertical|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_IDC-IDC-Header_2x08-1MP_P2.54mm_Latch_Vertical|
-|Hex ID (short code)|hexID|FZKCNIDCIDCHEADER2X81MPP254LATCHVERTICAL|
+|Hex ID (short code)|hexID|FZKCNIDCIDCHEADER2X81MPP254LATCHF|
 |name|name|Connector_IDC : IDC-Header_2x08-1MP_P2.54mm_Latch_Vertical|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'IDC-Header_2x08-1MP_P2.54mm_Latch_Vertical'</td><td> 'description'</td></tr><tr><td> 'Through hole IDC header</td><td> 2x08</td><td> 2.54mm pitch</td><td> DIN 41651 / IEC 60603-13</td><td> double rows latches</td><td> mounting holes</td><td> https</td></tr><tr><td>//docs.google.com/spreadsheets/d/16SsEcesNF15N3Lb4niX7dcUr-NY5_MFPQhobNuNppn4/edit#gid=0'</td><td> 'tags'</td></tr><tr><td> 'Through hole vertical IDC header THT 2x08 2.54mm double row'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_IDC.3dshapes/IDC-Header_2x08-1MP_P2.54mm_Latch_Vertical.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||

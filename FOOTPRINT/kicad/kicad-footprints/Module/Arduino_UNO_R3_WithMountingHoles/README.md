@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKMOARDUNOR3WITOUNTINGH > Module : Arduino_UNO_R3_WithMountingHoles](#fzkmoardunor3witountingh--module--arduino_uno_r3_withmountingholes)
+* [FZKMOARDUNOR3WITHHOLS > Module : Arduino_UNO_R3_WithMountingHoles](#fzkmoardunor3withhols--module--arduino_uno_r3_withmountingholes)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKMOARDUNOR3WITOUNTINGH > Module : Arduino_UNO_R3_WithMountingHoles
+# FZKMOARDUNOR3WITHHOLS > Module : Arduino_UNO_R3_WithMountingHoles
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Module-Arduino_UNO_R3_WithMountingHoles
-- Hex ID: FZKMOARDUNOR3WITOUNTINGH
+- Hex ID: FZKMOARDUNOR3WITHHOLS
 - Name: Module : Arduino_UNO_R3_WithMountingHoles
 - Description: Module : Arduino_UNO_R3_WithMountingHoles
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Module-Arduino_UNO_R3_WithMountingHoles](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Module-Arduino_UNO_R3_WithMountingHoles)
-- Short Link: [http://oom.lt/FZKMOARDUNOR3WITOUNTINGH](http://oom.lt/FZKMOARDUNOR3WITOUNTINGH)
+- Short Link: [http://oom.lt/FZKMOARDUNOR3WITHHOLS](http://oom.lt/FZKMOARDUNOR3WITHHOLS)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Module|
 |OOMP Index|oompIndex|Arduino_UNO_R3_WithMountingHoles|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Module-Arduino_UNO_R3_WithMountingHoles|
-|Hex ID (short code)|hexID|FZKMOARDUNOR3WITOUNTINGH|
+|Hex ID (short code)|hexID|FZKMOARDUNOR3WITHHOLS|
 |name|name|Module : Arduino_UNO_R3_WithMountingHoles|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Arduino_UNO_R3_WithMountingHoles'</td><td> 'description'</td></tr><tr><td> 'Arduino UNO R3</td><td> http</td></tr><tr><td>//www.mouser.com/pdfdocs/Gravitech_Arduino_Nano3_0.pdf'</td><td> 'tags'</td></tr><tr><td> 'Arduino UNO R3'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Module.3dshapes/Arduino_UNO_R3_WithMountingHoles.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'np_thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||

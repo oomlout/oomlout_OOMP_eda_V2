@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKCNCOABNCPANELMOUNTABLEVERTICAL > Connector_Coaxial : BNC_PanelMountable_Vertical](#fzkcncoabncpanelmountablevertical--connector_coaxial--bnc_panelmountable_vertical)
+* [FZKCNCOABNCPANELMOUNTABLEF > Connector_Coaxial : BNC_PanelMountable_Vertical](#fzkcncoabncpanelmountablef--connector_coaxial--bnc_panelmountable_vertical)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKCNCOABNCPANELMOUNTABLEVERTICAL > Connector_Coaxial : BNC_PanelMountable_Vertical
+# FZKCNCOABNCPANELMOUNTABLEF > Connector_Coaxial : BNC_PanelMountable_Vertical
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_Coaxial-BNC_PanelMountable_Vertical
-- Hex ID: FZKCNCOABNCPANELMOUNTABLEVERTICAL
+- Hex ID: FZKCNCOABNCPANELMOUNTABLEF
 - Name: Connector_Coaxial : BNC_PanelMountable_Vertical
 - Description: Connector_Coaxial : BNC_PanelMountable_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Coaxial-BNC_PanelMountable_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Coaxial-BNC_PanelMountable_Vertical)
-- Short Link: [http://oom.lt/FZKCNCOABNCPANELMOUNTABLEVERTICAL](http://oom.lt/FZKCNCOABNCPANELMOUNTABLEVERTICAL)
+- Short Link: [http://oom.lt/FZKCNCOABNCPANELMOUNTABLEF](http://oom.lt/FZKCNCOABNCPANELMOUNTABLEF)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Connector_Coaxial|
 |OOMP Index|oompIndex|BNC_PanelMountable_Vertical|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Coaxial-BNC_PanelMountable_Vertical|
-|Hex ID (short code)|hexID|FZKCNCOABNCPANELMOUNTABLEVERTICAL|
+|Hex ID (short code)|hexID|FZKCNCOABNCPANELMOUNTABLEF|
 |name|name|Connector_Coaxial : BNC_PanelMountable_Vertical|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'BNC_PanelMountable_Vertical'</td><td> 'description'</td></tr><tr><td> 'Panel-mountable BNC connector mounted through PCB</td><td> vertical'</td><td> 'tags'</td></tr><tr><td> 'BNC connector'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_Coaxial.3dshapes/BNC_PanelMountable_Vertical.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||

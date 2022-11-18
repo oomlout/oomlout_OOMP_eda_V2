@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKPPOTENTIOMETEROMEGPC16BUVERTICAL > Potentiometer_THT : Potentiometer_Omeg_PC16BU_Vertical](#fzkppotentiometeromegpc16buvertical--potentiometer_tht--potentiometer_omeg_pc16bu_vertical)
+* [FZKPPOTOMEGPC16BUF > Potentiometer_THT : Potentiometer_Omeg_PC16BU_Vertical](#fzkppotomegpc16buf--potentiometer_tht--potentiometer_omeg_pc16bu_vertical)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKPPOTENTIOMETEROMEGPC16BUVERTICAL > Potentiometer_THT : Potentiometer_Omeg_PC16BU_Vertical
+# FZKPPOTOMEGPC16BUF > Potentiometer_THT : Potentiometer_Omeg_PC16BU_Vertical
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Potentiometer_THT-Potentiometer_Omeg_PC16BU_Vertical
-- Hex ID: FZKPPOTENTIOMETEROMEGPC16BUVERTICAL
+- Hex ID: FZKPPOTOMEGPC16BUF
 - Name: Potentiometer_THT : Potentiometer_Omeg_PC16BU_Vertical
 - Description: Potentiometer_THT : Potentiometer_Omeg_PC16BU_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Potentiometer_THT-Potentiometer_Omeg_PC16BU_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Potentiometer_THT-Potentiometer_Omeg_PC16BU_Vertical)
-- Short Link: [http://oom.lt/FZKPPOTENTIOMETEROMEGPC16BUVERTICAL](http://oom.lt/FZKPPOTENTIOMETEROMEGPC16BUVERTICAL)
+- Short Link: [http://oom.lt/FZKPPOTOMEGPC16BUF](http://oom.lt/FZKPPOTOMEGPC16BUF)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Potentiometer_THT|
 |OOMP Index|oompIndex|Potentiometer_Omeg_PC16BU_Vertical|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Potentiometer_THT-Potentiometer_Omeg_PC16BU_Vertical|
-|Hex ID (short code)|hexID|FZKPPOTENTIOMETEROMEGPC16BUVERTICAL|
+|Hex ID (short code)|hexID|FZKPPOTOMEGPC16BUF|
 |name|name|Potentiometer_THT : Potentiometer_Omeg_PC16BU_Vertical|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Potentiometer_Omeg_PC16BU_Vertical'</td><td> 'description'</td></tr><tr><td> 'Potentiometer</td><td> vertical</td><td> Omeg PC16BU</td><td> http</td></tr><tr><td>//www.omeg.co.uk/pc6bubrc.htm'</td><td> 'tags'</td></tr><tr><td> 'Potentiometer vertical Omeg PC16BU'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Potentiometer_THT.3dshapes/Potentiometer_Omeg_PC16BU_Vertical.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||

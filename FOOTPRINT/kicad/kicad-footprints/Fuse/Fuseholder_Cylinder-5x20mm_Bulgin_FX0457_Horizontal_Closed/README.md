@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKFUFUHOLDERCYLINDER5X2BULGINFX457HORIZONTALCLOSED > Fuse : Fuseholder_Cylinder-5x20mm_Bulgin_FX0457_Horizontal_Closed](#fzkfufuholdercylinder5x2bulginfx457horizontalclosed--fuse--fuseholder_cylinder-5x20mm_bulgin_fx0457_horizontal_closed)
+* [FZKFUFUHOLDERCYLINDER5X2BULGINFX457HCLOSED > Fuse : Fuseholder_Cylinder-5x20mm_Bulgin_FX0457_Horizontal_Closed](#fzkfufuholdercylinder5x2bulginfx457hclosed--fuse--fuseholder_cylinder-5x20mm_bulgin_fx0457_horizontal_closed)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKFUFUHOLDERCYLINDER5X2BULGINFX457HORIZONTALCLOSED > Fuse : Fuseholder_Cylinder-5x20mm_Bulgin_FX0457_Horizontal_Closed
+# FZKFUFUHOLDERCYLINDER5X2BULGINFX457HCLOSED > Fuse : Fuseholder_Cylinder-5x20mm_Bulgin_FX0457_Horizontal_Closed
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Fuse-Fuseholder_Cylinder-5x20mm_Bulgin_FX0457_Horizontal_Closed
-- Hex ID: FZKFUFUHOLDERCYLINDER5X2BULGINFX457HORIZONTALCLOSED
+- Hex ID: FZKFUFUHOLDERCYLINDER5X2BULGINFX457HCLOSED
 - Name: Fuse : Fuseholder_Cylinder-5x20mm_Bulgin_FX0457_Horizontal_Closed
 - Description: Fuse : Fuseholder_Cylinder-5x20mm_Bulgin_FX0457_Horizontal_Closed
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Fuse-Fuseholder_Cylinder-5x20mm_Bulgin_FX0457_Horizontal_Closed](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Fuse-Fuseholder_Cylinder-5x20mm_Bulgin_FX0457_Horizontal_Closed)
-- Short Link: [http://oom.lt/FZKFUFUHOLDERCYLINDER5X2BULGINFX457HORIZONTALCLOSED](http://oom.lt/FZKFUFUHOLDERCYLINDER5X2BULGINFX457HORIZONTALCLOSED)
+- Short Link: [http://oom.lt/FZKFUFUHOLDERCYLINDER5X2BULGINFX457HCLOSED](http://oom.lt/FZKFUFUHOLDERCYLINDER5X2BULGINFX457HCLOSED)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Fuse|
 |OOMP Index|oompIndex|Fuseholder_Cylinder-5x20mm_Bulgin_FX0457_Horizontal_Closed|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Fuse-Fuseholder_Cylinder-5x20mm_Bulgin_FX0457_Horizontal_Closed|
-|Hex ID (short code)|hexID|FZKFUFUHOLDERCYLINDER5X2BULGINFX457HORIZONTALCLOSED|
+|Hex ID (short code)|hexID|FZKFUFUHOLDERCYLINDER5X2BULGINFX457HCLOSED|
 |name|name|Fuse : Fuseholder_Cylinder-5x20mm_Bulgin_FX0457_Horizontal_Closed|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Fuseholder_Cylinder-5x20mm_Bulgin_FX0457_Horizontal_Closed'</td><td> 'description'</td></tr><tr><td> 'Fuseholder</td><td> 5x20</td><td> closed</td><td> horizontal</td><td> Bulgin</td><td> FX0457</td><td> Sicherungshalter</td><td>'</td><td> 'tags'</td></tr><tr><td> 'Fuseholder 5x20 closed horizontal Bulgin FX0457 Sicherungshalter '</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Fuse.3dshapes/Fuseholder_Cylinder-5x20mm_Bulgin_FX0457_Horizontal_Closed.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||

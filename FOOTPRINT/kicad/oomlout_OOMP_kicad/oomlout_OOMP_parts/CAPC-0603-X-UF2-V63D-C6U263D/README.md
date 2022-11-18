@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSCAPC63XUF2V63DC6U263D > oomlout_OOMP_parts : CAPC-0603-X-UF2-V63D-C6U263D](#fzkicadoomloutoompkicadoomloutoomppartscapc63xuf2v63dc6u263d--oomlout_oomp_parts--capc-0603-x-uf2-v63d-c6u263d)
+* [FZOOMPKOOMPPCAPC63XUF2V63DC6U263D > oomlout_OOMP_parts : CAPC-0603-X-UF2-V63D-C6U263D](#fzoompkoomppcapc63xuf2v63dc6u263d--oomlout_oomp_parts--capc-0603-x-uf2-v63d-c6u263d)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSCAPC63XUF2V63DC6U263D > oomlout_OOMP_parts : CAPC-0603-X-UF2-V63D-C6U263D
+# FZOOMPKOOMPPCAPC63XUF2V63DC6U263D > oomlout_OOMP_parts : CAPC-0603-X-UF2-V63D-C6U263D
 
 - ID: FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0603-X-UF2-V63D-C6U263D
-- Hex ID: FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSCAPC63XUF2V63DC6U263D
+- Hex ID: FZOOMPKOOMPPCAPC63XUF2V63DC6U263D
 - Name: oomlout_OOMP_parts : CAPC-0603-X-UF2-V63D-C6U263D
 - Description: oomlout_OOMP_parts : CAPC-0603-X-UF2-V63D-C6U263D
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0603-X-UF2-V63D-C6U263D](http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0603-X-UF2-V63D-C6U263D)
-- Short Link: [http://oom.lt/FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSCAPC63XUF2V63DC6U263D](http://oom.lt/FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSCAPC63XUF2V63DC6U263D)
+- Short Link: [http://oom.lt/FZOOMPKOOMPPCAPC63XUF2V63DC6U263D](http://oom.lt/FZOOMPKOOMPPCAPC63XUF2V63DC6U263D)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|oomlout_OOMP_parts|
 |OOMP Index|oompIndex|CAPC-0603-X-UF2-V63D-C6U263D|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0603-X-UF2-V63D-C6U263D|
-|Hex ID (short code)|hexID|FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSCAPC63XUF2V63DC6U263D|
+|Hex ID (short code)|hexID|FZOOMPKOOMPPCAPC63XUF2V63DC6U263D|
 |name|name|oomlout_OOMP_parts : CAPC-0603-X-UF2-V63D-C6U263D|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'CAPC-0603-X-UF2-V63D-C6U263D'</td><td> 'description'</td></tr><tr><td> 'hexID</td></tr><tr><td> C6U263D;PARTL C-JLCC;C59461;MANUF C-XXXX;CL10A226MQ8NRNC; Capacitor SMD 0603 (1608 Metric)</td><td> square (rectangular) end terminal</td><td> IPC_7351 nominal</td><td> (Body size source</td></tr><tr><td> IPC-SM-782 page 76</td><td> https</td></tr><tr><td>//www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)</td><td> generated with kicad-footprint-generator'</td><td> 'tags'</td></tr><tr><td> 'capacitor'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Capacitor_SMD.3dshapes/C_0603_1608Metric.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||

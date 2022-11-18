@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKLLD3HORIZONTALO127Z2CLEAR > LED_THT : LED_D3.0mm_Horizontal_O1.27mm_Z2.0mm_Clear](#fzklld3horizontalo127z2clear--led_tht--led_d30mm_horizontal_o127mm_z20mm_clear)
+* [FZKLLD3HO127Z2CLEAR > LED_THT : LED_D3.0mm_Horizontal_O1.27mm_Z2.0mm_Clear](#fzklld3ho127z2clear--led_tht--led_d30mm_horizontal_o127mm_z20mm_clear)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKLLD3HORIZONTALO127Z2CLEAR > LED_THT : LED_D3.0mm_Horizontal_O1.27mm_Z2.0mm_Clear
+# FZKLLD3HO127Z2CLEAR > LED_THT : LED_D3.0mm_Horizontal_O1.27mm_Z2.0mm_Clear
 
 - ID: FOOTPRINT-kicad-kicad-footprints-LED_THT-LED_D3.0mm_Horizontal_O1.27mm_Z2.0mm_Clear
-- Hex ID: FZKLLD3HORIZONTALO127Z2CLEAR
+- Hex ID: FZKLLD3HO127Z2CLEAR
 - Name: LED_THT : LED_D3.0mm_Horizontal_O1.27mm_Z2.0mm_Clear
 - Description: LED_THT : LED_D3.0mm_Horizontal_O1.27mm_Z2.0mm_Clear
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-LED_THT-LED_D3.0mm_Horizontal_O1.27mm_Z2.0mm_Clear](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-LED_THT-LED_D3.0mm_Horizontal_O1.27mm_Z2.0mm_Clear)
-- Short Link: [http://oom.lt/FZKLLD3HORIZONTALO127Z2CLEAR](http://oom.lt/FZKLLD3HORIZONTALO127Z2CLEAR)
+- Short Link: [http://oom.lt/FZKLLD3HO127Z2CLEAR](http://oom.lt/FZKLLD3HO127Z2CLEAR)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|LED_THT|
 |OOMP Index|oompIndex|LED_D3.0mm_Horizontal_O1.27mm_Z2.0mm_Clear|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-LED_THT-LED_D3.0mm_Horizontal_O1.27mm_Z2.0mm_Clear|
-|Hex ID (short code)|hexID|FZKLLD3HORIZONTALO127Z2CLEAR|
+|Hex ID (short code)|hexID|FZKLLD3HO127Z2CLEAR|
 |name|name|LED_THT : LED_D3.0mm_Horizontal_O1.27mm_Z2.0mm_Clear|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'LED_D3.0mm_Horizontal_O1.27mm_Z2.0mm_Clear'</td><td> 'description'</td></tr><tr><td> 'LED</td><td> diameter 3.0mm z-position of LED center 2.0mm</td><td> 2 pins'</td><td> 'tags'</td></tr><tr><td> 'LED diameter 3.0mm z-position of LED center 2.0mm 2 pins'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/LED_THT.3dshapes/LED_D3.0mm_Horizontal_O1.27mm_Z2.0mm_Clear.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

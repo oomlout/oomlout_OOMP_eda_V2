@@ -5,18 +5,18 @@
 Contents
 ========
 
-* [SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE126XO1211R12O121 > oomlout_OOMP_parts : RESE-1206-X-O121-01-R12O121](#szkicadoomloutoompkicadoomloutoomppartsrese126xo1211r12o121--oomlout_oomp_parts--rese-1206-x-o121-01-r12o121)
+* [SZOOMPKOOMPPRESE126XO1211R12O121 > oomlout_OOMP_parts : RESE-1206-X-O121-01-R12O121](#szoompkoompprese126xo1211r12o121--oomlout_oomp_parts--rese-1206-x-o121-01-r12o121)
 	* [Tags](#tags)
   
 NO IMAGE  
-# SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE126XO1211R12O121 > oomlout_OOMP_parts : RESE-1206-X-O121-01-R12O121
+# SZOOMPKOOMPPRESE126XO1211R12O121 > oomlout_OOMP_parts : RESE-1206-X-O121-01-R12O121
 
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-1206-X-O121-01-R12O121
-- Hex ID: SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE126XO1211R12O121
+- Hex ID: SZOOMPKOOMPPRESE126XO1211R12O121
 - Name: oomlout_OOMP_parts : RESE-1206-X-O121-01-R12O121
 - Description: oomlout_OOMP_parts : RESE-1206-X-O121-01-R12O121
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-1206-X-O121-01-R12O121](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-1206-X-O121-01-R12O121)
-- Short Link: [http://oom.lt/SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE126XO1211R12O121](http://oom.lt/SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE126XO1211R12O121)
+- Short Link: [http://oom.lt/SZOOMPKOOMPPRESE126XO1211R12O121](http://oom.lt/SZOOMPKOOMPPRESE126XO1211R12O121)
   
 NO IMAGES  
 ## Tags
@@ -30,7 +30,7 @@ NO IMAGES
 |OOMP Description|oompDesc|oomlout_OOMP_parts|
 |OOMP Index|oompIndex|RESE-1206-X-O121-01-R12O121|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-1206-X-O121-01-R12O121|
-|Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE126XO1211R12O121|
+|Hex ID (short code)|hexID|SZOOMPKOOMPPRESE126XO1211R12O121|
 |name|name|oomlout_OOMP_parts : RESE-1206-X-O121-01-R12O121|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'R'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'RESE-1206-X-O121-01-R12O121'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'oomlout_OOMP_parts</td></tr><tr><td>RESE-1206-X-O121-01-R12O121'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'oom.lt/R12O121'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'R res resistor'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'hexID</td></tr><tr><td> R12O121;PARTL C-JLCC;C17909;MANUF C-XXXX;1206W4F1200T5E;Resistor'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'R_*'</td></tr></table>]|
 ||||

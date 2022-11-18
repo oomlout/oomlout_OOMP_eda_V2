@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKCNJSTJSTJWPFB6BJWPFSKR2X3P2VERTICAL > Connector_JST : JST_JWPF_B06B-JWPF-SK-R_2x03_P2.00mm_Vertical](#fzkcnjstjstjwpfb6bjwpfskr2x3p2vertical--connector_jst--jst_jwpf_b06b-jwpf-sk-r_2x03_p200mm_vertical)
+* [FZKCNJSTJSTJWPFB6BJWPFSKR2X3P2F > Connector_JST : JST_JWPF_B06B-JWPF-SK-R_2x03_P2.00mm_Vertical](#fzkcnjstjstjwpfb6bjwpfskr2x3p2f--connector_jst--jst_jwpf_b06b-jwpf-sk-r_2x03_p200mm_vertical)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKCNJSTJSTJWPFB6BJWPFSKR2X3P2VERTICAL > Connector_JST : JST_JWPF_B06B-JWPF-SK-R_2x03_P2.00mm_Vertical
+# FZKCNJSTJSTJWPFB6BJWPFSKR2X3P2F > Connector_JST : JST_JWPF_B06B-JWPF-SK-R_2x03_P2.00mm_Vertical
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_JWPF_B06B-JWPF-SK-R_2x03_P2.00mm_Vertical
-- Hex ID: FZKCNJSTJSTJWPFB6BJWPFSKR2X3P2VERTICAL
+- Hex ID: FZKCNJSTJSTJWPFB6BJWPFSKR2X3P2F
 - Name: Connector_JST : JST_JWPF_B06B-JWPF-SK-R_2x03_P2.00mm_Vertical
 - Description: Connector_JST : JST_JWPF_B06B-JWPF-SK-R_2x03_P2.00mm_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_JWPF_B06B-JWPF-SK-R_2x03_P2.00mm_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_JWPF_B06B-JWPF-SK-R_2x03_P2.00mm_Vertical)
-- Short Link: [http://oom.lt/FZKCNJSTJSTJWPFB6BJWPFSKR2X3P2VERTICAL](http://oom.lt/FZKCNJSTJSTJWPFB6BJWPFSKR2X3P2VERTICAL)
+- Short Link: [http://oom.lt/FZKCNJSTJSTJWPFB6BJWPFSKR2X3P2F](http://oom.lt/FZKCNJSTJSTJWPFB6BJWPFSKR2X3P2F)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Connector_JST|
 |OOMP Index|oompIndex|JST_JWPF_B06B-JWPF-SK-R_2x03_P2.00mm_Vertical|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_JWPF_B06B-JWPF-SK-R_2x03_P2.00mm_Vertical|
-|Hex ID (short code)|hexID|FZKCNJSTJSTJWPFB6BJWPFSKR2X3P2VERTICAL|
+|Hex ID (short code)|hexID|FZKCNJSTJSTJWPFB6BJWPFSKR2X3P2F|
 |name|name|Connector_JST : JST_JWPF_B06B-JWPF-SK-R_2x03_P2.00mm_Vertical|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'JST_JWPF_B06B-JWPF-SK-R_2x03_P2.00mm_Vertical'</td><td> 'description'</td></tr><tr><td> 'JST JWPF series connector</td><td> B06B-JWPF-SK-R (http</td></tr><tr><td>//www.jst-mfg.com/product/pdf/eng/eJWPF1.pdf)</td><td> generated with kicad-footprint-generator'</td><td> 'tags'</td></tr><tr><td> 'connector JST JWPF side entry'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_JST.3dshapes/JST_JWPF_B06B-JWPF-SK-R_2x03_P2.00mm_Vertical.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'np_thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||

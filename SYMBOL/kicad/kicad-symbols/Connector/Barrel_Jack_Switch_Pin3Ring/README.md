@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [SZKCNBARRELJSWITCHPIN3RING > Connector : Barrel_Jack_Switch_Pin3Ring](#szkcnbarreljswitchpin3ring--connector--barrel_jack_switch_pin3ring)
+* [SZKCNBARRELJSWPIN3RING > Connector : Barrel_Jack_Switch_Pin3Ring](#szkcnbarreljswpin3ring--connector--barrel_jack_switch_pin3ring)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# SZKCNBARRELJSWITCHPIN3RING > Connector : Barrel_Jack_Switch_Pin3Ring
+# SZKCNBARRELJSWPIN3RING > Connector : Barrel_Jack_Switch_Pin3Ring
 
 - ID: SYMBOL-kicad-kicad-symbols-Connector-Barrel_Jack_Switch_Pin3Ring
-- Hex ID: SZKCNBARRELJSWITCHPIN3RING
+- Hex ID: SZKCNBARRELJSWPIN3RING
 - Name: Connector : Barrel_Jack_Switch_Pin3Ring
 - Description: Connector : Barrel_Jack_Switch_Pin3Ring
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-Barrel_Jack_Switch_Pin3Ring](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-Barrel_Jack_Switch_Pin3Ring)
-- Short Link: [http://oom.lt/SZKCNBARRELJSWITCHPIN3RING](http://oom.lt/SZKCNBARRELJSWITCHPIN3RING)
+- Short Link: [http://oom.lt/SZKCNBARRELJSWPIN3RING](http://oom.lt/SZKCNBARRELJSWPIN3RING)
 
 ## Images
   
@@ -36,7 +36,7 @@ Contents
 |OOMP Description|oompDesc|Connector|
 |OOMP Index|oompIndex|Barrel_Jack_Switch_Pin3Ring|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector-Barrel_Jack_Switch_Pin3Ring|
-|Hex ID (short code)|hexID|SZKCNBARRELJSWITCHPIN3RING|
+|Hex ID (short code)|hexID|SZKCNBARRELJSWPIN3RING|
 |name|name|Connector : Barrel_Jack_Switch_Pin3Ring|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'J'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'Barrel_Jack_Switch_Pin3Ring'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'DC power barrel jack connector'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'DC Barrel Jack with an internal switch'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'BarrelJack*'</td></tr></table>]|
 ||||

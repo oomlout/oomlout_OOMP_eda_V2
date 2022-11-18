@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKDD5WP127HORIZONTAL > Diode_THT : D_5W_P12.70mm_Horizontal](#fzkdd5wp127horizontal--diode_tht--d_5w_p1270mm_horizontal)
+* [FZKDD5WP127H > Diode_THT : D_5W_P12.70mm_Horizontal](#fzkdd5wp127h--diode_tht--d_5w_p1270mm_horizontal)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKDD5WP127HORIZONTAL > Diode_THT : D_5W_P12.70mm_Horizontal
+# FZKDD5WP127H > Diode_THT : D_5W_P12.70mm_Horizontal
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Diode_THT-D_5W_P12.70mm_Horizontal
-- Hex ID: FZKDD5WP127HORIZONTAL
+- Hex ID: FZKDD5WP127H
 - Name: Diode_THT : D_5W_P12.70mm_Horizontal
 - Description: Diode_THT : D_5W_P12.70mm_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Diode_THT-D_5W_P12.70mm_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Diode_THT-D_5W_P12.70mm_Horizontal)
-- Short Link: [http://oom.lt/FZKDD5WP127HORIZONTAL](http://oom.lt/FZKDD5WP127HORIZONTAL)
+- Short Link: [http://oom.lt/FZKDD5WP127H](http://oom.lt/FZKDD5WP127H)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Diode_THT|
 |OOMP Index|oompIndex|D_5W_P12.70mm_Horizontal|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Diode_THT-D_5W_P12.70mm_Horizontal|
-|Hex ID (short code)|hexID|FZKDD5WP127HORIZONTAL|
+|Hex ID (short code)|hexID|FZKDD5WP127H|
 |name|name|Diode_THT : D_5W_P12.70mm_Horizontal|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'D_5W_P12.70mm_Horizontal'</td><td> 'description'</td></tr><tr><td> 'Diode</td><td> 5W series</td><td> Axial</td><td> Horizontal</td><td> pin pitch=12.7mm</td><td> </td><td> length*diameter=8.9*3.7mm^2</td><td> </td><td> http</td></tr><tr><td>//www.diodes.com/_files/packages/8686949.gif'</td><td> 'tags'</td></tr><tr><td> 'Diode 5W series Axial Horizontal pin pitch 12.7mm  length 8.9mm diameter 3.7mm'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Diode_THT.3dshapes/D_5W_P12.70mm_Horizontal.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

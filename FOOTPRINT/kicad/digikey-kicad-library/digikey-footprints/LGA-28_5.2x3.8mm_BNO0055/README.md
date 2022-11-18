@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSLGA2852X38BNO55 > digikey-footprints : LGA-28_5.2x3.8mm_BNO0055](#fzkicaddigikeykicadlibrarydigikeyfootprintslga2852x38bno55--digikey-footprints--lga-28_52x38mm_bno0055)
+* [FZDIGIDIGIKEYFOOTPRINTSLGA2852X38BNO55 > digikey-footprints : LGA-28_5.2x3.8mm_BNO0055](#fzdigidigikeyfootprintslga2852x38bno55--digikey-footprints--lga-28_52x38mm_bno0055)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSLGA2852X38BNO55 > digikey-footprints : LGA-28_5.2x3.8mm_BNO0055
+# FZDIGIDIGIKEYFOOTPRINTSLGA2852X38BNO55 > digikey-footprints : LGA-28_5.2x3.8mm_BNO0055
 
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-LGA-28_5.2x3.8mm_BNO0055
-- Hex ID: FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSLGA2852X38BNO55
+- Hex ID: FZDIGIDIGIKEYFOOTPRINTSLGA2852X38BNO55
 - Name: digikey-footprints : LGA-28_5.2x3.8mm_BNO0055
 - Description: digikey-footprints : LGA-28_5.2x3.8mm_BNO0055
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-LGA-28_5.2x3.8mm_BNO0055](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-LGA-28_5.2x3.8mm_BNO0055)
-- Short Link: [http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSLGA2852X38BNO55](http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSLGA2852X38BNO55)
+- Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSLGA2852X38BNO55](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSLGA2852X38BNO55)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|digikey-footprints|
 |OOMP Index|oompIndex|LGA-28_5.2x3.8mm_BNO0055|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-LGA-28_5.2x3.8mm_BNO0055|
-|Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSLGA2852X38BNO55|
+|Hex ID (short code)|hexID|FZDIGIDIGIKEYFOOTPRINTSLGA2852X38BNO55|
 |name|name|digikey-footprints : LGA-28_5.2x3.8mm_BNO0055|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'LGA-28_5.2x3.8mm_BNO0055'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSLFQFN161EP4X4 > digikey-footprints : LFQFN-16-1EP_4x4mm](#fzkicaddigikeykicadlibrarydigikeyfootprintslfqfn161ep4x4--digikey-footprints--lfqfn-16-1ep_4x4mm)
+* [FZDIGIDIGIKEYFOOTPRINTSLFQFN161EP4X4 > digikey-footprints : LFQFN-16-1EP_4x4mm](#fzdigidigikeyfootprintslfqfn161ep4x4--digikey-footprints--lfqfn-16-1ep_4x4mm)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSLFQFN161EP4X4 > digikey-footprints : LFQFN-16-1EP_4x4mm
+# FZDIGIDIGIKEYFOOTPRINTSLFQFN161EP4X4 > digikey-footprints : LFQFN-16-1EP_4x4mm
 
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-LFQFN-16-1EP_4x4mm
-- Hex ID: FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSLFQFN161EP4X4
+- Hex ID: FZDIGIDIGIKEYFOOTPRINTSLFQFN161EP4X4
 - Name: digikey-footprints : LFQFN-16-1EP_4x4mm
 - Description: digikey-footprints : LFQFN-16-1EP_4x4mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-LFQFN-16-1EP_4x4mm](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-LFQFN-16-1EP_4x4mm)
-- Short Link: [http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSLFQFN161EP4X4](http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSLFQFN161EP4X4)
+- Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSLFQFN161EP4X4](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSLFQFN161EP4X4)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|digikey-footprints|
 |OOMP Index|oompIndex|LFQFN-16-1EP_4x4mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-LFQFN-16-1EP_4x4mm|
-|Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSLFQFN161EP4X4|
+|Hex ID (short code)|hexID|FZDIGIDIGIKEYFOOTPRINTSLFQFN161EP4X4|
 |name|name|digikey-footprints : LFQFN-16-1EP_4x4mm|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'LFQFN-16-1EP_4x4mm'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKINDUCTORSMLTAIYOYUDENNR6XXHANDSOLDERING > Inductor_SMD : L_Taiyo-Yuden_NR-60xx_HandSoldering](#fzkinductorsmltaiyoyudennr6xxhandsoldering--inductor_smd--l_taiyo-yuden_nr-60xx_handsoldering)
+* [FZKINLTAIYOYUDENNR6XXHANDSOLDERING > Inductor_SMD : L_Taiyo-Yuden_NR-60xx_HandSoldering](#fzkinltaiyoyudennr6xxhandsoldering--inductor_smd--l_taiyo-yuden_nr-60xx_handsoldering)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKINDUCTORSMLTAIYOYUDENNR6XXHANDSOLDERING > Inductor_SMD : L_Taiyo-Yuden_NR-60xx_HandSoldering
+# FZKINLTAIYOYUDENNR6XXHANDSOLDERING > Inductor_SMD : L_Taiyo-Yuden_NR-60xx_HandSoldering
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Taiyo-Yuden_NR-60xx_HandSoldering
-- Hex ID: FZKINDUCTORSMLTAIYOYUDENNR6XXHANDSOLDERING
+- Hex ID: FZKINLTAIYOYUDENNR6XXHANDSOLDERING
 - Name: Inductor_SMD : L_Taiyo-Yuden_NR-60xx_HandSoldering
 - Description: Inductor_SMD : L_Taiyo-Yuden_NR-60xx_HandSoldering
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Taiyo-Yuden_NR-60xx_HandSoldering](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Taiyo-Yuden_NR-60xx_HandSoldering)
-- Short Link: [http://oom.lt/FZKINDUCTORSMLTAIYOYUDENNR6XXHANDSOLDERING](http://oom.lt/FZKINDUCTORSMLTAIYOYUDENNR6XXHANDSOLDERING)
+- Short Link: [http://oom.lt/FZKINLTAIYOYUDENNR6XXHANDSOLDERING](http://oom.lt/FZKINLTAIYOYUDENNR6XXHANDSOLDERING)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Inductor_SMD|
 |OOMP Index|oompIndex|L_Taiyo-Yuden_NR-60xx_HandSoldering|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Taiyo-Yuden_NR-60xx_HandSoldering|
-|Hex ID (short code)|hexID|FZKINDUCTORSMLTAIYOYUDENNR6XXHANDSOLDERING|
+|Hex ID (short code)|hexID|FZKINLTAIYOYUDENNR6XXHANDSOLDERING|
 |name|name|Inductor_SMD : L_Taiyo-Yuden_NR-60xx_HandSoldering|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'L_Taiyo-Yuden_NR-60xx_HandSoldering'</td><td> 'description'</td></tr><tr><td> 'Inductor</td><td> Taiyo Yuden</td><td> NR series</td><td> Taiyo-Yuden_NR-60xx</td><td> 6.0mmx6.0mm'</td><td> 'tags'</td></tr><tr><td> 'inductor taiyo-yuden nr smd'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Inductor_SMD.3dshapes/L_Taiyo-Yuden_NR-60xx.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKRESISTORSMR6121632METRIC > Resistor_SMD : R_0612_1632Metric](#fzkresistorsmr6121632metric--resistor_smd--r_0612_1632metric)
+* [FZKRR6121632VA > Resistor_SMD : R_0612_1632Metric](#fzkrr6121632va--resistor_smd--r_0612_1632metric)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKRESISTORSMR6121632METRIC > Resistor_SMD : R_0612_1632Metric
+# FZKRR6121632VA > Resistor_SMD : R_0612_1632Metric
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0612_1632Metric
-- Hex ID: FZKRESISTORSMR6121632METRIC
+- Hex ID: FZKRR6121632VA
 - Name: Resistor_SMD : R_0612_1632Metric
 - Description: Resistor_SMD : R_0612_1632Metric
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0612_1632Metric](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0612_1632Metric)
-- Short Link: [http://oom.lt/FZKRESISTORSMR6121632METRIC](http://oom.lt/FZKRESISTORSMR6121632METRIC)
+- Short Link: [http://oom.lt/FZKRR6121632VA](http://oom.lt/FZKRR6121632VA)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Resistor_SMD|
 |OOMP Index|oompIndex|R_0612_1632Metric|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0612_1632Metric|
-|Hex ID (short code)|hexID|FZKRESISTORSMR6121632METRIC|
+|Hex ID (short code)|hexID|FZKRR6121632VA|
 |name|name|Resistor_SMD : R_0612_1632Metric|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'R_0612_1632Metric'</td><td> 'description'</td></tr><tr><td> 'Resistor SMD 0612 (1632 Metric)</td><td> square (rectangular) end terminal</td><td> IPC_7351 nominal</td><td> (Body size source</td></tr><tr><td> https</td></tr><tr><td>//www.vishay.com/docs/20019/rcwe.pdf)</td><td> generated with kicad-footprint-generator'</td><td> 'tags'</td></tr><tr><td> 'resistor'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Resistor_SMD.3dshapes/R_0612_1632Metric.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||

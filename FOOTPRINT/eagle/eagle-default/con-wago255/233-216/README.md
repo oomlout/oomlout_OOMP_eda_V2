@@ -6,9 +6,10 @@ Contents
 ========
 
 * [FZECONWAGO255233216 > con-wago255 : 233-216](#fzeconwago255233216--con-wago255--233-216)
+	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZECONWAGO255233216 > con-wago255 : 233-216
 
 - ID: FOOTPRINT-eagle-eagle-default-con-wago255-233-216
@@ -17,8 +18,14 @@ NO IMAGE
 - Description: con-wago255 : 233-216
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-wago255-233-216](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-wago255-233-216)
 - Short Link: [http://oom.lt/FZECONWAGO255233216](http://oom.lt/FZECONWAGO255233216)
+
+## Images
   
-NO IMAGES  
+
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/con-wago255/233-216/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/con-wago255/233-216/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/con-wago255/233-216/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/con-wago255/233-216/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/con-wago255/233-216/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/con-wago255/233-216/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/con-wago255/233-216/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/con-wago255/233-216/kicadPcb3dBack.png)|
+| :---: | :---: | :---: | :---: |
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/con-wago255/233-216/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/con-wago255/233-216/kicadPcb3d.png)||||
+
 ## Tags
   
 
@@ -33,3 +40,7 @@ NO IMAGES
 |Hex ID (short code)|hexID|FZECONWAGO255233216|
 |name|name|con-wago255 : 233-216|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

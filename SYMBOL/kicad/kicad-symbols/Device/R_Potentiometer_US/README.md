@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [SZKDEVICERPOTENTIOMETERUS > Device : R_Potentiometer_US](#szkdevicerpotentiometerus--device--r_potentiometer_us)
+* [SZKDEVICERPOTUS > Device : R_Potentiometer_US](#szkdevicerpotus--device--r_potentiometer_us)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# SZKDEVICERPOTENTIOMETERUS > Device : R_Potentiometer_US
+# SZKDEVICERPOTUS > Device : R_Potentiometer_US
 
 - ID: SYMBOL-kicad-kicad-symbols-Device-R_Potentiometer_US
-- Hex ID: SZKDEVICERPOTENTIOMETERUS
+- Hex ID: SZKDEVICERPOTUS
 - Name: Device : R_Potentiometer_US
 - Description: Device : R_Potentiometer_US
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-R_Potentiometer_US](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-R_Potentiometer_US)
-- Short Link: [http://oom.lt/SZKDEVICERPOTENTIOMETERUS](http://oom.lt/SZKDEVICERPOTENTIOMETERUS)
+- Short Link: [http://oom.lt/SZKDEVICERPOTUS](http://oom.lt/SZKDEVICERPOTUS)
 
 ## Images
   
@@ -36,7 +36,7 @@ Contents
 |OOMP Description|oompDesc|Device|
 |OOMP Index|oompIndex|R_Potentiometer_US|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-R_Potentiometer_US|
-|Hex ID (short code)|hexID|SZKDEVICERPOTENTIOMETERUS|
+|Hex ID (short code)|hexID|SZKDEVICERPOTUS|
 |name|name|Device : R_Potentiometer_US|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'RV'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'R_Potentiometer_US'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'resistor variable'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Potentiometer</td><td> US symbol'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Potentiometer*'</td></tr></table>]|
 ||||

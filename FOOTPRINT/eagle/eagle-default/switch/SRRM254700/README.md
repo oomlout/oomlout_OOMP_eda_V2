@@ -5,18 +5,18 @@
 Contents
 ========
 
-* [FZESWITCHSRRM2547 > switch : SRRM254700](#fzeswitchsrrm2547--switch--srrm254700)
+* [FZESWSRRM2547 > switch : SRRM254700](#fzeswsrrm2547--switch--srrm254700)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZESWITCHSRRM2547 > switch : SRRM254700
+# FZESWSRRM2547 > switch : SRRM254700
 
 - ID: FOOTPRINT-eagle-eagle-default-switch-SRRM254700
-- Hex ID: FZESWITCHSRRM2547
+- Hex ID: FZESWSRRM2547
 - Name: switch : SRRM254700
 - Description: switch : SRRM254700
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-SRRM254700](http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-SRRM254700)
-- Short Link: [http://oom.lt/FZESWITCHSRRM2547](http://oom.lt/FZESWITCHSRRM2547)
+- Short Link: [http://oom.lt/FZESWSRRM2547](http://oom.lt/FZESWSRRM2547)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +30,6 @@ NO IMAGES
 |OOMP Description|oompDesc|switch|
 |OOMP Index|oompIndex|SRRM254700|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-switch-SRRM254700|
-|Hex ID (short code)|hexID|FZESWITCHSRRM2547|
+|Hex ID (short code)|hexID|FZESWSRRM2547|
 |name|name|switch : SRRM254700|
 ||||

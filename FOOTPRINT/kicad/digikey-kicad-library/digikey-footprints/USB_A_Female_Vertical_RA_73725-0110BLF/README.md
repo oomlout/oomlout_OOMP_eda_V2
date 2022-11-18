@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSUAFEMALEVERTICALRA7372511BLF > digikey-footprints : USB_A_Female_Vertical_RA_73725-0110BLF](#fzkicaddigikeykicadlibrarydigikeyfootprintsuafemaleverticalra7372511blf--digikey-footprints--usb_a_female_vertical_ra_73725-0110blf)
+* [FZDIGIDIGIKEYFOOTPRINTSUAFFRA7372511BLF > digikey-footprints : USB_A_Female_Vertical_RA_73725-0110BLF](#fzdigidigikeyfootprintsuaffra7372511blf--digikey-footprints--usb_a_female_vertical_ra_73725-0110blf)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSUAFEMALEVERTICALRA7372511BLF > digikey-footprints : USB_A_Female_Vertical_RA_73725-0110BLF
+# FZDIGIDIGIKEYFOOTPRINTSUAFFRA7372511BLF > digikey-footprints : USB_A_Female_Vertical_RA_73725-0110BLF
 
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-USB_A_Female_Vertical_RA_73725-0110BLF
-- Hex ID: FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSUAFEMALEVERTICALRA7372511BLF
+- Hex ID: FZDIGIDIGIKEYFOOTPRINTSUAFFRA7372511BLF
 - Name: digikey-footprints : USB_A_Female_Vertical_RA_73725-0110BLF
 - Description: digikey-footprints : USB_A_Female_Vertical_RA_73725-0110BLF
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-USB_A_Female_Vertical_RA_73725-0110BLF](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-USB_A_Female_Vertical_RA_73725-0110BLF)
-- Short Link: [http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSUAFEMALEVERTICALRA7372511BLF](http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSUAFEMALEVERTICALRA7372511BLF)
+- Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSUAFFRA7372511BLF](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSUAFFRA7372511BLF)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|digikey-footprints|
 |OOMP Index|oompIndex|USB_A_Female_Vertical_RA_73725-0110BLF|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-USB_A_Female_Vertical_RA_73725-0110BLF|
-|Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSUAFEMALEVERTICALRA7372511BLF|
+|Hex ID (short code)|hexID|FZDIGIDIGIKEYFOOTPRINTSUAFFRA7372511BLF|
 |name|name|digikey-footprints : USB_A_Female_Vertical_RA_73725-0110BLF|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'USB_A_Female_Vertical_RA_73725-0110BLF'</td><td> 'description'</td></tr><tr><td> 'http</td></tr><tr><td>//portal.fciconnect.com/Comergent//fci/drawing/73725.pdf'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> None</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||

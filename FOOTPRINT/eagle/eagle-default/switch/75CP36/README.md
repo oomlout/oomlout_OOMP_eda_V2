@@ -5,18 +5,18 @@
 Contents
 ========
 
-* [FZESWITCH75CP36 > switch : 75CP36](#fzeswitch75cp36--switch--75cp36)
+* [FZESW75CP36 > switch : 75CP36](#fzesw75cp36--switch--75cp36)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZESWITCH75CP36 > switch : 75CP36
+# FZESW75CP36 > switch : 75CP36
 
 - ID: FOOTPRINT-eagle-eagle-default-switch-75CP36
-- Hex ID: FZESWITCH75CP36
+- Hex ID: FZESW75CP36
 - Name: switch : 75CP36
 - Description: switch : 75CP36
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-75CP36](http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-75CP36)
-- Short Link: [http://oom.lt/FZESWITCH75CP36](http://oom.lt/FZESWITCH75CP36)
+- Short Link: [http://oom.lt/FZESW75CP36](http://oom.lt/FZESW75CP36)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +30,6 @@ NO IMAGES
 |OOMP Description|oompDesc|switch|
 |OOMP Index|oompIndex|75CP36|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-switch-75CP36|
-|Hex ID (short code)|hexID|FZESWITCH75CP36|
+|Hex ID (short code)|hexID|FZESW75CP36|
 |name|name|switch : 75CP36|
 ||||

@@ -5,18 +5,18 @@
 Contents
 ========
 
-* [FZSRTSWITCH4PDTCNK > SparkFun-Retired : SWITCH-4PDT-CNK](#fzsrtswitch4pdtcnk--sparkfun-retired--switch-4pdt-cnk)
+* [FZSRTSW4PDTCNK > SparkFun-Retired : SWITCH-4PDT-CNK](#fzsrtsw4pdtcnk--sparkfun-retired--switch-4pdt-cnk)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZSRTSWITCH4PDTCNK > SparkFun-Retired : SWITCH-4PDT-CNK
+# FZSRTSW4PDTCNK > SparkFun-Retired : SWITCH-4PDT-CNK
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-SWITCH-4PDT-CNK
-- Hex ID: FZSRTSWITCH4PDTCNK
+- Hex ID: FZSRTSW4PDTCNK
 - Name: SparkFun-Retired : SWITCH-4PDT-CNK
 - Description: SparkFun-Retired : SWITCH-4PDT-CNK
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-SWITCH-4PDT-CNK](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-SWITCH-4PDT-CNK)
-- Short Link: [http://oom.lt/FZSRTSWITCH4PDTCNK](http://oom.lt/FZSRTSWITCH4PDTCNK)
+- Short Link: [http://oom.lt/FZSRTSW4PDTCNK](http://oom.lt/FZSRTSW4PDTCNK)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +30,6 @@ NO IMAGES
 |OOMP Description|oompDesc|SparkFun-Retired|
 |OOMP Index|oompIndex|SWITCH-4PDT-CNK|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-SWITCH-4PDT-CNK|
-|Hex ID (short code)|hexID|FZSRTSWITCH4PDTCNK|
+|Hex ID (short code)|hexID|FZSRTSW4PDTCNK|
 |name|name|SparkFun-Retired : SWITCH-4PDT-CNK|
 ||||

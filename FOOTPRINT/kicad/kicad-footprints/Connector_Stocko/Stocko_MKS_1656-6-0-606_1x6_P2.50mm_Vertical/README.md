@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKCNSTOCKOSTOCKOMKS16566661X6P25VERTICAL > Connector_Stocko : Stocko_MKS_1656-6-0-606_1x6_P2.50mm_Vertical](#fzkcnstockostockomks16566661x6p25vertical--connector_stocko--stocko_mks_1656-6-0-606_1x6_p250mm_vertical)
+* [FZKCNSTOCKOSTOCKOMKS16566661X6P25F > Connector_Stocko : Stocko_MKS_1656-6-0-606_1x6_P2.50mm_Vertical](#fzkcnstockostockomks16566661x6p25f--connector_stocko--stocko_mks_1656-6-0-606_1x6_p250mm_vertical)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKCNSTOCKOSTOCKOMKS16566661X6P25VERTICAL > Connector_Stocko : Stocko_MKS_1656-6-0-606_1x6_P2.50mm_Vertical
+# FZKCNSTOCKOSTOCKOMKS16566661X6P25F > Connector_Stocko : Stocko_MKS_1656-6-0-606_1x6_P2.50mm_Vertical
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_Stocko-Stocko_MKS_1656-6-0-606_1x6_P2.50mm_Vertical
-- Hex ID: FZKCNSTOCKOSTOCKOMKS16566661X6P25VERTICAL
+- Hex ID: FZKCNSTOCKOSTOCKOMKS16566661X6P25F
 - Name: Connector_Stocko : Stocko_MKS_1656-6-0-606_1x6_P2.50mm_Vertical
 - Description: Connector_Stocko : Stocko_MKS_1656-6-0-606_1x6_P2.50mm_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Stocko-Stocko_MKS_1656-6-0-606_1x6_P2.50mm_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Stocko-Stocko_MKS_1656-6-0-606_1x6_P2.50mm_Vertical)
-- Short Link: [http://oom.lt/FZKCNSTOCKOSTOCKOMKS16566661X6P25VERTICAL](http://oom.lt/FZKCNSTOCKOSTOCKOMKS16566661X6P25VERTICAL)
+- Short Link: [http://oom.lt/FZKCNSTOCKOSTOCKOMKS16566661X6P25F](http://oom.lt/FZKCNSTOCKOSTOCKOMKS16566661X6P25F)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Connector_Stocko|
 |OOMP Index|oompIndex|Stocko_MKS_1656-6-0-606_1x6_P2.50mm_Vertical|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Stocko-Stocko_MKS_1656-6-0-606_1x6_P2.50mm_Vertical|
-|Hex ID (short code)|hexID|FZKCNSTOCKOSTOCKOMKS16566661X6P25VERTICAL|
+|Hex ID (short code)|hexID|FZKCNSTOCKOSTOCKOMKS16566661X6P25F|
 |name|name|Connector_Stocko : Stocko_MKS_1656-6-0-606_1x6_P2.50mm_Vertical|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Stocko_MKS_1656-6-0-606_1x6_P2.50mm_Vertical'</td><td> 'description'</td></tr><tr><td> 'Stocko MKS 16xx series connector</td><td> (https</td></tr><tr><td>//www.stocko-contact.com/downloads/steckverbindersystem-raster-2</td><td>5-mm.pdf#page=15)</td><td> generated with kicad-footprint-generator'</td><td> 'tags'</td></tr><tr><td> 'Stocko RFK MKS 16xx'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_Stocko.3dshapes/Stocko_MKS_1656-6-0-606_1x6_P2.50mm_Vertical.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||

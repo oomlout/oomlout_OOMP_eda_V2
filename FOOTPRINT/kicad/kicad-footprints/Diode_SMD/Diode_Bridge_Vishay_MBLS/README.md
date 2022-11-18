@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKDIODESMDIODEBRIDGEVISHAYMBLS > Diode_SMD : Diode_Bridge_Vishay_MBLS](#fzkdiodesmdiodebridgevishaymbls--diode_smd--diode_bridge_vishay_mbls)
+* [FZKDDIODEBRIDGEVISHAYMBLS > Diode_SMD : Diode_Bridge_Vishay_MBLS](#fzkddiodebridgevishaymbls--diode_smd--diode_bridge_vishay_mbls)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKDIODESMDIODEBRIDGEVISHAYMBLS > Diode_SMD : Diode_Bridge_Vishay_MBLS
+# FZKDDIODEBRIDGEVISHAYMBLS > Diode_SMD : Diode_Bridge_Vishay_MBLS
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Diode_SMD-Diode_Bridge_Vishay_MBLS
-- Hex ID: FZKDIODESMDIODEBRIDGEVISHAYMBLS
+- Hex ID: FZKDDIODEBRIDGEVISHAYMBLS
 - Name: Diode_SMD : Diode_Bridge_Vishay_MBLS
 - Description: Diode_SMD : Diode_Bridge_Vishay_MBLS
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Diode_SMD-Diode_Bridge_Vishay_MBLS](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Diode_SMD-Diode_Bridge_Vishay_MBLS)
-- Short Link: [http://oom.lt/FZKDIODESMDIODEBRIDGEVISHAYMBLS](http://oom.lt/FZKDIODESMDIODEBRIDGEVISHAYMBLS)
+- Short Link: [http://oom.lt/FZKDDIODEBRIDGEVISHAYMBLS](http://oom.lt/FZKDDIODEBRIDGEVISHAYMBLS)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Diode_SMD|
 |OOMP Index|oompIndex|Diode_Bridge_Vishay_MBLS|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Diode_SMD-Diode_Bridge_Vishay_MBLS|
-|Hex ID (short code)|hexID|FZKDIODESMDIODEBRIDGEVISHAYMBLS|
+|Hex ID (short code)|hexID|FZKDDIODEBRIDGEVISHAYMBLS|
 |name|name|Diode_SMD : Diode_Bridge_Vishay_MBLS|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Diode_Bridge_Vishay_MBLS'</td><td> 'description'</td></tr><tr><td> 'SMD diode bridge MBLS</td><td> see http</td></tr><tr><td>//www.vishay.com/docs/89959/mbl104s.pdf http</td></tr><tr><td>//www.vishay.com/docs/88854/padlayouts.pdf'</td><td> 'tags'</td></tr><tr><td> 'DFS'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Diode_SMD.3dshapes/Diode_Bridge_Vishay_MBLS.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

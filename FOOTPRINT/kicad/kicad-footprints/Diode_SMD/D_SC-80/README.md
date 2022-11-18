@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKDIODESMDSC8 > Diode_SMD : D_SC-80](#fzkdiodesmdsc8--diode_smd--d_sc-80)
+* [FZKDDSC8 > Diode_SMD : D_SC-80](#fzkddsc8--diode_smd--d_sc-80)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKDIODESMDSC8 > Diode_SMD : D_SC-80
+# FZKDDSC8 > Diode_SMD : D_SC-80
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_SC-80
-- Hex ID: FZKDIODESMDSC8
+- Hex ID: FZKDDSC8
 - Name: Diode_SMD : D_SC-80
 - Description: Diode_SMD : D_SC-80
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_SC-80](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_SC-80)
-- Short Link: [http://oom.lt/FZKDIODESMDSC8](http://oom.lt/FZKDIODESMDSC8)
+- Short Link: [http://oom.lt/FZKDDSC8](http://oom.lt/FZKDDSC8)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Diode_SMD|
 |OOMP Index|oompIndex|D_SC-80|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_SC-80|
-|Hex ID (short code)|hexID|FZKDIODESMDSC8|
+|Hex ID (short code)|hexID|FZKDDSC8|
 |name|name|Diode_SMD : D_SC-80|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'D_SC-80'</td><td> 'description'</td></tr><tr><td> 'JEITA SC-80'</td><td> 'tags'</td></tr><tr><td> 'SC-80'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Diode_SMD.3dshapes/D_SC-80.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

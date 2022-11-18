@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKBSWITCHSMSWSPSTB3U11P > Button_Switch_SMD : SW_SPST_B3U-1100P](#fzkbswitchsmswspstb3u11p--button_switch_smd--sw_spst_b3u-1100p)
+* [FZKBSWSPSTB3U11P > Button_Switch_SMD : SW_SPST_B3U-1100P](#fzkbswspstb3u11p--button_switch_smd--sw_spst_b3u-1100p)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKBSWITCHSMSWSPSTB3U11P > Button_Switch_SMD : SW_SPST_B3U-1100P
+# FZKBSWSPSTB3U11P > Button_Switch_SMD : SW_SPST_B3U-1100P
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-SW_SPST_B3U-1100P
-- Hex ID: FZKBSWITCHSMSWSPSTB3U11P
+- Hex ID: FZKBSWSPSTB3U11P
 - Name: Button_Switch_SMD : SW_SPST_B3U-1100P
 - Description: Button_Switch_SMD : SW_SPST_B3U-1100P
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-SW_SPST_B3U-1100P](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-SW_SPST_B3U-1100P)
-- Short Link: [http://oom.lt/FZKBSWITCHSMSWSPSTB3U11P](http://oom.lt/FZKBSWITCHSMSWSPSTB3U11P)
+- Short Link: [http://oom.lt/FZKBSWSPSTB3U11P](http://oom.lt/FZKBSWSPSTB3U11P)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Button_Switch_SMD|
 |OOMP Index|oompIndex|SW_SPST_B3U-1100P|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-SW_SPST_B3U-1100P|
-|Hex ID (short code)|hexID|FZKBSWITCHSMSWSPSTB3U11P|
+|Hex ID (short code)|hexID|FZKBSWSPSTB3U11P|
 |name|name|Button_Switch_SMD : SW_SPST_B3U-1100P|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'SW_SPST_B3U-1100P'</td><td> 'description'</td></tr><tr><td> 'Ultra-small-sized Tactile Switch with High Contact Reliability</td><td> Top-actuated Model</td><td> with Ground Terminal</td><td> without Boss'</td><td> 'tags'</td></tr><tr><td> 'Tactile Switch'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Button_Switch_SMD.3dshapes/SW_SPST_B3U-1100P.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

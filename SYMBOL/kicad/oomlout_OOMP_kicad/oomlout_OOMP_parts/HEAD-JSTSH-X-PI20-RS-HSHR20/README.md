@@ -5,18 +5,18 @@
 Contents
 ========
 
-* [SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSHEADJSTSHXPI2RSHSHR2 > oomlout_OOMP_parts : HEAD-JSTSH-X-PI20-RS-HSHR20](#szkicadoomloutoompkicadoomloutoomppartsheadjstshxpi2rshshr2--oomlout_oomp_parts--head-jstsh-x-pi20-rs-hshr20)
+* [SZOOMPKOOMPPHEADJSTSHXPI2RSHSHR2 > oomlout_OOMP_parts : HEAD-JSTSH-X-PI20-RS-HSHR20](#szoompkoomppheadjstshxpi2rshshr2--oomlout_oomp_parts--head-jstsh-x-pi20-rs-hshr20)
 	* [Tags](#tags)
   
 NO IMAGE  
-# SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSHEADJSTSHXPI2RSHSHR2 > oomlout_OOMP_parts : HEAD-JSTSH-X-PI20-RS-HSHR20
+# SZOOMPKOOMPPHEADJSTSHXPI2RSHSHR2 > oomlout_OOMP_parts : HEAD-JSTSH-X-PI20-RS-HSHR20
 
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-JSTSH-X-PI20-RS-HSHR20
-- Hex ID: SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSHEADJSTSHXPI2RSHSHR2
+- Hex ID: SZOOMPKOOMPPHEADJSTSHXPI2RSHSHR2
 - Name: oomlout_OOMP_parts : HEAD-JSTSH-X-PI20-RS-HSHR20
 - Description: oomlout_OOMP_parts : HEAD-JSTSH-X-PI20-RS-HSHR20
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-JSTSH-X-PI20-RS-HSHR20](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-JSTSH-X-PI20-RS-HSHR20)
-- Short Link: [http://oom.lt/SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSHEADJSTSHXPI2RSHSHR2](http://oom.lt/SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSHEADJSTSHXPI2RSHSHR2)
+- Short Link: [http://oom.lt/SZOOMPKOOMPPHEADJSTSHXPI2RSHSHR2](http://oom.lt/SZOOMPKOOMPPHEADJSTSHXPI2RSHSHR2)
   
 NO IMAGES  
 ## Tags
@@ -30,7 +30,7 @@ NO IMAGES
 |OOMP Description|oompDesc|oomlout_OOMP_parts|
 |OOMP Index|oompIndex|HEAD-JSTSH-X-PI20-RS-HSHR20|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-JSTSH-X-PI20-RS-HSHR20|
-|Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSHEADJSTSHXPI2RSHSHR2|
+|Hex ID (short code)|hexID|SZOOMPKOOMPPHEADJSTSHXPI2RSHSHR2|
 |name|name|oomlout_OOMP_parts : HEAD-JSTSH-X-PI20-RS-HSHR20|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'J'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'HEAD-JSTSH-X-PI20-RS-HSHR20'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'oomlout_OOMP_parts</td></tr><tr><td>HEAD-JSTSH-X-PI20-RS-HSHR20'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'oom.lt/HSHR20'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'connector'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'hexID</td></tr><tr><td> HSHR20;Generic connector</td><td> single row</td><td> 01x20</td><td> script generated (kicad-library-utils/schlib/autogen/connector/)'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Connector*</td></tr><tr><td>*_1x??_*'</td></tr></table>]|
 ||||

@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSBLUETOOTHMORN42 > digikey-footprints : Bluetooth_Module_RN42](#fzkicaddigikeykicadlibrarydigikeyfootprintsbluetoothmorn42--digikey-footprints--bluetooth_module_rn42)
+* [FZDIGIDIGIKEYFOOTPRINTSBLUETOOTHMORN42 > digikey-footprints : Bluetooth_Module_RN42](#fzdigidigikeyfootprintsbluetoothmorn42--digikey-footprints--bluetooth_module_rn42)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSBLUETOOTHMORN42 > digikey-footprints : Bluetooth_Module_RN42
+# FZDIGIDIGIKEYFOOTPRINTSBLUETOOTHMORN42 > digikey-footprints : Bluetooth_Module_RN42
 
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Bluetooth_Module_RN42
-- Hex ID: FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSBLUETOOTHMORN42
+- Hex ID: FZDIGIDIGIKEYFOOTPRINTSBLUETOOTHMORN42
 - Name: digikey-footprints : Bluetooth_Module_RN42
 - Description: digikey-footprints : Bluetooth_Module_RN42
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Bluetooth_Module_RN42](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Bluetooth_Module_RN42)
-- Short Link: [http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSBLUETOOTHMORN42](http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSBLUETOOTHMORN42)
+- Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSBLUETOOTHMORN42](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSBLUETOOTHMORN42)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|digikey-footprints|
 |OOMP Index|oompIndex|Bluetooth_Module_RN42|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Bluetooth_Module_RN42|
-|Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSBLUETOOTHMORN42|
+|Hex ID (short code)|hexID|FZDIGIDIGIKEYFOOTPRINTSBLUETOOTHMORN42|
 |name|name|digikey-footprints : Bluetooth_Module_RN42|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Bluetooth_Module_RN42'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

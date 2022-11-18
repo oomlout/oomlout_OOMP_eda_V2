@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSWIZNETMOWIZ81MJ > digikey-footprints : WizNet_Module_WIZ810MJ](#fzkicaddigikeykicadlibrarydigikeyfootprintswiznetmowiz81mj--digikey-footprints--wiznet_module_wiz810mj)
+* [FZDIGIDIGIKEYFOOTPRINTSWIZNETMOWIZ81MJ > digikey-footprints : WizNet_Module_WIZ810MJ](#fzdigidigikeyfootprintswiznetmowiz81mj--digikey-footprints--wiznet_module_wiz810mj)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSWIZNETMOWIZ81MJ > digikey-footprints : WizNet_Module_WIZ810MJ
+# FZDIGIDIGIKEYFOOTPRINTSWIZNETMOWIZ81MJ > digikey-footprints : WizNet_Module_WIZ810MJ
 
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-WizNet_Module_WIZ810MJ
-- Hex ID: FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSWIZNETMOWIZ81MJ
+- Hex ID: FZDIGIDIGIKEYFOOTPRINTSWIZNETMOWIZ81MJ
 - Name: digikey-footprints : WizNet_Module_WIZ810MJ
 - Description: digikey-footprints : WizNet_Module_WIZ810MJ
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-WizNet_Module_WIZ810MJ](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-WizNet_Module_WIZ810MJ)
-- Short Link: [http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSWIZNETMOWIZ81MJ](http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSWIZNETMOWIZ81MJ)
+- Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSWIZNETMOWIZ81MJ](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSWIZNETMOWIZ81MJ)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|digikey-footprints|
 |OOMP Index|oompIndex|WizNet_Module_WIZ810MJ|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-WizNet_Module_WIZ810MJ|
-|Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSWIZNETMOWIZ81MJ|
+|Hex ID (short code)|hexID|FZDIGIDIGIKEYFOOTPRINTSWIZNETMOWIZ81MJ|
 |name|name|digikey-footprints : WizNet_Module_WIZ810MJ|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'WizNet_Module_WIZ810MJ'</td><td> 'description'</td></tr><tr><td> 'http</td></tr><tr><td>//wiznethome.cafe24.com/wp-content/uploads/wiznethome/Network%20Module/WIZ8XXMJ/Document/WIZ810MJ_DS_V130E.pdf'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> None</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

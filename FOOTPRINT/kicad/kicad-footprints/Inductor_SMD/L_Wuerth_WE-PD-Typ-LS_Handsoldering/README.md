@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKINDUCTORSMLWUERTHWEPDTYPLSHANDSOLDERING > Inductor_SMD : L_Wuerth_WE-PD-Typ-LS_Handsoldering](#fzkinductorsmlwuerthwepdtyplshandsoldering--inductor_smd--l_wuerth_we-pd-typ-ls_handsoldering)
+* [FZKINLWUERTHWEPDTYPLSHANDSOLDERING > Inductor_SMD : L_Wuerth_WE-PD-Typ-LS_Handsoldering](#fzkinlwuerthwepdtyplshandsoldering--inductor_smd--l_wuerth_we-pd-typ-ls_handsoldering)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKINDUCTORSMLWUERTHWEPDTYPLSHANDSOLDERING > Inductor_SMD : L_Wuerth_WE-PD-Typ-LS_Handsoldering
+# FZKINLWUERTHWEPDTYPLSHANDSOLDERING > Inductor_SMD : L_Wuerth_WE-PD-Typ-LS_Handsoldering
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Wuerth_WE-PD-Typ-LS_Handsoldering
-- Hex ID: FZKINDUCTORSMLWUERTHWEPDTYPLSHANDSOLDERING
+- Hex ID: FZKINLWUERTHWEPDTYPLSHANDSOLDERING
 - Name: Inductor_SMD : L_Wuerth_WE-PD-Typ-LS_Handsoldering
 - Description: Inductor_SMD : L_Wuerth_WE-PD-Typ-LS_Handsoldering
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Wuerth_WE-PD-Typ-LS_Handsoldering](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Wuerth_WE-PD-Typ-LS_Handsoldering)
-- Short Link: [http://oom.lt/FZKINDUCTORSMLWUERTHWEPDTYPLSHANDSOLDERING](http://oom.lt/FZKINDUCTORSMLWUERTHWEPDTYPLSHANDSOLDERING)
+- Short Link: [http://oom.lt/FZKINLWUERTHWEPDTYPLSHANDSOLDERING](http://oom.lt/FZKINLWUERTHWEPDTYPLSHANDSOLDERING)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Inductor_SMD|
 |OOMP Index|oompIndex|L_Wuerth_WE-PD-Typ-LS_Handsoldering|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Wuerth_WE-PD-Typ-LS_Handsoldering|
-|Hex ID (short code)|hexID|FZKINDUCTORSMLWUERTHWEPDTYPLSHANDSOLDERING|
+|Hex ID (short code)|hexID|FZKINLWUERTHWEPDTYPLSHANDSOLDERING|
 |name|name|Inductor_SMD : L_Wuerth_WE-PD-Typ-LS_Handsoldering|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'L_Wuerth_WE-PD-Typ-LS_Handsoldering'</td><td> 'description'</td></tr><tr><td> 'Shielded Power Inductor</td><td> Wuerth Elektronik</td><td> WE-PD</td><td> SMD</td><td> Typ LS</td><td> Handsoldering</td><td> https</td></tr><tr><td>//katalog.we-online.com/pbs/datasheet/7447715906.pdf'</td><td> 'tags'</td></tr><tr><td> 'Choke Shielded Power Inductor WE-PD TypLS Wuerth'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Inductor_SMD.3dshapes/L_Wuerth_WE-PD-Typ-LS.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

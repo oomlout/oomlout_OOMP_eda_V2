@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKLSMLCSPSAMSUNGLH181B236X236 > LED_SMD : LED_CSP_Samsung_LH181B_2.36x2.36mm](#fzklsmlcspsamsunglh181b236x236--led_smd--led_csp_samsung_lh181b_236x236mm)
+* [FZKLLCSPSAMSUNGLH181B236X236 > LED_SMD : LED_CSP_Samsung_LH181B_2.36x2.36mm](#fzkllcspsamsunglh181b236x236--led_smd--led_csp_samsung_lh181b_236x236mm)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKLSMLCSPSAMSUNGLH181B236X236 > LED_SMD : LED_CSP_Samsung_LH181B_2.36x2.36mm
+# FZKLLCSPSAMSUNGLH181B236X236 > LED_SMD : LED_CSP_Samsung_LH181B_2.36x2.36mm
 
 - ID: FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_CSP_Samsung_LH181B_2.36x2.36mm
-- Hex ID: FZKLSMLCSPSAMSUNGLH181B236X236
+- Hex ID: FZKLLCSPSAMSUNGLH181B236X236
 - Name: LED_SMD : LED_CSP_Samsung_LH181B_2.36x2.36mm
 - Description: LED_SMD : LED_CSP_Samsung_LH181B_2.36x2.36mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_CSP_Samsung_LH181B_2.36x2.36mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_CSP_Samsung_LH181B_2.36x2.36mm)
-- Short Link: [http://oom.lt/FZKLSMLCSPSAMSUNGLH181B236X236](http://oom.lt/FZKLSMLCSPSAMSUNGLH181B236X236)
+- Short Link: [http://oom.lt/FZKLLCSPSAMSUNGLH181B236X236](http://oom.lt/FZKLLCSPSAMSUNGLH181B236X236)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|LED_SMD|
 |OOMP Index|oompIndex|LED_CSP_Samsung_LH181B_2.36x2.36mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_CSP_Samsung_LH181B_2.36x2.36mm|
-|Hex ID (short code)|hexID|FZKLSMLCSPSAMSUNGLH181B236X236|
+|Hex ID (short code)|hexID|FZKLLCSPSAMSUNGLH181B236X236|
 |name|name|LED_SMD : LED_CSP_Samsung_LH181B_2.36x2.36mm|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'LED_CSP_Samsung_LH181B_2.36x2.36mm'</td><td> 'description'</td></tr><tr><td> 'High Power CSP LED</td><td> 2.36mm x 2.36mm</td><td> 1.4A max</td><td> https</td></tr><tr><td>//cdn.samsung.com/led/file/resource/2021/01/Data_Sheet_LH181B_Rev.4.0.pdf'</td><td> 'tags'</td></tr><tr><td> 'LED Samsung LH181B'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/LED_SMD.3dshapes/LED_CSP_Samsung_LH181B_2.36x2.36mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSWITCHTACTILESM6X6 > digikey-footprints : Switch_Tactile_SMD_6x6mm](#fzkicaddigikeykicadlibrarydigikeyfootprintsswitchtactilesm6x6--digikey-footprints--switch_tactile_smd_6x6mm)
+* [FZDIGIDIGIKEYFOOTPRINTSSWTSM6X6 > digikey-footprints : Switch_Tactile_SMD_6x6mm](#fzdigidigikeyfootprintsswtsm6x6--digikey-footprints--switch_tactile_smd_6x6mm)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSWITCHTACTILESM6X6 > digikey-footprints : Switch_Tactile_SMD_6x6mm
+# FZDIGIDIGIKEYFOOTPRINTSSWTSM6X6 > digikey-footprints : Switch_Tactile_SMD_6x6mm
 
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Switch_Tactile_SMD_6x6mm
-- Hex ID: FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSWITCHTACTILESM6X6
+- Hex ID: FZDIGIDIGIKEYFOOTPRINTSSWTSM6X6
 - Name: digikey-footprints : Switch_Tactile_SMD_6x6mm
 - Description: digikey-footprints : Switch_Tactile_SMD_6x6mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Switch_Tactile_SMD_6x6mm](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Switch_Tactile_SMD_6x6mm)
-- Short Link: [http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSWITCHTACTILESM6X6](http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSWITCHTACTILESM6X6)
+- Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSSWTSM6X6](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSSWTSM6X6)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|digikey-footprints|
 |OOMP Index|oompIndex|Switch_Tactile_SMD_6x6mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Switch_Tactile_SMD_6x6mm|
-|Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSWITCHTACTILESM6X6|
+|Hex ID (short code)|hexID|FZDIGIDIGIKEYFOOTPRINTSSWTSM6X6|
 |name|name|digikey-footprints : Switch_Tactile_SMD_6x6mm|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Switch_Tactile_SMD_6x6mm'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

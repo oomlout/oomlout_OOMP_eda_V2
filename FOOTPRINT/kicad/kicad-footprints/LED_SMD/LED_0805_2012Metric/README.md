@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKLSML85212METRIC > LED_SMD : LED_0805_2012Metric](#fzklsml85212metric--led_smd--led_0805_2012metric)
+* [FZKLL85212VA > LED_SMD : LED_0805_2012Metric](#fzkll85212va--led_smd--led_0805_2012metric)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKLSML85212METRIC > LED_SMD : LED_0805_2012Metric
+# FZKLL85212VA > LED_SMD : LED_0805_2012Metric
 
 - ID: FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_0805_2012Metric
-- Hex ID: FZKLSML85212METRIC
+- Hex ID: FZKLL85212VA
 - Name: LED_SMD : LED_0805_2012Metric
 - Description: LED_SMD : LED_0805_2012Metric
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_0805_2012Metric](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_0805_2012Metric)
-- Short Link: [http://oom.lt/FZKLSML85212METRIC](http://oom.lt/FZKLSML85212METRIC)
+- Short Link: [http://oom.lt/FZKLL85212VA](http://oom.lt/FZKLL85212VA)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|LED_SMD|
 |OOMP Index|oompIndex|LED_0805_2012Metric|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_0805_2012Metric|
-|Hex ID (short code)|hexID|FZKLSML85212METRIC|
+|Hex ID (short code)|hexID|FZKLL85212VA|
 |name|name|LED_SMD : LED_0805_2012Metric|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'LED_0805_2012Metric'</td><td> 'description'</td></tr><tr><td> 'LED SMD 0805 (2012 Metric)</td><td> square (rectangular) end terminal</td><td> IPC_7351 nominal</td><td> (Body size source</td></tr><tr><td> https</td></tr><tr><td>//docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing)</td><td> generated with kicad-footprint-generator'</td><td> 'tags'</td></tr><tr><td> 'LED'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/LED_SMD.3dshapes/LED_0805_2012Metric.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||

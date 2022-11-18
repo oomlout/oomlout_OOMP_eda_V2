@@ -5,18 +5,18 @@
 Contents
 ========
 
-* [FZESWITCHMISCPVA1R > switch-misc : PVA1R](#fzeswitchmiscpva1r--switch-misc--pva1r)
+* [FZESWMISCPVA1R > switch-misc : PVA1R](#fzeswmiscpva1r--switch-misc--pva1r)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZESWITCHMISCPVA1R > switch-misc : PVA1R
+# FZESWMISCPVA1R > switch-misc : PVA1R
 
 - ID: FOOTPRINT-eagle-eagle-default-switch-misc-PVA1R
-- Hex ID: FZESWITCHMISCPVA1R
+- Hex ID: FZESWMISCPVA1R
 - Name: switch-misc : PVA1R
 - Description: switch-misc : PVA1R
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-misc-PVA1R](http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-misc-PVA1R)
-- Short Link: [http://oom.lt/FZESWITCHMISCPVA1R](http://oom.lt/FZESWITCHMISCPVA1R)
+- Short Link: [http://oom.lt/FZESWMISCPVA1R](http://oom.lt/FZESWMISCPVA1R)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +30,6 @@ NO IMAGES
 |OOMP Description|oompDesc|switch-misc|
 |OOMP Index|oompIndex|PVA1R|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-switch-misc-PVA1R|
-|Hex ID (short code)|hexID|FZESWITCHMISCPVA1R|
+|Hex ID (short code)|hexID|FZESWMISCPVA1R|
 |name|name|switch-misc : PVA1R|
 ||||

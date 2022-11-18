@@ -5,18 +5,18 @@
 Contents
 ========
 
-* [FZESWITCHTL4XPO > switch : TL4XPO](#fzeswitchtl4xpo--switch--tl4xpo)
+* [FZESWTL4XPO > switch : TL4XPO](#fzeswtl4xpo--switch--tl4xpo)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZESWITCHTL4XPO > switch : TL4XPO
+# FZESWTL4XPO > switch : TL4XPO
 
 - ID: FOOTPRINT-eagle-eagle-default-switch-TL4XPO
-- Hex ID: FZESWITCHTL4XPO
+- Hex ID: FZESWTL4XPO
 - Name: switch : TL4XPO
 - Description: switch : TL4XPO
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-TL4XPO](http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-TL4XPO)
-- Short Link: [http://oom.lt/FZESWITCHTL4XPO](http://oom.lt/FZESWITCHTL4XPO)
+- Short Link: [http://oom.lt/FZESWTL4XPO](http://oom.lt/FZESWTL4XPO)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +30,6 @@ NO IMAGES
 |OOMP Description|oompDesc|switch|
 |OOMP Index|oompIndex|TL4XPO|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-switch-TL4XPO|
-|Hex ID (short code)|hexID|FZESWITCHTL4XPO|
+|Hex ID (short code)|hexID|FZESWTL4XPO|
 |name|name|switch : TL4XPO|
 ||||

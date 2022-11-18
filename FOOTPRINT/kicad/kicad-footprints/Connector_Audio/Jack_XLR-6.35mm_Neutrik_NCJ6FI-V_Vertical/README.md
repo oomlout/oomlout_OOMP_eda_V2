@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKCNAUDIOJXLR635NEUTRIKNCJ6FIVVERTICAL > Connector_Audio : Jack_XLR-6.35mm_Neutrik_NCJ6FI-V_Vertical](#fzkcnaudiojxlr635neutrikncj6fivvertical--connector_audio--jack_xlr-635mm_neutrik_ncj6fi-v_vertical)
+* [FZKCNAUDIOJXLR635NEUTRIKNCJ6FIVF > Connector_Audio : Jack_XLR-6.35mm_Neutrik_NCJ6FI-V_Vertical](#fzkcnaudiojxlr635neutrikncj6fivf--connector_audio--jack_xlr-635mm_neutrik_ncj6fi-v_vertical)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKCNAUDIOJXLR635NEUTRIKNCJ6FIVVERTICAL > Connector_Audio : Jack_XLR-6.35mm_Neutrik_NCJ6FI-V_Vertical
+# FZKCNAUDIOJXLR635NEUTRIKNCJ6FIVF > Connector_Audio : Jack_XLR-6.35mm_Neutrik_NCJ6FI-V_Vertical
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_Audio-Jack_XLR-6.35mm_Neutrik_NCJ6FI-V_Vertical
-- Hex ID: FZKCNAUDIOJXLR635NEUTRIKNCJ6FIVVERTICAL
+- Hex ID: FZKCNAUDIOJXLR635NEUTRIKNCJ6FIVF
 - Name: Connector_Audio : Jack_XLR-6.35mm_Neutrik_NCJ6FI-V_Vertical
 - Description: Connector_Audio : Jack_XLR-6.35mm_Neutrik_NCJ6FI-V_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Audio-Jack_XLR-6.35mm_Neutrik_NCJ6FI-V_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Audio-Jack_XLR-6.35mm_Neutrik_NCJ6FI-V_Vertical)
-- Short Link: [http://oom.lt/FZKCNAUDIOJXLR635NEUTRIKNCJ6FIVVERTICAL](http://oom.lt/FZKCNAUDIOJXLR635NEUTRIKNCJ6FIVVERTICAL)
+- Short Link: [http://oom.lt/FZKCNAUDIOJXLR635NEUTRIKNCJ6FIVF](http://oom.lt/FZKCNAUDIOJXLR635NEUTRIKNCJ6FIVF)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Connector_Audio|
 |OOMP Index|oompIndex|Jack_XLR-6.35mm_Neutrik_NCJ6FI-V_Vertical|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Audio-Jack_XLR-6.35mm_Neutrik_NCJ6FI-V_Vertical|
-|Hex ID (short code)|hexID|FZKCNAUDIOJXLR635NEUTRIKNCJ6FIVVERTICAL|
+|Hex ID (short code)|hexID|FZKCNAUDIOJXLR635NEUTRIKNCJ6FIVF|
 |name|name|Connector_Audio : Jack_XLR-6.35mm_Neutrik_NCJ6FI-V_Vertical|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Jack_XLR-6.35mm_Neutrik_NCJ6FI-V_Vertical'</td><td> 'description'</td></tr><tr><td> 'Combo I series</td><td> 3 pole XLR female receptacle with 6.35mm (1/4in) stereo jack without switching contact</td><td> vertical PCB mount</td><td> retention spring</td><td> https</td></tr><tr><td>//www.neutrik.com/en/product/ncj6fi-v'</td><td> 'tags'</td></tr><tr><td> 'neutrik jack combo i'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_Audio.3dshapes/Jack_XLR-6.35mm_Neutrik_NCJ6FI-V_Vertical.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||

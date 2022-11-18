@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSTQFP327X7 > digikey-footprints : TQFP-32_7x7mm](#fzkicaddigikeykicadlibrarydigikeyfootprintstqfp327x7--digikey-footprints--tqfp-32_7x7mm)
+* [FZDIGIDIGIKEYFOOTPRINTSTQFP327X7 > digikey-footprints : TQFP-32_7x7mm](#fzdigidigikeyfootprintstqfp327x7--digikey-footprints--tqfp-32_7x7mm)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSTQFP327X7 > digikey-footprints : TQFP-32_7x7mm
+# FZDIGIDIGIKEYFOOTPRINTSTQFP327X7 > digikey-footprints : TQFP-32_7x7mm
 
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-TQFP-32_7x7mm
-- Hex ID: FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSTQFP327X7
+- Hex ID: FZDIGIDIGIKEYFOOTPRINTSTQFP327X7
 - Name: digikey-footprints : TQFP-32_7x7mm
 - Description: digikey-footprints : TQFP-32_7x7mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-TQFP-32_7x7mm](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-TQFP-32_7x7mm)
-- Short Link: [http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSTQFP327X7](http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSTQFP327X7)
+- Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSTQFP327X7](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSTQFP327X7)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|digikey-footprints|
 |OOMP Index|oompIndex|TQFP-32_7x7mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-TQFP-32_7x7mm|
-|Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSTQFP327X7|
+|Hex ID (short code)|hexID|FZDIGIDIGIKEYFOOTPRINTSTQFP327X7|
 |name|name|digikey-footprints : TQFP-32_7x7mm|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'TQFP-32_7x7mm'</td><td> 'description'</td></tr><tr><td> 'http</td></tr><tr><td>//www.atmel.com/Images/Atmel-8826-SEEPROM-PCB-Mounting-Guidelines-Surface-Mount-Packages-ApplicationNote.pdf'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKCNAUDIOJSPEAKONNEUTRIKNL2MDVVERTICAL > Connector_Audio : Jack_speakON_Neutrik_NL2MD-V_Vertical](#fzkcnaudiojspeakonneutriknl2mdvvertical--connector_audio--jack_speakon_neutrik_nl2md-v_vertical)
+* [FZKCNAUDIOJSPEAKONNEUTRIKNL2MDVF > Connector_Audio : Jack_speakON_Neutrik_NL2MD-V_Vertical](#fzkcnaudiojspeakonneutriknl2mdvf--connector_audio--jack_speakon_neutrik_nl2md-v_vertical)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKCNAUDIOJSPEAKONNEUTRIKNL2MDVVERTICAL > Connector_Audio : Jack_speakON_Neutrik_NL2MD-V_Vertical
+# FZKCNAUDIOJSPEAKONNEUTRIKNL2MDVF > Connector_Audio : Jack_speakON_Neutrik_NL2MD-V_Vertical
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_Audio-Jack_speakON_Neutrik_NL2MD-V_Vertical
-- Hex ID: FZKCNAUDIOJSPEAKONNEUTRIKNL2MDVVERTICAL
+- Hex ID: FZKCNAUDIOJSPEAKONNEUTRIKNL2MDVF
 - Name: Connector_Audio : Jack_speakON_Neutrik_NL2MD-V_Vertical
 - Description: Connector_Audio : Jack_speakON_Neutrik_NL2MD-V_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Audio-Jack_speakON_Neutrik_NL2MD-V_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Audio-Jack_speakON_Neutrik_NL2MD-V_Vertical)
-- Short Link: [http://oom.lt/FZKCNAUDIOJSPEAKONNEUTRIKNL2MDVVERTICAL](http://oom.lt/FZKCNAUDIOJSPEAKONNEUTRIKNL2MDVVERTICAL)
+- Short Link: [http://oom.lt/FZKCNAUDIOJSPEAKONNEUTRIKNL2MDVF](http://oom.lt/FZKCNAUDIOJSPEAKONNEUTRIKNL2MDVF)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Connector_Audio|
 |OOMP Index|oompIndex|Jack_speakON_Neutrik_NL2MD-V_Vertical|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Audio-Jack_speakON_Neutrik_NL2MD-V_Vertical|
-|Hex ID (short code)|hexID|FZKCNAUDIOJSPEAKONNEUTRIKNL2MDVVERTICAL|
+|Hex ID (short code)|hexID|FZKCNAUDIOJSPEAKONNEUTRIKNL2MDVF|
 |name|name|Connector_Audio : Jack_speakON_Neutrik_NL2MD-V_Vertical|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Jack_speakON_Neutrik_NL2MD-V_Vertical'</td><td> 'description'</td></tr><tr><td> 'speakON Chassis Connectors</td><td> 2 pole chassis connector</td><td> black D-size flange</td><td> countersunk thru holes</td><td> vertical PCB mount</td><td> https</td></tr><tr><td>//www.neutrik.com/en/product/nl2md-v'</td><td> 'tags'</td></tr><tr><td> 'neutrik speakon'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_Audio.3dshapes/Jack_speakON_Neutrik_NL2MD-V_Vertical.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||

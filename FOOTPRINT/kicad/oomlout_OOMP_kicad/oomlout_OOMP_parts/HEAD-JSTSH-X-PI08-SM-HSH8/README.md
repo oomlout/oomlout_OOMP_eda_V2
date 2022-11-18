@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSHEADJSTSHXPI8SMHSH8 > oomlout_OOMP_parts : HEAD-JSTSH-X-PI08-SM-HSH8](#fzkicadoomloutoompkicadoomloutoomppartsheadjstshxpi8smhsh8--oomlout_oomp_parts--head-jstsh-x-pi08-sm-hsh8)
+* [FZOOMPKOOMPPHEADJSTSHXPI8SMHSH8 > oomlout_OOMP_parts : HEAD-JSTSH-X-PI08-SM-HSH8](#fzoompkoomppheadjstshxpi8smhsh8--oomlout_oomp_parts--head-jstsh-x-pi08-sm-hsh8)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSHEADJSTSHXPI8SMHSH8 > oomlout_OOMP_parts : HEAD-JSTSH-X-PI08-SM-HSH8
+# FZOOMPKOOMPPHEADJSTSHXPI8SMHSH8 > oomlout_OOMP_parts : HEAD-JSTSH-X-PI08-SM-HSH8
 
 - ID: FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-JSTSH-X-PI08-SM-HSH8
-- Hex ID: FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSHEADJSTSHXPI8SMHSH8
+- Hex ID: FZOOMPKOOMPPHEADJSTSHXPI8SMHSH8
 - Name: oomlout_OOMP_parts : HEAD-JSTSH-X-PI08-SM-HSH8
 - Description: oomlout_OOMP_parts : HEAD-JSTSH-X-PI08-SM-HSH8
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-JSTSH-X-PI08-SM-HSH8](http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-JSTSH-X-PI08-SM-HSH8)
-- Short Link: [http://oom.lt/FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSHEADJSTSHXPI8SMHSH8](http://oom.lt/FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSHEADJSTSHXPI8SMHSH8)
+- Short Link: [http://oom.lt/FZOOMPKOOMPPHEADJSTSHXPI8SMHSH8](http://oom.lt/FZOOMPKOOMPPHEADJSTSHXPI8SMHSH8)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|oomlout_OOMP_parts|
 |OOMP Index|oompIndex|HEAD-JSTSH-X-PI08-SM-HSH8|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-JSTSH-X-PI08-SM-HSH8|
-|Hex ID (short code)|hexID|FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSHEADJSTSHXPI8SMHSH8|
+|Hex ID (short code)|hexID|FZOOMPKOOMPPHEADJSTSHXPI8SMHSH8|
 |name|name|oomlout_OOMP_parts : HEAD-JSTSH-X-PI08-SM-HSH8|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'HEAD-JSTSH-X-PI08-SM-HSH8'</td><td> 'description'</td></tr><tr><td> 'hexID</td></tr><tr><td> HSH8; JST SH series connector</td><td> BM08B-SRSS-TB (http</td></tr><tr><td>//www.jst-mfg.com/product/pdf/eng/eSH.pdf)</td><td> generated with kicad-footprint-generator'</td><td> 'tags'</td></tr><tr><td> 'connector JST SH side entry'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_JST.3dshapes/JST_SH_BM08B-SRSS-TB_1x08-1MP_P1.00mm_Vertical.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||

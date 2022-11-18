@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKPACKAGETOSOTSMINFINEONPGHDS11 > Package_TO_SOT_SMD : Infineon_PG-HDSOP-10-1](#fzkpackagetosotsminfineonpghds11--package_to_sot_smd--infineon_pg-hdsop-10-1)
+* [FZKSOTINFINEONPGHDS11 > Package_TO_SOT_SMD : Infineon_PG-HDSOP-10-1](#fzksotinfineonpghds11--package_to_sot_smd--infineon_pg-hdsop-10-1)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKPACKAGETOSOTSMINFINEONPGHDS11 > Package_TO_SOT_SMD : Infineon_PG-HDSOP-10-1
+# FZKSOTINFINEONPGHDS11 > Package_TO_SOT_SMD : Infineon_PG-HDSOP-10-1
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-Infineon_PG-HDSOP-10-1
-- Hex ID: FZKPACKAGETOSOTSMINFINEONPGHDS11
+- Hex ID: FZKSOTINFINEONPGHDS11
 - Name: Package_TO_SOT_SMD : Infineon_PG-HDSOP-10-1
 - Description: Package_TO_SOT_SMD : Infineon_PG-HDSOP-10-1
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-Infineon_PG-HDSOP-10-1](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-Infineon_PG-HDSOP-10-1)
-- Short Link: [http://oom.lt/FZKPACKAGETOSOTSMINFINEONPGHDS11](http://oom.lt/FZKPACKAGETOSOTSMINFINEONPGHDS11)
+- Short Link: [http://oom.lt/FZKSOTINFINEONPGHDS11](http://oom.lt/FZKSOTINFINEONPGHDS11)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Package_TO_SOT_SMD|
 |OOMP Index|oompIndex|Infineon_PG-HDSOP-10-1|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-Infineon_PG-HDSOP-10-1|
-|Hex ID (short code)|hexID|FZKPACKAGETOSOTSMINFINEONPGHDS11|
+|Hex ID (short code)|hexID|FZKSOTINFINEONPGHDS11|
 |name|name|Package_TO_SOT_SMD : Infineon_PG-HDSOP-10-1|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Infineon_PG-HDSOP-10-1'</td><td> 'description'</td></tr><tr><td> 'Infineon PG-HDSOP-10-1 (DDPAK)</td><td> 20.96x6.5x2.3mm</td><td> slug up (https</td></tr><tr><td>//www.infineon.com/cms/en/product/packages/PG-HDSOP/PG-HDSOP-10-1/)'</td><td> 'tags'</td></tr><tr><td> 'hdsop 10 ddpak'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_TO_SOT_SMD.3dshapes/Infineon_PG-HDSOP-10-1.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

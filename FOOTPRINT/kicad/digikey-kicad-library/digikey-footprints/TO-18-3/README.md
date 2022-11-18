@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSTO183 > digikey-footprints : TO-18-3](#fzkicaddigikeykicadlibrarydigikeyfootprintsto183--digikey-footprints--to-18-3)
+* [FZDIGIDIGIKEYFOOTPRINTSTO183 > digikey-footprints : TO-18-3](#fzdigidigikeyfootprintsto183--digikey-footprints--to-18-3)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSTO183 > digikey-footprints : TO-18-3
+# FZDIGIDIGIKEYFOOTPRINTSTO183 > digikey-footprints : TO-18-3
 
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-TO-18-3
-- Hex ID: FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSTO183
+- Hex ID: FZDIGIDIGIKEYFOOTPRINTSTO183
 - Name: digikey-footprints : TO-18-3
 - Description: digikey-footprints : TO-18-3
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-TO-18-3](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-TO-18-3)
-- Short Link: [http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSTO183](http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSTO183)
+- Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSTO183](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSTO183)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|digikey-footprints|
 |OOMP Index|oompIndex|TO-18-3|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-TO-18-3|
-|Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSTO183|
+|Hex ID (short code)|hexID|FZDIGIDIGIKEYFOOTPRINTSTO183|
 |name|name|digikey-footprints : TO-18-3|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'TO-18-3'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> None</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKLSMLLUMEXSMLLX33SIUPGU > LED_SMD : LED_Lumex_SML-LX0303SIUPGUSB](#fzklsmllumexsmllx33siupgu--led_smd--led_lumex_sml-lx0303siupgusb)
+* [FZKLLLUMEXSMLLX33SIUPGU > LED_SMD : LED_Lumex_SML-LX0303SIUPGUSB](#fzklllumexsmllx33siupgu--led_smd--led_lumex_sml-lx0303siupgusb)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKLSMLLUMEXSMLLX33SIUPGU > LED_SMD : LED_Lumex_SML-LX0303SIUPGUSB
+# FZKLLLUMEXSMLLX33SIUPGU > LED_SMD : LED_Lumex_SML-LX0303SIUPGUSB
 
 - ID: FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_Lumex_SML-LX0303SIUPGUSB
-- Hex ID: FZKLSMLLUMEXSMLLX33SIUPGU
+- Hex ID: FZKLLLUMEXSMLLX33SIUPGU
 - Name: LED_SMD : LED_Lumex_SML-LX0303SIUPGUSB
 - Description: LED_SMD : LED_Lumex_SML-LX0303SIUPGUSB
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_Lumex_SML-LX0303SIUPGUSB](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_Lumex_SML-LX0303SIUPGUSB)
-- Short Link: [http://oom.lt/FZKLSMLLUMEXSMLLX33SIUPGU](http://oom.lt/FZKLSMLLUMEXSMLLX33SIUPGU)
+- Short Link: [http://oom.lt/FZKLLLUMEXSMLLX33SIUPGU](http://oom.lt/FZKLLLUMEXSMLLX33SIUPGU)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|LED_SMD|
 |OOMP Index|oompIndex|LED_Lumex_SML-LX0303SIUPGUSB|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_Lumex_SML-LX0303SIUPGUSB|
-|Hex ID (short code)|hexID|FZKLSMLLUMEXSMLLX33SIUPGU|
+|Hex ID (short code)|hexID|FZKLLLUMEXSMLLX33SIUPGU|
 |name|name|LED_SMD : LED_Lumex_SML-LX0303SIUPGUSB|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'LED_Lumex_SML-LX0303SIUPGUSB'</td><td> 'description'</td></tr><tr><td> 'Lumex RGB LED</td><td> clear</td><td> SMD</td><td> https</td></tr><tr><td>//www.lumex.com/spec/SML-LX0303SIUPGUSB.pdf'</td><td> 'tags'</td></tr><tr><td> 'LED RGB'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/LED_SMD.3dshapes/LED_Lumex_SML-LX0303SIUPGUSB.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||

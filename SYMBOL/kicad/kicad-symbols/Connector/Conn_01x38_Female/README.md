@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [SZKCNCONN1X38FEMALE > Connector : Conn_01x38_Female](#szkcnconn1x38female--connector--conn_01x38_female)
+* [SZKCNCONN1X38F > Connector : Conn_01x38_Female](#szkcnconn1x38f--connector--conn_01x38_female)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# SZKCNCONN1X38FEMALE > Connector : Conn_01x38_Female
+# SZKCNCONN1X38F > Connector : Conn_01x38_Female
 
 - ID: SYMBOL-kicad-kicad-symbols-Connector-Conn_01x38_Female
-- Hex ID: SZKCNCONN1X38FEMALE
+- Hex ID: SZKCNCONN1X38F
 - Name: Connector : Conn_01x38_Female
 - Description: Connector : Conn_01x38_Female
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-Conn_01x38_Female](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-Conn_01x38_Female)
-- Short Link: [http://oom.lt/SZKCNCONN1X38FEMALE](http://oom.lt/SZKCNCONN1X38FEMALE)
+- Short Link: [http://oom.lt/SZKCNCONN1X38F](http://oom.lt/SZKCNCONN1X38F)
 
 ## Images
   
@@ -36,7 +36,7 @@ Contents
 |OOMP Description|oompDesc|Connector|
 |OOMP Index|oompIndex|Conn_01x38_Female|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector-Conn_01x38_Female|
-|Hex ID (short code)|hexID|SZKCNCONN1X38FEMALE|
+|Hex ID (short code)|hexID|SZKCNCONN1X38F|
 |name|name|Connector : Conn_01x38_Female|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'J'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'Conn_01x38_Female'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'connector'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Generic connector</td><td> single row</td><td> 01x38</td><td> script generated (kicad-library-utils/schlib/autogen/connector/)'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Connector*</td></tr><tr><td>*_1x??_*'</td></tr></table>]|
 ||||

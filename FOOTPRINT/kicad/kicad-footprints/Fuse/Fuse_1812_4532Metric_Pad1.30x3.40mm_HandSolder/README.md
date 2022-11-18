@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKFUFU18124532METRICPAD13X34HANDSOLDER > Fuse : Fuse_1812_4532Metric_Pad1.30x3.40mm_HandSolder](#fzkfufu18124532metricpad13x34handsolder--fuse--fuse_1812_4532metric_pad130x340mm_handsolder)
+* [FZKFUFU18124532VAPAD13X34HANDSOLDER > Fuse : Fuse_1812_4532Metric_Pad1.30x3.40mm_HandSolder](#fzkfufu18124532vapad13x34handsolder--fuse--fuse_1812_4532metric_pad130x340mm_handsolder)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKFUFU18124532METRICPAD13X34HANDSOLDER > Fuse : Fuse_1812_4532Metric_Pad1.30x3.40mm_HandSolder
+# FZKFUFU18124532VAPAD13X34HANDSOLDER > Fuse : Fuse_1812_4532Metric_Pad1.30x3.40mm_HandSolder
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Fuse-Fuse_1812_4532Metric_Pad1.30x3.40mm_HandSolder
-- Hex ID: FZKFUFU18124532METRICPAD13X34HANDSOLDER
+- Hex ID: FZKFUFU18124532VAPAD13X34HANDSOLDER
 - Name: Fuse : Fuse_1812_4532Metric_Pad1.30x3.40mm_HandSolder
 - Description: Fuse : Fuse_1812_4532Metric_Pad1.30x3.40mm_HandSolder
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Fuse-Fuse_1812_4532Metric_Pad1.30x3.40mm_HandSolder](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Fuse-Fuse_1812_4532Metric_Pad1.30x3.40mm_HandSolder)
-- Short Link: [http://oom.lt/FZKFUFU18124532METRICPAD13X34HANDSOLDER](http://oom.lt/FZKFUFU18124532METRICPAD13X34HANDSOLDER)
+- Short Link: [http://oom.lt/FZKFUFU18124532VAPAD13X34HANDSOLDER](http://oom.lt/FZKFUFU18124532VAPAD13X34HANDSOLDER)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Fuse|
 |OOMP Index|oompIndex|Fuse_1812_4532Metric_Pad1.30x3.40mm_HandSolder|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Fuse-Fuse_1812_4532Metric_Pad1.30x3.40mm_HandSolder|
-|Hex ID (short code)|hexID|FZKFUFU18124532METRICPAD13X34HANDSOLDER|
+|Hex ID (short code)|hexID|FZKFUFU18124532VAPAD13X34HANDSOLDER|
 |name|name|Fuse : Fuse_1812_4532Metric_Pad1.30x3.40mm_HandSolder|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Fuse_1812_4532Metric_Pad1.30x3.40mm_HandSolder'</td><td> 'description'</td></tr><tr><td> 'Fuse SMD 1812 (4532 Metric)</td><td> square (rectangular) end terminal</td><td> IPC_7351 nominal with elongated pad for handsoldering. (Body size source</td></tr><tr><td> https</td></tr><tr><td>//www.nikhef.nl/pub/departments/mt/projects/detectorR_D/dtddice/ERJ2G.pdf)</td><td> generated with kicad-footprint-generator'</td><td> 'tags'</td></tr><tr><td> 'fuse handsolder'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Fuse.3dshapes/Fuse_1812_4532Metric.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||

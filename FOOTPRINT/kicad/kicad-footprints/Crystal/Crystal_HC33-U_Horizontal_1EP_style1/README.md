@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKXXHC33UHORIZONTAL1EPSTYLE1 > Crystal : Crystal_HC33-U_Horizontal_1EP_style1](#fzkxxhc33uhorizontal1epstyle1--crystal--crystal_hc33-u_horizontal_1ep_style1)
+* [FZKXXHC33UH1EPSTYLE1 > Crystal : Crystal_HC33-U_Horizontal_1EP_style1](#fzkxxhc33uh1epstyle1--crystal--crystal_hc33-u_horizontal_1ep_style1)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKXXHC33UHORIZONTAL1EPSTYLE1 > Crystal : Crystal_HC33-U_Horizontal_1EP_style1
+# FZKXXHC33UH1EPSTYLE1 > Crystal : Crystal_HC33-U_Horizontal_1EP_style1
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_HC33-U_Horizontal_1EP_style1
-- Hex ID: FZKXXHC33UHORIZONTAL1EPSTYLE1
+- Hex ID: FZKXXHC33UH1EPSTYLE1
 - Name: Crystal : Crystal_HC33-U_Horizontal_1EP_style1
 - Description: Crystal : Crystal_HC33-U_Horizontal_1EP_style1
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_HC33-U_Horizontal_1EP_style1](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_HC33-U_Horizontal_1EP_style1)
-- Short Link: [http://oom.lt/FZKXXHC33UHORIZONTAL1EPSTYLE1](http://oom.lt/FZKXXHC33UHORIZONTAL1EPSTYLE1)
+- Short Link: [http://oom.lt/FZKXXHC33UH1EPSTYLE1](http://oom.lt/FZKXXHC33UH1EPSTYLE1)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Crystal|
 |OOMP Index|oompIndex|Crystal_HC33-U_Horizontal_1EP_style1|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_HC33-U_Horizontal_1EP_style1|
-|Hex ID (short code)|hexID|FZKXXHC33UHORIZONTAL1EPSTYLE1|
+|Hex ID (short code)|hexID|FZKXXHC33UH1EPSTYLE1|
 |name|name|Crystal : Crystal_HC33-U_Horizontal_1EP_style1|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Crystal_HC33-U_Horizontal_1EP_style1'</td><td> 'description'</td></tr><tr><td> 'Crystal THT HC-33/U http</td></tr><tr><td>//pdi.bentech-taiwan.com/PDI/GEN20SPEV20HC3320U.pdf'</td><td> 'tags'</td></tr><tr><td> 'THT crystal'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Crystal.3dshapes/Crystal_HC33-U_Horizontal_1EP_style1.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||

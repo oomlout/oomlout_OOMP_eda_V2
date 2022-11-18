@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKPOTENTIOMETERSMPOTENTIOMETERBOURNS3269XHORIZONTAL > Potentiometer_SMD : Potentiometer_Bourns_3269X_Horizontal](#fzkpotentiometersmpotentiometerbourns3269xhorizontal--potentiometer_smd--potentiometer_bourns_3269x_horizontal)
+* [FZKPPOTBOURNS3269XH > Potentiometer_SMD : Potentiometer_Bourns_3269X_Horizontal](#fzkppotbourns3269xh--potentiometer_smd--potentiometer_bourns_3269x_horizontal)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKPOTENTIOMETERSMPOTENTIOMETERBOURNS3269XHORIZONTAL > Potentiometer_SMD : Potentiometer_Bourns_3269X_Horizontal
+# FZKPPOTBOURNS3269XH > Potentiometer_SMD : Potentiometer_Bourns_3269X_Horizontal
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Potentiometer_SMD-Potentiometer_Bourns_3269X_Horizontal
-- Hex ID: FZKPOTENTIOMETERSMPOTENTIOMETERBOURNS3269XHORIZONTAL
+- Hex ID: FZKPPOTBOURNS3269XH
 - Name: Potentiometer_SMD : Potentiometer_Bourns_3269X_Horizontal
 - Description: Potentiometer_SMD : Potentiometer_Bourns_3269X_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Potentiometer_SMD-Potentiometer_Bourns_3269X_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Potentiometer_SMD-Potentiometer_Bourns_3269X_Horizontal)
-- Short Link: [http://oom.lt/FZKPOTENTIOMETERSMPOTENTIOMETERBOURNS3269XHORIZONTAL](http://oom.lt/FZKPOTENTIOMETERSMPOTENTIOMETERBOURNS3269XHORIZONTAL)
+- Short Link: [http://oom.lt/FZKPPOTBOURNS3269XH](http://oom.lt/FZKPPOTBOURNS3269XH)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Potentiometer_SMD|
 |OOMP Index|oompIndex|Potentiometer_Bourns_3269X_Horizontal|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Potentiometer_SMD-Potentiometer_Bourns_3269X_Horizontal|
-|Hex ID (short code)|hexID|FZKPOTENTIOMETERSMPOTENTIOMETERBOURNS3269XHORIZONTAL|
+|Hex ID (short code)|hexID|FZKPPOTBOURNS3269XH|
 |name|name|Potentiometer_SMD : Potentiometer_Bourns_3269X_Horizontal|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Potentiometer_Bourns_3269X_Horizontal'</td><td> 'description'</td></tr><tr><td> 'Potentiometer</td><td> horizontal</td><td> Bourns 3269X</td><td> https</td></tr><tr><td>//www.bourns.com/docs/Product-Datasheets/3269.pdf'</td><td> 'tags'</td></tr><tr><td> 'Potentiometer horizontal Bourns 3269X'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Potentiometer_SMD.3dshapes/Potentiometer_Bourns_3269X_Horizontal.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

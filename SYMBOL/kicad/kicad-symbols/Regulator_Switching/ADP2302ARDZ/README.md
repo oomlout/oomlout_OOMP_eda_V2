@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [SZKREGULATORSWITCHINGADP232ARDZ > Regulator_Switching : ADP2302ARDZ](#szkregulatorswitchingadp232ardz--regulator_switching--adp2302ardz)
+* [SZKREGULATORSWINGADP232ARDZ > Regulator_Switching : ADP2302ARDZ](#szkregulatorswingadp232ardz--regulator_switching--adp2302ardz)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# SZKREGULATORSWITCHINGADP232ARDZ > Regulator_Switching : ADP2302ARDZ
+# SZKREGULATORSWINGADP232ARDZ > Regulator_Switching : ADP2302ARDZ
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-ADP2302ARDZ
-- Hex ID: SZKREGULATORSWITCHINGADP232ARDZ
+- Hex ID: SZKREGULATORSWINGADP232ARDZ
 - Name: Regulator_Switching : ADP2302ARDZ
 - Description: Regulator_Switching : ADP2302ARDZ
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-ADP2302ARDZ](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-ADP2302ARDZ)
-- Short Link: [http://oom.lt/SZKREGULATORSWITCHINGADP232ARDZ](http://oom.lt/SZKREGULATORSWITCHINGADP232ARDZ)
+- Short Link: [http://oom.lt/SZKREGULATORSWINGADP232ARDZ](http://oom.lt/SZKREGULATORSWINGADP232ARDZ)
 
 ## Images
   
@@ -36,7 +36,7 @@ Contents
 |OOMP Description|oompDesc|Regulator_Switching|
 |OOMP Index|oompIndex|ADP2302ARDZ|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-ADP2302ARDZ|
-|Hex ID (short code)|hexID|SZKREGULATORSWITCHINGADP232ARDZ|
+|Hex ID (short code)|hexID|SZKREGULATORSWINGADP232ARDZ|
 |name|name|Regulator_Switching : ADP2302ARDZ|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'ADP2302ARDZ'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>SOIC-8-1EP_3.9x4.9mm_P1.27mm_EP2.29x3mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.analog.com/media/en/technical-documentation/data-sheets/ADP2302_2303.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Step-Down Regulator'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Nonsynchronous Step-Down Regulator 2 Amp Vout Adjustable SOIC-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOIC*1EP*3.9x4.9mm*P1.27mm*'</td></tr></table>]|
 ||||

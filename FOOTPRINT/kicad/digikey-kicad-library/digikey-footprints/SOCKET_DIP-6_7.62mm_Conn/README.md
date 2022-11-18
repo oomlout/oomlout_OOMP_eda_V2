@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSODIP6762CONN > digikey-footprints : SOCKET_DIP-6_7.62mm_Conn](#fzkicaddigikeykicadlibrarydigikeyfootprintssodip6762conn--digikey-footprints--socket_dip-6_762mm_conn)
+* [FZDIGIDIGIKEYFOOTPRINTSSODIP6762CONN > digikey-footprints : SOCKET_DIP-6_7.62mm_Conn](#fzdigidigikeyfootprintssodip6762conn--digikey-footprints--socket_dip-6_762mm_conn)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSODIP6762CONN > digikey-footprints : SOCKET_DIP-6_7.62mm_Conn
+# FZDIGIDIGIKEYFOOTPRINTSSODIP6762CONN > digikey-footprints : SOCKET_DIP-6_7.62mm_Conn
 
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SOCKET_DIP-6_7.62mm_Conn
-- Hex ID: FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSODIP6762CONN
+- Hex ID: FZDIGIDIGIKEYFOOTPRINTSSODIP6762CONN
 - Name: digikey-footprints : SOCKET_DIP-6_7.62mm_Conn
 - Description: digikey-footprints : SOCKET_DIP-6_7.62mm_Conn
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SOCKET_DIP-6_7.62mm_Conn](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SOCKET_DIP-6_7.62mm_Conn)
-- Short Link: [http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSODIP6762CONN](http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSODIP6762CONN)
+- Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSSODIP6762CONN](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSSODIP6762CONN)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|digikey-footprints|
 |OOMP Index|oompIndex|SOCKET_DIP-6_7.62mm_Conn|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SOCKET_DIP-6_7.62mm_Conn|
-|Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSODIP6762CONN|
+|Hex ID (short code)|hexID|FZDIGIDIGIKEYFOOTPRINTSSODIP6762CONN|
 |name|name|digikey-footprints : SOCKET_DIP-6_7.62mm_Conn|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'SOCKET_DIP-6_7.62mm_Conn'</td><td> 'description'</td></tr><tr><td> 'http</td></tr><tr><td>//www.assmann-wsw.com/fileadmin/datasheets/ASS_0810_CO.pdf'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> None</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||

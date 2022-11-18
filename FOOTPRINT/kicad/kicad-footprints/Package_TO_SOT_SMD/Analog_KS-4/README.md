@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKPACKAGETOSOTSMANALOGKS4 > Package_TO_SOT_SMD : Analog_KS-4](#fzkpackagetosotsmanalogks4--package_to_sot_smd--analog_ks-4)
+* [FZKSOTANALOGKS4 > Package_TO_SOT_SMD : Analog_KS-4](#fzksotanalogks4--package_to_sot_smd--analog_ks-4)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKPACKAGETOSOTSMANALOGKS4 > Package_TO_SOT_SMD : Analog_KS-4
+# FZKSOTANALOGKS4 > Package_TO_SOT_SMD : Analog_KS-4
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-Analog_KS-4
-- Hex ID: FZKPACKAGETOSOTSMANALOGKS4
+- Hex ID: FZKSOTANALOGKS4
 - Name: Package_TO_SOT_SMD : Analog_KS-4
 - Description: Package_TO_SOT_SMD : Analog_KS-4
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-Analog_KS-4](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-Analog_KS-4)
-- Short Link: [http://oom.lt/FZKPACKAGETOSOTSMANALOGKS4](http://oom.lt/FZKPACKAGETOSOTSMANALOGKS4)
+- Short Link: [http://oom.lt/FZKSOTANALOGKS4](http://oom.lt/FZKSOTANALOGKS4)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Package_TO_SOT_SMD|
 |OOMP Index|oompIndex|Analog_KS-4|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-Analog_KS-4|
-|Hex ID (short code)|hexID|FZKPACKAGETOSOTSMANALOGKS4|
+|Hex ID (short code)|hexID|FZKSOTANALOGKS4|
 |name|name|Package_TO_SOT_SMD : Analog_KS-4|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Analog_KS-4'</td><td> 'description'</td></tr><tr><td> 'Analog Devices KS-4</td><td> http</td></tr><tr><td>//www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/sc70ks/ks_4.pdf'</td><td> 'tags'</td></tr><tr><td> 'Analog Devices KS-4 (like EIAJ SC-82)'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_TO_SOT_SMD.3dshapes/Analog_KS-4.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

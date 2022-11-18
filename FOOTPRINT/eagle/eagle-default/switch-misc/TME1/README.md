@@ -5,18 +5,18 @@
 Contents
 ========
 
-* [FZESWITCHMISCTME1 > switch-misc : TME1](#fzeswitchmisctme1--switch-misc--tme1)
+* [FZESWMISCTME1 > switch-misc : TME1](#fzeswmisctme1--switch-misc--tme1)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZESWITCHMISCTME1 > switch-misc : TME1
+# FZESWMISCTME1 > switch-misc : TME1
 
 - ID: FOOTPRINT-eagle-eagle-default-switch-misc-TME1
-- Hex ID: FZESWITCHMISCTME1
+- Hex ID: FZESWMISCTME1
 - Name: switch-misc : TME1
 - Description: switch-misc : TME1
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-misc-TME1](http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-misc-TME1)
-- Short Link: [http://oom.lt/FZESWITCHMISCTME1](http://oom.lt/FZESWITCHMISCTME1)
+- Short Link: [http://oom.lt/FZESWMISCTME1](http://oom.lt/FZESWMISCTME1)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +30,6 @@ NO IMAGES
 |OOMP Description|oompDesc|switch-misc|
 |OOMP Index|oompIndex|TME1|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-switch-misc-TME1|
-|Hex ID (short code)|hexID|FZESWITCHMISCTME1|
+|Hex ID (short code)|hexID|FZESWMISCTME1|
 |name|name|switch-misc : TME1|
 ||||

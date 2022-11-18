@@ -5,18 +5,18 @@
 Contents
 ========
 
-* [SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICRESE42XO3931R4O393C25783 > oomlout_OOMP_JLCC_Basic : RESE-0402-X-O393-01-R4O393-C25783](#szkicadoomloutoompkicadoomloutoompjlccbasicrese42xo3931r4o393c25783--oomlout_oomp_jlcc_basic--rese-0402-x-o393-01-r4o393-c25783)
+* [SZOOMPKJLCRESE42XO3931R4O393C25783 > oomlout_OOMP_JLCC_Basic : RESE-0402-X-O393-01-R4O393-C25783](#szoompkjlcrese42xo3931r4o393c25783--oomlout_oomp_jlcc_basic--rese-0402-x-o393-01-r4o393-c25783)
 	* [Tags](#tags)
   
 NO IMAGE  
-# SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICRESE42XO3931R4O393C25783 > oomlout_OOMP_JLCC_Basic : RESE-0402-X-O393-01-R4O393-C25783
+# SZOOMPKJLCRESE42XO3931R4O393C25783 > oomlout_OOMP_JLCC_Basic : RESE-0402-X-O393-01-R4O393-C25783
 
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-RESE-0402-X-O393-01-R4O393-C25783
-- Hex ID: SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICRESE42XO3931R4O393C25783
+- Hex ID: SZOOMPKJLCRESE42XO3931R4O393C25783
 - Name: oomlout_OOMP_JLCC_Basic : RESE-0402-X-O393-01-R4O393-C25783
 - Description: oomlout_OOMP_JLCC_Basic : RESE-0402-X-O393-01-R4O393-C25783
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-RESE-0402-X-O393-01-R4O393-C25783](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-RESE-0402-X-O393-01-R4O393-C25783)
-- Short Link: [http://oom.lt/SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICRESE42XO3931R4O393C25783](http://oom.lt/SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICRESE42XO3931R4O393C25783)
+- Short Link: [http://oom.lt/SZOOMPKJLCRESE42XO3931R4O393C25783](http://oom.lt/SZOOMPKJLCRESE42XO3931R4O393C25783)
   
 NO IMAGES  
 ## Tags
@@ -30,7 +30,7 @@ NO IMAGES
 |OOMP Description|oompDesc|oomlout_OOMP_JLCC_Basic|
 |OOMP Index|oompIndex|RESE-0402-X-O393-01-R4O393-C25783|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-RESE-0402-X-O393-01-R4O393-C25783|
-|Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICRESE42XO3931R4O393C25783|
+|Hex ID (short code)|hexID|SZOOMPKJLCRESE42XO3931R4O393C25783|
 |name|name|oomlout_OOMP_JLCC_Basic : RESE-0402-X-O393-01-R4O393-C25783|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'R'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'RESE-0402-X-O393-01-R4O393-C25783'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'oomlout_OOMP_parts</td></tr><tr><td>RESE-0402-X-O393-01-R4O393-C25783'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'oom.lt/R4O393'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'R res resistor'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'hexID</td></tr><tr><td> R4O393;PARTL C-JLCC;C25783;MANUF C-XXXX;0402WGF3902TCE;Resistor'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'R_*'</td></tr></table>]|
 ||||

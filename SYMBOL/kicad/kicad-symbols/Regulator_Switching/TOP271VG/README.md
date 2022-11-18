@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [SZKREGULATORSWITCHINGTOP271VG > Regulator_Switching : TOP271VG](#szkregulatorswitchingtop271vg--regulator_switching--top271vg)
+* [SZKREGULATORSWINGTOP271VG > Regulator_Switching : TOP271VG](#szkregulatorswingtop271vg--regulator_switching--top271vg)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# SZKREGULATORSWITCHINGTOP271VG > Regulator_Switching : TOP271VG
+# SZKREGULATORSWINGTOP271VG > Regulator_Switching : TOP271VG
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-TOP271VG
-- Hex ID: SZKREGULATORSWITCHINGTOP271VG
+- Hex ID: SZKREGULATORSWINGTOP271VG
 - Name: Regulator_Switching : TOP271VG
 - Description: Regulator_Switching : TOP271VG
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TOP271VG](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TOP271VG)
-- Short Link: [http://oom.lt/SZKREGULATORSWITCHINGTOP271VG](http://oom.lt/SZKREGULATORSWITCHINGTOP271VG)
+- Short Link: [http://oom.lt/SZKREGULATORSWINGTOP271VG](http://oom.lt/SZKREGULATORSWINGTOP271VG)
 
 ## Images
   
@@ -36,7 +36,7 @@ Contents
 |OOMP Description|oompDesc|Regulator_Switching|
 |OOMP Index|oompIndex|TOP271VG|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-TOP271VG|
-|Hex ID (short code)|hexID|SZKREGULATORSWITCHINGTOP271VG|
+|Hex ID (short code)|hexID|SZKREGULATORSWINGTOP271VG|
 |name|name|Regulator_Switching : TOP271VG|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'TOP264VG'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'TOP271VG'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DIP</td></tr><tr><td>PowerIntegrations_eDIP-12B'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//ac-dc.power.com/sites/default/files/product-docs/topswitch-jx_family_datasheet.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Integrated Off-Line Switcher with EcoSmartâ„¢ Technology'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'TOPSwitch-JX Family</td><td> 177W Output Power</td><td> eDIP-12B'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'PowerIntegrations?eDIP?12*'</td></tr></table>]|
 ||||

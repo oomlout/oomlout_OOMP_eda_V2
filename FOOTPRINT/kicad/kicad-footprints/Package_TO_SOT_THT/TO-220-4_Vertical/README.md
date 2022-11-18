@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKSOTTO224VERTICAL > Package_TO_SOT_THT : TO-220-4_Vertical](#fzksotto224vertical--package_to_sot_tht--to-220-4_vertical)
+* [FZKSOTTO224F > Package_TO_SOT_THT : TO-220-4_Vertical](#fzksotto224f--package_to_sot_tht--to-220-4_vertical)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKSOTTO224VERTICAL > Package_TO_SOT_THT : TO-220-4_Vertical
+# FZKSOTTO224F > Package_TO_SOT_THT : TO-220-4_Vertical
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-TO-220-4_Vertical
-- Hex ID: FZKSOTTO224VERTICAL
+- Hex ID: FZKSOTTO224F
 - Name: Package_TO_SOT_THT : TO-220-4_Vertical
 - Description: Package_TO_SOT_THT : TO-220-4_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-TO-220-4_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-TO-220-4_Vertical)
-- Short Link: [http://oom.lt/FZKSOTTO224VERTICAL](http://oom.lt/FZKSOTTO224VERTICAL)
+- Short Link: [http://oom.lt/FZKSOTTO224F](http://oom.lt/FZKSOTTO224F)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Package_TO_SOT_THT|
 |OOMP Index|oompIndex|TO-220-4_Vertical|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-TO-220-4_Vertical|
-|Hex ID (short code)|hexID|FZKSOTTO224VERTICAL|
+|Hex ID (short code)|hexID|FZKSOTTO224F|
 |name|name|Package_TO_SOT_THT : TO-220-4_Vertical|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'TO-220-4_Vertical'</td><td> 'description'</td></tr><tr><td> 'TO-220-4</td><td> Vertical</td><td> RM 2.54mm'</td><td> 'tags'</td></tr><tr><td> 'TO-220-4 Vertical RM 2.54mm'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_TO_SOT_THT.3dshapes/TO-220-4_Vertical.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

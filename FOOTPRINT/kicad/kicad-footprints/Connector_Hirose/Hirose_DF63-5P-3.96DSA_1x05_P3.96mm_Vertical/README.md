@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKCNHIROSEHIROSEDF635P396DSA1X5P396VERTICAL > Connector_Hirose : Hirose_DF63-5P-3.96DSA_1x05_P3.96mm_Vertical](#fzkcnhirosehirosedf635p396dsa1x5p396vertical--connector_hirose--hirose_df63-5p-396dsa_1x05_p396mm_vertical)
+* [FZKCNHIROSEHIROSEDF635P396DSA1X5P396F > Connector_Hirose : Hirose_DF63-5P-3.96DSA_1x05_P3.96mm_Vertical](#fzkcnhirosehirosedf635p396dsa1x5p396f--connector_hirose--hirose_df63-5p-396dsa_1x05_p396mm_vertical)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKCNHIROSEHIROSEDF635P396DSA1X5P396VERTICAL > Connector_Hirose : Hirose_DF63-5P-3.96DSA_1x05_P3.96mm_Vertical
+# FZKCNHIROSEHIROSEDF635P396DSA1X5P396F > Connector_Hirose : Hirose_DF63-5P-3.96DSA_1x05_P3.96mm_Vertical
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_Hirose-Hirose_DF63-5P-3.96DSA_1x05_P3.96mm_Vertical
-- Hex ID: FZKCNHIROSEHIROSEDF635P396DSA1X5P396VERTICAL
+- Hex ID: FZKCNHIROSEHIROSEDF635P396DSA1X5P396F
 - Name: Connector_Hirose : Hirose_DF63-5P-3.96DSA_1x05_P3.96mm_Vertical
 - Description: Connector_Hirose : Hirose_DF63-5P-3.96DSA_1x05_P3.96mm_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Hirose-Hirose_DF63-5P-3.96DSA_1x05_P3.96mm_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Hirose-Hirose_DF63-5P-3.96DSA_1x05_P3.96mm_Vertical)
-- Short Link: [http://oom.lt/FZKCNHIROSEHIROSEDF635P396DSA1X5P396VERTICAL](http://oom.lt/FZKCNHIROSEHIROSEDF635P396DSA1X5P396VERTICAL)
+- Short Link: [http://oom.lt/FZKCNHIROSEHIROSEDF635P396DSA1X5P396F](http://oom.lt/FZKCNHIROSEHIROSEDF635P396DSA1X5P396F)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Connector_Hirose|
 |OOMP Index|oompIndex|Hirose_DF63-5P-3.96DSA_1x05_P3.96mm_Vertical|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Hirose-Hirose_DF63-5P-3.96DSA_1x05_P3.96mm_Vertical|
-|Hex ID (short code)|hexID|FZKCNHIROSEHIROSEDF635P396DSA1X5P396VERTICAL|
+|Hex ID (short code)|hexID|FZKCNHIROSEHIROSEDF635P396DSA1X5P396F|
 |name|name|Connector_Hirose : Hirose_DF63-5P-3.96DSA_1x05_P3.96mm_Vertical|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Hirose_DF63-5P-3.96DSA_1x05_P3.96mm_Vertical'</td><td> 'description'</td></tr><tr><td> 'Hirose DF63 through hole</td><td> DF63-5P-3.96DSA</td><td> 5 Pins per row (https</td></tr><tr><td>//www.hirose.com/product/en/products/DF63/)</td><td> generated with kicad-footprint-generator'</td><td> 'tags'</td></tr><tr><td> 'connector Hirose DF63 vertical'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_Hirose.3dshapes/Hirose_DF63-5P-3.96DSA_1x05_P3.96mm_Vertical.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'np_thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||

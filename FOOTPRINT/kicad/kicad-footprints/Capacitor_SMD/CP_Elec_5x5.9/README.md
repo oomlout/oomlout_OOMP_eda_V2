@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKCAPACITORSMCPELEC5X59 > Capacitor_SMD : CP_Elec_5x5.9](#fzkcapacitorsmcpelec5x59--capacitor_smd--cp_elec_5x59)
+* [FZKCCPELEC5X59 > Capacitor_SMD : CP_Elec_5x5.9](#fzkccpelec5x59--capacitor_smd--cp_elec_5x59)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKCAPACITORSMCPELEC5X59 > Capacitor_SMD : CP_Elec_5x5.9
+# FZKCCPELEC5X59 > Capacitor_SMD : CP_Elec_5x5.9
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-CP_Elec_5x5.9
-- Hex ID: FZKCAPACITORSMCPELEC5X59
+- Hex ID: FZKCCPELEC5X59
 - Name: Capacitor_SMD : CP_Elec_5x5.9
 - Description: Capacitor_SMD : CP_Elec_5x5.9
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-CP_Elec_5x5.9](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-CP_Elec_5x5.9)
-- Short Link: [http://oom.lt/FZKCAPACITORSMCPELEC5X59](http://oom.lt/FZKCAPACITORSMCPELEC5X59)
+- Short Link: [http://oom.lt/FZKCCPELEC5X59](http://oom.lt/FZKCCPELEC5X59)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Capacitor_SMD|
 |OOMP Index|oompIndex|CP_Elec_5x5.9|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-CP_Elec_5x5.9|
-|Hex ID (short code)|hexID|FZKCAPACITORSMCPELEC5X59|
+|Hex ID (short code)|hexID|FZKCCPELEC5X59|
 |name|name|Capacitor_SMD : CP_Elec_5x5.9|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'CP_Elec_5x5.9'</td><td> 'description'</td></tr><tr><td> 'SMD capacitor</td><td> aluminum electrolytic</td><td> Panasonic B6</td><td> 5.0x5.9mm'</td><td> 'tags'</td></tr><tr><td> 'capacitor electrolytic'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Capacitor_SMD.3dshapes/CP_Elec_5x5.9.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||

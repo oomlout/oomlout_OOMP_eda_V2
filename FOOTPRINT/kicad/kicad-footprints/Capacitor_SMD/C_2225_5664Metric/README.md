@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKCAPACITORSMC22255664METRIC > Capacitor_SMD : C_2225_5664Metric](#fzkcapacitorsmc22255664metric--capacitor_smd--c_2225_5664metric)
+* [FZKCC22255664VA > Capacitor_SMD : C_2225_5664Metric](#fzkcc22255664va--capacitor_smd--c_2225_5664metric)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKCAPACITORSMC22255664METRIC > Capacitor_SMD : C_2225_5664Metric
+# FZKCC22255664VA > Capacitor_SMD : C_2225_5664Metric
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_2225_5664Metric
-- Hex ID: FZKCAPACITORSMC22255664METRIC
+- Hex ID: FZKCC22255664VA
 - Name: Capacitor_SMD : C_2225_5664Metric
 - Description: Capacitor_SMD : C_2225_5664Metric
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_2225_5664Metric](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_2225_5664Metric)
-- Short Link: [http://oom.lt/FZKCAPACITORSMC22255664METRIC](http://oom.lt/FZKCAPACITORSMC22255664METRIC)
+- Short Link: [http://oom.lt/FZKCC22255664VA](http://oom.lt/FZKCC22255664VA)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Capacitor_SMD|
 |OOMP Index|oompIndex|C_2225_5664Metric|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_2225_5664Metric|
-|Hex ID (short code)|hexID|FZKCAPACITORSMC22255664METRIC|
+|Hex ID (short code)|hexID|FZKCC22255664VA|
 |name|name|Capacitor_SMD : C_2225_5664Metric|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'C_2225_5664Metric'</td><td> 'description'</td></tr><tr><td> 'Capacitor SMD 2225 (5664 Metric)</td><td> square (rectangular) end terminal</td><td> IPC_7351 nominal</td><td> (Body size from</td></tr><tr><td> http</td></tr><tr><td>//datasheets.avx.com/AVX-HV_MLCC.pdf)</td><td> generated with kicad-footprint-generator'</td><td> 'tags'</td></tr><tr><td> 'capacitor'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Capacitor_SMD.3dshapes/C_2225_5664Metric.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||

@@ -5,18 +5,18 @@
 Contents
 ========
 
-* [FZESWITCHDILDS4 > switch-dil : DS-04](#fzeswitchdilds4--switch-dil--ds-04)
+* [FZESWDILDS4 > switch-dil : DS-04](#fzeswdilds4--switch-dil--ds-04)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZESWITCHDILDS4 > switch-dil : DS-04
+# FZESWDILDS4 > switch-dil : DS-04
 
 - ID: FOOTPRINT-eagle-eagle-default-switch-dil-DS-04
-- Hex ID: FZESWITCHDILDS4
+- Hex ID: FZESWDILDS4
 - Name: switch-dil : DS-04
 - Description: switch-dil : DS-04
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-dil-DS-04](http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-dil-DS-04)
-- Short Link: [http://oom.lt/FZESWITCHDILDS4](http://oom.lt/FZESWITCHDILDS4)
+- Short Link: [http://oom.lt/FZESWDILDS4](http://oom.lt/FZESWDILDS4)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +30,6 @@ NO IMAGES
 |OOMP Description|oompDesc|switch-dil|
 |OOMP Index|oompIndex|DS-04|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-switch-dil-DS-04|
-|Hex ID (short code)|hexID|FZESWITCHDILDS4|
+|Hex ID (short code)|hexID|FZESWDILDS4|
 |name|name|switch-dil : DS-04|
 ||||

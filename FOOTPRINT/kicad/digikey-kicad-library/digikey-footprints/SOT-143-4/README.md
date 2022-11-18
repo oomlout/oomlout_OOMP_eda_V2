@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSOT1434 > digikey-footprints : SOT-143-4](#fzkicaddigikeykicadlibrarydigikeyfootprintssot1434--digikey-footprints--sot-143-4)
+* [FZDIGIDIGIKEYFOOTPRINTSSOT1434 > digikey-footprints : SOT-143-4](#fzdigidigikeyfootprintssot1434--digikey-footprints--sot-143-4)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSOT1434 > digikey-footprints : SOT-143-4
+# FZDIGIDIGIKEYFOOTPRINTSSOT1434 > digikey-footprints : SOT-143-4
 
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SOT-143-4
-- Hex ID: FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSOT1434
+- Hex ID: FZDIGIDIGIKEYFOOTPRINTSSOT1434
 - Name: digikey-footprints : SOT-143-4
 - Description: digikey-footprints : SOT-143-4
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SOT-143-4](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SOT-143-4)
-- Short Link: [http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSOT1434](http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSOT1434)
+- Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSSOT1434](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSSOT1434)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|digikey-footprints|
 |OOMP Index|oompIndex|SOT-143-4|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SOT-143-4|
-|Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSOT1434|
+|Hex ID (short code)|hexID|FZDIGIDIGIKEYFOOTPRINTSSOT1434|
 |name|name|digikey-footprints : SOT-143-4|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'SOT-143-4'</td><td> 'description'</td></tr><tr><td> 'http</td></tr><tr><td>//datasheets.maximintegrated.com/en/ds/MAX6816-MAX6818.pdf'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

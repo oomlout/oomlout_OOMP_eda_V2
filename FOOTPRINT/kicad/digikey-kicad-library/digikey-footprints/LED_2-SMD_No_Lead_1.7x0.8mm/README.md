@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSL2SMNOLEAD17X8 > digikey-footprints : LED_2-SMD_No_Lead_1.7x0.8mm](#fzkicaddigikeykicadlibrarydigikeyfootprintsl2smnolead17x8--digikey-footprints--led_2-smd_no_lead_17x08mm)
+* [FZDIGIDIGIKEYFOOTPRINTSL2SMNOLEAD17X8 > digikey-footprints : LED_2-SMD_No_Lead_1.7x0.8mm](#fzdigidigikeyfootprintsl2smnolead17x8--digikey-footprints--led_2-smd_no_lead_17x08mm)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSL2SMNOLEAD17X8 > digikey-footprints : LED_2-SMD_No_Lead_1.7x0.8mm
+# FZDIGIDIGIKEYFOOTPRINTSL2SMNOLEAD17X8 > digikey-footprints : LED_2-SMD_No_Lead_1.7x0.8mm
 
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-LED_2-SMD_No_Lead_1.7x0.8mm
-- Hex ID: FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSL2SMNOLEAD17X8
+- Hex ID: FZDIGIDIGIKEYFOOTPRINTSL2SMNOLEAD17X8
 - Name: digikey-footprints : LED_2-SMD_No_Lead_1.7x0.8mm
 - Description: digikey-footprints : LED_2-SMD_No_Lead_1.7x0.8mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-LED_2-SMD_No_Lead_1.7x0.8mm](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-LED_2-SMD_No_Lead_1.7x0.8mm)
-- Short Link: [http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSL2SMNOLEAD17X8](http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSL2SMNOLEAD17X8)
+- Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSL2SMNOLEAD17X8](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSL2SMNOLEAD17X8)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|digikey-footprints|
 |OOMP Index|oompIndex|LED_2-SMD_No_Lead_1.7x0.8mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-LED_2-SMD_No_Lead_1.7x0.8mm|
-|Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSL2SMNOLEAD17X8|
+|Hex ID (short code)|hexID|FZDIGIDIGIKEYFOOTPRINTSL2SMNOLEAD17X8|
 |name|name|digikey-footprints : LED_2-SMD_No_Lead_1.7x0.8mm|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'LED_2-SMD_No_Lead_1.7x0.8mm'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

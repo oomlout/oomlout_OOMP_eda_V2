@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKCNAUDIOJXLRNEUTRIKNC3FAAV1VERTICAL > Connector_Audio : Jack_XLR_Neutrik_NC3FAAV1-0_Vertical](#fzkcnaudiojxlrneutriknc3faav1vertical--connector_audio--jack_xlr_neutrik_nc3faav1-0_vertical)
+* [FZKCNAUDIOJXLRNEUTRIKNC3FAAV1F > Connector_Audio : Jack_XLR_Neutrik_NC3FAAV1-0_Vertical](#fzkcnaudiojxlrneutriknc3faav1f--connector_audio--jack_xlr_neutrik_nc3faav1-0_vertical)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKCNAUDIOJXLRNEUTRIKNC3FAAV1VERTICAL > Connector_Audio : Jack_XLR_Neutrik_NC3FAAV1-0_Vertical
+# FZKCNAUDIOJXLRNEUTRIKNC3FAAV1F > Connector_Audio : Jack_XLR_Neutrik_NC3FAAV1-0_Vertical
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_Audio-Jack_XLR_Neutrik_NC3FAAV1-0_Vertical
-- Hex ID: FZKCNAUDIOJXLRNEUTRIKNC3FAAV1VERTICAL
+- Hex ID: FZKCNAUDIOJXLRNEUTRIKNC3FAAV1F
 - Name: Connector_Audio : Jack_XLR_Neutrik_NC3FAAV1-0_Vertical
 - Description: Connector_Audio : Jack_XLR_Neutrik_NC3FAAV1-0_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Audio-Jack_XLR_Neutrik_NC3FAAV1-0_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Audio-Jack_XLR_Neutrik_NC3FAAV1-0_Vertical)
-- Short Link: [http://oom.lt/FZKCNAUDIOJXLRNEUTRIKNC3FAAV1VERTICAL](http://oom.lt/FZKCNAUDIOJXLRNEUTRIKNC3FAAV1VERTICAL)
+- Short Link: [http://oom.lt/FZKCNAUDIOJXLRNEUTRIKNC3FAAV1F](http://oom.lt/FZKCNAUDIOJXLRNEUTRIKNC3FAAV1F)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Connector_Audio|
 |OOMP Index|oompIndex|Jack_XLR_Neutrik_NC3FAAV1-0_Vertical|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Audio-Jack_XLR_Neutrik_NC3FAAV1-0_Vertical|
-|Hex ID (short code)|hexID|FZKCNAUDIOJXLRNEUTRIKNC3FAAV1VERTICAL|
+|Hex ID (short code)|hexID|FZKCNAUDIOJXLRNEUTRIKNC3FAAV1F|
 |name|name|Connector_Audio : Jack_XLR_Neutrik_NC3FAAV1-0_Vertical|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Jack_XLR_Neutrik_NC3FAAV1-0_Vertical'</td><td> 'description'</td></tr><tr><td> 'AA Series</td><td> 3 pole female receptacle</td><td> grounding</td></tr><tr><td> mating connector shell to pin1 and front panel</td><td> vertical PCB mount</td><td> retention spring instead of latch</td><td> https</td></tr><tr><td>//www.neutrik.com/en/product/nc3faav1-0'</td><td> 'tags'</td></tr><tr><td> 'neutrik xlr aa'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_Audio.3dshapes/Jack_XLR_Neutrik_NC3FAAV1-0_Vertical.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||

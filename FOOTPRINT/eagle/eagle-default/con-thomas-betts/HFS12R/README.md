@@ -6,9 +6,10 @@ Contents
 ========
 
 * [FZECONTHOMASBETTSHFS12R > con-thomas-betts : HFS12R](#fzeconthomasbettshfs12r--con-thomas-betts--hfs12r)
+	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZECONTHOMASBETTSHFS12R > con-thomas-betts : HFS12R
 
 - ID: FOOTPRINT-eagle-eagle-default-con-thomas-betts-HFS12R
@@ -17,8 +18,14 @@ NO IMAGE
 - Description: con-thomas-betts : HFS12R
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-thomas-betts-HFS12R](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-thomas-betts-HFS12R)
 - Short Link: [http://oom.lt/FZECONTHOMASBETTSHFS12R](http://oom.lt/FZECONTHOMASBETTSHFS12R)
+
+## Images
   
-NO IMAGES  
+
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/con-thomas-betts/HFS12R/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/con-thomas-betts/HFS12R/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/con-thomas-betts/HFS12R/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/con-thomas-betts/HFS12R/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/con-thomas-betts/HFS12R/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/con-thomas-betts/HFS12R/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/con-thomas-betts/HFS12R/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/con-thomas-betts/HFS12R/kicadPcb3dBack.png)|
+| :---: | :---: | :---: | :---: |
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/con-thomas-betts/HFS12R/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/con-thomas-betts/HFS12R/kicadPcb3d.png)||||
+
 ## Tags
   
 
@@ -33,3 +40,7 @@ NO IMAGES
 |Hex ID (short code)|hexID|FZECONTHOMASBETTSHFS12R|
 |name|name|con-thomas-betts : HFS12R|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

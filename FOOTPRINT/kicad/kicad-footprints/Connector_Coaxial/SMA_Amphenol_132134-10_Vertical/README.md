@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKCNCOASAMPHENOL1321341VERTICAL > Connector_Coaxial : SMA_Amphenol_132134-10_Vertical](#fzkcncoasamphenol1321341vertical--connector_coaxial--sma_amphenol_132134-10_vertical)
+* [FZKCNCOASAMPHENOL1321341F > Connector_Coaxial : SMA_Amphenol_132134-10_Vertical](#fzkcncoasamphenol1321341f--connector_coaxial--sma_amphenol_132134-10_vertical)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKCNCOASAMPHENOL1321341VERTICAL > Connector_Coaxial : SMA_Amphenol_132134-10_Vertical
+# FZKCNCOASAMPHENOL1321341F > Connector_Coaxial : SMA_Amphenol_132134-10_Vertical
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_Coaxial-SMA_Amphenol_132134-10_Vertical
-- Hex ID: FZKCNCOASAMPHENOL1321341VERTICAL
+- Hex ID: FZKCNCOASAMPHENOL1321341F
 - Name: Connector_Coaxial : SMA_Amphenol_132134-10_Vertical
 - Description: Connector_Coaxial : SMA_Amphenol_132134-10_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Coaxial-SMA_Amphenol_132134-10_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Coaxial-SMA_Amphenol_132134-10_Vertical)
-- Short Link: [http://oom.lt/FZKCNCOASAMPHENOL1321341VERTICAL](http://oom.lt/FZKCNCOASAMPHENOL1321341VERTICAL)
+- Short Link: [http://oom.lt/FZKCNCOASAMPHENOL1321341F](http://oom.lt/FZKCNCOASAMPHENOL1321341F)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Connector_Coaxial|
 |OOMP Index|oompIndex|SMA_Amphenol_132134-10_Vertical|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Coaxial-SMA_Amphenol_132134-10_Vertical|
-|Hex ID (short code)|hexID|FZKCNCOASAMPHENOL1321341VERTICAL|
+|Hex ID (short code)|hexID|FZKCNCOASAMPHENOL1321341F|
 |name|name|Connector_Coaxial : SMA_Amphenol_132134-10_Vertical|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'SMA_Amphenol_132134-10_Vertical'</td><td> 'description'</td></tr><tr><td> 'https</td></tr><tr><td>//www.amphenolrf.com/downloads/dl/file/id/4007/product/2974/132134_10_customer_drawing.pdf'</td><td> 'tags'</td></tr><tr><td> 'SMA SMD Female Jack Vertical'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_Coaxial.3dshapes/SMA_Amphenol_132134-10_Vertical.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||

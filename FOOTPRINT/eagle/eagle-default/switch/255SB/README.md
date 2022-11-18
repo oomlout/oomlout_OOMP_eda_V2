@@ -5,18 +5,18 @@
 Contents
 ========
 
-* [FZESWITCH255SB > switch : 255SB](#fzeswitch255sb--switch--255sb)
+* [FZESW255SB > switch : 255SB](#fzesw255sb--switch--255sb)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZESWITCH255SB > switch : 255SB
+# FZESW255SB > switch : 255SB
 
 - ID: FOOTPRINT-eagle-eagle-default-switch-255SB
-- Hex ID: FZESWITCH255SB
+- Hex ID: FZESW255SB
 - Name: switch : 255SB
 - Description: switch : 255SB
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-255SB](http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-255SB)
-- Short Link: [http://oom.lt/FZESWITCH255SB](http://oom.lt/FZESWITCH255SB)
+- Short Link: [http://oom.lt/FZESW255SB](http://oom.lt/FZESW255SB)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +30,6 @@ NO IMAGES
 |OOMP Description|oompDesc|switch|
 |OOMP Index|oompIndex|255SB|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-switch-255SB|
-|Hex ID (short code)|hexID|FZESWITCH255SB|
+|Hex ID (short code)|hexID|FZESW255SB|
 |name|name|switch : 255SB|
 ||||

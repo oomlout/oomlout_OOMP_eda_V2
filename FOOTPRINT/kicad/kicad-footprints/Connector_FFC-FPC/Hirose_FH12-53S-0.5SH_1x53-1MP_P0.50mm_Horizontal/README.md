@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKCNFFCFPCHIROSEFH1253S5SH1X531MPP5HORIZONTAL > Connector_FFC-FPC : Hirose_FH12-53S-0.5SH_1x53-1MP_P0.50mm_Horizontal](#fzkcnffcfpchirosefh1253s5sh1x531mpp5horizontal--connector_ffc-fpc--hirose_fh12-53s-05sh_1x53-1mp_p050mm_horizontal)
+* [FZKCNFFCFPCHIROSEFH1253S5SH1X531MPP5H > Connector_FFC-FPC : Hirose_FH12-53S-0.5SH_1x53-1MP_P0.50mm_Horizontal](#fzkcnffcfpchirosefh1253s5sh1x531mpp5h--connector_ffc-fpc--hirose_fh12-53s-05sh_1x53-1mp_p050mm_horizontal)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKCNFFCFPCHIROSEFH1253S5SH1X531MPP5HORIZONTAL > Connector_FFC-FPC : Hirose_FH12-53S-0.5SH_1x53-1MP_P0.50mm_Horizontal
+# FZKCNFFCFPCHIROSEFH1253S5SH1X531MPP5H > Connector_FFC-FPC : Hirose_FH12-53S-0.5SH_1x53-1MP_P0.50mm_Horizontal
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_FFC-FPC-Hirose_FH12-53S-0.5SH_1x53-1MP_P0.50mm_Horizontal
-- Hex ID: FZKCNFFCFPCHIROSEFH1253S5SH1X531MPP5HORIZONTAL
+- Hex ID: FZKCNFFCFPCHIROSEFH1253S5SH1X531MPP5H
 - Name: Connector_FFC-FPC : Hirose_FH12-53S-0.5SH_1x53-1MP_P0.50mm_Horizontal
 - Description: Connector_FFC-FPC : Hirose_FH12-53S-0.5SH_1x53-1MP_P0.50mm_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_FFC-FPC-Hirose_FH12-53S-0.5SH_1x53-1MP_P0.50mm_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_FFC-FPC-Hirose_FH12-53S-0.5SH_1x53-1MP_P0.50mm_Horizontal)
-- Short Link: [http://oom.lt/FZKCNFFCFPCHIROSEFH1253S5SH1X531MPP5HORIZONTAL](http://oom.lt/FZKCNFFCFPCHIROSEFH1253S5SH1X531MPP5HORIZONTAL)
+- Short Link: [http://oom.lt/FZKCNFFCFPCHIROSEFH1253S5SH1X531MPP5H](http://oom.lt/FZKCNFFCFPCHIROSEFH1253S5SH1X531MPP5H)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Connector_FFC-FPC|
 |OOMP Index|oompIndex|Hirose_FH12-53S-0.5SH_1x53-1MP_P0.50mm_Horizontal|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_FFC-FPC-Hirose_FH12-53S-0.5SH_1x53-1MP_P0.50mm_Horizontal|
-|Hex ID (short code)|hexID|FZKCNFFCFPCHIROSEFH1253S5SH1X531MPP5HORIZONTAL|
+|Hex ID (short code)|hexID|FZKCNFFCFPCHIROSEFH1253S5SH1X531MPP5H|
 |name|name|Connector_FFC-FPC : Hirose_FH12-53S-0.5SH_1x53-1MP_P0.50mm_Horizontal|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Hirose_FH12-53S-0.5SH_1x53-1MP_P0.50mm_Horizontal'</td><td> 'description'</td></tr><tr><td> 'Hirose FH12</td><td> FFC/FPC connector</td><td> FH12-53S-0.5SH</td><td> 53 Pins per row (https</td></tr><tr><td>//www.hirose.com/product/en/products/FH12/FH12-24S-0.5SH(55)/)</td><td> generated with kicad-footprint-generator'</td><td> 'tags'</td></tr><tr><td> 'connector Hirose FH12 horizontal'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_FFC-FPC.3dshapes/Hirose_FH12-53S-0.5SH_1x53-1MP_P0.50mm_Horizontal.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

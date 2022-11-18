@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKPACKAGETOSOTSMSUPERSOT3 > Package_TO_SOT_SMD : SuperSOT-3](#fzkpackagetosotsmsupersot3--package_to_sot_smd--supersot-3)
+* [FZKSOTSUPERSOT3 > Package_TO_SOT_SMD : SuperSOT-3](#fzksotsupersot3--package_to_sot_smd--supersot-3)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKPACKAGETOSOTSMSUPERSOT3 > Package_TO_SOT_SMD : SuperSOT-3
+# FZKSOTSUPERSOT3 > Package_TO_SOT_SMD : SuperSOT-3
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SuperSOT-3
-- Hex ID: FZKPACKAGETOSOTSMSUPERSOT3
+- Hex ID: FZKSOTSUPERSOT3
 - Name: Package_TO_SOT_SMD : SuperSOT-3
 - Description: Package_TO_SOT_SMD : SuperSOT-3
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SuperSOT-3](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SuperSOT-3)
-- Short Link: [http://oom.lt/FZKPACKAGETOSOTSMSUPERSOT3](http://oom.lt/FZKPACKAGETOSOTSMSUPERSOT3)
+- Short Link: [http://oom.lt/FZKSOTSUPERSOT3](http://oom.lt/FZKSOTSUPERSOT3)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Package_TO_SOT_SMD|
 |OOMP Index|oompIndex|SuperSOT-3|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SuperSOT-3|
-|Hex ID (short code)|hexID|FZKPACKAGETOSOTSMSUPERSOT3|
+|Hex ID (short code)|hexID|FZKSOTSUPERSOT3|
 |name|name|Package_TO_SOT_SMD : SuperSOT-3|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'SuperSOT-3'</td><td> 'description'</td></tr><tr><td> '3-pin SuperSOT package https</td></tr><tr><td>//www.fairchildsemi.com/package-drawings/MA/MA03B.pdf'</td><td> 'tags'</td></tr><tr><td> 'SuperSOT-3 SSOT-3'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_TO_SOT_SMD.3dshapes/SuperSOT-3.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

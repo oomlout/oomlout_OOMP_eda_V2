@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSDO35 > digikey-footprints : DO-35](#fzkicaddigikeykicadlibrarydigikeyfootprintsdo35--digikey-footprints--do-35)
+* [FZDIGIDIGIKEYFOOTPRINTSDO35 > digikey-footprints : DO-35](#fzdigidigikeyfootprintsdo35--digikey-footprints--do-35)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSDO35 > digikey-footprints : DO-35
+# FZDIGIDIGIKEYFOOTPRINTSDO35 > digikey-footprints : DO-35
 
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-DO-35
-- Hex ID: FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSDO35
+- Hex ID: FZDIGIDIGIKEYFOOTPRINTSDO35
 - Name: digikey-footprints : DO-35
 - Description: digikey-footprints : DO-35
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-DO-35](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-DO-35)
-- Short Link: [http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSDO35](http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSDO35)
+- Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSDO35](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSDO35)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|digikey-footprints|
 |OOMP Index|oompIndex|DO-35|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-DO-35|
-|Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSDO35|
+|Hex ID (short code)|hexID|FZDIGIDIGIKEYFOOTPRINTSDO35|
 |name|name|digikey-footprints : DO-35|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'DO-35'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> None</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||

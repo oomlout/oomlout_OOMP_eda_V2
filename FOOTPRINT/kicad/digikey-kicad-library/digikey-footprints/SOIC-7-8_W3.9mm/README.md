@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSOIC78W39 > digikey-footprints : SOIC-7-8_W3.9mm](#fzkicaddigikeykicadlibrarydigikeyfootprintssoic78w39--digikey-footprints--soic-7-8_w39mm)
+* [FZDIGIDIGIKEYFOOTPRINTSSOIC78W39 > digikey-footprints : SOIC-7-8_W3.9mm](#fzdigidigikeyfootprintssoic78w39--digikey-footprints--soic-7-8_w39mm)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSOIC78W39 > digikey-footprints : SOIC-7-8_W3.9mm
+# FZDIGIDIGIKEYFOOTPRINTSSOIC78W39 > digikey-footprints : SOIC-7-8_W3.9mm
 
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SOIC-7-8_W3.9mm
-- Hex ID: FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSOIC78W39
+- Hex ID: FZDIGIDIGIKEYFOOTPRINTSSOIC78W39
 - Name: digikey-footprints : SOIC-7-8_W3.9mm
 - Description: digikey-footprints : SOIC-7-8_W3.9mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SOIC-7-8_W3.9mm](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SOIC-7-8_W3.9mm)
-- Short Link: [http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSOIC78W39](http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSOIC78W39)
+- Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSSOIC78W39](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSSOIC78W39)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|digikey-footprints|
 |OOMP Index|oompIndex|SOIC-7-8_W3.9mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SOIC-7-8_W3.9mm|
-|Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSOIC78W39|
+|Hex ID (short code)|hexID|FZDIGIDIGIKEYFOOTPRINTSSOIC78W39|
 |name|name|digikey-footprints : SOIC-7-8_W3.9mm|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'SOIC-7-8_W3.9mm'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

@@ -5,18 +5,18 @@
 Contents
 ========
 
-* [FZESWITCHALPSALPSEC12ESW > switch-alps : ALPS_EC12E_SW](#fzeswitchalpsalpsec12esw--switch-alps--alps_ec12e_sw)
+* [FZESWALPSALPSEC12ESW > switch-alps : ALPS_EC12E_SW](#fzeswalpsalpsec12esw--switch-alps--alps_ec12e_sw)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZESWITCHALPSALPSEC12ESW > switch-alps : ALPS_EC12E_SW
+# FZESWALPSALPSEC12ESW > switch-alps : ALPS_EC12E_SW
 
 - ID: FOOTPRINT-eagle-eagle-default-switch-alps-ALPS_EC12E_SW
-- Hex ID: FZESWITCHALPSALPSEC12ESW
+- Hex ID: FZESWALPSALPSEC12ESW
 - Name: switch-alps : ALPS_EC12E_SW
 - Description: switch-alps : ALPS_EC12E_SW
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-alps-ALPS_EC12E_SW](http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-alps-ALPS_EC12E_SW)
-- Short Link: [http://oom.lt/FZESWITCHALPSALPSEC12ESW](http://oom.lt/FZESWITCHALPSALPSEC12ESW)
+- Short Link: [http://oom.lt/FZESWALPSALPSEC12ESW](http://oom.lt/FZESWALPSALPSEC12ESW)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +30,6 @@ NO IMAGES
 |OOMP Description|oompDesc|switch-alps|
 |OOMP Index|oompIndex|ALPS_EC12E_SW|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-switch-alps-ALPS_EC12E_SW|
-|Hex ID (short code)|hexID|FZESWITCHALPSALPSEC12ESW|
+|Hex ID (short code)|hexID|FZESWALPSALPSEC12ESW|
 |name|name|switch-alps : ALPS_EC12E_SW|
 ||||

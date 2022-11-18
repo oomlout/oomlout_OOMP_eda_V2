@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSPOTENTIOMETERP12PKY25BR1K > digikey-footprints : Potentiometer_P120PK-Y25BR10K](#fzkicaddigikeykicadlibrarydigikeyfootprintspotentiometerp12pky25br1k--digikey-footprints--potentiometer_p120pk-y25br10k)
+* [FZDIGIDIGIKEYFOOTPRINTSPOTP12PKY25BR1K > digikey-footprints : Potentiometer_P120PK-Y25BR10K](#fzdigidigikeyfootprintspotp12pky25br1k--digikey-footprints--potentiometer_p120pk-y25br10k)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSPOTENTIOMETERP12PKY25BR1K > digikey-footprints : Potentiometer_P120PK-Y25BR10K
+# FZDIGIDIGIKEYFOOTPRINTSPOTP12PKY25BR1K > digikey-footprints : Potentiometer_P120PK-Y25BR10K
 
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Potentiometer_P120PK-Y25BR10K
-- Hex ID: FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSPOTENTIOMETERP12PKY25BR1K
+- Hex ID: FZDIGIDIGIKEYFOOTPRINTSPOTP12PKY25BR1K
 - Name: digikey-footprints : Potentiometer_P120PK-Y25BR10K
 - Description: digikey-footprints : Potentiometer_P120PK-Y25BR10K
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Potentiometer_P120PK-Y25BR10K](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Potentiometer_P120PK-Y25BR10K)
-- Short Link: [http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSPOTENTIOMETERP12PKY25BR1K](http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSPOTENTIOMETERP12PKY25BR1K)
+- Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSPOTP12PKY25BR1K](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSPOTP12PKY25BR1K)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|digikey-footprints|
 |OOMP Index|oompIndex|Potentiometer_P120PK-Y25BR10K|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Potentiometer_P120PK-Y25BR10K|
-|Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSPOTENTIOMETERP12PKY25BR1K|
+|Hex ID (short code)|hexID|FZDIGIDIGIKEYFOOTPRINTSPOTP12PKY25BR1K|
 |name|name|digikey-footprints : Potentiometer_P120PK-Y25BR10K|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Potentiometer_P120PK-Y25BR10K'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> None</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

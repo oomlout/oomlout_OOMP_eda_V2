@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSUFQFN281EP4X4 > digikey-footprints : UFQFN-28-1EP_4x4mm](#fzkicaddigikeykicadlibrarydigikeyfootprintsufqfn281ep4x4--digikey-footprints--ufqfn-28-1ep_4x4mm)
+* [FZDIGIDIGIKEYFOOTPRINTSUFQFN281EP4X4 > digikey-footprints : UFQFN-28-1EP_4x4mm](#fzdigidigikeyfootprintsufqfn281ep4x4--digikey-footprints--ufqfn-28-1ep_4x4mm)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSUFQFN281EP4X4 > digikey-footprints : UFQFN-28-1EP_4x4mm
+# FZDIGIDIGIKEYFOOTPRINTSUFQFN281EP4X4 > digikey-footprints : UFQFN-28-1EP_4x4mm
 
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-UFQFN-28-1EP_4x4mm
-- Hex ID: FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSUFQFN281EP4X4
+- Hex ID: FZDIGIDIGIKEYFOOTPRINTSUFQFN281EP4X4
 - Name: digikey-footprints : UFQFN-28-1EP_4x4mm
 - Description: digikey-footprints : UFQFN-28-1EP_4x4mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-UFQFN-28-1EP_4x4mm](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-UFQFN-28-1EP_4x4mm)
-- Short Link: [http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSUFQFN281EP4X4](http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSUFQFN281EP4X4)
+- Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSUFQFN281EP4X4](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSUFQFN281EP4X4)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|digikey-footprints|
 |OOMP Index|oompIndex|UFQFN-28-1EP_4x4mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-UFQFN-28-1EP_4x4mm|
-|Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSUFQFN281EP4X4|
+|Hex ID (short code)|hexID|FZDIGIDIGIKEYFOOTPRINTSUFQFN281EP4X4|
 |name|name|digikey-footprints : UFQFN-28-1EP_4x4mm|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'UFQFN-28-1EP_4x4mm'</td><td> 'description'</td></tr><tr><td> 'http</td></tr><tr><td>//www.semtech.com/images/datasheet/sx150x_89b.pdf'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

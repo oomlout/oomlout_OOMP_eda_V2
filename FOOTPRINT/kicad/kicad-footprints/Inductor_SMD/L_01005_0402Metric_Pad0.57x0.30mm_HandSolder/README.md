@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKINDUCTORSML1542METRICPAD57X3HANDSOLDER > Inductor_SMD : L_01005_0402Metric_Pad0.57x0.30mm_HandSolder](#fzkinductorsml1542metricpad57x3handsolder--inductor_smd--l_01005_0402metric_pad057x030mm_handsolder)
+* [FZKINL1542VAPAD57X3HANDSOLDER > Inductor_SMD : L_01005_0402Metric_Pad0.57x0.30mm_HandSolder](#fzkinl1542vapad57x3handsolder--inductor_smd--l_01005_0402metric_pad057x030mm_handsolder)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKINDUCTORSML1542METRICPAD57X3HANDSOLDER > Inductor_SMD : L_01005_0402Metric_Pad0.57x0.30mm_HandSolder
+# FZKINL1542VAPAD57X3HANDSOLDER > Inductor_SMD : L_01005_0402Metric_Pad0.57x0.30mm_HandSolder
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_01005_0402Metric_Pad0.57x0.30mm_HandSolder
-- Hex ID: FZKINDUCTORSML1542METRICPAD57X3HANDSOLDER
+- Hex ID: FZKINL1542VAPAD57X3HANDSOLDER
 - Name: Inductor_SMD : L_01005_0402Metric_Pad0.57x0.30mm_HandSolder
 - Description: Inductor_SMD : L_01005_0402Metric_Pad0.57x0.30mm_HandSolder
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_01005_0402Metric_Pad0.57x0.30mm_HandSolder](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_01005_0402Metric_Pad0.57x0.30mm_HandSolder)
-- Short Link: [http://oom.lt/FZKINDUCTORSML1542METRICPAD57X3HANDSOLDER](http://oom.lt/FZKINDUCTORSML1542METRICPAD57X3HANDSOLDER)
+- Short Link: [http://oom.lt/FZKINL1542VAPAD57X3HANDSOLDER](http://oom.lt/FZKINL1542VAPAD57X3HANDSOLDER)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Inductor_SMD|
 |OOMP Index|oompIndex|L_01005_0402Metric_Pad0.57x0.30mm_HandSolder|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_01005_0402Metric_Pad0.57x0.30mm_HandSolder|
-|Hex ID (short code)|hexID|FZKINDUCTORSML1542METRICPAD57X3HANDSOLDER|
+|Hex ID (short code)|hexID|FZKINL1542VAPAD57X3HANDSOLDER|
 |name|name|Inductor_SMD : L_01005_0402Metric_Pad0.57x0.30mm_HandSolder|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'L_01005_0402Metric_Pad0.57x0.30mm_HandSolder'</td><td> 'description'</td></tr><tr><td> 'Inductor SMD 01005 (0402 Metric)</td><td> square (rectangular) end terminal</td><td> IPC_7351 nominal with elongated pad for handsoldering. (Body size source</td></tr><tr><td> http</td></tr><tr><td>//www.vishay.com/docs/20056/crcw01005e3.pdf)</td><td> generated with kicad-footprint-generator'</td><td> 'tags'</td></tr><tr><td> 'inductor handsolder'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Inductor_SMD.3dshapes/L_01005_0402Metric.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||

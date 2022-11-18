@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKPPOTENTIOMETERPIHERT16HSINGLEHORIZONTAL > Potentiometer_THT : Potentiometer_Piher_T-16H_Single_Horizontal](#fzkppotentiometerpihert16hsinglehorizontal--potentiometer_tht--potentiometer_piher_t-16h_single_horizontal)
+* [FZKPPOTPIHERT16HSINGLEH > Potentiometer_THT : Potentiometer_Piher_T-16H_Single_Horizontal](#fzkppotpihert16hsingleh--potentiometer_tht--potentiometer_piher_t-16h_single_horizontal)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKPPOTENTIOMETERPIHERT16HSINGLEHORIZONTAL > Potentiometer_THT : Potentiometer_Piher_T-16H_Single_Horizontal
+# FZKPPOTPIHERT16HSINGLEH > Potentiometer_THT : Potentiometer_Piher_T-16H_Single_Horizontal
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Potentiometer_THT-Potentiometer_Piher_T-16H_Single_Horizontal
-- Hex ID: FZKPPOTENTIOMETERPIHERT16HSINGLEHORIZONTAL
+- Hex ID: FZKPPOTPIHERT16HSINGLEH
 - Name: Potentiometer_THT : Potentiometer_Piher_T-16H_Single_Horizontal
 - Description: Potentiometer_THT : Potentiometer_Piher_T-16H_Single_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Potentiometer_THT-Potentiometer_Piher_T-16H_Single_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Potentiometer_THT-Potentiometer_Piher_T-16H_Single_Horizontal)
-- Short Link: [http://oom.lt/FZKPPOTENTIOMETERPIHERT16HSINGLEHORIZONTAL](http://oom.lt/FZKPPOTENTIOMETERPIHERT16HSINGLEHORIZONTAL)
+- Short Link: [http://oom.lt/FZKPPOTPIHERT16HSINGLEH](http://oom.lt/FZKPPOTPIHERT16HSINGLEH)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Potentiometer_THT|
 |OOMP Index|oompIndex|Potentiometer_Piher_T-16H_Single_Horizontal|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Potentiometer_THT-Potentiometer_Piher_T-16H_Single_Horizontal|
-|Hex ID (short code)|hexID|FZKPPOTENTIOMETERPIHERT16HSINGLEHORIZONTAL|
+|Hex ID (short code)|hexID|FZKPPOTPIHERT16HSINGLEH|
 |name|name|Potentiometer_THT : Potentiometer_Piher_T-16H_Single_Horizontal|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Potentiometer_Piher_T-16H_Single_Horizontal'</td><td> 'description'</td></tr><tr><td> 'Potentiometer</td><td> horizontal</td><td> Piher T-16H Single</td><td> http</td></tr><tr><td>//www.piher-nacesa.com/pdf/22-T16v03.pdf'</td><td> 'tags'</td></tr><tr><td> 'Potentiometer horizontal Piher T-16H Single'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Potentiometer_THT.3dshapes/Potentiometer_Piher_T-16H_Single_Horizontal.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||

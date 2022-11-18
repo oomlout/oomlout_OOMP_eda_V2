@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSLLC369X9HMC6343 > digikey-footprints : LLC-36_9x9mm_HMC6343](#fzkicaddigikeykicadlibrarydigikeyfootprintsllc369x9hmc6343--digikey-footprints--llc-36_9x9mm_hmc6343)
+* [FZDIGIDIGIKEYFOOTPRINTSLLC369X9HMC6343 > digikey-footprints : LLC-36_9x9mm_HMC6343](#fzdigidigikeyfootprintsllc369x9hmc6343--digikey-footprints--llc-36_9x9mm_hmc6343)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSLLC369X9HMC6343 > digikey-footprints : LLC-36_9x9mm_HMC6343
+# FZDIGIDIGIKEYFOOTPRINTSLLC369X9HMC6343 > digikey-footprints : LLC-36_9x9mm_HMC6343
 
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-LLC-36_9x9mm_HMC6343
-- Hex ID: FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSLLC369X9HMC6343
+- Hex ID: FZDIGIDIGIKEYFOOTPRINTSLLC369X9HMC6343
 - Name: digikey-footprints : LLC-36_9x9mm_HMC6343
 - Description: digikey-footprints : LLC-36_9x9mm_HMC6343
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-LLC-36_9x9mm_HMC6343](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-LLC-36_9x9mm_HMC6343)
-- Short Link: [http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSLLC369X9HMC6343](http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSLLC369X9HMC6343)
+- Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSLLC369X9HMC6343](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSLLC369X9HMC6343)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|digikey-footprints|
 |OOMP Index|oompIndex|LLC-36_9x9mm_HMC6343|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-LLC-36_9x9mm_HMC6343|
-|Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSLLC369X9HMC6343|
+|Hex ID (short code)|hexID|FZDIGIDIGIKEYFOOTPRINTSLLC369X9HMC6343|
 |name|name|digikey-footprints : LLC-36_9x9mm_HMC6343|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'LLC-36_9x9mm_HMC6343'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

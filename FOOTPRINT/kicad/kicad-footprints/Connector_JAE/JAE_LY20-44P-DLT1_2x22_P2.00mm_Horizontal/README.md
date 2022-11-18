@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKCNJAEJAELY244PDLT12X22P2HORIZONTAL > Connector_JAE : JAE_LY20-44P-DLT1_2x22_P2.00mm_Horizontal](#fzkcnjaejaely244pdlt12x22p2horizontal--connector_jae--jae_ly20-44p-dlt1_2x22_p200mm_horizontal)
+* [FZKCNJAEJAELY244PDLT12X22P2H > Connector_JAE : JAE_LY20-44P-DLT1_2x22_P2.00mm_Horizontal](#fzkcnjaejaely244pdlt12x22p2h--connector_jae--jae_ly20-44p-dlt1_2x22_p200mm_horizontal)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKCNJAEJAELY244PDLT12X22P2HORIZONTAL > Connector_JAE : JAE_LY20-44P-DLT1_2x22_P2.00mm_Horizontal
+# FZKCNJAEJAELY244PDLT12X22P2H > Connector_JAE : JAE_LY20-44P-DLT1_2x22_P2.00mm_Horizontal
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_JAE-JAE_LY20-44P-DLT1_2x22_P2.00mm_Horizontal
-- Hex ID: FZKCNJAEJAELY244PDLT12X22P2HORIZONTAL
+- Hex ID: FZKCNJAEJAELY244PDLT12X22P2H
 - Name: Connector_JAE : JAE_LY20-44P-DLT1_2x22_P2.00mm_Horizontal
 - Description: Connector_JAE : JAE_LY20-44P-DLT1_2x22_P2.00mm_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_JAE-JAE_LY20-44P-DLT1_2x22_P2.00mm_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_JAE-JAE_LY20-44P-DLT1_2x22_P2.00mm_Horizontal)
-- Short Link: [http://oom.lt/FZKCNJAEJAELY244PDLT12X22P2HORIZONTAL](http://oom.lt/FZKCNJAEJAELY244PDLT12X22P2HORIZONTAL)
+- Short Link: [http://oom.lt/FZKCNJAEJAELY244PDLT12X22P2H](http://oom.lt/FZKCNJAEJAELY244PDLT12X22P2H)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Connector_JAE|
 |OOMP Index|oompIndex|JAE_LY20-44P-DLT1_2x22_P2.00mm_Horizontal|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_JAE-JAE_LY20-44P-DLT1_2x22_P2.00mm_Horizontal|
-|Hex ID (short code)|hexID|FZKCNJAEJAELY244PDLT12X22P2HORIZONTAL|
+|Hex ID (short code)|hexID|FZKCNJAEJAELY244PDLT12X22P2H|
 |name|name|Connector_JAE : JAE_LY20-44P-DLT1_2x22_P2.00mm_Horizontal|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'JAE_LY20-44P-DLT1_2x22_P2.00mm_Horizontal'</td><td> 'description'</td></tr><tr><td> 'Molex LY 20 series connector</td><td> LY20-44P-DLT1</td><td> 22 Circuits (http</td></tr><tr><td>//www.jae.com/z-en/pdf_download_exec.cfm?param=SJ038187.pdf)</td><td> generated with kicad-footprint-generator'</td><td> 'tags'</td></tr><tr><td> 'connector JAE  top entry'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_JAE.3dshapes/JAE_LY20-44P-DLT1_2x22_P2.00mm_Horizontal.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||

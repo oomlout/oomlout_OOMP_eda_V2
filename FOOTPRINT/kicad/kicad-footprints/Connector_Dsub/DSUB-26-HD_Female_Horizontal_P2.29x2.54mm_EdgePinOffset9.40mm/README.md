@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKCNDSUBDSUB26HDFEMALEHORIZONTALP229X254EDGEPINOFFSET94 > Connector_Dsub : DSUB-26-HD_Female_Horizontal_P2.29x2.54mm_EdgePinOffset9.40mm](#fzkcndsubdsub26hdfemalehorizontalp229x254edgepinoffset94--connector_dsub--dsub-26-hd_female_horizontal_p229x254mm_edgepinoffset940mm)
+* [FZKCNDSUBDSUB26HDFHP229X254EPO94 > Connector_Dsub : DSUB-26-HD_Female_Horizontal_P2.29x2.54mm_EdgePinOffset9.40mm](#fzkcndsubdsub26hdfhp229x254epo94--connector_dsub--dsub-26-hd_female_horizontal_p229x254mm_edgepinoffset940mm)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKCNDSUBDSUB26HDFEMALEHORIZONTALP229X254EDGEPINOFFSET94 > Connector_Dsub : DSUB-26-HD_Female_Horizontal_P2.29x2.54mm_EdgePinOffset9.40mm
+# FZKCNDSUBDSUB26HDFHP229X254EPO94 > Connector_Dsub : DSUB-26-HD_Female_Horizontal_P2.29x2.54mm_EdgePinOffset9.40mm
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_Dsub-DSUB-26-HD_Female_Horizontal_P2.29x2.54mm_EdgePinOffset9.40mm
-- Hex ID: FZKCNDSUBDSUB26HDFEMALEHORIZONTALP229X254EDGEPINOFFSET94
+- Hex ID: FZKCNDSUBDSUB26HDFHP229X254EPO94
 - Name: Connector_Dsub : DSUB-26-HD_Female_Horizontal_P2.29x2.54mm_EdgePinOffset9.40mm
 - Description: Connector_Dsub : DSUB-26-HD_Female_Horizontal_P2.29x2.54mm_EdgePinOffset9.40mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Dsub-DSUB-26-HD_Female_Horizontal_P2.29x2.54mm_EdgePinOffset9.40mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Dsub-DSUB-26-HD_Female_Horizontal_P2.29x2.54mm_EdgePinOffset9.40mm)
-- Short Link: [http://oom.lt/FZKCNDSUBDSUB26HDFEMALEHORIZONTALP229X254EDGEPINOFFSET94](http://oom.lt/FZKCNDSUBDSUB26HDFEMALEHORIZONTALP229X254EDGEPINOFFSET94)
+- Short Link: [http://oom.lt/FZKCNDSUBDSUB26HDFHP229X254EPO94](http://oom.lt/FZKCNDSUBDSUB26HDFHP229X254EPO94)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Connector_Dsub|
 |OOMP Index|oompIndex|DSUB-26-HD_Female_Horizontal_P2.29x2.54mm_EdgePinOffset9.40mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Dsub-DSUB-26-HD_Female_Horizontal_P2.29x2.54mm_EdgePinOffset9.40mm|
-|Hex ID (short code)|hexID|FZKCNDSUBDSUB26HDFEMALEHORIZONTALP229X254EDGEPINOFFSET94|
+|Hex ID (short code)|hexID|FZKCNDSUBDSUB26HDFHP229X254EPO94|
 |name|name|Connector_Dsub : DSUB-26-HD_Female_Horizontal_P2.29x2.54mm_EdgePinOffset9.40mm|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'DSUB-26-HD_Female_Horizontal_P2.29x2.54mm_EdgePinOffset9.40mm'</td><td> 'description'</td></tr><tr><td> '26-pin D-Sub connector</td><td> horizontal/angled (90 deg)</td><td> THT-mount</td><td> female</td><td> pitch 2.29x2.54mm</td><td> pin-PCB-offset 9.4mm</td><td> see http</td></tr><tr><td>//docs-europe.electrocomponents.com/webdocs/1585/0900766b81585df2.pdf'</td><td> 'tags'</td></tr><tr><td> '26-pin D-Sub connector horizontal angled 90deg THT female pitch 2.29x2.54mm pin-PCB-offset 9.4mm'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_Dsub.3dshapes/DSUB-26-HD_Female_Horizontal_P2.29x2.54mm_EdgePinOffset9.40mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

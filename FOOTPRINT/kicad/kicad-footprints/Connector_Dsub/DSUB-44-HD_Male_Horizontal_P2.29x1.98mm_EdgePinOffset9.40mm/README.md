@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKCNDSUBDSUB44HDMALEHORIZONTALP229X198EDGEPINOFFSET94 > Connector_Dsub : DSUB-44-HD_Male_Horizontal_P2.29x1.98mm_EdgePinOffset9.40mm](#fzkcndsubdsub44hdmalehorizontalp229x198edgepinoffset94--connector_dsub--dsub-44-hd_male_horizontal_p229x198mm_edgepinoffset940mm)
+* [FZKCNDSUBDSUB44HDMALEHP229X198EPO94 > Connector_Dsub : DSUB-44-HD_Male_Horizontal_P2.29x1.98mm_EdgePinOffset9.40mm](#fzkcndsubdsub44hdmalehp229x198epo94--connector_dsub--dsub-44-hd_male_horizontal_p229x198mm_edgepinoffset940mm)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKCNDSUBDSUB44HDMALEHORIZONTALP229X198EDGEPINOFFSET94 > Connector_Dsub : DSUB-44-HD_Male_Horizontal_P2.29x1.98mm_EdgePinOffset9.40mm
+# FZKCNDSUBDSUB44HDMALEHP229X198EPO94 > Connector_Dsub : DSUB-44-HD_Male_Horizontal_P2.29x1.98mm_EdgePinOffset9.40mm
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_Dsub-DSUB-44-HD_Male_Horizontal_P2.29x1.98mm_EdgePinOffset9.40mm
-- Hex ID: FZKCNDSUBDSUB44HDMALEHORIZONTALP229X198EDGEPINOFFSET94
+- Hex ID: FZKCNDSUBDSUB44HDMALEHP229X198EPO94
 - Name: Connector_Dsub : DSUB-44-HD_Male_Horizontal_P2.29x1.98mm_EdgePinOffset9.40mm
 - Description: Connector_Dsub : DSUB-44-HD_Male_Horizontal_P2.29x1.98mm_EdgePinOffset9.40mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Dsub-DSUB-44-HD_Male_Horizontal_P2.29x1.98mm_EdgePinOffset9.40mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Dsub-DSUB-44-HD_Male_Horizontal_P2.29x1.98mm_EdgePinOffset9.40mm)
-- Short Link: [http://oom.lt/FZKCNDSUBDSUB44HDMALEHORIZONTALP229X198EDGEPINOFFSET94](http://oom.lt/FZKCNDSUBDSUB44HDMALEHORIZONTALP229X198EDGEPINOFFSET94)
+- Short Link: [http://oom.lt/FZKCNDSUBDSUB44HDMALEHP229X198EPO94](http://oom.lt/FZKCNDSUBDSUB44HDMALEHP229X198EPO94)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Connector_Dsub|
 |OOMP Index|oompIndex|DSUB-44-HD_Male_Horizontal_P2.29x1.98mm_EdgePinOffset9.40mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Dsub-DSUB-44-HD_Male_Horizontal_P2.29x1.98mm_EdgePinOffset9.40mm|
-|Hex ID (short code)|hexID|FZKCNDSUBDSUB44HDMALEHORIZONTALP229X198EDGEPINOFFSET94|
+|Hex ID (short code)|hexID|FZKCNDSUBDSUB44HDMALEHP229X198EPO94|
 |name|name|Connector_Dsub : DSUB-44-HD_Male_Horizontal_P2.29x1.98mm_EdgePinOffset9.40mm|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'DSUB-44-HD_Male_Horizontal_P2.29x1.98mm_EdgePinOffset9.40mm'</td><td> 'description'</td></tr><tr><td> '44-pin D-Sub connector</td><td> horizontal/angled (90 deg)</td><td> THT-mount</td><td> male</td><td> pitch 2.29x1.98mm</td><td> pin-PCB-offset 9.4mm</td><td> see http</td></tr><tr><td>//docs-europe.electrocomponents.com/webdocs/1585/0900766b81585df2.pdf'</td><td> 'tags'</td></tr><tr><td> '44-pin D-Sub connector horizontal angled 90deg THT male pitch 2.29x1.98mm pin-PCB-offset 9.4mm'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_Dsub.3dshapes/DSUB-44-HD_Male_Horizontal_P2.29x1.98mm_EdgePinOffset9.40mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

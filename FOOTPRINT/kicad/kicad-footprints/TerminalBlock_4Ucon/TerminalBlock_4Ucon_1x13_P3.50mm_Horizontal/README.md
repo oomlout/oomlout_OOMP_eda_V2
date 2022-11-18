@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKTB4UCONTB4UCON1X13P35HORIZONTAL > TerminalBlock_4Ucon : TerminalBlock_4Ucon_1x13_P3.50mm_Horizontal](#fzktb4ucontb4ucon1x13p35horizontal--terminalblock_4ucon--terminalblock_4ucon_1x13_p350mm_horizontal)
+* [FZKTB4UCONTB4UCON1X13P35H > TerminalBlock_4Ucon : TerminalBlock_4Ucon_1x13_P3.50mm_Horizontal](#fzktb4ucontb4ucon1x13p35h--terminalblock_4ucon--terminalblock_4ucon_1x13_p350mm_horizontal)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKTB4UCONTB4UCON1X13P35HORIZONTAL > TerminalBlock_4Ucon : TerminalBlock_4Ucon_1x13_P3.50mm_Horizontal
+# FZKTB4UCONTB4UCON1X13P35H > TerminalBlock_4Ucon : TerminalBlock_4Ucon_1x13_P3.50mm_Horizontal
 
 - ID: FOOTPRINT-kicad-kicad-footprints-TerminalBlock_4Ucon-TerminalBlock_4Ucon_1x13_P3.50mm_Horizontal
-- Hex ID: FZKTB4UCONTB4UCON1X13P35HORIZONTAL
+- Hex ID: FZKTB4UCONTB4UCON1X13P35H
 - Name: TerminalBlock_4Ucon : TerminalBlock_4Ucon_1x13_P3.50mm_Horizontal
 - Description: TerminalBlock_4Ucon : TerminalBlock_4Ucon_1x13_P3.50mm_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-TerminalBlock_4Ucon-TerminalBlock_4Ucon_1x13_P3.50mm_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-TerminalBlock_4Ucon-TerminalBlock_4Ucon_1x13_P3.50mm_Horizontal)
-- Short Link: [http://oom.lt/FZKTB4UCONTB4UCON1X13P35HORIZONTAL](http://oom.lt/FZKTB4UCONTB4UCON1X13P35HORIZONTAL)
+- Short Link: [http://oom.lt/FZKTB4UCONTB4UCON1X13P35H](http://oom.lt/FZKTB4UCONTB4UCON1X13P35H)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|TerminalBlock_4Ucon|
 |OOMP Index|oompIndex|TerminalBlock_4Ucon_1x13_P3.50mm_Horizontal|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-TerminalBlock_4Ucon-TerminalBlock_4Ucon_1x13_P3.50mm_Horizontal|
-|Hex ID (short code)|hexID|FZKTB4UCONTB4UCON1X13P35HORIZONTAL|
+|Hex ID (short code)|hexID|FZKTB4UCONTB4UCON1X13P35H|
 |name|name|TerminalBlock_4Ucon : TerminalBlock_4Ucon_1x13_P3.50mm_Horizontal|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'TerminalBlock_4Ucon_1x13_P3.50mm_Horizontal'</td><td> 'description'</td></tr><tr><td> 'Terminal Block 4Ucon ItemNo. 10690</td><td> 13 pins</td><td> pitch 3.5mm</td><td> size 46.2x7mm^2</td><td> drill diamater 1.2mm</td><td> pad diameter 2.4mm</td><td> see http</td></tr><tr><td>//www.4uconnector.com/online/object/4udrawing/10690.pdf</td><td> script-generated using https</td></tr><tr><td>//github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_4Ucon'</td><td> 'tags'</td></tr><tr><td> 'THT Terminal Block 4Ucon ItemNo. 10690 pitch 3.5mm size 46.2x7mm^2 drill 1.2mm pad 2.4mm'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/TerminalBlock_4Ucon.3dshapes/TerminalBlock_4Ucon_1x13_P3.50mm_Horizontal.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

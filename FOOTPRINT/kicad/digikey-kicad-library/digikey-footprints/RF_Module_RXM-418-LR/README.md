@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSRFMORXM418LR > digikey-footprints : RF_Module_RXM-418-LR](#fzkicaddigikeykicadlibrarydigikeyfootprintsrfmorxm418lr--digikey-footprints--rf_module_rxm-418-lr)
+* [FZDIGIDIGIKEYFOOTPRINTSRFMORXM418LR > digikey-footprints : RF_Module_RXM-418-LR](#fzdigidigikeyfootprintsrfmorxm418lr--digikey-footprints--rf_module_rxm-418-lr)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSRFMORXM418LR > digikey-footprints : RF_Module_RXM-418-LR
+# FZDIGIDIGIKEYFOOTPRINTSRFMORXM418LR > digikey-footprints : RF_Module_RXM-418-LR
 
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-RF_Module_RXM-418-LR
-- Hex ID: FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSRFMORXM418LR
+- Hex ID: FZDIGIDIGIKEYFOOTPRINTSRFMORXM418LR
 - Name: digikey-footprints : RF_Module_RXM-418-LR
 - Description: digikey-footprints : RF_Module_RXM-418-LR
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-RF_Module_RXM-418-LR](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-RF_Module_RXM-418-LR)
-- Short Link: [http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSRFMORXM418LR](http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSRFMORXM418LR)
+- Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSRFMORXM418LR](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSRFMORXM418LR)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|digikey-footprints|
 |OOMP Index|oompIndex|RF_Module_RXM-418-LR|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-RF_Module_RXM-418-LR|
-|Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSRFMORXM418LR|
+|Hex ID (short code)|hexID|FZDIGIDIGIKEYFOOTPRINTSRFMORXM418LR|
 |name|name|digikey-footprints : RF_Module_RXM-418-LR|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'RF_Module_RXM-418-LR'</td><td> 'description'</td></tr><tr><td> 'https</td></tr><tr><td>//www.linxtechnologies.com/wp/wp-content/uploads/rxm-fff-lr.pdf'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

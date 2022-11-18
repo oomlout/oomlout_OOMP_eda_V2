@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [SZKREGULATORSWITCHINGNXE2S55MC > Regulator_Switching : NXE2S0505MC](#szkregulatorswitchingnxe2s55mc--regulator_switching--nxe2s0505mc)
+* [SZKREGULATORSWINGNXE2S55MC > Regulator_Switching : NXE2S0505MC](#szkregulatorswingnxe2s55mc--regulator_switching--nxe2s0505mc)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# SZKREGULATORSWITCHINGNXE2S55MC > Regulator_Switching : NXE2S0505MC
+# SZKREGULATORSWINGNXE2S55MC > Regulator_Switching : NXE2S0505MC
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-NXE2S0505MC
-- Hex ID: SZKREGULATORSWITCHINGNXE2S55MC
+- Hex ID: SZKREGULATORSWINGNXE2S55MC
 - Name: Regulator_Switching : NXE2S0505MC
 - Description: Regulator_Switching : NXE2S0505MC
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-NXE2S0505MC](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-NXE2S0505MC)
-- Short Link: [http://oom.lt/SZKREGULATORSWITCHINGNXE2S55MC](http://oom.lt/SZKREGULATORSWITCHINGNXE2S55MC)
+- Short Link: [http://oom.lt/SZKREGULATORSWINGNXE2S55MC](http://oom.lt/SZKREGULATORSWINGNXE2S55MC)
 
 ## Images
   
@@ -36,7 +36,7 @@ Contents
 |OOMP Description|oompDesc|Regulator_Switching|
 |OOMP Index|oompIndex|NXE2S0505MC|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-NXE2S0505MC|
-|Hex ID (short code)|hexID|SZKREGULATORSWITCHINGNXE2S55MC|
+|Hex ID (short code)|hexID|SZKREGULATORSWINGNXE2S55MC|
 |name|name|Regulator_Switching : NXE2S0505MC|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'NXE2S0505MC'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Converter_DCDC</td></tr><tr><td>Converter_DCDC_Murata_NXExSxxxxMC_SMD'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.murata.com/products/productdata/8807031898142/kdc-nxe2.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'isolated isolation dc-dc converter transformer'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '2W 5V to 5V 400mA DC-DC Converter with 3kV isolation'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Converter*DCDC*Murata*NXExSxxxxMC*'</td></tr></table>]|
 ||||

@@ -5,18 +5,18 @@
 Contents
 ========
 
-* [FZESWITCHRAYCHEMSM5F > switch-raychem : SMD050F](#fzeswitchraychemsm5f--switch-raychem--smd050f)
+* [FZESWRAYCHEMSM5F > switch-raychem : SMD050F](#fzeswraychemsm5f--switch-raychem--smd050f)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZESWITCHRAYCHEMSM5F > switch-raychem : SMD050F
+# FZESWRAYCHEMSM5F > switch-raychem : SMD050F
 
 - ID: FOOTPRINT-eagle-eagle-default-switch-raychem-SMD050F
-- Hex ID: FZESWITCHRAYCHEMSM5F
+- Hex ID: FZESWRAYCHEMSM5F
 - Name: switch-raychem : SMD050F
 - Description: switch-raychem : SMD050F
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-raychem-SMD050F](http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-raychem-SMD050F)
-- Short Link: [http://oom.lt/FZESWITCHRAYCHEMSM5F](http://oom.lt/FZESWITCHRAYCHEMSM5F)
+- Short Link: [http://oom.lt/FZESWRAYCHEMSM5F](http://oom.lt/FZESWRAYCHEMSM5F)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +30,6 @@ NO IMAGES
 |OOMP Description|oompDesc|switch-raychem|
 |OOMP Index|oompIndex|SMD050F|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-switch-raychem-SMD050F|
-|Hex ID (short code)|hexID|FZESWITCHRAYCHEMSM5F|
+|Hex ID (short code)|hexID|FZESWRAYCHEMSM5F|
 |name|name|switch-raychem : SMD050F|
 ||||

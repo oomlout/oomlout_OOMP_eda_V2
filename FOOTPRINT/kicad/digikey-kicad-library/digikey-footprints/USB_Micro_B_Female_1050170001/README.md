@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSUMBFEMALE15171 > digikey-footprints : USB_Micro_B_Female_1050170001](#fzkicaddigikeykicadlibrarydigikeyfootprintsumbfemale15171--digikey-footprints--usb_micro_b_female_1050170001)
+* [FZDIGIDIGIKEYFOOTPRINTSUMBF15171 > digikey-footprints : USB_Micro_B_Female_1050170001](#fzdigidigikeyfootprintsumbf15171--digikey-footprints--usb_micro_b_female_1050170001)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSUMBFEMALE15171 > digikey-footprints : USB_Micro_B_Female_1050170001
+# FZDIGIDIGIKEYFOOTPRINTSUMBF15171 > digikey-footprints : USB_Micro_B_Female_1050170001
 
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-USB_Micro_B_Female_1050170001
-- Hex ID: FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSUMBFEMALE15171
+- Hex ID: FZDIGIDIGIKEYFOOTPRINTSUMBF15171
 - Name: digikey-footprints : USB_Micro_B_Female_1050170001
 - Description: digikey-footprints : USB_Micro_B_Female_1050170001
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-USB_Micro_B_Female_1050170001](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-USB_Micro_B_Female_1050170001)
-- Short Link: [http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSUMBFEMALE15171](http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSUMBFEMALE15171)
+- Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSUMBF15171](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSUMBF15171)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|digikey-footprints|
 |OOMP Index|oompIndex|USB_Micro_B_Female_1050170001|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-USB_Micro_B_Female_1050170001|
-|Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSUMBFEMALE15171|
+|Hex ID (short code)|hexID|FZDIGIDIGIKEYFOOTPRINTSUMBF15171|
 |name|name|digikey-footprints : USB_Micro_B_Female_1050170001|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'USB_Micro_B_Female_1050170001'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

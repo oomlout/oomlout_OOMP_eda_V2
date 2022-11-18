@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [SZKREGULATORSWITCHINGLNK326D > Regulator_Switching : LNK3206D](#szkregulatorswitchinglnk326d--regulator_switching--lnk3206d)
+* [SZKREGULATORSWINGLNK326D > Regulator_Switching : LNK3206D](#szkregulatorswinglnk326d--regulator_switching--lnk3206d)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# SZKREGULATORSWITCHINGLNK326D > Regulator_Switching : LNK3206D
+# SZKREGULATORSWINGLNK326D > Regulator_Switching : LNK3206D
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-LNK3206D
-- Hex ID: SZKREGULATORSWITCHINGLNK326D
+- Hex ID: SZKREGULATORSWINGLNK326D
 - Name: Regulator_Switching : LNK3206D
 - Description: Regulator_Switching : LNK3206D
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LNK3206D](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LNK3206D)
-- Short Link: [http://oom.lt/SZKREGULATORSWITCHINGLNK326D](http://oom.lt/SZKREGULATORSWITCHINGLNK326D)
+- Short Link: [http://oom.lt/SZKREGULATORSWINGLNK326D](http://oom.lt/SZKREGULATORSWINGLNK326D)
 
 ## Images
   
@@ -36,7 +36,7 @@ Contents
 |OOMP Description|oompDesc|Regulator_Switching|
 |OOMP Index|oompIndex|LNK3206D|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-LNK3206D|
-|Hex ID (short code)|hexID|SZKREGULATORSWITCHINGLNK326D|
+|Hex ID (short code)|hexID|SZKREGULATORSWINGLNK326D|
 |name|name|Regulator_Switching : LNK3206D|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'LNK3202D'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LNK3206D'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>PowerIntegrations_SO-8C'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//ac-dc.power.com/sites/default/files/product-docs/LinkSwitch-TN2_family_datasheet.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Lowest Component Count</td><td> Energy-Efficient Off-Line Switcher IC'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'LinkSwitch-TN2 Family</td><td> 360mA Output Current</td><td> SO-8C'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'PowerIntegrations?SO?8C*'</td></tr></table>]|
 ||||

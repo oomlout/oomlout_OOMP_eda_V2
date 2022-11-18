@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKPACKAGETOSOTSMHVSOF5 > Package_TO_SOT_SMD : HVSOF5](#fzkpackagetosotsmhvsof5--package_to_sot_smd--hvsof5)
+* [FZKSOTHVSOF5 > Package_TO_SOT_SMD : HVSOF5](#fzksothvsof5--package_to_sot_smd--hvsof5)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKPACKAGETOSOTSMHVSOF5 > Package_TO_SOT_SMD : HVSOF5
+# FZKSOTHVSOF5 > Package_TO_SOT_SMD : HVSOF5
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-HVSOF5
-- Hex ID: FZKPACKAGETOSOTSMHVSOF5
+- Hex ID: FZKSOTHVSOF5
 - Name: Package_TO_SOT_SMD : HVSOF5
 - Description: Package_TO_SOT_SMD : HVSOF5
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-HVSOF5](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-HVSOF5)
-- Short Link: [http://oom.lt/FZKPACKAGETOSOTSMHVSOF5](http://oom.lt/FZKPACKAGETOSOTSMHVSOF5)
+- Short Link: [http://oom.lt/FZKSOTHVSOF5](http://oom.lt/FZKSOTHVSOF5)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Package_TO_SOT_SMD|
 |OOMP Index|oompIndex|HVSOF5|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-HVSOF5|
-|Hex ID (short code)|hexID|FZKPACKAGETOSOTSMHVSOF5|
+|Hex ID (short code)|hexID|FZKSOTHVSOF5|
 |name|name|Package_TO_SOT_SMD : HVSOF5|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'HVSOF5'</td><td> 'description'</td></tr><tr><td> 'HVSOF5</td><td> http</td></tr><tr><td>//rohmfs.rohm.com/en/techdata_basic/ic/package/hvsof5_1-e.pdf</td><td> http</td></tr><tr><td>//rohmfs.rohm.com/en/products/databook/datasheet/ic/sensor/hall/bu52001gul-e.pdf'</td><td> 'tags'</td></tr><tr><td> 'HVSOF5'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_TO_SOT_SMD.3dshapes/HVSOF5.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

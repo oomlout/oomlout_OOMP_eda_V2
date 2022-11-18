@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKBSWITCHSMSWDPDTCKJS2211JCQN > Button_Switch_SMD : SW_DPDT_CK_JS202011JCQN](#fzkbswitchsmswdpdtckjs2211jcqn--button_switch_smd--sw_dpdt_ck_js202011jcqn)
+* [FZKBSWDPDTCKJS2211JCQN > Button_Switch_SMD : SW_DPDT_CK_JS202011JCQN](#fzkbswdpdtckjs2211jcqn--button_switch_smd--sw_dpdt_ck_js202011jcqn)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKBSWITCHSMSWDPDTCKJS2211JCQN > Button_Switch_SMD : SW_DPDT_CK_JS202011JCQN
+# FZKBSWDPDTCKJS2211JCQN > Button_Switch_SMD : SW_DPDT_CK_JS202011JCQN
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-SW_DPDT_CK_JS202011JCQN
-- Hex ID: FZKBSWITCHSMSWDPDTCKJS2211JCQN
+- Hex ID: FZKBSWDPDTCKJS2211JCQN
 - Name: Button_Switch_SMD : SW_DPDT_CK_JS202011JCQN
 - Description: Button_Switch_SMD : SW_DPDT_CK_JS202011JCQN
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-SW_DPDT_CK_JS202011JCQN](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-SW_DPDT_CK_JS202011JCQN)
-- Short Link: [http://oom.lt/FZKBSWITCHSMSWDPDTCKJS2211JCQN](http://oom.lt/FZKBSWITCHSMSWDPDTCKJS2211JCQN)
+- Short Link: [http://oom.lt/FZKBSWDPDTCKJS2211JCQN](http://oom.lt/FZKBSWDPDTCKJS2211JCQN)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Button_Switch_SMD|
 |OOMP Index|oompIndex|SW_DPDT_CK_JS202011JCQN|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-SW_DPDT_CK_JS202011JCQN|
-|Hex ID (short code)|hexID|FZKBSWITCHSMSWDPDTCKJS2211JCQN|
+|Hex ID (short code)|hexID|FZKBSWDPDTCKJS2211JCQN|
 |name|name|Button_Switch_SMD : SW_DPDT_CK_JS202011JCQN|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'SW_DPDT_CK_JS202011JCQN'</td><td> 'description'</td></tr><tr><td> 'Sub-miniature slide switch</td><td> vertical</td><td> SMT J bend https</td></tr><tr><td>//dznh3ojzb2azq.cloudfront.net/products/Slide/JS/documents/datasheet.pdf'</td><td> 'tags'</td></tr><tr><td> 'switch DPDT SMT'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Button_Switch_SMD.3dshapes/SW_DPDT_CK_JS202011JCQN.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

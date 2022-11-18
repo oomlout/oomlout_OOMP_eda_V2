@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKINDUCTORSMLWUERTHHCM75 > Inductor_SMD : L_Wuerth_HCM-7050](#fzkinductorsmlwuerthhcm75--inductor_smd--l_wuerth_hcm-7050)
+* [FZKINLWUERTHHCM75 > Inductor_SMD : L_Wuerth_HCM-7050](#fzkinlwuerthhcm75--inductor_smd--l_wuerth_hcm-7050)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKINDUCTORSMLWUERTHHCM75 > Inductor_SMD : L_Wuerth_HCM-7050
+# FZKINLWUERTHHCM75 > Inductor_SMD : L_Wuerth_HCM-7050
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Wuerth_HCM-7050
-- Hex ID: FZKINDUCTORSMLWUERTHHCM75
+- Hex ID: FZKINLWUERTHHCM75
 - Name: Inductor_SMD : L_Wuerth_HCM-7050
 - Description: Inductor_SMD : L_Wuerth_HCM-7050
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Wuerth_HCM-7050](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Wuerth_HCM-7050)
-- Short Link: [http://oom.lt/FZKINDUCTORSMLWUERTHHCM75](http://oom.lt/FZKINDUCTORSMLWUERTHHCM75)
+- Short Link: [http://oom.lt/FZKINLWUERTHHCM75](http://oom.lt/FZKINLWUERTHHCM75)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Inductor_SMD|
 |OOMP Index|oompIndex|L_Wuerth_HCM-7050|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Wuerth_HCM-7050|
-|Hex ID (short code)|hexID|FZKINDUCTORSMLWUERTHHCM75|
+|Hex ID (short code)|hexID|FZKINLWUERTHHCM75|
 |name|name|Inductor_SMD : L_Wuerth_HCM-7050|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'L_Wuerth_HCM-7050'</td><td> 'description'</td></tr><tr><td> 'Inductor</td><td> Wuerth Elektronik</td><td> Wuerth_HCM-7050</td><td> 7.2mmx7.0mm'</td><td> 'tags'</td></tr><tr><td> 'inductor Wuerth hcm smd'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Inductor_SMD.3dshapes/L_Wuerth_HCM-7050.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

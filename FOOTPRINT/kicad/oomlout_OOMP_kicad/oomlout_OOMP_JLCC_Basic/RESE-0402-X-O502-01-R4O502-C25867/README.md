@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICRESE42XO521R4O52C25867 > oomlout_OOMP_JLCC_Basic : RESE-0402-X-O502-01-R4O502-C25867](#fzkicadoomloutoompkicadoomloutoompjlccbasicrese42xo521r4o52c25867--oomlout_oomp_jlcc_basic--rese-0402-x-o502-01-r4o502-c25867)
+* [FZOOMPKJLCRESE42XO521R4O52C25867 > oomlout_OOMP_JLCC_Basic : RESE-0402-X-O502-01-R4O502-C25867](#fzoompkjlcrese42xo521r4o52c25867--oomlout_oomp_jlcc_basic--rese-0402-x-o502-01-r4o502-c25867)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICRESE42XO521R4O52C25867 > oomlout_OOMP_JLCC_Basic : RESE-0402-X-O502-01-R4O502-C25867
+# FZOOMPKJLCRESE42XO521R4O52C25867 > oomlout_OOMP_JLCC_Basic : RESE-0402-X-O502-01-R4O502-C25867
 
 - ID: FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-RESE-0402-X-O502-01-R4O502-C25867
-- Hex ID: FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICRESE42XO521R4O52C25867
+- Hex ID: FZOOMPKJLCRESE42XO521R4O52C25867
 - Name: oomlout_OOMP_JLCC_Basic : RESE-0402-X-O502-01-R4O502-C25867
 - Description: oomlout_OOMP_JLCC_Basic : RESE-0402-X-O502-01-R4O502-C25867
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-RESE-0402-X-O502-01-R4O502-C25867](http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-RESE-0402-X-O502-01-R4O502-C25867)
-- Short Link: [http://oom.lt/FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICRESE42XO521R4O52C25867](http://oom.lt/FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICRESE42XO521R4O52C25867)
+- Short Link: [http://oom.lt/FZOOMPKJLCRESE42XO521R4O52C25867](http://oom.lt/FZOOMPKJLCRESE42XO521R4O52C25867)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|oomlout_OOMP_JLCC_Basic|
 |OOMP Index|oompIndex|RESE-0402-X-O502-01-R4O502-C25867|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-RESE-0402-X-O502-01-R4O502-C25867|
-|Hex ID (short code)|hexID|FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICRESE42XO521R4O52C25867|
+|Hex ID (short code)|hexID|FZOOMPKJLCRESE42XO521R4O52C25867|
 |name|name|oomlout_OOMP_JLCC_Basic : RESE-0402-X-O502-01-R4O502-C25867|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'RESE-0402-X-O502-01-R4O502-C25867'</td><td> 'description'</td></tr><tr><td> 'hexID</td></tr><tr><td> R4O502;PARTL C-JLCC;C25867;MANUF C-XXXX;0402WGF1501TCE; Resistor SMD 0402 (1005 Metric)</td><td> square (rectangular) end terminal</td><td> IPC_7351 nominal</td><td> (Body size source</td></tr><tr><td> IPC-SM-782 page 72</td><td> https</td></tr><tr><td>//www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)</td><td> generated with kicad-footprint-generator'</td><td> 'tags'</td></tr><tr><td> 'resistor'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Resistor_SMD.3dshapes/R_0402_1005Metric.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||

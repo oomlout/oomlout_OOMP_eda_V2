@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKBSWITCHSMSWSPSTB3SL12P > Button_Switch_SMD : SW_SPST_B3SL-1002P](#fzkbswitchsmswspstb3sl12p--button_switch_smd--sw_spst_b3sl-1002p)
+* [FZKBSWSPSTB3SL12P > Button_Switch_SMD : SW_SPST_B3SL-1002P](#fzkbswspstb3sl12p--button_switch_smd--sw_spst_b3sl-1002p)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKBSWITCHSMSWSPSTB3SL12P > Button_Switch_SMD : SW_SPST_B3SL-1002P
+# FZKBSWSPSTB3SL12P > Button_Switch_SMD : SW_SPST_B3SL-1002P
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-SW_SPST_B3SL-1002P
-- Hex ID: FZKBSWITCHSMSWSPSTB3SL12P
+- Hex ID: FZKBSWSPSTB3SL12P
 - Name: Button_Switch_SMD : SW_SPST_B3SL-1002P
 - Description: Button_Switch_SMD : SW_SPST_B3SL-1002P
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-SW_SPST_B3SL-1002P](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-SW_SPST_B3SL-1002P)
-- Short Link: [http://oom.lt/FZKBSWITCHSMSWSPSTB3SL12P](http://oom.lt/FZKBSWITCHSMSWSPSTB3SL12P)
+- Short Link: [http://oom.lt/FZKBSWSPSTB3SL12P](http://oom.lt/FZKBSWSPSTB3SL12P)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Button_Switch_SMD|
 |OOMP Index|oompIndex|SW_SPST_B3SL-1002P|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-SW_SPST_B3SL-1002P|
-|Hex ID (short code)|hexID|FZKBSWITCHSMSWSPSTB3SL12P|
+|Hex ID (short code)|hexID|FZKBSWSPSTB3SL12P|
 |name|name|Button_Switch_SMD : SW_SPST_B3SL-1002P|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'SW_SPST_B3SL-1002P'</td><td> 'description'</td></tr><tr><td> 'Middle Stroke Tactile Switch</td><td> B3SL'</td><td> 'tags'</td></tr><tr><td> 'Middle Stroke Tactile Switch'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Button_Switch_SMD.3dshapes/SW_SPST_B3SL-1002P.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

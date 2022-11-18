@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [SZKREGULATORSWITCHINGNCP17P65 > Regulator_Switching : NCP1070P065](#szkregulatorswitchingncp17p65--regulator_switching--ncp1070p065)
+* [SZKREGULATORSWINGNCP17P65 > Regulator_Switching : NCP1070P065](#szkregulatorswingncp17p65--regulator_switching--ncp1070p065)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# SZKREGULATORSWITCHINGNCP17P65 > Regulator_Switching : NCP1070P065
+# SZKREGULATORSWINGNCP17P65 > Regulator_Switching : NCP1070P065
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-NCP1070P065
-- Hex ID: SZKREGULATORSWITCHINGNCP17P65
+- Hex ID: SZKREGULATORSWINGNCP17P65
 - Name: Regulator_Switching : NCP1070P065
 - Description: Regulator_Switching : NCP1070P065
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-NCP1070P065](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-NCP1070P065)
-- Short Link: [http://oom.lt/SZKREGULATORSWITCHINGNCP17P65](http://oom.lt/SZKREGULATORSWITCHINGNCP17P65)
+- Short Link: [http://oom.lt/SZKREGULATORSWINGNCP17P65](http://oom.lt/SZKREGULATORSWINGNCP17P65)
 
 ## Images
   
@@ -36,7 +36,7 @@ Contents
 |OOMP Description|oompDesc|Regulator_Switching|
 |OOMP Index|oompIndex|NCP1070P065|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-NCP1070P065|
-|Hex ID (short code)|hexID|SZKREGULATORSWITCHINGNCP17P65|
+|Hex ID (short code)|hexID|SZKREGULATORSWINGNCP17P65|
 |name|name|Regulator_Switching : NCP1070P065|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'NCP1070P065'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DIP</td></tr><tr><td>DIP-8-N7_W7.62mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.onsemi.com/pub/Collateral/NCP1070-D.PDF'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'SMPS Converter'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'High-Voltage Switcher for Low Power Offline SMPS</td><td> 700V Vds</td><td> 14W/7.75W</td><td> 230V/85-265V</td><td> 65kHz</td><td> 22Ohm Rds(on)</td><td> 250mA Ipk</td><td> DIP-7'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP*N7*W7.62mm*'</td></tr></table>]|
 ||||

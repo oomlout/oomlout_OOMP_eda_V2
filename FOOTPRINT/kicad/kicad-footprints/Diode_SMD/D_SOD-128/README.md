@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKDIODESMDSOD128 > Diode_SMD : D_SOD-128](#fzkdiodesmdsod128--diode_smd--d_sod-128)
+* [FZKDDSOD128 > Diode_SMD : D_SOD-128](#fzkddsod128--diode_smd--d_sod-128)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKDIODESMDSOD128 > Diode_SMD : D_SOD-128
+# FZKDDSOD128 > Diode_SMD : D_SOD-128
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_SOD-128
-- Hex ID: FZKDIODESMDSOD128
+- Hex ID: FZKDDSOD128
 - Name: Diode_SMD : D_SOD-128
 - Description: Diode_SMD : D_SOD-128
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_SOD-128](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_SOD-128)
-- Short Link: [http://oom.lt/FZKDIODESMDSOD128](http://oom.lt/FZKDIODESMDSOD128)
+- Short Link: [http://oom.lt/FZKDDSOD128](http://oom.lt/FZKDDSOD128)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Diode_SMD|
 |OOMP Index|oompIndex|D_SOD-128|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_SOD-128|
-|Hex ID (short code)|hexID|FZKDIODESMDSOD128|
+|Hex ID (short code)|hexID|FZKDDSOD128|
 |name|name|Diode_SMD : D_SOD-128|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'D_SOD-128'</td><td> 'description'</td></tr><tr><td> 'D_SOD-128 (CFP5 SlimSMAW)</td><td> https</td></tr><tr><td>//assets.nexperia.com/documents/outline-drawing/SOD128.pdf'</td><td> 'tags'</td></tr><tr><td> 'D_SOD-128'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Diode_SMD.3dshapes/D_SOD-128.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

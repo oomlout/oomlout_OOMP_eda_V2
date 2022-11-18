@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKSOTTO2475HORIZONTALTABDOWN > Package_TO_SOT_THT : TO-247-5_Horizontal_TabDown](#fzksotto2475horizontaltabdown--package_to_sot_tht--to-247-5_horizontal_tabdown)
+* [FZKSOTTO2475HTABDOWN > Package_TO_SOT_THT : TO-247-5_Horizontal_TabDown](#fzksotto2475htabdown--package_to_sot_tht--to-247-5_horizontal_tabdown)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKSOTTO2475HORIZONTALTABDOWN > Package_TO_SOT_THT : TO-247-5_Horizontal_TabDown
+# FZKSOTTO2475HTABDOWN > Package_TO_SOT_THT : TO-247-5_Horizontal_TabDown
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-TO-247-5_Horizontal_TabDown
-- Hex ID: FZKSOTTO2475HORIZONTALTABDOWN
+- Hex ID: FZKSOTTO2475HTABDOWN
 - Name: Package_TO_SOT_THT : TO-247-5_Horizontal_TabDown
 - Description: Package_TO_SOT_THT : TO-247-5_Horizontal_TabDown
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-TO-247-5_Horizontal_TabDown](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-TO-247-5_Horizontal_TabDown)
-- Short Link: [http://oom.lt/FZKSOTTO2475HORIZONTALTABDOWN](http://oom.lt/FZKSOTTO2475HORIZONTALTABDOWN)
+- Short Link: [http://oom.lt/FZKSOTTO2475HTABDOWN](http://oom.lt/FZKSOTTO2475HTABDOWN)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Package_TO_SOT_THT|
 |OOMP Index|oompIndex|TO-247-5_Horizontal_TabDown|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-TO-247-5_Horizontal_TabDown|
-|Hex ID (short code)|hexID|FZKSOTTO2475HORIZONTALTABDOWN|
+|Hex ID (short code)|hexID|FZKSOTTO2475HTABDOWN|
 |name|name|Package_TO_SOT_THT : TO-247-5_Horizontal_TabDown|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'TO-247-5_Horizontal_TabDown'</td><td> 'description'</td></tr><tr><td> 'TO-247-5</td><td> Horizontal</td><td> RM 2.54mm</td><td> see http</td></tr><tr><td>//ww1.microchip.com/downloads/en/DeviceDoc/20005685A.pdf'</td><td> 'tags'</td></tr><tr><td> 'TO-247-5 Horizontal RM 2.54mm'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_TO_SOT_THT.3dshapes/TO-247-5_Horizontal_TabDown.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'np_thru_hole'</td><td> 'shape'</td></tr><tr><td> 'oval'</td></tr></table></td></tr></table>|
 ||||

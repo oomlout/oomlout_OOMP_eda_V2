@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [SZKREGULATORSWITCHINGTPS542D > Regulator_Switching : TPS5420D](#szkregulatorswitchingtps542d--regulator_switching--tps5420d)
+* [SZKREGULATORSWINGTPS542D > Regulator_Switching : TPS5420D](#szkregulatorswingtps542d--regulator_switching--tps5420d)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# SZKREGULATORSWITCHINGTPS542D > Regulator_Switching : TPS5420D
+# SZKREGULATORSWINGTPS542D > Regulator_Switching : TPS5420D
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS5420D
-- Hex ID: SZKREGULATORSWITCHINGTPS542D
+- Hex ID: SZKREGULATORSWINGTPS542D
 - Name: Regulator_Switching : TPS5420D
 - Description: Regulator_Switching : TPS5420D
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS5420D](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS5420D)
-- Short Link: [http://oom.lt/SZKREGULATORSWITCHINGTPS542D](http://oom.lt/SZKREGULATORSWITCHINGTPS542D)
+- Short Link: [http://oom.lt/SZKREGULATORSWINGTPS542D](http://oom.lt/SZKREGULATORSWINGTPS542D)
 
 ## Images
   
@@ -36,7 +36,7 @@ Contents
 |OOMP Description|oompDesc|Regulator_Switching|
 |OOMP Index|oompIndex|TPS5420D|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS5420D|
-|Hex ID (short code)|hexID|SZKREGULATORSWITCHINGTPS542D|
+|Hex ID (short code)|hexID|SZKREGULATORSWINGTPS542D|
 |name|name|Regulator_Switching : TPS5420D|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'TPS5420D'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>SOIC-8_3.9x4.9mm_P1.27mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/tps5420.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'switching buck converter step-down'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Adjustable Output</td><td> 2A Step-Down Converter</td><td> 5.5V-36V Input</td><td> 500kHz Switching Frequency'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOIC*3.9x4.9mm*P1.27mm*'</td></tr></table>]|
 ||||

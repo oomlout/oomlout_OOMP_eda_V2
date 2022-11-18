@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKRESISTORSMR18124532METRIC > Resistor_SMD : R_1812_4532Metric](#fzkresistorsmr18124532metric--resistor_smd--r_1812_4532metric)
+* [FZKRR18124532VA > Resistor_SMD : R_1812_4532Metric](#fzkrr18124532va--resistor_smd--r_1812_4532metric)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKRESISTORSMR18124532METRIC > Resistor_SMD : R_1812_4532Metric
+# FZKRR18124532VA > Resistor_SMD : R_1812_4532Metric
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_1812_4532Metric
-- Hex ID: FZKRESISTORSMR18124532METRIC
+- Hex ID: FZKRR18124532VA
 - Name: Resistor_SMD : R_1812_4532Metric
 - Description: Resistor_SMD : R_1812_4532Metric
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_1812_4532Metric](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_1812_4532Metric)
-- Short Link: [http://oom.lt/FZKRESISTORSMR18124532METRIC](http://oom.lt/FZKRESISTORSMR18124532METRIC)
+- Short Link: [http://oom.lt/FZKRR18124532VA](http://oom.lt/FZKRR18124532VA)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Resistor_SMD|
 |OOMP Index|oompIndex|R_1812_4532Metric|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_1812_4532Metric|
-|Hex ID (short code)|hexID|FZKRESISTORSMR18124532METRIC|
+|Hex ID (short code)|hexID|FZKRR18124532VA|
 |name|name|Resistor_SMD : R_1812_4532Metric|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'R_1812_4532Metric'</td><td> 'description'</td></tr><tr><td> 'Resistor SMD 1812 (4532 Metric)</td><td> square (rectangular) end terminal</td><td> IPC_7351 nominal</td><td> (Body size source</td></tr><tr><td> https</td></tr><tr><td>//www.nikhef.nl/pub/departments/mt/projects/detectorR_D/dtddice/ERJ2G.pdf)</td><td> generated with kicad-footprint-generator'</td><td> 'tags'</td></tr><tr><td> 'resistor'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Resistor_SMD.3dshapes/R_1812_4532Metric.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||

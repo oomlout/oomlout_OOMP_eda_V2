@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [SZKREGULATORSWITCHINGTMR12411SM > Regulator_Switching : TMR_1-2411SM](#szkregulatorswitchingtmr12411sm--regulator_switching--tmr_1-2411sm)
+* [SZKREGULATORSWINGTMR12411SM > Regulator_Switching : TMR_1-2411SM](#szkregulatorswingtmr12411sm--regulator_switching--tmr_1-2411sm)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# SZKREGULATORSWITCHINGTMR12411SM > Regulator_Switching : TMR_1-2411SM
+# SZKREGULATORSWINGTMR12411SM > Regulator_Switching : TMR_1-2411SM
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-TMR_1-2411SM
-- Hex ID: SZKREGULATORSWITCHINGTMR12411SM
+- Hex ID: SZKREGULATORSWINGTMR12411SM
 - Name: Regulator_Switching : TMR_1-2411SM
 - Description: Regulator_Switching : TMR_1-2411SM
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TMR_1-2411SM](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TMR_1-2411SM)
-- Short Link: [http://oom.lt/SZKREGULATORSWITCHINGTMR12411SM](http://oom.lt/SZKREGULATORSWITCHINGTMR12411SM)
+- Short Link: [http://oom.lt/SZKREGULATORSWINGTMR12411SM](http://oom.lt/SZKREGULATORSWINGTMR12411SM)
 
 ## Images
   
@@ -36,7 +36,7 @@ Contents
 |OOMP Description|oompDesc|Regulator_Switching|
 |OOMP Index|oompIndex|TMR_1-2411SM|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-TMR_1-2411SM|
-|Hex ID (short code)|hexID|SZKREGULATORSWITCHINGTMR12411SM|
+|Hex ID (short code)|hexID|SZKREGULATORSWINGTMR12411SM|
 |name|name|Regulator_Switching : TMR_1-2411SM|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'TMR_1-0511SM'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'TMR_1-2411SM'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Converter_DCDC</td></tr><tr><td>Converter_DCDC_TRACO_TMR-1SM_SMD'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//assets.tracopower.com/TMR1SM/documents/tmr1sm-datasheet.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Murata isolated isolation dc-dc converter transformer'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '200mA Regulated 1W DC/DC converter with 1.5kV isolation</td><td> 18V-36V input</td><td> 5V fixed Output Voltage</td><td> SMD'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Converter*DCDC*TRACO*TMR?1SM*'</td></tr></table>]|
 ||||

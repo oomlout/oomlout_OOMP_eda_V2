@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSL2SMGULLWING44X385 > digikey-footprints : LED_2-SMD_Gull_Wing_4.4x3.85mm](#fzkicaddigikeykicadlibrarydigikeyfootprintsl2smgullwing44x385--digikey-footprints--led_2-smd_gull_wing_44x385mm)
+* [FZDIGIDIGIKEYFOOTPRINTSL2SMGULLWING44X385 > digikey-footprints : LED_2-SMD_Gull_Wing_4.4x3.85mm](#fzdigidigikeyfootprintsl2smgullwing44x385--digikey-footprints--led_2-smd_gull_wing_44x385mm)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSL2SMGULLWING44X385 > digikey-footprints : LED_2-SMD_Gull_Wing_4.4x3.85mm
+# FZDIGIDIGIKEYFOOTPRINTSL2SMGULLWING44X385 > digikey-footprints : LED_2-SMD_Gull_Wing_4.4x3.85mm
 
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-LED_2-SMD_Gull_Wing_4.4x3.85mm
-- Hex ID: FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSL2SMGULLWING44X385
+- Hex ID: FZDIGIDIGIKEYFOOTPRINTSL2SMGULLWING44X385
 - Name: digikey-footprints : LED_2-SMD_Gull_Wing_4.4x3.85mm
 - Description: digikey-footprints : LED_2-SMD_Gull_Wing_4.4x3.85mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-LED_2-SMD_Gull_Wing_4.4x3.85mm](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-LED_2-SMD_Gull_Wing_4.4x3.85mm)
-- Short Link: [http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSL2SMGULLWING44X385](http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSL2SMGULLWING44X385)
+- Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSL2SMGULLWING44X385](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSL2SMGULLWING44X385)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|digikey-footprints|
 |OOMP Index|oompIndex|LED_2-SMD_Gull_Wing_4.4x3.85mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-LED_2-SMD_Gull_Wing_4.4x3.85mm|
-|Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSL2SMGULLWING44X385|
+|Hex ID (short code)|hexID|FZDIGIDIGIKEYFOOTPRINTSL2SMGULLWING44X385|
 |name|name|digikey-footprints : LED_2-SMD_Gull_Wing_4.4x3.85mm|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'LED_2-SMD_Gull_Wing_4.4x3.85mm'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

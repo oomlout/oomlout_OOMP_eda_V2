@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSTFLGA163X3 > digikey-footprints : TFLGA-16_3x3mm](#fzkicaddigikeykicadlibrarydigikeyfootprintstflga163x3--digikey-footprints--tflga-16_3x3mm)
+* [FZDIGIDIGIKEYFOOTPRINTSTFLGA163X3 > digikey-footprints : TFLGA-16_3x3mm](#fzdigidigikeyfootprintstflga163x3--digikey-footprints--tflga-16_3x3mm)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSTFLGA163X3 > digikey-footprints : TFLGA-16_3x3mm
+# FZDIGIDIGIKEYFOOTPRINTSTFLGA163X3 > digikey-footprints : TFLGA-16_3x3mm
 
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-TFLGA-16_3x3mm
-- Hex ID: FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSTFLGA163X3
+- Hex ID: FZDIGIDIGIKEYFOOTPRINTSTFLGA163X3
 - Name: digikey-footprints : TFLGA-16_3x3mm
 - Description: digikey-footprints : TFLGA-16_3x3mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-TFLGA-16_3x3mm](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-TFLGA-16_3x3mm)
-- Short Link: [http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSTFLGA163X3](http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSTFLGA163X3)
+- Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSTFLGA163X3](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSTFLGA163X3)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|digikey-footprints|
 |OOMP Index|oompIndex|TFLGA-16_3x3mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-TFLGA-16_3x3mm|
-|Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSTFLGA163X3|
+|Hex ID (short code)|hexID|FZDIGIDIGIKEYFOOTPRINTSTFLGA163X3|
 |name|name|digikey-footprints : TFLGA-16_3x3mm|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'TFLGA-16_3x3mm'</td><td> 'description'</td></tr><tr><td> 'http</td></tr><tr><td>//www.st.com/content/ccc/resource/technical/document/datasheet/3e/48/02/c7/a4/e6/41/bb/DM00053090.pdf/files/DM00053090.pdf/jcr</td></tr><tr><td>content/translations/en.DM00053090.pdf'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

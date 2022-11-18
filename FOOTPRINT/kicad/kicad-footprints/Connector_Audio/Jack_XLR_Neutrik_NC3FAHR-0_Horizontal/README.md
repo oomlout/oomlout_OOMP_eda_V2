@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKCNAUDIOJXLRNEUTRIKNC3FAHRHORIZONTAL > Connector_Audio : Jack_XLR_Neutrik_NC3FAHR-0_Horizontal](#fzkcnaudiojxlrneutriknc3fahrhorizontal--connector_audio--jack_xlr_neutrik_nc3fahr-0_horizontal)
+* [FZKCNAUDIOJXLRNEUTRIKNC3FAHRH > Connector_Audio : Jack_XLR_Neutrik_NC3FAHR-0_Horizontal](#fzkcnaudiojxlrneutriknc3fahrh--connector_audio--jack_xlr_neutrik_nc3fahr-0_horizontal)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKCNAUDIOJXLRNEUTRIKNC3FAHRHORIZONTAL > Connector_Audio : Jack_XLR_Neutrik_NC3FAHR-0_Horizontal
+# FZKCNAUDIOJXLRNEUTRIKNC3FAHRH > Connector_Audio : Jack_XLR_Neutrik_NC3FAHR-0_Horizontal
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_Audio-Jack_XLR_Neutrik_NC3FAHR-0_Horizontal
-- Hex ID: FZKCNAUDIOJXLRNEUTRIKNC3FAHRHORIZONTAL
+- Hex ID: FZKCNAUDIOJXLRNEUTRIKNC3FAHRH
 - Name: Connector_Audio : Jack_XLR_Neutrik_NC3FAHR-0_Horizontal
 - Description: Connector_Audio : Jack_XLR_Neutrik_NC3FAHR-0_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Audio-Jack_XLR_Neutrik_NC3FAHR-0_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Audio-Jack_XLR_Neutrik_NC3FAHR-0_Horizontal)
-- Short Link: [http://oom.lt/FZKCNAUDIOJXLRNEUTRIKNC3FAHRHORIZONTAL](http://oom.lt/FZKCNAUDIOJXLRNEUTRIKNC3FAHRHORIZONTAL)
+- Short Link: [http://oom.lt/FZKCNAUDIOJXLRNEUTRIKNC3FAHRH](http://oom.lt/FZKCNAUDIOJXLRNEUTRIKNC3FAHRH)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Connector_Audio|
 |OOMP Index|oompIndex|Jack_XLR_Neutrik_NC3FAHR-0_Horizontal|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Audio-Jack_XLR_Neutrik_NC3FAHR-0_Horizontal|
-|Hex ID (short code)|hexID|FZKCNAUDIOJXLRNEUTRIKNC3FAHRHORIZONTAL|
+|Hex ID (short code)|hexID|FZKCNAUDIOJXLRNEUTRIKNC3FAHRH|
 |name|name|Connector_Audio : Jack_XLR_Neutrik_NC3FAHR-0_Horizontal|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Jack_XLR_Neutrik_NC3FAHR-0_Horizontal'</td><td> 'description'</td></tr><tr><td> 'A Series</td><td> 3 pole female XLR receptacle</td><td> grounding</td></tr><tr><td> without ground / shell contact</td><td> lateral right PCB mount</td><td> retention spring instead of latch</td><td> https</td></tr><tr><td>//www.neutrik.com/en/product/nc3fahr-0'</td><td> 'tags'</td></tr><tr><td> 'neutrik xlr a'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_Audio.3dshapes/Jack_XLR_Neutrik_NC3FAHR-0_Horizontal.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'np_thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||

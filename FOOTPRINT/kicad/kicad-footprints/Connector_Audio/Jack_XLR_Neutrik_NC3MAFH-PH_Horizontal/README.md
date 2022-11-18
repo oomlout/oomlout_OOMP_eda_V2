@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKCNAUDIOJXLRNEUTRIKNC3MAFHPHHORIZONTAL > Connector_Audio : Jack_XLR_Neutrik_NC3MAFH-PH_Horizontal](#fzkcnaudiojxlrneutriknc3mafhphhorizontal--connector_audio--jack_xlr_neutrik_nc3mafh-ph_horizontal)
+* [FZKCNAUDIOJXLRNEUTRIKNC3MAFHPHH > Connector_Audio : Jack_XLR_Neutrik_NC3MAFH-PH_Horizontal](#fzkcnaudiojxlrneutriknc3mafhphh--connector_audio--jack_xlr_neutrik_nc3mafh-ph_horizontal)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKCNAUDIOJXLRNEUTRIKNC3MAFHPHHORIZONTAL > Connector_Audio : Jack_XLR_Neutrik_NC3MAFH-PH_Horizontal
+# FZKCNAUDIOJXLRNEUTRIKNC3MAFHPHH > Connector_Audio : Jack_XLR_Neutrik_NC3MAFH-PH_Horizontal
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_Audio-Jack_XLR_Neutrik_NC3MAFH-PH_Horizontal
-- Hex ID: FZKCNAUDIOJXLRNEUTRIKNC3MAFHPHHORIZONTAL
+- Hex ID: FZKCNAUDIOJXLRNEUTRIKNC3MAFHPHH
 - Name: Connector_Audio : Jack_XLR_Neutrik_NC3MAFH-PH_Horizontal
 - Description: Connector_Audio : Jack_XLR_Neutrik_NC3MAFH-PH_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Audio-Jack_XLR_Neutrik_NC3MAFH-PH_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Audio-Jack_XLR_Neutrik_NC3MAFH-PH_Horizontal)
-- Short Link: [http://oom.lt/FZKCNAUDIOJXLRNEUTRIKNC3MAFHPHHORIZONTAL](http://oom.lt/FZKCNAUDIOJXLRNEUTRIKNC3MAFHPHHORIZONTAL)
+- Short Link: [http://oom.lt/FZKCNAUDIOJXLRNEUTRIKNC3MAFHPHH](http://oom.lt/FZKCNAUDIOJXLRNEUTRIKNC3MAFHPHH)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Connector_Audio|
 |OOMP Index|oompIndex|Jack_XLR_Neutrik_NC3MAFH-PH_Horizontal|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Audio-Jack_XLR_Neutrik_NC3MAFH-PH_Horizontal|
-|Hex ID (short code)|hexID|FZKCNAUDIOJXLRNEUTRIKNC3MAFHPHHORIZONTAL|
+|Hex ID (short code)|hexID|FZKCNAUDIOJXLRNEUTRIKNC3MAFHPHH|
 |name|name|Connector_Audio : Jack_XLR_Neutrik_NC3MAFH-PH_Horizontal|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Jack_XLR_Neutrik_NC3MAFH-PH_Horizontal'</td><td> 'description'</td></tr><tr><td> 'A Series</td><td> Chassis connector H female (A series layout)</td><td> mates with Phoenix MSTB2</td><td>5/3-ST</td><td> horizontal PCB mount</td><td> https</td></tr><tr><td>//www.neutrik.com/en/product/nc3mafh-ph'</td><td> 'tags'</td></tr><tr><td> 'neutrik xlr a'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_Audio.3dshapes/Jack_XLR_Neutrik_NC3MAFH-PH_Horizontal.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'np_thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||

@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKCAPACITORTANTALUMSMCPEIA73433AVXN > Capacitor_Tantalum_SMD : CP_EIA-7343-30_AVX-N](#fzkcapacitortantalumsmcpeia73433avxn--capacitor_tantalum_smd--cp_eia-7343-30_avx-n)
+* [FZKCCPEIA73433AVXN > Capacitor_Tantalum_SMD : CP_EIA-7343-30_AVX-N](#fzkccpeia73433avxn--capacitor_tantalum_smd--cp_eia-7343-30_avx-n)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKCAPACITORTANTALUMSMCPEIA73433AVXN > Capacitor_Tantalum_SMD : CP_EIA-7343-30_AVX-N
+# FZKCCPEIA73433AVXN > Capacitor_Tantalum_SMD : CP_EIA-7343-30_AVX-N
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Capacitor_Tantalum_SMD-CP_EIA-7343-30_AVX-N
-- Hex ID: FZKCAPACITORTANTALUMSMCPEIA73433AVXN
+- Hex ID: FZKCCPEIA73433AVXN
 - Name: Capacitor_Tantalum_SMD : CP_EIA-7343-30_AVX-N
 - Description: Capacitor_Tantalum_SMD : CP_EIA-7343-30_AVX-N
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_Tantalum_SMD-CP_EIA-7343-30_AVX-N](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_Tantalum_SMD-CP_EIA-7343-30_AVX-N)
-- Short Link: [http://oom.lt/FZKCAPACITORTANTALUMSMCPEIA73433AVXN](http://oom.lt/FZKCAPACITORTANTALUMSMCPEIA73433AVXN)
+- Short Link: [http://oom.lt/FZKCCPEIA73433AVXN](http://oom.lt/FZKCCPEIA73433AVXN)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Capacitor_Tantalum_SMD|
 |OOMP Index|oompIndex|CP_EIA-7343-30_AVX-N|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Capacitor_Tantalum_SMD-CP_EIA-7343-30_AVX-N|
-|Hex ID (short code)|hexID|FZKCAPACITORTANTALUMSMCPEIA73433AVXN|
+|Hex ID (short code)|hexID|FZKCCPEIA73433AVXN|
 |name|name|Capacitor_Tantalum_SMD : CP_EIA-7343-30_AVX-N|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'CP_EIA-7343-30_AVX-N'</td><td> 'description'</td></tr><tr><td> 'Tantalum Capacitor SMD AVX-N (7343-30 Metric)</td><td> IPC_7351 nominal</td><td> (Body size from</td></tr><tr><td> http</td></tr><tr><td>//www.kemet.com/Lists/ProductCatalog/Attachments/253/KEM_TC101_STD.pdf)</td><td> generated with kicad-footprint-generator'</td><td> 'tags'</td></tr><tr><td> 'capacitor tantalum'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Capacitor_Tantalum_SMD.3dshapes/CP_EIA-7343-30_AVX-N.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||

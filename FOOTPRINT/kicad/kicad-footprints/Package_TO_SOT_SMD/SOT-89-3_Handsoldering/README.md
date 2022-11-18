@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKPACKAGETOSOTSMSOT893HANDSOLDERING > Package_TO_SOT_SMD : SOT-89-3_Handsoldering](#fzkpackagetosotsmsot893handsoldering--package_to_sot_smd--sot-89-3_handsoldering)
+* [FZKSOTSOT893HANDSOLDERING > Package_TO_SOT_SMD : SOT-89-3_Handsoldering](#fzksotsot893handsoldering--package_to_sot_smd--sot-89-3_handsoldering)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKPACKAGETOSOTSMSOT893HANDSOLDERING > Package_TO_SOT_SMD : SOT-89-3_Handsoldering
+# FZKSOTSOT893HANDSOLDERING > Package_TO_SOT_SMD : SOT-89-3_Handsoldering
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-89-3_Handsoldering
-- Hex ID: FZKPACKAGETOSOTSMSOT893HANDSOLDERING
+- Hex ID: FZKSOTSOT893HANDSOLDERING
 - Name: Package_TO_SOT_SMD : SOT-89-3_Handsoldering
 - Description: Package_TO_SOT_SMD : SOT-89-3_Handsoldering
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-89-3_Handsoldering](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-89-3_Handsoldering)
-- Short Link: [http://oom.lt/FZKPACKAGETOSOTSMSOT893HANDSOLDERING](http://oom.lt/FZKPACKAGETOSOTSMSOT893HANDSOLDERING)
+- Short Link: [http://oom.lt/FZKSOTSOT893HANDSOLDERING](http://oom.lt/FZKSOTSOT893HANDSOLDERING)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Package_TO_SOT_SMD|
 |OOMP Index|oompIndex|SOT-89-3_Handsoldering|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-89-3_Handsoldering|
-|Hex ID (short code)|hexID|FZKPACKAGETOSOTSMSOT893HANDSOLDERING|
+|Hex ID (short code)|hexID|FZKSOTSOT893HANDSOLDERING|
 |name|name|Package_TO_SOT_SMD : SOT-89-3_Handsoldering|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'SOT-89-3_Handsoldering'</td><td> 'description'</td></tr><tr><td> 'SOT-89-3 Handsoldering'</td><td> 'tags'</td></tr><tr><td> 'SOT-89-3 Handsoldering'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_TO_SOT_SMD.3dshapes/SOT-89-3.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKLSMLL1T2LUMS > LED_SMD : LED-L1T2_LUMILEDS](#fzklsmll1t2lums--led_smd--led-l1t2_lumileds)
+* [FZKLLL1T2LUMS > LED_SMD : LED-L1T2_LUMILEDS](#fzklll1t2lums--led_smd--led-l1t2_lumileds)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKLSMLL1T2LUMS > LED_SMD : LED-L1T2_LUMILEDS
+# FZKLLL1T2LUMS > LED_SMD : LED-L1T2_LUMILEDS
 
 - ID: FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED-L1T2_LUMILEDS
-- Hex ID: FZKLSMLL1T2LUMS
+- Hex ID: FZKLLL1T2LUMS
 - Name: LED_SMD : LED-L1T2_LUMILEDS
 - Description: LED_SMD : LED-L1T2_LUMILEDS
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED-L1T2_LUMILEDS](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED-L1T2_LUMILEDS)
-- Short Link: [http://oom.lt/FZKLSMLL1T2LUMS](http://oom.lt/FZKLSMLL1T2LUMS)
+- Short Link: [http://oom.lt/FZKLLL1T2LUMS](http://oom.lt/FZKLLL1T2LUMS)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|LED_SMD|
 |OOMP Index|oompIndex|LED-L1T2_LUMILEDS|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED-L1T2_LUMILEDS|
-|Hex ID (short code)|hexID|FZKLSMLL1T2LUMS|
+|Hex ID (short code)|hexID|FZKLLL1T2LUMS|
 |name|name|LED_SMD : LED-L1T2_LUMILEDS|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'LED-L1T2_LUMILEDS'</td><td> 'description'</td></tr><tr><td> 'http</td></tr><tr><td>//www.lumileds.com/uploads/438/DS133-pdf'</td><td> 'tags'</td></tr><tr><td> 'LUMILEDS LUXEON TX L1T2 LED'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/LED_SMD.3dshapes/LED-L1T2_LUMILEDS.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKLSMLWS2812B22PLCC42X2 > LED_SMD : LED_WS2812B-2020_PLCC4_2.0x2.0mm](#fzklsmlws2812b22plcc42x2--led_smd--led_ws2812b-2020_plcc4_20x20mm)
+* [FZKLLWS2812B22PLCC42X2 > LED_SMD : LED_WS2812B-2020_PLCC4_2.0x2.0mm](#fzkllws2812b22plcc42x2--led_smd--led_ws2812b-2020_plcc4_20x20mm)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKLSMLWS2812B22PLCC42X2 > LED_SMD : LED_WS2812B-2020_PLCC4_2.0x2.0mm
+# FZKLLWS2812B22PLCC42X2 > LED_SMD : LED_WS2812B-2020_PLCC4_2.0x2.0mm
 
 - ID: FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_WS2812B-2020_PLCC4_2.0x2.0mm
-- Hex ID: FZKLSMLWS2812B22PLCC42X2
+- Hex ID: FZKLLWS2812B22PLCC42X2
 - Name: LED_SMD : LED_WS2812B-2020_PLCC4_2.0x2.0mm
 - Description: LED_SMD : LED_WS2812B-2020_PLCC4_2.0x2.0mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_WS2812B-2020_PLCC4_2.0x2.0mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_WS2812B-2020_PLCC4_2.0x2.0mm)
-- Short Link: [http://oom.lt/FZKLSMLWS2812B22PLCC42X2](http://oom.lt/FZKLSMLWS2812B22PLCC42X2)
+- Short Link: [http://oom.lt/FZKLLWS2812B22PLCC42X2](http://oom.lt/FZKLLWS2812B22PLCC42X2)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|LED_SMD|
 |OOMP Index|oompIndex|LED_WS2812B-2020_PLCC4_2.0x2.0mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_WS2812B-2020_PLCC4_2.0x2.0mm|
-|Hex ID (short code)|hexID|FZKLSMLWS2812B22PLCC42X2|
+|Hex ID (short code)|hexID|FZKLLWS2812B22PLCC42X2|
 |name|name|LED_SMD : LED_WS2812B-2020_PLCC4_2.0x2.0mm|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'LED_WS2812B-2020_PLCC4_2.0x2.0mm'</td><td> 'description'</td></tr><tr><td> 'Addressable RGB LED NeoPixel Nano</td><td> 12 mA</td><td> https</td></tr><tr><td>//cdn-shop.adafruit.com/product-files/4684/4684_WS2812B-2020_V1.3_EN.pdf'</td><td> 'tags'</td></tr><tr><td> 'LED RGB NeoPixel Nano 2020'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/LED_SMD.3dshapes/LED_WS2812B-2020_PLCC4_2.0x2.0mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

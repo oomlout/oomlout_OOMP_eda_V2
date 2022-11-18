@@ -5,18 +5,18 @@
 Contents
 ========
 
-* [FZESWITCHTL115J > switch : TL1105J](#fzeswitchtl115j--switch--tl1105j)
+* [FZESWTL115J > switch : TL1105J](#fzeswtl115j--switch--tl1105j)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZESWITCHTL115J > switch : TL1105J
+# FZESWTL115J > switch : TL1105J
 
 - ID: FOOTPRINT-eagle-eagle-default-switch-TL1105J
-- Hex ID: FZESWITCHTL115J
+- Hex ID: FZESWTL115J
 - Name: switch : TL1105J
 - Description: switch : TL1105J
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-TL1105J](http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-TL1105J)
-- Short Link: [http://oom.lt/FZESWITCHTL115J](http://oom.lt/FZESWITCHTL115J)
+- Short Link: [http://oom.lt/FZESWTL115J](http://oom.lt/FZESWTL115J)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +30,6 @@ NO IMAGES
 |OOMP Description|oompDesc|switch|
 |OOMP Index|oompIndex|TL1105J|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-switch-TL1105J|
-|Hex ID (short code)|hexID|FZESWITCHTL115J|
+|Hex ID (short code)|hexID|FZESWTL115J|
 |name|name|switch : TL1105J|
 ||||

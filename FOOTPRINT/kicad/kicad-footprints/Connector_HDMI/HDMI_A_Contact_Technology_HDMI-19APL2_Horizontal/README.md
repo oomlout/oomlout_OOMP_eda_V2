@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKCNHDMIHDMIACONTACTTECHNOLOGYHDMI19APL2HORIZONTAL > Connector_HDMI : HDMI_A_Contact_Technology_HDMI-19APL2_Horizontal](#fzkcnhdmihdmiacontacttechnologyhdmi19apl2horizontal--connector_hdmi--hdmi_a_contact_technology_hdmi-19apl2_horizontal)
+* [FZKCNHDMIHDMIACONTACTTECHNOLOGYHDMI19APL2H > Connector_HDMI : HDMI_A_Contact_Technology_HDMI-19APL2_Horizontal](#fzkcnhdmihdmiacontacttechnologyhdmi19apl2h--connector_hdmi--hdmi_a_contact_technology_hdmi-19apl2_horizontal)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKCNHDMIHDMIACONTACTTECHNOLOGYHDMI19APL2HORIZONTAL > Connector_HDMI : HDMI_A_Contact_Technology_HDMI-19APL2_Horizontal
+# FZKCNHDMIHDMIACONTACTTECHNOLOGYHDMI19APL2H > Connector_HDMI : HDMI_A_Contact_Technology_HDMI-19APL2_Horizontal
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_HDMI-HDMI_A_Contact_Technology_HDMI-19APL2_Horizontal
-- Hex ID: FZKCNHDMIHDMIACONTACTTECHNOLOGYHDMI19APL2HORIZONTAL
+- Hex ID: FZKCNHDMIHDMIACONTACTTECHNOLOGYHDMI19APL2H
 - Name: Connector_HDMI : HDMI_A_Contact_Technology_HDMI-19APL2_Horizontal
 - Description: Connector_HDMI : HDMI_A_Contact_Technology_HDMI-19APL2_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_HDMI-HDMI_A_Contact_Technology_HDMI-19APL2_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_HDMI-HDMI_A_Contact_Technology_HDMI-19APL2_Horizontal)
-- Short Link: [http://oom.lt/FZKCNHDMIHDMIACONTACTTECHNOLOGYHDMI19APL2HORIZONTAL](http://oom.lt/FZKCNHDMIHDMIACONTACTTECHNOLOGYHDMI19APL2HORIZONTAL)
+- Short Link: [http://oom.lt/FZKCNHDMIHDMIACONTACTTECHNOLOGYHDMI19APL2H](http://oom.lt/FZKCNHDMIHDMIACONTACTTECHNOLOGYHDMI19APL2H)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Connector_HDMI|
 |OOMP Index|oompIndex|HDMI_A_Contact_Technology_HDMI-19APL2_Horizontal|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_HDMI-HDMI_A_Contact_Technology_HDMI-19APL2_Horizontal|
-|Hex ID (short code)|hexID|FZKCNHDMIHDMIACONTACTTECHNOLOGYHDMI19APL2HORIZONTAL|
+|Hex ID (short code)|hexID|FZKCNHDMIHDMIACONTACTTECHNOLOGYHDMI19APL2H|
 |name|name|Connector_HDMI : HDMI_A_Contact_Technology_HDMI-19APL2_Horizontal|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'HDMI_A_Contact_Technology_HDMI-19APL2_Horizontal'</td><td> 'description'</td></tr><tr><td> 'HDMI Contact Technology Type A http</td></tr><tr><td>//www.contactswitch.com/en/download.aspx?id=1449'</td><td> 'tags'</td></tr><tr><td> 'HDMI Contact Technology Type A'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_HDMI.3dshapes/HDMI_A_Contact_Technology_HDMI-19APL2_Horizontal.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

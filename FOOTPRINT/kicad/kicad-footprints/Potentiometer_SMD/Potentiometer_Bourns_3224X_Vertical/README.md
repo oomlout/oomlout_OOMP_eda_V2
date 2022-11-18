@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKPOTENTIOMETERSMPOTENTIOMETERBOURNS3224XVERTICAL > Potentiometer_SMD : Potentiometer_Bourns_3224X_Vertical](#fzkpotentiometersmpotentiometerbourns3224xvertical--potentiometer_smd--potentiometer_bourns_3224x_vertical)
+* [FZKPPOTBOURNS3224XF > Potentiometer_SMD : Potentiometer_Bourns_3224X_Vertical](#fzkppotbourns3224xf--potentiometer_smd--potentiometer_bourns_3224x_vertical)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKPOTENTIOMETERSMPOTENTIOMETERBOURNS3224XVERTICAL > Potentiometer_SMD : Potentiometer_Bourns_3224X_Vertical
+# FZKPPOTBOURNS3224XF > Potentiometer_SMD : Potentiometer_Bourns_3224X_Vertical
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Potentiometer_SMD-Potentiometer_Bourns_3224X_Vertical
-- Hex ID: FZKPOTENTIOMETERSMPOTENTIOMETERBOURNS3224XVERTICAL
+- Hex ID: FZKPPOTBOURNS3224XF
 - Name: Potentiometer_SMD : Potentiometer_Bourns_3224X_Vertical
 - Description: Potentiometer_SMD : Potentiometer_Bourns_3224X_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Potentiometer_SMD-Potentiometer_Bourns_3224X_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Potentiometer_SMD-Potentiometer_Bourns_3224X_Vertical)
-- Short Link: [http://oom.lt/FZKPOTENTIOMETERSMPOTENTIOMETERBOURNS3224XVERTICAL](http://oom.lt/FZKPOTENTIOMETERSMPOTENTIOMETERBOURNS3224XVERTICAL)
+- Short Link: [http://oom.lt/FZKPPOTBOURNS3224XF](http://oom.lt/FZKPPOTBOURNS3224XF)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Potentiometer_SMD|
 |OOMP Index|oompIndex|Potentiometer_Bourns_3224X_Vertical|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Potentiometer_SMD-Potentiometer_Bourns_3224X_Vertical|
-|Hex ID (short code)|hexID|FZKPOTENTIOMETERSMPOTENTIOMETERBOURNS3224XVERTICAL|
+|Hex ID (short code)|hexID|FZKPPOTBOURNS3224XF|
 |name|name|Potentiometer_SMD : Potentiometer_Bourns_3224X_Vertical|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Potentiometer_Bourns_3224X_Vertical'</td><td> 'description'</td></tr><tr><td> 'Potentiometer</td><td> vertical</td><td> Bourns 3224X</td><td> https</td></tr><tr><td>//www.bourns.com/docs/Product-Datasheets/3224.pdf'</td><td> 'tags'</td></tr><tr><td> 'Potentiometer vertical Bourns 3224X'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Potentiometer_SMD.3dshapes/Potentiometer_Bourns_3224X_Vertical.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

@@ -5,18 +5,18 @@
 Contents
 ========
 
-* [FZESWITCHDILS2BCD > switch-dil : S20BCD](#fzeswitchdils2bcd--switch-dil--s20bcd)
+* [FZESWDILS2BCD > switch-dil : S20BCD](#fzeswdils2bcd--switch-dil--s20bcd)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZESWITCHDILS2BCD > switch-dil : S20BCD
+# FZESWDILS2BCD > switch-dil : S20BCD
 
 - ID: FOOTPRINT-eagle-eagle-default-switch-dil-S20BCD
-- Hex ID: FZESWITCHDILS2BCD
+- Hex ID: FZESWDILS2BCD
 - Name: switch-dil : S20BCD
 - Description: switch-dil : S20BCD
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-dil-S20BCD](http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-dil-S20BCD)
-- Short Link: [http://oom.lt/FZESWITCHDILS2BCD](http://oom.lt/FZESWITCHDILS2BCD)
+- Short Link: [http://oom.lt/FZESWDILS2BCD](http://oom.lt/FZESWDILS2BCD)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +30,6 @@ NO IMAGES
 |OOMP Description|oompDesc|switch-dil|
 |OOMP Index|oompIndex|S20BCD|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-switch-dil-S20BCD|
-|Hex ID (short code)|hexID|FZESWITCHDILS2BCD|
+|Hex ID (short code)|hexID|FZESWDILS2BCD|
 |name|name|switch-dil : S20BCD|
 ||||

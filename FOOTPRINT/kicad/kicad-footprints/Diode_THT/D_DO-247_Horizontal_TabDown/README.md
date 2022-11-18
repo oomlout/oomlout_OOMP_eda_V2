@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKDDDO247HORIZONTALTABDOWN > Diode_THT : D_DO-247_Horizontal_TabDown](#fzkdddo247horizontaltabdown--diode_tht--d_do-247_horizontal_tabdown)
+* [FZKDDDO247HTABDOWN > Diode_THT : D_DO-247_Horizontal_TabDown](#fzkdddo247htabdown--diode_tht--d_do-247_horizontal_tabdown)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKDDDO247HORIZONTALTABDOWN > Diode_THT : D_DO-247_Horizontal_TabDown
+# FZKDDDO247HTABDOWN > Diode_THT : D_DO-247_Horizontal_TabDown
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Diode_THT-D_DO-247_Horizontal_TabDown
-- Hex ID: FZKDDDO247HORIZONTALTABDOWN
+- Hex ID: FZKDDDO247HTABDOWN
 - Name: Diode_THT : D_DO-247_Horizontal_TabDown
 - Description: Diode_THT : D_DO-247_Horizontal_TabDown
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Diode_THT-D_DO-247_Horizontal_TabDown](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Diode_THT-D_DO-247_Horizontal_TabDown)
-- Short Link: [http://oom.lt/FZKDDDO247HORIZONTALTABDOWN](http://oom.lt/FZKDDDO247HORIZONTALTABDOWN)
+- Short Link: [http://oom.lt/FZKDDDO247HTABDOWN](http://oom.lt/FZKDDDO247HTABDOWN)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Diode_THT|
 |OOMP Index|oompIndex|D_DO-247_Horizontal_TabDown|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Diode_THT-D_DO-247_Horizontal_TabDown|
-|Hex ID (short code)|hexID|FZKDDDO247HORIZONTALTABDOWN|
+|Hex ID (short code)|hexID|FZKDDDO247HTABDOWN|
 |name|name|Diode_THT : D_DO-247_Horizontal_TabDown|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'D_DO-247_Horizontal_TabDown'</td><td> 'description'</td></tr><tr><td> 'Diode</td><td> DO-247 series</td><td> Horizontal</td><td> TabDown</td><td> P 10.9mm'</td><td> 'tags'</td></tr><tr><td> 'diode rectifier'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Diode_THT.3dshapes/D_DO-247_Horizontal_TabDown.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'np_thru_hole'</td><td> 'shape'</td></tr><tr><td> 'oval'</td></tr></table></td></tr></table>|
 ||||

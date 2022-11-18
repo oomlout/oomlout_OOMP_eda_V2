@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKCNPINHEADER2PINHEADER2X27P2VERTICALSM > Connector_PinHeader_2.00mm : PinHeader_2x27_P2.00mm_Vertical_SMD](#fzkcnpinheader2pinheader2x27p2verticalsm--connector_pinheader_200mm--pinheader_2x27_p200mm_vertical_smd)
+* [FZKCNPINHEADER2PINHEADER2X27P2FSM > Connector_PinHeader_2.00mm : PinHeader_2x27_P2.00mm_Vertical_SMD](#fzkcnpinheader2pinheader2x27p2fsm--connector_pinheader_200mm--pinheader_2x27_p200mm_vertical_smd)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKCNPINHEADER2PINHEADER2X27P2VERTICALSM > Connector_PinHeader_2.00mm : PinHeader_2x27_P2.00mm_Vertical_SMD
+# FZKCNPINHEADER2PINHEADER2X27P2FSM > Connector_PinHeader_2.00mm : PinHeader_2x27_P2.00mm_Vertical_SMD
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_PinHeader_2.00mm-PinHeader_2x27_P2.00mm_Vertical_SMD
-- Hex ID: FZKCNPINHEADER2PINHEADER2X27P2VERTICALSM
+- Hex ID: FZKCNPINHEADER2PINHEADER2X27P2FSM
 - Name: Connector_PinHeader_2.00mm : PinHeader_2x27_P2.00mm_Vertical_SMD
 - Description: Connector_PinHeader_2.00mm : PinHeader_2x27_P2.00mm_Vertical_SMD
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_PinHeader_2.00mm-PinHeader_2x27_P2.00mm_Vertical_SMD](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_PinHeader_2.00mm-PinHeader_2x27_P2.00mm_Vertical_SMD)
-- Short Link: [http://oom.lt/FZKCNPINHEADER2PINHEADER2X27P2VERTICALSM](http://oom.lt/FZKCNPINHEADER2PINHEADER2X27P2VERTICALSM)
+- Short Link: [http://oom.lt/FZKCNPINHEADER2PINHEADER2X27P2FSM](http://oom.lt/FZKCNPINHEADER2PINHEADER2X27P2FSM)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Connector_PinHeader_2.00mm|
 |OOMP Index|oompIndex|PinHeader_2x27_P2.00mm_Vertical_SMD|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_PinHeader_2.00mm-PinHeader_2x27_P2.00mm_Vertical_SMD|
-|Hex ID (short code)|hexID|FZKCNPINHEADER2PINHEADER2X27P2VERTICALSM|
+|Hex ID (short code)|hexID|FZKCNPINHEADER2PINHEADER2X27P2FSM|
 |name|name|Connector_PinHeader_2.00mm : PinHeader_2x27_P2.00mm_Vertical_SMD|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'PinHeader_2x27_P2.00mm_Vertical_SMD'</td><td> 'description'</td></tr><tr><td> 'surface-mounted straight pin header</td><td> 2x27</td><td> 2.00mm pitch</td><td> double rows'</td><td> 'tags'</td></tr><tr><td> 'Surface mounted pin header SMD 2x27 2.00mm double row'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_PinHeader_2.00mm.3dshapes/PinHeader_2x27_P2.00mm_Vertical_SMD.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

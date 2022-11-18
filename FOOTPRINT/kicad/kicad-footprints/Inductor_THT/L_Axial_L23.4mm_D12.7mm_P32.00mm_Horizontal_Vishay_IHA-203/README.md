@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKINLAXIALL234D127P32HORIZONTALVISHAYIHA23 > Inductor_THT : L_Axial_L23.4mm_D12.7mm_P32.00mm_Horizontal_Vishay_IHA-203](#fzkinlaxiall234d127p32horizontalvishayiha23--inductor_tht--l_axial_l234mm_d127mm_p3200mm_horizontal_vishay_iha-203)
+* [FZKINLAXIALL234D127P32HVISHAYIHA23 > Inductor_THT : L_Axial_L23.4mm_D12.7mm_P32.00mm_Horizontal_Vishay_IHA-203](#fzkinlaxiall234d127p32hvishayiha23--inductor_tht--l_axial_l234mm_d127mm_p3200mm_horizontal_vishay_iha-203)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKINLAXIALL234D127P32HORIZONTALVISHAYIHA23 > Inductor_THT : L_Axial_L23.4mm_D12.7mm_P32.00mm_Horizontal_Vishay_IHA-203
+# FZKINLAXIALL234D127P32HVISHAYIHA23 > Inductor_THT : L_Axial_L23.4mm_D12.7mm_P32.00mm_Horizontal_Vishay_IHA-203
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Axial_L23.4mm_D12.7mm_P32.00mm_Horizontal_Vishay_IHA-203
-- Hex ID: FZKINLAXIALL234D127P32HORIZONTALVISHAYIHA23
+- Hex ID: FZKINLAXIALL234D127P32HVISHAYIHA23
 - Name: Inductor_THT : L_Axial_L23.4mm_D12.7mm_P32.00mm_Horizontal_Vishay_IHA-203
 - Description: Inductor_THT : L_Axial_L23.4mm_D12.7mm_P32.00mm_Horizontal_Vishay_IHA-203
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Axial_L23.4mm_D12.7mm_P32.00mm_Horizontal_Vishay_IHA-203](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Axial_L23.4mm_D12.7mm_P32.00mm_Horizontal_Vishay_IHA-203)
-- Short Link: [http://oom.lt/FZKINLAXIALL234D127P32HORIZONTALVISHAYIHA23](http://oom.lt/FZKINLAXIALL234D127P32HORIZONTALVISHAYIHA23)
+- Short Link: [http://oom.lt/FZKINLAXIALL234D127P32HVISHAYIHA23](http://oom.lt/FZKINLAXIALL234D127P32HVISHAYIHA23)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Inductor_THT|
 |OOMP Index|oompIndex|L_Axial_L23.4mm_D12.7mm_P32.00mm_Horizontal_Vishay_IHA-203|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Axial_L23.4mm_D12.7mm_P32.00mm_Horizontal_Vishay_IHA-203|
-|Hex ID (short code)|hexID|FZKINLAXIALL234D127P32HORIZONTALVISHAYIHA23|
+|Hex ID (short code)|hexID|FZKINLAXIALL234D127P32HVISHAYIHA23|
 |name|name|Inductor_THT : L_Axial_L23.4mm_D12.7mm_P32.00mm_Horizontal_Vishay_IHA-203|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'L_Axial_L23.4mm_D12.7mm_P32.00mm_Horizontal_Vishay_IHA-203'</td><td> 'description'</td></tr><tr><td> 'Inductor</td><td> Axial series</td><td> Axial</td><td> Horizontal</td><td> pin pitch=32mm</td><td> </td><td> length*diameter=23.37*12.7mm^2</td><td> Vishay</td><td> IHA-203</td><td> http</td></tr><tr><td>//www.vishay.com/docs/34014/iha.pdf'</td><td> 'tags'</td></tr><tr><td> 'Inductor Axial series Axial Horizontal pin pitch 32mm  length 23.37mm diameter 12.7mm Vishay IHA-203'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Inductor_THT.3dshapes/L_Axial_L23.4mm_D12.7mm_P32.00mm_Horizontal_Vishay_IHA-203.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||

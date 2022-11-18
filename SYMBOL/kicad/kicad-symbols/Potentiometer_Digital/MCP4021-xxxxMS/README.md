@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [SZKPOTENTIOMETERDIGITALMCP421XXXXMS > Potentiometer_Digital : MCP4021-xxxxMS](#szkpotentiometerdigitalmcp421xxxxms--potentiometer_digital--mcp4021-xxxxms)
+* [SZKPOTDIGITALMCP421XXXXMS > Potentiometer_Digital : MCP4021-xxxxMS](#szkpotdigitalmcp421xxxxms--potentiometer_digital--mcp4021-xxxxms)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# SZKPOTENTIOMETERDIGITALMCP421XXXXMS > Potentiometer_Digital : MCP4021-xxxxMS
+# SZKPOTDIGITALMCP421XXXXMS > Potentiometer_Digital : MCP4021-xxxxMS
 
 - ID: SYMBOL-kicad-kicad-symbols-Potentiometer_Digital-MCP4021-xxxxMS
-- Hex ID: SZKPOTENTIOMETERDIGITALMCP421XXXXMS
+- Hex ID: SZKPOTDIGITALMCP421XXXXMS
 - Name: Potentiometer_Digital : MCP4021-xxxxMS
 - Description: Potentiometer_Digital : MCP4021-xxxxMS
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Potentiometer_Digital-MCP4021-xxxxMS](http://oom.lt/SYMBOL-kicad-kicad-symbols-Potentiometer_Digital-MCP4021-xxxxMS)
-- Short Link: [http://oom.lt/SZKPOTENTIOMETERDIGITALMCP421XXXXMS](http://oom.lt/SZKPOTENTIOMETERDIGITALMCP421XXXXMS)
+- Short Link: [http://oom.lt/SZKPOTDIGITALMCP421XXXXMS](http://oom.lt/SZKPOTDIGITALMCP421XXXXMS)
 
 ## Images
   
@@ -36,7 +36,7 @@ Contents
 |OOMP Description|oompDesc|Potentiometer_Digital|
 |OOMP Index|oompIndex|MCP4021-xxxxMS|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Potentiometer_Digital-MCP4021-xxxxMS|
-|Hex ID (short code)|hexID|SZKPOTENTIOMETERDIGITALMCP421XXXXMS|
+|Hex ID (short code)|hexID|SZKPOTDIGITALMCP421XXXXMS|
 |name|name|Potentiometer_Digital : MCP4021-xxxxMS|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'MCP4011-xxxxMS'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MCP4021-xxxxMS'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>MSOP-8_3x3mm_P0.65mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//ww1.microchip.com/downloads/en/DeviceDoc/21945e.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Digital Pot Potentiometer Up Down'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Low-Cost 64-Step Digital Potentiometer with WiperLockâ„¢ Technology</td><td> MSOP-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'MSOP*3x3mm*P0.65mm*'</td></tr></table>]|
 ||||

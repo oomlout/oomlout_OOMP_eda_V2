@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKINDUCTORSML73X73H45 > Inductor_SMD : L_7.3x7.3_H4.5](#fzkinductorsml73x73h45--inductor_smd--l_73x73_h45)
+* [FZKINL73X73H45 > Inductor_SMD : L_7.3x7.3_H4.5](#fzkinl73x73h45--inductor_smd--l_73x73_h45)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKINDUCTORSML73X73H45 > Inductor_SMD : L_7.3x7.3_H4.5
+# FZKINL73X73H45 > Inductor_SMD : L_7.3x7.3_H4.5
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_7.3x7.3_H4.5
-- Hex ID: FZKINDUCTORSML73X73H45
+- Hex ID: FZKINL73X73H45
 - Name: Inductor_SMD : L_7.3x7.3_H4.5
 - Description: Inductor_SMD : L_7.3x7.3_H4.5
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_7.3x7.3_H4.5](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_7.3x7.3_H4.5)
-- Short Link: [http://oom.lt/FZKINDUCTORSML73X73H45](http://oom.lt/FZKINDUCTORSML73X73H45)
+- Short Link: [http://oom.lt/FZKINL73X73H45](http://oom.lt/FZKINL73X73H45)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Inductor_SMD|
 |OOMP Index|oompIndex|L_7.3x7.3_H4.5|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_7.3x7.3_H4.5|
-|Hex ID (short code)|hexID|FZKINDUCTORSML73X73H45|
+|Hex ID (short code)|hexID|FZKINL73X73H45|
 |name|name|Inductor_SMD : L_7.3x7.3_H4.5|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'L_7.3x7.3_H4.5'</td><td> 'description'</td></tr><tr><td> 'Choke</td><td> SMD</td><td> 7.3x7.3mm 4.5mm height'</td><td> 'tags'</td></tr><tr><td> 'Choke SMD'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Inductor_SMD.3dshapes/L_7.3x7.3_H4.5.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

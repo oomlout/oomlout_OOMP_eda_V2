@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKCNFFCFPCTE2849531X21MPP1HORIZONTAL > Connector_FFC-FPC : TE_2-84953-0_1x20-1MP_P1.0mm_Horizontal](#fzkcnffcfpcte2849531x21mpp1horizontal--connector_ffc-fpc--te_2-84953-0_1x20-1mp_p10mm_horizontal)
+* [FZKCNFFCFPCTE2849531X21MPP1H > Connector_FFC-FPC : TE_2-84953-0_1x20-1MP_P1.0mm_Horizontal](#fzkcnffcfpcte2849531x21mpp1h--connector_ffc-fpc--te_2-84953-0_1x20-1mp_p10mm_horizontal)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKCNFFCFPCTE2849531X21MPP1HORIZONTAL > Connector_FFC-FPC : TE_2-84953-0_1x20-1MP_P1.0mm_Horizontal
+# FZKCNFFCFPCTE2849531X21MPP1H > Connector_FFC-FPC : TE_2-84953-0_1x20-1MP_P1.0mm_Horizontal
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_FFC-FPC-TE_2-84953-0_1x20-1MP_P1.0mm_Horizontal
-- Hex ID: FZKCNFFCFPCTE2849531X21MPP1HORIZONTAL
+- Hex ID: FZKCNFFCFPCTE2849531X21MPP1H
 - Name: Connector_FFC-FPC : TE_2-84953-0_1x20-1MP_P1.0mm_Horizontal
 - Description: Connector_FFC-FPC : TE_2-84953-0_1x20-1MP_P1.0mm_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_FFC-FPC-TE_2-84953-0_1x20-1MP_P1.0mm_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_FFC-FPC-TE_2-84953-0_1x20-1MP_P1.0mm_Horizontal)
-- Short Link: [http://oom.lt/FZKCNFFCFPCTE2849531X21MPP1HORIZONTAL](http://oom.lt/FZKCNFFCFPCTE2849531X21MPP1HORIZONTAL)
+- Short Link: [http://oom.lt/FZKCNFFCFPCTE2849531X21MPP1H](http://oom.lt/FZKCNFFCFPCTE2849531X21MPP1H)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Connector_FFC-FPC|
 |OOMP Index|oompIndex|TE_2-84953-0_1x20-1MP_P1.0mm_Horizontal|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_FFC-FPC-TE_2-84953-0_1x20-1MP_P1.0mm_Horizontal|
-|Hex ID (short code)|hexID|FZKCNFFCFPCTE2849531X21MPP1HORIZONTAL|
+|Hex ID (short code)|hexID|FZKCNFFCFPCTE2849531X21MPP1H|
 |name|name|Connector_FFC-FPC : TE_2-84953-0_1x20-1MP_P1.0mm_Horizontal|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'TE_2-84953-0_1x20-1MP_P1.0mm_Horizontal'</td><td> 'description'</td></tr><tr><td> 'TE FPC connector</td><td> 20 top-side contacts</td><td> 1.0mm pitch</td><td> 1.0mm height</td><td> SMT</td><td> http</td></tr><tr><td>//www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=84953&DocType=Customer+Drawing&DocLang=English&DocFormat=pdf&PartCntxt=84953-4'</td><td> 'tags'</td></tr><tr><td> 'te fpc 84953'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_FFC-FPC.3dshapes/TE_2-84953-0_1x20-1MP_P1.0mm_Horizontal.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

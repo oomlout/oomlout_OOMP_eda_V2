@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKRESISTORSMRCAT168 > Resistor_SMD : R_Cat16-8](#fzkresistorsmrcat168--resistor_smd--r_cat16-8)
+* [FZKRRCAT168 > Resistor_SMD : R_Cat16-8](#fzkrrcat168--resistor_smd--r_cat16-8)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKRESISTORSMRCAT168 > Resistor_SMD : R_Cat16-8
+# FZKRRCAT168 > Resistor_SMD : R_Cat16-8
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_Cat16-8
-- Hex ID: FZKRESISTORSMRCAT168
+- Hex ID: FZKRRCAT168
 - Name: Resistor_SMD : R_Cat16-8
 - Description: Resistor_SMD : R_Cat16-8
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_Cat16-8](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_Cat16-8)
-- Short Link: [http://oom.lt/FZKRESISTORSMRCAT168](http://oom.lt/FZKRESISTORSMRCAT168)
+- Short Link: [http://oom.lt/FZKRRCAT168](http://oom.lt/FZKRRCAT168)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Resistor_SMD|
 |OOMP Index|oompIndex|R_Cat16-8|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_Cat16-8|
-|Hex ID (short code)|hexID|FZKRESISTORSMRCAT168|
+|Hex ID (short code)|hexID|FZKRRCAT168|
 |name|name|Resistor_SMD : R_Cat16-8|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'R_Cat16-8'</td><td> 'description'</td></tr><tr><td> 'SMT resistor net</td><td> Bourns CAT16 series</td><td> 8 way'</td><td> 'tags'</td></tr><tr><td> 'SMT resistor net Bourns CAT16 series 8 way'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Resistor_SMD.3dshapes/R_Cat16-8.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

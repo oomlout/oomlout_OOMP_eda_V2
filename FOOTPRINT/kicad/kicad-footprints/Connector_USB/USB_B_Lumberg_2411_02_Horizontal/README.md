@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKCNUUBLUMBERG24112HORIZONTAL > Connector_USB : USB_B_Lumberg_2411_02_Horizontal](#fzkcnuublumberg24112horizontal--connector_usb--usb_b_lumberg_2411_02_horizontal)
+* [FZKCNUUBLUMBERG24112H > Connector_USB : USB_B_Lumberg_2411_02_Horizontal](#fzkcnuublumberg24112h--connector_usb--usb_b_lumberg_2411_02_horizontal)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKCNUUBLUMBERG24112HORIZONTAL > Connector_USB : USB_B_Lumberg_2411_02_Horizontal
+# FZKCNUUBLUMBERG24112H > Connector_USB : USB_B_Lumberg_2411_02_Horizontal
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_B_Lumberg_2411_02_Horizontal
-- Hex ID: FZKCNUUBLUMBERG24112HORIZONTAL
+- Hex ID: FZKCNUUBLUMBERG24112H
 - Name: Connector_USB : USB_B_Lumberg_2411_02_Horizontal
 - Description: Connector_USB : USB_B_Lumberg_2411_02_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_B_Lumberg_2411_02_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_B_Lumberg_2411_02_Horizontal)
-- Short Link: [http://oom.lt/FZKCNUUBLUMBERG24112HORIZONTAL](http://oom.lt/FZKCNUUBLUMBERG24112HORIZONTAL)
+- Short Link: [http://oom.lt/FZKCNUUBLUMBERG24112H](http://oom.lt/FZKCNUUBLUMBERG24112H)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Connector_USB|
 |OOMP Index|oompIndex|USB_B_Lumberg_2411_02_Horizontal|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_B_Lumberg_2411_02_Horizontal|
-|Hex ID (short code)|hexID|FZKCNUUBLUMBERG24112HORIZONTAL|
+|Hex ID (short code)|hexID|FZKCNUUBLUMBERG24112H|
 |name|name|Connector_USB : USB_B_Lumberg_2411_02_Horizontal|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'USB_B_Lumberg_2411_02_Horizontal'</td><td> 'description'</td></tr><tr><td> 'USB 2.0 receptacle type B</td><td> horizontal version</td><td> through-hole</td><td> https</td></tr><tr><td>//downloads.lumberg.com/datenblaetter/en/2411_02.pdf'</td><td> 'tags'</td></tr><tr><td> 'USB B receptacle horizontal through-hole'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_USB.3dshapes/USB_B_Lumberg_2411_02_Horizontal.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

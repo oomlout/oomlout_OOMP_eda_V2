@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKCNPCBEDGESAMTECMECF21NPLDV2X2P127SOHORIZONTAL > Connector_PCBEdge : Samtec_MECF-20-01-NP-L-DV_2x20_P1.27mm_Socket_Horizontal](#fzkcnpcbedgesamtecmecf21npldv2x2p127sohorizontal--connector_pcbedge--samtec_mecf-20-01-np-l-dv_2x20_p127mm_socket_horizontal)
+* [FZKCNPCBEDGESAMTECMECF21NPLDV2X2P127SOH > Connector_PCBEdge : Samtec_MECF-20-01-NP-L-DV_2x20_P1.27mm_Socket_Horizontal](#fzkcnpcbedgesamtecmecf21npldv2x2p127soh--connector_pcbedge--samtec_mecf-20-01-np-l-dv_2x20_p127mm_socket_horizontal)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKCNPCBEDGESAMTECMECF21NPLDV2X2P127SOHORIZONTAL > Connector_PCBEdge : Samtec_MECF-20-01-NP-L-DV_2x20_P1.27mm_Socket_Horizontal
+# FZKCNPCBEDGESAMTECMECF21NPLDV2X2P127SOH > Connector_PCBEdge : Samtec_MECF-20-01-NP-L-DV_2x20_P1.27mm_Socket_Horizontal
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_PCBEdge-Samtec_MECF-20-01-NP-L-DV_2x20_P1.27mm_Socket_Horizontal
-- Hex ID: FZKCNPCBEDGESAMTECMECF21NPLDV2X2P127SOHORIZONTAL
+- Hex ID: FZKCNPCBEDGESAMTECMECF21NPLDV2X2P127SOH
 - Name: Connector_PCBEdge : Samtec_MECF-20-01-NP-L-DV_2x20_P1.27mm_Socket_Horizontal
 - Description: Connector_PCBEdge : Samtec_MECF-20-01-NP-L-DV_2x20_P1.27mm_Socket_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_PCBEdge-Samtec_MECF-20-01-NP-L-DV_2x20_P1.27mm_Socket_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_PCBEdge-Samtec_MECF-20-01-NP-L-DV_2x20_P1.27mm_Socket_Horizontal)
-- Short Link: [http://oom.lt/FZKCNPCBEDGESAMTECMECF21NPLDV2X2P127SOHORIZONTAL](http://oom.lt/FZKCNPCBEDGESAMTECMECF21NPLDV2X2P127SOHORIZONTAL)
+- Short Link: [http://oom.lt/FZKCNPCBEDGESAMTECMECF21NPLDV2X2P127SOH](http://oom.lt/FZKCNPCBEDGESAMTECMECF21NPLDV2X2P127SOH)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Connector_PCBEdge|
 |OOMP Index|oompIndex|Samtec_MECF-20-01-NP-L-DV_2x20_P1.27mm_Socket_Horizontal|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_PCBEdge-Samtec_MECF-20-01-NP-L-DV_2x20_P1.27mm_Socket_Horizontal|
-|Hex ID (short code)|hexID|FZKCNPCBEDGESAMTECMECF21NPLDV2X2P127SOHORIZONTAL|
+|Hex ID (short code)|hexID|FZKCNPCBEDGESAMTECMECF21NPLDV2X2P127SOH|
 |name|name|Connector_PCBEdge : Samtec_MECF-20-01-NP-L-DV_2x20_P1.27mm_Socket_Horizontal|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Samtec_MECF-20-01-NP-L-DV_2x20_P1.27mm_Socket_Horizontal'</td><td> 'description'</td></tr><tr><td> 'Highspeed card edge connector for 1.6mm PCBs with 20 contacts (not polarized)'</td><td> 'tags'</td></tr><tr><td> 'conn samtec card-edge high-speed'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_PCBEdge.3dshapes/Samtec_MECF-20-01-NP-L-DV_2x20_P1.27mm_Socket_Horizontal.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'np_thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||

@@ -5,18 +5,18 @@
 Contents
 ========
 
-* [FZESWITCHITTRTBCD > switch : ITT-RTBCD](#fzeswitchittrtbcd--switch--itt-rtbcd)
+* [FZESWITTRTBCD > switch : ITT-RTBCD](#fzeswittrtbcd--switch--itt-rtbcd)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZESWITCHITTRTBCD > switch : ITT-RTBCD
+# FZESWITTRTBCD > switch : ITT-RTBCD
 
 - ID: FOOTPRINT-eagle-eagle-default-switch-ITT-RTBCD
-- Hex ID: FZESWITCHITTRTBCD
+- Hex ID: FZESWITTRTBCD
 - Name: switch : ITT-RTBCD
 - Description: switch : ITT-RTBCD
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-ITT-RTBCD](http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-ITT-RTBCD)
-- Short Link: [http://oom.lt/FZESWITCHITTRTBCD](http://oom.lt/FZESWITCHITTRTBCD)
+- Short Link: [http://oom.lt/FZESWITTRTBCD](http://oom.lt/FZESWITTRTBCD)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +30,6 @@ NO IMAGES
 |OOMP Description|oompDesc|switch|
 |OOMP Index|oompIndex|ITT-RTBCD|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-switch-ITT-RTBCD|
-|Hex ID (short code)|hexID|FZESWITCHITTRTBCD|
+|Hex ID (short code)|hexID|FZESWITTRTBCD|
 |name|name|switch : ITT-RTBCD|
 ||||

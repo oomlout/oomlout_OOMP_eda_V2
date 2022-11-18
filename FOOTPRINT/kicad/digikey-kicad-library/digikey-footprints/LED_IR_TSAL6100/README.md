@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSLIRTSAL61 > digikey-footprints : LED_IR_TSAL6100](#fzkicaddigikeykicadlibrarydigikeyfootprintslirtsal61--digikey-footprints--led_ir_tsal6100)
+* [FZDIGIDIGIKEYFOOTPRINTSLIRTSAL61 > digikey-footprints : LED_IR_TSAL6100](#fzdigidigikeyfootprintslirtsal61--digikey-footprints--led_ir_tsal6100)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSLIRTSAL61 > digikey-footprints : LED_IR_TSAL6100
+# FZDIGIDIGIKEYFOOTPRINTSLIRTSAL61 > digikey-footprints : LED_IR_TSAL6100
 
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-LED_IR_TSAL6100
-- Hex ID: FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSLIRTSAL61
+- Hex ID: FZDIGIDIGIKEYFOOTPRINTSLIRTSAL61
 - Name: digikey-footprints : LED_IR_TSAL6100
 - Description: digikey-footprints : LED_IR_TSAL6100
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-LED_IR_TSAL6100](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-LED_IR_TSAL6100)
-- Short Link: [http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSLIRTSAL61](http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSLIRTSAL61)
+- Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSLIRTSAL61](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSLIRTSAL61)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|digikey-footprints|
 |OOMP Index|oompIndex|LED_IR_TSAL6100|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-LED_IR_TSAL6100|
-|Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSLIRTSAL61|
+|Hex ID (short code)|hexID|FZDIGIDIGIKEYFOOTPRINTSLIRTSAL61|
 |name|name|digikey-footprints : LED_IR_TSAL6100|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'LED_IR_TSAL6100'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> None</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

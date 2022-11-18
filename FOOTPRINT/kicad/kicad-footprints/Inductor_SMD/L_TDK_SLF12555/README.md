@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKINDUCTORSMLTDKSLF12555 > Inductor_SMD : L_TDK_SLF12555](#fzkinductorsmltdkslf12555--inductor_smd--l_tdk_slf12555)
+* [FZKINLTDKSLF12555 > Inductor_SMD : L_TDK_SLF12555](#fzkinltdkslf12555--inductor_smd--l_tdk_slf12555)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKINDUCTORSMLTDKSLF12555 > Inductor_SMD : L_TDK_SLF12555
+# FZKINLTDKSLF12555 > Inductor_SMD : L_TDK_SLF12555
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_TDK_SLF12555
-- Hex ID: FZKINDUCTORSMLTDKSLF12555
+- Hex ID: FZKINLTDKSLF12555
 - Name: Inductor_SMD : L_TDK_SLF12555
 - Description: Inductor_SMD : L_TDK_SLF12555
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_TDK_SLF12555](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_TDK_SLF12555)
-- Short Link: [http://oom.lt/FZKINDUCTORSMLTDKSLF12555](http://oom.lt/FZKINDUCTORSMLTDKSLF12555)
+- Short Link: [http://oom.lt/FZKINLTDKSLF12555](http://oom.lt/FZKINLTDKSLF12555)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Inductor_SMD|
 |OOMP Index|oompIndex|L_TDK_SLF12555|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_TDK_SLF12555|
-|Hex ID (short code)|hexID|FZKINDUCTORSMLTDKSLF12555|
+|Hex ID (short code)|hexID|FZKINLTDKSLF12555|
 |name|name|Inductor_SMD : L_TDK_SLF12555|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'L_TDK_SLF12555'</td><td> 'description'</td></tr><tr><td> 'Inductor</td><td> TDK</td><td> SLF12555</td><td> 12.5mmx12.5mm (Script generated with StandardBox.py) (https</td></tr><tr><td>//product.tdk.com/info/en/catalog/datasheets/inductor_commercial_power_slf12555_en.pdf)'</td><td> 'tags'</td></tr><tr><td> 'Inductor SLF12555'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Inductor_SMD.3dshapes/L_TDK_SLF12555.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||

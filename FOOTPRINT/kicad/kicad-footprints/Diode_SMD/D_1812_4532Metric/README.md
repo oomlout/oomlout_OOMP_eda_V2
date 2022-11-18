@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKDIODESMD18124532METRIC > Diode_SMD : D_1812_4532Metric](#fzkdiodesmd18124532metric--diode_smd--d_1812_4532metric)
+* [FZKDD18124532VA > Diode_SMD : D_1812_4532Metric](#fzkdd18124532va--diode_smd--d_1812_4532metric)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKDIODESMD18124532METRIC > Diode_SMD : D_1812_4532Metric
+# FZKDD18124532VA > Diode_SMD : D_1812_4532Metric
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_1812_4532Metric
-- Hex ID: FZKDIODESMD18124532METRIC
+- Hex ID: FZKDD18124532VA
 - Name: Diode_SMD : D_1812_4532Metric
 - Description: Diode_SMD : D_1812_4532Metric
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_1812_4532Metric](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_1812_4532Metric)
-- Short Link: [http://oom.lt/FZKDIODESMD18124532METRIC](http://oom.lt/FZKDIODESMD18124532METRIC)
+- Short Link: [http://oom.lt/FZKDD18124532VA](http://oom.lt/FZKDD18124532VA)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Diode_SMD|
 |OOMP Index|oompIndex|D_1812_4532Metric|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_1812_4532Metric|
-|Hex ID (short code)|hexID|FZKDIODESMD18124532METRIC|
+|Hex ID (short code)|hexID|FZKDD18124532VA|
 |name|name|Diode_SMD : D_1812_4532Metric|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'D_1812_4532Metric'</td><td> 'description'</td></tr><tr><td> 'Diode SMD 1812 (4532 Metric)</td><td> square (rectangular) end terminal</td><td> IPC_7351 nominal</td><td> (Body size source</td></tr><tr><td> https</td></tr><tr><td>//www.nikhef.nl/pub/departments/mt/projects/detectorR_D/dtddice/ERJ2G.pdf)</td><td> generated with kicad-footprint-generator'</td><td> 'tags'</td></tr><tr><td> 'diode'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Diode_SMD.3dshapes/D_1812_4532Metric.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||

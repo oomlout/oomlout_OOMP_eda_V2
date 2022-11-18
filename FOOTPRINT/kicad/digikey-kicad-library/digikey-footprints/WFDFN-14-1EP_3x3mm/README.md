@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSWFDFN141EP3X3 > digikey-footprints : WFDFN-14-1EP_3x3mm](#fzkicaddigikeykicadlibrarydigikeyfootprintswfdfn141ep3x3--digikey-footprints--wfdfn-14-1ep_3x3mm)
+* [FZDIGIDIGIKEYFOOTPRINTSWFDFN141EP3X3 > digikey-footprints : WFDFN-14-1EP_3x3mm](#fzdigidigikeyfootprintswfdfn141ep3x3--digikey-footprints--wfdfn-14-1ep_3x3mm)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSWFDFN141EP3X3 > digikey-footprints : WFDFN-14-1EP_3x3mm
+# FZDIGIDIGIKEYFOOTPRINTSWFDFN141EP3X3 > digikey-footprints : WFDFN-14-1EP_3x3mm
 
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-WFDFN-14-1EP_3x3mm
-- Hex ID: FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSWFDFN141EP3X3
+- Hex ID: FZDIGIDIGIKEYFOOTPRINTSWFDFN141EP3X3
 - Name: digikey-footprints : WFDFN-14-1EP_3x3mm
 - Description: digikey-footprints : WFDFN-14-1EP_3x3mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-WFDFN-14-1EP_3x3mm](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-WFDFN-14-1EP_3x3mm)
-- Short Link: [http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSWFDFN141EP3X3](http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSWFDFN141EP3X3)
+- Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSWFDFN141EP3X3](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSWFDFN141EP3X3)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|digikey-footprints|
 |OOMP Index|oompIndex|WFDFN-14-1EP_3x3mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-WFDFN-14-1EP_3x3mm|
-|Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSWFDFN141EP3X3|
+|Hex ID (short code)|hexID|FZDIGIDIGIKEYFOOTPRINTSWFDFN141EP3X3|
 |name|name|digikey-footprints : WFDFN-14-1EP_3x3mm|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'WFDFN-14-1EP_3x3mm'</td><td> 'description'</td></tr><tr><td> 'http</td></tr><tr><td>//pdfserv.maximintegrated.com/land_patterns/90-0063.PDF'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSCAPC85XUF1V1C85U1 > oomlout_OOMP_parts : CAPC-0805-X-UF10-V10-C85U010](#fzkicadoomloutoompkicadoomloutoomppartscapc85xuf1v1c85u1--oomlout_oomp_parts--capc-0805-x-uf10-v10-c85u010)
+* [FZOOMPKOOMPPCAPC85XUF1V1C85U1 > oomlout_OOMP_parts : CAPC-0805-X-UF10-V10-C85U010](#fzoompkoomppcapc85xuf1v1c85u1--oomlout_oomp_parts--capc-0805-x-uf10-v10-c85u010)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSCAPC85XUF1V1C85U1 > oomlout_OOMP_parts : CAPC-0805-X-UF10-V10-C85U010
+# FZOOMPKOOMPPCAPC85XUF1V1C85U1 > oomlout_OOMP_parts : CAPC-0805-X-UF10-V10-C85U010
 
 - ID: FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0805-X-UF10-V10-C85U010
-- Hex ID: FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSCAPC85XUF1V1C85U1
+- Hex ID: FZOOMPKOOMPPCAPC85XUF1V1C85U1
 - Name: oomlout_OOMP_parts : CAPC-0805-X-UF10-V10-C85U010
 - Description: oomlout_OOMP_parts : CAPC-0805-X-UF10-V10-C85U010
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0805-X-UF10-V10-C85U010](http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0805-X-UF10-V10-C85U010)
-- Short Link: [http://oom.lt/FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSCAPC85XUF1V1C85U1](http://oom.lt/FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSCAPC85XUF1V1C85U1)
+- Short Link: [http://oom.lt/FZOOMPKOOMPPCAPC85XUF1V1C85U1](http://oom.lt/FZOOMPKOOMPPCAPC85XUF1V1C85U1)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|oomlout_OOMP_parts|
 |OOMP Index|oompIndex|CAPC-0805-X-UF10-V10-C85U010|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0805-X-UF10-V10-C85U010|
-|Hex ID (short code)|hexID|FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSCAPC85XUF1V1C85U1|
+|Hex ID (short code)|hexID|FZOOMPKOOMPPCAPC85XUF1V1C85U1|
 |name|name|oomlout_OOMP_parts : CAPC-0805-X-UF10-V10-C85U010|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'CAPC-0805-X-UF10-V10-C85U010'</td><td> 'description'</td></tr><tr><td> 'hexID</td></tr><tr><td> C85U010; Capacitor SMD 0805 (2012 Metric)</td><td> square (rectangular) end terminal</td><td> IPC_7351 nominal</td><td> (Body size source</td></tr><tr><td> IPC-SM-782 page 76</td><td> https</td></tr><tr><td>//www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf</td><td> https</td></tr><tr><td>//docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing)</td><td> generated with kicad-footprint-generator'</td><td> 'tags'</td></tr><tr><td> 'capacitor'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Capacitor_SMD.3dshapes/C_0805_2012Metric.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||

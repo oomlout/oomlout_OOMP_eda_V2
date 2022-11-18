@@ -5,18 +5,18 @@
 Contents
 ========
 
-* [FZESWITCHDILS1HEX > switch-dil : S10HEX](#fzeswitchdils1hex--switch-dil--s10hex)
+* [FZESWDILS1HEX > switch-dil : S10HEX](#fzeswdils1hex--switch-dil--s10hex)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZESWITCHDILS1HEX > switch-dil : S10HEX
+# FZESWDILS1HEX > switch-dil : S10HEX
 
 - ID: FOOTPRINT-eagle-eagle-default-switch-dil-S10HEX
-- Hex ID: FZESWITCHDILS1HEX
+- Hex ID: FZESWDILS1HEX
 - Name: switch-dil : S10HEX
 - Description: switch-dil : S10HEX
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-dil-S10HEX](http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-dil-S10HEX)
-- Short Link: [http://oom.lt/FZESWITCHDILS1HEX](http://oom.lt/FZESWITCHDILS1HEX)
+- Short Link: [http://oom.lt/FZESWDILS1HEX](http://oom.lt/FZESWDILS1HEX)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +30,6 @@ NO IMAGES
 |OOMP Description|oompDesc|switch-dil|
 |OOMP Index|oompIndex|S10HEX|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-switch-dil-S10HEX|
-|Hex ID (short code)|hexID|FZESWITCHDILS1HEX|
+|Hex ID (short code)|hexID|FZESWDILS1HEX|
 |name|name|switch-dil : S10HEX|
 ||||

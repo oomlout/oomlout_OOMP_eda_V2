@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSRFLOCATIONTRACKINGDWM1 > digikey-footprints : RF_Location_Tracking_DWM1000](#fzkicaddigikeykicadlibrarydigikeyfootprintsrflocationtrackingdwm1--digikey-footprints--rf_location_tracking_dwm1000)
+* [FZDIGIDIGIKEYFOOTPRINTSRFLOCATIONTRACKINGDWM1 > digikey-footprints : RF_Location_Tracking_DWM1000](#fzdigidigikeyfootprintsrflocationtrackingdwm1--digikey-footprints--rf_location_tracking_dwm1000)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSRFLOCATIONTRACKINGDWM1 > digikey-footprints : RF_Location_Tracking_DWM1000
+# FZDIGIDIGIKEYFOOTPRINTSRFLOCATIONTRACKINGDWM1 > digikey-footprints : RF_Location_Tracking_DWM1000
 
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-RF_Location_Tracking_DWM1000
-- Hex ID: FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSRFLOCATIONTRACKINGDWM1
+- Hex ID: FZDIGIDIGIKEYFOOTPRINTSRFLOCATIONTRACKINGDWM1
 - Name: digikey-footprints : RF_Location_Tracking_DWM1000
 - Description: digikey-footprints : RF_Location_Tracking_DWM1000
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-RF_Location_Tracking_DWM1000](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-RF_Location_Tracking_DWM1000)
-- Short Link: [http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSRFLOCATIONTRACKINGDWM1](http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSRFLOCATIONTRACKINGDWM1)
+- Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSRFLOCATIONTRACKINGDWM1](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSRFLOCATIONTRACKINGDWM1)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|digikey-footprints|
 |OOMP Index|oompIndex|RF_Location_Tracking_DWM1000|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-RF_Location_Tracking_DWM1000|
-|Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSRFLOCATIONTRACKINGDWM1|
+|Hex ID (short code)|hexID|FZDIGIDIGIKEYFOOTPRINTSRFLOCATIONTRACKINGDWM1|
 |name|name|digikey-footprints : RF_Location_Tracking_DWM1000|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'RF_Location_Tracking_DWM1000'</td><td> 'description'</td></tr><tr><td> 'https</td></tr><tr><td>//www.decawave.com/sites/default/files/resources/DWM1000-Datasheet-V1.6.pdf'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

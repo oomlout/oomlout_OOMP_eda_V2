@@ -6,9 +6,10 @@ Contents
 ========
 
 * [FZECONWAGO233412 > con-wago : 233-412](#fzeconwago233412--con-wago--233-412)
+	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZECONWAGO233412 > con-wago : 233-412
 
 - ID: FOOTPRINT-eagle-eagle-default-con-wago-233-412
@@ -17,8 +18,14 @@ NO IMAGE
 - Description: con-wago : 233-412
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-wago-233-412](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-wago-233-412)
 - Short Link: [http://oom.lt/FZECONWAGO233412](http://oom.lt/FZECONWAGO233412)
+
+## Images
   
-NO IMAGES  
+
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/con-wago/233-412/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/con-wago/233-412/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/con-wago/233-412/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/con-wago/233-412/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/con-wago/233-412/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/con-wago/233-412/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/con-wago/233-412/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/con-wago/233-412/kicadPcb3dBack.png)|
+| :---: | :---: | :---: | :---: |
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/con-wago/233-412/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/con-wago/233-412/kicadPcb3d.png)||||
+
 ## Tags
   
 
@@ -33,3 +40,7 @@ NO IMAGES
 |Hex ID (short code)|hexID|FZECONWAGO233412|
 |name|name|con-wago : 233-412|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

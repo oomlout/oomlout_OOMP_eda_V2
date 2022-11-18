@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE42XO5111R4O511 > oomlout_OOMP_parts : RESE-0402-X-O511-01-R4O511](#fzkicadoomloutoompkicadoomloutoomppartsrese42xo5111r4o511--oomlout_oomp_parts--rese-0402-x-o511-01-r4o511)
+* [FZOOMPKOOMPPRESE42XO5111R4O511 > oomlout_OOMP_parts : RESE-0402-X-O511-01-R4O511](#fzoompkoompprese42xo5111r4o511--oomlout_oomp_parts--rese-0402-x-o511-01-r4o511)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE42XO5111R4O511 > oomlout_OOMP_parts : RESE-0402-X-O511-01-R4O511
+# FZOOMPKOOMPPRESE42XO5111R4O511 > oomlout_OOMP_parts : RESE-0402-X-O511-01-R4O511
 
 - ID: FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0402-X-O511-01-R4O511
-- Hex ID: FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE42XO5111R4O511
+- Hex ID: FZOOMPKOOMPPRESE42XO5111R4O511
 - Name: oomlout_OOMP_parts : RESE-0402-X-O511-01-R4O511
 - Description: oomlout_OOMP_parts : RESE-0402-X-O511-01-R4O511
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0402-X-O511-01-R4O511](http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0402-X-O511-01-R4O511)
-- Short Link: [http://oom.lt/FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE42XO5111R4O511](http://oom.lt/FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE42XO5111R4O511)
+- Short Link: [http://oom.lt/FZOOMPKOOMPPRESE42XO5111R4O511](http://oom.lt/FZOOMPKOOMPPRESE42XO5111R4O511)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|oomlout_OOMP_parts|
 |OOMP Index|oompIndex|RESE-0402-X-O511-01-R4O511|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0402-X-O511-01-R4O511|
-|Hex ID (short code)|hexID|FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE42XO5111R4O511|
+|Hex ID (short code)|hexID|FZOOMPKOOMPPRESE42XO5111R4O511|
 |name|name|oomlout_OOMP_parts : RESE-0402-X-O511-01-R4O511|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'RESE-0402-X-O511-01-R4O511'</td><td> 'description'</td></tr><tr><td> 'hexID</td></tr><tr><td> R4O511;PARTL C-JLCC;C25123;MANUF C-XXXX;0402WGF5100TCE; Resistor SMD 0402 (1005 Metric)</td><td> square (rectangular) end terminal</td><td> IPC_7351 nominal</td><td> (Body size source</td></tr><tr><td> IPC-SM-782 page 72</td><td> https</td></tr><tr><td>//www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)</td><td> generated with kicad-footprint-generator'</td><td> 'tags'</td></tr><tr><td> 'resistor'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Resistor_SMD.3dshapes/R_0402_1005Metric.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||

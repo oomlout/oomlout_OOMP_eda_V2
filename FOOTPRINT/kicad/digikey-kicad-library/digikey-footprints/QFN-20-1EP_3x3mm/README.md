@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSQFN21EP3X3 > digikey-footprints : QFN-20-1EP_3x3mm](#fzkicaddigikeykicadlibrarydigikeyfootprintsqfn21ep3x3--digikey-footprints--qfn-20-1ep_3x3mm)
+* [FZDIGIDIGIKEYFOOTPRINTSQFN21EP3X3 > digikey-footprints : QFN-20-1EP_3x3mm](#fzdigidigikeyfootprintsqfn21ep3x3--digikey-footprints--qfn-20-1ep_3x3mm)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSQFN21EP3X3 > digikey-footprints : QFN-20-1EP_3x3mm
+# FZDIGIDIGIKEYFOOTPRINTSQFN21EP3X3 > digikey-footprints : QFN-20-1EP_3x3mm
 
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-QFN-20-1EP_3x3mm
-- Hex ID: FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSQFN21EP3X3
+- Hex ID: FZDIGIDIGIKEYFOOTPRINTSQFN21EP3X3
 - Name: digikey-footprints : QFN-20-1EP_3x3mm
 - Description: digikey-footprints : QFN-20-1EP_3x3mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-QFN-20-1EP_3x3mm](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-QFN-20-1EP_3x3mm)
-- Short Link: [http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSQFN21EP3X3](http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSQFN21EP3X3)
+- Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSQFN21EP3X3](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSQFN21EP3X3)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|digikey-footprints|
 |OOMP Index|oompIndex|QFN-20-1EP_3x3mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-QFN-20-1EP_3x3mm|
-|Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSQFN21EP3X3|
+|Hex ID (short code)|hexID|FZDIGIDIGIKEYFOOTPRINTSQFN21EP3X3|
 |name|name|digikey-footprints : QFN-20-1EP_3x3mm|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'QFN-20-1EP_3x3mm'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||

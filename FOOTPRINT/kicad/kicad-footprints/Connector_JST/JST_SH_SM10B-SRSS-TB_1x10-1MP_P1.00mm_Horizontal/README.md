@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKCNJSTJSTSHSM1BSRSSTB1X11MPP1HORIZONTAL > Connector_JST : JST_SH_SM10B-SRSS-TB_1x10-1MP_P1.00mm_Horizontal](#fzkcnjstjstshsm1bsrsstb1x11mpp1horizontal--connector_jst--jst_sh_sm10b-srss-tb_1x10-1mp_p100mm_horizontal)
+* [FZKCNJSTJSTSHSM1BSRSSTB1X11MPP1H > Connector_JST : JST_SH_SM10B-SRSS-TB_1x10-1MP_P1.00mm_Horizontal](#fzkcnjstjstshsm1bsrsstb1x11mpp1h--connector_jst--jst_sh_sm10b-srss-tb_1x10-1mp_p100mm_horizontal)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKCNJSTJSTSHSM1BSRSSTB1X11MPP1HORIZONTAL > Connector_JST : JST_SH_SM10B-SRSS-TB_1x10-1MP_P1.00mm_Horizontal
+# FZKCNJSTJSTSHSM1BSRSSTB1X11MPP1H > Connector_JST : JST_SH_SM10B-SRSS-TB_1x10-1MP_P1.00mm_Horizontal
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_SH_SM10B-SRSS-TB_1x10-1MP_P1.00mm_Horizontal
-- Hex ID: FZKCNJSTJSTSHSM1BSRSSTB1X11MPP1HORIZONTAL
+- Hex ID: FZKCNJSTJSTSHSM1BSRSSTB1X11MPP1H
 - Name: Connector_JST : JST_SH_SM10B-SRSS-TB_1x10-1MP_P1.00mm_Horizontal
 - Description: Connector_JST : JST_SH_SM10B-SRSS-TB_1x10-1MP_P1.00mm_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_SH_SM10B-SRSS-TB_1x10-1MP_P1.00mm_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_SH_SM10B-SRSS-TB_1x10-1MP_P1.00mm_Horizontal)
-- Short Link: [http://oom.lt/FZKCNJSTJSTSHSM1BSRSSTB1X11MPP1HORIZONTAL](http://oom.lt/FZKCNJSTJSTSHSM1BSRSSTB1X11MPP1HORIZONTAL)
+- Short Link: [http://oom.lt/FZKCNJSTJSTSHSM1BSRSSTB1X11MPP1H](http://oom.lt/FZKCNJSTJSTSHSM1BSRSSTB1X11MPP1H)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Connector_JST|
 |OOMP Index|oompIndex|JST_SH_SM10B-SRSS-TB_1x10-1MP_P1.00mm_Horizontal|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_SH_SM10B-SRSS-TB_1x10-1MP_P1.00mm_Horizontal|
-|Hex ID (short code)|hexID|FZKCNJSTJSTSHSM1BSRSSTB1X11MPP1HORIZONTAL|
+|Hex ID (short code)|hexID|FZKCNJSTJSTSHSM1BSRSSTB1X11MPP1H|
 |name|name|Connector_JST : JST_SH_SM10B-SRSS-TB_1x10-1MP_P1.00mm_Horizontal|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'JST_SH_SM10B-SRSS-TB_1x10-1MP_P1.00mm_Horizontal'</td><td> 'description'</td></tr><tr><td> 'JST SH series connector</td><td> SM10B-SRSS-TB (http</td></tr><tr><td>//www.jst-mfg.com/product/pdf/eng/eSH.pdf)</td><td> generated with kicad-footprint-generator'</td><td> 'tags'</td></tr><tr><td> 'connector JST SH top entry'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_JST.3dshapes/JST_SH_SM10B-SRSS-TB_1x10-1MP_P1.00mm_Horizontal.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||

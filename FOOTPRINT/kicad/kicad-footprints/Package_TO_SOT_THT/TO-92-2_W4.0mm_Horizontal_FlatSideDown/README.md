@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKSOTTO922W4HORIZONTALFLATSIDEDOWN > Package_TO_SOT_THT : TO-92-2_W4.0mm_Horizontal_FlatSideDown](#fzksotto922w4horizontalflatsidedown--package_to_sot_tht--to-92-2_w40mm_horizontal_flatsidedown)
+* [FZKSOTTO922W4HFLATSIDEDOWN > Package_TO_SOT_THT : TO-92-2_W4.0mm_Horizontal_FlatSideDown](#fzksotto922w4hflatsidedown--package_to_sot_tht--to-92-2_w40mm_horizontal_flatsidedown)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKSOTTO922W4HORIZONTALFLATSIDEDOWN > Package_TO_SOT_THT : TO-92-2_W4.0mm_Horizontal_FlatSideDown
+# FZKSOTTO922W4HFLATSIDEDOWN > Package_TO_SOT_THT : TO-92-2_W4.0mm_Horizontal_FlatSideDown
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-TO-92-2_W4.0mm_Horizontal_FlatSideDown
-- Hex ID: FZKSOTTO922W4HORIZONTALFLATSIDEDOWN
+- Hex ID: FZKSOTTO922W4HFLATSIDEDOWN
 - Name: Package_TO_SOT_THT : TO-92-2_W4.0mm_Horizontal_FlatSideDown
 - Description: Package_TO_SOT_THT : TO-92-2_W4.0mm_Horizontal_FlatSideDown
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-TO-92-2_W4.0mm_Horizontal_FlatSideDown](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-TO-92-2_W4.0mm_Horizontal_FlatSideDown)
-- Short Link: [http://oom.lt/FZKSOTTO922W4HORIZONTALFLATSIDEDOWN](http://oom.lt/FZKSOTTO922W4HORIZONTALFLATSIDEDOWN)
+- Short Link: [http://oom.lt/FZKSOTTO922W4HFLATSIDEDOWN](http://oom.lt/FZKSOTTO922W4HFLATSIDEDOWN)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Package_TO_SOT_THT|
 |OOMP Index|oompIndex|TO-92-2_W4.0mm_Horizontal_FlatSideDown|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-TO-92-2_W4.0mm_Horizontal_FlatSideDown|
-|Hex ID (short code)|hexID|FZKSOTTO922W4HORIZONTALFLATSIDEDOWN|
+|Hex ID (short code)|hexID|FZKSOTTO922W4HFLATSIDEDOWN|
 |name|name|Package_TO_SOT_THT : TO-92-2_W4.0mm_Horizontal_FlatSideDown|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'TO-92-2_W4.0mm_Horizontal_FlatSideDown'</td><td> 'description'</td></tr><tr><td> 'TO-92 horizontal</td><td> leads in-line</td><td> narrow</td><td> oval pads</td><td> drill 0.75mm (see NXP sot054_po.pdf)'</td><td> 'tags'</td></tr><tr><td> 'to-92 sc-43 sc-43a sot54 PA33 transistor'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_TO_SOT_THT.3dshapes/TO-92-2_W4.0mm_Horizontal_FlatSideDown.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

@@ -5,18 +5,18 @@
 Contents
 ========
 
-* [SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSHEADI1XPI2X1RSH2X1RS > oomlout_OOMP_parts : HEAD-I01-X-PI2X10-RS-H2X10RS](#szkicadoomloutoompkicadoomloutoomppartsheadi1xpi2x1rsh2x1rs--oomlout_oomp_parts--head-i01-x-pi2x10-rs-h2x10rs)
+* [SZOOMPKOOMPPHEADI1XPI2X1RSH2X1RS > oomlout_OOMP_parts : HEAD-I01-X-PI2X10-RS-H2X10RS](#szoompkoomppheadi1xpi2x1rsh2x1rs--oomlout_oomp_parts--head-i01-x-pi2x10-rs-h2x10rs)
 	* [Tags](#tags)
   
 NO IMAGE  
-# SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSHEADI1XPI2X1RSH2X1RS > oomlout_OOMP_parts : HEAD-I01-X-PI2X10-RS-H2X10RS
+# SZOOMPKOOMPPHEADI1XPI2X1RSH2X1RS > oomlout_OOMP_parts : HEAD-I01-X-PI2X10-RS-H2X10RS
 
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-I01-X-PI2X10-RS-H2X10RS
-- Hex ID: SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSHEADI1XPI2X1RSH2X1RS
+- Hex ID: SZOOMPKOOMPPHEADI1XPI2X1RSH2X1RS
 - Name: oomlout_OOMP_parts : HEAD-I01-X-PI2X10-RS-H2X10RS
 - Description: oomlout_OOMP_parts : HEAD-I01-X-PI2X10-RS-H2X10RS
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-I01-X-PI2X10-RS-H2X10RS](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-I01-X-PI2X10-RS-H2X10RS)
-- Short Link: [http://oom.lt/SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSHEADI1XPI2X1RSH2X1RS](http://oom.lt/SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSHEADI1XPI2X1RSH2X1RS)
+- Short Link: [http://oom.lt/SZOOMPKOOMPPHEADI1XPI2X1RSH2X1RS](http://oom.lt/SZOOMPKOOMPPHEADI1XPI2X1RSH2X1RS)
   
 NO IMAGES  
 ## Tags
@@ -30,7 +30,7 @@ NO IMAGES
 |OOMP Description|oompDesc|oomlout_OOMP_parts|
 |OOMP Index|oompIndex|HEAD-I01-X-PI2X10-RS-H2X10RS|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-I01-X-PI2X10-RS-H2X10RS|
-|Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSHEADI1XPI2X1RSH2X1RS|
+|Hex ID (short code)|hexID|SZOOMPKOOMPPHEADI1XPI2X1RSH2X1RS|
 |name|name|oomlout_OOMP_parts : HEAD-I01-X-PI2X10-RS-H2X10RS|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'J'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'HEAD-I01-X-PI2X10-RS-H2X10RS'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'oomlout_OOMP_parts</td></tr><tr><td>HEAD-I01-X-PI2X10-RS-H2X10RS'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'oom.lt/H2X10RS'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'connector'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'hexID</td></tr><tr><td> H2X10RS;Generic connector</td><td> double row</td><td> 02x10</td><td> odd/even pin numbering scheme (row 1 odd numbers</td><td> row 2 even numbers)</td><td> script generated (kicad-library-utils/schlib/autogen/connector/)'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Connector*</td></tr><tr><td>*_2x??_*'</td></tr></table>]|
 ||||

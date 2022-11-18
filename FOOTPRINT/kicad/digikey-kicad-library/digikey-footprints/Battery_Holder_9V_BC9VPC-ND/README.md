@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSBATHOLDER9VBC9VPCND > digikey-footprints : Battery_Holder_9V_BC9VPC-ND](#fzkicaddigikeykicadlibrarydigikeyfootprintsbatholder9vbc9vpcnd--digikey-footprints--battery_holder_9v_bc9vpc-nd)
+* [FZDIGIDIGIKEYFOOTPRINTSBATHOLDER9VBC9VPCND > digikey-footprints : Battery_Holder_9V_BC9VPC-ND](#fzdigidigikeyfootprintsbatholder9vbc9vpcnd--digikey-footprints--battery_holder_9v_bc9vpc-nd)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSBATHOLDER9VBC9VPCND > digikey-footprints : Battery_Holder_9V_BC9VPC-ND
+# FZDIGIDIGIKEYFOOTPRINTSBATHOLDER9VBC9VPCND > digikey-footprints : Battery_Holder_9V_BC9VPC-ND
 
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Battery_Holder_9V_BC9VPC-ND
-- Hex ID: FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSBATHOLDER9VBC9VPCND
+- Hex ID: FZDIGIDIGIKEYFOOTPRINTSBATHOLDER9VBC9VPCND
 - Name: digikey-footprints : Battery_Holder_9V_BC9VPC-ND
 - Description: digikey-footprints : Battery_Holder_9V_BC9VPC-ND
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Battery_Holder_9V_BC9VPC-ND](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Battery_Holder_9V_BC9VPC-ND)
-- Short Link: [http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSBATHOLDER9VBC9VPCND](http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSBATHOLDER9VBC9VPCND)
+- Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSBATHOLDER9VBC9VPCND](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSBATHOLDER9VBC9VPCND)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|digikey-footprints|
 |OOMP Index|oompIndex|Battery_Holder_9V_BC9VPC-ND|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Battery_Holder_9V_BC9VPC-ND|
-|Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSBATHOLDER9VBC9VPCND|
+|Hex ID (short code)|hexID|FZDIGIDIGIKEYFOOTPRINTSBATHOLDER9VBC9VPCND|
 |name|name|digikey-footprints : Battery_Holder_9V_BC9VPC-ND|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Battery_Holder_9V_BC9VPC-ND'</td><td> 'description'</td></tr><tr><td> 'http</td></tr><tr><td>//www.memoryprotectiondevices.com/datasheets/BC9VPC-datasheet.pdf'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> None</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'oval'</td></tr></table></td></tr></table>|
 ||||

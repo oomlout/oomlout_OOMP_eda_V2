@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [SZKANALOGSWITCHFSA3157L6X > Analog_Switch : FSA3157L6X](#szkanalogswitchfsa3157l6x--analog_switch--fsa3157l6x)
+* [SZKANALOGSWFSA3157L6X > Analog_Switch : FSA3157L6X](#szkanalogswfsa3157l6x--analog_switch--fsa3157l6x)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# SZKANALOGSWITCHFSA3157L6X > Analog_Switch : FSA3157L6X
+# SZKANALOGSWFSA3157L6X > Analog_Switch : FSA3157L6X
 
 - ID: SYMBOL-kicad-kicad-symbols-Analog_Switch-FSA3157L6X
-- Hex ID: SZKANALOGSWITCHFSA3157L6X
+- Hex ID: SZKANALOGSWFSA3157L6X
 - Name: Analog_Switch : FSA3157L6X
 - Description: Analog_Switch : FSA3157L6X
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_Switch-FSA3157L6X](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_Switch-FSA3157L6X)
-- Short Link: [http://oom.lt/SZKANALOGSWITCHFSA3157L6X](http://oom.lt/SZKANALOGSWITCHFSA3157L6X)
+- Short Link: [http://oom.lt/SZKANALOGSWFSA3157L6X](http://oom.lt/SZKANALOGSWFSA3157L6X)
 
 ## Images
   
@@ -36,7 +36,7 @@ Contents
 |OOMP Description|oompDesc|Analog_Switch|
 |OOMP Index|oompIndex|FSA3157L6X|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Analog_Switch-FSA3157L6X|
-|Hex ID (short code)|hexID|SZKANALOGSWITCHFSA3157L6X|
+|Hex ID (short code)|hexID|SZKANALOGSWFSA3157L6X|
 |name|name|Analog_Switch : FSA3157L6X|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'NC7SB3157L6X'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'FSA3157L6X'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SON</td></tr><tr><td>Fairchild_MicroPak-6_1.0x1.45mm_P0.5mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.onsemi.com/pub/Collateral/NC7SB3157-D.PDF'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'CMOS Analog Switch'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Single SPDT Low-Voltage Analog Switch or 2</td></tr><tr><td>1 Multiplexer/De-Multiplexer Bus Switch</td><td> 10Ohm Ron</td><td> MicroPak-6'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Fairchild*MicroPak*1.0x1.45mm*P0.5mm*'</td></tr></table>]|
 ||||

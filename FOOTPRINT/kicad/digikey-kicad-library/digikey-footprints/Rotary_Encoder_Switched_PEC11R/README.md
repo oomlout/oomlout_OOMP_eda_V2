@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSRESWITCHEDPEC11R > digikey-footprints : Rotary_Encoder_Switched_PEC11R](#fzkicaddigikeykicadlibrarydigikeyfootprintsreswitchedpec11r--digikey-footprints--rotary_encoder_switched_pec11r)
+* [FZDIGIDIGIKEYFOOTPRINTSRESWEDPEC11R > digikey-footprints : Rotary_Encoder_Switched_PEC11R](#fzdigidigikeyfootprintsreswedpec11r--digikey-footprints--rotary_encoder_switched_pec11r)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSRESWITCHEDPEC11R > digikey-footprints : Rotary_Encoder_Switched_PEC11R
+# FZDIGIDIGIKEYFOOTPRINTSRESWEDPEC11R > digikey-footprints : Rotary_Encoder_Switched_PEC11R
 
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Rotary_Encoder_Switched_PEC11R
-- Hex ID: FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSRESWITCHEDPEC11R
+- Hex ID: FZDIGIDIGIKEYFOOTPRINTSRESWEDPEC11R
 - Name: digikey-footprints : Rotary_Encoder_Switched_PEC11R
 - Description: digikey-footprints : Rotary_Encoder_Switched_PEC11R
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Rotary_Encoder_Switched_PEC11R](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Rotary_Encoder_Switched_PEC11R)
-- Short Link: [http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSRESWITCHEDPEC11R](http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSRESWITCHEDPEC11R)
+- Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSRESWEDPEC11R](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSRESWEDPEC11R)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|digikey-footprints|
 |OOMP Index|oompIndex|Rotary_Encoder_Switched_PEC11R|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Rotary_Encoder_Switched_PEC11R|
-|Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSRESWITCHEDPEC11R|
+|Hex ID (short code)|hexID|FZDIGIDIGIKEYFOOTPRINTSRESWEDPEC11R|
 |name|name|digikey-footprints : Rotary_Encoder_Switched_PEC11R|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Rotary_Encoder_Switched_PEC11R'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> None</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

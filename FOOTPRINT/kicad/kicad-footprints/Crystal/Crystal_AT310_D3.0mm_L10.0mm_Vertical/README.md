@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKXXAT31D3L1VERTICAL > Crystal : Crystal_AT310_D3.0mm_L10.0mm_Vertical](#fzkxxat31d3l1vertical--crystal--crystal_at310_d30mm_l100mm_vertical)
+* [FZKXXAT31D3L1F > Crystal : Crystal_AT310_D3.0mm_L10.0mm_Vertical](#fzkxxat31d3l1f--crystal--crystal_at310_d30mm_l100mm_vertical)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKXXAT31D3L1VERTICAL > Crystal : Crystal_AT310_D3.0mm_L10.0mm_Vertical
+# FZKXXAT31D3L1F > Crystal : Crystal_AT310_D3.0mm_L10.0mm_Vertical
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_AT310_D3.0mm_L10.0mm_Vertical
-- Hex ID: FZKXXAT31D3L1VERTICAL
+- Hex ID: FZKXXAT31D3L1F
 - Name: Crystal : Crystal_AT310_D3.0mm_L10.0mm_Vertical
 - Description: Crystal : Crystal_AT310_D3.0mm_L10.0mm_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_AT310_D3.0mm_L10.0mm_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_AT310_D3.0mm_L10.0mm_Vertical)
-- Short Link: [http://oom.lt/FZKXXAT31D3L1VERTICAL](http://oom.lt/FZKXXAT31D3L1VERTICAL)
+- Short Link: [http://oom.lt/FZKXXAT31D3L1F](http://oom.lt/FZKXXAT31D3L1F)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Crystal|
 |OOMP Index|oompIndex|Crystal_AT310_D3.0mm_L10.0mm_Vertical|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_AT310_D3.0mm_L10.0mm_Vertical|
-|Hex ID (short code)|hexID|FZKXXAT31D3L1VERTICAL|
+|Hex ID (short code)|hexID|FZKXXAT31D3L1F|
 |name|name|Crystal : Crystal_AT310_D3.0mm_L10.0mm_Vertical|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Crystal_AT310_D3.0mm_L10.0mm_Vertical'</td><td> 'description'</td></tr><tr><td> 'Crystal THT AT310 10.0mm-10.5mm length 3.0mm diameter http</td></tr><tr><td>//www.cinetech.com.tw/upload/2011/04/20110401165201.pdf'</td><td> 'tags'</td></tr><tr><td> "['AT310']"</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Crystal.3dshapes/Crystal_AT310_D3.0mm_L10.0mm_Vertical.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||

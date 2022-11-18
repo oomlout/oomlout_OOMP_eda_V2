@@ -6,9 +6,10 @@ Contents
 ========
 
 * [FZECONTYCOC5353652363 > con-tyco : C-5353652-36-3](#fzecontycoc5353652363--con-tyco--c-5353652-36-3)
+	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZECONTYCOC5353652363 > con-tyco : C-5353652-36-3
 
 - ID: FOOTPRINT-eagle-eagle-default-con-tyco-C-5353652-36-3
@@ -17,8 +18,14 @@ NO IMAGE
 - Description: con-tyco : C-5353652-36-3
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-tyco-C-5353652-36-3](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-tyco-C-5353652-36-3)
 - Short Link: [http://oom.lt/FZECONTYCOC5353652363](http://oom.lt/FZECONTYCOC5353652363)
+
+## Images
   
-NO IMAGES  
+
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/con-tyco/C-5353652-36-3/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/con-tyco/C-5353652-36-3/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/con-tyco/C-5353652-36-3/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/con-tyco/C-5353652-36-3/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/con-tyco/C-5353652-36-3/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/con-tyco/C-5353652-36-3/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/con-tyco/C-5353652-36-3/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/con-tyco/C-5353652-36-3/kicadPcb3dBack.png)|
+| :---: | :---: | :---: | :---: |
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/con-tyco/C-5353652-36-3/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/con-tyco/C-5353652-36-3/kicadPcb3d.png)||||
+
 ## Tags
   
 
@@ -33,3 +40,7 @@ NO IMAGES
 |Hex ID (short code)|hexID|FZECONTYCOC5353652363|
 |name|name|con-tyco : C-5353652-36-3|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

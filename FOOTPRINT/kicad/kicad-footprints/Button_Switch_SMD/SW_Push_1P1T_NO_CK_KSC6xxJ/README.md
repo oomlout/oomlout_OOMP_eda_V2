@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKBSWITCHSMSWPUSH1P1TNOCKKSC6XXJ > Button_Switch_SMD : SW_Push_1P1T_NO_CK_KSC6xxJ](#fzkbswitchsmswpush1p1tnockksc6xxj--button_switch_smd--sw_push_1p1t_no_ck_ksc6xxj)
+* [FZKBSWPUSH1P1TNOCKKSC6XXJ > Button_Switch_SMD : SW_Push_1P1T_NO_CK_KSC6xxJ](#fzkbswpush1p1tnockksc6xxj--button_switch_smd--sw_push_1p1t_no_ck_ksc6xxj)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKBSWITCHSMSWPUSH1P1TNOCKKSC6XXJ > Button_Switch_SMD : SW_Push_1P1T_NO_CK_KSC6xxJ
+# FZKBSWPUSH1P1TNOCKKSC6XXJ > Button_Switch_SMD : SW_Push_1P1T_NO_CK_KSC6xxJ
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-SW_Push_1P1T_NO_CK_KSC6xxJ
-- Hex ID: FZKBSWITCHSMSWPUSH1P1TNOCKKSC6XXJ
+- Hex ID: FZKBSWPUSH1P1TNOCKKSC6XXJ
 - Name: Button_Switch_SMD : SW_Push_1P1T_NO_CK_KSC6xxJ
 - Description: Button_Switch_SMD : SW_Push_1P1T_NO_CK_KSC6xxJ
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-SW_Push_1P1T_NO_CK_KSC6xxJ](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-SW_Push_1P1T_NO_CK_KSC6xxJ)
-- Short Link: [http://oom.lt/FZKBSWITCHSMSWPUSH1P1TNOCKKSC6XXJ](http://oom.lt/FZKBSWITCHSMSWPUSH1P1TNOCKKSC6XXJ)
+- Short Link: [http://oom.lt/FZKBSWPUSH1P1TNOCKKSC6XXJ](http://oom.lt/FZKBSWPUSH1P1TNOCKKSC6XXJ)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Button_Switch_SMD|
 |OOMP Index|oompIndex|SW_Push_1P1T_NO_CK_KSC6xxJ|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-SW_Push_1P1T_NO_CK_KSC6xxJ|
-|Hex ID (short code)|hexID|FZKBSWITCHSMSWPUSH1P1TNOCKKSC6XXJ|
+|Hex ID (short code)|hexID|FZKBSWPUSH1P1TNOCKKSC6XXJ|
 |name|name|Button_Switch_SMD : SW_Push_1P1T_NO_CK_KSC6xxJ|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'SW_Push_1P1T_NO_CK_KSC6xxJ'</td><td> 'description'</td></tr><tr><td> 'CK components KSC6 tactile switch https</td></tr><tr><td>//www.ckswitches.com/media/1972/ksc6.pdf'</td><td> 'tags'</td></tr><tr><td> 'tactile switch ksc6'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Button_Switch_SMD.3dshapes/SW_push_1P1T_NO_CK_KSC6xxJxxx.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

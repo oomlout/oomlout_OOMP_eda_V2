@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKINDUCTORSMLWUERTHWETPC3816 > Inductor_SMD : L_Wuerth_WE-TPC-3816](#fzkinductorsmlwuerthwetpc3816--inductor_smd--l_wuerth_we-tpc-3816)
+* [FZKINLWUERTHWETPC3816 > Inductor_SMD : L_Wuerth_WE-TPC-3816](#fzkinlwuerthwetpc3816--inductor_smd--l_wuerth_we-tpc-3816)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKINDUCTORSMLWUERTHWETPC3816 > Inductor_SMD : L_Wuerth_WE-TPC-3816
+# FZKINLWUERTHWETPC3816 > Inductor_SMD : L_Wuerth_WE-TPC-3816
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Wuerth_WE-TPC-3816
-- Hex ID: FZKINDUCTORSMLWUERTHWETPC3816
+- Hex ID: FZKINLWUERTHWETPC3816
 - Name: Inductor_SMD : L_Wuerth_WE-TPC-3816
 - Description: Inductor_SMD : L_Wuerth_WE-TPC-3816
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Wuerth_WE-TPC-3816](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Wuerth_WE-TPC-3816)
-- Short Link: [http://oom.lt/FZKINDUCTORSMLWUERTHWETPC3816](http://oom.lt/FZKINDUCTORSMLWUERTHWETPC3816)
+- Short Link: [http://oom.lt/FZKINLWUERTHWETPC3816](http://oom.lt/FZKINLWUERTHWETPC3816)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Inductor_SMD|
 |OOMP Index|oompIndex|L_Wuerth_WE-TPC-3816|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Wuerth_WE-TPC-3816|
-|Hex ID (short code)|hexID|FZKINDUCTORSMLWUERTHWETPC3816|
+|Hex ID (short code)|hexID|FZKINLWUERTHWETPC3816|
 |name|name|Inductor_SMD : L_Wuerth_WE-TPC-3816|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'L_Wuerth_WE-TPC-3816'</td><td> 'description'</td></tr><tr><td> 'L_Wuerth_WE-TPC-3816 StepUp generated footprint</td><td> http</td></tr><tr><td>//katalog.we-online.de/pbs/datasheet/7440310047.pdf'</td><td> 'tags'</td></tr><tr><td> 'wurth wuerth smd inductor'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Inductor_SMD.3dshapes/L_Wuerth_WE-TPC-3816.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'custom'</td></tr></table></td></tr></table>|
 ||||

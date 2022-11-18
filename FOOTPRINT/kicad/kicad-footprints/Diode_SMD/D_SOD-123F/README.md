@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKDIODESMDSOD123F > Diode_SMD : D_SOD-123F](#fzkdiodesmdsod123f--diode_smd--d_sod-123f)
+* [FZKDDSOD123F > Diode_SMD : D_SOD-123F](#fzkddsod123f--diode_smd--d_sod-123f)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKDIODESMDSOD123F > Diode_SMD : D_SOD-123F
+# FZKDDSOD123F > Diode_SMD : D_SOD-123F
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_SOD-123F
-- Hex ID: FZKDIODESMDSOD123F
+- Hex ID: FZKDDSOD123F
 - Name: Diode_SMD : D_SOD-123F
 - Description: Diode_SMD : D_SOD-123F
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_SOD-123F](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_SOD-123F)
-- Short Link: [http://oom.lt/FZKDIODESMDSOD123F](http://oom.lt/FZKDIODESMDSOD123F)
+- Short Link: [http://oom.lt/FZKDDSOD123F](http://oom.lt/FZKDDSOD123F)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Diode_SMD|
 |OOMP Index|oompIndex|D_SOD-123F|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_SOD-123F|
-|Hex ID (short code)|hexID|FZKDIODESMDSOD123F|
+|Hex ID (short code)|hexID|FZKDDSOD123F|
 |name|name|Diode_SMD : D_SOD-123F|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'D_SOD-123F'</td><td> 'description'</td></tr><tr><td> 'D_SOD-123F'</td><td> 'tags'</td></tr><tr><td> 'D_SOD-123F'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Diode_SMD.3dshapes/D_SOD-123F.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

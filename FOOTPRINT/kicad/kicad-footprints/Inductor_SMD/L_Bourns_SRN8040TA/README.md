@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKINDUCTORSMLBOURNSSRN84TA > Inductor_SMD : L_Bourns_SRN8040TA](#fzkinductorsmlbournssrn84ta--inductor_smd--l_bourns_srn8040ta)
+* [FZKINLBOURNSSRN84TA > Inductor_SMD : L_Bourns_SRN8040TA](#fzkinlbournssrn84ta--inductor_smd--l_bourns_srn8040ta)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKINDUCTORSMLBOURNSSRN84TA > Inductor_SMD : L_Bourns_SRN8040TA
+# FZKINLBOURNSSRN84TA > Inductor_SMD : L_Bourns_SRN8040TA
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Bourns_SRN8040TA
-- Hex ID: FZKINDUCTORSMLBOURNSSRN84TA
+- Hex ID: FZKINLBOURNSSRN84TA
 - Name: Inductor_SMD : L_Bourns_SRN8040TA
 - Description: Inductor_SMD : L_Bourns_SRN8040TA
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Bourns_SRN8040TA](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Bourns_SRN8040TA)
-- Short Link: [http://oom.lt/FZKINDUCTORSMLBOURNSSRN84TA](http://oom.lt/FZKINDUCTORSMLBOURNSSRN84TA)
+- Short Link: [http://oom.lt/FZKINLBOURNSSRN84TA](http://oom.lt/FZKINLBOURNSSRN84TA)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Inductor_SMD|
 |OOMP Index|oompIndex|L_Bourns_SRN8040TA|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Bourns_SRN8040TA|
-|Hex ID (short code)|hexID|FZKINDUCTORSMLBOURNSSRN84TA|
+|Hex ID (short code)|hexID|FZKINLBOURNSSRN84TA|
 |name|name|Inductor_SMD : L_Bourns_SRN8040TA|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'L_Bourns_SRN8040TA'</td><td> 'description'</td></tr><tr><td> 'https</td></tr><tr><td>//www.bourns.com/docs/product-datasheets/srn8040ta.pdf'</td><td> 'tags'</td></tr><tr><td> 'Inductor'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Inductor_SMD.3dshapes/L_Bourns_SRN8040TA.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

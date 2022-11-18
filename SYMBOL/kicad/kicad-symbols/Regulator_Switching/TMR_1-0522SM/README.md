@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [SZKREGULATORSWITCHINGTMR1522SM > Regulator_Switching : TMR_1-0522SM](#szkregulatorswitchingtmr1522sm--regulator_switching--tmr_1-0522sm)
+* [SZKREGULATORSWINGTMR1522SM > Regulator_Switching : TMR_1-0522SM](#szkregulatorswingtmr1522sm--regulator_switching--tmr_1-0522sm)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# SZKREGULATORSWITCHINGTMR1522SM > Regulator_Switching : TMR_1-0522SM
+# SZKREGULATORSWINGTMR1522SM > Regulator_Switching : TMR_1-0522SM
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-TMR_1-0522SM
-- Hex ID: SZKREGULATORSWITCHINGTMR1522SM
+- Hex ID: SZKREGULATORSWINGTMR1522SM
 - Name: Regulator_Switching : TMR_1-0522SM
 - Description: Regulator_Switching : TMR_1-0522SM
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TMR_1-0522SM](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TMR_1-0522SM)
-- Short Link: [http://oom.lt/SZKREGULATORSWITCHINGTMR1522SM](http://oom.lt/SZKREGULATORSWITCHINGTMR1522SM)
+- Short Link: [http://oom.lt/SZKREGULATORSWINGTMR1522SM](http://oom.lt/SZKREGULATORSWINGTMR1522SM)
 
 ## Images
   
@@ -36,7 +36,7 @@ Contents
 |OOMP Description|oompDesc|Regulator_Switching|
 |OOMP Index|oompIndex|TMR_1-0522SM|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-TMR_1-0522SM|
-|Hex ID (short code)|hexID|SZKREGULATORSWITCHINGTMR1522SM|
+|Hex ID (short code)|hexID|SZKREGULATORSWINGTMR1522SM|
 |name|name|Regulator_Switching : TMR_1-0522SM|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'TMR_1-0522SM'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Converter_DCDC</td></tr><tr><td>Converter_DCDC_TRACO_TMR-1SM_SMD'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//assets.tracopower.com/TMR1SM/documents/tmr1sm-datasheet.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Murata isolated isolation dc-dc converter transformer'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '+/-42mA Regulated 1W DC/DC converter with 1.5kV isolation</td><td> 4.5V-9V input</td><td> +/-12V fixed Output Voltage</td><td> SMD'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Converter*DCDC*TRACO*TMR-1SM*SMD*'</td></tr></table>]|
 ||||

@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKPACKAGETOSOTSMSOT323SC7 > Package_TO_SOT_SMD : SOT-323_SC-70](#fzkpackagetosotsmsot323sc7--package_to_sot_smd--sot-323_sc-70)
+* [FZKSOTSOT323SC7 > Package_TO_SOT_SMD : SOT-323_SC-70](#fzksotsot323sc7--package_to_sot_smd--sot-323_sc-70)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKPACKAGETOSOTSMSOT323SC7 > Package_TO_SOT_SMD : SOT-323_SC-70
+# FZKSOTSOT323SC7 > Package_TO_SOT_SMD : SOT-323_SC-70
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-323_SC-70
-- Hex ID: FZKPACKAGETOSOTSMSOT323SC7
+- Hex ID: FZKSOTSOT323SC7
 - Name: Package_TO_SOT_SMD : SOT-323_SC-70
 - Description: Package_TO_SOT_SMD : SOT-323_SC-70
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-323_SC-70](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-323_SC-70)
-- Short Link: [http://oom.lt/FZKPACKAGETOSOTSMSOT323SC7](http://oom.lt/FZKPACKAGETOSOTSMSOT323SC7)
+- Short Link: [http://oom.lt/FZKSOTSOT323SC7](http://oom.lt/FZKSOTSOT323SC7)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Package_TO_SOT_SMD|
 |OOMP Index|oompIndex|SOT-323_SC-70|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-323_SC-70|
-|Hex ID (short code)|hexID|FZKPACKAGETOSOTSMSOT323SC7|
+|Hex ID (short code)|hexID|FZKSOTSOT323SC7|
 |name|name|Package_TO_SOT_SMD : SOT-323_SC-70|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'SOT-323_SC-70'</td><td> 'description'</td></tr><tr><td> 'SOT-323</td><td> SC-70'</td><td> 'tags'</td></tr><tr><td> 'SOT-323 SC-70'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_TO_SOT_SMD.3dshapes/SOT-323_SC-70.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

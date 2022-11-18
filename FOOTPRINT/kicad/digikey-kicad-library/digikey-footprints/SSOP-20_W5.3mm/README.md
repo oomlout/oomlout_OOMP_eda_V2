@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSS2W53 > digikey-footprints : SSOP-20_W5.3mm](#fzkicaddigikeykicadlibrarydigikeyfootprintsss2w53--digikey-footprints--ssop-20_w53mm)
+* [FZDIGIDIGIKEYFOOTPRINTSSS2W53 > digikey-footprints : SSOP-20_W5.3mm](#fzdigidigikeyfootprintsss2w53--digikey-footprints--ssop-20_w53mm)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSS2W53 > digikey-footprints : SSOP-20_W5.3mm
+# FZDIGIDIGIKEYFOOTPRINTSSS2W53 > digikey-footprints : SSOP-20_W5.3mm
 
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SSOP-20_W5.3mm
-- Hex ID: FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSS2W53
+- Hex ID: FZDIGIDIGIKEYFOOTPRINTSSS2W53
 - Name: digikey-footprints : SSOP-20_W5.3mm
 - Description: digikey-footprints : SSOP-20_W5.3mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SSOP-20_W5.3mm](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SSOP-20_W5.3mm)
-- Short Link: [http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSS2W53](http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSS2W53)
+- Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSSS2W53](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSSS2W53)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|digikey-footprints|
 |OOMP Index|oompIndex|SSOP-20_W5.3mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SSOP-20_W5.3mm|
-|Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSS2W53|
+|Hex ID (short code)|hexID|FZDIGIDIGIKEYFOOTPRINTSSS2W53|
 |name|name|digikey-footprints : SSOP-20_W5.3mm|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'SSOP-20_W5.3mm'</td><td> 'description'</td></tr><tr><td> 'http</td></tr><tr><td>//ww1.microchip.com/downloads/en/DeviceDoc/41606B.pdf'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

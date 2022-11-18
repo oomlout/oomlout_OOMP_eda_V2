@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKINDUCTORSMLWUERTHHCI13 > Inductor_SMD : L_Wuerth_HCI-1030](#fzkinductorsmlwuerthhci13--inductor_smd--l_wuerth_hci-1030)
+* [FZKINLWUERTHHCI13 > Inductor_SMD : L_Wuerth_HCI-1030](#fzkinlwuerthhci13--inductor_smd--l_wuerth_hci-1030)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKINDUCTORSMLWUERTHHCI13 > Inductor_SMD : L_Wuerth_HCI-1030
+# FZKINLWUERTHHCI13 > Inductor_SMD : L_Wuerth_HCI-1030
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Wuerth_HCI-1030
-- Hex ID: FZKINDUCTORSMLWUERTHHCI13
+- Hex ID: FZKINLWUERTHHCI13
 - Name: Inductor_SMD : L_Wuerth_HCI-1030
 - Description: Inductor_SMD : L_Wuerth_HCI-1030
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Wuerth_HCI-1030](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Wuerth_HCI-1030)
-- Short Link: [http://oom.lt/FZKINDUCTORSMLWUERTHHCI13](http://oom.lt/FZKINDUCTORSMLWUERTHHCI13)
+- Short Link: [http://oom.lt/FZKINLWUERTHHCI13](http://oom.lt/FZKINLWUERTHHCI13)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Inductor_SMD|
 |OOMP Index|oompIndex|L_Wuerth_HCI-1030|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Wuerth_HCI-1030|
-|Hex ID (short code)|hexID|FZKINDUCTORSMLWUERTHHCI13|
+|Hex ID (short code)|hexID|FZKINLWUERTHHCI13|
 |name|name|Inductor_SMD : L_Wuerth_HCI-1030|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'L_Wuerth_HCI-1030'</td><td> 'description'</td></tr><tr><td> 'Inductor</td><td> Wuerth Elektronik</td><td> Wuerth_HCI-1030</td><td> 10.6mmx10.6mm'</td><td> 'tags'</td></tr><tr><td> 'inductor Wuerth hci smd'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Inductor_SMD.3dshapes/L_Wuerth_HCI-1030.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

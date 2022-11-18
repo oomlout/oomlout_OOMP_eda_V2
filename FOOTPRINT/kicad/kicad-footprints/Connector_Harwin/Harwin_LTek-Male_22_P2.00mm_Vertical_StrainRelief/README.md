@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKCNHARWINHARWINLTEKMALE22P2VERTICALSTRAINRELIEF > Connector_Harwin : Harwin_LTek-Male_22_P2.00mm_Vertical_StrainRelief](#fzkcnharwinharwinltekmale22p2verticalstrainrelief--connector_harwin--harwin_ltek-male_22_p200mm_vertical_strainrelief)
+* [FZKCNHARWINHARWINLTEKMALE22P2FSTRAINRELIEF > Connector_Harwin : Harwin_LTek-Male_22_P2.00mm_Vertical_StrainRelief](#fzkcnharwinharwinltekmale22p2fstrainrelief--connector_harwin--harwin_ltek-male_22_p200mm_vertical_strainrelief)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKCNHARWINHARWINLTEKMALE22P2VERTICALSTRAINRELIEF > Connector_Harwin : Harwin_LTek-Male_22_P2.00mm_Vertical_StrainRelief
+# FZKCNHARWINHARWINLTEKMALE22P2FSTRAINRELIEF > Connector_Harwin : Harwin_LTek-Male_22_P2.00mm_Vertical_StrainRelief
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_Harwin-Harwin_LTek-Male_22_P2.00mm_Vertical_StrainRelief
-- Hex ID: FZKCNHARWINHARWINLTEKMALE22P2VERTICALSTRAINRELIEF
+- Hex ID: FZKCNHARWINHARWINLTEKMALE22P2FSTRAINRELIEF
 - Name: Connector_Harwin : Harwin_LTek-Male_22_P2.00mm_Vertical_StrainRelief
 - Description: Connector_Harwin : Harwin_LTek-Male_22_P2.00mm_Vertical_StrainRelief
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Harwin-Harwin_LTek-Male_22_P2.00mm_Vertical_StrainRelief](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Harwin-Harwin_LTek-Male_22_P2.00mm_Vertical_StrainRelief)
-- Short Link: [http://oom.lt/FZKCNHARWINHARWINLTEKMALE22P2VERTICALSTRAINRELIEF](http://oom.lt/FZKCNHARWINHARWINLTEKMALE22P2VERTICALSTRAINRELIEF)
+- Short Link: [http://oom.lt/FZKCNHARWINHARWINLTEKMALE22P2FSTRAINRELIEF](http://oom.lt/FZKCNHARWINHARWINLTEKMALE22P2FSTRAINRELIEF)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Connector_Harwin|
 |OOMP Index|oompIndex|Harwin_LTek-Male_22_P2.00mm_Vertical_StrainRelief|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Harwin-Harwin_LTek-Male_22_P2.00mm_Vertical_StrainRelief|
-|Hex ID (short code)|hexID|FZKCNHARWINHARWINLTEKMALE22P2VERTICALSTRAINRELIEF|
+|Hex ID (short code)|hexID|FZKCNHARWINHARWINLTEKMALE22P2FSTRAINRELIEF|
 |name|name|Connector_Harwin : Harwin_LTek-Male_22_P2.00mm_Vertical_StrainRelief|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Harwin_LTek-Male_22_P2.00mm_Vertical_StrainRelief'</td><td> 'description'</td></tr><tr><td> 'Harwin LTek Connector</td><td> 22 pins</td><td> single row male</td><td> vertical entry</td><td> strain relief clip'</td><td> 'tags'</td></tr><tr><td> 'connector harwin ltek M80'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_Harwin.3dshapes/Harwin_LTek-Male_22_P2.00mm_Vertical_StrainRelief.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||

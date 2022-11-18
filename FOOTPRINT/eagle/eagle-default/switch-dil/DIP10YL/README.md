@@ -5,18 +5,18 @@
 Contents
 ========
 
-* [FZESWITCHDILDIP1YL > switch-dil : DIP10YL](#fzeswitchdildip1yl--switch-dil--dip10yl)
+* [FZESWDILDIP1YL > switch-dil : DIP10YL](#fzeswdildip1yl--switch-dil--dip10yl)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZESWITCHDILDIP1YL > switch-dil : DIP10YL
+# FZESWDILDIP1YL > switch-dil : DIP10YL
 
 - ID: FOOTPRINT-eagle-eagle-default-switch-dil-DIP10YL
-- Hex ID: FZESWITCHDILDIP1YL
+- Hex ID: FZESWDILDIP1YL
 - Name: switch-dil : DIP10YL
 - Description: switch-dil : DIP10YL
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-dil-DIP10YL](http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-dil-DIP10YL)
-- Short Link: [http://oom.lt/FZESWITCHDILDIP1YL](http://oom.lt/FZESWITCHDILDIP1YL)
+- Short Link: [http://oom.lt/FZESWDILDIP1YL](http://oom.lt/FZESWDILDIP1YL)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +30,6 @@ NO IMAGES
 |OOMP Description|oompDesc|switch-dil|
 |OOMP Index|oompIndex|DIP10YL|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-switch-dil-DIP10YL|
-|Hex ID (short code)|hexID|FZESWITCHDILDIP1YL|
+|Hex ID (short code)|hexID|FZESWDILDIP1YL|
 |name|name|switch-dil : DIP10YL|
 ||||

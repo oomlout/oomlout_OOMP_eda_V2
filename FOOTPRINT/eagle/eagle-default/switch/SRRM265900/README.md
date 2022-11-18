@@ -5,18 +5,18 @@
 Contents
 ========
 
-* [FZESWITCHSRRM2659 > switch : SRRM265900](#fzeswitchsrrm2659--switch--srrm265900)
+* [FZESWSRRM2659 > switch : SRRM265900](#fzeswsrrm2659--switch--srrm265900)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZESWITCHSRRM2659 > switch : SRRM265900
+# FZESWSRRM2659 > switch : SRRM265900
 
 - ID: FOOTPRINT-eagle-eagle-default-switch-SRRM265900
-- Hex ID: FZESWITCHSRRM2659
+- Hex ID: FZESWSRRM2659
 - Name: switch : SRRM265900
 - Description: switch : SRRM265900
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-SRRM265900](http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-SRRM265900)
-- Short Link: [http://oom.lt/FZESWITCHSRRM2659](http://oom.lt/FZESWITCHSRRM2659)
+- Short Link: [http://oom.lt/FZESWSRRM2659](http://oom.lt/FZESWSRRM2659)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +30,6 @@ NO IMAGES
 |OOMP Description|oompDesc|switch|
 |OOMP Index|oompIndex|SRRM265900|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-switch-SRRM265900|
-|Hex ID (short code)|hexID|FZESWITCHSRRM2659|
+|Hex ID (short code)|hexID|FZESWSRRM2659|
 |name|name|switch : SRRM265900|
 ||||

@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSM433X28PD1522CTR8 > digikey-footprints : SMD-4_3.3x2.8_PD15-22C_TR8](#fzkicaddigikeykicadlibrarydigikeyfootprintssm433x28pd1522ctr8--digikey-footprints--smd-4_33x28_pd15-22c_tr8)
+* [FZDIGIDIGIKEYFOOTPRINTSSM433X28PD1522CTR8 > digikey-footprints : SMD-4_3.3x2.8_PD15-22C_TR8](#fzdigidigikeyfootprintssm433x28pd1522ctr8--digikey-footprints--smd-4_33x28_pd15-22c_tr8)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSM433X28PD1522CTR8 > digikey-footprints : SMD-4_3.3x2.8_PD15-22C_TR8
+# FZDIGIDIGIKEYFOOTPRINTSSM433X28PD1522CTR8 > digikey-footprints : SMD-4_3.3x2.8_PD15-22C_TR8
 
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SMD-4_3.3x2.8_PD15-22C_TR8
-- Hex ID: FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSM433X28PD1522CTR8
+- Hex ID: FZDIGIDIGIKEYFOOTPRINTSSM433X28PD1522CTR8
 - Name: digikey-footprints : SMD-4_3.3x2.8_PD15-22C_TR8
 - Description: digikey-footprints : SMD-4_3.3x2.8_PD15-22C_TR8
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SMD-4_3.3x2.8_PD15-22C_TR8](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SMD-4_3.3x2.8_PD15-22C_TR8)
-- Short Link: [http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSM433X28PD1522CTR8](http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSM433X28PD1522CTR8)
+- Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSSM433X28PD1522CTR8](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSSM433X28PD1522CTR8)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|digikey-footprints|
 |OOMP Index|oompIndex|SMD-4_3.3x2.8_PD15-22C_TR8|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SMD-4_3.3x2.8_PD15-22C_TR8|
-|Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSM433X28PD1522CTR8|
+|Hex ID (short code)|hexID|FZDIGIDIGIKEYFOOTPRINTSSM433X28PD1522CTR8|
 |name|name|digikey-footprints : SMD-4_3.3x2.8_PD15-22C_TR8|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'SMD-4_3.3x2.8_PD15-22C_TR8'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

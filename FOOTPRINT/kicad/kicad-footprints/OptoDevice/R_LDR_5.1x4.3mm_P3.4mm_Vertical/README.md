@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKOPRLDR51X43P34VERTICAL > OptoDevice : R_LDR_5.1x4.3mm_P3.4mm_Vertical](#fzkoprldr51x43p34vertical--optodevice--r_ldr_51x43mm_p34mm_vertical)
+* [FZKOPRLDR51X43P34F > OptoDevice : R_LDR_5.1x4.3mm_P3.4mm_Vertical](#fzkoprldr51x43p34f--optodevice--r_ldr_51x43mm_p34mm_vertical)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKOPRLDR51X43P34VERTICAL > OptoDevice : R_LDR_5.1x4.3mm_P3.4mm_Vertical
+# FZKOPRLDR51X43P34F > OptoDevice : R_LDR_5.1x4.3mm_P3.4mm_Vertical
 
 - ID: FOOTPRINT-kicad-kicad-footprints-OptoDevice-R_LDR_5.1x4.3mm_P3.4mm_Vertical
-- Hex ID: FZKOPRLDR51X43P34VERTICAL
+- Hex ID: FZKOPRLDR51X43P34F
 - Name: OptoDevice : R_LDR_5.1x4.3mm_P3.4mm_Vertical
 - Description: OptoDevice : R_LDR_5.1x4.3mm_P3.4mm_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-OptoDevice-R_LDR_5.1x4.3mm_P3.4mm_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-OptoDevice-R_LDR_5.1x4.3mm_P3.4mm_Vertical)
-- Short Link: [http://oom.lt/FZKOPRLDR51X43P34VERTICAL](http://oom.lt/FZKOPRLDR51X43P34VERTICAL)
+- Short Link: [http://oom.lt/FZKOPRLDR51X43P34F](http://oom.lt/FZKOPRLDR51X43P34F)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|OptoDevice|
 |OOMP Index|oompIndex|R_LDR_5.1x4.3mm_P3.4mm_Vertical|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-OptoDevice-R_LDR_5.1x4.3mm_P3.4mm_Vertical|
-|Hex ID (short code)|hexID|FZKOPRLDR51X43P34VERTICAL|
+|Hex ID (short code)|hexID|FZKOPRLDR51X43P34F|
 |name|name|OptoDevice : R_LDR_5.1x4.3mm_P3.4mm_Vertical|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'R_LDR_5.1x4.3mm_P3.4mm_Vertical'</td><td> 'description'</td></tr><tr><td> 'Resistor</td><td> LDR 5.1x3.4mm</td><td> see http</td></tr><tr><td>//yourduino.com/docs/Photoresistor-5516-datasheet.pdf'</td><td> 'tags'</td></tr><tr><td> 'Resistor LDR5.1x3.4mm'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/OptoDevice.3dshapes/R_LDR_5.1x4.3mm_P3.4mm_Vertical.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||

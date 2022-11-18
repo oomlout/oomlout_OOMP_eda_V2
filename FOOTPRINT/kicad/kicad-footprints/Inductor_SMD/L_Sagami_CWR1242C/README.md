@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKINDUCTORSMLSAGAMICWR1242C > Inductor_SMD : L_Sagami_CWR1242C](#fzkinductorsmlsagamicwr1242c--inductor_smd--l_sagami_cwr1242c)
+* [FZKINLSAGAMICWR1242C > Inductor_SMD : L_Sagami_CWR1242C](#fzkinlsagamicwr1242c--inductor_smd--l_sagami_cwr1242c)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKINDUCTORSMLSAGAMICWR1242C > Inductor_SMD : L_Sagami_CWR1242C
+# FZKINLSAGAMICWR1242C > Inductor_SMD : L_Sagami_CWR1242C
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Sagami_CWR1242C
-- Hex ID: FZKINDUCTORSMLSAGAMICWR1242C
+- Hex ID: FZKINLSAGAMICWR1242C
 - Name: Inductor_SMD : L_Sagami_CWR1242C
 - Description: Inductor_SMD : L_Sagami_CWR1242C
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Sagami_CWR1242C](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Sagami_CWR1242C)
-- Short Link: [http://oom.lt/FZKINDUCTORSMLSAGAMICWR1242C](http://oom.lt/FZKINDUCTORSMLSAGAMICWR1242C)
+- Short Link: [http://oom.lt/FZKINLSAGAMICWR1242C](http://oom.lt/FZKINLSAGAMICWR1242C)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Inductor_SMD|
 |OOMP Index|oompIndex|L_Sagami_CWR1242C|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Sagami_CWR1242C|
-|Hex ID (short code)|hexID|FZKINDUCTORSMLSAGAMICWR1242C|
+|Hex ID (short code)|hexID|FZKINLSAGAMICWR1242C|
 |name|name|Inductor_SMD : L_Sagami_CWR1242C|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'L_Sagami_CWR1242C'</td><td> 'description'</td></tr><tr><td> 'Sagami power inductor</td><td> CWR1242C</td><td> H=4.5mm (http</td></tr><tr><td>//www.sagami-elec.co.jp/file/16Car_SMDCwr.pdf)'</td><td> 'tags'</td></tr><tr><td> 'inductor sagami cwr12xx smd'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Inductor_SMD.3dshapes/L_Sagami_CWR1242C.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

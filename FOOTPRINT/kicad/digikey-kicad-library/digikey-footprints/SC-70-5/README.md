@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSC75 > digikey-footprints : SC-70-5](#fzkicaddigikeykicadlibrarydigikeyfootprintssc75--digikey-footprints--sc-70-5)
+* [FZDIGIDIGIKEYFOOTPRINTSSC75 > digikey-footprints : SC-70-5](#fzdigidigikeyfootprintssc75--digikey-footprints--sc-70-5)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSC75 > digikey-footprints : SC-70-5
+# FZDIGIDIGIKEYFOOTPRINTSSC75 > digikey-footprints : SC-70-5
 
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SC-70-5
-- Hex ID: FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSC75
+- Hex ID: FZDIGIDIGIKEYFOOTPRINTSSC75
 - Name: digikey-footprints : SC-70-5
 - Description: digikey-footprints : SC-70-5
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SC-70-5](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SC-70-5)
-- Short Link: [http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSC75](http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSC75)
+- Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSSC75](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSSC75)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|digikey-footprints|
 |OOMP Index|oompIndex|SC-70-5|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SC-70-5|
-|Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSC75|
+|Hex ID (short code)|hexID|FZDIGIDIGIKEYFOOTPRINTSSC75|
 |name|name|digikey-footprints : SC-70-5|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'SC-70-5'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKDIODESMD25126332METRICPAD152X335HANDSOLDER > Diode_SMD : D_2512_6332Metric_Pad1.52x3.35mm_HandSolder](#fzkdiodesmd25126332metricpad152x335handsolder--diode_smd--d_2512_6332metric_pad152x335mm_handsolder)
+* [FZKDD25126332VAPAD152X335HANDSOLDER > Diode_SMD : D_2512_6332Metric_Pad1.52x3.35mm_HandSolder](#fzkdd25126332vapad152x335handsolder--diode_smd--d_2512_6332metric_pad152x335mm_handsolder)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKDIODESMD25126332METRICPAD152X335HANDSOLDER > Diode_SMD : D_2512_6332Metric_Pad1.52x3.35mm_HandSolder
+# FZKDD25126332VAPAD152X335HANDSOLDER > Diode_SMD : D_2512_6332Metric_Pad1.52x3.35mm_HandSolder
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_2512_6332Metric_Pad1.52x3.35mm_HandSolder
-- Hex ID: FZKDIODESMD25126332METRICPAD152X335HANDSOLDER
+- Hex ID: FZKDD25126332VAPAD152X335HANDSOLDER
 - Name: Diode_SMD : D_2512_6332Metric_Pad1.52x3.35mm_HandSolder
 - Description: Diode_SMD : D_2512_6332Metric_Pad1.52x3.35mm_HandSolder
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_2512_6332Metric_Pad1.52x3.35mm_HandSolder](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_2512_6332Metric_Pad1.52x3.35mm_HandSolder)
-- Short Link: [http://oom.lt/FZKDIODESMD25126332METRICPAD152X335HANDSOLDER](http://oom.lt/FZKDIODESMD25126332METRICPAD152X335HANDSOLDER)
+- Short Link: [http://oom.lt/FZKDD25126332VAPAD152X335HANDSOLDER](http://oom.lt/FZKDD25126332VAPAD152X335HANDSOLDER)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Diode_SMD|
 |OOMP Index|oompIndex|D_2512_6332Metric_Pad1.52x3.35mm_HandSolder|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_2512_6332Metric_Pad1.52x3.35mm_HandSolder|
-|Hex ID (short code)|hexID|FZKDIODESMD25126332METRICPAD152X335HANDSOLDER|
+|Hex ID (short code)|hexID|FZKDD25126332VAPAD152X335HANDSOLDER|
 |name|name|Diode_SMD : D_2512_6332Metric_Pad1.52x3.35mm_HandSolder|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'D_2512_6332Metric_Pad1.52x3.35mm_HandSolder'</td><td> 'description'</td></tr><tr><td> 'Diode SMD 2512 (6332 Metric)</td><td> square (rectangular) end terminal</td><td> IPC_7351 nominal</td><td> (Body size source</td></tr><tr><td> http</td></tr><tr><td>//www.tortai-tech.com/upload/download/2011102023233369053.pdf)</td><td> generated with kicad-footprint-generator'</td><td> 'tags'</td></tr><tr><td> 'diode handsolder'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Diode_SMD.3dshapes/D_2512_6332Metric.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||

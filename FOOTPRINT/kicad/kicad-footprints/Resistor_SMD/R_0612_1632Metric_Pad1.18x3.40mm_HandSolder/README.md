@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKRESISTORSMR6121632METRICPAD118X34HANDSOLDER > Resistor_SMD : R_0612_1632Metric_Pad1.18x3.40mm_HandSolder](#fzkresistorsmr6121632metricpad118x34handsolder--resistor_smd--r_0612_1632metric_pad118x340mm_handsolder)
+* [FZKRR6121632VAPAD118X34HANDSOLDER > Resistor_SMD : R_0612_1632Metric_Pad1.18x3.40mm_HandSolder](#fzkrr6121632vapad118x34handsolder--resistor_smd--r_0612_1632metric_pad118x340mm_handsolder)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKRESISTORSMR6121632METRICPAD118X34HANDSOLDER > Resistor_SMD : R_0612_1632Metric_Pad1.18x3.40mm_HandSolder
+# FZKRR6121632VAPAD118X34HANDSOLDER > Resistor_SMD : R_0612_1632Metric_Pad1.18x3.40mm_HandSolder
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0612_1632Metric_Pad1.18x3.40mm_HandSolder
-- Hex ID: FZKRESISTORSMR6121632METRICPAD118X34HANDSOLDER
+- Hex ID: FZKRR6121632VAPAD118X34HANDSOLDER
 - Name: Resistor_SMD : R_0612_1632Metric_Pad1.18x3.40mm_HandSolder
 - Description: Resistor_SMD : R_0612_1632Metric_Pad1.18x3.40mm_HandSolder
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0612_1632Metric_Pad1.18x3.40mm_HandSolder](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0612_1632Metric_Pad1.18x3.40mm_HandSolder)
-- Short Link: [http://oom.lt/FZKRESISTORSMR6121632METRICPAD118X34HANDSOLDER](http://oom.lt/FZKRESISTORSMR6121632METRICPAD118X34HANDSOLDER)
+- Short Link: [http://oom.lt/FZKRR6121632VAPAD118X34HANDSOLDER](http://oom.lt/FZKRR6121632VAPAD118X34HANDSOLDER)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Resistor_SMD|
 |OOMP Index|oompIndex|R_0612_1632Metric_Pad1.18x3.40mm_HandSolder|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0612_1632Metric_Pad1.18x3.40mm_HandSolder|
-|Hex ID (short code)|hexID|FZKRESISTORSMR6121632METRICPAD118X34HANDSOLDER|
+|Hex ID (short code)|hexID|FZKRR6121632VAPAD118X34HANDSOLDER|
 |name|name|Resistor_SMD : R_0612_1632Metric_Pad1.18x3.40mm_HandSolder|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'R_0612_1632Metric_Pad1.18x3.40mm_HandSolder'</td><td> 'description'</td></tr><tr><td> 'Resistor SMD 0612 (1632 Metric)</td><td> square (rectangular) end terminal</td><td> IPC_7351 nominal with elongated pad for handsoldering. (Body size source</td></tr><tr><td> https</td></tr><tr><td>//www.vishay.com/docs/20019/rcwe.pdf)</td><td> generated with kicad-footprint-generator'</td><td> 'tags'</td></tr><tr><td> 'resistor handsolder'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Resistor_SMD.3dshapes/R_0612_1632Metric.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||

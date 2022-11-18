@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSHUMIDITYSHT15 > digikey-footprints : Humidity_SHT15](#fzkicaddigikeykicadlibrarydigikeyfootprintshumiditysht15--digikey-footprints--humidity_sht15)
+* [FZDIGIDIGIKEYFOOTPRINTSHUMIDITYSHT15 > digikey-footprints : Humidity_SHT15](#fzdigidigikeyfootprintshumiditysht15--digikey-footprints--humidity_sht15)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSHUMIDITYSHT15 > digikey-footprints : Humidity_SHT15
+# FZDIGIDIGIKEYFOOTPRINTSHUMIDITYSHT15 > digikey-footprints : Humidity_SHT15
 
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Humidity_SHT15
-- Hex ID: FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSHUMIDITYSHT15
+- Hex ID: FZDIGIDIGIKEYFOOTPRINTSHUMIDITYSHT15
 - Name: digikey-footprints : Humidity_SHT15
 - Description: digikey-footprints : Humidity_SHT15
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Humidity_SHT15](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Humidity_SHT15)
-- Short Link: [http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSHUMIDITYSHT15](http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSHUMIDITYSHT15)
+- Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSHUMIDITYSHT15](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSHUMIDITYSHT15)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|digikey-footprints|
 |OOMP Index|oompIndex|Humidity_SHT15|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Humidity_SHT15|
-|Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSHUMIDITYSHT15|
+|Hex ID (short code)|hexID|FZDIGIDIGIKEYFOOTPRINTSHUMIDITYSHT15|
 |name|name|digikey-footprints : Humidity_SHT15|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Humidity_SHT15'</td><td> 'description'</td></tr><tr><td> 'https</td></tr><tr><td>//www.sensirion.com/fileadmin/user_upload/customers/sensirion/Dokumente/2_Humidity_Sensors/Sensirion_Humidity_Sensors_SHT1x_Datasheet_V5.pdf'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKINDUCTORSMLWUERTHWEPDFHANDSOLDERING > Inductor_SMD : L_Wuerth_WE-PDF_Handsoldering](#fzkinductorsmlwuerthwepdfhandsoldering--inductor_smd--l_wuerth_we-pdf_handsoldering)
+* [FZKINLWUERTHWEPDFHANDSOLDERING > Inductor_SMD : L_Wuerth_WE-PDF_Handsoldering](#fzkinlwuerthwepdfhandsoldering--inductor_smd--l_wuerth_we-pdf_handsoldering)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKINDUCTORSMLWUERTHWEPDFHANDSOLDERING > Inductor_SMD : L_Wuerth_WE-PDF_Handsoldering
+# FZKINLWUERTHWEPDFHANDSOLDERING > Inductor_SMD : L_Wuerth_WE-PDF_Handsoldering
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Wuerth_WE-PDF_Handsoldering
-- Hex ID: FZKINDUCTORSMLWUERTHWEPDFHANDSOLDERING
+- Hex ID: FZKINLWUERTHWEPDFHANDSOLDERING
 - Name: Inductor_SMD : L_Wuerth_WE-PDF_Handsoldering
 - Description: Inductor_SMD : L_Wuerth_WE-PDF_Handsoldering
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Wuerth_WE-PDF_Handsoldering](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Wuerth_WE-PDF_Handsoldering)
-- Short Link: [http://oom.lt/FZKINDUCTORSMLWUERTHWEPDFHANDSOLDERING](http://oom.lt/FZKINDUCTORSMLWUERTHWEPDFHANDSOLDERING)
+- Short Link: [http://oom.lt/FZKINLWUERTHWEPDFHANDSOLDERING](http://oom.lt/FZKINLWUERTHWEPDFHANDSOLDERING)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Inductor_SMD|
 |OOMP Index|oompIndex|L_Wuerth_WE-PDF_Handsoldering|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Wuerth_WE-PDF_Handsoldering|
-|Hex ID (short code)|hexID|FZKINDUCTORSMLWUERTHWEPDFHANDSOLDERING|
+|Hex ID (short code)|hexID|FZKINLWUERTHWEPDFHANDSOLDERING|
 |name|name|Inductor_SMD : L_Wuerth_WE-PDF_Handsoldering|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'L_Wuerth_WE-PDF_Handsoldering'</td><td> 'description'</td></tr><tr><td> 'Shielded Power Inductor</td><td> Wuerth Elektronik</td><td> WE-PDF</td><td> SMD</td><td> Handsoldering</td><td> https</td></tr><tr><td>//katalog.we-online.de/pbs/datasheet/7447797022.pdf'</td><td> 'tags'</td></tr><tr><td> 'Choke Shielded Power Inductor WE-PDF Wuerth Handsoldering'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Inductor_SMD.3dshapes/L_Wuerth_WE-PDF.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSPB12X12THTGPTS23211B > digikey-footprints : PushButton_12x12mm_THT_GPTS203211B](#fzkicaddigikeykicadlibrarydigikeyfootprintspb12x12thtgpts23211b--digikey-footprints--pushbutton_12x12mm_tht_gpts203211b)
+* [FZDIGIDIGIKEYFOOTPRINTSPB12X12THTGPTS23211B > digikey-footprints : PushButton_12x12mm_THT_GPTS203211B](#fzdigidigikeyfootprintspb12x12thtgpts23211b--digikey-footprints--pushbutton_12x12mm_tht_gpts203211b)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSPB12X12THTGPTS23211B > digikey-footprints : PushButton_12x12mm_THT_GPTS203211B
+# FZDIGIDIGIKEYFOOTPRINTSPB12X12THTGPTS23211B > digikey-footprints : PushButton_12x12mm_THT_GPTS203211B
 
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-PushButton_12x12mm_THT_GPTS203211B
-- Hex ID: FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSPB12X12THTGPTS23211B
+- Hex ID: FZDIGIDIGIKEYFOOTPRINTSPB12X12THTGPTS23211B
 - Name: digikey-footprints : PushButton_12x12mm_THT_GPTS203211B
 - Description: digikey-footprints : PushButton_12x12mm_THT_GPTS203211B
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-PushButton_12x12mm_THT_GPTS203211B](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-PushButton_12x12mm_THT_GPTS203211B)
-- Short Link: [http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSPB12X12THTGPTS23211B](http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSPB12X12THTGPTS23211B)
+- Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSPB12X12THTGPTS23211B](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSPB12X12THTGPTS23211B)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|digikey-footprints|
 |OOMP Index|oompIndex|PushButton_12x12mm_THT_GPTS203211B|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-PushButton_12x12mm_THT_GPTS203211B|
-|Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSPB12X12THTGPTS23211B|
+|Hex ID (short code)|hexID|FZDIGIDIGIKEYFOOTPRINTSPB12X12THTGPTS23211B|
 |name|name|digikey-footprints : PushButton_12x12mm_THT_GPTS203211B|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'PushButton_12x12mm_THT_GPTS203211B'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> None</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

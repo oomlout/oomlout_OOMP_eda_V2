@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSHEADJSTSHXPI13SMHSH13 > oomlout_OOMP_parts : HEAD-JSTSH-X-PI13-SM-HSH13](#fzkicadoomloutoompkicadoomloutoomppartsheadjstshxpi13smhsh13--oomlout_oomp_parts--head-jstsh-x-pi13-sm-hsh13)
+* [FZOOMPKOOMPPHEADJSTSHXPI13SMHSH13 > oomlout_OOMP_parts : HEAD-JSTSH-X-PI13-SM-HSH13](#fzoompkoomppheadjstshxpi13smhsh13--oomlout_oomp_parts--head-jstsh-x-pi13-sm-hsh13)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSHEADJSTSHXPI13SMHSH13 > oomlout_OOMP_parts : HEAD-JSTSH-X-PI13-SM-HSH13
+# FZOOMPKOOMPPHEADJSTSHXPI13SMHSH13 > oomlout_OOMP_parts : HEAD-JSTSH-X-PI13-SM-HSH13
 
 - ID: FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-JSTSH-X-PI13-SM-HSH13
-- Hex ID: FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSHEADJSTSHXPI13SMHSH13
+- Hex ID: FZOOMPKOOMPPHEADJSTSHXPI13SMHSH13
 - Name: oomlout_OOMP_parts : HEAD-JSTSH-X-PI13-SM-HSH13
 - Description: oomlout_OOMP_parts : HEAD-JSTSH-X-PI13-SM-HSH13
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-JSTSH-X-PI13-SM-HSH13](http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-JSTSH-X-PI13-SM-HSH13)
-- Short Link: [http://oom.lt/FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSHEADJSTSHXPI13SMHSH13](http://oom.lt/FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSHEADJSTSHXPI13SMHSH13)
+- Short Link: [http://oom.lt/FZOOMPKOOMPPHEADJSTSHXPI13SMHSH13](http://oom.lt/FZOOMPKOOMPPHEADJSTSHXPI13SMHSH13)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|oomlout_OOMP_parts|
 |OOMP Index|oompIndex|HEAD-JSTSH-X-PI13-SM-HSH13|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-JSTSH-X-PI13-SM-HSH13|
-|Hex ID (short code)|hexID|FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSHEADJSTSHXPI13SMHSH13|
+|Hex ID (short code)|hexID|FZOOMPKOOMPPHEADJSTSHXPI13SMHSH13|
 |name|name|oomlout_OOMP_parts : HEAD-JSTSH-X-PI13-SM-HSH13|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'HEAD-JSTSH-X-PI13-SM-HSH13'</td><td> 'description'</td></tr><tr><td> 'hexID</td></tr><tr><td> HSH13; JST SH series connector</td><td> BM13B-SRSS-TB (http</td></tr><tr><td>//www.jst-mfg.com/product/pdf/eng/eSH.pdf)</td><td> generated with kicad-footprint-generator'</td><td> 'tags'</td></tr><tr><td> 'connector JST SH side entry'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_JST.3dshapes/JST_SH_BM13B-SRSS-TB_1x13-1MP_P1.00mm_Vertical.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||

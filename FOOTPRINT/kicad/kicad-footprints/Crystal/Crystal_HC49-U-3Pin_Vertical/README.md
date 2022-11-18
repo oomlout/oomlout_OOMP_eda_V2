@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKXXHC49U3PINVERTICAL > Crystal : Crystal_HC49-U-3Pin_Vertical](#fzkxxhc49u3pinvertical--crystal--crystal_hc49-u-3pin_vertical)
+* [FZKXXHC49U3PINF > Crystal : Crystal_HC49-U-3Pin_Vertical](#fzkxxhc49u3pinf--crystal--crystal_hc49-u-3pin_vertical)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKXXHC49U3PINVERTICAL > Crystal : Crystal_HC49-U-3Pin_Vertical
+# FZKXXHC49U3PINF > Crystal : Crystal_HC49-U-3Pin_Vertical
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_HC49-U-3Pin_Vertical
-- Hex ID: FZKXXHC49U3PINVERTICAL
+- Hex ID: FZKXXHC49U3PINF
 - Name: Crystal : Crystal_HC49-U-3Pin_Vertical
 - Description: Crystal : Crystal_HC49-U-3Pin_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_HC49-U-3Pin_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_HC49-U-3Pin_Vertical)
-- Short Link: [http://oom.lt/FZKXXHC49U3PINVERTICAL](http://oom.lt/FZKXXHC49U3PINVERTICAL)
+- Short Link: [http://oom.lt/FZKXXHC49U3PINF](http://oom.lt/FZKXXHC49U3PINF)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Crystal|
 |OOMP Index|oompIndex|Crystal_HC49-U-3Pin_Vertical|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_HC49-U-3Pin_Vertical|
-|Hex ID (short code)|hexID|FZKXXHC49U3PINVERTICAL|
+|Hex ID (short code)|hexID|FZKXXHC49U3PINF|
 |name|name|Crystal : Crystal_HC49-U-3Pin_Vertical|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Crystal_HC49-U-3Pin_Vertical'</td><td> 'description'</td></tr><tr><td> 'Crystal THT HC-49/U</td><td> 3pin-version</td><td> http</td></tr><tr><td>//www.raltron.com/products/pdfspecs/crystal_hc_49_45_51.pdf'</td><td> 'tags'</td></tr><tr><td> 'THT crystalHC-49/U'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Crystal.3dshapes/Crystal_HC49-U-3Pin_Vertical.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||

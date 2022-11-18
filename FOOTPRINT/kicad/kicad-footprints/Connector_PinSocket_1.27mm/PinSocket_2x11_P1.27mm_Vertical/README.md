@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKCNPINSO127PINSO2X11P127VERTICAL > Connector_PinSocket_1.27mm : PinSocket_2x11_P1.27mm_Vertical](#fzkcnpinso127pinso2x11p127vertical--connector_pinsocket_127mm--pinsocket_2x11_p127mm_vertical)
+* [FZKCNPINSO127PINSO2X11P127F > Connector_PinSocket_1.27mm : PinSocket_2x11_P1.27mm_Vertical](#fzkcnpinso127pinso2x11p127f--connector_pinsocket_127mm--pinsocket_2x11_p127mm_vertical)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKCNPINSO127PINSO2X11P127VERTICAL > Connector_PinSocket_1.27mm : PinSocket_2x11_P1.27mm_Vertical
+# FZKCNPINSO127PINSO2X11P127F > Connector_PinSocket_1.27mm : PinSocket_2x11_P1.27mm_Vertical
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_PinSocket_1.27mm-PinSocket_2x11_P1.27mm_Vertical
-- Hex ID: FZKCNPINSO127PINSO2X11P127VERTICAL
+- Hex ID: FZKCNPINSO127PINSO2X11P127F
 - Name: Connector_PinSocket_1.27mm : PinSocket_2x11_P1.27mm_Vertical
 - Description: Connector_PinSocket_1.27mm : PinSocket_2x11_P1.27mm_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_PinSocket_1.27mm-PinSocket_2x11_P1.27mm_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_PinSocket_1.27mm-PinSocket_2x11_P1.27mm_Vertical)
-- Short Link: [http://oom.lt/FZKCNPINSO127PINSO2X11P127VERTICAL](http://oom.lt/FZKCNPINSO127PINSO2X11P127VERTICAL)
+- Short Link: [http://oom.lt/FZKCNPINSO127PINSO2X11P127F](http://oom.lt/FZKCNPINSO127PINSO2X11P127F)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Connector_PinSocket_1.27mm|
 |OOMP Index|oompIndex|PinSocket_2x11_P1.27mm_Vertical|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_PinSocket_1.27mm-PinSocket_2x11_P1.27mm_Vertical|
-|Hex ID (short code)|hexID|FZKCNPINSO127PINSO2X11P127VERTICAL|
+|Hex ID (short code)|hexID|FZKCNPINSO127PINSO2X11P127F|
 |name|name|Connector_PinSocket_1.27mm : PinSocket_2x11_P1.27mm_Vertical|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'PinSocket_2x11_P1.27mm_Vertical'</td><td> 'description'</td></tr><tr><td> 'Through hole straight socket strip</td><td> 2x11</td><td> 1.27mm pitch</td><td> double cols (from Kicad 4.0.7)</td><td> script generated'</td><td> 'tags'</td></tr><tr><td> 'Through hole socket strip THT 2x11 1.27mm double row'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_PinSocket_1.27mm.3dshapes/PinSocket_2x11_P1.27mm_Vertical.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

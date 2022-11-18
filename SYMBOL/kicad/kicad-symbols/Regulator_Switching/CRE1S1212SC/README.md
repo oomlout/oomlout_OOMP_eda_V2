@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [SZKREGULATORSWITCHINGCRE1S1212SC > Regulator_Switching : CRE1S1212SC](#szkregulatorswitchingcre1s1212sc--regulator_switching--cre1s1212sc)
+* [SZKREGULATORSWINGCRE1S1212SC > Regulator_Switching : CRE1S1212SC](#szkregulatorswingcre1s1212sc--regulator_switching--cre1s1212sc)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# SZKREGULATORSWITCHINGCRE1S1212SC > Regulator_Switching : CRE1S1212SC
+# SZKREGULATORSWINGCRE1S1212SC > Regulator_Switching : CRE1S1212SC
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-CRE1S1212SC
-- Hex ID: SZKREGULATORSWITCHINGCRE1S1212SC
+- Hex ID: SZKREGULATORSWINGCRE1S1212SC
 - Name: Regulator_Switching : CRE1S1212SC
 - Description: Regulator_Switching : CRE1S1212SC
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-CRE1S1212SC](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-CRE1S1212SC)
-- Short Link: [http://oom.lt/SZKREGULATORSWITCHINGCRE1S1212SC](http://oom.lt/SZKREGULATORSWITCHINGCRE1S1212SC)
+- Short Link: [http://oom.lt/SZKREGULATORSWINGCRE1S1212SC](http://oom.lt/SZKREGULATORSWINGCRE1S1212SC)
 
 ## Images
   
@@ -36,7 +36,7 @@ Contents
 |OOMP Description|oompDesc|Regulator_Switching|
 |OOMP Index|oompIndex|CRE1S1212SC|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-CRE1S1212SC|
-|Hex ID (short code)|hexID|SZKREGULATORSWITCHINGCRE1S1212SC|
+|Hex ID (short code)|hexID|SZKREGULATORSWINGCRE1S1212SC|
 |name|name|Regulator_Switching : CRE1S1212SC|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'CRE1S0505SC'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'CRE1S1212SC'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Converter_DCDC</td></tr><tr><td>Converter_DCDC_Murata_CRE1xxxxxxSC_THT'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//power.murata.com/datasheet?/data/power/ncl/kdc_cre1.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Murata isolated isolation dc-dc converter transformer'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '12V to 12V 83mA DC-DC Converter with 1kV isolation</td><td> SIP-4'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Converter*DCDC*Murata*CRE1xxxxxxSC*'</td></tr></table>]|
 ||||

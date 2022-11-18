@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKINDUCTORSMLTAIYOYUDENMD33 > Inductor_SMD : L_Taiyo-Yuden_MD-3030](#fzkinductorsmltaiyoyudenmd33--inductor_smd--l_taiyo-yuden_md-3030)
+* [FZKINLTAIYOYUDENMD33 > Inductor_SMD : L_Taiyo-Yuden_MD-3030](#fzkinltaiyoyudenmd33--inductor_smd--l_taiyo-yuden_md-3030)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKINDUCTORSMLTAIYOYUDENMD33 > Inductor_SMD : L_Taiyo-Yuden_MD-3030
+# FZKINLTAIYOYUDENMD33 > Inductor_SMD : L_Taiyo-Yuden_MD-3030
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Taiyo-Yuden_MD-3030
-- Hex ID: FZKINDUCTORSMLTAIYOYUDENMD33
+- Hex ID: FZKINLTAIYOYUDENMD33
 - Name: Inductor_SMD : L_Taiyo-Yuden_MD-3030
 - Description: Inductor_SMD : L_Taiyo-Yuden_MD-3030
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Taiyo-Yuden_MD-3030](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Taiyo-Yuden_MD-3030)
-- Short Link: [http://oom.lt/FZKINDUCTORSMLTAIYOYUDENMD33](http://oom.lt/FZKINDUCTORSMLTAIYOYUDENMD33)
+- Short Link: [http://oom.lt/FZKINLTAIYOYUDENMD33](http://oom.lt/FZKINLTAIYOYUDENMD33)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Inductor_SMD|
 |OOMP Index|oompIndex|L_Taiyo-Yuden_MD-3030|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Taiyo-Yuden_MD-3030|
-|Hex ID (short code)|hexID|FZKINDUCTORSMLTAIYOYUDENMD33|
+|Hex ID (short code)|hexID|FZKINLTAIYOYUDENMD33|
 |name|name|Inductor_SMD : L_Taiyo-Yuden_MD-3030|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'L_Taiyo-Yuden_MD-3030'</td><td> 'description'</td></tr><tr><td> 'Inductor</td><td> Taiyo Yuden</td><td> MD series</td><td> Taiyo-Yuden_MD-3030</td><td> 3.0mmx3.0mm'</td><td> 'tags'</td></tr><tr><td> 'inductor taiyo-yuden md smd'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Inductor_SMD.3dshapes/L_Taiyo-Yuden_MD-3030.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

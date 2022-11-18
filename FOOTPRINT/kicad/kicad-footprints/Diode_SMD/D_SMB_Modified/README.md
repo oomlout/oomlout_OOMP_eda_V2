@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKDIODESMDSMBMODIFIED > Diode_SMD : D_SMB_Modified](#fzkdiodesmdsmbmodified--diode_smd--d_smb_modified)
+* [FZKDDSMBMODIFIED > Diode_SMD : D_SMB_Modified](#fzkddsmbmodified--diode_smd--d_smb_modified)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKDIODESMDSMBMODIFIED > Diode_SMD : D_SMB_Modified
+# FZKDDSMBMODIFIED > Diode_SMD : D_SMB_Modified
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_SMB_Modified
-- Hex ID: FZKDIODESMDSMBMODIFIED
+- Hex ID: FZKDDSMBMODIFIED
 - Name: Diode_SMD : D_SMB_Modified
 - Description: Diode_SMD : D_SMB_Modified
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_SMB_Modified](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_SMB_Modified)
-- Short Link: [http://oom.lt/FZKDIODESMDSMBMODIFIED](http://oom.lt/FZKDIODESMDSMBMODIFIED)
+- Short Link: [http://oom.lt/FZKDDSMBMODIFIED](http://oom.lt/FZKDDSMBMODIFIED)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Diode_SMD|
 |OOMP Index|oompIndex|D_SMB_Modified|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_SMB_Modified|
-|Hex ID (short code)|hexID|FZKDIODESMDSMBMODIFIED|
+|Hex ID (short code)|hexID|FZKDDSMBMODIFIED|
 |name|name|Diode_SMD : D_SMB_Modified|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'D_SMB_Modified'</td><td> 'description'</td></tr><tr><td> 'Diode SMB (DO-214AA) Modified (http</td></tr><tr><td>//www.littelfuse.com/~/media/electronics/datasheets/sidactors/littelfuse_sidactor_battrax_positive_negative_modified_do_214_datasheet.pdf.pdf)'</td><td> 'tags'</td></tr><tr><td> 'Diode SMB (DO-214AA)'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Diode_SMD.3dshapes/D_SMB_Modified.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

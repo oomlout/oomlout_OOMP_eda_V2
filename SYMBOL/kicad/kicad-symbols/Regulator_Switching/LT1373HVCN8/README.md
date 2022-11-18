@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [SZKREGULATORSWITCHINGLT1373HVCN8 > Regulator_Switching : LT1373HVCN8](#szkregulatorswitchinglt1373hvcn8--regulator_switching--lt1373hvcn8)
+* [SZKREGULATORSWINGLT1373HVCN8 > Regulator_Switching : LT1373HVCN8](#szkregulatorswinglt1373hvcn8--regulator_switching--lt1373hvcn8)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# SZKREGULATORSWITCHINGLT1373HVCN8 > Regulator_Switching : LT1373HVCN8
+# SZKREGULATORSWINGLT1373HVCN8 > Regulator_Switching : LT1373HVCN8
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-LT1373HVCN8
-- Hex ID: SZKREGULATORSWITCHINGLT1373HVCN8
+- Hex ID: SZKREGULATORSWINGLT1373HVCN8
 - Name: Regulator_Switching : LT1373HVCN8
 - Description: Regulator_Switching : LT1373HVCN8
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LT1373HVCN8](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LT1373HVCN8)
-- Short Link: [http://oom.lt/SZKREGULATORSWITCHINGLT1373HVCN8](http://oom.lt/SZKREGULATORSWITCHINGLT1373HVCN8)
+- Short Link: [http://oom.lt/SZKREGULATORSWINGLT1373HVCN8](http://oom.lt/SZKREGULATORSWINGLT1373HVCN8)
 
 ## Images
   
@@ -36,7 +36,7 @@ Contents
 |OOMP Description|oompDesc|Regulator_Switching|
 |OOMP Index|oompIndex|LT1373HVCN8|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-LT1373HVCN8|
-|Hex ID (short code)|hexID|SZKREGULATORSWITCHINGLT1373HVCN8|
+|Hex ID (short code)|hexID|SZKREGULATORSWINGLT1373HVCN8|
 |name|name|Regulator_Switching : LT1373HVCN8|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'LT1372CN8'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LT1373HVCN8'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DIP</td></tr><tr><td>DIP-8_W7.62mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.analog.com/media/en/technical-documentation/data-sheets/1373fbs.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Switching Regulator Adjustable'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '1.5A Low Supply Current High Efficiency Switching Regulators</td><td> 250kHz</td><td> 42V Switch Voltage</td><td> Adjustable Output Voltage</td><td> DIP-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP*W7.62mm*'</td></tr></table>]|
 ||||

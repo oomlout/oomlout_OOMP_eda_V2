@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKCNCOABNCTECONNECTIVITY147835HORIZONTAL > Connector_Coaxial : BNC_TEConnectivity_1478035_Horizontal](#fzkcncoabncteconnectivity147835horizontal--connector_coaxial--bnc_teconnectivity_1478035_horizontal)
+* [FZKCNCOABNCTECONNECTIVITY147835H > Connector_Coaxial : BNC_TEConnectivity_1478035_Horizontal](#fzkcncoabncteconnectivity147835h--connector_coaxial--bnc_teconnectivity_1478035_horizontal)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKCNCOABNCTECONNECTIVITY147835HORIZONTAL > Connector_Coaxial : BNC_TEConnectivity_1478035_Horizontal
+# FZKCNCOABNCTECONNECTIVITY147835H > Connector_Coaxial : BNC_TEConnectivity_1478035_Horizontal
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_Coaxial-BNC_TEConnectivity_1478035_Horizontal
-- Hex ID: FZKCNCOABNCTECONNECTIVITY147835HORIZONTAL
+- Hex ID: FZKCNCOABNCTECONNECTIVITY147835H
 - Name: Connector_Coaxial : BNC_TEConnectivity_1478035_Horizontal
 - Description: Connector_Coaxial : BNC_TEConnectivity_1478035_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Coaxial-BNC_TEConnectivity_1478035_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Coaxial-BNC_TEConnectivity_1478035_Horizontal)
-- Short Link: [http://oom.lt/FZKCNCOABNCTECONNECTIVITY147835HORIZONTAL](http://oom.lt/FZKCNCOABNCTECONNECTIVITY147835HORIZONTAL)
+- Short Link: [http://oom.lt/FZKCNCOABNCTECONNECTIVITY147835H](http://oom.lt/FZKCNCOABNCTECONNECTIVITY147835H)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Connector_Coaxial|
 |OOMP Index|oompIndex|BNC_TEConnectivity_1478035_Horizontal|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Coaxial-BNC_TEConnectivity_1478035_Horizontal|
-|Hex ID (short code)|hexID|FZKCNCOABNCTECONNECTIVITY147835HORIZONTAL|
+|Hex ID (short code)|hexID|FZKCNCOABNCTECONNECTIVITY147835H|
 |name|name|Connector_Coaxial : BNC_TEConnectivity_1478035_Horizontal|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'BNC_TEConnectivity_1478035_Horizontal'</td><td> 'description'</td></tr><tr><td> 'BNC RF Interface</td><td> PCB mount 4 pin</td><td> Right Angle</td><td> Bayonet</td><td> 50Ohm</td><td> 4GHz</td><td> https</td></tr><tr><td>//www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F1478035%7FB1%7Fpdf%7FEnglish%7FENG_CD_1478035_B1.pdf%7F1-1478035-0'</td><td> 'tags'</td></tr><tr><td> 'BNC RF interface bayonet 50ohm'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_Coaxial.3dshapes/BNC_TEConnectivity_1478035_Horizontal.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

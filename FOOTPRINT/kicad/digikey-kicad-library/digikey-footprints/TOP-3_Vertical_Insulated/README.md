@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSTOP3VERTICALINSULATED > digikey-footprints : TOP-3_Vertical_Insulated](#fzkicaddigikeykicadlibrarydigikeyfootprintstop3verticalinsulated--digikey-footprints--top-3_vertical_insulated)
+* [FZDIGIDIGIKEYFOOTPRINTSTOP3FINSULATED > digikey-footprints : TOP-3_Vertical_Insulated](#fzdigidigikeyfootprintstop3finsulated--digikey-footprints--top-3_vertical_insulated)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSTOP3VERTICALINSULATED > digikey-footprints : TOP-3_Vertical_Insulated
+# FZDIGIDIGIKEYFOOTPRINTSTOP3FINSULATED > digikey-footprints : TOP-3_Vertical_Insulated
 
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-TOP-3_Vertical_Insulated
-- Hex ID: FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSTOP3VERTICALINSULATED
+- Hex ID: FZDIGIDIGIKEYFOOTPRINTSTOP3FINSULATED
 - Name: digikey-footprints : TOP-3_Vertical_Insulated
 - Description: digikey-footprints : TOP-3_Vertical_Insulated
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-TOP-3_Vertical_Insulated](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-TOP-3_Vertical_Insulated)
-- Short Link: [http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSTOP3VERTICALINSULATED](http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSTOP3VERTICALINSULATED)
+- Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSTOP3FINSULATED](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSTOP3FINSULATED)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|digikey-footprints|
 |OOMP Index|oompIndex|TOP-3_Vertical_Insulated|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-TOP-3_Vertical_Insulated|
-|Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSTOP3VERTICALINSULATED|
+|Hex ID (short code)|hexID|FZDIGIDIGIKEYFOOTPRINTSTOP3FINSULATED|
 |name|name|digikey-footprints : TOP-3_Vertical_Insulated|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'TOP-3_Vertical_Insulated'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> None</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

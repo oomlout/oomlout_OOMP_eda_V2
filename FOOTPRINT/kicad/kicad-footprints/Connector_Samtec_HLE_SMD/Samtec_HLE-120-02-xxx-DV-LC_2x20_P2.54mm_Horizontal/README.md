@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKCNSAMTECHLESMSAMTECHLE122XXXDVLC2X2P254HORIZONTAL > Connector_Samtec_HLE_SMD : Samtec_HLE-120-02-xxx-DV-LC_2x20_P2.54mm_Horizontal](#fzkcnsamtechlesmsamtechle122xxxdvlc2x2p254horizontal--connector_samtec_hle_smd--samtec_hle-120-02-xxx-dv-lc_2x20_p254mm_horizontal)
+* [FZKCNSAMTECHLESMSAMTECHLE122XXXDVLC2X2P254H > Connector_Samtec_HLE_SMD : Samtec_HLE-120-02-xxx-DV-LC_2x20_P2.54mm_Horizontal](#fzkcnsamtechlesmsamtechle122xxxdvlc2x2p254h--connector_samtec_hle_smd--samtec_hle-120-02-xxx-dv-lc_2x20_p254mm_horizontal)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKCNSAMTECHLESMSAMTECHLE122XXXDVLC2X2P254HORIZONTAL > Connector_Samtec_HLE_SMD : Samtec_HLE-120-02-xxx-DV-LC_2x20_P2.54mm_Horizontal
+# FZKCNSAMTECHLESMSAMTECHLE122XXXDVLC2X2P254H > Connector_Samtec_HLE_SMD : Samtec_HLE-120-02-xxx-DV-LC_2x20_P2.54mm_Horizontal
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_Samtec_HLE_SMD-Samtec_HLE-120-02-xxx-DV-LC_2x20_P2.54mm_Horizontal
-- Hex ID: FZKCNSAMTECHLESMSAMTECHLE122XXXDVLC2X2P254HORIZONTAL
+- Hex ID: FZKCNSAMTECHLESMSAMTECHLE122XXXDVLC2X2P254H
 - Name: Connector_Samtec_HLE_SMD : Samtec_HLE-120-02-xxx-DV-LC_2x20_P2.54mm_Horizontal
 - Description: Connector_Samtec_HLE_SMD : Samtec_HLE-120-02-xxx-DV-LC_2x20_P2.54mm_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Samtec_HLE_SMD-Samtec_HLE-120-02-xxx-DV-LC_2x20_P2.54mm_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Samtec_HLE_SMD-Samtec_HLE-120-02-xxx-DV-LC_2x20_P2.54mm_Horizontal)
-- Short Link: [http://oom.lt/FZKCNSAMTECHLESMSAMTECHLE122XXXDVLC2X2P254HORIZONTAL](http://oom.lt/FZKCNSAMTECHLESMSAMTECHLE122XXXDVLC2X2P254HORIZONTAL)
+- Short Link: [http://oom.lt/FZKCNSAMTECHLESMSAMTECHLE122XXXDVLC2X2P254H](http://oom.lt/FZKCNSAMTECHLESMSAMTECHLE122XXXDVLC2X2P254H)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Connector_Samtec_HLE_SMD|
 |OOMP Index|oompIndex|Samtec_HLE-120-02-xxx-DV-LC_2x20_P2.54mm_Horizontal|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Samtec_HLE_SMD-Samtec_HLE-120-02-xxx-DV-LC_2x20_P2.54mm_Horizontal|
-|Hex ID (short code)|hexID|FZKCNSAMTECHLESMSAMTECHLE122XXXDVLC2X2P254HORIZONTAL|
+|Hex ID (short code)|hexID|FZKCNSAMTECHLESMSAMTECHLE122XXXDVLC2X2P254H|
 |name|name|Connector_Samtec_HLE_SMD : Samtec_HLE-120-02-xxx-DV-LC_2x20_P2.54mm_Horizontal|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Samtec_HLE-120-02-xxx-DV-LC_2x20_P2.54mm_Horizontal'</td><td> 'description'</td></tr><tr><td> 'Samtec HLE .100" Tiger Beam Cost-effective Single Beam Socket Strip</td><td> HLE-120-02-xxx-DV-LC</td><td> 20 Pins per row (http</td></tr><tr><td>//suddendocs.samtec.com/prints/hle-1xx-02-xxx-dv-xx-xx-xx-mkt.pdf</td><td> http</td></tr><tr><td>//suddendocs.samtec.com/prints/hle-dv-footprint.pdf)</td><td> generated with kicad-footprint-generator'</td><td> 'tags'</td></tr><tr><td> 'connector Samtec HLE horizontal'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_Samtec_HLE_SMD.3dshapes/Samtec_HLE-120-02-xxx-DV-LC_2x20_P2.54mm_Horizontal.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'np_thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||

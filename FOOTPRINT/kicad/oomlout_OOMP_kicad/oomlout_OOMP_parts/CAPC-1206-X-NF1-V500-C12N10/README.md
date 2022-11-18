@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSCAPC126XNF1V5C12N1 > oomlout_OOMP_parts : CAPC-1206-X-NF1-V500-C12N10](#fzkicadoomloutoompkicadoomloutoomppartscapc126xnf1v5c12n1--oomlout_oomp_parts--capc-1206-x-nf1-v500-c12n10)
+* [FZOOMPKOOMPPCAPC126XNF1V5C12N1 > oomlout_OOMP_parts : CAPC-1206-X-NF1-V500-C12N10](#fzoompkoomppcapc126xnf1v5c12n1--oomlout_oomp_parts--capc-1206-x-nf1-v500-c12n10)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSCAPC126XNF1V5C12N1 > oomlout_OOMP_parts : CAPC-1206-X-NF1-V500-C12N10
+# FZOOMPKOOMPPCAPC126XNF1V5C12N1 > oomlout_OOMP_parts : CAPC-1206-X-NF1-V500-C12N10
 
 - ID: FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-1206-X-NF1-V500-C12N10
-- Hex ID: FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSCAPC126XNF1V5C12N1
+- Hex ID: FZOOMPKOOMPPCAPC126XNF1V5C12N1
 - Name: oomlout_OOMP_parts : CAPC-1206-X-NF1-V500-C12N10
 - Description: oomlout_OOMP_parts : CAPC-1206-X-NF1-V500-C12N10
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-1206-X-NF1-V500-C12N10](http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-1206-X-NF1-V500-C12N10)
-- Short Link: [http://oom.lt/FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSCAPC126XNF1V5C12N1](http://oom.lt/FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSCAPC126XNF1V5C12N1)
+- Short Link: [http://oom.lt/FZOOMPKOOMPPCAPC126XNF1V5C12N1](http://oom.lt/FZOOMPKOOMPPCAPC126XNF1V5C12N1)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|oomlout_OOMP_parts|
 |OOMP Index|oompIndex|CAPC-1206-X-NF1-V500-C12N10|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-1206-X-NF1-V500-C12N10|
-|Hex ID (short code)|hexID|FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSCAPC126XNF1V5C12N1|
+|Hex ID (short code)|hexID|FZOOMPKOOMPPCAPC126XNF1V5C12N1|
 |name|name|oomlout_OOMP_parts : CAPC-1206-X-NF1-V500-C12N10|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'CAPC-1206-X-NF1-V500-C12N10'</td><td> 'description'</td></tr><tr><td> 'hexID</td></tr><tr><td> C12N10;PARTL C-JLCC;C35216;MANUF C-XXXX;CL31B102KGFNNNE; Capacitor SMD 1206 (3216 Metric)</td><td> square (rectangular) end terminal</td><td> IPC_7351 nominal</td><td> (Body size source</td></tr><tr><td> IPC-SM-782 page 76</td><td> https</td></tr><tr><td>//www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)</td><td> generated with kicad-footprint-generator'</td><td> 'tags'</td></tr><tr><td> 'capacitor'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Capacitor_SMD.3dshapes/C_1206_3216Metric.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||

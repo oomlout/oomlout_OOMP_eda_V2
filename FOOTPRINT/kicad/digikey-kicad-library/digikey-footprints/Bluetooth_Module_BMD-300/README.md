@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSBLUETOOTHMOBMD3 > digikey-footprints : Bluetooth_Module_BMD-300](#fzkicaddigikeykicadlibrarydigikeyfootprintsbluetoothmobmd3--digikey-footprints--bluetooth_module_bmd-300)
+* [FZDIGIDIGIKEYFOOTPRINTSBLUETOOTHMOBMD3 > digikey-footprints : Bluetooth_Module_BMD-300](#fzdigidigikeyfootprintsbluetoothmobmd3--digikey-footprints--bluetooth_module_bmd-300)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSBLUETOOTHMOBMD3 > digikey-footprints : Bluetooth_Module_BMD-300
+# FZDIGIDIGIKEYFOOTPRINTSBLUETOOTHMOBMD3 > digikey-footprints : Bluetooth_Module_BMD-300
 
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Bluetooth_Module_BMD-300
-- Hex ID: FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSBLUETOOTHMOBMD3
+- Hex ID: FZDIGIDIGIKEYFOOTPRINTSBLUETOOTHMOBMD3
 - Name: digikey-footprints : Bluetooth_Module_BMD-300
 - Description: digikey-footprints : Bluetooth_Module_BMD-300
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Bluetooth_Module_BMD-300](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Bluetooth_Module_BMD-300)
-- Short Link: [http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSBLUETOOTHMOBMD3](http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSBLUETOOTHMOBMD3)
+- Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSBLUETOOTHMOBMD3](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSBLUETOOTHMOBMD3)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|digikey-footprints|
 |OOMP Index|oompIndex|Bluetooth_Module_BMD-300|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Bluetooth_Module_BMD-300|
-|Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSBLUETOOTHMOBMD3|
+|Hex ID (short code)|hexID|FZDIGIDIGIKEYFOOTPRINTSBLUETOOTHMOBMD3|
 |name|name|digikey-footprints : Bluetooth_Module_BMD-300|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Bluetooth_Module_BMD-300'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

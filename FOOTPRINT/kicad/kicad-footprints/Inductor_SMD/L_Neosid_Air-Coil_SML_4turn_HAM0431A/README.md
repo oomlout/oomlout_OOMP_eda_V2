@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKINDUCTORSMLNEOSIDAIRCOILSML4TURNHAM431A > Inductor_SMD : L_Neosid_Air-Coil_SML_4turn_HAM0431A](#fzkinductorsmlneosidaircoilsml4turnham431a--inductor_smd--l_neosid_air-coil_sml_4turn_ham0431a)
+* [FZKINLNEOSIDAIRCOILSML4TURNHAM431A > Inductor_SMD : L_Neosid_Air-Coil_SML_4turn_HAM0431A](#fzkinlneosidaircoilsml4turnham431a--inductor_smd--l_neosid_air-coil_sml_4turn_ham0431a)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKINDUCTORSMLNEOSIDAIRCOILSML4TURNHAM431A > Inductor_SMD : L_Neosid_Air-Coil_SML_4turn_HAM0431A
+# FZKINLNEOSIDAIRCOILSML4TURNHAM431A > Inductor_SMD : L_Neosid_Air-Coil_SML_4turn_HAM0431A
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Neosid_Air-Coil_SML_4turn_HAM0431A
-- Hex ID: FZKINDUCTORSMLNEOSIDAIRCOILSML4TURNHAM431A
+- Hex ID: FZKINLNEOSIDAIRCOILSML4TURNHAM431A
 - Name: Inductor_SMD : L_Neosid_Air-Coil_SML_4turn_HAM0431A
 - Description: Inductor_SMD : L_Neosid_Air-Coil_SML_4turn_HAM0431A
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Neosid_Air-Coil_SML_4turn_HAM0431A](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Neosid_Air-Coil_SML_4turn_HAM0431A)
-- Short Link: [http://oom.lt/FZKINDUCTORSMLNEOSIDAIRCOILSML4TURNHAM431A](http://oom.lt/FZKINDUCTORSMLNEOSIDAIRCOILSML4TURNHAM431A)
+- Short Link: [http://oom.lt/FZKINLNEOSIDAIRCOILSML4TURNHAM431A](http://oom.lt/FZKINLNEOSIDAIRCOILSML4TURNHAM431A)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Inductor_SMD|
 |OOMP Index|oompIndex|L_Neosid_Air-Coil_SML_4turn_HAM0431A|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Neosid_Air-Coil_SML_4turn_HAM0431A|
-|Hex ID (short code)|hexID|FZKINDUCTORSMLNEOSIDAIRCOILSML4TURNHAM431A|
+|Hex ID (short code)|hexID|FZKINLNEOSIDAIRCOILSML4TURNHAM431A|
 |name|name|Inductor_SMD : L_Neosid_Air-Coil_SML_4turn_HAM0431A|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'L_Neosid_Air-Coil_SML_4turn_HAM0431A'</td><td> 'description'</td></tr><tr><td> 'Neosid</td><td> Air-Coil</td><td> SML</td><td> 4turn</td><td> HAM0431A</td><td>'</td><td> 'tags'</td></tr><tr><td> 'Neosid Air-Coil SML 4turn HAM0431A'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Inductor_SMD.3dshapes/L_Neosid_Air-Coil_SML_4turn_HAM0431A.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

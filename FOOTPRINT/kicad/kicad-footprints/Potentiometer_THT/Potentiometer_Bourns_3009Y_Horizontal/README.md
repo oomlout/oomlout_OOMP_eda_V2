@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKPPOTENTIOMETERBOURNS39YHORIZONTAL > Potentiometer_THT : Potentiometer_Bourns_3009Y_Horizontal](#fzkppotentiometerbourns39yhorizontal--potentiometer_tht--potentiometer_bourns_3009y_horizontal)
+* [FZKPPOTBOURNS39YH > Potentiometer_THT : Potentiometer_Bourns_3009Y_Horizontal](#fzkppotbourns39yh--potentiometer_tht--potentiometer_bourns_3009y_horizontal)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKPPOTENTIOMETERBOURNS39YHORIZONTAL > Potentiometer_THT : Potentiometer_Bourns_3009Y_Horizontal
+# FZKPPOTBOURNS39YH > Potentiometer_THT : Potentiometer_Bourns_3009Y_Horizontal
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Potentiometer_THT-Potentiometer_Bourns_3009Y_Horizontal
-- Hex ID: FZKPPOTENTIOMETERBOURNS39YHORIZONTAL
+- Hex ID: FZKPPOTBOURNS39YH
 - Name: Potentiometer_THT : Potentiometer_Bourns_3009Y_Horizontal
 - Description: Potentiometer_THT : Potentiometer_Bourns_3009Y_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Potentiometer_THT-Potentiometer_Bourns_3009Y_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Potentiometer_THT-Potentiometer_Bourns_3009Y_Horizontal)
-- Short Link: [http://oom.lt/FZKPPOTENTIOMETERBOURNS39YHORIZONTAL](http://oom.lt/FZKPPOTENTIOMETERBOURNS39YHORIZONTAL)
+- Short Link: [http://oom.lt/FZKPPOTBOURNS39YH](http://oom.lt/FZKPPOTBOURNS39YH)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Potentiometer_THT|
 |OOMP Index|oompIndex|Potentiometer_Bourns_3009Y_Horizontal|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Potentiometer_THT-Potentiometer_Bourns_3009Y_Horizontal|
-|Hex ID (short code)|hexID|FZKPPOTENTIOMETERBOURNS39YHORIZONTAL|
+|Hex ID (short code)|hexID|FZKPPOTBOURNS39YH|
 |name|name|Potentiometer_THT : Potentiometer_Bourns_3009Y_Horizontal|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Potentiometer_Bourns_3009Y_Horizontal'</td><td> 'description'</td></tr><tr><td> 'Potentiometer</td><td> horizontal</td><td> Bourns 3009Y</td><td> http</td></tr><tr><td>//www.bourns.com/docs/Product-Datasheets/3009.pdf'</td><td> 'tags'</td></tr><tr><td> 'Potentiometer horizontal Bourns 3009Y'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Potentiometer_THT.3dshapes/Potentiometer_Bourns_3009Y_Horizontal.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||

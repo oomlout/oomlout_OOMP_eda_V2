@@ -5,18 +5,18 @@
 Contents
 ========
 
-* [SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSHEADJSTSHXPI15SMHSH15 > oomlout_OOMP_parts : HEAD-JSTSH-X-PI15-SM-HSH15](#szkicadoomloutoompkicadoomloutoomppartsheadjstshxpi15smhsh15--oomlout_oomp_parts--head-jstsh-x-pi15-sm-hsh15)
+* [SZOOMPKOOMPPHEADJSTSHXPI15SMHSH15 > oomlout_OOMP_parts : HEAD-JSTSH-X-PI15-SM-HSH15](#szoompkoomppheadjstshxpi15smhsh15--oomlout_oomp_parts--head-jstsh-x-pi15-sm-hsh15)
 	* [Tags](#tags)
   
 NO IMAGE  
-# SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSHEADJSTSHXPI15SMHSH15 > oomlout_OOMP_parts : HEAD-JSTSH-X-PI15-SM-HSH15
+# SZOOMPKOOMPPHEADJSTSHXPI15SMHSH15 > oomlout_OOMP_parts : HEAD-JSTSH-X-PI15-SM-HSH15
 
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-JSTSH-X-PI15-SM-HSH15
-- Hex ID: SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSHEADJSTSHXPI15SMHSH15
+- Hex ID: SZOOMPKOOMPPHEADJSTSHXPI15SMHSH15
 - Name: oomlout_OOMP_parts : HEAD-JSTSH-X-PI15-SM-HSH15
 - Description: oomlout_OOMP_parts : HEAD-JSTSH-X-PI15-SM-HSH15
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-JSTSH-X-PI15-SM-HSH15](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-JSTSH-X-PI15-SM-HSH15)
-- Short Link: [http://oom.lt/SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSHEADJSTSHXPI15SMHSH15](http://oom.lt/SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSHEADJSTSHXPI15SMHSH15)
+- Short Link: [http://oom.lt/SZOOMPKOOMPPHEADJSTSHXPI15SMHSH15](http://oom.lt/SZOOMPKOOMPPHEADJSTSHXPI15SMHSH15)
   
 NO IMAGES  
 ## Tags
@@ -30,7 +30,7 @@ NO IMAGES
 |OOMP Description|oompDesc|oomlout_OOMP_parts|
 |OOMP Index|oompIndex|HEAD-JSTSH-X-PI15-SM-HSH15|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-JSTSH-X-PI15-SM-HSH15|
-|Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSHEADJSTSHXPI15SMHSH15|
+|Hex ID (short code)|hexID|SZOOMPKOOMPPHEADJSTSHXPI15SMHSH15|
 |name|name|oomlout_OOMP_parts : HEAD-JSTSH-X-PI15-SM-HSH15|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'J'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'HEAD-JSTSH-X-PI15-SM-HSH15'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'oomlout_OOMP_parts</td></tr><tr><td>HEAD-JSTSH-X-PI15-SM-HSH15'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'oom.lt/HSH15'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'connector'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'hexID</td></tr><tr><td> HSH15;Generic connector</td><td> single row</td><td> 01x15</td><td> script generated (kicad-library-utils/schlib/autogen/connector/)'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Connector*</td></tr><tr><td>*_1x??_*'</td></tr></table>]|
 ||||

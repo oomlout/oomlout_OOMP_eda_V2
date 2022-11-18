@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKCNUUMBTENSILITY5423VERTICAL > Connector_USB : USB_Mini-B_Tensility_54-00023_Vertical](#fzkcnuumbtensility5423vertical--connector_usb--usb_mini-b_tensility_54-00023_vertical)
+* [FZKCNUUMBTENSILITY5423F > Connector_USB : USB_Mini-B_Tensility_54-00023_Vertical](#fzkcnuumbtensility5423f--connector_usb--usb_mini-b_tensility_54-00023_vertical)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKCNUUMBTENSILITY5423VERTICAL > Connector_USB : USB_Mini-B_Tensility_54-00023_Vertical
+# FZKCNUUMBTENSILITY5423F > Connector_USB : USB_Mini-B_Tensility_54-00023_Vertical
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_Mini-B_Tensility_54-00023_Vertical
-- Hex ID: FZKCNUUMBTENSILITY5423VERTICAL
+- Hex ID: FZKCNUUMBTENSILITY5423F
 - Name: Connector_USB : USB_Mini-B_Tensility_54-00023_Vertical
 - Description: Connector_USB : USB_Mini-B_Tensility_54-00023_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_Mini-B_Tensility_54-00023_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_Mini-B_Tensility_54-00023_Vertical)
-- Short Link: [http://oom.lt/FZKCNUUMBTENSILITY5423VERTICAL](http://oom.lt/FZKCNUUMBTENSILITY5423VERTICAL)
+- Short Link: [http://oom.lt/FZKCNUUMBTENSILITY5423F](http://oom.lt/FZKCNUUMBTENSILITY5423F)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Connector_USB|
 |OOMP Index|oompIndex|USB_Mini-B_Tensility_54-00023_Vertical|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_Mini-B_Tensility_54-00023_Vertical|
-|Hex ID (short code)|hexID|FZKCNUUMBTENSILITY5423VERTICAL|
+|Hex ID (short code)|hexID|FZKCNUUMBTENSILITY5423F|
 |name|name|Connector_USB : USB_Mini-B_Tensility_54-00023_Vertical|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'USB_Mini-B_Tensility_54-00023_Vertical'</td><td> 'description'</td></tr><tr><td> 'http</td></tr><tr><td>//www.tensility.com/pdffiles/54-00023.pdf'</td><td> 'tags'</td></tr><tr><td> 'usb mini receptacle vertical'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_USB.3dshapes/USB_Mini-B_Tensility_54-00023_Vertical.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

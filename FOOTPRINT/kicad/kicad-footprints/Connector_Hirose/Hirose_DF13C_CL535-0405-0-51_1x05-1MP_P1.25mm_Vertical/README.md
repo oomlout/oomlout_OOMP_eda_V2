@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKCNHIROSEHIROSEDF13CCL53545511X51MPP125VERTICAL > Connector_Hirose : Hirose_DF13C_CL535-0405-0-51_1x05-1MP_P1.25mm_Vertical](#fzkcnhirosehirosedf13ccl53545511x51mpp125vertical--connector_hirose--hirose_df13c_cl535-0405-0-51_1x05-1mp_p125mm_vertical)
+* [FZKCNHIROSEHIROSEDF13CCL53545511X51MPP125F > Connector_Hirose : Hirose_DF13C_CL535-0405-0-51_1x05-1MP_P1.25mm_Vertical](#fzkcnhirosehirosedf13ccl53545511x51mpp125f--connector_hirose--hirose_df13c_cl535-0405-0-51_1x05-1mp_p125mm_vertical)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKCNHIROSEHIROSEDF13CCL53545511X51MPP125VERTICAL > Connector_Hirose : Hirose_DF13C_CL535-0405-0-51_1x05-1MP_P1.25mm_Vertical
+# FZKCNHIROSEHIROSEDF13CCL53545511X51MPP125F > Connector_Hirose : Hirose_DF13C_CL535-0405-0-51_1x05-1MP_P1.25mm_Vertical
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_Hirose-Hirose_DF13C_CL535-0405-0-51_1x05-1MP_P1.25mm_Vertical
-- Hex ID: FZKCNHIROSEHIROSEDF13CCL53545511X51MPP125VERTICAL
+- Hex ID: FZKCNHIROSEHIROSEDF13CCL53545511X51MPP125F
 - Name: Connector_Hirose : Hirose_DF13C_CL535-0405-0-51_1x05-1MP_P1.25mm_Vertical
 - Description: Connector_Hirose : Hirose_DF13C_CL535-0405-0-51_1x05-1MP_P1.25mm_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Hirose-Hirose_DF13C_CL535-0405-0-51_1x05-1MP_P1.25mm_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Hirose-Hirose_DF13C_CL535-0405-0-51_1x05-1MP_P1.25mm_Vertical)
-- Short Link: [http://oom.lt/FZKCNHIROSEHIROSEDF13CCL53545511X51MPP125VERTICAL](http://oom.lt/FZKCNHIROSEHIROSEDF13CCL53545511X51MPP125VERTICAL)
+- Short Link: [http://oom.lt/FZKCNHIROSEHIROSEDF13CCL53545511X51MPP125F](http://oom.lt/FZKCNHIROSEHIROSEDF13CCL53545511X51MPP125F)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Connector_Hirose|
 |OOMP Index|oompIndex|Hirose_DF13C_CL535-0405-0-51_1x05-1MP_P1.25mm_Vertical|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Hirose-Hirose_DF13C_CL535-0405-0-51_1x05-1MP_P1.25mm_Vertical|
-|Hex ID (short code)|hexID|FZKCNHIROSEHIROSEDF13CCL53545511X51MPP125VERTICAL|
+|Hex ID (short code)|hexID|FZKCNHIROSEHIROSEDF13CCL53545511X51MPP125F|
 |name|name|Connector_Hirose : Hirose_DF13C_CL535-0405-0-51_1x05-1MP_P1.25mm_Vertical|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Hirose_DF13C_CL535-0405-0-51_1x05-1MP_P1.25mm_Vertical'</td><td> 'description'</td></tr><tr><td> 'Hirose DF13C SMD</td><td> CL535-0405-0-51</td><td> 5 Pins per row (https</td></tr><tr><td>//www.hirose.com/product/en/products/DF13/DF13C-10P-1.25V%2851%29/)</td><td> generated with kicad-footprint-generator'</td><td> 'tags'</td></tr><tr><td> 'connector Hirose DF13C vertical'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_Hirose.3dshapes/Hirose_DF13C_CL535-0405-0-51_1x05-1MP_P1.25mm_Vertical.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

@@ -6,9 +6,10 @@ Contents
 ========
 
 * [FZECONTHOMASBETTSHXR8ST > con-thomas-betts : HXR080ST](#fzeconthomasbettshxr8st--con-thomas-betts--hxr080st)
+	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZECONTHOMASBETTSHXR8ST > con-thomas-betts : HXR080ST
 
 - ID: FOOTPRINT-eagle-eagle-default-con-thomas-betts-HXR080ST
@@ -17,8 +18,14 @@ NO IMAGE
 - Description: con-thomas-betts : HXR080ST
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-thomas-betts-HXR080ST](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-thomas-betts-HXR080ST)
 - Short Link: [http://oom.lt/FZECONTHOMASBETTSHXR8ST](http://oom.lt/FZECONTHOMASBETTSHXR8ST)
+
+## Images
   
-NO IMAGES  
+
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/con-thomas-betts/HXR080ST/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/con-thomas-betts/HXR080ST/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/con-thomas-betts/HXR080ST/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/con-thomas-betts/HXR080ST/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/con-thomas-betts/HXR080ST/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/con-thomas-betts/HXR080ST/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/con-thomas-betts/HXR080ST/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/con-thomas-betts/HXR080ST/kicadPcb3dBack.png)|
+| :---: | :---: | :---: | :---: |
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/con-thomas-betts/HXR080ST/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/con-thomas-betts/HXR080ST/kicadPcb3d.png)||||
+
 ## Tags
   
 
@@ -33,3 +40,7 @@ NO IMAGES
 |Hex ID (short code)|hexID|FZECONTHOMASBETTSHXR8ST|
 |name|name|con-thomas-betts : HXR080ST|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

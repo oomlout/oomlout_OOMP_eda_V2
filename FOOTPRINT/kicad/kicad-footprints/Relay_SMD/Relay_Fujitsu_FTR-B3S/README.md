@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKRELAYSMRELAYFUJITSUFTRB3S > Relay_SMD : Relay_Fujitsu_FTR-B3S](#fzkrelaysmrelayfujitsuftrb3s--relay_smd--relay_fujitsu_ftr-b3s)
+* [FZKRELRELAYFUJITSUFTRB3S > Relay_SMD : Relay_Fujitsu_FTR-B3S](#fzkrelrelayfujitsuftrb3s--relay_smd--relay_fujitsu_ftr-b3s)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKRELAYSMRELAYFUJITSUFTRB3S > Relay_SMD : Relay_Fujitsu_FTR-B3S
+# FZKRELRELAYFUJITSUFTRB3S > Relay_SMD : Relay_Fujitsu_FTR-B3S
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Relay_SMD-Relay_Fujitsu_FTR-B3S
-- Hex ID: FZKRELAYSMRELAYFUJITSUFTRB3S
+- Hex ID: FZKRELRELAYFUJITSUFTRB3S
 - Name: Relay_SMD : Relay_Fujitsu_FTR-B3S
 - Description: Relay_SMD : Relay_Fujitsu_FTR-B3S
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Relay_SMD-Relay_Fujitsu_FTR-B3S](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Relay_SMD-Relay_Fujitsu_FTR-B3S)
-- Short Link: [http://oom.lt/FZKRELAYSMRELAYFUJITSUFTRB3S](http://oom.lt/FZKRELAYSMRELAYFUJITSUFTRB3S)
+- Short Link: [http://oom.lt/FZKRELRELAYFUJITSUFTRB3S](http://oom.lt/FZKRELRELAYFUJITSUFTRB3S)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Relay_SMD|
 |OOMP Index|oompIndex|Relay_Fujitsu_FTR-B3S|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Relay_SMD-Relay_Fujitsu_FTR-B3S|
-|Hex ID (short code)|hexID|FZKRELAYSMRELAYFUJITSUFTRB3S|
+|Hex ID (short code)|hexID|FZKRELRELAYFUJITSUFTRB3S|
 |name|name|Relay_SMD : Relay_Fujitsu_FTR-B3S|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Relay_Fujitsu_FTR-B3S'</td><td> 'description'</td></tr><tr><td> 'https</td></tr><tr><td>//www.fujitsu.com/downloads/MICRO/fcai/relays/ftr-b3.pdf'</td><td> 'tags'</td></tr><tr><td> 'Fujitsh FTR B3S B3SA Relay J JLeg'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Relay_SMD.3dshapes/Relay_Fujitsu_FTR-B3S.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||

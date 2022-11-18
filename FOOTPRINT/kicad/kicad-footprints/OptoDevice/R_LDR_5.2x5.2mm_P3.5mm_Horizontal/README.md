@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKOPRLDR52X52P35HORIZONTAL > OptoDevice : R_LDR_5.2x5.2mm_P3.5mm_Horizontal](#fzkoprldr52x52p35horizontal--optodevice--r_ldr_52x52mm_p35mm_horizontal)
+* [FZKOPRLDR52X52P35H > OptoDevice : R_LDR_5.2x5.2mm_P3.5mm_Horizontal](#fzkoprldr52x52p35h--optodevice--r_ldr_52x52mm_p35mm_horizontal)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKOPRLDR52X52P35HORIZONTAL > OptoDevice : R_LDR_5.2x5.2mm_P3.5mm_Horizontal
+# FZKOPRLDR52X52P35H > OptoDevice : R_LDR_5.2x5.2mm_P3.5mm_Horizontal
 
 - ID: FOOTPRINT-kicad-kicad-footprints-OptoDevice-R_LDR_5.2x5.2mm_P3.5mm_Horizontal
-- Hex ID: FZKOPRLDR52X52P35HORIZONTAL
+- Hex ID: FZKOPRLDR52X52P35H
 - Name: OptoDevice : R_LDR_5.2x5.2mm_P3.5mm_Horizontal
 - Description: OptoDevice : R_LDR_5.2x5.2mm_P3.5mm_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-OptoDevice-R_LDR_5.2x5.2mm_P3.5mm_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-OptoDevice-R_LDR_5.2x5.2mm_P3.5mm_Horizontal)
-- Short Link: [http://oom.lt/FZKOPRLDR52X52P35HORIZONTAL](http://oom.lt/FZKOPRLDR52X52P35HORIZONTAL)
+- Short Link: [http://oom.lt/FZKOPRLDR52X52P35H](http://oom.lt/FZKOPRLDR52X52P35H)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|OptoDevice|
 |OOMP Index|oompIndex|R_LDR_5.2x5.2mm_P3.5mm_Horizontal|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-OptoDevice-R_LDR_5.2x5.2mm_P3.5mm_Horizontal|
-|Hex ID (short code)|hexID|FZKOPRLDR52X52P35HORIZONTAL|
+|Hex ID (short code)|hexID|FZKOPRLDR52X52P35H|
 |name|name|OptoDevice : R_LDR_5.2x5.2mm_P3.5mm_Horizontal|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'R_LDR_5.2x5.2mm_P3.5mm_Horizontal'</td><td> 'description'</td></tr><tr><td> 'Resistor</td><td> LDR 5.2x5.2</td><td> upright</td><td> see http</td></tr><tr><td>//cdn-reichelt.de/documents/datenblatt/A500/M996011A.pdf'</td><td> 'tags'</td></tr><tr><td> 'Resistor LDR5.2x5.2 '</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/OptoDevice.3dshapes/R_LDR_5.2x5.2mm_P3.5mm_Horizontal.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||

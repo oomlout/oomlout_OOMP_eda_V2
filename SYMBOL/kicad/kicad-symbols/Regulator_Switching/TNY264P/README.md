@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [SZKREGULATORSWITCHINGTNY264P > Regulator_Switching : TNY264P](#szkregulatorswitchingtny264p--regulator_switching--tny264p)
+* [SZKREGULATORSWINGTNY264P > Regulator_Switching : TNY264P](#szkregulatorswingtny264p--regulator_switching--tny264p)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# SZKREGULATORSWITCHINGTNY264P > Regulator_Switching : TNY264P
+# SZKREGULATORSWINGTNY264P > Regulator_Switching : TNY264P
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-TNY264P
-- Hex ID: SZKREGULATORSWITCHINGTNY264P
+- Hex ID: SZKREGULATORSWINGTNY264P
 - Name: Regulator_Switching : TNY264P
 - Description: Regulator_Switching : TNY264P
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TNY264P](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TNY264P)
-- Short Link: [http://oom.lt/SZKREGULATORSWITCHINGTNY264P](http://oom.lt/SZKREGULATORSWITCHINGTNY264P)
+- Short Link: [http://oom.lt/SZKREGULATORSWINGTNY264P](http://oom.lt/SZKREGULATORSWINGTNY264P)
 
 ## Images
   
@@ -36,7 +36,7 @@ Contents
 |OOMP Description|oompDesc|Regulator_Switching|
 |OOMP Index|oompIndex|TNY264P|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-TNY264P|
-|Hex ID (short code)|hexID|SZKREGULATORSWITCHINGTNY264P|
+|Hex ID (short code)|hexID|SZKREGULATORSWINGTNY264P|
 |name|name|Regulator_Switching : TNY264P|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'TNY263P'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'TNY264P'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DIP</td></tr><tr><td>PowerIntegrations_PDIP-8B'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.powerint.com/sites/default/files/product-docs/tny263_268.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Enhanced</td><td> Energy Efficient</td><td> Low Power Off-line Switcher'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'TinySwitch-II Family</td><td> 6W Output Power</td><td> DIP-8B'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'PowerIntegrations?PDIP?8B*'</td></tr></table>]|
 ||||

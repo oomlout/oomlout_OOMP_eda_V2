@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSUMBFEMALEVERT151331 > digikey-footprints : USB_Micro_B_Female_Vert_1051330001](#fzkicaddigikeykicadlibrarydigikeyfootprintsumbfemalevert151331--digikey-footprints--usb_micro_b_female_vert_1051330001)
+* [FZDIGIDIGIKEYFOOTPRINTSUMBFVERT151331 > digikey-footprints : USB_Micro_B_Female_Vert_1051330001](#fzdigidigikeyfootprintsumbfvert151331--digikey-footprints--usb_micro_b_female_vert_1051330001)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSUMBFEMALEVERT151331 > digikey-footprints : USB_Micro_B_Female_Vert_1051330001
+# FZDIGIDIGIKEYFOOTPRINTSUMBFVERT151331 > digikey-footprints : USB_Micro_B_Female_Vert_1051330001
 
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-USB_Micro_B_Female_Vert_1051330001
-- Hex ID: FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSUMBFEMALEVERT151331
+- Hex ID: FZDIGIDIGIKEYFOOTPRINTSUMBFVERT151331
 - Name: digikey-footprints : USB_Micro_B_Female_Vert_1051330001
 - Description: digikey-footprints : USB_Micro_B_Female_Vert_1051330001
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-USB_Micro_B_Female_Vert_1051330001](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-USB_Micro_B_Female_Vert_1051330001)
-- Short Link: [http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSUMBFEMALEVERT151331](http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSUMBFEMALEVERT151331)
+- Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSUMBFVERT151331](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSUMBFVERT151331)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|digikey-footprints|
 |OOMP Index|oompIndex|USB_Micro_B_Female_Vert_1051330001|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-USB_Micro_B_Female_Vert_1051330001|
-|Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSUMBFEMALEVERT151331|
+|Hex ID (short code)|hexID|FZDIGIDIGIKEYFOOTPRINTSUMBFVERT151331|
 |name|name|digikey-footprints : USB_Micro_B_Female_Vert_1051330001|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'USB_Micro_B_Female_Vert_1051330001'</td><td> 'description'</td></tr><tr><td> 'http</td></tr><tr><td>//www.molex.com/pdm_docs/sd/1051330001_sd.pdf'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'oval'</td></tr></table></td></tr></table>|
 ||||

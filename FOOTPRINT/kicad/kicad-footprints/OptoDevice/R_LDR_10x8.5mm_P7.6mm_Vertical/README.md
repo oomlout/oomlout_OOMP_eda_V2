@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKOPRLDR1X85P76VERTICAL > OptoDevice : R_LDR_10x8.5mm_P7.6mm_Vertical](#fzkoprldr1x85p76vertical--optodevice--r_ldr_10x85mm_p76mm_vertical)
+* [FZKOPRLDR1X85P76F > OptoDevice : R_LDR_10x8.5mm_P7.6mm_Vertical](#fzkoprldr1x85p76f--optodevice--r_ldr_10x85mm_p76mm_vertical)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKOPRLDR1X85P76VERTICAL > OptoDevice : R_LDR_10x8.5mm_P7.6mm_Vertical
+# FZKOPRLDR1X85P76F > OptoDevice : R_LDR_10x8.5mm_P7.6mm_Vertical
 
 - ID: FOOTPRINT-kicad-kicad-footprints-OptoDevice-R_LDR_10x8.5mm_P7.6mm_Vertical
-- Hex ID: FZKOPRLDR1X85P76VERTICAL
+- Hex ID: FZKOPRLDR1X85P76F
 - Name: OptoDevice : R_LDR_10x8.5mm_P7.6mm_Vertical
 - Description: OptoDevice : R_LDR_10x8.5mm_P7.6mm_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-OptoDevice-R_LDR_10x8.5mm_P7.6mm_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-OptoDevice-R_LDR_10x8.5mm_P7.6mm_Vertical)
-- Short Link: [http://oom.lt/FZKOPRLDR1X85P76VERTICAL](http://oom.lt/FZKOPRLDR1X85P76VERTICAL)
+- Short Link: [http://oom.lt/FZKOPRLDR1X85P76F](http://oom.lt/FZKOPRLDR1X85P76F)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|OptoDevice|
 |OOMP Index|oompIndex|R_LDR_10x8.5mm_P7.6mm_Vertical|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-OptoDevice-R_LDR_10x8.5mm_P7.6mm_Vertical|
-|Hex ID (short code)|hexID|FZKOPRLDR1X85P76VERTICAL|
+|Hex ID (short code)|hexID|FZKOPRLDR1X85P76F|
 |name|name|OptoDevice : R_LDR_10x8.5mm_P7.6mm_Vertical|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'R_LDR_10x8.5mm_P7.6mm_Vertical'</td><td> 'description'</td></tr><tr><td> 'Resistor</td><td> LDR 10x8.5mm'</td><td> 'tags'</td></tr><tr><td> 'Resistor LDR10.8.5mm'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/OptoDevice.3dshapes/R_LDR_10x8.5mm_P7.6mm_Vertical.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||

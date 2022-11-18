@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKCNMXMXSLIMSTACK5192312X15P5VERTICAL > Connector_Molex : Molex_SlimStack_501920-3001_2x15_P0.50mm_Vertical](#fzkcnmxmxslimstack5192312x15p5vertical--connector_molex--molex_slimstack_501920-3001_2x15_p050mm_vertical)
+* [FZKCNMXMXSLIMSTACK5192312X15P5F > Connector_Molex : Molex_SlimStack_501920-3001_2x15_P0.50mm_Vertical](#fzkcnmxmxslimstack5192312x15p5f--connector_molex--molex_slimstack_501920-3001_2x15_p050mm_vertical)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKCNMXMXSLIMSTACK5192312X15P5VERTICAL > Connector_Molex : Molex_SlimStack_501920-3001_2x15_P0.50mm_Vertical
+# FZKCNMXMXSLIMSTACK5192312X15P5F > Connector_Molex : Molex_SlimStack_501920-3001_2x15_P0.50mm_Vertical
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_SlimStack_501920-3001_2x15_P0.50mm_Vertical
-- Hex ID: FZKCNMXMXSLIMSTACK5192312X15P5VERTICAL
+- Hex ID: FZKCNMXMXSLIMSTACK5192312X15P5F
 - Name: Connector_Molex : Molex_SlimStack_501920-3001_2x15_P0.50mm_Vertical
 - Description: Connector_Molex : Molex_SlimStack_501920-3001_2x15_P0.50mm_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_SlimStack_501920-3001_2x15_P0.50mm_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_SlimStack_501920-3001_2x15_P0.50mm_Vertical)
-- Short Link: [http://oom.lt/FZKCNMXMXSLIMSTACK5192312X15P5VERTICAL](http://oom.lt/FZKCNMXMXSLIMSTACK5192312X15P5VERTICAL)
+- Short Link: [http://oom.lt/FZKCNMXMXSLIMSTACK5192312X15P5F](http://oom.lt/FZKCNMXMXSLIMSTACK5192312X15P5F)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Connector_Molex|
 |OOMP Index|oompIndex|Molex_SlimStack_501920-3001_2x15_P0.50mm_Vertical|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_SlimStack_501920-3001_2x15_P0.50mm_Vertical|
-|Hex ID (short code)|hexID|FZKCNMXMXSLIMSTACK5192312X15P5VERTICAL|
+|Hex ID (short code)|hexID|FZKCNMXMXSLIMSTACK5192312X15P5F|
 |name|name|Connector_Molex : Molex_SlimStack_501920-3001_2x15_P0.50mm_Vertical|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Molex_SlimStack_501920-3001_2x15_P0.50mm_Vertical'</td><td> 'description'</td></tr><tr><td> 'Molex SlimStack Fine-Pitch SMT Board-to-Board Connectors</td><td> 501920-3001</td><td> 30 Pins (http</td></tr><tr><td>//www.molex.com/pdm_docs/sd/5019204001_sd.pdf)</td><td> generated with kicad-footprint-generator'</td><td> 'tags'</td></tr><tr><td> 'connector Molex SlimStack side entry'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_Molex.3dshapes/Molex_SlimStack_501920-3001_2x15_P0.50mm_Vertical.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

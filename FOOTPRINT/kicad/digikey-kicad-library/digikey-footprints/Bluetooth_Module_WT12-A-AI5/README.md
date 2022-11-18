@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSBLUETOOTHMOWT12AAI5 > digikey-footprints : Bluetooth_Module_WT12-A-AI5](#fzkicaddigikeykicadlibrarydigikeyfootprintsbluetoothmowt12aai5--digikey-footprints--bluetooth_module_wt12-a-ai5)
+* [FZDIGIDIGIKEYFOOTPRINTSBLUETOOTHMOWT12AAI5 > digikey-footprints : Bluetooth_Module_WT12-A-AI5](#fzdigidigikeyfootprintsbluetoothmowt12aai5--digikey-footprints--bluetooth_module_wt12-a-ai5)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSBLUETOOTHMOWT12AAI5 > digikey-footprints : Bluetooth_Module_WT12-A-AI5
+# FZDIGIDIGIKEYFOOTPRINTSBLUETOOTHMOWT12AAI5 > digikey-footprints : Bluetooth_Module_WT12-A-AI5
 
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Bluetooth_Module_WT12-A-AI5
-- Hex ID: FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSBLUETOOTHMOWT12AAI5
+- Hex ID: FZDIGIDIGIKEYFOOTPRINTSBLUETOOTHMOWT12AAI5
 - Name: digikey-footprints : Bluetooth_Module_WT12-A-AI5
 - Description: digikey-footprints : Bluetooth_Module_WT12-A-AI5
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Bluetooth_Module_WT12-A-AI5](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Bluetooth_Module_WT12-A-AI5)
-- Short Link: [http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSBLUETOOTHMOWT12AAI5](http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSBLUETOOTHMOWT12AAI5)
+- Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSBLUETOOTHMOWT12AAI5](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSBLUETOOTHMOWT12AAI5)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|digikey-footprints|
 |OOMP Index|oompIndex|Bluetooth_Module_WT12-A-AI5|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Bluetooth_Module_WT12-A-AI5|
-|Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSBLUETOOTHMOWT12AAI5|
+|Hex ID (short code)|hexID|FZDIGIDIGIKEYFOOTPRINTSBLUETOOTHMOWT12AAI5|
 |name|name|digikey-footprints : Bluetooth_Module_WT12-A-AI5|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Bluetooth_Module_WT12-A-AI5'</td><td> 'description'</td></tr><tr><td> 'http</td></tr><tr><td>//www.digikey.com/products/en?keywords=Bluetooth_Module_WT12-A-AI5'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'oval'</td></tr></table></td></tr></table>|
 ||||

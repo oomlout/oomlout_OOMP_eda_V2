@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSPARTICLEPHOTON > digikey-footprints : Particle_Photon](#fzkicaddigikeykicadlibrarydigikeyfootprintsparticlephoton--digikey-footprints--particle_photon)
+* [FZDIGIDIGIKEYFOOTPRINTSPARTICLEPHOTON > digikey-footprints : Particle_Photon](#fzdigidigikeyfootprintsparticlephoton--digikey-footprints--particle_photon)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSPARTICLEPHOTON > digikey-footprints : Particle_Photon
+# FZDIGIDIGIKEYFOOTPRINTSPARTICLEPHOTON > digikey-footprints : Particle_Photon
 
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Particle_Photon
-- Hex ID: FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSPARTICLEPHOTON
+- Hex ID: FZDIGIDIGIKEYFOOTPRINTSPARTICLEPHOTON
 - Name: digikey-footprints : Particle_Photon
 - Description: digikey-footprints : Particle_Photon
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Particle_Photon](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Particle_Photon)
-- Short Link: [http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSPARTICLEPHOTON](http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSPARTICLEPHOTON)
+- Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSPARTICLEPHOTON](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSPARTICLEPHOTON)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|digikey-footprints|
 |OOMP Index|oompIndex|Particle_Photon|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Particle_Photon|
-|Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSPARTICLEPHOTON|
+|Hex ID (short code)|hexID|FZDIGIDIGIKEYFOOTPRINTSPARTICLEPHOTON|
 |name|name|digikey-footprints : Particle_Photon|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Particle_Photon'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> None</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||

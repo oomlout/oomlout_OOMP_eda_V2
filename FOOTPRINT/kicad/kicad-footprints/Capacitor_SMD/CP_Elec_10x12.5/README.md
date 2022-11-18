@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKCAPACITORSMCPELEC1X125 > Capacitor_SMD : CP_Elec_10x12.5](#fzkcapacitorsmcpelec1x125--capacitor_smd--cp_elec_10x125)
+* [FZKCCPELEC1X125 > Capacitor_SMD : CP_Elec_10x12.5](#fzkccpelec1x125--capacitor_smd--cp_elec_10x125)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKCAPACITORSMCPELEC1X125 > Capacitor_SMD : CP_Elec_10x12.5
+# FZKCCPELEC1X125 > Capacitor_SMD : CP_Elec_10x12.5
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-CP_Elec_10x12.5
-- Hex ID: FZKCAPACITORSMCPELEC1X125
+- Hex ID: FZKCCPELEC1X125
 - Name: Capacitor_SMD : CP_Elec_10x12.5
 - Description: Capacitor_SMD : CP_Elec_10x12.5
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-CP_Elec_10x12.5](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-CP_Elec_10x12.5)
-- Short Link: [http://oom.lt/FZKCAPACITORSMCPELEC1X125](http://oom.lt/FZKCAPACITORSMCPELEC1X125)
+- Short Link: [http://oom.lt/FZKCCPELEC1X125](http://oom.lt/FZKCCPELEC1X125)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Capacitor_SMD|
 |OOMP Index|oompIndex|CP_Elec_10x12.5|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-CP_Elec_10x12.5|
-|Hex ID (short code)|hexID|FZKCAPACITORSMCPELEC1X125|
+|Hex ID (short code)|hexID|FZKCCPELEC1X125|
 |name|name|Capacitor_SMD : CP_Elec_10x12.5|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'CP_Elec_10x12.5'</td><td> 'description'</td></tr><tr><td> 'SMD capacitor</td><td> aluminum electrolytic</td><td> Vishay 1012</td><td> 10.0x12.5mm</td><td> http</td></tr><tr><td>//www.vishay.com/docs/28395/150crz.pdf'</td><td> 'tags'</td></tr><tr><td> 'capacitor electrolytic'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Capacitor_SMD.3dshapes/CP_Elec_10x12.5.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||

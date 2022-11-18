@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKCNJSTJSTZEBM13BZESSTBT1X131MPP15VERTICAL > Connector_JST : JST_ZE_BM13B-ZESS-TBT_1x13-1MP_P1.50mm_Vertical](#fzkcnjstjstzebm13bzesstbt1x131mpp15vertical--connector_jst--jst_ze_bm13b-zess-tbt_1x13-1mp_p150mm_vertical)
+* [FZKCNJSTJSTZEBM13BZESSTBT1X131MPP15F > Connector_JST : JST_ZE_BM13B-ZESS-TBT_1x13-1MP_P1.50mm_Vertical](#fzkcnjstjstzebm13bzesstbt1x131mpp15f--connector_jst--jst_ze_bm13b-zess-tbt_1x13-1mp_p150mm_vertical)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKCNJSTJSTZEBM13BZESSTBT1X131MPP15VERTICAL > Connector_JST : JST_ZE_BM13B-ZESS-TBT_1x13-1MP_P1.50mm_Vertical
+# FZKCNJSTJSTZEBM13BZESSTBT1X131MPP15F > Connector_JST : JST_ZE_BM13B-ZESS-TBT_1x13-1MP_P1.50mm_Vertical
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_ZE_BM13B-ZESS-TBT_1x13-1MP_P1.50mm_Vertical
-- Hex ID: FZKCNJSTJSTZEBM13BZESSTBT1X131MPP15VERTICAL
+- Hex ID: FZKCNJSTJSTZEBM13BZESSTBT1X131MPP15F
 - Name: Connector_JST : JST_ZE_BM13B-ZESS-TBT_1x13-1MP_P1.50mm_Vertical
 - Description: Connector_JST : JST_ZE_BM13B-ZESS-TBT_1x13-1MP_P1.50mm_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_ZE_BM13B-ZESS-TBT_1x13-1MP_P1.50mm_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_ZE_BM13B-ZESS-TBT_1x13-1MP_P1.50mm_Vertical)
-- Short Link: [http://oom.lt/FZKCNJSTJSTZEBM13BZESSTBT1X131MPP15VERTICAL](http://oom.lt/FZKCNJSTJSTZEBM13BZESSTBT1X131MPP15VERTICAL)
+- Short Link: [http://oom.lt/FZKCNJSTJSTZEBM13BZESSTBT1X131MPP15F](http://oom.lt/FZKCNJSTJSTZEBM13BZESSTBT1X131MPP15F)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Connector_JST|
 |OOMP Index|oompIndex|JST_ZE_BM13B-ZESS-TBT_1x13-1MP_P1.50mm_Vertical|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_ZE_BM13B-ZESS-TBT_1x13-1MP_P1.50mm_Vertical|
-|Hex ID (short code)|hexID|FZKCNJSTJSTZEBM13BZESSTBT1X131MPP15VERTICAL|
+|Hex ID (short code)|hexID|FZKCNJSTJSTZEBM13BZESSTBT1X131MPP15F|
 |name|name|Connector_JST : JST_ZE_BM13B-ZESS-TBT_1x13-1MP_P1.50mm_Vertical|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'JST_ZE_BM13B-ZESS-TBT_1x13-1MP_P1.50mm_Vertical'</td><td> 'description'</td></tr><tr><td> 'JST ZE series connector</td><td> BM13B-ZESS-TBT (http</td></tr><tr><td>//www.jst-mfg.com/product/pdf/eng/eZE.pdf)</td><td> generated with kicad-footprint-generator'</td><td> 'tags'</td></tr><tr><td> 'connector JST ZE vertical'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_JST.3dshapes/JST_ZE_BM13B-ZESS-TBT_1x13-1MP_P1.50mm_Vertical.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||

@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKRESISTORSMR1213225METRIC > Resistor_SMD : R_1210_3225Metric](#fzkresistorsmr1213225metric--resistor_smd--r_1210_3225metric)
+* [FZKRR1213225VA > Resistor_SMD : R_1210_3225Metric](#fzkrr1213225va--resistor_smd--r_1210_3225metric)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKRESISTORSMR1213225METRIC > Resistor_SMD : R_1210_3225Metric
+# FZKRR1213225VA > Resistor_SMD : R_1210_3225Metric
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_1210_3225Metric
-- Hex ID: FZKRESISTORSMR1213225METRIC
+- Hex ID: FZKRR1213225VA
 - Name: Resistor_SMD : R_1210_3225Metric
 - Description: Resistor_SMD : R_1210_3225Metric
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_1210_3225Metric](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_1210_3225Metric)
-- Short Link: [http://oom.lt/FZKRESISTORSMR1213225METRIC](http://oom.lt/FZKRESISTORSMR1213225METRIC)
+- Short Link: [http://oom.lt/FZKRR1213225VA](http://oom.lt/FZKRR1213225VA)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Resistor_SMD|
 |OOMP Index|oompIndex|R_1210_3225Metric|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_1210_3225Metric|
-|Hex ID (short code)|hexID|FZKRESISTORSMR1213225METRIC|
+|Hex ID (short code)|hexID|FZKRR1213225VA|
 |name|name|Resistor_SMD : R_1210_3225Metric|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'R_1210_3225Metric'</td><td> 'description'</td></tr><tr><td> 'Resistor SMD 1210 (3225 Metric)</td><td> square (rectangular) end terminal</td><td> IPC_7351 nominal</td><td> (Body size source</td></tr><tr><td> IPC-SM-782 page 72</td><td> https</td></tr><tr><td>//www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)</td><td> generated with kicad-footprint-generator'</td><td> 'tags'</td></tr><tr><td> 'resistor'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Resistor_SMD.3dshapes/R_1210_3225Metric.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||

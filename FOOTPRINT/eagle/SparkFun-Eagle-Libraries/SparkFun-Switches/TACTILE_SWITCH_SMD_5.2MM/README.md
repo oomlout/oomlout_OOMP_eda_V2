@@ -5,18 +5,18 @@
 Contents
 ========
 
-* [FZSWTACTILESWITCHSM52 > SparkFun-Switches : TACTILE_SWITCH_SMD_5.2MM](#fzswtactileswitchsm52--sparkfun-switches--tactile_switch_smd_52mm)
+* [FZSWTSWSM52 > SparkFun-Switches : TACTILE_SWITCH_SMD_5.2MM](#fzswtswsm52--sparkfun-switches--tactile_switch_smd_52mm)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZSWTACTILESWITCHSM52 > SparkFun-Switches : TACTILE_SWITCH_SMD_5.2MM
+# FZSWTSWSM52 > SparkFun-Switches : TACTILE_SWITCH_SMD_5.2MM
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Switches-TACTILE_SWITCH_SMD_5.2MM
-- Hex ID: FZSWTACTILESWITCHSM52
+- Hex ID: FZSWTSWSM52
 - Name: SparkFun-Switches : TACTILE_SWITCH_SMD_5.2MM
 - Description: SparkFun-Switches : TACTILE_SWITCH_SMD_5.2MM
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Switches-TACTILE_SWITCH_SMD_5.2MM](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Switches-TACTILE_SWITCH_SMD_5.2MM)
-- Short Link: [http://oom.lt/FZSWTACTILESWITCHSM52](http://oom.lt/FZSWTACTILESWITCHSM52)
+- Short Link: [http://oom.lt/FZSWTSWSM52](http://oom.lt/FZSWTSWSM52)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +30,6 @@ NO IMAGES
 |OOMP Description|oompDesc|SparkFun-Switches|
 |OOMP Index|oompIndex|TACTILE_SWITCH_SMD_5.2MM|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Switches-TACTILE_SWITCH_SMD_5.2MM|
-|Hex ID (short code)|hexID|FZSWTACTILESWITCHSM52|
+|Hex ID (short code)|hexID|FZSWTSWSM52|
 |name|name|SparkFun-Switches : TACTILE_SWITCH_SMD_5.2MM|
 ||||

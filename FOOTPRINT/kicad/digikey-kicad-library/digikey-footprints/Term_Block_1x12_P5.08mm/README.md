@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSTERMBL1X12P58 > digikey-footprints : Term_Block_1x12_P5.08mm](#fzkicaddigikeykicadlibrarydigikeyfootprintstermbl1x12p58--digikey-footprints--term_block_1x12_p508mm)
+* [FZDIGIDIGIKEYFOOTPRINTSTERMBL1X12P58 > digikey-footprints : Term_Block_1x12_P5.08mm](#fzdigidigikeyfootprintstermbl1x12p58--digikey-footprints--term_block_1x12_p508mm)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSTERMBL1X12P58 > digikey-footprints : Term_Block_1x12_P5.08mm
+# FZDIGIDIGIKEYFOOTPRINTSTERMBL1X12P58 > digikey-footprints : Term_Block_1x12_P5.08mm
 
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Term_Block_1x12_P5.08mm
-- Hex ID: FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSTERMBL1X12P58
+- Hex ID: FZDIGIDIGIKEYFOOTPRINTSTERMBL1X12P58
 - Name: digikey-footprints : Term_Block_1x12_P5.08mm
 - Description: digikey-footprints : Term_Block_1x12_P5.08mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Term_Block_1x12_P5.08mm](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Term_Block_1x12_P5.08mm)
-- Short Link: [http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSTERMBL1X12P58](http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSTERMBL1X12P58)
+- Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSTERMBL1X12P58](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSTERMBL1X12P58)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|digikey-footprints|
 |OOMP Index|oompIndex|Term_Block_1x12_P5.08mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Term_Block_1x12_P5.08mm|
-|Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSTERMBL1X12P58|
+|Hex ID (short code)|hexID|FZDIGIDIGIKEYFOOTPRINTSTERMBL1X12P58|
 |name|name|digikey-footprints : Term_Block_1x12_P5.08mm|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Term_Block_1x12_P5.08mm'</td><td> 'description'</td></tr><tr><td> 'http</td></tr><tr><td>//www.on-shore.com/wp-content/uploads/2015/09/osttcxx2162.pdf'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> None</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

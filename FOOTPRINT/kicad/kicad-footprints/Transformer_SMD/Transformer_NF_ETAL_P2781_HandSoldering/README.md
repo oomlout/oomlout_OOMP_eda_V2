@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKTRSMTRNFETALP2781HANDSOLDERING > Transformer_SMD : Transformer_NF_ETAL_P2781_HandSoldering](#fzktrsmtrnfetalp2781handsoldering--transformer_smd--transformer_nf_etal_p2781_handsoldering)
+* [FZKTRTRNFETALP2781HANDSOLDERING > Transformer_SMD : Transformer_NF_ETAL_P2781_HandSoldering](#fzktrtrnfetalp2781handsoldering--transformer_smd--transformer_nf_etal_p2781_handsoldering)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKTRSMTRNFETALP2781HANDSOLDERING > Transformer_SMD : Transformer_NF_ETAL_P2781_HandSoldering
+# FZKTRTRNFETALP2781HANDSOLDERING > Transformer_SMD : Transformer_NF_ETAL_P2781_HandSoldering
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Transformer_SMD-Transformer_NF_ETAL_P2781_HandSoldering
-- Hex ID: FZKTRSMTRNFETALP2781HANDSOLDERING
+- Hex ID: FZKTRTRNFETALP2781HANDSOLDERING
 - Name: Transformer_SMD : Transformer_NF_ETAL_P2781_HandSoldering
 - Description: Transformer_SMD : Transformer_NF_ETAL_P2781_HandSoldering
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Transformer_SMD-Transformer_NF_ETAL_P2781_HandSoldering](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Transformer_SMD-Transformer_NF_ETAL_P2781_HandSoldering)
-- Short Link: [http://oom.lt/FZKTRSMTRNFETALP2781HANDSOLDERING](http://oom.lt/FZKTRSMTRNFETALP2781HANDSOLDERING)
+- Short Link: [http://oom.lt/FZKTRTRNFETALP2781HANDSOLDERING](http://oom.lt/FZKTRTRNFETALP2781HANDSOLDERING)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Transformer_SMD|
 |OOMP Index|oompIndex|Transformer_NF_ETAL_P2781_HandSoldering|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Transformer_SMD-Transformer_NF_ETAL_P2781_HandSoldering|
-|Hex ID (short code)|hexID|FZKTRSMTRNFETALP2781HANDSOLDERING|
+|Hex ID (short code)|hexID|FZKTRTRNFETALP2781HANDSOLDERING|
 |name|name|Transformer_SMD : Transformer_NF_ETAL_P2781_HandSoldering|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Transformer_NF_ETAL_P2781_HandSoldering'</td><td> 'description'</td></tr><tr><td> 'NF-Transformer</td><td> ETAL</td><td> P2781</td><td> SMD</td><td> Handsoldering'</td><td> 'tags'</td></tr><tr><td> 'NF-Transformer ETAL P2781 SMD Handsoldering '</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Transformer_SMD.3dshapes/Transformer_NF_ETAL_P2781_HandSoldering.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKRESISTORSMRELFU12 > Resistor_SMD : R_MicroMELF_MMU-0102](#fzkresistorsmrelfu12--resistor_smd--r_micromelf_mmu-0102)
+* [FZKRRELFU12 > Resistor_SMD : R_MicroMELF_MMU-0102](#fzkrrelfu12--resistor_smd--r_micromelf_mmu-0102)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKRESISTORSMRELFU12 > Resistor_SMD : R_MicroMELF_MMU-0102
+# FZKRRELFU12 > Resistor_SMD : R_MicroMELF_MMU-0102
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_MicroMELF_MMU-0102
-- Hex ID: FZKRESISTORSMRELFU12
+- Hex ID: FZKRRELFU12
 - Name: Resistor_SMD : R_MicroMELF_MMU-0102
 - Description: Resistor_SMD : R_MicroMELF_MMU-0102
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_MicroMELF_MMU-0102](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_MicroMELF_MMU-0102)
-- Short Link: [http://oom.lt/FZKRESISTORSMRELFU12](http://oom.lt/FZKRESISTORSMRELFU12)
+- Short Link: [http://oom.lt/FZKRRELFU12](http://oom.lt/FZKRRELFU12)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Resistor_SMD|
 |OOMP Index|oompIndex|R_MicroMELF_MMU-0102|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_MicroMELF_MMU-0102|
-|Hex ID (short code)|hexID|FZKRESISTORSMRELFU12|
+|Hex ID (short code)|hexID|FZKRRELFU12|
 |name|name|Resistor_SMD : R_MicroMELF_MMU-0102|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'R_MicroMELF_MMU-0102'</td><td> 'description'</td></tr><tr><td> 'Resistor</td><td> MicroMELF</td><td> MMU-0102</td><td> http</td></tr><tr><td>//www.vishay.com/docs/28713/melfprof.pdf'</td><td> 'tags'</td></tr><tr><td> 'MicroMELF Resistor'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Resistor_SMD.3dshapes/R_MicroMELF_MMU-0102.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

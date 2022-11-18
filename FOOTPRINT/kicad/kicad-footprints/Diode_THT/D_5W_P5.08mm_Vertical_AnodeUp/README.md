@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKDD5WP58VERTICALANODEUP > Diode_THT : D_5W_P5.08mm_Vertical_AnodeUp](#fzkdd5wp58verticalanodeup--diode_tht--d_5w_p508mm_vertical_anodeup)
+* [FZKDD5WP58FANODEUP > Diode_THT : D_5W_P5.08mm_Vertical_AnodeUp](#fzkdd5wp58fanodeup--diode_tht--d_5w_p508mm_vertical_anodeup)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKDD5WP58VERTICALANODEUP > Diode_THT : D_5W_P5.08mm_Vertical_AnodeUp
+# FZKDD5WP58FANODEUP > Diode_THT : D_5W_P5.08mm_Vertical_AnodeUp
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Diode_THT-D_5W_P5.08mm_Vertical_AnodeUp
-- Hex ID: FZKDD5WP58VERTICALANODEUP
+- Hex ID: FZKDD5WP58FANODEUP
 - Name: Diode_THT : D_5W_P5.08mm_Vertical_AnodeUp
 - Description: Diode_THT : D_5W_P5.08mm_Vertical_AnodeUp
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Diode_THT-D_5W_P5.08mm_Vertical_AnodeUp](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Diode_THT-D_5W_P5.08mm_Vertical_AnodeUp)
-- Short Link: [http://oom.lt/FZKDD5WP58VERTICALANODEUP](http://oom.lt/FZKDD5WP58VERTICALANODEUP)
+- Short Link: [http://oom.lt/FZKDD5WP58FANODEUP](http://oom.lt/FZKDD5WP58FANODEUP)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Diode_THT|
 |OOMP Index|oompIndex|D_5W_P5.08mm_Vertical_AnodeUp|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Diode_THT-D_5W_P5.08mm_Vertical_AnodeUp|
-|Hex ID (short code)|hexID|FZKDD5WP58VERTICALANODEUP|
+|Hex ID (short code)|hexID|FZKDD5WP58FANODEUP|
 |name|name|Diode_THT : D_5W_P5.08mm_Vertical_AnodeUp|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'D_5W_P5.08mm_Vertical_AnodeUp'</td><td> 'description'</td></tr><tr><td> 'Diode</td><td> 5W series</td><td> Axial</td><td> Vertical</td><td> pin pitch=5.08mm</td><td> </td><td> length*diameter=8.9*3.7mm^2</td><td> </td><td> http</td></tr><tr><td>//www.diodes.com/_files/packages/8686949.gif'</td><td> 'tags'</td></tr><tr><td> 'Diode 5W series Axial Vertical pin pitch 5.08mm  length 8.9mm diameter 3.7mm'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Diode_THT.3dshapes/D_5W_P5.08mm_Vertical_AnodeUp.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

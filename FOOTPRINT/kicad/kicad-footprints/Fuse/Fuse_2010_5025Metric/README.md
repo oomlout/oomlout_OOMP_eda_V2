@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKFUFU21525METRIC > Fuse : Fuse_2010_5025Metric](#fzkfufu21525metric--fuse--fuse_2010_5025metric)
+* [FZKFUFU21525VA > Fuse : Fuse_2010_5025Metric](#fzkfufu21525va--fuse--fuse_2010_5025metric)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKFUFU21525METRIC > Fuse : Fuse_2010_5025Metric
+# FZKFUFU21525VA > Fuse : Fuse_2010_5025Metric
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Fuse-Fuse_2010_5025Metric
-- Hex ID: FZKFUFU21525METRIC
+- Hex ID: FZKFUFU21525VA
 - Name: Fuse : Fuse_2010_5025Metric
 - Description: Fuse : Fuse_2010_5025Metric
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Fuse-Fuse_2010_5025Metric](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Fuse-Fuse_2010_5025Metric)
-- Short Link: [http://oom.lt/FZKFUFU21525METRIC](http://oom.lt/FZKFUFU21525METRIC)
+- Short Link: [http://oom.lt/FZKFUFU21525VA](http://oom.lt/FZKFUFU21525VA)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Fuse|
 |OOMP Index|oompIndex|Fuse_2010_5025Metric|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Fuse-Fuse_2010_5025Metric|
-|Hex ID (short code)|hexID|FZKFUFU21525METRIC|
+|Hex ID (short code)|hexID|FZKFUFU21525VA|
 |name|name|Fuse : Fuse_2010_5025Metric|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Fuse_2010_5025Metric'</td><td> 'description'</td></tr><tr><td> 'Fuse SMD 2010 (5025 Metric)</td><td> square (rectangular) end terminal</td><td> IPC_7351 nominal</td><td> (Body size source</td></tr><tr><td> http</td></tr><tr><td>//www.tortai-tech.com/upload/download/2011102023233369053.pdf)</td><td> generated with kicad-footprint-generator'</td><td> 'tags'</td></tr><tr><td> 'fuse'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Fuse.3dshapes/Fuse_2010_5025Metric.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||

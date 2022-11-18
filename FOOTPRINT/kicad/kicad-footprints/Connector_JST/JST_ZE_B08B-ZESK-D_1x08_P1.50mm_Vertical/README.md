@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKCNJSTJSTZEB8BZESKD1X8P15VERTICAL > Connector_JST : JST_ZE_B08B-ZESK-D_1x08_P1.50mm_Vertical](#fzkcnjstjstzeb8bzeskd1x8p15vertical--connector_jst--jst_ze_b08b-zesk-d_1x08_p150mm_vertical)
+* [FZKCNJSTJSTZEB8BZESKD1X8P15F > Connector_JST : JST_ZE_B08B-ZESK-D_1x08_P1.50mm_Vertical](#fzkcnjstjstzeb8bzeskd1x8p15f--connector_jst--jst_ze_b08b-zesk-d_1x08_p150mm_vertical)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKCNJSTJSTZEB8BZESKD1X8P15VERTICAL > Connector_JST : JST_ZE_B08B-ZESK-D_1x08_P1.50mm_Vertical
+# FZKCNJSTJSTZEB8BZESKD1X8P15F > Connector_JST : JST_ZE_B08B-ZESK-D_1x08_P1.50mm_Vertical
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_ZE_B08B-ZESK-D_1x08_P1.50mm_Vertical
-- Hex ID: FZKCNJSTJSTZEB8BZESKD1X8P15VERTICAL
+- Hex ID: FZKCNJSTJSTZEB8BZESKD1X8P15F
 - Name: Connector_JST : JST_ZE_B08B-ZESK-D_1x08_P1.50mm_Vertical
 - Description: Connector_JST : JST_ZE_B08B-ZESK-D_1x08_P1.50mm_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_ZE_B08B-ZESK-D_1x08_P1.50mm_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_ZE_B08B-ZESK-D_1x08_P1.50mm_Vertical)
-- Short Link: [http://oom.lt/FZKCNJSTJSTZEB8BZESKD1X8P15VERTICAL](http://oom.lt/FZKCNJSTJSTZEB8BZESKD1X8P15VERTICAL)
+- Short Link: [http://oom.lt/FZKCNJSTJSTZEB8BZESKD1X8P15F](http://oom.lt/FZKCNJSTJSTZEB8BZESKD1X8P15F)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Connector_JST|
 |OOMP Index|oompIndex|JST_ZE_B08B-ZESK-D_1x08_P1.50mm_Vertical|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_ZE_B08B-ZESK-D_1x08_P1.50mm_Vertical|
-|Hex ID (short code)|hexID|FZKCNJSTJSTZEB8BZESKD1X8P15VERTICAL|
+|Hex ID (short code)|hexID|FZKCNJSTJSTZEB8BZESKD1X8P15F|
 |name|name|Connector_JST : JST_ZE_B08B-ZESK-D_1x08_P1.50mm_Vertical|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'JST_ZE_B08B-ZESK-D_1x08_P1.50mm_Vertical'</td><td> 'description'</td></tr><tr><td> 'JST ZE series connector</td><td> B08B-ZESK-D (http</td></tr><tr><td>//www.jst-mfg.com/product/pdf/eng/eZE.pdf)</td><td> generated with kicad-footprint-generator'</td><td> 'tags'</td></tr><tr><td> 'connector JST ZE side entry'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_JST.3dshapes/JST_ZE_B08B-ZESK-D_1x08_P1.50mm_Vertical.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'custom'</td></tr></table></td></tr></table>|
 ||||

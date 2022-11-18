@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSGSMMO178X165A2235H > digikey-footprints : GSM_Module_17.8x16.5mm_A2235-H](#fzkicaddigikeykicadlibrarydigikeyfootprintsgsmmo178x165a2235h--digikey-footprints--gsm_module_178x165mm_a2235-h)
+* [FZDIGIDIGIKEYFOOTPRINTSGSMMO178X165A2235H > digikey-footprints : GSM_Module_17.8x16.5mm_A2235-H](#fzdigidigikeyfootprintsgsmmo178x165a2235h--digikey-footprints--gsm_module_178x165mm_a2235-h)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSGSMMO178X165A2235H > digikey-footprints : GSM_Module_17.8x16.5mm_A2235-H
+# FZDIGIDIGIKEYFOOTPRINTSGSMMO178X165A2235H > digikey-footprints : GSM_Module_17.8x16.5mm_A2235-H
 
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-GSM_Module_17.8x16.5mm_A2235-H
-- Hex ID: FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSGSMMO178X165A2235H
+- Hex ID: FZDIGIDIGIKEYFOOTPRINTSGSMMO178X165A2235H
 - Name: digikey-footprints : GSM_Module_17.8x16.5mm_A2235-H
 - Description: digikey-footprints : GSM_Module_17.8x16.5mm_A2235-H
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-GSM_Module_17.8x16.5mm_A2235-H](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-GSM_Module_17.8x16.5mm_A2235-H)
-- Short Link: [http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSGSMMO178X165A2235H](http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSGSMMO178X165A2235H)
+- Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSGSMMO178X165A2235H](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSGSMMO178X165A2235H)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|digikey-footprints|
 |OOMP Index|oompIndex|GSM_Module_17.8x16.5mm_A2235-H|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-GSM_Module_17.8x16.5mm_A2235-H|
-|Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSGSMMO178X165A2235H|
+|Hex ID (short code)|hexID|FZDIGIDIGIKEYFOOTPRINTSGSMMO178X165A2235H|
 |name|name|digikey-footprints : GSM_Module_17.8x16.5mm_A2235-H|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'GSM_Module_17.8x16.5mm_A2235-H'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKINDUCTORSMLNEOSIDSMNE127 > Inductor_SMD : L_Neosid_SM-NE127](#fzkinductorsmlneosidsmne127--inductor_smd--l_neosid_sm-ne127)
+* [FZKINLNEOSIDSMNE127 > Inductor_SMD : L_Neosid_SM-NE127](#fzkinlneosidsmne127--inductor_smd--l_neosid_sm-ne127)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKINDUCTORSMLNEOSIDSMNE127 > Inductor_SMD : L_Neosid_SM-NE127
+# FZKINLNEOSIDSMNE127 > Inductor_SMD : L_Neosid_SM-NE127
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Neosid_SM-NE127
-- Hex ID: FZKINDUCTORSMLNEOSIDSMNE127
+- Hex ID: FZKINLNEOSIDSMNE127
 - Name: Inductor_SMD : L_Neosid_SM-NE127
 - Description: Inductor_SMD : L_Neosid_SM-NE127
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Neosid_SM-NE127](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Neosid_SM-NE127)
-- Short Link: [http://oom.lt/FZKINDUCTORSMLNEOSIDSMNE127](http://oom.lt/FZKINDUCTORSMLNEOSIDSMNE127)
+- Short Link: [http://oom.lt/FZKINLNEOSIDSMNE127](http://oom.lt/FZKINLNEOSIDSMNE127)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Inductor_SMD|
 |OOMP Index|oompIndex|L_Neosid_SM-NE127|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Neosid_SM-NE127|
-|Hex ID (short code)|hexID|FZKINDUCTORSMLNEOSIDSMNE127|
+|Hex ID (short code)|hexID|FZKINLNEOSIDSMNE127|
 |name|name|Inductor_SMD : L_Neosid_SM-NE127|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'L_Neosid_SM-NE127'</td><td> 'description'</td></tr><tr><td> 'Neosid</td><td> Inductor</td><td> SM-NE127</td><td> Fixed inductor</td><td> SMD</td><td> https</td></tr><tr><td>//neosid.de/import-data/product-pdf/neoFestind_SMNE127.pdf'</td><td> 'tags'</td></tr><tr><td> 'Neosid Inductor SM-NE127 Fixed inductor SMD'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Inductor_SMD.3dshapes/L_Neosid_SM-NE127.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

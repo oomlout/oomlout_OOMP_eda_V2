@@ -5,18 +5,18 @@
 Contents
 ========
 
-* [FZESWITCHSRRM4337 > switch : SRRM433700](#fzeswitchsrrm4337--switch--srrm433700)
+* [FZESWSRRM4337 > switch : SRRM433700](#fzeswsrrm4337--switch--srrm433700)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZESWITCHSRRM4337 > switch : SRRM433700
+# FZESWSRRM4337 > switch : SRRM433700
 
 - ID: FOOTPRINT-eagle-eagle-default-switch-SRRM433700
-- Hex ID: FZESWITCHSRRM4337
+- Hex ID: FZESWSRRM4337
 - Name: switch : SRRM433700
 - Description: switch : SRRM433700
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-SRRM433700](http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-SRRM433700)
-- Short Link: [http://oom.lt/FZESWITCHSRRM4337](http://oom.lt/FZESWITCHSRRM4337)
+- Short Link: [http://oom.lt/FZESWSRRM4337](http://oom.lt/FZESWSRRM4337)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +30,6 @@ NO IMAGES
 |OOMP Description|oompDesc|switch|
 |OOMP Index|oompIndex|SRRM433700|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-switch-SRRM433700|
-|Hex ID (short code)|hexID|FZESWITCHSRRM4337|
+|Hex ID (short code)|hexID|FZESWSRRM4337|
 |name|name|switch : SRRM433700|
 ||||

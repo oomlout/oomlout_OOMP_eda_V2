@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKTRAUTOTRTOROID1TAPHORIZONTALD9AMIDONT3 > Transformer_THT : Autotransformer_Toroid_1Tap_Horizontal_D9.0mm_Amidon-T30](#fzktrautotrtoroid1taphorizontald9amidont3--transformer_tht--autotransformer_toroid_1tap_horizontal_d90mm_amidon-t30)
+* [FZKTRAUTOTRTOROID1TAPHD9AMIDONT3 > Transformer_THT : Autotransformer_Toroid_1Tap_Horizontal_D9.0mm_Amidon-T30](#fzktrautotrtoroid1taphd9amidont3--transformer_tht--autotransformer_toroid_1tap_horizontal_d90mm_amidon-t30)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKTRAUTOTRTOROID1TAPHORIZONTALD9AMIDONT3 > Transformer_THT : Autotransformer_Toroid_1Tap_Horizontal_D9.0mm_Amidon-T30
+# FZKTRAUTOTRTOROID1TAPHD9AMIDONT3 > Transformer_THT : Autotransformer_Toroid_1Tap_Horizontal_D9.0mm_Amidon-T30
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Transformer_THT-Autotransformer_Toroid_1Tap_Horizontal_D9.0mm_Amidon-T30
-- Hex ID: FZKTRAUTOTRTOROID1TAPHORIZONTALD9AMIDONT3
+- Hex ID: FZKTRAUTOTRTOROID1TAPHD9AMIDONT3
 - Name: Transformer_THT : Autotransformer_Toroid_1Tap_Horizontal_D9.0mm_Amidon-T30
 - Description: Transformer_THT : Autotransformer_Toroid_1Tap_Horizontal_D9.0mm_Amidon-T30
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Transformer_THT-Autotransformer_Toroid_1Tap_Horizontal_D9.0mm_Amidon-T30](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Transformer_THT-Autotransformer_Toroid_1Tap_Horizontal_D9.0mm_Amidon-T30)
-- Short Link: [http://oom.lt/FZKTRAUTOTRTOROID1TAPHORIZONTALD9AMIDONT3](http://oom.lt/FZKTRAUTOTRTOROID1TAPHORIZONTALD9AMIDONT3)
+- Short Link: [http://oom.lt/FZKTRAUTOTRTOROID1TAPHD9AMIDONT3](http://oom.lt/FZKTRAUTOTRTOROID1TAPHD9AMIDONT3)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Transformer_THT|
 |OOMP Index|oompIndex|Autotransformer_Toroid_1Tap_Horizontal_D9.0mm_Amidon-T30|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Transformer_THT-Autotransformer_Toroid_1Tap_Horizontal_D9.0mm_Amidon-T30|
-|Hex ID (short code)|hexID|FZKTRAUTOTRTOROID1TAPHORIZONTALD9AMIDONT3|
+|Hex ID (short code)|hexID|FZKTRAUTOTRTOROID1TAPHD9AMIDONT3|
 |name|name|Transformer_THT : Autotransformer_Toroid_1Tap_Horizontal_D9.0mm_Amidon-T30|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Autotransformer_Toroid_1Tap_Horizontal_D9.0mm_Amidon-T30'</td><td> 'description'</td></tr><tr><td> 'Autotransformer</td><td> Toroid</td><td> horizontal</td><td> laying</td><td> 1 Tap</td><td> Diameter 9mm</td><td> Amidon T30</td><td>'</td><td> 'tags'</td></tr><tr><td> 'Autotransformer Toroid horizontal laying 1 Tap Diameter 9mm Amidon T30 '</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Transformer_THT.3dshapes/Autotransformer_Toroid_1Tap_Horizontal_D9.0mm_Amidon-T30.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||

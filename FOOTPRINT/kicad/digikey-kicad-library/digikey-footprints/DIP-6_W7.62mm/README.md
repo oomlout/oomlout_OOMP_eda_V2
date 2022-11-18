@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSDIP6W762 > digikey-footprints : DIP-6_W7.62mm](#fzkicaddigikeykicadlibrarydigikeyfootprintsdip6w762--digikey-footprints--dip-6_w762mm)
+* [FZDIGIDIGIKEYFOOTPRINTSDIP6W762 > digikey-footprints : DIP-6_W7.62mm](#fzdigidigikeyfootprintsdip6w762--digikey-footprints--dip-6_w762mm)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSDIP6W762 > digikey-footprints : DIP-6_W7.62mm
+# FZDIGIDIGIKEYFOOTPRINTSDIP6W762 > digikey-footprints : DIP-6_W7.62mm
 
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-DIP-6_W7.62mm
-- Hex ID: FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSDIP6W762
+- Hex ID: FZDIGIDIGIKEYFOOTPRINTSDIP6W762
 - Name: digikey-footprints : DIP-6_W7.62mm
 - Description: digikey-footprints : DIP-6_W7.62mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-DIP-6_W7.62mm](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-DIP-6_W7.62mm)
-- Short Link: [http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSDIP6W762](http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSDIP6W762)
+- Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSDIP6W762](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSDIP6W762)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|digikey-footprints|
 |OOMP Index|oompIndex|DIP-6_W7.62mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-DIP-6_W7.62mm|
-|Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSDIP6W762|
+|Hex ID (short code)|hexID|FZDIGIDIGIKEYFOOTPRINTSDIP6W762|
 |name|name|digikey-footprints : DIP-6_W7.62mm|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'DIP-6_W7.62mm'</td><td> 'description'</td></tr><tr><td> 'http</td></tr><tr><td>//optoelectronics.liteon.com/upload/download/DS70-2001-026/MOC306X%20series%20201606.pdf'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> None</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

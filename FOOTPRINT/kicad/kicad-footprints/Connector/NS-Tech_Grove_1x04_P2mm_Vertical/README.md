@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKCNNSTECHGROVE1X4P2VERTICAL > Connector : NS-Tech_Grove_1x04_P2mm_Vertical](#fzkcnnstechgrove1x4p2vertical--connector--ns-tech_grove_1x04_p2mm_vertical)
+* [FZKCNNSTECHGROVE1X4P2F > Connector : NS-Tech_Grove_1x04_P2mm_Vertical](#fzkcnnstechgrove1x4p2f--connector--ns-tech_grove_1x04_p2mm_vertical)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKCNNSTECHGROVE1X4P2VERTICAL > Connector : NS-Tech_Grove_1x04_P2mm_Vertical
+# FZKCNNSTECHGROVE1X4P2F > Connector : NS-Tech_Grove_1x04_P2mm_Vertical
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector-NS-Tech_Grove_1x04_P2mm_Vertical
-- Hex ID: FZKCNNSTECHGROVE1X4P2VERTICAL
+- Hex ID: FZKCNNSTECHGROVE1X4P2F
 - Name: Connector : NS-Tech_Grove_1x04_P2mm_Vertical
 - Description: Connector : NS-Tech_Grove_1x04_P2mm_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector-NS-Tech_Grove_1x04_P2mm_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector-NS-Tech_Grove_1x04_P2mm_Vertical)
-- Short Link: [http://oom.lt/FZKCNNSTECHGROVE1X4P2VERTICAL](http://oom.lt/FZKCNNSTECHGROVE1X4P2VERTICAL)
+- Short Link: [http://oom.lt/FZKCNNSTECHGROVE1X4P2F](http://oom.lt/FZKCNNSTECHGROVE1X4P2F)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Connector|
 |OOMP Index|oompIndex|NS-Tech_Grove_1x04_P2mm_Vertical|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector-NS-Tech_Grove_1x04_P2mm_Vertical|
-|Hex ID (short code)|hexID|FZKCNNSTECHGROVE1X4P2VERTICAL|
+|Hex ID (short code)|hexID|FZKCNNSTECHGROVE1X4P2F|
 |name|name|Connector : NS-Tech_Grove_1x04_P2mm_Vertical|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'NS-Tech_Grove_1x04_P2mm_Vertical'</td><td> 'description'</td></tr><tr><td> 'https</td></tr><tr><td>//statics3.seeedstudio.com/images/opl/datasheet/3470130P1.pdf'</td><td> 'tags'</td></tr><tr><td> 'Grove-1x04'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector.3dshapes/NS-Tech_Grove_1x04_P2mm_Vertical.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

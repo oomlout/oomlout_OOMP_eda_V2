@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKTRTREPCOSB66359J114TVERTICAL > Transformer_THT : Transformer_EPCOS_B66359J1014T_Vertical](#fzktrtrepcosb66359j114tvertical--transformer_tht--transformer_epcos_b66359j1014t_vertical)
+* [FZKTRTREPCOSB66359J114TF > Transformer_THT : Transformer_EPCOS_B66359J1014T_Vertical](#fzktrtrepcosb66359j114tf--transformer_tht--transformer_epcos_b66359j1014t_vertical)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKTRTREPCOSB66359J114TVERTICAL > Transformer_THT : Transformer_EPCOS_B66359J1014T_Vertical
+# FZKTRTREPCOSB66359J114TF > Transformer_THT : Transformer_EPCOS_B66359J1014T_Vertical
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Transformer_THT-Transformer_EPCOS_B66359J1014T_Vertical
-- Hex ID: FZKTRTREPCOSB66359J114TVERTICAL
+- Hex ID: FZKTRTREPCOSB66359J114TF
 - Name: Transformer_THT : Transformer_EPCOS_B66359J1014T_Vertical
 - Description: Transformer_THT : Transformer_EPCOS_B66359J1014T_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Transformer_THT-Transformer_EPCOS_B66359J1014T_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Transformer_THT-Transformer_EPCOS_B66359J1014T_Vertical)
-- Short Link: [http://oom.lt/FZKTRTREPCOSB66359J114TVERTICAL](http://oom.lt/FZKTRTREPCOSB66359J114TVERTICAL)
+- Short Link: [http://oom.lt/FZKTRTREPCOSB66359J114TF](http://oom.lt/FZKTRTREPCOSB66359J114TF)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Transformer_THT|
 |OOMP Index|oompIndex|Transformer_EPCOS_B66359J1014T_Vertical|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Transformer_THT-Transformer_EPCOS_B66359J1014T_Vertical|
-|Hex ID (short code)|hexID|FZKTRTREPCOSB66359J114TVERTICAL|
+|Hex ID (short code)|hexID|FZKTRTREPCOSB66359J114TF|
 |name|name|Transformer_THT : Transformer_EPCOS_B66359J1014T_Vertical|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Transformer_EPCOS_B66359J1014T_Vertical'</td><td> 'description'</td></tr><tr><td> 'Transformer</td><td> Transformator</td><td> ETD29</td><td> 14 Pin</td><td> Vertical</td><td> EPCOS-B66359J1014T</td><td>'</td><td> 'tags'</td></tr><tr><td> 'Transformer Transformator ETD29 14 Pin Vertical EPCOS-B66359J1014T '</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Transformer_THT.3dshapes/Transformer_EPCOS_B66359J1014T_Vertical.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||

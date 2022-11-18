@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKCNUUACNCTECH1111111HORIZONTAL > Connector_USB : USB_A_CNCTech_1001-011-01101_Horizontal](#fzkcnuuacnctech1111111horizontal--connector_usb--usb_a_cnctech_1001-011-01101_horizontal)
+* [FZKCNUUACNCTECH1111111H > Connector_USB : USB_A_CNCTech_1001-011-01101_Horizontal](#fzkcnuuacnctech1111111h--connector_usb--usb_a_cnctech_1001-011-01101_horizontal)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKCNUUACNCTECH1111111HORIZONTAL > Connector_USB : USB_A_CNCTech_1001-011-01101_Horizontal
+# FZKCNUUACNCTECH1111111H > Connector_USB : USB_A_CNCTech_1001-011-01101_Horizontal
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_A_CNCTech_1001-011-01101_Horizontal
-- Hex ID: FZKCNUUACNCTECH1111111HORIZONTAL
+- Hex ID: FZKCNUUACNCTECH1111111H
 - Name: Connector_USB : USB_A_CNCTech_1001-011-01101_Horizontal
 - Description: Connector_USB : USB_A_CNCTech_1001-011-01101_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_A_CNCTech_1001-011-01101_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_A_CNCTech_1001-011-01101_Horizontal)
-- Short Link: [http://oom.lt/FZKCNUUACNCTECH1111111HORIZONTAL](http://oom.lt/FZKCNUUACNCTECH1111111HORIZONTAL)
+- Short Link: [http://oom.lt/FZKCNUUACNCTECH1111111H](http://oom.lt/FZKCNUUACNCTECH1111111H)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Connector_USB|
 |OOMP Index|oompIndex|USB_A_CNCTech_1001-011-01101_Horizontal|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_A_CNCTech_1001-011-01101_Horizontal|
-|Hex ID (short code)|hexID|FZKCNUUACNCTECH1111111HORIZONTAL|
+|Hex ID (short code)|hexID|FZKCNUUACNCTECH1111111H|
 |name|name|Connector_USB : USB_A_CNCTech_1001-011-01101_Horizontal|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'USB_A_CNCTech_1001-011-01101_Horizontal'</td><td> 'description'</td></tr><tr><td> 'USB type A Plug</td><td> Horizontal</td><td> http</td></tr><tr><td>//cnctech.us/pdfs/1001-011-01101.pdf'</td><td> 'tags'</td></tr><tr><td> 'USB-A'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_USB.3dshapes/USB_A_CNCTech_1001-011-01101_Horizontal.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'np_thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||

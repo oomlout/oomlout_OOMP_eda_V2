@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSBMI16 > digikey-footprints : BMI160](#fzkicaddigikeykicadlibrarydigikeyfootprintsbmi16--digikey-footprints--bmi160)
+* [FZDIGIDIGIKEYFOOTPRINTSBMI16 > digikey-footprints : BMI160](#fzdigidigikeyfootprintsbmi16--digikey-footprints--bmi160)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSBMI16 > digikey-footprints : BMI160
+# FZDIGIDIGIKEYFOOTPRINTSBMI16 > digikey-footprints : BMI160
 
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-BMI160
-- Hex ID: FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSBMI16
+- Hex ID: FZDIGIDIGIKEYFOOTPRINTSBMI16
 - Name: digikey-footprints : BMI160
 - Description: digikey-footprints : BMI160
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-BMI160](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-BMI160)
-- Short Link: [http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSBMI16](http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSBMI16)
+- Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSBMI16](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSBMI16)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|digikey-footprints|
 |OOMP Index|oompIndex|BMI160|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-BMI160|
-|Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSBMI16|
+|Hex ID (short code)|hexID|FZDIGIDIGIKEYFOOTPRINTSBMI16|
 |name|name|digikey-footprints : BMI160|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'BMI160'</td><td> 'description'</td></tr><tr><td> 'https</td></tr><tr><td>//ae-bst.resource.bosch.com/media/_tech/media/datasheets/BST-BMI160-DS000-07.pdf'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

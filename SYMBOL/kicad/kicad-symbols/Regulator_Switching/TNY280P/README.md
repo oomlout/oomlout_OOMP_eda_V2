@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [SZKREGULATORSWITCHINGTNY28P > Regulator_Switching : TNY280P](#szkregulatorswitchingtny28p--regulator_switching--tny280p)
+* [SZKREGULATORSWINGTNY28P > Regulator_Switching : TNY280P](#szkregulatorswingtny28p--regulator_switching--tny280p)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# SZKREGULATORSWITCHINGTNY28P > Regulator_Switching : TNY280P
+# SZKREGULATORSWINGTNY28P > Regulator_Switching : TNY280P
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-TNY280P
-- Hex ID: SZKREGULATORSWITCHINGTNY28P
+- Hex ID: SZKREGULATORSWINGTNY28P
 - Name: Regulator_Switching : TNY280P
 - Description: Regulator_Switching : TNY280P
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TNY280P](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TNY280P)
-- Short Link: [http://oom.lt/SZKREGULATORSWITCHINGTNY28P](http://oom.lt/SZKREGULATORSWITCHINGTNY28P)
+- Short Link: [http://oom.lt/SZKREGULATORSWINGTNY28P](http://oom.lt/SZKREGULATORSWINGTNY28P)
 
 ## Images
   
@@ -36,7 +36,7 @@ Contents
 |OOMP Description|oompDesc|Regulator_Switching|
 |OOMP Index|oompIndex|TNY280P|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-TNY280P|
-|Hex ID (short code)|hexID|SZKREGULATORSWITCHINGTNY28P|
+|Hex ID (short code)|hexID|SZKREGULATORSWINGTNY28P|
 |name|name|Regulator_Switching : TNY280P|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'TNY274P'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'TNY280P'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DIP</td></tr><tr><td>PowerIntegrations_PDIP-8C'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.powerint.com/sites/default/files/product-docs/tny274-280.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Energy-Efficient</td><td> Off-Line Switcher With Enhanced Flexibility and Extended Power Range'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'TinySwitch-III Family</td><td> 28.5W Output Power</td><td> DIP-8C'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'PowerIntegrations?PDIP?8C*'</td></tr></table>]|
 ||||

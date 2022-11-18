@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICCAPC42XNF1V5C4N1C15195 > oomlout_OOMP_JLCC_Basic : CAPC-0402-X-NF10-V50-C4N10-C15195](#fzkicadoomloutoompkicadoomloutoompjlccbasiccapc42xnf1v5c4n1c15195--oomlout_oomp_jlcc_basic--capc-0402-x-nf10-v50-c4n10-c15195)
+* [FZOOMPKJLCCAPC42XNF1V5C4N1C15195 > oomlout_OOMP_JLCC_Basic : CAPC-0402-X-NF10-V50-C4N10-C15195](#fzoompkjlccapc42xnf1v5c4n1c15195--oomlout_oomp_jlcc_basic--capc-0402-x-nf10-v50-c4n10-c15195)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICCAPC42XNF1V5C4N1C15195 > oomlout_OOMP_JLCC_Basic : CAPC-0402-X-NF10-V50-C4N10-C15195
+# FZOOMPKJLCCAPC42XNF1V5C4N1C15195 > oomlout_OOMP_JLCC_Basic : CAPC-0402-X-NF10-V50-C4N10-C15195
 
 - ID: FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0402-X-NF10-V50-C4N10-C15195
-- Hex ID: FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICCAPC42XNF1V5C4N1C15195
+- Hex ID: FZOOMPKJLCCAPC42XNF1V5C4N1C15195
 - Name: oomlout_OOMP_JLCC_Basic : CAPC-0402-X-NF10-V50-C4N10-C15195
 - Description: oomlout_OOMP_JLCC_Basic : CAPC-0402-X-NF10-V50-C4N10-C15195
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0402-X-NF10-V50-C4N10-C15195](http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0402-X-NF10-V50-C4N10-C15195)
-- Short Link: [http://oom.lt/FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICCAPC42XNF1V5C4N1C15195](http://oom.lt/FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICCAPC42XNF1V5C4N1C15195)
+- Short Link: [http://oom.lt/FZOOMPKJLCCAPC42XNF1V5C4N1C15195](http://oom.lt/FZOOMPKJLCCAPC42XNF1V5C4N1C15195)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|oomlout_OOMP_JLCC_Basic|
 |OOMP Index|oompIndex|CAPC-0402-X-NF10-V50-C4N10-C15195|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0402-X-NF10-V50-C4N10-C15195|
-|Hex ID (short code)|hexID|FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICCAPC42XNF1V5C4N1C15195|
+|Hex ID (short code)|hexID|FZOOMPKJLCCAPC42XNF1V5C4N1C15195|
 |name|name|oomlout_OOMP_JLCC_Basic : CAPC-0402-X-NF10-V50-C4N10-C15195|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'CAPC-0402-X-NF10-V50-C4N10-C15195'</td><td> 'description'</td></tr><tr><td> 'hexID</td></tr><tr><td> C4N10;PARTL C-JLCC;C15195;MANUF C-XXXX;CL05B103KB5NNNC; Capacitor SMD 0402 (1005 Metric)</td><td> square (rectangular) end terminal</td><td> IPC_7351 nominal</td><td> (Body size source</td></tr><tr><td> IPC-SM-782 page 76</td><td> https</td></tr><tr><td>//www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)</td><td> generated with kicad-footprint-generator'</td><td> 'tags'</td></tr><tr><td> 'capacitor'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Capacitor_SMD.3dshapes/C_0402_1005Metric.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||

@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [SZKDEVICERPOTENTIOMETERTRIMUS > Device : R_Potentiometer_Trim_US](#szkdevicerpotentiometertrimus--device--r_potentiometer_trim_us)
+* [SZKDEVICERPOTTRIMUS > Device : R_Potentiometer_Trim_US](#szkdevicerpottrimus--device--r_potentiometer_trim_us)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# SZKDEVICERPOTENTIOMETERTRIMUS > Device : R_Potentiometer_Trim_US
+# SZKDEVICERPOTTRIMUS > Device : R_Potentiometer_Trim_US
 
 - ID: SYMBOL-kicad-kicad-symbols-Device-R_Potentiometer_Trim_US
-- Hex ID: SZKDEVICERPOTENTIOMETERTRIMUS
+- Hex ID: SZKDEVICERPOTTRIMUS
 - Name: Device : R_Potentiometer_Trim_US
 - Description: Device : R_Potentiometer_Trim_US
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-R_Potentiometer_Trim_US](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-R_Potentiometer_Trim_US)
-- Short Link: [http://oom.lt/SZKDEVICERPOTENTIOMETERTRIMUS](http://oom.lt/SZKDEVICERPOTENTIOMETERTRIMUS)
+- Short Link: [http://oom.lt/SZKDEVICERPOTTRIMUS](http://oom.lt/SZKDEVICERPOTTRIMUS)
 
 ## Images
   
@@ -36,7 +36,7 @@ Contents
 |OOMP Description|oompDesc|Device|
 |OOMP Index|oompIndex|R_Potentiometer_Trim_US|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-R_Potentiometer_Trim_US|
-|Hex ID (short code)|hexID|SZKDEVICERPOTENTIOMETERTRIMUS|
+|Hex ID (short code)|hexID|SZKDEVICERPOTTRIMUS|
 |name|name|Device : R_Potentiometer_Trim_US|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'RV'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'R_Potentiometer_Trim_US'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'resistor variable trimpot trimmer'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Trim-potentiometer</td><td> US symbol'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Potentiometer*'</td></tr></table>]|
 ||||

@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSTSS28W56 > digikey-footprints : TSSOP-28_W5.60mm](#fzkicaddigikeykicadlibrarydigikeyfootprintstss28w56--digikey-footprints--tssop-28_w560mm)
+* [FZDIGIDIGIKEYFOOTPRINTSTSS28W56 > digikey-footprints : TSSOP-28_W5.60mm](#fzdigidigikeyfootprintstss28w56--digikey-footprints--tssop-28_w560mm)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSTSS28W56 > digikey-footprints : TSSOP-28_W5.60mm
+# FZDIGIDIGIKEYFOOTPRINTSTSS28W56 > digikey-footprints : TSSOP-28_W5.60mm
 
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-TSSOP-28_W5.60mm
-- Hex ID: FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSTSS28W56
+- Hex ID: FZDIGIDIGIKEYFOOTPRINTSTSS28W56
 - Name: digikey-footprints : TSSOP-28_W5.60mm
 - Description: digikey-footprints : TSSOP-28_W5.60mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-TSSOP-28_W5.60mm](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-TSSOP-28_W5.60mm)
-- Short Link: [http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSTSS28W56](http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSTSS28W56)
+- Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSTSS28W56](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSTSS28W56)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|digikey-footprints|
 |OOMP Index|oompIndex|TSSOP-28_W5.60mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-TSSOP-28_W5.60mm|
-|Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSTSS28W56|
+|Hex ID (short code)|hexID|FZDIGIDIGIKEYFOOTPRINTSTSS28W56|
 |name|name|digikey-footprints : TSSOP-28_W5.60mm|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'TSSOP-28_W5.60mm'</td><td> 'description'</td></tr><tr><td> 'http</td></tr><tr><td>//www.cypress.com/file/139881/download'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

@@ -5,18 +5,18 @@
 Contents
 ========
 
-* [FZESWITCHDILDS5 > switch-dil : DS-05](#fzeswitchdilds5--switch-dil--ds-05)
+* [FZESWDILDS5 > switch-dil : DS-05](#fzeswdilds5--switch-dil--ds-05)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZESWITCHDILDS5 > switch-dil : DS-05
+# FZESWDILDS5 > switch-dil : DS-05
 
 - ID: FOOTPRINT-eagle-eagle-default-switch-dil-DS-05
-- Hex ID: FZESWITCHDILDS5
+- Hex ID: FZESWDILDS5
 - Name: switch-dil : DS-05
 - Description: switch-dil : DS-05
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-dil-DS-05](http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-dil-DS-05)
-- Short Link: [http://oom.lt/FZESWITCHDILDS5](http://oom.lt/FZESWITCHDILDS5)
+- Short Link: [http://oom.lt/FZESWDILDS5](http://oom.lt/FZESWDILDS5)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +30,6 @@ NO IMAGES
 |OOMP Description|oompDesc|switch-dil|
 |OOMP Index|oompIndex|DS-05|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-switch-dil-DS-05|
-|Hex ID (short code)|hexID|FZESWITCHDILDS5|
+|Hex ID (short code)|hexID|FZESWDILDS5|
 |name|name|switch-dil : DS-05|
 ||||

@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKINDUCTORSML1864516METRICPAD145X19HANDSOLDER > Inductor_SMD : L_1806_4516Metric_Pad1.45x1.90mm_HandSolder](#fzkinductorsml1864516metricpad145x19handsolder--inductor_smd--l_1806_4516metric_pad145x190mm_handsolder)
+* [FZKINL1864516VAPAD145X19HANDSOLDER > Inductor_SMD : L_1806_4516Metric_Pad1.45x1.90mm_HandSolder](#fzkinl1864516vapad145x19handsolder--inductor_smd--l_1806_4516metric_pad145x190mm_handsolder)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKINDUCTORSML1864516METRICPAD145X19HANDSOLDER > Inductor_SMD : L_1806_4516Metric_Pad1.45x1.90mm_HandSolder
+# FZKINL1864516VAPAD145X19HANDSOLDER > Inductor_SMD : L_1806_4516Metric_Pad1.45x1.90mm_HandSolder
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_1806_4516Metric_Pad1.45x1.90mm_HandSolder
-- Hex ID: FZKINDUCTORSML1864516METRICPAD145X19HANDSOLDER
+- Hex ID: FZKINL1864516VAPAD145X19HANDSOLDER
 - Name: Inductor_SMD : L_1806_4516Metric_Pad1.45x1.90mm_HandSolder
 - Description: Inductor_SMD : L_1806_4516Metric_Pad1.45x1.90mm_HandSolder
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_1806_4516Metric_Pad1.45x1.90mm_HandSolder](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_1806_4516Metric_Pad1.45x1.90mm_HandSolder)
-- Short Link: [http://oom.lt/FZKINDUCTORSML1864516METRICPAD145X19HANDSOLDER](http://oom.lt/FZKINDUCTORSML1864516METRICPAD145X19HANDSOLDER)
+- Short Link: [http://oom.lt/FZKINL1864516VAPAD145X19HANDSOLDER](http://oom.lt/FZKINL1864516VAPAD145X19HANDSOLDER)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Inductor_SMD|
 |OOMP Index|oompIndex|L_1806_4516Metric_Pad1.45x1.90mm_HandSolder|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_1806_4516Metric_Pad1.45x1.90mm_HandSolder|
-|Hex ID (short code)|hexID|FZKINDUCTORSML1864516METRICPAD145X19HANDSOLDER|
+|Hex ID (short code)|hexID|FZKINL1864516VAPAD145X19HANDSOLDER|
 |name|name|Inductor_SMD : L_1806_4516Metric_Pad1.45x1.90mm_HandSolder|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'L_1806_4516Metric_Pad1.45x1.90mm_HandSolder'</td><td> 'description'</td></tr><tr><td> 'Inductor SMD 1806 (4516 Metric)</td><td> square (rectangular) end terminal</td><td> IPC_7351 nominal with elongated pad for handsoldering. (Body size source</td></tr><tr><td> IPC-SM-782 page 80</td><td> https</td></tr><tr><td>//www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)</td><td> generated with kicad-footprint-generator'</td><td> 'tags'</td></tr><tr><td> 'inductor handsolder'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Inductor_SMD.3dshapes/L_1806_4516Metric.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||

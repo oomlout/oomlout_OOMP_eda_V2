@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKTRSMTRETHERNETWUERTH7491311A > Transformer_SMD : Transformer_Ethernet_Wuerth_749013011A](#fzktrsmtrethernetwuerth7491311a--transformer_smd--transformer_ethernet_wuerth_749013011a)
+* [FZKTRTRETHERNETWUERTH7491311A > Transformer_SMD : Transformer_Ethernet_Wuerth_749013011A](#fzktrtrethernetwuerth7491311a--transformer_smd--transformer_ethernet_wuerth_749013011a)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKTRSMTRETHERNETWUERTH7491311A > Transformer_SMD : Transformer_Ethernet_Wuerth_749013011A
+# FZKTRTRETHERNETWUERTH7491311A > Transformer_SMD : Transformer_Ethernet_Wuerth_749013011A
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Transformer_SMD-Transformer_Ethernet_Wuerth_749013011A
-- Hex ID: FZKTRSMTRETHERNETWUERTH7491311A
+- Hex ID: FZKTRTRETHERNETWUERTH7491311A
 - Name: Transformer_SMD : Transformer_Ethernet_Wuerth_749013011A
 - Description: Transformer_SMD : Transformer_Ethernet_Wuerth_749013011A
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Transformer_SMD-Transformer_Ethernet_Wuerth_749013011A](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Transformer_SMD-Transformer_Ethernet_Wuerth_749013011A)
-- Short Link: [http://oom.lt/FZKTRSMTRETHERNETWUERTH7491311A](http://oom.lt/FZKTRSMTRETHERNETWUERTH7491311A)
+- Short Link: [http://oom.lt/FZKTRTRETHERNETWUERTH7491311A](http://oom.lt/FZKTRTRETHERNETWUERTH7491311A)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Transformer_SMD|
 |OOMP Index|oompIndex|Transformer_Ethernet_Wuerth_749013011A|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Transformer_SMD-Transformer_Ethernet_Wuerth_749013011A|
-|Hex ID (short code)|hexID|FZKTRSMTRETHERNETWUERTH7491311A|
+|Hex ID (short code)|hexID|FZKTRTRETHERNETWUERTH7491311A|
 |name|name|Transformer_SMD : Transformer_Ethernet_Wuerth_749013011A|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Transformer_Ethernet_Wuerth_749013011A'</td><td> 'description'</td></tr><tr><td> 'Ethernet Transformer</td><td> Wuerth 749013011A</td><td> https</td></tr><tr><td>//www.we-online.com/katalog/datasheet/749013011A.pdf'</td><td> 'tags'</td></tr><tr><td> 'Ethernet Transformer'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Transformer_SMD.3dshapes/Transformer_Ethernet_Wuerth_749013011A.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

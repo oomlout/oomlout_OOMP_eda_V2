@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKINDUCTORSMLBOURNSSDR186 > Inductor_SMD : L_Bourns_SDR1806](#fzkinductorsmlbournssdr186--inductor_smd--l_bourns_sdr1806)
+* [FZKINLBOURNSSDR186 > Inductor_SMD : L_Bourns_SDR1806](#fzkinlbournssdr186--inductor_smd--l_bourns_sdr1806)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKINDUCTORSMLBOURNSSDR186 > Inductor_SMD : L_Bourns_SDR1806
+# FZKINLBOURNSSDR186 > Inductor_SMD : L_Bourns_SDR1806
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Bourns_SDR1806
-- Hex ID: FZKINDUCTORSMLBOURNSSDR186
+- Hex ID: FZKINLBOURNSSDR186
 - Name: Inductor_SMD : L_Bourns_SDR1806
 - Description: Inductor_SMD : L_Bourns_SDR1806
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Bourns_SDR1806](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Bourns_SDR1806)
-- Short Link: [http://oom.lt/FZKINDUCTORSMLBOURNSSDR186](http://oom.lt/FZKINDUCTORSMLBOURNSSDR186)
+- Short Link: [http://oom.lt/FZKINLBOURNSSDR186](http://oom.lt/FZKINLBOURNSSDR186)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Inductor_SMD|
 |OOMP Index|oompIndex|L_Bourns_SDR1806|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Bourns_SDR1806|
-|Hex ID (short code)|hexID|FZKINDUCTORSMLBOURNSSDR186|
+|Hex ID (short code)|hexID|FZKINLBOURNSSDR186|
 |name|name|Inductor_SMD : L_Bourns_SDR1806|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'L_Bourns_SDR1806'</td><td> 'description'</td></tr><tr><td> 'https</td></tr><tr><td>//www.bourns.com/docs/Product-Datasheets/SDR1806.pdf'</td><td> 'tags'</td></tr><tr><td> 'Bourns SDR1806'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Inductor_SMD.3dshapes/L_Bourns_SDR1806.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

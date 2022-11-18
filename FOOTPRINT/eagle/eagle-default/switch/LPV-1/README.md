@@ -5,18 +5,18 @@
 Contents
 ========
 
-* [FZESWITCHLPV1 > switch : LPV-1](#fzeswitchlpv1--switch--lpv-1)
+* [FZESWLPV1 > switch : LPV-1](#fzeswlpv1--switch--lpv-1)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZESWITCHLPV1 > switch : LPV-1
+# FZESWLPV1 > switch : LPV-1
 
 - ID: FOOTPRINT-eagle-eagle-default-switch-LPV-1
-- Hex ID: FZESWITCHLPV1
+- Hex ID: FZESWLPV1
 - Name: switch : LPV-1
 - Description: switch : LPV-1
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-LPV-1](http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-LPV-1)
-- Short Link: [http://oom.lt/FZESWITCHLPV1](http://oom.lt/FZESWITCHLPV1)
+- Short Link: [http://oom.lt/FZESWLPV1](http://oom.lt/FZESWLPV1)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +30,6 @@ NO IMAGES
 |OOMP Description|oompDesc|switch|
 |OOMP Index|oompIndex|LPV-1|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-switch-LPV-1|
-|Hex ID (short code)|hexID|FZESWITCHLPV1|
+|Hex ID (short code)|hexID|FZESWLPV1|
 |name|name|switch : LPV-1|
 ||||

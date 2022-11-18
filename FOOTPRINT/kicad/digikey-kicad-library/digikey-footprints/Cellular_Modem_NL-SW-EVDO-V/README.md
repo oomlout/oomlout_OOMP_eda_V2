@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSCELLULARMODEMNLSWEVDOV > digikey-footprints : Cellular_Modem_NL-SW-EVDO-V](#fzkicaddigikeykicadlibrarydigikeyfootprintscellularmodemnlswevdov--digikey-footprints--cellular_modem_nl-sw-evdo-v)
+* [FZDIGIDIGIKEYFOOTPRINTSCELLULARMODEMNLSWEVDOV > digikey-footprints : Cellular_Modem_NL-SW-EVDO-V](#fzdigidigikeyfootprintscellularmodemnlswevdov--digikey-footprints--cellular_modem_nl-sw-evdo-v)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSCELLULARMODEMNLSWEVDOV > digikey-footprints : Cellular_Modem_NL-SW-EVDO-V
+# FZDIGIDIGIKEYFOOTPRINTSCELLULARMODEMNLSWEVDOV > digikey-footprints : Cellular_Modem_NL-SW-EVDO-V
 
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Cellular_Modem_NL-SW-EVDO-V
-- Hex ID: FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSCELLULARMODEMNLSWEVDOV
+- Hex ID: FZDIGIDIGIKEYFOOTPRINTSCELLULARMODEMNLSWEVDOV
 - Name: digikey-footprints : Cellular_Modem_NL-SW-EVDO-V
 - Description: digikey-footprints : Cellular_Modem_NL-SW-EVDO-V
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Cellular_Modem_NL-SW-EVDO-V](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Cellular_Modem_NL-SW-EVDO-V)
-- Short Link: [http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSCELLULARMODEMNLSWEVDOV](http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSCELLULARMODEMNLSWEVDOV)
+- Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSCELLULARMODEMNLSWEVDOV](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSCELLULARMODEMNLSWEVDOV)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|digikey-footprints|
 |OOMP Index|oompIndex|Cellular_Modem_NL-SW-EVDO-V|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Cellular_Modem_NL-SW-EVDO-V|
-|Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSCELLULARMODEMNLSWEVDOV|
+|Hex ID (short code)|hexID|FZDIGIDIGIKEYFOOTPRINTSCELLULARMODEMNLSWEVDOV|
 |name|name|digikey-footprints : Cellular_Modem_NL-SW-EVDO-V|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Cellular_Modem_NL-SW-EVDO-V'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> None</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||

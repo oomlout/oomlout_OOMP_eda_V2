@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKRESISTORSMRARRAYCONVEX2X42 > Resistor_SMD : R_Array_Convex_2x0402](#fzkresistorsmrarrayconvex2x42--resistor_smd--r_array_convex_2x0402)
+* [FZKRRARRAYCONVEX2X42 > Resistor_SMD : R_Array_Convex_2x0402](#fzkrrarrayconvex2x42--resistor_smd--r_array_convex_2x0402)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKRESISTORSMRARRAYCONVEX2X42 > Resistor_SMD : R_Array_Convex_2x0402
+# FZKRRARRAYCONVEX2X42 > Resistor_SMD : R_Array_Convex_2x0402
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_Array_Convex_2x0402
-- Hex ID: FZKRESISTORSMRARRAYCONVEX2X42
+- Hex ID: FZKRRARRAYCONVEX2X42
 - Name: Resistor_SMD : R_Array_Convex_2x0402
 - Description: Resistor_SMD : R_Array_Convex_2x0402
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_Array_Convex_2x0402](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_Array_Convex_2x0402)
-- Short Link: [http://oom.lt/FZKRESISTORSMRARRAYCONVEX2X42](http://oom.lt/FZKRESISTORSMRARRAYCONVEX2X42)
+- Short Link: [http://oom.lt/FZKRRARRAYCONVEX2X42](http://oom.lt/FZKRRARRAYCONVEX2X42)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Resistor_SMD|
 |OOMP Index|oompIndex|R_Array_Convex_2x0402|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_Array_Convex_2x0402|
-|Hex ID (short code)|hexID|FZKRESISTORSMRARRAYCONVEX2X42|
+|Hex ID (short code)|hexID|FZKRRARRAYCONVEX2X42|
 |name|name|Resistor_SMD : R_Array_Convex_2x0402|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'R_Array_Convex_2x0402'</td><td> 'description'</td></tr><tr><td> 'Chip Resistor Network</td><td> ROHM MNR02 (see mnr_g.pdf)'</td><td> 'tags'</td></tr><tr><td> 'resistor array'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Resistor_SMD.3dshapes/R_Array_Convex_2x0402.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

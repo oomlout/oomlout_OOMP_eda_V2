@@ -5,18 +5,18 @@
 Contents
 ========
 
-* [FZSSPARKFUNCNS1X4SMRAFEMALE > SparkFun-Connectors : 1X04_SMD_RA_FEMALE](#fzssparkfuncns1x4smrafemale--sparkfun-connectors--1x04_smd_ra_female)
+* [FZSSPARKFUNCNS1X4SMRAF > SparkFun-Connectors : 1X04_SMD_RA_FEMALE](#fzssparkfuncns1x4smraf--sparkfun-connectors--1x04_smd_ra_female)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZSSPARKFUNCNS1X4SMRAFEMALE > SparkFun-Connectors : 1X04_SMD_RA_FEMALE
+# FZSSPARKFUNCNS1X4SMRAF > SparkFun-Connectors : 1X04_SMD_RA_FEMALE
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-1X04_SMD_RA_FEMALE
-- Hex ID: FZSSPARKFUNCNS1X4SMRAFEMALE
+- Hex ID: FZSSPARKFUNCNS1X4SMRAF
 - Name: SparkFun-Connectors : 1X04_SMD_RA_FEMALE
 - Description: SparkFun-Connectors : 1X04_SMD_RA_FEMALE
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-1X04_SMD_RA_FEMALE](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-1X04_SMD_RA_FEMALE)
-- Short Link: [http://oom.lt/FZSSPARKFUNCNS1X4SMRAFEMALE](http://oom.lt/FZSSPARKFUNCNS1X4SMRAFEMALE)
+- Short Link: [http://oom.lt/FZSSPARKFUNCNS1X4SMRAF](http://oom.lt/FZSSPARKFUNCNS1X4SMRAF)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +30,6 @@ NO IMAGES
 |OOMP Description|oompDesc|SparkFun-Connectors|
 |OOMP Index|oompIndex|1X04_SMD_RA_FEMALE|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-1X04_SMD_RA_FEMALE|
-|Hex ID (short code)|hexID|FZSSPARKFUNCNS1X4SMRAFEMALE|
+|Hex ID (short code)|hexID|FZSSPARKFUNCNS1X4SMRAF|
 |name|name|SparkFun-Connectors : 1X04_SMD_RA_FEMALE|
 ||||

@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTS232 > digikey-footprints : 2320](#fzkicaddigikeykicadlibrarydigikeyfootprints232--digikey-footprints--2320)
+* [FZDIGIDIGIKEYFOOTPRINTS232 > digikey-footprints : 2320](#fzdigidigikeyfootprints232--digikey-footprints--2320)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTS232 > digikey-footprints : 2320
+# FZDIGIDIGIKEYFOOTPRINTS232 > digikey-footprints : 2320
 
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-2320
-- Hex ID: FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTS232
+- Hex ID: FZDIGIDIGIKEYFOOTPRINTS232
 - Name: digikey-footprints : 2320
 - Description: digikey-footprints : 2320
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-2320](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-2320)
-- Short Link: [http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTS232](http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTS232)
+- Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTS232](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTS232)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|digikey-footprints|
 |OOMP Index|oompIndex|2320|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-2320|
-|Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTS232|
+|Hex ID (short code)|hexID|FZDIGIDIGIKEYFOOTPRINTS232|
 |name|name|digikey-footprints : 2320|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> '2320'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

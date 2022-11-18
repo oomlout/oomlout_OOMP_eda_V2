@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKLLD5HORIZONTALO127Z15 > LED_THT : LED_D5.0mm_Horizontal_O1.27mm_Z15.0mm](#fzklld5horizontalo127z15--led_tht--led_d50mm_horizontal_o127mm_z150mm)
+* [FZKLLD5HO127Z15 > LED_THT : LED_D5.0mm_Horizontal_O1.27mm_Z15.0mm](#fzklld5ho127z15--led_tht--led_d50mm_horizontal_o127mm_z150mm)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKLLD5HORIZONTALO127Z15 > LED_THT : LED_D5.0mm_Horizontal_O1.27mm_Z15.0mm
+# FZKLLD5HO127Z15 > LED_THT : LED_D5.0mm_Horizontal_O1.27mm_Z15.0mm
 
 - ID: FOOTPRINT-kicad-kicad-footprints-LED_THT-LED_D5.0mm_Horizontal_O1.27mm_Z15.0mm
-- Hex ID: FZKLLD5HORIZONTALO127Z15
+- Hex ID: FZKLLD5HO127Z15
 - Name: LED_THT : LED_D5.0mm_Horizontal_O1.27mm_Z15.0mm
 - Description: LED_THT : LED_D5.0mm_Horizontal_O1.27mm_Z15.0mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-LED_THT-LED_D5.0mm_Horizontal_O1.27mm_Z15.0mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-LED_THT-LED_D5.0mm_Horizontal_O1.27mm_Z15.0mm)
-- Short Link: [http://oom.lt/FZKLLD5HORIZONTALO127Z15](http://oom.lt/FZKLLD5HORIZONTALO127Z15)
+- Short Link: [http://oom.lt/FZKLLD5HO127Z15](http://oom.lt/FZKLLD5HO127Z15)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|LED_THT|
 |OOMP Index|oompIndex|LED_D5.0mm_Horizontal_O1.27mm_Z15.0mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-LED_THT-LED_D5.0mm_Horizontal_O1.27mm_Z15.0mm|
-|Hex ID (short code)|hexID|FZKLLD5HORIZONTALO127Z15|
+|Hex ID (short code)|hexID|FZKLLD5HO127Z15|
 |name|name|LED_THT : LED_D5.0mm_Horizontal_O1.27mm_Z15.0mm|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'LED_D5.0mm_Horizontal_O1.27mm_Z15.0mm'</td><td> 'description'</td></tr><tr><td> 'LED</td><td> diameter 5.0mm z-position of LED center 3.0mm</td><td> 2 pins</td><td> diameter 5.0mm z-position of LED center 3.0mm</td><td> 2 pins</td><td> diameter 5.0mm z-position of LED center 3.0mm</td><td> 2 pins</td><td> diameter 5.0mm z-position of LED center 9.0mm</td><td> 2 pins</td><td> diameter 5.0mm z-position of LED center 9.0mm</td><td> 2 pins</td><td> diameter 5.0mm z-position of LED center 9.0mm</td><td> 2 pins</td><td> diameter 5.0mm z-position of LED center 15.0mm</td><td> 2 pins'</td><td> 'tags'</td></tr><tr><td> 'LED diameter 5.0mm z-position of LED center 3.0mm 2 pins diameter 5.0mm z-position of LED center 3.0mm 2 pins diameter 5.0mm z-position of LED center 3.0mm 2 pins diameter 5.0mm z-position of LED center 9.0mm 2 pins diameter 5.0mm z-position of LED center 9.0mm 2 pins diameter 5.0mm z-position of LED center 9.0mm 2 pins diameter 5.0mm z-position of LED center 15.0mm 2 pins'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/LED_THT.3dshapes/LED_D5.0mm_Horizontal_O1.27mm_Z15.0mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

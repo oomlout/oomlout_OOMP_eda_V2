@@ -5,18 +5,18 @@
 Contents
 ========
 
-* [FZESWITCHREKN > switch : REKN](#fzeswitchrekn--switch--rekn)
+* [FZESWREKN > switch : REKN](#fzeswrekn--switch--rekn)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZESWITCHREKN > switch : REKN
+# FZESWREKN > switch : REKN
 
 - ID: FOOTPRINT-eagle-eagle-default-switch-REKN
-- Hex ID: FZESWITCHREKN
+- Hex ID: FZESWREKN
 - Name: switch : REKN
 - Description: switch : REKN
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-REKN](http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-REKN)
-- Short Link: [http://oom.lt/FZESWITCHREKN](http://oom.lt/FZESWITCHREKN)
+- Short Link: [http://oom.lt/FZESWREKN](http://oom.lt/FZESWREKN)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +30,6 @@ NO IMAGES
 |OOMP Description|oompDesc|switch|
 |OOMP Index|oompIndex|REKN|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-switch-REKN|
-|Hex ID (short code)|hexID|FZESWITCHREKN|
+|Hex ID (short code)|hexID|FZESWREKN|
 |name|name|switch : REKN|
 ||||

@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKCAPACITORTANTALUMSMCPEIA321612KEMETS > Capacitor_Tantalum_SMD : CP_EIA-3216-12_Kemet-S](#fzkcapacitortantalumsmcpeia321612kemets--capacitor_tantalum_smd--cp_eia-3216-12_kemet-s)
+* [FZKCCPEIA321612KEMETS > Capacitor_Tantalum_SMD : CP_EIA-3216-12_Kemet-S](#fzkccpeia321612kemets--capacitor_tantalum_smd--cp_eia-3216-12_kemet-s)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKCAPACITORTANTALUMSMCPEIA321612KEMETS > Capacitor_Tantalum_SMD : CP_EIA-3216-12_Kemet-S
+# FZKCCPEIA321612KEMETS > Capacitor_Tantalum_SMD : CP_EIA-3216-12_Kemet-S
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Capacitor_Tantalum_SMD-CP_EIA-3216-12_Kemet-S
-- Hex ID: FZKCAPACITORTANTALUMSMCPEIA321612KEMETS
+- Hex ID: FZKCCPEIA321612KEMETS
 - Name: Capacitor_Tantalum_SMD : CP_EIA-3216-12_Kemet-S
 - Description: Capacitor_Tantalum_SMD : CP_EIA-3216-12_Kemet-S
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_Tantalum_SMD-CP_EIA-3216-12_Kemet-S](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_Tantalum_SMD-CP_EIA-3216-12_Kemet-S)
-- Short Link: [http://oom.lt/FZKCAPACITORTANTALUMSMCPEIA321612KEMETS](http://oom.lt/FZKCAPACITORTANTALUMSMCPEIA321612KEMETS)
+- Short Link: [http://oom.lt/FZKCCPEIA321612KEMETS](http://oom.lt/FZKCCPEIA321612KEMETS)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Capacitor_Tantalum_SMD|
 |OOMP Index|oompIndex|CP_EIA-3216-12_Kemet-S|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Capacitor_Tantalum_SMD-CP_EIA-3216-12_Kemet-S|
-|Hex ID (short code)|hexID|FZKCAPACITORTANTALUMSMCPEIA321612KEMETS|
+|Hex ID (short code)|hexID|FZKCCPEIA321612KEMETS|
 |name|name|Capacitor_Tantalum_SMD : CP_EIA-3216-12_Kemet-S|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'CP_EIA-3216-12_Kemet-S'</td><td> 'description'</td></tr><tr><td> 'Tantalum Capacitor SMD Kemet-S (3216-12 Metric)</td><td> IPC_7351 nominal</td><td> (Body size from</td></tr><tr><td> http</td></tr><tr><td>//www.kemet.com/Lists/ProductCatalog/Attachments/253/KEM_TC101_STD.pdf)</td><td> generated with kicad-footprint-generator'</td><td> 'tags'</td></tr><tr><td> 'capacitor tantalum'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Capacitor_Tantalum_SMD.3dshapes/CP_EIA-3216-12_Kemet-S.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||

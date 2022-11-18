@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSUFDFN125X1 > digikey-footprints : UFDFN-10_2.5x1mm](#fzkicaddigikeykicadlibrarydigikeyfootprintsufdfn125x1--digikey-footprints--ufdfn-10_25x1mm)
+* [FZDIGIDIGIKEYFOOTPRINTSUFDFN125X1 > digikey-footprints : UFDFN-10_2.5x1mm](#fzdigidigikeyfootprintsufdfn125x1--digikey-footprints--ufdfn-10_25x1mm)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSUFDFN125X1 > digikey-footprints : UFDFN-10_2.5x1mm
+# FZDIGIDIGIKEYFOOTPRINTSUFDFN125X1 > digikey-footprints : UFDFN-10_2.5x1mm
 
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-UFDFN-10_2.5x1mm
-- Hex ID: FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSUFDFN125X1
+- Hex ID: FZDIGIDIGIKEYFOOTPRINTSUFDFN125X1
 - Name: digikey-footprints : UFDFN-10_2.5x1mm
 - Description: digikey-footprints : UFDFN-10_2.5x1mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-UFDFN-10_2.5x1mm](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-UFDFN-10_2.5x1mm)
-- Short Link: [http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSUFDFN125X1](http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSUFDFN125X1)
+- Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSUFDFN125X1](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSUFDFN125X1)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|digikey-footprints|
 |OOMP Index|oompIndex|UFDFN-10_2.5x1mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-UFDFN-10_2.5x1mm|
-|Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSUFDFN125X1|
+|Hex ID (short code)|hexID|FZDIGIDIGIKEYFOOTPRINTSUFDFN125X1|
 |name|name|digikey-footprints : UFDFN-10_2.5x1mm|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'UFDFN-10_2.5x1mm'</td><td> 'description'</td></tr><tr><td> 'http</td></tr><tr><td>//www.semtech.com/images/datasheet/rclamp0522p_0524p.pdf'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

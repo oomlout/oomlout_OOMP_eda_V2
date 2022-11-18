@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKINDUCTORSMLWUERTHHCF2818 > Inductor_SMD : L_Wuerth_HCF-2818](#fzkinductorsmlwuerthhcf2818--inductor_smd--l_wuerth_hcf-2818)
+* [FZKINLWUERTHHCF2818 > Inductor_SMD : L_Wuerth_HCF-2818](#fzkinlwuerthhcf2818--inductor_smd--l_wuerth_hcf-2818)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKINDUCTORSMLWUERTHHCF2818 > Inductor_SMD : L_Wuerth_HCF-2818
+# FZKINLWUERTHHCF2818 > Inductor_SMD : L_Wuerth_HCF-2818
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Wuerth_HCF-2818
-- Hex ID: FZKINDUCTORSMLWUERTHHCF2818
+- Hex ID: FZKINLWUERTHHCF2818
 - Name: Inductor_SMD : L_Wuerth_HCF-2818
 - Description: Inductor_SMD : L_Wuerth_HCF-2818
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Wuerth_HCF-2818](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Wuerth_HCF-2818)
-- Short Link: [http://oom.lt/FZKINDUCTORSMLWUERTHHCF2818](http://oom.lt/FZKINDUCTORSMLWUERTHHCF2818)
+- Short Link: [http://oom.lt/FZKINLWUERTHHCF2818](http://oom.lt/FZKINLWUERTHHCF2818)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Inductor_SMD|
 |OOMP Index|oompIndex|L_Wuerth_HCF-2818|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Wuerth_HCF-2818|
-|Hex ID (short code)|hexID|FZKINDUCTORSMLWUERTHHCF2818|
+|Hex ID (short code)|hexID|FZKINLWUERTHHCF2818|
 |name|name|Inductor_SMD : L_Wuerth_HCF-2818|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'L_Wuerth_HCF-2818'</td><td> 'description'</td></tr><tr><td> '7443640330</td><td> http</td></tr><tr><td>//katalog.we-online.de/pbs/datasheet/7443640330.pdf'</td><td> 'tags'</td></tr><tr><td> 'inductor shielded wuerth hcf'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Inductor_SMD.3dshapes/L_Wuerth_HCF-2818.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

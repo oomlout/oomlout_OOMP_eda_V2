@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKCNJSTJSTPHDB26BPHDSS2X13P2VERTICAL > Connector_JST : JST_PHD_B26B-PHDSS_2x13_P2.00mm_Vertical](#fzkcnjstjstphdb26bphdss2x13p2vertical--connector_jst--jst_phd_b26b-phdss_2x13_p200mm_vertical)
+* [FZKCNJSTJSTPHDB26BPHDSS2X13P2F > Connector_JST : JST_PHD_B26B-PHDSS_2x13_P2.00mm_Vertical](#fzkcnjstjstphdb26bphdss2x13p2f--connector_jst--jst_phd_b26b-phdss_2x13_p200mm_vertical)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKCNJSTJSTPHDB26BPHDSS2X13P2VERTICAL > Connector_JST : JST_PHD_B26B-PHDSS_2x13_P2.00mm_Vertical
+# FZKCNJSTJSTPHDB26BPHDSS2X13P2F > Connector_JST : JST_PHD_B26B-PHDSS_2x13_P2.00mm_Vertical
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_PHD_B26B-PHDSS_2x13_P2.00mm_Vertical
-- Hex ID: FZKCNJSTJSTPHDB26BPHDSS2X13P2VERTICAL
+- Hex ID: FZKCNJSTJSTPHDB26BPHDSS2X13P2F
 - Name: Connector_JST : JST_PHD_B26B-PHDSS_2x13_P2.00mm_Vertical
 - Description: Connector_JST : JST_PHD_B26B-PHDSS_2x13_P2.00mm_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_PHD_B26B-PHDSS_2x13_P2.00mm_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_PHD_B26B-PHDSS_2x13_P2.00mm_Vertical)
-- Short Link: [http://oom.lt/FZKCNJSTJSTPHDB26BPHDSS2X13P2VERTICAL](http://oom.lt/FZKCNJSTJSTPHDB26BPHDSS2X13P2VERTICAL)
+- Short Link: [http://oom.lt/FZKCNJSTJSTPHDB26BPHDSS2X13P2F](http://oom.lt/FZKCNJSTJSTPHDB26BPHDSS2X13P2F)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Connector_JST|
 |OOMP Index|oompIndex|JST_PHD_B26B-PHDSS_2x13_P2.00mm_Vertical|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_PHD_B26B-PHDSS_2x13_P2.00mm_Vertical|
-|Hex ID (short code)|hexID|FZKCNJSTJSTPHDB26BPHDSS2X13P2VERTICAL|
+|Hex ID (short code)|hexID|FZKCNJSTJSTPHDB26BPHDSS2X13P2F|
 |name|name|Connector_JST : JST_PHD_B26B-PHDSS_2x13_P2.00mm_Vertical|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'JST_PHD_B26B-PHDSS_2x13_P2.00mm_Vertical'</td><td> 'description'</td></tr><tr><td> 'JST PHD series connector</td><td> B26B-PHDSS (http</td></tr><tr><td>//www.jst-mfg.com/product/pdf/eng/ePHD.pdf)</td><td> generated with kicad-footprint-generator'</td><td> 'tags'</td></tr><tr><td> 'connector JST PHD vertical'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_JST.3dshapes/JST_PHD_B26B-PHDSS_2x13_P2.00mm_Vertical.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||

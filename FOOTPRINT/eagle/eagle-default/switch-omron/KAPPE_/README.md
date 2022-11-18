@@ -5,18 +5,18 @@
 Contents
 ========
 
-* [FZESWITCHOMRONKAPPE > switch-omron : KAPPE_](#fzeswitchomronkappe--switch-omron--kappe_)
+* [FZESWOMRONKAPPE > switch-omron : KAPPE_](#fzeswomronkappe--switch-omron--kappe_)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZESWITCHOMRONKAPPE > switch-omron : KAPPE_
+# FZESWOMRONKAPPE > switch-omron : KAPPE_
 
 - ID: FOOTPRINT-eagle-eagle-default-switch-omron-KAPPE_
-- Hex ID: FZESWITCHOMRONKAPPE
+- Hex ID: FZESWOMRONKAPPE
 - Name: switch-omron : KAPPE_
 - Description: switch-omron : KAPPE_
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-omron-KAPPE_](http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-omron-KAPPE_)
-- Short Link: [http://oom.lt/FZESWITCHOMRONKAPPE](http://oom.lt/FZESWITCHOMRONKAPPE)
+- Short Link: [http://oom.lt/FZESWOMRONKAPPE](http://oom.lt/FZESWOMRONKAPPE)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +30,6 @@ NO IMAGES
 |OOMP Description|oompDesc|switch-omron|
 |OOMP Index|oompIndex|KAPPE_|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-switch-omron-KAPPE_|
-|Hex ID (short code)|hexID|FZESWITCHOMRONKAPPE|
+|Hex ID (short code)|hexID|FZESWOMRONKAPPE|
 |name|name|switch-omron : KAPPE_|
 ||||

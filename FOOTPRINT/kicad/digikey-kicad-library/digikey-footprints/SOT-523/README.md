@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSOT523 > digikey-footprints : SOT-523](#fzkicaddigikeykicadlibrarydigikeyfootprintssot523--digikey-footprints--sot-523)
+* [FZDIGIDIGIKEYFOOTPRINTSSOT523 > digikey-footprints : SOT-523](#fzdigidigikeyfootprintssot523--digikey-footprints--sot-523)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSOT523 > digikey-footprints : SOT-523
+# FZDIGIDIGIKEYFOOTPRINTSSOT523 > digikey-footprints : SOT-523
 
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SOT-523
-- Hex ID: FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSOT523
+- Hex ID: FZDIGIDIGIKEYFOOTPRINTSSOT523
 - Name: digikey-footprints : SOT-523
 - Description: digikey-footprints : SOT-523
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SOT-523](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SOT-523)
-- Short Link: [http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSOT523](http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSOT523)
+- Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSSOT523](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSSOT523)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|digikey-footprints|
 |OOMP Index|oompIndex|SOT-523|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SOT-523|
-|Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSOT523|
+|Hex ID (short code)|hexID|FZDIGIDIGIKEYFOOTPRINTSSOT523|
 |name|name|digikey-footprints : SOT-523|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'SOT-523'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

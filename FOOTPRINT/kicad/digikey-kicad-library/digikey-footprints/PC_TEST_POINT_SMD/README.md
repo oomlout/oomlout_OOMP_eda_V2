@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSPCTESTPOINTSM > digikey-footprints : PC_TEST_POINT_SMD](#fzkicaddigikeykicadlibrarydigikeyfootprintspctestpointsm--digikey-footprints--pc_test_point_smd)
+* [FZDIGIDIGIKEYFOOTPRINTSPCTESTPOINTSM > digikey-footprints : PC_TEST_POINT_SMD](#fzdigidigikeyfootprintspctestpointsm--digikey-footprints--pc_test_point_smd)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSPCTESTPOINTSM > digikey-footprints : PC_TEST_POINT_SMD
+# FZDIGIDIGIKEYFOOTPRINTSPCTESTPOINTSM > digikey-footprints : PC_TEST_POINT_SMD
 
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-PC_TEST_POINT_SMD
-- Hex ID: FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSPCTESTPOINTSM
+- Hex ID: FZDIGIDIGIKEYFOOTPRINTSPCTESTPOINTSM
 - Name: digikey-footprints : PC_TEST_POINT_SMD
 - Description: digikey-footprints : PC_TEST_POINT_SMD
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-PC_TEST_POINT_SMD](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-PC_TEST_POINT_SMD)
-- Short Link: [http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSPCTESTPOINTSM](http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSPCTESTPOINTSM)
+- Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSPCTESTPOINTSM](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSPCTESTPOINTSM)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|digikey-footprints|
 |OOMP Index|oompIndex|PC_TEST_POINT_SMD|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-PC_TEST_POINT_SMD|
-|Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSPCTESTPOINTSM|
+|Hex ID (short code)|hexID|FZDIGIDIGIKEYFOOTPRINTSPCTESTPOINTSM|
 |name|name|digikey-footprints : PC_TEST_POINT_SMD|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'PC_TEST_POINT_SMD'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

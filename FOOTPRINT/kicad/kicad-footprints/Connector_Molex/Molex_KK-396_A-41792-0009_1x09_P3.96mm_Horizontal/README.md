@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKCNMXMXKK396A4179291X9P396HORIZONTAL > Connector_Molex : Molex_KK-396_A-41792-0009_1x09_P3.96mm_Horizontal](#fzkcnmxmxkk396a4179291x9p396horizontal--connector_molex--molex_kk-396_a-41792-0009_1x09_p396mm_horizontal)
+* [FZKCNMXMXKK396A4179291X9P396H > Connector_Molex : Molex_KK-396_A-41792-0009_1x09_P3.96mm_Horizontal](#fzkcnmxmxkk396a4179291x9p396h--connector_molex--molex_kk-396_a-41792-0009_1x09_p396mm_horizontal)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKCNMXMXKK396A4179291X9P396HORIZONTAL > Connector_Molex : Molex_KK-396_A-41792-0009_1x09_P3.96mm_Horizontal
+# FZKCNMXMXKK396A4179291X9P396H > Connector_Molex : Molex_KK-396_A-41792-0009_1x09_P3.96mm_Horizontal
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_KK-396_A-41792-0009_1x09_P3.96mm_Horizontal
-- Hex ID: FZKCNMXMXKK396A4179291X9P396HORIZONTAL
+- Hex ID: FZKCNMXMXKK396A4179291X9P396H
 - Name: Connector_Molex : Molex_KK-396_A-41792-0009_1x09_P3.96mm_Horizontal
 - Description: Connector_Molex : Molex_KK-396_A-41792-0009_1x09_P3.96mm_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_KK-396_A-41792-0009_1x09_P3.96mm_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_KK-396_A-41792-0009_1x09_P3.96mm_Horizontal)
-- Short Link: [http://oom.lt/FZKCNMXMXKK396A4179291X9P396HORIZONTAL](http://oom.lt/FZKCNMXMXKK396A4179291X9P396HORIZONTAL)
+- Short Link: [http://oom.lt/FZKCNMXMXKK396A4179291X9P396H](http://oom.lt/FZKCNMXMXKK396A4179291X9P396H)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Connector_Molex|
 |OOMP Index|oompIndex|Molex_KK-396_A-41792-0009_1x09_P3.96mm_Horizontal|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_KK-396_A-41792-0009_1x09_P3.96mm_Horizontal|
-|Hex ID (short code)|hexID|FZKCNMXMXKK396A4179291X9P396HORIZONTAL|
+|Hex ID (short code)|hexID|FZKCNMXMXKK396A4179291X9P396H|
 |name|name|Connector_Molex : Molex_KK-396_A-41792-0009_1x09_P3.96mm_Horizontal|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Molex_KK-396_A-41792-0009_1x09_P3.96mm_Horizontal'</td><td> 'description'</td></tr><tr><td> 'Molex KK 396 Interconnect System</td><td> old/engineering part number</td></tr><tr><td> A-41792-0009 example for new part number</td></tr><tr><td> 26-60-5090</td><td> 9 Pins (https</td></tr><tr><td>//www.molex.com/pdm_docs/sd/026605050_sd.pdf)</td><td> generated with kicad-footprint-generator'</td><td> 'tags'</td></tr><tr><td> 'connector Molex KK-396 horizontal'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_Molex.3dshapes/Molex_KK-396_A-41792-0009_1x09_P3.96mm_Horizontal.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||

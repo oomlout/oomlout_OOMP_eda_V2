@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSBLUETOOTHMOBLE121LRAM256K > digikey-footprints : Bluetooth_Module_BLE121LR-A-M256K](#fzkicaddigikeykicadlibrarydigikeyfootprintsbluetoothmoble121lram256k--digikey-footprints--bluetooth_module_ble121lr-a-m256k)
+* [FZDIGIDIGIKEYFOOTPRINTSBLUETOOTHMOBLE121LRAM256K > digikey-footprints : Bluetooth_Module_BLE121LR-A-M256K](#fzdigidigikeyfootprintsbluetoothmoble121lram256k--digikey-footprints--bluetooth_module_ble121lr-a-m256k)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSBLUETOOTHMOBLE121LRAM256K > digikey-footprints : Bluetooth_Module_BLE121LR-A-M256K
+# FZDIGIDIGIKEYFOOTPRINTSBLUETOOTHMOBLE121LRAM256K > digikey-footprints : Bluetooth_Module_BLE121LR-A-M256K
 
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Bluetooth_Module_BLE121LR-A-M256K
-- Hex ID: FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSBLUETOOTHMOBLE121LRAM256K
+- Hex ID: FZDIGIDIGIKEYFOOTPRINTSBLUETOOTHMOBLE121LRAM256K
 - Name: digikey-footprints : Bluetooth_Module_BLE121LR-A-M256K
 - Description: digikey-footprints : Bluetooth_Module_BLE121LR-A-M256K
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Bluetooth_Module_BLE121LR-A-M256K](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Bluetooth_Module_BLE121LR-A-M256K)
-- Short Link: [http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSBLUETOOTHMOBLE121LRAM256K](http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSBLUETOOTHMOBLE121LRAM256K)
+- Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSBLUETOOTHMOBLE121LRAM256K](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSBLUETOOTHMOBLE121LRAM256K)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|digikey-footprints|
 |OOMP Index|oompIndex|Bluetooth_Module_BLE121LR-A-M256K|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Bluetooth_Module_BLE121LR-A-M256K|
-|Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSBLUETOOTHMOBLE121LRAM256K|
+|Hex ID (short code)|hexID|FZDIGIDIGIKEYFOOTPRINTSBLUETOOTHMOBLE121LRAM256K|
 |name|name|digikey-footprints : Bluetooth_Module_BLE121LR-A-M256K|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Bluetooth_Module_BLE121LR-A-M256K'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'oval'</td></tr></table></td></tr></table>|
 ||||

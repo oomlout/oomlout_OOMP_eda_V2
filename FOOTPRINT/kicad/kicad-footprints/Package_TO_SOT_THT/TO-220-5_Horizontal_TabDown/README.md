@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKSOTTO225HORIZONTALTABDOWN > Package_TO_SOT_THT : TO-220-5_Horizontal_TabDown](#fzksotto225horizontaltabdown--package_to_sot_tht--to-220-5_horizontal_tabdown)
+* [FZKSOTTO225HTABDOWN > Package_TO_SOT_THT : TO-220-5_Horizontal_TabDown](#fzksotto225htabdown--package_to_sot_tht--to-220-5_horizontal_tabdown)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKSOTTO225HORIZONTALTABDOWN > Package_TO_SOT_THT : TO-220-5_Horizontal_TabDown
+# FZKSOTTO225HTABDOWN > Package_TO_SOT_THT : TO-220-5_Horizontal_TabDown
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-TO-220-5_Horizontal_TabDown
-- Hex ID: FZKSOTTO225HORIZONTALTABDOWN
+- Hex ID: FZKSOTTO225HTABDOWN
 - Name: Package_TO_SOT_THT : TO-220-5_Horizontal_TabDown
 - Description: Package_TO_SOT_THT : TO-220-5_Horizontal_TabDown
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-TO-220-5_Horizontal_TabDown](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-TO-220-5_Horizontal_TabDown)
-- Short Link: [http://oom.lt/FZKSOTTO225HORIZONTALTABDOWN](http://oom.lt/FZKSOTTO225HORIZONTALTABDOWN)
+- Short Link: [http://oom.lt/FZKSOTTO225HTABDOWN](http://oom.lt/FZKSOTTO225HTABDOWN)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Package_TO_SOT_THT|
 |OOMP Index|oompIndex|TO-220-5_Horizontal_TabDown|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-TO-220-5_Horizontal_TabDown|
-|Hex ID (short code)|hexID|FZKSOTTO225HORIZONTALTABDOWN|
+|Hex ID (short code)|hexID|FZKSOTTO225HTABDOWN|
 |name|name|Package_TO_SOT_THT : TO-220-5_Horizontal_TabDown|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'TO-220-5_Horizontal_TabDown'</td><td> 'description'</td></tr><tr><td> 'TO-220-5</td><td> Horizontal</td><td> RM 1.7mm</td><td> Pentawatt</td><td> Multiwatt-5</td><td> see http</td></tr><tr><td>//www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/ltc-legacy-to-220/to-220_5_05-08-1421_straight_lead.pdf'</td><td> 'tags'</td></tr><tr><td> 'TO-220-5 Horizontal RM 1.7mm Pentawatt Multiwatt-5'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_TO_SOT_THT.3dshapes/TO-220-5_Horizontal_TabDown.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'np_thru_hole'</td><td> 'shape'</td></tr><tr><td> 'oval'</td></tr></table></td></tr></table>|
 ||||

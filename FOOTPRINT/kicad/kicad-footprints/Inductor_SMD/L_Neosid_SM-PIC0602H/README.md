@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKINDUCTORSMLNEOSIDSMPIC62H > Inductor_SMD : L_Neosid_SM-PIC0602H](#fzkinductorsmlneosidsmpic62h--inductor_smd--l_neosid_sm-pic0602h)
+* [FZKINLNEOSIDSMPIC62H > Inductor_SMD : L_Neosid_SM-PIC0602H](#fzkinlneosidsmpic62h--inductor_smd--l_neosid_sm-pic0602h)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKINDUCTORSMLNEOSIDSMPIC62H > Inductor_SMD : L_Neosid_SM-PIC0602H
+# FZKINLNEOSIDSMPIC62H > Inductor_SMD : L_Neosid_SM-PIC0602H
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Neosid_SM-PIC0602H
-- Hex ID: FZKINDUCTORSMLNEOSIDSMPIC62H
+- Hex ID: FZKINLNEOSIDSMPIC62H
 - Name: Inductor_SMD : L_Neosid_SM-PIC0602H
 - Description: Inductor_SMD : L_Neosid_SM-PIC0602H
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Neosid_SM-PIC0602H](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Neosid_SM-PIC0602H)
-- Short Link: [http://oom.lt/FZKINDUCTORSMLNEOSIDSMPIC62H](http://oom.lt/FZKINDUCTORSMLNEOSIDSMPIC62H)
+- Short Link: [http://oom.lt/FZKINLNEOSIDSMPIC62H](http://oom.lt/FZKINLNEOSIDSMPIC62H)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Inductor_SMD|
 |OOMP Index|oompIndex|L_Neosid_SM-PIC0602H|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Neosid_SM-PIC0602H|
-|Hex ID (short code)|hexID|FZKINDUCTORSMLNEOSIDSMPIC62H|
+|Hex ID (short code)|hexID|FZKINLNEOSIDSMPIC62H|
 |name|name|Inductor_SMD : L_Neosid_SM-PIC0602H|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'L_Neosid_SM-PIC0602H'</td><td> 'description'</td></tr><tr><td> 'Neosid</td><td> Power Inductor</td><td> SM-PIC0602H</td><td> Fixed inductor</td><td> SMD</td><td> https</td></tr><tr><td>//neosid.de/import-data/product-pdf/neoFestind_SMPIC0602H.pdf'</td><td> 'tags'</td></tr><tr><td> 'Neosid Power Inductor SM-PIC0602H Fixed inductor SMD'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Inductor_SMD.3dshapes/L_Neosid_SM-PIC0602H.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKINDUCTORSMLWUERTHMAPI32 > Inductor_SMD : L_Wuerth_MAPI-3020](#fzkinductorsmlwuerthmapi32--inductor_smd--l_wuerth_mapi-3020)
+* [FZKINLWUERTHMAPI32 > Inductor_SMD : L_Wuerth_MAPI-3020](#fzkinlwuerthmapi32--inductor_smd--l_wuerth_mapi-3020)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKINDUCTORSMLWUERTHMAPI32 > Inductor_SMD : L_Wuerth_MAPI-3020
+# FZKINLWUERTHMAPI32 > Inductor_SMD : L_Wuerth_MAPI-3020
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Wuerth_MAPI-3020
-- Hex ID: FZKINDUCTORSMLWUERTHMAPI32
+- Hex ID: FZKINLWUERTHMAPI32
 - Name: Inductor_SMD : L_Wuerth_MAPI-3020
 - Description: Inductor_SMD : L_Wuerth_MAPI-3020
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Wuerth_MAPI-3020](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Wuerth_MAPI-3020)
-- Short Link: [http://oom.lt/FZKINDUCTORSMLWUERTHMAPI32](http://oom.lt/FZKINDUCTORSMLWUERTHMAPI32)
+- Short Link: [http://oom.lt/FZKINLWUERTHMAPI32](http://oom.lt/FZKINLWUERTHMAPI32)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Inductor_SMD|
 |OOMP Index|oompIndex|L_Wuerth_MAPI-3020|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Wuerth_MAPI-3020|
-|Hex ID (short code)|hexID|FZKINDUCTORSMLWUERTHMAPI32|
+|Hex ID (short code)|hexID|FZKINLWUERTHMAPI32|
 |name|name|Inductor_SMD : L_Wuerth_MAPI-3020|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'L_Wuerth_MAPI-3020'</td><td> 'description'</td></tr><tr><td> 'Inductor</td><td> Wuerth Elektronik</td><td> Wuerth_MAPI-3020</td><td> 3.0mmx3.0mm'</td><td> 'tags'</td></tr><tr><td> 'inductor Wuerth smd'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Inductor_SMD.3dshapes/L_Wuerth_MAPI-3020.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

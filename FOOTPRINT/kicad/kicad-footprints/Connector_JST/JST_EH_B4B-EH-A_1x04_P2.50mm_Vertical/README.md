@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKCNJSTJSTEHB4BEHA1X4P25VERTICAL > Connector_JST : JST_EH_B4B-EH-A_1x04_P2.50mm_Vertical](#fzkcnjstjstehb4beha1x4p25vertical--connector_jst--jst_eh_b4b-eh-a_1x04_p250mm_vertical)
+* [FZKCNJSTJSTEHB4BEHA1X4P25F > Connector_JST : JST_EH_B4B-EH-A_1x04_P2.50mm_Vertical](#fzkcnjstjstehb4beha1x4p25f--connector_jst--jst_eh_b4b-eh-a_1x04_p250mm_vertical)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKCNJSTJSTEHB4BEHA1X4P25VERTICAL > Connector_JST : JST_EH_B4B-EH-A_1x04_P2.50mm_Vertical
+# FZKCNJSTJSTEHB4BEHA1X4P25F > Connector_JST : JST_EH_B4B-EH-A_1x04_P2.50mm_Vertical
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_EH_B4B-EH-A_1x04_P2.50mm_Vertical
-- Hex ID: FZKCNJSTJSTEHB4BEHA1X4P25VERTICAL
+- Hex ID: FZKCNJSTJSTEHB4BEHA1X4P25F
 - Name: Connector_JST : JST_EH_B4B-EH-A_1x04_P2.50mm_Vertical
 - Description: Connector_JST : JST_EH_B4B-EH-A_1x04_P2.50mm_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_EH_B4B-EH-A_1x04_P2.50mm_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_EH_B4B-EH-A_1x04_P2.50mm_Vertical)
-- Short Link: [http://oom.lt/FZKCNJSTJSTEHB4BEHA1X4P25VERTICAL](http://oom.lt/FZKCNJSTJSTEHB4BEHA1X4P25VERTICAL)
+- Short Link: [http://oom.lt/FZKCNJSTJSTEHB4BEHA1X4P25F](http://oom.lt/FZKCNJSTJSTEHB4BEHA1X4P25F)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Connector_JST|
 |OOMP Index|oompIndex|JST_EH_B4B-EH-A_1x04_P2.50mm_Vertical|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_EH_B4B-EH-A_1x04_P2.50mm_Vertical|
-|Hex ID (short code)|hexID|FZKCNJSTJSTEHB4BEHA1X4P25VERTICAL|
+|Hex ID (short code)|hexID|FZKCNJSTJSTEHB4BEHA1X4P25F|
 |name|name|Connector_JST : JST_EH_B4B-EH-A_1x04_P2.50mm_Vertical|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'JST_EH_B4B-EH-A_1x04_P2.50mm_Vertical'</td><td> 'description'</td></tr><tr><td> 'JST EH series connector</td><td> B4B-EH-A (http</td></tr><tr><td>//www.jst-mfg.com/product/pdf/eng/eEH.pdf)</td><td> generated with kicad-footprint-generator'</td><td> 'tags'</td></tr><tr><td> 'connector JST EH vertical'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_JST.3dshapes/JST_EH_B4B-EH-A_1x04_P2.50mm_Vertical.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||

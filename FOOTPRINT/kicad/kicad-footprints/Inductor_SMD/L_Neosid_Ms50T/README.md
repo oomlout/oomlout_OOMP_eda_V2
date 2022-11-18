@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKINDUCTORSMLNEOSIDMS5T > Inductor_SMD : L_Neosid_Ms50T](#fzkinductorsmlneosidms5t--inductor_smd--l_neosid_ms50t)
+* [FZKINLNEOSIDMS5T > Inductor_SMD : L_Neosid_Ms50T](#fzkinlneosidms5t--inductor_smd--l_neosid_ms50t)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKINDUCTORSMLNEOSIDMS5T > Inductor_SMD : L_Neosid_Ms50T
+# FZKINLNEOSIDMS5T > Inductor_SMD : L_Neosid_Ms50T
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Neosid_Ms50T
-- Hex ID: FZKINDUCTORSMLNEOSIDMS5T
+- Hex ID: FZKINLNEOSIDMS5T
 - Name: Inductor_SMD : L_Neosid_Ms50T
 - Description: Inductor_SMD : L_Neosid_Ms50T
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Neosid_Ms50T](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Neosid_Ms50T)
-- Short Link: [http://oom.lt/FZKINDUCTORSMLNEOSIDMS5T](http://oom.lt/FZKINDUCTORSMLNEOSIDMS5T)
+- Short Link: [http://oom.lt/FZKINLNEOSIDMS5T](http://oom.lt/FZKINLNEOSIDMS5T)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Inductor_SMD|
 |OOMP Index|oompIndex|L_Neosid_Ms50T|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Neosid_Ms50T|
-|Hex ID (short code)|hexID|FZKINDUCTORSMLNEOSIDMS5T|
+|Hex ID (short code)|hexID|FZKINLNEOSIDMS5T|
 |name|name|Inductor_SMD : L_Neosid_Ms50T|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'L_Neosid_Ms50T'</td><td> 'description'</td></tr><tr><td> 'Neosid</td><td> Power Inductor</td><td> Ms50T</td><td> SMD</td><td> Fixed inductor</td><td>  high temperature</td><td> https</td></tr><tr><td>//neosid.de/import-data/product-pdf/neoFestind_Ms50T.pdf'</td><td> 'tags'</td></tr><tr><td> 'Neosid Power Inductor Ms50T SMD Fixed inductor high temperature'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Inductor_SMD.3dshapes/L_Neosid_Ms50T.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

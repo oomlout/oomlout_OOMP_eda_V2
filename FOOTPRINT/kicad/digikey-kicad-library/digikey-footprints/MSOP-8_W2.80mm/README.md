@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSMS8W28 > digikey-footprints : MSOP-8_W2.80mm](#fzkicaddigikeykicadlibrarydigikeyfootprintsms8w28--digikey-footprints--msop-8_w280mm)
+* [FZDIGIDIGIKEYFOOTPRINTSMS8W28 > digikey-footprints : MSOP-8_W2.80mm](#fzdigidigikeyfootprintsms8w28--digikey-footprints--msop-8_w280mm)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSMS8W28 > digikey-footprints : MSOP-8_W2.80mm
+# FZDIGIDIGIKEYFOOTPRINTSMS8W28 > digikey-footprints : MSOP-8_W2.80mm
 
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-MSOP-8_W2.80mm
-- Hex ID: FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSMS8W28
+- Hex ID: FZDIGIDIGIKEYFOOTPRINTSMS8W28
 - Name: digikey-footprints : MSOP-8_W2.80mm
 - Description: digikey-footprints : MSOP-8_W2.80mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-MSOP-8_W2.80mm](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-MSOP-8_W2.80mm)
-- Short Link: [http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSMS8W28](http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSMS8W28)
+- Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSMS8W28](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSMS8W28)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|digikey-footprints|
 |OOMP Index|oompIndex|MSOP-8_W2.80mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-MSOP-8_W2.80mm|
-|Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSMS8W28|
+|Hex ID (short code)|hexID|FZDIGIDIGIKEYFOOTPRINTSMS8W28|
 |name|name|digikey-footprints : MSOP-8_W2.80mm|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'MSOP-8_W2.80mm'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

@@ -5,18 +5,18 @@
 Contents
 ========
 
-* [FZESWITCHMISC9451 > switch-misc : 9450-1](#fzeswitchmisc9451--switch-misc--9450-1)
+* [FZESWMISC9451 > switch-misc : 9450-1](#fzeswmisc9451--switch-misc--9450-1)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZESWITCHMISC9451 > switch-misc : 9450-1
+# FZESWMISC9451 > switch-misc : 9450-1
 
 - ID: FOOTPRINT-eagle-eagle-default-switch-misc-9450-1
-- Hex ID: FZESWITCHMISC9451
+- Hex ID: FZESWMISC9451
 - Name: switch-misc : 9450-1
 - Description: switch-misc : 9450-1
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-misc-9450-1](http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-misc-9450-1)
-- Short Link: [http://oom.lt/FZESWITCHMISC9451](http://oom.lt/FZESWITCHMISC9451)
+- Short Link: [http://oom.lt/FZESWMISC9451](http://oom.lt/FZESWMISC9451)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +30,6 @@ NO IMAGES
 |OOMP Description|oompDesc|switch-misc|
 |OOMP Index|oompIndex|9450-1|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-switch-misc-9450-1|
-|Hex ID (short code)|hexID|FZESWITCHMISC9451|
+|Hex ID (short code)|hexID|FZESWMISC9451|
 |name|name|switch-misc : 9450-1|
 ||||

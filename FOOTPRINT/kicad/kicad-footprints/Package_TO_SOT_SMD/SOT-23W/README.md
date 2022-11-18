@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKPACKAGETOSOTSMSOT23W > Package_TO_SOT_SMD : SOT-23W](#fzkpackagetosotsmsot23w--package_to_sot_smd--sot-23w)
+* [FZKSOTSOT23W > Package_TO_SOT_SMD : SOT-23W](#fzksotsot23w--package_to_sot_smd--sot-23w)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKPACKAGETOSOTSMSOT23W > Package_TO_SOT_SMD : SOT-23W
+# FZKSOTSOT23W > Package_TO_SOT_SMD : SOT-23W
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-23W
-- Hex ID: FZKPACKAGETOSOTSMSOT23W
+- Hex ID: FZKSOTSOT23W
 - Name: Package_TO_SOT_SMD : SOT-23W
 - Description: Package_TO_SOT_SMD : SOT-23W
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-23W](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-23W)
-- Short Link: [http://oom.lt/FZKPACKAGETOSOTSMSOT23W](http://oom.lt/FZKPACKAGETOSOTSMSOT23W)
+- Short Link: [http://oom.lt/FZKSOTSOT23W](http://oom.lt/FZKSOTSOT23W)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Package_TO_SOT_SMD|
 |OOMP Index|oompIndex|SOT-23W|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-23W|
-|Hex ID (short code)|hexID|FZKPACKAGETOSOTSMSOT23W|
+|Hex ID (short code)|hexID|FZKSOTSOT23W|
 |name|name|Package_TO_SOT_SMD : SOT-23W|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'SOT-23W'</td><td> 'description'</td></tr><tr><td> 'SOT-23W http</td></tr><tr><td>//www.allegromicro.com/~/media/Files/Datasheets/A112x-Datasheet.ashx?la=en&hash=7BC461E058CC246E0BAB62433B2F1ECA104CA9D3'</td><td> 'tags'</td></tr><tr><td> 'SOT-23W'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_TO_SOT_SMD.3dshapes/SOT-23W.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

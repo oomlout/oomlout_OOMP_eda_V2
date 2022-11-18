@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSODIP16762CONN > digikey-footprints : Socket_DIP-16_7.62mm_Conn](#fzkicaddigikeykicadlibrarydigikeyfootprintssodip16762conn--digikey-footprints--socket_dip-16_762mm_conn)
+* [FZDIGIDIGIKEYFOOTPRINTSSODIP16762CONN > digikey-footprints : Socket_DIP-16_7.62mm_Conn](#fzdigidigikeyfootprintssodip16762conn--digikey-footprints--socket_dip-16_762mm_conn)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSODIP16762CONN > digikey-footprints : Socket_DIP-16_7.62mm_Conn
+# FZDIGIDIGIKEYFOOTPRINTSSODIP16762CONN > digikey-footprints : Socket_DIP-16_7.62mm_Conn
 
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Socket_DIP-16_7.62mm_Conn
-- Hex ID: FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSODIP16762CONN
+- Hex ID: FZDIGIDIGIKEYFOOTPRINTSSODIP16762CONN
 - Name: digikey-footprints : Socket_DIP-16_7.62mm_Conn
 - Description: digikey-footprints : Socket_DIP-16_7.62mm_Conn
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Socket_DIP-16_7.62mm_Conn](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Socket_DIP-16_7.62mm_Conn)
-- Short Link: [http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSODIP16762CONN](http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSODIP16762CONN)
+- Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSSODIP16762CONN](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSSODIP16762CONN)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|digikey-footprints|
 |OOMP Index|oompIndex|Socket_DIP-16_7.62mm_Conn|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Socket_DIP-16_7.62mm_Conn|
-|Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSODIP16762CONN|
+|Hex ID (short code)|hexID|FZDIGIDIGIKEYFOOTPRINTSSODIP16762CONN|
 |name|name|digikey-footprints : Socket_DIP-16_7.62mm_Conn|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Socket_DIP-16_7.62mm_Conn'</td><td> 'description'</td></tr><tr><td> 'http</td></tr><tr><td>//www.assmann-wsw.com/fileadmin/datasheets/ASS_0810_CO.pdf'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> None</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||

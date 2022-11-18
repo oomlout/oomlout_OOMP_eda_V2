@@ -5,18 +5,18 @@
 Contents
 ========
 
-* [FZSWSWITCHSPDTP116X4 > SparkFun-Switches : SWITCH_SPDT_PTH_11.6X4.0MM](#fzswswitchspdtp116x4--sparkfun-switches--switch_spdt_pth_116x40mm)
+* [FZSWSWSPDTP116X4 > SparkFun-Switches : SWITCH_SPDT_PTH_11.6X4.0MM](#fzswswspdtp116x4--sparkfun-switches--switch_spdt_pth_116x40mm)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZSWSWITCHSPDTP116X4 > SparkFun-Switches : SWITCH_SPDT_PTH_11.6X4.0MM
+# FZSWSWSPDTP116X4 > SparkFun-Switches : SWITCH_SPDT_PTH_11.6X4.0MM
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Switches-SWITCH_SPDT_PTH_11.6X4.0MM
-- Hex ID: FZSWSWITCHSPDTP116X4
+- Hex ID: FZSWSWSPDTP116X4
 - Name: SparkFun-Switches : SWITCH_SPDT_PTH_11.6X4.0MM
 - Description: SparkFun-Switches : SWITCH_SPDT_PTH_11.6X4.0MM
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Switches-SWITCH_SPDT_PTH_11.6X4.0MM](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Switches-SWITCH_SPDT_PTH_11.6X4.0MM)
-- Short Link: [http://oom.lt/FZSWSWITCHSPDTP116X4](http://oom.lt/FZSWSWITCHSPDTP116X4)
+- Short Link: [http://oom.lt/FZSWSWSPDTP116X4](http://oom.lt/FZSWSWSPDTP116X4)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +30,6 @@ NO IMAGES
 |OOMP Description|oompDesc|SparkFun-Switches|
 |OOMP Index|oompIndex|SWITCH_SPDT_PTH_11.6X4.0MM|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Switches-SWITCH_SPDT_PTH_11.6X4.0MM|
-|Hex ID (short code)|hexID|FZSWSWITCHSPDTP116X4|
+|Hex ID (short code)|hexID|FZSWSWSPDTP116X4|
 |name|name|SparkFun-Switches : SWITCH_SPDT_PTH_11.6X4.0MM|
 ||||

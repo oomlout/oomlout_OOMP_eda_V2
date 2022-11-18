@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE85XO1831R8O183 > oomlout_OOMP_parts : RESE-0805-X-O183-01-R8O183](#fzkicadoomloutoompkicadoomloutoomppartsrese85xo1831r8o183--oomlout_oomp_parts--rese-0805-x-o183-01-r8o183)
+* [FZOOMPKOOMPPRESE85XO1831R8O183 > oomlout_OOMP_parts : RESE-0805-X-O183-01-R8O183](#fzoompkoompprese85xo1831r8o183--oomlout_oomp_parts--rese-0805-x-o183-01-r8o183)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE85XO1831R8O183 > oomlout_OOMP_parts : RESE-0805-X-O183-01-R8O183
+# FZOOMPKOOMPPRESE85XO1831R8O183 > oomlout_OOMP_parts : RESE-0805-X-O183-01-R8O183
 
 - ID: FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0805-X-O183-01-R8O183
-- Hex ID: FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE85XO1831R8O183
+- Hex ID: FZOOMPKOOMPPRESE85XO1831R8O183
 - Name: oomlout_OOMP_parts : RESE-0805-X-O183-01-R8O183
 - Description: oomlout_OOMP_parts : RESE-0805-X-O183-01-R8O183
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0805-X-O183-01-R8O183](http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0805-X-O183-01-R8O183)
-- Short Link: [http://oom.lt/FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE85XO1831R8O183](http://oom.lt/FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE85XO1831R8O183)
+- Short Link: [http://oom.lt/FZOOMPKOOMPPRESE85XO1831R8O183](http://oom.lt/FZOOMPKOOMPPRESE85XO1831R8O183)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|oomlout_OOMP_parts|
 |OOMP Index|oompIndex|RESE-0805-X-O183-01-R8O183|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0805-X-O183-01-R8O183|
-|Hex ID (short code)|hexID|FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE85XO1831R8O183|
+|Hex ID (short code)|hexID|FZOOMPKOOMPPRESE85XO1831R8O183|
 |name|name|oomlout_OOMP_parts : RESE-0805-X-O183-01-R8O183|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'RESE-0805-X-O183-01-R8O183'</td><td> 'description'</td></tr><tr><td> 'hexID</td></tr><tr><td> R8O183;PARTL C-JLCC;C17506;MANUF C-XXXX;0805W8F1802T5E; Resistor SMD 0805 (2012 Metric)</td><td> square (rectangular) end terminal</td><td> IPC_7351 nominal</td><td> (Body size source</td></tr><tr><td> IPC-SM-782 page 72</td><td> https</td></tr><tr><td>//www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)</td><td> generated with kicad-footprint-generator'</td><td> 'tags'</td></tr><tr><td> 'resistor'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Resistor_SMD.3dshapes/R_0805_2012Metric.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||

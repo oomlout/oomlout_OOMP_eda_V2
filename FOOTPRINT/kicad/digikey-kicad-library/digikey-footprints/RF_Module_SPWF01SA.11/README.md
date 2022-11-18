@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSRFMOSPWF1SA11 > digikey-footprints : RF_Module_SPWF01SA.11](#fzkicaddigikeykicadlibrarydigikeyfootprintsrfmospwf1sa11--digikey-footprints--rf_module_spwf01sa11)
+* [FZDIGIDIGIKEYFOOTPRINTSRFMOSPWF1SA11 > digikey-footprints : RF_Module_SPWF01SA.11](#fzdigidigikeyfootprintsrfmospwf1sa11--digikey-footprints--rf_module_spwf01sa11)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSRFMOSPWF1SA11 > digikey-footprints : RF_Module_SPWF01SA.11
+# FZDIGIDIGIKEYFOOTPRINTSRFMOSPWF1SA11 > digikey-footprints : RF_Module_SPWF01SA.11
 
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-RF_Module_SPWF01SA.11
-- Hex ID: FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSRFMOSPWF1SA11
+- Hex ID: FZDIGIDIGIKEYFOOTPRINTSRFMOSPWF1SA11
 - Name: digikey-footprints : RF_Module_SPWF01SA.11
 - Description: digikey-footprints : RF_Module_SPWF01SA.11
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-RF_Module_SPWF01SA.11](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-RF_Module_SPWF01SA.11)
-- Short Link: [http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSRFMOSPWF1SA11](http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSRFMOSPWF1SA11)
+- Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSRFMOSPWF1SA11](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSRFMOSPWF1SA11)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|digikey-footprints|
 |OOMP Index|oompIndex|RF_Module_SPWF01SA.11|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-RF_Module_SPWF01SA.11|
-|Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSRFMOSPWF1SA11|
+|Hex ID (short code)|hexID|FZDIGIDIGIKEYFOOTPRINTSRFMOSPWF1SA11|
 |name|name|digikey-footprints : RF_Module_SPWF01SA.11|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'RF_Module_SPWF01SA.11'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

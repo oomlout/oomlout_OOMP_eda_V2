@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKCNAUDIOJ635NEUTRIKNRJ4HHHORIZONTAL > Connector_Audio : Jack_6.35mm_Neutrik_NRJ4HH_Horizontal](#fzkcnaudioj635neutriknrj4hhhorizontal--connector_audio--jack_635mm_neutrik_nrj4hh_horizontal)
+* [FZKCNAUDIOJ635NEUTRIKNRJ4HHH > Connector_Audio : Jack_6.35mm_Neutrik_NRJ4HH_Horizontal](#fzkcnaudioj635neutriknrj4hhh--connector_audio--jack_635mm_neutrik_nrj4hh_horizontal)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKCNAUDIOJ635NEUTRIKNRJ4HHHORIZONTAL > Connector_Audio : Jack_6.35mm_Neutrik_NRJ4HH_Horizontal
+# FZKCNAUDIOJ635NEUTRIKNRJ4HHH > Connector_Audio : Jack_6.35mm_Neutrik_NRJ4HH_Horizontal
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_Audio-Jack_6.35mm_Neutrik_NRJ4HH_Horizontal
-- Hex ID: FZKCNAUDIOJ635NEUTRIKNRJ4HHHORIZONTAL
+- Hex ID: FZKCNAUDIOJ635NEUTRIKNRJ4HHH
 - Name: Connector_Audio : Jack_6.35mm_Neutrik_NRJ4HH_Horizontal
 - Description: Connector_Audio : Jack_6.35mm_Neutrik_NRJ4HH_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Audio-Jack_6.35mm_Neutrik_NRJ4HH_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Audio-Jack_6.35mm_Neutrik_NRJ4HH_Horizontal)
-- Short Link: [http://oom.lt/FZKCNAUDIOJ635NEUTRIKNRJ4HHHORIZONTAL](http://oom.lt/FZKCNAUDIOJ635NEUTRIKNRJ4HHHORIZONTAL)
+- Short Link: [http://oom.lt/FZKCNAUDIOJ635NEUTRIKNRJ4HHH](http://oom.lt/FZKCNAUDIOJ635NEUTRIKNRJ4HHH)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Connector_Audio|
 |OOMP Index|oompIndex|Jack_6.35mm_Neutrik_NRJ4HH_Horizontal|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Audio-Jack_6.35mm_Neutrik_NRJ4HH_Horizontal|
-|Hex ID (short code)|hexID|FZKCNAUDIOJ635NEUTRIKNRJ4HHHORIZONTAL|
+|Hex ID (short code)|hexID|FZKCNAUDIOJ635NEUTRIKNRJ4HHH|
 |name|name|Connector_Audio : Jack_6.35mm_Neutrik_NRJ4HH_Horizontal|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Jack_6.35mm_Neutrik_NRJ4HH_Horizontal'</td><td> 'description'</td></tr><tr><td> 'Slim Jacks</td><td> 6.35mm (1/4in) mono jack</td><td> switched</td><td> half threaded nose</td><td> https</td></tr><tr><td>//www.neutrik.com/en/product/nrj4hh'</td><td> 'tags'</td></tr><tr><td> 'neutrik jack slim'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_Audio.3dshapes/Jack_6.35mm_Neutrik_NRJ4HH_Horizontal.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'np_thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||

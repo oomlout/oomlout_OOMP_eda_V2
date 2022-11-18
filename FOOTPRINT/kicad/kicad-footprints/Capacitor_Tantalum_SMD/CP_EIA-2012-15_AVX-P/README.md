@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKCAPACITORTANTALUMSMCPEIA21215AVXP > Capacitor_Tantalum_SMD : CP_EIA-2012-15_AVX-P](#fzkcapacitortantalumsmcpeia21215avxp--capacitor_tantalum_smd--cp_eia-2012-15_avx-p)
+* [FZKCCPEIA21215AVXP > Capacitor_Tantalum_SMD : CP_EIA-2012-15_AVX-P](#fzkccpeia21215avxp--capacitor_tantalum_smd--cp_eia-2012-15_avx-p)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKCAPACITORTANTALUMSMCPEIA21215AVXP > Capacitor_Tantalum_SMD : CP_EIA-2012-15_AVX-P
+# FZKCCPEIA21215AVXP > Capacitor_Tantalum_SMD : CP_EIA-2012-15_AVX-P
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Capacitor_Tantalum_SMD-CP_EIA-2012-15_AVX-P
-- Hex ID: FZKCAPACITORTANTALUMSMCPEIA21215AVXP
+- Hex ID: FZKCCPEIA21215AVXP
 - Name: Capacitor_Tantalum_SMD : CP_EIA-2012-15_AVX-P
 - Description: Capacitor_Tantalum_SMD : CP_EIA-2012-15_AVX-P
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_Tantalum_SMD-CP_EIA-2012-15_AVX-P](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_Tantalum_SMD-CP_EIA-2012-15_AVX-P)
-- Short Link: [http://oom.lt/FZKCAPACITORTANTALUMSMCPEIA21215AVXP](http://oom.lt/FZKCAPACITORTANTALUMSMCPEIA21215AVXP)
+- Short Link: [http://oom.lt/FZKCCPEIA21215AVXP](http://oom.lt/FZKCCPEIA21215AVXP)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Capacitor_Tantalum_SMD|
 |OOMP Index|oompIndex|CP_EIA-2012-15_AVX-P|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Capacitor_Tantalum_SMD-CP_EIA-2012-15_AVX-P|
-|Hex ID (short code)|hexID|FZKCAPACITORTANTALUMSMCPEIA21215AVXP|
+|Hex ID (short code)|hexID|FZKCCPEIA21215AVXP|
 |name|name|Capacitor_Tantalum_SMD : CP_EIA-2012-15_AVX-P|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'CP_EIA-2012-15_AVX-P'</td><td> 'description'</td></tr><tr><td> 'Tantalum Capacitor SMD AVX-P (2012-15 Metric)</td><td> IPC_7351 nominal</td><td> (Body size from</td></tr><tr><td> https</td></tr><tr><td>//www.vishay.com/docs/40182/tmch.pdf)</td><td> generated with kicad-footprint-generator'</td><td> 'tags'</td></tr><tr><td> 'capacitor tantalum'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Capacitor_Tantalum_SMD.3dshapes/CP_EIA-2012-15_AVX-P.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||

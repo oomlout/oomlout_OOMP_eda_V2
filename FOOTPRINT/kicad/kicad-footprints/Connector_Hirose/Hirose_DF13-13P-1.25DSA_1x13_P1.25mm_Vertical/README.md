@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKCNHIROSEHIROSEDF1313P125DSA1X13P125VERTICAL > Connector_Hirose : Hirose_DF13-13P-1.25DSA_1x13_P1.25mm_Vertical](#fzkcnhirosehirosedf1313p125dsa1x13p125vertical--connector_hirose--hirose_df13-13p-125dsa_1x13_p125mm_vertical)
+* [FZKCNHIROSEHIROSEDF1313P125DSA1X13P125F > Connector_Hirose : Hirose_DF13-13P-1.25DSA_1x13_P1.25mm_Vertical](#fzkcnhirosehirosedf1313p125dsa1x13p125f--connector_hirose--hirose_df13-13p-125dsa_1x13_p125mm_vertical)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKCNHIROSEHIROSEDF1313P125DSA1X13P125VERTICAL > Connector_Hirose : Hirose_DF13-13P-1.25DSA_1x13_P1.25mm_Vertical
+# FZKCNHIROSEHIROSEDF1313P125DSA1X13P125F > Connector_Hirose : Hirose_DF13-13P-1.25DSA_1x13_P1.25mm_Vertical
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_Hirose-Hirose_DF13-13P-1.25DSA_1x13_P1.25mm_Vertical
-- Hex ID: FZKCNHIROSEHIROSEDF1313P125DSA1X13P125VERTICAL
+- Hex ID: FZKCNHIROSEHIROSEDF1313P125DSA1X13P125F
 - Name: Connector_Hirose : Hirose_DF13-13P-1.25DSA_1x13_P1.25mm_Vertical
 - Description: Connector_Hirose : Hirose_DF13-13P-1.25DSA_1x13_P1.25mm_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Hirose-Hirose_DF13-13P-1.25DSA_1x13_P1.25mm_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Hirose-Hirose_DF13-13P-1.25DSA_1x13_P1.25mm_Vertical)
-- Short Link: [http://oom.lt/FZKCNHIROSEHIROSEDF1313P125DSA1X13P125VERTICAL](http://oom.lt/FZKCNHIROSEHIROSEDF1313P125DSA1X13P125VERTICAL)
+- Short Link: [http://oom.lt/FZKCNHIROSEHIROSEDF1313P125DSA1X13P125F](http://oom.lt/FZKCNHIROSEHIROSEDF1313P125DSA1X13P125F)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Connector_Hirose|
 |OOMP Index|oompIndex|Hirose_DF13-13P-1.25DSA_1x13_P1.25mm_Vertical|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Hirose-Hirose_DF13-13P-1.25DSA_1x13_P1.25mm_Vertical|
-|Hex ID (short code)|hexID|FZKCNHIROSEHIROSEDF1313P125DSA1X13P125VERTICAL|
+|Hex ID (short code)|hexID|FZKCNHIROSEHIROSEDF1313P125DSA1X13P125F|
 |name|name|Connector_Hirose : Hirose_DF13-13P-1.25DSA_1x13_P1.25mm_Vertical|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Hirose_DF13-13P-1.25DSA_1x13_P1.25mm_Vertical'</td><td> 'description'</td></tr><tr><td> 'Hirose DF13 through hole</td><td> DF13-13P-1.25DSA</td><td> 13 Pins per row (https</td></tr><tr><td>//www.hirose.com/product/en/products/DF13/DF13-2P-1.25DSA%2850%29/)</td><td> generated with kicad-footprint-generator'</td><td> 'tags'</td></tr><tr><td> 'connector Hirose DF13 vertical'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_Hirose.3dshapes/Hirose_DF13-13P-1.25DSA_1x13_P1.25mm_Vertical.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||

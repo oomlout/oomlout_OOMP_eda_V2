@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKCNAUDIOJXLRNEUTRIKNC3MBHHORIZONTAL > Connector_Audio : Jack_XLR_Neutrik_NC3MBH-0_Horizontal](#fzkcnaudiojxlrneutriknc3mbhhorizontal--connector_audio--jack_xlr_neutrik_nc3mbh-0_horizontal)
+* [FZKCNAUDIOJXLRNEUTRIKNC3MBHH > Connector_Audio : Jack_XLR_Neutrik_NC3MBH-0_Horizontal](#fzkcnaudiojxlrneutriknc3mbhh--connector_audio--jack_xlr_neutrik_nc3mbh-0_horizontal)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKCNAUDIOJXLRNEUTRIKNC3MBHHORIZONTAL > Connector_Audio : Jack_XLR_Neutrik_NC3MBH-0_Horizontal
+# FZKCNAUDIOJXLRNEUTRIKNC3MBHH > Connector_Audio : Jack_XLR_Neutrik_NC3MBH-0_Horizontal
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_Audio-Jack_XLR_Neutrik_NC3MBH-0_Horizontal
-- Hex ID: FZKCNAUDIOJXLRNEUTRIKNC3MBHHORIZONTAL
+- Hex ID: FZKCNAUDIOJXLRNEUTRIKNC3MBHH
 - Name: Connector_Audio : Jack_XLR_Neutrik_NC3MBH-0_Horizontal
 - Description: Connector_Audio : Jack_XLR_Neutrik_NC3MBH-0_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Audio-Jack_XLR_Neutrik_NC3MBH-0_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Audio-Jack_XLR_Neutrik_NC3MBH-0_Horizontal)
-- Short Link: [http://oom.lt/FZKCNAUDIOJXLRNEUTRIKNC3MBHHORIZONTAL](http://oom.lt/FZKCNAUDIOJXLRNEUTRIKNC3MBHHORIZONTAL)
+- Short Link: [http://oom.lt/FZKCNAUDIOJXLRNEUTRIKNC3MBHH](http://oom.lt/FZKCNAUDIOJXLRNEUTRIKNC3MBHH)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Connector_Audio|
 |OOMP Index|oompIndex|Jack_XLR_Neutrik_NC3MBH-0_Horizontal|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Audio-Jack_XLR_Neutrik_NC3MBH-0_Horizontal|
-|Hex ID (short code)|hexID|FZKCNAUDIOJXLRNEUTRIKNC3MBHHORIZONTAL|
+|Hex ID (short code)|hexID|FZKCNAUDIOJXLRNEUTRIKNC3MBHH|
 |name|name|Connector_Audio : Jack_XLR_Neutrik_NC3MBH-0_Horizontal|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Jack_XLR_Neutrik_NC3MBH-0_Horizontal'</td><td> 'description'</td></tr><tr><td> 'B Series</td><td> 3 pole male XLR receptacle</td><td> grounding</td></tr><tr><td> ground contact connected to shell ground</td><td> but not to front panel and Pin 1</td><td> steel retention lug</td><td> horizontal PCB mount</td><td> https</td></tr><tr><td>//www.neutrik.com/en/product/nc3mbh-0'</td><td> 'tags'</td></tr><tr><td> 'neutrik xlr b'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_Audio.3dshapes/Jack_XLR_Neutrik_NC3MBH-0_Horizontal.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'np_thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||

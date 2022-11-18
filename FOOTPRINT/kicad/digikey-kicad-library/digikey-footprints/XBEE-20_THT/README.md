@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSXBEE2THT > digikey-footprints : XBEE-20_THT](#fzkicaddigikeykicadlibrarydigikeyfootprintsxbee2tht--digikey-footprints--xbee-20_tht)
+* [FZDIGIDIGIKEYFOOTPRINTSXBEE2THT > digikey-footprints : XBEE-20_THT](#fzdigidigikeyfootprintsxbee2tht--digikey-footprints--xbee-20_tht)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSXBEE2THT > digikey-footprints : XBEE-20_THT
+# FZDIGIDIGIKEYFOOTPRINTSXBEE2THT > digikey-footprints : XBEE-20_THT
 
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-XBEE-20_THT
-- Hex ID: FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSXBEE2THT
+- Hex ID: FZDIGIDIGIKEYFOOTPRINTSXBEE2THT
 - Name: digikey-footprints : XBEE-20_THT
 - Description: digikey-footprints : XBEE-20_THT
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-XBEE-20_THT](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-XBEE-20_THT)
-- Short Link: [http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSXBEE2THT](http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSXBEE2THT)
+- Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSXBEE2THT](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSXBEE2THT)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|digikey-footprints|
 |OOMP Index|oompIndex|XBEE-20_THT|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-XBEE-20_THT|
-|Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSXBEE2THT|
+|Hex ID (short code)|hexID|FZDIGIDIGIKEYFOOTPRINTSXBEE2THT|
 |name|name|digikey-footprints : XBEE-20_THT|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'XBEE-20_THT'</td><td> 'description'</td></tr><tr><td> 'https</td></tr><tr><td>//www.digi.com/pdf/ds_xbeemultipointmodules.pdf'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> None</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||

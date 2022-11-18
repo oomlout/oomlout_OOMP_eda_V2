@@ -5,18 +5,18 @@
 Contents
 ========
 
-* [FZESWITCHOMRONB3F4L5 > switch-omron : B3F_40L5](#fzeswitchomronb3f4l5--switch-omron--b3f_40l5)
+* [FZESWOMRONB3F4L5 > switch-omron : B3F_40L5](#fzeswomronb3f4l5--switch-omron--b3f_40l5)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZESWITCHOMRONB3F4L5 > switch-omron : B3F_40L5
+# FZESWOMRONB3F4L5 > switch-omron : B3F_40L5
 
 - ID: FOOTPRINT-eagle-eagle-default-switch-omron-B3F_40L5
-- Hex ID: FZESWITCHOMRONB3F4L5
+- Hex ID: FZESWOMRONB3F4L5
 - Name: switch-omron : B3F_40L5
 - Description: switch-omron : B3F_40L5
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-omron-B3F_40L5](http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-omron-B3F_40L5)
-- Short Link: [http://oom.lt/FZESWITCHOMRONB3F4L5](http://oom.lt/FZESWITCHOMRONB3F4L5)
+- Short Link: [http://oom.lt/FZESWOMRONB3F4L5](http://oom.lt/FZESWOMRONB3F4L5)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +30,6 @@ NO IMAGES
 |OOMP Description|oompDesc|switch-omron|
 |OOMP Index|oompIndex|B3F_40L5|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-switch-omron-B3F_40L5|
-|Hex ID (short code)|hexID|FZESWITCHOMRONB3F4L5|
+|Hex ID (short code)|hexID|FZESWOMRONB3F4L5|
 |name|name|switch-omron : B3F_40L5|
 ||||

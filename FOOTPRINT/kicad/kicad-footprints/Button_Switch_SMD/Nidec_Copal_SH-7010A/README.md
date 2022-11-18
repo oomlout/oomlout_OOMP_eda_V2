@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKBSWITCHSMNIDECCOPALSH71A > Button_Switch_SMD : Nidec_Copal_SH-7010A](#fzkbswitchsmnideccopalsh71a--button_switch_smd--nidec_copal_sh-7010a)
+* [FZKBNIDECCOPALSH71A > Button_Switch_SMD : Nidec_Copal_SH-7010A](#fzkbnideccopalsh71a--button_switch_smd--nidec_copal_sh-7010a)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKBSWITCHSMNIDECCOPALSH71A > Button_Switch_SMD : Nidec_Copal_SH-7010A
+# FZKBNIDECCOPALSH71A > Button_Switch_SMD : Nidec_Copal_SH-7010A
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-Nidec_Copal_SH-7010A
-- Hex ID: FZKBSWITCHSMNIDECCOPALSH71A
+- Hex ID: FZKBNIDECCOPALSH71A
 - Name: Button_Switch_SMD : Nidec_Copal_SH-7010A
 - Description: Button_Switch_SMD : Nidec_Copal_SH-7010A
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-Nidec_Copal_SH-7010A](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-Nidec_Copal_SH-7010A)
-- Short Link: [http://oom.lt/FZKBSWITCHSMNIDECCOPALSH71A](http://oom.lt/FZKBSWITCHSMNIDECCOPALSH71A)
+- Short Link: [http://oom.lt/FZKBNIDECCOPALSH71A](http://oom.lt/FZKBNIDECCOPALSH71A)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Button_Switch_SMD|
 |OOMP Index|oompIndex|Nidec_Copal_SH-7010A|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-Nidec_Copal_SH-7010A|
-|Hex ID (short code)|hexID|FZKBSWITCHSMNIDECCOPALSH71A|
+|Hex ID (short code)|hexID|FZKBNIDECCOPALSH71A|
 |name|name|Button_Switch_SMD : Nidec_Copal_SH-7010A|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Nidec_Copal_SH-7010A'</td><td> 'description'</td></tr><tr><td> '4-bit rotary coded switch</td><td> J-hook</td><td> https</td></tr><tr><td>//www.nidec-copal-electronics.com/e/catalog/switch/sh-7000.pdf'</td><td> 'tags'</td></tr><tr><td> 'rotary switch bcd'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Button_Switch_SMD.3dshapes/Nidec_Copal_SH-7010A.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

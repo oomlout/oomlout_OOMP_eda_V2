@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSM434X27P18 > digikey-footprints : SMD-4_3.4x2.7mm_P1.8mm](#fzkicaddigikeykicadlibrarydigikeyfootprintssm434x27p18--digikey-footprints--smd-4_34x27mm_p18mm)
+* [FZDIGIDIGIKEYFOOTPRINTSSM434X27P18 > digikey-footprints : SMD-4_3.4x2.7mm_P1.8mm](#fzdigidigikeyfootprintssm434x27p18--digikey-footprints--smd-4_34x27mm_p18mm)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSM434X27P18 > digikey-footprints : SMD-4_3.4x2.7mm_P1.8mm
+# FZDIGIDIGIKEYFOOTPRINTSSM434X27P18 > digikey-footprints : SMD-4_3.4x2.7mm_P1.8mm
 
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SMD-4_3.4x2.7mm_P1.8mm
-- Hex ID: FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSM434X27P18
+- Hex ID: FZDIGIDIGIKEYFOOTPRINTSSM434X27P18
 - Name: digikey-footprints : SMD-4_3.4x2.7mm_P1.8mm
 - Description: digikey-footprints : SMD-4_3.4x2.7mm_P1.8mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SMD-4_3.4x2.7mm_P1.8mm](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SMD-4_3.4x2.7mm_P1.8mm)
-- Short Link: [http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSM434X27P18](http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSM434X27P18)
+- Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSSM434X27P18](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSSM434X27P18)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|digikey-footprints|
 |OOMP Index|oompIndex|SMD-4_3.4x2.7mm_P1.8mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SMD-4_3.4x2.7mm_P1.8mm|
-|Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSM434X27P18|
+|Hex ID (short code)|hexID|FZDIGIDIGIKEYFOOTPRINTSSM434X27P18|
 |name|name|digikey-footprints : SMD-4_3.4x2.7mm_P1.8mm|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'SMD-4_3.4x2.7mm_P1.8mm'</td><td> 'description'</td></tr><tr><td> 'https</td></tr><tr><td>//www.fairchildsemi.com/datasheets/QR/QRE1113.pdf'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

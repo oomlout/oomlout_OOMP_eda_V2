@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSMICCMA4544PFW > digikey-footprints : Mic_CMA-4544PF-W](#fzkicaddigikeykicadlibrarydigikeyfootprintsmiccma4544pfw--digikey-footprints--mic_cma-4544pf-w)
+* [FZDIGIDIGIKEYFOOTPRINTSMICCMA4544PFW > digikey-footprints : Mic_CMA-4544PF-W](#fzdigidigikeyfootprintsmiccma4544pfw--digikey-footprints--mic_cma-4544pf-w)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSMICCMA4544PFW > digikey-footprints : Mic_CMA-4544PF-W
+# FZDIGIDIGIKEYFOOTPRINTSMICCMA4544PFW > digikey-footprints : Mic_CMA-4544PF-W
 
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Mic_CMA-4544PF-W
-- Hex ID: FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSMICCMA4544PFW
+- Hex ID: FZDIGIDIGIKEYFOOTPRINTSMICCMA4544PFW
 - Name: digikey-footprints : Mic_CMA-4544PF-W
 - Description: digikey-footprints : Mic_CMA-4544PF-W
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Mic_CMA-4544PF-W](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Mic_CMA-4544PF-W)
-- Short Link: [http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSMICCMA4544PFW](http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSMICCMA4544PFW)
+- Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSMICCMA4544PFW](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSMICCMA4544PFW)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|digikey-footprints|
 |OOMP Index|oompIndex|Mic_CMA-4544PF-W|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Mic_CMA-4544PF-W|
-|Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSMICCMA4544PFW|
+|Hex ID (short code)|hexID|FZDIGIDIGIKEYFOOTPRINTSMICCMA4544PFW|
 |name|name|digikey-footprints : Mic_CMA-4544PF-W|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Mic_CMA-4544PF-W'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> None</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

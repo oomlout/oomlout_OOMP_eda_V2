@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKPACKAGETOSOTSMSOT893 > Package_TO_SOT_SMD : SOT-89-3](#fzkpackagetosotsmsot893--package_to_sot_smd--sot-89-3)
+* [FZKSOTSOT893 > Package_TO_SOT_SMD : SOT-89-3](#fzksotsot893--package_to_sot_smd--sot-89-3)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKPACKAGETOSOTSMSOT893 > Package_TO_SOT_SMD : SOT-89-3
+# FZKSOTSOT893 > Package_TO_SOT_SMD : SOT-89-3
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-89-3
-- Hex ID: FZKPACKAGETOSOTSMSOT893
+- Hex ID: FZKSOTSOT893
 - Name: Package_TO_SOT_SMD : SOT-89-3
 - Description: Package_TO_SOT_SMD : SOT-89-3
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-89-3](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-89-3)
-- Short Link: [http://oom.lt/FZKPACKAGETOSOTSMSOT893](http://oom.lt/FZKPACKAGETOSOTSMSOT893)
+- Short Link: [http://oom.lt/FZKSOTSOT893](http://oom.lt/FZKSOTSOT893)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Package_TO_SOT_SMD|
 |OOMP Index|oompIndex|SOT-89-3|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-89-3|
-|Hex ID (short code)|hexID|FZKPACKAGETOSOTSMSOT893|
+|Hex ID (short code)|hexID|FZKSOTSOT893|
 |name|name|Package_TO_SOT_SMD : SOT-89-3|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'SOT-89-3'</td><td> 'description'</td></tr><tr><td> 'SOT-89-3</td><td> http</td></tr><tr><td>//ww1.microchip.com/downloads/en/DeviceDoc/3L_SOT-89_MB_C04-029C.pdf'</td><td> 'tags'</td></tr><tr><td> 'SOT-89-3'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_TO_SOT_SMD.3dshapes/SOT-89-3.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSTFS1216W3 > digikey-footprints : TFSOP-12-16_W3.00mm](#fzkicaddigikeykicadlibrarydigikeyfootprintstfs1216w3--digikey-footprints--tfsop-12-16_w300mm)
+* [FZDIGIDIGIKEYFOOTPRINTSTFS1216W3 > digikey-footprints : TFSOP-12-16_W3.00mm](#fzdigidigikeyfootprintstfs1216w3--digikey-footprints--tfsop-12-16_w300mm)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSTFS1216W3 > digikey-footprints : TFSOP-12-16_W3.00mm
+# FZDIGIDIGIKEYFOOTPRINTSTFS1216W3 > digikey-footprints : TFSOP-12-16_W3.00mm
 
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-TFSOP-12-16_W3.00mm
-- Hex ID: FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSTFS1216W3
+- Hex ID: FZDIGIDIGIKEYFOOTPRINTSTFS1216W3
 - Name: digikey-footprints : TFSOP-12-16_W3.00mm
 - Description: digikey-footprints : TFSOP-12-16_W3.00mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-TFSOP-12-16_W3.00mm](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-TFSOP-12-16_W3.00mm)
-- Short Link: [http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSTFS1216W3](http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSTFS1216W3)
+- Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSTFS1216W3](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSTFS1216W3)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|digikey-footprints|
 |OOMP Index|oompIndex|TFSOP-12-16_W3.00mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-TFSOP-12-16_W3.00mm|
-|Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSTFS1216W3|
+|Hex ID (short code)|hexID|FZDIGIDIGIKEYFOOTPRINTSTFS1216W3|
 |name|name|digikey-footprints : TFSOP-12-16_W3.00mm|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'TFSOP-12-16_W3.00mm'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

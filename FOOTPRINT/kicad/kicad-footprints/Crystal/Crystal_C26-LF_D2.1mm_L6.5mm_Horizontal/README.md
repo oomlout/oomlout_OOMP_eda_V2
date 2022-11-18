@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKXXC26LFD21L65HORIZONTAL > Crystal : Crystal_C26-LF_D2.1mm_L6.5mm_Horizontal](#fzkxxc26lfd21l65horizontal--crystal--crystal_c26-lf_d21mm_l65mm_horizontal)
+* [FZKXXC26LFD21L65H > Crystal : Crystal_C26-LF_D2.1mm_L6.5mm_Horizontal](#fzkxxc26lfd21l65h--crystal--crystal_c26-lf_d21mm_l65mm_horizontal)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKXXC26LFD21L65HORIZONTAL > Crystal : Crystal_C26-LF_D2.1mm_L6.5mm_Horizontal
+# FZKXXC26LFD21L65H > Crystal : Crystal_C26-LF_D2.1mm_L6.5mm_Horizontal
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_C26-LF_D2.1mm_L6.5mm_Horizontal
-- Hex ID: FZKXXC26LFD21L65HORIZONTAL
+- Hex ID: FZKXXC26LFD21L65H
 - Name: Crystal : Crystal_C26-LF_D2.1mm_L6.5mm_Horizontal
 - Description: Crystal : Crystal_C26-LF_D2.1mm_L6.5mm_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_C26-LF_D2.1mm_L6.5mm_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_C26-LF_D2.1mm_L6.5mm_Horizontal)
-- Short Link: [http://oom.lt/FZKXXC26LFD21L65HORIZONTAL](http://oom.lt/FZKXXC26LFD21L65HORIZONTAL)
+- Short Link: [http://oom.lt/FZKXXC26LFD21L65H](http://oom.lt/FZKXXC26LFD21L65H)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Crystal|
 |OOMP Index|oompIndex|Crystal_C26-LF_D2.1mm_L6.5mm_Horizontal|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_C26-LF_D2.1mm_L6.5mm_Horizontal|
-|Hex ID (short code)|hexID|FZKXXC26LFD21L65HORIZONTAL|
+|Hex ID (short code)|hexID|FZKXXC26LFD21L65H|
 |name|name|Crystal : Crystal_C26-LF_D2.1mm_L6.5mm_Horizontal|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Crystal_C26-LF_D2.1mm_L6.5mm_Horizontal'</td><td> 'description'</td></tr><tr><td> 'Crystal THT C26-LF 6.5mm length 2.06mm diameter'</td><td> 'tags'</td></tr><tr><td> "['C26-LF']"</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Crystal.3dshapes/Crystal_C26-LF_D2.1mm_L6.5mm_Horizontal.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||

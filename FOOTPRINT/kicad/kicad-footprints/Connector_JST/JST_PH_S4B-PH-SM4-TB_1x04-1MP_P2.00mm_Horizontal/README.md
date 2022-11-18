@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKCNJSTJSTPHS4BPHSM4TB1X41MPP2HORIZONTAL > Connector_JST : JST_PH_S4B-PH-SM4-TB_1x04-1MP_P2.00mm_Horizontal](#fzkcnjstjstphs4bphsm4tb1x41mpp2horizontal--connector_jst--jst_ph_s4b-ph-sm4-tb_1x04-1mp_p200mm_horizontal)
+* [FZKCNJSTJSTPHS4BPHSM4TB1X41MPP2H > Connector_JST : JST_PH_S4B-PH-SM4-TB_1x04-1MP_P2.00mm_Horizontal](#fzkcnjstjstphs4bphsm4tb1x41mpp2h--connector_jst--jst_ph_s4b-ph-sm4-tb_1x04-1mp_p200mm_horizontal)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKCNJSTJSTPHS4BPHSM4TB1X41MPP2HORIZONTAL > Connector_JST : JST_PH_S4B-PH-SM4-TB_1x04-1MP_P2.00mm_Horizontal
+# FZKCNJSTJSTPHS4BPHSM4TB1X41MPP2H > Connector_JST : JST_PH_S4B-PH-SM4-TB_1x04-1MP_P2.00mm_Horizontal
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_PH_S4B-PH-SM4-TB_1x04-1MP_P2.00mm_Horizontal
-- Hex ID: FZKCNJSTJSTPHS4BPHSM4TB1X41MPP2HORIZONTAL
+- Hex ID: FZKCNJSTJSTPHS4BPHSM4TB1X41MPP2H
 - Name: Connector_JST : JST_PH_S4B-PH-SM4-TB_1x04-1MP_P2.00mm_Horizontal
 - Description: Connector_JST : JST_PH_S4B-PH-SM4-TB_1x04-1MP_P2.00mm_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_PH_S4B-PH-SM4-TB_1x04-1MP_P2.00mm_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_PH_S4B-PH-SM4-TB_1x04-1MP_P2.00mm_Horizontal)
-- Short Link: [http://oom.lt/FZKCNJSTJSTPHS4BPHSM4TB1X41MPP2HORIZONTAL](http://oom.lt/FZKCNJSTJSTPHS4BPHSM4TB1X41MPP2HORIZONTAL)
+- Short Link: [http://oom.lt/FZKCNJSTJSTPHS4BPHSM4TB1X41MPP2H](http://oom.lt/FZKCNJSTJSTPHS4BPHSM4TB1X41MPP2H)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Connector_JST|
 |OOMP Index|oompIndex|JST_PH_S4B-PH-SM4-TB_1x04-1MP_P2.00mm_Horizontal|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_PH_S4B-PH-SM4-TB_1x04-1MP_P2.00mm_Horizontal|
-|Hex ID (short code)|hexID|FZKCNJSTJSTPHS4BPHSM4TB1X41MPP2HORIZONTAL|
+|Hex ID (short code)|hexID|FZKCNJSTJSTPHS4BPHSM4TB1X41MPP2H|
 |name|name|Connector_JST : JST_PH_S4B-PH-SM4-TB_1x04-1MP_P2.00mm_Horizontal|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'JST_PH_S4B-PH-SM4-TB_1x04-1MP_P2.00mm_Horizontal'</td><td> 'description'</td></tr><tr><td> 'JST PH series connector</td><td> S4B-PH-SM4-TB (http</td></tr><tr><td>//www.jst-mfg.com/product/pdf/eng/ePH.pdf)</td><td> generated with kicad-footprint-generator'</td><td> 'tags'</td></tr><tr><td> 'connector JST PH top entry'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_JST.3dshapes/JST_PH_S4B-PH-SM4-TB_1x04-1MP_P2.00mm_Horizontal.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||

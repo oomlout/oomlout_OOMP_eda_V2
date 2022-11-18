@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKCNJSTJSTPHB12BPHK1X12P2VERTICAL > Connector_JST : JST_PH_B12B-PH-K_1x12_P2.00mm_Vertical](#fzkcnjstjstphb12bphk1x12p2vertical--connector_jst--jst_ph_b12b-ph-k_1x12_p200mm_vertical)
+* [FZKCNJSTJSTPHB12BPHK1X12P2F > Connector_JST : JST_PH_B12B-PH-K_1x12_P2.00mm_Vertical](#fzkcnjstjstphb12bphk1x12p2f--connector_jst--jst_ph_b12b-ph-k_1x12_p200mm_vertical)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKCNJSTJSTPHB12BPHK1X12P2VERTICAL > Connector_JST : JST_PH_B12B-PH-K_1x12_P2.00mm_Vertical
+# FZKCNJSTJSTPHB12BPHK1X12P2F > Connector_JST : JST_PH_B12B-PH-K_1x12_P2.00mm_Vertical
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_PH_B12B-PH-K_1x12_P2.00mm_Vertical
-- Hex ID: FZKCNJSTJSTPHB12BPHK1X12P2VERTICAL
+- Hex ID: FZKCNJSTJSTPHB12BPHK1X12P2F
 - Name: Connector_JST : JST_PH_B12B-PH-K_1x12_P2.00mm_Vertical
 - Description: Connector_JST : JST_PH_B12B-PH-K_1x12_P2.00mm_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_PH_B12B-PH-K_1x12_P2.00mm_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_PH_B12B-PH-K_1x12_P2.00mm_Vertical)
-- Short Link: [http://oom.lt/FZKCNJSTJSTPHB12BPHK1X12P2VERTICAL](http://oom.lt/FZKCNJSTJSTPHB12BPHK1X12P2VERTICAL)
+- Short Link: [http://oom.lt/FZKCNJSTJSTPHB12BPHK1X12P2F](http://oom.lt/FZKCNJSTJSTPHB12BPHK1X12P2F)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Connector_JST|
 |OOMP Index|oompIndex|JST_PH_B12B-PH-K_1x12_P2.00mm_Vertical|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_PH_B12B-PH-K_1x12_P2.00mm_Vertical|
-|Hex ID (short code)|hexID|FZKCNJSTJSTPHB12BPHK1X12P2VERTICAL|
+|Hex ID (short code)|hexID|FZKCNJSTJSTPHB12BPHK1X12P2F|
 |name|name|Connector_JST : JST_PH_B12B-PH-K_1x12_P2.00mm_Vertical|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'JST_PH_B12B-PH-K_1x12_P2.00mm_Vertical'</td><td> 'description'</td></tr><tr><td> 'JST PH series connector</td><td> B12B-PH-K (http</td></tr><tr><td>//www.jst-mfg.com/product/pdf/eng/ePH.pdf)</td><td> generated with kicad-footprint-generator'</td><td> 'tags'</td></tr><tr><td> 'connector JST PH side entry'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_JST.3dshapes/JST_PH_B12B-PH-K_1x12_P2.00mm_Vertical.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||

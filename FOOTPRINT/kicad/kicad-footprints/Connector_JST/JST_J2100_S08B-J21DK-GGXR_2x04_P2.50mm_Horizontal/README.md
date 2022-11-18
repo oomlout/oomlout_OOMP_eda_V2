@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKCNJSTJSTJ21S8BJ21DKGGXR2X4P25HORIZONTAL > Connector_JST : JST_J2100_S08B-J21DK-GGXR_2x04_P2.50mm_Horizontal](#fzkcnjstjstj21s8bj21dkggxr2x4p25horizontal--connector_jst--jst_j2100_s08b-j21dk-ggxr_2x04_p250mm_horizontal)
+* [FZKCNJSTJSTJ21S8BJ21DKGGXR2X4P25H > Connector_JST : JST_J2100_S08B-J21DK-GGXR_2x04_P2.50mm_Horizontal](#fzkcnjstjstj21s8bj21dkggxr2x4p25h--connector_jst--jst_j2100_s08b-j21dk-ggxr_2x04_p250mm_horizontal)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKCNJSTJSTJ21S8BJ21DKGGXR2X4P25HORIZONTAL > Connector_JST : JST_J2100_S08B-J21DK-GGXR_2x04_P2.50mm_Horizontal
+# FZKCNJSTJSTJ21S8BJ21DKGGXR2X4P25H > Connector_JST : JST_J2100_S08B-J21DK-GGXR_2x04_P2.50mm_Horizontal
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_J2100_S08B-J21DK-GGXR_2x04_P2.50mm_Horizontal
-- Hex ID: FZKCNJSTJSTJ21S8BJ21DKGGXR2X4P25HORIZONTAL
+- Hex ID: FZKCNJSTJSTJ21S8BJ21DKGGXR2X4P25H
 - Name: Connector_JST : JST_J2100_S08B-J21DK-GGXR_2x04_P2.50mm_Horizontal
 - Description: Connector_JST : JST_J2100_S08B-J21DK-GGXR_2x04_P2.50mm_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_J2100_S08B-J21DK-GGXR_2x04_P2.50mm_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_J2100_S08B-J21DK-GGXR_2x04_P2.50mm_Horizontal)
-- Short Link: [http://oom.lt/FZKCNJSTJSTJ21S8BJ21DKGGXR2X4P25HORIZONTAL](http://oom.lt/FZKCNJSTJSTJ21S8BJ21DKGGXR2X4P25HORIZONTAL)
+- Short Link: [http://oom.lt/FZKCNJSTJSTJ21S8BJ21DKGGXR2X4P25H](http://oom.lt/FZKCNJSTJSTJ21S8BJ21DKGGXR2X4P25H)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Connector_JST|
 |OOMP Index|oompIndex|JST_J2100_S08B-J21DK-GGXR_2x04_P2.50mm_Horizontal|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_J2100_S08B-J21DK-GGXR_2x04_P2.50mm_Horizontal|
-|Hex ID (short code)|hexID|FZKCNJSTJSTJ21S8BJ21DKGGXR2X4P25HORIZONTAL|
+|Hex ID (short code)|hexID|FZKCNJSTJSTJ21S8BJ21DKGGXR2X4P25H|
 |name|name|Connector_JST : JST_J2100_S08B-J21DK-GGXR_2x04_P2.50mm_Horizontal|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'JST_J2100_S08B-J21DK-GGXR_2x04_P2.50mm_Horizontal'</td><td> 'description'</td></tr><tr><td> 'JST J2100 series connector</td><td> S08B-J21DK-GGXR (http</td></tr><tr><td>//www.jst-mfg.com/product/pdf/eng/eJFA-J2000.pdf)</td><td> generated with kicad-footprint-generator'</td><td> 'tags'</td></tr><tr><td> 'connector JST J2100 horizontal'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_JST.3dshapes/JST_J2100_S08B-J21DK-GGXR_2x04_P2.50mm_Horizontal.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||

@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSUMBFEMALE69529943 > digikey-footprints : USB_Mini_B_Female_690-005-299-043](#fzkicaddigikeykicadlibrarydigikeyfootprintsumbfemale69529943--digikey-footprints--usb_mini_b_female_690-005-299-043)
+* [FZDIGIDIGIKEYFOOTPRINTSUMBF69529943 > digikey-footprints : USB_Mini_B_Female_690-005-299-043](#fzdigidigikeyfootprintsumbf69529943--digikey-footprints--usb_mini_b_female_690-005-299-043)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSUMBFEMALE69529943 > digikey-footprints : USB_Mini_B_Female_690-005-299-043
+# FZDIGIDIGIKEYFOOTPRINTSUMBF69529943 > digikey-footprints : USB_Mini_B_Female_690-005-299-043
 
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-USB_Mini_B_Female_690-005-299-043
-- Hex ID: FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSUMBFEMALE69529943
+- Hex ID: FZDIGIDIGIKEYFOOTPRINTSUMBF69529943
 - Name: digikey-footprints : USB_Mini_B_Female_690-005-299-043
 - Description: digikey-footprints : USB_Mini_B_Female_690-005-299-043
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-USB_Mini_B_Female_690-005-299-043](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-USB_Mini_B_Female_690-005-299-043)
-- Short Link: [http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSUMBFEMALE69529943](http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSUMBFEMALE69529943)
+- Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSUMBF69529943](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSUMBF69529943)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|digikey-footprints|
 |OOMP Index|oompIndex|USB_Mini_B_Female_690-005-299-043|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-USB_Mini_B_Female_690-005-299-043|
-|Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSUMBFEMALE69529943|
+|Hex ID (short code)|hexID|FZDIGIDIGIKEYFOOTPRINTSUMBF69529943|
 |name|name|digikey-footprints : USB_Mini_B_Female_690-005-299-043|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'USB_Mini_B_Female_690-005-299-043'</td><td> 'description'</td></tr><tr><td> 'http</td></tr><tr><td>//files.edac.net/USB_Mini_B_Female_690-005-299-043.pdf'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

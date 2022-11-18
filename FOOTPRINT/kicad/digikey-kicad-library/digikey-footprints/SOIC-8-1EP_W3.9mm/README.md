@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSOIC81EPW39 > digikey-footprints : SOIC-8-1EP_W3.9mm](#fzkicaddigikeykicadlibrarydigikeyfootprintssoic81epw39--digikey-footprints--soic-8-1ep_w39mm)
+* [FZDIGIDIGIKEYFOOTPRINTSSOIC81EPW39 > digikey-footprints : SOIC-8-1EP_W3.9mm](#fzdigidigikeyfootprintssoic81epw39--digikey-footprints--soic-8-1ep_w39mm)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSOIC81EPW39 > digikey-footprints : SOIC-8-1EP_W3.9mm
+# FZDIGIDIGIKEYFOOTPRINTSSOIC81EPW39 > digikey-footprints : SOIC-8-1EP_W3.9mm
 
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SOIC-8-1EP_W3.9mm
-- Hex ID: FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSOIC81EPW39
+- Hex ID: FZDIGIDIGIKEYFOOTPRINTSSOIC81EPW39
 - Name: digikey-footprints : SOIC-8-1EP_W3.9mm
 - Description: digikey-footprints : SOIC-8-1EP_W3.9mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SOIC-8-1EP_W3.9mm](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SOIC-8-1EP_W3.9mm)
-- Short Link: [http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSOIC81EPW39](http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSOIC81EPW39)
+- Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSSOIC81EPW39](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSSOIC81EPW39)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|digikey-footprints|
 |OOMP Index|oompIndex|SOIC-8-1EP_W3.9mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SOIC-8-1EP_W3.9mm|
-|Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSOIC81EPW39|
+|Hex ID (short code)|hexID|FZDIGIDIGIKEYFOOTPRINTSSOIC81EPW39|
 |name|name|digikey-footprints : SOIC-8-1EP_W3.9mm|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'SOIC-8-1EP_W3.9mm'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

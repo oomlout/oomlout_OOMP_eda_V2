@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICRESE126XO1211R12O121C1799 > oomlout_OOMP_JLCC_Basic : RESE-1206-X-O121-01-R12O121-C17909](#fzkicadoomloutoompkicadoomloutoompjlccbasicrese126xo1211r12o121c1799--oomlout_oomp_jlcc_basic--rese-1206-x-o121-01-r12o121-c17909)
+* [FZOOMPKJLCRESE126XO1211R12O121C1799 > oomlout_OOMP_JLCC_Basic : RESE-1206-X-O121-01-R12O121-C17909](#fzoompkjlcrese126xo1211r12o121c1799--oomlout_oomp_jlcc_basic--rese-1206-x-o121-01-r12o121-c17909)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICRESE126XO1211R12O121C1799 > oomlout_OOMP_JLCC_Basic : RESE-1206-X-O121-01-R12O121-C17909
+# FZOOMPKJLCRESE126XO1211R12O121C1799 > oomlout_OOMP_JLCC_Basic : RESE-1206-X-O121-01-R12O121-C17909
 
 - ID: FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-RESE-1206-X-O121-01-R12O121-C17909
-- Hex ID: FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICRESE126XO1211R12O121C1799
+- Hex ID: FZOOMPKJLCRESE126XO1211R12O121C1799
 - Name: oomlout_OOMP_JLCC_Basic : RESE-1206-X-O121-01-R12O121-C17909
 - Description: oomlout_OOMP_JLCC_Basic : RESE-1206-X-O121-01-R12O121-C17909
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-RESE-1206-X-O121-01-R12O121-C17909](http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-RESE-1206-X-O121-01-R12O121-C17909)
-- Short Link: [http://oom.lt/FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICRESE126XO1211R12O121C1799](http://oom.lt/FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICRESE126XO1211R12O121C1799)
+- Short Link: [http://oom.lt/FZOOMPKJLCRESE126XO1211R12O121C1799](http://oom.lt/FZOOMPKJLCRESE126XO1211R12O121C1799)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|oomlout_OOMP_JLCC_Basic|
 |OOMP Index|oompIndex|RESE-1206-X-O121-01-R12O121-C17909|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-RESE-1206-X-O121-01-R12O121-C17909|
-|Hex ID (short code)|hexID|FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICRESE126XO1211R12O121C1799|
+|Hex ID (short code)|hexID|FZOOMPKJLCRESE126XO1211R12O121C1799|
 |name|name|oomlout_OOMP_JLCC_Basic : RESE-1206-X-O121-01-R12O121-C17909|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'RESE-1206-X-O121-01-R12O121-C17909'</td><td> 'description'</td></tr><tr><td> 'hexID</td></tr><tr><td> R12O121;PARTL C-JLCC;C17909;MANUF C-XXXX;1206W4F1200T5E; Resistor SMD 1206 (3216 Metric)</td><td> square (rectangular) end terminal</td><td> IPC_7351 nominal</td><td> (Body size source</td></tr><tr><td> IPC-SM-782 page 72</td><td> https</td></tr><tr><td>//www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)</td><td> generated with kicad-footprint-generator'</td><td> 'tags'</td></tr><tr><td> 'resistor'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Resistor_SMD.3dshapes/R_1206_3216Metric.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||

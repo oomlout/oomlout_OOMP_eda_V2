@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSUAFEMALEE819911 > digikey-footprints : USB_A_Female_E8199-001-01](#fzkicaddigikeykicadlibrarydigikeyfootprintsuafemalee819911--digikey-footprints--usb_a_female_e8199-001-01)
+* [FZDIGIDIGIKEYFOOTPRINTSUAFE819911 > digikey-footprints : USB_A_Female_E8199-001-01](#fzdigidigikeyfootprintsuafe819911--digikey-footprints--usb_a_female_e8199-001-01)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSUAFEMALEE819911 > digikey-footprints : USB_A_Female_E8199-001-01
+# FZDIGIDIGIKEYFOOTPRINTSUAFE819911 > digikey-footprints : USB_A_Female_E8199-001-01
 
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-USB_A_Female_E8199-001-01
-- Hex ID: FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSUAFEMALEE819911
+- Hex ID: FZDIGIDIGIKEYFOOTPRINTSUAFE819911
 - Name: digikey-footprints : USB_A_Female_E8199-001-01
 - Description: digikey-footprints : USB_A_Female_E8199-001-01
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-USB_A_Female_E8199-001-01](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-USB_A_Female_E8199-001-01)
-- Short Link: [http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSUAFEMALEE819911](http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSUAFEMALEE819911)
+- Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSUAFE819911](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSUAFE819911)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|digikey-footprints|
 |OOMP Index|oompIndex|USB_A_Female_E8199-001-01|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-USB_A_Female_E8199-001-01|
-|Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSUAFEMALEE819911|
+|Hex ID (short code)|hexID|FZDIGIDIGIKEYFOOTPRINTSUAFE819911|
 |name|name|digikey-footprints : USB_A_Female_E8199-001-01|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'USB_A_Female_E8199-001-01'</td><td> 'description'</td></tr><tr><td> 'file</td></tr><tr><td>///C</td></tr><tr><td>/Users/chad_rosencrans/Downloads/USB_A_Female_E8199-001-01.pdf'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> None</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||

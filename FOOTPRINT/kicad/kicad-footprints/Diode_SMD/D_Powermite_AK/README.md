@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKDIODESMDPOWERMITEAK > Diode_SMD : D_Powermite_AK](#fzkdiodesmdpowermiteak--diode_smd--d_powermite_ak)
+* [FZKDDPOWERMITEAK > Diode_SMD : D_Powermite_AK](#fzkddpowermiteak--diode_smd--d_powermite_ak)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKDIODESMDPOWERMITEAK > Diode_SMD : D_Powermite_AK
+# FZKDDPOWERMITEAK > Diode_SMD : D_Powermite_AK
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_Powermite_AK
-- Hex ID: FZKDIODESMDPOWERMITEAK
+- Hex ID: FZKDDPOWERMITEAK
 - Name: Diode_SMD : D_Powermite_AK
 - Description: Diode_SMD : D_Powermite_AK
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_Powermite_AK](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_Powermite_AK)
-- Short Link: [http://oom.lt/FZKDIODESMDPOWERMITEAK](http://oom.lt/FZKDIODESMDPOWERMITEAK)
+- Short Link: [http://oom.lt/FZKDDPOWERMITEAK](http://oom.lt/FZKDDPOWERMITEAK)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Diode_SMD|
 |OOMP Index|oompIndex|D_Powermite_AK|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_Powermite_AK|
-|Hex ID (short code)|hexID|FZKDIODESMDPOWERMITEAK|
+|Hex ID (short code)|hexID|FZKDDPOWERMITEAK|
 |name|name|Diode_SMD : D_Powermite_AK|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'D_Powermite_AK'</td><td> 'description'</td></tr><tr><td> 'Microsemi Powermite SMD power package (https</td></tr><tr><td>//www.microsemi.com/packaging-information/partpackage/details?pid=5339</td><td> https</td></tr><tr><td>//www.onsemi.com/pub/Collateral/457-04.PDF)'</td><td> 'tags'</td></tr><tr><td> 'Powermite'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Diode_SMD.3dshapes/D_Powermite_AK.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

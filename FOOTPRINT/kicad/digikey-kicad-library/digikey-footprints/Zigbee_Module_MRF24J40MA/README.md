@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSZIGBEEMOMRF24J4MA > digikey-footprints : Zigbee_Module_MRF24J40MA](#fzkicaddigikeykicadlibrarydigikeyfootprintszigbeemomrf24j4ma--digikey-footprints--zigbee_module_mrf24j40ma)
+* [FZDIGIDIGIKEYFOOTPRINTSZIGBEEMOMRF24J4MA > digikey-footprints : Zigbee_Module_MRF24J40MA](#fzdigidigikeyfootprintszigbeemomrf24j4ma--digikey-footprints--zigbee_module_mrf24j40ma)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSZIGBEEMOMRF24J4MA > digikey-footprints : Zigbee_Module_MRF24J40MA
+# FZDIGIDIGIKEYFOOTPRINTSZIGBEEMOMRF24J4MA > digikey-footprints : Zigbee_Module_MRF24J40MA
 
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Zigbee_Module_MRF24J40MA
-- Hex ID: FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSZIGBEEMOMRF24J4MA
+- Hex ID: FZDIGIDIGIKEYFOOTPRINTSZIGBEEMOMRF24J4MA
 - Name: digikey-footprints : Zigbee_Module_MRF24J40MA
 - Description: digikey-footprints : Zigbee_Module_MRF24J40MA
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Zigbee_Module_MRF24J40MA](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Zigbee_Module_MRF24J40MA)
-- Short Link: [http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSZIGBEEMOMRF24J4MA](http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSZIGBEEMOMRF24J4MA)
+- Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSZIGBEEMOMRF24J4MA](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSZIGBEEMOMRF24J4MA)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|digikey-footprints|
 |OOMP Index|oompIndex|Zigbee_Module_MRF24J40MA|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Zigbee_Module_MRF24J40MA|
-|Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSZIGBEEMOMRF24J4MA|
+|Hex ID (short code)|hexID|FZDIGIDIGIKEYFOOTPRINTSZIGBEEMOMRF24J4MA|
 |name|name|digikey-footprints : Zigbee_Module_MRF24J40MA|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Zigbee_Module_MRF24J40MA'</td><td> 'description'</td></tr><tr><td> 'http</td></tr><tr><td>//ww1.microchip.com/downloads/en/DeviceDoc/70329b.pdf'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

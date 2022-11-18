@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKPPOTENTIOMETERBOURNSPTA4543SINGLESLIDE > Potentiometer_THT : Potentiometer_Bourns_PTA4543_Single_Slide](#fzkppotentiometerbournspta4543singleslide--potentiometer_tht--potentiometer_bourns_pta4543_single_slide)
+* [FZKPPOTBOURNSPTA4543SINGLESLIDE > Potentiometer_THT : Potentiometer_Bourns_PTA4543_Single_Slide](#fzkppotbournspta4543singleslide--potentiometer_tht--potentiometer_bourns_pta4543_single_slide)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKPPOTENTIOMETERBOURNSPTA4543SINGLESLIDE > Potentiometer_THT : Potentiometer_Bourns_PTA4543_Single_Slide
+# FZKPPOTBOURNSPTA4543SINGLESLIDE > Potentiometer_THT : Potentiometer_Bourns_PTA4543_Single_Slide
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Potentiometer_THT-Potentiometer_Bourns_PTA4543_Single_Slide
-- Hex ID: FZKPPOTENTIOMETERBOURNSPTA4543SINGLESLIDE
+- Hex ID: FZKPPOTBOURNSPTA4543SINGLESLIDE
 - Name: Potentiometer_THT : Potentiometer_Bourns_PTA4543_Single_Slide
 - Description: Potentiometer_THT : Potentiometer_Bourns_PTA4543_Single_Slide
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Potentiometer_THT-Potentiometer_Bourns_PTA4543_Single_Slide](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Potentiometer_THT-Potentiometer_Bourns_PTA4543_Single_Slide)
-- Short Link: [http://oom.lt/FZKPPOTENTIOMETERBOURNSPTA4543SINGLESLIDE](http://oom.lt/FZKPPOTENTIOMETERBOURNSPTA4543SINGLESLIDE)
+- Short Link: [http://oom.lt/FZKPPOTBOURNSPTA4543SINGLESLIDE](http://oom.lt/FZKPPOTBOURNSPTA4543SINGLESLIDE)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Potentiometer_THT|
 |OOMP Index|oompIndex|Potentiometer_Bourns_PTA4543_Single_Slide|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Potentiometer_THT-Potentiometer_Bourns_PTA4543_Single_Slide|
-|Hex ID (short code)|hexID|FZKPPOTENTIOMETERBOURNSPTA4543SINGLESLIDE|
+|Hex ID (short code)|hexID|FZKPPOTBOURNSPTA4543SINGLESLIDE|
 |name|name|Potentiometer_THT : Potentiometer_Bourns_PTA4543_Single_Slide|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Potentiometer_Bourns_PTA4543_Single_Slide'</td><td> 'description'</td></tr><tr><td> 'Bourns single-gang slide potentiometer</td><td> 45.0mm travel</td><td> https</td></tr><tr><td>//www.bourns.com/docs/Product-Datasheets/pta.pdf'</td><td> 'tags'</td></tr><tr><td> 'Bourns single-gang slide potentiometer 45.0mm'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Potentiometer_THT.3dshapes/Potentiometer_Bourns_PTA4543_Single_Slide.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

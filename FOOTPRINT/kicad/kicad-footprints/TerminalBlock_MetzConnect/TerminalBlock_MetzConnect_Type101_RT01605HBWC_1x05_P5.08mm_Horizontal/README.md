@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKTBMETZCONNECTTBMETZCONNECTTYPE11RT165HBWC1X5P58HORIZONTAL > TerminalBlock_MetzConnect : TerminalBlock_MetzConnect_Type101_RT01605HBWC_1x05_P5.08mm_Horizontal](#fzktbmetzconnecttbmetzconnecttype11rt165hbwc1x5p58horizontal--terminalblock_metzconnect--terminalblock_metzconnect_type101_rt01605hbwc_1x05_p508mm_horizontal)
+* [FZKTBMETZCONNECTTBMETZCONNECTTYPE11RT165HBWC1X5P58H > TerminalBlock_MetzConnect : TerminalBlock_MetzConnect_Type101_RT01605HBWC_1x05_P5.08mm_Horizontal](#fzktbmetzconnecttbmetzconnecttype11rt165hbwc1x5p58h--terminalblock_metzconnect--terminalblock_metzconnect_type101_rt01605hbwc_1x05_p508mm_horizontal)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKTBMETZCONNECTTBMETZCONNECTTYPE11RT165HBWC1X5P58HORIZONTAL > TerminalBlock_MetzConnect : TerminalBlock_MetzConnect_Type101_RT01605HBWC_1x05_P5.08mm_Horizontal
+# FZKTBMETZCONNECTTBMETZCONNECTTYPE11RT165HBWC1X5P58H > TerminalBlock_MetzConnect : TerminalBlock_MetzConnect_Type101_RT01605HBWC_1x05_P5.08mm_Horizontal
 
 - ID: FOOTPRINT-kicad-kicad-footprints-TerminalBlock_MetzConnect-TerminalBlock_MetzConnect_Type101_RT01605HBWC_1x05_P5.08mm_Horizontal
-- Hex ID: FZKTBMETZCONNECTTBMETZCONNECTTYPE11RT165HBWC1X5P58HORIZONTAL
+- Hex ID: FZKTBMETZCONNECTTBMETZCONNECTTYPE11RT165HBWC1X5P58H
 - Name: TerminalBlock_MetzConnect : TerminalBlock_MetzConnect_Type101_RT01605HBWC_1x05_P5.08mm_Horizontal
 - Description: TerminalBlock_MetzConnect : TerminalBlock_MetzConnect_Type101_RT01605HBWC_1x05_P5.08mm_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-TerminalBlock_MetzConnect-TerminalBlock_MetzConnect_Type101_RT01605HBWC_1x05_P5.08mm_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-TerminalBlock_MetzConnect-TerminalBlock_MetzConnect_Type101_RT01605HBWC_1x05_P5.08mm_Horizontal)
-- Short Link: [http://oom.lt/FZKTBMETZCONNECTTBMETZCONNECTTYPE11RT165HBWC1X5P58HORIZONTAL](http://oom.lt/FZKTBMETZCONNECTTBMETZCONNECTTYPE11RT165HBWC1X5P58HORIZONTAL)
+- Short Link: [http://oom.lt/FZKTBMETZCONNECTTBMETZCONNECTTYPE11RT165HBWC1X5P58H](http://oom.lt/FZKTBMETZCONNECTTBMETZCONNECTTYPE11RT165HBWC1X5P58H)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|TerminalBlock_MetzConnect|
 |OOMP Index|oompIndex|TerminalBlock_MetzConnect_Type101_RT01605HBWC_1x05_P5.08mm_Horizontal|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-TerminalBlock_MetzConnect-TerminalBlock_MetzConnect_Type101_RT01605HBWC_1x05_P5.08mm_Horizontal|
-|Hex ID (short code)|hexID|FZKTBMETZCONNECTTBMETZCONNECTTYPE11RT165HBWC1X5P58HORIZONTAL|
+|Hex ID (short code)|hexID|FZKTBMETZCONNECTTBMETZCONNECTTYPE11RT165HBWC1X5P58H|
 |name|name|TerminalBlock_MetzConnect : TerminalBlock_MetzConnect_Type101_RT01605HBWC_1x05_P5.08mm_Horizontal|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'TerminalBlock_MetzConnect_Type101_RT01605HBWC_1x05_P5.08mm_Horizontal'</td><td> 'description'</td></tr><tr><td> 'terminal block Metz Connect Type101_RT01605HBWC</td><td> 5 pins</td><td> pitch 5.08mm</td><td> size 25.4x8mm^2</td><td> drill diamater 1.3mm</td><td> pad diameter 2.5mm</td><td> see http</td></tr><tr><td>//www.metz-connect.com/de/system/files/productfiles/Datenblatt_311011_RT016xxHBWC_OFF-022771S.pdf</td><td> script-generated using https</td></tr><tr><td>//github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_MetzConnect'</td><td> 'tags'</td></tr><tr><td> 'THT terminal block Metz Connect Type101_RT01605HBWC pitch 5.08mm size 25.4x8mm^2 drill 1.3mm pad 2.5mm'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/TerminalBlock_MetzConnect.3dshapes/TerminalBlock_MetzConnect_Type101_RT01605HBWC_1x05_P5.08mm_Horizontal.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

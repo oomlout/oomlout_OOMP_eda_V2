@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTS6PLCC35X35 > digikey-footprints : 6-PLCC_3.5x3.5mm](#fzkicaddigikeykicadlibrarydigikeyfootprints6plcc35x35--digikey-footprints--6-plcc_35x35mm)
+* [FZDIGIDIGIKEYFOOTPRINTS6PLCC35X35 > digikey-footprints : 6-PLCC_3.5x3.5mm](#fzdigidigikeyfootprints6plcc35x35--digikey-footprints--6-plcc_35x35mm)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTS6PLCC35X35 > digikey-footprints : 6-PLCC_3.5x3.5mm
+# FZDIGIDIGIKEYFOOTPRINTS6PLCC35X35 > digikey-footprints : 6-PLCC_3.5x3.5mm
 
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-6-PLCC_3.5x3.5mm
-- Hex ID: FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTS6PLCC35X35
+- Hex ID: FZDIGIDIGIKEYFOOTPRINTS6PLCC35X35
 - Name: digikey-footprints : 6-PLCC_3.5x3.5mm
 - Description: digikey-footprints : 6-PLCC_3.5x3.5mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-6-PLCC_3.5x3.5mm](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-6-PLCC_3.5x3.5mm)
-- Short Link: [http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTS6PLCC35X35](http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTS6PLCC35X35)
+- Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTS6PLCC35X35](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTS6PLCC35X35)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|digikey-footprints|
 |OOMP Index|oompIndex|6-PLCC_3.5x3.5mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-6-PLCC_3.5x3.5mm|
-|Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTS6PLCC35X35|
+|Hex ID (short code)|hexID|FZDIGIDIGIKEYFOOTPRINTS6PLCC35X35|
 |name|name|digikey-footprints : 6-PLCC_3.5x3.5mm|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> '6-PLCC_3.5x3.5mm'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

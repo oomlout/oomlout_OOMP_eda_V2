@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKINDUCTORSMLWUERTHWEPD2TYPMS > Inductor_SMD : L_Wuerth_WE-PD2-Typ-MS](#fzkinductorsmlwuerthwepd2typms--inductor_smd--l_wuerth_we-pd2-typ-ms)
+* [FZKINLWUERTHWEPD2TYPMS > Inductor_SMD : L_Wuerth_WE-PD2-Typ-MS](#fzkinlwuerthwepd2typms--inductor_smd--l_wuerth_we-pd2-typ-ms)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKINDUCTORSMLWUERTHWEPD2TYPMS > Inductor_SMD : L_Wuerth_WE-PD2-Typ-MS
+# FZKINLWUERTHWEPD2TYPMS > Inductor_SMD : L_Wuerth_WE-PD2-Typ-MS
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Wuerth_WE-PD2-Typ-MS
-- Hex ID: FZKINDUCTORSMLWUERTHWEPD2TYPMS
+- Hex ID: FZKINLWUERTHWEPD2TYPMS
 - Name: Inductor_SMD : L_Wuerth_WE-PD2-Typ-MS
 - Description: Inductor_SMD : L_Wuerth_WE-PD2-Typ-MS
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Wuerth_WE-PD2-Typ-MS](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Wuerth_WE-PD2-Typ-MS)
-- Short Link: [http://oom.lt/FZKINDUCTORSMLWUERTHWEPD2TYPMS](http://oom.lt/FZKINDUCTORSMLWUERTHWEPD2TYPMS)
+- Short Link: [http://oom.lt/FZKINLWUERTHWEPD2TYPMS](http://oom.lt/FZKINLWUERTHWEPD2TYPMS)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Inductor_SMD|
 |OOMP Index|oompIndex|L_Wuerth_WE-PD2-Typ-MS|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Wuerth_WE-PD2-Typ-MS|
-|Hex ID (short code)|hexID|FZKINDUCTORSMLWUERTHWEPD2TYPMS|
+|Hex ID (short code)|hexID|FZKINLWUERTHWEPD2TYPMS|
 |name|name|Inductor_SMD : L_Wuerth_WE-PD2-Typ-MS|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'L_Wuerth_WE-PD2-Typ-MS'</td><td> 'description'</td></tr><tr><td> 'Power Inductor</td><td> Wuerth Elektronik</td><td> WE-PD2</td><td> SMD</td><td> Typ MS</td><td> https</td></tr><tr><td>//katalog.we-online.com/pbs/datasheet/744774022.pdf'</td><td> 'tags'</td></tr><tr><td> 'Choke Power Inductor WE-PD2 TypMS Wuerth'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Inductor_SMD.3dshapes/L_Wuerth_WE-PD2-Typ-MS.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKLSMLLUMINUSMP33113X3 > LED_SMD : LED_Luminus_MP-3030-1100_3.0x3.0mm](#fzklsmlluminusmp33113x3--led_smd--led_luminus_mp-3030-1100_30x30mm)
+* [FZKLLLUMINUSMP33113X3 > LED_SMD : LED_Luminus_MP-3030-1100_3.0x3.0mm](#fzkllluminusmp33113x3--led_smd--led_luminus_mp-3030-1100_30x30mm)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKLSMLLUMINUSMP33113X3 > LED_SMD : LED_Luminus_MP-3030-1100_3.0x3.0mm
+# FZKLLLUMINUSMP33113X3 > LED_SMD : LED_Luminus_MP-3030-1100_3.0x3.0mm
 
 - ID: FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_Luminus_MP-3030-1100_3.0x3.0mm
-- Hex ID: FZKLSMLLUMINUSMP33113X3
+- Hex ID: FZKLLLUMINUSMP33113X3
 - Name: LED_SMD : LED_Luminus_MP-3030-1100_3.0x3.0mm
 - Description: LED_SMD : LED_Luminus_MP-3030-1100_3.0x3.0mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_Luminus_MP-3030-1100_3.0x3.0mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_Luminus_MP-3030-1100_3.0x3.0mm)
-- Short Link: [http://oom.lt/FZKLSMLLUMINUSMP33113X3](http://oom.lt/FZKLSMLLUMINUSMP33113X3)
+- Short Link: [http://oom.lt/FZKLLLUMINUSMP33113X3](http://oom.lt/FZKLLLUMINUSMP33113X3)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|LED_SMD|
 |OOMP Index|oompIndex|LED_Luminus_MP-3030-1100_3.0x3.0mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_Luminus_MP-3030-1100_3.0x3.0mm|
-|Hex ID (short code)|hexID|FZKLSMLLUMINUSMP33113X3|
+|Hex ID (short code)|hexID|FZKLLLUMINUSMP33113X3|
 |name|name|LED_SMD : LED_Luminus_MP-3030-1100_3.0x3.0mm|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'LED_Luminus_MP-3030-1100_3.0x3.0mm'</td><td> 'description'</td></tr><tr><td> 'Mid Power LED</td><td> Luminus MP-3030-1100</td><td> 3.0x3.0mm</td><td> 816mW</td><td> https</td></tr><tr><td>//download.luminus.com/datasheets/Luminus_MP3030_1100_Datasheet.pdf'</td><td> 'tags'</td></tr><tr><td> 'LED Luminus MP-3030-1100'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/LED_SMD.3dshapes/LED_Luminus_MP-3030-1100_3.0x3.0mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

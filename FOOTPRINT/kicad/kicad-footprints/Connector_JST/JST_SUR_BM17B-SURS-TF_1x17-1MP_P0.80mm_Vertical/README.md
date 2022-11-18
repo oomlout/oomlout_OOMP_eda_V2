@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKCNJSTJSTSURBM17BSURSTF1X171MPP8VERTICAL > Connector_JST : JST_SUR_BM17B-SURS-TF_1x17-1MP_P0.80mm_Vertical](#fzkcnjstjstsurbm17bsurstf1x171mpp8vertical--connector_jst--jst_sur_bm17b-surs-tf_1x17-1mp_p080mm_vertical)
+* [FZKCNJSTJSTSURBM17BSURSTF1X171MPP8F > Connector_JST : JST_SUR_BM17B-SURS-TF_1x17-1MP_P0.80mm_Vertical](#fzkcnjstjstsurbm17bsurstf1x171mpp8f--connector_jst--jst_sur_bm17b-surs-tf_1x17-1mp_p080mm_vertical)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKCNJSTJSTSURBM17BSURSTF1X171MPP8VERTICAL > Connector_JST : JST_SUR_BM17B-SURS-TF_1x17-1MP_P0.80mm_Vertical
+# FZKCNJSTJSTSURBM17BSURSTF1X171MPP8F > Connector_JST : JST_SUR_BM17B-SURS-TF_1x17-1MP_P0.80mm_Vertical
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_SUR_BM17B-SURS-TF_1x17-1MP_P0.80mm_Vertical
-- Hex ID: FZKCNJSTJSTSURBM17BSURSTF1X171MPP8VERTICAL
+- Hex ID: FZKCNJSTJSTSURBM17BSURSTF1X171MPP8F
 - Name: Connector_JST : JST_SUR_BM17B-SURS-TF_1x17-1MP_P0.80mm_Vertical
 - Description: Connector_JST : JST_SUR_BM17B-SURS-TF_1x17-1MP_P0.80mm_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_SUR_BM17B-SURS-TF_1x17-1MP_P0.80mm_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_SUR_BM17B-SURS-TF_1x17-1MP_P0.80mm_Vertical)
-- Short Link: [http://oom.lt/FZKCNJSTJSTSURBM17BSURSTF1X171MPP8VERTICAL](http://oom.lt/FZKCNJSTJSTSURBM17BSURSTF1X171MPP8VERTICAL)
+- Short Link: [http://oom.lt/FZKCNJSTJSTSURBM17BSURSTF1X171MPP8F](http://oom.lt/FZKCNJSTJSTSURBM17BSURSTF1X171MPP8F)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Connector_JST|
 |OOMP Index|oompIndex|JST_SUR_BM17B-SURS-TF_1x17-1MP_P0.80mm_Vertical|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_SUR_BM17B-SURS-TF_1x17-1MP_P0.80mm_Vertical|
-|Hex ID (short code)|hexID|FZKCNJSTJSTSURBM17BSURSTF1X171MPP8VERTICAL|
+|Hex ID (short code)|hexID|FZKCNJSTJSTSURBM17BSURSTF1X171MPP8F|
 |name|name|Connector_JST : JST_SUR_BM17B-SURS-TF_1x17-1MP_P0.80mm_Vertical|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'JST_SUR_BM17B-SURS-TF_1x17-1MP_P0.80mm_Vertical'</td><td> 'description'</td></tr><tr><td> 'JST SUR series connector</td><td> BM17B-SURS-TF (http</td></tr><tr><td>//www.jst-mfg.com/product/pdf/eng/eSUR.pdf)</td><td> generated with kicad-footprint-generator'</td><td> 'tags'</td></tr><tr><td> 'connector JST SUR side entry'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_JST.3dshapes/JST_SUR_BM17B-SURS-TF_1x17-1MP_P0.80mm_Vertical.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||

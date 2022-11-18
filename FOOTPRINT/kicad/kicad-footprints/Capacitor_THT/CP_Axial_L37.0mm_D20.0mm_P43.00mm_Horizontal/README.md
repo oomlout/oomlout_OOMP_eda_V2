@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKCCPAXIALL37D2P43HORIZONTAL > Capacitor_THT : CP_Axial_L37.0mm_D20.0mm_P43.00mm_Horizontal](#fzkccpaxiall37d2p43horizontal--capacitor_tht--cp_axial_l370mm_d200mm_p4300mm_horizontal)
+* [FZKCCPAXIALL37D2P43H > Capacitor_THT : CP_Axial_L37.0mm_D20.0mm_P43.00mm_Horizontal](#fzkccpaxiall37d2p43h--capacitor_tht--cp_axial_l370mm_d200mm_p4300mm_horizontal)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKCCPAXIALL37D2P43HORIZONTAL > Capacitor_THT : CP_Axial_L37.0mm_D20.0mm_P43.00mm_Horizontal
+# FZKCCPAXIALL37D2P43H > Capacitor_THT : CP_Axial_L37.0mm_D20.0mm_P43.00mm_Horizontal
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Capacitor_THT-CP_Axial_L37.0mm_D20.0mm_P43.00mm_Horizontal
-- Hex ID: FZKCCPAXIALL37D2P43HORIZONTAL
+- Hex ID: FZKCCPAXIALL37D2P43H
 - Name: Capacitor_THT : CP_Axial_L37.0mm_D20.0mm_P43.00mm_Horizontal
 - Description: Capacitor_THT : CP_Axial_L37.0mm_D20.0mm_P43.00mm_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_THT-CP_Axial_L37.0mm_D20.0mm_P43.00mm_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_THT-CP_Axial_L37.0mm_D20.0mm_P43.00mm_Horizontal)
-- Short Link: [http://oom.lt/FZKCCPAXIALL37D2P43HORIZONTAL](http://oom.lt/FZKCCPAXIALL37D2P43HORIZONTAL)
+- Short Link: [http://oom.lt/FZKCCPAXIALL37D2P43H](http://oom.lt/FZKCCPAXIALL37D2P43H)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Capacitor_THT|
 |OOMP Index|oompIndex|CP_Axial_L37.0mm_D20.0mm_P43.00mm_Horizontal|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Capacitor_THT-CP_Axial_L37.0mm_D20.0mm_P43.00mm_Horizontal|
-|Hex ID (short code)|hexID|FZKCCPAXIALL37D2P43HORIZONTAL|
+|Hex ID (short code)|hexID|FZKCCPAXIALL37D2P43H|
 |name|name|Capacitor_THT : CP_Axial_L37.0mm_D20.0mm_P43.00mm_Horizontal|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'CP_Axial_L37.0mm_D20.0mm_P43.00mm_Horizontal'</td><td> 'description'</td></tr><tr><td> 'CP</td><td> Axial series</td><td> Axial</td><td> Horizontal</td><td> pin pitch=43mm</td><td> </td><td> length*diameter=37*20mm^2</td><td> Electrolytic Capacitor</td><td> </td><td> http</td></tr><tr><td>//www.kemet.com/Lists/ProductCatalog/Attachments/424/KEM_AC102.pdf'</td><td> 'tags'</td></tr><tr><td> 'CP Axial series Axial Horizontal pin pitch 43mm  length 37mm diameter 20mm Electrolytic Capacitor'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Capacitor_THT.3dshapes/CP_Axial_L37.0mm_D20.0mm_P43.00mm_Horizontal.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

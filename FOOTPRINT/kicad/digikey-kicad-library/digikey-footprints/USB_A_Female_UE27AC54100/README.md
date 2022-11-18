@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSUAFEMALEUE27AC541 > digikey-footprints : USB_A_Female_UE27AC54100](#fzkicaddigikeykicadlibrarydigikeyfootprintsuafemaleue27ac541--digikey-footprints--usb_a_female_ue27ac54100)
+* [FZDIGIDIGIKEYFOOTPRINTSUAFUE27AC541 > digikey-footprints : USB_A_Female_UE27AC54100](#fzdigidigikeyfootprintsuafue27ac541--digikey-footprints--usb_a_female_ue27ac54100)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSUAFEMALEUE27AC541 > digikey-footprints : USB_A_Female_UE27AC54100
+# FZDIGIDIGIKEYFOOTPRINTSUAFUE27AC541 > digikey-footprints : USB_A_Female_UE27AC54100
 
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-USB_A_Female_UE27AC54100
-- Hex ID: FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSUAFEMALEUE27AC541
+- Hex ID: FZDIGIDIGIKEYFOOTPRINTSUAFUE27AC541
 - Name: digikey-footprints : USB_A_Female_UE27AC54100
 - Description: digikey-footprints : USB_A_Female_UE27AC54100
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-USB_A_Female_UE27AC54100](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-USB_A_Female_UE27AC54100)
-- Short Link: [http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSUAFEMALEUE27AC541](http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSUAFEMALEUE27AC541)
+- Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSUAFUE27AC541](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSUAFUE27AC541)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|digikey-footprints|
 |OOMP Index|oompIndex|USB_A_Female_UE27AC54100|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-USB_A_Female_UE27AC54100|
-|Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSUAFEMALEUE27AC541|
+|Hex ID (short code)|hexID|FZDIGIDIGIKEYFOOTPRINTSUAFUE27AC541|
 |name|name|digikey-footprints : USB_A_Female_UE27AC54100|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'USB_A_Female_UE27AC54100'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> None</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||

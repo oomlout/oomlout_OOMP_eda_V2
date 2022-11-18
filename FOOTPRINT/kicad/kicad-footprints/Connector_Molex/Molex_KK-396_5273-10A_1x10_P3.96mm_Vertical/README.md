@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKCNMXMXKK39652731A1X1P396VERTICAL > Connector_Molex : Molex_KK-396_5273-10A_1x10_P3.96mm_Vertical](#fzkcnmxmxkk39652731a1x1p396vertical--connector_molex--molex_kk-396_5273-10a_1x10_p396mm_vertical)
+* [FZKCNMXMXKK39652731A1X1P396F > Connector_Molex : Molex_KK-396_5273-10A_1x10_P3.96mm_Vertical](#fzkcnmxmxkk39652731a1x1p396f--connector_molex--molex_kk-396_5273-10a_1x10_p396mm_vertical)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKCNMXMXKK39652731A1X1P396VERTICAL > Connector_Molex : Molex_KK-396_5273-10A_1x10_P3.96mm_Vertical
+# FZKCNMXMXKK39652731A1X1P396F > Connector_Molex : Molex_KK-396_5273-10A_1x10_P3.96mm_Vertical
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_KK-396_5273-10A_1x10_P3.96mm_Vertical
-- Hex ID: FZKCNMXMXKK39652731A1X1P396VERTICAL
+- Hex ID: FZKCNMXMXKK39652731A1X1P396F
 - Name: Connector_Molex : Molex_KK-396_5273-10A_1x10_P3.96mm_Vertical
 - Description: Connector_Molex : Molex_KK-396_5273-10A_1x10_P3.96mm_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_KK-396_5273-10A_1x10_P3.96mm_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_KK-396_5273-10A_1x10_P3.96mm_Vertical)
-- Short Link: [http://oom.lt/FZKCNMXMXKK39652731A1X1P396VERTICAL](http://oom.lt/FZKCNMXMXKK39652731A1X1P396VERTICAL)
+- Short Link: [http://oom.lt/FZKCNMXMXKK39652731A1X1P396F](http://oom.lt/FZKCNMXMXKK39652731A1X1P396F)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Connector_Molex|
 |OOMP Index|oompIndex|Molex_KK-396_5273-10A_1x10_P3.96mm_Vertical|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_KK-396_5273-10A_1x10_P3.96mm_Vertical|
-|Hex ID (short code)|hexID|FZKCNMXMXKK39652731A1X1P396VERTICAL|
+|Hex ID (short code)|hexID|FZKCNMXMXKK39652731A1X1P396F|
 |name|name|Connector_Molex : Molex_KK-396_5273-10A_1x10_P3.96mm_Vertical|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Molex_KK-396_5273-10A_1x10_P3.96mm_Vertical'</td><td> 'description'</td></tr><tr><td> 'Molex KK 396 Interconnect System</td><td> old/engineering part number</td></tr><tr><td> 5273-10A example for new part number</td></tr><tr><td> 09-65-2108</td><td> 10 Pins (https</td></tr><tr><td>//www.molex.com/pdm_docs/sd/009652028_sd.pdf)</td><td> generated with kicad-footprint-generator'</td><td> 'tags'</td></tr><tr><td> 'connector Molex KK-396 vertical'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_Molex.3dshapes/Molex_KK-396_5273-10A_1x10_P3.96mm_Vertical.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||

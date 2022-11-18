@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSBLUETOOTHMORN42IRM > digikey-footprints : Bluetooth_Module_RN42-I_RM](#fzkicaddigikeykicadlibrarydigikeyfootprintsbluetoothmorn42irm--digikey-footprints--bluetooth_module_rn42-i_rm)
+* [FZDIGIDIGIKEYFOOTPRINTSBLUETOOTHMORN42IRM > digikey-footprints : Bluetooth_Module_RN42-I_RM](#fzdigidigikeyfootprintsbluetoothmorn42irm--digikey-footprints--bluetooth_module_rn42-i_rm)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSBLUETOOTHMORN42IRM > digikey-footprints : Bluetooth_Module_RN42-I_RM
+# FZDIGIDIGIKEYFOOTPRINTSBLUETOOTHMORN42IRM > digikey-footprints : Bluetooth_Module_RN42-I_RM
 
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Bluetooth_Module_RN42-I_RM
-- Hex ID: FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSBLUETOOTHMORN42IRM
+- Hex ID: FZDIGIDIGIKEYFOOTPRINTSBLUETOOTHMORN42IRM
 - Name: digikey-footprints : Bluetooth_Module_RN42-I_RM
 - Description: digikey-footprints : Bluetooth_Module_RN42-I_RM
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Bluetooth_Module_RN42-I_RM](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Bluetooth_Module_RN42-I_RM)
-- Short Link: [http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSBLUETOOTHMORN42IRM](http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSBLUETOOTHMORN42IRM)
+- Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSBLUETOOTHMORN42IRM](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSBLUETOOTHMORN42IRM)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|digikey-footprints|
 |OOMP Index|oompIndex|Bluetooth_Module_RN42-I_RM|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Bluetooth_Module_RN42-I_RM|
-|Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSBLUETOOTHMORN42IRM|
+|Hex ID (short code)|hexID|FZDIGIDIGIKEYFOOTPRINTSBLUETOOTHMORN42IRM|
 |name|name|digikey-footprints : Bluetooth_Module_RN42-I_RM|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Bluetooth_Module_RN42-I_RM'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'oval'</td></tr></table></td></tr></table>|
 ||||

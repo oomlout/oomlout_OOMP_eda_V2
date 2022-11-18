@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKCNRJRJ45WUERTH7498111211HORIZONTAL > Connector_RJ : RJ45_Wuerth_74980111211_Horizontal](#fzkcnrjrj45wuerth7498111211horizontal--connector_rj--rj45_wuerth_74980111211_horizontal)
+* [FZKCNRJRJ45WUERTH7498111211H > Connector_RJ : RJ45_Wuerth_74980111211_Horizontal](#fzkcnrjrj45wuerth7498111211h--connector_rj--rj45_wuerth_74980111211_horizontal)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKCNRJRJ45WUERTH7498111211HORIZONTAL > Connector_RJ : RJ45_Wuerth_74980111211_Horizontal
+# FZKCNRJRJ45WUERTH7498111211H > Connector_RJ : RJ45_Wuerth_74980111211_Horizontal
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_RJ-RJ45_Wuerth_74980111211_Horizontal
-- Hex ID: FZKCNRJRJ45WUERTH7498111211HORIZONTAL
+- Hex ID: FZKCNRJRJ45WUERTH7498111211H
 - Name: Connector_RJ : RJ45_Wuerth_74980111211_Horizontal
 - Description: Connector_RJ : RJ45_Wuerth_74980111211_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_RJ-RJ45_Wuerth_74980111211_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_RJ-RJ45_Wuerth_74980111211_Horizontal)
-- Short Link: [http://oom.lt/FZKCNRJRJ45WUERTH7498111211HORIZONTAL](http://oom.lt/FZKCNRJRJ45WUERTH7498111211HORIZONTAL)
+- Short Link: [http://oom.lt/FZKCNRJRJ45WUERTH7498111211H](http://oom.lt/FZKCNRJRJ45WUERTH7498111211H)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Connector_RJ|
 |OOMP Index|oompIndex|RJ45_Wuerth_74980111211_Horizontal|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_RJ-RJ45_Wuerth_74980111211_Horizontal|
-|Hex ID (short code)|hexID|FZKCNRJRJ45WUERTH7498111211HORIZONTAL|
+|Hex ID (short code)|hexID|FZKCNRJRJ45WUERTH7498111211H|
 |name|name|Connector_RJ : RJ45_Wuerth_74980111211_Horizontal|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'RJ45_Wuerth_74980111211_Horizontal'</td><td> 'description'</td></tr><tr><td> 'RJ45 LAN Transformer 10/100BaseT (https</td></tr><tr><td>//katalog.we-online.de/pbs/datasheet/74980111211.pdf)'</td><td> 'tags'</td></tr><tr><td> 'lan magnetics transformer'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_RJ.3dshapes/RJ45_Wuerth_74980111211_Horizontal.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'np_thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||

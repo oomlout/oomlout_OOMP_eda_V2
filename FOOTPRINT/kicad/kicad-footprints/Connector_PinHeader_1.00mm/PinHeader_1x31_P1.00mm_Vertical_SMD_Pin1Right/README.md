@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKCNPINHEADER1PINHEADER1X31P1VERTICALSMPIN1RIGHT > Connector_PinHeader_1.00mm : PinHeader_1x31_P1.00mm_Vertical_SMD_Pin1Right](#fzkcnpinheader1pinheader1x31p1verticalsmpin1right--connector_pinheader_100mm--pinheader_1x31_p100mm_vertical_smd_pin1right)
+* [FZKCNPINHEADER1PINHEADER1X31P1FSMPIN1RIGHT > Connector_PinHeader_1.00mm : PinHeader_1x31_P1.00mm_Vertical_SMD_Pin1Right](#fzkcnpinheader1pinheader1x31p1fsmpin1right--connector_pinheader_100mm--pinheader_1x31_p100mm_vertical_smd_pin1right)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKCNPINHEADER1PINHEADER1X31P1VERTICALSMPIN1RIGHT > Connector_PinHeader_1.00mm : PinHeader_1x31_P1.00mm_Vertical_SMD_Pin1Right
+# FZKCNPINHEADER1PINHEADER1X31P1FSMPIN1RIGHT > Connector_PinHeader_1.00mm : PinHeader_1x31_P1.00mm_Vertical_SMD_Pin1Right
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_PinHeader_1.00mm-PinHeader_1x31_P1.00mm_Vertical_SMD_Pin1Right
-- Hex ID: FZKCNPINHEADER1PINHEADER1X31P1VERTICALSMPIN1RIGHT
+- Hex ID: FZKCNPINHEADER1PINHEADER1X31P1FSMPIN1RIGHT
 - Name: Connector_PinHeader_1.00mm : PinHeader_1x31_P1.00mm_Vertical_SMD_Pin1Right
 - Description: Connector_PinHeader_1.00mm : PinHeader_1x31_P1.00mm_Vertical_SMD_Pin1Right
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_PinHeader_1.00mm-PinHeader_1x31_P1.00mm_Vertical_SMD_Pin1Right](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_PinHeader_1.00mm-PinHeader_1x31_P1.00mm_Vertical_SMD_Pin1Right)
-- Short Link: [http://oom.lt/FZKCNPINHEADER1PINHEADER1X31P1VERTICALSMPIN1RIGHT](http://oom.lt/FZKCNPINHEADER1PINHEADER1X31P1VERTICALSMPIN1RIGHT)
+- Short Link: [http://oom.lt/FZKCNPINHEADER1PINHEADER1X31P1FSMPIN1RIGHT](http://oom.lt/FZKCNPINHEADER1PINHEADER1X31P1FSMPIN1RIGHT)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Connector_PinHeader_1.00mm|
 |OOMP Index|oompIndex|PinHeader_1x31_P1.00mm_Vertical_SMD_Pin1Right|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_PinHeader_1.00mm-PinHeader_1x31_P1.00mm_Vertical_SMD_Pin1Right|
-|Hex ID (short code)|hexID|FZKCNPINHEADER1PINHEADER1X31P1VERTICALSMPIN1RIGHT|
+|Hex ID (short code)|hexID|FZKCNPINHEADER1PINHEADER1X31P1FSMPIN1RIGHT|
 |name|name|Connector_PinHeader_1.00mm : PinHeader_1x31_P1.00mm_Vertical_SMD_Pin1Right|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'PinHeader_1x31_P1.00mm_Vertical_SMD_Pin1Right'</td><td> 'description'</td></tr><tr><td> 'surface-mounted straight pin header</td><td> 1x31</td><td> 1.00mm pitch</td><td> single row</td><td> style 2 (pin 1 right)'</td><td> 'tags'</td></tr><tr><td> 'Surface mounted pin header SMD 1x31 1.00mm single row style2 pin1 right'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_PinHeader_1.00mm.3dshapes/PinHeader_1x31_P1.00mm_Vertical_SMD_Pin1Right.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

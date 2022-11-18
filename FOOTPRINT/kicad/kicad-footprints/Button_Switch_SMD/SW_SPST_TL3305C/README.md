@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKBSWITCHSMSWSPSTTL335C > Button_Switch_SMD : SW_SPST_TL3305C](#fzkbswitchsmswspsttl335c--button_switch_smd--sw_spst_tl3305c)
+* [FZKBSWSPSTTL335C > Button_Switch_SMD : SW_SPST_TL3305C](#fzkbswspsttl335c--button_switch_smd--sw_spst_tl3305c)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKBSWITCHSMSWSPSTTL335C > Button_Switch_SMD : SW_SPST_TL3305C
+# FZKBSWSPSTTL335C > Button_Switch_SMD : SW_SPST_TL3305C
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-SW_SPST_TL3305C
-- Hex ID: FZKBSWITCHSMSWSPSTTL335C
+- Hex ID: FZKBSWSPSTTL335C
 - Name: Button_Switch_SMD : SW_SPST_TL3305C
 - Description: Button_Switch_SMD : SW_SPST_TL3305C
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-SW_SPST_TL3305C](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-SW_SPST_TL3305C)
-- Short Link: [http://oom.lt/FZKBSWITCHSMSWSPSTTL335C](http://oom.lt/FZKBSWITCHSMSWSPSTTL335C)
+- Short Link: [http://oom.lt/FZKBSWSPSTTL335C](http://oom.lt/FZKBSWSPSTTL335C)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Button_Switch_SMD|
 |OOMP Index|oompIndex|SW_SPST_TL3305C|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-SW_SPST_TL3305C|
-|Hex ID (short code)|hexID|FZKBSWITCHSMSWSPSTTL335C|
+|Hex ID (short code)|hexID|FZKBSWSPSTTL335C|
 |name|name|Button_Switch_SMD : SW_SPST_TL3305C|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'SW_SPST_TL3305C'</td><td> 'description'</td></tr><tr><td> 'https</td></tr><tr><td>//www.e-switch.com/system/asset/product_line/data_sheet/213/TL3305.pdf'</td><td> 'tags'</td></tr><tr><td> 'TL3305 Series Tact Switch'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Button_Switch_SMD.3dshapes/SW_SPST_TL3305C.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

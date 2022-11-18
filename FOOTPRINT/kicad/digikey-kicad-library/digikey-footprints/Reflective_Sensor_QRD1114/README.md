@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSREFLECTIVESENQRD1114 > digikey-footprints : Reflective_Sensor_QRD1114](#fzkicaddigikeykicadlibrarydigikeyfootprintsreflectivesenqrd1114--digikey-footprints--reflective_sensor_qrd1114)
+* [FZDIGIDIGIKEYFOOTPRINTSREFLECTIVESENQRD1114 > digikey-footprints : Reflective_Sensor_QRD1114](#fzdigidigikeyfootprintsreflectivesenqrd1114--digikey-footprints--reflective_sensor_qrd1114)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSREFLECTIVESENQRD1114 > digikey-footprints : Reflective_Sensor_QRD1114
+# FZDIGIDIGIKEYFOOTPRINTSREFLECTIVESENQRD1114 > digikey-footprints : Reflective_Sensor_QRD1114
 
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Reflective_Sensor_QRD1114
-- Hex ID: FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSREFLECTIVESENQRD1114
+- Hex ID: FZDIGIDIGIKEYFOOTPRINTSREFLECTIVESENQRD1114
 - Name: digikey-footprints : Reflective_Sensor_QRD1114
 - Description: digikey-footprints : Reflective_Sensor_QRD1114
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Reflective_Sensor_QRD1114](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Reflective_Sensor_QRD1114)
-- Short Link: [http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSREFLECTIVESENQRD1114](http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSREFLECTIVESENQRD1114)
+- Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSREFLECTIVESENQRD1114](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSREFLECTIVESENQRD1114)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|digikey-footprints|
 |OOMP Index|oompIndex|Reflective_Sensor_QRD1114|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Reflective_Sensor_QRD1114|
-|Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSREFLECTIVESENQRD1114|
+|Hex ID (short code)|hexID|FZDIGIDIGIKEYFOOTPRINTSREFLECTIVESENQRD1114|
 |name|name|digikey-footprints : Reflective_Sensor_QRD1114|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Reflective_Sensor_QRD1114'</td><td> 'description'</td></tr><tr><td> 'https</td></tr><tr><td>//www.fairchildsemi.com/datasheets/QR/QRD1113.pdf'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> None</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||

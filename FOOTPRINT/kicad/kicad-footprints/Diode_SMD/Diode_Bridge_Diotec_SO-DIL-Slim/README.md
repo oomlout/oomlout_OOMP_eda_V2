@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKDIODESMDIODEBRIDGEDIOTECSODILSLIM > Diode_SMD : Diode_Bridge_Diotec_SO-DIL-Slim](#fzkdiodesmdiodebridgediotecsodilslim--diode_smd--diode_bridge_diotec_so-dil-slim)
+* [FZKDDIODEBRIDGEDIOTECSODILSLIM > Diode_SMD : Diode_Bridge_Diotec_SO-DIL-Slim](#fzkddiodebridgediotecsodilslim--diode_smd--diode_bridge_diotec_so-dil-slim)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKDIODESMDIODEBRIDGEDIOTECSODILSLIM > Diode_SMD : Diode_Bridge_Diotec_SO-DIL-Slim
+# FZKDDIODEBRIDGEDIOTECSODILSLIM > Diode_SMD : Diode_Bridge_Diotec_SO-DIL-Slim
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Diode_SMD-Diode_Bridge_Diotec_SO-DIL-Slim
-- Hex ID: FZKDIODESMDIODEBRIDGEDIOTECSODILSLIM
+- Hex ID: FZKDDIODEBRIDGEDIOTECSODILSLIM
 - Name: Diode_SMD : Diode_Bridge_Diotec_SO-DIL-Slim
 - Description: Diode_SMD : Diode_Bridge_Diotec_SO-DIL-Slim
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Diode_SMD-Diode_Bridge_Diotec_SO-DIL-Slim](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Diode_SMD-Diode_Bridge_Diotec_SO-DIL-Slim)
-- Short Link: [http://oom.lt/FZKDIODESMDIODEBRIDGEDIOTECSODILSLIM](http://oom.lt/FZKDIODESMDIODEBRIDGEDIOTECSODILSLIM)
+- Short Link: [http://oom.lt/FZKDDIODEBRIDGEDIOTECSODILSLIM](http://oom.lt/FZKDDIODEBRIDGEDIOTECSODILSLIM)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Diode_SMD|
 |OOMP Index|oompIndex|Diode_Bridge_Diotec_SO-DIL-Slim|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Diode_SMD-Diode_Bridge_Diotec_SO-DIL-Slim|
-|Hex ID (short code)|hexID|FZKDIODESMDIODEBRIDGEDIOTECSODILSLIM|
+|Hex ID (short code)|hexID|FZKDDIODEBRIDGEDIOTECSODILSLIM|
 |name|name|Diode_SMD : Diode_Bridge_Diotec_SO-DIL-Slim|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Diode_Bridge_Diotec_SO-DIL-Slim'</td><td> 'description'</td></tr><tr><td> 'SMD diode bridge Diotec SO-DIL Slim</td><td> see https</td></tr><tr><td>//diotec.com/tl_files/diotec/files/pdf/datasheets/b40fs.pdf'</td><td> 'tags'</td></tr><tr><td> 'DFS SO-DIL Slim'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Diode_SMD.3dshapes/Diode_Bridge_Diotec_SO-DIL-Slim.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

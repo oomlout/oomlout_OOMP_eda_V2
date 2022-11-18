@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKLSMLPLCC2 > LED_SMD : LED_PLCC-2](#fzklsmlplcc2--led_smd--led_plcc-2)
+* [FZKLLPLCC2 > LED_SMD : LED_PLCC-2](#fzkllplcc2--led_smd--led_plcc-2)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKLSMLPLCC2 > LED_SMD : LED_PLCC-2
+# FZKLLPLCC2 > LED_SMD : LED_PLCC-2
 
 - ID: FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_PLCC-2
-- Hex ID: FZKLSMLPLCC2
+- Hex ID: FZKLLPLCC2
 - Name: LED_SMD : LED_PLCC-2
 - Description: LED_SMD : LED_PLCC-2
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_PLCC-2](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_PLCC-2)
-- Short Link: [http://oom.lt/FZKLSMLPLCC2](http://oom.lt/FZKLSMLPLCC2)
+- Short Link: [http://oom.lt/FZKLLPLCC2](http://oom.lt/FZKLLPLCC2)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|LED_SMD|
 |OOMP Index|oompIndex|LED_PLCC-2|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_PLCC-2|
-|Hex ID (short code)|hexID|FZKLSMLPLCC2|
+|Hex ID (short code)|hexID|FZKLLPLCC2|
 |name|name|LED_SMD : LED_PLCC-2|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'LED_PLCC-2'</td><td> 'description'</td></tr><tr><td> 'LED PLCC-2 SMD package'</td><td> 'tags'</td></tr><tr><td> 'LED PLCC-2 SMD'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/LED_SMD.3dshapes/LED_PLCC-2.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [SZKREGULATORSWITCHINGTNY286K > Regulator_Switching : TNY286K](#szkregulatorswitchingtny286k--regulator_switching--tny286k)
+* [SZKREGULATORSWINGTNY286K > Regulator_Switching : TNY286K](#szkregulatorswingtny286k--regulator_switching--tny286k)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# SZKREGULATORSWITCHINGTNY286K > Regulator_Switching : TNY286K
+# SZKREGULATORSWINGTNY286K > Regulator_Switching : TNY286K
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-TNY286K
-- Hex ID: SZKREGULATORSWITCHINGTNY286K
+- Hex ID: SZKREGULATORSWINGTNY286K
 - Name: Regulator_Switching : TNY286K
 - Description: Regulator_Switching : TNY286K
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TNY286K](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TNY286K)
-- Short Link: [http://oom.lt/SZKREGULATORSWITCHINGTNY286K](http://oom.lt/SZKREGULATORSWITCHINGTNY286K)
+- Short Link: [http://oom.lt/SZKREGULATORSWINGTNY286K](http://oom.lt/SZKREGULATORSWINGTNY286K)
 
 ## Images
   
@@ -36,7 +36,7 @@ Contents
 |OOMP Description|oompDesc|Regulator_Switching|
 |OOMP Index|oompIndex|TNY286K|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-TNY286K|
-|Hex ID (short code)|hexID|SZKREGULATORSWITCHINGTNY286K|
+|Hex ID (short code)|hexID|SZKREGULATORSWINGTNY286K|
 |name|name|Regulator_Switching : TNY286K|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'TNY284K'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'TNY286K'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>PowerIntegrations_eSOP-12B'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//ac-dc.power.com/sites/default/files/product-docs/tinyswitch-4_family_datasheet.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Energy-Efficient</td><td> Off-Line Switcher With Line Compensated Overload Power'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'TinySwitch-4 Family</td><td> 15W Output Power</td><td> eSOP-12B'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'PowerIntegrations?eSOP?12B*'</td></tr></table>]|
 ||||

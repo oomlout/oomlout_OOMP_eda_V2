@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKDIODESMDMELFHANDSOLDERING > Diode_SMD : D_MELF_Handsoldering](#fzkdiodesmdmelfhandsoldering--diode_smd--d_melf_handsoldering)
+* [FZKDDMELFHANDSOLDERING > Diode_SMD : D_MELF_Handsoldering](#fzkddmelfhandsoldering--diode_smd--d_melf_handsoldering)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKDIODESMDMELFHANDSOLDERING > Diode_SMD : D_MELF_Handsoldering
+# FZKDDMELFHANDSOLDERING > Diode_SMD : D_MELF_Handsoldering
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_MELF_Handsoldering
-- Hex ID: FZKDIODESMDMELFHANDSOLDERING
+- Hex ID: FZKDDMELFHANDSOLDERING
 - Name: Diode_SMD : D_MELF_Handsoldering
 - Description: Diode_SMD : D_MELF_Handsoldering
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_MELF_Handsoldering](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_MELF_Handsoldering)
-- Short Link: [http://oom.lt/FZKDIODESMDMELFHANDSOLDERING](http://oom.lt/FZKDIODESMDMELFHANDSOLDERING)
+- Short Link: [http://oom.lt/FZKDDMELFHANDSOLDERING](http://oom.lt/FZKDDMELFHANDSOLDERING)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Diode_SMD|
 |OOMP Index|oompIndex|D_MELF_Handsoldering|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_MELF_Handsoldering|
-|Hex ID (short code)|hexID|FZKDIODESMDMELFHANDSOLDERING|
+|Hex ID (short code)|hexID|FZKDDMELFHANDSOLDERING|
 |name|name|Diode_SMD : D_MELF_Handsoldering|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'D_MELF_Handsoldering'</td><td> 'description'</td></tr><tr><td> 'Diode MELF Handsoldering'</td><td> 'tags'</td></tr><tr><td> 'Diode MELF Handsoldering'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Diode_SMD.3dshapes/D_MELF.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

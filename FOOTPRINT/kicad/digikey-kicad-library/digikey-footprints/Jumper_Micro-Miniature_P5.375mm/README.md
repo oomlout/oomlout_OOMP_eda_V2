@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSJMMATUREP5375 > digikey-footprints : Jumper_Micro-Miniature_P5.375mm](#fzkicaddigikeykicadlibrarydigikeyfootprintsjmmaturep5375--digikey-footprints--jumper_micro-miniature_p5375mm)
+* [FZDIGIDIGIKEYFOOTPRINTSJMMATUREP5375 > digikey-footprints : Jumper_Micro-Miniature_P5.375mm](#fzdigidigikeyfootprintsjmmaturep5375--digikey-footprints--jumper_micro-miniature_p5375mm)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSJMMATUREP5375 > digikey-footprints : Jumper_Micro-Miniature_P5.375mm
+# FZDIGIDIGIKEYFOOTPRINTSJMMATUREP5375 > digikey-footprints : Jumper_Micro-Miniature_P5.375mm
 
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Jumper_Micro-Miniature_P5.375mm
-- Hex ID: FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSJMMATUREP5375
+- Hex ID: FZDIGIDIGIKEYFOOTPRINTSJMMATUREP5375
 - Name: digikey-footprints : Jumper_Micro-Miniature_P5.375mm
 - Description: digikey-footprints : Jumper_Micro-Miniature_P5.375mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Jumper_Micro-Miniature_P5.375mm](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Jumper_Micro-Miniature_P5.375mm)
-- Short Link: [http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSJMMATUREP5375](http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSJMMATUREP5375)
+- Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSJMMATUREP5375](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSJMMATUREP5375)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|digikey-footprints|
 |OOMP Index|oompIndex|Jumper_Micro-Miniature_P5.375mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Jumper_Micro-Miniature_P5.375mm|
-|Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSJMMATUREP5375|
+|Hex ID (short code)|hexID|FZDIGIDIGIKEYFOOTPRINTSJMMATUREP5375|
 |name|name|digikey-footprints : Jumper_Micro-Miniature_P5.375mm|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Jumper_Micro-Miniature_P5.375mm'</td><td> 'description'</td></tr><tr><td> 'file</td></tr><tr><td>///C</td></tr><tr><td>/Users/chad_rosencrans/Downloads/5102.pdf'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

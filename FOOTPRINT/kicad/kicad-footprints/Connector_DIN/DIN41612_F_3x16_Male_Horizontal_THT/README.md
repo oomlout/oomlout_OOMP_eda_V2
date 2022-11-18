@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKCNDINDIN41612F3X16MALEHORIZONTALTHT > Connector_DIN : DIN41612_F_3x16_Male_Horizontal_THT](#fzkcndindin41612f3x16malehorizontaltht--connector_din--din41612_f_3x16_male_horizontal_tht)
+* [FZKCNDINDIN41612F3X16MALEHTHT > Connector_DIN : DIN41612_F_3x16_Male_Horizontal_THT](#fzkcndindin41612f3x16malehtht--connector_din--din41612_f_3x16_male_horizontal_tht)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKCNDINDIN41612F3X16MALEHORIZONTALTHT > Connector_DIN : DIN41612_F_3x16_Male_Horizontal_THT
+# FZKCNDINDIN41612F3X16MALEHTHT > Connector_DIN : DIN41612_F_3x16_Male_Horizontal_THT
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_DIN-DIN41612_F_3x16_Male_Horizontal_THT
-- Hex ID: FZKCNDINDIN41612F3X16MALEHORIZONTALTHT
+- Hex ID: FZKCNDINDIN41612F3X16MALEHTHT
 - Name: Connector_DIN : DIN41612_F_3x16_Male_Horizontal_THT
 - Description: Connector_DIN : DIN41612_F_3x16_Male_Horizontal_THT
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_DIN-DIN41612_F_3x16_Male_Horizontal_THT](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_DIN-DIN41612_F_3x16_Male_Horizontal_THT)
-- Short Link: [http://oom.lt/FZKCNDINDIN41612F3X16MALEHORIZONTALTHT](http://oom.lt/FZKCNDINDIN41612F3X16MALEHORIZONTALTHT)
+- Short Link: [http://oom.lt/FZKCNDINDIN41612F3X16MALEHTHT](http://oom.lt/FZKCNDINDIN41612F3X16MALEHTHT)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Connector_DIN|
 |OOMP Index|oompIndex|DIN41612_F_3x16_Male_Horizontal_THT|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_DIN-DIN41612_F_3x16_Male_Horizontal_THT|
-|Hex ID (short code)|hexID|FZKCNDINDIN41612F3X16MALEHORIZONTALTHT|
+|Hex ID (short code)|hexID|FZKCNDINDIN41612F3X16MALEHTHT|
 |name|name|Connector_DIN : DIN41612_F_3x16_Male_Horizontal_THT|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'DIN41612_F_3x16_Male_Horizontal_THT'</td><td> 'description'</td></tr><tr><td> 'DIN41612 connector</td><td> type F</td><td> Horizontal</td><td> 3 rows 32 pins wide</td><td> https</td></tr><tr><td>//www.erni-x-press.com/de/downloads/kataloge/englische_kataloge/erni-din41612-iec60603-2-e.pdf'</td><td> 'tags'</td></tr><tr><td> 'DIN 41612 IEC 60603 F'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_DIN.3dshapes/DIN41612_F_3x16_Male_Horizontal_THT.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'np_thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||

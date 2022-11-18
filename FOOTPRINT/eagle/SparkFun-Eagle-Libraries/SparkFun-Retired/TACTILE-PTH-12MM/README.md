@@ -5,18 +5,18 @@
 Contents
 ========
 
-* [FZSRTTACTILEP12 > SparkFun-Retired : TACTILE-PTH-12MM](#fzsrttactilep12--sparkfun-retired--tactile-pth-12mm)
+* [FZSRTTP12 > SparkFun-Retired : TACTILE-PTH-12MM](#fzsrttp12--sparkfun-retired--tactile-pth-12mm)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZSRTTACTILEP12 > SparkFun-Retired : TACTILE-PTH-12MM
+# FZSRTTP12 > SparkFun-Retired : TACTILE-PTH-12MM
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-TACTILE-PTH-12MM
-- Hex ID: FZSRTTACTILEP12
+- Hex ID: FZSRTTP12
 - Name: SparkFun-Retired : TACTILE-PTH-12MM
 - Description: SparkFun-Retired : TACTILE-PTH-12MM
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-TACTILE-PTH-12MM](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-TACTILE-PTH-12MM)
-- Short Link: [http://oom.lt/FZSRTTACTILEP12](http://oom.lt/FZSRTTACTILEP12)
+- Short Link: [http://oom.lt/FZSRTTP12](http://oom.lt/FZSRTTP12)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +30,6 @@ NO IMAGES
 |OOMP Description|oompDesc|SparkFun-Retired|
 |OOMP Index|oompIndex|TACTILE-PTH-12MM|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-TACTILE-PTH-12MM|
-|Hex ID (short code)|hexID|FZSRTTACTILEP12|
+|Hex ID (short code)|hexID|FZSRTTP12|
 |name|name|SparkFun-Retired : TACTILE-PTH-12MM|
 ||||

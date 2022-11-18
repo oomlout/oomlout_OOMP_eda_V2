@@ -5,18 +5,18 @@
 Contents
 ========
 
-* [FZESWITCHMISCSTKU > switch-misc : STK-U](#fzeswitchmiscstku--switch-misc--stk-u)
+* [FZESWMISCSTKU > switch-misc : STK-U](#fzeswmiscstku--switch-misc--stk-u)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZESWITCHMISCSTKU > switch-misc : STK-U
+# FZESWMISCSTKU > switch-misc : STK-U
 
 - ID: FOOTPRINT-eagle-eagle-default-switch-misc-STK-U
-- Hex ID: FZESWITCHMISCSTKU
+- Hex ID: FZESWMISCSTKU
 - Name: switch-misc : STK-U
 - Description: switch-misc : STK-U
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-misc-STK-U](http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-misc-STK-U)
-- Short Link: [http://oom.lt/FZESWITCHMISCSTKU](http://oom.lt/FZESWITCHMISCSTKU)
+- Short Link: [http://oom.lt/FZESWMISCSTKU](http://oom.lt/FZESWMISCSTKU)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +30,6 @@ NO IMAGES
 |OOMP Description|oompDesc|switch-misc|
 |OOMP Index|oompIndex|STK-U|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-switch-misc-STK-U|
-|Hex ID (short code)|hexID|FZESWITCHMISCSTKU|
+|Hex ID (short code)|hexID|FZESWMISCSTKU|
 |name|name|switch-misc : STK-U|
 ||||

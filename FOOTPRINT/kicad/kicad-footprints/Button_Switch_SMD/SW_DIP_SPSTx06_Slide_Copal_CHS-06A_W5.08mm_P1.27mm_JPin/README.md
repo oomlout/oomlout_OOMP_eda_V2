@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKBSWITCHSMSWDIPSPSTX6SLIDECOPALCHS6AW58P127JPIN > Button_Switch_SMD : SW_DIP_SPSTx06_Slide_Copal_CHS-06A_W5.08mm_P1.27mm_JPin](#fzkbswitchsmswdipspstx6slidecopalchs6aw58p127jpin--button_switch_smd--sw_dip_spstx06_slide_copal_chs-06a_w508mm_p127mm_jpin)
+* [FZKBSWDIPSPSTX6SLIDECOPALCHS6AW58P127JPIN > Button_Switch_SMD : SW_DIP_SPSTx06_Slide_Copal_CHS-06A_W5.08mm_P1.27mm_JPin](#fzkbswdipspstx6slidecopalchs6aw58p127jpin--button_switch_smd--sw_dip_spstx06_slide_copal_chs-06a_w508mm_p127mm_jpin)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKBSWITCHSMSWDIPSPSTX6SLIDECOPALCHS6AW58P127JPIN > Button_Switch_SMD : SW_DIP_SPSTx06_Slide_Copal_CHS-06A_W5.08mm_P1.27mm_JPin
+# FZKBSWDIPSPSTX6SLIDECOPALCHS6AW58P127JPIN > Button_Switch_SMD : SW_DIP_SPSTx06_Slide_Copal_CHS-06A_W5.08mm_P1.27mm_JPin
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-SW_DIP_SPSTx06_Slide_Copal_CHS-06A_W5.08mm_P1.27mm_JPin
-- Hex ID: FZKBSWITCHSMSWDIPSPSTX6SLIDECOPALCHS6AW58P127JPIN
+- Hex ID: FZKBSWDIPSPSTX6SLIDECOPALCHS6AW58P127JPIN
 - Name: Button_Switch_SMD : SW_DIP_SPSTx06_Slide_Copal_CHS-06A_W5.08mm_P1.27mm_JPin
 - Description: Button_Switch_SMD : SW_DIP_SPSTx06_Slide_Copal_CHS-06A_W5.08mm_P1.27mm_JPin
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-SW_DIP_SPSTx06_Slide_Copal_CHS-06A_W5.08mm_P1.27mm_JPin](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-SW_DIP_SPSTx06_Slide_Copal_CHS-06A_W5.08mm_P1.27mm_JPin)
-- Short Link: [http://oom.lt/FZKBSWITCHSMSWDIPSPSTX6SLIDECOPALCHS6AW58P127JPIN](http://oom.lt/FZKBSWITCHSMSWDIPSPSTX6SLIDECOPALCHS6AW58P127JPIN)
+- Short Link: [http://oom.lt/FZKBSWDIPSPSTX6SLIDECOPALCHS6AW58P127JPIN](http://oom.lt/FZKBSWDIPSPSTX6SLIDECOPALCHS6AW58P127JPIN)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Button_Switch_SMD|
 |OOMP Index|oompIndex|SW_DIP_SPSTx06_Slide_Copal_CHS-06A_W5.08mm_P1.27mm_JPin|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-SW_DIP_SPSTx06_Slide_Copal_CHS-06A_W5.08mm_P1.27mm_JPin|
-|Hex ID (short code)|hexID|FZKBSWITCHSMSWDIPSPSTX6SLIDECOPALCHS6AW58P127JPIN|
+|Hex ID (short code)|hexID|FZKBSWDIPSPSTX6SLIDECOPALCHS6AW58P127JPIN|
 |name|name|Button_Switch_SMD : SW_DIP_SPSTx06_Slide_Copal_CHS-06A_W5.08mm_P1.27mm_JPin|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'SW_DIP_SPSTx06_Slide_Copal_CHS-06A_W5.08mm_P1.27mm_JPin'</td><td> 'description'</td></tr><tr><td> 'SMD 6x-dip-switch SPST Copal_CHS-06A</td><td> Slide</td><td> row spacing 5.08 mm (200 mils)</td><td> body size  (see http</td></tr><tr><td>//www.nidec-copal-electronics.com/e/catalog/switch/chs.pdf)</td><td> SMD</td><td> JPin'</td><td> 'tags'</td></tr><tr><td> 'SMD DIP Switch SPST Slide 5.08mm 200mil SMD JPin'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Button_Switch_SMD.3dshapes/SW_DIP_SPSTx06_Slide_Copal_CHS-06A_W5.08mm_P1.27mm_JPin.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

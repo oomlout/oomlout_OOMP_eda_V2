@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSTERMINALBLD13P5 > digikey-footprints : Terminal_Block_D1.3mm_P5mm](#fzkicaddigikeykicadlibrarydigikeyfootprintsterminalbld13p5--digikey-footprints--terminal_block_d13mm_p5mm)
+* [FZDIGIDIGIKEYFOOTPRINTSTERMINALBLD13P5 > digikey-footprints : Terminal_Block_D1.3mm_P5mm](#fzdigidigikeyfootprintsterminalbld13p5--digikey-footprints--terminal_block_d13mm_p5mm)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSTERMINALBLD13P5 > digikey-footprints : Terminal_Block_D1.3mm_P5mm
+# FZDIGIDIGIKEYFOOTPRINTSTERMINALBLD13P5 > digikey-footprints : Terminal_Block_D1.3mm_P5mm
 
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Terminal_Block_D1.3mm_P5mm
-- Hex ID: FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSTERMINALBLD13P5
+- Hex ID: FZDIGIDIGIKEYFOOTPRINTSTERMINALBLD13P5
 - Name: digikey-footprints : Terminal_Block_D1.3mm_P5mm
 - Description: digikey-footprints : Terminal_Block_D1.3mm_P5mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Terminal_Block_D1.3mm_P5mm](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Terminal_Block_D1.3mm_P5mm)
-- Short Link: [http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSTERMINALBLD13P5](http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSTERMINALBLD13P5)
+- Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSTERMINALBLD13P5](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSTERMINALBLD13P5)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|digikey-footprints|
 |OOMP Index|oompIndex|Terminal_Block_D1.3mm_P5mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Terminal_Block_D1.3mm_P5mm|
-|Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSTERMINALBLD13P5|
+|Hex ID (short code)|hexID|FZDIGIDIGIKEYFOOTPRINTSTERMINALBLD13P5|
 |name|name|digikey-footprints : Terminal_Block_D1.3mm_P5mm|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Terminal_Block_D1.3mm_P5mm'</td><td> 'description'</td></tr><tr><td> 'https</td></tr><tr><td>//media.digikey.com/pdf/Data%20Sheets/Phoenix%20Contact%20PDFs/1935161.pdf'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> None</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

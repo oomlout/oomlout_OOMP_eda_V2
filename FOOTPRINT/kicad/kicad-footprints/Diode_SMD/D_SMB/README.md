@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKDIODESMDSMB > Diode_SMD : D_SMB](#fzkdiodesmdsmb--diode_smd--d_smb)
+* [FZKDDSMB > Diode_SMD : D_SMB](#fzkddsmb--diode_smd--d_smb)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKDIODESMDSMB > Diode_SMD : D_SMB
+# FZKDDSMB > Diode_SMD : D_SMB
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_SMB
-- Hex ID: FZKDIODESMDSMB
+- Hex ID: FZKDDSMB
 - Name: Diode_SMD : D_SMB
 - Description: Diode_SMD : D_SMB
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_SMB](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_SMB)
-- Short Link: [http://oom.lt/FZKDIODESMDSMB](http://oom.lt/FZKDIODESMDSMB)
+- Short Link: [http://oom.lt/FZKDDSMB](http://oom.lt/FZKDDSMB)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Diode_SMD|
 |OOMP Index|oompIndex|D_SMB|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_SMB|
-|Hex ID (short code)|hexID|FZKDIODESMDSMB|
+|Hex ID (short code)|hexID|FZKDDSMB|
 |name|name|Diode_SMD : D_SMB|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'D_SMB'</td><td> 'description'</td></tr><tr><td> 'Diode SMB (DO-214AA)'</td><td> 'tags'</td></tr><tr><td> 'Diode SMB (DO-214AA)'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Diode_SMD.3dshapes/D_SMB.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

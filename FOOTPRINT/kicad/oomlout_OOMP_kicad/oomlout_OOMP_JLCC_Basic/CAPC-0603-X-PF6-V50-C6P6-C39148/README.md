@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICCAPC63XPF6V5C6P6C39148 > oomlout_OOMP_JLCC_Basic : CAPC-0603-X-PF6-V50-C6P6-C39148](#fzkicadoomloutoompkicadoomloutoompjlccbasiccapc63xpf6v5c6p6c39148--oomlout_oomp_jlcc_basic--capc-0603-x-pf6-v50-c6p6-c39148)
+* [FZOOMPKJLCCAPC63XPF6V5C6P6C39148 > oomlout_OOMP_JLCC_Basic : CAPC-0603-X-PF6-V50-C6P6-C39148](#fzoompkjlccapc63xpf6v5c6p6c39148--oomlout_oomp_jlcc_basic--capc-0603-x-pf6-v50-c6p6-c39148)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICCAPC63XPF6V5C6P6C39148 > oomlout_OOMP_JLCC_Basic : CAPC-0603-X-PF6-V50-C6P6-C39148
+# FZOOMPKJLCCAPC63XPF6V5C6P6C39148 > oomlout_OOMP_JLCC_Basic : CAPC-0603-X-PF6-V50-C6P6-C39148
 
 - ID: FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0603-X-PF6-V50-C6P6-C39148
-- Hex ID: FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICCAPC63XPF6V5C6P6C39148
+- Hex ID: FZOOMPKJLCCAPC63XPF6V5C6P6C39148
 - Name: oomlout_OOMP_JLCC_Basic : CAPC-0603-X-PF6-V50-C6P6-C39148
 - Description: oomlout_OOMP_JLCC_Basic : CAPC-0603-X-PF6-V50-C6P6-C39148
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0603-X-PF6-V50-C6P6-C39148](http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0603-X-PF6-V50-C6P6-C39148)
-- Short Link: [http://oom.lt/FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICCAPC63XPF6V5C6P6C39148](http://oom.lt/FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICCAPC63XPF6V5C6P6C39148)
+- Short Link: [http://oom.lt/FZOOMPKJLCCAPC63XPF6V5C6P6C39148](http://oom.lt/FZOOMPKJLCCAPC63XPF6V5C6P6C39148)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|oomlout_OOMP_JLCC_Basic|
 |OOMP Index|oompIndex|CAPC-0603-X-PF6-V50-C6P6-C39148|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0603-X-PF6-V50-C6P6-C39148|
-|Hex ID (short code)|hexID|FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICCAPC63XPF6V5C6P6C39148|
+|Hex ID (short code)|hexID|FZOOMPKJLCCAPC63XPF6V5C6P6C39148|
 |name|name|oomlout_OOMP_JLCC_Basic : CAPC-0603-X-PF6-V50-C6P6-C39148|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'CAPC-0603-X-PF6-V50-C6P6-C39148'</td><td> 'description'</td></tr><tr><td> 'hexID</td></tr><tr><td> C6P6;PARTL C-JLCC;C39148;MANUF C-XXXX;CL10C560JB8NNNC; Capacitor SMD 0603 (1608 Metric)</td><td> square (rectangular) end terminal</td><td> IPC_7351 nominal</td><td> (Body size source</td></tr><tr><td> IPC-SM-782 page 76</td><td> https</td></tr><tr><td>//www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)</td><td> generated with kicad-footprint-generator'</td><td> 'tags'</td></tr><tr><td> 'capacitor'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Capacitor_SMD.3dshapes/C_0603_1608Metric.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||

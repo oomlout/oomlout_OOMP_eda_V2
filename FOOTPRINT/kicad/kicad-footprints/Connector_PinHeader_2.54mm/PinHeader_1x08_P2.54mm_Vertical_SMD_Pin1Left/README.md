@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKCNPINHEADER254PINHEADER1X8P254VERTICALSMPIN1LEFT > Connector_PinHeader_2.54mm : PinHeader_1x08_P2.54mm_Vertical_SMD_Pin1Left](#fzkcnpinheader254pinheader1x8p254verticalsmpin1left--connector_pinheader_254mm--pinheader_1x08_p254mm_vertical_smd_pin1left)
+* [FZKCNPINHEADER254PINHEADER1X8P254FSMPIN1LEFT > Connector_PinHeader_2.54mm : PinHeader_1x08_P2.54mm_Vertical_SMD_Pin1Left](#fzkcnpinheader254pinheader1x8p254fsmpin1left--connector_pinheader_254mm--pinheader_1x08_p254mm_vertical_smd_pin1left)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKCNPINHEADER254PINHEADER1X8P254VERTICALSMPIN1LEFT > Connector_PinHeader_2.54mm : PinHeader_1x08_P2.54mm_Vertical_SMD_Pin1Left
+# FZKCNPINHEADER254PINHEADER1X8P254FSMPIN1LEFT > Connector_PinHeader_2.54mm : PinHeader_1x08_P2.54mm_Vertical_SMD_Pin1Left
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_PinHeader_2.54mm-PinHeader_1x08_P2.54mm_Vertical_SMD_Pin1Left
-- Hex ID: FZKCNPINHEADER254PINHEADER1X8P254VERTICALSMPIN1LEFT
+- Hex ID: FZKCNPINHEADER254PINHEADER1X8P254FSMPIN1LEFT
 - Name: Connector_PinHeader_2.54mm : PinHeader_1x08_P2.54mm_Vertical_SMD_Pin1Left
 - Description: Connector_PinHeader_2.54mm : PinHeader_1x08_P2.54mm_Vertical_SMD_Pin1Left
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_PinHeader_2.54mm-PinHeader_1x08_P2.54mm_Vertical_SMD_Pin1Left](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_PinHeader_2.54mm-PinHeader_1x08_P2.54mm_Vertical_SMD_Pin1Left)
-- Short Link: [http://oom.lt/FZKCNPINHEADER254PINHEADER1X8P254VERTICALSMPIN1LEFT](http://oom.lt/FZKCNPINHEADER254PINHEADER1X8P254VERTICALSMPIN1LEFT)
+- Short Link: [http://oom.lt/FZKCNPINHEADER254PINHEADER1X8P254FSMPIN1LEFT](http://oom.lt/FZKCNPINHEADER254PINHEADER1X8P254FSMPIN1LEFT)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Connector_PinHeader_2.54mm|
 |OOMP Index|oompIndex|PinHeader_1x08_P2.54mm_Vertical_SMD_Pin1Left|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_PinHeader_2.54mm-PinHeader_1x08_P2.54mm_Vertical_SMD_Pin1Left|
-|Hex ID (short code)|hexID|FZKCNPINHEADER254PINHEADER1X8P254VERTICALSMPIN1LEFT|
+|Hex ID (short code)|hexID|FZKCNPINHEADER254PINHEADER1X8P254FSMPIN1LEFT|
 |name|name|Connector_PinHeader_2.54mm : PinHeader_1x08_P2.54mm_Vertical_SMD_Pin1Left|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'PinHeader_1x08_P2.54mm_Vertical_SMD_Pin1Left'</td><td> 'description'</td></tr><tr><td> 'surface-mounted straight pin header</td><td> 1x08</td><td> 2.54mm pitch</td><td> single row</td><td> style 1 (pin 1 left)'</td><td> 'tags'</td></tr><tr><td> 'Surface mounted pin header SMD 1x08 2.54mm single row style1 pin1 left'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x08_P2.54mm_Vertical_SMD_Pin1Left.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [FZKCAPACITORSMCPELEC1X126 > Capacitor_SMD : CP_Elec_10x12.6](#fzkcapacitorsmcpelec1x126--capacitor_smd--cp_elec_10x126)
+* [FZKCCPELEC1X126 > Capacitor_SMD : CP_Elec_10x12.6](#fzkccpelec1x126--capacitor_smd--cp_elec_10x126)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKCAPACITORSMCPELEC1X126 > Capacitor_SMD : CP_Elec_10x12.6
+# FZKCCPELEC1X126 > Capacitor_SMD : CP_Elec_10x12.6
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-CP_Elec_10x12.6
-- Hex ID: FZKCAPACITORSMCPELEC1X126
+- Hex ID: FZKCCPELEC1X126
 - Name: Capacitor_SMD : CP_Elec_10x12.6
 - Description: Capacitor_SMD : CP_Elec_10x12.6
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-CP_Elec_10x12.6](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-CP_Elec_10x12.6)
-- Short Link: [http://oom.lt/FZKCAPACITORSMCPELEC1X126](http://oom.lt/FZKCAPACITORSMCPELEC1X126)
+- Short Link: [http://oom.lt/FZKCCPELEC1X126](http://oom.lt/FZKCCPELEC1X126)
 
 ## Images
   
@@ -37,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Capacitor_SMD|
 |OOMP Index|oompIndex|CP_Elec_10x12.6|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-CP_Elec_10x12.6|
-|Hex ID (short code)|hexID|FZKCAPACITORSMCPELEC1X126|
+|Hex ID (short code)|hexID|FZKCCPELEC1X126|
 |name|name|Capacitor_SMD : CP_Elec_10x12.6|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'CP_Elec_10x12.6'</td><td> 'description'</td></tr><tr><td> 'SMD capacitor</td><td> aluminum electrolytic</td><td> Panasonic F12</td><td> 10.0x12.6mm'</td><td> 'tags'</td></tr><tr><td> 'capacitor electrolytic'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Capacitor_SMD.3dshapes/CP_Elec_10x12.6.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||
