@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEREFPACKAGESDIL22 > ref-packages : DIL22](#fzerefpackagesdil22--ref-packages--dil22)
+* [FZEREFPSDIL22 > ref-packages : DIL22](#fzerefpsdil22--ref-packages--dil22)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEREFPACKAGESDIL22 > ref-packages : DIL22
+# FZEREFPSDIL22 > ref-packages : DIL22
 
 - ID: FOOTPRINT-eagle-eagle-default-ref-packages-DIL22
-- Hex ID: FZEREFPACKAGESDIL22
+- Hex ID: FZEREFPSDIL22
 - Name: ref-packages : DIL22
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ref-packages/DIL22/
 - Description: ref-packages : DIL22
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-DIL22](http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-DIL22)
-- Short Link: [http://oom.lt/FZEREFPACKAGESDIL22](http://oom.lt/FZEREFPACKAGESDIL22)
+- Short Link: [http://oom.lt/FZEREFPSDIL22](http://oom.lt/FZEREFPSDIL22)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|ref-packages|
 |OOMP Index|oompIndex|DIL22|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-ref-packages-DIL22|
-|Hex ID (short code)|hexID|FZEREFPACKAGESDIL22|
+|Hex ID (short code)|hexID|FZEREFPSDIL22|
 |name|name|ref-packages : DIL22|
 ||||

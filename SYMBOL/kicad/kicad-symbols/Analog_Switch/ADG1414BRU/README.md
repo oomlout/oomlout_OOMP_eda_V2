@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Analog_Switch-ADG1414BRU
 - Hex ID: SZKANALOGSWADG1414BRU
 - Name: Analog_Switch : ADG1414BRU
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog_Switch/ADG1414BRU/
 - Description: Analog_Switch : ADG1414BRU
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_Switch-ADG1414BRU](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_Switch-ADG1414BRU)
 - Short Link: [http://oom.lt/SZKANALOGSWADG1414BRU](http://oom.lt/SZKANALOGSWADG1414BRU)

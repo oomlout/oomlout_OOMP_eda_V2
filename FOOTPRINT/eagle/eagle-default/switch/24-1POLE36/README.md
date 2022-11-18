@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-switch-24-1POLE36
 - Hex ID: FZESW241POLE36
 - Name: switch : 24-1POLE36
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/switch/24-1POLE36/
 - Description: switch : 24-1POLE36
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-24-1POLE36](http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-24-1POLE36)
 - Short Link: [http://oom.lt/FZESW241POLE36](http://oom.lt/FZESW241POLE36)

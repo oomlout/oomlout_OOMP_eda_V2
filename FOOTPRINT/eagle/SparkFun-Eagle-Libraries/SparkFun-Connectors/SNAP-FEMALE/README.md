@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-SNAP-FEMALE
 - Hex ID: FZSSPARKFUNCNSSNAPF
 - Name: SparkFun-Connectors : SNAP-FEMALE
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Connectors/SNAP-FEMALE/
 - Description: SparkFun-Connectors : SNAP-FEMALE
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-SNAP-FEMALE](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-SNAP-FEMALE)
 - Short Link: [http://oom.lt/FZSSPARKFUNCNSSNAPF](http://oom.lt/FZSSPARKFUNCNSSNAPF)

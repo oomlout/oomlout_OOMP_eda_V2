@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-crystal-HC49U-H
 - Hex ID: FZEXHC49UH
 - Name: crystal : HC49U-H
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/crystal/HC49U-H/
 - Description: crystal : HC49U-H
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-crystal-HC49U-H](http://oom.lt/FOOTPRINT-eagle-eagle-default-crystal-HC49U-H)
 - Short Link: [http://oom.lt/FZEXHC49UH](http://oom.lt/FZEXHC49UH)

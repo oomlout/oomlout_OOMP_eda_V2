@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0805-X-O124-01-R8O124
 - Hex ID: FZOOMPKOOMPPRESE85XO1241R8O124
 - Name: oomlout_OOMP_parts : RESE-0805-X-O124-01-R8O124
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/RESE-0805-X-O124-01-R8O124/
 - Description: oomlout_OOMP_parts : RESE-0805-X-O124-01-R8O124
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0805-X-O124-01-R8O124](http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0805-X-O124-01-R8O124)
 - Short Link: [http://oom.lt/FZOOMPKOOMPPRESE85XO1241R8O124](http://oom.lt/FZOOMPKOOMPPRESE85XO1241R8O124)

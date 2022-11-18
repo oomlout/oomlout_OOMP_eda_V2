@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_ST_STM32L4-STM32L476VCTx
 - Hex ID: SZKMCUSTSTM32L4STM32L476VCTX
 - Name: MCU_ST_STM32L4 : STM32L476VCTx
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32L4/STM32L476VCTx/
 - Description: MCU_ST_STM32L4 : STM32L476VCTx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32L4-STM32L476VCTx](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32L4-STM32L476VCTx)
 - Short Link: [http://oom.lt/SZKMCUSTSTM32L4STM32L476VCTX](http://oom.lt/SZKMCUSTSTM32L4STM32L476VCTX)

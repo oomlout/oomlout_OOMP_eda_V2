@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega4808-X
 - Hex ID: SZKMCUMCHIPATMEGAATMEGA488X
 - Name: MCU_Microchip_ATmega : ATmega4808-X
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_ATmega/ATmega4808-X/
 - Description: MCU_Microchip_ATmega : ATmega4808-X
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega4808-X](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega4808-X)
 - Short Link: [http://oom.lt/SZKMCUMCHIPATMEGAATMEGA488X](http://oom.lt/SZKMCUMCHIPATMEGAATMEGA488X)

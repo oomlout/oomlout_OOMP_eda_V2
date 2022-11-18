@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-rcl-XC27B15
 - Hex ID: FZERCLXC27B15
 - Name: rcl : XC27B15
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/rcl/XC27B15/
 - Description: rcl : XC27B15
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-XC27B15](http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-XC27B15)
 - Short Link: [http://oom.lt/FZERCLXC27B15](http://oom.lt/FZERCLXC27B15)

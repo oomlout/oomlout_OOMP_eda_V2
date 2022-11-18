@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-I01-X-PI06-01-H06
 - Hex ID: SZOOMPKOOMPPHEADI1XPI61H6
 - Name: oomlout_OOMP_parts : HEAD-I01-X-PI06-01-H06
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/HEAD-I01-X-PI06-01-H06/
 - Description: oomlout_OOMP_parts : HEAD-I01-X-PI06-01-H06
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-I01-X-PI06-01-H06](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-I01-X-PI06-01-H06)
 - Short Link: [http://oom.lt/SZOOMPKOOMPPHEADI1XPI61H6](http://oom.lt/SZOOMPKOOMPPHEADI1XPI61H6)

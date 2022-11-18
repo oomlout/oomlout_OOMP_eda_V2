@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-LGA-24_3x3.5mm_LSM9DS1
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSLGA243X35LSM9DS1
 - Name: digikey-footprints : LGA-24_3x3.5mm_LSM9DS1
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/LGA-24_3x3.5mm_LSM9DS1/
 - Description: digikey-footprints : LGA-24_3x3.5mm_LSM9DS1
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-LGA-24_3x3.5mm_LSM9DS1](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-LGA-24_3x3.5mm_LSM9DS1)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSLGA243X35LSM9DS1](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSLGA243X35LSM9DS1)

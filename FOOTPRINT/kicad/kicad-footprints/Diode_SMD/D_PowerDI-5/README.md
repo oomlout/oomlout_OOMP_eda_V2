@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_PowerDI-5
 - Hex ID: FZKDDPOWERDI5
 - Name: Diode_SMD : D_PowerDI-5
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Diode_SMD/D_PowerDI-5/
 - Description: Diode_SMD : D_PowerDI-5
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_PowerDI-5](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_PowerDI-5)
 - Short Link: [http://oom.lt/FZKDDPOWERDI5](http://oom.lt/FZKDDPOWERDI5)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-diode-TO92H
 - Hex ID: FZEDIODETO92H
 - Name: diode : TO92H
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/diode/TO92H/
 - Description: diode : TO92H
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-diode-TO92H](http://oom.lt/FOOTPRINT-eagle-eagle-default-diode-TO92H)
 - Short Link: [http://oom.lt/FZEDIODETO92H](http://oom.lt/FZEDIODETO92H)

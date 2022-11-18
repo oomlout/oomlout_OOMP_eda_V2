@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-SD-CARD
 - Hex ID: FZSRFSDCARD
 - Name: SparkFun-RF : SD-CARD
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-RF/SD-CARD/
 - Description: SparkFun-RF : SD-CARD
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-SD-CARD](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-SD-CARD)
 - Short Link: [http://oom.lt/FZSRFSDCARD](http://oom.lt/FZSRFSDCARD)

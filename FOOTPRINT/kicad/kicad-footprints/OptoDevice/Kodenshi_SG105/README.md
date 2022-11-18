@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-OptoDevice-Kodenshi_SG105
 - Hex ID: FZKOPKODENSHISG15
 - Name: OptoDevice : Kodenshi_SG105
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/OptoDevice/Kodenshi_SG105/
 - Description: OptoDevice : Kodenshi_SG105
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-OptoDevice-Kodenshi_SG105](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-OptoDevice-Kodenshi_SG105)
 - Short Link: [http://oom.lt/FZKOPKODENSHISG15](http://oom.lt/FZKOPKODENSHISG15)

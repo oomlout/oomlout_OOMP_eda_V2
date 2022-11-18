@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-analog-devices-SO8
 - Hex ID: FZEANALOGDEVICESSO8
 - Name: analog-devices : SO8
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/analog-devices/SO8/
 - Description: analog-devices : SO8
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-analog-devices-SO8](http://oom.lt/FOOTPRINT-eagle-eagle-default-analog-devices-SO8)
 - Short Link: [http://oom.lt/FZEANALOGDEVICESSO8](http://oom.lt/FZEANALOGDEVICESSO8)

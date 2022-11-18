@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-atmel-MLF20-4X4
 - Hex ID: FZEATMELMLF24X4
 - Name: atmel : MLF20-4X4
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/atmel/MLF20-4X4/
 - Description: atmel : MLF20-4X4
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-atmel-MLF20-4X4](http://oom.lt/FOOTPRINT-eagle-eagle-default-atmel-MLF20-4X4)
 - Short Link: [http://oom.lt/FZEATMELMLF24X4](http://oom.lt/FZEATMELMLF24X4)

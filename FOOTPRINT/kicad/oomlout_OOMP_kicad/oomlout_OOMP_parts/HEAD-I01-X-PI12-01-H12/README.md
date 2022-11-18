@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-I01-X-PI12-01-H12
 - Hex ID: FZOOMPKOOMPPHEADI1XPI121H12
 - Name: oomlout_OOMP_parts : HEAD-I01-X-PI12-01-H12
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/HEAD-I01-X-PI12-01-H12/
 - Description: oomlout_OOMP_parts : HEAD-I01-X-PI12-01-H12
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-I01-X-PI12-01-H12](http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-I01-X-PI12-01-H12)
 - Short Link: [http://oom.lt/FZOOMPKOOMPPHEADI1XPI121H12](http://oom.lt/FZOOMPKOOMPPHEADI1XPI121H12)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0603-X-UF10-V25-C6U10-C96446
 - Hex ID: FZOOMPKJLCCAPC63XUF1V25C6U1C96446
 - Name: oomlout_OOMP_JLCC_Basic : CAPC-0603-X-UF10-V25-C6U10-C96446
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_JLCC_Basic/CAPC-0603-X-UF10-V25-C6U10-C96446/
 - Description: oomlout_OOMP_JLCC_Basic : CAPC-0603-X-UF10-V25-C6U10-C96446
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0603-X-UF10-V25-C6U10-C96446](http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0603-X-UF10-V25-C6U10-C96446)
 - Short Link: [http://oom.lt/FZOOMPKJLCCAPC63XUF1V25C6U1C96446](http://oom.lt/FZOOMPKJLCCAPC63XUF1V25C6U1C96446)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0603-X-NF30-V25-C6N30-C1615
 - Hex ID: FZOOMPKJLCCAPC63XNF3V25C6N3C1615
 - Name: oomlout_OOMP_JLCC_Basic : CAPC-0603-X-NF30-V25-C6N30-C1615
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_JLCC_Basic/CAPC-0603-X-NF30-V25-C6N30-C1615/
 - Description: oomlout_OOMP_JLCC_Basic : CAPC-0603-X-NF30-V25-C6N30-C1615
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0603-X-NF30-V25-C6N30-C1615](http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0603-X-NF30-V25-C6N30-C1615)
 - Short Link: [http://oom.lt/FZOOMPKJLCCAPC63XNF3V25C6N3C1615](http://oom.lt/FZOOMPKJLCCAPC63XNF3V25C6N3C1615)

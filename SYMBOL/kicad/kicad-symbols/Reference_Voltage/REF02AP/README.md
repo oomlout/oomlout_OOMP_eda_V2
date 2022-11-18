@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Reference_Voltage-REF02AP
 - Hex ID: SZKREFERENCEVOLTAGEREF2AP
 - Name: Reference_Voltage : REF02AP
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Reference_Voltage/REF02AP/
 - Description: Reference_Voltage : REF02AP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Voltage-REF02AP](http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Voltage-REF02AP)
 - Short Link: [http://oom.lt/SZKREFERENCEVOLTAGEREF2AP](http://oom.lt/SZKREFERENCEVOLTAGEREF2AP)

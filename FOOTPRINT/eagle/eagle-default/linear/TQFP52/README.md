@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-linear-TQFP52
 - Hex ID: FZELINEARTQFP52
 - Name: linear : TQFP52
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/linear/TQFP52/
 - Description: linear : TQFP52
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-linear-TQFP52](http://oom.lt/FOOTPRINT-eagle-eagle-default-linear-TQFP52)
 - Short Link: [http://oom.lt/FZELINEARTQFP52](http://oom.lt/FZELINEARTQFP52)

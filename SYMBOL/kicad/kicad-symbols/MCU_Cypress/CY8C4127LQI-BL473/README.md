@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Cypress-CY8C4127LQI-BL473
 - Hex ID: SZKMCUCYPRESSCY8C4127LQIBL473
 - Name: MCU_Cypress : CY8C4127LQI-BL473
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Cypress/CY8C4127LQI-BL473/
 - Description: MCU_Cypress : CY8C4127LQI-BL473
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Cypress-CY8C4127LQI-BL473](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Cypress-CY8C4127LQI-BL473)
 - Short Link: [http://oom.lt/SZKMCUCYPRESSCY8C4127LQIBL473](http://oom.lt/SZKMCUCYPRESSCY8C4127LQIBL473)

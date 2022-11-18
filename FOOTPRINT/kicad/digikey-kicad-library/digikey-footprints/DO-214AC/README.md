@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-DO-214AC
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSDO214AC
 - Name: digikey-footprints : DO-214AC
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/DO-214AC/
 - Description: digikey-footprints : DO-214AC
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-DO-214AC](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-DO-214AC)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSDO214AC](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSDO214AC)

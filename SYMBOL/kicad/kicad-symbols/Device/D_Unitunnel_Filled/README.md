@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Device-D_Unitunnel_Filled
 - Hex ID: SZKDEVICEDUNITUNNELFILL
 - Name: Device : D_Unitunnel_Filled
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/D_Unitunnel_Filled/
 - Description: Device : D_Unitunnel_Filled
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-D_Unitunnel_Filled](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-D_Unitunnel_Filled)
 - Short Link: [http://oom.lt/SZKDEVICEDUNITUNNELFILL](http://oom.lt/SZKDEVICEDUNITUNNELFILL)

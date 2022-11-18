@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Buzzard-MOSI_I
 - Hex ID: FZSBUMOSII
 - Name: SparkFun-Buzzard : MOSI_I
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Buzzard/MOSI_I/
 - Description: SparkFun-Buzzard : MOSI_I
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Buzzard-MOSI_I](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Buzzard-MOSI_I)
 - Short Link: [http://oom.lt/FZSBUMOSII](http://oom.lt/FZSBUMOSII)

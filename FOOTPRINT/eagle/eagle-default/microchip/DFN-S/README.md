@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-microchip-DFN-S
 - Hex ID: FZEMCHIPDFNS
 - Name: microchip : DFN-S
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/microchip/DFN-S/
 - Description: microchip : DFN-S
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-microchip-DFN-S](http://oom.lt/FOOTPRINT-eagle-eagle-default-microchip-DFN-S)
 - Short Link: [http://oom.lt/FZEMCHIPDFNS](http://oom.lt/FZEMCHIPDFNS)

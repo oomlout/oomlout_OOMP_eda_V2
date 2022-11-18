@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_SO-Texas_R-PDSO-N5
 - Hex ID: FZKSOTEXASRPDSON5
 - Name: Package_SO : Texas_R-PDSO-N5
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SO/Texas_R-PDSO-N5/
 - Description: Package_SO : Texas_R-PDSO-N5
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SO-Texas_R-PDSO-N5](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SO-Texas_R-PDSO-N5)
 - Short Link: [http://oom.lt/FZKSOTEXASRPDSON5](http://oom.lt/FZKSOTEXASRPDSON5)

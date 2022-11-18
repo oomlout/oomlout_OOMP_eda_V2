@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-RESE-0603-X-O330-01-R6O330-C23140
 - Hex ID: SZOOMPKJLCRESE63XO331R6O33C2314
 - Name: oomlout_OOMP_JLCC_Basic : RESE-0603-X-O330-01-R6O330-C23140
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_JLCC_Basic/RESE-0603-X-O330-01-R6O330-C23140/
 - Description: oomlout_OOMP_JLCC_Basic : RESE-0603-X-O330-01-R6O330-C23140
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-RESE-0603-X-O330-01-R6O330-C23140](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-RESE-0603-X-O330-01-R6O330-C23140)
 - Short Link: [http://oom.lt/SZOOMPKJLCRESE63XO331R6O33C2314](http://oom.lt/SZOOMPKJLCRESE63XO331R6O33C2314)

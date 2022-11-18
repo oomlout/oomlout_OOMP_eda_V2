@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Switches-SWITCH_DPDT_PTH_GPI-152-3013
 - Hex ID: FZSWSWDPDTPGPI152313
 - Name: SparkFun-Switches : SWITCH_DPDT_PTH_GPI-152-3013
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Switches/SWITCH_DPDT_PTH_GPI-152-3013/
 - Description: SparkFun-Switches : SWITCH_DPDT_PTH_GPI-152-3013
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Switches-SWITCH_DPDT_PTH_GPI-152-3013](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Switches-SWITCH_DPDT_PTH_GPI-152-3013)
 - Short Link: [http://oom.lt/FZSWSWDPDTPGPI152313](http://oom.lt/FZSWSWDPDTPGPI152313)

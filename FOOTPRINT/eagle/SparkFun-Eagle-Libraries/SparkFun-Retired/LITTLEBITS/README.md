@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-LITTLEBITS
 - Hex ID: FZSRTLITTLEBITS
 - Name: SparkFun-Retired : LITTLEBITS
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Retired/LITTLEBITS/
 - Description: SparkFun-Retired : LITTLEBITS
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-LITTLEBITS](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-LITTLEBITS)
 - Short Link: [http://oom.lt/FZSRTLITTLEBITS](http://oom.lt/FZSRTLITTLEBITS)

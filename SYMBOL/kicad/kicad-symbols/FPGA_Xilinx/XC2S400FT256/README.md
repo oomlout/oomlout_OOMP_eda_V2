@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-FPGA_Xilinx-XC2S400FT256
 - Hex ID: SZKFPGAXILINXXC2S4FT256
 - Name: FPGA_Xilinx : XC2S400FT256
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/FPGA_Xilinx/XC2S400FT256/
 - Description: FPGA_Xilinx : XC2S400FT256
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-FPGA_Xilinx-XC2S400FT256](http://oom.lt/SYMBOL-kicad-kicad-symbols-FPGA_Xilinx-XC2S400FT256)
 - Short Link: [http://oom.lt/SZKFPGAXILINXXC2S4FT256](http://oom.lt/SZKFPGAXILINXXC2S4FT256)

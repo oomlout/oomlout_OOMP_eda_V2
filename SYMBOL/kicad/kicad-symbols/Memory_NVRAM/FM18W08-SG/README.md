@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Memory_NVRAM-FM18W08-SG
 - Hex ID: SZKMEMORYNVRAMFM18W8SG
 - Name: Memory_NVRAM : FM18W08-SG
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Memory_NVRAM/FM18W08-SG/
 - Description: Memory_NVRAM : FM18W08-SG
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_NVRAM-FM18W08-SG](http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_NVRAM-FM18W08-SG)
 - Short Link: [http://oom.lt/SZKMEMORYNVRAMFM18W8SG](http://oom.lt/SZKMEMORYNVRAMFM18W8SG)

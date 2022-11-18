@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-resistor-power-RWM6X22
 - Hex ID: FZERESISTORPOWERRWM6X22
 - Name: resistor-power : RWM6X22
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/resistor-power/RWM6X22/
 - Description: resistor-power : RWM6X22
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-resistor-power-RWM6X22](http://oom.lt/FOOTPRINT-eagle-eagle-default-resistor-power-RWM6X22)
 - Short Link: [http://oom.lt/FZERESISTORPOWERRWM6X22](http://oom.lt/FZERESISTORPOWERRWM6X22)

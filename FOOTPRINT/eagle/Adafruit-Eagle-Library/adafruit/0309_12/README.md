@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-0309_12
 - Hex ID: FZA3912
 - Name: adafruit : 0309_12
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/0309_12/
 - Description: adafruit : 0309_12
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-0309_12](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-0309_12)
 - Short Link: [http://oom.lt/FZA3912](http://oom.lt/FZA3912)

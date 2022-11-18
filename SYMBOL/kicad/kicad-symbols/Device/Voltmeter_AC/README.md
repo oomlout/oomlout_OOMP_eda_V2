@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Device-Voltmeter_AC
 - Hex ID: SZKDEVICEVOLTMETERAC
 - Name: Device : Voltmeter_AC
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/Voltmeter_AC/
 - Description: Device : Voltmeter_AC
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Voltmeter_AC](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Voltmeter_AC)
 - Short Link: [http://oom.lt/SZKDEVICEVOLTMETERAC](http://oom.lt/SZKDEVICEVOLTMETERAC)

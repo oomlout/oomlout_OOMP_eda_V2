@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-TSV911RILT
 - Hex ID: SZKAMPLIFIEROPERATIONALTSV911RILT
 - Name: Amplifier_Operational : TSV911RILT
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/TSV911RILT/
 - Description: Amplifier_Operational : TSV911RILT
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-TSV911RILT](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-TSV911RILT)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALTSV911RILT](http://oom.lt/SZKAMPLIFIEROPERATIONALTSV911RILT)

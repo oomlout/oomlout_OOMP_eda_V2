@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-telefunken-SOD106A
 - Hex ID: FZETELEFUNKENSOD16A
 - Name: telefunken : SOD106A
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/telefunken/SOD106A/
 - Description: telefunken : SOD106A
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-telefunken-SOD106A](http://oom.lt/FOOTPRINT-eagle-eagle-default-telefunken-SOD106A)
 - Short Link: [http://oom.lt/FZETELEFUNKENSOD16A](http://oom.lt/FZETELEFUNKENSOD16A)

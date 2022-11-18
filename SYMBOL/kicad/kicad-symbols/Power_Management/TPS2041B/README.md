@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Power_Management-TPS2041B
 - Hex ID: SZKPOWERMANAGEMENTTPS241B
 - Name: Power_Management : TPS2041B
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Power_Management/TPS2041B/
 - Description: Power_Management : TPS2041B
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-TPS2041B](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-TPS2041B)
 - Short Link: [http://oom.lt/SZKPOWERMANAGEMENTTPS241B](http://oom.lt/SZKPOWERMANAGEMENTTPS241B)

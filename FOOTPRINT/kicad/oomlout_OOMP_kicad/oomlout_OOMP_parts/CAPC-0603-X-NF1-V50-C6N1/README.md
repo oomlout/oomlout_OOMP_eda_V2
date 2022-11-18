@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0603-X-NF1-V50-C6N1
 - Hex ID: FZOOMPKOOMPPCAPC63XNF1V5C6N1
 - Name: oomlout_OOMP_parts : CAPC-0603-X-NF1-V50-C6N1
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/CAPC-0603-X-NF1-V50-C6N1/
 - Description: oomlout_OOMP_parts : CAPC-0603-X-NF1-V50-C6N1
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0603-X-NF1-V50-C6N1](http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0603-X-NF1-V50-C6N1)
 - Short Link: [http://oom.lt/FZOOMPKOOMPPCAPC63XNF1V5C6N1](http://oom.lt/FZOOMPKOOMPPCAPC63XNF1V5C6N1)

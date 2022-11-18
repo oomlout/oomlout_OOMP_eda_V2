@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Driver_FET-PM8834
 - Hex ID: SZKDRIVERFETPM8834
 - Name: Driver_FET : PM8834
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Driver_FET/PM8834/
 - Description: Driver_FET : PM8834
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-PM8834](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-PM8834)
 - Short Link: [http://oom.lt/SZKDRIVERFETPM8834](http://oom.lt/SZKDRIVERFETPM8834)

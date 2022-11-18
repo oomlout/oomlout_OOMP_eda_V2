@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Isolator-TLP131
 - Hex ID: SZKISOLATORTLP131
 - Name: Isolator : TLP131
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Isolator/TLP131/
 - Description: Isolator : TLP131
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-TLP131](http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-TLP131)
 - Short Link: [http://oom.lt/SZKISOLATORTLP131](http://oom.lt/SZKISOLATORTLP131)

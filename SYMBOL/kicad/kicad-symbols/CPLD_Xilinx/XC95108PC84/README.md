@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-CPLD_Xilinx-XC95108PC84
 - Hex ID: SZKCPLDXILINXXC9518PC84
 - Name: CPLD_Xilinx : XC95108PC84
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/CPLD_Xilinx/XC95108PC84/
 - Description: CPLD_Xilinx : XC95108PC84
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-CPLD_Xilinx-XC95108PC84](http://oom.lt/SYMBOL-kicad-kicad-symbols-CPLD_Xilinx-XC95108PC84)
 - Short Link: [http://oom.lt/SZKCPLDXILINXXC9518PC84](http://oom.lt/SZKCPLDXILINXXC9518PC84)

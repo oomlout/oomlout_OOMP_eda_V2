@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-1N4002
 - Hex ID: SZKDIODE1N42
 - Name: Diode : 1N4002
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/1N4002/
 - Description: Diode : 1N4002
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-1N4002](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-1N4002)
 - Short Link: [http://oom.lt/SZKDIODE1N42](http://oom.lt/SZKDIODE1N42)

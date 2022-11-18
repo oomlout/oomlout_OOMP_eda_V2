@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-display-lcd-LS021C
 - Hex ID: FZEDILCDLS21C
 - Name: display-lcd : LS021C
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/display-lcd/LS021C/
 - Description: display-lcd : LS021C
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-display-lcd-LS021C](http://oom.lt/FOOTPRINT-eagle-eagle-default-display-lcd-LS021C)
 - Short Link: [http://oom.lt/FZEDILCDLS21C](http://oom.lt/FZEDILCDLS21C)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-PIC24FXXX_TQFP64
 - Hex ID: FZSRTPIC24FXXXTQFP64
 - Name: SparkFun-Retired : PIC24FXXX_TQFP64
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Retired/PIC24FXXX_TQFP64/
 - Description: SparkFun-Retired : PIC24FXXX_TQFP64
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-PIC24FXXX_TQFP64](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-PIC24FXXX_TQFP64)
 - Short Link: [http://oom.lt/FZSRTPIC24FXXXTQFP64](http://oom.lt/FZSRTPIC24FXXXTQFP64)

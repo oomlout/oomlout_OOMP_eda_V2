@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-resistor-power-RS05_69-70
 - Hex ID: FZERESISTORPOWERRS5697
 - Name: resistor-power : RS05_69-70
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/resistor-power/RS05_69-70/
 - Description: resistor-power : RS05_69-70
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-resistor-power-RS05_69-70](http://oom.lt/FOOTPRINT-eagle-eagle-default-resistor-power-RS05_69-70)
 - Short Link: [http://oom.lt/FZERESISTORPOWERRS5697](http://oom.lt/FZERESISTORPOWERRS5697)

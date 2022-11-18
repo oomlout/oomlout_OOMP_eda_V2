@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-pspice-GSOURCE
 - Hex ID: SZKPSPICEGSOURCE
 - Name: pspice : GSOURCE
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/pspice/GSOURCE/
 - Description: pspice : GSOURCE
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-pspice-GSOURCE](http://oom.lt/SYMBOL-kicad-kicad-symbols-pspice-GSOURCE)
 - Short Link: [http://oom.lt/SZKPSPICEGSOURCE](http://oom.lt/SZKPSPICEGSOURCE)

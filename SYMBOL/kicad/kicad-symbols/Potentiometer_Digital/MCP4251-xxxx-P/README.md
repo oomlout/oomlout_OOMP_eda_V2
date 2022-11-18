@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Potentiometer_Digital-MCP4251-xxxx-P
 - Hex ID: SZKPOTDIGITALMCP4251XXXXP
 - Name: Potentiometer_Digital : MCP4251-xxxx-P
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Potentiometer_Digital/MCP4251-xxxx-P/
 - Description: Potentiometer_Digital : MCP4251-xxxx-P
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Potentiometer_Digital-MCP4251-xxxx-P](http://oom.lt/SYMBOL-kicad-kicad-symbols-Potentiometer_Digital-MCP4251-xxxx-P)
 - Short Link: [http://oom.lt/SZKPOTDIGITALMCP4251XXXXP](http://oom.lt/SZKPOTDIGITALMCP4251XXXXP)

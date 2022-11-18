@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-micro-renesas-P-LFQFP100-14X14
 - Hex ID: FZEMRENESASPLFQFP114X14
 - Name: micro-renesas : P-LFQFP100-14X14
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/micro-renesas/P-LFQFP100-14X14/
 - Description: micro-renesas : P-LFQFP100-14X14
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-renesas-P-LFQFP100-14X14](http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-renesas-P-LFQFP100-14X14)
 - Short Link: [http://oom.lt/FZEMRENESASPLFQFP114X14](http://oom.lt/FZEMRENESASPLFQFP114X14)

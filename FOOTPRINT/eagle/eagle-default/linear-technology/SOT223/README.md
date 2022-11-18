@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-linear-technology-SOT223
 - Hex ID: FZELINEARTECHNOLOGYSOT223
 - Name: linear-technology : SOT223
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/linear-technology/SOT223/
 - Description: linear-technology : SOT223
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-linear-technology-SOT223](http://oom.lt/FOOTPRINT-eagle-eagle-default-linear-technology-SOT223)
 - Short Link: [http://oom.lt/FZELINEARTECHNOLOGYSOT223](http://oom.lt/FZELINEARTECHNOLOGYSOT223)

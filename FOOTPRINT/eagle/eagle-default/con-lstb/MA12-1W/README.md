@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-lstb-MA12-1W
 - Hex ID: FZECONLSTBMA121W
 - Name: con-lstb : MA12-1W
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-lstb/MA12-1W/
 - Description: con-lstb : MA12-1W
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-lstb-MA12-1W](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-lstb-MA12-1W)
 - Short Link: [http://oom.lt/FZECONLSTBMA121W](http://oom.lt/FZECONLSTBMA121W)

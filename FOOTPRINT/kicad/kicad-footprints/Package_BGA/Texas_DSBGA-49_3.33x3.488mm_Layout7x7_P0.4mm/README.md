@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_BGA-Texas_DSBGA-49_3.33x3.488mm_Layout7x7_P0.4mm
 - Hex ID: FZKBGATEXASDSBGA49333X3488LAYOUT7X7P4
 - Name: Package_BGA : Texas_DSBGA-49_3.33x3.488mm_Layout7x7_P0.4mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_BGA/Texas_DSBGA-49_3.33x3.488mm_Layout7x7_P0.4mm/
 - Description: Package_BGA : Texas_DSBGA-49_3.33x3.488mm_Layout7x7_P0.4mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_BGA-Texas_DSBGA-49_3.33x3.488mm_Layout7x7_P0.4mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_BGA-Texas_DSBGA-49_3.33x3.488mm_Layout7x7_P0.4mm)
 - Short Link: [http://oom.lt/FZKBGATEXASDSBGA49333X3488LAYOUT7X7P4](http://oom.lt/FZKBGATEXASDSBGA49333X3488LAYOUT7X7P4)

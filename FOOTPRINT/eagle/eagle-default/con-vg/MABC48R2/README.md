@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-vg-MABC48R2
 - Hex ID: FZECONVGMABC48R2
 - Name: con-vg : MABC48R2
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-vg/MABC48R2/
 - Description: con-vg : MABC48R2
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-vg-MABC48R2](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-vg-MABC48R2)
 - Short Link: [http://oom.lt/FZECONVGMABC48R2](http://oom.lt/FZECONVGMABC48R2)

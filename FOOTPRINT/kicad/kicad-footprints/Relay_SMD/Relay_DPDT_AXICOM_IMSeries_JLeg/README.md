@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Relay_SMD-Relay_DPDT_AXICOM_IMSeries_JLeg
 - Hex ID: FZKRELRELAYDPDTAXICOMIMSERIESJLEG
 - Name: Relay_SMD : Relay_DPDT_AXICOM_IMSeries_JLeg
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Relay_SMD/Relay_DPDT_AXICOM_IMSeries_JLeg/
 - Description: Relay_SMD : Relay_DPDT_AXICOM_IMSeries_JLeg
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Relay_SMD-Relay_DPDT_AXICOM_IMSeries_JLeg](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Relay_SMD-Relay_DPDT_AXICOM_IMSeries_JLeg)
 - Short Link: [http://oom.lt/FZKRELRELAYDPDTAXICOMIMSERIESJLEG](http://oom.lt/FZKRELRELAYDPDTAXICOMIMSERIESJLEG)

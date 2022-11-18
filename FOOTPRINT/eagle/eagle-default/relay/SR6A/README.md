@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-relay-SR6A
 - Hex ID: FZERELAYSR6A
 - Name: relay : SR6A
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/relay/SR6A/
 - Description: relay : SR6A
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-SR6A](http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-SR6A)
 - Short Link: [http://oom.lt/FZERELAYSR6A](http://oom.lt/FZERELAYSR6A)

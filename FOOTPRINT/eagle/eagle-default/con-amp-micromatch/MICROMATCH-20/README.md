@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-amp-micromatch-MICROMATCH-20
 - Hex ID: FZECONAMPATCHATCH2
 - Name: con-amp-micromatch : MICROMATCH-20
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-amp-micromatch/MICROMATCH-20/
 - Description: con-amp-micromatch : MICROMATCH-20
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-amp-micromatch-MICROMATCH-20](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-amp-micromatch-MICROMATCH-20)
 - Short Link: [http://oom.lt/FZECONAMPATCHATCH2](http://oom.lt/FZECONAMPATCHATCH2)

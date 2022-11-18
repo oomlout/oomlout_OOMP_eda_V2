@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-C4D10120E
 - Hex ID: SZKDIODEC4D112E
 - Name: Diode : C4D10120E
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/C4D10120E/
 - Description: Diode : C4D10120E
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-C4D10120E](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-C4D10120E)
 - Short Link: [http://oom.lt/SZKDIODEC4D112E](http://oom.lt/SZKDIODEC4D112E)

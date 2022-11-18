@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-1333-1
 - Hex ID: FZKSOTSOT13331
 - Name: Package_TO_SOT_SMD : SOT-1333-1
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/SOT-1333-1/
 - Description: Package_TO_SOT_SMD : SOT-1333-1
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-1333-1](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-1333-1)
 - Short Link: [http://oom.lt/FZKSOTSOT13331](http://oom.lt/FZKSOTSOT13331)

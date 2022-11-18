@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-7-SEGMENT-4DIGIT
 - Hex ID: FZSRT7S4DIGIT
 - Name: SparkFun-Retired : 7-SEGMENT-4DIGIT
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Retired/7-SEGMENT-4DIGIT/
 - Description: SparkFun-Retired : 7-SEGMENT-4DIGIT
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-7-SEGMENT-4DIGIT](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-7-SEGMENT-4DIGIT)
 - Short Link: [http://oom.lt/FZSRT7S4DIGIT](http://oom.lt/FZSRT7S4DIGIT)

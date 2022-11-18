@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Isolator-ADuM7640A
 - Hex ID: SZKISOLATORADUM764A
 - Name: Isolator : ADuM7640A
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Isolator/ADuM7640A/
 - Description: Isolator : ADuM7640A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-ADuM7640A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-ADuM7640A)
 - Short Link: [http://oom.lt/SZKISOLATORADUM764A](http://oom.lt/SZKISOLATORADUM764A)

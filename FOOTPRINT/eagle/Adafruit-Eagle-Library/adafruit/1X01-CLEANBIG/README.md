@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-1X01-CLEANBIG
 - Hex ID: FZA1X1CB
 - Name: adafruit : 1X01-CLEANBIG
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/1X01-CLEANBIG/
 - Description: adafruit : 1X01-CLEANBIG
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-1X01-CLEANBIG](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-1X01-CLEANBIG)
 - Short Link: [http://oom.lt/FZA1X1CB](http://oom.lt/FZA1X1CB)

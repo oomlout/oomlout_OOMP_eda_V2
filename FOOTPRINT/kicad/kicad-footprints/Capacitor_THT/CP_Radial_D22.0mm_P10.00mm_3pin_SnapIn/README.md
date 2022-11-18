@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKCCPRD22P13PINSNAPIN > Capacitor_THT : CP_Radial_D22.0mm_P10.00mm_3pin_SnapIn](#fzkccprd22p13pinsnapin--capacitor_tht--cp_radial_d220mm_p1000mm_3pin_snapin)
+* [FZKCCPRD22P13PSNAP > Capacitor_THT : CP_Radial_D22.0mm_P10.00mm_3pin_SnapIn](#fzkccprd22p13psnap--capacitor_tht--cp_radial_d220mm_p1000mm_3pin_snapin)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKCCPRD22P13PINSNAPIN > Capacitor_THT : CP_Radial_D22.0mm_P10.00mm_3pin_SnapIn
+# FZKCCPRD22P13PSNAP > Capacitor_THT : CP_Radial_D22.0mm_P10.00mm_3pin_SnapIn
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Capacitor_THT-CP_Radial_D22.0mm_P10.00mm_3pin_SnapIn
-- Hex ID: FZKCCPRD22P13PINSNAPIN
+- Hex ID: FZKCCPRD22P13PSNAP
 - Name: Capacitor_THT : CP_Radial_D22.0mm_P10.00mm_3pin_SnapIn
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Capacitor_THT/CP_Radial_D22.0mm_P10.00mm_3pin_SnapIn/
 - Description: Capacitor_THT : CP_Radial_D22.0mm_P10.00mm_3pin_SnapIn
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_THT-CP_Radial_D22.0mm_P10.00mm_3pin_SnapIn](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_THT-CP_Radial_D22.0mm_P10.00mm_3pin_SnapIn)
-- Short Link: [http://oom.lt/FZKCCPRD22P13PINSNAPIN](http://oom.lt/FZKCCPRD22P13PINSNAPIN)
+- Short Link: [http://oom.lt/FZKCCPRD22P13PSNAP](http://oom.lt/FZKCCPRD22P13PSNAP)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Capacitor_THT|
 |OOMP Index|oompIndex|CP_Radial_D22.0mm_P10.00mm_3pin_SnapIn|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Capacitor_THT-CP_Radial_D22.0mm_P10.00mm_3pin_SnapIn|
-|Hex ID (short code)|hexID|FZKCCPRD22P13PINSNAPIN|
+|Hex ID (short code)|hexID|FZKCCPRD22P13PSNAP|
 |name|name|Capacitor_THT : CP_Radial_D22.0mm_P10.00mm_3pin_SnapIn|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'CP_Radial_D22.0mm_P10.00mm_3pin_SnapIn'</td><td> 'description'</td></tr><tr><td> 'CP</td><td> Radial series</td><td> Radial</td><td> pin pitch=10.00mm</td><td> diameter=22mm</td><td> height=40mm</td><td> Electrolytic Capacitor</td><td> </td><td> http</td></tr><tr><td>//www.vishay.com/docs/28342/058059pll-si.pdf'</td><td> 'tags'</td></tr><tr><td> 'CP Radial series Radial pin pitch 10.00mm diameter 22mm height 40mm Electrolytic Capacitor'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Capacitor_THT.3dshapes/CP_Radial_D22.0mm_P10.00mm_3pin_SnapIn.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

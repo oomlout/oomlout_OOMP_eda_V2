@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-xilinx-xcv-CB228
 - Hex ID: FZEXILINXXCVCB228
 - Name: xilinx-xcv : CB228
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/xilinx-xcv/CB228/
 - Description: xilinx-xcv : CB228
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-xilinx-xcv-CB228](http://oom.lt/FOOTPRINT-eagle-eagle-default-xilinx-xcv-CB228)
 - Short Link: [http://oom.lt/FZEXILINXXCVCB228](http://oom.lt/FZEXILINXXCVCB228)

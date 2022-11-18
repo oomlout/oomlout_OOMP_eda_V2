@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-LNK406EG
 - Hex ID: SZKREGULATORSWINGLNK46EG
 - Name: Regulator_Switching : LNK406EG
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/LNK406EG/
 - Description: Regulator_Switching : LNK406EG
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LNK406EG](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LNK406EG)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGLNK46EG](http://oom.lt/SZKREGULATORSWINGLNK46EG)

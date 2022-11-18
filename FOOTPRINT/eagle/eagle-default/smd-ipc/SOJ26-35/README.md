@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-smd-ipc-SOJ26-35
 - Hex ID: FZESMIPCSOJ2635
 - Name: smd-ipc : SOJ26-35
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/smd-ipc/SOJ26-35/
 - Description: smd-ipc : SOJ26-35
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-SOJ26-35](http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-SOJ26-35)
 - Short Link: [http://oom.lt/FZESMIPCSOJ2635](http://oom.lt/FZESMIPCSOJ2635)

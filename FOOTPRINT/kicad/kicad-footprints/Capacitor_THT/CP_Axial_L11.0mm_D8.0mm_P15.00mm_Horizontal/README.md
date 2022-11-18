@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Capacitor_THT-CP_Axial_L11.0mm_D8.0mm_P15.00mm_Horizontal
 - Hex ID: FZKCCPAXIALL11D8P15H
 - Name: Capacitor_THT : CP_Axial_L11.0mm_D8.0mm_P15.00mm_Horizontal
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Capacitor_THT/CP_Axial_L11.0mm_D8.0mm_P15.00mm_Horizontal/
 - Description: Capacitor_THT : CP_Axial_L11.0mm_D8.0mm_P15.00mm_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_THT-CP_Axial_L11.0mm_D8.0mm_P15.00mm_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_THT-CP_Axial_L11.0mm_D8.0mm_P15.00mm_Horizontal)
 - Short Link: [http://oom.lt/FZKCCPAXIALL11D8P15H](http://oom.lt/FZKCCPAXIALL11D8P15H)

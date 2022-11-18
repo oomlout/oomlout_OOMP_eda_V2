@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-LED-WS2812S
 - Hex ID: SZKLWS2812S
 - Name: LED : WS2812S
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/LED/WS2812S/
 - Description: LED : WS2812S
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-LED-WS2812S](http://oom.lt/SYMBOL-kicad-kicad-symbols-LED-WS2812S)
 - Short Link: [http://oom.lt/SZKLWS2812S](http://oom.lt/SZKLWS2812S)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_SO-MSOP-16-1EP_3x4mm_P0.5mm_EP1.65x2.85mm
 - Hex ID: FZKSOMS161EP3X4P5EP165X285
 - Name: Package_SO : MSOP-16-1EP_3x4mm_P0.5mm_EP1.65x2.85mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SO/MSOP-16-1EP_3x4mm_P0.5mm_EP1.65x2.85mm/
 - Description: Package_SO : MSOP-16-1EP_3x4mm_P0.5mm_EP1.65x2.85mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SO-MSOP-16-1EP_3x4mm_P0.5mm_EP1.65x2.85mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SO-MSOP-16-1EP_3x4mm_P0.5mm_EP1.65x2.85mm)
 - Short Link: [http://oom.lt/FZKSOMS161EP3X4P5EP165X285](http://oom.lt/FZKSOMS161EP3X4P5EP165X285)

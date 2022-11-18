@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F1619-xML
 - Hex ID: SZKMCUMCHIPPIC16PIC16F1619XML
 - Name: MCU_Microchip_PIC16 : PIC16F1619-xML
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC16/PIC16F1619-xML/
 - Description: MCU_Microchip_PIC16 : PIC16F1619-xML
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F1619-xML](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F1619-xML)
 - Short Link: [http://oom.lt/SZKMCUMCHIPPIC16PIC16F1619XML](http://oom.lt/SZKMCUMCHIPPIC16PIC16F1619XML)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-transistor-power-TOP3AV
 - Hex ID: FZETRANSISTORPOWERTOP3AV
 - Name: transistor-power : TOP3AV
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/transistor-power/TOP3AV/
 - Description: transistor-power : TOP3AV
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-power-TOP3AV](http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-power-TOP3AV)
 - Short Link: [http://oom.lt/FZETRANSISTORPOWERTOP3AV](http://oom.lt/FZETRANSISTORPOWERTOP3AV)

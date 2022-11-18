@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-relay-S102T0X
 - Hex ID: FZERELAYS12TX
 - Name: relay : S102T0X
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/relay/S102T0X/
 - Description: relay : S102T0X
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-S102T0X](http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-S102T0X)
 - Short Link: [http://oom.lt/FZERELAYS12TX](http://oom.lt/FZERELAYS12TX)

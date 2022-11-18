@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Symbol-OSHW-Logo_19x20mm_SilkScreen
 - Hex ID: FZKSZOSHWL19X2SILKSCREEN
 - Name: Symbol : OSHW-Logo_19x20mm_SilkScreen
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Symbol/OSHW-Logo_19x20mm_SilkScreen/
 - Description: Symbol : OSHW-Logo_19x20mm_SilkScreen
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Symbol-OSHW-Logo_19x20mm_SilkScreen](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Symbol-OSHW-Logo_19x20mm_SilkScreen)
 - Short Link: [http://oom.lt/FZKSZOSHWL19X2SILKSCREEN](http://oom.lt/FZKSZOSHWL19X2SILKSCREEN)

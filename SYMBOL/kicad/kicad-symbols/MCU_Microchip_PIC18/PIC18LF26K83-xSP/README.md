@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC18-PIC18LF26K83-xSP
 - Hex ID: SZKMCUMCHIPPIC18PIC18LF26K83XSP
 - Name: MCU_Microchip_PIC18 : PIC18LF26K83-xSP
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC18/PIC18LF26K83-xSP/
 - Description: MCU_Microchip_PIC18 : PIC18LF26K83-xSP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC18-PIC18LF26K83-xSP](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC18-PIC18LF26K83-xSP)
 - Short Link: [http://oom.lt/SZKMCUMCHIPPIC18PIC18LF26K83XSP](http://oom.lt/SZKMCUMCHIPPIC18PIC18LF26K83XSP)

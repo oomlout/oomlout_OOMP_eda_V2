@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-micro-motorola-SQFP-S-10X10-52
 - Hex ID: FZEMMOTOROLASQFPS1X152
 - Name: micro-motorola : SQFP-S-10X10-52
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/micro-motorola/SQFP-S-10X10-52/
 - Description: micro-motorola : SQFP-S-10X10-52
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-motorola-SQFP-S-10X10-52](http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-motorola-SQFP-S-10X10-52)
 - Short Link: [http://oom.lt/FZEMMOTOROLASQFPS1X152](http://oom.lt/FZEMMOTOROLASQFPS1X152)

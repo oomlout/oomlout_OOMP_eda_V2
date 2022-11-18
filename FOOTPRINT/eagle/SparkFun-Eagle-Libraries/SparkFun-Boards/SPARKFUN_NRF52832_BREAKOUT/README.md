@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Boards-SPARKFUN_NRF52832_BREAKOUT
 - Hex ID: FZSBOSPARKFUNNRF52832BREAKOUT
 - Name: SparkFun-Boards : SPARKFUN_NRF52832_BREAKOUT
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Boards/SPARKFUN_NRF52832_BREAKOUT/
 - Description: SparkFun-Boards : SPARKFUN_NRF52832_BREAKOUT
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Boards-SPARKFUN_NRF52832_BREAKOUT](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Boards-SPARKFUN_NRF52832_BREAKOUT)
 - Short Link: [http://oom.lt/FZSBOSPARKFUNNRF52832BREAKOUT](http://oom.lt/FZSBOSPARKFUNNRF52832BREAKOUT)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-TC1055
 - Hex ID: SZKREGULATORLINEARTC155
 - Name: Regulator_Linear : TC1055
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/TC1055/
 - Description: Regulator_Linear : TC1055
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-TC1055](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-TC1055)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARTC155](http://oom.lt/SZKREGULATORLINEARTC155)

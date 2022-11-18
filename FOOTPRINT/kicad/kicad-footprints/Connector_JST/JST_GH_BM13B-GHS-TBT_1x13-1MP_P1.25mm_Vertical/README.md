@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_GH_BM13B-GHS-TBT_1x13-1MP_P1.25mm_Vertical
 - Hex ID: FZKCNJSTJSTGHBM13BGHSTBT1X131MPP125F
 - Name: Connector_JST : JST_GH_BM13B-GHS-TBT_1x13-1MP_P1.25mm_Vertical
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_GH_BM13B-GHS-TBT_1x13-1MP_P1.25mm_Vertical/
 - Description: Connector_JST : JST_GH_BM13B-GHS-TBT_1x13-1MP_P1.25mm_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_GH_BM13B-GHS-TBT_1x13-1MP_P1.25mm_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_GH_BM13B-GHS-TBT_1x13-1MP_P1.25mm_Vertical)
 - Short Link: [http://oom.lt/FZKCNJSTJSTGHBM13BGHSTBT1X131MPP125F](http://oom.lt/FZKCNJSTJSTGHBM13BGHSTBT1X131MPP125F)

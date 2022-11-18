@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-QRE1113-W
 - Hex ID: FZSSPARKFUNSENSQRE1113W
 - Name: SparkFun-Sensors : QRE1113-W
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Sensors/QRE1113-W/
 - Description: SparkFun-Sensors : QRE1113-W
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-QRE1113-W](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-QRE1113-W)
 - Short Link: [http://oom.lt/FZSSPARKFUNSENSQRE1113W](http://oom.lt/FZSSPARKFUNSENSQRE1113W)

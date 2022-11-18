@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-0414V
 - Hex ID: FZA414V
 - Name: adafruit : 0414V
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/0414V/
 - Description: adafruit : 0414V
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-0414V](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-0414V)
 - Short Link: [http://oom.lt/FZA414V](http://oom.lt/FZA414V)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Oscillator-TXC-7C
 - Hex ID: SZKOCSTXC7C
 - Name: Oscillator : TXC-7C
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Oscillator/TXC-7C/
 - Description: Oscillator : TXC-7C
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Oscillator-TXC-7C](http://oom.lt/SYMBOL-kicad-kicad-symbols-Oscillator-TXC-7C)
 - Short Link: [http://oom.lt/SZKOCSTXC7C](http://oom.lt/SZKOCSTXC7C)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Isolator-SFH620A-2X016
 - Hex ID: SZKISOLATORSFH62A2X16
 - Name: Isolator : SFH620A-2X016
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Isolator/SFH620A-2X016/
 - Description: Isolator : SFH620A-2X016
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-SFH620A-2X016](http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-SFH620A-2X016)
 - Short Link: [http://oom.lt/SZKISOLATORSFH62A2X16](http://oom.lt/SZKISOLATORSFH62A2X16)

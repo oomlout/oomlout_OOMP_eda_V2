@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-power-PWR_FLAG
 - Hex ID: SZKPOWERPWRFLAG
 - Name: power : PWR_FLAG
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/power/PWR_FLAG/
 - Description: power : PWR_FLAG
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-power-PWR_FLAG](http://oom.lt/SYMBOL-kicad-kicad-symbols-power-PWR_FLAG)
 - Short Link: [http://oom.lt/SZKPOWERPWRFLAG](http://oom.lt/SZKPOWERPWRFLAG)

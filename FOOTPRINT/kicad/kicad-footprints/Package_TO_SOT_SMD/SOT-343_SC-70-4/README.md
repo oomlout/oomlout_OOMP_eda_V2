@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-343_SC-70-4
 - Hex ID: FZKSOTSOT343SC74
 - Name: Package_TO_SOT_SMD : SOT-343_SC-70-4
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/SOT-343_SC-70-4/
 - Description: Package_TO_SOT_SMD : SOT-343_SC-70-4
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-343_SC-70-4](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-343_SC-70-4)
 - Short Link: [http://oom.lt/FZKSOTSOT343SC74](http://oom.lt/FZKSOTSOT343SC74)

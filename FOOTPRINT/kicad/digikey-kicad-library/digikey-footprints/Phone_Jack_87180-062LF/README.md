@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Phone_Jack_87180-062LF
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSPHONEJ871862LF
 - Name: digikey-footprints : Phone_Jack_87180-062LF
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Phone_Jack_87180-062LF/
 - Description: digikey-footprints : Phone_Jack_87180-062LF
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Phone_Jack_87180-062LF](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Phone_Jack_87180-062LF)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSPHONEJ871862LF](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSPHONEJ871862LF)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SOIC-8_W5.3mm
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSSOIC8W53
 - Name: digikey-footprints : SOIC-8_W5.3mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/SOIC-8_W5.3mm/
 - Description: digikey-footprints : SOIC-8_W5.3mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SOIC-8_W5.3mm](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SOIC-8_W5.3mm)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSSOIC8W53](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSSOIC8W53)

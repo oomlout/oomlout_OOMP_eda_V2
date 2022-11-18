@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-BUTA-07-X-SMDS-01-B7S
 - Hex ID: SZOOMPKOOMPPBUTA7XSMS1B7S
 - Name: oomlout_OOMP_parts : BUTA-07-X-SMDS-01-B7S
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/BUTA-07-X-SMDS-01-B7S/
 - Description: oomlout_OOMP_parts : BUTA-07-X-SMDS-01-B7S
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-BUTA-07-X-SMDS-01-B7S](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-BUTA-07-X-SMDS-01-B7S)
 - Short Link: [http://oom.lt/SZOOMPKOOMPPBUTA7XSMS1B7S](http://oom.lt/SZOOMPKOOMPPBUTA7XSMS1B7S)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_DIN-DIN41612_Q2_2x16_Male_Horizontal_THT
 - Hex ID: FZKCNDINDIN41612Q22X16MALEHTHT
 - Name: Connector_DIN : DIN41612_Q2_2x16_Male_Horizontal_THT
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_DIN/DIN41612_Q2_2x16_Male_Horizontal_THT/
 - Description: Connector_DIN : DIN41612_Q2_2x16_Male_Horizontal_THT
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_DIN-DIN41612_Q2_2x16_Male_Horizontal_THT](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_DIN-DIN41612_Q2_2x16_Male_Horizontal_THT)
 - Short Link: [http://oom.lt/FZKCNDINDIN41612Q22X16MALEHTHT](http://oom.lt/FZKCNDINDIN41612Q22X16MALEHTHT)

@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKDIPDIP18W889SMSOL > Package_DIP : DIP-18_W8.89mm_SMDSocket_LongPads](#fzkdipdip18w889smsol--package_dip--dip-18_w889mm_smdsocket_longpads)
+* [FZKDD18W889SMSOL > Package_DIP : DIP-18_W8.89mm_SMDSocket_LongPads](#fzkdd18w889smsol--package_dip--dip-18_w889mm_smdsocket_longpads)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKDIPDIP18W889SMSOL > Package_DIP : DIP-18_W8.89mm_SMDSocket_LongPads
+# FZKDD18W889SMSOL > Package_DIP : DIP-18_W8.89mm_SMDSocket_LongPads
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_DIP-DIP-18_W8.89mm_SMDSocket_LongPads
-- Hex ID: FZKDIPDIP18W889SMSOL
+- Hex ID: FZKDD18W889SMSOL
 - Name: Package_DIP : DIP-18_W8.89mm_SMDSocket_LongPads
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DIP/DIP-18_W8.89mm_SMDSocket_LongPads/
 - Description: Package_DIP : DIP-18_W8.89mm_SMDSocket_LongPads
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DIP-DIP-18_W8.89mm_SMDSocket_LongPads](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DIP-DIP-18_W8.89mm_SMDSocket_LongPads)
-- Short Link: [http://oom.lt/FZKDIPDIP18W889SMSOL](http://oom.lt/FZKDIPDIP18W889SMSOL)
+- Short Link: [http://oom.lt/FZKDD18W889SMSOL](http://oom.lt/FZKDD18W889SMSOL)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Package_DIP|
 |OOMP Index|oompIndex|DIP-18_W8.89mm_SMDSocket_LongPads|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DIP-DIP-18_W8.89mm_SMDSocket_LongPads|
-|Hex ID (short code)|hexID|FZKDIPDIP18W889SMSOL|
+|Hex ID (short code)|hexID|FZKDD18W889SMSOL|
 |name|name|Package_DIP : DIP-18_W8.89mm_SMDSocket_LongPads|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'DIP-18_W8.89mm_SMDSocket_LongPads'</td><td> 'description'</td></tr><tr><td> '18-lead though-hole mounted DIP package</td><td> row spacing 8.89 mm (350 mils)</td><td> SMDSocket</td><td> LongPads'</td><td> 'tags'</td></tr><tr><td> 'THT DIP DIL PDIP 2.54mm 8.89mm 350mil SMDSocket LongPads'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_DIP.3dshapes/DIP-18_W8.89mm_SMDSocket.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

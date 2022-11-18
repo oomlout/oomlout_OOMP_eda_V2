@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-USB-A-SMT-MALE
 - Hex ID: FZSSPARKFUNCNSUASMALE
 - Name: SparkFun-Connectors : USB-A-SMT-MALE
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Connectors/USB-A-SMT-MALE/
 - Description: SparkFun-Connectors : USB-A-SMT-MALE
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-USB-A-SMT-MALE](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-USB-A-SMT-MALE)
 - Short Link: [http://oom.lt/FZSSPARKFUNCNSUASMALE](http://oom.lt/FZSSPARKFUNCNSUASMALE)

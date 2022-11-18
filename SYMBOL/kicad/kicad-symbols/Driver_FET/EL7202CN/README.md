@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Driver_FET-EL7202CN
 - Hex ID: SZKDRIVERFETEL722CN
 - Name: Driver_FET : EL7202CN
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Driver_FET/EL7202CN/
 - Description: Driver_FET : EL7202CN
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-EL7202CN](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-EL7202CN)
 - Short Link: [http://oom.lt/SZKDRIVERFETEL722CN](http://oom.lt/SZKDRIVERFETEL722CN)

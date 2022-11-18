@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Controller-L6562
 - Hex ID: SZKREGULATORCONTROLLERL6562
 - Name: Regulator_Controller : L6562
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Controller/L6562/
 - Description: Regulator_Controller : L6562
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Controller-L6562](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Controller-L6562)
 - Short Link: [http://oom.lt/SZKREGULATORCONTROLLERL6562](http://oom.lt/SZKREGULATORCONTROLLERL6562)

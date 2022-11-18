@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_BGA-BGA-144_13.0x13.0mm_Layout12x12_P1.0mm
 - Hex ID: FZKBGABGA14413X13LAYOUT12X12P1
 - Name: Package_BGA : BGA-144_13.0x13.0mm_Layout12x12_P1.0mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_BGA/BGA-144_13.0x13.0mm_Layout12x12_P1.0mm/
 - Description: Package_BGA : BGA-144_13.0x13.0mm_Layout12x12_P1.0mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_BGA-BGA-144_13.0x13.0mm_Layout12x12_P1.0mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_BGA-BGA-144_13.0x13.0mm_Layout12x12_P1.0mm)
 - Short Link: [http://oom.lt/FZKBGABGA14413X13LAYOUT12X12P1](http://oom.lt/FZKBGABGA14413X13LAYOUT12X12P1)

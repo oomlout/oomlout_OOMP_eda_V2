@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-resistor-bourns-SO8
 - Hex ID: FZERESISTORBOURNSSO8
 - Name: resistor-bourns : SO8
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/resistor-bourns/SO8/
 - Description: resistor-bourns : SO8
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-resistor-bourns-SO8](http://oom.lt/FOOTPRINT-eagle-eagle-default-resistor-bourns-SO8)
 - Short Link: [http://oom.lt/FZERESISTORBOURNSSO8](http://oom.lt/FZERESISTORBOURNSSO8)

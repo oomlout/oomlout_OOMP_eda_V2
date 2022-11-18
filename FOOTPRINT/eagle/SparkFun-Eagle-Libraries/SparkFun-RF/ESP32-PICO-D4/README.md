@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-ESP32-PICO-D4
 - Hex ID: FZSRFESP32PICOD4
 - Name: SparkFun-RF : ESP32-PICO-D4
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-RF/ESP32-PICO-D4/
 - Description: SparkFun-RF : ESP32-PICO-D4
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-ESP32-PICO-D4](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-ESP32-PICO-D4)
 - Short Link: [http://oom.lt/FZSRFESP32PICOD4](http://oom.lt/FZSRFESP32PICOD4)

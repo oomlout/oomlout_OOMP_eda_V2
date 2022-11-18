@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny3217-M
 - Hex ID: SZKMCUMCHIPATTINYATTINY3217M
 - Name: MCU_Microchip_ATtiny : ATtiny3217-M
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_ATtiny/ATtiny3217-M/
 - Description: MCU_Microchip_ATtiny : ATtiny3217-M
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny3217-M](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny3217-M)
 - Short Link: [http://oom.lt/SZKMCUMCHIPATTINYATTINY3217M](http://oom.lt/SZKMCUMCHIPATTINYATTINY3217M)

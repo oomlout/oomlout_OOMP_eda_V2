@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Power_Management-AUIR3315S
 - Hex ID: SZKPOWERMANAGEMENTAUIR3315S
 - Name: Power_Management : AUIR3315S
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Power_Management/AUIR3315S/
 - Description: Power_Management : AUIR3315S
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-AUIR3315S](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-AUIR3315S)
 - Short Link: [http://oom.lt/SZKPOWERMANAGEMENTAUIR3315S](http://oom.lt/SZKPOWERMANAGEMENTAUIR3315S)

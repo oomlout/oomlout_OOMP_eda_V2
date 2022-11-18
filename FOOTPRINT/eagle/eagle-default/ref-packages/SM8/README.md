@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEREFPACKAGESSM8 > ref-packages : SM8](#fzerefpackagessm8--ref-packages--sm8)
+* [FZEREFPSSM8 > ref-packages : SM8](#fzerefpssm8--ref-packages--sm8)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEREFPACKAGESSM8 > ref-packages : SM8
+# FZEREFPSSM8 > ref-packages : SM8
 
 - ID: FOOTPRINT-eagle-eagle-default-ref-packages-SM8
-- Hex ID: FZEREFPACKAGESSM8
+- Hex ID: FZEREFPSSM8
 - Name: ref-packages : SM8
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ref-packages/SM8/
 - Description: ref-packages : SM8
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-SM8](http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-SM8)
-- Short Link: [http://oom.lt/FZEREFPACKAGESSM8](http://oom.lt/FZEREFPACKAGESSM8)
+- Short Link: [http://oom.lt/FZEREFPSSM8](http://oom.lt/FZEREFPSSM8)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|ref-packages|
 |OOMP Index|oompIndex|SM8|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-ref-packages-SM8|
-|Hex ID (short code)|hexID|FZEREFPACKAGESSM8|
+|Hex ID (short code)|hexID|FZEREFPSSM8|
 |name|name|ref-packages : SM8|
 ||||

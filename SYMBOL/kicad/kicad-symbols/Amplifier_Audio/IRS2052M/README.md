@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Audio-IRS2052M
 - Hex ID: SZKAMPLIFIERAUDIOIRS252M
 - Name: Amplifier_Audio : IRS2052M
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Audio/IRS2052M/
 - Description: Amplifier_Audio : IRS2052M
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Audio-IRS2052M](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Audio-IRS2052M)
 - Short Link: [http://oom.lt/SZKAMPLIFIERAUDIOIRS252M](http://oom.lt/SZKAMPLIFIERAUDIOIRS252M)

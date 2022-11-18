@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-VFQFN-64-1EP_9x9mm
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSVFQFN641EP9X9
 - Name: digikey-footprints : VFQFN-64-1EP_9x9mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/VFQFN-64-1EP_9x9mm/
 - Description: digikey-footprints : VFQFN-64-1EP_9x9mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-VFQFN-64-1EP_9x9mm](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-VFQFN-64-1EP_9x9mm)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSVFQFN641EP9X9](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSVFQFN641EP9X9)

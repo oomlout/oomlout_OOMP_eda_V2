@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Connector-Bus_M.2_Socket_B
 - Hex ID: SZKCNBUSM2SOB
 - Name: Connector : Bus_M.2_Socket_B
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector/Bus_M.2_Socket_B/
 - Description: Connector : Bus_M.2_Socket_B
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-Bus_M.2_Socket_B](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-Bus_M.2_Socket_B)
 - Short Link: [http://oom.lt/SZKCNBUSM2SOB](http://oom.lt/SZKCNBUSM2SOB)

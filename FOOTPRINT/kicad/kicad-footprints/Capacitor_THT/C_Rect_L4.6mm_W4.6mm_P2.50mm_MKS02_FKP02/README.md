@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Capacitor_THT-C_Rect_L4.6mm_W4.6mm_P2.50mm_MKS02_FKP02
 - Hex ID: FZKCCRECTL46W46P25MKS2FKP2
 - Name: Capacitor_THT : C_Rect_L4.6mm_W4.6mm_P2.50mm_MKS02_FKP02
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Capacitor_THT/C_Rect_L4.6mm_W4.6mm_P2.50mm_MKS02_FKP02/
 - Description: Capacitor_THT : C_Rect_L4.6mm_W4.6mm_P2.50mm_MKS02_FKP02
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_THT-C_Rect_L4.6mm_W4.6mm_P2.50mm_MKS02_FKP02](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_THT-C_Rect_L4.6mm_W4.6mm_P2.50mm_MKS02_FKP02)
 - Short Link: [http://oom.lt/FZKCCRECTL46W46P25MKS2FKP2](http://oom.lt/FZKCCRECTL46W46P25MKS2FKP2)

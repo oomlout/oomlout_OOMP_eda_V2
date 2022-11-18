@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0603-X-UF22D-V10-C6U002
 - Hex ID: SZOOMPKOOMPPCAPC63XUF22DV1C6U2
 - Name: oomlout_OOMP_parts : CAPC-0603-X-UF22D-V10-C6U002
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/CAPC-0603-X-UF22D-V10-C6U002/
 - Description: oomlout_OOMP_parts : CAPC-0603-X-UF22D-V10-C6U002
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0603-X-UF22D-V10-C6U002](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0603-X-UF22D-V10-C6U002)
 - Short Link: [http://oom.lt/SZOOMPKOOMPPCAPC63XUF22DV1C6U2](http://oom.lt/SZOOMPKOOMPPCAPC63XUF22DV1C6U2)

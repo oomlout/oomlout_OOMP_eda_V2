@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Device-D_Radiation
 - Hex ID: SZKDEVICEDRADIATION
 - Name: Device : D_Radiation
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/D_Radiation/
 - Description: Device : D_Radiation
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-D_Radiation](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-D_Radiation)
 - Short Link: [http://oom.lt/SZKDEVICEDRADIATION](http://oom.lt/SZKDEVICEDRADIATION)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-microchip-SO-16DW
 - Hex ID: FZEMCHIPSO16DW
 - Name: microchip : SO-16DW
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/microchip/SO-16DW/
 - Description: microchip : SO-16DW
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-microchip-SO-16DW](http://oom.lt/FOOTPRINT-eagle-eagle-default-microchip-SO-16DW)
 - Short Link: [http://oom.lt/FZEMCHIPSO16DW](http://oom.lt/FZEMCHIPSO16DW)

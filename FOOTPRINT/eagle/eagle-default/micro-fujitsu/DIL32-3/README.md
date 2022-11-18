@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-micro-fujitsu-DIL32-3
 - Hex ID: FZEMFUJITSUDIL323
 - Name: micro-fujitsu : DIL32-3
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/micro-fujitsu/DIL32-3/
 - Description: micro-fujitsu : DIL32-3
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-fujitsu-DIL32-3](http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-fujitsu-DIL32-3)
 - Short Link: [http://oom.lt/FZEMFUJITSUDIL323](http://oom.lt/FZEMFUJITSUDIL323)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-vg-FAC64R
 - Hex ID: FZECONVGFAC64R
 - Name: con-vg : FAC64R
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-vg/FAC64R/
 - Description: con-vg : FAC64R
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-vg-FAC64R](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-vg-FAC64R)
 - Short Link: [http://oom.lt/FZECONVGFAC64R](http://oom.lt/FZECONVGFAC64R)

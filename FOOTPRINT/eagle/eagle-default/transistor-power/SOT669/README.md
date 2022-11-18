@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-transistor-power-SOT669
 - Hex ID: FZETRANSISTORPOWERSOT669
 - Name: transistor-power : SOT669
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/transistor-power/SOT669/
 - Description: transistor-power : SOT669
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-power-SOT669](http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-power-SOT669)
 - Short Link: [http://oom.lt/FZETRANSISTORPOWERSOT669](http://oom.lt/FZETRANSISTORPOWERSOT669)

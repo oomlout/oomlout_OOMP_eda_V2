@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-MOLEX_146200
 - Hex ID: FZSRFMX1462
 - Name: SparkFun-RF : MOLEX_146200
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-RF/MOLEX_146200/
 - Description: SparkFun-RF : MOLEX_146200
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-MOLEX_146200](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-MOLEX_146200)
 - Short Link: [http://oom.lt/FZSRFMX1462](http://oom.lt/FZSRFMX1462)

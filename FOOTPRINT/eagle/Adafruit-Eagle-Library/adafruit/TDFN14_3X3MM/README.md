@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-TDFN14_3X3MM
 - Hex ID: FZATDFN143X3
 - Name: adafruit : TDFN14_3X3MM
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/TDFN14_3X3MM/
 - Description: adafruit : TDFN14_3X3MM
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-TDFN14_3X3MM](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-TDFN14_3X3MM)
 - Short Link: [http://oom.lt/FZATDFN143X3](http://oom.lt/FZATDFN143X3)

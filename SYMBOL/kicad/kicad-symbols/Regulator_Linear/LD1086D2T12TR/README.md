@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-LD1086D2T12TR
 - Hex ID: SZKREGULATORLINEARLD186D2T12TR
 - Name: Regulator_Linear : LD1086D2T12TR
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LD1086D2T12TR/
 - Description: Regulator_Linear : LD1086D2T12TR
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LD1086D2T12TR](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LD1086D2T12TR)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARLD186D2T12TR](http://oom.lt/SZKREGULATORLINEARLD186D2T12TR)

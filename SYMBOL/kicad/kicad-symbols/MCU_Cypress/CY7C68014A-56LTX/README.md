@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Cypress-CY7C68014A-56LTX
 - Hex ID: SZKMCUCYPRESSCY7C6814A56LTX
 - Name: MCU_Cypress : CY7C68014A-56LTX
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Cypress/CY7C68014A-56LTX/
 - Description: MCU_Cypress : CY7C68014A-56LTX
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Cypress-CY7C68014A-56LTX](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Cypress-CY7C68014A-56LTX)
 - Short Link: [http://oom.lt/SZKMCUCYPRESSCY7C6814A56LTX](http://oom.lt/SZKMCUCYPRESSCY7C6814A56LTX)

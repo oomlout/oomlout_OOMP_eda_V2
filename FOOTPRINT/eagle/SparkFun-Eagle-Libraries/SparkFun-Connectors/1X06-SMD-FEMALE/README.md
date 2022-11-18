@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-1X06-SMD-FEMALE
 - Hex ID: FZSSPARKFUNCNS1X6SMF
 - Name: SparkFun-Connectors : 1X06-SMD-FEMALE
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Connectors/1X06-SMD-FEMALE/
 - Description: SparkFun-Connectors : 1X06-SMD-FEMALE
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-1X06-SMD-FEMALE](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-1X06-SMD-FEMALE)
 - Short Link: [http://oom.lt/FZSSPARKFUNCNS1X6SMF](http://oom.lt/FZSSPARKFUNCNS1X6SMF)

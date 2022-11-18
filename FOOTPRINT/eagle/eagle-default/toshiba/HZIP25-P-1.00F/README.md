@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-toshiba-HZIP25-P-1.00F
 - Hex ID: FZETOSHIBAHZIP25P1F
 - Name: toshiba : HZIP25-P-1.00F
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/toshiba/HZIP25-P-1.00F/
 - Description: toshiba : HZIP25-P-1.00F
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-toshiba-HZIP25-P-1.00F](http://oom.lt/FOOTPRINT-eagle-eagle-default-toshiba-HZIP25-P-1.00F)
 - Short Link: [http://oom.lt/FZETOSHIBAHZIP25P1F](http://oom.lt/FZETOSHIBAHZIP25P1F)

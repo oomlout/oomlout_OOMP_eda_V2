@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKDDMMELFHANDSOLDERING > Diode_SMD : D_MiniMELF_Handsoldering](#fzkddmmelfhandsoldering--diode_smd--d_minimelf_handsoldering)
+* [FZKDDMMELFHS > Diode_SMD : D_MiniMELF_Handsoldering](#fzkddmmelfhs--diode_smd--d_minimelf_handsoldering)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKDDMMELFHANDSOLDERING > Diode_SMD : D_MiniMELF_Handsoldering
+# FZKDDMMELFHS > Diode_SMD : D_MiniMELF_Handsoldering
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_MiniMELF_Handsoldering
-- Hex ID: FZKDDMMELFHANDSOLDERING
+- Hex ID: FZKDDMMELFHS
 - Name: Diode_SMD : D_MiniMELF_Handsoldering
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Diode_SMD/D_MiniMELF_Handsoldering/
 - Description: Diode_SMD : D_MiniMELF_Handsoldering
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_MiniMELF_Handsoldering](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_MiniMELF_Handsoldering)
-- Short Link: [http://oom.lt/FZKDDMMELFHANDSOLDERING](http://oom.lt/FZKDDMMELFHANDSOLDERING)
+- Short Link: [http://oom.lt/FZKDDMMELFHS](http://oom.lt/FZKDDMMELFHS)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Diode_SMD|
 |OOMP Index|oompIndex|D_MiniMELF_Handsoldering|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_MiniMELF_Handsoldering|
-|Hex ID (short code)|hexID|FZKDDMMELFHANDSOLDERING|
+|Hex ID (short code)|hexID|FZKDDMMELFHS|
 |name|name|Diode_SMD : D_MiniMELF_Handsoldering|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'D_MiniMELF_Handsoldering'</td><td> 'description'</td></tr><tr><td> 'Diode Mini-MELF (SOD-80) Handsoldering'</td><td> 'tags'</td></tr><tr><td> 'Diode Mini-MELF (SOD-80) Handsoldering'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Diode_SMD.3dshapes/D_MiniMELF.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

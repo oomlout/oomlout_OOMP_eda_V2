@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-SW_SPST_PTS645
 - Hex ID: FZKBSWSPSTPTS645
 - Name: Button_Switch_SMD : SW_SPST_PTS645
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Button_Switch_SMD/SW_SPST_PTS645/
 - Description: Button_Switch_SMD : SW_SPST_PTS645
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-SW_SPST_PTS645](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-SW_SPST_PTS645)
 - Short Link: [http://oom.lt/FZKBSWSPSTPTS645](http://oom.lt/FZKBSWSPSTPTS645)

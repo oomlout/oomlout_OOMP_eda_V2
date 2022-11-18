@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Switch_Tactile_THT_6x6mm_MJTP1230
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSSWTTHT6X6MJTP123
 - Name: digikey-footprints : Switch_Tactile_THT_6x6mm_MJTP1230
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Switch_Tactile_THT_6x6mm_MJTP1230/
 - Description: digikey-footprints : Switch_Tactile_THT_6x6mm_MJTP1230
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Switch_Tactile_THT_6x6mm_MJTP1230](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Switch_Tactile_THT_6x6mm_MJTP1230)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSSWTTHT6X6MJTP123](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSSWTTHT6X6MJTP123)

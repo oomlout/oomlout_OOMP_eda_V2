@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZDIGIDIGIKEYFOOTPRINTSPINHEADER1X4P254DRILL1 > digikey-footprints : PinHeader_1x40_P2.54_Drill1mm](#fzdigidigikeyfootprintspinheader1x4p254drill1--digikey-footprints--pinheader_1x40_p254_drill1mm)
+* [FZDIGIDIGIKEYFOOTPRINTSPH1X4P254DRILL1 > digikey-footprints : PinHeader_1x40_P2.54_Drill1mm](#fzdigidigikeyfootprintsph1x4p254drill1--digikey-footprints--pinheader_1x40_p254_drill1mm)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZDIGIDIGIKEYFOOTPRINTSPINHEADER1X4P254DRILL1 > digikey-footprints : PinHeader_1x40_P2.54_Drill1mm
+# FZDIGIDIGIKEYFOOTPRINTSPH1X4P254DRILL1 > digikey-footprints : PinHeader_1x40_P2.54_Drill1mm
 
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-PinHeader_1x40_P2.54_Drill1mm
-- Hex ID: FZDIGIDIGIKEYFOOTPRINTSPINHEADER1X4P254DRILL1
+- Hex ID: FZDIGIDIGIKEYFOOTPRINTSPH1X4P254DRILL1
 - Name: digikey-footprints : PinHeader_1x40_P2.54_Drill1mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/PinHeader_1x40_P2.54_Drill1mm/
 - Description: digikey-footprints : PinHeader_1x40_P2.54_Drill1mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-PinHeader_1x40_P2.54_Drill1mm](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-PinHeader_1x40_P2.54_Drill1mm)
-- Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSPINHEADER1X4P254DRILL1](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSPINHEADER1X4P254DRILL1)
+- Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSPH1X4P254DRILL1](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSPH1X4P254DRILL1)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|digikey-footprints|
 |OOMP Index|oompIndex|PinHeader_1x40_P2.54_Drill1mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-PinHeader_1x40_P2.54_Drill1mm|
-|Hex ID (short code)|hexID|FZDIGIDIGIKEYFOOTPRINTSPINHEADER1X4P254DRILL1|
+|Hex ID (short code)|hexID|FZDIGIDIGIKEYFOOTPRINTSPH1X4P254DRILL1|
 |name|name|digikey-footprints : PinHeader_1x40_P2.54_Drill1mm|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'PinHeader_1x40_P2.54_Drill1mm'</td><td> 'description'</td></tr><tr><td> 'https</td></tr><tr><td>//media.digikey.com/PDF/Data%20Sheets/Sullins%20PDFs/xRxCzzzSxxN-RC_ST_11635-B.pdf'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> None</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-opto-honeywell-3000-AAA-3
 - Hex ID: FZEOPTOHONEYWELL3AAA3
 - Name: opto-honeywell-3000 : AAA-3
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/opto-honeywell-3000/AAA-3/
 - Description: opto-honeywell-3000 : AAA-3
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-opto-honeywell-3000-AAA-3](http://oom.lt/FOOTPRINT-eagle-eagle-default-opto-honeywell-3000-AAA-3)
 - Short Link: [http://oom.lt/FZEOPTOHONEYWELL3AAA3](http://oom.lt/FZEOPTOHONEYWELL3AAA3)

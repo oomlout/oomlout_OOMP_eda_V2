@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-transistor-npn-TO18A
 - Hex ID: FZETRANSISTORNPNTO18A
 - Name: transistor-npn : TO18A
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/transistor-npn/TO18A/
 - Description: transistor-npn : TO18A
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-npn-TO18A](http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-npn-TO18A)
 - Short Link: [http://oom.lt/FZETRANSISTORNPNTO18A](http://oom.lt/FZETRANSISTORNPNTO18A)

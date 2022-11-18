@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Device-LED_GBAR
 - Hex ID: SZKDEVICELGBAR
 - Name: Device : LED_GBAR
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/LED_GBAR/
 - Description: Device : LED_GBAR
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-LED_GBAR](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-LED_GBAR)
 - Short Link: [http://oom.lt/SZKDEVICELGBAR](http://oom.lt/SZKDEVICELGBAR)

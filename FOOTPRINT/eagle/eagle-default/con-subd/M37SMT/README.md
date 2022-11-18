@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-subd-M37SMT
 - Hex ID: FZECONSUBDM37SMT
 - Name: con-subd : M37SMT
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-subd/M37SMT/
 - Description: con-subd : M37SMT
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-subd-M37SMT](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-subd-M37SMT)
 - Short Link: [http://oom.lt/FZECONSUBDM37SMT](http://oom.lt/FZECONSUBDM37SMT)

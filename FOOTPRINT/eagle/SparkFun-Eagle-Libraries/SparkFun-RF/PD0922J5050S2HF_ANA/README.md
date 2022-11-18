@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-PD0922J5050S2HF_ANA
 - Hex ID: FZSRFPD922J55S2HFANA
 - Name: SparkFun-RF : PD0922J5050S2HF_ANA
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-RF/PD0922J5050S2HF_ANA/
 - Description: SparkFun-RF : PD0922J5050S2HF_ANA
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-PD0922J5050S2HF_ANA](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-PD0922J5050S2HF_ANA)
 - Short Link: [http://oom.lt/FZSRFPD922J55S2HFANA](http://oom.lt/FZSRFPD922J55S2HFANA)

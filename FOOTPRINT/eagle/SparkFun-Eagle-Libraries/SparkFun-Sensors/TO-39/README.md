@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-TO-39
 - Hex ID: FZSSPARKFUNSENSTO39
 - Name: SparkFun-Sensors : TO-39
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Sensors/TO-39/
 - Description: SparkFun-Sensors : TO-39
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-TO-39](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-TO-39)
 - Short Link: [http://oom.lt/FZSSPARKFUNSENSTO39](http://oom.lt/FZSSPARKFUNSENSTO39)

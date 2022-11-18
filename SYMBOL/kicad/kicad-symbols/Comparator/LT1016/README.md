@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Comparator-LT1016
 - Hex ID: SZKCOMPARATORLT116
 - Name: Comparator : LT1016
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Comparator/LT1016/
 - Description: Comparator : LT1016
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Comparator-LT1016](http://oom.lt/SYMBOL-kicad-kicad-symbols-Comparator-LT1016)
 - Short Link: [http://oom.lt/SZKCOMPARATORLT116](http://oom.lt/SZKCOMPARATORLT116)

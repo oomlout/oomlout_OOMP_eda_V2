@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-relay-K2-PS
 - Hex ID: FZERELAYK2PS
 - Name: relay : K2-PS
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/relay/K2-PS/
 - Description: relay : K2-PS
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-K2-PS](http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-K2-PS)
 - Short Link: [http://oom.lt/FZERELAYK2PS](http://oom.lt/FZERELAYK2PS)

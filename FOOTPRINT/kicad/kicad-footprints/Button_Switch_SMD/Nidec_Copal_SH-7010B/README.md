@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-Nidec_Copal_SH-7010B
 - Hex ID: FZKBNIDECCOPALSH71B
 - Name: Button_Switch_SMD : Nidec_Copal_SH-7010B
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Button_Switch_SMD/Nidec_Copal_SH-7010B/
 - Description: Button_Switch_SMD : Nidec_Copal_SH-7010B
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-Nidec_Copal_SH-7010B](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-Nidec_Copal_SH-7010B)
 - Short Link: [http://oom.lt/FZKBNIDECCOPALSH71B](http://oom.lt/FZKBNIDECCOPALSH71B)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Connector-AVR-TPI-6
 - Hex ID: SZKCNAVRTPI6
 - Name: Connector : AVR-TPI-6
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector/AVR-TPI-6/
 - Description: Connector : AVR-TPI-6
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-AVR-TPI-6](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-AVR-TPI-6)
 - Short Link: [http://oom.lt/SZKCNAVRTPI6](http://oom.lt/SZKCNAVRTPI6)

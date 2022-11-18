@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC18-PIC18F1320-SO
 - Hex ID: SZKMCUMCHIPPIC18PIC18F132SO
 - Name: MCU_Microchip_PIC18 : PIC18F1320-SO
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC18/PIC18F1320-SO/
 - Description: MCU_Microchip_PIC18 : PIC18F1320-SO
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC18-PIC18F1320-SO](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC18-PIC18F1320-SO)
 - Short Link: [http://oom.lt/SZKMCUMCHIPPIC18PIC18F132SO](http://oom.lt/SZKMCUMCHIPPIC18PIC18F132SO)

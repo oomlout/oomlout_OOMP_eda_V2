@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-C3D1P7060Q
 - Hex ID: SZKDIODEC3D1P76Q
 - Name: Diode : C3D1P7060Q
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/C3D1P7060Q/
 - Description: Diode : C3D1P7060Q
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-C3D1P7060Q](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-C3D1P7060Q)
 - Short Link: [http://oom.lt/SZKDIODEC3D1P76Q](http://oom.lt/SZKDIODEC3D1P76Q)

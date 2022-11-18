@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-transistor-npn-TO92-BEC
 - Hex ID: FZETRANSISTORNPNTO92BEC
 - Name: transistor-npn : TO92-BEC
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/transistor-npn/TO92-BEC/
 - Description: transistor-npn : TO92-BEC
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-npn-TO92-BEC](http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-npn-TO92-BEC)
 - Short Link: [http://oom.lt/FZETRANSISTORNPNTO92BEC](http://oom.lt/FZETRANSISTORNPNTO92BEC)

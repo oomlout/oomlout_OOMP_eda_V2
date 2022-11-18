@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-microphon-WM-62PC_62PK
 - Hex ID: FZEMPHONWM62PC62PK
 - Name: microphon : WM-62PC_62PK
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/microphon/WM-62PC_62PK/
 - Description: microphon : WM-62PC_62PK
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-microphon-WM-62PC_62PK](http://oom.lt/FOOTPRINT-eagle-eagle-default-microphon-WM-62PC_62PK)
 - Short Link: [http://oom.lt/FZEMPHONWM62PC62PK](http://oom.lt/FZEMPHONWM62PC62PK)

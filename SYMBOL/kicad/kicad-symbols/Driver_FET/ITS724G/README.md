@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Driver_FET-ITS724G
 - Hex ID: SZKDRIVERFETITS724G
 - Name: Driver_FET : ITS724G
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Driver_FET/ITS724G/
 - Description: Driver_FET : ITS724G
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-ITS724G](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-ITS724G)
 - Short Link: [http://oom.lt/SZKDRIVERFETITS724G](http://oom.lt/SZKDRIVERFETITS724G)

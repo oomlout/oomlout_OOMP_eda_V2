@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEREFPACKAGESPQFP196 > ref-packages : PQFP196](#fzerefpackagespqfp196--ref-packages--pqfp196)
+* [FZEREFPSPQFP196 > ref-packages : PQFP196](#fzerefpspqfp196--ref-packages--pqfp196)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEREFPACKAGESPQFP196 > ref-packages : PQFP196
+# FZEREFPSPQFP196 > ref-packages : PQFP196
 
 - ID: FOOTPRINT-eagle-eagle-default-ref-packages-PQFP196
-- Hex ID: FZEREFPACKAGESPQFP196
+- Hex ID: FZEREFPSPQFP196
 - Name: ref-packages : PQFP196
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ref-packages/PQFP196/
 - Description: ref-packages : PQFP196
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-PQFP196](http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-PQFP196)
-- Short Link: [http://oom.lt/FZEREFPACKAGESPQFP196](http://oom.lt/FZEREFPACKAGESPQFP196)
+- Short Link: [http://oom.lt/FZEREFPSPQFP196](http://oom.lt/FZEREFPSPQFP196)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|ref-packages|
 |OOMP Index|oompIndex|PQFP196|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-ref-packages-PQFP196|
-|Hex ID (short code)|hexID|FZEREFPACKAGESPQFP196|
+|Hex ID (short code)|hexID|FZEREFPSPQFP196|
 |name|name|ref-packages : PQFP196|
 ||||

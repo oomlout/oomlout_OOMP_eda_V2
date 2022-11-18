@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_AVR_Dx-AVR64DA28x-xSS
 - Hex ID: SZKMCUMCHIPAVRDXAVR64DA28XXSS
 - Name: MCU_Microchip_AVR_Dx : AVR64DA28x-xSS
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_AVR_Dx/AVR64DA28x-xSS/
 - Description: MCU_Microchip_AVR_Dx : AVR64DA28x-xSS
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_AVR_Dx-AVR64DA28x-xSS](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_AVR_Dx-AVR64DA28x-xSS)
 - Short Link: [http://oom.lt/SZKMCUMCHIPAVRDXAVR64DA28XXSS](http://oom.lt/SZKMCUMCHIPAVRDXAVR64DA28XXSS)

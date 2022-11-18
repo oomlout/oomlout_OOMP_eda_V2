@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-on-semiconductor-FLIP-CHIP9
 - Hex ID: FZEONSEMICONDUCTORFLIPCHIP9
 - Name: on-semiconductor : FLIP-CHIP9
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/on-semiconductor/FLIP-CHIP9/
 - Description: on-semiconductor : FLIP-CHIP9
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-on-semiconductor-FLIP-CHIP9](http://oom.lt/FOOTPRINT-eagle-eagle-default-on-semiconductor-FLIP-CHIP9)
 - Short Link: [http://oom.lt/FZEONSEMICONDUCTORFLIPCHIP9](http://oom.lt/FZEONSEMICONDUCTORFLIPCHIP9)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-phoenix-762-GMSTBA10
 - Hex ID: FZECONPHOENIX762GMSTBA1
 - Name: con-phoenix-762 : GMSTBA10
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-phoenix-762/GMSTBA10/
 - Description: con-phoenix-762 : GMSTBA10
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-phoenix-762-GMSTBA10](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-phoenix-762-GMSTBA10)
 - Short Link: [http://oom.lt/FZECONPHOENIX762GMSTBA1](http://oom.lt/FZECONPHOENIX762GMSTBA1)

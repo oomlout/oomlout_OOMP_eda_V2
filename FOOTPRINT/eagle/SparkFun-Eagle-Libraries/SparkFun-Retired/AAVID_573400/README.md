@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-AAVID_573400
 - Hex ID: FZSRTAAVID5734
 - Name: SparkFun-Retired : AAVID_573400
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Retired/AAVID_573400/
 - Description: SparkFun-Retired : AAVID_573400
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-AAVID_573400](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-AAVID_573400)
 - Short Link: [http://oom.lt/FZSRTAAVID5734](http://oom.lt/FZSRTAAVID5734)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_DirectFET-DirectFET_MF
 - Hex ID: FZKDFETDIRECTFETMF
 - Name: Package_DirectFET : DirectFET_MF
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DirectFET/DirectFET_MF/
 - Description: Package_DirectFET : DirectFET_MF
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DirectFET-DirectFET_MF](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DirectFET-DirectFET_MF)
 - Short Link: [http://oom.lt/FZKDFETDIRECTFETMF](http://oom.lt/FZKDFETDIRECTFETMF)

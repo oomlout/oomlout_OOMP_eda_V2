@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Connector-Mini-DIN-6
 - Hex ID: SZKCNMDIN6
 - Name: Connector : Mini-DIN-6
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector/Mini-DIN-6/
 - Description: Connector : Mini-DIN-6
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-Mini-DIN-6](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-Mini-DIN-6)
 - Short Link: [http://oom.lt/SZKCNMDIN6](http://oom.lt/SZKCNMDIN6)

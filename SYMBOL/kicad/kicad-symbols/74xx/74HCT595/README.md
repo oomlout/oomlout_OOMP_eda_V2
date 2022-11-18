@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-74xx-74HCT595
 - Hex ID: SZK74XX74HCT595
 - Name: 74xx : 74HCT595
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/74xx/74HCT595/
 - Description: 74xx : 74HCT595
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-74xx-74HCT595](http://oom.lt/SYMBOL-kicad-kicad-symbols-74xx-74HCT595)
 - Short Link: [http://oom.lt/SZK74XX74HCT595](http://oom.lt/SZK74XX74HCT595)

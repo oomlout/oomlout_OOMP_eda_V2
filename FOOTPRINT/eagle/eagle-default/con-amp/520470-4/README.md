@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-amp-520470-4
 - Hex ID: FZECONAMP52474
 - Name: con-amp : 520470-4
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-amp/520470-4/
 - Description: con-amp : 520470-4
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-amp-520470-4](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-amp-520470-4)
 - Short Link: [http://oom.lt/FZECONAMP52474](http://oom.lt/FZECONAMP52474)

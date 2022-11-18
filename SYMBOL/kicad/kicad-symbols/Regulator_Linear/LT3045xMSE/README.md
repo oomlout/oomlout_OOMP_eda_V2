@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-LT3045xMSE
 - Hex ID: SZKREGULATORLINEARLT345XMSE
 - Name: Regulator_Linear : LT3045xMSE
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LT3045xMSE/
 - Description: Regulator_Linear : LT3045xMSE
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LT3045xMSE](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LT3045xMSE)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARLT345XMSE](http://oom.lt/SZKREGULATORLINEARLT345XMSE)

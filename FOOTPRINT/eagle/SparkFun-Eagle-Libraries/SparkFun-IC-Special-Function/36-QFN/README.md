@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Special-Function-36-QFN
 - Hex ID: FZSIS36QFN
 - Name: SparkFun-IC-Special-Function : 36-QFN
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-IC-Special-Function/36-QFN/
 - Description: SparkFun-IC-Special-Function : 36-QFN
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Special-Function-36-QFN](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Special-Function-36-QFN)
 - Short Link: [http://oom.lt/FZSIS36QFN](http://oom.lt/FZSIS36QFN)

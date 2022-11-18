@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-BINDING_POST
 - Hex ID: FZSSPARKFUNCNSBINDINGPOST
 - Name: SparkFun-Connectors : BINDING_POST
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Connectors/BINDING_POST/
 - Description: SparkFun-Connectors : BINDING_POST
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-BINDING_POST](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-BINDING_POST)
 - Short Link: [http://oom.lt/FZSSPARKFUNCNSBINDINGPOST](http://oom.lt/FZSSPARKFUNCNSBINDINGPOST)

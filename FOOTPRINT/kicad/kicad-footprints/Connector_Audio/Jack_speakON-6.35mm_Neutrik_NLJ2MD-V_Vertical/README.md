@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_Audio-Jack_speakON-6.35mm_Neutrik_NLJ2MD-V_Vertical
 - Hex ID: FZKCNAUDIOJSPEAKON635NEUTRIKNLJ2MDVF
 - Name: Connector_Audio : Jack_speakON-6.35mm_Neutrik_NLJ2MD-V_Vertical
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Audio/Jack_speakON-6.35mm_Neutrik_NLJ2MD-V_Vertical/
 - Description: Connector_Audio : Jack_speakON-6.35mm_Neutrik_NLJ2MD-V_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Audio-Jack_speakON-6.35mm_Neutrik_NLJ2MD-V_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Audio-Jack_speakON-6.35mm_Neutrik_NLJ2MD-V_Vertical)
 - Short Link: [http://oom.lt/FZKCNAUDIOJSPEAKON635NEUTRIKNLJ2MDVF](http://oom.lt/FZKCNAUDIOJSPEAKON635NEUTRIKNLJ2MDVF)

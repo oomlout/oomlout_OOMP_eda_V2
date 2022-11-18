@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-tyco-D1200D-16
 - Hex ID: FZECONTYCOD12D16
 - Name: con-tyco : D1200D-16
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-tyco/D1200D-16/
 - Description: con-tyco : D1200D-16
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-tyco-D1200D-16](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-tyco-D1200D-16)
 - Short Link: [http://oom.lt/FZECONTYCOD12D16](http://oom.lt/FZECONTYCOD12D16)

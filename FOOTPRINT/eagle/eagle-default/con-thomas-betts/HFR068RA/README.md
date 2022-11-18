@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-thomas-betts-HFR068RA
 - Hex ID: FZECONTHOMASBETTSHFR68RA
 - Name: con-thomas-betts : HFR068RA
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-thomas-betts/HFR068RA/
 - Description: con-thomas-betts : HFR068RA
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-thomas-betts-HFR068RA](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-thomas-betts-HFR068RA)
 - Short Link: [http://oom.lt/FZECONTHOMASBETTSHFR68RA](http://oom.lt/FZECONTHOMASBETTSHFR68RA)

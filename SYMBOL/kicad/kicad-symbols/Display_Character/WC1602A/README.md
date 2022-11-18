@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Display_Character-WC1602A
 - Hex ID: SZKDICHARACTERWC162A
 - Name: Display_Character : WC1602A
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Display_Character/WC1602A/
 - Description: Display_Character : WC1602A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-WC1602A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-WC1602A)
 - Short Link: [http://oom.lt/SZKDICHARACTERWC162A](http://oom.lt/SZKDICHARACTERWC162A)

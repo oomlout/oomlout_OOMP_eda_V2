@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEREFPACKAGESC2673 > ref-packages : C2673](#fzerefpackagesc2673--ref-packages--c2673)
+* [FZEREFPSC2673 > ref-packages : C2673](#fzerefpsc2673--ref-packages--c2673)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEREFPACKAGESC2673 > ref-packages : C2673
+# FZEREFPSC2673 > ref-packages : C2673
 
 - ID: FOOTPRINT-eagle-eagle-default-ref-packages-C2673
-- Hex ID: FZEREFPACKAGESC2673
+- Hex ID: FZEREFPSC2673
 - Name: ref-packages : C2673
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ref-packages/C2673/
 - Description: ref-packages : C2673
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-C2673](http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-C2673)
-- Short Link: [http://oom.lt/FZEREFPACKAGESC2673](http://oom.lt/FZEREFPACKAGESC2673)
+- Short Link: [http://oom.lt/FZEREFPSC2673](http://oom.lt/FZEREFPSC2673)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|ref-packages|
 |OOMP Index|oompIndex|C2673|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-ref-packages-C2673|
-|Hex ID (short code)|hexID|FZEREFPACKAGESC2673|
+|Hex ID (short code)|hexID|FZEREFPSC2673|
 |name|name|ref-packages : C2673|
 ||||

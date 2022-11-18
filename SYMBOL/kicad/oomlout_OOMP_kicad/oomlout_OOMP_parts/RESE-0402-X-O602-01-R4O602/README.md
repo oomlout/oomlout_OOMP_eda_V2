@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0402-X-O602-01-R4O602
 - Hex ID: SZOOMPKOOMPPRESE42XO621R4O62
 - Name: oomlout_OOMP_parts : RESE-0402-X-O602-01-R4O602
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/RESE-0402-X-O602-01-R4O602/
 - Description: oomlout_OOMP_parts : RESE-0402-X-O602-01-R4O602
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0402-X-O602-01-R4O602](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0402-X-O602-01-R4O602)
 - Short Link: [http://oom.lt/SZOOMPKOOMPPRESE42XO621R4O62](http://oom.lt/SZOOMPKOOMPPRESE42XO621R4O62)

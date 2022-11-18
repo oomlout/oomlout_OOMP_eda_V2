@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEREFPACKAGESH8C > ref-packages : H08C](#fzerefpackagesh8c--ref-packages--h08c)
+* [FZEREFPSH8C > ref-packages : H08C](#fzerefpsh8c--ref-packages--h08c)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEREFPACKAGESH8C > ref-packages : H08C
+# FZEREFPSH8C > ref-packages : H08C
 
 - ID: FOOTPRINT-eagle-eagle-default-ref-packages-H08C
-- Hex ID: FZEREFPACKAGESH8C
+- Hex ID: FZEREFPSH8C
 - Name: ref-packages : H08C
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ref-packages/H08C/
 - Description: ref-packages : H08C
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-H08C](http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-H08C)
-- Short Link: [http://oom.lt/FZEREFPACKAGESH8C](http://oom.lt/FZEREFPACKAGESH8C)
+- Short Link: [http://oom.lt/FZEREFPSH8C](http://oom.lt/FZEREFPSH8C)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|ref-packages|
 |OOMP Index|oompIndex|H08C|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-ref-packages-H08C|
-|Hex ID (short code)|hexID|FZEREFPACKAGESH8C|
+|Hex ID (short code)|hexID|FZEREFPSH8C|
 |name|name|ref-packages : H08C|
 ||||

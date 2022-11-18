@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-Diode_Bridge-KBPC2501T
 - Hex ID: SZKDIODEBRIDGEKBPC251T
 - Name: Diode_Bridge : KBPC2501T
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode_Bridge/KBPC2501T/
 - Description: Diode_Bridge : KBPC2501T
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode_Bridge-KBPC2501T](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode_Bridge-KBPC2501T)
 - Short Link: [http://oom.lt/SZKDIODEBRIDGEKBPC251T](http://oom.lt/SZKDIODEBRIDGEKBPC251T)

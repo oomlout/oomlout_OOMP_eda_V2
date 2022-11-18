@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-diode-SOD87-R
 - Hex ID: FZEDIODESOD87R
 - Name: diode : SOD87-R
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/diode/SOD87-R/
 - Description: diode : SOD87-R
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-diode-SOD87-R](http://oom.lt/FOOTPRINT-eagle-eagle-default-diode-SOD87-R)
 - Short Link: [http://oom.lt/FZEDIODESOD87R](http://oom.lt/FZEDIODESOD87R)

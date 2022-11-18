@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-fuse-TE5
 - Hex ID: FZEFUTE5
 - Name: fuse : TE5
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/fuse/TE5/
 - Description: fuse : TE5
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-fuse-TE5](http://oom.lt/FOOTPRINT-eagle-eagle-default-fuse-TE5)
 - Short Link: [http://oom.lt/FZEFUTE5](http://oom.lt/FZEFUTE5)

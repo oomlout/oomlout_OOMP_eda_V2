@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-relay-SF4D
 - Hex ID: FZERELAYSF4D
 - Name: relay : SF4D
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/relay/SF4D/
 - Description: relay : SF4D
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-SF4D](http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-SF4D)
 - Short Link: [http://oom.lt/FZERELAYSF4D](http://oom.lt/FZERELAYSF4D)

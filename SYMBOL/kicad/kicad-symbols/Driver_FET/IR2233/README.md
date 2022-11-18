@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Driver_FET-IR2233
 - Hex ID: SZKDRIVERFETIR2233
 - Name: Driver_FET : IR2233
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Driver_FET/IR2233/
 - Description: Driver_FET : IR2233
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-IR2233](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-IR2233)
 - Short Link: [http://oom.lt/SZKDRIVERFETIR2233](http://oom.lt/SZKDRIVERFETIR2233)

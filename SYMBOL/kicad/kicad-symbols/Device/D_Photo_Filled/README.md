@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Device-D_Photo_Filled
 - Hex ID: SZKDEVICEDPHOTOFILL
 - Name: Device : D_Photo_Filled
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/D_Photo_Filled/
 - Description: Device : D_Photo_Filled
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-D_Photo_Filled](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-D_Photo_Filled)
 - Short Link: [http://oom.lt/SZKDEVICEDPHOTOFILL](http://oom.lt/SZKDEVICEDPHOTOFILL)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Motor-Fan_PC_Chassis
 - Hex ID: SZKMOTORFANPCCHASSIS
 - Name: Motor : Fan_PC_Chassis
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Motor/Fan_PC_Chassis/
 - Description: Motor : Fan_PC_Chassis
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Motor-Fan_PC_Chassis](http://oom.lt/SYMBOL-kicad-kicad-symbols-Motor-Fan_PC_Chassis)
 - Short Link: [http://oom.lt/SZKMOTORFANPCCHASSIS](http://oom.lt/SZKMOTORFANPCCHASSIS)

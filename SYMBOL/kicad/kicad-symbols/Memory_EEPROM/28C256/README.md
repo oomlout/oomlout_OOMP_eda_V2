@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Memory_EEPROM-28C256
 - Hex ID: SZKMEMORYEEPROM28C256
 - Name: Memory_EEPROM : 28C256
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Memory_EEPROM/28C256/
 - Description: Memory_EEPROM : 28C256
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_EEPROM-28C256](http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_EEPROM-28C256)
 - Short Link: [http://oom.lt/SZKMEMORYEEPROM28C256](http://oom.lt/SZKMEMORYEEPROM28C256)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-switch-raychem-SMD050F
 - Hex ID: FZESWRAYCHEMSM5F
 - Name: switch-raychem : SMD050F
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/switch-raychem/SMD050F/
 - Description: switch-raychem : SMD050F
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-raychem-SMD050F](http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-raychem-SMD050F)
 - Short Link: [http://oom.lt/FZESWRAYCHEMSM5F](http://oom.lt/FZESWRAYCHEMSM5F)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-SW_SP3T_PCM13
 - Hex ID: FZKBSWSP3TPCM13
 - Name: Button_Switch_SMD : SW_SP3T_PCM13
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Button_Switch_SMD/SW_SP3T_PCM13/
 - Description: Button_Switch_SMD : SW_SP3T_PCM13
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-SW_SP3T_PCM13](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-SW_SP3T_PCM13)
 - Short Link: [http://oom.lt/FZKBSWSP3TPCM13](http://oom.lt/FZKBSWSP3TPCM13)

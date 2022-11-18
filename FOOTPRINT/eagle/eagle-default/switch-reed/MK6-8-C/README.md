@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-switch-reed-MK6-8-C
 - Hex ID: FZESWREEDMK68C
 - Name: switch-reed : MK6-8-C
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/switch-reed/MK6-8-C/
 - Description: switch-reed : MK6-8-C
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-reed-MK6-8-C](http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-reed-MK6-8-C)
 - Short Link: [http://oom.lt/FZESWREEDMK68C](http://oom.lt/FZESWREEDMK68C)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-linear-ZIP21-SLA
 - Hex ID: FZELINEARZIP21SLA
 - Name: linear : ZIP21-SLA
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/linear/ZIP21-SLA/
 - Description: linear : ZIP21-SLA
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-linear-ZIP21-SLA](http://oom.lt/FOOTPRINT-eagle-eagle-default-linear-ZIP21-SLA)
 - Short Link: [http://oom.lt/FZELINEARZIP21SLA](http://oom.lt/FZELINEARZIP21SLA)

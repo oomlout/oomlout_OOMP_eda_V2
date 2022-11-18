@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-pc-ISA-16
 - Hex ID: FZECONPCISA16
 - Name: con-pc : ISA-16
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-pc/ISA-16/
 - Description: con-pc : ISA-16
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-pc-ISA-16](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-pc-ISA-16)
 - Short Link: [http://oom.lt/FZECONPCISA16](http://oom.lt/FZECONPCISA16)

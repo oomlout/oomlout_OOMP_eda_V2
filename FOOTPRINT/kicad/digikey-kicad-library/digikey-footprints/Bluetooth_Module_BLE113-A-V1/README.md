@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Bluetooth_Module_BLE113-A-V1
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSBLUETOOTHMOBLE113AV1
 - Name: digikey-footprints : Bluetooth_Module_BLE113-A-V1
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Bluetooth_Module_BLE113-A-V1/
 - Description: digikey-footprints : Bluetooth_Module_BLE113-A-V1
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Bluetooth_Module_BLE113-A-V1](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Bluetooth_Module_BLE113-A-V1)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSBLUETOOTHMOBLE113AV1](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSBLUETOOTHMOBLE113AV1)

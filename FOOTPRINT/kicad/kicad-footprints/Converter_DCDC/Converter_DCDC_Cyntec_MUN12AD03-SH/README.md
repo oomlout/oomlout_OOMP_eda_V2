@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Converter_DCDC-Converter_DCDC_Cyntec_MUN12AD03-SH
 - Hex ID: FZKCONCONCYNTECMUN12AD3SH
 - Name: Converter_DCDC : Converter_DCDC_Cyntec_MUN12AD03-SH
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Converter_DCDC/Converter_DCDC_Cyntec_MUN12AD03-SH/
 - Description: Converter_DCDC : Converter_DCDC_Cyntec_MUN12AD03-SH
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Converter_DCDC-Converter_DCDC_Cyntec_MUN12AD03-SH](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Converter_DCDC-Converter_DCDC_Cyntec_MUN12AD03-SH)
 - Short Link: [http://oom.lt/FZKCONCONCYNTECMUN12AD3SH](http://oom.lt/FZKCONCONCYNTECMUN12AD3SH)

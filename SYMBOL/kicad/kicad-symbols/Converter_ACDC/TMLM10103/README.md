@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Converter_ACDC-TMLM10103
 - Hex ID: SZKCONTMLM113
 - Name: Converter_ACDC : TMLM10103
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Converter_ACDC/TMLM10103/
 - Description: Converter_ACDC : TMLM10103
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_ACDC-TMLM10103](http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_ACDC-TMLM10103)
 - Short Link: [http://oom.lt/SZKCONTMLM113](http://oom.lt/SZKCONTMLM113)

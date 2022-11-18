@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-TCM8240MD
 - Hex ID: FZSSPARKFUNSENSTCM824MD
 - Name: SparkFun-Sensors : TCM8240MD
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Sensors/TCM8240MD/
 - Description: SparkFun-Sensors : TCM8240MD
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-TCM8240MD](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-TCM8240MD)
 - Short Link: [http://oom.lt/FZSSPARKFUNSENSTCM824MD](http://oom.lt/FZSSPARKFUNSENSTCM824MD)

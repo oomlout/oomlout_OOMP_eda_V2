@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Connector-RJ41
 - Hex ID: SZKCNRJ41
 - Name: Connector : RJ41
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector/RJ41/
 - Description: Connector : RJ41
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-RJ41](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-RJ41)
 - Short Link: [http://oom.lt/SZKCNRJ41](http://oom.lt/SZKCNRJ41)

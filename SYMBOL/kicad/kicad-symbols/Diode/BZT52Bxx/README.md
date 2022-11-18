@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-BZT52Bxx
 - Hex ID: SZKDIODEBZT52BXX
 - Name: Diode : BZT52Bxx
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/BZT52Bxx/
 - Description: Diode : BZT52Bxx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-BZT52Bxx](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-BZT52Bxx)
 - Short Link: [http://oom.lt/SZKDIODEBZT52BXX](http://oom.lt/SZKDIODEBZT52BXX)

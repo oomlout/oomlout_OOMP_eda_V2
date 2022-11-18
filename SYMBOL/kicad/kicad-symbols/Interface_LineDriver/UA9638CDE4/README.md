@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_LineDriver-UA9638CDE4
 - Hex ID: SZKINTERFACELINEDRIVERUA9638CDE4
 - Name: Interface_LineDriver : UA9638CDE4
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_LineDriver/UA9638CDE4/
 - Description: Interface_LineDriver : UA9638CDE4
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_LineDriver-UA9638CDE4](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_LineDriver-UA9638CDE4)
 - Short Link: [http://oom.lt/SZKINTERFACELINEDRIVERUA9638CDE4](http://oom.lt/SZKINTERFACELINEDRIVERUA9638CDE4)

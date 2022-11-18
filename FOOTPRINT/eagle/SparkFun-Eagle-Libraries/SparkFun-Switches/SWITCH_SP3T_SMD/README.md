@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Switches-SWITCH_SP3T_SMD
 - Hex ID: FZSWSWSP3TSM
 - Name: SparkFun-Switches : SWITCH_SP3T_SMD
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Switches/SWITCH_SP3T_SMD/
 - Description: SparkFun-Switches : SWITCH_SP3T_SMD
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Switches-SWITCH_SP3T_SMD](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Switches-SWITCH_SP3T_SMD)
 - Short Link: [http://oom.lt/FZSWSWSP3TSM](http://oom.lt/FZSWSWSP3TSM)

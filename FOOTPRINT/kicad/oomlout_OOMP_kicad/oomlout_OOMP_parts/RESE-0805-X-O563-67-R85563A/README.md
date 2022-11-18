@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0805-X-O563-67-R85563A
 - Hex ID: FZOOMPKOOMPPRESE85XO56367R85563A
 - Name: oomlout_OOMP_parts : RESE-0805-X-O563-67-R85563A
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/RESE-0805-X-O563-67-R85563A/
 - Description: oomlout_OOMP_parts : RESE-0805-X-O563-67-R85563A
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0805-X-O563-67-R85563A](http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0805-X-O563-67-R85563A)
 - Short Link: [http://oom.lt/FZOOMPKOOMPPRESE85XO56367R85563A](http://oom.lt/FZOOMPKOOMPPRESE85XO56367R85563A)

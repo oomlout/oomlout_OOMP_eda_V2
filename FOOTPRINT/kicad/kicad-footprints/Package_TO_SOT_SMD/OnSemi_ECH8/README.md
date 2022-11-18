@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-OnSemi_ECH8
 - Hex ID: FZKSOTONSEMIECH8
 - Name: Package_TO_SOT_SMD : OnSemi_ECH8
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/OnSemi_ECH8/
 - Description: Package_TO_SOT_SMD : OnSemi_ECH8
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-OnSemi_ECH8](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-OnSemi_ECH8)
 - Short Link: [http://oom.lt/FZKSOTONSEMIECH8](http://oom.lt/FZKSOTONSEMIECH8)

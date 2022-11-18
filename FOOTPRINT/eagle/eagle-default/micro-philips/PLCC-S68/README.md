@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-micro-philips-PLCC-S68
 - Hex ID: FZEMPHILIPSPLCCS68
 - Name: micro-philips : PLCC-S68
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/micro-philips/PLCC-S68/
 - Description: micro-philips : PLCC-S68
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-philips-PLCC-S68](http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-philips-PLCC-S68)
 - Short Link: [http://oom.lt/FZEMPHILIPSPLCCS68](http://oom.lt/FZEMPHILIPSPLCCS68)

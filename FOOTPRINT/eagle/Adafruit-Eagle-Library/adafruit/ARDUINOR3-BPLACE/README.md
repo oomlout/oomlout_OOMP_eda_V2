@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-ARDUINOR3-BPLACE
 - Hex ID: FZAARDR3BPLACE
 - Name: adafruit : ARDUINOR3-BPLACE
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/ARDUINOR3-BPLACE/
 - Description: adafruit : ARDUINOR3-BPLACE
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-ARDUINOR3-BPLACE](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-ARDUINOR3-BPLACE)
 - Short Link: [http://oom.lt/FZAARDR3BPLACE](http://oom.lt/FZAARDR3BPLACE)

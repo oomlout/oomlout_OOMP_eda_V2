@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-FPGA_Microsemi-M2GL090T-FG484
 - Hex ID: SZKFPGAMSEMIM2GL9TFG484
 - Name: FPGA_Microsemi : M2GL090T-FG484
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/FPGA_Microsemi/M2GL090T-FG484/
 - Description: FPGA_Microsemi : M2GL090T-FG484
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-FPGA_Microsemi-M2GL090T-FG484](http://oom.lt/SYMBOL-kicad-kicad-symbols-FPGA_Microsemi-M2GL090T-FG484)
 - Short Link: [http://oom.lt/SZKFPGAMSEMIM2GL9TFG484](http://oom.lt/SZKFPGAMSEMIM2GL9TFG484)

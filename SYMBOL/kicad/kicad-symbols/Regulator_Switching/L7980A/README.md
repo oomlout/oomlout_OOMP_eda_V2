@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-L7980A
 - Hex ID: SZKREGULATORSWINGL798A
 - Name: Regulator_Switching : L7980A
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/L7980A/
 - Description: Regulator_Switching : L7980A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-L7980A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-L7980A)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGL798A](http://oom.lt/SZKREGULATORSWINGL798A)

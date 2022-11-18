@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKRFMOATMELATSAMR21G18MR21UANORFPADS > RF_Module : Atmel_ATSAMR21G18-MR210UA_NoRFPads](#fzkrfmoatmelatsamr21g18mr21uanorfpads--rf_module--atmel_atsamr21g18-mr210ua_norfpads)
+* [FZKRFMOATMELATSAMR21G18MR21UANORFPS > RF_Module : Atmel_ATSAMR21G18-MR210UA_NoRFPads](#fzkrfmoatmelatsamr21g18mr21uanorfps--rf_module--atmel_atsamr21g18-mr210ua_norfpads)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKRFMOATMELATSAMR21G18MR21UANORFPADS > RF_Module : Atmel_ATSAMR21G18-MR210UA_NoRFPads
+# FZKRFMOATMELATSAMR21G18MR21UANORFPS > RF_Module : Atmel_ATSAMR21G18-MR210UA_NoRFPads
 
 - ID: FOOTPRINT-kicad-kicad-footprints-RF_Module-Atmel_ATSAMR21G18-MR210UA_NoRFPads
-- Hex ID: FZKRFMOATMELATSAMR21G18MR21UANORFPADS
+- Hex ID: FZKRFMOATMELATSAMR21G18MR21UANORFPS
 - Name: RF_Module : Atmel_ATSAMR21G18-MR210UA_NoRFPads
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/RF_Module/Atmel_ATSAMR21G18-MR210UA_NoRFPads/
 - Description: RF_Module : Atmel_ATSAMR21G18-MR210UA_NoRFPads
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_Module-Atmel_ATSAMR21G18-MR210UA_NoRFPads](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_Module-Atmel_ATSAMR21G18-MR210UA_NoRFPads)
-- Short Link: [http://oom.lt/FZKRFMOATMELATSAMR21G18MR21UANORFPADS](http://oom.lt/FZKRFMOATMELATSAMR21G18MR21UANORFPADS)
+- Short Link: [http://oom.lt/FZKRFMOATMELATSAMR21G18MR21UANORFPS](http://oom.lt/FZKRFMOATMELATSAMR21G18MR21UANORFPS)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|RF_Module|
 |OOMP Index|oompIndex|Atmel_ATSAMR21G18-MR210UA_NoRFPads|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-RF_Module-Atmel_ATSAMR21G18-MR210UA_NoRFPads|
-|Hex ID (short code)|hexID|FZKRFMOATMELATSAMR21G18MR21UANORFPADS|
+|Hex ID (short code)|hexID|FZKRFMOATMELATSAMR21G18MR21UANORFPS|
 |name|name|RF_Module : Atmel_ATSAMR21G18-MR210UA_NoRFPads|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Atmel_ATSAMR21G18-MR210UA_NoRFPads'</td><td> 'description'</td></tr><tr><td> 'http</td></tr><tr><td>//ww1.microchip.com/downloads/en/devicedoc/atmel-42475-atsamr21g18-mr210ua_datasheet.pdf'</td><td> 'tags'</td></tr><tr><td> 'module wireless zigbee 802.15.4 flash crypto ATSAMR21G18 AT45DB041E  TECC508A U.Fi'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/RF_Module.3dshapes/Atmel_ATSAMR21G18-MR210UA_NoRFPads.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

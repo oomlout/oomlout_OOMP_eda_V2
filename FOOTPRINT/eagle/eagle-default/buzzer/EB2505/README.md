@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-buzzer-EB2505
 - Hex ID: FZEBUZZEREB255
 - Name: buzzer : EB2505
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/buzzer/EB2505/
 - Description: buzzer : EB2505
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-buzzer-EB2505](http://oom.lt/FOOTPRINT-eagle-eagle-default-buzzer-EB2505)
 - Short Link: [http://oom.lt/FZEBUZZEREB255](http://oom.lt/FZEBUZZEREB255)

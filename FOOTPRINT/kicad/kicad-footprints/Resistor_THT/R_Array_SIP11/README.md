@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Resistor_THT-R_Array_SIP11
 - Hex ID: FZKRRARRAYSIP11
 - Name: Resistor_THT : R_Array_SIP11
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Resistor_THT/R_Array_SIP11/
 - Description: Resistor_THT : R_Array_SIP11
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Resistor_THT-R_Array_SIP11](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Resistor_THT-R_Array_SIP11)
 - Short Link: [http://oom.lt/FZKRRARRAYSIP11](http://oom.lt/FZKRRARRAYSIP11)

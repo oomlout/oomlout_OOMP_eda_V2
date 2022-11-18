@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-linear-K08A
 - Hex ID: FZELINEARK8A
 - Name: linear : K08A
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/linear/K08A/
 - Description: linear : K08A
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-linear-K08A](http://oom.lt/FOOTPRINT-eagle-eagle-default-linear-K08A)
 - Short Link: [http://oom.lt/FZELINEARK8A](http://oom.lt/FZELINEARK8A)

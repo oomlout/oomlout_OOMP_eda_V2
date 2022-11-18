@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-RF_Mini-Circuits-Mini-Circuits_TTT167_LandPatternPL-079
 - Hex ID: FZKRFMCIRCUITSTTT167LANDPATTERNPL79
 - Name: RF_Mini-Circuits : Mini-Circuits_TTT167_LandPatternPL-079
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/RF_Mini-Circuits/Mini-Circuits_TTT167_LandPatternPL-079/
 - Description: RF_Mini-Circuits : Mini-Circuits_TTT167_LandPatternPL-079
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_Mini-Circuits-Mini-Circuits_TTT167_LandPatternPL-079](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_Mini-Circuits-Mini-Circuits_TTT167_LandPatternPL-079)
 - Short Link: [http://oom.lt/FZKRFMCIRCUITSTTT167LANDPATTERNPL79](http://oom.lt/FZKRFMCIRCUITSTTT167LANDPATTERNPL79)

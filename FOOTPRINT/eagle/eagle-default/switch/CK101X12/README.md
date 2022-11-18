@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-switch-CK101X12
 - Hex ID: FZESWCK11X12
 - Name: switch : CK101X12
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/switch/CK101X12/
 - Description: switch : CK101X12
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-CK101X12](http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-CK101X12)
 - Short Link: [http://oom.lt/FZESWCK11X12](http://oom.lt/FZESWCK11X12)

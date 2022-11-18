@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0805-X-PF3-V50-C8P3-C107115
 - Hex ID: FZOOMPKJLCCAPC85XPF3V5C8P3C17115
 - Name: oomlout_OOMP_JLCC_Basic : CAPC-0805-X-PF3-V50-C8P3-C107115
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_JLCC_Basic/CAPC-0805-X-PF3-V50-C8P3-C107115/
 - Description: oomlout_OOMP_JLCC_Basic : CAPC-0805-X-PF3-V50-C8P3-C107115
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0805-X-PF3-V50-C8P3-C107115](http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0805-X-PF3-V50-C8P3-C107115)
 - Short Link: [http://oom.lt/FZOOMPKJLCCAPC85XPF3V5C8P3C17115](http://oom.lt/FZOOMPKJLCCAPC85XPF3V5C8P3C17115)

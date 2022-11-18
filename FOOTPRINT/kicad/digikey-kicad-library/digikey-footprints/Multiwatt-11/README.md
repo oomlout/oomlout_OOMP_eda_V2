@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Multiwatt-11
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSMULTIWATT11
 - Name: digikey-footprints : Multiwatt-11
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Multiwatt-11/
 - Description: digikey-footprints : Multiwatt-11
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Multiwatt-11](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Multiwatt-11)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSMULTIWATT11](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSMULTIWATT11)

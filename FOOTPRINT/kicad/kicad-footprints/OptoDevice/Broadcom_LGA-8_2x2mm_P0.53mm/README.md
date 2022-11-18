@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-OptoDevice-Broadcom_LGA-8_2x2mm_P0.53mm
 - Hex ID: FZKOPBROADCOMLGA82X2P53
 - Name: OptoDevice : Broadcom_LGA-8_2x2mm_P0.53mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/OptoDevice/Broadcom_LGA-8_2x2mm_P0.53mm/
 - Description: OptoDevice : Broadcom_LGA-8_2x2mm_P0.53mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-OptoDevice-Broadcom_LGA-8_2x2mm_P0.53mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-OptoDevice-Broadcom_LGA-8_2x2mm_P0.53mm)
 - Short Link: [http://oom.lt/FZKOPBROADCOMLGA82X2P53](http://oom.lt/FZKOPBROADCOMLGA82X2P53)

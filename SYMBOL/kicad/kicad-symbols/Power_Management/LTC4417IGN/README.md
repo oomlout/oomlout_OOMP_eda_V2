@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Power_Management-LTC4417IGN
 - Hex ID: SZKPOWERMANAGEMENTLTC4417IGN
 - Name: Power_Management : LTC4417IGN
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Power_Management/LTC4417IGN/
 - Description: Power_Management : LTC4417IGN
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-LTC4417IGN](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-LTC4417IGN)
 - Short Link: [http://oom.lt/SZKPOWERMANAGEMENTLTC4417IGN](http://oom.lt/SZKPOWERMANAGEMENTLTC4417IGN)

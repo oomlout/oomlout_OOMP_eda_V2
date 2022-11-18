@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-ESP8266_ESP-01
 - Hex ID: FZSRFESP8266ESP1
 - Name: SparkFun-RF : ESP8266_ESP-01
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-RF/ESP8266_ESP-01/
 - Description: SparkFun-RF : ESP8266_ESP-01
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-ESP8266_ESP-01](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-ESP8266_ESP-01)
 - Short Link: [http://oom.lt/FZSRFESP8266ESP1](http://oom.lt/FZSRFESP8266ESP1)

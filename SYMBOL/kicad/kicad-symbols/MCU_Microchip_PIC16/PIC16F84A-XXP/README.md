@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F84A-XXP
 - Hex ID: SZKMCUMCHIPPIC16PIC16F84AXXP
 - Name: MCU_Microchip_PIC16 : PIC16F84A-XXP
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC16/PIC16F84A-XXP/
 - Description: MCU_Microchip_PIC16 : PIC16F84A-XXP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F84A-XXP](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F84A-XXP)
 - Short Link: [http://oom.lt/SZKMCUMCHIPPIC16PIC16F84AXXP](http://oom.lt/SZKMCUMCHIPPIC16PIC16F84AXXP)

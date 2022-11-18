@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SMD-4_3.4x2.7mm_P1.8mm
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSSM434X27P18
 - Name: digikey-footprints : SMD-4_3.4x2.7mm_P1.8mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/SMD-4_3.4x2.7mm_P1.8mm/
 - Description: digikey-footprints : SMD-4_3.4x2.7mm_P1.8mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SMD-4_3.4x2.7mm_P1.8mm](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SMD-4_3.4x2.7mm_P1.8mm)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSSM434X27P18](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSSM434X27P18)

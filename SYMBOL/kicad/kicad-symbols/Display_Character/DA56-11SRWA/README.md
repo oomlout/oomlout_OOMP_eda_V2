@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Display_Character-DA56-11SRWA
 - Hex ID: SZKDICHARACTERDA5611SRWA
 - Name: Display_Character : DA56-11SRWA
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Display_Character/DA56-11SRWA/
 - Description: Display_Character : DA56-11SRWA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-DA56-11SRWA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-DA56-11SRWA)
 - Short Link: [http://oom.lt/SZKDICHARACTERDA5611SRWA](http://oom.lt/SZKDICHARACTERDA5611SRWA)

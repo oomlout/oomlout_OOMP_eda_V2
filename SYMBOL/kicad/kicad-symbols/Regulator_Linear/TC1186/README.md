@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-TC1186
 - Hex ID: SZKREGULATORLINEARTC1186
 - Name: Regulator_Linear : TC1186
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/TC1186/
 - Description: Regulator_Linear : TC1186
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-TC1186](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-TC1186)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARTC1186](http://oom.lt/SZKREGULATORLINEARTC1186)

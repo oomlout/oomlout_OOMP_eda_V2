@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-rcl-E5-4
 - Hex ID: FZERCLE54
 - Name: rcl : E5-4
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/rcl/E5-4/
 - Description: rcl : E5-4
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-E5-4](http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-E5-4)
 - Short Link: [http://oom.lt/FZERCLE54](http://oom.lt/FZERCLE54)

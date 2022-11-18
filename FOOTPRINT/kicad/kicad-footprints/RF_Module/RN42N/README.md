@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-RF_Module-RN42N
 - Hex ID: FZKRFMORN42N
 - Name: RF_Module : RN42N
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/RF_Module/RN42N/
 - Description: RF_Module : RN42N
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_Module-RN42N](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_Module-RN42N)
 - Short Link: [http://oom.lt/FZKRFMORN42N](http://oom.lt/FZKRFMORN42N)

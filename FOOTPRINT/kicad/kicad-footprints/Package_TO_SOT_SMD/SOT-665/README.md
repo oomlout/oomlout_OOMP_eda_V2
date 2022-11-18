@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-665
 - Hex ID: FZKSOTSOT665
 - Name: Package_TO_SOT_SMD : SOT-665
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/SOT-665/
 - Description: Package_TO_SOT_SMD : SOT-665
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-665](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-665)
 - Short Link: [http://oom.lt/FZKSOTSOT665](http://oom.lt/FZKSOTSOT665)

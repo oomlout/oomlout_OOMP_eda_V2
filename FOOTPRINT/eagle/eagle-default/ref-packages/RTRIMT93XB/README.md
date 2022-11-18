@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEREFPACKAGESRTRIMT93XB > ref-packages : RTRIMT93XB](#fzerefpackagesrtrimt93xb--ref-packages--rtrimt93xb)
+* [FZEREFPSRTRIMT93XB > ref-packages : RTRIMT93XB](#fzerefpsrtrimt93xb--ref-packages--rtrimt93xb)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEREFPACKAGESRTRIMT93XB > ref-packages : RTRIMT93XB
+# FZEREFPSRTRIMT93XB > ref-packages : RTRIMT93XB
 
 - ID: FOOTPRINT-eagle-eagle-default-ref-packages-RTRIMT93XB
-- Hex ID: FZEREFPACKAGESRTRIMT93XB
+- Hex ID: FZEREFPSRTRIMT93XB
 - Name: ref-packages : RTRIMT93XB
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ref-packages/RTRIMT93XB/
 - Description: ref-packages : RTRIMT93XB
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-RTRIMT93XB](http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-RTRIMT93XB)
-- Short Link: [http://oom.lt/FZEREFPACKAGESRTRIMT93XB](http://oom.lt/FZEREFPACKAGESRTRIMT93XB)
+- Short Link: [http://oom.lt/FZEREFPSRTRIMT93XB](http://oom.lt/FZEREFPSRTRIMT93XB)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|ref-packages|
 |OOMP Index|oompIndex|RTRIMT93XB|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-ref-packages-RTRIMT93XB|
-|Hex ID (short code)|hexID|FZEREFPACKAGESRTRIMT93XB|
+|Hex ID (short code)|hexID|FZEREFPSRTRIMT93XB|
 |name|name|ref-packages : RTRIMT93XB|
 ||||

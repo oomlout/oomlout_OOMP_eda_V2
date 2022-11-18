@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_WS2812_PLCC6_5.0x5.0mm_P1.6mm
 - Hex ID: FZKLLWS2812PLCC65X5P16
 - Name: LED_SMD : LED_WS2812_PLCC6_5.0x5.0mm_P1.6mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_WS2812_PLCC6_5.0x5.0mm_P1.6mm/
 - Description: LED_SMD : LED_WS2812_PLCC6_5.0x5.0mm_P1.6mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_WS2812_PLCC6_5.0x5.0mm_P1.6mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_WS2812_PLCC6_5.0x5.0mm_P1.6mm)
 - Short Link: [http://oom.lt/FZKLLWS2812PLCC65X5P16](http://oom.lt/FZKLLWS2812PLCC65X5P16)

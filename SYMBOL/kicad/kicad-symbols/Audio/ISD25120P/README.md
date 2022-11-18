@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Audio-ISD25120P
 - Hex ID: SZKAUDIOISD2512P
 - Name: Audio : ISD25120P
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Audio/ISD25120P/
 - Description: Audio : ISD25120P
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Audio-ISD25120P](http://oom.lt/SYMBOL-kicad-kicad-symbols-Audio-ISD25120P)
 - Short Link: [http://oom.lt/SZKAUDIOISD2512P](http://oom.lt/SZKAUDIOISD2512P)

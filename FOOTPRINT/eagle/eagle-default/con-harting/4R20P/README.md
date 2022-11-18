@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-harting-4R20P
 - Hex ID: FZECONHARTING4R2P
 - Name: con-harting : 4R20P
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-harting/4R20P/
 - Description: con-harting : 4R20P
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-harting-4R20P](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-harting-4R20P)
 - Short Link: [http://oom.lt/FZECONHARTING4R2P](http://oom.lt/FZECONHARTING4R2P)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_1008_2520Metric
 - Hex ID: FZKINL18252VA
 - Name: Inductor_SMD : L_1008_2520Metric
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_1008_2520Metric/
 - Description: Inductor_SMD : L_1008_2520Metric
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_1008_2520Metric](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_1008_2520Metric)
 - Short Link: [http://oom.lt/FZKINL18252VA](http://oom.lt/FZKINL18252VA)

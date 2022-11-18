@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-st-microelectronics-DIL18
 - Hex ID: FZESTMELECTRONICSDIL18
 - Name: st-microelectronics : DIL18
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/st-microelectronics/DIL18/
 - Description: st-microelectronics : DIL18
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-st-microelectronics-DIL18](http://oom.lt/FOOTPRINT-eagle-eagle-default-st-microelectronics-DIL18)
 - Short Link: [http://oom.lt/FZESTMELECTRONICSDIL18](http://oom.lt/FZESTMELECTRONICSDIL18)

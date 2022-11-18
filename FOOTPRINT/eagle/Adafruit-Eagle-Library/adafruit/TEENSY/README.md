@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-TEENSY
 - Hex ID: FZATEENSY
 - Name: adafruit : TEENSY
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/TEENSY/
 - Description: adafruit : TEENSY
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-TEENSY](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-TEENSY)
 - Short Link: [http://oom.lt/FZATEENSY](http://oom.lt/FZATEENSY)

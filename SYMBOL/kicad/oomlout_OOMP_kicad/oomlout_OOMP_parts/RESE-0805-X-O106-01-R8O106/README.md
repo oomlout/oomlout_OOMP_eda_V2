@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0805-X-O106-01-R8O106
 - Hex ID: SZOOMPKOOMPPRESE85XO161R8O16
 - Name: oomlout_OOMP_parts : RESE-0805-X-O106-01-R8O106
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/RESE-0805-X-O106-01-R8O106/
 - Description: oomlout_OOMP_parts : RESE-0805-X-O106-01-R8O106
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0805-X-O106-01-R8O106](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0805-X-O106-01-R8O106)
 - Short Link: [http://oom.lt/SZOOMPKOOMPPRESE85XO161R8O16](http://oom.lt/SZOOMPKOOMPPRESE85XO161R8O16)

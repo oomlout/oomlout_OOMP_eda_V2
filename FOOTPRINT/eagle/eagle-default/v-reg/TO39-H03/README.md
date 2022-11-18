@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-v-reg-TO39-H03
 - Hex ID: FZEVREGTO39H3
 - Name: v-reg : TO39-H03
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/v-reg/TO39-H03/
 - Description: v-reg : TO39-H03
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-v-reg-TO39-H03](http://oom.lt/FOOTPRINT-eagle-eagle-default-v-reg-TO39-H03)
 - Short Link: [http://oom.lt/FZEVREGTO39H3](http://oom.lt/FZEVREGTO39H3)

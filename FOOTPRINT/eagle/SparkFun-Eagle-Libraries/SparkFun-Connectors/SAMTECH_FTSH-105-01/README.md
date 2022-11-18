@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-SAMTECH_FTSH-105-01
 - Hex ID: FZSSPARKFUNCNSSAMTECHFTSH151
 - Name: SparkFun-Connectors : SAMTECH_FTSH-105-01
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Connectors/SAMTECH_FTSH-105-01/
 - Description: SparkFun-Connectors : SAMTECH_FTSH-105-01
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-SAMTECH_FTSH-105-01](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-SAMTECH_FTSH-105-01)
 - Short Link: [http://oom.lt/FZSSPARKFUNCNSSAMTECHFTSH151](http://oom.lt/FZSSPARKFUNCNSSAMTECHFTSH151)

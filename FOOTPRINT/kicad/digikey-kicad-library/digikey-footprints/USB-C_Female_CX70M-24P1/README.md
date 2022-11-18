@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-USB-C_Female_CX70M-24P1
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSUCFCX7M24P1
 - Name: digikey-footprints : USB-C_Female_CX70M-24P1
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/USB-C_Female_CX70M-24P1/
 - Description: digikey-footprints : USB-C_Female_CX70M-24P1
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-USB-C_Female_CX70M-24P1](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-USB-C_Female_CX70M-24P1)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSUCFCX7M24P1](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSUCFCX7M24P1)

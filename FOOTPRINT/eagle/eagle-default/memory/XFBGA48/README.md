@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-memory-XFBGA48
 - Hex ID: FZEMEMORYXFBGA48
 - Name: memory : XFBGA48
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/memory/XFBGA48/
 - Description: memory : XFBGA48
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-memory-XFBGA48](http://oom.lt/FOOTPRINT-eagle-eagle-default-memory-XFBGA48)
 - Short Link: [http://oom.lt/FZEMEMORYXFBGA48](http://oom.lt/FZEMEMORYXFBGA48)

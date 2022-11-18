@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-switch-dil-P103
 - Hex ID: FZESWDILP13
 - Name: switch-dil : P103
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/switch-dil/P103/
 - Description: switch-dil : P103
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-dil-P103](http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-dil-P103)
 - Short Link: [http://oom.lt/FZESWDILP13](http://oom.lt/FZESWDILP13)

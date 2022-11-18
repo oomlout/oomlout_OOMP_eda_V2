@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-MICROPHONE-PTH-9.7MM
 - Hex ID: FZSSPARKFUNSENSMPHONEP97
 - Name: SparkFun-Sensors : MICROPHONE-PTH-9.7MM
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Sensors/MICROPHONE-PTH-9.7MM/
 - Description: SparkFun-Sensors : MICROPHONE-PTH-9.7MM
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-MICROPHONE-PTH-9.7MM](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-MICROPHONE-PTH-9.7MM)
 - Short Link: [http://oom.lt/FZSSPARKFUNSENSMPHONEP97](http://oom.lt/FZSSPARKFUNSENSMPHONEP97)

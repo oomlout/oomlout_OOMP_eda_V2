@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-amp-micromatch-FRAME
 - Hex ID: FZECONAMPATCHFRAME
 - Name: con-amp-micromatch : FRAME
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-amp-micromatch/FRAME/
 - Description: con-amp-micromatch : FRAME
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-amp-micromatch-FRAME](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-amp-micromatch-FRAME)
 - Short Link: [http://oom.lt/FZECONAMPATCHFRAME](http://oom.lt/FZECONAMPATCHFRAME)

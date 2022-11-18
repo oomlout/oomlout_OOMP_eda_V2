@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-relay-JW2A
 - Hex ID: FZERELAYJW2A
 - Name: relay : JW2A
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/relay/JW2A/
 - Description: relay : JW2A
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-JW2A](http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-JW2A)
 - Short Link: [http://oom.lt/FZERELAYJW2A](http://oom.lt/FZERELAYJW2A)

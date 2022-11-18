@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-PMEG2010AET
 - Hex ID: SZKDIODEPMEG21AET
 - Name: Diode : PMEG2010AET
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/PMEG2010AET/
 - Description: Diode : PMEG2010AET
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-PMEG2010AET](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-PMEG2010AET)
 - Short Link: [http://oom.lt/SZKDIODEPMEG21AET](http://oom.lt/SZKDIODEPMEG21AET)

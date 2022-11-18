@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-micro-motorola-PLCC-S52
 - Hex ID: FZEMMOTOROLAPLCCS52
 - Name: micro-motorola : PLCC-S52
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/micro-motorola/PLCC-S52/
 - Description: micro-motorola : PLCC-S52
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-motorola-PLCC-S52](http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-motorola-PLCC-S52)
 - Short Link: [http://oom.lt/FZEMMOTOROLAPLCCS52](http://oom.lt/FZEMMOTOROLAPLCCS52)

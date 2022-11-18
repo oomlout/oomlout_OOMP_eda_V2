@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0603-X-NF220-V25-C6N220
 - Hex ID: SZOOMPKOOMPPCAPC63XNF22V25C6N22
 - Name: oomlout_OOMP_parts : CAPC-0603-X-NF220-V25-C6N220
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/CAPC-0603-X-NF220-V25-C6N220/
 - Description: oomlout_OOMP_parts : CAPC-0603-X-NF220-V25-C6N220
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0603-X-NF220-V25-C6N220](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0603-X-NF220-V25-C6N220)
 - Short Link: [http://oom.lt/SZOOMPKOOMPPCAPC63XNF22V25C6N22](http://oom.lt/SZOOMPKOOMPPCAPC63XNF22V25C6N22)

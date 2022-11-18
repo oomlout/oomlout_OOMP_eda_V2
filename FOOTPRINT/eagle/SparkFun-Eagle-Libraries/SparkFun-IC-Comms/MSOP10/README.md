@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Comms-MSOP10
 - Hex ID: FZSICMS1
 - Name: SparkFun-IC-Comms : MSOP10
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-IC-Comms/MSOP10/
 - Description: SparkFun-IC-Comms : MSOP10
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Comms-MSOP10](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Comms-MSOP10)
 - Short Link: [http://oom.lt/FZSICMS1](http://oom.lt/FZSICMS1)

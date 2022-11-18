@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-tyco-C_1720027_A
 - Hex ID: FZECONTYCOC17227A
 - Name: con-tyco : C_1720027_A
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-tyco/C_1720027_A/
 - Description: con-tyco : C_1720027_A
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-tyco-C_1720027_A](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-tyco-C_1720027_A)
 - Short Link: [http://oom.lt/FZECONTYCOC17227A](http://oom.lt/FZECONTYCOC17227A)

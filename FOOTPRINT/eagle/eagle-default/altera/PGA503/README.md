@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-altera-PGA503
 - Hex ID: FZEALTERAPGA53
 - Name: altera : PGA503
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/altera/PGA503/
 - Description: altera : PGA503
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-altera-PGA503](http://oom.lt/FOOTPRINT-eagle-eagle-default-altera-PGA503)
 - Short Link: [http://oom.lt/FZEALTERAPGA53](http://oom.lt/FZEALTERAPGA53)

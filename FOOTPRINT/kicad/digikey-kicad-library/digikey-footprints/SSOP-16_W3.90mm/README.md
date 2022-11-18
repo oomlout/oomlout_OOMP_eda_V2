@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SSOP-16_W3.90mm
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSSS16W39
 - Name: digikey-footprints : SSOP-16_W3.90mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/SSOP-16_W3.90mm/
 - Description: digikey-footprints : SSOP-16_W3.90mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SSOP-16_W3.90mm](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SSOP-16_W3.90mm)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSSS16W39](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSSS16W39)

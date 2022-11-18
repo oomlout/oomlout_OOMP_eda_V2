@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-phoenix-508-MSTV5
 - Hex ID: FZECONPHOENIX58MSTV5
 - Name: con-phoenix-508 : MSTV5
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-phoenix-508/MSTV5/
 - Description: con-phoenix-508 : MSTV5
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-phoenix-508-MSTV5](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-phoenix-508-MSTV5)
 - Short Link: [http://oom.lt/FZECONPHOENIX58MSTV5](http://oom.lt/FZECONPHOENIX58MSTV5)

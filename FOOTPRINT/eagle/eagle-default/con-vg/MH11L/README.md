@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-vg-MH11L
 - Hex ID: FZECONVGMH11L
 - Name: con-vg : MH11L
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-vg/MH11L/
 - Description: con-vg : MH11L
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-vg-MH11L](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-vg-MH11L)
 - Short Link: [http://oom.lt/FZECONVGMH11L](http://oom.lt/FZECONVGMH11L)

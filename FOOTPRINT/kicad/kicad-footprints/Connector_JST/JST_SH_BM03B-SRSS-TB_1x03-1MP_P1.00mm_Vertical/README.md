@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_SH_BM03B-SRSS-TB_1x03-1MP_P1.00mm_Vertical
 - Hex ID: FZKCNJSTJSTSHBM3BSRSSTB1X31MPP1F
 - Name: Connector_JST : JST_SH_BM03B-SRSS-TB_1x03-1MP_P1.00mm_Vertical
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_SH_BM03B-SRSS-TB_1x03-1MP_P1.00mm_Vertical/
 - Description: Connector_JST : JST_SH_BM03B-SRSS-TB_1x03-1MP_P1.00mm_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_SH_BM03B-SRSS-TB_1x03-1MP_P1.00mm_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_SH_BM03B-SRSS-TB_1x03-1MP_P1.00mm_Vertical)
 - Short Link: [http://oom.lt/FZKCNJSTJSTSHBM3BSRSSTB1X31MPP1F](http://oom.lt/FZKCNJSTJSTSHBM3BSRSSTB1X31MPP1F)

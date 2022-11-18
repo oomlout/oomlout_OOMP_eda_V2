@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-battery-CR2_3
 - Hex ID: FZEBATCR23
 - Name: battery : CR2_3
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/battery/CR2_3/
 - Description: battery : CR2_3
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-battery-CR2_3](http://oom.lt/FOOTPRINT-eagle-eagle-default-battery-CR2_3)
 - Short Link: [http://oom.lt/FZEBATCR23](http://oom.lt/FZEBATCR23)

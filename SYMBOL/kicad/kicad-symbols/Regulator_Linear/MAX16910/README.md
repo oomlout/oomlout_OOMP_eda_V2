@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-MAX16910
 - Hex ID: SZKREGULATORLINEARMAX1691
 - Name: Regulator_Linear : MAX16910
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/MAX16910/
 - Description: Regulator_Linear : MAX16910
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-MAX16910](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-MAX16910)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARMAX1691](http://oom.lt/SZKREGULATORLINEARMAX1691)

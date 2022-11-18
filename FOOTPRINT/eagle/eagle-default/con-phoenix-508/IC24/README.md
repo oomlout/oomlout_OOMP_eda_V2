@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-phoenix-508-IC24
 - Hex ID: FZECONPHOENIX58IC24
 - Name: con-phoenix-508 : IC24
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-phoenix-508/IC24/
 - Description: con-phoenix-508 : IC24
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-phoenix-508-IC24](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-phoenix-508-IC24)
 - Short Link: [http://oom.lt/FZECONPHOENIX58IC24](http://oom.lt/FZECONPHOENIX58IC24)

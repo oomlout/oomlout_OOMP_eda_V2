@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-TO-225AA
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSTO225AA
 - Name: digikey-footprints : TO-225AA
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/TO-225AA/
 - Description: digikey-footprints : TO-225AA
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-TO-225AA](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-TO-225AA)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSTO225AA](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSTO225AA)

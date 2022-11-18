@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-1N4149
 - Hex ID: SZKDIODE1N4149
 - Name: Diode : 1N4149
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/1N4149/
 - Description: Diode : 1N4149
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-1N4149](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-1N4149)
 - Short Link: [http://oom.lt/SZKDIODE1N4149](http://oom.lt/SZKDIODE1N4149)

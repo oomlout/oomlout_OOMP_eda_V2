@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-smd-ipc-LCC-24
 - Hex ID: FZESMIPCLCC24
 - Name: smd-ipc : LCC-24
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/smd-ipc/LCC-24/
 - Description: smd-ipc : LCC-24
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-LCC-24](http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-LCC-24)
 - Short Link: [http://oom.lt/FZESMIPCLCC24](http://oom.lt/FZESMIPCLCC24)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-transistor-SOT23-EBC
 - Hex ID: FZETRANSISTORSOT23EBC
 - Name: transistor : SOT23-EBC
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/transistor/SOT23-EBC/
 - Description: transistor : SOT23-EBC
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-SOT23-EBC](http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-SOT23-EBC)
 - Short Link: [http://oom.lt/FZETRANSISTORSOT23EBC](http://oom.lt/FZETRANSISTORSOT23EBC)

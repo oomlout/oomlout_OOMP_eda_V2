@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Intel-80188
 - Hex ID: SZKMCUINTEL8188
 - Name: MCU_Intel : 80188
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Intel/80188/
 - Description: MCU_Intel : 80188
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Intel-80188](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Intel-80188)
 - Short Link: [http://oom.lt/SZKMCUINTEL8188](http://oom.lt/SZKMCUINTEL8188)

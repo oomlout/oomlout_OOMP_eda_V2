@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-memory-M8
 - Hex ID: FZEMEMORYM8
 - Name: memory : M8
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/memory/M8/
 - Description: memory : M8
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-memory-M8](http://oom.lt/FOOTPRINT-eagle-eagle-default-memory-M8)
 - Short Link: [http://oom.lt/FZEMEMORYM8](http://oom.lt/FZEMEMORYM8)

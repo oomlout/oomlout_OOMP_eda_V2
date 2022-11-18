@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Capacitor_THT-C_Rect_L29.0mm_W7.9mm_P27.50mm_MKT
 - Hex ID: FZKCCRECTL29W79P275MKT
 - Name: Capacitor_THT : C_Rect_L29.0mm_W7.9mm_P27.50mm_MKT
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Capacitor_THT/C_Rect_L29.0mm_W7.9mm_P27.50mm_MKT/
 - Description: Capacitor_THT : C_Rect_L29.0mm_W7.9mm_P27.50mm_MKT
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_THT-C_Rect_L29.0mm_W7.9mm_P27.50mm_MKT](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_THT-C_Rect_L29.0mm_W7.9mm_P27.50mm_MKT)
 - Short Link: [http://oom.lt/FZKCCRECTL29W79P275MKT](http://oom.lt/FZKCCRECTL29W79P275MKT)

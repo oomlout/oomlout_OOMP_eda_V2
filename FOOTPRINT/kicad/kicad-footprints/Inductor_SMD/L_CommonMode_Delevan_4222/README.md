@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_CommonMode_Delevan_4222
 - Hex ID: FZKINLCOONMODEDELEVAN4222
 - Name: Inductor_SMD : L_CommonMode_Delevan_4222
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_CommonMode_Delevan_4222/
 - Description: Inductor_SMD : L_CommonMode_Delevan_4222
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_CommonMode_Delevan_4222](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_CommonMode_Delevan_4222)
 - Short Link: [http://oom.lt/FZKINLCOONMODEDELEVAN4222](http://oom.lt/FZKINLCOONMODEDELEVAN4222)

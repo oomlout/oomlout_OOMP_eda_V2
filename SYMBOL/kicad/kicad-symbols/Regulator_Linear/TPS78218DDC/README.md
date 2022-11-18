@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-TPS78218DDC
 - Hex ID: SZKREGULATORLINEARTPS78218DDC
 - Name: Regulator_Linear : TPS78218DDC
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/TPS78218DDC/
 - Description: Regulator_Linear : TPS78218DDC
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-TPS78218DDC](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-TPS78218DDC)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARTPS78218DDC](http://oom.lt/SZKREGULATORLINEARTPS78218DDC)

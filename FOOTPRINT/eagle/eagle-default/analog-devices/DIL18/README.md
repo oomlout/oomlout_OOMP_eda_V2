@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-analog-devices-DIL18
 - Hex ID: FZEANALOGDEVICESDIL18
 - Name: analog-devices : DIL18
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/analog-devices/DIL18/
 - Description: analog-devices : DIL18
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-analog-devices-DIL18](http://oom.lt/FOOTPRINT-eagle-eagle-default-analog-devices-DIL18)
 - Short Link: [http://oom.lt/FZEANALOGDEVICESDIL18](http://oom.lt/FZEANALOGDEVICESDIL18)

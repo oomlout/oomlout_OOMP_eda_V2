@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Instrumentation-AD8421
 - Hex ID: SZKAMPLIFIERINSTRUMENTATIONAD8421
 - Name: Amplifier_Instrumentation : AD8421
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Instrumentation/AD8421/
 - Description: Amplifier_Instrumentation : AD8421
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Instrumentation-AD8421](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Instrumentation-AD8421)
 - Short Link: [http://oom.lt/SZKAMPLIFIERINSTRUMENTATIONAD8421](http://oom.lt/SZKAMPLIFIERINSTRUMENTATIONAD8421)

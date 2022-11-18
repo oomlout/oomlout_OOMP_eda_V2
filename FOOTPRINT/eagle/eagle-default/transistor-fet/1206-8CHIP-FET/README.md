@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-transistor-fet-1206-8CHIP-FET
 - Hex ID: FZETRANSISTORFET1268CHIPFET
 - Name: transistor-fet : 1206-8CHIP-FET
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/transistor-fet/1206-8CHIP-FET/
 - Description: transistor-fet : 1206-8CHIP-FET
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-fet-1206-8CHIP-FET](http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-fet-1206-8CHIP-FET)
 - Short Link: [http://oom.lt/FZETRANSISTORFET1268CHIPFET](http://oom.lt/FZETRANSISTORFET1268CHIPFET)

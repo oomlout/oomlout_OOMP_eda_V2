@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Memory_RAM-MT48LC16M16A2TG
 - Hex ID: SZKMEMORYRAMMT48LC16M16A2TG
 - Name: Memory_RAM : MT48LC16M16A2TG
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Memory_RAM/MT48LC16M16A2TG/
 - Description: Memory_RAM : MT48LC16M16A2TG
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_RAM-MT48LC16M16A2TG](http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_RAM-MT48LC16M16A2TG)
 - Short Link: [http://oom.lt/SZKMEMORYRAMMT48LC16M16A2TG](http://oom.lt/SZKMEMORYRAMMT48LC16M16A2TG)

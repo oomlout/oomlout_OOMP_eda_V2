@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Bluetooth_Module_RFD77101
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSBLUETOOTHMORFD7711
 - Name: digikey-footprints : Bluetooth_Module_RFD77101
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Bluetooth_Module_RFD77101/
 - Description: digikey-footprints : Bluetooth_Module_RFD77101
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Bluetooth_Module_RFD77101](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Bluetooth_Module_RFD77101)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSBLUETOOTHMORFD7711](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSBLUETOOTHMORFD7711)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-jumper-05
 - Hex ID: FZEJ5
 - Name: jumper : 05
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/jumper/05/
 - Description: jumper : 05
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-jumper-05](http://oom.lt/FOOTPRINT-eagle-eagle-default-jumper-05)
 - Short Link: [http://oom.lt/FZEJ5](http://oom.lt/FZEJ5)

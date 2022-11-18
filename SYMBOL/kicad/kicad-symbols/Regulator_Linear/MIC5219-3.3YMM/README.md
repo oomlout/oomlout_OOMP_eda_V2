@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-MIC5219-3.3YMM
 - Hex ID: SZKREGULATORLINEARMIC521933Y
 - Name: Regulator_Linear : MIC5219-3.3YMM
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/MIC5219-3.3YMM/
 - Description: Regulator_Linear : MIC5219-3.3YMM
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-MIC5219-3.3YMM](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-MIC5219-3.3YMM)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARMIC521933Y](http://oom.lt/SZKREGULATORLINEARMIC521933Y)

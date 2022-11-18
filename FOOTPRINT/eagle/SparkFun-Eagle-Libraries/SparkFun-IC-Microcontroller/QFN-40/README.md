@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Microcontroller-QFN-40
 - Hex ID: FZSIUQFN4
 - Name: SparkFun-IC-Microcontroller : QFN-40
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-IC-Microcontroller/QFN-40/
 - Description: SparkFun-IC-Microcontroller : QFN-40
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Microcontroller-QFN-40](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Microcontroller-QFN-40)
 - Short Link: [http://oom.lt/FZSIUQFN4](http://oom.lt/FZSIUQFN4)

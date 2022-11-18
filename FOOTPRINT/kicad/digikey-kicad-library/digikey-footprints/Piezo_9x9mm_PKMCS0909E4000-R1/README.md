@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Piezo_9x9mm_PKMCS0909E4000-R1
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSPIEZO9X9PKMCS99E4R1
 - Name: digikey-footprints : Piezo_9x9mm_PKMCS0909E4000-R1
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Piezo_9x9mm_PKMCS0909E4000-R1/
 - Description: digikey-footprints : Piezo_9x9mm_PKMCS0909E4000-R1
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Piezo_9x9mm_PKMCS0909E4000-R1](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Piezo_9x9mm_PKMCS0909E4000-R1)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSPIEZO9X9PKMCS99E4R1](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSPIEZO9X9PKMCS99E4R1)

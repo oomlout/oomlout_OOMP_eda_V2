@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_Hirose-Hirose_DF11-24DP-2DSA_2x12_P2.00mm_Vertical
 - Hex ID: FZKCNHIROSEHIROSEDF1124DP2DSA2X12P2F
 - Name: Connector_Hirose : Hirose_DF11-24DP-2DSA_2x12_P2.00mm_Vertical
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Hirose/Hirose_DF11-24DP-2DSA_2x12_P2.00mm_Vertical/
 - Description: Connector_Hirose : Hirose_DF11-24DP-2DSA_2x12_P2.00mm_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Hirose-Hirose_DF11-24DP-2DSA_2x12_P2.00mm_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Hirose-Hirose_DF11-24DP-2DSA_2x12_P2.00mm_Vertical)
 - Short Link: [http://oom.lt/FZKCNHIROSEHIROSEDF1124DP2DSA2X12P2F](http://oom.lt/FZKCNHIROSEHIROSEDF1124DP2DSA2X12P2F)

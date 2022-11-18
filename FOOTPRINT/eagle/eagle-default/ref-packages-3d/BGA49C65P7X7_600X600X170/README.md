@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEREFPACKAGES3DBGA49C65P7X76X6X17 > ref-packages-3d : BGA49C65P7X7_600X600X170](#fzerefpackages3dbga49c65p7x76x6x17--ref-packages-3d--bga49c65p7x7_600x600x170)
+* [FZEREFPS3DBGA49C65P7X76X6X17 > ref-packages-3d : BGA49C65P7X7_600X600X170](#fzerefps3dbga49c65p7x76x6x17--ref-packages-3d--bga49c65p7x7_600x600x170)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEREFPACKAGES3DBGA49C65P7X76X6X17 > ref-packages-3d : BGA49C65P7X7_600X600X170
+# FZEREFPS3DBGA49C65P7X76X6X17 > ref-packages-3d : BGA49C65P7X7_600X600X170
 
 - ID: FOOTPRINT-eagle-eagle-default-ref-packages-3d-BGA49C65P7X7_600X600X170
-- Hex ID: FZEREFPACKAGES3DBGA49C65P7X76X6X17
+- Hex ID: FZEREFPS3DBGA49C65P7X76X6X17
 - Name: ref-packages-3d : BGA49C65P7X7_600X600X170
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ref-packages-3d/BGA49C65P7X7_600X600X170/
 - Description: ref-packages-3d : BGA49C65P7X7_600X600X170
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-3d-BGA49C65P7X7_600X600X170](http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-3d-BGA49C65P7X7_600X600X170)
-- Short Link: [http://oom.lt/FZEREFPACKAGES3DBGA49C65P7X76X6X17](http://oom.lt/FZEREFPACKAGES3DBGA49C65P7X76X6X17)
+- Short Link: [http://oom.lt/FZEREFPS3DBGA49C65P7X76X6X17](http://oom.lt/FZEREFPS3DBGA49C65P7X76X6X17)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|ref-packages-3d|
 |OOMP Index|oompIndex|BGA49C65P7X7_600X600X170|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-ref-packages-3d-BGA49C65P7X7_600X600X170|
-|Hex ID (short code)|hexID|FZEREFPACKAGES3DBGA49C65P7X76X6X17|
+|Hex ID (short code)|hexID|FZEREFPS3DBGA49C65P7X76X6X17|
 |name|name|ref-packages-3d : BGA49C65P7X7_600X600X170|
 ||||

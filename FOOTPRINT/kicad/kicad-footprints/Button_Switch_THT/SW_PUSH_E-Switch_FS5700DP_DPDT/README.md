@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Button_Switch_THT-SW_PUSH_E-Switch_FS5700DP_DPDT
 - Hex ID: FZKBSWPUSHESWFS57DPDPDT
 - Name: Button_Switch_THT : SW_PUSH_E-Switch_FS5700DP_DPDT
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/SW_PUSH_E-Switch_FS5700DP_DPDT/
 - Description: Button_Switch_THT : SW_PUSH_E-Switch_FS5700DP_DPDT
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Button_Switch_THT-SW_PUSH_E-Switch_FS5700DP_DPDT](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Button_Switch_THT-SW_PUSH_E-Switch_FS5700DP_DPDT)
 - Short Link: [http://oom.lt/FZKBSWPUSHESWFS57DPDPDT](http://oom.lt/FZKBSWPUSHESWFS57DPDPDT)

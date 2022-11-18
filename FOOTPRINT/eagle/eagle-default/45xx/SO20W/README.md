@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-45xx-SO20W
 - Hex ID: FZE45XXSO2W
 - Name: 45xx : SO20W
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/45xx/SO20W/
 - Description: 45xx : SO20W
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-45xx-SO20W](http://oom.lt/FOOTPRINT-eagle-eagle-default-45xx-SO20W)
 - Short Link: [http://oom.lt/FZE45XXSO2W](http://oom.lt/FZE45XXSO2W)

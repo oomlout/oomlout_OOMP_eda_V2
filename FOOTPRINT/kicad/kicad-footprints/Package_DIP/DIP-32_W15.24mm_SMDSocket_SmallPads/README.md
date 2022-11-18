@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKDIPDIP32W1524SMSOSLLPADS > Package_DIP : DIP-32_W15.24mm_SMDSocket_SmallPads](#fzkdipdip32w1524smsosllpads--package_dip--dip-32_w1524mm_smdsocket_smallpads)
+* [FZKDD32W1524SMSOSLLPS > Package_DIP : DIP-32_W15.24mm_SMDSocket_SmallPads](#fzkdd32w1524smsosllps--package_dip--dip-32_w1524mm_smdsocket_smallpads)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKDIPDIP32W1524SMSOSLLPADS > Package_DIP : DIP-32_W15.24mm_SMDSocket_SmallPads
+# FZKDD32W1524SMSOSLLPS > Package_DIP : DIP-32_W15.24mm_SMDSocket_SmallPads
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_DIP-DIP-32_W15.24mm_SMDSocket_SmallPads
-- Hex ID: FZKDIPDIP32W1524SMSOSLLPADS
+- Hex ID: FZKDD32W1524SMSOSLLPS
 - Name: Package_DIP : DIP-32_W15.24mm_SMDSocket_SmallPads
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DIP/DIP-32_W15.24mm_SMDSocket_SmallPads/
 - Description: Package_DIP : DIP-32_W15.24mm_SMDSocket_SmallPads
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DIP-DIP-32_W15.24mm_SMDSocket_SmallPads](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DIP-DIP-32_W15.24mm_SMDSocket_SmallPads)
-- Short Link: [http://oom.lt/FZKDIPDIP32W1524SMSOSLLPADS](http://oom.lt/FZKDIPDIP32W1524SMSOSLLPADS)
+- Short Link: [http://oom.lt/FZKDD32W1524SMSOSLLPS](http://oom.lt/FZKDD32W1524SMSOSLLPS)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Package_DIP|
 |OOMP Index|oompIndex|DIP-32_W15.24mm_SMDSocket_SmallPads|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DIP-DIP-32_W15.24mm_SMDSocket_SmallPads|
-|Hex ID (short code)|hexID|FZKDIPDIP32W1524SMSOSLLPADS|
+|Hex ID (short code)|hexID|FZKDD32W1524SMSOSLLPS|
 |name|name|Package_DIP : DIP-32_W15.24mm_SMDSocket_SmallPads|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'DIP-32_W15.24mm_SMDSocket_SmallPads'</td><td> 'description'</td></tr><tr><td> '32-lead though-hole mounted DIP package</td><td> row spacing 15.24 mm (600 mils)</td><td> SMDSocket</td><td> SmallPads'</td><td> 'tags'</td></tr><tr><td> 'THT DIP DIL PDIP 2.54mm 15.24mm 600mil SMDSocket SmallPads'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_DIP.3dshapes/DIP-32_W15.24mm_SMDSocket.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

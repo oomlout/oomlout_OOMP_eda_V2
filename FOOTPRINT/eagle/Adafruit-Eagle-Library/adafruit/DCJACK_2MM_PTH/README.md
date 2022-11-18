@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-DCJACK_2MM_PTH
 - Hex ID: FZADCJ2P
 - Name: adafruit : DCJACK_2MM_PTH
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/DCJACK_2MM_PTH/
 - Description: adafruit : DCJACK_2MM_PTH
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-DCJACK_2MM_PTH](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-DCJACK_2MM_PTH)
 - Short Link: [http://oom.lt/FZADCJ2P](http://oom.lt/FZADCJ2P)

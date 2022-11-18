@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_Expansion-TCA9555PWR
 - Hex ID: SZKINTERFACEEXPANSIONTCA9555PWR
 - Name: Interface_Expansion : TCA9555PWR
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_Expansion/TCA9555PWR/
 - Description: Interface_Expansion : TCA9555PWR
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Expansion-TCA9555PWR](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Expansion-TCA9555PWR)
 - Short Link: [http://oom.lt/SZKINTERFACEEXPANSIONTCA9555PWR](http://oom.lt/SZKINTERFACEEXPANSIONTCA9555PWR)

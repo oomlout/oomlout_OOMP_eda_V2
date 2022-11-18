@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-MOON
 - Hex ID: FZAMOON
 - Name: adafruit : MOON
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/MOON/
 - Description: adafruit : MOON
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-MOON](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-MOON)
 - Short Link: [http://oom.lt/FZAMOON](http://oom.lt/FZAMOON)

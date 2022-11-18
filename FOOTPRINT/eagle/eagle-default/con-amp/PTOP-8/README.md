@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-amp-PTOP-8
 - Hex ID: FZECONAMPPTOP8
 - Name: con-amp : PTOP-8
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-amp/PTOP-8/
 - Description: con-amp : PTOP-8
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-amp-PTOP-8](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-amp-PTOP-8)
 - Short Link: [http://oom.lt/FZECONAMPPTOP8](http://oom.lt/FZECONAMPPTOP8)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Reference_Voltage-MCP1501-12xRW
 - Hex ID: SZKREFERENCEVOLTAGEMCP15112XRW
 - Name: Reference_Voltage : MCP1501-12xRW
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Reference_Voltage/MCP1501-12xRW/
 - Description: Reference_Voltage : MCP1501-12xRW
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Voltage-MCP1501-12xRW](http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Voltage-MCP1501-12xRW)
 - Short Link: [http://oom.lt/SZKREFERENCEVOLTAGEMCP15112XRW](http://oom.lt/SZKREFERENCEVOLTAGEMCP15112XRW)

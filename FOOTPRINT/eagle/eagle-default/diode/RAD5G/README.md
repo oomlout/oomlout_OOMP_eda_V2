@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-diode-RAD5G
 - Hex ID: FZEDIODERAD5G
 - Name: diode : RAD5G
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/diode/RAD5G/
 - Description: diode : RAD5G
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-diode-RAD5G](http://oom.lt/FOOTPRINT-eagle-eagle-default-diode-RAD5G)
 - Short Link: [http://oom.lt/FZEDIODERAD5G](http://oom.lt/FZEDIODERAD5G)

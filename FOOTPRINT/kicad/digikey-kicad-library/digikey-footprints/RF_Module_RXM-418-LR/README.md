@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-RF_Module_RXM-418-LR
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSRFMORXM418LR
 - Name: digikey-footprints : RF_Module_RXM-418-LR
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/RF_Module_RXM-418-LR/
 - Description: digikey-footprints : RF_Module_RXM-418-LR
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-RF_Module_RXM-418-LR](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-RF_Module_RXM-418-LR)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSRFMORXM418LR](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSRFMORXM418LR)

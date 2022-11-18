@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-OptoDevice-Osram_BPW34S-SMD
 - Hex ID: FZKOPOSRAMBPW34SSM
 - Name: OptoDevice : Osram_BPW34S-SMD
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/OptoDevice/Osram_BPW34S-SMD/
 - Description: OptoDevice : Osram_BPW34S-SMD
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-OptoDevice-Osram_BPW34S-SMD](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-OptoDevice-Osram_BPW34S-SMD)
 - Short Link: [http://oom.lt/FZKOPOSRAMBPW34SSM](http://oom.lt/FZKOPOSRAMBPW34SSM)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Transformer_SMD-Transformer_Ethernet_Bel_S558-5999-T7-F
 - Hex ID: FZKTRTRETHERNETBELS5585999T7F
 - Name: Transformer_SMD : Transformer_Ethernet_Bel_S558-5999-T7-F
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Transformer_SMD/Transformer_Ethernet_Bel_S558-5999-T7-F/
 - Description: Transformer_SMD : Transformer_Ethernet_Bel_S558-5999-T7-F
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Transformer_SMD-Transformer_Ethernet_Bel_S558-5999-T7-F](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Transformer_SMD-Transformer_Ethernet_Bel_S558-5999-T7-F)
 - Short Link: [http://oom.lt/FZKTRTRETHERNETBELS5585999T7F](http://oom.lt/FZKTRTRETHERNETBELS5585999T7F)

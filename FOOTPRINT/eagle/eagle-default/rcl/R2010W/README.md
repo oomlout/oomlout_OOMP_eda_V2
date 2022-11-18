@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-rcl-R2010W
 - Hex ID: FZERCLR21W
 - Name: rcl : R2010W
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/rcl/R2010W/
 - Description: rcl : R2010W
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-R2010W](http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-R2010W)
 - Short Link: [http://oom.lt/FZERCLR21W](http://oom.lt/FZERCLR21W)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F7-STM32F746IGTx
 - Hex ID: SZKMCUSTSTM32F7STM32F746IGTX
 - Name: MCU_ST_STM32F7 : STM32F746IGTx
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32F7/STM32F746IGTx/
 - Description: MCU_ST_STM32F7 : STM32F746IGTx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F7-STM32F746IGTx](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F7-STM32F746IGTx)
 - Short Link: [http://oom.lt/SZKMCUSTSTM32F7STM32F746IGTX](http://oom.lt/SZKMCUSTSTM32F7STM32F746IGTX)

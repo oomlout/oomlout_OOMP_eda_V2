@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-SMF17A
 - Hex ID: SZKDIODESMF17A
 - Name: Diode : SMF17A
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/SMF17A/
 - Description: Diode : SMF17A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-SMF17A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-SMF17A)
 - Short Link: [http://oom.lt/SZKDIODESMF17A](http://oom.lt/SZKDIODESMF17A)

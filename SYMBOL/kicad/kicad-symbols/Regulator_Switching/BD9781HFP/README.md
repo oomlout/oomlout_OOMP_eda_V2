@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-BD9781HFP
 - Hex ID: SZKREGULATORSWINGBD9781HFP
 - Name: Regulator_Switching : BD9781HFP
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/BD9781HFP/
 - Description: Regulator_Switching : BD9781HFP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-BD9781HFP](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-BD9781HFP)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGBD9781HFP](http://oom.lt/SZKREGULATORSWINGBD9781HFP)

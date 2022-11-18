@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-rcl-C075-042X103
 - Hex ID: FZERCLC7542X13
 - Name: rcl : C075-042X103
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/rcl/C075-042X103/
 - Description: rcl : C075-042X103
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-C075-042X103](http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-C075-042X103)
 - Short Link: [http://oom.lt/FZERCLC7542X13](http://oom.lt/FZERCLC7542X13)

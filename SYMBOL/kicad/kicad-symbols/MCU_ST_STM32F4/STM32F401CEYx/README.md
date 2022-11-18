@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F4-STM32F401CEYx
 - Hex ID: SZKMCUSTSTM32F4STM32F41CEYX
 - Name: MCU_ST_STM32F4 : STM32F401CEYx
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32F4/STM32F401CEYx/
 - Description: MCU_ST_STM32F4 : STM32F401CEYx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F4-STM32F401CEYx](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F4-STM32F401CEYx)
 - Short Link: [http://oom.lt/SZKMCUSTSTM32F4STM32F41CEYX](http://oom.lt/SZKMCUSTSTM32F4STM32F41CEYX)

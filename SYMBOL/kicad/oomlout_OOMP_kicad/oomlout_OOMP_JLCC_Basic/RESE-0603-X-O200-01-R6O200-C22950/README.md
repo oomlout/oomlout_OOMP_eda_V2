@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-RESE-0603-X-O200-01-R6O200-C22950
 - Hex ID: SZOOMPKJLCRESE63XO21R6O2C2295
 - Name: oomlout_OOMP_JLCC_Basic : RESE-0603-X-O200-01-R6O200-C22950
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_JLCC_Basic/RESE-0603-X-O200-01-R6O200-C22950/
 - Description: oomlout_OOMP_JLCC_Basic : RESE-0603-X-O200-01-R6O200-C22950
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-RESE-0603-X-O200-01-R6O200-C22950](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-RESE-0603-X-O200-01-R6O200-C22950)
 - Short Link: [http://oom.lt/SZOOMPKJLCRESE63XO21R6O2C2295](http://oom.lt/SZOOMPKJLCRESE63XO21R6O2C2295)

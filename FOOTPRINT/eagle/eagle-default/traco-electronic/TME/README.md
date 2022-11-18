@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-traco-electronic-TME
 - Hex ID: FZETRACOELECTRONICTME
 - Name: traco-electronic : TME
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/traco-electronic/TME/
 - Description: traco-electronic : TME
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-traco-electronic-TME](http://oom.lt/FOOTPRINT-eagle-eagle-default-traco-electronic-TME)
 - Short Link: [http://oom.lt/FZETRACOELECTRONICTME](http://oom.lt/FZETRACOELECTRONICTME)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-TPS76950
 - Hex ID: SZKREGULATORLINEARTPS7695
 - Name: Regulator_Linear : TPS76950
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/TPS76950/
 - Description: Regulator_Linear : TPS76950
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-TPS76950](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-TPS76950)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARTPS7695](http://oom.lt/SZKREGULATORLINEARTPS7695)

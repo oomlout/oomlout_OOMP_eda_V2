@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Driver_FET-IRS2890DS
 - Hex ID: SZKDRIVERFETIRS289DS
 - Name: Driver_FET : IRS2890DS
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Driver_FET/IRS2890DS/
 - Description: Driver_FET : IRS2890DS
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-IRS2890DS](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-IRS2890DS)
 - Short Link: [http://oom.lt/SZKDRIVERFETIRS289DS](http://oom.lt/SZKDRIVERFETIRS289DS)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-LM2842Y
 - Hex ID: SZKREGULATORSWINGLM2842Y
 - Name: Regulator_Switching : LM2842Y
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/LM2842Y/
 - Description: Regulator_Switching : LM2842Y
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LM2842Y](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LM2842Y)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGLM2842Y](http://oom.lt/SZKREGULATORSWINGLM2842Y)

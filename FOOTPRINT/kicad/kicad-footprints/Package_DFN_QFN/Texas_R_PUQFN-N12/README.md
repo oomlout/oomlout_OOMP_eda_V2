@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Texas_R_PUQFN-N12
 - Hex ID: FZKDFNTEXASRPUQFNN12
 - Name: Package_DFN_QFN : Texas_R_PUQFN-N12
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/Texas_R_PUQFN-N12/
 - Description: Package_DFN_QFN : Texas_R_PUQFN-N12
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Texas_R_PUQFN-N12](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Texas_R_PUQFN-N12)
 - Short Link: [http://oom.lt/FZKDFNTEXASRPUQFNN12](http://oom.lt/FZKDFNTEXASRPUQFNN12)

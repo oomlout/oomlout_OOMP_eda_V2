@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-1X08-LOCK
 - Hex ID: FZA1X8L
 - Name: adafruit : 1X08-LOCK
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/1X08-LOCK/
 - Description: adafruit : 1X08-LOCK
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-1X08-LOCK](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-1X08-LOCK)
 - Short Link: [http://oom.lt/FZA1X8L](http://oom.lt/FZA1X8L)

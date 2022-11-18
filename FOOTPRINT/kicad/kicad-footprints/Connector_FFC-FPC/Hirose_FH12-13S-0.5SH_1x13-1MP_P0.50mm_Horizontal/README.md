@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_FFC-FPC-Hirose_FH12-13S-0.5SH_1x13-1MP_P0.50mm_Horizontal
 - Hex ID: FZKCNFFCFPCHIROSEFH1213S5SH1X131MPP5H
 - Name: Connector_FFC-FPC : Hirose_FH12-13S-0.5SH_1x13-1MP_P0.50mm_Horizontal
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_FFC-FPC/Hirose_FH12-13S-0.5SH_1x13-1MP_P0.50mm_Horizontal/
 - Description: Connector_FFC-FPC : Hirose_FH12-13S-0.5SH_1x13-1MP_P0.50mm_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_FFC-FPC-Hirose_FH12-13S-0.5SH_1x13-1MP_P0.50mm_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_FFC-FPC-Hirose_FH12-13S-0.5SH_1x13-1MP_P0.50mm_Horizontal)
 - Short Link: [http://oom.lt/FZKCNFFCFPCHIROSEFH1213S5SH1X131MPP5H](http://oom.lt/FZKCNFFCFPCHIROSEFH1213S5SH1X131MPP5H)

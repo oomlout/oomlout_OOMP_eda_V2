@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-amp-mt-S06P
 - Hex ID: FZECONAMPMTS6P
 - Name: con-amp-mt : S06P
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-amp-mt/S06P/
 - Description: con-amp-mt : S06P
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-amp-mt-S06P](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-amp-mt-S06P)
 - Short Link: [http://oom.lt/FZECONAMPMTS6P](http://oom.lt/FZECONAMPMTS6P)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Memory_NVRAM-MB85RS2MT
 - Hex ID: SZKMEMORYNVRAMMB85RS2MT
 - Name: Memory_NVRAM : MB85RS2MT
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Memory_NVRAM/MB85RS2MT/
 - Description: Memory_NVRAM : MB85RS2MT
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_NVRAM-MB85RS2MT](http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_NVRAM-MB85RS2MT)
 - Short Link: [http://oom.lt/SZKMEMORYNVRAMMB85RS2MT](http://oom.lt/SZKMEMORYNVRAMMB85RS2MT)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-rcl-SANYO-OSCON_F'
 - Hex ID: FZERCLSANYOOSCONF'
 - Name: rcl : SANYO-OSCON_F'
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/rcl/SANYO-OSCON_F'/
 - Description: rcl : SANYO-OSCON_F'
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-SANYO-OSCON_F'](http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-SANYO-OSCON_F')
 - Short Link: [http://oom.lt/FZERCLSANYOOSCONF'](http://oom.lt/FZERCLSANYOOSCONF')

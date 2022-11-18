@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-molex-87758-5016
 - Hex ID: FZECONMX87758516
 - Name: con-molex : 87758-5016
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-molex/87758-5016/
 - Description: con-molex : 87758-5016
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-molex-87758-5016](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-molex-87758-5016)
 - Short Link: [http://oom.lt/FZECONMX87758516](http://oom.lt/FZECONMX87758516)

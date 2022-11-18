@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Bluetooth_Module_BL600-SA
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSBLUETOOTHMOBL6SA
 - Name: digikey-footprints : Bluetooth_Module_BL600-SA
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Bluetooth_Module_BL600-SA/
 - Description: digikey-footprints : Bluetooth_Module_BL600-SA
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Bluetooth_Module_BL600-SA](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Bluetooth_Module_BL600-SA)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSBLUETOOTHMOBL6SA](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSBLUETOOTHMOBL6SA)

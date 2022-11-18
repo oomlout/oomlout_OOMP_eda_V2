@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-IOTA
 - Hex ID: FZSRFIOTA
 - Name: SparkFun-RF : IOTA
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-RF/IOTA/
 - Description: SparkFun-RF : IOTA
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-IOTA](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-IOTA)
 - Short Link: [http://oom.lt/FZSRFIOTA](http://oom.lt/FZSRFIOTA)

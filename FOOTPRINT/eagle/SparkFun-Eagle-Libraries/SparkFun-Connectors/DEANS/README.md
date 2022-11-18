@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-DEANS
 - Hex ID: FZSSPARKFUNCNSDEANS
 - Name: SparkFun-Connectors : DEANS
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Connectors/DEANS/
 - Description: SparkFun-Connectors : DEANS
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-DEANS](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-DEANS)
 - Short Link: [http://oom.lt/FZSSPARKFUNCNSDEANS](http://oom.lt/FZSSPARKFUNCNSDEANS)

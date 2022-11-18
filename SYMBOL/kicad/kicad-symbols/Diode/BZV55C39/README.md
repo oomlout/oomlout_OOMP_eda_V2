@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-BZV55C39
 - Hex ID: SZKDIODEBZV55C39
 - Name: Diode : BZV55C39
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/BZV55C39/
 - Description: Diode : BZV55C39
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-BZV55C39](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-BZV55C39)
 - Short Link: [http://oom.lt/SZKDIODEBZV55C39](http://oom.lt/SZKDIODEBZV55C39)

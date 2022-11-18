@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-NCP163AFCS260T2G
 - Hex ID: SZKREGULATORLINEARNCP163AFCS26T2G
 - Name: Regulator_Linear : NCP163AFCS260T2G
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/NCP163AFCS260T2G/
 - Description: Regulator_Linear : NCP163AFCS260T2G
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-NCP163AFCS260T2G](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-NCP163AFCS260T2G)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARNCP163AFCS26T2G](http://oom.lt/SZKREGULATORLINEARNCP163AFCS26T2G)

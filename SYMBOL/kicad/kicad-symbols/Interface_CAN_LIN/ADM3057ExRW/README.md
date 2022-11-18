@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_CAN_LIN-ADM3057ExRW
 - Hex ID: SZKINTERFACECANLINADM357EXRW
 - Name: Interface_CAN_LIN : ADM3057ExRW
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_CAN_LIN/ADM3057ExRW/
 - Description: Interface_CAN_LIN : ADM3057ExRW
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_CAN_LIN-ADM3057ExRW](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_CAN_LIN-ADM3057ExRW)
 - Short Link: [http://oom.lt/SZKINTERFACECANLINADM357EXRW](http://oom.lt/SZKINTERFACECANLINADM357EXRW)

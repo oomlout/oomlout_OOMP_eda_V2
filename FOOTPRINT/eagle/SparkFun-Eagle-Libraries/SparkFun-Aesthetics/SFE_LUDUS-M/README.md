@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Aesthetics-SFE_LUDUS-M
 - Hex ID: FZSASFELUDUSM
 - Name: SparkFun-Aesthetics : SFE_LUDUS-M
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Aesthetics/SFE_LUDUS-M/
 - Description: SparkFun-Aesthetics : SFE_LUDUS-M
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Aesthetics-SFE_LUDUS-M](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Aesthetics-SFE_LUDUS-M)
 - Short Link: [http://oom.lt/FZSASFELUDUSM](http://oom.lt/FZSASFELUDUSM)

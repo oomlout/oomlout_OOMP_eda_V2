@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-buzzer-KSS1201
 - Hex ID: FZEBUZZERKSS121
 - Name: buzzer : KSS1201
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/buzzer/KSS1201/
 - Description: buzzer : KSS1201
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-buzzer-KSS1201](http://oom.lt/FOOTPRINT-eagle-eagle-default-buzzer-KSS1201)
 - Short Link: [http://oom.lt/FZEBUZZERKSS121](http://oom.lt/FZEBUZZERKSS121)

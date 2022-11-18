@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-2X3_OFFSET
 - Hex ID: FZSSPARKFUNCNS2X3O
 - Name: SparkFun-Connectors : 2X3_OFFSET
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Connectors/2X3_OFFSET/
 - Description: SparkFun-Connectors : 2X3_OFFSET
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-2X3_OFFSET](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-2X3_OFFSET)
 - Short Link: [http://oom.lt/FZSSPARKFUNCNS2X3O](http://oom.lt/FZSSPARKFUNCNS2X3O)

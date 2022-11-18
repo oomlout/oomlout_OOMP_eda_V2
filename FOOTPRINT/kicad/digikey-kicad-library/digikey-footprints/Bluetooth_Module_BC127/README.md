@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Bluetooth_Module_BC127
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSBLUETOOTHMOBC127
 - Name: digikey-footprints : Bluetooth_Module_BC127
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Bluetooth_Module_BC127/
 - Description: digikey-footprints : Bluetooth_Module_BC127
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Bluetooth_Module_BC127](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Bluetooth_Module_BC127)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSBLUETOOTHMOBC127](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSBLUETOOTHMOBC127)

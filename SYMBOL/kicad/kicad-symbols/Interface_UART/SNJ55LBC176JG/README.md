@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_UART-SNJ55LBC176JG
 - Hex ID: SZKINTERFACEUARTSNJ55LBC176JG
 - Name: Interface_UART : SNJ55LBC176JG
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_UART/SNJ55LBC176JG/
 - Description: Interface_UART : SNJ55LBC176JG
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_UART-SNJ55LBC176JG](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_UART-SNJ55LBC176JG)
 - Short Link: [http://oom.lt/SZKINTERFACEUARTSNJ55LBC176JG](http://oom.lt/SZKINTERFACEUARTSNJ55LBC176JG)

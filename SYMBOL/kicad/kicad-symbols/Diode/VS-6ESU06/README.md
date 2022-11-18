@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-VS-6ESU06
 - Hex ID: SZKDIODEVS6ESU6
 - Name: Diode : VS-6ESU06
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/VS-6ESU06/
 - Description: Diode : VS-6ESU06
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-VS-6ESU06](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-VS-6ESU06)
 - Short Link: [http://oom.lt/SZKDIODEVS6ESU6](http://oom.lt/SZKDIODEVS6ESU6)

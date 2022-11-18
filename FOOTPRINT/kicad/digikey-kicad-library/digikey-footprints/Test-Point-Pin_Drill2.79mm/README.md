@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZDIGIDIGIKEYFOOTPRINTSTESTPOINTPINDRILL279 > digikey-footprints : Test-Point-Pin_Drill2.79mm](#fzdigidigikeyfootprintstestpointpindrill279--digikey-footprints--test-point-pin_drill279mm)
+* [FZDIGIDIGIKEYFOOTPRINTSTESTPOINTPDRILL279 > digikey-footprints : Test-Point-Pin_Drill2.79mm](#fzdigidigikeyfootprintstestpointpdrill279--digikey-footprints--test-point-pin_drill279mm)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZDIGIDIGIKEYFOOTPRINTSTESTPOINTPINDRILL279 > digikey-footprints : Test-Point-Pin_Drill2.79mm
+# FZDIGIDIGIKEYFOOTPRINTSTESTPOINTPDRILL279 > digikey-footprints : Test-Point-Pin_Drill2.79mm
 
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Test-Point-Pin_Drill2.79mm
-- Hex ID: FZDIGIDIGIKEYFOOTPRINTSTESTPOINTPINDRILL279
+- Hex ID: FZDIGIDIGIKEYFOOTPRINTSTESTPOINTPDRILL279
 - Name: digikey-footprints : Test-Point-Pin_Drill2.79mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Test-Point-Pin_Drill2.79mm/
 - Description: digikey-footprints : Test-Point-Pin_Drill2.79mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Test-Point-Pin_Drill2.79mm](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Test-Point-Pin_Drill2.79mm)
-- Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSTESTPOINTPINDRILL279](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSTESTPOINTPINDRILL279)
+- Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSTESTPOINTPDRILL279](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSTESTPOINTPDRILL279)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|digikey-footprints|
 |OOMP Index|oompIndex|Test-Point-Pin_Drill2.79mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Test-Point-Pin_Drill2.79mm|
-|Hex ID (short code)|hexID|FZDIGIDIGIKEYFOOTPRINTSTESTPOINTPINDRILL279|
+|Hex ID (short code)|hexID|FZDIGIDIGIKEYFOOTPRINTSTESTPOINTPDRILL279|
 |name|name|digikey-footprints : Test-Point-Pin_Drill2.79mm|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Test-Point-Pin_Drill2.79mm'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> None</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||

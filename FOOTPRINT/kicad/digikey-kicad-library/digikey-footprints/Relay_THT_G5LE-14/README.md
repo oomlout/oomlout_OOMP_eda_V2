@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Relay_THT_G5LE-14
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSRELG5LE14
 - Name: digikey-footprints : Relay_THT_G5LE-14
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Relay_THT_G5LE-14/
 - Description: digikey-footprints : Relay_THT_G5LE-14
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Relay_THT_G5LE-14](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Relay_THT_G5LE-14)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSRELG5LE14](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSRELG5LE14)

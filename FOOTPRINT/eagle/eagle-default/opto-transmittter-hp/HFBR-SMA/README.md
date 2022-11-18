@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-opto-transmittter-hp-HFBR-SMA
 - Hex ID: FZEOPTOTRANSMITTTERHPHFBRS
 - Name: opto-transmittter-hp : HFBR-SMA
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/opto-transmittter-hp/HFBR-SMA/
 - Description: opto-transmittter-hp : HFBR-SMA
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-opto-transmittter-hp-HFBR-SMA](http://oom.lt/FOOTPRINT-eagle-eagle-default-opto-transmittter-hp-HFBR-SMA)
 - Short Link: [http://oom.lt/FZEOPTOTRANSMITTTERHPHFBRS](http://oom.lt/FZEOPTOTRANSMITTTERHPHFBRS)

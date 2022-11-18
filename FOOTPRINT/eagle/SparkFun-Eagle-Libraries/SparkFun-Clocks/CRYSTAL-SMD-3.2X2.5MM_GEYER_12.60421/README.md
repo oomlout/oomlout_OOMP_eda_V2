@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Clocks-CRYSTAL-SMD-3.2X2.5MM_GEYER_12.60421
 - Hex ID: FZSCLXSM32X25GEYER126421
 - Name: SparkFun-Clocks : CRYSTAL-SMD-3.2X2.5MM_GEYER_12.60421
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Clocks/CRYSTAL-SMD-3.2X2.5MM_GEYER_12.60421/
 - Description: SparkFun-Clocks : CRYSTAL-SMD-3.2X2.5MM_GEYER_12.60421
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Clocks-CRYSTAL-SMD-3.2X2.5MM_GEYER_12.60421](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Clocks-CRYSTAL-SMD-3.2X2.5MM_GEYER_12.60421)
 - Short Link: [http://oom.lt/FZSCLXSM32X25GEYER126421](http://oom.lt/FZSCLXSM32X25GEYER126421)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-NANO_SIM_PP
 - Hex ID: FZSSPARKFUNCNSNANOSIMPP
 - Name: SparkFun-Connectors : NANO_SIM_PP
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Connectors/NANO_SIM_PP/
 - Description: SparkFun-Connectors : NANO_SIM_PP
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-NANO_SIM_PP](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-NANO_SIM_PP)
 - Short Link: [http://oom.lt/FZSSPARKFUNCNSNANOSIMPP](http://oom.lt/FZSSPARKFUNCNSNANOSIMPP)

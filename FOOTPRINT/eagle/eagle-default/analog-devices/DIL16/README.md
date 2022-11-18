@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-analog-devices-DIL16
 - Hex ID: FZEANALOGDEVICESDIL16
 - Name: analog-devices : DIL16
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/analog-devices/DIL16/
 - Description: analog-devices : DIL16
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-analog-devices-DIL16](http://oom.lt/FOOTPRINT-eagle-eagle-default-analog-devices-DIL16)
 - Short Link: [http://oom.lt/FZEANALOGDEVICESDIL16](http://oom.lt/FZEANALOGDEVICESDIL16)

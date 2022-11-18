@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEREFPACKAGESSOT136A > ref-packages : SOT136A](#fzerefpackagessot136a--ref-packages--sot136a)
+* [FZEREFPSSOT136A > ref-packages : SOT136A](#fzerefpssot136a--ref-packages--sot136a)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEREFPACKAGESSOT136A > ref-packages : SOT136A
+# FZEREFPSSOT136A > ref-packages : SOT136A
 
 - ID: FOOTPRINT-eagle-eagle-default-ref-packages-SOT136A
-- Hex ID: FZEREFPACKAGESSOT136A
+- Hex ID: FZEREFPSSOT136A
 - Name: ref-packages : SOT136A
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ref-packages/SOT136A/
 - Description: ref-packages : SOT136A
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-SOT136A](http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-SOT136A)
-- Short Link: [http://oom.lt/FZEREFPACKAGESSOT136A](http://oom.lt/FZEREFPACKAGESSOT136A)
+- Short Link: [http://oom.lt/FZEREFPSSOT136A](http://oom.lt/FZEREFPSSOT136A)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|ref-packages|
 |OOMP Index|oompIndex|SOT136A|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-ref-packages-SOT136A|
-|Hex ID (short code)|hexID|FZEREFPACKAGESSOT136A|
+|Hex ID (short code)|hexID|FZEREFPSSOT136A|
 |name|name|ref-packages : SOT136A|
 ||||

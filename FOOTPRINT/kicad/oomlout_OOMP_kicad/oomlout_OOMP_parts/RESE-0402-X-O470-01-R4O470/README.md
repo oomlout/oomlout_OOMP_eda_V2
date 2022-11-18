@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0402-X-O470-01-R4O470
 - Hex ID: FZOOMPKOOMPPRESE42XO471R4O47
 - Name: oomlout_OOMP_parts : RESE-0402-X-O470-01-R4O470
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/RESE-0402-X-O470-01-R4O470/
 - Description: oomlout_OOMP_parts : RESE-0402-X-O470-01-R4O470
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0402-X-O470-01-R4O470](http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0402-X-O470-01-R4O470)
 - Short Link: [http://oom.lt/FZOOMPKOOMPPRESE42XO471R4O47](http://oom.lt/FZOOMPKOOMPPRESE42XO471R4O47)

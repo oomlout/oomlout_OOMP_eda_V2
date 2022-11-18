@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-varistor-S07K230
 - Hex ID: FZEVS7K23
 - Name: varistor : S07K230
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/varistor/S07K230/
 - Description: varistor : S07K230
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-varistor-S07K230](http://oom.lt/FOOTPRINT-eagle-eagle-default-varistor-S07K230)
 - Short Link: [http://oom.lt/FZEVS7K23](http://oom.lt/FZEVS7K23)

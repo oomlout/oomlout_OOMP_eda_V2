@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-led-LED5MM_H6,0MM
 - Hex ID: FZELL5H6
 - Name: led : LED5MM_H6,0MM
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/led/LED5MM_H6,0MM/
 - Description: led : LED5MM_H6,0MM
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-led-LED5MM_H6,0MM](http://oom.lt/FOOTPRINT-eagle-eagle-default-led-LED5MM_H6,0MM)
 - Short Link: [http://oom.lt/FZELL5H6](http://oom.lt/FZELL5H6)

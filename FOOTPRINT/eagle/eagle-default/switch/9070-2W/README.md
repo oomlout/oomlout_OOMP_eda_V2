@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-switch-9070-2W
 - Hex ID: FZESW972W
 - Name: switch : 9070-2W
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/switch/9070-2W/
 - Description: switch : 9070-2W
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-9070-2W](http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-9070-2W)
 - Short Link: [http://oom.lt/FZESW972W](http://oom.lt/FZESW972W)

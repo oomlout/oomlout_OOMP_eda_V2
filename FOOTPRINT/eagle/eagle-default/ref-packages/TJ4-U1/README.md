@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEREFPACKAGESTJ4U1 > ref-packages : TJ4-U1](#fzerefpackagestj4u1--ref-packages--tj4-u1)
+* [FZEREFPSTJ4U1 > ref-packages : TJ4-U1](#fzerefpstj4u1--ref-packages--tj4-u1)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEREFPACKAGESTJ4U1 > ref-packages : TJ4-U1
+# FZEREFPSTJ4U1 > ref-packages : TJ4-U1
 
 - ID: FOOTPRINT-eagle-eagle-default-ref-packages-TJ4-U1
-- Hex ID: FZEREFPACKAGESTJ4U1
+- Hex ID: FZEREFPSTJ4U1
 - Name: ref-packages : TJ4-U1
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ref-packages/TJ4-U1/
 - Description: ref-packages : TJ4-U1
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-TJ4-U1](http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-TJ4-U1)
-- Short Link: [http://oom.lt/FZEREFPACKAGESTJ4U1](http://oom.lt/FZEREFPACKAGESTJ4U1)
+- Short Link: [http://oom.lt/FZEREFPSTJ4U1](http://oom.lt/FZEREFPSTJ4U1)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|ref-packages|
 |OOMP Index|oompIndex|TJ4-U1|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-ref-packages-TJ4-U1|
-|Hex ID (short code)|hexID|FZEREFPACKAGESTJ4U1|
+|Hex ID (short code)|hexID|FZEREFPSTJ4U1|
 |name|name|ref-packages : TJ4-U1|
 ||||

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_SO-Texas_R-PDSO-G8_EP2.95x4.9mm_Mask2.4x3.1mm
 - Hex ID: FZKSOTEXASRPDSOG8EP295X49MASK24X31
 - Name: Package_SO : Texas_R-PDSO-G8_EP2.95x4.9mm_Mask2.4x3.1mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SO/Texas_R-PDSO-G8_EP2.95x4.9mm_Mask2.4x3.1mm/
 - Description: Package_SO : Texas_R-PDSO-G8_EP2.95x4.9mm_Mask2.4x3.1mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SO-Texas_R-PDSO-G8_EP2.95x4.9mm_Mask2.4x3.1mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SO-Texas_R-PDSO-G8_EP2.95x4.9mm_Mask2.4x3.1mm)
 - Short Link: [http://oom.lt/FZKSOTEXASRPDSOG8EP295X49MASK24X31](http://oom.lt/FZKSOTEXASRPDSOG8EP295X49MASK24X31)

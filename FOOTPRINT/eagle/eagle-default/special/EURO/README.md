@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-special-EURO
 - Hex ID: FZESPECIALEURO
 - Name: special : EURO
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/special/EURO/
 - Description: special : EURO
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-special-EURO](http://oom.lt/FOOTPRINT-eagle-eagle-default-special-EURO)
 - Short Link: [http://oom.lt/FZESPECIALEURO](http://oom.lt/FZESPECIALEURO)

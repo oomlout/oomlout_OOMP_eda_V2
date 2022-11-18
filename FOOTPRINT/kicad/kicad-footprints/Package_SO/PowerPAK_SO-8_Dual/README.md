@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_SO-PowerPAK_SO-8_Dual
 - Hex ID: FZKSOPOWERPAKSO8DUAL
 - Name: Package_SO : PowerPAK_SO-8_Dual
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SO/PowerPAK_SO-8_Dual/
 - Description: Package_SO : PowerPAK_SO-8_Dual
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SO-PowerPAK_SO-8_Dual](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SO-PowerPAK_SO-8_Dual)
 - Short Link: [http://oom.lt/FZKSOPOWERPAKSO8DUAL](http://oom.lt/FZKSOPOWERPAKSO8DUAL)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_Audio-Jack_XLR_Neutrik_NC3FAAV1-DA_Vertical
 - Hex ID: FZKCNAUDIOJXLRNEUTRIKNC3FAAV1DAF
 - Name: Connector_Audio : Jack_XLR_Neutrik_NC3FAAV1-DA_Vertical
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Audio/Jack_XLR_Neutrik_NC3FAAV1-DA_Vertical/
 - Description: Connector_Audio : Jack_XLR_Neutrik_NC3FAAV1-DA_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Audio-Jack_XLR_Neutrik_NC3FAAV1-DA_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Audio-Jack_XLR_Neutrik_NC3FAAV1-DA_Vertical)
 - Short Link: [http://oom.lt/FZKCNAUDIOJXLRNEUTRIKNC3FAAV1DAF](http://oom.lt/FZKCNAUDIOJXLRNEUTRIKNC3FAAV1DAF)

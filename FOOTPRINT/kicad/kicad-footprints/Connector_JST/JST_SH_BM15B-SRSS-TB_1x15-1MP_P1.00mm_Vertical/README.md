@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_SH_BM15B-SRSS-TB_1x15-1MP_P1.00mm_Vertical
 - Hex ID: FZKCNJSTJSTSHBM15BSRSSTB1X151MPP1F
 - Name: Connector_JST : JST_SH_BM15B-SRSS-TB_1x15-1MP_P1.00mm_Vertical
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_SH_BM15B-SRSS-TB_1x15-1MP_P1.00mm_Vertical/
 - Description: Connector_JST : JST_SH_BM15B-SRSS-TB_1x15-1MP_P1.00mm_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_SH_BM15B-SRSS-TB_1x15-1MP_P1.00mm_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_SH_BM15B-SRSS-TB_1x15-1MP_P1.00mm_Vertical)
 - Short Link: [http://oom.lt/FZKCNJSTJSTSHBM15BSRSSTB1X151MPP1F](http://oom.lt/FZKCNJSTJSTSHBM15BSRSSTB1X151MPP1F)

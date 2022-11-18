@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-opto-vishay-TFDU4-VER
 - Hex ID: FZEOPTOVISHAYTFDU4VER
 - Name: opto-vishay : TFDU4-VER
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/opto-vishay/TFDU4-VER/
 - Description: opto-vishay : TFDU4-VER
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-opto-vishay-TFDU4-VER](http://oom.lt/FOOTPRINT-eagle-eagle-default-opto-vishay-TFDU4-VER)
 - Short Link: [http://oom.lt/FZEOPTOVISHAYTFDU4VER](http://oom.lt/FZEOPTOVISHAYTFDU4VER)

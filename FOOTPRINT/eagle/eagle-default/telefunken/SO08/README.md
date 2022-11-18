@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-telefunken-SO08
 - Hex ID: FZETELEFUNKENSO8
 - Name: telefunken : SO08
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/telefunken/SO08/
 - Description: telefunken : SO08
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-telefunken-SO08](http://oom.lt/FOOTPRINT-eagle-eagle-default-telefunken-SO08)
 - Short Link: [http://oom.lt/FZETELEFUNKENSO8](http://oom.lt/FZETELEFUNKENSO8)

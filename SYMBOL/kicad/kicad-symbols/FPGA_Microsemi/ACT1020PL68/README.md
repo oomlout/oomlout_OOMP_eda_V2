@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-FPGA_Microsemi-ACT1020PL68
 - Hex ID: SZKFPGAMSEMIACT12PL68
 - Name: FPGA_Microsemi : ACT1020PL68
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/FPGA_Microsemi/ACT1020PL68/
 - Description: FPGA_Microsemi : ACT1020PL68
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-FPGA_Microsemi-ACT1020PL68](http://oom.lt/SYMBOL-kicad-kicad-symbols-FPGA_Microsemi-ACT1020PL68)
 - Short Link: [http://oom.lt/SZKFPGAMSEMIACT12PL68](http://oom.lt/SZKFPGAMSEMIACT12PL68)

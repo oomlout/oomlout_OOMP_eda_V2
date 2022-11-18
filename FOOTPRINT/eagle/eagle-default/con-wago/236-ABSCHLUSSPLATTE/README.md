@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-wago-236-ABSCHLUSSPLATTE
 - Hex ID: FZECONWAGO236ABSCHLUSSPLATTE
 - Name: con-wago : 236-ABSCHLUSSPLATTE
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-wago/236-ABSCHLUSSPLATTE/
 - Description: con-wago : 236-ABSCHLUSSPLATTE
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-wago-236-ABSCHLUSSPLATTE](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-wago-236-ABSCHLUSSPLATTE)
 - Short Link: [http://oom.lt/FZECONWAGO236ABSCHLUSSPLATTE](http://oom.lt/FZECONWAGO236ABSCHLUSSPLATTE)

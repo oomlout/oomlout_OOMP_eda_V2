@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-murata-filter-NFM21C
 - Hex ID: FZEMURATAFILNFM21C
 - Name: murata-filter : NFM21C
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/murata-filter/NFM21C/
 - Description: murata-filter : NFM21C
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-murata-filter-NFM21C](http://oom.lt/FOOTPRINT-eagle-eagle-default-murata-filter-NFM21C)
 - Short Link: [http://oom.lt/FZEMURATAFILNFM21C](http://oom.lt/FZEMURATAFILNFM21C)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-crystal-geyer_V1_0-11.6X5.5
 - Hex ID: FZEXGEYERV1116X55
 - Name: crystal-geyer_V1_0 : 11.6X5.5
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/crystal-geyer_V1_0/11.6X5.5/
 - Description: crystal-geyer_V1_0 : 11.6X5.5
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-crystal-geyer_V1_0-11.6X5.5](http://oom.lt/FOOTPRINT-eagle-eagle-default-crystal-geyer_V1_0-11.6X5.5)
 - Short Link: [http://oom.lt/FZEXGEYERV1116X55](http://oom.lt/FZEXGEYERV1116X55)

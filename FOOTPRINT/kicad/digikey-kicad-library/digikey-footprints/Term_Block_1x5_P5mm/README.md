@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Term_Block_1x5_P5mm
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSTERMBL1X5P5
 - Name: digikey-footprints : Term_Block_1x5_P5mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Term_Block_1x5_P5mm/
 - Description: digikey-footprints : Term_Block_1x5_P5mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Term_Block_1x5_P5mm](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Term_Block_1x5_P5mm)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSTERMBL1X5P5](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSTERMBL1X5P5)

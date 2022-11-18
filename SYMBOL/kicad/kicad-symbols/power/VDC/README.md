@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-power-VDC
 - Hex ID: SZKPOWERVDC
 - Name: power : VDC
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/power/VDC/
 - Description: power : VDC
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-power-VDC](http://oom.lt/SYMBOL-kicad-kicad-symbols-power-VDC)
 - Short Link: [http://oom.lt/SZKPOWERVDC](http://oom.lt/SZKPOWERVDC)

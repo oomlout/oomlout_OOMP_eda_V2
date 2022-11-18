@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-rcl-SMC_P
 - Hex ID: FZERCLSMCP
 - Name: rcl : SMC_P
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/rcl/SMC_P/
 - Description: rcl : SMC_P
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-SMC_P](http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-SMC_P)
 - Short Link: [http://oom.lt/FZERCLSMCP](http://oom.lt/FZERCLSMCP)

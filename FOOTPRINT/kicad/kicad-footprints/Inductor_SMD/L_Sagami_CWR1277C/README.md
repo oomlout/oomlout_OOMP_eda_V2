@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Sagami_CWR1277C
 - Hex ID: FZKINLSAGAMICWR1277C
 - Name: Inductor_SMD : L_Sagami_CWR1277C
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Sagami_CWR1277C/
 - Description: Inductor_SMD : L_Sagami_CWR1277C
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Sagami_CWR1277C](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Sagami_CWR1277C)
 - Short Link: [http://oom.lt/FZKINLSAGAMICWR1277C](http://oom.lt/FZKINLSAGAMICWR1277C)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_TUMD2
 - Hex ID: FZKDDTUMD2
 - Name: Diode_SMD : D_TUMD2
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Diode_SMD/D_TUMD2/
 - Description: Diode_SMD : D_TUMD2
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_TUMD2](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_TUMD2)
 - Short Link: [http://oom.lt/FZKDDTUMD2](http://oom.lt/FZKDDTUMD2)

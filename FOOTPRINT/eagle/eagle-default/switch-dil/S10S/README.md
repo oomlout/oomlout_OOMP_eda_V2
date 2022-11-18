@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-switch-dil-S10S
 - Hex ID: FZESWDILS1S
 - Name: switch-dil : S10S
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/switch-dil/S10S/
 - Description: switch-dil : S10S
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-dil-S10S](http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-dil-S10S)
 - Short Link: [http://oom.lt/FZESWDILS1S](http://oom.lt/FZESWDILS1S)

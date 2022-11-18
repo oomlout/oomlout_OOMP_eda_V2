@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-ADAFRUIT200MIL
 - Hex ID: FZAADA2M
 - Name: adafruit : ADAFRUIT200MIL
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/ADAFRUIT200MIL/
 - Description: adafruit : ADAFRUIT200MIL
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-ADAFRUIT200MIL](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-ADAFRUIT200MIL)
 - Short Link: [http://oom.lt/FZAADA2M](http://oom.lt/FZAADA2M)

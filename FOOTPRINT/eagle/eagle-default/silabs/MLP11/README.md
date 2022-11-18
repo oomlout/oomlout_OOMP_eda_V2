@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-silabs-MLP11
 - Hex ID: FZESILABSMLP11
 - Name: silabs : MLP11
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/silabs/MLP11/
 - Description: silabs : MLP11
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-silabs-MLP11](http://oom.lt/FOOTPRINT-eagle-eagle-default-silabs-MLP11)
 - Short Link: [http://oom.lt/FZESILABSMLP11](http://oom.lt/FZESILABSMLP11)

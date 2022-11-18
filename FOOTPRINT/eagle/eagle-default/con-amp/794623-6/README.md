@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-amp-794623-6
 - Hex ID: FZECONAMP7946236
 - Name: con-amp : 794623-6
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-amp/794623-6/
 - Description: con-amp : 794623-6
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-amp-794623-6](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-amp-794623-6)
 - Short Link: [http://oom.lt/FZECONAMP7946236](http://oom.lt/FZECONAMP7946236)

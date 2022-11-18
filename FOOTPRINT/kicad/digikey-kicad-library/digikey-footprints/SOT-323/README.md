@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SOT-323
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSSOT323
 - Name: digikey-footprints : SOT-323
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/SOT-323/
 - Description: digikey-footprints : SOT-323
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SOT-323](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SOT-323)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSSOT323](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSSOT323)

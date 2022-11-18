@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-TERS-35D-L-PI06-01-T35L6
 - Hex ID: FZOOMPKOOMPPTERS35DLPI61T35L6
 - Name: oomlout_OOMP_parts : TERS-35D-L-PI06-01-T35L6
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/TERS-35D-L-PI06-01-T35L6/
 - Description: oomlout_OOMP_parts : TERS-35D-L-PI06-01-T35L6
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-TERS-35D-L-PI06-01-T35L6](http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-TERS-35D-L-PI06-01-T35L6)
 - Short Link: [http://oom.lt/FZOOMPKOOMPPTERS35DLPI61T35L6](http://oom.lt/FZOOMPKOOMPPTERS35DLPI61T35L6)

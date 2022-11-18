@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-RESE-1206-X-O000-01-R12O000-C17888
 - Hex ID: SZOOMPKJLCRESE126XO1R12OC17888
 - Name: oomlout_OOMP_JLCC_Basic : RESE-1206-X-O000-01-R12O000-C17888
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_JLCC_Basic/RESE-1206-X-O000-01-R12O000-C17888/
 - Description: oomlout_OOMP_JLCC_Basic : RESE-1206-X-O000-01-R12O000-C17888
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-RESE-1206-X-O000-01-R12O000-C17888](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-RESE-1206-X-O000-01-R12O000-C17888)
 - Short Link: [http://oom.lt/SZOOMPKJLCRESE126XO1R12OC17888](http://oom.lt/SZOOMPKJLCRESE126XO1R12OC17888)

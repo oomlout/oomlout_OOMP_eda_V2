@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Display_Character-MAN3640A
 - Hex ID: SZKDICHARACTERMAN364A
 - Name: Display_Character : MAN3640A
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Display_Character/MAN3640A/
 - Description: Display_Character : MAN3640A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-MAN3640A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-MAN3640A)
 - Short Link: [http://oom.lt/SZKDICHARACTERMAN364A](http://oom.lt/SZKDICHARACTERMAN364A)

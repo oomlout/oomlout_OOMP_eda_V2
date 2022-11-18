@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-F25H
 - Hex ID: FZSRTF25H
 - Name: SparkFun-Retired : F25H
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Retired/F25H/
 - Description: SparkFun-Retired : F25H
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-F25H](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-F25H)
 - Short Link: [http://oom.lt/FZSRTF25H](http://oom.lt/FZSRTF25H)

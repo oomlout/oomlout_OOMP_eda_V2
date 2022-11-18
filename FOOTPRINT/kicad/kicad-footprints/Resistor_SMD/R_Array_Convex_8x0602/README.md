@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_Array_Convex_8x0602
 - Hex ID: FZKRRARRAYCONVEX8X62
 - Name: Resistor_SMD : R_Array_Convex_8x0602
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_Array_Convex_8x0602/
 - Description: Resistor_SMD : R_Array_Convex_8x0602
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_Array_Convex_8x0602](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_Array_Convex_8x0602)
 - Short Link: [http://oom.lt/FZKRRARRAYCONVEX8X62](http://oom.lt/FZKRRARRAYCONVEX8X62)

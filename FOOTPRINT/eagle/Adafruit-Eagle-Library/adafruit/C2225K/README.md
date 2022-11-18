@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-C2225K
 - Hex ID: FZAC2225K
 - Name: adafruit : C2225K
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/C2225K/
 - Description: adafruit : C2225K
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-C2225K](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-C2225K)
 - Short Link: [http://oom.lt/FZAC2225K](http://oom.lt/FZAC2225K)

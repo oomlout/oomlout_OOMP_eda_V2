@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Converter_DCDC-Converter_DCDC_Murata_CRE1xxxxxxDC_THT
 - Hex ID: FZKCONCONMCRE1XXXXXXDCTHT
 - Name: Converter_DCDC : Converter_DCDC_Murata_CRE1xxxxxxDC_THT
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Converter_DCDC/Converter_DCDC_Murata_CRE1xxxxxxDC_THT/
 - Description: Converter_DCDC : Converter_DCDC_Murata_CRE1xxxxxxDC_THT
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Converter_DCDC-Converter_DCDC_Murata_CRE1xxxxxxDC_THT](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Converter_DCDC-Converter_DCDC_Murata_CRE1xxxxxxDC_THT)
 - Short Link: [http://oom.lt/FZKCONCONMCRE1XXXXXXDCTHT](http://oom.lt/FZKCONCONMCRE1XXXXXXDCTHT)

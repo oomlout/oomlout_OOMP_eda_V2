@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Audio-IRS20957S
 - Hex ID: SZKAMPLIFIERAUDIOIRS2957S
 - Name: Amplifier_Audio : IRS20957S
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Audio/IRS20957S/
 - Description: Amplifier_Audio : IRS20957S
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Audio-IRS20957S](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Audio-IRS20957S)
 - Short Link: [http://oom.lt/SZKAMPLIFIERAUDIOIRS2957S](http://oom.lt/SZKAMPLIFIERAUDIOIRS2957S)

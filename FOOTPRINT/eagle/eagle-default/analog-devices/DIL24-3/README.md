@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-analog-devices-DIL24-3
 - Hex ID: FZEANALOGDEVICESDIL243
 - Name: analog-devices : DIL24-3
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/analog-devices/DIL24-3/
 - Description: analog-devices : DIL24-3
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-analog-devices-DIL24-3](http://oom.lt/FOOTPRINT-eagle-eagle-default-analog-devices-DIL24-3)
 - Short Link: [http://oom.lt/FZEANALOGDEVICESDIL243](http://oom.lt/FZEANALOGDEVICESDIL243)

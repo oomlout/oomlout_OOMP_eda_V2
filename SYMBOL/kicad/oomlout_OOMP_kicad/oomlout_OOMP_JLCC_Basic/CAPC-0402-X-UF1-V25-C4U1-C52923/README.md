@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0402-X-UF1-V25-C4U1-C52923
 - Hex ID: SZOOMPKJLCCAPC42XUF1V25C4U1C52923
 - Name: oomlout_OOMP_JLCC_Basic : CAPC-0402-X-UF1-V25-C4U1-C52923
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_JLCC_Basic/CAPC-0402-X-UF1-V25-C4U1-C52923/
 - Description: oomlout_OOMP_JLCC_Basic : CAPC-0402-X-UF1-V25-C4U1-C52923
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0402-X-UF1-V25-C4U1-C52923](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0402-X-UF1-V25-C4U1-C52923)
 - Short Link: [http://oom.lt/SZOOMPKJLCCAPC42XUF1V25C4U1C52923](http://oom.lt/SZOOMPKJLCCAPC42XUF1V25C4U1C52923)

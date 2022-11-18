@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Power_Supervisor-MCP101-475D
 - Hex ID: SZKPOWERSUPERVISORMCP11475D
 - Name: Power_Supervisor : MCP101-475D
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Power_Supervisor/MCP101-475D/
 - Description: Power_Supervisor : MCP101-475D
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Supervisor-MCP101-475D](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Supervisor-MCP101-475D)
 - Short Link: [http://oom.lt/SZKPOWERSUPERVISORMCP11475D](http://oom.lt/SZKPOWERSUPERVISORMCP11475D)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_USB-CH340T
 - Hex ID: SZKINTERFACEUCH34T
 - Name: Interface_USB : CH340T
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_USB/CH340T/
 - Description: Interface_USB : CH340T
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_USB-CH340T](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_USB-CH340T)
 - Short Link: [http://oom.lt/SZKINTERFACEUCH34T](http://oom.lt/SZKINTERFACEUCH34T)

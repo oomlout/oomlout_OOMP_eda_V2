@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Converter_DCDC-MGJ3T12150505MC
 - Hex ID: SZKCONMGJ3T121555MC
 - Name: Converter_DCDC : MGJ3T12150505MC
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Converter_DCDC/MGJ3T12150505MC/
 - Description: Converter_DCDC : MGJ3T12150505MC
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-MGJ3T12150505MC](http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-MGJ3T12150505MC)
 - Short Link: [http://oom.lt/SZKCONMGJ3T121555MC](http://oom.lt/SZKCONMGJ3T121555MC)

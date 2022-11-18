@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-micro-philips-DIL40
 - Hex ID: FZEMPHILIPSDIL4
 - Name: micro-philips : DIL40
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/micro-philips/DIL40/
 - Description: micro-philips : DIL40
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-philips-DIL40](http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-philips-DIL40)
 - Short Link: [http://oom.lt/FZEMPHILIPSDIL4](http://oom.lt/FZEMPHILIPSDIL4)

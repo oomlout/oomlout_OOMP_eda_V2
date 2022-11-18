@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Filter-Filter_Schaffner_FN406
 - Hex ID: FZKFILFILSCHAFFNERFN46
 - Name: Filter : Filter_Schaffner_FN406
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Filter/Filter_Schaffner_FN406/
 - Description: Filter : Filter_Schaffner_FN406
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Filter-Filter_Schaffner_FN406](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Filter-Filter_Schaffner_FN406)
 - Short Link: [http://oom.lt/FZKFILFILSCHAFFNERFN46](http://oom.lt/FZKFILFILSCHAFFNERFN46)

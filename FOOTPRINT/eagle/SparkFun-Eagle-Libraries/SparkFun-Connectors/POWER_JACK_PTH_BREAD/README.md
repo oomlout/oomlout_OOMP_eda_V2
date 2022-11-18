@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-POWER_JACK_PTH_BREAD
 - Hex ID: FZSSPARKFUNCNSPOWERJPBREAD
 - Name: SparkFun-Connectors : POWER_JACK_PTH_BREAD
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Connectors/POWER_JACK_PTH_BREAD/
 - Description: SparkFun-Connectors : POWER_JACK_PTH_BREAD
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-POWER_JACK_PTH_BREAD](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-POWER_JACK_PTH_BREAD)
 - Short Link: [http://oom.lt/FZSSPARKFUNCNSPOWERJPBREAD](http://oom.lt/FZSSPARKFUNCNSPOWERJPBREAD)

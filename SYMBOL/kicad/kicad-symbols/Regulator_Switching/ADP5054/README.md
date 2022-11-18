@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-ADP5054
 - Hex ID: SZKREGULATORSWINGADP554
 - Name: Regulator_Switching : ADP5054
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/ADP5054/
 - Description: Regulator_Switching : ADP5054
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-ADP5054](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-ADP5054)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGADP554](http://oom.lt/SZKREGULATORSWINGADP554)

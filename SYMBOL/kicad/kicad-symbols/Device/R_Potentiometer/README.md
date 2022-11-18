@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Device-R_Potentiometer
 - Hex ID: SZKDEVICERPOT
 - Name: Device : R_Potentiometer
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/R_Potentiometer/
 - Description: Device : R_Potentiometer
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-R_Potentiometer](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-R_Potentiometer)
 - Short Link: [http://oom.lt/SZKDEVICERPOT](http://oom.lt/SZKDEVICERPOT)

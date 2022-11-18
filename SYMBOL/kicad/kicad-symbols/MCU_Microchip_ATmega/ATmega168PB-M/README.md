@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega168PB-M
 - Hex ID: SZKMCUMCHIPATMEGAATMEGA168PBM
 - Name: MCU_Microchip_ATmega : ATmega168PB-M
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_ATmega/ATmega168PB-M/
 - Description: MCU_Microchip_ATmega : ATmega168PB-M
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega168PB-M](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega168PB-M)
 - Short Link: [http://oom.lt/SZKMCUMCHIPATMEGAATMEGA168PBM](http://oom.lt/SZKMCUMCHIPATMEGAATMEGA168PBM)

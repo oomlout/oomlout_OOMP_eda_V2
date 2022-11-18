@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Converter_DCDC-TMR-1211
 - Hex ID: SZKCONTMR1211
 - Name: Converter_DCDC : TMR-1211
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Converter_DCDC/TMR-1211/
 - Description: Converter_DCDC : TMR-1211
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-TMR-1211](http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-TMR-1211)
 - Short Link: [http://oom.lt/SZKCONTMR1211](http://oom.lt/SZKCONTMR1211)

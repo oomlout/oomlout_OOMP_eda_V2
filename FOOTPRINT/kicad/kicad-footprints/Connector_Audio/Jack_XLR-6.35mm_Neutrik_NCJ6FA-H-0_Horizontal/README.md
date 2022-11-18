@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_Audio-Jack_XLR-6.35mm_Neutrik_NCJ6FA-H-0_Horizontal
 - Hex ID: FZKCNAUDIOJXLR635NEUTRIKNCJ6FAHH
 - Name: Connector_Audio : Jack_XLR-6.35mm_Neutrik_NCJ6FA-H-0_Horizontal
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Audio/Jack_XLR-6.35mm_Neutrik_NCJ6FA-H-0_Horizontal/
 - Description: Connector_Audio : Jack_XLR-6.35mm_Neutrik_NCJ6FA-H-0_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Audio-Jack_XLR-6.35mm_Neutrik_NCJ6FA-H-0_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Audio-Jack_XLR-6.35mm_Neutrik_NCJ6FA-H-0_Horizontal)
 - Short Link: [http://oom.lt/FZKCNAUDIOJXLR635NEUTRIKNCJ6FAHH](http://oom.lt/FZKCNAUDIOJXLR635NEUTRIKNCJ6FAHH)

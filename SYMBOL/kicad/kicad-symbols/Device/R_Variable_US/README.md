@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Device-R_Variable_US
 - Hex ID: SZKDEVICERVARIABLEUS
 - Name: Device : R_Variable_US
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/R_Variable_US/
 - Description: Device : R_Variable_US
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-R_Variable_US](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-R_Variable_US)
 - Short Link: [http://oom.lt/SZKDEVICERVARIABLEUS](http://oom.lt/SZKDEVICERVARIABLEUS)

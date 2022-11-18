@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-micro-siemens-FQFP208
 - Hex ID: FZEMSIEMENSFQFP28
 - Name: micro-siemens : FQFP208
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/micro-siemens/FQFP208/
 - Description: micro-siemens : FQFP208
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-siemens-FQFP208](http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-siemens-FQFP208)
 - Short Link: [http://oom.lt/FZEMSIEMENSFQFP28](http://oom.lt/FZEMSIEMENSFQFP28)

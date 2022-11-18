@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-C1812
 - Hex ID: FZAC1812
 - Name: adafruit : C1812
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/C1812/
 - Description: adafruit : C1812
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-C1812](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-C1812)
 - Short Link: [http://oom.lt/FZAC1812](http://oom.lt/FZAC1812)

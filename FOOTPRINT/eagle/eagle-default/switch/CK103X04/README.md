@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-switch-CK103X04
 - Hex ID: FZESWCK13X4
 - Name: switch : CK103X04
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/switch/CK103X04/
 - Description: switch : CK103X04
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-CK103X04](http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-CK103X04)
 - Short Link: [http://oom.lt/FZESWCK13X4](http://oom.lt/FZESWCK13X4)

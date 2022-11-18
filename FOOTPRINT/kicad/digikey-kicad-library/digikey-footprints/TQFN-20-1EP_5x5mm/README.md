@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-TQFN-20-1EP_5x5mm
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSTQFN21EP5X5
 - Name: digikey-footprints : TQFN-20-1EP_5x5mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/TQFN-20-1EP_5x5mm/
 - Description: digikey-footprints : TQFN-20-1EP_5x5mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-TQFN-20-1EP_5x5mm](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-TQFN-20-1EP_5x5mm)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSTQFN21EP5X5](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSTQFN21EP5X5)

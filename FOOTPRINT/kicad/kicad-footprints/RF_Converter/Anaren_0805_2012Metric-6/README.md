@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-RF_Converter-Anaren_0805_2012Metric-6
 - Hex ID: FZKRFANAREN85212VA6
 - Name: RF_Converter : Anaren_0805_2012Metric-6
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/RF_Converter/Anaren_0805_2012Metric-6/
 - Description: RF_Converter : Anaren_0805_2012Metric-6
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_Converter-Anaren_0805_2012Metric-6](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_Converter-Anaren_0805_2012Metric-6)
 - Short Link: [http://oom.lt/FZKRFANAREN85212VA6](http://oom.lt/FZKRFANAREN85212VA6)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-diode-G4-12E
 - Hex ID: FZEDIODEG412E
 - Name: diode : G4-12E
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/diode/G4-12E/
 - Description: diode : G4-12E
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-diode-G4-12E](http://oom.lt/FOOTPRINT-eagle-eagle-default-diode-G4-12E)
 - Short Link: [http://oom.lt/FZEDIODEG412E](http://oom.lt/FZEDIODEG412E)

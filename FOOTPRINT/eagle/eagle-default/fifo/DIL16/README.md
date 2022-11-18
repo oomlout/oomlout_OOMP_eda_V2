@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-fifo-DIL16
 - Hex ID: FZEFIFODIL16
 - Name: fifo : DIL16
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/fifo/DIL16/
 - Description: fifo : DIL16
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-fifo-DIL16](http://oom.lt/FOOTPRINT-eagle-eagle-default-fifo-DIL16)
 - Short Link: [http://oom.lt/FZEFIFODIL16](http://oom.lt/FZEFIFODIL16)

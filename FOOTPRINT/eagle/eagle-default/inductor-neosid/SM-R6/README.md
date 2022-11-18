@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEINDUCTORNEOSIDSMR6 > inductor-neosid : SM-R6](#fzeinductorneosidsmr6--inductor-neosid--sm-r6)
+* [FZEINNEOSIDSMR6 > inductor-neosid : SM-R6](#fzeinneosidsmr6--inductor-neosid--sm-r6)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEINDUCTORNEOSIDSMR6 > inductor-neosid : SM-R6
+# FZEINNEOSIDSMR6 > inductor-neosid : SM-R6
 
 - ID: FOOTPRINT-eagle-eagle-default-inductor-neosid-SM-R6
-- Hex ID: FZEINDUCTORNEOSIDSMR6
+- Hex ID: FZEINNEOSIDSMR6
 - Name: inductor-neosid : SM-R6
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/inductor-neosid/SM-R6/
 - Description: inductor-neosid : SM-R6
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-inductor-neosid-SM-R6](http://oom.lt/FOOTPRINT-eagle-eagle-default-inductor-neosid-SM-R6)
-- Short Link: [http://oom.lt/FZEINDUCTORNEOSIDSMR6](http://oom.lt/FZEINDUCTORNEOSIDSMR6)
+- Short Link: [http://oom.lt/FZEINNEOSIDSMR6](http://oom.lt/FZEINNEOSIDSMR6)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|inductor-neosid|
 |OOMP Index|oompIndex|SM-R6|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-inductor-neosid-SM-R6|
-|Hex ID (short code)|hexID|FZEINDUCTORNEOSIDSMR6|
+|Hex ID (short code)|hexID|FZEINNEOSIDSMR6|
 |name|name|inductor-neosid : SM-R6|
 ||||

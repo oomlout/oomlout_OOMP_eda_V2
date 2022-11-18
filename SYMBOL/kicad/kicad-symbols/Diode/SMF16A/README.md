@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-SMF16A
 - Hex ID: SZKDIODESMF16A
 - Name: Diode : SMF16A
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/SMF16A/
 - Description: Diode : SMF16A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-SMF16A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-SMF16A)
 - Short Link: [http://oom.lt/SZKDIODESMF16A](http://oom.lt/SZKDIODESMF16A)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-opto-trans-siemens-SFH206
 - Hex ID: FZEOPTOTRANSSIEMENSSFH26
 - Name: opto-trans-siemens : SFH206
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/opto-trans-siemens/SFH206/
 - Description: opto-trans-siemens : SFH206
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-opto-trans-siemens-SFH206](http://oom.lt/FOOTPRINT-eagle-eagle-default-opto-trans-siemens-SFH206)
 - Short Link: [http://oom.lt/FZEOPTOTRANSSIEMENSSFH26](http://oom.lt/FZEOPTOTRANSSIEMENSSFH26)

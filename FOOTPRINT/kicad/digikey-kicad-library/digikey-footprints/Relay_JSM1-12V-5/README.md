@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Relay_JSM1-12V-5
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSRELAYJSM112V5
 - Name: digikey-footprints : Relay_JSM1-12V-5
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Relay_JSM1-12V-5/
 - Description: digikey-footprints : Relay_JSM1-12V-5
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Relay_JSM1-12V-5](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Relay_JSM1-12V-5)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSRELAYJSM112V5](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSRELAYJSM112V5)

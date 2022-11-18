@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_LineDriver-MC3486N
 - Hex ID: SZKINTERFACELINEDRIVERMC3486N
 - Name: Interface_LineDriver : MC3486N
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_LineDriver/MC3486N/
 - Description: Interface_LineDriver : MC3486N
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_LineDriver-MC3486N](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_LineDriver-MC3486N)
 - Short Link: [http://oom.lt/SZKINTERFACELINEDRIVERMC3486N](http://oom.lt/SZKINTERFACELINEDRIVERMC3486N)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_CAN_LIN-MCP2557FD-xMF
 - Hex ID: SZKINTERFACECANLINMCP2557FDXMF
 - Name: Interface_CAN_LIN : MCP2557FD-xMF
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_CAN_LIN/MCP2557FD-xMF/
 - Description: Interface_CAN_LIN : MCP2557FD-xMF
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_CAN_LIN-MCP2557FD-xMF](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_CAN_LIN-MCP2557FD-xMF)
 - Short Link: [http://oom.lt/SZKINTERFACECANLINMCP2557FDXMF](http://oom.lt/SZKINTERFACECANLINMCP2557FDXMF)

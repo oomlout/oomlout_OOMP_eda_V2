@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Buffer-LH0002H
 - Hex ID: SZKAMPLIFIERBUFFERLH2H
 - Name: Amplifier_Buffer : LH0002H
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Buffer/LH0002H/
 - Description: Amplifier_Buffer : LH0002H
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Buffer-LH0002H](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Buffer-LH0002H)
 - Short Link: [http://oom.lt/SZKAMPLIFIERBUFFERLH2H](http://oom.lt/SZKAMPLIFIERBUFFERLH2H)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny85V-10S
 - Hex ID: SZKMCUMCHIPATTINYATTINY85V1S
 - Name: MCU_Microchip_ATtiny : ATtiny85V-10S
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_ATtiny/ATtiny85V-10S/
 - Description: MCU_Microchip_ATtiny : ATtiny85V-10S
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny85V-10S](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny85V-10S)
 - Short Link: [http://oom.lt/SZKMCUMCHIPATTINYATTINY85V1S](http://oom.lt/SZKMCUMCHIPATTINYATTINY85V1S)

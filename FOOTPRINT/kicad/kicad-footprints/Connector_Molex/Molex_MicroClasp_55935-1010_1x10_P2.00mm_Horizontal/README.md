@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_MicroClasp_55935-1010_1x10_P2.00mm_Horizontal
 - Hex ID: FZKCNMXMXMCLASP55935111X1P2H
 - Name: Connector_Molex : Molex_MicroClasp_55935-1010_1x10_P2.00mm_Horizontal
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_MicroClasp_55935-1010_1x10_P2.00mm_Horizontal/
 - Description: Connector_Molex : Molex_MicroClasp_55935-1010_1x10_P2.00mm_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_MicroClasp_55935-1010_1x10_P2.00mm_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_MicroClasp_55935-1010_1x10_P2.00mm_Horizontal)
 - Short Link: [http://oom.lt/FZKCNMXMXMCLASP55935111X1P2H](http://oom.lt/FZKCNMXMXMCLASP55935111X1P2H)

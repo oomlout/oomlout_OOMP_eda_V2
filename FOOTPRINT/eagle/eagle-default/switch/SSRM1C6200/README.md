@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-switch-SSRM1C6200
 - Hex ID: FZESWSSRM1C62
 - Name: switch : SSRM1C6200
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/switch/SSRM1C6200/
 - Description: switch : SSRM1C6200
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-SSRM1C6200](http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-SSRM1C6200)
 - Short Link: [http://oom.lt/FZESWSSRM1C62](http://oom.lt/FZESWSSRM1C62)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-TO-11-3
 - Hex ID: FZKSOTTO113
 - Name: Package_TO_SOT_THT : TO-11-3
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_THT/TO-11-3/
 - Description: Package_TO_SOT_THT : TO-11-3
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-TO-11-3](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-TO-11-3)
 - Short Link: [http://oom.lt/FZKSOTTO113](http://oom.lt/FZKSOTTO113)

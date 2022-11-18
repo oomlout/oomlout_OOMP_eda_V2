@@ -15,6 +15,7 @@ NO IMAGE
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Radial_D24.4mm_P23.40mm_Murata_1400series
 - Hex ID: FZKINLRD244P234M14SERIES
 - Name: Inductor_THT : L_Radial_D24.4mm_P23.40mm_Murata_1400series
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Radial_D24.4mm_P23.40mm_Murata_1400series/
 - Description: Inductor_THT : L_Radial_D24.4mm_P23.40mm_Murata_1400series
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Radial_D24.4mm_P23.40mm_Murata_1400series](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Radial_D24.4mm_P23.40mm_Murata_1400series)
 - Short Link: [http://oom.lt/FZKINLRD244P234M14SERIES](http://oom.lt/FZKINLRD244P234M14SERIES)

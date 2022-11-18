@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEREFPACKAGESLONGPADS64 > ref-packages-longpad : SOP64](#fzerefpackageslongpads64--ref-packages-longpad--sop64)
+* [FZEREFPSLPS64 > ref-packages-longpad : SOP64](#fzerefpslps64--ref-packages-longpad--sop64)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEREFPACKAGESLONGPADS64 > ref-packages-longpad : SOP64
+# FZEREFPSLPS64 > ref-packages-longpad : SOP64
 
 - ID: FOOTPRINT-eagle-eagle-default-ref-packages-longpad-SOP64
-- Hex ID: FZEREFPACKAGESLONGPADS64
+- Hex ID: FZEREFPSLPS64
 - Name: ref-packages-longpad : SOP64
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ref-packages-longpad/SOP64/
 - Description: ref-packages-longpad : SOP64
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-longpad-SOP64](http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-longpad-SOP64)
-- Short Link: [http://oom.lt/FZEREFPACKAGESLONGPADS64](http://oom.lt/FZEREFPACKAGESLONGPADS64)
+- Short Link: [http://oom.lt/FZEREFPSLPS64](http://oom.lt/FZEREFPSLPS64)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|ref-packages-longpad|
 |OOMP Index|oompIndex|SOP64|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-ref-packages-longpad-SOP64|
-|Hex ID (short code)|hexID|FZEREFPACKAGESLONGPADS64|
+|Hex ID (short code)|hexID|FZEREFPSLPS64|
 |name|name|ref-packages-longpad : SOP64|
 ||||

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_0805_2012Metric
 - Hex ID: FZKINL85212VA
 - Name: Inductor_SMD : L_0805_2012Metric
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_0805_2012Metric/
 - Description: Inductor_SMD : L_0805_2012Metric
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_0805_2012Metric](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_0805_2012Metric)
 - Short Link: [http://oom.lt/FZKINL85212VA](http://oom.lt/FZKINL85212VA)

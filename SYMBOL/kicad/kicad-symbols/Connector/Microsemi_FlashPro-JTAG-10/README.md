@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Connector-Microsemi_FlashPro-JTAG-10
 - Hex ID: SZKCNMSEMIFLASHPROJTAG1
 - Name: Connector : Microsemi_FlashPro-JTAG-10
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector/Microsemi_FlashPro-JTAG-10/
 - Description: Connector : Microsemi_FlashPro-JTAG-10
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-Microsemi_FlashPro-JTAG-10](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-Microsemi_FlashPro-JTAG-10)
 - Short Link: [http://oom.lt/SZKCNMSEMIFLASHPROJTAG1](http://oom.lt/SZKCNMSEMIFLASHPROJTAG1)

@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZSRTCAPSENSEPAD > SparkFun-Retired : CAPSENSE_PAD](#fzsrtcapsensepad--sparkfun-retired--capsense_pad)
+* [FZSRTCAPSP > SparkFun-Retired : CAPSENSE_PAD](#fzsrtcapsp--sparkfun-retired--capsense_pad)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZSRTCAPSENSEPAD > SparkFun-Retired : CAPSENSE_PAD
+# FZSRTCAPSP > SparkFun-Retired : CAPSENSE_PAD
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-CAPSENSE_PAD
-- Hex ID: FZSRTCAPSENSEPAD
+- Hex ID: FZSRTCAPSP
 - Name: SparkFun-Retired : CAPSENSE_PAD
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Retired/CAPSENSE_PAD/
 - Description: SparkFun-Retired : CAPSENSE_PAD
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-CAPSENSE_PAD](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-CAPSENSE_PAD)
-- Short Link: [http://oom.lt/FZSRTCAPSENSEPAD](http://oom.lt/FZSRTCAPSENSEPAD)
+- Short Link: [http://oom.lt/FZSRTCAPSP](http://oom.lt/FZSRTCAPSP)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|SparkFun-Retired|
 |OOMP Index|oompIndex|CAPSENSE_PAD|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-CAPSENSE_PAD|
-|Hex ID (short code)|hexID|FZSRTCAPSENSEPAD|
+|Hex ID (short code)|hexID|FZSRTCAPSP|
 |name|name|SparkFun-Retired : CAPSENSE_PAD|
 ||||

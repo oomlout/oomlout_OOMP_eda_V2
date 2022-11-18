@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-amp-DIM100C
 - Hex ID: FZECONAMPD1C
 - Name: con-amp : DIM100C
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-amp/DIM100C/
 - Description: con-amp : DIM100C
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-amp-DIM100C](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-amp-DIM100C)
 - Short Link: [http://oom.lt/FZECONAMPD1C](http://oom.lt/FZECONAMPD1C)

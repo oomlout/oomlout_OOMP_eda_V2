@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-switch-dil-DP-07
 - Hex ID: FZESWDILDP7
 - Name: switch-dil : DP-07
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/switch-dil/DP-07/
 - Description: switch-dil : DP-07
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-dil-DP-07](http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-dil-DP-07)
 - Short Link: [http://oom.lt/FZESWDILDP7](http://oom.lt/FZESWDILDP7)

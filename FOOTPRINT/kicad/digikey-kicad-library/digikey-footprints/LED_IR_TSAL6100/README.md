@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-LED_IR_TSAL6100
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSLIRTSAL61
 - Name: digikey-footprints : LED_IR_TSAL6100
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/LED_IR_TSAL6100/
 - Description: digikey-footprints : LED_IR_TSAL6100
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-LED_IR_TSAL6100](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-LED_IR_TSAL6100)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSLIRTSAL61](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSLIRTSAL61)

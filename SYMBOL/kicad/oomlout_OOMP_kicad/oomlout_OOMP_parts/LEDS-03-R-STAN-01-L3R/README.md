@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-LEDS-03-R-STAN-01-L3R
 - Hex ID: SZOOMPKOOMPPLS3RSTAN1L3R
 - Name: oomlout_OOMP_parts : LEDS-03-R-STAN-01-L3R
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/LEDS-03-R-STAN-01-L3R/
 - Description: oomlout_OOMP_parts : LEDS-03-R-STAN-01-L3R
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-LEDS-03-R-STAN-01-L3R](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-LEDS-03-R-STAN-01-L3R)
 - Short Link: [http://oom.lt/SZOOMPKOOMPPLS3RSTAN1L3R](http://oom.lt/SZOOMPKOOMPPLS3RSTAN1L3R)

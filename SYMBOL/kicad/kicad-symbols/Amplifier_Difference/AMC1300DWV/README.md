@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Difference-AMC1300DWV
 - Hex ID: SZKAMPLIFIERDIFFERENCEAMC13DWV
 - Name: Amplifier_Difference : AMC1300DWV
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Difference/AMC1300DWV/
 - Description: Amplifier_Difference : AMC1300DWV
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Difference-AMC1300DWV](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Difference-AMC1300DWV)
 - Short Link: [http://oom.lt/SZKAMPLIFIERDIFFERENCEAMC13DWV](http://oom.lt/SZKAMPLIFIERDIFFERENCEAMC13DWV)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-vg-MZBDF64G
 - Hex ID: FZECONVGMZBDF64G
 - Name: con-vg : MZBDF64G
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-vg/MZBDF64G/
 - Description: con-vg : MZBDF64G
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-vg-MZBDF64G](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-vg-MZBDF64G)
 - Short Link: [http://oom.lt/FZECONVGMZBDF64G](http://oom.lt/FZECONVGMZBDF64G)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega164PV-10A
 - Hex ID: SZKMCUMCHIPATMEGAATMEGA164PV1A
 - Name: MCU_Microchip_ATmega : ATmega164PV-10A
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_ATmega/ATmega164PV-10A/
 - Description: MCU_Microchip_ATmega : ATmega164PV-10A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega164PV-10A](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega164PV-10A)
 - Short Link: [http://oom.lt/SZKMCUMCHIPATMEGAATMEGA164PV1A](http://oom.lt/SZKMCUMCHIPATMEGAATMEGA164PV1A)

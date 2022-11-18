@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-Texas_R-PDSO-G6
 - Hex ID: FZKSOTTEXASRPDSOG6
 - Name: Package_TO_SOT_SMD : Texas_R-PDSO-G6
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/Texas_R-PDSO-G6/
 - Description: Package_TO_SOT_SMD : Texas_R-PDSO-G6
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-Texas_R-PDSO-G6](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-Texas_R-PDSO-G6)
 - Short Link: [http://oom.lt/FZKSOTTEXASRPDSOG6](http://oom.lt/FZKSOTTEXASRPDSOG6)

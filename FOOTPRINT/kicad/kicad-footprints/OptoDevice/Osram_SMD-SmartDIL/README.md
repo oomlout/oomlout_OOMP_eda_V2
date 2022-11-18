@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-OptoDevice-Osram_SMD-SmartDIL
 - Hex ID: FZKOPOSRAMSMSRTDIL
 - Name: OptoDevice : Osram_SMD-SmartDIL
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/OptoDevice/Osram_SMD-SmartDIL/
 - Description: OptoDevice : Osram_SMD-SmartDIL
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-OptoDevice-Osram_SMD-SmartDIL](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-OptoDevice-Osram_SMD-SmartDIL)
 - Short Link: [http://oom.lt/FZKOPOSRAMSMSRTDIL](http://oom.lt/FZKOPOSRAMSMSRTDIL)

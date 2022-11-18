@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Isolator-ISO1541
 - Hex ID: SZKISOLATORISO1541
 - Name: Isolator : ISO1541
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Isolator/ISO1541/
 - Description: Isolator : ISO1541
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-ISO1541](http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-ISO1541)
 - Short Link: [http://oom.lt/SZKISOLATORISO1541](http://oom.lt/SZKISOLATORISO1541)

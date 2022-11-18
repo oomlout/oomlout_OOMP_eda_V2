@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_Audio-Jack_3.5mm_Ledino_KB3SPRS_Horizontal
 - Hex ID: FZKCNAUDIOJ35LINOKB3SPRSH
 - Name: Connector_Audio : Jack_3.5mm_Ledino_KB3SPRS_Horizontal
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Audio/Jack_3.5mm_Ledino_KB3SPRS_Horizontal/
 - Description: Connector_Audio : Jack_3.5mm_Ledino_KB3SPRS_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Audio-Jack_3.5mm_Ledino_KB3SPRS_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Audio-Jack_3.5mm_Ledino_KB3SPRS_Horizontal)
 - Short Link: [http://oom.lt/FZKCNAUDIOJ35LINOKB3SPRSH](http://oom.lt/FZKCNAUDIOJ35LINOKB3SPRSH)

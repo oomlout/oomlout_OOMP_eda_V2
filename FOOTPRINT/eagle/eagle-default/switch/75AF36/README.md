@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-switch-75AF36
 - Hex ID: FZESW75AF36
 - Name: switch : 75AF36
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/switch/75AF36/
 - Description: switch : 75AF36
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-75AF36](http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-75AF36)
 - Short Link: [http://oom.lt/FZESW75AF36](http://oom.lt/FZESW75AF36)

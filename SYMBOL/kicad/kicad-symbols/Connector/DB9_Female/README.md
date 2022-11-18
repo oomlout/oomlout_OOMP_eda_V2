@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Connector-DB9_Female
 - Hex ID: SZKCNDB9F
 - Name: Connector : DB9_Female
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector/DB9_Female/
 - Description: Connector : DB9_Female
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-DB9_Female](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-DB9_Female)
 - Short Link: [http://oom.lt/SZKCNDB9F](http://oom.lt/SZKCNDB9F)

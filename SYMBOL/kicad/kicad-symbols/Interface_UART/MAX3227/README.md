@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_UART-MAX3227
 - Hex ID: SZKINTERFACEUARTMAX3227
 - Name: Interface_UART : MAX3227
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_UART/MAX3227/
 - Description: Interface_UART : MAX3227
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_UART-MAX3227](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_UART-MAX3227)
 - Short Link: [http://oom.lt/SZKINTERFACEUARTMAX3227](http://oom.lt/SZKINTERFACEUARTMAX3227)

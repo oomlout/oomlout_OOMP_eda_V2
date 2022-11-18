@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Rotary_Encoder-RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm
 - Hex ID: FZKREROTARYENCODERALPSEC11ESWFH2
 - Name: Rotary_Encoder : RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Rotary_Encoder/RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm/
 - Description: Rotary_Encoder : RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Rotary_Encoder-RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Rotary_Encoder-RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm)
 - Short Link: [http://oom.lt/FZKREROTARYENCODERALPSEC11ESWFH2](http://oom.lt/FZKREROTARYENCODERALPSEC11ESWFH2)

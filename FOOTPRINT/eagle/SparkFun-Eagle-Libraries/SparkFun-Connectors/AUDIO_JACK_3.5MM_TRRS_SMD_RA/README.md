@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-AUDIO_JACK_3.5MM_TRRS_SMD_RA
 - Hex ID: FZSSPARKFUNCNSAUDIOJ35TRRSSMRA
 - Name: SparkFun-Connectors : AUDIO_JACK_3.5MM_TRRS_SMD_RA
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Connectors/AUDIO_JACK_3.5MM_TRRS_SMD_RA/
 - Description: SparkFun-Connectors : AUDIO_JACK_3.5MM_TRRS_SMD_RA
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-AUDIO_JACK_3.5MM_TRRS_SMD_RA](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-AUDIO_JACK_3.5MM_TRRS_SMD_RA)
 - Short Link: [http://oom.lt/FZSSPARKFUNCNSAUDIOJ35TRRSSMRA](http://oom.lt/FZSSPARKFUNCNSAUDIOJ35TRRSSMRA)

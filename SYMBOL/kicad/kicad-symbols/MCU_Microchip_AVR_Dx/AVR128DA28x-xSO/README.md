@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_AVR_Dx-AVR128DA28x-xSO
 - Hex ID: SZKMCUMCHIPAVRDXAVR128DA28XXSO
 - Name: MCU_Microchip_AVR_Dx : AVR128DA28x-xSO
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_AVR_Dx/AVR128DA28x-xSO/
 - Description: MCU_Microchip_AVR_Dx : AVR128DA28x-xSO
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_AVR_Dx-AVR128DA28x-xSO](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_AVR_Dx-AVR128DA28x-xSO)
 - Short Link: [http://oom.lt/SZKMCUMCHIPAVRDXAVR128DA28XXSO](http://oom.lt/SZKMCUMCHIPAVRDXAVR128DA28XXSO)

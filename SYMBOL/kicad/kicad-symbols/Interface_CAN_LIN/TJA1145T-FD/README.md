@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_CAN_LIN-TJA1145T-FD
 - Hex ID: SZKINTERFACECANLINTJA1145TFD
 - Name: Interface_CAN_LIN : TJA1145T-FD
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_CAN_LIN/TJA1145T-FD/
 - Description: Interface_CAN_LIN : TJA1145T-FD
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_CAN_LIN-TJA1145T-FD](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_CAN_LIN-TJA1145T-FD)
 - Short Link: [http://oom.lt/SZKINTERFACECANLINTJA1145TFD](http://oom.lt/SZKINTERFACECANLINTJA1145TFD)

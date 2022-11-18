@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-linear-MMSOP08
 - Hex ID: FZELINEARS8
 - Name: linear : MMSOP08
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/linear/MMSOP08/
 - Description: linear : MMSOP08
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-linear-MMSOP08](http://oom.lt/FOOTPRINT-eagle-eagle-default-linear-MMSOP08)
 - Short Link: [http://oom.lt/FZELINEARS8](http://oom.lt/FZELINEARS8)

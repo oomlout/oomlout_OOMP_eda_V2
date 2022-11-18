@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-LM2578
 - Hex ID: SZKREGULATORSWINGLM2578
 - Name: Regulator_Switching : LM2578
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/LM2578/
 - Description: Regulator_Switching : LM2578
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LM2578](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LM2578)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGLM2578](http://oom.lt/SZKREGULATORSWINGLM2578)

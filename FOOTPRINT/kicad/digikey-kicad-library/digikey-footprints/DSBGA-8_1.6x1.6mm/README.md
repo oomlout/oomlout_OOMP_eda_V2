@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-DSBGA-8_1.6x1.6mm
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSDSBGA816X16
 - Name: digikey-footprints : DSBGA-8_1.6x1.6mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/DSBGA-8_1.6x1.6mm/
 - Description: digikey-footprints : DSBGA-8_1.6x1.6mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-DSBGA-8_1.6x1.6mm](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-DSBGA-8_1.6x1.6mm)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSDSBGA816X16](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSDSBGA816X16)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector-Connector_SFP_and_Cage
 - Hex ID: FZKCNCNSFPANDCAGE
 - Name: Connector : Connector_SFP_and_Cage
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector/Connector_SFP_and_Cage/
 - Description: Connector : Connector_SFP_and_Cage
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector-Connector_SFP_and_Cage](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector-Connector_SFP_and_Cage)
 - Short Link: [http://oom.lt/FZKCNCNSFPANDCAGE](http://oom.lt/FZKCNCNSFPANDCAGE)

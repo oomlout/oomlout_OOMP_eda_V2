@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-subd-HDF44H
 - Hex ID: FZECONSUBDHDF44H
 - Name: con-subd : HDF44H
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-subd/HDF44H/
 - Description: con-subd : HDF44H
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-subd-HDF44H](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-subd-HDF44H)
 - Short Link: [http://oom.lt/FZECONSUBDHDF44H](http://oom.lt/FZECONSUBDHDF44H)

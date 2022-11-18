@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0603-X-UF10-V25-C6U10-C96446
 - Hex ID: SZOOMPKJLCCAPC63XUF1V25C6U1C96446
 - Name: oomlout_OOMP_JLCC_Basic : CAPC-0603-X-UF10-V25-C6U10-C96446
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_JLCC_Basic/CAPC-0603-X-UF10-V25-C6U10-C96446/
 - Description: oomlout_OOMP_JLCC_Basic : CAPC-0603-X-UF10-V25-C6U10-C96446
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0603-X-UF10-V25-C6U10-C96446](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0603-X-UF10-V25-C6U10-C96446)
 - Short Link: [http://oom.lt/SZOOMPKJLCCAPC63XUF1V25C6U1C96446](http://oom.lt/SZOOMPKJLCCAPC63XUF1V25C6U1C96446)

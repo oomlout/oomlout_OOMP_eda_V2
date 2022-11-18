@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Boards-QDUINO_MINI_V15
 - Hex ID: FZSBOQDUINOMV15
 - Name: SparkFun-Boards : QDUINO_MINI_V15
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Boards/QDUINO_MINI_V15/
 - Description: SparkFun-Boards : QDUINO_MINI_V15
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Boards-QDUINO_MINI_V15](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Boards-QDUINO_MINI_V15)
 - Short Link: [http://oom.lt/FZSBOQDUINOMV15](http://oom.lt/FZSBOQDUINOMV15)

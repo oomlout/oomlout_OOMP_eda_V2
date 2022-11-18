@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-RF-LINK_RX
 - Hex ID: FZSRFRFLINKRX
 - Name: SparkFun-RF : RF-LINK_RX
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-RF/RF-LINK_RX/
 - Description: SparkFun-RF : RF-LINK_RX
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-RF-LINK_RX](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-RF-LINK_RX)
 - Short Link: [http://oom.lt/FZSRFRFLINKRX](http://oom.lt/FZSRFRFLINKRX)

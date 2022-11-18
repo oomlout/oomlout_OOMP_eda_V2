@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_Shunt_Vishay_WSKW0612
 - Hex ID: FZKRRSHUNTVISHAYWSKW612
 - Name: Resistor_SMD : R_Shunt_Vishay_WSKW0612
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_Shunt_Vishay_WSKW0612/
 - Description: Resistor_SMD : R_Shunt_Vishay_WSKW0612
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_Shunt_Vishay_WSKW0612](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_Shunt_Vishay_WSKW0612)
 - Short Link: [http://oom.lt/FZKRRSHUNTVISHAYWSKW612](http://oom.lt/FZKRRSHUNTVISHAYWSKW612)

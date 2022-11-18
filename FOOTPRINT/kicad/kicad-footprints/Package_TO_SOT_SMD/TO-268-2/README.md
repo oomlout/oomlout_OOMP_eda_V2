@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-TO-268-2
 - Hex ID: FZKSOTTO2682
 - Name: Package_TO_SOT_SMD : TO-268-2
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/TO-268-2/
 - Description: Package_TO_SOT_SMD : TO-268-2
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-TO-268-2](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-TO-268-2)
 - Short Link: [http://oom.lt/FZKSOTTO2682](http://oom.lt/FZKSOTTO2682)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface-5PB1108PGxx
 - Hex ID: SZKINTERFACE5PB118PGXX
 - Name: Interface : 5PB1108PGxx
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface/5PB1108PGxx/
 - Description: Interface : 5PB1108PGxx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-5PB1108PGxx](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-5PB1108PGxx)
 - Short Link: [http://oom.lt/SZKINTERFACE5PB118PGXX](http://oom.lt/SZKINTERFACE5PB118PGXX)

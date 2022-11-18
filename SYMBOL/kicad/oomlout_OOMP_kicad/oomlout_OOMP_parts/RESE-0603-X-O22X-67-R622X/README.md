@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O22X-67-R622X
 - Hex ID: SZOOMPKOOMPPRESE63XO22X67R622X
 - Name: oomlout_OOMP_parts : RESE-0603-X-O22X-67-R622X
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/RESE-0603-X-O22X-67-R622X/
 - Description: oomlout_OOMP_parts : RESE-0603-X-O22X-67-R622X
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O22X-67-R622X](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O22X-67-R622X)
 - Short Link: [http://oom.lt/SZOOMPKOOMPPRESE63XO22X67R622X](http://oom.lt/SZOOMPKOOMPPRESE63XO22X67R622X)

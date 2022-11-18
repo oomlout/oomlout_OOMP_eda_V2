@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Fuses-PTH
 - Hex ID: FZSSPARKFUNFUSP
 - Name: SparkFun-Fuses : PTH
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Fuses/PTH/
 - Description: SparkFun-Fuses : PTH
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Fuses-PTH](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Fuses-PTH)
 - Short Link: [http://oom.lt/FZSSPARKFUNFUSP](http://oom.lt/FZSSPARKFUNFUSP)

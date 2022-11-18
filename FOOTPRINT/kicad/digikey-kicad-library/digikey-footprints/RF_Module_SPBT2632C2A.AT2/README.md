@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-RF_Module_SPBT2632C2A.AT2
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSRFMOSPBT2632C2AAT2
 - Name: digikey-footprints : RF_Module_SPBT2632C2A.AT2
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/RF_Module_SPBT2632C2A.AT2/
 - Description: digikey-footprints : RF_Module_SPBT2632C2A.AT2
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-RF_Module_SPBT2632C2A.AT2](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-RF_Module_SPBT2632C2A.AT2)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSRFMOSPBT2632C2AAT2](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSRFMOSPBT2632C2AAT2)

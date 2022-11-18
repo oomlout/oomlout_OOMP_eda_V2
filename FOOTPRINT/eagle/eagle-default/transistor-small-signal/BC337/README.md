@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-transistor-small-signal-BC337
 - Hex ID: FZETRANSISTORSLLSIGNALBC337
 - Name: transistor-small-signal : BC337
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/transistor-small-signal/BC337/
 - Description: transistor-small-signal : BC337
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-small-signal-BC337](http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-small-signal-BC337)
 - Short Link: [http://oom.lt/FZETRANSISTORSLLSIGNALBC337](http://oom.lt/FZETRANSISTORSLLSIGNALBC337)

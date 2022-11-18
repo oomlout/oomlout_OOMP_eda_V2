@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKDIADASSD136NOMOUNTINGH > Display : Adafruit_SSD1306_No_Mounting_Holes](#fzkdiadassd136nomountingh--display--adafruit_ssd1306_no_mounting_holes)
+* [FZKDIADASSD136NOMH > Display : Adafruit_SSD1306_No_Mounting_Holes](#fzkdiadassd136nomh--display--adafruit_ssd1306_no_mounting_holes)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKDIADASSD136NOMOUNTINGH > Display : Adafruit_SSD1306_No_Mounting_Holes
+# FZKDIADASSD136NOMH > Display : Adafruit_SSD1306_No_Mounting_Holes
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Display-Adafruit_SSD1306_No_Mounting_Holes
-- Hex ID: FZKDIADASSD136NOMOUNTINGH
+- Hex ID: FZKDIADASSD136NOMH
 - Name: Display : Adafruit_SSD1306_No_Mounting_Holes
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Display/Adafruit_SSD1306_No_Mounting_Holes/
 - Description: Display : Adafruit_SSD1306_No_Mounting_Holes
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Display-Adafruit_SSD1306_No_Mounting_Holes](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Display-Adafruit_SSD1306_No_Mounting_Holes)
-- Short Link: [http://oom.lt/FZKDIADASSD136NOMOUNTINGH](http://oom.lt/FZKDIADASSD136NOMOUNTINGH)
+- Short Link: [http://oom.lt/FZKDIADASSD136NOMH](http://oom.lt/FZKDIADASSD136NOMH)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Display|
 |OOMP Index|oompIndex|Adafruit_SSD1306_No_Mounting_Holes|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Display-Adafruit_SSD1306_No_Mounting_Holes|
-|Hex ID (short code)|hexID|FZKDIADASSD136NOMOUNTINGH|
+|Hex ID (short code)|hexID|FZKDIADASSD136NOMH|
 |name|name|Display : Adafruit_SSD1306_No_Mounting_Holes|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Adafruit_SSD1306_No_Mounting_Holes'</td><td> 'description'</td></tr><tr><td> 'Adafruit SSD1306 OLED 1.3 inch 128x64 I2C & SPI https</td></tr><tr><td>//learn.adafruit.com/monochrome-oled-breakouts/downloads'</td><td> 'tags'</td></tr><tr><td> 'Adafruit SSD1306 OLED 1.3 inch 128x64 I2C & SPI '</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Display.3dshapes/Adafruit_SSD1306.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

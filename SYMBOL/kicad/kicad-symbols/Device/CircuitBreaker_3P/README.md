@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Device-CircuitBreaker_3P
 - Hex ID: SZKDEVICECIRCUITBREAKER3P
 - Name: Device : CircuitBreaker_3P
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/CircuitBreaker_3P/
 - Description: Device : CircuitBreaker_3P
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-CircuitBreaker_3P](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-CircuitBreaker_3P)
 - Short Link: [http://oom.lt/SZKDEVICECIRCUITBREAKER3P](http://oom.lt/SZKDEVICECIRCUITBREAKER3P)

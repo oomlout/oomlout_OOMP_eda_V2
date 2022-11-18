@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-CP_Elec_8x6.2
 - Hex ID: FZKCCPELEC8X62
 - Name: Capacitor_SMD : CP_Elec_8x6.2
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Capacitor_SMD/CP_Elec_8x6.2/
 - Description: Capacitor_SMD : CP_Elec_8x6.2
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-CP_Elec_8x6.2](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-CP_Elec_8x6.2)
 - Short Link: [http://oom.lt/FZKCCPELEC8X62](http://oom.lt/FZKCCPELEC8X62)

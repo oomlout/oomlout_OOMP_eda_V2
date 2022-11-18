@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-RF_Shielding-Wuerth_36503205_20x20mm
 - Hex ID: FZKRFSWUERTH3653252X2
 - Name: RF_Shielding : Wuerth_36503205_20x20mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/RF_Shielding/Wuerth_36503205_20x20mm/
 - Description: RF_Shielding : Wuerth_36503205_20x20mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_Shielding-Wuerth_36503205_20x20mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_Shielding-Wuerth_36503205_20x20mm)
 - Short Link: [http://oom.lt/FZKRFSWUERTH3653252X2](http://oom.lt/FZKRFSWUERTH3653252X2)

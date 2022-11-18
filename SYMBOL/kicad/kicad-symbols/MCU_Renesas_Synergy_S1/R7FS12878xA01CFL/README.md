@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Renesas_Synergy_S1-R7FS12878xA01CFL
 - Hex ID: SZKMCURENESASSYNERGYS1R7FS12878XA1CFL
 - Name: MCU_Renesas_Synergy_S1 : R7FS12878xA01CFL
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Renesas_Synergy_S1/R7FS12878xA01CFL/
 - Description: MCU_Renesas_Synergy_S1 : R7FS12878xA01CFL
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Renesas_Synergy_S1-R7FS12878xA01CFL](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Renesas_Synergy_S1-R7FS12878xA01CFL)
 - Short Link: [http://oom.lt/SZKMCURENESASSYNERGYS1R7FS12878XA1CFL](http://oom.lt/SZKMCURENESASSYNERGYS1R7FS12878XA1CFL)

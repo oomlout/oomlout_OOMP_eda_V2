@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Memory_NVRAM-47L04
 - Hex ID: SZKMEMORYNVRAM47L4
 - Name: Memory_NVRAM : 47L04
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Memory_NVRAM/47L04/
 - Description: Memory_NVRAM : 47L04
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_NVRAM-47L04](http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_NVRAM-47L04)
 - Short Link: [http://oom.lt/SZKMEMORYNVRAM47L4](http://oom.lt/SZKMEMORYNVRAM47L4)

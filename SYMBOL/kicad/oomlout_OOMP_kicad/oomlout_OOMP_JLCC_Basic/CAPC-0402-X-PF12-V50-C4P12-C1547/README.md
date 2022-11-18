@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0402-X-PF12-V50-C4P12-C1547
 - Hex ID: SZOOMPKJLCCAPC42XPF12V5C4P12C1547
 - Name: oomlout_OOMP_JLCC_Basic : CAPC-0402-X-PF12-V50-C4P12-C1547
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_JLCC_Basic/CAPC-0402-X-PF12-V50-C4P12-C1547/
 - Description: oomlout_OOMP_JLCC_Basic : CAPC-0402-X-PF12-V50-C4P12-C1547
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0402-X-PF12-V50-C4P12-C1547](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0402-X-PF12-V50-C4P12-C1547)
 - Short Link: [http://oom.lt/SZOOMPKJLCCAPC42XPF12V5C4P12C1547](http://oom.lt/SZOOMPKJLCCAPC42XPF12V5C4P12C1547)

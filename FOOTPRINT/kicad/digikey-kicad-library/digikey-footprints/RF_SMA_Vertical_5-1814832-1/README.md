@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-RF_SMA_Vertical_5-1814832-1
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSRFSF518148321
 - Name: digikey-footprints : RF_SMA_Vertical_5-1814832-1
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/RF_SMA_Vertical_5-1814832-1/
 - Description: digikey-footprints : RF_SMA_Vertical_5-1814832-1
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-RF_SMA_Vertical_5-1814832-1](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-RF_SMA_Vertical_5-1814832-1)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSRFSF518148321](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSRFSF518148321)

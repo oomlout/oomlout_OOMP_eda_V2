@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-FKIT-LIR2450-H
 - Hex ID: FZSRTFKITLIR245H
 - Name: SparkFun-Retired : FKIT-LIR2450-H
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Retired/FKIT-LIR2450-H/
 - Description: SparkFun-Retired : FKIT-LIR2450-H
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-FKIT-LIR2450-H](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-FKIT-LIR2450-H)
 - Short Link: [http://oom.lt/FZSRTFKITLIR245H](http://oom.lt/FZSRTFKITLIR245H)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega8515L-8J
 - Hex ID: SZKMCUMCHIPATMEGAATMEGA8515L8J
 - Name: MCU_Microchip_ATmega : ATmega8515L-8J
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_ATmega/ATmega8515L-8J/
 - Description: MCU_Microchip_ATmega : ATmega8515L-8J
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega8515L-8J](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega8515L-8J)
 - Short Link: [http://oom.lt/SZKMCUMCHIPATMEGAATMEGA8515L8J](http://oom.lt/SZKMCUMCHIPATMEGAATMEGA8515L8J)

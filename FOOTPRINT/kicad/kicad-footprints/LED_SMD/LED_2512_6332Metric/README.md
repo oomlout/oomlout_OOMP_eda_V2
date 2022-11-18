@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_2512_6332Metric
 - Hex ID: FZKLL25126332VA
 - Name: LED_SMD : LED_2512_6332Metric
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_2512_6332Metric/
 - Description: LED_SMD : LED_2512_6332Metric
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_2512_6332Metric](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_2512_6332Metric)
 - Short Link: [http://oom.lt/FZKLL25126332VA](http://oom.lt/FZKLL25126332VA)

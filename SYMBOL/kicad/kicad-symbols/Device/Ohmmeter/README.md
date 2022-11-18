@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Device-Ohmmeter
 - Hex ID: SZKDEVICEOHETER
 - Name: Device : Ohmmeter
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/Ohmmeter/
 - Description: Device : Ohmmeter
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Ohmmeter](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Ohmmeter)
 - Short Link: [http://oom.lt/SZKDEVICEOHETER](http://oom.lt/SZKDEVICEOHETER)

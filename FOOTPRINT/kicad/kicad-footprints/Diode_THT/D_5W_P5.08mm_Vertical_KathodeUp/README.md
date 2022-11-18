@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Diode_THT-D_5W_P5.08mm_Vertical_KathodeUp
 - Hex ID: FZKDD5WP58FKATHODEUP
 - Name: Diode_THT : D_5W_P5.08mm_Vertical_KathodeUp
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Diode_THT/D_5W_P5.08mm_Vertical_KathodeUp/
 - Description: Diode_THT : D_5W_P5.08mm_Vertical_KathodeUp
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Diode_THT-D_5W_P5.08mm_Vertical_KathodeUp](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Diode_THT-D_5W_P5.08mm_Vertical_KathodeUp)
 - Short Link: [http://oom.lt/FZKDD5WP58FKATHODEUP](http://oom.lt/FZKDD5WP58FKATHODEUP)

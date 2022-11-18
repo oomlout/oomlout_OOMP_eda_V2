@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-POT_MAMMOTH
 - Hex ID: FZSRTPOTMAOTH
 - Name: SparkFun-Retired : POT_MAMMOTH
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Retired/POT_MAMMOTH/
 - Description: SparkFun-Retired : POT_MAMMOTH
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-POT_MAMMOTH](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-POT_MAMMOTH)
 - Short Link: [http://oom.lt/FZSRTPOTMAOTH](http://oom.lt/FZSRTPOTMAOTH)

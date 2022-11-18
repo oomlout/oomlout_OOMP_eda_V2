@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Battery_Management-LTC2942
 - Hex ID: SZKBATMANAGEMENTLTC2942
 - Name: Battery_Management : LTC2942
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Battery_Management/LTC2942/
 - Description: Battery_Management : LTC2942
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Battery_Management-LTC2942](http://oom.lt/SYMBOL-kicad-kicad-symbols-Battery_Management-LTC2942)
 - Short Link: [http://oom.lt/SZKBATMANAGEMENTLTC2942](http://oom.lt/SZKBATMANAGEMENTLTC2942)

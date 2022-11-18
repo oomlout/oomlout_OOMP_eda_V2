@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0402-X-O512-67-R42512A
 - Hex ID: SZOOMPKOOMPPRESE42XO51267R42512A
 - Name: oomlout_OOMP_parts : RESE-0402-X-O512-67-R42512A
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/RESE-0402-X-O512-67-R42512A/
 - Description: oomlout_OOMP_parts : RESE-0402-X-O512-67-R42512A
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0402-X-O512-67-R42512A](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0402-X-O512-67-R42512A)
 - Short Link: [http://oom.lt/SZOOMPKOOMPPRESE42XO51267R42512A](http://oom.lt/SZOOMPKOOMPPRESE42XO51267R42512A)

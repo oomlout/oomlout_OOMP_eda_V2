@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-RF_Module-RFDigital_RFD77101
 - Hex ID: FZKRFMORFDIGITALRFD7711
 - Name: RF_Module : RFDigital_RFD77101
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/RF_Module/RFDigital_RFD77101/
 - Description: RF_Module : RFDigital_RFD77101
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_Module-RFDigital_RFD77101](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_Module-RFDigital_RFD77101)
 - Short Link: [http://oom.lt/FZKRFMORFDIGITALRFD7711](http://oom.lt/FZKRFMORFDIGITALRFD7711)

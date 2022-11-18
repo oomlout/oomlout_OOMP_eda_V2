@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Isolator-ADuM260N
 - Hex ID: SZKISOLATORADUM26N
 - Name: Isolator : ADuM260N
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Isolator/ADuM260N/
 - Description: Isolator : ADuM260N
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-ADuM260N](http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-ADuM260N)
 - Short Link: [http://oom.lt/SZKISOLATORADUM26N](http://oom.lt/SZKISOLATORADUM26N)

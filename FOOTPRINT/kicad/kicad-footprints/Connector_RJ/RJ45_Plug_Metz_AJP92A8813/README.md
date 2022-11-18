@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_RJ-RJ45_Plug_Metz_AJP92A8813
 - Hex ID: FZKCNRJRJ45PLUGMETZAJP92A8813
 - Name: Connector_RJ : RJ45_Plug_Metz_AJP92A8813
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_RJ/RJ45_Plug_Metz_AJP92A8813/
 - Description: Connector_RJ : RJ45_Plug_Metz_AJP92A8813
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_RJ-RJ45_Plug_Metz_AJP92A8813](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_RJ-RJ45_Plug_Metz_AJP92A8813)
 - Short Link: [http://oom.lt/FZKCNRJRJ45PLUGMETZAJP92A8813](http://oom.lt/FZKCNRJRJ45PLUGMETZAJP92A8813)

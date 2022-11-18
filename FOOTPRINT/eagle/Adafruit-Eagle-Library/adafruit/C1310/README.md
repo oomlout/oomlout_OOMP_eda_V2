@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-C1310
 - Hex ID: FZAC131
 - Name: adafruit : C1310
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/C1310/
 - Description: adafruit : C1310
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-C1310](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-C1310)
 - Short Link: [http://oom.lt/FZAC131](http://oom.lt/FZAC131)

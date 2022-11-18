@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Driver_FET-IR2112
 - Hex ID: SZKDRIVERFETIR2112
 - Name: Driver_FET : IR2112
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Driver_FET/IR2112/
 - Description: Driver_FET : IR2112
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-IR2112](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-IR2112)
 - Short Link: [http://oom.lt/SZKDRIVERFETIR2112](http://oom.lt/SZKDRIVERFETIR2112)

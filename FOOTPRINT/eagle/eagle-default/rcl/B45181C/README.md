@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-rcl-B45181C
 - Hex ID: FZERCLB45181C
 - Name: rcl : B45181C
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/rcl/B45181C/
 - Description: rcl : B45181C
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-B45181C](http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-B45181C)
 - Short Link: [http://oom.lt/FZERCLB45181C](http://oom.lt/FZERCLB45181C)

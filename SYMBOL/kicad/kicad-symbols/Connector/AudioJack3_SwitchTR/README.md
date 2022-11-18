@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Connector-AudioJack3_SwitchTR
 - Hex ID: SZKCNAUDIOJ3SWTR
 - Name: Connector : AudioJack3_SwitchTR
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector/AudioJack3_SwitchTR/
 - Description: Connector : AudioJack3_SwitchTR
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-AudioJack3_SwitchTR](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-AudioJack3_SwitchTR)
 - Short Link: [http://oom.lt/SZKCNAUDIOJ3SWTR](http://oom.lt/SZKCNAUDIOJ3SWTR)

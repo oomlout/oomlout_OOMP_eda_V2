@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Converter_DCDC-ITQ4815S
 - Hex ID: SZKCONITQ4815S
 - Name: Converter_DCDC : ITQ4815S
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Converter_DCDC/ITQ4815S/
 - Description: Converter_DCDC : ITQ4815S
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-ITQ4815S](http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-ITQ4815S)
 - Short Link: [http://oom.lt/SZKCONITQ4815S](http://oom.lt/SZKCONITQ4815S)

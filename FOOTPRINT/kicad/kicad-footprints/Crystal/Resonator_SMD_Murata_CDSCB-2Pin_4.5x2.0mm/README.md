@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKXRSCDSCB2PIN45X2 > Crystal : Resonator_SMD_Murata_CDSCB-2Pin_4.5x2.0mm](#fzkxrscdscb2pin45x2--crystal--resonator_smd_murata_cdscb-2pin_45x20mm)
+* [FZKXRSCDSCB2P45X2 > Crystal : Resonator_SMD_Murata_CDSCB-2Pin_4.5x2.0mm](#fzkxrscdscb2p45x2--crystal--resonator_smd_murata_cdscb-2pin_45x20mm)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKXRSCDSCB2PIN45X2 > Crystal : Resonator_SMD_Murata_CDSCB-2Pin_4.5x2.0mm
+# FZKXRSCDSCB2P45X2 > Crystal : Resonator_SMD_Murata_CDSCB-2Pin_4.5x2.0mm
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Crystal-Resonator_SMD_Murata_CDSCB-2Pin_4.5x2.0mm
-- Hex ID: FZKXRSCDSCB2PIN45X2
+- Hex ID: FZKXRSCDSCB2P45X2
 - Name: Crystal : Resonator_SMD_Murata_CDSCB-2Pin_4.5x2.0mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Crystal/Resonator_SMD_Murata_CDSCB-2Pin_4.5x2.0mm/
 - Description: Crystal : Resonator_SMD_Murata_CDSCB-2Pin_4.5x2.0mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Crystal-Resonator_SMD_Murata_CDSCB-2Pin_4.5x2.0mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Crystal-Resonator_SMD_Murata_CDSCB-2Pin_4.5x2.0mm)
-- Short Link: [http://oom.lt/FZKXRSCDSCB2PIN45X2](http://oom.lt/FZKXRSCDSCB2PIN45X2)
+- Short Link: [http://oom.lt/FZKXRSCDSCB2P45X2](http://oom.lt/FZKXRSCDSCB2P45X2)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Crystal|
 |OOMP Index|oompIndex|Resonator_SMD_Murata_CDSCB-2Pin_4.5x2.0mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Crystal-Resonator_SMD_Murata_CDSCB-2Pin_4.5x2.0mm|
-|Hex ID (short code)|hexID|FZKXRSCDSCB2PIN45X2|
+|Hex ID (short code)|hexID|FZKXRSCDSCB2P45X2|
 |name|name|Crystal : Resonator_SMD_Murata_CDSCB-2Pin_4.5x2.0mm|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Resonator_SMD_Murata_CDSCB-2Pin_4.5x2.0mm'</td><td> 'description'</td></tr><tr><td> 'SMD Resomator/Filter Murata CDSCB</td><td> http</td></tr><tr><td>//cdn-reichelt.de/documents/datenblatt/B400/SFECV-107.pdf</td><td> 4.5x2.0mm^2 package'</td><td> 'tags'</td></tr><tr><td> 'SMD SMT ceramic resonator filter filter'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Crystal.3dshapes/Resonator_SMD_Murata_CDSCB-2Pin_4.5x2.0mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

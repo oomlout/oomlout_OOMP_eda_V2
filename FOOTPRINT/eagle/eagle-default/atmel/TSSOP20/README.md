@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-atmel-TSSOP20
 - Hex ID: FZEATMELTSS2
 - Name: atmel : TSSOP20
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/atmel/TSSOP20/
 - Description: atmel : TSSOP20
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-atmel-TSSOP20](http://oom.lt/FOOTPRINT-eagle-eagle-default-atmel-TSSOP20)
 - Short Link: [http://oom.lt/FZEATMELTSS2](http://oom.lt/FZEATMELTSS2)

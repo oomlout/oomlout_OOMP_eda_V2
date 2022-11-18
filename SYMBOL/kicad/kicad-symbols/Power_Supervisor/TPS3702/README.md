@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Power_Supervisor-TPS3702
 - Hex ID: SZKPOWERSUPERVISORTPS372
 - Name: Power_Supervisor : TPS3702
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Power_Supervisor/TPS3702/
 - Description: Power_Supervisor : TPS3702
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Supervisor-TPS3702](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Supervisor-TPS3702)
 - Short Link: [http://oom.lt/SZKPOWERSUPERVISORTPS372](http://oom.lt/SZKPOWERSUPERVISORTPS372)

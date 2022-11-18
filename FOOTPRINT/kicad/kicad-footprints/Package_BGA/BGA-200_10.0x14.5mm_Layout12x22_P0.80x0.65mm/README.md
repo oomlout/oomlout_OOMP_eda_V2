@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_BGA-BGA-200_10.0x14.5mm_Layout12x22_P0.80x0.65mm
 - Hex ID: FZKBGABGA21X145LAYOUT12X22P8X65
 - Name: Package_BGA : BGA-200_10.0x14.5mm_Layout12x22_P0.80x0.65mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_BGA/BGA-200_10.0x14.5mm_Layout12x22_P0.80x0.65mm/
 - Description: Package_BGA : BGA-200_10.0x14.5mm_Layout12x22_P0.80x0.65mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_BGA-BGA-200_10.0x14.5mm_Layout12x22_P0.80x0.65mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_BGA-BGA-200_10.0x14.5mm_Layout12x22_P0.80x0.65mm)
 - Short Link: [http://oom.lt/FZKBGABGA21X145LAYOUT12X22P8X65](http://oom.lt/FZKBGABGA21X145LAYOUT12X22P8X65)

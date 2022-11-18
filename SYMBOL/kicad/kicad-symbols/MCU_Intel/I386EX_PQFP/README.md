@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Intel-I386EX_PQFP
 - Hex ID: SZKMCUINTELI386EXPQFP
 - Name: MCU_Intel : I386EX_PQFP
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Intel/I386EX_PQFP/
 - Description: MCU_Intel : I386EX_PQFP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Intel-I386EX_PQFP](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Intel-I386EX_PQFP)
 - Short Link: [http://oom.lt/SZKMCUINTELI386EXPQFP](http://oom.lt/SZKMCUINTELI386EXPQFP)

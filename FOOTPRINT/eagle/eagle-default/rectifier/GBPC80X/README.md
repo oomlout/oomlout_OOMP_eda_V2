@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-rectifier-GBPC80X
 - Hex ID: FZERECTIFIERGBPC8X
 - Name: rectifier : GBPC80X
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/rectifier/GBPC80X/
 - Description: rectifier : GBPC80X
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-rectifier-GBPC80X](http://oom.lt/FOOTPRINT-eagle-eagle-default-rectifier-GBPC80X)
 - Short Link: [http://oom.lt/FZERECTIFIERGBPC8X](http://oom.lt/FZERECTIFIERGBPC8X)

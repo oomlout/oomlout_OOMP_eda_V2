@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Display_7Segment-DA56-11SEKWA
 - Hex ID: FZKDI7SDA5611SEKWA
 - Name: Display_7Segment : DA56-11SEKWA
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Display_7Segment/DA56-11SEKWA/
 - Description: Display_7Segment : DA56-11SEKWA
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Display_7Segment-DA56-11SEKWA](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Display_7Segment-DA56-11SEKWA)
 - Short Link: [http://oom.lt/FZKDI7SDA5611SEKWA](http://oom.lt/FZKDI7SDA5611SEKWA)

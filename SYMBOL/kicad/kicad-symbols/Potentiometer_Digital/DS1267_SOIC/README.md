@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Potentiometer_Digital-DS1267_SOIC
 - Hex ID: SZKPOTDIGITALDS1267SOIC
 - Name: Potentiometer_Digital : DS1267_SOIC
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Potentiometer_Digital/DS1267_SOIC/
 - Description: Potentiometer_Digital : DS1267_SOIC
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Potentiometer_Digital-DS1267_SOIC](http://oom.lt/SYMBOL-kicad-kicad-symbols-Potentiometer_Digital-DS1267_SOIC)
 - Short Link: [http://oom.lt/SZKPOTDIGITALDS1267SOIC](http://oom.lt/SZKPOTDIGITALDS1267SOIC)

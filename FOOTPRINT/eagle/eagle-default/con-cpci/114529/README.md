@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-cpci-114529
 - Hex ID: FZECONCPCI114529
 - Name: con-cpci : 114529
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-cpci/114529/
 - Description: con-cpci : 114529
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-cpci-114529](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-cpci-114529)
 - Short Link: [http://oom.lt/FZECONCPCI114529](http://oom.lt/FZECONCPCI114529)

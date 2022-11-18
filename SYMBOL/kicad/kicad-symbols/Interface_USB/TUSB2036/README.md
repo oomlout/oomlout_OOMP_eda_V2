@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_USB-TUSB2036
 - Hex ID: SZKINTERFACEUTU236
 - Name: Interface_USB : TUSB2036
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_USB/TUSB2036/
 - Description: Interface_USB : TUSB2036
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_USB-TUSB2036](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_USB-TUSB2036)
 - Short Link: [http://oom.lt/SZKINTERFACEUTU236](http://oom.lt/SZKINTERFACEUTU236)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Oscillator-Si571
 - Hex ID: SZKOCSSI571
 - Name: Oscillator : Si571
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Oscillator/Si571/
 - Description: Oscillator : Si571
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Oscillator-Si571](http://oom.lt/SYMBOL-kicad-kicad-symbols-Oscillator-Si571)
 - Short Link: [http://oom.lt/SZKOCSSI571](http://oom.lt/SZKOCSSI571)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-TDFN-8-1EP
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSTDFN81EP
 - Name: digikey-footprints : TDFN-8-1EP
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/TDFN-8-1EP/
 - Description: digikey-footprints : TDFN-8-1EP
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-TDFN-8-1EP](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-TDFN-8-1EP)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSTDFN81EP](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSTDFN81EP)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-1X04-BIG
 - Hex ID: FZA1X4B
 - Name: adafruit : 1X04-BIG
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/1X04-BIG/
 - Description: adafruit : 1X04-BIG
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-1X04-BIG](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-1X04-BIG)
 - Short Link: [http://oom.lt/FZA1X4B](http://oom.lt/FZA1X4B)

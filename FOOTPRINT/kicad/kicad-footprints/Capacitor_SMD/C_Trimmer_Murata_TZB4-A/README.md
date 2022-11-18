@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_Trimmer_Murata_TZB4-A
 - Hex ID: FZKCCTRIERMTZB4A
 - Name: Capacitor_SMD : C_Trimmer_Murata_TZB4-A
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Capacitor_SMD/C_Trimmer_Murata_TZB4-A/
 - Description: Capacitor_SMD : C_Trimmer_Murata_TZB4-A
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_Trimmer_Murata_TZB4-A](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_Trimmer_Murata_TZB4-A)
 - Short Link: [http://oom.lt/FZKCCTRIERMTZB4A](http://oom.lt/FZKCCTRIERMTZB4A)

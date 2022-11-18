@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Power_Management-LM5060
 - Hex ID: SZKPOWERMANAGEMENTLM56
 - Name: Power_Management : LM5060
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Power_Management/LM5060/
 - Description: Power_Management : LM5060
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-LM5060](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-LM5060)
 - Short Link: [http://oom.lt/SZKPOWERMANAGEMENTLM56](http://oom.lt/SZKPOWERMANAGEMENTLM56)

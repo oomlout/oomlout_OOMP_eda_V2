@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Boards-FLANGED_RED_ENCLOSURE-OUTLINE
 - Hex ID: FZSBOFDREDENCLOSUREOUTLINE
 - Name: SparkFun-Boards : FLANGED_RED_ENCLOSURE-OUTLINE
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Boards/FLANGED_RED_ENCLOSURE-OUTLINE/
 - Description: SparkFun-Boards : FLANGED_RED_ENCLOSURE-OUTLINE
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Boards-FLANGED_RED_ENCLOSURE-OUTLINE](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Boards-FLANGED_RED_ENCLOSURE-OUTLINE)
 - Short Link: [http://oom.lt/FZSBOFDREDENCLOSUREOUTLINE](http://oom.lt/FZSBOFDREDENCLOSUREOUTLINE)

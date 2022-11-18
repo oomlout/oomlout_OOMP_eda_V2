@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LTC6081xDD
 - Hex ID: SZKAMPLIFIEROPERATIONALLTC681XDD
 - Name: Amplifier_Operational : LTC6081xDD
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/LTC6081xDD/
 - Description: Amplifier_Operational : LTC6081xDD
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LTC6081xDD](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LTC6081xDD)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALLTC681XDD](http://oom.lt/SZKAMPLIFIEROPERATIONALLTC681XDD)

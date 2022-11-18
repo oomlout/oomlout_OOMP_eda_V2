@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Converter_DCDC-MGJ2D242003SC
 - Hex ID: SZKCONMGJ2D2423SC
 - Name: Converter_DCDC : MGJ2D242003SC
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Converter_DCDC/MGJ2D242003SC/
 - Description: Converter_DCDC : MGJ2D242003SC
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-MGJ2D242003SC](http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-MGJ2D242003SC)
 - Short Link: [http://oom.lt/SZKCONMGJ2D2423SC](http://oom.lt/SZKCONMGJ2D2423SC)

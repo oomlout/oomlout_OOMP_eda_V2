@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-LMR33630BDDA
 - Hex ID: SZKREGULATORSWINGLMR3363BDDA
 - Name: Regulator_Switching : LMR33630BDDA
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/LMR33630BDDA/
 - Description: Regulator_Switching : LMR33630BDDA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LMR33630BDDA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LMR33630BDDA)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGLMR3363BDDA](http://oom.lt/SZKREGULATORSWINGLMR3363BDDA)

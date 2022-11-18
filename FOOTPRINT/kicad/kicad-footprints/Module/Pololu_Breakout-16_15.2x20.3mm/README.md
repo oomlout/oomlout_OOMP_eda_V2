@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Module-Pololu_Breakout-16_15.2x20.3mm
 - Hex ID: FZKMOPOLOLUBREAKOUT16152X23
 - Name: Module : Pololu_Breakout-16_15.2x20.3mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Module/Pololu_Breakout-16_15.2x20.3mm/
 - Description: Module : Pololu_Breakout-16_15.2x20.3mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Module-Pololu_Breakout-16_15.2x20.3mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Module-Pololu_Breakout-16_15.2x20.3mm)
 - Short Link: [http://oom.lt/FZKMOPOLOLUBREAKOUT16152X23](http://oom.lt/FZKMOPOLOLUBREAKOUT16152X23)

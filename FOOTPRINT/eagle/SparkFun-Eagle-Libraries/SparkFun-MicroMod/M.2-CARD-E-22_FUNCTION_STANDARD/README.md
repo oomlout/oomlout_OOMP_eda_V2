@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-MicroMod-M.2-CARD-E-22_FUNCTION_STANDARD
 - Hex ID: FZS2CARDE22FUNCTIONSTANDARD
 - Name: SparkFun-MicroMod : M.2-CARD-E-22_FUNCTION_STANDARD
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-MicroMod/M.2-CARD-E-22_FUNCTION_STANDARD/
 - Description: SparkFun-MicroMod : M.2-CARD-E-22_FUNCTION_STANDARD
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-MicroMod-M.2-CARD-E-22_FUNCTION_STANDARD](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-MicroMod-M.2-CARD-E-22_FUNCTION_STANDARD)
 - Short Link: [http://oom.lt/FZS2CARDE22FUNCTIONSTANDARD](http://oom.lt/FZS2CARDE22FUNCTIONSTANDARD)

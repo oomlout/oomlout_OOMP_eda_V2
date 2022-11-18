@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Neosid_SM-NE127
 - Hex ID: FZKINLNEOSIDSMNE127
 - Name: Inductor_SMD : L_Neosid_SM-NE127
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Neosid_SM-NE127/
 - Description: Inductor_SMD : L_Neosid_SM-NE127
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Neosid_SM-NE127](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Neosid_SM-NE127)
 - Short Link: [http://oom.lt/FZKINLNEOSIDSMNE127](http://oom.lt/FZKINLNEOSIDSMNE127)

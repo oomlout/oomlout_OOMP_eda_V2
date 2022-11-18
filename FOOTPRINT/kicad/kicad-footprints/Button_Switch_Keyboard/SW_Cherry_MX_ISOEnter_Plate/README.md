@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Button_Switch_Keyboard-SW_Cherry_MX_ISOEnter_Plate
 - Hex ID: FZKBSWCHERRYMXISOENTERPLATE
 - Name: Button_Switch_Keyboard : SW_Cherry_MX_ISOEnter_Plate
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Button_Switch_Keyboard/SW_Cherry_MX_ISOEnter_Plate/
 - Description: Button_Switch_Keyboard : SW_Cherry_MX_ISOEnter_Plate
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Button_Switch_Keyboard-SW_Cherry_MX_ISOEnter_Plate](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Button_Switch_Keyboard-SW_Cherry_MX_ISOEnter_Plate)
 - Short Link: [http://oom.lt/FZKBSWCHERRYMXISOENTERPLATE](http://oom.lt/FZKBSWCHERRYMXISOENTERPLATE)

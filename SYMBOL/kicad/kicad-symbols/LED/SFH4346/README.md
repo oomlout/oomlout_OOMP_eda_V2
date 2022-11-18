@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-LED-SFH4346
 - Hex ID: SZKLSFH4346
 - Name: LED : SFH4346
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/LED/SFH4346/
 - Description: LED : SFH4346
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-LED-SFH4346](http://oom.lt/SYMBOL-kicad-kicad-symbols-LED-SFH4346)
 - Short Link: [http://oom.lt/SZKLSFH4346](http://oom.lt/SZKLSFH4346)

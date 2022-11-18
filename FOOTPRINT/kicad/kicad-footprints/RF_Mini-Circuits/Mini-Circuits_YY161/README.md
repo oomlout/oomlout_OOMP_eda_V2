@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-RF_Mini-Circuits-Mini-Circuits_YY161
 - Hex ID: FZKRFMCIRCUITSYY161
 - Name: RF_Mini-Circuits : Mini-Circuits_YY161
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/RF_Mini-Circuits/Mini-Circuits_YY161/
 - Description: RF_Mini-Circuits : Mini-Circuits_YY161
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_Mini-Circuits-Mini-Circuits_YY161](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_Mini-Circuits-Mini-Circuits_YY161)
 - Short Link: [http://oom.lt/FZKRFMCIRCUITSYY161](http://oom.lt/FZKRFMCIRCUITSYY161)

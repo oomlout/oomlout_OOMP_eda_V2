@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Hardware-STAND-OFF-REFLOW-M2.5
 - Hex ID: FZSHSTANDOFFREFLOWM25
 - Name: SparkFun-Hardware : STAND-OFF-REFLOW-M2.5
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Hardware/STAND-OFF-REFLOW-M2.5/
 - Description: SparkFun-Hardware : STAND-OFF-REFLOW-M2.5
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Hardware-STAND-OFF-REFLOW-M2.5](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Hardware-STAND-OFF-REFLOW-M2.5)
 - Short Link: [http://oom.lt/FZSHSTANDOFFREFLOWM25](http://oom.lt/FZSHSTANDOFFREFLOWM25)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-BAV16W
 - Hex ID: SZKDIODEBAV16W
 - Name: Diode : BAV16W
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/BAV16W/
 - Description: Diode : BAV16W
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-BAV16W](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-BAV16W)
 - Short Link: [http://oom.lt/SZKDIODEBAV16W](http://oom.lt/SZKDIODEBAV16W)

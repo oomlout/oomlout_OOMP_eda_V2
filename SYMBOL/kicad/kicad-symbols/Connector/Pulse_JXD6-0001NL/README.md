@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Connector-Pulse_JXD6-0001NL
 - Hex ID: SZKCNPULSEJXD61NL
 - Name: Connector : Pulse_JXD6-0001NL
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector/Pulse_JXD6-0001NL/
 - Description: Connector : Pulse_JXD6-0001NL
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-Pulse_JXD6-0001NL](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-Pulse_JXD6-0001NL)
 - Short Link: [http://oom.lt/SZKCNPULSEJXD61NL](http://oom.lt/SZKCNPULSEJXD61NL)

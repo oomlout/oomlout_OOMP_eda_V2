@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-MAX1658ESA
 - Hex ID: SZKREGULATORLINEARMAX1658ESA
 - Name: Regulator_Linear : MAX1658ESA
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/MAX1658ESA/
 - Description: Regulator_Linear : MAX1658ESA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-MAX1658ESA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-MAX1658ESA)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARMAX1658ESA](http://oom.lt/SZKREGULATORLINEARMAX1658ESA)

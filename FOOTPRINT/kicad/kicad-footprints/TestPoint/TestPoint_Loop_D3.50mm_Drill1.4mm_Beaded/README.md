@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-TestPoint-TestPoint_Loop_D3.50mm_Drill1.4mm_Beaded
 - Hex ID: FZKTPTPLOOPD35DRILL14BEADED
 - Name: TestPoint : TestPoint_Loop_D3.50mm_Drill1.4mm_Beaded
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/TestPoint/TestPoint_Loop_D3.50mm_Drill1.4mm_Beaded/
 - Description: TestPoint : TestPoint_Loop_D3.50mm_Drill1.4mm_Beaded
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-TestPoint-TestPoint_Loop_D3.50mm_Drill1.4mm_Beaded](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-TestPoint-TestPoint_Loop_D3.50mm_Drill1.4mm_Beaded)
 - Short Link: [http://oom.lt/FZKTPTPLOOPD35DRILL14BEADED](http://oom.lt/FZKTPTPLOOPD35DRILL14BEADED)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_NXP_LPC-LPC822M101JHI33
 - Hex ID: SZKMCUNXPLPCLPC822M11JHI33
 - Name: MCU_NXP_LPC : LPC822M101JHI33
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_NXP_LPC/LPC822M101JHI33/
 - Description: MCU_NXP_LPC : LPC822M101JHI33
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_NXP_LPC-LPC822M101JHI33](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_NXP_LPC-LPC822M101JHI33)
 - Short Link: [http://oom.lt/SZKMCUNXPLPCLPC822M11JHI33](http://oom.lt/SZKMCUNXPLPCLPC822M11JHI33)

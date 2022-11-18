@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface-PCI9030-PQFP176
 - Hex ID: SZKINTERFACEPCI93PQFP176
 - Name: Interface : PCI9030-PQFP176
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface/PCI9030-PQFP176/
 - Description: Interface : PCI9030-PQFP176
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-PCI9030-PQFP176](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-PCI9030-PQFP176)
 - Short Link: [http://oom.lt/SZKINTERFACEPCI93PQFP176](http://oom.lt/SZKINTERFACEPCI93PQFP176)

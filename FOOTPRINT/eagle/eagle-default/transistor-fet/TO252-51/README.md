@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-transistor-fet-TO252-51
 - Hex ID: FZETRANSISTORFETTO25251
 - Name: transistor-fet : TO252-51
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/transistor-fet/TO252-51/
 - Description: transistor-fet : TO252-51
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-fet-TO252-51](http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-fet-TO252-51)
 - Short Link: [http://oom.lt/FZETRANSISTORFETTO25251](http://oom.lt/FZETRANSISTORFETTO25251)

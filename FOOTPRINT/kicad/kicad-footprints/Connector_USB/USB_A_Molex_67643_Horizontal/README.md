@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_A_Molex_67643_Horizontal
 - Hex ID: FZKCNUUAMX67643H
 - Name: Connector_USB : USB_A_Molex_67643_Horizontal
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB_A_Molex_67643_Horizontal/
 - Description: Connector_USB : USB_A_Molex_67643_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_A_Molex_67643_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_A_Molex_67643_Horizontal)
 - Short Link: [http://oom.lt/FZKCNUUAMX67643H](http://oom.lt/FZKCNUUAMX67643H)

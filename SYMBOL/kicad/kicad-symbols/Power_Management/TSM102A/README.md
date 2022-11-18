@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Power_Management-TSM102A
 - Hex ID: SZKPOWERMANAGEMENTTSM12A
 - Name: Power_Management : TSM102A
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Power_Management/TSM102A/
 - Description: Power_Management : TSM102A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-TSM102A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-TSM102A)
 - Short Link: [http://oom.lt/SZKPOWERMANAGEMENTTSM12A](http://oom.lt/SZKPOWERMANAGEMENTTSM12A)

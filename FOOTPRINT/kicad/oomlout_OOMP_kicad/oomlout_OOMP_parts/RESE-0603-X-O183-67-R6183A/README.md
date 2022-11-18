@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O183-67-R6183A
 - Hex ID: FZOOMPKOOMPPRESE63XO18367R6183A
 - Name: oomlout_OOMP_parts : RESE-0603-X-O183-67-R6183A
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/RESE-0603-X-O183-67-R6183A/
 - Description: oomlout_OOMP_parts : RESE-0603-X-O183-67-R6183A
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O183-67-R6183A](http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O183-67-R6183A)
 - Short Link: [http://oom.lt/FZOOMPKOOMPPRESE63XO18367R6183A](http://oom.lt/FZOOMPKOOMPPRESE63XO18367R6183A)

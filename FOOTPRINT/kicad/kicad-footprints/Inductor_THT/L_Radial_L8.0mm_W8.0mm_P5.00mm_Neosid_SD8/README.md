@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Radial_L8.0mm_W8.0mm_P5.00mm_Neosid_SD8
 - Hex ID: FZKINLRL8W8P5NEOSIDSD8
 - Name: Inductor_THT : L_Radial_L8.0mm_W8.0mm_P5.00mm_Neosid_SD8
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Radial_L8.0mm_W8.0mm_P5.00mm_Neosid_SD8/
 - Description: Inductor_THT : L_Radial_L8.0mm_W8.0mm_P5.00mm_Neosid_SD8
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Radial_L8.0mm_W8.0mm_P5.00mm_Neosid_SD8](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Radial_L8.0mm_W8.0mm_P5.00mm_Neosid_SD8)
 - Short Link: [http://oom.lt/FZKINLRL8W8P5NEOSIDSD8](http://oom.lt/FZKINLRL8W8P5NEOSIDSD8)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-OnSemi_XDFN4-1EP_1.0x1.0mm_EP0.52x0.52mm
 - Hex ID: FZKDFNONSEMIXDFN41EP1X1EP52X52
 - Name: Package_DFN_QFN : OnSemi_XDFN4-1EP_1.0x1.0mm_EP0.52x0.52mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/OnSemi_XDFN4-1EP_1.0x1.0mm_EP0.52x0.52mm/
 - Description: Package_DFN_QFN : OnSemi_XDFN4-1EP_1.0x1.0mm_EP0.52x0.52mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-OnSemi_XDFN4-1EP_1.0x1.0mm_EP0.52x0.52mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-OnSemi_XDFN4-1EP_1.0x1.0mm_EP0.52x0.52mm)
 - Short Link: [http://oom.lt/FZKDFNONSEMIXDFN41EP1X1EP52X52](http://oom.lt/FZKDFNONSEMIXDFN41EP1X1EP52X52)

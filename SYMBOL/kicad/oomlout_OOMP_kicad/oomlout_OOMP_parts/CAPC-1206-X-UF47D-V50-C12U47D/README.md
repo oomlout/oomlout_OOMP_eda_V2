@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-1206-X-UF47D-V50-C12U47D
 - Hex ID: SZOOMPKOOMPPCAPC126XUF47DV5C12U47D
 - Name: oomlout_OOMP_parts : CAPC-1206-X-UF47D-V50-C12U47D
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/CAPC-1206-X-UF47D-V50-C12U47D/
 - Description: oomlout_OOMP_parts : CAPC-1206-X-UF47D-V50-C12U47D
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-1206-X-UF47D-V50-C12U47D](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-1206-X-UF47D-V50-C12U47D)
 - Short Link: [http://oom.lt/SZOOMPKOOMPPCAPC126XUF47DV5C12U47D](http://oom.lt/SZOOMPKOOMPPCAPC126XUF47DV5C12U47D)

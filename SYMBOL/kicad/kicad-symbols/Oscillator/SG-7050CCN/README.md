@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Oscillator-SG-7050CCN
 - Hex ID: SZKOCSSG75CCN
 - Name: Oscillator : SG-7050CCN
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Oscillator/SG-7050CCN/
 - Description: Oscillator : SG-7050CCN
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Oscillator-SG-7050CCN](http://oom.lt/SYMBOL-kicad-kicad-symbols-Oscillator-SG-7050CCN)
 - Short Link: [http://oom.lt/SZKOCSSG75CCN](http://oom.lt/SZKOCSSG75CCN)

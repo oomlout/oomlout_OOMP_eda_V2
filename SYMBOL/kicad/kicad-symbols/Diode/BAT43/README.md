@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-BAT43
 - Hex ID: SZKDIODEBAT43
 - Name: Diode : BAT43
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/BAT43/
 - Description: Diode : BAT43
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-BAT43](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-BAT43)
 - Short Link: [http://oom.lt/SZKDIODEBAT43](http://oom.lt/SZKDIODEBAT43)

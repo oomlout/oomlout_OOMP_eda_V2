@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_Hirose-Hirose_DF12_DF12E3.0-14DP-0.5V_2x07_P0.50mm_Vertical
 - Hex ID: FZKCNHIROSEHIROSEDF12DF12E314DP5V2X7P5F
 - Name: Connector_Hirose : Hirose_DF12_DF12E3.0-14DP-0.5V_2x07_P0.50mm_Vertical
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Hirose/Hirose_DF12_DF12E3.0-14DP-0.5V_2x07_P0.50mm_Vertical/
 - Description: Connector_Hirose : Hirose_DF12_DF12E3.0-14DP-0.5V_2x07_P0.50mm_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Hirose-Hirose_DF12_DF12E3.0-14DP-0.5V_2x07_P0.50mm_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Hirose-Hirose_DF12_DF12E3.0-14DP-0.5V_2x07_P0.50mm_Vertical)
 - Short Link: [http://oom.lt/FZKCNHIROSEHIROSEDF12DF12E314DP5V2X7P5F](http://oom.lt/FZKCNHIROSEHIROSEDF12DF12E314DP5V2X7P5F)

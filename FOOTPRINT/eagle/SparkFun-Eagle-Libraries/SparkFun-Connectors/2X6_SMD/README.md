@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-2X6_SMD
 - Hex ID: FZSSPARKFUNCNS2X6SM
 - Name: SparkFun-Connectors : 2X6_SMD
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Connectors/2X6_SMD/
 - Description: SparkFun-Connectors : 2X6_SMD
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-2X6_SMD](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-2X6_SMD)
 - Short Link: [http://oom.lt/FZSSPARKFUNCNS2X6SM](http://oom.lt/FZSSPARKFUNCNS2X6SM)

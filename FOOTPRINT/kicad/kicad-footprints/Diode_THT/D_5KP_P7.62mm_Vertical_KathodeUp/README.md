@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Diode_THT-D_5KP_P7.62mm_Vertical_KathodeUp
 - Hex ID: FZKDD5KPP762FKATHODEUP
 - Name: Diode_THT : D_5KP_P7.62mm_Vertical_KathodeUp
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Diode_THT/D_5KP_P7.62mm_Vertical_KathodeUp/
 - Description: Diode_THT : D_5KP_P7.62mm_Vertical_KathodeUp
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Diode_THT-D_5KP_P7.62mm_Vertical_KathodeUp](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Diode_THT-D_5KP_P7.62mm_Vertical_KathodeUp)
 - Short Link: [http://oom.lt/FZKDD5KPP762FKATHODEUP](http://oom.lt/FZKDD5KPP762FKATHODEUP)

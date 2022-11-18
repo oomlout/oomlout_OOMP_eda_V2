@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-faston-F061.080
 - Hex ID: FZECONFASTONF618
 - Name: con-faston : F061.080
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-faston/F061.080/
 - Description: con-faston : F061.080
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-faston-F061.080](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-faston-F061.080)
 - Short Link: [http://oom.lt/FZECONFASTONF618](http://oom.lt/FZECONFASTONF618)

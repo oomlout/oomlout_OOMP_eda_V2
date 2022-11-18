@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Analog_ADC-ADS1234IPW
 - Hex ID: SZKANALOGADCADS1234IPW
 - Name: Analog_ADC : ADS1234IPW
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog_ADC/ADS1234IPW/
 - Description: Analog_ADC : ADS1234IPW
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-ADS1234IPW](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-ADS1234IPW)
 - Short Link: [http://oom.lt/SZKANALOGADCADS1234IPW](http://oom.lt/SZKANALOGADCADS1234IPW)

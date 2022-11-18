@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Potentiometer_THT-Potentiometer_Piher_PT-15-V02_Vertical
 - Hex ID: FZKPPOTPIHERPT15V2F
 - Name: Potentiometer_THT : Potentiometer_Piher_PT-15-V02_Vertical
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Potentiometer_THT/Potentiometer_Piher_PT-15-V02_Vertical/
 - Description: Potentiometer_THT : Potentiometer_Piher_PT-15-V02_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Potentiometer_THT-Potentiometer_Piher_PT-15-V02_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Potentiometer_THT-Potentiometer_Piher_PT-15-V02_Vertical)
 - Short Link: [http://oom.lt/FZKPPOTPIHERPT15V2F](http://oom.lt/FZKPPOTPIHERPT15V2F)

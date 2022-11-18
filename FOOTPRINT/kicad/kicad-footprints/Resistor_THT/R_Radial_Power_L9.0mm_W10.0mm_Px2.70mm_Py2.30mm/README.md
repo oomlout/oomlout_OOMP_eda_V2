@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Resistor_THT-R_Radial_Power_L9.0mm_W10.0mm_Px2.70mm_Py2.30mm
 - Hex ID: FZKRRRPOWERL9W1PX27PY23
 - Name: Resistor_THT : R_Radial_Power_L9.0mm_W10.0mm_Px2.70mm_Py2.30mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Resistor_THT/R_Radial_Power_L9.0mm_W10.0mm_Px2.70mm_Py2.30mm/
 - Description: Resistor_THT : R_Radial_Power_L9.0mm_W10.0mm_Px2.70mm_Py2.30mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Resistor_THT-R_Radial_Power_L9.0mm_W10.0mm_Px2.70mm_Py2.30mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Resistor_THT-R_Radial_Power_L9.0mm_W10.0mm_Px2.70mm_Py2.30mm)
 - Short Link: [http://oom.lt/FZKRRRPOWERL9W1PX27PY23](http://oom.lt/FZKRRRPOWERL9W1PX27PY23)

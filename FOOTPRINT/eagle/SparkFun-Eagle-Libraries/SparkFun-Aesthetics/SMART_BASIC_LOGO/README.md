@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Aesthetics-SMART_BASIC_LOGO
 - Hex ID: FZSASRTBASICL
 - Name: SparkFun-Aesthetics : SMART_BASIC_LOGO
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Aesthetics/SMART_BASIC_LOGO/
 - Description: SparkFun-Aesthetics : SMART_BASIC_LOGO
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Aesthetics-SMART_BASIC_LOGO](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Aesthetics-SMART_BASIC_LOGO)
 - Short Link: [http://oom.lt/FZSASRTBASICL](http://oom.lt/FZSASRTBASICL)

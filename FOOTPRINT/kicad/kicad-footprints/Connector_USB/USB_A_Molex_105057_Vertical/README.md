@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_A_Molex_105057_Vertical
 - Hex ID: FZKCNUUAMX1557F
 - Name: Connector_USB : USB_A_Molex_105057_Vertical
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB_A_Molex_105057_Vertical/
 - Description: Connector_USB : USB_A_Molex_105057_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_A_Molex_105057_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_A_Molex_105057_Vertical)
 - Short Link: [http://oom.lt/FZKCNUUAMX1557F](http://oom.lt/FZKCNUUAMX1557F)

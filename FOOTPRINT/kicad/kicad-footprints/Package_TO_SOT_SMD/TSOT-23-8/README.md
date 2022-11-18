@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-TSOT-23-8
 - Hex ID: FZKSOTTSOT238
 - Name: Package_TO_SOT_SMD : TSOT-23-8
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/TSOT-23-8/
 - Description: Package_TO_SOT_SMD : TSOT-23-8
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-TSOT-23-8](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-TSOT-23-8)
 - Short Link: [http://oom.lt/FZKSOTTSOT238](http://oom.lt/FZKSOTTSOT238)

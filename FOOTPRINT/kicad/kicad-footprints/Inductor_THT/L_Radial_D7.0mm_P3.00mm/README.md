@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Radial_D7.0mm_P3.00mm
 - Hex ID: FZKINLRD7P3
 - Name: Inductor_THT : L_Radial_D7.0mm_P3.00mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Radial_D7.0mm_P3.00mm/
 - Description: Inductor_THT : L_Radial_D7.0mm_P3.00mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Radial_D7.0mm_P3.00mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Radial_D7.0mm_P3.00mm)
 - Short Link: [http://oom.lt/FZKINLRD7P3](http://oom.lt/FZKINLRD7P3)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-DiscreteSemi-SC70-6
 - Hex ID: FZSDSSC76
 - Name: SparkFun-DiscreteSemi : SC70-6
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-DiscreteSemi/SC70-6/
 - Description: SparkFun-DiscreteSemi : SC70-6
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-DiscreteSemi-SC70-6](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-DiscreteSemi-SC70-6)
 - Short Link: [http://oom.lt/FZSDSSC76](http://oom.lt/FZSDSSC76)

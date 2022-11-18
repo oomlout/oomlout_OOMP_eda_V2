@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Driver_FET-ACPL-W343
 - Hex ID: SZKDRIVERFETACPLW343
 - Name: Driver_FET : ACPL-W343
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Driver_FET/ACPL-W343/
 - Description: Driver_FET : ACPL-W343
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-ACPL-W343](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-ACPL-W343)
 - Short Link: [http://oom.lt/SZKDRIVERFETACPLW343](http://oom.lt/SZKDRIVERFETACPLW343)

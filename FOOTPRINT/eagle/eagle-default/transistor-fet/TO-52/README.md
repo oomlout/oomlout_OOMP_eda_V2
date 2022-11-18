@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-transistor-fet-TO-52
 - Hex ID: FZETRANSISTORFETTO52
 - Name: transistor-fet : TO-52
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/transistor-fet/TO-52/
 - Description: transistor-fet : TO-52
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-fet-TO-52](http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-fet-TO-52)
 - Short Link: [http://oom.lt/FZETRANSISTORFETTO52](http://oom.lt/FZETRANSISTORFETTO52)

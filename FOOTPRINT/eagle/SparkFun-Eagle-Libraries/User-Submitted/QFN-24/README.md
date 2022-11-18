@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-User-Submitted-QFN-24
 - Hex ID: FZSUQFN24
 - Name: User-Submitted : QFN-24
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/User-Submitted/QFN-24/
 - Description: User-Submitted : QFN-24
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-User-Submitted-QFN-24](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-User-Submitted-QFN-24)
 - Short Link: [http://oom.lt/FZSUQFN24](http://oom.lt/FZSUQFN24)

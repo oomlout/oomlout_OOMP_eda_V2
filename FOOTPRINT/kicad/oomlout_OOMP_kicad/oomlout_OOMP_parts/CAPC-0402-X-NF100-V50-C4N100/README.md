@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0402-X-NF100-V50-C4N100
 - Hex ID: FZOOMPKOOMPPCAPC42XNF1V5C4N1
 - Name: oomlout_OOMP_parts : CAPC-0402-X-NF100-V50-C4N100
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/CAPC-0402-X-NF100-V50-C4N100/
 - Description: oomlout_OOMP_parts : CAPC-0402-X-NF100-V50-C4N100
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0402-X-NF100-V50-C4N100](http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0402-X-NF100-V50-C4N100)
 - Short Link: [http://oom.lt/FZOOMPKOOMPPCAPC42XNF1V5C4N1](http://oom.lt/FZOOMPKOOMPPCAPC42XNF1V5C4N1)

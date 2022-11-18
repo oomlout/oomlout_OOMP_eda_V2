@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Reference_Voltage-MAX6035xSA25
 - Hex ID: SZKREFERENCEVOLTAGEMAX635XSA25
 - Name: Reference_Voltage : MAX6035xSA25
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Reference_Voltage/MAX6035xSA25/
 - Description: Reference_Voltage : MAX6035xSA25
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Voltage-MAX6035xSA25](http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Voltage-MAX6035xSA25)
 - Short Link: [http://oom.lt/SZKREFERENCEVOLTAGEMAX635XSA25](http://oom.lt/SZKREFERENCEVOLTAGEMAX635XSA25)

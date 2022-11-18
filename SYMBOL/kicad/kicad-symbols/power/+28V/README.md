@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-power-+28V
 - Hex ID: SZKPOWER+28V
 - Name: power : +28V
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/power/+28V/
 - Description: power : +28V
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-power-+28V](http://oom.lt/SYMBOL-kicad-kicad-symbols-power-+28V)
 - Short Link: [http://oom.lt/SZKPOWER+28V](http://oom.lt/SZKPOWER+28V)

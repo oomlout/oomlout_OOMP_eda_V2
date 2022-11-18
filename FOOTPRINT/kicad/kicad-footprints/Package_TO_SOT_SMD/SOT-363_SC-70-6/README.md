@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-363_SC-70-6
 - Hex ID: FZKSOTSOT363SC76
 - Name: Package_TO_SOT_SMD : SOT-363_SC-70-6
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/SOT-363_SC-70-6/
 - Description: Package_TO_SOT_SMD : SOT-363_SC-70-6
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-363_SC-70-6](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-363_SC-70-6)
 - Short Link: [http://oom.lt/FZKSOTSOT363SC76](http://oom.lt/FZKSOTSOT363SC76)

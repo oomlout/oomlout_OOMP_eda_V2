@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O223-67-R6223A
 - Hex ID: SZOOMPKOOMPPRESE63XO22367R6223A
 - Name: oomlout_OOMP_parts : RESE-0603-X-O223-67-R6223A
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/RESE-0603-X-O223-67-R6223A/
 - Description: oomlout_OOMP_parts : RESE-0603-X-O223-67-R6223A
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O223-67-R6223A](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O223-67-R6223A)
 - Short Link: [http://oom.lt/SZOOMPKOOMPPRESE63XO22367R6223A](http://oom.lt/SZOOMPKOOMPPRESE63XO22367R6223A)

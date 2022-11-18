@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-rcl-0207_5V
 - Hex ID: FZERCL275V
 - Name: rcl : 0207_5V
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/rcl/0207_5V/
 - Description: rcl : 0207_5V
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-0207_5V](http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-0207_5V)
 - Short Link: [http://oom.lt/FZERCL275V](http://oom.lt/FZERCL275V)

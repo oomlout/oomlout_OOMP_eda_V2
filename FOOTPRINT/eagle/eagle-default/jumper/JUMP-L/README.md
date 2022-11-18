@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-jumper-JUMP-L
 - Hex ID: FZEJJUMPL
 - Name: jumper : JUMP-L
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/jumper/JUMP-L/
 - Description: jumper : JUMP-L
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-jumper-JUMP-L](http://oom.lt/FOOTPRINT-eagle-eagle-default-jumper-JUMP-L)
 - Short Link: [http://oom.lt/FZEJJUMPL](http://oom.lt/FZEJJUMPL)

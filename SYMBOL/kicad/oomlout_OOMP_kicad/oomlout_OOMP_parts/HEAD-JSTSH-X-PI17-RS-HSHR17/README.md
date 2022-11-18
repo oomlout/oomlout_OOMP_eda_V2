@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-JSTSH-X-PI17-RS-HSHR17
 - Hex ID: SZOOMPKOOMPPHEADJSTSHXPI17RSHSHR17
 - Name: oomlout_OOMP_parts : HEAD-JSTSH-X-PI17-RS-HSHR17
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/HEAD-JSTSH-X-PI17-RS-HSHR17/
 - Description: oomlout_OOMP_parts : HEAD-JSTSH-X-PI17-RS-HSHR17
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-JSTSH-X-PI17-RS-HSHR17](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-JSTSH-X-PI17-RS-HSHR17)
 - Short Link: [http://oom.lt/SZOOMPKOOMPPHEADJSTSHXPI17RSHSHR17](http://oom.lt/SZOOMPKOOMPPHEADJSTSHXPI17RSHSHR17)

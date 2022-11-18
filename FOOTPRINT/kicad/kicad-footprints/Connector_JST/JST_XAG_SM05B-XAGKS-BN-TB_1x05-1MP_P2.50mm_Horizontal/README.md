@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_XAG_SM05B-XAGKS-BN-TB_1x05-1MP_P2.50mm_Horizontal
 - Hex ID: FZKCNJSTJSTXAGSM5BXAGKSBNTB1X51MPP25H
 - Name: Connector_JST : JST_XAG_SM05B-XAGKS-BN-TB_1x05-1MP_P2.50mm_Horizontal
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_XAG_SM05B-XAGKS-BN-TB_1x05-1MP_P2.50mm_Horizontal/
 - Description: Connector_JST : JST_XAG_SM05B-XAGKS-BN-TB_1x05-1MP_P2.50mm_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_XAG_SM05B-XAGKS-BN-TB_1x05-1MP_P2.50mm_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_XAG_SM05B-XAGKS-BN-TB_1x05-1MP_P2.50mm_Horizontal)
 - Short Link: [http://oom.lt/FZKCNJSTJSTXAGSM5BXAGKSBNTB1X51MPP25H](http://oom.lt/FZKCNJSTJSTXAGSM5BXAGKSBNTB1X51MPP25H)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-OPA2695xD
 - Hex ID: SZKAMPLIFIEROPERATIONALOPA2695XD
 - Name: Amplifier_Operational : OPA2695xD
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/OPA2695xD/
 - Description: Amplifier_Operational : OPA2695xD
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-OPA2695xD](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-OPA2695xD)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALOPA2695XD](http://oom.lt/SZKAMPLIFIEROPERATIONALOPA2695XD)

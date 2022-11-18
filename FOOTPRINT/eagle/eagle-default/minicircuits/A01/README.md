@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-minicircuits-A01
 - Hex ID: FZEMCIRCUITSA1
 - Name: minicircuits : A01
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/minicircuits/A01/
 - Description: minicircuits : A01
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-minicircuits-A01](http://oom.lt/FOOTPRINT-eagle-eagle-default-minicircuits-A01)
 - Short Link: [http://oom.lt/FZEMCIRCUITSA1](http://oom.lt/FZEMCIRCUITSA1)

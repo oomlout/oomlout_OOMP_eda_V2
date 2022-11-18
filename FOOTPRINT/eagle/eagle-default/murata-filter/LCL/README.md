@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-murata-filter-LCL
 - Hex ID: FZEMURATAFILLCL
 - Name: murata-filter : LCL
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/murata-filter/LCL/
 - Description: murata-filter : LCL
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-murata-filter-LCL](http://oom.lt/FOOTPRINT-eagle-eagle-default-murata-filter-LCL)
 - Short Link: [http://oom.lt/FZEMURATAFILLCL](http://oom.lt/FZEMURATAFILLCL)

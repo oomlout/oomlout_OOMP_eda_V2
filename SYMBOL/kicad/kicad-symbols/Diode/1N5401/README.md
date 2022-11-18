@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-1N5401
 - Hex ID: SZKDIODE1N541
 - Name: Diode : 1N5401
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/1N5401/
 - Description: Diode : 1N5401
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-1N5401](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-1N5401)
 - Short Link: [http://oom.lt/SZKDIODE1N541](http://oom.lt/SZKDIODE1N541)

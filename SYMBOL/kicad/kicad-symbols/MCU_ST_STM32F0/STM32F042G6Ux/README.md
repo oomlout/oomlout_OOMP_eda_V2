@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F0-STM32F042G6Ux
 - Hex ID: SZKMCUSTSTM32FSTM32F42G6UX
 - Name: MCU_ST_STM32F0 : STM32F042G6Ux
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32F0/STM32F042G6Ux/
 - Description: MCU_ST_STM32F0 : STM32F042G6Ux
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F0-STM32F042G6Ux](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F0-STM32F042G6Ux)
 - Short Link: [http://oom.lt/SZKMCUSTSTM32FSTM32F42G6UX](http://oom.lt/SZKMCUSTSTM32FSTM32F42G6UX)

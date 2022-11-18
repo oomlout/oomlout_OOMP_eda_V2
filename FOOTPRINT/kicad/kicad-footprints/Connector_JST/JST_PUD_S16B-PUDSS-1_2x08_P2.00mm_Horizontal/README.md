@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_PUD_S16B-PUDSS-1_2x08_P2.00mm_Horizontal
 - Hex ID: FZKCNJSTJSTPUDS16BPUDSS12X8P2H
 - Name: Connector_JST : JST_PUD_S16B-PUDSS-1_2x08_P2.00mm_Horizontal
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_PUD_S16B-PUDSS-1_2x08_P2.00mm_Horizontal/
 - Description: Connector_JST : JST_PUD_S16B-PUDSS-1_2x08_P2.00mm_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_PUD_S16B-PUDSS-1_2x08_P2.00mm_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_PUD_S16B-PUDSS-1_2x08_P2.00mm_Horizontal)
 - Short Link: [http://oom.lt/FZKCNJSTJSTPUDS16BPUDSS12X8P2H](http://oom.lt/FZKCNJSTJSTPUDS16BPUDSS12X8P2H)

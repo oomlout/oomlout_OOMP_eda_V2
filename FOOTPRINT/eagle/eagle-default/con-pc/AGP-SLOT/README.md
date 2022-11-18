@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-pc-AGP-SLOT
 - Hex ID: FZECONPCAGPSLOT
 - Name: con-pc : AGP-SLOT
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-pc/AGP-SLOT/
 - Description: con-pc : AGP-SLOT
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-pc-AGP-SLOT](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-pc-AGP-SLOT)
 - Short Link: [http://oom.lt/FZECONPCAGPSLOT](http://oom.lt/FZECONPCAGPSLOT)

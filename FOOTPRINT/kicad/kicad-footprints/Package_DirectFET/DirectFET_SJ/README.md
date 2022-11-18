@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_DirectFET-DirectFET_SJ
 - Hex ID: FZKDFETDIRECTFETSJ
 - Name: Package_DirectFET : DirectFET_SJ
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DirectFET/DirectFET_SJ/
 - Description: Package_DirectFET : DirectFET_SJ
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DirectFET-DirectFET_SJ](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DirectFET-DirectFET_SJ)
 - Short Link: [http://oom.lt/FZKDFETDIRECTFETSJ](http://oom.lt/FZKDFETDIRECTFETSJ)

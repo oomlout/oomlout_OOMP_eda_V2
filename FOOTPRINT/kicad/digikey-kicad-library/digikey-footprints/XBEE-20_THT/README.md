@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-XBEE-20_THT
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSXBEE2THT
 - Name: digikey-footprints : XBEE-20_THT
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/XBEE-20_THT/
 - Description: digikey-footprints : XBEE-20_THT
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-XBEE-20_THT](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-XBEE-20_THT)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSXBEE2THT](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSXBEE2THT)

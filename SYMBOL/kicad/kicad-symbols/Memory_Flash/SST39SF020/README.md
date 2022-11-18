@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Memory_Flash-SST39SF020
 - Hex ID: SZKMEMORYFLASHSST39SF2
 - Name: Memory_Flash : SST39SF020
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Memory_Flash/SST39SF020/
 - Description: Memory_Flash : SST39SF020
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_Flash-SST39SF020](http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_Flash-SST39SF020)
 - Short Link: [http://oom.lt/SZKMEMORYFLASHSST39SF2](http://oom.lt/SZKMEMORYFLASHSST39SF2)

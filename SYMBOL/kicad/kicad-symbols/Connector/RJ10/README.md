@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Connector-RJ10
 - Hex ID: SZKCNRJ1
 - Name: Connector : RJ10
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector/RJ10/
 - Description: Connector : RJ10
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-RJ10](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-RJ10)
 - Short Link: [http://oom.lt/SZKCNRJ1](http://oom.lt/SZKCNRJ1)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC32-PIC32MX795F512L-80x-PF
 - Hex ID: SZKMCUMCHIPPIC32PIC32MX795F512L8XPF
 - Name: MCU_Microchip_PIC32 : PIC32MX795F512L-80x-PF
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC32/PIC32MX795F512L-80x-PF/
 - Description: MCU_Microchip_PIC32 : PIC32MX795F512L-80x-PF
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC32-PIC32MX795F512L-80x-PF](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC32-PIC32MX795F512L-80x-PF)
 - Short Link: [http://oom.lt/SZKMCUMCHIPPIC32PIC32MX795F512L8XPF](http://oom.lt/SZKMCUMCHIPPIC32PIC32MX795F512L8XPF)

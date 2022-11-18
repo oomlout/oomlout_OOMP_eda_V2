@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-display-hp-HDSP-M
 - Hex ID: FZEDIHPHDSPM
 - Name: display-hp : HDSP-M
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/display-hp/HDSP-M/
 - Description: display-hp : HDSP-M
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-display-hp-HDSP-M](http://oom.lt/FOOTPRINT-eagle-eagle-default-display-hp-HDSP-M)
 - Short Link: [http://oom.lt/FZEDIHPHDSPM](http://oom.lt/FZEDIHPHDSPM)

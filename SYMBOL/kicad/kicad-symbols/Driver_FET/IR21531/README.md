@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Driver_FET-IR21531
 - Hex ID: SZKDRIVERFETIR21531
 - Name: Driver_FET : IR21531
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Driver_FET/IR21531/
 - Description: Driver_FET : IR21531
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-IR21531](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-IR21531)
 - Short Link: [http://oom.lt/SZKDRIVERFETIR21531](http://oom.lt/SZKDRIVERFETIR21531)

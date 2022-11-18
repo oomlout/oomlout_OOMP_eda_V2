@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-2X3-NS
 - Hex ID: FZSSPARKFUNCNS2X3NS
 - Name: SparkFun-Connectors : 2X3-NS
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Connectors/2X3-NS/
 - Description: SparkFun-Connectors : 2X3-NS
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-2X3-NS](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-2X3-NS)
 - Short Link: [http://oom.lt/FZSSPARKFUNCNS2X3NS](http://oom.lt/FZSSPARKFUNCNS2X3NS)

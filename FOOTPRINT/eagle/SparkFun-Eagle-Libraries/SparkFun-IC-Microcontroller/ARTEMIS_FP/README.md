@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Microcontroller-ARTEMIS_FP
 - Hex ID: FZSIUARTEMISFP
 - Name: SparkFun-IC-Microcontroller : ARTEMIS_FP
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-IC-Microcontroller/ARTEMIS_FP/
 - Description: SparkFun-IC-Microcontroller : ARTEMIS_FP
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Microcontroller-ARTEMIS_FP](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Microcontroller-ARTEMIS_FP)
 - Short Link: [http://oom.lt/FZSIUARTEMISFP](http://oom.lt/FZSIUARTEMISFP)

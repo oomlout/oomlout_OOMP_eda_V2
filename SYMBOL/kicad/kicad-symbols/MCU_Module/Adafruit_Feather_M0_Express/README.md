@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Module-Adafruit_Feather_M0_Express
 - Hex ID: SZKMCUMOADAFEATHERMEXPRESS
 - Name: MCU_Module : Adafruit_Feather_M0_Express
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Module/Adafruit_Feather_M0_Express/
 - Description: MCU_Module : Adafruit_Feather_M0_Express
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Module-Adafruit_Feather_M0_Express](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Module-Adafruit_Feather_M0_Express)
 - Short Link: [http://oom.lt/SZKMCUMOADAFEATHERMEXPRESS](http://oom.lt/SZKMCUMOADAFEATHERMEXPRESS)

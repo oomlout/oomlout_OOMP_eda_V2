@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-recom-international-RCD-24B-SMD
 - Hex ID: FZERECOMINTERNATIONALRCD24BSM
 - Name: recom-international : RCD-24B-SMD
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/recom-international/RCD-24B-SMD/
 - Description: recom-international : RCD-24B-SMD
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-recom-international-RCD-24B-SMD](http://oom.lt/FOOTPRINT-eagle-eagle-default-recom-international-RCD-24B-SMD)
 - Short Link: [http://oom.lt/FZERECOMINTERNATIONALRCD24BSM](http://oom.lt/FZERECOMINTERNATIONALRCD24BSM)

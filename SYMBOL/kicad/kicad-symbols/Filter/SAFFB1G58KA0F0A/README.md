@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Filter-SAFFB1G58KA0F0A
 - Hex ID: SZKFILSAFFB1G58KAFA
 - Name: Filter : SAFFB1G58KA0F0A
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Filter/SAFFB1G58KA0F0A/
 - Description: Filter : SAFFB1G58KA0F0A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Filter-SAFFB1G58KA0F0A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Filter-SAFFB1G58KA0F0A)
 - Short Link: [http://oom.lt/SZKFILSAFFB1G58KAFA](http://oom.lt/SZKFILSAFFB1G58KAFA)

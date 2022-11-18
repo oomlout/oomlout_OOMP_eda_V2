@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Potentiometer_THT-Potentiometer_Vishay_T73YP_Vertical
 - Hex ID: FZKPPOTVISHAYT73YPF
 - Name: Potentiometer_THT : Potentiometer_Vishay_T73YP_Vertical
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Potentiometer_THT/Potentiometer_Vishay_T73YP_Vertical/
 - Description: Potentiometer_THT : Potentiometer_Vishay_T73YP_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Potentiometer_THT-Potentiometer_Vishay_T73YP_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Potentiometer_THT-Potentiometer_Vishay_T73YP_Vertical)
 - Short Link: [http://oom.lt/FZKPPOTVISHAYT73YPF](http://oom.lt/FZKPPOTVISHAYT73YPF)

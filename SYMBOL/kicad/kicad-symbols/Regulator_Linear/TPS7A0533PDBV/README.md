@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-TPS7A0533PDBV
 - Hex ID: SZKREGULATORLINEARTPS7A533PDBV
 - Name: Regulator_Linear : TPS7A0533PDBV
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/TPS7A0533PDBV/
 - Description: Regulator_Linear : TPS7A0533PDBV
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-TPS7A0533PDBV](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-TPS7A0533PDBV)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARTPS7A533PDBV](http://oom.lt/SZKREGULATORLINEARTPS7A533PDBV)

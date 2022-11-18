@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Isolator-FODM214
 - Hex ID: SZKISOLATORFODM214
 - Name: Isolator : FODM214
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Isolator/FODM214/
 - Description: Isolator : FODM214
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-FODM214](http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-FODM214)
 - Short Link: [http://oom.lt/SZKISOLATORFODM214](http://oom.lt/SZKISOLATORFODM214)

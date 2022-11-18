@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-74ac-logic-DIL08
 - Hex ID: FZE74ACLOGICDIL8
 - Name: 74ac-logic : DIL08
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/74ac-logic/DIL08/
 - Description: 74ac-logic : DIL08
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-74ac-logic-DIL08](http://oom.lt/FOOTPRINT-eagle-eagle-default-74ac-logic-DIL08)
 - Short Link: [http://oom.lt/FZE74ACLOGICDIL8](http://oom.lt/FZE74ACLOGICDIL8)

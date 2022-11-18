@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-exar-QFP-56
 - Hex ID: FZEEXARQFP56
 - Name: exar : QFP-56
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/exar/QFP-56/
 - Description: exar : QFP-56
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-exar-QFP-56](http://oom.lt/FOOTPRINT-eagle-eagle-default-exar-QFP-56)
 - Short Link: [http://oom.lt/FZEEXARQFP56](http://oom.lt/FZEEXARQFP56)

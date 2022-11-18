@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-VL53L0CXV0DH_1
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSVL53LCXVDH1
 - Name: digikey-footprints : VL53L0CXV0DH_1
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/VL53L0CXV0DH_1/
 - Description: digikey-footprints : VL53L0CXV0DH_1
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-VL53L0CXV0DH_1](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-VL53L0CXV0DH_1)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSVL53LCXVDH1](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSVL53LCXVDH1)

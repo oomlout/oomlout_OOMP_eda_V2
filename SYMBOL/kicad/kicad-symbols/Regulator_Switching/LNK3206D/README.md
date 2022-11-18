@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-LNK3206D
 - Hex ID: SZKREGULATORSWINGLNK326D
 - Name: Regulator_Switching : LNK3206D
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/LNK3206D/
 - Description: Regulator_Switching : LNK3206D
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LNK3206D](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LNK3206D)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGLNK326D](http://oom.lt/SZKREGULATORSWINGLNK326D)

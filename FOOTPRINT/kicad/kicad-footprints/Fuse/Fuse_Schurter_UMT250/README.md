@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Fuse-Fuse_Schurter_UMT250
 - Hex ID: FZKFUFUSCHURTERUMT25
 - Name: Fuse : Fuse_Schurter_UMT250
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Fuse/Fuse_Schurter_UMT250/
 - Description: Fuse : Fuse_Schurter_UMT250
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Fuse-Fuse_Schurter_UMT250](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Fuse-Fuse_Schurter_UMT250)
 - Short Link: [http://oom.lt/FZKFUFUSCHURTERUMT25](http://oom.lt/FZKFUFUSCHURTERUMT25)

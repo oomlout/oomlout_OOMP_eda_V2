@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Controller-NCP1207B
 - Hex ID: SZKREGULATORCONTROLLERNCP127B
 - Name: Regulator_Controller : NCP1207B
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Controller/NCP1207B/
 - Description: Regulator_Controller : NCP1207B
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Controller-NCP1207B](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Controller-NCP1207B)
 - Short Link: [http://oom.lt/SZKREGULATORCONTROLLERNCP127B](http://oom.lt/SZKREGULATORCONTROLLERNCP127B)

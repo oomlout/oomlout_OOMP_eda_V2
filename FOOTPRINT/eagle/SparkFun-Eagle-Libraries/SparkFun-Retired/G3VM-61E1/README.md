@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-G3VM-61E1
 - Hex ID: FZSRTG3VM61E1
 - Name: SparkFun-Retired : G3VM-61E1
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Retired/G3VM-61E1/
 - Description: SparkFun-Retired : G3VM-61E1
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-G3VM-61E1](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-G3VM-61E1)
 - Short Link: [http://oom.lt/FZSRTG3VM61E1](http://oom.lt/FZSRTG3VM61E1)

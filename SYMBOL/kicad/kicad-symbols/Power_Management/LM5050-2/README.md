@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Power_Management-LM5050-2
 - Hex ID: SZKPOWERMANAGEMENTLM552
 - Name: Power_Management : LM5050-2
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Power_Management/LM5050-2/
 - Description: Power_Management : LM5050-2
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-LM5050-2](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-LM5050-2)
 - Short Link: [http://oom.lt/SZKPOWERMANAGEMENTLM552](http://oom.lt/SZKPOWERMANAGEMENTLM552)

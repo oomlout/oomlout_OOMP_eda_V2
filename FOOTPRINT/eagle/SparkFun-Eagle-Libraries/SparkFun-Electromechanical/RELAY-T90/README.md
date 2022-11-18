@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Electromechanical-RELAY-T90
 - Hex ID: FZSERELAYT9
 - Name: SparkFun-Electromechanical : RELAY-T90
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Electromechanical/RELAY-T90/
 - Description: SparkFun-Electromechanical : RELAY-T90
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Electromechanical-RELAY-T90](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Electromechanical-RELAY-T90)
 - Short Link: [http://oom.lt/FZSERELAYT9](http://oom.lt/FZSERELAYT9)

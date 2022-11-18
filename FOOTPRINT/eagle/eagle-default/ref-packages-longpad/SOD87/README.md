@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEREFPACKAGESLONGPADSOD87 > ref-packages-longpad : SOD87](#fzerefpackageslongpadsod87--ref-packages-longpad--sod87)
+* [FZEREFPSLPSOD87 > ref-packages-longpad : SOD87](#fzerefpslpsod87--ref-packages-longpad--sod87)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEREFPACKAGESLONGPADSOD87 > ref-packages-longpad : SOD87
+# FZEREFPSLPSOD87 > ref-packages-longpad : SOD87
 
 - ID: FOOTPRINT-eagle-eagle-default-ref-packages-longpad-SOD87
-- Hex ID: FZEREFPACKAGESLONGPADSOD87
+- Hex ID: FZEREFPSLPSOD87
 - Name: ref-packages-longpad : SOD87
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ref-packages-longpad/SOD87/
 - Description: ref-packages-longpad : SOD87
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-longpad-SOD87](http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-longpad-SOD87)
-- Short Link: [http://oom.lt/FZEREFPACKAGESLONGPADSOD87](http://oom.lt/FZEREFPACKAGESLONGPADSOD87)
+- Short Link: [http://oom.lt/FZEREFPSLPSOD87](http://oom.lt/FZEREFPSLPSOD87)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|ref-packages-longpad|
 |OOMP Index|oompIndex|SOD87|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-ref-packages-longpad-SOD87|
-|Hex ID (short code)|hexID|FZEREFPACKAGESLONGPADSOD87|
+|Hex ID (short code)|hexID|FZEREFPSLPSOD87|
 |name|name|ref-packages-longpad : SOD87|
 ||||

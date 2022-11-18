@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKHOLHOL25PADVIA > MountingHole : MountingHole_2.5mm_Pad_Via](#fzkholhol25padvia--mountinghole--mountinghole_25mm_pad_via)
+* [FZKHOLHOL25PVIA > MountingHole : MountingHole_2.5mm_Pad_Via](#fzkholhol25pvia--mountinghole--mountinghole_25mm_pad_via)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKHOLHOL25PADVIA > MountingHole : MountingHole_2.5mm_Pad_Via
+# FZKHOLHOL25PVIA > MountingHole : MountingHole_2.5mm_Pad_Via
 
 - ID: FOOTPRINT-kicad-kicad-footprints-MountingHole-MountingHole_2.5mm_Pad_Via
-- Hex ID: FZKHOLHOL25PADVIA
+- Hex ID: FZKHOLHOL25PVIA
 - Name: MountingHole : MountingHole_2.5mm_Pad_Via
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/MountingHole/MountingHole_2.5mm_Pad_Via/
 - Description: MountingHole : MountingHole_2.5mm_Pad_Via
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-MountingHole-MountingHole_2.5mm_Pad_Via](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-MountingHole-MountingHole_2.5mm_Pad_Via)
-- Short Link: [http://oom.lt/FZKHOLHOL25PADVIA](http://oom.lt/FZKHOLHOL25PADVIA)
+- Short Link: [http://oom.lt/FZKHOLHOL25PVIA](http://oom.lt/FZKHOLHOL25PVIA)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|MountingHole|
 |OOMP Index|oompIndex|MountingHole_2.5mm_Pad_Via|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-MountingHole-MountingHole_2.5mm_Pad_Via|
-|Hex ID (short code)|hexID|FZKHOLHOL25PADVIA|
+|Hex ID (short code)|hexID|FZKHOLHOL25PVIA|
 |name|name|MountingHole : MountingHole_2.5mm_Pad_Via|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'MountingHole_2.5mm_Pad_Via'</td><td> 'description'</td></tr><tr><td> 'Mounting Hole 2.5mm'</td><td> 'tags'</td></tr><tr><td> 'mounting hole 2.5mm'</td><td> 'attributeType'</td></tr><tr><td> None</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||

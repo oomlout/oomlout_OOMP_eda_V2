@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_RJ-RJ45_Cetus_J1B1211CCD_Horizontal
 - Hex ID: FZKCNRJRJ45CETUSJ1B1211CCDH
 - Name: Connector_RJ : RJ45_Cetus_J1B1211CCD_Horizontal
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_RJ/RJ45_Cetus_J1B1211CCD_Horizontal/
 - Description: Connector_RJ : RJ45_Cetus_J1B1211CCD_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_RJ-RJ45_Cetus_J1B1211CCD_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_RJ-RJ45_Cetus_J1B1211CCD_Horizontal)
 - Short Link: [http://oom.lt/FZKCNRJRJ45CETUSJ1B1211CCDH](http://oom.lt/FZKCNRJRJ45CETUSJ1B1211CCDH)

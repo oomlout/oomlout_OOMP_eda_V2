@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Potentiometer_THT-Potentiometer_Runtron_RM-063_Horizontal
 - Hex ID: FZKPPOTRUNTRONRM63H
 - Name: Potentiometer_THT : Potentiometer_Runtron_RM-063_Horizontal
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Potentiometer_THT/Potentiometer_Runtron_RM-063_Horizontal/
 - Description: Potentiometer_THT : Potentiometer_Runtron_RM-063_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Potentiometer_THT-Potentiometer_Runtron_RM-063_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Potentiometer_THT-Potentiometer_Runtron_RM-063_Horizontal)
 - Short Link: [http://oom.lt/FZKPPOTRUNTRONRM63H](http://oom.lt/FZKPPOTRUNTRONRM63H)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Connector-LEMO2
 - Hex ID: SZKCNLEMO2
 - Name: Connector : LEMO2
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector/LEMO2/
 - Description: Connector : LEMO2
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-LEMO2](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-LEMO2)
 - Short Link: [http://oom.lt/SZKCNLEMO2](http://oom.lt/SZKCNLEMO2)

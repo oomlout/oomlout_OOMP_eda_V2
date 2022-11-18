@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-TO-204AA
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSTO24AA
 - Name: digikey-footprints : TO-204AA
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/TO-204AA/
 - Description: digikey-footprints : TO-204AA
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-TO-204AA](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-TO-204AA)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSTO24AA](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSTO24AA)

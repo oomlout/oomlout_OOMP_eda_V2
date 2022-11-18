@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F7-STM32F765IGKx
 - Hex ID: SZKMCUSTSTM32F7STM32F765IGKX
 - Name: MCU_ST_STM32F7 : STM32F765IGKx
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32F7/STM32F765IGKx/
 - Description: MCU_ST_STM32F7 : STM32F765IGKx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F7-STM32F765IGKx](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F7-STM32F765IGKx)
 - Short Link: [http://oom.lt/SZKMCUSTSTM32F7STM32F765IGKX](http://oom.lt/SZKMCUSTSTM32F7STM32F765IGKX)

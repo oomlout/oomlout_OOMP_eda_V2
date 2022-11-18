@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_UART-ADM2687E
 - Hex ID: SZKINTERFACEUARTADM2687E
 - Name: Interface_UART : ADM2687E
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_UART/ADM2687E/
 - Description: Interface_UART : ADM2687E
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_UART-ADM2687E](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_UART-ADM2687E)
 - Short Link: [http://oom.lt/SZKINTERFACEUARTADM2687E](http://oom.lt/SZKINTERFACEUARTADM2687E)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode_Bridge-VS-KBPC110
 - Hex ID: SZKDIODEBRIDGEVSKBPC11
 - Name: Diode_Bridge : VS-KBPC110
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode_Bridge/VS-KBPC110/
 - Description: Diode_Bridge : VS-KBPC110
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode_Bridge-VS-KBPC110](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode_Bridge-VS-KBPC110)
 - Short Link: [http://oom.lt/SZKDIODEBRIDGEVSKBPC11](http://oom.lt/SZKDIODEBRIDGEVSKBPC11)

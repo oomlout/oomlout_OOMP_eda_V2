@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Audio-AK5394AVS
 - Hex ID: SZKAUDIOAK5394AVS
 - Name: Audio : AK5394AVS
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Audio/AK5394AVS/
 - Description: Audio : AK5394AVS
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Audio-AK5394AVS](http://oom.lt/SYMBOL-kicad-kicad-symbols-Audio-AK5394AVS)
 - Short Link: [http://oom.lt/SZKAUDIOAK5394AVS](http://oom.lt/SZKAUDIOAK5394AVS)

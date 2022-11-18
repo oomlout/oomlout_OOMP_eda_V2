@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-NCP115AMX120TCG
 - Hex ID: SZKREGULATORLINEARNCP115AMX12TCG
 - Name: Regulator_Linear : NCP115AMX120TCG
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/NCP115AMX120TCG/
 - Description: Regulator_Linear : NCP115AMX120TCG
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-NCP115AMX120TCG](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-NCP115AMX120TCG)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARNCP115AMX12TCG](http://oom.lt/SZKREGULATORLINEARNCP115AMX12TCG)

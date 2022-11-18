@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-con-samtec-SSW-124-02-G-Q
 - Hex ID: FZECONSAMTECSSW1242GQ
 - Name: con-samtec : SSW-124-02-G-Q
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-samtec/SSW-124-02-G-Q/
 - Description: con-samtec : SSW-124-02-G-Q
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-samtec-SSW-124-02-G-Q](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-samtec-SSW-124-02-G-Q)
 - Short Link: [http://oom.lt/FZECONSAMTECSSW1242GQ](http://oom.lt/FZECONSAMTECSSW1242GQ)

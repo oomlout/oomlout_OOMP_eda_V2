@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Isolator-Si8641BA-B-IU
 - Hex ID: SZKISOLATORSI8641BABIU
 - Name: Isolator : Si8641BA-B-IU
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Isolator/Si8641BA-B-IU/
 - Description: Isolator : Si8641BA-B-IU
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-Si8641BA-B-IU](http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-Si8641BA-B-IU)
 - Short Link: [http://oom.lt/SZKISOLATORSI8641BABIU](http://oom.lt/SZKISOLATORSI8641BABIU)

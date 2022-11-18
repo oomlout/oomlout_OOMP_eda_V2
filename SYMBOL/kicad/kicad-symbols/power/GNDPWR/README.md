@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-power-GNDPWR
 - Hex ID: SZKPOWERGNDPWR
 - Name: power : GNDPWR
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/power/GNDPWR/
 - Description: power : GNDPWR
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-power-GNDPWR](http://oom.lt/SYMBOL-kicad-kicad-symbols-power-GNDPWR)
 - Short Link: [http://oom.lt/SZKPOWERGNDPWR](http://oom.lt/SZKPOWERGNDPWR)

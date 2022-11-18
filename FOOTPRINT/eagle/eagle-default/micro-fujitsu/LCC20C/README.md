@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-micro-fujitsu-LCC20C
 - Hex ID: FZEMFUJITSULCC2C
 - Name: micro-fujitsu : LCC20C
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/micro-fujitsu/LCC20C/
 - Description: micro-fujitsu : LCC20C
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-fujitsu-LCC20C](http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-fujitsu-LCC20C)
 - Short Link: [http://oom.lt/FZEMFUJITSULCC2C](http://oom.lt/FZEMFUJITSULCC2C)

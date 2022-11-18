@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F7-STM32F745VGHx
 - Hex ID: SZKMCUSTSTM32F7STM32F745VGHX
 - Name: MCU_ST_STM32F7 : STM32F745VGHx
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32F7/STM32F745VGHx/
 - Description: MCU_ST_STM32F7 : STM32F745VGHx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F7-STM32F745VGHx](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F7-STM32F745VGHx)
 - Short Link: [http://oom.lt/SZKMCUSTSTM32F7STM32F745VGHX](http://oom.lt/SZKMCUSTSTM32F7STM32F745VGHX)

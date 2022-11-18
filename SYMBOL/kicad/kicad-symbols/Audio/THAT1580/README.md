@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Audio-THAT1580
 - Hex ID: SZKAUDIOTHAT158
 - Name: Audio : THAT1580
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Audio/THAT1580/
 - Description: Audio : THAT1580
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Audio-THAT1580](http://oom.lt/SYMBOL-kicad-kicad-symbols-Audio-THAT1580)
 - Short Link: [http://oom.lt/SZKAUDIOTHAT158](http://oom.lt/SZKAUDIOTHAT158)

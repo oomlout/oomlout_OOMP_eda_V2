@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Audio-TFA9879HN
 - Hex ID: SZKAMPLIFIERAUDIOTFA9879HN
 - Name: Amplifier_Audio : TFA9879HN
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Audio/TFA9879HN/
 - Description: Amplifier_Audio : TFA9879HN
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Audio-TFA9879HN](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Audio-TFA9879HN)
 - Short Link: [http://oom.lt/SZKAMPLIFIERAUDIOTFA9879HN](http://oom.lt/SZKAMPLIFIERAUDIOTFA9879HN)

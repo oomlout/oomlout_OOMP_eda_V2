@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-transistor-pnp-TO3_
 - Hex ID: FZETRANSISTORPNPTO3
 - Name: transistor-pnp : TO3_
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/transistor-pnp/TO3_/
 - Description: transistor-pnp : TO3_
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-pnp-TO3_](http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-pnp-TO3_)
 - Short Link: [http://oom.lt/FZETRANSISTORPNPTO3](http://oom.lt/FZETRANSISTORPNPTO3)

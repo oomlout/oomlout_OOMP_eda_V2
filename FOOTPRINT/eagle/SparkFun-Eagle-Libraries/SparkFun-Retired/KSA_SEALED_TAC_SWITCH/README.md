@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-KSA_SEALED_TAC_SWITCH
 - Hex ID: FZSRTKSASEALTACSW
 - Name: SparkFun-Retired : KSA_SEALED_TAC_SWITCH
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Retired/KSA_SEALED_TAC_SWITCH/
 - Description: SparkFun-Retired : KSA_SEALED_TAC_SWITCH
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-KSA_SEALED_TAC_SWITCH](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-KSA_SEALED_TAC_SWITCH)
 - Short Link: [http://oom.lt/FZSRTKSASEALTACSW](http://oom.lt/FZSRTKSASEALTACSW)

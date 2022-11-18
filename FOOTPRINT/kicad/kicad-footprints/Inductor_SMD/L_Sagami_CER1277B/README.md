@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Sagami_CER1277B
 - Hex ID: FZKINLSAGAMICER1277B
 - Name: Inductor_SMD : L_Sagami_CER1277B
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Sagami_CER1277B/
 - Description: Inductor_SMD : L_Sagami_CER1277B
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Sagami_CER1277B](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Sagami_CER1277B)
 - Short Link: [http://oom.lt/FZKINLSAGAMICER1277B](http://oom.lt/FZKINLSAGAMICER1277B)

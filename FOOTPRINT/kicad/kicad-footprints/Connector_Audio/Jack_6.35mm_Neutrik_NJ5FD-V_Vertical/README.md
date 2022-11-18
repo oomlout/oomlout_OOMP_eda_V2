@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_Audio-Jack_6.35mm_Neutrik_NJ5FD-V_Vertical
 - Hex ID: FZKCNAUDIOJ635NEUTRIKNJ5FDVF
 - Name: Connector_Audio : Jack_6.35mm_Neutrik_NJ5FD-V_Vertical
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Audio/Jack_6.35mm_Neutrik_NJ5FD-V_Vertical/
 - Description: Connector_Audio : Jack_6.35mm_Neutrik_NJ5FD-V_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Audio-Jack_6.35mm_Neutrik_NJ5FD-V_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Audio-Jack_6.35mm_Neutrik_NJ5FD-V_Vertical)
 - Short Link: [http://oom.lt/FZKCNAUDIOJ635NEUTRIKNJ5FDVF](http://oom.lt/FZKCNAUDIOJ635NEUTRIKNJ5FDVF)

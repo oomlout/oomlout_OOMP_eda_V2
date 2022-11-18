@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-LED-APFA3010
 - Hex ID: SZKLAPFA31
 - Name: LED : APFA3010
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/LED/APFA3010/
 - Description: LED : APFA3010
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-LED-APFA3010](http://oom.lt/SYMBOL-kicad-kicad-symbols-LED-APFA3010)
 - Short Link: [http://oom.lt/SZKLAPFA31](http://oom.lt/SZKLAPFA31)

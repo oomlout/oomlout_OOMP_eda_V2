@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-diode-SOD323-W
 - Hex ID: FZEDIODESOD323W
 - Name: diode : SOD323-W
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/diode/SOD323-W/
 - Description: diode : SOD323-W
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-diode-SOD323-W](http://oom.lt/FOOTPRINT-eagle-eagle-default-diode-SOD323-W)
 - Short Link: [http://oom.lt/FZEDIODESOD323W](http://oom.lt/FZEDIODESOD323W)

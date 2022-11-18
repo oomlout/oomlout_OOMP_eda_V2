@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0805-X-O222-67-R85222A
 - Hex ID: FZOOMPKOOMPPRESE85XO22267R85222A
 - Name: oomlout_OOMP_parts : RESE-0805-X-O222-67-R85222A
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/RESE-0805-X-O222-67-R85222A/
 - Description: oomlout_OOMP_parts : RESE-0805-X-O222-67-R85222A
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0805-X-O222-67-R85222A](http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0805-X-O222-67-R85222A)
 - Short Link: [http://oom.lt/FZOOMPKOOMPPRESE85XO22267R85222A](http://oom.lt/FZOOMPKOOMPPRESE85XO22267R85222A)

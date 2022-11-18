@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC32-PIC32MK1024GPE100-xPT
 - Hex ID: SZKMCUMCHIPPIC32PIC32MK124GPE1XPT
 - Name: MCU_Microchip_PIC32 : PIC32MK1024GPE100-xPT
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC32/PIC32MK1024GPE100-xPT/
 - Description: MCU_Microchip_PIC32 : PIC32MK1024GPE100-xPT
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC32-PIC32MK1024GPE100-xPT](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC32-PIC32MK1024GPE100-xPT)
 - Short Link: [http://oom.lt/SZKMCUMCHIPPIC32PIC32MK124GPE1XPT](http://oom.lt/SZKMCUMCHIPPIC32PIC32MK124GPE1XPT)

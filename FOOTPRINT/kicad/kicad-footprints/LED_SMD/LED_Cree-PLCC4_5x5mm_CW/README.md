@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_Cree-PLCC4_5x5mm_CW
 - Hex ID: FZKLLCREEPLCC45X5CW
 - Name: LED_SMD : LED_Cree-PLCC4_5x5mm_CW
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_Cree-PLCC4_5x5mm_CW/
 - Description: LED_SMD : LED_Cree-PLCC4_5x5mm_CW
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_Cree-PLCC4_5x5mm_CW](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_Cree-PLCC4_5x5mm_CW)
 - Short Link: [http://oom.lt/FZKLLCREEPLCC45X5CW](http://oom.lt/FZKLLCREEPLCC45X5CW)

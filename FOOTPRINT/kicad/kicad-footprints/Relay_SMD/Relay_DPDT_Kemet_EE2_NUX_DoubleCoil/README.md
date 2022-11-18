@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Relay_SMD-Relay_DPDT_Kemet_EE2_NUX_DoubleCoil
 - Hex ID: FZKRELRELAYDPDTKEMETEE2NUXDOUBLECOIL
 - Name: Relay_SMD : Relay_DPDT_Kemet_EE2_NUX_DoubleCoil
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Relay_SMD/Relay_DPDT_Kemet_EE2_NUX_DoubleCoil/
 - Description: Relay_SMD : Relay_DPDT_Kemet_EE2_NUX_DoubleCoil
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Relay_SMD-Relay_DPDT_Kemet_EE2_NUX_DoubleCoil](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Relay_SMD-Relay_DPDT_Kemet_EE2_NUX_DoubleCoil)
 - Short Link: [http://oom.lt/FZKRELRELAYDPDTKEMETEE2NUXDOUBLECOIL](http://oom.lt/FZKRELRELAYDPDTKEMETEE2NUXDOUBLECOIL)

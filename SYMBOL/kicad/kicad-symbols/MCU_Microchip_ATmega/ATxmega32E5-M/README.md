@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATxmega32E5-M
 - Hex ID: SZKMCUMCHIPATMEGAATXMEGA32E5M
 - Name: MCU_Microchip_ATmega : ATxmega32E5-M
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_ATmega/ATxmega32E5-M/
 - Description: MCU_Microchip_ATmega : ATxmega32E5-M
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATxmega32E5-M](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATxmega32E5-M)
 - Short Link: [http://oom.lt/SZKMCUMCHIPATMEGAATXMEGA32E5M](http://oom.lt/SZKMCUMCHIPATMEGAATXMEGA32E5M)

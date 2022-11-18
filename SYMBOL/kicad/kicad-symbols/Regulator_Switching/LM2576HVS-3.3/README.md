@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-LM2576HVS-3.3
 - Hex ID: SZKREGULATORSWINGLM2576HVS33
 - Name: Regulator_Switching : LM2576HVS-3.3
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/LM2576HVS-3.3/
 - Description: Regulator_Switching : LM2576HVS-3.3
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LM2576HVS-3.3](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LM2576HVS-3.3)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGLM2576HVS33](http://oom.lt/SZKREGULATORSWINGLM2576HVS33)

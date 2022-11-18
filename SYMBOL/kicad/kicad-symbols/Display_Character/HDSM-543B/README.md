@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Display_Character-HDSM-543B
 - Hex ID: SZKDICHARACTERHDSM543B
 - Name: Display_Character : HDSM-543B
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Display_Character/HDSM-543B/
 - Description: Display_Character : HDSM-543B
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-HDSM-543B](http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-HDSM-543B)
 - Short Link: [http://oom.lt/SZKDICHARACTERHDSM543B](http://oom.lt/SZKDICHARACTERHDSM543B)

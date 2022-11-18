@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-resistor-power-HPS58
 - Hex ID: FZERESISTORPOWERHPS58
 - Name: resistor-power : HPS58
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/resistor-power/HPS58/
 - Description: resistor-power : HPS58
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-resistor-power-HPS58](http://oom.lt/FOOTPRINT-eagle-eagle-default-resistor-power-HPS58)
 - Short Link: [http://oom.lt/FZERESISTORPOWERHPS58](http://oom.lt/FZERESISTORPOWERHPS58)

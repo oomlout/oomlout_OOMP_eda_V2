@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-diode-DO13M
 - Hex ID: FZEDIODEDO13M
 - Name: diode : DO13M
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/diode/DO13M/
 - Description: diode : DO13M
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-diode-DO13M](http://oom.lt/FOOTPRINT-eagle-eagle-default-diode-DO13M)
 - Short Link: [http://oom.lt/FZEDIODEDO13M](http://oom.lt/FZEDIODEDO13M)

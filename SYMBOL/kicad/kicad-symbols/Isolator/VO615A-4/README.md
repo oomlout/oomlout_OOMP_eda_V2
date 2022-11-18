@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Isolator-VO615A-4
 - Hex ID: SZKISOLATORVO615A4
 - Name: Isolator : VO615A-4
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Isolator/VO615A-4/
 - Description: Isolator : VO615A-4
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-VO615A-4](http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-VO615A-4)
 - Short Link: [http://oom.lt/SZKISOLATORVO615A4](http://oom.lt/SZKISOLATORVO615A4)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Buzzer_Beeper-MagneticBuzzer_ProjectsUnlimited_AI-4228-TWT-R
 - Hex ID: FZKBZMAGNETICBUZZERPROJECTSUNLIMITEDAI4228TWTR
 - Name: Buzzer_Beeper : MagneticBuzzer_ProjectsUnlimited_AI-4228-TWT-R
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Buzzer_Beeper/MagneticBuzzer_ProjectsUnlimited_AI-4228-TWT-R/
 - Description: Buzzer_Beeper : MagneticBuzzer_ProjectsUnlimited_AI-4228-TWT-R
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Buzzer_Beeper-MagneticBuzzer_ProjectsUnlimited_AI-4228-TWT-R](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Buzzer_Beeper-MagneticBuzzer_ProjectsUnlimited_AI-4228-TWT-R)
 - Short Link: [http://oom.lt/FZKBZMAGNETICBUZZERPROJECTSUNLIMITEDAI4228TWTR](http://oom.lt/FZKBZMAGNETICBUZZERPROJECTSUNLIMITEDAI4228TWTR)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-RN171
 - Hex ID: FZSRFRN171
 - Name: SparkFun-RF : RN171
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-RF/RN171/
 - Description: SparkFun-RF : RN171
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-RN171](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-RN171)
 - Short Link: [http://oom.lt/FZSRFRN171](http://oom.lt/FZSRFRN171)

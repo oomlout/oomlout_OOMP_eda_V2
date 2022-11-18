@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-cpci-044579_SOLDER
 - Hex ID: FZECONCPCI44579SOLDER
 - Name: con-cpci : 044579_SOLDER
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-cpci/044579_SOLDER/
 - Description: con-cpci : 044579_SOLDER
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-cpci-044579_SOLDER](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-cpci-044579_SOLDER)
 - Short Link: [http://oom.lt/FZECONCPCI44579SOLDER](http://oom.lt/FZECONCPCI44579SOLDER)

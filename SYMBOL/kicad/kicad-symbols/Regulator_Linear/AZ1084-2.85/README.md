@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-AZ1084-2.85
 - Hex ID: SZKREGULATORLINEARAZ184285
 - Name: Regulator_Linear : AZ1084-2.85
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/AZ1084-2.85/
 - Description: Regulator_Linear : AZ1084-2.85
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-AZ1084-2.85](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-AZ1084-2.85)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARAZ184285](http://oom.lt/SZKREGULATORLINEARAZ184285)

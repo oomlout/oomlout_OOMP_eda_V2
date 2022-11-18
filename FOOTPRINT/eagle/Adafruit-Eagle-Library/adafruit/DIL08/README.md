@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-DIL08
 - Hex ID: FZADIL8
 - Name: adafruit : DIL08
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/DIL08/
 - Description: adafruit : DIL08
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-DIL08](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-DIL08)
 - Short Link: [http://oom.lt/FZADIL8](http://oom.lt/FZADIL8)

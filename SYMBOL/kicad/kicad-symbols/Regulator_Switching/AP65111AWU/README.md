@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-AP65111AWU
 - Hex ID: SZKREGULATORSWINGAP65111AWU
 - Name: Regulator_Switching : AP65111AWU
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/AP65111AWU/
 - Description: Regulator_Switching : AP65111AWU
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-AP65111AWU](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-AP65111AWU)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGAP65111AWU](http://oom.lt/SZKREGULATORSWINGAP65111AWU)

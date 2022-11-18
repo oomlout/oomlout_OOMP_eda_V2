@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Tilt_Switch_RB-220-07A_R
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSTILTSWRB227AR
 - Name: digikey-footprints : Tilt_Switch_RB-220-07A_R
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Tilt_Switch_RB-220-07A_R/
 - Description: digikey-footprints : Tilt_Switch_RB-220-07A_R
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Tilt_Switch_RB-220-07A_R](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Tilt_Switch_RB-220-07A_R)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSTILTSWRB227AR](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSTILTSWRB227AR)

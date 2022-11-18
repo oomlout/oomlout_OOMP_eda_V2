@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-transistor-fet-2SK241
 - Hex ID: FZETRANSISTORFET2SK241
 - Name: transistor-fet : 2SK241
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/transistor-fet/2SK241/
 - Description: transistor-fet : 2SK241
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-fet-2SK241](http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-fet-2SK241)
 - Short Link: [http://oom.lt/FZETRANSISTORFET2SK241](http://oom.lt/FZETRANSISTORFET2SK241)

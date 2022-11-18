@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-User-Submitted-QFN-28_6X8
 - Hex ID: FZSUQFN286X8
 - Name: User-Submitted : QFN-28_6X8
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/User-Submitted/QFN-28_6X8/
 - Description: User-Submitted : QFN-28_6X8
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-User-Submitted-QFN-28_6X8](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-User-Submitted-QFN-28_6X8)
 - Short Link: [http://oom.lt/FZSUQFN286X8](http://oom.lt/FZSUQFN286X8)

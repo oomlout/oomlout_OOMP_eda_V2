@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKRELRELAY1P1TNO1X24X188PANASONICADW11XXXXWTHT > Relay_THT : Relay_1P1T_NO_10x24x18.8mm_Panasonic_ADW11xxxxW_THT](#fzkrelrelay1p1tno1x24x188panasonicadw11xxxxwtht--relay_tht--relay_1p1t_no_10x24x188mm_panasonic_adw11xxxxw_tht)
+* [FZKRELRELAY1P1TNO1X24X188PANADW11XXXXWTHT > Relay_THT : Relay_1P1T_NO_10x24x18.8mm_Panasonic_ADW11xxxxW_THT](#fzkrelrelay1p1tno1x24x188panadw11xxxxwtht--relay_tht--relay_1p1t_no_10x24x188mm_panasonic_adw11xxxxw_tht)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKRELRELAY1P1TNO1X24X188PANASONICADW11XXXXWTHT > Relay_THT : Relay_1P1T_NO_10x24x18.8mm_Panasonic_ADW11xxxxW_THT
+# FZKRELRELAY1P1TNO1X24X188PANADW11XXXXWTHT > Relay_THT : Relay_1P1T_NO_10x24x18.8mm_Panasonic_ADW11xxxxW_THT
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Relay_THT-Relay_1P1T_NO_10x24x18.8mm_Panasonic_ADW11xxxxW_THT
-- Hex ID: FZKRELRELAY1P1TNO1X24X188PANASONICADW11XXXXWTHT
+- Hex ID: FZKRELRELAY1P1TNO1X24X188PANADW11XXXXWTHT
 - Name: Relay_THT : Relay_1P1T_NO_10x24x18.8mm_Panasonic_ADW11xxxxW_THT
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Relay_THT/Relay_1P1T_NO_10x24x18.8mm_Panasonic_ADW11xxxxW_THT/
 - Description: Relay_THT : Relay_1P1T_NO_10x24x18.8mm_Panasonic_ADW11xxxxW_THT
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Relay_THT-Relay_1P1T_NO_10x24x18.8mm_Panasonic_ADW11xxxxW_THT](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Relay_THT-Relay_1P1T_NO_10x24x18.8mm_Panasonic_ADW11xxxxW_THT)
-- Short Link: [http://oom.lt/FZKRELRELAY1P1TNO1X24X188PANASONICADW11XXXXWTHT](http://oom.lt/FZKRELRELAY1P1TNO1X24X188PANASONICADW11XXXXWTHT)
+- Short Link: [http://oom.lt/FZKRELRELAY1P1TNO1X24X188PANADW11XXXXWTHT](http://oom.lt/FZKRELRELAY1P1TNO1X24X188PANADW11XXXXWTHT)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Relay_THT|
 |OOMP Index|oompIndex|Relay_1P1T_NO_10x24x18.8mm_Panasonic_ADW11xxxxW_THT|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Relay_THT-Relay_1P1T_NO_10x24x18.8mm_Panasonic_ADW11xxxxW_THT|
-|Hex ID (short code)|hexID|FZKRELRELAY1P1TNO1X24X188PANASONICADW11XXXXWTHT|
+|Hex ID (short code)|hexID|FZKRELRELAY1P1TNO1X24X188PANADW11XXXXWTHT|
 |name|name|Relay_THT : Relay_1P1T_NO_10x24x18.8mm_Panasonic_ADW11xxxxW_THT|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Relay_1P1T_NO_10x24x18.8mm_Panasonic_ADW11xxxxW_THT'</td><td> 'description'</td></tr><tr><td> 'Panasonic Relay SPST 10mm 24mm</td><td> https</td></tr><tr><td>//www.panasonic-electric-works.com/pew/es/downloads/ds_dw_hl_en.pdf'</td><td> 'tags'</td></tr><tr><td> 'Panasonic Relay SPST'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Relay_THT.3dshapes/Relay_1P1T_NO_10x24x18.8mm_Panasonic_ADW11xxxxW_THT.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

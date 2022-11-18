@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Aesthetics-OSHW-LOGO-M_COPPER
 - Hex ID: FZSAOSHWLMC
 - Name: SparkFun-Aesthetics : OSHW-LOGO-M_COPPER
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Aesthetics/OSHW-LOGO-M_COPPER/
 - Description: SparkFun-Aesthetics : OSHW-LOGO-M_COPPER
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Aesthetics-OSHW-LOGO-M_COPPER](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Aesthetics-OSHW-LOGO-M_COPPER)
 - Short Link: [http://oom.lt/FZSAOSHWLMC](http://oom.lt/FZSAOSHWLMC)

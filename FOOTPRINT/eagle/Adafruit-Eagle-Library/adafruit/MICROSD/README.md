@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-MICROSD
 - Hex ID: FZAMSD
 - Name: adafruit : MICROSD
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/MICROSD/
 - Description: adafruit : MICROSD
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-MICROSD](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-MICROSD)
 - Short Link: [http://oom.lt/FZAMSD](http://oom.lt/FZAMSD)

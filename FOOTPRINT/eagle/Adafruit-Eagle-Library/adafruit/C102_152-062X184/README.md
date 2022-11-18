@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-C102_152-062X184
 - Hex ID: FZAC1215262X184
 - Name: adafruit : C102_152-062X184
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/C102_152-062X184/
 - Description: adafruit : C102_152-062X184
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-C102_152-062X184](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-C102_152-062X184)
 - Short Link: [http://oom.lt/FZAC1215262X184](http://oom.lt/FZAC1215262X184)

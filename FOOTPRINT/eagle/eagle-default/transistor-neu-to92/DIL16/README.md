@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-transistor-neu-to92-DIL16
 - Hex ID: FZETRANSISTORNEUTO92DIL16
 - Name: transistor-neu-to92 : DIL16
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/transistor-neu-to92/DIL16/
 - Description: transistor-neu-to92 : DIL16
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-neu-to92-DIL16](http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-neu-to92-DIL16)
 - Short Link: [http://oom.lt/FZETRANSISTORNEUTO92DIL16](http://oom.lt/FZETRANSISTORNEUTO92DIL16)

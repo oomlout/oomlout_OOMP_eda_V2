@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-TO-243AA
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSTO243AA
 - Name: digikey-footprints : TO-243AA
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/TO-243AA/
 - Description: digikey-footprints : TO-243AA
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-TO-243AA](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-TO-243AA)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSTO243AA](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSTO243AA)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O499D-67-R6499DA
 - Hex ID: FZOOMPKOOMPPRESE63XO499D67R6499DA
 - Name: oomlout_OOMP_parts : RESE-0603-X-O499D-67-R6499DA
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/RESE-0603-X-O499D-67-R6499DA/
 - Description: oomlout_OOMP_parts : RESE-0603-X-O499D-67-R6499DA
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O499D-67-R6499DA](http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O499D-67-R6499DA)
 - Short Link: [http://oom.lt/FZOOMPKOOMPPRESE63XO499D67R6499DA](http://oom.lt/FZOOMPKOOMPPRESE63XO499D67R6499DA)

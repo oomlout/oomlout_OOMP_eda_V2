@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-switch-reed-MK15
 - Hex ID: FZESWREEDMK15
 - Name: switch-reed : MK15
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/switch-reed/MK15/
 - Description: switch-reed : MK15
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-reed-MK15](http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-reed-MK15)
 - Short Link: [http://oom.lt/FZESWREEDMK15](http://oom.lt/FZESWREEDMK15)

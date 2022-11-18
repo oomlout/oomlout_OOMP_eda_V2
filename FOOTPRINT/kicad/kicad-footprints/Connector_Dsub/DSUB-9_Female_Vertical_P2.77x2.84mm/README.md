@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_Dsub-DSUB-9_Female_Vertical_P2.77x2.84mm
 - Hex ID: FZKCNDSUBDSUB9FFP277X284
 - Name: Connector_Dsub : DSUB-9_Female_Vertical_P2.77x2.84mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Dsub/DSUB-9_Female_Vertical_P2.77x2.84mm/
 - Description: Connector_Dsub : DSUB-9_Female_Vertical_P2.77x2.84mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Dsub-DSUB-9_Female_Vertical_P2.77x2.84mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Dsub-DSUB-9_Female_Vertical_P2.77x2.84mm)
 - Short Link: [http://oom.lt/FZKCNDSUBDSUB9FFP277X284](http://oom.lt/FZKCNDSUBDSUB9FFP277X284)

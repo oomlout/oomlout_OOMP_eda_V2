@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-vg-M6-10M
 - Hex ID: FZECONVGM61M
 - Name: con-vg : M6-10M
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-vg/M6-10M/
 - Description: con-vg : M6-10M
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-vg-M6-10M](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-vg-M6-10M)
 - Short Link: [http://oom.lt/FZECONVGM61M](http://oom.lt/FZECONVGM61M)

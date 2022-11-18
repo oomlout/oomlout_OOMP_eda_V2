@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_CSP-LFCSP-20-1EP_4x4mm_P0.5mm_EP2.6x2.6mm
 - Hex ID: FZKCSPLFCSP21EP4X4P5EP26X26
 - Name: Package_CSP : LFCSP-20-1EP_4x4mm_P0.5mm_EP2.6x2.6mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_CSP/LFCSP-20-1EP_4x4mm_P0.5mm_EP2.6x2.6mm/
 - Description: Package_CSP : LFCSP-20-1EP_4x4mm_P0.5mm_EP2.6x2.6mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_CSP-LFCSP-20-1EP_4x4mm_P0.5mm_EP2.6x2.6mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_CSP-LFCSP-20-1EP_4x4mm_P0.5mm_EP2.6x2.6mm)
 - Short Link: [http://oom.lt/FZKCSPLFCSP21EP4X4P5EP26X26](http://oom.lt/FZKCSPLFCSP21EP4X4P5EP26X26)

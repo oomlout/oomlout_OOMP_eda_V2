@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKSOTTO92LHANDSOLDER > Package_TO_SOT_THT : TO-92L_HandSolder](#fzksotto92lhandsolder--package_to_sot_tht--to-92l_handsolder)
+* [FZKSOTTO92LHSOLDER > Package_TO_SOT_THT : TO-92L_HandSolder](#fzksotto92lhsolder--package_to_sot_tht--to-92l_handsolder)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKSOTTO92LHANDSOLDER > Package_TO_SOT_THT : TO-92L_HandSolder
+# FZKSOTTO92LHSOLDER > Package_TO_SOT_THT : TO-92L_HandSolder
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-TO-92L_HandSolder
-- Hex ID: FZKSOTTO92LHANDSOLDER
+- Hex ID: FZKSOTTO92LHSOLDER
 - Name: Package_TO_SOT_THT : TO-92L_HandSolder
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_THT/TO-92L_HandSolder/
 - Description: Package_TO_SOT_THT : TO-92L_HandSolder
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-TO-92L_HandSolder](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-TO-92L_HandSolder)
-- Short Link: [http://oom.lt/FZKSOTTO92LHANDSOLDER](http://oom.lt/FZKSOTTO92LHANDSOLDER)
+- Short Link: [http://oom.lt/FZKSOTTO92LHSOLDER](http://oom.lt/FZKSOTTO92LHSOLDER)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Package_TO_SOT_THT|
 |OOMP Index|oompIndex|TO-92L_HandSolder|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-TO-92L_HandSolder|
-|Hex ID (short code)|hexID|FZKSOTTO92LHANDSOLDER|
+|Hex ID (short code)|hexID|FZKSOTTO92LHSOLDER|
 |name|name|Package_TO_SOT_THT : TO-92L_HandSolder|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'TO-92L_HandSolder'</td><td> 'description'</td></tr><tr><td> 'TO-92L leads in-line (large body variant of TO-92)</td><td> also known as TO-226</td><td> wide</td><td> drill 0.75mm</td><td> hand-soldering variant with enlarged pads (see https</td></tr><tr><td>//www.diodes.com/assets/Package-Files/TO92L.pdf and http</td></tr><tr><td>//www.ti.com/lit/an/snoa059/snoa059.pdf)'</td><td> 'tags'</td></tr><tr><td> 'to-92 sc-43 sc-43a sot54 PA33 transistor'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_TO_SOT_THT.3dshapes/TO-92L.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

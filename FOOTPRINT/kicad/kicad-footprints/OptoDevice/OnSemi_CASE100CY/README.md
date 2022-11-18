@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-OptoDevice-OnSemi_CASE100CY
 - Hex ID: FZKOPONSEMICASE1CY
 - Name: OptoDevice : OnSemi_CASE100CY
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/OptoDevice/OnSemi_CASE100CY/
 - Description: OptoDevice : OnSemi_CASE100CY
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-OptoDevice-OnSemi_CASE100CY](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-OptoDevice-OnSemi_CASE100CY)
 - Short Link: [http://oom.lt/FZKOPONSEMICASE1CY](http://oom.lt/FZKOPONSEMICASE1CY)

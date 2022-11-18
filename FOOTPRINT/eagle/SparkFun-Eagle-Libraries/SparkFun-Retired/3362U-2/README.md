@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-3362U-2
 - Hex ID: FZSRT3362U2
 - Name: SparkFun-Retired : 3362U-2
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Retired/3362U-2/
 - Description: SparkFun-Retired : 3362U-2
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-3362U-2](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-3362U-2)
 - Short Link: [http://oom.lt/FZSRT3362U2](http://oom.lt/FZSRT3362U2)

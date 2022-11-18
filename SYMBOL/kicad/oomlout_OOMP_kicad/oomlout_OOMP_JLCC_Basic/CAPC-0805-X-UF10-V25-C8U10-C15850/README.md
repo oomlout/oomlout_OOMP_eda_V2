@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0805-X-UF10-V25-C8U10-C15850
 - Hex ID: SZOOMPKJLCCAPC85XUF1V25C8U1C1585
 - Name: oomlout_OOMP_JLCC_Basic : CAPC-0805-X-UF10-V25-C8U10-C15850
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_JLCC_Basic/CAPC-0805-X-UF10-V25-C8U10-C15850/
 - Description: oomlout_OOMP_JLCC_Basic : CAPC-0805-X-UF10-V25-C8U10-C15850
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0805-X-UF10-V25-C8U10-C15850](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0805-X-UF10-V25-C8U10-C15850)
 - Short Link: [http://oom.lt/SZOOMPKJLCCAPC85XUF1V25C8U1C1585](http://oom.lt/SZOOMPKJLCCAPC85XUF1V25C8U1C1585)

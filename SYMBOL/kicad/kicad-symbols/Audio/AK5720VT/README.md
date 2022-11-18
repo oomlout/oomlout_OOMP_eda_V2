@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Audio-AK5720VT
 - Hex ID: SZKAUDIOAK572VT
 - Name: Audio : AK5720VT
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Audio/AK5720VT/
 - Description: Audio : AK5720VT
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Audio-AK5720VT](http://oom.lt/SYMBOL-kicad-kicad-symbols-Audio-AK5720VT)
 - Short Link: [http://oom.lt/SZKAUDIOAK572VT](http://oom.lt/SZKAUDIOAK572VT)

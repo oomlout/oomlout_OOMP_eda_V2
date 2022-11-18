@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-QFN16-4X4
 - Hex ID: FZSRTQFN164X4
 - Name: SparkFun-Retired : QFN16-4X4
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Retired/QFN16-4X4/
 - Description: SparkFun-Retired : QFN16-4X4
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-QFN16-4X4](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-QFN16-4X4)
 - Short Link: [http://oom.lt/FZSRTQFN164X4](http://oom.lt/FZSRTQFN164X4)

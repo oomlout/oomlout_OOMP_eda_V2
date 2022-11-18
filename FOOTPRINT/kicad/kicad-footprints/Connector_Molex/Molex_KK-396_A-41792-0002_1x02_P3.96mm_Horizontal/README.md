@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_KK-396_A-41792-0002_1x02_P3.96mm_Horizontal
 - Hex ID: FZKCNMXMXKK396A4179221X2P396H
 - Name: Connector_Molex : Molex_KK-396_A-41792-0002_1x02_P3.96mm_Horizontal
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_KK-396_A-41792-0002_1x02_P3.96mm_Horizontal/
 - Description: Connector_Molex : Molex_KK-396_A-41792-0002_1x02_P3.96mm_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_KK-396_A-41792-0002_1x02_P3.96mm_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_KK-396_A-41792-0002_1x02_P3.96mm_Horizontal)
 - Short Link: [http://oom.lt/FZKCNMXMXKK396A4179221X2P396H](http://oom.lt/FZKCNMXMXKK396A4179221X2P396H)

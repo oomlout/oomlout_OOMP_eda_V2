@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-on-semiconductor-SOT-563
 - Hex ID: FZEONSEMICONDUCTORSOT563
 - Name: on-semiconductor : SOT-563
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/on-semiconductor/SOT-563/
 - Description: on-semiconductor : SOT-563
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-on-semiconductor-SOT-563](http://oom.lt/FOOTPRINT-eagle-eagle-default-on-semiconductor-SOT-563)
 - Short Link: [http://oom.lt/FZEONSEMICONDUCTORSOT563](http://oom.lt/FZEONSEMICONDUCTORSOT563)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-traco-electronic-TAP2422
 - Hex ID: FZETRACOELECTRONICTAP2422
 - Name: traco-electronic : TAP2422
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/traco-electronic/TAP2422/
 - Description: traco-electronic : TAP2422
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-traco-electronic-TAP2422](http://oom.lt/FOOTPRINT-eagle-eagle-default-traco-electronic-TAP2422)
 - Short Link: [http://oom.lt/FZETRACOELECTRONICTAP2422](http://oom.lt/FZETRACOELECTRONICTAP2422)

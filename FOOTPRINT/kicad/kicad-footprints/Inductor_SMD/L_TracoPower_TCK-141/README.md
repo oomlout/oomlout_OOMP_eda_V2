@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_TracoPower_TCK-141
 - Hex ID: FZKINLTRACOPOWERTCK141
 - Name: Inductor_SMD : L_TracoPower_TCK-141
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_TracoPower_TCK-141/
 - Description: Inductor_SMD : L_TracoPower_TCK-141
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_TracoPower_TCK-141](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_TracoPower_TCK-141)
 - Short Link: [http://oom.lt/FZKINLTRACOPOWERTCK141](http://oom.lt/FZKINLTRACOPOWERTCK141)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-HVQFN-16-1EP_3x3mm_P0.5mm_EP1.5x1.5mm
 - Hex ID: FZKDFNHVQFN161EP3X3P5EP15X15
 - Name: Package_DFN_QFN : HVQFN-16-1EP_3x3mm_P0.5mm_EP1.5x1.5mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/HVQFN-16-1EP_3x3mm_P0.5mm_EP1.5x1.5mm/
 - Description: Package_DFN_QFN : HVQFN-16-1EP_3x3mm_P0.5mm_EP1.5x1.5mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-HVQFN-16-1EP_3x3mm_P0.5mm_EP1.5x1.5mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-HVQFN-16-1EP_3x3mm_P0.5mm_EP1.5x1.5mm)
 - Short Link: [http://oom.lt/FZKDFNHVQFN161EP3X3P5EP15X15](http://oom.lt/FZKDFNHVQFN161EP3X3P5EP15X15)

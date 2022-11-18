@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-logo-FCC_6.1X16MM
 - Hex ID: FZELFCC61X16
 - Name: logo : FCC_6.1X16MM
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/logo/FCC_6.1X16MM/
 - Description: logo : FCC_6.1X16MM
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-logo-FCC_6.1X16MM](http://oom.lt/FOOTPRINT-eagle-eagle-default-logo-FCC_6.1X16MM)
 - Short Link: [http://oom.lt/FZELFCC61X16](http://oom.lt/FZELFCC61X16)

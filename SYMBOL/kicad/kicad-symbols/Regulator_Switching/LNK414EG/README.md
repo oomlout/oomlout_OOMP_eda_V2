@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-LNK414EG
 - Hex ID: SZKREGULATORSWINGLNK414EG
 - Name: Regulator_Switching : LNK414EG
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/LNK414EG/
 - Description: Regulator_Switching : LNK414EG
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LNK414EG](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LNK414EG)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGLNK414EG](http://oom.lt/SZKREGULATORSWINGLNK414EG)

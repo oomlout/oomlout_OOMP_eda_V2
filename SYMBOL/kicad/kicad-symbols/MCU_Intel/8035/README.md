@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Intel-8035
 - Hex ID: SZKMCUINTEL835
 - Name: MCU_Intel : 8035
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Intel/8035/
 - Description: MCU_Intel : 8035
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Intel-8035](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Intel-8035)
 - Short Link: [http://oom.lt/SZKMCUINTEL835](http://oom.lt/SZKMCUINTEL835)

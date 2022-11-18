@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEREFPACKAGESCTRIM88BC75 > ref-packages : CTRIM808-BC7.5](#fzerefpackagesctrim88bc75--ref-packages--ctrim808-bc75)
+* [FZEREFPSCTRIM88BC75 > ref-packages : CTRIM808-BC7.5](#fzerefpsctrim88bc75--ref-packages--ctrim808-bc75)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEREFPACKAGESCTRIM88BC75 > ref-packages : CTRIM808-BC7.5
+# FZEREFPSCTRIM88BC75 > ref-packages : CTRIM808-BC7.5
 
 - ID: FOOTPRINT-eagle-eagle-default-ref-packages-CTRIM808-BC7.5
-- Hex ID: FZEREFPACKAGESCTRIM88BC75
+- Hex ID: FZEREFPSCTRIM88BC75
 - Name: ref-packages : CTRIM808-BC7.5
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ref-packages/CTRIM808-BC7.5/
 - Description: ref-packages : CTRIM808-BC7.5
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-CTRIM808-BC7.5](http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-CTRIM808-BC7.5)
-- Short Link: [http://oom.lt/FZEREFPACKAGESCTRIM88BC75](http://oom.lt/FZEREFPACKAGESCTRIM88BC75)
+- Short Link: [http://oom.lt/FZEREFPSCTRIM88BC75](http://oom.lt/FZEREFPSCTRIM88BC75)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|ref-packages|
 |OOMP Index|oompIndex|CTRIM808-BC7.5|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-ref-packages-CTRIM808-BC7.5|
-|Hex ID (short code)|hexID|FZEREFPACKAGESCTRIM88BC75|
+|Hex ID (short code)|hexID|FZEREFPSCTRIM88BC75|
 |name|name|ref-packages : CTRIM808-BC7.5|
 ||||

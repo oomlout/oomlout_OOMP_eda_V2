@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-WizNet_Module_WIZ810MJ
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSWIZNETMOWIZ81MJ
 - Name: digikey-footprints : WizNet_Module_WIZ810MJ
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/WizNet_Module_WIZ810MJ/
 - Description: digikey-footprints : WizNet_Module_WIZ810MJ
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-WizNet_Module_WIZ810MJ](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-WizNet_Module_WIZ810MJ)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSWIZNETMOWIZ81MJ](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSWIZNETMOWIZ81MJ)

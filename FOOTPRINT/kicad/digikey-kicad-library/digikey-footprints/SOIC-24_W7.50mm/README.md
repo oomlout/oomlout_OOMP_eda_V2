@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SOIC-24_W7.50mm
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSSOIC24W75
 - Name: digikey-footprints : SOIC-24_W7.50mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/SOIC-24_W7.50mm/
 - Description: digikey-footprints : SOIC-24_W7.50mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SOIC-24_W7.50mm](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SOIC-24_W7.50mm)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSSOIC24W75](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSSOIC24W75)

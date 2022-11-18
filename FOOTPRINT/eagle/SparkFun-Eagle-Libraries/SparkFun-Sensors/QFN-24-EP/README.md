@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-QFN-24-EP
 - Hex ID: FZSSPARKFUNSENSQFN24EP
 - Name: SparkFun-Sensors : QFN-24-EP
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Sensors/QFN-24-EP/
 - Description: SparkFun-Sensors : QFN-24-EP
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-QFN-24-EP](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-QFN-24-EP)
 - Short Link: [http://oom.lt/FZSSPARKFUNSENSQFN24EP](http://oom.lt/FZSSPARKFUNSENSQFN24EP)

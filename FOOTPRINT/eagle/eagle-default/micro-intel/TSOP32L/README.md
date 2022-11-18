@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-micro-intel-TSOP32L
 - Hex ID: FZEMINTELTS32L
 - Name: micro-intel : TSOP32L
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/micro-intel/TSOP32L/
 - Description: micro-intel : TSOP32L
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-intel-TSOP32L](http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-intel-TSOP32L)
 - Short Link: [http://oom.lt/FZEMINTELTS32L](http://oom.lt/FZEMINTELTS32L)

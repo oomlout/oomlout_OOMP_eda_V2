@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-LGA-12_9x9mm_LSM303C
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSLGA129X9LSM33C
 - Name: digikey-footprints : LGA-12_9x9mm_LSM303C
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/LGA-12_9x9mm_LSM303C/
 - Description: digikey-footprints : LGA-12_9x9mm_LSM303C
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-LGA-12_9x9mm_LSM303C](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-LGA-12_9x9mm_LSM303C)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSLGA129X9LSM33C](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSLGA129X9LSM33C)

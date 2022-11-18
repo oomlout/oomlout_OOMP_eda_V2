@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-switch-reed-CT10-A2
 - Hex ID: FZESWREEDCT1A2
 - Name: switch-reed : CT10-A2
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/switch-reed/CT10-A2/
 - Description: switch-reed : CT10-A2
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-reed-CT10-A2](http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-reed-CT10-A2)
 - Short Link: [http://oom.lt/FZESWREEDCT1A2](http://oom.lt/FZESWREEDCT1A2)

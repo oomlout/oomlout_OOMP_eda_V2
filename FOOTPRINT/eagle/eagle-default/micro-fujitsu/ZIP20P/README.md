@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-micro-fujitsu-ZIP20P
 - Hex ID: FZEMFUJITSUZIP2P
 - Name: micro-fujitsu : ZIP20P
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/micro-fujitsu/ZIP20P/
 - Description: micro-fujitsu : ZIP20P
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-fujitsu-ZIP20P](http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-fujitsu-ZIP20P)
 - Short Link: [http://oom.lt/FZEMFUJITSUZIP2P](http://oom.lt/FZEMFUJITSUZIP2P)

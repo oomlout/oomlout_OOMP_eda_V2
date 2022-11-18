@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-relay-M3XXH
 - Hex ID: FZERELAYM3XXH
 - Name: relay : M3XXH
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/relay/M3XXH/
 - Description: relay : M3XXH
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-M3XXH](http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-M3XXH)
 - Short Link: [http://oom.lt/FZERELAYM3XXH](http://oom.lt/FZERELAYM3XXH)

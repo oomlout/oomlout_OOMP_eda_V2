@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Reference_Voltage-REF5045ID
 - Hex ID: SZKREFERENCEVOLTAGEREF545ID
 - Name: Reference_Voltage : REF5045ID
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Reference_Voltage/REF5045ID/
 - Description: Reference_Voltage : REF5045ID
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Voltage-REF5045ID](http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Voltage-REF5045ID)
 - Short Link: [http://oom.lt/SZKREFERENCEVOLTAGEREF545ID](http://oom.lt/SZKREFERENCEVOLTAGEREF545ID)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Analog_Switch-MAX40200ANS
 - Hex ID: SZKANALOGSWMAX42ANS
 - Name: Analog_Switch : MAX40200ANS
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog_Switch/MAX40200ANS/
 - Description: Analog_Switch : MAX40200ANS
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_Switch-MAX40200ANS](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_Switch-MAX40200ANS)
 - Short Link: [http://oom.lt/SZKANALOGSWMAX42ANS](http://oom.lt/SZKANALOGSWMAX42ANS)

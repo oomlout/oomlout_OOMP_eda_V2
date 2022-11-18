@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Converter_DCDC-ATA00B18S-L
 - Hex ID: SZKCONATAB18SL
 - Name: Converter_DCDC : ATA00B18S-L
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Converter_DCDC/ATA00B18S-L/
 - Description: Converter_DCDC : ATA00B18S-L
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-ATA00B18S-L](http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-ATA00B18S-L)
 - Short Link: [http://oom.lt/SZKCONATAB18SL](http://oom.lt/SZKCONATAB18SL)

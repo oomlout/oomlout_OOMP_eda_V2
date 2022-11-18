@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-special-SW-4XUM
 - Hex ID: FZESPECIALSW4XUM
 - Name: special : SW-4XUM
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/special/SW-4XUM/
 - Description: special : SW-4XUM
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-special-SW-4XUM](http://oom.lt/FOOTPRINT-eagle-eagle-default-special-SW-4XUM)
 - Short Link: [http://oom.lt/FZESPECIALSW4XUM](http://oom.lt/FZESPECIALSW4XUM)

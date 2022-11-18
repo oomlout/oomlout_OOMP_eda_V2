@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED-APA102-2020
 - Hex ID: FZKLLAPA1222
 - Name: LED_SMD : LED-APA102-2020
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED-APA102-2020/
 - Description: LED_SMD : LED-APA102-2020
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED-APA102-2020](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED-APA102-2020)
 - Short Link: [http://oom.lt/FZKLLAPA1222](http://oom.lt/FZKLLAPA1222)

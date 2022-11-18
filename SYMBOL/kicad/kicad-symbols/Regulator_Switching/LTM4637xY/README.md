@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-LTM4637xY
 - Hex ID: SZKREGULATORSWINGLTM4637XY
 - Name: Regulator_Switching : LTM4637xY
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/LTM4637xY/
 - Description: Regulator_Switching : LTM4637xY
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LTM4637xY](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LTM4637xY)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGLTM4637XY](http://oom.lt/SZKREGULATORSWINGLTM4637XY)

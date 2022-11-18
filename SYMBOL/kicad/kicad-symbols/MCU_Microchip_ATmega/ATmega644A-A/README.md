@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega644A-A
 - Hex ID: SZKMCUMCHIPATMEGAATMEGA644AA
 - Name: MCU_Microchip_ATmega : ATmega644A-A
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_ATmega/ATmega644A-A/
 - Description: MCU_Microchip_ATmega : ATmega644A-A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega644A-A](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega644A-A)
 - Short Link: [http://oom.lt/SZKMCUMCHIPATMEGAATMEGA644AA](http://oom.lt/SZKMCUMCHIPATMEGAATMEGA644AA)

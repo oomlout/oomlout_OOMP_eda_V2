@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEREFPACKAGESSOT89W > ref-packages : SOT89-W](#fzerefpackagessot89w--ref-packages--sot89-w)
+* [FZEREFPSSOT89W > ref-packages : SOT89-W](#fzerefpssot89w--ref-packages--sot89-w)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEREFPACKAGESSOT89W > ref-packages : SOT89-W
+# FZEREFPSSOT89W > ref-packages : SOT89-W
 
 - ID: FOOTPRINT-eagle-eagle-default-ref-packages-SOT89-W
-- Hex ID: FZEREFPACKAGESSOT89W
+- Hex ID: FZEREFPSSOT89W
 - Name: ref-packages : SOT89-W
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ref-packages/SOT89-W/
 - Description: ref-packages : SOT89-W
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-SOT89-W](http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-SOT89-W)
-- Short Link: [http://oom.lt/FZEREFPACKAGESSOT89W](http://oom.lt/FZEREFPACKAGESSOT89W)
+- Short Link: [http://oom.lt/FZEREFPSSOT89W](http://oom.lt/FZEREFPSSOT89W)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|ref-packages|
 |OOMP Index|oompIndex|SOT89-W|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-ref-packages-SOT89-W|
-|Hex ID (short code)|hexID|FZEREFPACKAGESSOT89W|
+|Hex ID (short code)|hexID|FZEREFPSSOT89W|
 |name|name|ref-packages : SOT89-W|
 ||||

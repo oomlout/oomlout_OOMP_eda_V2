@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-MOLEX-1X2_LOCK
 - Hex ID: FZSSPARKFUNCNSMX1X2L
 - Name: SparkFun-Connectors : MOLEX-1X2_LOCK
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Connectors/MOLEX-1X2_LOCK/
 - Description: SparkFun-Connectors : MOLEX-1X2_LOCK
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-MOLEX-1X2_LOCK](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-MOLEX-1X2_LOCK)
 - Short Link: [http://oom.lt/FZSSPARKFUNCNSMX1X2L](http://oom.lt/FZSSPARKFUNCNSMX1X2L)

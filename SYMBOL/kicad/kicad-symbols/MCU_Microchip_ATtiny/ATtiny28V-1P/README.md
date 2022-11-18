@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny28V-1P
 - Hex ID: SZKMCUMCHIPATTINYATTINY28V1P
 - Name: MCU_Microchip_ATtiny : ATtiny28V-1P
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_ATtiny/ATtiny28V-1P/
 - Description: MCU_Microchip_ATtiny : ATtiny28V-1P
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny28V-1P](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny28V-1P)
 - Short Link: [http://oom.lt/SZKMCUMCHIPATTINYATTINY28V1P](http://oom.lt/SZKMCUMCHIPATTINYATTINY28V1P)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0402-X-PF10-V50-C4P10-C32949
 - Hex ID: SZOOMPKJLCCAPC42XPF1V5C4P1C32949
 - Name: oomlout_OOMP_JLCC_Basic : CAPC-0402-X-PF10-V50-C4P10-C32949
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_JLCC_Basic/CAPC-0402-X-PF10-V50-C4P10-C32949/
 - Description: oomlout_OOMP_JLCC_Basic : CAPC-0402-X-PF10-V50-C4P10-C32949
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0402-X-PF10-V50-C4P10-C32949](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0402-X-PF10-V50-C4P10-C32949)
 - Short Link: [http://oom.lt/SZOOMPKJLCCAPC42XPF1V5C4P1C32949](http://oom.lt/SZOOMPKJLCCAPC42XPF1V5C4P1C32949)

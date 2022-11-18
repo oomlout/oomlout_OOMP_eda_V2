@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-LMR14206
 - Hex ID: SZKREGULATORSWINGLMR1426
 - Name: Regulator_Switching : LMR14206
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/LMR14206/
 - Description: Regulator_Switching : LMR14206
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LMR14206](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LMR14206)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGLMR1426](http://oom.lt/SZKREGULATORSWINGLMR1426)

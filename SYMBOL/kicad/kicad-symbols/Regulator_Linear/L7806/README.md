@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-L7806
 - Hex ID: SZKREGULATORLINEARL786
 - Name: Regulator_Linear : L7806
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/L7806/
 - Description: Regulator_Linear : L7806
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-L7806](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-L7806)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARL786](http://oom.lt/SZKREGULATORLINEARL786)

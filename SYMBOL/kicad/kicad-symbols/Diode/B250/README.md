@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-B250
 - Hex ID: SZKDIODEB25
 - Name: Diode : B250
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/B250/
 - Description: Diode : B250
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-B250](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-B250)
 - Short Link: [http://oom.lt/SZKDIODEB25](http://oom.lt/SZKDIODEB25)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Photodiode_THT_BPW34
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSPHOTODBPW34
 - Name: digikey-footprints : Photodiode_THT_BPW34
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Photodiode_THT_BPW34/
 - Description: digikey-footprints : Photodiode_THT_BPW34
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Photodiode_THT_BPW34](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Photodiode_THT_BPW34)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSPHOTODBPW34](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSPHOTODBPW34)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Battery_Management-BQ27750
 - Hex ID: SZKBATMANAGEMENTBQ2775
 - Name: Battery_Management : BQ27750
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Battery_Management/BQ27750/
 - Description: Battery_Management : BQ27750
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Battery_Management-BQ27750](http://oom.lt/SYMBOL-kicad-kicad-symbols-Battery_Management-BQ27750)
 - Short Link: [http://oom.lt/SZKBATMANAGEMENTBQ2775](http://oom.lt/SZKBATMANAGEMENTBQ2775)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-relay-RT-N_O12A3.5
 - Hex ID: FZERELAYRTNO12A35
 - Name: relay : RT-N_O12A3.5
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/relay/RT-N_O12A3.5/
 - Description: relay : RT-N_O12A3.5
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-RT-N_O12A3.5](http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-RT-N_O12A3.5)
 - Short Link: [http://oom.lt/FZERELAYRTNO12A35](http://oom.lt/FZERELAYRTNO12A35)

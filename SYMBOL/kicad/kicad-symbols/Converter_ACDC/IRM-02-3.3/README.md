@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Converter_ACDC-IRM-02-3.3
 - Hex ID: SZKCONIRM233
 - Name: Converter_ACDC : IRM-02-3.3
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Converter_ACDC/IRM-02-3.3/
 - Description: Converter_ACDC : IRM-02-3.3
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_ACDC-IRM-02-3.3](http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_ACDC-IRM-02-3.3)
 - Short Link: [http://oom.lt/SZKCONIRM233](http://oom.lt/SZKCONIRM233)

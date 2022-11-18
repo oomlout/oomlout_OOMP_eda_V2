@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-resistor-power-RWM8X34
 - Hex ID: FZERESISTORPOWERRWM8X34
 - Name: resistor-power : RWM8X34
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/resistor-power/RWM8X34/
 - Description: resistor-power : RWM8X34
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-resistor-power-RWM8X34](http://oom.lt/FOOTPRINT-eagle-eagle-default-resistor-power-RWM8X34)
 - Short Link: [http://oom.lt/FZERESISTORPOWERRWM8X34](http://oom.lt/FZERESISTORPOWERRWM8X34)

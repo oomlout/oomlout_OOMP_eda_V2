@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-switch-misc-SRK2L
 - Hex ID: FZESWMISCSRK2L
 - Name: switch-misc : SRK2L
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/switch-misc/SRK2L/
 - Description: switch-misc : SRK2L
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-misc-SRK2L](http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-misc-SRK2L)
 - Short Link: [http://oom.lt/FZESWMISCSRK2L](http://oom.lt/FZESWMISCSRK2L)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Memory_EEPROM-AT24CS04-XHM
 - Hex ID: SZKMEMORYEEPROMAT24CS4XHM
 - Name: Memory_EEPROM : AT24CS04-XHM
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Memory_EEPROM/AT24CS04-XHM/
 - Description: Memory_EEPROM : AT24CS04-XHM
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_EEPROM-AT24CS04-XHM](http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_EEPROM-AT24CS04-XHM)
 - Short Link: [http://oom.lt/SZKMEMORYEEPROMAT24CS4XHM](http://oom.lt/SZKMEMORYEEPROMAT24CS4XHM)

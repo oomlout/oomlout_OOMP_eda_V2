@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O475-01-R6475
 - Hex ID: FZOOMPKOOMPPRESE63XO4751R6475
 - Name: oomlout_OOMP_parts : RESE-0603-X-O475-01-R6475
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/RESE-0603-X-O475-01-R6475/
 - Description: oomlout_OOMP_parts : RESE-0603-X-O475-01-R6475
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O475-01-R6475](http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O475-01-R6475)
 - Short Link: [http://oom.lt/FZOOMPKOOMPPRESE63XO4751R6475](http://oom.lt/FZOOMPKOOMPPRESE63XO4751R6475)

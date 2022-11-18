@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Isolator-TCMT1109
 - Hex ID: SZKISOLATORTCMT119
 - Name: Isolator : TCMT1109
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Isolator/TCMT1109/
 - Description: Isolator : TCMT1109
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-TCMT1109](http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-TCMT1109)
 - Short Link: [http://oom.lt/SZKISOLATORTCMT119](http://oom.lt/SZKISOLATORTCMT119)

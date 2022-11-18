@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_Samtec-Samtec_LSHM-120-xx.x-x-DV-N_2x20_P0.50mm_Vertical
 - Hex ID: FZKCNSAMTECSAMTECLSHM12XXXXDVN2X2P5F
 - Name: Connector_Samtec : Samtec_LSHM-120-xx.x-x-DV-N_2x20_P0.50mm_Vertical
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Samtec/Samtec_LSHM-120-xx.x-x-DV-N_2x20_P0.50mm_Vertical/
 - Description: Connector_Samtec : Samtec_LSHM-120-xx.x-x-DV-N_2x20_P0.50mm_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Samtec-Samtec_LSHM-120-xx.x-x-DV-N_2x20_P0.50mm_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Samtec-Samtec_LSHM-120-xx.x-x-DV-N_2x20_P0.50mm_Vertical)
 - Short Link: [http://oom.lt/FZKCNSAMTECSAMTECLSHM12XXXXDVN2X2P5F](http://oom.lt/FZKCNSAMTECSAMTECLSHM12XXXXDVN2X2P5F)

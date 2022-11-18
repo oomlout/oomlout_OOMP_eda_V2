@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0603-X-NF7-V50-C6N7-C1622
 - Hex ID: SZOOMPKJLCCAPC63XNF7V5C6N7C1622
 - Name: oomlout_OOMP_JLCC_Basic : CAPC-0603-X-NF7-V50-C6N7-C1622
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_JLCC_Basic/CAPC-0603-X-NF7-V50-C6N7-C1622/
 - Description: oomlout_OOMP_JLCC_Basic : CAPC-0603-X-NF7-V50-C6N7-C1622
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0603-X-NF7-V50-C6N7-C1622](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0603-X-NF7-V50-C6N7-C1622)
 - Short Link: [http://oom.lt/SZOOMPKJLCCAPC63XNF7V5C6N7C1622](http://oom.lt/SZOOMPKJLCCAPC63XNF7V5C6N7C1622)

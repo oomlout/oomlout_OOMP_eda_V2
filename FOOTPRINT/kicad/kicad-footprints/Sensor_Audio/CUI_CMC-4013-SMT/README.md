@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Sensor_Audio-CUI_CMC-4013-SMT
 - Hex ID: FZKSENAUDIOCUICMC413S
 - Name: Sensor_Audio : CUI_CMC-4013-SMT
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Sensor_Audio/CUI_CMC-4013-SMT/
 - Description: Sensor_Audio : CUI_CMC-4013-SMT
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Sensor_Audio-CUI_CMC-4013-SMT](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Sensor_Audio-CUI_CMC-4013-SMT)
 - Short Link: [http://oom.lt/FZKSENAUDIOCUICMC413S](http://oom.lt/FZKSENAUDIOCUICMC413S)

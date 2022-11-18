@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-I01-X-PI01-RS-HRS01
 - Hex ID: SZOOMPKOOMPPHEADI1XPI1RSHRS1
 - Name: oomlout_OOMP_parts : HEAD-I01-X-PI01-RS-HRS01
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/HEAD-I01-X-PI01-RS-HRS01/
 - Description: oomlout_OOMP_parts : HEAD-I01-X-PI01-RS-HRS01
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-I01-X-PI01-RS-HRS01](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-I01-X-PI01-RS-HRS01)
 - Short Link: [http://oom.lt/SZOOMPKOOMPPHEADI1XPI1RSHRS1](http://oom.lt/SZOOMPKOOMPPHEADI1XPI1RSHRS1)

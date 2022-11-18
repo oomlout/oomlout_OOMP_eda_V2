@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-LED-LED-RGB-THRU
 - Hex ID: FZSLLRGBTHRU
 - Name: SparkFun-LED : LED-RGB-THRU
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-LED/LED-RGB-THRU/
 - Description: SparkFun-LED : LED-RGB-THRU
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-LED-LED-RGB-THRU](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-LED-LED-RGB-THRU)
 - Short Link: [http://oom.lt/FZSLLRGBTHRU](http://oom.lt/FZSLLRGBTHRU)

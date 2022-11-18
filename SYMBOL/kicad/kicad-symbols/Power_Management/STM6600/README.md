@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Power_Management-STM6600
 - Hex ID: SZKPOWERMANAGEMENTSTM66
 - Name: Power_Management : STM6600
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Power_Management/STM6600/
 - Description: Power_Management : STM6600
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-STM6600](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-STM6600)
 - Short Link: [http://oom.lt/SZKPOWERMANAGEMENTSTM66](http://oom.lt/SZKPOWERMANAGEMENTSTM66)

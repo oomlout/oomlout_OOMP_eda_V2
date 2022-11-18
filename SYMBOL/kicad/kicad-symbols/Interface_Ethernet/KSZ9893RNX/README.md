@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_Ethernet-KSZ9893RNX
 - Hex ID: SZKINTERFACEETHERNETKSZ9893RNX
 - Name: Interface_Ethernet : KSZ9893RNX
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_Ethernet/KSZ9893RNX/
 - Description: Interface_Ethernet : KSZ9893RNX
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Ethernet-KSZ9893RNX](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Ethernet-KSZ9893RNX)
 - Short Link: [http://oom.lt/SZKINTERFACEETHERNETKSZ9893RNX](http://oom.lt/SZKINTERFACEETHERNETKSZ9893RNX)

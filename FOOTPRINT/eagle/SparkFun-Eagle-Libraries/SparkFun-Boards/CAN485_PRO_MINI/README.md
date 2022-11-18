@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Boards-CAN485_PRO_MINI
 - Hex ID: FZSBOCAN485PROM
 - Name: SparkFun-Boards : CAN485_PRO_MINI
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Boards/CAN485_PRO_MINI/
 - Description: SparkFun-Boards : CAN485_PRO_MINI
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Boards-CAN485_PRO_MINI](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Boards-CAN485_PRO_MINI)
 - Short Link: [http://oom.lt/FZSBOCAN485PROM](http://oom.lt/FZSBOCAN485PROM)

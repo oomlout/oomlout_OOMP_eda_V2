@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_CSP-LFCSP-WD-8-1EP_3x3mm_P0.65mm_EP1.6x2.44mm
 - Hex ID: FZKCSPLFCSPWD81EP3X3P65EP16X244
 - Name: Package_CSP : LFCSP-WD-8-1EP_3x3mm_P0.65mm_EP1.6x2.44mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_CSP/LFCSP-WD-8-1EP_3x3mm_P0.65mm_EP1.6x2.44mm/
 - Description: Package_CSP : LFCSP-WD-8-1EP_3x3mm_P0.65mm_EP1.6x2.44mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_CSP-LFCSP-WD-8-1EP_3x3mm_P0.65mm_EP1.6x2.44mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_CSP-LFCSP-WD-8-1EP_3x3mm_P0.65mm_EP1.6x2.44mm)
 - Short Link: [http://oom.lt/FZKCSPLFCSPWD81EP3X3P65EP16X244](http://oom.lt/FZKCSPLFCSPWD81EP3X3P65EP16X244)

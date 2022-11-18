@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-crystal-MC-405
 - Hex ID: FZEXMC45
 - Name: crystal : MC-405
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/crystal/MC-405/
 - Description: crystal : MC-405
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-crystal-MC-405](http://oom.lt/FOOTPRINT-eagle-eagle-default-crystal-MC-405)
 - Short Link: [http://oom.lt/FZEXMC45](http://oom.lt/FZEXMC45)

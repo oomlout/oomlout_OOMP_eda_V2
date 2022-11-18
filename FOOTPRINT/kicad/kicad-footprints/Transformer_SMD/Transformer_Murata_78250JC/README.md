@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Transformer_SMD-Transformer_Murata_78250JC
 - Hex ID: FZKTRTRM7825JC
 - Name: Transformer_SMD : Transformer_Murata_78250JC
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Transformer_SMD/Transformer_Murata_78250JC/
 - Description: Transformer_SMD : Transformer_Murata_78250JC
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Transformer_SMD-Transformer_Murata_78250JC](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Transformer_SMD-Transformer_Murata_78250JC)
 - Short Link: [http://oom.lt/FZKTRTRM7825JC](http://oom.lt/FZKTRTRM7825JC)

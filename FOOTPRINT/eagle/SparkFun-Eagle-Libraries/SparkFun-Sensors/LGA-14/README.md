@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-LGA-14
 - Hex ID: FZSSPARKFUNSENSLGA14
 - Name: SparkFun-Sensors : LGA-14
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Sensors/LGA-14/
 - Description: SparkFun-Sensors : LGA-14
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-LGA-14](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-LGA-14)
 - Short Link: [http://oom.lt/FZSSPARKFUNSENSLGA14](http://oom.lt/FZSSPARKFUNSENSLGA14)

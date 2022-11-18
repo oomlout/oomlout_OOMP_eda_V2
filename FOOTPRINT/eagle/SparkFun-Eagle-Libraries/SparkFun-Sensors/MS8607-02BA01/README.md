@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-MS8607-02BA01
 - Hex ID: FZSSPARKFUNSENSMS8672BA1
 - Name: SparkFun-Sensors : MS8607-02BA01
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Sensors/MS8607-02BA01/
 - Description: SparkFun-Sensors : MS8607-02BA01
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-MS8607-02BA01](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-MS8607-02BA01)
 - Short Link: [http://oom.lt/FZSSPARKFUNSENSMS8672BA1](http://oom.lt/FZSSPARKFUNSENSMS8672BA1)

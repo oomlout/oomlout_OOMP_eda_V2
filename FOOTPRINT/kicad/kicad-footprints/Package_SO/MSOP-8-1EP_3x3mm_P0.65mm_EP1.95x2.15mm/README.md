@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_SO-MSOP-8-1EP_3x3mm_P0.65mm_EP1.95x2.15mm
 - Hex ID: FZKSOMS81EP3X3P65EP195X215
 - Name: Package_SO : MSOP-8-1EP_3x3mm_P0.65mm_EP1.95x2.15mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SO/MSOP-8-1EP_3x3mm_P0.65mm_EP1.95x2.15mm/
 - Description: Package_SO : MSOP-8-1EP_3x3mm_P0.65mm_EP1.95x2.15mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SO-MSOP-8-1EP_3x3mm_P0.65mm_EP1.95x2.15mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SO-MSOP-8-1EP_3x3mm_P0.65mm_EP1.95x2.15mm)
 - Short Link: [http://oom.lt/FZKSOMS81EP3X3P65EP195X215](http://oom.lt/FZKSOMS81EP3X3P65EP195X215)

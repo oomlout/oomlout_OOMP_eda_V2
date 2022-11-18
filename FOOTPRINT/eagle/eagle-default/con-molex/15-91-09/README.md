@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-molex-15-91-09
 - Hex ID: FZECONMX15919
 - Name: con-molex : 15-91-09
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-molex/15-91-09/
 - Description: con-molex : 15-91-09
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-molex-15-91-09](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-molex-15-91-09)
 - Short Link: [http://oom.lt/FZECONMX15919](http://oom.lt/FZECONMX15919)

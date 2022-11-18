@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Device-D_TVS
 - Hex ID: SZKDEVICEDTVS
 - Name: Device : D_TVS
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/D_TVS/
 - Description: Device : D_TVS
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-D_TVS](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-D_TVS)
 - Short Link: [http://oom.lt/SZKDEVICEDTVS](http://oom.lt/SZKDEVICEDTVS)

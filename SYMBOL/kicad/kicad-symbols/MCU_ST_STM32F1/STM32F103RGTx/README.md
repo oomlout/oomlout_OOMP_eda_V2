@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F1-STM32F103RGTx
 - Hex ID: SZKMCUSTSTM32F1STM32F13RGTX
 - Name: MCU_ST_STM32F1 : STM32F103RGTx
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32F1/STM32F103RGTx/
 - Description: MCU_ST_STM32F1 : STM32F103RGTx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F1-STM32F103RGTx](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F1-STM32F103RGTx)
 - Short Link: [http://oom.lt/SZKMCUSTSTM32F1STM32F13RGTX](http://oom.lt/SZKMCUSTSTM32F1STM32F13RGTX)

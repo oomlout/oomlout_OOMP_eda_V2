@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Resistor_THT-R_Box_L26.0mm_W5.0mm_P20.00mm
 - Hex ID: FZKRRBOXL26W5P2
 - Name: Resistor_THT : R_Box_L26.0mm_W5.0mm_P20.00mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Resistor_THT/R_Box_L26.0mm_W5.0mm_P20.00mm/
 - Description: Resistor_THT : R_Box_L26.0mm_W5.0mm_P20.00mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Resistor_THT-R_Box_L26.0mm_W5.0mm_P20.00mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Resistor_THT-R_Box_L26.0mm_W5.0mm_P20.00mm)
 - Short Link: [http://oom.lt/FZKRRBOXL26W5P2](http://oom.lt/FZKRRBOXL26W5P2)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-relay-AQW27-SMD08
 - Hex ID: FZERELAYAQW27SM8
 - Name: relay : AQW27-SMD08
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/relay/AQW27-SMD08/
 - Description: relay : AQW27-SMD08
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-AQW27-SMD08](http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-AQW27-SMD08)
 - Short Link: [http://oom.lt/FZERELAYAQW27SM8](http://oom.lt/FZERELAYAQW27SM8)

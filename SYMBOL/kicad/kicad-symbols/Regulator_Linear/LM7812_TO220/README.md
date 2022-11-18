@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-LM7812_TO220
 - Hex ID: SZKREGULATORLINEARLM7812TO22
 - Name: Regulator_Linear : LM7812_TO220
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LM7812_TO220/
 - Description: Regulator_Linear : LM7812_TO220
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LM7812_TO220](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LM7812_TO220)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARLM7812TO22](http://oom.lt/SZKREGULATORLINEARLM7812TO22)

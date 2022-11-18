@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Oscillator-OH300
 - Hex ID: SZKOCSOH3
 - Name: Oscillator : OH300
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Oscillator/OH300/
 - Description: Oscillator : OH300
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Oscillator-OH300](http://oom.lt/SYMBOL-kicad-kicad-symbols-Oscillator-OH300)
 - Short Link: [http://oom.lt/SZKOCSOH3](http://oom.lt/SZKOCSOH3)

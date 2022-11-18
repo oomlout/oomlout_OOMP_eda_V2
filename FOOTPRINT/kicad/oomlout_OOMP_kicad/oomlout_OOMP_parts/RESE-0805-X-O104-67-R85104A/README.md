@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0805-X-O104-67-R85104A
 - Hex ID: FZOOMPKOOMPPRESE85XO1467R8514A
 - Name: oomlout_OOMP_parts : RESE-0805-X-O104-67-R85104A
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/RESE-0805-X-O104-67-R85104A/
 - Description: oomlout_OOMP_parts : RESE-0805-X-O104-67-R85104A
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0805-X-O104-67-R85104A](http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0805-X-O104-67-R85104A)
 - Short Link: [http://oom.lt/FZOOMPKOOMPPRESE85XO1467R8514A](http://oom.lt/FZOOMPKOOMPPRESE85XO1467R8514A)

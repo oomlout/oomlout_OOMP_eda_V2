@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_Pico-Lock_504050-0691_1x06-1MP_P1.50mm_Horizontal
 - Hex ID: FZKCNMXMXPICOL5456911X61MPP15H
 - Name: Connector_Molex : Molex_Pico-Lock_504050-0691_1x06-1MP_P1.50mm_Horizontal
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_Pico-Lock_504050-0691_1x06-1MP_P1.50mm_Horizontal/
 - Description: Connector_Molex : Molex_Pico-Lock_504050-0691_1x06-1MP_P1.50mm_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_Pico-Lock_504050-0691_1x06-1MP_P1.50mm_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_Pico-Lock_504050-0691_1x06-1MP_P1.50mm_Horizontal)
 - Short Link: [http://oom.lt/FZKCNMXMXPICOL5456911X61MPP15H](http://oom.lt/FZKCNMXMXPICOL5456911X61MPP15H)

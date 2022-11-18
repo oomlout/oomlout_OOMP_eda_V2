@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-linear-TA11B
 - Hex ID: FZELINEARTA11B
 - Name: linear : TA11B
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/linear/TA11B/
 - Description: linear : TA11B
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-linear-TA11B](http://oom.lt/FOOTPRINT-eagle-eagle-default-linear-TA11B)
 - Short Link: [http://oom.lt/FZELINEARTA11B](http://oom.lt/FZELINEARTA11B)

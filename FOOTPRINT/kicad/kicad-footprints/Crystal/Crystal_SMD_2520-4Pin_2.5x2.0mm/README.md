@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKXXSM2524PIN25X2 > Crystal : Crystal_SMD_2520-4Pin_2.5x2.0mm](#fzkxxsm2524pin25x2--crystal--crystal_smd_2520-4pin_25x20mm)
+* [FZKXXSM2524P25X2 > Crystal : Crystal_SMD_2520-4Pin_2.5x2.0mm](#fzkxxsm2524p25x2--crystal--crystal_smd_2520-4pin_25x20mm)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKXXSM2524PIN25X2 > Crystal : Crystal_SMD_2520-4Pin_2.5x2.0mm
+# FZKXXSM2524P25X2 > Crystal : Crystal_SMD_2520-4Pin_2.5x2.0mm
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_SMD_2520-4Pin_2.5x2.0mm
-- Hex ID: FZKXXSM2524PIN25X2
+- Hex ID: FZKXXSM2524P25X2
 - Name: Crystal : Crystal_SMD_2520-4Pin_2.5x2.0mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_SMD_2520-4Pin_2.5x2.0mm/
 - Description: Crystal : Crystal_SMD_2520-4Pin_2.5x2.0mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_SMD_2520-4Pin_2.5x2.0mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_SMD_2520-4Pin_2.5x2.0mm)
-- Short Link: [http://oom.lt/FZKXXSM2524PIN25X2](http://oom.lt/FZKXXSM2524PIN25X2)
+- Short Link: [http://oom.lt/FZKXXSM2524P25X2](http://oom.lt/FZKXXSM2524P25X2)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Crystal|
 |OOMP Index|oompIndex|Crystal_SMD_2520-4Pin_2.5x2.0mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_SMD_2520-4Pin_2.5x2.0mm|
-|Hex ID (short code)|hexID|FZKXXSM2524PIN25X2|
+|Hex ID (short code)|hexID|FZKXXSM2524P25X2|
 |name|name|Crystal : Crystal_SMD_2520-4Pin_2.5x2.0mm|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Crystal_SMD_2520-4Pin_2.5x2.0mm'</td><td> 'description'</td></tr><tr><td> 'SMD Crystal SERIES SMD2520/4 http</td></tr><tr><td>//www.newxtal.com/UploadFiles/Images/2012-11-12-09-29-09-776.pdf</td><td> 2.5x2.0mm^2 package'</td><td> 'tags'</td></tr><tr><td> 'SMD SMT crystal'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Crystal.3dshapes/Crystal_SMD_2520-4Pin_2.5x2.0mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

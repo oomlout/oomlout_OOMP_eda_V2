@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Connector-SODIMM-200_Split
 - Hex ID: SZKCNSODI2SPLIT
 - Name: Connector : SODIMM-200_Split
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector/SODIMM-200_Split/
 - Description: Connector : SODIMM-200_Split
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-SODIMM-200_Split](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-SODIMM-200_Split)
 - Short Link: [http://oom.lt/SZKCNSODI2SPLIT](http://oom.lt/SZKCNSODI2SPLIT)

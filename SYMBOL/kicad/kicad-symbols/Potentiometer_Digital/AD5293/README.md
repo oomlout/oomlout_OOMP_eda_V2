@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Potentiometer_Digital-AD5293
 - Hex ID: SZKPOTDIGITALAD5293
 - Name: Potentiometer_Digital : AD5293
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Potentiometer_Digital/AD5293/
 - Description: Potentiometer_Digital : AD5293
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Potentiometer_Digital-AD5293](http://oom.lt/SYMBOL-kicad-kicad-symbols-Potentiometer_Digital-AD5293)
 - Short Link: [http://oom.lt/SZKPOTDIGITALAD5293](http://oom.lt/SZKPOTDIGITALAD5293)

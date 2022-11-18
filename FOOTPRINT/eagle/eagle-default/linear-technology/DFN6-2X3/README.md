@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-linear-technology-DFN6-2X3
 - Hex ID: FZELINEARTECHNOLOGYDFN62X3
 - Name: linear-technology : DFN6-2X3
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/linear-technology/DFN6-2X3/
 - Description: linear-technology : DFN6-2X3
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-linear-technology-DFN6-2X3](http://oom.lt/FOOTPRINT-eagle-eagle-default-linear-technology-DFN6-2X3)
 - Short Link: [http://oom.lt/FZELINEARTECHNOLOGYDFN62X3](http://oom.lt/FZELINEARTECHNOLOGYDFN62X3)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-74xGxx-74LVC1GU04DRL
 - Hex ID: SZK74XGXX74LVC1GU4DRL
 - Name: 74xGxx : 74LVC1GU04DRL
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/74xGxx/74LVC1GU04DRL/
 - Description: 74xGxx : 74LVC1GU04DRL
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-74xGxx-74LVC1GU04DRL](http://oom.lt/SYMBOL-kicad-kicad-symbols-74xGxx-74LVC1GU04DRL)
 - Short Link: [http://oom.lt/SZK74XGXX74LVC1GU4DRL](http://oom.lt/SZK74XGXX74LVC1GU4DRL)

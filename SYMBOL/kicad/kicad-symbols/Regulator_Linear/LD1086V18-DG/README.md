@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-LD1086V18-DG
 - Hex ID: SZKREGULATORLINEARLD186V18DG
 - Name: Regulator_Linear : LD1086V18-DG
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LD1086V18-DG/
 - Description: Regulator_Linear : LD1086V18-DG
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LD1086V18-DG](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LD1086V18-DG)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARLD186V18DG](http://oom.lt/SZKREGULATORLINEARLD186V18DG)

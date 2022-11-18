@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Memory_EEPROM-25LCxxx
 - Hex ID: SZKMEMORYEEPROM25LCXXX
 - Name: Memory_EEPROM : 25LCxxx
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Memory_EEPROM/25LCxxx/
 - Description: Memory_EEPROM : 25LCxxx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_EEPROM-25LCxxx](http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_EEPROM-25LCxxx)
 - Short Link: [http://oom.lt/SZKMEMORYEEPROM25LCXXX](http://oom.lt/SZKMEMORYEEPROM25LCXXX)

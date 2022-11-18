@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_01005_0402Metric
 - Hex ID: FZKCC1542VA
 - Name: Capacitor_SMD : C_01005_0402Metric
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Capacitor_SMD/C_01005_0402Metric/
 - Description: Capacitor_SMD : C_01005_0402Metric
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_01005_0402Metric](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_01005_0402Metric)
 - Short Link: [http://oom.lt/FZKCC1542VA](http://oom.lt/FZKCC1542VA)

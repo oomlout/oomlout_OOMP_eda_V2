@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-NJM2043
 - Hex ID: SZKAMPLIFIEROPERATIONALNJM243
 - Name: Amplifier_Operational : NJM2043
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/NJM2043/
 - Description: Amplifier_Operational : NJM2043
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-NJM2043](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-NJM2043)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALNJM243](http://oom.lt/SZKAMPLIFIEROPERATIONALNJM243)

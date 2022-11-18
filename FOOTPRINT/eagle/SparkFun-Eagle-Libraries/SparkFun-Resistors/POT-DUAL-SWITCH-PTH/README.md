@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Resistors-POT-DUAL-SWITCH-PTH
 - Hex ID: FZSRPOTDUALSWP
 - Name: SparkFun-Resistors : POT-DUAL-SWITCH-PTH
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Resistors/POT-DUAL-SWITCH-PTH/
 - Description: SparkFun-Resistors : POT-DUAL-SWITCH-PTH
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Resistors-POT-DUAL-SWITCH-PTH](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Resistors-POT-DUAL-SWITCH-PTH)
 - Short Link: [http://oom.lt/FZSRPOTDUALSWP](http://oom.lt/FZSRPOTDUALSWP)

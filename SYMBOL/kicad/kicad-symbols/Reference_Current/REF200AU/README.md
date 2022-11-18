@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Reference_Current-REF200AU
 - Hex ID: SZKREFERENCECURRENTREF2AU
 - Name: Reference_Current : REF200AU
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Reference_Current/REF200AU/
 - Description: Reference_Current : REF200AU
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Current-REF200AU](http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Current-REF200AU)
 - Short Link: [http://oom.lt/SZKREFERENCECURRENTREF2AU](http://oom.lt/SZKREFERENCECURRENTREF2AU)

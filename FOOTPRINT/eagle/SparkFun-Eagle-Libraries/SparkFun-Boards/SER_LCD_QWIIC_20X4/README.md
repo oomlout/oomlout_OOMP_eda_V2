@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Boards-SER_LCD_QWIIC_20X4
 - Hex ID: FZSBOSERLCDQWIIC2X4
 - Name: SparkFun-Boards : SER_LCD_QWIIC_20X4
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Boards/SER_LCD_QWIIC_20X4/
 - Description: SparkFun-Boards : SER_LCD_QWIIC_20X4
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Boards-SER_LCD_QWIIC_20X4](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Boards-SER_LCD_QWIIC_20X4)
 - Short Link: [http://oom.lt/FZSBOSERLCDQWIIC2X4](http://oom.lt/FZSBOSERLCDQWIIC2X4)

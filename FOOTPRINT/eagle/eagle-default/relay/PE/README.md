@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-relay-PE
 - Hex ID: FZERELAYPE
 - Name: relay : PE
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/relay/PE/
 - Description: relay : PE
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-PE](http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-PE)
 - Short Link: [http://oom.lt/FZERELAYPE](http://oom.lt/FZERELAYPE)

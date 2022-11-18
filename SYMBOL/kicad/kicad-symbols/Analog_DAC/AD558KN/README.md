@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Analog_DAC-AD558KN
 - Hex ID: SZKANALOGDACAD558KN
 - Name: Analog_DAC : AD558KN
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog_DAC/AD558KN/
 - Description: Analog_DAC : AD558KN
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_DAC-AD558KN](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_DAC-AD558KN)
 - Short Link: [http://oom.lt/SZKANALOGDACAD558KN](http://oom.lt/SZKANALOGDACAD558KN)

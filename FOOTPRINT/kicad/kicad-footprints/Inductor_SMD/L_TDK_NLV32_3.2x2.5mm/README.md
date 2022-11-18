@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_TDK_NLV32_3.2x2.5mm
 - Hex ID: FZKINLTDKNLV3232X25
 - Name: Inductor_SMD : L_TDK_NLV32_3.2x2.5mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_TDK_NLV32_3.2x2.5mm/
 - Description: Inductor_SMD : L_TDK_NLV32_3.2x2.5mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_TDK_NLV32_3.2x2.5mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_TDK_NLV32_3.2x2.5mm)
 - Short Link: [http://oom.lt/FZKINLTDKNLV3232X25](http://oom.lt/FZKINLTDKNLV3232X25)

@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKDFNQFN241EP4X4P5EP27X26THERMALVIAS > Package_DFN_QFN : QFN-24-1EP_4x4mm_P0.5mm_EP2.7x2.6mm_ThermalVias](#fzkdfnqfn241ep4x4p5ep27x26thermalvias--package_dfn_qfn--qfn-24-1ep_4x4mm_p05mm_ep27x26mm_thermalvias)
+* [FZKDFNQFN241EP4X4P5EP27X26THV > Package_DFN_QFN : QFN-24-1EP_4x4mm_P0.5mm_EP2.7x2.6mm_ThermalVias](#fzkdfnqfn241ep4x4p5ep27x26thv--package_dfn_qfn--qfn-24-1ep_4x4mm_p05mm_ep27x26mm_thermalvias)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKDFNQFN241EP4X4P5EP27X26THERMALVIAS > Package_DFN_QFN : QFN-24-1EP_4x4mm_P0.5mm_EP2.7x2.6mm_ThermalVias
+# FZKDFNQFN241EP4X4P5EP27X26THV > Package_DFN_QFN : QFN-24-1EP_4x4mm_P0.5mm_EP2.7x2.6mm_ThermalVias
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-QFN-24-1EP_4x4mm_P0.5mm_EP2.7x2.6mm_ThermalVias
-- Hex ID: FZKDFNQFN241EP4X4P5EP27X26THERMALVIAS
+- Hex ID: FZKDFNQFN241EP4X4P5EP27X26THV
 - Name: Package_DFN_QFN : QFN-24-1EP_4x4mm_P0.5mm_EP2.7x2.6mm_ThermalVias
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/QFN-24-1EP_4x4mm_P0.5mm_EP2.7x2.6mm_ThermalVias/
 - Description: Package_DFN_QFN : QFN-24-1EP_4x4mm_P0.5mm_EP2.7x2.6mm_ThermalVias
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-QFN-24-1EP_4x4mm_P0.5mm_EP2.7x2.6mm_ThermalVias](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-QFN-24-1EP_4x4mm_P0.5mm_EP2.7x2.6mm_ThermalVias)
-- Short Link: [http://oom.lt/FZKDFNQFN241EP4X4P5EP27X26THERMALVIAS](http://oom.lt/FZKDFNQFN241EP4X4P5EP27X26THERMALVIAS)
+- Short Link: [http://oom.lt/FZKDFNQFN241EP4X4P5EP27X26THV](http://oom.lt/FZKDFNQFN241EP4X4P5EP27X26THV)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Package_DFN_QFN|
 |OOMP Index|oompIndex|QFN-24-1EP_4x4mm_P0.5mm_EP2.7x2.6mm_ThermalVias|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-QFN-24-1EP_4x4mm_P0.5mm_EP2.7x2.6mm_ThermalVias|
-|Hex ID (short code)|hexID|FZKDFNQFN241EP4X4P5EP27X26THERMALVIAS|
+|Hex ID (short code)|hexID|FZKDFNQFN241EP4X4P5EP27X26THV|
 |name|name|Package_DFN_QFN : QFN-24-1EP_4x4mm_P0.5mm_EP2.7x2.6mm_ThermalVias|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'QFN-24-1EP_4x4mm_P0.5mm_EP2.7x2.6mm_ThermalVias'</td><td> 'description'</td></tr><tr><td> 'QFN</td><td> 24 Pin (https</td></tr><tr><td>//store.invensense.com/datasheets/invensense/MPU-6050_DataSheet_V3%204.pdf)</td><td> generated with kicad-footprint-generator ipc_noLead_generator.py'</td><td> 'tags'</td></tr><tr><td> 'QFN NoLead'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_DFN_QFN.3dshapes/QFN-24-1EP_4x4mm_P0.5mm_EP2.7x2.6mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||

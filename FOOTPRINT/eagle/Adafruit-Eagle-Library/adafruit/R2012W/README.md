@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-R2012W
 - Hex ID: FZAR212W
 - Name: adafruit : R2012W
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/R2012W/
 - Description: adafruit : R2012W
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-R2012W](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-R2012W)
 - Short Link: [http://oom.lt/FZAR212W](http://oom.lt/FZAR212W)

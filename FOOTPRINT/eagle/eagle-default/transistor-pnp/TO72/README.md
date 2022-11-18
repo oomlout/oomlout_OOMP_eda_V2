@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-transistor-pnp-TO72
 - Hex ID: FZETRANSISTORPNPTO72
 - Name: transistor-pnp : TO72
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/transistor-pnp/TO72/
 - Description: transistor-pnp : TO72
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-pnp-TO72](http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-pnp-TO72)
 - Short Link: [http://oom.lt/FZETRANSISTORPNPTO72](http://oom.lt/FZETRANSISTORPNPTO72)

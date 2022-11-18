@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-US2GA
 - Hex ID: SZKDIODEUS2GA
 - Name: Diode : US2GA
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/US2GA/
 - Description: Diode : US2GA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-US2GA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-US2GA)
 - Short Link: [http://oom.lt/SZKDIODEUS2GA](http://oom.lt/SZKDIODEUS2GA)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Analog_DAC-AD7225CRS
 - Hex ID: SZKANALOGDACAD7225CRS
 - Name: Analog_DAC : AD7225CRS
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog_DAC/AD7225CRS/
 - Description: Analog_DAC : AD7225CRS
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_DAC-AD7225CRS](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_DAC-AD7225CRS)
 - Short Link: [http://oom.lt/SZKANALOGDACAD7225CRS](http://oom.lt/SZKANALOGDACAD7225CRS)

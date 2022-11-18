@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F4-STM32F411RETx
 - Hex ID: SZKMCUSTSTM32F4STM32F411RETX
 - Name: MCU_ST_STM32F4 : STM32F411RETx
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32F4/STM32F411RETx/
 - Description: MCU_ST_STM32F4 : STM32F411RETx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F4-STM32F411RETx](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F4-STM32F411RETx)
 - Short Link: [http://oom.lt/SZKMCUSTSTM32F4STM32F411RETX](http://oom.lt/SZKMCUSTSTM32F4STM32F411RETX)

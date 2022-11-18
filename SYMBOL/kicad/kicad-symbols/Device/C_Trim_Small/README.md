@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Device-C_Trim_Small
 - Hex ID: SZKDEVICECTRIMSLL
 - Name: Device : C_Trim_Small
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/C_Trim_Small/
 - Description: Device : C_Trim_Small
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-C_Trim_Small](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-C_Trim_Small)
 - Short Link: [http://oom.lt/SZKDEVICECTRIMSLL](http://oom.lt/SZKDEVICECTRIMSLL)

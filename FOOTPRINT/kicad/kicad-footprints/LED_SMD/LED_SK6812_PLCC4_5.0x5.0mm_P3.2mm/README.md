@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm
 - Hex ID: FZKLLSK6812PLCC45X5P32
 - Name: LED_SMD : LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm/
 - Description: LED_SMD : LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm)
 - Short Link: [http://oom.lt/FZKLLSK6812PLCC45X5P32](http://oom.lt/FZKLLSK6812PLCC45X5P32)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-micro-harris-DIL24-6
 - Hex ID: FZEMHARRISDIL246
 - Name: micro-harris : DIL24-6
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/micro-harris/DIL24-6/
 - Description: micro-harris : DIL24-6
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-harris-DIL24-6](http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-harris-DIL24-6)
 - Short Link: [http://oom.lt/FZEMHARRISDIL246](http://oom.lt/FZEMHARRISDIL246)

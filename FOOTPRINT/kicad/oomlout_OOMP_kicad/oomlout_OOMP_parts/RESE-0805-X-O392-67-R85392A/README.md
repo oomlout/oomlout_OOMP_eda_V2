@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0805-X-O392-67-R85392A
 - Hex ID: FZOOMPKOOMPPRESE85XO39267R85392A
 - Name: oomlout_OOMP_parts : RESE-0805-X-O392-67-R85392A
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/RESE-0805-X-O392-67-R85392A/
 - Description: oomlout_OOMP_parts : RESE-0805-X-O392-67-R85392A
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0805-X-O392-67-R85392A](http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0805-X-O392-67-R85392A)
 - Short Link: [http://oom.lt/FZOOMPKOOMPPRESE85XO39267R85392A](http://oom.lt/FZOOMPKOOMPPRESE85XO39267R85392A)

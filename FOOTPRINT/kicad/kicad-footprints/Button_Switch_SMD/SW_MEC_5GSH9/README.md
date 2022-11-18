@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-SW_MEC_5GSH9
 - Hex ID: FZKBSWMEC5GSH9
 - Name: Button_Switch_SMD : SW_MEC_5GSH9
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Button_Switch_SMD/SW_MEC_5GSH9/
 - Description: Button_Switch_SMD : SW_MEC_5GSH9
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-SW_MEC_5GSH9](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-SW_MEC_5GSH9)
 - Short Link: [http://oom.lt/FZKBSWMEC5GSH9](http://oom.lt/FZKBSWMEC5GSH9)

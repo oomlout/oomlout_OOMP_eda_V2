@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-rectifier-GBU4S
 - Hex ID: FZERECTIFIERGBU4S
 - Name: rectifier : GBU4S
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/rectifier/GBU4S/
 - Description: rectifier : GBU4S
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-rectifier-GBU4S](http://oom.lt/FOOTPRINT-eagle-eagle-default-rectifier-GBU4S)
 - Short Link: [http://oom.lt/FZERECTIFIERGBU4S](http://oom.lt/FZERECTIFIERGBU4S)

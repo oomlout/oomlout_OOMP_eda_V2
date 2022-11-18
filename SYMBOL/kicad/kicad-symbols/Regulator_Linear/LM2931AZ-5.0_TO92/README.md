@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-LM2931AZ-5.0_TO92
 - Hex ID: SZKREGULATORLINEARLM2931AZ5TO92
 - Name: Regulator_Linear : LM2931AZ-5.0_TO92
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LM2931AZ-5.0_TO92/
 - Description: Regulator_Linear : LM2931AZ-5.0_TO92
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LM2931AZ-5.0_TO92](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LM2931AZ-5.0_TO92)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARLM2931AZ5TO92](http://oom.lt/SZKREGULATORLINEARLM2931AZ5TO92)

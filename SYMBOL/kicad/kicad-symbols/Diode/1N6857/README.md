@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-1N6857
 - Hex ID: SZKDIODE1N6857
 - Name: Diode : 1N6857
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/1N6857/
 - Description: Diode : 1N6857
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-1N6857](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-1N6857)
 - Short Link: [http://oom.lt/SZKDIODE1N6857](http://oom.lt/SZKDIODE1N6857)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_Dsub-DSUB-26-HD_Female_Vertical_P2.29x1.98mm_MountingHoles
 - Hex ID: FZKCNDSUBDSUB26HDFFP229X198HOLS
 - Name: Connector_Dsub : DSUB-26-HD_Female_Vertical_P2.29x1.98mm_MountingHoles
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Dsub/DSUB-26-HD_Female_Vertical_P2.29x1.98mm_MountingHoles/
 - Description: Connector_Dsub : DSUB-26-HD_Female_Vertical_P2.29x1.98mm_MountingHoles
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Dsub-DSUB-26-HD_Female_Vertical_P2.29x1.98mm_MountingHoles](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Dsub-DSUB-26-HD_Female_Vertical_P2.29x1.98mm_MountingHoles)
 - Short Link: [http://oom.lt/FZKCNDSUBDSUB26HDFFP229X198HOLS](http://oom.lt/FZKCNDSUBDSUB26HDFFP229X198HOLS)

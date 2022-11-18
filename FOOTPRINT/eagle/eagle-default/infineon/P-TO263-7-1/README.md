@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-infineon-P-TO263-7-1
 - Hex ID: FZEINFINEONPTO26371
 - Name: infineon : P-TO263-7-1
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/infineon/P-TO263-7-1/
 - Description: infineon : P-TO263-7-1
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-infineon-P-TO263-7-1](http://oom.lt/FOOTPRINT-eagle-eagle-default-infineon-P-TO263-7-1)
 - Short Link: [http://oom.lt/FZEINFINEONPTO26371](http://oom.lt/FZEINFINEONPTO26371)

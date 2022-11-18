@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-PC_TEST_POINT_SMD
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSPCTESTPOINTSM
 - Name: digikey-footprints : PC_TEST_POINT_SMD
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/PC_TEST_POINT_SMD/
 - Description: digikey-footprints : PC_TEST_POINT_SMD
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-PC_TEST_POINT_SMD](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-PC_TEST_POINT_SMD)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSPCTESTPOINTSM](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSPCTESTPOINTSM)

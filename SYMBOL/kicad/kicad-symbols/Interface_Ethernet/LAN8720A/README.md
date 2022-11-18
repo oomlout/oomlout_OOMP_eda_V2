@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_Ethernet-LAN8720A
 - Hex ID: SZKINTERFACEETHERNETLAN872A
 - Name: Interface_Ethernet : LAN8720A
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_Ethernet/LAN8720A/
 - Description: Interface_Ethernet : LAN8720A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Ethernet-LAN8720A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Ethernet-LAN8720A)
 - Short Link: [http://oom.lt/SZKINTERFACEETHERNETLAN872A](http://oom.lt/SZKINTERFACEETHERNETLAN872A)

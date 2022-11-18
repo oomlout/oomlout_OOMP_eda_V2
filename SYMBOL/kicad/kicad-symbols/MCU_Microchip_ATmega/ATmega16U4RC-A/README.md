@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega16U4RC-A
 - Hex ID: SZKMCUMCHIPATMEGAATMEGA16U4RCA
 - Name: MCU_Microchip_ATmega : ATmega16U4RC-A
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_ATmega/ATmega16U4RC-A/
 - Description: MCU_Microchip_ATmega : ATmega16U4RC-A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega16U4RC-A](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega16U4RC-A)
 - Short Link: [http://oom.lt/SZKMCUMCHIPATMEGAATMEGA16U4RCA](http://oom.lt/SZKMCUMCHIPATMEGAATMEGA16U4RCA)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Cellular_Modem_NL-SW-LTE-TSVG
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSCELLULARMODEMNLSWLTETSVG
 - Name: digikey-footprints : Cellular_Modem_NL-SW-LTE-TSVG
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Cellular_Modem_NL-SW-LTE-TSVG/
 - Description: digikey-footprints : Cellular_Modem_NL-SW-LTE-TSVG
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Cellular_Modem_NL-SW-LTE-TSVG](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Cellular_Modem_NL-SW-LTE-TSVG)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSCELLULARMODEMNLSWLTETSVG](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSCELLULARMODEMNLSWLTETSVG)

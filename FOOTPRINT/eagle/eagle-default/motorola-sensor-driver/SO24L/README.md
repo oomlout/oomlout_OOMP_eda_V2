@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-motorola-sensor-driver-SO24L
 - Hex ID: FZEMOTOROLASENDRIVERSO24L
 - Name: motorola-sensor-driver : SO24L
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/motorola-sensor-driver/SO24L/
 - Description: motorola-sensor-driver : SO24L
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-motorola-sensor-driver-SO24L](http://oom.lt/FOOTPRINT-eagle-eagle-default-motorola-sensor-driver-SO24L)
 - Short Link: [http://oom.lt/FZEMOTOROLASENDRIVERSO24L](http://oom.lt/FZEMOTOROLASENDRIVERSO24L)

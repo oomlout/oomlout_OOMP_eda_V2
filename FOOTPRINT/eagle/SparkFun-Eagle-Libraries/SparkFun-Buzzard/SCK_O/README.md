@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Buzzard-SCK_O
 - Hex ID: FZSBUSCKO
 - Name: SparkFun-Buzzard : SCK_O
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Buzzard/SCK_O/
 - Description: SparkFun-Buzzard : SCK_O
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Buzzard-SCK_O](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Buzzard-SCK_O)
 - Short Link: [http://oom.lt/FZSBUSCKO](http://oom.lt/FZSBUSCKO)

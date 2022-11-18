@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_Mini-B_Tensility_54-00023_Vertical
 - Hex ID: FZKCNUUMBTENSILITY5423F
 - Name: Connector_USB : USB_Mini-B_Tensility_54-00023_Vertical
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB_Mini-B_Tensility_54-00023_Vertical/
 - Description: Connector_USB : USB_Mini-B_Tensility_54-00023_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_Mini-B_Tensility_54-00023_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_Mini-B_Tensility_54-00023_Vertical)
 - Short Link: [http://oom.lt/FZKCNUUMBTENSILITY5423F](http://oom.lt/FZKCNUUMBTENSILITY5423F)

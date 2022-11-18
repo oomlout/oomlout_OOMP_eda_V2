@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-smd-ipc-SOD123
 - Hex ID: FZESMIPCSOD123
 - Name: smd-ipc : SOD123
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/smd-ipc/SOD123/
 - Description: smd-ipc : SOD123
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-SOD123](http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-SOD123)
 - Short Link: [http://oom.lt/FZESMIPCSOD123](http://oom.lt/FZESMIPCSOD123)

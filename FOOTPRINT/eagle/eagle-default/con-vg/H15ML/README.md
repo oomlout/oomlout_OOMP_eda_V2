@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-vg-H15ML
 - Hex ID: FZECONVGH15ML
 - Name: con-vg : H15ML
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-vg/H15ML/
 - Description: con-vg : H15ML
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-vg-H15ML](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-vg-H15ML)
 - Short Link: [http://oom.lt/FZECONVGH15ML](http://oom.lt/FZECONVGH15ML)

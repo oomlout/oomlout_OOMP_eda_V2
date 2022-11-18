@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-NCP662SQ50
 - Hex ID: SZKREGULATORLINEARNCP662SQ5
 - Name: Regulator_Linear : NCP662SQ50
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/NCP662SQ50/
 - Description: Regulator_Linear : NCP662SQ50
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-NCP662SQ50](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-NCP662SQ50)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARNCP662SQ5](http://oom.lt/SZKREGULATORLINEARNCP662SQ5)

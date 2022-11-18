@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Mechanical-Heatsink
 - Hex ID: SZKMECHANICALH
 - Name: Mechanical : Heatsink
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Mechanical/Heatsink/
 - Description: Mechanical : Heatsink
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Mechanical-Heatsink](http://oom.lt/SYMBOL-kicad-kicad-symbols-Mechanical-Heatsink)
 - Short Link: [http://oom.lt/SZKMECHANICALH](http://oom.lt/SZKMECHANICALH)

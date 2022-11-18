@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-RF_ISM_Module_MRF89XAM9A
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSRFISMMOMRF89XAM9A
 - Name: digikey-footprints : RF_ISM_Module_MRF89XAM9A
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/RF_ISM_Module_MRF89XAM9A/
 - Description: digikey-footprints : RF_ISM_Module_MRF89XAM9A
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-RF_ISM_Module_MRF89XAM9A](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-RF_ISM_Module_MRF89XAM9A)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSRFISMMOMRF89XAM9A](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSRFISMMOMRF89XAM9A)

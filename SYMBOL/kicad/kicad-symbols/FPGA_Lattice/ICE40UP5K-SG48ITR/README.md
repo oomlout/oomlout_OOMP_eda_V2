@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-FPGA_Lattice-ICE40UP5K-SG48ITR
 - Hex ID: SZKFPGALATTICEICE4UP5KSG48ITR
 - Name: FPGA_Lattice : ICE40UP5K-SG48ITR
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/FPGA_Lattice/ICE40UP5K-SG48ITR/
 - Description: FPGA_Lattice : ICE40UP5K-SG48ITR
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-FPGA_Lattice-ICE40UP5K-SG48ITR](http://oom.lt/SYMBOL-kicad-kicad-symbols-FPGA_Lattice-ICE40UP5K-SG48ITR)
 - Short Link: [http://oom.lt/SZKFPGALATTICEICE4UP5KSG48ITR](http://oom.lt/SZKFPGALATTICEICE4UP5KSG48ITR)

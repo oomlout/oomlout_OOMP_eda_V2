@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-heatsink-D03PA
 - Hex ID: FZEHD3PA
 - Name: heatsink : D03PA
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/heatsink/D03PA/
 - Description: heatsink : D03PA
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-heatsink-D03PA](http://oom.lt/FOOTPRINT-eagle-eagle-default-heatsink-D03PA)
 - Short Link: [http://oom.lt/FZEHD3PA](http://oom.lt/FZEHD3PA)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_THT_Wurth-L_Wurth_WE-HCFT-3540_LeadDiameter2.0mm
 - Hex ID: FZKINWURTHLWURTHWEHCFT354LEADDIAMETER2
 - Name: Inductor_THT_Wurth : L_Wurth_WE-HCFT-3540_LeadDiameter2.0mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_THT_Wurth/L_Wurth_WE-HCFT-3540_LeadDiameter2.0mm/
 - Description: Inductor_THT_Wurth : L_Wurth_WE-HCFT-3540_LeadDiameter2.0mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_THT_Wurth-L_Wurth_WE-HCFT-3540_LeadDiameter2.0mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_THT_Wurth-L_Wurth_WE-HCFT-3540_LeadDiameter2.0mm)
 - Short Link: [http://oom.lt/FZKINWURTHLWURTHWEHCFT354LEADDIAMETER2](http://oom.lt/FZKINWURTHLWURTHWEHCFT354LEADDIAMETER2)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-power--5VA
 - Hex ID: SZKPOWER5VA
 - Name: power : -5VA
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/power/-5VA/
 - Description: power : -5VA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-power--5VA](http://oom.lt/SYMBOL-kicad-kicad-symbols-power--5VA)
 - Short Link: [http://oom.lt/SZKPOWER5VA](http://oom.lt/SZKPOWER5VA)

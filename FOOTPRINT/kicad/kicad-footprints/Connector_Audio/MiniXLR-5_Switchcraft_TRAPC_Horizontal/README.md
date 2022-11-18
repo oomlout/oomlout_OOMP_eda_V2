@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_Audio-MiniXLR-5_Switchcraft_TRAPC_Horizontal
 - Hex ID: FZKCNAUDIOMXLR5SWCRAFTTRAPCH
 - Name: Connector_Audio : MiniXLR-5_Switchcraft_TRAPC_Horizontal
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Audio/MiniXLR-5_Switchcraft_TRAPC_Horizontal/
 - Description: Connector_Audio : MiniXLR-5_Switchcraft_TRAPC_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Audio-MiniXLR-5_Switchcraft_TRAPC_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Audio-MiniXLR-5_Switchcraft_TRAPC_Horizontal)
 - Short Link: [http://oom.lt/FZKCNAUDIOMXLR5SWCRAFTTRAPCH](http://oom.lt/FZKCNAUDIOMXLR5SWCRAFTTRAPCH)

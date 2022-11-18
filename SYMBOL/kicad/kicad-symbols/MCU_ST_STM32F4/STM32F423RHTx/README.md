@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F4-STM32F423RHTx
 - Hex ID: SZKMCUSTSTM32F4STM32F423RHTX
 - Name: MCU_ST_STM32F4 : STM32F423RHTx
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32F4/STM32F423RHTx/
 - Description: MCU_ST_STM32F4 : STM32F423RHTx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F4-STM32F423RHTx](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F4-STM32F423RHTx)
 - Short Link: [http://oom.lt/SZKMCUSTSTM32F4STM32F423RHTX](http://oom.lt/SZKMCUSTSTM32F4STM32F423RHTX)

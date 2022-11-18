@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-micro-philips-LFBGA96
 - Hex ID: FZEMPHILIPSLFBGA96
 - Name: micro-philips : LFBGA96
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/micro-philips/LFBGA96/
 - Description: micro-philips : LFBGA96
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-philips-LFBGA96](http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-philips-LFBGA96)
 - Short Link: [http://oom.lt/FZEMPHILIPSLFBGA96](http://oom.lt/FZEMPHILIPSLFBGA96)

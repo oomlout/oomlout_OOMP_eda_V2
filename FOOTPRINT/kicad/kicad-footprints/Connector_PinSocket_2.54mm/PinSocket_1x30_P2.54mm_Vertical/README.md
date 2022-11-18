@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKCNPINSO254PINSO1X3P254F > Connector_PinSocket_2.54mm : PinSocket_1x30_P2.54mm_Vertical](#fzkcnpinso254pinso1x3p254f--connector_pinsocket_254mm--pinsocket_1x30_p254mm_vertical)
+* [FZKCNPSO254PSO1X3P254F > Connector_PinSocket_2.54mm : PinSocket_1x30_P2.54mm_Vertical](#fzkcnpso254pso1x3p254f--connector_pinsocket_254mm--pinsocket_1x30_p254mm_vertical)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKCNPINSO254PINSO1X3P254F > Connector_PinSocket_2.54mm : PinSocket_1x30_P2.54mm_Vertical
+# FZKCNPSO254PSO1X3P254F > Connector_PinSocket_2.54mm : PinSocket_1x30_P2.54mm_Vertical
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_PinSocket_2.54mm-PinSocket_1x30_P2.54mm_Vertical
-- Hex ID: FZKCNPINSO254PINSO1X3P254F
+- Hex ID: FZKCNPSO254PSO1X3P254F
 - Name: Connector_PinSocket_2.54mm : PinSocket_1x30_P2.54mm_Vertical
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_PinSocket_2.54mm/PinSocket_1x30_P2.54mm_Vertical/
 - Description: Connector_PinSocket_2.54mm : PinSocket_1x30_P2.54mm_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_PinSocket_2.54mm-PinSocket_1x30_P2.54mm_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_PinSocket_2.54mm-PinSocket_1x30_P2.54mm_Vertical)
-- Short Link: [http://oom.lt/FZKCNPINSO254PINSO1X3P254F](http://oom.lt/FZKCNPINSO254PINSO1X3P254F)
+- Short Link: [http://oom.lt/FZKCNPSO254PSO1X3P254F](http://oom.lt/FZKCNPSO254PSO1X3P254F)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Connector_PinSocket_2.54mm|
 |OOMP Index|oompIndex|PinSocket_1x30_P2.54mm_Vertical|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_PinSocket_2.54mm-PinSocket_1x30_P2.54mm_Vertical|
-|Hex ID (short code)|hexID|FZKCNPINSO254PINSO1X3P254F|
+|Hex ID (short code)|hexID|FZKCNPSO254PSO1X3P254F|
 |name|name|Connector_PinSocket_2.54mm : PinSocket_1x30_P2.54mm_Vertical|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'PinSocket_1x30_P2.54mm_Vertical'</td><td> 'description'</td></tr><tr><td> 'Through hole straight socket strip</td><td> 1x30</td><td> 2.54mm pitch</td><td> single row (from Kicad 4.0.7)</td><td> script generated'</td><td> 'tags'</td></tr><tr><td> 'Through hole socket strip THT 1x30 2.54mm single row'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_PinSocket_2.54mm.3dshapes/PinSocket_1x30_P2.54mm_Vertical.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

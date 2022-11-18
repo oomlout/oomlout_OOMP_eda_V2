@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-BTM182
 - Hex ID: FZSRFBTM182
 - Name: SparkFun-RF : BTM182
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-RF/BTM182/
 - Description: SparkFun-RF : BTM182
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-BTM182](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-BTM182)
 - Short Link: [http://oom.lt/FZSRFBTM182](http://oom.lt/FZSRFBTM182)

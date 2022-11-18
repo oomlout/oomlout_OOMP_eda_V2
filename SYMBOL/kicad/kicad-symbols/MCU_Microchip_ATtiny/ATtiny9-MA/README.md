@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny9-MA
 - Hex ID: SZKMCUMCHIPATTINYATTINY9MA
 - Name: MCU_Microchip_ATtiny : ATtiny9-MA
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_ATtiny/ATtiny9-MA/
 - Description: MCU_Microchip_ATtiny : ATtiny9-MA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny9-MA](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny9-MA)
 - Short Link: [http://oom.lt/SZKMCUMCHIPATTINYATTINY9MA](http://oom.lt/SZKMCUMCHIPATTINYATTINY9MA)

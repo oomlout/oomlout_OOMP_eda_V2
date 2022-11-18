@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-PROPPLUG
 - Hex ID: FZAPROPPLUG
 - Name: adafruit : PROPPLUG
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/PROPPLUG/
 - Description: adafruit : PROPPLUG
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-PROPPLUG](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-PROPPLUG)
 - Short Link: [http://oom.lt/FZAPROPPLUG](http://oom.lt/FZAPROPPLUG)

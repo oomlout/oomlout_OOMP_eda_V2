@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-PMEG4020ER
 - Hex ID: SZKDIODEPMEG42ER
 - Name: Diode : PMEG4020ER
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/PMEG4020ER/
 - Description: Diode : PMEG4020ER
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-PMEG4020ER](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-PMEG4020ER)
 - Short Link: [http://oom.lt/SZKDIODEPMEG42ER](http://oom.lt/SZKDIODEPMEG42ER)

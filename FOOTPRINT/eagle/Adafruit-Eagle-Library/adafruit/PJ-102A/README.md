@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-PJ-102A
 - Hex ID: FZAPJ12A
 - Name: adafruit : PJ-102A
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/PJ-102A/
 - Description: adafruit : PJ-102A
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-PJ-102A](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-PJ-102A)
 - Short Link: [http://oom.lt/FZAPJ12A](http://oom.lt/FZAPJ12A)

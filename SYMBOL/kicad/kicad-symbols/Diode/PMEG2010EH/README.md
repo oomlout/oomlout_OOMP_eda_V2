@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-PMEG2010EH
 - Hex ID: SZKDIODEPMEG21EH
 - Name: Diode : PMEG2010EH
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/PMEG2010EH/
 - Description: Diode : PMEG2010EH
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-PMEG2010EH](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-PMEG2010EH)
 - Short Link: [http://oom.lt/SZKDIODEPMEG21EH](http://oom.lt/SZKDIODEPMEG21EH)

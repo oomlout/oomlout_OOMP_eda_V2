@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-CPLD_Altera-EP310
 - Hex ID: SZKCPLDALTERAEP31
 - Name: CPLD_Altera : EP310
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/CPLD_Altera/EP310/
 - Description: CPLD_Altera : EP310
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-CPLD_Altera-EP310](http://oom.lt/SYMBOL-kicad-kicad-symbols-CPLD_Altera-EP310)
 - Short Link: [http://oom.lt/SZKCPLDALTERAEP31](http://oom.lt/SZKCPLDALTERAEP31)

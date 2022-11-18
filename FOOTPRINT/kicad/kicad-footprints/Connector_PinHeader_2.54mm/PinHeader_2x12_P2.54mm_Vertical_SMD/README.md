@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKCNPINHEADER254PINHEADER2X12P254FSM > Connector_PinHeader_2.54mm : PinHeader_2x12_P2.54mm_Vertical_SMD](#fzkcnpinheader254pinheader2x12p254fsm--connector_pinheader_254mm--pinheader_2x12_p254mm_vertical_smd)
+* [FZKCNPH254PH2X12P254FSM > Connector_PinHeader_2.54mm : PinHeader_2x12_P2.54mm_Vertical_SMD](#fzkcnph254ph2x12p254fsm--connector_pinheader_254mm--pinheader_2x12_p254mm_vertical_smd)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKCNPINHEADER254PINHEADER2X12P254FSM > Connector_PinHeader_2.54mm : PinHeader_2x12_P2.54mm_Vertical_SMD
+# FZKCNPH254PH2X12P254FSM > Connector_PinHeader_2.54mm : PinHeader_2x12_P2.54mm_Vertical_SMD
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_PinHeader_2.54mm-PinHeader_2x12_P2.54mm_Vertical_SMD
-- Hex ID: FZKCNPINHEADER254PINHEADER2X12P254FSM
+- Hex ID: FZKCNPH254PH2X12P254FSM
 - Name: Connector_PinHeader_2.54mm : PinHeader_2x12_P2.54mm_Vertical_SMD
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_PinHeader_2.54mm/PinHeader_2x12_P2.54mm_Vertical_SMD/
 - Description: Connector_PinHeader_2.54mm : PinHeader_2x12_P2.54mm_Vertical_SMD
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_PinHeader_2.54mm-PinHeader_2x12_P2.54mm_Vertical_SMD](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_PinHeader_2.54mm-PinHeader_2x12_P2.54mm_Vertical_SMD)
-- Short Link: [http://oom.lt/FZKCNPINHEADER254PINHEADER2X12P254FSM](http://oom.lt/FZKCNPINHEADER254PINHEADER2X12P254FSM)
+- Short Link: [http://oom.lt/FZKCNPH254PH2X12P254FSM](http://oom.lt/FZKCNPH254PH2X12P254FSM)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Connector_PinHeader_2.54mm|
 |OOMP Index|oompIndex|PinHeader_2x12_P2.54mm_Vertical_SMD|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_PinHeader_2.54mm-PinHeader_2x12_P2.54mm_Vertical_SMD|
-|Hex ID (short code)|hexID|FZKCNPINHEADER254PINHEADER2X12P254FSM|
+|Hex ID (short code)|hexID|FZKCNPH254PH2X12P254FSM|
 |name|name|Connector_PinHeader_2.54mm : PinHeader_2x12_P2.54mm_Vertical_SMD|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'PinHeader_2x12_P2.54mm_Vertical_SMD'</td><td> 'description'</td></tr><tr><td> 'surface-mounted straight pin header</td><td> 2x12</td><td> 2.54mm pitch</td><td> double rows'</td><td> 'tags'</td></tr><tr><td> 'Surface mounted pin header SMD 2x12 2.54mm double row'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_PinHeader_2.54mm.3dshapes/PinHeader_2x12_P2.54mm_Vertical_SMD.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

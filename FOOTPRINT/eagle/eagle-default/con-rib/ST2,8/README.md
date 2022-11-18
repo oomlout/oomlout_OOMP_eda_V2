@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-con-rib-ST2,8
 - Hex ID: FZECONRIBST28
 - Name: con-rib : ST2,8
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-rib/ST2,8/
 - Description: con-rib : ST2,8
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-rib-ST2,8](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-rib-ST2,8)
 - Short Link: [http://oom.lt/FZECONRIBST28](http://oom.lt/FZECONRIBST28)

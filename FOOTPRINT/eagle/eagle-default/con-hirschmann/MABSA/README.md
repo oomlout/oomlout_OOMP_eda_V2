@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-hirschmann-MABSA
 - Hex ID: FZECONHIRSCHMANNMABSA
 - Name: con-hirschmann : MABSA
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-hirschmann/MABSA/
 - Description: con-hirschmann : MABSA
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-hirschmann-MABSA](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-hirschmann-MABSA)
 - Short Link: [http://oom.lt/FZECONHIRSCHMANNMABSA](http://oom.lt/FZECONHIRSCHMANNMABSA)

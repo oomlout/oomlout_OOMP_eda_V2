@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Jumper_Tin_P5.38mm
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSJTINP538
 - Name: digikey-footprints : Jumper_Tin_P5.38mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Jumper_Tin_P5.38mm/
 - Description: digikey-footprints : Jumper_Tin_P5.38mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Jumper_Tin_P5.38mm](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Jumper_Tin_P5.38mm)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSJTINP538](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSJTINP538)

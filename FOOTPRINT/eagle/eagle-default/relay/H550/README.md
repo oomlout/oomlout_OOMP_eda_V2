@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-relay-H550
 - Hex ID: FZERELAYH55
 - Name: relay : H550
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/relay/H550/
 - Description: relay : H550
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-H550](http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-H550)
 - Short Link: [http://oom.lt/FZERELAYH55](http://oom.lt/FZERELAYH55)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-xilinx-xcv-BG560
 - Hex ID: FZEXILINXXCVBG56
 - Name: xilinx-xcv : BG560
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/xilinx-xcv/BG560/
 - Description: xilinx-xcv : BG560
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-xilinx-xcv-BG560](http://oom.lt/FOOTPRINT-eagle-eagle-default-xilinx-xcv-BG560)
 - Short Link: [http://oom.lt/FZEXILINXXCVBG56](http://oom.lt/FZEXILINXXCVBG56)

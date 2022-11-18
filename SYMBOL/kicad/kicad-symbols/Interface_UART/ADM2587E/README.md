@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_UART-ADM2587E
 - Hex ID: SZKINTERFACEUARTADM2587E
 - Name: Interface_UART : ADM2587E
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_UART/ADM2587E/
 - Description: Interface_UART : ADM2587E
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_UART-ADM2587E](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_UART-ADM2587E)
 - Short Link: [http://oom.lt/SZKINTERFACEUARTADM2587E](http://oom.lt/SZKINTERFACEUARTADM2587E)

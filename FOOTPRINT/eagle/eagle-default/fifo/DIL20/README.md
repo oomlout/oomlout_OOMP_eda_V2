@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-fifo-DIL20
 - Hex ID: FZEFIFODIL2
 - Name: fifo : DIL20
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/fifo/DIL20/
 - Description: fifo : DIL20
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-fifo-DIL20](http://oom.lt/FOOTPRINT-eagle-eagle-default-fifo-DIL20)
 - Short Link: [http://oom.lt/FZEFIFODIL2](http://oom.lt/FZEFIFODIL2)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Analog-MPY634KP
 - Hex ID: SZKANALOGMPY634KP
 - Name: Analog : MPY634KP
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog/MPY634KP/
 - Description: Analog : MPY634KP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog-MPY634KP](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog-MPY634KP)
 - Short Link: [http://oom.lt/SZKANALOGMPY634KP](http://oom.lt/SZKANALOGMPY634KP)

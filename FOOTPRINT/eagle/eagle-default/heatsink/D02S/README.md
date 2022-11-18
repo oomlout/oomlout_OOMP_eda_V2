@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-heatsink-D02S
 - Hex ID: FZEHD2S
 - Name: heatsink : D02S
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/heatsink/D02S/
 - Description: heatsink : D02S
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-heatsink-D02S](http://oom.lt/FOOTPRINT-eagle-eagle-default-heatsink-D02S)
 - Short Link: [http://oom.lt/FZEHD2S](http://oom.lt/FZEHD2S)

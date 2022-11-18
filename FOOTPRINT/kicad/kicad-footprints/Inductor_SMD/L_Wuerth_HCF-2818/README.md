@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Wuerth_HCF-2818
 - Hex ID: FZKINLWUERTHHCF2818
 - Name: Inductor_SMD : L_Wuerth_HCF-2818
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Wuerth_HCF-2818/
 - Description: Inductor_SMD : L_Wuerth_HCF-2818
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Wuerth_HCF-2818](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Wuerth_HCF-2818)
 - Short Link: [http://oom.lt/FZKINLWUERTHHCF2818](http://oom.lt/FZKINLWUERTHHCF2818)

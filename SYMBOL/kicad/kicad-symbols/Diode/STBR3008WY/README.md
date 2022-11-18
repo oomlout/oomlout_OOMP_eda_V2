@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-STBR3008WY
 - Hex ID: SZKDIODESTBR38WY
 - Name: Diode : STBR3008WY
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/STBR3008WY/
 - Description: Diode : STBR3008WY
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-STBR3008WY](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-STBR3008WY)
 - Short Link: [http://oom.lt/SZKDIODESTBR38WY](http://oom.lt/SZKDIODESTBR38WY)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-LM2937xMP
 - Hex ID: SZKREGULATORLINEARLM2937XMP
 - Name: Regulator_Linear : LM2937xMP
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LM2937xMP/
 - Description: Regulator_Linear : LM2937xMP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LM2937xMP](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LM2937xMP)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARLM2937XMP](http://oom.lt/SZKREGULATORLINEARLM2937XMP)

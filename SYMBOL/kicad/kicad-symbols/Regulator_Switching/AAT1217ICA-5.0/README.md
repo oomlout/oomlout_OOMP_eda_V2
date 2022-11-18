@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-AAT1217ICA-5.0
 - Hex ID: SZKREGULATORSWINGAAT1217ICA5
 - Name: Regulator_Switching : AAT1217ICA-5.0
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/AAT1217ICA-5.0/
 - Description: Regulator_Switching : AAT1217ICA-5.0
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-AAT1217ICA-5.0](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-AAT1217ICA-5.0)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGAAT1217ICA5](http://oom.lt/SZKREGULATORSWINGAAT1217ICA5)

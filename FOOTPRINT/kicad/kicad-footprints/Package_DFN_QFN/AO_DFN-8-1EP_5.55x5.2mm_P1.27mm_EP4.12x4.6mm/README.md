@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-AO_DFN-8-1EP_5.55x5.2mm_P1.27mm_EP4.12x4.6mm
 - Hex ID: FZKDFNAODFN81EP555X52P127EP412X46
 - Name: Package_DFN_QFN : AO_DFN-8-1EP_5.55x5.2mm_P1.27mm_EP4.12x4.6mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/AO_DFN-8-1EP_5.55x5.2mm_P1.27mm_EP4.12x4.6mm/
 - Description: Package_DFN_QFN : AO_DFN-8-1EP_5.55x5.2mm_P1.27mm_EP4.12x4.6mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-AO_DFN-8-1EP_5.55x5.2mm_P1.27mm_EP4.12x4.6mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-AO_DFN-8-1EP_5.55x5.2mm_P1.27mm_EP4.12x4.6mm)
 - Short Link: [http://oom.lt/FZKDFNAODFN81EP555X52P127EP412X46](http://oom.lt/FZKDFNAODFN81EP555X52P127EP412X46)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-L7905
 - Hex ID: SZKREGULATORLINEARL795
 - Name: Regulator_Linear : L7905
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/L7905/
 - Description: Regulator_Linear : L7905
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-L7905](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-L7905)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARL795](http://oom.lt/SZKREGULATORLINEARL795)

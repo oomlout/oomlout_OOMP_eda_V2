@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-86SMX
 - Hex ID: FZA86SMX
 - Name: adafruit : 86SMX
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/86SMX/
 - Description: adafruit : 86SMX
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-86SMX](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-86SMX)
 - Short Link: [http://oom.lt/FZA86SMX](http://oom.lt/FZA86SMX)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-switch-misc-TME1
 - Hex ID: FZESWMISCTME1
 - Name: switch-misc : TME1
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/switch-misc/TME1/
 - Description: switch-misc : TME1
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-misc-TME1](http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-misc-TME1)
 - Short Link: [http://oom.lt/FZESWMISCTME1](http://oom.lt/FZESWMISCTME1)

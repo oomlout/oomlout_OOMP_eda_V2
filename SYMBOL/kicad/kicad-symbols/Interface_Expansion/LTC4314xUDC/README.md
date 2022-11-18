@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_Expansion-LTC4314xUDC
 - Hex ID: SZKINTERFACEEXPANSIONLTC4314XUDC
 - Name: Interface_Expansion : LTC4314xUDC
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_Expansion/LTC4314xUDC/
 - Description: Interface_Expansion : LTC4314xUDC
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Expansion-LTC4314xUDC](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Expansion-LTC4314xUDC)
 - Short Link: [http://oom.lt/SZKINTERFACEEXPANSIONLTC4314XUDC](http://oom.lt/SZKINTERFACEEXPANSIONLTC4314XUDC)

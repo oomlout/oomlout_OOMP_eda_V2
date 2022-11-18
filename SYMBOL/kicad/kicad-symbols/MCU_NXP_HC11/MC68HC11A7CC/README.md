@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_NXP_HC11-MC68HC11A7CC
 - Hex ID: SZKMCUNXPHC11MC68HC11A7CC
 - Name: MCU_NXP_HC11 : MC68HC11A7CC
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_NXP_HC11/MC68HC11A7CC/
 - Description: MCU_NXP_HC11 : MC68HC11A7CC
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_NXP_HC11-MC68HC11A7CC](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_NXP_HC11-MC68HC11A7CC)
 - Short Link: [http://oom.lt/SZKMCUNXPHC11MC68HC11A7CC](http://oom.lt/SZKMCUNXPHC11MC68HC11A7CC)

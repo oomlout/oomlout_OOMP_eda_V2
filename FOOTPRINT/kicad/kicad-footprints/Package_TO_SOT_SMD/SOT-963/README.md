@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-963
 - Hex ID: FZKSOTSOT963
 - Name: Package_TO_SOT_SMD : SOT-963
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/SOT-963/
 - Description: Package_TO_SOT_SMD : SOT-963
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-963](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-963)
 - Short Link: [http://oom.lt/FZKSOTSOT963](http://oom.lt/FZKSOTSOT963)

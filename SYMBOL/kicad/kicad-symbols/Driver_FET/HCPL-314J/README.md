@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Driver_FET-HCPL-314J
 - Hex ID: SZKDRIVERFETHCPL314J
 - Name: Driver_FET : HCPL-314J
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Driver_FET/HCPL-314J/
 - Description: Driver_FET : HCPL-314J
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-HCPL-314J](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-HCPL-314J)
 - Short Link: [http://oom.lt/SZKDRIVERFETHCPL314J](http://oom.lt/SZKDRIVERFETHCPL314J)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-micro-mc68000-PLCC68
 - Hex ID: FZEMMC68PLCC68
 - Name: micro-mc68000 : PLCC68
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/micro-mc68000/PLCC68/
 - Description: micro-mc68000 : PLCC68
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-mc68000-PLCC68](http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-mc68000-PLCC68)
 - Short Link: [http://oom.lt/FZEMMC68PLCC68](http://oom.lt/FZEMMC68PLCC68)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-weidmueller-sl35-90F-21
 - Hex ID: FZECONWEIDMUELLERSL359F21
 - Name: con-weidmueller-sl35 : 90F-21
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-weidmueller-sl35/90F-21/
 - Description: con-weidmueller-sl35 : 90F-21
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-weidmueller-sl35-90F-21](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-weidmueller-sl35-90F-21)
 - Short Link: [http://oom.lt/FZECONWEIDMUELLERSL359F21](http://oom.lt/FZECONWEIDMUELLERSL359F21)

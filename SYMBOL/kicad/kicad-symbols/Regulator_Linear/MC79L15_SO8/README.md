@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-MC79L15_SO8
 - Hex ID: SZKREGULATORLINEARMC79L15SO8
 - Name: Regulator_Linear : MC79L15_SO8
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/MC79L15_SO8/
 - Description: Regulator_Linear : MC79L15_SO8
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-MC79L15_SO8](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-MC79L15_SO8)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARMC79L15SO8](http://oom.lt/SZKREGULATORLINEARMC79L15SO8)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Oscillator-SG-8002LB
 - Hex ID: SZKOCSSG82LB
 - Name: Oscillator : SG-8002LB
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Oscillator/SG-8002LB/
 - Description: Oscillator : SG-8002LB
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Oscillator-SG-8002LB](http://oom.lt/SYMBOL-kicad-kicad-symbols-Oscillator-SG-8002LB)
 - Short Link: [http://oom.lt/SZKOCSSG82LB](http://oom.lt/SZKOCSSG82LB)

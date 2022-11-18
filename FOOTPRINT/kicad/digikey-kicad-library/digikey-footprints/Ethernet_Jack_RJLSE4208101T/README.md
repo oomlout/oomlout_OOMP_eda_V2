@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Ethernet_Jack_RJLSE4208101T
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSETHERNETJRJLSE42811T
 - Name: digikey-footprints : Ethernet_Jack_RJLSE4208101T
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Ethernet_Jack_RJLSE4208101T/
 - Description: digikey-footprints : Ethernet_Jack_RJLSE4208101T
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Ethernet_Jack_RJLSE4208101T](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Ethernet_Jack_RJLSE4208101T)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSETHERNETJRJLSE42811T](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSETHERNETJRJLSE42811T)

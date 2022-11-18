@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-am29-memory-TSOP56
 - Hex ID: FZEAM29MEMORYTS56
 - Name: am29-memory : TSOP56
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/am29-memory/TSOP56/
 - Description: am29-memory : TSOP56
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-am29-memory-TSOP56](http://oom.lt/FOOTPRINT-eagle-eagle-default-am29-memory-TSOP56)
 - Short Link: [http://oom.lt/FZEAM29MEMORYTS56](http://oom.lt/FZEAM29MEMORYTS56)

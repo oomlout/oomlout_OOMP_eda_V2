@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Switches-ROTARY_SWITCH_1X10_KIT
 - Hex ID: FZSWROTARYSW1X1K
 - Name: SparkFun-Switches : ROTARY_SWITCH_1X10_KIT
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Switches/ROTARY_SWITCH_1X10_KIT/
 - Description: SparkFun-Switches : ROTARY_SWITCH_1X10_KIT
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Switches-ROTARY_SWITCH_1X10_KIT](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Switches-ROTARY_SWITCH_1X10_KIT)
 - Short Link: [http://oom.lt/FZSWROTARYSW1X1K](http://oom.lt/FZSWROTARYSW1X1K)

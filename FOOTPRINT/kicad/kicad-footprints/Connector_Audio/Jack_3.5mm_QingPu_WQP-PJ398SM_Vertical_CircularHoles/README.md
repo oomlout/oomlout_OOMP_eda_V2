@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_Audio-Jack_3.5mm_QingPu_WQP-PJ398SM_Vertical_CircularHoles
 - Hex ID: FZKCNAUDIOJ35QINGPUWQPPJ398SMFCIRCULARH
 - Name: Connector_Audio : Jack_3.5mm_QingPu_WQP-PJ398SM_Vertical_CircularHoles
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Audio/Jack_3.5mm_QingPu_WQP-PJ398SM_Vertical_CircularHoles/
 - Description: Connector_Audio : Jack_3.5mm_QingPu_WQP-PJ398SM_Vertical_CircularHoles
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Audio-Jack_3.5mm_QingPu_WQP-PJ398SM_Vertical_CircularHoles](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Audio-Jack_3.5mm_QingPu_WQP-PJ398SM_Vertical_CircularHoles)
 - Short Link: [http://oom.lt/FZKCNAUDIOJ35QINGPUWQPPJ398SMFCIRCULARH](http://oom.lt/FZKCNAUDIOJ35QINGPUWQPPJ398SMFCIRCULARH)

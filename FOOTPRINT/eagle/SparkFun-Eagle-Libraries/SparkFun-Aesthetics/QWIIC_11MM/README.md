@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Aesthetics-QWIIC_11MM
 - Hex ID: FZSAQWIIC11
 - Name: SparkFun-Aesthetics : QWIIC_11MM
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Aesthetics/QWIIC_11MM/
 - Description: SparkFun-Aesthetics : QWIIC_11MM
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Aesthetics-QWIIC_11MM](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Aesthetics-QWIIC_11MM)
 - Short Link: [http://oom.lt/FZSAQWIIC11](http://oom.lt/FZSAQWIIC11)

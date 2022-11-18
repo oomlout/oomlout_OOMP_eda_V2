@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-LM2574HVN-ADJ
 - Hex ID: SZKREGULATORSWINGLM2574HVNADJ
 - Name: Regulator_Switching : LM2574HVN-ADJ
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/LM2574HVN-ADJ/
 - Description: Regulator_Switching : LM2574HVN-ADJ
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LM2574HVN-ADJ](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LM2574HVN-ADJ)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGLM2574HVNADJ](http://oom.lt/SZKREGULATORSWINGLM2574HVNADJ)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-LR8N8-G
 - Hex ID: SZKREGULATORLINEARLR8N8G
 - Name: Regulator_Linear : LR8N8-G
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LR8N8-G/
 - Description: Regulator_Linear : LR8N8-G
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LR8N8-G](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LR8N8-G)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARLR8N8G](http://oom.lt/SZKREGULATORLINEARLR8N8G)

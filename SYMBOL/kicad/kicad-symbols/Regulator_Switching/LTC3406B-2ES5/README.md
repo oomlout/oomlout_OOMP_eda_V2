@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-LTC3406B-2ES5
 - Hex ID: SZKREGULATORSWINGLTC346B2ES5
 - Name: Regulator_Switching : LTC3406B-2ES5
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/LTC3406B-2ES5/
 - Description: Regulator_Switching : LTC3406B-2ES5
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LTC3406B-2ES5](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LTC3406B-2ES5)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGLTC346B2ES5](http://oom.lt/SZKREGULATORSWINGLTC346B2ES5)

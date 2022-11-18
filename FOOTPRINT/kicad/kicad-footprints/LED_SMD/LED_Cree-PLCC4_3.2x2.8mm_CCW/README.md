@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_Cree-PLCC4_3.2x2.8mm_CCW
 - Hex ID: FZKLLCREEPLCC432X28CCW
 - Name: LED_SMD : LED_Cree-PLCC4_3.2x2.8mm_CCW
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_Cree-PLCC4_3.2x2.8mm_CCW/
 - Description: LED_SMD : LED_Cree-PLCC4_3.2x2.8mm_CCW
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_Cree-PLCC4_3.2x2.8mm_CCW](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_Cree-PLCC4_3.2x2.8mm_CCW)
 - Short Link: [http://oom.lt/FZKLLCREEPLCC432X28CCW](http://oom.lt/FZKLLCREEPLCC432X28CCW)

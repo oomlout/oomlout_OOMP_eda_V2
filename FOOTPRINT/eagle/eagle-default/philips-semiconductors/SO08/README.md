@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-philips-semiconductors-SO08
 - Hex ID: FZEPHILIPSSEMICONDUCTORSSO8
 - Name: philips-semiconductors : SO08
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/philips-semiconductors/SO08/
 - Description: philips-semiconductors : SO08
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-philips-semiconductors-SO08](http://oom.lt/FOOTPRINT-eagle-eagle-default-philips-semiconductors-SO08)
 - Short Link: [http://oom.lt/FZEPHILIPSSEMICONDUCTORSSO8](http://oom.lt/FZEPHILIPSSEMICONDUCTORSSO8)

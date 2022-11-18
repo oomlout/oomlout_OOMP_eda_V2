@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-amp-mt6-MT6-5
 - Hex ID: FZECONAMPMT6MT65
 - Name: con-amp-mt6 : MT6-5
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-amp-mt6/MT6-5/
 - Description: con-amp-mt6 : MT6-5
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-amp-mt6-MT6-5](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-amp-mt6-MT6-5)
 - Short Link: [http://oom.lt/FZECONAMPMT6MT65](http://oom.lt/FZECONAMPMT6MT65)

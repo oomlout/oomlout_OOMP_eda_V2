@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-TO-277B
 - Hex ID: FZKSOTTO277B
 - Name: Package_TO_SOT_SMD : TO-277B
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/TO-277B/
 - Description: Package_TO_SOT_SMD : TO-277B
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-TO-277B](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-TO-277B)
 - Short Link: [http://oom.lt/FZKSOTTO277B](http://oom.lt/FZKSOTTO277B)

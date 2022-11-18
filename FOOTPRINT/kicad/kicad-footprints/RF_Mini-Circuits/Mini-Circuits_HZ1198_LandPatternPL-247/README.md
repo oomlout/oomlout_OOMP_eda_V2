@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-RF_Mini-Circuits-Mini-Circuits_HZ1198_LandPatternPL-247
 - Hex ID: FZKRFMCIRCUITSHZ1198LANDPATTERNPL247
 - Name: RF_Mini-Circuits : Mini-Circuits_HZ1198_LandPatternPL-247
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/RF_Mini-Circuits/Mini-Circuits_HZ1198_LandPatternPL-247/
 - Description: RF_Mini-Circuits : Mini-Circuits_HZ1198_LandPatternPL-247
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_Mini-Circuits-Mini-Circuits_HZ1198_LandPatternPL-247](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_Mini-Circuits-Mini-Circuits_HZ1198_LandPatternPL-247)
 - Short Link: [http://oom.lt/FZKRFMCIRCUITSHZ1198LANDPATTERNPL247](http://oom.lt/FZKRFMCIRCUITSHZ1198LANDPATTERNPL247)

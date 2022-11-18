@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKHOLHOL64M6ISO738PADTOPBOTTOM > MountingHole : MountingHole_6.4mm_M6_ISO7380_Pad_TopBottom](#fzkholhol64m6iso738padtopbottom--mountinghole--mountinghole_64mm_m6_iso7380_pad_topbottom)
+* [FZKHOLHOL64M6ISO738PTOPB > MountingHole : MountingHole_6.4mm_M6_ISO7380_Pad_TopBottom](#fzkholhol64m6iso738ptopb--mountinghole--mountinghole_64mm_m6_iso7380_pad_topbottom)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKHOLHOL64M6ISO738PADTOPBOTTOM > MountingHole : MountingHole_6.4mm_M6_ISO7380_Pad_TopBottom
+# FZKHOLHOL64M6ISO738PTOPB > MountingHole : MountingHole_6.4mm_M6_ISO7380_Pad_TopBottom
 
 - ID: FOOTPRINT-kicad-kicad-footprints-MountingHole-MountingHole_6.4mm_M6_ISO7380_Pad_TopBottom
-- Hex ID: FZKHOLHOL64M6ISO738PADTOPBOTTOM
+- Hex ID: FZKHOLHOL64M6ISO738PTOPB
 - Name: MountingHole : MountingHole_6.4mm_M6_ISO7380_Pad_TopBottom
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/MountingHole/MountingHole_6.4mm_M6_ISO7380_Pad_TopBottom/
 - Description: MountingHole : MountingHole_6.4mm_M6_ISO7380_Pad_TopBottom
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-MountingHole-MountingHole_6.4mm_M6_ISO7380_Pad_TopBottom](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-MountingHole-MountingHole_6.4mm_M6_ISO7380_Pad_TopBottom)
-- Short Link: [http://oom.lt/FZKHOLHOL64M6ISO738PADTOPBOTTOM](http://oom.lt/FZKHOLHOL64M6ISO738PADTOPBOTTOM)
+- Short Link: [http://oom.lt/FZKHOLHOL64M6ISO738PTOPB](http://oom.lt/FZKHOLHOL64M6ISO738PTOPB)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|MountingHole|
 |OOMP Index|oompIndex|MountingHole_6.4mm_M6_ISO7380_Pad_TopBottom|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-MountingHole-MountingHole_6.4mm_M6_ISO7380_Pad_TopBottom|
-|Hex ID (short code)|hexID|FZKHOLHOL64M6ISO738PADTOPBOTTOM|
+|Hex ID (short code)|hexID|FZKHOLHOL64M6ISO738PTOPB|
 |name|name|MountingHole : MountingHole_6.4mm_M6_ISO7380_Pad_TopBottom|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'MountingHole_6.4mm_M6_ISO7380_Pad_TopBottom'</td><td> 'description'</td></tr><tr><td> 'Mounting Hole 6.4mm</td><td> M6</td><td> ISO7380'</td><td> 'tags'</td></tr><tr><td> 'mounting hole 6.4mm m6 iso7380'</td><td> 'attributeType'</td></tr><tr><td> None</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'connect'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||

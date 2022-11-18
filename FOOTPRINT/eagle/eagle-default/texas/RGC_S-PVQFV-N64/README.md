@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-texas-RGC_S-PVQFV-N64
 - Hex ID: FZETEXASRGCSPVQFVN64
 - Name: texas : RGC_S-PVQFV-N64
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/texas/RGC_S-PVQFV-N64/
 - Description: texas : RGC_S-PVQFV-N64
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-texas-RGC_S-PVQFV-N64](http://oom.lt/FOOTPRINT-eagle-eagle-default-texas-RGC_S-PVQFV-N64)
 - Short Link: [http://oom.lt/FZETEXASRGCSPVQFVN64](http://oom.lt/FZETEXASRGCSPVQFVN64)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Power_Management-TPS26632RGE
 - Hex ID: SZKPOWERMANAGEMENTTPS26632RGE
 - Name: Power_Management : TPS26632RGE
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Power_Management/TPS26632RGE/
 - Description: Power_Management : TPS26632RGE
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-TPS26632RGE](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-TPS26632RGE)
 - Short Link: [http://oom.lt/SZKPOWERMANAGEMENTTPS26632RGE](http://oom.lt/SZKPOWERMANAGEMENTTPS26632RGE)

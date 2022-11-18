@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Potentiometer_THT-Potentiometer_Bourns_3266Y_Vertical
 - Hex ID: FZKPPOTBOURNS3266YF
 - Name: Potentiometer_THT : Potentiometer_Bourns_3266Y_Vertical
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Potentiometer_THT/Potentiometer_Bourns_3266Y_Vertical/
 - Description: Potentiometer_THT : Potentiometer_Bourns_3266Y_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Potentiometer_THT-Potentiometer_Bourns_3266Y_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Potentiometer_THT-Potentiometer_Bourns_3266Y_Vertical)
 - Short Link: [http://oom.lt/FZKPPOTBOURNS3266YF](http://oom.lt/FZKPPOTBOURNS3266YF)

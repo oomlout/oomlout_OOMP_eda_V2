@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Device-L_Trim
 - Hex ID: SZKDEVICELTRIM
 - Name: Device : L_Trim
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/L_Trim/
 - Description: Device : L_Trim
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-L_Trim](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-L_Trim)
 - Short Link: [http://oom.lt/SZKDEVICELTRIM](http://oom.lt/SZKDEVICELTRIM)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_SIP-SIP-9_21.54x3mm_P2.54mm
 - Hex ID: FZKSIPSIP92154X3P254
 - Name: Package_SIP : SIP-9_21.54x3mm_P2.54mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SIP/SIP-9_21.54x3mm_P2.54mm/
 - Description: Package_SIP : SIP-9_21.54x3mm_P2.54mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SIP-SIP-9_21.54x3mm_P2.54mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SIP-SIP-9_21.54x3mm_P2.54mm)
 - Short Link: [http://oom.lt/FZKSIPSIP92154X3P254](http://oom.lt/FZKSIPSIP92154X3P254)

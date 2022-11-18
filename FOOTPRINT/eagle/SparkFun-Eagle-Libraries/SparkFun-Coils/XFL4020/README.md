@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Coils-XFL4020
 - Hex ID: FZSCOXFL42
 - Name: SparkFun-Coils : XFL4020
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Coils/XFL4020/
 - Description: SparkFun-Coils : XFL4020
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Coils-XFL4020](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Coils-XFL4020)
 - Short Link: [http://oom.lt/FZSCOXFL42](http://oom.lt/FZSCOXFL42)

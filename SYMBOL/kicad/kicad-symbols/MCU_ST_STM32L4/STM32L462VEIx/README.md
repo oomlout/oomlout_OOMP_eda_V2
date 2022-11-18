@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_ST_STM32L4-STM32L462VEIx
 - Hex ID: SZKMCUSTSTM32L4STM32L462VEIX
 - Name: MCU_ST_STM32L4 : STM32L462VEIx
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32L4/STM32L462VEIx/
 - Description: MCU_ST_STM32L4 : STM32L462VEIx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32L4-STM32L462VEIx](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32L4-STM32L462VEIx)
 - Short Link: [http://oom.lt/SZKMCUSTSTM32L4STM32L462VEIX](http://oom.lt/SZKMCUSTSTM32L4STM32L462VEIX)

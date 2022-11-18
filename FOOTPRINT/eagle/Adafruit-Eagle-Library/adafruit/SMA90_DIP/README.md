@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZAS9DIP > adafruit : SMA90_DIP](#fzas9dip--adafruit--sma90_dip)
+* [FZAS9D > adafruit : SMA90_DIP](#fzas9d--adafruit--sma90_dip)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZAS9DIP > adafruit : SMA90_DIP
+# FZAS9D > adafruit : SMA90_DIP
 
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-SMA90_DIP
-- Hex ID: FZAS9DIP
+- Hex ID: FZAS9D
 - Name: adafruit : SMA90_DIP
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/SMA90_DIP/
 - Description: adafruit : SMA90_DIP
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-SMA90_DIP](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-SMA90_DIP)
-- Short Link: [http://oom.lt/FZAS9DIP](http://oom.lt/FZAS9DIP)
+- Short Link: [http://oom.lt/FZAS9D](http://oom.lt/FZAS9D)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|adafruit|
 |OOMP Index|oompIndex|SMA90_DIP|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-SMA90_DIP|
-|Hex ID (short code)|hexID|FZAS9DIP|
+|Hex ID (short code)|hexID|FZAS9D|
 |name|name|adafruit : SMA90_DIP|
 ||||
 

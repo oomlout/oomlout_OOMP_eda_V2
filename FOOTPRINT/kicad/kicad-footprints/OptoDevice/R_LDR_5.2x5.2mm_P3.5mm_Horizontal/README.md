@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-OptoDevice-R_LDR_5.2x5.2mm_P3.5mm_Horizontal
 - Hex ID: FZKOPRLDR52X52P35H
 - Name: OptoDevice : R_LDR_5.2x5.2mm_P3.5mm_Horizontal
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/OptoDevice/R_LDR_5.2x5.2mm_P3.5mm_Horizontal/
 - Description: OptoDevice : R_LDR_5.2x5.2mm_P3.5mm_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-OptoDevice-R_LDR_5.2x5.2mm_P3.5mm_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-OptoDevice-R_LDR_5.2x5.2mm_P3.5mm_Horizontal)
 - Short Link: [http://oom.lt/FZKOPRLDR52X52P35H](http://oom.lt/FZKOPRLDR52X52P35H)

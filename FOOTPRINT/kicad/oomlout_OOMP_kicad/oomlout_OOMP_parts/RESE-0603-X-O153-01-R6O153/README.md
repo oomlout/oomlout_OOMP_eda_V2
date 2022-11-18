@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O153-01-R6O153
 - Hex ID: FZOOMPKOOMPPRESE63XO1531R6O153
 - Name: oomlout_OOMP_parts : RESE-0603-X-O153-01-R6O153
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/RESE-0603-X-O153-01-R6O153/
 - Description: oomlout_OOMP_parts : RESE-0603-X-O153-01-R6O153
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O153-01-R6O153](http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O153-01-R6O153)
 - Short Link: [http://oom.lt/FZOOMPKOOMPPRESE63XO1531R6O153](http://oom.lt/FZOOMPKOOMPPRESE63XO1531R6O153)

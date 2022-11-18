@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-amp-SIMM80R
 - Hex ID: FZECONAMPSI8R
 - Name: con-amp : SIMM80R
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-amp/SIMM80R/
 - Description: con-amp : SIMM80R
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-amp-SIMM80R](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-amp-SIMM80R)
 - Short Link: [http://oom.lt/FZECONAMPSI8R](http://oom.lt/FZECONAMPSI8R)

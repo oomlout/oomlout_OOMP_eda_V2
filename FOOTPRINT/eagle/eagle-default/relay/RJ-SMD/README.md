@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-relay-RJ-SMD
 - Hex ID: FZERELAYRJSM
 - Name: relay : RJ-SMD
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/relay/RJ-SMD/
 - Description: relay : RJ-SMD
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-RJ-SMD](http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-RJ-SMD)
 - Short Link: [http://oom.lt/FZERELAYRJSM](http://oom.lt/FZERELAYRJSM)

@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKCONCONBOTHHANDCFUDXXXXTHT > Converter_DCDC : Converter_DCDC_Bothhand_CFUDxxxx_THT](#fzkconconbothhandcfudxxxxtht--converter_dcdc--converter_dcdc_bothhand_cfudxxxx_tht)
+* [FZKCONCONBOTHHCFUDXXXXTHT > Converter_DCDC : Converter_DCDC_Bothhand_CFUDxxxx_THT](#fzkconconbothhcfudxxxxtht--converter_dcdc--converter_dcdc_bothhand_cfudxxxx_tht)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKCONCONBOTHHANDCFUDXXXXTHT > Converter_DCDC : Converter_DCDC_Bothhand_CFUDxxxx_THT
+# FZKCONCONBOTHHCFUDXXXXTHT > Converter_DCDC : Converter_DCDC_Bothhand_CFUDxxxx_THT
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Converter_DCDC-Converter_DCDC_Bothhand_CFUDxxxx_THT
-- Hex ID: FZKCONCONBOTHHANDCFUDXXXXTHT
+- Hex ID: FZKCONCONBOTHHCFUDXXXXTHT
 - Name: Converter_DCDC : Converter_DCDC_Bothhand_CFUDxxxx_THT
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Converter_DCDC/Converter_DCDC_Bothhand_CFUDxxxx_THT/
 - Description: Converter_DCDC : Converter_DCDC_Bothhand_CFUDxxxx_THT
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Converter_DCDC-Converter_DCDC_Bothhand_CFUDxxxx_THT](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Converter_DCDC-Converter_DCDC_Bothhand_CFUDxxxx_THT)
-- Short Link: [http://oom.lt/FZKCONCONBOTHHANDCFUDXXXXTHT](http://oom.lt/FZKCONCONBOTHHANDCFUDXXXXTHT)
+- Short Link: [http://oom.lt/FZKCONCONBOTHHCFUDXXXXTHT](http://oom.lt/FZKCONCONBOTHHCFUDXXXXTHT)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Converter_DCDC|
 |OOMP Index|oompIndex|Converter_DCDC_Bothhand_CFUDxxxx_THT|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Converter_DCDC-Converter_DCDC_Bothhand_CFUDxxxx_THT|
-|Hex ID (short code)|hexID|FZKCONCONBOTHHANDCFUDXXXXTHT|
+|Hex ID (short code)|hexID|FZKCONCONBOTHHCFUDXXXXTHT|
 |name|name|Converter_DCDC : Converter_DCDC_Bothhand_CFUDxxxx_THT|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Converter_DCDC_Bothhand_CFUDxxxx_THT'</td><td> 'description'</td></tr><tr><td> 'DCDC-Converter</td><td> BOTHHAND</td><td> Type CFxxxx-Serie</td><td>  (Very dodgy url but was the only at hand)</td><td> '</td><td> 'tags'</td></tr><tr><td> 'DCDC-Converter BOTHHAND Type CFxxxx-Serie'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Converter_DCDC.3dshapes/Converter_DCDC_Bothhand_CFUDxxxx_THT.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

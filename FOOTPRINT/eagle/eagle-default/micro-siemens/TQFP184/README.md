@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-micro-siemens-TQFP184
 - Hex ID: FZEMSIEMENSTQFP184
 - Name: micro-siemens : TQFP184
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/micro-siemens/TQFP184/
 - Description: micro-siemens : TQFP184
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-siemens-TQFP184](http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-siemens-TQFP184)
 - Short Link: [http://oom.lt/FZEMSIEMENSTQFP184](http://oom.lt/FZEMSIEMENSTQFP184)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-switch-dil-CTS-219-12J
 - Hex ID: FZESWDILCTS21912J
 - Name: switch-dil : CTS-219-12J
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/switch-dil/CTS-219-12J/
 - Description: switch-dil : CTS-219-12J
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-dil-CTS-219-12J](http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-dil-CTS-219-12J)
 - Short Link: [http://oom.lt/FZESWDILCTS21912J](http://oom.lt/FZESWDILCTS21912J)

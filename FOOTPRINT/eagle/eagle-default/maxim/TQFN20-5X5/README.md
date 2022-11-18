@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-maxim-TQFN20-5X5
 - Hex ID: FZEMAXIMTQFN25X5
 - Name: maxim : TQFN20-5X5
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/maxim/TQFN20-5X5/
 - Description: maxim : TQFN20-5X5
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-maxim-TQFN20-5X5](http://oom.lt/FOOTPRINT-eagle-eagle-default-maxim-TQFN20-5X5)
 - Short Link: [http://oom.lt/FZEMAXIMTQFN25X5](http://oom.lt/FZEMAXIMTQFN25X5)

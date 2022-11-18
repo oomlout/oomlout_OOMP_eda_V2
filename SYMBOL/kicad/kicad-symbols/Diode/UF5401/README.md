@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-UF5401
 - Hex ID: SZKDIODEUF541
 - Name: Diode : UF5401
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/UF5401/
 - Description: Diode : UF5401
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-UF5401](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-UF5401)
 - Short Link: [http://oom.lt/SZKDIODEUF541](http://oom.lt/SZKDIODEUF541)

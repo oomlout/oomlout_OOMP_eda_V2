@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Boards-QWIIC_MICRO
 - Hex ID: FZSBOQWIICM
 - Name: SparkFun-Boards : QWIIC_MICRO
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Boards/QWIIC_MICRO/
 - Description: SparkFun-Boards : QWIIC_MICRO
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Boards-QWIIC_MICRO](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Boards-QWIIC_MICRO)
 - Short Link: [http://oom.lt/FZSBOQWIICM](http://oom.lt/FZSBOQWIICM)

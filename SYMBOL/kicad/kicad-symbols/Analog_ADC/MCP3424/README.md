@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Analog_ADC-MCP3424
 - Hex ID: SZKANALOGADCMCP3424
 - Name: Analog_ADC : MCP3424
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog_ADC/MCP3424/
 - Description: Analog_ADC : MCP3424
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-MCP3424](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-MCP3424)
 - Short Link: [http://oom.lt/SZKANALOGADCMCP3424](http://oom.lt/SZKANALOGADCMCP3424)

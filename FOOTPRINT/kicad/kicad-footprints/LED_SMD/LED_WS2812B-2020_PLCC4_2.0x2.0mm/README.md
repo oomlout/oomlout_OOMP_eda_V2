@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_WS2812B-2020_PLCC4_2.0x2.0mm
 - Hex ID: FZKLLWS2812B22PLCC42X2
 - Name: LED_SMD : LED_WS2812B-2020_PLCC4_2.0x2.0mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_WS2812B-2020_PLCC4_2.0x2.0mm/
 - Description: LED_SMD : LED_WS2812B-2020_PLCC4_2.0x2.0mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_WS2812B-2020_PLCC4_2.0x2.0mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_WS2812B-2020_PLCC4_2.0x2.0mm)
 - Short Link: [http://oom.lt/FZKLLWS2812B22PLCC42X2](http://oom.lt/FZKLLWS2812B22PLCC42X2)

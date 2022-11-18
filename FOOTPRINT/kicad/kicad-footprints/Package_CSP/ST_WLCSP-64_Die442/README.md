@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_CSP-ST_WLCSP-64_Die442
 - Hex ID: FZKCSPSTWLCSP64DIE442
 - Name: Package_CSP : ST_WLCSP-64_Die442
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_CSP/ST_WLCSP-64_Die442/
 - Description: Package_CSP : ST_WLCSP-64_Die442
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_CSP-ST_WLCSP-64_Die442](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_CSP-ST_WLCSP-64_Die442)
 - Short Link: [http://oom.lt/FZKCSPSTWLCSP64DIE442](http://oom.lt/FZKCSPSTWLCSP64DIE442)

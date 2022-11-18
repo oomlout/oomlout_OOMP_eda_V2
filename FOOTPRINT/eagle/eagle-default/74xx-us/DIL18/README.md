@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-74xx-us-DIL18
 - Hex ID: FZE74XXUSDIL18
 - Name: 74xx-us : DIL18
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/74xx-us/DIL18/
 - Description: 74xx-us : DIL18
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-74xx-us-DIL18](http://oom.lt/FOOTPRINT-eagle-eagle-default-74xx-us-DIL18)
 - Short Link: [http://oom.lt/FZE74XXUSDIL18](http://oom.lt/FZE74XXUSDIL18)

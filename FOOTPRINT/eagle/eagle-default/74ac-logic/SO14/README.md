@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-74ac-logic-SO14
 - Hex ID: FZE74ACLOGICSO14
 - Name: 74ac-logic : SO14
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/74ac-logic/SO14/
 - Description: 74ac-logic : SO14
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-74ac-logic-SO14](http://oom.lt/FOOTPRINT-eagle-eagle-default-74ac-logic-SO14)
 - Short Link: [http://oom.lt/FZE74ACLOGICSO14](http://oom.lt/FZE74ACLOGICSO14)

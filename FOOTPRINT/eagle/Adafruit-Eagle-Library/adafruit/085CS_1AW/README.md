@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1AW
 - Hex ID: FZA85CS1AW
 - Name: adafruit : 085CS_1AW
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/085CS_1AW/
 - Description: adafruit : 085CS_1AW
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1AW](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1AW)
 - Short Link: [http://oom.lt/FZA85CS1AW](http://oom.lt/FZA85CS1AW)

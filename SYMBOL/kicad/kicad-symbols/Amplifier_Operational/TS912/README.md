@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-TS912
 - Hex ID: SZKAMPLIFIEROPERATIONALTS912
 - Name: Amplifier_Operational : TS912
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/TS912/
 - Description: Amplifier_Operational : TS912
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-TS912](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-TS912)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALTS912](http://oom.lt/SZKAMPLIFIEROPERATIONALTS912)

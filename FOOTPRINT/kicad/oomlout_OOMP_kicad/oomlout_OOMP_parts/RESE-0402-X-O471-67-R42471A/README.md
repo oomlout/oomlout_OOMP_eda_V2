@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0402-X-O471-67-R42471A
 - Hex ID: FZOOMPKOOMPPRESE42XO47167R42471A
 - Name: oomlout_OOMP_parts : RESE-0402-X-O471-67-R42471A
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/RESE-0402-X-O471-67-R42471A/
 - Description: oomlout_OOMP_parts : RESE-0402-X-O471-67-R42471A
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0402-X-O471-67-R42471A](http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0402-X-O471-67-R42471A)
 - Short Link: [http://oom.lt/FZOOMPKOOMPPRESE42XO47167R42471A](http://oom.lt/FZOOMPKOOMPPRESE42XO47167R42471A)

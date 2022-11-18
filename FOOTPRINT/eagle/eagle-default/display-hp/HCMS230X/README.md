@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-display-hp-HCMS230X
 - Hex ID: FZEDIHPHCMS23X
 - Name: display-hp : HCMS230X
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/display-hp/HCMS230X/
 - Description: display-hp : HCMS230X
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-display-hp-HCMS230X](http://oom.lt/FOOTPRINT-eagle-eagle-default-display-hp-HCMS230X)
 - Short Link: [http://oom.lt/FZEDIHPHCMS23X](http://oom.lt/FZEDIHPHCMS23X)

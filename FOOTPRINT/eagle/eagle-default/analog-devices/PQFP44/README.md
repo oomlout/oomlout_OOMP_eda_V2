@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-analog-devices-PQFP44
 - Hex ID: FZEANALOGDEVICESPQFP44
 - Name: analog-devices : PQFP44
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/analog-devices/PQFP44/
 - Description: analog-devices : PQFP44
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-analog-devices-PQFP44](http://oom.lt/FOOTPRINT-eagle-eagle-default-analog-devices-PQFP44)
 - Short Link: [http://oom.lt/FZEANALOGDEVICESPQFP44](http://oom.lt/FZEANALOGDEVICESPQFP44)

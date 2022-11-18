@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-CHIP-LED0805
 - Hex ID: FZACHIPL85
 - Name: adafruit : CHIP-LED0805
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/CHIP-LED0805/
 - Description: adafruit : CHIP-LED0805
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-CHIP-LED0805](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-CHIP-LED0805)
 - Short Link: [http://oom.lt/FZACHIPL85](http://oom.lt/FZACHIPL85)

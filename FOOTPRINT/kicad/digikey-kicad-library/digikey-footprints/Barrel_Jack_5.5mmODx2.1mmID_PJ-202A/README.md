@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Barrel_Jack_5.5mmODx2.1mmID_PJ-202A
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSBARRELJ55ODX21IDPJ22A
 - Name: digikey-footprints : Barrel_Jack_5.5mmODx2.1mmID_PJ-202A
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Barrel_Jack_5.5mmODx2.1mmID_PJ-202A/
 - Description: digikey-footprints : Barrel_Jack_5.5mmODx2.1mmID_PJ-202A
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Barrel_Jack_5.5mmODx2.1mmID_PJ-202A](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Barrel_Jack_5.5mmODx2.1mmID_PJ-202A)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSBARRELJ55ODX21IDPJ22A](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSBARRELJ55ODX21IDPJ22A)

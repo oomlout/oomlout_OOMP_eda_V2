@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-OptoDevice-Everlight_ITR8307F43
 - Hex ID: FZKOPEVERLIGHTITR837F43
 - Name: OptoDevice : Everlight_ITR8307F43
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/OptoDevice/Everlight_ITR8307F43/
 - Description: OptoDevice : Everlight_ITR8307F43
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-OptoDevice-Everlight_ITR8307F43](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-OptoDevice-Everlight_ITR8307F43)
 - Short Link: [http://oom.lt/FZKOPEVERLIGHTITR837F43](http://oom.lt/FZKOPEVERLIGHTITR837F43)

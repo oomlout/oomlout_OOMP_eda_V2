@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-transistor-small-signal-TO5H
 - Hex ID: FZETRANSISTORSLLSIGNALTO5H
 - Name: transistor-small-signal : TO5H
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/transistor-small-signal/TO5H/
 - Description: transistor-small-signal : TO5H
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-small-signal-TO5H](http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-small-signal-TO5H)
 - Short Link: [http://oom.lt/FZETRANSISTORSLLSIGNALTO5H](http://oom.lt/FZETRANSISTORSLLSIGNALTO5H)

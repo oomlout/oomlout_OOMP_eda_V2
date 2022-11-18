@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Analog_ADC-AD9280ARS
 - Hex ID: SZKANALOGADCAD928ARS
 - Name: Analog_ADC : AD9280ARS
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog_ADC/AD9280ARS/
 - Description: Analog_ADC : AD9280ARS
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-AD9280ARS](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-AD9280ARS)
 - Short Link: [http://oom.lt/SZKANALOGADCAD928ARS](http://oom.lt/SZKANALOGADCAD928ARS)

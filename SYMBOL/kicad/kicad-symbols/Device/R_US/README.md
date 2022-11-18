@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Device-R_US
 - Hex ID: SZKDEVICERUS
 - Name: Device : R_US
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/R_US/
 - Description: Device : R_US
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-R_US](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-R_US)
 - Short Link: [http://oom.lt/SZKDEVICERUS](http://oom.lt/SZKDEVICERUS)

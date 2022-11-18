@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_BGA-XFBGA-64_5.0x5.0mm_Layout8x8_P0.5mm
 - Hex ID: FZKBGAXFBGA645X5LAYOUT8X8P5
 - Name: Package_BGA : XFBGA-64_5.0x5.0mm_Layout8x8_P0.5mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_BGA/XFBGA-64_5.0x5.0mm_Layout8x8_P0.5mm/
 - Description: Package_BGA : XFBGA-64_5.0x5.0mm_Layout8x8_P0.5mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_BGA-XFBGA-64_5.0x5.0mm_Layout8x8_P0.5mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_BGA-XFBGA-64_5.0x5.0mm_Layout8x8_P0.5mm)
 - Short Link: [http://oom.lt/FZKBGAXFBGA645X5LAYOUT8X8P5](http://oom.lt/FZKBGAXFBGA645X5LAYOUT8X8P5)

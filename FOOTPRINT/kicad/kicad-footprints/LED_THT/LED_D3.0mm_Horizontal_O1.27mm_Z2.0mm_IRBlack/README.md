@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-LED_THT-LED_D3.0mm_Horizontal_O1.27mm_Z2.0mm_IRBlack
 - Hex ID: FZKLLD3HO127Z2IRBLACK
 - Name: LED_THT : LED_D3.0mm_Horizontal_O1.27mm_Z2.0mm_IRBlack
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/LED_THT/LED_D3.0mm_Horizontal_O1.27mm_Z2.0mm_IRBlack/
 - Description: LED_THT : LED_D3.0mm_Horizontal_O1.27mm_Z2.0mm_IRBlack
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-LED_THT-LED_D3.0mm_Horizontal_O1.27mm_Z2.0mm_IRBlack](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-LED_THT-LED_D3.0mm_Horizontal_O1.27mm_Z2.0mm_IRBlack)
 - Short Link: [http://oom.lt/FZKLLD3HO127Z2IRBLACK](http://oom.lt/FZKLLD3HO127Z2IRBLACK)

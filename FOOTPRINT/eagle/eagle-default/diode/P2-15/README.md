@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-diode-P2-15
 - Hex ID: FZEDIODEP215
 - Name: diode : P2-15
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/diode/P2-15/
 - Description: diode : P2-15
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-diode-P2-15](http://oom.lt/FOOTPRINT-eagle-eagle-default-diode-P2-15)
 - Short Link: [http://oom.lt/FZEDIODEP215](http://oom.lt/FZEDIODEP215)

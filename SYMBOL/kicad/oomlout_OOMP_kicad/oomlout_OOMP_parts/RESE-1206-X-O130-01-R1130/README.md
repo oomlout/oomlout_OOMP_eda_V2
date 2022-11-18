@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-1206-X-O130-01-R1130
 - Hex ID: SZOOMPKOOMPPRESE126XO131R113
 - Name: oomlout_OOMP_parts : RESE-1206-X-O130-01-R1130
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/RESE-1206-X-O130-01-R1130/
 - Description: oomlout_OOMP_parts : RESE-1206-X-O130-01-R1130
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-1206-X-O130-01-R1130](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-1206-X-O130-01-R1130)
 - Short Link: [http://oom.lt/SZOOMPKOOMPPRESE126XO131R113](http://oom.lt/SZOOMPKOOMPPRESE126XO131R113)

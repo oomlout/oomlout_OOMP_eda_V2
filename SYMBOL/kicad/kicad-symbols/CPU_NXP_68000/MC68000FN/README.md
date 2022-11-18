@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-CPU_NXP_68000-MC68000FN
 - Hex ID: SZKCPUNXP68MC68FN
 - Name: CPU_NXP_68000 : MC68000FN
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/CPU_NXP_68000/MC68000FN/
 - Description: CPU_NXP_68000 : MC68000FN
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-CPU_NXP_68000-MC68000FN](http://oom.lt/SYMBOL-kicad-kicad-symbols-CPU_NXP_68000-MC68000FN)
 - Short Link: [http://oom.lt/SZKCPUNXP68MC68FN](http://oom.lt/SZKCPUNXP68MC68FN)

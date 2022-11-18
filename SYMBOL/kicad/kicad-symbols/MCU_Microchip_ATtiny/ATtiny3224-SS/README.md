@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny3224-SS
 - Hex ID: SZKMCUMCHIPATTINYATTINY3224SS
 - Name: MCU_Microchip_ATtiny : ATtiny3224-SS
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_ATtiny/ATtiny3224-SS/
 - Description: MCU_Microchip_ATtiny : ATtiny3224-SS
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny3224-SS](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny3224-SS)
 - Short Link: [http://oom.lt/SZKMCUMCHIPATTINYATTINY3224SS](http://oom.lt/SZKMCUMCHIPATTINYATTINY3224SS)

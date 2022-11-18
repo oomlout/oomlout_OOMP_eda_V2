@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-SM49
 - Hex ID: FZASM49
 - Name: adafruit : SM49
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/SM49/
 - Description: adafruit : SM49
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-SM49](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-SM49)
 - Short Link: [http://oom.lt/FZASM49](http://oom.lt/FZASM49)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-LGA-16-3X3
 - Hex ID: FZSSPARKFUNSENSLGA163X3
 - Name: SparkFun-Sensors : LGA-16-3X3
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Sensors/LGA-16-3X3/
 - Description: SparkFun-Sensors : LGA-16-3X3
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-LGA-16-3X3](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-LGA-16-3X3)
 - Short Link: [http://oom.lt/FZSSPARKFUNSENSLGA163X3](http://oom.lt/FZSSPARKFUNSENSLGA163X3)

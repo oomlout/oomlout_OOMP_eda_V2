@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-ATPAK-2
 - Hex ID: FZKSOTATPAK2
 - Name: Package_TO_SOT_SMD : ATPAK-2
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/ATPAK-2/
 - Description: Package_TO_SOT_SMD : ATPAK-2
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-ATPAK-2](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-ATPAK-2)
 - Short Link: [http://oom.lt/FZKSOTATPAK2](http://oom.lt/FZKSOTATPAK2)

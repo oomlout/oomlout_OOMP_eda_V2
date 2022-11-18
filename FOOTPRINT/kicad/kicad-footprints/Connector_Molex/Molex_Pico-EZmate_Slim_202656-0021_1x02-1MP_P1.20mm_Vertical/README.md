@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_Pico-EZmate_Slim_202656-0021_1x02-1MP_P1.20mm_Vertical
 - Hex ID: FZKCNMXMXPICOEZMATESLIM22656211X21MPP12F
 - Name: Connector_Molex : Molex_Pico-EZmate_Slim_202656-0021_1x02-1MP_P1.20mm_Vertical
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_Pico-EZmate_Slim_202656-0021_1x02-1MP_P1.20mm_Vertical/
 - Description: Connector_Molex : Molex_Pico-EZmate_Slim_202656-0021_1x02-1MP_P1.20mm_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_Pico-EZmate_Slim_202656-0021_1x02-1MP_P1.20mm_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_Pico-EZmate_Slim_202656-0021_1x02-1MP_P1.20mm_Vertical)
 - Short Link: [http://oom.lt/FZKCNMXMXPICOEZMATESLIM22656211X21MPP12F](http://oom.lt/FZKCNMXMXPICOEZMATESLIM22656211X21MPP12F)

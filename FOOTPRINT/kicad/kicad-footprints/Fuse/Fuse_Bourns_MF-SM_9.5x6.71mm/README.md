@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Fuse-Fuse_Bourns_MF-SM_9.5x6.71mm
 - Hex ID: FZKFUFUBOURNSMFSM95X671
 - Name: Fuse : Fuse_Bourns_MF-SM_9.5x6.71mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Fuse/Fuse_Bourns_MF-SM_9.5x6.71mm/
 - Description: Fuse : Fuse_Bourns_MF-SM_9.5x6.71mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Fuse-Fuse_Bourns_MF-SM_9.5x6.71mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Fuse-Fuse_Bourns_MF-SM_9.5x6.71mm)
 - Short Link: [http://oom.lt/FZKFUFUBOURNSMFSM95X671](http://oom.lt/FZKFUFUBOURNSMFSM95X671)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-LED_Bar_Graph_LTA-1000
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSLBARGRAPHLTA1
 - Name: digikey-footprints : LED_Bar_Graph_LTA-1000
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/LED_Bar_Graph_LTA-1000/
 - Description: digikey-footprints : LED_Bar_Graph_LTA-1000
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-LED_Bar_Graph_LTA-1000](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-LED_Bar_Graph_LTA-1000)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSLBARGRAPHLTA1](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSLBARGRAPHLTA1)

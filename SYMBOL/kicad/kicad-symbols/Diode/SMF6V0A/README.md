@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-SMF6V0A
 - Hex ID: SZKDIODESMF6VA
 - Name: Diode : SMF6V0A
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/SMF6V0A/
 - Description: Diode : SMF6V0A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-SMF6V0A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-SMF6V0A)
 - Short Link: [http://oom.lt/SZKDIODESMF6VA](http://oom.lt/SZKDIODESMF6VA)

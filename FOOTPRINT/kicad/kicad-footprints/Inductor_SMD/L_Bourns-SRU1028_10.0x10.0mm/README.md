@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Bourns-SRU1028_10.0x10.0mm
 - Hex ID: FZKINLBOURNSSRU1281X1
 - Name: Inductor_SMD : L_Bourns-SRU1028_10.0x10.0mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Bourns-SRU1028_10.0x10.0mm/
 - Description: Inductor_SMD : L_Bourns-SRU1028_10.0x10.0mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Bourns-SRU1028_10.0x10.0mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Bourns-SRU1028_10.0x10.0mm)
 - Short Link: [http://oom.lt/FZKINLBOURNSSRU1281X1](http://oom.lt/FZKINLBOURNSSRU1281X1)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-analog-devices-BP-256
 - Hex ID: FZEANALOGDEVICESBP256
 - Name: analog-devices : BP-256
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/analog-devices/BP-256/
 - Description: analog-devices : BP-256
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-analog-devices-BP-256](http://oom.lt/FOOTPRINT-eagle-eagle-default-analog-devices-BP-256)
 - Short Link: [http://oom.lt/FZEANALOGDEVICESBP256](http://oom.lt/FZEANALOGDEVICESBP256)

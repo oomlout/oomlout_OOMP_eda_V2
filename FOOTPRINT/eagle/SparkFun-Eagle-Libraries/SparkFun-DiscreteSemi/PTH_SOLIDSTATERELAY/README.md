@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-DiscreteSemi-PTH_SOLIDSTATERELAY
 - Hex ID: FZSDSPSOLIDSTATERELAY
 - Name: SparkFun-DiscreteSemi : PTH_SOLIDSTATERELAY
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-DiscreteSemi/PTH_SOLIDSTATERELAY/
 - Description: SparkFun-DiscreteSemi : PTH_SOLIDSTATERELAY
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-DiscreteSemi-PTH_SOLIDSTATERELAY](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-DiscreteSemi-PTH_SOLIDSTATERELAY)
 - Short Link: [http://oom.lt/FZSDSPSOLIDSTATERELAY](http://oom.lt/FZSDSPSOLIDSTATERELAY)

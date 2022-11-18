@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface-TCA9800
 - Hex ID: SZKINTERFACETCA98
 - Name: Interface : TCA9800
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface/TCA9800/
 - Description: Interface : TCA9800
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-TCA9800](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-TCA9800)
 - Short Link: [http://oom.lt/SZKINTERFACETCA98](http://oom.lt/SZKINTERFACETCA98)

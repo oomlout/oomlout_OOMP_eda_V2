@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-LTC3105xMS
 - Hex ID: SZKREGULATORSWINGLTC315XMS
 - Name: Regulator_Switching : LTC3105xMS
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/LTC3105xMS/
 - Description: Regulator_Switching : LTC3105xMS
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LTC3105xMS](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LTC3105xMS)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGLTC315XMS](http://oom.lt/SZKREGULATORSWINGLTC315XMS)

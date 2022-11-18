@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Filter-FN406B-8.4-02
 - Hex ID: SZKFILFN46B842
 - Name: Filter : FN406B-8.4-02
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Filter/FN406B-8.4-02/
 - Description: Filter : FN406B-8.4-02
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Filter-FN406B-8.4-02](http://oom.lt/SYMBOL-kicad-kicad-symbols-Filter-FN406B-8.4-02)
 - Short Link: [http://oom.lt/SZKFILFN46B842](http://oom.lt/SZKFILFN46B842)

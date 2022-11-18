@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_RJ-RJ45_Molex_0855135013_Vertical
 - Hex ID: FZKCNRJRJ45MX85513513F
 - Name: Connector_RJ : RJ45_Molex_0855135013_Vertical
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_RJ/RJ45_Molex_0855135013_Vertical/
 - Description: Connector_RJ : RJ45_Molex_0855135013_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_RJ-RJ45_Molex_0855135013_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_RJ-RJ45_Molex_0855135013_Vertical)
 - Short Link: [http://oom.lt/FZKCNRJRJ45MX85513513F](http://oom.lt/FZKCNRJRJ45MX85513513F)

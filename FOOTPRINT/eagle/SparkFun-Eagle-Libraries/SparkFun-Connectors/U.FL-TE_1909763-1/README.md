@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-U.FL-TE_1909763-1
 - Hex ID: FZSSPARKFUNCNSUFLTE1997631
 - Name: SparkFun-Connectors : U.FL-TE_1909763-1
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Connectors/U.FL-TE_1909763-1/
 - Description: SparkFun-Connectors : U.FL-TE_1909763-1
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-U.FL-TE_1909763-1](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-U.FL-TE_1909763-1)
 - Short Link: [http://oom.lt/FZSSPARKFUNCNSUFLTE1997631](http://oom.lt/FZSSPARKFUNCNSUFLTE1997631)

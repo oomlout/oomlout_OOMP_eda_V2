@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-FPGA_Xilinx_Virtex6-XC6VLX365T-FF1156
 - Hex ID: SZKFPGAXILINXVIRTEX6XC6VLX365TFF1156
 - Name: FPGA_Xilinx_Virtex6 : XC6VLX365T-FF1156
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/FPGA_Xilinx_Virtex6/XC6VLX365T-FF1156/
 - Description: FPGA_Xilinx_Virtex6 : XC6VLX365T-FF1156
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-FPGA_Xilinx_Virtex6-XC6VLX365T-FF1156](http://oom.lt/SYMBOL-kicad-kicad-symbols-FPGA_Xilinx_Virtex6-XC6VLX365T-FF1156)
 - Short Link: [http://oom.lt/SZKFPGAXILINXVIRTEX6XC6VLX365TFF1156](http://oom.lt/SZKFPGAXILINXVIRTEX6XC6VLX365TFF1156)

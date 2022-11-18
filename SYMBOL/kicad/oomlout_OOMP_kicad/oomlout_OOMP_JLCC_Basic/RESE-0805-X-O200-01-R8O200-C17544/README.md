@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-RESE-0805-X-O200-01-R8O200-C17544
 - Hex ID: SZOOMPKJLCRESE85XO21R8O2C17544
 - Name: oomlout_OOMP_JLCC_Basic : RESE-0805-X-O200-01-R8O200-C17544
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_JLCC_Basic/RESE-0805-X-O200-01-R8O200-C17544/
 - Description: oomlout_OOMP_JLCC_Basic : RESE-0805-X-O200-01-R8O200-C17544
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-RESE-0805-X-O200-01-R8O200-C17544](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-RESE-0805-X-O200-01-R8O200-C17544)
 - Short Link: [http://oom.lt/SZOOMPKJLCRESE85XO21R8O2C17544](http://oom.lt/SZOOMPKJLCRESE85XO21R8O2C17544)

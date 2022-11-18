@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Axial_L17.5mm_D12.0mm_P20.32mm_Horizontal_Vishay_IM-10-46
 - Hex ID: FZKINLAXIALL175D12P232HVISHAYIM146
 - Name: Inductor_THT : L_Axial_L17.5mm_D12.0mm_P20.32mm_Horizontal_Vishay_IM-10-46
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Axial_L17.5mm_D12.0mm_P20.32mm_Horizontal_Vishay_IM-10-46/
 - Description: Inductor_THT : L_Axial_L17.5mm_D12.0mm_P20.32mm_Horizontal_Vishay_IM-10-46
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Axial_L17.5mm_D12.0mm_P20.32mm_Horizontal_Vishay_IM-10-46](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Axial_L17.5mm_D12.0mm_P20.32mm_Horizontal_Vishay_IM-10-46)
 - Short Link: [http://oom.lt/FZKINLAXIALL175D12P232HVISHAYIM146](http://oom.lt/FZKINLAXIALL175D12P232HVISHAYIM146)

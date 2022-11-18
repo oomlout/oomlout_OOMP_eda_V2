@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_Expansion-AS1115-BQFT
 - Hex ID: SZKINTERFACEEXPANSIONAS1115BQFT
 - Name: Interface_Expansion : AS1115-BQFT
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_Expansion/AS1115-BQFT/
 - Description: Interface_Expansion : AS1115-BQFT
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Expansion-AS1115-BQFT](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Expansion-AS1115-BQFT)
 - Short Link: [http://oom.lt/SZKINTERFACEEXPANSIONAS1115BQFT](http://oom.lt/SZKINTERFACEEXPANSIONAS1115BQFT)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Potentiometer_Digital-MCP4017-xxxxLT
 - Hex ID: SZKPOTDIGITALMCP417XXXXLT
 - Name: Potentiometer_Digital : MCP4017-xxxxLT
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Potentiometer_Digital/MCP4017-xxxxLT/
 - Description: Potentiometer_Digital : MCP4017-xxxxLT
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Potentiometer_Digital-MCP4017-xxxxLT](http://oom.lt/SYMBOL-kicad-kicad-symbols-Potentiometer_Digital-MCP4017-xxxxLT)
 - Short Link: [http://oom.lt/SZKPOTDIGITALMCP417XXXXLT](http://oom.lt/SZKPOTDIGITALMCP417XXXXLT)

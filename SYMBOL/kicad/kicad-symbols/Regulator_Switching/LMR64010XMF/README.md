@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-LMR64010XMF
 - Hex ID: SZKREGULATORSWINGLMR641XMF
 - Name: Regulator_Switching : LMR64010XMF
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/LMR64010XMF/
 - Description: Regulator_Switching : LMR64010XMF
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LMR64010XMF](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LMR64010XMF)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGLMR641XMF](http://oom.lt/SZKREGULATORSWINGLMR641XMF)

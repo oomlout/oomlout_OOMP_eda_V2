@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-TO92-OVAL
 - Hex ID: FZATO92OVAL
 - Name: adafruit : TO92-OVAL
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/TO92-OVAL/
 - Description: adafruit : TO92-OVAL
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-TO92-OVAL](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-TO92-OVAL)
 - Short Link: [http://oom.lt/FZATO92OVAL](http://oom.lt/FZATO92OVAL)

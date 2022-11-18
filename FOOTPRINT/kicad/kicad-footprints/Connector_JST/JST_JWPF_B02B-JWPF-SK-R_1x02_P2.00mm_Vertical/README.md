@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_JWPF_B02B-JWPF-SK-R_1x02_P2.00mm_Vertical
 - Hex ID: FZKCNJSTJSTJWPFB2BJWPFSKR1X2P2F
 - Name: Connector_JST : JST_JWPF_B02B-JWPF-SK-R_1x02_P2.00mm_Vertical
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_JWPF_B02B-JWPF-SK-R_1x02_P2.00mm_Vertical/
 - Description: Connector_JST : JST_JWPF_B02B-JWPF-SK-R_1x02_P2.00mm_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_JWPF_B02B-JWPF-SK-R_1x02_P2.00mm_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_JWPF_B02B-JWPF-SK-R_1x02_P2.00mm_Vertical)
 - Short Link: [http://oom.lt/FZKCNJSTJSTJWPFB2BJWPFSKR1X2P2F](http://oom.lt/FZKCNJSTJSTJWPFB2BJWPFSKR1X2P2F)

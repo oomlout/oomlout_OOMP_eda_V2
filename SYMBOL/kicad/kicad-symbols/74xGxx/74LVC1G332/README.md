@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-74xGxx-74LVC1G332
 - Hex ID: SZK74XGXX74LVC1G332
 - Name: 74xGxx : 74LVC1G332
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/74xGxx/74LVC1G332/
 - Description: 74xGxx : 74LVC1G332
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-74xGxx-74LVC1G332](http://oom.lt/SYMBOL-kicad-kicad-symbols-74xGxx-74LVC1G332)
 - Short Link: [http://oom.lt/SZK74XGXX74LVC1G332](http://oom.lt/SZK74XGXX74LVC1G332)

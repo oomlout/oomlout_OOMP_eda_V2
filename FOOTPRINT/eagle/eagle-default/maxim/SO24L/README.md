@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-maxim-SO24L
 - Hex ID: FZEMAXIMSO24L
 - Name: maxim : SO24L
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/maxim/SO24L/
 - Description: maxim : SO24L
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-maxim-SO24L](http://oom.lt/FOOTPRINT-eagle-eagle-default-maxim-SO24L)
 - Short Link: [http://oom.lt/FZEMAXIMSO24L](http://oom.lt/FZEMAXIMSO24L)

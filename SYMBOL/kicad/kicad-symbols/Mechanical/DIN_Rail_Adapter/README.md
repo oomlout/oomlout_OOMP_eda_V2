@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Mechanical-DIN_Rail_Adapter
 - Hex ID: SZKMECHANICALDINRAILADAPTER
 - Name: Mechanical : DIN_Rail_Adapter
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Mechanical/DIN_Rail_Adapter/
 - Description: Mechanical : DIN_Rail_Adapter
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Mechanical-DIN_Rail_Adapter](http://oom.lt/SYMBOL-kicad-kicad-symbols-Mechanical-DIN_Rail_Adapter)
 - Short Link: [http://oom.lt/SZKMECHANICALDINRAILADAPTER](http://oom.lt/SZKMECHANICALDINRAILADAPTER)

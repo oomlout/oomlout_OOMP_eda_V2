@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Battery_Management-LTC4060EDHC
 - Hex ID: SZKBATMANAGEMENTLTC46EDHC
 - Name: Battery_Management : LTC4060EDHC
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Battery_Management/LTC4060EDHC/
 - Description: Battery_Management : LTC4060EDHC
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Battery_Management-LTC4060EDHC](http://oom.lt/SYMBOL-kicad-kicad-symbols-Battery_Management-LTC4060EDHC)
 - Short Link: [http://oom.lt/SZKBATMANAGEMENTLTC46EDHC](http://oom.lt/SZKBATMANAGEMENTLTC46EDHC)

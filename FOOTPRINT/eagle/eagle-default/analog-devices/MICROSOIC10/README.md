@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-analog-devices-MICROSOIC10
 - Hex ID: FZEANALOGDEVICESMSOIC1
 - Name: analog-devices : MICROSOIC10
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/analog-devices/MICROSOIC10/
 - Description: analog-devices : MICROSOIC10
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-analog-devices-MICROSOIC10](http://oom.lt/FOOTPRINT-eagle-eagle-default-analog-devices-MICROSOIC10)
 - Short Link: [http://oom.lt/FZEANALOGDEVICESMSOIC1](http://oom.lt/FZEANALOGDEVICESMSOIC1)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-RC4558
 - Hex ID: SZKAMPLIFIEROPERATIONALRC4558
 - Name: Amplifier_Operational : RC4558
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/RC4558/
 - Description: Amplifier_Operational : RC4558
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-RC4558](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-RC4558)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALRC4558](http://oom.lt/SZKAMPLIFIEROPERATIONALRC4558)

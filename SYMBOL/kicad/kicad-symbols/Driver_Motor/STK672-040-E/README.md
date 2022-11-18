@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Driver_Motor-STK672-040-E
 - Hex ID: SZKDRIVERMOTORSTK6724E
 - Name: Driver_Motor : STK672-040-E
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Driver_Motor/STK672-040-E/
 - Description: Driver_Motor : STK672-040-E
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_Motor-STK672-040-E](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_Motor-STK672-040-E)
 - Short Link: [http://oom.lt/SZKDRIVERMOTORSTK6724E](http://oom.lt/SZKDRIVERMOTORSTK6724E)

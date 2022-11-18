@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEREFPACKAGES3DQFP4P226X226X27176 > ref-packages-3d : QFP40P2260X2260X270-176](#fzerefpackages3dqfp4p226x226x27176--ref-packages-3d--qfp40p2260x2260x270-176)
+* [FZEREFPS3DQFP4P226X226X27176 > ref-packages-3d : QFP40P2260X2260X270-176](#fzerefps3dqfp4p226x226x27176--ref-packages-3d--qfp40p2260x2260x270-176)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEREFPACKAGES3DQFP4P226X226X27176 > ref-packages-3d : QFP40P2260X2260X270-176
+# FZEREFPS3DQFP4P226X226X27176 > ref-packages-3d : QFP40P2260X2260X270-176
 
 - ID: FOOTPRINT-eagle-eagle-default-ref-packages-3d-QFP40P2260X2260X270-176
-- Hex ID: FZEREFPACKAGES3DQFP4P226X226X27176
+- Hex ID: FZEREFPS3DQFP4P226X226X27176
 - Name: ref-packages-3d : QFP40P2260X2260X270-176
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ref-packages-3d/QFP40P2260X2260X270-176/
 - Description: ref-packages-3d : QFP40P2260X2260X270-176
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-3d-QFP40P2260X2260X270-176](http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-3d-QFP40P2260X2260X270-176)
-- Short Link: [http://oom.lt/FZEREFPACKAGES3DQFP4P226X226X27176](http://oom.lt/FZEREFPACKAGES3DQFP4P226X226X27176)
+- Short Link: [http://oom.lt/FZEREFPS3DQFP4P226X226X27176](http://oom.lt/FZEREFPS3DQFP4P226X226X27176)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|ref-packages-3d|
 |OOMP Index|oompIndex|QFP40P2260X2260X270-176|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-ref-packages-3d-QFP40P2260X2260X270-176|
-|Hex ID (short code)|hexID|FZEREFPACKAGES3DQFP4P226X226X27176|
+|Hex ID (short code)|hexID|FZEREFPS3DQFP4P226X226X27176|
 |name|name|ref-packages-3d : QFP40P2260X2260X270-176|
 ||||

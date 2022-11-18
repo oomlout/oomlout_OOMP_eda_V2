@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-uA7812
 - Hex ID: SZKREGULATORLINEARUA7812
 - Name: Regulator_Linear : uA7812
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/uA7812/
 - Description: Regulator_Linear : uA7812
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-uA7812](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-uA7812)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARUA7812](http://oom.lt/SZKREGULATORLINEARUA7812)

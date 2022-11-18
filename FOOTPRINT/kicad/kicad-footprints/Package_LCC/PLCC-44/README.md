@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_LCC-PLCC-44
 - Hex ID: FZKLCCPLCC44
 - Name: Package_LCC : PLCC-44
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_LCC/PLCC-44/
 - Description: Package_LCC : PLCC-44
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_LCC-PLCC-44](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_LCC-PLCC-44)
 - Short Link: [http://oom.lt/FZKLCCPLCC44](http://oom.lt/FZKLCCPLCC44)

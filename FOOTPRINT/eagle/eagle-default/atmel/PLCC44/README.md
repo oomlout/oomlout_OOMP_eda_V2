@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-atmel-PLCC44
 - Hex ID: FZEATMELPLCC44
 - Name: atmel : PLCC44
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/atmel/PLCC44/
 - Description: atmel : PLCC44
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-atmel-PLCC44](http://oom.lt/FOOTPRINT-eagle-eagle-default-atmel-PLCC44)
 - Short Link: [http://oom.lt/FZEATMELPLCC44](http://oom.lt/FZEATMELPLCC44)

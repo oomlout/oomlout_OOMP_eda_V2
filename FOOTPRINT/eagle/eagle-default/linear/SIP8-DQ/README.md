@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-linear-SIP8-DQ
 - Hex ID: FZELINEARSIP8DQ
 - Name: linear : SIP8-DQ
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/linear/SIP8-DQ/
 - Description: linear : SIP8-DQ
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-linear-SIP8-DQ](http://oom.lt/FOOTPRINT-eagle-eagle-default-linear-SIP8-DQ)
 - Short Link: [http://oom.lt/FZELINEARSIP8DQ](http://oom.lt/FZELINEARSIP8DQ)

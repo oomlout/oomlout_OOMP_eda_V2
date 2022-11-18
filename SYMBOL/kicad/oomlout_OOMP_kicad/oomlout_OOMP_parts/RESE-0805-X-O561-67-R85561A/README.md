@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0805-X-O561-67-R85561A
 - Hex ID: SZOOMPKOOMPPRESE85XO56167R85561A
 - Name: oomlout_OOMP_parts : RESE-0805-X-O561-67-R85561A
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/RESE-0805-X-O561-67-R85561A/
 - Description: oomlout_OOMP_parts : RESE-0805-X-O561-67-R85561A
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0805-X-O561-67-R85561A](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0805-X-O561-67-R85561A)
 - Short Link: [http://oom.lt/SZOOMPKOOMPPRESE85XO56167R85561A](http://oom.lt/SZOOMPKOOMPPRESE85XO56167R85561A)

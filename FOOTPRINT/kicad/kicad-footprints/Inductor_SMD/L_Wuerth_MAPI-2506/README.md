@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Wuerth_MAPI-2506
 - Hex ID: FZKINLWUERTHMAPI256
 - Name: Inductor_SMD : L_Wuerth_MAPI-2506
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Wuerth_MAPI-2506/
 - Description: Inductor_SMD : L_Wuerth_MAPI-2506
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Wuerth_MAPI-2506](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Wuerth_MAPI-2506)
 - Short Link: [http://oom.lt/FZKINLWUERTHMAPI256](http://oom.lt/FZKINLWUERTHMAPI256)

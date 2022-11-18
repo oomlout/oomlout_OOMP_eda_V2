@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SC-59
 - Hex ID: FZKSOTSC59
 - Name: Package_TO_SOT_SMD : SC-59
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/SC-59/
 - Description: Package_TO_SOT_SMD : SC-59
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SC-59](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SC-59)
 - Short Link: [http://oom.lt/FZKSOTSC59](http://oom.lt/FZKSOTSC59)

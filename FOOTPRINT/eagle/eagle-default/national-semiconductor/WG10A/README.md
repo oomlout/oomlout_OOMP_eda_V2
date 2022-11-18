@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-national-semiconductor-WG10A
 - Hex ID: FZENATIONALSEMICONDUCTORWG1A
 - Name: national-semiconductor : WG10A
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/national-semiconductor/WG10A/
 - Description: national-semiconductor : WG10A
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-national-semiconductor-WG10A](http://oom.lt/FOOTPRINT-eagle-eagle-default-national-semiconductor-WG10A)
 - Short Link: [http://oom.lt/FZENATIONALSEMICONDUCTORWG1A](http://oom.lt/FZENATIONALSEMICONDUCTORWG1A)

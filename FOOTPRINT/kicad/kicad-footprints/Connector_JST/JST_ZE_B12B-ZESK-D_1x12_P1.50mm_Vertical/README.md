@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_ZE_B12B-ZESK-D_1x12_P1.50mm_Vertical
 - Hex ID: FZKCNJSTJSTZEB12BZESKD1X12P15F
 - Name: Connector_JST : JST_ZE_B12B-ZESK-D_1x12_P1.50mm_Vertical
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_ZE_B12B-ZESK-D_1x12_P1.50mm_Vertical/
 - Description: Connector_JST : JST_ZE_B12B-ZESK-D_1x12_P1.50mm_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_ZE_B12B-ZESK-D_1x12_P1.50mm_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_ZE_B12B-ZESK-D_1x12_P1.50mm_Vertical)
 - Short Link: [http://oom.lt/FZKCNJSTJSTZEB12BZESKD1X12P15F](http://oom.lt/FZKCNJSTJSTZEB12BZESKD1X12P15F)

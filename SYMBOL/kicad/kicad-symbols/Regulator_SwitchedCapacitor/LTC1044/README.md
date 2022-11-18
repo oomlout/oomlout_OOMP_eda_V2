@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_SwitchedCapacitor-LTC1044
 - Hex ID: SZKREGULATORSWEDCAPACITORLTC144
 - Name: Regulator_SwitchedCapacitor : LTC1044
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_SwitchedCapacitor/LTC1044/
 - Description: Regulator_SwitchedCapacitor : LTC1044
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_SwitchedCapacitor-LTC1044](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_SwitchedCapacitor-LTC1044)
 - Short Link: [http://oom.lt/SZKREGULATORSWEDCAPACITORLTC144](http://oom.lt/SZKREGULATORSWEDCAPACITORLTC144)

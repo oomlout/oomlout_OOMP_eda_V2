@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-led-LED_ON
 - Hex ID: FZELLON
 - Name: led : LED_ON
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/led/LED_ON/
 - Description: led : LED_ON
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-led-LED_ON](http://oom.lt/FOOTPRINT-eagle-eagle-default-led-LED_ON)
 - Short Link: [http://oom.lt/FZELLON](http://oom.lt/FZELLON)

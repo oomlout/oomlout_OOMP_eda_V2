@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode_Bridge-MBL110S
 - Hex ID: SZKDIODEBRIDGEMBL11S
 - Name: Diode_Bridge : MBL110S
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode_Bridge/MBL110S/
 - Description: Diode_Bridge : MBL110S
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode_Bridge-MBL110S](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode_Bridge-MBL110S)
 - Short Link: [http://oom.lt/SZKDIODEBRIDGEMBL11S](http://oom.lt/SZKDIODEBRIDGEMBL11S)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Capacitor_THT-C_Disc_D5.1mm_W3.2mm_P5.00mm
 - Hex ID: FZKCCDISCD51W32P5
 - Name: Capacitor_THT : C_Disc_D5.1mm_W3.2mm_P5.00mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Capacitor_THT/C_Disc_D5.1mm_W3.2mm_P5.00mm/
 - Description: Capacitor_THT : C_Disc_D5.1mm_W3.2mm_P5.00mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_THT-C_Disc_D5.1mm_W3.2mm_P5.00mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_THT-C_Disc_D5.1mm_W3.2mm_P5.00mm)
 - Short Link: [http://oom.lt/FZKCCDISCD51W32P5](http://oom.lt/FZKCCDISCD51W32P5)

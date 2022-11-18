@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-oomlout_OOMP_kicad-oobbOutlines-OOBB-03-03
 - Hex ID: FZOOMPKOOBBOOBB33
 - Name: oobbOutlines : OOBB-03-03
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/oomlout_OOMP_kicad/oobbOutlines/OOBB-03-03/
 - Description: oobbOutlines : OOBB-03-03
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oobbOutlines-OOBB-03-03](http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oobbOutlines-OOBB-03-03)
 - Short Link: [http://oom.lt/FZOOMPKOOBBOOBB33](http://oom.lt/FZOOMPKOOBBOOBB33)

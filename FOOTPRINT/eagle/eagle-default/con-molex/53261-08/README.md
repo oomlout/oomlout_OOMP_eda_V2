@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-molex-53261-08
 - Hex ID: FZECONMX532618
 - Name: con-molex : 53261-08
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-molex/53261-08/
 - Description: con-molex : 53261-08
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-molex-53261-08](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-molex-53261-08)
 - Short Link: [http://oom.lt/FZECONMX532618](http://oom.lt/FZECONMX532618)

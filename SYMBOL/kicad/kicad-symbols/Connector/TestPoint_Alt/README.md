@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Connector-TestPoint_Alt
 - Hex ID: SZKCNTPALT
 - Name: Connector : TestPoint_Alt
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector/TestPoint_Alt/
 - Description: Connector : TestPoint_Alt
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-TestPoint_Alt](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-TestPoint_Alt)
 - Short Link: [http://oom.lt/SZKCNTPALT](http://oom.lt/SZKCNTPALT)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_Coaxial-SMA_Wurth_60312002114503_Vertical
 - Hex ID: FZKCNCOASWURTH6312211453F
 - Name: Connector_Coaxial : SMA_Wurth_60312002114503_Vertical
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Coaxial/SMA_Wurth_60312002114503_Vertical/
 - Description: Connector_Coaxial : SMA_Wurth_60312002114503_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Coaxial-SMA_Wurth_60312002114503_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Coaxial-SMA_Wurth_60312002114503_Vertical)
 - Short Link: [http://oom.lt/FZKCNCOASWURTH6312211453F](http://oom.lt/FZKCNCOASWURTH6312211453F)

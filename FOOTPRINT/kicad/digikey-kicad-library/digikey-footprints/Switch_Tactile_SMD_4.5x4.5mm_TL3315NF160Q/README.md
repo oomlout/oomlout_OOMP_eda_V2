@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Switch_Tactile_SMD_4.5x4.5mm_TL3315NF160Q
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSSWTSM45X45TL3315NF16Q
 - Name: digikey-footprints : Switch_Tactile_SMD_4.5x4.5mm_TL3315NF160Q
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Switch_Tactile_SMD_4.5x4.5mm_TL3315NF160Q/
 - Description: digikey-footprints : Switch_Tactile_SMD_4.5x4.5mm_TL3315NF160Q
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Switch_Tactile_SMD_4.5x4.5mm_TL3315NF160Q](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Switch_Tactile_SMD_4.5x4.5mm_TL3315NF160Q)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSSWTSM45X45TL3315NF16Q](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSSWTSM45X45TL3315NF16Q)

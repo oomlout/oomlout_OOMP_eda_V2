@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_SO-Diodes_SO-8EP
 - Hex ID: FZKSODIODESSO8EP
 - Name: Package_SO : Diodes_SO-8EP
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SO/Diodes_SO-8EP/
 - Description: Package_SO : Diodes_SO-8EP
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SO-Diodes_SO-8EP](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SO-Diodes_SO-8EP)
 - Short Link: [http://oom.lt/FZKSODIODESSO8EP](http://oom.lt/FZKSODIODESSO8EP)

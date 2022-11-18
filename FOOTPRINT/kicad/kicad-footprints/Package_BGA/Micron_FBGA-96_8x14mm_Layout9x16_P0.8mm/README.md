@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_BGA-Micron_FBGA-96_8x14mm_Layout9x16_P0.8mm
 - Hex ID: FZKBGAMNFBGA968X14LAYOUT9X16P8
 - Name: Package_BGA : Micron_FBGA-96_8x14mm_Layout9x16_P0.8mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_BGA/Micron_FBGA-96_8x14mm_Layout9x16_P0.8mm/
 - Description: Package_BGA : Micron_FBGA-96_8x14mm_Layout9x16_P0.8mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_BGA-Micron_FBGA-96_8x14mm_Layout9x16_P0.8mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_BGA-Micron_FBGA-96_8x14mm_Layout9x16_P0.8mm)
 - Short Link: [http://oom.lt/FZKBGAMNFBGA968X14LAYOUT9X16P8](http://oom.lt/FZKBGAMNFBGA968X14LAYOUT9X16P8)

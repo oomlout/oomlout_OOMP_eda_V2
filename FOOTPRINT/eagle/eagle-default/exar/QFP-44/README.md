@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-exar-QFP-44
 - Hex ID: FZEEXARQFP44
 - Name: exar : QFP-44
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/exar/QFP-44/
 - Description: exar : QFP-44
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-exar-QFP-44](http://oom.lt/FOOTPRINT-eagle-eagle-default-exar-QFP-44)
 - Short Link: [http://oom.lt/FZEEXARQFP44](http://oom.lt/FZEEXARQFP44)

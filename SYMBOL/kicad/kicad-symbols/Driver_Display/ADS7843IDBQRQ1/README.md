@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Driver_Display-ADS7843IDBQRQ1
 - Hex ID: SZKDRIVERDIADS7843IDBQRQ1
 - Name: Driver_Display : ADS7843IDBQRQ1
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Driver_Display/ADS7843IDBQRQ1/
 - Description: Driver_Display : ADS7843IDBQRQ1
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_Display-ADS7843IDBQRQ1](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_Display-ADS7843IDBQRQ1)
 - Short Link: [http://oom.lt/SZKDRIVERDIADS7843IDBQRQ1](http://oom.lt/SZKDRIVERDIADS7843IDBQRQ1)

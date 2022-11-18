@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-LT3439
 - Hex ID: SZKREGULATORSWINGLT3439
 - Name: Regulator_Switching : LT3439
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/LT3439/
 - Description: Regulator_Switching : LT3439
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LT3439](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LT3439)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGLT3439](http://oom.lt/SZKREGULATORSWINGLT3439)

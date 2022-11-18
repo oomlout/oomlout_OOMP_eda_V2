@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEREFPACKAGESLONGPADH3B > ref-packages-longpad : H03B](#fzerefpackageslongpadh3b--ref-packages-longpad--h03b)
+* [FZEREFPSLPH3B > ref-packages-longpad : H03B](#fzerefpslph3b--ref-packages-longpad--h03b)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEREFPACKAGESLONGPADH3B > ref-packages-longpad : H03B
+# FZEREFPSLPH3B > ref-packages-longpad : H03B
 
 - ID: FOOTPRINT-eagle-eagle-default-ref-packages-longpad-H03B
-- Hex ID: FZEREFPACKAGESLONGPADH3B
+- Hex ID: FZEREFPSLPH3B
 - Name: ref-packages-longpad : H03B
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ref-packages-longpad/H03B/
 - Description: ref-packages-longpad : H03B
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-longpad-H03B](http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-longpad-H03B)
-- Short Link: [http://oom.lt/FZEREFPACKAGESLONGPADH3B](http://oom.lt/FZEREFPACKAGESLONGPADH3B)
+- Short Link: [http://oom.lt/FZEREFPSLPH3B](http://oom.lt/FZEREFPSLPH3B)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|ref-packages-longpad|
 |OOMP Index|oompIndex|H03B|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-ref-packages-longpad-H03B|
-|Hex ID (short code)|hexID|FZEREFPACKAGESLONGPADH3B|
+|Hex ID (short code)|hexID|FZEREFPSLPH3B|
 |name|name|ref-packages-longpad : H03B|
 ||||

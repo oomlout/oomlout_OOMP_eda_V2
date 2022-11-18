@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O244-01-R6O244
 - Hex ID: SZOOMPKOOMPPRESE63XO2441R6O244
 - Name: oomlout_OOMP_parts : RESE-0603-X-O244-01-R6O244
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/RESE-0603-X-O244-01-R6O244/
 - Description: oomlout_OOMP_parts : RESE-0603-X-O244-01-R6O244
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O244-01-R6O244](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O244-01-R6O244)
 - Short Link: [http://oom.lt/SZOOMPKOOMPPRESE63XO2441R6O244](http://oom.lt/SZOOMPKOOMPPRESE63XO2441R6O244)

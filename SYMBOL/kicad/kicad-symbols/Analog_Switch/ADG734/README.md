@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Analog_Switch-ADG734
 - Hex ID: SZKANALOGSWADG734
 - Name: Analog_Switch : ADG734
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog_Switch/ADG734/
 - Description: Analog_Switch : ADG734
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_Switch-ADG734](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_Switch-ADG734)
 - Short Link: [http://oom.lt/SZKANALOGSWADG734](http://oom.lt/SZKANALOGSWADG734)

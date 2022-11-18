@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-dc-dc-converter-8DIL-6
 - Hex ID: FZEDCDCCONVERTER8DIL6
 - Name: dc-dc-converter : 8DIL-6
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/dc-dc-converter/8DIL-6/
 - Description: dc-dc-converter : 8DIL-6
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-dc-dc-converter-8DIL-6](http://oom.lt/FOOTPRINT-eagle-eagle-default-dc-dc-converter-8DIL-6)
 - Short Link: [http://oom.lt/FZEDCDCCONVERTER8DIL6](http://oom.lt/FZEDCDCCONVERTER8DIL6)

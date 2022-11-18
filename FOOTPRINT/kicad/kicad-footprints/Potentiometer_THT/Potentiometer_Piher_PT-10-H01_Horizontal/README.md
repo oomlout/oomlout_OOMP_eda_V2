@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Potentiometer_THT-Potentiometer_Piher_PT-10-H01_Horizontal
 - Hex ID: FZKPPOTPIHERPT1H1H
 - Name: Potentiometer_THT : Potentiometer_Piher_PT-10-H01_Horizontal
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Potentiometer_THT/Potentiometer_Piher_PT-10-H01_Horizontal/
 - Description: Potentiometer_THT : Potentiometer_Piher_PT-10-H01_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Potentiometer_THT-Potentiometer_Piher_PT-10-H01_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Potentiometer_THT-Potentiometer_Piher_PT-10-H01_Horizontal)
 - Short Link: [http://oom.lt/FZKPPOTPIHERPT1H1H](http://oom.lt/FZKPPOTPIHERPT1H1H)

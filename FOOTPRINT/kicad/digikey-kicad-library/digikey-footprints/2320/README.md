@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-2320
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTS232
 - Name: digikey-footprints : 2320
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/2320/
 - Description: digikey-footprints : 2320
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-2320](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-2320)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTS232](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTS232)

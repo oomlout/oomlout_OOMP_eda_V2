@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-rcl-TFI0410
 - Hex ID: FZERCLTFI41
 - Name: rcl : TFI0410
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/rcl/TFI0410/
 - Description: rcl : TFI0410
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-TFI0410](http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-TFI0410)
 - Short Link: [http://oom.lt/FZERCLTFI41](http://oom.lt/FZERCLTFI41)

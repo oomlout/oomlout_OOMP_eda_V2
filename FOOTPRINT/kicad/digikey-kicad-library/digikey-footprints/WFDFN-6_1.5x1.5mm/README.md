@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-WFDFN-6_1.5x1.5mm
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSWFDFN615X15
 - Name: digikey-footprints : WFDFN-6_1.5x1.5mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/WFDFN-6_1.5x1.5mm/
 - Description: digikey-footprints : WFDFN-6_1.5x1.5mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-WFDFN-6_1.5x1.5mm](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-WFDFN-6_1.5x1.5mm)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSWFDFN615X15](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSWFDFN615X15)

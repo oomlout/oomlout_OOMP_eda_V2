@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-LM5165X
 - Hex ID: SZKREGULATORSWINGLM5165X
 - Name: Regulator_Switching : LM5165X
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/LM5165X/
 - Description: Regulator_Switching : LM5165X
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LM5165X](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LM5165X)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGLM5165X](http://oom.lt/SZKREGULATORSWINGLM5165X)

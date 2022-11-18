@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-1X04_1.27MM
 - Hex ID: FZSSPARKFUNCNS1X4127
 - Name: SparkFun-Connectors : 1X04_1.27MM
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Connectors/1X04_1.27MM/
 - Description: SparkFun-Connectors : 1X04_1.27MM
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-1X04_1.27MM](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-1X04_1.27MM)
 - Short Link: [http://oom.lt/FZSSPARKFUNCNS1X4127](http://oom.lt/FZSSPARKFUNCNS1X4127)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-jae-FI-XB30SSLA-HF15
 - Hex ID: FZECONJAEFIXB3SSLAHF15
 - Name: con-jae : FI-XB30SSLA-HF15
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-jae/FI-XB30SSLA-HF15/
 - Description: con-jae : FI-XB30SSLA-HF15
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-jae-FI-XB30SSLA-HF15](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-jae-FI-XB30SSLA-HF15)
 - Short Link: [http://oom.lt/FZECONJAEFIXB3SSLAHF15](http://oom.lt/FZECONJAEFIXB3SSLAHF15)

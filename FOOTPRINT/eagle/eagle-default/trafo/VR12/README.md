@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-trafo-VR12
 - Hex ID: FZETRAFOVR12
 - Name: trafo : VR12
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/trafo/VR12/
 - Description: trafo : VR12
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-trafo-VR12](http://oom.lt/FOOTPRINT-eagle-eagle-default-trafo-VR12)
 - Short Link: [http://oom.lt/FZETRAFOVR12](http://oom.lt/FZETRAFOVR12)

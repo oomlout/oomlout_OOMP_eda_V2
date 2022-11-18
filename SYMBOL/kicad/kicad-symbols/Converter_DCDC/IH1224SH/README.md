@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Converter_DCDC-IH1224SH
 - Hex ID: SZKCONIH1224SH
 - Name: Converter_DCDC : IH1224SH
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Converter_DCDC/IH1224SH/
 - Description: Converter_DCDC : IH1224SH
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-IH1224SH](http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-IH1224SH)
 - Short Link: [http://oom.lt/SZKCONIH1224SH](http://oom.lt/SZKCONIH1224SH)

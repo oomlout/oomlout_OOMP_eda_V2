@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-AD8603
 - Hex ID: SZKAMPLIFIEROPERATIONALAD863
 - Name: Amplifier_Operational : AD8603
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/AD8603/
 - Description: Amplifier_Operational : AD8603
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-AD8603](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-AD8603)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALAD863](http://oom.lt/SZKAMPLIFIEROPERATIONALAD863)

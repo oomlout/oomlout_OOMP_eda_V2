@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Power_Management-MAX8586
 - Hex ID: SZKPOWERMANAGEMENTMAX8586
 - Name: Power_Management : MAX8586
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Power_Management/MAX8586/
 - Description: Power_Management : MAX8586
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-MAX8586](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-MAX8586)
 - Short Link: [http://oom.lt/SZKPOWERMANAGEMENTMAX8586](http://oom.lt/SZKPOWERMANAGEMENTMAX8586)

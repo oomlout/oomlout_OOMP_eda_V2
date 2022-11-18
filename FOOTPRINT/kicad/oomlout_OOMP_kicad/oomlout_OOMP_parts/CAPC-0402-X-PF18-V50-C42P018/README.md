@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0402-X-PF18-V50-C42P018
 - Hex ID: FZOOMPKOOMPPCAPC42XPF18V5C42P18
 - Name: oomlout_OOMP_parts : CAPC-0402-X-PF18-V50-C42P018
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/CAPC-0402-X-PF18-V50-C42P018/
 - Description: oomlout_OOMP_parts : CAPC-0402-X-PF18-V50-C42P018
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0402-X-PF18-V50-C42P018](http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0402-X-PF18-V50-C42P018)
 - Short Link: [http://oom.lt/FZOOMPKOOMPPCAPC42XPF18V5C42P18](http://oom.lt/FZOOMPKOOMPPCAPC42XPF18V5C42P18)

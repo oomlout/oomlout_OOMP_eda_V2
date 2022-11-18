@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-UF5400
 - Hex ID: SZKDIODEUF54
 - Name: Diode : UF5400
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/UF5400/
 - Description: Diode : UF5400
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-UF5400](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-UF5400)
 - Short Link: [http://oom.lt/SZKDIODEUF54](http://oom.lt/SZKDIODEUF54)

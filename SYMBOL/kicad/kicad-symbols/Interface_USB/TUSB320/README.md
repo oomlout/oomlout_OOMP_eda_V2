@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_USB-TUSB320
 - Hex ID: SZKINTERFACEUTU32
 - Name: Interface_USB : TUSB320
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_USB/TUSB320/
 - Description: Interface_USB : TUSB320
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_USB-TUSB320](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_USB-TUSB320)
 - Short Link: [http://oom.lt/SZKINTERFACEUTU32](http://oom.lt/SZKINTERFACEUTU32)

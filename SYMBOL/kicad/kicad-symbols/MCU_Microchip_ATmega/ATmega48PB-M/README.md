@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega48PB-M
 - Hex ID: SZKMCUMCHIPATMEGAATMEGA48PBM
 - Name: MCU_Microchip_ATmega : ATmega48PB-M
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_ATmega/ATmega48PB-M/
 - Description: MCU_Microchip_ATmega : ATmega48PB-M
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega48PB-M](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega48PB-M)
 - Short Link: [http://oom.lt/SZKMCUMCHIPATMEGAATMEGA48PBM](http://oom.lt/SZKMCUMCHIPATMEGAATMEGA48PBM)

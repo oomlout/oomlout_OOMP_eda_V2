@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Transformer_SMD-Transformer_NF_ETAL_P3000
 - Hex ID: FZKTRTRNFETALP3
 - Name: Transformer_SMD : Transformer_NF_ETAL_P3000
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Transformer_SMD/Transformer_NF_ETAL_P3000/
 - Description: Transformer_SMD : Transformer_NF_ETAL_P3000
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Transformer_SMD-Transformer_NF_ETAL_P3000](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Transformer_SMD-Transformer_NF_ETAL_P3000)
 - Short Link: [http://oom.lt/FZKTRTRNFETALP3](http://oom.lt/FZKTRTRNFETALP3)

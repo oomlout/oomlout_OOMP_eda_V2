@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Converter_DCDC-TPSM53603RDA
 - Hex ID: SZKCONTPSM5363RDA
 - Name: Converter_DCDC : TPSM53603RDA
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Converter_DCDC/TPSM53603RDA/
 - Description: Converter_DCDC : TPSM53603RDA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-TPSM53603RDA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-TPSM53603RDA)
 - Short Link: [http://oom.lt/SZKCONTPSM5363RDA](http://oom.lt/SZKCONTPSM5363RDA)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_SON-WSON-6-1EP_3x3mm_P0.95mm
 - Hex ID: FZKSONWSON61EP3X3P95
 - Name: Package_SON : WSON-6-1EP_3x3mm_P0.95mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SON/WSON-6-1EP_3x3mm_P0.95mm/
 - Description: Package_SON : WSON-6-1EP_3x3mm_P0.95mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SON-WSON-6-1EP_3x3mm_P0.95mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SON-WSON-6-1EP_3x3mm_P0.95mm)
 - Short Link: [http://oom.lt/FZKSONWSON61EP3X3P95](http://oom.lt/FZKSONWSON61EP3X3P95)

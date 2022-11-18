@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_SiliconLabs-EFM8UB31F40G-A-QSOP24
 - Hex ID: SZKMCUSILICONLABSEFM8UB31F4GAQS24
 - Name: MCU_SiliconLabs : EFM8UB31F40G-A-QSOP24
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_SiliconLabs/EFM8UB31F40G-A-QSOP24/
 - Description: MCU_SiliconLabs : EFM8UB31F40G-A-QSOP24
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_SiliconLabs-EFM8UB31F40G-A-QSOP24](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_SiliconLabs-EFM8UB31F40G-A-QSOP24)
 - Short Link: [http://oom.lt/SZKMCUSILICONLABSEFM8UB31F4GAQS24](http://oom.lt/SZKMCUSILICONLABSEFM8UB31F4GAQS24)

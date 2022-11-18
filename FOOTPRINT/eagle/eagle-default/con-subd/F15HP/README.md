@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-subd-F15HP
 - Hex ID: FZECONSUBDF15HP
 - Name: con-subd : F15HP
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-subd/F15HP/
 - Description: con-subd : F15HP
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-subd-F15HP](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-subd-F15HP)
 - Short Link: [http://oom.lt/FZECONSUBDF15HP](http://oom.lt/FZECONSUBDF15HP)

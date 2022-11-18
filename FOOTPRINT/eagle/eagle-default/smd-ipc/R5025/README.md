@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-smd-ipc-R5025
 - Hex ID: FZESMIPCR525
 - Name: smd-ipc : R5025
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/smd-ipc/R5025/
 - Description: smd-ipc : R5025
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-R5025](http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-R5025)
 - Short Link: [http://oom.lt/FZESMIPCR525](http://oom.lt/FZESMIPCR525)

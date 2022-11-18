@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC12-PIC12C509A-IP
 - Hex ID: SZKMCUMCHIPPIC12PIC12C59AIP
 - Name: MCU_Microchip_PIC12 : PIC12C509A-IP
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC12/PIC12C509A-IP/
 - Description: MCU_Microchip_PIC12 : PIC12C509A-IP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC12-PIC12C509A-IP](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC12-PIC12C509A-IP)
 - Short Link: [http://oom.lt/SZKMCUMCHIPPIC12PIC12C59AIP](http://oom.lt/SZKMCUMCHIPPIC12PIC12C59AIP)

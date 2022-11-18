@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_SUR_BM02B-SURS-TF_1x02-1MP_P0.80mm_Vertical
 - Hex ID: FZKCNJSTJSTSURBM2BSURSTF1X21MPP8F
 - Name: Connector_JST : JST_SUR_BM02B-SURS-TF_1x02-1MP_P0.80mm_Vertical
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_SUR_BM02B-SURS-TF_1x02-1MP_P0.80mm_Vertical/
 - Description: Connector_JST : JST_SUR_BM02B-SURS-TF_1x02-1MP_P0.80mm_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_SUR_BM02B-SURS-TF_1x02-1MP_P0.80mm_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_SUR_BM02B-SURS-TF_1x02-1MP_P0.80mm_Vertical)
 - Short Link: [http://oom.lt/FZKCNJSTJSTSURBM2BSURSTF1X21MPP8F](http://oom.lt/FZKCNJSTJSTSURBM2BSURSTF1X21MPP8F)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-TCO_5.5mm_Radial
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSTCO55R
 - Name: digikey-footprints : TCO_5.5mm_Radial
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/TCO_5.5mm_Radial/
 - Description: digikey-footprints : TCO_5.5mm_Radial
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-TCO_5.5mm_Radial](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-TCO_5.5mm_Radial)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSTCO55R](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSTCO55R)

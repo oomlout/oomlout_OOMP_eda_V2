@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-allegro-TSSOP16E
 - Hex ID: FZEALLEGROTSS16E
 - Name: allegro : TSSOP16E
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/allegro/TSSOP16E/
 - Description: allegro : TSSOP16E
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-allegro-TSSOP16E](http://oom.lt/FOOTPRINT-eagle-eagle-default-allegro-TSSOP16E)
 - Short Link: [http://oom.lt/FZEALLEGROTSS16E](http://oom.lt/FZEALLEGROTSS16E)

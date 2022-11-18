@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_LEA_SM02B-LEASS-TF_1x02-1MP_P4.20mm_Horizontal
 - Hex ID: FZKCNJSTJSTLEASM2BLEASSTF1X21MPP42H
 - Name: Connector_JST : JST_LEA_SM02B-LEASS-TF_1x02-1MP_P4.20mm_Horizontal
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_LEA_SM02B-LEASS-TF_1x02-1MP_P4.20mm_Horizontal/
 - Description: Connector_JST : JST_LEA_SM02B-LEASS-TF_1x02-1MP_P4.20mm_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_LEA_SM02B-LEASS-TF_1x02-1MP_P4.20mm_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_LEA_SM02B-LEASS-TF_1x02-1MP_P4.20mm_Horizontal)
 - Short Link: [http://oom.lt/FZKCNJSTJSTLEASM2BLEASSTF1X21MPP42H](http://oom.lt/FZKCNJSTJSTLEASM2BLEASSTF1X21MPP42H)

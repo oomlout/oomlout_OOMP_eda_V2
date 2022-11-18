@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Module-Sipeed-M1
 - Hex ID: FZKMOSIPEEDM1
 - Name: Module : Sipeed-M1
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Module/Sipeed-M1/
 - Description: Module : Sipeed-M1
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Module-Sipeed-M1](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Module-Sipeed-M1)
 - Short Link: [http://oom.lt/FZKMOSIPEEDM1](http://oom.lt/FZKMOSIPEEDM1)

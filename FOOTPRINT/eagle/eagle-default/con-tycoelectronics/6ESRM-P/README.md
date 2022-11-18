@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-tycoelectronics-6ESRM-P
 - Hex ID: FZECONTYCOELECTRONICS6ESRMP
 - Name: con-tycoelectronics : 6ESRM-P
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-tycoelectronics/6ESRM-P/
 - Description: con-tycoelectronics : 6ESRM-P
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-tycoelectronics-6ESRM-P](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-tycoelectronics-6ESRM-P)
 - Short Link: [http://oom.lt/FZECONTYCOELECTRONICS6ESRMP](http://oom.lt/FZECONTYCOELECTRONICS6ESRMP)

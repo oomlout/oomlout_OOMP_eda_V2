@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_SO-SOIC-4_4.55x3.7mm_P2.54mm
 - Hex ID: FZKSOSOIC4455X37P254
 - Name: Package_SO : SOIC-4_4.55x3.7mm_P2.54mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SO/SOIC-4_4.55x3.7mm_P2.54mm/
 - Description: Package_SO : SOIC-4_4.55x3.7mm_P2.54mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SO-SOIC-4_4.55x3.7mm_P2.54mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SO-SOIC-4_4.55x3.7mm_P2.54mm)
 - Short Link: [http://oom.lt/FZKSOSOIC4455X37P254](http://oom.lt/FZKSOSOIC4455X37P254)

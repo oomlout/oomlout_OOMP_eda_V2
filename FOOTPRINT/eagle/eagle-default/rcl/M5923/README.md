@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-rcl-M5923
 - Hex ID: FZERCLM5923
 - Name: rcl : M5923
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/rcl/M5923/
 - Description: rcl : M5923
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-M5923](http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-M5923)
 - Short Link: [http://oom.lt/FZERCLM5923](http://oom.lt/FZERCLM5923)

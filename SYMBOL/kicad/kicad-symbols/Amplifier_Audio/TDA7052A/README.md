@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Audio-TDA7052A
 - Hex ID: SZKAMPLIFIERAUDIOTDA752A
 - Name: Amplifier_Audio : TDA7052A
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Audio/TDA7052A/
 - Description: Amplifier_Audio : TDA7052A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Audio-TDA7052A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Audio-TDA7052A)
 - Short Link: [http://oom.lt/SZKAMPLIFIERAUDIOTDA752A](http://oom.lt/SZKAMPLIFIERAUDIOTDA752A)

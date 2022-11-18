@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-BAY93
 - Hex ID: SZKDIODEBAY93
 - Name: Diode : BAY93
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/BAY93/
 - Description: Diode : BAY93
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-BAY93](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-BAY93)
 - Short Link: [http://oom.lt/SZKDIODEBAY93](http://oom.lt/SZKDIODEBAY93)

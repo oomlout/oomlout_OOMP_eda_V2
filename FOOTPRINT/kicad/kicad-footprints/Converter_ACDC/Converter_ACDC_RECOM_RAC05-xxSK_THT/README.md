@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Converter_ACDC-Converter_ACDC_RECOM_RAC05-xxSK_THT
 - Hex ID: FZKCONCONRECOMRAC5XXSKTHT
 - Name: Converter_ACDC : Converter_ACDC_RECOM_RAC05-xxSK_THT
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Converter_ACDC/Converter_ACDC_RECOM_RAC05-xxSK_THT/
 - Description: Converter_ACDC : Converter_ACDC_RECOM_RAC05-xxSK_THT
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Converter_ACDC-Converter_ACDC_RECOM_RAC05-xxSK_THT](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Converter_ACDC-Converter_ACDC_RECOM_RAC05-xxSK_THT)
 - Short Link: [http://oom.lt/FZKCONCONRECOMRAC5XXSKTHT](http://oom.lt/FZKCONCONRECOMRAC5XXSKTHT)

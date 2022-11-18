@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_SO-VSSOP-8_2.4x2.1mm_P0.5mm
 - Hex ID: FZKSOVSS824X21P5
 - Name: Package_SO : VSSOP-8_2.4x2.1mm_P0.5mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SO/VSSOP-8_2.4x2.1mm_P0.5mm/
 - Description: Package_SO : VSSOP-8_2.4x2.1mm_P0.5mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SO-VSSOP-8_2.4x2.1mm_P0.5mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SO-VSSOP-8_2.4x2.1mm_P0.5mm)
 - Short Link: [http://oom.lt/FZKSOVSS824X21P5](http://oom.lt/FZKSOVSS824X21P5)

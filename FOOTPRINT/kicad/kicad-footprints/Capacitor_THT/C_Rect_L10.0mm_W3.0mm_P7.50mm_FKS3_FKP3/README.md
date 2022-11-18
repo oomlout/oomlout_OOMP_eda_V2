@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Capacitor_THT-C_Rect_L10.0mm_W3.0mm_P7.50mm_FKS3_FKP3
 - Hex ID: FZKCCRECTL1W3P75FKS3FKP3
 - Name: Capacitor_THT : C_Rect_L10.0mm_W3.0mm_P7.50mm_FKS3_FKP3
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Capacitor_THT/C_Rect_L10.0mm_W3.0mm_P7.50mm_FKS3_FKP3/
 - Description: Capacitor_THT : C_Rect_L10.0mm_W3.0mm_P7.50mm_FKS3_FKP3
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_THT-C_Rect_L10.0mm_W3.0mm_P7.50mm_FKS3_FKP3](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_THT-C_Rect_L10.0mm_W3.0mm_P7.50mm_FKS3_FKP3)
 - Short Link: [http://oom.lt/FZKCCRECTL1W3P75FKS3FKP3](http://oom.lt/FZKCCRECTL1W3P75FKS3FKP3)

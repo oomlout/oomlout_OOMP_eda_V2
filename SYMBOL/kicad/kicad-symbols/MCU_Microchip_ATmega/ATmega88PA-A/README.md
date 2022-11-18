@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega88PA-A
 - Hex ID: SZKMCUMCHIPATMEGAATMEGA88PAA
 - Name: MCU_Microchip_ATmega : ATmega88PA-A
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_ATmega/ATmega88PA-A/
 - Description: MCU_Microchip_ATmega : ATmega88PA-A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega88PA-A](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega88PA-A)
 - Short Link: [http://oom.lt/SZKMCUMCHIPATMEGAATMEGA88PAA](http://oom.lt/SZKMCUMCHIPATMEGAATMEGA88PAA)

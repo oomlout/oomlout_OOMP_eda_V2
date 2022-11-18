@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-WiFi_Module_MRF24WG0MA
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSWIFIMOMRF24WGMA
 - Name: digikey-footprints : WiFi_Module_MRF24WG0MA
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/WiFi_Module_MRF24WG0MA/
 - Description: digikey-footprints : WiFi_Module_MRF24WG0MA
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-WiFi_Module_MRF24WG0MA](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-WiFi_Module_MRF24WG0MA)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSWIFIMOMRF24WGMA](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSWIFIMOMRF24WGMA)

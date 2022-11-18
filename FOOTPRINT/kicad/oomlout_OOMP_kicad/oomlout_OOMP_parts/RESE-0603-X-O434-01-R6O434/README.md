@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O434-01-R6O434
 - Hex ID: FZOOMPKOOMPPRESE63XO4341R6O434
 - Name: oomlout_OOMP_parts : RESE-0603-X-O434-01-R6O434
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/RESE-0603-X-O434-01-R6O434/
 - Description: oomlout_OOMP_parts : RESE-0603-X-O434-01-R6O434
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O434-01-R6O434](http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O434-01-R6O434)
 - Short Link: [http://oom.lt/FZOOMPKOOMPPRESE63XO4341R6O434](http://oom.lt/FZOOMPKOOMPPRESE63XO4341R6O434)

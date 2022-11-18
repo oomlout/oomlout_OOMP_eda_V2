@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_FFC-FPC-TE_2-1734839-0_1x20-1MP_P0.5mm_Horizontal
 - Hex ID: FZKCNFFCFPCTE217348391X21MPP5H
 - Name: Connector_FFC-FPC : TE_2-1734839-0_1x20-1MP_P0.5mm_Horizontal
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_FFC-FPC/TE_2-1734839-0_1x20-1MP_P0.5mm_Horizontal/
 - Description: Connector_FFC-FPC : TE_2-1734839-0_1x20-1MP_P0.5mm_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_FFC-FPC-TE_2-1734839-0_1x20-1MP_P0.5mm_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_FFC-FPC-TE_2-1734839-0_1x20-1MP_P0.5mm_Horizontal)
 - Short Link: [http://oom.lt/FZKCNFFCFPCTE217348391X21MPP5H](http://oom.lt/FZKCNFFCFPCTE217348391X21MPP5H)

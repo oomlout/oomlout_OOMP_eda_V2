@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Buzzard-PWR
 - Hex ID: FZSBUPWR
 - Name: SparkFun-Buzzard : PWR
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Buzzard/PWR/
 - Description: SparkFun-Buzzard : PWR
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Buzzard-PWR](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Buzzard-PWR)
 - Short Link: [http://oom.lt/FZSBUPWR](http://oom.lt/FZSBUPWR)

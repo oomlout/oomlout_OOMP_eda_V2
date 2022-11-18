@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SC-74
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSSC74
 - Name: digikey-footprints : SC-74
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/SC-74/
 - Description: digikey-footprints : SC-74
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SC-74](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SC-74)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSSC74](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSSC74)

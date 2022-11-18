@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-4xxx_IEEE-4538
 - Hex ID: SZK4XXXIEEE4538
 - Name: 4xxx_IEEE : 4538
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/4xxx_IEEE/4538/
 - Description: 4xxx_IEEE : 4538
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-4xxx_IEEE-4538](http://oom.lt/SYMBOL-kicad-kicad-symbols-4xxx_IEEE-4538)
 - Short Link: [http://oom.lt/SZK4XXXIEEE4538](http://oom.lt/SZK4XXXIEEE4538)

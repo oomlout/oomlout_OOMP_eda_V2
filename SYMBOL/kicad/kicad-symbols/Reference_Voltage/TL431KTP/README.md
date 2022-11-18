@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Reference_Voltage-TL431KTP
 - Hex ID: SZKREFERENCEVOLTAGETL431KTP
 - Name: Reference_Voltage : TL431KTP
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Reference_Voltage/TL431KTP/
 - Description: Reference_Voltage : TL431KTP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Voltage-TL431KTP](http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Voltage-TL431KTP)
 - Short Link: [http://oom.lt/SZKREFERENCEVOLTAGETL431KTP](http://oom.lt/SZKREFERENCEVOLTAGETL431KTP)

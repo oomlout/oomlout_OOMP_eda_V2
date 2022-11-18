@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-resistor-power-CA4070
 - Hex ID: FZERESISTORPOWERCA47
 - Name: resistor-power : CA4070
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/resistor-power/CA4070/
 - Description: resistor-power : CA4070
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-resistor-power-CA4070](http://oom.lt/FOOTPRINT-eagle-eagle-default-resistor-power-CA4070)
 - Short Link: [http://oom.lt/FZERESISTORPOWERCA47](http://oom.lt/FZERESISTORPOWERCA47)

@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKCNPCBEDGESAMTECMECF62LDVWT2X6P127POLARIZEDSOH > Connector_PCBEdge : Samtec_MECF-60-02-L-DV-WT_2x60_P1.27mm_Polarized_Socket_Horizontal](#fzkcnpcbedgesamtecmecf62ldvwt2x6p127polarizedsoh--connector_pcbedge--samtec_mecf-60-02-l-dv-wt_2x60_p127mm_polarized_socket_horizontal)
+* [FZKCNPESAMTECMECF62LDVWT2X6P127PZSOH > Connector_PCBEdge : Samtec_MECF-60-02-L-DV-WT_2x60_P1.27mm_Polarized_Socket_Horizontal](#fzkcnpesamtecmecf62ldvwt2x6p127pzsoh--connector_pcbedge--samtec_mecf-60-02-l-dv-wt_2x60_p127mm_polarized_socket_horizontal)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKCNPCBEDGESAMTECMECF62LDVWT2X6P127POLARIZEDSOH > Connector_PCBEdge : Samtec_MECF-60-02-L-DV-WT_2x60_P1.27mm_Polarized_Socket_Horizontal
+# FZKCNPESAMTECMECF62LDVWT2X6P127PZSOH > Connector_PCBEdge : Samtec_MECF-60-02-L-DV-WT_2x60_P1.27mm_Polarized_Socket_Horizontal
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_PCBEdge-Samtec_MECF-60-02-L-DV-WT_2x60_P1.27mm_Polarized_Socket_Horizontal
-- Hex ID: FZKCNPCBEDGESAMTECMECF62LDVWT2X6P127POLARIZEDSOH
+- Hex ID: FZKCNPESAMTECMECF62LDVWT2X6P127PZSOH
 - Name: Connector_PCBEdge : Samtec_MECF-60-02-L-DV-WT_2x60_P1.27mm_Polarized_Socket_Horizontal
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_PCBEdge/Samtec_MECF-60-02-L-DV-WT_2x60_P1.27mm_Polarized_Socket_Horizontal/
 - Description: Connector_PCBEdge : Samtec_MECF-60-02-L-DV-WT_2x60_P1.27mm_Polarized_Socket_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_PCBEdge-Samtec_MECF-60-02-L-DV-WT_2x60_P1.27mm_Polarized_Socket_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_PCBEdge-Samtec_MECF-60-02-L-DV-WT_2x60_P1.27mm_Polarized_Socket_Horizontal)
-- Short Link: [http://oom.lt/FZKCNPCBEDGESAMTECMECF62LDVWT2X6P127POLARIZEDSOH](http://oom.lt/FZKCNPCBEDGESAMTECMECF62LDVWT2X6P127POLARIZEDSOH)
+- Short Link: [http://oom.lt/FZKCNPESAMTECMECF62LDVWT2X6P127PZSOH](http://oom.lt/FZKCNPESAMTECMECF62LDVWT2X6P127PZSOH)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Connector_PCBEdge|
 |OOMP Index|oompIndex|Samtec_MECF-60-02-L-DV-WT_2x60_P1.27mm_Polarized_Socket_Horizontal|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_PCBEdge-Samtec_MECF-60-02-L-DV-WT_2x60_P1.27mm_Polarized_Socket_Horizontal|
-|Hex ID (short code)|hexID|FZKCNPCBEDGESAMTECMECF62LDVWT2X6P127POLARIZEDSOH|
+|Hex ID (short code)|hexID|FZKCNPESAMTECMECF62LDVWT2X6P127PZSOH|
 |name|name|Connector_PCBEdge : Samtec_MECF-60-02-L-DV-WT_2x60_P1.27mm_Polarized_Socket_Horizontal|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Samtec_MECF-60-02-L-DV-WT_2x60_P1.27mm_Polarized_Socket_Horizontal'</td><td> 'description'</td></tr><tr><td> 'Highspeed card edge connector for 2.4mm PCBs with 60 contacts (polarized)'</td><td> 'tags'</td></tr><tr><td> 'conn samtec card-edge high-speed'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_PCBEdge.3dshapes/Samtec_MECF-60-02-L-DV-WT_2x60_P1.27mm_Polarized_Socket_Horizontal.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'np_thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||

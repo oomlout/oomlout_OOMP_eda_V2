@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-DIL08-ROUND
 - Hex ID: FZADIL8R
 - Name: adafruit : DIL08-ROUND
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/DIL08-ROUND/
 - Description: adafruit : DIL08-ROUND
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-DIL08-ROUND](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-DIL08-ROUND)
 - Short Link: [http://oom.lt/FZADIL8R](http://oom.lt/FZADIL8R)

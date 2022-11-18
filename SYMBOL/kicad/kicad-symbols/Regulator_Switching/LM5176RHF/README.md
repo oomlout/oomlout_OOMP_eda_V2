@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-LM5176RHF
 - Hex ID: SZKREGULATORSWINGLM5176RHF
 - Name: Regulator_Switching : LM5176RHF
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/LM5176RHF/
 - Description: Regulator_Switching : LM5176RHF
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LM5176RHF](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LM5176RHF)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGLM5176RHF](http://oom.lt/SZKREGULATORSWINGLM5176RHF)

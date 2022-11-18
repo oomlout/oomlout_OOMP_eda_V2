@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Audio-IRS20965S
 - Hex ID: SZKAMPLIFIERAUDIOIRS2965S
 - Name: Amplifier_Audio : IRS20965S
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Audio/IRS20965S/
 - Description: Amplifier_Audio : IRS20965S
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Audio-IRS20965S](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Audio-IRS20965S)
 - Short Link: [http://oom.lt/SZKAMPLIFIERAUDIOIRS2965S](http://oom.lt/SZKAMPLIFIERAUDIOIRS2965S)

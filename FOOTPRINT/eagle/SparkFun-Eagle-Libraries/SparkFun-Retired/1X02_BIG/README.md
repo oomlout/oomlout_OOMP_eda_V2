@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-1X02_BIG
 - Hex ID: FZSRT1X2BIG
 - Name: SparkFun-Retired : 1X02_BIG
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Retired/1X02_BIG/
 - Description: SparkFun-Retired : 1X02_BIG
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-1X02_BIG](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-1X02_BIG)
 - Short Link: [http://oom.lt/FZSRT1X2BIG](http://oom.lt/FZSRT1X2BIG)

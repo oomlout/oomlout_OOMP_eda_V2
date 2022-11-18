@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F873-XXISP
 - Hex ID: SZKMCUMCHIPPIC16PIC16F873XXISP
 - Name: MCU_Microchip_PIC16 : PIC16F873-XXISP
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC16/PIC16F873-XXISP/
 - Description: MCU_Microchip_PIC16 : PIC16F873-XXISP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F873-XXISP](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F873-XXISP)
 - Short Link: [http://oom.lt/SZKMCUMCHIPPIC16PIC16F873XXISP](http://oom.lt/SZKMCUMCHIPPIC16PIC16F873XXISP)

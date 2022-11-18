@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Boards-SAMD21_MINI_BREAKOUT
 - Hex ID: FZSBOSAMD21MBREAKOUT
 - Name: SparkFun-Boards : SAMD21_MINI_BREAKOUT
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Boards/SAMD21_MINI_BREAKOUT/
 - Description: SparkFun-Boards : SAMD21_MINI_BREAKOUT
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Boards-SAMD21_MINI_BREAKOUT](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Boards-SAMD21_MINI_BREAKOUT)
 - Short Link: [http://oom.lt/FZSBOSAMD21MBREAKOUT](http://oom.lt/FZSBOSAMD21MBREAKOUT)

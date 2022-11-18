@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-power-Vdrive
 - Hex ID: SZKPOWERVDRIVE
 - Name: power : Vdrive
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/power/Vdrive/
 - Description: power : Vdrive
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-power-Vdrive](http://oom.lt/SYMBOL-kicad-kicad-symbols-power-Vdrive)
 - Short Link: [http://oom.lt/SZKPOWERVDRIVE](http://oom.lt/SZKPOWERVDRIVE)

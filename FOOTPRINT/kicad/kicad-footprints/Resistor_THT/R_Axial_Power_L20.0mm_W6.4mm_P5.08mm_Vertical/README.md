@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Resistor_THT-R_Axial_Power_L20.0mm_W6.4mm_P5.08mm_Vertical
 - Hex ID: FZKRRAXIALPOWERL2W64P58F
 - Name: Resistor_THT : R_Axial_Power_L20.0mm_W6.4mm_P5.08mm_Vertical
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Resistor_THT/R_Axial_Power_L20.0mm_W6.4mm_P5.08mm_Vertical/
 - Description: Resistor_THT : R_Axial_Power_L20.0mm_W6.4mm_P5.08mm_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Resistor_THT-R_Axial_Power_L20.0mm_W6.4mm_P5.08mm_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Resistor_THT-R_Axial_Power_L20.0mm_W6.4mm_P5.08mm_Vertical)
 - Short Link: [http://oom.lt/FZKRRAXIALPOWERL2W64P58F](http://oom.lt/FZKRRAXIALPOWERL2W64P58F)

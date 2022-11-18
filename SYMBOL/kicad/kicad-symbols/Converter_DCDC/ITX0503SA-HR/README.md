@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Converter_DCDC-ITX0503SA-HR
 - Hex ID: SZKCONITX53SAHR
 - Name: Converter_DCDC : ITX0503SA-HR
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Converter_DCDC/ITX0503SA-HR/
 - Description: Converter_DCDC : ITX0503SA-HR
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-ITX0503SA-HR](http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-ITX0503SA-HR)
 - Short Link: [http://oom.lt/SZKCONITX53SAHR](http://oom.lt/SZKCONITX53SAHR)

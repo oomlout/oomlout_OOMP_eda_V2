@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface-SN65LVDS047PW
 - Hex ID: SZKINTERFACESN65LVDS47PW
 - Name: Interface : SN65LVDS047PW
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface/SN65LVDS047PW/
 - Description: Interface : SN65LVDS047PW
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-SN65LVDS047PW](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-SN65LVDS047PW)
 - Short Link: [http://oom.lt/SZKINTERFACESN65LVDS47PW](http://oom.lt/SZKINTERFACESN65LVDS47PW)

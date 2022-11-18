@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Buzzer_Beeper-MagneticBuzzer_ProSignal_ABI-010-RC
 - Hex ID: FZKBZMAGNETICBUZZERPROSIGNALABI1RC
 - Name: Buzzer_Beeper : MagneticBuzzer_ProSignal_ABI-010-RC
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Buzzer_Beeper/MagneticBuzzer_ProSignal_ABI-010-RC/
 - Description: Buzzer_Beeper : MagneticBuzzer_ProSignal_ABI-010-RC
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Buzzer_Beeper-MagneticBuzzer_ProSignal_ABI-010-RC](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Buzzer_Beeper-MagneticBuzzer_ProSignal_ABI-010-RC)
 - Short Link: [http://oom.lt/FZKBZMAGNETICBUZZERPROSIGNALABI1RC](http://oom.lt/FZKBZMAGNETICBUZZERPROSIGNALABI1RC)

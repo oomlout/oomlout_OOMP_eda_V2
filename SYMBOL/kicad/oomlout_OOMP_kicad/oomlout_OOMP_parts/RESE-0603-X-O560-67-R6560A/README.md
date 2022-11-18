@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O560-67-R6560A
 - Hex ID: SZOOMPKOOMPPRESE63XO5667R656A
 - Name: oomlout_OOMP_parts : RESE-0603-X-O560-67-R6560A
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/RESE-0603-X-O560-67-R6560A/
 - Description: oomlout_OOMP_parts : RESE-0603-X-O560-67-R6560A
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O560-67-R6560A](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O560-67-R6560A)
 - Short Link: [http://oom.lt/SZOOMPKOOMPPRESE63XO5667R656A](http://oom.lt/SZOOMPKOOMPPRESE63XO5667R656A)

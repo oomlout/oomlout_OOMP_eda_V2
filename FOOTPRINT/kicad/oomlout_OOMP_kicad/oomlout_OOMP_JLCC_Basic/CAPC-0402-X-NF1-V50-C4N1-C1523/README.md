@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0402-X-NF1-V50-C4N1-C1523
 - Hex ID: FZOOMPKJLCCAPC42XNF1V5C4N1C1523
 - Name: oomlout_OOMP_JLCC_Basic : CAPC-0402-X-NF1-V50-C4N1-C1523
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_JLCC_Basic/CAPC-0402-X-NF1-V50-C4N1-C1523/
 - Description: oomlout_OOMP_JLCC_Basic : CAPC-0402-X-NF1-V50-C4N1-C1523
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0402-X-NF1-V50-C4N1-C1523](http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0402-X-NF1-V50-C4N1-C1523)
 - Short Link: [http://oom.lt/FZOOMPKJLCCAPC42XNF1V5C4N1C1523](http://oom.lt/FZOOMPKJLCCAPC42XNF1V5C4N1C1523)

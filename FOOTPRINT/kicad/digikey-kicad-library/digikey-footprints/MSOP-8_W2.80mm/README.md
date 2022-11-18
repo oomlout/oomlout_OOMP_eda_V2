@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-MSOP-8_W2.80mm
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSMS8W28
 - Name: digikey-footprints : MSOP-8_W2.80mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/MSOP-8_W2.80mm/
 - Description: digikey-footprints : MSOP-8_W2.80mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-MSOP-8_W2.80mm](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-MSOP-8_W2.80mm)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSMS8W28](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSMS8W28)

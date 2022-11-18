@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Display_Character-HDSP-7403
 - Hex ID: SZKDICHARACTERHDSP743
 - Name: Display_Character : HDSP-7403
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Display_Character/HDSP-7403/
 - Description: Display_Character : HDSP-7403
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-HDSP-7403](http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-HDSP-7403)
 - Short Link: [http://oom.lt/SZKDICHARACTERHDSP743](http://oom.lt/SZKDICHARACTERHDSP743)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-PMEG6020AELR
 - Hex ID: SZKDIODEPMEG62AELR
 - Name: Diode : PMEG6020AELR
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/PMEG6020AELR/
 - Description: Diode : PMEG6020AELR
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-PMEG6020AELR](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-PMEG6020AELR)
 - Short Link: [http://oom.lt/SZKDIODEPMEG62AELR](http://oom.lt/SZKDIODEPMEG62AELR)

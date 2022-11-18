@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-linear-MULTIWAT-SIL17
 - Hex ID: FZELINEARMULTIWATSIL17
 - Name: linear : MULTIWAT-SIL17
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/linear/MULTIWAT-SIL17/
 - Description: linear : MULTIWAT-SIL17
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-linear-MULTIWAT-SIL17](http://oom.lt/FOOTPRINT-eagle-eagle-default-linear-MULTIWAT-SIL17)
 - Short Link: [http://oom.lt/FZELINEARMULTIWATSIL17](http://oom.lt/FZELINEARMULTIWATSIL17)

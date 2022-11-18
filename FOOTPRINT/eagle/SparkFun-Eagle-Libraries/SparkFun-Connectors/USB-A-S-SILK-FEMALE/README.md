@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-USB-A-S-SILK-FEMALE
 - Hex ID: FZSSPARKFUNCNSUASSILKF
 - Name: SparkFun-Connectors : USB-A-S-SILK-FEMALE
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Connectors/USB-A-S-SILK-FEMALE/
 - Description: SparkFun-Connectors : USB-A-S-SILK-FEMALE
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-USB-A-S-SILK-FEMALE](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-USB-A-S-SILK-FEMALE)
 - Short Link: [http://oom.lt/FZSSPARKFUNCNSUASSILKF](http://oom.lt/FZSSPARKFUNCNSUASSILKF)

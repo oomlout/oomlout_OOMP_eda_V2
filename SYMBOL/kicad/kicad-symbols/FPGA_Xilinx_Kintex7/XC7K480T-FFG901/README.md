@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-FPGA_Xilinx_Kintex7-XC7K480T-FFG901
 - Hex ID: SZKFPGAXILINXKINTEX7XC7K48TFFG91
 - Name: FPGA_Xilinx_Kintex7 : XC7K480T-FFG901
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/FPGA_Xilinx_Kintex7/XC7K480T-FFG901/
 - Description: FPGA_Xilinx_Kintex7 : XC7K480T-FFG901
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-FPGA_Xilinx_Kintex7-XC7K480T-FFG901](http://oom.lt/SYMBOL-kicad-kicad-symbols-FPGA_Xilinx_Kintex7-XC7K480T-FFG901)
 - Short Link: [http://oom.lt/SZKFPGAXILINXKINTEX7XC7K48TFFG91](http://oom.lt/SZKFPGAXILINXKINTEX7XC7K48TFFG91)

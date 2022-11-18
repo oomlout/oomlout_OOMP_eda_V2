@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-GPS-MOLEX_GNSS_CUBE
 - Hex ID: FZSGMXGNSSCUBE
 - Name: SparkFun-GPS : MOLEX_GNSS_CUBE
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-GPS/MOLEX_GNSS_CUBE/
 - Description: SparkFun-GPS : MOLEX_GNSS_CUBE
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-GPS-MOLEX_GNSS_CUBE](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-GPS-MOLEX_GNSS_CUBE)
 - Short Link: [http://oom.lt/FZSGMXGNSSCUBE](http://oom.lt/FZSGMXGNSSCUBE)

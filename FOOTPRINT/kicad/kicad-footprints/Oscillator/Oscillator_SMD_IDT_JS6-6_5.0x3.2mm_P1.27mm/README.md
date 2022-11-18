@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Oscillator-Oscillator_SMD_IDT_JS6-6_5.0x3.2mm_P1.27mm
 - Hex ID: FZKOCSOCSSMIDTJS665X32P127
 - Name: Oscillator : Oscillator_SMD_IDT_JS6-6_5.0x3.2mm_P1.27mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Oscillator/Oscillator_SMD_IDT_JS6-6_5.0x3.2mm_P1.27mm/
 - Description: Oscillator : Oscillator_SMD_IDT_JS6-6_5.0x3.2mm_P1.27mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Oscillator-Oscillator_SMD_IDT_JS6-6_5.0x3.2mm_P1.27mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Oscillator-Oscillator_SMD_IDT_JS6-6_5.0x3.2mm_P1.27mm)
 - Short Link: [http://oom.lt/FZKOCSOCSSMIDTJS665X32P127](http://oom.lt/FZKOCSOCSSMIDTJS665X32P127)

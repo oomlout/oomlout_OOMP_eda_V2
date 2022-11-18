@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-LED_0603
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSL63
 - Name: digikey-footprints : LED_0603
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/LED_0603/
 - Description: digikey-footprints : LED_0603
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-LED_0603](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-LED_0603)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSL63](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSL63)

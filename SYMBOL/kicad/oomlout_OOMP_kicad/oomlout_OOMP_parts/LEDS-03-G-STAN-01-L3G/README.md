@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-LEDS-03-G-STAN-01-L3G
 - Hex ID: SZOOMPKOOMPPLS3GSTAN1L3G
 - Name: oomlout_OOMP_parts : LEDS-03-G-STAN-01-L3G
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/LEDS-03-G-STAN-01-L3G/
 - Description: oomlout_OOMP_parts : LEDS-03-G-STAN-01-L3G
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-LEDS-03-G-STAN-01-L3G](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-LEDS-03-G-STAN-01-L3G)
 - Short Link: [http://oom.lt/SZOOMPKOOMPPLS3GSTAN1L3G](http://oom.lt/SZOOMPKOOMPPLS3GSTAN1L3G)

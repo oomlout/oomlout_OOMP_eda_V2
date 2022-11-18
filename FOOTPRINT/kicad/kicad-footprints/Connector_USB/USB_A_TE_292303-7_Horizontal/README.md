@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_A_TE_292303-7_Horizontal
 - Hex ID: FZKCNUUATE292337H
 - Name: Connector_USB : USB_A_TE_292303-7_Horizontal
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB_A_TE_292303-7_Horizontal/
 - Description: Connector_USB : USB_A_TE_292303-7_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_A_TE_292303-7_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_A_TE_292303-7_Horizontal)
 - Short Link: [http://oom.lt/FZKCNUUATE292337H](http://oom.lt/FZKCNUUATE292337H)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Jumper_Tin_P10.9mm
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSJTINP19
 - Name: digikey-footprints : Jumper_Tin_P10.9mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Jumper_Tin_P10.9mm/
 - Description: digikey-footprints : Jumper_Tin_P10.9mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Jumper_Tin_P10.9mm](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Jumper_Tin_P10.9mm)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSJTINP19](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSJTINP19)

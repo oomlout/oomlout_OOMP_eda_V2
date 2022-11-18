@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-PMEG60T20ELR
 - Hex ID: SZKDIODEPMEG6T2ELR
 - Name: Diode : PMEG60T20ELR
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/PMEG60T20ELR/
 - Description: Diode : PMEG60T20ELR
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-PMEG60T20ELR](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-PMEG60T20ELR)
 - Short Link: [http://oom.lt/SZKDIODEPMEG6T2ELR](http://oom.lt/SZKDIODEPMEG6T2ELR)

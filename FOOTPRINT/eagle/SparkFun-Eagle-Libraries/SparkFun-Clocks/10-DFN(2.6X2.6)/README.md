@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Clocks-10-DFN(2.6X2.6)
 - Hex ID: FZSCL1DFN(26X26)
 - Name: SparkFun-Clocks : 10-DFN(2.6X2.6)
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Clocks/10-DFN(2.6X2.6)/
 - Description: SparkFun-Clocks : 10-DFN(2.6X2.6)
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Clocks-10-DFN(2.6X2.6)](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Clocks-10-DFN(2.6X2.6))
 - Short Link: [http://oom.lt/FZSCL1DFN(26X26)](http://oom.lt/FZSCL1DFN(26X26))

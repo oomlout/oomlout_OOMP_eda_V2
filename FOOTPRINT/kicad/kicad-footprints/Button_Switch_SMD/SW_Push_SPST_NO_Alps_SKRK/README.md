@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-SW_Push_SPST_NO_Alps_SKRK
 - Hex ID: FZKBSWPUSHSPSTNOALPSSKRK
 - Name: Button_Switch_SMD : SW_Push_SPST_NO_Alps_SKRK
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Button_Switch_SMD/SW_Push_SPST_NO_Alps_SKRK/
 - Description: Button_Switch_SMD : SW_Push_SPST_NO_Alps_SKRK
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-SW_Push_SPST_NO_Alps_SKRK](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-SW_Push_SPST_NO_Alps_SKRK)
 - Short Link: [http://oom.lt/FZKBSWPUSHSPSTNOALPSSKRK](http://oom.lt/FZKBSWPUSHSPSTNOALPSSKRK)

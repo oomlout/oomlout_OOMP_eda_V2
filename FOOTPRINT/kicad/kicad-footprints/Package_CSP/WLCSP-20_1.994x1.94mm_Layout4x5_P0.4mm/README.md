@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_CSP-WLCSP-20_1.994x1.94mm_Layout4x5_P0.4mm
 - Hex ID: FZKCSPWLCSP21994X194LAYOUT4X5P4
 - Name: Package_CSP : WLCSP-20_1.994x1.94mm_Layout4x5_P0.4mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_CSP/WLCSP-20_1.994x1.94mm_Layout4x5_P0.4mm/
 - Description: Package_CSP : WLCSP-20_1.994x1.94mm_Layout4x5_P0.4mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_CSP-WLCSP-20_1.994x1.94mm_Layout4x5_P0.4mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_CSP-WLCSP-20_1.994x1.94mm_Layout4x5_P0.4mm)
 - Short Link: [http://oom.lt/FZKCSPWLCSP21994X194LAYOUT4X5P4](http://oom.lt/FZKCSPWLCSP21994X194LAYOUT4X5P4)

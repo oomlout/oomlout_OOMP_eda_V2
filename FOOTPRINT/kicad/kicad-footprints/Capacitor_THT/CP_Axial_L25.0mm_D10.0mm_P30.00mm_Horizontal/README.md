@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Capacitor_THT-CP_Axial_L25.0mm_D10.0mm_P30.00mm_Horizontal
 - Hex ID: FZKCCPAXIALL25D1P3H
 - Name: Capacitor_THT : CP_Axial_L25.0mm_D10.0mm_P30.00mm_Horizontal
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Capacitor_THT/CP_Axial_L25.0mm_D10.0mm_P30.00mm_Horizontal/
 - Description: Capacitor_THT : CP_Axial_L25.0mm_D10.0mm_P30.00mm_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_THT-CP_Axial_L25.0mm_D10.0mm_P30.00mm_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_THT-CP_Axial_L25.0mm_D10.0mm_P30.00mm_Horizontal)
 - Short Link: [http://oom.lt/FZKCCPAXIALL25D1P3H](http://oom.lt/FZKCCPAXIALL25D1P3H)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-I01-X-PI12-01-H12
 - Hex ID: SZOOMPKOOMPPHEADI1XPI121H12
 - Name: oomlout_OOMP_parts : HEAD-I01-X-PI12-01-H12
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/HEAD-I01-X-PI12-01-H12/
 - Description: oomlout_OOMP_parts : HEAD-I01-X-PI12-01-H12
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-I01-X-PI12-01-H12](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-I01-X-PI12-01-H12)
 - Short Link: [http://oom.lt/SZOOMPKOOMPPHEADI1XPI121H12](http://oom.lt/SZOOMPKOOMPPHEADI1XPI121H12)

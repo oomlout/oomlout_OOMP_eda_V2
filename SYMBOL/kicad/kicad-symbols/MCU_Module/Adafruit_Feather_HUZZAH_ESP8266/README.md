@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Module-Adafruit_Feather_HUZZAH_ESP8266
 - Hex ID: SZKMCUMOADAFEATHERHUZZAHESP8266
 - Name: MCU_Module : Adafruit_Feather_HUZZAH_ESP8266
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Module/Adafruit_Feather_HUZZAH_ESP8266/
 - Description: MCU_Module : Adafruit_Feather_HUZZAH_ESP8266
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Module-Adafruit_Feather_HUZZAH_ESP8266](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Module-Adafruit_Feather_HUZZAH_ESP8266)
 - Short Link: [http://oom.lt/SZKMCUMOADAFEATHERHUZZAHESP8266](http://oom.lt/SZKMCUMOADAFEATHERHUZZAHESP8266)

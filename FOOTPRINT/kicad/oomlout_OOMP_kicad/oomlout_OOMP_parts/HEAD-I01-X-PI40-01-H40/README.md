@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-I01-X-PI40-01-H40
 - Hex ID: FZOOMPKOOMPPHEADI1XPI41H4
 - Name: oomlout_OOMP_parts : HEAD-I01-X-PI40-01-H40
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/HEAD-I01-X-PI40-01-H40/
 - Description: oomlout_OOMP_parts : HEAD-I01-X-PI40-01-H40
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-I01-X-PI40-01-H40](http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-I01-X-PI40-01-H40)
 - Short Link: [http://oom.lt/FZOOMPKOOMPPHEADI1XPI41H4](http://oom.lt/FZOOMPKOOMPPHEADI1XPI41H4)

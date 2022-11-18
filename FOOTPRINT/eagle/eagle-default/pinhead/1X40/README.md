@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEPINHEAD1X4 > pinhead : 1X40](#fzepinhead1x4--pinhead--1x40)
+* [FZEPHEAD1X4 > pinhead : 1X40](#fzephead1x4--pinhead--1x40)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEPINHEAD1X4 > pinhead : 1X40
+# FZEPHEAD1X4 > pinhead : 1X40
 
 - ID: FOOTPRINT-eagle-eagle-default-pinhead-1X40
-- Hex ID: FZEPINHEAD1X4
+- Hex ID: FZEPHEAD1X4
 - Name: pinhead : 1X40
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/pinhead/1X40/
 - Description: pinhead : 1X40
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-pinhead-1X40](http://oom.lt/FOOTPRINT-eagle-eagle-default-pinhead-1X40)
-- Short Link: [http://oom.lt/FZEPINHEAD1X4](http://oom.lt/FZEPINHEAD1X4)
+- Short Link: [http://oom.lt/FZEPHEAD1X4](http://oom.lt/FZEPHEAD1X4)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|pinhead|
 |OOMP Index|oompIndex|1X40|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-pinhead-1X40|
-|Hex ID (short code)|hexID|FZEPINHEAD1X4|
+|Hex ID (short code)|hexID|FZEPHEAD1X4|
 |name|name|pinhead : 1X40|
 ||||

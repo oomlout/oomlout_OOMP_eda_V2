@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_CSP-Analog_LFCSP-8-1EP_3x3mm_P0.5mm_EP1.53x1.85mm
 - Hex ID: FZKCSPANALOGLFCSP81EP3X3P5EP153X185
 - Name: Package_CSP : Analog_LFCSP-8-1EP_3x3mm_P0.5mm_EP1.53x1.85mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_CSP/Analog_LFCSP-8-1EP_3x3mm_P0.5mm_EP1.53x1.85mm/
 - Description: Package_CSP : Analog_LFCSP-8-1EP_3x3mm_P0.5mm_EP1.53x1.85mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_CSP-Analog_LFCSP-8-1EP_3x3mm_P0.5mm_EP1.53x1.85mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_CSP-Analog_LFCSP-8-1EP_3x3mm_P0.5mm_EP1.53x1.85mm)
 - Short Link: [http://oom.lt/FZKCSPANALOGLFCSP81EP3X3P5EP153X185](http://oom.lt/FZKCSPANALOGLFCSP81EP3X3P5EP153X185)

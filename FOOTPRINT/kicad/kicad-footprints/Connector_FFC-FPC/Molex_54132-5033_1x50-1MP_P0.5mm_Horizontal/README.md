@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_FFC-FPC-Molex_54132-5033_1x50-1MP_P0.5mm_Horizontal
 - Hex ID: FZKCNFFCFPCMX541325331X51MPP5H
 - Name: Connector_FFC-FPC : Molex_54132-5033_1x50-1MP_P0.5mm_Horizontal
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_FFC-FPC/Molex_54132-5033_1x50-1MP_P0.5mm_Horizontal/
 - Description: Connector_FFC-FPC : Molex_54132-5033_1x50-1MP_P0.5mm_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_FFC-FPC-Molex_54132-5033_1x50-1MP_P0.5mm_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_FFC-FPC-Molex_54132-5033_1x50-1MP_P0.5mm_Horizontal)
 - Short Link: [http://oom.lt/FZKCNFFCFPCMX541325331X51MPP5H](http://oom.lt/FZKCNFFCFPCMX541325331X51MPP5H)

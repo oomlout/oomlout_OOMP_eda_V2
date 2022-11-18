@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Memory_EEPROM-CAT24C128
 - Hex ID: SZKMEMORYEEPROMCAT24C128
 - Name: Memory_EEPROM : CAT24C128
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Memory_EEPROM/CAT24C128/
 - Description: Memory_EEPROM : CAT24C128
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_EEPROM-CAT24C128](http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_EEPROM-CAT24C128)
 - Short Link: [http://oom.lt/SZKMEMORYEEPROMCAT24C128](http://oom.lt/SZKMEMORYEEPROMCAT24C128)

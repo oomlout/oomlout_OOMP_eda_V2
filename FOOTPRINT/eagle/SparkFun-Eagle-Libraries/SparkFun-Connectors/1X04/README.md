@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-1X04
 - Hex ID: FZSSPARKFUNCNS1X4
 - Name: SparkFun-Connectors : 1X04
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Connectors/1X04/
 - Description: SparkFun-Connectors : 1X04
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-1X04](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-1X04)
 - Short Link: [http://oom.lt/FZSSPARKFUNCNS1X4](http://oom.lt/FZSSPARKFUNCNS1X4)

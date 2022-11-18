@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Device-D_Laser_1C2A
 - Hex ID: SZKDEVICEDLASER1C2A
 - Name: Device : D_Laser_1C2A
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/D_Laser_1C2A/
 - Description: Device : D_Laser_1C2A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-D_Laser_1C2A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-D_Laser_1C2A)
 - Short Link: [http://oom.lt/SZKDEVICEDLASER1C2A](http://oom.lt/SZKDEVICEDLASER1C2A)

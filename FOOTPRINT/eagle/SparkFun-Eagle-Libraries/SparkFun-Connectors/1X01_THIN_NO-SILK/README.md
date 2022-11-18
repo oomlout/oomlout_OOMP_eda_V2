@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-1X01_THIN_NO-SILK
 - Hex ID: FZSSPARKFUNCNS1X1THINNOSILK
 - Name: SparkFun-Connectors : 1X01_THIN_NO-SILK
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Connectors/1X01_THIN_NO-SILK/
 - Description: SparkFun-Connectors : 1X01_THIN_NO-SILK
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-1X01_THIN_NO-SILK](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-1X01_THIN_NO-SILK)
 - Short Link: [http://oom.lt/FZSSPARKFUNCNS1X1THINNOSILK](http://oom.lt/FZSSPARKFUNCNS1X1THINNOSILK)

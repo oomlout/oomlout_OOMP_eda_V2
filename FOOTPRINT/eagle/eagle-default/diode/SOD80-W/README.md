@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-diode-SOD80-W
 - Hex ID: FZEDIODESOD8W
 - Name: diode : SOD80-W
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/diode/SOD80-W/
 - Description: diode : SOD80-W
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-diode-SOD80-W](http://oom.lt/FOOTPRINT-eagle-eagle-default-diode-SOD80-W)
 - Short Link: [http://oom.lt/FZEDIODESOD8W](http://oom.lt/FZEDIODESOD8W)

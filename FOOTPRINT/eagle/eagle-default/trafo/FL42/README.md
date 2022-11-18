@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-trafo-FL42
 - Hex ID: FZETRAFOFL42
 - Name: trafo : FL42
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/trafo/FL42/
 - Description: trafo : FL42
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-trafo-FL42](http://oom.lt/FOOTPRINT-eagle-eagle-default-trafo-FL42)
 - Short Link: [http://oom.lt/FZETRAFOFL42](http://oom.lt/FZETRAFOFL42)

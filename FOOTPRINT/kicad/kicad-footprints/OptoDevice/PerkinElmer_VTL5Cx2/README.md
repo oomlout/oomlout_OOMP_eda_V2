@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-OptoDevice-PerkinElmer_VTL5Cx2
 - Hex ID: FZKOPPERKINELMERVTL5CX2
 - Name: OptoDevice : PerkinElmer_VTL5Cx2
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/OptoDevice/PerkinElmer_VTL5Cx2/
 - Description: OptoDevice : PerkinElmer_VTL5Cx2
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-OptoDevice-PerkinElmer_VTL5Cx2](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-OptoDevice-PerkinElmer_VTL5Cx2)
 - Short Link: [http://oom.lt/FZKOPPERKINELMERVTL5CX2](http://oom.lt/FZKOPPERKINELMERVTL5CX2)

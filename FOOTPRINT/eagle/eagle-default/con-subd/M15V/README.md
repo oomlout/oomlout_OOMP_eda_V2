@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-subd-M15V
 - Hex ID: FZECONSUBDM15V
 - Name: con-subd : M15V
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-subd/M15V/
 - Description: con-subd : M15V
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-subd-M15V](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-subd-M15V)
 - Short Link: [http://oom.lt/FZECONSUBDM15V](http://oom.lt/FZECONSUBDM15V)

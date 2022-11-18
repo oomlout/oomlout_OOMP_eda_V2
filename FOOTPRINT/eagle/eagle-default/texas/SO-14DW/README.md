@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-texas-SO-14DW
 - Hex ID: FZETEXASSO14DW
 - Name: texas : SO-14DW
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/texas/SO-14DW/
 - Description: texas : SO-14DW
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-texas-SO-14DW](http://oom.lt/FOOTPRINT-eagle-eagle-default-texas-SO-14DW)
 - Short Link: [http://oom.lt/FZETEXASSO14DW](http://oom.lt/FZETEXASSO14DW)

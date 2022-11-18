@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-power-+3V8
 - Hex ID: SZKPOWER+3V8
 - Name: power : +3V8
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/power/+3V8/
 - Description: power : +3V8
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-power-+3V8](http://oom.lt/SYMBOL-kicad-kicad-symbols-power-+3V8)
 - Short Link: [http://oom.lt/SZKPOWER+3V8](http://oom.lt/SZKPOWER+3V8)

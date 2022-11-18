@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-amd-mach-PQFP208
 - Hex ID: FZEAMDMACHPQFP28
 - Name: amd-mach : PQFP208
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/amd-mach/PQFP208/
 - Description: amd-mach : PQFP208
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-amd-mach-PQFP208](http://oom.lt/FOOTPRINT-eagle-eagle-default-amd-mach-PQFP208)
 - Short Link: [http://oom.lt/FZEAMDMACHPQFP28](http://oom.lt/FZEAMDMACHPQFP28)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-smd-ipc-R3216
 - Hex ID: FZESMIPCR3216
 - Name: smd-ipc : R3216
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/smd-ipc/R3216/
 - Description: smd-ipc : R3216
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-R3216](http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-R3216)
 - Short Link: [http://oom.lt/FZESMIPCR3216](http://oom.lt/FZESMIPCR3216)

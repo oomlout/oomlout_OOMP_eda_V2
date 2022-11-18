@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Diode_SMD-Nexperia_CFP3_SOD-123W
 - Hex ID: FZKDNEXPERIACFP3SOD123W
 - Name: Diode_SMD : Nexperia_CFP3_SOD-123W
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Diode_SMD/Nexperia_CFP3_SOD-123W/
 - Description: Diode_SMD : Nexperia_CFP3_SOD-123W
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Diode_SMD-Nexperia_CFP3_SOD-123W](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Diode_SMD-Nexperia_CFP3_SOD-123W)
 - Short Link: [http://oom.lt/FZKDNEXPERIACFP3SOD123W](http://oom.lt/FZKDNEXPERIACFP3SOD123W)

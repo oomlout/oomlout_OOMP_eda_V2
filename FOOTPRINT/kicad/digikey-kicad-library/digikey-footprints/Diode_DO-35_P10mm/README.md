@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Diode_DO-35_P10mm
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSDIODEDO35P1
 - Name: digikey-footprints : Diode_DO-35_P10mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Diode_DO-35_P10mm/
 - Description: digikey-footprints : Diode_DO-35_P10mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Diode_DO-35_P10mm](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Diode_DO-35_P10mm)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSDIODEDO35P1](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSDIODEDO35P1)

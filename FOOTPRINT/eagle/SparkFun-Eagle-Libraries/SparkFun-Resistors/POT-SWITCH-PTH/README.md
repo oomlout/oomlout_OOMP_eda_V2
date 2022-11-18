@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Resistors-POT-SWITCH-PTH
 - Hex ID: FZSRPOTSWP
 - Name: SparkFun-Resistors : POT-SWITCH-PTH
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Resistors/POT-SWITCH-PTH/
 - Description: SparkFun-Resistors : POT-SWITCH-PTH
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Resistors-POT-SWITCH-PTH](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Resistors-POT-SWITCH-PTH)
 - Short Link: [http://oom.lt/FZSRPOTSWP](http://oom.lt/FZSRPOTSWP)

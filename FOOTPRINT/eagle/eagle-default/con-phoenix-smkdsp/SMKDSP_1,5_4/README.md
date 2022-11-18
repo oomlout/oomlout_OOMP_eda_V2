@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-phoenix-smkdsp-SMKDSP_1,5_4
 - Hex ID: FZECONPHOENIXSMKDSPSMKDSP154
 - Name: con-phoenix-smkdsp : SMKDSP_1,5_4
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-phoenix-smkdsp/SMKDSP_1,5_4/
 - Description: con-phoenix-smkdsp : SMKDSP_1,5_4
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-phoenix-smkdsp-SMKDSP_1,5_4](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-phoenix-smkdsp-SMKDSP_1,5_4)
 - Short Link: [http://oom.lt/FZECONPHOENIXSMKDSPSMKDSP154](http://oom.lt/FZECONPHOENIXSMKDSPSMKDSP154)

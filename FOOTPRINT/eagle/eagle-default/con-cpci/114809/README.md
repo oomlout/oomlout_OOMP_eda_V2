@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-cpci-114809
 - Hex ID: FZECONCPCI11489
 - Name: con-cpci : 114809
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-cpci/114809/
 - Description: con-cpci : 114809
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-cpci-114809](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-cpci-114809)
 - Short Link: [http://oom.lt/FZECONCPCI11489](http://oom.lt/FZECONCPCI11489)

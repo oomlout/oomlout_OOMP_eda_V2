@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-LT3471
 - Hex ID: SZKREGULATORSWINGLT3471
 - Name: Regulator_Switching : LT3471
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/LT3471/
 - Description: Regulator_Switching : LT3471
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LT3471](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LT3471)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGLT3471](http://oom.lt/SZKREGULATORSWINGLT3471)

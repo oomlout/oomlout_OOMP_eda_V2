@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_Lumex_SML-LX0404SIUPGUSB
 - Hex ID: FZKLLLUMEXSMLLX44SIUPGU
 - Name: LED_SMD : LED_Lumex_SML-LX0404SIUPGUSB
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_Lumex_SML-LX0404SIUPGUSB/
 - Description: LED_SMD : LED_Lumex_SML-LX0404SIUPGUSB
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_Lumex_SML-LX0404SIUPGUSB](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_Lumex_SML-LX0404SIUPGUSB)
 - Short Link: [http://oom.lt/FZKLLLUMEXSMLLX44SIUPGU](http://oom.lt/FZKLLLUMEXSMLLX44SIUPGU)

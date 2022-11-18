@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Connector-AudioJack3_Ground_SwitchTR
 - Hex ID: SZKCNAUDIOJ3GROUNDSWTR
 - Name: Connector : AudioJack3_Ground_SwitchTR
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector/AudioJack3_Ground_SwitchTR/
 - Description: Connector : AudioJack3_Ground_SwitchTR
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-AudioJack3_Ground_SwitchTR](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-AudioJack3_Ground_SwitchTR)
 - Short Link: [http://oom.lt/SZKCNAUDIOJ3GROUNDSWTR](http://oom.lt/SZKCNAUDIOJ3GROUNDSWTR)

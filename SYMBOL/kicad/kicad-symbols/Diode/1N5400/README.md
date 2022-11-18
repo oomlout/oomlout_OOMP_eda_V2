@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-1N5400
 - Hex ID: SZKDIODE1N54
 - Name: Diode : 1N5400
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/1N5400/
 - Description: Diode : 1N5400
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-1N5400](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-1N5400)
 - Short Link: [http://oom.lt/SZKDIODE1N54](http://oom.lt/SZKDIODE1N54)

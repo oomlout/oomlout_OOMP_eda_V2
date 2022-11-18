@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-TPS72201
 - Hex ID: SZKREGULATORLINEARTPS7221
 - Name: Regulator_Linear : TPS72201
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/TPS72201/
 - Description: Regulator_Linear : TPS72201
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-TPS72201](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-TPS72201)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARTPS7221](http://oom.lt/SZKREGULATORLINEARTPS7221)

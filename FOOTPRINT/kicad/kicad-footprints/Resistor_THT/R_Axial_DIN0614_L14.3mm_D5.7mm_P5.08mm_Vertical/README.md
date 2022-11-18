@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Resistor_THT-R_Axial_DIN0614_L14.3mm_D5.7mm_P5.08mm_Vertical
 - Hex ID: FZKRRAXIALDIN614L143D57P58F
 - Name: Resistor_THT : R_Axial_DIN0614_L14.3mm_D5.7mm_P5.08mm_Vertical
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Resistor_THT/R_Axial_DIN0614_L14.3mm_D5.7mm_P5.08mm_Vertical/
 - Description: Resistor_THT : R_Axial_DIN0614_L14.3mm_D5.7mm_P5.08mm_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Resistor_THT-R_Axial_DIN0614_L14.3mm_D5.7mm_P5.08mm_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Resistor_THT-R_Axial_DIN0614_L14.3mm_D5.7mm_P5.08mm_Vertical)
 - Short Link: [http://oom.lt/FZKRRAXIALDIN614L143D57P58F](http://oom.lt/FZKRRAXIALDIN614L143D57P58F)

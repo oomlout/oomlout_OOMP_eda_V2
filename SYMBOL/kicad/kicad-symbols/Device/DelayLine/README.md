@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Device-DelayLine
 - Hex ID: SZKDEVICEDELAYLINE
 - Name: Device : DelayLine
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/DelayLine/
 - Description: Device : DelayLine
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-DelayLine](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-DelayLine)
 - Short Link: [http://oom.lt/SZKDEVICEDELAYLINE](http://oom.lt/SZKDEVICEDELAYLINE)

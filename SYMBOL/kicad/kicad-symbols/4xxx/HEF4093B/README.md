@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-4xxx-HEF4093B
 - Hex ID: SZK4XXXHEF493B
 - Name: 4xxx : HEF4093B
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/4xxx/HEF4093B/
 - Description: 4xxx : HEF4093B
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-4xxx-HEF4093B](http://oom.lt/SYMBOL-kicad-kicad-symbols-4xxx-HEF4093B)
 - Short Link: [http://oom.lt/SZK4XXXHEF493B](http://oom.lt/SZK4XXXHEF493B)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-FSL136MRT
 - Hex ID: SZKREGULATORSWINGFSL136MRT
 - Name: Regulator_Switching : FSL136MRT
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/FSL136MRT/
 - Description: Regulator_Switching : FSL136MRT
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-FSL136MRT](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-FSL136MRT)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGFSL136MRT](http://oom.lt/SZKREGULATORSWINGFSL136MRT)

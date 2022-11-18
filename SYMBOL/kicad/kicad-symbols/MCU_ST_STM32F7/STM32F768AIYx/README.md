@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F7-STM32F768AIYx
 - Hex ID: SZKMCUSTSTM32F7STM32F768AIYX
 - Name: MCU_ST_STM32F7 : STM32F768AIYx
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32F7/STM32F768AIYx/
 - Description: MCU_ST_STM32F7 : STM32F768AIYx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F7-STM32F768AIYx](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F7-STM32F768AIYx)
 - Short Link: [http://oom.lt/SZKMCUSTSTM32F7STM32F768AIYX](http://oom.lt/SZKMCUSTSTM32F7STM32F768AIYX)

@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEREFPACKAGESLONGPADSOIC2S > ref-packages-longpad : SOIC20S](#fzerefpackageslongpadsoic2s--ref-packages-longpad--soic20s)
+* [FZEREFPSLPSOIC2S > ref-packages-longpad : SOIC20S](#fzerefpslpsoic2s--ref-packages-longpad--soic20s)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEREFPACKAGESLONGPADSOIC2S > ref-packages-longpad : SOIC20S
+# FZEREFPSLPSOIC2S > ref-packages-longpad : SOIC20S
 
 - ID: FOOTPRINT-eagle-eagle-default-ref-packages-longpad-SOIC20S
-- Hex ID: FZEREFPACKAGESLONGPADSOIC2S
+- Hex ID: FZEREFPSLPSOIC2S
 - Name: ref-packages-longpad : SOIC20S
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ref-packages-longpad/SOIC20S/
 - Description: ref-packages-longpad : SOIC20S
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-longpad-SOIC20S](http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-longpad-SOIC20S)
-- Short Link: [http://oom.lt/FZEREFPACKAGESLONGPADSOIC2S](http://oom.lt/FZEREFPACKAGESLONGPADSOIC2S)
+- Short Link: [http://oom.lt/FZEREFPSLPSOIC2S](http://oom.lt/FZEREFPSLPSOIC2S)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|ref-packages-longpad|
 |OOMP Index|oompIndex|SOIC20S|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-ref-packages-longpad-SOIC20S|
-|Hex ID (short code)|hexID|FZEREFPACKAGESLONGPADSOIC2S|
+|Hex ID (short code)|hexID|FZEREFPSLPSOIC2S|
 |name|name|ref-packages-longpad : SOIC20S|
 ||||

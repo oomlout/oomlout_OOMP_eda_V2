@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-lumberg-1503_11
 - Hex ID: FZECONLUMBERG15311
 - Name: con-lumberg : 1503_11
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-lumberg/1503_11/
 - Description: con-lumberg : 1503_11
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-lumberg-1503_11](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-lumberg-1503_11)
 - Short Link: [http://oom.lt/FZECONLUMBERG15311](http://oom.lt/FZECONLUMBERG15311)

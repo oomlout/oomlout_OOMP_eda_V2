@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Texas_VQFN-RHL-20
 - Hex ID: FZKDFNTEXASVQFNRHL2
 - Name: Package_DFN_QFN : Texas_VQFN-RHL-20
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/Texas_VQFN-RHL-20/
 - Description: Package_DFN_QFN : Texas_VQFN-RHL-20
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Texas_VQFN-RHL-20](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Texas_VQFN-RHL-20)
 - Short Link: [http://oom.lt/FZKDFNTEXASVQFNRHL2](http://oom.lt/FZKDFNTEXASVQFNRHL2)

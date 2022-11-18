@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_B_TE_5787834_Vertical
 - Hex ID: FZKCNUUBTE5787834F
 - Name: Connector_USB : USB_B_TE_5787834_Vertical
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB_B_TE_5787834_Vertical/
 - Description: Connector_USB : USB_B_TE_5787834_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_B_TE_5787834_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_B_TE_5787834_Vertical)
 - Short Link: [http://oom.lt/FZKCNUUBTE5787834F](http://oom.lt/FZKCNUUBTE5787834F)

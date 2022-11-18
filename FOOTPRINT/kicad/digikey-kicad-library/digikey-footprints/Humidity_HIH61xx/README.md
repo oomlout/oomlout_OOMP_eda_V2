@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Humidity_HIH61xx
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSHUMIDITYHIH61XX
 - Name: digikey-footprints : Humidity_HIH61xx
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Humidity_HIH61xx/
 - Description: digikey-footprints : Humidity_HIH61xx
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Humidity_HIH61xx](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Humidity_HIH61xx)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSHUMIDITYHIH61XX](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSHUMIDITYHIH61XX)

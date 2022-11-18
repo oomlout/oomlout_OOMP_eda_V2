@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-STEREOJACK2.5MM_SPECIAL_HOLES-ONLY
 - Hex ID: FZSSPARKFUNCNSSTEREOJ25SPECIALHONLY
 - Name: SparkFun-Connectors : STEREOJACK2.5MM_SPECIAL_HOLES-ONLY
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Connectors/STEREOJACK2.5MM_SPECIAL_HOLES-ONLY/
 - Description: SparkFun-Connectors : STEREOJACK2.5MM_SPECIAL_HOLES-ONLY
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-STEREOJACK2.5MM_SPECIAL_HOLES-ONLY](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-STEREOJACK2.5MM_SPECIAL_HOLES-ONLY)
 - Short Link: [http://oom.lt/FZSSPARKFUNCNSSTEREOJ25SPECIALHONLY](http://oom.lt/FZSSPARKFUNCNSSTEREOJ25SPECIALHONLY)

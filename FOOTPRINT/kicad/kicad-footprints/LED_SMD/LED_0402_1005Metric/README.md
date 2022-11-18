@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_0402_1005Metric
 - Hex ID: FZKLL4215VA
 - Name: LED_SMD : LED_0402_1005Metric
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_0402_1005Metric/
 - Description: LED_SMD : LED_0402_1005Metric
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_0402_1005Metric](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_0402_1005Metric)
 - Short Link: [http://oom.lt/FZKLL4215VA](http://oom.lt/FZKLL4215VA)

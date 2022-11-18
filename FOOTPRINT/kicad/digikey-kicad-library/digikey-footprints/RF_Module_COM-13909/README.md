@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-RF_Module_COM-13909
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSRFMOCOM1399
 - Name: digikey-footprints : RF_Module_COM-13909
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/RF_Module_COM-13909/
 - Description: digikey-footprints : RF_Module_COM-13909
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-RF_Module_COM-13909](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-RF_Module_COM-13909)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSRFMOCOM1399](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSRFMOCOM1399)

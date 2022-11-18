@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-switch-255SB
 - Hex ID: FZESW255SB
 - Name: switch : 255SB
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/switch/255SB/
 - Description: switch : 255SB
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-255SB](http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-255SB)
 - Short Link: [http://oom.lt/FZESW255SB](http://oom.lt/FZESW255SB)

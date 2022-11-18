@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-switch-SRRM265900
 - Hex ID: FZESWSRRM2659
 - Name: switch : SRRM265900
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/switch/SRRM265900/
 - Description: switch : SRRM265900
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-SRRM265900](http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-SRRM265900)
 - Short Link: [http://oom.lt/FZESWSRRM2659](http://oom.lt/FZESWSRRM2659)

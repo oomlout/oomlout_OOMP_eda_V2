@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-diode-TO236
 - Hex ID: FZEDIODETO236
 - Name: diode : TO236
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/diode/TO236/
 - Description: diode : TO236
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-diode-TO236](http://oom.lt/FOOTPRINT-eagle-eagle-default-diode-TO236)
 - Short Link: [http://oom.lt/FZEDIODETO236](http://oom.lt/FZEDIODETO236)

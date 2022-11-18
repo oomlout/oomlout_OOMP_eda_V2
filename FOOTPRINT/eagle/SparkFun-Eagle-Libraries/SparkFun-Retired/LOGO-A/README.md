@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-LOGO-A
 - Hex ID: FZSRTLA
 - Name: SparkFun-Retired : LOGO-A
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Retired/LOGO-A/
 - Description: SparkFun-Retired : LOGO-A
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-LOGO-A](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-LOGO-A)
 - Short Link: [http://oom.lt/FZSRTLA](http://oom.lt/FZSRTLA)

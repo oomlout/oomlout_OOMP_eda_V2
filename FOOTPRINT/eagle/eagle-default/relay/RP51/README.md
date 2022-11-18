@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-relay-RP51
 - Hex ID: FZERELAYRP51
 - Name: relay : RP51
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/relay/RP51/
 - Description: relay : RP51
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-RP51](http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-RP51)
 - Short Link: [http://oom.lt/FZERELAYRP51](http://oom.lt/FZERELAYRP51)

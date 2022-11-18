@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Potentiometer_SMD-Potentiometer_Bourns_3214G_Horizontal
 - Hex ID: FZKPPOTBOURNS3214GH
 - Name: Potentiometer_SMD : Potentiometer_Bourns_3214G_Horizontal
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Potentiometer_SMD/Potentiometer_Bourns_3214G_Horizontal/
 - Description: Potentiometer_SMD : Potentiometer_Bourns_3214G_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Potentiometer_SMD-Potentiometer_Bourns_3214G_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Potentiometer_SMD-Potentiometer_Bourns_3214G_Horizontal)
 - Short Link: [http://oom.lt/FZKPPOTBOURNS3214GH](http://oom.lt/FZKPPOTBOURNS3214GH)

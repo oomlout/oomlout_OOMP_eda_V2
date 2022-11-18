@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-smd-ipc-TO268
 - Hex ID: FZESMIPCTO268
 - Name: smd-ipc : TO268
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/smd-ipc/TO268/
 - Description: smd-ipc : TO268
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-TO268](http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-TO268)
 - Short Link: [http://oom.lt/FZESMIPCTO268](http://oom.lt/FZESMIPCTO268)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Resistors-TRIMPOT-SMD-TC33X
 - Hex ID: FZSRTRIMPOTSMTC33X
 - Name: SparkFun-Resistors : TRIMPOT-SMD-TC33X
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Resistors/TRIMPOT-SMD-TC33X/
 - Description: SparkFun-Resistors : TRIMPOT-SMD-TC33X
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Resistors-TRIMPOT-SMD-TC33X](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Resistors-TRIMPOT-SMD-TC33X)
 - Short Link: [http://oom.lt/FZSRTRIMPOTSMTC33X](http://oom.lt/FZSRTRIMPOTSMTC33X)

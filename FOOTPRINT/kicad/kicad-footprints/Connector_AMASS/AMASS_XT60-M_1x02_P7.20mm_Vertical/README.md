@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_AMASS-AMASS_XT60-M_1x02_P7.20mm_Vertical
 - Hex ID: FZKCNAMASSAMASSXT6M1X2P72F
 - Name: Connector_AMASS : AMASS_XT60-M_1x02_P7.20mm_Vertical
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_AMASS/AMASS_XT60-M_1x02_P7.20mm_Vertical/
 - Description: Connector_AMASS : AMASS_XT60-M_1x02_P7.20mm_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_AMASS-AMASS_XT60-M_1x02_P7.20mm_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_AMASS-AMASS_XT60-M_1x02_P7.20mm_Vertical)
 - Short Link: [http://oom.lt/FZKCNAMASSAMASSXT6M1X2P72F](http://oom.lt/FZKCNAMASSAMASSXT6M1X2P72F)

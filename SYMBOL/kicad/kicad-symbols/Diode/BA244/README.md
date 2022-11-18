@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-BA244
 - Hex ID: SZKDIODEBA244
 - Name: Diode : BA244
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/BA244/
 - Description: Diode : BA244
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-BA244](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-BA244)
 - Short Link: [http://oom.lt/SZKDIODEBA244](http://oom.lt/SZKDIODEBA244)

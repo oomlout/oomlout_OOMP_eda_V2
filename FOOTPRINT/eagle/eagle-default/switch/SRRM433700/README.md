@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-switch-SRRM433700
 - Hex ID: FZESWSRRM4337
 - Name: switch : SRRM433700
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/switch/SRRM433700/
 - Description: switch : SRRM433700
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-SRRM433700](http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-SRRM433700)
 - Short Link: [http://oom.lt/FZESWSRRM4337](http://oom.lt/FZESWSRRM4337)

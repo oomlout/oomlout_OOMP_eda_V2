@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Texas_S-PVQFN-N20_EP2.4x2.4mm
 - Hex ID: FZKDFNTEXASSPVQFNN2EP24X24
 - Name: Package_DFN_QFN : Texas_S-PVQFN-N20_EP2.4x2.4mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/Texas_S-PVQFN-N20_EP2.4x2.4mm/
 - Description: Package_DFN_QFN : Texas_S-PVQFN-N20_EP2.4x2.4mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Texas_S-PVQFN-N20_EP2.4x2.4mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Texas_S-PVQFN-N20_EP2.4x2.4mm)
 - Short Link: [http://oom.lt/FZKDFNTEXASSPVQFNN2EP24X24](http://oom.lt/FZKDFNTEXASSPVQFNN2EP24X24)

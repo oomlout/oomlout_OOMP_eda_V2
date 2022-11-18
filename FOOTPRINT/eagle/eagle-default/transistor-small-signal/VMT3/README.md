@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-transistor-small-signal-VMT3
 - Hex ID: FZETRANSISTORSLLSIGNALVMT3
 - Name: transistor-small-signal : VMT3
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/transistor-small-signal/VMT3/
 - Description: transistor-small-signal : VMT3
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-small-signal-VMT3](http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-small-signal-VMT3)
 - Short Link: [http://oom.lt/FZETRANSISTORSLLSIGNALVMT3](http://oom.lt/FZETRANSISTORSLLSIGNALVMT3)

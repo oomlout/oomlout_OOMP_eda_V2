@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_LineDriver-DS89C21
 - Hex ID: SZKINTERFACELINEDRIVERDS89C21
 - Name: Interface_LineDriver : DS89C21
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_LineDriver/DS89C21/
 - Description: Interface_LineDriver : DS89C21
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_LineDriver-DS89C21](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_LineDriver-DS89C21)
 - Short Link: [http://oom.lt/SZKINTERFACELINEDRIVERDS89C21](http://oom.lt/SZKINTERFACELINEDRIVERDS89C21)

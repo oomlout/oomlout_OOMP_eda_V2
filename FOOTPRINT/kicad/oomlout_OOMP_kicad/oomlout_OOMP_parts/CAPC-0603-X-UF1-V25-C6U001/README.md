@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0603-X-UF1-V25-C6U001
 - Hex ID: FZOOMPKOOMPPCAPC63XUF1V25C6U1
 - Name: oomlout_OOMP_parts : CAPC-0603-X-UF1-V25-C6U001
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/CAPC-0603-X-UF1-V25-C6U001/
 - Description: oomlout_OOMP_parts : CAPC-0603-X-UF1-V25-C6U001
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0603-X-UF1-V25-C6U001](http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0603-X-UF1-V25-C6U001)
 - Short Link: [http://oom.lt/FZOOMPKOOMPPCAPC63XUF1V25C6U1](http://oom.lt/FZOOMPKOOMPPCAPC63XUF1V25C6U1)

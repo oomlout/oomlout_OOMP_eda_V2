@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_Coaxial-MMCX_Molex_73415-1471_Vertical
 - Hex ID: FZKCNCOACXMX734151471F
 - Name: Connector_Coaxial : MMCX_Molex_73415-1471_Vertical
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Coaxial/MMCX_Molex_73415-1471_Vertical/
 - Description: Connector_Coaxial : MMCX_Molex_73415-1471_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Coaxial-MMCX_Molex_73415-1471_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Coaxial-MMCX_Molex_73415-1471_Vertical)
 - Short Link: [http://oom.lt/FZKCNCOACXMX734151471F](http://oom.lt/FZKCNCOACXMX734151471F)

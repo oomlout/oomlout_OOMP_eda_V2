@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-LEDS-0603-W-STAN-01-L6W
 - Hex ID: SZOOMPKOOMPPLS63WSTAN1L6W
 - Name: oomlout_OOMP_parts : LEDS-0603-W-STAN-01-L6W
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/LEDS-0603-W-STAN-01-L6W/
 - Description: oomlout_OOMP_parts : LEDS-0603-W-STAN-01-L6W
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-LEDS-0603-W-STAN-01-L6W](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-LEDS-0603-W-STAN-01-L6W)
 - Short Link: [http://oom.lt/SZOOMPKOOMPPLS63WSTAN1L6W](http://oom.lt/SZOOMPKOOMPPLS63WSTAN1L6W)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_Expansion-PCA9557PW
 - Hex ID: SZKINTERFACEEXPANSIONPCA9557PW
 - Name: Interface_Expansion : PCA9557PW
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_Expansion/PCA9557PW/
 - Description: Interface_Expansion : PCA9557PW
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Expansion-PCA9557PW](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Expansion-PCA9557PW)
 - Short Link: [http://oom.lt/SZKINTERFACEEXPANSIONPCA9557PW](http://oom.lt/SZKINTERFACEEXPANSIONPCA9557PW)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-SW_SPDT_CK-JS102011SAQN
 - Hex ID: FZKBSWSPDTCKJS1211SAQN
 - Name: Button_Switch_SMD : SW_SPDT_CK-JS102011SAQN
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Button_Switch_SMD/SW_SPDT_CK-JS102011SAQN/
 - Description: Button_Switch_SMD : SW_SPDT_CK-JS102011SAQN
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-SW_SPDT_CK-JS102011SAQN](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-SW_SPDT_CK-JS102011SAQN)
 - Short Link: [http://oom.lt/FZKBSWSPDTCKJS1211SAQN](http://oom.lt/FZKBSWSPDTCKJS1211SAQN)

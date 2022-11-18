@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-texas-PBGA-N64
 - Hex ID: FZETEXASPBGAN64
 - Name: texas : PBGA-N64
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/texas/PBGA-N64/
 - Description: texas : PBGA-N64
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-texas-PBGA-N64](http://oom.lt/FOOTPRINT-eagle-eagle-default-texas-PBGA-N64)
 - Short Link: [http://oom.lt/FZETEXASPBGAN64](http://oom.lt/FZETEXASPBGAN64)

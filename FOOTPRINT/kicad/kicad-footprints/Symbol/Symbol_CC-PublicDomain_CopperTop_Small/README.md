@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Symbol-Symbol_CC-PublicDomain_CopperTop_Small
 - Hex ID: FZKSZSYCCPUBLICDOMAINCTOPSLL
 - Name: Symbol : Symbol_CC-PublicDomain_CopperTop_Small
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Symbol/Symbol_CC-PublicDomain_CopperTop_Small/
 - Description: Symbol : Symbol_CC-PublicDomain_CopperTop_Small
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Symbol-Symbol_CC-PublicDomain_CopperTop_Small](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Symbol-Symbol_CC-PublicDomain_CopperTop_Small)
 - Short Link: [http://oom.lt/FZKSZSYCCPUBLICDOMAINCTOPSLL](http://oom.lt/FZKSZSYCCPUBLICDOMAINCTOPSLL)

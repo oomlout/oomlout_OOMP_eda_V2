@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-Diode_Bridge-KBPC5008T
 - Hex ID: SZKDIODEBRIDGEKBPC58T
 - Name: Diode_Bridge : KBPC5008T
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode_Bridge/KBPC5008T/
 - Description: Diode_Bridge : KBPC5008T
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode_Bridge-KBPC5008T](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode_Bridge-KBPC5008T)
 - Short Link: [http://oom.lt/SZKDIODEBRIDGEKBPC58T](http://oom.lt/SZKDIODEBRIDGEKBPC58T)

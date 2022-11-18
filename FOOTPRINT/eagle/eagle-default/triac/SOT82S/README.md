@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-triac-SOT82S
 - Hex ID: FZETRIACSOT82S
 - Name: triac : SOT82S
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/triac/SOT82S/
 - Description: triac : SOT82S
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-triac-SOT82S](http://oom.lt/FOOTPRINT-eagle-eagle-default-triac-SOT82S)
 - Short Link: [http://oom.lt/FZETRIACSOT82S](http://oom.lt/FZETRIACSOT82S)

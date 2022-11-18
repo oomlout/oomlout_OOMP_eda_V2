@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Memory_Flash-W25Q32JVZP
 - Hex ID: SZKMEMORYFLASHW25Q32JVZP
 - Name: Memory_Flash : W25Q32JVZP
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Memory_Flash/W25Q32JVZP/
 - Description: Memory_Flash : W25Q32JVZP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_Flash-W25Q32JVZP](http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_Flash-W25Q32JVZP)
 - Short Link: [http://oom.lt/SZKMEMORYFLASHW25Q32JVZP](http://oom.lt/SZKMEMORYFLASHW25Q32JVZP)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-phoenix-500-MSTBV2R
 - Hex ID: FZECONPHOENIX5MSTBV2R
 - Name: con-phoenix-500 : MSTBV2R
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-phoenix-500/MSTBV2R/
 - Description: con-phoenix-500 : MSTBV2R
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-phoenix-500-MSTBV2R](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-phoenix-500-MSTBV2R)
 - Short Link: [http://oom.lt/FZECONPHOENIX5MSTBV2R](http://oom.lt/FZECONPHOENIX5MSTBV2R)

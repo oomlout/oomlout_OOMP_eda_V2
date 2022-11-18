@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-power-+10V
 - Hex ID: SZKPOWER+1V
 - Name: power : +10V
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/power/+10V/
 - Description: power : +10V
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-power-+10V](http://oom.lt/SYMBOL-kicad-kicad-symbols-power-+10V)
 - Short Link: [http://oom.lt/SZKPOWER+1V](http://oom.lt/SZKPOWER+1V)

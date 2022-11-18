@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Radial_L7.5mm_W4.6mm_P5.00mm_Neosid_SD75
 - Hex ID: FZKINLRL75W46P5NEOSIDSD75
 - Name: Inductor_THT : L_Radial_L7.5mm_W4.6mm_P5.00mm_Neosid_SD75
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Radial_L7.5mm_W4.6mm_P5.00mm_Neosid_SD75/
 - Description: Inductor_THT : L_Radial_L7.5mm_W4.6mm_P5.00mm_Neosid_SD75
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Radial_L7.5mm_W4.6mm_P5.00mm_Neosid_SD75](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Radial_L7.5mm_W4.6mm_P5.00mm_Neosid_SD75)
 - Short Link: [http://oom.lt/FZKINLRL75W46P5NEOSIDSD75](http://oom.lt/FZKINLRL75W46P5NEOSIDSD75)

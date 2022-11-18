@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-trafo-siemens-ST-D2
 - Hex ID: FZETRAFOSIEMENSSTD2
 - Name: trafo-siemens : ST-D2
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/trafo-siemens/ST-D2/
 - Description: trafo-siemens : ST-D2
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-trafo-siemens-ST-D2](http://oom.lt/FOOTPRINT-eagle-eagle-default-trafo-siemens-ST-D2)
 - Short Link: [http://oom.lt/FZETRAFOSIEMENSSTD2](http://oom.lt/FZETRAFOSIEMENSSTD2)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-MINI_MELF-0102AX
 - Hex ID: FZA12AX
 - Name: adafruit : MINI_MELF-0102AX
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/MINI_MELF-0102AX/
 - Description: adafruit : MINI_MELF-0102AX
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-MINI_MELF-0102AX](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-MINI_MELF-0102AX)
 - Short Link: [http://oom.lt/FZA12AX](http://oom.lt/FZA12AX)

@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEREFPACKAGESLCC1 > ref-packages : LCC-100](#fzerefpackageslcc1--ref-packages--lcc-100)
+* [FZEREFPSLCC1 > ref-packages : LCC-100](#fzerefpslcc1--ref-packages--lcc-100)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEREFPACKAGESLCC1 > ref-packages : LCC-100
+# FZEREFPSLCC1 > ref-packages : LCC-100
 
 - ID: FOOTPRINT-eagle-eagle-default-ref-packages-LCC-100
-- Hex ID: FZEREFPACKAGESLCC1
+- Hex ID: FZEREFPSLCC1
 - Name: ref-packages : LCC-100
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ref-packages/LCC-100/
 - Description: ref-packages : LCC-100
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-LCC-100](http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-LCC-100)
-- Short Link: [http://oom.lt/FZEREFPACKAGESLCC1](http://oom.lt/FZEREFPACKAGESLCC1)
+- Short Link: [http://oom.lt/FZEREFPSLCC1](http://oom.lt/FZEREFPSLCC1)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|ref-packages|
 |OOMP Index|oompIndex|LCC-100|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-ref-packages-LCC-100|
-|Hex ID (short code)|hexID|FZEREFPACKAGESLCC1|
+|Hex ID (short code)|hexID|FZEREFPSLCC1|
 |name|name|ref-packages : LCC-100|
 ||||

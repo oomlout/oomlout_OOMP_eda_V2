@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0805-X-PF22-V50-C8P22-C1804
 - Hex ID: FZOOMPKJLCCAPC85XPF22V5C8P22C184
 - Name: oomlout_OOMP_JLCC_Basic : CAPC-0805-X-PF22-V50-C8P22-C1804
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_JLCC_Basic/CAPC-0805-X-PF22-V50-C8P22-C1804/
 - Description: oomlout_OOMP_JLCC_Basic : CAPC-0805-X-PF22-V50-C8P22-C1804
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0805-X-PF22-V50-C8P22-C1804](http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0805-X-PF22-V50-C8P22-C1804)
 - Short Link: [http://oom.lt/FZOOMPKJLCCAPC85XPF22V5C8P22C184](http://oom.lt/FZOOMPKJLCCAPC85XPF22V5C8P22C184)

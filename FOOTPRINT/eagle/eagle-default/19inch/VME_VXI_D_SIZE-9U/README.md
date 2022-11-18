@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-19inch-VME_VXI_D_SIZE-9U
 - Hex ID: FZE19INCHVMEVXIDSIZE9U
 - Name: 19inch : VME_VXI_D_SIZE-9U
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/19inch/VME_VXI_D_SIZE-9U/
 - Description: 19inch : VME_VXI_D_SIZE-9U
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-19inch-VME_VXI_D_SIZE-9U](http://oom.lt/FOOTPRINT-eagle-eagle-default-19inch-VME_VXI_D_SIZE-9U)
 - Short Link: [http://oom.lt/FZE19INCHVMEVXIDSIZE9U](http://oom.lt/FZE19INCHVMEVXIDSIZE9U)

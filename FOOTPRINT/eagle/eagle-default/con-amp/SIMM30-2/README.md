@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-amp-SIMM30-2
 - Hex ID: FZECONAMPSI32
 - Name: con-amp : SIMM30-2
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-amp/SIMM30-2/
 - Description: con-amp : SIMM30-2
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-amp-SIMM30-2](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-amp-SIMM30-2)
 - Short Link: [http://oom.lt/FZECONAMPSI32](http://oom.lt/FZECONAMPSI32)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Buzzard-!INT_I
 - Hex ID: FZSBU!INTI
 - Name: SparkFun-Buzzard : !INT_I
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Buzzard/!INT_I/
 - Description: SparkFun-Buzzard : !INT_I
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Buzzard-!INT_I](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Buzzard-!INT_I)
 - Short Link: [http://oom.lt/FZSBU!INTI](http://oom.lt/FZSBU!INTI)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-BUTA-52D-X-SMDS-01-
 - Hex ID: SZOOMPKOOMPPBUTA52DXSMS1
 - Name: oomlout_OOMP_parts : BUTA-52D-X-SMDS-01-
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/BUTA-52D-X-SMDS-01-/
 - Description: oomlout_OOMP_parts : BUTA-52D-X-SMDS-01-
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-BUTA-52D-X-SMDS-01-](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-BUTA-52D-X-SMDS-01-)
 - Short Link: [http://oom.lt/SZOOMPKOOMPPBUTA52DXSMS1](http://oom.lt/SZOOMPKOOMPPBUTA52DXSMS1)

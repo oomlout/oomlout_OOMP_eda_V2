@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-C4532
 - Hex ID: FZAC4532
 - Name: adafruit : C4532
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/C4532/
 - Description: adafruit : C4532
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-C4532](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-C4532)
 - Short Link: [http://oom.lt/FZAC4532](http://oom.lt/FZAC4532)

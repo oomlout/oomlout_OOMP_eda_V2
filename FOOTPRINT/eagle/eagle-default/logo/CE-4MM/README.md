@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-logo-CE-4MM
 - Hex ID: FZELCE4
 - Name: logo : CE-4MM
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/logo/CE-4MM/
 - Description: logo : CE-4MM
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-logo-CE-4MM](http://oom.lt/FOOTPRINT-eagle-eagle-default-logo-CE-4MM)
 - Short Link: [http://oom.lt/FZELCE4](http://oom.lt/FZELCE4)

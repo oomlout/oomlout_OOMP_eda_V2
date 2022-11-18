@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-SOT-227
 - Hex ID: FZKSOTSOT227
 - Name: Package_TO_SOT_THT : SOT-227
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_THT/SOT-227/
 - Description: Package_TO_SOT_THT : SOT-227
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-SOT-227](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-SOT-227)
 - Short Link: [http://oom.lt/FZKSOTSOT227](http://oom.lt/FZKSOTSOT227)

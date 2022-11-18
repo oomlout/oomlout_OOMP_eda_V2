@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Device-R_Network13_Split
 - Hex ID: SZKDEVICERNETWORK13SPLIT
 - Name: Device : R_Network13_Split
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/R_Network13_Split/
 - Description: Device : R_Network13_Split
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-R_Network13_Split](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-R_Network13_Split)
 - Short Link: [http://oom.lt/SZKDEVICERNETWORK13SPLIT](http://oom.lt/SZKDEVICERNETWORK13SPLIT)

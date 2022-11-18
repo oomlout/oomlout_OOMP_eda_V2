@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Memory_RAM-ESP-PSRAM32
 - Hex ID: SZKMEMORYRAMESPPSRAM32
 - Name: Memory_RAM : ESP-PSRAM32
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Memory_RAM/ESP-PSRAM32/
 - Description: Memory_RAM : ESP-PSRAM32
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_RAM-ESP-PSRAM32](http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_RAM-ESP-PSRAM32)
 - Short Link: [http://oom.lt/SZKMEMORYRAMESPPSRAM32](http://oom.lt/SZKMEMORYRAMESPPSRAM32)

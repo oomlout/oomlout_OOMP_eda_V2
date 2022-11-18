@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Texas_S-PWQFN-N100_EP5.5x5.5mm
 - Hex ID: FZKDFNTEXASSPWQFNN1EP55X55
 - Name: Package_DFN_QFN : Texas_S-PWQFN-N100_EP5.5x5.5mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/Texas_S-PWQFN-N100_EP5.5x5.5mm/
 - Description: Package_DFN_QFN : Texas_S-PWQFN-N100_EP5.5x5.5mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Texas_S-PWQFN-N100_EP5.5x5.5mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Texas_S-PWQFN-N100_EP5.5x5.5mm)
 - Short Link: [http://oom.lt/FZKDFNTEXASSPWQFNN1EP55X55](http://oom.lt/FZKDFNTEXASSPWQFNN1EP55X55)

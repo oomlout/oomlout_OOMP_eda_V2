@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_UART-SC16IS762IBS
 - Hex ID: SZKINTERFACEUARTSC16IS762IBS
 - Name: Interface_UART : SC16IS762IBS
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_UART/SC16IS762IBS/
 - Description: Interface_UART : SC16IS762IBS
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_UART-SC16IS762IBS](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_UART-SC16IS762IBS)
 - Short Link: [http://oom.lt/SZKINTERFACEUARTSC16IS762IBS](http://oom.lt/SZKINTERFACEUARTSC16IS762IBS)

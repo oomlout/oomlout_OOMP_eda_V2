@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Aesthetics-NO_PB_LOGO_0.120
 - Hex ID: FZSANOPBL12
 - Name: SparkFun-Aesthetics : NO_PB_LOGO_0.120
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Aesthetics/NO_PB_LOGO_0.120/
 - Description: SparkFun-Aesthetics : NO_PB_LOGO_0.120
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Aesthetics-NO_PB_LOGO_0.120](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Aesthetics-NO_PB_LOGO_0.120)
 - Short Link: [http://oom.lt/FZSANOPBL12](http://oom.lt/FZSANOPBL12)

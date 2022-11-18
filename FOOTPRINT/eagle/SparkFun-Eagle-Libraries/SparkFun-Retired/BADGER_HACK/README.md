@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-BADGER_HACK
 - Hex ID: FZSRTBADGERHACK
 - Name: SparkFun-Retired : BADGER_HACK
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Retired/BADGER_HACK/
 - Description: SparkFun-Retired : BADGER_HACK
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-BADGER_HACK](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-BADGER_HACK)
 - Short Link: [http://oom.lt/FZSRTBADGERHACK](http://oom.lt/FZSRTBADGERHACK)

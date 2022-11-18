@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-samtec-TSW-141-08-G-Q-RA
 - Hex ID: FZECONSAMTECTSW1418GQRA
 - Name: con-samtec : TSW-141-08-G-Q-RA
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-samtec/TSW-141-08-G-Q-RA/
 - Description: con-samtec : TSW-141-08-G-Q-RA
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-samtec-TSW-141-08-G-Q-RA](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-samtec-TSW-141-08-G-Q-RA)
 - Short Link: [http://oom.lt/FZECONSAMTECTSW1418GQRA](http://oom.lt/FZECONSAMTECTSW1418GQRA)

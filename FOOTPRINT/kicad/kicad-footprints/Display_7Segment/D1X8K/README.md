@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Display_7Segment-D1X8K
 - Hex ID: FZKDI7SD1X8K
 - Name: Display_7Segment : D1X8K
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Display_7Segment/D1X8K/
 - Description: Display_7Segment : D1X8K
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Display_7Segment-D1X8K](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Display_7Segment-D1X8K)
 - Short Link: [http://oom.lt/FZKDI7SD1X8K](http://oom.lt/FZKDI7SD1X8K)

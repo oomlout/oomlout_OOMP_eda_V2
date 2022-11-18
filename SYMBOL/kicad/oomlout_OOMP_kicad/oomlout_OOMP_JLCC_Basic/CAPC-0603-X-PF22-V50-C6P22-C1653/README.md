@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0603-X-PF22-V50-C6P22-C1653
 - Hex ID: SZOOMPKJLCCAPC63XPF22V5C6P22C1653
 - Name: oomlout_OOMP_JLCC_Basic : CAPC-0603-X-PF22-V50-C6P22-C1653
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_JLCC_Basic/CAPC-0603-X-PF22-V50-C6P22-C1653/
 - Description: oomlout_OOMP_JLCC_Basic : CAPC-0603-X-PF22-V50-C6P22-C1653
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0603-X-PF22-V50-C6P22-C1653](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0603-X-PF22-V50-C6P22-C1653)
 - Short Link: [http://oom.lt/SZOOMPKJLCCAPC63XPF22V5C6P22C1653](http://oom.lt/SZOOMPKJLCCAPC63XPF22V5C6P22C1653)

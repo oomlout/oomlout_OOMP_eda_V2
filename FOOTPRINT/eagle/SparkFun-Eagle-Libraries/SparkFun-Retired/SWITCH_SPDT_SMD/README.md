@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-SWITCH_SPDT_SMD
 - Hex ID: FZSRTSWSPDTSM
 - Name: SparkFun-Retired : SWITCH_SPDT_SMD
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Retired/SWITCH_SPDT_SMD/
 - Description: SparkFun-Retired : SWITCH_SPDT_SMD
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-SWITCH_SPDT_SMD](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-SWITCH_SPDT_SMD)
 - Short Link: [http://oom.lt/FZSRTSWSPDTSM](http://oom.lt/FZSRTSWSPDTSM)

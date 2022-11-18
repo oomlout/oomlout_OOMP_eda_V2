@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Analog-MLX90320xFR
 - Hex ID: SZKANALOGMLX932XFR
 - Name: Analog : MLX90320xFR
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog/MLX90320xFR/
 - Description: Analog : MLX90320xFR
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog-MLX90320xFR](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog-MLX90320xFR)
 - Short Link: [http://oom.lt/SZKANALOGMLX932XFR](http://oom.lt/SZKANALOGMLX932XFR)

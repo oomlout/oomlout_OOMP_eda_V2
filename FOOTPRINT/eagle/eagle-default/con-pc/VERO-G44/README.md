@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-pc-VERO-G44
 - Hex ID: FZECONPCVEROG44
 - Name: con-pc : VERO-G44
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-pc/VERO-G44/
 - Description: con-pc : VERO-G44
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-pc-VERO-G44](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-pc-VERO-G44)
 - Short Link: [http://oom.lt/FZECONPCVEROG44](http://oom.lt/FZECONPCVEROG44)

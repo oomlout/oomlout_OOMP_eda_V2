@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-atmel-PLCC32R
 - Hex ID: FZEATMELPLCC32R
 - Name: atmel : PLCC32R
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/atmel/PLCC32R/
 - Description: atmel : PLCC32R
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-atmel-PLCC32R](http://oom.lt/FOOTPRINT-eagle-eagle-default-atmel-PLCC32R)
 - Short Link: [http://oom.lt/FZEATMELPLCC32R](http://oom.lt/FZEATMELPLCC32R)

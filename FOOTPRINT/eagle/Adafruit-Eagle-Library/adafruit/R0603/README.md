@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-R0603
 - Hex ID: FZAR63
 - Name: adafruit : R0603
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/R0603/
 - Description: adafruit : R0603
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-R0603](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-R0603)
 - Short Link: [http://oom.lt/FZAR63](http://oom.lt/FZAR63)

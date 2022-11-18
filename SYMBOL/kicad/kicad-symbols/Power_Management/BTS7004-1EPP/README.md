@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Power_Management-BTS7004-1EPP
 - Hex ID: SZKPOWERMANAGEMENTBTS741EPP
 - Name: Power_Management : BTS7004-1EPP
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Power_Management/BTS7004-1EPP/
 - Description: Power_Management : BTS7004-1EPP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-BTS7004-1EPP](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-BTS7004-1EPP)
 - Short Link: [http://oom.lt/SZKPOWERMANAGEMENTBTS741EPP](http://oom.lt/SZKPOWERMANAGEMENTBTS741EPP)

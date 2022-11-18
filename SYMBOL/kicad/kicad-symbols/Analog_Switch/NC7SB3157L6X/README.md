@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Analog_Switch-NC7SB3157L6X
 - Hex ID: SZKANALOGSWNC7SB3157L6X
 - Name: Analog_Switch : NC7SB3157L6X
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog_Switch/NC7SB3157L6X/
 - Description: Analog_Switch : NC7SB3157L6X
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_Switch-NC7SB3157L6X](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_Switch-NC7SB3157L6X)
 - Short Link: [http://oom.lt/SZKANALOGSWNC7SB3157L6X](http://oom.lt/SZKANALOGSWNC7SB3157L6X)

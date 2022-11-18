@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0603-X-UF47D-V16-C6U47D16
 - Hex ID: FZOOMPKOOMPPCAPC63XUF47DV16C6U47D16
 - Name: oomlout_OOMP_parts : CAPC-0603-X-UF47D-V16-C6U47D16
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/CAPC-0603-X-UF47D-V16-C6U47D16/
 - Description: oomlout_OOMP_parts : CAPC-0603-X-UF47D-V16-C6U47D16
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0603-X-UF47D-V16-C6U47D16](http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0603-X-UF47D-V16-C6U47D16)
 - Short Link: [http://oom.lt/FZOOMPKOOMPPCAPC63XUF47DV16C6U47D16](http://oom.lt/FZOOMPKOOMPPCAPC63XUF47DV16C6U47D16)

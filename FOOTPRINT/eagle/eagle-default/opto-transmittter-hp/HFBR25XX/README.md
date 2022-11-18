@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-opto-transmittter-hp-HFBR25XX
 - Hex ID: FZEOPTOTRANSMITTTERHPHFBR25XX
 - Name: opto-transmittter-hp : HFBR25XX
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/opto-transmittter-hp/HFBR25XX/
 - Description: opto-transmittter-hp : HFBR25XX
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-opto-transmittter-hp-HFBR25XX](http://oom.lt/FOOTPRINT-eagle-eagle-default-opto-transmittter-hp-HFBR25XX)
 - Short Link: [http://oom.lt/FZEOPTOTRANSMITTTERHPHFBR25XX](http://oom.lt/FZEOPTOTRANSMITTTERHPHFBR25XX)

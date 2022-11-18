@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Button_Switch_THT-SW_Tactile_SKHH_Angled
 - Hex ID: FZKBSWTSKHHANGL
 - Name: Button_Switch_THT : SW_Tactile_SKHH_Angled
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/SW_Tactile_SKHH_Angled/
 - Description: Button_Switch_THT : SW_Tactile_SKHH_Angled
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Button_Switch_THT-SW_Tactile_SKHH_Angled](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Button_Switch_THT-SW_Tactile_SKHH_Angled)
 - Short Link: [http://oom.lt/FZKBSWTSKHHANGL](http://oom.lt/FZKBSWTSKHHANGL)

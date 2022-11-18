@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-OptoDevice-Osram_SFH2430
 - Hex ID: FZKOPOSRAMSFH243
 - Name: OptoDevice : Osram_SFH2430
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/OptoDevice/Osram_SFH2430/
 - Description: OptoDevice : Osram_SFH2430
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-OptoDevice-Osram_SFH2430](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-OptoDevice-Osram_SFH2430)
 - Short Link: [http://oom.lt/FZKOPOSRAMSFH243](http://oom.lt/FZKOPOSRAMSFH243)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Driver_FET-LM5109BSD
 - Hex ID: SZKDRIVERFETLM519BSD
 - Name: Driver_FET : LM5109BSD
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Driver_FET/LM5109BSD/
 - Description: Driver_FET : LM5109BSD
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-LM5109BSD](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-LM5109BSD)
 - Short Link: [http://oom.lt/SZKDRIVERFETLM519BSD](http://oom.lt/SZKDRIVERFETLM519BSD)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Capacitor_THT-C_Rect_L10.0mm_W5.0mm_P5.00mm_P7.50mm
 - Hex ID: FZKCCRECTL1W5P5P75
 - Name: Capacitor_THT : C_Rect_L10.0mm_W5.0mm_P5.00mm_P7.50mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Capacitor_THT/C_Rect_L10.0mm_W5.0mm_P5.00mm_P7.50mm/
 - Description: Capacitor_THT : C_Rect_L10.0mm_W5.0mm_P5.00mm_P7.50mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_THT-C_Rect_L10.0mm_W5.0mm_P5.00mm_P7.50mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_THT-C_Rect_L10.0mm_W5.0mm_P5.00mm_P7.50mm)
 - Short Link: [http://oom.lt/FZKCCRECTL1W5P5P75](http://oom.lt/FZKCCRECTL1W5P5P75)

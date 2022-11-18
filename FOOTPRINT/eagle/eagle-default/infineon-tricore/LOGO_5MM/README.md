@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-infineon-tricore-LOGO_5MM
 - Hex ID: FZEINFINEONTRICOREL5
 - Name: infineon-tricore : LOGO_5MM
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/infineon-tricore/LOGO_5MM/
 - Description: infineon-tricore : LOGO_5MM
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-infineon-tricore-LOGO_5MM](http://oom.lt/FOOTPRINT-eagle-eagle-default-infineon-tricore-LOGO_5MM)
 - Short Link: [http://oom.lt/FZEINFINEONTRICOREL5](http://oom.lt/FZEINFINEONTRICOREL5)

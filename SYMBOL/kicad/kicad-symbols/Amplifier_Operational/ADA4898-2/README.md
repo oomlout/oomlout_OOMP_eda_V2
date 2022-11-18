@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-ADA4898-2
 - Hex ID: SZKAMPLIFIEROPERATIONALADA48982
 - Name: Amplifier_Operational : ADA4898-2
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/ADA4898-2/
 - Description: Amplifier_Operational : ADA4898-2
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-ADA4898-2](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-ADA4898-2)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALADA48982](http://oom.lt/SZKAMPLIFIEROPERATIONALADA48982)

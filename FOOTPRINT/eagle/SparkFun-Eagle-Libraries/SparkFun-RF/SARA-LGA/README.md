@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-SARA-LGA
 - Hex ID: FZSRFSARALGA
 - Name: SparkFun-RF : SARA-LGA
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-RF/SARA-LGA/
 - Description: SparkFun-RF : SARA-LGA
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-SARA-LGA](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-SARA-LGA)
 - Short Link: [http://oom.lt/FZSRFSARALGA](http://oom.lt/FZSRFSARALGA)

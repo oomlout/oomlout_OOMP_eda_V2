@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-led-L-59EGW-CA
 - Hex ID: FZELL59EGWCA
 - Name: led : L-59EGW-CA
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/led/L-59EGW-CA/
 - Description: led : L-59EGW-CA
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-led-L-59EGW-CA](http://oom.lt/FOOTPRINT-eagle-eagle-default-led-L-59EGW-CA)
 - Short Link: [http://oom.lt/FZELL59EGWCA](http://oom.lt/FZELL59EGWCA)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-WQFN-24-1EP_4x4mm
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSWQFN241EP4X4
 - Name: digikey-footprints : WQFN-24-1EP_4x4mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/WQFN-24-1EP_4x4mm/
 - Description: digikey-footprints : WQFN-24-1EP_4x4mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-WQFN-24-1EP_4x4mm](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-WQFN-24-1EP_4x4mm)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSWQFN241EP4X4](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSWQFN241EP4X4)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-1206-X-UF7-V10-C12U710
 - Hex ID: FZOOMPKOOMPPCAPC126XUF7V1C12U71
 - Name: oomlout_OOMP_parts : CAPC-1206-X-UF7-V10-C12U710
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/CAPC-1206-X-UF7-V10-C12U710/
 - Description: oomlout_OOMP_parts : CAPC-1206-X-UF7-V10-C12U710
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-1206-X-UF7-V10-C12U710](http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-1206-X-UF7-V10-C12U710)
 - Short Link: [http://oom.lt/FZOOMPKOOMPPCAPC126XUF7V1C12U71](http://oom.lt/FZOOMPKOOMPPCAPC126XUF7V1C12U71)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-relay-JJM1C
 - Hex ID: FZERELAYJJM1C
 - Name: relay : JJM1C
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/relay/JJM1C/
 - Description: relay : JJM1C
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-JJM1C](http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-JJM1C)
 - Short Link: [http://oom.lt/FZERELAYJJM1C](http://oom.lt/FZERELAYJJM1C)

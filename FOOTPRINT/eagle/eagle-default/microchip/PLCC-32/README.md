@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-microchip-PLCC-32
 - Hex ID: FZEMCHIPPLCC32
 - Name: microchip : PLCC-32
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/microchip/PLCC-32/
 - Description: microchip : PLCC-32
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-microchip-PLCC-32](http://oom.lt/FOOTPRINT-eagle-eagle-default-microchip-PLCC-32)
 - Short Link: [http://oom.lt/FZEMCHIPPLCC32](http://oom.lt/FZEMCHIPPLCC32)

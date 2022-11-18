@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-atmel-LOGO
 - Hex ID: FZEATMELL
 - Name: atmel : LOGO
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/atmel/LOGO/
 - Description: atmel : LOGO
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-atmel-LOGO](http://oom.lt/FOOTPRINT-eagle-eagle-default-atmel-LOGO)
 - Short Link: [http://oom.lt/FZEATMELL](http://oom.lt/FZEATMELL)

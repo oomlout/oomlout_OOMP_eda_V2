@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LTC6082xGN
 - Hex ID: SZKAMPLIFIEROPERATIONALLTC682XGN
 - Name: Amplifier_Operational : LTC6082xGN
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/LTC6082xGN/
 - Description: Amplifier_Operational : LTC6082xGN
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LTC6082xGN](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LTC6082xGN)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALLTC682XGN](http://oom.lt/SZKAMPLIFIEROPERATIONALLTC682XGN)

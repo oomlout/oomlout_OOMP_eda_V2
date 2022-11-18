@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Capacitors-8X10.5
 - Hex ID: FZSC8X15
 - Name: SparkFun-Capacitors : 8X10.5
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Capacitors/8X10.5/
 - Description: SparkFun-Capacitors : 8X10.5
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Capacitors-8X10.5](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Capacitors-8X10.5)
 - Short Link: [http://oom.lt/FZSC8X15](http://oom.lt/FZSC8X15)

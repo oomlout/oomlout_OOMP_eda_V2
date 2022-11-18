@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0603-X-NF10-V50-C6N10-C57112
 - Hex ID: FZOOMPKJLCCAPC63XNF1V5C6N1C57112
 - Name: oomlout_OOMP_JLCC_Basic : CAPC-0603-X-NF10-V50-C6N10-C57112
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_JLCC_Basic/CAPC-0603-X-NF10-V50-C6N10-C57112/
 - Description: oomlout_OOMP_JLCC_Basic : CAPC-0603-X-NF10-V50-C6N10-C57112
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0603-X-NF10-V50-C6N10-C57112](http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0603-X-NF10-V50-C6N10-C57112)
 - Short Link: [http://oom.lt/FZOOMPKJLCCAPC63XNF1V5C6N1C57112](http://oom.lt/FZOOMPKJLCCAPC63XNF1V5C6N1C57112)

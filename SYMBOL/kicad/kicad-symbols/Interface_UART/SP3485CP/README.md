@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_UART-SP3485CP
 - Hex ID: SZKINTERFACEUARTSP3485CP
 - Name: Interface_UART : SP3485CP
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_UART/SP3485CP/
 - Description: Interface_UART : SP3485CP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_UART-SP3485CP](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_UART-SP3485CP)
 - Short Link: [http://oom.lt/SZKINTERFACEUARTSP3485CP](http://oom.lt/SZKINTERFACEUARTSP3485CP)

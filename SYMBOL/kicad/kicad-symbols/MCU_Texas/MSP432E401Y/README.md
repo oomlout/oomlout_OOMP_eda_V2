@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Texas-MSP432E401Y
 - Hex ID: SZKMCUTEXASMSP432E41Y
 - Name: MCU_Texas : MSP432E401Y
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Texas/MSP432E401Y/
 - Description: MCU_Texas : MSP432E401Y
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Texas-MSP432E401Y](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Texas-MSP432E401Y)
 - Short Link: [http://oom.lt/SZKMCUTEXASMSP432E41Y](http://oom.lt/SZKMCUTEXASMSP432E41Y)

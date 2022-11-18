@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKFUFUHOLDERBLADEATOLITTELFUPUDENZ2PIN > Fuse : Fuseholder_Blade_ATO_Littelfuse_Pudenz_2_Pin](#fzkfufuholderbladeatolittelfupudenz2pin--fuse--fuseholder_blade_ato_littelfuse_pudenz_2_pin)
+* [FZKFUFUHBLADEATOLITTELFUPUDENZ2P > Fuse : Fuseholder_Blade_ATO_Littelfuse_Pudenz_2_Pin](#fzkfufuhbladeatolittelfupudenz2p--fuse--fuseholder_blade_ato_littelfuse_pudenz_2_pin)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKFUFUHOLDERBLADEATOLITTELFUPUDENZ2PIN > Fuse : Fuseholder_Blade_ATO_Littelfuse_Pudenz_2_Pin
+# FZKFUFUHBLADEATOLITTELFUPUDENZ2P > Fuse : Fuseholder_Blade_ATO_Littelfuse_Pudenz_2_Pin
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Fuse-Fuseholder_Blade_ATO_Littelfuse_Pudenz_2_Pin
-- Hex ID: FZKFUFUHOLDERBLADEATOLITTELFUPUDENZ2PIN
+- Hex ID: FZKFUFUHBLADEATOLITTELFUPUDENZ2P
 - Name: Fuse : Fuseholder_Blade_ATO_Littelfuse_Pudenz_2_Pin
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Fuse/Fuseholder_Blade_ATO_Littelfuse_Pudenz_2_Pin/
 - Description: Fuse : Fuseholder_Blade_ATO_Littelfuse_Pudenz_2_Pin
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Fuse-Fuseholder_Blade_ATO_Littelfuse_Pudenz_2_Pin](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Fuse-Fuseholder_Blade_ATO_Littelfuse_Pudenz_2_Pin)
-- Short Link: [http://oom.lt/FZKFUFUHOLDERBLADEATOLITTELFUPUDENZ2PIN](http://oom.lt/FZKFUFUHOLDERBLADEATOLITTELFUPUDENZ2PIN)
+- Short Link: [http://oom.lt/FZKFUFUHBLADEATOLITTELFUPUDENZ2P](http://oom.lt/FZKFUFUHBLADEATOLITTELFUPUDENZ2P)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Fuse|
 |OOMP Index|oompIndex|Fuseholder_Blade_ATO_Littelfuse_Pudenz_2_Pin|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Fuse-Fuseholder_Blade_ATO_Littelfuse_Pudenz_2_Pin|
-|Hex ID (short code)|hexID|FZKFUFUHOLDERBLADEATOLITTELFUPUDENZ2PIN|
+|Hex ID (short code)|hexID|FZKFUFUHBLADEATOLITTELFUPUDENZ2P|
 |name|name|Fuse : Fuseholder_Blade_ATO_Littelfuse_Pudenz_2_Pin|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Fuseholder_Blade_ATO_Littelfuse_Pudenz_2_Pin'</td><td> 'description'</td></tr><tr><td> 'Fuseholder ATO Blade littelfuse Pudenz 2 Pin'</td><td> 'tags'</td></tr><tr><td> 'Fuseholder ATO Blade littelfuse Pudenz 2 Pin'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Fuse.3dshapes/Fuseholder_Blade_ATO_Littelfuse_Pudenz_2_Pin.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'np_thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||

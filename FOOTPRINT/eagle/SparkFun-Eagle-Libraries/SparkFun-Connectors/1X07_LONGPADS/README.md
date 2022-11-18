@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-1X07_LONGPADS
 - Hex ID: FZSSPARKFUNCNS1X7L
 - Name: SparkFun-Connectors : 1X07_LONGPADS
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Connectors/1X07_LONGPADS/
 - Description: SparkFun-Connectors : 1X07_LONGPADS
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-1X07_LONGPADS](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-1X07_LONGPADS)
 - Short Link: [http://oom.lt/FZSSPARKFUNCNS1X7L](http://oom.lt/FZSSPARKFUNCNS1X7L)

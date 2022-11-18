@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0402-X-PF70-V50-C4P70-C1537
 - Hex ID: SZOOMPKJLCCAPC42XPF7V5C4P7C1537
 - Name: oomlout_OOMP_JLCC_Basic : CAPC-0402-X-PF70-V50-C4P70-C1537
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_JLCC_Basic/CAPC-0402-X-PF70-V50-C4P70-C1537/
 - Description: oomlout_OOMP_JLCC_Basic : CAPC-0402-X-PF70-V50-C4P70-C1537
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0402-X-PF70-V50-C4P70-C1537](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0402-X-PF70-V50-C4P70-C1537)
 - Short Link: [http://oom.lt/SZOOMPKJLCCAPC42XPF7V5C4P7C1537](http://oom.lt/SZOOMPKJLCCAPC42XPF7V5C4P7C1537)

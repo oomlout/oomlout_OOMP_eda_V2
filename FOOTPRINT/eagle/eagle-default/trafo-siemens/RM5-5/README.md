@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-trafo-siemens-RM5-5
 - Hex ID: FZETRAFOSIEMENSRM55
 - Name: trafo-siemens : RM5-5
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/trafo-siemens/RM5-5/
 - Description: trafo-siemens : RM5-5
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-trafo-siemens-RM5-5](http://oom.lt/FOOTPRINT-eagle-eagle-default-trafo-siemens-RM5-5)
 - Short Link: [http://oom.lt/FZETRAFOSIEMENSRM55](http://oom.lt/FZETRAFOSIEMENSRM55)

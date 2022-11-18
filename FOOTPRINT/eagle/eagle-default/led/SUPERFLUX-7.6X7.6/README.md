@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-led-SUPERFLUX-7.6X7.6
 - Hex ID: FZELSUPERFLUX76X76
 - Name: led : SUPERFLUX-7.6X7.6
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/led/SUPERFLUX-7.6X7.6/
 - Description: led : SUPERFLUX-7.6X7.6
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-led-SUPERFLUX-7.6X7.6](http://oom.lt/FOOTPRINT-eagle-eagle-default-led-SUPERFLUX-7.6X7.6)
 - Short Link: [http://oom.lt/FZELSUPERFLUX76X76](http://oom.lt/FZELSUPERFLUX76X76)

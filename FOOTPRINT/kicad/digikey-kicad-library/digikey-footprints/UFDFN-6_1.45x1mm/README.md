@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-UFDFN-6_1.45x1mm
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSUFDFN6145X1
 - Name: digikey-footprints : UFDFN-6_1.45x1mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/UFDFN-6_1.45x1mm/
 - Description: digikey-footprints : UFDFN-6_1.45x1mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-UFDFN-6_1.45x1mm](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-UFDFN-6_1.45x1mm)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSUFDFN6145X1](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSUFDFN6145X1)

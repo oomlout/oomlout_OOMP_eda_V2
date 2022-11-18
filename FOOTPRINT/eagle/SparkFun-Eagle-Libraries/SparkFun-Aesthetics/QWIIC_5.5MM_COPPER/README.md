@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Aesthetics-QWIIC_5.5MM_COPPER
 - Hex ID: FZSAQWIIC55C
 - Name: SparkFun-Aesthetics : QWIIC_5.5MM_COPPER
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Aesthetics/QWIIC_5.5MM_COPPER/
 - Description: SparkFun-Aesthetics : QWIIC_5.5MM_COPPER
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Aesthetics-QWIIC_5.5MM_COPPER](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Aesthetics-QWIIC_5.5MM_COPPER)
 - Short Link: [http://oom.lt/FZSAQWIIC55C](http://oom.lt/FZSAQWIIC55C)

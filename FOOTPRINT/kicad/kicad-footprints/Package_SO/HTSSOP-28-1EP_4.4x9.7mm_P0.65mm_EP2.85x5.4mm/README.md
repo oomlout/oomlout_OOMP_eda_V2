@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_SO-HTSSOP-28-1EP_4.4x9.7mm_P0.65mm_EP2.85x5.4mm
 - Hex ID: FZKSOHTSS281EP44X97P65EP285X54
 - Name: Package_SO : HTSSOP-28-1EP_4.4x9.7mm_P0.65mm_EP2.85x5.4mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SO/HTSSOP-28-1EP_4.4x9.7mm_P0.65mm_EP2.85x5.4mm/
 - Description: Package_SO : HTSSOP-28-1EP_4.4x9.7mm_P0.65mm_EP2.85x5.4mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SO-HTSSOP-28-1EP_4.4x9.7mm_P0.65mm_EP2.85x5.4mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SO-HTSSOP-28-1EP_4.4x9.7mm_P0.65mm_EP2.85x5.4mm)
 - Short Link: [http://oom.lt/FZKSOHTSS281EP44X97P65EP285X54](http://oom.lt/FZKSOHTSS281EP44X97P65EP285X54)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Diodes_UDFN-10_1.0x2.5mm_P0.5mm
 - Hex ID: FZKDFNDIODESUDFN11X25P5
 - Name: Package_DFN_QFN : Diodes_UDFN-10_1.0x2.5mm_P0.5mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/Diodes_UDFN-10_1.0x2.5mm_P0.5mm/
 - Description: Package_DFN_QFN : Diodes_UDFN-10_1.0x2.5mm_P0.5mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Diodes_UDFN-10_1.0x2.5mm_P0.5mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Diodes_UDFN-10_1.0x2.5mm_P0.5mm)
 - Short Link: [http://oom.lt/FZKDFNDIODESUDFN11X25P5](http://oom.lt/FZKDFNDIODESUDFN11X25P5)

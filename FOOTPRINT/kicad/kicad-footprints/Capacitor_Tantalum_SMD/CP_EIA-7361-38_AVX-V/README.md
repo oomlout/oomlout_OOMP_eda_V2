@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Capacitor_Tantalum_SMD-CP_EIA-7361-38_AVX-V
 - Hex ID: FZKCCPEIA736138AVXV
 - Name: Capacitor_Tantalum_SMD : CP_EIA-7361-38_AVX-V
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Capacitor_Tantalum_SMD/CP_EIA-7361-38_AVX-V/
 - Description: Capacitor_Tantalum_SMD : CP_EIA-7361-38_AVX-V
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_Tantalum_SMD-CP_EIA-7361-38_AVX-V](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_Tantalum_SMD-CP_EIA-7361-38_AVX-V)
 - Short Link: [http://oom.lt/FZKCCPEIA736138AVXV](http://oom.lt/FZKCCPEIA736138AVXV)

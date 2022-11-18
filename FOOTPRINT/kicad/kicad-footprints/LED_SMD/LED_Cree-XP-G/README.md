@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_Cree-XP-G
 - Hex ID: FZKLLCREEXPG
 - Name: LED_SMD : LED_Cree-XP-G
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_Cree-XP-G/
 - Description: LED_SMD : LED_Cree-XP-G
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_Cree-XP-G](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_Cree-XP-G)
 - Short Link: [http://oom.lt/FZKLLCREEXPG](http://oom.lt/FZKLLCREEXPG)

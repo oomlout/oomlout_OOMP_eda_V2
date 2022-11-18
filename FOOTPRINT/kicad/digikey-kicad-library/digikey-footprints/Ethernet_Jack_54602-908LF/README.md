@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Ethernet_Jack_54602-908LF
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSETHERNETJ546298LF
 - Name: digikey-footprints : Ethernet_Jack_54602-908LF
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Ethernet_Jack_54602-908LF/
 - Description: digikey-footprints : Ethernet_Jack_54602-908LF
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Ethernet_Jack_54602-908LF](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Ethernet_Jack_54602-908LF)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSETHERNETJ546298LF](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSETHERNETJ546298LF)

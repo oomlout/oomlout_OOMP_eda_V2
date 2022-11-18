@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-74xx-eu-DHVQFN14
 - Hex ID: FZE74XXEUDHVQFN14
 - Name: 74xx-eu : DHVQFN14
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/74xx-eu/DHVQFN14/
 - Description: 74xx-eu : DHVQFN14
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-74xx-eu-DHVQFN14](http://oom.lt/FOOTPRINT-eagle-eagle-default-74xx-eu-DHVQFN14)
 - Short Link: [http://oom.lt/FZE74XXEUDHVQFN14](http://oom.lt/FZE74XXEUDHVQFN14)

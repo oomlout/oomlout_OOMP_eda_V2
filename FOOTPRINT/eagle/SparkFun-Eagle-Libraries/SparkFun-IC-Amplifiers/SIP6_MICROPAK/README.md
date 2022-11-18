@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Amplifiers-SIP6_MICROPAK
 - Hex ID: FZSIASIP6MPAK
 - Name: SparkFun-IC-Amplifiers : SIP6_MICROPAK
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-IC-Amplifiers/SIP6_MICROPAK/
 - Description: SparkFun-IC-Amplifiers : SIP6_MICROPAK
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Amplifiers-SIP6_MICROPAK](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Amplifiers-SIP6_MICROPAK)
 - Short Link: [http://oom.lt/FZSIASIP6MPAK](http://oom.lt/FZSIASIP6MPAK)

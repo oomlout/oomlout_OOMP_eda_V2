@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Audio-LM4752TS
 - Hex ID: SZKAMPLIFIERAUDIOLM4752TS
 - Name: Amplifier_Audio : LM4752TS
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Audio/LM4752TS/
 - Description: Amplifier_Audio : LM4752TS
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Audio-LM4752TS](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Audio-LM4752TS)
 - Short Link: [http://oom.lt/SZKAMPLIFIERAUDIOLM4752TS](http://oom.lt/SZKAMPLIFIERAUDIOLM4752TS)

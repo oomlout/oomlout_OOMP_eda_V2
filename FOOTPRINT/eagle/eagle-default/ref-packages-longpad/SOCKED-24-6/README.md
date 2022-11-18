@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEREFPACKAGESLONGPADSOCKED246 > ref-packages-longpad : SOCKED-24-6](#fzerefpackageslongpadsocked246--ref-packages-longpad--socked-24-6)
+* [FZEREFPSLPSOCKED246 > ref-packages-longpad : SOCKED-24-6](#fzerefpslpsocked246--ref-packages-longpad--socked-24-6)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEREFPACKAGESLONGPADSOCKED246 > ref-packages-longpad : SOCKED-24-6
+# FZEREFPSLPSOCKED246 > ref-packages-longpad : SOCKED-24-6
 
 - ID: FOOTPRINT-eagle-eagle-default-ref-packages-longpad-SOCKED-24-6
-- Hex ID: FZEREFPACKAGESLONGPADSOCKED246
+- Hex ID: FZEREFPSLPSOCKED246
 - Name: ref-packages-longpad : SOCKED-24-6
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ref-packages-longpad/SOCKED-24-6/
 - Description: ref-packages-longpad : SOCKED-24-6
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-longpad-SOCKED-24-6](http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-longpad-SOCKED-24-6)
-- Short Link: [http://oom.lt/FZEREFPACKAGESLONGPADSOCKED246](http://oom.lt/FZEREFPACKAGESLONGPADSOCKED246)
+- Short Link: [http://oom.lt/FZEREFPSLPSOCKED246](http://oom.lt/FZEREFPSLPSOCKED246)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|ref-packages-longpad|
 |OOMP Index|oompIndex|SOCKED-24-6|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-ref-packages-longpad-SOCKED-24-6|
-|Hex ID (short code)|hexID|FZEREFPACKAGESLONGPADSOCKED246|
+|Hex ID (short code)|hexID|FZEREFPSLPSOCKED246|
 |name|name|ref-packages-longpad : SOCKED-24-6|
 ||||

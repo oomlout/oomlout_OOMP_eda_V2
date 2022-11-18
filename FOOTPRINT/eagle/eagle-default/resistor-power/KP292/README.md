@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-resistor-power-KP292
 - Hex ID: FZERESISTORPOWERKP292
 - Name: resistor-power : KP292
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/resistor-power/KP292/
 - Description: resistor-power : KP292
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-resistor-power-KP292](http://oom.lt/FOOTPRINT-eagle-eagle-default-resistor-power-KP292)
 - Short Link: [http://oom.lt/FZERESISTORPOWERKP292](http://oom.lt/FZERESISTORPOWERKP292)

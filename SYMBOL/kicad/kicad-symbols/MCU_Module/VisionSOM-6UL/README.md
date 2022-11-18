@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Module-VisionSOM-6UL
 - Hex ID: SZKMCUMOVISIONSOM6UL
 - Name: MCU_Module : VisionSOM-6UL
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Module/VisionSOM-6UL/
 - Description: MCU_Module : VisionSOM-6UL
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Module-VisionSOM-6UL](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Module-VisionSOM-6UL)
 - Short Link: [http://oom.lt/SZKMCUMOVISIONSOM6UL](http://oom.lt/SZKMCUMOVISIONSOM6UL)

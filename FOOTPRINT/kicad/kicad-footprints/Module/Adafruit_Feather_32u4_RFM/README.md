@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Module-Adafruit_Feather_32u4_RFM
 - Hex ID: FZKMOADAFEATHER32U4RFM
 - Name: Module : Adafruit_Feather_32u4_RFM
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Module/Adafruit_Feather_32u4_RFM/
 - Description: Module : Adafruit_Feather_32u4_RFM
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Module-Adafruit_Feather_32u4_RFM](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Module-Adafruit_Feather_32u4_RFM)
 - Short Link: [http://oom.lt/FZKMOADAFEATHER32U4RFM](http://oom.lt/FZKMOADAFEATHER32U4RFM)

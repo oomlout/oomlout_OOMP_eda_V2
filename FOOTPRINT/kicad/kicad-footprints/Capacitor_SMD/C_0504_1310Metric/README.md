@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0504_1310Metric
 - Hex ID: FZKCC54131VA
 - Name: Capacitor_SMD : C_0504_1310Metric
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Capacitor_SMD/C_0504_1310Metric/
 - Description: Capacitor_SMD : C_0504_1310Metric
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0504_1310Metric](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0504_1310Metric)
 - Short Link: [http://oom.lt/FZKCC54131VA](http://oom.lt/FZKCC54131VA)

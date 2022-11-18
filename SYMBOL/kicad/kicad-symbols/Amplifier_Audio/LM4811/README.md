@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Audio-LM4811
 - Hex ID: SZKAMPLIFIERAUDIOLM4811
 - Name: Amplifier_Audio : LM4811
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Audio/LM4811/
 - Description: Amplifier_Audio : LM4811
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Audio-LM4811](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Audio-LM4811)
 - Short Link: [http://oom.lt/SZKAMPLIFIERAUDIOLM4811](http://oom.lt/SZKAMPLIFIERAUDIOLM4811)

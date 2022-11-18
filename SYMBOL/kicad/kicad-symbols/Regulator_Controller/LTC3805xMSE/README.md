@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Controller-LTC3805xMSE
 - Hex ID: SZKREGULATORCONTROLLERLTC385XMSE
 - Name: Regulator_Controller : LTC3805xMSE
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Controller/LTC3805xMSE/
 - Description: Regulator_Controller : LTC3805xMSE
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Controller-LTC3805xMSE](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Controller-LTC3805xMSE)
 - Short Link: [http://oom.lt/SZKREGULATORCONTROLLERLTC385XMSE](http://oom.lt/SZKREGULATORCONTROLLERLTC385XMSE)

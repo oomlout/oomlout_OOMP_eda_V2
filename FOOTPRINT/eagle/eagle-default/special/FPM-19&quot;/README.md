@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-special-FPM-19&quot;
 - Hex ID: FZESPECIALFPM19&QUOT;
 - Name: special : FPM-19&quot;
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/special/FPM-19&quot;/
 - Description: special : FPM-19&quot;
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-special-FPM-19&quot;](http://oom.lt/FOOTPRINT-eagle-eagle-default-special-FPM-19&quot;)
 - Short Link: [http://oom.lt/FZESPECIALFPM19&QUOT;](http://oom.lt/FZESPECIALFPM19&QUOT;)

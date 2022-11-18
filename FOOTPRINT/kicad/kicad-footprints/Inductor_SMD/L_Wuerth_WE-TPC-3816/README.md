@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Wuerth_WE-TPC-3816
 - Hex ID: FZKINLWUERTHWETPC3816
 - Name: Inductor_SMD : L_Wuerth_WE-TPC-3816
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Wuerth_WE-TPC-3816/
 - Description: Inductor_SMD : L_Wuerth_WE-TPC-3816
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Wuerth_WE-TPC-3816](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Wuerth_WE-TPC-3816)
 - Short Link: [http://oom.lt/FZKINLWUERTHWETPC3816](http://oom.lt/FZKINLWUERTHWETPC3816)

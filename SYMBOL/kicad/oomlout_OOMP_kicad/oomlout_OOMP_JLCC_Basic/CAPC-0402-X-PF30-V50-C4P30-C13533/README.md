@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0402-X-PF30-V50-C4P30-C13533
 - Hex ID: SZOOMPKJLCCAPC42XPF3V5C4P3C13533
 - Name: oomlout_OOMP_JLCC_Basic : CAPC-0402-X-PF30-V50-C4P30-C13533
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_JLCC_Basic/CAPC-0402-X-PF30-V50-C4P30-C13533/
 - Description: oomlout_OOMP_JLCC_Basic : CAPC-0402-X-PF30-V50-C4P30-C13533
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0402-X-PF30-V50-C4P30-C13533](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0402-X-PF30-V50-C4P30-C13533)
 - Short Link: [http://oom.lt/SZOOMPKJLCCAPC42XPF3V5C4P3C13533](http://oom.lt/SZOOMPKJLCCAPC42XPF3V5C4P3C13533)

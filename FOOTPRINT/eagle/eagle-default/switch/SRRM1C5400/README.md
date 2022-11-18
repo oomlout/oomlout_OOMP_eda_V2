@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-switch-SRRM1C5400
 - Hex ID: FZESWSRRM1C54
 - Name: switch : SRRM1C5400
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/switch/SRRM1C5400/
 - Description: switch : SRRM1C5400
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-SRRM1C5400](http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-SRRM1C5400)
 - Short Link: [http://oom.lt/FZESWSRRM1C54](http://oom.lt/FZESWSRRM1C54)

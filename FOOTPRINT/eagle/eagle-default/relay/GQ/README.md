@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-relay-GQ
 - Hex ID: FZERELAYGQ
 - Name: relay : GQ
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/relay/GQ/
 - Description: relay : GQ
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-GQ](http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-GQ)
 - Short Link: [http://oom.lt/FZERELAYGQ](http://oom.lt/FZERELAYGQ)

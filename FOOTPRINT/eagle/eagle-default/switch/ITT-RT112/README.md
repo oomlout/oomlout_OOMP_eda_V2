@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-switch-ITT-RT112
 - Hex ID: FZESWITTRT112
 - Name: switch : ITT-RT112
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/switch/ITT-RT112/
 - Description: switch : ITT-RT112
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-ITT-RT112](http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-ITT-RT112)
 - Short Link: [http://oom.lt/FZESWITTRT112](http://oom.lt/FZESWITTRT112)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-DO-41
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSDO41
 - Name: digikey-footprints : DO-41
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/DO-41/
 - Description: digikey-footprints : DO-41
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-DO-41](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-DO-41)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSDO41](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSDO41)

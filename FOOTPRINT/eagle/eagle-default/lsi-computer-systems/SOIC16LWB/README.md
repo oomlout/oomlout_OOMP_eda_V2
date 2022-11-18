@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-lsi-computer-systems-SOIC16LWB
 - Hex ID: FZELSICOMPUTERSYSTEMSSOIC16LWB
 - Name: lsi-computer-systems : SOIC16LWB
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/lsi-computer-systems/SOIC16LWB/
 - Description: lsi-computer-systems : SOIC16LWB
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-lsi-computer-systems-SOIC16LWB](http://oom.lt/FOOTPRINT-eagle-eagle-default-lsi-computer-systems-SOIC16LWB)
 - Short Link: [http://oom.lt/FZELSICOMPUTERSYSTEMSSOIC16LWB](http://oom.lt/FZELSICOMPUTERSYSTEMSSOIC16LWB)

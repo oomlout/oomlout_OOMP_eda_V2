@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_Coaxial-SMB_Jack_Vertical
 - Hex ID: FZKCNCOASMBJF
 - Name: Connector_Coaxial : SMB_Jack_Vertical
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Coaxial/SMB_Jack_Vertical/
 - Description: Connector_Coaxial : SMB_Jack_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Coaxial-SMB_Jack_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Coaxial-SMB_Jack_Vertical)
 - Short Link: [http://oom.lt/FZKCNCOASMBJF](http://oom.lt/FZKCNCOASMBJF)

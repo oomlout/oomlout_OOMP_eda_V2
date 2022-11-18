@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Potentiometer_P120PK-Y25BR10K
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSPOTP12PKY25BR1K
 - Name: digikey-footprints : Potentiometer_P120PK-Y25BR10K
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Potentiometer_P120PK-Y25BR10K/
 - Description: digikey-footprints : Potentiometer_P120PK-Y25BR10K
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Potentiometer_P120PK-Y25BR10K](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Potentiometer_P120PK-Y25BR10K)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSPOTP12PKY25BR1K](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSPOTP12PKY25BR1K)

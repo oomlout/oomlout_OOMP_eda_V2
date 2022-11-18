@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_GH_BM08B-GHS-TBT_1x08-1MP_P1.25mm_Vertical
 - Hex ID: FZKCNJSTJSTGHBM8BGHSTBT1X81MPP125F
 - Name: Connector_JST : JST_GH_BM08B-GHS-TBT_1x08-1MP_P1.25mm_Vertical
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_GH_BM08B-GHS-TBT_1x08-1MP_P1.25mm_Vertical/
 - Description: Connector_JST : JST_GH_BM08B-GHS-TBT_1x08-1MP_P1.25mm_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_GH_BM08B-GHS-TBT_1x08-1MP_P1.25mm_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_GH_BM08B-GHS-TBT_1x08-1MP_P1.25mm_Vertical)
 - Short Link: [http://oom.lt/FZKCNJSTJSTGHBM8BGHSTBT1X81MPP125F](http://oom.lt/FZKCNJSTJSTGHBM8BGHSTBT1X81MPP125F)

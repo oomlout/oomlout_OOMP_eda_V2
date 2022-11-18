@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-E7,5-18
 - Hex ID: FZAE7518
 - Name: adafruit : E7,5-18
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/E7,5-18/
 - Description: adafruit : E7,5-18
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-E7,5-18](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-E7,5-18)
 - Short Link: [http://oom.lt/FZAE7518](http://oom.lt/FZAE7518)

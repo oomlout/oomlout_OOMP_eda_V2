@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Analog_DAC-MAX5719xSD
 - Hex ID: SZKANALOGDACMAX5719XSD
 - Name: Analog_DAC : MAX5719xSD
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog_DAC/MAX5719xSD/
 - Description: Analog_DAC : MAX5719xSD
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_DAC-MAX5719xSD](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_DAC-MAX5719xSD)
 - Short Link: [http://oom.lt/SZKANALOGDACMAX5719XSD](http://oom.lt/SZKANALOGDACMAX5719XSD)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-RESE-0805-X-O502-01-R8O502-C4310
 - Hex ID: SZOOMPKJLCRESE85XO521R8O52C431
 - Name: oomlout_OOMP_JLCC_Basic : RESE-0805-X-O502-01-R8O502-C4310
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_JLCC_Basic/RESE-0805-X-O502-01-R8O502-C4310/
 - Description: oomlout_OOMP_JLCC_Basic : RESE-0805-X-O502-01-R8O502-C4310
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-RESE-0805-X-O502-01-R8O502-C4310](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-RESE-0805-X-O502-01-R8O502-C4310)
 - Short Link: [http://oom.lt/SZOOMPKJLCRESE85XO521R8O52C431](http://oom.lt/SZOOMPKJLCRESE85XO521R8O52C431)

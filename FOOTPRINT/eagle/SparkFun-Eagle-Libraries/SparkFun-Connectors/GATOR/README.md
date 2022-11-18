@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-GATOR
 - Hex ID: FZSSPARKFUNCNSGATOR
 - Name: SparkFun-Connectors : GATOR
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Connectors/GATOR/
 - Description: SparkFun-Connectors : GATOR
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-GATOR](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-GATOR)
 - Short Link: [http://oom.lt/FZSSPARKFUNCNSGATOR](http://oom.lt/FZSSPARKFUNCNSGATOR)

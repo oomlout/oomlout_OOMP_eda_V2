@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-varistor-S10K385
 - Hex ID: FZEVS1K385
 - Name: varistor : S10K385
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/varistor/S10K385/
 - Description: varistor : S10K385
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-varistor-S10K385](http://oom.lt/FOOTPRINT-eagle-eagle-default-varistor-S10K385)
 - Short Link: [http://oom.lt/FZEVS1K385](http://oom.lt/FZEVS1K385)

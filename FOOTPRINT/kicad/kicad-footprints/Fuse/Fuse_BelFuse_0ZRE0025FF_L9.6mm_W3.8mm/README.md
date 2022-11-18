@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Fuse-Fuse_BelFuse_0ZRE0025FF_L9.6mm_W3.8mm
 - Hex ID: FZKFUFUBELFUZRE25FFL96W38
 - Name: Fuse : Fuse_BelFuse_0ZRE0025FF_L9.6mm_W3.8mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Fuse/Fuse_BelFuse_0ZRE0025FF_L9.6mm_W3.8mm/
 - Description: Fuse : Fuse_BelFuse_0ZRE0025FF_L9.6mm_W3.8mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Fuse-Fuse_BelFuse_0ZRE0025FF_L9.6mm_W3.8mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Fuse-Fuse_BelFuse_0ZRE0025FF_L9.6mm_W3.8mm)
 - Short Link: [http://oom.lt/FZKFUFUBELFUZRE25FFL96W38](http://oom.lt/FZKFUFUBELFUZRE25FFL96W38)

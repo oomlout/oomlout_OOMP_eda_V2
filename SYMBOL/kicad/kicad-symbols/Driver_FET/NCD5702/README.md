@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Driver_FET-NCD5702
 - Hex ID: SZKDRIVERFETNCD572
 - Name: Driver_FET : NCD5702
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Driver_FET/NCD5702/
 - Description: Driver_FET : NCD5702
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-NCD5702](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-NCD5702)
 - Short Link: [http://oom.lt/SZKDRIVERFETNCD572](http://oom.lt/SZKDRIVERFETNCD572)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-TestPoint-TestPoint_Keystone_5010-5014_Multipurpose
 - Hex ID: FZKTPTPKEYSTONE51514MULTIPURPOSE
 - Name: TestPoint : TestPoint_Keystone_5010-5014_Multipurpose
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/TestPoint/TestPoint_Keystone_5010-5014_Multipurpose/
 - Description: TestPoint : TestPoint_Keystone_5010-5014_Multipurpose
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-TestPoint-TestPoint_Keystone_5010-5014_Multipurpose](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-TestPoint-TestPoint_Keystone_5010-5014_Multipurpose)
 - Short Link: [http://oom.lt/FZKTPTPKEYSTONE51514MULTIPURPOSE](http://oom.lt/FZKTPTPKEYSTONE51514MULTIPURPOSE)

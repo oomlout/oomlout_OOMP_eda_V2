@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F2-STM32F207VFTx
 - Hex ID: SZKMCUSTSTM32F2STM32F27VFTX
 - Name: MCU_ST_STM32F2 : STM32F207VFTx
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32F2/STM32F207VFTx/
 - Description: MCU_ST_STM32F2 : STM32F207VFTx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F2-STM32F207VFTx](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F2-STM32F207VFTx)
 - Short Link: [http://oom.lt/SZKMCUSTSTM32F2STM32F27VFTX](http://oom.lt/SZKMCUSTSTM32F2STM32F27VFTX)

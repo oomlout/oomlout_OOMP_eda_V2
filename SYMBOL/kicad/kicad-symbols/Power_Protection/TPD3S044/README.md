@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Power_Protection-TPD3S044
 - Hex ID: SZKPOWERPROTECTIONTPD3S44
 - Name: Power_Protection : TPD3S044
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Power_Protection/TPD3S044/
 - Description: Power_Protection : TPD3S044
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Protection-TPD3S044](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Protection-TPD3S044)
 - Short Link: [http://oom.lt/SZKPOWERPROTECTIONTPD3S44](http://oom.lt/SZKPOWERPROTECTIONTPD3S44)

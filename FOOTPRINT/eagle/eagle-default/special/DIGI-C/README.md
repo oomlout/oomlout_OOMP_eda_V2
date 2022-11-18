@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-special-DIGI-C
 - Hex ID: FZESPECIALDIGIC
 - Name: special : DIGI-C
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/special/DIGI-C/
 - Description: special : DIGI-C
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-special-DIGI-C](http://oom.lt/FOOTPRINT-eagle-eagle-default-special-DIGI-C)
 - Short Link: [http://oom.lt/FZESPECIALDIGIC](http://oom.lt/FZESPECIALDIGIC)

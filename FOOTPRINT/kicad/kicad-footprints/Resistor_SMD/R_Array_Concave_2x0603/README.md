@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_Array_Concave_2x0603
 - Hex ID: FZKRRARRAYCONCAVE2X63
 - Name: Resistor_SMD : R_Array_Concave_2x0603
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_Array_Concave_2x0603/
 - Description: Resistor_SMD : R_Array_Concave_2x0603
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_Array_Concave_2x0603](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_Array_Concave_2x0603)
 - Short Link: [http://oom.lt/FZKRRARRAYCONCAVE2X63](http://oom.lt/FZKRRARRAYCONCAVE2X63)

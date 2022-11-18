@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-display-lcd-MGLS2401280TZ
 - Hex ID: FZEDILCDMGLS24128TZ
 - Name: display-lcd : MGLS2401280TZ
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/display-lcd/MGLS2401280TZ/
 - Description: display-lcd : MGLS2401280TZ
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-display-lcd-MGLS2401280TZ](http://oom.lt/FOOTPRINT-eagle-eagle-default-display-lcd-MGLS2401280TZ)
 - Short Link: [http://oom.lt/FZEDILCDMGLS24128TZ](http://oom.lt/FZEDILCDMGLS24128TZ)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-C3D30065D
 - Hex ID: SZKDIODEC3D365D
 - Name: Diode : C3D30065D
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/C3D30065D/
 - Description: Diode : C3D30065D
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-C3D30065D](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-C3D30065D)
 - Short Link: [http://oom.lt/SZKDIODEC3D365D](http://oom.lt/SZKDIODEC3D365D)

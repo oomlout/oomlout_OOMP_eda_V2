@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_SwitchedCapacitor-LM2665M6
 - Hex ID: SZKREGULATORSWEDCAPACITORLM2665M6
 - Name: Regulator_SwitchedCapacitor : LM2665M6
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_SwitchedCapacitor/LM2665M6/
 - Description: Regulator_SwitchedCapacitor : LM2665M6
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_SwitchedCapacitor-LM2665M6](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_SwitchedCapacitor-LM2665M6)
 - Short Link: [http://oom.lt/SZKREGULATORSWEDCAPACITORLM2665M6](http://oom.lt/SZKREGULATORSWEDCAPACITORLM2665M6)

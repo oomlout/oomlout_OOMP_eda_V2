@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-buzzer-F_BC35
 - Hex ID: FZEBUZZERFBC35
 - Name: buzzer : F_BC35
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/buzzer/F_BC35/
 - Description: buzzer : F_BC35
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-buzzer-F_BC35](http://oom.lt/FOOTPRINT-eagle-eagle-default-buzzer-F_BC35)
 - Short Link: [http://oom.lt/FZEBUZZERFBC35](http://oom.lt/FZEBUZZERFBC35)

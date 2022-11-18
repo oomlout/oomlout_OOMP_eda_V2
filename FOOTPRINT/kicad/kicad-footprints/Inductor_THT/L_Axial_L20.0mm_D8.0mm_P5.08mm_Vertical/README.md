@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Axial_L20.0mm_D8.0mm_P5.08mm_Vertical
 - Hex ID: FZKINLAXIALL2D8P58F
 - Name: Inductor_THT : L_Axial_L20.0mm_D8.0mm_P5.08mm_Vertical
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Axial_L20.0mm_D8.0mm_P5.08mm_Vertical/
 - Description: Inductor_THT : L_Axial_L20.0mm_D8.0mm_P5.08mm_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Axial_L20.0mm_D8.0mm_P5.08mm_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Axial_L20.0mm_D8.0mm_P5.08mm_Vertical)
 - Short Link: [http://oom.lt/FZKINLAXIALL2D8P58F](http://oom.lt/FZKINLAXIALL2D8P58F)

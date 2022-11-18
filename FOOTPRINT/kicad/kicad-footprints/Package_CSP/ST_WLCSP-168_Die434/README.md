@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_CSP-ST_WLCSP-168_Die434
 - Hex ID: FZKCSPSTWLCSP168DIE434
 - Name: Package_CSP : ST_WLCSP-168_Die434
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_CSP/ST_WLCSP-168_Die434/
 - Description: Package_CSP : ST_WLCSP-168_Die434
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_CSP-ST_WLCSP-168_Die434](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_CSP-ST_WLCSP-168_Die434)
 - Short Link: [http://oom.lt/FZKCSPSTWLCSP168DIE434](http://oom.lt/FZKCSPSTWLCSP168DIE434)

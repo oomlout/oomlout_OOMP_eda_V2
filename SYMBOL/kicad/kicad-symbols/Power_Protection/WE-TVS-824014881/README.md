@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Power_Protection-WE-TVS-824014881
 - Hex ID: SZKPOWERPROTECTIONWETVS82414881
 - Name: Power_Protection : WE-TVS-824014881
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Power_Protection/WE-TVS-824014881/
 - Description: Power_Protection : WE-TVS-824014881
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Protection-WE-TVS-824014881](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Protection-WE-TVS-824014881)
 - Short Link: [http://oom.lt/SZKPOWERPROTECTIONWETVS82414881](http://oom.lt/SZKPOWERPROTECTIONWETVS82414881)

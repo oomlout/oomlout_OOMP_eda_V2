@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-TO-39-2_Window
 - Hex ID: FZKSOTTO392WINDOW
 - Name: Package_TO_SOT_THT : TO-39-2_Window
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_THT/TO-39-2_Window/
 - Description: Package_TO_SOT_THT : TO-39-2_Window
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-TO-39-2_Window](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-TO-39-2_Window)
 - Short Link: [http://oom.lt/FZKSOTTO392WINDOW](http://oom.lt/FZKSOTTO392WINDOW)

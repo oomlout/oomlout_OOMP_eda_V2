@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_RGB_Everlight_EASV3015RGBA0_Horizontal
 - Hex ID: FZKLLRGBEVERLIGHTEASV315RGBAH
 - Name: LED_SMD : LED_RGB_Everlight_EASV3015RGBA0_Horizontal
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_RGB_Everlight_EASV3015RGBA0_Horizontal/
 - Description: LED_SMD : LED_RGB_Everlight_EASV3015RGBA0_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_RGB_Everlight_EASV3015RGBA0_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_RGB_Everlight_EASV3015RGBA0_Horizontal)
 - Short Link: [http://oom.lt/FZKLLRGBEVERLIGHTEASV315RGBAH](http://oom.lt/FZKLLRGBEVERLIGHTEASV315RGBAH)

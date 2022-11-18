@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Driver_Motor-DRV8837C
 - Hex ID: SZKDRIVERMOTORDRV8837C
 - Name: Driver_Motor : DRV8837C
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Driver_Motor/DRV8837C/
 - Description: Driver_Motor : DRV8837C
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_Motor-DRV8837C](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_Motor-DRV8837C)
 - Short Link: [http://oom.lt/SZKDRIVERMOTORDRV8837C](http://oom.lt/SZKDRIVERMOTORDRV8837C)

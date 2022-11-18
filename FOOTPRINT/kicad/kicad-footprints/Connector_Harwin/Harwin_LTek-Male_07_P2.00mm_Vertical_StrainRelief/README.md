@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_Harwin-Harwin_LTek-Male_07_P2.00mm_Vertical_StrainRelief
 - Hex ID: FZKCNHARWINHARWINLTEKMALE7P2FSTRAINRELIEF
 - Name: Connector_Harwin : Harwin_LTek-Male_07_P2.00mm_Vertical_StrainRelief
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Harwin/Harwin_LTek-Male_07_P2.00mm_Vertical_StrainRelief/
 - Description: Connector_Harwin : Harwin_LTek-Male_07_P2.00mm_Vertical_StrainRelief
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Harwin-Harwin_LTek-Male_07_P2.00mm_Vertical_StrainRelief](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Harwin-Harwin_LTek-Male_07_P2.00mm_Vertical_StrainRelief)
 - Short Link: [http://oom.lt/FZKCNHARWINHARWINLTEKMALE7P2FSTRAINRELIEF](http://oom.lt/FZKCNHARWINHARWINLTEKMALE7P2FSTRAINRELIEF)

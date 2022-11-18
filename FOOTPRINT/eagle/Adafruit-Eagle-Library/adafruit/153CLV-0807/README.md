@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-153CLV-0807
 - Hex ID: FZA153CLV87
 - Name: adafruit : 153CLV-0807
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/153CLV-0807/
 - Description: adafruit : 153CLV-0807
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-153CLV-0807](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-153CLV-0807)
 - Short Link: [http://oom.lt/FZA153CLV87](http://oom.lt/FZA153CLV87)

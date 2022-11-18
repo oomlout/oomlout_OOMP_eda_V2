@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0402-X-O105-01-R4O105
 - Hex ID: SZOOMPKOOMPPRESE42XO151R4O15
 - Name: oomlout_OOMP_parts : RESE-0402-X-O105-01-R4O105
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/RESE-0402-X-O105-01-R4O105/
 - Description: oomlout_OOMP_parts : RESE-0402-X-O105-01-R4O105
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0402-X-O105-01-R4O105](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0402-X-O105-01-R4O105)
 - Short Link: [http://oom.lt/SZOOMPKOOMPPRESE42XO151R4O15](http://oom.lt/SZOOMPKOOMPPRESE42XO151R4O15)

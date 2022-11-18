@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-hirschmann-MPB1
 - Hex ID: FZECONHIRSCHMANNMPB1
 - Name: con-hirschmann : MPB1
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-hirschmann/MPB1/
 - Description: con-hirschmann : MPB1
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-hirschmann-MPB1](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-hirschmann-MPB1)
 - Short Link: [http://oom.lt/FZECONHIRSCHMANNMPB1](http://oom.lt/FZECONHIRSCHMANNMPB1)

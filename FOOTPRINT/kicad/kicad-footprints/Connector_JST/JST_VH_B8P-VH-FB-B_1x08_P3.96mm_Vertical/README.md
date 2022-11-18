@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_VH_B8P-VH-FB-B_1x08_P3.96mm_Vertical
 - Hex ID: FZKCNJSTJSTVHB8PVHFBB1X8P396F
 - Name: Connector_JST : JST_VH_B8P-VH-FB-B_1x08_P3.96mm_Vertical
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_VH_B8P-VH-FB-B_1x08_P3.96mm_Vertical/
 - Description: Connector_JST : JST_VH_B8P-VH-FB-B_1x08_P3.96mm_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_VH_B8P-VH-FB-B_1x08_P3.96mm_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_VH_B8P-VH-FB-B_1x08_P3.96mm_Vertical)
 - Short Link: [http://oom.lt/FZKCNJSTJSTVHB8PVHFBB1X8P396F](http://oom.lt/FZKCNJSTJSTVHB8PVHFBB1X8P396F)

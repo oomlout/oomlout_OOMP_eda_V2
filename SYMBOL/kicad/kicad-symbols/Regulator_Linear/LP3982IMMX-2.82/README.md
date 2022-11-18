@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-LP3982IMMX-2.82
 - Hex ID: SZKREGULATORLINEARLP3982IX282
 - Name: Regulator_Linear : LP3982IMMX-2.82
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LP3982IMMX-2.82/
 - Description: Regulator_Linear : LP3982IMMX-2.82
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LP3982IMMX-2.82](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LP3982IMMX-2.82)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARLP3982IX282](http://oom.lt/SZKREGULATORLINEARLP3982IX282)

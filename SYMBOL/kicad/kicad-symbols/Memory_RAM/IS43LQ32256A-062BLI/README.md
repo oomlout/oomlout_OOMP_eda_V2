@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Memory_RAM-IS43LQ32256A-062BLI
 - Hex ID: SZKMEMORYRAMIS43LQ32256A62BLI
 - Name: Memory_RAM : IS43LQ32256A-062BLI
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Memory_RAM/IS43LQ32256A-062BLI/
 - Description: Memory_RAM : IS43LQ32256A-062BLI
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_RAM-IS43LQ32256A-062BLI](http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_RAM-IS43LQ32256A-062BLI)
 - Short Link: [http://oom.lt/SZKMEMORYRAMIS43LQ32256A62BLI](http://oom.lt/SZKMEMORYRAMIS43LQ32256A62BLI)

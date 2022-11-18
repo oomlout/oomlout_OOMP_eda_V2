@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-SOP-14
 - Hex ID: FZSRTS14
 - Name: SparkFun-Retired : SOP-14
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Retired/SOP-14/
 - Description: SparkFun-Retired : SOP-14
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-SOP-14](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-SOP-14)
 - Short Link: [http://oom.lt/FZSRTS14](http://oom.lt/FZSRTS14)

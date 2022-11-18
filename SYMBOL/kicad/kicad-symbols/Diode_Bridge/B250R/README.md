@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode_Bridge-B250R
 - Hex ID: SZKDIODEBRIDGEB25R
 - Name: Diode_Bridge : B250R
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode_Bridge/B250R/
 - Description: Diode_Bridge : B250R
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode_Bridge-B250R](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode_Bridge-B250R)
 - Short Link: [http://oom.lt/SZKDIODEBRIDGEB25R](http://oom.lt/SZKDIODEBRIDGEB25R)

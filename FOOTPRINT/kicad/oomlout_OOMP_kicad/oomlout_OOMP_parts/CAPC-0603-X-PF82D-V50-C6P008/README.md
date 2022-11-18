@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0603-X-PF82D-V50-C6P008
 - Hex ID: FZOOMPKOOMPPCAPC63XPF82DV5C6P8
 - Name: oomlout_OOMP_parts : CAPC-0603-X-PF82D-V50-C6P008
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/CAPC-0603-X-PF82D-V50-C6P008/
 - Description: oomlout_OOMP_parts : CAPC-0603-X-PF82D-V50-C6P008
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0603-X-PF82D-V50-C6P008](http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0603-X-PF82D-V50-C6P008)
 - Short Link: [http://oom.lt/FZOOMPKOOMPPCAPC63XPF82DV5C6P8](http://oom.lt/FZOOMPKOOMPPCAPC63XPF82DV5C6P8)

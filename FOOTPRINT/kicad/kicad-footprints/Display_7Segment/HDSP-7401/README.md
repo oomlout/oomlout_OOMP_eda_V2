@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Display_7Segment-HDSP-7401
 - Hex ID: FZKDI7SHDSP741
 - Name: Display_7Segment : HDSP-7401
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Display_7Segment/HDSP-7401/
 - Description: Display_7Segment : HDSP-7401
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Display_7Segment-HDSP-7401](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Display_7Segment-HDSP-7401)
 - Short Link: [http://oom.lt/FZKDI7SHDSP741](http://oom.lt/FZKDI7SHDSP741)

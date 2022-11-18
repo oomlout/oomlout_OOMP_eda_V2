@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-dc-dc-converter-NME
 - Hex ID: FZEDCDCCONVERTERNME
 - Name: dc-dc-converter : NME
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/dc-dc-converter/NME/
 - Description: dc-dc-converter : NME
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-dc-dc-converter-NME](http://oom.lt/FOOTPRINT-eagle-eagle-default-dc-dc-converter-NME)
 - Short Link: [http://oom.lt/FZEDCDCCONVERTERNME](http://oom.lt/FZEDCDCCONVERTERNME)

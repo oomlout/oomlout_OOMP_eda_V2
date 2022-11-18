@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_PH_S16B-PH-K_1x16_P2.00mm_Horizontal
 - Hex ID: FZKCNJSTJSTPHS16BPHK1X16P2H
 - Name: Connector_JST : JST_PH_S16B-PH-K_1x16_P2.00mm_Horizontal
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_PH_S16B-PH-K_1x16_P2.00mm_Horizontal/
 - Description: Connector_JST : JST_PH_S16B-PH-K_1x16_P2.00mm_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_PH_S16B-PH-K_1x16_P2.00mm_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_PH_S16B-PH-K_1x16_P2.00mm_Horizontal)
 - Short Link: [http://oom.lt/FZKCNJSTJSTPHS16BPHK1X16P2H](http://oom.lt/FZKCNJSTJSTPHS16BPHK1X16P2H)

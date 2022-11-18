@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-relay-TXD2
 - Hex ID: FZERELAYTXD2
 - Name: relay : TXD2
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/relay/TXD2/
 - Description: relay : TXD2
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-TXD2](http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-TXD2)
 - Short Link: [http://oom.lt/FZERELAYTXD2](http://oom.lt/FZERELAYTXD2)

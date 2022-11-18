@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-LED-LED_3MM-NS
 - Hex ID: FZSLL3NS
 - Name: SparkFun-LED : LED_3MM-NS
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-LED/LED_3MM-NS/
 - Description: SparkFun-LED : LED_3MM-NS
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-LED-LED_3MM-NS](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-LED-LED_3MM-NS)
 - Short Link: [http://oom.lt/FZSLL3NS](http://oom.lt/FZSLL3NS)

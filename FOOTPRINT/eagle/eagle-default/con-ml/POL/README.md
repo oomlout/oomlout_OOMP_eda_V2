@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-ml-POL
 - Hex ID: FZECONMLPOL
 - Name: con-ml : POL
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-ml/POL/
 - Description: con-ml : POL
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-ml-POL](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-ml-POL)
 - Short Link: [http://oom.lt/FZECONMLPOL](http://oom.lt/FZECONMLPOL)

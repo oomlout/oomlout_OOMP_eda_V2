@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Comms-TQFP32-5MM
 - Hex ID: FZSICTQFP325
 - Name: SparkFun-IC-Comms : TQFP32-5MM
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-IC-Comms/TQFP32-5MM/
 - Description: SparkFun-IC-Comms : TQFP32-5MM
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Comms-TQFP32-5MM](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Comms-TQFP32-5MM)
 - Short Link: [http://oom.lt/FZSICTQFP325](http://oom.lt/FZSICTQFP325)

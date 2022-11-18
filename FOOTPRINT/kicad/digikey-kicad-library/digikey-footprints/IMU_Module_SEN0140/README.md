@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-IMU_Module_SEN0140
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSIMUMOSEN14
 - Name: digikey-footprints : IMU_Module_SEN0140
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/IMU_Module_SEN0140/
 - Description: digikey-footprints : IMU_Module_SEN0140
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-IMU_Module_SEN0140](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-IMU_Module_SEN0140)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSIMUMOSEN14](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSIMUMOSEN14)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Capacitor_THT-C_Disc_D11.0mm_W5.0mm_P10.00mm
 - Hex ID: FZKCCDISCD11W5P1
 - Name: Capacitor_THT : C_Disc_D11.0mm_W5.0mm_P10.00mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Capacitor_THT/C_Disc_D11.0mm_W5.0mm_P10.00mm/
 - Description: Capacitor_THT : C_Disc_D11.0mm_W5.0mm_P10.00mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_THT-C_Disc_D11.0mm_W5.0mm_P10.00mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_THT-C_Disc_D11.0mm_W5.0mm_P10.00mm)
 - Short Link: [http://oom.lt/FZKCCDISCD11W5P1](http://oom.lt/FZKCCDISCD11W5P1)

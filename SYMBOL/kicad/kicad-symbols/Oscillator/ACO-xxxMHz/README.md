@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Oscillator-ACO-xxxMHz
 - Hex ID: SZKOCSACOXXXMHZ
 - Name: Oscillator : ACO-xxxMHz
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Oscillator/ACO-xxxMHz/
 - Description: Oscillator : ACO-xxxMHz
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Oscillator-ACO-xxxMHz](http://oom.lt/SYMBOL-kicad-kicad-symbols-Oscillator-ACO-xxxMHz)
 - Short Link: [http://oom.lt/SZKOCSACOXXXMHZ](http://oom.lt/SZKOCSACOXXXMHZ)

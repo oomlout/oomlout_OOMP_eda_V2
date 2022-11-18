@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Power_Protection-PESD3V3L5UV
 - Hex ID: SZKPOWERPROTECTIONPESD3V3L5UV
 - Name: Power_Protection : PESD3V3L5UV
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Power_Protection/PESD3V3L5UV/
 - Description: Power_Protection : PESD3V3L5UV
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Protection-PESD3V3L5UV](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Protection-PESD3V3L5UV)
 - Short Link: [http://oom.lt/SZKPOWERPROTECTIONPESD3V3L5UV](http://oom.lt/SZKPOWERPROTECTIONPESD3V3L5UV)

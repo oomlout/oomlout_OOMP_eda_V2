@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_SON-Diodes_PowerDI3333-8
 - Hex ID: FZKSONDIODESPOWERDI33338
 - Name: Package_SON : Diodes_PowerDI3333-8
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SON/Diodes_PowerDI3333-8/
 - Description: Package_SON : Diodes_PowerDI3333-8
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SON-Diodes_PowerDI3333-8](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SON-Diodes_PowerDI3333-8)
 - Short Link: [http://oom.lt/FZKSONDIODESPOWERDI33338](http://oom.lt/FZKSONDIODESPOWERDI33338)

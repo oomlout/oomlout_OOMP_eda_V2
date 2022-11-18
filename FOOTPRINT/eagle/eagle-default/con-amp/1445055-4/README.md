@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-amp-1445055-4
 - Hex ID: FZECONAMP1445554
 - Name: con-amp : 1445055-4
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-amp/1445055-4/
 - Description: con-amp : 1445055-4
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-amp-1445055-4](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-amp-1445055-4)
 - Short Link: [http://oom.lt/FZECONAMP1445554](http://oom.lt/FZECONAMP1445554)

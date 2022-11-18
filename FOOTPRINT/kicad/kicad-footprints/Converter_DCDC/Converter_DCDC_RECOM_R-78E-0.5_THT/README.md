@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Converter_DCDC-Converter_DCDC_RECOM_R-78E-0.5_THT
 - Hex ID: FZKCONCONRECOMR78E5THT
 - Name: Converter_DCDC : Converter_DCDC_RECOM_R-78E-0.5_THT
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Converter_DCDC/Converter_DCDC_RECOM_R-78E-0.5_THT/
 - Description: Converter_DCDC : Converter_DCDC_RECOM_R-78E-0.5_THT
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Converter_DCDC-Converter_DCDC_RECOM_R-78E-0.5_THT](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Converter_DCDC-Converter_DCDC_RECOM_R-78E-0.5_THT)
 - Short Link: [http://oom.lt/FZKCONCONRECOMR78E5THT](http://oom.lt/FZKCONCONRECOMR78E5THT)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SSOP-24_W5.30mm
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSSS24W53
 - Name: digikey-footprints : SSOP-24_W5.30mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/SSOP-24_W5.30mm/
 - Description: digikey-footprints : SSOP-24_W5.30mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SSOP-24_W5.30mm](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SSOP-24_W5.30mm)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSSS24W53](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSSS24W53)

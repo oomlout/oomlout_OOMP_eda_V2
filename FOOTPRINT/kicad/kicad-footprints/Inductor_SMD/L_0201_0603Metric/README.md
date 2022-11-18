@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_0201_0603Metric
 - Hex ID: FZKINL2163VA
 - Name: Inductor_SMD : L_0201_0603Metric
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_0201_0603Metric/
 - Description: Inductor_SMD : L_0201_0603Metric
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_0201_0603Metric](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_0201_0603Metric)
 - Short Link: [http://oom.lt/FZKINL2163VA](http://oom.lt/FZKINL2163VA)

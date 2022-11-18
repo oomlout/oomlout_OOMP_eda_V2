@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Isolator_Analog-IL300
 - Hex ID: SZKISOLATORANALOGIL3
 - Name: Isolator_Analog : IL300
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Isolator_Analog/IL300/
 - Description: Isolator_Analog : IL300
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator_Analog-IL300](http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator_Analog-IL300)
 - Short Link: [http://oom.lt/SZKISOLATORANALOGIL3](http://oom.lt/SZKISOLATORANALOGIL3)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-photo-elements-D11XX
 - Hex ID: FZEPHOTOELEMENTSD11XX
 - Name: photo-elements : D11XX
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/photo-elements/D11XX/
 - Description: photo-elements : D11XX
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-photo-elements-D11XX](http://oom.lt/FOOTPRINT-eagle-eagle-default-photo-elements-D11XX)
 - Short Link: [http://oom.lt/FZEPHOTOELEMENTSD11XX](http://oom.lt/FZEPHOTOELEMENTSD11XX)

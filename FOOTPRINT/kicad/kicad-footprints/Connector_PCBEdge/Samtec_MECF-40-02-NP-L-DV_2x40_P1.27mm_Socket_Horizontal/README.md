@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKCNPCBEDGESAMTECMECF42NPLDV2X4P127SOH > Connector_PCBEdge : Samtec_MECF-40-02-NP-L-DV_2x40_P1.27mm_Socket_Horizontal](#fzkcnpcbedgesamtecmecf42npldv2x4p127soh--connector_pcbedge--samtec_mecf-40-02-np-l-dv_2x40_p127mm_socket_horizontal)
+* [FZKCNPESAMTECMECF42NPLDV2X4P127SOH > Connector_PCBEdge : Samtec_MECF-40-02-NP-L-DV_2x40_P1.27mm_Socket_Horizontal](#fzkcnpesamtecmecf42npldv2x4p127soh--connector_pcbedge--samtec_mecf-40-02-np-l-dv_2x40_p127mm_socket_horizontal)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKCNPCBEDGESAMTECMECF42NPLDV2X4P127SOH > Connector_PCBEdge : Samtec_MECF-40-02-NP-L-DV_2x40_P1.27mm_Socket_Horizontal
+# FZKCNPESAMTECMECF42NPLDV2X4P127SOH > Connector_PCBEdge : Samtec_MECF-40-02-NP-L-DV_2x40_P1.27mm_Socket_Horizontal
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_PCBEdge-Samtec_MECF-40-02-NP-L-DV_2x40_P1.27mm_Socket_Horizontal
-- Hex ID: FZKCNPCBEDGESAMTECMECF42NPLDV2X4P127SOH
+- Hex ID: FZKCNPESAMTECMECF42NPLDV2X4P127SOH
 - Name: Connector_PCBEdge : Samtec_MECF-40-02-NP-L-DV_2x40_P1.27mm_Socket_Horizontal
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_PCBEdge/Samtec_MECF-40-02-NP-L-DV_2x40_P1.27mm_Socket_Horizontal/
 - Description: Connector_PCBEdge : Samtec_MECF-40-02-NP-L-DV_2x40_P1.27mm_Socket_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_PCBEdge-Samtec_MECF-40-02-NP-L-DV_2x40_P1.27mm_Socket_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_PCBEdge-Samtec_MECF-40-02-NP-L-DV_2x40_P1.27mm_Socket_Horizontal)
-- Short Link: [http://oom.lt/FZKCNPCBEDGESAMTECMECF42NPLDV2X4P127SOH](http://oom.lt/FZKCNPCBEDGESAMTECMECF42NPLDV2X4P127SOH)
+- Short Link: [http://oom.lt/FZKCNPESAMTECMECF42NPLDV2X4P127SOH](http://oom.lt/FZKCNPESAMTECMECF42NPLDV2X4P127SOH)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Connector_PCBEdge|
 |OOMP Index|oompIndex|Samtec_MECF-40-02-NP-L-DV_2x40_P1.27mm_Socket_Horizontal|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_PCBEdge-Samtec_MECF-40-02-NP-L-DV_2x40_P1.27mm_Socket_Horizontal|
-|Hex ID (short code)|hexID|FZKCNPCBEDGESAMTECMECF42NPLDV2X4P127SOH|
+|Hex ID (short code)|hexID|FZKCNPESAMTECMECF42NPLDV2X4P127SOH|
 |name|name|Connector_PCBEdge : Samtec_MECF-40-02-NP-L-DV_2x40_P1.27mm_Socket_Horizontal|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Samtec_MECF-40-02-NP-L-DV_2x40_P1.27mm_Socket_Horizontal'</td><td> 'description'</td></tr><tr><td> 'Highspeed card edge connector for 2.4mm PCBs with 40 contacts (not polarized)'</td><td> 'tags'</td></tr><tr><td> 'conn samtec card-edge high-speed'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_PCBEdge.3dshapes/Samtec_MECF-40-02-NP-L-DV_2x40_P1.27mm_Socket_Horizontal.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'np_thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||

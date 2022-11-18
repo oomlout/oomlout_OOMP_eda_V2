@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Battery_Management-BQ76930DBT
 - Hex ID: SZKBATMANAGEMENTBQ7693DBT
 - Name: Battery_Management : BQ76930DBT
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Battery_Management/BQ76930DBT/
 - Description: Battery_Management : BQ76930DBT
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Battery_Management-BQ76930DBT](http://oom.lt/SYMBOL-kicad-kicad-symbols-Battery_Management-BQ76930DBT)
 - Short Link: [http://oom.lt/SZKBATMANAGEMENTBQ7693DBT](http://oom.lt/SZKBATMANAGEMENTBQ7693DBT)

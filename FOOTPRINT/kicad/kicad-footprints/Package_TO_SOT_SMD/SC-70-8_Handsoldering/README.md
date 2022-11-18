@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKSOTSC78HANDSOLDERING > Package_TO_SOT_SMD : SC-70-8_Handsoldering](#fzksotsc78handsoldering--package_to_sot_smd--sc-70-8_handsoldering)
+* [FZKSOTSC78HS > Package_TO_SOT_SMD : SC-70-8_Handsoldering](#fzksotsc78hs--package_to_sot_smd--sc-70-8_handsoldering)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKSOTSC78HANDSOLDERING > Package_TO_SOT_SMD : SC-70-8_Handsoldering
+# FZKSOTSC78HS > Package_TO_SOT_SMD : SC-70-8_Handsoldering
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SC-70-8_Handsoldering
-- Hex ID: FZKSOTSC78HANDSOLDERING
+- Hex ID: FZKSOTSC78HS
 - Name: Package_TO_SOT_SMD : SC-70-8_Handsoldering
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/SC-70-8_Handsoldering/
 - Description: Package_TO_SOT_SMD : SC-70-8_Handsoldering
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SC-70-8_Handsoldering](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SC-70-8_Handsoldering)
-- Short Link: [http://oom.lt/FZKSOTSC78HANDSOLDERING](http://oom.lt/FZKSOTSC78HANDSOLDERING)
+- Short Link: [http://oom.lt/FZKSOTSC78HS](http://oom.lt/FZKSOTSC78HS)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Package_TO_SOT_SMD|
 |OOMP Index|oompIndex|SC-70-8_Handsoldering|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SC-70-8_Handsoldering|
-|Hex ID (short code)|hexID|FZKSOTSC78HANDSOLDERING|
+|Hex ID (short code)|hexID|FZKSOTSC78HS|
 |name|name|Package_TO_SOT_SMD : SC-70-8_Handsoldering|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'SC-70-8_Handsoldering'</td><td> 'description'</td></tr><tr><td> 'SC70-8</td><td> Handsoldering'</td><td> 'tags'</td></tr><tr><td> 'SC70-8 Handsoldering'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_TO_SOT_SMD.3dshapes/SC-70-8.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

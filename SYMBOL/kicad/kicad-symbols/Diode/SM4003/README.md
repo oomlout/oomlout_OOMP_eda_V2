@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-SM4003
 - Hex ID: SZKDIODESM43
 - Name: Diode : SM4003
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/SM4003/
 - Description: Diode : SM4003
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-SM4003](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-SM4003)
 - Short Link: [http://oom.lt/SZKDIODESM43](http://oom.lt/SZKDIODESM43)

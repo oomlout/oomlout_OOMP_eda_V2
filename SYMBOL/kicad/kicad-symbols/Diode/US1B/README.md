@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-US1B
 - Hex ID: SZKDIODEUS1B
 - Name: Diode : US1B
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/US1B/
 - Description: Diode : US1B
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-US1B](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-US1B)
 - Short Link: [http://oom.lt/SZKDIODEUS1B](http://oom.lt/SZKDIODEUS1B)

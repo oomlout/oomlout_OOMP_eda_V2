@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-JSTXH-X-PI06-01-HXH6
 - Hex ID: FZOOMPKOOMPPHEADJSTXHXPI61HXH6
 - Name: oomlout_OOMP_parts : HEAD-JSTXH-X-PI06-01-HXH6
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/HEAD-JSTXH-X-PI06-01-HXH6/
 - Description: oomlout_OOMP_parts : HEAD-JSTXH-X-PI06-01-HXH6
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-JSTXH-X-PI06-01-HXH6](http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-JSTXH-X-PI06-01-HXH6)
 - Short Link: [http://oom.lt/FZOOMPKOOMPPHEADJSTXHXPI61HXH6](http://oom.lt/FZOOMPKOOMPPHEADJSTXHXPI61HXH6)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-HVSOF6
 - Hex ID: FZKSOTHVSOF6
 - Name: Package_TO_SOT_SMD : HVSOF6
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/HVSOF6/
 - Description: Package_TO_SOT_SMD : HVSOF6
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-HVSOF6](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-HVSOF6)
 - Short Link: [http://oom.lt/FZKSOTHVSOF6](http://oom.lt/FZKSOTHVSOF6)

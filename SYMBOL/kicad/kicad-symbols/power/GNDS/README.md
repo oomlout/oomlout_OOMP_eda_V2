@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-power-GNDS
 - Hex ID: SZKPOWERGNDS
 - Name: power : GNDS
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/power/GNDS/
 - Description: power : GNDS
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-power-GNDS](http://oom.lt/SYMBOL-kicad-kicad-symbols-power-GNDS)
 - Short Link: [http://oom.lt/SZKPOWERGNDS](http://oom.lt/SZKPOWERGNDS)

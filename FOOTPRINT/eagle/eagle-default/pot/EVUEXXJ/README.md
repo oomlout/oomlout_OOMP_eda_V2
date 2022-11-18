@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-pot-EVUEXXJ
 - Hex ID: FZEPOTEVUEXXJ
 - Name: pot : EVUEXXJ
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/pot/EVUEXXJ/
 - Description: pot : EVUEXXJ
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-pot-EVUEXXJ](http://oom.lt/FOOTPRINT-eagle-eagle-default-pot-EVUEXXJ)
 - Short Link: [http://oom.lt/FZEPOTEVUEXXJ](http://oom.lt/FZEPOTEVUEXXJ)

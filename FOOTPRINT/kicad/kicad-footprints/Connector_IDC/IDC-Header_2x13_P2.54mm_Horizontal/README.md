@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKCNIDCIDCHEADER2X13P254H > Connector_IDC : IDC-Header_2x13_P2.54mm_Horizontal](#fzkcnidcidcheader2x13p254h--connector_idc--idc-header_2x13_p254mm_horizontal)
+* [FZKCNIDCIDCH2X13P254H > Connector_IDC : IDC-Header_2x13_P2.54mm_Horizontal](#fzkcnidcidch2x13p254h--connector_idc--idc-header_2x13_p254mm_horizontal)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKCNIDCIDCHEADER2X13P254H > Connector_IDC : IDC-Header_2x13_P2.54mm_Horizontal
+# FZKCNIDCIDCH2X13P254H > Connector_IDC : IDC-Header_2x13_P2.54mm_Horizontal
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_IDC-IDC-Header_2x13_P2.54mm_Horizontal
-- Hex ID: FZKCNIDCIDCHEADER2X13P254H
+- Hex ID: FZKCNIDCIDCH2X13P254H
 - Name: Connector_IDC : IDC-Header_2x13_P2.54mm_Horizontal
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_IDC/IDC-Header_2x13_P2.54mm_Horizontal/
 - Description: Connector_IDC : IDC-Header_2x13_P2.54mm_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_IDC-IDC-Header_2x13_P2.54mm_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_IDC-IDC-Header_2x13_P2.54mm_Horizontal)
-- Short Link: [http://oom.lt/FZKCNIDCIDCHEADER2X13P254H](http://oom.lt/FZKCNIDCIDCHEADER2X13P254H)
+- Short Link: [http://oom.lt/FZKCNIDCIDCH2X13P254H](http://oom.lt/FZKCNIDCIDCH2X13P254H)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Connector_IDC|
 |OOMP Index|oompIndex|IDC-Header_2x13_P2.54mm_Horizontal|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_IDC-IDC-Header_2x13_P2.54mm_Horizontal|
-|Hex ID (short code)|hexID|FZKCNIDCIDCHEADER2X13P254H|
+|Hex ID (short code)|hexID|FZKCNIDCIDCH2X13P254H|
 |name|name|Connector_IDC : IDC-Header_2x13_P2.54mm_Horizontal|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'IDC-Header_2x13_P2.54mm_Horizontal'</td><td> 'description'</td></tr><tr><td> 'Through hole IDC box header</td><td> 2x13</td><td> 2.54mm pitch</td><td> DIN 41651 / IEC 60603-13</td><td> double rows</td><td> https</td></tr><tr><td>//docs.google.com/spreadsheets/d/16SsEcesNF15N3Lb4niX7dcUr-NY5_MFPQhobNuNppn4/edit#gid=0'</td><td> 'tags'</td></tr><tr><td> 'Through hole horizontal IDC box header THT 2x13 2.54mm double row'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_IDC.3dshapes/IDC-Header_2x13_P2.54mm_Horizontal.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||

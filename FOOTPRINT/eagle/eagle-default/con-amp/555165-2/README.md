@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-amp-555165-2
 - Hex ID: FZECONAMP5551652
 - Name: con-amp : 555165-2
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-amp/555165-2/
 - Description: con-amp : 555165-2
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-amp-555165-2](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-amp-555165-2)
 - Short Link: [http://oom.lt/FZECONAMP5551652](http://oom.lt/FZECONAMP5551652)

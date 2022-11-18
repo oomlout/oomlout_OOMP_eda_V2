@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-molex-5566-22
 - Hex ID: FZECONMX556622
 - Name: con-molex : 5566-22
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-molex/5566-22/
 - Description: con-molex : 5566-22
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-molex-5566-22](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-molex-5566-22)
 - Short Link: [http://oom.lt/FZECONMX556622](http://oom.lt/FZECONMX556622)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-discrete-RS-2,5
 - Hex ID: FZEDISCRETERS25
 - Name: discrete : RS-2,5
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/discrete/RS-2,5/
 - Description: discrete : RS-2,5
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-discrete-RS-2,5](http://oom.lt/FOOTPRINT-eagle-eagle-default-discrete-RS-2,5)
 - Short Link: [http://oom.lt/FZEDISCRETERS25](http://oom.lt/FZEDISCRETERS25)

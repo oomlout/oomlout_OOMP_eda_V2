@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKBATBATPANASONICCR125VSKFCIRCULARH > Battery : Battery_Panasonic_CR1025-VSK_Vertical_CircularHoles](#fzkbatbatpanasoniccr125vskfcircularh--battery--battery_panasonic_cr1025-vsk_vertical_circularholes)
+* [FZKBATBATPANCR125VSKFCIRCULARH > Battery : Battery_Panasonic_CR1025-VSK_Vertical_CircularHoles](#fzkbatbatpancr125vskfcircularh--battery--battery_panasonic_cr1025-vsk_vertical_circularholes)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKBATBATPANASONICCR125VSKFCIRCULARH > Battery : Battery_Panasonic_CR1025-VSK_Vertical_CircularHoles
+# FZKBATBATPANCR125VSKFCIRCULARH > Battery : Battery_Panasonic_CR1025-VSK_Vertical_CircularHoles
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Battery-Battery_Panasonic_CR1025-VSK_Vertical_CircularHoles
-- Hex ID: FZKBATBATPANASONICCR125VSKFCIRCULARH
+- Hex ID: FZKBATBATPANCR125VSKFCIRCULARH
 - Name: Battery : Battery_Panasonic_CR1025-VSK_Vertical_CircularHoles
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Battery/Battery_Panasonic_CR1025-VSK_Vertical_CircularHoles/
 - Description: Battery : Battery_Panasonic_CR1025-VSK_Vertical_CircularHoles
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Battery-Battery_Panasonic_CR1025-VSK_Vertical_CircularHoles](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Battery-Battery_Panasonic_CR1025-VSK_Vertical_CircularHoles)
-- Short Link: [http://oom.lt/FZKBATBATPANASONICCR125VSKFCIRCULARH](http://oom.lt/FZKBATBATPANASONICCR125VSKFCIRCULARH)
+- Short Link: [http://oom.lt/FZKBATBATPANCR125VSKFCIRCULARH](http://oom.lt/FZKBATBATPANCR125VSKFCIRCULARH)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Battery|
 |OOMP Index|oompIndex|Battery_Panasonic_CR1025-VSK_Vertical_CircularHoles|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Battery-Battery_Panasonic_CR1025-VSK_Vertical_CircularHoles|
-|Hex ID (short code)|hexID|FZKBATBATPANASONICCR125VSKFCIRCULARH|
+|Hex ID (short code)|hexID|FZKBATBATPANCR125VSKFCIRCULARH|
 |name|name|Battery : Battery_Panasonic_CR1025-VSK_Vertical_CircularHoles|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Battery_Panasonic_CR1025-VSK_Vertical_CircularHoles'</td><td> 'description'</td></tr><tr><td> 'Panasonic CR-1025/VSK battery'</td><td> 'tags'</td></tr><tr><td> 'battery CR-1025 coin cell vertical'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Battery.3dshapes/Battery_Panasonic_CR1025-VSK_Vertical_CircularHoles.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

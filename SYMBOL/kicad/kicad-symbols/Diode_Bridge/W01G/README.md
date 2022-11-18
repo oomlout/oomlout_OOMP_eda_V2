@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode_Bridge-W01G
 - Hex ID: SZKDIODEBRIDGEW1G
 - Name: Diode_Bridge : W01G
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode_Bridge/W01G/
 - Description: Diode_Bridge : W01G
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode_Bridge-W01G](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode_Bridge-W01G)
 - Short Link: [http://oom.lt/SZKDIODEBRIDGEW1G](http://oom.lt/SZKDIODEBRIDGEW1G)

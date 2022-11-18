@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-special-EPG-10
 - Hex ID: FZESPECIALEPG1
 - Name: special : EPG-10
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/special/EPG-10/
 - Description: special : EPG-10
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-special-EPG-10](http://oom.lt/FOOTPRINT-eagle-eagle-default-special-EPG-10)
 - Short Link: [http://oom.lt/FZESPECIALEPG1](http://oom.lt/FZESPECIALEPG1)

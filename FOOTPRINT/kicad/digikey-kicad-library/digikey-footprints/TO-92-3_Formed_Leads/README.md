@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-TO-92-3_Formed_Leads
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSTO923FORMEDLEADS
 - Name: digikey-footprints : TO-92-3_Formed_Leads
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/TO-92-3_Formed_Leads/
 - Description: digikey-footprints : TO-92-3_Formed_Leads
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-TO-92-3_Formed_Leads](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-TO-92-3_Formed_Leads)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSTO923FORMEDLEADS](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSTO923FORMEDLEADS)

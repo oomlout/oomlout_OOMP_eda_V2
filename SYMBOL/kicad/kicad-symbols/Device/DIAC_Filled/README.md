@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Device-DIAC_Filled
 - Hex ID: SZKDEVICEDIACFILL
 - Name: Device : DIAC_Filled
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/DIAC_Filled/
 - Description: Device : DIAC_Filled
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-DIAC_Filled](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-DIAC_Filled)
 - Short Link: [http://oom.lt/SZKDEVICEDIACFILL](http://oom.lt/SZKDEVICEDIACFILL)

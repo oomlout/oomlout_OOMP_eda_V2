@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Driver_FET-IRS21091
 - Hex ID: SZKDRIVERFETIRS2191
 - Name: Driver_FET : IRS21091
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Driver_FET/IRS21091/
 - Description: Driver_FET : IRS21091
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-IRS21091](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-IRS21091)
 - Short Link: [http://oom.lt/SZKDRIVERFETIRS2191](http://oom.lt/SZKDRIVERFETIRS2191)

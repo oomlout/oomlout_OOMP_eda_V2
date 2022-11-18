@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Module-Arduino_UNO_R3_WithMountingHoles
 - Hex ID: FZKMOARDUNOR3WITHHOLS
 - Name: Module : Arduino_UNO_R3_WithMountingHoles
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Module/Arduino_UNO_R3_WithMountingHoles/
 - Description: Module : Arduino_UNO_R3_WithMountingHoles
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Module-Arduino_UNO_R3_WithMountingHoles](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Module-Arduino_UNO_R3_WithMountingHoles)
 - Short Link: [http://oom.lt/FZKMOARDUNOR3WITHHOLS](http://oom.lt/FZKMOARDUNOR3WITHHOLS)

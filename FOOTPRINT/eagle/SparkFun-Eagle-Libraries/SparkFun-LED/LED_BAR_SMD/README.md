@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-LED-LED_BAR_SMD
 - Hex ID: FZSLLBARSM
 - Name: SparkFun-LED : LED_BAR_SMD
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-LED/LED_BAR_SMD/
 - Description: SparkFun-LED : LED_BAR_SMD
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-LED-LED_BAR_SMD](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-LED-LED_BAR_SMD)
 - Short Link: [http://oom.lt/FZSLLBARSM](http://oom.lt/FZSLLBARSM)

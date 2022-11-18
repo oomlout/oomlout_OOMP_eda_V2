@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-relay-PE-SOCKET
 - Hex ID: FZERELAYPESO
 - Name: relay : PE-SOCKET
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/relay/PE-SOCKET/
 - Description: relay : PE-SOCKET
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-PE-SOCKET](http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-PE-SOCKET)
 - Short Link: [http://oom.lt/FZERELAYPESO](http://oom.lt/FZERELAYPESO)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-lumberg-MICSMD12
 - Hex ID: FZECONLUMBERGMICSM12
 - Name: con-lumberg : MICSMD12
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-lumberg/MICSMD12/
 - Description: con-lumberg : MICSMD12
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-lumberg-MICSMD12](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-lumberg-MICSMD12)
 - Short Link: [http://oom.lt/FZECONLUMBERGMICSM12](http://oom.lt/FZECONLUMBERGMICSM12)

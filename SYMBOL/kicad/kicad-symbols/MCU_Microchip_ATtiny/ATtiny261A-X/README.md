@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny261A-X
 - Hex ID: SZKMCUMCHIPATTINYATTINY261AX
 - Name: MCU_Microchip_ATtiny : ATtiny261A-X
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_ATtiny/ATtiny261A-X/
 - Description: MCU_Microchip_ATtiny : ATtiny261A-X
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny261A-X](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny261A-X)
 - Short Link: [http://oom.lt/SZKMCUMCHIPATTINYATTINY261AX](http://oom.lt/SZKMCUMCHIPATTINYATTINY261AX)

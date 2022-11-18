@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-xilinx-xcv-FG1156
 - Hex ID: FZEXILINXXCVFG1156
 - Name: xilinx-xcv : FG1156
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/xilinx-xcv/FG1156/
 - Description: xilinx-xcv : FG1156
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-xilinx-xcv-FG1156](http://oom.lt/FOOTPRINT-eagle-eagle-default-xilinx-xcv-FG1156)
 - Short Link: [http://oom.lt/FZEXILINXXCVFG1156](http://oom.lt/FZEXILINXXCVFG1156)

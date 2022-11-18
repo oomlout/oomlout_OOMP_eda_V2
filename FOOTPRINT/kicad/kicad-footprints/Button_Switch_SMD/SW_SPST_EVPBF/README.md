@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-SW_SPST_EVPBF
 - Hex ID: FZKBSWSPSTEVPBF
 - Name: Button_Switch_SMD : SW_SPST_EVPBF
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Button_Switch_SMD/SW_SPST_EVPBF/
 - Description: Button_Switch_SMD : SW_SPST_EVPBF
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-SW_SPST_EVPBF](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-SW_SPST_EVPBF)
 - Short Link: [http://oom.lt/FZKBSWSPSTEVPBF](http://oom.lt/FZKBSWSPSTEVPBF)

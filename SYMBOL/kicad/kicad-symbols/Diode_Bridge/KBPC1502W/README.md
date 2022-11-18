@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-Diode_Bridge-KBPC1502W
 - Hex ID: SZKDIODEBRIDGEKBPC152W
 - Name: Diode_Bridge : KBPC1502W
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode_Bridge/KBPC1502W/
 - Description: Diode_Bridge : KBPC1502W
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode_Bridge-KBPC1502W](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode_Bridge-KBPC1502W)
 - Short Link: [http://oom.lt/SZKDIODEBRIDGEKBPC152W](http://oom.lt/SZKDIODEBRIDGEKBPC152W)

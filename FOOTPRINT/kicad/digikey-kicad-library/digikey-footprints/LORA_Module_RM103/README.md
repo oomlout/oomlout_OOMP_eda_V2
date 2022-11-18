@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-LORA_Module_RM103
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSLORAMORM13
 - Name: digikey-footprints : LORA_Module_RM103
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/LORA_Module_RM103/
 - Description: digikey-footprints : LORA_Module_RM103
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-LORA_Module_RM103](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-LORA_Module_RM103)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSLORAMORM13](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSLORAMORM13)

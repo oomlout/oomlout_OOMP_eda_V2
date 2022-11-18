@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-crystal-F15_12B
 - Hex ID: FZEXF1512B
 - Name: crystal : F15_12B
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/crystal/F15_12B/
 - Description: crystal : F15_12B
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-crystal-F15_12B](http://oom.lt/FOOTPRINT-eagle-eagle-default-crystal-F15_12B)
 - Short Link: [http://oom.lt/FZEXF1512B](http://oom.lt/FZEXF1512B)

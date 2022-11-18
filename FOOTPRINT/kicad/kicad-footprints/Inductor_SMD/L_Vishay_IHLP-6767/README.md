@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Vishay_IHLP-6767
 - Hex ID: FZKINLVISHAYIHLP6767
 - Name: Inductor_SMD : L_Vishay_IHLP-6767
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Vishay_IHLP-6767/
 - Description: Inductor_SMD : L_Vishay_IHLP-6767
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Vishay_IHLP-6767](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Vishay_IHLP-6767)
 - Short Link: [http://oom.lt/FZKINLVISHAYIHLP6767](http://oom.lt/FZKINLVISHAYIHLP6767)

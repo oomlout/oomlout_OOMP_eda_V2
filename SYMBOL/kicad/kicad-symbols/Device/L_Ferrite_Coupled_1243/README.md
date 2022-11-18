@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Device-L_Ferrite_Coupled_1243
 - Hex ID: SZKDEVICELFERRITECOUPL1243
 - Name: Device : L_Ferrite_Coupled_1243
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/L_Ferrite_Coupled_1243/
 - Description: Device : L_Ferrite_Coupled_1243
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-L_Ferrite_Coupled_1243](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-L_Ferrite_Coupled_1243)
 - Short Link: [http://oom.lt/SZKDEVICELFERRITECOUPL1243](http://oom.lt/SZKDEVICELFERRITECOUPL1243)

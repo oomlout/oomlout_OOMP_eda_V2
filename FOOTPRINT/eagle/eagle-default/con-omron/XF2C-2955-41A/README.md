@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-omron-XF2C-2955-41A
 - Hex ID: FZECONOMRONXF2C295541A
 - Name: con-omron : XF2C-2955-41A
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-omron/XF2C-2955-41A/
 - Description: con-omron : XF2C-2955-41A
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-omron-XF2C-2955-41A](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-omron-XF2C-2955-41A)
 - Short Link: [http://oom.lt/FZECONOMRONXF2C295541A](http://oom.lt/FZECONOMRONXF2C295541A)

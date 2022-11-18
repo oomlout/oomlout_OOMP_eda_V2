@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Fuse-Fuse_Littelfuse_372_D8.50mm
 - Hex ID: FZKFUFULITTELFU372D85
 - Name: Fuse : Fuse_Littelfuse_372_D8.50mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Fuse/Fuse_Littelfuse_372_D8.50mm/
 - Description: Fuse : Fuse_Littelfuse_372_D8.50mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Fuse-Fuse_Littelfuse_372_D8.50mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Fuse-Fuse_Littelfuse_372_D8.50mm)
 - Short Link: [http://oom.lt/FZKFUFULITTELFU372D85](http://oom.lt/FZKFUFULITTELFU372D85)

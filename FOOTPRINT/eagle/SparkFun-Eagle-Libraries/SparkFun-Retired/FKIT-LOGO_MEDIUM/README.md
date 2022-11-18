@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZSRTFKITLMEDIUM > SparkFun-Retired : FKIT-LOGO_MEDIUM](#fzsrtfkitlmedium--sparkfun-retired--fkit-logo_medium)
+* [FZSRTFKITLM > SparkFun-Retired : FKIT-LOGO_MEDIUM](#fzsrtfkitlm--sparkfun-retired--fkit-logo_medium)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZSRTFKITLMEDIUM > SparkFun-Retired : FKIT-LOGO_MEDIUM
+# FZSRTFKITLM > SparkFun-Retired : FKIT-LOGO_MEDIUM
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-FKIT-LOGO_MEDIUM
-- Hex ID: FZSRTFKITLMEDIUM
+- Hex ID: FZSRTFKITLM
 - Name: SparkFun-Retired : FKIT-LOGO_MEDIUM
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Retired/FKIT-LOGO_MEDIUM/
 - Description: SparkFun-Retired : FKIT-LOGO_MEDIUM
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-FKIT-LOGO_MEDIUM](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-FKIT-LOGO_MEDIUM)
-- Short Link: [http://oom.lt/FZSRTFKITLMEDIUM](http://oom.lt/FZSRTFKITLMEDIUM)
+- Short Link: [http://oom.lt/FZSRTFKITLM](http://oom.lt/FZSRTFKITLM)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|SparkFun-Retired|
 |OOMP Index|oompIndex|FKIT-LOGO_MEDIUM|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-FKIT-LOGO_MEDIUM|
-|Hex ID (short code)|hexID|FZSRTFKITLMEDIUM|
+|Hex ID (short code)|hexID|FZSRTFKITLM|
 |name|name|SparkFun-Retired : FKIT-LOGO_MEDIUM|
 ||||

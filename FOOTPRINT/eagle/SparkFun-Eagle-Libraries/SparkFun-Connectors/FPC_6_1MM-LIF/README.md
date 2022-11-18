@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-FPC_6_1MM-LIF
 - Hex ID: FZSSPARKFUNCNSFPC61LIF
 - Name: SparkFun-Connectors : FPC_6_1MM-LIF
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Connectors/FPC_6_1MM-LIF/
 - Description: SparkFun-Connectors : FPC_6_1MM-LIF
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-FPC_6_1MM-LIF](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-FPC_6_1MM-LIF)
 - Short Link: [http://oom.lt/FZSSPARKFUNCNSFPC61LIF](http://oom.lt/FZSSPARKFUNCNSFPC61LIF)

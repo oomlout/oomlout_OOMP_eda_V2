@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F7-STM32F723ZEIx
 - Hex ID: SZKMCUSTSTM32F7STM32F723ZEIX
 - Name: MCU_ST_STM32F7 : STM32F723ZEIx
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32F7/STM32F723ZEIx/
 - Description: MCU_ST_STM32F7 : STM32F723ZEIx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F7-STM32F723ZEIx](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F7-STM32F723ZEIx)
 - Short Link: [http://oom.lt/SZKMCUSTSTM32F7STM32F723ZEIX](http://oom.lt/SZKMCUSTSTM32F7STM32F723ZEIX)

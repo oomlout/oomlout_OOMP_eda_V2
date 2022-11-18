@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-BAT48RL
 - Hex ID: SZKDIODEBAT48RL
 - Name: Diode : BAT48RL
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/BAT48RL/
 - Description: Diode : BAT48RL
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-BAT48RL](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-BAT48RL)
 - Short Link: [http://oom.lt/SZKDIODEBAT48RL](http://oom.lt/SZKDIODEBAT48RL)

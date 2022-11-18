@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_SK6805_PLCC4_2.4x2.7mm_P1.3mm
 - Hex ID: FZKLLSK685PLCC424X27P13
 - Name: LED_SMD : LED_SK6805_PLCC4_2.4x2.7mm_P1.3mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_SK6805_PLCC4_2.4x2.7mm_P1.3mm/
 - Description: LED_SMD : LED_SK6805_PLCC4_2.4x2.7mm_P1.3mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_SK6805_PLCC4_2.4x2.7mm_P1.3mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_SK6805_PLCC4_2.4x2.7mm_P1.3mm)
 - Short Link: [http://oom.lt/FZKLLSK685PLCC424X27P13](http://oom.lt/FZKLLSK685PLCC424X27P13)

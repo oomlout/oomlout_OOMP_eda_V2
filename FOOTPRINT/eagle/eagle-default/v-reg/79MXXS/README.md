@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-v-reg-79MXXS
 - Hex ID: FZEVREG79MXXS
 - Name: v-reg : 79MXXS
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/v-reg/79MXXS/
 - Description: v-reg : 79MXXS
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-v-reg-79MXXS](http://oom.lt/FOOTPRINT-eagle-eagle-default-v-reg-79MXXS)
 - Short Link: [http://oom.lt/FZEVREG79MXXS](http://oom.lt/FZEVREG79MXXS)

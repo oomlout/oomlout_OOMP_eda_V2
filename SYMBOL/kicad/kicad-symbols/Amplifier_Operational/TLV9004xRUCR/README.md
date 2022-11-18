@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-TLV9004xRUCR
 - Hex ID: SZKAMPLIFIEROPERATIONALTLV94XRUCR
 - Name: Amplifier_Operational : TLV9004xRUCR
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/TLV9004xRUCR/
 - Description: Amplifier_Operational : TLV9004xRUCR
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-TLV9004xRUCR](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-TLV9004xRUCR)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALTLV94XRUCR](http://oom.lt/SZKAMPLIFIEROPERATIONALTLV94XRUCR)

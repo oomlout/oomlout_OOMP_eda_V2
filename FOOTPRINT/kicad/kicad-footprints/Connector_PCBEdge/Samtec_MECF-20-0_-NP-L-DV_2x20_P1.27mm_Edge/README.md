@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKCNPCBEDGESAMTECMECF2NPLDV2X2P127EDGE > Connector_PCBEdge : Samtec_MECF-20-0_-NP-L-DV_2x20_P1.27mm_Edge](#fzkcnpcbedgesamtecmecf2npldv2x2p127edge--connector_pcbedge--samtec_mecf-20-0_-np-l-dv_2x20_p127mm_edge)
+* [FZKCNPESAMTECMECF2NPLDV2X2P127EDGE > Connector_PCBEdge : Samtec_MECF-20-0_-NP-L-DV_2x20_P1.27mm_Edge](#fzkcnpesamtecmecf2npldv2x2p127edge--connector_pcbedge--samtec_mecf-20-0_-np-l-dv_2x20_p127mm_edge)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKCNPCBEDGESAMTECMECF2NPLDV2X2P127EDGE > Connector_PCBEdge : Samtec_MECF-20-0_-NP-L-DV_2x20_P1.27mm_Edge
+# FZKCNPESAMTECMECF2NPLDV2X2P127EDGE > Connector_PCBEdge : Samtec_MECF-20-0_-NP-L-DV_2x20_P1.27mm_Edge
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_PCBEdge-Samtec_MECF-20-0_-NP-L-DV_2x20_P1.27mm_Edge
-- Hex ID: FZKCNPCBEDGESAMTECMECF2NPLDV2X2P127EDGE
+- Hex ID: FZKCNPESAMTECMECF2NPLDV2X2P127EDGE
 - Name: Connector_PCBEdge : Samtec_MECF-20-0_-NP-L-DV_2x20_P1.27mm_Edge
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_PCBEdge/Samtec_MECF-20-0_-NP-L-DV_2x20_P1.27mm_Edge/
 - Description: Connector_PCBEdge : Samtec_MECF-20-0_-NP-L-DV_2x20_P1.27mm_Edge
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_PCBEdge-Samtec_MECF-20-0_-NP-L-DV_2x20_P1.27mm_Edge](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_PCBEdge-Samtec_MECF-20-0_-NP-L-DV_2x20_P1.27mm_Edge)
-- Short Link: [http://oom.lt/FZKCNPCBEDGESAMTECMECF2NPLDV2X2P127EDGE](http://oom.lt/FZKCNPCBEDGESAMTECMECF2NPLDV2X2P127EDGE)
+- Short Link: [http://oom.lt/FZKCNPESAMTECMECF2NPLDV2X2P127EDGE](http://oom.lt/FZKCNPESAMTECMECF2NPLDV2X2P127EDGE)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Connector_PCBEdge|
 |OOMP Index|oompIndex|Samtec_MECF-20-0_-NP-L-DV_2x20_P1.27mm_Edge|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_PCBEdge-Samtec_MECF-20-0_-NP-L-DV_2x20_P1.27mm_Edge|
-|Hex ID (short code)|hexID|FZKCNPCBEDGESAMTECMECF2NPLDV2X2P127EDGE|
+|Hex ID (short code)|hexID|FZKCNPESAMTECMECF2NPLDV2X2P127EDGE|
 |name|name|Connector_PCBEdge : Samtec_MECF-20-0_-NP-L-DV_2x20_P1.27mm_Edge|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Samtec_MECF-20-0_-NP-L-DV_2x20_P1.27mm_Edge'</td><td> 'description'</td></tr><tr><td> 'Highspeed card edge connector for PCBs with 20 contacts (not polarized)'</td><td> 'tags'</td></tr><tr><td> 'conn samtec card-edge high-speed'</td><td> 'attributeType'</td></tr><tr><td> None</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'connect'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-rcl-TFI0307
 - Hex ID: FZERCLTFI37
 - Name: rcl : TFI0307
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/rcl/TFI0307/
 - Description: rcl : TFI0307
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-TFI0307](http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-TFI0307)
 - Short Link: [http://oom.lt/FZERCLTFI37](http://oom.lt/FZERCLTFI37)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-BAT160S
 - Hex ID: SZKDIODEBAT16S
 - Name: Diode : BAT160S
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/BAT160S/
 - Description: Diode : BAT160S
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-BAT160S](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-BAT160S)
 - Short Link: [http://oom.lt/SZKDIODEBAT16S](http://oom.lt/SZKDIODEBAT16S)

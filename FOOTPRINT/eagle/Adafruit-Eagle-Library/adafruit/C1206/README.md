@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-C1206
 - Hex ID: FZAC126
 - Name: adafruit : C1206
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/C1206/
 - Description: adafruit : C1206
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-C1206](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-C1206)
 - Short Link: [http://oom.lt/FZAC126](http://oom.lt/FZAC126)

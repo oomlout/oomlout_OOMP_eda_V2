@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O300-67-R6300A
 - Hex ID: FZOOMPKOOMPPRESE63XO367R63A
 - Name: oomlout_OOMP_parts : RESE-0603-X-O300-67-R6300A
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/RESE-0603-X-O300-67-R6300A/
 - Description: oomlout_OOMP_parts : RESE-0603-X-O300-67-R6300A
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O300-67-R6300A](http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O300-67-R6300A)
 - Short Link: [http://oom.lt/FZOOMPKOOMPPRESE63XO367R63A](http://oom.lt/FZOOMPKOOMPPRESE63XO367R63A)

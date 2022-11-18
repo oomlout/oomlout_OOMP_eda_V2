@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-SW_SPST_SKQG_WithoutStem
 - Hex ID: FZKBSWSPSTSKQGWITHOUTSTEM
 - Name: Button_Switch_SMD : SW_SPST_SKQG_WithoutStem
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Button_Switch_SMD/SW_SPST_SKQG_WithoutStem/
 - Description: Button_Switch_SMD : SW_SPST_SKQG_WithoutStem
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-SW_SPST_SKQG_WithoutStem](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-SW_SPST_SKQG_WithoutStem)
 - Short Link: [http://oom.lt/FZKBSWSPSTSKQGWITHOUTSTEM](http://oom.lt/FZKBSWSPSTSKQGWITHOUTSTEM)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-switch-dil-DRS3010
 - Hex ID: FZESWDILDRS31
 - Name: switch-dil : DRS3010
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/switch-dil/DRS3010/
 - Description: switch-dil : DRS3010
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-dil-DRS3010](http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-dil-DRS3010)
 - Short Link: [http://oom.lt/FZESWDILDRS31](http://oom.lt/FZESWDILDRS31)

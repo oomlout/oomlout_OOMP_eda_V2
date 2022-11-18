@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEINDUCTORNEOSIDZ155 > inductor-neosid : Z15_05](#fzeinductorneosidz155--inductor-neosid--z15_05)
+* [FZEINNEOSIDZ155 > inductor-neosid : Z15_05](#fzeinneosidz155--inductor-neosid--z15_05)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEINDUCTORNEOSIDZ155 > inductor-neosid : Z15_05
+# FZEINNEOSIDZ155 > inductor-neosid : Z15_05
 
 - ID: FOOTPRINT-eagle-eagle-default-inductor-neosid-Z15_05
-- Hex ID: FZEINDUCTORNEOSIDZ155
+- Hex ID: FZEINNEOSIDZ155
 - Name: inductor-neosid : Z15_05
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/inductor-neosid/Z15_05/
 - Description: inductor-neosid : Z15_05
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-inductor-neosid-Z15_05](http://oom.lt/FOOTPRINT-eagle-eagle-default-inductor-neosid-Z15_05)
-- Short Link: [http://oom.lt/FZEINDUCTORNEOSIDZ155](http://oom.lt/FZEINDUCTORNEOSIDZ155)
+- Short Link: [http://oom.lt/FZEINNEOSIDZ155](http://oom.lt/FZEINNEOSIDZ155)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|inductor-neosid|
 |OOMP Index|oompIndex|Z15_05|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-inductor-neosid-Z15_05|
-|Hex ID (short code)|hexID|FZEINDUCTORNEOSIDZ155|
+|Hex ID (short code)|hexID|FZEINNEOSIDZ155|
 |name|name|inductor-neosid : Z15_05|
 ||||

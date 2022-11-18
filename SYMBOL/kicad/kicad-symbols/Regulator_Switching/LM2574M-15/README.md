@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-LM2574M-15
 - Hex ID: SZKREGULATORSWINGLM2574M15
 - Name: Regulator_Switching : LM2574M-15
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/LM2574M-15/
 - Description: Regulator_Switching : LM2574M-15
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LM2574M-15](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LM2574M-15)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGLM2574M15](http://oom.lt/SZKREGULATORSWINGLM2574M15)

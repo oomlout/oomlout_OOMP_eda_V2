@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Oscillator-Oscillator_OCXO_Morion_MV267
 - Hex ID: FZKOCSOCSOCXOMORIONMV267
 - Name: Oscillator : Oscillator_OCXO_Morion_MV267
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Oscillator/Oscillator_OCXO_Morion_MV267/
 - Description: Oscillator : Oscillator_OCXO_Morion_MV267
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Oscillator-Oscillator_OCXO_Morion_MV267](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Oscillator-Oscillator_OCXO_Morion_MV267)
 - Short Link: [http://oom.lt/FZKOCSOCSOCXOMORIONMV267](http://oom.lt/FZKOCSOCSOCXOMORIONMV267)

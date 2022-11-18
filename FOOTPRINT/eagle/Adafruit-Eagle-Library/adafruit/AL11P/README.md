@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-AL11P
 - Hex ID: FZAAL11P
 - Name: adafruit : AL11P
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/AL11P/
 - Description: adafruit : AL11P
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-AL11P](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-AL11P)
 - Short Link: [http://oom.lt/FZAAL11P](http://oom.lt/FZAAL11P)

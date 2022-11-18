@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0603-X-PF12-V50-C6P12
 - Hex ID: SZOOMPKOOMPPCAPC63XPF12V5C6P12
 - Name: oomlout_OOMP_parts : CAPC-0603-X-PF12-V50-C6P12
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/CAPC-0603-X-PF12-V50-C6P12/
 - Description: oomlout_OOMP_parts : CAPC-0603-X-PF12-V50-C6P12
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0603-X-PF12-V50-C6P12](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0603-X-PF12-V50-C6P12)
 - Short Link: [http://oom.lt/SZOOMPKOOMPPCAPC63XPF12V5C6P12](http://oom.lt/SZOOMPKOOMPPCAPC63XPF12V5C6P12)

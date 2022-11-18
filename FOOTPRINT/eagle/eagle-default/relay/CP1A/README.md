@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-relay-CP1A
 - Hex ID: FZERELAYCP1A
 - Name: relay : CP1A
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/relay/CP1A/
 - Description: relay : CP1A
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-CP1A](http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-CP1A)
 - Short Link: [http://oom.lt/FZERELAYCP1A](http://oom.lt/FZERELAYCP1A)

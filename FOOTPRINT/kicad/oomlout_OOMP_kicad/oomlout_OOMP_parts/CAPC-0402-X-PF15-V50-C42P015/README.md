@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0402-X-PF15-V50-C42P015
 - Hex ID: FZOOMPKOOMPPCAPC42XPF15V5C42P15
 - Name: oomlout_OOMP_parts : CAPC-0402-X-PF15-V50-C42P015
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/CAPC-0402-X-PF15-V50-C42P015/
 - Description: oomlout_OOMP_parts : CAPC-0402-X-PF15-V50-C42P015
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0402-X-PF15-V50-C42P015](http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0402-X-PF15-V50-C42P015)
 - Short Link: [http://oom.lt/FZOOMPKOOMPPCAPC42XPF15V5C42P15](http://oom.lt/FZOOMPKOOMPPCAPC42XPF15V5C42P15)

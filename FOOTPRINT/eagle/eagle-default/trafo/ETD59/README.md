@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-trafo-ETD59
 - Hex ID: FZETRAFOETD59
 - Name: trafo : ETD59
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/trafo/ETD59/
 - Description: trafo : ETD59
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-trafo-ETD59](http://oom.lt/FOOTPRINT-eagle-eagle-default-trafo-ETD59)
 - Short Link: [http://oom.lt/FZETRAFOETD59](http://oom.lt/FZETRAFOETD59)

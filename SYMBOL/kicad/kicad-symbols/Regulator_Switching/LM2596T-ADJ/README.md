@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-LM2596T-ADJ
 - Hex ID: SZKREGULATORSWINGLM2596TADJ
 - Name: Regulator_Switching : LM2596T-ADJ
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/LM2596T-ADJ/
 - Description: Regulator_Switching : LM2596T-ADJ
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LM2596T-ADJ](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LM2596T-ADJ)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGLM2596TADJ](http://oom.lt/SZKREGULATORSWINGLM2596TADJ)

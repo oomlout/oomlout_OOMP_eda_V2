@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_DS15_D1.5mm_L5.0mm_Horizontal_1EP_style1
 - Hex ID: FZKXXDS15D15L5H1EPSTYLE1
 - Name: Crystal : Crystal_DS15_D1.5mm_L5.0mm_Horizontal_1EP_style1
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_DS15_D1.5mm_L5.0mm_Horizontal_1EP_style1/
 - Description: Crystal : Crystal_DS15_D1.5mm_L5.0mm_Horizontal_1EP_style1
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_DS15_D1.5mm_L5.0mm_Horizontal_1EP_style1](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_DS15_D1.5mm_L5.0mm_Horizontal_1EP_style1)
 - Short Link: [http://oom.lt/FZKXXDS15D15L5H1EPSTYLE1](http://oom.lt/FZKXXDS15D15L5H1EPSTYLE1)

@@ -15,6 +15,7 @@ NO IMAGE
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Radial_D29.8mm_P29.00mm_Murata_1400series
 - Hex ID: FZKINLRD298P29M14SERIES
 - Name: Inductor_THT : L_Radial_D29.8mm_P29.00mm_Murata_1400series
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Radial_D29.8mm_P29.00mm_Murata_1400series/
 - Description: Inductor_THT : L_Radial_D29.8mm_P29.00mm_Murata_1400series
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Radial_D29.8mm_P29.00mm_Murata_1400series](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Radial_D29.8mm_P29.00mm_Murata_1400series)
 - Short Link: [http://oom.lt/FZKINLRD298P29M14SERIES](http://oom.lt/FZKINLRD298P29M14SERIES)

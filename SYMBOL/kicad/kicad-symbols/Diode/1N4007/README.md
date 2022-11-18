@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-1N4007
 - Hex ID: SZKDIODE1N47
 - Name: Diode : 1N4007
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/1N4007/
 - Description: Diode : 1N4007
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-1N4007](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-1N4007)
 - Short Link: [http://oom.lt/SZKDIODE1N47](http://oom.lt/SZKDIODE1N47)

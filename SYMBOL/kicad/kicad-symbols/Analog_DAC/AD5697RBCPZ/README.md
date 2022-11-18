@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Analog_DAC-AD5697RBCPZ
 - Hex ID: SZKANALOGDACAD5697RBCPZ
 - Name: Analog_DAC : AD5697RBCPZ
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog_DAC/AD5697RBCPZ/
 - Description: Analog_DAC : AD5697RBCPZ
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_DAC-AD5697RBCPZ](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_DAC-AD5697RBCPZ)
 - Short Link: [http://oom.lt/SZKANALOGDACAD5697RBCPZ](http://oom.lt/SZKANALOGDACAD5697RBCPZ)

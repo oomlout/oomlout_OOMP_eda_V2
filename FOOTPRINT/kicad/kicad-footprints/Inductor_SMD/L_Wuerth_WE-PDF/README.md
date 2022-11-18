@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Wuerth_WE-PDF
 - Hex ID: FZKINLWUERTHWEPDF
 - Name: Inductor_SMD : L_Wuerth_WE-PDF
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Wuerth_WE-PDF/
 - Description: Inductor_SMD : L_Wuerth_WE-PDF
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Wuerth_WE-PDF](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Wuerth_WE-PDF)
 - Short Link: [http://oom.lt/FZKINLWUERTHWEPDF](http://oom.lt/FZKINLWUERTHWEPDF)

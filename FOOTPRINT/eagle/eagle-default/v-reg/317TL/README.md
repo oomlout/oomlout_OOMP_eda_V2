@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-v-reg-317TL
 - Hex ID: FZEVREG317TL
 - Name: v-reg : 317TL
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/v-reg/317TL/
 - Description: v-reg : 317TL
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-v-reg-317TL](http://oom.lt/FOOTPRINT-eagle-eagle-default-v-reg-317TL)
 - Short Link: [http://oom.lt/FZEVREG317TL](http://oom.lt/FZEVREG317TL)

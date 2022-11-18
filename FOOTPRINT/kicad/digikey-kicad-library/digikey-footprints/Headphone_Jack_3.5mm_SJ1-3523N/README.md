@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Headphone_Jack_3.5mm_SJ1-3523N
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSHEADPHONEJ35SJ13523N
 - Name: digikey-footprints : Headphone_Jack_3.5mm_SJ1-3523N
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Headphone_Jack_3.5mm_SJ1-3523N/
 - Description: digikey-footprints : Headphone_Jack_3.5mm_SJ1-3523N
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Headphone_Jack_3.5mm_SJ1-3523N](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Headphone_Jack_3.5mm_SJ1-3523N)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSHEADPHONEJ35SJ13523N](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSHEADPHONEJ35SJ13523N)

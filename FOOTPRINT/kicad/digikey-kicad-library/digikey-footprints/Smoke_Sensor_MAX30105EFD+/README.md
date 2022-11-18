@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Smoke_Sensor_MAX30105EFD+
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSSMOKESENMAX315EFD+
 - Name: digikey-footprints : Smoke_Sensor_MAX30105EFD+
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Smoke_Sensor_MAX30105EFD+/
 - Description: digikey-footprints : Smoke_Sensor_MAX30105EFD+
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Smoke_Sensor_MAX30105EFD+](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Smoke_Sensor_MAX30105EFD+)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSSMOKESENMAX315EFD+](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSSMOKESENMAX315EFD+)

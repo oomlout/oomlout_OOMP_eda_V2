@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-power-+7.5V
 - Hex ID: SZKPOWER+75V
 - Name: power : +7.5V
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/power/+7.5V/
 - Description: power : +7.5V
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-power-+7.5V](http://oom.lt/SYMBOL-kicad-kicad-symbols-power-+7.5V)
 - Short Link: [http://oom.lt/SZKPOWER+75V](http://oom.lt/SZKPOWER+75V)

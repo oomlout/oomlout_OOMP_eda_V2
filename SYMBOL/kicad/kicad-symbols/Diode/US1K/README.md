@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-US1K
 - Hex ID: SZKDIODEUS1K
 - Name: Diode : US1K
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/US1K/
 - Description: Diode : US1K
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-US1K](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-US1K)
 - Short Link: [http://oom.lt/SZKDIODEUS1K](http://oom.lt/SZKDIODEUS1K)

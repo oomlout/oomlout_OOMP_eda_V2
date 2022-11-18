@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEICPACKAGEDIL2 > ic-package : DIL20](#fzeicpackagedil2--ic-package--dil20)
+* [FZEICPDIL2 > ic-package : DIL20](#fzeicpdil2--ic-package--dil20)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEICPACKAGEDIL2 > ic-package : DIL20
+# FZEICPDIL2 > ic-package : DIL20
 
 - ID: FOOTPRINT-eagle-eagle-default-ic-package-DIL20
-- Hex ID: FZEICPACKAGEDIL2
+- Hex ID: FZEICPDIL2
 - Name: ic-package : DIL20
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ic-package/DIL20/
 - Description: ic-package : DIL20
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ic-package-DIL20](http://oom.lt/FOOTPRINT-eagle-eagle-default-ic-package-DIL20)
-- Short Link: [http://oom.lt/FZEICPACKAGEDIL2](http://oom.lt/FZEICPACKAGEDIL2)
+- Short Link: [http://oom.lt/FZEICPDIL2](http://oom.lt/FZEICPDIL2)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|ic-package|
 |OOMP Index|oompIndex|DIL20|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-ic-package-DIL20|
-|Hex ID (short code)|hexID|FZEICPACKAGEDIL2|
+|Hex ID (short code)|hexID|FZEICPDIL2|
 |name|name|ic-package : DIL20|
 ||||

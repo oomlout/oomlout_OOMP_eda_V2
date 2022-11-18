@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_LineDriver-UA9638CD
 - Hex ID: SZKINTERFACELINEDRIVERUA9638CD
 - Name: Interface_LineDriver : UA9638CD
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_LineDriver/UA9638CD/
 - Description: Interface_LineDriver : UA9638CD
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_LineDriver-UA9638CD](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_LineDriver-UA9638CD)
 - Short Link: [http://oom.lt/SZKINTERFACELINEDRIVERUA9638CD](http://oom.lt/SZKINTERFACELINEDRIVERUA9638CD)

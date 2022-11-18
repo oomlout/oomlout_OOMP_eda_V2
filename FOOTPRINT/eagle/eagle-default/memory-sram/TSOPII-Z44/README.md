@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-memory-sram-TSOPII-Z44
 - Hex ID: FZEMEMORYSRAMTSIIZ44
 - Name: memory-sram : TSOPII-Z44
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/memory-sram/TSOPII-Z44/
 - Description: memory-sram : TSOPII-Z44
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-memory-sram-TSOPII-Z44](http://oom.lt/FOOTPRINT-eagle-eagle-default-memory-sram-TSOPII-Z44)
 - Short Link: [http://oom.lt/FZEMEMORYSRAMTSIIZ44](http://oom.lt/FZEMEMORYSRAMTSIIZ44)

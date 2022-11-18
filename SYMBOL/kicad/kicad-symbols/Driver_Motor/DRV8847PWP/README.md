@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Driver_Motor-DRV8847PWP
 - Hex ID: SZKDRIVERMOTORDRV8847PWP
 - Name: Driver_Motor : DRV8847PWP
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Driver_Motor/DRV8847PWP/
 - Description: Driver_Motor : DRV8847PWP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_Motor-DRV8847PWP](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_Motor-DRV8847PWP)
 - Short Link: [http://oom.lt/SZKDRIVERMOTORDRV8847PWP](http://oom.lt/SZKDRIVERMOTORDRV8847PWP)

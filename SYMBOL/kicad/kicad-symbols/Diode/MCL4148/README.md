@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-MCL4148
 - Hex ID: SZKDIODEMCL4148
 - Name: Diode : MCL4148
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/MCL4148/
 - Description: Diode : MCL4148
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-MCL4148](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-MCL4148)
 - Short Link: [http://oom.lt/SZKDIODEMCL4148](http://oom.lt/SZKDIODEMCL4148)

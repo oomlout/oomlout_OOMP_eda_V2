@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-LMZ13608
 - Hex ID: SZKREGULATORSWINGLMZ1368
 - Name: Regulator_Switching : LMZ13608
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/LMZ13608/
 - Description: Regulator_Switching : LMZ13608
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LMZ13608](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LMZ13608)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGLMZ1368](http://oom.lt/SZKREGULATORSWINGLMZ1368)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-ROHM_DFN0604-3
 - Hex ID: FZKDFNROHMDFN643
 - Name: Package_DFN_QFN : ROHM_DFN0604-3
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/ROHM_DFN0604-3/
 - Description: Package_DFN_QFN : ROHM_DFN0604-3
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-ROHM_DFN0604-3](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-ROHM_DFN0604-3)
 - Short Link: [http://oom.lt/FZKDFNROHMDFN643](http://oom.lt/FZKDFNROHMDFN643)

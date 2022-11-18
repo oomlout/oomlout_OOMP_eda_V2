@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Oscillator-DFA-S2
 - Hex ID: SZKOCSDFAS2
 - Name: Oscillator : DFA-S2
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Oscillator/DFA-S2/
 - Description: Oscillator : DFA-S2
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Oscillator-DFA-S2](http://oom.lt/SYMBOL-kicad-kicad-symbols-Oscillator-DFA-S2)
 - Short Link: [http://oom.lt/SZKOCSDFAS2](http://oom.lt/SZKOCSDFAS2)

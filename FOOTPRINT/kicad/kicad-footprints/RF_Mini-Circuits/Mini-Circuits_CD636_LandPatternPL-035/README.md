@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-RF_Mini-Circuits-Mini-Circuits_CD636_LandPatternPL-035
 - Hex ID: FZKRFMCIRCUITSCD636LANDPATTERNPL35
 - Name: RF_Mini-Circuits : Mini-Circuits_CD636_LandPatternPL-035
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/RF_Mini-Circuits/Mini-Circuits_CD636_LandPatternPL-035/
 - Description: RF_Mini-Circuits : Mini-Circuits_CD636_LandPatternPL-035
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_Mini-Circuits-Mini-Circuits_CD636_LandPatternPL-035](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_Mini-Circuits-Mini-Circuits_CD636_LandPatternPL-035)
 - Short Link: [http://oom.lt/FZKRFMCIRCUITSCD636LANDPATTERNPL35](http://oom.lt/FZKRFMCIRCUITSCD636LANDPATTERNPL35)

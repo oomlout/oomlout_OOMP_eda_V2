@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Button_Switch_THT-SW_Push_1P1T_NO_LED_E-Switch_TL1250
 - Hex ID: FZKBSWPUSH1P1TNOLESWTL125
 - Name: Button_Switch_THT : SW_Push_1P1T_NO_LED_E-Switch_TL1250
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/SW_Push_1P1T_NO_LED_E-Switch_TL1250/
 - Description: Button_Switch_THT : SW_Push_1P1T_NO_LED_E-Switch_TL1250
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Button_Switch_THT-SW_Push_1P1T_NO_LED_E-Switch_TL1250](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Button_Switch_THT-SW_Push_1P1T_NO_LED_E-Switch_TL1250)
 - Short Link: [http://oom.lt/FZKBSWPUSH1P1TNOLESWTL125](http://oom.lt/FZKBSWPUSH1P1TNOLESWTL125)

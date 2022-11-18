@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Potentiometer_Digital-AD5280
 - Hex ID: SZKPOTDIGITALAD528
 - Name: Potentiometer_Digital : AD5280
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Potentiometer_Digital/AD5280/
 - Description: Potentiometer_Digital : AD5280
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Potentiometer_Digital-AD5280](http://oom.lt/SYMBOL-kicad-kicad-symbols-Potentiometer_Digital-AD5280)
 - Short Link: [http://oom.lt/SZKPOTDIGITALAD528](http://oom.lt/SZKPOTDIGITALAD528)

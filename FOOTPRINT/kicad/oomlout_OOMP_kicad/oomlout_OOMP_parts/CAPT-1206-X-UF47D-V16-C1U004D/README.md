@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPT-1206-X-UF47D-V16-C1U004D
 - Hex ID: FZOOMPKOOMPPCAPT126XUF47DV16C1U4D
 - Name: oomlout_OOMP_parts : CAPT-1206-X-UF47D-V16-C1U004D
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/CAPT-1206-X-UF47D-V16-C1U004D/
 - Description: oomlout_OOMP_parts : CAPT-1206-X-UF47D-V16-C1U004D
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPT-1206-X-UF47D-V16-C1U004D](http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPT-1206-X-UF47D-V16-C1U004D)
 - Short Link: [http://oom.lt/FZOOMPKOOMPPCAPT126XUF47DV16C1U4D](http://oom.lt/FZOOMPKOOMPPCAPT126XUF47DV16C1U4D)

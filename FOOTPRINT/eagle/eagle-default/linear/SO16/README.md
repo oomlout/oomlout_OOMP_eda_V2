@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-linear-SO16
 - Hex ID: FZELINEARSO16
 - Name: linear : SO16
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/linear/SO16/
 - Description: linear : SO16
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-linear-SO16](http://oom.lt/FOOTPRINT-eagle-eagle-default-linear-SO16)
 - Short Link: [http://oom.lt/FZELINEARSO16](http://oom.lt/FZELINEARSO16)

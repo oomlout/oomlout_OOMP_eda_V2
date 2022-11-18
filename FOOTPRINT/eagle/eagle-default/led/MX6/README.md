@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-led-MX6
 - Hex ID: FZELMX6
 - Name: led : MX6
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/led/MX6/
 - Description: led : MX6
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-led-MX6](http://oom.lt/FOOTPRINT-eagle-eagle-default-led-MX6)
 - Short Link: [http://oom.lt/FZELMX6](http://oom.lt/FZELMX6)

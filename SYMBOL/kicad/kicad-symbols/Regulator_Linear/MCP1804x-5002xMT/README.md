@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-MCP1804x-5002xMT
 - Hex ID: SZKREGULATORLINEARMCP184X52XMT
 - Name: Regulator_Linear : MCP1804x-5002xMT
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/MCP1804x-5002xMT/
 - Description: Regulator_Linear : MCP1804x-5002xMT
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-MCP1804x-5002xMT](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-MCP1804x-5002xMT)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARMCP184X52XMT](http://oom.lt/SZKREGULATORLINEARMCP184X52XMT)

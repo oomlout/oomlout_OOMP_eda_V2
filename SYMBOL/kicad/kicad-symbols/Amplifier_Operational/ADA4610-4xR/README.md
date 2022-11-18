@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-ADA4610-4xR
 - Hex ID: SZKAMPLIFIEROPERATIONALADA4614XR
 - Name: Amplifier_Operational : ADA4610-4xR
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/ADA4610-4xR/
 - Description: Amplifier_Operational : ADA4610-4xR
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-ADA4610-4xR](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-ADA4610-4xR)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALADA4614XR](http://oom.lt/SZKAMPLIFIEROPERATIONALADA4614XR)

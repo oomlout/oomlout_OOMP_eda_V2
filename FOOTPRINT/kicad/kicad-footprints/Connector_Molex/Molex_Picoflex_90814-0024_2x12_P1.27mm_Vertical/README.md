@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_Picoflex_90814-0024_2x12_P1.27mm_Vertical
 - Hex ID: FZKCNMXMXPICOFLEX9814242X12P127F
 - Name: Connector_Molex : Molex_Picoflex_90814-0024_2x12_P1.27mm_Vertical
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_Picoflex_90814-0024_2x12_P1.27mm_Vertical/
 - Description: Connector_Molex : Molex_Picoflex_90814-0024_2x12_P1.27mm_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_Picoflex_90814-0024_2x12_P1.27mm_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_Picoflex_90814-0024_2x12_P1.27mm_Vertical)
 - Short Link: [http://oom.lt/FZKCNMXMXPICOFLEX9814242X12P127F](http://oom.lt/FZKCNMXMXPICOFLEX9814242X12P127F)

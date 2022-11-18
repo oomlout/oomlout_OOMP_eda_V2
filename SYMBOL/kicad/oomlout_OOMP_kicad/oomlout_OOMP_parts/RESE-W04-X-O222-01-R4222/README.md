@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-W04-X-O222-01-R4222
 - Hex ID: SZOOMPKOOMPPRESEW4XO2221R4222
 - Name: oomlout_OOMP_parts : RESE-W04-X-O222-01-R4222
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/RESE-W04-X-O222-01-R4222/
 - Description: oomlout_OOMP_parts : RESE-W04-X-O222-01-R4222
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-W04-X-O222-01-R4222](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-W04-X-O222-01-R4222)
 - Short Link: [http://oom.lt/SZOOMPKOOMPPRESEW4XO2221R4222](http://oom.lt/SZOOMPKOOMPPRESEW4XO2221R4222)

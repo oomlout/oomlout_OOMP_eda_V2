@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Audio-AK7742EQ
 - Hex ID: SZKAUDIOAK7742EQ
 - Name: Audio : AK7742EQ
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Audio/AK7742EQ/
 - Description: Audio : AK7742EQ
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Audio-AK7742EQ](http://oom.lt/SYMBOL-kicad-kicad-symbols-Audio-AK7742EQ)
 - Short Link: [http://oom.lt/SZKAUDIOAK7742EQ](http://oom.lt/SZKAUDIOAK7742EQ)

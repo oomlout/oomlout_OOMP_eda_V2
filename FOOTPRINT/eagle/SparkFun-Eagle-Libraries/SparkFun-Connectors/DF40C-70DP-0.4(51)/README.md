@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-DF40C-70DP-0.4(51)
 - Hex ID: FZSSPARKFUNCNSDF4C7DP4(51)
 - Name: SparkFun-Connectors : DF40C-70DP-0.4(51)
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Connectors/DF40C-70DP-0.4(51)/
 - Description: SparkFun-Connectors : DF40C-70DP-0.4(51)
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-DF40C-70DP-0.4(51)](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-DF40C-70DP-0.4(51))
 - Short Link: [http://oom.lt/FZSSPARKFUNCNSDF4C7DP4(51)](http://oom.lt/FZSSPARKFUNCNSDF4C7DP4(51))

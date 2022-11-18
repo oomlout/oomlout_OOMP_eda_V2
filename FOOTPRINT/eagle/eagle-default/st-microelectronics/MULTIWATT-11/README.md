@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-st-microelectronics-MULTIWATT-11
 - Hex ID: FZESTMELECTRONICSMULTIWATT11
 - Name: st-microelectronics : MULTIWATT-11
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/st-microelectronics/MULTIWATT-11/
 - Description: st-microelectronics : MULTIWATT-11
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-st-microelectronics-MULTIWATT-11](http://oom.lt/FOOTPRINT-eagle-eagle-default-st-microelectronics-MULTIWATT-11)
 - Short Link: [http://oom.lt/FZESTMELECTRONICSMULTIWATT11](http://oom.lt/FZESTMELECTRONICSMULTIWATT11)

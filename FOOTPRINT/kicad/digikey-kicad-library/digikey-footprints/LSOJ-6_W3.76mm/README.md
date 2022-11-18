@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-LSOJ-6_W3.76mm
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSLSOJ6W376
 - Name: digikey-footprints : LSOJ-6_W3.76mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/LSOJ-6_W3.76mm/
 - Description: digikey-footprints : LSOJ-6_W3.76mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-LSOJ-6_W3.76mm](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-LSOJ-6_W3.76mm)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSLSOJ6W376](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSLSOJ6W376)

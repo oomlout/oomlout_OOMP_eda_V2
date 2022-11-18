@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZSSPARKFUNCNSUC16P4LAYERPADS > SparkFun-Connectors : USB-C-16P_4LAYER-PADS](#fzssparkfuncnsuc16p4layerpads--sparkfun-connectors--usb-c-16p_4layer-pads)
+* [FZSSPARKFUNCNSUC16P4LAYERPS > SparkFun-Connectors : USB-C-16P_4LAYER-PADS](#fzssparkfuncnsuc16p4layerps--sparkfun-connectors--usb-c-16p_4layer-pads)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZSSPARKFUNCNSUC16P4LAYERPADS > SparkFun-Connectors : USB-C-16P_4LAYER-PADS
+# FZSSPARKFUNCNSUC16P4LAYERPS > SparkFun-Connectors : USB-C-16P_4LAYER-PADS
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-USB-C-16P_4LAYER-PADS
-- Hex ID: FZSSPARKFUNCNSUC16P4LAYERPADS
+- Hex ID: FZSSPARKFUNCNSUC16P4LAYERPS
 - Name: SparkFun-Connectors : USB-C-16P_4LAYER-PADS
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Connectors/USB-C-16P_4LAYER-PADS/
 - Description: SparkFun-Connectors : USB-C-16P_4LAYER-PADS
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-USB-C-16P_4LAYER-PADS](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-USB-C-16P_4LAYER-PADS)
-- Short Link: [http://oom.lt/FZSSPARKFUNCNSUC16P4LAYERPADS](http://oom.lt/FZSSPARKFUNCNSUC16P4LAYERPADS)
+- Short Link: [http://oom.lt/FZSSPARKFUNCNSUC16P4LAYERPS](http://oom.lt/FZSSPARKFUNCNSUC16P4LAYERPS)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|SparkFun-Connectors|
 |OOMP Index|oompIndex|USB-C-16P_4LAYER-PADS|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-USB-C-16P_4LAYER-PADS|
-|Hex ID (short code)|hexID|FZSSPARKFUNCNSUC16P4LAYERPADS|
+|Hex ID (short code)|hexID|FZSSPARKFUNCNSUC16P4LAYERPS|
 |name|name|SparkFun-Connectors : USB-C-16P_4LAYER-PADS|
 ||||

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_ST_STM32L0-STM32L051R6Tx
 - Hex ID: SZKMCUSTSTM32LSTM32L51R6TX
 - Name: MCU_ST_STM32L0 : STM32L051R6Tx
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32L0/STM32L051R6Tx/
 - Description: MCU_ST_STM32L0 : STM32L051R6Tx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32L0-STM32L051R6Tx](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32L0-STM32L051R6Tx)
 - Short Link: [http://oom.lt/SZKMCUSTSTM32LSTM32L51R6TX](http://oom.lt/SZKMCUSTSTM32LSTM32L51R6TX)

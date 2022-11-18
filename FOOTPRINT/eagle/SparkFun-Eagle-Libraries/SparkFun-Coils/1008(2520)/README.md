@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Coils-1008(2520)
 - Hex ID: FZSCO18(252)
 - Name: SparkFun-Coils : 1008(2520)
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Coils/1008(2520)/
 - Description: SparkFun-Coils : 1008(2520)
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Coils-1008(2520)](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Coils-1008(2520))
 - Short Link: [http://oom.lt/FZSCO18(252)](http://oom.lt/FZSCO18(252))

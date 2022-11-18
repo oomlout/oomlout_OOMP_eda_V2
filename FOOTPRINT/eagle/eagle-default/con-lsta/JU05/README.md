@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-lsta-JU05
 - Hex ID: FZECONLSTAJU5
 - Name: con-lsta : JU05
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-lsta/JU05/
 - Description: con-lsta : JU05
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-lsta-JU05](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-lsta-JU05)
 - Short Link: [http://oom.lt/FZECONLSTAJU5](http://oom.lt/FZECONLSTAJU5)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_SO-TSOP-II-54_22.2x10.16mm_P0.8mm
 - Hex ID: FZKSOTSII54222X116P8
 - Name: Package_SO : TSOP-II-54_22.2x10.16mm_P0.8mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SO/TSOP-II-54_22.2x10.16mm_P0.8mm/
 - Description: Package_SO : TSOP-II-54_22.2x10.16mm_P0.8mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SO-TSOP-II-54_22.2x10.16mm_P0.8mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SO-TSOP-II-54_22.2x10.16mm_P0.8mm)
 - Short Link: [http://oom.lt/FZKSOTSII54222X116P8](http://oom.lt/FZKSOTSII54222X116P8)

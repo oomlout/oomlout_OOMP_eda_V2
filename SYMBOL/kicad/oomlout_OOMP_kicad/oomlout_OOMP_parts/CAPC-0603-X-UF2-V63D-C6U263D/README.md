@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0603-X-UF2-V63D-C6U263D
 - Hex ID: SZOOMPKOOMPPCAPC63XUF2V63DC6U263D
 - Name: oomlout_OOMP_parts : CAPC-0603-X-UF2-V63D-C6U263D
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/CAPC-0603-X-UF2-V63D-C6U263D/
 - Description: oomlout_OOMP_parts : CAPC-0603-X-UF2-V63D-C6U263D
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0603-X-UF2-V63D-C6U263D](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0603-X-UF2-V63D-C6U263D)
 - Short Link: [http://oom.lt/SZOOMPKOOMPPCAPC63XUF2V63DC6U263D](http://oom.lt/SZOOMPKOOMPPCAPC63XUF2V63DC6U263D)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-altera-RQFP304
 - Hex ID: FZEALTERARQFP34
 - Name: altera : RQFP304
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/altera/RQFP304/
 - Description: altera : RQFP304
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-altera-RQFP304](http://oom.lt/FOOTPRINT-eagle-eagle-default-altera-RQFP304)
 - Short Link: [http://oom.lt/FZEALTERARQFP34](http://oom.lt/FZEALTERARQFP34)

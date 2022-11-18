@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Controller-UC3844_SOIC8
 - Hex ID: SZKREGULATORCONTROLLERUC3844SOIC8
 - Name: Regulator_Controller : UC3844_SOIC8
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Controller/UC3844_SOIC8/
 - Description: Regulator_Controller : UC3844_SOIC8
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Controller-UC3844_SOIC8](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Controller-UC3844_SOIC8)
 - Short Link: [http://oom.lt/SZKREGULATORCONTROLLERUC3844SOIC8](http://oom.lt/SZKREGULATORCONTROLLERUC3844SOIC8)

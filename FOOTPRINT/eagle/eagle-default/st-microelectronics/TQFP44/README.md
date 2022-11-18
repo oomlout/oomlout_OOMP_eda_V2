@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-st-microelectronics-TQFP44
 - Hex ID: FZESTMELECTRONICSTQFP44
 - Name: st-microelectronics : TQFP44
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/st-microelectronics/TQFP44/
 - Description: st-microelectronics : TQFP44
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-st-microelectronics-TQFP44](http://oom.lt/FOOTPRINT-eagle-eagle-default-st-microelectronics-TQFP44)
 - Short Link: [http://oom.lt/FZESTMELECTRONICSTQFP44](http://oom.lt/FZESTMELECTRONICSTQFP44)

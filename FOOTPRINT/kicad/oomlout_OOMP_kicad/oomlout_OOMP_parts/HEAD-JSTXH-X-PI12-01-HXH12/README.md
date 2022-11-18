@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-JSTXH-X-PI12-01-HXH12
 - Hex ID: FZOOMPKOOMPPHEADJSTXHXPI121HXH12
 - Name: oomlout_OOMP_parts : HEAD-JSTXH-X-PI12-01-HXH12
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/HEAD-JSTXH-X-PI12-01-HXH12/
 - Description: oomlout_OOMP_parts : HEAD-JSTXH-X-PI12-01-HXH12
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-JSTXH-X-PI12-01-HXH12](http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-JSTXH-X-PI12-01-HXH12)
 - Short Link: [http://oom.lt/FZOOMPKOOMPPHEADJSTXHXPI121HXH12](http://oom.lt/FZOOMPKOOMPPHEADJSTXHXPI121HXH12)

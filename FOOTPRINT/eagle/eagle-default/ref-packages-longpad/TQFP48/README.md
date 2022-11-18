@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEREFPACKAGESLONGPADTQFP48 > ref-packages-longpad : TQFP48](#fzerefpackageslongpadtqfp48--ref-packages-longpad--tqfp48)
+* [FZEREFPSLPTQFP48 > ref-packages-longpad : TQFP48](#fzerefpslptqfp48--ref-packages-longpad--tqfp48)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEREFPACKAGESLONGPADTQFP48 > ref-packages-longpad : TQFP48
+# FZEREFPSLPTQFP48 > ref-packages-longpad : TQFP48
 
 - ID: FOOTPRINT-eagle-eagle-default-ref-packages-longpad-TQFP48
-- Hex ID: FZEREFPACKAGESLONGPADTQFP48
+- Hex ID: FZEREFPSLPTQFP48
 - Name: ref-packages-longpad : TQFP48
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ref-packages-longpad/TQFP48/
 - Description: ref-packages-longpad : TQFP48
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-longpad-TQFP48](http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-longpad-TQFP48)
-- Short Link: [http://oom.lt/FZEREFPACKAGESLONGPADTQFP48](http://oom.lt/FZEREFPACKAGESLONGPADTQFP48)
+- Short Link: [http://oom.lt/FZEREFPSLPTQFP48](http://oom.lt/FZEREFPSLPTQFP48)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|ref-packages-longpad|
 |OOMP Index|oompIndex|TQFP48|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-ref-packages-longpad-TQFP48|
-|Hex ID (short code)|hexID|FZEREFPACKAGESLONGPADTQFP48|
+|Hex ID (short code)|hexID|FZEREFPSLPTQFP48|
 |name|name|ref-packages-longpad : TQFP48|
 ||||

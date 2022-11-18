@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-Isolator-Ï€120U30
 - Hex ID: SZKISOLATORÏ€12U3
 - Name: Isolator : Ï€120U30
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Isolator/Ï€120U30/
 - Description: Isolator : Ï€120U30
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-Ï€120U30](http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-Ï€120U30)
 - Short Link: [http://oom.lt/SZKISOLATORÏ€12U3](http://oom.lt/SZKISOLATORÏ€12U3)

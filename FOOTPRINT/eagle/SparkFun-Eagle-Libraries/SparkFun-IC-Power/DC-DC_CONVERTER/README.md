@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Power-DC-DC_CONVERTER
 - Hex ID: FZSIPDCDCCONVERTER
 - Name: SparkFun-IC-Power : DC-DC_CONVERTER
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-IC-Power/DC-DC_CONVERTER/
 - Description: SparkFun-IC-Power : DC-DC_CONVERTER
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Power-DC-DC_CONVERTER](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Power-DC-DC_CONVERTER)
 - Short Link: [http://oom.lt/FZSIPDCDCCONVERTER](http://oom.lt/FZSIPDCDCCONVERTER)

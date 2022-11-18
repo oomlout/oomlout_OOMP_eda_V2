@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-st-microelectronics-LCC32
 - Hex ID: FZESTMELECTRONICSLCC32
 - Name: st-microelectronics : LCC32
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/st-microelectronics/LCC32/
 - Description: st-microelectronics : LCC32
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-st-microelectronics-LCC32](http://oom.lt/FOOTPRINT-eagle-eagle-default-st-microelectronics-LCC32)
 - Short Link: [http://oom.lt/FZESTMELECTRONICSLCC32](http://oom.lt/FZESTMELECTRONICSLCC32)

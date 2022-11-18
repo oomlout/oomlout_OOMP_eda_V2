@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-opto-trans-siemens-BP104
 - Hex ID: FZEOPTOTRANSSIEMENSBP14
 - Name: opto-trans-siemens : BP104
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/opto-trans-siemens/BP104/
 - Description: opto-trans-siemens : BP104
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-opto-trans-siemens-BP104](http://oom.lt/FOOTPRINT-eagle-eagle-default-opto-trans-siemens-BP104)
 - Short Link: [http://oom.lt/FZEOPTOTRANSSIEMENSBP14](http://oom.lt/FZEOPTOTRANSSIEMENSBP14)

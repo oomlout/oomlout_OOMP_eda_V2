@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-TerminalBlock-TerminalBlock_Wuerth_691311400102_P7.62mm
 - Hex ID: FZKTBTBWUERTH691311412P762
 - Name: TerminalBlock : TerminalBlock_Wuerth_691311400102_P7.62mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/TerminalBlock/TerminalBlock_Wuerth_691311400102_P7.62mm/
 - Description: TerminalBlock : TerminalBlock_Wuerth_691311400102_P7.62mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-TerminalBlock-TerminalBlock_Wuerth_691311400102_P7.62mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-TerminalBlock-TerminalBlock_Wuerth_691311400102_P7.62mm)
 - Short Link: [http://oom.lt/FZKTBTBWUERTH691311412P762](http://oom.lt/FZKTBTBWUERTH691311412P762)

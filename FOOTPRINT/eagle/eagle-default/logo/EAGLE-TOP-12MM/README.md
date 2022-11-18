@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-logo-EAGLE-TOP-12MM
 - Hex ID: FZELEAGLETOP12
 - Name: logo : EAGLE-TOP-12MM
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/logo/EAGLE-TOP-12MM/
 - Description: logo : EAGLE-TOP-12MM
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-logo-EAGLE-TOP-12MM](http://oom.lt/FOOTPRINT-eagle-eagle-default-logo-EAGLE-TOP-12MM)
 - Short Link: [http://oom.lt/FZELEAGLETOP12](http://oom.lt/FZELEAGLETOP12)

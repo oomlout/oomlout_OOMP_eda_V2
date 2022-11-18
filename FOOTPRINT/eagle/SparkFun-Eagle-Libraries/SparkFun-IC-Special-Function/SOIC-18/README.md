@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Special-Function-SOIC-18
 - Hex ID: FZSISSOIC18
 - Name: SparkFun-IC-Special-Function : SOIC-18
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-IC-Special-Function/SOIC-18/
 - Description: SparkFun-IC-Special-Function : SOIC-18
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Special-Function-SOIC-18](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Special-Function-SOIC-18)
 - Short Link: [http://oom.lt/FZSISSOIC18](http://oom.lt/FZSISSOIC18)

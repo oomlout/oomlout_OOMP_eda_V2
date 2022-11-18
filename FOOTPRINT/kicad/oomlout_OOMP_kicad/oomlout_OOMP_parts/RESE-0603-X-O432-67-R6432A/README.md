@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O432-67-R6432A
 - Hex ID: FZOOMPKOOMPPRESE63XO43267R6432A
 - Name: oomlout_OOMP_parts : RESE-0603-X-O432-67-R6432A
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/RESE-0603-X-O432-67-R6432A/
 - Description: oomlout_OOMP_parts : RESE-0603-X-O432-67-R6432A
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O432-67-R6432A](http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O432-67-R6432A)
 - Short Link: [http://oom.lt/FZOOMPKOOMPPRESE63XO43267R6432A](http://oom.lt/FZOOMPKOOMPPRESE63XO43267R6432A)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_Audio-Jack_3.5mm_CUI_SJ1-3533NG_Horizontal_CircularHoles
 - Hex ID: FZKCNAUDIOJ35CUISJ13533NGHCIRCULARH
 - Name: Connector_Audio : Jack_3.5mm_CUI_SJ1-3533NG_Horizontal_CircularHoles
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Audio/Jack_3.5mm_CUI_SJ1-3533NG_Horizontal_CircularHoles/
 - Description: Connector_Audio : Jack_3.5mm_CUI_SJ1-3533NG_Horizontal_CircularHoles
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Audio-Jack_3.5mm_CUI_SJ1-3533NG_Horizontal_CircularHoles](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Audio-Jack_3.5mm_CUI_SJ1-3533NG_Horizontal_CircularHoles)
 - Short Link: [http://oom.lt/FZKCNAUDIOJ35CUISJ13533NGHCIRCULARH](http://oom.lt/FZKCNAUDIOJ35CUISJ13533NGHCIRCULARH)

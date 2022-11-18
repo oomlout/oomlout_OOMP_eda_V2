@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0402-X-O512-67-R42512A
 - Hex ID: FZOOMPKOOMPPRESE42XO51267R42512A
 - Name: oomlout_OOMP_parts : RESE-0402-X-O512-67-R42512A
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/RESE-0402-X-O512-67-R42512A/
 - Description: oomlout_OOMP_parts : RESE-0402-X-O512-67-R42512A
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0402-X-O512-67-R42512A](http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0402-X-O512-67-R42512A)
 - Short Link: [http://oom.lt/FZOOMPKOOMPPRESE42XO51267R42512A](http://oom.lt/FZOOMPKOOMPPRESE42XO51267R42512A)

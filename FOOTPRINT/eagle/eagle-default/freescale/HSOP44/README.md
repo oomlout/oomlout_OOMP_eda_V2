@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-freescale-HSOP44
 - Hex ID: FZEFREESCALEHS44
 - Name: freescale : HSOP44
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/freescale/HSOP44/
 - Description: freescale : HSOP44
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-freescale-HSOP44](http://oom.lt/FOOTPRINT-eagle-eagle-default-freescale-HSOP44)
 - Short Link: [http://oom.lt/FZEFREESCALEHS44](http://oom.lt/FZEFREESCALEHS44)

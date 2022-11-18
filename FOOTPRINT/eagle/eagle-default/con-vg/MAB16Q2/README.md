@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-vg-MAB16Q2
 - Hex ID: FZECONVGMAB16Q2
 - Name: con-vg : MAB16Q2
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-vg/MAB16Q2/
 - Description: con-vg : MAB16Q2
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-vg-MAB16Q2](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-vg-MAB16Q2)
 - Short Link: [http://oom.lt/FZECONVGMAB16Q2](http://oom.lt/FZECONVGMAB16Q2)

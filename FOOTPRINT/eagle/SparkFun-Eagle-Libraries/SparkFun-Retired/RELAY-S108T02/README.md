@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-RELAY-S108T02
 - Hex ID: FZSRTRELAYS18T2
 - Name: SparkFun-Retired : RELAY-S108T02
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Retired/RELAY-S108T02/
 - Description: SparkFun-Retired : RELAY-S108T02
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-RELAY-S108T02](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-RELAY-S108T02)
 - Short Link: [http://oom.lt/FZSRTRELAYS18T2](http://oom.lt/FZSRTRELAYS18T2)

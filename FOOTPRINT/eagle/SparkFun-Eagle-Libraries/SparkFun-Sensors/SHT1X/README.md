@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-SHT1X
 - Hex ID: FZSSPARKFUNSENSSHT1X
 - Name: SparkFun-Sensors : SHT1X
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Sensors/SHT1X/
 - Description: SparkFun-Sensors : SHT1X
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-SHT1X](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-SHT1X)
 - Short Link: [http://oom.lt/FZSSPARKFUNSENSSHT1X](http://oom.lt/FZSSPARKFUNSENSSHT1X)

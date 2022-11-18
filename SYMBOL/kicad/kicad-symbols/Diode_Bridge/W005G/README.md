@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode_Bridge-W005G
 - Hex ID: SZKDIODEBRIDGEW5G
 - Name: Diode_Bridge : W005G
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode_Bridge/W005G/
 - Description: Diode_Bridge : W005G
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode_Bridge-W005G](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode_Bridge-W005G)
 - Short Link: [http://oom.lt/SZKDIODEBRIDGEW5G](http://oom.lt/SZKDIODEBRIDGEW5G)

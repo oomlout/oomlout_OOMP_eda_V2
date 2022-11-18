@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Memory_EPROM-27512
 - Hex ID: SZKMEMORYEPROM27512
 - Name: Memory_EPROM : 27512
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Memory_EPROM/27512/
 - Description: Memory_EPROM : 27512
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_EPROM-27512](http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_EPROM-27512)
 - Short Link: [http://oom.lt/SZKMEMORYEPROM27512](http://oom.lt/SZKMEMORYEPROM27512)

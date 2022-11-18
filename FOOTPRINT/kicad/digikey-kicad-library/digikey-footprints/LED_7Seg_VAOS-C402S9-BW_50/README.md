@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-LED_7Seg_VAOS-C402S9-BW_50
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSL7SEGVAOSC42S9BW5
 - Name: digikey-footprints : LED_7Seg_VAOS-C402S9-BW_50
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/LED_7Seg_VAOS-C402S9-BW_50/
 - Description: digikey-footprints : LED_7Seg_VAOS-C402S9-BW_50
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-LED_7Seg_VAOS-C402S9-BW_50](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-LED_7Seg_VAOS-C402S9-BW_50)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSL7SEGVAOSC42S9BW5](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSL7SEGVAOSC42S9BW5)

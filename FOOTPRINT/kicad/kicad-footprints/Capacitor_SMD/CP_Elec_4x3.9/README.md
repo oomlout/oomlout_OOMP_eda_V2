@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-CP_Elec_4x3.9
 - Hex ID: FZKCCPELEC4X39
 - Name: Capacitor_SMD : CP_Elec_4x3.9
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Capacitor_SMD/CP_Elec_4x3.9/
 - Description: Capacitor_SMD : CP_Elec_4x3.9
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-CP_Elec_4x3.9](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-CP_Elec_4x3.9)
 - Short Link: [http://oom.lt/FZKCCPELEC4X39](http://oom.lt/FZKCCPELEC4X39)

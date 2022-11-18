@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Memory_ROM-XC18V01SO20
 - Hex ID: SZKMEMORYROMXC18V1SO2
 - Name: Memory_ROM : XC18V01SO20
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Memory_ROM/XC18V01SO20/
 - Description: Memory_ROM : XC18V01SO20
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_ROM-XC18V01SO20](http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_ROM-XC18V01SO20)
 - Short Link: [http://oom.lt/SZKMEMORYROMXC18V1SO2](http://oom.lt/SZKMEMORYROMXC18V1SO2)

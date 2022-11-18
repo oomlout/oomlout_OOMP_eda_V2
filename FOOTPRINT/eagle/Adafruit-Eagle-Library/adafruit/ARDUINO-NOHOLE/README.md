@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-ARDUINO-NOHOLE
 - Hex ID: FZAARDNH
 - Name: adafruit : ARDUINO-NOHOLE
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/ARDUINO-NOHOLE/
 - Description: adafruit : ARDUINO-NOHOLE
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-ARDUINO-NOHOLE](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-ARDUINO-NOHOLE)
 - Short Link: [http://oom.lt/FZAARDNH](http://oom.lt/FZAARDNH)

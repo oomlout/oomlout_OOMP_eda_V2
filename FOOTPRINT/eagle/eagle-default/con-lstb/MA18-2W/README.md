@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-lstb-MA18-2W
 - Hex ID: FZECONLSTBMA182W
 - Name: con-lstb : MA18-2W
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-lstb/MA18-2W/
 - Description: con-lstb : MA18-2W
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-lstb-MA18-2W](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-lstb-MA18-2W)
 - Short Link: [http://oom.lt/FZECONLSTBMA182W](http://oom.lt/FZECONLSTBMA182W)

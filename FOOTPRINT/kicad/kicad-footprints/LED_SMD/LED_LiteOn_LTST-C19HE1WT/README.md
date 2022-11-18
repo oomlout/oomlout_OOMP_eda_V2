@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_LiteOn_LTST-C19HE1WT
 - Hex ID: FZKLLLITEONLTSTC19HE1WT
 - Name: LED_SMD : LED_LiteOn_LTST-C19HE1WT
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_LiteOn_LTST-C19HE1WT/
 - Description: LED_SMD : LED_LiteOn_LTST-C19HE1WT
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_LiteOn_LTST-C19HE1WT](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_LiteOn_LTST-C19HE1WT)
 - Short Link: [http://oom.lt/FZKLLLITEONLTSTC19HE1WT](http://oom.lt/FZKLLLITEONLTSTC19HE1WT)

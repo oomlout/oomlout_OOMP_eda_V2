@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-molex-74099-07
 - Hex ID: FZECONMX74997
 - Name: con-molex : 74099-07
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-molex/74099-07/
 - Description: con-molex : 74099-07
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-molex-74099-07](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-molex-74099-07)
 - Short Link: [http://oom.lt/FZECONMX74997](http://oom.lt/FZECONMX74997)

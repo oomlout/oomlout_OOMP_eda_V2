@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-rcl-E22-9
 - Hex ID: FZERCLE229
 - Name: rcl : E22-9
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/rcl/E22-9/
 - Description: rcl : E22-9
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-E22-9](http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-E22-9)
 - Short Link: [http://oom.lt/FZERCLE229](http://oom.lt/FZERCLE229)

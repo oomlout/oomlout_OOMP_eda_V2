@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-DUMMY
 - Hex ID: FZSRTDUY
 - Name: SparkFun-Retired : DUMMY
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Retired/DUMMY/
 - Description: SparkFun-Retired : DUMMY
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-DUMMY](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-DUMMY)
 - Short Link: [http://oom.lt/FZSRTDUY](http://oom.lt/FZSRTDUY)

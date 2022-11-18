@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-RESE-0603-X-O270-01-R6O270-C25190
 - Hex ID: SZOOMPKJLCRESE63XO271R6O27C2519
 - Name: oomlout_OOMP_JLCC_Basic : RESE-0603-X-O270-01-R6O270-C25190
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_JLCC_Basic/RESE-0603-X-O270-01-R6O270-C25190/
 - Description: oomlout_OOMP_JLCC_Basic : RESE-0603-X-O270-01-R6O270-C25190
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-RESE-0603-X-O270-01-R6O270-C25190](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-RESE-0603-X-O270-01-R6O270-C25190)
 - Short Link: [http://oom.lt/SZOOMPKJLCRESE63XO271R6O27C2519](http://oom.lt/SZOOMPKJLCRESE63XO271R6O27C2519)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Controller-TDA4863
 - Hex ID: SZKREGULATORCONTROLLERTDA4863
 - Name: Regulator_Controller : TDA4863
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Controller/TDA4863/
 - Description: Regulator_Controller : TDA4863
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Controller-TDA4863](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Controller-TDA4863)
 - Short Link: [http://oom.lt/SZKREGULATORCONTROLLERTDA4863](http://oom.lt/SZKREGULATORCONTROLLERTDA4863)

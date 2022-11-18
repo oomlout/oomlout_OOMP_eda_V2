@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Analog_Switch-TS3DS10224RUK
 - Hex ID: SZKANALOGSWTS3DS1224RUK
 - Name: Analog_Switch : TS3DS10224RUK
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog_Switch/TS3DS10224RUK/
 - Description: Analog_Switch : TS3DS10224RUK
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_Switch-TS3DS10224RUK](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_Switch-TS3DS10224RUK)
 - Short Link: [http://oom.lt/SZKANALOGSWTS3DS1224RUK](http://oom.lt/SZKANALOGSWTS3DS1224RUK)

@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEWIREPAD168 > wirepad : 1,6_0,8](#fzewirepad168--wirepad--16_08)
+* [FZEWP168 > wirepad : 1,6_0,8](#fzewp168--wirepad--16_08)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEWIREPAD168 > wirepad : 1,6_0,8
+# FZEWP168 > wirepad : 1,6_0,8
 
 - ID: FOOTPRINT-eagle-eagle-default-wirepad-1,6_0,8
-- Hex ID: FZEWIREPAD168
+- Hex ID: FZEWP168
 - Name: wirepad : 1,6_0,8
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/wirepad/1,6_0,8/
 - Description: wirepad : 1,6_0,8
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-wirepad-1,6_0,8](http://oom.lt/FOOTPRINT-eagle-eagle-default-wirepad-1,6_0,8)
-- Short Link: [http://oom.lt/FZEWIREPAD168](http://oom.lt/FZEWIREPAD168)
+- Short Link: [http://oom.lt/FZEWP168](http://oom.lt/FZEWP168)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|wirepad|
 |OOMP Index|oompIndex|1,6_0,8|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-wirepad-1,6_0,8|
-|Hex ID (short code)|hexID|FZEWIREPAD168|
+|Hex ID (short code)|hexID|FZEWP168|
 |name|name|wirepad : 1,6_0,8|
 ||||

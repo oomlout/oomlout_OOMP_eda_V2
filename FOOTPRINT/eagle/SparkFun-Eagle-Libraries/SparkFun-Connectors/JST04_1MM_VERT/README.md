@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-JST04_1MM_VERT
 - Hex ID: FZSSPARKFUNCNSJST41VERT
 - Name: SparkFun-Connectors : JST04_1MM_VERT
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Connectors/JST04_1MM_VERT/
 - Description: SparkFun-Connectors : JST04_1MM_VERT
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-JST04_1MM_VERT](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-JST04_1MM_VERT)
 - Short Link: [http://oom.lt/FZSSPARKFUNCNSJST41VERT](http://oom.lt/FZSSPARKFUNCNSJST41VERT)

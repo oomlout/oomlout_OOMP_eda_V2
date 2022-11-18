@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-7-SEGMENT-4DIGIT-YOUNGSUN
 - Hex ID: FZSRT7S4DIGITYOUNGSUN
 - Name: SparkFun-Retired : 7-SEGMENT-4DIGIT-YOUNGSUN
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Retired/7-SEGMENT-4DIGIT-YOUNGSUN/
 - Description: SparkFun-Retired : 7-SEGMENT-4DIGIT-YOUNGSUN
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-7-SEGMENT-4DIGIT-YOUNGSUN](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-7-SEGMENT-4DIGIT-YOUNGSUN)
 - Short Link: [http://oom.lt/FZSRT7S4DIGITYOUNGSUN](http://oom.lt/FZSRT7S4DIGITYOUNGSUN)

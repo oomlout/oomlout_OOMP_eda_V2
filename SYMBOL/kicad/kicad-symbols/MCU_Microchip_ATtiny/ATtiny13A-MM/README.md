@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny13A-MM
 - Hex ID: SZKMCUMCHIPATTINYATTINY13A
 - Name: MCU_Microchip_ATtiny : ATtiny13A-MM
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_ATtiny/ATtiny13A-MM/
 - Description: MCU_Microchip_ATtiny : ATtiny13A-MM
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny13A-MM](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny13A-MM)
 - Short Link: [http://oom.lt/SZKMCUMCHIPATTINYATTINY13A](http://oom.lt/SZKMCUMCHIPATTINYATTINY13A)

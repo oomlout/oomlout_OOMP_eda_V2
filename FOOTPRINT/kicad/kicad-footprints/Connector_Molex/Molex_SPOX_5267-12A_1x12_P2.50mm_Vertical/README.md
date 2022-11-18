@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_SPOX_5267-12A_1x12_P2.50mm_Vertical
 - Hex ID: FZKCNMXMXSPOX526712A1X12P25F
 - Name: Connector_Molex : Molex_SPOX_5267-12A_1x12_P2.50mm_Vertical
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_SPOX_5267-12A_1x12_P2.50mm_Vertical/
 - Description: Connector_Molex : Molex_SPOX_5267-12A_1x12_P2.50mm_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_SPOX_5267-12A_1x12_P2.50mm_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_SPOX_5267-12A_1x12_P2.50mm_Vertical)
 - Short Link: [http://oom.lt/FZKCNMXMXSPOX526712A1X12P25F](http://oom.lt/FZKCNMXMXSPOX526712A1X12P25F)

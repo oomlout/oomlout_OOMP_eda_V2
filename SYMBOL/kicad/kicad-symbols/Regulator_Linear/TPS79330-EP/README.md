@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-TPS79330-EP
 - Hex ID: SZKREGULATORLINEARTPS7933EP
 - Name: Regulator_Linear : TPS79330-EP
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/TPS79330-EP/
 - Description: Regulator_Linear : TPS79330-EP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-TPS79330-EP](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-TPS79330-EP)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARTPS7933EP](http://oom.lt/SZKREGULATORLINEARTPS7933EP)

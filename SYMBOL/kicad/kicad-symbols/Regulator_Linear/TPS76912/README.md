@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-TPS76912
 - Hex ID: SZKREGULATORLINEARTPS76912
 - Name: Regulator_Linear : TPS76912
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/TPS76912/
 - Description: Regulator_Linear : TPS76912
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-TPS76912](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-TPS76912)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARTPS76912](http://oom.lt/SZKREGULATORLINEARTPS76912)

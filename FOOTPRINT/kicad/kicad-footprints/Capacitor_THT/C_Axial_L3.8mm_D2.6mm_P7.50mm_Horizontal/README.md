@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Capacitor_THT-C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal
 - Hex ID: FZKCCAXIALL38D26P75H
 - Name: Capacitor_THT : C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Capacitor_THT/C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal/
 - Description: Capacitor_THT : C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_THT-C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_THT-C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal)
 - Short Link: [http://oom.lt/FZKCCAXIALL38D26P75H](http://oom.lt/FZKCCAXIALL38D26P75H)

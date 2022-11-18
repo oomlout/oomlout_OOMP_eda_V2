@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Connector-XLR3_AudioJack2_Combo_Ground
 - Hex ID: SZKCNXLR3AUDIOJ2COMBOGROUND
 - Name: Connector : XLR3_AudioJack2_Combo_Ground
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector/XLR3_AudioJack2_Combo_Ground/
 - Description: Connector : XLR3_AudioJack2_Combo_Ground
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-XLR3_AudioJack2_Combo_Ground](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-XLR3_AudioJack2_Combo_Ground)
 - Short Link: [http://oom.lt/SZKCNXLR3AUDIOJ2COMBOGROUND](http://oom.lt/SZKCNXLR3AUDIOJ2COMBOGROUND)

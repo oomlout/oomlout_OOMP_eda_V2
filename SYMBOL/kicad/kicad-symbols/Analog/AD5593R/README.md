@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Analog-AD5593R
 - Hex ID: SZKANALOGAD5593R
 - Name: Analog : AD5593R
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog/AD5593R/
 - Description: Analog : AD5593R
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog-AD5593R](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog-AD5593R)
 - Short Link: [http://oom.lt/SZKANALOGAD5593R](http://oom.lt/SZKANALOGAD5593R)

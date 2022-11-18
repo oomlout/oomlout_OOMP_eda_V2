@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-pot-S63S
 - Hex ID: FZEPOTS63S
 - Name: pot : S63S
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/pot/S63S/
 - Description: pot : S63S
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-pot-S63S](http://oom.lt/FOOTPRINT-eagle-eagle-default-pot-S63S)
 - Short Link: [http://oom.lt/FZEPOTS63S](http://oom.lt/FZEPOTS63S)

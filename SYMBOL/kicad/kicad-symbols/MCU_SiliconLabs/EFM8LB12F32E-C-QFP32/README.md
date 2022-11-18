@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_SiliconLabs-EFM8LB12F32E-C-QFP32
 - Hex ID: SZKMCUSILICONLABSEFM8LB12F32ECQFP32
 - Name: MCU_SiliconLabs : EFM8LB12F32E-C-QFP32
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_SiliconLabs/EFM8LB12F32E-C-QFP32/
 - Description: MCU_SiliconLabs : EFM8LB12F32E-C-QFP32
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_SiliconLabs-EFM8LB12F32E-C-QFP32](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_SiliconLabs-EFM8LB12F32E-C-QFP32)
 - Short Link: [http://oom.lt/SZKMCUSILICONLABSEFM8LB12F32ECQFP32](http://oom.lt/SZKMCUSILICONLABSEFM8LB12F32ECQFP32)

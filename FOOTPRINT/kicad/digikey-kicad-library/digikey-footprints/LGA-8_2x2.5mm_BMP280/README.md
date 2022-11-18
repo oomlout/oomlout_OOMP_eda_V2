@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-LGA-8_2x2.5mm_BMP280
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSLGA82X25BMP28
 - Name: digikey-footprints : LGA-8_2x2.5mm_BMP280
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/LGA-8_2x2.5mm_BMP280/
 - Description: digikey-footprints : LGA-8_2x2.5mm_BMP280
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-LGA-8_2x2.5mm_BMP280](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-LGA-8_2x2.5mm_BMP280)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSLGA82X25BMP28](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSLGA82X25BMP28)

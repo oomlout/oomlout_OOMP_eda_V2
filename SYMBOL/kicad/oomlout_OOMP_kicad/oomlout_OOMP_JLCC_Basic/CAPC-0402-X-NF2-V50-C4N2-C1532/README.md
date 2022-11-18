@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0402-X-NF2-V50-C4N2-C1532
 - Hex ID: SZOOMPKJLCCAPC42XNF2V5C4N2C1532
 - Name: oomlout_OOMP_JLCC_Basic : CAPC-0402-X-NF2-V50-C4N2-C1532
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_JLCC_Basic/CAPC-0402-X-NF2-V50-C4N2-C1532/
 - Description: oomlout_OOMP_JLCC_Basic : CAPC-0402-X-NF2-V50-C4N2-C1532
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0402-X-NF2-V50-C4N2-C1532](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0402-X-NF2-V50-C4N2-C1532)
 - Short Link: [http://oom.lt/SZOOMPKJLCCAPC42XNF2V5C4N2C1532](http://oom.lt/SZOOMPKJLCCAPC42XNF2V5C4N2C1532)

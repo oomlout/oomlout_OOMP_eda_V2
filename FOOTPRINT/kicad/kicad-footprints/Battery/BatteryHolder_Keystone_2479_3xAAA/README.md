@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKBATBATHOLDERKEYSTONE24793XAAA > Battery : BatteryHolder_Keystone_2479_3xAAA](#fzkbatbatholderkeystone24793xaaa--battery--batteryholder_keystone_2479_3xaaa)
+* [FZKBATBATHKEYSTONE24793XAAA > Battery : BatteryHolder_Keystone_2479_3xAAA](#fzkbatbathkeystone24793xaaa--battery--batteryholder_keystone_2479_3xaaa)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKBATBATHOLDERKEYSTONE24793XAAA > Battery : BatteryHolder_Keystone_2479_3xAAA
+# FZKBATBATHKEYSTONE24793XAAA > Battery : BatteryHolder_Keystone_2479_3xAAA
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Battery-BatteryHolder_Keystone_2479_3xAAA
-- Hex ID: FZKBATBATHOLDERKEYSTONE24793XAAA
+- Hex ID: FZKBATBATHKEYSTONE24793XAAA
 - Name: Battery : BatteryHolder_Keystone_2479_3xAAA
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Battery/BatteryHolder_Keystone_2479_3xAAA/
 - Description: Battery : BatteryHolder_Keystone_2479_3xAAA
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Battery-BatteryHolder_Keystone_2479_3xAAA](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Battery-BatteryHolder_Keystone_2479_3xAAA)
-- Short Link: [http://oom.lt/FZKBATBATHOLDERKEYSTONE24793XAAA](http://oom.lt/FZKBATBATHOLDERKEYSTONE24793XAAA)
+- Short Link: [http://oom.lt/FZKBATBATHKEYSTONE24793XAAA](http://oom.lt/FZKBATBATHKEYSTONE24793XAAA)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Battery|
 |OOMP Index|oompIndex|BatteryHolder_Keystone_2479_3xAAA|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Battery-BatteryHolder_Keystone_2479_3xAAA|
-|Hex ID (short code)|hexID|FZKBATBATHOLDERKEYSTONE24793XAAA|
+|Hex ID (short code)|hexID|FZKBATBATHKEYSTONE24793XAAA|
 |name|name|Battery : BatteryHolder_Keystone_2479_3xAAA|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'BatteryHolder_Keystone_2479_3xAAA'</td><td> 'description'</td></tr><tr><td> 'Keystone Battery Holder</td><td> 2479</td><td> Battery Type 3xAAA (Script generated with StandardBox.py) (Keystone Battery Holder</td><td> 2479</td><td> Battery Type 3xAAA)'</td><td> 'tags'</td></tr><tr><td> 'Keystone Battery Holder 2479 Battery Type 3xAAA'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Battery.3dshapes/BatteryHolder_Keystone_2479_3xAAA.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'np_thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||

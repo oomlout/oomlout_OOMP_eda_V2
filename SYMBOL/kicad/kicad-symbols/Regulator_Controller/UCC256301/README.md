@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Controller-UCC256301
 - Hex ID: SZKREGULATORCONTROLLERUCC25631
 - Name: Regulator_Controller : UCC256301
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Controller/UCC256301/
 - Description: Regulator_Controller : UCC256301
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Controller-UCC256301](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Controller-UCC256301)
 - Short Link: [http://oom.lt/SZKREGULATORCONTROLLERUCC25631](http://oom.lt/SZKREGULATORCONTROLLERUCC25631)

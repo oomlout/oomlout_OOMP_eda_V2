@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC10-PIC10F204-IOT
 - Hex ID: SZKMCUMCHIPPIC1PIC1F24IOT
 - Name: MCU_Microchip_PIC10 : PIC10F204-IOT
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC10/PIC10F204-IOT/
 - Description: MCU_Microchip_PIC10 : PIC10F204-IOT
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC10-PIC10F204-IOT](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC10-PIC10F204-IOT)
 - Short Link: [http://oom.lt/SZKMCUMCHIPPIC1PIC1F24IOT](http://oom.lt/SZKMCUMCHIPPIC1PIC1F24IOT)

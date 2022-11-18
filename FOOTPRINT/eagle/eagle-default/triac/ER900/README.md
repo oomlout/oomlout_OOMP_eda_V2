@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-triac-ER900
 - Hex ID: FZETRIACER9
 - Name: triac : ER900
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/triac/ER900/
 - Description: triac : ER900
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-triac-ER900](http://oom.lt/FOOTPRINT-eagle-eagle-default-triac-ER900)
 - Short Link: [http://oom.lt/FZETRIACER9](http://oom.lt/FZETRIACER9)

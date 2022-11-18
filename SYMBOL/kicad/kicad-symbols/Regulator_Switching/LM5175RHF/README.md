@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-LM5175RHF
 - Hex ID: SZKREGULATORSWINGLM5175RHF
 - Name: Regulator_Switching : LM5175RHF
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/LM5175RHF/
 - Description: Regulator_Switching : LM5175RHF
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LM5175RHF](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LM5175RHF)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGLM5175RHF](http://oom.lt/SZKREGULATORSWINGLM5175RHF)

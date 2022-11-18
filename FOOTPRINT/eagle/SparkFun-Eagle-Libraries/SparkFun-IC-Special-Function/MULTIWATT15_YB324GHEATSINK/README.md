@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Special-Function-MULTIWATT15_YB324GHEATSINK
 - Hex ID: FZSISMULTIWATT15YB324GH
 - Name: SparkFun-IC-Special-Function : MULTIWATT15_YB324GHEATSINK
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-IC-Special-Function/MULTIWATT15_YB324GHEATSINK/
 - Description: SparkFun-IC-Special-Function : MULTIWATT15_YB324GHEATSINK
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Special-Function-MULTIWATT15_YB324GHEATSINK](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Special-Function-MULTIWATT15_YB324GHEATSINK)
 - Short Link: [http://oom.lt/FZSISMULTIWATT15YB324GH](http://oom.lt/FZSISMULTIWATT15YB324GH)

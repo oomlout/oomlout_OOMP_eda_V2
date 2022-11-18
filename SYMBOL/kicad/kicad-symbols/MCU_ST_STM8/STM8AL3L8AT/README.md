@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_ST_STM8-STM8AL3L8AT
 - Hex ID: SZKMCUSTSTM8STM8AL3L8AT
 - Name: MCU_ST_STM8 : STM8AL3L8AT
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_ST_STM8/STM8AL3L8AT/
 - Description: MCU_ST_STM8 : STM8AL3L8AT
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM8-STM8AL3L8AT](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM8-STM8AL3L8AT)
 - Short Link: [http://oom.lt/SZKMCUSTSTM8STM8AL3L8AT](http://oom.lt/SZKMCUSTSTM8STM8AL3L8AT)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Device-R_Network08
 - Hex ID: SZKDEVICERNETWORK8
 - Name: Device : R_Network08
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/R_Network08/
 - Description: Device : R_Network08
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-R_Network08](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-R_Network08)
 - Short Link: [http://oom.lt/SZKDEVICERNETWORK8](http://oom.lt/SZKDEVICERNETWORK8)

@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZDIGIDIGIKEYFOOTPRINTSPINHEADER1X5P25DRILL11 > digikey-footprints : PinHeader_1x5_P2.5mm_Drill1.1mm](#fzdigidigikeyfootprintspinheader1x5p25drill11--digikey-footprints--pinheader_1x5_p25mm_drill11mm)
+* [FZDIGIDIGIKEYFOOTPRINTSPH1X5P25DRILL11 > digikey-footprints : PinHeader_1x5_P2.5mm_Drill1.1mm](#fzdigidigikeyfootprintsph1x5p25drill11--digikey-footprints--pinheader_1x5_p25mm_drill11mm)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZDIGIDIGIKEYFOOTPRINTSPINHEADER1X5P25DRILL11 > digikey-footprints : PinHeader_1x5_P2.5mm_Drill1.1mm
+# FZDIGIDIGIKEYFOOTPRINTSPH1X5P25DRILL11 > digikey-footprints : PinHeader_1x5_P2.5mm_Drill1.1mm
 
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-PinHeader_1x5_P2.5mm_Drill1.1mm
-- Hex ID: FZDIGIDIGIKEYFOOTPRINTSPINHEADER1X5P25DRILL11
+- Hex ID: FZDIGIDIGIKEYFOOTPRINTSPH1X5P25DRILL11
 - Name: digikey-footprints : PinHeader_1x5_P2.5mm_Drill1.1mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/PinHeader_1x5_P2.5mm_Drill1.1mm/
 - Description: digikey-footprints : PinHeader_1x5_P2.5mm_Drill1.1mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-PinHeader_1x5_P2.5mm_Drill1.1mm](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-PinHeader_1x5_P2.5mm_Drill1.1mm)
-- Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSPINHEADER1X5P25DRILL11](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSPINHEADER1X5P25DRILL11)
+- Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSPH1X5P25DRILL11](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSPH1X5P25DRILL11)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|digikey-footprints|
 |OOMP Index|oompIndex|PinHeader_1x5_P2.5mm_Drill1.1mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-PinHeader_1x5_P2.5mm_Drill1.1mm|
-|Hex ID (short code)|hexID|FZDIGIDIGIKEYFOOTPRINTSPINHEADER1X5P25DRILL11|
+|Hex ID (short code)|hexID|FZDIGIDIGIKEYFOOTPRINTSPH1X5P25DRILL11|
 |name|name|digikey-footprints : PinHeader_1x5_P2.5mm_Drill1.1mm|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'PinHeader_1x5_P2.5mm_Drill1.1mm'</td><td> 'description'</td></tr><tr><td> 'http</td></tr><tr><td>//www.jst-mfg.com/product/pdf/eng/eXH.pdf'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> None</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_SwitchedCapacitor-LM2776
 - Hex ID: SZKREGULATORSWEDCAPACITORLM2776
 - Name: Regulator_SwitchedCapacitor : LM2776
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_SwitchedCapacitor/LM2776/
 - Description: Regulator_SwitchedCapacitor : LM2776
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_SwitchedCapacitor-LM2776](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_SwitchedCapacitor-LM2776)
 - Short Link: [http://oom.lt/SZKREGULATORSWEDCAPACITORLM2776](http://oom.lt/SZKREGULATORSWEDCAPACITORLM2776)

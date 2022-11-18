@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-transistor-power-DIL08
 - Hex ID: FZETRANSISTORPOWERDIL8
 - Name: transistor-power : DIL08
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/transistor-power/DIL08/
 - Description: transistor-power : DIL08
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-power-DIL08](http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-power-DIL08)
 - Short Link: [http://oom.lt/FZETRANSISTORPOWERDIL8](http://oom.lt/FZETRANSISTORPOWERDIL8)

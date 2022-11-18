@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Symbol-Symbol_GNU-Logo_CopperTop
 - Hex ID: FZKSZSYGNULCTOP
 - Name: Symbol : Symbol_GNU-Logo_CopperTop
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Symbol/Symbol_GNU-Logo_CopperTop/
 - Description: Symbol : Symbol_GNU-Logo_CopperTop
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Symbol-Symbol_GNU-Logo_CopperTop](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Symbol-Symbol_GNU-Logo_CopperTop)
 - Short Link: [http://oom.lt/FZKSZSYGNULCTOP](http://oom.lt/FZKSZSYGNULCTOP)

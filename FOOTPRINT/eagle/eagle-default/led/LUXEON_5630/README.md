@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-led-LUXEON_5630
 - Hex ID: FZELLUXEON563
 - Name: led : LUXEON_5630
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/led/LUXEON_5630/
 - Description: led : LUXEON_5630
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-led-LUXEON_5630](http://oom.lt/FOOTPRINT-eagle-eagle-default-led-LUXEON_5630)
 - Short Link: [http://oom.lt/FZELLUXEON563](http://oom.lt/FZELLUXEON563)

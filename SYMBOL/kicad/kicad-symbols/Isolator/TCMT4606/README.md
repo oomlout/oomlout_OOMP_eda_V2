@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Isolator-TCMT4606
 - Hex ID: SZKISOLATORTCMT466
 - Name: Isolator : TCMT4606
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Isolator/TCMT4606/
 - Description: Isolator : TCMT4606
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-TCMT4606](http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-TCMT4606)
 - Short Link: [http://oom.lt/SZKISOLATORTCMT466](http://oom.lt/SZKISOLATORTCMT466)

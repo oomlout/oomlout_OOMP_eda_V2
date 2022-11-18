@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Analog_ADC-MCP3553-ESN
 - Hex ID: SZKANALOGADCMCP3553ESN
 - Name: Analog_ADC : MCP3553-ESN
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog_ADC/MCP3553-ESN/
 - Description: Analog_ADC : MCP3553-ESN
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-MCP3553-ESN](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-MCP3553-ESN)
 - Short Link: [http://oom.lt/SZKANALOGADCMCP3553ESN](http://oom.lt/SZKANALOGADCMCP3553ESN)

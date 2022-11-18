@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKDDSMBHANDSOLDERING > Diode_SMD : D_SMB_Handsoldering](#fzkddsmbhandsoldering--diode_smd--d_smb_handsoldering)
+* [FZKDDSMBHS > Diode_SMD : D_SMB_Handsoldering](#fzkddsmbhs--diode_smd--d_smb_handsoldering)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKDDSMBHANDSOLDERING > Diode_SMD : D_SMB_Handsoldering
+# FZKDDSMBHS > Diode_SMD : D_SMB_Handsoldering
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_SMB_Handsoldering
-- Hex ID: FZKDDSMBHANDSOLDERING
+- Hex ID: FZKDDSMBHS
 - Name: Diode_SMD : D_SMB_Handsoldering
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Diode_SMD/D_SMB_Handsoldering/
 - Description: Diode_SMD : D_SMB_Handsoldering
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_SMB_Handsoldering](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_SMB_Handsoldering)
-- Short Link: [http://oom.lt/FZKDDSMBHANDSOLDERING](http://oom.lt/FZKDDSMBHANDSOLDERING)
+- Short Link: [http://oom.lt/FZKDDSMBHS](http://oom.lt/FZKDDSMBHS)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Diode_SMD|
 |OOMP Index|oompIndex|D_SMB_Handsoldering|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_SMB_Handsoldering|
-|Hex ID (short code)|hexID|FZKDDSMBHANDSOLDERING|
+|Hex ID (short code)|hexID|FZKDDSMBHS|
 |name|name|Diode_SMD : D_SMB_Handsoldering|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'D_SMB_Handsoldering'</td><td> 'description'</td></tr><tr><td> 'Diode SMB (DO-214AA) Handsoldering'</td><td> 'tags'</td></tr><tr><td> 'Diode SMB (DO-214AA) Handsoldering'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Diode_SMD.3dshapes/D_SMB.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

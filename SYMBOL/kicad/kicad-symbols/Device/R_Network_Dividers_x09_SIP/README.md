@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Device-R_Network_Dividers_x09_SIP
 - Hex ID: SZKDEVICERNETWORKDIVIDERSX9SIP
 - Name: Device : R_Network_Dividers_x09_SIP
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/R_Network_Dividers_x09_SIP/
 - Description: Device : R_Network_Dividers_x09_SIP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-R_Network_Dividers_x09_SIP](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-R_Network_Dividers_x09_SIP)
 - Short Link: [http://oom.lt/SZKDEVICERNETWORKDIVIDERSX9SIP](http://oom.lt/SZKDEVICERNETWORKDIVIDERSX9SIP)

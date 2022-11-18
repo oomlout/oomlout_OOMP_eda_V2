@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-JSTXH-X-PI18-01-HXH18
 - Hex ID: SZOOMPKOOMPPHEADJSTXHXPI181HXH18
 - Name: oomlout_OOMP_parts : HEAD-JSTXH-X-PI18-01-HXH18
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/HEAD-JSTXH-X-PI18-01-HXH18/
 - Description: oomlout_OOMP_parts : HEAD-JSTXH-X-PI18-01-HXH18
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-JSTXH-X-PI18-01-HXH18](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-JSTXH-X-PI18-01-HXH18)
 - Short Link: [http://oom.lt/SZOOMPKOOMPPHEADJSTXHXPI181HXH18](http://oom.lt/SZOOMPKOOMPPHEADJSTXHXPI181HXH18)

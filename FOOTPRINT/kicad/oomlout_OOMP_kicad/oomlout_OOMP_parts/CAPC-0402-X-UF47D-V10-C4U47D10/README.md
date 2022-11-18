@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0402-X-UF47D-V10-C4U47D10
 - Hex ID: FZOOMPKOOMPPCAPC42XUF47DV1C4U47D1
 - Name: oomlout_OOMP_parts : CAPC-0402-X-UF47D-V10-C4U47D10
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/CAPC-0402-X-UF47D-V10-C4U47D10/
 - Description: oomlout_OOMP_parts : CAPC-0402-X-UF47D-V10-C4U47D10
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0402-X-UF47D-V10-C4U47D10](http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0402-X-UF47D-V10-C4U47D10)
 - Short Link: [http://oom.lt/FZOOMPKOOMPPCAPC42XUF47DV1C4U47D1](http://oom.lt/FZOOMPKOOMPPCAPC42XUF47DV1C4U47D1)

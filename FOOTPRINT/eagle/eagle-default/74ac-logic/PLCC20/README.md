@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-74ac-logic-PLCC20
 - Hex ID: FZE74ACLOGICPLCC2
 - Name: 74ac-logic : PLCC20
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/74ac-logic/PLCC20/
 - Description: 74ac-logic : PLCC20
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-74ac-logic-PLCC20](http://oom.lt/FOOTPRINT-eagle-eagle-default-74ac-logic-PLCC20)
 - Short Link: [http://oom.lt/FZE74ACLOGICPLCC2](http://oom.lt/FZE74ACLOGICPLCC2)

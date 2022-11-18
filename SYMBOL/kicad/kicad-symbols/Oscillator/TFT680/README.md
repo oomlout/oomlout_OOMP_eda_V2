@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Oscillator-TFT680
 - Hex ID: SZKOCSTFT68
 - Name: Oscillator : TFT680
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Oscillator/TFT680/
 - Description: Oscillator : TFT680
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Oscillator-TFT680](http://oom.lt/SYMBOL-kicad-kicad-symbols-Oscillator-TFT680)
 - Short Link: [http://oom.lt/SZKOCSTFT68](http://oom.lt/SZKOCSTFT68)

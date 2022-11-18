@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Analog-AD654JR
 - Hex ID: SZKANALOGAD654JR
 - Name: Analog : AD654JR
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog/AD654JR/
 - Description: Analog : AD654JR
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog-AD654JR](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog-AD654JR)
 - Short Link: [http://oom.lt/SZKANALOGAD654JR](http://oom.lt/SZKANALOGAD654JR)

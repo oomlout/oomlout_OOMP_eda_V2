@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Cypress-CYBL10563-56LQXQ
 - Hex ID: SZKMCUCYPRESSCYBL156356LQXQ
 - Name: MCU_Cypress : CYBL10563-56LQXQ
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Cypress/CYBL10563-56LQXQ/
 - Description: MCU_Cypress : CYBL10563-56LQXQ
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Cypress-CYBL10563-56LQXQ](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Cypress-CYBL10563-56LQXQ)
 - Short Link: [http://oom.lt/SZKMCUCYPRESSCYBL156356LQXQ](http://oom.lt/SZKMCUCYPRESSCYBL156356LQXQ)

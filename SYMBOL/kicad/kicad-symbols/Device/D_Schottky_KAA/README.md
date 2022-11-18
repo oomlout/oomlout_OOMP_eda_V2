@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Device-D_Schottky_KAA
 - Hex ID: SZKDEVICEDSCHOTTKYKAA
 - Name: Device : D_Schottky_KAA
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/D_Schottky_KAA/
 - Description: Device : D_Schottky_KAA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-D_Schottky_KAA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-D_Schottky_KAA)
 - Short Link: [http://oom.lt/SZKDEVICEDSCHOTTKYKAA](http://oom.lt/SZKDEVICEDSCHOTTKYKAA)

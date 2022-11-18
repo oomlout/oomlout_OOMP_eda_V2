@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Analog_Switch-ADG419BRM
 - Hex ID: SZKANALOGSWADG419BRM
 - Name: Analog_Switch : ADG419BRM
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog_Switch/ADG419BRM/
 - Description: Analog_Switch : ADG419BRM
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_Switch-ADG419BRM](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_Switch-ADG419BRM)
 - Short Link: [http://oom.lt/SZKANALOGSWADG419BRM](http://oom.lt/SZKANALOGSWADG419BRM)

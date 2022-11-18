@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-piher-PC16SV
 - Hex ID: FZEPIHERPC16SV
 - Name: piher : PC16SV
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/piher/PC16SV/
 - Description: piher : PC16SV
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-piher-PC16SV](http://oom.lt/FOOTPRINT-eagle-eagle-default-piher-PC16SV)
 - Short Link: [http://oom.lt/FZEPIHERPC16SV](http://oom.lt/FZEPIHERPC16SV)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-TO-261-4
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSTO2614
 - Name: digikey-footprints : TO-261-4
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/TO-261-4/
 - Description: digikey-footprints : TO-261-4
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-TO-261-4](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-TO-261-4)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSTO2614](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSTO2614)

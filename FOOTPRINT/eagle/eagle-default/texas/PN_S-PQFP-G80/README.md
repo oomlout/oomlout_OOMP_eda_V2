@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-texas-PN_S-PQFP-G80
 - Hex ID: FZETEXASPNSPQFPG8
 - Name: texas : PN_S-PQFP-G80
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/texas/PN_S-PQFP-G80/
 - Description: texas : PN_S-PQFP-G80
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-texas-PN_S-PQFP-G80](http://oom.lt/FOOTPRINT-eagle-eagle-default-texas-PN_S-PQFP-G80)
 - Short Link: [http://oom.lt/FZETEXASPNSPQFPG8](http://oom.lt/FZETEXASPNSPQFPG8)

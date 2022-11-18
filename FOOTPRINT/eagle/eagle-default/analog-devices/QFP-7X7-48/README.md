@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-analog-devices-QFP-7X7-48
 - Hex ID: FZEANALOGDEVICESQFP7X748
 - Name: analog-devices : QFP-7X7-48
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/analog-devices/QFP-7X7-48/
 - Description: analog-devices : QFP-7X7-48
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-analog-devices-QFP-7X7-48](http://oom.lt/FOOTPRINT-eagle-eagle-default-analog-devices-QFP-7X7-48)
 - Short Link: [http://oom.lt/FZEANALOGDEVICESQFP7X748](http://oom.lt/FZEANALOGDEVICESQFP7X748)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_USB-USB3347
 - Hex ID: SZKINTERFACEUU3347
 - Name: Interface_USB : USB3347
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_USB/USB3347/
 - Description: Interface_USB : USB3347
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_USB-USB3347](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_USB-USB3347)
 - Short Link: [http://oom.lt/SZKINTERFACEUU3347](http://oom.lt/SZKINTERFACEUU3347)

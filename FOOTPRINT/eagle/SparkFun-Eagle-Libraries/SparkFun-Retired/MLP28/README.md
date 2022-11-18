@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-MLP28
 - Hex ID: FZSRTMLP28
 - Name: SparkFun-Retired : MLP28
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Retired/MLP28/
 - Description: SparkFun-Retired : MLP28
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-MLP28](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-MLP28)
 - Short Link: [http://oom.lt/FZSRTMLP28](http://oom.lt/FZSRTMLP28)

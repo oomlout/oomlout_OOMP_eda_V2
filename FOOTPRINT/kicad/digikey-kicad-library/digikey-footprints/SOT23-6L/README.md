@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SOT23-6L
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSSOT236L
 - Name: digikey-footprints : SOT23-6L
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/SOT23-6L/
 - Description: digikey-footprints : SOT23-6L
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SOT23-6L](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SOT23-6L)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSSOT236L](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSSOT236L)

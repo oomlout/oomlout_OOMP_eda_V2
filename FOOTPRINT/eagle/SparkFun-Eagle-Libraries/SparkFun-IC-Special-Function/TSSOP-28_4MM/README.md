@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Special-Function-TSSOP-28_4MM
 - Hex ID: FZSISTSS284
 - Name: SparkFun-IC-Special-Function : TSSOP-28_4MM
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-IC-Special-Function/TSSOP-28_4MM/
 - Description: SparkFun-IC-Special-Function : TSSOP-28_4MM
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Special-Function-TSSOP-28_4MM](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Special-Function-TSSOP-28_4MM)
 - Short Link: [http://oom.lt/FZSISTSS284](http://oom.lt/FZSISTSS284)

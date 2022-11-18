@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_BGA-UCBGA-81_4x4mm_Layout9x9_P0.4mm
 - Hex ID: FZKBGAUCBGA814X4LAYOUT9X9P4
 - Name: Package_BGA : UCBGA-81_4x4mm_Layout9x9_P0.4mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_BGA/UCBGA-81_4x4mm_Layout9x9_P0.4mm/
 - Description: Package_BGA : UCBGA-81_4x4mm_Layout9x9_P0.4mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_BGA-UCBGA-81_4x4mm_Layout9x9_P0.4mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_BGA-UCBGA-81_4x4mm_Layout9x9_P0.4mm)
 - Short Link: [http://oom.lt/FZKBGAUCBGA814X4LAYOUT9X9P4](http://oom.lt/FZKBGAUCBGA814X4LAYOUT9X9P4)

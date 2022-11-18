@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-led-IRL80A
 - Hex ID: FZELIRL8A
 - Name: led : IRL80A
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/led/IRL80A/
 - Description: led : IRL80A
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-led-IRL80A](http://oom.lt/FOOTPRINT-eagle-eagle-default-led-IRL80A)
 - Short Link: [http://oom.lt/FZELIRL8A](http://oom.lt/FZELIRL8A)

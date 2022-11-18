@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-opto-honeywell-HFM-SMA
 - Hex ID: FZEOPTOHONEYWELLHFMS
 - Name: opto-honeywell : HFM-SMA
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/opto-honeywell/HFM-SMA/
 - Description: opto-honeywell : HFM-SMA
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-opto-honeywell-HFM-SMA](http://oom.lt/FOOTPRINT-eagle-eagle-default-opto-honeywell-HFM-SMA)
 - Short Link: [http://oom.lt/FZEOPTOHONEYWELLHFMS](http://oom.lt/FZEOPTOHONEYWELLHFMS)

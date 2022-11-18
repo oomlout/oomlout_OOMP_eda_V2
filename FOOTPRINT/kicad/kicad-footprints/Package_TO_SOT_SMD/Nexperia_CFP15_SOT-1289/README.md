@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-Nexperia_CFP15_SOT-1289
 - Hex ID: FZKSOTNEXPERIACFP15SOT1289
 - Name: Package_TO_SOT_SMD : Nexperia_CFP15_SOT-1289
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/Nexperia_CFP15_SOT-1289/
 - Description: Package_TO_SOT_SMD : Nexperia_CFP15_SOT-1289
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-Nexperia_CFP15_SOT-1289](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-Nexperia_CFP15_SOT-1289)
 - Short Link: [http://oom.lt/FZKSOTNEXPERIACFP15SOT1289](http://oom.lt/FZKSOTNEXPERIACFP15SOT1289)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-linear-DIL10
 - Hex ID: FZELINEARDIL1
 - Name: linear : DIL10
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/linear/DIL10/
 - Description: linear : DIL10
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-linear-DIL10](http://oom.lt/FOOTPRINT-eagle-eagle-default-linear-DIL10)
 - Short Link: [http://oom.lt/FZELINEARDIL1](http://oom.lt/FZELINEARDIL1)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Axial_L16.0mm_D9.5mm_P5.08mm_Vertical_Vishay_IM-10-37
 - Hex ID: FZKINLAXIALL16D95P58FVISHAYIM137
 - Name: Inductor_THT : L_Axial_L16.0mm_D9.5mm_P5.08mm_Vertical_Vishay_IM-10-37
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Axial_L16.0mm_D9.5mm_P5.08mm_Vertical_Vishay_IM-10-37/
 - Description: Inductor_THT : L_Axial_L16.0mm_D9.5mm_P5.08mm_Vertical_Vishay_IM-10-37
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Axial_L16.0mm_D9.5mm_P5.08mm_Vertical_Vishay_IM-10-37](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Axial_L16.0mm_D9.5mm_P5.08mm_Vertical_Vishay_IM-10-37)
 - Short Link: [http://oom.lt/FZKINLAXIALL16D95P58FVISHAYIM137](http://oom.lt/FZKINLAXIALL16D95P58FVISHAYIM137)

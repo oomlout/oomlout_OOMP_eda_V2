@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-national-semiconductor-LQA036A
 - Hex ID: FZENATIONALSEMICONDUCTORLQA36A
 - Name: national-semiconductor : LQA036A
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/national-semiconductor/LQA036A/
 - Description: national-semiconductor : LQA036A
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-national-semiconductor-LQA036A](http://oom.lt/FOOTPRINT-eagle-eagle-default-national-semiconductor-LQA036A)
 - Short Link: [http://oom.lt/FZENATIONALSEMICONDUCTORLQA36A](http://oom.lt/FZENATIONALSEMICONDUCTORLQA36A)

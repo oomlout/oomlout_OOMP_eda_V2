@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-LED_THT-LED_Oval_W5.2mm_H3.8mm
 - Hex ID: FZKLLOVALW52H38
 - Name: LED_THT : LED_Oval_W5.2mm_H3.8mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/LED_THT/LED_Oval_W5.2mm_H3.8mm/
 - Description: LED_THT : LED_Oval_W5.2mm_H3.8mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-LED_THT-LED_Oval_W5.2mm_H3.8mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-LED_THT-LED_Oval_W5.2mm_H3.8mm)
 - Short Link: [http://oom.lt/FZKLLOVALW52H38](http://oom.lt/FZKLLOVALW52H38)

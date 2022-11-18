@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Display_Character-D148K
 - Hex ID: SZKDICHARACTERD148K
 - Name: Display_Character : D148K
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Display_Character/D148K/
 - Description: Display_Character : D148K
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-D148K](http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-D148K)
 - Short Link: [http://oom.lt/SZKDICHARACTERD148K](http://oom.lt/SZKDICHARACTERD148K)

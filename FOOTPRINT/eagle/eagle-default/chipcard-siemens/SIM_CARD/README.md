@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-chipcard-siemens-SIM_CARD
 - Hex ID: FZECHIPCARDSIEMENSSIMCARD
 - Name: chipcard-siemens : SIM_CARD
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/chipcard-siemens/SIM_CARD/
 - Description: chipcard-siemens : SIM_CARD
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-chipcard-siemens-SIM_CARD](http://oom.lt/FOOTPRINT-eagle-eagle-default-chipcard-siemens-SIM_CARD)
 - Short Link: [http://oom.lt/FZECHIPCARDSIEMENSSIMCARD](http://oom.lt/FZECHIPCARDSIEMENSSIMCARD)

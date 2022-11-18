@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKDIPDIP6W762SMSOSLLPADS > Package_DIP : DIP-6_W7.62mm_SMDSocket_SmallPads](#fzkdipdip6w762smsosllpads--package_dip--dip-6_w762mm_smdsocket_smallpads)
+* [FZKDD6W762SMSOSLLPS > Package_DIP : DIP-6_W7.62mm_SMDSocket_SmallPads](#fzkdd6w762smsosllps--package_dip--dip-6_w762mm_smdsocket_smallpads)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKDIPDIP6W762SMSOSLLPADS > Package_DIP : DIP-6_W7.62mm_SMDSocket_SmallPads
+# FZKDD6W762SMSOSLLPS > Package_DIP : DIP-6_W7.62mm_SMDSocket_SmallPads
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_DIP-DIP-6_W7.62mm_SMDSocket_SmallPads
-- Hex ID: FZKDIPDIP6W762SMSOSLLPADS
+- Hex ID: FZKDD6W762SMSOSLLPS
 - Name: Package_DIP : DIP-6_W7.62mm_SMDSocket_SmallPads
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DIP/DIP-6_W7.62mm_SMDSocket_SmallPads/
 - Description: Package_DIP : DIP-6_W7.62mm_SMDSocket_SmallPads
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DIP-DIP-6_W7.62mm_SMDSocket_SmallPads](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DIP-DIP-6_W7.62mm_SMDSocket_SmallPads)
-- Short Link: [http://oom.lt/FZKDIPDIP6W762SMSOSLLPADS](http://oom.lt/FZKDIPDIP6W762SMSOSLLPADS)
+- Short Link: [http://oom.lt/FZKDD6W762SMSOSLLPS](http://oom.lt/FZKDD6W762SMSOSLLPS)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Package_DIP|
 |OOMP Index|oompIndex|DIP-6_W7.62mm_SMDSocket_SmallPads|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DIP-DIP-6_W7.62mm_SMDSocket_SmallPads|
-|Hex ID (short code)|hexID|FZKDIPDIP6W762SMSOSLLPADS|
+|Hex ID (short code)|hexID|FZKDD6W762SMSOSLLPS|
 |name|name|Package_DIP : DIP-6_W7.62mm_SMDSocket_SmallPads|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'DIP-6_W7.62mm_SMDSocket_SmallPads'</td><td> 'description'</td></tr><tr><td> '6-lead though-hole mounted DIP package</td><td> row spacing 7.62 mm (300 mils)</td><td> SMDSocket</td><td> SmallPads'</td><td> 'tags'</td></tr><tr><td> 'THT DIP DIL PDIP 2.54mm 7.62mm 300mil SMDSocket SmallPads'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_DIP.3dshapes/DIP-6_W7.62mm_SMDSocket.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

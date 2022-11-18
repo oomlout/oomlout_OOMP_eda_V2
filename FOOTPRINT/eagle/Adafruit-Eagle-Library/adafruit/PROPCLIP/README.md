@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZAPROPCLIP > adafruit : PROPCLIP](#fzapropclip--adafruit--propclip)
+* [FZAPROPCL > adafruit : PROPCLIP](#fzapropcl--adafruit--propclip)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZAPROPCLIP > adafruit : PROPCLIP
+# FZAPROPCL > adafruit : PROPCLIP
 
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-PROPCLIP
-- Hex ID: FZAPROPCLIP
+- Hex ID: FZAPROPCL
 - Name: adafruit : PROPCLIP
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/PROPCLIP/
 - Description: adafruit : PROPCLIP
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-PROPCLIP](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-PROPCLIP)
-- Short Link: [http://oom.lt/FZAPROPCLIP](http://oom.lt/FZAPROPCLIP)
+- Short Link: [http://oom.lt/FZAPROPCL](http://oom.lt/FZAPROPCL)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|adafruit|
 |OOMP Index|oompIndex|PROPCLIP|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-PROPCLIP|
-|Hex ID (short code)|hexID|FZAPROPCLIP|
+|Hex ID (short code)|hexID|FZAPROPCL|
 |name|name|adafruit : PROPCLIP|
 ||||
 

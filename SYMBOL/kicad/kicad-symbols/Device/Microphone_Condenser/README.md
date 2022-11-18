@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Device-Microphone_Condenser
 - Hex ID: SZKDEVICEMPHONECONDENSER
 - Name: Device : Microphone_Condenser
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/Microphone_Condenser/
 - Description: Device : Microphone_Condenser
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Microphone_Condenser](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Microphone_Condenser)
 - Short Link: [http://oom.lt/SZKDEVICEMPHONECONDENSER](http://oom.lt/SZKDEVICEMPHONECONDENSER)

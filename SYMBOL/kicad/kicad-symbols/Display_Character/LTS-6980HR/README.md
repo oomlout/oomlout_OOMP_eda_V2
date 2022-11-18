@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Display_Character-LTS-6980HR
 - Hex ID: SZKDICHARACTERLTS698HR
 - Name: Display_Character : LTS-6980HR
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Display_Character/LTS-6980HR/
 - Description: Display_Character : LTS-6980HR
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-LTS-6980HR](http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-LTS-6980HR)
 - Short Link: [http://oom.lt/SZKDICHARACTERLTS698HR](http://oom.lt/SZKDICHARACTERLTS698HR)

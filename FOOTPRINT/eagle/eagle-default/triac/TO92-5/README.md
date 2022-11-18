@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-triac-TO92-5
 - Hex ID: FZETRIACTO925
 - Name: triac : TO92-5
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/triac/TO92-5/
 - Description: triac : TO92-5
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-triac-TO92-5](http://oom.lt/FOOTPRINT-eagle-eagle-default-triac-TO92-5)
 - Short Link: [http://oom.lt/FZETRIACTO925](http://oom.lt/FZETRIACTO925)

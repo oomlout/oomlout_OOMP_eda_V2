@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_1210_3225Metric
 - Hex ID: FZKLL1213225VA
 - Name: LED_SMD : LED_1210_3225Metric
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_1210_3225Metric/
 - Description: LED_SMD : LED_1210_3225Metric
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_1210_3225Metric](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_1210_3225Metric)
 - Short Link: [http://oom.lt/FZKLL1213225VA](http://oom.lt/FZKLL1213225VA)

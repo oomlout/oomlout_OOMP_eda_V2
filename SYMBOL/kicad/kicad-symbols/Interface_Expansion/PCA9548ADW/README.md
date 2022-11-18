@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_Expansion-PCA9548ADW
 - Hex ID: SZKINTERFACEEXPANSIONPCA9548ADW
 - Name: Interface_Expansion : PCA9548ADW
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_Expansion/PCA9548ADW/
 - Description: Interface_Expansion : PCA9548ADW
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Expansion-PCA9548ADW](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Expansion-PCA9548ADW)
 - Short Link: [http://oom.lt/SZKINTERFACEEXPANSIONPCA9548ADW](http://oom.lt/SZKINTERFACEEXPANSIONPCA9548ADW)

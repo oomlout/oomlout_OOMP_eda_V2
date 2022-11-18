@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC18-PIC18F27J53_ISS
 - Hex ID: SZKMCUMCHIPPIC18PIC18F27J53ISS
 - Name: MCU_Microchip_PIC18 : PIC18F27J53_ISS
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC18/PIC18F27J53_ISS/
 - Description: MCU_Microchip_PIC18 : PIC18F27J53_ISS
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC18-PIC18F27J53_ISS](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC18-PIC18F27J53_ISS)
 - Short Link: [http://oom.lt/SZKMCUMCHIPPIC18PIC18F27J53ISS](http://oom.lt/SZKMCUMCHIPPIC18PIC18F27J53ISS)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-varistor-S10K460
 - Hex ID: FZEVS1K46
 - Name: varistor : S10K460
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/varistor/S10K460/
 - Description: varistor : S10K460
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-varistor-S10K460](http://oom.lt/FOOTPRINT-eagle-eagle-default-varistor-S10K460)
 - Short Link: [http://oom.lt/FZEVS1K46](http://oom.lt/FZEVS1K46)

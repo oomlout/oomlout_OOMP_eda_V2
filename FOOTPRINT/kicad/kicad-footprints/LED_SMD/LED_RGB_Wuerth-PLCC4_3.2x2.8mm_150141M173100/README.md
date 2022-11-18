@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_RGB_Wuerth-PLCC4_3.2x2.8mm_150141M173100
 - Hex ID: FZKLLRGBWUERTHPLCC432X2815141M1731
 - Name: LED_SMD : LED_RGB_Wuerth-PLCC4_3.2x2.8mm_150141M173100
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_RGB_Wuerth-PLCC4_3.2x2.8mm_150141M173100/
 - Description: LED_SMD : LED_RGB_Wuerth-PLCC4_3.2x2.8mm_150141M173100
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_RGB_Wuerth-PLCC4_3.2x2.8mm_150141M173100](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_RGB_Wuerth-PLCC4_3.2x2.8mm_150141M173100)
 - Short Link: [http://oom.lt/FZKLLRGBWUERTHPLCC432X2815141M1731](http://oom.lt/FZKLLRGBWUERTHPLCC432X2815141M1731)

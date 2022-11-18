@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-micro-philips-DIL08
 - Hex ID: FZEMPHILIPSDIL8
 - Name: micro-philips : DIL08
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/micro-philips/DIL08/
 - Description: micro-philips : DIL08
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-philips-DIL08](http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-philips-DIL08)
 - Short Link: [http://oom.lt/FZEMPHILIPSDIL8](http://oom.lt/FZEMPHILIPSDIL8)

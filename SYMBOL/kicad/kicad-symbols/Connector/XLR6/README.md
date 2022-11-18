@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Connector-XLR6
 - Hex ID: SZKCNXLR6
 - Name: Connector : XLR6
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector/XLR6/
 - Description: Connector : XLR6
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-XLR6](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-XLR6)
 - Short Link: [http://oom.lt/SZKCNXLR6](http://oom.lt/SZKCNXLR6)

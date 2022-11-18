@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-Nidec_Copal_SH-7040B
 - Hex ID: FZKBNIDECCOPALSH74B
 - Name: Button_Switch_SMD : Nidec_Copal_SH-7040B
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Button_Switch_SMD/Nidec_Copal_SH-7040B/
 - Description: Button_Switch_SMD : Nidec_Copal_SH-7040B
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-Nidec_Copal_SH-7040B](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-Nidec_Copal_SH-7040B)
 - Short Link: [http://oom.lt/FZKBNIDECCOPALSH74B](http://oom.lt/FZKBNIDECCOPALSH74B)

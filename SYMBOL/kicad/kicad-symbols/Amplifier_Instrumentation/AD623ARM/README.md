@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Instrumentation-AD623ARM
 - Hex ID: SZKAMPLIFIERINSTRUMENTATIONAD623ARM
 - Name: Amplifier_Instrumentation : AD623ARM
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Instrumentation/AD623ARM/
 - Description: Amplifier_Instrumentation : AD623ARM
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Instrumentation-AD623ARM](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Instrumentation-AD623ARM)
 - Short Link: [http://oom.lt/SZKAMPLIFIERINSTRUMENTATIONAD623ARM](http://oom.lt/SZKAMPLIFIERINSTRUMENTATIONAD623ARM)

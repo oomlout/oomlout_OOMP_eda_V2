@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-TO92H
 - Hex ID: FZATO92H
 - Name: adafruit : TO92H
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/TO92H/
 - Description: adafruit : TO92H
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-TO92H](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-TO92H)
 - Short Link: [http://oom.lt/FZATO92H](http://oom.lt/FZATO92H)

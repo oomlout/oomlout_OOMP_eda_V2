@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F1-STM32F100C4Tx
 - Hex ID: SZKMCUSTSTM32F1STM32F1C4TX
 - Name: MCU_ST_STM32F1 : STM32F100C4Tx
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32F1/STM32F100C4Tx/
 - Description: MCU_ST_STM32F1 : STM32F100C4Tx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F1-STM32F100C4Tx](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F1-STM32F100C4Tx)
 - Short Link: [http://oom.lt/SZKMCUSTSTM32F1STM32F1C4TX](http://oom.lt/SZKMCUSTSTM32F1STM32F1C4TX)

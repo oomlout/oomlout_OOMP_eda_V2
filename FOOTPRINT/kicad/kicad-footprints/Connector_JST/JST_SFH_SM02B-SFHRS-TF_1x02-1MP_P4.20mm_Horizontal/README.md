@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_SFH_SM02B-SFHRS-TF_1x02-1MP_P4.20mm_Horizontal
 - Hex ID: FZKCNJSTJSTSFHSM2BSFHRSTF1X21MPP42H
 - Name: Connector_JST : JST_SFH_SM02B-SFHRS-TF_1x02-1MP_P4.20mm_Horizontal
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_SFH_SM02B-SFHRS-TF_1x02-1MP_P4.20mm_Horizontal/
 - Description: Connector_JST : JST_SFH_SM02B-SFHRS-TF_1x02-1MP_P4.20mm_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_SFH_SM02B-SFHRS-TF_1x02-1MP_P4.20mm_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_SFH_SM02B-SFHRS-TF_1x02-1MP_P4.20mm_Horizontal)
 - Short Link: [http://oom.lt/FZKCNJSTJSTSFHSM2BSFHRSTF1X21MPP42H](http://oom.lt/FZKCNJSTJSTSFHSM2BSFHRSTF1X21MPP42H)

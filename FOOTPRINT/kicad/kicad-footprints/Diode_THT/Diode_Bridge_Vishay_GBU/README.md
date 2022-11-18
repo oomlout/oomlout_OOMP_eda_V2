@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Diode_THT-Diode_Bridge_Vishay_GBU
 - Hex ID: FZKDDIODEBRIDGEVISHAYGBU
 - Name: Diode_THT : Diode_Bridge_Vishay_GBU
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Diode_THT/Diode_Bridge_Vishay_GBU/
 - Description: Diode_THT : Diode_Bridge_Vishay_GBU
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Diode_THT-Diode_Bridge_Vishay_GBU](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Diode_THT-Diode_Bridge_Vishay_GBU)
 - Short Link: [http://oom.lt/FZKDDIODEBRIDGEVISHAYGBU](http://oom.lt/FZKDDIODEBRIDGEVISHAYGBU)

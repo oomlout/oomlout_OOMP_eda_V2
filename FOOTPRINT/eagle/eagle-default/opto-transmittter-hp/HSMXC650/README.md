@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-opto-transmittter-hp-HSMXC650
 - Hex ID: FZEOPTOTRANSMITTTERHPHSMXC65
 - Name: opto-transmittter-hp : HSMXC650
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/opto-transmittter-hp/HSMXC650/
 - Description: opto-transmittter-hp : HSMXC650
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-opto-transmittter-hp-HSMXC650](http://oom.lt/FOOTPRINT-eagle-eagle-default-opto-transmittter-hp-HSMXC650)
 - Short Link: [http://oom.lt/FZEOPTOTRANSMITTTERHPHSMXC65](http://oom.lt/FZEOPTOTRANSMITTTERHPHSMXC65)

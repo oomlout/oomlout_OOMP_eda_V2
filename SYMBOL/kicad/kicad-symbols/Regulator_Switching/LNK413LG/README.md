@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-LNK413LG
 - Hex ID: SZKREGULATORSWINGLNK413LG
 - Name: Regulator_Switching : LNK413LG
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/LNK413LG/
 - Description: Regulator_Switching : LNK413LG
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LNK413LG](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LNK413LG)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGLNK413LG](http://oom.lt/SZKREGULATORSWINGLNK413LG)

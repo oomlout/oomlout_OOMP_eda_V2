@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-BUTA-6035-X-STAN-01-B6035
 - Hex ID: SZOOMPKOOMPPBUTA635XSTAN1B635
 - Name: oomlout_OOMP_parts : BUTA-6035-X-STAN-01-B6035
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/BUTA-6035-X-STAN-01-B6035/
 - Description: oomlout_OOMP_parts : BUTA-6035-X-STAN-01-B6035
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-BUTA-6035-X-STAN-01-B6035](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-BUTA-6035-X-STAN-01-B6035)
 - Short Link: [http://oom.lt/SZOOMPKOOMPPBUTA635XSTAN1B635](http://oom.lt/SZOOMPKOOMPPBUTA635XSTAN1B635)

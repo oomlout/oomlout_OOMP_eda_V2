@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Comms-SO16
 - Hex ID: FZSICSO16
 - Name: SparkFun-IC-Comms : SO16
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-IC-Comms/SO16/
 - Description: SparkFun-IC-Comms : SO16
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Comms-SO16](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Comms-SO16)
 - Short Link: [http://oom.lt/FZSICSO16](http://oom.lt/FZSICSO16)

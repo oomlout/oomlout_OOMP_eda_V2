@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-OptoDevice-Broadcom_AFBR-16xxZ_Vertical
 - Hex ID: FZKOPBROADCOMAFBR16XXZF
 - Name: OptoDevice : Broadcom_AFBR-16xxZ_Vertical
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/OptoDevice/Broadcom_AFBR-16xxZ_Vertical/
 - Description: OptoDevice : Broadcom_AFBR-16xxZ_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-OptoDevice-Broadcom_AFBR-16xxZ_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-OptoDevice-Broadcom_AFBR-16xxZ_Vertical)
 - Short Link: [http://oom.lt/FZKOPBROADCOMAFBR16XXZF](http://oom.lt/FZKOPBROADCOMAFBR16XXZF)

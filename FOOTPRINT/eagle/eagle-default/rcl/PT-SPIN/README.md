@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZERCLPTSPIN > rcl : PT-SPIN](#fzerclptspin--rcl--pt-spin)
+* [FZERCLPTSP > rcl : PT-SPIN](#fzerclptsp--rcl--pt-spin)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZERCLPTSPIN > rcl : PT-SPIN
+# FZERCLPTSP > rcl : PT-SPIN
 
 - ID: FOOTPRINT-eagle-eagle-default-rcl-PT-SPIN
-- Hex ID: FZERCLPTSPIN
+- Hex ID: FZERCLPTSP
 - Name: rcl : PT-SPIN
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/rcl/PT-SPIN/
 - Description: rcl : PT-SPIN
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-PT-SPIN](http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-PT-SPIN)
-- Short Link: [http://oom.lt/FZERCLPTSPIN](http://oom.lt/FZERCLPTSPIN)
+- Short Link: [http://oom.lt/FZERCLPTSP](http://oom.lt/FZERCLPTSP)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|rcl|
 |OOMP Index|oompIndex|PT-SPIN|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-rcl-PT-SPIN|
-|Hex ID (short code)|hexID|FZERCLPTSPIN|
+|Hex ID (short code)|hexID|FZERCLPTSP|
 |name|name|rcl : PT-SPIN|
 ||||

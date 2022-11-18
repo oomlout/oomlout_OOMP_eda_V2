@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Power_Management-IPS6041RPBF
 - Hex ID: SZKPOWERMANAGEMENTIPS641RPBF
 - Name: Power_Management : IPS6041RPBF
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Power_Management/IPS6041RPBF/
 - Description: Power_Management : IPS6041RPBF
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-IPS6041RPBF](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-IPS6041RPBF)
 - Short Link: [http://oom.lt/SZKPOWERMANAGEMENTIPS641RPBF](http://oom.lt/SZKPOWERMANAGEMENTIPS641RPBF)

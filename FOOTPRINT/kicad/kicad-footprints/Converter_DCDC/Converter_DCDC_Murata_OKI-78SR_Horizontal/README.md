@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Converter_DCDC-Converter_DCDC_Murata_OKI-78SR_Horizontal
 - Hex ID: FZKCONCONMOKI78SRH
 - Name: Converter_DCDC : Converter_DCDC_Murata_OKI-78SR_Horizontal
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Converter_DCDC/Converter_DCDC_Murata_OKI-78SR_Horizontal/
 - Description: Converter_DCDC : Converter_DCDC_Murata_OKI-78SR_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Converter_DCDC-Converter_DCDC_Murata_OKI-78SR_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Converter_DCDC-Converter_DCDC_Murata_OKI-78SR_Horizontal)
 - Short Link: [http://oom.lt/FZKCONCONMOKI78SRH](http://oom.lt/FZKCONCONMOKI78SRH)

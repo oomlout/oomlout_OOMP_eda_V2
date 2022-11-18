@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Oscillator-NB3N502
 - Hex ID: SZKOCSNB3N52
 - Name: Oscillator : NB3N502
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Oscillator/NB3N502/
 - Description: Oscillator : NB3N502
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Oscillator-NB3N502](http://oom.lt/SYMBOL-kicad-kicad-symbols-Oscillator-NB3N502)
 - Short Link: [http://oom.lt/SZKOCSNB3N52](http://oom.lt/SZKOCSNB3N52)

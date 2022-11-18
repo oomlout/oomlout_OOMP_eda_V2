@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Fuse-Fuse_2010_5025Metric
 - Hex ID: FZKFUFU21525VA
 - Name: Fuse : Fuse_2010_5025Metric
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Fuse/Fuse_2010_5025Metric/
 - Description: Fuse : Fuse_2010_5025Metric
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Fuse-Fuse_2010_5025Metric](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Fuse-Fuse_2010_5025Metric)
 - Short Link: [http://oom.lt/FZKFUFU21525VA](http://oom.lt/FZKFUFU21525VA)

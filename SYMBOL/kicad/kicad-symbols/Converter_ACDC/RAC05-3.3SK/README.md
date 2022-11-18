@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Converter_ACDC-RAC05-3.3SK
 - Hex ID: SZKCONRAC533SK
 - Name: Converter_ACDC : RAC05-3.3SK
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Converter_ACDC/RAC05-3.3SK/
 - Description: Converter_ACDC : RAC05-3.3SK
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_ACDC-RAC05-3.3SK](http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_ACDC-RAC05-3.3SK)
 - Short Link: [http://oom.lt/SZKCONRAC533SK](http://oom.lt/SZKCONRAC533SK)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_ST_STM32L4+-STM32L4R9ZITx
 - Hex ID: SZKMCUSTSTM32L4+STM32L4R9ZITX
 - Name: MCU_ST_STM32L4+ : STM32L4R9ZITx
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32L4+/STM32L4R9ZITx/
 - Description: MCU_ST_STM32L4+ : STM32L4R9ZITx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32L4+-STM32L4R9ZITx](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32L4+-STM32L4R9ZITx)
 - Short Link: [http://oom.lt/SZKMCUSTSTM32L4+STM32L4R9ZITX](http://oom.lt/SZKMCUSTSTM32L4+STM32L4R9ZITX)

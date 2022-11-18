@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-microchip-TSSOP14
 - Hex ID: FZEMCHIPTSS14
 - Name: microchip : TSSOP14
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/microchip/TSSOP14/
 - Description: microchip : TSSOP14
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-microchip-TSSOP14](http://oom.lt/FOOTPRINT-eagle-eagle-default-microchip-TSSOP14)
 - Short Link: [http://oom.lt/FZEMCHIPTSS14](http://oom.lt/FZEMCHIPTSS14)

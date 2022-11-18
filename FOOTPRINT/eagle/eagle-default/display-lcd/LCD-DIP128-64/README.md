@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEDILCDLCDDIP12864 > display-lcd : LCD-DIP128-64](#fzedilcdlcddip12864--display-lcd--lcd-dip128-64)
+* [FZEDILCDLCDD12864 > display-lcd : LCD-DIP128-64](#fzedilcdlcdd12864--display-lcd--lcd-dip128-64)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEDILCDLCDDIP12864 > display-lcd : LCD-DIP128-64
+# FZEDILCDLCDD12864 > display-lcd : LCD-DIP128-64
 
 - ID: FOOTPRINT-eagle-eagle-default-display-lcd-LCD-DIP128-64
-- Hex ID: FZEDILCDLCDDIP12864
+- Hex ID: FZEDILCDLCDD12864
 - Name: display-lcd : LCD-DIP128-64
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/display-lcd/LCD-DIP128-64/
 - Description: display-lcd : LCD-DIP128-64
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-display-lcd-LCD-DIP128-64](http://oom.lt/FOOTPRINT-eagle-eagle-default-display-lcd-LCD-DIP128-64)
-- Short Link: [http://oom.lt/FZEDILCDLCDDIP12864](http://oom.lt/FZEDILCDLCDDIP12864)
+- Short Link: [http://oom.lt/FZEDILCDLCDD12864](http://oom.lt/FZEDILCDLCDD12864)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|display-lcd|
 |OOMP Index|oompIndex|LCD-DIP128-64|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-display-lcd-LCD-DIP128-64|
-|Hex ID (short code)|hexID|FZEDILCDLCDDIP12864|
+|Hex ID (short code)|hexID|FZEDILCDLCDD12864|
 |name|name|display-lcd : LCD-DIP128-64|
 ||||

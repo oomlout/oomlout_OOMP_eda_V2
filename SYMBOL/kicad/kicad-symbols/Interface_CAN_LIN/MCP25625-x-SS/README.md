@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_CAN_LIN-MCP25625-x-SS
 - Hex ID: SZKINTERFACECANLINMCP25625XSS
 - Name: Interface_CAN_LIN : MCP25625-x-SS
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_CAN_LIN/MCP25625-x-SS/
 - Description: Interface_CAN_LIN : MCP25625-x-SS
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_CAN_LIN-MCP25625-x-SS](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_CAN_LIN-MCP25625-x-SS)
 - Short Link: [http://oom.lt/SZKINTERFACECANLINMCP25625XSS](http://oom.lt/SZKINTERFACECANLINMCP25625XSS)

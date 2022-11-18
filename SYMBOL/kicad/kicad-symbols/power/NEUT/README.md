@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-power-NEUT
 - Hex ID: SZKPOWERNEUT
 - Name: power : NEUT
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/power/NEUT/
 - Description: power : NEUT
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-power-NEUT](http://oom.lt/SYMBOL-kicad-kicad-symbols-power-NEUT)
 - Short Link: [http://oom.lt/SZKPOWERNEUT](http://oom.lt/SZKPOWERNEUT)

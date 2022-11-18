@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_SlimStack_501920-5001_2x25_P0.50mm_Vertical
 - Hex ID: FZKCNMXMXSLIMSTACK5192512X25P5F
 - Name: Connector_Molex : Molex_SlimStack_501920-5001_2x25_P0.50mm_Vertical
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_SlimStack_501920-5001_2x25_P0.50mm_Vertical/
 - Description: Connector_Molex : Molex_SlimStack_501920-5001_2x25_P0.50mm_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_SlimStack_501920-5001_2x25_P0.50mm_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_SlimStack_501920-5001_2x25_P0.50mm_Vertical)
 - Short Link: [http://oom.lt/FZKCNMXMXSLIMSTACK5192512X25P5F](http://oom.lt/FZKCNMXMXSLIMSTACK5192512X25P5F)

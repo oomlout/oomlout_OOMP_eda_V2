@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Bluetooth_Module_WT12-A-AI5
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSBLUETOOTHMOWT12AAI5
 - Name: digikey-footprints : Bluetooth_Module_WT12-A-AI5
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Bluetooth_Module_WT12-A-AI5/
 - Description: digikey-footprints : Bluetooth_Module_WT12-A-AI5
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Bluetooth_Module_WT12-A-AI5](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Bluetooth_Module_WT12-A-AI5)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSBLUETOOTHMOWT12AAI5](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSBLUETOOTHMOWT12AAI5)

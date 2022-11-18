@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-TLV6001DCK
 - Hex ID: SZKAMPLIFIEROPERATIONALTLV61DCK
 - Name: Amplifier_Operational : TLV6001DCK
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/TLV6001DCK/
 - Description: Amplifier_Operational : TLV6001DCK
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-TLV6001DCK](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-TLV6001DCK)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALTLV61DCK](http://oom.lt/SZKAMPLIFIEROPERATIONALTLV61DCK)

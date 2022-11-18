@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-led-LED3MM
 - Hex ID: FZELL3
 - Name: led : LED3MM
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/led/LED3MM/
 - Description: led : LED3MM
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-led-LED3MM](http://oom.lt/FOOTPRINT-eagle-eagle-default-led-LED3MM)
 - Short Link: [http://oom.lt/FZELL3](http://oom.lt/FZELL3)

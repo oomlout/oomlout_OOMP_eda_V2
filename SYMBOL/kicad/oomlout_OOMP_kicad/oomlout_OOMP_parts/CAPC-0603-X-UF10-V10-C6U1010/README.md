@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0603-X-UF10-V10-C6U1010
 - Hex ID: SZOOMPKOOMPPCAPC63XUF1V1C6U11
 - Name: oomlout_OOMP_parts : CAPC-0603-X-UF10-V10-C6U1010
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/CAPC-0603-X-UF10-V10-C6U1010/
 - Description: oomlout_OOMP_parts : CAPC-0603-X-UF10-V10-C6U1010
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0603-X-UF10-V10-C6U1010](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0603-X-UF10-V10-C6U1010)
 - Short Link: [http://oom.lt/SZOOMPKOOMPPCAPC63XUF1V1C6U11](http://oom.lt/SZOOMPKOOMPPCAPC63XUF1V1C6U11)

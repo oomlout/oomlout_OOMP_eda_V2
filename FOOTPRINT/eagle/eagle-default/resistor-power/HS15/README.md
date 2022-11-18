@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-resistor-power-HS15
 - Hex ID: FZERESISTORPOWERHS15
 - Name: resistor-power : HS15
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/resistor-power/HS15/
 - Description: resistor-power : HS15
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-resistor-power-HS15](http://oom.lt/FOOTPRINT-eagle-eagle-default-resistor-power-HS15)
 - Short Link: [http://oom.lt/FZERESISTORPOWERHS15](http://oom.lt/FZERESISTORPOWERHS15)

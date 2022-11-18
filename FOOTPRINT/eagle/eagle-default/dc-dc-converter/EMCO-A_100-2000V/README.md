@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-dc-dc-converter-EMCO-A_100-2000V
 - Hex ID: FZEDCDCCONVERTEREMCOA12V
 - Name: dc-dc-converter : EMCO-A_100-2000V
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/dc-dc-converter/EMCO-A_100-2000V/
 - Description: dc-dc-converter : EMCO-A_100-2000V
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-dc-dc-converter-EMCO-A_100-2000V](http://oom.lt/FOOTPRINT-eagle-eagle-default-dc-dc-converter-EMCO-A_100-2000V)
 - Short Link: [http://oom.lt/FZEDCDCCONVERTEREMCOA12V](http://oom.lt/FZEDCDCCONVERTEREMCOA12V)

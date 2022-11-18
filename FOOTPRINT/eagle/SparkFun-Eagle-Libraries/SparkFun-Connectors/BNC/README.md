@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-BNC
 - Hex ID: FZSSPARKFUNCNSBNC
 - Name: SparkFun-Connectors : BNC
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Connectors/BNC/
 - Description: SparkFun-Connectors : BNC
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-BNC](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-BNC)
 - Short Link: [http://oom.lt/FZSSPARKFUNCNSBNC](http://oom.lt/FZSSPARKFUNCNSBNC)

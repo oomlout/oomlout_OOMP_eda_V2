@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Diode_THT-D_5KP_P10.16mm_Horizontal
 - Hex ID: FZKDD5KPP116H
 - Name: Diode_THT : D_5KP_P10.16mm_Horizontal
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Diode_THT/D_5KP_P10.16mm_Horizontal/
 - Description: Diode_THT : D_5KP_P10.16mm_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Diode_THT-D_5KP_P10.16mm_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Diode_THT-D_5KP_P10.16mm_Horizontal)
 - Short Link: [http://oom.lt/FZKDD5KPP116H](http://oom.lt/FZKDD5KPP116H)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Murata_DEM35xxC
 - Hex ID: FZKINLMDEM35XXC
 - Name: Inductor_SMD : L_Murata_DEM35xxC
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Murata_DEM35xxC/
 - Description: Inductor_SMD : L_Murata_DEM35xxC
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Murata_DEM35xxC](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Murata_DEM35xxC)
 - Short Link: [http://oom.lt/FZKINLMDEM35XXC](http://oom.lt/FZKINLMDEM35XXC)

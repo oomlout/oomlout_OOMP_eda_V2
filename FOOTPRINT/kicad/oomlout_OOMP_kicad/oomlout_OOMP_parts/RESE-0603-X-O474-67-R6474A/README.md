@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O474-67-R6474A
 - Hex ID: FZOOMPKOOMPPRESE63XO47467R6474A
 - Name: oomlout_OOMP_parts : RESE-0603-X-O474-67-R6474A
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/RESE-0603-X-O474-67-R6474A/
 - Description: oomlout_OOMP_parts : RESE-0603-X-O474-67-R6474A
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O474-67-R6474A](http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O474-67-R6474A)
 - Short Link: [http://oom.lt/FZOOMPKOOMPPRESE63XO47467R6474A](http://oom.lt/FZOOMPKOOMPPRESE63XO47467R6474A)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-texas-HTSSOP56DFD
 - Hex ID: FZETEXASHTSS56DFD
 - Name: texas : HTSSOP56DFD
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/texas/HTSSOP56DFD/
 - Description: texas : HTSSOP56DFD
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-texas-HTSSOP56DFD](http://oom.lt/FOOTPRINT-eagle-eagle-default-texas-HTSSOP56DFD)
 - Short Link: [http://oom.lt/FZETEXASHTSS56DFD](http://oom.lt/FZETEXASHTSS56DFD)

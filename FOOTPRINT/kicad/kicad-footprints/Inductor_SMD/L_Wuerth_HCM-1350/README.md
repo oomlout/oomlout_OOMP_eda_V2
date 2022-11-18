@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Wuerth_HCM-1350
 - Hex ID: FZKINLWUERTHHCM135
 - Name: Inductor_SMD : L_Wuerth_HCM-1350
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Wuerth_HCM-1350/
 - Description: Inductor_SMD : L_Wuerth_HCM-1350
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Wuerth_HCM-1350](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Wuerth_HCM-1350)
 - Short Link: [http://oom.lt/FZKINLWUERTHHCM135](http://oom.lt/FZKINLWUERTHHCM135)

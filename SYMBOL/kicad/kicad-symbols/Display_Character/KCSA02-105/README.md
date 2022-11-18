@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Display_Character-KCSA02-105
 - Hex ID: SZKDICHARACTERKCSA215
 - Name: Display_Character : KCSA02-105
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Display_Character/KCSA02-105/
 - Description: Display_Character : KCSA02-105
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-KCSA02-105](http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-KCSA02-105)
 - Short Link: [http://oom.lt/SZKDICHARACTERKCSA215](http://oom.lt/SZKDICHARACTERKCSA215)

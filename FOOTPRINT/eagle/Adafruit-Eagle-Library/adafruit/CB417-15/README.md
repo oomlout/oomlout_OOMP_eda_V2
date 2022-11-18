@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-CB417-15
 - Hex ID: FZACB41715
 - Name: adafruit : CB417-15
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/CB417-15/
 - Description: adafruit : CB417-15
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-CB417-15](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-CB417-15)
 - Short Link: [http://oom.lt/FZACB41715](http://oom.lt/FZACB41715)

@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKBATBATHOLDERMPDBA9VPC1XPP3 > Battery : BatteryHolder_MPD_BA9VPC_1xPP3](#fzkbatbatholdermpdba9vpc1xpp3--battery--batteryholder_mpd_ba9vpc_1xpp3)
+* [FZKBATBATHMPDBA9VPC1XPP3 > Battery : BatteryHolder_MPD_BA9VPC_1xPP3](#fzkbatbathmpdba9vpc1xpp3--battery--batteryholder_mpd_ba9vpc_1xpp3)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKBATBATHOLDERMPDBA9VPC1XPP3 > Battery : BatteryHolder_MPD_BA9VPC_1xPP3
+# FZKBATBATHMPDBA9VPC1XPP3 > Battery : BatteryHolder_MPD_BA9VPC_1xPP3
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Battery-BatteryHolder_MPD_BA9VPC_1xPP3
-- Hex ID: FZKBATBATHOLDERMPDBA9VPC1XPP3
+- Hex ID: FZKBATBATHMPDBA9VPC1XPP3
 - Name: Battery : BatteryHolder_MPD_BA9VPC_1xPP3
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Battery/BatteryHolder_MPD_BA9VPC_1xPP3/
 - Description: Battery : BatteryHolder_MPD_BA9VPC_1xPP3
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Battery-BatteryHolder_MPD_BA9VPC_1xPP3](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Battery-BatteryHolder_MPD_BA9VPC_1xPP3)
-- Short Link: [http://oom.lt/FZKBATBATHOLDERMPDBA9VPC1XPP3](http://oom.lt/FZKBATBATHOLDERMPDBA9VPC1XPP3)
+- Short Link: [http://oom.lt/FZKBATBATHMPDBA9VPC1XPP3](http://oom.lt/FZKBATBATHMPDBA9VPC1XPP3)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Battery|
 |OOMP Index|oompIndex|BatteryHolder_MPD_BA9VPC_1xPP3|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Battery-BatteryHolder_MPD_BA9VPC_1xPP3|
-|Hex ID (short code)|hexID|FZKBATBATHOLDERMPDBA9VPC1XPP3|
+|Hex ID (short code)|hexID|FZKBATBATHMPDBA9VPC1XPP3|
 |name|name|Battery : BatteryHolder_MPD_BA9VPC_1xPP3|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'BatteryHolder_MPD_BA9VPC_1xPP3'</td><td> 'description'</td></tr><tr><td> '1xPP3 (9V) battery holder</td><td> Memory Protection Devices P/N BA9VPC</td><td> http</td></tr><tr><td>//www.memoryprotectiondevices.com/datasheets/BA9VPC-datasheet.pdf'</td><td> 'tags'</td></tr><tr><td> 'PP3 Battery Holder BA9VPC 9V'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Battery.3dshapes/BatteryHolder_MPD_BA9VPC_1xPP3.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'np_thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Display_Character-DE170-XX-XX
 - Hex ID: SZKDICHARACTERDE17XXXX
 - Name: Display_Character : DE170-XX-XX
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Display_Character/DE170-XX-XX/
 - Description: Display_Character : DE170-XX-XX
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-DE170-XX-XX](http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-DE170-XX-XX)
 - Short Link: [http://oom.lt/SZKDICHARACTERDE17XXXX](http://oom.lt/SZKDICHARACTERDE17XXXX)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-microchip-VSOP28-8X13
 - Hex ID: FZEMCHIPVS288X13
 - Name: microchip : VSOP28-8X13
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/microchip/VSOP28-8X13/
 - Description: microchip : VSOP28-8X13
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-microchip-VSOP28-8X13](http://oom.lt/FOOTPRINT-eagle-eagle-default-microchip-VSOP28-8X13)
 - Short Link: [http://oom.lt/FZEMCHIPVS288X13](http://oom.lt/FZEMCHIPVS288X13)

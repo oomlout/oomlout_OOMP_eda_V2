@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Device-R_Network07_Split
 - Hex ID: SZKDEVICERNETWORK7SPLIT
 - Name: Device : R_Network07_Split
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/R_Network07_Split/
 - Description: Device : R_Network07_Split
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-R_Network07_Split](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-R_Network07_Split)
 - Short Link: [http://oom.lt/SZKDEVICERNETWORK7SPLIT](http://oom.lt/SZKDEVICERNETWORK7SPLIT)

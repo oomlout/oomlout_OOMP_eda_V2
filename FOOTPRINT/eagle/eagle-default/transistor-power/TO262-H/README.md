@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-transistor-power-TO262-H
 - Hex ID: FZETRANSISTORPOWERTO262H
 - Name: transistor-power : TO262-H
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/transistor-power/TO262-H/
 - Description: transistor-power : TO262-H
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-power-TO262-H](http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-power-TO262-H)
 - Short Link: [http://oom.lt/FZETRANSISTORPOWERTO262H](http://oom.lt/FZETRANSISTORPOWERTO262H)

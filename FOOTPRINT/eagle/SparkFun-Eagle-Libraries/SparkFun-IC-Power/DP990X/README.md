@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Power-DP990X
 - Hex ID: FZSIPDP99X
 - Name: SparkFun-IC-Power : DP990X
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-IC-Power/DP990X/
 - Description: SparkFun-IC-Power : DP990X
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Power-DP990X](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Power-DP990X)
 - Short Link: [http://oom.lt/FZSIPDP99X](http://oom.lt/FZSIPDP99X)

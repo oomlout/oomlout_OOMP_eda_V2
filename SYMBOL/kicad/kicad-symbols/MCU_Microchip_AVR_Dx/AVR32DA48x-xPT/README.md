@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_AVR_Dx-AVR32DA48x-xPT
 - Hex ID: SZKMCUMCHIPAVRDXAVR32DA48XXPT
 - Name: MCU_Microchip_AVR_Dx : AVR32DA48x-xPT
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_AVR_Dx/AVR32DA48x-xPT/
 - Description: MCU_Microchip_AVR_Dx : AVR32DA48x-xPT
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_AVR_Dx-AVR32DA48x-xPT](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_AVR_Dx-AVR32DA48x-xPT)
 - Short Link: [http://oom.lt/SZKMCUMCHIPAVRDXAVR32DA48XXPT](http://oom.lt/SZKMCUMCHIPAVRDXAVR32DA48XXPT)

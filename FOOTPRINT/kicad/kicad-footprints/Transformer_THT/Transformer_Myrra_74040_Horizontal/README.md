@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Transformer_THT-Transformer_Myrra_74040_Horizontal
 - Hex ID: FZKTRTRMYRRA744H
 - Name: Transformer_THT : Transformer_Myrra_74040_Horizontal
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Transformer_THT/Transformer_Myrra_74040_Horizontal/
 - Description: Transformer_THT : Transformer_Myrra_74040_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Transformer_THT-Transformer_Myrra_74040_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Transformer_THT-Transformer_Myrra_74040_Horizontal)
 - Short Link: [http://oom.lt/FZKTRTRMYRRA744H](http://oom.lt/FZKTRTRMYRRA744H)

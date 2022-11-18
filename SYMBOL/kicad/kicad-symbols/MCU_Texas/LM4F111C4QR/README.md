@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Texas-LM4F111C4QR
 - Hex ID: SZKMCUTEXASLM4F111C4QR
 - Name: MCU_Texas : LM4F111C4QR
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Texas/LM4F111C4QR/
 - Description: MCU_Texas : LM4F111C4QR
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Texas-LM4F111C4QR](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Texas-LM4F111C4QR)
 - Short Link: [http://oom.lt/SZKMCUTEXASLM4F111C4QR](http://oom.lt/SZKMCUTEXASLM4F111C4QR)

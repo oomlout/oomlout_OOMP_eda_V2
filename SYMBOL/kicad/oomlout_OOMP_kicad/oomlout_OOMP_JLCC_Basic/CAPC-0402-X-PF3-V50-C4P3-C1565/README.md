@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0402-X-PF3-V50-C4P3-C1565
 - Hex ID: SZOOMPKJLCCAPC42XPF3V5C4P3C1565
 - Name: oomlout_OOMP_JLCC_Basic : CAPC-0402-X-PF3-V50-C4P3-C1565
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_JLCC_Basic/CAPC-0402-X-PF3-V50-C4P3-C1565/
 - Description: oomlout_OOMP_JLCC_Basic : CAPC-0402-X-PF3-V50-C4P3-C1565
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0402-X-PF3-V50-C4P3-C1565](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0402-X-PF3-V50-C4P3-C1565)
 - Short Link: [http://oom.lt/SZOOMPKJLCCAPC42XPF3V5C4P3C1565](http://oom.lt/SZOOMPKJLCCAPC42XPF3V5C4P3C1565)

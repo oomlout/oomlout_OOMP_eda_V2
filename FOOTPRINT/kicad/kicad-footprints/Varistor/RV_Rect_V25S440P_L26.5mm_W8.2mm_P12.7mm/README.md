@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Varistor-RV_Rect_V25S440P_L26.5mm_W8.2mm_P12.7mm
 - Hex ID: FZKVRVRECTV25S44PL265W82P127
 - Name: Varistor : RV_Rect_V25S440P_L26.5mm_W8.2mm_P12.7mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Varistor/RV_Rect_V25S440P_L26.5mm_W8.2mm_P12.7mm/
 - Description: Varistor : RV_Rect_V25S440P_L26.5mm_W8.2mm_P12.7mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Varistor-RV_Rect_V25S440P_L26.5mm_W8.2mm_P12.7mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Varistor-RV_Rect_V25S440P_L26.5mm_W8.2mm_P12.7mm)
 - Short Link: [http://oom.lt/FZKVRVRECTV25S44PL265W82P127](http://oom.lt/FZKVRVRECTV25S44PL265W82P127)

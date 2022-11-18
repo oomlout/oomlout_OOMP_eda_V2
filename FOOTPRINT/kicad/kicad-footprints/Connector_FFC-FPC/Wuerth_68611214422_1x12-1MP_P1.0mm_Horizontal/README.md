@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_FFC-FPC-Wuerth_68611214422_1x12-1MP_P1.0mm_Horizontal
 - Hex ID: FZKCNFFCFPCWUERTH686112144221X121MPP1H
 - Name: Connector_FFC-FPC : Wuerth_68611214422_1x12-1MP_P1.0mm_Horizontal
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_FFC-FPC/Wuerth_68611214422_1x12-1MP_P1.0mm_Horizontal/
 - Description: Connector_FFC-FPC : Wuerth_68611214422_1x12-1MP_P1.0mm_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_FFC-FPC-Wuerth_68611214422_1x12-1MP_P1.0mm_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_FFC-FPC-Wuerth_68611214422_1x12-1MP_P1.0mm_Horizontal)
 - Short Link: [http://oom.lt/FZKCNFFCFPCWUERTH686112144221X121MPP1H](http://oom.lt/FZKCNFFCFPCWUERTH686112144221X121MPP1H)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Device-LED_Filled
 - Hex ID: SZKDEVICELFILL
 - Name: Device : LED_Filled
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/LED_Filled/
 - Description: Device : LED_Filled
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-LED_Filled](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-LED_Filled)
 - Short Link: [http://oom.lt/SZKDEVICELFILL](http://oom.lt/SZKDEVICELFILL)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Module-A20_OLINUXINO_LIME2
 - Hex ID: FZKMOA2OLINUXINOLIME2
 - Name: Module : A20_OLINUXINO_LIME2
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Module/A20_OLINUXINO_LIME2/
 - Description: Module : A20_OLINUXINO_LIME2
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Module-A20_OLINUXINO_LIME2](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Module-A20_OLINUXINO_LIME2)
 - Short Link: [http://oom.lt/FZKMOA2OLINUXINOLIME2](http://oom.lt/FZKMOA2OLINUXINOLIME2)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-VM1010
 - Hex ID: FZSSPARKFUNSENSVM11
 - Name: SparkFun-Sensors : VM1010
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Sensors/VM1010/
 - Description: SparkFun-Sensors : VM1010
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-VM1010](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-VM1010)
 - Short Link: [http://oom.lt/FZSSPARKFUNSENSVM11](http://oom.lt/FZSSPARKFUNSENSVM11)

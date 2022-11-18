@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Display_7Segment-Sx39-1xxxxx
 - Hex ID: FZKDI7SSX391XXXXX
 - Name: Display_7Segment : Sx39-1xxxxx
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Display_7Segment/Sx39-1xxxxx/
 - Description: Display_7Segment : Sx39-1xxxxx
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Display_7Segment-Sx39-1xxxxx](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Display_7Segment-Sx39-1xxxxx)
 - Short Link: [http://oom.lt/FZKDI7SSX391XXXXX](http://oom.lt/FZKDI7SSX391XXXXX)

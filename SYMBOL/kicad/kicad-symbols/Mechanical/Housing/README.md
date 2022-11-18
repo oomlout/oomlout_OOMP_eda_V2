@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Mechanical-Housing
 - Hex ID: SZKMECHANICALHOUSING
 - Name: Mechanical : Housing
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Mechanical/Housing/
 - Description: Mechanical : Housing
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Mechanical-Housing](http://oom.lt/SYMBOL-kicad-kicad-symbols-Mechanical-Housing)
 - Short Link: [http://oom.lt/SZKMECHANICALHOUSING](http://oom.lt/SZKMECHANICALHOUSING)

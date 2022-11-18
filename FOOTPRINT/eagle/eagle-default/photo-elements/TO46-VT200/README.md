@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-photo-elements-TO46-VT200
 - Hex ID: FZEPHOTOELEMENTSTO46VT2
 - Name: photo-elements : TO46-VT200
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/photo-elements/TO46-VT200/
 - Description: photo-elements : TO46-VT200
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-photo-elements-TO46-VT200](http://oom.lt/FOOTPRINT-eagle-eagle-default-photo-elements-TO46-VT200)
 - Short Link: [http://oom.lt/FZEPHOTOELEMENTSTO46VT2](http://oom.lt/FZEPHOTOELEMENTSTO46VT2)

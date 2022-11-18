@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Motor-Motor_Servo
 - Hex ID: SZKMOTORMOTORSERVO
 - Name: Motor : Motor_Servo
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Motor/Motor_Servo/
 - Description: Motor : Motor_Servo
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Motor-Motor_Servo](http://oom.lt/SYMBOL-kicad-kicad-symbols-Motor-Motor_Servo)
 - Short Link: [http://oom.lt/SZKMOTORMOTORSERVO](http://oom.lt/SZKMOTORMOTORSERVO)

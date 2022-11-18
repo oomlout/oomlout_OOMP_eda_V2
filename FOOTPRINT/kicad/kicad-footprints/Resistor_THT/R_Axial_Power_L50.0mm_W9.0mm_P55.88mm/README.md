@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Resistor_THT-R_Axial_Power_L50.0mm_W9.0mm_P55.88mm
 - Hex ID: FZKRRAXIALPOWERL5W9P5588
 - Name: Resistor_THT : R_Axial_Power_L50.0mm_W9.0mm_P55.88mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Resistor_THT/R_Axial_Power_L50.0mm_W9.0mm_P55.88mm/
 - Description: Resistor_THT : R_Axial_Power_L50.0mm_W9.0mm_P55.88mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Resistor_THT-R_Axial_Power_L50.0mm_W9.0mm_P55.88mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Resistor_THT-R_Axial_Power_L50.0mm_W9.0mm_P55.88mm)
 - Short Link: [http://oom.lt/FZKRRAXIALPOWERL5W9P5588](http://oom.lt/FZKRRAXIALPOWERL5W9P5588)

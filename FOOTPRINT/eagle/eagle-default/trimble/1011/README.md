@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-trimble-1011
 - Hex ID: FZETRIMBLE111
 - Name: trimble : 1011
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/trimble/1011/
 - Description: trimble : 1011
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-trimble-1011](http://oom.lt/FOOTPRINT-eagle-eagle-default-trimble-1011)
 - Short Link: [http://oom.lt/FZETRIMBLE111](http://oom.lt/FZETRIMBLE111)

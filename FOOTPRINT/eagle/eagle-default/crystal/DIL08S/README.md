@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-crystal-DIL08S
 - Hex ID: FZEXDIL8S
 - Name: crystal : DIL08S
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/crystal/DIL08S/
 - Description: crystal : DIL08S
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-crystal-DIL08S](http://oom.lt/FOOTPRINT-eagle-eagle-default-crystal-DIL08S)
 - Short Link: [http://oom.lt/FZEXDIL8S](http://oom.lt/FZEXDIL8S)

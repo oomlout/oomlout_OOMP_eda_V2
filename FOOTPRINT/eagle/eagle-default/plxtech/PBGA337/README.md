@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-plxtech-PBGA337
 - Hex ID: FZEPLXTECHPBGA337
 - Name: plxtech : PBGA337
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/plxtech/PBGA337/
 - Description: plxtech : PBGA337
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-plxtech-PBGA337](http://oom.lt/FOOTPRINT-eagle-eagle-default-plxtech-PBGA337)
 - Short Link: [http://oom.lt/FZEPLXTECHPBGA337](http://oom.lt/FZEPLXTECHPBGA337)

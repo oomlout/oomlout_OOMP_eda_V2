@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Capacitor_Tantalum_SMD-CP_EIA-7260-15_AVX-R
 - Hex ID: FZKCCPEIA72615AVXR
 - Name: Capacitor_Tantalum_SMD : CP_EIA-7260-15_AVX-R
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Capacitor_Tantalum_SMD/CP_EIA-7260-15_AVX-R/
 - Description: Capacitor_Tantalum_SMD : CP_EIA-7260-15_AVX-R
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_Tantalum_SMD-CP_EIA-7260-15_AVX-R](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_Tantalum_SMD-CP_EIA-7260-15_AVX-R)
 - Short Link: [http://oom.lt/FZKCCPEIA72615AVXR](http://oom.lt/FZKCCPEIA72615AVXR)

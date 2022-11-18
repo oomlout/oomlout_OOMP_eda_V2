@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-1X15-CB
 - Hex ID: FZA1X15CB
 - Name: adafruit : 1X15-CB
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/1X15-CB/
 - Description: adafruit : 1X15-CB
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-1X15-CB](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-1X15-CB)
 - Short Link: [http://oom.lt/FZA1X15CB](http://oom.lt/FZA1X15CB)

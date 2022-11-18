@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-RF_Module-E73-2G4M04S
 - Hex ID: FZKRFMOE732G4M4S
 - Name: RF_Module : E73-2G4M04S
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/RF_Module/E73-2G4M04S/
 - Description: RF_Module : E73-2G4M04S
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_Module-E73-2G4M04S](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_Module-E73-2G4M04S)
 - Short Link: [http://oom.lt/FZKRFMOE732G4M4S](http://oom.lt/FZKRFMOE732G4M4S)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Capacitor_Tantalum_SMD-CP_EIA-6032-28_Kemet-C
 - Hex ID: FZKCCPEIA63228KEMETC
 - Name: Capacitor_Tantalum_SMD : CP_EIA-6032-28_Kemet-C
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Capacitor_Tantalum_SMD/CP_EIA-6032-28_Kemet-C/
 - Description: Capacitor_Tantalum_SMD : CP_EIA-6032-28_Kemet-C
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_Tantalum_SMD-CP_EIA-6032-28_Kemet-C](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_Tantalum_SMD-CP_EIA-6032-28_Kemet-C)
 - Short Link: [http://oom.lt/FZKCCPEIA63228KEMETC](http://oom.lt/FZKCCPEIA63228KEMETC)

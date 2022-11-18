@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-smd-ipc-TS-005
 - Hex ID: FZESMIPCTS5
 - Name: smd-ipc : TS-005
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/smd-ipc/TS-005/
 - Description: smd-ipc : TS-005
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-TS-005](http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-TS-005)
 - Short Link: [http://oom.lt/FZESMIPCTS5](http://oom.lt/FZESMIPCTS5)

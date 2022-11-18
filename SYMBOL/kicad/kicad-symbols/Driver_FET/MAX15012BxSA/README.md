@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Driver_FET-MAX15012BxSA
 - Hex ID: SZKDRIVERFETMAX1512BXSA
 - Name: Driver_FET : MAX15012BxSA
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Driver_FET/MAX15012BxSA/
 - Description: Driver_FET : MAX15012BxSA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-MAX15012BxSA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-MAX15012BxSA)
 - Short Link: [http://oom.lt/SZKDRIVERFETMAX1512BXSA](http://oom.lt/SZKDRIVERFETMAX1512BXSA)

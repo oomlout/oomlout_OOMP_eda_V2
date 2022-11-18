@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_Expansion-TCA9554DB
 - Hex ID: SZKINTERFACEEXPANSIONTCA9554DB
 - Name: Interface_Expansion : TCA9554DB
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_Expansion/TCA9554DB/
 - Description: Interface_Expansion : TCA9554DB
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Expansion-TCA9554DB](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Expansion-TCA9554DB)
 - Short Link: [http://oom.lt/SZKINTERFACEEXPANSIONTCA9554DB](http://oom.lt/SZKINTERFACEEXPANSIONTCA9554DB)

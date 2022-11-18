@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Clocks-RESONATOR-SMD-3.2X1.3
 - Hex ID: FZSCLRSM32X13
 - Name: SparkFun-Clocks : RESONATOR-SMD-3.2X1.3
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Clocks/RESONATOR-SMD-3.2X1.3/
 - Description: SparkFun-Clocks : RESONATOR-SMD-3.2X1.3
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Clocks-RESONATOR-SMD-3.2X1.3](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Clocks-RESONATOR-SMD-3.2X1.3)
 - Short Link: [http://oom.lt/FZSCLRSM32X13](http://oom.lt/FZSCLRSM32X13)

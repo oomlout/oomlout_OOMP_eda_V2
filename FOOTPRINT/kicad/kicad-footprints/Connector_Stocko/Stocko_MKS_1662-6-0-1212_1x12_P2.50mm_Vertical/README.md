@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_Stocko-Stocko_MKS_1662-6-0-1212_1x12_P2.50mm_Vertical
 - Hex ID: FZKCNSTOCKOSTOCKOMKS1662612121X12P25F
 - Name: Connector_Stocko : Stocko_MKS_1662-6-0-1212_1x12_P2.50mm_Vertical
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Stocko/Stocko_MKS_1662-6-0-1212_1x12_P2.50mm_Vertical/
 - Description: Connector_Stocko : Stocko_MKS_1662-6-0-1212_1x12_P2.50mm_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Stocko-Stocko_MKS_1662-6-0-1212_1x12_P2.50mm_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Stocko-Stocko_MKS_1662-6-0-1212_1x12_P2.50mm_Vertical)
 - Short Link: [http://oom.lt/FZKCNSTOCKOSTOCKOMKS1662612121X12P25F](http://oom.lt/FZKCNSTOCKOSTOCKOMKS1662612121X12P25F)

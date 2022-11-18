@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-rectifier-DBS
 - Hex ID: FZERECTIFIERDBS
 - Name: rectifier : DBS
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/rectifier/DBS/
 - Description: rectifier : DBS
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-rectifier-DBS](http://oom.lt/FOOTPRINT-eagle-eagle-default-rectifier-DBS)
 - Short Link: [http://oom.lt/FZERECTIFIERDBS](http://oom.lt/FZERECTIFIERDBS)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Audio-AS3320F
 - Hex ID: SZKAUDIOAS332F
 - Name: Audio : AS3320F
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Audio/AS3320F/
 - Description: Audio : AS3320F
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Audio-AS3320F](http://oom.lt/SYMBOL-kicad-kicad-symbols-Audio-AS3320F)
 - Short Link: [http://oom.lt/SZKAUDIOAS332F](http://oom.lt/SZKAUDIOAS332F)

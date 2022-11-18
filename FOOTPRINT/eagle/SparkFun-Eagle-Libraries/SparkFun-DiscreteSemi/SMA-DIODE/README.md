@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-DiscreteSemi-SMA-DIODE
 - Hex ID: FZSDSSDIODE
 - Name: SparkFun-DiscreteSemi : SMA-DIODE
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-DiscreteSemi/SMA-DIODE/
 - Description: SparkFun-DiscreteSemi : SMA-DIODE
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-DiscreteSemi-SMA-DIODE](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-DiscreteSemi-SMA-DIODE)
 - Short Link: [http://oom.lt/FZSDSSDIODE](http://oom.lt/FZSDSSDIODE)

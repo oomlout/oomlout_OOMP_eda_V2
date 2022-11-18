@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Current-AD8202
 - Hex ID: SZKAMPLIFIERCURRENTAD822
 - Name: Amplifier_Current : AD8202
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Current/AD8202/
 - Description: Amplifier_Current : AD8202
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Current-AD8202](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Current-AD8202)
 - Short Link: [http://oom.lt/SZKAMPLIFIERCURRENTAD822](http://oom.lt/SZKAMPLIFIERCURRENTAD822)

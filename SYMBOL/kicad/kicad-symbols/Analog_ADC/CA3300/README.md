@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Analog_ADC-CA3300
 - Hex ID: SZKANALOGADCCA33
 - Name: Analog_ADC : CA3300
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog_ADC/CA3300/
 - Description: Analog_ADC : CA3300
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-CA3300](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-CA3300)
 - Short Link: [http://oom.lt/SZKANALOGADCCA33](http://oom.lt/SZKANALOGADCCA33)

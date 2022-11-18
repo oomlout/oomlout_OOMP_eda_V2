@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_PLCC_2835
 - Hex ID: FZKLLPLCC2835
 - Name: LED_SMD : LED_PLCC_2835
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_PLCC_2835/
 - Description: LED_SMD : LED_PLCC_2835
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_PLCC_2835](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_PLCC_2835)
 - Short Link: [http://oom.lt/FZKLLPLCC2835](http://oom.lt/FZKLLPLCC2835)

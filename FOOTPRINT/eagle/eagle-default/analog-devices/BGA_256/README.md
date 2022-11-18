@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-analog-devices-BGA_256
 - Hex ID: FZEANALOGDEVICESBGA256
 - Name: analog-devices : BGA_256
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/analog-devices/BGA_256/
 - Description: analog-devices : BGA_256
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-analog-devices-BGA_256](http://oom.lt/FOOTPRINT-eagle-eagle-default-analog-devices-BGA_256)
 - Short Link: [http://oom.lt/FZEANALOGDEVICESBGA256](http://oom.lt/FZEANALOGDEVICESBGA256)

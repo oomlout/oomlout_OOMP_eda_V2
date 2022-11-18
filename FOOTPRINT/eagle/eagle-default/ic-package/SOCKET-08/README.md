@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEICPACKAGESO8 > ic-package : SOCKET-08](#fzeicpackageso8--ic-package--socket-08)
+* [FZEICPSO8 > ic-package : SOCKET-08](#fzeicpso8--ic-package--socket-08)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEICPACKAGESO8 > ic-package : SOCKET-08
+# FZEICPSO8 > ic-package : SOCKET-08
 
 - ID: FOOTPRINT-eagle-eagle-default-ic-package-SOCKET-08
-- Hex ID: FZEICPACKAGESO8
+- Hex ID: FZEICPSO8
 - Name: ic-package : SOCKET-08
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ic-package/SOCKET-08/
 - Description: ic-package : SOCKET-08
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ic-package-SOCKET-08](http://oom.lt/FOOTPRINT-eagle-eagle-default-ic-package-SOCKET-08)
-- Short Link: [http://oom.lt/FZEICPACKAGESO8](http://oom.lt/FZEICPACKAGESO8)
+- Short Link: [http://oom.lt/FZEICPSO8](http://oom.lt/FZEICPSO8)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|ic-package|
 |OOMP Index|oompIndex|SOCKET-08|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-ic-package-SOCKET-08|
-|Hex ID (short code)|hexID|FZEICPACKAGESO8|
+|Hex ID (short code)|hexID|FZEICPSO8|
 |name|name|ic-package : SOCKET-08|
 ||||

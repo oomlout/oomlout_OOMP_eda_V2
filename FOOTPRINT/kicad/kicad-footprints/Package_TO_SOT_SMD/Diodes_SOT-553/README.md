@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-Diodes_SOT-553
 - Hex ID: FZKSOTDIODESSOT553
 - Name: Package_TO_SOT_SMD : Diodes_SOT-553
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/Diodes_SOT-553/
 - Description: Package_TO_SOT_SMD : Diodes_SOT-553
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-Diodes_SOT-553](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-Diodes_SOT-553)
 - Short Link: [http://oom.lt/FZKSOTDIODESSOT553](http://oom.lt/FZKSOTDIODESSOT553)

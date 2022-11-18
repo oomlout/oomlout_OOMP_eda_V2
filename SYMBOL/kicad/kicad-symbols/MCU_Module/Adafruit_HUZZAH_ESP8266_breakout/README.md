@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Module-Adafruit_HUZZAH_ESP8266_breakout
 - Hex ID: SZKMCUMOADAHUZZAHESP8266BREAKOUT
 - Name: MCU_Module : Adafruit_HUZZAH_ESP8266_breakout
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Module/Adafruit_HUZZAH_ESP8266_breakout/
 - Description: MCU_Module : Adafruit_HUZZAH_ESP8266_breakout
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Module-Adafruit_HUZZAH_ESP8266_breakout](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Module-Adafruit_HUZZAH_ESP8266_breakout)
 - Short Link: [http://oom.lt/SZKMCUMOADAHUZZAHESP8266BREAKOUT](http://oom.lt/SZKMCUMOADAHUZZAHESP8266BREAKOUT)

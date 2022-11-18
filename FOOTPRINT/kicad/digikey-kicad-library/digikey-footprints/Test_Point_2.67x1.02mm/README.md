@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Test_Point_2.67x1.02mm
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSTESTPOINT267X12
 - Name: digikey-footprints : Test_Point_2.67x1.02mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Test_Point_2.67x1.02mm/
 - Description: digikey-footprints : Test_Point_2.67x1.02mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Test_Point_2.67x1.02mm](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Test_Point_2.67x1.02mm)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSTESTPOINT267X12](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSTESTPOINT267X12)

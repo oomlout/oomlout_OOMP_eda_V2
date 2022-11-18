@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Switches-TACTILE_SWITCH_PTH_6.0MM_KIT
 - Hex ID: FZSWTSWP6K
 - Name: SparkFun-Switches : TACTILE_SWITCH_PTH_6.0MM_KIT
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Switches/TACTILE_SWITCH_PTH_6.0MM_KIT/
 - Description: SparkFun-Switches : TACTILE_SWITCH_PTH_6.0MM_KIT
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Switches-TACTILE_SWITCH_PTH_6.0MM_KIT](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Switches-TACTILE_SWITCH_PTH_6.0MM_KIT)
 - Short Link: [http://oom.lt/FZSWTSWP6K](http://oom.lt/FZSWTSWP6K)

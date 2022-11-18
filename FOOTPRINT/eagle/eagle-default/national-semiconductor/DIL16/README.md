@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-national-semiconductor-DIL16
 - Hex ID: FZENATIONALSEMICONDUCTORDIL16
 - Name: national-semiconductor : DIL16
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/national-semiconductor/DIL16/
 - Description: national-semiconductor : DIL16
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-national-semiconductor-DIL16](http://oom.lt/FOOTPRINT-eagle-eagle-default-national-semiconductor-DIL16)
 - Short Link: [http://oom.lt/FZENATIONALSEMICONDUCTORDIL16](http://oom.lt/FZENATIONALSEMICONDUCTORDIL16)

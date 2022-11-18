@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-micro-philips-DIL16
 - Hex ID: FZEMPHILIPSDIL16
 - Name: micro-philips : DIL16
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/micro-philips/DIL16/
 - Description: micro-philips : DIL16
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-philips-DIL16](http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-philips-DIL16)
 - Short Link: [http://oom.lt/FZEMPHILIPSDIL16](http://oom.lt/FZEMPHILIPSDIL16)

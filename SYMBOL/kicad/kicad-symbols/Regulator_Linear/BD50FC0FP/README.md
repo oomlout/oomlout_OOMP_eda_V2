@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-BD50FC0FP
 - Hex ID: SZKREGULATORLINEARBD5FCFP
 - Name: Regulator_Linear : BD50FC0FP
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/BD50FC0FP/
 - Description: Regulator_Linear : BD50FC0FP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-BD50FC0FP](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-BD50FC0FP)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARBD5FCFP](http://oom.lt/SZKREGULATORLINEARBD5FCFP)

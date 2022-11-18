@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Bourns_SRP1770TA_16.9x16.9mm
 - Hex ID: FZKINLBOURNSSRP177TA169X169
 - Name: Inductor_SMD : L_Bourns_SRP1770TA_16.9x16.9mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Bourns_SRP1770TA_16.9x16.9mm/
 - Description: Inductor_SMD : L_Bourns_SRP1770TA_16.9x16.9mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Bourns_SRP1770TA_16.9x16.9mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Bourns_SRP1770TA_16.9x16.9mm)
 - Short Link: [http://oom.lt/FZKINLBOURNSSRP177TA169X169](http://oom.lt/FZKINLBOURNSSRP177TA169X169)

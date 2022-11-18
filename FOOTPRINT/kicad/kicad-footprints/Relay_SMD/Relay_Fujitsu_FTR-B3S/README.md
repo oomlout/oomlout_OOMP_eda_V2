@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Relay_SMD-Relay_Fujitsu_FTR-B3S
 - Hex ID: FZKRELRELAYFUJITSUFTRB3S
 - Name: Relay_SMD : Relay_Fujitsu_FTR-B3S
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Relay_SMD/Relay_Fujitsu_FTR-B3S/
 - Description: Relay_SMD : Relay_Fujitsu_FTR-B3S
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Relay_SMD-Relay_Fujitsu_FTR-B3S](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Relay_SMD-Relay_Fujitsu_FTR-B3S)
 - Short Link: [http://oom.lt/FZKRELRELAYFUJITSUFTRB3S](http://oom.lt/FZKRELRELAYFUJITSUFTRB3S)

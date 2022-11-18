@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-AP2127K-4.75
 - Hex ID: SZKREGULATORLINEARAP2127K475
 - Name: Regulator_Linear : AP2127K-4.75
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/AP2127K-4.75/
 - Description: Regulator_Linear : AP2127K-4.75
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-AP2127K-4.75](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-AP2127K-4.75)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARAP2127K475](http://oom.lt/SZKREGULATORLINEARAP2127K475)

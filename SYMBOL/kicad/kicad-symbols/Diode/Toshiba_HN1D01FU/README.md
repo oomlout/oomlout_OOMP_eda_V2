@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-Toshiba_HN1D01FU
 - Hex ID: SZKDIODETOSHIBAHN1D1FU
 - Name: Diode : Toshiba_HN1D01FU
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/Toshiba_HN1D01FU/
 - Description: Diode : Toshiba_HN1D01FU
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-Toshiba_HN1D01FU](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-Toshiba_HN1D01FU)
 - Short Link: [http://oom.lt/SZKDIODETOSHIBAHN1D1FU](http://oom.lt/SZKDIODETOSHIBAHN1D1FU)

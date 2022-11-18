@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-rcl-IR-2
 - Hex ID: FZERCLIR2
 - Name: rcl : IR-2
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/rcl/IR-2/
 - Description: rcl : IR-2
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-IR-2](http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-IR-2)
 - Short Link: [http://oom.lt/FZERCLIR2](http://oom.lt/FZERCLIR2)

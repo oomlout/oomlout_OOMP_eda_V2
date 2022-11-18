@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC18-PIC18LF46K80-IML
 - Hex ID: SZKMCUMCHIPPIC18PIC18LF46K8IML
 - Name: MCU_Microchip_PIC18 : PIC18LF46K80-IML
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC18/PIC18LF46K80-IML/
 - Description: MCU_Microchip_PIC18 : PIC18LF46K80-IML
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC18-PIC18LF46K80-IML](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC18-PIC18LF46K80-IML)
 - Short Link: [http://oom.lt/SZKMCUMCHIPPIC18PIC18LF46K8IML](http://oom.lt/SZKMCUMCHIPPIC18PIC18LF46K8IML)

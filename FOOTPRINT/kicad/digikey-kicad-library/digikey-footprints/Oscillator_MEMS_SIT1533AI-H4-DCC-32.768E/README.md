@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Oscillator_MEMS_SIT1533AI-H4-DCC-32.768E
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSOCSMEMSSIT1533AIH4DCC32768E
 - Name: digikey-footprints : Oscillator_MEMS_SIT1533AI-H4-DCC-32.768E
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Oscillator_MEMS_SIT1533AI-H4-DCC-32.768E/
 - Description: digikey-footprints : Oscillator_MEMS_SIT1533AI-H4-DCC-32.768E
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Oscillator_MEMS_SIT1533AI-H4-DCC-32.768E](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Oscillator_MEMS_SIT1533AI-H4-DCC-32.768E)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSOCSMEMSSIT1533AIH4DCC32768E](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSOCSMEMSSIT1533AIH4DCC32768E)

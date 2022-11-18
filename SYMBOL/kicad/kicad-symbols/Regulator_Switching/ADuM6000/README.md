@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-ADuM6000
 - Hex ID: SZKREGULATORSWINGADUM6
 - Name: Regulator_Switching : ADuM6000
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/ADuM6000/
 - Description: Regulator_Switching : ADuM6000
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-ADuM6000](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-ADuM6000)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGADUM6](http://oom.lt/SZKREGULATORSWINGADUM6)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-4xxx_IEEE-40175
 - Hex ID: SZK4XXXIEEE4175
 - Name: 4xxx_IEEE : 40175
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/4xxx_IEEE/40175/
 - Description: 4xxx_IEEE : 40175
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-4xxx_IEEE-40175](http://oom.lt/SYMBOL-kicad-kicad-symbols-4xxx_IEEE-40175)
 - Short Link: [http://oom.lt/SZK4XXXIEEE4175](http://oom.lt/SZK4XXXIEEE4175)

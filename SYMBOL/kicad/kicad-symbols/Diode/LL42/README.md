@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-LL42
 - Hex ID: SZKDIODELL42
 - Name: Diode : LL42
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/LL42/
 - Description: Diode : LL42
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-LL42](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-LL42)
 - Short Link: [http://oom.lt/SZKDIODELL42](http://oom.lt/SZKDIODELL42)

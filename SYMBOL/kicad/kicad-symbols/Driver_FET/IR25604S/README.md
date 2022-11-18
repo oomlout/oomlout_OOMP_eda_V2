@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Driver_FET-IR25604S
 - Hex ID: SZKDRIVERFETIR2564S
 - Name: Driver_FET : IR25604S
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Driver_FET/IR25604S/
 - Description: Driver_FET : IR25604S
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-IR25604S](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-IR25604S)
 - Short Link: [http://oom.lt/SZKDRIVERFETIR2564S](http://oom.lt/SZKDRIVERFETIR2564S)

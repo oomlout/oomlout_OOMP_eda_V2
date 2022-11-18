@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_Hirose-Hirose_DF3EA-09P-2H_1x09-1MP_P2.00mm_Horizontal
 - Hex ID: FZKCNHIROSEHIROSEDF3EA9P2H1X91MPP2H
 - Name: Connector_Hirose : Hirose_DF3EA-09P-2H_1x09-1MP_P2.00mm_Horizontal
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Hirose/Hirose_DF3EA-09P-2H_1x09-1MP_P2.00mm_Horizontal/
 - Description: Connector_Hirose : Hirose_DF3EA-09P-2H_1x09-1MP_P2.00mm_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Hirose-Hirose_DF3EA-09P-2H_1x09-1MP_P2.00mm_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Hirose-Hirose_DF3EA-09P-2H_1x09-1MP_P2.00mm_Horizontal)
 - Short Link: [http://oom.lt/FZKCNHIROSEHIROSEDF3EA9P2H1X91MPP2H](http://oom.lt/FZKCNHIROSEHIROSEDF3EA9P2H1X91MPP2H)

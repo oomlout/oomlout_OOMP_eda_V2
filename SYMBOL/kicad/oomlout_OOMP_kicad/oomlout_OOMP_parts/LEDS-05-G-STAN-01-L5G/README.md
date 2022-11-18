@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-LEDS-05-G-STAN-01-L5G
 - Hex ID: SZOOMPKOOMPPLS5GSTAN1L5G
 - Name: oomlout_OOMP_parts : LEDS-05-G-STAN-01-L5G
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/LEDS-05-G-STAN-01-L5G/
 - Description: oomlout_OOMP_parts : LEDS-05-G-STAN-01-L5G
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-LEDS-05-G-STAN-01-L5G](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-LEDS-05-G-STAN-01-L5G)
 - Short Link: [http://oom.lt/SZOOMPKOOMPPLS5GSTAN1L5G](http://oom.lt/SZOOMPKOOMPPLS5GSTAN1L5G)

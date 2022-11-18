@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Clocks-RV-3028
 - Hex ID: FZSCLRV328
 - Name: SparkFun-Clocks : RV-3028
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Clocks/RV-3028/
 - Description: SparkFun-Clocks : RV-3028
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Clocks-RV-3028](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Clocks-RV-3028)
 - Short Link: [http://oom.lt/FZSCLRV328](http://oom.lt/FZSCLRV328)

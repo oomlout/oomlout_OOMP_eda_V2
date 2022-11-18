@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-pot-RJ9W
 - Hex ID: FZEPOTRJ9W
 - Name: pot : RJ9W
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/pot/RJ9W/
 - Description: pot : RJ9W
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-pot-RJ9W](http://oom.lt/FOOTPRINT-eagle-eagle-default-pot-RJ9W)
 - Short Link: [http://oom.lt/FZEPOTRJ9W](http://oom.lt/FZEPOTRJ9W)

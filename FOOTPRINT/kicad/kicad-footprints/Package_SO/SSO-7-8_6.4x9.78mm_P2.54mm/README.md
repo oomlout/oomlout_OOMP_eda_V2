@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_SO-SSO-7-8_6.4x9.78mm_P2.54mm
 - Hex ID: FZKSOSSO7864X978P254
 - Name: Package_SO : SSO-7-8_6.4x9.78mm_P2.54mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SO/SSO-7-8_6.4x9.78mm_P2.54mm/
 - Description: Package_SO : SSO-7-8_6.4x9.78mm_P2.54mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SO-SSO-7-8_6.4x9.78mm_P2.54mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SO-SSO-7-8_6.4x9.78mm_P2.54mm)
 - Short Link: [http://oom.lt/FZKSOSSO7864X978P254](http://oom.lt/FZKSOSSO7864X978P254)

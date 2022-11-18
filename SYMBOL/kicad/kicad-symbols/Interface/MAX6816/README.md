@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface-MAX6816
 - Hex ID: SZKINTERFACEMAX6816
 - Name: Interface : MAX6816
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface/MAX6816/
 - Description: Interface : MAX6816
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-MAX6816](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-MAX6816)
 - Short Link: [http://oom.lt/SZKINTERFACEMAX6816](http://oom.lt/SZKINTERFACEMAX6816)

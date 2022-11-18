@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKINLMOUNTLODESTONEVTM254 > Inductor_THT : L_Mount_Lodestone_VTM254](#fzkinlmountlodestonevtm254--inductor_tht--l_mount_lodestone_vtm254)
+* [FZKINLMLODESTONEVTM254 > Inductor_THT : L_Mount_Lodestone_VTM254](#fzkinlmlodestonevtm254--inductor_tht--l_mount_lodestone_vtm254)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKINLMOUNTLODESTONEVTM254 > Inductor_THT : L_Mount_Lodestone_VTM254
+# FZKINLMLODESTONEVTM254 > Inductor_THT : L_Mount_Lodestone_VTM254
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Mount_Lodestone_VTM254
-- Hex ID: FZKINLMOUNTLODESTONEVTM254
+- Hex ID: FZKINLMLODESTONEVTM254
 - Name: Inductor_THT : L_Mount_Lodestone_VTM254
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Mount_Lodestone_VTM254/
 - Description: Inductor_THT : L_Mount_Lodestone_VTM254
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Mount_Lodestone_VTM254](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Mount_Lodestone_VTM254)
-- Short Link: [http://oom.lt/FZKINLMOUNTLODESTONEVTM254](http://oom.lt/FZKINLMOUNTLODESTONEVTM254)
+- Short Link: [http://oom.lt/FZKINLMLODESTONEVTM254](http://oom.lt/FZKINLMLODESTONEVTM254)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Inductor_THT|
 |OOMP Index|oompIndex|L_Mount_Lodestone_VTM254|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Mount_Lodestone_VTM254|
-|Hex ID (short code)|hexID|FZKINLMOUNTLODESTONEVTM254|
+|Hex ID (short code)|hexID|FZKINLMLODESTONEVTM254|
 |name|name|Inductor_THT : L_Mount_Lodestone_VTM254|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'L_Mount_Lodestone_VTM254'</td><td> 'description'</td></tr><tr><td> 'Lodestone Pacific</td><td> 64.51mm diameter vertical toroid mount</td><td> 16AWG/1.27mm holes</td><td> http</td></tr><tr><td>//www.lodestonepacific.com/CatKpdf/VTM_Series.pdf'</td><td> 'tags'</td></tr><tr><td> 'vertical inductor toroid mount'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Inductor_THT.3dshapes/L_Mount_Lodestone_VTM254.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||

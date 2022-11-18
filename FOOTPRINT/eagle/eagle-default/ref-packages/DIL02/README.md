@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEREFPACKAGESDIL2 > ref-packages : DIL02](#fzerefpackagesdil2--ref-packages--dil02)
+* [FZEREFPSDIL2 > ref-packages : DIL02](#fzerefpsdil2--ref-packages--dil02)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEREFPACKAGESDIL2 > ref-packages : DIL02
+# FZEREFPSDIL2 > ref-packages : DIL02
 
 - ID: FOOTPRINT-eagle-eagle-default-ref-packages-DIL02
-- Hex ID: FZEREFPACKAGESDIL2
+- Hex ID: FZEREFPSDIL2
 - Name: ref-packages : DIL02
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ref-packages/DIL02/
 - Description: ref-packages : DIL02
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-DIL02](http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-DIL02)
-- Short Link: [http://oom.lt/FZEREFPACKAGESDIL2](http://oom.lt/FZEREFPACKAGESDIL2)
+- Short Link: [http://oom.lt/FZEREFPSDIL2](http://oom.lt/FZEREFPSDIL2)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|ref-packages|
 |OOMP Index|oompIndex|DIL02|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-ref-packages-DIL02|
-|Hex ID (short code)|hexID|FZEREFPACKAGESDIL2|
+|Hex ID (short code)|hexID|FZEREFPSDIL2|
 |name|name|ref-packages : DIL02|
 ||||

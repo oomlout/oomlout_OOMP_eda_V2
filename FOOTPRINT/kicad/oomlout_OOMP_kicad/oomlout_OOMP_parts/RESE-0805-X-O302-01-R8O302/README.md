@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0805-X-O302-01-R8O302
 - Hex ID: FZOOMPKOOMPPRESE85XO321R8O32
 - Name: oomlout_OOMP_parts : RESE-0805-X-O302-01-R8O302
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/RESE-0805-X-O302-01-R8O302/
 - Description: oomlout_OOMP_parts : RESE-0805-X-O302-01-R8O302
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0805-X-O302-01-R8O302](http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0805-X-O302-01-R8O302)
 - Short Link: [http://oom.lt/FZOOMPKOOMPPRESE85XO321R8O32](http://oom.lt/FZOOMPKOOMPPRESE85XO321R8O32)

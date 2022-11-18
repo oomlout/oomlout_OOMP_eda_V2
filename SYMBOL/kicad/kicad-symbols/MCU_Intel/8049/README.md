@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Intel-8049
 - Hex ID: SZKMCUINTEL849
 - Name: MCU_Intel : 8049
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Intel/8049/
 - Description: MCU_Intel : 8049
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Intel-8049](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Intel-8049)
 - Short Link: [http://oom.lt/SZKMCUINTEL849](http://oom.lt/SZKMCUINTEL849)

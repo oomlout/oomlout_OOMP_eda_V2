@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-resistor-dil-4X0402ARV341
 - Hex ID: FZERESISTORDIL4X42ARV341
 - Name: resistor-dil : 4X0402ARV341
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/resistor-dil/4X0402ARV341/
 - Description: resistor-dil : 4X0402ARV341
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-resistor-dil-4X0402ARV341](http://oom.lt/FOOTPRINT-eagle-eagle-default-resistor-dil-4X0402ARV341)
 - Short Link: [http://oom.lt/FZERESISTORDIL4X42ARV341](http://oom.lt/FZERESISTORDIL4X42ARV341)

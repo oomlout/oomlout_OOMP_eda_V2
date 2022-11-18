@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-triac-TO220CSH
 - Hex ID: FZETRIACTO22CSH
 - Name: triac : TO220CSH
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/triac/TO220CSH/
 - Description: triac : TO220CSH
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-triac-TO220CSH](http://oom.lt/FOOTPRINT-eagle-eagle-default-triac-TO220CSH)
 - Short Link: [http://oom.lt/FZETRIACTO22CSH](http://oom.lt/FZETRIACTO22CSH)

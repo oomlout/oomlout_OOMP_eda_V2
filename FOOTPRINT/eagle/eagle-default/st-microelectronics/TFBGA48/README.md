@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-st-microelectronics-TFBGA48
 - Hex ID: FZESTMELECTRONICSTFBGA48
 - Name: st-microelectronics : TFBGA48
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/st-microelectronics/TFBGA48/
 - Description: st-microelectronics : TFBGA48
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-st-microelectronics-TFBGA48](http://oom.lt/FOOTPRINT-eagle-eagle-default-st-microelectronics-TFBGA48)
 - Short Link: [http://oom.lt/FZESTMELECTRONICSTFBGA48](http://oom.lt/FZESTMELECTRONICSTFBGA48)

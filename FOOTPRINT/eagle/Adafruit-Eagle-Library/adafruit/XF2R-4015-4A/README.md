@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-XF2R-4015-4A
 - Hex ID: FZAXF2R4154A
 - Name: adafruit : XF2R-4015-4A
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/XF2R-4015-4A/
 - Description: adafruit : XF2R-4015-4A
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-XF2R-4015-4A](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-XF2R-4015-4A)
 - Short Link: [http://oom.lt/FZAXF2R4154A](http://oom.lt/FZAXF2R4154A)

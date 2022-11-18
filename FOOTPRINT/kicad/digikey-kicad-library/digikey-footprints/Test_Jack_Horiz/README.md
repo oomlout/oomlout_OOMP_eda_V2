@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Test_Jack_Horiz
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSTESTJHORIZ
 - Name: digikey-footprints : Test_Jack_Horiz
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Test_Jack_Horiz/
 - Description: digikey-footprints : Test_Jack_Horiz
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Test_Jack_Horiz](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Test_Jack_Horiz)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSTESTJHORIZ](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSTESTJHORIZ)

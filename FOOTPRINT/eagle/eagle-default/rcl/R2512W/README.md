@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-rcl-R2512W
 - Hex ID: FZERCLR2512W
 - Name: rcl : R2512W
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/rcl/R2512W/
 - Description: rcl : R2512W
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-R2512W](http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-R2512W)
 - Short Link: [http://oom.lt/FZERCLR2512W](http://oom.lt/FZERCLR2512W)

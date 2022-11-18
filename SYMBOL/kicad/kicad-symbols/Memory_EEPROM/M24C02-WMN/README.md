@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Memory_EEPROM-M24C02-WMN
 - Hex ID: SZKMEMORYEEPROMM24C2WMN
 - Name: Memory_EEPROM : M24C02-WMN
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Memory_EEPROM/M24C02-WMN/
 - Description: Memory_EEPROM : M24C02-WMN
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_EEPROM-M24C02-WMN](http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_EEPROM-M24C02-WMN)
 - Short Link: [http://oom.lt/SZKMEMORYEEPROMM24C2WMN](http://oom.lt/SZKMEMORYEEPROMM24C2WMN)

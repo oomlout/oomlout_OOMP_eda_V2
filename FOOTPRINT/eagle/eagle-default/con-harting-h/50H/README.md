@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-harting-h-50H
 - Hex ID: FZECONHARTINGH5H
 - Name: con-harting-h : 50H
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-harting-h/50H/
 - Description: con-harting-h : 50H
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-harting-h-50H](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-harting-h-50H)
 - Short Link: [http://oom.lt/FZECONHARTINGH5H](http://oom.lt/FZECONHARTINGH5H)

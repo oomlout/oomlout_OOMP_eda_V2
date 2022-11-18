@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Device-D_KAK
 - Hex ID: SZKDEVICEDKAK
 - Name: Device : D_KAK
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/D_KAK/
 - Description: Device : D_KAK
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-D_KAK](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-D_KAK)
 - Short Link: [http://oom.lt/SZKDEVICEDKAK](http://oom.lt/SZKDEVICEDKAK)

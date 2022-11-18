@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-1N5406
 - Hex ID: SZKDIODE1N546
 - Name: Diode : 1N5406
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/1N5406/
 - Description: Diode : 1N5406
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-1N5406](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-1N5406)
 - Short Link: [http://oom.lt/SZKDIODE1N546](http://oom.lt/SZKDIODE1N546)

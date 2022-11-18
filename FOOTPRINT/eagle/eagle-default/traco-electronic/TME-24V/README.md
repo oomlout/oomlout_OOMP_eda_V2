@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-traco-electronic-TME-24V
 - Hex ID: FZETRACOELECTRONICTME24V
 - Name: traco-electronic : TME-24V
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/traco-electronic/TME-24V/
 - Description: traco-electronic : TME-24V
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-traco-electronic-TME-24V](http://oom.lt/FOOTPRINT-eagle-eagle-default-traco-electronic-TME-24V)
 - Short Link: [http://oom.lt/FZETRACOELECTRONICTME24V](http://oom.lt/FZETRACOELECTRONICTME24V)

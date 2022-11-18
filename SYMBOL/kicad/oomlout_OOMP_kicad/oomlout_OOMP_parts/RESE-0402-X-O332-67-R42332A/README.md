@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0402-X-O332-67-R42332A
 - Hex ID: SZOOMPKOOMPPRESE42XO33267R42332A
 - Name: oomlout_OOMP_parts : RESE-0402-X-O332-67-R42332A
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/RESE-0402-X-O332-67-R42332A/
 - Description: oomlout_OOMP_parts : RESE-0402-X-O332-67-R42332A
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0402-X-O332-67-R42332A](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0402-X-O332-67-R42332A)
 - Short Link: [http://oom.lt/SZOOMPKOOMPPRESE42XO33267R42332A](http://oom.lt/SZOOMPKOOMPPRESE42XO33267R42332A)

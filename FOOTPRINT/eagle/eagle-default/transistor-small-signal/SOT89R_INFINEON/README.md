@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-transistor-small-signal-SOT89R_INFINEON
 - Hex ID: FZETRANSISTORSLLSIGNALSOT89RINFINEON
 - Name: transistor-small-signal : SOT89R_INFINEON
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/transistor-small-signal/SOT89R_INFINEON/
 - Description: transistor-small-signal : SOT89R_INFINEON
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-small-signal-SOT89R_INFINEON](http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-small-signal-SOT89R_INFINEON)
 - Short Link: [http://oom.lt/FZETRANSISTORSLLSIGNALSOT89RINFINEON](http://oom.lt/FZETRANSISTORSLLSIGNALSOT89RINFINEON)

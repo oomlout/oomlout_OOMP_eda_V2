@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F7-STM32F745IEKx
 - Hex ID: SZKMCUSTSTM32F7STM32F745IEKX
 - Name: MCU_ST_STM32F7 : STM32F745IEKx
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32F7/STM32F745IEKx/
 - Description: MCU_ST_STM32F7 : STM32F745IEKx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F7-STM32F745IEKx](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F7-STM32F745IEKx)
 - Short Link: [http://oom.lt/SZKMCUSTSTM32F7STM32F745IEKX](http://oom.lt/SZKMCUSTSTM32F7STM32F745IEKX)

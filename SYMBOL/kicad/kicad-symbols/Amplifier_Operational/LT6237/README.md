@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LT6237
 - Hex ID: SZKAMPLIFIEROPERATIONALLT6237
 - Name: Amplifier_Operational : LT6237
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/LT6237/
 - Description: Amplifier_Operational : LT6237
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LT6237](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LT6237)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALLT6237](http://oom.lt/SZKAMPLIFIEROPERATIONALLT6237)

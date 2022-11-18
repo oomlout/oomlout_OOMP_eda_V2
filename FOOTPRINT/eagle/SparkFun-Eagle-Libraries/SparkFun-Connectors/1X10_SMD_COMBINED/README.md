@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-1X10_SMD_COMBINED
 - Hex ID: FZSSPARKFUNCNS1X1SMCOMBINED
 - Name: SparkFun-Connectors : 1X10_SMD_COMBINED
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Connectors/1X10_SMD_COMBINED/
 - Description: SparkFun-Connectors : 1X10_SMD_COMBINED
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-1X10_SMD_COMBINED](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-1X10_SMD_COMBINED)
 - Short Link: [http://oom.lt/FZSSPARKFUNCNS1X1SMCOMBINED](http://oom.lt/FZSSPARKFUNCNS1X1SMCOMBINED)

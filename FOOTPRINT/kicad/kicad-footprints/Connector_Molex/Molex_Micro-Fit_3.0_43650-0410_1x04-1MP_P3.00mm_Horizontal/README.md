@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_Micro-Fit_3.0_43650-0410_1x04-1MP_P3.00mm_Horizontal
 - Hex ID: FZKCNMXMXMFIT34365411X41MPP3H
 - Name: Connector_Molex : Molex_Micro-Fit_3.0_43650-0410_1x04-1MP_P3.00mm_Horizontal
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_Micro-Fit_3.0_43650-0410_1x04-1MP_P3.00mm_Horizontal/
 - Description: Connector_Molex : Molex_Micro-Fit_3.0_43650-0410_1x04-1MP_P3.00mm_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_Micro-Fit_3.0_43650-0410_1x04-1MP_P3.00mm_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_Micro-Fit_3.0_43650-0410_1x04-1MP_P3.00mm_Horizontal)
 - Short Link: [http://oom.lt/FZKCNMXMXMFIT34365411X41MPP3H](http://oom.lt/FZKCNMXMXMFIT34365411X41MPP3H)

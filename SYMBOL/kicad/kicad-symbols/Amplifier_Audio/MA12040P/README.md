@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Audio-MA12040P
 - Hex ID: SZKAMPLIFIERAUDIOMA124P
 - Name: Amplifier_Audio : MA12040P
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Audio/MA12040P/
 - Description: Amplifier_Audio : MA12040P
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Audio-MA12040P](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Audio-MA12040P)
 - Short Link: [http://oom.lt/SZKAMPLIFIERAUDIOMA124P](http://oom.lt/SZKAMPLIFIERAUDIOMA124P)

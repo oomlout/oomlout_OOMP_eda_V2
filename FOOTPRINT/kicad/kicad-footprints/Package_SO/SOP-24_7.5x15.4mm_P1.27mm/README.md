@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_SO-SOP-24_7.5x15.4mm_P1.27mm
 - Hex ID: FZKSOS2475X154P127
 - Name: Package_SO : SOP-24_7.5x15.4mm_P1.27mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SO/SOP-24_7.5x15.4mm_P1.27mm/
 - Description: Package_SO : SOP-24_7.5x15.4mm_P1.27mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SO-SOP-24_7.5x15.4mm_P1.27mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SO-SOP-24_7.5x15.4mm_P1.27mm)
 - Short Link: [http://oom.lt/FZKSOS2475X154P127](http://oom.lt/FZKSOS2475X154P127)

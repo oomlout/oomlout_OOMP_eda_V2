@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Isolator-ISO7320FC
 - Hex ID: SZKISOLATORISO732FC
 - Name: Isolator : ISO7320FC
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Isolator/ISO7320FC/
 - Description: Isolator : ISO7320FC
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-ISO7320FC](http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-ISO7320FC)
 - Short Link: [http://oom.lt/SZKISOLATORISO732FC](http://oom.lt/SZKISOLATORISO732FC)

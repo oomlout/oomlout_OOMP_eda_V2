@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Audio-CS4270
 - Hex ID: SZKAUDIOCS427
 - Name: Audio : CS4270
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Audio/CS4270/
 - Description: Audio : CS4270
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Audio-CS4270](http://oom.lt/SYMBOL-kicad-kicad-symbols-Audio-CS4270)
 - Short Link: [http://oom.lt/SZKAUDIOCS427](http://oom.lt/SZKAUDIOCS427)

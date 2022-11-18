@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Jumper_Micro-Miniature_P5.31mm
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSJMMATUREP531
 - Name: digikey-footprints : Jumper_Micro-Miniature_P5.31mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Jumper_Micro-Miniature_P5.31mm/
 - Description: digikey-footprints : Jumper_Micro-Miniature_P5.31mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Jumper_Micro-Miniature_P5.31mm](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Jumper_Micro-Miniature_P5.31mm)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSJMMATUREP531](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSJMMATUREP531)

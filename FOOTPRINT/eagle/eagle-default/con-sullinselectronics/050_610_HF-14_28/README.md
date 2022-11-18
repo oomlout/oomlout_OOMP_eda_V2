@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-sullinselectronics-050_610_HF-14_28
 - Hex ID: FZECONSULLINSELECTRONICS561HF1428
 - Name: con-sullinselectronics : 050_610_HF-14_28
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-sullinselectronics/050_610_HF-14_28/
 - Description: con-sullinselectronics : 050_610_HF-14_28
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-sullinselectronics-050_610_HF-14_28](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-sullinselectronics-050_610_HF-14_28)
 - Short Link: [http://oom.lt/FZECONSULLINSELECTRONICS561HF1428](http://oom.lt/FZECONSULLINSELECTRONICS561HF1428)

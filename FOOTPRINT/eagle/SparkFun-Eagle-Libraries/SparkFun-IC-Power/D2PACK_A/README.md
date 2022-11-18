@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Power-D2PACK_A
 - Hex ID: FZSIPD2PACKA
 - Name: SparkFun-IC-Power : D2PACK_A
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-IC-Power/D2PACK_A/
 - Description: SparkFun-IC-Power : D2PACK_A
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Power-D2PACK_A](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Power-D2PACK_A)
 - Short Link: [http://oom.lt/FZSIPD2PACKA](http://oom.lt/FZSIPD2PACKA)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-APDS-9960
 - Hex ID: FZSSPARKFUNSENSAPDS996
 - Name: SparkFun-Sensors : APDS-9960
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Sensors/APDS-9960/
 - Description: SparkFun-Sensors : APDS-9960
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-APDS-9960](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-APDS-9960)
 - Short Link: [http://oom.lt/FZSSPARKFUNSENSAPDS996](http://oom.lt/FZSSPARKFUNSENSAPDS996)

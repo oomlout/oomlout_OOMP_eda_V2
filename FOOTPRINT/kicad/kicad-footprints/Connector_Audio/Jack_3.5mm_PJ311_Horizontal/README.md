@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_Audio-Jack_3.5mm_PJ311_Horizontal
 - Hex ID: FZKCNAUDIOJ35PJ311H
 - Name: Connector_Audio : Jack_3.5mm_PJ311_Horizontal
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Audio/Jack_3.5mm_PJ311_Horizontal/
 - Description: Connector_Audio : Jack_3.5mm_PJ311_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Audio-Jack_3.5mm_PJ311_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Audio-Jack_3.5mm_PJ311_Horizontal)
 - Short Link: [http://oom.lt/FZKCNAUDIOJ35PJ311H](http://oom.lt/FZKCNAUDIOJ35PJ311H)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Analog_DAC-AD7226BRSZ
 - Hex ID: SZKANALOGDACAD7226BRSZ
 - Name: Analog_DAC : AD7226BRSZ
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog_DAC/AD7226BRSZ/
 - Description: Analog_DAC : AD7226BRSZ
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_DAC-AD7226BRSZ](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_DAC-AD7226BRSZ)
 - Short Link: [http://oom.lt/SZKANALOGDACAD7226BRSZ](http://oom.lt/SZKANALOGDACAD7226BRSZ)

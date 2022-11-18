@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Diode_THT-Diode_Bridge_Vishay_KBL
 - Hex ID: FZKDDIODEBRIDGEVISHAYKBL
 - Name: Diode_THT : Diode_Bridge_Vishay_KBL
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Diode_THT/Diode_Bridge_Vishay_KBL/
 - Description: Diode_THT : Diode_Bridge_Vishay_KBL
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Diode_THT-Diode_Bridge_Vishay_KBL](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Diode_THT-Diode_Bridge_Vishay_KBL)
 - Short Link: [http://oom.lt/FZKDDIODEBRIDGEVISHAYKBL](http://oom.lt/FZKDDIODEBRIDGEVISHAYKBL)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-led-P-LCC-4-2
 - Hex ID: FZELPLCC42
 - Name: led : P-LCC-4-2
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/led/P-LCC-4-2/
 - Description: led : P-LCC-4-2
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-led-P-LCC-4-2](http://oom.lt/FOOTPRINT-eagle-eagle-default-led-P-LCC-4-2)
 - Short Link: [http://oom.lt/FZELPLCC42](http://oom.lt/FZELPLCC42)

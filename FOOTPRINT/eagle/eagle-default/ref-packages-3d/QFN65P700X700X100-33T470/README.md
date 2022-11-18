@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEREFPACKAGES3DQFN65P7X7X133T47 > ref-packages-3d : QFN65P700X700X100-33T470](#fzerefpackages3dqfn65p7x7x133t47--ref-packages-3d--qfn65p700x700x100-33t470)
+* [FZEREFPS3DQFN65P7X7X133T47 > ref-packages-3d : QFN65P700X700X100-33T470](#fzerefps3dqfn65p7x7x133t47--ref-packages-3d--qfn65p700x700x100-33t470)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEREFPACKAGES3DQFN65P7X7X133T47 > ref-packages-3d : QFN65P700X700X100-33T470
+# FZEREFPS3DQFN65P7X7X133T47 > ref-packages-3d : QFN65P700X700X100-33T470
 
 - ID: FOOTPRINT-eagle-eagle-default-ref-packages-3d-QFN65P700X700X100-33T470
-- Hex ID: FZEREFPACKAGES3DQFN65P7X7X133T47
+- Hex ID: FZEREFPS3DQFN65P7X7X133T47
 - Name: ref-packages-3d : QFN65P700X700X100-33T470
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ref-packages-3d/QFN65P700X700X100-33T470/
 - Description: ref-packages-3d : QFN65P700X700X100-33T470
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-3d-QFN65P700X700X100-33T470](http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-3d-QFN65P700X700X100-33T470)
-- Short Link: [http://oom.lt/FZEREFPACKAGES3DQFN65P7X7X133T47](http://oom.lt/FZEREFPACKAGES3DQFN65P7X7X133T47)
+- Short Link: [http://oom.lt/FZEREFPS3DQFN65P7X7X133T47](http://oom.lt/FZEREFPS3DQFN65P7X7X133T47)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|ref-packages-3d|
 |OOMP Index|oompIndex|QFN65P700X700X100-33T470|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-ref-packages-3d-QFN65P700X700X100-33T470|
-|Hex ID (short code)|hexID|FZEREFPACKAGES3DQFN65P7X7X133T47|
+|Hex ID (short code)|hexID|FZEREFPS3DQFN65P7X7X133T47|
 |name|name|ref-packages-3d : QFN65P700X700X100-33T470|
 ||||

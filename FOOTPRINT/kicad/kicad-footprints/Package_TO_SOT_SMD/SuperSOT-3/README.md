@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SuperSOT-3
 - Hex ID: FZKSOTSUPERSOT3
 - Name: Package_TO_SOT_SMD : SuperSOT-3
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/SuperSOT-3/
 - Description: Package_TO_SOT_SMD : SuperSOT-3
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SuperSOT-3](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SuperSOT-3)
 - Short Link: [http://oom.lt/FZKSOTSUPERSOT3](http://oom.lt/FZKSOTSUPERSOT3)

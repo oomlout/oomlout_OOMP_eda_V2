@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Microcontroller-TQFP100
 - Hex ID: FZSIUTQFP1
 - Name: SparkFun-IC-Microcontroller : TQFP100
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-IC-Microcontroller/TQFP100/
 - Description: SparkFun-IC-Microcontroller : TQFP100
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Microcontroller-TQFP100](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Microcontroller-TQFP100)
 - Short Link: [http://oom.lt/FZSIUTQFP1](http://oom.lt/FZSIUTQFP1)

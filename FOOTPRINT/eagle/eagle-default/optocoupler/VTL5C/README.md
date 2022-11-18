@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-optocoupler-VTL5C
 - Hex ID: FZEOPTOCOUPLERVTL5C
 - Name: optocoupler : VTL5C
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/optocoupler/VTL5C/
 - Description: optocoupler : VTL5C
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-optocoupler-VTL5C](http://oom.lt/FOOTPRINT-eagle-eagle-default-optocoupler-VTL5C)
 - Short Link: [http://oom.lt/FZEOPTOCOUPLERVTL5C](http://oom.lt/FZEOPTOCOUPLERVTL5C)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Analog_Switch-ADG419BN
 - Hex ID: SZKANALOGSWADG419BN
 - Name: Analog_Switch : ADG419BN
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog_Switch/ADG419BN/
 - Description: Analog_Switch : ADG419BN
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_Switch-ADG419BN](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_Switch-ADG419BN)
 - Short Link: [http://oom.lt/SZKANALOGSWADG419BN](http://oom.lt/SZKANALOGSWADG419BN)

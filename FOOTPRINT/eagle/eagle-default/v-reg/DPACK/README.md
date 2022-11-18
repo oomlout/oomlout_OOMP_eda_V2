@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-v-reg-DPACK
 - Hex ID: FZEVREGDPACK
 - Name: v-reg : DPACK
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/v-reg/DPACK/
 - Description: v-reg : DPACK
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-v-reg-DPACK](http://oom.lt/FOOTPRINT-eagle-eagle-default-v-reg-DPACK)
 - Short Link: [http://oom.lt/FZEVREGDPACK](http://oom.lt/FZEVREGDPACK)

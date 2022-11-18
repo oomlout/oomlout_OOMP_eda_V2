@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O122-01-R6122
 - Hex ID: SZOOMPKOOMPPRESE63XO1221R6122
 - Name: oomlout_OOMP_parts : RESE-0603-X-O122-01-R6122
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/RESE-0603-X-O122-01-R6122/
 - Description: oomlout_OOMP_parts : RESE-0603-X-O122-01-R6122
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O122-01-R6122](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O122-01-R6122)
 - Short Link: [http://oom.lt/SZOOMPKOOMPPRESE63XO1221R6122](http://oom.lt/SZOOMPKOOMPPRESE63XO1221R6122)

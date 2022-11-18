@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-fuse-KS17
 - Hex ID: FZEFUKS17
 - Name: fuse : KS17
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/fuse/KS17/
 - Description: fuse : KS17
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-fuse-KS17](http://oom.lt/FOOTPRINT-eagle-eagle-default-fuse-KS17)
 - Short Link: [http://oom.lt/FZEFUKS17](http://oom.lt/FZEFUKS17)

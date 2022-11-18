@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-GSM_Module_17.8x16.5mm_A2235-H
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSGSMMO178X165A2235H
 - Name: digikey-footprints : GSM_Module_17.8x16.5mm_A2235-H
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/GSM_Module_17.8x16.5mm_A2235-H/
 - Description: digikey-footprints : GSM_Module_17.8x16.5mm_A2235-H
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-GSM_Module_17.8x16.5mm_A2235-H](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-GSM_Module_17.8x16.5mm_A2235-H)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSGSMMO178X165A2235H](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSGSMMO178X165A2235H)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-panduit-057-016-0
 - Hex ID: FZECONPANDUIT5716
 - Name: con-panduit : 057-016-0
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-panduit/057-016-0/
 - Description: con-panduit : 057-016-0
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-panduit-057-016-0](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-panduit-057-016-0)
 - Short Link: [http://oom.lt/FZECONPANDUIT5716](http://oom.lt/FZECONPANDUIT5716)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Reference_Voltage-LT1461AxS8-4
 - Hex ID: SZKREFERENCEVOLTAGELT1461AXS84
 - Name: Reference_Voltage : LT1461AxS8-4
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Reference_Voltage/LT1461AxS8-4/
 - Description: Reference_Voltage : LT1461AxS8-4
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Voltage-LT1461AxS8-4](http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Voltage-LT1461AxS8-4)
 - Short Link: [http://oom.lt/SZKREFERENCEVOLTAGELT1461AXS84](http://oom.lt/SZKREFERENCEVOLTAGELT1461AXS84)

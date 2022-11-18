@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-analog-devices-AD102
 - Hex ID: FZEANALOGDEVICESAD12
 - Name: analog-devices : AD102
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/analog-devices/AD102/
 - Description: analog-devices : AD102
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-analog-devices-AD102](http://oom.lt/FOOTPRINT-eagle-eagle-default-analog-devices-AD102)
 - Short Link: [http://oom.lt/FZEANALOGDEVICESAD12](http://oom.lt/FZEANALOGDEVICESAD12)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_CommonMode_VAC_T60405-S6123-X140
 - Hex ID: FZKINLCOONMODEVACT645S6123X14
 - Name: Inductor_THT : L_CommonMode_VAC_T60405-S6123-X140
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_CommonMode_VAC_T60405-S6123-X140/
 - Description: Inductor_THT : L_CommonMode_VAC_T60405-S6123-X140
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_CommonMode_VAC_T60405-S6123-X140](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_CommonMode_VAC_T60405-S6123-X140)
 - Short Link: [http://oom.lt/FZKINLCOONMODEVACT645S6123X14](http://oom.lt/FZKINLCOONMODEVACT645S6123X14)

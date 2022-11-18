@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-allegro-SIP4-KT
 - Hex ID: FZEALLEGROSIP4KT
 - Name: allegro : SIP4-KT
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/allegro/SIP4-KT/
 - Description: allegro : SIP4-KT
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-allegro-SIP4-KT](http://oom.lt/FOOTPRINT-eagle-eagle-default-allegro-SIP4-KT)
 - Short Link: [http://oom.lt/FZEALLEGROSIP4KT](http://oom.lt/FZEALLEGROSIP4KT)

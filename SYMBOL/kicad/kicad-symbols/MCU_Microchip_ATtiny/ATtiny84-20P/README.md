@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny84-20P
 - Hex ID: SZKMCUMCHIPATTINYATTINY842P
 - Name: MCU_Microchip_ATtiny : ATtiny84-20P
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_ATtiny/ATtiny84-20P/
 - Description: MCU_Microchip_ATtiny : ATtiny84-20P
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny84-20P](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny84-20P)
 - Short Link: [http://oom.lt/SZKMCUMCHIPATTINYATTINY842P](http://oom.lt/SZKMCUMCHIPATTINYATTINY842P)

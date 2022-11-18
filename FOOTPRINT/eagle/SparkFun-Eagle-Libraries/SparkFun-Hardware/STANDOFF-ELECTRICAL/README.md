@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Hardware-STANDOFF-ELECTRICAL
 - Hex ID: FZSHSTANDOFFELECTRICAL
 - Name: SparkFun-Hardware : STANDOFF-ELECTRICAL
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Hardware/STANDOFF-ELECTRICAL/
 - Description: SparkFun-Hardware : STANDOFF-ELECTRICAL
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Hardware-STANDOFF-ELECTRICAL](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Hardware-STANDOFF-ELECTRICAL)
 - Short Link: [http://oom.lt/FZSHSTANDOFFELECTRICAL](http://oom.lt/FZSHSTANDOFFELECTRICAL)

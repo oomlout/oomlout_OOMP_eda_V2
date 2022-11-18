@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZETESTPADP12 > testpad : P1-20](#fzetestpadp12--testpad--p1-20)
+* [FZETESTPP12 > testpad : P1-20](#fzetestpp12--testpad--p1-20)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZETESTPADP12 > testpad : P1-20
+# FZETESTPP12 > testpad : P1-20
 
 - ID: FOOTPRINT-eagle-eagle-default-testpad-P1-20
-- Hex ID: FZETESTPADP12
+- Hex ID: FZETESTPP12
 - Name: testpad : P1-20
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/testpad/P1-20/
 - Description: testpad : P1-20
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-testpad-P1-20](http://oom.lt/FOOTPRINT-eagle-eagle-default-testpad-P1-20)
-- Short Link: [http://oom.lt/FZETESTPADP12](http://oom.lt/FZETESTPADP12)
+- Short Link: [http://oom.lt/FZETESTPP12](http://oom.lt/FZETESTPP12)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|testpad|
 |OOMP Index|oompIndex|P1-20|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-testpad-P1-20|
-|Hex ID (short code)|hexID|FZETESTPADP12|
+|Hex ID (short code)|hexID|FZETESTPP12|
 |name|name|testpad : P1-20|
 ||||

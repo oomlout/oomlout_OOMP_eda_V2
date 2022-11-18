@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-jack-DCJ0202
 - Hex ID: FZECONJDCJ22
 - Name: con-jack : DCJ0202
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-jack/DCJ0202/
 - Description: con-jack : DCJ0202
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-jack-DCJ0202](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-jack-DCJ0202)
 - Short Link: [http://oom.lt/FZECONJDCJ22](http://oom.lt/FZECONJDCJ22)

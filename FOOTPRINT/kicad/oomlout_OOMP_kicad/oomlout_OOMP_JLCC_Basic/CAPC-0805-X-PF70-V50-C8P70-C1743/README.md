@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0805-X-PF70-V50-C8P70-C1743
 - Hex ID: FZOOMPKJLCCAPC85XPF7V5C8P7C1743
 - Name: oomlout_OOMP_JLCC_Basic : CAPC-0805-X-PF70-V50-C8P70-C1743
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_JLCC_Basic/CAPC-0805-X-PF70-V50-C8P70-C1743/
 - Description: oomlout_OOMP_JLCC_Basic : CAPC-0805-X-PF70-V50-C8P70-C1743
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0805-X-PF70-V50-C8P70-C1743](http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0805-X-PF70-V50-C8P70-C1743)
 - Short Link: [http://oom.lt/FZOOMPKJLCCAPC85XPF7V5C8P7C1743](http://oom.lt/FZOOMPKJLCCAPC85XPF7V5C8P7C1743)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-thomas-betts-H5R37RA
 - Hex ID: FZECONTHOMASBETTSH5R37RA
 - Name: con-thomas-betts : H5R37RA
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-thomas-betts/H5R37RA/
 - Description: con-thomas-betts : H5R37RA
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-thomas-betts-H5R37RA](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-thomas-betts-H5R37RA)
 - Short Link: [http://oom.lt/FZECONTHOMASBETTSH5R37RA](http://oom.lt/FZECONTHOMASBETTSH5R37RA)

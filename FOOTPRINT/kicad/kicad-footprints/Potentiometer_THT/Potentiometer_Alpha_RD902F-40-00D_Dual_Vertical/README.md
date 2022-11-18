@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Potentiometer_THT-Potentiometer_Alpha_RD902F-40-00D_Dual_Vertical
 - Hex ID: FZKPPOTALPHARD92F4DDUALF
 - Name: Potentiometer_THT : Potentiometer_Alpha_RD902F-40-00D_Dual_Vertical
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Potentiometer_THT/Potentiometer_Alpha_RD902F-40-00D_Dual_Vertical/
 - Description: Potentiometer_THT : Potentiometer_Alpha_RD902F-40-00D_Dual_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Potentiometer_THT-Potentiometer_Alpha_RD902F-40-00D_Dual_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Potentiometer_THT-Potentiometer_Alpha_RD902F-40-00D_Dual_Vertical)
 - Short Link: [http://oom.lt/FZKPPOTALPHARD92F4DDUALF](http://oom.lt/FZKPPOTALPHARD92F4DDUALF)

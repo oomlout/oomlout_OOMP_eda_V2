@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-FPGA_Xilinx_Spartan6-XC6SLX45-CSG324
 - Hex ID: SZKFPGAXILINXSPARTAN6XC6SLX45CSG324
 - Name: FPGA_Xilinx_Spartan6 : XC6SLX45-CSG324
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/FPGA_Xilinx_Spartan6/XC6SLX45-CSG324/
 - Description: FPGA_Xilinx_Spartan6 : XC6SLX45-CSG324
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-FPGA_Xilinx_Spartan6-XC6SLX45-CSG324](http://oom.lt/SYMBOL-kicad-kicad-symbols-FPGA_Xilinx_Spartan6-XC6SLX45-CSG324)
 - Short Link: [http://oom.lt/SZKFPGAXILINXSPARTAN6XC6SLX45CSG324](http://oom.lt/SZKFPGAXILINXSPARTAN6XC6SLX45CSG324)

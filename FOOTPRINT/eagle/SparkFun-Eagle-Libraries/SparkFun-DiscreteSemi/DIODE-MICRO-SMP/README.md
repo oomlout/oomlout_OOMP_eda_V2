@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-DiscreteSemi-DIODE-MICRO-SMP
 - Hex ID: FZSDSDIODEMSMP
 - Name: SparkFun-DiscreteSemi : DIODE-MICRO-SMP
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-DiscreteSemi/DIODE-MICRO-SMP/
 - Description: SparkFun-DiscreteSemi : DIODE-MICRO-SMP
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-DiscreteSemi-DIODE-MICRO-SMP](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-DiscreteSemi-DIODE-MICRO-SMP)
 - Short Link: [http://oom.lt/FZSDSDIODEMSMP](http://oom.lt/FZSDSDIODEMSMP)

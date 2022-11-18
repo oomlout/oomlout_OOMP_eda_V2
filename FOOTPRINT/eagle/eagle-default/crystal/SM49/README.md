@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-crystal-SM49
 - Hex ID: FZEXSM49
 - Name: crystal : SM49
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/crystal/SM49/
 - Description: crystal : SM49
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-crystal-SM49](http://oom.lt/FOOTPRINT-eagle-eagle-default-crystal-SM49)
 - Short Link: [http://oom.lt/FZEXSM49](http://oom.lt/FZEXSM49)

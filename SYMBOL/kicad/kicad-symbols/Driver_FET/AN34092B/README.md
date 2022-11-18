@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Driver_FET-AN34092B
 - Hex ID: SZKDRIVERFETAN3492B
 - Name: Driver_FET : AN34092B
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Driver_FET/AN34092B/
 - Description: Driver_FET : AN34092B
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-AN34092B](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-AN34092B)
 - Short Link: [http://oom.lt/SZKDRIVERFETAN3492B](http://oom.lt/SZKDRIVERFETAN3492B)

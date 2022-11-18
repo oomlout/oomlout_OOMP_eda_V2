@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Sensor_Current-Allegro_PSOF-7_4.8x6.4mm_P1.60mm
 - Hex ID: FZKSENCURRENTALLEGROPSOF748X64P16
 - Name: Sensor_Current : Allegro_PSOF-7_4.8x6.4mm_P1.60mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Sensor_Current/Allegro_PSOF-7_4.8x6.4mm_P1.60mm/
 - Description: Sensor_Current : Allegro_PSOF-7_4.8x6.4mm_P1.60mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Sensor_Current-Allegro_PSOF-7_4.8x6.4mm_P1.60mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Sensor_Current-Allegro_PSOF-7_4.8x6.4mm_P1.60mm)
 - Short Link: [http://oom.lt/FZKSENCURRENTALLEGROPSOF748X64P16](http://oom.lt/FZKSENCURRENTALLEGROPSOF748X64P16)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Mini-Circuits_FG873-4_3x3mm
 - Hex ID: FZKDFNMCIRCUITSFG87343X3
 - Name: Package_DFN_QFN : Mini-Circuits_FG873-4_3x3mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/Mini-Circuits_FG873-4_3x3mm/
 - Description: Package_DFN_QFN : Mini-Circuits_FG873-4_3x3mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Mini-Circuits_FG873-4_3x3mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Mini-Circuits_FG873-4_3x3mm)
 - Short Link: [http://oom.lt/FZKDFNMCIRCUITSFG87343X3](http://oom.lt/FZKDFNMCIRCUITSFG87343X3)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Battery_Management-MCP73831-4-OT
 - Hex ID: SZKBATMANAGEMENTMCP738314OT
 - Name: Battery_Management : MCP73831-4-OT
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Battery_Management/MCP73831-4-OT/
 - Description: Battery_Management : MCP73831-4-OT
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Battery_Management-MCP73831-4-OT](http://oom.lt/SYMBOL-kicad-kicad-symbols-Battery_Management-MCP73831-4-OT)
 - Short Link: [http://oom.lt/SZKBATMANAGEMENTMCP738314OT](http://oom.lt/SZKBATMANAGEMENTMCP738314OT)

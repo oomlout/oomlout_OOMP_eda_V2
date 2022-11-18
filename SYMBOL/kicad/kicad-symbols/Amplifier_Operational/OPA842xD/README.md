@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-OPA842xD
 - Hex ID: SZKAMPLIFIEROPERATIONALOPA842XD
 - Name: Amplifier_Operational : OPA842xD
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/OPA842xD/
 - Description: Amplifier_Operational : OPA842xD
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-OPA842xD](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-OPA842xD)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALOPA842XD](http://oom.lt/SZKAMPLIFIEROPERATIONALOPA842XD)

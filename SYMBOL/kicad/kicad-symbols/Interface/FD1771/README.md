@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface-FD1771
 - Hex ID: SZKINTERFACEFD1771
 - Name: Interface : FD1771
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface/FD1771/
 - Description: Interface : FD1771
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-FD1771](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-FD1771)
 - Short Link: [http://oom.lt/SZKINTERFACEFD1771](http://oom.lt/SZKINTERFACEFD1771)

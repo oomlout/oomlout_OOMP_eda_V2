@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-FPGA_Xilinx-XC3030-PC44
 - Hex ID: SZKFPGAXILINXXC33PC44
 - Name: FPGA_Xilinx : XC3030-PC44
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/FPGA_Xilinx/XC3030-PC44/
 - Description: FPGA_Xilinx : XC3030-PC44
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-FPGA_Xilinx-XC3030-PC44](http://oom.lt/SYMBOL-kicad-kicad-symbols-FPGA_Xilinx-XC3030-PC44)
 - Short Link: [http://oom.lt/SZKFPGAXILINXXC33PC44](http://oom.lt/SZKFPGAXILINXXC33PC44)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Controller-UCC3813-0
 - Hex ID: SZKREGULATORCONTROLLERUCC3813
 - Name: Regulator_Controller : UCC3813-0
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Controller/UCC3813-0/
 - Description: Regulator_Controller : UCC3813-0
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Controller-UCC3813-0](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Controller-UCC3813-0)
 - Short Link: [http://oom.lt/SZKREGULATORCONTROLLERUCC3813](http://oom.lt/SZKREGULATORCONTROLLERUCC3813)

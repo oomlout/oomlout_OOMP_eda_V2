@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Potentiometer_Digital-DS1882E
 - Hex ID: SZKPOTDIGITALDS1882E
 - Name: Potentiometer_Digital : DS1882E
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Potentiometer_Digital/DS1882E/
 - Description: Potentiometer_Digital : DS1882E
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Potentiometer_Digital-DS1882E](http://oom.lt/SYMBOL-kicad-kicad-symbols-Potentiometer_Digital-DS1882E)
 - Short Link: [http://oom.lt/SZKPOTDIGITALDS1882E](http://oom.lt/SZKPOTDIGITALDS1882E)

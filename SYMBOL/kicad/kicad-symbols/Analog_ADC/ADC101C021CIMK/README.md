@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Analog_ADC-ADC101C021CIMK
 - Hex ID: SZKANALOGADCADC11C21CIMK
 - Name: Analog_ADC : ADC101C021CIMK
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog_ADC/ADC101C021CIMK/
 - Description: Analog_ADC : ADC101C021CIMK
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-ADC101C021CIMK](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-ADC101C021CIMK)
 - Short Link: [http://oom.lt/SZKANALOGADCADC11C21CIMK](http://oom.lt/SZKANALOGADCADC11C21CIMK)

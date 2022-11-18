@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Display-EA_DOGXL160-7
 - Hex ID: FZKDIEADOGXL167
 - Name: Display : EA_DOGXL160-7
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Display/EA_DOGXL160-7/
 - Description: Display : EA_DOGXL160-7
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Display-EA_DOGXL160-7](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Display-EA_DOGXL160-7)
 - Short Link: [http://oom.lt/FZKDIEADOGXL167](http://oom.lt/FZKDIEADOGXL167)

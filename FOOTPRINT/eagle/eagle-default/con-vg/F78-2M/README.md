@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-vg-F78-2M
 - Hex ID: FZECONVGF782M
 - Name: con-vg : F78-2M
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-vg/F78-2M/
 - Description: con-vg : F78-2M
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-vg-F78-2M](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-vg-F78-2M)
 - Short Link: [http://oom.lt/FZECONVGF782M](http://oom.lt/FZECONVGF782M)

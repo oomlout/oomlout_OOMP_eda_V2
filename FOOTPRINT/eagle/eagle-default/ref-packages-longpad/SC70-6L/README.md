@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEREFPACKAGESLONGPADSC76L > ref-packages-longpad : SC70-6L](#fzerefpackageslongpadsc76l--ref-packages-longpad--sc70-6l)
+* [FZEREFPSLPSC76L > ref-packages-longpad : SC70-6L](#fzerefpslpsc76l--ref-packages-longpad--sc70-6l)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEREFPACKAGESLONGPADSC76L > ref-packages-longpad : SC70-6L
+# FZEREFPSLPSC76L > ref-packages-longpad : SC70-6L
 
 - ID: FOOTPRINT-eagle-eagle-default-ref-packages-longpad-SC70-6L
-- Hex ID: FZEREFPACKAGESLONGPADSC76L
+- Hex ID: FZEREFPSLPSC76L
 - Name: ref-packages-longpad : SC70-6L
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ref-packages-longpad/SC70-6L/
 - Description: ref-packages-longpad : SC70-6L
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-longpad-SC70-6L](http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-longpad-SC70-6L)
-- Short Link: [http://oom.lt/FZEREFPACKAGESLONGPADSC76L](http://oom.lt/FZEREFPACKAGESLONGPADSC76L)
+- Short Link: [http://oom.lt/FZEREFPSLPSC76L](http://oom.lt/FZEREFPSLPSC76L)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|ref-packages-longpad|
 |OOMP Index|oompIndex|SC70-6L|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-ref-packages-longpad-SC70-6L|
-|Hex ID (short code)|hexID|FZEREFPACKAGESLONGPADSC76L|
+|Hex ID (short code)|hexID|FZEREFPSLPSC76L|
 |name|name|ref-packages-longpad : SC70-6L|
 ||||

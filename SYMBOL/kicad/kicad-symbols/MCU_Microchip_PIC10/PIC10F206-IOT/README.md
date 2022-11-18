@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC10-PIC10F206-IOT
 - Hex ID: SZKMCUMCHIPPIC1PIC1F26IOT
 - Name: MCU_Microchip_PIC10 : PIC10F206-IOT
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC10/PIC10F206-IOT/
 - Description: MCU_Microchip_PIC10 : PIC10F206-IOT
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC10-PIC10F206-IOT](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC10-PIC10F206-IOT)
 - Short Link: [http://oom.lt/SZKMCUMCHIPPIC1PIC1F26IOT](http://oom.lt/SZKMCUMCHIPPIC1PIC1F26IOT)

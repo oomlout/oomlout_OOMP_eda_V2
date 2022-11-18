@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Display_Character-DC56-11SEKWA
 - Hex ID: SZKDICHARACTERDC5611SEKWA
 - Name: Display_Character : DC56-11SEKWA
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Display_Character/DC56-11SEKWA/
 - Description: Display_Character : DC56-11SEKWA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-DC56-11SEKWA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-DC56-11SEKWA)
 - Short Link: [http://oom.lt/SZKDICHARACTERDC5611SEKWA](http://oom.lt/SZKDICHARACTERDC5611SEKWA)

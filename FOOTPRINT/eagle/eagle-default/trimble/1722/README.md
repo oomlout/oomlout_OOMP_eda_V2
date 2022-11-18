@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-trimble-1722
 - Hex ID: FZETRIMBLE1722
 - Name: trimble : 1722
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/trimble/1722/
 - Description: trimble : 1722
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-trimble-1722](http://oom.lt/FOOTPRINT-eagle-eagle-default-trimble-1722)
 - Short Link: [http://oom.lt/FZETRIMBLE1722](http://oom.lt/FZETRIMBLE1722)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Controller-UCC3800
 - Hex ID: SZKREGULATORCONTROLLERUCC38
 - Name: Regulator_Controller : UCC3800
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Controller/UCC3800/
 - Description: Regulator_Controller : UCC3800
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Controller-UCC3800](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Controller-UCC3800)
 - Short Link: [http://oom.lt/SZKREGULATORCONTROLLERUCC38](http://oom.lt/SZKREGULATORCONTROLLERUCC38)

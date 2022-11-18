@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_SiliconLabs-EFM8BB10F2G-A-QFN20
 - Hex ID: SZKMCUSILICONLABSEFM8BB1F2GAQFN2
 - Name: MCU_SiliconLabs : EFM8BB10F2G-A-QFN20
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_SiliconLabs/EFM8BB10F2G-A-QFN20/
 - Description: MCU_SiliconLabs : EFM8BB10F2G-A-QFN20
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_SiliconLabs-EFM8BB10F2G-A-QFN20](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_SiliconLabs-EFM8BB10F2G-A-QFN20)
 - Short Link: [http://oom.lt/SZKMCUSILICONLABSEFM8BB1F2GAQFN2](http://oom.lt/SZKMCUSILICONLABSEFM8BB1F2GAQFN2)

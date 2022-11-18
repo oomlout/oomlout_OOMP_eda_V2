@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega649V-8M
 - Hex ID: SZKMCUMCHIPATMEGAATMEGA649V8M
 - Name: MCU_Microchip_ATmega : ATmega649V-8M
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_ATmega/ATmega649V-8M/
 - Description: MCU_Microchip_ATmega : ATmega649V-8M
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega649V-8M](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega649V-8M)
 - Short Link: [http://oom.lt/SZKMCUMCHIPATMEGAATMEGA649V8M](http://oom.lt/SZKMCUMCHIPATMEGAATMEGA649V8M)

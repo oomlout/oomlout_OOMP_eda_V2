@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-LEDS-0603-R-STAN-01-L6R
 - Hex ID: SZOOMPKOOMPPLS63RSTAN1L6R
 - Name: oomlout_OOMP_parts : LEDS-0603-R-STAN-01-L6R
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/LEDS-0603-R-STAN-01-L6R/
 - Description: oomlout_OOMP_parts : LEDS-0603-R-STAN-01-L6R
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-LEDS-0603-R-STAN-01-L6R](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-LEDS-0603-R-STAN-01-L6R)
 - Short Link: [http://oom.lt/SZOOMPKOOMPPLS63RSTAN1L6R](http://oom.lt/SZOOMPKOOMPPLS63RSTAN1L6R)

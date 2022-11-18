@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Transformer_SMD-Transformer_MACOM_SM-22
 - Hex ID: FZKTRTRMACOMSM22
 - Name: Transformer_SMD : Transformer_MACOM_SM-22
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Transformer_SMD/Transformer_MACOM_SM-22/
 - Description: Transformer_SMD : Transformer_MACOM_SM-22
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Transformer_SMD-Transformer_MACOM_SM-22](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Transformer_SMD-Transformer_MACOM_SM-22)
 - Short Link: [http://oom.lt/FZKTRTRMACOMSM22](http://oom.lt/FZKTRTRMACOMSM22)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Hardware-ACTOBOTICS_CHANNEL_9&quot;
 - Hex ID: FZSHACTOBOTICSCHANNEL9&QUOT;
 - Name: SparkFun-Hardware : ACTOBOTICS_CHANNEL_9&quot;
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Hardware/ACTOBOTICS_CHANNEL_9&quot;/
 - Description: SparkFun-Hardware : ACTOBOTICS_CHANNEL_9&quot;
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Hardware-ACTOBOTICS_CHANNEL_9&quot;](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Hardware-ACTOBOTICS_CHANNEL_9&quot;)
 - Short Link: [http://oom.lt/FZSHACTOBOTICSCHANNEL9&QUOT;](http://oom.lt/FZSHACTOBOTICSCHANNEL9&QUOT;)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_RJ-RJ45_Bel_SI-60062-F
 - Hex ID: FZKCNRJRJ45BELSI662F
 - Name: Connector_RJ : RJ45_Bel_SI-60062-F
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_RJ/RJ45_Bel_SI-60062-F/
 - Description: Connector_RJ : RJ45_Bel_SI-60062-F
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_RJ-RJ45_Bel_SI-60062-F](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_RJ-RJ45_Bel_SI-60062-F)
 - Short Link: [http://oom.lt/FZKCNRJRJ45BELSI662F](http://oom.lt/FZKCNRJRJ45BELSI662F)

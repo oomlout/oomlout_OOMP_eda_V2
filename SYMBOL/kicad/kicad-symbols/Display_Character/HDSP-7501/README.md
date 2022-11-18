@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Display_Character-HDSP-7501
 - Hex ID: SZKDICHARACTERHDSP751
 - Name: Display_Character : HDSP-7501
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Display_Character/HDSP-7501/
 - Description: Display_Character : HDSP-7501
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-HDSP-7501](http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-HDSP-7501)
 - Short Link: [http://oom.lt/SZKDICHARACTERHDSP751](http://oom.lt/SZKDICHARACTERHDSP751)

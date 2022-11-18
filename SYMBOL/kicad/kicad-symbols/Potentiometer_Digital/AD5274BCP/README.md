@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Potentiometer_Digital-AD5274BCP
 - Hex ID: SZKPOTDIGITALAD5274BCP
 - Name: Potentiometer_Digital : AD5274BCP
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Potentiometer_Digital/AD5274BCP/
 - Description: Potentiometer_Digital : AD5274BCP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Potentiometer_Digital-AD5274BCP](http://oom.lt/SYMBOL-kicad-kicad-symbols-Potentiometer_Digital-AD5274BCP)
 - Short Link: [http://oom.lt/SZKPOTDIGITALAD5274BCP](http://oom.lt/SZKPOTDIGITALAD5274BCP)

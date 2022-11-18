@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface-AD9910
 - Hex ID: SZKINTERFACEAD991
 - Name: Interface : AD9910
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface/AD9910/
 - Description: Interface : AD9910
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-AD9910](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-AD9910)
 - Short Link: [http://oom.lt/SZKINTERFACEAD991](http://oom.lt/SZKINTERFACEAD991)

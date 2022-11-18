@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-amd-mach-GBA352S
 - Hex ID: FZEAMDMACHGBA352S
 - Name: amd-mach : GBA352S
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/amd-mach/GBA352S/
 - Description: amd-mach : GBA352S
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-amd-mach-GBA352S](http://oom.lt/FOOTPRINT-eagle-eagle-default-amd-mach-GBA352S)
 - Short Link: [http://oom.lt/FZEAMDMACHGBA352S](http://oom.lt/FZEAMDMACHGBA352S)

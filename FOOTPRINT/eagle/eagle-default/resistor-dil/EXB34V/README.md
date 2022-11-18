@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-resistor-dil-EXB34V
 - Hex ID: FZERESISTORDILEXB34V
 - Name: resistor-dil : EXB34V
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/resistor-dil/EXB34V/
 - Description: resistor-dil : EXB34V
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-resistor-dil-EXB34V](http://oom.lt/FOOTPRINT-eagle-eagle-default-resistor-dil-EXB34V)
 - Short Link: [http://oom.lt/FZERESISTORDILEXB34V](http://oom.lt/FZERESISTORDILEXB34V)

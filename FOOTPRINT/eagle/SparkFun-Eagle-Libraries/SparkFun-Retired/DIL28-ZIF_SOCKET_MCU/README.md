@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-DIL28-ZIF_SOCKET_MCU
 - Hex ID: FZSRTDIL28ZIFSOMCU
 - Name: SparkFun-Retired : DIL28-ZIF_SOCKET_MCU
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Retired/DIL28-ZIF_SOCKET_MCU/
 - Description: SparkFun-Retired : DIL28-ZIF_SOCKET_MCU
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-DIL28-ZIF_SOCKET_MCU](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-DIL28-ZIF_SOCKET_MCU)
 - Short Link: [http://oom.lt/FZSRTDIL28ZIFSOMCU](http://oom.lt/FZSRTDIL28ZIFSOMCU)

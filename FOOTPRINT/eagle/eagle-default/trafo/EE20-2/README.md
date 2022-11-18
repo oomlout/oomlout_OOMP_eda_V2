@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-trafo-EE20-2
 - Hex ID: FZETRAFOEE22
 - Name: trafo : EE20-2
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/trafo/EE20-2/
 - Description: trafo : EE20-2
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-trafo-EE20-2](http://oom.lt/FOOTPRINT-eagle-eagle-default-trafo-EE20-2)
 - Short Link: [http://oom.lt/FZETRAFOEE22](http://oom.lt/FZETRAFOEE22)

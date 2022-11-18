@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-TRIM-3386
 - Hex ID: FZATRIM3386
 - Name: adafruit : TRIM-3386
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/TRIM-3386/
 - Description: adafruit : TRIM-3386
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-TRIM-3386](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-TRIM-3386)
 - Short Link: [http://oom.lt/FZATRIM3386](http://oom.lt/FZATRIM3386)

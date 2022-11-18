@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-special-LDH-5R
 - Hex ID: FZESPECIALLDH5R
 - Name: special : LDH-5R
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/special/LDH-5R/
 - Description: special : LDH-5R
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-special-LDH-5R](http://oom.lt/FOOTPRINT-eagle-eagle-default-special-LDH-5R)
 - Short Link: [http://oom.lt/FZESPECIALLDH5R](http://oom.lt/FZESPECIALLDH5R)

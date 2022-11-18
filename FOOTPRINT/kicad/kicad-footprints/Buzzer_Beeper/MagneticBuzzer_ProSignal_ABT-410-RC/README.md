@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Buzzer_Beeper-MagneticBuzzer_ProSignal_ABT-410-RC
 - Hex ID: FZKBZMAGNETICBUZZERPROSIGNALABT41RC
 - Name: Buzzer_Beeper : MagneticBuzzer_ProSignal_ABT-410-RC
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Buzzer_Beeper/MagneticBuzzer_ProSignal_ABT-410-RC/
 - Description: Buzzer_Beeper : MagneticBuzzer_ProSignal_ABT-410-RC
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Buzzer_Beeper-MagneticBuzzer_ProSignal_ABT-410-RC](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Buzzer_Beeper-MagneticBuzzer_ProSignal_ABT-410-RC)
 - Short Link: [http://oom.lt/FZKBZMAGNETICBUZZERPROSIGNALABT41RC](http://oom.lt/FZKBZMAGNETICBUZZERPROSIGNALABT41RC)

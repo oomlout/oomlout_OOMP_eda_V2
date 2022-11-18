@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-5KPxxCA
 - Hex ID: SZKDIODE5KPXXCA
 - Name: Diode : 5KPxxCA
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/5KPxxCA/
 - Description: Diode : 5KPxxCA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-5KPxxCA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-5KPxxCA)
 - Short Link: [http://oom.lt/SZKDIODE5KPXXCA](http://oom.lt/SZKDIODE5KPXXCA)

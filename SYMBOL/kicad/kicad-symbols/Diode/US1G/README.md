@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-US1G
 - Hex ID: SZKDIODEUS1G
 - Name: Diode : US1G
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/US1G/
 - Description: Diode : US1G
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-US1G](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-US1G)
 - Short Link: [http://oom.lt/SZKDIODEUS1G](http://oom.lt/SZKDIODEUS1G)

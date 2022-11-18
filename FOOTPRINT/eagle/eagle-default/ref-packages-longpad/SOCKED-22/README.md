@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEREFPACKAGESLONGPADSOCKED22 > ref-packages-longpad : SOCKED-22](#fzerefpackageslongpadsocked22--ref-packages-longpad--socked-22)
+* [FZEREFPSLPSOCKED22 > ref-packages-longpad : SOCKED-22](#fzerefpslpsocked22--ref-packages-longpad--socked-22)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEREFPACKAGESLONGPADSOCKED22 > ref-packages-longpad : SOCKED-22
+# FZEREFPSLPSOCKED22 > ref-packages-longpad : SOCKED-22
 
 - ID: FOOTPRINT-eagle-eagle-default-ref-packages-longpad-SOCKED-22
-- Hex ID: FZEREFPACKAGESLONGPADSOCKED22
+- Hex ID: FZEREFPSLPSOCKED22
 - Name: ref-packages-longpad : SOCKED-22
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ref-packages-longpad/SOCKED-22/
 - Description: ref-packages-longpad : SOCKED-22
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-longpad-SOCKED-22](http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-longpad-SOCKED-22)
-- Short Link: [http://oom.lt/FZEREFPACKAGESLONGPADSOCKED22](http://oom.lt/FZEREFPACKAGESLONGPADSOCKED22)
+- Short Link: [http://oom.lt/FZEREFPSLPSOCKED22](http://oom.lt/FZEREFPSLPSOCKED22)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|ref-packages-longpad|
 |OOMP Index|oompIndex|SOCKED-22|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-ref-packages-longpad-SOCKED-22|
-|Hex ID (short code)|hexID|FZEREFPACKAGESLONGPADSOCKED22|
+|Hex ID (short code)|hexID|FZEREFPSLPSOCKED22|
 |name|name|ref-packages-longpad : SOCKED-22|
 ||||

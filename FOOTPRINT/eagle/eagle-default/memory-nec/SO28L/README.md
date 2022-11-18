@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-memory-nec-SO28L
 - Hex ID: FZEMEMORYNECSO28L
 - Name: memory-nec : SO28L
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/memory-nec/SO28L/
 - Description: memory-nec : SO28L
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-memory-nec-SO28L](http://oom.lt/FOOTPRINT-eagle-eagle-default-memory-nec-SO28L)
 - Short Link: [http://oom.lt/FZEMEMORYNECSO28L](http://oom.lt/FZEMEMORYNECSO28L)

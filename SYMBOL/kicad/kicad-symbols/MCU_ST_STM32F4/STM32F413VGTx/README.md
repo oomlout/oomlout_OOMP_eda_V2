@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F4-STM32F413VGTx
 - Hex ID: SZKMCUSTSTM32F4STM32F413VGTX
 - Name: MCU_ST_STM32F4 : STM32F413VGTx
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32F4/STM32F413VGTx/
 - Description: MCU_ST_STM32F4 : STM32F413VGTx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F4-STM32F413VGTx](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F4-STM32F413VGTx)
 - Short Link: [http://oom.lt/SZKMCUSTSTM32F4STM32F413VGTX](http://oom.lt/SZKMCUSTSTM32F4STM32F413VGTX)

@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZSRTDIP8MCU > SparkFun-Retired : DIP08_MCU](#fzsrtdip8mcu--sparkfun-retired--dip08_mcu)
+* [FZSRTD8MCU > SparkFun-Retired : DIP08_MCU](#fzsrtd8mcu--sparkfun-retired--dip08_mcu)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZSRTDIP8MCU > SparkFun-Retired : DIP08_MCU
+# FZSRTD8MCU > SparkFun-Retired : DIP08_MCU
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-DIP08_MCU
-- Hex ID: FZSRTDIP8MCU
+- Hex ID: FZSRTD8MCU
 - Name: SparkFun-Retired : DIP08_MCU
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Retired/DIP08_MCU/
 - Description: SparkFun-Retired : DIP08_MCU
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-DIP08_MCU](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-DIP08_MCU)
-- Short Link: [http://oom.lt/FZSRTDIP8MCU](http://oom.lt/FZSRTDIP8MCU)
+- Short Link: [http://oom.lt/FZSRTD8MCU](http://oom.lt/FZSRTD8MCU)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|SparkFun-Retired|
 |OOMP Index|oompIndex|DIP08_MCU|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-DIP08_MCU|
-|Hex ID (short code)|hexID|FZSRTDIP8MCU|
+|Hex ID (short code)|hexID|FZSRTD8MCU|
 |name|name|SparkFun-Retired : DIP08_MCU|
 ||||

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_SOD-110
 - Hex ID: FZKDDSOD11
 - Name: Diode_SMD : D_SOD-110
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Diode_SMD/D_SOD-110/
 - Description: Diode_SMD : D_SOD-110
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_SOD-110](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_SOD-110)
 - Short Link: [http://oom.lt/FZKDDSOD11](http://oom.lt/FZKDDSOD11)

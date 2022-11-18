@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-FPGA_Xilinx_Kintex7-XC7K325T-FFG900
 - Hex ID: SZKFPGAXILINXKINTEX7XC7K325TFFG9
 - Name: FPGA_Xilinx_Kintex7 : XC7K325T-FFG900
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/FPGA_Xilinx_Kintex7/XC7K325T-FFG900/
 - Description: FPGA_Xilinx_Kintex7 : XC7K325T-FFG900
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-FPGA_Xilinx_Kintex7-XC7K325T-FFG900](http://oom.lt/SYMBOL-kicad-kicad-symbols-FPGA_Xilinx_Kintex7-XC7K325T-FFG900)
 - Short Link: [http://oom.lt/SZKFPGAXILINXKINTEX7XC7K325TFFG9](http://oom.lt/SZKFPGAXILINXKINTEX7XC7K325TFFG9)

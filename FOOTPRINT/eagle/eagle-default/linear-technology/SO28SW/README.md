@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-linear-technology-SO28SW
 - Hex ID: FZELINEARTECHNOLOGYSO28SW
 - Name: linear-technology : SO28SW
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/linear-technology/SO28SW/
 - Description: linear-technology : SO28SW
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-linear-technology-SO28SW](http://oom.lt/FOOTPRINT-eagle-eagle-default-linear-technology-SO28SW)
 - Short Link: [http://oom.lt/FZELINEARTECHNOLOGYSO28SW](http://oom.lt/FZELINEARTECHNOLOGYSO28SW)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Isolator-ADuM1201WT
 - Hex ID: SZKISOLATORADUM121WT
 - Name: Isolator : ADuM1201WT
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Isolator/ADuM1201WT/
 - Description: Isolator : ADuM1201WT
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-ADuM1201WT](http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-ADuM1201WT)
 - Short Link: [http://oom.lt/SZKISOLATORADUM121WT](http://oom.lt/SZKISOLATORADUM121WT)

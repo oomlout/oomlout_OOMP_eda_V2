@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-MountingHole-MountingHole_4.3mm_M4
 - Hex ID: FZKHOLHOL43M4
 - Name: MountingHole : MountingHole_4.3mm_M4
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/MountingHole/MountingHole_4.3mm_M4/
 - Description: MountingHole : MountingHole_4.3mm_M4
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-MountingHole-MountingHole_4.3mm_M4](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-MountingHole-MountingHole_4.3mm_M4)
 - Short Link: [http://oom.lt/FZKHOLHOL43M4](http://oom.lt/FZKHOLHOL43M4)

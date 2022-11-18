@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-linear-technology-MSOP12
 - Hex ID: FZELINEARTECHNOLOGYMS12
 - Name: linear-technology : MSOP12
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/linear-technology/MSOP12/
 - Description: linear-technology : MSOP12
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-linear-technology-MSOP12](http://oom.lt/FOOTPRINT-eagle-eagle-default-linear-technology-MSOP12)
 - Short Link: [http://oom.lt/FZELINEARTECHNOLOGYMS12](http://oom.lt/FZELINEARTECHNOLOGYMS12)

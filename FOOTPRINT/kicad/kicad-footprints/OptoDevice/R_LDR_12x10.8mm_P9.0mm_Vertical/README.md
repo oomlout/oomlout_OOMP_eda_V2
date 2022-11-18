@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-OptoDevice-R_LDR_12x10.8mm_P9.0mm_Vertical
 - Hex ID: FZKOPRLDR12X18P9F
 - Name: OptoDevice : R_LDR_12x10.8mm_P9.0mm_Vertical
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/OptoDevice/R_LDR_12x10.8mm_P9.0mm_Vertical/
 - Description: OptoDevice : R_LDR_12x10.8mm_P9.0mm_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-OptoDevice-R_LDR_12x10.8mm_P9.0mm_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-OptoDevice-R_LDR_12x10.8mm_P9.0mm_Vertical)
 - Short Link: [http://oom.lt/FZKOPRLDR12X18P9F](http://oom.lt/FZKOPRLDR12X18P9F)

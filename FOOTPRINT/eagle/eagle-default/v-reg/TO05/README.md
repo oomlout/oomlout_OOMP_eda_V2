@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-v-reg-TO05
 - Hex ID: FZEVREGTO5
 - Name: v-reg : TO05
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/v-reg/TO05/
 - Description: v-reg : TO05
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-v-reg-TO05](http://oom.lt/FOOTPRINT-eagle-eagle-default-v-reg-TO05)
 - Short Link: [http://oom.lt/FZEVREGTO5](http://oom.lt/FZEVREGTO5)

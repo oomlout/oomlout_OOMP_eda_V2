@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Device-Fuse
 - Hex ID: SZKDEVICEFU
 - Name: Device : Fuse
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/Fuse/
 - Description: Device : Fuse
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Fuse](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Fuse)
 - Short Link: [http://oom.lt/SZKDEVICEFU](http://oom.lt/SZKDEVICEFU)

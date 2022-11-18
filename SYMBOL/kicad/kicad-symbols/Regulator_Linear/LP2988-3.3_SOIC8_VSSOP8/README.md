@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-LP2988-3.3_SOIC8_VSSOP8
 - Hex ID: SZKREGULATORLINEARLP298833SOIC8VSS8
 - Name: Regulator_Linear : LP2988-3.3_SOIC8_VSSOP8
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LP2988-3.3_SOIC8_VSSOP8/
 - Description: Regulator_Linear : LP2988-3.3_SOIC8_VSSOP8
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LP2988-3.3_SOIC8_VSSOP8](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LP2988-3.3_SOIC8_VSSOP8)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARLP298833SOIC8VSS8](http://oom.lt/SZKREGULATORLINEARLP298833SOIC8VSS8)

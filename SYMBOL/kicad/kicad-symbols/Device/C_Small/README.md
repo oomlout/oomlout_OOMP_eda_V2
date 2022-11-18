@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Device-C_Small
 - Hex ID: SZKDEVICECSLL
 - Name: Device : C_Small
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/C_Small/
 - Description: Device : C_Small
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-C_Small](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-C_Small)
 - Short Link: [http://oom.lt/SZKDEVICECSLL](http://oom.lt/SZKDEVICECSLL)

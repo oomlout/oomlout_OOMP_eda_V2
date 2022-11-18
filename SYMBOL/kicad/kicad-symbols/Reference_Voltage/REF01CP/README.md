@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Reference_Voltage-REF01CP
 - Hex ID: SZKREFERENCEVOLTAGEREF1CP
 - Name: Reference_Voltage : REF01CP
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Reference_Voltage/REF01CP/
 - Description: Reference_Voltage : REF01CP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Voltage-REF01CP](http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Voltage-REF01CP)
 - Short Link: [http://oom.lt/SZKREFERENCEVOLTAGEREF1CP](http://oom.lt/SZKREFERENCEVOLTAGEREF1CP)

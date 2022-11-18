@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-RF_Module_SPWF01SA.11
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSRFMOSPWF1SA11
 - Name: digikey-footprints : RF_Module_SPWF01SA.11
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/RF_Module_SPWF01SA.11/
 - Description: digikey-footprints : RF_Module_SPWF01SA.11
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-RF_Module_SPWF01SA.11](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-RF_Module_SPWF01SA.11)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSRFMOSPWF1SA11](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSRFMOSPWF1SA11)

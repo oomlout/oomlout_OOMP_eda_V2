@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_TDK_NLV25_2.5x2.0mm
 - Hex ID: FZKINLTDKNLV2525X2
 - Name: Inductor_SMD : L_TDK_NLV25_2.5x2.0mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_TDK_NLV25_2.5x2.0mm/
 - Description: Inductor_SMD : L_TDK_NLV25_2.5x2.0mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_TDK_NLV25_2.5x2.0mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_TDK_NLV25_2.5x2.0mm)
 - Short Link: [http://oom.lt/FZKINLTDKNLV2525X2](http://oom.lt/FZKINLTDKNLV2525X2)

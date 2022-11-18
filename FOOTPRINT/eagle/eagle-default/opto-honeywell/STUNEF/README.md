@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-opto-honeywell-STUNEF
 - Hex ID: FZEOPTOHONEYWELLSTUNEF
 - Name: opto-honeywell : STUNEF
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/opto-honeywell/STUNEF/
 - Description: opto-honeywell : STUNEF
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-opto-honeywell-STUNEF](http://oom.lt/FOOTPRINT-eagle-eagle-default-opto-honeywell-STUNEF)
 - Short Link: [http://oom.lt/FZEOPTOHONEYWELLSTUNEF](http://oom.lt/FZEOPTOHONEYWELLSTUNEF)

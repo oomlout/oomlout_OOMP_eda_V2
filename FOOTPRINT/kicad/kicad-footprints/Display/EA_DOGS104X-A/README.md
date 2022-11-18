@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Display-EA_DOGS104X-A
 - Hex ID: FZKDIEADOGS14XA
 - Name: Display : EA_DOGS104X-A
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Display/EA_DOGS104X-A/
 - Description: Display : EA_DOGS104X-A
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Display-EA_DOGS104X-A](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Display-EA_DOGS104X-A)
 - Short Link: [http://oom.lt/FZKDIEADOGS14XA](http://oom.lt/FZKDIEADOGS14XA)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Converter_ACDC-RAC01-12SGB
 - Hex ID: SZKCONRAC112SGB
 - Name: Converter_ACDC : RAC01-12SGB
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Converter_ACDC/RAC01-12SGB/
 - Description: Converter_ACDC : RAC01-12SGB
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_ACDC-RAC01-12SGB](http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_ACDC-RAC01-12SGB)
 - Short Link: [http://oom.lt/SZKCONRAC112SGB](http://oom.lt/SZKCONRAC112SGB)

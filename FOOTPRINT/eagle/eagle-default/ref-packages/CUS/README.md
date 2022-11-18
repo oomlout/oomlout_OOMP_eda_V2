@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEREFPACKAGESCUS > ref-packages : CUS](#fzerefpackagescus--ref-packages--cus)
+* [FZEREFPSCUS > ref-packages : CUS](#fzerefpscus--ref-packages--cus)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEREFPACKAGESCUS > ref-packages : CUS
+# FZEREFPSCUS > ref-packages : CUS
 
 - ID: FOOTPRINT-eagle-eagle-default-ref-packages-CUS
-- Hex ID: FZEREFPACKAGESCUS
+- Hex ID: FZEREFPSCUS
 - Name: ref-packages : CUS
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ref-packages/CUS/
 - Description: ref-packages : CUS
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-CUS](http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-CUS)
-- Short Link: [http://oom.lt/FZEREFPACKAGESCUS](http://oom.lt/FZEREFPACKAGESCUS)
+- Short Link: [http://oom.lt/FZEREFPSCUS](http://oom.lt/FZEREFPSCUS)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|ref-packages|
 |OOMP Index|oompIndex|CUS|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-ref-packages-CUS|
-|Hex ID (short code)|hexID|FZEREFPACKAGESCUS|
+|Hex ID (short code)|hexID|FZEREFPSCUS|
 |name|name|ref-packages : CUS|
 ||||

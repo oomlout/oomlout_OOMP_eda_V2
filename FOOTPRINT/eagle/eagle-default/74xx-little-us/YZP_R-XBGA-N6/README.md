@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-74xx-little-us-YZP_R-XBGA-N6
 - Hex ID: FZE74XXLITTLEUSYZPRXBGAN6
 - Name: 74xx-little-us : YZP_R-XBGA-N6
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/74xx-little-us/YZP_R-XBGA-N6/
 - Description: 74xx-little-us : YZP_R-XBGA-N6
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-74xx-little-us-YZP_R-XBGA-N6](http://oom.lt/FOOTPRINT-eagle-eagle-default-74xx-little-us-YZP_R-XBGA-N6)
 - Short Link: [http://oom.lt/FZE74XXLITTLEUSYZPRXBGAN6](http://oom.lt/FZE74XXLITTLEUSYZPRXBGAN6)

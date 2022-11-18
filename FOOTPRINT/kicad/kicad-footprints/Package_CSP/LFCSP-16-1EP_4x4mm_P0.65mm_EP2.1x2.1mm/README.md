@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_CSP-LFCSP-16-1EP_4x4mm_P0.65mm_EP2.1x2.1mm
 - Hex ID: FZKCSPLFCSP161EP4X4P65EP21X21
 - Name: Package_CSP : LFCSP-16-1EP_4x4mm_P0.65mm_EP2.1x2.1mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_CSP/LFCSP-16-1EP_4x4mm_P0.65mm_EP2.1x2.1mm/
 - Description: Package_CSP : LFCSP-16-1EP_4x4mm_P0.65mm_EP2.1x2.1mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_CSP-LFCSP-16-1EP_4x4mm_P0.65mm_EP2.1x2.1mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_CSP-LFCSP-16-1EP_4x4mm_P0.65mm_EP2.1x2.1mm)
 - Short Link: [http://oom.lt/FZKCSPLFCSP161EP4X4P65EP21X21](http://oom.lt/FZKCSPLFCSP161EP4X4P65EP21X21)

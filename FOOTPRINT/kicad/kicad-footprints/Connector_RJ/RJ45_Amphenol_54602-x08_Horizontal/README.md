@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_RJ-RJ45_Amphenol_54602-x08_Horizontal
 - Hex ID: FZKCNRJRJ45AMPHENOL5462X8H
 - Name: Connector_RJ : RJ45_Amphenol_54602-x08_Horizontal
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_RJ/RJ45_Amphenol_54602-x08_Horizontal/
 - Description: Connector_RJ : RJ45_Amphenol_54602-x08_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_RJ-RJ45_Amphenol_54602-x08_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_RJ-RJ45_Amphenol_54602-x08_Horizontal)
 - Short Link: [http://oom.lt/FZKCNRJRJ45AMPHENOL5462X8H](http://oom.lt/FZKCNRJRJ45AMPHENOL5462X8H)

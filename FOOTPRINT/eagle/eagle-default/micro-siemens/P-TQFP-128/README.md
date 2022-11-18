@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-micro-siemens-P-TQFP-128
 - Hex ID: FZEMSIEMENSPTQFP128
 - Name: micro-siemens : P-TQFP-128
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/micro-siemens/P-TQFP-128/
 - Description: micro-siemens : P-TQFP-128
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-siemens-P-TQFP-128](http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-siemens-P-TQFP-128)
 - Short Link: [http://oom.lt/FZEMSIEMENSPTQFP128](http://oom.lt/FZEMSIEMENSPTQFP128)

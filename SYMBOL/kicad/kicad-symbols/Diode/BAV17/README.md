@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-BAV17
 - Hex ID: SZKDIODEBAV17
 - Name: Diode : BAV17
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/BAV17/
 - Description: Diode : BAV17
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-BAV17](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-BAV17)
 - Short Link: [http://oom.lt/SZKDIODEBAV17](http://oom.lt/SZKDIODEBAV17)

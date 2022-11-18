@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-LED-SFH4550
 - Hex ID: SZKLSFH455
 - Name: LED : SFH4550
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/LED/SFH4550/
 - Description: LED : SFH4550
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-LED-SFH4550](http://oom.lt/SYMBOL-kicad-kicad-symbols-LED-SFH4550)
 - Short Link: [http://oom.lt/SZKLSFH455](http://oom.lt/SZKLSFH455)

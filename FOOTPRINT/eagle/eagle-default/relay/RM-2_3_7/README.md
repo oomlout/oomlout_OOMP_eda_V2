@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-relay-RM-2_3_7
 - Hex ID: FZERELAYRM237
 - Name: relay : RM-2_3_7
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/relay/RM-2_3_7/
 - Description: relay : RM-2_3_7
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-RM-2_3_7](http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-RM-2_3_7)
 - Short Link: [http://oom.lt/FZERELAYRM237](http://oom.lt/FZERELAYRM237)

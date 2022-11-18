@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-relay-E3206L
 - Hex ID: FZERELAYE326L
 - Name: relay : E3206L
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/relay/E3206L/
 - Description: relay : E3206L
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-E3206L](http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-E3206L)
 - Short Link: [http://oom.lt/FZERELAYE326L](http://oom.lt/FZERELAYE326L)

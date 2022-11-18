@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_1210_3225Metric
 - Hex ID: FZKINL1213225VA
 - Name: Inductor_SMD : L_1210_3225Metric
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_1210_3225Metric/
 - Description: Inductor_SMD : L_1210_3225Metric
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_1210_3225Metric](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_1210_3225Metric)
 - Short Link: [http://oom.lt/FZKINL1213225VA](http://oom.lt/FZKINL1213225VA)

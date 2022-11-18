@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Power_Protection-IP3319CX6
 - Hex ID: SZKPOWERPROTECTIONIP3319CX6
 - Name: Power_Protection : IP3319CX6
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Power_Protection/IP3319CX6/
 - Description: Power_Protection : IP3319CX6
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Protection-IP3319CX6](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Protection-IP3319CX6)
 - Short Link: [http://oom.lt/SZKPOWERPROTECTIONIP3319CX6](http://oom.lt/SZKPOWERPROTECTIONIP3319CX6)

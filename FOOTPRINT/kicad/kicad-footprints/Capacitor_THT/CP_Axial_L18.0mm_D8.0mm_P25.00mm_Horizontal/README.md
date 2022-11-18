@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Capacitor_THT-CP_Axial_L18.0mm_D8.0mm_P25.00mm_Horizontal
 - Hex ID: FZKCCPAXIALL18D8P25H
 - Name: Capacitor_THT : CP_Axial_L18.0mm_D8.0mm_P25.00mm_Horizontal
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Capacitor_THT/CP_Axial_L18.0mm_D8.0mm_P25.00mm_Horizontal/
 - Description: Capacitor_THT : CP_Axial_L18.0mm_D8.0mm_P25.00mm_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_THT-CP_Axial_L18.0mm_D8.0mm_P25.00mm_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_THT-CP_Axial_L18.0mm_D8.0mm_P25.00mm_Horizontal)
 - Short Link: [http://oom.lt/FZKCCPAXIALL18D8P25H](http://oom.lt/FZKCCPAXIALL18D8P25H)

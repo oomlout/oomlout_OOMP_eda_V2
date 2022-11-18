@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Bluetooth_Module_BMD-300
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSBLUETOOTHMOBMD3
 - Name: digikey-footprints : Bluetooth_Module_BMD-300
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Bluetooth_Module_BMD-300/
 - Description: digikey-footprints : Bluetooth_Module_BMD-300
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Bluetooth_Module_BMD-300](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Bluetooth_Module_BMD-300)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSBLUETOOTHMOBMD3](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSBLUETOOTHMOBMD3)

@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEREFPACKAGESMO24 > ref-packages : MO020-40](#fzerefpackagesmo24--ref-packages--mo020-40)
+* [FZEREFPSMO24 > ref-packages : MO020-40](#fzerefpsmo24--ref-packages--mo020-40)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEREFPACKAGESMO24 > ref-packages : MO020-40
+# FZEREFPSMO24 > ref-packages : MO020-40
 
 - ID: FOOTPRINT-eagle-eagle-default-ref-packages-MO020-40
-- Hex ID: FZEREFPACKAGESMO24
+- Hex ID: FZEREFPSMO24
 - Name: ref-packages : MO020-40
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ref-packages/MO020-40/
 - Description: ref-packages : MO020-40
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-MO020-40](http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-MO020-40)
-- Short Link: [http://oom.lt/FZEREFPACKAGESMO24](http://oom.lt/FZEREFPACKAGESMO24)
+- Short Link: [http://oom.lt/FZEREFPSMO24](http://oom.lt/FZEREFPSMO24)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|ref-packages|
 |OOMP Index|oompIndex|MO020-40|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-ref-packages-MO020-40|
-|Hex ID (short code)|hexID|FZEREFPACKAGESMO24|
+|Hex ID (short code)|hexID|FZEREFPSMO24|
 |name|name|ref-packages : MO020-40|
 ||||

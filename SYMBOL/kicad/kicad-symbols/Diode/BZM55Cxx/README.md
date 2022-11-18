@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-BZM55Cxx
 - Hex ID: SZKDIODEBZM55CXX
 - Name: Diode : BZM55Cxx
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/BZM55Cxx/
 - Description: Diode : BZM55Cxx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-BZM55Cxx](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-BZM55Cxx)
 - Short Link: [http://oom.lt/SZKDIODEBZM55CXX](http://oom.lt/SZKDIODEBZM55CXX)

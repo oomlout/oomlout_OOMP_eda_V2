@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-special-7SEG-20
 - Hex ID: FZESPECIAL7SEG2
 - Name: special : 7SEG-20
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/special/7SEG-20/
 - Description: special : 7SEG-20
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-special-7SEG-20](http://oom.lt/FOOTPRINT-eagle-eagle-default-special-7SEG-20)
 - Short Link: [http://oom.lt/FZESPECIAL7SEG2](http://oom.lt/FZESPECIAL7SEG2)

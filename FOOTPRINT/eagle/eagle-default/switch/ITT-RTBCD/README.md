@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-switch-ITT-RTBCD
 - Hex ID: FZESWITTRTBCD
 - Name: switch : ITT-RTBCD
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/switch/ITT-RTBCD/
 - Description: switch : ITT-RTBCD
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-ITT-RTBCD](http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-ITT-RTBCD)
 - Short Link: [http://oom.lt/FZESWITTRTBCD](http://oom.lt/FZESWITTRTBCD)

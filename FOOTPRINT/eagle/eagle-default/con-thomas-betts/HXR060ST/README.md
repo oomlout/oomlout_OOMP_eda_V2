@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-thomas-betts-HXR060ST
 - Hex ID: FZECONTHOMASBETTSHXR6ST
 - Name: con-thomas-betts : HXR060ST
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-thomas-betts/HXR060ST/
 - Description: con-thomas-betts : HXR060ST
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-thomas-betts-HXR060ST](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-thomas-betts-HXR060ST)
 - Short Link: [http://oom.lt/FZECONTHOMASBETTSHXR6ST](http://oom.lt/FZECONTHOMASBETTSHXR6ST)

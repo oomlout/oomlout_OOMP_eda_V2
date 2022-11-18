@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_1020_2550Metric
 - Hex ID: FZKRR12255VA
 - Name: Resistor_SMD : R_1020_2550Metric
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_1020_2550Metric/
 - Description: Resistor_SMD : R_1020_2550Metric
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_1020_2550Metric](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_1020_2550Metric)
 - Short Link: [http://oom.lt/FZKRR12255VA](http://oom.lt/FZKRR12255VA)

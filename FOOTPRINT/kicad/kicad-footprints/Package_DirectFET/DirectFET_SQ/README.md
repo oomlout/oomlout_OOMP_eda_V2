@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_DirectFET-DirectFET_SQ
 - Hex ID: FZKDFETDIRECTFETSQ
 - Name: Package_DirectFET : DirectFET_SQ
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DirectFET/DirectFET_SQ/
 - Description: Package_DirectFET : DirectFET_SQ
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DirectFET-DirectFET_SQ](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DirectFET-DirectFET_SQ)
 - Short Link: [http://oom.lt/FZKDFETDIRECTFETSQ](http://oom.lt/FZKDFETDIRECTFETSQ)

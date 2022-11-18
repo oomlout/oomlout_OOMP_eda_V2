@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKOCSOCSSMABRACONASE4PIN32X25HANDSOLDERING > Oscillator : Oscillator_SMD_Abracon_ASE-4Pin_3.2x2.5mm_HandSoldering](#fzkocsocssmabraconase4pin32x25handsoldering--oscillator--oscillator_smd_abracon_ase-4pin_32x25mm_handsoldering)
+* [FZKOCSOCSSMABRACONASE4P32X25HS > Oscillator : Oscillator_SMD_Abracon_ASE-4Pin_3.2x2.5mm_HandSoldering](#fzkocsocssmabraconase4p32x25hs--oscillator--oscillator_smd_abracon_ase-4pin_32x25mm_handsoldering)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKOCSOCSSMABRACONASE4PIN32X25HANDSOLDERING > Oscillator : Oscillator_SMD_Abracon_ASE-4Pin_3.2x2.5mm_HandSoldering
+# FZKOCSOCSSMABRACONASE4P32X25HS > Oscillator : Oscillator_SMD_Abracon_ASE-4Pin_3.2x2.5mm_HandSoldering
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Oscillator-Oscillator_SMD_Abracon_ASE-4Pin_3.2x2.5mm_HandSoldering
-- Hex ID: FZKOCSOCSSMABRACONASE4PIN32X25HANDSOLDERING
+- Hex ID: FZKOCSOCSSMABRACONASE4P32X25HS
 - Name: Oscillator : Oscillator_SMD_Abracon_ASE-4Pin_3.2x2.5mm_HandSoldering
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Oscillator/Oscillator_SMD_Abracon_ASE-4Pin_3.2x2.5mm_HandSoldering/
 - Description: Oscillator : Oscillator_SMD_Abracon_ASE-4Pin_3.2x2.5mm_HandSoldering
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Oscillator-Oscillator_SMD_Abracon_ASE-4Pin_3.2x2.5mm_HandSoldering](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Oscillator-Oscillator_SMD_Abracon_ASE-4Pin_3.2x2.5mm_HandSoldering)
-- Short Link: [http://oom.lt/FZKOCSOCSSMABRACONASE4PIN32X25HANDSOLDERING](http://oom.lt/FZKOCSOCSSMABRACONASE4PIN32X25HANDSOLDERING)
+- Short Link: [http://oom.lt/FZKOCSOCSSMABRACONASE4P32X25HS](http://oom.lt/FZKOCSOCSSMABRACONASE4P32X25HS)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Oscillator|
 |OOMP Index|oompIndex|Oscillator_SMD_Abracon_ASE-4Pin_3.2x2.5mm_HandSoldering|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Oscillator-Oscillator_SMD_Abracon_ASE-4Pin_3.2x2.5mm_HandSoldering|
-|Hex ID (short code)|hexID|FZKOCSOCSSMABRACONASE4PIN32X25HANDSOLDERING|
+|Hex ID (short code)|hexID|FZKOCSOCSSMABRACONASE4P32X25HS|
 |name|name|Oscillator : Oscillator_SMD_Abracon_ASE-4Pin_3.2x2.5mm_HandSoldering|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Oscillator_SMD_Abracon_ASE-4Pin_3.2x2.5mm_HandSoldering'</td><td> 'description'</td></tr><tr><td> 'Miniature Crystal Clock Oscillator Abracon ASE series</td><td> http</td></tr><tr><td>//www.abracon.com/Oscillators/ASEseries.pdf</td><td> hand-soldering</td><td> 3.2x2.5mm^2 package'</td><td> 'tags'</td></tr><tr><td> 'SMD SMT crystal oscillator hand-soldering'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Oscillator.3dshapes/Oscillator_SMD_Abracon_ASE-4Pin_3.2x2.5mm_HandSoldering.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

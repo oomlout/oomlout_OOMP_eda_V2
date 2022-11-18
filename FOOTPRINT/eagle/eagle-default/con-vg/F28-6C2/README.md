@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-vg-F28-6C2
 - Hex ID: FZECONVGF286C2
 - Name: con-vg : F28-6C2
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-vg/F28-6C2/
 - Description: con-vg : F28-6C2
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-vg-F28-6C2](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-vg-F28-6C2)
 - Short Link: [http://oom.lt/FZECONVGF286C2](http://oom.lt/FZECONVGF286C2)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-molex-679105700
 - Hex ID: FZECONMX679157
 - Name: con-molex : 679105700
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-molex/679105700/
 - Description: con-molex : 679105700
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-molex-679105700](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-molex-679105700)
 - Short Link: [http://oom.lt/FZECONMX679157](http://oom.lt/FZECONMX679157)

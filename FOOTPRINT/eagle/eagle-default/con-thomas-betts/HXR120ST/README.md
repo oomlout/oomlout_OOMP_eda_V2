@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-thomas-betts-HXR120ST
 - Hex ID: FZECONTHOMASBETTSHXR12ST
 - Name: con-thomas-betts : HXR120ST
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-thomas-betts/HXR120ST/
 - Description: con-thomas-betts : HXR120ST
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-thomas-betts-HXR120ST](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-thomas-betts-HXR120ST)
 - Short Link: [http://oom.lt/FZECONTHOMASBETTSHXR12ST](http://oom.lt/FZECONTHOMASBETTSHXR12ST)

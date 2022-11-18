@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega16A-P
 - Hex ID: SZKMCUMCHIPATMEGAATMEGA16AP
 - Name: MCU_Microchip_ATmega : ATmega16A-P
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_ATmega/ATmega16A-P/
 - Description: MCU_Microchip_ATmega : ATmega16A-P
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega16A-P](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega16A-P)
 - Short Link: [http://oom.lt/SZKMCUMCHIPATMEGAATMEGA16AP](http://oom.lt/SZKMCUMCHIPATMEGAATMEGA16AP)

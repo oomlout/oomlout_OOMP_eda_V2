@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-ISL8117FVEZ
 - Hex ID: SZKREGULATORSWINGISL8117FVEZ
 - Name: Regulator_Switching : ISL8117FVEZ
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/ISL8117FVEZ/
 - Description: Regulator_Switching : ISL8117FVEZ
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-ISL8117FVEZ](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-ISL8117FVEZ)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGISL8117FVEZ](http://oom.lt/SZKREGULATORSWINGISL8117FVEZ)

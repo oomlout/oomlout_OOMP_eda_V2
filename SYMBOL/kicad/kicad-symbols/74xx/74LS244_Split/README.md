@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-74xx-74LS244_Split
 - Hex ID: SZK74XX74LS244SPLIT
 - Name: 74xx : 74LS244_Split
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/74xx/74LS244_Split/
 - Description: 74xx : 74LS244_Split
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-74xx-74LS244_Split](http://oom.lt/SYMBOL-kicad-kicad-symbols-74xx-74LS244_Split)
 - Short Link: [http://oom.lt/SZK74XX74LS244SPLIT](http://oom.lt/SZK74XX74LS244SPLIT)

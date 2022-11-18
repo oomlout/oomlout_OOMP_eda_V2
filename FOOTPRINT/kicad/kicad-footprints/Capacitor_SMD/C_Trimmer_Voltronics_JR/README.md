@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_Trimmer_Voltronics_JR
 - Hex ID: FZKCCTRIERVOLTRONICSJR
 - Name: Capacitor_SMD : C_Trimmer_Voltronics_JR
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Capacitor_SMD/C_Trimmer_Voltronics_JR/
 - Description: Capacitor_SMD : C_Trimmer_Voltronics_JR
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_Trimmer_Voltronics_JR](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_Trimmer_Voltronics_JR)
 - Short Link: [http://oom.lt/FZKCCTRIERVOLTRONICSJR](http://oom.lt/FZKCCTRIERVOLTRONICSJR)

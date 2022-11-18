@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-st-microelectronics-DIL32
 - Hex ID: FZESTMELECTRONICSDIL32
 - Name: st-microelectronics : DIL32
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/st-microelectronics/DIL32/
 - Description: st-microelectronics : DIL32
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-st-microelectronics-DIL32](http://oom.lt/FOOTPRINT-eagle-eagle-default-st-microelectronics-DIL32)
 - Short Link: [http://oom.lt/FZESTMELECTRONICSDIL32](http://oom.lt/FZESTMELECTRONICSDIL32)

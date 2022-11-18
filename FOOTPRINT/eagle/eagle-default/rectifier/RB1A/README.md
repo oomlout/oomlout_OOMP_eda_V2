@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-rectifier-RB1A
 - Hex ID: FZERECTIFIERRB1A
 - Name: rectifier : RB1A
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/rectifier/RB1A/
 - Description: rectifier : RB1A
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-rectifier-RB1A](http://oom.lt/FOOTPRINT-eagle-eagle-default-rectifier-RB1A)
 - Short Link: [http://oom.lt/FZERECTIFIERRB1A](http://oom.lt/FZERECTIFIERRB1A)

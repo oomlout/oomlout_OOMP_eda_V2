@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_SON-HVSON-8-1EP_3x3mm_P0.65mm_EP1.6x2.4mm
 - Hex ID: FZKSONHVSON81EP3X3P65EP16X24
 - Name: Package_SON : HVSON-8-1EP_3x3mm_P0.65mm_EP1.6x2.4mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SON/HVSON-8-1EP_3x3mm_P0.65mm_EP1.6x2.4mm/
 - Description: Package_SON : HVSON-8-1EP_3x3mm_P0.65mm_EP1.6x2.4mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SON-HVSON-8-1EP_3x3mm_P0.65mm_EP1.6x2.4mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SON-HVSON-8-1EP_3x3mm_P0.65mm_EP1.6x2.4mm)
 - Short Link: [http://oom.lt/FZKSONHVSON81EP3X3P65EP16X24](http://oom.lt/FZKSONHVSON81EP3X3P65EP16X24)

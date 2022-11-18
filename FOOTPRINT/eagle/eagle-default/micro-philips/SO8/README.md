@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-micro-philips-SO8
 - Hex ID: FZEMPHILIPSSO8
 - Name: micro-philips : SO8
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/micro-philips/SO8/
 - Description: micro-philips : SO8
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-philips-SO8](http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-philips-SO8)
 - Short Link: [http://oom.lt/FZEMPHILIPSSO8](http://oom.lt/FZEMPHILIPSSO8)

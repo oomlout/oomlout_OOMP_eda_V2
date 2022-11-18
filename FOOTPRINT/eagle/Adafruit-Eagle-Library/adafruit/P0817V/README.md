@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-P0817V
 - Hex ID: FZAP817V
 - Name: adafruit : P0817V
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/P0817V/
 - Description: adafruit : P0817V
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-P0817V](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-P0817V)
 - Short Link: [http://oom.lt/FZAP817V](http://oom.lt/FZAP817V)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-vg-M60-4A1
 - Hex ID: FZECONVGM64A1
 - Name: con-vg : M60-4A1
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-vg/M60-4A1/
 - Description: con-vg : M60-4A1
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-vg-M60-4A1](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-vg-M60-4A1)
 - Short Link: [http://oom.lt/FZECONVGM64A1](http://oom.lt/FZECONVGM64A1)

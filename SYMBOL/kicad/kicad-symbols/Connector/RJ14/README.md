@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Connector-RJ14
 - Hex ID: SZKCNRJ14
 - Name: Connector : RJ14
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector/RJ14/
 - Description: Connector : RJ14
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-RJ14](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-RJ14)
 - Short Link: [http://oom.lt/SZKCNRJ14](http://oom.lt/SZKCNRJ14)

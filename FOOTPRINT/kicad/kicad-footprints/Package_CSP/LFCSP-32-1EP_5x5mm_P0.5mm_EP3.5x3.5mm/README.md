@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_CSP-LFCSP-32-1EP_5x5mm_P0.5mm_EP3.5x3.5mm
 - Hex ID: FZKCSPLFCSP321EP5X5P5EP35X35
 - Name: Package_CSP : LFCSP-32-1EP_5x5mm_P0.5mm_EP3.5x3.5mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_CSP/LFCSP-32-1EP_5x5mm_P0.5mm_EP3.5x3.5mm/
 - Description: Package_CSP : LFCSP-32-1EP_5x5mm_P0.5mm_EP3.5x3.5mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_CSP-LFCSP-32-1EP_5x5mm_P0.5mm_EP3.5x3.5mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_CSP-LFCSP-32-1EP_5x5mm_P0.5mm_EP3.5x3.5mm)
 - Short Link: [http://oom.lt/FZKCSPLFCSP321EP5X5P5EP35X35](http://oom.lt/FZKCSPLFCSP321EP5X5P5EP35X35)

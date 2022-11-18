@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-maxim-TQFN24-EP
 - Hex ID: FZEMAXIMTQFN24EP
 - Name: maxim : TQFN24-EP
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/maxim/TQFN24-EP/
 - Description: maxim : TQFN24-EP
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-maxim-TQFN24-EP](http://oom.lt/FOOTPRINT-eagle-eagle-default-maxim-TQFN24-EP)
 - Short Link: [http://oom.lt/FZEMAXIMTQFN24EP](http://oom.lt/FZEMAXIMTQFN24EP)

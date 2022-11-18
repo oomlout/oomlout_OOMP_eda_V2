@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-relay-FTR-B4C
 - Hex ID: FZERELAYFTRB4C
 - Name: relay : FTR-B4C
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/relay/FTR-B4C/
 - Description: relay : FTR-B4C
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-FTR-B4C](http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-FTR-B4C)
 - Short Link: [http://oom.lt/FZERELAYFTRB4C](http://oom.lt/FZERELAYFTRB4C)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-subd-HDF62H
 - Hex ID: FZECONSUBDHDF62H
 - Name: con-subd : HDF62H
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-subd/HDF62H/
 - Description: con-subd : HDF62H
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-subd-HDF62H](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-subd-HDF62H)
 - Short Link: [http://oom.lt/FZECONSUBDHDF62H](http://oom.lt/FZECONSUBDHDF62H)

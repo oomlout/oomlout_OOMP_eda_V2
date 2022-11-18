@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-1X16_SM_SQ_NOSILK
 - Hex ID: FZSSPARKFUNCNS1X16SMSQNOSILK
 - Name: SparkFun-Connectors : 1X16_SM_SQ_NOSILK
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Connectors/1X16_SM_SQ_NOSILK/
 - Description: SparkFun-Connectors : 1X16_SM_SQ_NOSILK
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-1X16_SM_SQ_NOSILK](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-1X16_SM_SQ_NOSILK)
 - Short Link: [http://oom.lt/FZSSPARKFUNCNS1X16SMSQNOSILK](http://oom.lt/FZSSPARKFUNCNS1X16SMSQNOSILK)

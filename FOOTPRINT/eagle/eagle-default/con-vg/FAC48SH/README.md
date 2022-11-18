@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-vg-FAC48SH
 - Hex ID: FZECONVGFAC48SH
 - Name: con-vg : FAC48SH
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-vg/FAC48SH/
 - Description: con-vg : FAC48SH
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-vg-FAC48SH](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-vg-FAC48SH)
 - Short Link: [http://oom.lt/FZECONVGFAC48SH](http://oom.lt/FZECONVGFAC48SH)

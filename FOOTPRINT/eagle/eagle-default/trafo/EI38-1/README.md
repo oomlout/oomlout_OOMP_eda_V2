@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-trafo-EI38-1
 - Hex ID: FZETRAFOEI381
 - Name: trafo : EI38-1
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/trafo/EI38-1/
 - Description: trafo : EI38-1
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-trafo-EI38-1](http://oom.lt/FOOTPRINT-eagle-eagle-default-trafo-EI38-1)
 - Short Link: [http://oom.lt/FZETRAFOEI381](http://oom.lt/FZETRAFOEI381)

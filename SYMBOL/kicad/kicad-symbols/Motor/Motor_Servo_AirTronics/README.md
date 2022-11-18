@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Motor-Motor_Servo_AirTronics
 - Hex ID: SZKMOTORMOTORSERVOAIRTRONICS
 - Name: Motor : Motor_Servo_AirTronics
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Motor/Motor_Servo_AirTronics/
 - Description: Motor : Motor_Servo_AirTronics
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Motor-Motor_Servo_AirTronics](http://oom.lt/SYMBOL-kicad-kicad-symbols-Motor-Motor_Servo_AirTronics)
 - Short Link: [http://oom.lt/SZKMOTORMOTORSERVOAIRTRONICS](http://oom.lt/SZKMOTORMOTORSERVOAIRTRONICS)

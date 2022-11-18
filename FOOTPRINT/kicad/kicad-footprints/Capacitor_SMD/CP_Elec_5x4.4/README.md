@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-CP_Elec_5x4.4
 - Hex ID: FZKCCPELEC5X44
 - Name: Capacitor_SMD : CP_Elec_5x4.4
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Capacitor_SMD/CP_Elec_5x4.4/
 - Description: Capacitor_SMD : CP_Elec_5x4.4
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-CP_Elec_5x4.4](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-CP_Elec_5x4.4)
 - Short Link: [http://oom.lt/FZKCCPELEC5X44](http://oom.lt/FZKCCPELEC5X44)

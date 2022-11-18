@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Memory_RAM-HM62256BLP
 - Hex ID: SZKMEMORYRAMHM62256BLP
 - Name: Memory_RAM : HM62256BLP
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Memory_RAM/HM62256BLP/
 - Description: Memory_RAM : HM62256BLP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_RAM-HM62256BLP](http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_RAM-HM62256BLP)
 - Short Link: [http://oom.lt/SZKMEMORYRAMHM62256BLP](http://oom.lt/SZKMEMORYRAMHM62256BLP)

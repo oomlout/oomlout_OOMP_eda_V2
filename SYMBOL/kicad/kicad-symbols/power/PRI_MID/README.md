@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-power-PRI_MID
 - Hex ID: SZKPOWERPRIMID
 - Name: power : PRI_MID
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/power/PRI_MID/
 - Description: power : PRI_MID
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-power-PRI_MID](http://oom.lt/SYMBOL-kicad-kicad-symbols-power-PRI_MID)
 - Short Link: [http://oom.lt/SZKPOWERPRIMID](http://oom.lt/SZKPOWERPRIMID)

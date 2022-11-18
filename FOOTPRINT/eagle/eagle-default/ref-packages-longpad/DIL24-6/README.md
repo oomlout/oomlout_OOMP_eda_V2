@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEREFPACKAGESLONGPADDIL246 > ref-packages-longpad : DIL24-6](#fzerefpackageslongpaddil246--ref-packages-longpad--dil24-6)
+* [FZEREFPSLPDIL246 > ref-packages-longpad : DIL24-6](#fzerefpslpdil246--ref-packages-longpad--dil24-6)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEREFPACKAGESLONGPADDIL246 > ref-packages-longpad : DIL24-6
+# FZEREFPSLPDIL246 > ref-packages-longpad : DIL24-6
 
 - ID: FOOTPRINT-eagle-eagle-default-ref-packages-longpad-DIL24-6
-- Hex ID: FZEREFPACKAGESLONGPADDIL246
+- Hex ID: FZEREFPSLPDIL246
 - Name: ref-packages-longpad : DIL24-6
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ref-packages-longpad/DIL24-6/
 - Description: ref-packages-longpad : DIL24-6
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-longpad-DIL24-6](http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-longpad-DIL24-6)
-- Short Link: [http://oom.lt/FZEREFPACKAGESLONGPADDIL246](http://oom.lt/FZEREFPACKAGESLONGPADDIL246)
+- Short Link: [http://oom.lt/FZEREFPSLPDIL246](http://oom.lt/FZEREFPSLPDIL246)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|ref-packages-longpad|
 |OOMP Index|oompIndex|DIL24-6|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-ref-packages-longpad-DIL24-6|
-|Hex ID (short code)|hexID|FZEREFPACKAGESLONGPADDIL246|
+|Hex ID (short code)|hexID|FZEREFPSLPDIL246|
 |name|name|ref-packages-longpad : DIL24-6|
 ||||

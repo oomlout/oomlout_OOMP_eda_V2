@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Diode_THT-D_A-405_P12.70mm_Horizontal
 - Hex ID: FZKDDA45P127H
 - Name: Diode_THT : D_A-405_P12.70mm_Horizontal
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Diode_THT/D_A-405_P12.70mm_Horizontal/
 - Description: Diode_THT : D_A-405_P12.70mm_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Diode_THT-D_A-405_P12.70mm_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Diode_THT-D_A-405_P12.70mm_Horizontal)
 - Short Link: [http://oom.lt/FZKDDA45P127H](http://oom.lt/FZKDDA45P127H)

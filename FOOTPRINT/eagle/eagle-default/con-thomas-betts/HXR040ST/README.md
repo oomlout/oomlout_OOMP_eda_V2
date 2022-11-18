@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-thomas-betts-HXR040ST
 - Hex ID: FZECONTHOMASBETTSHXR4ST
 - Name: con-thomas-betts : HXR040ST
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-thomas-betts/HXR040ST/
 - Description: con-thomas-betts : HXR040ST
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-thomas-betts-HXR040ST](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-thomas-betts-HXR040ST)
 - Short Link: [http://oom.lt/FZECONTHOMASBETTSHXR4ST](http://oom.lt/FZECONTHOMASBETTSHXR4ST)

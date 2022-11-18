@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-543
 - Hex ID: FZKSOTSOT543
 - Name: Package_TO_SOT_SMD : SOT-543
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/SOT-543/
 - Description: Package_TO_SOT_SMD : SOT-543
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-543](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-543)
 - Short Link: [http://oom.lt/FZKSOTSOT543](http://oom.lt/FZKSOTSOT543)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Sagami_CER1242B
 - Hex ID: FZKINLSAGAMICER1242B
 - Name: Inductor_SMD : L_Sagami_CER1242B
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Sagami_CER1242B/
 - Description: Inductor_SMD : L_Sagami_CER1242B
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Sagami_CER1242B](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Sagami_CER1242B)
 - Short Link: [http://oom.lt/FZKINLSAGAMICER1242B](http://oom.lt/FZKINLSAGAMICER1242B)

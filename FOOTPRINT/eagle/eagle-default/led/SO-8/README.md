@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-led-SO-8
 - Hex ID: FZELSO8
 - Name: led : SO-8
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/led/SO-8/
 - Description: led : SO-8
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-led-SO-8](http://oom.lt/FOOTPRINT-eagle-eagle-default-led-SO-8)
 - Short Link: [http://oom.lt/FZELSO8](http://oom.lt/FZELSO8)

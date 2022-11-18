@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-GEIGER_TUBE
 - Hex ID: FZSSPARKFUNSENSGEIGERTUBE
 - Name: SparkFun-Sensors : GEIGER_TUBE
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Sensors/GEIGER_TUBE/
 - Description: SparkFun-Sensors : GEIGER_TUBE
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-GEIGER_TUBE](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-GEIGER_TUBE)
 - Short Link: [http://oom.lt/FZSSPARKFUNSENSGEIGERTUBE](http://oom.lt/FZSSPARKFUNSENSGEIGERTUBE)

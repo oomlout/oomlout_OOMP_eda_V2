@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-LEDS-1515-RGB-K2812-01-L152812
 - Hex ID: SZOOMPKOOMPPLS1515RGBK28121L152812
 - Name: oomlout_OOMP_parts : LEDS-1515-RGB-K2812-01-L152812
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/LEDS-1515-RGB-K2812-01-L152812/
 - Description: oomlout_OOMP_parts : LEDS-1515-RGB-K2812-01-L152812
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-LEDS-1515-RGB-K2812-01-L152812](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-LEDS-1515-RGB-K2812-01-L152812)
 - Short Link: [http://oom.lt/SZOOMPKOOMPPLS1515RGBK28121L152812](http://oom.lt/SZOOMPKOOMPPLS1515RGBK28121L152812)

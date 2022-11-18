@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-C3D10170H
 - Hex ID: SZKDIODEC3D117H
 - Name: Diode : C3D10170H
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/C3D10170H/
 - Description: Diode : C3D10170H
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-C3D10170H](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-C3D10170H)
 - Short Link: [http://oom.lt/SZKDIODEC3D117H](http://oom.lt/SZKDIODEC3D117H)

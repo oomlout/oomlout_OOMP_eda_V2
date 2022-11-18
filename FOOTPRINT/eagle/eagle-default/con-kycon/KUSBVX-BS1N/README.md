@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-kycon-KUSBVX-BS1N
 - Hex ID: FZECONKYCONKUVXBS1N
 - Name: con-kycon : KUSBVX-BS1N
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-kycon/KUSBVX-BS1N/
 - Description: con-kycon : KUSBVX-BS1N
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-kycon-KUSBVX-BS1N](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-kycon-KUSBVX-BS1N)
 - Short Link: [http://oom.lt/FZECONKYCONKUVXBS1N](http://oom.lt/FZECONKYCONKUVXBS1N)

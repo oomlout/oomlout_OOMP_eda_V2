@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Power_Protection-SRV05-4
 - Hex ID: SZKPOWERPROTECTIONSRV54
 - Name: Power_Protection : SRV05-4
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Power_Protection/SRV05-4/
 - Description: Power_Protection : SRV05-4
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Protection-SRV05-4](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Protection-SRV05-4)
 - Short Link: [http://oom.lt/SZKPOWERPROTECTIONSRV54](http://oom.lt/SZKPOWERPROTECTIONSRV54)

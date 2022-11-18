@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SOT-143-4
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSSOT1434
 - Name: digikey-footprints : SOT-143-4
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/SOT-143-4/
 - Description: digikey-footprints : SOT-143-4
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SOT-143-4](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SOT-143-4)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSSOT1434](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSSOT1434)

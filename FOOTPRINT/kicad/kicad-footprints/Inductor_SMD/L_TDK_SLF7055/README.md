@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_TDK_SLF7055
 - Hex ID: FZKINLTDKSLF755
 - Name: Inductor_SMD : L_TDK_SLF7055
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_TDK_SLF7055/
 - Description: Inductor_SMD : L_TDK_SLF7055
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_TDK_SLF7055](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_TDK_SLF7055)
 - Short Link: [http://oom.lt/FZKINLTDKSLF755](http://oom.lt/FZKINLTDKSLF755)

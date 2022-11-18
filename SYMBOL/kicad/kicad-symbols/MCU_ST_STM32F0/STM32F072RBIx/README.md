@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F0-STM32F072RBIx
 - Hex ID: SZKMCUSTSTM32FSTM32F72RBIX
 - Name: MCU_ST_STM32F0 : STM32F072RBIx
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32F0/STM32F072RBIx/
 - Description: MCU_ST_STM32F0 : STM32F072RBIx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F0-STM32F072RBIx](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F0-STM32F072RBIx)
 - Short Link: [http://oom.lt/SZKMCUSTSTM32FSTM32F72RBIX](http://oom.lt/SZKMCUSTSTM32FSTM32F72RBIX)

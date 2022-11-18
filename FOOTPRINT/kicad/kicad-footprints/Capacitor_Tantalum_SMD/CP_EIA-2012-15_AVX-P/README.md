@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Capacitor_Tantalum_SMD-CP_EIA-2012-15_AVX-P
 - Hex ID: FZKCCPEIA21215AVXP
 - Name: Capacitor_Tantalum_SMD : CP_EIA-2012-15_AVX-P
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Capacitor_Tantalum_SMD/CP_EIA-2012-15_AVX-P/
 - Description: Capacitor_Tantalum_SMD : CP_EIA-2012-15_AVX-P
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_Tantalum_SMD-CP_EIA-2012-15_AVX-P](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_Tantalum_SMD-CP_EIA-2012-15_AVX-P)
 - Short Link: [http://oom.lt/FZKCCPEIA21215AVXP](http://oom.lt/FZKCCPEIA21215AVXP)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Buzzard-VIN_TO_50
 - Hex ID: FZSBUVINTO5
 - Name: SparkFun-Buzzard : VIN_TO_50
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Buzzard/VIN_TO_50/
 - Description: SparkFun-Buzzard : VIN_TO_50
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Buzzard-VIN_TO_50](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Buzzard-VIN_TO_50)
 - Short Link: [http://oom.lt/FZSBUVINTO5](http://oom.lt/FZSBUVINTO5)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-harting-ml-ML34L
 - Hex ID: FZECONHARTINGMLML34L
 - Name: con-harting-ml : ML34L
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-harting-ml/ML34L/
 - Description: con-harting-ml : ML34L
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-harting-ml-ML34L](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-harting-ml-ML34L)
 - Short Link: [http://oom.lt/FZECONHARTINGMLML34L](http://oom.lt/FZECONHARTINGMLML34L)

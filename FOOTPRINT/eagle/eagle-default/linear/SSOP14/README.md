@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-linear-SSOP14
 - Hex ID: FZELINEARSS14
 - Name: linear : SSOP14
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/linear/SSOP14/
 - Description: linear : SSOP14
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-linear-SSOP14](http://oom.lt/FOOTPRINT-eagle-eagle-default-linear-SSOP14)
 - Short Link: [http://oom.lt/FZELINEARSS14](http://oom.lt/FZELINEARSS14)

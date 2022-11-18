@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Potentiometer_THT-Potentiometer_Vishay_148-149_Single_Horizontal
 - Hex ID: FZKPPOTVISHAY148149SINGLEH
 - Name: Potentiometer_THT : Potentiometer_Vishay_148-149_Single_Horizontal
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Potentiometer_THT/Potentiometer_Vishay_148-149_Single_Horizontal/
 - Description: Potentiometer_THT : Potentiometer_Vishay_148-149_Single_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Potentiometer_THT-Potentiometer_Vishay_148-149_Single_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Potentiometer_THT-Potentiometer_Vishay_148-149_Single_Horizontal)
 - Short Link: [http://oom.lt/FZKPPOTVISHAY148149SINGLEH](http://oom.lt/FZKPPOTVISHAY148149SINGLEH)

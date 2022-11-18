@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Driver_FET-IR2301
 - Hex ID: SZKDRIVERFETIR231
 - Name: Driver_FET : IR2301
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Driver_FET/IR2301/
 - Description: Driver_FET : IR2301
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-IR2301](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-IR2301)
 - Short Link: [http://oom.lt/SZKDRIVERFETIR231](http://oom.lt/SZKDRIVERFETIR231)

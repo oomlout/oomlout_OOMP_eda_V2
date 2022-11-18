@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Power-HVSS0P-10
 - Hex ID: FZSIPHVSSP1
 - Name: SparkFun-IC-Power : HVSS0P-10
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-IC-Power/HVSS0P-10/
 - Description: SparkFun-IC-Power : HVSS0P-10
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Power-HVSS0P-10](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Power-HVSS0P-10)
 - Short Link: [http://oom.lt/FZSIPHVSSP1](http://oom.lt/FZSIPHVSSP1)

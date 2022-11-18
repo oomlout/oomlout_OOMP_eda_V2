@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Module-NUCLEO144-F756ZG
 - Hex ID: SZKMCUMONUCLEO144F756ZG
 - Name: MCU_Module : NUCLEO144-F756ZG
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Module/NUCLEO144-F756ZG/
 - Description: MCU_Module : NUCLEO144-F756ZG
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Module-NUCLEO144-F756ZG](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Module-NUCLEO144-F756ZG)
 - Short Link: [http://oom.lt/SZKMCUMONUCLEO144F756ZG](http://oom.lt/SZKMCUMONUCLEO144F756ZG)

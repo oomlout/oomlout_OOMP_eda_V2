@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Axial_L20.3mm_D12.1mm_P7.62mm_Vertical_Vishay_IHA-101
 - Hex ID: FZKINLAXIALL23D121P762FVISHAYIHA11
 - Name: Inductor_THT : L_Axial_L20.3mm_D12.1mm_P7.62mm_Vertical_Vishay_IHA-101
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Axial_L20.3mm_D12.1mm_P7.62mm_Vertical_Vishay_IHA-101/
 - Description: Inductor_THT : L_Axial_L20.3mm_D12.1mm_P7.62mm_Vertical_Vishay_IHA-101
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Axial_L20.3mm_D12.1mm_P7.62mm_Vertical_Vishay_IHA-101](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Axial_L20.3mm_D12.1mm_P7.62mm_Vertical_Vishay_IHA-101)
 - Short Link: [http://oom.lt/FZKINLAXIALL23D121P762FVISHAYIHA11](http://oom.lt/FZKINLAXIALL23D121P762FVISHAYIHA11)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Current-INA168
 - Hex ID: SZKAMPLIFIERCURRENTINA168
 - Name: Amplifier_Current : INA168
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Current/INA168/
 - Description: Amplifier_Current : INA168
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Current-INA168](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Current-INA168)
 - Short Link: [http://oom.lt/SZKAMPLIFIERCURRENTINA168](http://oom.lt/SZKAMPLIFIERCURRENTINA168)

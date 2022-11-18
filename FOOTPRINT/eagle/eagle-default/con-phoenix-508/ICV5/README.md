@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-phoenix-508-ICV5
 - Hex ID: FZECONPHOENIX58ICV5
 - Name: con-phoenix-508 : ICV5
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-phoenix-508/ICV5/
 - Description: con-phoenix-508 : ICV5
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-phoenix-508-ICV5](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-phoenix-508-ICV5)
 - Short Link: [http://oom.lt/FZECONPHOENIX58ICV5](http://oom.lt/FZECONPHOENIX58ICV5)

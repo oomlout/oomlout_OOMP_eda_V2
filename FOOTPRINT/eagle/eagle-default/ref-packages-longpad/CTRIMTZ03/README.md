@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEREFPACKAGESLONGPADCTRIMTZ3 > ref-packages-longpad : CTRIMTZ03](#fzerefpackageslongpadctrimtz3--ref-packages-longpad--ctrimtz03)
+* [FZEREFPSLPCTRIMTZ3 > ref-packages-longpad : CTRIMTZ03](#fzerefpslpctrimtz3--ref-packages-longpad--ctrimtz03)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEREFPACKAGESLONGPADCTRIMTZ3 > ref-packages-longpad : CTRIMTZ03
+# FZEREFPSLPCTRIMTZ3 > ref-packages-longpad : CTRIMTZ03
 
 - ID: FOOTPRINT-eagle-eagle-default-ref-packages-longpad-CTRIMTZ03
-- Hex ID: FZEREFPACKAGESLONGPADCTRIMTZ3
+- Hex ID: FZEREFPSLPCTRIMTZ3
 - Name: ref-packages-longpad : CTRIMTZ03
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ref-packages-longpad/CTRIMTZ03/
 - Description: ref-packages-longpad : CTRIMTZ03
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-longpad-CTRIMTZ03](http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-longpad-CTRIMTZ03)
-- Short Link: [http://oom.lt/FZEREFPACKAGESLONGPADCTRIMTZ3](http://oom.lt/FZEREFPACKAGESLONGPADCTRIMTZ3)
+- Short Link: [http://oom.lt/FZEREFPSLPCTRIMTZ3](http://oom.lt/FZEREFPSLPCTRIMTZ3)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|ref-packages-longpad|
 |OOMP Index|oompIndex|CTRIMTZ03|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-ref-packages-longpad-CTRIMTZ03|
-|Hex ID (short code)|hexID|FZEREFPACKAGESLONGPADCTRIMTZ3|
+|Hex ID (short code)|hexID|FZEREFPSLPCTRIMTZ3|
 |name|name|ref-packages-longpad : CTRIMTZ03|
 ||||

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-LT1964-SD
 - Hex ID: SZKREGULATORLINEARLT1964SD
 - Name: Regulator_Linear : LT1964-SD
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LT1964-SD/
 - Description: Regulator_Linear : LT1964-SD
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LT1964-SD](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LT1964-SD)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARLT1964SD](http://oom.lt/SZKREGULATORLINEARLT1964SD)

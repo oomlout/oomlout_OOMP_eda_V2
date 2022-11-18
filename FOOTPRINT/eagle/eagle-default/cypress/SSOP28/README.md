@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-cypress-SSOP28
 - Hex ID: FZECYPRESSSS28
 - Name: cypress : SSOP28
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/cypress/SSOP28/
 - Description: cypress : SSOP28
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-cypress-SSOP28](http://oom.lt/FOOTPRINT-eagle-eagle-default-cypress-SSOP28)
 - Short Link: [http://oom.lt/FZECYPRESSSS28](http://oom.lt/FZECYPRESSSS28)

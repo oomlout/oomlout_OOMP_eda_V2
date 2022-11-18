@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-74xGxx-74AUP1G98
 - Hex ID: SZK74XGXX74AUP1G98
 - Name: 74xGxx : 74AUP1G98
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/74xGxx/74AUP1G98/
 - Description: 74xGxx : 74AUP1G98
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-74xGxx-74AUP1G98](http://oom.lt/SYMBOL-kicad-kicad-symbols-74xGxx-74AUP1G98)
 - Short Link: [http://oom.lt/SZK74XGXX74AUP1G98](http://oom.lt/SZK74XGXX74AUP1G98)

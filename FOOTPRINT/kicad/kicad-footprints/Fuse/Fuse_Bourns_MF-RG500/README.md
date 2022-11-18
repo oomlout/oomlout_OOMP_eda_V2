@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Fuse-Fuse_Bourns_MF-RG500
 - Hex ID: FZKFUFUBOURNSMFRG5
 - Name: Fuse : Fuse_Bourns_MF-RG500
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Fuse/Fuse_Bourns_MF-RG500/
 - Description: Fuse : Fuse_Bourns_MF-RG500
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Fuse-Fuse_Bourns_MF-RG500](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Fuse-Fuse_Bourns_MF-RG500)
 - Short Link: [http://oom.lt/FZKFUFUBOURNSMFRG5](http://oom.lt/FZKFUFUBOURNSMFRG5)

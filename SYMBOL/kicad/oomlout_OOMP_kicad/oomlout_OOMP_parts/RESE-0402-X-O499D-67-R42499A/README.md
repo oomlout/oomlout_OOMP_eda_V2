@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0402-X-O499D-67-R42499A
 - Hex ID: SZOOMPKOOMPPRESE42XO499D67R42499A
 - Name: oomlout_OOMP_parts : RESE-0402-X-O499D-67-R42499A
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/RESE-0402-X-O499D-67-R42499A/
 - Description: oomlout_OOMP_parts : RESE-0402-X-O499D-67-R42499A
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0402-X-O499D-67-R42499A](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0402-X-O499D-67-R42499A)
 - Short Link: [http://oom.lt/SZOOMPKOOMPPRESE42XO499D67R42499A](http://oom.lt/SZOOMPKOOMPPRESE42XO499D67R42499A)

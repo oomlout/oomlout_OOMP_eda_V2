@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Audio-PAM8302AAS
 - Hex ID: SZKAMPLIFIERAUDIOPAM832AAS
 - Name: Amplifier_Audio : PAM8302AAS
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Audio/PAM8302AAS/
 - Description: Amplifier_Audio : PAM8302AAS
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Audio-PAM8302AAS](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Audio-PAM8302AAS)
 - Short Link: [http://oom.lt/SZKAMPLIFIERAUDIOPAM832AAS](http://oom.lt/SZKAMPLIFIERAUDIOPAM832AAS)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-special-7SEG-13H
 - Hex ID: FZESPECIAL7SEG13H
 - Name: special : 7SEG-13H
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/special/7SEG-13H/
 - Description: special : 7SEG-13H
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-special-7SEG-13H](http://oom.lt/FOOTPRINT-eagle-eagle-default-special-7SEG-13H)
 - Short Link: [http://oom.lt/FZESPECIAL7SEG13H](http://oom.lt/FZESPECIAL7SEG13H)

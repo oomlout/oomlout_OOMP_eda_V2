@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_Pico-SPOX_87437-1443_1x14-P1.5mm_Vertical
 - Hex ID: FZKCNMXMXPICOSPOX8743714431X14P15F
 - Name: Connector_Molex : Molex_Pico-SPOX_87437-1443_1x14-P1.5mm_Vertical
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_Pico-SPOX_87437-1443_1x14-P1.5mm_Vertical/
 - Description: Connector_Molex : Molex_Pico-SPOX_87437-1443_1x14-P1.5mm_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_Pico-SPOX_87437-1443_1x14-P1.5mm_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_Pico-SPOX_87437-1443_1x14-P1.5mm_Vertical)
 - Short Link: [http://oom.lt/FZKCNMXMXPICOSPOX8743714431X14P15F](http://oom.lt/FZKCNMXMXPICOSPOX8743714431X14P15F)

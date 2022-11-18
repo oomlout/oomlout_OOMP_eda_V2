@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-switch-320-916
 - Hex ID: FZESW32916
 - Name: switch : 320-916
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/switch/320-916/
 - Description: switch : 320-916
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-320-916](http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-320-916)
 - Short Link: [http://oom.lt/FZESW32916](http://oom.lt/FZESW32916)

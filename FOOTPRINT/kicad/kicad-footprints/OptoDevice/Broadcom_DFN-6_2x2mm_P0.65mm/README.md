@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-OptoDevice-Broadcom_DFN-6_2x2mm_P0.65mm
 - Hex ID: FZKOPBROADCOMDFN62X2P65
 - Name: OptoDevice : Broadcom_DFN-6_2x2mm_P0.65mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/OptoDevice/Broadcom_DFN-6_2x2mm_P0.65mm/
 - Description: OptoDevice : Broadcom_DFN-6_2x2mm_P0.65mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-OptoDevice-Broadcom_DFN-6_2x2mm_P0.65mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-OptoDevice-Broadcom_DFN-6_2x2mm_P0.65mm)
 - Short Link: [http://oom.lt/FZKOPBROADCOMDFN62X2P65](http://oom.lt/FZKOPBROADCOMDFN62X2P65)

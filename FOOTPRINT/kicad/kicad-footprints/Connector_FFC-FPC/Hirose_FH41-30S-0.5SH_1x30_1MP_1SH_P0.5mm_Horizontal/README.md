@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_FFC-FPC-Hirose_FH41-30S-0.5SH_1x30_1MP_1SH_P0.5mm_Horizontal
 - Hex ID: FZKCNFFCFPCHIROSEFH413S5SH1X31MP1SHP5H
 - Name: Connector_FFC-FPC : Hirose_FH41-30S-0.5SH_1x30_1MP_1SH_P0.5mm_Horizontal
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_FFC-FPC/Hirose_FH41-30S-0.5SH_1x30_1MP_1SH_P0.5mm_Horizontal/
 - Description: Connector_FFC-FPC : Hirose_FH41-30S-0.5SH_1x30_1MP_1SH_P0.5mm_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_FFC-FPC-Hirose_FH41-30S-0.5SH_1x30_1MP_1SH_P0.5mm_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_FFC-FPC-Hirose_FH41-30S-0.5SH_1x30_1MP_1SH_P0.5mm_Horizontal)
 - Short Link: [http://oom.lt/FZKCNFFCFPCHIROSEFH413S5SH1X31MP1SHP5H](http://oom.lt/FZKCNFFCFPCHIROSEFH413S5SH1X31MP1SHP5H)

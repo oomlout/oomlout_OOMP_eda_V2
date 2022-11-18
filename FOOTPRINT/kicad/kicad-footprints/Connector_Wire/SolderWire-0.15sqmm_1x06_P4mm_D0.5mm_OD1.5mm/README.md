@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKCNWIRESOLDERWIRE15SQ1X6P4D5OD15 > Connector_Wire : SolderWire-0.15sqmm_1x06_P4mm_D0.5mm_OD1.5mm](#fzkcnwiresolderwire15sq1x6p4d5od15--connector_wire--solderwire-015sqmm_1x06_p4mm_d05mm_od15mm)
+* [FZKCNWSOLDERW15SQ1X6P4D5OD15 > Connector_Wire : SolderWire-0.15sqmm_1x06_P4mm_D0.5mm_OD1.5mm](#fzkcnwsolderw15sq1x6p4d5od15--connector_wire--solderwire-015sqmm_1x06_p4mm_d05mm_od15mm)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKCNWIRESOLDERWIRE15SQ1X6P4D5OD15 > Connector_Wire : SolderWire-0.15sqmm_1x06_P4mm_D0.5mm_OD1.5mm
+# FZKCNWSOLDERW15SQ1X6P4D5OD15 > Connector_Wire : SolderWire-0.15sqmm_1x06_P4mm_D0.5mm_OD1.5mm
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_Wire-SolderWire-0.15sqmm_1x06_P4mm_D0.5mm_OD1.5mm
-- Hex ID: FZKCNWIRESOLDERWIRE15SQ1X6P4D5OD15
+- Hex ID: FZKCNWSOLDERW15SQ1X6P4D5OD15
 - Name: Connector_Wire : SolderWire-0.15sqmm_1x06_P4mm_D0.5mm_OD1.5mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Wire/SolderWire-0.15sqmm_1x06_P4mm_D0.5mm_OD1.5mm/
 - Description: Connector_Wire : SolderWire-0.15sqmm_1x06_P4mm_D0.5mm_OD1.5mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Wire-SolderWire-0.15sqmm_1x06_P4mm_D0.5mm_OD1.5mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Wire-SolderWire-0.15sqmm_1x06_P4mm_D0.5mm_OD1.5mm)
-- Short Link: [http://oom.lt/FZKCNWIRESOLDERWIRE15SQ1X6P4D5OD15](http://oom.lt/FZKCNWIRESOLDERWIRE15SQ1X6P4D5OD15)
+- Short Link: [http://oom.lt/FZKCNWSOLDERW15SQ1X6P4D5OD15](http://oom.lt/FZKCNWSOLDERW15SQ1X6P4D5OD15)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Connector_Wire|
 |OOMP Index|oompIndex|SolderWire-0.15sqmm_1x06_P4mm_D0.5mm_OD1.5mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Wire-SolderWire-0.15sqmm_1x06_P4mm_D0.5mm_OD1.5mm|
-|Hex ID (short code)|hexID|FZKCNWIRESOLDERWIRE15SQ1X6P4D5OD15|
+|Hex ID (short code)|hexID|FZKCNWSOLDERW15SQ1X6P4D5OD15|
 |name|name|Connector_Wire : SolderWire-0.15sqmm_1x06_P4mm_D0.5mm_OD1.5mm|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'SolderWire-0.15sqmm_1x06_P4mm_D0.5mm_OD1.5mm'</td><td> 'description'</td></tr><tr><td> 'Soldered wire connection</td><td> for 6 times 0.15 mmÂ² wires</td><td> basic insulation</td><td> conductor diameter 0.5mm</td><td> outer diameter 1.5mm</td><td> size source Multi-Contact FLEXI-E 0.15 (https</td></tr><tr><td>//ec.staubli.com/AcroFiles/Catalogues/TM_Cab-Main-11014119_(en)_hi.pdf)</td><td> bend radius 3 times outer diameter</td><td> generated with kicad-footprint-generator'</td><td> 'tags'</td></tr><tr><td> 'connector wire 0.15sqmm'</td><td> 'attributeType'</td></tr><tr><td> None</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_Wire.3dshapes/SolderWire-0.15sqmm_1x06_P4mm_D0.5mm_OD1.5mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-LP2951-5.0_WSON
 - Hex ID: SZKREGULATORLINEARLP29515WSON
 - Name: Regulator_Linear : LP2951-5.0_WSON
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LP2951-5.0_WSON/
 - Description: Regulator_Linear : LP2951-5.0_WSON
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LP2951-5.0_WSON](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LP2951-5.0_WSON)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARLP29515WSON](http://oom.lt/SZKREGULATORLINEARLP29515WSON)

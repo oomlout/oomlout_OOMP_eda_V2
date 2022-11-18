@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Ferrite_THT-LairdTech_28C0236-0JW-10
 - Hex ID: FZKFLAIRDTECH28C236JW1
 - Name: Ferrite_THT : LairdTech_28C0236-0JW-10
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Ferrite_THT/LairdTech_28C0236-0JW-10/
 - Description: Ferrite_THT : LairdTech_28C0236-0JW-10
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Ferrite_THT-LairdTech_28C0236-0JW-10](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Ferrite_THT-LairdTech_28C0236-0JW-10)
 - Short Link: [http://oom.lt/FZKFLAIRDTECH28C236JW1](http://oom.lt/FZKFLAIRDTECH28C236JW1)

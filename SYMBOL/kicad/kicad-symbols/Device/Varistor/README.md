@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Device-Varistor
 - Hex ID: SZKDEVICEV
 - Name: Device : Varistor
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/Varistor/
 - Description: Device : Varistor
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Varistor](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Varistor)
 - Short Link: [http://oom.lt/SZKDEVICEV](http://oom.lt/SZKDEVICEV)

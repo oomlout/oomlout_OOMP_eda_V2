@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-VQFN-28-1EP_6x6mm
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSVQFN281EP6X6
 - Name: digikey-footprints : VQFN-28-1EP_6x6mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/VQFN-28-1EP_6x6mm/
 - Description: digikey-footprints : VQFN-28-1EP_6x6mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-VQFN-28-1EP_6x6mm](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-VQFN-28-1EP_6x6mm)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSVQFN281EP6X6](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSVQFN281EP6X6)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_LineDriver-DS7820
 - Hex ID: SZKINTERFACELINEDRIVERDS782
 - Name: Interface_LineDriver : DS7820
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_LineDriver/DS7820/
 - Description: Interface_LineDriver : DS7820
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_LineDriver-DS7820](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_LineDriver-DS7820)
 - Short Link: [http://oom.lt/SZKINTERFACELINEDRIVERDS782](http://oom.lt/SZKINTERFACELINEDRIVERDS782)

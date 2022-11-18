@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Resistor_THT-R_Axial_DIN0922_L20.0mm_D9.0mm_P25.40mm_Horizontal
 - Hex ID: FZKRRAXIALDIN922L2D9P254H
 - Name: Resistor_THT : R_Axial_DIN0922_L20.0mm_D9.0mm_P25.40mm_Horizontal
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Resistor_THT/R_Axial_DIN0922_L20.0mm_D9.0mm_P25.40mm_Horizontal/
 - Description: Resistor_THT : R_Axial_DIN0922_L20.0mm_D9.0mm_P25.40mm_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Resistor_THT-R_Axial_DIN0922_L20.0mm_D9.0mm_P25.40mm_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Resistor_THT-R_Axial_DIN0922_L20.0mm_D9.0mm_P25.40mm_Horizontal)
 - Short Link: [http://oom.lt/FZKRRAXIALDIN922L2D9P254H](http://oom.lt/FZKRRAXIALDIN922L2D9P254H)

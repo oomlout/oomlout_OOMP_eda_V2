@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-frames-DOCFIELD
 - Hex ID: FZEFRAMESDOCFIELD
 - Name: frames : DOCFIELD
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/frames/DOCFIELD/
 - Description: frames : DOCFIELD
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-frames-DOCFIELD](http://oom.lt/FOOTPRINT-eagle-eagle-default-frames-DOCFIELD)
 - Short Link: [http://oom.lt/FZEFRAMESDOCFIELD](http://oom.lt/FZEFRAMESDOCFIELD)

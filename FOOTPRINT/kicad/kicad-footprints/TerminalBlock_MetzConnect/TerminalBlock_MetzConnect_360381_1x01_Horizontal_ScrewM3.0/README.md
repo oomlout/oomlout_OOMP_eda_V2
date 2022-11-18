@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKTBMETZCONNECTTBMETZCONNECT363811X1HSCREWM3 > TerminalBlock_MetzConnect : TerminalBlock_MetzConnect_360381_1x01_Horizontal_ScrewM3.0](#fzktbmetzconnecttbmetzconnect363811x1hscrewm3--terminalblock_metzconnect--terminalblock_metzconnect_360381_1x01_horizontal_screwm30)
+* [FZKTBMETZCECTTBMETZCECT363811X1HSCM3 > TerminalBlock_MetzConnect : TerminalBlock_MetzConnect_360381_1x01_Horizontal_ScrewM3.0](#fzktbmetzcecttbmetzcect363811x1hscm3--terminalblock_metzconnect--terminalblock_metzconnect_360381_1x01_horizontal_screwm30)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKTBMETZCONNECTTBMETZCONNECT363811X1HSCREWM3 > TerminalBlock_MetzConnect : TerminalBlock_MetzConnect_360381_1x01_Horizontal_ScrewM3.0
+# FZKTBMETZCECTTBMETZCECT363811X1HSCM3 > TerminalBlock_MetzConnect : TerminalBlock_MetzConnect_360381_1x01_Horizontal_ScrewM3.0
 
 - ID: FOOTPRINT-kicad-kicad-footprints-TerminalBlock_MetzConnect-TerminalBlock_MetzConnect_360381_1x01_Horizontal_ScrewM3.0
-- Hex ID: FZKTBMETZCONNECTTBMETZCONNECT363811X1HSCREWM3
+- Hex ID: FZKTBMETZCECTTBMETZCECT363811X1HSCM3
 - Name: TerminalBlock_MetzConnect : TerminalBlock_MetzConnect_360381_1x01_Horizontal_ScrewM3.0
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/TerminalBlock_MetzConnect/TerminalBlock_MetzConnect_360381_1x01_Horizontal_ScrewM3.0/
 - Description: TerminalBlock_MetzConnect : TerminalBlock_MetzConnect_360381_1x01_Horizontal_ScrewM3.0
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-TerminalBlock_MetzConnect-TerminalBlock_MetzConnect_360381_1x01_Horizontal_ScrewM3.0](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-TerminalBlock_MetzConnect-TerminalBlock_MetzConnect_360381_1x01_Horizontal_ScrewM3.0)
-- Short Link: [http://oom.lt/FZKTBMETZCONNECTTBMETZCONNECT363811X1HSCREWM3](http://oom.lt/FZKTBMETZCONNECTTBMETZCONNECT363811X1HSCREWM3)
+- Short Link: [http://oom.lt/FZKTBMETZCECTTBMETZCECT363811X1HSCM3](http://oom.lt/FZKTBMETZCECTTBMETZCECT363811X1HSCM3)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|TerminalBlock_MetzConnect|
 |OOMP Index|oompIndex|TerminalBlock_MetzConnect_360381_1x01_Horizontal_ScrewM3.0|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-TerminalBlock_MetzConnect-TerminalBlock_MetzConnect_360381_1x01_Horizontal_ScrewM3.0|
-|Hex ID (short code)|hexID|FZKTBMETZCONNECTTBMETZCONNECT363811X1HSCREWM3|
+|Hex ID (short code)|hexID|FZKTBMETZCECTTBMETZCECT363811X1HSCM3|
 |name|name|TerminalBlock_MetzConnect : TerminalBlock_MetzConnect_360381_1x01_Horizontal_ScrewM3.0|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'TerminalBlock_MetzConnect_360381_1x01_Horizontal_ScrewM3.0'</td><td> 'description'</td></tr><tr><td> 'single screw terminal block Metz Connect 360381</td><td> block size 5x5mm^2</td><td> drill diamater 1.5mm</td><td> 2 pads</td><td> pad diameter 3mm</td><td> see http</td></tr><tr><td>//www.metz-connect.com/de/system/files/METZ_CONNECT_U_Contact_Katalog_Anschlusssysteme_fuer_Leiterplatten_DE_31_07_2017_OFF_024803.pdf?language=en page 133</td><td> script-generated using https</td></tr><tr><td>//github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_MetzConnect'</td><td> 'tags'</td></tr><tr><td> 'THT single screw terminal block Metz Connect 360381 size 5x5mm^2 drill 1.5mm pad 3mm'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/TerminalBlock_MetzConnect.3dshapes/TerminalBlock_MetzConnect_360381_1x01_Horizontal_ScrewM3.0.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||

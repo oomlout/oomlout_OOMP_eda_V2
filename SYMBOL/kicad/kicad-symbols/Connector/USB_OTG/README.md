@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Connector-USB_OTG
 - Hex ID: SZKCNUOTG
 - Name: Connector : USB_OTG
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector/USB_OTG/
 - Description: Connector : USB_OTG
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-USB_OTG](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-USB_OTG)
 - Short Link: [http://oom.lt/SZKCNUOTG](http://oom.lt/SZKCNUOTG)

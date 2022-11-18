@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-maxim-UMAX10
 - Hex ID: FZEMAXIMUMAX1
 - Name: maxim : UMAX10
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/maxim/UMAX10/
 - Description: maxim : UMAX10
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-maxim-UMAX10](http://oom.lt/FOOTPRINT-eagle-eagle-default-maxim-UMAX10)
 - Short Link: [http://oom.lt/FZEMAXIMUMAX1](http://oom.lt/FZEMAXIMUMAX1)

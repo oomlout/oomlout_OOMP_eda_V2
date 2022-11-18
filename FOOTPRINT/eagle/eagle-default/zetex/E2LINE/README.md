@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-zetex-E2LINE
 - Hex ID: FZEZETEXE2LINE
 - Name: zetex : E2LINE
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/zetex/E2LINE/
 - Description: zetex : E2LINE
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-zetex-E2LINE](http://oom.lt/FOOTPRINT-eagle-eagle-default-zetex-E2LINE)
 - Short Link: [http://oom.lt/FZEZETEXE2LINE](http://oom.lt/FZEZETEXE2LINE)

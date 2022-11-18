@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Audio-CS4265
 - Hex ID: SZKAUDIOCS4265
 - Name: Audio : CS4265
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Audio/CS4265/
 - Description: Audio : CS4265
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Audio-CS4265](http://oom.lt/SYMBOL-kicad-kicad-symbols-Audio-CS4265)
 - Short Link: [http://oom.lt/SZKAUDIOCS4265](http://oom.lt/SZKAUDIOCS4265)

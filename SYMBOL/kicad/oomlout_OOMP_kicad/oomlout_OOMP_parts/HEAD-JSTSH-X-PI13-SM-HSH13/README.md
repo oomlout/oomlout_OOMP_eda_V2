@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-JSTSH-X-PI13-SM-HSH13
 - Hex ID: SZOOMPKOOMPPHEADJSTSHXPI13SMHSH13
 - Name: oomlout_OOMP_parts : HEAD-JSTSH-X-PI13-SM-HSH13
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/HEAD-JSTSH-X-PI13-SM-HSH13/
 - Description: oomlout_OOMP_parts : HEAD-JSTSH-X-PI13-SM-HSH13
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-JSTSH-X-PI13-SM-HSH13](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-JSTSH-X-PI13-SM-HSH13)
 - Short Link: [http://oom.lt/SZOOMPKOOMPPHEADJSTSHXPI13SMHSH13](http://oom.lt/SZOOMPKOOMPPHEADJSTSHXPI13SMHSH13)

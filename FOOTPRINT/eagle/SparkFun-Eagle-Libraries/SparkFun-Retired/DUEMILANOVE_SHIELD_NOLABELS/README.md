@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-DUEMILANOVE_SHIELD_NOLABELS
 - Hex ID: FZSRTDUEMANOVESHNOLABELS
 - Name: SparkFun-Retired : DUEMILANOVE_SHIELD_NOLABELS
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Retired/DUEMILANOVE_SHIELD_NOLABELS/
 - Description: SparkFun-Retired : DUEMILANOVE_SHIELD_NOLABELS
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-DUEMILANOVE_SHIELD_NOLABELS](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-DUEMILANOVE_SHIELD_NOLABELS)
 - Short Link: [http://oom.lt/FZSRTDUEMANOVESHNOLABELS](http://oom.lt/FZSRTDUEMANOVESHNOLABELS)

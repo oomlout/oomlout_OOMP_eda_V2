@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_Ethernet-LAN9513i
 - Hex ID: SZKINTERFACEETHERNETLAN9513I
 - Name: Interface_Ethernet : LAN9513i
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_Ethernet/LAN9513i/
 - Description: Interface_Ethernet : LAN9513i
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Ethernet-LAN9513i](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Ethernet-LAN9513i)
 - Short Link: [http://oom.lt/SZKINTERFACEETHERNETLAN9513I](http://oom.lt/SZKINTERFACEETHERNETLAN9513I)

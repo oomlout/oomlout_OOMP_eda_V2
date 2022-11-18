@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-buzzer-F_DB18
 - Hex ID: FZEBUZZERFDB18
 - Name: buzzer : F_DB18
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/buzzer/F_DB18/
 - Description: buzzer : F_DB18
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-buzzer-F_DB18](http://oom.lt/FOOTPRINT-eagle-eagle-default-buzzer-F_DB18)
 - Short Link: [http://oom.lt/FZEBUZZERFDB18](http://oom.lt/FZEBUZZERFDB18)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-transistor-power-D2PACK
 - Hex ID: FZETRANSISTORPOWERD2PACK
 - Name: transistor-power : D2PACK
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/transistor-power/D2PACK/
 - Description: transistor-power : D2PACK
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-power-D2PACK](http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-power-D2PACK)
 - Short Link: [http://oom.lt/FZETRANSISTORPOWERD2PACK](http://oom.lt/FZETRANSISTORPOWERD2PACK)

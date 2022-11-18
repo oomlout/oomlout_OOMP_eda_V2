@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Hardware-STAND-OFF-REFLOW-M3.0
 - Hex ID: FZSHSTANDOFFREFLOWM3
 - Name: SparkFun-Hardware : STAND-OFF-REFLOW-M3.0
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Hardware/STAND-OFF-REFLOW-M3.0/
 - Description: SparkFun-Hardware : STAND-OFF-REFLOW-M3.0
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Hardware-STAND-OFF-REFLOW-M3.0](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Hardware-STAND-OFF-REFLOW-M3.0)
 - Short Link: [http://oom.lt/FZSHSTANDOFFREFLOWM3](http://oom.lt/FZSHSTANDOFFREFLOWM3)

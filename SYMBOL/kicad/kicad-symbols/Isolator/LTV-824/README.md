@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Isolator-LTV-824
 - Hex ID: SZKISOLATORLTV824
 - Name: Isolator : LTV-824
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Isolator/LTV-824/
 - Description: Isolator : LTV-824
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-LTV-824](http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-LTV-824)
 - Short Link: [http://oom.lt/SZKISOLATORLTV824](http://oom.lt/SZKISOLATORLTV824)

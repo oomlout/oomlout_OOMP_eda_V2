@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-RFM22-XXX-S2
 - Hex ID: FZSRFRFM22XXXS2
 - Name: SparkFun-RF : RFM22-XXX-S2
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-RF/RFM22-XXX-S2/
 - Description: SparkFun-RF : RFM22-XXX-S2
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-RFM22-XXX-S2](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-RFM22-XXX-S2)
 - Short Link: [http://oom.lt/FZSRFRFM22XXXS2](http://oom.lt/FZSRFRFM22XXXS2)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Potentiometer_THT-Potentiometer_Alps_RK09L_Single_Horizontal
 - Hex ID: FZKPPOTALPSRK9LSINGLEH
 - Name: Potentiometer_THT : Potentiometer_Alps_RK09L_Single_Horizontal
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Potentiometer_THT/Potentiometer_Alps_RK09L_Single_Horizontal/
 - Description: Potentiometer_THT : Potentiometer_Alps_RK09L_Single_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Potentiometer_THT-Potentiometer_Alps_RK09L_Single_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Potentiometer_THT-Potentiometer_Alps_RK09L_Single_Horizontal)
 - Short Link: [http://oom.lt/FZKPPOTALPSRK9LSINGLEH](http://oom.lt/FZKPPOTALPSRK9LSINGLEH)

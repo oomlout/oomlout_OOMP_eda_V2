@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-transistor-small-signal-TO202CV
 - Hex ID: FZETRANSISTORSLLSIGNALTO22CV
 - Name: transistor-small-signal : TO202CV
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/transistor-small-signal/TO202CV/
 - Description: transistor-small-signal : TO202CV
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-small-signal-TO202CV](http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-small-signal-TO202CV)
 - Short Link: [http://oom.lt/FZETRANSISTORSLLSIGNALTO22CV](http://oom.lt/FZETRANSISTORSLLSIGNALTO22CV)

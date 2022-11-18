@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-heatsink-KK185
 - Hex ID: FZEHKK185
 - Name: heatsink : KK185
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/heatsink/KK185/
 - Description: heatsink : KK185
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-heatsink-KK185](http://oom.lt/FOOTPRINT-eagle-eagle-default-heatsink-KK185)
 - Short Link: [http://oom.lt/FZEHKK185](http://oom.lt/FZEHKK185)

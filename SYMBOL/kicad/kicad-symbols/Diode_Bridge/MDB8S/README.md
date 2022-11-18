@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode_Bridge-MDB8S
 - Hex ID: SZKDIODEBRIDGEMDB8S
 - Name: Diode_Bridge : MDB8S
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode_Bridge/MDB8S/
 - Description: Diode_Bridge : MDB8S
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode_Bridge-MDB8S](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode_Bridge-MDB8S)
 - Short Link: [http://oom.lt/SZKDIODEBRIDGEMDB8S](http://oom.lt/SZKDIODEBRIDGEMDB8S)

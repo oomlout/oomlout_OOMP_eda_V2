@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-smd-special-PLCC28-SMD-SOCKED
 - Hex ID: FZESMSPECIALPLCC28SMSOCKED
 - Name: smd-special : PLCC28-SMD-SOCKED
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/smd-special/PLCC28-SMD-SOCKED/
 - Description: smd-special : PLCC28-SMD-SOCKED
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-special-PLCC28-SMD-SOCKED](http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-special-PLCC28-SMD-SOCKED)
 - Short Link: [http://oom.lt/FZESMSPECIALPLCC28SMSOCKED](http://oom.lt/FZESMSPECIALPLCC28SMSOCKED)

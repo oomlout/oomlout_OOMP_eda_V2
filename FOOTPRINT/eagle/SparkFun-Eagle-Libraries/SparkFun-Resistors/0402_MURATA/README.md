@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Resistors-0402_MURATA
 - Hex ID: FZSR42M
 - Name: SparkFun-Resistors : 0402_MURATA
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Resistors/0402_MURATA/
 - Description: SparkFun-Resistors : 0402_MURATA
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Resistors-0402_MURATA](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Resistors-0402_MURATA)
 - Short Link: [http://oom.lt/FZSR42M](http://oom.lt/FZSR42M)

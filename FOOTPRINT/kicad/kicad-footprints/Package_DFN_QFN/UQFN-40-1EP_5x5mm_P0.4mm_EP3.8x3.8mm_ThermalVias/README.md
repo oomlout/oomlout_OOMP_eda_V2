@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKDFNUQFN41EP5X5P4EP38X38THERMALVIAS > Package_DFN_QFN : UQFN-40-1EP_5x5mm_P0.4mm_EP3.8x3.8mm_ThermalVias](#fzkdfnuqfn41ep5x5p4ep38x38thermalvias--package_dfn_qfn--uqfn-40-1ep_5x5mm_p04mm_ep38x38mm_thermalvias)
+* [FZKDFNUQFN41EP5X5P4EP38X38THV > Package_DFN_QFN : UQFN-40-1EP_5x5mm_P0.4mm_EP3.8x3.8mm_ThermalVias](#fzkdfnuqfn41ep5x5p4ep38x38thv--package_dfn_qfn--uqfn-40-1ep_5x5mm_p04mm_ep38x38mm_thermalvias)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKDFNUQFN41EP5X5P4EP38X38THERMALVIAS > Package_DFN_QFN : UQFN-40-1EP_5x5mm_P0.4mm_EP3.8x3.8mm_ThermalVias
+# FZKDFNUQFN41EP5X5P4EP38X38THV > Package_DFN_QFN : UQFN-40-1EP_5x5mm_P0.4mm_EP3.8x3.8mm_ThermalVias
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-UQFN-40-1EP_5x5mm_P0.4mm_EP3.8x3.8mm_ThermalVias
-- Hex ID: FZKDFNUQFN41EP5X5P4EP38X38THERMALVIAS
+- Hex ID: FZKDFNUQFN41EP5X5P4EP38X38THV
 - Name: Package_DFN_QFN : UQFN-40-1EP_5x5mm_P0.4mm_EP3.8x3.8mm_ThermalVias
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/UQFN-40-1EP_5x5mm_P0.4mm_EP3.8x3.8mm_ThermalVias/
 - Description: Package_DFN_QFN : UQFN-40-1EP_5x5mm_P0.4mm_EP3.8x3.8mm_ThermalVias
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-UQFN-40-1EP_5x5mm_P0.4mm_EP3.8x3.8mm_ThermalVias](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-UQFN-40-1EP_5x5mm_P0.4mm_EP3.8x3.8mm_ThermalVias)
-- Short Link: [http://oom.lt/FZKDFNUQFN41EP5X5P4EP38X38THERMALVIAS](http://oom.lt/FZKDFNUQFN41EP5X5P4EP38X38THERMALVIAS)
+- Short Link: [http://oom.lt/FZKDFNUQFN41EP5X5P4EP38X38THV](http://oom.lt/FZKDFNUQFN41EP5X5P4EP38X38THV)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Package_DFN_QFN|
 |OOMP Index|oompIndex|UQFN-40-1EP_5x5mm_P0.4mm_EP3.8x3.8mm_ThermalVias|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-UQFN-40-1EP_5x5mm_P0.4mm_EP3.8x3.8mm_ThermalVias|
-|Hex ID (short code)|hexID|FZKDFNUQFN41EP5X5P4EP38X38THERMALVIAS|
+|Hex ID (short code)|hexID|FZKDFNUQFN41EP5X5P4EP38X38THV|
 |name|name|Package_DFN_QFN : UQFN-40-1EP_5x5mm_P0.4mm_EP3.8x3.8mm_ThermalVias|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'UQFN-40-1EP_5x5mm_P0.4mm_EP3.8x3.8mm_ThermalVias'</td><td> 'description'</td></tr><tr><td> 'UQFN</td><td> 40 Pin (http</td></tr><tr><td>//ww1.microchip.com/downloads/en/PackagingSpec/00000049BQ.pdf#page=345)</td><td> generated with kicad-footprint-generator ipc_noLead_generator.py'</td><td> 'tags'</td></tr><tr><td> 'UQFN NoLead'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_DFN_QFN.3dshapes/UQFN-40-1EP_5x5mm_P0.4mm_EP3.8x3.8mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'custom'</td></tr></table></td></tr></table>|
 ||||

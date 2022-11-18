@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_ST_STM8-STM8L101F1U
 - Hex ID: SZKMCUSTSTM8STM8L11F1U
 - Name: MCU_ST_STM8 : STM8L101F1U
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_ST_STM8/STM8L101F1U/
 - Description: MCU_ST_STM8 : STM8L101F1U
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM8-STM8L101F1U](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM8-STM8L101F1U)
 - Short Link: [http://oom.lt/SZKMCUSTSTM8STM8L11F1U](http://oom.lt/SZKMCUSTSTM8STM8L11F1U)

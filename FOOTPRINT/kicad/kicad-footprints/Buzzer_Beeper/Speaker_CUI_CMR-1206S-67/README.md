@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Buzzer_Beeper-Speaker_CUI_CMR-1206S-67
 - Hex ID: FZKBZSPEAKERCUICMR126S67
 - Name: Buzzer_Beeper : Speaker_CUI_CMR-1206S-67
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Buzzer_Beeper/Speaker_CUI_CMR-1206S-67/
 - Description: Buzzer_Beeper : Speaker_CUI_CMR-1206S-67
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Buzzer_Beeper-Speaker_CUI_CMR-1206S-67](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Buzzer_Beeper-Speaker_CUI_CMR-1206S-67)
 - Short Link: [http://oom.lt/FZKBZSPEAKERCUICMR126S67](http://oom.lt/FZKBZSPEAKERCUICMR126S67)

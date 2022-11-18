@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Connector-SpeakON_NL4
 - Hex ID: SZKCNSPEAKONNL4
 - Name: Connector : SpeakON_NL4
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector/SpeakON_NL4/
 - Description: Connector : SpeakON_NL4
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-SpeakON_NL4](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-SpeakON_NL4)
 - Short Link: [http://oom.lt/SZKCNSPEAKONNL4](http://oom.lt/SZKCNSPEAKONNL4)

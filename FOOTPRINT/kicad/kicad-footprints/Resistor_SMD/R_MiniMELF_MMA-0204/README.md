@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_MiniMELF_MMA-0204
 - Hex ID: FZKRRMMELFA24
 - Name: Resistor_SMD : R_MiniMELF_MMA-0204
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_MiniMELF_MMA-0204/
 - Description: Resistor_SMD : R_MiniMELF_MMA-0204
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_MiniMELF_MMA-0204](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_MiniMELF_MMA-0204)
 - Short Link: [http://oom.lt/FZKRRMMELFA24](http://oom.lt/FZKRRMMELFA24)

@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEREFPACKAGESSMC > ref-packages : SMC](#fzerefpackagessmc--ref-packages--smc)
+* [FZEREFPSSMC > ref-packages : SMC](#fzerefpssmc--ref-packages--smc)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEREFPACKAGESSMC > ref-packages : SMC
+# FZEREFPSSMC > ref-packages : SMC
 
 - ID: FOOTPRINT-eagle-eagle-default-ref-packages-SMC
-- Hex ID: FZEREFPACKAGESSMC
+- Hex ID: FZEREFPSSMC
 - Name: ref-packages : SMC
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ref-packages/SMC/
 - Description: ref-packages : SMC
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-SMC](http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-SMC)
-- Short Link: [http://oom.lt/FZEREFPACKAGESSMC](http://oom.lt/FZEREFPACKAGESSMC)
+- Short Link: [http://oom.lt/FZEREFPSSMC](http://oom.lt/FZEREFPSSMC)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|ref-packages|
 |OOMP Index|oompIndex|SMC|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-ref-packages-SMC|
-|Hex ID (short code)|hexID|FZEREFPACKAGESSMC|
+|Hex ID (short code)|hexID|FZEREFPSSMC|
 |name|name|ref-packages : SMC|
 ||||

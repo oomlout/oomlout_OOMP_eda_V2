@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Abracon_ASPI-4030S
 - Hex ID: FZKINLABRACONASPI43S
 - Name: Inductor_SMD : L_Abracon_ASPI-4030S
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Abracon_ASPI-4030S/
 - Description: Inductor_SMD : L_Abracon_ASPI-4030S
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Abracon_ASPI-4030S](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Abracon_ASPI-4030S)
 - Short Link: [http://oom.lt/FZKINLABRACONASPI43S](http://oom.lt/FZKINLABRACONASPI43S)

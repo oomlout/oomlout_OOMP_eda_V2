@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Oscillator-GTXO-14V
 - Hex ID: SZKOCSGTXO14V
 - Name: Oscillator : GTXO-14V
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Oscillator/GTXO-14V/
 - Description: Oscillator : GTXO-14V
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Oscillator-GTXO-14V](http://oom.lt/SYMBOL-kicad-kicad-symbols-Oscillator-GTXO-14V)
 - Short Link: [http://oom.lt/SZKOCSGTXO14V](http://oom.lt/SZKOCSGTXO14V)

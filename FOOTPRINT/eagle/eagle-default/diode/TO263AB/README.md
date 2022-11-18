@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-diode-TO263AB
 - Hex ID: FZEDIODETO263AB
 - Name: diode : TO263AB
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/diode/TO263AB/
 - Description: diode : TO263AB
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-diode-TO263AB](http://oom.lt/FOOTPRINT-eagle-eagle-default-diode-TO263AB)
 - Short Link: [http://oom.lt/FZEDIODETO263AB](http://oom.lt/FZEDIODETO263AB)

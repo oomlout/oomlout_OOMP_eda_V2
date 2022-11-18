@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Display_Character-EA_T123X-I2C
 - Hex ID: SZKDICHARACTEREAT123XI2C
 - Name: Display_Character : EA_T123X-I2C
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Display_Character/EA_T123X-I2C/
 - Description: Display_Character : EA_T123X-I2C
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-EA_T123X-I2C](http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-EA_T123X-I2C)
 - Short Link: [http://oom.lt/SZKDICHARACTEREAT123XI2C](http://oom.lt/SZKDICHARACTEREAT123XI2C)

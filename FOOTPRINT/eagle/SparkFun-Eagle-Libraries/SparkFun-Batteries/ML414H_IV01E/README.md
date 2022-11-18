@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Batteries-ML414H_IV01E
 - Hex ID: FZSBML414HIV1E
 - Name: SparkFun-Batteries : ML414H_IV01E
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Batteries/ML414H_IV01E/
 - Description: SparkFun-Batteries : ML414H_IV01E
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Batteries-ML414H_IV01E](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Batteries-ML414H_IV01E)
 - Short Link: [http://oom.lt/FZSBML414HIV1E](http://oom.lt/FZSBML414HIV1E)

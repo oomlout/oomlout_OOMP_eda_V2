@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-diode-SMBJ
 - Hex ID: FZEDIODESMBJ
 - Name: diode : SMBJ
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/diode/SMBJ/
 - Description: diode : SMBJ
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-diode-SMBJ](http://oom.lt/FOOTPRINT-eagle-eagle-default-diode-SMBJ)
 - Short Link: [http://oom.lt/FZEDIODESMBJ](http://oom.lt/FZEDIODESMBJ)

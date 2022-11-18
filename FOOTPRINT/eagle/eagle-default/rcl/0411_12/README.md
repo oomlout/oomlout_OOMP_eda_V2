@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-rcl-0411_12
 - Hex ID: FZERCL41112
 - Name: rcl : 0411_12
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/rcl/0411_12/
 - Description: rcl : 0411_12
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-0411_12](http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-0411_12)
 - Short Link: [http://oom.lt/FZERCL41112](http://oom.lt/FZERCL41112)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-cypressindustries-CCATA_32009_10X
 - Hex ID: FZECONCYPRESSINDUSTRIESCCATA3291X
 - Name: con-cypressindustries : CCATA_32009_10X
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-cypressindustries/CCATA_32009_10X/
 - Description: con-cypressindustries : CCATA_32009_10X
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-cypressindustries-CCATA_32009_10X](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-cypressindustries-CCATA_32009_10X)
 - Short Link: [http://oom.lt/FZECONCYPRESSINDUSTRIESCCATA3291X](http://oom.lt/FZECONCYPRESSINDUSTRIESCCATA3291X)

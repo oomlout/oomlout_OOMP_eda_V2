@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-PushButton_Round_D12mm_THT_KS-01Q-01
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSPBROUNDD12THTKS1Q1
 - Name: digikey-footprints : PushButton_Round_D12mm_THT_KS-01Q-01
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/PushButton_Round_D12mm_THT_KS-01Q-01/
 - Description: digikey-footprints : PushButton_Round_D12mm_THT_KS-01Q-01
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-PushButton_Round_D12mm_THT_KS-01Q-01](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-PushButton_Round_D12mm_THT_KS-01Q-01)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSPBROUNDD12THTKS1Q1](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSPBROUNDD12THTKS1Q1)

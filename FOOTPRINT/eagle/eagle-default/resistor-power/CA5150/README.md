@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-resistor-power-CA5150
 - Hex ID: FZERESISTORPOWERCA515
 - Name: resistor-power : CA5150
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/resistor-power/CA5150/
 - Description: resistor-power : CA5150
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-resistor-power-CA5150](http://oom.lt/FOOTPRINT-eagle-eagle-default-resistor-power-CA5150)
 - Short Link: [http://oom.lt/FZERESISTORPOWERCA515](http://oom.lt/FZERESISTORPOWERCA515)

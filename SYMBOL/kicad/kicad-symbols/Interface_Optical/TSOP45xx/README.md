@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_Optical-TSOP45xx
 - Hex ID: SZKINTERFACEOPTICALTS45XX
 - Name: Interface_Optical : TSOP45xx
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_Optical/TSOP45xx/
 - Description: Interface_Optical : TSOP45xx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Optical-TSOP45xx](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Optical-TSOP45xx)
 - Short Link: [http://oom.lt/SZKINTERFACEOPTICALTS45XX](http://oom.lt/SZKINTERFACEOPTICALTS45XX)

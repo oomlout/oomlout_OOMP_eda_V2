@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Power-Q5-DD_SPX29300
 - Hex ID: FZSIPQ5DDSPX293
 - Name: SparkFun-IC-Power : Q5-DD_SPX29300
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-IC-Power/Q5-DD_SPX29300/
 - Description: SparkFun-IC-Power : Q5-DD_SPX29300
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Power-Q5-DD_SPX29300](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Power-Q5-DD_SPX29300)
 - Short Link: [http://oom.lt/FZSIPQ5DDSPX293](http://oom.lt/FZSIPQ5DDSPX293)

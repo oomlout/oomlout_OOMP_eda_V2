@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Potentiometer_THT-Potentiometer_Piher_PC-16_Single_Horizontal
 - Hex ID: FZKPPOTPIHERPC16SINGLEH
 - Name: Potentiometer_THT : Potentiometer_Piher_PC-16_Single_Horizontal
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Potentiometer_THT/Potentiometer_Piher_PC-16_Single_Horizontal/
 - Description: Potentiometer_THT : Potentiometer_Piher_PC-16_Single_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Potentiometer_THT-Potentiometer_Piher_PC-16_Single_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Potentiometer_THT-Potentiometer_Piher_PC-16_Single_Horizontal)
 - Short Link: [http://oom.lt/FZKPPOTPIHERPC16SINGLEH](http://oom.lt/FZKPPOTPIHERPC16SINGLEH)

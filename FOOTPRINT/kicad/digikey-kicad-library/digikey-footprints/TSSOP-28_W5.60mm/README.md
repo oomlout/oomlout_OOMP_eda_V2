@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-TSSOP-28_W5.60mm
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSTSS28W56
 - Name: digikey-footprints : TSSOP-28_W5.60mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/TSSOP-28_W5.60mm/
 - Description: digikey-footprints : TSSOP-28_W5.60mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-TSSOP-28_W5.60mm](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-TSSOP-28_W5.60mm)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSTSS28W56](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSTSS28W56)

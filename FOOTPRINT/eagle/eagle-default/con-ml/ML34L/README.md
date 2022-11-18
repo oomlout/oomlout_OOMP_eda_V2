@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-ml-ML34L
 - Hex ID: FZECONMLML34L
 - Name: con-ml : ML34L
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-ml/ML34L/
 - Description: con-ml : ML34L
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-ml-ML34L](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-ml-ML34L)
 - Short Link: [http://oom.lt/FZECONMLML34L](http://oom.lt/FZECONMLML34L)

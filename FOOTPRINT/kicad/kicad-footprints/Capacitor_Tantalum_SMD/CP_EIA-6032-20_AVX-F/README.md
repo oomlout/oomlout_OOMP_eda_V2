@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Capacitor_Tantalum_SMD-CP_EIA-6032-20_AVX-F
 - Hex ID: FZKCCPEIA6322AVXF
 - Name: Capacitor_Tantalum_SMD : CP_EIA-6032-20_AVX-F
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Capacitor_Tantalum_SMD/CP_EIA-6032-20_AVX-F/
 - Description: Capacitor_Tantalum_SMD : CP_EIA-6032-20_AVX-F
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_Tantalum_SMD-CP_EIA-6032-20_AVX-F](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_Tantalum_SMD-CP_EIA-6032-20_AVX-F)
 - Short Link: [http://oom.lt/FZKCCPEIA6322AVXF](http://oom.lt/FZKCCPEIA6322AVXF)

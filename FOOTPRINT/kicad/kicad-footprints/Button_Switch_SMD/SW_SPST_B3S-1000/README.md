@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-SW_SPST_B3S-1000
 - Hex ID: FZKBSWSPSTB3S1
 - Name: Button_Switch_SMD : SW_SPST_B3S-1000
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Button_Switch_SMD/SW_SPST_B3S-1000/
 - Description: Button_Switch_SMD : SW_SPST_B3S-1000
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-SW_SPST_B3S-1000](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-SW_SPST_B3S-1000)
 - Short Link: [http://oom.lt/FZKBSWSPSTB3S1](http://oom.lt/FZKBSWSPSTB3S1)

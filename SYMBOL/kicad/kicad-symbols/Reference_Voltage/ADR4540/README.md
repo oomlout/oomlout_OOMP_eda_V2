@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Reference_Voltage-ADR4540
 - Hex ID: SZKREFERENCEVOLTAGEADR454
 - Name: Reference_Voltage : ADR4540
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Reference_Voltage/ADR4540/
 - Description: Reference_Voltage : ADR4540
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Voltage-ADR4540](http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Voltage-ADR4540)
 - Short Link: [http://oom.lt/SZKREFERENCEVOLTAGEADR454](http://oom.lt/SZKREFERENCEVOLTAGEADR454)

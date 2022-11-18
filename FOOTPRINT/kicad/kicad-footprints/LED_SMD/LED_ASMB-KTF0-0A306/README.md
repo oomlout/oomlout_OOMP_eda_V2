@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_ASMB-KTF0-0A306
 - Hex ID: FZKLLASMBKTFA36
 - Name: LED_SMD : LED_ASMB-KTF0-0A306
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_ASMB-KTF0-0A306/
 - Description: LED_SMD : LED_ASMB-KTF0-0A306
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_ASMB-KTF0-0A306](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_ASMB-KTF0-0A306)
 - Short Link: [http://oom.lt/FZKLLASMBKTFA36](http://oom.lt/FZKLLASMBKTFA36)

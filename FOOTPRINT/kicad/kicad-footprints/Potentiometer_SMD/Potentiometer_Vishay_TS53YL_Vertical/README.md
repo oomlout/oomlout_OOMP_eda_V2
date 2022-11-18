@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Potentiometer_SMD-Potentiometer_Vishay_TS53YL_Vertical
 - Hex ID: FZKPPOTVISHAYTS53YLF
 - Name: Potentiometer_SMD : Potentiometer_Vishay_TS53YL_Vertical
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Potentiometer_SMD/Potentiometer_Vishay_TS53YL_Vertical/
 - Description: Potentiometer_SMD : Potentiometer_Vishay_TS53YL_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Potentiometer_SMD-Potentiometer_Vishay_TS53YL_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Potentiometer_SMD-Potentiometer_Vishay_TS53YL_Vertical)
 - Short Link: [http://oom.lt/FZKPPOTVISHAYTS53YLF](http://oom.lt/FZKPPOTVISHAYTS53YLF)

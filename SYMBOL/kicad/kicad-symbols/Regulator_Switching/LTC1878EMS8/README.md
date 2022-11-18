@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-LTC1878EMS8
 - Hex ID: SZKREGULATORSWINGLTC1878EMS8
 - Name: Regulator_Switching : LTC1878EMS8
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/LTC1878EMS8/
 - Description: Regulator_Switching : LTC1878EMS8
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LTC1878EMS8](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LTC1878EMS8)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGLTC1878EMS8](http://oom.lt/SZKREGULATORSWINGLTC1878EMS8)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-atmel-SSOP24
 - Hex ID: FZEATMELSS24
 - Name: atmel : SSOP24
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/atmel/SSOP24/
 - Description: atmel : SSOP24
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-atmel-SSOP24](http://oom.lt/FOOTPRINT-eagle-eagle-default-atmel-SSOP24)
 - Short Link: [http://oom.lt/FZEATMELSS24](http://oom.lt/FZEATMELSS24)

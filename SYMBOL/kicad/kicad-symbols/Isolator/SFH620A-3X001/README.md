@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Isolator-SFH620A-3X001
 - Hex ID: SZKISOLATORSFH62A3X1
 - Name: Isolator : SFH620A-3X001
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Isolator/SFH620A-3X001/
 - Description: Isolator : SFH620A-3X001
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-SFH620A-3X001](http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-SFH620A-3X001)
 - Short Link: [http://oom.lt/SZKISOLATORSFH62A3X1](http://oom.lt/SZKISOLATORSFH62A3X1)

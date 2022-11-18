@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Power_Supervisor-MCP100-315D
 - Hex ID: SZKPOWERSUPERVISORMCP1315D
 - Name: Power_Supervisor : MCP100-315D
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Power_Supervisor/MCP100-315D/
 - Description: Power_Supervisor : MCP100-315D
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Supervisor-MCP100-315D](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Supervisor-MCP100-315D)
 - Short Link: [http://oom.lt/SZKPOWERSUPERVISORMCP1315D](http://oom.lt/SZKPOWERSUPERVISORMCP1315D)

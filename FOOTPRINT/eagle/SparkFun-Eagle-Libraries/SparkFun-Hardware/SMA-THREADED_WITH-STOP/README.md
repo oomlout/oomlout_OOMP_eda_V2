@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Hardware-SMA-THREADED_WITH-STOP
 - Hex ID: FZSHSTHWITHSTOP
 - Name: SparkFun-Hardware : SMA-THREADED_WITH-STOP
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Hardware/SMA-THREADED_WITH-STOP/
 - Description: SparkFun-Hardware : SMA-THREADED_WITH-STOP
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Hardware-SMA-THREADED_WITH-STOP](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Hardware-SMA-THREADED_WITH-STOP)
 - Short Link: [http://oom.lt/FZSHSTHWITHSTOP](http://oom.lt/FZSHSTHWITHSTOP)

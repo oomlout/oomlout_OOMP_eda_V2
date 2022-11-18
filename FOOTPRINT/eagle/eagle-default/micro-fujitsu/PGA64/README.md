@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-micro-fujitsu-PGA64
 - Hex ID: FZEMFUJITSUPGA64
 - Name: micro-fujitsu : PGA64
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/micro-fujitsu/PGA64/
 - Description: micro-fujitsu : PGA64
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-fujitsu-PGA64](http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-fujitsu-PGA64)
 - Short Link: [http://oom.lt/FZEMFUJITSUPGA64](http://oom.lt/FZEMFUJITSUPGA64)

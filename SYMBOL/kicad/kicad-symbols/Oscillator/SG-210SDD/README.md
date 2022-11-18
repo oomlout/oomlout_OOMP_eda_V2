@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Oscillator-SG-210SDD
 - Hex ID: SZKOCSSG21SDD
 - Name: Oscillator : SG-210SDD
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Oscillator/SG-210SDD/
 - Description: Oscillator : SG-210SDD
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Oscillator-SG-210SDD](http://oom.lt/SYMBOL-kicad-kicad-symbols-Oscillator-SG-210SDD)
 - Short Link: [http://oom.lt/SZKOCSSG21SDD](http://oom.lt/SZKOCSSG21SDD)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny45-20X
 - Hex ID: SZKMCUMCHIPATTINYATTINY452X
 - Name: MCU_Microchip_ATtiny : ATtiny45-20X
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_ATtiny/ATtiny45-20X/
 - Description: MCU_Microchip_ATtiny : ATtiny45-20X
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny45-20X](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny45-20X)
 - Short Link: [http://oom.lt/SZKMCUMCHIPATTINYATTINY452X](http://oom.lt/SZKMCUMCHIPATTINYATTINY452X)

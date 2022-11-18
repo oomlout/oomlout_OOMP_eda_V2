@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Ambient_Prox_APDS-9960
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSAMBIENTPROXAPDS996
 - Name: digikey-footprints : Ambient_Prox_APDS-9960
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Ambient_Prox_APDS-9960/
 - Description: digikey-footprints : Ambient_Prox_APDS-9960
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Ambient_Prox_APDS-9960](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Ambient_Prox_APDS-9960)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSAMBIENTPROXAPDS996](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSAMBIENTPROXAPDS996)

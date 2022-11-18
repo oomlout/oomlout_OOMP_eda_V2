@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-lsta-FE07-2W
 - Hex ID: FZECONLSTAFE72W
 - Name: con-lsta : FE07-2W
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-lsta/FE07-2W/
 - Description: con-lsta : FE07-2W
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-lsta-FE07-2W](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-lsta-FE07-2W)
 - Short Link: [http://oom.lt/FZECONLSTAFE72W](http://oom.lt/FZECONLSTAFE72W)

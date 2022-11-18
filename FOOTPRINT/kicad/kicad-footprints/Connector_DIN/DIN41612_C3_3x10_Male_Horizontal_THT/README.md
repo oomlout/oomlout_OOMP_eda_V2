@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_DIN-DIN41612_C3_3x10_Male_Horizontal_THT
 - Hex ID: FZKCNDINDIN41612C33X1MALEHTHT
 - Name: Connector_DIN : DIN41612_C3_3x10_Male_Horizontal_THT
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_DIN/DIN41612_C3_3x10_Male_Horizontal_THT/
 - Description: Connector_DIN : DIN41612_C3_3x10_Male_Horizontal_THT
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_DIN-DIN41612_C3_3x10_Male_Horizontal_THT](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_DIN-DIN41612_C3_3x10_Male_Horizontal_THT)
 - Short Link: [http://oom.lt/FZKCNDINDIN41612C33X1MALEHTHT](http://oom.lt/FZKCNDINDIN41612C33X1MALEHTHT)

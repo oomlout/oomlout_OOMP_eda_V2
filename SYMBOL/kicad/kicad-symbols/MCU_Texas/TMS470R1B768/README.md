@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Texas-TMS470R1B768
 - Hex ID: SZKMCUTEXASTMS47R1B768
 - Name: MCU_Texas : TMS470R1B768
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Texas/TMS470R1B768/
 - Description: MCU_Texas : TMS470R1B768
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Texas-TMS470R1B768](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Texas-TMS470R1B768)
 - Short Link: [http://oom.lt/SZKMCUTEXASTMS47R1B768](http://oom.lt/SZKMCUTEXASTMS47R1B768)

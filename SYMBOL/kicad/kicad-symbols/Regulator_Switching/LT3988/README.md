@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-LT3988
 - Hex ID: SZKREGULATORSWINGLT3988
 - Name: Regulator_Switching : LT3988
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/LT3988/
 - Description: Regulator_Switching : LT3988
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LT3988](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LT3988)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGLT3988](http://oom.lt/SZKREGULATORSWINGLT3988)

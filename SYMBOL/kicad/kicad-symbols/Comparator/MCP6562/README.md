@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Comparator-MCP6562
 - Hex ID: SZKCOMPARATORMCP6562
 - Name: Comparator : MCP6562
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Comparator/MCP6562/
 - Description: Comparator : MCP6562
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Comparator-MCP6562](http://oom.lt/SYMBOL-kicad-kicad-symbols-Comparator-MCP6562)
 - Short Link: [http://oom.lt/SZKCOMPARATORMCP6562](http://oom.lt/SZKCOMPARATORMCP6562)

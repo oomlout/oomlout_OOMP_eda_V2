@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-XF2H-4015-1LW
 - Hex ID: FZAXF2H4151LW
 - Name: adafruit : XF2H-4015-1LW
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/XF2H-4015-1LW/
 - Description: adafruit : XF2H-4015-1LW
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-XF2H-4015-1LW](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-XF2H-4015-1LW)
 - Short Link: [http://oom.lt/FZAXF2H4151LW](http://oom.lt/FZAXF2H4151LW)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Audio-SAD1024
 - Hex ID: SZKAUDIOSAD124
 - Name: Audio : SAD1024
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Audio/SAD1024/
 - Description: Audio : SAD1024
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Audio-SAD1024](http://oom.lt/SYMBOL-kicad-kicad-symbols-Audio-SAD1024)
 - Short Link: [http://oom.lt/SZKAUDIOSAD124](http://oom.lt/SZKAUDIOSAD124)

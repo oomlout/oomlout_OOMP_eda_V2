@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-MCUU-SC14-84-ATTINY-01-MCAT84SC14
 - Hex ID: FZOOMPKOOMPPMCUUSC1484ATTINY1MCAT84SC14
 - Name: oomlout_OOMP_parts : MCUU-SC14-84-ATTINY-01-MCAT84SC14
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/MCUU-SC14-84-ATTINY-01-MCAT84SC14/
 - Description: oomlout_OOMP_parts : MCUU-SC14-84-ATTINY-01-MCAT84SC14
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-MCUU-SC14-84-ATTINY-01-MCAT84SC14](http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-MCUU-SC14-84-ATTINY-01-MCAT84SC14)
 - Short Link: [http://oom.lt/FZOOMPKOOMPPMCUUSC1484ATTINY1MCAT84SC14](http://oom.lt/FZOOMPKOOMPPMCUUSC1484ATTINY1MCAT84SC14)

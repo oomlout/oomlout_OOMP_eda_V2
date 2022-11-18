@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEREFPACKAGESLONGPADPGA18 > ref-packages-longpad : PGA-108](#fzerefpackageslongpadpga18--ref-packages-longpad--pga-108)
+* [FZEREFPSLPPGA18 > ref-packages-longpad : PGA-108](#fzerefpslppga18--ref-packages-longpad--pga-108)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEREFPACKAGESLONGPADPGA18 > ref-packages-longpad : PGA-108
+# FZEREFPSLPPGA18 > ref-packages-longpad : PGA-108
 
 - ID: FOOTPRINT-eagle-eagle-default-ref-packages-longpad-PGA-108
-- Hex ID: FZEREFPACKAGESLONGPADPGA18
+- Hex ID: FZEREFPSLPPGA18
 - Name: ref-packages-longpad : PGA-108
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ref-packages-longpad/PGA-108/
 - Description: ref-packages-longpad : PGA-108
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-longpad-PGA-108](http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-longpad-PGA-108)
-- Short Link: [http://oom.lt/FZEREFPACKAGESLONGPADPGA18](http://oom.lt/FZEREFPACKAGESLONGPADPGA18)
+- Short Link: [http://oom.lt/FZEREFPSLPPGA18](http://oom.lt/FZEREFPSLPPGA18)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|ref-packages-longpad|
 |OOMP Index|oompIndex|PGA-108|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-ref-packages-longpad-PGA-108|
-|Hex ID (short code)|hexID|FZEREFPACKAGESLONGPADPGA18|
+|Hex ID (short code)|hexID|FZEREFPSLPPGA18|
 |name|name|ref-packages-longpad : PGA-108|
 ||||

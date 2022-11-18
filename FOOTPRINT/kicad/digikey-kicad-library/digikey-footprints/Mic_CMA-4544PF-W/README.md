@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Mic_CMA-4544PF-W
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSMICCMA4544PFW
 - Name: digikey-footprints : Mic_CMA-4544PF-W
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Mic_CMA-4544PF-W/
 - Description: digikey-footprints : Mic_CMA-4544PF-W
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Mic_CMA-4544PF-W](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Mic_CMA-4544PF-W)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSMICCMA4544PFW](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSMICCMA4544PFW)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-switch-SRRM342800
 - Hex ID: FZESWSRRM3428
 - Name: switch : SRRM342800
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/switch/SRRM342800/
 - Description: switch : SRRM342800
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-SRRM342800](http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-SRRM342800)
 - Short Link: [http://oom.lt/FZESWSRRM3428](http://oom.lt/FZESWSRRM3428)

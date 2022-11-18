@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_USB-USB3343
 - Hex ID: SZKINTERFACEUU3343
 - Name: Interface_USB : USB3343
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_USB/USB3343/
 - Description: Interface_USB : USB3343
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_USB-USB3343](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_USB-USB3343)
 - Short Link: [http://oom.lt/SZKINTERFACEUU3343](http://oom.lt/SZKINTERFACEUU3343)

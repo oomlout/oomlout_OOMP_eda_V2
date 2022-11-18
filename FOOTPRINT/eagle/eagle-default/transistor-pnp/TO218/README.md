@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-transistor-pnp-TO218
 - Hex ID: FZETRANSISTORPNPTO218
 - Name: transistor-pnp : TO218
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/transistor-pnp/TO218/
 - Description: transistor-pnp : TO218
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-pnp-TO218](http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-pnp-TO218)
 - Short Link: [http://oom.lt/FZETRANSISTORPNPTO218](http://oom.lt/FZETRANSISTORPNPTO218)

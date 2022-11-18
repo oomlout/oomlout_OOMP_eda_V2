@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-rectifier-FBP1,5
 - Hex ID: FZERECTIFIERFBP15
 - Name: rectifier : FBP1,5
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/rectifier/FBP1,5/
 - Description: rectifier : FBP1,5
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-rectifier-FBP1,5](http://oom.lt/FOOTPRINT-eagle-eagle-default-rectifier-FBP1,5)
 - Short Link: [http://oom.lt/FZERECTIFIERFBP15](http://oom.lt/FZERECTIFIERFBP15)

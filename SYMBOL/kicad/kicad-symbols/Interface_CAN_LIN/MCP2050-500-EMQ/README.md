@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_CAN_LIN-MCP2050-500-EMQ
 - Hex ID: SZKINTERFACECANLINMCP255EMQ
 - Name: Interface_CAN_LIN : MCP2050-500-EMQ
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_CAN_LIN/MCP2050-500-EMQ/
 - Description: Interface_CAN_LIN : MCP2050-500-EMQ
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_CAN_LIN-MCP2050-500-EMQ](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_CAN_LIN-MCP2050-500-EMQ)
 - Short Link: [http://oom.lt/SZKINTERFACECANLINMCP255EMQ](http://oom.lt/SZKINTERFACECANLINMCP255EMQ)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-con-yamaichi-SSV-BD07
 - Hex ID: FZECONYAMAICHISSVBD7
 - Name: con-yamaichi : SSV-BD07
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-yamaichi/SSV-BD07/
 - Description: con-yamaichi : SSV-BD07
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-yamaichi-SSV-BD07](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-yamaichi-SSV-BD07)
 - Short Link: [http://oom.lt/FZECONYAMAICHISSVBD7](http://oom.lt/FZECONYAMAICHISSVBD7)

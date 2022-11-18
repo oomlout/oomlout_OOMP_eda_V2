@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-phoenix-508-MSTBA11
 - Hex ID: FZECONPHOENIX58MSTBA11
 - Name: con-phoenix-508 : MSTBA11
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-phoenix-508/MSTBA11/
 - Description: con-phoenix-508 : MSTBA11
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-phoenix-508-MSTBA11](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-phoenix-508-MSTBA11)
 - Short Link: [http://oom.lt/FZECONPHOENIX58MSTBA11](http://oom.lt/FZECONPHOENIX58MSTBA11)

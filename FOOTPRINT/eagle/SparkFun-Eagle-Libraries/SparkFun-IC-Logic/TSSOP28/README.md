@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Logic-TSSOP28
 - Hex ID: FZSILTSS28
 - Name: SparkFun-IC-Logic : TSSOP28
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-IC-Logic/TSSOP28/
 - Description: SparkFun-IC-Logic : TSSOP28
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Logic-TSSOP28](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Logic-TSSOP28)
 - Short Link: [http://oom.lt/FZSILTSS28](http://oom.lt/FZSILTSS28)

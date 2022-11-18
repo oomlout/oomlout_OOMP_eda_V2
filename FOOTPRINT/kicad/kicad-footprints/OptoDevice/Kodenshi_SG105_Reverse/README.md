@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-OptoDevice-Kodenshi_SG105_Reverse
 - Hex ID: FZKOPKODENSHISG15R
 - Name: OptoDevice : Kodenshi_SG105_Reverse
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/OptoDevice/Kodenshi_SG105_Reverse/
 - Description: OptoDevice : Kodenshi_SG105_Reverse
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-OptoDevice-Kodenshi_SG105_Reverse](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-OptoDevice-Kodenshi_SG105_Reverse)
 - Short Link: [http://oom.lt/FZKOPKODENSHISG15R](http://oom.lt/FZKOPKODENSHISG15R)

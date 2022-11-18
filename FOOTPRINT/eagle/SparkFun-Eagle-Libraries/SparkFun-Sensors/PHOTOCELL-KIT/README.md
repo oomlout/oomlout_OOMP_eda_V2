@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-PHOTOCELL-KIT
 - Hex ID: FZSSPARKFUNSENSPHOTOCELLK
 - Name: SparkFun-Sensors : PHOTOCELL-KIT
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Sensors/PHOTOCELL-KIT/
 - Description: SparkFun-Sensors : PHOTOCELL-KIT
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-PHOTOCELL-KIT](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-PHOTOCELL-KIT)
 - Short Link: [http://oom.lt/FZSSPARKFUNSENSPHOTOCELLK](http://oom.lt/FZSSPARKFUNSENSPHOTOCELLK)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-pspice-ISOURCE
 - Hex ID: SZKPSPICEISOURCE
 - Name: pspice : ISOURCE
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/pspice/ISOURCE/
 - Description: pspice : ISOURCE
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-pspice-ISOURCE](http://oom.lt/SYMBOL-kicad-kicad-symbols-pspice-ISOURCE)
 - Short Link: [http://oom.lt/SZKPSPICEISOURCE](http://oom.lt/SZKPSPICEISOURCE)

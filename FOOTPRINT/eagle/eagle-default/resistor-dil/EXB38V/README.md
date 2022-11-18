@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-resistor-dil-EXB38V
 - Hex ID: FZERESISTORDILEXB38V
 - Name: resistor-dil : EXB38V
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/resistor-dil/EXB38V/
 - Description: resistor-dil : EXB38V
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-resistor-dil-EXB38V](http://oom.lt/FOOTPRINT-eagle-eagle-default-resistor-dil-EXB38V)
 - Short Link: [http://oom.lt/FZERESISTORDILEXB38V](http://oom.lt/FZERESISTORDILEXB38V)

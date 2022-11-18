@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O2490-67-R6249A
 - Hex ID: FZOOMPKOOMPPRESE63XO24967R6249A
 - Name: oomlout_OOMP_parts : RESE-0603-X-O2490-67-R6249A
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/RESE-0603-X-O2490-67-R6249A/
 - Description: oomlout_OOMP_parts : RESE-0603-X-O2490-67-R6249A
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O2490-67-R6249A](http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O2490-67-R6249A)
 - Short Link: [http://oom.lt/FZOOMPKOOMPPRESE63XO24967R6249A](http://oom.lt/FZOOMPKOOMPPRESE63XO24967R6249A)

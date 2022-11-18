@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEINDUCTORNEOSIDSD1268 > inductor-neosid : SD12-680](#fzeinductorneosidsd1268--inductor-neosid--sd12-680)
+* [FZEINNEOSIDSD1268 > inductor-neosid : SD12-680](#fzeinneosidsd1268--inductor-neosid--sd12-680)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEINDUCTORNEOSIDSD1268 > inductor-neosid : SD12-680
+# FZEINNEOSIDSD1268 > inductor-neosid : SD12-680
 
 - ID: FOOTPRINT-eagle-eagle-default-inductor-neosid-SD12-680
-- Hex ID: FZEINDUCTORNEOSIDSD1268
+- Hex ID: FZEINNEOSIDSD1268
 - Name: inductor-neosid : SD12-680
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/inductor-neosid/SD12-680/
 - Description: inductor-neosid : SD12-680
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-inductor-neosid-SD12-680](http://oom.lt/FOOTPRINT-eagle-eagle-default-inductor-neosid-SD12-680)
-- Short Link: [http://oom.lt/FZEINDUCTORNEOSIDSD1268](http://oom.lt/FZEINDUCTORNEOSIDSD1268)
+- Short Link: [http://oom.lt/FZEINNEOSIDSD1268](http://oom.lt/FZEINNEOSIDSD1268)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|inductor-neosid|
 |OOMP Index|oompIndex|SD12-680|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-inductor-neosid-SD12-680|
-|Hex ID (short code)|hexID|FZEINDUCTORNEOSIDSD1268|
+|Hex ID (short code)|hexID|FZEINNEOSIDSD1268|
 |name|name|inductor-neosid : SD12-680|
 ||||

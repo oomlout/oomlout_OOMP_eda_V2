@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEREFPACKAGESSQFPR28X4264 > ref-packages : SQFP-R-28X40-264](#fzerefpackagessqfpr28x4264--ref-packages--sqfp-r-28x40-264)
+* [FZEREFPSSQFPR28X4264 > ref-packages : SQFP-R-28X40-264](#fzerefpssqfpr28x4264--ref-packages--sqfp-r-28x40-264)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEREFPACKAGESSQFPR28X4264 > ref-packages : SQFP-R-28X40-264
+# FZEREFPSSQFPR28X4264 > ref-packages : SQFP-R-28X40-264
 
 - ID: FOOTPRINT-eagle-eagle-default-ref-packages-SQFP-R-28X40-264
-- Hex ID: FZEREFPACKAGESSQFPR28X4264
+- Hex ID: FZEREFPSSQFPR28X4264
 - Name: ref-packages : SQFP-R-28X40-264
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ref-packages/SQFP-R-28X40-264/
 - Description: ref-packages : SQFP-R-28X40-264
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-SQFP-R-28X40-264](http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-SQFP-R-28X40-264)
-- Short Link: [http://oom.lt/FZEREFPACKAGESSQFPR28X4264](http://oom.lt/FZEREFPACKAGESSQFPR28X4264)
+- Short Link: [http://oom.lt/FZEREFPSSQFPR28X4264](http://oom.lt/FZEREFPSSQFPR28X4264)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|ref-packages|
 |OOMP Index|oompIndex|SQFP-R-28X40-264|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-ref-packages-SQFP-R-28X40-264|
-|Hex ID (short code)|hexID|FZEREFPACKAGESSQFPR28X4264|
+|Hex ID (short code)|hexID|FZEREFPSSQFPR28X4264|
 |name|name|ref-packages : SQFP-R-28X40-264|
 ||||

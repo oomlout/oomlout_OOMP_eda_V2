@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface-8288
 - Hex ID: SZKINTERFACE8288
 - Name: Interface : 8288
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface/8288/
 - Description: Interface : 8288
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-8288](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-8288)
 - Short Link: [http://oom.lt/SZKINTERFACE8288](http://oom.lt/SZKINTERFACE8288)

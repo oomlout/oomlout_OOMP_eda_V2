@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-analog-devices-TSSOP24
 - Hex ID: FZEANALOGDEVICESTSS24
 - Name: analog-devices : TSSOP24
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/analog-devices/TSSOP24/
 - Description: analog-devices : TSSOP24
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-analog-devices-TSSOP24](http://oom.lt/FOOTPRINT-eagle-eagle-default-analog-devices-TSSOP24)
 - Short Link: [http://oom.lt/FZEANALOGDEVICESTSS24](http://oom.lt/FZEANALOGDEVICESTSS24)

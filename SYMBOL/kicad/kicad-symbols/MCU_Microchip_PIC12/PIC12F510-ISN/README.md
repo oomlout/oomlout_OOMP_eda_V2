@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC12-PIC12F510-ISN
 - Hex ID: SZKMCUMCHIPPIC12PIC12F51ISN
 - Name: MCU_Microchip_PIC12 : PIC12F510-ISN
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC12/PIC12F510-ISN/
 - Description: MCU_Microchip_PIC12 : PIC12F510-ISN
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC12-PIC12F510-ISN](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC12-PIC12F510-ISN)
 - Short Link: [http://oom.lt/SZKMCUMCHIPPIC12PIC12F51ISN](http://oom.lt/SZKMCUMCHIPPIC12PIC12F51ISN)

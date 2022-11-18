@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-User-Submitted-CAMERA_CMOS_PLUG
 - Hex ID: FZSUCAMERACMOSPLUG
 - Name: User-Submitted : CAMERA_CMOS_PLUG
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/User-Submitted/CAMERA_CMOS_PLUG/
 - Description: User-Submitted : CAMERA_CMOS_PLUG
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-User-Submitted-CAMERA_CMOS_PLUG](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-User-Submitted-CAMERA_CMOS_PLUG)
 - Short Link: [http://oom.lt/FZSUCAMERACMOSPLUG](http://oom.lt/FZSUCAMERACMOSPLUG)

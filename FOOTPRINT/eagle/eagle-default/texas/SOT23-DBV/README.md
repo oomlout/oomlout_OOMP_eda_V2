@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-texas-SOT23-DBV
 - Hex ID: FZETEXASSOT23DBV
 - Name: texas : SOT23-DBV
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/texas/SOT23-DBV/
 - Description: texas : SOT23-DBV
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-texas-SOT23-DBV](http://oom.lt/FOOTPRINT-eagle-eagle-default-texas-SOT23-DBV)
 - Short Link: [http://oom.lt/FZETEXASSOT23DBV](http://oom.lt/FZETEXASSOT23DBV)

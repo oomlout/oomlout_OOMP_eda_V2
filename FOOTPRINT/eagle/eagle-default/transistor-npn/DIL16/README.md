@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-transistor-npn-DIL16
 - Hex ID: FZETRANSISTORNPNDIL16
 - Name: transistor-npn : DIL16
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/transistor-npn/DIL16/
 - Description: transistor-npn : DIL16
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-npn-DIL16](http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-npn-DIL16)
 - Short Link: [http://oom.lt/FZETRANSISTORNPNDIL16](http://oom.lt/FZETRANSISTORNPNDIL16)

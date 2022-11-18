@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-1206-X-UF1-V50-C12U1-C1848
 - Hex ID: SZOOMPKJLCCAPC126XUF1V5C12U1C1848
 - Name: oomlout_OOMP_JLCC_Basic : CAPC-1206-X-UF1-V50-C12U1-C1848
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_JLCC_Basic/CAPC-1206-X-UF1-V50-C12U1-C1848/
 - Description: oomlout_OOMP_JLCC_Basic : CAPC-1206-X-UF1-V50-C12U1-C1848
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-1206-X-UF1-V50-C12U1-C1848](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-1206-X-UF1-V50-C12U1-C1848)
 - Short Link: [http://oom.lt/SZOOMPKJLCCAPC126XUF1V5C12U1C1848](http://oom.lt/SZOOMPKJLCCAPC126XUF1V5C12U1C1848)

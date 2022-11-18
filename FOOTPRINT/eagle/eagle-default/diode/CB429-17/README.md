@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-diode-CB429-17
 - Hex ID: FZEDIODECB42917
 - Name: diode : CB429-17
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/diode/CB429-17/
 - Description: diode : CB429-17
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-diode-CB429-17](http://oom.lt/FOOTPRINT-eagle-eagle-default-diode-CB429-17)
 - Short Link: [http://oom.lt/FZEDIODECB42917](http://oom.lt/FZEDIODECB42917)

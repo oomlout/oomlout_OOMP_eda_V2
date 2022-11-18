@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-display-lcd-H1333C
 - Hex ID: FZEDILCDH1333C
 - Name: display-lcd : H1333C
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/display-lcd/H1333C/
 - Description: display-lcd : H1333C
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-display-lcd-H1333C](http://oom.lt/FOOTPRINT-eagle-eagle-default-display-lcd-H1333C)
 - Short Link: [http://oom.lt/FZEDILCDH1333C](http://oom.lt/FZEDILCDH1333C)

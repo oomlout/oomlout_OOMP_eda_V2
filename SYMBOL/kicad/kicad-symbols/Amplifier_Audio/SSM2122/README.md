@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Audio-SSM2122
 - Hex ID: SZKAMPLIFIERAUDIOSSM2122
 - Name: Amplifier_Audio : SSM2122
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Audio/SSM2122/
 - Description: Amplifier_Audio : SSM2122
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Audio-SSM2122](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Audio-SSM2122)
 - Short Link: [http://oom.lt/SZKAMPLIFIERAUDIOSSM2122](http://oom.lt/SZKAMPLIFIERAUDIOSSM2122)

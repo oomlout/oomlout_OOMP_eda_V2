@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Capacitors-CAP-RADIAL-5MM-21.5MM
 - Hex ID: FZSCCAPR5215
 - Name: SparkFun-Capacitors : CAP-RADIAL-5MM-21.5MM
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Capacitors/CAP-RADIAL-5MM-21.5MM/
 - Description: SparkFun-Capacitors : CAP-RADIAL-5MM-21.5MM
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Capacitors-CAP-RADIAL-5MM-21.5MM](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Capacitors-CAP-RADIAL-5MM-21.5MM)
 - Short Link: [http://oom.lt/FZSCCAPR5215](http://oom.lt/FZSCCAPR5215)

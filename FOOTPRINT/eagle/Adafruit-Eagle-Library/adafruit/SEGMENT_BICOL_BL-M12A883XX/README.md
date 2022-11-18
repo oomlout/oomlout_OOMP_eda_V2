@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-SEGMENT_BICOL_BL-M12A883XX
 - Hex ID: FZASBICOLBLM12A883XX
 - Name: adafruit : SEGMENT_BICOL_BL-M12A883XX
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/SEGMENT_BICOL_BL-M12A883XX/
 - Description: adafruit : SEGMENT_BICOL_BL-M12A883XX
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-SEGMENT_BICOL_BL-M12A883XX](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-SEGMENT_BICOL_BL-M12A883XX)
 - Short Link: [http://oom.lt/FZASBICOLBLM12A883XX](http://oom.lt/FZASBICOLBLM12A883XX)

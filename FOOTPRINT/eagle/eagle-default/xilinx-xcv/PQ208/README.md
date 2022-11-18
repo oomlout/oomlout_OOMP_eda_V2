@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-xilinx-xcv-PQ208
 - Hex ID: FZEXILINXXCVPQ28
 - Name: xilinx-xcv : PQ208
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/xilinx-xcv/PQ208/
 - Description: xilinx-xcv : PQ208
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-xilinx-xcv-PQ208](http://oom.lt/FOOTPRINT-eagle-eagle-default-xilinx-xcv-PQ208)
 - Short Link: [http://oom.lt/FZEXILINXXCVPQ28](http://oom.lt/FZEXILINXXCVPQ28)

@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKSOMS11EP3X3P5EP22X31MASK183X189THERMALVIAS > Package_SO : MSOP-10-1EP_3x3mm_P0.5mm_EP2.2x3.1mm_Mask1.83x1.89mm_ThermalVias](#fzksoms11ep3x3p5ep22x31mask183x189thermalvias--package_so--msop-10-1ep_3x3mm_p05mm_ep22x31mm_mask183x189mm_thermalvias)
+* [FZKSOMS11EP3X3P5EP22X31MASK183X189THV > Package_SO : MSOP-10-1EP_3x3mm_P0.5mm_EP2.2x3.1mm_Mask1.83x1.89mm_ThermalVias](#fzksoms11ep3x3p5ep22x31mask183x189thv--package_so--msop-10-1ep_3x3mm_p05mm_ep22x31mm_mask183x189mm_thermalvias)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKSOMS11EP3X3P5EP22X31MASK183X189THERMALVIAS > Package_SO : MSOP-10-1EP_3x3mm_P0.5mm_EP2.2x3.1mm_Mask1.83x1.89mm_ThermalVias
+# FZKSOMS11EP3X3P5EP22X31MASK183X189THV > Package_SO : MSOP-10-1EP_3x3mm_P0.5mm_EP2.2x3.1mm_Mask1.83x1.89mm_ThermalVias
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_SO-MSOP-10-1EP_3x3mm_P0.5mm_EP2.2x3.1mm_Mask1.83x1.89mm_ThermalVias
-- Hex ID: FZKSOMS11EP3X3P5EP22X31MASK183X189THERMALVIAS
+- Hex ID: FZKSOMS11EP3X3P5EP22X31MASK183X189THV
 - Name: Package_SO : MSOP-10-1EP_3x3mm_P0.5mm_EP2.2x3.1mm_Mask1.83x1.89mm_ThermalVias
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SO/MSOP-10-1EP_3x3mm_P0.5mm_EP2.2x3.1mm_Mask1.83x1.89mm_ThermalVias/
 - Description: Package_SO : MSOP-10-1EP_3x3mm_P0.5mm_EP2.2x3.1mm_Mask1.83x1.89mm_ThermalVias
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SO-MSOP-10-1EP_3x3mm_P0.5mm_EP2.2x3.1mm_Mask1.83x1.89mm_ThermalVias](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SO-MSOP-10-1EP_3x3mm_P0.5mm_EP2.2x3.1mm_Mask1.83x1.89mm_ThermalVias)
-- Short Link: [http://oom.lt/FZKSOMS11EP3X3P5EP22X31MASK183X189THERMALVIAS](http://oom.lt/FZKSOMS11EP3X3P5EP22X31MASK183X189THERMALVIAS)
+- Short Link: [http://oom.lt/FZKSOMS11EP3X3P5EP22X31MASK183X189THV](http://oom.lt/FZKSOMS11EP3X3P5EP22X31MASK183X189THV)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Package_SO|
 |OOMP Index|oompIndex|MSOP-10-1EP_3x3mm_P0.5mm_EP2.2x3.1mm_Mask1.83x1.89mm_ThermalVias|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_SO-MSOP-10-1EP_3x3mm_P0.5mm_EP2.2x3.1mm_Mask1.83x1.89mm_ThermalVias|
-|Hex ID (short code)|hexID|FZKSOMS11EP3X3P5EP22X31MASK183X189THERMALVIAS|
+|Hex ID (short code)|hexID|FZKSOMS11EP3X3P5EP22X31MASK183X189THV|
 |name|name|Package_SO : MSOP-10-1EP_3x3mm_P0.5mm_EP2.2x3.1mm_Mask1.83x1.89mm_ThermalVias|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'MSOP-10-1EP_3x3mm_P0.5mm_EP2.2x3.1mm_Mask1.83x1.89mm_ThermalVias'</td><td> 'description'</td></tr><tr><td> 'MSOP</td><td> 10 Pin (https</td></tr><tr><td>//www.ti.com/lit/ds/symlink/xtr111.pdf#page=27)</td><td> generated with kicad-footprint-generator ipc_gullwing_generator.py'</td><td> 'tags'</td></tr><tr><td> 'MSOP SO'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_SO.3dshapes/MSOP-10-1EP_3x3mm_P0.5mm_EP2.2x3.1mm_Mask1.83x1.89mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

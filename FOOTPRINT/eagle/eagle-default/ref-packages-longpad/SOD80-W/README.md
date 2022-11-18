@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEREFPACKAGESLONGPADSOD8W > ref-packages-longpad : SOD80-W](#fzerefpackageslongpadsod8w--ref-packages-longpad--sod80-w)
+* [FZEREFPSLPSOD8W > ref-packages-longpad : SOD80-W](#fzerefpslpsod8w--ref-packages-longpad--sod80-w)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEREFPACKAGESLONGPADSOD8W > ref-packages-longpad : SOD80-W
+# FZEREFPSLPSOD8W > ref-packages-longpad : SOD80-W
 
 - ID: FOOTPRINT-eagle-eagle-default-ref-packages-longpad-SOD80-W
-- Hex ID: FZEREFPACKAGESLONGPADSOD8W
+- Hex ID: FZEREFPSLPSOD8W
 - Name: ref-packages-longpad : SOD80-W
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ref-packages-longpad/SOD80-W/
 - Description: ref-packages-longpad : SOD80-W
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-longpad-SOD80-W](http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-longpad-SOD80-W)
-- Short Link: [http://oom.lt/FZEREFPACKAGESLONGPADSOD8W](http://oom.lt/FZEREFPACKAGESLONGPADSOD8W)
+- Short Link: [http://oom.lt/FZEREFPSLPSOD8W](http://oom.lt/FZEREFPSLPSOD8W)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|ref-packages-longpad|
 |OOMP Index|oompIndex|SOD80-W|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-ref-packages-longpad-SOD80-W|
-|Hex ID (short code)|hexID|FZEREFPACKAGESLONGPADSOD8W|
+|Hex ID (short code)|hexID|FZEREFPSLPSOD8W|
 |name|name|ref-packages-longpad : SOD80-W|
 ||||

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Particle_Photon
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSPARTICLEPHOTON
 - Name: digikey-footprints : Particle_Photon
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Particle_Photon/
 - Description: digikey-footprints : Particle_Photon
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Particle_Photon](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Particle_Photon)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSPARTICLEPHOTON](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSPARTICLEPHOTON)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-Panasonic_EVQPUK_EVQPUB
 - Hex ID: FZKBPEVQPUKEVQPUB
 - Name: Button_Switch_SMD : Panasonic_EVQPUK_EVQPUB
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Button_Switch_SMD/Panasonic_EVQPUK_EVQPUB/
 - Description: Button_Switch_SMD : Panasonic_EVQPUK_EVQPUB
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-Panasonic_EVQPUK_EVQPUB](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-Panasonic_EVQPUK_EVQPUB)
 - Short Link: [http://oom.lt/FZKBPEVQPUKEVQPUB](http://oom.lt/FZKBPEVQPUKEVQPUB)

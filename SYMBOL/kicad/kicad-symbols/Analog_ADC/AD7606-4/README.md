@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Analog_ADC-AD7606-4
 - Hex ID: SZKANALOGADCAD7664
 - Name: Analog_ADC : AD7606-4
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog_ADC/AD7606-4/
 - Description: Analog_ADC : AD7606-4
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-AD7606-4](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-AD7606-4)
 - Short Link: [http://oom.lt/SZKANALOGADCAD7664](http://oom.lt/SZKANALOGADCAD7664)

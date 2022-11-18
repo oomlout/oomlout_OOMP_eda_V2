@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Analog-PGA112
 - Hex ID: SZKANALOGPGA112
 - Name: Analog : PGA112
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog/PGA112/
 - Description: Analog : PGA112
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog-PGA112](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog-PGA112)
 - Short Link: [http://oom.lt/SZKANALOGPGA112](http://oom.lt/SZKANALOGPGA112)

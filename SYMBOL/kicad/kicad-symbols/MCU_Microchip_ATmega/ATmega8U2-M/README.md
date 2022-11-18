@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega8U2-M
 - Hex ID: SZKMCUMCHIPATMEGAATMEGA8U2M
 - Name: MCU_Microchip_ATmega : ATmega8U2-M
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_ATmega/ATmega8U2-M/
 - Description: MCU_Microchip_ATmega : ATmega8U2-M
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega8U2-M](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega8U2-M)
 - Short Link: [http://oom.lt/SZKMCUMCHIPATMEGAATMEGA8U2M](http://oom.lt/SZKMCUMCHIPATMEGAATMEGA8U2M)

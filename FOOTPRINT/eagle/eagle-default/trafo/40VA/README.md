@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-trafo-40VA
 - Hex ID: FZETRAFO4VA
 - Name: trafo : 40VA
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/trafo/40VA/
 - Description: trafo : 40VA
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-trafo-40VA](http://oom.lt/FOOTPRINT-eagle-eagle-default-trafo-40VA)
 - Short Link: [http://oom.lt/FZETRAFO4VA](http://oom.lt/FZETRAFO4VA)

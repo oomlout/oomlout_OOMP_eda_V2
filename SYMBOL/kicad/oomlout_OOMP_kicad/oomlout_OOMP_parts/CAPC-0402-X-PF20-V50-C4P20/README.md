@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0402-X-PF20-V50-C4P20
 - Hex ID: SZOOMPKOOMPPCAPC42XPF2V5C4P2
 - Name: oomlout_OOMP_parts : CAPC-0402-X-PF20-V50-C4P20
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/CAPC-0402-X-PF20-V50-C4P20/
 - Description: oomlout_OOMP_parts : CAPC-0402-X-PF20-V50-C4P20
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0402-X-PF20-V50-C4P20](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0402-X-PF20-V50-C4P20)
 - Short Link: [http://oom.lt/SZOOMPKOOMPPCAPC42XPF2V5C4P2](http://oom.lt/SZOOMPKOOMPPCAPC42XPF2V5C4P2)

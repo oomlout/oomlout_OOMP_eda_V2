@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-resistor-dil-CAY16
 - Hex ID: FZERESISTORDILCAY16
 - Name: resistor-dil : CAY16
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/resistor-dil/CAY16/
 - Description: resistor-dil : CAY16
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-resistor-dil-CAY16](http://oom.lt/FOOTPRINT-eagle-eagle-default-resistor-dil-CAY16)
 - Short Link: [http://oom.lt/FZERESISTORDILCAY16](http://oom.lt/FZERESISTORDILCAY16)

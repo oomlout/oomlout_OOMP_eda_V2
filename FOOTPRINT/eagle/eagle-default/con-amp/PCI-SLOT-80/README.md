@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-amp-PCI-SLOT-80
 - Hex ID: FZECONAMPPCISLOT8
 - Name: con-amp : PCI-SLOT-80
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-amp/PCI-SLOT-80/
 - Description: con-amp : PCI-SLOT-80
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-amp-PCI-SLOT-80](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-amp-PCI-SLOT-80)
 - Short Link: [http://oom.lt/FZECONAMPPCISLOT8](http://oom.lt/FZECONAMPPCISLOT8)

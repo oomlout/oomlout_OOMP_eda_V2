@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-switch-ELMA-01-1X12
 - Hex ID: FZESWELMA11X12
 - Name: switch : ELMA-01-1X12
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/switch/ELMA-01-1X12/
 - Description: switch : ELMA-01-1X12
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-ELMA-01-1X12](http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-ELMA-01-1X12)
 - Short Link: [http://oom.lt/FZESWELMA11X12](http://oom.lt/FZESWELMA11X12)

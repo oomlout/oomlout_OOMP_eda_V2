@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-rcl-E55-30
 - Hex ID: FZERCLE553
 - Name: rcl : E55-30
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/rcl/E55-30/
 - Description: rcl : E55-30
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-E55-30](http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-E55-30)
 - Short Link: [http://oom.lt/FZERCLE553](http://oom.lt/FZERCLE553)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Filter-SAFFA881MFL0F0A
 - Hex ID: SZKFILSAFFA881MFLFA
 - Name: Filter : SAFFA881MFL0F0A
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Filter/SAFFA881MFL0F0A/
 - Description: Filter : SAFFA881MFL0F0A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Filter-SAFFA881MFL0F0A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Filter-SAFFA881MFL0F0A)
 - Short Link: [http://oom.lt/SZKFILSAFFA881MFLFA](http://oom.lt/SZKFILSAFFA881MFLFA)

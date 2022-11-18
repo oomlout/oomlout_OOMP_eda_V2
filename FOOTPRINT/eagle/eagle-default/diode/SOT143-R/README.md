@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-diode-SOT143-R
 - Hex ID: FZEDIODESOT143R
 - Name: diode : SOT143-R
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/diode/SOT143-R/
 - Description: diode : SOT143-R
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-diode-SOT143-R](http://oom.lt/FOOTPRINT-eagle-eagle-default-diode-SOT143-R)
 - Short Link: [http://oom.lt/FZEDIODESOT143R](http://oom.lt/FZEDIODESOT143R)

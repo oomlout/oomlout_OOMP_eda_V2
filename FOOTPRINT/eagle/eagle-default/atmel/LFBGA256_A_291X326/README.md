@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-atmel-LFBGA256_A_291X326
 - Hex ID: FZEATMELLFBGA256A291X326
 - Name: atmel : LFBGA256_A_291X326
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/atmel/LFBGA256_A_291X326/
 - Description: atmel : LFBGA256_A_291X326
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-atmel-LFBGA256_A_291X326](http://oom.lt/FOOTPRINT-eagle-eagle-default-atmel-LFBGA256_A_291X326)
 - Short Link: [http://oom.lt/FZEATMELLFBGA256A291X326](http://oom.lt/FZEATMELLFBGA256A291X326)

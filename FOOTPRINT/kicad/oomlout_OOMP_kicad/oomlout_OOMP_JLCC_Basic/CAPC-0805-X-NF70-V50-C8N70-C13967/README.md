@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0805-X-NF70-V50-C8N70-C13967
 - Hex ID: FZOOMPKJLCCAPC85XNF7V5C8N7C13967
 - Name: oomlout_OOMP_JLCC_Basic : CAPC-0805-X-NF70-V50-C8N70-C13967
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_JLCC_Basic/CAPC-0805-X-NF70-V50-C8N70-C13967/
 - Description: oomlout_OOMP_JLCC_Basic : CAPC-0805-X-NF70-V50-C8N70-C13967
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0805-X-NF70-V50-C8N70-C13967](http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0805-X-NF70-V50-C8N70-C13967)
 - Short Link: [http://oom.lt/FZOOMPKJLCCAPC85XNF7V5C8N7C13967](http://oom.lt/FZOOMPKJLCCAPC85XNF7V5C8N7C13967)

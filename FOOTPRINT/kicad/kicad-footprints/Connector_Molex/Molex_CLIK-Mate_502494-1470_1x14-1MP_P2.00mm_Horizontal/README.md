@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_CLIK-Mate_502494-1470_1x14-1MP_P2.00mm_Horizontal
 - Hex ID: FZKCNMXMXCLIKMATE524941471X141MPP2H
 - Name: Connector_Molex : Molex_CLIK-Mate_502494-1470_1x14-1MP_P2.00mm_Horizontal
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_CLIK-Mate_502494-1470_1x14-1MP_P2.00mm_Horizontal/
 - Description: Connector_Molex : Molex_CLIK-Mate_502494-1470_1x14-1MP_P2.00mm_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_CLIK-Mate_502494-1470_1x14-1MP_P2.00mm_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_CLIK-Mate_502494-1470_1x14-1MP_P2.00mm_Horizontal)
 - Short Link: [http://oom.lt/FZKCNMXMXCLIKMATE524941471X141MPP2H](http://oom.lt/FZKCNMXMXCLIKMATE524941471X141MPP2H)

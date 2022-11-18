@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0402-X-PF15-V50-C42P015
 - Hex ID: SZOOMPKOOMPPCAPC42XPF15V5C42P15
 - Name: oomlout_OOMP_parts : CAPC-0402-X-PF15-V50-C42P015
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/CAPC-0402-X-PF15-V50-C42P015/
 - Description: oomlout_OOMP_parts : CAPC-0402-X-PF15-V50-C42P015
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0402-X-PF15-V50-C42P015](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0402-X-PF15-V50-C42P015)
 - Short Link: [http://oom.lt/SZOOMPKOOMPPCAPC42XPF15V5C42P15](http://oom.lt/SZOOMPKOOMPPCAPC42XPF15V5C42P15)

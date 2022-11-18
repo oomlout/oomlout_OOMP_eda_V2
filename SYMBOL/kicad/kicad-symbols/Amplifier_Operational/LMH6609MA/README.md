@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LMH6609MA
 - Hex ID: SZKAMPLIFIEROPERATIONALLMH669MA
 - Name: Amplifier_Operational : LMH6609MA
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/LMH6609MA/
 - Description: Amplifier_Operational : LMH6609MA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LMH6609MA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LMH6609MA)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALLMH669MA](http://oom.lt/SZKAMPLIFIEROPERATIONALLMH669MA)

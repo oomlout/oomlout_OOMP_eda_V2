@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-1N6857UR
 - Hex ID: SZKDIODE1N6857UR
 - Name: Diode : 1N6857UR
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/1N6857UR/
 - Description: Diode : 1N6857UR
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-1N6857UR](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-1N6857UR)
 - Short Link: [http://oom.lt/SZKDIODE1N6857UR](http://oom.lt/SZKDIODE1N6857UR)

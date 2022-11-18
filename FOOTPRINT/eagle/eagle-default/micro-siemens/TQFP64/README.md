@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-micro-siemens-TQFP64
 - Hex ID: FZEMSIEMENSTQFP64
 - Name: micro-siemens : TQFP64
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/micro-siemens/TQFP64/
 - Description: micro-siemens : TQFP64
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-siemens-TQFP64](http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-siemens-TQFP64)
 - Short Link: [http://oom.lt/FZEMSIEMENSTQFP64](http://oom.lt/FZEMSIEMENSTQFP64)

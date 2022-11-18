@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_FFC-FPC-Molex_502231-3300_1x33-1SH_P0.5mm_Vertical
 - Hex ID: FZKCNFFCFPCMX52231331X331SHP5F
 - Name: Connector_FFC-FPC : Molex_502231-3300_1x33-1SH_P0.5mm_Vertical
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_FFC-FPC/Molex_502231-3300_1x33-1SH_P0.5mm_Vertical/
 - Description: Connector_FFC-FPC : Molex_502231-3300_1x33-1SH_P0.5mm_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_FFC-FPC-Molex_502231-3300_1x33-1SH_P0.5mm_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_FFC-FPC-Molex_502231-3300_1x33-1SH_P0.5mm_Vertical)
 - Short Link: [http://oom.lt/FZKCNFFCFPCMX52231331X331SHP5F](http://oom.lt/FZKCNFFCFPCMX52231331X331SHP5F)

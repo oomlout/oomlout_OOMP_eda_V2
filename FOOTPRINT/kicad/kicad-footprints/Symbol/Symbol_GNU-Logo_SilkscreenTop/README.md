@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Symbol-Symbol_GNU-Logo_SilkscreenTop
 - Hex ID: FZKSZSYGNULSILKSCREENTOP
 - Name: Symbol : Symbol_GNU-Logo_SilkscreenTop
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Symbol/Symbol_GNU-Logo_SilkscreenTop/
 - Description: Symbol : Symbol_GNU-Logo_SilkscreenTop
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Symbol-Symbol_GNU-Logo_SilkscreenTop](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Symbol-Symbol_GNU-Logo_SilkscreenTop)
 - Short Link: [http://oom.lt/FZKSZSYGNULSILKSCREENTOP](http://oom.lt/FZKSZSYGNULSILKSCREENTOP)

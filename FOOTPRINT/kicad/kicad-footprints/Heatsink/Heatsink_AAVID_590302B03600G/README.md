@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Heatsink-Heatsink_AAVID_590302B03600G
 - Hex ID: FZKHHAAVID5932B36G
 - Name: Heatsink : Heatsink_AAVID_590302B03600G
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Heatsink/Heatsink_AAVID_590302B03600G/
 - Description: Heatsink : Heatsink_AAVID_590302B03600G
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Heatsink-Heatsink_AAVID_590302B03600G](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Heatsink-Heatsink_AAVID_590302B03600G)
 - Short Link: [http://oom.lt/FZKHHAAVID5932B36G](http://oom.lt/FZKHHAAVID5932B36G)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-relay-AQZ-SIL04
 - Hex ID: FZERELAYAQZSIL4
 - Name: relay : AQZ-SIL04
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/relay/AQZ-SIL04/
 - Description: relay : AQZ-SIL04
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-AQZ-SIL04](http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-AQZ-SIL04)
 - Short Link: [http://oom.lt/FZERELAYAQZSIL4](http://oom.lt/FZERELAYAQZSIL4)

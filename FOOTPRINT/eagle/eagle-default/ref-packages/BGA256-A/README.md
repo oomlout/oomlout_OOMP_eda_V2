@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEREFPACKAGESBGA256A > ref-packages : BGA256-A](#fzerefpackagesbga256a--ref-packages--bga256-a)
+* [FZEREFPSBGA256A > ref-packages : BGA256-A](#fzerefpsbga256a--ref-packages--bga256-a)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEREFPACKAGESBGA256A > ref-packages : BGA256-A
+# FZEREFPSBGA256A > ref-packages : BGA256-A
 
 - ID: FOOTPRINT-eagle-eagle-default-ref-packages-BGA256-A
-- Hex ID: FZEREFPACKAGESBGA256A
+- Hex ID: FZEREFPSBGA256A
 - Name: ref-packages : BGA256-A
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ref-packages/BGA256-A/
 - Description: ref-packages : BGA256-A
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-BGA256-A](http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-BGA256-A)
-- Short Link: [http://oom.lt/FZEREFPACKAGESBGA256A](http://oom.lt/FZEREFPACKAGESBGA256A)
+- Short Link: [http://oom.lt/FZEREFPSBGA256A](http://oom.lt/FZEREFPSBGA256A)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|ref-packages|
 |OOMP Index|oompIndex|BGA256-A|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-ref-packages-BGA256-A|
-|Hex ID (short code)|hexID|FZEREFPACKAGESBGA256A|
+|Hex ID (short code)|hexID|FZEREFPSBGA256A|
 |name|name|ref-packages : BGA256-A|
 ||||

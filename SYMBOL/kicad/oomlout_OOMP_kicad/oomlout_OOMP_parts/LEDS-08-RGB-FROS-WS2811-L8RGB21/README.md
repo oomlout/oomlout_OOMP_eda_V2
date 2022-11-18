@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-LEDS-08-RGB-FROS-WS2811-L8RGB21
 - Hex ID: SZOOMPKOOMPPLS8RGBFROSWS2811L8RGB21
 - Name: oomlout_OOMP_parts : LEDS-08-RGB-FROS-WS2811-L8RGB21
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/LEDS-08-RGB-FROS-WS2811-L8RGB21/
 - Description: oomlout_OOMP_parts : LEDS-08-RGB-FROS-WS2811-L8RGB21
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-LEDS-08-RGB-FROS-WS2811-L8RGB21](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-LEDS-08-RGB-FROS-WS2811-L8RGB21)
 - Short Link: [http://oom.lt/SZOOMPKOOMPPLS8RGBFROSWS2811L8RGB21](http://oom.lt/SZOOMPKOOMPPLS8RGBFROSWS2811L8RGB21)

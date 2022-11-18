@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Capacitor_THT-CP_Axial_L37.0mm_D13.0mm_P43.00mm_Horizontal
 - Hex ID: FZKCCPAXIALL37D13P43H
 - Name: Capacitor_THT : CP_Axial_L37.0mm_D13.0mm_P43.00mm_Horizontal
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Capacitor_THT/CP_Axial_L37.0mm_D13.0mm_P43.00mm_Horizontal/
 - Description: Capacitor_THT : CP_Axial_L37.0mm_D13.0mm_P43.00mm_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_THT-CP_Axial_L37.0mm_D13.0mm_P43.00mm_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_THT-CP_Axial_L37.0mm_D13.0mm_P43.00mm_Horizontal)
 - Short Link: [http://oom.lt/FZKCCPAXIALL37D13P43H](http://oom.lt/FZKCCPAXIALL37D13P43H)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-wago-234-207
 - Hex ID: FZECONWAGO23427
 - Name: con-wago : 234-207
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-wago/234-207/
 - Description: con-wago : 234-207
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-wago-234-207](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-wago-234-207)
 - Short Link: [http://oom.lt/FZECONWAGO23427](http://oom.lt/FZECONWAGO23427)

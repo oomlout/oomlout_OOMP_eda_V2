@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-atmel-LQFP100
 - Hex ID: FZEATMELLQFP1
 - Name: atmel : LQFP100
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/atmel/LQFP100/
 - Description: atmel : LQFP100
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-atmel-LQFP100](http://oom.lt/FOOTPRINT-eagle-eagle-default-atmel-LQFP100)
 - Short Link: [http://oom.lt/FZEATMELLQFP1](http://oom.lt/FZEATMELLQFP1)

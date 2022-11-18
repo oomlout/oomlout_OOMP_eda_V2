@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Switch_Tactile_SMD_6x6mm_PTS645
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSSWTSM6X6PTS645
 - Name: digikey-footprints : Switch_Tactile_SMD_6x6mm_PTS645
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Switch_Tactile_SMD_6x6mm_PTS645/
 - Description: digikey-footprints : Switch_Tactile_SMD_6x6mm_PTS645
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Switch_Tactile_SMD_6x6mm_PTS645](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Switch_Tactile_SMD_6x6mm_PTS645)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSSWTSM6X6PTS645](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSSWTSM6X6PTS645)

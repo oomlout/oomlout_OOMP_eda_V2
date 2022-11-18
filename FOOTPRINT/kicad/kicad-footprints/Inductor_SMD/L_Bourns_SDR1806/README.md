@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Bourns_SDR1806
 - Hex ID: FZKINLBOURNSSDR186
 - Name: Inductor_SMD : L_Bourns_SDR1806
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Bourns_SDR1806/
 - Description: Inductor_SMD : L_Bourns_SDR1806
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Bourns_SDR1806](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Bourns_SDR1806)
 - Short Link: [http://oom.lt/FZKINLBOURNSSDR186](http://oom.lt/FZKINLBOURNSSDR186)

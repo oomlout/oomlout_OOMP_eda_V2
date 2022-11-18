@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Capacitor_THT-C_Rect_L28.0mm_W12.0mm_P22.50mm_MKS4
 - Hex ID: FZKCCRECTL28W12P225MKS4
 - Name: Capacitor_THT : C_Rect_L28.0mm_W12.0mm_P22.50mm_MKS4
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Capacitor_THT/C_Rect_L28.0mm_W12.0mm_P22.50mm_MKS4/
 - Description: Capacitor_THT : C_Rect_L28.0mm_W12.0mm_P22.50mm_MKS4
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_THT-C_Rect_L28.0mm_W12.0mm_P22.50mm_MKS4](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_THT-C_Rect_L28.0mm_W12.0mm_P22.50mm_MKS4)
 - Short Link: [http://oom.lt/FZKCCRECTL28W12P225MKS4](http://oom.lt/FZKCCRECTL28W12P225MKS4)

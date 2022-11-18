@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-resistor-dil-EXB2HV
 - Hex ID: FZERESISTORDILEXB2HV
 - Name: resistor-dil : EXB2HV
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/resistor-dil/EXB2HV/
 - Description: resistor-dil : EXB2HV
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-resistor-dil-EXB2HV](http://oom.lt/FOOTPRINT-eagle-eagle-default-resistor-dil-EXB2HV)
 - Short Link: [http://oom.lt/FZERESISTORDILEXB2HV](http://oom.lt/FZERESISTORDILEXB2HV)

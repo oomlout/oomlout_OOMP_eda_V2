@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Power-TO-252
 - Hex ID: FZSIPTO252
 - Name: SparkFun-IC-Power : TO-252
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-IC-Power/TO-252/
 - Description: SparkFun-IC-Power : TO-252
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Power-TO-252](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Power-TO-252)
 - Short Link: [http://oom.lt/FZSIPTO252](http://oom.lt/FZSIPTO252)

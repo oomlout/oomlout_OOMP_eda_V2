@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-LED-PLCC-6-LED
 - Hex ID: FZSLPLCC6L
 - Name: SparkFun-LED : PLCC-6-LED
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-LED/PLCC-6-LED/
 - Description: SparkFun-LED : PLCC-6-LED
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-LED-PLCC-6-LED](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-LED-PLCC-6-LED)
 - Short Link: [http://oom.lt/FZSLPLCC6L](http://oom.lt/FZSLPLCC6L)

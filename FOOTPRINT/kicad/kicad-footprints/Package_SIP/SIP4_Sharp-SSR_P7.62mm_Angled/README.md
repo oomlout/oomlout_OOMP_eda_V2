@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_SIP-SIP4_Sharp-SSR_P7.62mm_Angled
 - Hex ID: FZKSIPSIP4SHARPSSRP762ANGL
 - Name: Package_SIP : SIP4_Sharp-SSR_P7.62mm_Angled
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SIP/SIP4_Sharp-SSR_P7.62mm_Angled/
 - Description: Package_SIP : SIP4_Sharp-SSR_P7.62mm_Angled
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SIP-SIP4_Sharp-SSR_P7.62mm_Angled](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SIP-SIP4_Sharp-SSR_P7.62mm_Angled)
 - Short Link: [http://oom.lt/FZKSIPSIP4SHARPSSRP762ANGL](http://oom.lt/FZKSIPSIP4SHARPSSRP762ANGL)

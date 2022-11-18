@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Bourns-SRR1005
 - Hex ID: FZKINLBOURNSSRR15
 - Name: Inductor_SMD : L_Bourns-SRR1005
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Bourns-SRR1005/
 - Description: Inductor_SMD : L_Bourns-SRR1005
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Bourns-SRR1005](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Bourns-SRR1005)
 - Short Link: [http://oom.lt/FZKINLBOURNSSRR15](http://oom.lt/FZKINLBOURNSSRR15)

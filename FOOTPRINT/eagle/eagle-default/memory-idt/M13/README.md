@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-memory-idt-M13
 - Hex ID: FZEMEMORYIDTM13
 - Name: memory-idt : M13
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/memory-idt/M13/
 - Description: memory-idt : M13
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-memory-idt-M13](http://oom.lt/FOOTPRINT-eagle-eagle-default-memory-idt-M13)
 - Short Link: [http://oom.lt/FZEMEMORYIDTM13](http://oom.lt/FZEMEMORYIDTM13)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0805-X-PF12-V50-C8P12
 - Hex ID: FZOOMPKOOMPPCAPC85XPF12V5C8P12
 - Name: oomlout_OOMP_parts : CAPC-0805-X-PF12-V50-C8P12
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/CAPC-0805-X-PF12-V50-C8P12/
 - Description: oomlout_OOMP_parts : CAPC-0805-X-PF12-V50-C8P12
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0805-X-PF12-V50-C8P12](http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0805-X-PF12-V50-C8P12)
 - Short Link: [http://oom.lt/FZOOMPKOOMPPCAPC85XPF12V5C8P12](http://oom.lt/FZOOMPKOOMPPCAPC85XPF12V5C8P12)

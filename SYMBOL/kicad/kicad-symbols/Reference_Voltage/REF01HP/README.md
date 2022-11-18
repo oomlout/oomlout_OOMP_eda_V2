@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Reference_Voltage-REF01HP
 - Hex ID: SZKREFERENCEVOLTAGEREF1HP
 - Name: Reference_Voltage : REF01HP
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Reference_Voltage/REF01HP/
 - Description: Reference_Voltage : REF01HP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Voltage-REF01HP](http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Voltage-REF01HP)
 - Short Link: [http://oom.lt/SZKREFERENCEVOLTAGEREF1HP](http://oom.lt/SZKREFERENCEVOLTAGEREF1HP)

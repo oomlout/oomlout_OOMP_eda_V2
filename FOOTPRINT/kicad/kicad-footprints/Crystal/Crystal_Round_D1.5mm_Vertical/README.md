@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_Round_D1.5mm_Vertical
 - Hex ID: FZKXXROUNDD15F
 - Name: Crystal : Crystal_Round_D1.5mm_Vertical
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_Round_D1.5mm_Vertical/
 - Description: Crystal : Crystal_Round_D1.5mm_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_Round_D1.5mm_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_Round_D1.5mm_Vertical)
 - Short Link: [http://oom.lt/FZKXXROUNDD15F](http://oom.lt/FZKXXROUNDD15F)

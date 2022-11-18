@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-OPA2340
 - Hex ID: SZKAMPLIFIEROPERATIONALOPA234
 - Name: Amplifier_Operational : OPA2340
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/OPA2340/
 - Description: Amplifier_Operational : OPA2340
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-OPA2340](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-OPA2340)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALOPA234](http://oom.lt/SZKAMPLIFIEROPERATIONALOPA234)

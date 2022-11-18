@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-SMTSO-256-ET-0.165DIA
 - Hex ID: FZSSPARKFUNCNSSSO256ET165DIA
 - Name: SparkFun-Connectors : SMTSO-256-ET-0.165DIA
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Connectors/SMTSO-256-ET-0.165DIA/
 - Description: SparkFun-Connectors : SMTSO-256-ET-0.165DIA
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-SMTSO-256-ET-0.165DIA](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-SMTSO-256-ET-0.165DIA)
 - Short Link: [http://oom.lt/FZSSPARKFUNCNSSSO256ET165DIA](http://oom.lt/FZSSPARKFUNCNSSSO256ET165DIA)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F7-STM32F769NGHx
 - Hex ID: SZKMCUSTSTM32F7STM32F769NGHX
 - Name: MCU_ST_STM32F7 : STM32F769NGHx
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32F7/STM32F769NGHx/
 - Description: MCU_ST_STM32F7 : STM32F769NGHx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F7-STM32F769NGHx](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F7-STM32F769NGHx)
 - Short Link: [http://oom.lt/SZKMCUSTSTM32F7STM32F769NGHX](http://oom.lt/SZKMCUSTSTM32F7STM32F769NGHX)

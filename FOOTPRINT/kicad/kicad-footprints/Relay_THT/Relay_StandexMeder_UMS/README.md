@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Relay_THT-Relay_StandexMeder_UMS
 - Hex ID: FZKRELRELAYSTANDEXMEDERUMS
 - Name: Relay_THT : Relay_StandexMeder_UMS
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Relay_THT/Relay_StandexMeder_UMS/
 - Description: Relay_THT : Relay_StandexMeder_UMS
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Relay_THT-Relay_StandexMeder_UMS](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Relay_THT-Relay_StandexMeder_UMS)
 - Short Link: [http://oom.lt/FZKRELRELAYSTANDEXMEDERUMS](http://oom.lt/FZKRELRELAYSTANDEXMEDERUMS)

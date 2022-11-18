@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-linear-DIL08
 - Hex ID: FZELINEARDIL8
 - Name: linear : DIL08
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/linear/DIL08/
 - Description: linear : DIL08
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-linear-DIL08](http://oom.lt/FOOTPRINT-eagle-eagle-default-linear-DIL08)
 - Short Link: [http://oom.lt/FZELINEARDIL8](http://oom.lt/FZELINEARDIL8)

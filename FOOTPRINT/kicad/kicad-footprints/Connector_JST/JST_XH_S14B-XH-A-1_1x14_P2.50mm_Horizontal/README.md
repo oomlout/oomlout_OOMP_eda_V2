@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_XH_S14B-XH-A-1_1x14_P2.50mm_Horizontal
 - Hex ID: FZKCNJSTJSTXHS14BXHA11X14P25H
 - Name: Connector_JST : JST_XH_S14B-XH-A-1_1x14_P2.50mm_Horizontal
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_XH_S14B-XH-A-1_1x14_P2.50mm_Horizontal/
 - Description: Connector_JST : JST_XH_S14B-XH-A-1_1x14_P2.50mm_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_XH_S14B-XH-A-1_1x14_P2.50mm_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_XH_S14B-XH-A-1_1x14_P2.50mm_Horizontal)
 - Short Link: [http://oom.lt/FZKCNJSTJSTXHS14BXHA11X14P25H](http://oom.lt/FZKCNJSTJSTXHS14BXHA11X14P25H)

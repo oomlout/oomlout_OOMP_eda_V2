@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-LTC1436A
 - Hex ID: SZKREGULATORSWINGLTC1436A
 - Name: Regulator_Switching : LTC1436A
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/LTC1436A/
 - Description: Regulator_Switching : LTC1436A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LTC1436A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LTC1436A)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGLTC1436A](http://oom.lt/SZKREGULATORSWINGLTC1436A)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-RF_Shielding-Laird_Technologies_97-2002_25.40x25.40mm
 - Hex ID: FZKRFSLAIRDTECHNOLOGIES9722254X254
 - Name: RF_Shielding : Laird_Technologies_97-2002_25.40x25.40mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/RF_Shielding/Laird_Technologies_97-2002_25.40x25.40mm/
 - Description: RF_Shielding : Laird_Technologies_97-2002_25.40x25.40mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_Shielding-Laird_Technologies_97-2002_25.40x25.40mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_Shielding-Laird_Technologies_97-2002_25.40x25.40mm)
 - Short Link: [http://oom.lt/FZKRFSLAIRDTECHNOLOGIES9722254X254](http://oom.lt/FZKRFSLAIRDTECHNOLOGIES9722254X254)

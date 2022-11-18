@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-rcl-P0817_22
 - Hex ID: FZERCLP81722
 - Name: rcl : P0817_22
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/rcl/P0817_22/
 - Description: rcl : P0817_22
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-P0817_22](http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-P0817_22)
 - Short Link: [http://oom.lt/FZERCLP81722](http://oom.lt/FZERCLP81722)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-photo-elements-M9960_H
 - Hex ID: FZEPHOTOELEMENTSM996H
 - Name: photo-elements : M9960_H
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/photo-elements/M9960_H/
 - Description: photo-elements : M9960_H
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-photo-elements-M9960_H](http://oom.lt/FOOTPRINT-eagle-eagle-default-photo-elements-M9960_H)
 - Short Link: [http://oom.lt/FZEPHOTOELEMENTSM996H](http://oom.lt/FZEPHOTOELEMENTSM996H)

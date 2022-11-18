@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-relay-LY30
 - Hex ID: FZERELAYLY3
 - Name: relay : LY30
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/relay/LY30/
 - Description: relay : LY30
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-LY30](http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-LY30)
 - Short Link: [http://oom.lt/FZERELAYLY3](http://oom.lt/FZERELAYLY3)

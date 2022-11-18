@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-special-LCD-16X4
 - Hex ID: FZESPECIALLCD16X4
 - Name: special : LCD-16X4
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/special/LCD-16X4/
 - Description: special : LCD-16X4
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-special-LCD-16X4](http://oom.lt/FOOTPRINT-eagle-eagle-default-special-LCD-16X4)
 - Short Link: [http://oom.lt/FZESPECIALLCD16X4](http://oom.lt/FZESPECIALLCD16X4)

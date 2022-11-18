@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-battery-DEL01
 - Hex ID: FZEBATDEL1
 - Name: battery : DEL01
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/battery/DEL01/
 - Description: battery : DEL01
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-battery-DEL01](http://oom.lt/FOOTPRINT-eagle-eagle-default-battery-DEL01)
 - Short Link: [http://oom.lt/FZEBATDEL1](http://oom.lt/FZEBATDEL1)

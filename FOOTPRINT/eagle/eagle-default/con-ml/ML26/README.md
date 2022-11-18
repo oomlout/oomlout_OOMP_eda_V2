@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-ml-ML26
 - Hex ID: FZECONMLML26
 - Name: con-ml : ML26
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-ml/ML26/
 - Description: con-ml : ML26
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-ml-ML26](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-ml-ML26)
 - Short Link: [http://oom.lt/FZECONMLML26](http://oom.lt/FZECONMLML26)

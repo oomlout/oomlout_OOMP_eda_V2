@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Battery_Management-LTC4001
 - Hex ID: SZKBATMANAGEMENTLTC41
 - Name: Battery_Management : LTC4001
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Battery_Management/LTC4001/
 - Description: Battery_Management : LTC4001
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Battery_Management-LTC4001](http://oom.lt/SYMBOL-kicad-kicad-symbols-Battery_Management-LTC4001)
 - Short Link: [http://oom.lt/SZKBATMANAGEMENTLTC41](http://oom.lt/SZKBATMANAGEMENTLTC41)

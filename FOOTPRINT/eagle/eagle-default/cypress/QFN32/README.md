@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-cypress-QFN32
 - Hex ID: FZECYPRESSQFN32
 - Name: cypress : QFN32
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/cypress/QFN32/
 - Description: cypress : QFN32
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-cypress-QFN32](http://oom.lt/FOOTPRINT-eagle-eagle-default-cypress-QFN32)
 - Short Link: [http://oom.lt/FZECYPRESSQFN32](http://oom.lt/FZECYPRESSQFN32)

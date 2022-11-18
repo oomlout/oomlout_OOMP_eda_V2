@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-MBR745
 - Hex ID: SZKDIODEMBR745
 - Name: Diode : MBR745
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/MBR745/
 - Description: Diode : MBR745
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-MBR745](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-MBR745)
 - Short Link: [http://oom.lt/SZKDIODEMBR745](http://oom.lt/SZKDIODEMBR745)

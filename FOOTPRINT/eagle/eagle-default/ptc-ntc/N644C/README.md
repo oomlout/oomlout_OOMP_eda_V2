@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-ptc-ntc-N644C
 - Hex ID: FZEPTCNTCN644C
 - Name: ptc-ntc : N644C
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ptc-ntc/N644C/
 - Description: ptc-ntc : N644C
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ptc-ntc-N644C](http://oom.lt/FOOTPRINT-eagle-eagle-default-ptc-ntc-N644C)
 - Short Link: [http://oom.lt/FZEPTCNTCN644C](http://oom.lt/FZEPTCNTCN644C)

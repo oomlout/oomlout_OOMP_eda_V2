@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Converter_DCDC-IH4809DH
 - Hex ID: SZKCONIH489DH
 - Name: Converter_DCDC : IH4809DH
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Converter_DCDC/IH4809DH/
 - Description: Converter_DCDC : IH4809DH
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-IH4809DH](http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-IH4809DH)
 - Short Link: [http://oom.lt/SZKCONIH489DH](http://oom.lt/SZKCONIH489DH)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-power--48V
 - Hex ID: SZKPOWER48V
 - Name: power : -48V
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/power/-48V/
 - Description: power : -48V
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-power--48V](http://oom.lt/SYMBOL-kicad-kicad-symbols-power--48V)
 - Short Link: [http://oom.lt/SZKPOWER48V](http://oom.lt/SZKPOWER48V)

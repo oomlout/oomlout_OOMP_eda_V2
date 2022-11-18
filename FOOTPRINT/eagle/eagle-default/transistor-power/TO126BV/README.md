@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-transistor-power-TO126BV
 - Hex ID: FZETRANSISTORPOWERTO126BV
 - Name: transistor-power : TO126BV
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/transistor-power/TO126BV/
 - Description: transistor-power : TO126BV
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-power-TO126BV](http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-power-TO126BV)
 - Short Link: [http://oom.lt/FZETRANSISTORPOWERTO126BV](http://oom.lt/FZETRANSISTORPOWERTO126BV)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-416
 - Hex ID: FZKSOTSOT416
 - Name: Package_TO_SOT_SMD : SOT-416
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/SOT-416/
 - Description: Package_TO_SOT_SMD : SOT-416
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-416](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-416)
 - Short Link: [http://oom.lt/FZKSOTSOT416](http://oom.lt/FZKSOTSOT416)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Electromechanical-HEATSINK_PRT-9576
 - Hex ID: FZSEHPRT9576
 - Name: SparkFun-Electromechanical : HEATSINK_PRT-9576
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Electromechanical/HEATSINK_PRT-9576/
 - Description: SparkFun-Electromechanical : HEATSINK_PRT-9576
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Electromechanical-HEATSINK_PRT-9576](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Electromechanical-HEATSINK_PRT-9576)
 - Short Link: [http://oom.lt/FZSEHPRT9576](http://oom.lt/FZSEHPRT9576)

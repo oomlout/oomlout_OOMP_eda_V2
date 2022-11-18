@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Coilcraft_LPS3314
 - Hex ID: FZKINLCOILCRAFTLPS3314
 - Name: Inductor_SMD : L_Coilcraft_LPS3314
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Coilcraft_LPS3314/
 - Description: Inductor_SMD : L_Coilcraft_LPS3314
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Coilcraft_LPS3314](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Coilcraft_LPS3314)
 - Short Link: [http://oom.lt/FZKINLCOILCRAFTLPS3314](http://oom.lt/FZKINLCOILCRAFTLPS3314)

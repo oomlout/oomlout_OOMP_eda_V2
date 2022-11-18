@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O274-01-R6O274
 - Hex ID: FZOOMPKOOMPPRESE63XO2741R6O274
 - Name: oomlout_OOMP_parts : RESE-0603-X-O274-01-R6O274
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/RESE-0603-X-O274-01-R6O274/
 - Description: oomlout_OOMP_parts : RESE-0603-X-O274-01-R6O274
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O274-01-R6O274](http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O274-01-R6O274)
 - Short Link: [http://oom.lt/FZOOMPKOOMPPRESE63XO2741R6O274](http://oom.lt/FZOOMPKOOMPPRESE63XO2741R6O274)

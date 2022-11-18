@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Connector-HDMI_C_1.3
 - Hex ID: SZKCNHDMIC13
 - Name: Connector : HDMI_C_1.3
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector/HDMI_C_1.3/
 - Description: Connector : HDMI_C_1.3
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-HDMI_C_1.3](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-HDMI_C_1.3)
 - Short Link: [http://oom.lt/SZKCNHDMIC13](http://oom.lt/SZKCNHDMIC13)

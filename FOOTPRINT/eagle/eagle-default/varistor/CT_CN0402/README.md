@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-varistor-CT_CN0402
 - Hex ID: FZEVCTCN42
 - Name: varistor : CT_CN0402
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/varistor/CT_CN0402/
 - Description: varistor : CT_CN0402
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-varistor-CT_CN0402](http://oom.lt/FOOTPRINT-eagle-eagle-default-varistor-CT_CN0402)
 - Short Link: [http://oom.lt/FZEVCTCN42](http://oom.lt/FZEVCTCN42)

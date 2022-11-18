@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Controller-UCC25600
 - Hex ID: SZKREGULATORCONTROLLERUCC256
 - Name: Regulator_Controller : UCC25600
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Controller/UCC25600/
 - Description: Regulator_Controller : UCC25600
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Controller-UCC25600](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Controller-UCC25600)
 - Short Link: [http://oom.lt/SZKREGULATORCONTROLLERUCC256](http://oom.lt/SZKREGULATORCONTROLLERUCC256)

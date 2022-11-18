@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-BZX84Cxx
 - Hex ID: SZKDIODEBZX84CXX
 - Name: Diode : BZX84Cxx
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/BZX84Cxx/
 - Description: Diode : BZX84Cxx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-BZX84Cxx](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-BZX84Cxx)
 - Short Link: [http://oom.lt/SZKDIODEBZX84CXX](http://oom.lt/SZKDIODEBZX84CXX)

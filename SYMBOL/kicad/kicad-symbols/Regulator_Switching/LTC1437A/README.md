@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-LTC1437A
 - Hex ID: SZKREGULATORSWINGLTC1437A
 - Name: Regulator_Switching : LTC1437A
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/LTC1437A/
 - Description: Regulator_Switching : LTC1437A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LTC1437A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LTC1437A)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGLTC1437A](http://oom.lt/SZKREGULATORSWINGLTC1437A)

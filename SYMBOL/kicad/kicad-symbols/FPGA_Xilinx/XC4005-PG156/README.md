@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-FPGA_Xilinx-XC4005-PG156
 - Hex ID: SZKFPGAXILINXXC45PG156
 - Name: FPGA_Xilinx : XC4005-PG156
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/FPGA_Xilinx/XC4005-PG156/
 - Description: FPGA_Xilinx : XC4005-PG156
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-FPGA_Xilinx-XC4005-PG156](http://oom.lt/SYMBOL-kicad-kicad-symbols-FPGA_Xilinx-XC4005-PG156)
 - Short Link: [http://oom.lt/SZKFPGAXILINXXC45PG156](http://oom.lt/SZKFPGAXILINXXC45PG156)

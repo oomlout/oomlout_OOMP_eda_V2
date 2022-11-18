@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-LM3670MF
 - Hex ID: SZKREGULATORSWINGLM367MF
 - Name: Regulator_Switching : LM3670MF
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/LM3670MF/
 - Description: Regulator_Switching : LM3670MF
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LM3670MF](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LM3670MF)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGLM367MF](http://oom.lt/SZKREGULATORSWINGLM367MF)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-74xGxx-74AHC1G4210
 - Hex ID: SZK74XGXX74AHC1G421
 - Name: 74xGxx : 74AHC1G4210
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/74xGxx/74AHC1G4210/
 - Description: 74xGxx : 74AHC1G4210
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-74xGxx-74AHC1G4210](http://oom.lt/SYMBOL-kicad-kicad-symbols-74xGxx-74AHC1G4210)
 - Short Link: [http://oom.lt/SZK74XGXX74AHC1G421](http://oom.lt/SZK74XGXX74AHC1G421)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Bourns_SRP2313AA
 - Hex ID: FZKINLBOURNSSRP2313AA
 - Name: Inductor_SMD : L_Bourns_SRP2313AA
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Bourns_SRP2313AA/
 - Description: Inductor_SMD : L_Bourns_SRP2313AA
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Bourns_SRP2313AA](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Bourns_SRP2313AA)
 - Short Link: [http://oom.lt/FZKINLBOURNSSRP2313AA](http://oom.lt/FZKINLBOURNSSRP2313AA)

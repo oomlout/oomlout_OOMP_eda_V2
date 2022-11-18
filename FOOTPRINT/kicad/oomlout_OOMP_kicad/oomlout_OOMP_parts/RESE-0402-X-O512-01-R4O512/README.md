@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0402-X-O512-01-R4O512
 - Hex ID: FZOOMPKOOMPPRESE42XO5121R4O512
 - Name: oomlout_OOMP_parts : RESE-0402-X-O512-01-R4O512
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/RESE-0402-X-O512-01-R4O512/
 - Description: oomlout_OOMP_parts : RESE-0402-X-O512-01-R4O512
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0402-X-O512-01-R4O512](http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0402-X-O512-01-R4O512)
 - Short Link: [http://oom.lt/FZOOMPKOOMPPRESE42XO5121R4O512](http://oom.lt/FZOOMPKOOMPPRESE42XO5121R4O512)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface-U2270B
 - Hex ID: SZKINTERFACEU227B
 - Name: Interface : U2270B
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface/U2270B/
 - Description: Interface : U2270B
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-U2270B](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-U2270B)
 - Short Link: [http://oom.lt/SZKINTERFACEU227B](http://oom.lt/SZKINTERFACEU227B)

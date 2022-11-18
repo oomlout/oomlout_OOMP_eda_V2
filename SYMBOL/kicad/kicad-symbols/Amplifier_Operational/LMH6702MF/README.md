@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LMH6702MF
 - Hex ID: SZKAMPLIFIEROPERATIONALLMH672MF
 - Name: Amplifier_Operational : LMH6702MF
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/LMH6702MF/
 - Description: Amplifier_Operational : LMH6702MF
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LMH6702MF](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LMH6702MF)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALLMH672MF](http://oom.lt/SZKAMPLIFIEROPERATIONALLMH672MF)

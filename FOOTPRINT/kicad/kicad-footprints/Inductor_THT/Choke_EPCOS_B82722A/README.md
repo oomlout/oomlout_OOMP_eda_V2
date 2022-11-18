@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_THT-Choke_EPCOS_B82722A
 - Hex ID: FZKINCHOKEEPCOSB82722A
 - Name: Inductor_THT : Choke_EPCOS_B82722A
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/Choke_EPCOS_B82722A/
 - Description: Inductor_THT : Choke_EPCOS_B82722A
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_THT-Choke_EPCOS_B82722A](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_THT-Choke_EPCOS_B82722A)
 - Short Link: [http://oom.lt/FZKINCHOKEEPCOSB82722A](http://oom.lt/FZKINCHOKEEPCOSB82722A)

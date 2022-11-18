@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-DP6037_V1
 - Hex ID: FZSRTDP637V1
 - Name: SparkFun-Retired : DP6037_V1
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Retired/DP6037_V1/
 - Description: SparkFun-Retired : DP6037_V1
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-DP6037_V1](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-DP6037_V1)
 - Short Link: [http://oom.lt/FZSRTDP637V1](http://oom.lt/FZSRTDP637V1)

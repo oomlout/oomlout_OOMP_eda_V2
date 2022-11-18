@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKINLMOUNTLODESTONEVTM12 > Inductor_THT : L_Mount_Lodestone_VTM120](#fzkinlmountlodestonevtm12--inductor_tht--l_mount_lodestone_vtm120)
+* [FZKINLMLODESTONEVTM12 > Inductor_THT : L_Mount_Lodestone_VTM120](#fzkinlmlodestonevtm12--inductor_tht--l_mount_lodestone_vtm120)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKINLMOUNTLODESTONEVTM12 > Inductor_THT : L_Mount_Lodestone_VTM120
+# FZKINLMLODESTONEVTM12 > Inductor_THT : L_Mount_Lodestone_VTM120
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Mount_Lodestone_VTM120
-- Hex ID: FZKINLMOUNTLODESTONEVTM12
+- Hex ID: FZKINLMLODESTONEVTM12
 - Name: Inductor_THT : L_Mount_Lodestone_VTM120
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Mount_Lodestone_VTM120/
 - Description: Inductor_THT : L_Mount_Lodestone_VTM120
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Mount_Lodestone_VTM120](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Mount_Lodestone_VTM120)
-- Short Link: [http://oom.lt/FZKINLMOUNTLODESTONEVTM12](http://oom.lt/FZKINLMOUNTLODESTONEVTM12)
+- Short Link: [http://oom.lt/FZKINLMLODESTONEVTM12](http://oom.lt/FZKINLMLODESTONEVTM12)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Inductor_THT|
 |OOMP Index|oompIndex|L_Mount_Lodestone_VTM120|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Mount_Lodestone_VTM120|
-|Hex ID (short code)|hexID|FZKINLMOUNTLODESTONEVTM12|
+|Hex ID (short code)|hexID|FZKINLMLODESTONEVTM12|
 |name|name|Inductor_THT : L_Mount_Lodestone_VTM120|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'L_Mount_Lodestone_VTM120'</td><td> 'description'</td></tr><tr><td> 'Lodestone Pacific</td><td> 30.48mm diameter vertical toroid mount</td><td> 16AWG/1.27mm holes</td><td> http</td></tr><tr><td>//www.lodestonepacific.com/CatKpdf/VTM_Series.pdf'</td><td> 'tags'</td></tr><tr><td> 'vertical inductor toroid mount'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Inductor_THT.3dshapes/L_Mount_Lodestone_VTM120.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||

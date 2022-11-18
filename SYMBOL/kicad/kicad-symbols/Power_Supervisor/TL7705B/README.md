@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Power_Supervisor-TL7705B
 - Hex ID: SZKPOWERSUPERVISORTL775B
 - Name: Power_Supervisor : TL7705B
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Power_Supervisor/TL7705B/
 - Description: Power_Supervisor : TL7705B
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Supervisor-TL7705B](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Supervisor-TL7705B)
 - Short Link: [http://oom.lt/SZKPOWERSUPERVISORTL775B](http://oom.lt/SZKPOWERSUPERVISORTL775B)

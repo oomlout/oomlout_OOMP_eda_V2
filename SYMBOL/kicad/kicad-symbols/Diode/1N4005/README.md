@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-1N4005
 - Hex ID: SZKDIODE1N45
 - Name: Diode : 1N4005
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/1N4005/
 - Description: Diode : 1N4005
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-1N4005](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-1N4005)
 - Short Link: [http://oom.lt/SZKDIODE1N45](http://oom.lt/SZKDIODE1N45)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_Expansion-PCA9536D
 - Hex ID: SZKINTERFACEEXPANSIONPCA9536D
 - Name: Interface_Expansion : PCA9536D
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_Expansion/PCA9536D/
 - Description: Interface_Expansion : PCA9536D
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Expansion-PCA9536D](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Expansion-PCA9536D)
 - Short Link: [http://oom.lt/SZKINTERFACEEXPANSIONPCA9536D](http://oom.lt/SZKINTERFACEEXPANSIONPCA9536D)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-microchip-TSOP28
 - Hex ID: FZEMCHIPTS28
 - Name: microchip : TSOP28
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/microchip/TSOP28/
 - Description: microchip : TSOP28
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-microchip-TSOP28](http://oom.lt/FOOTPRINT-eagle-eagle-default-microchip-TSOP28)
 - Short Link: [http://oom.lt/FZEMCHIPTS28](http://oom.lt/FZEMCHIPTS28)

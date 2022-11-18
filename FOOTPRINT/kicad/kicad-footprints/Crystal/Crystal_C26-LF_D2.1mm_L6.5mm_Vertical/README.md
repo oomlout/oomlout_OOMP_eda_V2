@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_C26-LF_D2.1mm_L6.5mm_Vertical
 - Hex ID: FZKXXC26LFD21L65F
 - Name: Crystal : Crystal_C26-LF_D2.1mm_L6.5mm_Vertical
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_C26-LF_D2.1mm_L6.5mm_Vertical/
 - Description: Crystal : Crystal_C26-LF_D2.1mm_L6.5mm_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_C26-LF_D2.1mm_L6.5mm_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_C26-LF_D2.1mm_L6.5mm_Vertical)
 - Short Link: [http://oom.lt/FZKXXC26LFD21L65F](http://oom.lt/FZKXXC26LFD21L65F)

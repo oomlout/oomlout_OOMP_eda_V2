@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZEBURRBROWNMS8 > burr-brown : MSOP08](#fzeburrbrownms8--burr-brown--msop08)
+* [FZEBURRBRNMS8 > burr-brown : MSOP08](#fzeburrbrnms8--burr-brown--msop08)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZEBURRBROWNMS8 > burr-brown : MSOP08
+# FZEBURRBRNMS8 > burr-brown : MSOP08
 
 - ID: FOOTPRINT-eagle-eagle-default-burr-brown-MSOP08
-- Hex ID: FZEBURRBROWNMS8
+- Hex ID: FZEBURRBRNMS8
 - Name: burr-brown : MSOP08
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/burr-brown/MSOP08/
 - Description: burr-brown : MSOP08
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-burr-brown-MSOP08](http://oom.lt/FOOTPRINT-eagle-eagle-default-burr-brown-MSOP08)
-- Short Link: [http://oom.lt/FZEBURRBROWNMS8](http://oom.lt/FZEBURRBROWNMS8)
+- Short Link: [http://oom.lt/FZEBURRBRNMS8](http://oom.lt/FZEBURRBRNMS8)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|burr-brown|
 |OOMP Index|oompIndex|MSOP08|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-burr-brown-MSOP08|
-|Hex ID (short code)|hexID|FZEBURRBROWNMS8|
+|Hex ID (short code)|hexID|FZEBURRBRNMS8|
 |name|name|burr-brown : MSOP08|
 ||||
 

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-L200
 - Hex ID: SZKREGULATORLINEARL2
 - Name: Regulator_Linear : L200
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/L200/
 - Description: Regulator_Linear : L200
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-L200](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-L200)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARL2](http://oom.lt/SZKREGULATORLINEARL2)

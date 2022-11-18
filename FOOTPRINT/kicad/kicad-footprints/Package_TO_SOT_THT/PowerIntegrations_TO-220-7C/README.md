@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-PowerIntegrations_TO-220-7C
 - Hex ID: FZKSOTPOWERINTEGRATIONSTO227C
 - Name: Package_TO_SOT_THT : PowerIntegrations_TO-220-7C
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_THT/PowerIntegrations_TO-220-7C/
 - Description: Package_TO_SOT_THT : PowerIntegrations_TO-220-7C
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-PowerIntegrations_TO-220-7C](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-PowerIntegrations_TO-220-7C)
 - Short Link: [http://oom.lt/FZKSOTPOWERINTEGRATIONSTO227C](http://oom.lt/FZKSOTPOWERINTEGRATIONSTO227C)

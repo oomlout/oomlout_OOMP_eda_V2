@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-SOD-523
 - Hex ID: FZASOD523
 - Name: adafruit : SOD-523
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/SOD-523/
 - Description: adafruit : SOD-523
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-SOD-523](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-SOD-523)
 - Short Link: [http://oom.lt/FZASOD523](http://oom.lt/FZASOD523)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Connector-JK0654219
 - Hex ID: SZKCNJK654219
 - Name: Connector : JK0654219
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector/JK0654219/
 - Description: Connector : JK0654219
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-JK0654219](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-JK0654219)
 - Short Link: [http://oom.lt/SZKCNJK654219](http://oom.lt/SZKCNJK654219)

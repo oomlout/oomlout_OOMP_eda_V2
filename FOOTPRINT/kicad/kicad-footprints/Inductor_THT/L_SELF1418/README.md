@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_SELF1418
 - Hex ID: FZKINLSELF1418
 - Name: Inductor_THT : L_SELF1418
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_SELF1418/
 - Description: Inductor_THT : L_SELF1418
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_SELF1418](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_SELF1418)
 - Short Link: [http://oom.lt/FZKINLSELF1418](http://oom.lt/FZKINLSELF1418)

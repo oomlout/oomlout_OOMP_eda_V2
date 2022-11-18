@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-xilinx-xcv-FG900
 - Hex ID: FZEXILINXXCVFG9
 - Name: xilinx-xcv : FG900
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/xilinx-xcv/FG900/
 - Description: xilinx-xcv : FG900
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-xilinx-xcv-FG900](http://oom.lt/FOOTPRINT-eagle-eagle-default-xilinx-xcv-FG900)
 - Short Link: [http://oom.lt/FZEXILINXXCVFG9](http://oom.lt/FZEXILINXXCVFG9)

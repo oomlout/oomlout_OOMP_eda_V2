@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-323_SC-70
 - Hex ID: FZKSOTSOT323SC7
 - Name: Package_TO_SOT_SMD : SOT-323_SC-70
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/SOT-323_SC-70/
 - Description: Package_TO_SOT_SMD : SOT-323_SC-70
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-323_SC-70](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-323_SC-70)
 - Short Link: [http://oom.lt/FZKSOTSOT323SC7](http://oom.lt/FZKSOTSOT323SC7)

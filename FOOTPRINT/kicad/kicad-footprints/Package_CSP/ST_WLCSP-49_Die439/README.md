@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_CSP-ST_WLCSP-49_Die439
 - Hex ID: FZKCSPSTWLCSP49DIE439
 - Name: Package_CSP : ST_WLCSP-49_Die439
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_CSP/ST_WLCSP-49_Die439/
 - Description: Package_CSP : ST_WLCSP-49_Die439
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_CSP-ST_WLCSP-49_Die439](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_CSP-ST_WLCSP-49_Die439)
 - Short Link: [http://oom.lt/FZKCSPSTWLCSP49DIE439](http://oom.lt/FZKCSPSTWLCSP49DIE439)

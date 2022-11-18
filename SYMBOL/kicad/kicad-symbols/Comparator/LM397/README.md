@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Comparator-LM397
 - Hex ID: SZKCOMPARATORLM397
 - Name: Comparator : LM397
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Comparator/LM397/
 - Description: Comparator : LM397
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Comparator-LM397](http://oom.lt/SYMBOL-kicad-kicad-symbols-Comparator-LM397)
 - Short Link: [http://oom.lt/SZKCOMPARATORLM397](http://oom.lt/SZKCOMPARATORLM397)

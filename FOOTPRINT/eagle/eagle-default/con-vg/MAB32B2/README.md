@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-vg-MAB32B2
 - Hex ID: FZECONVGMAB32B2
 - Name: con-vg : MAB32B2
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-vg/MAB32B2/
 - Description: con-vg : MAB32B2
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-vg-MAB32B2](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-vg-MAB32B2)
 - Short Link: [http://oom.lt/FZECONVGMAB32B2](http://oom.lt/FZECONVGMAB32B2)

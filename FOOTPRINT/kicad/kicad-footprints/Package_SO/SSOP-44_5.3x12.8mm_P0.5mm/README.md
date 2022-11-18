@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_SO-SSOP-44_5.3x12.8mm_P0.5mm
 - Hex ID: FZKSOSS4453X128P5
 - Name: Package_SO : SSOP-44_5.3x12.8mm_P0.5mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SO/SSOP-44_5.3x12.8mm_P0.5mm/
 - Description: Package_SO : SSOP-44_5.3x12.8mm_P0.5mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SO-SSOP-44_5.3x12.8mm_P0.5mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SO-SSOP-44_5.3x12.8mm_P0.5mm)
 - Short Link: [http://oom.lt/FZKSOSS4453X128P5](http://oom.lt/FZKSOSS4453X128P5)

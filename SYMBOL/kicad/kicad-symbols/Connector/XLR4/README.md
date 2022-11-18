@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Connector-XLR4
 - Hex ID: SZKCNXLR4
 - Name: Connector : XLR4
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector/XLR4/
 - Description: Connector : XLR4
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-XLR4](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-XLR4)
 - Short Link: [http://oom.lt/SZKCNXLR4](http://oom.lt/SZKCNXLR4)

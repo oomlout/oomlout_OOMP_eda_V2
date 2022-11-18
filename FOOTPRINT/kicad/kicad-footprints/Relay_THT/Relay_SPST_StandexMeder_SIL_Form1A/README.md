@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Relay_THT-Relay_SPST_StandexMeder_SIL_Form1A
 - Hex ID: FZKRELRELAYSPSTSTANDEXMEDERSILFORM1A
 - Name: Relay_THT : Relay_SPST_StandexMeder_SIL_Form1A
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Relay_THT/Relay_SPST_StandexMeder_SIL_Form1A/
 - Description: Relay_THT : Relay_SPST_StandexMeder_SIL_Form1A
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Relay_THT-Relay_SPST_StandexMeder_SIL_Form1A](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Relay_THT-Relay_SPST_StandexMeder_SIL_Form1A)
 - Short Link: [http://oom.lt/FZKRELRELAYSPSTSTANDEXMEDERSILFORM1A](http://oom.lt/FZKRELRELAYSPSTSTANDEXMEDERSILFORM1A)

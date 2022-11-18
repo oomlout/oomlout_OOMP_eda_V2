@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-heatsink-KK505
 - Hex ID: FZEHKK55
 - Name: heatsink : KK505
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/heatsink/KK505/
 - Description: heatsink : KK505
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-heatsink-KK505](http://oom.lt/FOOTPRINT-eagle-eagle-default-heatsink-KK505)
 - Short Link: [http://oom.lt/FZEHKK55](http://oom.lt/FZEHKK55)

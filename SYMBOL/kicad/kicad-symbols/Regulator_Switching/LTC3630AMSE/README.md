@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-LTC3630AMSE
 - Hex ID: SZKREGULATORSWINGLTC363AMSE
 - Name: Regulator_Switching : LTC3630AMSE
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/LTC3630AMSE/
 - Description: Regulator_Switching : LTC3630AMSE
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LTC3630AMSE](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LTC3630AMSE)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGLTC363AMSE](http://oom.lt/SZKREGULATORSWINGLTC363AMSE)

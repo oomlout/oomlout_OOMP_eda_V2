@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Converter_DCDC-IH4803D
 - Hex ID: SZKCONIH483D
 - Name: Converter_DCDC : IH4803D
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Converter_DCDC/IH4803D/
 - Description: Converter_DCDC : IH4803D
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-IH4803D](http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-IH4803D)
 - Short Link: [http://oom.lt/SZKCONIH483D](http://oom.lt/SZKCONIH483D)

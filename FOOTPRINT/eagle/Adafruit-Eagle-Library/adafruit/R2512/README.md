@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-R2512
 - Hex ID: FZAR2512
 - Name: adafruit : R2512
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/R2512/
 - Description: adafruit : R2512
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-R2512](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-R2512)
 - Short Link: [http://oom.lt/FZAR2512](http://oom.lt/FZAR2512)

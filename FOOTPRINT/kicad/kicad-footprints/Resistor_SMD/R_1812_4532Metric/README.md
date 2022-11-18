@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_1812_4532Metric
 - Hex ID: FZKRR18124532VA
 - Name: Resistor_SMD : R_1812_4532Metric
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_1812_4532Metric/
 - Description: Resistor_SMD : R_1812_4532Metric
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_1812_4532Metric](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_1812_4532Metric)
 - Short Link: [http://oom.lt/FZKRR18124532VA](http://oom.lt/FZKRR18124532VA)

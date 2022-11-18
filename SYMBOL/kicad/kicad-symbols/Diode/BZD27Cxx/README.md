@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-BZD27Cxx
 - Hex ID: SZKDIODEBZD27CXX
 - Name: Diode : BZD27Cxx
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/BZD27Cxx/
 - Description: Diode : BZD27Cxx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-BZD27Cxx](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-BZD27Cxx)
 - Short Link: [http://oom.lt/SZKDIODEBZD27CXX](http://oom.lt/SZKDIODEBZD27CXX)

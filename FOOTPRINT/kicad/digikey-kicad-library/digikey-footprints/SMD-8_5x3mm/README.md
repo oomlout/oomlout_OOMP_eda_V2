@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SMD-8_5x3mm
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSSM85X3
 - Name: digikey-footprints : SMD-8_5x3mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/SMD-8_5x3mm/
 - Description: digikey-footprints : SMD-8_5x3mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SMD-8_5x3mm](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SMD-8_5x3mm)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSSM85X3](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSSM85X3)

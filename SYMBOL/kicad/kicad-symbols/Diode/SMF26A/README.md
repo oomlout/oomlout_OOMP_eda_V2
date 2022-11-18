@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-SMF26A
 - Hex ID: SZKDIODESMF26A
 - Name: Diode : SMF26A
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/SMF26A/
 - Description: Diode : SMF26A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-SMF26A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-SMF26A)
 - Short Link: [http://oom.lt/SZKDIODESMF26A](http://oom.lt/SZKDIODESMF26A)

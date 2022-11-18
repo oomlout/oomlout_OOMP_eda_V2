@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-pot-ST15
 - Hex ID: FZEPOTST15
 - Name: pot : ST15
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/pot/ST15/
 - Description: pot : ST15
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-pot-ST15](http://oom.lt/FOOTPRINT-eagle-eagle-default-pot-ST15)
 - Short Link: [http://oom.lt/FZEPOTST15](http://oom.lt/FZEPOTST15)

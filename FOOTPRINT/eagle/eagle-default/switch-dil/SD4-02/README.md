@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-switch-dil-SD4-02
 - Hex ID: FZESWDILSD42
 - Name: switch-dil : SD4-02
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/switch-dil/SD4-02/
 - Description: switch-dil : SD4-02
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-dil-SD4-02](http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-dil-SD4-02)
 - Short Link: [http://oom.lt/FZESWDILSD42](http://oom.lt/FZESWDILSD42)

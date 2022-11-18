@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZETESTPADTP12SQ > testpad : TP12SQ](#fzetestpadtp12sq--testpad--tp12sq)
+* [FZETESTPTP12SQ > testpad : TP12SQ](#fzetestptp12sq--testpad--tp12sq)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZETESTPADTP12SQ > testpad : TP12SQ
+# FZETESTPTP12SQ > testpad : TP12SQ
 
 - ID: FOOTPRINT-eagle-eagle-default-testpad-TP12SQ
-- Hex ID: FZETESTPADTP12SQ
+- Hex ID: FZETESTPTP12SQ
 - Name: testpad : TP12SQ
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/testpad/TP12SQ/
 - Description: testpad : TP12SQ
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-testpad-TP12SQ](http://oom.lt/FOOTPRINT-eagle-eagle-default-testpad-TP12SQ)
-- Short Link: [http://oom.lt/FZETESTPADTP12SQ](http://oom.lt/FZETESTPADTP12SQ)
+- Short Link: [http://oom.lt/FZETESTPTP12SQ](http://oom.lt/FZETESTPTP12SQ)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|testpad|
 |OOMP Index|oompIndex|TP12SQ|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-testpad-TP12SQ|
-|Hex ID (short code)|hexID|FZETESTPADTP12SQ|
+|Hex ID (short code)|hexID|FZETESTPTP12SQ|
 |name|name|testpad : TP12SQ|
 ||||

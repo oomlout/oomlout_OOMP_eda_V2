@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_JAE-JAE_LY20-26P-DLT1_2x13_P2.00mm_Horizontal
 - Hex ID: FZKCNJAEJAELY226PDLT12X13P2H
 - Name: Connector_JAE : JAE_LY20-26P-DLT1_2x13_P2.00mm_Horizontal
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_JAE/JAE_LY20-26P-DLT1_2x13_P2.00mm_Horizontal/
 - Description: Connector_JAE : JAE_LY20-26P-DLT1_2x13_P2.00mm_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_JAE-JAE_LY20-26P-DLT1_2x13_P2.00mm_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_JAE-JAE_LY20-26P-DLT1_2x13_P2.00mm_Horizontal)
 - Short Link: [http://oom.lt/FZKCNJAEJAELY226PDLT12X13P2H](http://oom.lt/FZKCNJAEJAELY226PDLT12X13P2H)

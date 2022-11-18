@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-IR_Receiver_TSOP38238
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSIRRECEIVERTS38238
 - Name: digikey-footprints : IR_Receiver_TSOP38238
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/IR_Receiver_TSOP38238/
 - Description: digikey-footprints : IR_Receiver_TSOP38238
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-IR_Receiver_TSOP38238](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-IR_Receiver_TSOP38238)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSIRRECEIVERTS38238](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSIRRECEIVERTS38238)

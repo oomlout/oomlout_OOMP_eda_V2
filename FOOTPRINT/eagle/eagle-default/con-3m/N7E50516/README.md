@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-3m-N7E50516
 - Hex ID: FZECON3MN7E5516
 - Name: con-3m : N7E50516
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-3m/N7E50516/
 - Description: con-3m : N7E50516
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-3m-N7E50516](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-3m-N7E50516)
 - Short Link: [http://oom.lt/FZECON3MN7E5516](http://oom.lt/FZECON3MN7E5516)

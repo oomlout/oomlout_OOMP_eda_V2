@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-LNK563P
 - Hex ID: SZKREGULATORSWINGLNK563P
 - Name: Regulator_Switching : LNK563P
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/LNK563P/
 - Description: Regulator_Switching : LNK563P
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LNK563P](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LNK563P)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGLNK563P](http://oom.lt/SZKREGULATORSWINGLNK563P)

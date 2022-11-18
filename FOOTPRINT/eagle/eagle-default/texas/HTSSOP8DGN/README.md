@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-texas-HTSSOP8DGN
 - Hex ID: FZETEXASHTSS8DGN
 - Name: texas : HTSSOP8DGN
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/texas/HTSSOP8DGN/
 - Description: texas : HTSSOP8DGN
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-texas-HTSSOP8DGN](http://oom.lt/FOOTPRINT-eagle-eagle-default-texas-HTSSOP8DGN)
 - Short Link: [http://oom.lt/FZETEXASHTSS8DGN](http://oom.lt/FZETEXASHTSS8DGN)

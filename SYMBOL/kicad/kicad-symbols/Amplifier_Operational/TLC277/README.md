@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-TLC277
 - Hex ID: SZKAMPLIFIEROPERATIONALTLC277
 - Name: Amplifier_Operational : TLC277
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/TLC277/
 - Description: Amplifier_Operational : TLC277
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-TLC277](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-TLC277)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALTLC277](http://oom.lt/SZKAMPLIFIEROPERATIONALTLC277)

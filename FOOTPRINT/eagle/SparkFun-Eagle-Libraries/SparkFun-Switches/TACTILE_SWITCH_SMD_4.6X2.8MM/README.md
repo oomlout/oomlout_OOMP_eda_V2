@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Switches-TACTILE_SWITCH_SMD_4.6X2.8MM
 - Hex ID: FZSWTSWSM46X28
 - Name: SparkFun-Switches : TACTILE_SWITCH_SMD_4.6X2.8MM
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Switches/TACTILE_SWITCH_SMD_4.6X2.8MM/
 - Description: SparkFun-Switches : TACTILE_SWITCH_SMD_4.6X2.8MM
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Switches-TACTILE_SWITCH_SMD_4.6X2.8MM](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Switches-TACTILE_SWITCH_SMD_4.6X2.8MM)
 - Short Link: [http://oom.lt/FZSWTSWSM46X28](http://oom.lt/FZSWTSWSM46X28)

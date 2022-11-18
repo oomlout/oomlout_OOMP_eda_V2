@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-BMI160
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSBMI16
 - Name: digikey-footprints : BMI160
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/BMI160/
 - Description: digikey-footprints : BMI160
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-BMI160](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-BMI160)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSBMI16](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSBMI16)

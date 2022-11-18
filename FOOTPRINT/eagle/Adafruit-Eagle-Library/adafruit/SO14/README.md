@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-SO14
 - Hex ID: FZASO14
 - Name: adafruit : SO14
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/SO14/
 - Description: adafruit : SO14
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-SO14](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-SO14)
 - Short Link: [http://oom.lt/FZASO14](http://oom.lt/FZASO14)

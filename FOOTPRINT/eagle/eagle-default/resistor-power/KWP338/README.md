@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-resistor-power-KWP338
 - Hex ID: FZERESISTORPOWERKWP338
 - Name: resistor-power : KWP338
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/resistor-power/KWP338/
 - Description: resistor-power : KWP338
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-resistor-power-KWP338](http://oom.lt/FOOTPRINT-eagle-eagle-default-resistor-power-KWP338)
 - Short Link: [http://oom.lt/FZERESISTORPOWERKWP338](http://oom.lt/FZERESISTORPOWERKWP338)

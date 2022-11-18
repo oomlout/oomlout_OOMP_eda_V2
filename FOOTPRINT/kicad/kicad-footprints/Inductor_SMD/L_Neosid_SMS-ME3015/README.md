@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Neosid_SMS-ME3015
 - Hex ID: FZKINLNEOSIDSMSME315
 - Name: Inductor_SMD : L_Neosid_SMS-ME3015
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Neosid_SMS-ME3015/
 - Description: Inductor_SMD : L_Neosid_SMS-ME3015
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Neosid_SMS-ME3015](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Neosid_SMS-ME3015)
 - Short Link: [http://oom.lt/FZKINLNEOSIDSMSME315](http://oom.lt/FZKINLNEOSIDSMSME315)

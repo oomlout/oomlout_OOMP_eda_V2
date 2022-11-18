@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-smd-ipc-R0805W
 - Hex ID: FZESMIPCR85W
 - Name: smd-ipc : R0805W
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/smd-ipc/R0805W/
 - Description: smd-ipc : R0805W
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-R0805W](http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-R0805W)
 - Short Link: [http://oom.lt/FZESMIPCR85W](http://oom.lt/FZESMIPCR85W)

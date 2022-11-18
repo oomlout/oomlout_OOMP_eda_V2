@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector-JWT_A3963_1x02_P3.96mm_Vertical
 - Hex ID: FZKCNJWTA39631X2P396F
 - Name: Connector : JWT_A3963_1x02_P3.96mm_Vertical
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector/JWT_A3963_1x02_P3.96mm_Vertical/
 - Description: Connector : JWT_A3963_1x02_P3.96mm_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector-JWT_A3963_1x02_P3.96mm_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector-JWT_A3963_1x02_P3.96mm_Vertical)
 - Short Link: [http://oom.lt/FZKCNJWTA39631X2P396F](http://oom.lt/FZKCNJWTA39631X2P396F)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-E45-21
 - Hex ID: FZAE4521
 - Name: adafruit : E45-21
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/E45-21/
 - Description: adafruit : E45-21
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-E45-21](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-E45-21)
 - Short Link: [http://oom.lt/FZAE4521](http://oom.lt/FZAE4521)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-con-samtec-TSW-102-XX-G-Q
 - Hex ID: FZECONSAMTECTSW12XXGQ
 - Name: con-samtec : TSW-102-XX-G-Q
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-samtec/TSW-102-XX-G-Q/
 - Description: con-samtec : TSW-102-XX-G-Q
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-samtec-TSW-102-XX-G-Q](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-samtec-TSW-102-XX-G-Q)
 - Short Link: [http://oom.lt/FZECONSAMTECTSW12XXGQ](http://oom.lt/FZECONSAMTECTSW12XXGQ)

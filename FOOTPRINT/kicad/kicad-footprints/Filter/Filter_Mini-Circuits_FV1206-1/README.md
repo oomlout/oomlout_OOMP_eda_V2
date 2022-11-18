@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Filter-Filter_Mini-Circuits_FV1206-1
 - Hex ID: FZKFILFILMCIRCUITSFV1261
 - Name: Filter : Filter_Mini-Circuits_FV1206-1
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Filter/Filter_Mini-Circuits_FV1206-1/
 - Description: Filter : Filter_Mini-Circuits_FV1206-1
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Filter-Filter_Mini-Circuits_FV1206-1](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Filter-Filter_Mini-Circuits_FV1206-1)
 - Short Link: [http://oom.lt/FZKFILFILMCIRCUITSFV1261](http://oom.lt/FZKFILFILMCIRCUITSFV1261)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Reference_Voltage-TL432PK
 - Hex ID: SZKREFERENCEVOLTAGETL432PK
 - Name: Reference_Voltage : TL432PK
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Reference_Voltage/TL432PK/
 - Description: Reference_Voltage : TL432PK
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Voltage-TL432PK](http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Voltage-TL432PK)
 - Short Link: [http://oom.lt/SZKREFERENCEVOLTAGETL432PK](http://oom.lt/SZKREFERENCEVOLTAGETL432PK)

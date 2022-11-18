@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_CSP-ST_WLCSP-81_Die421
 - Hex ID: FZKCSPSTWLCSP81DIE421
 - Name: Package_CSP : ST_WLCSP-81_Die421
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_CSP/ST_WLCSP-81_Die421/
 - Description: Package_CSP : ST_WLCSP-81_Die421
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_CSP-ST_WLCSP-81_Die421](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_CSP-ST_WLCSP-81_Die421)
 - Short Link: [http://oom.lt/FZKCSPSTWLCSP81DIE421](http://oom.lt/FZKCSPSTWLCSP81DIE421)

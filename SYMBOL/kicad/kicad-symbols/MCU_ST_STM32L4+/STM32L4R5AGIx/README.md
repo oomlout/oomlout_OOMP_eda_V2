@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_ST_STM32L4+-STM32L4R5AGIx
 - Hex ID: SZKMCUSTSTM32L4+STM32L4R5AGIX
 - Name: MCU_ST_STM32L4+ : STM32L4R5AGIx
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32L4+/STM32L4R5AGIx/
 - Description: MCU_ST_STM32L4+ : STM32L4R5AGIx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32L4+-STM32L4R5AGIx](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32L4+-STM32L4R5AGIx)
 - Short Link: [http://oom.lt/SZKMCUSTSTM32L4+STM32L4R5AGIX](http://oom.lt/SZKMCUSTSTM32L4+STM32L4R5AGIX)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-micro-siemens-PBGA217
 - Hex ID: FZEMSIEMENSPBGA217
 - Name: micro-siemens : PBGA217
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/micro-siemens/PBGA217/
 - Description: micro-siemens : PBGA217
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-siemens-PBGA217](http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-siemens-PBGA217)
 - Short Link: [http://oom.lt/FZEMSIEMENSPBGA217](http://oom.lt/FZEMSIEMENSPBGA217)

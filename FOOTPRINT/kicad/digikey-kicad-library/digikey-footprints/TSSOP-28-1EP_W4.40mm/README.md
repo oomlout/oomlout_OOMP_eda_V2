@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-TSSOP-28-1EP_W4.40mm
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSTSS281EPW44
 - Name: digikey-footprints : TSSOP-28-1EP_W4.40mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/TSSOP-28-1EP_W4.40mm/
 - Description: digikey-footprints : TSSOP-28-1EP_W4.40mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-TSSOP-28-1EP_W4.40mm](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-TSSOP-28-1EP_W4.40mm)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSTSS281EPW44](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSTSS281EPW44)

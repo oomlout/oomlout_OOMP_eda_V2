@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-4xxx_IEEE-40244
 - Hex ID: SZK4XXXIEEE4244
 - Name: 4xxx_IEEE : 40244
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/4xxx_IEEE/40244/
 - Description: 4xxx_IEEE : 40244
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-4xxx_IEEE-40244](http://oom.lt/SYMBOL-kicad-kicad-symbols-4xxx_IEEE-40244)
 - Short Link: [http://oom.lt/SZK4XXXIEEE4244](http://oom.lt/SZK4XXXIEEE4244)

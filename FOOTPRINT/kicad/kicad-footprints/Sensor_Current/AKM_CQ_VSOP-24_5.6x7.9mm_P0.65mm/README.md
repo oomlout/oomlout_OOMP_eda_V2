@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Sensor_Current-AKM_CQ_VSOP-24_5.6x7.9mm_P0.65mm
 - Hex ID: FZKSENCURRENTAKMCQVS2456X79P65
 - Name: Sensor_Current : AKM_CQ_VSOP-24_5.6x7.9mm_P0.65mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Sensor_Current/AKM_CQ_VSOP-24_5.6x7.9mm_P0.65mm/
 - Description: Sensor_Current : AKM_CQ_VSOP-24_5.6x7.9mm_P0.65mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Sensor_Current-AKM_CQ_VSOP-24_5.6x7.9mm_P0.65mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Sensor_Current-AKM_CQ_VSOP-24_5.6x7.9mm_P0.65mm)
 - Short Link: [http://oom.lt/FZKSENCURRENTAKMCQVS2456X79P65](http://oom.lt/FZKSENCURRENTAKMCQVS2456X79P65)

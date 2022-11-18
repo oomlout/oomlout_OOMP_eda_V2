@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Transformer_SMD-Pulse_PA2001NL
 - Hex ID: FZKTRPULSEPA21NL
 - Name: Transformer_SMD : Pulse_PA2001NL
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Transformer_SMD/Pulse_PA2001NL/
 - Description: Transformer_SMD : Pulse_PA2001NL
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Transformer_SMD-Pulse_PA2001NL](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Transformer_SMD-Pulse_PA2001NL)
 - Short Link: [http://oom.lt/FZKTRPULSEPA21NL](http://oom.lt/FZKTRPULSEPA21NL)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-TestPoint-TestPoint_Keystone_5019_Minature
 - Hex ID: FZKTPTPKEYSTONE519MINATURE
 - Name: TestPoint : TestPoint_Keystone_5019_Minature
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/TestPoint/TestPoint_Keystone_5019_Minature/
 - Description: TestPoint : TestPoint_Keystone_5019_Minature
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-TestPoint-TestPoint_Keystone_5019_Minature](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-TestPoint-TestPoint_Keystone_5019_Minature)
 - Short Link: [http://oom.lt/FZKTPTPKEYSTONE519MINATURE](http://oom.lt/FZKTPTPKEYSTONE519MINATURE)

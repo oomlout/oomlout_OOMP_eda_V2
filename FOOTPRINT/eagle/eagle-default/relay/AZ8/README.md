@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-relay-AZ8
 - Hex ID: FZERELAYAZ8
 - Name: relay : AZ8
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/relay/AZ8/
 - Description: relay : AZ8
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-AZ8](http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-AZ8)
 - Short Link: [http://oom.lt/FZERELAYAZ8](http://oom.lt/FZERELAYAZ8)

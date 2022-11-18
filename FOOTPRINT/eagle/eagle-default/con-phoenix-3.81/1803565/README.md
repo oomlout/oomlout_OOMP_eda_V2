@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-phoenix-3.81-1803565
 - Hex ID: FZECONPHOENIX381183565
 - Name: con-phoenix-3.81 : 1803565
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-phoenix-3.81/1803565/
 - Description: con-phoenix-3.81 : 1803565
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-phoenix-3.81-1803565](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-phoenix-3.81-1803565)
 - Short Link: [http://oom.lt/FZECONPHOENIX381183565](http://oom.lt/FZECONPHOENIX381183565)

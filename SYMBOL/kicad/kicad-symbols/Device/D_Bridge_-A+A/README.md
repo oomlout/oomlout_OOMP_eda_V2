@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Device-D_Bridge_-A+A
 - Hex ID: SZKDEVICEDBRIDGEA+A
 - Name: Device : D_Bridge_-A+A
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/D_Bridge_-A+A/
 - Description: Device : D_Bridge_-A+A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-D_Bridge_-A+A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-D_Bridge_-A+A)
 - Short Link: [http://oom.lt/SZKDEVICEDBRIDGEA+A](http://oom.lt/SZKDEVICEDBRIDGEA+A)

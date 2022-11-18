@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-LT1761-5
 - Hex ID: SZKREGULATORLINEARLT17615
 - Name: Regulator_Linear : LT1761-5
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LT1761-5/
 - Description: Regulator_Linear : LT1761-5
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LT1761-5](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LT1761-5)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARLT17615](http://oom.lt/SZKREGULATORLINEARLT17615)

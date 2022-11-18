@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-QFN20_MCU
 - Hex ID: FZSRTQFN2MCU
 - Name: SparkFun-Retired : QFN20_MCU
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Retired/QFN20_MCU/
 - Description: SparkFun-Retired : QFN20_MCU
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-QFN20_MCU](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-QFN20_MCU)
 - Short Link: [http://oom.lt/FZSRTQFN2MCU](http://oom.lt/FZSRTQFN2MCU)

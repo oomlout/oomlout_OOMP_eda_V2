@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-RF_Module-ESP32-S2-MINI-1U
 - Hex ID: FZKRFMOESP32S2M1U
 - Name: RF_Module : ESP32-S2-MINI-1U
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/RF_Module/ESP32-S2-MINI-1U/
 - Description: RF_Module : ESP32-S2-MINI-1U
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_Module-ESP32-S2-MINI-1U](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_Module-ESP32-S2-MINI-1U)
 - Short Link: [http://oom.lt/FZKRFMOESP32S2M1U](http://oom.lt/FZKRFMOESP32S2M1U)

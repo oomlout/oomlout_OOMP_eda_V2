@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-power-Earth_Clean
 - Hex ID: SZKPOWEREARTHCLEAN
 - Name: power : Earth_Clean
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/power/Earth_Clean/
 - Description: power : Earth_Clean
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-power-Earth_Clean](http://oom.lt/SYMBOL-kicad-kicad-symbols-power-Earth_Clean)
 - Short Link: [http://oom.lt/SZKPOWEREARTHCLEAN](http://oom.lt/SZKPOWEREARTHCLEAN)

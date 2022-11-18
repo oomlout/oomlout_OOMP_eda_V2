@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Transformer_SMD-Transformer_Ethernet_Bourns_PT61017PEL
 - Hex ID: FZKTRTRETHERNETBOURNSPT6117PEL
 - Name: Transformer_SMD : Transformer_Ethernet_Bourns_PT61017PEL
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Transformer_SMD/Transformer_Ethernet_Bourns_PT61017PEL/
 - Description: Transformer_SMD : Transformer_Ethernet_Bourns_PT61017PEL
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Transformer_SMD-Transformer_Ethernet_Bourns_PT61017PEL](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Transformer_SMD-Transformer_Ethernet_Bourns_PT61017PEL)
 - Short Link: [http://oom.lt/FZKTRTRETHERNETBOURNSPT6117PEL](http://oom.lt/FZKTRTRETHERNETBOURNSPT6117PEL)

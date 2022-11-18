@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Connector-DIN-4
 - Hex ID: SZKCNDIN4
 - Name: Connector : DIN-4
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector/DIN-4/
 - Description: Connector : DIN-4
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-DIN-4](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-DIN-4)
 - Short Link: [http://oom.lt/SZKCNDIN4](http://oom.lt/SZKCNDIN4)

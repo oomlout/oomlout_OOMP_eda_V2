@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-AWCSR
 - Hex ID: FZAAWCSR
 - Name: adafruit : AWCSR
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/AWCSR/
 - Description: adafruit : AWCSR
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-AWCSR](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-AWCSR)
 - Short Link: [http://oom.lt/FZAAWCSR](http://oom.lt/FZAAWCSR)

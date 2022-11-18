@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_PH_B2B-PH-SM4-TB_1x02-1MP_P2.00mm_Vertical
 - Hex ID: FZKCNJSTJSTPHB2BPHSM4TB1X21MPP2F
 - Name: Connector_JST : JST_PH_B2B-PH-SM4-TB_1x02-1MP_P2.00mm_Vertical
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_PH_B2B-PH-SM4-TB_1x02-1MP_P2.00mm_Vertical/
 - Description: Connector_JST : JST_PH_B2B-PH-SM4-TB_1x02-1MP_P2.00mm_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_PH_B2B-PH-SM4-TB_1x02-1MP_P2.00mm_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_PH_B2B-PH-SM4-TB_1x02-1MP_P2.00mm_Vertical)
 - Short Link: [http://oom.lt/FZKCNJSTJSTPHB2BPHSM4TB1X21MPP2F](http://oom.lt/FZKCNJSTJSTPHB2BPHSM4TB1X21MPP2F)

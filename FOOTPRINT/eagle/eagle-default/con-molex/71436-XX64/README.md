@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-molex-71436-XX64
 - Hex ID: FZECONMX71436XX64
 - Name: con-molex : 71436-XX64
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-molex/71436-XX64/
 - Description: con-molex : 71436-XX64
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-molex-71436-XX64](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-molex-71436-XX64)
 - Short Link: [http://oom.lt/FZECONMX71436XX64](http://oom.lt/FZECONMX71436XX64)

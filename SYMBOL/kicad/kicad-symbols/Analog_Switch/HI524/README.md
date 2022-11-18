@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Analog_Switch-HI524
 - Hex ID: SZKANALOGSWHI524
 - Name: Analog_Switch : HI524
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog_Switch/HI524/
 - Description: Analog_Switch : HI524
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_Switch-HI524](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_Switch-HI524)
 - Short Link: [http://oom.lt/SZKANALOGSWHI524](http://oom.lt/SZKANALOGSWHI524)

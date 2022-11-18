@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Audio-TLV320AIC23BxQE
 - Hex ID: SZKAUDIOTLV32AIC23BXQE
 - Name: Audio : TLV320AIC23BxQE
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Audio/TLV320AIC23BxQE/
 - Description: Audio : TLV320AIC23BxQE
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Audio-TLV320AIC23BxQE](http://oom.lt/SYMBOL-kicad-kicad-symbols-Audio-TLV320AIC23BxQE)
 - Short Link: [http://oom.lt/SZKAUDIOTLV32AIC23BXQE](http://oom.lt/SZKAUDIOTLV32AIC23BXQE)

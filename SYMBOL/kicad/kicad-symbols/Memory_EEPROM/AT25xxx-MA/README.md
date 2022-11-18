@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Memory_EEPROM-AT25xxx-MA
 - Hex ID: SZKMEMORYEEPROMAT25XXXMA
 - Name: Memory_EEPROM : AT25xxx-MA
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Memory_EEPROM/AT25xxx-MA/
 - Description: Memory_EEPROM : AT25xxx-MA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_EEPROM-AT25xxx-MA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_EEPROM-AT25xxx-MA)
 - Short Link: [http://oom.lt/SZKMEMORYEEPROMAT25XXXMA](http://oom.lt/SZKMEMORYEEPROMAT25XXXMA)

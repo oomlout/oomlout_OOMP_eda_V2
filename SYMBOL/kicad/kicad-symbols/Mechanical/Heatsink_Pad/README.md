@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [SZKMECHANICALHPAD > Mechanical : Heatsink_Pad](#szkmechanicalhpad--mechanical--heatsink_pad)
+* [SZKMECHANICALHP > Mechanical : Heatsink_Pad](#szkmechanicalhp--mechanical--heatsink_pad)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# SZKMECHANICALHPAD > Mechanical : Heatsink_Pad
+# SZKMECHANICALHP > Mechanical : Heatsink_Pad
 
 - ID: SYMBOL-kicad-kicad-symbols-Mechanical-Heatsink_Pad
-- Hex ID: SZKMECHANICALHPAD
+- Hex ID: SZKMECHANICALHP
 - Name: Mechanical : Heatsink_Pad
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Mechanical/Heatsink_Pad/
 - Description: Mechanical : Heatsink_Pad
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Mechanical-Heatsink_Pad](http://oom.lt/SYMBOL-kicad-kicad-symbols-Mechanical-Heatsink_Pad)
-- Short Link: [http://oom.lt/SZKMECHANICALHPAD](http://oom.lt/SZKMECHANICALHPAD)
+- Short Link: [http://oom.lt/SZKMECHANICALHP](http://oom.lt/SZKMECHANICALHP)
 
 ## Images
   
@@ -36,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Mechanical|
 |OOMP Index|oompIndex|Heatsink_Pad|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Mechanical-Heatsink_Pad|
-|Hex ID (short code)|hexID|SZKMECHANICALHPAD|
+|Hex ID (short code)|hexID|SZKMECHANICALHP|
 |name|name|Mechanical : Heatsink_Pad|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'HS'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'Heatsink_Pad'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'thermal heat temperature'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Heatsink with electrical connection</td><td> 1 pin'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Heatsink_*'</td></tr></table>]|
 ||||

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Hardware-MAGNET-18MM
 - Hex ID: FZSHMAGNET18
 - Name: SparkFun-Hardware : MAGNET-18MM
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Hardware/MAGNET-18MM/
 - Description: SparkFun-Hardware : MAGNET-18MM
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Hardware-MAGNET-18MM](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Hardware-MAGNET-18MM)
 - Short Link: [http://oom.lt/FZSHMAGNET18](http://oom.lt/FZSHMAGNET18)

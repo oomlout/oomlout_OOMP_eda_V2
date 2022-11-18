@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Power_Supervisor-MAX6374
 - Hex ID: SZKPOWERSUPERVISORMAX6374
 - Name: Power_Supervisor : MAX6374
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Power_Supervisor/MAX6374/
 - Description: Power_Supervisor : MAX6374
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Supervisor-MAX6374](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Supervisor-MAX6374)
 - Short Link: [http://oom.lt/SZKPOWERSUPERVISORMAX6374](http://oom.lt/SZKPOWERSUPERVISORMAX6374)

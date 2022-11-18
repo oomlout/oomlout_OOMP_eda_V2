@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEREFPACKAGESSIL8C > ref-packages : SIL08C](#fzerefpackagessil8c--ref-packages--sil08c)
+* [FZEREFPSSIL8C > ref-packages : SIL08C](#fzerefpssil8c--ref-packages--sil08c)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEREFPACKAGESSIL8C > ref-packages : SIL08C
+# FZEREFPSSIL8C > ref-packages : SIL08C
 
 - ID: FOOTPRINT-eagle-eagle-default-ref-packages-SIL08C
-- Hex ID: FZEREFPACKAGESSIL8C
+- Hex ID: FZEREFPSSIL8C
 - Name: ref-packages : SIL08C
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ref-packages/SIL08C/
 - Description: ref-packages : SIL08C
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-SIL08C](http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-SIL08C)
-- Short Link: [http://oom.lt/FZEREFPACKAGESSIL8C](http://oom.lt/FZEREFPACKAGESSIL8C)
+- Short Link: [http://oom.lt/FZEREFPSSIL8C](http://oom.lt/FZEREFPSSIL8C)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|ref-packages|
 |OOMP Index|oompIndex|SIL08C|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-ref-packages-SIL08C|
-|Hex ID (short code)|hexID|FZEREFPACKAGESSIL8C|
+|Hex ID (short code)|hexID|FZEREFPSSIL8C|
 |name|name|ref-packages : SIL08C|
 ||||

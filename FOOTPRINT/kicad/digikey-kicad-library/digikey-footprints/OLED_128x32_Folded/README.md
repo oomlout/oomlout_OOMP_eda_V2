@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-OLED_128x32_Folded
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSOL128X32FOLDED
 - Name: digikey-footprints : OLED_128x32_Folded
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/OLED_128x32_Folded/
 - Description: digikey-footprints : OLED_128x32_Folded
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-OLED_128x32_Folded](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-OLED_128x32_Folded)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSOL128X32FOLDED](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSOL128X32FOLDED)

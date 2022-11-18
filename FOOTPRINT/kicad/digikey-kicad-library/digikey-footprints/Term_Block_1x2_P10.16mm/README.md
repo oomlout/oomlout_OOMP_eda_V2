@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Term_Block_1x2_P10.16mm
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSTERMBL1X2P116
 - Name: digikey-footprints : Term_Block_1x2_P10.16mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Term_Block_1x2_P10.16mm/
 - Description: digikey-footprints : Term_Block_1x2_P10.16mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Term_Block_1x2_P10.16mm](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Term_Block_1x2_P10.16mm)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSTERMBL1X2P116](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSTERMBL1X2P116)

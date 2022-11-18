@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-tyco-C-5353652-36-3
 - Hex ID: FZECONTYCOC5353652363
 - Name: con-tyco : C-5353652-36-3
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-tyco/C-5353652-36-3/
 - Description: con-tyco : C-5353652-36-3
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-tyco-C-5353652-36-3](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-tyco-C-5353652-36-3)
 - Short Link: [http://oom.lt/FZECONTYCOC5353652363](http://oom.lt/FZECONTYCOC5353652363)

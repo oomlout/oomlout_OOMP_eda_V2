@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-MIC5356-G4YMME
 - Hex ID: SZKREGULATORLINEARMIC5356G4YE
 - Name: Regulator_Linear : MIC5356-G4YMME
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/MIC5356-G4YMME/
 - Description: Regulator_Linear : MIC5356-G4YMME
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-MIC5356-G4YMME](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-MIC5356-G4YMME)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARMIC5356G4YE](http://oom.lt/SZKREGULATORLINEARMIC5356G4YE)

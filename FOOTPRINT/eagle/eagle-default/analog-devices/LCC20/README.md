@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-analog-devices-LCC20
 - Hex ID: FZEANALOGDEVICESLCC2
 - Name: analog-devices : LCC20
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/analog-devices/LCC20/
 - Description: analog-devices : LCC20
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-analog-devices-LCC20](http://oom.lt/FOOTPRINT-eagle-eagle-default-analog-devices-LCC20)
 - Short Link: [http://oom.lt/FZEANALOGDEVICESLCC2](http://oom.lt/FZEANALOGDEVICESLCC2)

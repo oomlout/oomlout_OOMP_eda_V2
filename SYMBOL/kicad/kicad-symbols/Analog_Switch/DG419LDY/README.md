@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Analog_Switch-DG419LDY
 - Hex ID: SZKANALOGSWDG419LDY
 - Name: Analog_Switch : DG419LDY
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog_Switch/DG419LDY/
 - Description: Analog_Switch : DG419LDY
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_Switch-DG419LDY](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_Switch-DG419LDY)
 - Short Link: [http://oom.lt/SZKANALOGSWDG419LDY](http://oom.lt/SZKANALOGSWDG419LDY)

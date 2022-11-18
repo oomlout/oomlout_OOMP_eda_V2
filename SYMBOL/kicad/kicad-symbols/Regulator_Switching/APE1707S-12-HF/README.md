@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-APE1707S-12-HF
 - Hex ID: SZKREGULATORSWINGAPE177S12HF
 - Name: Regulator_Switching : APE1707S-12-HF
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/APE1707S-12-HF/
 - Description: Regulator_Switching : APE1707S-12-HF
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-APE1707S-12-HF](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-APE1707S-12-HF)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGAPE177S12HF](http://oom.lt/SZKREGULATORSWINGAPE177S12HF)

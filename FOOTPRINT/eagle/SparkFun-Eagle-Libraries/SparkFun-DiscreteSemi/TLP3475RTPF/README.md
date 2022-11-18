@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-DiscreteSemi-TLP3475RTPF
 - Hex ID: FZSDSTLP3475RTPF
 - Name: SparkFun-DiscreteSemi : TLP3475RTPF
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-DiscreteSemi/TLP3475RTPF/
 - Description: SparkFun-DiscreteSemi : TLP3475RTPF
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-DiscreteSemi-TLP3475RTPF](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-DiscreteSemi-TLP3475RTPF)
 - Short Link: [http://oom.lt/FZSDSTLP3475RTPF](http://oom.lt/FZSDSTLP3475RTPF)

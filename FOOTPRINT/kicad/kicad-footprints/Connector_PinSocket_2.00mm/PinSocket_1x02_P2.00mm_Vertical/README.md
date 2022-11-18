@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKCNPINSO2PINSO1X2P2F > Connector_PinSocket_2.00mm : PinSocket_1x02_P2.00mm_Vertical](#fzkcnpinso2pinso1x2p2f--connector_pinsocket_200mm--pinsocket_1x02_p200mm_vertical)
+* [FZKCNPSO2PSO1X2P2F > Connector_PinSocket_2.00mm : PinSocket_1x02_P2.00mm_Vertical](#fzkcnpso2pso1x2p2f--connector_pinsocket_200mm--pinsocket_1x02_p200mm_vertical)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKCNPINSO2PINSO1X2P2F > Connector_PinSocket_2.00mm : PinSocket_1x02_P2.00mm_Vertical
+# FZKCNPSO2PSO1X2P2F > Connector_PinSocket_2.00mm : PinSocket_1x02_P2.00mm_Vertical
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_PinSocket_2.00mm-PinSocket_1x02_P2.00mm_Vertical
-- Hex ID: FZKCNPINSO2PINSO1X2P2F
+- Hex ID: FZKCNPSO2PSO1X2P2F
 - Name: Connector_PinSocket_2.00mm : PinSocket_1x02_P2.00mm_Vertical
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_PinSocket_2.00mm/PinSocket_1x02_P2.00mm_Vertical/
 - Description: Connector_PinSocket_2.00mm : PinSocket_1x02_P2.00mm_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_PinSocket_2.00mm-PinSocket_1x02_P2.00mm_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_PinSocket_2.00mm-PinSocket_1x02_P2.00mm_Vertical)
-- Short Link: [http://oom.lt/FZKCNPINSO2PINSO1X2P2F](http://oom.lt/FZKCNPINSO2PINSO1X2P2F)
+- Short Link: [http://oom.lt/FZKCNPSO2PSO1X2P2F](http://oom.lt/FZKCNPSO2PSO1X2P2F)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Connector_PinSocket_2.00mm|
 |OOMP Index|oompIndex|PinSocket_1x02_P2.00mm_Vertical|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_PinSocket_2.00mm-PinSocket_1x02_P2.00mm_Vertical|
-|Hex ID (short code)|hexID|FZKCNPINSO2PINSO1X2P2F|
+|Hex ID (short code)|hexID|FZKCNPSO2PSO1X2P2F|
 |name|name|Connector_PinSocket_2.00mm : PinSocket_1x02_P2.00mm_Vertical|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'PinSocket_1x02_P2.00mm_Vertical'</td><td> 'description'</td></tr><tr><td> 'Through hole straight socket strip</td><td> 1x02</td><td> 2.00mm pitch</td><td> single row (from Kicad 4.0.7)</td><td> script generated'</td><td> 'tags'</td></tr><tr><td> 'Through hole socket strip THT 1x02 2.00mm single row'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_PinSocket_2.00mm.3dshapes/PinSocket_1x02_P2.00mm_Vertical.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

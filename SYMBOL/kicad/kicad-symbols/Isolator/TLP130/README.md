@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Isolator-TLP130
 - Hex ID: SZKISOLATORTLP13
 - Name: Isolator : TLP130
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Isolator/TLP130/
 - Description: Isolator : TLP130
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-TLP130](http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-TLP130)
 - Short Link: [http://oom.lt/SZKISOLATORTLP13](http://oom.lt/SZKISOLATORTLP13)

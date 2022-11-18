@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-transistor-pnp-SOT93V
 - Hex ID: FZETRANSISTORPNPSOT93V
 - Name: transistor-pnp : SOT93V
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/transistor-pnp/SOT93V/
 - Description: transistor-pnp : SOT93V
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-pnp-SOT93V](http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-pnp-SOT93V)
 - Short Link: [http://oom.lt/FZETRANSISTORPNPSOT93V](http://oom.lt/FZETRANSISTORPNPSOT93V)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-diode-DO41-7.6
 - Hex ID: FZEDIODEDO4176
 - Name: diode : DO41-7.6
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/diode/DO41-7.6/
 - Description: diode : DO41-7.6
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-diode-DO41-7.6](http://oom.lt/FOOTPRINT-eagle-eagle-default-diode-DO41-7.6)
 - Short Link: [http://oom.lt/FZEDIODEDO4176](http://oom.lt/FZEDIODEDO4176)

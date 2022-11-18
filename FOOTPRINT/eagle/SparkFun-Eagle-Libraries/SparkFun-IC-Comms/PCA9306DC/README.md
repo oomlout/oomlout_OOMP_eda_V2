@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Comms-PCA9306DC
 - Hex ID: FZSICPCA936DC
 - Name: SparkFun-IC-Comms : PCA9306DC
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-IC-Comms/PCA9306DC/
 - Description: SparkFun-IC-Comms : PCA9306DC
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Comms-PCA9306DC](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Comms-PCA9306DC)
 - Short Link: [http://oom.lt/FZSICPCA936DC](http://oom.lt/FZSICPCA936DC)

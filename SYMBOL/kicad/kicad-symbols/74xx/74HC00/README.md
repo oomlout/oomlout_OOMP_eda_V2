@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-74xx-74HC00
 - Hex ID: SZK74XX74HC
 - Name: 74xx : 74HC00
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/74xx/74HC00/
 - Description: 74xx : 74HC00
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-74xx-74HC00](http://oom.lt/SYMBOL-kicad-kicad-symbols-74xx-74HC00)
 - Short Link: [http://oom.lt/SZK74XX74HC](http://oom.lt/SZK74XX74HC)

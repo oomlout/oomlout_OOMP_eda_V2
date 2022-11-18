@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-LED-RGB_BAR_GRAPH
 - Hex ID: FZSLRGBBARGRAPH
 - Name: SparkFun-LED : RGB_BAR_GRAPH
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-LED/RGB_BAR_GRAPH/
 - Description: SparkFun-LED : RGB_BAR_GRAPH
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-LED-RGB_BAR_GRAPH](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-LED-RGB_BAR_GRAPH)
 - Short Link: [http://oom.lt/FZSLRGBBARGRAPH](http://oom.lt/FZSLRGBBARGRAPH)

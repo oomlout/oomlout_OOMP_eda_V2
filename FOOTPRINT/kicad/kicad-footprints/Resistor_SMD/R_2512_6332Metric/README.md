@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_2512_6332Metric
 - Hex ID: FZKRR25126332VA
 - Name: Resistor_SMD : R_2512_6332Metric
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_2512_6332Metric/
 - Description: Resistor_SMD : R_2512_6332Metric
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_2512_6332Metric](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_2512_6332Metric)
 - Short Link: [http://oom.lt/FZKRR25126332VA](http://oom.lt/FZKRR25126332VA)

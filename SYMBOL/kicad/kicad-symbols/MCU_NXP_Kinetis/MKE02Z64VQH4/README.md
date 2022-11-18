@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_NXP_Kinetis-MKE02Z64VQH4
 - Hex ID: SZKMCUNXPKINETISMKE2Z64VQH4
 - Name: MCU_NXP_Kinetis : MKE02Z64VQH4
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_NXP_Kinetis/MKE02Z64VQH4/
 - Description: MCU_NXP_Kinetis : MKE02Z64VQH4
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_NXP_Kinetis-MKE02Z64VQH4](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_NXP_Kinetis-MKE02Z64VQH4)
 - Short Link: [http://oom.lt/SZKMCUNXPKINETISMKE2Z64VQH4](http://oom.lt/SZKMCUNXPKINETISMKE2Z64VQH4)

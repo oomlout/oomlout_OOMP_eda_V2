@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-BAT46
 - Hex ID: SZKDIODEBAT46
 - Name: Diode : BAT46
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/BAT46/
 - Description: Diode : BAT46
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-BAT46](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-BAT46)
 - Short Link: [http://oom.lt/SZKDIODEBAT46](http://oom.lt/SZKDIODEBAT46)

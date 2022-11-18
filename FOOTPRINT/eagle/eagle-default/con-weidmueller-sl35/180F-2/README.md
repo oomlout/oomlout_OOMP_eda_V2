@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-weidmueller-sl35-180F-2
 - Hex ID: FZECONWEIDMUELLERSL3518F2
 - Name: con-weidmueller-sl35 : 180F-2
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-weidmueller-sl35/180F-2/
 - Description: con-weidmueller-sl35 : 180F-2
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-weidmueller-sl35-180F-2](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-weidmueller-sl35-180F-2)
 - Short Link: [http://oom.lt/FZECONWEIDMUELLERSL3518F2](http://oom.lt/FZECONWEIDMUELLERSL3518F2)

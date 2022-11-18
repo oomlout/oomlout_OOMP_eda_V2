@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-W04-X-O334-01-R4334
 - Hex ID: SZOOMPKOOMPPRESEW4XO3341R4334
 - Name: oomlout_OOMP_parts : RESE-W04-X-O334-01-R4334
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/RESE-W04-X-O334-01-R4334/
 - Description: oomlout_OOMP_parts : RESE-W04-X-O334-01-R4334
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-W04-X-O334-01-R4334](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-W04-X-O334-01-R4334)
 - Short Link: [http://oom.lt/SZOOMPKOOMPPRESEW4XO3341R4334](http://oom.lt/SZOOMPKOOMPPRESEW4XO3341R4334)

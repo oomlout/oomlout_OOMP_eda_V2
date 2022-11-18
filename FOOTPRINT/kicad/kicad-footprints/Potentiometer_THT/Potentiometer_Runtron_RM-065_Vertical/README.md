@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Potentiometer_THT-Potentiometer_Runtron_RM-065_Vertical
 - Hex ID: FZKPPOTRUNTRONRM65F
 - Name: Potentiometer_THT : Potentiometer_Runtron_RM-065_Vertical
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Potentiometer_THT/Potentiometer_Runtron_RM-065_Vertical/
 - Description: Potentiometer_THT : Potentiometer_Runtron_RM-065_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Potentiometer_THT-Potentiometer_Runtron_RM-065_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Potentiometer_THT-Potentiometer_Runtron_RM-065_Vertical)
 - Short Link: [http://oom.lt/FZKPPOTRUNTRONRM65F](http://oom.lt/FZKPPOTRUNTRONRM65F)

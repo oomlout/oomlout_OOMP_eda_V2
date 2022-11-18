@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Transformer_SMD-Pulse_PA2007NL
 - Hex ID: FZKTRPULSEPA27NL
 - Name: Transformer_SMD : Pulse_PA2007NL
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Transformer_SMD/Pulse_PA2007NL/
 - Description: Transformer_SMD : Pulse_PA2007NL
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Transformer_SMD-Pulse_PA2007NL](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Transformer_SMD-Pulse_PA2007NL)
 - Short Link: [http://oom.lt/FZKTRPULSEPA27NL](http://oom.lt/FZKTRPULSEPA27NL)

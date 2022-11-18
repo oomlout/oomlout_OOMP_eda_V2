@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-CSTCR-G
 - Hex ID: FZACSTCRG
 - Name: adafruit : CSTCR-G
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/CSTCR-G/
 - Description: adafruit : CSTCR-G
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-CSTCR-G](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-CSTCR-G)
 - Short Link: [http://oom.lt/FZACSTCRG](http://oom.lt/FZACSTCRG)

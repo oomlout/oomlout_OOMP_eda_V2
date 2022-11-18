@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_THT-Choke_Schaffner_RN222-04-18.0x31.0mm
 - Hex ID: FZKINCHOKESCHAFFNERRN222418X31
 - Name: Inductor_THT : Choke_Schaffner_RN222-04-18.0x31.0mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/Choke_Schaffner_RN222-04-18.0x31.0mm/
 - Description: Inductor_THT : Choke_Schaffner_RN222-04-18.0x31.0mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_THT-Choke_Schaffner_RN222-04-18.0x31.0mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_THT-Choke_Schaffner_RN222-04-18.0x31.0mm)
 - Short Link: [http://oom.lt/FZKINCHOKESCHAFFNERRN222418X31](http://oom.lt/FZKINCHOKESCHAFFNERRN222418X31)

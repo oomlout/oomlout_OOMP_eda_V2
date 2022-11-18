@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-C375-203X418
 - Hex ID: FZAC37523X418
 - Name: adafruit : C375-203X418
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/C375-203X418/
 - Description: adafruit : C375-203X418
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-C375-203X418](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-C375-203X418)
 - Short Link: [http://oom.lt/FZAC37523X418](http://oom.lt/FZAC37523X418)

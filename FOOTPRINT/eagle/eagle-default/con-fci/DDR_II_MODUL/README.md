@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-fci-DDR_II_MODUL
 - Hex ID: FZECONFCIDDRIIMODUL
 - Name: con-fci : DDR_II_MODUL
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-fci/DDR_II_MODUL/
 - Description: con-fci : DDR_II_MODUL
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-fci-DDR_II_MODUL](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-fci-DDR_II_MODUL)
 - Short Link: [http://oom.lt/FZECONFCIDDRIIMODUL](http://oom.lt/FZECONFCIDDRIIMODUL)

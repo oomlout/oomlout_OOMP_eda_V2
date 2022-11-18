@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_SO-HSOP-20-1EP_11.0x15.9mm_P1.27mm_SlugUp
 - Hex ID: FZKSOHS21EP11X159P127SLUGUP
 - Name: Package_SO : HSOP-20-1EP_11.0x15.9mm_P1.27mm_SlugUp
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SO/HSOP-20-1EP_11.0x15.9mm_P1.27mm_SlugUp/
 - Description: Package_SO : HSOP-20-1EP_11.0x15.9mm_P1.27mm_SlugUp
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SO-HSOP-20-1EP_11.0x15.9mm_P1.27mm_SlugUp](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SO-HSOP-20-1EP_11.0x15.9mm_P1.27mm_SlugUp)
 - Short Link: [http://oom.lt/FZKSOHS21EP11X159P127SLUGUP](http://oom.lt/FZKSOHS21EP11X159P127SLUGUP)

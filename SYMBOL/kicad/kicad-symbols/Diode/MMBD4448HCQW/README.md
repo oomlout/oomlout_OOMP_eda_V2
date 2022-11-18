@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-MMBD4448HCQW
 - Hex ID: SZKDIODEBD4448HCQW
 - Name: Diode : MMBD4448HCQW
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/MMBD4448HCQW/
 - Description: Diode : MMBD4448HCQW
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-MMBD4448HCQW](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-MMBD4448HCQW)
 - Short Link: [http://oom.lt/SZKDIODEBD4448HCQW](http://oom.lt/SZKDIODEBD4448HCQW)

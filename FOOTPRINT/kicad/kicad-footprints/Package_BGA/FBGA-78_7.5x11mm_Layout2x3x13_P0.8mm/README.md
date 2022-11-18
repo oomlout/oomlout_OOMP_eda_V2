@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_BGA-FBGA-78_7.5x11mm_Layout2x3x13_P0.8mm
 - Hex ID: FZKBGAFBGA7875X11LAYOUT2X3X13P8
 - Name: Package_BGA : FBGA-78_7.5x11mm_Layout2x3x13_P0.8mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_BGA/FBGA-78_7.5x11mm_Layout2x3x13_P0.8mm/
 - Description: Package_BGA : FBGA-78_7.5x11mm_Layout2x3x13_P0.8mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_BGA-FBGA-78_7.5x11mm_Layout2x3x13_P0.8mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_BGA-FBGA-78_7.5x11mm_Layout2x3x13_P0.8mm)
 - Short Link: [http://oom.lt/FZKBGAFBGA7875X11LAYOUT2X3X13P8](http://oom.lt/FZKBGAFBGA7875X11LAYOUT2X3X13P8)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-linear-PGA68
 - Hex ID: FZELINEARPGA68
 - Name: linear : PGA68
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/linear/PGA68/
 - Description: linear : PGA68
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-linear-PGA68](http://oom.lt/FOOTPRINT-eagle-eagle-default-linear-PGA68)
 - Short Link: [http://oom.lt/FZELINEARPGA68](http://oom.lt/FZELINEARPGA68)

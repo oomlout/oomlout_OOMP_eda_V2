@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0603-X-UF2-V16-C6U216
 - Hex ID: SZOOMPKOOMPPCAPC63XUF2V16C6U216
 - Name: oomlout_OOMP_parts : CAPC-0603-X-UF2-V16-C6U216
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/CAPC-0603-X-UF2-V16-C6U216/
 - Description: oomlout_OOMP_parts : CAPC-0603-X-UF2-V16-C6U216
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0603-X-UF2-V16-C6U216](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0603-X-UF2-V16-C6U216)
 - Short Link: [http://oom.lt/SZOOMPKOOMPPCAPC63XUF2V16C6U216](http://oom.lt/SZOOMPKOOMPPCAPC63XUF2V16C6U216)

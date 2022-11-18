@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEREFPACKAGESMQFP442 > ref-packages : MQFP44-2](#fzerefpackagesmqfp442--ref-packages--mqfp44-2)
+* [FZEREFPSMQFP442 > ref-packages : MQFP44-2](#fzerefpsmqfp442--ref-packages--mqfp44-2)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEREFPACKAGESMQFP442 > ref-packages : MQFP44-2
+# FZEREFPSMQFP442 > ref-packages : MQFP44-2
 
 - ID: FOOTPRINT-eagle-eagle-default-ref-packages-MQFP44-2
-- Hex ID: FZEREFPACKAGESMQFP442
+- Hex ID: FZEREFPSMQFP442
 - Name: ref-packages : MQFP44-2
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ref-packages/MQFP44-2/
 - Description: ref-packages : MQFP44-2
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-MQFP44-2](http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-MQFP44-2)
-- Short Link: [http://oom.lt/FZEREFPACKAGESMQFP442](http://oom.lt/FZEREFPACKAGESMQFP442)
+- Short Link: [http://oom.lt/FZEREFPSMQFP442](http://oom.lt/FZEREFPSMQFP442)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|ref-packages|
 |OOMP Index|oompIndex|MQFP44-2|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-ref-packages-MQFP44-2|
-|Hex ID (short code)|hexID|FZEREFPACKAGESMQFP442|
+|Hex ID (short code)|hexID|FZEREFPSMQFP442|
 |name|name|ref-packages : MQFP44-2|
 ||||

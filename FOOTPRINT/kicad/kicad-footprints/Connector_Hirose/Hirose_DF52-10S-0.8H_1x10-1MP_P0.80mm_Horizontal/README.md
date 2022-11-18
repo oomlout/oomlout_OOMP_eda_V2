@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_Hirose-Hirose_DF52-10S-0.8H_1x10-1MP_P0.80mm_Horizontal
 - Hex ID: FZKCNHIROSEHIROSEDF521S8H1X11MPP8H
 - Name: Connector_Hirose : Hirose_DF52-10S-0.8H_1x10-1MP_P0.80mm_Horizontal
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Hirose/Hirose_DF52-10S-0.8H_1x10-1MP_P0.80mm_Horizontal/
 - Description: Connector_Hirose : Hirose_DF52-10S-0.8H_1x10-1MP_P0.80mm_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Hirose-Hirose_DF52-10S-0.8H_1x10-1MP_P0.80mm_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Hirose-Hirose_DF52-10S-0.8H_1x10-1MP_P0.80mm_Horizontal)
 - Short Link: [http://oom.lt/FZKCNHIROSEHIROSEDF521S8H1X11MPP8H](http://oom.lt/FZKCNHIROSEHIROSEDF521S8H1X11MPP8H)

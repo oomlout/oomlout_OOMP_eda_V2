@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-NCP163ASN500T1G
 - Hex ID: SZKREGULATORLINEARNCP163ASN5T1G
 - Name: Regulator_Linear : NCP163ASN500T1G
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/NCP163ASN500T1G/
 - Description: Regulator_Linear : NCP163ASN500T1G
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-NCP163ASN500T1G](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-NCP163ASN500T1G)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARNCP163ASN5T1G](http://oom.lt/SZKREGULATORLINEARNCP163ASN5T1G)

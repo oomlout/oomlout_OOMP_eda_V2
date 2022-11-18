@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Memory_EPROM-27C020
 - Hex ID: SZKMEMORYEPROM27C2
 - Name: Memory_EPROM : 27C020
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Memory_EPROM/27C020/
 - Description: Memory_EPROM : 27C020
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_EPROM-27C020](http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_EPROM-27C020)
 - Short Link: [http://oom.lt/SZKMEMORYEPROM27C2](http://oom.lt/SZKMEMORYEPROM27C2)

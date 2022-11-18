@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-heatsink-SK36_50
 - Hex ID: FZEHSK365
 - Name: heatsink : SK36_50
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/heatsink/SK36_50/
 - Description: heatsink : SK36_50
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-heatsink-SK36_50](http://oom.lt/FOOTPRINT-eagle-eagle-default-heatsink-SK36_50)
 - Short Link: [http://oom.lt/FZEHSK365](http://oom.lt/FZEHSK365)

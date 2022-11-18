@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_FFC-FPC-Jushuo_AFC07-S24FCA-00_1x24-1MP_P0.50_Horizontal
 - Hex ID: FZKCNFFCFPCJUSHUOAFC7S24FCA1X241MPP5H
 - Name: Connector_FFC-FPC : Jushuo_AFC07-S24FCA-00_1x24-1MP_P0.50_Horizontal
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_FFC-FPC/Jushuo_AFC07-S24FCA-00_1x24-1MP_P0.50_Horizontal/
 - Description: Connector_FFC-FPC : Jushuo_AFC07-S24FCA-00_1x24-1MP_P0.50_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_FFC-FPC-Jushuo_AFC07-S24FCA-00_1x24-1MP_P0.50_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_FFC-FPC-Jushuo_AFC07-S24FCA-00_1x24-1MP_P0.50_Horizontal)
 - Short Link: [http://oom.lt/FZKCNFFCFPCJUSHUOAFC7S24FCA1X241MPP5H](http://oom.lt/FZKCNFFCFPCJUSHUOAFC7S24FCA1X241MPP5H)

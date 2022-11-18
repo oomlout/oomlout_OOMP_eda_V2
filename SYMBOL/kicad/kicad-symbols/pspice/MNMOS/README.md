@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-pspice-MNMOS
 - Hex ID: SZKPSPICEMNMOS
 - Name: pspice : MNMOS
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/pspice/MNMOS/
 - Description: pspice : MNMOS
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-pspice-MNMOS](http://oom.lt/SYMBOL-kicad-kicad-symbols-pspice-MNMOS)
 - Short Link: [http://oom.lt/SZKPSPICEMNMOS](http://oom.lt/SZKPSPICEMNMOS)

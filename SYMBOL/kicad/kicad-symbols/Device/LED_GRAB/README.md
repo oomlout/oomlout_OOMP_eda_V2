@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Device-LED_GRAB
 - Hex ID: SZKDEVICELGRAB
 - Name: Device : LED_GRAB
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/LED_GRAB/
 - Description: Device : LED_GRAB
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-LED_GRAB](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-LED_GRAB)
 - Short Link: [http://oom.lt/SZKDEVICELGRAB](http://oom.lt/SZKDEVICELGRAB)

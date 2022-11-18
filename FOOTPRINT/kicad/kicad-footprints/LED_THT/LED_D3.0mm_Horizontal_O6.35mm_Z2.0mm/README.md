@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-LED_THT-LED_D3.0mm_Horizontal_O6.35mm_Z2.0mm
 - Hex ID: FZKLLD3HO635Z2
 - Name: LED_THT : LED_D3.0mm_Horizontal_O6.35mm_Z2.0mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/LED_THT/LED_D3.0mm_Horizontal_O6.35mm_Z2.0mm/
 - Description: LED_THT : LED_D3.0mm_Horizontal_O6.35mm_Z2.0mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-LED_THT-LED_D3.0mm_Horizontal_O6.35mm_Z2.0mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-LED_THT-LED_D3.0mm_Horizontal_O6.35mm_Z2.0mm)
 - Short Link: [http://oom.lt/FZKLLD3HO635Z2](http://oom.lt/FZKLLD3HO635Z2)

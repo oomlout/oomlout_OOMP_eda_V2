@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-1X02_LONGPADS
 - Hex ID: FZSRT1X2L
 - Name: SparkFun-Retired : 1X02_LONGPADS
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Retired/1X02_LONGPADS/
 - Description: SparkFun-Retired : 1X02_LONGPADS
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-1X02_LONGPADS](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-1X02_LONGPADS)
 - Short Link: [http://oom.lt/FZSRT1X2L](http://oom.lt/FZSRT1X2L)

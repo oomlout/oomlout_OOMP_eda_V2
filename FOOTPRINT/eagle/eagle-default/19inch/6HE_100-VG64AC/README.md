@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-19inch-6HE_100-VG64AC
 - Hex ID: FZE19INCH6HE1VG64AC
 - Name: 19inch : 6HE_100-VG64AC
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/19inch/6HE_100-VG64AC/
 - Description: 19inch : 6HE_100-VG64AC
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-19inch-6HE_100-VG64AC](http://oom.lt/FOOTPRINT-eagle-eagle-default-19inch-6HE_100-VG64AC)
 - Short Link: [http://oom.lt/FZE19INCH6HE1VG64AC](http://oom.lt/FZE19INCH6HE1VG64AC)

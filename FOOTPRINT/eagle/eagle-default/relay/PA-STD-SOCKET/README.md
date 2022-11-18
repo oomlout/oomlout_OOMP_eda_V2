@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-relay-PA-STD-SOCKET
 - Hex ID: FZERELAYPASTDSO
 - Name: relay : PA-STD-SOCKET
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/relay/PA-STD-SOCKET/
 - Description: relay : PA-STD-SOCKET
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-PA-STD-SOCKET](http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-PA-STD-SOCKET)
 - Short Link: [http://oom.lt/FZERELAYPASTDSO](http://oom.lt/FZERELAYPASTDSO)

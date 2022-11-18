@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-74xx-74LS298
 - Hex ID: SZK74XX74LS298
 - Name: 74xx : 74LS298
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/74xx/74LS298/
 - Description: 74xx : 74LS298
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-74xx-74LS298](http://oom.lt/SYMBOL-kicad-kicad-symbols-74xx-74LS298)
 - Short Link: [http://oom.lt/SZK74XX74LS298](http://oom.lt/SZK74XX74LS298)

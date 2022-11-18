@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-avago-DIL08
 - Hex ID: FZEAVAGODIL8
 - Name: avago : DIL08
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/avago/DIL08/
 - Description: avago : DIL08
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-avago-DIL08](http://oom.lt/FOOTPRINT-eagle-eagle-default-avago-DIL08)
 - Short Link: [http://oom.lt/FZEAVAGODIL8](http://oom.lt/FZEAVAGODIL8)

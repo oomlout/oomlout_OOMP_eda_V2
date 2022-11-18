@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC18-PIC18F24K50-xML
 - Hex ID: SZKMCUMCHIPPIC18PIC18F24K5XML
 - Name: MCU_Microchip_PIC18 : PIC18F24K50-xML
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC18/PIC18F24K50-xML/
 - Description: MCU_Microchip_PIC18 : PIC18F24K50-xML
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC18-PIC18F24K50-xML](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC18-PIC18F24K50-xML)
 - Short Link: [http://oom.lt/SZKMCUMCHIPPIC18PIC18F24K5XML](http://oom.lt/SZKMCUMCHIPPIC18PIC18F24K5XML)

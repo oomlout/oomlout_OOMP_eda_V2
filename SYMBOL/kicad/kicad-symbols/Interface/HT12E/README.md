@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface-HT12E
 - Hex ID: SZKINTERFACEHT12E
 - Name: Interface : HT12E
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface/HT12E/
 - Description: Interface : HT12E
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-HT12E](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-HT12E)
 - Short Link: [http://oom.lt/SZKINTERFACEHT12E](http://oom.lt/SZKINTERFACEHT12E)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Potentiometer_Digital-MCP4014-xxxxOT
 - Hex ID: SZKPOTDIGITALMCP414XXXXOT
 - Name: Potentiometer_Digital : MCP4014-xxxxOT
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Potentiometer_Digital/MCP4014-xxxxOT/
 - Description: Potentiometer_Digital : MCP4014-xxxxOT
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Potentiometer_Digital-MCP4014-xxxxOT](http://oom.lt/SYMBOL-kicad-kicad-symbols-Potentiometer_Digital-MCP4014-xxxxOT)
 - Short Link: [http://oom.lt/SZKPOTDIGITALMCP414XXXXOT](http://oom.lt/SZKPOTDIGITALMCP414XXXXOT)

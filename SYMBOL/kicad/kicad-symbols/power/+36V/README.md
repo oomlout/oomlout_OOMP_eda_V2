@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-power-+36V
 - Hex ID: SZKPOWER+36V
 - Name: power : +36V
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/power/+36V/
 - Description: power : +36V
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-power-+36V](http://oom.lt/SYMBOL-kicad-kicad-symbols-power-+36V)
 - Short Link: [http://oom.lt/SZKPOWER+36V](http://oom.lt/SZKPOWER+36V)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-4xxx-4010
 - Hex ID: SZK4XXX41
 - Name: 4xxx : 4010
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/4xxx/4010/
 - Description: 4xxx : 4010
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-4xxx-4010](http://oom.lt/SYMBOL-kicad-kicad-symbols-4xxx-4010)
 - Short Link: [http://oom.lt/SZK4XXX41](http://oom.lt/SZK4XXX41)

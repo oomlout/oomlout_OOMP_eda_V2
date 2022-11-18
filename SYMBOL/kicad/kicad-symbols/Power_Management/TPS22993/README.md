@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Power_Management-TPS22993
 - Hex ID: SZKPOWERMANAGEMENTTPS22993
 - Name: Power_Management : TPS22993
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Power_Management/TPS22993/
 - Description: Power_Management : TPS22993
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-TPS22993](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-TPS22993)
 - Short Link: [http://oom.lt/SZKPOWERMANAGEMENTTPS22993](http://oom.lt/SZKPOWERMANAGEMENTTPS22993)

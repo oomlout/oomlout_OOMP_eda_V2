@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_CAN_LIN-LTC2875-DD
 - Hex ID: SZKINTERFACECANLINLTC2875DD
 - Name: Interface_CAN_LIN : LTC2875-DD
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_CAN_LIN/LTC2875-DD/
 - Description: Interface_CAN_LIN : LTC2875-DD
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_CAN_LIN-LTC2875-DD](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_CAN_LIN-LTC2875-DD)
 - Short Link: [http://oom.lt/SZKINTERFACECANLINLTC2875DD](http://oom.lt/SZKINTERFACECANLINLTC2875DD)

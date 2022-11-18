@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-ESP32-WROOM-32D
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSESP32WROOM32D
 - Name: digikey-footprints : ESP32-WROOM-32D
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/ESP32-WROOM-32D/
 - Description: digikey-footprints : ESP32-WROOM-32D
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-ESP32-WROOM-32D](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-ESP32-WROOM-32D)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSESP32WROOM32D](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSESP32WROOM32D)

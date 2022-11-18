@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0402-X-NF220-V16-C42N220
 - Hex ID: FZOOMPKOOMPPCAPC42XNF22V16C42N22
 - Name: oomlout_OOMP_parts : CAPC-0402-X-NF220-V16-C42N220
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/CAPC-0402-X-NF220-V16-C42N220/
 - Description: oomlout_OOMP_parts : CAPC-0402-X-NF220-V16-C42N220
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0402-X-NF220-V16-C42N220](http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0402-X-NF220-V16-C42N220)
 - Short Link: [http://oom.lt/FZOOMPKOOMPPCAPC42XNF22V16C42N22](http://oom.lt/FZOOMPKOOMPPCAPC42XNF22V16C42N22)

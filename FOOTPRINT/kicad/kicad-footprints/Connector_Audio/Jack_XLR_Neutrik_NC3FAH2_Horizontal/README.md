@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_Audio-Jack_XLR_Neutrik_NC3FAH2_Horizontal
 - Hex ID: FZKCNAUDIOJXLRNEUTRIKNC3FAH2H
 - Name: Connector_Audio : Jack_XLR_Neutrik_NC3FAH2_Horizontal
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Audio/Jack_XLR_Neutrik_NC3FAH2_Horizontal/
 - Description: Connector_Audio : Jack_XLR_Neutrik_NC3FAH2_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Audio-Jack_XLR_Neutrik_NC3FAH2_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Audio-Jack_XLR_Neutrik_NC3FAH2_Horizontal)
 - Short Link: [http://oom.lt/FZKCNAUDIOJXLRNEUTRIKNC3FAH2H](http://oom.lt/FZKCNAUDIOJXLRNEUTRIKNC3FAH2H)

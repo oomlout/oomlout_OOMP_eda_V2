@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Power_Management-BTS5016SDA
 - Hex ID: SZKPOWERMANAGEMENTBTS516SDA
 - Name: Power_Management : BTS5016SDA
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Power_Management/BTS5016SDA/
 - Description: Power_Management : BTS5016SDA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-BTS5016SDA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-BTS5016SDA)
 - Short Link: [http://oom.lt/SZKPOWERMANAGEMENTBTS516SDA](http://oom.lt/SZKPOWERMANAGEMENTBTS516SDA)

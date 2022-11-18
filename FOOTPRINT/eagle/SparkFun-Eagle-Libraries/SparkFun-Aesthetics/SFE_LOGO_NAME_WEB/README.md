@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Aesthetics-SFE_LOGO_NAME_WEB
 - Hex ID: FZSASFELNWEB
 - Name: SparkFun-Aesthetics : SFE_LOGO_NAME_WEB
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Aesthetics/SFE_LOGO_NAME_WEB/
 - Description: SparkFun-Aesthetics : SFE_LOGO_NAME_WEB
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Aesthetics-SFE_LOGO_NAME_WEB](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Aesthetics-SFE_LOGO_NAME_WEB)
 - Short Link: [http://oom.lt/FZSASFELNWEB](http://oom.lt/FZSASFELNWEB)

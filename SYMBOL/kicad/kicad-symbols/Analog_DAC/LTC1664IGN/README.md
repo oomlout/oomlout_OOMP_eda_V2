@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Analog_DAC-LTC1664IGN
 - Hex ID: SZKANALOGDACLTC1664IGN
 - Name: Analog_DAC : LTC1664IGN
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog_DAC/LTC1664IGN/
 - Description: Analog_DAC : LTC1664IGN
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_DAC-LTC1664IGN](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_DAC-LTC1664IGN)
 - Short Link: [http://oom.lt/SZKANALOGDACLTC1664IGN](http://oom.lt/SZKANALOGDACLTC1664IGN)

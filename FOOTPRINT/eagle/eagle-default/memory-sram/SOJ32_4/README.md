@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-memory-sram-SOJ32_4
 - Hex ID: FZEMEMORYSRAMSOJ324
 - Name: memory-sram : SOJ32_4
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/memory-sram/SOJ32_4/
 - Description: memory-sram : SOJ32_4
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-memory-sram-SOJ32_4](http://oom.lt/FOOTPRINT-eagle-eagle-default-memory-sram-SOJ32_4)
 - Short Link: [http://oom.lt/FZEMEMORYSRAMSOJ324](http://oom.lt/FZEMEMORYSRAMSOJ324)

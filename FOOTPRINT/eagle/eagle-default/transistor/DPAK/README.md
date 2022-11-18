@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-transistor-DPAK
 - Hex ID: FZETRANSISTORDPAK
 - Name: transistor : DPAK
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/transistor/DPAK/
 - Description: transistor : DPAK
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-DPAK](http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-DPAK)
 - Short Link: [http://oom.lt/FZETRANSISTORDPAK](http://oom.lt/FZETRANSISTORDPAK)

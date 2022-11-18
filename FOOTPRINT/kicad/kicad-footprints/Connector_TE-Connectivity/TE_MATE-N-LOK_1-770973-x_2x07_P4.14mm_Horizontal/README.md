@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKCNTECONNECTIVITYTEMATENLOK177973X2X7P414H > Connector_TE-Connectivity : TE_MATE-N-LOK_1-770973-x_2x07_P4.14mm_Horizontal](#fzkcnteconnectivitytematenlok177973x2x7p414h--connector_te-connectivity--te_mate-n-lok_1-770973-x_2x07_p414mm_horizontal)
+* [FZKCNTECECTIVITYTEMATENLOK177973X2X7P414H > Connector_TE-Connectivity : TE_MATE-N-LOK_1-770973-x_2x07_P4.14mm_Horizontal](#fzkcntecectivitytematenlok177973x2x7p414h--connector_te-connectivity--te_mate-n-lok_1-770973-x_2x07_p414mm_horizontal)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKCNTECONNECTIVITYTEMATENLOK177973X2X7P414H > Connector_TE-Connectivity : TE_MATE-N-LOK_1-770973-x_2x07_P4.14mm_Horizontal
+# FZKCNTECECTIVITYTEMATENLOK177973X2X7P414H > Connector_TE-Connectivity : TE_MATE-N-LOK_1-770973-x_2x07_P4.14mm_Horizontal
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_TE-Connectivity-TE_MATE-N-LOK_1-770973-x_2x07_P4.14mm_Horizontal
-- Hex ID: FZKCNTECONNECTIVITYTEMATENLOK177973X2X7P414H
+- Hex ID: FZKCNTECECTIVITYTEMATENLOK177973X2X7P414H
 - Name: Connector_TE-Connectivity : TE_MATE-N-LOK_1-770973-x_2x07_P4.14mm_Horizontal
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_TE-Connectivity/TE_MATE-N-LOK_1-770973-x_2x07_P4.14mm_Horizontal/
 - Description: Connector_TE-Connectivity : TE_MATE-N-LOK_1-770973-x_2x07_P4.14mm_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_TE-Connectivity-TE_MATE-N-LOK_1-770973-x_2x07_P4.14mm_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_TE-Connectivity-TE_MATE-N-LOK_1-770973-x_2x07_P4.14mm_Horizontal)
-- Short Link: [http://oom.lt/FZKCNTECONNECTIVITYTEMATENLOK177973X2X7P414H](http://oom.lt/FZKCNTECONNECTIVITYTEMATENLOK177973X2X7P414H)
+- Short Link: [http://oom.lt/FZKCNTECECTIVITYTEMATENLOK177973X2X7P414H](http://oom.lt/FZKCNTECECTIVITYTEMATENLOK177973X2X7P414H)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Connector_TE-Connectivity|
 |OOMP Index|oompIndex|TE_MATE-N-LOK_1-770973-x_2x07_P4.14mm_Horizontal|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_TE-Connectivity-TE_MATE-N-LOK_1-770973-x_2x07_P4.14mm_Horizontal|
-|Hex ID (short code)|hexID|FZKCNTECONNECTIVITYTEMATENLOK177973X2X7P414H|
+|Hex ID (short code)|hexID|FZKCNTECECTIVITYTEMATENLOK177973X2X7P414H|
 |name|name|Connector_TE-Connectivity : TE_MATE-N-LOK_1-770973-x_2x07_P4.14mm_Horizontal|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'TE_MATE-N-LOK_1-770973-x_2x07_P4.14mm_Horizontal'</td><td> 'description'</td></tr><tr><td> 'Molex Mini-Universal MATE-N-LOK</td><td> old mpn/engineering number</td></tr><tr><td> 1-770973-x</td><td> 7 Pins per row (http</td></tr><tr><td>//www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=82181_SOFTSHELL_HIGH_DENSITY&DocType=CS&DocLang=EN)</td><td> generated with kicad-footprint-generator'</td><td> 'tags'</td></tr><tr><td> 'connector TE MATE-N-LOK top entry'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_TE-Connectivity.3dshapes/TE_MATE-N-LOK_1-770973-x_2x07_P4.14mm_Horizontal.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'np_thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||

@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEINDUCTORNKLS1 > inductor-nkl : S10](#fzeinductornkls1--inductor-nkl--s10)
+* [FZEINNKLS1 > inductor-nkl : S10](#fzeinnkls1--inductor-nkl--s10)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEINDUCTORNKLS1 > inductor-nkl : S10
+# FZEINNKLS1 > inductor-nkl : S10
 
 - ID: FOOTPRINT-eagle-eagle-default-inductor-nkl-S10
-- Hex ID: FZEINDUCTORNKLS1
+- Hex ID: FZEINNKLS1
 - Name: inductor-nkl : S10
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/inductor-nkl/S10/
 - Description: inductor-nkl : S10
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-inductor-nkl-S10](http://oom.lt/FOOTPRINT-eagle-eagle-default-inductor-nkl-S10)
-- Short Link: [http://oom.lt/FZEINDUCTORNKLS1](http://oom.lt/FZEINDUCTORNKLS1)
+- Short Link: [http://oom.lt/FZEINNKLS1](http://oom.lt/FZEINNKLS1)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|inductor-nkl|
 |OOMP Index|oompIndex|S10|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-inductor-nkl-S10|
-|Hex ID (short code)|hexID|FZEINDUCTORNKLS1|
+|Hex ID (short code)|hexID|FZEINNKLS1|
 |name|name|inductor-nkl : S10|
 ||||

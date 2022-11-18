@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-linear-SO28W
 - Hex ID: FZELINEARSO28W
 - Name: linear : SO28W
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/linear/SO28W/
 - Description: linear : SO28W
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-linear-SO28W](http://oom.lt/FOOTPRINT-eagle-eagle-default-linear-SO28W)
 - Short Link: [http://oom.lt/FZELINEARSO28W](http://oom.lt/FZELINEARSO28W)

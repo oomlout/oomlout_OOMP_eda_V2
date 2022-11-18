@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Reference_Voltage-TL432DBV
 - Hex ID: SZKREFERENCEVOLTAGETL432DBV
 - Name: Reference_Voltage : TL432DBV
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Reference_Voltage/TL432DBV/
 - Description: Reference_Voltage : TL432DBV
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Voltage-TL432DBV](http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Voltage-TL432DBV)
 - Short Link: [http://oom.lt/SZKREFERENCEVOLTAGETL432DBV](http://oom.lt/SZKREFERENCEVOLTAGETL432DBV)

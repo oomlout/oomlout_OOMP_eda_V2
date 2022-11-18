@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-383FL
 - Hex ID: FZKSOTSOT383FL
 - Name: Package_TO_SOT_SMD : SOT-383FL
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/SOT-383FL/
 - Description: Package_TO_SOT_SMD : SOT-383FL
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-383FL](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-383FL)
 - Short Link: [http://oom.lt/FZKSOTSOT383FL](http://oom.lt/FZKSOTSOT383FL)

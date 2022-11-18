@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-optocoupler-DIL06
 - Hex ID: FZEOPTOCOUPLERDIL6
 - Name: optocoupler : DIL06
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/optocoupler/DIL06/
 - Description: optocoupler : DIL06
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-optocoupler-DIL06](http://oom.lt/FOOTPRINT-eagle-eagle-default-optocoupler-DIL06)
 - Short Link: [http://oom.lt/FZEOPTOCOUPLERDIL6](http://oom.lt/FZEOPTOCOUPLERDIL6)

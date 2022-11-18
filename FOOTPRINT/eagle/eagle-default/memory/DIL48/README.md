@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-memory-DIL48
 - Hex ID: FZEMEMORYDIL48
 - Name: memory : DIL48
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/memory/DIL48/
 - Description: memory : DIL48
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-memory-DIL48](http://oom.lt/FOOTPRINT-eagle-eagle-default-memory-DIL48)
 - Short Link: [http://oom.lt/FZEMEMORYDIL48](http://oom.lt/FZEMEMORYDIL48)

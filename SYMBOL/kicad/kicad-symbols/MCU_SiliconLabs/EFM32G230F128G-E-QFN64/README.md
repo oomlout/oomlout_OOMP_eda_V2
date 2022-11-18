@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_SiliconLabs-EFM32G230F128G-E-QFN64
 - Hex ID: SZKMCUSILICONLABSEFM32G23F128GEQFN64
 - Name: MCU_SiliconLabs : EFM32G230F128G-E-QFN64
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_SiliconLabs/EFM32G230F128G-E-QFN64/
 - Description: MCU_SiliconLabs : EFM32G230F128G-E-QFN64
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_SiliconLabs-EFM32G230F128G-E-QFN64](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_SiliconLabs-EFM32G230F128G-E-QFN64)
 - Short Link: [http://oom.lt/SZKMCUSILICONLABSEFM32G23F128GEQFN64](http://oom.lt/SZKMCUSILICONLABSEFM32G23F128GEQFN64)

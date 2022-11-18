@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-LGA6
 - Hex ID: FZSSPARKFUNSENSLGA6
 - Name: SparkFun-Sensors : LGA6
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Sensors/LGA6/
 - Description: SparkFun-Sensors : LGA6
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-LGA6](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-LGA6)
 - Short Link: [http://oom.lt/FZSSPARKFUNSENSLGA6](http://oom.lt/FZSSPARKFUNSENSLGA6)

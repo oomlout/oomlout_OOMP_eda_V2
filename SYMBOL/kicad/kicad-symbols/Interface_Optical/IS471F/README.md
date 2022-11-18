@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_Optical-IS471F
 - Hex ID: SZKINTERFACEOPTICALIS471F
 - Name: Interface_Optical : IS471F
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_Optical/IS471F/
 - Description: Interface_Optical : IS471F
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Optical-IS471F](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Optical-IS471F)
 - Short Link: [http://oom.lt/SZKINTERFACEOPTICALIS471F](http://oom.lt/SZKINTERFACEOPTICALIS471F)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_PHD_B26B-PHDSS_2x13_P2.00mm_Vertical
 - Hex ID: FZKCNJSTJSTPHDB26BPHDSS2X13P2F
 - Name: Connector_JST : JST_PHD_B26B-PHDSS_2x13_P2.00mm_Vertical
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_PHD_B26B-PHDSS_2x13_P2.00mm_Vertical/
 - Description: Connector_JST : JST_PHD_B26B-PHDSS_2x13_P2.00mm_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_PHD_B26B-PHDSS_2x13_P2.00mm_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_PHD_B26B-PHDSS_2x13_P2.00mm_Vertical)
 - Short Link: [http://oom.lt/FZKCNJSTJSTPHDB26BPHDSS2X13P2F](http://oom.lt/FZKCNJSTJSTPHDB26BPHDSS2X13P2F)

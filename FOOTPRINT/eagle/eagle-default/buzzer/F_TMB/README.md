@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-buzzer-F_TMB
 - Hex ID: FZEBUZZERFTMB
 - Name: buzzer : F_TMB
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/buzzer/F_TMB/
 - Description: buzzer : F_TMB
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-buzzer-F_TMB](http://oom.lt/FOOTPRINT-eagle-eagle-default-buzzer-F_TMB)
 - Short Link: [http://oom.lt/FZEBUZZERFTMB](http://oom.lt/FZEBUZZERFTMB)

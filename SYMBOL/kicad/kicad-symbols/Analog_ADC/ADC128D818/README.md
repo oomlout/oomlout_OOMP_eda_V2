@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Analog_ADC-ADC128D818
 - Hex ID: SZKANALOGADCADC128D818
 - Name: Analog_ADC : ADC128D818
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog_ADC/ADC128D818/
 - Description: Analog_ADC : ADC128D818
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-ADC128D818](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-ADC128D818)
 - Short Link: [http://oom.lt/SZKANALOGADCADC128D818](http://oom.lt/SZKANALOGADCADC128D818)

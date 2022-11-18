@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-smd-ipc-SO28W
 - Hex ID: FZESMIPCSO28W
 - Name: smd-ipc : SO28W
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/smd-ipc/SO28W/
 - Description: smd-ipc : SO28W
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-SO28W](http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-SO28W)
 - Short Link: [http://oom.lt/FZESMIPCSO28W](http://oom.lt/FZESMIPCSO28W)

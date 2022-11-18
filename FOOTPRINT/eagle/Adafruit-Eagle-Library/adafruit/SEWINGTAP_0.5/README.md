@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-SEWINGTAP_0.5
 - Hex ID: FZASEWINGTAP5
 - Name: adafruit : SEWINGTAP_0.5
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/SEWINGTAP_0.5/
 - Description: adafruit : SEWINGTAP_0.5
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-SEWINGTAP_0.5](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-SEWINGTAP_0.5)
 - Short Link: [http://oom.lt/FZASEWINGTAP5](http://oom.lt/FZASEWINGTAP5)

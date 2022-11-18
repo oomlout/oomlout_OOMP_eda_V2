@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-hirose-FH12-60S-0.5SV
 - Hex ID: FZECONHIROSEFH126S5SV
 - Name: con-hirose : FH12-60S-0.5SV
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-hirose/FH12-60S-0.5SV/
 - Description: con-hirose : FH12-60S-0.5SV
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-hirose-FH12-60S-0.5SV](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-hirose-FH12-60S-0.5SV)
 - Short Link: [http://oom.lt/FZECONHIROSEFH126S5SV](http://oom.lt/FZECONHIROSEFH126S5SV)

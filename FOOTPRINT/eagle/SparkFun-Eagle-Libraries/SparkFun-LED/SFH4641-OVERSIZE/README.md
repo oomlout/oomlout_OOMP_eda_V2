@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-LED-SFH4641-OVERSIZE
 - Hex ID: FZSLSFH4641OVERSIZE
 - Name: SparkFun-LED : SFH4641-OVERSIZE
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-LED/SFH4641-OVERSIZE/
 - Description: SparkFun-LED : SFH4641-OVERSIZE
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-LED-SFH4641-OVERSIZE](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-LED-SFH4641-OVERSIZE)
 - Short Link: [http://oom.lt/FZSLSFH4641OVERSIZE](http://oom.lt/FZSLSFH4641OVERSIZE)

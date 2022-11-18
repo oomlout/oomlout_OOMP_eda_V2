@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Motor-Motor_DC_ALT
 - Hex ID: SZKMOTORMOTORDCALT
 - Name: Motor : Motor_DC_ALT
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Motor/Motor_DC_ALT/
 - Description: Motor : Motor_DC_ALT
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Motor-Motor_DC_ALT](http://oom.lt/SYMBOL-kicad-kicad-symbols-Motor-Motor_DC_ALT)
 - Short Link: [http://oom.lt/SZKMOTORMOTORDCALT](http://oom.lt/SZKMOTORMOTORDCALT)

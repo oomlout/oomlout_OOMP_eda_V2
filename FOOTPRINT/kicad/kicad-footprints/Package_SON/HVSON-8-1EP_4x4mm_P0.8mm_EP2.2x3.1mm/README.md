@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_SON-HVSON-8-1EP_4x4mm_P0.8mm_EP2.2x3.1mm
 - Hex ID: FZKSONHVSON81EP4X4P8EP22X31
 - Name: Package_SON : HVSON-8-1EP_4x4mm_P0.8mm_EP2.2x3.1mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SON/HVSON-8-1EP_4x4mm_P0.8mm_EP2.2x3.1mm/
 - Description: Package_SON : HVSON-8-1EP_4x4mm_P0.8mm_EP2.2x3.1mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SON-HVSON-8-1EP_4x4mm_P0.8mm_EP2.2x3.1mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SON-HVSON-8-1EP_4x4mm_P0.8mm_EP2.2x3.1mm)
 - Short Link: [http://oom.lt/FZKSONHVSON81EP4X4P8EP22X31](http://oom.lt/FZKSONHVSON81EP4X4P8EP22X31)

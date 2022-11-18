@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-USB_B_VERTICAL_PTH
 - Hex ID: FZSSPARKFUNCNSUBFP
 - Name: SparkFun-Connectors : USB_B_VERTICAL_PTH
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Connectors/USB_B_VERTICAL_PTH/
 - Description: SparkFun-Connectors : USB_B_VERTICAL_PTH
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-USB_B_VERTICAL_PTH](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-USB_B_VERTICAL_PTH)
 - Short Link: [http://oom.lt/FZSSPARKFUNCNSUBFP](http://oom.lt/FZSSPARKFUNCNSUBFP)

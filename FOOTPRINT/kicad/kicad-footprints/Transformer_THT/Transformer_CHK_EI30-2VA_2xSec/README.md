@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Transformer_THT-Transformer_CHK_EI30-2VA_2xSec
 - Hex ID: FZKTRTRCHKEI32VA2XSEC
 - Name: Transformer_THT : Transformer_CHK_EI30-2VA_2xSec
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Transformer_THT/Transformer_CHK_EI30-2VA_2xSec/
 - Description: Transformer_THT : Transformer_CHK_EI30-2VA_2xSec
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Transformer_THT-Transformer_CHK_EI30-2VA_2xSec](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Transformer_THT-Transformer_CHK_EI30-2VA_2xSec)
 - Short Link: [http://oom.lt/FZKTRTRCHKEI32VA2XSEC](http://oom.lt/FZKTRTRCHKEI32VA2XSEC)

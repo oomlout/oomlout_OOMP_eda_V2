@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-I01-X-PI2X04-SHRO-H2X4SH
 - Hex ID: SZOOMPKOOMPPHEADI1XPI2X4SHROH2X4SH
 - Name: oomlout_OOMP_parts : HEAD-I01-X-PI2X04-SHRO-H2X4SH
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/HEAD-I01-X-PI2X04-SHRO-H2X4SH/
 - Description: oomlout_OOMP_parts : HEAD-I01-X-PI2X04-SHRO-H2X4SH
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-I01-X-PI2X04-SHRO-H2X4SH](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-I01-X-PI2X04-SHRO-H2X4SH)
 - Short Link: [http://oom.lt/SZOOMPKOOMPPHEADI1XPI2X4SHROH2X4SH](http://oom.lt/SZOOMPKOOMPPHEADI1XPI2X4SHROH2X4SH)

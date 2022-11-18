@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Axial_L26.7mm_D12.1mm_P35.00mm_Horizontal_Vishay_IHA-103
 - Hex ID: FZKINLAXIALL267D121P35HVISHAYIHA13
 - Name: Inductor_THT : L_Axial_L26.7mm_D12.1mm_P35.00mm_Horizontal_Vishay_IHA-103
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Axial_L26.7mm_D12.1mm_P35.00mm_Horizontal_Vishay_IHA-103/
 - Description: Inductor_THT : L_Axial_L26.7mm_D12.1mm_P35.00mm_Horizontal_Vishay_IHA-103
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Axial_L26.7mm_D12.1mm_P35.00mm_Horizontal_Vishay_IHA-103](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Axial_L26.7mm_D12.1mm_P35.00mm_Horizontal_Vishay_IHA-103)
 - Short Link: [http://oom.lt/FZKINLAXIALL267D121P35HVISHAYIHA13](http://oom.lt/FZKINLAXIALL267D121P35HVISHAYIHA13)

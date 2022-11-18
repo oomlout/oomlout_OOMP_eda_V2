@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Connector-Wuerth_7499151120
 - Hex ID: SZKCNWUERTH749915112
 - Name: Connector : Wuerth_7499151120
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector/Wuerth_7499151120/
 - Description: Connector : Wuerth_7499151120
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-Wuerth_7499151120](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-Wuerth_7499151120)
 - Short Link: [http://oom.lt/SZKCNWUERTH749915112](http://oom.lt/SZKCNWUERTH749915112)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_Luminus_MP-3030-1100_3.0x3.0mm
 - Hex ID: FZKLLLUMINUSMP33113X3
 - Name: LED_SMD : LED_Luminus_MP-3030-1100_3.0x3.0mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_Luminus_MP-3030-1100_3.0x3.0mm/
 - Description: LED_SMD : LED_Luminus_MP-3030-1100_3.0x3.0mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_Luminus_MP-3030-1100_3.0x3.0mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_Luminus_MP-3030-1100_3.0x3.0mm)
 - Short Link: [http://oom.lt/FZKLLLUMINUSMP33113X3](http://oom.lt/FZKLLLUMINUSMP33113X3)

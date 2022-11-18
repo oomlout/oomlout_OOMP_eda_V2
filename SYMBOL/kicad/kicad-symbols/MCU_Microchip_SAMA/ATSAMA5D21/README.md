@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_SAMA-ATSAMA5D21
 - Hex ID: SZKMCUMCHIPSAMAATSAMA5D21
 - Name: MCU_Microchip_SAMA : ATSAMA5D21
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_SAMA/ATSAMA5D21/
 - Description: MCU_Microchip_SAMA : ATSAMA5D21
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_SAMA-ATSAMA5D21](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_SAMA-ATSAMA5D21)
 - Short Link: [http://oom.lt/SZKMCUMCHIPSAMAATSAMA5D21](http://oom.lt/SZKMCUMCHIPSAMAATSAMA5D21)

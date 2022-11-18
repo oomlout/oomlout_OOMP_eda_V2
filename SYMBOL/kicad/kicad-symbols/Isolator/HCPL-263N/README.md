@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Isolator-HCPL-263N
 - Hex ID: SZKISOLATORHCPL263N
 - Name: Isolator : HCPL-263N
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Isolator/HCPL-263N/
 - Description: Isolator : HCPL-263N
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-HCPL-263N](http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-HCPL-263N)
 - Short Link: [http://oom.lt/SZKISOLATORHCPL263N](http://oom.lt/SZKISOLATORHCPL263N)

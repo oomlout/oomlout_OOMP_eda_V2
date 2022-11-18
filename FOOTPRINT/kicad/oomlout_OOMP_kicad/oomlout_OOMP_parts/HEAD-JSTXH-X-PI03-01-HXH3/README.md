@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-JSTXH-X-PI03-01-HXH3
 - Hex ID: FZOOMPKOOMPPHEADJSTXHXPI31HXH3
 - Name: oomlout_OOMP_parts : HEAD-JSTXH-X-PI03-01-HXH3
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/HEAD-JSTXH-X-PI03-01-HXH3/
 - Description: oomlout_OOMP_parts : HEAD-JSTXH-X-PI03-01-HXH3
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-JSTXH-X-PI03-01-HXH3](http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-JSTXH-X-PI03-01-HXH3)
 - Short Link: [http://oom.lt/FZOOMPKOOMPPHEADJSTXHXPI31HXH3](http://oom.lt/FZOOMPKOOMPPHEADJSTXHXPI31HXH3)

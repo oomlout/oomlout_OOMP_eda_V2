@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-rcl-0617V
 - Hex ID: FZERCL617V
 - Name: rcl : 0617V
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/rcl/0617V/
 - Description: rcl : 0617V
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-0617V](http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-0617V)
 - Short Link: [http://oom.lt/FZERCL617V](http://oom.lt/FZERCL617V)

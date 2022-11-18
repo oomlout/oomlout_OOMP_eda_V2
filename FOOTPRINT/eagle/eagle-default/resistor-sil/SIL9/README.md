@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-resistor-sil-SIL9
 - Hex ID: FZERESISTORSILSIL9
 - Name: resistor-sil : SIL9
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/resistor-sil/SIL9/
 - Description: resistor-sil : SIL9
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-resistor-sil-SIL9](http://oom.lt/FOOTPRINT-eagle-eagle-default-resistor-sil-SIL9)
 - Short Link: [http://oom.lt/FZERESISTORSILSIL9](http://oom.lt/FZERESISTORSILSIL9)

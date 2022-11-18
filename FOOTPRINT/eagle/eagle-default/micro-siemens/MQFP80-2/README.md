@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-micro-siemens-MQFP80-2
 - Hex ID: FZEMSIEMENSMQFP82
 - Name: micro-siemens : MQFP80-2
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/micro-siemens/MQFP80-2/
 - Description: micro-siemens : MQFP80-2
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-siemens-MQFP80-2](http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-siemens-MQFP80-2)
 - Short Link: [http://oom.lt/FZEMSIEMENSMQFP82](http://oom.lt/FZEMSIEMENSMQFP82)

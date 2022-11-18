@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Analog_ADC-ADS1120-RVA
 - Hex ID: SZKANALOGADCADS112RVA
 - Name: Analog_ADC : ADS1120-RVA
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog_ADC/ADS1120-RVA/
 - Description: Analog_ADC : ADS1120-RVA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-ADS1120-RVA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-ADS1120-RVA)
 - Short Link: [http://oom.lt/SZKANALOGADCADS112RVA](http://oom.lt/SZKANALOGADCADS112RVA)

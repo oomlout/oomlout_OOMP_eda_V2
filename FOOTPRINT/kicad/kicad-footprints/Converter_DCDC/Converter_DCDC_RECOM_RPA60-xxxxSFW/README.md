@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Converter_DCDC-Converter_DCDC_RECOM_RPA60-xxxxSFW
 - Hex ID: FZKCONCONRECOMRPA6XXXXSFW
 - Name: Converter_DCDC : Converter_DCDC_RECOM_RPA60-xxxxSFW
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Converter_DCDC/Converter_DCDC_RECOM_RPA60-xxxxSFW/
 - Description: Converter_DCDC : Converter_DCDC_RECOM_RPA60-xxxxSFW
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Converter_DCDC-Converter_DCDC_RECOM_RPA60-xxxxSFW](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Converter_DCDC-Converter_DCDC_RECOM_RPA60-xxxxSFW)
 - Short Link: [http://oom.lt/FZKCONCONRECOMRPA6XXXXSFW](http://oom.lt/FZKCONCONRECOMRPA6XXXXSFW)

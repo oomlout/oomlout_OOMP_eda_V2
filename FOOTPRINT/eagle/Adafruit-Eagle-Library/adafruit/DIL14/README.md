@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-DIL14
 - Hex ID: FZADIL14
 - Name: adafruit : DIL14
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/DIL14/
 - Description: adafruit : DIL14
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-DIL14](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-DIL14)
 - Short Link: [http://oom.lt/FZADIL14](http://oom.lt/FZADIL14)

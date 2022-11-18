@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-diode-TO3P
 - Hex ID: FZEDIODETO3P
 - Name: diode : TO3P
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/diode/TO3P/
 - Description: diode : TO3P
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-diode-TO3P](http://oom.lt/FOOTPRINT-eagle-eagle-default-diode-TO3P)
 - Short Link: [http://oom.lt/FZEDIODETO3P](http://oom.lt/FZEDIODETO3P)

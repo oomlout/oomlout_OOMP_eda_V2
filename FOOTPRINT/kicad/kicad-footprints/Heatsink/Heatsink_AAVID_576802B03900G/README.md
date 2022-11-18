@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Heatsink-Heatsink_AAVID_576802B03900G
 - Hex ID: FZKHHAAVID57682B39G
 - Name: Heatsink : Heatsink_AAVID_576802B03900G
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Heatsink/Heatsink_AAVID_576802B03900G/
 - Description: Heatsink : Heatsink_AAVID_576802B03900G
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Heatsink-Heatsink_AAVID_576802B03900G](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Heatsink-Heatsink_AAVID_576802B03900G)
 - Short Link: [http://oom.lt/FZKHHAAVID57682B39G](http://oom.lt/FZKHHAAVID57682B39G)

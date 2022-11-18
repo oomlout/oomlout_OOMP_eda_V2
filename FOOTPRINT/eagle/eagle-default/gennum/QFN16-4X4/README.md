@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-gennum-QFN16-4X4
 - Hex ID: FZEGENNUMQFN164X4
 - Name: gennum : QFN16-4X4
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/gennum/QFN16-4X4/
 - Description: gennum : QFN16-4X4
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-gennum-QFN16-4X4](http://oom.lt/FOOTPRINT-eagle-eagle-default-gennum-QFN16-4X4)
 - Short Link: [http://oom.lt/FZEGENNUMQFN164X4](http://oom.lt/FZEGENNUMQFN164X4)

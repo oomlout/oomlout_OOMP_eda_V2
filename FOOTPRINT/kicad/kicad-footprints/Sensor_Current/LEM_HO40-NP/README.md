@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Sensor_Current-LEM_HO40-NP
 - Hex ID: FZKSENCURRENTLEMHO4NP
 - Name: Sensor_Current : LEM_HO40-NP
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Sensor_Current/LEM_HO40-NP/
 - Description: Sensor_Current : LEM_HO40-NP
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Sensor_Current-LEM_HO40-NP](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Sensor_Current-LEM_HO40-NP)
 - Short Link: [http://oom.lt/FZKSENCURRENTLEMHO4NP](http://oom.lt/FZKSENCURRENTLEMHO4NP)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-FPGA_Xilinx_Artix7-XC7A50T-CPG236
 - Hex ID: SZKFPGAXILINXARTIX7XC7A5TCPG236
 - Name: FPGA_Xilinx_Artix7 : XC7A50T-CPG236
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/FPGA_Xilinx_Artix7/XC7A50T-CPG236/
 - Description: FPGA_Xilinx_Artix7 : XC7A50T-CPG236
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-FPGA_Xilinx_Artix7-XC7A50T-CPG236](http://oom.lt/SYMBOL-kicad-kicad-symbols-FPGA_Xilinx_Artix7-XC7A50T-CPG236)
 - Short Link: [http://oom.lt/SZKFPGAXILINXARTIX7XC7A5TCPG236](http://oom.lt/SZKFPGAXILINXARTIX7XC7A5TCPG236)

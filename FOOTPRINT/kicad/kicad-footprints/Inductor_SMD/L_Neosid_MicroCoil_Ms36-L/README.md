@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Neosid_MicroCoil_Ms36-L
 - Hex ID: FZKINLNEOSIDMCOILMS36L
 - Name: Inductor_SMD : L_Neosid_MicroCoil_Ms36-L
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Neosid_MicroCoil_Ms36-L/
 - Description: Inductor_SMD : L_Neosid_MicroCoil_Ms36-L
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Neosid_MicroCoil_Ms36-L](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Neosid_MicroCoil_Ms36-L)
 - Short Link: [http://oom.lt/FZKINLNEOSIDMCOILMS36L](http://oom.lt/FZKINLNEOSIDMCOILMS36L)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-memory-idt-DIL20
 - Hex ID: FZEMEMORYIDTDIL2
 - Name: memory-idt : DIL20
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/memory-idt/DIL20/
 - Description: memory-idt : DIL20
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-memory-idt-DIL20](http://oom.lt/FOOTPRINT-eagle-eagle-default-memory-idt-DIL20)
 - Short Link: [http://oom.lt/FZEMEMORYIDTDIL2](http://oom.lt/FZEMEMORYIDTDIL2)

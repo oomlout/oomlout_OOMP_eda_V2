@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-dil-IC28P
 - Hex ID: FZECONDILIC28P
 - Name: con-dil : IC28P
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-dil/IC28P/
 - Description: con-dil : IC28P
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-dil-IC28P](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-dil-IC28P)
 - Short Link: [http://oom.lt/FZECONDILIC28P](http://oom.lt/FZECONDILIC28P)

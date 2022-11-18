@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Logic_LevelTranslator-TXS0102YZP
 - Hex ID: SZKLOGICLEVELTRANSLATORTXS12YZP
 - Name: Logic_LevelTranslator : TXS0102YZP
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Logic_LevelTranslator/TXS0102YZP/
 - Description: Logic_LevelTranslator : TXS0102YZP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Logic_LevelTranslator-TXS0102YZP](http://oom.lt/SYMBOL-kicad-kicad-symbols-Logic_LevelTranslator-TXS0102YZP)
 - Short Link: [http://oom.lt/SZKLOGICLEVELTRANSLATORTXS12YZP](http://oom.lt/SZKLOGICLEVELTRANSLATORTXS12YZP)

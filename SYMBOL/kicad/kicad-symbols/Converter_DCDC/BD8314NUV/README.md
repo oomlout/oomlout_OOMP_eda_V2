@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Converter_DCDC-BD8314NUV
 - Hex ID: SZKCONBD8314NUV
 - Name: Converter_DCDC : BD8314NUV
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Converter_DCDC/BD8314NUV/
 - Description: Converter_DCDC : BD8314NUV
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-BD8314NUV](http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-BD8314NUV)
 - Short Link: [http://oom.lt/SZKCONBD8314NUV](http://oom.lt/SZKCONBD8314NUV)

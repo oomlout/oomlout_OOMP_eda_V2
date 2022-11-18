@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-TPS51200DRC
 - Hex ID: SZKREGULATORLINEARTPS512DRC
 - Name: Regulator_Linear : TPS51200DRC
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/TPS51200DRC/
 - Description: Regulator_Linear : TPS51200DRC
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-TPS51200DRC](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-TPS51200DRC)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARTPS512DRC](http://oom.lt/SZKREGULATORLINEARTPS512DRC)

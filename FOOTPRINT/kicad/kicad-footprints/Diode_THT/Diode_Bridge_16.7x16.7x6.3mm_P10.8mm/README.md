@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Diode_THT-Diode_Bridge_16.7x16.7x6.3mm_P10.8mm
 - Hex ID: FZKDDIODEBRIDGE167X167X63P18
 - Name: Diode_THT : Diode_Bridge_16.7x16.7x6.3mm_P10.8mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Diode_THT/Diode_Bridge_16.7x16.7x6.3mm_P10.8mm/
 - Description: Diode_THT : Diode_Bridge_16.7x16.7x6.3mm_P10.8mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Diode_THT-Diode_Bridge_16.7x16.7x6.3mm_P10.8mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Diode_THT-Diode_Bridge_16.7x16.7x6.3mm_P10.8mm)
 - Short Link: [http://oom.lt/FZKDDIODEBRIDGE167X167X63P18](http://oom.lt/FZKDDIODEBRIDGE167X167X63P18)

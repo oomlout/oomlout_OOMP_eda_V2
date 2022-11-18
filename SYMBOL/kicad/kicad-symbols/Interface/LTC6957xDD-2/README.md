@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface-LTC6957xDD-2
 - Hex ID: SZKINTERFACELTC6957XDD2
 - Name: Interface : LTC6957xDD-2
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface/LTC6957xDD-2/
 - Description: Interface : LTC6957xDD-2
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-LTC6957xDD-2](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-LTC6957xDD-2)
 - Short Link: [http://oom.lt/SZKINTERFACELTC6957XDD2](http://oom.lt/SZKINTERFACELTC6957XDD2)

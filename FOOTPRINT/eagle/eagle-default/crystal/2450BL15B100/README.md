@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-crystal-2450BL15B100
 - Hex ID: FZEX245BL15B1
 - Name: crystal : 2450BL15B100
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/crystal/2450BL15B100/
 - Description: crystal : 2450BL15B100
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-crystal-2450BL15B100](http://oom.lt/FOOTPRINT-eagle-eagle-default-crystal-2450BL15B100)
 - Short Link: [http://oom.lt/FZEX245BL15B1](http://oom.lt/FZEX245BL15B1)

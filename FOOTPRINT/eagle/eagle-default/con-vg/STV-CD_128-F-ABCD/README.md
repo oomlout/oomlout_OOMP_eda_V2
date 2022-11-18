@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-vg-STV-CD_128-F-ABCD
 - Hex ID: FZECONVGSTVCD128FABCD
 - Name: con-vg : STV-CD_128-F-ABCD
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-vg/STV-CD_128-F-ABCD/
 - Description: con-vg : STV-CD_128-F-ABCD
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-vg-STV-CD_128-F-ABCD](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-vg-STV-CD_128-F-ABCD)
 - Short Link: [http://oom.lt/FZECONVGSTVCD128FABCD](http://oom.lt/FZECONVGSTVCD128FABCD)

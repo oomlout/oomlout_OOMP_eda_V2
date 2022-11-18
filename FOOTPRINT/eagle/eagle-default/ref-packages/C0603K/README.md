@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEREFPACKAGESC63K > ref-packages : C0603K](#fzerefpackagesc63k--ref-packages--c0603k)
+* [FZEREFPSC63K > ref-packages : C0603K](#fzerefpsc63k--ref-packages--c0603k)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEREFPACKAGESC63K > ref-packages : C0603K
+# FZEREFPSC63K > ref-packages : C0603K
 
 - ID: FOOTPRINT-eagle-eagle-default-ref-packages-C0603K
-- Hex ID: FZEREFPACKAGESC63K
+- Hex ID: FZEREFPSC63K
 - Name: ref-packages : C0603K
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ref-packages/C0603K/
 - Description: ref-packages : C0603K
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-C0603K](http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-C0603K)
-- Short Link: [http://oom.lt/FZEREFPACKAGESC63K](http://oom.lt/FZEREFPACKAGESC63K)
+- Short Link: [http://oom.lt/FZEREFPSC63K](http://oom.lt/FZEREFPSC63K)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|ref-packages|
 |OOMP Index|oompIndex|C0603K|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-ref-packages-C0603K|
-|Hex ID (short code)|hexID|FZEREFPACKAGESC63K|
+|Hex ID (short code)|hexID|FZEREFPSC63K|
 |name|name|ref-packages : C0603K|
 ||||

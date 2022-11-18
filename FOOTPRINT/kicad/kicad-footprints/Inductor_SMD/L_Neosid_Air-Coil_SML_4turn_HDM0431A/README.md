@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Neosid_Air-Coil_SML_4turn_HDM0431A
 - Hex ID: FZKINLNEOSIDAIRCOILSML4TURNHDM431A
 - Name: Inductor_SMD : L_Neosid_Air-Coil_SML_4turn_HDM0431A
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Neosid_Air-Coil_SML_4turn_HDM0431A/
 - Description: Inductor_SMD : L_Neosid_Air-Coil_SML_4turn_HDM0431A
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Neosid_Air-Coil_SML_4turn_HDM0431A](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Neosid_Air-Coil_SML_4turn_HDM0431A)
 - Short Link: [http://oom.lt/FZKINLNEOSIDAIRCOILSML4TURNHDM431A](http://oom.lt/FZKINLNEOSIDAIRCOILSML4TURNHDM431A)

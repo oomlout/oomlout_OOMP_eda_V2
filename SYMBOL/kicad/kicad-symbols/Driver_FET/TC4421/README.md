@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Driver_FET-TC4421
 - Hex ID: SZKDRIVERFETTC4421
 - Name: Driver_FET : TC4421
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Driver_FET/TC4421/
 - Description: Driver_FET : TC4421
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-TC4421](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-TC4421)
 - Short Link: [http://oom.lt/SZKDRIVERFETTC4421](http://oom.lt/SZKDRIVERFETTC4421)

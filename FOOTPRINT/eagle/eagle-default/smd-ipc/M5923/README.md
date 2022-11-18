@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-smd-ipc-M5923
 - Hex ID: FZESMIPCM5923
 - Name: smd-ipc : M5923
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/smd-ipc/M5923/
 - Description: smd-ipc : M5923
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-M5923](http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-M5923)
 - Short Link: [http://oom.lt/FZESMIPCM5923](http://oom.lt/FZESMIPCM5923)

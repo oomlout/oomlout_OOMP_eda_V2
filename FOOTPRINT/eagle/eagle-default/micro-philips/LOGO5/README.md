@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-micro-philips-LOGO5
 - Hex ID: FZEMPHILIPSL5
 - Name: micro-philips : LOGO5
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/micro-philips/LOGO5/
 - Description: micro-philips : LOGO5
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-philips-LOGO5](http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-philips-LOGO5)
 - Short Link: [http://oom.lt/FZEMPHILIPSL5](http://oom.lt/FZEMPHILIPSL5)

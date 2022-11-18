@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_ST_STM32L4-STM32L471RETx
 - Hex ID: SZKMCUSTSTM32L4STM32L471RETX
 - Name: MCU_ST_STM32L4 : STM32L471RETx
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32L4/STM32L471RETx/
 - Description: MCU_ST_STM32L4 : STM32L471RETx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32L4-STM32L471RETx](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32L4-STM32L471RETx)
 - Short Link: [http://oom.lt/SZKMCUSTSTM32L4STM32L471RETX](http://oom.lt/SZKMCUSTSTM32L4STM32L471RETX)

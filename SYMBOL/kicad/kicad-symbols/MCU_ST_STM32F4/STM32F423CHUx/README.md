@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F4-STM32F423CHUx
 - Hex ID: SZKMCUSTSTM32F4STM32F423CHUX
 - Name: MCU_ST_STM32F4 : STM32F423CHUx
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32F4/STM32F423CHUx/
 - Description: MCU_ST_STM32F4 : STM32F423CHUx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F4-STM32F423CHUx](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F4-STM32F423CHUx)
 - Short Link: [http://oom.lt/SZKMCUSTSTM32F4STM32F423CHUX](http://oom.lt/SZKMCUSTSTM32F4STM32F423CHUX)

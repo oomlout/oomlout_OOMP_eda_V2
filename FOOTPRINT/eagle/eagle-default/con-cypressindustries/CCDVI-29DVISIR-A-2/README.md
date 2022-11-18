@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-cypressindustries-CCDVI-29DVISIR-A-2
 - Hex ID: FZECONCYPRESSINDUSTRIESCCDVI29DVISIRA2
 - Name: con-cypressindustries : CCDVI-29DVISIR-A-2
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-cypressindustries/CCDVI-29DVISIR-A-2/
 - Description: con-cypressindustries : CCDVI-29DVISIR-A-2
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-cypressindustries-CCDVI-29DVISIR-A-2](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-cypressindustries-CCDVI-29DVISIR-A-2)
 - Short Link: [http://oom.lt/FZECONCYPRESSINDUSTRIESCCDVI29DVISIRA2](http://oom.lt/FZECONCYPRESSINDUSTRIESCCDVI29DVISIRA2)

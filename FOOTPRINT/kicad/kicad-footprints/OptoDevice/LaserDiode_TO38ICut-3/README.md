@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-OptoDevice-LaserDiode_TO38ICut-3
 - Hex ID: FZKOPLASERDIODETO38ICUT3
 - Name: OptoDevice : LaserDiode_TO38ICut-3
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/OptoDevice/LaserDiode_TO38ICut-3/
 - Description: OptoDevice : LaserDiode_TO38ICut-3
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-OptoDevice-LaserDiode_TO38ICut-3](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-OptoDevice-LaserDiode_TO38ICut-3)
 - Short Link: [http://oom.lt/FZKOPLASERDIODETO38ICUT3](http://oom.lt/FZKOPLASERDIODETO38ICUT3)

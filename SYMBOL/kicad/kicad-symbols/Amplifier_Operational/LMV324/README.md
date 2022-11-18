@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LMV324
 - Hex ID: SZKAMPLIFIEROPERATIONALLMV324
 - Name: Amplifier_Operational : LMV324
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/LMV324/
 - Description: Amplifier_Operational : LMV324
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LMV324](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LMV324)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALLMV324](http://oom.lt/SZKAMPLIFIEROPERATIONALLMV324)

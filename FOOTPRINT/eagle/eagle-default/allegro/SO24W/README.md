@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-allegro-SO24W
 - Hex ID: FZEALLEGROSO24W
 - Name: allegro : SO24W
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/allegro/SO24W/
 - Description: allegro : SO24W
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-allegro-SO24W](http://oom.lt/FOOTPRINT-eagle-eagle-default-allegro-SO24W)
 - Short Link: [http://oom.lt/FZEALLEGROSO24W](http://oom.lt/FZEALLEGROSO24W)

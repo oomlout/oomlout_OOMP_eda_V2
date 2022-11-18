@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Analog_ADC-MCP3550-50-EMS
 - Hex ID: SZKANALOGADCMCP3555EMS
 - Name: Analog_ADC : MCP3550-50-EMS
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog_ADC/MCP3550-50-EMS/
 - Description: Analog_ADC : MCP3550-50-EMS
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-MCP3550-50-EMS](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-MCP3550-50-EMS)
 - Short Link: [http://oom.lt/SZKANALOGADCMCP3555EMS](http://oom.lt/SZKANALOGADCMCP3555EMS)

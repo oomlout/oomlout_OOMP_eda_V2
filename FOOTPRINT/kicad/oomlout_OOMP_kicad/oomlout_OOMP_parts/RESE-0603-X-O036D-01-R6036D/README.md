@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O036D-01-R6036D
 - Hex ID: FZOOMPKOOMPPRESE63XO36D1R636D
 - Name: oomlout_OOMP_parts : RESE-0603-X-O036D-01-R6036D
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/RESE-0603-X-O036D-01-R6036D/
 - Description: oomlout_OOMP_parts : RESE-0603-X-O036D-01-R6036D
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O036D-01-R6036D](http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O036D-01-R6036D)
 - Short Link: [http://oom.lt/FZOOMPKOOMPPRESE63XO36D1R636D](http://oom.lt/FZOOMPKOOMPPRESE63XO36D1R636D)

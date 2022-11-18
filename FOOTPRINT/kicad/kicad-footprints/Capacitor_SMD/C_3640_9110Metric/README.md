@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_3640_9110Metric
 - Hex ID: FZKCC364911VA
 - Name: Capacitor_SMD : C_3640_9110Metric
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Capacitor_SMD/C_3640_9110Metric/
 - Description: Capacitor_SMD : C_3640_9110Metric
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_3640_9110Metric](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_3640_9110Metric)
 - Short Link: [http://oom.lt/FZKCC364911VA](http://oom.lt/FZKCC364911VA)

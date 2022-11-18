@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-User-Submitted-LED-DUALCOLOR-3MM
 - Hex ID: FZSULDUALCOLOR3
 - Name: User-Submitted : LED-DUALCOLOR-3MM
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/User-Submitted/LED-DUALCOLOR-3MM/
 - Description: User-Submitted : LED-DUALCOLOR-3MM
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-User-Submitted-LED-DUALCOLOR-3MM](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-User-Submitted-LED-DUALCOLOR-3MM)
 - Short Link: [http://oom.lt/FZSULDUALCOLOR3](http://oom.lt/FZSULDUALCOLOR3)

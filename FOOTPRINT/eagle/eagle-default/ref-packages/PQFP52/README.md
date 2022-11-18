@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEREFPACKAGESPQFP52 > ref-packages : PQFP52](#fzerefpackagespqfp52--ref-packages--pqfp52)
+* [FZEREFPSPQFP52 > ref-packages : PQFP52](#fzerefpspqfp52--ref-packages--pqfp52)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEREFPACKAGESPQFP52 > ref-packages : PQFP52
+# FZEREFPSPQFP52 > ref-packages : PQFP52
 
 - ID: FOOTPRINT-eagle-eagle-default-ref-packages-PQFP52
-- Hex ID: FZEREFPACKAGESPQFP52
+- Hex ID: FZEREFPSPQFP52
 - Name: ref-packages : PQFP52
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ref-packages/PQFP52/
 - Description: ref-packages : PQFP52
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-PQFP52](http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-PQFP52)
-- Short Link: [http://oom.lt/FZEREFPACKAGESPQFP52](http://oom.lt/FZEREFPACKAGESPQFP52)
+- Short Link: [http://oom.lt/FZEREFPSPQFP52](http://oom.lt/FZEREFPSPQFP52)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|ref-packages|
 |OOMP Index|oompIndex|PQFP52|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-ref-packages-PQFP52|
-|Hex ID (short code)|hexID|FZEREFPACKAGESPQFP52|
+|Hex ID (short code)|hexID|FZEREFPSPQFP52|
 |name|name|ref-packages : PQFP52|
 ||||

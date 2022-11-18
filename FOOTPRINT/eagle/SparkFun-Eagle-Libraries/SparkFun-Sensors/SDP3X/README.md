@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-SDP3X
 - Hex ID: FZSSPARKFUNSENSSDP3X
 - Name: SparkFun-Sensors : SDP3X
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Sensors/SDP3X/
 - Description: SparkFun-Sensors : SDP3X
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-SDP3X](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-SDP3X)
 - Short Link: [http://oom.lt/FZSSPARKFUNSENSSDP3X](http://oom.lt/FZSSPARKFUNSENSSDP3X)

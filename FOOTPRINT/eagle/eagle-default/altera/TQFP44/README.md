@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-altera-TQFP44
 - Hex ID: FZEALTERATQFP44
 - Name: altera : TQFP44
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/altera/TQFP44/
 - Description: altera : TQFP44
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-altera-TQFP44](http://oom.lt/FOOTPRINT-eagle-eagle-default-altera-TQFP44)
 - Short Link: [http://oom.lt/FZEALTERATQFP44](http://oom.lt/FZEALTERATQFP44)

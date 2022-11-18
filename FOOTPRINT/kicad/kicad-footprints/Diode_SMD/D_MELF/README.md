@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_MELF
 - Hex ID: FZKDDMELF
 - Name: Diode_SMD : D_MELF
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Diode_SMD/D_MELF/
 - Description: Diode_SMD : D_MELF
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_MELF](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_MELF)
 - Short Link: [http://oom.lt/FZKDDMELF](http://oom.lt/FZKDDMELF)

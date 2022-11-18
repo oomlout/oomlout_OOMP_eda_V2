@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-MBR0580
 - Hex ID: SZKDIODEMBR58
 - Name: Diode : MBR0580
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/MBR0580/
 - Description: Diode : MBR0580
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-MBR0580](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-MBR0580)
 - Short Link: [http://oom.lt/SZKDIODEMBR58](http://oom.lt/SZKDIODEMBR58)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-XC6220B331MR
 - Hex ID: SZKREGULATORLINEARXC622B331MR
 - Name: Regulator_Linear : XC6220B331MR
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/XC6220B331MR/
 - Description: Regulator_Linear : XC6220B331MR
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-XC6220B331MR](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-XC6220B331MR)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARXC622B331MR](http://oom.lt/SZKREGULATORLINEARXC622B331MR)

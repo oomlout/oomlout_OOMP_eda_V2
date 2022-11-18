@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O471-01-R6O471
 - Hex ID: FZOOMPKOOMPPRESE63XO4711R6O471
 - Name: oomlout_OOMP_parts : RESE-0603-X-O471-01-R6O471
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/RESE-0603-X-O471-01-R6O471/
 - Description: oomlout_OOMP_parts : RESE-0603-X-O471-01-R6O471
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O471-01-R6O471](http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O471-01-R6O471)
 - Short Link: [http://oom.lt/FZOOMPKOOMPPRESE63XO4711R6O471](http://oom.lt/FZOOMPKOOMPPRESE63XO4711R6O471)

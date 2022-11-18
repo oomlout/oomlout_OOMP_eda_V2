@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-143R
 - Hex ID: FZKSOTSOT143R
 - Name: Package_TO_SOT_SMD : SOT-143R
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/SOT-143R/
 - Description: Package_TO_SOT_SMD : SOT-143R
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-143R](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-143R)
 - Short Link: [http://oom.lt/FZKSOTSOT143R](http://oom.lt/FZKSOTSOT143R)

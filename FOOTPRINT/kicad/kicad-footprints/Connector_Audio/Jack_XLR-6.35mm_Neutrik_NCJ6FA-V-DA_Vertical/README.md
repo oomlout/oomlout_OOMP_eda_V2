@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_Audio-Jack_XLR-6.35mm_Neutrik_NCJ6FA-V-DA_Vertical
 - Hex ID: FZKCNAUDIOJXLR635NEUTRIKNCJ6FAVDAF
 - Name: Connector_Audio : Jack_XLR-6.35mm_Neutrik_NCJ6FA-V-DA_Vertical
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Audio/Jack_XLR-6.35mm_Neutrik_NCJ6FA-V-DA_Vertical/
 - Description: Connector_Audio : Jack_XLR-6.35mm_Neutrik_NCJ6FA-V-DA_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Audio-Jack_XLR-6.35mm_Neutrik_NCJ6FA-V-DA_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Audio-Jack_XLR-6.35mm_Neutrik_NCJ6FA-V-DA_Vertical)
 - Short Link: [http://oom.lt/FZKCNAUDIOJXLR635NEUTRIKNCJ6FAVDAF](http://oom.lt/FZKCNAUDIOJXLR635NEUTRIKNCJ6FAVDAF)

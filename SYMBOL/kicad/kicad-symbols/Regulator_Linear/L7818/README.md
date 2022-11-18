@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-L7818
 - Hex ID: SZKREGULATORLINEARL7818
 - Name: Regulator_Linear : L7818
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/L7818/
 - Description: Regulator_Linear : L7818
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-L7818](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-L7818)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARL7818](http://oom.lt/SZKREGULATORLINEARL7818)

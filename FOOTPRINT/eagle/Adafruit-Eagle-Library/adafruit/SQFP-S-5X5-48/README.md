@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-SQFP-S-5X5-48
 - Hex ID: FZASQFPS5X548
 - Name: adafruit : SQFP-S-5X5-48
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/SQFP-S-5X5-48/
 - Description: adafruit : SQFP-S-5X5-48
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-SQFP-S-5X5-48](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-SQFP-S-5X5-48)
 - Short Link: [http://oom.lt/FZASQFPS5X548](http://oom.lt/FZASQFPS5X548)

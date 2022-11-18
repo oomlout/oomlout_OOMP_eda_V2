@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-User-Submitted-HMC1051Z3
 - Hex ID: FZSUHMC151Z3
 - Name: User-Submitted : HMC1051Z3
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/User-Submitted/HMC1051Z3/
 - Description: User-Submitted : HMC1051Z3
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-User-Submitted-HMC1051Z3](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-User-Submitted-HMC1051Z3)
 - Short Link: [http://oom.lt/FZSUHMC151Z3](http://oom.lt/FZSUHMC151Z3)

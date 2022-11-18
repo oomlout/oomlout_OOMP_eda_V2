@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Buzzard-LED_32
 - Hex ID: FZSBUL32
 - Name: SparkFun-Buzzard : LED_32
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Buzzard/LED_32/
 - Description: SparkFun-Buzzard : LED_32
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Buzzard-LED_32](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Buzzard-LED_32)
 - Short Link: [http://oom.lt/FZSBUL32](http://oom.lt/FZSBUL32)

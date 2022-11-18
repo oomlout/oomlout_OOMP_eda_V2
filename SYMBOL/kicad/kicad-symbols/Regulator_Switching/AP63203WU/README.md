@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-AP63203WU
 - Hex ID: SZKREGULATORSWINGAP6323WU
 - Name: Regulator_Switching : AP63203WU
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/AP63203WU/
 - Description: Regulator_Switching : AP63203WU
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-AP63203WU](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-AP63203WU)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGAP6323WU](http://oom.lt/SZKREGULATORSWINGAP6323WU)

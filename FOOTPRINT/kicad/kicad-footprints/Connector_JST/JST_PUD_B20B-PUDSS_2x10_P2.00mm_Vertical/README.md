@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_PUD_B20B-PUDSS_2x10_P2.00mm_Vertical
 - Hex ID: FZKCNJSTJSTPUDB2BPUDSS2X1P2F
 - Name: Connector_JST : JST_PUD_B20B-PUDSS_2x10_P2.00mm_Vertical
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_PUD_B20B-PUDSS_2x10_P2.00mm_Vertical/
 - Description: Connector_JST : JST_PUD_B20B-PUDSS_2x10_P2.00mm_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_PUD_B20B-PUDSS_2x10_P2.00mm_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_PUD_B20B-PUDSS_2x10_P2.00mm_Vertical)
 - Short Link: [http://oom.lt/FZKCNJSTJSTPUDB2BPUDSS2X1P2F](http://oom.lt/FZKCNJSTJSTPUDB2BPUDSS2X1P2F)

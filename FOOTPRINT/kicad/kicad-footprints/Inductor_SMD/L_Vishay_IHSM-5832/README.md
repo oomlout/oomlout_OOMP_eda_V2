@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Vishay_IHSM-5832
 - Hex ID: FZKINLVISHAYIHSM5832
 - Name: Inductor_SMD : L_Vishay_IHSM-5832
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Vishay_IHSM-5832/
 - Description: Inductor_SMD : L_Vishay_IHSM-5832
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Vishay_IHSM-5832](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Vishay_IHSM-5832)
 - Short Link: [http://oom.lt/FZKINLVISHAYIHSM5832](http://oom.lt/FZKINLVISHAYIHSM5832)

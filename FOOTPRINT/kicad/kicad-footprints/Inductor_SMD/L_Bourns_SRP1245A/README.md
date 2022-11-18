@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Bourns_SRP1245A
 - Hex ID: FZKINLBOURNSSRP1245A
 - Name: Inductor_SMD : L_Bourns_SRP1245A
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Bourns_SRP1245A/
 - Description: Inductor_SMD : L_Bourns_SRP1245A
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Bourns_SRP1245A](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Bourns_SRP1245A)
 - Short Link: [http://oom.lt/FZKINLBOURNSSRP1245A](http://oom.lt/FZKINLBOURNSSRP1245A)

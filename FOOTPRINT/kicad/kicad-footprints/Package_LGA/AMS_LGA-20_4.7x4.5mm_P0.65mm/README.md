@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_LGA-AMS_LGA-20_4.7x4.5mm_P0.65mm
 - Hex ID: FZKLGAAMSLGA247X45P65
 - Name: Package_LGA : AMS_LGA-20_4.7x4.5mm_P0.65mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_LGA/AMS_LGA-20_4.7x4.5mm_P0.65mm/
 - Description: Package_LGA : AMS_LGA-20_4.7x4.5mm_P0.65mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_LGA-AMS_LGA-20_4.7x4.5mm_P0.65mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_LGA-AMS_LGA-20_4.7x4.5mm_P0.65mm)
 - Short Link: [http://oom.lt/FZKLGAAMSLGA247X45P65](http://oom.lt/FZKLGAAMSLGA247X45P65)

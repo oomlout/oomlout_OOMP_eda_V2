@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-micro-motorola-LQFP160
 - Hex ID: FZEMMOTOROLALQFP16
 - Name: micro-motorola : LQFP160
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/micro-motorola/LQFP160/
 - Description: micro-motorola : LQFP160
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-motorola-LQFP160](http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-motorola-LQFP160)
 - Short Link: [http://oom.lt/FZEMMOTOROLALQFP16](http://oom.lt/FZEMMOTOROLALQFP16)

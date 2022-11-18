@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-CP_Elec_18x17.5
 - Hex ID: FZKCCPELEC18X175
 - Name: Capacitor_SMD : CP_Elec_18x17.5
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Capacitor_SMD/CP_Elec_18x17.5/
 - Description: Capacitor_SMD : CP_Elec_18x17.5
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-CP_Elec_18x17.5](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-CP_Elec_18x17.5)
 - Short Link: [http://oom.lt/FZKCCPELEC18X175](http://oom.lt/FZKCCPELEC18X175)

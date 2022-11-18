@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Connector-RJ9
 - Hex ID: SZKCNRJ9
 - Name: Connector : RJ9
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector/RJ9/
 - Description: Connector : RJ9
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-RJ9](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-RJ9)
 - Short Link: [http://oom.lt/SZKCNRJ9](http://oom.lt/SZKCNRJ9)

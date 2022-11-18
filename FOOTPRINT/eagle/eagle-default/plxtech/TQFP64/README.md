@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-plxtech-TQFP64
 - Hex ID: FZEPLXTECHTQFP64
 - Name: plxtech : TQFP64
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/plxtech/TQFP64/
 - Description: plxtech : TQFP64
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-plxtech-TQFP64](http://oom.lt/FOOTPRINT-eagle-eagle-default-plxtech-TQFP64)
 - Short Link: [http://oom.lt/FZEPLXTECHTQFP64](http://oom.lt/FZEPLXTECHTQFP64)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-74xx-us-SO28W
 - Hex ID: FZE74XXUSSO28W
 - Name: 74xx-us : SO28W
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/74xx-us/SO28W/
 - Description: 74xx-us : SO28W
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-74xx-us-SO28W](http://oom.lt/FOOTPRINT-eagle-eagle-default-74xx-us-SO28W)
 - Short Link: [http://oom.lt/FZE74XXUSSO28W](http://oom.lt/FZE74XXUSSO28W)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-IQD-Frequency-Products-CS-09-9
 - Hex ID: FZEIQDFREQUENCYPRODUCTSCS99
 - Name: IQD-Frequency-Products : CS-09-9
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/IQD-Frequency-Products/CS-09-9/
 - Description: IQD-Frequency-Products : CS-09-9
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-IQD-Frequency-Products-CS-09-9](http://oom.lt/FOOTPRINT-eagle-eagle-default-IQD-Frequency-Products-CS-09-9)
 - Short Link: [http://oom.lt/FZEIQDFREQUENCYPRODUCTSCS99](http://oom.lt/FZEIQDFREQUENCYPRODUCTSCS99)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-MINI_MELF-0204R
 - Hex ID: FZA24R
 - Name: adafruit : MINI_MELF-0204R
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/MINI_MELF-0204R/
 - Description: adafruit : MINI_MELF-0204R
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-MINI_MELF-0204R](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-MINI_MELF-0204R)
 - Short Link: [http://oom.lt/FZA24R](http://oom.lt/FZA24R)

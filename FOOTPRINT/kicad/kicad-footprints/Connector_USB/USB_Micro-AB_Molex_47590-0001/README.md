@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_Micro-AB_Molex_47590-0001
 - Hex ID: FZKCNUUMABMX47591
 - Name: Connector_USB : USB_Micro-AB_Molex_47590-0001
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB_Micro-AB_Molex_47590-0001/
 - Description: Connector_USB : USB_Micro-AB_Molex_47590-0001
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_Micro-AB_Molex_47590-0001](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_Micro-AB_Molex_47590-0001)
 - Short Link: [http://oom.lt/FZKCNUUMABMX47591](http://oom.lt/FZKCNUUMABMX47591)

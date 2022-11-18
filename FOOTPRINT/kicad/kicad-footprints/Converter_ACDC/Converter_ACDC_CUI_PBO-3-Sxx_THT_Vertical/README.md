@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Converter_ACDC-Converter_ACDC_CUI_PBO-3-Sxx_THT_Vertical
 - Hex ID: FZKCONCONCUIPBO3SXXTHTF
 - Name: Converter_ACDC : Converter_ACDC_CUI_PBO-3-Sxx_THT_Vertical
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Converter_ACDC/Converter_ACDC_CUI_PBO-3-Sxx_THT_Vertical/
 - Description: Converter_ACDC : Converter_ACDC_CUI_PBO-3-Sxx_THT_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Converter_ACDC-Converter_ACDC_CUI_PBO-3-Sxx_THT_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Converter_ACDC-Converter_ACDC_CUI_PBO-3-Sxx_THT_Vertical)
 - Short Link: [http://oom.lt/FZKCONCONCUIPBO3SXXTHTF](http://oom.lt/FZKCONCONCUIPBO3SXXTHTF)

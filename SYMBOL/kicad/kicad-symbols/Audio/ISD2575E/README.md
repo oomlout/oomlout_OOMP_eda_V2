@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Audio-ISD2575E
 - Hex ID: SZKAUDIOISD2575E
 - Name: Audio : ISD2575E
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Audio/ISD2575E/
 - Description: Audio : ISD2575E
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Audio-ISD2575E](http://oom.lt/SYMBOL-kicad-kicad-symbols-Audio-ISD2575E)
 - Short Link: [http://oom.lt/SZKAUDIOISD2575E](http://oom.lt/SZKAUDIOISD2575E)

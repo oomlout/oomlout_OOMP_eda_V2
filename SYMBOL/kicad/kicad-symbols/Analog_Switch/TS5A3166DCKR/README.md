@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Analog_Switch-TS5A3166DCKR
 - Hex ID: SZKANALOGSWTS5A3166DCKR
 - Name: Analog_Switch : TS5A3166DCKR
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog_Switch/TS5A3166DCKR/
 - Description: Analog_Switch : TS5A3166DCKR
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_Switch-TS5A3166DCKR](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_Switch-TS5A3166DCKR)
 - Short Link: [http://oom.lt/SZKANALOGSWTS5A3166DCKR](http://oom.lt/SZKANALOGSWTS5A3166DCKR)

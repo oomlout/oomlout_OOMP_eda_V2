@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Capacitor_THT-CP_Radial_Tantal_D6.0mm_P5.00mm
 - Hex ID: FZKCCPRTANTALD6P5
 - Name: Capacitor_THT : CP_Radial_Tantal_D6.0mm_P5.00mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Capacitor_THT/CP_Radial_Tantal_D6.0mm_P5.00mm/
 - Description: Capacitor_THT : CP_Radial_Tantal_D6.0mm_P5.00mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_THT-CP_Radial_Tantal_D6.0mm_P5.00mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_THT-CP_Radial_Tantal_D6.0mm_P5.00mm)
 - Short Link: [http://oom.lt/FZKCCPRTANTALD6P5](http://oom.lt/FZKCCPRTANTALD6P5)

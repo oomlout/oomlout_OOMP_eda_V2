@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-memory-idt-BGA260
 - Hex ID: FZEMEMORYIDTBGA26
 - Name: memory-idt : BGA260
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/memory-idt/BGA260/
 - Description: memory-idt : BGA260
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-memory-idt-BGA260](http://oom.lt/FOOTPRINT-eagle-eagle-default-memory-idt-BGA260)
 - Short Link: [http://oom.lt/FZEMEMORYIDTBGA26](http://oom.lt/FZEMEMORYIDTBGA26)

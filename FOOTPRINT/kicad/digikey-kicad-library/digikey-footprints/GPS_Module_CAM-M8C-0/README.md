@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-GPS_Module_CAM-M8C-0
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSGPSMOCAMM8C
 - Name: digikey-footprints : GPS_Module_CAM-M8C-0
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/GPS_Module_CAM-M8C-0/
 - Description: digikey-footprints : GPS_Module_CAM-M8C-0
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-GPS_Module_CAM-M8C-0](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-GPS_Module_CAM-M8C-0)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSGPSMOCAMM8C](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSGPSMOCAMM8C)

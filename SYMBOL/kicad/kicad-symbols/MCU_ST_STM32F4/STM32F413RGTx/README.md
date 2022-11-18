@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F4-STM32F413RGTx
 - Hex ID: SZKMCUSTSTM32F4STM32F413RGTX
 - Name: MCU_ST_STM32F4 : STM32F413RGTx
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32F4/STM32F413RGTx/
 - Description: MCU_ST_STM32F4 : STM32F413RGTx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F4-STM32F413RGTx](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F4-STM32F413RGTx)
 - Short Link: [http://oom.lt/SZKMCUSTSTM32F4STM32F413RGTX](http://oom.lt/SZKMCUSTSTM32F4STM32F413RGTX)

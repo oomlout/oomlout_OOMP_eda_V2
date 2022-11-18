@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Power_Protection-PRTR5V0U2X
 - Hex ID: SZKPOWERPROTECTIONPRTR5VU2X
 - Name: Power_Protection : PRTR5V0U2X
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Power_Protection/PRTR5V0U2X/
 - Description: Power_Protection : PRTR5V0U2X
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Protection-PRTR5V0U2X](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Protection-PRTR5V0U2X)
 - Short Link: [http://oom.lt/SZKPOWERPROTECTIONPRTR5VU2X](http://oom.lt/SZKPOWERPROTECTIONPRTR5VU2X)

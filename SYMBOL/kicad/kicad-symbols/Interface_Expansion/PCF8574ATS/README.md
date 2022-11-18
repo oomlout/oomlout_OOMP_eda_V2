@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_Expansion-PCF8574ATS
 - Hex ID: SZKINTERFACEEXPANSIONPCF8574ATS
 - Name: Interface_Expansion : PCF8574ATS
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_Expansion/PCF8574ATS/
 - Description: Interface_Expansion : PCF8574ATS
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Expansion-PCF8574ATS](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Expansion-PCF8574ATS)
 - Short Link: [http://oom.lt/SZKINTERFACEEXPANSIONPCF8574ATS](http://oom.lt/SZKINTERFACEEXPANSIONPCF8574ATS)

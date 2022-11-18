@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_Nano-Fit_105313-xx08_1x08_P2.50mm_Horizontal
 - Hex ID: FZKCNMXMXNANOFIT15313XX81X8P25H
 - Name: Connector_Molex : Molex_Nano-Fit_105313-xx08_1x08_P2.50mm_Horizontal
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_Nano-Fit_105313-xx08_1x08_P2.50mm_Horizontal/
 - Description: Connector_Molex : Molex_Nano-Fit_105313-xx08_1x08_P2.50mm_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_Nano-Fit_105313-xx08_1x08_P2.50mm_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_Nano-Fit_105313-xx08_1x08_P2.50mm_Horizontal)
 - Short Link: [http://oom.lt/FZKCNMXMXNANOFIT15313XX81X8P25H](http://oom.lt/FZKCNMXMXNANOFIT15313XX81X8P25H)

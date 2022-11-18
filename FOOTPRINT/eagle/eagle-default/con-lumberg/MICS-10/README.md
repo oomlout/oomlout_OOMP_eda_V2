@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-lumberg-MICS-10
 - Hex ID: FZECONLUMBERGMICS1
 - Name: con-lumberg : MICS-10
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-lumberg/MICS-10/
 - Description: con-lumberg : MICS-10
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-lumberg-MICS-10](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-lumberg-MICS-10)
 - Short Link: [http://oom.lt/FZECONLUMBERGMICS1](http://oom.lt/FZECONLUMBERGMICS1)

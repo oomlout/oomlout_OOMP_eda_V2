@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-BUTA-06-X-SMDS-01-B06S
 - Hex ID: SZOOMPKOOMPPBUTA6XSMS1B6S
 - Name: oomlout_OOMP_parts : BUTA-06-X-SMDS-01-B06S
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/BUTA-06-X-SMDS-01-B06S/
 - Description: oomlout_OOMP_parts : BUTA-06-X-SMDS-01-B06S
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-BUTA-06-X-SMDS-01-B06S](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-BUTA-06-X-SMDS-01-B06S)
 - Short Link: [http://oom.lt/SZOOMPKOOMPPBUTA6XSMS1B6S](http://oom.lt/SZOOMPKOOMPPBUTA6XSMS1B6S)

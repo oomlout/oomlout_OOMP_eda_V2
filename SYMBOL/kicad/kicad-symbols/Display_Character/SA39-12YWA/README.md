@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Display_Character-SA39-12YWA
 - Hex ID: SZKDICHARACTERSA3912YWA
 - Name: Display_Character : SA39-12YWA
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Display_Character/SA39-12YWA/
 - Description: Display_Character : SA39-12YWA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-SA39-12YWA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-SA39-12YWA)
 - Short Link: [http://oom.lt/SZKDICHARACTERSA3912YWA](http://oom.lt/SZKDICHARACTERSA3912YWA)

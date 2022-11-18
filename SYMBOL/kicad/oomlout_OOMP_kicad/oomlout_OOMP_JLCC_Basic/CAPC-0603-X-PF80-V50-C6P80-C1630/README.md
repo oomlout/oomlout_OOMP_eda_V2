@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0603-X-PF80-V50-C6P80-C1630
 - Hex ID: SZOOMPKJLCCAPC63XPF8V5C6P8C163
 - Name: oomlout_OOMP_JLCC_Basic : CAPC-0603-X-PF80-V50-C6P80-C1630
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_JLCC_Basic/CAPC-0603-X-PF80-V50-C6P80-C1630/
 - Description: oomlout_OOMP_JLCC_Basic : CAPC-0603-X-PF80-V50-C6P80-C1630
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0603-X-PF80-V50-C6P80-C1630](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0603-X-PF80-V50-C6P80-C1630)
 - Short Link: [http://oom.lt/SZOOMPKJLCCAPC63XPF8V5C6P8C163](http://oom.lt/SZOOMPKJLCCAPC63XPF8V5C6P8C163)

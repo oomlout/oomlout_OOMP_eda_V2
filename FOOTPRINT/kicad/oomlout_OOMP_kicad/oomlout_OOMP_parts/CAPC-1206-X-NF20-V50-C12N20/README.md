@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-1206-X-NF20-V50-C12N20
 - Hex ID: FZOOMPKOOMPPCAPC126XNF2V5C12N2
 - Name: oomlout_OOMP_parts : CAPC-1206-X-NF20-V50-C12N20
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/CAPC-1206-X-NF20-V50-C12N20/
 - Description: oomlout_OOMP_parts : CAPC-1206-X-NF20-V50-C12N20
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-1206-X-NF20-V50-C12N20](http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-1206-X-NF20-V50-C12N20)
 - Short Link: [http://oom.lt/FZOOMPKOOMPPCAPC126XNF2V5C12N2](http://oom.lt/FZOOMPKOOMPPCAPC126XNF2V5C12N2)

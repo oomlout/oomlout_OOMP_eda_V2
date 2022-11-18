@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-JSTSH-X-PI08-SM-HSH8
 - Hex ID: FZOOMPKOOMPPHEADJSTSHXPI8SMHSH8
 - Name: oomlout_OOMP_parts : HEAD-JSTSH-X-PI08-SM-HSH8
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/HEAD-JSTSH-X-PI08-SM-HSH8/
 - Description: oomlout_OOMP_parts : HEAD-JSTSH-X-PI08-SM-HSH8
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-JSTSH-X-PI08-SM-HSH8](http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-JSTSH-X-PI08-SM-HSH8)
 - Short Link: [http://oom.lt/FZOOMPKOOMPPHEADJSTSHXPI8SMHSH8](http://oom.lt/FZOOMPKOOMPPHEADJSTSHXPI8SMHSH8)

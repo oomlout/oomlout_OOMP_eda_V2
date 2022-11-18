@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Clocks-OSCILLATOR-SMD-5X3.2
 - Hex ID: FZSCLOCSSM5X32
 - Name: SparkFun-Clocks : OSCILLATOR-SMD-5X3.2
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Clocks/OSCILLATOR-SMD-5X3.2/
 - Description: SparkFun-Clocks : OSCILLATOR-SMD-5X3.2
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Clocks-OSCILLATOR-SMD-5X3.2](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Clocks-OSCILLATOR-SMD-5X3.2)
 - Short Link: [http://oom.lt/FZSCLOCSSM5X32](http://oom.lt/FZSCLOCSSM5X32)

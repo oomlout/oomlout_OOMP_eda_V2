@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_Micro-Latch_53254-1570_1x15_P2.00mm_Horizontal
 - Hex ID: FZKCNMXMXMLATCH532541571X15P2H
 - Name: Connector_Molex : Molex_Micro-Latch_53254-1570_1x15_P2.00mm_Horizontal
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_Micro-Latch_53254-1570_1x15_P2.00mm_Horizontal/
 - Description: Connector_Molex : Molex_Micro-Latch_53254-1570_1x15_P2.00mm_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_Micro-Latch_53254-1570_1x15_P2.00mm_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_Micro-Latch_53254-1570_1x15_P2.00mm_Horizontal)
 - Short Link: [http://oom.lt/FZKCNMXMXMLATCH532541571X15P2H](http://oom.lt/FZKCNMXMXMLATCH532541571X15P2H)

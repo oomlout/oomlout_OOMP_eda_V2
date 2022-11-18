@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_SO-SSOP-48_7.5x15.9mm_P0.635mm
 - Hex ID: FZKSOSS4875X159P635
 - Name: Package_SO : SSOP-48_7.5x15.9mm_P0.635mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SO/SSOP-48_7.5x15.9mm_P0.635mm/
 - Description: Package_SO : SSOP-48_7.5x15.9mm_P0.635mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SO-SSOP-48_7.5x15.9mm_P0.635mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SO-SSOP-48_7.5x15.9mm_P0.635mm)
 - Short Link: [http://oom.lt/FZKSOSS4875X159P635](http://oom.lt/FZKSOSS4875X159P635)

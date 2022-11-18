@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Transformer_THT-Transformer_EPCOS_B66359A1013T_Horizontal
 - Hex ID: FZKTRTREPCOSB66359A113TH
 - Name: Transformer_THT : Transformer_EPCOS_B66359A1013T_Horizontal
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Transformer_THT/Transformer_EPCOS_B66359A1013T_Horizontal/
 - Description: Transformer_THT : Transformer_EPCOS_B66359A1013T_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Transformer_THT-Transformer_EPCOS_B66359A1013T_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Transformer_THT-Transformer_EPCOS_B66359A1013T_Horizontal)
 - Short Link: [http://oom.lt/FZKTRTREPCOSB66359A113TH](http://oom.lt/FZKTRTREPCOSB66359A113TH)

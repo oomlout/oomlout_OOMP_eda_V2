@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-transistor-power-MICRO3
 - Hex ID: FZETRANSISTORPOWERM3
 - Name: transistor-power : MICRO3
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/transistor-power/MICRO3/
 - Description: transistor-power : MICRO3
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-power-MICRO3](http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-power-MICRO3)
 - Short Link: [http://oom.lt/FZETRANSISTORPOWERM3](http://oom.lt/FZETRANSISTORPOWERM3)

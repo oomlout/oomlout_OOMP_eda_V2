@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-resistor-shunt-PMD
 - Hex ID: FZERESISTORSHUNTPMD
 - Name: resistor-shunt : PMD
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/resistor-shunt/PMD/
 - Description: resistor-shunt : PMD
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-resistor-shunt-PMD](http://oom.lt/FOOTPRINT-eagle-eagle-default-resistor-shunt-PMD)
 - Short Link: [http://oom.lt/FZERESISTORSHUNTPMD](http://oom.lt/FZERESISTORSHUNTPMD)

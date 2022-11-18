@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-4xxx_IEEE-4556
 - Hex ID: SZK4XXXIEEE4556
 - Name: 4xxx_IEEE : 4556
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/4xxx_IEEE/4556/
 - Description: 4xxx_IEEE : 4556
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-4xxx_IEEE-4556](http://oom.lt/SYMBOL-kicad-kicad-symbols-4xxx_IEEE-4556)
 - Short Link: [http://oom.lt/SZK4XXXIEEE4556](http://oom.lt/SZK4XXXIEEE4556)

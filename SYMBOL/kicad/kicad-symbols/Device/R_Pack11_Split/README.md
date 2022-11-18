@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Device-R_Pack11_Split
 - Hex ID: SZKDEVICERPACK11SPLIT
 - Name: Device : R_Pack11_Split
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/R_Pack11_Split/
 - Description: Device : R_Pack11_Split
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-R_Pack11_Split](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-R_Pack11_Split)
 - Short Link: [http://oom.lt/SZKDEVICERPACK11SPLIT](http://oom.lt/SZKDEVICERPACK11SPLIT)

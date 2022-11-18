@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_Dialight_591
 - Hex ID: FZKLLDIALIGHT591
 - Name: LED_SMD : LED_Dialight_591
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_Dialight_591/
 - Description: LED_SMD : LED_Dialight_591
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_Dialight_591](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_Dialight_591)
 - Short Link: [http://oom.lt/FZKLLDIALIGHT591](http://oom.lt/FZKLLDIALIGHT591)

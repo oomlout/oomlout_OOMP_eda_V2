@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Module-Arduino_Nano
 - Hex ID: FZKMOARDNANO
 - Name: Module : Arduino_Nano
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Module/Arduino_Nano/
 - Description: Module : Arduino_Nano
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Module-Arduino_Nano](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Module-Arduino_Nano)
 - Short Link: [http://oom.lt/FZKMOARDNANO](http://oom.lt/FZKMOARDNANO)

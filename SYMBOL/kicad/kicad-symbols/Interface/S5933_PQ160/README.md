@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface-S5933_PQ160
 - Hex ID: SZKINTERFACES5933PQ16
 - Name: Interface : S5933_PQ160
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface/S5933_PQ160/
 - Description: Interface : S5933_PQ160
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-S5933_PQ160](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-S5933_PQ160)
 - Short Link: [http://oom.lt/SZKINTERFACES5933PQ16](http://oom.lt/SZKINTERFACES5933PQ16)

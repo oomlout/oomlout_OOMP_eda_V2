@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_HC35-U
 - Hex ID: FZKXXHC35U
 - Name: Crystal : Crystal_HC35-U
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_HC35-U/
 - Description: Crystal : Crystal_HC35-U
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_HC35-U](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_HC35-U)
 - Short Link: [http://oom.lt/FZKXXHC35U](http://oom.lt/FZKXXHC35U)

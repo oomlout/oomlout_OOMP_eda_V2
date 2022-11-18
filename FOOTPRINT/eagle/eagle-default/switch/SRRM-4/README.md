@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-switch-SRRM-4
 - Hex ID: FZESWSRRM4
 - Name: switch : SRRM-4
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/switch/SRRM-4/
 - Description: switch : SRRM-4
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-SRRM-4](http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-SRRM-4)
 - Short Link: [http://oom.lt/FZESWSRRM4](http://oom.lt/FZESWSRRM4)

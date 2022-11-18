@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Diode_THT-D_DO-201AE_P3.81mm_Vertical_KathodeUp
 - Hex ID: FZKDDDO21AEP381FKATHODEUP
 - Name: Diode_THT : D_DO-201AE_P3.81mm_Vertical_KathodeUp
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Diode_THT/D_DO-201AE_P3.81mm_Vertical_KathodeUp/
 - Description: Diode_THT : D_DO-201AE_P3.81mm_Vertical_KathodeUp
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Diode_THT-D_DO-201AE_P3.81mm_Vertical_KathodeUp](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Diode_THT-D_DO-201AE_P3.81mm_Vertical_KathodeUp)
 - Short Link: [http://oom.lt/FZKDDDO21AEP381FKATHODEUP](http://oom.lt/FZKDDDO21AEP381FKATHODEUP)

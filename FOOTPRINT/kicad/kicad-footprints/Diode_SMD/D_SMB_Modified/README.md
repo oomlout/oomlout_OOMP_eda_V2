@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_SMB_Modified
 - Hex ID: FZKDDSMBMODIFIED
 - Name: Diode_SMD : D_SMB_Modified
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Diode_SMD/D_SMB_Modified/
 - Description: Diode_SMD : D_SMB_Modified
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_SMB_Modified](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_SMB_Modified)
 - Short Link: [http://oom.lt/FZKDDSMBMODIFIED](http://oom.lt/FZKDDSMBMODIFIED)

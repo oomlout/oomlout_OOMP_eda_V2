@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_Samtec_HLE_THT-Samtec_HLE-112-02-xx-DV-PE-LC_2x12_P2.54mm_Horizontal
 - Hex ID: FZKCNSAMTECHLETHTSAMTECHLE1122XXDVPELC2X12P254H
 - Name: Connector_Samtec_HLE_THT : Samtec_HLE-112-02-xx-DV-PE-LC_2x12_P2.54mm_Horizontal
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Samtec_HLE_THT/Samtec_HLE-112-02-xx-DV-PE-LC_2x12_P2.54mm_Horizontal/
 - Description: Connector_Samtec_HLE_THT : Samtec_HLE-112-02-xx-DV-PE-LC_2x12_P2.54mm_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Samtec_HLE_THT-Samtec_HLE-112-02-xx-DV-PE-LC_2x12_P2.54mm_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Samtec_HLE_THT-Samtec_HLE-112-02-xx-DV-PE-LC_2x12_P2.54mm_Horizontal)
 - Short Link: [http://oom.lt/FZKCNSAMTECHLETHTSAMTECHLE1122XXDVPELC2X12P254H](http://oom.lt/FZKCNSAMTECHLETHTSAMTECHLE1122XXDVPELC2X12P254H)

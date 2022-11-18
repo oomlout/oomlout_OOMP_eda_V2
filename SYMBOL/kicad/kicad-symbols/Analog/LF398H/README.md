@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Analog-LF398H
 - Hex ID: SZKANALOGLF398H
 - Name: Analog : LF398H
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog/LF398H/
 - Description: Analog : LF398H
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog-LF398H](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog-LF398H)
 - Short Link: [http://oom.lt/SZKANALOGLF398H](http://oom.lt/SZKANALOGLF398H)

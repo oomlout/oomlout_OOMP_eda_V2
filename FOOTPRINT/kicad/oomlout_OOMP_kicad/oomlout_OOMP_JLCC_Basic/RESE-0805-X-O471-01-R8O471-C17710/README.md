@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-RESE-0805-X-O471-01-R8O471-C17710
 - Hex ID: FZOOMPKJLCRESE85XO4711R8O471C1771
 - Name: oomlout_OOMP_JLCC_Basic : RESE-0805-X-O471-01-R8O471-C17710
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_JLCC_Basic/RESE-0805-X-O471-01-R8O471-C17710/
 - Description: oomlout_OOMP_JLCC_Basic : RESE-0805-X-O471-01-R8O471-C17710
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-RESE-0805-X-O471-01-R8O471-C17710](http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-RESE-0805-X-O471-01-R8O471-C17710)
 - Short Link: [http://oom.lt/FZOOMPKJLCRESE85XO4711R8O471C1771](http://oom.lt/FZOOMPKJLCRESE85XO4711R8O471C1771)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Switches-TACTILE_SWITCH_LED_PTH_12MM_KIT
 - Hex ID: FZSWTSWLP12K
 - Name: SparkFun-Switches : TACTILE_SWITCH_LED_PTH_12MM_KIT
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Switches/TACTILE_SWITCH_LED_PTH_12MM_KIT/
 - Description: SparkFun-Switches : TACTILE_SWITCH_LED_PTH_12MM_KIT
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Switches-TACTILE_SWITCH_LED_PTH_12MM_KIT](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Switches-TACTILE_SWITCH_LED_PTH_12MM_KIT)
 - Short Link: [http://oom.lt/FZSWTSWLP12K](http://oom.lt/FZSWTSWLP12K)

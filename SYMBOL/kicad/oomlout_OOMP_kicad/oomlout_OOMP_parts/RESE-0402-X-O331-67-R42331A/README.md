@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0402-X-O331-67-R42331A
 - Hex ID: SZOOMPKOOMPPRESE42XO33167R42331A
 - Name: oomlout_OOMP_parts : RESE-0402-X-O331-67-R42331A
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/RESE-0402-X-O331-67-R42331A/
 - Description: oomlout_OOMP_parts : RESE-0402-X-O331-67-R42331A
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0402-X-O331-67-R42331A](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0402-X-O331-67-R42331A)
 - Short Link: [http://oom.lt/SZOOMPKOOMPPRESE42XO33167R42331A](http://oom.lt/SZOOMPKOOMPPRESE42XO33167R42331A)

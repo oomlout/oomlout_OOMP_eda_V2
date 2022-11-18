@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-sullinselectronics-050_610_HF-35_70
 - Hex ID: FZECONSULLINSELECTRONICS561HF357
 - Name: con-sullinselectronics : 050_610_HF-35_70
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-sullinselectronics/050_610_HF-35_70/
 - Description: con-sullinselectronics : 050_610_HF-35_70
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-sullinselectronics-050_610_HF-35_70](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-sullinselectronics-050_610_HF-35_70)
 - Short Link: [http://oom.lt/FZECONSULLINSELECTRONICS561HF357](http://oom.lt/FZECONSULLINSELECTRONICS561HF357)

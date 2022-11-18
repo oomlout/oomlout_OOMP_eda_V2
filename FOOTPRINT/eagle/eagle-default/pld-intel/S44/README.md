@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-pld-intel-S44
 - Hex ID: FZEPLDINTELS44
 - Name: pld-intel : S44
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/pld-intel/S44/
 - Description: pld-intel : S44
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-pld-intel-S44](http://oom.lt/FOOTPRINT-eagle-eagle-default-pld-intel-S44)
 - Short Link: [http://oom.lt/FZEPLDINTELS44](http://oom.lt/FZEPLDINTELS44)

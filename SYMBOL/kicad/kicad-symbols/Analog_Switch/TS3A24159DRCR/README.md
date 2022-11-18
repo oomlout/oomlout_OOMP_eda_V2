@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Analog_Switch-TS3A24159DRCR
 - Hex ID: SZKANALOGSWTS3A24159DRCR
 - Name: Analog_Switch : TS3A24159DRCR
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog_Switch/TS3A24159DRCR/
 - Description: Analog_Switch : TS3A24159DRCR
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_Switch-TS3A24159DRCR](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_Switch-TS3A24159DRCR)
 - Short Link: [http://oom.lt/SZKANALOGSWTS3A24159DRCR](http://oom.lt/SZKANALOGSWTS3A24159DRCR)

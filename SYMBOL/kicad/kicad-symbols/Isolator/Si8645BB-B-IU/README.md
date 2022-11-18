@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Isolator-Si8645BB-B-IU
 - Hex ID: SZKISOLATORSI8645BBBIU
 - Name: Isolator : Si8645BB-B-IU
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Isolator/Si8645BB-B-IU/
 - Description: Isolator : Si8645BB-B-IU
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-Si8645BB-B-IU](http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-Si8645BB-B-IU)
 - Short Link: [http://oom.lt/SZKISOLATORSI8645BBBIU](http://oom.lt/SZKISOLATORSI8645BBBIU)

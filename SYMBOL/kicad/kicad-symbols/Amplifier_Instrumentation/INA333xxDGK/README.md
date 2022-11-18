@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Instrumentation-INA333xxDGK
 - Hex ID: SZKAMPLIFIERINSTRUMENTATIONINA333XXDGK
 - Name: Amplifier_Instrumentation : INA333xxDGK
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Instrumentation/INA333xxDGK/
 - Description: Amplifier_Instrumentation : INA333xxDGK
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Instrumentation-INA333xxDGK](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Instrumentation-INA333xxDGK)
 - Short Link: [http://oom.lt/SZKAMPLIFIERINSTRUMENTATIONINA333XXDGK](http://oom.lt/SZKAMPLIFIERINSTRUMENTATIONINA333XXDGK)

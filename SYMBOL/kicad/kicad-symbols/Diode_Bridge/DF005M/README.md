@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode_Bridge-DF005M
 - Hex ID: SZKDIODEBRIDGEDF5M
 - Name: Diode_Bridge : DF005M
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode_Bridge/DF005M/
 - Description: Diode_Bridge : DF005M
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode_Bridge-DF005M](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode_Bridge-DF005M)
 - Short Link: [http://oom.lt/SZKDIODEBRIDGEDF5M](http://oom.lt/SZKDIODEBRIDGEDF5M)

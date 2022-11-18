@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-pspice-MPMOS
 - Hex ID: SZKPSPICEMPMOS
 - Name: pspice : MPMOS
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/pspice/MPMOS/
 - Description: pspice : MPMOS
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-pspice-MPMOS](http://oom.lt/SYMBOL-kicad-kicad-symbols-pspice-MPMOS)
 - Short Link: [http://oom.lt/SZKPSPICEMPMOS](http://oom.lt/SZKPSPICEMPMOS)

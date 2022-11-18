@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-relay-RM-6
 - Hex ID: FZERELAYRM6
 - Name: relay : RM-6
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/relay/RM-6/
 - Description: relay : RM-6
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-RM-6](http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-RM-6)
 - Short Link: [http://oom.lt/FZERELAYRM6](http://oom.lt/FZERELAYRM6)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0805-X-O302-67-R85302A
 - Hex ID: FZOOMPKOOMPPRESE85XO3267R8532A
 - Name: oomlout_OOMP_parts : RESE-0805-X-O302-67-R85302A
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/RESE-0805-X-O302-67-R85302A/
 - Description: oomlout_OOMP_parts : RESE-0805-X-O302-67-R85302A
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0805-X-O302-67-R85302A](http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0805-X-O302-67-R85302A)
 - Short Link: [http://oom.lt/FZOOMPKOOMPPRESE85XO3267R8532A](http://oom.lt/FZOOMPKOOMPPRESE85XO3267R8532A)

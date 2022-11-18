@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-linx-TRM-XXX-LT
 - Hex ID: FZELINXTRMXXXLT
 - Name: linx : TRM-XXX-LT
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/linx/TRM-XXX-LT/
 - Description: linx : TRM-XXX-LT
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-linx-TRM-XXX-LT](http://oom.lt/FOOTPRINT-eagle-eagle-default-linx-TRM-XXX-LT)
 - Short Link: [http://oom.lt/FZELINXTRMXXXLT](http://oom.lt/FZELINXTRMXXXLT)

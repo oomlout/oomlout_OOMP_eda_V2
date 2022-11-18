@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-samtec-TSW-117-XX-G-S
 - Hex ID: FZECONSAMTECTSW117XXGS
 - Name: con-samtec : TSW-117-XX-G-S
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-samtec/TSW-117-XX-G-S/
 - Description: con-samtec : TSW-117-XX-G-S
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-samtec-TSW-117-XX-G-S](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-samtec-TSW-117-XX-G-S)
 - Short Link: [http://oom.lt/FZECONSAMTECTSW117XXGS](http://oom.lt/FZECONSAMTECTSW117XXGS)

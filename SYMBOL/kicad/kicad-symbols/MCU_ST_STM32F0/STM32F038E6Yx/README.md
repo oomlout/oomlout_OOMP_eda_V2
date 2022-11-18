@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F0-STM32F038E6Yx
 - Hex ID: SZKMCUSTSTM32FSTM32F38E6YX
 - Name: MCU_ST_STM32F0 : STM32F038E6Yx
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32F0/STM32F038E6Yx/
 - Description: MCU_ST_STM32F0 : STM32F038E6Yx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F0-STM32F038E6Yx](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F0-STM32F038E6Yx)
 - Short Link: [http://oom.lt/SZKMCUSTSTM32FSTM32F38E6YX](http://oom.lt/SZKMCUSTSTM32FSTM32F38E6YX)

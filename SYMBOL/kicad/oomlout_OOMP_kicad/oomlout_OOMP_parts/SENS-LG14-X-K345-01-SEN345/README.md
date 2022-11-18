@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-SENS-LG14-X-K345-01-SEN345
 - Hex ID: SZOOMPKOOMPPSENSLG14XK3451SEN345
 - Name: oomlout_OOMP_parts : SENS-LG14-X-K345-01-SEN345
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/SENS-LG14-X-K345-01-SEN345/
 - Description: oomlout_OOMP_parts : SENS-LG14-X-K345-01-SEN345
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-SENS-LG14-X-K345-01-SEN345](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-SENS-LG14-X-K345-01-SEN345)
 - Short Link: [http://oom.lt/SZOOMPKOOMPPSENSLG14XK3451SEN345](http://oom.lt/SZOOMPKOOMPPSENSLG14XK3451SEN345)

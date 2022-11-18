@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_HDMI-HDMI_A_Molex_208658-1001_Horizontal
 - Hex ID: FZKCNHDMIHDMIAMX2865811H
 - Name: Connector_HDMI : HDMI_A_Molex_208658-1001_Horizontal
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_HDMI/HDMI_A_Molex_208658-1001_Horizontal/
 - Description: Connector_HDMI : HDMI_A_Molex_208658-1001_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_HDMI-HDMI_A_Molex_208658-1001_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_HDMI-HDMI_A_Molex_208658-1001_Horizontal)
 - Short Link: [http://oom.lt/FZKCNHDMIHDMIAMX2865811H](http://oom.lt/FZKCNHDMIHDMIAMX2865811H)

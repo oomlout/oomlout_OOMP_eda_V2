@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_AVR-AT90USB1286-M
 - Hex ID: SZKMCUMCHIPAVRAT9U1286M
 - Name: MCU_Microchip_AVR : AT90USB1286-M
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_AVR/AT90USB1286-M/
 - Description: MCU_Microchip_AVR : AT90USB1286-M
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_AVR-AT90USB1286-M](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_AVR-AT90USB1286-M)
 - Short Link: [http://oom.lt/SZKMCUMCHIPAVRAT9U1286M](http://oom.lt/SZKMCUMCHIPAVRAT9U1286M)

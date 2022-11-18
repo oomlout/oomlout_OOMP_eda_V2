@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-TC33X
 - Hex ID: FZATC33X
 - Name: adafruit : TC33X
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/TC33X/
 - Description: adafruit : TC33X
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-TC33X](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-TC33X)
 - Short Link: [http://oom.lt/FZATC33X](http://oom.lt/FZATC33X)

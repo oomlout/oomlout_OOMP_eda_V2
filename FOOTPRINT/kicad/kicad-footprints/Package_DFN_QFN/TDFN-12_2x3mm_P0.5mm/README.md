@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-TDFN-12_2x3mm_P0.5mm
 - Hex ID: FZKDFNTDFN122X3P5
 - Name: Package_DFN_QFN : TDFN-12_2x3mm_P0.5mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/TDFN-12_2x3mm_P0.5mm/
 - Description: Package_DFN_QFN : TDFN-12_2x3mm_P0.5mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-TDFN-12_2x3mm_P0.5mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-TDFN-12_2x3mm_P0.5mm)
 - Short Link: [http://oom.lt/FZKDFNTDFN122X3P5](http://oom.lt/FZKDFNTDFN122X3P5)

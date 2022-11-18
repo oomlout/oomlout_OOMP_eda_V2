@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKSZSYHIGHVOLTAGETYPE1CTOPSLL > Symbol : Symbol_Highvoltage_Type1_CopperTop_Small](#fzkszsyhighvoltagetype1ctopsll--symbol--symbol_highvoltage_type1_coppertop_small)
+* [FZKSZSYHIGHVOLTAGET1CTOPSLL > Symbol : Symbol_Highvoltage_Type1_CopperTop_Small](#fzkszsyhighvoltaget1ctopsll--symbol--symbol_highvoltage_type1_coppertop_small)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKSZSYHIGHVOLTAGETYPE1CTOPSLL > Symbol : Symbol_Highvoltage_Type1_CopperTop_Small
+# FZKSZSYHIGHVOLTAGET1CTOPSLL > Symbol : Symbol_Highvoltage_Type1_CopperTop_Small
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Symbol-Symbol_Highvoltage_Type1_CopperTop_Small
-- Hex ID: FZKSZSYHIGHVOLTAGETYPE1CTOPSLL
+- Hex ID: FZKSZSYHIGHVOLTAGET1CTOPSLL
 - Name: Symbol : Symbol_Highvoltage_Type1_CopperTop_Small
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Symbol/Symbol_Highvoltage_Type1_CopperTop_Small/
 - Description: Symbol : Symbol_Highvoltage_Type1_CopperTop_Small
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Symbol-Symbol_Highvoltage_Type1_CopperTop_Small](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Symbol-Symbol_Highvoltage_Type1_CopperTop_Small)
-- Short Link: [http://oom.lt/FZKSZSYHIGHVOLTAGETYPE1CTOPSLL](http://oom.lt/FZKSZSYHIGHVOLTAGETYPE1CTOPSLL)
+- Short Link: [http://oom.lt/FZKSZSYHIGHVOLTAGET1CTOPSLL](http://oom.lt/FZKSZSYHIGHVOLTAGET1CTOPSLL)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Symbol|
 |OOMP Index|oompIndex|Symbol_Highvoltage_Type1_CopperTop_Small|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Symbol-Symbol_Highvoltage_Type1_CopperTop_Small|
-|Hex ID (short code)|hexID|FZKSZSYHIGHVOLTAGETYPE1CTOPSLL|
+|Hex ID (short code)|hexID|FZKSZSYHIGHVOLTAGET1CTOPSLL|
 |name|name|Symbol : Symbol_Highvoltage_Type1_CopperTop_Small|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Symbol_Highvoltage_Type1_CopperTop_Small'</td><td> 'description'</td></tr><tr><td> 'Symbol</td><td> Highvoltage</td><td> Type 1</td><td> Copper Top</td><td> Small</td><td>'</td><td> 'tags'</td></tr><tr><td> 'Symbol</td><td> Highvoltage</td><td> Type 1</td><td> Copper Top</td><td> Small</td><td>'</td><td> 'attributeType'</td></tr><tr><td> None</td><td> 'pins'</td></tr><tr><td> <table><tr><td></td></tr></table></td></tr></table>|
 ||||

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_Micro-B_Amphenol_10104110_Horizontal
 - Hex ID: FZKCNUUMBAMPHENOL11411H
 - Name: Connector_USB : USB_Micro-B_Amphenol_10104110_Horizontal
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB_Micro-B_Amphenol_10104110_Horizontal/
 - Description: Connector_USB : USB_Micro-B_Amphenol_10104110_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_Micro-B_Amphenol_10104110_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_Micro-B_Amphenol_10104110_Horizontal)
 - Short Link: [http://oom.lt/FZKCNUUMBAMPHENOL11411H](http://oom.lt/FZKCNUUMBAMPHENOL11411H)

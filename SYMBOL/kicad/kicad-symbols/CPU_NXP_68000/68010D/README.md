@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-CPU_NXP_68000-68010D
 - Hex ID: SZKCPUNXP68681D
 - Name: CPU_NXP_68000 : 68010D
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/CPU_NXP_68000/68010D/
 - Description: CPU_NXP_68000 : 68010D
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-CPU_NXP_68000-68010D](http://oom.lt/SYMBOL-kicad-kicad-symbols-CPU_NXP_68000-68010D)
 - Short Link: [http://oom.lt/SZKCPUNXP68681D](http://oom.lt/SZKCPUNXP68681D)

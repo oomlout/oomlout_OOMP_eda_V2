@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-opto-honeywell-UTPFTTP4
 - Hex ID: FZEOPTOHONEYWELLUTPFTTP4
 - Name: opto-honeywell : UTPFTTP4
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/opto-honeywell/UTPFTTP4/
 - Description: opto-honeywell : UTPFTTP4
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-opto-honeywell-UTPFTTP4](http://oom.lt/FOOTPRINT-eagle-eagle-default-opto-honeywell-UTPFTTP4)
 - Short Link: [http://oom.lt/FZEOPTOHONEYWELLUTPFTTP4](http://oom.lt/FZEOPTOHONEYWELLUTPFTTP4)

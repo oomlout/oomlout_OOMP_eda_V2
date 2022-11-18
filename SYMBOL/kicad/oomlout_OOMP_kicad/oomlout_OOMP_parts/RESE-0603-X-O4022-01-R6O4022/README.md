@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O4022-01-R6O4022
 - Hex ID: SZOOMPKOOMPPRESE63XO4221R6O422
 - Name: oomlout_OOMP_parts : RESE-0603-X-O4022-01-R6O4022
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/RESE-0603-X-O4022-01-R6O4022/
 - Description: oomlout_OOMP_parts : RESE-0603-X-O4022-01-R6O4022
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O4022-01-R6O4022](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O4022-01-R6O4022)
 - Short Link: [http://oom.lt/SZOOMPKOOMPPRESE63XO4221R6O422](http://oom.lt/SZOOMPKOOMPPRESE63XO4221R6O422)

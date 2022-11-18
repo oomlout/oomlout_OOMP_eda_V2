@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-SOT143
 - Hex ID: FZSRTSOT143
 - Name: SparkFun-Retired : SOT143
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Retired/SOT143/
 - Description: SparkFun-Retired : SOT143
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-SOT143](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-SOT143)
 - Short Link: [http://oom.lt/FZSRTSOT143](http://oom.lt/FZSRTSOT143)

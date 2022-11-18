@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-HTSSOP32DAP
 - Hex ID: FZAHTSS32DAP
 - Name: adafruit : HTSSOP32DAP
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/HTSSOP32DAP/
 - Description: adafruit : HTSSOP32DAP
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-HTSSOP32DAP](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-HTSSOP32DAP)
 - Short Link: [http://oom.lt/FZAHTSS32DAP](http://oom.lt/FZAHTSS32DAP)

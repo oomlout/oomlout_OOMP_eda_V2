@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Neosid_Air-Coil_SML_6turn_HAM0631A
 - Hex ID: FZKINLNEOSIDAIRCOILSML6TURNHAM631A
 - Name: Inductor_SMD : L_Neosid_Air-Coil_SML_6turn_HAM0631A
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Neosid_Air-Coil_SML_6turn_HAM0631A/
 - Description: Inductor_SMD : L_Neosid_Air-Coil_SML_6turn_HAM0631A
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Neosid_Air-Coil_SML_6turn_HAM0631A](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Neosid_Air-Coil_SML_6turn_HAM0631A)
 - Short Link: [http://oom.lt/FZKINLNEOSIDAIRCOILSML6TURNHAM631A](http://oom.lt/FZKINLNEOSIDAIRCOILSML6TURNHAM631A)

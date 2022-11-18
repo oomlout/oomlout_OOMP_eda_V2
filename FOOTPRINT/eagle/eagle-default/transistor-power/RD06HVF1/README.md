@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-transistor-power-RD06HVF1
 - Hex ID: FZETRANSISTORPOWERRD6HVF1
 - Name: transistor-power : RD06HVF1
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/transistor-power/RD06HVF1/
 - Description: transistor-power : RD06HVF1
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-power-RD06HVF1](http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-power-RD06HVF1)
 - Short Link: [http://oom.lt/FZETRANSISTORPOWERRD6HVF1](http://oom.lt/FZETRANSISTORPOWERRD6HVF1)

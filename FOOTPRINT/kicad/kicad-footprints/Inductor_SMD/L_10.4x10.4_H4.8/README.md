@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_10.4x10.4_H4.8
 - Hex ID: FZKINL14X14H48
 - Name: Inductor_SMD : L_10.4x10.4_H4.8
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_10.4x10.4_H4.8/
 - Description: Inductor_SMD : L_10.4x10.4_H4.8
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_10.4x10.4_H4.8](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_10.4x10.4_H4.8)
 - Short Link: [http://oom.lt/FZKINL14X14H48](http://oom.lt/FZKINL14X14H48)

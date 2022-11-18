@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-LSSOP-24_W5.6mm
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSLSS24W56
 - Name: digikey-footprints : LSSOP-24_W5.6mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/LSSOP-24_W5.6mm/
 - Description: digikey-footprints : LSSOP-24_W5.6mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-LSSOP-24_W5.6mm](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-LSSOP-24_W5.6mm)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSLSS24W56](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSLSS24W56)

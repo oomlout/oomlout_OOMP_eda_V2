@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-MCP6022
 - Hex ID: SZKAMPLIFIEROPERATIONALMCP622
 - Name: Amplifier_Operational : MCP6022
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/MCP6022/
 - Description: Amplifier_Operational : MCP6022
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-MCP6022](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-MCP6022)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALMCP622](http://oom.lt/SZKAMPLIFIEROPERATIONALMCP622)

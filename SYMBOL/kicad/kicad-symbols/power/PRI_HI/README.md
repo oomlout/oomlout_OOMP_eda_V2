@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-power-PRI_HI
 - Hex ID: SZKPOWERPRIHI
 - Name: power : PRI_HI
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/power/PRI_HI/
 - Description: power : PRI_HI
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-power-PRI_HI](http://oom.lt/SYMBOL-kicad-kicad-symbols-power-PRI_HI)
 - Short Link: [http://oom.lt/SZKPOWERPRIHI](http://oom.lt/SZKPOWERPRIHI)

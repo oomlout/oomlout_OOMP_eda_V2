@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEREFPACKAGESLONGPADTO247BH > ref-packages-longpad : TO247BH](#fzerefpackageslongpadto247bh--ref-packages-longpad--to247bh)
+* [FZEREFPSLPTO247BH > ref-packages-longpad : TO247BH](#fzerefpslpto247bh--ref-packages-longpad--to247bh)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEREFPACKAGESLONGPADTO247BH > ref-packages-longpad : TO247BH
+# FZEREFPSLPTO247BH > ref-packages-longpad : TO247BH
 
 - ID: FOOTPRINT-eagle-eagle-default-ref-packages-longpad-TO247BH
-- Hex ID: FZEREFPACKAGESLONGPADTO247BH
+- Hex ID: FZEREFPSLPTO247BH
 - Name: ref-packages-longpad : TO247BH
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ref-packages-longpad/TO247BH/
 - Description: ref-packages-longpad : TO247BH
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-longpad-TO247BH](http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-longpad-TO247BH)
-- Short Link: [http://oom.lt/FZEREFPACKAGESLONGPADTO247BH](http://oom.lt/FZEREFPACKAGESLONGPADTO247BH)
+- Short Link: [http://oom.lt/FZEREFPSLPTO247BH](http://oom.lt/FZEREFPSLPTO247BH)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|ref-packages-longpad|
 |OOMP Index|oompIndex|TO247BH|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-ref-packages-longpad-TO247BH|
-|Hex ID (short code)|hexID|FZEREFPACKAGESLONGPADTO247BH|
+|Hex ID (short code)|hexID|FZEREFPSLPTO247BH|
 |name|name|ref-packages-longpad : TO247BH|
 ||||

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-OPLGA-6_VEML6070
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSOPLGA6VEML67
 - Name: digikey-footprints : OPLGA-6_VEML6070
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/OPLGA-6_VEML6070/
 - Description: digikey-footprints : OPLGA-6_VEML6070
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-OPLGA-6_VEML6070](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-OPLGA-6_VEML6070)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSOPLGA6VEML67](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSOPLGA6VEML67)

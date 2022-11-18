@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZDIGIDIGIKEYFOOTPRINTSPROBEPAD126 > digikey-footprints : PROBE_PAD_1206](#fzdigidigikeyfootprintsprobepad126--digikey-footprints--probe_pad_1206)
+* [FZDIGIDIGIKEYFOOTPRINTSPROBEP126 > digikey-footprints : PROBE_PAD_1206](#fzdigidigikeyfootprintsprobep126--digikey-footprints--probe_pad_1206)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZDIGIDIGIKEYFOOTPRINTSPROBEPAD126 > digikey-footprints : PROBE_PAD_1206
+# FZDIGIDIGIKEYFOOTPRINTSPROBEP126 > digikey-footprints : PROBE_PAD_1206
 
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-PROBE_PAD_1206
-- Hex ID: FZDIGIDIGIKEYFOOTPRINTSPROBEPAD126
+- Hex ID: FZDIGIDIGIKEYFOOTPRINTSPROBEP126
 - Name: digikey-footprints : PROBE_PAD_1206
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/PROBE_PAD_1206/
 - Description: digikey-footprints : PROBE_PAD_1206
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-PROBE_PAD_1206](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-PROBE_PAD_1206)
-- Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSPROBEPAD126](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSPROBEPAD126)
+- Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSPROBEP126](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSPROBEP126)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|digikey-footprints|
 |OOMP Index|oompIndex|PROBE_PAD_1206|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-PROBE_PAD_1206|
-|Hex ID (short code)|hexID|FZDIGIDIGIKEYFOOTPRINTSPROBEPAD126|
+|Hex ID (short code)|hexID|FZDIGIDIGIKEYFOOTPRINTSPROBEP126|
 |name|name|digikey-footprints : PROBE_PAD_1206|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'PROBE_PAD_1206'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

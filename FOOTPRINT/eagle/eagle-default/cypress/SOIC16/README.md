@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-cypress-SOIC16
 - Hex ID: FZECYPRESSSOIC16
 - Name: cypress : SOIC16
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/cypress/SOIC16/
 - Description: cypress : SOIC16
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-cypress-SOIC16](http://oom.lt/FOOTPRINT-eagle-eagle-default-cypress-SOIC16)
 - Short Link: [http://oom.lt/FZECYPRESSSOIC16](http://oom.lt/FZECYPRESSSOIC16)

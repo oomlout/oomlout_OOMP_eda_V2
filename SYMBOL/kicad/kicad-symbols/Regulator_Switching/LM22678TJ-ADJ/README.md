@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-LM22678TJ-ADJ
 - Hex ID: SZKREGULATORSWINGLM22678TJADJ
 - Name: Regulator_Switching : LM22678TJ-ADJ
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/LM22678TJ-ADJ/
 - Description: Regulator_Switching : LM22678TJ-ADJ
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LM22678TJ-ADJ](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LM22678TJ-ADJ)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGLM22678TJADJ](http://oom.lt/SZKREGULATORSWINGLM22678TJADJ)

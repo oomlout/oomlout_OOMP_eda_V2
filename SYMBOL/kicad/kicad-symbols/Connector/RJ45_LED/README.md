@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Connector-RJ45_LED
 - Hex ID: SZKCNRJ45L
 - Name: Connector : RJ45_LED
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector/RJ45_LED/
 - Description: Connector : RJ45_LED
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-RJ45_LED](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-RJ45_LED)
 - Short Link: [http://oom.lt/SZKCNRJ45L](http://oom.lt/SZKCNRJ45L)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface-MC100EPT22DT
 - Hex ID: SZKINTERFACEMC1EPT22DT
 - Name: Interface : MC100EPT22DT
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface/MC100EPT22DT/
 - Description: Interface : MC100EPT22DT
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-MC100EPT22DT](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-MC100EPT22DT)
 - Short Link: [http://oom.lt/SZKINTERFACEMC1EPT22DT](http://oom.lt/SZKINTERFACEMC1EPT22DT)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Symbol-KiCad-Logo2_12mm_SilkScreen
 - Hex ID: FZKSZKICADL212SILKSCREEN
 - Name: Symbol : KiCad-Logo2_12mm_SilkScreen
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Symbol/KiCad-Logo2_12mm_SilkScreen/
 - Description: Symbol : KiCad-Logo2_12mm_SilkScreen
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Symbol-KiCad-Logo2_12mm_SilkScreen](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Symbol-KiCad-Logo2_12mm_SilkScreen)
 - Short Link: [http://oom.lt/FZKSZKICADL212SILKSCREEN](http://oom.lt/FZKSZKICADL212SILKSCREEN)

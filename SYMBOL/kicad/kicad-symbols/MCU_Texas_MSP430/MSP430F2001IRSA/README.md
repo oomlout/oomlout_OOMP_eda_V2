@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Texas_MSP430-MSP430F2001IRSA
 - Hex ID: SZKMCUTEXASMSP43MSP43F21IRSA
 - Name: MCU_Texas_MSP430 : MSP430F2001IRSA
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Texas_MSP430/MSP430F2001IRSA/
 - Description: MCU_Texas_MSP430 : MSP430F2001IRSA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Texas_MSP430-MSP430F2001IRSA](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Texas_MSP430-MSP430F2001IRSA)
 - Short Link: [http://oom.lt/SZKMCUTEXASMSP43MSP43F21IRSA](http://oom.lt/SZKMCUTEXASMSP43MSP43F21IRSA)

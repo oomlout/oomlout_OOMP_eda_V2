@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_KK-254_AE-6410-06A_1x06_P2.54mm_Vertical
 - Hex ID: FZKCNMXMXKK254AE6416A1X6P254F
 - Name: Connector_Molex : Molex_KK-254_AE-6410-06A_1x06_P2.54mm_Vertical
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_KK-254_AE-6410-06A_1x06_P2.54mm_Vertical/
 - Description: Connector_Molex : Molex_KK-254_AE-6410-06A_1x06_P2.54mm_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_KK-254_AE-6410-06A_1x06_P2.54mm_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_KK-254_AE-6410-06A_1x06_P2.54mm_Vertical)
 - Short Link: [http://oom.lt/FZKCNMXMXKK254AE6416A1X6P254F](http://oom.lt/FZKCNMXMXKK254AE6416A1X6P254F)

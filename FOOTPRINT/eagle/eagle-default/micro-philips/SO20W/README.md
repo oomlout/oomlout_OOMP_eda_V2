@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-micro-philips-SO20W
 - Hex ID: FZEMPHILIPSSO2W
 - Name: micro-philips : SO20W
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/micro-philips/SO20W/
 - Description: micro-philips : SO20W
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-philips-SO20W](http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-philips-SO20W)
 - Short Link: [http://oom.lt/FZEMPHILIPSSO2W](http://oom.lt/FZEMPHILIPSSO2W)

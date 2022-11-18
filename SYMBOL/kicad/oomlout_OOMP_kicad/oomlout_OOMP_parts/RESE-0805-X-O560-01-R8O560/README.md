@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0805-X-O560-01-R8O560
 - Hex ID: SZOOMPKOOMPPRESE85XO561R8O56
 - Name: oomlout_OOMP_parts : RESE-0805-X-O560-01-R8O560
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/RESE-0805-X-O560-01-R8O560/
 - Description: oomlout_OOMP_parts : RESE-0805-X-O560-01-R8O560
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0805-X-O560-01-R8O560](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0805-X-O560-01-R8O560)
 - Short Link: [http://oom.lt/SZOOMPKOOMPPRESE85XO561R8O56](http://oom.lt/SZOOMPKOOMPPRESE85XO561R8O56)

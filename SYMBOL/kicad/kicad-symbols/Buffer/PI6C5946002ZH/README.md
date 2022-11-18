@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Buffer-PI6C5946002ZH
 - Hex ID: SZKBUFFERPI6C59462ZH
 - Name: Buffer : PI6C5946002ZH
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Buffer/PI6C5946002ZH/
 - Description: Buffer : PI6C5946002ZH
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Buffer-PI6C5946002ZH](http://oom.lt/SYMBOL-kicad-kicad-symbols-Buffer-PI6C5946002ZH)
 - Short Link: [http://oom.lt/SZKBUFFERPI6C59462ZH](http://oom.lt/SZKBUFFERPI6C59462ZH)

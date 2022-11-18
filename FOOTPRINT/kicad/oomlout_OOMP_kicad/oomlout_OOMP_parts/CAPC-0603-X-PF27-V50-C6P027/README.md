@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0603-X-PF27-V50-C6P027
 - Hex ID: FZOOMPKOOMPPCAPC63XPF27V5C6P27
 - Name: oomlout_OOMP_parts : CAPC-0603-X-PF27-V50-C6P027
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/CAPC-0603-X-PF27-V50-C6P027/
 - Description: oomlout_OOMP_parts : CAPC-0603-X-PF27-V50-C6P027
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0603-X-PF27-V50-C6P027](http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0603-X-PF27-V50-C6P027)
 - Short Link: [http://oom.lt/FZOOMPKOOMPPCAPC63XPF27V5C6P27](http://oom.lt/FZOOMPKOOMPPCAPC63XPF27V5C6P27)

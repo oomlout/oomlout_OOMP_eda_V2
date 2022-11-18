@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Potentiometer_Digital-MCP4011-xxxxMS
 - Hex ID: SZKPOTDIGITALMCP411XXXXMS
 - Name: Potentiometer_Digital : MCP4011-xxxxMS
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Potentiometer_Digital/MCP4011-xxxxMS/
 - Description: Potentiometer_Digital : MCP4011-xxxxMS
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Potentiometer_Digital-MCP4011-xxxxMS](http://oom.lt/SYMBOL-kicad-kicad-symbols-Potentiometer_Digital-MCP4011-xxxxMS)
 - Short Link: [http://oom.lt/SZKPOTDIGITALMCP411XXXXMS](http://oom.lt/SZKPOTDIGITALMCP411XXXXMS)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-power-+3.3VDAC
 - Hex ID: SZKPOWER+33VDAC
 - Name: power : +3.3VDAC
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/power/+3.3VDAC/
 - Description: power : +3.3VDAC
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-power-+3.3VDAC](http://oom.lt/SYMBOL-kicad-kicad-symbols-power-+3.3VDAC)
 - Short Link: [http://oom.lt/SZKPOWER+33VDAC](http://oom.lt/SZKPOWER+33VDAC)

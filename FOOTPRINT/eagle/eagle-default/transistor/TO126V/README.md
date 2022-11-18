@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-transistor-TO126V
 - Hex ID: FZETRANSISTORTO126V
 - Name: transistor : TO126V
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/transistor/TO126V/
 - Description: transistor : TO126V
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-TO126V](http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-TO126V)
 - Short Link: [http://oom.lt/FZETRANSISTORTO126V](http://oom.lt/FZETRANSISTORTO126V)

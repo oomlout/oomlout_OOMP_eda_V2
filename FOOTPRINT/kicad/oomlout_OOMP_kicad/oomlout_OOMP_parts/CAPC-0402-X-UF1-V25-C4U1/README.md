@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0402-X-UF1-V25-C4U1
 - Hex ID: FZOOMPKOOMPPCAPC42XUF1V25C4U1
 - Name: oomlout_OOMP_parts : CAPC-0402-X-UF1-V25-C4U1
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/CAPC-0402-X-UF1-V25-C4U1/
 - Description: oomlout_OOMP_parts : CAPC-0402-X-UF1-V25-C4U1
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0402-X-UF1-V25-C4U1](http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0402-X-UF1-V25-C4U1)
 - Short Link: [http://oom.lt/FZOOMPKOOMPPCAPC42XUF1V25C4U1](http://oom.lt/FZOOMPKOOMPPCAPC42XUF1V25C4U1)

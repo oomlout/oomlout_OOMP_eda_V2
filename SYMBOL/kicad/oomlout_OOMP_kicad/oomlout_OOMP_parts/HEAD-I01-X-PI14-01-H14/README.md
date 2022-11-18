@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-I01-X-PI14-01-H14
 - Hex ID: SZOOMPKOOMPPHEADI1XPI141H14
 - Name: oomlout_OOMP_parts : HEAD-I01-X-PI14-01-H14
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/HEAD-I01-X-PI14-01-H14/
 - Description: oomlout_OOMP_parts : HEAD-I01-X-PI14-01-H14
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-I01-X-PI14-01-H14](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-I01-X-PI14-01-H14)
 - Short Link: [http://oom.lt/SZOOMPKOOMPPHEADI1XPI141H14](http://oom.lt/SZOOMPKOOMPPHEADI1XPI141H14)

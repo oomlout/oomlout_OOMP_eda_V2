@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega644P-20P
 - Hex ID: SZKMCUMCHIPATMEGAATMEGA644P2P
 - Name: MCU_Microchip_ATmega : ATmega644P-20P
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_ATmega/ATmega644P-20P/
 - Description: MCU_Microchip_ATmega : ATmega644P-20P
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega644P-20P](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega644P-20P)
 - Short Link: [http://oom.lt/SZKMCUMCHIPATMEGAATMEGA644P2P](http://oom.lt/SZKMCUMCHIPATMEGAATMEGA644P2P)

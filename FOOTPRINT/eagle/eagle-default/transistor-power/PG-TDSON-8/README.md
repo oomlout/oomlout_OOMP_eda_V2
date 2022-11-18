@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-transistor-power-PG-TDSON-8
 - Hex ID: FZETRANSISTORPOWERPGTDSON8
 - Name: transistor-power : PG-TDSON-8
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/transistor-power/PG-TDSON-8/
 - Description: transistor-power : PG-TDSON-8
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-power-PG-TDSON-8](http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-power-PG-TDSON-8)
 - Short Link: [http://oom.lt/FZETRANSISTORPOWERPGTDSON8](http://oom.lt/FZETRANSISTORPOWERPGTDSON8)

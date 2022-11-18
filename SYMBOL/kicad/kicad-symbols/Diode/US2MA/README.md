@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-US2MA
 - Hex ID: SZKDIODEUS2MA
 - Name: Diode : US2MA
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/US2MA/
 - Description: Diode : US2MA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-US2MA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-US2MA)
 - Short Link: [http://oom.lt/SZKDIODEUS2MA](http://oom.lt/SZKDIODEUS2MA)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-con-ptr500-AK300_7
 - Hex ID: FZECONPTR5AK37
 - Name: con-ptr500 : AK300_7
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-ptr500/AK300_7/
 - Description: con-ptr500 : AK300_7
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-ptr500-AK300_7](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-ptr500-AK300_7)
 - Short Link: [http://oom.lt/FZECONPTR5AK37](http://oom.lt/FZECONPTR5AK37)

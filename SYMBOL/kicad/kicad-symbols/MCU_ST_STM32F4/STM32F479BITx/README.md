@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F4-STM32F479BITx
 - Hex ID: SZKMCUSTSTM32F4STM32F479BITX
 - Name: MCU_ST_STM32F4 : STM32F479BITx
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32F4/STM32F479BITx/
 - Description: MCU_ST_STM32F4 : STM32F479BITx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F4-STM32F479BITx](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F4-STM32F479BITx)
 - Short Link: [http://oom.lt/SZKMCUSTSTM32F4STM32F479BITX](http://oom.lt/SZKMCUSTSTM32F4STM32F479BITX)

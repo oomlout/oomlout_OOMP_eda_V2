@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-RCA
 - Hex ID: FZSSPARKFUNCNSRCA
 - Name: SparkFun-Connectors : RCA
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Connectors/RCA/
 - Description: SparkFun-Connectors : RCA
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-RCA](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-RCA)
 - Short Link: [http://oom.lt/FZSSPARKFUNCNSRCA](http://oom.lt/FZSSPARKFUNCNSRCA)

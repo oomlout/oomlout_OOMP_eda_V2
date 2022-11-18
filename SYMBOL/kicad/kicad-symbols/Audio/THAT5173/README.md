@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Audio-THAT5173
 - Hex ID: SZKAUDIOTHAT5173
 - Name: Audio : THAT5173
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Audio/THAT5173/
 - Description: Audio : THAT5173
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Audio-THAT5173](http://oom.lt/SYMBOL-kicad-kicad-symbols-Audio-THAT5173)
 - Short Link: [http://oom.lt/SZKAUDIOTHAT5173](http://oom.lt/SZKAUDIOTHAT5173)

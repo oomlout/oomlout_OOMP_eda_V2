@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Transformer_SMD-Transformer_Wuerth_750315371
 - Hex ID: FZKTRTRWUERTH75315371
 - Name: Transformer_SMD : Transformer_Wuerth_750315371
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Transformer_SMD/Transformer_Wuerth_750315371/
 - Description: Transformer_SMD : Transformer_Wuerth_750315371
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Transformer_SMD-Transformer_Wuerth_750315371](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Transformer_SMD-Transformer_Wuerth_750315371)
 - Short Link: [http://oom.lt/FZKTRTRWUERTH75315371](http://oom.lt/FZKTRTRWUERTH75315371)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_NV_B04P-NV_1x04_P5.00mm_Vertical
 - Hex ID: FZKCNJSTJSTNVB4PNV1X4P5F
 - Name: Connector_JST : JST_NV_B04P-NV_1x04_P5.00mm_Vertical
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_NV_B04P-NV_1x04_P5.00mm_Vertical/
 - Description: Connector_JST : JST_NV_B04P-NV_1x04_P5.00mm_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_NV_B04P-NV_1x04_P5.00mm_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_NV_B04P-NV_1x04_P5.00mm_Vertical)
 - Short Link: [http://oom.lt/FZKCNJSTJSTNVB4PNV1X4P5F](http://oom.lt/FZKCNJSTJSTNVB4PNV1X4P5F)

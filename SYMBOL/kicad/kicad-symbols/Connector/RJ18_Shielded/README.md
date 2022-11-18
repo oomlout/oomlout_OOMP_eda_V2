@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Connector-RJ18_Shielded
 - Hex ID: SZKCNRJ18SHED
 - Name: Connector : RJ18_Shielded
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector/RJ18_Shielded/
 - Description: Connector : RJ18_Shielded
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-RJ18_Shielded](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-RJ18_Shielded)
 - Short Link: [http://oom.lt/SZKCNRJ18SHED](http://oom.lt/SZKCNRJ18SHED)

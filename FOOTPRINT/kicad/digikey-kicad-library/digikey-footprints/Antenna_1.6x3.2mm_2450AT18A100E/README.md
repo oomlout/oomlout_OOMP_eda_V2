@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Antenna_1.6x3.2mm_2450AT18A100E
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSANTENNA16X32245AT18A1E
 - Name: digikey-footprints : Antenna_1.6x3.2mm_2450AT18A100E
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Antenna_1.6x3.2mm_2450AT18A100E/
 - Description: digikey-footprints : Antenna_1.6x3.2mm_2450AT18A100E
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Antenna_1.6x3.2mm_2450AT18A100E](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Antenna_1.6x3.2mm_2450AT18A100E)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSANTENNA16X32245AT18A1E](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSANTENNA16X32245AT18A1E)

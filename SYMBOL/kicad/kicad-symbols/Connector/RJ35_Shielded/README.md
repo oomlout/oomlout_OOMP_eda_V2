@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Connector-RJ35_Shielded
 - Hex ID: SZKCNRJ35SHED
 - Name: Connector : RJ35_Shielded
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector/RJ35_Shielded/
 - Description: Connector : RJ35_Shielded
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-RJ35_Shielded](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-RJ35_Shielded)
 - Short Link: [http://oom.lt/SZKCNRJ35SHED](http://oom.lt/SZKCNRJ35SHED)

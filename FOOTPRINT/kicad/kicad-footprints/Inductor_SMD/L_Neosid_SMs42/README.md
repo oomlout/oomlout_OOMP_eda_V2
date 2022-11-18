@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Neosid_SMs42
 - Hex ID: FZKINLNEOSIDSMS42
 - Name: Inductor_SMD : L_Neosid_SMs42
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Neosid_SMs42/
 - Description: Inductor_SMD : L_Neosid_SMs42
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Neosid_SMs42](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Neosid_SMs42)
 - Short Link: [http://oom.lt/FZKINLNEOSIDSMS42](http://oom.lt/FZKINLNEOSIDSMS42)

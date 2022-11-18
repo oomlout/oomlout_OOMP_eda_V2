@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-OPA1678
 - Hex ID: SZKAMPLIFIEROPERATIONALOPA1678
 - Name: Amplifier_Operational : OPA1678
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/OPA1678/
 - Description: Amplifier_Operational : OPA1678
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-OPA1678](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-OPA1678)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALOPA1678](http://oom.lt/SZKAMPLIFIEROPERATIONALOPA1678)

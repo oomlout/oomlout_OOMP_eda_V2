@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_Micro-Fit_3.0_43045-0800_2x04_P3.00mm_Horizontal
 - Hex ID: FZKCNMXMXMFIT3434582X4P3H
 - Name: Connector_Molex : Molex_Micro-Fit_3.0_43045-0800_2x04_P3.00mm_Horizontal
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_Micro-Fit_3.0_43045-0800_2x04_P3.00mm_Horizontal/
 - Description: Connector_Molex : Molex_Micro-Fit_3.0_43045-0800_2x04_P3.00mm_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_Micro-Fit_3.0_43045-0800_2x04_P3.00mm_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_Micro-Fit_3.0_43045-0800_2x04_P3.00mm_Horizontal)
 - Short Link: [http://oom.lt/FZKCNMXMXMFIT3434582X4P3H](http://oom.lt/FZKCNMXMXMFIT3434582X4P3H)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Analog_Switch-ADG1408YRUZ
 - Hex ID: SZKANALOGSWADG148YRUZ
 - Name: Analog_Switch : ADG1408YRUZ
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog_Switch/ADG1408YRUZ/
 - Description: Analog_Switch : ADG1408YRUZ
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_Switch-ADG1408YRUZ](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_Switch-ADG1408YRUZ)
 - Short Link: [http://oom.lt/SZKANALOGSWADG148YRUZ](http://oom.lt/SZKANALOGSWADG148YRUZ)

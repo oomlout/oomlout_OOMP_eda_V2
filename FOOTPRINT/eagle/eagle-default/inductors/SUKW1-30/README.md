@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEINDUCTORSSUKW13 > inductors : SUKW1-30](#fzeinductorssukw13--inductors--sukw1-30)
+* [FZEINSSUKW13 > inductors : SUKW1-30](#fzeinssukw13--inductors--sukw1-30)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEINDUCTORSSUKW13 > inductors : SUKW1-30
+# FZEINSSUKW13 > inductors : SUKW1-30
 
 - ID: FOOTPRINT-eagle-eagle-default-inductors-SUKW1-30
-- Hex ID: FZEINDUCTORSSUKW13
+- Hex ID: FZEINSSUKW13
 - Name: inductors : SUKW1-30
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/inductors/SUKW1-30/
 - Description: inductors : SUKW1-30
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-inductors-SUKW1-30](http://oom.lt/FOOTPRINT-eagle-eagle-default-inductors-SUKW1-30)
-- Short Link: [http://oom.lt/FZEINDUCTORSSUKW13](http://oom.lt/FZEINDUCTORSSUKW13)
+- Short Link: [http://oom.lt/FZEINSSUKW13](http://oom.lt/FZEINSSUKW13)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|inductors|
 |OOMP Index|oompIndex|SUKW1-30|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-inductors-SUKW1-30|
-|Hex ID (short code)|hexID|FZEINDUCTORSSUKW13|
+|Hex ID (short code)|hexID|FZEINSSUKW13|
 |name|name|inductors : SUKW1-30|
 ||||

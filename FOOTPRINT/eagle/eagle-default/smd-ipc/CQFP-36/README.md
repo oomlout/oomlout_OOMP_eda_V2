@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-smd-ipc-CQFP-36
 - Hex ID: FZESMIPCCQFP36
 - Name: smd-ipc : CQFP-36
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/smd-ipc/CQFP-36/
 - Description: smd-ipc : CQFP-36
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-CQFP-36](http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-CQFP-36)
 - Short Link: [http://oom.lt/FZESMIPCCQFP36](http://oom.lt/FZESMIPCCQFP36)

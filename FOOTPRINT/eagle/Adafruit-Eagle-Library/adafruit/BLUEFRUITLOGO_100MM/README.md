@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-BLUEFRUITLOGO_100MM
 - Hex ID: FZABLUEFRUITL1
 - Name: adafruit : BLUEFRUITLOGO_100MM
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/BLUEFRUITLOGO_100MM/
 - Description: adafruit : BLUEFRUITLOGO_100MM
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-BLUEFRUITLOGO_100MM](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-BLUEFRUITLOGO_100MM)
 - Short Link: [http://oom.lt/FZABLUEFRUITL1](http://oom.lt/FZABLUEFRUITL1)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Capacitors-NIC_10X10.5_CAP
 - Hex ID: FZSCNIC1X15CAP
 - Name: SparkFun-Capacitors : NIC_10X10.5_CAP
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Capacitors/NIC_10X10.5_CAP/
 - Description: SparkFun-Capacitors : NIC_10X10.5_CAP
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Capacitors-NIC_10X10.5_CAP](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Capacitors-NIC_10X10.5_CAP)
 - Short Link: [http://oom.lt/FZSCNIC1X15CAP](http://oom.lt/FZSCNIC1X15CAP)

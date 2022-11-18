@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-SPW2430HR5H-B
 - Hex ID: FZSSPARKFUNSENSSPW243HR5HB
 - Name: SparkFun-Sensors : SPW2430HR5H-B
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Sensors/SPW2430HR5H-B/
 - Description: SparkFun-Sensors : SPW2430HR5H-B
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-SPW2430HR5H-B](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-SPW2430HR5H-B)
 - Short Link: [http://oom.lt/FZSSPARKFUNSENSSPW243HR5HB](http://oom.lt/FZSSPARKFUNSENSSPW243HR5HB)

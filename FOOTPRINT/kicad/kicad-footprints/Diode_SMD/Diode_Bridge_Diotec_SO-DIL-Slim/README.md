@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Diode_SMD-Diode_Bridge_Diotec_SO-DIL-Slim
 - Hex ID: FZKDDIODEBRIDGEDIOTECSODILSLIM
 - Name: Diode_SMD : Diode_Bridge_Diotec_SO-DIL-Slim
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Diode_SMD/Diode_Bridge_Diotec_SO-DIL-Slim/
 - Description: Diode_SMD : Diode_Bridge_Diotec_SO-DIL-Slim
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Diode_SMD-Diode_Bridge_Diotec_SO-DIL-Slim](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Diode_SMD-Diode_Bridge_Diotec_SO-DIL-Slim)
 - Short Link: [http://oom.lt/FZKDDIODEBRIDGEDIOTECSODILSLIM](http://oom.lt/FZKDDIODEBRIDGEDIOTECSODILSLIM)

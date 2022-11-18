@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-transistor-small-signal-SOT37
 - Hex ID: FZETRANSISTORSLLSIGNALSOT37
 - Name: transistor-small-signal : SOT37
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/transistor-small-signal/SOT37/
 - Description: transistor-small-signal : SOT37
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-small-signal-SOT37](http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-small-signal-SOT37)
 - Short Link: [http://oom.lt/FZETRANSISTORSLLSIGNALSOT37](http://oom.lt/FZETRANSISTORSLLSIGNALSOT37)

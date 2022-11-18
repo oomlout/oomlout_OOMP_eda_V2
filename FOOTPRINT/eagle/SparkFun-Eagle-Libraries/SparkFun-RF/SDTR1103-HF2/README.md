@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-SDTR1103-HF2
 - Hex ID: FZSRFSDTR113HF2
 - Name: SparkFun-RF : SDTR1103-HF2
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-RF/SDTR1103-HF2/
 - Description: SparkFun-RF : SDTR1103-HF2
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-SDTR1103-HF2](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-SDTR1103-HF2)
 - Short Link: [http://oom.lt/FZSRFSDTR113HF2](http://oom.lt/FZSRFSDTR113HF2)

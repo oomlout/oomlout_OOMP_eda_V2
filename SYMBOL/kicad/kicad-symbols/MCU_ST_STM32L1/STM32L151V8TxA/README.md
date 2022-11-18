@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_ST_STM32L1-STM32L151V8TxA
 - Hex ID: SZKMCUSTSTM32L1STM32L151V8TXA
 - Name: MCU_ST_STM32L1 : STM32L151V8TxA
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32L1/STM32L151V8TxA/
 - Description: MCU_ST_STM32L1 : STM32L151V8TxA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32L1-STM32L151V8TxA](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32L1-STM32L151V8TxA)
 - Short Link: [http://oom.lt/SZKMCUSTSTM32L1STM32L151V8TXA](http://oom.lt/SZKMCUSTSTM32L1STM32L151V8TXA)

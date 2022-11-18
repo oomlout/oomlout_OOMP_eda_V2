@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_TDK_VLP8040
 - Hex ID: FZKINLTDKVLP84
 - Name: Inductor_SMD : L_TDK_VLP8040
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_TDK_VLP8040/
 - Description: Inductor_SMD : L_TDK_VLP8040
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_TDK_VLP8040](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_TDK_VLP8040)
 - Short Link: [http://oom.lt/FZKINLTDKVLP84](http://oom.lt/FZKINLTDKVLP84)

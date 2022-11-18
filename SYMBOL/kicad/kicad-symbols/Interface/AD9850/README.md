@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface-AD9850
 - Hex ID: SZKINTERFACEAD985
 - Name: Interface : AD9850
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface/AD9850/
 - Description: Interface : AD9850
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-AD9850](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-AD9850)
 - Short Link: [http://oom.lt/SZKINTERFACEAD985](http://oom.lt/SZKINTERFACEAD985)

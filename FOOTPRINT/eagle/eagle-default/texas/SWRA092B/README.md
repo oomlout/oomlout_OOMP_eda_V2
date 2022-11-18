@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-texas-SWRA092B
 - Hex ID: FZETEXASSWRA92B
 - Name: texas : SWRA092B
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/texas/SWRA092B/
 - Description: texas : SWRA092B
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-texas-SWRA092B](http://oom.lt/FOOTPRINT-eagle-eagle-default-texas-SWRA092B)
 - Short Link: [http://oom.lt/FZETEXASSWRA92B](http://oom.lt/FZETEXASSWRA92B)

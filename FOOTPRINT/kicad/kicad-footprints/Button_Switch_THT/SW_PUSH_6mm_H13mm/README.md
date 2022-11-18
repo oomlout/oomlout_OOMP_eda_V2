@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Button_Switch_THT-SW_PUSH_6mm_H13mm
 - Hex ID: FZKBSWPUSH6H13
 - Name: Button_Switch_THT : SW_PUSH_6mm_H13mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/SW_PUSH_6mm_H13mm/
 - Description: Button_Switch_THT : SW_PUSH_6mm_H13mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Button_Switch_THT-SW_PUSH_6mm_H13mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Button_Switch_THT-SW_PUSH_6mm_H13mm)
 - Short Link: [http://oom.lt/FZKBSWPUSH6H13](http://oom.lt/FZKBSWPUSH6H13)

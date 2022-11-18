@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Switches-ENCODER_LED_2
 - Hex ID: FZSWENCODERL2
 - Name: SparkFun-Switches : ENCODER_LED_2
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Switches/ENCODER_LED_2/
 - Description: SparkFun-Switches : ENCODER_LED_2
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Switches-ENCODER_LED_2](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Switches-ENCODER_LED_2)
 - Short Link: [http://oom.lt/FZSWENCODERL2](http://oom.lt/FZSWENCODERL2)

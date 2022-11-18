@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-power-PRI_LO
 - Hex ID: SZKPOWERPRILO
 - Name: power : PRI_LO
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/power/PRI_LO/
 - Description: power : PRI_LO
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-power-PRI_LO](http://oom.lt/SYMBOL-kicad-kicad-symbols-power-PRI_LO)
 - Short Link: [http://oom.lt/SZKPOWERPRILO](http://oom.lt/SZKPOWERPRILO)

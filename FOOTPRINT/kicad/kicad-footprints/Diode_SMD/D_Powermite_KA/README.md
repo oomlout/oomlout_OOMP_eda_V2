@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_Powermite_KA
 - Hex ID: FZKDDPOWERMITEKA
 - Name: Diode_SMD : D_Powermite_KA
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Diode_SMD/D_Powermite_KA/
 - Description: Diode_SMD : D_Powermite_KA
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_Powermite_KA](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_Powermite_KA)
 - Short Link: [http://oom.lt/FZKDDPOWERMITEKA](http://oom.lt/FZKDDPOWERMITEKA)

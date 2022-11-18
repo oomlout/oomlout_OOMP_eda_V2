@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode_Bridge-W06G
 - Hex ID: SZKDIODEBRIDGEW6G
 - Name: Diode_Bridge : W06G
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode_Bridge/W06G/
 - Description: Diode_Bridge : W06G
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode_Bridge-W06G](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode_Bridge-W06G)
 - Short Link: [http://oom.lt/SZKDIODEBRIDGEW6G](http://oom.lt/SZKDIODEBRIDGEW6G)

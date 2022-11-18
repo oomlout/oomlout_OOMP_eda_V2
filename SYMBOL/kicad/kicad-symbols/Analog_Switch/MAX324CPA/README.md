@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Analog_Switch-MAX324CPA
 - Hex ID: SZKANALOGSWMAX324CPA
 - Name: Analog_Switch : MAX324CPA
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog_Switch/MAX324CPA/
 - Description: Analog_Switch : MAX324CPA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_Switch-MAX324CPA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_Switch-MAX324CPA)
 - Short Link: [http://oom.lt/SZKANALOGSWMAX324CPA](http://oom.lt/SZKANALOGSWMAX324CPA)

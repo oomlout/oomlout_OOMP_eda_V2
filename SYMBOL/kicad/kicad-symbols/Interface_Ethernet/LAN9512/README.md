@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_Ethernet-LAN9512
 - Hex ID: SZKINTERFACEETHERNETLAN9512
 - Name: Interface_Ethernet : LAN9512
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_Ethernet/LAN9512/
 - Description: Interface_Ethernet : LAN9512
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Ethernet-LAN9512](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Ethernet-LAN9512)
 - Short Link: [http://oom.lt/SZKINTERFACEETHERNETLAN9512](http://oom.lt/SZKINTERFACEETHERNETLAN9512)

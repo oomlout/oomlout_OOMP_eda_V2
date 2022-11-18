@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-RF_GSM-SIMCom_SIM800C
 - Hex ID: FZKGSMSIMCOMSIM8C
 - Name: RF_GSM : SIMCom_SIM800C
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/RF_GSM/SIMCom_SIM800C/
 - Description: RF_GSM : SIMCom_SIM800C
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_GSM-SIMCom_SIM800C](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_GSM-SIMCom_SIM800C)
 - Short Link: [http://oom.lt/FZKGSMSIMCOMSIM8C](http://oom.lt/FZKGSMSIMCOMSIM8C)

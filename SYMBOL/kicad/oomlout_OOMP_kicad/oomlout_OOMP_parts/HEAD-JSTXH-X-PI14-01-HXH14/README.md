@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-JSTXH-X-PI14-01-HXH14
 - Hex ID: SZOOMPKOOMPPHEADJSTXHXPI141HXH14
 - Name: oomlout_OOMP_parts : HEAD-JSTXH-X-PI14-01-HXH14
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/HEAD-JSTXH-X-PI14-01-HXH14/
 - Description: oomlout_OOMP_parts : HEAD-JSTXH-X-PI14-01-HXH14
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-JSTXH-X-PI14-01-HXH14](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-JSTXH-X-PI14-01-HXH14)
 - Short Link: [http://oom.lt/SZOOMPKOOMPPHEADJSTXHXPI141HXH14](http://oom.lt/SZOOMPKOOMPPHEADJSTXHXPI141HXH14)

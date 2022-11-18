@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-1206-X-NF10-V50-C12N10-C1846
 - Hex ID: FZOOMPKJLCCAPC126XNF1V5C12N1C1846
 - Name: oomlout_OOMP_JLCC_Basic : CAPC-1206-X-NF10-V50-C12N10-C1846
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_JLCC_Basic/CAPC-1206-X-NF10-V50-C12N10-C1846/
 - Description: oomlout_OOMP_JLCC_Basic : CAPC-1206-X-NF10-V50-C12N10-C1846
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-1206-X-NF10-V50-C12N10-C1846](http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-1206-X-NF10-V50-C12N10-C1846)
 - Short Link: [http://oom.lt/FZOOMPKJLCCAPC126XNF1V5C12N1C1846](http://oom.lt/FZOOMPKJLCCAPC126XNF1V5C12N1C1846)

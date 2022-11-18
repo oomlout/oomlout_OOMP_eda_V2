@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_ST_STM32L0-STM32L041G6Ux
 - Hex ID: SZKMCUSTSTM32LSTM32L41G6UX
 - Name: MCU_ST_STM32L0 : STM32L041G6Ux
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32L0/STM32L041G6Ux/
 - Description: MCU_ST_STM32L0 : STM32L041G6Ux
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32L0-STM32L041G6Ux](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32L0-STM32L041G6Ux)
 - Short Link: [http://oom.lt/SZKMCUSTSTM32LSTM32L41G6UX](http://oom.lt/SZKMCUSTSTM32LSTM32L41G6UX)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_Cree-XQ
 - Hex ID: FZKLLCREEXQ
 - Name: LED_SMD : LED_Cree-XQ
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_Cree-XQ/
 - Description: LED_SMD : LED_Cree-XQ
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_Cree-XQ](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_Cree-XQ)
 - Short Link: [http://oom.lt/FZKLLCREEXQ](http://oom.lt/FZKLLCREEXQ)

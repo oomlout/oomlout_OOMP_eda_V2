@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Battery_Management-BQ24073RGT
 - Hex ID: SZKBATMANAGEMENTBQ2473RGT
 - Name: Battery_Management : BQ24073RGT
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Battery_Management/BQ24073RGT/
 - Description: Battery_Management : BQ24073RGT
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Battery_Management-BQ24073RGT](http://oom.lt/SYMBOL-kicad-kicad-symbols-Battery_Management-BQ24073RGT)
 - Short Link: [http://oom.lt/SZKBATMANAGEMENTBQ2473RGT](http://oom.lt/SZKBATMANAGEMENTBQ2473RGT)

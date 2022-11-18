@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-RESE-0603-X-O680-01-R6O680-C27592
 - Hex ID: SZOOMPKJLCRESE63XO681R6O68C27592
 - Name: oomlout_OOMP_JLCC_Basic : RESE-0603-X-O680-01-R6O680-C27592
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_JLCC_Basic/RESE-0603-X-O680-01-R6O680-C27592/
 - Description: oomlout_OOMP_JLCC_Basic : RESE-0603-X-O680-01-R6O680-C27592
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-RESE-0603-X-O680-01-R6O680-C27592](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-RESE-0603-X-O680-01-R6O680-C27592)
 - Short Link: [http://oom.lt/SZOOMPKJLCRESE63XO681R6O68C27592](http://oom.lt/SZOOMPKJLCRESE63XO681R6O68C27592)

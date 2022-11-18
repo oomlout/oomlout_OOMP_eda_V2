@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Buzzard-I2C
 - Hex ID: FZSBUI2C
 - Name: SparkFun-Buzzard : I2C
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Buzzard/I2C/
 - Description: SparkFun-Buzzard : I2C
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Buzzard-I2C](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Buzzard-I2C)
 - Short Link: [http://oom.lt/FZSBUI2C](http://oom.lt/FZSBUI2C)

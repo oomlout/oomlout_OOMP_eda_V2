@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEREFPACKAGESLONGPADFBGA484 > ref-packages-longpad : FBGA484](#fzerefpackageslongpadfbga484--ref-packages-longpad--fbga484)
+* [FZEREFPSLPFBGA484 > ref-packages-longpad : FBGA484](#fzerefpslpfbga484--ref-packages-longpad--fbga484)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEREFPACKAGESLONGPADFBGA484 > ref-packages-longpad : FBGA484
+# FZEREFPSLPFBGA484 > ref-packages-longpad : FBGA484
 
 - ID: FOOTPRINT-eagle-eagle-default-ref-packages-longpad-FBGA484
-- Hex ID: FZEREFPACKAGESLONGPADFBGA484
+- Hex ID: FZEREFPSLPFBGA484
 - Name: ref-packages-longpad : FBGA484
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ref-packages-longpad/FBGA484/
 - Description: ref-packages-longpad : FBGA484
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-longpad-FBGA484](http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-longpad-FBGA484)
-- Short Link: [http://oom.lt/FZEREFPACKAGESLONGPADFBGA484](http://oom.lt/FZEREFPACKAGESLONGPADFBGA484)
+- Short Link: [http://oom.lt/FZEREFPSLPFBGA484](http://oom.lt/FZEREFPSLPFBGA484)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|ref-packages-longpad|
 |OOMP Index|oompIndex|FBGA484|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-ref-packages-longpad-FBGA484|
-|Hex ID (short code)|hexID|FZEREFPACKAGESLONGPADFBGA484|
+|Hex ID (short code)|hexID|FZEREFPSLPFBGA484|
 |name|name|ref-packages-longpad : FBGA484|
 ||||

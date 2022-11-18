@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_JAE-JAE_MM70-314-310B1
 - Hex ID: FZKCNJAEJAE731431B1
 - Name: Connector_JAE : JAE_MM70-314-310B1
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_JAE/JAE_MM70-314-310B1/
 - Description: Connector_JAE : JAE_MM70-314-310B1
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_JAE-JAE_MM70-314-310B1](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_JAE-JAE_MM70-314-310B1)
 - Short Link: [http://oom.lt/FZKCNJAEJAE731431B1](http://oom.lt/FZKCNJAEJAE731431B1)

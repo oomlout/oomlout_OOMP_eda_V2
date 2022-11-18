@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Controller-IR11672AS
 - Hex ID: SZKREGULATORCONTROLLERIR11672AS
 - Name: Regulator_Controller : IR11672AS
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Controller/IR11672AS/
 - Description: Regulator_Controller : IR11672AS
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Controller-IR11672AS](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Controller-IR11672AS)
 - Short Link: [http://oom.lt/SZKREGULATORCONTROLLERIR11672AS](http://oom.lt/SZKREGULATORCONTROLLERIR11672AS)

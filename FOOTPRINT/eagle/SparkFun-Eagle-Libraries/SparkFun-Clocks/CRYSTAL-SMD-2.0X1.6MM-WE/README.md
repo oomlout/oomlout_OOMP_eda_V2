@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Clocks-CRYSTAL-SMD-2.0X1.6MM-WE
 - Hex ID: FZSCLXSM2X16WE
 - Name: SparkFun-Clocks : CRYSTAL-SMD-2.0X1.6MM-WE
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Clocks/CRYSTAL-SMD-2.0X1.6MM-WE/
 - Description: SparkFun-Clocks : CRYSTAL-SMD-2.0X1.6MM-WE
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Clocks-CRYSTAL-SMD-2.0X1.6MM-WE](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Clocks-CRYSTAL-SMD-2.0X1.6MM-WE)
 - Short Link: [http://oom.lt/FZSCLXSM2X16WE](http://oom.lt/FZSCLXSM2X16WE)

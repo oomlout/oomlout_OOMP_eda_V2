@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-3m-2169-6313-F
 - Hex ID: FZECON3M21696313F
 - Name: con-3m : 2169-6313-F
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-3m/2169-6313-F/
 - Description: con-3m : 2169-6313-F
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-3m-2169-6313-F](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-3m-2169-6313-F)
 - Short Link: [http://oom.lt/FZECON3M21696313F](http://oom.lt/FZECON3M21696313F)

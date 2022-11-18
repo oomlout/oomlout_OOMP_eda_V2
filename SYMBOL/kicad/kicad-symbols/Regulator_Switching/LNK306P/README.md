@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-LNK306P
 - Hex ID: SZKREGULATORSWINGLNK36P
 - Name: Regulator_Switching : LNK306P
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/LNK306P/
 - Description: Regulator_Switching : LNK306P
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LNK306P](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LNK306P)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGLNK36P](http://oom.lt/SZKREGULATORSWINGLNK36P)

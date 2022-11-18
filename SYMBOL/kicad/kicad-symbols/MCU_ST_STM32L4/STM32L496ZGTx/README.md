@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_ST_STM32L4-STM32L496ZGTx
 - Hex ID: SZKMCUSTSTM32L4STM32L496ZGTX
 - Name: MCU_ST_STM32L4 : STM32L496ZGTx
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32L4/STM32L496ZGTx/
 - Description: MCU_ST_STM32L4 : STM32L496ZGTx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32L4-STM32L496ZGTx](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32L4-STM32L496ZGTx)
 - Short Link: [http://oom.lt/SZKMCUSTSTM32L4STM32L496ZGTX](http://oom.lt/SZKMCUSTSTM32L4STM32L496ZGTX)

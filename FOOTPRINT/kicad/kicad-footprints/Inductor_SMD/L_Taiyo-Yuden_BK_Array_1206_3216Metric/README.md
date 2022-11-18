@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Taiyo-Yuden_BK_Array_1206_3216Metric
 - Hex ID: FZKINLTAIYOYUDENBKARRAY1263216VA
 - Name: Inductor_SMD : L_Taiyo-Yuden_BK_Array_1206_3216Metric
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Taiyo-Yuden_BK_Array_1206_3216Metric/
 - Description: Inductor_SMD : L_Taiyo-Yuden_BK_Array_1206_3216Metric
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Taiyo-Yuden_BK_Array_1206_3216Metric](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Taiyo-Yuden_BK_Array_1206_3216Metric)
 - Short Link: [http://oom.lt/FZKINLTAIYOYUDENBKARRAY1263216VA](http://oom.lt/FZKINLTAIYOYUDENBKARRAY1263216VA)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-PROTRINKET
 - Hex ID: FZAPROTRINKET
 - Name: adafruit : PROTRINKET
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/PROTRINKET/
 - Description: adafruit : PROTRINKET
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-PROTRINKET](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-PROTRINKET)
 - Short Link: [http://oom.lt/FZAPROTRINKET](http://oom.lt/FZAPROTRINKET)

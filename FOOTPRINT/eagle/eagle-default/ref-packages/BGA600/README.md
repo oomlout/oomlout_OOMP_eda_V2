@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEREFPACKAGESBGA6 > ref-packages : BGA600](#fzerefpackagesbga6--ref-packages--bga600)
+* [FZEREFPSBGA6 > ref-packages : BGA600](#fzerefpsbga6--ref-packages--bga600)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEREFPACKAGESBGA6 > ref-packages : BGA600
+# FZEREFPSBGA6 > ref-packages : BGA600
 
 - ID: FOOTPRINT-eagle-eagle-default-ref-packages-BGA600
-- Hex ID: FZEREFPACKAGESBGA6
+- Hex ID: FZEREFPSBGA6
 - Name: ref-packages : BGA600
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ref-packages/BGA600/
 - Description: ref-packages : BGA600
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-BGA600](http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-BGA600)
-- Short Link: [http://oom.lt/FZEREFPACKAGESBGA6](http://oom.lt/FZEREFPACKAGESBGA6)
+- Short Link: [http://oom.lt/FZEREFPSBGA6](http://oom.lt/FZEREFPSBGA6)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|ref-packages|
 |OOMP Index|oompIndex|BGA600|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-ref-packages-BGA600|
-|Hex ID (short code)|hexID|FZEREFPACKAGESBGA6|
+|Hex ID (short code)|hexID|FZEREFPSBGA6|
 |name|name|ref-packages : BGA600|
 ||||

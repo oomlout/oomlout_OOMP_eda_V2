@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-analog-devices-PBGA196
 - Hex ID: FZEANALOGDEVICESPBGA196
 - Name: analog-devices : PBGA196
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/analog-devices/PBGA196/
 - Description: analog-devices : PBGA196
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-analog-devices-PBGA196](http://oom.lt/FOOTPRINT-eagle-eagle-default-analog-devices-PBGA196)
 - Short Link: [http://oom.lt/FZEANALOGDEVICESPBGA196](http://oom.lt/FZEANALOGDEVICESPBGA196)

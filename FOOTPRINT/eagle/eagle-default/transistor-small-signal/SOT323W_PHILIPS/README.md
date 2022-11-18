@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-transistor-small-signal-SOT323W_PHILIPS
 - Hex ID: FZETRANSISTORSLLSIGNALSOT323WPHILIPS
 - Name: transistor-small-signal : SOT323W_PHILIPS
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/transistor-small-signal/SOT323W_PHILIPS/
 - Description: transistor-small-signal : SOT323W_PHILIPS
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-small-signal-SOT323W_PHILIPS](http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-small-signal-SOT323W_PHILIPS)
 - Short Link: [http://oom.lt/FZETRANSISTORSLLSIGNALSOT323WPHILIPS](http://oom.lt/FZETRANSISTORSLLSIGNALSOT323WPHILIPS)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-HC13U-H
 - Hex ID: FZAHC13UH
 - Name: adafruit : HC13U-H
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/HC13U-H/
 - Description: adafruit : HC13U-H
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-HC13U-H](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-HC13U-H)
 - Short Link: [http://oom.lt/FZAHC13UH](http://oom.lt/FZAHC13UH)

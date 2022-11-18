@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-logo-CS-LOGO-41MM
 - Hex ID: FZELCSL41
 - Name: logo : CS-LOGO-41MM
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/logo/CS-LOGO-41MM/
 - Description: logo : CS-LOGO-41MM
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-logo-CS-LOGO-41MM](http://oom.lt/FOOTPRINT-eagle-eagle-default-logo-CS-LOGO-41MM)
 - Short Link: [http://oom.lt/FZELCSL41](http://oom.lt/FZELCSL41)

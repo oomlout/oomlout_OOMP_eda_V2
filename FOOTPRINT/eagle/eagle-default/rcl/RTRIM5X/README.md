@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-rcl-RTRIM5X
 - Hex ID: FZERCLRTRIM5X
 - Name: rcl : RTRIM5X
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/rcl/RTRIM5X/
 - Description: rcl : RTRIM5X
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-RTRIM5X](http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-RTRIM5X)
 - Short Link: [http://oom.lt/FZERCLRTRIM5X](http://oom.lt/FZERCLRTRIM5X)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-micro-siemens-P-TSSOP28-1
 - Hex ID: FZEMSIEMENSPTSS281
 - Name: micro-siemens : P-TSSOP28-1
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/micro-siemens/P-TSSOP28-1/
 - Description: micro-siemens : P-TSSOP28-1
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-siemens-P-TSSOP28-1](http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-siemens-P-TSSOP28-1)
 - Short Link: [http://oom.lt/FZEMSIEMENSPTSS281](http://oom.lt/FZEMSIEMENSPTSS281)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Module-NUCLEO144-F767ZI
 - Hex ID: SZKMCUMONUCLEO144F767ZI
 - Name: MCU_Module : NUCLEO144-F767ZI
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Module/NUCLEO144-F767ZI/
 - Description: MCU_Module : NUCLEO144-F767ZI
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Module-NUCLEO144-F767ZI](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Module-NUCLEO144-F767ZI)
 - Short Link: [http://oom.lt/SZKMCUMONUCLEO144F767ZI](http://oom.lt/SZKMCUMONUCLEO144F767ZI)

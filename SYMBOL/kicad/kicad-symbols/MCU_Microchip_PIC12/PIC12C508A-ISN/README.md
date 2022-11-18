@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC12-PIC12C508A-ISN
 - Hex ID: SZKMCUMCHIPPIC12PIC12C58AISN
 - Name: MCU_Microchip_PIC12 : PIC12C508A-ISN
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC12/PIC12C508A-ISN/
 - Description: MCU_Microchip_PIC12 : PIC12C508A-ISN
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC12-PIC12C508A-ISN](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC12-PIC12C508A-ISN)
 - Short Link: [http://oom.lt/SZKMCUMCHIPPIC12PIC12C58AISN](http://oom.lt/SZKMCUMCHIPPIC12PIC12C58AISN)

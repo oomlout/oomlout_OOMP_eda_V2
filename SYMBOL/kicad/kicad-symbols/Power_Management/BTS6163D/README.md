@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Power_Management-BTS6163D
 - Hex ID: SZKPOWERMANAGEMENTBTS6163D
 - Name: Power_Management : BTS6163D
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Power_Management/BTS6163D/
 - Description: Power_Management : BTS6163D
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-BTS6163D](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-BTS6163D)
 - Short Link: [http://oom.lt/SZKPOWERMANAGEMENTBTS6163D](http://oom.lt/SZKPOWERMANAGEMENTBTS6163D)

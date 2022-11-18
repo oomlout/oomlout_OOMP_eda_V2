@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-LT1761-BYP
 - Hex ID: SZKREGULATORLINEARLT1761BYP
 - Name: Regulator_Linear : LT1761-BYP
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LT1761-BYP/
 - Description: Regulator_Linear : LT1761-BYP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LT1761-BYP](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LT1761-BYP)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARLT1761BYP](http://oom.lt/SZKREGULATORLINEARLT1761BYP)

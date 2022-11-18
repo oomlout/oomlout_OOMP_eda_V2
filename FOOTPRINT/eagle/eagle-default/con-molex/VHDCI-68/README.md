@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-molex-VHDCI-68
 - Hex ID: FZECONMXVHDCI68
 - Name: con-molex : VHDCI-68
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-molex/VHDCI-68/
 - Description: con-molex : VHDCI-68
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-molex-VHDCI-68](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-molex-VHDCI-68)
 - Short Link: [http://oom.lt/FZECONMXVHDCI68](http://oom.lt/FZECONMXVHDCI68)

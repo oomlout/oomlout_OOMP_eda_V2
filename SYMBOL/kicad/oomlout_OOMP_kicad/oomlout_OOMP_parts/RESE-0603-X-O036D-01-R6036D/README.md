@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O036D-01-R6036D
 - Hex ID: SZOOMPKOOMPPRESE63XO36D1R636D
 - Name: oomlout_OOMP_parts : RESE-0603-X-O036D-01-R6036D
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/RESE-0603-X-O036D-01-R6036D/
 - Description: oomlout_OOMP_parts : RESE-0603-X-O036D-01-R6036D
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O036D-01-R6036D](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O036D-01-R6036D)
 - Short Link: [http://oom.lt/SZOOMPKOOMPPRESE63XO36D1R636D](http://oom.lt/SZOOMPKOOMPPRESE63XO36D1R636D)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Boards-AUDIO-AMP-MONO
 - Hex ID: FZSBOAUDIOAMPMONO
 - Name: SparkFun-Boards : AUDIO-AMP-MONO
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Boards/AUDIO-AMP-MONO/
 - Description: SparkFun-Boards : AUDIO-AMP-MONO
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Boards-AUDIO-AMP-MONO](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Boards-AUDIO-AMP-MONO)
 - Short Link: [http://oom.lt/FZSBOAUDIOAMPMONO](http://oom.lt/FZSBOAUDIOAMPMONO)

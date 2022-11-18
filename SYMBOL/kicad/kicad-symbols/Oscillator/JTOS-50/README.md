@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Oscillator-JTOS-50
 - Hex ID: SZKOCSJTOS5
 - Name: Oscillator : JTOS-50
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Oscillator/JTOS-50/
 - Description: Oscillator : JTOS-50
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Oscillator-JTOS-50](http://oom.lt/SYMBOL-kicad-kicad-symbols-Oscillator-JTOS-50)
 - Short Link: [http://oom.lt/SZKOCSJTOS5](http://oom.lt/SZKOCSJTOS5)

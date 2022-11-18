@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-memory-micron-TSOP54-400
 - Hex ID: FZEMEMORYMNTS544
 - Name: memory-micron : TSOP54-400
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/memory-micron/TSOP54-400/
 - Description: memory-micron : TSOP54-400
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-memory-micron-TSOP54-400](http://oom.lt/FOOTPRINT-eagle-eagle-default-memory-micron-TSOP54-400)
 - Short Link: [http://oom.lt/FZEMEMORYMNTS544](http://oom.lt/FZEMEMORYMNTS544)

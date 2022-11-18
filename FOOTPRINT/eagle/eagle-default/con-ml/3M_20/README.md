@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-ml-3M_20
 - Hex ID: FZECONML3M2
 - Name: con-ml : 3M_20
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-ml/3M_20/
 - Description: con-ml : 3M_20
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-ml-3M_20](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-ml-3M_20)
 - Short Link: [http://oom.lt/FZECONML3M2](http://oom.lt/FZECONML3M2)

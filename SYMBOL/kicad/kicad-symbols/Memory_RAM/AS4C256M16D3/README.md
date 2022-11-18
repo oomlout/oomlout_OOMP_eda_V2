@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Memory_RAM-AS4C256M16D3
 - Hex ID: SZKMEMORYRAMAS4C256M16D3
 - Name: Memory_RAM : AS4C256M16D3
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Memory_RAM/AS4C256M16D3/
 - Description: Memory_RAM : AS4C256M16D3
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_RAM-AS4C256M16D3](http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_RAM-AS4C256M16D3)
 - Short Link: [http://oom.lt/SZKMEMORYRAMAS4C256M16D3](http://oom.lt/SZKMEMORYRAMAS4C256M16D3)

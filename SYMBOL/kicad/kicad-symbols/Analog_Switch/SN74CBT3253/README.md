@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Analog_Switch-SN74CBT3253
 - Hex ID: SZKANALOGSWSN74CBT3253
 - Name: Analog_Switch : SN74CBT3253
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog_Switch/SN74CBT3253/
 - Description: Analog_Switch : SN74CBT3253
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_Switch-SN74CBT3253](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_Switch-SN74CBT3253)
 - Short Link: [http://oom.lt/SZKANALOGSWSN74CBT3253](http://oom.lt/SZKANALOGSWSN74CBT3253)

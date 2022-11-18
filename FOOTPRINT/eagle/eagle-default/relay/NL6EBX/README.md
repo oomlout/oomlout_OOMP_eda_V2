@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-relay-NL6EBX
 - Hex ID: FZERELAYNL6EBX
 - Name: relay : NL6EBX
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/relay/NL6EBX/
 - Description: relay : NL6EBX
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-NL6EBX](http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-NL6EBX)
 - Short Link: [http://oom.lt/FZERELAYNL6EBX](http://oom.lt/FZERELAYNL6EBX)

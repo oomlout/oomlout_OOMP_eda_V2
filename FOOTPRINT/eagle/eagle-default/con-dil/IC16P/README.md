@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-dil-IC16P
 - Hex ID: FZECONDILIC16P
 - Name: con-dil : IC16P
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-dil/IC16P/
 - Description: con-dil : IC16P
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-dil-IC16P](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-dil-IC16P)
 - Short Link: [http://oom.lt/FZECONDILIC16P](http://oom.lt/FZECONDILIC16P)

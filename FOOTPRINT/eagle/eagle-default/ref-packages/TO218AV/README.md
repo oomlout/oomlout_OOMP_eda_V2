@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEREFPACKAGESTO218AV > ref-packages : TO218AV](#fzerefpackagesto218av--ref-packages--to218av)
+* [FZEREFPSTO218AV > ref-packages : TO218AV](#fzerefpsto218av--ref-packages--to218av)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEREFPACKAGESTO218AV > ref-packages : TO218AV
+# FZEREFPSTO218AV > ref-packages : TO218AV
 
 - ID: FOOTPRINT-eagle-eagle-default-ref-packages-TO218AV
-- Hex ID: FZEREFPACKAGESTO218AV
+- Hex ID: FZEREFPSTO218AV
 - Name: ref-packages : TO218AV
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ref-packages/TO218AV/
 - Description: ref-packages : TO218AV
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-TO218AV](http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-TO218AV)
-- Short Link: [http://oom.lt/FZEREFPACKAGESTO218AV](http://oom.lt/FZEREFPACKAGESTO218AV)
+- Short Link: [http://oom.lt/FZEREFPSTO218AV](http://oom.lt/FZEREFPSTO218AV)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|ref-packages|
 |OOMP Index|oompIndex|TO218AV|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-ref-packages-TO218AV|
-|Hex ID (short code)|hexID|FZEREFPACKAGESTO218AV|
+|Hex ID (short code)|hexID|FZEREFPSTO218AV|
 |name|name|ref-packages : TO218AV|
 ||||

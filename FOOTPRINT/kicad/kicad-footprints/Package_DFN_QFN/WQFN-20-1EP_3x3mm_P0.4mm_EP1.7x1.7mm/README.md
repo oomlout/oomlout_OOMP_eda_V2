@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-WQFN-20-1EP_3x3mm_P0.4mm_EP1.7x1.7mm
 - Hex ID: FZKDFNWQFN21EP3X3P4EP17X17
 - Name: Package_DFN_QFN : WQFN-20-1EP_3x3mm_P0.4mm_EP1.7x1.7mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/WQFN-20-1EP_3x3mm_P0.4mm_EP1.7x1.7mm/
 - Description: Package_DFN_QFN : WQFN-20-1EP_3x3mm_P0.4mm_EP1.7x1.7mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-WQFN-20-1EP_3x3mm_P0.4mm_EP1.7x1.7mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-WQFN-20-1EP_3x3mm_P0.4mm_EP1.7x1.7mm)
 - Short Link: [http://oom.lt/FZKDFNWQFN21EP3X3P4EP17X17](http://oom.lt/FZKDFNWQFN21EP3X3P4EP17X17)

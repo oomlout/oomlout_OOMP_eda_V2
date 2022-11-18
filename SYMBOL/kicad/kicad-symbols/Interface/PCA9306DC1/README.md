@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface-PCA9306DC1
 - Hex ID: SZKINTERFACEPCA936DC1
 - Name: Interface : PCA9306DC1
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface/PCA9306DC1/
 - Description: Interface : PCA9306DC1
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-PCA9306DC1](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-PCA9306DC1)
 - Short Link: [http://oom.lt/SZKINTERFACEPCA936DC1](http://oom.lt/SZKINTERFACEPCA936DC1)

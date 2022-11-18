@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Module-Arduino_Nano_Every
 - Hex ID: SZKMCUMOARDNANOEVERY
 - Name: MCU_Module : Arduino_Nano_Every
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Module/Arduino_Nano_Every/
 - Description: MCU_Module : Arduino_Nano_Every
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Module-Arduino_Nano_Every](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Module-Arduino_Nano_Every)
 - Short Link: [http://oom.lt/SZKMCUMOARDNANOEVERY](http://oom.lt/SZKMCUMOARDNANOEVERY)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-samtec-TSW-109-08-G-S
 - Hex ID: FZECONSAMTECTSW198GS
 - Name: con-samtec : TSW-109-08-G-S
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-samtec/TSW-109-08-G-S/
 - Description: con-samtec : TSW-109-08-G-S
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-samtec-TSW-109-08-G-S](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-samtec-TSW-109-08-G-S)
 - Short Link: [http://oom.lt/FZECONSAMTECTSW198GS](http://oom.lt/FZECONSAMTECTSW198GS)

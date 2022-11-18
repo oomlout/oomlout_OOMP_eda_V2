@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Coils-TRANSFORMER
 - Hex ID: FZSCOTR
 - Name: SparkFun-Coils : TRANSFORMER
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Coils/TRANSFORMER/
 - Description: SparkFun-Coils : TRANSFORMER
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Coils-TRANSFORMER](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Coils-TRANSFORMER)
 - Short Link: [http://oom.lt/FZSCOTR](http://oom.lt/FZSCOTR)

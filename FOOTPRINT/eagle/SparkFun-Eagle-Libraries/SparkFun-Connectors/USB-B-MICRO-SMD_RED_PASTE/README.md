@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-USB-B-MICRO-SMD_RED_PASTE
 - Hex ID: FZSSPARKFUNCNSUBMSMREDPASTE
 - Name: SparkFun-Connectors : USB-B-MICRO-SMD_RED_PASTE
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Connectors/USB-B-MICRO-SMD_RED_PASTE/
 - Description: SparkFun-Connectors : USB-B-MICRO-SMD_RED_PASTE
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-USB-B-MICRO-SMD_RED_PASTE](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-USB-B-MICRO-SMD_RED_PASTE)
 - Short Link: [http://oom.lt/FZSSPARKFUNCNSUBMSMREDPASTE](http://oom.lt/FZSSPARKFUNCNSUBMSMREDPASTE)

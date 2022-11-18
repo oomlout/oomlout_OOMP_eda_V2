@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEREFPACKAGESC1554X183 > ref-packages : C150-054X183](#fzerefpackagesc1554x183--ref-packages--c150-054x183)
+* [FZEREFPSC1554X183 > ref-packages : C150-054X183](#fzerefpsc1554x183--ref-packages--c150-054x183)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEREFPACKAGESC1554X183 > ref-packages : C150-054X183
+# FZEREFPSC1554X183 > ref-packages : C150-054X183
 
 - ID: FOOTPRINT-eagle-eagle-default-ref-packages-C150-054X183
-- Hex ID: FZEREFPACKAGESC1554X183
+- Hex ID: FZEREFPSC1554X183
 - Name: ref-packages : C150-054X183
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ref-packages/C150-054X183/
 - Description: ref-packages : C150-054X183
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-C150-054X183](http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-C150-054X183)
-- Short Link: [http://oom.lt/FZEREFPACKAGESC1554X183](http://oom.lt/FZEREFPACKAGESC1554X183)
+- Short Link: [http://oom.lt/FZEREFPSC1554X183](http://oom.lt/FZEREFPSC1554X183)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|ref-packages|
 |OOMP Index|oompIndex|C150-054X183|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-ref-packages-C150-054X183|
-|Hex ID (short code)|hexID|FZEREFPACKAGESC1554X183|
+|Hex ID (short code)|hexID|FZEREFPSC1554X183|
 |name|name|ref-packages : C150-054X183|
 ||||

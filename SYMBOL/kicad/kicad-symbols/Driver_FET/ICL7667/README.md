@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Driver_FET-ICL7667
 - Hex ID: SZKDRIVERFETICL7667
 - Name: Driver_FET : ICL7667
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Driver_FET/ICL7667/
 - Description: Driver_FET : ICL7667
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-ICL7667](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-ICL7667)
 - Short Link: [http://oom.lt/SZKDRIVERFETICL7667](http://oom.lt/SZKDRIVERFETICL7667)

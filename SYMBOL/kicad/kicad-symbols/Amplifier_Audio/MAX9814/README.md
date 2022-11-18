@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Audio-MAX9814
 - Hex ID: SZKAMPLIFIERAUDIOMAX9814
 - Name: Amplifier_Audio : MAX9814
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Audio/MAX9814/
 - Description: Amplifier_Audio : MAX9814
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Audio-MAX9814](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Audio-MAX9814)
 - Short Link: [http://oom.lt/SZKAMPLIFIERAUDIOMAX9814](http://oom.lt/SZKAMPLIFIERAUDIOMAX9814)

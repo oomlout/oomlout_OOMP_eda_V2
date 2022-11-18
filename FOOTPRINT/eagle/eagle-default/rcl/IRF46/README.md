@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-rcl-IRF46
 - Hex ID: FZERCLIRF46
 - Name: rcl : IRF46
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/rcl/IRF46/
 - Description: rcl : IRF46
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-IRF46](http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-IRF46)
 - Short Link: [http://oom.lt/FZERCLIRF46](http://oom.lt/FZERCLIRF46)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-power-VAC
 - Hex ID: SZKPOWERVAC
 - Name: power : VAC
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/power/VAC/
 - Description: power : VAC
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-power-VAC](http://oom.lt/SYMBOL-kicad-kicad-symbols-power-VAC)
 - Short Link: [http://oom.lt/SZKPOWERVAC](http://oom.lt/SZKPOWERVAC)

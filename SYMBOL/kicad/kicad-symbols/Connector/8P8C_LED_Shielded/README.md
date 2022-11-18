@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Connector-8P8C_LED_Shielded
 - Hex ID: SZKCN8P8CLSHED
 - Name: Connector : 8P8C_LED_Shielded
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector/8P8C_LED_Shielded/
 - Description: Connector : 8P8C_LED_Shielded
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-8P8C_LED_Shielded](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-8P8C_LED_Shielded)
 - Short Link: [http://oom.lt/SZKCN8P8CLSHED](http://oom.lt/SZKCN8P8CLSHED)

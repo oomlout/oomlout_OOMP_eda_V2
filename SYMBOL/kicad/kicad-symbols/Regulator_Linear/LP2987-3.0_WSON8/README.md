@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-LP2987-3.0_WSON8
 - Hex ID: SZKREGULATORLINEARLP29873WSON8
 - Name: Regulator_Linear : LP2987-3.0_WSON8
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LP2987-3.0_WSON8/
 - Description: Regulator_Linear : LP2987-3.0_WSON8
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LP2987-3.0_WSON8](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LP2987-3.0_WSON8)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARLP29873WSON8](http://oom.lt/SZKREGULATORLINEARLP29873WSON8)

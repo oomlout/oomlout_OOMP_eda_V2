@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-infineon-SC74_INFINEON
 - Hex ID: FZEINFINEONSC74INFINEON
 - Name: infineon : SC74_INFINEON
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/infineon/SC74_INFINEON/
 - Description: infineon : SC74_INFINEON
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-infineon-SC74_INFINEON](http://oom.lt/FOOTPRINT-eagle-eagle-default-infineon-SC74_INFINEON)
 - Short Link: [http://oom.lt/FZEINFINEONSC74INFINEON](http://oom.lt/FZEINFINEONSC74INFINEON)

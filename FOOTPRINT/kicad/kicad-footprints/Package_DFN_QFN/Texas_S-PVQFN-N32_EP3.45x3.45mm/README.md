@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Texas_S-PVQFN-N32_EP3.45x3.45mm
 - Hex ID: FZKDFNTEXASSPVQFNN32EP345X345
 - Name: Package_DFN_QFN : Texas_S-PVQFN-N32_EP3.45x3.45mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/Texas_S-PVQFN-N32_EP3.45x3.45mm/
 - Description: Package_DFN_QFN : Texas_S-PVQFN-N32_EP3.45x3.45mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Texas_S-PVQFN-N32_EP3.45x3.45mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Texas_S-PVQFN-N32_EP3.45x3.45mm)
 - Short Link: [http://oom.lt/FZKDFNTEXASSPVQFNN32EP345X345](http://oom.lt/FZKDFNTEXASSPVQFNN32EP345X345)

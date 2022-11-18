@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-I01-X-PI07-01-H07
 - Hex ID: SZOOMPKOOMPPHEADI1XPI71H7
 - Name: oomlout_OOMP_parts : HEAD-I01-X-PI07-01-H07
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/HEAD-I01-X-PI07-01-H07/
 - Description: oomlout_OOMP_parts : HEAD-I01-X-PI07-01-H07
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-I01-X-PI07-01-H07](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-I01-X-PI07-01-H07)
 - Short Link: [http://oom.lt/SZOOMPKOOMPPHEADI1XPI71H7](http://oom.lt/SZOOMPKOOMPPHEADI1XPI71H7)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-LEDS-3535-RGB-K2812-01-L352812
 - Hex ID: SZOOMPKOOMPPLS3535RGBK28121L352812
 - Name: oomlout_OOMP_parts : LEDS-3535-RGB-K2812-01-L352812
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/LEDS-3535-RGB-K2812-01-L352812/
 - Description: oomlout_OOMP_parts : LEDS-3535-RGB-K2812-01-L352812
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-LEDS-3535-RGB-K2812-01-L352812](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-LEDS-3535-RGB-K2812-01-L352812)
 - Short Link: [http://oom.lt/SZOOMPKOOMPPLS3535RGBK28121L352812](http://oom.lt/SZOOMPKOOMPPLS3535RGBK28121L352812)

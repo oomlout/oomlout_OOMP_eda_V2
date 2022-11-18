@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-RESE-0805-X-O181-01-R8O181-C25270
 - Hex ID: FZOOMPKJLCRESE85XO1811R8O181C2527
 - Name: oomlout_OOMP_JLCC_Basic : RESE-0805-X-O181-01-R8O181-C25270
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_JLCC_Basic/RESE-0805-X-O181-01-R8O181-C25270/
 - Description: oomlout_OOMP_JLCC_Basic : RESE-0805-X-O181-01-R8O181-C25270
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-RESE-0805-X-O181-01-R8O181-C25270](http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-RESE-0805-X-O181-01-R8O181-C25270)
 - Short Link: [http://oom.lt/FZOOMPKJLCRESE85XO1811R8O181C2527](http://oom.lt/FZOOMPKJLCRESE85XO1811R8O181C2527)

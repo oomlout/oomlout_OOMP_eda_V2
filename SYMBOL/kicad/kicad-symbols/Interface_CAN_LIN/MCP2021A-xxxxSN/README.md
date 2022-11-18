@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_CAN_LIN-MCP2021A-xxxxSN
 - Hex ID: SZKINTERFACECANLINMCP221AXXXXSN
 - Name: Interface_CAN_LIN : MCP2021A-xxxxSN
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_CAN_LIN/MCP2021A-xxxxSN/
 - Description: Interface_CAN_LIN : MCP2021A-xxxxSN
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_CAN_LIN-MCP2021A-xxxxSN](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_CAN_LIN-MCP2021A-xxxxSN)
 - Short Link: [http://oom.lt/SZKINTERFACECANLINMCP221AXXXXSN](http://oom.lt/SZKINTERFACECANLINMCP221AXXXXSN)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-transistor-pnp-TO126
 - Hex ID: FZETRANSISTORPNPTO126
 - Name: transistor-pnp : TO126
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/transistor-pnp/TO126/
 - Description: transistor-pnp : TO126
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-pnp-TO126](http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-pnp-TO126)
 - Short Link: [http://oom.lt/FZETRANSISTORPNPTO126](http://oom.lt/FZETRANSISTORPNPTO126)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Button_Switch_THT-SW_E-Switch_EG2219_DPDT_Angled
 - Hex ID: FZKBSWESWEG2219DPDTANGL
 - Name: Button_Switch_THT : SW_E-Switch_EG2219_DPDT_Angled
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/SW_E-Switch_EG2219_DPDT_Angled/
 - Description: Button_Switch_THT : SW_E-Switch_EG2219_DPDT_Angled
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Button_Switch_THT-SW_E-Switch_EG2219_DPDT_Angled](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Button_Switch_THT-SW_E-Switch_EG2219_DPDT_Angled)
 - Short Link: [http://oom.lt/FZKBSWESWEG2219DPDTANGL](http://oom.lt/FZKBSWESWEG2219DPDTANGL)

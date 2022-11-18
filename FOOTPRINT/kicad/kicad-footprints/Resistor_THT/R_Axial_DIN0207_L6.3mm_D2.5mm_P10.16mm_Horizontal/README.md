@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Resistor_THT-R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal
 - Hex ID: FZKRRAXIALDIN27L63D25P116H
 - Name: Resistor_THT : R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Resistor_THT/R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal/
 - Description: Resistor_THT : R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Resistor_THT-R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Resistor_THT-R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal)
 - Short Link: [http://oom.lt/FZKRRAXIALDIN27L63D25P116H](http://oom.lt/FZKRRAXIALDIN27L63D25P116H)

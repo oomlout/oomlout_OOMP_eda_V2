@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-GPS-EM-506_OUTLINE
 - Hex ID: FZSGEM56OUTLINE
 - Name: SparkFun-GPS : EM-506_OUTLINE
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-GPS/EM-506_OUTLINE/
 - Description: SparkFun-GPS : EM-506_OUTLINE
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-GPS-EM-506_OUTLINE](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-GPS-EM-506_OUTLINE)
 - Short Link: [http://oom.lt/FZSGEM56OUTLINE](http://oom.lt/FZSGEM56OUTLINE)

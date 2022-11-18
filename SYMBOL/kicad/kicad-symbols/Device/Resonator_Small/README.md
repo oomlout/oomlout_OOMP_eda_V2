@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Device-Resonator_Small
 - Hex ID: SZKDEVICERSLL
 - Name: Device : Resonator_Small
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/Resonator_Small/
 - Description: Device : Resonator_Small
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Resonator_Small](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Resonator_Small)
 - Short Link: [http://oom.lt/SZKDEVICERSLL](http://oom.lt/SZKDEVICERSLL)

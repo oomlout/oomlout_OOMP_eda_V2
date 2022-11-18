@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F3-STM32F303VCYx
 - Hex ID: SZKMCUSTSTM32F3STM32F33VCYX
 - Name: MCU_ST_STM32F3 : STM32F303VCYx
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32F3/STM32F303VCYx/
 - Description: MCU_ST_STM32F3 : STM32F303VCYx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F3-STM32F303VCYx](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F3-STM32F303VCYx)
 - Short Link: [http://oom.lt/SZKMCUSTSTM32F3STM32F33VCYX](http://oom.lt/SZKMCUSTSTM32F3STM32F33VCYX)

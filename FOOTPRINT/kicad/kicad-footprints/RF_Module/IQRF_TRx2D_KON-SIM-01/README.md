@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-RF_Module-IQRF_TRx2D_KON-SIM-01
 - Hex ID: FZKRFMOIQRFTRX2DKONSIM1
 - Name: RF_Module : IQRF_TRx2D_KON-SIM-01
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/RF_Module/IQRF_TRx2D_KON-SIM-01/
 - Description: RF_Module : IQRF_TRx2D_KON-SIM-01
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_Module-IQRF_TRx2D_KON-SIM-01](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_Module-IQRF_TRx2D_KON-SIM-01)
 - Short Link: [http://oom.lt/FZKRFMOIQRFTRX2DKONSIM1](http://oom.lt/FZKRFMOIQRFTRX2DKONSIM1)

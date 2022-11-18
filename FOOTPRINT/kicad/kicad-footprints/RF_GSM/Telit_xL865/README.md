@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-RF_GSM-Telit_xL865
 - Hex ID: FZKGSMTELITXL865
 - Name: RF_GSM : Telit_xL865
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/RF_GSM/Telit_xL865/
 - Description: RF_GSM : Telit_xL865
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_GSM-Telit_xL865](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_GSM-Telit_xL865)
 - Short Link: [http://oom.lt/FZKGSMTELITXL865](http://oom.lt/FZKGSMTELITXL865)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-trimble-1919
 - Hex ID: FZETRIMBLE1919
 - Name: trimble : 1919
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/trimble/1919/
 - Description: trimble : 1919
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-trimble-1919](http://oom.lt/FOOTPRINT-eagle-eagle-default-trimble-1919)
 - Short Link: [http://oom.lt/FZETRIMBLE1919](http://oom.lt/FZETRIMBLE1919)

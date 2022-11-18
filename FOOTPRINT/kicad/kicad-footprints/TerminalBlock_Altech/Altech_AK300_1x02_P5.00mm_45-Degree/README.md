@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-TerminalBlock_Altech-Altech_AK300_1x02_P5.00mm_45-Degree
 - Hex ID: FZKTBALTECHALTECHAK31X2P545DEGREE
 - Name: TerminalBlock_Altech : Altech_AK300_1x02_P5.00mm_45-Degree
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/TerminalBlock_Altech/Altech_AK300_1x02_P5.00mm_45-Degree/
 - Description: TerminalBlock_Altech : Altech_AK300_1x02_P5.00mm_45-Degree
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-TerminalBlock_Altech-Altech_AK300_1x02_P5.00mm_45-Degree](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-TerminalBlock_Altech-Altech_AK300_1x02_P5.00mm_45-Degree)
 - Short Link: [http://oom.lt/FZKTBALTECHALTECHAK31X2P545DEGREE](http://oom.lt/FZKTBALTECHALTECHAK31X2P545DEGREE)

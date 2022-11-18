@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEREFPACKAGESRTRIM74W > ref-packages : RTRIM74W](#fzerefpackagesrtrim74w--ref-packages--rtrim74w)
+* [FZEREFPSRTRIM74W > ref-packages : RTRIM74W](#fzerefpsrtrim74w--ref-packages--rtrim74w)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEREFPACKAGESRTRIM74W > ref-packages : RTRIM74W
+# FZEREFPSRTRIM74W > ref-packages : RTRIM74W
 
 - ID: FOOTPRINT-eagle-eagle-default-ref-packages-RTRIM74W
-- Hex ID: FZEREFPACKAGESRTRIM74W
+- Hex ID: FZEREFPSRTRIM74W
 - Name: ref-packages : RTRIM74W
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ref-packages/RTRIM74W/
 - Description: ref-packages : RTRIM74W
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-RTRIM74W](http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-RTRIM74W)
-- Short Link: [http://oom.lt/FZEREFPACKAGESRTRIM74W](http://oom.lt/FZEREFPACKAGESRTRIM74W)
+- Short Link: [http://oom.lt/FZEREFPSRTRIM74W](http://oom.lt/FZEREFPSRTRIM74W)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|ref-packages|
 |OOMP Index|oompIndex|RTRIM74W|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-ref-packages-RTRIM74W|
-|Hex ID (short code)|hexID|FZEREFPACKAGESRTRIM74W|
+|Hex ID (short code)|hexID|FZEREFPSRTRIM74W|
 |name|name|ref-packages : RTRIM74W|
 ||||

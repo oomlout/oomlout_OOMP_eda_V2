@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-E45-22
 - Hex ID: FZAE4522
 - Name: adafruit : E45-22
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/E45-22/
 - Description: adafruit : E45-22
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-E45-22](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-E45-22)
 - Short Link: [http://oom.lt/FZAE4522](http://oom.lt/FZAE4522)

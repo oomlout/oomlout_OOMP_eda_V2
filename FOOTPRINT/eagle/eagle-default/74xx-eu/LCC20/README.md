@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-74xx-eu-LCC20
 - Hex ID: FZE74XXEULCC2
 - Name: 74xx-eu : LCC20
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/74xx-eu/LCC20/
 - Description: 74xx-eu : LCC20
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-74xx-eu-LCC20](http://oom.lt/FOOTPRINT-eagle-eagle-default-74xx-eu-LCC20)
 - Short Link: [http://oom.lt/FZE74XXEULCC2](http://oom.lt/FZE74XXEULCC2)

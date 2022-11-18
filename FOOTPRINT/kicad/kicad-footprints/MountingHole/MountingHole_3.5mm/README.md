@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-MountingHole-MountingHole_3.5mm
 - Hex ID: FZKHOLHOL35
 - Name: MountingHole : MountingHole_3.5mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/MountingHole/MountingHole_3.5mm/
 - Description: MountingHole : MountingHole_3.5mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-MountingHole-MountingHole_3.5mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-MountingHole-MountingHole_3.5mm)
 - Short Link: [http://oom.lt/FZKHOLHOL35](http://oom.lt/FZKHOLHOL35)

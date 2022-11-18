@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Analog_ADC-LTC2295xUP
 - Hex ID: SZKANALOGADCLTC2295XUP
 - Name: Analog_ADC : LTC2295xUP
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog_ADC/LTC2295xUP/
 - Description: Analog_ADC : LTC2295xUP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-LTC2295xUP](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-LTC2295xUP)
 - Short Link: [http://oom.lt/SZKANALOGADCLTC2295XUP](http://oom.lt/SZKANALOGADCLTC2295XUP)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-infineon-TO252-5-11
 - Hex ID: FZEINFINEONTO252511
 - Name: infineon : TO252-5-11
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/infineon/TO252-5-11/
 - Description: infineon : TO252-5-11
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-infineon-TO252-5-11](http://oom.lt/FOOTPRINT-eagle-eagle-default-infineon-TO252-5-11)
 - Short Link: [http://oom.lt/FZEINFINEONTO252511](http://oom.lt/FZEINFINEONTO252511)

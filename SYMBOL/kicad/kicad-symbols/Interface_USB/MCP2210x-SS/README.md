@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_USB-MCP2210x-SS
 - Hex ID: SZKINTERFACEUMCP221XSS
 - Name: Interface_USB : MCP2210x-SS
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_USB/MCP2210x-SS/
 - Description: Interface_USB : MCP2210x-SS
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_USB-MCP2210x-SS](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_USB-MCP2210x-SS)
 - Short Link: [http://oom.lt/SZKINTERFACEUMCP221XSS](http://oom.lt/SZKINTERFACEUMCP221XSS)

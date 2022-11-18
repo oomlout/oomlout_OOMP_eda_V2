@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-US2DA
 - Hex ID: SZKDIODEUS2DA
 - Name: Diode : US2DA
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/US2DA/
 - Description: Diode : US2DA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-US2DA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-US2DA)
 - Short Link: [http://oom.lt/SZKDIODEUS2DA](http://oom.lt/SZKDIODEUS2DA)

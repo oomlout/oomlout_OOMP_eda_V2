@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-pc-IBM16BIT
 - Hex ID: FZECONPCIBM16BIT
 - Name: con-pc : IBM16BIT
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-pc/IBM16BIT/
 - Description: con-pc : IBM16BIT
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-pc-IBM16BIT](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-pc-IBM16BIT)
 - Short Link: [http://oom.lt/FZECONPCIBM16BIT](http://oom.lt/FZECONPCIBM16BIT)

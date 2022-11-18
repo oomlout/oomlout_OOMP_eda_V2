@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-1X01NS_KIT
 - Hex ID: FZSSPARKFUNCNS1X1NSK
 - Name: SparkFun-Connectors : 1X01NS_KIT
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Connectors/1X01NS_KIT/
 - Description: SparkFun-Connectors : 1X01NS_KIT
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-1X01NS_KIT](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-1X01NS_KIT)
 - Short Link: [http://oom.lt/FZSSPARKFUNCNS1X1NSK](http://oom.lt/FZSSPARKFUNCNS1X1NSK)

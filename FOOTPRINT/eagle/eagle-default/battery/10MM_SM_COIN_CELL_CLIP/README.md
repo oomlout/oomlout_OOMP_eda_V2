@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZEBAT1SMCOINCELLCLIP > battery : 10MM_SM_COIN_CELL_CLIP](#fzebat1smcoincellclip--battery--10mm_sm_coin_cell_clip)
+* [FZEBAT1SMCOINCELLCL > battery : 10MM_SM_COIN_CELL_CLIP](#fzebat1smcoincellcl--battery--10mm_sm_coin_cell_clip)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZEBAT1SMCOINCELLCLIP > battery : 10MM_SM_COIN_CELL_CLIP
+# FZEBAT1SMCOINCELLCL > battery : 10MM_SM_COIN_CELL_CLIP
 
 - ID: FOOTPRINT-eagle-eagle-default-battery-10MM_SM_COIN_CELL_CLIP
-- Hex ID: FZEBAT1SMCOINCELLCLIP
+- Hex ID: FZEBAT1SMCOINCELLCL
 - Name: battery : 10MM_SM_COIN_CELL_CLIP
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/battery/10MM_SM_COIN_CELL_CLIP/
 - Description: battery : 10MM_SM_COIN_CELL_CLIP
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-battery-10MM_SM_COIN_CELL_CLIP](http://oom.lt/FOOTPRINT-eagle-eagle-default-battery-10MM_SM_COIN_CELL_CLIP)
-- Short Link: [http://oom.lt/FZEBAT1SMCOINCELLCLIP](http://oom.lt/FZEBAT1SMCOINCELLCLIP)
+- Short Link: [http://oom.lt/FZEBAT1SMCOINCELLCL](http://oom.lt/FZEBAT1SMCOINCELLCL)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|battery|
 |OOMP Index|oompIndex|10MM_SM_COIN_CELL_CLIP|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-battery-10MM_SM_COIN_CELL_CLIP|
-|Hex ID (short code)|hexID|FZEBAT1SMCOINCELLCLIP|
+|Hex ID (short code)|hexID|FZEBAT1SMCOINCELLCL|
 |name|name|battery : 10MM_SM_COIN_CELL_CLIP|
 ||||
 

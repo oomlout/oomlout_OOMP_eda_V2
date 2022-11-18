@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-lumberg-MSFW9
 - Hex ID: FZECONLUMBERGMSFW9
 - Name: con-lumberg : MSFW9
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-lumberg/MSFW9/
 - Description: con-lumberg : MSFW9
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-lumberg-MSFW9](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-lumberg-MSFW9)
 - Short Link: [http://oom.lt/FZECONLUMBERGMSFW9](http://oom.lt/FZECONLUMBERGMSFW9)

@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKJSOLDERJ3P13BRIDGED12PAD1X15 > Jumper : SolderJumper-3_P1.3mm_Bridged12_Pad1.0x1.5mm](#fzkjsolderj3p13bridged12pad1x15--jumper--solderjumper-3_p13mm_bridged12_pad10x15mm)
+* [FZKJSOLDERJ3P13BRIDGED12P1X15 > Jumper : SolderJumper-3_P1.3mm_Bridged12_Pad1.0x1.5mm](#fzkjsolderj3p13bridged12p1x15--jumper--solderjumper-3_p13mm_bridged12_pad10x15mm)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKJSOLDERJ3P13BRIDGED12PAD1X15 > Jumper : SolderJumper-3_P1.3mm_Bridged12_Pad1.0x1.5mm
+# FZKJSOLDERJ3P13BRIDGED12P1X15 > Jumper : SolderJumper-3_P1.3mm_Bridged12_Pad1.0x1.5mm
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Jumper-SolderJumper-3_P1.3mm_Bridged12_Pad1.0x1.5mm
-- Hex ID: FZKJSOLDERJ3P13BRIDGED12PAD1X15
+- Hex ID: FZKJSOLDERJ3P13BRIDGED12P1X15
 - Name: Jumper : SolderJumper-3_P1.3mm_Bridged12_Pad1.0x1.5mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Jumper/SolderJumper-3_P1.3mm_Bridged12_Pad1.0x1.5mm/
 - Description: Jumper : SolderJumper-3_P1.3mm_Bridged12_Pad1.0x1.5mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Jumper-SolderJumper-3_P1.3mm_Bridged12_Pad1.0x1.5mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Jumper-SolderJumper-3_P1.3mm_Bridged12_Pad1.0x1.5mm)
-- Short Link: [http://oom.lt/FZKJSOLDERJ3P13BRIDGED12PAD1X15](http://oom.lt/FZKJSOLDERJ3P13BRIDGED12PAD1X15)
+- Short Link: [http://oom.lt/FZKJSOLDERJ3P13BRIDGED12P1X15](http://oom.lt/FZKJSOLDERJ3P13BRIDGED12P1X15)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Jumper|
 |OOMP Index|oompIndex|SolderJumper-3_P1.3mm_Bridged12_Pad1.0x1.5mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Jumper-SolderJumper-3_P1.3mm_Bridged12_Pad1.0x1.5mm|
-|Hex ID (short code)|hexID|FZKJSOLDERJ3P13BRIDGED12PAD1X15|
+|Hex ID (short code)|hexID|FZKJSOLDERJ3P13BRIDGED12P1X15|
 |name|name|Jumper : SolderJumper-3_P1.3mm_Bridged12_Pad1.0x1.5mm|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'SolderJumper-3_P1.3mm_Bridged12_Pad1.0x1.5mm'</td><td> 'description'</td></tr><tr><td> 'SMD Solder 3-pad Jumper</td><td> 1x1.5mm Pads</td><td> 0.3mm gap</td><td> pads 1-2 bridged with 1 copper strip'</td><td> 'tags'</td></tr><tr><td> 'net tie solder jumper bridged'</td><td> 'attributeType'</td></tr><tr><td> None</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

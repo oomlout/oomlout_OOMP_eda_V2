@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_3220_8050Metric
 - Hex ID: FZKDD32285VA
 - Name: Diode_SMD : D_3220_8050Metric
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Diode_SMD/D_3220_8050Metric/
 - Description: Diode_SMD : D_3220_8050Metric
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_3220_8050Metric](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_3220_8050Metric)
 - Short Link: [http://oom.lt/FZKDD32285VA](http://oom.lt/FZKDD32285VA)

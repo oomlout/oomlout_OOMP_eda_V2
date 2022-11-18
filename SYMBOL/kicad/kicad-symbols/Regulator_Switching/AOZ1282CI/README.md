@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-AOZ1282CI
 - Hex ID: SZKREGULATORSWINGAOZ1282CI
 - Name: Regulator_Switching : AOZ1282CI
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/AOZ1282CI/
 - Description: Regulator_Switching : AOZ1282CI
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-AOZ1282CI](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-AOZ1282CI)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGAOZ1282CI](http://oom.lt/SZKREGULATORSWINGAOZ1282CI)

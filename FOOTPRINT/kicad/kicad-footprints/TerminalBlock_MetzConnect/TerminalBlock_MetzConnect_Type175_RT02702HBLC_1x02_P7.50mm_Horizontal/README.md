@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKTBMETZCONNECTTBMETZCONNECTTYPE175RT272HBLC1X2P75H > TerminalBlock_MetzConnect : TerminalBlock_MetzConnect_Type175_RT02702HBLC_1x02_P7.50mm_Horizontal](#fzktbmetzconnecttbmetzconnecttype175rt272hblc1x2p75h--terminalblock_metzconnect--terminalblock_metzconnect_type175_rt02702hblc_1x02_p750mm_horizontal)
+* [FZKTBMETZCECTTBMETZCECTT175RT272HBLC1X2P75H > TerminalBlock_MetzConnect : TerminalBlock_MetzConnect_Type175_RT02702HBLC_1x02_P7.50mm_Horizontal](#fzktbmetzcecttbmetzcectt175rt272hblc1x2p75h--terminalblock_metzconnect--terminalblock_metzconnect_type175_rt02702hblc_1x02_p750mm_horizontal)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKTBMETZCONNECTTBMETZCONNECTTYPE175RT272HBLC1X2P75H > TerminalBlock_MetzConnect : TerminalBlock_MetzConnect_Type175_RT02702HBLC_1x02_P7.50mm_Horizontal
+# FZKTBMETZCECTTBMETZCECTT175RT272HBLC1X2P75H > TerminalBlock_MetzConnect : TerminalBlock_MetzConnect_Type175_RT02702HBLC_1x02_P7.50mm_Horizontal
 
 - ID: FOOTPRINT-kicad-kicad-footprints-TerminalBlock_MetzConnect-TerminalBlock_MetzConnect_Type175_RT02702HBLC_1x02_P7.50mm_Horizontal
-- Hex ID: FZKTBMETZCONNECTTBMETZCONNECTTYPE175RT272HBLC1X2P75H
+- Hex ID: FZKTBMETZCECTTBMETZCECTT175RT272HBLC1X2P75H
 - Name: TerminalBlock_MetzConnect : TerminalBlock_MetzConnect_Type175_RT02702HBLC_1x02_P7.50mm_Horizontal
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/TerminalBlock_MetzConnect/TerminalBlock_MetzConnect_Type175_RT02702HBLC_1x02_P7.50mm_Horizontal/
 - Description: TerminalBlock_MetzConnect : TerminalBlock_MetzConnect_Type175_RT02702HBLC_1x02_P7.50mm_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-TerminalBlock_MetzConnect-TerminalBlock_MetzConnect_Type175_RT02702HBLC_1x02_P7.50mm_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-TerminalBlock_MetzConnect-TerminalBlock_MetzConnect_Type175_RT02702HBLC_1x02_P7.50mm_Horizontal)
-- Short Link: [http://oom.lt/FZKTBMETZCONNECTTBMETZCONNECTTYPE175RT272HBLC1X2P75H](http://oom.lt/FZKTBMETZCONNECTTBMETZCONNECTTYPE175RT272HBLC1X2P75H)
+- Short Link: [http://oom.lt/FZKTBMETZCECTTBMETZCECTT175RT272HBLC1X2P75H](http://oom.lt/FZKTBMETZCECTTBMETZCECTT175RT272HBLC1X2P75H)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|TerminalBlock_MetzConnect|
 |OOMP Index|oompIndex|TerminalBlock_MetzConnect_Type175_RT02702HBLC_1x02_P7.50mm_Horizontal|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-TerminalBlock_MetzConnect-TerminalBlock_MetzConnect_Type175_RT02702HBLC_1x02_P7.50mm_Horizontal|
-|Hex ID (short code)|hexID|FZKTBMETZCONNECTTBMETZCONNECTTYPE175RT272HBLC1X2P75H|
+|Hex ID (short code)|hexID|FZKTBMETZCECTTBMETZCECTT175RT272HBLC1X2P75H|
 |name|name|TerminalBlock_MetzConnect : TerminalBlock_MetzConnect_Type175_RT02702HBLC_1x02_P7.50mm_Horizontal|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'TerminalBlock_MetzConnect_Type175_RT02702HBLC_1x02_P7.50mm_Horizontal'</td><td> 'description'</td></tr><tr><td> 'terminal block Metz Connect Type175_RT02702HBLC</td><td> 2 pins</td><td> pitch 7.5mm</td><td> size 15x11mm^2</td><td> drill diamater 1.4mm</td><td> pad diameter 2.6mm</td><td> see http</td></tr><tr><td>//www.metz-connect.com/de/system/files/productfiles/Datenblatt_311751_RT027xxHBLC_OFF-022814U.pdf</td><td> script-generated using https</td></tr><tr><td>//github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_MetzConnect'</td><td> 'tags'</td></tr><tr><td> 'THT terminal block Metz Connect Type175_RT02702HBLC pitch 7.5mm size 15x11mm^2 drill 1.4mm pad 2.6mm'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/TerminalBlock_MetzConnect.3dshapes/TerminalBlock_MetzConnect_Type175_RT02702HBLC_1x02_P7.50mm_Horizontal.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

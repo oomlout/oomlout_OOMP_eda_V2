@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-analog-devices-PLCC44
 - Hex ID: FZEANALOGDEVICESPLCC44
 - Name: analog-devices : PLCC44
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/analog-devices/PLCC44/
 - Description: analog-devices : PLCC44
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-analog-devices-PLCC44](http://oom.lt/FOOTPRINT-eagle-eagle-default-analog-devices-PLCC44)
 - Short Link: [http://oom.lt/FZEANALOGDEVICESPLCC44](http://oom.lt/FZEANALOGDEVICESPLCC44)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-diode-SOT89-R
 - Hex ID: FZEDIODESOT89R
 - Name: diode : SOT89-R
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/diode/SOT89-R/
 - Description: diode : SOT89-R
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-diode-SOT89-R](http://oom.lt/FOOTPRINT-eagle-eagle-default-diode-SOT89-R)
 - Short Link: [http://oom.lt/FZEDIODESOT89R](http://oom.lt/FZEDIODESOT89R)

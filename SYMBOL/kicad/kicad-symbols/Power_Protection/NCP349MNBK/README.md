@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Power_Protection-NCP349MNBK
 - Hex ID: SZKPOWERPROTECTIONNCP349MNBK
 - Name: Power_Protection : NCP349MNBK
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Power_Protection/NCP349MNBK/
 - Description: Power_Protection : NCP349MNBK
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Protection-NCP349MNBK](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Protection-NCP349MNBK)
 - Short Link: [http://oom.lt/SZKPOWERPROTECTIONNCP349MNBK](http://oom.lt/SZKPOWERPROTECTIONNCP349MNBK)

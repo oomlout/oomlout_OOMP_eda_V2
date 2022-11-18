@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-micro-philips-PLCC44S
 - Hex ID: FZEMPHILIPSPLCC44S
 - Name: micro-philips : PLCC44S
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/micro-philips/PLCC44S/
 - Description: micro-philips : PLCC44S
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-philips-PLCC44S](http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-philips-PLCC44S)
 - Short Link: [http://oom.lt/FZEMPHILIPSPLCC44S](http://oom.lt/FZEMPHILIPSPLCC44S)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_CSP-ST_WLCSP-25_Die425
 - Hex ID: FZKCSPSTWLCSP25DIE425
 - Name: Package_CSP : ST_WLCSP-25_Die425
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_CSP/ST_WLCSP-25_Die425/
 - Description: Package_CSP : ST_WLCSP-25_Die425
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_CSP-ST_WLCSP-25_Die425](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_CSP-ST_WLCSP-25_Die425)
 - Short Link: [http://oom.lt/FZKCSPSTWLCSP25DIE425](http://oom.lt/FZKCSPSTWLCSP25DIE425)

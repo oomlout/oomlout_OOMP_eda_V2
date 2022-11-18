@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-FPGA_Xilinx_Virtex6-XC6VLX75T-FF484
 - Hex ID: SZKFPGAXILINXVIRTEX6XC6VLX75TFF484
 - Name: FPGA_Xilinx_Virtex6 : XC6VLX75T-FF484
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/FPGA_Xilinx_Virtex6/XC6VLX75T-FF484/
 - Description: FPGA_Xilinx_Virtex6 : XC6VLX75T-FF484
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-FPGA_Xilinx_Virtex6-XC6VLX75T-FF484](http://oom.lt/SYMBOL-kicad-kicad-symbols-FPGA_Xilinx_Virtex6-XC6VLX75T-FF484)
 - Short Link: [http://oom.lt/SZKFPGAXILINXVIRTEX6XC6VLX75TFF484](http://oom.lt/SZKFPGAXILINXVIRTEX6XC6VLX75TFF484)

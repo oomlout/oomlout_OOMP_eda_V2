@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-MCUU-DI14-84-ATTINY-01-MCAT84DI14
 - Hex ID: SZOOMPKOOMPPMCUUDI1484ATTINY1MCAT84DI14
 - Name: oomlout_OOMP_parts : MCUU-DI14-84-ATTINY-01-MCAT84DI14
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/MCUU-DI14-84-ATTINY-01-MCAT84DI14/
 - Description: oomlout_OOMP_parts : MCUU-DI14-84-ATTINY-01-MCAT84DI14
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-MCUU-DI14-84-ATTINY-01-MCAT84DI14](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-MCUU-DI14-84-ATTINY-01-MCAT84DI14)
 - Short Link: [http://oom.lt/SZOOMPKOOMPPMCUUDI1484ATTINY1MCAT84DI14](http://oom.lt/SZOOMPKOOMPPMCUUDI1484ATTINY1MCAT84DI14)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Switch_Toggle_ATE1D-2M3-10-Z
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSSWTOGGLEATE1D2M31Z
 - Name: digikey-footprints : Switch_Toggle_ATE1D-2M3-10-Z
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Switch_Toggle_ATE1D-2M3-10-Z/
 - Description: digikey-footprints : Switch_Toggle_ATE1D-2M3-10-Z
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Switch_Toggle_ATE1D-2M3-10-Z](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Switch_Toggle_ATE1D-2M3-10-Z)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSSWTOGGLEATE1D2M31Z](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSSWTOGGLEATE1D2M31Z)

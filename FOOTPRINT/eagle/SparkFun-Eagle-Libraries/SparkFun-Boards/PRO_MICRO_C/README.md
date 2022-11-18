@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Boards-PRO_MICRO_C
 - Hex ID: FZSBOPROMC
 - Name: SparkFun-Boards : PRO_MICRO_C
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Boards/PRO_MICRO_C/
 - Description: SparkFun-Boards : PRO_MICRO_C
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Boards-PRO_MICRO_C](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Boards-PRO_MICRO_C)
 - Short Link: [http://oom.lt/FZSBOPROMC](http://oom.lt/FZSBOPROMC)

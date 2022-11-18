@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-55D-X-PF22-V50-CCP022
 - Hex ID: SZOOMPKOOMPPCAPC55DXPF22V5CCP22
 - Name: oomlout_OOMP_parts : CAPC-55D-X-PF22-V50-CCP022
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/CAPC-55D-X-PF22-V50-CCP022/
 - Description: oomlout_OOMP_parts : CAPC-55D-X-PF22-V50-CCP022
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-55D-X-PF22-V50-CCP022](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-55D-X-PF22-V50-CCP022)
 - Short Link: [http://oom.lt/SZOOMPKOOMPPCAPC55DXPF22V5CCP22](http://oom.lt/SZOOMPKOOMPPCAPC55DXPF22V5CCP22)

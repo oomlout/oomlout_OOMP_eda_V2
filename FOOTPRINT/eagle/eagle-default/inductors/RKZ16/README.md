@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEINDUCTORSRKZ16 > inductors : RKZ16](#fzeinductorsrkz16--inductors--rkz16)
+* [FZEINSRKZ16 > inductors : RKZ16](#fzeinsrkz16--inductors--rkz16)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEINDUCTORSRKZ16 > inductors : RKZ16
+# FZEINSRKZ16 > inductors : RKZ16
 
 - ID: FOOTPRINT-eagle-eagle-default-inductors-RKZ16
-- Hex ID: FZEINDUCTORSRKZ16
+- Hex ID: FZEINSRKZ16
 - Name: inductors : RKZ16
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/inductors/RKZ16/
 - Description: inductors : RKZ16
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-inductors-RKZ16](http://oom.lt/FOOTPRINT-eagle-eagle-default-inductors-RKZ16)
-- Short Link: [http://oom.lt/FZEINDUCTORSRKZ16](http://oom.lt/FZEINDUCTORSRKZ16)
+- Short Link: [http://oom.lt/FZEINSRKZ16](http://oom.lt/FZEINSRKZ16)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|inductors|
 |OOMP Index|oompIndex|RKZ16|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-inductors-RKZ16|
-|Hex ID (short code)|hexID|FZEINDUCTORSRKZ16|
+|Hex ID (short code)|hexID|FZEINSRKZ16|
 |name|name|inductors : RKZ16|
 ||||

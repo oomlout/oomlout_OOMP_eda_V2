@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-samtec-TSW-119-08-G-T-RA
 - Hex ID: FZECONSAMTECTSW1198GTRA
 - Name: con-samtec : TSW-119-08-G-T-RA
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-samtec/TSW-119-08-G-T-RA/
 - Description: con-samtec : TSW-119-08-G-T-RA
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-samtec-TSW-119-08-G-T-RA](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-samtec-TSW-119-08-G-T-RA)
 - Short Link: [http://oom.lt/FZECONSAMTECTSW1198GTRA](http://oom.lt/FZECONSAMTECTSW1198GTRA)

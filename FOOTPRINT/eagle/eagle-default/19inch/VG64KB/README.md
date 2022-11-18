@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-19inch-VG64KB
 - Hex ID: FZE19INCHVG64KB
 - Name: 19inch : VG64KB
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/19inch/VG64KB/
 - Description: 19inch : VG64KB
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-19inch-VG64KB](http://oom.lt/FOOTPRINT-eagle-eagle-default-19inch-VG64KB)
 - Short Link: [http://oom.lt/FZE19INCHVG64KB](http://oom.lt/FZE19INCHVG64KB)

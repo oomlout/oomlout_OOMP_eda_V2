@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_NXP_S08-MC9S08LG32J0xLK
 - Hex ID: SZKMCUNXPS8MC9S8LG32JXLK
 - Name: MCU_NXP_S08 : MC9S08LG32J0xLK
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_NXP_S08/MC9S08LG32J0xLK/
 - Description: MCU_NXP_S08 : MC9S08LG32J0xLK
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_NXP_S08-MC9S08LG32J0xLK](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_NXP_S08-MC9S08LG32J0xLK)
 - Short Link: [http://oom.lt/SZKMCUNXPS8MC9S8LG32JXLK](http://oom.lt/SZKMCUNXPS8MC9S8LG32JXLK)

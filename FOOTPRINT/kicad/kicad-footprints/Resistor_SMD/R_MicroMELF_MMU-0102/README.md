@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_MicroMELF_MMU-0102
 - Hex ID: FZKRRELFU12
 - Name: Resistor_SMD : R_MicroMELF_MMU-0102
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_MicroMELF_MMU-0102/
 - Description: Resistor_SMD : R_MicroMELF_MMU-0102
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_MicroMELF_MMU-0102](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_MicroMELF_MMU-0102)
 - Short Link: [http://oom.lt/FZKRRELFU12](http://oom.lt/FZKRRELFU12)

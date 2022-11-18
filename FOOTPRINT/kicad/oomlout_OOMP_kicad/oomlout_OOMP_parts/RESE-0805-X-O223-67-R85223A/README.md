@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0805-X-O223-67-R85223A
 - Hex ID: FZOOMPKOOMPPRESE85XO22367R85223A
 - Name: oomlout_OOMP_parts : RESE-0805-X-O223-67-R85223A
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/RESE-0805-X-O223-67-R85223A/
 - Description: oomlout_OOMP_parts : RESE-0805-X-O223-67-R85223A
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0805-X-O223-67-R85223A](http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0805-X-O223-67-R85223A)
 - Short Link: [http://oom.lt/FZOOMPKOOMPPRESE85XO22367R85223A](http://oom.lt/FZOOMPKOOMPPRESE85XO22367R85223A)

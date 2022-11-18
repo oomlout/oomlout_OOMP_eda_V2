@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Symbol-OSHW-Symbol_8.9x8mm_Copper
 - Hex ID: FZKSZOSHWSY89X8C
 - Name: Symbol : OSHW-Symbol_8.9x8mm_Copper
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Symbol/OSHW-Symbol_8.9x8mm_Copper/
 - Description: Symbol : OSHW-Symbol_8.9x8mm_Copper
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Symbol-OSHW-Symbol_8.9x8mm_Copper](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Symbol-OSHW-Symbol_8.9x8mm_Copper)
 - Short Link: [http://oom.lt/FZKSZOSHWSY89X8C](http://oom.lt/FZKSZOSHWSY89X8C)

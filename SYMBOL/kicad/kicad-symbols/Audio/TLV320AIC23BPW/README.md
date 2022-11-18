@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Audio-TLV320AIC23BPW
 - Hex ID: SZKAUDIOTLV32AIC23BPW
 - Name: Audio : TLV320AIC23BPW
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Audio/TLV320AIC23BPW/
 - Description: Audio : TLV320AIC23BPW
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Audio-TLV320AIC23BPW](http://oom.lt/SYMBOL-kicad-kicad-symbols-Audio-TLV320AIC23BPW)
 - Short Link: [http://oom.lt/SZKAUDIOTLV32AIC23BPW](http://oom.lt/SZKAUDIOTLV32AIC23BPW)

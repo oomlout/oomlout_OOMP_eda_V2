@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Memory_NVRAM-MB85RS256B
 - Hex ID: SZKMEMORYNVRAMMB85RS256B
 - Name: Memory_NVRAM : MB85RS256B
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Memory_NVRAM/MB85RS256B/
 - Description: Memory_NVRAM : MB85RS256B
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_NVRAM-MB85RS256B](http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_NVRAM-MB85RS256B)
 - Short Link: [http://oom.lt/SZKMEMORYNVRAMMB85RS256B](http://oom.lt/SZKMEMORYNVRAMMB85RS256B)

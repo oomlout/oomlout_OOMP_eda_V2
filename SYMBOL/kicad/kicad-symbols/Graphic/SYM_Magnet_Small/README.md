@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Graphic-SYM_Magnet_Small
 - Hex ID: SZKGRAPHICSYMMAGNETSLL
 - Name: Graphic : SYM_Magnet_Small
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Graphic/SYM_Magnet_Small/
 - Description: Graphic : SYM_Magnet_Small
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Graphic-SYM_Magnet_Small](http://oom.lt/SYMBOL-kicad-kicad-symbols-Graphic-SYM_Magnet_Small)
 - Short Link: [http://oom.lt/SZKGRAPHICSYMMAGNETSLL](http://oom.lt/SZKGRAPHICSYMMAGNETSLL)

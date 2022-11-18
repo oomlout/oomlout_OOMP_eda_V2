@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Transformer_THT-Transformer_CHK_EI54-16VA_Neutral
 - Hex ID: FZKTRTRCHKEI5416VANEUTRAL
 - Name: Transformer_THT : Transformer_CHK_EI54-16VA_Neutral
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Transformer_THT/Transformer_CHK_EI54-16VA_Neutral/
 - Description: Transformer_THT : Transformer_CHK_EI54-16VA_Neutral
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Transformer_THT-Transformer_CHK_EI54-16VA_Neutral](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Transformer_THT-Transformer_CHK_EI54-16VA_Neutral)
 - Short Link: [http://oom.lt/FZKTRTRCHKEI5416VANEUTRAL](http://oom.lt/FZKTRTRCHKEI5416VANEUTRAL)

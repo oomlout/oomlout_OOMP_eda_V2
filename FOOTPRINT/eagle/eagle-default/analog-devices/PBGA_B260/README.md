@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-analog-devices-PBGA_B260
 - Hex ID: FZEANALOGDEVICESPBGAB26
 - Name: analog-devices : PBGA_B260
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/analog-devices/PBGA_B260/
 - Description: analog-devices : PBGA_B260
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-analog-devices-PBGA_B260](http://oom.lt/FOOTPRINT-eagle-eagle-default-analog-devices-PBGA_B260)
 - Short Link: [http://oom.lt/FZEANALOGDEVICESPBGAB26](http://oom.lt/FZEANALOGDEVICESPBGAB26)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_USB-FT245BM
 - Hex ID: SZKINTERFACEUFT245BM
 - Name: Interface_USB : FT245BM
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_USB/FT245BM/
 - Description: Interface_USB : FT245BM
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_USB-FT245BM](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_USB-FT245BM)
 - Short Link: [http://oom.lt/SZKINTERFACEUFT245BM](http://oom.lt/SZKINTERFACEUFT245BM)

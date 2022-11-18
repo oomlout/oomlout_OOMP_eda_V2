@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-RESE-0603-X-O302-01-R6O302-C4211
 - Hex ID: FZOOMPKJLCRESE63XO321R6O32C4211
 - Name: oomlout_OOMP_JLCC_Basic : RESE-0603-X-O302-01-R6O302-C4211
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_JLCC_Basic/RESE-0603-X-O302-01-R6O302-C4211/
 - Description: oomlout_OOMP_JLCC_Basic : RESE-0603-X-O302-01-R6O302-C4211
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-RESE-0603-X-O302-01-R6O302-C4211](http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-RESE-0603-X-O302-01-R6O302-C4211)
 - Short Link: [http://oom.lt/FZOOMPKJLCRESE63XO321R6O32C4211](http://oom.lt/FZOOMPKJLCRESE63XO321R6O32C4211)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-motorola-sensor-driver-SOICW32
 - Hex ID: FZEMOTOROLASENDRIVERSOICW32
 - Name: motorola-sensor-driver : SOICW32
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/motorola-sensor-driver/SOICW32/
 - Description: motorola-sensor-driver : SOICW32
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-motorola-sensor-driver-SOICW32](http://oom.lt/FOOTPRINT-eagle-eagle-default-motorola-sensor-driver-SOICW32)
 - Short Link: [http://oom.lt/FZEMOTOROLASENDRIVERSOICW32](http://oom.lt/FZEMOTOROLASENDRIVERSOICW32)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-QFN-48
 - Hex ID: FZSRFQFN48
 - Name: SparkFun-RF : QFN-48
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-RF/QFN-48/
 - Description: SparkFun-RF : QFN-48
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-QFN-48](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-QFN-48)
 - Short Link: [http://oom.lt/FZSRFQFN48](http://oom.lt/FZSRFQFN48)

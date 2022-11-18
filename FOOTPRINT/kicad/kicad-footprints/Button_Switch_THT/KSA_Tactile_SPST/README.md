@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Button_Switch_THT-KSA_Tactile_SPST
 - Hex ID: FZKBKSATSPST
 - Name: Button_Switch_THT : KSA_Tactile_SPST
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/KSA_Tactile_SPST/
 - Description: Button_Switch_THT : KSA_Tactile_SPST
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Button_Switch_THT-KSA_Tactile_SPST](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Button_Switch_THT-KSA_Tactile_SPST)
 - Short Link: [http://oom.lt/FZKBKSATSPST](http://oom.lt/FZKBKSATSPST)

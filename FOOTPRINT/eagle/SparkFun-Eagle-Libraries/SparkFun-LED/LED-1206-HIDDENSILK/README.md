@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-LED-LED-1206-HIDDENSILK
 - Hex ID: FZSLL126HIDDENSILK
 - Name: SparkFun-LED : LED-1206-HIDDENSILK
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-LED/LED-1206-HIDDENSILK/
 - Description: SparkFun-LED : LED-1206-HIDDENSILK
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-LED-LED-1206-HIDDENSILK](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-LED-LED-1206-HIDDENSILK)
 - Short Link: [http://oom.lt/FZSLL126HIDDENSILK](http://oom.lt/FZSLL126HIDDENSILK)

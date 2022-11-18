@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Boards-MOJO_V3
 - Hex ID: FZSBOMOJOV3
 - Name: SparkFun-Boards : MOJO_V3
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Boards/MOJO_V3/
 - Description: SparkFun-Boards : MOJO_V3
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Boards-MOJO_V3](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Boards-MOJO_V3)
 - Short Link: [http://oom.lt/FZSBOMOJOV3](http://oom.lt/FZSBOMOJOV3)

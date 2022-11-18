@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-TerminalBlock_RND-TerminalBlock_RND_205-00280_1x06_P5.00mm_Vertical
 - Hex ID: FZKTBRNDTBRND25281X6P5F
 - Name: TerminalBlock_RND : TerminalBlock_RND_205-00280_1x06_P5.00mm_Vertical
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/TerminalBlock_RND/TerminalBlock_RND_205-00280_1x06_P5.00mm_Vertical/
 - Description: TerminalBlock_RND : TerminalBlock_RND_205-00280_1x06_P5.00mm_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-TerminalBlock_RND-TerminalBlock_RND_205-00280_1x06_P5.00mm_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-TerminalBlock_RND-TerminalBlock_RND_205-00280_1x06_P5.00mm_Vertical)
 - Short Link: [http://oom.lt/FZKTBRNDTBRND25281X6P5F](http://oom.lt/FZKTBRNDTBRND25281X6P5F)

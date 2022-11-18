@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEREFPACKAGESZDIO125 > ref-packages : ZDIO12.5](#fzerefpackageszdio125--ref-packages--zdio125)
+* [FZEREFPSZDIO125 > ref-packages : ZDIO12.5](#fzerefpszdio125--ref-packages--zdio125)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEREFPACKAGESZDIO125 > ref-packages : ZDIO12.5
+# FZEREFPSZDIO125 > ref-packages : ZDIO12.5
 
 - ID: FOOTPRINT-eagle-eagle-default-ref-packages-ZDIO12.5
-- Hex ID: FZEREFPACKAGESZDIO125
+- Hex ID: FZEREFPSZDIO125
 - Name: ref-packages : ZDIO12.5
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ref-packages/ZDIO12.5/
 - Description: ref-packages : ZDIO12.5
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-ZDIO12.5](http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-ZDIO12.5)
-- Short Link: [http://oom.lt/FZEREFPACKAGESZDIO125](http://oom.lt/FZEREFPACKAGESZDIO125)
+- Short Link: [http://oom.lt/FZEREFPSZDIO125](http://oom.lt/FZEREFPSZDIO125)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|ref-packages|
 |OOMP Index|oompIndex|ZDIO12.5|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-ref-packages-ZDIO12.5|
-|Hex ID (short code)|hexID|FZEREFPACKAGESZDIO125|
+|Hex ID (short code)|hexID|FZEREFPSZDIO125|
 |name|name|ref-packages : ZDIO12.5|
 ||||

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Display_7Segment-7SegmentLED_LTS6760_LTS6780
 - Hex ID: FZKDI7S7SLLTS676LTS678
 - Name: Display_7Segment : 7SegmentLED_LTS6760_LTS6780
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Display_7Segment/7SegmentLED_LTS6760_LTS6780/
 - Description: Display_7Segment : 7SegmentLED_LTS6760_LTS6780
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Display_7Segment-7SegmentLED_LTS6760_LTS6780](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Display_7Segment-7SegmentLED_LTS6760_LTS6780)
 - Short Link: [http://oom.lt/FZKDI7S7SLLTS676LTS678](http://oom.lt/FZKDI7S7SLLTS676LTS678)

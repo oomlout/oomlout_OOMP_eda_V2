@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Connector-Samtec_ASP-134486-01
 - Hex ID: SZKCNSAMTECASP1344861
 - Name: Connector : Samtec_ASP-134486-01
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector/Samtec_ASP-134486-01/
 - Description: Connector : Samtec_ASP-134486-01
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-Samtec_ASP-134486-01](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-Samtec_ASP-134486-01)
 - Short Link: [http://oom.lt/SZKCNSAMTECASP1344861](http://oom.lt/SZKCNSAMTECASP1344861)

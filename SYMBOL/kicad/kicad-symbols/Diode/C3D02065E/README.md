@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-C3D02065E
 - Hex ID: SZKDIODEC3D265E
 - Name: Diode : C3D02065E
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/C3D02065E/
 - Description: Diode : C3D02065E
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-C3D02065E](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-C3D02065E)
 - Short Link: [http://oom.lt/SZKDIODEC3D265E](http://oom.lt/SZKDIODEC3D265E)

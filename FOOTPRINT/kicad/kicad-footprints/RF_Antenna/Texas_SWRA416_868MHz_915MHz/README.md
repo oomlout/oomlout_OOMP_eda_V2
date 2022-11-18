@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-RF_Antenna-Texas_SWRA416_868MHz_915MHz
 - Hex ID: FZKRFTEXASSWRA416868MHZ915MHZ
 - Name: RF_Antenna : Texas_SWRA416_868MHz_915MHz
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/RF_Antenna/Texas_SWRA416_868MHz_915MHz/
 - Description: RF_Antenna : Texas_SWRA416_868MHz_915MHz
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_Antenna-Texas_SWRA416_868MHz_915MHz](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_Antenna-Texas_SWRA416_868MHz_915MHz)
 - Short Link: [http://oom.lt/FZKRFTEXASSWRA416868MHZ915MHZ](http://oom.lt/FZKRFTEXASSWRA416868MHZ915MHZ)

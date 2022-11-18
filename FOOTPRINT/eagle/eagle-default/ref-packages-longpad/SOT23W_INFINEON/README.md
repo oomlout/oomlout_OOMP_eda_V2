@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEREFPACKAGESLONGPADSOT23WINFINEON > ref-packages-longpad : SOT23W_INFINEON](#fzerefpackageslongpadsot23winfineon--ref-packages-longpad--sot23w_infineon)
+* [FZEREFPSLPSOT23WINFINEON > ref-packages-longpad : SOT23W_INFINEON](#fzerefpslpsot23winfineon--ref-packages-longpad--sot23w_infineon)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEREFPACKAGESLONGPADSOT23WINFINEON > ref-packages-longpad : SOT23W_INFINEON
+# FZEREFPSLPSOT23WINFINEON > ref-packages-longpad : SOT23W_INFINEON
 
 - ID: FOOTPRINT-eagle-eagle-default-ref-packages-longpad-SOT23W_INFINEON
-- Hex ID: FZEREFPACKAGESLONGPADSOT23WINFINEON
+- Hex ID: FZEREFPSLPSOT23WINFINEON
 - Name: ref-packages-longpad : SOT23W_INFINEON
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ref-packages-longpad/SOT23W_INFINEON/
 - Description: ref-packages-longpad : SOT23W_INFINEON
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-longpad-SOT23W_INFINEON](http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-longpad-SOT23W_INFINEON)
-- Short Link: [http://oom.lt/FZEREFPACKAGESLONGPADSOT23WINFINEON](http://oom.lt/FZEREFPACKAGESLONGPADSOT23WINFINEON)
+- Short Link: [http://oom.lt/FZEREFPSLPSOT23WINFINEON](http://oom.lt/FZEREFPSLPSOT23WINFINEON)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|ref-packages-longpad|
 |OOMP Index|oompIndex|SOT23W_INFINEON|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-ref-packages-longpad-SOT23W_INFINEON|
-|Hex ID (short code)|hexID|FZEREFPACKAGESLONGPADSOT23WINFINEON|
+|Hex ID (short code)|hexID|FZEREFPSLPSOT23WINFINEON|
 |name|name|ref-packages-longpad : SOT23W_INFINEON|
 ||||

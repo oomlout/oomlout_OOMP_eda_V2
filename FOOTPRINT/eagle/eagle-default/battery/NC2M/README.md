@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-battery-NC2M
 - Hex ID: FZEBATNC2M
 - Name: battery : NC2M
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/battery/NC2M/
 - Description: battery : NC2M
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-battery-NC2M](http://oom.lt/FOOTPRINT-eagle-eagle-default-battery-NC2M)
 - Short Link: [http://oom.lt/FZEBATNC2M](http://oom.lt/FZEBATNC2M)

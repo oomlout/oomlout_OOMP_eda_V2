@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-C150-072X183
 - Hex ID: FZAC1572X183
 - Name: adafruit : C150-072X183
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/C150-072X183/
 - Description: adafruit : C150-072X183
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-C150-072X183](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-C150-072X183)
 - Short Link: [http://oom.lt/FZAC1572X183](http://oom.lt/FZAC1572X183)

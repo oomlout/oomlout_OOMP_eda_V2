@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-LTC3429
 - Hex ID: SZKREGULATORSWINGLTC3429
 - Name: Regulator_Switching : LTC3429
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/LTC3429/
 - Description: Regulator_Switching : LTC3429
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LTC3429](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LTC3429)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGLTC3429](http://oom.lt/SZKREGULATORSWINGLTC3429)

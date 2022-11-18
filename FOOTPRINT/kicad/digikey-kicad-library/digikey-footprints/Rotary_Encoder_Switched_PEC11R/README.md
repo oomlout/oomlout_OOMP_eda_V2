@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Rotary_Encoder_Switched_PEC11R
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSRESWEDPEC11R
 - Name: digikey-footprints : Rotary_Encoder_Switched_PEC11R
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Rotary_Encoder_Switched_PEC11R/
 - Description: digikey-footprints : Rotary_Encoder_Switched_PEC11R
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Rotary_Encoder_Switched_PEC11R](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Rotary_Encoder_Switched_PEC11R)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSRESWEDPEC11R](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSRESWEDPEC11R)

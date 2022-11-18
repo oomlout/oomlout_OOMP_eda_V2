@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-Heraeus_TO-92-2
 - Hex ID: FZKSOTHERAEUSTO922
 - Name: Package_TO_SOT_THT : Heraeus_TO-92-2
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_THT/Heraeus_TO-92-2/
 - Description: Package_TO_SOT_THT : Heraeus_TO-92-2
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-Heraeus_TO-92-2](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-Heraeus_TO-92-2)
 - Short Link: [http://oom.lt/FZKSOTHERAEUSTO922](http://oom.lt/FZKSOTHERAEUSTO922)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_CSP-ST_WLCSP-104_Die437
 - Hex ID: FZKCSPSTWLCSP14DIE437
 - Name: Package_CSP : ST_WLCSP-104_Die437
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_CSP/ST_WLCSP-104_Die437/
 - Description: Package_CSP : ST_WLCSP-104_Die437
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_CSP-ST_WLCSP-104_Die437](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_CSP-ST_WLCSP-104_Die437)
 - Short Link: [http://oom.lt/FZKCSPSTWLCSP14DIE437](http://oom.lt/FZKCSPSTWLCSP14DIE437)

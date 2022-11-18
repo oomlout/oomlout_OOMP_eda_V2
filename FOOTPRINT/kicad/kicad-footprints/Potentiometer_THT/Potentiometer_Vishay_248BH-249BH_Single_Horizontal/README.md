@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Potentiometer_THT-Potentiometer_Vishay_248BH-249BH_Single_Horizontal
 - Hex ID: FZKPPOTVISHAY248BH249BHSINGLEH
 - Name: Potentiometer_THT : Potentiometer_Vishay_248BH-249BH_Single_Horizontal
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Potentiometer_THT/Potentiometer_Vishay_248BH-249BH_Single_Horizontal/
 - Description: Potentiometer_THT : Potentiometer_Vishay_248BH-249BH_Single_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Potentiometer_THT-Potentiometer_Vishay_248BH-249BH_Single_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Potentiometer_THT-Potentiometer_Vishay_248BH-249BH_Single_Horizontal)
 - Short Link: [http://oom.lt/FZKPPOTVISHAY248BH249BHSINGLEH](http://oom.lt/FZKPPOTVISHAY248BH249BHSINGLEH)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-USB-C_Female_E8124-015-01
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSUCFE8124151
 - Name: digikey-footprints : USB-C_Female_E8124-015-01
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/USB-C_Female_E8124-015-01/
 - Description: digikey-footprints : USB-C_Female_E8124-015-01
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-USB-C_Female_E8124-015-01](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-USB-C_Female_E8124-015-01)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSUCFE8124151](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSUCFE8124151)

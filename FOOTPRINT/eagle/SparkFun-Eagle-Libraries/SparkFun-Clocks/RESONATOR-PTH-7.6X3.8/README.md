@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Clocks-RESONATOR-PTH-7.6X3.8
 - Hex ID: FZSCLRP76X38
 - Name: SparkFun-Clocks : RESONATOR-PTH-7.6X3.8
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Clocks/RESONATOR-PTH-7.6X3.8/
 - Description: SparkFun-Clocks : RESONATOR-PTH-7.6X3.8
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Clocks-RESONATOR-PTH-7.6X3.8](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Clocks-RESONATOR-PTH-7.6X3.8)
 - Short Link: [http://oom.lt/FZSCLRP76X38](http://oom.lt/FZSCLRP76X38)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Boards-BEAGLE_BONE_BLACK_CAPE
 - Hex ID: FZSBOBEAGLEBONEBLACKCAPE
 - Name: SparkFun-Boards : BEAGLE_BONE_BLACK_CAPE
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Boards/BEAGLE_BONE_BLACK_CAPE/
 - Description: SparkFun-Boards : BEAGLE_BONE_BLACK_CAPE
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Boards-BEAGLE_BONE_BLACK_CAPE](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Boards-BEAGLE_BONE_BLACK_CAPE)
 - Short Link: [http://oom.lt/FZSBOBEAGLEBONEBLACKCAPE](http://oom.lt/FZSBOBEAGLEBONEBLACKCAPE)

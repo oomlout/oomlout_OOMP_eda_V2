@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATxmega256A3B-A
 - Hex ID: SZKMCUMCHIPATMEGAATXMEGA256A3BA
 - Name: MCU_Microchip_ATmega : ATxmega256A3B-A
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_ATmega/ATxmega256A3B-A/
 - Description: MCU_Microchip_ATmega : ATxmega256A3B-A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATxmega256A3B-A](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATxmega256A3B-A)
 - Short Link: [http://oom.lt/SZKMCUMCHIPATMEGAATXMEGA256A3BA](http://oom.lt/SZKMCUMCHIPATMEGAATXMEGA256A3BA)

@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEINDUCTORSSD5 > inductors : SD50](#fzeinductorssd5--inductors--sd50)
+* [FZEINSSD5 > inductors : SD50](#fzeinssd5--inductors--sd50)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEINDUCTORSSD5 > inductors : SD50
+# FZEINSSD5 > inductors : SD50
 
 - ID: FOOTPRINT-eagle-eagle-default-inductors-SD50
-- Hex ID: FZEINDUCTORSSD5
+- Hex ID: FZEINSSD5
 - Name: inductors : SD50
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/inductors/SD50/
 - Description: inductors : SD50
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-inductors-SD50](http://oom.lt/FOOTPRINT-eagle-eagle-default-inductors-SD50)
-- Short Link: [http://oom.lt/FZEINDUCTORSSD5](http://oom.lt/FZEINDUCTORSSD5)
+- Short Link: [http://oom.lt/FZEINSSD5](http://oom.lt/FZEINSSD5)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|inductors|
 |OOMP Index|oompIndex|SD50|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-inductors-SD50|
-|Hex ID (short code)|hexID|FZEINDUCTORSSD5|
+|Hex ID (short code)|hexID|FZEINSSD5|
 |name|name|inductors : SD50|
 ||||

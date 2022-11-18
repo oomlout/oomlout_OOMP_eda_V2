@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-RF_Module-Particle_P1
 - Hex ID: FZKRFMOPARTICLEP1
 - Name: RF_Module : Particle_P1
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/RF_Module/Particle_P1/
 - Description: RF_Module : Particle_P1
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_Module-Particle_P1](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_Module-Particle_P1)
 - Short Link: [http://oom.lt/FZKRFMOPARTICLEP1](http://oom.lt/FZKRFMOPARTICLEP1)

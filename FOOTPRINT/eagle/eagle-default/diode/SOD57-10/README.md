@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-diode-SOD57-10
 - Hex ID: FZEDIODESOD571
 - Name: diode : SOD57-10
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/diode/SOD57-10/
 - Description: diode : SOD57-10
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-diode-SOD57-10](http://oom.lt/FOOTPRINT-eagle-eagle-default-diode-SOD57-10)
 - Short Link: [http://oom.lt/FZEDIODESOD571](http://oom.lt/FZEDIODESOD571)

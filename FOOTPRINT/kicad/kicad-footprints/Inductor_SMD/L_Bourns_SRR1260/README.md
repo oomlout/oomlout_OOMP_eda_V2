@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Bourns_SRR1260
 - Hex ID: FZKINLBOURNSSRR126
 - Name: Inductor_SMD : L_Bourns_SRR1260
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Bourns_SRR1260/
 - Description: Inductor_SMD : L_Bourns_SRR1260
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Bourns_SRR1260](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Bourns_SRR1260)
 - Short Link: [http://oom.lt/FZKINLBOURNSSRR126](http://oom.lt/FZKINLBOURNSSRR126)

@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKSONVSON11EP3X3P5EP165X24THERMALVIAS > Package_SON : VSON-10-1EP_3x3mm_P0.5mm_EP1.65x2.4mm_ThermalVias](#fzksonvson11ep3x3p5ep165x24thermalvias--package_son--vson-10-1ep_3x3mm_p05mm_ep165x24mm_thermalvias)
+* [FZKSONVSON11EP3X3P5EP165X24THV > Package_SON : VSON-10-1EP_3x3mm_P0.5mm_EP1.65x2.4mm_ThermalVias](#fzksonvson11ep3x3p5ep165x24thv--package_son--vson-10-1ep_3x3mm_p05mm_ep165x24mm_thermalvias)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKSONVSON11EP3X3P5EP165X24THERMALVIAS > Package_SON : VSON-10-1EP_3x3mm_P0.5mm_EP1.65x2.4mm_ThermalVias
+# FZKSONVSON11EP3X3P5EP165X24THV > Package_SON : VSON-10-1EP_3x3mm_P0.5mm_EP1.65x2.4mm_ThermalVias
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_SON-VSON-10-1EP_3x3mm_P0.5mm_EP1.65x2.4mm_ThermalVias
-- Hex ID: FZKSONVSON11EP3X3P5EP165X24THERMALVIAS
+- Hex ID: FZKSONVSON11EP3X3P5EP165X24THV
 - Name: Package_SON : VSON-10-1EP_3x3mm_P0.5mm_EP1.65x2.4mm_ThermalVias
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SON/VSON-10-1EP_3x3mm_P0.5mm_EP1.65x2.4mm_ThermalVias/
 - Description: Package_SON : VSON-10-1EP_3x3mm_P0.5mm_EP1.65x2.4mm_ThermalVias
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SON-VSON-10-1EP_3x3mm_P0.5mm_EP1.65x2.4mm_ThermalVias](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SON-VSON-10-1EP_3x3mm_P0.5mm_EP1.65x2.4mm_ThermalVias)
-- Short Link: [http://oom.lt/FZKSONVSON11EP3X3P5EP165X24THERMALVIAS](http://oom.lt/FZKSONVSON11EP3X3P5EP165X24THERMALVIAS)
+- Short Link: [http://oom.lt/FZKSONVSON11EP3X3P5EP165X24THV](http://oom.lt/FZKSONVSON11EP3X3P5EP165X24THV)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Package_SON|
 |OOMP Index|oompIndex|VSON-10-1EP_3x3mm_P0.5mm_EP1.65x2.4mm_ThermalVias|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_SON-VSON-10-1EP_3x3mm_P0.5mm_EP1.65x2.4mm_ThermalVias|
-|Hex ID (short code)|hexID|FZKSONVSON11EP3X3P5EP165X24THERMALVIAS|
+|Hex ID (short code)|hexID|FZKSONVSON11EP3X3P5EP165X24THV|
 |name|name|Package_SON : VSON-10-1EP_3x3mm_P0.5mm_EP1.65x2.4mm_ThermalVias|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'VSON-10-1EP_3x3mm_P0.5mm_EP1.65x2.4mm_ThermalVias'</td><td> 'description'</td></tr><tr><td> 'VSON 10 Thermal on 11 3x3mm Pitch 0.5mm http</td></tr><tr><td>//chip.tomsk.ru/chip/chipdoc.nsf/Package/D8A64DD165C2AAD9472579400024FC41!OpenDocument'</td><td> 'tags'</td></tr><tr><td> 'VSON 10 Thermal on 11 3x3mm Pitch 0.5mm'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_SON.3dshapes/VSON-10-1EP_3x3mm_P0.5mm_EP1.65x2.4mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

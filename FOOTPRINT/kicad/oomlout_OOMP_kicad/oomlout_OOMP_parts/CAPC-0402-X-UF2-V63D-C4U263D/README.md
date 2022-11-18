@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0402-X-UF2-V63D-C4U263D
 - Hex ID: FZOOMPKOOMPPCAPC42XUF2V63DC4U263D
 - Name: oomlout_OOMP_parts : CAPC-0402-X-UF2-V63D-C4U263D
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/CAPC-0402-X-UF2-V63D-C4U263D/
 - Description: oomlout_OOMP_parts : CAPC-0402-X-UF2-V63D-C4U263D
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0402-X-UF2-V63D-C4U263D](http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0402-X-UF2-V63D-C4U263D)
 - Short Link: [http://oom.lt/FZOOMPKOOMPPCAPC42XUF2V63DC4U263D](http://oom.lt/FZOOMPKOOMPPCAPC42XUF2V63DC4U263D)

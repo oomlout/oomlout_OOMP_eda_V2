@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-holtek-SO18L
 - Hex ID: FZEHOLTEKSO18L
 - Name: holtek : SO18L
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/holtek/SO18L/
 - Description: holtek : SO18L
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-holtek-SO18L](http://oom.lt/FOOTPRINT-eagle-eagle-default-holtek-SO18L)
 - Short Link: [http://oom.lt/FZEHOLTEKSO18L](http://oom.lt/FZEHOLTEKSO18L)

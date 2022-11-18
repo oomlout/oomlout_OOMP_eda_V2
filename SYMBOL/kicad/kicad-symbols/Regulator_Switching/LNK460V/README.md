@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-LNK460V
 - Hex ID: SZKREGULATORSWINGLNK46V
 - Name: Regulator_Switching : LNK460V
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/LNK460V/
 - Description: Regulator_Switching : LNK460V
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LNK460V](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LNK460V)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGLNK46V](http://oom.lt/SZKREGULATORSWINGLNK46V)

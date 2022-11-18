@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-BAV70T
 - Hex ID: SZKDIODEBAV7T
 - Name: Diode : BAV70T
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/BAV70T/
 - Description: Diode : BAV70T
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-BAV70T](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-BAV70T)
 - Short Link: [http://oom.lt/SZKDIODEBAV7T](http://oom.lt/SZKDIODEBAV7T)

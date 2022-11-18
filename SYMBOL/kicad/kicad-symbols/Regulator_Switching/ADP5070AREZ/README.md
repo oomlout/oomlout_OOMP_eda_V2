@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-ADP5070AREZ
 - Hex ID: SZKREGULATORSWINGADP57AREZ
 - Name: Regulator_Switching : ADP5070AREZ
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/ADP5070AREZ/
 - Description: Regulator_Switching : ADP5070AREZ
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-ADP5070AREZ](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-ADP5070AREZ)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGADP57AREZ](http://oom.lt/SZKREGULATORSWINGADP57AREZ)

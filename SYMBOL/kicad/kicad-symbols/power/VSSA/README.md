@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-power-VSSA
 - Hex ID: SZKPOWERVSSA
 - Name: power : VSSA
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/power/VSSA/
 - Description: power : VSSA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-power-VSSA](http://oom.lt/SYMBOL-kicad-kicad-symbols-power-VSSA)
 - Short Link: [http://oom.lt/SZKPOWERVSSA](http://oom.lt/SZKPOWERVSSA)

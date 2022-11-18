@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Power_Management-INA3221
 - Hex ID: SZKPOWERMANAGEMENTINA3221
 - Name: Power_Management : INA3221
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Power_Management/INA3221/
 - Description: Power_Management : INA3221
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-INA3221](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-INA3221)
 - Short Link: [http://oom.lt/SZKPOWERMANAGEMENTINA3221](http://oom.lt/SZKPOWERMANAGEMENTINA3221)

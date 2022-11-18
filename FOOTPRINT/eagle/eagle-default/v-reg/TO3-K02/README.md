@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-v-reg-TO3-K02
 - Hex ID: FZEVREGTO3K2
 - Name: v-reg : TO3-K02
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/v-reg/TO3-K02/
 - Description: v-reg : TO3-K02
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-v-reg-TO3-K02](http://oom.lt/FOOTPRINT-eagle-eagle-default-v-reg-TO3-K02)
 - Short Link: [http://oom.lt/FZEVREGTO3K2](http://oom.lt/FZEVREGTO3K2)

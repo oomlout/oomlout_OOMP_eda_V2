@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Capacitor_Tantalum_SMD-CP_EIA-3216-18_Kemet-A
 - Hex ID: FZKCCPEIA321618KEMETA
 - Name: Capacitor_Tantalum_SMD : CP_EIA-3216-18_Kemet-A
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Capacitor_Tantalum_SMD/CP_EIA-3216-18_Kemet-A/
 - Description: Capacitor_Tantalum_SMD : CP_EIA-3216-18_Kemet-A
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_Tantalum_SMD-CP_EIA-3216-18_Kemet-A](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_Tantalum_SMD-CP_EIA-3216-18_Kemet-A)
 - Short Link: [http://oom.lt/FZKCCPEIA321618KEMETA](http://oom.lt/FZKCCPEIA321618KEMETA)

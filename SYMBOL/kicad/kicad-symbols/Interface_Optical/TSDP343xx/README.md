@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_Optical-TSDP343xx
 - Hex ID: SZKINTERFACEOPTICALTSDP343XX
 - Name: Interface_Optical : TSDP343xx
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_Optical/TSDP343xx/
 - Description: Interface_Optical : TSDP343xx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Optical-TSDP343xx](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Optical-TSDP343xx)
 - Short Link: [http://oom.lt/SZKINTERFACEOPTICALTSDP343XX](http://oom.lt/SZKINTERFACEOPTICALTSDP343XX)

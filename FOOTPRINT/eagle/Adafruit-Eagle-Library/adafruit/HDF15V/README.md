@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-HDF15V
 - Hex ID: FZAHDF15V
 - Name: adafruit : HDF15V
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/HDF15V/
 - Description: adafruit : HDF15V
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-HDF15V](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-HDF15V)
 - Short Link: [http://oom.lt/FZAHDF15V](http://oom.lt/FZAHDF15V)

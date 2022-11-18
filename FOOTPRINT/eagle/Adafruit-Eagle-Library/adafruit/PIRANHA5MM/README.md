@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-PIRANHA5MM
 - Hex ID: FZAPIRANHA5
 - Name: adafruit : PIRANHA5MM
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/PIRANHA5MM/
 - Description: adafruit : PIRANHA5MM
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-PIRANHA5MM](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-PIRANHA5MM)
 - Short Link: [http://oom.lt/FZAPIRANHA5](http://oom.lt/FZAPIRANHA5)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-micro-philips-SSOP24
 - Hex ID: FZEMPHILIPSSS24
 - Name: micro-philips : SSOP24
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/micro-philips/SSOP24/
 - Description: micro-philips : SSOP24
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-philips-SSOP24](http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-philips-SSOP24)
 - Short Link: [http://oom.lt/FZEMPHILIPSSS24](http://oom.lt/FZEMPHILIPSSS24)

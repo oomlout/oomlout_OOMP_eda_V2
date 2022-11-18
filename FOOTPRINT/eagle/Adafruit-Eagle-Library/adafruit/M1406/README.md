@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-M1406
 - Hex ID: FZAM146
 - Name: adafruit : M1406
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/M1406/
 - Description: adafruit : M1406
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-M1406](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-M1406)
 - Short Link: [http://oom.lt/FZAM146](http://oom.lt/FZAM146)

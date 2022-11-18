@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0402-X-O499D-67-R42499A
 - Hex ID: FZOOMPKOOMPPRESE42XO499D67R42499A
 - Name: oomlout_OOMP_parts : RESE-0402-X-O499D-67-R42499A
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/RESE-0402-X-O499D-67-R42499A/
 - Description: oomlout_OOMP_parts : RESE-0402-X-O499D-67-R42499A
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0402-X-O499D-67-R42499A](http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0402-X-O499D-67-R42499A)
 - Short Link: [http://oom.lt/FZOOMPKOOMPPRESE42XO499D67R42499A](http://oom.lt/FZOOMPKOOMPPRESE42XO499D67R42499A)

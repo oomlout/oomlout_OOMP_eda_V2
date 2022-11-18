@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Connector-USB_C_Plug
 - Hex ID: SZKCNUCPLUG
 - Name: Connector : USB_C_Plug
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector/USB_C_Plug/
 - Description: Connector : USB_C_Plug
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-USB_C_Plug](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-USB_C_Plug)
 - Short Link: [http://oom.lt/SZKCNUCPLUG](http://oom.lt/SZKCNUCPLUG)

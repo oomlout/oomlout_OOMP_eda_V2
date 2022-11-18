@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Mag_Jack_Module_WIZ820IO
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSMAGJMOWIZ82IO
 - Name: digikey-footprints : Mag_Jack_Module_WIZ820IO
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Mag_Jack_Module_WIZ820IO/
 - Description: digikey-footprints : Mag_Jack_Module_WIZ820IO
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Mag_Jack_Module_WIZ820IO](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Mag_Jack_Module_WIZ820IO)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSMAGJMOWIZ82IO](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSMAGJMOWIZ82IO)

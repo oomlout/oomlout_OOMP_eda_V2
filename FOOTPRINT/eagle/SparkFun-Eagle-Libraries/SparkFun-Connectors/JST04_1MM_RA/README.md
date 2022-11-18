@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-JST04_1MM_RA
 - Hex ID: FZSSPARKFUNCNSJST41RA
 - Name: SparkFun-Connectors : JST04_1MM_RA
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Connectors/JST04_1MM_RA/
 - Description: SparkFun-Connectors : JST04_1MM_RA
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-JST04_1MM_RA](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-JST04_1MM_RA)
 - Short Link: [http://oom.lt/FZSSPARKFUNCNSJST41RA](http://oom.lt/FZSSPARKFUNCNSJST41RA)

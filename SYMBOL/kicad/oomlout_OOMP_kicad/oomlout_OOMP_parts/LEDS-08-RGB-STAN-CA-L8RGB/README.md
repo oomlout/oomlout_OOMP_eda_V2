@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-LEDS-08-RGB-STAN-CA-L8RGB
 - Hex ID: SZOOMPKOOMPPLS8RGBSTANCAL8RGB
 - Name: oomlout_OOMP_parts : LEDS-08-RGB-STAN-CA-L8RGB
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/LEDS-08-RGB-STAN-CA-L8RGB/
 - Description: oomlout_OOMP_parts : LEDS-08-RGB-STAN-CA-L8RGB
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-LEDS-08-RGB-STAN-CA-L8RGB](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-LEDS-08-RGB-STAN-CA-L8RGB)
 - Short Link: [http://oom.lt/SZOOMPKOOMPPLS8RGBSTANCAL8RGB](http://oom.lt/SZOOMPKOOMPPLS8RGBSTANCAL8RGB)

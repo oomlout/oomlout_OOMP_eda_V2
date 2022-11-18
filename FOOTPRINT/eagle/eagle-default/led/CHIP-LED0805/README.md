@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-led-CHIP-LED0805
 - Hex ID: FZELCHIPL85
 - Name: led : CHIP-LED0805
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/led/CHIP-LED0805/
 - Description: led : CHIP-LED0805
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-led-CHIP-LED0805](http://oom.lt/FOOTPRINT-eagle-eagle-default-led-CHIP-LED0805)
 - Short Link: [http://oom.lt/FZELCHIPL85](http://oom.lt/FZELCHIPL85)

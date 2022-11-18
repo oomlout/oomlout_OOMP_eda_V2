@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKOCSOCSSMSEIKOEPSONSG82JC4PIN15X5 > Oscillator : Oscillator_SMD_SeikoEpson_SG8002JC-4Pin_10.5x5.0mm](#fzkocsocssmseikoepsonsg82jc4pin15x5--oscillator--oscillator_smd_seikoepson_sg8002jc-4pin_105x50mm)
+* [FZKOCSOCSSMSEIKOEPSONSG82JC4P15X5 > Oscillator : Oscillator_SMD_SeikoEpson_SG8002JC-4Pin_10.5x5.0mm](#fzkocsocssmseikoepsonsg82jc4p15x5--oscillator--oscillator_smd_seikoepson_sg8002jc-4pin_105x50mm)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKOCSOCSSMSEIKOEPSONSG82JC4PIN15X5 > Oscillator : Oscillator_SMD_SeikoEpson_SG8002JC-4Pin_10.5x5.0mm
+# FZKOCSOCSSMSEIKOEPSONSG82JC4P15X5 > Oscillator : Oscillator_SMD_SeikoEpson_SG8002JC-4Pin_10.5x5.0mm
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Oscillator-Oscillator_SMD_SeikoEpson_SG8002JC-4Pin_10.5x5.0mm
-- Hex ID: FZKOCSOCSSMSEIKOEPSONSG82JC4PIN15X5
+- Hex ID: FZKOCSOCSSMSEIKOEPSONSG82JC4P15X5
 - Name: Oscillator : Oscillator_SMD_SeikoEpson_SG8002JC-4Pin_10.5x5.0mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Oscillator/Oscillator_SMD_SeikoEpson_SG8002JC-4Pin_10.5x5.0mm/
 - Description: Oscillator : Oscillator_SMD_SeikoEpson_SG8002JC-4Pin_10.5x5.0mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Oscillator-Oscillator_SMD_SeikoEpson_SG8002JC-4Pin_10.5x5.0mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Oscillator-Oscillator_SMD_SeikoEpson_SG8002JC-4Pin_10.5x5.0mm)
-- Short Link: [http://oom.lt/FZKOCSOCSSMSEIKOEPSONSG82JC4PIN15X5](http://oom.lt/FZKOCSOCSSMSEIKOEPSONSG82JC4PIN15X5)
+- Short Link: [http://oom.lt/FZKOCSOCSSMSEIKOEPSONSG82JC4P15X5](http://oom.lt/FZKOCSOCSSMSEIKOEPSONSG82JC4P15X5)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Oscillator|
 |OOMP Index|oompIndex|Oscillator_SMD_SeikoEpson_SG8002JC-4Pin_10.5x5.0mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Oscillator-Oscillator_SMD_SeikoEpson_SG8002JC-4Pin_10.5x5.0mm|
-|Hex ID (short code)|hexID|FZKOCSOCSSMSEIKOEPSONSG82JC4PIN15X5|
+|Hex ID (short code)|hexID|FZKOCSOCSSMSEIKOEPSONSG82JC4P15X5|
 |name|name|Oscillator : Oscillator_SMD_SeikoEpson_SG8002JC-4Pin_10.5x5.0mm|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Oscillator_SMD_SeikoEpson_SG8002JC-4Pin_10.5x5.0mm'</td><td> 'description'</td></tr><tr><td> 'SMD Crystal Oscillator Seiko Epson SG-8002JC https</td></tr><tr><td>//support.epson.biz/td/api/doc_check.php?mode=dl&lang=en&Parts=SG-8002DC</td><td> 10.5x5.0mm^2 package'</td><td> 'tags'</td></tr><tr><td> 'SMD SMT crystal oscillator'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Oscillator.3dshapes/Oscillator_SMD_SeikoEpson_SG8002JC-4Pin_10.5x5.0mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

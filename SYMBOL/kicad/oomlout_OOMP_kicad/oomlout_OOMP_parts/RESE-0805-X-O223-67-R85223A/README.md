@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0805-X-O223-67-R85223A
 - Hex ID: SZOOMPKOOMPPRESE85XO22367R85223A
 - Name: oomlout_OOMP_parts : RESE-0805-X-O223-67-R85223A
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/RESE-0805-X-O223-67-R85223A/
 - Description: oomlout_OOMP_parts : RESE-0805-X-O223-67-R85223A
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0805-X-O223-67-R85223A](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0805-X-O223-67-R85223A)
 - Short Link: [http://oom.lt/SZOOMPKOOMPPRESE85XO22367R85223A](http://oom.lt/SZOOMPKOOMPPRESE85XO22367R85223A)

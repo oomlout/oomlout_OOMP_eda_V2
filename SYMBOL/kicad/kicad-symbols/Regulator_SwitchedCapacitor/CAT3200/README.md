@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_SwitchedCapacitor-CAT3200
 - Hex ID: SZKREGULATORSWEDCAPACITORCAT32
 - Name: Regulator_SwitchedCapacitor : CAT3200
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_SwitchedCapacitor/CAT3200/
 - Description: Regulator_SwitchedCapacitor : CAT3200
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_SwitchedCapacitor-CAT3200](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_SwitchedCapacitor-CAT3200)
 - Short Link: [http://oom.lt/SZKREGULATORSWEDCAPACITORCAT32](http://oom.lt/SZKREGULATORSWEDCAPACITORCAT32)

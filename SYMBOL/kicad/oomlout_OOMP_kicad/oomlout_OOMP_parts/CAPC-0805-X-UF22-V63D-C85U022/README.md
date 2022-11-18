@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0805-X-UF22-V63D-C85U022
 - Hex ID: SZOOMPKOOMPPCAPC85XUF22V63DC85U22
 - Name: oomlout_OOMP_parts : CAPC-0805-X-UF22-V63D-C85U022
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/CAPC-0805-X-UF22-V63D-C85U022/
 - Description: oomlout_OOMP_parts : CAPC-0805-X-UF22-V63D-C85U022
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0805-X-UF22-V63D-C85U022](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0805-X-UF22-V63D-C85U022)
 - Short Link: [http://oom.lt/SZOOMPKOOMPPCAPC85XUF22V63DC85U22](http://oom.lt/SZOOMPKOOMPPCAPC85XUF22V63DC85U22)

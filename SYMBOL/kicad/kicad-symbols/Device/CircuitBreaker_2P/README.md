@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Device-CircuitBreaker_2P
 - Hex ID: SZKDEVICECIRCUITBREAKER2P
 - Name: Device : CircuitBreaker_2P
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/CircuitBreaker_2P/
 - Description: Device : CircuitBreaker_2P
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-CircuitBreaker_2P](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-CircuitBreaker_2P)
 - Short Link: [http://oom.lt/SZKDEVICECIRCUITBREAKER2P](http://oom.lt/SZKDEVICECIRCUITBREAKER2P)

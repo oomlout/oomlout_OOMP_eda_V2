@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-omron-XF2R-0615-4A
 - Hex ID: FZECONOMRONXF2R6154A
 - Name: con-omron : XF2R-0615-4A
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-omron/XF2R-0615-4A/
 - Description: con-omron : XF2R-0615-4A
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-omron-XF2R-0615-4A](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-omron-XF2R-0615-4A)
 - Short Link: [http://oom.lt/FZECONOMRONXF2R6154A](http://oom.lt/FZECONOMRONXF2R6154A)

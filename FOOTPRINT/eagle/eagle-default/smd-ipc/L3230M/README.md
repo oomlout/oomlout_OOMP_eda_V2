@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-smd-ipc-L3230M
 - Hex ID: FZESMIPCL323M
 - Name: smd-ipc : L3230M
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/smd-ipc/L3230M/
 - Description: smd-ipc : L3230M
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-L3230M](http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-L3230M)
 - Short Link: [http://oom.lt/FZESMIPCL323M](http://oom.lt/FZESMIPCL323M)

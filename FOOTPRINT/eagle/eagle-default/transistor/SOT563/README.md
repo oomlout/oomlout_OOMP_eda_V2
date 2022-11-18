@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-transistor-SOT563
 - Hex ID: FZETRANSISTORSOT563
 - Name: transistor : SOT563
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/transistor/SOT563/
 - Description: transistor : SOT563
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-SOT563](http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-SOT563)
 - Short Link: [http://oom.lt/FZETRANSISTORSOT563](http://oom.lt/FZETRANSISTORSOT563)

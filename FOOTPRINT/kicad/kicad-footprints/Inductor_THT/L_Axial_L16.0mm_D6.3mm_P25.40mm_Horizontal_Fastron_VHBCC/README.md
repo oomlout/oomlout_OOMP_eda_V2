@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Axial_L16.0mm_D6.3mm_P25.40mm_Horizontal_Fastron_VHBCC
 - Hex ID: FZKINLAXIALL16D63P254HFASTRONVHBCC
 - Name: Inductor_THT : L_Axial_L16.0mm_D6.3mm_P25.40mm_Horizontal_Fastron_VHBCC
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Axial_L16.0mm_D6.3mm_P25.40mm_Horizontal_Fastron_VHBCC/
 - Description: Inductor_THT : L_Axial_L16.0mm_D6.3mm_P25.40mm_Horizontal_Fastron_VHBCC
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Axial_L16.0mm_D6.3mm_P25.40mm_Horizontal_Fastron_VHBCC](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Axial_L16.0mm_D6.3mm_P25.40mm_Horizontal_Fastron_VHBCC)
 - Short Link: [http://oom.lt/FZKINLAXIALL16D63P254HFASTRONVHBCC](http://oom.lt/FZKINLAXIALL16D63P254HFASTRONVHBCC)

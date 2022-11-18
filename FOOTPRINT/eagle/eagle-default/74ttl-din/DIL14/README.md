@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-74ttl-din-DIL14
 - Hex ID: FZE74TTLDINDIL14
 - Name: 74ttl-din : DIL14
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/74ttl-din/DIL14/
 - Description: 74ttl-din : DIL14
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-74ttl-din-DIL14](http://oom.lt/FOOTPRINT-eagle-eagle-default-74ttl-din-DIL14)
 - Short Link: [http://oom.lt/FZE74TTLDINDIL14](http://oom.lt/FZE74TTLDINDIL14)

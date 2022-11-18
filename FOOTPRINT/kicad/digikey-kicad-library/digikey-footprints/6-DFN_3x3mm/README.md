@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-6-DFN_3x3mm
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTS6DFN3X3
 - Name: digikey-footprints : 6-DFN_3x3mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/6-DFN_3x3mm/
 - Description: digikey-footprints : 6-DFN_3x3mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-6-DFN_3x3mm](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-6-DFN_3x3mm)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTS6DFN3X3](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTS6DFN3X3)

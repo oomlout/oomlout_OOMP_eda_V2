@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Device-Fuse_Small
 - Hex ID: SZKDEVICEFUSLL
 - Name: Device : Fuse_Small
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/Fuse_Small/
 - Description: Device : Fuse_Small
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Fuse_Small](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Fuse_Small)
 - Short Link: [http://oom.lt/SZKDEVICEFUSLL](http://oom.lt/SZKDEVICEFUSLL)

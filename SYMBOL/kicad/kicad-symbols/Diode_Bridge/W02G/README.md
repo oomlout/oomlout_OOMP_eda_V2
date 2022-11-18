@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode_Bridge-W02G
 - Hex ID: SZKDIODEBRIDGEW2G
 - Name: Diode_Bridge : W02G
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode_Bridge/W02G/
 - Description: Diode_Bridge : W02G
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode_Bridge-W02G](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode_Bridge-W02G)
 - Short Link: [http://oom.lt/SZKDIODEBRIDGEW2G](http://oom.lt/SZKDIODEBRIDGEW2G)

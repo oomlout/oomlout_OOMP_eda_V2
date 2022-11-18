@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Altimeter_MS580314BA
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSALTIMETERMS58314BA
 - Name: digikey-footprints : Altimeter_MS580314BA
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Altimeter_MS580314BA/
 - Description: digikey-footprints : Altimeter_MS580314BA
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Altimeter_MS580314BA](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Altimeter_MS580314BA)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSALTIMETERMS58314BA](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSALTIMETERMS58314BA)

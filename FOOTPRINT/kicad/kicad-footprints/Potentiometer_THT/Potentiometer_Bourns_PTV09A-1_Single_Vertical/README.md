@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Potentiometer_THT-Potentiometer_Bourns_PTV09A-1_Single_Vertical
 - Hex ID: FZKPPOTBOURNSPTV9A1SINGLEF
 - Name: Potentiometer_THT : Potentiometer_Bourns_PTV09A-1_Single_Vertical
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Potentiometer_THT/Potentiometer_Bourns_PTV09A-1_Single_Vertical/
 - Description: Potentiometer_THT : Potentiometer_Bourns_PTV09A-1_Single_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Potentiometer_THT-Potentiometer_Bourns_PTV09A-1_Single_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Potentiometer_THT-Potentiometer_Bourns_PTV09A-1_Single_Vertical)
 - Short Link: [http://oom.lt/FZKPPOTBOURNSPTV9A1SINGLEF](http://oom.lt/FZKPPOTBOURNSPTV9A1SINGLEF)

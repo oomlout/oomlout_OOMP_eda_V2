@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_Harwin-Harwin_M20-7811245_2x12_P2.54mm_Vertical
 - Hex ID: FZKCNHARWINHARWINM278112452X12P254F
 - Name: Connector_Harwin : Harwin_M20-7811245_2x12_P2.54mm_Vertical
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Harwin/Harwin_M20-7811245_2x12_P2.54mm_Vertical/
 - Description: Connector_Harwin : Harwin_M20-7811245_2x12_P2.54mm_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Harwin-Harwin_M20-7811245_2x12_P2.54mm_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Harwin-Harwin_M20-7811245_2x12_P2.54mm_Vertical)
 - Short Link: [http://oom.lt/FZKCNHARWINHARWINM278112452X12P254F](http://oom.lt/FZKCNHARWINHARWINM278112452X12P254F)

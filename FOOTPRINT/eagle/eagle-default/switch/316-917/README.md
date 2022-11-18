@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-switch-316-917
 - Hex ID: FZESW316917
 - Name: switch : 316-917
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/switch/316-917/
 - Description: switch : 316-917
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-316-917](http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-316-917)
 - Short Link: [http://oom.lt/FZESW316917](http://oom.lt/FZESW316917)

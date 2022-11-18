@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-LED-APA102-2020
 - Hex ID: SZKLAPA1222
 - Name: LED : APA102-2020
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/LED/APA102-2020/
 - Description: LED : APA102-2020
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-LED-APA102-2020](http://oom.lt/SYMBOL-kicad-kicad-symbols-LED-APA102-2020)
 - Short Link: [http://oom.lt/SZKLAPA1222](http://oom.lt/SZKLAPA1222)

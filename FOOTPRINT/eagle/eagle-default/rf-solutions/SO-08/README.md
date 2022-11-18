@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-rf-solutions-SO-08
 - Hex ID: FZERFSOLUTIONSSO8
 - Name: rf-solutions : SO-08
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/rf-solutions/SO-08/
 - Description: rf-solutions : SO-08
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-rf-solutions-SO-08](http://oom.lt/FOOTPRINT-eagle-eagle-default-rf-solutions-SO-08)
 - Short Link: [http://oom.lt/FZERFSOLUTIONSSO8](http://oom.lt/FZERFSOLUTIONSSO8)

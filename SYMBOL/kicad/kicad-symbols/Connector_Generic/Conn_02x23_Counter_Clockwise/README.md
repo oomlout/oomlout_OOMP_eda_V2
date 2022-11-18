@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [SZKCNGENERICCONN2X23COUNTERCLWISE > Connector_Generic : Conn_02x23_Counter_Clockwise](#szkcngenericconn2x23counterclwise--connector_generic--conn_02x23_counter_clockwise)
+* [SZKCNGC2X23CCW > Connector_Generic : Conn_02x23_Counter_Clockwise](#szkcngc2x23ccw--connector_generic--conn_02x23_counter_clockwise)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# SZKCNGENERICCONN2X23COUNTERCLWISE > Connector_Generic : Conn_02x23_Counter_Clockwise
+# SZKCNGC2X23CCW > Connector_Generic : Conn_02x23_Counter_Clockwise
 
 - ID: SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x23_Counter_Clockwise
-- Hex ID: SZKCNGENERICCONN2X23COUNTERCLWISE
+- Hex ID: SZKCNGC2X23CCW
 - Name: Connector_Generic : Conn_02x23_Counter_Clockwise
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_02x23_Counter_Clockwise/
 - Description: Connector_Generic : Conn_02x23_Counter_Clockwise
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x23_Counter_Clockwise](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x23_Counter_Clockwise)
-- Short Link: [http://oom.lt/SZKCNGENERICCONN2X23COUNTERCLWISE](http://oom.lt/SZKCNGENERICCONN2X23COUNTERCLWISE)
+- Short Link: [http://oom.lt/SZKCNGC2X23CCW](http://oom.lt/SZKCNGC2X23CCW)
 
 ## Images
   
@@ -36,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Connector_Generic|
 |OOMP Index|oompIndex|Conn_02x23_Counter_Clockwise|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x23_Counter_Clockwise|
-|Hex ID (short code)|hexID|SZKCNGENERICCONN2X23COUNTERCLWISE|
+|Hex ID (short code)|hexID|SZKCNGC2X23CCW|
 |name|name|Connector_Generic : Conn_02x23_Counter_Clockwise|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'J'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'Conn_02x23_Counter_Clockwise'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'connector'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Generic connector</td><td> double row</td><td> 02x23</td><td> counter clockwise pin numbering scheme (similar to DIP package numbering)</td><td> script generated (kicad-library-utils/schlib/autogen/connector/)'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Connector*</td></tr><tr><td>*_2x??_*'</td></tr></table>]|
 ||||

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-751xx-DIL22-3
 - Hex ID: FZE751XXDIL223
 - Name: 751xx : DIL22-3
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/751xx/DIL22-3/
 - Description: 751xx : DIL22-3
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-751xx-DIL22-3](http://oom.lt/FOOTPRINT-eagle-eagle-default-751xx-DIL22-3)
 - Short Link: [http://oom.lt/FZE751XXDIL223](http://oom.lt/FZE751XXDIL223)

@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEINDUCTORNEOSIDZ48 > inductor-neosid : Z4_8](#fzeinductorneosidz48--inductor-neosid--z4_8)
+* [FZEINNEOSIDZ48 > inductor-neosid : Z4_8](#fzeinneosidz48--inductor-neosid--z4_8)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEINDUCTORNEOSIDZ48 > inductor-neosid : Z4_8
+# FZEINNEOSIDZ48 > inductor-neosid : Z4_8
 
 - ID: FOOTPRINT-eagle-eagle-default-inductor-neosid-Z4_8
-- Hex ID: FZEINDUCTORNEOSIDZ48
+- Hex ID: FZEINNEOSIDZ48
 - Name: inductor-neosid : Z4_8
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/inductor-neosid/Z4_8/
 - Description: inductor-neosid : Z4_8
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-inductor-neosid-Z4_8](http://oom.lt/FOOTPRINT-eagle-eagle-default-inductor-neosid-Z4_8)
-- Short Link: [http://oom.lt/FZEINDUCTORNEOSIDZ48](http://oom.lt/FZEINDUCTORNEOSIDZ48)
+- Short Link: [http://oom.lt/FZEINNEOSIDZ48](http://oom.lt/FZEINNEOSIDZ48)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|inductor-neosid|
 |OOMP Index|oompIndex|Z4_8|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-inductor-neosid-Z4_8|
-|Hex ID (short code)|hexID|FZEINDUCTORNEOSIDZ48|
+|Hex ID (short code)|hexID|FZEINNEOSIDZ48|
 |name|name|inductor-neosid : Z4_8|
 ||||

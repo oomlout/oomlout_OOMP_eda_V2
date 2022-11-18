@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_Panelmate_53780-0870_1x08-1MP_P1.25mm_Horizontal
 - Hex ID: FZKCNMXMXPANELMATE5378871X81MPP125H
 - Name: Connector_Molex : Molex_Panelmate_53780-0870_1x08-1MP_P1.25mm_Horizontal
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_Panelmate_53780-0870_1x08-1MP_P1.25mm_Horizontal/
 - Description: Connector_Molex : Molex_Panelmate_53780-0870_1x08-1MP_P1.25mm_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_Panelmate_53780-0870_1x08-1MP_P1.25mm_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_Panelmate_53780-0870_1x08-1MP_P1.25mm_Horizontal)
 - Short Link: [http://oom.lt/FZKCNMXMXPANELMATE5378871X81MPP125H](http://oom.lt/FZKCNMXMXPANELMATE5378871X81MPP125H)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Isolator-HCPL-0600
 - Hex ID: SZKISOLATORHCPL6
 - Name: Isolator : HCPL-0600
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Isolator/HCPL-0600/
 - Description: Isolator : HCPL-0600
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-HCPL-0600](http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-HCPL-0600)
 - Short Link: [http://oom.lt/SZKISOLATORHCPL6](http://oom.lt/SZKISOLATORHCPL6)

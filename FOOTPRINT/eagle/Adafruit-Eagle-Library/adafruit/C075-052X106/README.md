@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-C075-052X106
 - Hex ID: FZAC7552X16
 - Name: adafruit : C075-052X106
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/C075-052X106/
 - Description: adafruit : C075-052X106
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-C075-052X106](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-C075-052X106)
 - Short Link: [http://oom.lt/FZAC7552X16](http://oom.lt/FZAC7552X16)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-OPA2277
 - Hex ID: SZKAMPLIFIEROPERATIONALOPA2277
 - Name: Amplifier_Operational : OPA2277
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/OPA2277/
 - Description: Amplifier_Operational : OPA2277
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-OPA2277](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-OPA2277)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALOPA2277](http://oom.lt/SZKAMPLIFIEROPERATIONALOPA2277)

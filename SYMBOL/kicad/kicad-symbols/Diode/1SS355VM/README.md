@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-1SS355VM
 - Hex ID: SZKDIODE1SS355VM
 - Name: Diode : 1SS355VM
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/1SS355VM/
 - Description: Diode : 1SS355VM
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-1SS355VM](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-1SS355VM)
 - Short Link: [http://oom.lt/SZKDIODE1SS355VM](http://oom.lt/SZKDIODE1SS355VM)

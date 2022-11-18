@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-recom-international-RCD-24B-DIL
 - Hex ID: FZERECOMINTERNATIONALRCD24BDIL
 - Name: recom-international : RCD-24B-DIL
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/recom-international/RCD-24B-DIL/
 - Description: recom-international : RCD-24B-DIL
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-recom-international-RCD-24B-DIL](http://oom.lt/FOOTPRINT-eagle-eagle-default-recom-international-RCD-24B-DIL)
 - Short Link: [http://oom.lt/FZERECOMINTERNATIONALRCD24BDIL](http://oom.lt/FZERECOMINTERNATIONALRCD24BDIL)

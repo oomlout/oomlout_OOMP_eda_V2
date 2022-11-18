@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-rcl-P0613V
 - Hex ID: FZERCLP613V
 - Name: rcl : P0613V
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/rcl/P0613V/
 - Description: rcl : P0613V
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-P0613V](http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-P0613V)
 - Short Link: [http://oom.lt/FZERCLP613V](http://oom.lt/FZERCLP613V)

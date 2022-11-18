@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_CAN_LIN-MCP2517FD-xSL
 - Hex ID: SZKINTERFACECANLINMCP2517FDXSL
 - Name: Interface_CAN_LIN : MCP2517FD-xSL
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_CAN_LIN/MCP2517FD-xSL/
 - Description: Interface_CAN_LIN : MCP2517FD-xSL
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_CAN_LIN-MCP2517FD-xSL](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_CAN_LIN-MCP2517FD-xSL)
 - Short Link: [http://oom.lt/SZKINTERFACECANLINMCP2517FDXSL](http://oom.lt/SZKINTERFACECANLINMCP2517FDXSL)

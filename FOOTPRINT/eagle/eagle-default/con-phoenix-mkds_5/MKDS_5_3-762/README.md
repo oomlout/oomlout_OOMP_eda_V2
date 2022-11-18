@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-phoenix-mkds_5-MKDS_5_3-762
 - Hex ID: FZECONPHOENIXMKDS5MKDS53762
 - Name: con-phoenix-mkds_5 : MKDS_5_3-762
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-phoenix-mkds_5/MKDS_5_3-762/
 - Description: con-phoenix-mkds_5 : MKDS_5_3-762
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-phoenix-mkds_5-MKDS_5_3-762](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-phoenix-mkds_5-MKDS_5_3-762)
 - Short Link: [http://oom.lt/FZECONPHOENIXMKDS5MKDS53762](http://oom.lt/FZECONPHOENIXMKDS5MKDS53762)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Analog_Switch-MAX333
 - Hex ID: SZKANALOGSWMAX333
 - Name: Analog_Switch : MAX333
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog_Switch/MAX333/
 - Description: Analog_Switch : MAX333
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_Switch-MAX333](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_Switch-MAX333)
 - Short Link: [http://oom.lt/SZKANALOGSWMAX333](http://oom.lt/SZKANALOGSWMAX333)

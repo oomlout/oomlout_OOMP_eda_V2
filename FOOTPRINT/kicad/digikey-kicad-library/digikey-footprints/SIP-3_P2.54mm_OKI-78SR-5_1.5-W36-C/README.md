@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SIP-3_P2.54mm_OKI-78SR-5_1.5-W36-C
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSSIP3P254OKI78SR515W36C
 - Name: digikey-footprints : SIP-3_P2.54mm_OKI-78SR-5_1.5-W36-C
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/SIP-3_P2.54mm_OKI-78SR-5_1.5-W36-C/
 - Description: digikey-footprints : SIP-3_P2.54mm_OKI-78SR-5_1.5-W36-C
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SIP-3_P2.54mm_OKI-78SR-5_1.5-W36-C](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SIP-3_P2.54mm_OKI-78SR-5_1.5-W36-C)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSSIP3P254OKI78SR515W36C](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSSIP3P254OKI78SR515W36C)

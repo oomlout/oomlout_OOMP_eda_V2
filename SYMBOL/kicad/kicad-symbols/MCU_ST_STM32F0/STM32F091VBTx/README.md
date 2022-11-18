@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F0-STM32F091VBTx
 - Hex ID: SZKMCUSTSTM32FSTM32F91VBTX
 - Name: MCU_ST_STM32F0 : STM32F091VBTx
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32F0/STM32F091VBTx/
 - Description: MCU_ST_STM32F0 : STM32F091VBTx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F0-STM32F091VBTx](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F0-STM32F091VBTx)
 - Short Link: [http://oom.lt/SZKMCUSTSTM32FSTM32F91VBTX](http://oom.lt/SZKMCUSTSTM32FSTM32F91VBTX)

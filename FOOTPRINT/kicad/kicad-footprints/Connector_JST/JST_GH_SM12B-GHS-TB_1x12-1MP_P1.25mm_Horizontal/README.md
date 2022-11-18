@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_GH_SM12B-GHS-TB_1x12-1MP_P1.25mm_Horizontal
 - Hex ID: FZKCNJSTJSTGHSM12BGHSTB1X121MPP125H
 - Name: Connector_JST : JST_GH_SM12B-GHS-TB_1x12-1MP_P1.25mm_Horizontal
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_GH_SM12B-GHS-TB_1x12-1MP_P1.25mm_Horizontal/
 - Description: Connector_JST : JST_GH_SM12B-GHS-TB_1x12-1MP_P1.25mm_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_GH_SM12B-GHS-TB_1x12-1MP_P1.25mm_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_GH_SM12B-GHS-TB_1x12-1MP_P1.25mm_Horizontal)
 - Short Link: [http://oom.lt/FZKCNJSTJSTGHSM12BGHSTB1X121MPP125H](http://oom.lt/FZKCNJSTJSTGHSM12BGHSTB1X121MPP125H)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Conversion-SOT23-6
 - Hex ID: FZSIVSOT236
 - Name: SparkFun-IC-Conversion : SOT23-6
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-IC-Conversion/SOT23-6/
 - Description: SparkFun-IC-Conversion : SOT23-6
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Conversion-SOT23-6](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Conversion-SOT23-6)
 - Short Link: [http://oom.lt/FZSIVSOT236](http://oom.lt/FZSIVSOT236)

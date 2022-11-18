@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-diode-S6695-01
 - Hex ID: FZEDIODES66951
 - Name: diode : S6695-01
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/diode/S6695-01/
 - Description: diode : S6695-01
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-diode-S6695-01](http://oom.lt/FOOTPRINT-eagle-eagle-default-diode-S6695-01)
 - Short Link: [http://oom.lt/FZEDIODES66951](http://oom.lt/FZEDIODES66951)

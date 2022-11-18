@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_NXP_S08-MC9S08SV8CLC
 - Hex ID: SZKMCUNXPS8MC9S8SV8CLC
 - Name: MCU_NXP_S08 : MC9S08SV8CLC
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_NXP_S08/MC9S08SV8CLC/
 - Description: MCU_NXP_S08 : MC9S08SV8CLC
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_NXP_S08-MC9S08SV8CLC](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_NXP_S08-MC9S08SV8CLC)
 - Short Link: [http://oom.lt/SZKMCUNXPS8MC9S8SV8CLC](http://oom.lt/SZKMCUNXPS8MC9S8SV8CLC)

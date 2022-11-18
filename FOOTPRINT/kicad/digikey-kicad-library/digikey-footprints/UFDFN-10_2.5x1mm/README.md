@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-UFDFN-10_2.5x1mm
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSUFDFN125X1
 - Name: digikey-footprints : UFDFN-10_2.5x1mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/UFDFN-10_2.5x1mm/
 - Description: digikey-footprints : UFDFN-10_2.5x1mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-UFDFN-10_2.5x1mm](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-UFDFN-10_2.5x1mm)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSUFDFN125X1](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSUFDFN125X1)

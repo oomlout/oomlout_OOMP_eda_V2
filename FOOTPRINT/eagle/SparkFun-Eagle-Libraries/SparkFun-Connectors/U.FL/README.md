@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-U.FL
 - Hex ID: FZSSPARKFUNCNSUFL
 - Name: SparkFun-Connectors : U.FL
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Connectors/U.FL/
 - Description: SparkFun-Connectors : U.FL
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-U.FL](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-U.FL)
 - Short Link: [http://oom.lt/FZSSPARKFUNCNSUFL](http://oom.lt/FZSSPARKFUNCNSUFL)

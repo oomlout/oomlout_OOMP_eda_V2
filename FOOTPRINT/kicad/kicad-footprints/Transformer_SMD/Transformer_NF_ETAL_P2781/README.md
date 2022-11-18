@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Transformer_SMD-Transformer_NF_ETAL_P2781
 - Hex ID: FZKTRTRNFETALP2781
 - Name: Transformer_SMD : Transformer_NF_ETAL_P2781
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Transformer_SMD/Transformer_NF_ETAL_P2781/
 - Description: Transformer_SMD : Transformer_NF_ETAL_P2781
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Transformer_SMD-Transformer_NF_ETAL_P2781](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Transformer_SMD-Transformer_NF_ETAL_P2781)
 - Short Link: [http://oom.lt/FZKTRTRNFETALP2781](http://oom.lt/FZKTRTRNFETALP2781)

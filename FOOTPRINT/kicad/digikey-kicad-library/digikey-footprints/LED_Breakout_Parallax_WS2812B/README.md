@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-LED_Breakout_Parallax_WS2812B
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSLBREAKOUTPARALLAXWS2812B
 - Name: digikey-footprints : LED_Breakout_Parallax_WS2812B
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/LED_Breakout_Parallax_WS2812B/
 - Description: digikey-footprints : LED_Breakout_Parallax_WS2812B
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-LED_Breakout_Parallax_WS2812B](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-LED_Breakout_Parallax_WS2812B)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSLBREAKOUTPARALLAXWS2812B](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSLBREAKOUTPARALLAXWS2812B)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-1206
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTS126
 - Name: digikey-footprints : 1206
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/1206/
 - Description: digikey-footprints : 1206
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-1206](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-1206)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTS126](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTS126)

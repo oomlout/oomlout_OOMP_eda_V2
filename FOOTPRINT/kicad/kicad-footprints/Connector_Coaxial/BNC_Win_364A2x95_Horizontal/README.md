@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_Coaxial-BNC_Win_364A2x95_Horizontal
 - Hex ID: FZKCNCOABNCWIN364A2X95H
 - Name: Connector_Coaxial : BNC_Win_364A2x95_Horizontal
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Coaxial/BNC_Win_364A2x95_Horizontal/
 - Description: Connector_Coaxial : BNC_Win_364A2x95_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Coaxial-BNC_Win_364A2x95_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Coaxial-BNC_Win_364A2x95_Horizontal)
 - Short Link: [http://oom.lt/FZKCNCOABNCWIN364A2X95H](http://oom.lt/FZKCNCOABNCWIN364A2X95H)

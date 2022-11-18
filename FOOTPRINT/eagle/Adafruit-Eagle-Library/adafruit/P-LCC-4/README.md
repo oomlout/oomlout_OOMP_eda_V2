@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-P-LCC-4
 - Hex ID: FZAPLCC4
 - Name: adafruit : P-LCC-4
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/P-LCC-4/
 - Description: adafruit : P-LCC-4
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-P-LCC-4](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-P-LCC-4)
 - Short Link: [http://oom.lt/FZAPLCC4](http://oom.lt/FZAPLCC4)

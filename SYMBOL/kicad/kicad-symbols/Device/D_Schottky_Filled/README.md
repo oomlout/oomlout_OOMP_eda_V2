@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Device-D_Schottky_Filled
 - Hex ID: SZKDEVICEDSCHOTTKYFILL
 - Name: Device : D_Schottky_Filled
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/D_Schottky_Filled/
 - Description: Device : D_Schottky_Filled
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-D_Schottky_Filled](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-D_Schottky_Filled)
 - Short Link: [http://oom.lt/SZKDEVICEDSCHOTTKYFILL](http://oom.lt/SZKDEVICEDSCHOTTKYFILL)

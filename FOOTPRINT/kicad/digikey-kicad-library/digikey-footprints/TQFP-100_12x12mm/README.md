@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-TQFP-100_12x12mm
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSTQFP112X12
 - Name: digikey-footprints : TQFP-100_12x12mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/TQFP-100_12x12mm/
 - Description: digikey-footprints : TQFP-100_12x12mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-TQFP-100_12x12mm](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-TQFP-100_12x12mm)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSTQFP112X12](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSTQFP112X12)

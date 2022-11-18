@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_NXP_Kinetis-MKL26Z128CAL4
 - Hex ID: SZKMCUNXPKINETISMKL26Z128CAL4
 - Name: MCU_NXP_Kinetis : MKL26Z128CAL4
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_NXP_Kinetis/MKL26Z128CAL4/
 - Description: MCU_NXP_Kinetis : MKL26Z128CAL4
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_NXP_Kinetis-MKL26Z128CAL4](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_NXP_Kinetis-MKL26Z128CAL4)
 - Short Link: [http://oom.lt/SZKMCUNXPKINETISMKL26Z128CAL4](http://oom.lt/SZKMCUNXPKINETISMKL26Z128CAL4)

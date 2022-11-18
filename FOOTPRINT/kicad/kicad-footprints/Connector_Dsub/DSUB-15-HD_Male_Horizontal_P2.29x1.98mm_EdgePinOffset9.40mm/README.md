@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_Dsub-DSUB-15-HD_Male_Horizontal_P2.29x1.98mm_EdgePinOffset9.40mm
 - Hex ID: FZKCNDSUBDSUB15HDMALEHP229X198EPO94
 - Name: Connector_Dsub : DSUB-15-HD_Male_Horizontal_P2.29x1.98mm_EdgePinOffset9.40mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Dsub/DSUB-15-HD_Male_Horizontal_P2.29x1.98mm_EdgePinOffset9.40mm/
 - Description: Connector_Dsub : DSUB-15-HD_Male_Horizontal_P2.29x1.98mm_EdgePinOffset9.40mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Dsub-DSUB-15-HD_Male_Horizontal_P2.29x1.98mm_EdgePinOffset9.40mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Dsub-DSUB-15-HD_Male_Horizontal_P2.29x1.98mm_EdgePinOffset9.40mm)
 - Short Link: [http://oom.lt/FZKCNDSUBDSUB15HDMALEHP229X198EPO94](http://oom.lt/FZKCNDSUBDSUB15HDMALEHP229X198EPO94)

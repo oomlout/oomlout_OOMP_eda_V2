@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-analog-devices-SOIC16N
 - Hex ID: FZEANALOGDEVICESSOIC16N
 - Name: analog-devices : SOIC16N
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/analog-devices/SOIC16N/
 - Description: analog-devices : SOIC16N
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-analog-devices-SOIC16N](http://oom.lt/FOOTPRINT-eagle-eagle-default-analog-devices-SOIC16N)
 - Short Link: [http://oom.lt/FZEANALOGDEVICESSOIC16N](http://oom.lt/FZEANALOGDEVICESSOIC16N)

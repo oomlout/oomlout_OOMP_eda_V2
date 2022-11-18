@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F1-STM32F101C8Ux
 - Hex ID: SZKMCUSTSTM32F1STM32F11C8UX
 - Name: MCU_ST_STM32F1 : STM32F101C8Ux
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32F1/STM32F101C8Ux/
 - Description: MCU_ST_STM32F1 : STM32F101C8Ux
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F1-STM32F101C8Ux](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F1-STM32F101C8Ux)
 - Short Link: [http://oom.lt/SZKMCUSTSTM32F1STM32F11C8UX](http://oom.lt/SZKMCUSTSTM32F1STM32F11C8UX)

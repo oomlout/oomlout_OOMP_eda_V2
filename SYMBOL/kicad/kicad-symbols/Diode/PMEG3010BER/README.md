@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-PMEG3010BER
 - Hex ID: SZKDIODEPMEG31BER
 - Name: Diode : PMEG3010BER
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/PMEG3010BER/
 - Description: Diode : PMEG3010BER
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-PMEG3010BER](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-PMEG3010BER)
 - Short Link: [http://oom.lt/SZKDIODEPMEG31BER](http://oom.lt/SZKDIODEPMEG31BER)

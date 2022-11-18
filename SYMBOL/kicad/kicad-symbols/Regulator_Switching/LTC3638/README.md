@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-LTC3638
 - Hex ID: SZKREGULATORSWINGLTC3638
 - Name: Regulator_Switching : LTC3638
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/LTC3638/
 - Description: Regulator_Switching : LTC3638
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LTC3638](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LTC3638)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGLTC3638](http://oom.lt/SZKREGULATORSWINGLTC3638)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Nordic-nRF51x22-QFxx
 - Hex ID: SZKMCUNORDICNRF51X22QFXX
 - Name: MCU_Nordic : nRF51x22-QFxx
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Nordic/nRF51x22-QFxx/
 - Description: MCU_Nordic : nRF51x22-QFxx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Nordic-nRF51x22-QFxx](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Nordic-nRF51x22-QFxx)
 - Short Link: [http://oom.lt/SZKMCUNORDICNRF51X22QFXX](http://oom.lt/SZKMCUNORDICNRF51X22QFXX)

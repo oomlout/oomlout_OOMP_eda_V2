@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-buzzer-EB2209A
 - Hex ID: FZEBUZZEREB229A
 - Name: buzzer : EB2209A
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/buzzer/EB2209A/
 - Description: buzzer : EB2209A
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-buzzer-EB2209A](http://oom.lt/FOOTPRINT-eagle-eagle-default-buzzer-EB2209A)
 - Short Link: [http://oom.lt/FZEBUZZEREB229A](http://oom.lt/FZEBUZZEREB229A)

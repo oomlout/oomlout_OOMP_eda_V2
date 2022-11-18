@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Transformer_THT-Autotransformer_ZS1052-AC
 - Hex ID: FZKTRAUTOTRZS152AC
 - Name: Transformer_THT : Autotransformer_ZS1052-AC
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Transformer_THT/Autotransformer_ZS1052-AC/
 - Description: Transformer_THT : Autotransformer_ZS1052-AC
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Transformer_THT-Autotransformer_ZS1052-AC](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Transformer_THT-Autotransformer_ZS1052-AC)
 - Short Link: [http://oom.lt/FZKTRAUTOTRZS152AC](http://oom.lt/FZKTRAUTOTRZS152AC)

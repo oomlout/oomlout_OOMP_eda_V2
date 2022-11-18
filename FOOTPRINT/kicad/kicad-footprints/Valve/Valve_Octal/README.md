@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Valve-Valve_Octal
 - Hex ID: FZKVAVAOCTAL
 - Name: Valve : Valve_Octal
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Valve/Valve_Octal/
 - Description: Valve : Valve_Octal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Valve-Valve_Octal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Valve-Valve_Octal)
 - Short Link: [http://oom.lt/FZKVAVAOCTAL](http://oom.lt/FZKVAVAOCTAL)

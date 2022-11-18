@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-deutsch-AS24-29
 - Hex ID: FZECONDEUTSCHAS2429
 - Name: con-deutsch : AS24-29
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-deutsch/AS24-29/
 - Description: con-deutsch : AS24-29
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-deutsch-AS24-29](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-deutsch-AS24-29)
 - Short Link: [http://oom.lt/FZECONDEUTSCHAS2429](http://oom.lt/FZECONDEUTSCHAS2429)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-4xxx-4002
 - Hex ID: SZK4XXX42
 - Name: 4xxx : 4002
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/4xxx/4002/
 - Description: 4xxx : 4002
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-4xxx-4002](http://oom.lt/SYMBOL-kicad-kicad-symbols-4xxx-4002)
 - Short Link: [http://oom.lt/SZK4XXX42](http://oom.lt/SZK4XXX42)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-FPGA_Xilinx-XC3S200AN-FT256
 - Hex ID: SZKFPGAXILINXXC3S2ANFT256
 - Name: FPGA_Xilinx : XC3S200AN-FT256
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/FPGA_Xilinx/XC3S200AN-FT256/
 - Description: FPGA_Xilinx : XC3S200AN-FT256
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-FPGA_Xilinx-XC3S200AN-FT256](http://oom.lt/SYMBOL-kicad-kicad-symbols-FPGA_Xilinx-XC3S200AN-FT256)
 - Short Link: [http://oom.lt/SZKFPGAXILINXXC3S2ANFT256](http://oom.lt/SZKFPGAXILINXXC3S2ANFT256)

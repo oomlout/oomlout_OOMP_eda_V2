@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Display_Character-MAN3440A
 - Hex ID: SZKDICHARACTERMAN344A
 - Name: Display_Character : MAN3440A
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Display_Character/MAN3440A/
 - Description: Display_Character : MAN3440A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-MAN3440A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-MAN3440A)
 - Short Link: [http://oom.lt/SZKDICHARACTERMAN344A](http://oom.lt/SZKDICHARACTERMAN344A)

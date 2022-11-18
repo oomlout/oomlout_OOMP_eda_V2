@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Hall_Sensor_SIP-3_A132_LUA-T
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSHALLSENSIP3A132LUAT
 - Name: digikey-footprints : Hall_Sensor_SIP-3_A132_LUA-T
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Hall_Sensor_SIP-3_A132_LUA-T/
 - Description: digikey-footprints : Hall_Sensor_SIP-3_A132_LUA-T
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Hall_Sensor_SIP-3_A132_LUA-T](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Hall_Sensor_SIP-3_A132_LUA-T)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSHALLSENSIP3A132LUAT](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSHALLSENSIP3A132LUAT)

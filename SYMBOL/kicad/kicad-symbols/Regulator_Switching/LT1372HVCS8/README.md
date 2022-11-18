@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-LT1372HVCS8
 - Hex ID: SZKREGULATORSWINGLT1372HVCS8
 - Name: Regulator_Switching : LT1372HVCS8
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/LT1372HVCS8/
 - Description: Regulator_Switching : LT1372HVCS8
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LT1372HVCS8](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LT1372HVCS8)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGLT1372HVCS8](http://oom.lt/SZKREGULATORSWINGLT1372HVCS8)

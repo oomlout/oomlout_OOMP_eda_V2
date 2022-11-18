@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-rcl-E_7260-38W
 - Hex ID: FZERCLE72638W
 - Name: rcl : E_7260-38W
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/rcl/E_7260-38W/
 - Description: rcl : E_7260-38W
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-E_7260-38W](http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-E_7260-38W)
 - Short Link: [http://oom.lt/FZERCLE72638W](http://oom.lt/FZERCLE72638W)

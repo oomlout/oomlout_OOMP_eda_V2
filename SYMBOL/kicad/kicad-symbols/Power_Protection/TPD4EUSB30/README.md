@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Power_Protection-TPD4EUSB30
 - Hex ID: SZKPOWERPROTECTIONTPD4EU3
 - Name: Power_Protection : TPD4EUSB30
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Power_Protection/TPD4EUSB30/
 - Description: Power_Protection : TPD4EUSB30
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Protection-TPD4EUSB30](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Protection-TPD4EUSB30)
 - Short Link: [http://oom.lt/SZKPOWERPROTECTIONTPD4EU3](http://oom.lt/SZKPOWERPROTECTIONTPD4EU3)

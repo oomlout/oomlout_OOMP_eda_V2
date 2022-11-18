@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-smd-ipc-MO003-10
 - Hex ID: FZESMIPCMO31
 - Name: smd-ipc : MO003-10
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/smd-ipc/MO003-10/
 - Description: smd-ipc : MO003-10
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-MO003-10](http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-MO003-10)
 - Short Link: [http://oom.lt/FZESMIPCMO31](http://oom.lt/FZESMIPCMO31)

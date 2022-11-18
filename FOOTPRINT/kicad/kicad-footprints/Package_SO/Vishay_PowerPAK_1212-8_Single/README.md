@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_SO-Vishay_PowerPAK_1212-8_Single
 - Hex ID: FZKSOVISHAYPOWERPAK12128SINGLE
 - Name: Package_SO : Vishay_PowerPAK_1212-8_Single
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SO/Vishay_PowerPAK_1212-8_Single/
 - Description: Package_SO : Vishay_PowerPAK_1212-8_Single
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SO-Vishay_PowerPAK_1212-8_Single](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SO-Vishay_PowerPAK_1212-8_Single)
 - Short Link: [http://oom.lt/FZKSOVISHAYPOWERPAK12128SINGLE](http://oom.lt/FZKSOVISHAYPOWERPAK12128SINGLE)

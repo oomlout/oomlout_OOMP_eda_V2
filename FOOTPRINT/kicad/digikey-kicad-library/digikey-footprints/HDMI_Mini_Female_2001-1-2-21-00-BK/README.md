@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-HDMI_Mini_Female_2001-1-2-21-00-BK
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSHDMIMF211221BK
 - Name: digikey-footprints : HDMI_Mini_Female_2001-1-2-21-00-BK
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/HDMI_Mini_Female_2001-1-2-21-00-BK/
 - Description: digikey-footprints : HDMI_Mini_Female_2001-1-2-21-00-BK
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-HDMI_Mini_Female_2001-1-2-21-00-BK](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-HDMI_Mini_Female_2001-1-2-21-00-BK)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSHDMIMF211221BK](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSHDMIMF211221BK)

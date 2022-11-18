@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_NXP_LPC-LPC834M101FHI33
 - Hex ID: SZKMCUNXPLPCLPC834M11FHI33
 - Name: MCU_NXP_LPC : LPC834M101FHI33
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_NXP_LPC/LPC834M101FHI33/
 - Description: MCU_NXP_LPC : LPC834M101FHI33
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_NXP_LPC-LPC834M101FHI33](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_NXP_LPC-LPC834M101FHI33)
 - Short Link: [http://oom.lt/SZKMCUNXPLPCLPC834M11FHI33](http://oom.lt/SZKMCUNXPLPCLPC834M11FHI33)

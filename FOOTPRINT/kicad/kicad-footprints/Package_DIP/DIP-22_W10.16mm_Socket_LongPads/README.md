@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKDIPDIP22W116SOL > Package_DIP : DIP-22_W10.16mm_Socket_LongPads](#fzkdipdip22w116sol--package_dip--dip-22_w1016mm_socket_longpads)
+* [FZKDD22W116SOL > Package_DIP : DIP-22_W10.16mm_Socket_LongPads](#fzkdd22w116sol--package_dip--dip-22_w1016mm_socket_longpads)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKDIPDIP22W116SOL > Package_DIP : DIP-22_W10.16mm_Socket_LongPads
+# FZKDD22W116SOL > Package_DIP : DIP-22_W10.16mm_Socket_LongPads
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_DIP-DIP-22_W10.16mm_Socket_LongPads
-- Hex ID: FZKDIPDIP22W116SOL
+- Hex ID: FZKDD22W116SOL
 - Name: Package_DIP : DIP-22_W10.16mm_Socket_LongPads
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DIP/DIP-22_W10.16mm_Socket_LongPads/
 - Description: Package_DIP : DIP-22_W10.16mm_Socket_LongPads
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DIP-DIP-22_W10.16mm_Socket_LongPads](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DIP-DIP-22_W10.16mm_Socket_LongPads)
-- Short Link: [http://oom.lt/FZKDIPDIP22W116SOL](http://oom.lt/FZKDIPDIP22W116SOL)
+- Short Link: [http://oom.lt/FZKDD22W116SOL](http://oom.lt/FZKDD22W116SOL)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Package_DIP|
 |OOMP Index|oompIndex|DIP-22_W10.16mm_Socket_LongPads|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DIP-DIP-22_W10.16mm_Socket_LongPads|
-|Hex ID (short code)|hexID|FZKDIPDIP22W116SOL|
+|Hex ID (short code)|hexID|FZKDD22W116SOL|
 |name|name|Package_DIP : DIP-22_W10.16mm_Socket_LongPads|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'DIP-22_W10.16mm_Socket_LongPads'</td><td> 'description'</td></tr><tr><td> '22-lead though-hole mounted DIP package</td><td> row spacing 10.16 mm (400 mils)</td><td> Socket</td><td> LongPads'</td><td> 'tags'</td></tr><tr><td> 'THT DIP DIL PDIP 2.54mm 10.16mm 400mil Socket LongPads'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_DIP.3dshapes/DIP-22_W10.16mm_Socket.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

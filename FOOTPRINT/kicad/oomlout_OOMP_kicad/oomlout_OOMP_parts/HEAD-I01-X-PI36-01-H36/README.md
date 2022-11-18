@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-I01-X-PI36-01-H36
 - Hex ID: FZOOMPKOOMPPHEADI1XPI361H36
 - Name: oomlout_OOMP_parts : HEAD-I01-X-PI36-01-H36
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/HEAD-I01-X-PI36-01-H36/
 - Description: oomlout_OOMP_parts : HEAD-I01-X-PI36-01-H36
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-I01-X-PI36-01-H36](http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-I01-X-PI36-01-H36)
 - Short Link: [http://oom.lt/FZOOMPKOOMPPHEADI1XPI361H36](http://oom.lt/FZOOMPKOOMPPHEADI1XPI361H36)

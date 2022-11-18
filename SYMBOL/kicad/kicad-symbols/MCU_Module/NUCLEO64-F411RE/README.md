@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Module-NUCLEO64-F411RE
 - Hex ID: SZKMCUMONUCLEO64F411RE
 - Name: MCU_Module : NUCLEO64-F411RE
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Module/NUCLEO64-F411RE/
 - Description: MCU_Module : NUCLEO64-F411RE
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Module-NUCLEO64-F411RE](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Module-NUCLEO64-F411RE)
 - Short Link: [http://oom.lt/SZKMCUMONUCLEO64F411RE](http://oom.lt/SZKMCUMONUCLEO64F411RE)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-SMF13A
 - Hex ID: SZKDIODESMF13A
 - Name: Diode : SMF13A
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/SMF13A/
 - Description: Diode : SMF13A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-SMF13A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-SMF13A)
 - Short Link: [http://oom.lt/SZKDIODESMF13A](http://oom.lt/SZKDIODESMF13A)

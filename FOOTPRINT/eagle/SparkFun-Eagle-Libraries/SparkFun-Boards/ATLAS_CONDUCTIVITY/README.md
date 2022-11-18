@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Boards-ATLAS_CONDUCTIVITY
 - Hex ID: FZSBOATLASCONDUCTIVITY
 - Name: SparkFun-Boards : ATLAS_CONDUCTIVITY
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Boards/ATLAS_CONDUCTIVITY/
 - Description: SparkFun-Boards : ATLAS_CONDUCTIVITY
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Boards-ATLAS_CONDUCTIVITY](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Boards-ATLAS_CONDUCTIVITY)
 - Short Link: [http://oom.lt/FZSBOATLASCONDUCTIVITY](http://oom.lt/FZSBOATLASCONDUCTIVITY)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Capacitor_Tantalum_SMD-CP_EIA-2012-12_Kemet-R
 - Hex ID: FZKCCPEIA21212KEMETR
 - Name: Capacitor_Tantalum_SMD : CP_EIA-2012-12_Kemet-R
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Capacitor_Tantalum_SMD/CP_EIA-2012-12_Kemet-R/
 - Description: Capacitor_Tantalum_SMD : CP_EIA-2012-12_Kemet-R
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_Tantalum_SMD-CP_EIA-2012-12_Kemet-R](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_Tantalum_SMD-CP_EIA-2012-12_Kemet-R)
 - Short Link: [http://oom.lt/FZKCCPEIA21212KEMETR](http://oom.lt/FZKCCPEIA21212KEMETR)

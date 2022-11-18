@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEREFPACKAGESDIP24 > ref-packages : DIP24](#fzerefpackagesdip24--ref-packages--dip24)
+* [FZEREFPSD24 > ref-packages : DIP24](#fzerefpsd24--ref-packages--dip24)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEREFPACKAGESDIP24 > ref-packages : DIP24
+# FZEREFPSD24 > ref-packages : DIP24
 
 - ID: FOOTPRINT-eagle-eagle-default-ref-packages-DIP24
-- Hex ID: FZEREFPACKAGESDIP24
+- Hex ID: FZEREFPSD24
 - Name: ref-packages : DIP24
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ref-packages/DIP24/
 - Description: ref-packages : DIP24
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-DIP24](http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-DIP24)
-- Short Link: [http://oom.lt/FZEREFPACKAGESDIP24](http://oom.lt/FZEREFPACKAGESDIP24)
+- Short Link: [http://oom.lt/FZEREFPSD24](http://oom.lt/FZEREFPSD24)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|ref-packages|
 |OOMP Index|oompIndex|DIP24|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-ref-packages-DIP24|
-|Hex ID (short code)|hexID|FZEREFPACKAGESDIP24|
+|Hex ID (short code)|hexID|FZEREFPSD24|
 |name|name|ref-packages : DIP24|
 ||||

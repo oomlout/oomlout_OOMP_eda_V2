@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_A_CNCTech_1001-011-01101_Horizontal
 - Hex ID: FZKCNUUACNCTECH1111111H
 - Name: Connector_USB : USB_A_CNCTech_1001-011-01101_Horizontal
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB_A_CNCTech_1001-011-01101_Horizontal/
 - Description: Connector_USB : USB_A_CNCTech_1001-011-01101_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_A_CNCTech_1001-011-01101_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_A_CNCTech_1001-011-01101_Horizontal)
 - Short Link: [http://oom.lt/FZKCNUUACNCTECH1111111H](http://oom.lt/FZKCNUUACNCTECH1111111H)

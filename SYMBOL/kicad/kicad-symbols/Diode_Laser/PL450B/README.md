@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode_Laser-PL450B
 - Hex ID: SZKDIODELASERPL45B
 - Name: Diode_Laser : PL450B
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode_Laser/PL450B/
 - Description: Diode_Laser : PL450B
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode_Laser-PL450B](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode_Laser-PL450B)
 - Short Link: [http://oom.lt/SZKDIODELASERPL45B](http://oom.lt/SZKDIODELASERPL45B)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Reference_Voltage-LM4125AIM5-2.5
 - Hex ID: SZKREFERENCEVOLTAGELM4125AIM525
 - Name: Reference_Voltage : LM4125AIM5-2.5
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Reference_Voltage/LM4125AIM5-2.5/
 - Description: Reference_Voltage : LM4125AIM5-2.5
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Voltage-LM4125AIM5-2.5](http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Voltage-LM4125AIM5-2.5)
 - Short Link: [http://oom.lt/SZKREFERENCEVOLTAGELM4125AIM525](http://oom.lt/SZKREFERENCEVOLTAGELM4125AIM525)

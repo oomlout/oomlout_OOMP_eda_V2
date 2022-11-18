@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Audio-TDA7265B
 - Hex ID: SZKAMPLIFIERAUDIOTDA7265B
 - Name: Amplifier_Audio : TDA7265B
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Audio/TDA7265B/
 - Description: Amplifier_Audio : TDA7265B
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Audio-TDA7265B](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Audio-TDA7265B)
 - Short Link: [http://oom.lt/SZKAMPLIFIERAUDIOTDA7265B](http://oom.lt/SZKAMPLIFIERAUDIOTDA7265B)

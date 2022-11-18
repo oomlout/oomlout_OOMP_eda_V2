@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Texas_RWH0032A
 - Hex ID: FZKDFNTEXASRWH32A
 - Name: Package_DFN_QFN : Texas_RWH0032A
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/Texas_RWH0032A/
 - Description: Package_DFN_QFN : Texas_RWH0032A
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Texas_RWH0032A](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Texas_RWH0032A)
 - Short Link: [http://oom.lt/FZKDFNTEXASRWH32A](http://oom.lt/FZKDFNTEXASRWH32A)

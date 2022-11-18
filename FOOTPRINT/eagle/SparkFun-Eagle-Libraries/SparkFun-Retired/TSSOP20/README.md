@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-TSSOP20
 - Hex ID: FZSRTTSS2
 - Name: SparkFun-Retired : TSSOP20
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Retired/TSSOP20/
 - Description: SparkFun-Retired : TSSOP20
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-TSSOP20](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-TSSOP20)
 - Short Link: [http://oom.lt/FZSRTTSS2](http://oom.lt/FZSRTTSS2)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-coax-PE44121
 - Hex ID: FZECONCOAXPE44121
 - Name: con-coax : PE44121
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-coax/PE44121/
 - Description: con-coax : PE44121
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-coax-PE44121](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-coax-PE44121)
 - Short Link: [http://oom.lt/FZECONCOAXPE44121](http://oom.lt/FZECONCOAXPE44121)

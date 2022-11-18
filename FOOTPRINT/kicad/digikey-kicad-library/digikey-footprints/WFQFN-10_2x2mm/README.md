@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-WFQFN-10_2x2mm
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSWFQFN12X2
 - Name: digikey-footprints : WFQFN-10_2x2mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/WFQFN-10_2x2mm/
 - Description: digikey-footprints : WFQFN-10_2x2mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-WFQFN-10_2x2mm](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-WFQFN-10_2x2mm)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSWFQFN12X2](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSWFQFN12X2)

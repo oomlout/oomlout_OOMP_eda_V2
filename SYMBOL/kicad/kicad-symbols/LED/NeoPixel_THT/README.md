@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-LED-NeoPixel_THT
 - Hex ID: SZKLNEOPIXELTHT
 - Name: LED : NeoPixel_THT
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/LED/NeoPixel_THT/
 - Description: LED : NeoPixel_THT
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-LED-NeoPixel_THT](http://oom.lt/SYMBOL-kicad-kicad-symbols-LED-NeoPixel_THT)
 - Short Link: [http://oom.lt/SZKLNEOPIXELTHT](http://oom.lt/SZKLNEOPIXELTHT)

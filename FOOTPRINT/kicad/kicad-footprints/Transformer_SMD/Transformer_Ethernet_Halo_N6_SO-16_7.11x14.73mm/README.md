@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Transformer_SMD-Transformer_Ethernet_Halo_N6_SO-16_7.11x14.73mm
 - Hex ID: FZKTRTRETHERNETHALON6SO16711X1473
 - Name: Transformer_SMD : Transformer_Ethernet_Halo_N6_SO-16_7.11x14.73mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Transformer_SMD/Transformer_Ethernet_Halo_N6_SO-16_7.11x14.73mm/
 - Description: Transformer_SMD : Transformer_Ethernet_Halo_N6_SO-16_7.11x14.73mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Transformer_SMD-Transformer_Ethernet_Halo_N6_SO-16_7.11x14.73mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Transformer_SMD-Transformer_Ethernet_Halo_N6_SO-16_7.11x14.73mm)
 - Short Link: [http://oom.lt/FZKTRTRETHERNETHALON6SO16711X1473](http://oom.lt/FZKTRTRETHERNETHALON6SO16711X1473)

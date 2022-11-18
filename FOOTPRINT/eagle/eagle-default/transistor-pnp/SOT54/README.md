@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-transistor-pnp-SOT54
 - Hex ID: FZETRANSISTORPNPSOT54
 - Name: transistor-pnp : SOT54
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/transistor-pnp/SOT54/
 - Description: transistor-pnp : SOT54
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-pnp-SOT54](http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-pnp-SOT54)
 - Short Link: [http://oom.lt/FZETRANSISTORPNPSOT54](http://oom.lt/FZETRANSISTORPNPSOT54)

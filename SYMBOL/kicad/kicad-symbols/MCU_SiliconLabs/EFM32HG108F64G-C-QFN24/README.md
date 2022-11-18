@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_SiliconLabs-EFM32HG108F64G-C-QFN24
 - Hex ID: SZKMCUSILICONLABSEFM32HG18F64GCQFN24
 - Name: MCU_SiliconLabs : EFM32HG108F64G-C-QFN24
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_SiliconLabs/EFM32HG108F64G-C-QFN24/
 - Description: MCU_SiliconLabs : EFM32HG108F64G-C-QFN24
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_SiliconLabs-EFM32HG108F64G-C-QFN24](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_SiliconLabs-EFM32HG108F64G-C-QFN24)
 - Short Link: [http://oom.lt/SZKMCUSILICONLABSEFM32HG18F64GCQFN24](http://oom.lt/SZKMCUSILICONLABSEFM32HG18F64GCQFN24)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_2220_5650Metric
 - Hex ID: FZKCC222565VA
 - Name: Capacitor_SMD : C_2220_5650Metric
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Capacitor_SMD/C_2220_5650Metric/
 - Description: Capacitor_SMD : C_2220_5650Metric
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_2220_5650Metric](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_2220_5650Metric)
 - Short Link: [http://oom.lt/FZKCC222565VA](http://oom.lt/FZKCC222565VA)

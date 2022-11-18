@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Transformer_THT-Transformer_NF_ETAL_P3324
 - Hex ID: FZKTRTRNFETALP3324
 - Name: Transformer_THT : Transformer_NF_ETAL_P3324
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Transformer_THT/Transformer_NF_ETAL_P3324/
 - Description: Transformer_THT : Transformer_NF_ETAL_P3324
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Transformer_THT-Transformer_NF_ETAL_P3324](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Transformer_THT-Transformer_NF_ETAL_P3324)
 - Short Link: [http://oom.lt/FZKTRTRNFETALP3324](http://oom.lt/FZKTRTRNFETALP3324)

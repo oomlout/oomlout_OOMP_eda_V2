@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-diode-C2992
 - Hex ID: FZEDIODEC2992
 - Name: diode : C2992
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/diode/C2992/
 - Description: diode : C2992
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-diode-C2992](http://oom.lt/FOOTPRINT-eagle-eagle-default-diode-C2992)
 - Short Link: [http://oom.lt/FZEDIODEC2992](http://oom.lt/FZEDIODEC2992)

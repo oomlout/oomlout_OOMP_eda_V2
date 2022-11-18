@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Neosid_SM-PIC1004H
 - Hex ID: FZKINLNEOSIDSMPIC14H
 - Name: Inductor_SMD : L_Neosid_SM-PIC1004H
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Neosid_SM-PIC1004H/
 - Description: Inductor_SMD : L_Neosid_SM-PIC1004H
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Neosid_SM-PIC1004H](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Neosid_SM-PIC1004H)
 - Short Link: [http://oom.lt/FZKINLNEOSIDSMPIC14H](http://oom.lt/FZKINLNEOSIDSMPIC14H)

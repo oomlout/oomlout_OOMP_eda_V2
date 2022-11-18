@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-MMBD4148TW
 - Hex ID: SZKDIODEBD4148TW
 - Name: Diode : MMBD4148TW
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/MMBD4148TW/
 - Description: Diode : MMBD4148TW
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-MMBD4148TW](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-MMBD4148TW)
 - Short Link: [http://oom.lt/SZKDIODEBD4148TW](http://oom.lt/SZKDIODEBD4148TW)

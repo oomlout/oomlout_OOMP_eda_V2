@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-SWITCH-DPDT
 - Hex ID: FZSRTSWDPDT
 - Name: SparkFun-Retired : SWITCH-DPDT
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Retired/SWITCH-DPDT/
 - Description: SparkFun-Retired : SWITCH-DPDT
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-SWITCH-DPDT](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-SWITCH-DPDT)
 - Short Link: [http://oom.lt/FZSRTSWDPDT](http://oom.lt/FZSRTSWDPDT)

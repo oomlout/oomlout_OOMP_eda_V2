@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Analog_Switch-MAX14778
 - Hex ID: SZKANALOGSWMAX14778
 - Name: Analog_Switch : MAX14778
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog_Switch/MAX14778/
 - Description: Analog_Switch : MAX14778
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_Switch-MAX14778](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_Switch-MAX14778)
 - Short Link: [http://oom.lt/SZKANALOGSWMAX14778](http://oom.lt/SZKANALOGSWMAX14778)

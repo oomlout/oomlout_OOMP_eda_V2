@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-switch-misc-STK-U
 - Hex ID: FZESWMISCSTKU
 - Name: switch-misc : STK-U
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/switch-misc/STK-U/
 - Description: switch-misc : STK-U
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-misc-STK-U](http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-misc-STK-U)
 - Short Link: [http://oom.lt/FZESWMISCSTKU](http://oom.lt/FZESWMISCSTKU)

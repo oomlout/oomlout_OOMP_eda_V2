@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Audio-OPA1622
 - Hex ID: SZKAMPLIFIERAUDIOOPA1622
 - Name: Amplifier_Audio : OPA1622
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Audio/OPA1622/
 - Description: Amplifier_Audio : OPA1622
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Audio-OPA1622](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Audio-OPA1622)
 - Short Link: [http://oom.lt/SZKAMPLIFIERAUDIOOPA1622](http://oom.lt/SZKAMPLIFIERAUDIOOPA1622)

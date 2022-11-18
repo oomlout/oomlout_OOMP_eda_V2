@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-LM2575BT-ADJ
 - Hex ID: SZKREGULATORSWINGLM2575BTADJ
 - Name: Regulator_Switching : LM2575BT-ADJ
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/LM2575BT-ADJ/
 - Description: Regulator_Switching : LM2575BT-ADJ
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LM2575BT-ADJ](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LM2575BT-ADJ)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGLM2575BTADJ](http://oom.lt/SZKREGULATORSWINGLM2575BTADJ)

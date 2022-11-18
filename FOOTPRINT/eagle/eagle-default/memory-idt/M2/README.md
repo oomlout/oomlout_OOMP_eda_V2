@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-memory-idt-M2
 - Hex ID: FZEMEMORYIDTM2
 - Name: memory-idt : M2
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/memory-idt/M2/
 - Description: memory-idt : M2
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-memory-idt-M2](http://oom.lt/FOOTPRINT-eagle-eagle-default-memory-idt-M2)
 - Short Link: [http://oom.lt/FZEMEMORYIDTM2](http://oom.lt/FZEMEMORYIDTM2)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-OnSemi_SIP-38-6EP-9x7mm_P0.65mm_EP1.2x1.2mm
 - Hex ID: FZKDFNONSEMISIP386EP9X7P65EP12X12
 - Name: Package_DFN_QFN : OnSemi_SIP-38-6EP-9x7mm_P0.65mm_EP1.2x1.2mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/OnSemi_SIP-38-6EP-9x7mm_P0.65mm_EP1.2x1.2mm/
 - Description: Package_DFN_QFN : OnSemi_SIP-38-6EP-9x7mm_P0.65mm_EP1.2x1.2mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-OnSemi_SIP-38-6EP-9x7mm_P0.65mm_EP1.2x1.2mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-OnSemi_SIP-38-6EP-9x7mm_P0.65mm_EP1.2x1.2mm)
 - Short Link: [http://oom.lt/FZKDFNONSEMISIP386EP9X7P65EP12X12](http://oom.lt/FZKDFNONSEMISIP386EP9X7P65EP12X12)

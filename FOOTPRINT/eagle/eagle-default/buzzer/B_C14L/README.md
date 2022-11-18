@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-buzzer-B_C14L
 - Hex ID: FZEBUZZERBC14L
 - Name: buzzer : B_C14L
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/buzzer/B_C14L/
 - Description: buzzer : B_C14L
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-buzzer-B_C14L](http://oom.lt/FOOTPRINT-eagle-eagle-default-buzzer-B_C14L)
 - Short Link: [http://oom.lt/FZEBUZZERBC14L](http://oom.lt/FZEBUZZERBC14L)

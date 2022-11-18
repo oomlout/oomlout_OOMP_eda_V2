@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-crystal-HC33U-H
 - Hex ID: FZEXHC33UH
 - Name: crystal : HC33U-H
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/crystal/HC33U-H/
 - Description: crystal : HC33U-H
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-crystal-HC33U-H](http://oom.lt/FOOTPRINT-eagle-eagle-default-crystal-HC33U-H)
 - Short Link: [http://oom.lt/FZEXHC33UH](http://oom.lt/FZEXHC33UH)

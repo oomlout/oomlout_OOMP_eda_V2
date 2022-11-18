@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-relay-CLARE002
 - Hex ID: FZERELAYCLARE2
 - Name: relay : CLARE002
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/relay/CLARE002/
 - Description: relay : CLARE002
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-CLARE002](http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-CLARE002)
 - Short Link: [http://oom.lt/FZERELAYCLARE2](http://oom.lt/FZERELAYCLARE2)

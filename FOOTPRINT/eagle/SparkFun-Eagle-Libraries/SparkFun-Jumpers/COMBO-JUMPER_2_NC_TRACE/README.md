@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Jumpers-COMBO-JUMPER_2_NC_TRACE
 - Hex ID: FZSSPARKFUNJSCOMBOJ2NCTRACE
 - Name: SparkFun-Jumpers : COMBO-JUMPER_2_NC_TRACE
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Jumpers/COMBO-JUMPER_2_NC_TRACE/
 - Description: SparkFun-Jumpers : COMBO-JUMPER_2_NC_TRACE
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Jumpers-COMBO-JUMPER_2_NC_TRACE](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Jumpers-COMBO-JUMPER_2_NC_TRACE)
 - Short Link: [http://oom.lt/FZSSPARKFUNJSCOMBOJ2NCTRACE](http://oom.lt/FZSSPARKFUNJSCOMBOJ2NCTRACE)

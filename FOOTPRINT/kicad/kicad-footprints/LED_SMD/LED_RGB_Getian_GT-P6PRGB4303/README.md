@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_RGB_Getian_GT-P6PRGB4303
 - Hex ID: FZKLLRGBGETIANGTP6PRGB433
 - Name: LED_SMD : LED_RGB_Getian_GT-P6PRGB4303
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_RGB_Getian_GT-P6PRGB4303/
 - Description: LED_SMD : LED_RGB_Getian_GT-P6PRGB4303
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_RGB_Getian_GT-P6PRGB4303](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_RGB_Getian_GT-P6PRGB4303)
 - Short Link: [http://oom.lt/FZKLLRGBGETIANGTP6PRGB433](http://oom.lt/FZKLLRGBGETIANGTP6PRGB433)

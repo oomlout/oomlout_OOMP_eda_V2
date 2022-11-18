@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-memory-TSOP48
 - Hex ID: FZEMEMORYTS48
 - Name: memory : TSOP48
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/memory/TSOP48/
 - Description: memory : TSOP48
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-memory-TSOP48](http://oom.lt/FOOTPRINT-eagle-eagle-default-memory-TSOP48)
 - Short Link: [http://oom.lt/FZEMEMORYTS48](http://oom.lt/FZEMEMORYTS48)

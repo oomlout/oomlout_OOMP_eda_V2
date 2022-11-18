@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-trafo-PT13-1
 - Hex ID: FZETRAFOPT131
 - Name: trafo : PT13-1
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/trafo/PT13-1/
 - Description: trafo : PT13-1
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-trafo-PT13-1](http://oom.lt/FOOTPRINT-eagle-eagle-default-trafo-PT13-1)
 - Short Link: [http://oom.lt/FZETRAFOPT131](http://oom.lt/FZETRAFOPT131)

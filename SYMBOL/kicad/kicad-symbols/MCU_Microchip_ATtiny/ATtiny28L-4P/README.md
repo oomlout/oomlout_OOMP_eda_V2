@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny28L-4P
 - Hex ID: SZKMCUMCHIPATTINYATTINY28L4P
 - Name: MCU_Microchip_ATtiny : ATtiny28L-4P
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_ATtiny/ATtiny28L-4P/
 - Description: MCU_Microchip_ATtiny : ATtiny28L-4P
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny28L-4P](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny28L-4P)
 - Short Link: [http://oom.lt/SZKMCUMCHIPATTINYATTINY28L4P](http://oom.lt/SZKMCUMCHIPATTINYATTINY28L4P)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Battery-Battery_CR1225
 - Hex ID: FZKBATBATCR1225
 - Name: Battery : Battery_CR1225
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Battery/Battery_CR1225/
 - Description: Battery : Battery_CR1225
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Battery-Battery_CR1225](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Battery-Battery_CR1225)
 - Short Link: [http://oom.lt/FZKBATBATCR1225](http://oom.lt/FZKBATBATCR1225)

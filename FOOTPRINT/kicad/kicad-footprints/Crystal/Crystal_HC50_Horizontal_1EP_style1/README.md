@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_HC50_Horizontal_1EP_style1
 - Hex ID: FZKXXHC5H1EPSTYLE1
 - Name: Crystal : Crystal_HC50_Horizontal_1EP_style1
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_HC50_Horizontal_1EP_style1/
 - Description: Crystal : Crystal_HC50_Horizontal_1EP_style1
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_HC50_Horizontal_1EP_style1](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_HC50_Horizontal_1EP_style1)
 - Short Link: [http://oom.lt/FZKXXHC5H1EPSTYLE1](http://oom.lt/FZKXXHC5H1EPSTYLE1)

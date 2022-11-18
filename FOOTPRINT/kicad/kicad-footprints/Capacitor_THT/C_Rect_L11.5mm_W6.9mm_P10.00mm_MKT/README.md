@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Capacitor_THT-C_Rect_L11.5mm_W6.9mm_P10.00mm_MKT
 - Hex ID: FZKCCRECTL115W69P1MKT
 - Name: Capacitor_THT : C_Rect_L11.5mm_W6.9mm_P10.00mm_MKT
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Capacitor_THT/C_Rect_L11.5mm_W6.9mm_P10.00mm_MKT/
 - Description: Capacitor_THT : C_Rect_L11.5mm_W6.9mm_P10.00mm_MKT
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_THT-C_Rect_L11.5mm_W6.9mm_P10.00mm_MKT](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_THT-C_Rect_L11.5mm_W6.9mm_P10.00mm_MKT)
 - Short Link: [http://oom.lt/FZKCCRECTL115W69P1MKT](http://oom.lt/FZKCCRECTL115W69P1MKT)

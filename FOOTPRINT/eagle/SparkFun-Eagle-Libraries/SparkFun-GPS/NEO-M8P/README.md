@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-GPS-NEO-M8P
 - Hex ID: FZSGNEOM8P
 - Name: SparkFun-GPS : NEO-M8P
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-GPS/NEO-M8P/
 - Description: SparkFun-GPS : NEO-M8P
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-GPS-NEO-M8P](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-GPS-NEO-M8P)
 - Short Link: [http://oom.lt/FZSGNEOM8P](http://oom.lt/FZSGNEOM8P)

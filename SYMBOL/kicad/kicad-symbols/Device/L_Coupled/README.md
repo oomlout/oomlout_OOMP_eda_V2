@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Device-L_Coupled
 - Hex ID: SZKDEVICELCOUPL
 - Name: Device : L_Coupled
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/L_Coupled/
 - Description: Device : L_Coupled
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-L_Coupled](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-L_Coupled)
 - Short Link: [http://oom.lt/SZKDEVICELCOUPL](http://oom.lt/SZKDEVICELCOUPL)

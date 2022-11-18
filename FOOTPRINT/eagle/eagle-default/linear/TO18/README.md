@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-linear-TO18
 - Hex ID: FZELINEARTO18
 - Name: linear : TO18
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/linear/TO18/
 - Description: linear : TO18
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-linear-TO18](http://oom.lt/FOOTPRINT-eagle-eagle-default-linear-TO18)
 - Short Link: [http://oom.lt/FZELINEARTO18](http://oom.lt/FZELINEARTO18)

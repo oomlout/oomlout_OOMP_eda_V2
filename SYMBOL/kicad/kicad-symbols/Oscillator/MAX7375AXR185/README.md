@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Oscillator-MAX7375AXR185
 - Hex ID: SZKOCSMAX7375AXR185
 - Name: Oscillator : MAX7375AXR185
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Oscillator/MAX7375AXR185/
 - Description: Oscillator : MAX7375AXR185
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Oscillator-MAX7375AXR185](http://oom.lt/SYMBOL-kicad-kicad-symbols-Oscillator-MAX7375AXR185)
 - Short Link: [http://oom.lt/SZKOCSMAX7375AXR185](http://oom.lt/SZKOCSMAX7375AXR185)

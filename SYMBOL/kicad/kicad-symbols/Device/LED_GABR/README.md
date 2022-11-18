@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Device-LED_GABR
 - Hex ID: SZKDEVICELGABR
 - Name: Device : LED_GABR
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/LED_GABR/
 - Description: Device : LED_GABR
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-LED_GABR](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-LED_GABR)
 - Short Link: [http://oom.lt/SZKDEVICELGABR](http://oom.lt/SZKDEVICELGABR)

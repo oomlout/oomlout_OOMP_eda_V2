@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-micro-siemens-DIL20
 - Hex ID: FZEMSIEMENSDIL2
 - Name: micro-siemens : DIL20
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/micro-siemens/DIL20/
 - Description: micro-siemens : DIL20
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-siemens-DIL20](http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-siemens-DIL20)
 - Short Link: [http://oom.lt/FZEMSIEMENSDIL2](http://oom.lt/FZEMSIEMENSDIL2)

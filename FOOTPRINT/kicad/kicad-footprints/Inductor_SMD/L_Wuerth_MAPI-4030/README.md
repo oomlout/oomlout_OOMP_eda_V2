@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Wuerth_MAPI-4030
 - Hex ID: FZKINLWUERTHMAPI43
 - Name: Inductor_SMD : L_Wuerth_MAPI-4030
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Wuerth_MAPI-4030/
 - Description: Inductor_SMD : L_Wuerth_MAPI-4030
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Wuerth_MAPI-4030](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Wuerth_MAPI-4030)
 - Short Link: [http://oom.lt/FZKINLWUERTHMAPI43](http://oom.lt/FZKINLWUERTHMAPI43)

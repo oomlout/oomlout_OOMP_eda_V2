@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-diode-SOD123
 - Hex ID: FZEDIODESOD123
 - Name: diode : SOD123
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/diode/SOD123/
 - Description: diode : SOD123
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-diode-SOD123](http://oom.lt/FOOTPRINT-eagle-eagle-default-diode-SOD123)
 - Short Link: [http://oom.lt/FZEDIODESOD123](http://oom.lt/FZEDIODESOD123)

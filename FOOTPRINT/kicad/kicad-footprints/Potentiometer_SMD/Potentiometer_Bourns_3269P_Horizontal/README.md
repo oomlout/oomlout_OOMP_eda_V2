@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Potentiometer_SMD-Potentiometer_Bourns_3269P_Horizontal
 - Hex ID: FZKPPOTBOURNS3269PH
 - Name: Potentiometer_SMD : Potentiometer_Bourns_3269P_Horizontal
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Potentiometer_SMD/Potentiometer_Bourns_3269P_Horizontal/
 - Description: Potentiometer_SMD : Potentiometer_Bourns_3269P_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Potentiometer_SMD-Potentiometer_Bourns_3269P_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Potentiometer_SMD-Potentiometer_Bourns_3269P_Horizontal)
 - Short Link: [http://oom.lt/FZKPPOTBOURNS3269PH](http://oom.lt/FZKPPOTBOURNS3269PH)

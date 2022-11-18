@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Connector-XLR3
 - Hex ID: SZKCNXLR3
 - Name: Connector : XLR3
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector/XLR3/
 - Description: Connector : XLR3
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-XLR3](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-XLR3)
 - Short Link: [http://oom.lt/SZKCNXLR3](http://oom.lt/SZKCNXLR3)

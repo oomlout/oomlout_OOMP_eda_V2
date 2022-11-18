@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-LEDS-0603-Y-STAN-01-L6Y
 - Hex ID: SZOOMPKOOMPPLS63YSTAN1L6Y
 - Name: oomlout_OOMP_parts : LEDS-0603-Y-STAN-01-L6Y
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/LEDS-0603-Y-STAN-01-L6Y/
 - Description: oomlout_OOMP_parts : LEDS-0603-Y-STAN-01-L6Y
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-LEDS-0603-Y-STAN-01-L6Y](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-LEDS-0603-Y-STAN-01-L6Y)
 - Short Link: [http://oom.lt/SZOOMPKOOMPPLS63YSTAN1L6Y](http://oom.lt/SZOOMPKOOMPPLS63YSTAN1L6Y)

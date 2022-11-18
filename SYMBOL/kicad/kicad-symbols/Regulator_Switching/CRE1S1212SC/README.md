@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-CRE1S1212SC
 - Hex ID: SZKREGULATORSWINGCRE1S1212SC
 - Name: Regulator_Switching : CRE1S1212SC
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/CRE1S1212SC/
 - Description: Regulator_Switching : CRE1S1212SC
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-CRE1S1212SC](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-CRE1S1212SC)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGCRE1S1212SC](http://oom.lt/SZKREGULATORSWINGCRE1S1212SC)

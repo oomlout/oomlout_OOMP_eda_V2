@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Resistor_THT-R_Axial_Power_L60.0mm_W14.0mm_P10.16mm_Vertical
 - Hex ID: FZKRRAXIALPOWERL6W14P116F
 - Name: Resistor_THT : R_Axial_Power_L60.0mm_W14.0mm_P10.16mm_Vertical
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Resistor_THT/R_Axial_Power_L60.0mm_W14.0mm_P10.16mm_Vertical/
 - Description: Resistor_THT : R_Axial_Power_L60.0mm_W14.0mm_P10.16mm_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Resistor_THT-R_Axial_Power_L60.0mm_W14.0mm_P10.16mm_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Resistor_THT-R_Axial_Power_L60.0mm_W14.0mm_P10.16mm_Vertical)
 - Short Link: [http://oom.lt/FZKRRAXIALPOWERL6W14P116F](http://oom.lt/FZKRRAXIALPOWERL6W14P116F)

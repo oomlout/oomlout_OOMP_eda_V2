@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-Central_Semi_CMKD4448
 - Hex ID: SZKDIODECENTRALSEMICMKD4448
 - Name: Diode : Central_Semi_CMKD4448
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/Central_Semi_CMKD4448/
 - Description: Diode : Central_Semi_CMKD4448
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-Central_Semi_CMKD4448](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-Central_Semi_CMKD4448)
 - Short Link: [http://oom.lt/SZKDIODECENTRALSEMICMKD4448](http://oom.lt/SZKDIODECENTRALSEMICMKD4448)

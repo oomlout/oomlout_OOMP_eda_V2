@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-Interface_UART-THVD1400D
 - Hex ID: SZKINTERFACEUARTTHVD14D
 - Name: Interface_UART : THVD1400D
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_UART/THVD1400D/
 - Description: Interface_UART : THVD1400D
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_UART-THVD1400D](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_UART-THVD1400D)
 - Short Link: [http://oom.lt/SZKINTERFACEUARTTHVD14D](http://oom.lt/SZKINTERFACEUARTTHVD14D)

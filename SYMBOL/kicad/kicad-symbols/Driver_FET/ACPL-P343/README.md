@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Driver_FET-ACPL-P343
 - Hex ID: SZKDRIVERFETACPLP343
 - Name: Driver_FET : ACPL-P343
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Driver_FET/ACPL-P343/
 - Description: Driver_FET : ACPL-P343
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-ACPL-P343](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-ACPL-P343)
 - Short Link: [http://oom.lt/SZKDRIVERFETACPLP343](http://oom.lt/SZKDRIVERFETACPLP343)

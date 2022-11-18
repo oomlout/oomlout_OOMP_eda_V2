@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-MountingHole-MountingHole_3.2mm_M3_ISO7380
 - Hex ID: FZKHOLHOL32M3ISO738
 - Name: MountingHole : MountingHole_3.2mm_M3_ISO7380
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/MountingHole/MountingHole_3.2mm_M3_ISO7380/
 - Description: MountingHole : MountingHole_3.2mm_M3_ISO7380
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-MountingHole-MountingHole_3.2mm_M3_ISO7380](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-MountingHole-MountingHole_3.2mm_M3_ISO7380)
 - Short Link: [http://oom.lt/FZKHOLHOL32M3ISO738](http://oom.lt/FZKHOLHOL32M3ISO738)

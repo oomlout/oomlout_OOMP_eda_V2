@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Pulse_PA4320
 - Hex ID: FZKINLPULSEPA432
 - Name: Inductor_SMD : L_Pulse_PA4320
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Pulse_PA4320/
 - Description: Inductor_SMD : L_Pulse_PA4320
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Pulse_PA4320](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Pulse_PA4320)
 - Short Link: [http://oom.lt/FZKINLPULSEPA432](http://oom.lt/FZKINLPULSEPA432)

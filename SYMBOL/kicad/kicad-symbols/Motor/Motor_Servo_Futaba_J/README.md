@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Motor-Motor_Servo_Futaba_J
 - Hex ID: SZKMOTORMOTORSERVOFUTABAJ
 - Name: Motor : Motor_Servo_Futaba_J
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Motor/Motor_Servo_Futaba_J/
 - Description: Motor : Motor_Servo_Futaba_J
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Motor-Motor_Servo_Futaba_J](http://oom.lt/SYMBOL-kicad-kicad-symbols-Motor-Motor_Servo_Futaba_J)
 - Short Link: [http://oom.lt/SZKMOTORMOTORSERVOFUTABAJ](http://oom.lt/SZKMOTORMOTORSERVOFUTABAJ)

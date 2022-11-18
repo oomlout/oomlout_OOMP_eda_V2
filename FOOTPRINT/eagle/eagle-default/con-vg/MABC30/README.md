@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-vg-MABC30
 - Hex ID: FZECONVGMABC3
 - Name: con-vg : MABC30
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-vg/MABC30/
 - Description: con-vg : MABC30
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-vg-MABC30](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-vg-MABC30)
 - Short Link: [http://oom.lt/FZECONVGMABC3](http://oom.lt/FZECONVGMABC3)

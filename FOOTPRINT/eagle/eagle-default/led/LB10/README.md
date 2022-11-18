@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-led-LB10
 - Hex ID: FZELLB1
 - Name: led : LB10
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/led/LB10/
 - Description: led : LB10
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-led-LB10](http://oom.lt/FOOTPRINT-eagle-eagle-default-led-LB10)
 - Short Link: [http://oom.lt/FZELLB1](http://oom.lt/FZELLB1)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_CLIK-Mate_505405-0970_1x09-1MP_P1.50mm_Vertical
 - Hex ID: FZKCNMXMXCLIKMATE5545971X91MPP15F
 - Name: Connector_Molex : Molex_CLIK-Mate_505405-0970_1x09-1MP_P1.50mm_Vertical
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_CLIK-Mate_505405-0970_1x09-1MP_P1.50mm_Vertical/
 - Description: Connector_Molex : Molex_CLIK-Mate_505405-0970_1x09-1MP_P1.50mm_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_CLIK-Mate_505405-0970_1x09-1MP_P1.50mm_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_CLIK-Mate_505405-0970_1x09-1MP_P1.50mm_Vertical)
 - Short Link: [http://oom.lt/FZKCNMXMXCLIKMATE5545971X91MPP15F](http://oom.lt/FZKCNMXMXCLIKMATE5545971X91MPP15F)

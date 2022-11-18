@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-DiscreteSemi-TO-92-EZ
 - Hex ID: FZSDSTO92EZ
 - Name: SparkFun-DiscreteSemi : TO-92-EZ
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-DiscreteSemi/TO-92-EZ/
 - Description: SparkFun-DiscreteSemi : TO-92-EZ
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-DiscreteSemi-TO-92-EZ](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-DiscreteSemi-TO-92-EZ)
 - Short Link: [http://oom.lt/FZSDSTO92EZ](http://oom.lt/FZSDSTO92EZ)

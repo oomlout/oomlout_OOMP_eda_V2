@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SOT-23W
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSSOT23W
 - Name: digikey-footprints : SOT-23W
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/SOT-23W/
 - Description: digikey-footprints : SOT-23W
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SOT-23W](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SOT-23W)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSSOT23W](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSSOT23W)

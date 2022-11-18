@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_SON-WSON-6_1.5x1.5mm_P0.5mm
 - Hex ID: FZKSONWSON615X15P5
 - Name: Package_SON : WSON-6_1.5x1.5mm_P0.5mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SON/WSON-6_1.5x1.5mm_P0.5mm/
 - Description: Package_SON : WSON-6_1.5x1.5mm_P0.5mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SON-WSON-6_1.5x1.5mm_P0.5mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SON-WSON-6_1.5x1.5mm_P0.5mm)
 - Short Link: [http://oom.lt/FZKSONWSON615X15P5](http://oom.lt/FZKSONWSON615X15P5)

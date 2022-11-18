@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_JAE-JAE_LY20-16P-DLT1_2x08_P2.00mm_Horizontal
 - Hex ID: FZKCNJAEJAELY216PDLT12X8P2H
 - Name: Connector_JAE : JAE_LY20-16P-DLT1_2x08_P2.00mm_Horizontal
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_JAE/JAE_LY20-16P-DLT1_2x08_P2.00mm_Horizontal/
 - Description: Connector_JAE : JAE_LY20-16P-DLT1_2x08_P2.00mm_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_JAE-JAE_LY20-16P-DLT1_2x08_P2.00mm_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_JAE-JAE_LY20-16P-DLT1_2x08_P2.00mm_Horizontal)
 - Short Link: [http://oom.lt/FZKCNJAEJAELY216PDLT12X8P2H](http://oom.lt/FZKCNJAEJAELY216PDLT12X8P2H)

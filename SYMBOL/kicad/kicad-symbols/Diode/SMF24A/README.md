@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-SMF24A
 - Hex ID: SZKDIODESMF24A
 - Name: Diode : SMF24A
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/SMF24A/
 - Description: Diode : SMF24A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-SMF24A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-SMF24A)
 - Short Link: [http://oom.lt/SZKDIODESMF24A](http://oom.lt/SZKDIODESMF24A)

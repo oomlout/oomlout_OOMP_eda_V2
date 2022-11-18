@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-fuse-TR5
 - Hex ID: FZEFUTR5
 - Name: fuse : TR5
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/fuse/TR5/
 - Description: fuse : TR5
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-fuse-TR5](http://oom.lt/FOOTPRINT-eagle-eagle-default-fuse-TR5)
 - Short Link: [http://oom.lt/FZEFUTR5](http://oom.lt/FZEFUTR5)

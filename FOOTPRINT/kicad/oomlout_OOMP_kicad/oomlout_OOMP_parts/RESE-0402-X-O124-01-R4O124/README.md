@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0402-X-O124-01-R4O124
 - Hex ID: FZOOMPKOOMPPRESE42XO1241R4O124
 - Name: oomlout_OOMP_parts : RESE-0402-X-O124-01-R4O124
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/RESE-0402-X-O124-01-R4O124/
 - Description: oomlout_OOMP_parts : RESE-0402-X-O124-01-R4O124
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0402-X-O124-01-R4O124](http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0402-X-O124-01-R4O124)
 - Short Link: [http://oom.lt/FZOOMPKOOMPPRESE42XO1241R4O124](http://oom.lt/FZOOMPKOOMPPRESE42XO1241R4O124)

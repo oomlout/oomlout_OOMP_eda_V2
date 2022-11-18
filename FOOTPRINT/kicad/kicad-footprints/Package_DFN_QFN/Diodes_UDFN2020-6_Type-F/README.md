@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKDFNDIODESUDFN226TYPEF > Package_DFN_QFN : Diodes_UDFN2020-6_Type-F](#fzkdfndiodesudfn226typef--package_dfn_qfn--diodes_udfn2020-6_type-f)
+* [FZKDFNDIODESUDFN226TF > Package_DFN_QFN : Diodes_UDFN2020-6_Type-F](#fzkdfndiodesudfn226tf--package_dfn_qfn--diodes_udfn2020-6_type-f)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKDFNDIODESUDFN226TYPEF > Package_DFN_QFN : Diodes_UDFN2020-6_Type-F
+# FZKDFNDIODESUDFN226TF > Package_DFN_QFN : Diodes_UDFN2020-6_Type-F
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Diodes_UDFN2020-6_Type-F
-- Hex ID: FZKDFNDIODESUDFN226TYPEF
+- Hex ID: FZKDFNDIODESUDFN226TF
 - Name: Package_DFN_QFN : Diodes_UDFN2020-6_Type-F
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/Diodes_UDFN2020-6_Type-F/
 - Description: Package_DFN_QFN : Diodes_UDFN2020-6_Type-F
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Diodes_UDFN2020-6_Type-F](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Diodes_UDFN2020-6_Type-F)
-- Short Link: [http://oom.lt/FZKDFNDIODESUDFN226TYPEF](http://oom.lt/FZKDFNDIODESUDFN226TYPEF)
+- Short Link: [http://oom.lt/FZKDFNDIODESUDFN226TF](http://oom.lt/FZKDFNDIODESUDFN226TF)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Package_DFN_QFN|
 |OOMP Index|oompIndex|Diodes_UDFN2020-6_Type-F|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Diodes_UDFN2020-6_Type-F|
-|Hex ID (short code)|hexID|FZKDFNDIODESUDFN226TYPEF|
+|Hex ID (short code)|hexID|FZKDFNDIODESUDFN226TF|
 |name|name|Package_DFN_QFN : Diodes_UDFN2020-6_Type-F|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Diodes_UDFN2020-6_Type-F'</td><td> 'description'</td></tr><tr><td> 'U-DFN2020-6 (Type F) (https</td></tr><tr><td>//www.diodes.com/assets/Package-Files/U-DFN2020-6-Type-F.pdf) '</td><td> 'tags'</td></tr><tr><td> 'U-DFN2020-6 (Type F)'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_DFN_QFN.3dshapes/Diodes_UDFN2020-6_Type-F.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

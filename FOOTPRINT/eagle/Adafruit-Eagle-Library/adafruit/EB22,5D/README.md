@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-EB22,5D
 - Hex ID: FZAEB225D
 - Name: adafruit : EB22,5D
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/EB22,5D/
 - Description: adafruit : EB22,5D
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-EB22,5D](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-EB22,5D)
 - Short Link: [http://oom.lt/FZAEB225D](http://oom.lt/FZAEB225D)

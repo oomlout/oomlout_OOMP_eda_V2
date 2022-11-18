@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-switch-misc-9077-2
 - Hex ID: FZESWMISC9772
 - Name: switch-misc : 9077-2
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/switch-misc/9077-2/
 - Description: switch-misc : 9077-2
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-misc-9077-2](http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-misc-9077-2)
 - Short Link: [http://oom.lt/FZESWMISC9772](http://oom.lt/FZESWMISC9772)

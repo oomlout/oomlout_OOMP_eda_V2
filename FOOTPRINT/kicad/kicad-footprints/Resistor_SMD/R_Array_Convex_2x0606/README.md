@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_Array_Convex_2x0606
 - Hex ID: FZKRRARRAYCONVEX2X66
 - Name: Resistor_SMD : R_Array_Convex_2x0606
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_Array_Convex_2x0606/
 - Description: Resistor_SMD : R_Array_Convex_2x0606
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_Array_Convex_2x0606](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_Array_Convex_2x0606)
 - Short Link: [http://oom.lt/FZKRRARRAYCONVEX2X66](http://oom.lt/FZKRRARRAYCONVEX2X66)

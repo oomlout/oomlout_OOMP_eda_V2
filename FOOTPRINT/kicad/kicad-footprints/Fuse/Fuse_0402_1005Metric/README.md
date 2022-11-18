@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Fuse-Fuse_0402_1005Metric
 - Hex ID: FZKFUFU4215VA
 - Name: Fuse : Fuse_0402_1005Metric
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Fuse/Fuse_0402_1005Metric/
 - Description: Fuse : Fuse_0402_1005Metric
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Fuse-Fuse_0402_1005Metric](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Fuse-Fuse_0402_1005Metric)
 - Short Link: [http://oom.lt/FZKFUFU4215VA](http://oom.lt/FZKFUFU4215VA)

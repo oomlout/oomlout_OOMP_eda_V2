@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Analog_ADC-ADS7049
 - Hex ID: SZKANALOGADCADS749
 - Name: Analog_ADC : ADS7049
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog_ADC/ADS7049/
 - Description: Analog_ADC : ADS7049
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-ADS7049](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-ADS7049)
 - Short Link: [http://oom.lt/SZKANALOGADCADS749](http://oom.lt/SZKANALOGADCADS749)

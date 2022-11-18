@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC18-PIC18F23K22-xSP
 - Hex ID: SZKMCUMCHIPPIC18PIC18F23K22XSP
 - Name: MCU_Microchip_PIC18 : PIC18F23K22-xSP
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC18/PIC18F23K22-xSP/
 - Description: MCU_Microchip_PIC18 : PIC18F23K22-xSP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC18-PIC18F23K22-xSP](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC18-PIC18F23K22-xSP)
 - Short Link: [http://oom.lt/SZKMCUMCHIPPIC18PIC18F23K22XSP](http://oom.lt/SZKMCUMCHIPPIC18PIC18F23K22XSP)

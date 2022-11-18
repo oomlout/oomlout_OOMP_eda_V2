@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_LCC-PLCC-20
 - Hex ID: FZKLCCPLCC2
 - Name: Package_LCC : PLCC-20
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_LCC/PLCC-20/
 - Description: Package_LCC : PLCC-20
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_LCC-PLCC-20](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_LCC-PLCC-20)
 - Short Link: [http://oom.lt/FZKLCCPLCC2](http://oom.lt/FZKLCCPLCC2)

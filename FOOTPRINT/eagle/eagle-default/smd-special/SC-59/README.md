@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-smd-special-SC-59
 - Hex ID: FZESMSPECIALSC59
 - Name: smd-special : SC-59
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/smd-special/SC-59/
 - Description: smd-special : SC-59
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-special-SC-59](http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-special-SC-59)
 - Short Link: [http://oom.lt/FZESMSPECIALSC59](http://oom.lt/FZESMSPECIALSC59)

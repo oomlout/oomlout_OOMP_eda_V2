@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_UART-MAX13433EESD
 - Hex ID: SZKINTERFACEUARTMAX13433EESD
 - Name: Interface_UART : MAX13433EESD
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_UART/MAX13433EESD/
 - Description: Interface_UART : MAX13433EESD
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_UART-MAX13433EESD](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_UART-MAX13433EESD)
 - Short Link: [http://oom.lt/SZKINTERFACEUARTMAX13433EESD](http://oom.lt/SZKINTERFACEUARTMAX13433EESD)

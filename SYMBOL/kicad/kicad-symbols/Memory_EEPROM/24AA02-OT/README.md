@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Memory_EEPROM-24AA02-OT
 - Hex ID: SZKMEMORYEEPROM24AA2OT
 - Name: Memory_EEPROM : 24AA02-OT
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Memory_EEPROM/24AA02-OT/
 - Description: Memory_EEPROM : 24AA02-OT
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_EEPROM-24AA02-OT](http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_EEPROM-24AA02-OT)
 - Short Link: [http://oom.lt/SZKMEMORYEEPROM24AA2OT](http://oom.lt/SZKMEMORYEEPROM24AA2OT)

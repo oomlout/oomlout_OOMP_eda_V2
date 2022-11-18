@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-smd-special-PLCC-68-SMTL-TT
 - Hex ID: FZESMSPECIALPLCC68SLTT
 - Name: smd-special : PLCC-68-SMTL-TT
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/smd-special/PLCC-68-SMTL-TT/
 - Description: smd-special : PLCC-68-SMTL-TT
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-special-PLCC-68-SMTL-TT](http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-special-PLCC-68-SMTL-TT)
 - Short Link: [http://oom.lt/FZESMSPECIALPLCC68SLTT](http://oom.lt/FZESMSPECIALPLCC68SLTT)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-optocoupler-DIL05
 - Hex ID: FZEOPTOCOUPLERDIL5
 - Name: optocoupler : DIL05
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/optocoupler/DIL05/
 - Description: optocoupler : DIL05
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-optocoupler-DIL05](http://oom.lt/FOOTPRINT-eagle-eagle-default-optocoupler-DIL05)
 - Short Link: [http://oom.lt/FZEOPTOCOUPLERDIL5](http://oom.lt/FZEOPTOCOUPLERDIL5)

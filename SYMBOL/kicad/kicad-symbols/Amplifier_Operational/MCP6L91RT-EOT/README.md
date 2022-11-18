@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-MCP6L91RT-EOT
 - Hex ID: SZKAMPLIFIEROPERATIONALMCP6L91RTEOT
 - Name: Amplifier_Operational : MCP6L91RT-EOT
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/MCP6L91RT-EOT/
 - Description: Amplifier_Operational : MCP6L91RT-EOT
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-MCP6L91RT-EOT](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-MCP6L91RT-EOT)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALMCP6L91RTEOT](http://oom.lt/SZKAMPLIFIEROPERATIONALMCP6L91RTEOT)

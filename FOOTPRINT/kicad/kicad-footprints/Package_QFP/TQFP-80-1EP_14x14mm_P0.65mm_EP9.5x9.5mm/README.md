@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_QFP-TQFP-80-1EP_14x14mm_P0.65mm_EP9.5x9.5mm
 - Hex ID: FZKQFPTQFP81EP14X14P65EP95X95
 - Name: Package_QFP : TQFP-80-1EP_14x14mm_P0.65mm_EP9.5x9.5mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_QFP/TQFP-80-1EP_14x14mm_P0.65mm_EP9.5x9.5mm/
 - Description: Package_QFP : TQFP-80-1EP_14x14mm_P0.65mm_EP9.5x9.5mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_QFP-TQFP-80-1EP_14x14mm_P0.65mm_EP9.5x9.5mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_QFP-TQFP-80-1EP_14x14mm_P0.65mm_EP9.5x9.5mm)
 - Short Link: [http://oom.lt/FZKQFPTQFP81EP14X14P65EP95X95](http://oom.lt/FZKQFPTQFP81EP14X14P65EP95X95)

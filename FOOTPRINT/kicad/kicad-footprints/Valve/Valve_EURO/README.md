@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Valve-Valve_EURO
 - Hex ID: FZKVAVAEURO
 - Name: Valve : Valve_EURO
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Valve/Valve_EURO/
 - Description: Valve : Valve_EURO
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Valve-Valve_EURO](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Valve-Valve_EURO)
 - Short Link: [http://oom.lt/FZKVAVAEURO](http://oom.lt/FZKVAVAEURO)

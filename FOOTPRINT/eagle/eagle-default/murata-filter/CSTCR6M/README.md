@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-murata-filter-CSTCR6M
 - Hex ID: FZEMURATAFILCSTCR6M
 - Name: murata-filter : CSTCR6M
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/murata-filter/CSTCR6M/
 - Description: murata-filter : CSTCR6M
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-murata-filter-CSTCR6M](http://oom.lt/FOOTPRINT-eagle-eagle-default-murata-filter-CSTCR6M)
 - Short Link: [http://oom.lt/FZEMURATAFILCSTCR6M](http://oom.lt/FZEMURATAFILCSTCR6M)

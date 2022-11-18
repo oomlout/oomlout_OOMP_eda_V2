@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_1812_4532Metric
 - Hex ID: FZKLL18124532VA
 - Name: LED_SMD : LED_1812_4532Metric
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_1812_4532Metric/
 - Description: LED_SMD : LED_1812_4532Metric
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_1812_4532Metric](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_1812_4532Metric)
 - Short Link: [http://oom.lt/FZKLL18124532VA](http://oom.lt/FZKLL18124532VA)

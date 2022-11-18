@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Memory_EEPROM-BR25Sxxx
 - Hex ID: SZKMEMORYEEPROMBR25SXXX
 - Name: Memory_EEPROM : BR25Sxxx
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Memory_EEPROM/BR25Sxxx/
 - Description: Memory_EEPROM : BR25Sxxx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_EEPROM-BR25Sxxx](http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_EEPROM-BR25Sxxx)
 - Short Link: [http://oom.lt/SZKMEMORYEEPROMBR25SXXX](http://oom.lt/SZKMEMORYEEPROMBR25SXXX)

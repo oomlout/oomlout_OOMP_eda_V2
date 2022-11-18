@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_THT-Choke_Schaffner_RN122-04-28.0x27.0mm
 - Hex ID: FZKINCHOKESCHAFFNERRN122428X27
 - Name: Inductor_THT : Choke_Schaffner_RN122-04-28.0x27.0mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/Choke_Schaffner_RN122-04-28.0x27.0mm/
 - Description: Inductor_THT : Choke_Schaffner_RN122-04-28.0x27.0mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_THT-Choke_Schaffner_RN122-04-28.0x27.0mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_THT-Choke_Schaffner_RN122-04-28.0x27.0mm)
 - Short Link: [http://oom.lt/FZKINCHOKESCHAFFNERRN122428X27](http://oom.lt/FZKINCHOKESCHAFFNERRN122428X27)

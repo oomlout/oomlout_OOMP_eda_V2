@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-BD9G341EFJ
 - Hex ID: SZKREGULATORSWINGBD9G341EFJ
 - Name: Regulator_Switching : BD9G341EFJ
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/BD9G341EFJ/
 - Description: Regulator_Switching : BD9G341EFJ
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-BD9G341EFJ](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-BD9G341EFJ)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGBD9G341EFJ](http://oom.lt/SZKREGULATORSWINGBD9G341EFJ)

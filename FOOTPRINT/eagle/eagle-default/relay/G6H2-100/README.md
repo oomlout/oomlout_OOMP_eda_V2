@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-relay-G6H2-100
 - Hex ID: FZERELAYG6H21
 - Name: relay : G6H2-100
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/relay/G6H2-100/
 - Description: relay : G6H2-100
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-G6H2-100](http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-G6H2-100)
 - Short Link: [http://oom.lt/FZERELAYG6H21](http://oom.lt/FZERELAYG6H21)

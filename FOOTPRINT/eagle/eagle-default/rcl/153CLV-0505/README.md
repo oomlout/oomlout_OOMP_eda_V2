@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-rcl-153CLV-0505
 - Hex ID: FZERCL153CLV55
 - Name: rcl : 153CLV-0505
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/rcl/153CLV-0505/
 - Description: rcl : 153CLV-0505
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-153CLV-0505](http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-153CLV-0505)
 - Short Link: [http://oom.lt/FZERCL153CLV55](http://oom.lt/FZERCL153CLV55)

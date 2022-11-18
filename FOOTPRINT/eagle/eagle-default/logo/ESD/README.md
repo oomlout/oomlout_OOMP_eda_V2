@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-logo-ESD
 - Hex ID: FZELESD
 - Name: logo : ESD
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/logo/ESD/
 - Description: logo : ESD
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-logo-ESD](http://oom.lt/FOOTPRINT-eagle-eagle-default-logo-ESD)
 - Short Link: [http://oom.lt/FZELESD](http://oom.lt/FZELESD)

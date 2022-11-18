@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-tycoelectronics-RJ45-SHIELD1
 - Hex ID: FZECONTYCOELECTRONICSRJ45SH1
 - Name: con-tycoelectronics : RJ45-SHIELD1
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-tycoelectronics/RJ45-SHIELD1/
 - Description: con-tycoelectronics : RJ45-SHIELD1
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-tycoelectronics-RJ45-SHIELD1](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-tycoelectronics-RJ45-SHIELD1)
 - Short Link: [http://oom.lt/FZECONTYCOELECTRONICSRJ45SH1](http://oom.lt/FZECONTYCOELECTRONICSRJ45SH1)

@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEREFPACKAGESLONGPADPLCCS28 > ref-packages-longpad : PLCC-S28](#fzerefpackageslongpadplccs28--ref-packages-longpad--plcc-s28)
+* [FZEREFPSLPPLCCS28 > ref-packages-longpad : PLCC-S28](#fzerefpslpplccs28--ref-packages-longpad--plcc-s28)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEREFPACKAGESLONGPADPLCCS28 > ref-packages-longpad : PLCC-S28
+# FZEREFPSLPPLCCS28 > ref-packages-longpad : PLCC-S28
 
 - ID: FOOTPRINT-eagle-eagle-default-ref-packages-longpad-PLCC-S28
-- Hex ID: FZEREFPACKAGESLONGPADPLCCS28
+- Hex ID: FZEREFPSLPPLCCS28
 - Name: ref-packages-longpad : PLCC-S28
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ref-packages-longpad/PLCC-S28/
 - Description: ref-packages-longpad : PLCC-S28
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-longpad-PLCC-S28](http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-longpad-PLCC-S28)
-- Short Link: [http://oom.lt/FZEREFPACKAGESLONGPADPLCCS28](http://oom.lt/FZEREFPACKAGESLONGPADPLCCS28)
+- Short Link: [http://oom.lt/FZEREFPSLPPLCCS28](http://oom.lt/FZEREFPSLPPLCCS28)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|ref-packages-longpad|
 |OOMP Index|oompIndex|PLCC-S28|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-ref-packages-longpad-PLCC-S28|
-|Hex ID (short code)|hexID|FZEREFPACKAGESLONGPADPLCCS28|
+|Hex ID (short code)|hexID|FZEREFPSLPPLCCS28|
 |name|name|ref-packages-longpad : PLCC-S28|
 ||||

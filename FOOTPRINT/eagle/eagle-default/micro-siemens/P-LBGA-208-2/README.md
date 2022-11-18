@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-micro-siemens-P-LBGA-208-2
 - Hex ID: FZEMSIEMENSPLBGA282
 - Name: micro-siemens : P-LBGA-208-2
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/micro-siemens/P-LBGA-208-2/
 - Description: micro-siemens : P-LBGA-208-2
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-siemens-P-LBGA-208-2](http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-siemens-P-LBGA-208-2)
 - Short Link: [http://oom.lt/FZEMSIEMENSPLBGA282](http://oom.lt/FZEMSIEMENSPLBGA282)

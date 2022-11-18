@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_TDK_SLF10165
 - Hex ID: FZKINLTDKSLF1165
 - Name: Inductor_SMD : L_TDK_SLF10165
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_TDK_SLF10165/
 - Description: Inductor_SMD : L_TDK_SLF10165
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_TDK_SLF10165](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_TDK_SLF10165)
 - Short Link: [http://oom.lt/FZKINLTDKSLF1165](http://oom.lt/FZKINLTDKSLF1165)

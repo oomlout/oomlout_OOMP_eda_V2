@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-CPLD_Altera-EP1810
 - Hex ID: SZKCPLDALTERAEP181
 - Name: CPLD_Altera : EP1810
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/CPLD_Altera/EP1810/
 - Description: CPLD_Altera : EP1810
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-CPLD_Altera-EP1810](http://oom.lt/SYMBOL-kicad-kicad-symbols-CPLD_Altera-EP1810)
 - Short Link: [http://oom.lt/SZKCPLDALTERAEP181](http://oom.lt/SZKCPLDALTERAEP181)

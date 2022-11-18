@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-amp-350432-1
 - Hex ID: FZECONAMP354321
 - Name: con-amp : 350432-1
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-amp/350432-1/
 - Description: con-amp : 350432-1
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-amp-350432-1](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-amp-350432-1)
 - Short Link: [http://oom.lt/FZECONAMP354321](http://oom.lt/FZECONAMP354321)

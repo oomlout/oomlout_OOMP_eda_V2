@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZECONPCPCILONG > con-pc : PCI-LONG](#fzeconpcpcilong--con-pc--pci-long)
+* [FZECONPCPCIL > con-pc : PCI-LONG](#fzeconpcpcil--con-pc--pci-long)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZECONPCPCILONG > con-pc : PCI-LONG
+# FZECONPCPCIL > con-pc : PCI-LONG
 
 - ID: FOOTPRINT-eagle-eagle-default-con-pc-PCI-LONG
-- Hex ID: FZECONPCPCILONG
+- Hex ID: FZECONPCPCIL
 - Name: con-pc : PCI-LONG
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-pc/PCI-LONG/
 - Description: con-pc : PCI-LONG
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-pc-PCI-LONG](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-pc-PCI-LONG)
-- Short Link: [http://oom.lt/FZECONPCPCILONG](http://oom.lt/FZECONPCPCILONG)
+- Short Link: [http://oom.lt/FZECONPCPCIL](http://oom.lt/FZECONPCPCIL)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|con-pc|
 |OOMP Index|oompIndex|PCI-LONG|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-con-pc-PCI-LONG|
-|Hex ID (short code)|hexID|FZECONPCPCILONG|
+|Hex ID (short code)|hexID|FZECONPCPCIL|
 |name|name|con-pc : PCI-LONG|
 ||||
 

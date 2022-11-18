@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-maxim-TO52
 - Hex ID: FZEMAXIMTO52
 - Name: maxim : TO52
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/maxim/TO52/
 - Description: maxim : TO52
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-maxim-TO52](http://oom.lt/FOOTPRINT-eagle-eagle-default-maxim-TO52)
 - Short Link: [http://oom.lt/FZEMAXIMTO52](http://oom.lt/FZEMAXIMTO52)

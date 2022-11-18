@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Heatsink-Heatsink_62x40mm_2xFixation3mm
 - Hex ID: FZKHH62X42XFIXATION3
 - Name: Heatsink : Heatsink_62x40mm_2xFixation3mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Heatsink/Heatsink_62x40mm_2xFixation3mm/
 - Description: Heatsink : Heatsink_62x40mm_2xFixation3mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Heatsink-Heatsink_62x40mm_2xFixation3mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Heatsink-Heatsink_62x40mm_2xFixation3mm)
 - Short Link: [http://oom.lt/FZKHH62X42XFIXATION3](http://oom.lt/FZKHH62X42XFIXATION3)

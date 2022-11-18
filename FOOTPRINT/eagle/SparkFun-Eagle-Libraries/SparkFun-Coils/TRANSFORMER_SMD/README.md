@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Coils-TRANSFORMER_SMD
 - Hex ID: FZSCOTR
 - Name: SparkFun-Coils : TRANSFORMER_SMD
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Coils/TRANSFORMER_SMD/
 - Description: SparkFun-Coils : TRANSFORMER_SMD
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Coils-TRANSFORMER_SMD](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Coils-TRANSFORMER_SMD)
 - Short Link: [http://oom.lt/FZSCOTR](http://oom.lt/FZSCOTR)

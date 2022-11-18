@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-smd-ipc-PLCCR32
 - Hex ID: FZESMIPCPLCCR32
 - Name: smd-ipc : PLCCR32
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/smd-ipc/PLCCR32/
 - Description: smd-ipc : PLCCR32
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-PLCCR32](http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-PLCCR32)
 - Short Link: [http://oom.lt/FZESMIPCPLCCR32](http://oom.lt/FZESMIPCPLCCR32)

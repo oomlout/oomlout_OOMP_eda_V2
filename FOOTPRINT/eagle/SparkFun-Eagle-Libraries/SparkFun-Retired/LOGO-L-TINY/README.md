@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-LOGO-L-TINY
 - Hex ID: FZSRTLLTINY
 - Name: SparkFun-Retired : LOGO-L-TINY
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Retired/LOGO-L-TINY/
 - Description: SparkFun-Retired : LOGO-L-TINY
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-LOGO-L-TINY](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-LOGO-L-TINY)
 - Short Link: [http://oom.lt/FZSRTLLTINY](http://oom.lt/FZSRTLLTINY)

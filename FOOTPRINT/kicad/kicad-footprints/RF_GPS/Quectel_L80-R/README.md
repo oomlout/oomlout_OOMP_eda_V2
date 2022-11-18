@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-RF_GPS-Quectel_L80-R
 - Hex ID: FZKGPSQUECTELL8R
 - Name: RF_GPS : Quectel_L80-R
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/RF_GPS/Quectel_L80-R/
 - Description: RF_GPS : Quectel_L80-R
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_GPS-Quectel_L80-R](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_GPS-Quectel_L80-R)
 - Short Link: [http://oom.lt/FZKGPSQUECTELL8R](http://oom.lt/FZKGPSQUECTELL8R)

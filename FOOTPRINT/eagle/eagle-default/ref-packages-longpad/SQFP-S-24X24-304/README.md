@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEREFPACKAGESLONGPADSQFPS24X2434 > ref-packages-longpad : SQFP-S-24X24-304](#fzerefpackageslongpadsqfps24x2434--ref-packages-longpad--sqfp-s-24x24-304)
+* [FZEREFPSLPSQFPS24X2434 > ref-packages-longpad : SQFP-S-24X24-304](#fzerefpslpsqfps24x2434--ref-packages-longpad--sqfp-s-24x24-304)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEREFPACKAGESLONGPADSQFPS24X2434 > ref-packages-longpad : SQFP-S-24X24-304
+# FZEREFPSLPSQFPS24X2434 > ref-packages-longpad : SQFP-S-24X24-304
 
 - ID: FOOTPRINT-eagle-eagle-default-ref-packages-longpad-SQFP-S-24X24-304
-- Hex ID: FZEREFPACKAGESLONGPADSQFPS24X2434
+- Hex ID: FZEREFPSLPSQFPS24X2434
 - Name: ref-packages-longpad : SQFP-S-24X24-304
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ref-packages-longpad/SQFP-S-24X24-304/
 - Description: ref-packages-longpad : SQFP-S-24X24-304
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-longpad-SQFP-S-24X24-304](http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-longpad-SQFP-S-24X24-304)
-- Short Link: [http://oom.lt/FZEREFPACKAGESLONGPADSQFPS24X2434](http://oom.lt/FZEREFPACKAGESLONGPADSQFPS24X2434)
+- Short Link: [http://oom.lt/FZEREFPSLPSQFPS24X2434](http://oom.lt/FZEREFPSLPSQFPS24X2434)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|ref-packages-longpad|
 |OOMP Index|oompIndex|SQFP-S-24X24-304|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-ref-packages-longpad-SQFP-S-24X24-304|
-|Hex ID (short code)|hexID|FZEREFPACKAGESLONGPADSQFPS24X2434|
+|Hex ID (short code)|hexID|FZEREFPSLPSQFPS24X2434|
 |name|name|ref-packages-longpad : SQFP-S-24X24-304|
 ||||

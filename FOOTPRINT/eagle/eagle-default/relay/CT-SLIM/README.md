@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-relay-CT-SLIM
 - Hex ID: FZERELAYCTSLIM
 - Name: relay : CT-SLIM
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/relay/CT-SLIM/
 - Description: relay : CT-SLIM
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-CT-SLIM](http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-CT-SLIM)
 - Short Link: [http://oom.lt/FZERELAYCTSLIM](http://oom.lt/FZERELAYCTSLIM)

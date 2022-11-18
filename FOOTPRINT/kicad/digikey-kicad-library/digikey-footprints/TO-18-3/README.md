@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-TO-18-3
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSTO183
 - Name: digikey-footprints : TO-18-3
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/TO-18-3/
 - Description: digikey-footprints : TO-18-3
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-TO-18-3](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-TO-18-3)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSTO183](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSTO183)

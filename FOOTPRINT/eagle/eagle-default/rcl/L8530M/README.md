@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-rcl-L8530M
 - Hex ID: FZERCLL853M
 - Name: rcl : L8530M
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/rcl/L8530M/
 - Description: rcl : L8530M
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-L8530M](http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-L8530M)
 - Short Link: [http://oom.lt/FZERCLL853M](http://oom.lt/FZERCLL853M)

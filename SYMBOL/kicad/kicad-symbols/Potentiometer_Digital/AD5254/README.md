@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Potentiometer_Digital-AD5254
 - Hex ID: SZKPOTDIGITALAD5254
 - Name: Potentiometer_Digital : AD5254
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Potentiometer_Digital/AD5254/
 - Description: Potentiometer_Digital : AD5254
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Potentiometer_Digital-AD5254](http://oom.lt/SYMBOL-kicad-kicad-symbols-Potentiometer_Digital-AD5254)
 - Short Link: [http://oom.lt/SZKPOTDIGITALAD5254](http://oom.lt/SZKPOTDIGITALAD5254)

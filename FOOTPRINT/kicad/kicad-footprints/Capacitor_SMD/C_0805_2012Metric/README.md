@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0805_2012Metric
 - Hex ID: FZKCC85212VA
 - Name: Capacitor_SMD : C_0805_2012Metric
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Capacitor_SMD/C_0805_2012Metric/
 - Description: Capacitor_SMD : C_0805_2012Metric
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0805_2012Metric](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0805_2012Metric)
 - Short Link: [http://oom.lt/FZKCC85212VA](http://oom.lt/FZKCC85212VA)

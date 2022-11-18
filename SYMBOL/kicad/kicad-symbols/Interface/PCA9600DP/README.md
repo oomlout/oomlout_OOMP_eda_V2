@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface-PCA9600DP
 - Hex ID: SZKINTERFACEPCA96DP
 - Name: Interface : PCA9600DP
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface/PCA9600DP/
 - Description: Interface : PCA9600DP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-PCA9600DP](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-PCA9600DP)
 - Short Link: [http://oom.lt/SZKINTERFACEPCA96DP](http://oom.lt/SZKINTERFACEPCA96DP)

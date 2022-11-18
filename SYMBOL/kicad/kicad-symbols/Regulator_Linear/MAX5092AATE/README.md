@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-MAX5092AATE
 - Hex ID: SZKREGULATORLINEARMAX592AATE
 - Name: Regulator_Linear : MAX5092AATE
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/MAX5092AATE/
 - Description: Regulator_Linear : MAX5092AATE
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-MAX5092AATE](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-MAX5092AATE)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARMAX592AATE](http://oom.lt/SZKREGULATORLINEARMAX592AATE)

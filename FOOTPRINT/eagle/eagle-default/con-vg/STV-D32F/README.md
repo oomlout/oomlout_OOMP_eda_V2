@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-vg-STV-D32F
 - Hex ID: FZECONVGSTVD32F
 - Name: con-vg : STV-D32F
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-vg/STV-D32F/
 - Description: con-vg : STV-D32F
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-vg-STV-D32F](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-vg-STV-D32F)
 - Short Link: [http://oom.lt/FZECONVGSTVD32F](http://oom.lt/FZECONVGSTVD32F)

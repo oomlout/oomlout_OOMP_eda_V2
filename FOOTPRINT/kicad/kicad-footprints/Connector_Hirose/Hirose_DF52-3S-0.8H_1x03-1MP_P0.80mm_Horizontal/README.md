@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_Hirose-Hirose_DF52-3S-0.8H_1x03-1MP_P0.80mm_Horizontal
 - Hex ID: FZKCNHIROSEHIROSEDF523S8H1X31MPP8H
 - Name: Connector_Hirose : Hirose_DF52-3S-0.8H_1x03-1MP_P0.80mm_Horizontal
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Hirose/Hirose_DF52-3S-0.8H_1x03-1MP_P0.80mm_Horizontal/
 - Description: Connector_Hirose : Hirose_DF52-3S-0.8H_1x03-1MP_P0.80mm_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Hirose-Hirose_DF52-3S-0.8H_1x03-1MP_P0.80mm_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Hirose-Hirose_DF52-3S-0.8H_1x03-1MP_P0.80mm_Horizontal)
 - Short Link: [http://oom.lt/FZKCNHIROSEHIROSEDF523S8H1X31MPP8H](http://oom.lt/FZKCNHIROSEHIROSEDF523S8H1X31MPP8H)

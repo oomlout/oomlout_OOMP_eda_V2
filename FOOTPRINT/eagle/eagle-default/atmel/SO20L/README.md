@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-atmel-SO20L
 - Hex ID: FZEATMELSO2L
 - Name: atmel : SO20L
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/atmel/SO20L/
 - Description: atmel : SO20L
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-atmel-SO20L](http://oom.lt/FOOTPRINT-eagle-eagle-default-atmel-SO20L)
 - Short Link: [http://oom.lt/FZEATMELSO2L](http://oom.lt/FZEATMELSO2L)

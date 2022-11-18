@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Vishay_IHLP-5050
 - Hex ID: FZKINLVISHAYIHLP55
 - Name: Inductor_SMD : L_Vishay_IHLP-5050
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Vishay_IHLP-5050/
 - Description: Inductor_SMD : L_Vishay_IHLP-5050
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Vishay_IHLP-5050](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Vishay_IHLP-5050)
 - Short Link: [http://oom.lt/FZKINLVISHAYIHLP55](http://oom.lt/FZKINLVISHAYIHLP55)

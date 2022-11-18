@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_NXP_S08-MC9S08AC60xFUE
 - Hex ID: SZKMCUNXPS8MC9S8AC6XFUE
 - Name: MCU_NXP_S08 : MC9S08AC60xFUE
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_NXP_S08/MC9S08AC60xFUE/
 - Description: MCU_NXP_S08 : MC9S08AC60xFUE
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_NXP_S08-MC9S08AC60xFUE](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_NXP_S08-MC9S08AC60xFUE)
 - Short Link: [http://oom.lt/SZKMCUNXPS8MC9S8AC6XFUE](http://oom.lt/SZKMCUNXPS8MC9S8AC6XFUE)

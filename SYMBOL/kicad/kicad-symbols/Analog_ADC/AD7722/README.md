@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Analog_ADC-AD7722
 - Hex ID: SZKANALOGADCAD7722
 - Name: Analog_ADC : AD7722
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog_ADC/AD7722/
 - Description: Analog_ADC : AD7722
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-AD7722](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-AD7722)
 - Short Link: [http://oom.lt/SZKANALOGADCAD7722](http://oom.lt/SZKANALOGADCAD7722)

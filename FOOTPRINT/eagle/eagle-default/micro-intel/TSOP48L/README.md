@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-micro-intel-TSOP48L
 - Hex ID: FZEMINTELTS48L
 - Name: micro-intel : TSOP48L
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/micro-intel/TSOP48L/
 - Description: micro-intel : TSOP48L
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-intel-TSOP48L](http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-intel-TSOP48L)
 - Short Link: [http://oom.lt/FZEMINTELTS48L](http://oom.lt/FZEMINTELTS48L)

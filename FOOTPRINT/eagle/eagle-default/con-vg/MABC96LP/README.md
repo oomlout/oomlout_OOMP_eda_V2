@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-vg-MABC96LP
 - Hex ID: FZECONVGMABC96LP
 - Name: con-vg : MABC96LP
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-vg/MABC96LP/
 - Description: con-vg : MABC96LP
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-vg-MABC96LP](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-vg-MABC96LP)
 - Short Link: [http://oom.lt/FZECONVGMABC96LP](http://oom.lt/FZECONVGMABC96LP)

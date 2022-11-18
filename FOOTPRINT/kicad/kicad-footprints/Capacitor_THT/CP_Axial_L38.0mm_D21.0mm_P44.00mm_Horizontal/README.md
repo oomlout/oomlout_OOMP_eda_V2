@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Capacitor_THT-CP_Axial_L38.0mm_D21.0mm_P44.00mm_Horizontal
 - Hex ID: FZKCCPAXIALL38D21P44H
 - Name: Capacitor_THT : CP_Axial_L38.0mm_D21.0mm_P44.00mm_Horizontal
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Capacitor_THT/CP_Axial_L38.0mm_D21.0mm_P44.00mm_Horizontal/
 - Description: Capacitor_THT : CP_Axial_L38.0mm_D21.0mm_P44.00mm_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_THT-CP_Axial_L38.0mm_D21.0mm_P44.00mm_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_THT-CP_Axial_L38.0mm_D21.0mm_P44.00mm_Horizontal)
 - Short Link: [http://oom.lt/FZKCCPAXIALL38D21P44H](http://oom.lt/FZKCCPAXIALL38D21P44H)

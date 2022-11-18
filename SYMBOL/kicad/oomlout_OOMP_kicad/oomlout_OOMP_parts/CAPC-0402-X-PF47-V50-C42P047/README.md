@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0402-X-PF47-V50-C42P047
 - Hex ID: SZOOMPKOOMPPCAPC42XPF47V5C42P47
 - Name: oomlout_OOMP_parts : CAPC-0402-X-PF47-V50-C42P047
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/CAPC-0402-X-PF47-V50-C42P047/
 - Description: oomlout_OOMP_parts : CAPC-0402-X-PF47-V50-C42P047
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0402-X-PF47-V50-C42P047](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0402-X-PF47-V50-C42P047)
 - Short Link: [http://oom.lt/SZOOMPKOOMPPCAPC42XPF47V5C42P47](http://oom.lt/SZOOMPKOOMPPCAPC42XPF47V5C42P47)

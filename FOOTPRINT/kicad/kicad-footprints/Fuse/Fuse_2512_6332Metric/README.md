@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Fuse-Fuse_2512_6332Metric
 - Hex ID: FZKFUFU25126332VA
 - Name: Fuse : Fuse_2512_6332Metric
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Fuse/Fuse_2512_6332Metric/
 - Description: Fuse : Fuse_2512_6332Metric
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Fuse-Fuse_2512_6332Metric](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Fuse-Fuse_2512_6332Metric)
 - Short Link: [http://oom.lt/FZKFUFU25126332VA](http://oom.lt/FZKFUFU25126332VA)

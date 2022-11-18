@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Comms-SOP65P640X120-16N
 - Hex ID: FZSICS65P64X1216N
 - Name: SparkFun-IC-Comms : SOP65P640X120-16N
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-IC-Comms/SOP65P640X120-16N/
 - Description: SparkFun-IC-Comms : SOP65P640X120-16N
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Comms-SOP65P640X120-16N](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Comms-SOP65P640X120-16N)
 - Short Link: [http://oom.lt/FZSICS65P64X1216N](http://oom.lt/FZSICS65P64X1216N)

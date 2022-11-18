@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O510-01-R6O510
 - Hex ID: SZOOMPKOOMPPRESE63XO511R6O51
 - Name: oomlout_OOMP_parts : RESE-0603-X-O510-01-R6O510
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/RESE-0603-X-O510-01-R6O510/
 - Description: oomlout_OOMP_parts : RESE-0603-X-O510-01-R6O510
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O510-01-R6O510](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O510-01-R6O510)
 - Short Link: [http://oom.lt/SZOOMPKOOMPPRESE63XO511R6O51](http://oom.lt/SZOOMPKOOMPPRESE63XO511R6O51)

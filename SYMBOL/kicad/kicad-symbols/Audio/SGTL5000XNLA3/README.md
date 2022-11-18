@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Audio-SGTL5000XNLA3
 - Hex ID: SZKAUDIOSGTL5XNLA3
 - Name: Audio : SGTL5000XNLA3
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Audio/SGTL5000XNLA3/
 - Description: Audio : SGTL5000XNLA3
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Audio-SGTL5000XNLA3](http://oom.lt/SYMBOL-kicad-kicad-symbols-Audio-SGTL5000XNLA3)
 - Short Link: [http://oom.lt/SZKAUDIOSGTL5XNLA3](http://oom.lt/SZKAUDIOSGTL5XNLA3)

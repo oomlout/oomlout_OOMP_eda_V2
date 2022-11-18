@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-exar-SO-20LD
 - Hex ID: FZEEXARSO2LD
 - Name: exar : SO-20LD
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/exar/SO-20LD/
 - Description: exar : SO-20LD
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-exar-SO-20LD](http://oom.lt/FOOTPRINT-eagle-eagle-default-exar-SO-20LD)
 - Short Link: [http://oom.lt/FZEEXARSO2LD](http://oom.lt/FZEEXARSO2LD)

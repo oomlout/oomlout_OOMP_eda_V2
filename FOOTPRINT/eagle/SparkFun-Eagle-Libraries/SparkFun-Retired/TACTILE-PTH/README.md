@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-TACTILE-PTH
 - Hex ID: FZSRTTP
 - Name: SparkFun-Retired : TACTILE-PTH
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Retired/TACTILE-PTH/
 - Description: SparkFun-Retired : TACTILE-PTH
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-TACTILE-PTH](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-TACTILE-PTH)
 - Short Link: [http://oom.lt/FZSRTTP](http://oom.lt/FZSRTTP)

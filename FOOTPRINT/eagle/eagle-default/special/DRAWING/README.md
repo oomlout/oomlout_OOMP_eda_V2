@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-special-DRAWING
 - Hex ID: FZESPECIALDRAWING
 - Name: special : DRAWING
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/special/DRAWING/
 - Description: special : DRAWING
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-special-DRAWING](http://oom.lt/FOOTPRINT-eagle-eagle-default-special-DRAWING)
 - Short Link: [http://oom.lt/FZESPECIALDRAWING](http://oom.lt/FZESPECIALDRAWING)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_PHD_B30B-PHDSS_2x15_P2.00mm_Vertical
 - Hex ID: FZKCNJSTJSTPHDB3BPHDSS2X15P2F
 - Name: Connector_JST : JST_PHD_B30B-PHDSS_2x15_P2.00mm_Vertical
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_PHD_B30B-PHDSS_2x15_P2.00mm_Vertical/
 - Description: Connector_JST : JST_PHD_B30B-PHDSS_2x15_P2.00mm_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_PHD_B30B-PHDSS_2x15_P2.00mm_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_PHD_B30B-PHDSS_2x15_P2.00mm_Vertical)
 - Short Link: [http://oom.lt/FZKCNJSTJSTPHDB3BPHDSS2X15P2F](http://oom.lt/FZKCNJSTJSTPHDB3BPHDSS2X15P2F)

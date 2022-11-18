@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0402-X-UF10-V63D-C4U1063D
 - Hex ID: SZOOMPKOOMPPCAPC42XUF1V63DC4U163D
 - Name: oomlout_OOMP_parts : CAPC-0402-X-UF10-V63D-C4U1063D
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/CAPC-0402-X-UF10-V63D-C4U1063D/
 - Description: oomlout_OOMP_parts : CAPC-0402-X-UF10-V63D-C4U1063D
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0402-X-UF10-V63D-C4U1063D](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0402-X-UF10-V63D-C4U1063D)
 - Short Link: [http://oom.lt/SZOOMPKOOMPPCAPC42XUF1V63DC4U163D](http://oom.lt/SZOOMPKOOMPPCAPC42XUF1V63DC4U163D)

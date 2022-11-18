@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Device-LED_ARGB
 - Hex ID: SZKDEVICELARGB
 - Name: Device : LED_ARGB
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/LED_ARGB/
 - Description: Device : LED_ARGB
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-LED_ARGB](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-LED_ARGB)
 - Short Link: [http://oom.lt/SZKDEVICELARGB](http://oom.lt/SZKDEVICELARGB)

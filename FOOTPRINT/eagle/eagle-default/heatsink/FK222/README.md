@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-heatsink-FK222
 - Hex ID: FZEHFK222
 - Name: heatsink : FK222
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/heatsink/FK222/
 - Description: heatsink : FK222
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-heatsink-FK222](http://oom.lt/FOOTPRINT-eagle-eagle-default-heatsink-FK222)
 - Short Link: [http://oom.lt/FZEHFK222](http://oom.lt/FZEHFK222)

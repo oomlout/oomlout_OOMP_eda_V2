@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-atmel-SO32X
 - Hex ID: FZEATMELSO32X
 - Name: atmel : SO32X
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/atmel/SO32X/
 - Description: atmel : SO32X
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-atmel-SO32X](http://oom.lt/FOOTPRINT-eagle-eagle-default-atmel-SO32X)
 - Short Link: [http://oom.lt/FZEATMELSO32X](http://oom.lt/FZEATMELSO32X)

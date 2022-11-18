@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-rcl-R1210
 - Hex ID: FZERCLR121
 - Name: rcl : R1210
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/rcl/R1210/
 - Description: rcl : R1210
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-R1210](http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-R1210)
 - Short Link: [http://oom.lt/FZERCLR121](http://oom.lt/FZERCLR121)

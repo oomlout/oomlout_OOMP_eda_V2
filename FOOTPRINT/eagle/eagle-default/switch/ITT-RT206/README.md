@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-switch-ITT-RT206
 - Hex ID: FZESWITTRT26
 - Name: switch : ITT-RT206
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/switch/ITT-RT206/
 - Description: switch : ITT-RT206
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-ITT-RT206](http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-ITT-RT206)
 - Short Link: [http://oom.lt/FZESWITTRT26](http://oom.lt/FZESWITTRT26)

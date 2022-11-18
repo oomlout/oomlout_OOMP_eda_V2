@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-FGPMMOPA6B
 - Hex ID: FZAFGPOPA6B
 - Name: adafruit : FGPMMOPA6B
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/FGPMMOPA6B/
 - Description: adafruit : FGPMMOPA6B
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-FGPMMOPA6B](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-FGPMMOPA6B)
 - Short Link: [http://oom.lt/FZAFGPOPA6B](http://oom.lt/FZAFGPOPA6B)

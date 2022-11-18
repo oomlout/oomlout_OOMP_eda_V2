@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_UART-MAX481E
 - Hex ID: SZKINTERFACEUARTMAX481E
 - Name: Interface_UART : MAX481E
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_UART/MAX481E/
 - Description: Interface_UART : MAX481E
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_UART-MAX481E](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_UART-MAX481E)
 - Short Link: [http://oom.lt/SZKINTERFACEUARTMAX481E](http://oom.lt/SZKINTERFACEUARTMAX481E)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Sensor-SHT1x
 - Hex ID: FZKSENSHT1X
 - Name: Sensor : SHT1x
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Sensor/SHT1x/
 - Description: Sensor : SHT1x
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Sensor-SHT1x](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Sensor-SHT1x)
 - Short Link: [http://oom.lt/FZKSENSHT1X](http://oom.lt/FZKSENSHT1X)

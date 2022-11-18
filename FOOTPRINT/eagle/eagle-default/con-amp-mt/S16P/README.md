@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-amp-mt-S16P
 - Hex ID: FZECONAMPMTS16P
 - Name: con-amp-mt : S16P
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-amp-mt/S16P/
 - Description: con-amp-mt : S16P
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-amp-mt-S16P](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-amp-mt-S16P)
 - Short Link: [http://oom.lt/FZECONAMPMTS16P](http://oom.lt/FZECONAMPMTS16P)

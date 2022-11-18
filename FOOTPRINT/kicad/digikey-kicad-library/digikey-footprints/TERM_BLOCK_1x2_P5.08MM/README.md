@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-TERM_BLOCK_1x2_P5.08MM
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSTERMBL1X2P58
 - Name: digikey-footprints : TERM_BLOCK_1x2_P5.08MM
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/TERM_BLOCK_1x2_P5.08MM/
 - Description: digikey-footprints : TERM_BLOCK_1x2_P5.08MM
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-TERM_BLOCK_1x2_P5.08MM](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-TERM_BLOCK_1x2_P5.08MM)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSTERMBL1X2P58](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSTERMBL1X2P58)

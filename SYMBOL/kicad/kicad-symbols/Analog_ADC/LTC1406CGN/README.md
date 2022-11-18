@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Analog_ADC-LTC1406CGN
 - Hex ID: SZKANALOGADCLTC146CGN
 - Name: Analog_ADC : LTC1406CGN
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog_ADC/LTC1406CGN/
 - Description: Analog_ADC : LTC1406CGN
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-LTC1406CGN](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-LTC1406CGN)
 - Short Link: [http://oom.lt/SZKANALOGADCLTC146CGN](http://oom.lt/SZKANALOGADCLTC146CGN)

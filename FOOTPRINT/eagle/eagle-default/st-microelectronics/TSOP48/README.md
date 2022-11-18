@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-st-microelectronics-TSOP48
 - Hex ID: FZESTMELECTRONICSTS48
 - Name: st-microelectronics : TSOP48
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/st-microelectronics/TSOP48/
 - Description: st-microelectronics : TSOP48
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-st-microelectronics-TSOP48](http://oom.lt/FOOTPRINT-eagle-eagle-default-st-microelectronics-TSOP48)
 - Short Link: [http://oom.lt/FZESTMELECTRONICSTS48](http://oom.lt/FZESTMELECTRONICSTS48)

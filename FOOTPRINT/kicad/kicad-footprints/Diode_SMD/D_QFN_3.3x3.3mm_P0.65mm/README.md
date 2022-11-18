@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_QFN_3.3x3.3mm_P0.65mm
 - Hex ID: FZKDDQFN33X33P65
 - Name: Diode_SMD : D_QFN_3.3x3.3mm_P0.65mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Diode_SMD/D_QFN_3.3x3.3mm_P0.65mm/
 - Description: Diode_SMD : D_QFN_3.3x3.3mm_P0.65mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_QFN_3.3x3.3mm_P0.65mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_QFN_3.3x3.3mm_P0.65mm)
 - Short Link: [http://oom.lt/FZKDDQFN33X33P65](http://oom.lt/FZKDDQFN33X33P65)

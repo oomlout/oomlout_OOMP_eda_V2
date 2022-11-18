@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-LED5MM
 - Hex ID: FZAL5
 - Name: adafruit : LED5MM
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/LED5MM/
 - Description: adafruit : LED5MM
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-LED5MM](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-LED5MM)
 - Short Link: [http://oom.lt/FZAL5](http://oom.lt/FZAL5)

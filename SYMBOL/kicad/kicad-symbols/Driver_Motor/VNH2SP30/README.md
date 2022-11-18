@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Driver_Motor-VNH2SP30
 - Hex ID: SZKDRIVERMOTORVNH2SP3
 - Name: Driver_Motor : VNH2SP30
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Driver_Motor/VNH2SP30/
 - Description: Driver_Motor : VNH2SP30
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_Motor-VNH2SP30](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_Motor-VNH2SP30)
 - Short Link: [http://oom.lt/SZKDRIVERMOTORVNH2SP3](http://oom.lt/SZKDRIVERMOTORVNH2SP3)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Sunlord_MWSA0518_5.4x5.2mm
 - Hex ID: FZKINLSUNLORDMWSA51854X52
 - Name: Inductor_SMD : L_Sunlord_MWSA0518_5.4x5.2mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Sunlord_MWSA0518_5.4x5.2mm/
 - Description: Inductor_SMD : L_Sunlord_MWSA0518_5.4x5.2mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Sunlord_MWSA0518_5.4x5.2mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Sunlord_MWSA0518_5.4x5.2mm)
 - Short Link: [http://oom.lt/FZKINLSUNLORDMWSA51854X52](http://oom.lt/FZKINLSUNLORDMWSA51854X52)

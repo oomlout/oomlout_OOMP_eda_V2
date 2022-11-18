@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Humidity_HIH-4030
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSHUMIDITYHIH43
 - Name: digikey-footprints : Humidity_HIH-4030
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Humidity_HIH-4030/
 - Description: digikey-footprints : Humidity_HIH-4030
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Humidity_HIH-4030](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Humidity_HIH-4030)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSHUMIDITYHIH43](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSHUMIDITYHIH43)

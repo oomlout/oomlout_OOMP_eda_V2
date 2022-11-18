@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-C0603K
 - Hex ID: FZAC63K
 - Name: adafruit : C0603K
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/C0603K/
 - Description: adafruit : C0603K
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-C0603K](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-C0603K)
 - Short Link: [http://oom.lt/FZAC63K](http://oom.lt/FZAC63K)

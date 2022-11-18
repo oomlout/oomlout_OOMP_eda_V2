@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Isolator-LTV-358T
 - Hex ID: SZKISOLATORLTV358T
 - Name: Isolator : LTV-358T
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Isolator/LTV-358T/
 - Description: Isolator : LTV-358T
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-LTV-358T](http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-LTV-358T)
 - Short Link: [http://oom.lt/SZKISOLATORLTV358T](http://oom.lt/SZKISOLATORLTV358T)

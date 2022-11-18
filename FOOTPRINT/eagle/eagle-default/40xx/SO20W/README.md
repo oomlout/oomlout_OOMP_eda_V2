@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-40xx-SO20W
 - Hex ID: FZE4XXSO2W
 - Name: 40xx : SO20W
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/40xx/SO20W/
 - Description: 40xx : SO20W
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-40xx-SO20W](http://oom.lt/FOOTPRINT-eagle-eagle-default-40xx-SO20W)
 - Short Link: [http://oom.lt/FZE4XXSO2W](http://oom.lt/FZE4XXSO2W)

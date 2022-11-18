@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-micro-renesas-PRDP0020BA-A
 - Hex ID: FZEMRENESASPRDP2BAA
 - Name: micro-renesas : PRDP0020BA-A
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/micro-renesas/PRDP0020BA-A/
 - Description: micro-renesas : PRDP0020BA-A
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-renesas-PRDP0020BA-A](http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-renesas-PRDP0020BA-A)
 - Short Link: [http://oom.lt/FZEMRENESASPRDP2BAA](http://oom.lt/FZEMRENESASPRDP2BAA)

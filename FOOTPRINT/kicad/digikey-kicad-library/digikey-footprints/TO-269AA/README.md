@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-TO-269AA
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSTO269AA
 - Name: digikey-footprints : TO-269AA
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/TO-269AA/
 - Description: digikey-footprints : TO-269AA
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-TO-269AA](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-TO-269AA)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSTO269AA](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSTO269AA)

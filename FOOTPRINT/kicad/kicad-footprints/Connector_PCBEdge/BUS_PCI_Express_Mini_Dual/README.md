@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKCNPCBEDGEBUSPCIEXPRESSMDUAL > Connector_PCBEdge : BUS_PCI_Express_Mini_Dual](#fzkcnpcbedgebuspciexpressmdual--connector_pcbedge--bus_pci_express_mini_dual)
+* [FZKCNPEBUSPCIEXPRESSMDUAL > Connector_PCBEdge : BUS_PCI_Express_Mini_Dual](#fzkcnpebuspciexpressmdual--connector_pcbedge--bus_pci_express_mini_dual)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKCNPCBEDGEBUSPCIEXPRESSMDUAL > Connector_PCBEdge : BUS_PCI_Express_Mini_Dual
+# FZKCNPEBUSPCIEXPRESSMDUAL > Connector_PCBEdge : BUS_PCI_Express_Mini_Dual
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_PCBEdge-BUS_PCI_Express_Mini_Dual
-- Hex ID: FZKCNPCBEDGEBUSPCIEXPRESSMDUAL
+- Hex ID: FZKCNPEBUSPCIEXPRESSMDUAL
 - Name: Connector_PCBEdge : BUS_PCI_Express_Mini_Dual
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_PCBEdge/BUS_PCI_Express_Mini_Dual/
 - Description: Connector_PCBEdge : BUS_PCI_Express_Mini_Dual
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_PCBEdge-BUS_PCI_Express_Mini_Dual](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_PCBEdge-BUS_PCI_Express_Mini_Dual)
-- Short Link: [http://oom.lt/FZKCNPCBEDGEBUSPCIEXPRESSMDUAL](http://oom.lt/FZKCNPCBEDGEBUSPCIEXPRESSMDUAL)
+- Short Link: [http://oom.lt/FZKCNPEBUSPCIEXPRESSMDUAL](http://oom.lt/FZKCNPEBUSPCIEXPRESSMDUAL)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Connector_PCBEdge|
 |OOMP Index|oompIndex|BUS_PCI_Express_Mini_Dual|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_PCBEdge-BUS_PCI_Express_Mini_Dual|
-|Hex ID (short code)|hexID|FZKCNPCBEDGEBUSPCIEXPRESSMDUAL|
+|Hex ID (short code)|hexID|FZKCNPEBUSPCIEXPRESSMDUAL|
 |name|name|Connector_PCBEdge : BUS_PCI_Express_Mini_Dual|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'BUS_PCI_Express_Mini_Dual'</td><td> 'description'</td></tr><tr><td> 'Mini-PCI Express bus connector full size with dual clips (https</td></tr><tr><td>//s3.amazonaws.com/fit-iot/download/facet-cards/documents/PCI_Express_miniCard_Electromechanical_specs_rev1.2.pdf#page=28)'</td><td> 'tags'</td></tr><tr><td> 'mini pcie'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_PCBEdge.3dshapes/BUS_PCI_Express_Mini_Dual.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'np_thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||

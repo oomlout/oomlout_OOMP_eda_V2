@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-LD7575
 - Hex ID: SZKREGULATORSWINGLD7575
 - Name: Regulator_Switching : LD7575
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/LD7575/
 - Description: Regulator_Switching : LD7575
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LD7575](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LD7575)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGLD7575](http://oom.lt/SZKREGULATORSWINGLD7575)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-74ac-logic-SO28W
 - Hex ID: FZE74ACLOGICSO28W
 - Name: 74ac-logic : SO28W
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/74ac-logic/SO28W/
 - Description: 74ac-logic : SO28W
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-74ac-logic-SO28W](http://oom.lt/FOOTPRINT-eagle-eagle-default-74ac-logic-SO28W)
 - Short Link: [http://oom.lt/FZE74ACLOGICSO28W](http://oom.lt/FZE74ACLOGICSO28W)

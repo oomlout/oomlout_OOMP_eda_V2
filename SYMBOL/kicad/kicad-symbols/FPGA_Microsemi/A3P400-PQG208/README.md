@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-FPGA_Microsemi-A3P400-PQG208
 - Hex ID: SZKFPGAMSEMIA3P4PQG28
 - Name: FPGA_Microsemi : A3P400-PQG208
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/FPGA_Microsemi/A3P400-PQG208/
 - Description: FPGA_Microsemi : A3P400-PQG208
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-FPGA_Microsemi-A3P400-PQG208](http://oom.lt/SYMBOL-kicad-kicad-symbols-FPGA_Microsemi-A3P400-PQG208)
 - Short Link: [http://oom.lt/SZKFPGAMSEMIA3P4PQG28](http://oom.lt/SZKFPGAMSEMIA3P4PQG28)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_RJ-RJ45_Ninigi_GE
 - Hex ID: FZKCNRJRJ45NINIGIGE
 - Name: Connector_RJ : RJ45_Ninigi_GE
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_RJ/RJ45_Ninigi_GE/
 - Description: Connector_RJ : RJ45_Ninigi_GE
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_RJ-RJ45_Ninigi_GE](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_RJ-RJ45_Ninigi_GE)
 - Short Link: [http://oom.lt/FZKCNRJRJ45NINIGIGE](http://oom.lt/FZKCNRJRJ45NINIGIGE)

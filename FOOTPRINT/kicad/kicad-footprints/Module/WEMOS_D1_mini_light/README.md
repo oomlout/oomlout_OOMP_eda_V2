@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Module-WEMOS_D1_mini_light
 - Hex ID: FZKMOWEMOSD1MLIGHT
 - Name: Module : WEMOS_D1_mini_light
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Module/WEMOS_D1_mini_light/
 - Description: Module : WEMOS_D1_mini_light
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Module-WEMOS_D1_mini_light](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Module-WEMOS_D1_mini_light)
 - Short Link: [http://oom.lt/FZKMOWEMOSD1MLIGHT](http://oom.lt/FZKMOWEMOSD1MLIGHT)

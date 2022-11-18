@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_Coaxial-SMA_Molex_73251-2200_Horizontal
 - Hex ID: FZKCNCOASMX7325122H
 - Name: Connector_Coaxial : SMA_Molex_73251-2200_Horizontal
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Coaxial/SMA_Molex_73251-2200_Horizontal/
 - Description: Connector_Coaxial : SMA_Molex_73251-2200_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Coaxial-SMA_Molex_73251-2200_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Coaxial-SMA_Molex_73251-2200_Horizontal)
 - Short Link: [http://oom.lt/FZKCNCOASMX7325122H](http://oom.lt/FZKCNCOASMX7325122H)

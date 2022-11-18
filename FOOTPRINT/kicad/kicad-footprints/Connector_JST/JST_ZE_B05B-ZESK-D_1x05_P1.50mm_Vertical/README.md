@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_ZE_B05B-ZESK-D_1x05_P1.50mm_Vertical
 - Hex ID: FZKCNJSTJSTZEB5BZESKD1X5P15F
 - Name: Connector_JST : JST_ZE_B05B-ZESK-D_1x05_P1.50mm_Vertical
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_ZE_B05B-ZESK-D_1x05_P1.50mm_Vertical/
 - Description: Connector_JST : JST_ZE_B05B-ZESK-D_1x05_P1.50mm_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_ZE_B05B-ZESK-D_1x05_P1.50mm_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_ZE_B05B-ZESK-D_1x05_P1.50mm_Vertical)
 - Short Link: [http://oom.lt/FZKCNJSTJSTZEB5BZESKD1X5P15F](http://oom.lt/FZKCNJSTJSTZEB5BZESKD1X5P15F)

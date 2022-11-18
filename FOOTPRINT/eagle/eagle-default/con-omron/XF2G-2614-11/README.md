@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-omron-XF2G-2614-11
 - Hex ID: FZECONOMRONXF2G261411
 - Name: con-omron : XF2G-2614-11
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-omron/XF2G-2614-11/
 - Description: con-omron : XF2G-2614-11
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-omron-XF2G-2614-11](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-omron-XF2G-2614-11)
 - Short Link: [http://oom.lt/FZECONOMRONXF2G261411](http://oom.lt/FZECONOMRONXF2G261411)

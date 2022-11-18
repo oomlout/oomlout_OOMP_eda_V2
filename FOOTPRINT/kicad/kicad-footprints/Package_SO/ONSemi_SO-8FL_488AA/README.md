@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_SO-ONSemi_SO-8FL_488AA
 - Hex ID: FZKSOONSEMISO8FL488AA
 - Name: Package_SO : ONSemi_SO-8FL_488AA
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SO/ONSemi_SO-8FL_488AA/
 - Description: Package_SO : ONSemi_SO-8FL_488AA
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SO-ONSemi_SO-8FL_488AA](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SO-ONSemi_SO-8FL_488AA)
 - Short Link: [http://oom.lt/FZKSOONSEMISO8FL488AA](http://oom.lt/FZKSOONSEMISO8FL488AA)

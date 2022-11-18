@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-Vishay_PowerPAK_SC70-6L_Dual
 - Hex ID: FZKSOTVISHAYPOWERPAKSC76LDUAL
 - Name: Package_TO_SOT_SMD : Vishay_PowerPAK_SC70-6L_Dual
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/Vishay_PowerPAK_SC70-6L_Dual/
 - Description: Package_TO_SOT_SMD : Vishay_PowerPAK_SC70-6L_Dual
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-Vishay_PowerPAK_SC70-6L_Dual](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-Vishay_PowerPAK_SC70-6L_Dual)
 - Short Link: [http://oom.lt/FZKSOTVISHAYPOWERPAKSC76LDUAL](http://oom.lt/FZKSOTVISHAYPOWERPAKSC76LDUAL)

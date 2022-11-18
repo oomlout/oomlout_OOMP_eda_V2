@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-I01-W-PI03-01-H03W
 - Hex ID: SZOOMPKOOMPPHEADI1WPI31H3W
 - Name: oomlout_OOMP_parts : HEAD-I01-W-PI03-01-H03W
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/HEAD-I01-W-PI03-01-H03W/
 - Description: oomlout_OOMP_parts : HEAD-I01-W-PI03-01-H03W
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-I01-W-PI03-01-H03W](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-I01-W-PI03-01-H03W)
 - Short Link: [http://oom.lt/SZOOMPKOOMPPHEADI1WPI31H3W](http://oom.lt/SZOOMPKOOMPPHEADI1WPI31H3W)

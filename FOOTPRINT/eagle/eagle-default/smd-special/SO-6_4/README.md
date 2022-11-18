@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-smd-special-SO-6_4
 - Hex ID: FZESMSPECIALSO64
 - Name: smd-special : SO-6_4
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/smd-special/SO-6_4/
 - Description: smd-special : SO-6_4
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-special-SO-6_4](http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-special-SO-6_4)
 - Short Link: [http://oom.lt/FZESMSPECIALSO64](http://oom.lt/FZESMSPECIALSO64)

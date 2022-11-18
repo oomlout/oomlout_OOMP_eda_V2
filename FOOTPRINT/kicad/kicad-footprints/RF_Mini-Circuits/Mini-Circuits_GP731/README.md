@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-RF_Mini-Circuits-Mini-Circuits_GP731
 - Hex ID: FZKRFMCIRCUITSGP731
 - Name: RF_Mini-Circuits : Mini-Circuits_GP731
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/RF_Mini-Circuits/Mini-Circuits_GP731/
 - Description: RF_Mini-Circuits : Mini-Circuits_GP731
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_Mini-Circuits-Mini-Circuits_GP731](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_Mini-Circuits-Mini-Circuits_GP731)
 - Short Link: [http://oom.lt/FZKRFMCIRCUITSGP731](http://oom.lt/FZKRFMCIRCUITSGP731)

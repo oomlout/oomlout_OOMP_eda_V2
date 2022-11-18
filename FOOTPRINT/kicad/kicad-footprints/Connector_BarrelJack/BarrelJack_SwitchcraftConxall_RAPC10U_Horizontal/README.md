@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_BarrelJack-BarrelJack_SwitchcraftConxall_RAPC10U_Horizontal
 - Hex ID: FZKCNBARRELJBARRELJSWCRAFTCONXALLRAPC1UH
 - Name: Connector_BarrelJack : BarrelJack_SwitchcraftConxall_RAPC10U_Horizontal
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_BarrelJack/BarrelJack_SwitchcraftConxall_RAPC10U_Horizontal/
 - Description: Connector_BarrelJack : BarrelJack_SwitchcraftConxall_RAPC10U_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_BarrelJack-BarrelJack_SwitchcraftConxall_RAPC10U_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_BarrelJack-BarrelJack_SwitchcraftConxall_RAPC10U_Horizontal)
 - Short Link: [http://oom.lt/FZKCNBARRELJBARRELJSWCRAFTCONXALLRAPC1UH](http://oom.lt/FZKCNBARRELJBARRELJSWCRAFTCONXALLRAPC1UH)

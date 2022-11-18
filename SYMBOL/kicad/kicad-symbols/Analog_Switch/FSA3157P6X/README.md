@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Analog_Switch-FSA3157P6X
 - Hex ID: SZKANALOGSWFSA3157P6X
 - Name: Analog_Switch : FSA3157P6X
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog_Switch/FSA3157P6X/
 - Description: Analog_Switch : FSA3157P6X
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_Switch-FSA3157P6X](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_Switch-FSA3157P6X)
 - Short Link: [http://oom.lt/SZKANALOGSWFSA3157P6X](http://oom.lt/SZKANALOGSWFSA3157P6X)

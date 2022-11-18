@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_HDMI-ADV7611
 - Hex ID: SZKINTERFACEHDMIADV7611
 - Name: Interface_HDMI : ADV7611
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_HDMI/ADV7611/
 - Description: Interface_HDMI : ADV7611
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_HDMI-ADV7611](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_HDMI-ADV7611)
 - Short Link: [http://oom.lt/SZKINTERFACEHDMIADV7611](http://oom.lt/SZKINTERFACEHDMIADV7611)

@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEREFPACKAGESSS16 > ref-packages : SSOP16](#fzerefpackagesss16--ref-packages--ssop16)
+* [FZEREFPSSS16 > ref-packages : SSOP16](#fzerefpsss16--ref-packages--ssop16)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEREFPACKAGESSS16 > ref-packages : SSOP16
+# FZEREFPSSS16 > ref-packages : SSOP16
 
 - ID: FOOTPRINT-eagle-eagle-default-ref-packages-SSOP16
-- Hex ID: FZEREFPACKAGESSS16
+- Hex ID: FZEREFPSSS16
 - Name: ref-packages : SSOP16
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ref-packages/SSOP16/
 - Description: ref-packages : SSOP16
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-SSOP16](http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-SSOP16)
-- Short Link: [http://oom.lt/FZEREFPACKAGESSS16](http://oom.lt/FZEREFPACKAGESSS16)
+- Short Link: [http://oom.lt/FZEREFPSSS16](http://oom.lt/FZEREFPSSS16)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|ref-packages|
 |OOMP Index|oompIndex|SSOP16|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-ref-packages-SSOP16|
-|Hex ID (short code)|hexID|FZEREFPACKAGESSS16|
+|Hex ID (short code)|hexID|FZEREFPSSS16|
 |name|name|ref-packages : SSOP16|
 ||||

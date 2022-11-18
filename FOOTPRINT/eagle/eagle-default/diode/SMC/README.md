@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-diode-SMC
 - Hex ID: FZEDIODESMC
 - Name: diode : SMC
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/diode/SMC/
 - Description: diode : SMC
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-diode-SMC](http://oom.lt/FOOTPRINT-eagle-eagle-default-diode-SMC)
 - Short Link: [http://oom.lt/FZEDIODESMC](http://oom.lt/FZEDIODESMC)

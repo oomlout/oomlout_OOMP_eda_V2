@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0805-X-PF30-V50-C8P30
 - Hex ID: FZOOMPKOOMPPCAPC85XPF3V5C8P3
 - Name: oomlout_OOMP_parts : CAPC-0805-X-PF30-V50-C8P30
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/CAPC-0805-X-PF30-V50-C8P30/
 - Description: oomlout_OOMP_parts : CAPC-0805-X-PF30-V50-C8P30
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0805-X-PF30-V50-C8P30](http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0805-X-PF30-V50-C8P30)
 - Short Link: [http://oom.lt/FZOOMPKOOMPPCAPC85XPF3V5C8P3](http://oom.lt/FZOOMPKOOMPPCAPC85XPF3V5C8P3)

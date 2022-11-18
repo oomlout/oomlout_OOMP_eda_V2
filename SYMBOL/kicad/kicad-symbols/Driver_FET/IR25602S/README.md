@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Driver_FET-IR25602S
 - Hex ID: SZKDRIVERFETIR2562S
 - Name: Driver_FET : IR25602S
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Driver_FET/IR25602S/
 - Description: Driver_FET : IR25602S
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-IR25602S](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-IR25602S)
 - Short Link: [http://oom.lt/SZKDRIVERFETIR2562S](http://oom.lt/SZKDRIVERFETIR2562S)

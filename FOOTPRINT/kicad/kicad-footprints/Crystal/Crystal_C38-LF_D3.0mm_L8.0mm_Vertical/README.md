@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_C38-LF_D3.0mm_L8.0mm_Vertical
 - Hex ID: FZKXXC38LFD3L8F
 - Name: Crystal : Crystal_C38-LF_D3.0mm_L8.0mm_Vertical
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_C38-LF_D3.0mm_L8.0mm_Vertical/
 - Description: Crystal : Crystal_C38-LF_D3.0mm_L8.0mm_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_C38-LF_D3.0mm_L8.0mm_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_C38-LF_D3.0mm_L8.0mm_Vertical)
 - Short Link: [http://oom.lt/FZKXXC38LFD3L8F](http://oom.lt/FZKXXC38LFD3L8F)

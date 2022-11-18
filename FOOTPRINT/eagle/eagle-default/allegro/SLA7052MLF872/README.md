@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-allegro-SLA7052MLF872
 - Hex ID: FZEALLEGROSLA752MLF872
 - Name: allegro : SLA7052MLF872
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/allegro/SLA7052MLF872/
 - Description: allegro : SLA7052MLF872
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-allegro-SLA7052MLF872](http://oom.lt/FOOTPRINT-eagle-eagle-default-allegro-SLA7052MLF872)
 - Short Link: [http://oom.lt/FZEALLEGROSLA752MLF872](http://oom.lt/FZEALLEGROSLA752MLF872)

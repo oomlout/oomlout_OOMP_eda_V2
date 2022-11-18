@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode_Bridge-MB4S
 - Hex ID: SZKDIODEBRIDGEMB4S
 - Name: Diode_Bridge : MB4S
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode_Bridge/MB4S/
 - Description: Diode_Bridge : MB4S
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode_Bridge-MB4S](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode_Bridge-MB4S)
 - Short Link: [http://oom.lt/SZKDIODEBRIDGEMB4S](http://oom.lt/SZKDIODEBRIDGEMB4S)

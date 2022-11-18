@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_SMC
 - Hex ID: FZKDDSMC
 - Name: Diode_SMD : D_SMC
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Diode_SMD/D_SMC/
 - Description: Diode_SMD : D_SMC
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_SMC](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_SMC)
 - Short Link: [http://oom.lt/FZKDDSMC](http://oom.lt/FZKDDSMC)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-led-LED10MM
 - Hex ID: FZELL1
 - Name: led : LED10MM
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/led/LED10MM/
 - Description: led : LED10MM
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-led-LED10MM](http://oom.lt/FOOTPRINT-eagle-eagle-default-led-LED10MM)
 - Short Link: [http://oom.lt/FZELL1](http://oom.lt/FZELL1)

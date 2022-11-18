@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Power_Supervisor-MCP120-xxxxTT
 - Hex ID: SZKPOWERSUPERVISORMCP12XXXXTT
 - Name: Power_Supervisor : MCP120-xxxxTT
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Power_Supervisor/MCP120-xxxxTT/
 - Description: Power_Supervisor : MCP120-xxxxTT
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Supervisor-MCP120-xxxxTT](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Supervisor-MCP120-xxxxTT)
 - Short Link: [http://oom.lt/SZKPOWERSUPERVISORMCP12XXXXTT](http://oom.lt/SZKPOWERSUPERVISORMCP12XXXXTT)

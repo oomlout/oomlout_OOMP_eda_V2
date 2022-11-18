@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_MicroSMP_KA
 - Hex ID: FZKDDMSMPKA
 - Name: Diode_SMD : D_MicroSMP_KA
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Diode_SMD/D_MicroSMP_KA/
 - Description: Diode_SMD : D_MicroSMP_KA
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_MicroSMP_KA](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_MicroSMP_KA)
 - Short Link: [http://oom.lt/FZKDDMSMPKA](http://oom.lt/FZKDDMSMPKA)

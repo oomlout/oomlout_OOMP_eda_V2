@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_SwitchedCapacitor-LM2775DSG
 - Hex ID: SZKREGULATORSWEDCAPACITORLM2775DSG
 - Name: Regulator_SwitchedCapacitor : LM2775DSG
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_SwitchedCapacitor/LM2775DSG/
 - Description: Regulator_SwitchedCapacitor : LM2775DSG
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_SwitchedCapacitor-LM2775DSG](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_SwitchedCapacitor-LM2775DSG)
 - Short Link: [http://oom.lt/SZKREGULATORSWEDCAPACITORLM2775DSG](http://oom.lt/SZKREGULATORSWEDCAPACITORLM2775DSG)

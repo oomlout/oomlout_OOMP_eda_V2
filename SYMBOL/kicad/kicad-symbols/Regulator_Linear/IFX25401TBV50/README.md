@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-IFX25401TBV50
 - Hex ID: SZKREGULATORLINEARIFX2541TBV5
 - Name: Regulator_Linear : IFX25401TBV50
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/IFX25401TBV50/
 - Description: Regulator_Linear : IFX25401TBV50
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-IFX25401TBV50](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-IFX25401TBV50)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARIFX2541TBV5](http://oom.lt/SZKREGULATORLINEARIFX2541TBV5)

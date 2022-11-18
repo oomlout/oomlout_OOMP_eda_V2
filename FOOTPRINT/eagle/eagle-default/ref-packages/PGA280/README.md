@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEREFPACKAGESPGA28 > ref-packages : PGA280](#fzerefpackagespga28--ref-packages--pga280)
+* [FZEREFPSPGA28 > ref-packages : PGA280](#fzerefpspga28--ref-packages--pga280)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEREFPACKAGESPGA28 > ref-packages : PGA280
+# FZEREFPSPGA28 > ref-packages : PGA280
 
 - ID: FOOTPRINT-eagle-eagle-default-ref-packages-PGA280
-- Hex ID: FZEREFPACKAGESPGA28
+- Hex ID: FZEREFPSPGA28
 - Name: ref-packages : PGA280
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ref-packages/PGA280/
 - Description: ref-packages : PGA280
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-PGA280](http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-PGA280)
-- Short Link: [http://oom.lt/FZEREFPACKAGESPGA28](http://oom.lt/FZEREFPACKAGESPGA28)
+- Short Link: [http://oom.lt/FZEREFPSPGA28](http://oom.lt/FZEREFPSPGA28)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|ref-packages|
 |OOMP Index|oompIndex|PGA280|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-ref-packages-PGA280|
-|Hex ID (short code)|hexID|FZEREFPACKAGESPGA28|
+|Hex ID (short code)|hexID|FZEREFPSPGA28|
 |name|name|ref-packages : PGA280|
 ||||

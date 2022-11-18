@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-UF5407
 - Hex ID: SZKDIODEUF547
 - Name: Diode : UF5407
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/UF5407/
 - Description: Diode : UF5407
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-UF5407](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-UF5407)
 - Short Link: [http://oom.lt/SZKDIODEUF547](http://oom.lt/SZKDIODEUF547)

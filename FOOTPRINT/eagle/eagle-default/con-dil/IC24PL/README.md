@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-dil-IC24PL
 - Hex ID: FZECONDILIC24PL
 - Name: con-dil : IC24PL
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-dil/IC24PL/
 - Description: con-dil : IC24PL
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-dil-IC24PL](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-dil-IC24PL)
 - Short Link: [http://oom.lt/FZECONDILIC24PL](http://oom.lt/FZECONDILIC24PL)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-LGA10-MILLABLE
 - Hex ID: FZSSPARKFUNSENSLGA1MLABLE
 - Name: SparkFun-Sensors : LGA10-MILLABLE
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Sensors/LGA10-MILLABLE/
 - Description: SparkFun-Sensors : LGA10-MILLABLE
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-LGA10-MILLABLE](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-LGA10-MILLABLE)
 - Short Link: [http://oom.lt/FZSSPARKFUNSENSLGA1MLABLE](http://oom.lt/FZSSPARKFUNSENSLGA1MLABLE)

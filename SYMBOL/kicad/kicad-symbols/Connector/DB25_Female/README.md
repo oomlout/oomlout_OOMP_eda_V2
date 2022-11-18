@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Connector-DB25_Female
 - Hex ID: SZKCNDB25F
 - Name: Connector : DB25_Female
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector/DB25_Female/
 - Description: Connector : DB25_Female
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-DB25_Female](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-DB25_Female)
 - Short Link: [http://oom.lt/SZKCNDB25F](http://oom.lt/SZKCNDB25F)

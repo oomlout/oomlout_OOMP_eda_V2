@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Potentiometer_Digital-MCP41100
 - Hex ID: SZKPOTDIGITALMCP411
 - Name: Potentiometer_Digital : MCP41100
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Potentiometer_Digital/MCP41100/
 - Description: Potentiometer_Digital : MCP41100
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Potentiometer_Digital-MCP41100](http://oom.lt/SYMBOL-kicad-kicad-symbols-Potentiometer_Digital-MCP41100)
 - Short Link: [http://oom.lt/SZKPOTDIGITALMCP411](http://oom.lt/SZKPOTDIGITALMCP411)

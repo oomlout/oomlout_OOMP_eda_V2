@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-power-VCOM
 - Hex ID: SZKPOWERVCOM
 - Name: power : VCOM
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/power/VCOM/
 - Description: power : VCOM
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-power-VCOM](http://oom.lt/SYMBOL-kicad-kicad-symbols-power-VCOM)
 - Short Link: [http://oom.lt/SZKPOWERVCOM](http://oom.lt/SZKPOWERVCOM)

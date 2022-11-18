@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKRELRELAYSTANDEXMEDERDIPLOWPROFILE > Relay_THT : Relay_StandexMeder_DIP_LowProfile](#fzkrelrelaystandexmederdiplowprofile--relay_tht--relay_standexmeder_dip_lowprofile)
+* [FZKRELRELAYSTANDEXMEDERDLOWP > Relay_THT : Relay_StandexMeder_DIP_LowProfile](#fzkrelrelaystandexmederdlowp--relay_tht--relay_standexmeder_dip_lowprofile)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKRELRELAYSTANDEXMEDERDIPLOWPROFILE > Relay_THT : Relay_StandexMeder_DIP_LowProfile
+# FZKRELRELAYSTANDEXMEDERDLOWP > Relay_THT : Relay_StandexMeder_DIP_LowProfile
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Relay_THT-Relay_StandexMeder_DIP_LowProfile
-- Hex ID: FZKRELRELAYSTANDEXMEDERDIPLOWPROFILE
+- Hex ID: FZKRELRELAYSTANDEXMEDERDLOWP
 - Name: Relay_THT : Relay_StandexMeder_DIP_LowProfile
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Relay_THT/Relay_StandexMeder_DIP_LowProfile/
 - Description: Relay_THT : Relay_StandexMeder_DIP_LowProfile
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Relay_THT-Relay_StandexMeder_DIP_LowProfile](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Relay_THT-Relay_StandexMeder_DIP_LowProfile)
-- Short Link: [http://oom.lt/FZKRELRELAYSTANDEXMEDERDIPLOWPROFILE](http://oom.lt/FZKRELRELAYSTANDEXMEDERDIPLOWPROFILE)
+- Short Link: [http://oom.lt/FZKRELRELAYSTANDEXMEDERDLOWP](http://oom.lt/FZKRELRELAYSTANDEXMEDERDLOWP)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Relay_THT|
 |OOMP Index|oompIndex|Relay_StandexMeder_DIP_LowProfile|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Relay_THT-Relay_StandexMeder_DIP_LowProfile|
-|Hex ID (short code)|hexID|FZKRELRELAYSTANDEXMEDERDIPLOWPROFILE|
+|Hex ID (short code)|hexID|FZKRELRELAYSTANDEXMEDERDLOWP|
 |name|name|Relay_THT : Relay_StandexMeder_DIP_LowProfile|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Relay_StandexMeder_DIP_LowProfile'</td><td> 'description'</td></tr><tr><td> 'package for Standex Meder DIP reed relay series</td><td> see https</td></tr><tr><td>//standexelectronics.com/wp-content/uploads/datasheet_reed_relay_DIP.pdf'</td><td> 'tags'</td></tr><tr><td> 'DIL DIP PDIP 2.54mm 7.62mm 300mil reed relay'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Relay_THT.3dshapes/Relay_StandexMeder_DIP_LowProfile.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

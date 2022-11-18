@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_CommonModeChoke_Wuerth_WE-SL5
 - Hex ID: FZKINLCOONMODECHOKEWUERTHWESL5
 - Name: Inductor_SMD : L_CommonModeChoke_Wuerth_WE-SL5
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_CommonModeChoke_Wuerth_WE-SL5/
 - Description: Inductor_SMD : L_CommonModeChoke_Wuerth_WE-SL5
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_CommonModeChoke_Wuerth_WE-SL5](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_CommonModeChoke_Wuerth_WE-SL5)
 - Short Link: [http://oom.lt/FZKINLCOONMODECHOKEWUERTHWESL5](http://oom.lt/FZKINLCOONMODECHOKEWUERTHWESL5)

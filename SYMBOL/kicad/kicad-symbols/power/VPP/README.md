@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-power-VPP
 - Hex ID: SZKPOWERVPP
 - Name: power : VPP
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/power/VPP/
 - Description: power : VPP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-power-VPP](http://oom.lt/SYMBOL-kicad-kicad-symbols-power-VPP)
 - Short Link: [http://oom.lt/SZKPOWERVPP](http://oom.lt/SZKPOWERVPP)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-rcl-HPC0201
 - Hex ID: FZERCLHPC21
 - Name: rcl : HPC0201
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/rcl/HPC0201/
 - Description: rcl : HPC0201
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-HPC0201](http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-HPC0201)
 - Short Link: [http://oom.lt/FZERCLHPC21](http://oom.lt/FZERCLHPC21)

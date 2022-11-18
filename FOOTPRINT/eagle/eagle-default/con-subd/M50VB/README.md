@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-subd-M50VB
 - Hex ID: FZECONSUBDM5VB
 - Name: con-subd : M50VB
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-subd/M50VB/
 - Description: con-subd : M50VB
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-subd-M50VB](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-subd-M50VB)
 - Short Link: [http://oom.lt/FZECONSUBDM5VB](http://oom.lt/FZECONSUBDM5VB)

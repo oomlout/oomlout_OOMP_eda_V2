@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-photo-elements-VT500
 - Hex ID: FZEPHOTOELEMENTSVT5
 - Name: photo-elements : VT500
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/photo-elements/VT500/
 - Description: photo-elements : VT500
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-photo-elements-VT500](http://oom.lt/FOOTPRINT-eagle-eagle-default-photo-elements-VT500)
 - Short Link: [http://oom.lt/FZEPHOTOELEMENTSVT5](http://oom.lt/FZEPHOTOELEMENTSVT5)

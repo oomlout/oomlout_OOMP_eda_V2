@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-phoenix-350-MKKDS1_9-3,5
 - Hex ID: FZECONPHOENIX35MKKDS1935
 - Name: con-phoenix-350 : MKKDS1_9-3,5
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-phoenix-350/MKKDS1_9-3,5/
 - Description: con-phoenix-350 : MKKDS1_9-3,5
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-phoenix-350-MKKDS1_9-3,5](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-phoenix-350-MKKDS1_9-3,5)
 - Short Link: [http://oom.lt/FZECONPHOENIX35MKKDS1935](http://oom.lt/FZECONPHOENIX35MKKDS1935)

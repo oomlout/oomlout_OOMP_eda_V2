@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_Expansion-TCA9534
 - Hex ID: SZKINTERFACEEXPANSIONTCA9534
 - Name: Interface_Expansion : TCA9534
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_Expansion/TCA9534/
 - Description: Interface_Expansion : TCA9534
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Expansion-TCA9534](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Expansion-TCA9534)
 - Short Link: [http://oom.lt/SZKINTERFACEEXPANSIONTCA9534](http://oom.lt/SZKINTERFACEEXPANSIONTCA9534)

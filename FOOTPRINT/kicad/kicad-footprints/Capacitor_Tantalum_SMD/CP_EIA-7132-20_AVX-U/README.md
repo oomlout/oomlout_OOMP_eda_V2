@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Capacitor_Tantalum_SMD-CP_EIA-7132-20_AVX-U
 - Hex ID: FZKCCPEIA71322AVXU
 - Name: Capacitor_Tantalum_SMD : CP_EIA-7132-20_AVX-U
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Capacitor_Tantalum_SMD/CP_EIA-7132-20_AVX-U/
 - Description: Capacitor_Tantalum_SMD : CP_EIA-7132-20_AVX-U
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_Tantalum_SMD-CP_EIA-7132-20_AVX-U](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_Tantalum_SMD-CP_EIA-7132-20_AVX-U)
 - Short Link: [http://oom.lt/FZKCCPEIA71322AVXU](http://oom.lt/FZKCCPEIA71322AVXU)

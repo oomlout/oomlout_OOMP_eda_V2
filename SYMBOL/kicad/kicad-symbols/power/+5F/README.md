@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-power-+5F
 - Hex ID: SZKPOWER+5F
 - Name: power : +5F
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/power/+5F/
 - Description: power : +5F
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-power-+5F](http://oom.lt/SYMBOL-kicad-kicad-symbols-power-+5F)
 - Short Link: [http://oom.lt/SZKPOWER+5F](http://oom.lt/SZKPOWER+5F)

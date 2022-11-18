@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-C1005
 - Hex ID: FZAC15
 - Name: adafruit : C1005
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/C1005/
 - Description: adafruit : C1005
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-C1005](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-C1005)
 - Short Link: [http://oom.lt/FZAC15](http://oom.lt/FZAC15)

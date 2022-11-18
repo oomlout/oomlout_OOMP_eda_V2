@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Analog_ADC-INA233
 - Hex ID: SZKANALOGADCINA233
 - Name: Analog_ADC : INA233
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog_ADC/INA233/
 - Description: Analog_ADC : INA233
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-INA233](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-INA233)
 - Short Link: [http://oom.lt/SZKANALOGADCINA233](http://oom.lt/SZKANALOGADCINA233)

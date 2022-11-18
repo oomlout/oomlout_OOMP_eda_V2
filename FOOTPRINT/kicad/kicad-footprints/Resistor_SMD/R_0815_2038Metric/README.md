@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0815_2038Metric
 - Hex ID: FZKRR815238VA
 - Name: Resistor_SMD : R_0815_2038Metric
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_0815_2038Metric/
 - Description: Resistor_SMD : R_0815_2038Metric
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0815_2038Metric](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0815_2038Metric)
 - Short Link: [http://oom.lt/FZKRR815238VA](http://oom.lt/FZKRR815238VA)

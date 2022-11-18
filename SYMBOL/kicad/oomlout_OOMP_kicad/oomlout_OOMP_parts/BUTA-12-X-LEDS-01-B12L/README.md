@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-BUTA-12-X-LEDS-01-B12L
 - Hex ID: SZOOMPKOOMPPBUTA12XLS1B12L
 - Name: oomlout_OOMP_parts : BUTA-12-X-LEDS-01-B12L
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/BUTA-12-X-LEDS-01-B12L/
 - Description: oomlout_OOMP_parts : BUTA-12-X-LEDS-01-B12L
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-BUTA-12-X-LEDS-01-B12L](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-BUTA-12-X-LEDS-01-B12L)
 - Short Link: [http://oom.lt/SZOOMPKOOMPPBUTA12XLS1B12L](http://oom.lt/SZOOMPKOOMPPBUTA12XLS1B12L)

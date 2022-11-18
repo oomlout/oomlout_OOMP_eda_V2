@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-special-EPG-08
 - Hex ID: FZESPECIALEPG8
 - Name: special : EPG-08
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/special/EPG-08/
 - Description: special : EPG-08
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-special-EPG-08](http://oom.lt/FOOTPRINT-eagle-eagle-default-special-EPG-08)
 - Short Link: [http://oom.lt/FZESPECIALEPG8](http://oom.lt/FZESPECIALEPG8)

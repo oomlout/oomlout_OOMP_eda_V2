@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_CLIK-Mate_502382-1370_1x13-1MP_P1.25mm_Vertical
 - Hex ID: FZKCNMXMXCLIKMATE523821371X131MPP125F
 - Name: Connector_Molex : Molex_CLIK-Mate_502382-1370_1x13-1MP_P1.25mm_Vertical
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_CLIK-Mate_502382-1370_1x13-1MP_P1.25mm_Vertical/
 - Description: Connector_Molex : Molex_CLIK-Mate_502382-1370_1x13-1MP_P1.25mm_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_CLIK-Mate_502382-1370_1x13-1MP_P1.25mm_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_CLIK-Mate_502382-1370_1x13-1MP_P1.25mm_Vertical)
 - Short Link: [http://oom.lt/FZKCNMXMXCLIKMATE523821371X131MPP125F](http://oom.lt/FZKCNMXMXCLIKMATE523821371X131MPP125F)

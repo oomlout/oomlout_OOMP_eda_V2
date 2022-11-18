@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-B120-E3
 - Hex ID: SZKDIODEB12E3
 - Name: Diode : B120-E3
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/B120-E3/
 - Description: Diode : B120-E3
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-B120-E3](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-B120-E3)
 - Short Link: [http://oom.lt/SZKDIODEB12E3](http://oom.lt/SZKDIODEB12E3)

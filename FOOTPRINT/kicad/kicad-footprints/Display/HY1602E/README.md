@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Display-HY1602E
 - Hex ID: FZKDIHY162E
 - Name: Display : HY1602E
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Display/HY1602E/
 - Description: Display : HY1602E
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Display-HY1602E](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Display-HY1602E)
 - Short Link: [http://oom.lt/FZKDIHY162E](http://oom.lt/FZKDIHY162E)

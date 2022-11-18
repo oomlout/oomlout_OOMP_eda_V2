@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEREFPACKAGESLONGPADYC7B5 > ref-packages-longpad : YC7B5](#fzerefpackageslongpadyc7b5--ref-packages-longpad--yc7b5)
+* [FZEREFPSLPYC7B5 > ref-packages-longpad : YC7B5](#fzerefpslpyc7b5--ref-packages-longpad--yc7b5)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEREFPACKAGESLONGPADYC7B5 > ref-packages-longpad : YC7B5
+# FZEREFPSLPYC7B5 > ref-packages-longpad : YC7B5
 
 - ID: FOOTPRINT-eagle-eagle-default-ref-packages-longpad-YC7B5
-- Hex ID: FZEREFPACKAGESLONGPADYC7B5
+- Hex ID: FZEREFPSLPYC7B5
 - Name: ref-packages-longpad : YC7B5
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ref-packages-longpad/YC7B5/
 - Description: ref-packages-longpad : YC7B5
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-longpad-YC7B5](http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-longpad-YC7B5)
-- Short Link: [http://oom.lt/FZEREFPACKAGESLONGPADYC7B5](http://oom.lt/FZEREFPACKAGESLONGPADYC7B5)
+- Short Link: [http://oom.lt/FZEREFPSLPYC7B5](http://oom.lt/FZEREFPSLPYC7B5)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|ref-packages-longpad|
 |OOMP Index|oompIndex|YC7B5|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-ref-packages-longpad-YC7B5|
-|Hex ID (short code)|hexID|FZEREFPACKAGESLONGPADYC7B5|
+|Hex ID (short code)|hexID|FZEREFPSLPYC7B5|
 |name|name|ref-packages-longpad : YC7B5|
 ||||

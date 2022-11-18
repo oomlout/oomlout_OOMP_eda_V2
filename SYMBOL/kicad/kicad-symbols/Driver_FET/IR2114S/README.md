@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Driver_FET-IR2114S
 - Hex ID: SZKDRIVERFETIR2114S
 - Name: Driver_FET : IR2114S
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Driver_FET/IR2114S/
 - Description: Driver_FET : IR2114S
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-IR2114S](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-IR2114S)
 - Short Link: [http://oom.lt/SZKDRIVERFETIR2114S](http://oom.lt/SZKDRIVERFETIR2114S)

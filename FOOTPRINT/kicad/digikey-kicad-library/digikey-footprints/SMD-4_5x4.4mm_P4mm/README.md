@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SMD-4_5x4.4mm_P4mm
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSSM45X44P4
 - Name: digikey-footprints : SMD-4_5x4.4mm_P4mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/SMD-4_5x4.4mm_P4mm/
 - Description: digikey-footprints : SMD-4_5x4.4mm_P4mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SMD-4_5x4.4mm_P4mm](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SMD-4_5x4.4mm_P4mm)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSSM45X44P4](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSSM45X44P4)

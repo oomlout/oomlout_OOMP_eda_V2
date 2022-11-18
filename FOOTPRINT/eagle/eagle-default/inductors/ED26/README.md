@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEINDUCTORSED26 > inductors : ED26](#fzeinductorsed26--inductors--ed26)
+* [FZEINSED26 > inductors : ED26](#fzeinsed26--inductors--ed26)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEINDUCTORSED26 > inductors : ED26
+# FZEINSED26 > inductors : ED26
 
 - ID: FOOTPRINT-eagle-eagle-default-inductors-ED26
-- Hex ID: FZEINDUCTORSED26
+- Hex ID: FZEINSED26
 - Name: inductors : ED26
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/inductors/ED26/
 - Description: inductors : ED26
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-inductors-ED26](http://oom.lt/FOOTPRINT-eagle-eagle-default-inductors-ED26)
-- Short Link: [http://oom.lt/FZEINDUCTORSED26](http://oom.lt/FZEINDUCTORSED26)
+- Short Link: [http://oom.lt/FZEINSED26](http://oom.lt/FZEINSED26)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|inductors|
 |OOMP Index|oompIndex|ED26|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-inductors-ED26|
-|Hex ID (short code)|hexID|FZEINDUCTORSED26|
+|Hex ID (short code)|hexID|FZEINSED26|
 |name|name|inductors : ED26|
 ||||

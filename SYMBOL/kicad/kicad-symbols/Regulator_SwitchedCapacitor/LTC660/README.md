@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_SwitchedCapacitor-LTC660
 - Hex ID: SZKREGULATORSWEDCAPACITORLTC66
 - Name: Regulator_SwitchedCapacitor : LTC660
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_SwitchedCapacitor/LTC660/
 - Description: Regulator_SwitchedCapacitor : LTC660
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_SwitchedCapacitor-LTC660](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_SwitchedCapacitor-LTC660)
 - Short Link: [http://oom.lt/SZKREGULATORSWEDCAPACITORLTC66](http://oom.lt/SZKREGULATORSWEDCAPACITORLTC66)

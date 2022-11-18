@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Photodiode_5mm_Radial
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSPHOTODIODE5R
 - Name: digikey-footprints : Photodiode_5mm_Radial
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Photodiode_5mm_Radial/
 - Description: digikey-footprints : Photodiode_5mm_Radial
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Photodiode_5mm_Radial](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Photodiode_5mm_Radial)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSPHOTODIODE5R](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSPHOTODIODE5R)

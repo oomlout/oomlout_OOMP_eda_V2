@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC18-PIC18F4450-IPT
 - Hex ID: SZKMCUMCHIPPIC18PIC18F445IPT
 - Name: MCU_Microchip_PIC18 : PIC18F4450-IPT
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC18/PIC18F4450-IPT/
 - Description: MCU_Microchip_PIC18 : PIC18F4450-IPT
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC18-PIC18F4450-IPT](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC18-PIC18F4450-IPT)
 - Short Link: [http://oom.lt/SZKMCUMCHIPPIC18PIC18F445IPT](http://oom.lt/SZKMCUMCHIPPIC18PIC18F445IPT)

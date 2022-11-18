@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Power_Management-TPS22917DBV
 - Hex ID: SZKPOWERMANAGEMENTTPS22917DBV
 - Name: Power_Management : TPS22917DBV
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Power_Management/TPS22917DBV/
 - Description: Power_Management : TPS22917DBV
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-TPS22917DBV](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-TPS22917DBV)
 - Short Link: [http://oom.lt/SZKPOWERMANAGEMENTTPS22917DBV](http://oom.lt/SZKPOWERMANAGEMENTTPS22917DBV)

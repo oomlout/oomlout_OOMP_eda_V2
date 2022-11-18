@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-SMADIODE
 - Hex ID: FZASDIODE
 - Name: adafruit : SMADIODE
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/SMADIODE/
 - Description: adafruit : SMADIODE
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-SMADIODE](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-SMADIODE)
 - Short Link: [http://oom.lt/FZASDIODE](http://oom.lt/FZASDIODE)

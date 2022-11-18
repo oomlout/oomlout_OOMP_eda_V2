@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-lstb-MA03-2
 - Hex ID: FZECONLSTBMA32
 - Name: con-lstb : MA03-2
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-lstb/MA03-2/
 - Description: con-lstb : MA03-2
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-lstb-MA03-2](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-lstb-MA03-2)
 - Short Link: [http://oom.lt/FZECONLSTBMA32](http://oom.lt/FZECONLSTBMA32)

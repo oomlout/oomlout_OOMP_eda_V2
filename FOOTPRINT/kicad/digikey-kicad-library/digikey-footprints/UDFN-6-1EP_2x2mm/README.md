@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-UDFN-6-1EP_2x2mm
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSUDFN61EP2X2
 - Name: digikey-footprints : UDFN-6-1EP_2x2mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/UDFN-6-1EP_2x2mm/
 - Description: digikey-footprints : UDFN-6-1EP_2x2mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-UDFN-6-1EP_2x2mm](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-UDFN-6-1EP_2x2mm)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSUDFN61EP2X2](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSUDFN61EP2X2)

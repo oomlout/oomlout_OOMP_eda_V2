@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_Audio-Jack_3.5mm_CUI_SJ1-3524N_Horizontal
 - Hex ID: FZKCNAUDIOJ35CUISJ13524NH
 - Name: Connector_Audio : Jack_3.5mm_CUI_SJ1-3524N_Horizontal
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Audio/Jack_3.5mm_CUI_SJ1-3524N_Horizontal/
 - Description: Connector_Audio : Jack_3.5mm_CUI_SJ1-3524N_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Audio-Jack_3.5mm_CUI_SJ1-3524N_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Audio-Jack_3.5mm_CUI_SJ1-3524N_Horizontal)
 - Short Link: [http://oom.lt/FZKCNAUDIOJ35CUISJ13524NH](http://oom.lt/FZKCNAUDIOJ35CUISJ13524NH)

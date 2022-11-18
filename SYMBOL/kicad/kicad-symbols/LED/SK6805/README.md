@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-LED-SK6805
 - Hex ID: SZKLSK685
 - Name: LED : SK6805
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/LED/SK6805/
 - Description: LED : SK6805
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-LED-SK6805](http://oom.lt/SYMBOL-kicad-kicad-symbols-LED-SK6805)
 - Short Link: [http://oom.lt/SZKLSK685](http://oom.lt/SZKLSK685)

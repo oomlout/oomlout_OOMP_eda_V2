@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Logic_LevelTranslator-TXS0108EPW
 - Hex ID: SZKLOGICLEVELTRANSLATORTXS18EPW
 - Name: Logic_LevelTranslator : TXS0108EPW
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Logic_LevelTranslator/TXS0108EPW/
 - Description: Logic_LevelTranslator : TXS0108EPW
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Logic_LevelTranslator-TXS0108EPW](http://oom.lt/SYMBOL-kicad-kicad-symbols-Logic_LevelTranslator-TXS0108EPW)
 - Short Link: [http://oom.lt/SZKLOGICLEVELTRANSLATORTXS18EPW](http://oom.lt/SZKLOGICLEVELTRANSLATORTXS18EPW)

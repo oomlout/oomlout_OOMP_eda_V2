@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Potentiometer_Digital-MCP42010
 - Hex ID: SZKPOTDIGITALMCP421
 - Name: Potentiometer_Digital : MCP42010
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Potentiometer_Digital/MCP42010/
 - Description: Potentiometer_Digital : MCP42010
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Potentiometer_Digital-MCP42010](http://oom.lt/SYMBOL-kicad-kicad-symbols-Potentiometer_Digital-MCP42010)
 - Short Link: [http://oom.lt/SZKPOTDIGITALMCP421](http://oom.lt/SZKPOTDIGITALMCP421)

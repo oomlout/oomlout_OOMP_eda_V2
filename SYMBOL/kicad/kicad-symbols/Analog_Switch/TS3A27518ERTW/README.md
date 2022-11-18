@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Analog_Switch-TS3A27518ERTW
 - Hex ID: SZKANALOGSWTS3A27518ERTW
 - Name: Analog_Switch : TS3A27518ERTW
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog_Switch/TS3A27518ERTW/
 - Description: Analog_Switch : TS3A27518ERTW
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_Switch-TS3A27518ERTW](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_Switch-TS3A27518ERTW)
 - Short Link: [http://oom.lt/SZKANALOGSWTS3A27518ERTW](http://oom.lt/SZKANALOGSWTS3A27518ERTW)

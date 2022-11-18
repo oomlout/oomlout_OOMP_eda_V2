@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-QFN-28-5MM_ALT1_REDUCED_PASTE
 - Hex ID: FZSRTQFN285ALT1REDUCEDPASTE
 - Name: SparkFun-Retired : QFN-28-5MM_ALT1_REDUCED_PASTE
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Retired/QFN-28-5MM_ALT1_REDUCED_PASTE/
 - Description: SparkFun-Retired : QFN-28-5MM_ALT1_REDUCED_PASTE
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-QFN-28-5MM_ALT1_REDUCED_PASTE](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-QFN-28-5MM_ALT1_REDUCED_PASTE)
 - Short Link: [http://oom.lt/FZSRTQFN285ALT1REDUCEDPASTE](http://oom.lt/FZSRTQFN285ALT1REDUCEDPASTE)

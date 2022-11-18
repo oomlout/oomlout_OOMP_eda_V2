@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKXXSMEUROQUARTZMQ4PIN7X5HANDSOLDERING > Crystal : Crystal_SMD_EuroQuartz_MQ-4Pin_7.0x5.0mm_HandSoldering](#fzkxxsmeuroquartzmq4pin7x5handsoldering--crystal--crystal_smd_euroquartz_mq-4pin_70x50mm_handsoldering)
+* [FZKXXSMEUROQUARTZMQ4P7X5HS > Crystal : Crystal_SMD_EuroQuartz_MQ-4Pin_7.0x5.0mm_HandSoldering](#fzkxxsmeuroquartzmq4p7x5hs--crystal--crystal_smd_euroquartz_mq-4pin_70x50mm_handsoldering)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKXXSMEUROQUARTZMQ4PIN7X5HANDSOLDERING > Crystal : Crystal_SMD_EuroQuartz_MQ-4Pin_7.0x5.0mm_HandSoldering
+# FZKXXSMEUROQUARTZMQ4P7X5HS > Crystal : Crystal_SMD_EuroQuartz_MQ-4Pin_7.0x5.0mm_HandSoldering
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_SMD_EuroQuartz_MQ-4Pin_7.0x5.0mm_HandSoldering
-- Hex ID: FZKXXSMEUROQUARTZMQ4PIN7X5HANDSOLDERING
+- Hex ID: FZKXXSMEUROQUARTZMQ4P7X5HS
 - Name: Crystal : Crystal_SMD_EuroQuartz_MQ-4Pin_7.0x5.0mm_HandSoldering
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_SMD_EuroQuartz_MQ-4Pin_7.0x5.0mm_HandSoldering/
 - Description: Crystal : Crystal_SMD_EuroQuartz_MQ-4Pin_7.0x5.0mm_HandSoldering
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_SMD_EuroQuartz_MQ-4Pin_7.0x5.0mm_HandSoldering](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_SMD_EuroQuartz_MQ-4Pin_7.0x5.0mm_HandSoldering)
-- Short Link: [http://oom.lt/FZKXXSMEUROQUARTZMQ4PIN7X5HANDSOLDERING](http://oom.lt/FZKXXSMEUROQUARTZMQ4PIN7X5HANDSOLDERING)
+- Short Link: [http://oom.lt/FZKXXSMEUROQUARTZMQ4P7X5HS](http://oom.lt/FZKXXSMEUROQUARTZMQ4P7X5HS)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Crystal|
 |OOMP Index|oompIndex|Crystal_SMD_EuroQuartz_MQ-4Pin_7.0x5.0mm_HandSoldering|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_SMD_EuroQuartz_MQ-4Pin_7.0x5.0mm_HandSoldering|
-|Hex ID (short code)|hexID|FZKXXSMEUROQUARTZMQ4PIN7X5HANDSOLDERING|
+|Hex ID (short code)|hexID|FZKXXSMEUROQUARTZMQ4P7X5HS|
 |name|name|Crystal : Crystal_SMD_EuroQuartz_MQ-4Pin_7.0x5.0mm_HandSoldering|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Crystal_SMD_EuroQuartz_MQ-4Pin_7.0x5.0mm_HandSoldering'</td><td> 'description'</td></tr><tr><td> 'SMD Crystal EuroQuartz MQ series http</td></tr><tr><td>//cdn-reichelt.de/documents/datenblatt/B400/MQ.pdf</td><td> hand-soldering</td><td> 7.0x5.0mm^2 package'</td><td> 'tags'</td></tr><tr><td> 'SMD SMT crystal hand-soldering'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Crystal.3dshapes/Crystal_SMD_EuroQuartz_MQ-4Pin_7.0x5.0mm_HandSoldering.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

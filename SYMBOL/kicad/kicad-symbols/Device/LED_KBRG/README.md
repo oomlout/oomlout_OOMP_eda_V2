@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Device-LED_KBRG
 - Hex ID: SZKDEVICELKBRG
 - Name: Device : LED_KBRG
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/LED_KBRG/
 - Description: Device : LED_KBRG
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-LED_KBRG](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-LED_KBRG)
 - Short Link: [http://oom.lt/SZKDEVICELKBRG](http://oom.lt/SZKDEVICELKBRG)

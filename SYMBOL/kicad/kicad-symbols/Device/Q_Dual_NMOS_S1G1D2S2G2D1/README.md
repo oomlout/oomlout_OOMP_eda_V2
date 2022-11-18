@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Device-Q_Dual_NMOS_S1G1D2S2G2D1
 - Hex ID: SZKDEVICEQDUALNMOSS1G1D2S2G2D1
 - Name: Device : Q_Dual_NMOS_S1G1D2S2G2D1
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/Q_Dual_NMOS_S1G1D2S2G2D1/
 - Description: Device : Q_Dual_NMOS_S1G1D2S2G2D1
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Q_Dual_NMOS_S1G1D2S2G2D1](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Q_Dual_NMOS_S1G1D2S2G2D1)
 - Short Link: [http://oom.lt/SZKDEVICEQDUALNMOSS1G1D2S2G2D1](http://oom.lt/SZKDEVICEQDUALNMOSS1G1D2S2G2D1)

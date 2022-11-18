@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-diode-SOD106-W
 - Hex ID: FZEDIODESOD16W
 - Name: diode : SOD106-W
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/diode/SOD106-W/
 - Description: diode : SOD106-W
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-diode-SOD106-W](http://oom.lt/FOOTPRINT-eagle-eagle-default-diode-SOD106-W)
 - Short Link: [http://oom.lt/FZEDIODESOD16W](http://oom.lt/FZEDIODESOD16W)

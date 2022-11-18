@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0402-X-PF06D-V50-C42P006D
 - Hex ID: SZOOMPKOOMPPCAPC42XPF6DV5C42P6D
 - Name: oomlout_OOMP_parts : CAPC-0402-X-PF06D-V50-C42P006D
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/CAPC-0402-X-PF06D-V50-C42P006D/
 - Description: oomlout_OOMP_parts : CAPC-0402-X-PF06D-V50-C42P006D
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0402-X-PF06D-V50-C42P006D](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0402-X-PF06D-V50-C42P006D)
 - Short Link: [http://oom.lt/SZOOMPKOOMPPCAPC42XPF6DV5C42P6D](http://oom.lt/SZOOMPKOOMPPCAPC42XPF6DV5C42P6D)

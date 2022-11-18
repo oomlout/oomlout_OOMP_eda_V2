@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Resistor_THT-R_Axial_DIN0414_L11.9mm_D4.5mm_P20.32mm_Horizontal
 - Hex ID: FZKRRAXIALDIN414L119D45P232H
 - Name: Resistor_THT : R_Axial_DIN0414_L11.9mm_D4.5mm_P20.32mm_Horizontal
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Resistor_THT/R_Axial_DIN0414_L11.9mm_D4.5mm_P20.32mm_Horizontal/
 - Description: Resistor_THT : R_Axial_DIN0414_L11.9mm_D4.5mm_P20.32mm_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Resistor_THT-R_Axial_DIN0414_L11.9mm_D4.5mm_P20.32mm_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Resistor_THT-R_Axial_DIN0414_L11.9mm_D4.5mm_P20.32mm_Horizontal)
 - Short Link: [http://oom.lt/FZKRRAXIALDIN414L119D45P232H](http://oom.lt/FZKRRAXIALDIN414L119D45P232H)

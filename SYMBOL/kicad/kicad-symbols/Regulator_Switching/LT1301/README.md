@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-LT1301
 - Hex ID: SZKREGULATORSWINGLT131
 - Name: Regulator_Switching : LT1301
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/LT1301/
 - Description: Regulator_Switching : LT1301
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LT1301](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LT1301)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGLT131](http://oom.lt/SZKREGULATORSWINGLT131)

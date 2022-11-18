@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-amd-mach-PQFP240
 - Hex ID: FZEAMDMACHPQFP24
 - Name: amd-mach : PQFP240
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/amd-mach/PQFP240/
 - Description: amd-mach : PQFP240
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-amd-mach-PQFP240](http://oom.lt/FOOTPRINT-eagle-eagle-default-amd-mach-PQFP240)
 - Short Link: [http://oom.lt/FZEAMDMACHPQFP24](http://oom.lt/FZEAMDMACHPQFP24)

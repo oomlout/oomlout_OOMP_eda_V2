@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0402-X-O272-67-R42272A
 - Hex ID: SZOOMPKOOMPPRESE42XO27267R42272A
 - Name: oomlout_OOMP_parts : RESE-0402-X-O272-67-R42272A
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/RESE-0402-X-O272-67-R42272A/
 - Description: oomlout_OOMP_parts : RESE-0402-X-O272-67-R42272A
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0402-X-O272-67-R42272A](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0402-X-O272-67-R42272A)
 - Short Link: [http://oom.lt/SZOOMPKOOMPPRESE42XO27267R42272A](http://oom.lt/SZOOMPKOOMPPRESE42XO27267R42272A)

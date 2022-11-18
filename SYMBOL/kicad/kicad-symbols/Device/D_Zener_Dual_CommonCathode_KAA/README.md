@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Device-D_Zener_Dual_CommonCathode_KAA
 - Hex ID: SZKDEVICEDZENERDUALCOONCATHODEKAA
 - Name: Device : D_Zener_Dual_CommonCathode_KAA
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/D_Zener_Dual_CommonCathode_KAA/
 - Description: Device : D_Zener_Dual_CommonCathode_KAA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-D_Zener_Dual_CommonCathode_KAA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-D_Zener_Dual_CommonCathode_KAA)
 - Short Link: [http://oom.lt/SZKDEVICEDZENERDUALCOONCATHODEKAA](http://oom.lt/SZKDEVICEDZENERDUALCOONCATHODEKAA)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Clocks-CRYSTAL-PTH-2X6-CYL-KIT
 - Hex ID: FZSCLXP2X6CYLK
 - Name: SparkFun-Clocks : CRYSTAL-PTH-2X6-CYL-KIT
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Clocks/CRYSTAL-PTH-2X6-CYL-KIT/
 - Description: SparkFun-Clocks : CRYSTAL-PTH-2X6-CYL-KIT
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Clocks-CRYSTAL-PTH-2X6-CYL-KIT](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Clocks-CRYSTAL-PTH-2X6-CYL-KIT)
 - Short Link: [http://oom.lt/FZSCLXP2X6CYLK](http://oom.lt/FZSCLXP2X6CYLK)

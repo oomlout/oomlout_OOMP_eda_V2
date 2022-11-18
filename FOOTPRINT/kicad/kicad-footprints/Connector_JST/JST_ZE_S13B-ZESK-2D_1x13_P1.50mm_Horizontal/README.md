@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_ZE_S13B-ZESK-2D_1x13_P1.50mm_Horizontal
 - Hex ID: FZKCNJSTJSTZES13BZESK2D1X13P15H
 - Name: Connector_JST : JST_ZE_S13B-ZESK-2D_1x13_P1.50mm_Horizontal
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_ZE_S13B-ZESK-2D_1x13_P1.50mm_Horizontal/
 - Description: Connector_JST : JST_ZE_S13B-ZESK-2D_1x13_P1.50mm_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_ZE_S13B-ZESK-2D_1x13_P1.50mm_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_ZE_S13B-ZESK-2D_1x13_P1.50mm_Horizontal)
 - Short Link: [http://oom.lt/FZKCNJSTJSTZES13BZESK2D1X13P15H](http://oom.lt/FZKCNJSTJSTZES13BZESK2D1X13P15H)

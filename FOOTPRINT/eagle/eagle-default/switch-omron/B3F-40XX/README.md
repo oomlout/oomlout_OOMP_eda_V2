@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-switch-omron-B3F-40XX
 - Hex ID: FZESWOMRONB3F4XX
 - Name: switch-omron : B3F-40XX
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/switch-omron/B3F-40XX/
 - Description: switch-omron : B3F-40XX
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-omron-B3F-40XX](http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-omron-B3F-40XX)
 - Short Link: [http://oom.lt/FZESWOMRONB3F4XX](http://oom.lt/FZESWOMRONB3F4XX)

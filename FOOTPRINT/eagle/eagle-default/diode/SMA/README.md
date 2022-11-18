@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-diode-SMA
 - Hex ID: FZEDIODES
 - Name: diode : SMA
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/diode/SMA/
 - Description: diode : SMA
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-diode-SMA](http://oom.lt/FOOTPRINT-eagle-eagle-default-diode-SMA)
 - Short Link: [http://oom.lt/FZEDIODES](http://oom.lt/FZEDIODES)

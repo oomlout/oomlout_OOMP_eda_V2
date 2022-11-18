@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Connector-Bus_ISA_8bit
 - Hex ID: SZKCNBUSISA8BIT
 - Name: Connector : Bus_ISA_8bit
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector/Bus_ISA_8bit/
 - Description: Connector : Bus_ISA_8bit
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-Bus_ISA_8bit](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-Bus_ISA_8bit)
 - Short Link: [http://oom.lt/SZKCNBUSISA8BIT](http://oom.lt/SZKCNBUSISA8BIT)

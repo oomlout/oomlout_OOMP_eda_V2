@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-deutsch-AS24-61
 - Hex ID: FZECONDEUTSCHAS2461
 - Name: con-deutsch : AS24-61
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-deutsch/AS24-61/
 - Description: con-deutsch : AS24-61
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-deutsch-AS24-61](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-deutsch-AS24-61)
 - Short Link: [http://oom.lt/FZECONDEUTSCHAS2461](http://oom.lt/FZECONDEUTSCHAS2461)

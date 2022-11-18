@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-FPGA_Xilinx-XC3S400-FG320
 - Hex ID: SZKFPGAXILINXXC3S4FG32
 - Name: FPGA_Xilinx : XC3S400-FG320
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/FPGA_Xilinx/XC3S400-FG320/
 - Description: FPGA_Xilinx : XC3S400-FG320
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-FPGA_Xilinx-XC3S400-FG320](http://oom.lt/SYMBOL-kicad-kicad-symbols-FPGA_Xilinx-XC3S400-FG320)
 - Short Link: [http://oom.lt/SZKFPGAXILINXXC3S4FG32](http://oom.lt/SZKFPGAXILINXXC3S4FG32)

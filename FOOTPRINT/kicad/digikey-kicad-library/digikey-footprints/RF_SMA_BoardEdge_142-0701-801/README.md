@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-RF_SMA_BoardEdge_142-0701-801
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSRFSBOARDEDGE1427181
 - Name: digikey-footprints : RF_SMA_BoardEdge_142-0701-801
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/RF_SMA_BoardEdge_142-0701-801/
 - Description: digikey-footprints : RF_SMA_BoardEdge_142-0701-801
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-RF_SMA_BoardEdge_142-0701-801](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-RF_SMA_BoardEdge_142-0701-801)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSRFSBOARDEDGE1427181](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSRFSBOARDEDGE1427181)

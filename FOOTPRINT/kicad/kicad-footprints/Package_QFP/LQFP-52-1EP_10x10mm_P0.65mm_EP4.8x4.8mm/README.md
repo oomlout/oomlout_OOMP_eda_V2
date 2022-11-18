@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_QFP-LQFP-52-1EP_10x10mm_P0.65mm_EP4.8x4.8mm
 - Hex ID: FZKQFPLQFP521EP1X1P65EP48X48
 - Name: Package_QFP : LQFP-52-1EP_10x10mm_P0.65mm_EP4.8x4.8mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_QFP/LQFP-52-1EP_10x10mm_P0.65mm_EP4.8x4.8mm/
 - Description: Package_QFP : LQFP-52-1EP_10x10mm_P0.65mm_EP4.8x4.8mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_QFP-LQFP-52-1EP_10x10mm_P0.65mm_EP4.8x4.8mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_QFP-LQFP-52-1EP_10x10mm_P0.65mm_EP4.8x4.8mm)
 - Short Link: [http://oom.lt/FZKQFPLQFP521EP1X1P65EP48X48](http://oom.lt/FZKQFPLQFP521EP1X1P65EP48X48)

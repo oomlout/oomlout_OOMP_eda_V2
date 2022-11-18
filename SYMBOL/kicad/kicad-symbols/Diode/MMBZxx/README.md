@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-MMBZxx
 - Hex ID: SZKDIODEBZXX
 - Name: Diode : MMBZxx
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/MMBZxx/
 - Description: Diode : MMBZxx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-MMBZxx](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-MMBZxx)
 - Short Link: [http://oom.lt/SZKDIODEBZXX](http://oom.lt/SZKDIODEBZXX)

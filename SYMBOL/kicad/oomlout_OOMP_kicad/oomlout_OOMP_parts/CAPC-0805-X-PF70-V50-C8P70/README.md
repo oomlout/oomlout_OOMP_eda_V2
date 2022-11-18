@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0805-X-PF70-V50-C8P70
 - Hex ID: SZOOMPKOOMPPCAPC85XPF7V5C8P7
 - Name: oomlout_OOMP_parts : CAPC-0805-X-PF70-V50-C8P70
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/CAPC-0805-X-PF70-V50-C8P70/
 - Description: oomlout_OOMP_parts : CAPC-0805-X-PF70-V50-C8P70
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0805-X-PF70-V50-C8P70](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0805-X-PF70-V50-C8P70)
 - Short Link: [http://oom.lt/SZOOMPKOOMPPCAPC85XPF7V5C8P7](http://oom.lt/SZOOMPKOOMPPCAPC85XPF7V5C8P7)

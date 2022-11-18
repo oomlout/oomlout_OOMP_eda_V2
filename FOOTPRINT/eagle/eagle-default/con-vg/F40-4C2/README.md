@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-vg-F40-4C2
 - Hex ID: FZECONVGF44C2
 - Name: con-vg : F40-4C2
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-vg/F40-4C2/
 - Description: con-vg : F40-4C2
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-vg-F40-4C2](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-vg-F40-4C2)
 - Short Link: [http://oom.lt/FZECONVGF44C2](http://oom.lt/FZECONVGF44C2)

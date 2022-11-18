@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Comms-SSOP20_L
 - Hex ID: FZSICSS2L
 - Name: SparkFun-IC-Comms : SSOP20_L
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-IC-Comms/SSOP20_L/
 - Description: SparkFun-IC-Comms : SSOP20_L
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Comms-SSOP20_L](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Comms-SSOP20_L)
 - Short Link: [http://oom.lt/FZSICSS2L](http://oom.lt/FZSICSS2L)

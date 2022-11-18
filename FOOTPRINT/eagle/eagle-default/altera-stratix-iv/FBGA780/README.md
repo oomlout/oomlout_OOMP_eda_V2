@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-altera-stratix-iv-FBGA780
 - Hex ID: FZEALTERASTRATIXIVFBGA78
 - Name: altera-stratix-iv : FBGA780
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/altera-stratix-iv/FBGA780/
 - Description: altera-stratix-iv : FBGA780
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-altera-stratix-iv-FBGA780](http://oom.lt/FOOTPRINT-eagle-eagle-default-altera-stratix-iv-FBGA780)
 - Short Link: [http://oom.lt/FZEALTERASTRATIXIVFBGA78](http://oom.lt/FZEALTERASTRATIXIVFBGA78)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_ST_STM8-STM8L101F2P
 - Hex ID: SZKMCUSTSTM8STM8L11F2P
 - Name: MCU_ST_STM8 : STM8L101F2P
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_ST_STM8/STM8L101F2P/
 - Description: MCU_ST_STM8 : STM8L101F2P
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM8-STM8L101F2P](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM8-STM8L101F2P)
 - Short Link: [http://oom.lt/SZKMCUSTSTM8STM8L11F2P](http://oom.lt/SZKMCUSTSTM8STM8L11F2P)

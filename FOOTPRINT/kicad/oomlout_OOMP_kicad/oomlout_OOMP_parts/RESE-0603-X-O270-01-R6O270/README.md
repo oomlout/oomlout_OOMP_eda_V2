@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O270-01-R6O270
 - Hex ID: FZOOMPKOOMPPRESE63XO271R6O27
 - Name: oomlout_OOMP_parts : RESE-0603-X-O270-01-R6O270
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/RESE-0603-X-O270-01-R6O270/
 - Description: oomlout_OOMP_parts : RESE-0603-X-O270-01-R6O270
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O270-01-R6O270](http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O270-01-R6O270)
 - Short Link: [http://oom.lt/FZOOMPKOOMPPRESE63XO271R6O27](http://oom.lt/FZOOMPKOOMPPRESE63XO271R6O27)

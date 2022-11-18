@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Driver_FET-MIC4604YM
 - Hex ID: SZKDRIVERFETMIC464YM
 - Name: Driver_FET : MIC4604YM
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Driver_FET/MIC4604YM/
 - Description: Driver_FET : MIC4604YM
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-MIC4604YM](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-MIC4604YM)
 - Short Link: [http://oom.lt/SZKDRIVERFETMIC464YM](http://oom.lt/SZKDRIVERFETMIC464YM)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Driver_FET-IR25603
 - Hex ID: SZKDRIVERFETIR2563
 - Name: Driver_FET : IR25603
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Driver_FET/IR25603/
 - Description: Driver_FET : IR25603
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-IR25603](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-IR25603)
 - Short Link: [http://oom.lt/SZKDRIVERFETIR2563](http://oom.lt/SZKDRIVERFETIR2563)

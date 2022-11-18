@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-micro-motorola-DIL24
 - Hex ID: FZEMMOTOROLADIL24
 - Name: micro-motorola : DIL24
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/micro-motorola/DIL24/
 - Description: micro-motorola : DIL24
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-motorola-DIL24](http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-motorola-DIL24)
 - Short Link: [http://oom.lt/FZEMMOTOROLADIL24](http://oom.lt/FZEMMOTOROLADIL24)

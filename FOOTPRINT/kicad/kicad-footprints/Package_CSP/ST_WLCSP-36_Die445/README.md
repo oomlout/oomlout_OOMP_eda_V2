@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_CSP-ST_WLCSP-36_Die445
 - Hex ID: FZKCSPSTWLCSP36DIE445
 - Name: Package_CSP : ST_WLCSP-36_Die445
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_CSP/ST_WLCSP-36_Die445/
 - Description: Package_CSP : ST_WLCSP-36_Die445
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_CSP-ST_WLCSP-36_Die445](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_CSP-ST_WLCSP-36_Die445)
 - Short Link: [http://oom.lt/FZKCSPSTWLCSP36DIE445](http://oom.lt/FZKCSPSTWLCSP36DIE445)

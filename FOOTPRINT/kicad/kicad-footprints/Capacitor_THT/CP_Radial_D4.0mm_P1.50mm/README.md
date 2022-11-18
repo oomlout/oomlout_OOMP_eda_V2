@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Capacitor_THT-CP_Radial_D4.0mm_P1.50mm
 - Hex ID: FZKCCPRD4P15
 - Name: Capacitor_THT : CP_Radial_D4.0mm_P1.50mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Capacitor_THT/CP_Radial_D4.0mm_P1.50mm/
 - Description: Capacitor_THT : CP_Radial_D4.0mm_P1.50mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_THT-CP_Radial_D4.0mm_P1.50mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_THT-CP_Radial_D4.0mm_P1.50mm)
 - Short Link: [http://oom.lt/FZKCCPRD4P15](http://oom.lt/FZKCCPRD4P15)

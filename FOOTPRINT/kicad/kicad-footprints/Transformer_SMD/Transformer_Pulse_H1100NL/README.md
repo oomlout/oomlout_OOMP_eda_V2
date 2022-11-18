@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Transformer_SMD-Transformer_Pulse_H1100NL
 - Hex ID: FZKTRTRPULSEH11NL
 - Name: Transformer_SMD : Transformer_Pulse_H1100NL
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Transformer_SMD/Transformer_Pulse_H1100NL/
 - Description: Transformer_SMD : Transformer_Pulse_H1100NL
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Transformer_SMD-Transformer_Pulse_H1100NL](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Transformer_SMD-Transformer_Pulse_H1100NL)
 - Short Link: [http://oom.lt/FZKTRTRPULSEH11NL](http://oom.lt/FZKTRTRPULSEH11NL)

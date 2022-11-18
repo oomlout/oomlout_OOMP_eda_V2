@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Transformer_SMD-Transformer_Coilcraft_CST1
 - Hex ID: FZKTRTRCOILCRAFTCST1
 - Name: Transformer_SMD : Transformer_Coilcraft_CST1
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Transformer_SMD/Transformer_Coilcraft_CST1/
 - Description: Transformer_SMD : Transformer_Coilcraft_CST1
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Transformer_SMD-Transformer_Coilcraft_CST1](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Transformer_SMD-Transformer_Coilcraft_CST1)
 - Short Link: [http://oom.lt/FZKTRTRCOILCRAFTCST1](http://oom.lt/FZKTRTRCOILCRAFTCST1)

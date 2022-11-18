@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0402-X-O103-01-R4O103
 - Hex ID: SZOOMPKOOMPPRESE42XO131R4O13
 - Name: oomlout_OOMP_parts : RESE-0402-X-O103-01-R4O103
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/RESE-0402-X-O103-01-R4O103/
 - Description: oomlout_OOMP_parts : RESE-0402-X-O103-01-R4O103
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0402-X-O103-01-R4O103](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0402-X-O103-01-R4O103)
 - Short Link: [http://oom.lt/SZOOMPKOOMPPRESE42XO131R4O13](http://oom.lt/SZOOMPKOOMPPRESE42XO131R4O13)

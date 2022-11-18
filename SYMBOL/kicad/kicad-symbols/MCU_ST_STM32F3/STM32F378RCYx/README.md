@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F3-STM32F378RCYx
 - Hex ID: SZKMCUSTSTM32F3STM32F378RCYX
 - Name: MCU_ST_STM32F3 : STM32F378RCYx
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32F3/STM32F378RCYx/
 - Description: MCU_ST_STM32F3 : STM32F378RCYx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F3-STM32F378RCYx](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F3-STM32F378RCYx)
 - Short Link: [http://oom.lt/SZKMCUSTSTM32F3STM32F378RCYX](http://oom.lt/SZKMCUSTSTM32F3STM32F378RCYX)

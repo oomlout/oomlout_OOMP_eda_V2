@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Special-Function-SO16
 - Hex ID: FZSISSO16
 - Name: SparkFun-IC-Special-Function : SO16
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-IC-Special-Function/SO16/
 - Description: SparkFun-IC-Special-Function : SO16
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Special-Function-SO16](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Special-Function-SO16)
 - Short Link: [http://oom.lt/FZSISSO16](http://oom.lt/FZSISSO16)

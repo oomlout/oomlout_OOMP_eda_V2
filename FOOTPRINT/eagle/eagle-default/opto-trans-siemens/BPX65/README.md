@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-opto-trans-siemens-BPX65
 - Hex ID: FZEOPTOTRANSSIEMENSBPX65
 - Name: opto-trans-siemens : BPX65
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/opto-trans-siemens/BPX65/
 - Description: opto-trans-siemens : BPX65
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-opto-trans-siemens-BPX65](http://oom.lt/FOOTPRINT-eagle-eagle-default-opto-trans-siemens-BPX65)
 - Short Link: [http://oom.lt/FZEOPTOTRANSSIEMENSBPX65](http://oom.lt/FZEOPTOTRANSSIEMENSBPX65)

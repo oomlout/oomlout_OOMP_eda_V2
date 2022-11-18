@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Jumpers-SMT-JUMPER_2_NO_SILK_ROUND
 - Hex ID: FZSSPARKFUNJSSJ2NOSILKROUND
 - Name: SparkFun-Jumpers : SMT-JUMPER_2_NO_SILK_ROUND
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Jumpers/SMT-JUMPER_2_NO_SILK_ROUND/
 - Description: SparkFun-Jumpers : SMT-JUMPER_2_NO_SILK_ROUND
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Jumpers-SMT-JUMPER_2_NO_SILK_ROUND](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Jumpers-SMT-JUMPER_2_NO_SILK_ROUND)
 - Short Link: [http://oom.lt/FZSSPARKFUNJSSJ2NOSILKROUND](http://oom.lt/FZSSPARKFUNJSSJ2NOSILKROUND)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-LLGA-10_2.5x2.5mm_LPS25HB
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSLLGA125X25LPS25HB
 - Name: digikey-footprints : LLGA-10_2.5x2.5mm_LPS25HB
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/LLGA-10_2.5x2.5mm_LPS25HB/
 - Description: digikey-footprints : LLGA-10_2.5x2.5mm_LPS25HB
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-LLGA-10_2.5x2.5mm_LPS25HB](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-LLGA-10_2.5x2.5mm_LPS25HB)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSLLGA125X25LPS25HB](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSLLGA125X25LPS25HB)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0603-X-PF82D-V50-C6P008
 - Hex ID: SZOOMPKOOMPPCAPC63XPF82DV5C6P8
 - Name: oomlout_OOMP_parts : CAPC-0603-X-PF82D-V50-C6P008
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/CAPC-0603-X-PF82D-V50-C6P008/
 - Description: oomlout_OOMP_parts : CAPC-0603-X-PF82D-V50-C6P008
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0603-X-PF82D-V50-C6P008](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0603-X-PF82D-V50-C6P008)
 - Short Link: [http://oom.lt/SZOOMPKOOMPPCAPC63XPF82DV5C6P8](http://oom.lt/SZOOMPKOOMPPCAPC63XPF82DV5C6P8)

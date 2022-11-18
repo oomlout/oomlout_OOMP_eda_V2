@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Vishay_IHLP-1212
 - Hex ID: FZKINLVISHAYIHLP1212
 - Name: Inductor_SMD : L_Vishay_IHLP-1212
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Vishay_IHLP-1212/
 - Description: Inductor_SMD : L_Vishay_IHLP-1212
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Vishay_IHLP-1212](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Vishay_IHLP-1212)
 - Short Link: [http://oom.lt/FZKINLVISHAYIHLP1212](http://oom.lt/FZKINLVISHAYIHLP1212)

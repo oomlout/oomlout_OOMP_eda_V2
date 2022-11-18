@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_Optical-QSE159
 - Hex ID: SZKINTERFACEOPTICALQSE159
 - Name: Interface_Optical : QSE159
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_Optical/QSE159/
 - Description: Interface_Optical : QSE159
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Optical-QSE159](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Optical-QSE159)
 - Short Link: [http://oom.lt/SZKINTERFACEOPTICALQSE159](http://oom.lt/SZKINTERFACEOPTICALQSE159)

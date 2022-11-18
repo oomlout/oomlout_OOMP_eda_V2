@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-HDMI_Female_DC3RX19JA3R1700
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSHDMIFDC3RX19JA3R17
 - Name: digikey-footprints : HDMI_Female_DC3RX19JA3R1700
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/HDMI_Female_DC3RX19JA3R1700/
 - Description: digikey-footprints : HDMI_Female_DC3RX19JA3R1700
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-HDMI_Female_DC3RX19JA3R1700](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-HDMI_Female_DC3RX19JA3R1700)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSHDMIFDC3RX19JA3R17](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSHDMIFDC3RX19JA3R17)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0805-X-UF10-V25-C8U10
 - Hex ID: FZOOMPKOOMPPCAPC85XUF1V25C8U1
 - Name: oomlout_OOMP_parts : CAPC-0805-X-UF10-V25-C8U10
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/CAPC-0805-X-UF10-V25-C8U10/
 - Description: oomlout_OOMP_parts : CAPC-0805-X-UF10-V25-C8U10
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0805-X-UF10-V25-C8U10](http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0805-X-UF10-V25-C8U10)
 - Short Link: [http://oom.lt/FZOOMPKOOMPPCAPC85XUF1V25C8U1](http://oom.lt/FZOOMPKOOMPPCAPC85XUF1V25C8U1)

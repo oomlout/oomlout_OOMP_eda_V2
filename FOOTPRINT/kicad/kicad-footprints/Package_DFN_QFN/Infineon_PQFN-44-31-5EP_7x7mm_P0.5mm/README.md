@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Infineon_PQFN-44-31-5EP_7x7mm_P0.5mm
 - Hex ID: FZKDFNINFINEONPQFN44315EP7X7P5
 - Name: Package_DFN_QFN : Infineon_PQFN-44-31-5EP_7x7mm_P0.5mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/Infineon_PQFN-44-31-5EP_7x7mm_P0.5mm/
 - Description: Package_DFN_QFN : Infineon_PQFN-44-31-5EP_7x7mm_P0.5mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Infineon_PQFN-44-31-5EP_7x7mm_P0.5mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Infineon_PQFN-44-31-5EP_7x7mm_P0.5mm)
 - Short Link: [http://oom.lt/FZKDFNINFINEONPQFN44315EP7X7P5](http://oom.lt/FZKDFNINFINEONPQFN44315EP7X7P5)

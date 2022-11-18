@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-OptoDevice-Lightpipe_Dialight_515-1064F
 - Hex ID: FZKOPLIGHTPIPEDIALIGHT515164F
 - Name: OptoDevice : Lightpipe_Dialight_515-1064F
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/OptoDevice/Lightpipe_Dialight_515-1064F/
 - Description: OptoDevice : Lightpipe_Dialight_515-1064F
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-OptoDevice-Lightpipe_Dialight_515-1064F](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-OptoDevice-Lightpipe_Dialight_515-1064F)
 - Short Link: [http://oom.lt/FZKOPLIGHTPIPEDIALIGHT515164F](http://oom.lt/FZKOPLIGHTPIPEDIALIGHT515164F)

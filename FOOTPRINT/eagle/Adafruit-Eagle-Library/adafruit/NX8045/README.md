@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-NX8045
 - Hex ID: FZANX845
 - Name: adafruit : NX8045
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/NX8045/
 - Description: adafruit : NX8045
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-NX8045](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-NX8045)
 - Short Link: [http://oom.lt/FZANX845](http://oom.lt/FZANX845)

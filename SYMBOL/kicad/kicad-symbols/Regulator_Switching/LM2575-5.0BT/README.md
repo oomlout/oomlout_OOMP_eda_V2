@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-LM2575-5.0BT
 - Hex ID: SZKREGULATORSWINGLM25755BT
 - Name: Regulator_Switching : LM2575-5.0BT
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/LM2575-5.0BT/
 - Description: Regulator_Switching : LM2575-5.0BT
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LM2575-5.0BT](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LM2575-5.0BT)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGLM25755BT](http://oom.lt/SZKREGULATORSWINGLM25755BT)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_LCC-PLCC-32_THT-Socket
 - Hex ID: FZKLCCPLCC32THTSO
 - Name: Package_LCC : PLCC-32_THT-Socket
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_LCC/PLCC-32_THT-Socket/
 - Description: Package_LCC : PLCC-32_THT-Socket
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_LCC-PLCC-32_THT-Socket](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_LCC-PLCC-32_THT-Socket)
 - Short Link: [http://oom.lt/FZKLCCPLCC32THTSO](http://oom.lt/FZKLCCPLCC32THTSO)

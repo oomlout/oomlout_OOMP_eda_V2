@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Air_Quality_Module_IAQ-CORE_P
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSAIRQUALITYMOIAQCOREP
 - Name: digikey-footprints : Air_Quality_Module_IAQ-CORE_P
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Air_Quality_Module_IAQ-CORE_P/
 - Description: digikey-footprints : Air_Quality_Module_IAQ-CORE_P
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Air_Quality_Module_IAQ-CORE_P](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Air_Quality_Module_IAQ-CORE_P)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSAIRQUALITYMOIAQCOREP](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSAIRQUALITYMOIAQCOREP)

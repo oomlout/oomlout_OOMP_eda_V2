@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Reference_Voltage-ISL21070CIH320Z-TK
 - Hex ID: SZKREFERENCEVOLTAGEISL217CIH32ZTK
 - Name: Reference_Voltage : ISL21070CIH320Z-TK
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Reference_Voltage/ISL21070CIH320Z-TK/
 - Description: Reference_Voltage : ISL21070CIH320Z-TK
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Voltage-ISL21070CIH320Z-TK](http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Voltage-ISL21070CIH320Z-TK)
 - Short Link: [http://oom.lt/SZKREFERENCEVOLTAGEISL217CIH32ZTK](http://oom.lt/SZKREFERENCEVOLTAGEISL217CIH32ZTK)

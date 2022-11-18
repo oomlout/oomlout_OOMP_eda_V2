@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-switch-misc-TP-U7
 - Hex ID: FZESWMISCTPU7
 - Name: switch-misc : TP-U7
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/switch-misc/TP-U7/
 - Description: switch-misc : TP-U7
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-misc-TP-U7](http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-misc-TP-U7)
 - Short Link: [http://oom.lt/FZESWMISCTPU7](http://oom.lt/FZESWMISCTPU7)

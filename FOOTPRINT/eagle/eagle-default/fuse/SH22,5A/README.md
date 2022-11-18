@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-fuse-SH22,5A
 - Hex ID: FZEFUSH225A
 - Name: fuse : SH22,5A
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/fuse/SH22,5A/
 - Description: fuse : SH22,5A
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-fuse-SH22,5A](http://oom.lt/FOOTPRINT-eagle-eagle-default-fuse-SH22,5A)
 - Short Link: [http://oom.lt/FZEFUSH225A](http://oom.lt/FZEFUSH225A)

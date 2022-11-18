@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SOIC-6-5_W4.55mm
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSSOIC65W455
 - Name: digikey-footprints : SOIC-6-5_W4.55mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/SOIC-6-5_W4.55mm/
 - Description: digikey-footprints : SOIC-6-5_W4.55mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SOIC-6-5_W4.55mm](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SOIC-6-5_W4.55mm)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSSOIC65W455](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSSOIC65W455)

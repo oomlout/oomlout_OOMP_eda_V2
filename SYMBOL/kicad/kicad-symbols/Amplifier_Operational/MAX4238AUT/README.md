@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-MAX4238AUT
 - Hex ID: SZKAMPLIFIEROPERATIONALMAX4238AUT
 - Name: Amplifier_Operational : MAX4238AUT
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/MAX4238AUT/
 - Description: Amplifier_Operational : MAX4238AUT
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-MAX4238AUT](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-MAX4238AUT)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALMAX4238AUT](http://oom.lt/SZKAMPLIFIEROPERATIONALMAX4238AUT)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-TSSOP-8
 - Hex ID: FZATSS8
 - Name: adafruit : TSSOP-8
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/TSSOP-8/
 - Description: adafruit : TSSOP-8
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-TSSOP-8](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-TSSOP-8)
 - Short Link: [http://oom.lt/FZATSS8](http://oom.lt/FZATSS8)

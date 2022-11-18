@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LM358_DFN
 - Hex ID: SZKAMPLIFIEROPERATIONALLM358DFN
 - Name: Amplifier_Operational : LM358_DFN
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/LM358_DFN/
 - Description: Amplifier_Operational : LM358_DFN
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LM358_DFN](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LM358_DFN)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALLM358DFN](http://oom.lt/SZKAMPLIFIEROPERATIONALLM358DFN)

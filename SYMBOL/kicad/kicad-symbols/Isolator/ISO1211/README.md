@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Isolator-ISO1211
 - Hex ID: SZKISOLATORISO1211
 - Name: Isolator : ISO1211
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Isolator/ISO1211/
 - Description: Isolator : ISO1211
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-ISO1211](http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-ISO1211)
 - Short Link: [http://oom.lt/SZKISOLATORISO1211](http://oom.lt/SZKISOLATORISO1211)

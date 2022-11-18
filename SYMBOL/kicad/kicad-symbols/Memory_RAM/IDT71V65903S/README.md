@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Memory_RAM-IDT71V65903S
 - Hex ID: SZKMEMORYRAMIDT71V6593S
 - Name: Memory_RAM : IDT71V65903S
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Memory_RAM/IDT71V65903S/
 - Description: Memory_RAM : IDT71V65903S
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_RAM-IDT71V65903S](http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_RAM-IDT71V65903S)
 - Short Link: [http://oom.lt/SZKMEMORYRAMIDT71V6593S](http://oom.lt/SZKMEMORYRAMIDT71V6593S)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Display-HDSM-541B_HDSM-543B
 - Hex ID: FZKDIHDSM541BHDSM543B
 - Name: Display : HDSM-541B_HDSM-543B
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Display/HDSM-541B_HDSM-543B/
 - Description: Display : HDSM-541B_HDSM-543B
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Display-HDSM-541B_HDSM-543B](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Display-HDSM-541B_HDSM-543B)
 - Short Link: [http://oom.lt/FZKDIHDSM541BHDSM543B](http://oom.lt/FZKDIHDSM541BHDSM543B)

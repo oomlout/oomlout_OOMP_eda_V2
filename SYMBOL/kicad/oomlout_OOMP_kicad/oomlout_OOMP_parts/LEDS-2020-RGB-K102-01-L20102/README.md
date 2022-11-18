@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-LEDS-2020-RGB-K102-01-L20102
 - Hex ID: SZOOMPKOOMPPLS22RGBK121L212
 - Name: oomlout_OOMP_parts : LEDS-2020-RGB-K102-01-L20102
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/LEDS-2020-RGB-K102-01-L20102/
 - Description: oomlout_OOMP_parts : LEDS-2020-RGB-K102-01-L20102
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-LEDS-2020-RGB-K102-01-L20102](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-LEDS-2020-RGB-K102-01-L20102)
 - Short Link: [http://oom.lt/SZOOMPKOOMPPLS22RGBK121L212](http://oom.lt/SZOOMPKOOMPPLS22RGBK121L212)

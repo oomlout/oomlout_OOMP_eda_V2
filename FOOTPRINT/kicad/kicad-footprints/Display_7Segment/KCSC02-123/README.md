@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Display_7Segment-KCSC02-123
 - Hex ID: FZKDI7SKCSC2123
 - Name: Display_7Segment : KCSC02-123
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Display_7Segment/KCSC02-123/
 - Description: Display_7Segment : KCSC02-123
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Display_7Segment-KCSC02-123](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Display_7Segment-KCSC02-123)
 - Short Link: [http://oom.lt/FZKDI7SKCSC2123](http://oom.lt/FZKDI7SKCSC2123)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-chipcard-iso7816-ISO7816
 - Hex ID: FZECONCHIPCARDISO7816ISO7816
 - Name: con-chipcard-iso7816 : ISO7816
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-chipcard-iso7816/ISO7816/
 - Description: con-chipcard-iso7816 : ISO7816
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-chipcard-iso7816-ISO7816](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-chipcard-iso7816-ISO7816)
 - Short Link: [http://oom.lt/FZECONCHIPCARDISO7816ISO7816](http://oom.lt/FZECONCHIPCARDISO7816ISO7816)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-memory-idt-M19
 - Hex ID: FZEMEMORYIDTM19
 - Name: memory-idt : M19
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/memory-idt/M19/
 - Description: memory-idt : M19
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-memory-idt-M19](http://oom.lt/FOOTPRINT-eagle-eagle-default-memory-idt-M19)
 - Short Link: [http://oom.lt/FZEMEMORYIDTM19](http://oom.lt/FZEMEMORYIDTM19)

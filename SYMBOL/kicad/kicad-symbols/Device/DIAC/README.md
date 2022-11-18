@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Device-DIAC
 - Hex ID: SZKDEVICEDIAC
 - Name: Device : DIAC
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/DIAC/
 - Description: Device : DIAC
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-DIAC](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-DIAC)
 - Short Link: [http://oom.lt/SZKDEVICEDIAC](http://oom.lt/SZKDEVICEDIAC)

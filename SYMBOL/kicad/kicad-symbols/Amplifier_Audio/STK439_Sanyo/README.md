@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Audio-STK439_Sanyo
 - Hex ID: SZKAMPLIFIERAUDIOSTK439SANYO
 - Name: Amplifier_Audio : STK439_Sanyo
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Audio/STK439_Sanyo/
 - Description: Amplifier_Audio : STK439_Sanyo
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Audio-STK439_Sanyo](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Audio-STK439_Sanyo)
 - Short Link: [http://oom.lt/SZKAMPLIFIERAUDIOSTK439SANYO](http://oom.lt/SZKAMPLIFIERAUDIOSTK439SANYO)

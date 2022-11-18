@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEREFPACKAGESSMB > ref-packages : SMB](#fzerefpackagessmb--ref-packages--smb)
+* [FZEREFPSSMB > ref-packages : SMB](#fzerefpssmb--ref-packages--smb)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEREFPACKAGESSMB > ref-packages : SMB
+# FZEREFPSSMB > ref-packages : SMB
 
 - ID: FOOTPRINT-eagle-eagle-default-ref-packages-SMB
-- Hex ID: FZEREFPACKAGESSMB
+- Hex ID: FZEREFPSSMB
 - Name: ref-packages : SMB
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ref-packages/SMB/
 - Description: ref-packages : SMB
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-SMB](http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-SMB)
-- Short Link: [http://oom.lt/FZEREFPACKAGESSMB](http://oom.lt/FZEREFPACKAGESSMB)
+- Short Link: [http://oom.lt/FZEREFPSSMB](http://oom.lt/FZEREFPSSMB)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|ref-packages|
 |OOMP Index|oompIndex|SMB|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-ref-packages-SMB|
-|Hex ID (short code)|hexID|FZEREFPACKAGESSMB|
+|Hex ID (short code)|hexID|FZEREFPSSMB|
 |name|name|ref-packages : SMB|
 ||||

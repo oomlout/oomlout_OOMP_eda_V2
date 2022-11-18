@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega329PV-10M
 - Hex ID: SZKMCUMCHIPATMEGAATMEGA329PV1M
 - Name: MCU_Microchip_ATmega : ATmega329PV-10M
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_ATmega/ATmega329PV-10M/
 - Description: MCU_Microchip_ATmega : ATmega329PV-10M
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega329PV-10M](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega329PV-10M)
 - Short Link: [http://oom.lt/SZKMCUMCHIPATMEGAATMEGA329PV1M](http://oom.lt/SZKMCUMCHIPATMEGAATMEGA329PV1M)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Connector-USB3_B_Micro
 - Hex ID: SZKCNU3BM
 - Name: Connector : USB3_B_Micro
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector/USB3_B_Micro/
 - Description: Connector : USB3_B_Micro
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-USB3_B_Micro](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-USB3_B_Micro)
 - Short Link: [http://oom.lt/SZKCNU3BM](http://oom.lt/SZKCNU3BM)

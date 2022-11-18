@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-RESE-0603-X-O470-01-R6O470-C23182
 - Hex ID: FZOOMPKJLCRESE63XO471R6O47C23182
 - Name: oomlout_OOMP_JLCC_Basic : RESE-0603-X-O470-01-R6O470-C23182
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_JLCC_Basic/RESE-0603-X-O470-01-R6O470-C23182/
 - Description: oomlout_OOMP_JLCC_Basic : RESE-0603-X-O470-01-R6O470-C23182
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-RESE-0603-X-O470-01-R6O470-C23182](http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-RESE-0603-X-O470-01-R6O470-C23182)
 - Short Link: [http://oom.lt/FZOOMPKJLCRESE63XO471R6O47C23182](http://oom.lt/FZOOMPKJLCRESE63XO471R6O47C23182)

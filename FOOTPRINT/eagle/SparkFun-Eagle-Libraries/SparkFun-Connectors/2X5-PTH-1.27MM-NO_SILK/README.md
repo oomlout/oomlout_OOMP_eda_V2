@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-2X5-PTH-1.27MM-NO_SILK
 - Hex ID: FZSSPARKFUNCNS2X5P127NOSILK
 - Name: SparkFun-Connectors : 2X5-PTH-1.27MM-NO_SILK
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Connectors/2X5-PTH-1.27MM-NO_SILK/
 - Description: SparkFun-Connectors : 2X5-PTH-1.27MM-NO_SILK
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-2X5-PTH-1.27MM-NO_SILK](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-2X5-PTH-1.27MM-NO_SILK)
 - Short Link: [http://oom.lt/FZSSPARKFUNCNS2X5P127NOSILK](http://oom.lt/FZSSPARKFUNCNS2X5P127NOSILK)

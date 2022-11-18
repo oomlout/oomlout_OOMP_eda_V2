@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-xilinx-xcv-TQ144
 - Hex ID: FZEXILINXXCVTQ144
 - Name: xilinx-xcv : TQ144
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/xilinx-xcv/TQ144/
 - Description: xilinx-xcv : TQ144
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-xilinx-xcv-TQ144](http://oom.lt/FOOTPRINT-eagle-eagle-default-xilinx-xcv-TQ144)
 - Short Link: [http://oom.lt/FZEXILINXXCVTQ144](http://oom.lt/FZEXILINXXCVTQ144)

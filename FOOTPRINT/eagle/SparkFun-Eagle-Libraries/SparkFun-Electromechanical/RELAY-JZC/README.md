@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Electromechanical-RELAY-JZC
 - Hex ID: FZSERELAYJZC
 - Name: SparkFun-Electromechanical : RELAY-JZC
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Electromechanical/RELAY-JZC/
 - Description: SparkFun-Electromechanical : RELAY-JZC
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Electromechanical-RELAY-JZC](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Electromechanical-RELAY-JZC)
 - Short Link: [http://oom.lt/FZSERELAYJZC](http://oom.lt/FZSERELAYJZC)

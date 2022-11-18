@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-lsta-FE18-2
 - Hex ID: FZECONLSTAFE182
 - Name: con-lsta : FE18-2
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-lsta/FE18-2/
 - Description: con-lsta : FE18-2
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-lsta-FE18-2](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-lsta-FE18-2)
 - Short Link: [http://oom.lt/FZECONLSTAFE182](http://oom.lt/FZECONLSTAFE182)

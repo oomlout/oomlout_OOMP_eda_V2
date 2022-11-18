@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Connector-RJ45_Amphenol_RJMG1BD3B8K1ANR
 - Hex ID: SZKCNRJ45AMPHENOLRJMG1BD3B8K1ANR
 - Name: Connector : RJ45_Amphenol_RJMG1BD3B8K1ANR
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector/RJ45_Amphenol_RJMG1BD3B8K1ANR/
 - Description: Connector : RJ45_Amphenol_RJMG1BD3B8K1ANR
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-RJ45_Amphenol_RJMG1BD3B8K1ANR](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-RJ45_Amphenol_RJMG1BD3B8K1ANR)
 - Short Link: [http://oom.lt/SZKCNRJ45AMPHENOLRJMG1BD3B8K1ANR](http://oom.lt/SZKCNRJ45AMPHENOLRJMG1BD3B8K1ANR)

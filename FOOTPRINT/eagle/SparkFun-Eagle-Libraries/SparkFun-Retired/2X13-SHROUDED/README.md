@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-2X13-SHROUDED
 - Hex ID: FZSRT2X13SH
 - Name: SparkFun-Retired : 2X13-SHROUDED
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Retired/2X13-SHROUDED/
 - Description: SparkFun-Retired : 2X13-SHROUDED
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-2X13-SHROUDED](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-2X13-SHROUDED)
 - Short Link: [http://oom.lt/FZSRT2X13SH](http://oom.lt/FZSRT2X13SH)

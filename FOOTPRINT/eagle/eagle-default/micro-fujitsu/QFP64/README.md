@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-micro-fujitsu-QFP64
 - Hex ID: FZEMFUJITSUQFP64
 - Name: micro-fujitsu : QFP64
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/micro-fujitsu/QFP64/
 - Description: micro-fujitsu : QFP64
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-fujitsu-QFP64](http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-fujitsu-QFP64)
 - Short Link: [http://oom.lt/FZEMFUJITSUQFP64](http://oom.lt/FZEMFUJITSUQFP64)

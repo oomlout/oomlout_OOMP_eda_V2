@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-TO-251-3_Vertical
 - Hex ID: FZKSOTTO2513F
 - Name: Package_TO_SOT_THT : TO-251-3_Vertical
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_THT/TO-251-3_Vertical/
 - Description: Package_TO_SOT_THT : TO-251-3_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-TO-251-3_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-TO-251-3_Vertical)
 - Short Link: [http://oom.lt/FZKSOTTO2513F](http://oom.lt/FZKSOTTO2513F)

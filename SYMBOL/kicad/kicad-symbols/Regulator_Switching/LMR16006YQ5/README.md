@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-LMR16006YQ5
 - Hex ID: SZKREGULATORSWINGLMR166YQ5
 - Name: Regulator_Switching : LMR16006YQ5
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/LMR16006YQ5/
 - Description: Regulator_Switching : LMR16006YQ5
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LMR16006YQ5](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LMR16006YQ5)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGLMR166YQ5](http://oom.lt/SZKREGULATORSWINGLMR166YQ5)

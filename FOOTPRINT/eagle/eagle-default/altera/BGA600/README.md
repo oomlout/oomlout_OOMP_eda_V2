@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-altera-BGA600
 - Hex ID: FZEALTERABGA6
 - Name: altera : BGA600
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/altera/BGA600/
 - Description: altera : BGA600
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-altera-BGA600](http://oom.lt/FOOTPRINT-eagle-eagle-default-altera-BGA600)
 - Short Link: [http://oom.lt/FZEALTERABGA6](http://oom.lt/FZEALTERABGA6)

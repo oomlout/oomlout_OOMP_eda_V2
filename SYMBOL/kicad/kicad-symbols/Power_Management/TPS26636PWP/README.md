@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Power_Management-TPS26636PWP
 - Hex ID: SZKPOWERMANAGEMENTTPS26636PWP
 - Name: Power_Management : TPS26636PWP
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Power_Management/TPS26636PWP/
 - Description: Power_Management : TPS26636PWP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-TPS26636PWP](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-TPS26636PWP)
 - Short Link: [http://oom.lt/SZKPOWERMANAGEMENTTPS26636PWP](http://oom.lt/SZKPOWERMANAGEMENTTPS26636PWP)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-RESE-0402-X-O105-01-R4O105-C26083
 - Hex ID: SZOOMPKJLCRESE42XO151R4O15C2683
 - Name: oomlout_OOMP_JLCC_Basic : RESE-0402-X-O105-01-R4O105-C26083
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_JLCC_Basic/RESE-0402-X-O105-01-R4O105-C26083/
 - Description: oomlout_OOMP_JLCC_Basic : RESE-0402-X-O105-01-R4O105-C26083
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-RESE-0402-X-O105-01-R4O105-C26083](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-RESE-0402-X-O105-01-R4O105-C26083)
 - Short Link: [http://oom.lt/SZOOMPKJLCRESE42XO151R4O15C2683](http://oom.lt/SZOOMPKJLCRESE42XO151R4O15C2683)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-transistor-fet-211-07_SMD
 - Hex ID: FZETRANSISTORFET2117SM
 - Name: transistor-fet : 211-07_SMD
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/transistor-fet/211-07_SMD/
 - Description: transistor-fet : 211-07_SMD
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-fet-211-07_SMD](http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-fet-211-07_SMD)
 - Short Link: [http://oom.lt/FZETRANSISTORFET2117SM](http://oom.lt/FZETRANSISTORFET2117SM)

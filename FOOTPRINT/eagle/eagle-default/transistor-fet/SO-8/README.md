@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-transistor-fet-SO-8
 - Hex ID: FZETRANSISTORFETSO8
 - Name: transistor-fet : SO-8
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/transistor-fet/SO-8/
 - Description: transistor-fet : SO-8
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-fet-SO-8](http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-fet-SO-8)
 - Short Link: [http://oom.lt/FZETRANSISTORFETSO8](http://oom.lt/FZETRANSISTORFETSO8)

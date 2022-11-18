@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Analog_Switch-ADG733BRU
 - Hex ID: SZKANALOGSWADG733BRU
 - Name: Analog_Switch : ADG733BRU
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog_Switch/ADG733BRU/
 - Description: Analog_Switch : ADG733BRU
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_Switch-ADG733BRU](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_Switch-ADG733BRU)
 - Short Link: [http://oom.lt/SZKANALOGSWADG733BRU](http://oom.lt/SZKANALOGSWADG733BRU)

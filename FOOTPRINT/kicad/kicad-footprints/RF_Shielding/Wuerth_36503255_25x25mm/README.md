@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-RF_Shielding-Wuerth_36503255_25x25mm
 - Hex ID: FZKRFSWUERTH365325525X25
 - Name: RF_Shielding : Wuerth_36503255_25x25mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/RF_Shielding/Wuerth_36503255_25x25mm/
 - Description: RF_Shielding : Wuerth_36503255_25x25mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_Shielding-Wuerth_36503255_25x25mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_Shielding-Wuerth_36503255_25x25mm)
 - Short Link: [http://oom.lt/FZKRFSWUERTH365325525X25](http://oom.lt/FZKRFSWUERTH365325525X25)

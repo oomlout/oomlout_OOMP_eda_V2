@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-resistor-dil-SOMC20
 - Hex ID: FZERESISTORDILSOMC2
 - Name: resistor-dil : SOMC20
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/resistor-dil/SOMC20/
 - Description: resistor-dil : SOMC20
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-resistor-dil-SOMC20](http://oom.lt/FOOTPRINT-eagle-eagle-default-resistor-dil-SOMC20)
 - Short Link: [http://oom.lt/FZERESISTORDILSOMC2](http://oom.lt/FZERESISTORDILSOMC2)

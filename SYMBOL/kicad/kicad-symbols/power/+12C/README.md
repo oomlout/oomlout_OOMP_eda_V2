@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-power-+12C
 - Hex ID: SZKPOWER+12C
 - Name: power : +12C
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/power/+12C/
 - Description: power : +12C
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-power-+12C](http://oom.lt/SYMBOL-kicad-kicad-symbols-power-+12C)
 - Short Link: [http://oom.lt/SZKPOWER+12C](http://oom.lt/SZKPOWER+12C)

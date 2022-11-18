@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O474-01-R6O474
 - Hex ID: SZOOMPKOOMPPRESE63XO4741R6O474
 - Name: oomlout_OOMP_parts : RESE-0603-X-O474-01-R6O474
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/RESE-0603-X-O474-01-R6O474/
 - Description: oomlout_OOMP_parts : RESE-0603-X-O474-01-R6O474
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O474-01-R6O474](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O474-01-R6O474)
 - Short Link: [http://oom.lt/SZOOMPKOOMPPRESE63XO4741R6O474](http://oom.lt/SZOOMPKOOMPPRESE63XO4741R6O474)

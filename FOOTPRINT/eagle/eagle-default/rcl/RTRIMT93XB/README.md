@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-rcl-RTRIMT93XB
 - Hex ID: FZERCLRTRIMT93XB
 - Name: rcl : RTRIMT93XB
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/rcl/RTRIMT93XB/
 - Description: rcl : RTRIMT93XB
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-RTRIMT93XB](http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-RTRIMT93XB)
 - Short Link: [http://oom.lt/FZERCLRTRIMT93XB](http://oom.lt/FZERCLRTRIMT93XB)

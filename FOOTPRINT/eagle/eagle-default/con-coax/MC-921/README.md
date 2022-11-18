@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-coax-MC-921
 - Hex ID: FZECONCOAXMC921
 - Name: con-coax : MC-921
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-coax/MC-921/
 - Description: con-coax : MC-921
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-coax-MC-921](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-coax-MC-921)
 - Short Link: [http://oom.lt/FZECONCOAXMC921](http://oom.lt/FZECONCOAXMC921)

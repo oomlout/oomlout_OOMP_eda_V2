@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Isolator-VO2630
 - Hex ID: SZKISOLATORVO263
 - Name: Isolator : VO2630
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Isolator/VO2630/
 - Description: Isolator : VO2630
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-VO2630](http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-VO2630)
 - Short Link: [http://oom.lt/SZKISOLATORVO263](http://oom.lt/SZKISOLATORVO263)

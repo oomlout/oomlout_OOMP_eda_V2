@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Aesthetics-SPARKPUNK_LOGO_.2
 - Hex ID: FZSASPARKPUNKL2
 - Name: SparkFun-Aesthetics : SPARKPUNK_LOGO_.2
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Aesthetics/SPARKPUNK_LOGO_.2/
 - Description: SparkFun-Aesthetics : SPARKPUNK_LOGO_.2
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Aesthetics-SPARKPUNK_LOGO_.2](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Aesthetics-SPARKPUNK_LOGO_.2)
 - Short Link: [http://oom.lt/FZSASPARKPUNKL2](http://oom.lt/FZSASPARKPUNKL2)

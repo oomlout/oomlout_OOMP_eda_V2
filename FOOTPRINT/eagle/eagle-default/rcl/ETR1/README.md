@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-rcl-ETR1
 - Hex ID: FZERCLETR1
 - Name: rcl : ETR1
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/rcl/ETR1/
 - Description: rcl : ETR1
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-ETR1](http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-ETR1)
 - Short Link: [http://oom.lt/FZERCLETR1](http://oom.lt/FZERCLETR1)

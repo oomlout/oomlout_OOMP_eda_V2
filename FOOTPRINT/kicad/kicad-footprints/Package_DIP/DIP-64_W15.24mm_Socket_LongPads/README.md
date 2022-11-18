@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKDIPDIP64W1524SOL > Package_DIP : DIP-64_W15.24mm_Socket_LongPads](#fzkdipdip64w1524sol--package_dip--dip-64_w1524mm_socket_longpads)
+* [FZKDD64W1524SOL > Package_DIP : DIP-64_W15.24mm_Socket_LongPads](#fzkdd64w1524sol--package_dip--dip-64_w1524mm_socket_longpads)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKDIPDIP64W1524SOL > Package_DIP : DIP-64_W15.24mm_Socket_LongPads
+# FZKDD64W1524SOL > Package_DIP : DIP-64_W15.24mm_Socket_LongPads
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_DIP-DIP-64_W15.24mm_Socket_LongPads
-- Hex ID: FZKDIPDIP64W1524SOL
+- Hex ID: FZKDD64W1524SOL
 - Name: Package_DIP : DIP-64_W15.24mm_Socket_LongPads
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DIP/DIP-64_W15.24mm_Socket_LongPads/
 - Description: Package_DIP : DIP-64_W15.24mm_Socket_LongPads
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DIP-DIP-64_W15.24mm_Socket_LongPads](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DIP-DIP-64_W15.24mm_Socket_LongPads)
-- Short Link: [http://oom.lt/FZKDIPDIP64W1524SOL](http://oom.lt/FZKDIPDIP64W1524SOL)
+- Short Link: [http://oom.lt/FZKDD64W1524SOL](http://oom.lt/FZKDD64W1524SOL)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Package_DIP|
 |OOMP Index|oompIndex|DIP-64_W15.24mm_Socket_LongPads|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DIP-DIP-64_W15.24mm_Socket_LongPads|
-|Hex ID (short code)|hexID|FZKDIPDIP64W1524SOL|
+|Hex ID (short code)|hexID|FZKDD64W1524SOL|
 |name|name|Package_DIP : DIP-64_W15.24mm_Socket_LongPads|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'DIP-64_W15.24mm_Socket_LongPads'</td><td> 'description'</td></tr><tr><td> '64-lead though-hole mounted DIP package</td><td> row spacing 15.24 mm (600 mils)</td><td> Socket</td><td> LongPads'</td><td> 'tags'</td></tr><tr><td> 'THT DIP DIL PDIP 2.54mm 15.24mm 600mil Socket LongPads'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_DIP.3dshapes/DIP-64_W15.24mm_Socket.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

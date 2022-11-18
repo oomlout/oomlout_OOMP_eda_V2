@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-led-TLUV5300
 - Hex ID: FZELTLUV53
 - Name: led : TLUV5300
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/led/TLUV5300/
 - Description: led : TLUV5300
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-led-TLUV5300](http://oom.lt/FOOTPRINT-eagle-eagle-default-led-TLUV5300)
 - Short Link: [http://oom.lt/FZELTLUV53](http://oom.lt/FZELTLUV53)

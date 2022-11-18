@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Device-D_Dual_CommonCathode_AAK_Parallel
 - Hex ID: SZKDEVICEDDUALCOONCATHODEAAKPARALLEL
 - Name: Device : D_Dual_CommonCathode_AAK_Parallel
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/D_Dual_CommonCathode_AAK_Parallel/
 - Description: Device : D_Dual_CommonCathode_AAK_Parallel
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-D_Dual_CommonCathode_AAK_Parallel](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-D_Dual_CommonCathode_AAK_Parallel)
 - Short Link: [http://oom.lt/SZKDEVICEDDUALCOONCATHODEAAKPARALLEL](http://oom.lt/SZKDEVICEDDUALCOONCATHODEAAKPARALLEL)

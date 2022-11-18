@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Potentiometer_Digital-MCP4022-xxxxCH
 - Hex ID: SZKPOTDIGITALMCP422XXXXCH
 - Name: Potentiometer_Digital : MCP4022-xxxxCH
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Potentiometer_Digital/MCP4022-xxxxCH/
 - Description: Potentiometer_Digital : MCP4022-xxxxCH
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Potentiometer_Digital-MCP4022-xxxxCH](http://oom.lt/SYMBOL-kicad-kicad-symbols-Potentiometer_Digital-MCP4022-xxxxCH)
 - Short Link: [http://oom.lt/SZKPOTDIGITALMCP422XXXXCH](http://oom.lt/SZKPOTDIGITALMCP422XXXXCH)

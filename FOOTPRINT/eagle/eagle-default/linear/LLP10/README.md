@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-linear-LLP10
 - Hex ID: FZELINEARLLP1
 - Name: linear : LLP10
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/linear/LLP10/
 - Description: linear : LLP10
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-linear-LLP10](http://oom.lt/FOOTPRINT-eagle-eagle-default-linear-LLP10)
 - Short Link: [http://oom.lt/FZELINEARLLP1](http://oom.lt/FZELINEARLLP1)

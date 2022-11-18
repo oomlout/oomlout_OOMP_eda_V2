@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-semicon-smd-ipc-SOT143
 - Hex ID: FZESEMICONSMIPCSOT143
 - Name: semicon-smd-ipc : SOT143
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/semicon-smd-ipc/SOT143/
 - Description: semicon-smd-ipc : SOT143
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-semicon-smd-ipc-SOT143](http://oom.lt/FOOTPRINT-eagle-eagle-default-semicon-smd-ipc-SOT143)
 - Short Link: [http://oom.lt/FZESEMICONSMIPCSOT143](http://oom.lt/FZESEMICONSMIPCSOT143)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Transformer_THT-Transformer_Breve_TEZ-22x24
 - Hex ID: FZKTRTRBREVETEZ22X24
 - Name: Transformer_THT : Transformer_Breve_TEZ-22x24
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Transformer_THT/Transformer_Breve_TEZ-22x24/
 - Description: Transformer_THT : Transformer_Breve_TEZ-22x24
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Transformer_THT-Transformer_Breve_TEZ-22x24](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Transformer_THT-Transformer_Breve_TEZ-22x24)
 - Short Link: [http://oom.lt/FZKTRTRBREVETEZ22X24](http://oom.lt/FZKTRTRBREVETEZ22X24)

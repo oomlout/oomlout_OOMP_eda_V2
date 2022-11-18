@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Symbol-OSHW-Logo2_7.3x6mm_Copper
 - Hex ID: FZKSZOSHWL273X6C
 - Name: Symbol : OSHW-Logo2_7.3x6mm_Copper
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Symbol/OSHW-Logo2_7.3x6mm_Copper/
 - Description: Symbol : OSHW-Logo2_7.3x6mm_Copper
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Symbol-OSHW-Logo2_7.3x6mm_Copper](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Symbol-OSHW-Logo2_7.3x6mm_Copper)
 - Short Link: [http://oom.lt/FZKSZOSHWL273X6C](http://oom.lt/FZKSZOSHWL273X6C)

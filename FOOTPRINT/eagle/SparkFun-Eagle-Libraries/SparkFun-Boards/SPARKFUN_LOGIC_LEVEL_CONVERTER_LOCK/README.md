@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Boards-SPARKFUN_LOGIC_LEVEL_CONVERTER_LOCK
 - Hex ID: FZSBOSPARKFUNLOGICLEVELCONVERTERL
 - Name: SparkFun-Boards : SPARKFUN_LOGIC_LEVEL_CONVERTER_LOCK
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Boards/SPARKFUN_LOGIC_LEVEL_CONVERTER_LOCK/
 - Description: SparkFun-Boards : SPARKFUN_LOGIC_LEVEL_CONVERTER_LOCK
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Boards-SPARKFUN_LOGIC_LEVEL_CONVERTER_LOCK](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Boards-SPARKFUN_LOGIC_LEVEL_CONVERTER_LOCK)
 - Short Link: [http://oom.lt/FZSBOSPARKFUNLOGICLEVELCONVERTERL](http://oom.lt/FZSBOSPARKFUNLOGICLEVELCONVERTERL)

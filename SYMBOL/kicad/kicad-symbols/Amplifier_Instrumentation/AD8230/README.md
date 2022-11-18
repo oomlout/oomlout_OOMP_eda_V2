@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Instrumentation-AD8230
 - Hex ID: SZKAMPLIFIERINSTRUMENTATIONAD823
 - Name: Amplifier_Instrumentation : AD8230
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Instrumentation/AD8230/
 - Description: Amplifier_Instrumentation : AD8230
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Instrumentation-AD8230](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Instrumentation-AD8230)
 - Short Link: [http://oom.lt/SZKAMPLIFIERINSTRUMENTATIONAD823](http://oom.lt/SZKAMPLIFIERINSTRUMENTATIONAD823)

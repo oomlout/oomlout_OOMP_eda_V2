@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Memory_EEPROM-BR25xxx-NUX
 - Hex ID: SZKMEMORYEEPROMBR25XXXNUX
 - Name: Memory_EEPROM : BR25xxx-NUX
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Memory_EEPROM/BR25xxx-NUX/
 - Description: Memory_EEPROM : BR25xxx-NUX
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_EEPROM-BR25xxx-NUX](http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_EEPROM-BR25xxx-NUX)
 - Short Link: [http://oom.lt/SZKMEMORYEEPROMBR25XXXNUX](http://oom.lt/SZKMEMORYEEPROMBR25XXXNUX)

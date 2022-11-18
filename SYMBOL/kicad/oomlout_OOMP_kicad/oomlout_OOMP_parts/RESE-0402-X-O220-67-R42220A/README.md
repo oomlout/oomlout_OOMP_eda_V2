@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0402-X-O220-67-R42220A
 - Hex ID: SZOOMPKOOMPPRESE42XO2267R4222A
 - Name: oomlout_OOMP_parts : RESE-0402-X-O220-67-R42220A
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/RESE-0402-X-O220-67-R42220A/
 - Description: oomlout_OOMP_parts : RESE-0402-X-O220-67-R42220A
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0402-X-O220-67-R42220A](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0402-X-O220-67-R42220A)
 - Short Link: [http://oom.lt/SZOOMPKOOMPPRESE42XO2267R4222A](http://oom.lt/SZOOMPKOOMPPRESE42XO2267R4222A)

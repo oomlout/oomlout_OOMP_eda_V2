@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Resistors-0402-TIGHT_NO_CREAM
 - Hex ID: FZSR42TNC
 - Name: SparkFun-Resistors : 0402-TIGHT_NO_CREAM
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Resistors/0402-TIGHT_NO_CREAM/
 - Description: SparkFun-Resistors : 0402-TIGHT_NO_CREAM
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Resistors-0402-TIGHT_NO_CREAM](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Resistors-0402-TIGHT_NO_CREAM)
 - Short Link: [http://oom.lt/FZSR42TNC](http://oom.lt/FZSR42TNC)

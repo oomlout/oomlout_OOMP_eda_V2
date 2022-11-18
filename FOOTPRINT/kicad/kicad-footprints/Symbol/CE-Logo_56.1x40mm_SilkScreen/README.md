@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Symbol-CE-Logo_56.1x40mm_SilkScreen
 - Hex ID: FZKSZCEL561X4SILKSCREEN
 - Name: Symbol : CE-Logo_56.1x40mm_SilkScreen
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Symbol/CE-Logo_56.1x40mm_SilkScreen/
 - Description: Symbol : CE-Logo_56.1x40mm_SilkScreen
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Symbol-CE-Logo_56.1x40mm_SilkScreen](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Symbol-CE-Logo_56.1x40mm_SilkScreen)
 - Short Link: [http://oom.lt/FZKSZCEL561X4SILKSCREEN](http://oom.lt/FZKSZCEL561X4SILKSCREEN)

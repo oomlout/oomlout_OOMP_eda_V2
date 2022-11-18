@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-trafo-siemens-RM10-12B
 - Hex ID: FZETRAFOSIEMENSRM112B
 - Name: trafo-siemens : RM10-12B
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/trafo-siemens/RM10-12B/
 - Description: trafo-siemens : RM10-12B
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-trafo-siemens-RM10-12B](http://oom.lt/FOOTPRINT-eagle-eagle-default-trafo-siemens-RM10-12B)
 - Short Link: [http://oom.lt/FZETRAFOSIEMENSRM112B](http://oom.lt/FZETRAFOSIEMENSRM112B)

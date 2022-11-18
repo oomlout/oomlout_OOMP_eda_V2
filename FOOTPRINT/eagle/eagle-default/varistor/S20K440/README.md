@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-varistor-S20K440
 - Hex ID: FZEVS2K44
 - Name: varistor : S20K440
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/varistor/S20K440/
 - Description: varistor : S20K440
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-varistor-S20K440](http://oom.lt/FOOTPRINT-eagle-eagle-default-varistor-S20K440)
 - Short Link: [http://oom.lt/FZEVS2K44](http://oom.lt/FZEVS2K44)

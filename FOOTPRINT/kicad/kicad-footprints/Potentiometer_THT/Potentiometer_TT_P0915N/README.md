@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Potentiometer_THT-Potentiometer_TT_P0915N
 - Hex ID: FZKPPOTTTP915N
 - Name: Potentiometer_THT : Potentiometer_TT_P0915N
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Potentiometer_THT/Potentiometer_TT_P0915N/
 - Description: Potentiometer_THT : Potentiometer_TT_P0915N
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Potentiometer_THT-Potentiometer_TT_P0915N](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Potentiometer_THT-Potentiometer_TT_P0915N)
 - Short Link: [http://oom.lt/FZKPPOTTTP915N](http://oom.lt/FZKPPOTTTP915N)

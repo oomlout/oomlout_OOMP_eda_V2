@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-SMF54A
 - Hex ID: SZKDIODESMF54A
 - Name: Diode : SMF54A
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/SMF54A/
 - Description: Diode : SMF54A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-SMF54A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-SMF54A)
 - Short Link: [http://oom.lt/SZKDIODESMF54A](http://oom.lt/SZKDIODESMF54A)

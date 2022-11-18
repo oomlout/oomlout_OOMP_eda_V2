@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-smd-special-PLCC32-SMD-SOCKED
 - Hex ID: FZESMSPECIALPLCC32SMSOCKED
 - Name: smd-special : PLCC32-SMD-SOCKED
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/smd-special/PLCC32-SMD-SOCKED/
 - Description: smd-special : PLCC32-SMD-SOCKED
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-special-PLCC32-SMD-SOCKED](http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-special-PLCC32-SMD-SOCKED)
 - Short Link: [http://oom.lt/FZESMSPECIALPLCC32SMSOCKED](http://oom.lt/FZESMSPECIALPLCC32SMSOCKED)

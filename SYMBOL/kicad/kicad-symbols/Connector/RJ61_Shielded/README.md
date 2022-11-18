@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Connector-RJ61_Shielded
 - Hex ID: SZKCNRJ61SHED
 - Name: Connector : RJ61_Shielded
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector/RJ61_Shielded/
 - Description: Connector : RJ61_Shielded
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-RJ61_Shielded](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-RJ61_Shielded)
 - Short Link: [http://oom.lt/SZKCNRJ61SHED](http://oom.lt/SZKCNRJ61SHED)

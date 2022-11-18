@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector-CUI_PD-30
 - Hex ID: FZKCNCUIPD3
 - Name: Connector : CUI_PD-30
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector/CUI_PD-30/
 - Description: Connector : CUI_PD-30
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector-CUI_PD-30](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector-CUI_PD-30)
 - Short Link: [http://oom.lt/FZKCNCUIPD3](http://oom.lt/FZKCNCUIPD3)

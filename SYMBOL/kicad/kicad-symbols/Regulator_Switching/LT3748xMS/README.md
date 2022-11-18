@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-LT3748xMS
 - Hex ID: SZKREGULATORSWINGLT3748XMS
 - Name: Regulator_Switching : LT3748xMS
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/LT3748xMS/
 - Description: Regulator_Switching : LT3748xMS
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LT3748xMS](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LT3748xMS)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGLT3748XMS](http://oom.lt/SZKREGULATORSWINGLT3748XMS)

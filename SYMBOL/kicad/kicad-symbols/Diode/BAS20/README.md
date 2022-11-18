@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-BAS20
 - Hex ID: SZKDIODEBAS2
 - Name: Diode : BAS20
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/BAS20/
 - Description: Diode : BAS20
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-BAS20](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-BAS20)
 - Short Link: [http://oom.lt/SZKDIODEBAS2](http://oom.lt/SZKDIODEBAS2)

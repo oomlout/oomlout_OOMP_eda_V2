@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-garry-332-04
 - Hex ID: FZECONGARRY3324
 - Name: con-garry : 332-04
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-garry/332-04/
 - Description: con-garry : 332-04
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-garry-332-04](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-garry-332-04)
 - Short Link: [http://oom.lt/FZECONGARRY3324](http://oom.lt/FZECONGARRY3324)

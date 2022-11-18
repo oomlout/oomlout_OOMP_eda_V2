@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Boards-ELECTRIC_IMP_IMP002
 - Hex ID: FZSBOELECTRICIMPIMP2
 - Name: SparkFun-Boards : ELECTRIC_IMP_IMP002
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Boards/ELECTRIC_IMP_IMP002/
 - Description: SparkFun-Boards : ELECTRIC_IMP_IMP002
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Boards-ELECTRIC_IMP_IMP002](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Boards-ELECTRIC_IMP_IMP002)
 - Short Link: [http://oom.lt/FZSBOELECTRICIMPIMP2](http://oom.lt/FZSBOELECTRICIMPIMP2)

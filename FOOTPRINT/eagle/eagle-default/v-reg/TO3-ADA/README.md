@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-v-reg-TO3-ADA
 - Hex ID: FZEVREGTO3ADA
 - Name: v-reg : TO3-ADA
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/v-reg/TO3-ADA/
 - Description: v-reg : TO3-ADA
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-v-reg-TO3-ADA](http://oom.lt/FOOTPRINT-eagle-eagle-default-v-reg-TO3-ADA)
 - Short Link: [http://oom.lt/FZEVREGTO3ADA](http://oom.lt/FZEVREGTO3ADA)

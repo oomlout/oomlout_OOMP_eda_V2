@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-gennum-QFN40-6X6
 - Hex ID: FZEGENNUMQFN46X6
 - Name: gennum : QFN40-6X6
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/gennum/QFN40-6X6/
 - Description: gennum : QFN40-6X6
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-gennum-QFN40-6X6](http://oom.lt/FOOTPRINT-eagle-eagle-default-gennum-QFN40-6X6)
 - Short Link: [http://oom.lt/FZEGENNUMQFN46X6](http://oom.lt/FZEGENNUMQFN46X6)

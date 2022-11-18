@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Power_Management-LTC4417IUF
 - Hex ID: SZKPOWERMANAGEMENTLTC4417IUF
 - Name: Power_Management : LTC4417IUF
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Power_Management/LTC4417IUF/
 - Description: Power_Management : LTC4417IUF
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-LTC4417IUF](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-LTC4417IUF)
 - Short Link: [http://oom.lt/SZKPOWERMANAGEMENTLTC4417IUF](http://oom.lt/SZKPOWERMANAGEMENTLTC4417IUF)

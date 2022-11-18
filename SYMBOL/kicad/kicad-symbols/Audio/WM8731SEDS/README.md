@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Audio-WM8731SEDS
 - Hex ID: SZKAUDIOWM8731SEDS
 - Name: Audio : WM8731SEDS
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Audio/WM8731SEDS/
 - Description: Audio : WM8731SEDS
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Audio-WM8731SEDS](http://oom.lt/SYMBOL-kicad-kicad-symbols-Audio-WM8731SEDS)
 - Short Link: [http://oom.lt/SZKAUDIOWM8731SEDS](http://oom.lt/SZKAUDIOWM8731SEDS)

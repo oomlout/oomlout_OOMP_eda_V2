@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-74xx-little-de-SC70-5
 - Hex ID: FZE74XXLITTLEDESC75
 - Name: 74xx-little-de : SC70-5
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/74xx-little-de/SC70-5/
 - Description: 74xx-little-de : SC70-5
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-74xx-little-de-SC70-5](http://oom.lt/FOOTPRINT-eagle-eagle-default-74xx-little-de-SC70-5)
 - Short Link: [http://oom.lt/FZE74XXLITTLEDESC75](http://oom.lt/FZE74XXLITTLEDESC75)

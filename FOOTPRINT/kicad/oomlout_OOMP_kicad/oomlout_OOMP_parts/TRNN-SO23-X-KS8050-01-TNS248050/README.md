@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-TRNN-SO23-X-KS8050-01-TNS248050
 - Hex ID: FZOOMPKOOMPPTRNNSO23XKS851TNS2485
 - Name: oomlout_OOMP_parts : TRNN-SO23-X-KS8050-01-TNS248050
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/TRNN-SO23-X-KS8050-01-TNS248050/
 - Description: oomlout_OOMP_parts : TRNN-SO23-X-KS8050-01-TNS248050
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-TRNN-SO23-X-KS8050-01-TNS248050](http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-TRNN-SO23-X-KS8050-01-TNS248050)
 - Short Link: [http://oom.lt/FZOOMPKOOMPPTRNNSO23XKS851TNS2485](http://oom.lt/FZOOMPKOOMPPTRNNSO23XKS851TNS2485)

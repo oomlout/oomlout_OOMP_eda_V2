@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Power-QFN16-3X3MM_1_1_V02
 - Hex ID: FZSIPQFN163X311V2
 - Name: SparkFun-IC-Power : QFN16-3X3MM_1_1_V02
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-IC-Power/QFN16-3X3MM_1_1_V02/
 - Description: SparkFun-IC-Power : QFN16-3X3MM_1_1_V02
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Power-QFN16-3X3MM_1_1_V02](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Power-QFN16-3X3MM_1_1_V02)
 - Short Link: [http://oom.lt/FZSIPQFN163X311V2](http://oom.lt/FZSIPQFN163X311V2)

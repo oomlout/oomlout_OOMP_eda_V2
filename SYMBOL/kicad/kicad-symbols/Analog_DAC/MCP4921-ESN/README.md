@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Analog_DAC-MCP4921-ESN
 - Hex ID: SZKANALOGDACMCP4921ESN
 - Name: Analog_DAC : MCP4921-ESN
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog_DAC/MCP4921-ESN/
 - Description: Analog_DAC : MCP4921-ESN
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_DAC-MCP4921-ESN](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_DAC-MCP4921-ESN)
 - Short Link: [http://oom.lt/SZKANALOGDACMCP4921ESN](http://oom.lt/SZKANALOGDACMCP4921ESN)

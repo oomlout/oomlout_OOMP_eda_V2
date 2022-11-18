@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Controller-UC3842_SOIC16
 - Hex ID: SZKREGULATORCONTROLLERUC3842SOIC16
 - Name: Regulator_Controller : UC3842_SOIC16
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Controller/UC3842_SOIC16/
 - Description: Regulator_Controller : UC3842_SOIC16
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Controller-UC3842_SOIC16](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Controller-UC3842_SOIC16)
 - Short Link: [http://oom.lt/SZKREGULATORCONTROLLERUC3842SOIC16](http://oom.lt/SZKREGULATORCONTROLLERUC3842SOIC16)

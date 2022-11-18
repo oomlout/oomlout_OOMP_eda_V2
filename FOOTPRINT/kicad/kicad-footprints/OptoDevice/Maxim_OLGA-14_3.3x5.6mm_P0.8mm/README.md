@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-OptoDevice-Maxim_OLGA-14_3.3x5.6mm_P0.8mm
 - Hex ID: FZKOPMAXIMOLGA1433X56P8
 - Name: OptoDevice : Maxim_OLGA-14_3.3x5.6mm_P0.8mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/OptoDevice/Maxim_OLGA-14_3.3x5.6mm_P0.8mm/
 - Description: OptoDevice : Maxim_OLGA-14_3.3x5.6mm_P0.8mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-OptoDevice-Maxim_OLGA-14_3.3x5.6mm_P0.8mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-OptoDevice-Maxim_OLGA-14_3.3x5.6mm_P0.8mm)
 - Short Link: [http://oom.lt/FZKOPMAXIMOLGA1433X56P8](http://oom.lt/FZKOPMAXIMOLGA1433X56P8)

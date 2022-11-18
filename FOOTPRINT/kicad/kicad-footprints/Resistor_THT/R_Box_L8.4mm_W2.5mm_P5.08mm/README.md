@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Resistor_THT-R_Box_L8.4mm_W2.5mm_P5.08mm
 - Hex ID: FZKRRBOXL84W25P58
 - Name: Resistor_THT : R_Box_L8.4mm_W2.5mm_P5.08mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Resistor_THT/R_Box_L8.4mm_W2.5mm_P5.08mm/
 - Description: Resistor_THT : R_Box_L8.4mm_W2.5mm_P5.08mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Resistor_THT-R_Box_L8.4mm_W2.5mm_P5.08mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Resistor_THT-R_Box_L8.4mm_W2.5mm_P5.08mm)
 - Short Link: [http://oom.lt/FZKRRBOXL84W25P58](http://oom.lt/FZKRRBOXL84W25P58)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-TO-251-2-1EP_Horizontal_TabDown
 - Hex ID: FZKSOTTO25121EPHTABDOWN
 - Name: Package_TO_SOT_THT : TO-251-2-1EP_Horizontal_TabDown
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_THT/TO-251-2-1EP_Horizontal_TabDown/
 - Description: Package_TO_SOT_THT : TO-251-2-1EP_Horizontal_TabDown
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-TO-251-2-1EP_Horizontal_TabDown](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-TO-251-2-1EP_Horizontal_TabDown)
 - Short Link: [http://oom.lt/FZKSOTTO25121EPHTABDOWN](http://oom.lt/FZKSOTTO25121EPHTABDOWN)

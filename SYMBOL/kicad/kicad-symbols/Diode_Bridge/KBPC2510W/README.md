@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-Diode_Bridge-KBPC2510W
 - Hex ID: SZKDIODEBRIDGEKBPC251W
 - Name: Diode_Bridge : KBPC2510W
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode_Bridge/KBPC2510W/
 - Description: Diode_Bridge : KBPC2510W
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode_Bridge-KBPC2510W](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode_Bridge-KBPC2510W)
 - Short Link: [http://oom.lt/SZKDIODEBRIDGEKBPC251W](http://oom.lt/SZKDIODEBRIDGEKBPC251W)

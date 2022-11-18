@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-power-VDDF
 - Hex ID: SZKPOWERVDDF
 - Name: power : VDDF
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/power/VDDF/
 - Description: power : VDDF
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-power-VDDF](http://oom.lt/SYMBOL-kicad-kicad-symbols-power-VDDF)
 - Short Link: [http://oom.lt/SZKPOWERVDDF](http://oom.lt/SZKPOWERVDDF)

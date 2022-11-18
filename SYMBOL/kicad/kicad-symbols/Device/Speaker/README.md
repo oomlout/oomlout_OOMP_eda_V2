@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Device-Speaker
 - Hex ID: SZKDEVICESPEAKER
 - Name: Device : Speaker
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/Speaker/
 - Description: Device : Speaker
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Speaker](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Speaker)
 - Short Link: [http://oom.lt/SZKDEVICESPEAKER](http://oom.lt/SZKDEVICESPEAKER)

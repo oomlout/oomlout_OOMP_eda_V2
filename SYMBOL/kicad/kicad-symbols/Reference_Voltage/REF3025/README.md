@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Reference_Voltage-REF3025
 - Hex ID: SZKREFERENCEVOLTAGEREF325
 - Name: Reference_Voltage : REF3025
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Reference_Voltage/REF3025/
 - Description: Reference_Voltage : REF3025
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Voltage-REF3025](http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Voltage-REF3025)
 - Short Link: [http://oom.lt/SZKREFERENCEVOLTAGEREF325](http://oom.lt/SZKREFERENCEVOLTAGEREF325)

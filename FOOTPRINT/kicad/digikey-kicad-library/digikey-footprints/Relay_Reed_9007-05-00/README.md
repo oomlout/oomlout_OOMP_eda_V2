@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Relay_Reed_9007-05-00
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSRELAYREED975
 - Name: digikey-footprints : Relay_Reed_9007-05-00
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Relay_Reed_9007-05-00/
 - Description: digikey-footprints : Relay_Reed_9007-05-00
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Relay_Reed_9007-05-00](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Relay_Reed_9007-05-00)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSRELAYREED975](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSRELAYREED975)

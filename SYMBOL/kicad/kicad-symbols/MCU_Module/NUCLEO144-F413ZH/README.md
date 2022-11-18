@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Module-NUCLEO144-F413ZH
 - Hex ID: SZKMCUMONUCLEO144F413ZH
 - Name: MCU_Module : NUCLEO144-F413ZH
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Module/NUCLEO144-F413ZH/
 - Description: MCU_Module : NUCLEO144-F413ZH
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Module-NUCLEO144-F413ZH](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Module-NUCLEO144-F413ZH)
 - Short Link: [http://oom.lt/SZKMCUMONUCLEO144F413ZH](http://oom.lt/SZKMCUMONUCLEO144F413ZH)

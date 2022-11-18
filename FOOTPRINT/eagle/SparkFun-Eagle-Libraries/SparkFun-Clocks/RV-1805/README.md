@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Clocks-RV-1805
 - Hex ID: FZSCLRV185
 - Name: SparkFun-Clocks : RV-1805
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Clocks/RV-1805/
 - Description: SparkFun-Clocks : RV-1805
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Clocks-RV-1805](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Clocks-RV-1805)
 - Short Link: [http://oom.lt/FZSCLRV185](http://oom.lt/FZSCLRV185)

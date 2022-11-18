@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-CPLD_Xilinx-XC95144PQ100
 - Hex ID: SZKCPLDXILINXXC95144PQ1
 - Name: CPLD_Xilinx : XC95144PQ100
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/CPLD_Xilinx/XC95144PQ100/
 - Description: CPLD_Xilinx : XC95144PQ100
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-CPLD_Xilinx-XC95144PQ100](http://oom.lt/SYMBOL-kicad-kicad-symbols-CPLD_Xilinx-XC95144PQ100)
 - Short Link: [http://oom.lt/SZKCPLDXILINXXC95144PQ1](http://oom.lt/SZKCPLDXILINXXC95144PQ1)

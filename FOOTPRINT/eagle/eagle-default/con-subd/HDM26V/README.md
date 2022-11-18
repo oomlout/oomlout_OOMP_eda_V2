@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-subd-HDM26V
 - Hex ID: FZECONSUBDHDM26V
 - Name: con-subd : HDM26V
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-subd/HDM26V/
 - Description: con-subd : HDM26V
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-subd-HDM26V](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-subd-HDM26V)
 - Short Link: [http://oom.lt/FZECONSUBDHDM26V](http://oom.lt/FZECONSUBDHDM26V)

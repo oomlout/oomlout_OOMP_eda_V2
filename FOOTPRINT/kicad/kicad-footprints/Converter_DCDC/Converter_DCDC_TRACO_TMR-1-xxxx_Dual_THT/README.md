@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Converter_DCDC-Converter_DCDC_TRACO_TMR-1-xxxx_Dual_THT
 - Hex ID: FZKCONCONTRACOTMR1XXXXDUALTHT
 - Name: Converter_DCDC : Converter_DCDC_TRACO_TMR-1-xxxx_Dual_THT
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Converter_DCDC/Converter_DCDC_TRACO_TMR-1-xxxx_Dual_THT/
 - Description: Converter_DCDC : Converter_DCDC_TRACO_TMR-1-xxxx_Dual_THT
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Converter_DCDC-Converter_DCDC_TRACO_TMR-1-xxxx_Dual_THT](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Converter_DCDC-Converter_DCDC_TRACO_TMR-1-xxxx_Dual_THT)
 - Short Link: [http://oom.lt/FZKCONCONTRACOTMR1XXXXDUALTHT](http://oom.lt/FZKCONCONTRACOTMR1XXXXDUALTHT)

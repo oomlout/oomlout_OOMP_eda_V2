@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-micro-fujitsu-LQFP48
 - Hex ID: FZEMFUJITSULQFP48
 - Name: micro-fujitsu : LQFP48
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/micro-fujitsu/LQFP48/
 - Description: micro-fujitsu : LQFP48
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-fujitsu-LQFP48](http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-fujitsu-LQFP48)
 - Short Link: [http://oom.lt/FZEMFUJITSULQFP48](http://oom.lt/FZEMFUJITSULQFP48)

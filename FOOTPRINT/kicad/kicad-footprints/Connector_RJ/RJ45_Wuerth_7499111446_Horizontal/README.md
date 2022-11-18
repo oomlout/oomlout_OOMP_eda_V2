@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_RJ-RJ45_Wuerth_7499111446_Horizontal
 - Hex ID: FZKCNRJRJ45WUERTH7499111446H
 - Name: Connector_RJ : RJ45_Wuerth_7499111446_Horizontal
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_RJ/RJ45_Wuerth_7499111446_Horizontal/
 - Description: Connector_RJ : RJ45_Wuerth_7499111446_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_RJ-RJ45_Wuerth_7499111446_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_RJ-RJ45_Wuerth_7499111446_Horizontal)
 - Short Link: [http://oom.lt/FZKCNRJRJ45WUERTH7499111446H](http://oom.lt/FZKCNRJRJ45WUERTH7499111446H)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Symbol-Symbol_CC-PublicDomain_SilkScreenTop_Big
 - Hex ID: FZKSZSYCCPUBLICDOMAINSILKSCREENTOPBIG
 - Name: Symbol : Symbol_CC-PublicDomain_SilkScreenTop_Big
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Symbol/Symbol_CC-PublicDomain_SilkScreenTop_Big/
 - Description: Symbol : Symbol_CC-PublicDomain_SilkScreenTop_Big
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Symbol-Symbol_CC-PublicDomain_SilkScreenTop_Big](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Symbol-Symbol_CC-PublicDomain_SilkScreenTop_Big)
 - Short Link: [http://oom.lt/FZKSZSYCCPUBLICDOMAINSILKSCREENTOPBIG](http://oom.lt/FZKSZSYCCPUBLICDOMAINSILKSCREENTOPBIG)

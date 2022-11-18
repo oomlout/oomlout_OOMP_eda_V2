@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-SQFP-S-10X10-64-XS1
 - Hex ID: FZSRTSQFPS1X164XS1
 - Name: SparkFun-Retired : SQFP-S-10X10-64-XS1
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Retired/SQFP-S-10X10-64-XS1/
 - Description: SparkFun-Retired : SQFP-S-10X10-64-XS1
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-SQFP-S-10X10-64-XS1](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-SQFP-S-10X10-64-XS1)
 - Short Link: [http://oom.lt/FZSRTSQFPS1X164XS1](http://oom.lt/FZSRTSQFPS1X164XS1)

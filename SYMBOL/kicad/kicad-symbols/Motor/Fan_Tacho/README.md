@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Motor-Fan_Tacho
 - Hex ID: SZKMOTORFANTACHO
 - Name: Motor : Fan_Tacho
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Motor/Fan_Tacho/
 - Description: Motor : Fan_Tacho
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Motor-Fan_Tacho](http://oom.lt/SYMBOL-kicad-kicad-symbols-Motor-Fan_Tacho)
 - Short Link: [http://oom.lt/SZKMOTORFANTACHO](http://oom.lt/SZKMOTORFANTACHO)

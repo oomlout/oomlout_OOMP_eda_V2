@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-TMP117
 - Hex ID: FZSSPARKFUNSENSTMP117
 - Name: SparkFun-Sensors : TMP117
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Sensors/TMP117/
 - Description: SparkFun-Sensors : TMP117
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-TMP117](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-TMP117)
 - Short Link: [http://oom.lt/FZSSPARKFUNSENSTMP117](http://oom.lt/FZSSPARKFUNSENSTMP117)

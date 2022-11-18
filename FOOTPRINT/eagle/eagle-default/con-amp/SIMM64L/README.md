@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-amp-SIMM64L
 - Hex ID: FZECONAMPSI64L
 - Name: con-amp : SIMM64L
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-amp/SIMM64L/
 - Description: con-amp : SIMM64L
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-amp-SIMM64L](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-amp-SIMM64L)
 - Short Link: [http://oom.lt/FZECONAMPSI64L](http://oom.lt/FZECONAMPSI64L)

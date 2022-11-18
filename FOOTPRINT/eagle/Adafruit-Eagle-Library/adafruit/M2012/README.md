@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-M2012
 - Hex ID: FZAM212
 - Name: adafruit : M2012
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/M2012/
 - Description: adafruit : M2012
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-M2012](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-M2012)
 - Short Link: [http://oom.lt/FZAM212](http://oom.lt/FZAM212)

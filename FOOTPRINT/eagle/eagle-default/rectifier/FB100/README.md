@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-rectifier-FB100
 - Hex ID: FZERECTIFIERFB1
 - Name: rectifier : FB100
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/rectifier/FB100/
 - Description: rectifier : FB100
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-rectifier-FB100](http://oom.lt/FOOTPRINT-eagle-eagle-default-rectifier-FB100)
 - Short Link: [http://oom.lt/FZERECTIFIERFB1](http://oom.lt/FZERECTIFIERFB1)

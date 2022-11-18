@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface-AD9912
 - Hex ID: SZKINTERFACEAD9912
 - Name: Interface : AD9912
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface/AD9912/
 - Description: Interface : AD9912
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-AD9912](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-AD9912)
 - Short Link: [http://oom.lt/SZKINTERFACEAD9912](http://oom.lt/SZKINTERFACEAD9912)

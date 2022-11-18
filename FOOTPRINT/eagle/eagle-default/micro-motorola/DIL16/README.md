@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-micro-motorola-DIL16
 - Hex ID: FZEMMOTOROLADIL16
 - Name: micro-motorola : DIL16
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/micro-motorola/DIL16/
 - Description: micro-motorola : DIL16
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-motorola-DIL16](http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-motorola-DIL16)
 - Short Link: [http://oom.lt/FZEMMOTOROLADIL16](http://oom.lt/FZEMMOTOROLADIL16)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Memory_Flash-AT25SL321-U
 - Hex ID: SZKMEMORYFLASHAT25SL321U
 - Name: Memory_Flash : AT25SL321-U
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Memory_Flash/AT25SL321-U/
 - Description: Memory_Flash : AT25SL321-U
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_Flash-AT25SL321-U](http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_Flash-AT25SL321-U)
 - Short Link: [http://oom.lt/SZKMEMORYFLASHAT25SL321U](http://oom.lt/SZKMEMORYFLASHAT25SL321U)

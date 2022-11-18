@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Device-R_Potentiometer_Dual
 - Hex ID: SZKDEVICERPOTDUAL
 - Name: Device : R_Potentiometer_Dual
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/R_Potentiometer_Dual/
 - Description: Device : R_Potentiometer_Dual
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-R_Potentiometer_Dual](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-R_Potentiometer_Dual)
 - Short Link: [http://oom.lt/SZKDEVICERPOTDUAL](http://oom.lt/SZKDEVICERPOTDUAL)

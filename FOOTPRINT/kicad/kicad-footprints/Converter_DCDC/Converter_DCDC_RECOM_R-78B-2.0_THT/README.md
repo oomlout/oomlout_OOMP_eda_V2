@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Converter_DCDC-Converter_DCDC_RECOM_R-78B-2.0_THT
 - Hex ID: FZKCONCONRECOMR78B2THT
 - Name: Converter_DCDC : Converter_DCDC_RECOM_R-78B-2.0_THT
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Converter_DCDC/Converter_DCDC_RECOM_R-78B-2.0_THT/
 - Description: Converter_DCDC : Converter_DCDC_RECOM_R-78B-2.0_THT
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Converter_DCDC-Converter_DCDC_RECOM_R-78B-2.0_THT](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Converter_DCDC-Converter_DCDC_RECOM_R-78B-2.0_THT)
 - Short Link: [http://oom.lt/FZKCONCONRECOMR78B2THT](http://oom.lt/FZKCONCONRECOMR78B2THT)

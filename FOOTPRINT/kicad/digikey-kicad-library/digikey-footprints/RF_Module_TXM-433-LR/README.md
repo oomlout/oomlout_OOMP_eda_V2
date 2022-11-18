@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-RF_Module_TXM-433-LR
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSRFMOTXM433LR
 - Name: digikey-footprints : RF_Module_TXM-433-LR
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/RF_Module_TXM-433-LR/
 - Description: digikey-footprints : RF_Module_TXM-433-LR
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-RF_Module_TXM-433-LR](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-RF_Module_TXM-433-LR)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSRFMOTXM433LR](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSRFMOTXM433LR)

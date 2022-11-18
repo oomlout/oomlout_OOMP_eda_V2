@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Analog_Switch-ADG884xCP
 - Hex ID: SZKANALOGSWADG884XCP
 - Name: Analog_Switch : ADG884xCP
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog_Switch/ADG884xCP/
 - Description: Analog_Switch : ADG884xCP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_Switch-ADG884xCP](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_Switch-ADG884xCP)
 - Short Link: [http://oom.lt/SZKANALOGSWADG884XCP](http://oom.lt/SZKANALOGSWADG884XCP)

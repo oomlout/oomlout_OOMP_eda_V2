@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-switch-RDT1034
 - Hex ID: FZESWRDT134
 - Name: switch : RDT1034
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/switch/RDT1034/
 - Description: switch : RDT1034
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-RDT1034](http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-RDT1034)
 - Short Link: [http://oom.lt/FZESWRDT134](http://oom.lt/FZESWRDT134)

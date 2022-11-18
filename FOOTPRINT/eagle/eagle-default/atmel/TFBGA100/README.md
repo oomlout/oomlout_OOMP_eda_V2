@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-atmel-TFBGA100
 - Hex ID: FZEATMELTFBGA1
 - Name: atmel : TFBGA100
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/atmel/TFBGA100/
 - Description: atmel : TFBGA100
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-atmel-TFBGA100](http://oom.lt/FOOTPRINT-eagle-eagle-default-atmel-TFBGA100)
 - Short Link: [http://oom.lt/FZEATMELTFBGA1](http://oom.lt/FZEATMELTFBGA1)

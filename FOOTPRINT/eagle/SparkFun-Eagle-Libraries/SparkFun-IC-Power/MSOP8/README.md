@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Power-MSOP8
 - Hex ID: FZSIPMS8
 - Name: SparkFun-IC-Power : MSOP8
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-IC-Power/MSOP8/
 - Description: SparkFun-IC-Power : MSOP8
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Power-MSOP8](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Power-MSOP8)
 - Short Link: [http://oom.lt/FZSIPMS8](http://oom.lt/FZSIPMS8)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_Mini-B_Lumberg_2486_01_Horizontal
 - Hex ID: FZKCNUUMBLUMBERG24861H
 - Name: Connector_USB : USB_Mini-B_Lumberg_2486_01_Horizontal
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB_Mini-B_Lumberg_2486_01_Horizontal/
 - Description: Connector_USB : USB_Mini-B_Lumberg_2486_01_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_Mini-B_Lumberg_2486_01_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_Mini-B_Lumberg_2486_01_Horizontal)
 - Short Link: [http://oom.lt/FZKCNUUMBLUMBERG24861H](http://oom.lt/FZKCNUUMBLUMBERG24861H)

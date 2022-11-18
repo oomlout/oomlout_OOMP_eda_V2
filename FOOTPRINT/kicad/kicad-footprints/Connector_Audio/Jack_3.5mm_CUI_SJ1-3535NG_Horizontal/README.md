@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_Audio-Jack_3.5mm_CUI_SJ1-3535NG_Horizontal
 - Hex ID: FZKCNAUDIOJ35CUISJ13535NGH
 - Name: Connector_Audio : Jack_3.5mm_CUI_SJ1-3535NG_Horizontal
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Audio/Jack_3.5mm_CUI_SJ1-3535NG_Horizontal/
 - Description: Connector_Audio : Jack_3.5mm_CUI_SJ1-3535NG_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Audio-Jack_3.5mm_CUI_SJ1-3535NG_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Audio-Jack_3.5mm_CUI_SJ1-3535NG_Horizontal)
 - Short Link: [http://oom.lt/FZKCNAUDIOJ35CUISJ13535NGH](http://oom.lt/FZKCNAUDIOJ35CUISJ13535NGH)

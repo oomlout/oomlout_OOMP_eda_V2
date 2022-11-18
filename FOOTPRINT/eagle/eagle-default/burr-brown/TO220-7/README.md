@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZEBURRBROWNTO227 > burr-brown : TO220-7](#fzeburrbrownto227--burr-brown--to220-7)
+* [FZEBURRBRNTO227 > burr-brown : TO220-7](#fzeburrbrnto227--burr-brown--to220-7)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZEBURRBROWNTO227 > burr-brown : TO220-7
+# FZEBURRBRNTO227 > burr-brown : TO220-7
 
 - ID: FOOTPRINT-eagle-eagle-default-burr-brown-TO220-7
-- Hex ID: FZEBURRBROWNTO227
+- Hex ID: FZEBURRBRNTO227
 - Name: burr-brown : TO220-7
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/burr-brown/TO220-7/
 - Description: burr-brown : TO220-7
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-burr-brown-TO220-7](http://oom.lt/FOOTPRINT-eagle-eagle-default-burr-brown-TO220-7)
-- Short Link: [http://oom.lt/FZEBURRBROWNTO227](http://oom.lt/FZEBURRBROWNTO227)
+- Short Link: [http://oom.lt/FZEBURRBRNTO227](http://oom.lt/FZEBURRBRNTO227)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|burr-brown|
 |OOMP Index|oompIndex|TO220-7|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-burr-brown-TO220-7|
-|Hex ID (short code)|hexID|FZEBURRBROWNTO227|
+|Hex ID (short code)|hexID|FZEBURRBRNTO227|
 |name|name|burr-brown : TO220-7|
 ||||
 

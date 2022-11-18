@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_Expansion-PCA9547BS
 - Hex ID: SZKINTERFACEEXPANSIONPCA9547BS
 - Name: Interface_Expansion : PCA9547BS
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_Expansion/PCA9547BS/
 - Description: Interface_Expansion : PCA9547BS
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Expansion-PCA9547BS](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Expansion-PCA9547BS)
 - Short Link: [http://oom.lt/SZKINTERFACEEXPANSIONPCA9547BS](http://oom.lt/SZKINTERFACEEXPANSIONPCA9547BS)

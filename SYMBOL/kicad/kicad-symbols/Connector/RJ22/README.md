@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Connector-RJ22
 - Hex ID: SZKCNRJ22
 - Name: Connector : RJ22
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector/RJ22/
 - Description: Connector : RJ22
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-RJ22](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-RJ22)
 - Short Link: [http://oom.lt/SZKCNRJ22](http://oom.lt/SZKCNRJ22)

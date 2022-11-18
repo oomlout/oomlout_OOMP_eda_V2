@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Audio-SSM2017P
 - Hex ID: SZKAMPLIFIERAUDIOSSM217P
 - Name: Amplifier_Audio : SSM2017P
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Audio/SSM2017P/
 - Description: Amplifier_Audio : SSM2017P
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Audio-SSM2017P](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Audio-SSM2017P)
 - Short Link: [http://oom.lt/SZKAMPLIFIERAUDIOSSM217P](http://oom.lt/SZKAMPLIFIERAUDIOSSM217P)

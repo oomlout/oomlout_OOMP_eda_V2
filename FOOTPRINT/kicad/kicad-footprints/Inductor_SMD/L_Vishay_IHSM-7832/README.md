@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Vishay_IHSM-7832
 - Hex ID: FZKINLVISHAYIHSM7832
 - Name: Inductor_SMD : L_Vishay_IHSM-7832
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Vishay_IHSM-7832/
 - Description: Inductor_SMD : L_Vishay_IHSM-7832
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Vishay_IHSM-7832](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Vishay_IHSM-7832)
 - Short Link: [http://oom.lt/FZKINLVISHAYIHSM7832](http://oom.lt/FZKINLVISHAYIHSM7832)

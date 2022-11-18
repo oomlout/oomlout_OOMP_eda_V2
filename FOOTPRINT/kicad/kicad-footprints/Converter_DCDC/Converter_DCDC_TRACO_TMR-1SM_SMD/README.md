@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Converter_DCDC-Converter_DCDC_TRACO_TMR-1SM_SMD
 - Hex ID: FZKCONCONTRACOTMR1SMSM
 - Name: Converter_DCDC : Converter_DCDC_TRACO_TMR-1SM_SMD
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Converter_DCDC/Converter_DCDC_TRACO_TMR-1SM_SMD/
 - Description: Converter_DCDC : Converter_DCDC_TRACO_TMR-1SM_SMD
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Converter_DCDC-Converter_DCDC_TRACO_TMR-1SM_SMD](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Converter_DCDC-Converter_DCDC_TRACO_TMR-1SM_SMD)
 - Short Link: [http://oom.lt/FZKCONCONTRACOTMR1SMSM](http://oom.lt/FZKCONCONTRACOTMR1SMSM)

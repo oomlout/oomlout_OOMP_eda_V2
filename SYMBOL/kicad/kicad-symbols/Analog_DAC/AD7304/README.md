@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Analog_DAC-AD7304
 - Hex ID: SZKANALOGDACAD734
 - Name: Analog_DAC : AD7304
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog_DAC/AD7304/
 - Description: Analog_DAC : AD7304
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_DAC-AD7304](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_DAC-AD7304)
 - Short Link: [http://oom.lt/SZKANALOGDACAD734](http://oom.lt/SZKANALOGDACAD734)

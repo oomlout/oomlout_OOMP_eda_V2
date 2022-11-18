@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-relay-MR24
 - Hex ID: FZERELAYMR24
 - Name: relay : MR24
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/relay/MR24/
 - Description: relay : MR24
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-MR24](http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-MR24)
 - Short Link: [http://oom.lt/FZERELAYMR24](http://oom.lt/FZERELAYMR24)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-P128-35
 - Hex ID: FZAP12835
 - Name: adafruit : P128-35
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/P128-35/
 - Description: adafruit : P128-35
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-P128-35](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-P128-35)
 - Short Link: [http://oom.lt/FZAP12835](http://oom.lt/FZAP12835)

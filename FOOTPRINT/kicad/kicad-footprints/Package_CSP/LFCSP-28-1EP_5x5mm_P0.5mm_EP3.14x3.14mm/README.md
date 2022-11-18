@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_CSP-LFCSP-28-1EP_5x5mm_P0.5mm_EP3.14x3.14mm
 - Hex ID: FZKCSPLFCSP281EP5X5P5EP314X314
 - Name: Package_CSP : LFCSP-28-1EP_5x5mm_P0.5mm_EP3.14x3.14mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_CSP/LFCSP-28-1EP_5x5mm_P0.5mm_EP3.14x3.14mm/
 - Description: Package_CSP : LFCSP-28-1EP_5x5mm_P0.5mm_EP3.14x3.14mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_CSP-LFCSP-28-1EP_5x5mm_P0.5mm_EP3.14x3.14mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_CSP-LFCSP-28-1EP_5x5mm_P0.5mm_EP3.14x3.14mm)
 - Short Link: [http://oom.lt/FZKCSPLFCSP281EP5X5P5EP314X314](http://oom.lt/FZKCSPLFCSP281EP5X5P5EP314X314)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Wuerth_HCI-2212
 - Hex ID: FZKINLWUERTHHCI2212
 - Name: Inductor_SMD : L_Wuerth_HCI-2212
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Wuerth_HCI-2212/
 - Description: Inductor_SMD : L_Wuerth_HCI-2212
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Wuerth_HCI-2212](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Wuerth_HCI-2212)
 - Short Link: [http://oom.lt/FZKINLWUERTHHCI2212](http://oom.lt/FZKINLWUERTHHCI2212)

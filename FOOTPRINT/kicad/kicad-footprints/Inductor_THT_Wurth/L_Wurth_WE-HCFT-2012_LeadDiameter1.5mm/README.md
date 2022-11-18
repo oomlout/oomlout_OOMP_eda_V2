@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_THT_Wurth-L_Wurth_WE-HCFT-2012_LeadDiameter1.5mm
 - Hex ID: FZKINWURTHLWURTHWEHCFT212LEADDIAMETER15
 - Name: Inductor_THT_Wurth : L_Wurth_WE-HCFT-2012_LeadDiameter1.5mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_THT_Wurth/L_Wurth_WE-HCFT-2012_LeadDiameter1.5mm/
 - Description: Inductor_THT_Wurth : L_Wurth_WE-HCFT-2012_LeadDiameter1.5mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_THT_Wurth-L_Wurth_WE-HCFT-2012_LeadDiameter1.5mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_THT_Wurth-L_Wurth_WE-HCFT-2012_LeadDiameter1.5mm)
 - Short Link: [http://oom.lt/FZKINWURTHLWURTHWEHCFT212LEADDIAMETER15](http://oom.lt/FZKINWURTHLWURTHWEHCFT212LEADDIAMETER15)

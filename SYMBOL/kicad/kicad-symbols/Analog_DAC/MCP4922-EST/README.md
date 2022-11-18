@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Analog_DAC-MCP4922-EST
 - Hex ID: SZKANALOGDACMCP4922EST
 - Name: Analog_DAC : MCP4922-EST
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog_DAC/MCP4922-EST/
 - Description: Analog_DAC : MCP4922-EST
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_DAC-MCP4922-EST](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_DAC-MCP4922-EST)
 - Short Link: [http://oom.lt/SZKANALOGDACMCP4922EST](http://oom.lt/SZKANALOGDACMCP4922EST)

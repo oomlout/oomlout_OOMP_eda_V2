@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Oscillator-XUY73
 - Hex ID: SZKOCSXUY73
 - Name: Oscillator : XUY73
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Oscillator/XUY73/
 - Description: Oscillator : XUY73
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Oscillator-XUY73](http://oom.lt/SYMBOL-kicad-kicad-symbols-Oscillator-XUY73)
 - Short Link: [http://oom.lt/SZKOCSXUY73](http://oom.lt/SZKOCSXUY73)

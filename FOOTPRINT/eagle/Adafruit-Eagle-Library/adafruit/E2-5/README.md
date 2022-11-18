@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-E2-5
 - Hex ID: FZAE25
 - Name: adafruit : E2-5
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/E2-5/
 - Description: adafruit : E2-5
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-E2-5](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-E2-5)
 - Short Link: [http://oom.lt/FZAE25](http://oom.lt/FZAE25)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Power_Supervisor-MCP120-xxxDxTO
 - Hex ID: SZKPOWERSUPERVISORMCP12XXXDXTO
 - Name: Power_Supervisor : MCP120-xxxDxTO
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Power_Supervisor/MCP120-xxxDxTO/
 - Description: Power_Supervisor : MCP120-xxxDxTO
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Supervisor-MCP120-xxxDxTO](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Supervisor-MCP120-xxxDxTO)
 - Short Link: [http://oom.lt/SZKPOWERSUPERVISORMCP12XXXDXTO](http://oom.lt/SZKPOWERSUPERVISORMCP12XXXDXTO)

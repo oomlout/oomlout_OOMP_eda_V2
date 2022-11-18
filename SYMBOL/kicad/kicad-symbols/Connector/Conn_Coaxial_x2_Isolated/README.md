@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [SZKCNCONNCOAXIALX2ISOLATED > Connector : Conn_Coaxial_x2_Isolated](#szkcnconncoaxialx2isolated--connector--conn_coaxial_x2_isolated)
+* [SZKCNCCOAXIALX2ISOLATED > Connector : Conn_Coaxial_x2_Isolated](#szkcnccoaxialx2isolated--connector--conn_coaxial_x2_isolated)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# SZKCNCONNCOAXIALX2ISOLATED > Connector : Conn_Coaxial_x2_Isolated
+# SZKCNCCOAXIALX2ISOLATED > Connector : Conn_Coaxial_x2_Isolated
 
 - ID: SYMBOL-kicad-kicad-symbols-Connector-Conn_Coaxial_x2_Isolated
-- Hex ID: SZKCNCONNCOAXIALX2ISOLATED
+- Hex ID: SZKCNCCOAXIALX2ISOLATED
 - Name: Connector : Conn_Coaxial_x2_Isolated
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector/Conn_Coaxial_x2_Isolated/
 - Description: Connector : Conn_Coaxial_x2_Isolated
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-Conn_Coaxial_x2_Isolated](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-Conn_Coaxial_x2_Isolated)
-- Short Link: [http://oom.lt/SZKCNCONNCOAXIALX2ISOLATED](http://oom.lt/SZKCNCONNCOAXIALX2ISOLATED)
+- Short Link: [http://oom.lt/SZKCNCCOAXIALX2ISOLATED](http://oom.lt/SZKCNCCOAXIALX2ISOLATED)
 
 ## Images
   
@@ -36,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Connector|
 |OOMP Index|oompIndex|Conn_Coaxial_x2_Isolated|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector-Conn_Coaxial_x2_Isolated|
-|Hex ID (short code)|hexID|SZKCNCONNCOAXIALX2ISOLATED|
+|Hex ID (short code)|hexID|SZKCNCCOAXIALX2ISOLATED|
 |name|name|Connector : Conn_Coaxial_x2_Isolated|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'J'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'Conn_Coaxial_x2_Isolated'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> ' ~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'BNC SMA SMB SMC LEMO coaxial connector CINCH RCA'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'coaxial connector (BNC</td><td> SMA</td><td> SMB</td><td> SMC</td><td> Cinch/RCA</td><td> LEMO</td><td> ...)'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> '*BNC* *SMA* *SMB* *SMC* *Cinch* *LEMO*'</td></tr></table>]|
 ||||

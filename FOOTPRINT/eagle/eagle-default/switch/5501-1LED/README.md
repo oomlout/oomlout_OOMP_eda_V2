@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-switch-5501-1LED
 - Hex ID: FZESW5511L
 - Name: switch : 5501-1LED
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/switch/5501-1LED/
 - Description: switch : 5501-1LED
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-5501-1LED](http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-5501-1LED)
 - Short Link: [http://oom.lt/FZESW5511L](http://oom.lt/FZESW5511L)

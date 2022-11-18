@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-LED-CQY99
 - Hex ID: SZKLCQY99
 - Name: LED : CQY99
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/LED/CQY99/
 - Description: LED : CQY99
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-LED-CQY99](http://oom.lt/SYMBOL-kicad-kicad-symbols-LED-CQY99)
 - Short Link: [http://oom.lt/SZKLCQY99](http://oom.lt/SZKLCQY99)

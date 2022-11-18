@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0402-X-NF20-V16-C4N2016
 - Hex ID: SZOOMPKOOMPPCAPC42XNF2V16C4N216
 - Name: oomlout_OOMP_parts : CAPC-0402-X-NF20-V16-C4N2016
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/CAPC-0402-X-NF20-V16-C4N2016/
 - Description: oomlout_OOMP_parts : CAPC-0402-X-NF20-V16-C4N2016
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0402-X-NF20-V16-C4N2016](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0402-X-NF20-V16-C4N2016)
 - Short Link: [http://oom.lt/SZOOMPKOOMPPCAPC42XNF2V16C4N216](http://oom.lt/SZOOMPKOOMPPCAPC42XNF2V16C4N216)

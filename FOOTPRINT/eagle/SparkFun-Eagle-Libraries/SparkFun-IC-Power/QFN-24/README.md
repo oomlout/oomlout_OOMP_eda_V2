@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Power-QFN-24
 - Hex ID: FZSIPQFN24
 - Name: SparkFun-IC-Power : QFN-24
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-IC-Power/QFN-24/
 - Description: SparkFun-IC-Power : QFN-24
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Power-QFN-24](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Power-QFN-24)
 - Short Link: [http://oom.lt/FZSIPQFN24](http://oom.lt/FZSIPQFN24)

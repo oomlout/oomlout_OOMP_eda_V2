@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-LQFP-32
 - Hex ID: FZSRTLQFP32
 - Name: SparkFun-Retired : LQFP-32
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Retired/LQFP-32/
 - Description: SparkFun-Retired : LQFP-32
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-LQFP-32](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-LQFP-32)
 - Short Link: [http://oom.lt/FZSRTLQFP32](http://oom.lt/FZSRTLQFP32)

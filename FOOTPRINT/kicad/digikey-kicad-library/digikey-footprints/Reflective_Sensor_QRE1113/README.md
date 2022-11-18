@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Reflective_Sensor_QRE1113
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSREFLECTIVESENQRE1113
 - Name: digikey-footprints : Reflective_Sensor_QRE1113
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Reflective_Sensor_QRE1113/
 - Description: digikey-footprints : Reflective_Sensor_QRE1113
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Reflective_Sensor_QRE1113](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Reflective_Sensor_QRE1113)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSREFLECTIVESENQRE1113](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSREFLECTIVESENQRE1113)

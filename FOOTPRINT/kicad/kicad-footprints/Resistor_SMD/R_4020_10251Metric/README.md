@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_4020_10251Metric
 - Hex ID: FZKRR421251VA
 - Name: Resistor_SMD : R_4020_10251Metric
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_4020_10251Metric/
 - Description: Resistor_SMD : R_4020_10251Metric
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_4020_10251Metric](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_4020_10251Metric)
 - Short Link: [http://oom.lt/FZKRR421251VA](http://oom.lt/FZKRR421251VA)

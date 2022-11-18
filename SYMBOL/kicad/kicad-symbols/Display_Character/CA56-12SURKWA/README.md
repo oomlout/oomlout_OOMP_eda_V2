@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Display_Character-CA56-12SURKWA
 - Hex ID: SZKDICHARACTERCA5612SURKWA
 - Name: Display_Character : CA56-12SURKWA
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Display_Character/CA56-12SURKWA/
 - Description: Display_Character : CA56-12SURKWA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-CA56-12SURKWA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-CA56-12SURKWA)
 - Short Link: [http://oom.lt/SZKDICHARACTERCA5612SURKWA](http://oom.lt/SZKDICHARACTERCA5612SURKWA)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_Picoflex_90325-0006_2x03_P1.27mm_Vertical
 - Hex ID: FZKCNMXMXPICOFLEX932562X3P127F
 - Name: Connector_Molex : Molex_Picoflex_90325-0006_2x03_P1.27mm_Vertical
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_Picoflex_90325-0006_2x03_P1.27mm_Vertical/
 - Description: Connector_Molex : Molex_Picoflex_90325-0006_2x03_P1.27mm_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_Picoflex_90325-0006_2x03_P1.27mm_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_Picoflex_90325-0006_2x03_P1.27mm_Vertical)
 - Short Link: [http://oom.lt/FZKCNMXMXPICOFLEX932562X3P127F](http://oom.lt/FZKCNMXMXPICOFLEX932562X3P127F)

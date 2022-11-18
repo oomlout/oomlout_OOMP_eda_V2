@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_BarrelJack-BarrelJack_Horizontal
 - Hex ID: FZKCNBARRELJBARRELJH
 - Name: Connector_BarrelJack : BarrelJack_Horizontal
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_BarrelJack/BarrelJack_Horizontal/
 - Description: Connector_BarrelJack : BarrelJack_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_BarrelJack-BarrelJack_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_BarrelJack-BarrelJack_Horizontal)
 - Short Link: [http://oom.lt/FZKCNBARRELJBARRELJH](http://oom.lt/FZKCNBARRELJBARRELJH)

@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEREFPACKAGESLONGPADCB41715 > ref-packages-longpad : CB417-15](#fzerefpackageslongpadcb41715--ref-packages-longpad--cb417-15)
+* [FZEREFPSLPCB41715 > ref-packages-longpad : CB417-15](#fzerefpslpcb41715--ref-packages-longpad--cb417-15)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEREFPACKAGESLONGPADCB41715 > ref-packages-longpad : CB417-15
+# FZEREFPSLPCB41715 > ref-packages-longpad : CB417-15
 
 - ID: FOOTPRINT-eagle-eagle-default-ref-packages-longpad-CB417-15
-- Hex ID: FZEREFPACKAGESLONGPADCB41715
+- Hex ID: FZEREFPSLPCB41715
 - Name: ref-packages-longpad : CB417-15
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ref-packages-longpad/CB417-15/
 - Description: ref-packages-longpad : CB417-15
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-longpad-CB417-15](http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-longpad-CB417-15)
-- Short Link: [http://oom.lt/FZEREFPACKAGESLONGPADCB41715](http://oom.lt/FZEREFPACKAGESLONGPADCB41715)
+- Short Link: [http://oom.lt/FZEREFPSLPCB41715](http://oom.lt/FZEREFPSLPCB41715)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|ref-packages-longpad|
 |OOMP Index|oompIndex|CB417-15|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-ref-packages-longpad-CB417-15|
-|Hex ID (short code)|hexID|FZEREFPACKAGESLONGPADCB41715|
+|Hex ID (short code)|hexID|FZEREFPSLPCB41715|
 |name|name|ref-packages-longpad : CB417-15|
 ||||

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-vg-M617-31
 - Hex ID: FZECONVGM61731
 - Name: con-vg : M617-31
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-vg/M617-31/
 - Description: con-vg : M617-31
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-vg-M617-31](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-vg-M617-31)
 - Short Link: [http://oom.lt/FZECONVGM61731](http://oom.lt/FZECONVGM61731)

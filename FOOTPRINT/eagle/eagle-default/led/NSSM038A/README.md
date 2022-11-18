@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-led-NSSM038A
 - Hex ID: FZELNSSM38A
 - Name: led : NSSM038A
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/led/NSSM038A/
 - Description: led : NSSM038A
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-led-NSSM038A](http://oom.lt/FOOTPRINT-eagle-eagle-default-led-NSSM038A)
 - Short Link: [http://oom.lt/FZELNSSM38A](http://oom.lt/FZELNSSM38A)

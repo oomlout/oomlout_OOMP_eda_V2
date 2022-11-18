@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_SIP-SIP9_Housing
 - Hex ID: FZKSIPSIP9HOUSING
 - Name: Package_SIP : SIP9_Housing
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SIP/SIP9_Housing/
 - Description: Package_SIP : SIP9_Housing
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SIP-SIP9_Housing](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SIP-SIP9_Housing)
 - Short Link: [http://oom.lt/FZKSIPSIP9HOUSING](http://oom.lt/FZKSIPSIP9HOUSING)

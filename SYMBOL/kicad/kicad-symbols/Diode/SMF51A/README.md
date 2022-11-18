@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-SMF51A
 - Hex ID: SZKDIODESMF51A
 - Name: Diode : SMF51A
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/SMF51A/
 - Description: Diode : SMF51A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-SMF51A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-SMF51A)
 - Short Link: [http://oom.lt/SZKDIODESMF51A](http://oom.lt/SZKDIODESMF51A)

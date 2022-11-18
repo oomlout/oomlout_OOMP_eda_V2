@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0603-X-PF15-V50-C6P015
 - Hex ID: SZOOMPKOOMPPCAPC63XPF15V5C6P15
 - Name: oomlout_OOMP_parts : CAPC-0603-X-PF15-V50-C6P015
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/CAPC-0603-X-PF15-V50-C6P015/
 - Description: oomlout_OOMP_parts : CAPC-0603-X-PF15-V50-C6P015
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0603-X-PF15-V50-C6P015](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0603-X-PF15-V50-C6P015)
 - Short Link: [http://oom.lt/SZOOMPKOOMPPCAPC63XPF15V5C6P15](http://oom.lt/SZOOMPKOOMPPCAPC63XPF15V5C6P15)

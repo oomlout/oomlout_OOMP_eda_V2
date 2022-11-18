@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-RF_Mini-Circuits-Mini-Circuits_CD637_H5.23mm
 - Hex ID: FZKRFMCIRCUITSCD637H523
 - Name: RF_Mini-Circuits : Mini-Circuits_CD637_H5.23mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/RF_Mini-Circuits/Mini-Circuits_CD637_H5.23mm/
 - Description: RF_Mini-Circuits : Mini-Circuits_CD637_H5.23mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_Mini-Circuits-Mini-Circuits_CD637_H5.23mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_Mini-Circuits-Mini-Circuits_CD637_H5.23mm)
 - Short Link: [http://oom.lt/FZKRFMCIRCUITSCD637H523](http://oom.lt/FZKRFMCIRCUITSCD637H523)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-NCP133AMX100TCG
 - Hex ID: SZKREGULATORLINEARNCP133AMX1TCG
 - Name: Regulator_Linear : NCP133AMX100TCG
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/NCP133AMX100TCG/
 - Description: Regulator_Linear : NCP133AMX100TCG
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-NCP133AMX100TCG](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-NCP133AMX100TCG)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARNCP133AMX1TCG](http://oom.lt/SZKREGULATORLINEARNCP133AMX1TCG)

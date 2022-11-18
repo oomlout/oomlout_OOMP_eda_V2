@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-resistor-dil-DIL14
 - Hex ID: FZERESISTORDILDIL14
 - Name: resistor-dil : DIL14
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/resistor-dil/DIL14/
 - Description: resistor-dil : DIL14
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-resistor-dil-DIL14](http://oom.lt/FOOTPRINT-eagle-eagle-default-resistor-dil-DIL14)
 - Short Link: [http://oom.lt/FZERESISTORDILDIL14](http://oom.lt/FZERESISTORDILDIL14)

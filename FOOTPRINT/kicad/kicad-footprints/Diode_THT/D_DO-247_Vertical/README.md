@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Diode_THT-D_DO-247_Vertical
 - Hex ID: FZKDDDO247F
 - Name: Diode_THT : D_DO-247_Vertical
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Diode_THT/D_DO-247_Vertical/
 - Description: Diode_THT : D_DO-247_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Diode_THT-D_DO-247_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Diode_THT-D_DO-247_Vertical)
 - Short Link: [http://oom.lt/FZKDDDO247F](http://oom.lt/FZKDDDO247F)

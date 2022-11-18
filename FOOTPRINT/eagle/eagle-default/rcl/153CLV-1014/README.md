@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-rcl-153CLV-1014
 - Hex ID: FZERCL153CLV114
 - Name: rcl : 153CLV-1014
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/rcl/153CLV-1014/
 - Description: rcl : 153CLV-1014
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-153CLV-1014](http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-153CLV-1014)
 - Short Link: [http://oom.lt/FZERCL153CLV114](http://oom.lt/FZERCL153CLV114)

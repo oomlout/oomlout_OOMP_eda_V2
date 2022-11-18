@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Wuerth_WE-GF-1210
 - Hex ID: FZKINLWUERTHWEGF121
 - Name: Inductor_SMD : L_Wuerth_WE-GF-1210
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Wuerth_WE-GF-1210/
 - Description: Inductor_SMD : L_Wuerth_WE-GF-1210
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Wuerth_WE-GF-1210](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Wuerth_WE-GF-1210)
 - Short Link: [http://oom.lt/FZKINLWUERTHWEGF121](http://oom.lt/FZKINLWUERTHWEGF121)

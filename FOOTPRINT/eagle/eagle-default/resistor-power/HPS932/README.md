@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-resistor-power-HPS932
 - Hex ID: FZERESISTORPOWERHPS932
 - Name: resistor-power : HPS932
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/resistor-power/HPS932/
 - Description: resistor-power : HPS932
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-resistor-power-HPS932](http://oom.lt/FOOTPRINT-eagle-eagle-default-resistor-power-HPS932)
 - Short Link: [http://oom.lt/FZERESISTORPOWERHPS932](http://oom.lt/FZERESISTORPOWERHPS932)

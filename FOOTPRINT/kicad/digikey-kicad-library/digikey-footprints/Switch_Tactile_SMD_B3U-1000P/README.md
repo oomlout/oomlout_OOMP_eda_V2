@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Switch_Tactile_SMD_B3U-1000P
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSSWTSMB3U1P
 - Name: digikey-footprints : Switch_Tactile_SMD_B3U-1000P
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Switch_Tactile_SMD_B3U-1000P/
 - Description: digikey-footprints : Switch_Tactile_SMD_B3U-1000P
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Switch_Tactile_SMD_B3U-1000P](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Switch_Tactile_SMD_B3U-1000P)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSSWTSMB3U1P](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSSWTSMB3U1P)

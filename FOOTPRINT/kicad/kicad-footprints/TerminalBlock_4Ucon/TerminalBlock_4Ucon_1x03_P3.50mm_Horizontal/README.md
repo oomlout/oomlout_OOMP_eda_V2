@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-TerminalBlock_4Ucon-TerminalBlock_4Ucon_1x03_P3.50mm_Horizontal
 - Hex ID: FZKTB4UCONTB4UCON1X3P35H
 - Name: TerminalBlock_4Ucon : TerminalBlock_4Ucon_1x03_P3.50mm_Horizontal
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/TerminalBlock_4Ucon/TerminalBlock_4Ucon_1x03_P3.50mm_Horizontal/
 - Description: TerminalBlock_4Ucon : TerminalBlock_4Ucon_1x03_P3.50mm_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-TerminalBlock_4Ucon-TerminalBlock_4Ucon_1x03_P3.50mm_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-TerminalBlock_4Ucon-TerminalBlock_4Ucon_1x03_P3.50mm_Horizontal)
 - Short Link: [http://oom.lt/FZKTB4UCONTB4UCON1X3P35H](http://oom.lt/FZKTB4UCONTB4UCON1X3P35H)

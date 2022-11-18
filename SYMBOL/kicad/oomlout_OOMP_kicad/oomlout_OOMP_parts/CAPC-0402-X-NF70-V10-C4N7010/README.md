@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0402-X-NF70-V10-C4N7010
 - Hex ID: SZOOMPKOOMPPCAPC42XNF7V1C4N71
 - Name: oomlout_OOMP_parts : CAPC-0402-X-NF70-V10-C4N7010
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/CAPC-0402-X-NF70-V10-C4N7010/
 - Description: oomlout_OOMP_parts : CAPC-0402-X-NF70-V10-C4N7010
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0402-X-NF70-V10-C4N7010](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0402-X-NF70-V10-C4N7010)
 - Short Link: [http://oom.lt/SZOOMPKOOMPPCAPC42XNF7V1C4N71](http://oom.lt/SZOOMPKOOMPPCAPC42XNF7V1C4N71)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-LM2735XMF
 - Hex ID: SZKREGULATORSWINGLM2735XMF
 - Name: Regulator_Switching : LM2735XMF
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/LM2735XMF/
 - Description: Regulator_Switching : LM2735XMF
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LM2735XMF](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LM2735XMF)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGLM2735XMF](http://oom.lt/SZKREGULATORSWINGLM2735XMF)

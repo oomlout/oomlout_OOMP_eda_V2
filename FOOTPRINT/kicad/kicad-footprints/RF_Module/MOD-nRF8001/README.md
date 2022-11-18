@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-RF_Module-MOD-nRF8001
 - Hex ID: FZKRFMOMODNRF81
 - Name: RF_Module : MOD-nRF8001
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/RF_Module/MOD-nRF8001/
 - Description: RF_Module : MOD-nRF8001
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_Module-MOD-nRF8001](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_Module-MOD-nRF8001)
 - Short Link: [http://oom.lt/FZKRFMOMODNRF81](http://oom.lt/FZKRFMOMODNRF81)

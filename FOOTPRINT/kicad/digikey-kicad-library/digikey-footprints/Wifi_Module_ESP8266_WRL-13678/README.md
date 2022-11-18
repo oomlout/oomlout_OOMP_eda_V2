@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Wifi_Module_ESP8266_WRL-13678
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSWIFIMOESP8266WRL13678
 - Name: digikey-footprints : Wifi_Module_ESP8266_WRL-13678
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Wifi_Module_ESP8266_WRL-13678/
 - Description: digikey-footprints : Wifi_Module_ESP8266_WRL-13678
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Wifi_Module_ESP8266_WRL-13678](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Wifi_Module_ESP8266_WRL-13678)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSWIFIMOESP8266WRL13678](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSWIFIMOESP8266WRL13678)

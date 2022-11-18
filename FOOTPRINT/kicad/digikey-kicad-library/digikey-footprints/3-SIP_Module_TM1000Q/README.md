@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-3-SIP_Module_TM1000Q
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTS3SIPMOTM1Q
 - Name: digikey-footprints : 3-SIP_Module_TM1000Q
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/3-SIP_Module_TM1000Q/
 - Description: digikey-footprints : 3-SIP_Module_TM1000Q
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-3-SIP_Module_TM1000Q](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-3-SIP_Module_TM1000Q)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTS3SIPMOTM1Q](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTS3SIPMOTM1Q)

@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEICPACKAGESO246 > ic-package : SOCKET-24-6](#fzeicpackageso246--ic-package--socket-24-6)
+* [FZEICPSO246 > ic-package : SOCKET-24-6](#fzeicpso246--ic-package--socket-24-6)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEICPACKAGESO246 > ic-package : SOCKET-24-6
+# FZEICPSO246 > ic-package : SOCKET-24-6
 
 - ID: FOOTPRINT-eagle-eagle-default-ic-package-SOCKET-24-6
-- Hex ID: FZEICPACKAGESO246
+- Hex ID: FZEICPSO246
 - Name: ic-package : SOCKET-24-6
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ic-package/SOCKET-24-6/
 - Description: ic-package : SOCKET-24-6
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ic-package-SOCKET-24-6](http://oom.lt/FOOTPRINT-eagle-eagle-default-ic-package-SOCKET-24-6)
-- Short Link: [http://oom.lt/FZEICPACKAGESO246](http://oom.lt/FZEICPACKAGESO246)
+- Short Link: [http://oom.lt/FZEICPSO246](http://oom.lt/FZEICPSO246)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|ic-package|
 |OOMP Index|oompIndex|SOCKET-24-6|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-ic-package-SOCKET-24-6|
-|Hex ID (short code)|hexID|FZEICPACKAGESO246|
+|Hex ID (short code)|hexID|FZEICPSO246|
 |name|name|ic-package : SOCKET-24-6|
 ||||

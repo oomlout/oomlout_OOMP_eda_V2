@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-trafo-PT04,5-1
 - Hex ID: FZETRAFOPT451
 - Name: trafo : PT04,5-1
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/trafo/PT04,5-1/
 - Description: trafo : PT04,5-1
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-trafo-PT04,5-1](http://oom.lt/FOOTPRINT-eagle-eagle-default-trafo-PT04,5-1)
 - Short Link: [http://oom.lt/FZETRAFOPT451](http://oom.lt/FZETRAFOPT451)

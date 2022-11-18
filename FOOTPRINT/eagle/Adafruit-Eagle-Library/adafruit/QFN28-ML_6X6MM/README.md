@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-QFN28-ML_6X6MM
 - Hex ID: FZAQFN28ML6X6
 - Name: adafruit : QFN28-ML_6X6MM
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/QFN28-ML_6X6MM/
 - Description: adafruit : QFN28-ML_6X6MM
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-QFN28-ML_6X6MM](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-QFN28-ML_6X6MM)
 - Short Link: [http://oom.lt/FZAQFN28ML6X6](http://oom.lt/FZAQFN28ML6X6)

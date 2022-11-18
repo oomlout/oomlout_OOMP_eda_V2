@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-amp-SIMM40
 - Hex ID: FZECONAMPSI4
 - Name: con-amp : SIMM40
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-amp/SIMM40/
 - Description: con-amp : SIMM40
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-amp-SIMM40](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-amp-SIMM40)
 - Short Link: [http://oom.lt/FZECONAMPSI4](http://oom.lt/FZECONAMPSI4)

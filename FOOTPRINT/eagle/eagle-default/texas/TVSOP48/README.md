@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-texas-TVSOP48
 - Hex ID: FZETEXASTVS48
 - Name: texas : TVSOP48
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/texas/TVSOP48/
 - Description: texas : TVSOP48
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-texas-TVSOP48](http://oom.lt/FOOTPRINT-eagle-eagle-default-texas-TVSOP48)
 - Short Link: [http://oom.lt/FZETEXASTVS48](http://oom.lt/FZETEXASTVS48)

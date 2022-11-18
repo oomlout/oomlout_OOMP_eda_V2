@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-CP-2350
 - Hex ID: FZACP235
 - Name: adafruit : CP-2350
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/CP-2350/
 - Description: adafruit : CP-2350
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-CP-2350](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-CP-2350)
 - Short Link: [http://oom.lt/FZACP235](http://oom.lt/FZACP235)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-TO-247-3
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSTO2473
 - Name: digikey-footprints : TO-247-3
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/TO-247-3/
 - Description: digikey-footprints : TO-247-3
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-TO-247-3](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-TO-247-3)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSTO2473](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSTO2473)

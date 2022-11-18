@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_SON-Texas_DRC0010J
 - Hex ID: FZKSONTEXASDRC1J
 - Name: Package_SON : Texas_DRC0010J
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SON/Texas_DRC0010J/
 - Description: Package_SON : Texas_DRC0010J
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SON-Texas_DRC0010J](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SON-Texas_DRC0010J)
 - Short Link: [http://oom.lt/FZKSONTEXASDRC1J](http://oom.lt/FZKSONTEXASDRC1J)

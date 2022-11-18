@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Driver_FET-IRS2153D
 - Hex ID: SZKDRIVERFETIRS2153D
 - Name: Driver_FET : IRS2153D
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Driver_FET/IRS2153D/
 - Description: Driver_FET : IRS2153D
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-IRS2153D](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-IRS2153D)
 - Short Link: [http://oom.lt/SZKDRIVERFETIRS2153D](http://oom.lt/SZKDRIVERFETIRS2153D)

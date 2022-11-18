@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-resistor-dil-EXB28V
 - Hex ID: FZERESISTORDILEXB28V
 - Name: resistor-dil : EXB28V
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/resistor-dil/EXB28V/
 - Description: resistor-dil : EXB28V
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-resistor-dil-EXB28V](http://oom.lt/FOOTPRINT-eagle-eagle-default-resistor-dil-EXB28V)
 - Short Link: [http://oom.lt/FZERESISTORDILEXB28V](http://oom.lt/FZERESISTORDILEXB28V)

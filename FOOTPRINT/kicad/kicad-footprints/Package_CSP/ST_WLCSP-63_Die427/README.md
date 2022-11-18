@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_CSP-ST_WLCSP-63_Die427
 - Hex ID: FZKCSPSTWLCSP63DIE427
 - Name: Package_CSP : ST_WLCSP-63_Die427
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_CSP/ST_WLCSP-63_Die427/
 - Description: Package_CSP : ST_WLCSP-63_Die427
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_CSP-ST_WLCSP-63_Die427](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_CSP-ST_WLCSP-63_Die427)
 - Short Link: [http://oom.lt/FZKCSPSTWLCSP63DIE427](http://oom.lt/FZKCSPSTWLCSP63DIE427)

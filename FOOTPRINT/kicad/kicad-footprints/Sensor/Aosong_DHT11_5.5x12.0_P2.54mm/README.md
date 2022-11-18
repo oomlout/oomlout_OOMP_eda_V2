@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Sensor-Aosong_DHT11_5.5x12.0_P2.54mm
 - Hex ID: FZKSENAOSONGDHT1155X12P254
 - Name: Sensor : Aosong_DHT11_5.5x12.0_P2.54mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Sensor/Aosong_DHT11_5.5x12.0_P2.54mm/
 - Description: Sensor : Aosong_DHT11_5.5x12.0_P2.54mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Sensor-Aosong_DHT11_5.5x12.0_P2.54mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Sensor-Aosong_DHT11_5.5x12.0_P2.54mm)
 - Short Link: [http://oom.lt/FZKSENAOSONGDHT1155X12P254](http://oom.lt/FZKSENAOSONGDHT1155X12P254)

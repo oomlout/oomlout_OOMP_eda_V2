@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_Coaxial-BNC_Amphenol_031-6575_Horizontal
 - Hex ID: FZKCNCOABNCAMPHENOL316575H
 - Name: Connector_Coaxial : BNC_Amphenol_031-6575_Horizontal
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Coaxial/BNC_Amphenol_031-6575_Horizontal/
 - Description: Connector_Coaxial : BNC_Amphenol_031-6575_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Coaxial-BNC_Amphenol_031-6575_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Coaxial-BNC_Amphenol_031-6575_Horizontal)
 - Short Link: [http://oom.lt/FZKCNCOABNCAMPHENOL316575H](http://oom.lt/FZKCNCOABNCAMPHENOL316575H)

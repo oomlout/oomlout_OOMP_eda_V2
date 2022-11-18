@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Mechanical-Fiducial
 - Hex ID: SZKMECHANICALFID
 - Name: Mechanical : Fiducial
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Mechanical/Fiducial/
 - Description: Mechanical : Fiducial
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Mechanical-Fiducial](http://oom.lt/SYMBOL-kicad-kicad-symbols-Mechanical-Fiducial)
 - Short Link: [http://oom.lt/SZKMECHANICALFID](http://oom.lt/SZKMECHANICALFID)

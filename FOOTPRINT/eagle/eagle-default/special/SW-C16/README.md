@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-special-SW-C16
 - Hex ID: FZESPECIALSWC16
 - Name: special : SW-C16
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/special/SW-C16/
 - Description: special : SW-C16
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-special-SW-C16](http://oom.lt/FOOTPRINT-eagle-eagle-default-special-SW-C16)
 - Short Link: [http://oom.lt/FZESPECIALSWC16](http://oom.lt/FZESPECIALSWC16)

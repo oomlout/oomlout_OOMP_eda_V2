@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZDIGIDIGIKEYFOOTPRINTSPINHEADER1X2P2DRILL1RA > digikey-footprints : PinHeader_1x2_P2mm_Drill1mm_RA](#fzdigidigikeyfootprintspinheader1x2p2drill1ra--digikey-footprints--pinheader_1x2_p2mm_drill1mm_ra)
+* [FZDIGIDIGIKEYFOOTPRINTSPH1X2P2DRILL1RA > digikey-footprints : PinHeader_1x2_P2mm_Drill1mm_RA](#fzdigidigikeyfootprintsph1x2p2drill1ra--digikey-footprints--pinheader_1x2_p2mm_drill1mm_ra)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZDIGIDIGIKEYFOOTPRINTSPINHEADER1X2P2DRILL1RA > digikey-footprints : PinHeader_1x2_P2mm_Drill1mm_RA
+# FZDIGIDIGIKEYFOOTPRINTSPH1X2P2DRILL1RA > digikey-footprints : PinHeader_1x2_P2mm_Drill1mm_RA
 
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-PinHeader_1x2_P2mm_Drill1mm_RA
-- Hex ID: FZDIGIDIGIKEYFOOTPRINTSPINHEADER1X2P2DRILL1RA
+- Hex ID: FZDIGIDIGIKEYFOOTPRINTSPH1X2P2DRILL1RA
 - Name: digikey-footprints : PinHeader_1x2_P2mm_Drill1mm_RA
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/PinHeader_1x2_P2mm_Drill1mm_RA/
 - Description: digikey-footprints : PinHeader_1x2_P2mm_Drill1mm_RA
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-PinHeader_1x2_P2mm_Drill1mm_RA](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-PinHeader_1x2_P2mm_Drill1mm_RA)
-- Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSPINHEADER1X2P2DRILL1RA](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSPINHEADER1X2P2DRILL1RA)
+- Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSPH1X2P2DRILL1RA](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSPH1X2P2DRILL1RA)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|digikey-footprints|
 |OOMP Index|oompIndex|PinHeader_1x2_P2mm_Drill1mm_RA|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-PinHeader_1x2_P2mm_Drill1mm_RA|
-|Hex ID (short code)|hexID|FZDIGIDIGIKEYFOOTPRINTSPINHEADER1X2P2DRILL1RA|
+|Hex ID (short code)|hexID|FZDIGIDIGIKEYFOOTPRINTSPH1X2P2DRILL1RA|
 |name|name|digikey-footprints : PinHeader_1x2_P2mm_Drill1mm_RA|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'PinHeader_1x2_P2mm_Drill1mm_RA'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> None</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||

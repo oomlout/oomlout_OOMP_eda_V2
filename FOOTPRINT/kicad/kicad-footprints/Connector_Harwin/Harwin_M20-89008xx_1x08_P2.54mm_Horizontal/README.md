@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_Harwin-Harwin_M20-89008xx_1x08_P2.54mm_Horizontal
 - Hex ID: FZKCNHARWINHARWINM2898XX1X8P254H
 - Name: Connector_Harwin : Harwin_M20-89008xx_1x08_P2.54mm_Horizontal
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Harwin/Harwin_M20-89008xx_1x08_P2.54mm_Horizontal/
 - Description: Connector_Harwin : Harwin_M20-89008xx_1x08_P2.54mm_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Harwin-Harwin_M20-89008xx_1x08_P2.54mm_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Harwin-Harwin_M20-89008xx_1x08_P2.54mm_Horizontal)
 - Short Link: [http://oom.lt/FZKCNHARWINHARWINM2898XX1X8P254H](http://oom.lt/FZKCNHARWINHARWINM2898XX1X8P254H)

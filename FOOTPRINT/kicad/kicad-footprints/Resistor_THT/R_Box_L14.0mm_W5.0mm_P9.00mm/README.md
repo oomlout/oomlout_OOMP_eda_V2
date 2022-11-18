@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Resistor_THT-R_Box_L14.0mm_W5.0mm_P9.00mm
 - Hex ID: FZKRRBOXL14W5P9
 - Name: Resistor_THT : R_Box_L14.0mm_W5.0mm_P9.00mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Resistor_THT/R_Box_L14.0mm_W5.0mm_P9.00mm/
 - Description: Resistor_THT : R_Box_L14.0mm_W5.0mm_P9.00mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Resistor_THT-R_Box_L14.0mm_W5.0mm_P9.00mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Resistor_THT-R_Box_L14.0mm_W5.0mm_P9.00mm)
 - Short Link: [http://oom.lt/FZKRRBOXL14W5P9](http://oom.lt/FZKRRBOXL14W5P9)

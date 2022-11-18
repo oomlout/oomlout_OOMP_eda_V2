@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-rcl-E15-6
 - Hex ID: FZERCLE156
 - Name: rcl : E15-6
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/rcl/E15-6/
 - Description: rcl : E15-6
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-E15-6](http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-E15-6)
 - Short Link: [http://oom.lt/FZERCLE156](http://oom.lt/FZERCLE156)

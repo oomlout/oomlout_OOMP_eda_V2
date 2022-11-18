@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Logic_LevelTranslator-SN74AUP1T34DCK
 - Hex ID: SZKLOGICLEVELTRANSLATORSN74AUP1T34DCK
 - Name: Logic_LevelTranslator : SN74AUP1T34DCK
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Logic_LevelTranslator/SN74AUP1T34DCK/
 - Description: Logic_LevelTranslator : SN74AUP1T34DCK
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Logic_LevelTranslator-SN74AUP1T34DCK](http://oom.lt/SYMBOL-kicad-kicad-symbols-Logic_LevelTranslator-SN74AUP1T34DCK)
 - Short Link: [http://oom.lt/SZKLOGICLEVELTRANSLATORSN74AUP1T34DCK](http://oom.lt/SZKLOGICLEVELTRANSLATORSN74AUP1T34DCK)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-st-microelectronics-TQFP-12X12-80
 - Hex ID: FZESTMELECTRONICSTQFP12X128
 - Name: st-microelectronics : TQFP-12X12-80
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/st-microelectronics/TQFP-12X12-80/
 - Description: st-microelectronics : TQFP-12X12-80
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-st-microelectronics-TQFP-12X12-80](http://oom.lt/FOOTPRINT-eagle-eagle-default-st-microelectronics-TQFP-12X12-80)
 - Short Link: [http://oom.lt/FZESTMELECTRONICSTQFP12X128](http://oom.lt/FZESTMELECTRONICSTQFP12X128)

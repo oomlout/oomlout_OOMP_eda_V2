@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-L79L12_SOT89
 - Hex ID: SZKREGULATORLINEARL79L12SOT89
 - Name: Regulator_Linear : L79L12_SOT89
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/L79L12_SOT89/
 - Description: Regulator_Linear : L79L12_SOT89
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-L79L12_SOT89](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-L79L12_SOT89)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARL79L12SOT89](http://oom.lt/SZKREGULATORLINEARL79L12SOT89)

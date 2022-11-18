@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_BGA-Lattice_caBGA-756_27.0x27.0mm_Layout32x32_P0.8mm
 - Hex ID: FZKBGALATTICECABGA75627X27LAYOUT32X32P8
 - Name: Package_BGA : Lattice_caBGA-756_27.0x27.0mm_Layout32x32_P0.8mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_BGA/Lattice_caBGA-756_27.0x27.0mm_Layout32x32_P0.8mm/
 - Description: Package_BGA : Lattice_caBGA-756_27.0x27.0mm_Layout32x32_P0.8mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_BGA-Lattice_caBGA-756_27.0x27.0mm_Layout32x32_P0.8mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_BGA-Lattice_caBGA-756_27.0x27.0mm_Layout32x32_P0.8mm)
 - Short Link: [http://oom.lt/FZKBGALATTICECABGA75627X27LAYOUT32X32P8](http://oom.lt/FZKBGALATTICECABGA75627X27LAYOUT32X32P8)

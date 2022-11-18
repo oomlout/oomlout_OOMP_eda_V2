@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-74xx-little-de-DBV_R-PDSO-G5
 - Hex ID: FZE74XXLITTLEDEDBVRPDSOG5
 - Name: 74xx-little-de : DBV_R-PDSO-G5
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/74xx-little-de/DBV_R-PDSO-G5/
 - Description: 74xx-little-de : DBV_R-PDSO-G5
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-74xx-little-de-DBV_R-PDSO-G5](http://oom.lt/FOOTPRINT-eagle-eagle-default-74xx-little-de-DBV_R-PDSO-G5)
 - Short Link: [http://oom.lt/FZE74XXLITTLEDEDBVRPDSOG5](http://oom.lt/FZE74XXLITTLEDEDBVRPDSOG5)

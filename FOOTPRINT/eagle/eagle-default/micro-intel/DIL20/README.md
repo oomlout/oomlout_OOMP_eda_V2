@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-micro-intel-DIL20
 - Hex ID: FZEMINTELDIL2
 - Name: micro-intel : DIL20
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/micro-intel/DIL20/
 - Description: micro-intel : DIL20
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-intel-DIL20](http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-intel-DIL20)
 - Short Link: [http://oom.lt/FZEMINTELDIL2](http://oom.lt/FZEMINTELDIL2)

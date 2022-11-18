@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-smd-ipc-PLCC44S
 - Hex ID: FZESMIPCPLCC44S
 - Name: smd-ipc : PLCC44S
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/smd-ipc/PLCC44S/
 - Description: smd-ipc : PLCC44S
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-PLCC44S](http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-PLCC44S)
 - Short Link: [http://oom.lt/FZESMIPCPLCC44S](http://oom.lt/FZESMIPCPLCC44S)

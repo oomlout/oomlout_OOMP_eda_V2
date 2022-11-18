@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Clocks-RESONATOR-SMD-7.4X3.4
 - Hex ID: FZSCLRSM74X34
 - Name: SparkFun-Clocks : RESONATOR-SMD-7.4X3.4
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Clocks/RESONATOR-SMD-7.4X3.4/
 - Description: SparkFun-Clocks : RESONATOR-SMD-7.4X3.4
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Clocks-RESONATOR-SMD-7.4X3.4](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Clocks-RESONATOR-SMD-7.4X3.4)
 - Short Link: [http://oom.lt/FZSCLRSM74X34](http://oom.lt/FZSCLRSM74X34)

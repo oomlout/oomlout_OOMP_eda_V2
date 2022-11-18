@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Potentiometer_THT-Potentiometer_Omeg_PC16BU_Vertical
 - Hex ID: FZKPPOTOMEGPC16BUF
 - Name: Potentiometer_THT : Potentiometer_Omeg_PC16BU_Vertical
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Potentiometer_THT/Potentiometer_Omeg_PC16BU_Vertical/
 - Description: Potentiometer_THT : Potentiometer_Omeg_PC16BU_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Potentiometer_THT-Potentiometer_Omeg_PC16BU_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Potentiometer_THT-Potentiometer_Omeg_PC16BU_Vertical)
 - Short Link: [http://oom.lt/FZKPPOTOMEGPC16BUF](http://oom.lt/FZKPPOTOMEGPC16BUF)

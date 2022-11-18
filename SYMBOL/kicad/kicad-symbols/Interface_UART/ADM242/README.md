@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_UART-ADM242
 - Hex ID: SZKINTERFACEUARTADM242
 - Name: Interface_UART : ADM242
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_UART/ADM242/
 - Description: Interface_UART : ADM242
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_UART-ADM242](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_UART-ADM242)
 - Short Link: [http://oom.lt/SZKINTERFACEUARTADM242](http://oom.lt/SZKINTERFACEUARTADM242)

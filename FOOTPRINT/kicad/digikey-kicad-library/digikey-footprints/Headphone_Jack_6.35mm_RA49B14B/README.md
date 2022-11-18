@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Headphone_Jack_6.35mm_RA49B14B
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSHEADPHONEJ635RA49B14B
 - Name: digikey-footprints : Headphone_Jack_6.35mm_RA49B14B
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Headphone_Jack_6.35mm_RA49B14B/
 - Description: digikey-footprints : Headphone_Jack_6.35mm_RA49B14B
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Headphone_Jack_6.35mm_RA49B14B](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Headphone_Jack_6.35mm_RA49B14B)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSHEADPHONEJ635RA49B14B](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSHEADPHONEJ635RA49B14B)

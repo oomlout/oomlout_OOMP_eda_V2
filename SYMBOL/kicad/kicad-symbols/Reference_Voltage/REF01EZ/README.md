@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Reference_Voltage-REF01EZ
 - Hex ID: SZKREFERENCEVOLTAGEREF1EZ
 - Name: Reference_Voltage : REF01EZ
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Reference_Voltage/REF01EZ/
 - Description: Reference_Voltage : REF01EZ
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Voltage-REF01EZ](http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Voltage-REF01EZ)
 - Short Link: [http://oom.lt/SZKREFERENCEVOLTAGEREF1EZ](http://oom.lt/SZKREFERENCEVOLTAGEREF1EZ)

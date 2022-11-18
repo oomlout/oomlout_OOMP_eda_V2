@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Analog_ADC-AD7606-6
 - Hex ID: SZKANALOGADCAD7666
 - Name: Analog_ADC : AD7606-6
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog_ADC/AD7606-6/
 - Description: Analog_ADC : AD7606-6
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-AD7606-6](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-AD7606-6)
 - Short Link: [http://oom.lt/SZKANALOGADCAD7666](http://oom.lt/SZKANALOGADCAD7666)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-heatsink-D03S
 - Hex ID: FZEHD3S
 - Name: heatsink : D03S
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/heatsink/D03S/
 - Description: heatsink : D03S
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-heatsink-D03S](http://oom.lt/FOOTPRINT-eagle-eagle-default-heatsink-D03S)
 - Short Link: [http://oom.lt/FZEHD3S](http://oom.lt/FZEHD3S)

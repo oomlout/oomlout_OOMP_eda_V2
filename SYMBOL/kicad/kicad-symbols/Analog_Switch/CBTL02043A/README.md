@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Analog_Switch-CBTL02043A
 - Hex ID: SZKANALOGSWCBTL243A
 - Name: Analog_Switch : CBTL02043A
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog_Switch/CBTL02043A/
 - Description: Analog_Switch : CBTL02043A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_Switch-CBTL02043A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_Switch-CBTL02043A)
 - Short Link: [http://oom.lt/SZKANALOGSWCBTL243A](http://oom.lt/SZKANALOGSWCBTL243A)

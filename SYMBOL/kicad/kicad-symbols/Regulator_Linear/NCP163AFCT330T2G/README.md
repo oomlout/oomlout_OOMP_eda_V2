@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-NCP163AFCT330T2G
 - Hex ID: SZKREGULATORLINEARNCP163AFCT33T2G
 - Name: Regulator_Linear : NCP163AFCT330T2G
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/NCP163AFCT330T2G/
 - Description: Regulator_Linear : NCP163AFCT330T2G
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-NCP163AFCT330T2G](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-NCP163AFCT330T2G)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARNCP163AFCT33T2G](http://oom.lt/SZKREGULATORLINEARNCP163AFCT33T2G)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-texas-PLCC68S
 - Hex ID: FZETEXASPLCC68S
 - Name: texas : PLCC68S
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/texas/PLCC68S/
 - Description: texas : PLCC68S
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-texas-PLCC68S](http://oom.lt/FOOTPRINT-eagle-eagle-default-texas-PLCC68S)
 - Short Link: [http://oom.lt/FZETEXASPLCC68S](http://oom.lt/FZETEXASPLCC68S)

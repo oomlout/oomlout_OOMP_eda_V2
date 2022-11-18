@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-power-Earth
 - Hex ID: SZKPOWEREARTH
 - Name: power : Earth
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/power/Earth/
 - Description: power : Earth
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-power-Earth](http://oom.lt/SYMBOL-kicad-kicad-symbols-power-Earth)
 - Short Link: [http://oom.lt/SZKPOWEREARTH](http://oom.lt/SZKPOWEREARTH)

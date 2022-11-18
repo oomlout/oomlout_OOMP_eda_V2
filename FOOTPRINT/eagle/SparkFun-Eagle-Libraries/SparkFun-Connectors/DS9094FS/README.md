@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-DS9094FS
 - Hex ID: FZSSPARKFUNCNSDS994FS
 - Name: SparkFun-Connectors : DS9094FS
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Connectors/DS9094FS/
 - Description: SparkFun-Connectors : DS9094FS
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-DS9094FS](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-DS9094FS)
 - Short Link: [http://oom.lt/FZSSPARKFUNCNSDS994FS](http://oom.lt/FZSSPARKFUNCNSDS994FS)

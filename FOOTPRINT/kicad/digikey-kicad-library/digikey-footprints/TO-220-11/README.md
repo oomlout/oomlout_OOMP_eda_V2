@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-TO-220-11
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSTO2211
 - Name: digikey-footprints : TO-220-11
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/TO-220-11/
 - Description: digikey-footprints : TO-220-11
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-TO-220-11](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-TO-220-11)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSTO2211](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSTO2211)

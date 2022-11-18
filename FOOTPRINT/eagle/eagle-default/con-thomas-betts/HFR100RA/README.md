@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-thomas-betts-HFR100RA
 - Hex ID: FZECONTHOMASBETTSHFR1RA
 - Name: con-thomas-betts : HFR100RA
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-thomas-betts/HFR100RA/
 - Description: con-thomas-betts : HFR100RA
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-thomas-betts-HFR100RA](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-thomas-betts-HFR100RA)
 - Short Link: [http://oom.lt/FZECONTHOMASBETTSHFR1RA](http://oom.lt/FZECONTHOMASBETTSHFR1RA)

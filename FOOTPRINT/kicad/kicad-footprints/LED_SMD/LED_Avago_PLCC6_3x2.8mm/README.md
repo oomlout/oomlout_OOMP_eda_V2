@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_Avago_PLCC6_3x2.8mm
 - Hex ID: FZKLLAVAGOPLCC63X28
 - Name: LED_SMD : LED_Avago_PLCC6_3x2.8mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_Avago_PLCC6_3x2.8mm/
 - Description: LED_SMD : LED_Avago_PLCC6_3x2.8mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_Avago_PLCC6_3x2.8mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_Avago_PLCC6_3x2.8mm)
 - Short Link: [http://oom.lt/FZKLLAVAGOPLCC63X28](http://oom.lt/FZKLLAVAGOPLCC63X28)

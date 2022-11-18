@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-UDFN-9_1.0x3.8mm_P0.5mm
 - Hex ID: FZKDFNUDFN91X38P5
 - Name: Package_DFN_QFN : UDFN-9_1.0x3.8mm_P0.5mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/UDFN-9_1.0x3.8mm_P0.5mm/
 - Description: Package_DFN_QFN : UDFN-9_1.0x3.8mm_P0.5mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-UDFN-9_1.0x3.8mm_P0.5mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-UDFN-9_1.0x3.8mm_P0.5mm)
 - Short Link: [http://oom.lt/FZKDFNUDFN91X38P5](http://oom.lt/FZKDFNUDFN91X38P5)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-vg-FAC32D
 - Hex ID: FZECONVGFAC32D
 - Name: con-vg : FAC32D
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-vg/FAC32D/
 - Description: con-vg : FAC32D
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-vg-FAC32D](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-vg-FAC32D)
 - Short Link: [http://oom.lt/FZECONVGFAC32D](http://oom.lt/FZECONVGFAC32D)

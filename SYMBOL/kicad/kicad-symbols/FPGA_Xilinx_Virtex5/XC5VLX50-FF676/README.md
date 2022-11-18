@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-FPGA_Xilinx_Virtex5-XC5VLX50-FF676
 - Hex ID: SZKFPGAXILINXVIRTEX5XC5VLX5FF676
 - Name: FPGA_Xilinx_Virtex5 : XC5VLX50-FF676
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/FPGA_Xilinx_Virtex5/XC5VLX50-FF676/
 - Description: FPGA_Xilinx_Virtex5 : XC5VLX50-FF676
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-FPGA_Xilinx_Virtex5-XC5VLX50-FF676](http://oom.lt/SYMBOL-kicad-kicad-symbols-FPGA_Xilinx_Virtex5-XC5VLX50-FF676)
 - Short Link: [http://oom.lt/SZKFPGAXILINXVIRTEX5XC5VLX5FF676](http://oom.lt/SZKFPGAXILINXVIRTEX5XC5VLX5FF676)

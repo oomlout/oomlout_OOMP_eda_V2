@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_Mega-Fit_76825-0006_2x03_P5.70mm_Horizontal
 - Hex ID: FZKCNMXMXMEGAFIT7682562X3P57H
 - Name: Connector_Molex : Molex_Mega-Fit_76825-0006_2x03_P5.70mm_Horizontal
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_Mega-Fit_76825-0006_2x03_P5.70mm_Horizontal/
 - Description: Connector_Molex : Molex_Mega-Fit_76825-0006_2x03_P5.70mm_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_Mega-Fit_76825-0006_2x03_P5.70mm_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_Mega-Fit_76825-0006_2x03_P5.70mm_Horizontal)
 - Short Link: [http://oom.lt/FZKCNMXMXMEGAFIT7682562X3P57H](http://oom.lt/FZKCNMXMXMEGAFIT7682562X3P57H)

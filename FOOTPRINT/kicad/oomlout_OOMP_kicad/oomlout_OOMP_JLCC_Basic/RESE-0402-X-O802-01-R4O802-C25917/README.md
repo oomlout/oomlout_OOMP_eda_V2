@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-RESE-0402-X-O802-01-R4O802-C25917
 - Hex ID: FZOOMPKJLCRESE42XO821R4O82C25917
 - Name: oomlout_OOMP_JLCC_Basic : RESE-0402-X-O802-01-R4O802-C25917
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_JLCC_Basic/RESE-0402-X-O802-01-R4O802-C25917/
 - Description: oomlout_OOMP_JLCC_Basic : RESE-0402-X-O802-01-R4O802-C25917
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-RESE-0402-X-O802-01-R4O802-C25917](http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-RESE-0402-X-O802-01-R4O802-C25917)
 - Short Link: [http://oom.lt/FZOOMPKJLCRESE42XO821R4O82C25917](http://oom.lt/FZOOMPKJLCRESE42XO821R4O82C25917)

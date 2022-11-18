@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-LED_THT-LED_D2.0mm_W4.8mm_H2.5mm_FlatTop
 - Hex ID: FZKLLD2W48H25FLATTOP
 - Name: LED_THT : LED_D2.0mm_W4.8mm_H2.5mm_FlatTop
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/LED_THT/LED_D2.0mm_W4.8mm_H2.5mm_FlatTop/
 - Description: LED_THT : LED_D2.0mm_W4.8mm_H2.5mm_FlatTop
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-LED_THT-LED_D2.0mm_W4.8mm_H2.5mm_FlatTop](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-LED_THT-LED_D2.0mm_W4.8mm_H2.5mm_FlatTop)
 - Short Link: [http://oom.lt/FZKLLD2W48H25FLATTOP](http://oom.lt/FZKLLD2W48H25FLATTOP)

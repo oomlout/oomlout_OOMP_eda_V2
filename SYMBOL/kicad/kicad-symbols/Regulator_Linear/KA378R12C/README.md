@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-KA378R12C
 - Hex ID: SZKREGULATORLINEARKA378R12C
 - Name: Regulator_Linear : KA378R12C
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/KA378R12C/
 - Description: Regulator_Linear : KA378R12C
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-KA378R12C](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-KA378R12C)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARKA378R12C](http://oom.lt/SZKREGULATORLINEARKA378R12C)

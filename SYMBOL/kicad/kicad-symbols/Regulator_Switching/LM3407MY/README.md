@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-LM3407MY
 - Hex ID: SZKREGULATORSWINGLM347MY
 - Name: Regulator_Switching : LM3407MY
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/LM3407MY/
 - Description: Regulator_Switching : LM3407MY
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LM3407MY](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LM3407MY)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGLM347MY](http://oom.lt/SZKREGULATORSWINGLM347MY)

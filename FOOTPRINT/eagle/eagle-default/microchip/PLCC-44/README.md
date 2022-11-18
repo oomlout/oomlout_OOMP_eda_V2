@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-microchip-PLCC-44
 - Hex ID: FZEMCHIPPLCC44
 - Name: microchip : PLCC-44
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/microchip/PLCC-44/
 - Description: microchip : PLCC-44
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-microchip-PLCC-44](http://oom.lt/FOOTPRINT-eagle-eagle-default-microchip-PLCC-44)
 - Short Link: [http://oom.lt/FZEMCHIPPLCC44](http://oom.lt/FZEMCHIPPLCC44)

@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZSRTDIP16 > SparkFun-Retired : DIP16](#fzsrtdip16--sparkfun-retired--dip16)
+* [FZSRTD16 > SparkFun-Retired : DIP16](#fzsrtd16--sparkfun-retired--dip16)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZSRTDIP16 > SparkFun-Retired : DIP16
+# FZSRTD16 > SparkFun-Retired : DIP16
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-DIP16
-- Hex ID: FZSRTDIP16
+- Hex ID: FZSRTD16
 - Name: SparkFun-Retired : DIP16
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Retired/DIP16/
 - Description: SparkFun-Retired : DIP16
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-DIP16](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-DIP16)
-- Short Link: [http://oom.lt/FZSRTDIP16](http://oom.lt/FZSRTDIP16)
+- Short Link: [http://oom.lt/FZSRTD16](http://oom.lt/FZSRTD16)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|SparkFun-Retired|
 |OOMP Index|oompIndex|DIP16|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-DIP16|
-|Hex ID (short code)|hexID|FZSRTDIP16|
+|Hex ID (short code)|hexID|FZSRTD16|
 |name|name|SparkFun-Retired : DIP16|
 ||||

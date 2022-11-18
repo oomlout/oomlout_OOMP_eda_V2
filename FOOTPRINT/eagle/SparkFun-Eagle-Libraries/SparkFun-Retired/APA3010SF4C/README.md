@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-APA3010SF4C
 - Hex ID: FZSRTAPA31SF4C
 - Name: SparkFun-Retired : APA3010SF4C
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Retired/APA3010SF4C/
 - Description: SparkFun-Retired : APA3010SF4C
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-APA3010SF4C](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-APA3010SF4C)
 - Short Link: [http://oom.lt/FZSRTAPA31SF4C](http://oom.lt/FZSRTAPA31SF4C)

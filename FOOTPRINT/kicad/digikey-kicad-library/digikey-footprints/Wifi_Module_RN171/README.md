@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Wifi_Module_RN171
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSWIFIMORN171
 - Name: digikey-footprints : Wifi_Module_RN171
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Wifi_Module_RN171/
 - Description: digikey-footprints : Wifi_Module_RN171
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Wifi_Module_RN171](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Wifi_Module_RN171)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSWIFIMORN171](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSWIFIMORN171)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-vg-MAC32SH
 - Hex ID: FZECONVGMAC32SH
 - Name: con-vg : MAC32SH
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-vg/MAC32SH/
 - Description: con-vg : MAC32SH
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-vg-MAC32SH](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-vg-MAC32SH)
 - Short Link: [http://oom.lt/FZECONVGMAC32SH](http://oom.lt/FZECONVGMAC32SH)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-linear-SOT23-5
 - Hex ID: FZELINEARSOT235
 - Name: linear : SOT23-5
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/linear/SOT23-5/
 - Description: linear : SOT23-5
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-linear-SOT23-5](http://oom.lt/FOOTPRINT-eagle-eagle-default-linear-SOT23-5)
 - Short Link: [http://oom.lt/FZELINEARSOT235](http://oom.lt/FZELINEARSOT235)

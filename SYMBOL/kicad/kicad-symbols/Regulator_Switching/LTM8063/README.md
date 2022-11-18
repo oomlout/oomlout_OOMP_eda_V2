@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-LTM8063
 - Hex ID: SZKREGULATORSWINGLTM863
 - Name: Regulator_Switching : LTM8063
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/LTM8063/
 - Description: Regulator_Switching : LTM8063
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LTM8063](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LTM8063)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGLTM863](http://oom.lt/SZKREGULATORSWINGLTM863)

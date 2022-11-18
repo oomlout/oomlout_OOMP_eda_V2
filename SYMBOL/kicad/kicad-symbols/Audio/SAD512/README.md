@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Audio-SAD512
 - Hex ID: SZKAUDIOSAD512
 - Name: Audio : SAD512
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Audio/SAD512/
 - Description: Audio : SAD512
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Audio-SAD512](http://oom.lt/SYMBOL-kicad-kicad-symbols-Audio-SAD512)
 - Short Link: [http://oom.lt/SZKAUDIOSAD512](http://oom.lt/SZKAUDIOSAD512)

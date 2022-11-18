@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Potentiometer_THT-Potentiometer_Piher_T-16H_Double_Horizontal
 - Hex ID: FZKPPOTPIHERT16HDOUBLEH
 - Name: Potentiometer_THT : Potentiometer_Piher_T-16H_Double_Horizontal
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Potentiometer_THT/Potentiometer_Piher_T-16H_Double_Horizontal/
 - Description: Potentiometer_THT : Potentiometer_Piher_T-16H_Double_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Potentiometer_THT-Potentiometer_Piher_T-16H_Double_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Potentiometer_THT-Potentiometer_Piher_T-16H_Double_Horizontal)
 - Short Link: [http://oom.lt/FZKPPOTPIHERT16HDOUBLEH](http://oom.lt/FZKPPOTPIHERT16HDOUBLEH)

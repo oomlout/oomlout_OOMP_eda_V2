@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Device-Lamp
 - Hex ID: SZKDEVICELAMP
 - Name: Device : Lamp
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/Lamp/
 - Description: Device : Lamp
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Lamp](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Lamp)
 - Short Link: [http://oom.lt/SZKDEVICELAMP](http://oom.lt/SZKDEVICELAMP)

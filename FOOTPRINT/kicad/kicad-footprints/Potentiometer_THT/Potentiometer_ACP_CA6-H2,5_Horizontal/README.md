@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Potentiometer_THT-Potentiometer_ACP_CA6-H2,5_Horizontal
 - Hex ID: FZKPPOTACPCA6H25H
 - Name: Potentiometer_THT : Potentiometer_ACP_CA6-H2,5_Horizontal
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Potentiometer_THT/Potentiometer_ACP_CA6-H2,5_Horizontal/
 - Description: Potentiometer_THT : Potentiometer_ACP_CA6-H2,5_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Potentiometer_THT-Potentiometer_ACP_CA6-H2,5_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Potentiometer_THT-Potentiometer_ACP_CA6-H2,5_Horizontal)
 - Short Link: [http://oom.lt/FZKPPOTACPCA6H25H](http://oom.lt/FZKPPOTACPCA6H25H)

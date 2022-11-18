@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Controller-ISL6551
 - Hex ID: SZKREGULATORCONTROLLERISL6551
 - Name: Regulator_Controller : ISL6551
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Controller/ISL6551/
 - Description: Regulator_Controller : ISL6551
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Controller-ISL6551](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Controller-ISL6551)
 - Short Link: [http://oom.lt/SZKREGULATORCONTROLLERISL6551](http://oom.lt/SZKREGULATORCONTROLLERISL6551)

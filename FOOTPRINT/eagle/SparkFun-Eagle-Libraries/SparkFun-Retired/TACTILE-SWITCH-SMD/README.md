@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-TACTILE-SWITCH-SMD
 - Hex ID: FZSRTTSWSM
 - Name: SparkFun-Retired : TACTILE-SWITCH-SMD
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Retired/TACTILE-SWITCH-SMD/
 - Description: SparkFun-Retired : TACTILE-SWITCH-SMD
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-TACTILE-SWITCH-SMD](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-TACTILE-SWITCH-SMD)
 - Short Link: [http://oom.lt/FZSRTTSWSM](http://oom.lt/FZSRTTSWSM)

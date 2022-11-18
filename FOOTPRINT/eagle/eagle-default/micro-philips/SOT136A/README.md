@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-micro-philips-SOT136A
 - Hex ID: FZEMPHILIPSSOT136A
 - Name: micro-philips : SOT136A
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/micro-philips/SOT136A/
 - Description: micro-philips : SOT136A
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-philips-SOT136A](http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-philips-SOT136A)
 - Short Link: [http://oom.lt/FZEMPHILIPSSOT136A](http://oom.lt/FZEMPHILIPSSOT136A)

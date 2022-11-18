@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEREFPACKAGESLONGPADF126Z12 > ref-packages-longpad : F126Z12](#fzerefpackageslongpadf126z12--ref-packages-longpad--f126z12)
+* [FZEREFPSLPF126Z12 > ref-packages-longpad : F126Z12](#fzerefpslpf126z12--ref-packages-longpad--f126z12)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEREFPACKAGESLONGPADF126Z12 > ref-packages-longpad : F126Z12
+# FZEREFPSLPF126Z12 > ref-packages-longpad : F126Z12
 
 - ID: FOOTPRINT-eagle-eagle-default-ref-packages-longpad-F126Z12
-- Hex ID: FZEREFPACKAGESLONGPADF126Z12
+- Hex ID: FZEREFPSLPF126Z12
 - Name: ref-packages-longpad : F126Z12
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ref-packages-longpad/F126Z12/
 - Description: ref-packages-longpad : F126Z12
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-longpad-F126Z12](http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-longpad-F126Z12)
-- Short Link: [http://oom.lt/FZEREFPACKAGESLONGPADF126Z12](http://oom.lt/FZEREFPACKAGESLONGPADF126Z12)
+- Short Link: [http://oom.lt/FZEREFPSLPF126Z12](http://oom.lt/FZEREFPSLPF126Z12)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|ref-packages-longpad|
 |OOMP Index|oompIndex|F126Z12|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-ref-packages-longpad-F126Z12|
-|Hex ID (short code)|hexID|FZEREFPACKAGESLONGPADF126Z12|
+|Hex ID (short code)|hexID|FZEREFPSLPF126Z12|
 |name|name|ref-packages-longpad : F126Z12|
 ||||

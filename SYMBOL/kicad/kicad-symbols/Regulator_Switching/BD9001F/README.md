@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-BD9001F
 - Hex ID: SZKREGULATORSWINGBD91F
 - Name: Regulator_Switching : BD9001F
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/BD9001F/
 - Description: Regulator_Switching : BD9001F
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-BD9001F](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-BD9001F)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGBD91F](http://oom.lt/SZKREGULATORSWINGBD91F)

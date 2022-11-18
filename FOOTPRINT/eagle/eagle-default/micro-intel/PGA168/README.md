@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-micro-intel-PGA168
 - Hex ID: FZEMINTELPGA168
 - Name: micro-intel : PGA168
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/micro-intel/PGA168/
 - Description: micro-intel : PGA168
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-intel-PGA168](http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-intel-PGA168)
 - Short Link: [http://oom.lt/FZEMINTELPGA168](http://oom.lt/FZEMINTELPGA168)

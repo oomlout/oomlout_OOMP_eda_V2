@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_QFP-EQFP-144-1EP_20x20mm_P0.5mm_EP4x4mm
 - Hex ID: FZKQFPEQFP1441EP2X2P5EP4X4
 - Name: Package_QFP : EQFP-144-1EP_20x20mm_P0.5mm_EP4x4mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_QFP/EQFP-144-1EP_20x20mm_P0.5mm_EP4x4mm/
 - Description: Package_QFP : EQFP-144-1EP_20x20mm_P0.5mm_EP4x4mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_QFP-EQFP-144-1EP_20x20mm_P0.5mm_EP4x4mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_QFP-EQFP-144-1EP_20x20mm_P0.5mm_EP4x4mm)
 - Short Link: [http://oom.lt/FZKQFPEQFP1441EP2X2P5EP4X4](http://oom.lt/FZKQFPEQFP1441EP2X2P5EP4X4)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-RESE-1206-X-O102-01-R12O102-C4410
 - Hex ID: FZOOMPKJLCRESE126XO121R12O12C441
 - Name: oomlout_OOMP_JLCC_Basic : RESE-1206-X-O102-01-R12O102-C4410
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_JLCC_Basic/RESE-1206-X-O102-01-R12O102-C4410/
 - Description: oomlout_OOMP_JLCC_Basic : RESE-1206-X-O102-01-R12O102-C4410
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-RESE-1206-X-O102-01-R12O102-C4410](http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-RESE-1206-X-O102-01-R12O102-C4410)
 - Short Link: [http://oom.lt/FZOOMPKJLCRESE126XO121R12O12C441](http://oom.lt/FZOOMPKJLCRESE126XO121R12O12C441)

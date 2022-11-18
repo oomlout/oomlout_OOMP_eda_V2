@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega6450V-8A
 - Hex ID: SZKMCUMCHIPATMEGAATMEGA645V8A
 - Name: MCU_Microchip_ATmega : ATmega6450V-8A
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_ATmega/ATmega6450V-8A/
 - Description: MCU_Microchip_ATmega : ATmega6450V-8A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega6450V-8A](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega6450V-8A)
 - Short Link: [http://oom.lt/SZKMCUMCHIPATMEGAATMEGA645V8A](http://oom.lt/SZKMCUMCHIPATMEGAATMEGA645V8A)

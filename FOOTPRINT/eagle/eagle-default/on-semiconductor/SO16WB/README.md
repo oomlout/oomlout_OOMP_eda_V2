@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-on-semiconductor-SO16WB
 - Hex ID: FZEONSEMICONDUCTORSO16WB
 - Name: on-semiconductor : SO16WB
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/on-semiconductor/SO16WB/
 - Description: on-semiconductor : SO16WB
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-on-semiconductor-SO16WB](http://oom.lt/FOOTPRINT-eagle-eagle-default-on-semiconductor-SO16WB)
 - Short Link: [http://oom.lt/FZEONSEMICONDUCTORSO16WB](http://oom.lt/FZEONSEMICONDUCTORSO16WB)

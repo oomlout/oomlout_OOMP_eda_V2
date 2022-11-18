@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKCNPINPIND13L113W28FLAT > Connector_Pin : Pin_D1.3mm_L11.3mm_W2.8mm_Flat](#fzkcnpinpind13l113w28flat--connector_pin--pin_d13mm_l113mm_w28mm_flat)
+* [FZKCNPPD13L113W28FLAT > Connector_Pin : Pin_D1.3mm_L11.3mm_W2.8mm_Flat](#fzkcnppd13l113w28flat--connector_pin--pin_d13mm_l113mm_w28mm_flat)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKCNPINPIND13L113W28FLAT > Connector_Pin : Pin_D1.3mm_L11.3mm_W2.8mm_Flat
+# FZKCNPPD13L113W28FLAT > Connector_Pin : Pin_D1.3mm_L11.3mm_W2.8mm_Flat
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_Pin-Pin_D1.3mm_L11.3mm_W2.8mm_Flat
-- Hex ID: FZKCNPINPIND13L113W28FLAT
+- Hex ID: FZKCNPPD13L113W28FLAT
 - Name: Connector_Pin : Pin_D1.3mm_L11.3mm_W2.8mm_Flat
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Pin/Pin_D1.3mm_L11.3mm_W2.8mm_Flat/
 - Description: Connector_Pin : Pin_D1.3mm_L11.3mm_W2.8mm_Flat
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Pin-Pin_D1.3mm_L11.3mm_W2.8mm_Flat](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Pin-Pin_D1.3mm_L11.3mm_W2.8mm_Flat)
-- Short Link: [http://oom.lt/FZKCNPINPIND13L113W28FLAT](http://oom.lt/FZKCNPINPIND13L113W28FLAT)
+- Short Link: [http://oom.lt/FZKCNPPD13L113W28FLAT](http://oom.lt/FZKCNPPD13L113W28FLAT)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Connector_Pin|
 |OOMP Index|oompIndex|Pin_D1.3mm_L11.3mm_W2.8mm_Flat|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Pin-Pin_D1.3mm_L11.3mm_W2.8mm_Flat|
-|Hex ID (short code)|hexID|FZKCNPINPIND13L113W28FLAT|
+|Hex ID (short code)|hexID|FZKCNPPD13L113W28FLAT|
 |name|name|Connector_Pin : Pin_D1.3mm_L11.3mm_W2.8mm_Flat|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Pin_D1.3mm_L11.3mm_W2.8mm_Flat'</td><td> 'description'</td></tr><tr><td> 'solder Pin_ with flat with hole</td><td> hole diameter 1.3mm</td><td> length 11.3mm</td><td> width 2.8mm'</td><td> 'tags'</td></tr><tr><td> 'solder Pin_ with flat fork'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_Pin.3dshapes/Pin_D1.3mm_L11.3mm_W2.8mm_Flat.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Wuerth_WE-PD4-Typ-X
 - Hex ID: FZKINLWUERTHWEPD4TYPX
 - Name: Inductor_SMD : L_Wuerth_WE-PD4-Typ-X
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Wuerth_WE-PD4-Typ-X/
 - Description: Inductor_SMD : L_Wuerth_WE-PD4-Typ-X
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Wuerth_WE-PD4-Typ-X](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Wuerth_WE-PD4-Typ-X)
 - Short Link: [http://oom.lt/FZKINLWUERTHWEPD4TYPX](http://oom.lt/FZKINLWUERTHWEPD4TYPX)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-RESE-0402-X-O602-01-R4O602-C25908
 - Hex ID: SZOOMPKJLCRESE42XO621R4O62C2598
 - Name: oomlout_OOMP_JLCC_Basic : RESE-0402-X-O602-01-R4O602-C25908
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_JLCC_Basic/RESE-0402-X-O602-01-R4O602-C25908/
 - Description: oomlout_OOMP_JLCC_Basic : RESE-0402-X-O602-01-R4O602-C25908
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-RESE-0402-X-O602-01-R4O602-C25908](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-RESE-0402-X-O602-01-R4O602-C25908)
 - Short Link: [http://oom.lt/SZOOMPKJLCRESE42XO621R4O62C2598](http://oom.lt/SZOOMPKJLCRESE42XO621R4O62C2598)

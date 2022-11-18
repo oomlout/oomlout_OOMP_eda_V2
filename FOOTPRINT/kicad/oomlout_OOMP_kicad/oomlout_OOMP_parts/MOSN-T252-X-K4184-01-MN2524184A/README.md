@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-MOSN-T252-X-K4184-01-MN2524184A
 - Hex ID: FZOOMPKOOMPPMOSNT252XK41841MN2524184A
 - Name: oomlout_OOMP_parts : MOSN-T252-X-K4184-01-MN2524184A
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/MOSN-T252-X-K4184-01-MN2524184A/
 - Description: oomlout_OOMP_parts : MOSN-T252-X-K4184-01-MN2524184A
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-MOSN-T252-X-K4184-01-MN2524184A](http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-MOSN-T252-X-K4184-01-MN2524184A)
 - Short Link: [http://oom.lt/FZOOMPKOOMPPMOSNT252XK41841MN2524184A](http://oom.lt/FZOOMPKOOMPPMOSNT252XK41841MN2524184A)

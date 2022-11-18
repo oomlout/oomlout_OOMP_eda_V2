@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-traco-electronic-10515
 - Hex ID: FZETRACOELECTRONIC1515
 - Name: traco-electronic : 10515
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/traco-electronic/10515/
 - Description: traco-electronic : 10515
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-traco-electronic-10515](http://oom.lt/FOOTPRINT-eagle-eagle-default-traco-electronic-10515)
 - Short Link: [http://oom.lt/FZETRACOELECTRONIC1515](http://oom.lt/FZETRACOELECTRONIC1515)

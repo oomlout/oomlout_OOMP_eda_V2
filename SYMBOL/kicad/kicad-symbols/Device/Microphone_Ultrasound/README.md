@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Device-Microphone_Ultrasound
 - Hex ID: SZKDEVICEMPHONEULTRASOUND
 - Name: Device : Microphone_Ultrasound
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/Microphone_Ultrasound/
 - Description: Device : Microphone_Ultrasound
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Microphone_Ultrasound](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Microphone_Ultrasound)
 - Short Link: [http://oom.lt/SZKDEVICEMPHONEULTRASOUND](http://oom.lt/SZKDEVICEMPHONEULTRASOUND)

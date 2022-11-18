@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-switch-2P2T
 - Hex ID: FZESW2P2T
 - Name: switch : 2P2T
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/switch/2P2T/
 - Description: switch : 2P2T
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-2P2T](http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-2P2T)
 - Short Link: [http://oom.lt/FZESW2P2T](http://oom.lt/FZESW2P2T)

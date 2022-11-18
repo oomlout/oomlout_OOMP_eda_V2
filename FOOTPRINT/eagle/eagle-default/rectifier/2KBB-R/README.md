@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-rectifier-2KBB-R
 - Hex ID: FZERECTIFIER2KBBR
 - Name: rectifier : 2KBB-R
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/rectifier/2KBB-R/
 - Description: rectifier : 2KBB-R
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-rectifier-2KBB-R](http://oom.lt/FOOTPRINT-eagle-eagle-default-rectifier-2KBB-R)
 - Short Link: [http://oom.lt/FZERECTIFIER2KBBR](http://oom.lt/FZERECTIFIER2KBBR)

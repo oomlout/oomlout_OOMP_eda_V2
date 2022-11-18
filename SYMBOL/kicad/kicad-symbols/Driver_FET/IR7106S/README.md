@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Driver_FET-IR7106S
 - Hex ID: SZKDRIVERFETIR716S
 - Name: Driver_FET : IR7106S
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Driver_FET/IR7106S/
 - Description: Driver_FET : IR7106S
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-IR7106S](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-IR7106S)
 - Short Link: [http://oom.lt/SZKDRIVERFETIR716S](http://oom.lt/SZKDRIVERFETIR716S)

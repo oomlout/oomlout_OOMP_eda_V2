@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_NXP_HC11-68HC711_PLCC
 - Hex ID: SZKMCUNXPHC1168HC711PLCC
 - Name: MCU_NXP_HC11 : 68HC711_PLCC
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_NXP_HC11/68HC711_PLCC/
 - Description: MCU_NXP_HC11 : 68HC711_PLCC
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_NXP_HC11-68HC711_PLCC](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_NXP_HC11-68HC711_PLCC)
 - Short Link: [http://oom.lt/SZKMCUNXPHC1168HC711PLCC](http://oom.lt/SZKMCUNXPHC1168HC711PLCC)

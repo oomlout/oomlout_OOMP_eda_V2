@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SOT-753
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSSOT753
 - Name: digikey-footprints : SOT-753
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/SOT-753/
 - Description: digikey-footprints : SOT-753
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SOT-753](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SOT-753)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSSOT753](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSSOT753)

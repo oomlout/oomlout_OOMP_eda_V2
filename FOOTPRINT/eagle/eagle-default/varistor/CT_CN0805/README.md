@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-varistor-CT_CN0805
 - Hex ID: FZEVCTCN85
 - Name: varistor : CT_CN0805
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/varistor/CT_CN0805/
 - Description: varistor : CT_CN0805
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-varistor-CT_CN0805](http://oom.lt/FOOTPRINT-eagle-eagle-default-varistor-CT_CN0805)
 - Short Link: [http://oom.lt/FZEVCTCN85](http://oom.lt/FZEVCTCN85)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_A_Wuerth_61400826021_Horizontal_Stacked
 - Hex ID: FZKCNUUAWUERTH61482621HSTACKED
 - Name: Connector_USB : USB_A_Wuerth_61400826021_Horizontal_Stacked
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB_A_Wuerth_61400826021_Horizontal_Stacked/
 - Description: Connector_USB : USB_A_Wuerth_61400826021_Horizontal_Stacked
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_A_Wuerth_61400826021_Horizontal_Stacked](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_A_Wuerth_61400826021_Horizontal_Stacked)
 - Short Link: [http://oom.lt/FZKCNUUAWUERTH61482621HSTACKED](http://oom.lt/FZKCNUUAWUERTH61482621HSTACKED)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Buzzard-GND_P
 - Hex ID: FZSBUGNDP
 - Name: SparkFun-Buzzard : GND_P
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Buzzard/GND_P/
 - Description: SparkFun-Buzzard : GND_P
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Buzzard-GND_P](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Buzzard-GND_P)
 - Short Link: [http://oom.lt/FZSBUGNDP](http://oom.lt/FZSBUGNDP)

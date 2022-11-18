@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LM201
 - Hex ID: SZKAMPLIFIEROPERATIONALLM21
 - Name: Amplifier_Operational : LM201
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/LM201/
 - Description: Amplifier_Operational : LM201
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LM201](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LM201)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALLM21](http://oom.lt/SZKAMPLIFIEROPERATIONALLM21)

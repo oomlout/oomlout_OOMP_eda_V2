@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Neosid_Ms95T
 - Hex ID: FZKINLNEOSIDMS95T
 - Name: Inductor_SMD : L_Neosid_Ms95T
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Neosid_Ms95T/
 - Description: Inductor_SMD : L_Neosid_Ms95T
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Neosid_Ms95T](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Neosid_Ms95T)
 - Short Link: [http://oom.lt/FZKINLNEOSIDMS95T](http://oom.lt/FZKINLNEOSIDMS95T)

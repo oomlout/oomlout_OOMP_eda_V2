@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-micro-intel-HL-PBGA352
 - Hex ID: FZEMINTELHLPBGA352
 - Name: micro-intel : HL-PBGA352
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/micro-intel/HL-PBGA352/
 - Description: micro-intel : HL-PBGA352
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-intel-HL-PBGA352](http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-intel-HL-PBGA352)
 - Short Link: [http://oom.lt/FZEMINTELHLPBGA352](http://oom.lt/FZEMINTELHLPBGA352)

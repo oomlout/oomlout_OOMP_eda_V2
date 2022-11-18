@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-trafo-FLSM04
 - Hex ID: FZETRAFOFLSM4
 - Name: trafo : FLSM04
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/trafo/FLSM04/
 - Description: trafo : FLSM04
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-trafo-FLSM04](http://oom.lt/FOOTPRINT-eagle-eagle-default-trafo-FLSM04)
 - Short Link: [http://oom.lt/FZETRAFOFLSM4](http://oom.lt/FZETRAFOFLSM4)

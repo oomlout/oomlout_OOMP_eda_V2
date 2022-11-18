@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-LED_RGB_WP154A4SUREQBFZGC
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSLRGBWP154A4SUREQBFZGC
 - Name: digikey-footprints : LED_RGB_WP154A4SUREQBFZGC
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/LED_RGB_WP154A4SUREQBFZGC/
 - Description: digikey-footprints : LED_RGB_WP154A4SUREQBFZGC
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-LED_RGB_WP154A4SUREQBFZGC](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-LED_RGB_WP154A4SUREQBFZGC)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSLRGBWP154A4SUREQBFZGC](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSLRGBWP154A4SUREQBFZGC)

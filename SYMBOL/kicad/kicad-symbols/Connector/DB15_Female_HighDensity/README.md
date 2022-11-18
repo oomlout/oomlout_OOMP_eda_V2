@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Connector-DB15_Female_HighDensity
 - Hex ID: SZKCNDB15FHIGHDENSITY
 - Name: Connector : DB15_Female_HighDensity
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector/DB15_Female_HighDensity/
 - Description: Connector : DB15_Female_HighDensity
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-DB15_Female_HighDensity](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-DB15_Female_HighDensity)
 - Short Link: [http://oom.lt/SZKCNDB15FHIGHDENSITY](http://oom.lt/SZKCNDB15FHIGHDENSITY)

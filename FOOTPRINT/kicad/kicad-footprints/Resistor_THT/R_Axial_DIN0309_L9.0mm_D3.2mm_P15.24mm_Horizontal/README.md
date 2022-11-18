@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Resistor_THT-R_Axial_DIN0309_L9.0mm_D3.2mm_P15.24mm_Horizontal
 - Hex ID: FZKRRAXIALDIN39L9D32P1524H
 - Name: Resistor_THT : R_Axial_DIN0309_L9.0mm_D3.2mm_P15.24mm_Horizontal
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Resistor_THT/R_Axial_DIN0309_L9.0mm_D3.2mm_P15.24mm_Horizontal/
 - Description: Resistor_THT : R_Axial_DIN0309_L9.0mm_D3.2mm_P15.24mm_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Resistor_THT-R_Axial_DIN0309_L9.0mm_D3.2mm_P15.24mm_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Resistor_THT-R_Axial_DIN0309_L9.0mm_D3.2mm_P15.24mm_Horizontal)
 - Short Link: [http://oom.lt/FZKRRAXIALDIN39L9D32P1524H](http://oom.lt/FZKRRAXIALDIN39L9D32P1524H)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-L5973D
 - Hex ID: SZKREGULATORSWINGL5973D
 - Name: Regulator_Switching : L5973D
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/L5973D/
 - Description: Regulator_Switching : L5973D
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-L5973D](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-L5973D)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGL5973D](http://oom.lt/SZKREGULATORSWINGL5973D)

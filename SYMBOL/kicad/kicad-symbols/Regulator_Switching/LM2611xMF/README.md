@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-LM2611xMF
 - Hex ID: SZKREGULATORSWINGLM2611XMF
 - Name: Regulator_Switching : LM2611xMF
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/LM2611xMF/
 - Description: Regulator_Switching : LM2611xMF
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LM2611xMF](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LM2611xMF)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGLM2611XMF](http://oom.lt/SZKREGULATORSWINGLM2611XMF)

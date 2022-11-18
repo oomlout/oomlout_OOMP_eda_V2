@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-RF_GPS-SIM28ML
 - Hex ID: FZKGPSSIM28ML
 - Name: RF_GPS : SIM28ML
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/RF_GPS/SIM28ML/
 - Description: RF_GPS : SIM28ML
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_GPS-SIM28ML](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_GPS-SIM28ML)
 - Short Link: [http://oom.lt/FZKGPSSIM28ML](http://oom.lt/FZKGPSSIM28ML)

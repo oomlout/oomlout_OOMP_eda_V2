@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0603-X-NF5-V50-C6N5-C1596
 - Hex ID: SZOOMPKJLCCAPC63XNF5V5C6N5C1596
 - Name: oomlout_OOMP_JLCC_Basic : CAPC-0603-X-NF5-V50-C6N5-C1596
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_JLCC_Basic/CAPC-0603-X-NF5-V50-C6N5-C1596/
 - Description: oomlout_OOMP_JLCC_Basic : CAPC-0603-X-NF5-V50-C6N5-C1596
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0603-X-NF5-V50-C6N5-C1596](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0603-X-NF5-V50-C6N5-C1596)
 - Short Link: [http://oom.lt/SZOOMPKJLCCAPC63XNF5V5C6N5C1596](http://oom.lt/SZOOMPKJLCCAPC63XNF5V5C6N5C1596)

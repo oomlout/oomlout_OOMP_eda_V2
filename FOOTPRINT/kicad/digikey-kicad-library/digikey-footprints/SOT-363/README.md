@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SOT-363
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSSOT363
 - Name: digikey-footprints : SOT-363
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/SOT-363/
 - Description: digikey-footprints : SOT-363
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SOT-363](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SOT-363)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSSOT363](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSSOT363)

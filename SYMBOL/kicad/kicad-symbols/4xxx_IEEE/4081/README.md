@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-4xxx_IEEE-4081
 - Hex ID: SZK4XXXIEEE481
 - Name: 4xxx_IEEE : 4081
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/4xxx_IEEE/4081/
 - Description: 4xxx_IEEE : 4081
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-4xxx_IEEE-4081](http://oom.lt/SYMBOL-kicad-kicad-symbols-4xxx_IEEE-4081)
 - Short Link: [http://oom.lt/SZK4XXXIEEE481](http://oom.lt/SZK4XXXIEEE481)

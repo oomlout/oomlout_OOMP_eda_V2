@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-rcl-C150-091X182
 - Hex ID: FZERCLC1591X182
 - Name: rcl : C150-091X182
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/rcl/C150-091X182/
 - Description: rcl : C150-091X182
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-C150-091X182](http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-C150-091X182)
 - Short Link: [http://oom.lt/FZERCLC1591X182](http://oom.lt/FZERCLC1591X182)

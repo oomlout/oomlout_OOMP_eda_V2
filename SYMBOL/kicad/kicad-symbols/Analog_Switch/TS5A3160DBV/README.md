@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Analog_Switch-TS5A3160DBV
 - Hex ID: SZKANALOGSWTS5A316DBV
 - Name: Analog_Switch : TS5A3160DBV
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog_Switch/TS5A3160DBV/
 - Description: Analog_Switch : TS5A3160DBV
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_Switch-TS5A3160DBV](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_Switch-TS5A3160DBV)
 - Short Link: [http://oom.lt/SZKANALOGSWTS5A316DBV](http://oom.lt/SZKANALOGSWTS5A316DBV)

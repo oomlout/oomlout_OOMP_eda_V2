@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-power-+3V0
 - Hex ID: SZKPOWER+3V
 - Name: power : +3V0
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/power/+3V0/
 - Description: power : +3V0
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-power-+3V0](http://oom.lt/SYMBOL-kicad-kicad-symbols-power-+3V0)
 - Short Link: [http://oom.lt/SZKPOWER+3V](http://oom.lt/SZKPOWER+3V)

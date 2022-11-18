@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_SwitchedCapacitor-LMC7660
 - Hex ID: SZKREGULATORSWEDCAPACITORLMC766
 - Name: Regulator_SwitchedCapacitor : LMC7660
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_SwitchedCapacitor/LMC7660/
 - Description: Regulator_SwitchedCapacitor : LMC7660
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_SwitchedCapacitor-LMC7660](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_SwitchedCapacitor-LMC7660)
 - Short Link: [http://oom.lt/SZKREGULATORSWEDCAPACITORLMC766](http://oom.lt/SZKREGULATORSWEDCAPACITORLMC766)

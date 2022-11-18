@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode_Laser-SPL_PL90
 - Hex ID: SZKDIODELASERSPLPL9
 - Name: Diode_Laser : SPL_PL90
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode_Laser/SPL_PL90/
 - Description: Diode_Laser : SPL_PL90
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode_Laser-SPL_PL90](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode_Laser-SPL_PL90)
 - Short Link: [http://oom.lt/SZKDIODELASERSPLPL9](http://oom.lt/SZKDIODELASERSPLPL9)

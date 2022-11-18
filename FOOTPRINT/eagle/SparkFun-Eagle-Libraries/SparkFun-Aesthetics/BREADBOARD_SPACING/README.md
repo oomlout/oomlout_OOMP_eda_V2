@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Aesthetics-BREADBOARD_SPACING
 - Hex ID: FZSABREADBOARDSPACING
 - Name: SparkFun-Aesthetics : BREADBOARD_SPACING
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Aesthetics/BREADBOARD_SPACING/
 - Description: SparkFun-Aesthetics : BREADBOARD_SPACING
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Aesthetics-BREADBOARD_SPACING](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Aesthetics-BREADBOARD_SPACING)
 - Short Link: [http://oom.lt/FZSABREADBOARDSPACING](http://oom.lt/FZSABREADBOARDSPACING)

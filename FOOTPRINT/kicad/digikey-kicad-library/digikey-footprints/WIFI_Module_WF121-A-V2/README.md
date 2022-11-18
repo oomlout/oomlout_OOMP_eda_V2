@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-WIFI_Module_WF121-A-V2
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSWIFIMOWF121AV2
 - Name: digikey-footprints : WIFI_Module_WF121-A-V2
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/WIFI_Module_WF121-A-V2/
 - Description: digikey-footprints : WIFI_Module_WF121-A-V2
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-WIFI_Module_WF121-A-V2](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-WIFI_Module_WF121-A-V2)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSWIFIMOWF121AV2](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSWIFIMOWF121AV2)

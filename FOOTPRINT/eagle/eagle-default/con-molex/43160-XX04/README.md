@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-molex-43160-XX04
 - Hex ID: FZECONMX4316XX4
 - Name: con-molex : 43160-XX04
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-molex/43160-XX04/
 - Description: con-molex : 43160-XX04
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-molex-43160-XX04](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-molex-43160-XX04)
 - Short Link: [http://oom.lt/FZECONMX4316XX4](http://oom.lt/FZECONMX4316XX4)

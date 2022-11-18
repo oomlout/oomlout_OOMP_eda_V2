@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-TPS75005RGW
 - Hex ID: SZKREGULATORLINEARTPS755RGW
 - Name: Regulator_Linear : TPS75005RGW
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/TPS75005RGW/
 - Description: Regulator_Linear : TPS75005RGW
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-TPS75005RGW](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-TPS75005RGW)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARTPS755RGW](http://oom.lt/SZKREGULATORLINEARTPS755RGW)

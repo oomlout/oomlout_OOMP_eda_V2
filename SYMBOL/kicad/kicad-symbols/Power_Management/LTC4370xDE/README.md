@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Power_Management-LTC4370xDE
 - Hex ID: SZKPOWERMANAGEMENTLTC437XDE
 - Name: Power_Management : LTC4370xDE
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Power_Management/LTC4370xDE/
 - Description: Power_Management : LTC4370xDE
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-LTC4370xDE](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-LTC4370xDE)
 - Short Link: [http://oom.lt/SZKPOWERMANAGEMENTLTC437XDE](http://oom.lt/SZKPOWERMANAGEMENTLTC437XDE)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-LMR33610ADDAR
 - Hex ID: SZKREGULATORSWINGLMR3361ADDAR
 - Name: Regulator_Switching : LMR33610ADDAR
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/LMR33610ADDAR/
 - Description: Regulator_Switching : LMR33610ADDAR
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LMR33610ADDAR](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LMR33610ADDAR)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGLMR3361ADDAR](http://oom.lt/SZKREGULATORSWINGLMR3361ADDAR)

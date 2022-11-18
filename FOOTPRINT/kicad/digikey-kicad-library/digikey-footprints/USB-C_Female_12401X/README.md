@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-USB-C_Female_12401X
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSUCF1241X
 - Name: digikey-footprints : USB-C_Female_12401X
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/USB-C_Female_12401X/
 - Description: digikey-footprints : USB-C_Female_12401X
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-USB-C_Female_12401X](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-USB-C_Female_12401X)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSUCF1241X](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSUCF1241X)

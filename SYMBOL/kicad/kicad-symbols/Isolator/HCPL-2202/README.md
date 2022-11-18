@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Isolator-HCPL-2202
 - Hex ID: SZKISOLATORHCPL222
 - Name: Isolator : HCPL-2202
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Isolator/HCPL-2202/
 - Description: Isolator : HCPL-2202
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-HCPL-2202](http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-HCPL-2202)
 - Short Link: [http://oom.lt/SZKISOLATORHCPL222](http://oom.lt/SZKISOLATORHCPL222)

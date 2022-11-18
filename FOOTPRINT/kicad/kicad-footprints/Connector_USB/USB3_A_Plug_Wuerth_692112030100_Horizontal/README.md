@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB3_A_Plug_Wuerth_692112030100_Horizontal
 - Hex ID: FZKCNUU3APLUGWUERTH69211231H
 - Name: Connector_USB : USB3_A_Plug_Wuerth_692112030100_Horizontal
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB3_A_Plug_Wuerth_692112030100_Horizontal/
 - Description: Connector_USB : USB3_A_Plug_Wuerth_692112030100_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB3_A_Plug_Wuerth_692112030100_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB3_A_Plug_Wuerth_692112030100_Horizontal)
 - Short Link: [http://oom.lt/FZKCNUU3APLUGWUERTH69211231H](http://oom.lt/FZKCNUU3APLUGWUERTH69211231H)

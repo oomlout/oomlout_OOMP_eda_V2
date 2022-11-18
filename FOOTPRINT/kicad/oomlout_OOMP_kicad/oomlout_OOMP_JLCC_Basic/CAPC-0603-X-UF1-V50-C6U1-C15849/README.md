@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0603-X-UF1-V50-C6U1-C15849
 - Hex ID: FZOOMPKJLCCAPC63XUF1V5C6U1C15849
 - Name: oomlout_OOMP_JLCC_Basic : CAPC-0603-X-UF1-V50-C6U1-C15849
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_JLCC_Basic/CAPC-0603-X-UF1-V50-C6U1-C15849/
 - Description: oomlout_OOMP_JLCC_Basic : CAPC-0603-X-UF1-V50-C6U1-C15849
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0603-X-UF1-V50-C6U1-C15849](http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0603-X-UF1-V50-C6U1-C15849)
 - Short Link: [http://oom.lt/FZOOMPKJLCCAPC63XUF1V5C6U1C15849](http://oom.lt/FZOOMPKJLCCAPC63XUF1V5C6U1C15849)

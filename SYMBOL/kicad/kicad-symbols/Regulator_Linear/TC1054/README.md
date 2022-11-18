@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-TC1054
 - Hex ID: SZKREGULATORLINEARTC154
 - Name: Regulator_Linear : TC1054
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/TC1054/
 - Description: Regulator_Linear : TC1054
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-TC1054](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-TC1054)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARTC154](http://oom.lt/SZKREGULATORLINEARTC154)

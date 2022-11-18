@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-BZV55B43
 - Hex ID: SZKDIODEBZV55B43
 - Name: Diode : BZV55B43
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/BZV55B43/
 - Description: Diode : BZV55B43
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-BZV55B43](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-BZV55B43)
 - Short Link: [http://oom.lt/SZKDIODEBZV55B43](http://oom.lt/SZKDIODEBZV55B43)

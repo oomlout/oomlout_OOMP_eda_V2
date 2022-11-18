@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Driver_FET-HIP4080A
 - Hex ID: SZKDRIVERFETHIP48A
 - Name: Driver_FET : HIP4080A
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Driver_FET/HIP4080A/
 - Description: Driver_FET : HIP4080A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-HIP4080A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-HIP4080A)
 - Short Link: [http://oom.lt/SZKDRIVERFETHIP48A](http://oom.lt/SZKDRIVERFETHIP48A)

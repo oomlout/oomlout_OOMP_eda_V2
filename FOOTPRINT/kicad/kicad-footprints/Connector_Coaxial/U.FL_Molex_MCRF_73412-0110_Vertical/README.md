@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_Coaxial-U.FL_Molex_MCRF_73412-0110_Vertical
 - Hex ID: FZKCNCOAUFLMXMCRF7341211F
 - Name: Connector_Coaxial : U.FL_Molex_MCRF_73412-0110_Vertical
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Coaxial/U.FL_Molex_MCRF_73412-0110_Vertical/
 - Description: Connector_Coaxial : U.FL_Molex_MCRF_73412-0110_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Coaxial-U.FL_Molex_MCRF_73412-0110_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Coaxial-U.FL_Molex_MCRF_73412-0110_Vertical)
 - Short Link: [http://oom.lt/FZKCNCOAUFLMXMCRF7341211F](http://oom.lt/FZKCNCOAUFLMXMCRF7341211F)

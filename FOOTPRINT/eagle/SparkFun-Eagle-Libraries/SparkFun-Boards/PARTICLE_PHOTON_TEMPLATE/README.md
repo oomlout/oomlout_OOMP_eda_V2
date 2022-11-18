@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Boards-PARTICLE_PHOTON_TEMPLATE
 - Hex ID: FZSBOPARTICLEPHOTONTEMPLATE
 - Name: SparkFun-Boards : PARTICLE_PHOTON_TEMPLATE
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Boards/PARTICLE_PHOTON_TEMPLATE/
 - Description: SparkFun-Boards : PARTICLE_PHOTON_TEMPLATE
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Boards-PARTICLE_PHOTON_TEMPLATE](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Boards-PARTICLE_PHOTON_TEMPLATE)
 - Short Link: [http://oom.lt/FZSBOPARTICLEPHOTONTEMPLATE](http://oom.lt/FZSBOPARTICLEPHOTONTEMPLATE)

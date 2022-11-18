@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-maxim-TSSOP28
 - Hex ID: FZEMAXIMTSS28
 - Name: maxim : TSSOP28
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/maxim/TSSOP28/
 - Description: maxim : TSSOP28
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-maxim-TSSOP28](http://oom.lt/FOOTPRINT-eagle-eagle-default-maxim-TSSOP28)
 - Short Link: [http://oom.lt/FZEMAXIMTSS28](http://oom.lt/FZEMAXIMTSS28)

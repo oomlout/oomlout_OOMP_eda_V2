@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Memory_Flash-SST25VF080B-50-4x-S2Ax
 - Hex ID: SZKMEMORYFLASHSST25VF8B54XS2AX
 - Name: Memory_Flash : SST25VF080B-50-4x-S2Ax
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Memory_Flash/SST25VF080B-50-4x-S2Ax/
 - Description: Memory_Flash : SST25VF080B-50-4x-S2Ax
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_Flash-SST25VF080B-50-4x-S2Ax](http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_Flash-SST25VF080B-50-4x-S2Ax)
 - Short Link: [http://oom.lt/SZKMEMORYFLASHSST25VF8B54XS2AX](http://oom.lt/SZKMEMORYFLASHSST25VF8B54XS2AX)

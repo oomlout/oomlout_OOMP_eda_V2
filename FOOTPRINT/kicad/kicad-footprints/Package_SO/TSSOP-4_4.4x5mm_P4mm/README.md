@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_SO-TSSOP-4_4.4x5mm_P4mm
 - Hex ID: FZKSOTSS444X5P4
 - Name: Package_SO : TSSOP-4_4.4x5mm_P4mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SO/TSSOP-4_4.4x5mm_P4mm/
 - Description: Package_SO : TSSOP-4_4.4x5mm_P4mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SO-TSSOP-4_4.4x5mm_P4mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SO-TSSOP-4_4.4x5mm_P4mm)
 - Short Link: [http://oom.lt/FZKSOTSS444X5P4](http://oom.lt/FZKSOTSS444X5P4)

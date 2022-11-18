@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-CP_Elec_5x5.8
 - Hex ID: FZKCCPELEC5X58
 - Name: Capacitor_SMD : CP_Elec_5x5.8
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Capacitor_SMD/CP_Elec_5x5.8/
 - Description: Capacitor_SMD : CP_Elec_5x5.8
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-CP_Elec_5x5.8](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-CP_Elec_5x5.8)
 - Short Link: [http://oom.lt/FZKCCPELEC5X58](http://oom.lt/FZKCCPELEC5X58)

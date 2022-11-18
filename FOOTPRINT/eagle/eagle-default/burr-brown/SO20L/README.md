@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZEBURRBROWNSO2L > burr-brown : SO20L](#fzeburrbrownso2l--burr-brown--so20l)
+* [FZEBURRBRNSO2L > burr-brown : SO20L](#fzeburrbrnso2l--burr-brown--so20l)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZEBURRBROWNSO2L > burr-brown : SO20L
+# FZEBURRBRNSO2L > burr-brown : SO20L
 
 - ID: FOOTPRINT-eagle-eagle-default-burr-brown-SO20L
-- Hex ID: FZEBURRBROWNSO2L
+- Hex ID: FZEBURRBRNSO2L
 - Name: burr-brown : SO20L
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/burr-brown/SO20L/
 - Description: burr-brown : SO20L
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-burr-brown-SO20L](http://oom.lt/FOOTPRINT-eagle-eagle-default-burr-brown-SO20L)
-- Short Link: [http://oom.lt/FZEBURRBROWNSO2L](http://oom.lt/FZEBURRBROWNSO2L)
+- Short Link: [http://oom.lt/FZEBURRBRNSO2L](http://oom.lt/FZEBURRBRNSO2L)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|burr-brown|
 |OOMP Index|oompIndex|SO20L|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-burr-brown-SO20L|
-|Hex ID (short code)|hexID|FZEBURRBROWNSO2L|
+|Hex ID (short code)|hexID|FZEBURRBRNSO2L|
 |name|name|burr-brown : SO20L|
 ||||
 

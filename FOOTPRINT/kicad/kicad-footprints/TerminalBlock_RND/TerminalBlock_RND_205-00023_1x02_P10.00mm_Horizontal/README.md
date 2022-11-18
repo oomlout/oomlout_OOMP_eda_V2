@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-TerminalBlock_RND-TerminalBlock_RND_205-00023_1x02_P10.00mm_Horizontal
 - Hex ID: FZKTBRNDTBRND25231X2P1H
 - Name: TerminalBlock_RND : TerminalBlock_RND_205-00023_1x02_P10.00mm_Horizontal
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/TerminalBlock_RND/TerminalBlock_RND_205-00023_1x02_P10.00mm_Horizontal/
 - Description: TerminalBlock_RND : TerminalBlock_RND_205-00023_1x02_P10.00mm_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-TerminalBlock_RND-TerminalBlock_RND_205-00023_1x02_P10.00mm_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-TerminalBlock_RND-TerminalBlock_RND_205-00023_1x02_P10.00mm_Horizontal)
 - Short Link: [http://oom.lt/FZKTBRNDTBRND25231X2P1H](http://oom.lt/FZKTBRNDTBRND25231X2P1H)

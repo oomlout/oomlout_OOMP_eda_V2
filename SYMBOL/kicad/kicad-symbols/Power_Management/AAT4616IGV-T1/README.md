@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Power_Management-AAT4616IGV-T1
 - Hex ID: SZKPOWERMANAGEMENTAAT4616IGVT1
 - Name: Power_Management : AAT4616IGV-T1
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Power_Management/AAT4616IGV-T1/
 - Description: Power_Management : AAT4616IGV-T1
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-AAT4616IGV-T1](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-AAT4616IGV-T1)
 - Short Link: [http://oom.lt/SZKPOWERMANAGEMENTAAT4616IGVT1](http://oom.lt/SZKPOWERMANAGEMENTAAT4616IGVT1)

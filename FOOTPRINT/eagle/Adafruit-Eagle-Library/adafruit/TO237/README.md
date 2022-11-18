@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-TO237
 - Hex ID: FZATO237
 - Name: adafruit : TO237
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/TO237/
 - Description: adafruit : TO237
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-TO237](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-TO237)
 - Short Link: [http://oom.lt/FZATO237](http://oom.lt/FZATO237)

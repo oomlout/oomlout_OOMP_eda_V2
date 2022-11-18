@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-W04-X-O47X-01-R447A
 - Hex ID: SZOOMPKOOMPPRESEW4XO47X1R447A
 - Name: oomlout_OOMP_parts : RESE-W04-X-O47X-01-R447A
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/RESE-W04-X-O47X-01-R447A/
 - Description: oomlout_OOMP_parts : RESE-W04-X-O47X-01-R447A
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-W04-X-O47X-01-R447A](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-W04-X-O47X-01-R447A)
 - Short Link: [http://oom.lt/SZOOMPKOOMPPRESEW4XO47X1R447A](http://oom.lt/SZOOMPKOOMPPRESEW4XO47X1R447A)

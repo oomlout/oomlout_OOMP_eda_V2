@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-R0805W
 - Hex ID: FZAR85W
 - Name: adafruit : R0805W
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/R0805W/
 - Description: adafruit : R0805W
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-R0805W](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-R0805W)
 - Short Link: [http://oom.lt/FZAR85W](http://oom.lt/FZAR85W)

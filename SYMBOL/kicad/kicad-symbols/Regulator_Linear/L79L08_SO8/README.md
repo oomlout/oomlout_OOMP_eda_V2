@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-L79L08_SO8
 - Hex ID: SZKREGULATORLINEARL79L8SO8
 - Name: Regulator_Linear : L79L08_SO8
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/L79L08_SO8/
 - Description: Regulator_Linear : L79L08_SO8
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-L79L08_SO8](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-L79L08_SO8)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARL79L8SO8](http://oom.lt/SZKREGULATORLINEARL79L8SO8)

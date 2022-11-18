@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-motorola-sensor-driver-DIL20
 - Hex ID: FZEMOTOROLASENDRIVERDIL2
 - Name: motorola-sensor-driver : DIL20
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/motorola-sensor-driver/DIL20/
 - Description: motorola-sensor-driver : DIL20
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-motorola-sensor-driver-DIL20](http://oom.lt/FOOTPRINT-eagle-eagle-default-motorola-sensor-driver-DIL20)
 - Short Link: [http://oom.lt/FZEMOTOROLASENDRIVERDIL2](http://oom.lt/FZEMOTOROLASENDRIVERDIL2)

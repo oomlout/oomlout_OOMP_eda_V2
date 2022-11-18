@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Device-R_Potentiometer_US
 - Hex ID: SZKDEVICERPOTUS
 - Name: Device : R_Potentiometer_US
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/R_Potentiometer_US/
 - Description: Device : R_Potentiometer_US
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-R_Potentiometer_US](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-R_Potentiometer_US)
 - Short Link: [http://oom.lt/SZKDEVICERPOTUS](http://oom.lt/SZKDEVICERPOTUS)

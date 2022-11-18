@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Potentiometer_Digital-DS1267_TSSOP
 - Hex ID: SZKPOTDIGITALDS1267TSS
 - Name: Potentiometer_Digital : DS1267_TSSOP
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Potentiometer_Digital/DS1267_TSSOP/
 - Description: Potentiometer_Digital : DS1267_TSSOP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Potentiometer_Digital-DS1267_TSSOP](http://oom.lt/SYMBOL-kicad-kicad-symbols-Potentiometer_Digital-DS1267_TSSOP)
 - Short Link: [http://oom.lt/SZKPOTDIGITALDS1267TSS](http://oom.lt/SZKPOTDIGITALDS1267TSS)

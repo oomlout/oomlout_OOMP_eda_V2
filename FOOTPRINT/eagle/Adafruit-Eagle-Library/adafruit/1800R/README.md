@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-1800R
 - Hex ID: FZA18R
 - Name: adafruit : 1800R
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/1800R/
 - Description: adafruit : 1800R
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-1800R](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-1800R)
 - Short Link: [http://oom.lt/FZA18R](http://oom.lt/FZA18R)

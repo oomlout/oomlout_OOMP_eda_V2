@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_Coaxial-BNC_Amphenol_B6252HB-NPP3G-50_Horizontal
 - Hex ID: FZKCNCOABNCAMPHENOLB6252HBNPP3G5H
 - Name: Connector_Coaxial : BNC_Amphenol_B6252HB-NPP3G-50_Horizontal
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Coaxial/BNC_Amphenol_B6252HB-NPP3G-50_Horizontal/
 - Description: Connector_Coaxial : BNC_Amphenol_B6252HB-NPP3G-50_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Coaxial-BNC_Amphenol_B6252HB-NPP3G-50_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Coaxial-BNC_Amphenol_B6252HB-NPP3G-50_Horizontal)
 - Short Link: [http://oom.lt/FZKCNCOABNCAMPHENOLB6252HBNPP3G5H](http://oom.lt/FZKCNCOABNCAMPHENOLB6252HBNPP3G5H)

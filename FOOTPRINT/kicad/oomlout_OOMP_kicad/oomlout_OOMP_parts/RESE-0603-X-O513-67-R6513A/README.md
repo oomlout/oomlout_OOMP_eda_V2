@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O513-67-R6513A
 - Hex ID: FZOOMPKOOMPPRESE63XO51367R6513A
 - Name: oomlout_OOMP_parts : RESE-0603-X-O513-67-R6513A
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/RESE-0603-X-O513-67-R6513A/
 - Description: oomlout_OOMP_parts : RESE-0603-X-O513-67-R6513A
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O513-67-R6513A](http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O513-67-R6513A)
 - Short Link: [http://oom.lt/FZOOMPKOOMPPRESE63XO51367R6513A](http://oom.lt/FZOOMPKOOMPPRESE63XO51367R6513A)

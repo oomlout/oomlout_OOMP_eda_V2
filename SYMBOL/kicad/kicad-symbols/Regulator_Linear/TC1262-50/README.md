@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-TC1262-50
 - Hex ID: SZKREGULATORLINEARTC12625
 - Name: Regulator_Linear : TC1262-50
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/TC1262-50/
 - Description: Regulator_Linear : TC1262-50
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-TC1262-50](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-TC1262-50)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARTC12625](http://oom.lt/SZKREGULATORLINEARTC12625)

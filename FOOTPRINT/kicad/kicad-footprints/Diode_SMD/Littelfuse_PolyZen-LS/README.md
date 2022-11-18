@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Diode_SMD-Littelfuse_PolyZen-LS
 - Hex ID: FZKDLITTELFUPOLYZENLS
 - Name: Diode_SMD : Littelfuse_PolyZen-LS
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Diode_SMD/Littelfuse_PolyZen-LS/
 - Description: Diode_SMD : Littelfuse_PolyZen-LS
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Diode_SMD-Littelfuse_PolyZen-LS](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Diode_SMD-Littelfuse_PolyZen-LS)
 - Short Link: [http://oom.lt/FZKDLITTELFUPOLYZENLS](http://oom.lt/FZKDLITTELFUPOLYZENLS)

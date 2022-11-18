@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-special-DRIL-2
 - Hex ID: FZESPECIALDRIL2
 - Name: special : DRIL-2
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/special/DRIL-2/
 - Description: special : DRIL-2
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-special-DRIL-2](http://oom.lt/FOOTPRINT-eagle-eagle-default-special-DRIL-2)
 - Short Link: [http://oom.lt/FZESPECIALDRIL2](http://oom.lt/FZESPECIALDRIL2)

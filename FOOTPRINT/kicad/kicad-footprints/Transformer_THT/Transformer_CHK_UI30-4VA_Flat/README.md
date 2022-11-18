@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Transformer_THT-Transformer_CHK_UI30-4VA_Flat
 - Hex ID: FZKTRTRCHKUI34VAFLAT
 - Name: Transformer_THT : Transformer_CHK_UI30-4VA_Flat
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Transformer_THT/Transformer_CHK_UI30-4VA_Flat/
 - Description: Transformer_THT : Transformer_CHK_UI30-4VA_Flat
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Transformer_THT-Transformer_CHK_UI30-4VA_Flat](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Transformer_THT-Transformer_CHK_UI30-4VA_Flat)
 - Short Link: [http://oom.lt/FZKTRTRCHKUI34VAFLAT](http://oom.lt/FZKTRTRCHKUI34VAFLAT)

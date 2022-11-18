@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Device-LED_Dual_Bidirectional
 - Hex ID: SZKDEVICELDUALBIDIRECTIONAL
 - Name: Device : LED_Dual_Bidirectional
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/LED_Dual_Bidirectional/
 - Description: Device : LED_Dual_Bidirectional
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-LED_Dual_Bidirectional](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-LED_Dual_Bidirectional)
 - Short Link: [http://oom.lt/SZKDEVICELDUALBIDIRECTIONAL](http://oom.lt/SZKDEVICELDUALBIDIRECTIONAL)

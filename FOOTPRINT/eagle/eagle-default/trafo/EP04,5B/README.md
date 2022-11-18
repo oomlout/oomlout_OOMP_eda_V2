@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-trafo-EP04,5B
 - Hex ID: FZETRAFOEP45B
 - Name: trafo : EP04,5B
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/trafo/EP04,5B/
 - Description: trafo : EP04,5B
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-trafo-EP04,5B](http://oom.lt/FOOTPRINT-eagle-eagle-default-trafo-EP04,5B)
 - Short Link: [http://oom.lt/FZETRAFOEP45B](http://oom.lt/FZETRAFOEP45B)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-toshiba-SIP7-P-2.54
 - Hex ID: FZETOSHIBASIP7P254
 - Name: toshiba : SIP7-P-2.54
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/toshiba/SIP7-P-2.54/
 - Description: toshiba : SIP7-P-2.54
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-toshiba-SIP7-P-2.54](http://oom.lt/FOOTPRINT-eagle-eagle-default-toshiba-SIP7-P-2.54)
 - Short Link: [http://oom.lt/FZETOSHIBASIP7P254](http://oom.lt/FZETOSHIBASIP7P254)

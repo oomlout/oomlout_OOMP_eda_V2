@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Neosid_Air-Coil_SML_2turn_HAM0231A
 - Hex ID: FZKINLNEOSIDAIRCOILSML2TURNHAM231A
 - Name: Inductor_SMD : L_Neosid_Air-Coil_SML_2turn_HAM0231A
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Neosid_Air-Coil_SML_2turn_HAM0231A/
 - Description: Inductor_SMD : L_Neosid_Air-Coil_SML_2turn_HAM0231A
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Neosid_Air-Coil_SML_2turn_HAM0231A](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Neosid_Air-Coil_SML_2turn_HAM0231A)
 - Short Link: [http://oom.lt/FZKINLNEOSIDAIRCOILSML2TURNHAM231A](http://oom.lt/FZKINLNEOSIDAIRCOILSML2TURNHAM231A)

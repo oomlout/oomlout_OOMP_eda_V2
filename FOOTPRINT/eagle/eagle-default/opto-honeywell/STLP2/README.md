@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-opto-honeywell-STLP2
 - Hex ID: FZEOPTOHONEYWELLSTLP2
 - Name: opto-honeywell : STLP2
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/opto-honeywell/STLP2/
 - Description: opto-honeywell : STLP2
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-opto-honeywell-STLP2](http://oom.lt/FOOTPRINT-eagle-eagle-default-opto-honeywell-STLP2)
 - Short Link: [http://oom.lt/FZEOPTOHONEYWELLSTLP2](http://oom.lt/FZEOPTOHONEYWELLSTLP2)

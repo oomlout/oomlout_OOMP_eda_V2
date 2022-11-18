@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-pot-CA14V
 - Hex ID: FZEPOTCA14V
 - Name: pot : CA14V
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/pot/CA14V/
 - Description: pot : CA14V
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-pot-CA14V](http://oom.lt/FOOTPRINT-eagle-eagle-default-pot-CA14V)
 - Short Link: [http://oom.lt/FZEPOTCA14V](http://oom.lt/FZEPOTCA14V)

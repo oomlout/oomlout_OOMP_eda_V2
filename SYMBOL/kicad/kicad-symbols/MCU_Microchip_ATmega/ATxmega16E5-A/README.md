@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATxmega16E5-A
 - Hex ID: SZKMCUMCHIPATMEGAATXMEGA16E5A
 - Name: MCU_Microchip_ATmega : ATxmega16E5-A
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_ATmega/ATxmega16E5-A/
 - Description: MCU_Microchip_ATmega : ATxmega16E5-A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATxmega16E5-A](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATxmega16E5-A)
 - Short Link: [http://oom.lt/SZKMCUMCHIPATMEGAATXMEGA16E5A](http://oom.lt/SZKMCUMCHIPATMEGAATXMEGA16E5A)

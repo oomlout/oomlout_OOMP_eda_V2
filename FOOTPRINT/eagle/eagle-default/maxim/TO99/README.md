@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-maxim-TO99
 - Hex ID: FZEMAXIMTO99
 - Name: maxim : TO99
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/maxim/TO99/
 - Description: maxim : TO99
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-maxim-TO99](http://oom.lt/FOOTPRINT-eagle-eagle-default-maxim-TO99)
 - Short Link: [http://oom.lt/FZEMAXIMTO99](http://oom.lt/FZEMAXIMTO99)

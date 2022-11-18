@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-Texas_NDQ
 - Hex ID: FZKSOTTEXASNDQ
 - Name: Package_TO_SOT_SMD : Texas_NDQ
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/Texas_NDQ/
 - Description: Package_TO_SOT_SMD : Texas_NDQ
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-Texas_NDQ](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-Texas_NDQ)
 - Short Link: [http://oom.lt/FZKSOTTEXASNDQ](http://oom.lt/FZKSOTTEXASNDQ)

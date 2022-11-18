@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Analog_ADC-MCP3301
 - Hex ID: SZKANALOGADCMCP331
 - Name: Analog_ADC : MCP3301
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog_ADC/MCP3301/
 - Description: Analog_ADC : MCP3301
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-MCP3301](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-MCP3301)
 - Short Link: [http://oom.lt/SZKANALOGADCMCP331](http://oom.lt/SZKANALOGADCMCP331)

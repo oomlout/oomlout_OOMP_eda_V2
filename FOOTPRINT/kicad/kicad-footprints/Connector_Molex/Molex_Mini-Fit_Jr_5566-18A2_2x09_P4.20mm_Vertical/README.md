@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_Mini-Fit_Jr_5566-18A2_2x09_P4.20mm_Vertical
 - Hex ID: FZKCNMXMXMFITJR556618A22X9P42F
 - Name: Connector_Molex : Molex_Mini-Fit_Jr_5566-18A2_2x09_P4.20mm_Vertical
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_Mini-Fit_Jr_5566-18A2_2x09_P4.20mm_Vertical/
 - Description: Connector_Molex : Molex_Mini-Fit_Jr_5566-18A2_2x09_P4.20mm_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_Mini-Fit_Jr_5566-18A2_2x09_P4.20mm_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_Mini-Fit_Jr_5566-18A2_2x09_P4.20mm_Vertical)
 - Short Link: [http://oom.lt/FZKCNMXMXMFITJR556618A22X9P42F](http://oom.lt/FZKCNMXMXMFITJR556618A22X9P42F)

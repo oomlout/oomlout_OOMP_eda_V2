@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Module-NUCLEO144-F412ZG
 - Hex ID: SZKMCUMONUCLEO144F412ZG
 - Name: MCU_Module : NUCLEO144-F412ZG
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Module/NUCLEO144-F412ZG/
 - Description: MCU_Module : NUCLEO144-F412ZG
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Module-NUCLEO144-F412ZG](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Module-NUCLEO144-F412ZG)
 - Short Link: [http://oom.lt/SZKMCUMONUCLEO144F412ZG](http://oom.lt/SZKMCUMONUCLEO144F412ZG)

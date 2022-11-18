@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-memory-nec-DIL32
 - Hex ID: FZEMEMORYNECDIL32
 - Name: memory-nec : DIL32
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/memory-nec/DIL32/
 - Description: memory-nec : DIL32
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-memory-nec-DIL32](http://oom.lt/FOOTPRINT-eagle-eagle-default-memory-nec-DIL32)
 - Short Link: [http://oom.lt/FZEMEMORYNECDIL32](http://oom.lt/FZEMEMORYNECDIL32)

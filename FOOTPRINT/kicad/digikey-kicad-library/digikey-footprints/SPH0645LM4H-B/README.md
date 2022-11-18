@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SPH0645LM4H-B
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSSPH645LM4HB
 - Name: digikey-footprints : SPH0645LM4H-B
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/SPH0645LM4H-B/
 - Description: digikey-footprints : SPH0645LM4H-B
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SPH0645LM4H-B](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SPH0645LM4H-B)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSSPH645LM4HB](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSSPH645LM4HB)

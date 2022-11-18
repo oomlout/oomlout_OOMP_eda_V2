@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-buzzer-AL11P
 - Hex ID: FZEBUZZERAL11P
 - Name: buzzer : AL11P
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/buzzer/AL11P/
 - Description: buzzer : AL11P
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-buzzer-AL11P](http://oom.lt/FOOTPRINT-eagle-eagle-default-buzzer-AL11P)
 - Short Link: [http://oom.lt/FZEBUZZERAL11P](http://oom.lt/FZEBUZZERAL11P)

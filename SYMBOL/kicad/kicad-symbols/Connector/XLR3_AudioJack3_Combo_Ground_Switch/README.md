@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Connector-XLR3_AudioJack3_Combo_Ground_Switch
 - Hex ID: SZKCNXLR3AUDIOJ3COMBOGROUNDSW
 - Name: Connector : XLR3_AudioJack3_Combo_Ground_Switch
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector/XLR3_AudioJack3_Combo_Ground_Switch/
 - Description: Connector : XLR3_AudioJack3_Combo_Ground_Switch
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-XLR3_AudioJack3_Combo_Ground_Switch](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-XLR3_AudioJack3_Combo_Ground_Switch)
 - Short Link: [http://oom.lt/SZKCNXLR3AUDIOJ3COMBOGROUNDSW](http://oom.lt/SZKCNXLR3AUDIOJ3COMBOGROUNDSW)

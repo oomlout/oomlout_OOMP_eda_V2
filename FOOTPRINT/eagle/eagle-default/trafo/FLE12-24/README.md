@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-trafo-FLE12-24
 - Hex ID: FZETRAFOFLE1224
 - Name: trafo : FLE12-24
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/trafo/FLE12-24/
 - Description: trafo : FLE12-24
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-trafo-FLE12-24](http://oom.lt/FOOTPRINT-eagle-eagle-default-trafo-FLE12-24)
 - Short Link: [http://oom.lt/FZETRAFOFLE1224](http://oom.lt/FZETRAFOFLE1224)

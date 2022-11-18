@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-4xxx-14528
 - Hex ID: SZK4XXX14528
 - Name: 4xxx : 14528
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/4xxx/14528/
 - Description: 4xxx : 14528
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-4xxx-14528](http://oom.lt/SYMBOL-kicad-kicad-symbols-4xxx-14528)
 - Short Link: [http://oom.lt/SZK4XXX14528](http://oom.lt/SZK4XXX14528)

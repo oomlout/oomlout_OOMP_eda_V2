@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-pc-PCI-E_SLOT
 - Hex ID: FZECONPCPCIESLOT
 - Name: con-pc : PCI-E_SLOT
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-pc/PCI-E_SLOT/
 - Description: con-pc : PCI-E_SLOT
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-pc-PCI-E_SLOT](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-pc-PCI-E_SLOT)
 - Short Link: [http://oom.lt/FZECONPCPCIESLOT](http://oom.lt/FZECONPCPCIESLOT)

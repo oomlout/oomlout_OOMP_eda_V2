@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-SOD-123
 - Hex ID: FZASOD123
 - Name: adafruit : SOD-123
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/SOD-123/
 - Description: adafruit : SOD-123
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-SOD-123](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-SOD-123)
 - Short Link: [http://oom.lt/FZASOD123](http://oom.lt/FZASOD123)

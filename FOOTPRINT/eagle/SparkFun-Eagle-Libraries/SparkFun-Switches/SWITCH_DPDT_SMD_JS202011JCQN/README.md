@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Switches-SWITCH_DPDT_SMD_JS202011JCQN
 - Hex ID: FZSWSWDPDTSMJS2211JCQN
 - Name: SparkFun-Switches : SWITCH_DPDT_SMD_JS202011JCQN
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Switches/SWITCH_DPDT_SMD_JS202011JCQN/
 - Description: SparkFun-Switches : SWITCH_DPDT_SMD_JS202011JCQN
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Switches-SWITCH_DPDT_SMD_JS202011JCQN](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Switches-SWITCH_DPDT_SMD_JS202011JCQN)
 - Short Link: [http://oom.lt/FZSWSWDPDTSMJS2211JCQN](http://oom.lt/FZSWSWDPDTSMJS2211JCQN)

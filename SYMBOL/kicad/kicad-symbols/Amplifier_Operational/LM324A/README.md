@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LM324A
 - Hex ID: SZKAMPLIFIEROPERATIONALLM324A
 - Name: Amplifier_Operational : LM324A
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/LM324A/
 - Description: Amplifier_Operational : LM324A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LM324A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LM324A)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALLM324A](http://oom.lt/SZKAMPLIFIEROPERATIONALLM324A)

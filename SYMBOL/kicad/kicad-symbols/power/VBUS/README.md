@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-power-VBUS
 - Hex ID: SZKPOWERVBUS
 - Name: power : VBUS
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/power/VBUS/
 - Description: power : VBUS
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-power-VBUS](http://oom.lt/SYMBOL-kicad-kicad-symbols-power-VBUS)
 - Short Link: [http://oom.lt/SZKPOWERVBUS](http://oom.lt/SZKPOWERVBUS)

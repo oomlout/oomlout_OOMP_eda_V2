@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-dc-dc-converter-PWR1726
 - Hex ID: FZEDCDCCONVERTERPWR1726
 - Name: dc-dc-converter : PWR1726
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/dc-dc-converter/PWR1726/
 - Description: dc-dc-converter : PWR1726
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-dc-dc-converter-PWR1726](http://oom.lt/FOOTPRINT-eagle-eagle-default-dc-dc-converter-PWR1726)
 - Short Link: [http://oom.lt/FZEDCDCCONVERTERPWR1726](http://oom.lt/FZEDCDCCONVERTERPWR1726)

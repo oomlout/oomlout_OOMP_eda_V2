@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-SW_SPST_Omron_B3FS-100xP
 - Hex ID: FZKBSWSPSTOMRONB3FS1XP
 - Name: Button_Switch_SMD : SW_SPST_Omron_B3FS-100xP
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Button_Switch_SMD/SW_SPST_Omron_B3FS-100xP/
 - Description: Button_Switch_SMD : SW_SPST_Omron_B3FS-100xP
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-SW_SPST_Omron_B3FS-100xP](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-SW_SPST_Omron_B3FS-100xP)
 - Short Link: [http://oom.lt/FZKBSWSPSTOMRONB3FS1XP](http://oom.lt/FZKBSWSPSTOMRONB3FS1XP)

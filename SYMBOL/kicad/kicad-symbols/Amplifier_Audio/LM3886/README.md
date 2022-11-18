@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Audio-LM3886
 - Hex ID: SZKAMPLIFIERAUDIOLM3886
 - Name: Amplifier_Audio : LM3886
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Audio/LM3886/
 - Description: Amplifier_Audio : LM3886
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Audio-LM3886](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Audio-LM3886)
 - Short Link: [http://oom.lt/SZKAMPLIFIERAUDIOLM3886](http://oom.lt/SZKAMPLIFIERAUDIOLM3886)

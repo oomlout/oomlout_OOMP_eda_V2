@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-TT5D11L
 - Hex ID: FZATT5D11L
 - Name: adafruit : TT5D11L
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/TT5D11L/
 - Description: adafruit : TT5D11L
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-TT5D11L](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-TT5D11L)
 - Short Link: [http://oom.lt/FZATT5D11L](http://oom.lt/FZATT5D11L)

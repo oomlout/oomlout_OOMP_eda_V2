@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Power_Management-FPF2007
 - Hex ID: SZKPOWERMANAGEMENTFPF27
 - Name: Power_Management : FPF2007
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Power_Management/FPF2007/
 - Description: Power_Management : FPF2007
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-FPF2007](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-FPF2007)
 - Short Link: [http://oom.lt/SZKPOWERMANAGEMENTFPF27](http://oom.lt/SZKPOWERMANAGEMENTFPF27)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-LT1129-ADJ_SO8
 - Hex ID: SZKREGULATORLINEARLT1129ADJSO8
 - Name: Regulator_Linear : LT1129-ADJ_SO8
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LT1129-ADJ_SO8/
 - Description: Regulator_Linear : LT1129-ADJ_SO8
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LT1129-ADJ_SO8](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LT1129-ADJ_SO8)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARLT1129ADJSO8](http://oom.lt/SZKREGULATORLINEARLT1129ADJSO8)

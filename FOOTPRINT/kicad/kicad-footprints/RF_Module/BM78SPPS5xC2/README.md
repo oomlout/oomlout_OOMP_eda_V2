@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-RF_Module-BM78SPPS5xC2
 - Hex ID: FZKRFMOBM78SPPS5XC2
 - Name: RF_Module : BM78SPPS5xC2
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/RF_Module/BM78SPPS5xC2/
 - Description: RF_Module : BM78SPPS5xC2
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_Module-BM78SPPS5xC2](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_Module-BM78SPPS5xC2)
 - Short Link: [http://oom.lt/FZKRFMOBM78SPPS5XC2](http://oom.lt/FZKRFMOBM78SPPS5XC2)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Device-LED_RGB_EP
 - Hex ID: SZKDEVICELRGBEP
 - Name: Device : LED_RGB_EP
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/LED_RGB_EP/
 - Description: Device : LED_RGB_EP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-LED_RGB_EP](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-LED_RGB_EP)
 - Short Link: [http://oom.lt/SZKDEVICELRGBEP](http://oom.lt/SZKDEVICELRGBEP)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-st-microelectronics-DIL24S
 - Hex ID: FZESTMELECTRONICSDIL24S
 - Name: st-microelectronics : DIL24S
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/st-microelectronics/DIL24S/
 - Description: st-microelectronics : DIL24S
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-st-microelectronics-DIL24S](http://oom.lt/FOOTPRINT-eagle-eagle-default-st-microelectronics-DIL24S)
 - Short Link: [http://oom.lt/FZESTMELECTRONICSDIL24S](http://oom.lt/FZESTMELECTRONICSDIL24S)

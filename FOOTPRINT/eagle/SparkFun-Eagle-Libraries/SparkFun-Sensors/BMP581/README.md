@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-BMP581
 - Hex ID: FZSSPARKFUNSENSBMP581
 - Name: SparkFun-Sensors : BMP581
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Sensors/BMP581/
 - Description: SparkFun-Sensors : BMP581
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-BMP581](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-BMP581)
 - Short Link: [http://oom.lt/FZSSPARKFUNSENSBMP581](http://oom.lt/FZSSPARKFUNSENSBMP581)

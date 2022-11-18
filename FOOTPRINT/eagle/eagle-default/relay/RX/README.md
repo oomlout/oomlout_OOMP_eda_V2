@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-relay-RX
 - Hex ID: FZERELAYRX
 - Name: relay : RX
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/relay/RX/
 - Description: relay : RX
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-RX](http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-RX)
 - Short Link: [http://oom.lt/FZERELAYRX](http://oom.lt/FZERELAYRX)

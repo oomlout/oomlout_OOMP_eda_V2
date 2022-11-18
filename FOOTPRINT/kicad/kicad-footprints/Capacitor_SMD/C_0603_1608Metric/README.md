@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0603_1608Metric
 - Hex ID: FZKCC63168VA
 - Name: Capacitor_SMD : C_0603_1608Metric
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Capacitor_SMD/C_0603_1608Metric/
 - Description: Capacitor_SMD : C_0603_1608Metric
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0603_1608Metric](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0603_1608Metric)
 - Short Link: [http://oom.lt/FZKCC63168VA](http://oom.lt/FZKCC63168VA)

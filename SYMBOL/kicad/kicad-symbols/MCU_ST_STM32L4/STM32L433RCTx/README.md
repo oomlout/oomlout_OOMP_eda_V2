@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_ST_STM32L4-STM32L433RCTx
 - Hex ID: SZKMCUSTSTM32L4STM32L433RCTX
 - Name: MCU_ST_STM32L4 : STM32L433RCTx
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32L4/STM32L433RCTx/
 - Description: MCU_ST_STM32L4 : STM32L433RCTx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32L4-STM32L433RCTx](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32L4-STM32L433RCTx)
 - Short Link: [http://oom.lt/SZKMCUSTSTM32L4STM32L433RCTX](http://oom.lt/SZKMCUSTSTM32L4STM32L433RCTX)

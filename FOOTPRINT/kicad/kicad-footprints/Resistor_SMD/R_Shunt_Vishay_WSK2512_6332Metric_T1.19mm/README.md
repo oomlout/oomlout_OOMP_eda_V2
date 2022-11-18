@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_Shunt_Vishay_WSK2512_6332Metric_T1.19mm
 - Hex ID: FZKRRSHUNTVISHAYWSK25126332VAT119
 - Name: Resistor_SMD : R_Shunt_Vishay_WSK2512_6332Metric_T1.19mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_Shunt_Vishay_WSK2512_6332Metric_T1.19mm/
 - Description: Resistor_SMD : R_Shunt_Vishay_WSK2512_6332Metric_T1.19mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_Shunt_Vishay_WSK2512_6332Metric_T1.19mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_Shunt_Vishay_WSK2512_6332Metric_T1.19mm)
 - Short Link: [http://oom.lt/FZKRRSHUNTVISHAYWSK25126332VAT119](http://oom.lt/FZKRRSHUNTVISHAYWSK25126332VAT119)

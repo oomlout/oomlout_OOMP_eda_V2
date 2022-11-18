@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-relay-AQE
 - Hex ID: FZERELAYAQE
 - Name: relay : AQE
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/relay/AQE/
 - Description: relay : AQE
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-AQE](http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-AQE)
 - Short Link: [http://oom.lt/FZERELAYAQE](http://oom.lt/FZERELAYAQE)

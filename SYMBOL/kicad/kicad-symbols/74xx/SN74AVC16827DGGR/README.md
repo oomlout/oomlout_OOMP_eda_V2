@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-74xx-SN74AVC16827DGGR
 - Hex ID: SZK74XXSN74AVC16827DGGR
 - Name: 74xx : SN74AVC16827DGGR
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/74xx/SN74AVC16827DGGR/
 - Description: 74xx : SN74AVC16827DGGR
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-74xx-SN74AVC16827DGGR](http://oom.lt/SYMBOL-kicad-kicad-symbols-74xx-SN74AVC16827DGGR)
 - Short Link: [http://oom.lt/SZK74XXSN74AVC16827DGGR](http://oom.lt/SZK74XXSN74AVC16827DGGR)

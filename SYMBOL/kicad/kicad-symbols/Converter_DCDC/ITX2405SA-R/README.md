@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Converter_DCDC-ITX2405SA-R
 - Hex ID: SZKCONITX245SAR
 - Name: Converter_DCDC : ITX2405SA-R
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Converter_DCDC/ITX2405SA-R/
 - Description: Converter_DCDC : ITX2405SA-R
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-ITX2405SA-R](http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-ITX2405SA-R)
 - Short Link: [http://oom.lt/SZKCONITX245SAR](http://oom.lt/SZKCONITX245SAR)

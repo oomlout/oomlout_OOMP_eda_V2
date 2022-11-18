@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-I01-X-PI09-01-H09
 - Hex ID: FZOOMPKOOMPPHEADI1XPI91H9
 - Name: oomlout_OOMP_parts : HEAD-I01-X-PI09-01-H09
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/HEAD-I01-X-PI09-01-H09/
 - Description: oomlout_OOMP_parts : HEAD-I01-X-PI09-01-H09
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-I01-X-PI09-01-H09](http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-I01-X-PI09-01-H09)
 - Short Link: [http://oom.lt/FZOOMPKOOMPPHEADI1XPI91H9](http://oom.lt/FZOOMPKOOMPPHEADI1XPI91H9)

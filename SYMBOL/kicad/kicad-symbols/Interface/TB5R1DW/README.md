@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface-TB5R1DW
 - Hex ID: SZKINTERFACETB5R1DW
 - Name: Interface : TB5R1DW
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface/TB5R1DW/
 - Description: Interface : TB5R1DW
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-TB5R1DW](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-TB5R1DW)
 - Short Link: [http://oom.lt/SZKINTERFACETB5R1DW](http://oom.lt/SZKINTERFACETB5R1DW)

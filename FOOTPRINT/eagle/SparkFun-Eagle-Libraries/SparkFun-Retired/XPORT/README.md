@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-XPORT
 - Hex ID: FZSRTXPORT
 - Name: SparkFun-Retired : XPORT
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Retired/XPORT/
 - Description: SparkFun-Retired : XPORT
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-XPORT](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-XPORT)
 - Short Link: [http://oom.lt/FZSRTXPORT](http://oom.lt/FZSRTXPORT)

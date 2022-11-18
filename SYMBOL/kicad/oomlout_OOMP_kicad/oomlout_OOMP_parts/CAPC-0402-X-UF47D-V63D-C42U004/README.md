@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0402-X-UF47D-V63D-C42U004
 - Hex ID: SZOOMPKOOMPPCAPC42XUF47DV63DC42U4
 - Name: oomlout_OOMP_parts : CAPC-0402-X-UF47D-V63D-C42U004
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/CAPC-0402-X-UF47D-V63D-C42U004/
 - Description: oomlout_OOMP_parts : CAPC-0402-X-UF47D-V63D-C42U004
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0402-X-UF47D-V63D-C42U004](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0402-X-UF47D-V63D-C42U004)
 - Short Link: [http://oom.lt/SZOOMPKOOMPPCAPC42XUF47DV63DC42U4](http://oom.lt/SZOOMPKOOMPPCAPC42XUF47DV63DC42U4)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-micro-renesas-P-LFQFP80-12X12
 - Hex ID: FZEMRENESASPLFQFP812X12
 - Name: micro-renesas : P-LFQFP80-12X12
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/micro-renesas/P-LFQFP80-12X12/
 - Description: micro-renesas : P-LFQFP80-12X12
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-renesas-P-LFQFP80-12X12](http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-renesas-P-LFQFP80-12X12)
 - Short Link: [http://oom.lt/FZEMRENESASPLFQFP812X12](http://oom.lt/FZEMRENESASPLFQFP812X12)

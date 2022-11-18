@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-XC6210B332MR
 - Hex ID: SZKREGULATORLINEARXC621B332MR
 - Name: Regulator_Linear : XC6210B332MR
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/XC6210B332MR/
 - Description: Regulator_Linear : XC6210B332MR
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-XC6210B332MR](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-XC6210B332MR)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARXC621B332MR](http://oom.lt/SZKREGULATORLINEARXC621B332MR)

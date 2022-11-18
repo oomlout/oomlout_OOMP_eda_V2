@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-ADP7142AUJZ
 - Hex ID: SZKREGULATORLINEARADP7142AUJZ
 - Name: Regulator_Linear : ADP7142AUJZ
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/ADP7142AUJZ/
 - Description: Regulator_Linear : ADP7142AUJZ
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-ADP7142AUJZ](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-ADP7142AUJZ)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARADP7142AUJZ](http://oom.lt/SZKREGULATORLINEARADP7142AUJZ)

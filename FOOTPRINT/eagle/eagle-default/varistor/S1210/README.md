@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-varistor-S1210
 - Hex ID: FZEVS121
 - Name: varistor : S1210
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/varistor/S1210/
 - Description: varistor : S1210
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-varistor-S1210](http://oom.lt/FOOTPRINT-eagle-eagle-default-varistor-S1210)
 - Short Link: [http://oom.lt/FZEVS121](http://oom.lt/FZEVS121)

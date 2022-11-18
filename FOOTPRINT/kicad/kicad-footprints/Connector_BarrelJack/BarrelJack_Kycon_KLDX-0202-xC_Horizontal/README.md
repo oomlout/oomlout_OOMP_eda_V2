@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_BarrelJack-BarrelJack_Kycon_KLDX-0202-xC_Horizontal
 - Hex ID: FZKCNBARRELJBARRELJKYCONKLDX22XCH
 - Name: Connector_BarrelJack : BarrelJack_Kycon_KLDX-0202-xC_Horizontal
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_BarrelJack/BarrelJack_Kycon_KLDX-0202-xC_Horizontal/
 - Description: Connector_BarrelJack : BarrelJack_Kycon_KLDX-0202-xC_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_BarrelJack-BarrelJack_Kycon_KLDX-0202-xC_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_BarrelJack-BarrelJack_Kycon_KLDX-0202-xC_Horizontal)
 - Short Link: [http://oom.lt/FZKCNBARRELJBARRELJKYCONKLDX22XCH](http://oom.lt/FZKCNBARRELJBARRELJKYCONKLDX22XCH)

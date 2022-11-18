@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_RGB_1210
 - Hex ID: FZKLLRGB121
 - Name: LED_SMD : LED_RGB_1210
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_RGB_1210/
 - Description: LED_SMD : LED_RGB_1210
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_RGB_1210](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_RGB_1210)
 - Short Link: [http://oom.lt/FZKLLRGB121](http://oom.lt/FZKLLRGB121)

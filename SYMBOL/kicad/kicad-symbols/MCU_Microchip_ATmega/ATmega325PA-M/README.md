@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega325PA-M
 - Hex ID: SZKMCUMCHIPATMEGAATMEGA325PAM
 - Name: MCU_Microchip_ATmega : ATmega325PA-M
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_ATmega/ATmega325PA-M/
 - Description: MCU_Microchip_ATmega : ATmega325PA-M
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega325PA-M](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega325PA-M)
 - Short Link: [http://oom.lt/SZKMCUMCHIPATMEGAATMEGA325PAM](http://oom.lt/SZKMCUMCHIPATMEGAATMEGA325PAM)

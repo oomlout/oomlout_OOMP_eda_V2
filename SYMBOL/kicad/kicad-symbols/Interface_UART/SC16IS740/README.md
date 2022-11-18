@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_UART-SC16IS740
 - Hex ID: SZKINTERFACEUARTSC16IS74
 - Name: Interface_UART : SC16IS740
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_UART/SC16IS740/
 - Description: Interface_UART : SC16IS740
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_UART-SC16IS740](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_UART-SC16IS740)
 - Short Link: [http://oom.lt/SZKINTERFACEUARTSC16IS74](http://oom.lt/SZKINTERFACEUARTSC16IS74)

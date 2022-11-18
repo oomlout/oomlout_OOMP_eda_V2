@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Converter_ACDC-Converter_ACDC_MeanWell_IRM-02-xx_SMD
 - Hex ID: FZKCONCONMEANWELLIRM2XXSM
 - Name: Converter_ACDC : Converter_ACDC_MeanWell_IRM-02-xx_SMD
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Converter_ACDC/Converter_ACDC_MeanWell_IRM-02-xx_SMD/
 - Description: Converter_ACDC : Converter_ACDC_MeanWell_IRM-02-xx_SMD
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Converter_ACDC-Converter_ACDC_MeanWell_IRM-02-xx_SMD](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Converter_ACDC-Converter_ACDC_MeanWell_IRM-02-xx_SMD)
 - Short Link: [http://oom.lt/FZKCONCONMEANWELLIRM2XXSM](http://oom.lt/FZKCONCONMEANWELLIRM2XXSM)

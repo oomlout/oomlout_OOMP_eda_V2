@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Connector-HDMI_C_1.4
 - Hex ID: SZKCNHDMIC14
 - Name: Connector : HDMI_C_1.4
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector/HDMI_C_1.4/
 - Description: Connector : HDMI_C_1.4
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-HDMI_C_1.4](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-HDMI_C_1.4)
 - Short Link: [http://oom.lt/SZKCNHDMIC14](http://oom.lt/SZKCNHDMIC14)

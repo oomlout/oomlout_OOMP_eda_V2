@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_SwitchedCapacitor-ICL7660
 - Hex ID: SZKREGULATORSWEDCAPACITORICL766
 - Name: Regulator_SwitchedCapacitor : ICL7660
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_SwitchedCapacitor/ICL7660/
 - Description: Regulator_SwitchedCapacitor : ICL7660
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_SwitchedCapacitor-ICL7660](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_SwitchedCapacitor-ICL7660)
 - Short Link: [http://oom.lt/SZKREGULATORSWEDCAPACITORICL766](http://oom.lt/SZKREGULATORSWEDCAPACITORICL766)

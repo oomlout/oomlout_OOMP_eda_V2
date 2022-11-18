@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Switches-STOMP_SWITCH_3PDT
 - Hex ID: FZSWSTOMPSW3PDT
 - Name: SparkFun-Switches : STOMP_SWITCH_3PDT
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Switches/STOMP_SWITCH_3PDT/
 - Description: SparkFun-Switches : STOMP_SWITCH_3PDT
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Switches-STOMP_SWITCH_3PDT](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Switches-STOMP_SWITCH_3PDT)
 - Short Link: [http://oom.lt/FZSWSTOMPSW3PDT](http://oom.lt/FZSWSTOMPSW3PDT)

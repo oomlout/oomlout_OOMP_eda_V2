@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-con-yamaichi-SSV-BC05
 - Hex ID: FZECONYAMAICHISSVBC5
 - Name: con-yamaichi : SSV-BC05
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-yamaichi/SSV-BC05/
 - Description: con-yamaichi : SSV-BC05
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-yamaichi-SSV-BC05](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-yamaichi-SSV-BC05)
 - Short Link: [http://oom.lt/FZECONYAMAICHISSVBC5](http://oom.lt/FZECONYAMAICHISSVBC5)

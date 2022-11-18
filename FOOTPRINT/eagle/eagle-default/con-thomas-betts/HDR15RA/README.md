@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-thomas-betts-HDR15RA
 - Hex ID: FZECONTHOMASBETTSHDR15RA
 - Name: con-thomas-betts : HDR15RA
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-thomas-betts/HDR15RA/
 - Description: con-thomas-betts : HDR15RA
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-thomas-betts-HDR15RA](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-thomas-betts-HDR15RA)
 - Short Link: [http://oom.lt/FZECONTHOMASBETTSHDR15RA](http://oom.lt/FZECONTHOMASBETTSHDR15RA)

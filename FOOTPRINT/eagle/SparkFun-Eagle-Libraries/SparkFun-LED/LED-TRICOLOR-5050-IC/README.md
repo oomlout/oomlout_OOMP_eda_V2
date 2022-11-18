@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-LED-LED-TRICOLOR-5050-IC
 - Hex ID: FZSLLTRICOLOR55IC
 - Name: SparkFun-LED : LED-TRICOLOR-5050-IC
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-LED/LED-TRICOLOR-5050-IC/
 - Description: SparkFun-LED : LED-TRICOLOR-5050-IC
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-LED-LED-TRICOLOR-5050-IC](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-LED-LED-TRICOLOR-5050-IC)
 - Short Link: [http://oom.lt/FZSLLTRICOLOR55IC](http://oom.lt/FZSLLTRICOLOR55IC)

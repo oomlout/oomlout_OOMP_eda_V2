@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-relay-AQG
 - Hex ID: FZERELAYAQG
 - Name: relay : AQG
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/relay/AQG/
 - Description: relay : AQG
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-AQG](http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-AQG)
 - Short Link: [http://oom.lt/FZERELAYAQG](http://oom.lt/FZERELAYAQG)

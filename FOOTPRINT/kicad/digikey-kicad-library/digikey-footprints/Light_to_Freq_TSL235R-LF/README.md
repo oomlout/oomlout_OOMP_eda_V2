@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Light_to_Freq_TSL235R-LF
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSLIGHTTOFREQTSL235RLF
 - Name: digikey-footprints : Light_to_Freq_TSL235R-LF
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Light_to_Freq_TSL235R-LF/
 - Description: digikey-footprints : Light_to_Freq_TSL235R-LF
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Light_to_Freq_TSL235R-LF](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Light_to_Freq_TSL235R-LF)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSLIGHTTOFREQTSL235RLF](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSLIGHTTOFREQTSL235RLF)

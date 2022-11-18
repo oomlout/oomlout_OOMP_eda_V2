@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-RJ9
 - Hex ID: FZSRTRJ9
 - Name: SparkFun-Retired : RJ9
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Retired/RJ9/
 - Description: SparkFun-Retired : RJ9
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-RJ9](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-RJ9)
 - Short Link: [http://oom.lt/FZSRTRJ9](http://oom.lt/FZSRTRJ9)

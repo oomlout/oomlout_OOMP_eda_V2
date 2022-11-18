@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-12-STRIP
 - Hex ID: FZA12STRIP
 - Name: adafruit : 12-STRIP
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/12-STRIP/
 - Description: adafruit : 12-STRIP
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-12-STRIP](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-12-STRIP)
 - Short Link: [http://oom.lt/FZA12STRIP](http://oom.lt/FZA12STRIP)

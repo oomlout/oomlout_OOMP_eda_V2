@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Converter_DCDC-Converter_DCDC_Artesyn_ATA_SMD
 - Hex ID: FZKCONCONARTESYNATASM
 - Name: Converter_DCDC : Converter_DCDC_Artesyn_ATA_SMD
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Converter_DCDC/Converter_DCDC_Artesyn_ATA_SMD/
 - Description: Converter_DCDC : Converter_DCDC_Artesyn_ATA_SMD
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Converter_DCDC-Converter_DCDC_Artesyn_ATA_SMD](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Converter_DCDC-Converter_DCDC_Artesyn_ATA_SMD)
 - Short Link: [http://oom.lt/FZKCONCONARTESYNATASM](http://oom.lt/FZKCONCONARTESYNATASM)

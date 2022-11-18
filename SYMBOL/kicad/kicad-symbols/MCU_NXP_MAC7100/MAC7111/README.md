@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_NXP_MAC7100-MAC7111
 - Hex ID: SZKMCUNXPMAC71MAC7111
 - Name: MCU_NXP_MAC7100 : MAC7111
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_NXP_MAC7100/MAC7111/
 - Description: MCU_NXP_MAC7100 : MAC7111
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_NXP_MAC7100-MAC7111](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_NXP_MAC7100-MAC7111)
 - Short Link: [http://oom.lt/SZKMCUNXPMAC71MAC7111](http://oom.lt/SZKMCUNXPMAC71MAC7111)

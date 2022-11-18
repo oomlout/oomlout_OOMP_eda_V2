@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Wuerth_HCM-1070
 - Hex ID: FZKINLWUERTHHCM17
 - Name: Inductor_SMD : L_Wuerth_HCM-1070
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Wuerth_HCM-1070/
 - Description: Inductor_SMD : L_Wuerth_HCM-1070
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Wuerth_HCM-1070](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Wuerth_HCM-1070)
 - Short Link: [http://oom.lt/FZKINLWUERTHHCM17](http://oom.lt/FZKINLWUERTHHCM17)

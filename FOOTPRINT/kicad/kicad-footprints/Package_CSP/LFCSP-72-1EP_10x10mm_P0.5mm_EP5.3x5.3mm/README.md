@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_CSP-LFCSP-72-1EP_10x10mm_P0.5mm_EP5.3x5.3mm
 - Hex ID: FZKCSPLFCSP721EP1X1P5EP53X53
 - Name: Package_CSP : LFCSP-72-1EP_10x10mm_P0.5mm_EP5.3x5.3mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_CSP/LFCSP-72-1EP_10x10mm_P0.5mm_EP5.3x5.3mm/
 - Description: Package_CSP : LFCSP-72-1EP_10x10mm_P0.5mm_EP5.3x5.3mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_CSP-LFCSP-72-1EP_10x10mm_P0.5mm_EP5.3x5.3mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_CSP-LFCSP-72-1EP_10x10mm_P0.5mm_EP5.3x5.3mm)
 - Short Link: [http://oom.lt/FZKCSPLFCSP721EP1X1P5EP53X53](http://oom.lt/FZKCSPLFCSP721EP1X1P5EP53X53)

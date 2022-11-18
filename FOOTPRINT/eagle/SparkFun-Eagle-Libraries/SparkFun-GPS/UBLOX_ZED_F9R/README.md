@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-GPS-UBLOX_ZED_F9R
 - Hex ID: FZSGUBLOXZEDF9R
 - Name: SparkFun-GPS : UBLOX_ZED_F9R
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-GPS/UBLOX_ZED_F9R/
 - Description: SparkFun-GPS : UBLOX_ZED_F9R
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-GPS-UBLOX_ZED_F9R](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-GPS-UBLOX_ZED_F9R)
 - Short Link: [http://oom.lt/FZSGUBLOXZEDF9R](http://oom.lt/FZSGUBLOXZEDF9R)

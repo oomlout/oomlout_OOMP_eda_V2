@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-PMEG6030EP
 - Hex ID: SZKDIODEPMEG63EP
 - Name: Diode : PMEG6030EP
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/PMEG6030EP/
 - Description: Diode : PMEG6030EP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-PMEG6030EP](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-PMEG6030EP)
 - Short Link: [http://oom.lt/SZKDIODEPMEG63EP](http://oom.lt/SZKDIODEPMEG63EP)

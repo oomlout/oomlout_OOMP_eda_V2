@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_UART-SC16IS752IPW
 - Hex ID: SZKINTERFACEUARTSC16IS752IPW
 - Name: Interface_UART : SC16IS752IPW
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_UART/SC16IS752IPW/
 - Description: Interface_UART : SC16IS752IPW
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_UART-SC16IS752IPW](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_UART-SC16IS752IPW)
 - Short Link: [http://oom.lt/SZKINTERFACEUARTSC16IS752IPW](http://oom.lt/SZKINTERFACEUARTSC16IS752IPW)

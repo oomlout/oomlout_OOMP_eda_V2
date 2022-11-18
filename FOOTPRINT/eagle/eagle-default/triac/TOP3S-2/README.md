@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-triac-TOP3S-2
 - Hex ID: FZETRIACTOP3S2
 - Name: triac : TOP3S-2
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/triac/TOP3S-2/
 - Description: triac : TOP3S-2
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-triac-TOP3S-2](http://oom.lt/FOOTPRINT-eagle-eagle-default-triac-TOP3S-2)
 - Short Link: [http://oom.lt/FZETRIACTOP3S2](http://oom.lt/FZETRIACTOP3S2)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Audio-AS3340
 - Hex ID: SZKAUDIOAS334
 - Name: Audio : AS3340
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Audio/AS3340/
 - Description: Audio : AS3340
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Audio-AS3340](http://oom.lt/SYMBOL-kicad-kicad-symbols-Audio-AS3340)
 - Short Link: [http://oom.lt/SZKAUDIOAS334](http://oom.lt/SZKAUDIOAS334)

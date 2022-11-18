@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-motorola-sensor-driver-SO08
 - Hex ID: FZEMOTOROLASENDRIVERSO8
 - Name: motorola-sensor-driver : SO08
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/motorola-sensor-driver/SO08/
 - Description: motorola-sensor-driver : SO08
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-motorola-sensor-driver-SO08](http://oom.lt/FOOTPRINT-eagle-eagle-default-motorola-sensor-driver-SO08)
 - Short Link: [http://oom.lt/FZEMOTOROLASENDRIVERSO8](http://oom.lt/FZEMOTOROLASENDRIVERSO8)

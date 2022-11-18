@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-BUTA-06-X-PI02-01-BT62
 - Hex ID: SZOOMPKOOMPPBUTA6XPI21BT62
 - Name: oomlout_OOMP_parts : BUTA-06-X-PI02-01-BT62
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/BUTA-06-X-PI02-01-BT62/
 - Description: oomlout_OOMP_parts : BUTA-06-X-PI02-01-BT62
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-BUTA-06-X-PI02-01-BT62](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-BUTA-06-X-PI02-01-BT62)
 - Short Link: [http://oom.lt/SZOOMPKOOMPPBUTA6XPI21BT62](http://oom.lt/SZOOMPKOOMPPBUTA6XPI21BT62)

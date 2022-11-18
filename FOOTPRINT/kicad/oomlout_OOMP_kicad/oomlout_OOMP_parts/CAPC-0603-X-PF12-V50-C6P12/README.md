@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0603-X-PF12-V50-C6P12
 - Hex ID: FZOOMPKOOMPPCAPC63XPF12V5C6P12
 - Name: oomlout_OOMP_parts : CAPC-0603-X-PF12-V50-C6P12
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/CAPC-0603-X-PF12-V50-C6P12/
 - Description: oomlout_OOMP_parts : CAPC-0603-X-PF12-V50-C6P12
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0603-X-PF12-V50-C6P12](http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0603-X-PF12-V50-C6P12)
 - Short Link: [http://oom.lt/FZOOMPKOOMPPCAPC63XPF12V5C6P12](http://oom.lt/FZOOMPKOOMPPCAPC63XPF12V5C6P12)

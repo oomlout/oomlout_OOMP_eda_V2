@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-LED-QLS6A-FKW
 - Hex ID: SZKLQLS6AFKW
 - Name: LED : QLS6A-FKW
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/LED/QLS6A-FKW/
 - Description: LED : QLS6A-FKW
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-LED-QLS6A-FKW](http://oom.lt/SYMBOL-kicad-kicad-symbols-LED-QLS6A-FKW)
 - Short Link: [http://oom.lt/SZKLQLS6AFKW](http://oom.lt/SZKLQLS6AFKW)

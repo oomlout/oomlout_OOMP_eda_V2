@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny806-S
 - Hex ID: SZKMCUMCHIPATTINYATTINY86S
 - Name: MCU_Microchip_ATtiny : ATtiny806-S
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_ATtiny/ATtiny806-S/
 - Description: MCU_Microchip_ATtiny : ATtiny806-S
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny806-S](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny806-S)
 - Short Link: [http://oom.lt/SZKMCUMCHIPATTINYATTINY86S](http://oom.lt/SZKMCUMCHIPATTINYATTINY86S)

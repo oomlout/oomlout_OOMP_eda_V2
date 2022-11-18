@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_CAN_LIN-ADM3053
 - Hex ID: SZKINTERFACECANLINADM353
 - Name: Interface_CAN_LIN : ADM3053
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_CAN_LIN/ADM3053/
 - Description: Interface_CAN_LIN : ADM3053
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_CAN_LIN-ADM3053](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_CAN_LIN-ADM3053)
 - Short Link: [http://oom.lt/SZKINTERFACECANLINADM353](http://oom.lt/SZKINTERFACECANLINADM353)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-micro-siemens-PDSO_20-9
 - Hex ID: FZEMSIEMENSPDSO29
 - Name: micro-siemens : PDSO_20-9
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/micro-siemens/PDSO_20-9/
 - Description: micro-siemens : PDSO_20-9
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-siemens-PDSO_20-9](http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-siemens-PDSO_20-9)
 - Short Link: [http://oom.lt/FZEMSIEMENSPDSO29](http://oom.lt/FZEMSIEMENSPDSO29)

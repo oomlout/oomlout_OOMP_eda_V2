@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZEBURRBROWNSOT235 > burr-brown : SOT23-5](#fzeburrbrownsot235--burr-brown--sot23-5)
+* [FZEBURRBRNSOT235 > burr-brown : SOT23-5](#fzeburrbrnsot235--burr-brown--sot23-5)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZEBURRBROWNSOT235 > burr-brown : SOT23-5
+# FZEBURRBRNSOT235 > burr-brown : SOT23-5
 
 - ID: FOOTPRINT-eagle-eagle-default-burr-brown-SOT23-5
-- Hex ID: FZEBURRBROWNSOT235
+- Hex ID: FZEBURRBRNSOT235
 - Name: burr-brown : SOT23-5
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/burr-brown/SOT23-5/
 - Description: burr-brown : SOT23-5
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-burr-brown-SOT23-5](http://oom.lt/FOOTPRINT-eagle-eagle-default-burr-brown-SOT23-5)
-- Short Link: [http://oom.lt/FZEBURRBROWNSOT235](http://oom.lt/FZEBURRBROWNSOT235)
+- Short Link: [http://oom.lt/FZEBURRBRNSOT235](http://oom.lt/FZEBURRBRNSOT235)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|burr-brown|
 |OOMP Index|oompIndex|SOT23-5|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-burr-brown-SOT23-5|
-|Hex ID (short code)|hexID|FZEBURRBROWNSOT235|
+|Hex ID (short code)|hexID|FZEBURRBRNSOT235|
 |name|name|burr-brown : SOT23-5|
 ||||
 

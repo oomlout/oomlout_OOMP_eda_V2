@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Isolator-H11AA1
 - Hex ID: SZKISOLATORH11AA1
 - Name: Isolator : H11AA1
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Isolator/H11AA1/
 - Description: Isolator : H11AA1
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-H11AA1](http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-H11AA1)
 - Short Link: [http://oom.lt/SZKISOLATORH11AA1](http://oom.lt/SZKISOLATORH11AA1)

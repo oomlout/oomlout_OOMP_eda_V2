@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-relay-RT1-BI
 - Hex ID: FZERELAYRT1BI
 - Name: relay : RT1-BI
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/relay/RT1-BI/
 - Description: relay : RT1-BI
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-RT1-BI](http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-RT1-BI)
 - Short Link: [http://oom.lt/FZERELAYRT1BI](http://oom.lt/FZERELAYRT1BI)

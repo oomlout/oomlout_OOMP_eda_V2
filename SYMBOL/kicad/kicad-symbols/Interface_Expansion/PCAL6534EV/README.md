@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-Interface_Expansion-PCAL6534EV
 - Hex ID: SZKINTERFACEEXPANSIONPCAL6534EV
 - Name: Interface_Expansion : PCAL6534EV
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_Expansion/PCAL6534EV/
 - Description: Interface_Expansion : PCAL6534EV
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Expansion-PCAL6534EV](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Expansion-PCAL6534EV)
 - Short Link: [http://oom.lt/SZKINTERFACEEXPANSIONPCAL6534EV](http://oom.lt/SZKINTERFACEEXPANSIONPCAL6534EV)

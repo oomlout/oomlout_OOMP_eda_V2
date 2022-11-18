@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-commcon-1295-150
 - Hex ID: FZECONCOCON129515
 - Name: con-commcon : 1295-150
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-commcon/1295-150/
 - Description: con-commcon : 1295-150
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-commcon-1295-150](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-commcon-1295-150)
 - Short Link: [http://oom.lt/FZECONCOCON129515](http://oom.lt/FZECONCOCON129515)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Device-FrequencyCounter
 - Hex ID: SZKDEVICEFREQUENCYCOUNTER
 - Name: Device : FrequencyCounter
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/FrequencyCounter/
 - Description: Device : FrequencyCounter
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-FrequencyCounter](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-FrequencyCounter)
 - Short Link: [http://oom.lt/SZKDEVICEFREQUENCYCOUNTER](http://oom.lt/SZKDEVICEFREQUENCYCOUNTER)

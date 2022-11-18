@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-MDBT50Q
 - Hex ID: FZSRFMDBT5Q
 - Name: SparkFun-RF : MDBT50Q
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-RF/MDBT50Q/
 - Description: SparkFun-RF : MDBT50Q
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-MDBT50Q](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-MDBT50Q)
 - Short Link: [http://oom.lt/FZSRFMDBT5Q](http://oom.lt/FZSRFMDBT5Q)

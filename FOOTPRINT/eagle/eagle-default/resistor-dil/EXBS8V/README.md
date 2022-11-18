@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-resistor-dil-EXBS8V
 - Hex ID: FZERESISTORDILEXBS8V
 - Name: resistor-dil : EXBS8V
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/resistor-dil/EXBS8V/
 - Description: resistor-dil : EXBS8V
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-resistor-dil-EXBS8V](http://oom.lt/FOOTPRINT-eagle-eagle-default-resistor-dil-EXBS8V)
 - Short Link: [http://oom.lt/FZERESISTORDILEXBS8V](http://oom.lt/FZERESISTORDILEXBS8V)

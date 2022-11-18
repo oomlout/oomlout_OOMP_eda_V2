@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-transistor-power-TO258AA
 - Hex ID: FZETRANSISTORPOWERTO258AA
 - Name: transistor-power : TO258AA
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/transistor-power/TO258AA/
 - Description: transistor-power : TO258AA
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-power-TO258AA](http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-power-TO258AA)
 - Short Link: [http://oom.lt/FZETRANSISTORPOWERTO258AA](http://oom.lt/FZETRANSISTORPOWERTO258AA)

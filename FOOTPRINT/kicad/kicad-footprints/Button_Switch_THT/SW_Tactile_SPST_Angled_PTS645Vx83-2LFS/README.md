@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Button_Switch_THT-SW_Tactile_SPST_Angled_PTS645Vx83-2LFS
 - Hex ID: FZKBSWTSPSTANGLPTS645VX832LFS
 - Name: Button_Switch_THT : SW_Tactile_SPST_Angled_PTS645Vx83-2LFS
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/SW_Tactile_SPST_Angled_PTS645Vx83-2LFS/
 - Description: Button_Switch_THT : SW_Tactile_SPST_Angled_PTS645Vx83-2LFS
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Button_Switch_THT-SW_Tactile_SPST_Angled_PTS645Vx83-2LFS](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Button_Switch_THT-SW_Tactile_SPST_Angled_PTS645Vx83-2LFS)
 - Short Link: [http://oom.lt/FZKBSWTSPSTANGLPTS645VX832LFS](http://oom.lt/FZKBSWTSPSTANGLPTS645VX832LFS)

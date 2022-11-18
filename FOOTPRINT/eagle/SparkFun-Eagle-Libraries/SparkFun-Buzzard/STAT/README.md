@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Buzzard-STAT
 - Hex ID: FZSBUSTAT
 - Name: SparkFun-Buzzard : STAT
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Buzzard/STAT/
 - Description: SparkFun-Buzzard : STAT
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Buzzard-STAT](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Buzzard-STAT)
 - Short Link: [http://oom.lt/FZSBUSTAT](http://oom.lt/FZSBUSTAT)

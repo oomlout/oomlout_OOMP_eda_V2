@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-LED-ASMT-YTB7-0AA02
 - Hex ID: SZKLASMTYTB7AA2
 - Name: LED : ASMT-YTB7-0AA02
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/LED/ASMT-YTB7-0AA02/
 - Description: LED : ASMT-YTB7-0AA02
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-LED-ASMT-YTB7-0AA02](http://oom.lt/SYMBOL-kicad-kicad-symbols-LED-ASMT-YTB7-0AA02)
 - Short Link: [http://oom.lt/SZKLASMTYTB7AA2](http://oom.lt/SZKLASMTYTB7AA2)

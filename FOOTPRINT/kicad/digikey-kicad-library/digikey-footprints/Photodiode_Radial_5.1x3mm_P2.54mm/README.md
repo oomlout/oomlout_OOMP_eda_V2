@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Photodiode_Radial_5.1x3mm_P2.54mm
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSPHOTODIODER51X3P254
 - Name: digikey-footprints : Photodiode_Radial_5.1x3mm_P2.54mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Photodiode_Radial_5.1x3mm_P2.54mm/
 - Description: digikey-footprints : Photodiode_Radial_5.1x3mm_P2.54mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Photodiode_Radial_5.1x3mm_P2.54mm](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Photodiode_Radial_5.1x3mm_P2.54mm)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSPHOTODIODER51X3P254](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSPHOTODIODER51X3P254)

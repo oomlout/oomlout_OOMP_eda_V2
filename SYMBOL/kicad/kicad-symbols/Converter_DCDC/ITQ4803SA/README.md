@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Converter_DCDC-ITQ4803SA
 - Hex ID: SZKCONITQ483SA
 - Name: Converter_DCDC : ITQ4803SA
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Converter_DCDC/ITQ4803SA/
 - Description: Converter_DCDC : ITQ4803SA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-ITQ4803SA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-ITQ4803SA)
 - Short Link: [http://oom.lt/SZKCONITQ483SA](http://oom.lt/SZKCONITQ483SA)

@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKHOLHOL64M6PAD > MountingHole : MountingHole_6.4mm_M6_Pad](#fzkholhol64m6pad--mountinghole--mountinghole_64mm_m6_pad)
+* [FZKHOLHOL64M6P > MountingHole : MountingHole_6.4mm_M6_Pad](#fzkholhol64m6p--mountinghole--mountinghole_64mm_m6_pad)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKHOLHOL64M6PAD > MountingHole : MountingHole_6.4mm_M6_Pad
+# FZKHOLHOL64M6P > MountingHole : MountingHole_6.4mm_M6_Pad
 
 - ID: FOOTPRINT-kicad-kicad-footprints-MountingHole-MountingHole_6.4mm_M6_Pad
-- Hex ID: FZKHOLHOL64M6PAD
+- Hex ID: FZKHOLHOL64M6P
 - Name: MountingHole : MountingHole_6.4mm_M6_Pad
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/MountingHole/MountingHole_6.4mm_M6_Pad/
 - Description: MountingHole : MountingHole_6.4mm_M6_Pad
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-MountingHole-MountingHole_6.4mm_M6_Pad](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-MountingHole-MountingHole_6.4mm_M6_Pad)
-- Short Link: [http://oom.lt/FZKHOLHOL64M6PAD](http://oom.lt/FZKHOLHOL64M6PAD)
+- Short Link: [http://oom.lt/FZKHOLHOL64M6P](http://oom.lt/FZKHOLHOL64M6P)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|MountingHole|
 |OOMP Index|oompIndex|MountingHole_6.4mm_M6_Pad|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-MountingHole-MountingHole_6.4mm_M6_Pad|
-|Hex ID (short code)|hexID|FZKHOLHOL64M6PAD|
+|Hex ID (short code)|hexID|FZKHOLHOL64M6P|
 |name|name|MountingHole : MountingHole_6.4mm_M6_Pad|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'MountingHole_6.4mm_M6_Pad'</td><td> 'description'</td></tr><tr><td> 'Mounting Hole 6.4mm</td><td> M6'</td><td> 'tags'</td></tr><tr><td> 'mounting hole 6.4mm m6'</td><td> 'attributeType'</td></tr><tr><td> None</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||

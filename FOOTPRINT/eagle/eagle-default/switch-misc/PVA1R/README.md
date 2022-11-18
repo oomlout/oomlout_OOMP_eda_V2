@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-switch-misc-PVA1R
 - Hex ID: FZESWMISCPVA1R
 - Name: switch-misc : PVA1R
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/switch-misc/PVA1R/
 - Description: switch-misc : PVA1R
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-misc-PVA1R](http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-misc-PVA1R)
 - Short Link: [http://oom.lt/FZESWMISCPVA1R](http://oom.lt/FZESWMISCPVA1R)

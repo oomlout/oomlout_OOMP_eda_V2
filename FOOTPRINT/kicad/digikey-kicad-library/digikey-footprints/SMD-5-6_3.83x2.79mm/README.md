@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SMD-5-6_3.83x2.79mm
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSSM56383X279
 - Name: digikey-footprints : SMD-5-6_3.83x2.79mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/SMD-5-6_3.83x2.79mm/
 - Description: digikey-footprints : SMD-5-6_3.83x2.79mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SMD-5-6_3.83x2.79mm](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SMD-5-6_3.83x2.79mm)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSSM56383X279](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSSM56383X279)

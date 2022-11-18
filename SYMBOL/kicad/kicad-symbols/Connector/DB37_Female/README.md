@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Connector-DB37_Female
 - Hex ID: SZKCNDB37F
 - Name: Connector : DB37_Female
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector/DB37_Female/
 - Description: Connector : DB37_Female
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-DB37_Female](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-DB37_Female)
 - Short Link: [http://oom.lt/SZKCNDB37F](http://oom.lt/SZKCNDB37F)

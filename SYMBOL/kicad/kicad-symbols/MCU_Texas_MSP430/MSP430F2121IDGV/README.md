@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Texas_MSP430-MSP430F2121IDGV
 - Hex ID: SZKMCUTEXASMSP43MSP43F2121IDGV
 - Name: MCU_Texas_MSP430 : MSP430F2121IDGV
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Texas_MSP430/MSP430F2121IDGV/
 - Description: MCU_Texas_MSP430 : MSP430F2121IDGV
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Texas_MSP430-MSP430F2121IDGV](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Texas_MSP430-MSP430F2121IDGV)
 - Short Link: [http://oom.lt/SZKMCUTEXASMSP43MSP43F2121IDGV](http://oom.lt/SZKMCUTEXASMSP43MSP43F2121IDGV)

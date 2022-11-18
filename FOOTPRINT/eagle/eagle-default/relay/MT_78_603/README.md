@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-relay-MT_78_603
 - Hex ID: FZERELAYMT7863
 - Name: relay : MT_78_603
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/relay/MT_78_603/
 - Description: relay : MT_78_603
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-MT_78_603](http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-MT_78_603)
 - Short Link: [http://oom.lt/FZERELAYMT7863](http://oom.lt/FZERELAYMT7863)

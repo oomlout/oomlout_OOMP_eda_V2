@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Sensor_Current-LEM_LA25-P
 - Hex ID: FZKSENCURRENTLEMLA25P
 - Name: Sensor_Current : LEM_LA25-P
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Sensor_Current/LEM_LA25-P/
 - Description: Sensor_Current : LEM_LA25-P
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Sensor_Current-LEM_LA25-P](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Sensor_Current-LEM_LA25-P)
 - Short Link: [http://oom.lt/FZKSENCURRENTLEMLA25P](http://oom.lt/FZKSENCURRENTLEMLA25P)

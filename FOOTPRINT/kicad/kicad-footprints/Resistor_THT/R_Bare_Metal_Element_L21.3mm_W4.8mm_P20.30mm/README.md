@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Resistor_THT-R_Bare_Metal_Element_L21.3mm_W4.8mm_P20.30mm
 - Hex ID: FZKRRBAREMETALELEMENTL213W48P23
 - Name: Resistor_THT : R_Bare_Metal_Element_L21.3mm_W4.8mm_P20.30mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Resistor_THT/R_Bare_Metal_Element_L21.3mm_W4.8mm_P20.30mm/
 - Description: Resistor_THT : R_Bare_Metal_Element_L21.3mm_W4.8mm_P20.30mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Resistor_THT-R_Bare_Metal_Element_L21.3mm_W4.8mm_P20.30mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Resistor_THT-R_Bare_Metal_Element_L21.3mm_W4.8mm_P20.30mm)
 - Short Link: [http://oom.lt/FZKRRBAREMETALELEMENTL213W48P23](http://oom.lt/FZKRRBAREMETALELEMENTL213W48P23)

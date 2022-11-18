@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZDIGIDIGIKEYFOOTPRINTSPINHEADER6X2P254F > digikey-footprints : PinHeader_6x2_P2.54mm_Vertical](#fzdigidigikeyfootprintspinheader6x2p254f--digikey-footprints--pinheader_6x2_p254mm_vertical)
+* [FZDIGIDIGIKEYFOOTPRINTSPH6X2P254F > digikey-footprints : PinHeader_6x2_P2.54mm_Vertical](#fzdigidigikeyfootprintsph6x2p254f--digikey-footprints--pinheader_6x2_p254mm_vertical)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZDIGIDIGIKEYFOOTPRINTSPINHEADER6X2P254F > digikey-footprints : PinHeader_6x2_P2.54mm_Vertical
+# FZDIGIDIGIKEYFOOTPRINTSPH6X2P254F > digikey-footprints : PinHeader_6x2_P2.54mm_Vertical
 
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-PinHeader_6x2_P2.54mm_Vertical
-- Hex ID: FZDIGIDIGIKEYFOOTPRINTSPINHEADER6X2P254F
+- Hex ID: FZDIGIDIGIKEYFOOTPRINTSPH6X2P254F
 - Name: digikey-footprints : PinHeader_6x2_P2.54mm_Vertical
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/PinHeader_6x2_P2.54mm_Vertical/
 - Description: digikey-footprints : PinHeader_6x2_P2.54mm_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-PinHeader_6x2_P2.54mm_Vertical](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-PinHeader_6x2_P2.54mm_Vertical)
-- Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSPINHEADER6X2P254F](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSPINHEADER6X2P254F)
+- Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSPH6X2P254F](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSPH6X2P254F)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|digikey-footprints|
 |OOMP Index|oompIndex|PinHeader_6x2_P2.54mm_Vertical|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-PinHeader_6x2_P2.54mm_Vertical|
-|Hex ID (short code)|hexID|FZDIGIDIGIKEYFOOTPRINTSPINHEADER6X2P254F|
+|Hex ID (short code)|hexID|FZDIGIDIGIKEYFOOTPRINTSPH6X2P254F|
 |name|name|digikey-footprints : PinHeader_6x2_P2.54mm_Vertical|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'PinHeader_6x2_P2.54mm_Vertical'</td><td> 'description'</td></tr><tr><td> 'http</td></tr><tr><td>//portal.fciconnect.com/Comergent//fci/drawing/68020.pdf'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> None</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||

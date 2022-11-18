@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-LM2575BU-ADJ
 - Hex ID: SZKREGULATORSWINGLM2575BUADJ
 - Name: Regulator_Switching : LM2575BU-ADJ
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/LM2575BU-ADJ/
 - Description: Regulator_Switching : LM2575BU-ADJ
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LM2575BU-ADJ](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LM2575BU-ADJ)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGLM2575BUADJ](http://oom.lt/SZKREGULATORSWINGLM2575BUADJ)

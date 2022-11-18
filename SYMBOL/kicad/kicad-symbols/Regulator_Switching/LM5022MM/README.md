@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-LM5022MM
 - Hex ID: SZKREGULATORSWINGLM522
 - Name: Regulator_Switching : LM5022MM
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/LM5022MM/
 - Description: Regulator_Switching : LM5022MM
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LM5022MM](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LM5022MM)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGLM522](http://oom.lt/SZKREGULATORSWINGLM522)

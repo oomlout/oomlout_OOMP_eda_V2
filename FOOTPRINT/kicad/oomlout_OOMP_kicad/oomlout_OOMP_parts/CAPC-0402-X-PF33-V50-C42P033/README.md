@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0402-X-PF33-V50-C42P033
 - Hex ID: FZOOMPKOOMPPCAPC42XPF33V5C42P33
 - Name: oomlout_OOMP_parts : CAPC-0402-X-PF33-V50-C42P033
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/CAPC-0402-X-PF33-V50-C42P033/
 - Description: oomlout_OOMP_parts : CAPC-0402-X-PF33-V50-C42P033
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0402-X-PF33-V50-C42P033](http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0402-X-PF33-V50-C42P033)
 - Short Link: [http://oom.lt/FZOOMPKOOMPPCAPC42XPF33V5C42P33](http://oom.lt/FZOOMPKOOMPPCAPC42XPF33V5C42P33)

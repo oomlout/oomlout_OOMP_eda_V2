@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-rcl-EB20D
 - Hex ID: FZERCLEB2D
 - Name: rcl : EB20D
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/rcl/EB20D/
 - Description: rcl : EB20D
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-EB20D](http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-EB20D)
 - Short Link: [http://oom.lt/FZERCLEB2D](http://oom.lt/FZERCLEB2D)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Display_Character-CC56-12SRWA
 - Hex ID: SZKDICHARACTERCC5612SRWA
 - Name: Display_Character : CC56-12SRWA
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Display_Character/CC56-12SRWA/
 - Description: Display_Character : CC56-12SRWA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-CC56-12SRWA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-CC56-12SRWA)
 - Short Link: [http://oom.lt/SZKDICHARACTERCC5612SRWA](http://oom.lt/SZKDICHARACTERCC5612SRWA)

@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEREFPACKAGESBGA356 > ref-packages : BGA356](#fzerefpackagesbga356--ref-packages--bga356)
+* [FZEREFPSBGA356 > ref-packages : BGA356](#fzerefpsbga356--ref-packages--bga356)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEREFPACKAGESBGA356 > ref-packages : BGA356
+# FZEREFPSBGA356 > ref-packages : BGA356
 
 - ID: FOOTPRINT-eagle-eagle-default-ref-packages-BGA356
-- Hex ID: FZEREFPACKAGESBGA356
+- Hex ID: FZEREFPSBGA356
 - Name: ref-packages : BGA356
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ref-packages/BGA356/
 - Description: ref-packages : BGA356
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-BGA356](http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-BGA356)
-- Short Link: [http://oom.lt/FZEREFPACKAGESBGA356](http://oom.lt/FZEREFPACKAGESBGA356)
+- Short Link: [http://oom.lt/FZEREFPSBGA356](http://oom.lt/FZEREFPSBGA356)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|ref-packages|
 |OOMP Index|oompIndex|BGA356|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-ref-packages-BGA356|
-|Hex ID (short code)|hexID|FZEREFPACKAGESBGA356|
+|Hex ID (short code)|hexID|FZEREFPSBGA356|
 |name|name|ref-packages : BGA356|
 ||||

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny24A-M
 - Hex ID: SZKMCUMCHIPATTINYATTINY24AM
 - Name: MCU_Microchip_ATtiny : ATtiny24A-M
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_ATtiny/ATtiny24A-M/
 - Description: MCU_Microchip_ATtiny : ATtiny24A-M
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny24A-M](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny24A-M)
 - Short Link: [http://oom.lt/SZKMCUMCHIPATTINYATTINY24AM](http://oom.lt/SZKMCUMCHIPATTINYATTINY24AM)

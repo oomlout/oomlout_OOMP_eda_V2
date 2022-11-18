@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Infineon_MLPQ-48-1EP_7x7mm_P0.5mm_EP5.55x5.55mm
 - Hex ID: FZKDFNINFINEONMLPQ481EP7X7P5EP555X555
 - Name: Package_DFN_QFN : Infineon_MLPQ-48-1EP_7x7mm_P0.5mm_EP5.55x5.55mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/Infineon_MLPQ-48-1EP_7x7mm_P0.5mm_EP5.55x5.55mm/
 - Description: Package_DFN_QFN : Infineon_MLPQ-48-1EP_7x7mm_P0.5mm_EP5.55x5.55mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Infineon_MLPQ-48-1EP_7x7mm_P0.5mm_EP5.55x5.55mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Infineon_MLPQ-48-1EP_7x7mm_P0.5mm_EP5.55x5.55mm)
 - Short Link: [http://oom.lt/FZKDFNINFINEONMLPQ481EP7X7P5EP555X555](http://oom.lt/FZKDFNINFINEONMLPQ481EP7X7P5EP555X555)

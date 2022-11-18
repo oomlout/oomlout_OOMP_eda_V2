@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_BGA-Xilinx_FLG1925_FLG1926_FLG1928_FLG1930
 - Hex ID: FZKBGAXILINXFLG1925FLG1926FLG1928FLG193
 - Name: Package_BGA : Xilinx_FLG1925_FLG1926_FLG1928_FLG1930
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_BGA/Xilinx_FLG1925_FLG1926_FLG1928_FLG1930/
 - Description: Package_BGA : Xilinx_FLG1925_FLG1926_FLG1928_FLG1930
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_BGA-Xilinx_FLG1925_FLG1926_FLG1928_FLG1930](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_BGA-Xilinx_FLG1925_FLG1926_FLG1928_FLG1930)
 - Short Link: [http://oom.lt/FZKBGAXILINXFLG1925FLG1926FLG1928FLG193](http://oom.lt/FZKBGAXILINXFLG1925FLG1926FLG1928FLG193)

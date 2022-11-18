@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_Micro-Latch_53253-0270_1x02_P2.00mm_Vertical
 - Hex ID: FZKCNMXMXMLATCH53253271X2P2F
 - Name: Connector_Molex : Molex_Micro-Latch_53253-0270_1x02_P2.00mm_Vertical
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_Micro-Latch_53253-0270_1x02_P2.00mm_Vertical/
 - Description: Connector_Molex : Molex_Micro-Latch_53253-0270_1x02_P2.00mm_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_Micro-Latch_53253-0270_1x02_P2.00mm_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_Micro-Latch_53253-0270_1x02_P2.00mm_Vertical)
 - Short Link: [http://oom.lt/FZKCNMXMXMLATCH53253271X2P2F](http://oom.lt/FZKCNMXMXMLATCH53253271X2P2F)

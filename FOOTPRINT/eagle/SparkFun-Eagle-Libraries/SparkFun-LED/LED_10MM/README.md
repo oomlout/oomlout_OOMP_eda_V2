@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-LED-LED_10MM
 - Hex ID: FZSLL1
 - Name: SparkFun-LED : LED_10MM
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-LED/LED_10MM/
 - Description: SparkFun-LED : LED_10MM
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-LED-LED_10MM](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-LED-LED_10MM)
 - Short Link: [http://oom.lt/FZSLL1](http://oom.lt/FZSLL1)

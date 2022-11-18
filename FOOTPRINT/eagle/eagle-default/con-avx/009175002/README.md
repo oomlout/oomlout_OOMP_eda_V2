@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-avx-009175002
 - Hex ID: FZECONAVX91752
 - Name: con-avx : 009175002
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-avx/009175002/
 - Description: con-avx : 009175002
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-avx-009175002](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-avx-009175002)
 - Short Link: [http://oom.lt/FZECONAVX91752](http://oom.lt/FZECONAVX91752)

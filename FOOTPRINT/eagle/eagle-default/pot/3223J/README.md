@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-pot-3223J
 - Hex ID: FZEPOT3223J
 - Name: pot : 3223J
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/pot/3223J/
 - Description: pot : 3223J
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-pot-3223J](http://oom.lt/FOOTPRINT-eagle-eagle-default-pot-3223J)
 - Short Link: [http://oom.lt/FZEPOT3223J](http://oom.lt/FZEPOT3223J)

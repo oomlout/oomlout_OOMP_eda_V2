@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Analog_ADC-LTC1865L-MS
 - Hex ID: SZKANALOGADCLTC1865LMS
 - Name: Analog_ADC : LTC1865L-MS
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog_ADC/LTC1865L-MS/
 - Description: Analog_ADC : LTC1865L-MS
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-LTC1865L-MS](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-LTC1865L-MS)
 - Short Link: [http://oom.lt/SZKANALOGADCLTC1865LMS](http://oom.lt/SZKANALOGADCLTC1865LMS)

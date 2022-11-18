@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-subd-F37D
 - Hex ID: FZECONSUBDF37D
 - Name: con-subd : F37D
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-subd/F37D/
 - Description: con-subd : F37D
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-subd-F37D](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-subd-F37D)
 - Short Link: [http://oom.lt/FZECONSUBDF37D](http://oom.lt/FZECONSUBDF37D)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Analog_ADC-MCP3201
 - Hex ID: SZKANALOGADCMCP321
 - Name: Analog_ADC : MCP3201
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog_ADC/MCP3201/
 - Description: Analog_ADC : MCP3201
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-MCP3201](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-MCP3201)
 - Short Link: [http://oom.lt/SZKANALOGADCMCP321](http://oom.lt/SZKANALOGADCMCP321)

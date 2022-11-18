@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-led-ACULED-RGB
 - Hex ID: FZELACULRGB
 - Name: led : ACULED-RGB
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/led/ACULED-RGB/
 - Description: led : ACULED-RGB
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-led-ACULED-RGB](http://oom.lt/FOOTPRINT-eagle-eagle-default-led-ACULED-RGB)
 - Short Link: [http://oom.lt/FZELACULRGB](http://oom.lt/FZELACULRGB)

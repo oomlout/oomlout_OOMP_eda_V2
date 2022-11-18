@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Logic_Programmable-PAL24
 - Hex ID: SZKLOGICPROGRAABLEPAL24
 - Name: Logic_Programmable : PAL24
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Logic_Programmable/PAL24/
 - Description: Logic_Programmable : PAL24
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Logic_Programmable-PAL24](http://oom.lt/SYMBOL-kicad-kicad-symbols-Logic_Programmable-PAL24)
 - Short Link: [http://oom.lt/SZKLOGICPROGRAABLEPAL24](http://oom.lt/SZKLOGICPROGRAABLEPAL24)

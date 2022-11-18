@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Converter_DCDC-TMR2-2410WI
 - Hex ID: SZKCONTMR2241WI
 - Name: Converter_DCDC : TMR2-2410WI
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Converter_DCDC/TMR2-2410WI/
 - Description: Converter_DCDC : TMR2-2410WI
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-TMR2-2410WI](http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-TMR2-2410WI)
 - Short Link: [http://oom.lt/SZKCONTMR2241WI](http://oom.lt/SZKCONTMR2241WI)

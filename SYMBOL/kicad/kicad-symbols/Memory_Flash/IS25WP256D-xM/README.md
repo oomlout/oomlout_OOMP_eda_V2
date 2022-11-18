@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Memory_Flash-IS25WP256D-xM
 - Hex ID: SZKMEMORYFLASHIS25WP256DXM
 - Name: Memory_Flash : IS25WP256D-xM
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Memory_Flash/IS25WP256D-xM/
 - Description: Memory_Flash : IS25WP256D-xM
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_Flash-IS25WP256D-xM](http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_Flash-IS25WP256D-xM)
 - Short Link: [http://oom.lt/SZKMEMORYFLASHIS25WP256DXM](http://oom.lt/SZKMEMORYFLASHIS25WP256DXM)

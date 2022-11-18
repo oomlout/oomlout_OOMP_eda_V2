@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_SL_171971-0025_1x25_P2.54mm_Vertical
 - Hex ID: FZKCNMXMXSL171971251X25P254F
 - Name: Connector_Molex : Molex_SL_171971-0025_1x25_P2.54mm_Vertical
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_SL_171971-0025_1x25_P2.54mm_Vertical/
 - Description: Connector_Molex : Molex_SL_171971-0025_1x25_P2.54mm_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_SL_171971-0025_1x25_P2.54mm_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_SL_171971-0025_1x25_P2.54mm_Vertical)
 - Short Link: [http://oom.lt/FZKCNMXMXSL171971251X25P254F](http://oom.lt/FZKCNMXMXSL171971251X25P254F)

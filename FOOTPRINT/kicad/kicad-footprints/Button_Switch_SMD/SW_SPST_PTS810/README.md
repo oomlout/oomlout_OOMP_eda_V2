@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-SW_SPST_PTS810
 - Hex ID: FZKBSWSPSTPTS81
 - Name: Button_Switch_SMD : SW_SPST_PTS810
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Button_Switch_SMD/SW_SPST_PTS810/
 - Description: Button_Switch_SMD : SW_SPST_PTS810
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-SW_SPST_PTS810](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-SW_SPST_PTS810)
 - Short Link: [http://oom.lt/FZKBSWSPSTPTS81](http://oom.lt/FZKBSWSPSTPTS81)

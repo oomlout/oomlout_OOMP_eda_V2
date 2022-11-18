@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Power_Management-LT4320xDD-1
 - Hex ID: SZKPOWERMANAGEMENTLT432XDD1
 - Name: Power_Management : LT4320xDD-1
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Power_Management/LT4320xDD-1/
 - Description: Power_Management : LT4320xDD-1
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-LT4320xDD-1](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-LT4320xDD-1)
 - Short Link: [http://oom.lt/SZKPOWERMANAGEMENTLT432XDD1](http://oom.lt/SZKPOWERMANAGEMENTLT432XDD1)

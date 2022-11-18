@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-4xxx_IEEE-4017
 - Hex ID: SZK4XXXIEEE417
 - Name: 4xxx_IEEE : 4017
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/4xxx_IEEE/4017/
 - Description: 4xxx_IEEE : 4017
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-4xxx_IEEE-4017](http://oom.lt/SYMBOL-kicad-kicad-symbols-4xxx_IEEE-4017)
 - Short Link: [http://oom.lt/SZK4XXXIEEE417](http://oom.lt/SZK4XXXIEEE417)

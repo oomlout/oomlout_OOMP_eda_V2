@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Analog_ADC-LTC2282xUP
 - Hex ID: SZKANALOGADCLTC2282XUP
 - Name: Analog_ADC : LTC2282xUP
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog_ADC/LTC2282xUP/
 - Description: Analog_ADC : LTC2282xUP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-LTC2282xUP](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-LTC2282xUP)
 - Short Link: [http://oom.lt/SZKANALOGADCLTC2282XUP](http://oom.lt/SZKANALOGADCLTC2282XUP)

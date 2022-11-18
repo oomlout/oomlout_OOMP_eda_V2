@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Potentiometer_Digital-MCP45HV31-MQ
 - Hex ID: SZKPOTDIGITALMCP45HV31MQ
 - Name: Potentiometer_Digital : MCP45HV31-MQ
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Potentiometer_Digital/MCP45HV31-MQ/
 - Description: Potentiometer_Digital : MCP45HV31-MQ
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Potentiometer_Digital-MCP45HV31-MQ](http://oom.lt/SYMBOL-kicad-kicad-symbols-Potentiometer_Digital-MCP45HV31-MQ)
 - Short Link: [http://oom.lt/SZKPOTDIGITALMCP45HV31MQ](http://oom.lt/SZKPOTDIGITALMCP45HV31MQ)

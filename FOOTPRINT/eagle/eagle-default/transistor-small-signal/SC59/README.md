@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-transistor-small-signal-SC59
 - Hex ID: FZETRANSISTORSLLSIGNALSC59
 - Name: transistor-small-signal : SC59
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/transistor-small-signal/SC59/
 - Description: transistor-small-signal : SC59
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-small-signal-SC59](http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-small-signal-SC59)
 - Short Link: [http://oom.lt/FZETRANSISTORSLLSIGNALSC59](http://oom.lt/FZETRANSISTORSLLSIGNALSC59)

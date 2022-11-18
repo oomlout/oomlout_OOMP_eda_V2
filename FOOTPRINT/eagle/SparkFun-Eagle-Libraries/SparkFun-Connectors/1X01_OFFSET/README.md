@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-1X01_OFFSET
 - Hex ID: FZSSPARKFUNCNS1X1O
 - Name: SparkFun-Connectors : 1X01_OFFSET
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Connectors/1X01_OFFSET/
 - Description: SparkFun-Connectors : 1X01_OFFSET
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-1X01_OFFSET](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-1X01_OFFSET)
 - Short Link: [http://oom.lt/FZSSPARKFUNCNS1X1O](http://oom.lt/FZSSPARKFUNCNS1X1O)

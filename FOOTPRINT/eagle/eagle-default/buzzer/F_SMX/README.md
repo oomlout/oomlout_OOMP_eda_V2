@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-buzzer-F_SMX
 - Hex ID: FZEBUZZERFSMX
 - Name: buzzer : F_SMX
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/buzzer/F_SMX/
 - Description: buzzer : F_SMX
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-buzzer-F_SMX](http://oom.lt/FOOTPRINT-eagle-eagle-default-buzzer-F_SMX)
 - Short Link: [http://oom.lt/FZEBUZZERFSMX](http://oom.lt/FZEBUZZERFSMX)

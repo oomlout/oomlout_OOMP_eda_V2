@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_2816_7142Metric
 - Hex ID: FZKRR28167142VA
 - Name: Resistor_SMD : R_2816_7142Metric
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_2816_7142Metric/
 - Description: Resistor_SMD : R_2816_7142Metric
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_2816_7142Metric](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_2816_7142Metric)
 - Short Link: [http://oom.lt/FZKRR28167142VA](http://oom.lt/FZKRR28167142VA)

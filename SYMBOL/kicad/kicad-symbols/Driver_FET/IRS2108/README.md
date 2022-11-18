@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Driver_FET-IRS2108
 - Hex ID: SZKDRIVERFETIRS218
 - Name: Driver_FET : IRS2108
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Driver_FET/IRS2108/
 - Description: Driver_FET : IRS2108
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-IRS2108](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-IRS2108)
 - Short Link: [http://oom.lt/SZKDRIVERFETIRS218](http://oom.lt/SZKDRIVERFETIRS218)

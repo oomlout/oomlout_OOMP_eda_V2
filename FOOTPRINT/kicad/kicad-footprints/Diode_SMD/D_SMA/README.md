@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_SMA
 - Hex ID: FZKDDS
 - Name: Diode_SMD : D_SMA
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Diode_SMD/D_SMA/
 - Description: Diode_SMD : D_SMA
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_SMA](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_SMA)
 - Short Link: [http://oom.lt/FZKDDS](http://oom.lt/FZKDDS)

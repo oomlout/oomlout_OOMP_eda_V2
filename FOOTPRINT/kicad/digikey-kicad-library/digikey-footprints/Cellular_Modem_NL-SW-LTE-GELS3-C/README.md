@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Cellular_Modem_NL-SW-LTE-GELS3-C
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSCELLULARMODEMNLSWLTEGELS3C
 - Name: digikey-footprints : Cellular_Modem_NL-SW-LTE-GELS3-C
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Cellular_Modem_NL-SW-LTE-GELS3-C/
 - Description: digikey-footprints : Cellular_Modem_NL-SW-LTE-GELS3-C
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Cellular_Modem_NL-SW-LTE-GELS3-C](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Cellular_Modem_NL-SW-LTE-GELS3-C)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSCELLULARMODEMNLSWLTEGELS3C](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSCELLULARMODEMNLSWLTEGELS3C)

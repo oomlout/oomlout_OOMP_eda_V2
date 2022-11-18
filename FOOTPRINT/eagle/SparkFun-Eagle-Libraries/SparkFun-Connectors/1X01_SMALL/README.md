@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-1X01_SMALL
 - Hex ID: FZSSPARKFUNCNS1X1SLL
 - Name: SparkFun-Connectors : 1X01_SMALL
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Connectors/1X01_SMALL/
 - Description: SparkFun-Connectors : 1X01_SMALL
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-1X01_SMALL](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-1X01_SMALL)
 - Short Link: [http://oom.lt/FZSSPARKFUNCNS1X1SLL](http://oom.lt/FZSSPARKFUNCNS1X1SLL)

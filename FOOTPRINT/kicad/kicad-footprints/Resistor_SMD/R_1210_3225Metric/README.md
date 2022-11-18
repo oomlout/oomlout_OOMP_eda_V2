@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_1210_3225Metric
 - Hex ID: FZKRR1213225VA
 - Name: Resistor_SMD : R_1210_3225Metric
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_1210_3225Metric/
 - Description: Resistor_SMD : R_1210_3225Metric
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_1210_3225Metric](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_1210_3225Metric)
 - Short Link: [http://oom.lt/FZKRR1213225VA](http://oom.lt/FZKRR1213225VA)

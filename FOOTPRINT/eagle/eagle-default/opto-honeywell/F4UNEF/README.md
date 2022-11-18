@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-opto-honeywell-F4UNEF
 - Hex ID: FZEOPTOHONEYWELLF4UNEF
 - Name: opto-honeywell : F4UNEF
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/opto-honeywell/F4UNEF/
 - Description: opto-honeywell : F4UNEF
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-opto-honeywell-F4UNEF](http://oom.lt/FOOTPRINT-eagle-eagle-default-opto-honeywell-F4UNEF)
 - Short Link: [http://oom.lt/FZEOPTOHONEYWELLF4UNEF](http://oom.lt/FZEOPTOHONEYWELLF4UNEF)

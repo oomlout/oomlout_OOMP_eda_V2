@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Battery_Management-BQ2501x
 - Hex ID: SZKBATMANAGEMENTBQ251X
 - Name: Battery_Management : BQ2501x
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Battery_Management/BQ2501x/
 - Description: Battery_Management : BQ2501x
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Battery_Management-BQ2501x](http://oom.lt/SYMBOL-kicad-kicad-symbols-Battery_Management-BQ2501x)
 - Short Link: [http://oom.lt/SZKBATMANAGEMENTBQ251X](http://oom.lt/SZKBATMANAGEMENTBQ251X)

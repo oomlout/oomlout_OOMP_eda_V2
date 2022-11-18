@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-ADP3336ARMZ
 - Hex ID: SZKREGULATORLINEARADP3336ARMZ
 - Name: Regulator_Linear : ADP3336ARMZ
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/ADP3336ARMZ/
 - Description: Regulator_Linear : ADP3336ARMZ
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-ADP3336ARMZ](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-ADP3336ARMZ)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARADP3336ARMZ](http://oom.lt/SZKREGULATORLINEARADP3336ARMZ)

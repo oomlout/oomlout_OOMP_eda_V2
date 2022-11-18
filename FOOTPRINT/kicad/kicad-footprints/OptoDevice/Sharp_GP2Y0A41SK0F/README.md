@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-OptoDevice-Sharp_GP2Y0A41SK0F
 - Hex ID: FZKOPSHARPGP2YA41SKF
 - Name: OptoDevice : Sharp_GP2Y0A41SK0F
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/OptoDevice/Sharp_GP2Y0A41SK0F/
 - Description: OptoDevice : Sharp_GP2Y0A41SK0F
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-OptoDevice-Sharp_GP2Y0A41SK0F](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-OptoDevice-Sharp_GP2Y0A41SK0F)
 - Short Link: [http://oom.lt/FZKOPSHARPGP2YA41SKF](http://oom.lt/FZKOPSHARPGP2YA41SKF)

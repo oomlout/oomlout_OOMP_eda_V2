@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-amp-mt-S20P
 - Hex ID: FZECONAMPMTS2P
 - Name: con-amp-mt : S20P
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-amp-mt/S20P/
 - Description: con-amp-mt : S20P
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-amp-mt-S20P](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-amp-mt-S20P)
 - Short Link: [http://oom.lt/FZECONAMPMTS2P](http://oom.lt/FZECONAMPMTS2P)

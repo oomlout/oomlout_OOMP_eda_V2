@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-74xGxx-74LVC1G175
 - Hex ID: SZK74XGXX74LVC1G175
 - Name: 74xGxx : 74LVC1G175
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/74xGxx/74LVC1G175/
 - Description: 74xGxx : 74LVC1G175
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-74xGxx-74LVC1G175](http://oom.lt/SYMBOL-kicad-kicad-symbols-74xGxx-74LVC1G175)
 - Short Link: [http://oom.lt/SZK74XGXX74LVC1G175](http://oom.lt/SZK74XGXX74LVC1G175)

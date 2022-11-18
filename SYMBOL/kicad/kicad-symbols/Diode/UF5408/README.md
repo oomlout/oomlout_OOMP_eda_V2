@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-UF5408
 - Hex ID: SZKDIODEUF548
 - Name: Diode : UF5408
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/UF5408/
 - Description: Diode : UF5408
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-UF5408](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-UF5408)
 - Short Link: [http://oom.lt/SZKDIODEUF548](http://oom.lt/SZKDIODEUF548)

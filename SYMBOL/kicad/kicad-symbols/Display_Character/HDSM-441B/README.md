@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Display_Character-HDSM-441B
 - Hex ID: SZKDICHARACTERHDSM441B
 - Name: Display_Character : HDSM-441B
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Display_Character/HDSM-441B/
 - Description: Display_Character : HDSM-441B
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-HDSM-441B](http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-HDSM-441B)
 - Short Link: [http://oom.lt/SZKDICHARACTERHDSM441B](http://oom.lt/SZKDICHARACTERHDSM441B)

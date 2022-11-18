@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0805-X-O220-01-R8O220
 - Hex ID: FZOOMPKOOMPPRESE85XO221R8O22
 - Name: oomlout_OOMP_parts : RESE-0805-X-O220-01-R8O220
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/RESE-0805-X-O220-01-R8O220/
 - Description: oomlout_OOMP_parts : RESE-0805-X-O220-01-R8O220
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0805-X-O220-01-R8O220](http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0805-X-O220-01-R8O220)
 - Short Link: [http://oom.lt/FZOOMPKOOMPPRESE85XO221R8O22](http://oom.lt/FZOOMPKOOMPPRESE85XO221R8O22)

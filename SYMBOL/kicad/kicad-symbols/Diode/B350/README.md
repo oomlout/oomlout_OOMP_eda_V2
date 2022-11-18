@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-B350
 - Hex ID: SZKDIODEB35
 - Name: Diode : B350
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/B350/
 - Description: Diode : B350
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-B350](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-B350)
 - Short Link: [http://oom.lt/SZKDIODEB35](http://oom.lt/SZKDIODEB35)

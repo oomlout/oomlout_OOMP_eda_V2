@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Switch_Nav_12.4x12.4mm_SMD_JS5208
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSSWNAV124X124SMJS528
 - Name: digikey-footprints : Switch_Nav_12.4x12.4mm_SMD_JS5208
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Switch_Nav_12.4x12.4mm_SMD_JS5208/
 - Description: digikey-footprints : Switch_Nav_12.4x12.4mm_SMD_JS5208
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Switch_Nav_12.4x12.4mm_SMD_JS5208](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Switch_Nav_12.4x12.4mm_SMD_JS5208)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSSWNAV124X124SMJS528](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSSWNAV124X124SMJS528)

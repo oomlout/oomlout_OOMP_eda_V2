@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Converter_DCDC-ITX2412SA-HR
 - Hex ID: SZKCONITX2412SAHR
 - Name: Converter_DCDC : ITX2412SA-HR
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Converter_DCDC/ITX2412SA-HR/
 - Description: Converter_DCDC : ITX2412SA-HR
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-ITX2412SA-HR](http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-ITX2412SA-HR)
 - Short Link: [http://oom.lt/SZKCONITX2412SAHR](http://oom.lt/SZKCONITX2412SAHR)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode_Bridge-ABS6
 - Hex ID: SZKDIODEBRIDGEABS6
 - Name: Diode_Bridge : ABS6
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode_Bridge/ABS6/
 - Description: Diode_Bridge : ABS6
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode_Bridge-ABS6](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode_Bridge-ABS6)
 - Short Link: [http://oom.lt/SZKDIODEBRIDGEABS6](http://oom.lt/SZKDIODEBRIDGEABS6)

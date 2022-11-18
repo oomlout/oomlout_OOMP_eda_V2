@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F0-STM32F091RCYx
 - Hex ID: SZKMCUSTSTM32FSTM32F91RCYX
 - Name: MCU_ST_STM32F0 : STM32F091RCYx
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32F0/STM32F091RCYx/
 - Description: MCU_ST_STM32F0 : STM32F091RCYx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F0-STM32F091RCYx](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F0-STM32F091RCYx)
 - Short Link: [http://oom.lt/SZKMCUSTSTM32FSTM32F91RCYX](http://oom.lt/SZKMCUSTSTM32FSTM32F91RCYX)

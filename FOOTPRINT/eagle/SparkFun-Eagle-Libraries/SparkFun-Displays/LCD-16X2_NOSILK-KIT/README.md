@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Displays-LCD-16X2_NOSILK-KIT
 - Hex ID: FZSSPARKFUNDISLCD16X2NOSILKK
 - Name: SparkFun-Displays : LCD-16X2_NOSILK-KIT
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Displays/LCD-16X2_NOSILK-KIT/
 - Description: SparkFun-Displays : LCD-16X2_NOSILK-KIT
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Displays-LCD-16X2_NOSILK-KIT](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Displays-LCD-16X2_NOSILK-KIT)
 - Short Link: [http://oom.lt/FZSSPARKFUNDISLCD16X2NOSILKK](http://oom.lt/FZSSPARKFUNDISLCD16X2NOSILKK)

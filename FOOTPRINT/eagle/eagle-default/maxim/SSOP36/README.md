@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-maxim-SSOP36
 - Hex ID: FZEMAXIMSS36
 - Name: maxim : SSOP36
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/maxim/SSOP36/
 - Description: maxim : SSOP36
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-maxim-SSOP36](http://oom.lt/FOOTPRINT-eagle-eagle-default-maxim-SSOP36)
 - Short Link: [http://oom.lt/FZEMAXIMSS36](http://oom.lt/FZEMAXIMSS36)

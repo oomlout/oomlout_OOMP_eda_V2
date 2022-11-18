@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-hirschmann-TOBU3
 - Hex ID: FZECONHIRSCHMANNTOBU3
 - Name: con-hirschmann : TOBU3
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-hirschmann/TOBU3/
 - Description: con-hirschmann : TOBU3
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-hirschmann-TOBU3](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-hirschmann-TOBU3)
 - Short Link: [http://oom.lt/FZECONHIRSCHMANNTOBU3](http://oom.lt/FZECONHIRSCHMANNTOBU3)

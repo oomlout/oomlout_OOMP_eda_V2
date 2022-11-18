@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Hardware-SMA-THREADED-KEYED_WITH-STOP
 - Hex ID: FZSHSTHKEYEDWITHSTOP
 - Name: SparkFun-Hardware : SMA-THREADED-KEYED_WITH-STOP
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Hardware/SMA-THREADED-KEYED_WITH-STOP/
 - Description: SparkFun-Hardware : SMA-THREADED-KEYED_WITH-STOP
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Hardware-SMA-THREADED-KEYED_WITH-STOP](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Hardware-SMA-THREADED-KEYED_WITH-STOP)
 - Short Link: [http://oom.lt/FZSHSTHKEYEDWITHSTOP](http://oom.lt/FZSHSTHKEYEDWITHSTOP)

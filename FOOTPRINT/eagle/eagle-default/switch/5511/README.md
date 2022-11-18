@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-switch-5511
 - Hex ID: FZESW5511
 - Name: switch : 5511
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/switch/5511/
 - Description: switch : 5511
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-5511](http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-5511)
 - Short Link: [http://oom.lt/FZESW5511](http://oom.lt/FZESW5511)

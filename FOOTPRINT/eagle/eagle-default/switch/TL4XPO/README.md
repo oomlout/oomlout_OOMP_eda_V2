@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-switch-TL4XPO
 - Hex ID: FZESWTL4XPO
 - Name: switch : TL4XPO
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/switch/TL4XPO/
 - Description: switch : TL4XPO
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-TL4XPO](http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-TL4XPO)
 - Short Link: [http://oom.lt/FZESWTL4XPO](http://oom.lt/FZESWTL4XPO)

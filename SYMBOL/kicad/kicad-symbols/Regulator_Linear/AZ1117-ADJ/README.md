@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-AZ1117-ADJ
 - Hex ID: SZKREGULATORLINEARAZ1117ADJ
 - Name: Regulator_Linear : AZ1117-ADJ
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/AZ1117-ADJ/
 - Description: Regulator_Linear : AZ1117-ADJ
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-AZ1117-ADJ](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-AZ1117-ADJ)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARAZ1117ADJ](http://oom.lt/SZKREGULATORLINEARAZ1117ADJ)

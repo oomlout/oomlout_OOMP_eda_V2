@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Axial_L6.6mm_D2.7mm_P10.16mm_Horizontal_Vishay_IM-2
 - Hex ID: FZKINLAXIALL66D27P116HVISHAYIM2
 - Name: Inductor_THT : L_Axial_L6.6mm_D2.7mm_P10.16mm_Horizontal_Vishay_IM-2
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Axial_L6.6mm_D2.7mm_P10.16mm_Horizontal_Vishay_IM-2/
 - Description: Inductor_THT : L_Axial_L6.6mm_D2.7mm_P10.16mm_Horizontal_Vishay_IM-2
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Axial_L6.6mm_D2.7mm_P10.16mm_Horizontal_Vishay_IM-2](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Axial_L6.6mm_D2.7mm_P10.16mm_Horizontal_Vishay_IM-2)
 - Short Link: [http://oom.lt/FZKINLAXIALL66D27P116HVISHAYIM2](http://oom.lt/FZKINLAXIALL66D27P116HVISHAYIM2)

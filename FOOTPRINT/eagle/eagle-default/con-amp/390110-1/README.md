@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-amp-390110-1
 - Hex ID: FZECONAMP39111
 - Name: con-amp : 390110-1
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-amp/390110-1/
 - Description: con-amp : 390110-1
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-amp-390110-1](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-amp-390110-1)
 - Short Link: [http://oom.lt/FZECONAMP39111](http://oom.lt/FZECONAMP39111)

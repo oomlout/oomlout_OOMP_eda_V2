@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-TRIMPOT-3MM
 - Hex ID: FZSRTTRIMPOT3
 - Name: SparkFun-Retired : TRIMPOT-3MM
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Retired/TRIMPOT-3MM/
 - Description: SparkFun-Retired : TRIMPOT-3MM
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-TRIMPOT-3MM](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-TRIMPOT-3MM)
 - Short Link: [http://oom.lt/FZSRTTRIMPOT3](http://oom.lt/FZSRTTRIMPOT3)

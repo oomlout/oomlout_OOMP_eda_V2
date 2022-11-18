@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Driver_FET-IR2104
 - Hex ID: SZKDRIVERFETIR214
 - Name: Driver_FET : IR2104
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Driver_FET/IR2104/
 - Description: Driver_FET : IR2104
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-IR2104](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-IR2104)
 - Short Link: [http://oom.lt/SZKDRIVERFETIR214](http://oom.lt/SZKDRIVERFETIR214)

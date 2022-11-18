@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC18-PIC18LF4431-IML
 - Hex ID: SZKMCUMCHIPPIC18PIC18LF4431IML
 - Name: MCU_Microchip_PIC18 : PIC18LF4431-IML
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC18/PIC18LF4431-IML/
 - Description: MCU_Microchip_PIC18 : PIC18LF4431-IML
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC18-PIC18LF4431-IML](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC18-PIC18LF4431-IML)
 - Short Link: [http://oom.lt/SZKMCUMCHIPPIC18PIC18LF4431IML](http://oom.lt/SZKMCUMCHIPPIC18PIC18LF4431IML)

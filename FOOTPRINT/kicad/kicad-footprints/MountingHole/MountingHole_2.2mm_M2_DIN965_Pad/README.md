@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKHOLHOL22M2DIN965PAD > MountingHole : MountingHole_2.2mm_M2_DIN965_Pad](#fzkholhol22m2din965pad--mountinghole--mountinghole_22mm_m2_din965_pad)
+* [FZKHOLHOL22M2DIN965P > MountingHole : MountingHole_2.2mm_M2_DIN965_Pad](#fzkholhol22m2din965p--mountinghole--mountinghole_22mm_m2_din965_pad)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKHOLHOL22M2DIN965PAD > MountingHole : MountingHole_2.2mm_M2_DIN965_Pad
+# FZKHOLHOL22M2DIN965P > MountingHole : MountingHole_2.2mm_M2_DIN965_Pad
 
 - ID: FOOTPRINT-kicad-kicad-footprints-MountingHole-MountingHole_2.2mm_M2_DIN965_Pad
-- Hex ID: FZKHOLHOL22M2DIN965PAD
+- Hex ID: FZKHOLHOL22M2DIN965P
 - Name: MountingHole : MountingHole_2.2mm_M2_DIN965_Pad
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/MountingHole/MountingHole_2.2mm_M2_DIN965_Pad/
 - Description: MountingHole : MountingHole_2.2mm_M2_DIN965_Pad
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-MountingHole-MountingHole_2.2mm_M2_DIN965_Pad](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-MountingHole-MountingHole_2.2mm_M2_DIN965_Pad)
-- Short Link: [http://oom.lt/FZKHOLHOL22M2DIN965PAD](http://oom.lt/FZKHOLHOL22M2DIN965PAD)
+- Short Link: [http://oom.lt/FZKHOLHOL22M2DIN965P](http://oom.lt/FZKHOLHOL22M2DIN965P)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|MountingHole|
 |OOMP Index|oompIndex|MountingHole_2.2mm_M2_DIN965_Pad|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-MountingHole-MountingHole_2.2mm_M2_DIN965_Pad|
-|Hex ID (short code)|hexID|FZKHOLHOL22M2DIN965PAD|
+|Hex ID (short code)|hexID|FZKHOLHOL22M2DIN965P|
 |name|name|MountingHole : MountingHole_2.2mm_M2_DIN965_Pad|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'MountingHole_2.2mm_M2_DIN965_Pad'</td><td> 'description'</td></tr><tr><td> 'Mounting Hole 2.2mm</td><td> M2</td><td> DIN965'</td><td> 'tags'</td></tr><tr><td> 'mounting hole 2.2mm m2 din965'</td><td> 'attributeType'</td></tr><tr><td> None</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||

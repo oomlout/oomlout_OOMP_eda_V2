@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Connector-RJ10_Shielded
 - Hex ID: SZKCNRJ1SHED
 - Name: Connector : RJ10_Shielded
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector/RJ10_Shielded/
 - Description: Connector : RJ10_Shielded
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-RJ10_Shielded](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-RJ10_Shielded)
 - Short Link: [http://oom.lt/SZKCNRJ1SHED](http://oom.lt/SZKCNRJ1SHED)

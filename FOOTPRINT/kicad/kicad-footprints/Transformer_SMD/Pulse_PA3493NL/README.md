@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Transformer_SMD-Pulse_PA3493NL
 - Hex ID: FZKTRPULSEPA3493NL
 - Name: Transformer_SMD : Pulse_PA3493NL
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Transformer_SMD/Pulse_PA3493NL/
 - Description: Transformer_SMD : Pulse_PA3493NL
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Transformer_SMD-Pulse_PA3493NL](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Transformer_SMD-Pulse_PA3493NL)
 - Short Link: [http://oom.lt/FZKTRPULSEPA3493NL](http://oom.lt/FZKTRPULSEPA3493NL)

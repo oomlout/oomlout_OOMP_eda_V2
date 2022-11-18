@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-relay-TQ2
 - Hex ID: FZERELAYTQ2
 - Name: relay : TQ2
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/relay/TQ2/
 - Description: relay : TQ2
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-TQ2](http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-TQ2)
 - Short Link: [http://oom.lt/FZERELAYTQ2](http://oom.lt/FZERELAYTQ2)

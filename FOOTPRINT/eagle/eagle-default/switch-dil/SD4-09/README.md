@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-switch-dil-SD4-09
 - Hex ID: FZESWDILSD49
 - Name: switch-dil : SD4-09
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/switch-dil/SD4-09/
 - Description: switch-dil : SD4-09
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-dil-SD4-09](http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-dil-SD4-09)
 - Short Link: [http://oom.lt/FZESWDILSD49](http://oom.lt/FZESWDILSD49)

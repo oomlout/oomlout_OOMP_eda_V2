@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0805-X-O432-01-R8O432
 - Hex ID: FZOOMPKOOMPPRESE85XO4321R8O432
 - Name: oomlout_OOMP_parts : RESE-0805-X-O432-01-R8O432
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/RESE-0805-X-O432-01-R8O432/
 - Description: oomlout_OOMP_parts : RESE-0805-X-O432-01-R8O432
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0805-X-O432-01-R8O432](http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0805-X-O432-01-R8O432)
 - Short Link: [http://oom.lt/FZOOMPKOOMPPRESE85XO4321R8O432](http://oom.lt/FZOOMPKOOMPPRESE85XO4321R8O432)

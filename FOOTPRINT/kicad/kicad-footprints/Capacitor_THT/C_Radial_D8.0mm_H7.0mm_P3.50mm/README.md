@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Capacitor_THT-C_Radial_D8.0mm_H7.0mm_P3.50mm
 - Hex ID: FZKCCRD8H7P35
 - Name: Capacitor_THT : C_Radial_D8.0mm_H7.0mm_P3.50mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Capacitor_THT/C_Radial_D8.0mm_H7.0mm_P3.50mm/
 - Description: Capacitor_THT : C_Radial_D8.0mm_H7.0mm_P3.50mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_THT-C_Radial_D8.0mm_H7.0mm_P3.50mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_THT-C_Radial_D8.0mm_H7.0mm_P3.50mm)
 - Short Link: [http://oom.lt/FZKCCRD8H7P35](http://oom.lt/FZKCCRD8H7P35)

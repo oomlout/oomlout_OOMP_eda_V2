@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKCNPINSO1PINSO2X35P1FSM > Connector_PinSocket_1.00mm : PinSocket_2x35_P1.00mm_Vertical_SMD](#fzkcnpinso1pinso2x35p1fsm--connector_pinsocket_100mm--pinsocket_2x35_p100mm_vertical_smd)
+* [FZKCNPSO1PSO2X35P1FSM > Connector_PinSocket_1.00mm : PinSocket_2x35_P1.00mm_Vertical_SMD](#fzkcnpso1pso2x35p1fsm--connector_pinsocket_100mm--pinsocket_2x35_p100mm_vertical_smd)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKCNPINSO1PINSO2X35P1FSM > Connector_PinSocket_1.00mm : PinSocket_2x35_P1.00mm_Vertical_SMD
+# FZKCNPSO1PSO2X35P1FSM > Connector_PinSocket_1.00mm : PinSocket_2x35_P1.00mm_Vertical_SMD
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_PinSocket_1.00mm-PinSocket_2x35_P1.00mm_Vertical_SMD
-- Hex ID: FZKCNPINSO1PINSO2X35P1FSM
+- Hex ID: FZKCNPSO1PSO2X35P1FSM
 - Name: Connector_PinSocket_1.00mm : PinSocket_2x35_P1.00mm_Vertical_SMD
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_PinSocket_1.00mm/PinSocket_2x35_P1.00mm_Vertical_SMD/
 - Description: Connector_PinSocket_1.00mm : PinSocket_2x35_P1.00mm_Vertical_SMD
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_PinSocket_1.00mm-PinSocket_2x35_P1.00mm_Vertical_SMD](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_PinSocket_1.00mm-PinSocket_2x35_P1.00mm_Vertical_SMD)
-- Short Link: [http://oom.lt/FZKCNPINSO1PINSO2X35P1FSM](http://oom.lt/FZKCNPINSO1PINSO2X35P1FSM)
+- Short Link: [http://oom.lt/FZKCNPSO1PSO2X35P1FSM](http://oom.lt/FZKCNPSO1PSO2X35P1FSM)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Connector_PinSocket_1.00mm|
 |OOMP Index|oompIndex|PinSocket_2x35_P1.00mm_Vertical_SMD|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_PinSocket_1.00mm-PinSocket_2x35_P1.00mm_Vertical_SMD|
-|Hex ID (short code)|hexID|FZKCNPINSO1PINSO2X35P1FSM|
+|Hex ID (short code)|hexID|FZKCNPSO1PSO2X35P1FSM|
 |name|name|Connector_PinSocket_1.00mm : PinSocket_2x35_P1.00mm_Vertical_SMD|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'PinSocket_2x35_P1.00mm_Vertical_SMD'</td><td> 'description'</td></tr><tr><td> 'surface-mounted straight socket strip</td><td> 2x35</td><td> 1.00mm pitch</td><td> double cols (https</td></tr><tr><td>//gct.co/files/drawings/bc085.pdf)</td><td> script generated'</td><td> 'tags'</td></tr><tr><td> 'Surface mounted socket strip SMD 2x35 1.00mm double row'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_PinSocket_1.00mm.3dshapes/PinSocket_2x35_P1.00mm_Vertical_SMD.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

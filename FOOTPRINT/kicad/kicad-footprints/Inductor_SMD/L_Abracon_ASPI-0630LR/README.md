@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Abracon_ASPI-0630LR
 - Hex ID: FZKINLABRACONASPI63LR
 - Name: Inductor_SMD : L_Abracon_ASPI-0630LR
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Abracon_ASPI-0630LR/
 - Description: Inductor_SMD : L_Abracon_ASPI-0630LR
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Abracon_ASPI-0630LR](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Abracon_ASPI-0630LR)
 - Short Link: [http://oom.lt/FZKINLABRACONASPI63LR](http://oom.lt/FZKINLABRACONASPI63LR)

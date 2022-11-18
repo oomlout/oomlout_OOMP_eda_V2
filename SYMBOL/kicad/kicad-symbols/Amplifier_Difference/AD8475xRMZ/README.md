@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Difference-AD8475xRMZ
 - Hex ID: SZKAMPLIFIERDIFFERENCEAD8475XRMZ
 - Name: Amplifier_Difference : AD8475xRMZ
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Difference/AD8475xRMZ/
 - Description: Amplifier_Difference : AD8475xRMZ
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Difference-AD8475xRMZ](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Difference-AD8475xRMZ)
 - Short Link: [http://oom.lt/SZKAMPLIFIERDIFFERENCEAD8475XRMZ](http://oom.lt/SZKAMPLIFIERDIFFERENCEAD8475XRMZ)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-Diode_Bridge-KBPC35005W
 - Hex ID: SZKDIODEBRIDGEKBPC355W
 - Name: Diode_Bridge : KBPC35005W
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode_Bridge/KBPC35005W/
 - Description: Diode_Bridge : KBPC35005W
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode_Bridge-KBPC35005W](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode_Bridge-KBPC35005W)
 - Short Link: [http://oom.lt/SZKDIODEBRIDGEKBPC355W](http://oom.lt/SZKDIODEBRIDGEKBPC355W)

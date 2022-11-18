@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-conrad-741256-49
 - Hex ID: FZECONCONRAD74125649
 - Name: con-conrad : 741256-49
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-conrad/741256-49/
 - Description: con-conrad : 741256-49
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-conrad-741256-49](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-conrad-741256-49)
 - Short Link: [http://oom.lt/FZECONCONRAD74125649](http://oom.lt/FZECONCONRAD74125649)

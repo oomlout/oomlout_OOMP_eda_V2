@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Device-Q_PNP_ECB
 - Hex ID: SZKDEVICEQPNPECB
 - Name: Device : Q_PNP_ECB
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/Q_PNP_ECB/
 - Description: Device : Q_PNP_ECB
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Q_PNP_ECB](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Q_PNP_ECB)
 - Short Link: [http://oom.lt/SZKDEVICEQPNPECB](http://oom.lt/SZKDEVICEQPNPECB)

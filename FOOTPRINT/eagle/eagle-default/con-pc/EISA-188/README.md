@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-pc-EISA-188
 - Hex ID: FZECONPCEISA188
 - Name: con-pc : EISA-188
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-pc/EISA-188/
 - Description: con-pc : EISA-188
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-pc-EISA-188](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-pc-EISA-188)
 - Short Link: [http://oom.lt/FZECONPCEISA188](http://oom.lt/FZECONPCEISA188)

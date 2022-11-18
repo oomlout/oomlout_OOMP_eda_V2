@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-heatsink-D02A-L
 - Hex ID: FZEHD2AL
 - Name: heatsink : D02A-L
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/heatsink/D02A-L/
 - Description: heatsink : D02A-L
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-heatsink-D02A-L](http://oom.lt/FOOTPRINT-eagle-eagle-default-heatsink-D02A-L)
 - Short Link: [http://oom.lt/FZEHD2AL](http://oom.lt/FZEHD2AL)

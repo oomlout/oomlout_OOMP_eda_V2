@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-rcl-L2825P
 - Hex ID: FZERCLL2825P
 - Name: rcl : L2825P
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/rcl/L2825P/
 - Description: rcl : L2825P
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-L2825P](http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-L2825P)
 - Short Link: [http://oom.lt/FZERCLL2825P](http://oom.lt/FZERCLL2825P)

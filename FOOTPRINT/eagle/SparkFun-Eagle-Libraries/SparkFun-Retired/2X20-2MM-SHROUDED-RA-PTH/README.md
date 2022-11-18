@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-2X20-2MM-SHROUDED-RA-PTH
 - Hex ID: FZSRT2X22SHRAP
 - Name: SparkFun-Retired : 2X20-2MM-SHROUDED-RA-PTH
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Retired/2X20-2MM-SHROUDED-RA-PTH/
 - Description: SparkFun-Retired : 2X20-2MM-SHROUDED-RA-PTH
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-2X20-2MM-SHROUDED-RA-PTH](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-2X20-2MM-SHROUDED-RA-PTH)
 - Short Link: [http://oom.lt/FZSRT2X22SHRAP](http://oom.lt/FZSRT2X22SHRAP)

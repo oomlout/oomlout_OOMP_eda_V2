@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-LED-TSAL4400
 - Hex ID: SZKLTSAL44
 - Name: LED : TSAL4400
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/LED/TSAL4400/
 - Description: LED : TSAL4400
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-LED-TSAL4400](http://oom.lt/SYMBOL-kicad-kicad-symbols-LED-TSAL4400)
 - Short Link: [http://oom.lt/SZKLTSAL44](http://oom.lt/SZKLTSAL44)

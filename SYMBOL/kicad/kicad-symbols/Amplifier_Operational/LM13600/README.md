@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LM13600
 - Hex ID: SZKAMPLIFIEROPERATIONALLM136
 - Name: Amplifier_Operational : LM13600
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/LM13600/
 - Description: Amplifier_Operational : LM13600
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LM13600](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LM13600)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALLM136](http://oom.lt/SZKAMPLIFIEROPERATIONALLM136)

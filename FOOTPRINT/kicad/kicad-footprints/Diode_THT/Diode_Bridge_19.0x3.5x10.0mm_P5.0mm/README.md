@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Diode_THT-Diode_Bridge_19.0x3.5x10.0mm_P5.0mm
 - Hex ID: FZKDDIODEBRIDGE19X35X1P5
 - Name: Diode_THT : Diode_Bridge_19.0x3.5x10.0mm_P5.0mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Diode_THT/Diode_Bridge_19.0x3.5x10.0mm_P5.0mm/
 - Description: Diode_THT : Diode_Bridge_19.0x3.5x10.0mm_P5.0mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Diode_THT-Diode_Bridge_19.0x3.5x10.0mm_P5.0mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Diode_THT-Diode_Bridge_19.0x3.5x10.0mm_P5.0mm)
 - Short Link: [http://oom.lt/FZKDDIODEBRIDGE19X35X1P5](http://oom.lt/FZKDDIODEBRIDGE19X35X1P5)

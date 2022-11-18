@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface-DS90C124
 - Hex ID: SZKINTERFACEDS9C124
 - Name: Interface : DS90C124
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface/DS90C124/
 - Description: Interface : DS90C124
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-DS90C124](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-DS90C124)
 - Short Link: [http://oom.lt/SZKINTERFACEDS9C124](http://oom.lt/SZKINTERFACEDS9C124)

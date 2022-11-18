@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Converter_DCDC-Converter_DCDC_TRACO_TDN_5-xxxxWI_THT
 - Hex ID: FZKCONCONTRACOTDN5XXXXWITHT
 - Name: Converter_DCDC : Converter_DCDC_TRACO_TDN_5-xxxxWI_THT
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Converter_DCDC/Converter_DCDC_TRACO_TDN_5-xxxxWI_THT/
 - Description: Converter_DCDC : Converter_DCDC_TRACO_TDN_5-xxxxWI_THT
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Converter_DCDC-Converter_DCDC_TRACO_TDN_5-xxxxWI_THT](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Converter_DCDC-Converter_DCDC_TRACO_TDN_5-xxxxWI_THT)
 - Short Link: [http://oom.lt/FZKCONCONTRACOTDN5XXXXWITHT](http://oom.lt/FZKCONCONTRACOTDN5XXXXWITHT)

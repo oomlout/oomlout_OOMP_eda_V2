@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEREFPACKAGESLONGPADTS6X2 > ref-packages-longpad : TSOP6X20](#fzerefpackageslongpadts6x2--ref-packages-longpad--tsop6x20)
+* [FZEREFPSLPTS6X2 > ref-packages-longpad : TSOP6X20](#fzerefpslpts6x2--ref-packages-longpad--tsop6x20)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEREFPACKAGESLONGPADTS6X2 > ref-packages-longpad : TSOP6X20
+# FZEREFPSLPTS6X2 > ref-packages-longpad : TSOP6X20
 
 - ID: FOOTPRINT-eagle-eagle-default-ref-packages-longpad-TSOP6X20
-- Hex ID: FZEREFPACKAGESLONGPADTS6X2
+- Hex ID: FZEREFPSLPTS6X2
 - Name: ref-packages-longpad : TSOP6X20
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ref-packages-longpad/TSOP6X20/
 - Description: ref-packages-longpad : TSOP6X20
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-longpad-TSOP6X20](http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-longpad-TSOP6X20)
-- Short Link: [http://oom.lt/FZEREFPACKAGESLONGPADTS6X2](http://oom.lt/FZEREFPACKAGESLONGPADTS6X2)
+- Short Link: [http://oom.lt/FZEREFPSLPTS6X2](http://oom.lt/FZEREFPSLPTS6X2)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|ref-packages-longpad|
 |OOMP Index|oompIndex|TSOP6X20|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-ref-packages-longpad-TSOP6X20|
-|Hex ID (short code)|hexID|FZEREFPACKAGESLONGPADTS6X2|
+|Hex ID (short code)|hexID|FZEREFPSLPTS6X2|
 |name|name|ref-packages-longpad : TSOP6X20|
 ||||

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-TerminalBlock_4Ucon-TerminalBlock_4Ucon_1x02_P3.50mm_Vertical
 - Hex ID: FZKTB4UCONTB4UCON1X2P35F
 - Name: TerminalBlock_4Ucon : TerminalBlock_4Ucon_1x02_P3.50mm_Vertical
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/TerminalBlock_4Ucon/TerminalBlock_4Ucon_1x02_P3.50mm_Vertical/
 - Description: TerminalBlock_4Ucon : TerminalBlock_4Ucon_1x02_P3.50mm_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-TerminalBlock_4Ucon-TerminalBlock_4Ucon_1x02_P3.50mm_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-TerminalBlock_4Ucon-TerminalBlock_4Ucon_1x02_P3.50mm_Vertical)
 - Short Link: [http://oom.lt/FZKTB4UCONTB4UCON1X2P35F](http://oom.lt/FZKTB4UCONTB4UCON1X2P35F)

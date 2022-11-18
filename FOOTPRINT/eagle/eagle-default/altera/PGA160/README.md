@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-altera-PGA160
 - Hex ID: FZEALTERAPGA16
 - Name: altera : PGA160
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/altera/PGA160/
 - Description: altera : PGA160
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-altera-PGA160](http://oom.lt/FOOTPRINT-eagle-eagle-default-altera-PGA160)
 - Short Link: [http://oom.lt/FZEALTERAPGA16](http://oom.lt/FZEALTERAPGA16)

@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKDFNUQFN21EP4X4P5EP28X28THERMALVIAS > Package_DFN_QFN : UQFN-20-1EP_4x4mm_P0.5mm_EP2.8x2.8mm_ThermalVias](#fzkdfnuqfn21ep4x4p5ep28x28thermalvias--package_dfn_qfn--uqfn-20-1ep_4x4mm_p05mm_ep28x28mm_thermalvias)
+* [FZKDFNUQFN21EP4X4P5EP28X28THV > Package_DFN_QFN : UQFN-20-1EP_4x4mm_P0.5mm_EP2.8x2.8mm_ThermalVias](#fzkdfnuqfn21ep4x4p5ep28x28thv--package_dfn_qfn--uqfn-20-1ep_4x4mm_p05mm_ep28x28mm_thermalvias)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKDFNUQFN21EP4X4P5EP28X28THERMALVIAS > Package_DFN_QFN : UQFN-20-1EP_4x4mm_P0.5mm_EP2.8x2.8mm_ThermalVias
+# FZKDFNUQFN21EP4X4P5EP28X28THV > Package_DFN_QFN : UQFN-20-1EP_4x4mm_P0.5mm_EP2.8x2.8mm_ThermalVias
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-UQFN-20-1EP_4x4mm_P0.5mm_EP2.8x2.8mm_ThermalVias
-- Hex ID: FZKDFNUQFN21EP4X4P5EP28X28THERMALVIAS
+- Hex ID: FZKDFNUQFN21EP4X4P5EP28X28THV
 - Name: Package_DFN_QFN : UQFN-20-1EP_4x4mm_P0.5mm_EP2.8x2.8mm_ThermalVias
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/UQFN-20-1EP_4x4mm_P0.5mm_EP2.8x2.8mm_ThermalVias/
 - Description: Package_DFN_QFN : UQFN-20-1EP_4x4mm_P0.5mm_EP2.8x2.8mm_ThermalVias
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-UQFN-20-1EP_4x4mm_P0.5mm_EP2.8x2.8mm_ThermalVias](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-UQFN-20-1EP_4x4mm_P0.5mm_EP2.8x2.8mm_ThermalVias)
-- Short Link: [http://oom.lt/FZKDFNUQFN21EP4X4P5EP28X28THERMALVIAS](http://oom.lt/FZKDFNUQFN21EP4X4P5EP28X28THERMALVIAS)
+- Short Link: [http://oom.lt/FZKDFNUQFN21EP4X4P5EP28X28THV](http://oom.lt/FZKDFNUQFN21EP4X4P5EP28X28THV)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Package_DFN_QFN|
 |OOMP Index|oompIndex|UQFN-20-1EP_4x4mm_P0.5mm_EP2.8x2.8mm_ThermalVias|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-UQFN-20-1EP_4x4mm_P0.5mm_EP2.8x2.8mm_ThermalVias|
-|Hex ID (short code)|hexID|FZKDFNUQFN21EP4X4P5EP28X28THERMALVIAS|
+|Hex ID (short code)|hexID|FZKDFNUQFN21EP4X4P5EP28X28THV|
 |name|name|Package_DFN_QFN : UQFN-20-1EP_4x4mm_P0.5mm_EP2.8x2.8mm_ThermalVias|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'UQFN-20-1EP_4x4mm_P0.5mm_EP2.8x2.8mm_ThermalVias'</td><td> 'description'</td></tr><tr><td> 'UQFN</td><td> 20 Pin (http</td></tr><tr><td>//ww1.microchip.com/downloads/en/DeviceDoc/40001839B.pdf#page=464)</td><td> generated with kicad-footprint-generator ipc_noLead_generator.py'</td><td> 'tags'</td></tr><tr><td> 'UQFN NoLead'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_DFN_QFN.3dshapes/UQFN-20-1EP_4x4mm_P0.5mm_EP2.8x2.8mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||

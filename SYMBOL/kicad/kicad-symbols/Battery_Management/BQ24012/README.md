@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Battery_Management-BQ24012
 - Hex ID: SZKBATMANAGEMENTBQ2412
 - Name: Battery_Management : BQ24012
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Battery_Management/BQ24012/
 - Description: Battery_Management : BQ24012
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Battery_Management-BQ24012](http://oom.lt/SYMBOL-kicad-kicad-symbols-Battery_Management-BQ24012)
 - Short Link: [http://oom.lt/SZKBATMANAGEMENTBQ2412](http://oom.lt/SZKBATMANAGEMENTBQ2412)

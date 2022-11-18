@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Resistor_THT-R_Axial_DIN0204_L3.6mm_D1.6mm_P1.90mm_Vertical
 - Hex ID: FZKRRAXIALDIN24L36D16P19F
 - Name: Resistor_THT : R_Axial_DIN0204_L3.6mm_D1.6mm_P1.90mm_Vertical
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Resistor_THT/R_Axial_DIN0204_L3.6mm_D1.6mm_P1.90mm_Vertical/
 - Description: Resistor_THT : R_Axial_DIN0204_L3.6mm_D1.6mm_P1.90mm_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Resistor_THT-R_Axial_DIN0204_L3.6mm_D1.6mm_P1.90mm_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Resistor_THT-R_Axial_DIN0204_L3.6mm_D1.6mm_P1.90mm_Vertical)
 - Short Link: [http://oom.lt/FZKRRAXIALDIN24L36D16P19F](http://oom.lt/FZKRRAXIALDIN24L36D16P19F)

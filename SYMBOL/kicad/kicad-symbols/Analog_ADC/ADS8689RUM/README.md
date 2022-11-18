@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Analog_ADC-ADS8689RUM
 - Hex ID: SZKANALOGADCADS8689RUM
 - Name: Analog_ADC : ADS8689RUM
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog_ADC/ADS8689RUM/
 - Description: Analog_ADC : ADS8689RUM
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-ADS8689RUM](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-ADS8689RUM)
 - Short Link: [http://oom.lt/SZKANALOGADCADS8689RUM](http://oom.lt/SZKANALOGADCADS8689RUM)

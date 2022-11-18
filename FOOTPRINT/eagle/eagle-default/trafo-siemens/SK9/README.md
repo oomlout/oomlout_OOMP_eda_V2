@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-trafo-siemens-SK9
 - Hex ID: FZETRAFOSIEMENSSK9
 - Name: trafo-siemens : SK9
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/trafo-siemens/SK9/
 - Description: trafo-siemens : SK9
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-trafo-siemens-SK9](http://oom.lt/FOOTPRINT-eagle-eagle-default-trafo-siemens-SK9)
 - Short Link: [http://oom.lt/FZETRAFOSIEMENSSK9](http://oom.lt/FZETRAFOSIEMENSSK9)

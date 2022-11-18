@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-RESE-0402-X-O470-01-R4O470-C25118
 - Hex ID: SZOOMPKJLCRESE42XO471R4O47C25118
 - Name: oomlout_OOMP_JLCC_Basic : RESE-0402-X-O470-01-R4O470-C25118
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_JLCC_Basic/RESE-0402-X-O470-01-R4O470-C25118/
 - Description: oomlout_OOMP_JLCC_Basic : RESE-0402-X-O470-01-R4O470-C25118
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-RESE-0402-X-O470-01-R4O470-C25118](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-RESE-0402-X-O470-01-R4O470-C25118)
 - Short Link: [http://oom.lt/SZOOMPKJLCRESE42XO471R4O47C25118](http://oom.lt/SZOOMPKJLCRESE42XO471R4O47C25118)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-RJ45_Female_RB1-125BAG1A
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSRJ45FRB1125BAG1A
 - Name: digikey-footprints : RJ45_Female_RB1-125BAG1A
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/RJ45_Female_RB1-125BAG1A/
 - Description: digikey-footprints : RJ45_Female_RB1-125BAG1A
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-RJ45_Female_RB1-125BAG1A](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-RJ45_Female_RB1-125BAG1A)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSRJ45FRB1125BAG1A](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSRJ45FRB1125BAG1A)

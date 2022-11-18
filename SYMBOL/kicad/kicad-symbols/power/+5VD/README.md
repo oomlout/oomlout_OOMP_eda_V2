@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-power-+5VD
 - Hex ID: SZKPOWER+5VD
 - Name: power : +5VD
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/power/+5VD/
 - Description: power : +5VD
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-power-+5VD](http://oom.lt/SYMBOL-kicad-kicad-symbols-power-+5VD)
 - Short Link: [http://oom.lt/SZKPOWER+5VD](http://oom.lt/SZKPOWER+5VD)

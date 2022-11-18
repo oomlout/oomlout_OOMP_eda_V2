@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-switch-alps-ALPS_EC12E_SW
 - Hex ID: FZESWALPSALPSEC12ESW
 - Name: switch-alps : ALPS_EC12E_SW
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/switch-alps/ALPS_EC12E_SW/
 - Description: switch-alps : ALPS_EC12E_SW
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-alps-ALPS_EC12E_SW](http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-alps-ALPS_EC12E_SW)
 - Short Link: [http://oom.lt/FZESWALPSALPSEC12ESW](http://oom.lt/FZESWALPSALPSEC12ESW)

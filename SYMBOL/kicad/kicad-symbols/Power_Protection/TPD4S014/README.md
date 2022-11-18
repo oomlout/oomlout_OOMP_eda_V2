@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Power_Protection-TPD4S014
 - Hex ID: SZKPOWERPROTECTIONTPD4S14
 - Name: Power_Protection : TPD4S014
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Power_Protection/TPD4S014/
 - Description: Power_Protection : TPD4S014
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Protection-TPD4S014](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Protection-TPD4S014)
 - Short Link: [http://oom.lt/SZKPOWERPROTECTIONTPD4S14](http://oom.lt/SZKPOWERPROTECTIONTPD4S14)

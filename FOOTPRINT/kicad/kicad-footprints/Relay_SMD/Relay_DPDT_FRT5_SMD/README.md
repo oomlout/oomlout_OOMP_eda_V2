@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Relay_SMD-Relay_DPDT_FRT5_SMD
 - Hex ID: FZKRELRELAYDPDTFRT5SM
 - Name: Relay_SMD : Relay_DPDT_FRT5_SMD
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Relay_SMD/Relay_DPDT_FRT5_SMD/
 - Description: Relay_SMD : Relay_DPDT_FRT5_SMD
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Relay_SMD-Relay_DPDT_FRT5_SMD](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Relay_SMD-Relay_DPDT_FRT5_SMD)
 - Short Link: [http://oom.lt/FZKRELRELAYDPDTFRT5SM](http://oom.lt/FZKRELRELAYDPDTFRT5SM)

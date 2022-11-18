@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Wuerth_HCM-1240
 - Hex ID: FZKINLWUERTHHCM124
 - Name: Inductor_SMD : L_Wuerth_HCM-1240
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Wuerth_HCM-1240/
 - Description: Inductor_SMD : L_Wuerth_HCM-1240
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Wuerth_HCM-1240](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Wuerth_HCM-1240)
 - Short Link: [http://oom.lt/FZKINLWUERTHHCM124](http://oom.lt/FZKINLWUERTHHCM124)

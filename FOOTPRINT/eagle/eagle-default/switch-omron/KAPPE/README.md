@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-switch-omron-KAPPE
 - Hex ID: FZESWOMRONKAPPE
 - Name: switch-omron : KAPPE
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/switch-omron/KAPPE/
 - Description: switch-omron : KAPPE
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-omron-KAPPE](http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-omron-KAPPE)
 - Short Link: [http://oom.lt/FZESWOMRONKAPPE](http://oom.lt/FZESWOMRONKAPPE)

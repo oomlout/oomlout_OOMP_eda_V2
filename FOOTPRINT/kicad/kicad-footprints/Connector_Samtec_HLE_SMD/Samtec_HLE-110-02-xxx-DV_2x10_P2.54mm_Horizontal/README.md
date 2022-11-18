@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_Samtec_HLE_SMD-Samtec_HLE-110-02-xxx-DV_2x10_P2.54mm_Horizontal
 - Hex ID: FZKCNSAMTECHLESMSAMTECHLE112XXXDV2X1P254H
 - Name: Connector_Samtec_HLE_SMD : Samtec_HLE-110-02-xxx-DV_2x10_P2.54mm_Horizontal
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Samtec_HLE_SMD/Samtec_HLE-110-02-xxx-DV_2x10_P2.54mm_Horizontal/
 - Description: Connector_Samtec_HLE_SMD : Samtec_HLE-110-02-xxx-DV_2x10_P2.54mm_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Samtec_HLE_SMD-Samtec_HLE-110-02-xxx-DV_2x10_P2.54mm_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Samtec_HLE_SMD-Samtec_HLE-110-02-xxx-DV_2x10_P2.54mm_Horizontal)
 - Short Link: [http://oom.lt/FZKCNSAMTECHLESMSAMTECHLE112XXXDV2X1P254H](http://oom.lt/FZKCNSAMTECHLESMSAMTECHLE112XXXDV2X1P254H)

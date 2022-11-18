@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_SON-Texas_S-PDSO-N12
 - Hex ID: FZKSONTEXASSPDSON12
 - Name: Package_SON : Texas_S-PDSO-N12
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SON/Texas_S-PDSO-N12/
 - Description: Package_SON : Texas_S-PDSO-N12
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SON-Texas_S-PDSO-N12](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SON-Texas_S-PDSO-N12)
 - Short Link: [http://oom.lt/FZKSONTEXASSPDSON12](http://oom.lt/FZKSONTEXASSPDSON12)

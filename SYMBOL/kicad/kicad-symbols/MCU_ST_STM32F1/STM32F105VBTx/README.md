@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F1-STM32F105VBTx
 - Hex ID: SZKMCUSTSTM32F1STM32F15VBTX
 - Name: MCU_ST_STM32F1 : STM32F105VBTx
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32F1/STM32F105VBTx/
 - Description: MCU_ST_STM32F1 : STM32F105VBTx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F1-STM32F105VBTx](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F1-STM32F105VBTx)
 - Short Link: [http://oom.lt/SZKMCUSTSTM32F1STM32F15VBTX](http://oom.lt/SZKMCUSTSTM32F1STM32F15VBTX)

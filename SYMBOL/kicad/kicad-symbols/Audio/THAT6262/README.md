@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Audio-THAT6262
 - Hex ID: SZKAUDIOTHAT6262
 - Name: Audio : THAT6262
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Audio/THAT6262/
 - Description: Audio : THAT6262
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Audio-THAT6262](http://oom.lt/SYMBOL-kicad-kicad-symbols-Audio-THAT6262)
 - Short Link: [http://oom.lt/SZKAUDIOTHAT6262](http://oom.lt/SZKAUDIOTHAT6262)

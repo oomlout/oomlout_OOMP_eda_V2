@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Texas-LM3S6911-IQC50
 - Hex ID: SZKMCUTEXASLM3S6911IQC5
 - Name: MCU_Texas : LM3S6911-IQC50
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Texas/LM3S6911-IQC50/
 - Description: MCU_Texas : LM3S6911-IQC50
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Texas-LM3S6911-IQC50](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Texas-LM3S6911-IQC50)
 - Short Link: [http://oom.lt/SZKMCUTEXASLM3S6911IQC5](http://oom.lt/SZKMCUTEXASLM3S6911IQC5)

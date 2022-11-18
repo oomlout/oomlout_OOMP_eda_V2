@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Power_Management-BTS724G
 - Hex ID: SZKPOWERMANAGEMENTBTS724G
 - Name: Power_Management : BTS724G
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Power_Management/BTS724G/
 - Description: Power_Management : BTS724G
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-BTS724G](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-BTS724G)
 - Short Link: [http://oom.lt/SZKPOWERMANAGEMENTBTS724G](http://oom.lt/SZKPOWERMANAGEMENTBTS724G)

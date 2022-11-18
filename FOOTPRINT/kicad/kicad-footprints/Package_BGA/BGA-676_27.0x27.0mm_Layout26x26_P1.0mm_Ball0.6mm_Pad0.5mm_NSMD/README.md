@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKBGABGA67627X27LAYOUT26X26P1BALL6PAD5NSM > Package_BGA : BGA-676_27.0x27.0mm_Layout26x26_P1.0mm_Ball0.6mm_Pad0.5mm_NSMD](#fzkbgabga67627x27layout26x26p1ball6pad5nsm--package_bga--bga-676_270x270mm_layout26x26_p10mm_ball06mm_pad05mm_nsmd)
+* [FZKBGABGA67627X27LAYOUT26X26P1BALL6P5NSM > Package_BGA : BGA-676_27.0x27.0mm_Layout26x26_P1.0mm_Ball0.6mm_Pad0.5mm_NSMD](#fzkbgabga67627x27layout26x26p1ball6p5nsm--package_bga--bga-676_270x270mm_layout26x26_p10mm_ball06mm_pad05mm_nsmd)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKBGABGA67627X27LAYOUT26X26P1BALL6PAD5NSM > Package_BGA : BGA-676_27.0x27.0mm_Layout26x26_P1.0mm_Ball0.6mm_Pad0.5mm_NSMD
+# FZKBGABGA67627X27LAYOUT26X26P1BALL6P5NSM > Package_BGA : BGA-676_27.0x27.0mm_Layout26x26_P1.0mm_Ball0.6mm_Pad0.5mm_NSMD
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_BGA-BGA-676_27.0x27.0mm_Layout26x26_P1.0mm_Ball0.6mm_Pad0.5mm_NSMD
-- Hex ID: FZKBGABGA67627X27LAYOUT26X26P1BALL6PAD5NSM
+- Hex ID: FZKBGABGA67627X27LAYOUT26X26P1BALL6P5NSM
 - Name: Package_BGA : BGA-676_27.0x27.0mm_Layout26x26_P1.0mm_Ball0.6mm_Pad0.5mm_NSMD
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_BGA/BGA-676_27.0x27.0mm_Layout26x26_P1.0mm_Ball0.6mm_Pad0.5mm_NSMD/
 - Description: Package_BGA : BGA-676_27.0x27.0mm_Layout26x26_P1.0mm_Ball0.6mm_Pad0.5mm_NSMD
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_BGA-BGA-676_27.0x27.0mm_Layout26x26_P1.0mm_Ball0.6mm_Pad0.5mm_NSMD](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_BGA-BGA-676_27.0x27.0mm_Layout26x26_P1.0mm_Ball0.6mm_Pad0.5mm_NSMD)
-- Short Link: [http://oom.lt/FZKBGABGA67627X27LAYOUT26X26P1BALL6PAD5NSM](http://oom.lt/FZKBGABGA67627X27LAYOUT26X26P1BALL6PAD5NSM)
+- Short Link: [http://oom.lt/FZKBGABGA67627X27LAYOUT26X26P1BALL6P5NSM](http://oom.lt/FZKBGABGA67627X27LAYOUT26X26P1BALL6P5NSM)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Package_BGA|
 |OOMP Index|oompIndex|BGA-676_27.0x27.0mm_Layout26x26_P1.0mm_Ball0.6mm_Pad0.5mm_NSMD|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_BGA-BGA-676_27.0x27.0mm_Layout26x26_P1.0mm_Ball0.6mm_Pad0.5mm_NSMD|
-|Hex ID (short code)|hexID|FZKBGABGA67627X27LAYOUT26X26P1BALL6PAD5NSM|
+|Hex ID (short code)|hexID|FZKBGABGA67627X27LAYOUT26X26P1BALL6P5NSM|
 |name|name|Package_BGA : BGA-676_27.0x27.0mm_Layout26x26_P1.0mm_Ball0.6mm_Pad0.5mm_NSMD|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'BGA-676_27.0x27.0mm_Layout26x26_P1.0mm_Ball0.6mm_Pad0.5mm_NSMD'</td><td> 'description'</td></tr><tr><td> 'XILINX BGA-676</td><td> https</td></tr><tr><td>//www.xilinx.com/support/documentation/package_specs/fg676.pdf'</td><td> 'tags'</td></tr><tr><td> 'XILINX BGA-676 FG676/FGG676'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_BGA.3dshapes/BGA-676_27.0x27.0mm_Layout26x26_P1.0mm_Ball0.6mm_Pad0.5mm_NSMD.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||

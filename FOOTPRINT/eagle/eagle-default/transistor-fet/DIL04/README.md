@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-transistor-fet-DIL04
 - Hex ID: FZETRANSISTORFETDIL4
 - Name: transistor-fet : DIL04
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/transistor-fet/DIL04/
 - Description: transistor-fet : DIL04
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-fet-DIL04](http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-fet-DIL04)
 - Short Link: [http://oom.lt/FZETRANSISTORFETDIL4](http://oom.lt/FZETRANSISTORFETDIL4)

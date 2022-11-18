@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Analog_ADC-INA226
 - Hex ID: SZKANALOGADCINA226
 - Name: Analog_ADC : INA226
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog_ADC/INA226/
 - Description: Analog_ADC : INA226
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-INA226](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-INA226)
 - Short Link: [http://oom.lt/SZKANALOGADCINA226](http://oom.lt/SZKANALOGADCINA226)

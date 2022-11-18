@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Battery_Management-LC709203FQH-04TWG
 - Hex ID: SZKBATMANAGEMENTLC7923FQH4TWG
 - Name: Battery_Management : LC709203FQH-04TWG
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Battery_Management/LC709203FQH-04TWG/
 - Description: Battery_Management : LC709203FQH-04TWG
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Battery_Management-LC709203FQH-04TWG](http://oom.lt/SYMBOL-kicad-kicad-symbols-Battery_Management-LC709203FQH-04TWG)
 - Short Link: [http://oom.lt/SZKBATMANAGEMENTLC7923FQH4TWG](http://oom.lt/SZKBATMANAGEMENTLC7923FQH4TWG)

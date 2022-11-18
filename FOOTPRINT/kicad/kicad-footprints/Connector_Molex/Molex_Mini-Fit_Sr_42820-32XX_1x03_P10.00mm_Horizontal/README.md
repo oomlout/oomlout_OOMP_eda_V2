@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_Mini-Fit_Sr_42820-32XX_1x03_P10.00mm_Horizontal
 - Hex ID: FZKCNMXMXMFITSR428232XX1X3P1H
 - Name: Connector_Molex : Molex_Mini-Fit_Sr_42820-32XX_1x03_P10.00mm_Horizontal
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_Mini-Fit_Sr_42820-32XX_1x03_P10.00mm_Horizontal/
 - Description: Connector_Molex : Molex_Mini-Fit_Sr_42820-32XX_1x03_P10.00mm_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_Mini-Fit_Sr_42820-32XX_1x03_P10.00mm_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_Mini-Fit_Sr_42820-32XX_1x03_P10.00mm_Horizontal)
 - Short Link: [http://oom.lt/FZKCNMXMXMFITSR428232XX1X3P1H](http://oom.lt/FZKCNMXMXMFITSR428232XX1X3P1H)

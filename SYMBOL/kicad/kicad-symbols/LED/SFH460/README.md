@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-LED-SFH460
 - Hex ID: SZKLSFH46
 - Name: LED : SFH460
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/LED/SFH460/
 - Description: LED : SFH460
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-LED-SFH460](http://oom.lt/SYMBOL-kicad-kicad-symbols-LED-SFH460)
 - Short Link: [http://oom.lt/SZKLSFH46](http://oom.lt/SZKLSFH46)

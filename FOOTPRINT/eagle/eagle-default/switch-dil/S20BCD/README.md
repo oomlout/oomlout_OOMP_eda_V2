@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-switch-dil-S20BCD
 - Hex ID: FZESWDILS2BCD
 - Name: switch-dil : S20BCD
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/switch-dil/S20BCD/
 - Description: switch-dil : S20BCD
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-dil-S20BCD](http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-dil-S20BCD)
 - Short Link: [http://oom.lt/FZESWDILS2BCD](http://oom.lt/FZESWDILS2BCD)

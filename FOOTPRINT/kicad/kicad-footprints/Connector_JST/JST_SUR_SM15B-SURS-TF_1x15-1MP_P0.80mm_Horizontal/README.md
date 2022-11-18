@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_SUR_SM15B-SURS-TF_1x15-1MP_P0.80mm_Horizontal
 - Hex ID: FZKCNJSTJSTSURSM15BSURSTF1X151MPP8H
 - Name: Connector_JST : JST_SUR_SM15B-SURS-TF_1x15-1MP_P0.80mm_Horizontal
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_SUR_SM15B-SURS-TF_1x15-1MP_P0.80mm_Horizontal/
 - Description: Connector_JST : JST_SUR_SM15B-SURS-TF_1x15-1MP_P0.80mm_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_SUR_SM15B-SURS-TF_1x15-1MP_P0.80mm_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_SUR_SM15B-SURS-TF_1x15-1MP_P0.80mm_Horizontal)
 - Short Link: [http://oom.lt/FZKCNJSTJSTSURSM15BSURSTF1X151MPP8H](http://oom.lt/FZKCNJSTJSTSURSM15BSURSTF1X151MPP8H)

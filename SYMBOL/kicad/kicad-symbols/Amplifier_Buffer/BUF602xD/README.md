@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Buffer-BUF602xD
 - Hex ID: SZKAMPLIFIERBUFFERBUF62XD
 - Name: Amplifier_Buffer : BUF602xD
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Buffer/BUF602xD/
 - Description: Amplifier_Buffer : BUF602xD
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Buffer-BUF602xD](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Buffer-BUF602xD)
 - Short Link: [http://oom.lt/SZKAMPLIFIERBUFFERBUF62XD](http://oom.lt/SZKAMPLIFIERBUFFERBUF62XD)

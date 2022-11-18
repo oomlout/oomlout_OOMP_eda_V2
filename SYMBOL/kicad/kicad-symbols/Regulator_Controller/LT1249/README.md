@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Controller-LT1249
 - Hex ID: SZKREGULATORCONTROLLERLT1249
 - Name: Regulator_Controller : LT1249
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Controller/LT1249/
 - Description: Regulator_Controller : LT1249
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Controller-LT1249](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Controller-LT1249)
 - Short Link: [http://oom.lt/SZKREGULATORCONTROLLERLT1249](http://oom.lt/SZKREGULATORCONTROLLERLT1249)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-switch-misc-RACON12
 - Hex ID: FZESWMISCRACON12
 - Name: switch-misc : RACON12
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/switch-misc/RACON12/
 - Description: switch-misc : RACON12
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-misc-RACON12](http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-misc-RACON12)
 - Short Link: [http://oom.lt/FZESWMISCRACON12](http://oom.lt/FZESWMISCRACON12)

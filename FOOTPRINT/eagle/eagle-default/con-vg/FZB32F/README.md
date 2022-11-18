@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-vg-FZB32F
 - Hex ID: FZECONVGFZB32F
 - Name: con-vg : FZB32F
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-vg/FZB32F/
 - Description: con-vg : FZB32F
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-vg-FZB32F](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-vg-FZB32F)
 - Short Link: [http://oom.lt/FZECONVGFZB32F](http://oom.lt/FZECONVGFZB32F)

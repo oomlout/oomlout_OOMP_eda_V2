@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-ALTOIDSSMALLS
 - Hex ID: FZAALTOIDSSLLS
 - Name: adafruit : ALTOIDSSMALLS
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/ALTOIDSSMALLS/
 - Description: adafruit : ALTOIDSSMALLS
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-ALTOIDSSMALLS](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-ALTOIDSSMALLS)
 - Short Link: [http://oom.lt/FZAALTOIDSSLLS](http://oom.lt/FZAALTOIDSSLLS)

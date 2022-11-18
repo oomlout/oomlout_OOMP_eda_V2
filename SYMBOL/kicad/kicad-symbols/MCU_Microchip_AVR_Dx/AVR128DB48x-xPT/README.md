@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_AVR_Dx-AVR128DB48x-xPT
 - Hex ID: SZKMCUMCHIPAVRDXAVR128DB48XXPT
 - Name: MCU_Microchip_AVR_Dx : AVR128DB48x-xPT
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_AVR_Dx/AVR128DB48x-xPT/
 - Description: MCU_Microchip_AVR_Dx : AVR128DB48x-xPT
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_AVR_Dx-AVR128DB48x-xPT](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_AVR_Dx-AVR128DB48x-xPT)
 - Short Link: [http://oom.lt/SZKMCUMCHIPAVRDXAVR128DB48XXPT](http://oom.lt/SZKMCUMCHIPAVRDXAVR128DB48XXPT)

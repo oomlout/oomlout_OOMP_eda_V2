@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F4-STM32F405OEYx
 - Hex ID: SZKMCUSTSTM32F4STM32F45OEYX
 - Name: MCU_ST_STM32F4 : STM32F405OEYx
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32F4/STM32F405OEYx/
 - Description: MCU_ST_STM32F4 : STM32F405OEYx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F4-STM32F405OEYx](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F4-STM32F405OEYx)
 - Short Link: [http://oom.lt/SZKMCUSTSTM32F4STM32F45OEYX](http://oom.lt/SZKMCUSTSTM32F4STM32F45OEYX)

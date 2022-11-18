@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Diode_THT-D_DO-34_SOD68_P2.54mm_Vertical_KathodeUp
 - Hex ID: FZKDDDO34SOD68P254FKATHODEUP
 - Name: Diode_THT : D_DO-34_SOD68_P2.54mm_Vertical_KathodeUp
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Diode_THT/D_DO-34_SOD68_P2.54mm_Vertical_KathodeUp/
 - Description: Diode_THT : D_DO-34_SOD68_P2.54mm_Vertical_KathodeUp
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Diode_THT-D_DO-34_SOD68_P2.54mm_Vertical_KathodeUp](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Diode_THT-D_DO-34_SOD68_P2.54mm_Vertical_KathodeUp)
 - Short Link: [http://oom.lt/FZKDDDO34SOD68P254FKATHODEUP](http://oom.lt/FZKDDDO34SOD68P254FKATHODEUP)

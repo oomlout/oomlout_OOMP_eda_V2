@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O122-01-R6122
 - Hex ID: FZOOMPKOOMPPRESE63XO1221R6122
 - Name: oomlout_OOMP_parts : RESE-0603-X-O122-01-R6122
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/RESE-0603-X-O122-01-R6122/
 - Description: oomlout_OOMP_parts : RESE-0603-X-O122-01-R6122
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O122-01-R6122](http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O122-01-R6122)
 - Short Link: [http://oom.lt/FZOOMPKOOMPPRESE63XO1221R6122](http://oom.lt/FZOOMPKOOMPPRESE63XO1221R6122)

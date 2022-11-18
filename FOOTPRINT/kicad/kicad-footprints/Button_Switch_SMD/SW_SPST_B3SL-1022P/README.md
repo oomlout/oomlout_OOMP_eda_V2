@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-SW_SPST_B3SL-1022P
 - Hex ID: FZKBSWSPSTB3SL122P
 - Name: Button_Switch_SMD : SW_SPST_B3SL-1022P
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Button_Switch_SMD/SW_SPST_B3SL-1022P/
 - Description: Button_Switch_SMD : SW_SPST_B3SL-1022P
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-SW_SPST_B3SL-1022P](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-SW_SPST_B3SL-1022P)
 - Short Link: [http://oom.lt/FZKBSWSPSTB3SL122P](http://oom.lt/FZKBSWSPSTB3SL122P)

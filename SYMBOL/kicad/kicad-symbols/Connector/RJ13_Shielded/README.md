@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Connector-RJ13_Shielded
 - Hex ID: SZKCNRJ13SHED
 - Name: Connector : RJ13_Shielded
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector/RJ13_Shielded/
 - Description: Connector : RJ13_Shielded
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-RJ13_Shielded](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-RJ13_Shielded)
 - Short Link: [http://oom.lt/SZKCNRJ13SHED](http://oom.lt/SZKCNRJ13SHED)

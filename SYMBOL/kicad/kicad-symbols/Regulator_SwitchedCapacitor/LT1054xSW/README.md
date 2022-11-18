@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_SwitchedCapacitor-LT1054xSW
 - Hex ID: SZKREGULATORSWEDCAPACITORLT154XSW
 - Name: Regulator_SwitchedCapacitor : LT1054xSW
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_SwitchedCapacitor/LT1054xSW/
 - Description: Regulator_SwitchedCapacitor : LT1054xSW
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_SwitchedCapacitor-LT1054xSW](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_SwitchedCapacitor-LT1054xSW)
 - Short Link: [http://oom.lt/SZKREGULATORSWEDCAPACITORLT154XSW](http://oom.lt/SZKREGULATORSWEDCAPACITORLT154XSW)

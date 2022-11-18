@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Transformer_THT-Transformer_37x44
 - Hex ID: FZKTRTR37X44
 - Name: Transformer_THT : Transformer_37x44
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Transformer_THT/Transformer_37x44/
 - Description: Transformer_THT : Transformer_37x44
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Transformer_THT-Transformer_37x44](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Transformer_THT-Transformer_37x44)
 - Short Link: [http://oom.lt/FZKTRTR37X44](http://oom.lt/FZKTRTR37X44)

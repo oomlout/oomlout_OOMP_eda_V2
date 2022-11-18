@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_1206_3216Metric
 - Hex ID: FZKDD1263216VA
 - Name: Diode_SMD : D_1206_3216Metric
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Diode_SMD/D_1206_3216Metric/
 - Description: Diode_SMD : D_1206_3216Metric
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_1206_3216Metric](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_1206_3216Metric)
 - Short Link: [http://oom.lt/FZKDD1263216VA](http://oom.lt/FZKDD1263216VA)

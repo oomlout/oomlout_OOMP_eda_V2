@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_ST_STM8-STM8AL3L89T
 - Hex ID: SZKMCUSTSTM8STM8AL3L89T
 - Name: MCU_ST_STM8 : STM8AL3L89T
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_ST_STM8/STM8AL3L89T/
 - Description: MCU_ST_STM8 : STM8AL3L89T
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM8-STM8AL3L89T](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM8-STM8AL3L89T)
 - Short Link: [http://oom.lt/SZKMCUSTSTM8STM8AL3L89T](http://oom.lt/SZKMCUSTSTM8STM8AL3L89T)

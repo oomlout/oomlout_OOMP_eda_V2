@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-SOD-70_P5.08mm
 - Hex ID: FZKSOTSOD7P58
 - Name: Package_TO_SOT_THT : SOD-70_P5.08mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_THT/SOD-70_P5.08mm/
 - Description: Package_TO_SOT_THT : SOD-70_P5.08mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-SOD-70_P5.08mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-SOD-70_P5.08mm)
 - Short Link: [http://oom.lt/FZKSOTSOD7P58](http://oom.lt/FZKSOTSOD7P58)

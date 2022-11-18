@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-45xx-DIL18
 - Hex ID: FZE45XXDIL18
 - Name: 45xx : DIL18
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/45xx/DIL18/
 - Description: 45xx : DIL18
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-45xx-DIL18](http://oom.lt/FOOTPRINT-eagle-eagle-default-45xx-DIL18)
 - Short Link: [http://oom.lt/FZE45XXDIL18](http://oom.lt/FZE45XXDIL18)

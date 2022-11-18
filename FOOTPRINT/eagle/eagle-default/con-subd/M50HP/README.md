@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-subd-M50HP
 - Hex ID: FZECONSUBDM5HP
 - Name: con-subd : M50HP
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-subd/M50HP/
 - Description: con-subd : M50HP
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-subd-M50HP](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-subd-M50HP)
 - Short Link: [http://oom.lt/FZECONSUBDM5HP](http://oom.lt/FZECONSUBDM5HP)

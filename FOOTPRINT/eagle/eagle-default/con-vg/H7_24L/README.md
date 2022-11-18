@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-vg-H7_24L
 - Hex ID: FZECONVGH724L
 - Name: con-vg : H7_24L
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-vg/H7_24L/
 - Description: con-vg : H7_24L
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-vg-H7_24L](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-vg-H7_24L)
 - Short Link: [http://oom.lt/FZECONVGH724L](http://oom.lt/FZECONVGH724L)

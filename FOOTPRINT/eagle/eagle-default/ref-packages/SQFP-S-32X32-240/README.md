@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEREFPACKAGESSQFPS32X3224 > ref-packages : SQFP-S-32X32-240](#fzerefpackagessqfps32x3224--ref-packages--sqfp-s-32x32-240)
+* [FZEREFPSSQFPS32X3224 > ref-packages : SQFP-S-32X32-240](#fzerefpssqfps32x3224--ref-packages--sqfp-s-32x32-240)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEREFPACKAGESSQFPS32X3224 > ref-packages : SQFP-S-32X32-240
+# FZEREFPSSQFPS32X3224 > ref-packages : SQFP-S-32X32-240
 
 - ID: FOOTPRINT-eagle-eagle-default-ref-packages-SQFP-S-32X32-240
-- Hex ID: FZEREFPACKAGESSQFPS32X3224
+- Hex ID: FZEREFPSSQFPS32X3224
 - Name: ref-packages : SQFP-S-32X32-240
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ref-packages/SQFP-S-32X32-240/
 - Description: ref-packages : SQFP-S-32X32-240
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-SQFP-S-32X32-240](http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-SQFP-S-32X32-240)
-- Short Link: [http://oom.lt/FZEREFPACKAGESSQFPS32X3224](http://oom.lt/FZEREFPACKAGESSQFPS32X3224)
+- Short Link: [http://oom.lt/FZEREFPSSQFPS32X3224](http://oom.lt/FZEREFPSSQFPS32X3224)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|ref-packages|
 |OOMP Index|oompIndex|SQFP-S-32X32-240|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-ref-packages-SQFP-S-32X32-240|
-|Hex ID (short code)|hexID|FZEREFPACKAGESSQFPS32X3224|
+|Hex ID (short code)|hexID|FZEREFPSSQFPS32X3224|
 |name|name|ref-packages : SQFP-S-32X32-240|
 ||||

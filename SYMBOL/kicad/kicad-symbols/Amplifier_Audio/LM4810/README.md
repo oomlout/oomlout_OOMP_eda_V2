@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Audio-LM4810
 - Hex ID: SZKAMPLIFIERAUDIOLM481
 - Name: Amplifier_Audio : LM4810
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Audio/LM4810/
 - Description: Amplifier_Audio : LM4810
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Audio-LM4810](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Audio-LM4810)
 - Short Link: [http://oom.lt/SZKAMPLIFIERAUDIOLM481](http://oom.lt/SZKAMPLIFIERAUDIOLM481)

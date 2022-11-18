@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Pulse_P059x
 - Hex ID: FZKINLPULSEP59X
 - Name: Inductor_SMD : L_Pulse_P059x
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Pulse_P059x/
 - Description: Inductor_SMD : L_Pulse_P059x
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Pulse_P059x](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Pulse_P059x)
 - Short Link: [http://oom.lt/FZKINLPULSEP59X](http://oom.lt/FZKINLPULSEP59X)

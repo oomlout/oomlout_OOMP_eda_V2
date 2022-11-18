@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-transistor-power-TO-247AD-V
 - Hex ID: FZETRANSISTORPOWERTO247ADV
 - Name: transistor-power : TO-247AD-V
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/transistor-power/TO-247AD-V/
 - Description: transistor-power : TO-247AD-V
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-power-TO-247AD-V](http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-power-TO-247AD-V)
 - Short Link: [http://oom.lt/FZETRANSISTORPOWERTO247ADV](http://oom.lt/FZETRANSISTORPOWERTO247ADV)

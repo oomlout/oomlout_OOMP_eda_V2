@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-switch-71BT-36-AB2
 - Hex ID: FZESW71BT36AB2
 - Name: switch : 71BT-36-AB2
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/switch/71BT-36-AB2/
 - Description: switch : 71BT-36-AB2
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-71BT-36-AB2](http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-71BT-36-AB2)
 - Short Link: [http://oom.lt/FZESW71BT36AB2](http://oom.lt/FZESW71BT36AB2)

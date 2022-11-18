@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-memory-idt-C68-1
 - Hex ID: FZEMEMORYIDTC681
 - Name: memory-idt : C68-1
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/memory-idt/C68-1/
 - Description: memory-idt : C68-1
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-memory-idt-C68-1](http://oom.lt/FOOTPRINT-eagle-eagle-default-memory-idt-C68-1)
 - Short Link: [http://oom.lt/FZEMEMORYIDTC681](http://oom.lt/FZEMEMORYIDTC681)

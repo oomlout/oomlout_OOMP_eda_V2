@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-fifo-DIL28-3
 - Hex ID: FZEFIFODIL283
 - Name: fifo : DIL28-3
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/fifo/DIL28-3/
 - Description: fifo : DIL28-3
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-fifo-DIL28-3](http://oom.lt/FOOTPRINT-eagle-eagle-default-fifo-DIL28-3)
 - Short Link: [http://oom.lt/FZEFIFODIL283](http://oom.lt/FZEFIFODIL283)

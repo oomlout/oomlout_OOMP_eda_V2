@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-SENS-LG14-X-K345-01-SEN345
 - Hex ID: FZOOMPKOOMPPSENSLG14XK3451SEN345
 - Name: oomlout_OOMP_parts : SENS-LG14-X-K345-01-SEN345
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/SENS-LG14-X-K345-01-SEN345/
 - Description: oomlout_OOMP_parts : SENS-LG14-X-K345-01-SEN345
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-SENS-LG14-X-K345-01-SEN345](http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-SENS-LG14-X-K345-01-SEN345)
 - Short Link: [http://oom.lt/FZOOMPKOOMPPSENSLG14XK3451SEN345](http://oom.lt/FZOOMPKOOMPPSENSLG14XK3451SEN345)

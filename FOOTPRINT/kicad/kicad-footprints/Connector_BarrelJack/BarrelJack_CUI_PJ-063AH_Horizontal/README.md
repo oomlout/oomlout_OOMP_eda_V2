@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_BarrelJack-BarrelJack_CUI_PJ-063AH_Horizontal
 - Hex ID: FZKCNBARRELJBARRELJCUIPJ63AHH
 - Name: Connector_BarrelJack : BarrelJack_CUI_PJ-063AH_Horizontal
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_BarrelJack/BarrelJack_CUI_PJ-063AH_Horizontal/
 - Description: Connector_BarrelJack : BarrelJack_CUI_PJ-063AH_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_BarrelJack-BarrelJack_CUI_PJ-063AH_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_BarrelJack-BarrelJack_CUI_PJ-063AH_Horizontal)
 - Short Link: [http://oom.lt/FZKCNBARRELJBARRELJCUIPJ63AHH](http://oom.lt/FZKCNBARRELJBARRELJCUIPJ63AHH)

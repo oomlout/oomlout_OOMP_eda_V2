@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Potentiometer_THT-Potentiometer_ACP_CA9-V10_Vertical
 - Hex ID: FZKPPOTACPCA9V1F
 - Name: Potentiometer_THT : Potentiometer_ACP_CA9-V10_Vertical
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Potentiometer_THT/Potentiometer_ACP_CA9-V10_Vertical/
 - Description: Potentiometer_THT : Potentiometer_ACP_CA9-V10_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Potentiometer_THT-Potentiometer_ACP_CA9-V10_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Potentiometer_THT-Potentiometer_ACP_CA9-V10_Vertical)
 - Short Link: [http://oom.lt/FZKPPOTACPCA9V1F](http://oom.lt/FZKPPOTACPCA9V1F)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_Ethernet-KSZ9031RNXCA
 - Hex ID: SZKINTERFACEETHERNETKSZ931RNXCA
 - Name: Interface_Ethernet : KSZ9031RNXCA
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_Ethernet/KSZ9031RNXCA/
 - Description: Interface_Ethernet : KSZ9031RNXCA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Ethernet-KSZ9031RNXCA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Ethernet-KSZ9031RNXCA)
 - Short Link: [http://oom.lt/SZKINTERFACEETHERNETKSZ931RNXCA](http://oom.lt/SZKINTERFACEETHERNETKSZ931RNXCA)

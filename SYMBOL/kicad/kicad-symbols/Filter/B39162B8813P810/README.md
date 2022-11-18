@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Filter-B39162B8813P810
 - Hex ID: SZKFILB39162B8813P81
 - Name: Filter : B39162B8813P810
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Filter/B39162B8813P810/
 - Description: Filter : B39162B8813P810
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Filter-B39162B8813P810](http://oom.lt/SYMBOL-kicad-kicad-symbols-Filter-B39162B8813P810)
 - Short Link: [http://oom.lt/SZKFILB39162B8813P81](http://oom.lt/SZKFILB39162B8813P81)

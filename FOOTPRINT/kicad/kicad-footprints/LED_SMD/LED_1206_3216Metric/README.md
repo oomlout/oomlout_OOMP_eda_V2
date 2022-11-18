@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_1206_3216Metric
 - Hex ID: FZKLL1263216VA
 - Name: LED_SMD : LED_1206_3216Metric
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_1206_3216Metric/
 - Description: LED_SMD : LED_1206_3216Metric
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_1206_3216Metric](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_1206_3216Metric)
 - Short Link: [http://oom.lt/FZKLL1263216VA](http://oom.lt/FZKLL1263216VA)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Analog_ADC-LTC2309_QFN
 - Hex ID: SZKANALOGADCLTC239QFN
 - Name: Analog_ADC : LTC2309_QFN
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog_ADC/LTC2309_QFN/
 - Description: Analog_ADC : LTC2309_QFN
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-LTC2309_QFN](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-LTC2309_QFN)
 - Short Link: [http://oom.lt/SZKANALOGADCLTC239QFN](http://oom.lt/SZKANALOGADCLTC239QFN)

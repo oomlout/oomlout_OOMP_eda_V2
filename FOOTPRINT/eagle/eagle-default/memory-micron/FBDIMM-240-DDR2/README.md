@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-memory-micron-FBDIMM-240-DDR2
 - Hex ID: FZEMEMORYMNFBDI24DDR2
 - Name: memory-micron : FBDIMM-240-DDR2
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/memory-micron/FBDIMM-240-DDR2/
 - Description: memory-micron : FBDIMM-240-DDR2
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-memory-micron-FBDIMM-240-DDR2](http://oom.lt/FOOTPRINT-eagle-eagle-default-memory-micron-FBDIMM-240-DDR2)
 - Short Link: [http://oom.lt/FZEMEMORYMNFBDI24DDR2](http://oom.lt/FZEMEMORYMNFBDI24DDR2)

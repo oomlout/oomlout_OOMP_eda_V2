@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Display_7Segment-DE113-XX-XX
 - Hex ID: FZKDI7SDE113XXXX
 - Name: Display_7Segment : DE113-XX-XX
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Display_7Segment/DE113-XX-XX/
 - Description: Display_7Segment : DE113-XX-XX
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Display_7Segment-DE113-XX-XX](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Display_7Segment-DE113-XX-XX)
 - Short Link: [http://oom.lt/FZKDI7SDE113XXXX](http://oom.lt/FZKDI7SDE113XXXX)

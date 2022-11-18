@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-relay-FRS1B
 - Hex ID: FZERELAYFRS1B
 - Name: relay : FRS1B
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/relay/FRS1B/
 - Description: relay : FRS1B
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-FRS1B](http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-FRS1B)
 - Short Link: [http://oom.lt/FZERELAYFRS1B](http://oom.lt/FZERELAYFRS1B)

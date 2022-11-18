@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-lumiled-LUMILED_2K_GULLWING
 - Hex ID: FZELUMLUM2KGULLWING
 - Name: lumiled : LUMILED_2K_GULLWING
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/lumiled/LUMILED_2K_GULLWING/
 - Description: lumiled : LUMILED_2K_GULLWING
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-lumiled-LUMILED_2K_GULLWING](http://oom.lt/FOOTPRINT-eagle-eagle-default-lumiled-LUMILED_2K_GULLWING)
 - Short Link: [http://oom.lt/FZELUMLUM2KGULLWING](http://oom.lt/FZELUMLUM2KGULLWING)

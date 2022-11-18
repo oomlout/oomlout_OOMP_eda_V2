@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0402-X-O332-67-R42332A
 - Hex ID: FZOOMPKOOMPPRESE42XO33267R42332A
 - Name: oomlout_OOMP_parts : RESE-0402-X-O332-67-R42332A
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/RESE-0402-X-O332-67-R42332A/
 - Description: oomlout_OOMP_parts : RESE-0402-X-O332-67-R42332A
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0402-X-O332-67-R42332A](http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0402-X-O332-67-R42332A)
 - Short Link: [http://oom.lt/FZOOMPKOOMPPRESE42XO33267R42332A](http://oom.lt/FZOOMPKOOMPPRESE42XO33267R42332A)

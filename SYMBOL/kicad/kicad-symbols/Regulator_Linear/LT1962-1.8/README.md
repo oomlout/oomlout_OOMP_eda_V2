@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-LT1962-1.8
 - Hex ID: SZKREGULATORLINEARLT196218
 - Name: Regulator_Linear : LT1962-1.8
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LT1962-1.8/
 - Description: Regulator_Linear : LT1962-1.8
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LT1962-1.8](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LT1962-1.8)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARLT196218](http://oom.lt/SZKREGULATORLINEARLT196218)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-4xxx_IEEE-4049
 - Hex ID: SZK4XXXIEEE449
 - Name: 4xxx_IEEE : 4049
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/4xxx_IEEE/4049/
 - Description: 4xxx_IEEE : 4049
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-4xxx_IEEE-4049](http://oom.lt/SYMBOL-kicad-kicad-symbols-4xxx_IEEE-4049)
 - Short Link: [http://oom.lt/SZK4XXXIEEE449](http://oom.lt/SZK4XXXIEEE449)

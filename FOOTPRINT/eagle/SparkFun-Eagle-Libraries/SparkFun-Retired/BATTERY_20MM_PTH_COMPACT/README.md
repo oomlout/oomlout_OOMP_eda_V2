@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-BATTERY_20MM_PTH_COMPACT
 - Hex ID: FZSRTBAT2PCOMPACT
 - Name: SparkFun-Retired : BATTERY_20MM_PTH_COMPACT
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Retired/BATTERY_20MM_PTH_COMPACT/
 - Description: SparkFun-Retired : BATTERY_20MM_PTH_COMPACT
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-BATTERY_20MM_PTH_COMPACT](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-BATTERY_20MM_PTH_COMPACT)
 - Short Link: [http://oom.lt/FZSRTBAT2PCOMPACT](http://oom.lt/FZSRTBAT2PCOMPACT)

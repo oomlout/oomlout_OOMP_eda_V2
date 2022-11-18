@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-MicroSD_2908-05WB-MG
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSMSD2985WBMG
 - Name: digikey-footprints : MicroSD_2908-05WB-MG
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/MicroSD_2908-05WB-MG/
 - Description: digikey-footprints : MicroSD_2908-05WB-MG
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-MicroSD_2908-05WB-MG](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-MicroSD_2908-05WB-MG)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSMSD2985WBMG](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSMSD2985WBMG)

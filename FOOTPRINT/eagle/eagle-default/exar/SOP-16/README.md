@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-exar-SOP-16
 - Hex ID: FZEEXARS16
 - Name: exar : SOP-16
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/exar/SOP-16/
 - Description: exar : SOP-16
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-exar-SOP-16](http://oom.lt/FOOTPRINT-eagle-eagle-default-exar-SOP-16)
 - Short Link: [http://oom.lt/FZEEXARS16](http://oom.lt/FZEEXARS16)

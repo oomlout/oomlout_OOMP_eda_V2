@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-C0402K
 - Hex ID: FZAC42K
 - Name: adafruit : C0402K
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/C0402K/
 - Description: adafruit : C0402K
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-C0402K](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-C0402K)
 - Short Link: [http://oom.lt/FZAC42K](http://oom.lt/FZAC42K)

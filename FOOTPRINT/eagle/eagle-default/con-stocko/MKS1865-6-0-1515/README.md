@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-stocko-MKS1865-6-0-1515
 - Hex ID: FZECONSTOCKOMKS186561515
 - Name: con-stocko : MKS1865-6-0-1515
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-stocko/MKS1865-6-0-1515/
 - Description: con-stocko : MKS1865-6-0-1515
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-stocko-MKS1865-6-0-1515](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-stocko-MKS1865-6-0-1515)
 - Short Link: [http://oom.lt/FZECONSTOCKOMKS186561515](http://oom.lt/FZECONSTOCKOMKS186561515)

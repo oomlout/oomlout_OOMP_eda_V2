@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-micro-motorola-MPC555
 - Hex ID: FZEMMOTOROLAMPC555
 - Name: micro-motorola : MPC555
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/micro-motorola/MPC555/
 - Description: micro-motorola : MPC555
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-motorola-MPC555](http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-motorola-MPC555)
 - Short Link: [http://oom.lt/FZEMMOTOROLAMPC555](http://oom.lt/FZEMMOTOROLAMPC555)

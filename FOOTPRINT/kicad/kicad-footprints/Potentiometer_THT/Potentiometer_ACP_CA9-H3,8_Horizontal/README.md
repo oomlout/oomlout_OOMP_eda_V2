@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Potentiometer_THT-Potentiometer_ACP_CA9-H3,8_Horizontal
 - Hex ID: FZKPPOTACPCA9H38H
 - Name: Potentiometer_THT : Potentiometer_ACP_CA9-H3,8_Horizontal
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Potentiometer_THT/Potentiometer_ACP_CA9-H3,8_Horizontal/
 - Description: Potentiometer_THT : Potentiometer_ACP_CA9-H3,8_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Potentiometer_THT-Potentiometer_ACP_CA9-H3,8_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Potentiometer_THT-Potentiometer_ACP_CA9-H3,8_Horizontal)
 - Short Link: [http://oom.lt/FZKPPOTACPCA9H38H](http://oom.lt/FZKPPOTACPCA9H38H)

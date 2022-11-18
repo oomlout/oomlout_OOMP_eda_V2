@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Electromechanical-VIBE-MOTOR-10MM-SMD
 - Hex ID: FZSEVIBEMOTOR1SM
 - Name: SparkFun-Electromechanical : VIBE-MOTOR-10MM-SMD
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Electromechanical/VIBE-MOTOR-10MM-SMD/
 - Description: SparkFun-Electromechanical : VIBE-MOTOR-10MM-SMD
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Electromechanical-VIBE-MOTOR-10MM-SMD](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Electromechanical-VIBE-MOTOR-10MM-SMD)
 - Short Link: [http://oom.lt/FZSEVIBEMOTOR1SM](http://oom.lt/FZSEVIBEMOTOR1SM)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Connector-AudioPlug4
 - Hex ID: SZKCNAUDIOPLUG4
 - Name: Connector : AudioPlug4
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector/AudioPlug4/
 - Description: Connector : AudioPlug4
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-AudioPlug4](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-AudioPlug4)
 - Short Link: [http://oom.lt/SZKCNAUDIOPLUG4](http://oom.lt/SZKCNAUDIOPLUG4)

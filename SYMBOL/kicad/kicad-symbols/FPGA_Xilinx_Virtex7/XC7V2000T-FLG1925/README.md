@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-FPGA_Xilinx_Virtex7-XC7V2000T-FLG1925
 - Hex ID: SZKFPGAXILINXVIRTEX7XC7V2TFLG1925
 - Name: FPGA_Xilinx_Virtex7 : XC7V2000T-FLG1925
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/FPGA_Xilinx_Virtex7/XC7V2000T-FLG1925/
 - Description: FPGA_Xilinx_Virtex7 : XC7V2000T-FLG1925
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-FPGA_Xilinx_Virtex7-XC7V2000T-FLG1925](http://oom.lt/SYMBOL-kicad-kicad-symbols-FPGA_Xilinx_Virtex7-XC7V2000T-FLG1925)
 - Short Link: [http://oom.lt/SZKFPGAXILINXVIRTEX7XC7V2TFLG1925](http://oom.lt/SZKFPGAXILINXVIRTEX7XC7V2TFLG1925)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Connector-Wuerth_7499010121A
 - Hex ID: SZKCNWUERTH74991121A
 - Name: Connector : Wuerth_7499010121A
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector/Wuerth_7499010121A/
 - Description: Connector : Wuerth_7499010121A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-Wuerth_7499010121A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-Wuerth_7499010121A)
 - Short Link: [http://oom.lt/SZKCNWUERTH74991121A](http://oom.lt/SZKCNWUERTH74991121A)

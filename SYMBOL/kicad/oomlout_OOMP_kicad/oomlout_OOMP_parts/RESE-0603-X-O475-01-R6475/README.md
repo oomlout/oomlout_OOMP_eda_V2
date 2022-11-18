@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O475-01-R6475
 - Hex ID: SZOOMPKOOMPPRESE63XO4751R6475
 - Name: oomlout_OOMP_parts : RESE-0603-X-O475-01-R6475
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/RESE-0603-X-O475-01-R6475/
 - Description: oomlout_OOMP_parts : RESE-0603-X-O475-01-R6475
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O475-01-R6475](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O475-01-R6475)
 - Short Link: [http://oom.lt/SZOOMPKOOMPPRESE63XO4751R6475](http://oom.lt/SZOOMPKOOMPPRESE63XO4751R6475)

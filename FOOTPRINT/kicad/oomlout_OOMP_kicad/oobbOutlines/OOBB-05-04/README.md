@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-oomlout_OOMP_kicad-oobbOutlines-OOBB-05-04
 - Hex ID: FZOOMPKOOBBOOBB54
 - Name: oobbOutlines : OOBB-05-04
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/oomlout_OOMP_kicad/oobbOutlines/OOBB-05-04/
 - Description: oobbOutlines : OOBB-05-04
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oobbOutlines-OOBB-05-04](http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oobbOutlines-OOBB-05-04)
 - Short Link: [http://oom.lt/FZOOMPKOOBBOOBB54](http://oom.lt/FZOOMPKOOBBOOBB54)

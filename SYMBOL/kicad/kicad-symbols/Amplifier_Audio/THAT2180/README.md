@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Audio-THAT2180
 - Hex ID: SZKAMPLIFIERAUDIOTHAT218
 - Name: Amplifier_Audio : THAT2180
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Audio/THAT2180/
 - Description: Amplifier_Audio : THAT2180
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Audio-THAT2180](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Audio-THAT2180)
 - Short Link: [http://oom.lt/SZKAMPLIFIERAUDIOTHAT218](http://oom.lt/SZKAMPLIFIERAUDIOTHAT218)

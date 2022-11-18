@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0402-X-O121-01-R4O121
 - Hex ID: SZOOMPKOOMPPRESE42XO1211R4O121
 - Name: oomlout_OOMP_parts : RESE-0402-X-O121-01-R4O121
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/RESE-0402-X-O121-01-R4O121/
 - Description: oomlout_OOMP_parts : RESE-0402-X-O121-01-R4O121
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0402-X-O121-01-R4O121](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0402-X-O121-01-R4O121)
 - Short Link: [http://oom.lt/SZOOMPKOOMPPRESE42XO1211R4O121](http://oom.lt/SZOOMPKOOMPPRESE42XO1211R4O121)

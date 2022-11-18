@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Converter_ACDC-PBO-3-S3.3
 - Hex ID: SZKCONPBO3S33
 - Name: Converter_ACDC : PBO-3-S3.3
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Converter_ACDC/PBO-3-S3.3/
 - Description: Converter_ACDC : PBO-3-S3.3
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_ACDC-PBO-3-S3.3](http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_ACDC-PBO-3-S3.3)
 - Short Link: [http://oom.lt/SZKCONPBO3S33](http://oom.lt/SZKCONPBO3S33)

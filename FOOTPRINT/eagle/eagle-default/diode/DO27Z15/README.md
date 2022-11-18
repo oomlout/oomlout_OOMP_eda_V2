@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-diode-DO27Z15
 - Hex ID: FZEDIODEDO27Z15
 - Name: diode : DO27Z15
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/diode/DO27Z15/
 - Description: diode : DO27Z15
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-diode-DO27Z15](http://oom.lt/FOOTPRINT-eagle-eagle-default-diode-DO27Z15)
 - Short Link: [http://oom.lt/FZEDIODEDO27Z15](http://oom.lt/FZEDIODEDO27Z15)

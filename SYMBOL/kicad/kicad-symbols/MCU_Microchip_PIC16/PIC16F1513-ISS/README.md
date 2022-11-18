@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F1513-ISS
 - Hex ID: SZKMCUMCHIPPIC16PIC16F1513ISS
 - Name: MCU_Microchip_PIC16 : PIC16F1513-ISS
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC16/PIC16F1513-ISS/
 - Description: MCU_Microchip_PIC16 : PIC16F1513-ISS
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F1513-ISS](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F1513-ISS)
 - Short Link: [http://oom.lt/SZKMCUMCHIPPIC16PIC16F1513ISS](http://oom.lt/SZKMCUMCHIPPIC16PIC16F1513ISS)

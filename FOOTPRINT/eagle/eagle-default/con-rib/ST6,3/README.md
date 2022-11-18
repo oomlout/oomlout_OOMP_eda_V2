@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-con-rib-ST6,3
 - Hex ID: FZECONRIBST63
 - Name: con-rib : ST6,3
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-rib/ST6,3/
 - Description: con-rib : ST6,3
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-rib-ST6,3](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-rib-ST6,3)
 - Short Link: [http://oom.lt/FZECONRIBST63](http://oom.lt/FZECONRIBST63)

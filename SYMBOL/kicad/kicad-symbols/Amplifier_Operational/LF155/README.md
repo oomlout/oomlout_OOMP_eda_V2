@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LF155
 - Hex ID: SZKAMPLIFIEROPERATIONALLF155
 - Name: Amplifier_Operational : LF155
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/LF155/
 - Description: Amplifier_Operational : LF155
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LF155](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LF155)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALLF155](http://oom.lt/SZKAMPLIFIEROPERATIONALLF155)

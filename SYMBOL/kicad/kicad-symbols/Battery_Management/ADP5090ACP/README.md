@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Battery_Management-ADP5090ACP
 - Hex ID: SZKBATMANAGEMENTADP59ACP
 - Name: Battery_Management : ADP5090ACP
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Battery_Management/ADP5090ACP/
 - Description: Battery_Management : ADP5090ACP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Battery_Management-ADP5090ACP](http://oom.lt/SYMBOL-kicad-kicad-symbols-Battery_Management-ADP5090ACP)
 - Short Link: [http://oom.lt/SZKBATMANAGEMENTADP59ACP](http://oom.lt/SZKBATMANAGEMENTADP59ACP)

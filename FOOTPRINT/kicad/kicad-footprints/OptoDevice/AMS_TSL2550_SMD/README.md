@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-OptoDevice-AMS_TSL2550_SMD
 - Hex ID: FZKOPAMSTSL255SM
 - Name: OptoDevice : AMS_TSL2550_SMD
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/OptoDevice/AMS_TSL2550_SMD/
 - Description: OptoDevice : AMS_TSL2550_SMD
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-OptoDevice-AMS_TSL2550_SMD](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-OptoDevice-AMS_TSL2550_SMD)
 - Short Link: [http://oom.lt/FZKOPAMSTSL255SM](http://oom.lt/FZKOPAMSTSL255SM)

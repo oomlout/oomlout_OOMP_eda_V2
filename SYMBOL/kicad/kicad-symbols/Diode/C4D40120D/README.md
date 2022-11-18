@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-C4D40120D
 - Hex ID: SZKDIODEC4D412D
 - Name: Diode : C4D40120D
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/C4D40120D/
 - Description: Diode : C4D40120D
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-C4D40120D](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-C4D40120D)
 - Short Link: [http://oom.lt/SZKDIODEC4D412D](http://oom.lt/SZKDIODEC4D412D)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O364-01-R6O364
 - Hex ID: SZOOMPKOOMPPRESE63XO3641R6O364
 - Name: oomlout_OOMP_parts : RESE-0603-X-O364-01-R6O364
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/RESE-0603-X-O364-01-R6O364/
 - Description: oomlout_OOMP_parts : RESE-0603-X-O364-01-R6O364
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O364-01-R6O364](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O364-01-R6O364)
 - Short Link: [http://oom.lt/SZOOMPKOOMPPRESE63XO3641R6O364](http://oom.lt/SZOOMPKOOMPPRESE63XO3641R6O364)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Connector-TestPoint_Small
 - Hex ID: SZKCNTPSLL
 - Name: Connector : TestPoint_Small
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector/TestPoint_Small/
 - Description: Connector : TestPoint_Small
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-TestPoint_Small](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-TestPoint_Small)
 - Short Link: [http://oom.lt/SZKCNTPSLL](http://oom.lt/SZKCNTPSLL)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-LEDS-05-V-TINT-01-LT5V
 - Hex ID: SZOOMPKOOMPPLS5VTINT1LT5V
 - Name: oomlout_OOMP_parts : LEDS-05-V-TINT-01-LT5V
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/LEDS-05-V-TINT-01-LT5V/
 - Description: oomlout_OOMP_parts : LEDS-05-V-TINT-01-LT5V
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-LEDS-05-V-TINT-01-LT5V](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-LEDS-05-V-TINT-01-LT5V)
 - Short Link: [http://oom.lt/SZOOMPKOOMPPLS5VTINT1LT5V](http://oom.lt/SZOOMPKOOMPPLS5VTINT1LT5V)

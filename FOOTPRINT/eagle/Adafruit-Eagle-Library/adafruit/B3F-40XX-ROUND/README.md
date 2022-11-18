@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-B3F-40XX-ROUND
 - Hex ID: FZAB3F4XXR
 - Name: adafruit : B3F-40XX-ROUND
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/B3F-40XX-ROUND/
 - Description: adafruit : B3F-40XX-ROUND
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-B3F-40XX-ROUND](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-B3F-40XX-ROUND)
 - Short Link: [http://oom.lt/FZAB3F4XXR](http://oom.lt/FZAB3F4XXR)

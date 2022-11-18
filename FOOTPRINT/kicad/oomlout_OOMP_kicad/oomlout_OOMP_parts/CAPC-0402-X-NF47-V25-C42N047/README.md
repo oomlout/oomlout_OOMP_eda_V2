@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0402-X-NF47-V25-C42N047
 - Hex ID: FZOOMPKOOMPPCAPC42XNF47V25C42N47
 - Name: oomlout_OOMP_parts : CAPC-0402-X-NF47-V25-C42N047
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/CAPC-0402-X-NF47-V25-C42N047/
 - Description: oomlout_OOMP_parts : CAPC-0402-X-NF47-V25-C42N047
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0402-X-NF47-V25-C42N047](http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0402-X-NF47-V25-C42N047)
 - Short Link: [http://oom.lt/FZOOMPKOOMPPCAPC42XNF47V25C42N47](http://oom.lt/FZOOMPKOOMPPCAPC42XNF47V25C42N47)

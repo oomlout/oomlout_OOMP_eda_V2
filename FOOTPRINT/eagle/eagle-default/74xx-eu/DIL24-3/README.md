@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-74xx-eu-DIL24-3
 - Hex ID: FZE74XXEUDIL243
 - Name: 74xx-eu : DIL24-3
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/74xx-eu/DIL24-3/
 - Description: 74xx-eu : DIL24-3
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-74xx-eu-DIL24-3](http://oom.lt/FOOTPRINT-eagle-eagle-default-74xx-eu-DIL24-3)
 - Short Link: [http://oom.lt/FZE74XXEUDIL243](http://oom.lt/FZE74XXEUDIL243)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_ST_STM32L4+-STM32L4R9VITx
 - Hex ID: SZKMCUSTSTM32L4+STM32L4R9VITX
 - Name: MCU_ST_STM32L4+ : STM32L4R9VITx
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32L4+/STM32L4R9VITx/
 - Description: MCU_ST_STM32L4+ : STM32L4R9VITx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32L4+-STM32L4R9VITx](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32L4+-STM32L4R9VITx)
 - Short Link: [http://oom.lt/SZKMCUSTSTM32L4+STM32L4R9VITX](http://oom.lt/SZKMCUSTSTM32L4+STM32L4R9VITX)

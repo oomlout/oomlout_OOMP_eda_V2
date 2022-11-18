@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Controller-NCP1380A
 - Hex ID: SZKREGULATORCONTROLLERNCP138A
 - Name: Regulator_Controller : NCP1380A
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Controller/NCP1380A/
 - Description: Regulator_Controller : NCP1380A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Controller-NCP1380A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Controller-NCP1380A)
 - Short Link: [http://oom.lt/SZKREGULATORCONTROLLERNCP138A](http://oom.lt/SZKREGULATORCONTROLLERNCP138A)

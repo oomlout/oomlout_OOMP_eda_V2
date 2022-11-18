@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-vg-FAC32SH
 - Hex ID: FZECONVGFAC32SH
 - Name: con-vg : FAC32SH
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-vg/FAC32SH/
 - Description: con-vg : FAC32SH
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-vg-FAC32SH](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-vg-FAC32SH)
 - Short Link: [http://oom.lt/FZECONVGFAC32SH](http://oom.lt/FZECONVGFAC32SH)

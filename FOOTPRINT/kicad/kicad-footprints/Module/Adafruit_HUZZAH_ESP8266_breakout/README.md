@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Module-Adafruit_HUZZAH_ESP8266_breakout
 - Hex ID: FZKMOADAHUZZAHESP8266BREAKOUT
 - Name: Module : Adafruit_HUZZAH_ESP8266_breakout
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Module/Adafruit_HUZZAH_ESP8266_breakout/
 - Description: Module : Adafruit_HUZZAH_ESP8266_breakout
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Module-Adafruit_HUZZAH_ESP8266_breakout](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Module-Adafruit_HUZZAH_ESP8266_breakout)
 - Short Link: [http://oom.lt/FZKMOADAHUZZAHESP8266BREAKOUT](http://oom.lt/FZKMOADAHUZZAHESP8266BREAKOUT)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-lumberg-RC-5231
 - Hex ID: FZECONLUMBERGRC5231
 - Name: con-lumberg : RC-5231
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-lumberg/RC-5231/
 - Description: con-lumberg : RC-5231
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-lumberg-RC-5231](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-lumberg-RC-5231)
 - Short Link: [http://oom.lt/FZECONLUMBERGRC5231](http://oom.lt/FZECONLUMBERGRC5231)

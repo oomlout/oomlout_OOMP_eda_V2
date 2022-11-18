@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Heatsink-Heatsink_Fischer_FK224xx2201_25x8.3mm
 - Hex ID: FZKHHFISCHERFK224XX22125X83
 - Name: Heatsink : Heatsink_Fischer_FK224xx2201_25x8.3mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Heatsink/Heatsink_Fischer_FK224xx2201_25x8.3mm/
 - Description: Heatsink : Heatsink_Fischer_FK224xx2201_25x8.3mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Heatsink-Heatsink_Fischer_FK224xx2201_25x8.3mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Heatsink-Heatsink_Fischer_FK224xx2201_25x8.3mm)
 - Short Link: [http://oom.lt/FZKHHFISCHERFK224XX22125X83](http://oom.lt/FZKHHFISCHERFK224XX22125X83)

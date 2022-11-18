@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-OnSemi_UDFN-8_1.2x1.8mm_P0.4mm
 - Hex ID: FZKDFNONSEMIUDFN812X18P4
 - Name: Package_DFN_QFN : OnSemi_UDFN-8_1.2x1.8mm_P0.4mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/OnSemi_UDFN-8_1.2x1.8mm_P0.4mm/
 - Description: Package_DFN_QFN : OnSemi_UDFN-8_1.2x1.8mm_P0.4mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-OnSemi_UDFN-8_1.2x1.8mm_P0.4mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-OnSemi_UDFN-8_1.2x1.8mm_P0.4mm)
 - Short Link: [http://oom.lt/FZKDFNONSEMIUDFN812X18P4](http://oom.lt/FZKDFNONSEMIUDFN812X18P4)

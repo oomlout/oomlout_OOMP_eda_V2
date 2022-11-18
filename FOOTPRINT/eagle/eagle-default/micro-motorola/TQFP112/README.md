@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-micro-motorola-TQFP112
 - Hex ID: FZEMMOTOROLATQFP112
 - Name: micro-motorola : TQFP112
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/micro-motorola/TQFP112/
 - Description: micro-motorola : TQFP112
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-motorola-TQFP112](http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-motorola-TQFP112)
 - Short Link: [http://oom.lt/FZEMMOTOROLATQFP112](http://oom.lt/FZEMMOTOROLATQFP112)

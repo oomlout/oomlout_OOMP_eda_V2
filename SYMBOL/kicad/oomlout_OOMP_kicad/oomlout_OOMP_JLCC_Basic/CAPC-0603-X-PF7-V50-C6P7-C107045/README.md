@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0603-X-PF7-V50-C6P7-C107045
 - Hex ID: SZOOMPKJLCCAPC63XPF7V5C6P7C1745
 - Name: oomlout_OOMP_JLCC_Basic : CAPC-0603-X-PF7-V50-C6P7-C107045
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_JLCC_Basic/CAPC-0603-X-PF7-V50-C6P7-C107045/
 - Description: oomlout_OOMP_JLCC_Basic : CAPC-0603-X-PF7-V50-C6P7-C107045
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0603-X-PF7-V50-C6P7-C107045](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0603-X-PF7-V50-C6P7-C107045)
 - Short Link: [http://oom.lt/SZOOMPKJLCCAPC63XPF7V5C6P7C1745](http://oom.lt/SZOOMPKJLCCAPC63XPF7V5C6P7C1745)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LF357
 - Hex ID: SZKAMPLIFIEROPERATIONALLF357
 - Name: Amplifier_Operational : LF357
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/LF357/
 - Description: Amplifier_Operational : LF357
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LF357](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LF357)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALLF357](http://oom.lt/SZKAMPLIFIEROPERATIONALLF357)

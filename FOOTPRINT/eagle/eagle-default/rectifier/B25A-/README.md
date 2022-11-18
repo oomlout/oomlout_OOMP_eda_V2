@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-rectifier-B25A-
 - Hex ID: FZERECTIFIERB25A
 - Name: rectifier : B25A-
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/rectifier/B25A-/
 - Description: rectifier : B25A-
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-rectifier-B25A-](http://oom.lt/FOOTPRINT-eagle-eagle-default-rectifier-B25A-)
 - Short Link: [http://oom.lt/FZERECTIFIERB25A](http://oom.lt/FZERECTIFIERB25A)

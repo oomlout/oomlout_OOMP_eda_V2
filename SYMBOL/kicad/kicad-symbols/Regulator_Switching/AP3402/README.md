@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-AP3402
 - Hex ID: SZKREGULATORSWINGAP342
 - Name: Regulator_Switching : AP3402
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/AP3402/
 - Description: Regulator_Switching : AP3402
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-AP3402](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-AP3402)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGAP342](http://oom.lt/SZKREGULATORSWINGAP342)

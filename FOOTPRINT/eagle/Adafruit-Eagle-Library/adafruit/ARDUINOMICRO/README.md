@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-ARDUINOMICRO
 - Hex ID: FZAARDM
 - Name: adafruit : ARDUINOMICRO
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/ARDUINOMICRO/
 - Description: adafruit : ARDUINOMICRO
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-ARDUINOMICRO](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-ARDUINOMICRO)
 - Short Link: [http://oom.lt/FZAARDM](http://oom.lt/FZAARDM)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Buzzer_Beeper-Buzzer_Mallory_AST1240MLQ
 - Hex ID: FZKBZBUZZERMALLORYAST124MLQ
 - Name: Buzzer_Beeper : Buzzer_Mallory_AST1240MLQ
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Buzzer_Beeper/Buzzer_Mallory_AST1240MLQ/
 - Description: Buzzer_Beeper : Buzzer_Mallory_AST1240MLQ
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Buzzer_Beeper-Buzzer_Mallory_AST1240MLQ](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Buzzer_Beeper-Buzzer_Mallory_AST1240MLQ)
 - Short Link: [http://oom.lt/FZKBZBUZZERMALLORYAST124MLQ](http://oom.lt/FZKBZBUZZERMALLORYAST124MLQ)

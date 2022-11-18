@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-Diode_Bridge-KBPC3508T
 - Hex ID: SZKDIODEBRIDGEKBPC358T
 - Name: Diode_Bridge : KBPC3508T
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode_Bridge/KBPC3508T/
 - Description: Diode_Bridge : KBPC3508T
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode_Bridge-KBPC3508T](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode_Bridge-KBPC3508T)
 - Short Link: [http://oom.lt/SZKDIODEBRIDGEKBPC358T](http://oom.lt/SZKDIODEBRIDGEKBPC358T)

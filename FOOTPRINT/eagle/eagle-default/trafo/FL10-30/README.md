@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-trafo-FL10-30
 - Hex ID: FZETRAFOFL13
 - Name: trafo : FL10-30
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/trafo/FL10-30/
 - Description: trafo : FL10-30
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-trafo-FL10-30](http://oom.lt/FOOTPRINT-eagle-eagle-default-trafo-FL10-30)
 - Short Link: [http://oom.lt/FZETRAFOFL13](http://oom.lt/FZETRAFOFL13)

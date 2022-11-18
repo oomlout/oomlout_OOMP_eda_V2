@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Wuerth_HCI-1890
 - Hex ID: FZKINLWUERTHHCI189
 - Name: Inductor_SMD : L_Wuerth_HCI-1890
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Wuerth_HCI-1890/
 - Description: Inductor_SMD : L_Wuerth_HCI-1890
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Wuerth_HCI-1890](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Wuerth_HCI-1890)
 - Short Link: [http://oom.lt/FZKINLWUERTHHCI189](http://oom.lt/FZKINLWUERTHHCI189)

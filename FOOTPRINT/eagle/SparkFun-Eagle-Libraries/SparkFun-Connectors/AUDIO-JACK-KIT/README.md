@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-AUDIO-JACK-KIT
 - Hex ID: FZSSPARKFUNCNSAUDIOJK
 - Name: SparkFun-Connectors : AUDIO-JACK-KIT
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Connectors/AUDIO-JACK-KIT/
 - Description: SparkFun-Connectors : AUDIO-JACK-KIT
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-AUDIO-JACK-KIT](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-AUDIO-JACK-KIT)
 - Short Link: [http://oom.lt/FZSSPARKFUNCNSAUDIOJK](http://oom.lt/FZSSPARKFUNCNSAUDIOJK)

@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEREFPACKAGESLONGPADBR22S > ref-packages-longpad : BR220S](#fzerefpackageslongpadbr22s--ref-packages-longpad--br220s)
+* [FZEREFPSLPBR22S > ref-packages-longpad : BR220S](#fzerefpslpbr22s--ref-packages-longpad--br220s)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEREFPACKAGESLONGPADBR22S > ref-packages-longpad : BR220S
+# FZEREFPSLPBR22S > ref-packages-longpad : BR220S
 
 - ID: FOOTPRINT-eagle-eagle-default-ref-packages-longpad-BR220S
-- Hex ID: FZEREFPACKAGESLONGPADBR22S
+- Hex ID: FZEREFPSLPBR22S
 - Name: ref-packages-longpad : BR220S
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ref-packages-longpad/BR220S/
 - Description: ref-packages-longpad : BR220S
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-longpad-BR220S](http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-longpad-BR220S)
-- Short Link: [http://oom.lt/FZEREFPACKAGESLONGPADBR22S](http://oom.lt/FZEREFPACKAGESLONGPADBR22S)
+- Short Link: [http://oom.lt/FZEREFPSLPBR22S](http://oom.lt/FZEREFPSLPBR22S)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|ref-packages-longpad|
 |OOMP Index|oompIndex|BR220S|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-ref-packages-longpad-BR220S|
-|Hex ID (short code)|hexID|FZEREFPACKAGESLONGPADBR22S|
+|Hex ID (short code)|hexID|FZEREFPSLPBR22S|
 |name|name|ref-packages-longpad : BR220S|
 ||||

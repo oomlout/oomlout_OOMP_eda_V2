@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_Cree-XHP70_6V
 - Hex ID: FZKLLCREEXHP76V
 - Name: LED_SMD : LED_Cree-XHP70_6V
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_Cree-XHP70_6V/
 - Description: LED_SMD : LED_Cree-XHP70_6V
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_Cree-XHP70_6V](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_Cree-XHP70_6V)
 - Short Link: [http://oom.lt/FZKLLCREEXHP76V](http://oom.lt/FZKLLCREEXHP76V)

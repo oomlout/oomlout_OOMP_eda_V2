@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-smd-ipc-C1825
 - Hex ID: FZESMIPCC1825
 - Name: smd-ipc : C1825
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/smd-ipc/C1825/
 - Description: smd-ipc : C1825
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-C1825](http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-C1825)
 - Short Link: [http://oom.lt/FZESMIPCC1825](http://oom.lt/FZESMIPCC1825)

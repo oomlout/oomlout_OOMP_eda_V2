@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-LT1108CN
 - Hex ID: SZKREGULATORSWINGLT118CN
 - Name: Regulator_Switching : LT1108CN
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/LT1108CN/
 - Description: Regulator_Switching : LT1108CN
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LT1108CN](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LT1108CN)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGLT118CN](http://oom.lt/SZKREGULATORSWINGLT118CN)

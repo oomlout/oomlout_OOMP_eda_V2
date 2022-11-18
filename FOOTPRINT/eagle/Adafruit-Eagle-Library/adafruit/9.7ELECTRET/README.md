@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-9.7ELECTRET
 - Hex ID: FZA97ELECTRET
 - Name: adafruit : 9.7ELECTRET
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/9.7ELECTRET/
 - Description: adafruit : 9.7ELECTRET
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-9.7ELECTRET](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-9.7ELECTRET)
 - Short Link: [http://oom.lt/FZA97ELECTRET](http://oom.lt/FZA97ELECTRET)

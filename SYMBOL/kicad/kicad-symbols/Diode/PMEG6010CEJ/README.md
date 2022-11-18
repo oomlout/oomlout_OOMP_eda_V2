@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-PMEG6010CEJ
 - Hex ID: SZKDIODEPMEG61CEJ
 - Name: Diode : PMEG6010CEJ
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/PMEG6010CEJ/
 - Description: Diode : PMEG6010CEJ
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-PMEG6010CEJ](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-PMEG6010CEJ)
 - Short Link: [http://oom.lt/SZKDIODEPMEG61CEJ](http://oom.lt/SZKDIODEPMEG61CEJ)

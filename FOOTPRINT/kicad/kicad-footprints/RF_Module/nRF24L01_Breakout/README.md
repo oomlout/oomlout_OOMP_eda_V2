@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-RF_Module-nRF24L01_Breakout
 - Hex ID: FZKRFMONRF24L1BREAKOUT
 - Name: RF_Module : nRF24L01_Breakout
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/RF_Module/nRF24L01_Breakout/
 - Description: RF_Module : nRF24L01_Breakout
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_Module-nRF24L01_Breakout](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_Module-nRF24L01_Breakout)
 - Short Link: [http://oom.lt/FZKRFMONRF24L1BREAKOUT](http://oom.lt/FZKRFMONRF24L1BREAKOUT)

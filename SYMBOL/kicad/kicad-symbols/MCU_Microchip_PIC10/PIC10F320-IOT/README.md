@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC10-PIC10F320-IOT
 - Hex ID: SZKMCUMCHIPPIC1PIC1F32IOT
 - Name: MCU_Microchip_PIC10 : PIC10F320-IOT
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC10/PIC10F320-IOT/
 - Description: MCU_Microchip_PIC10 : PIC10F320-IOT
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC10-PIC10F320-IOT](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC10-PIC10F320-IOT)
 - Short Link: [http://oom.lt/SZKMCUMCHIPPIC1PIC1F32IOT](http://oom.lt/SZKMCUMCHIPPIC1PIC1F32IOT)

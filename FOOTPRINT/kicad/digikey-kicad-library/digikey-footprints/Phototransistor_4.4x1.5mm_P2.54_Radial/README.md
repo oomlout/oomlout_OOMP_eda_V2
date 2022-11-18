@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Phototransistor_4.4x1.5mm_P2.54_Radial
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSPHOTOTRANSISTOR44X15P254R
 - Name: digikey-footprints : Phototransistor_4.4x1.5mm_P2.54_Radial
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Phototransistor_4.4x1.5mm_P2.54_Radial/
 - Description: digikey-footprints : Phototransistor_4.4x1.5mm_P2.54_Radial
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Phototransistor_4.4x1.5mm_P2.54_Radial](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Phototransistor_4.4x1.5mm_P2.54_Radial)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSPHOTOTRANSISTOR44X15P254R](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSPHOTOTRANSISTOR44X15P254R)

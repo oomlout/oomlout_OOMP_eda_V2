@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-micro-hitachi-BGA256
 - Hex ID: FZEMHITACHIBGA256
 - Name: micro-hitachi : BGA256
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/micro-hitachi/BGA256/
 - Description: micro-hitachi : BGA256
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-hitachi-BGA256](http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-hitachi-BGA256)
 - Short Link: [http://oom.lt/FZEMHITACHIBGA256](http://oom.lt/FZEMHITACHIBGA256)

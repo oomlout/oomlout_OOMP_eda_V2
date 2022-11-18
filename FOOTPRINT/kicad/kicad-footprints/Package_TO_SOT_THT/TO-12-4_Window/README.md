@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-TO-12-4_Window
 - Hex ID: FZKSOTTO124WINDOW
 - Name: Package_TO_SOT_THT : TO-12-4_Window
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_THT/TO-12-4_Window/
 - Description: Package_TO_SOT_THT : TO-12-4_Window
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-TO-12-4_Window](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-TO-12-4_Window)
 - Short Link: [http://oom.lt/FZKSOTTO124WINDOW](http://oom.lt/FZKSOTTO124WINDOW)

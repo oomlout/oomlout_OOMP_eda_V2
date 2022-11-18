@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-1206-X-UF2-V50-C12U2
 - Hex ID: SZOOMPKOOMPPCAPC126XUF2V5C12U2
 - Name: oomlout_OOMP_parts : CAPC-1206-X-UF2-V50-C12U2
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/CAPC-1206-X-UF2-V50-C12U2/
 - Description: oomlout_OOMP_parts : CAPC-1206-X-UF2-V50-C12U2
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-1206-X-UF2-V50-C12U2](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-1206-X-UF2-V50-C12U2)
 - Short Link: [http://oom.lt/SZOOMPKOOMPPCAPC126XUF2V5C12U2](http://oom.lt/SZOOMPKOOMPPCAPC126XUF2V5C12U2)

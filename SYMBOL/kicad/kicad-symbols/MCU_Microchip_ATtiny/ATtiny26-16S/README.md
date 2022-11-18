@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny26-16S
 - Hex ID: SZKMCUMCHIPATTINYATTINY2616S
 - Name: MCU_Microchip_ATtiny : ATtiny26-16S
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_ATtiny/ATtiny26-16S/
 - Description: MCU_Microchip_ATtiny : ATtiny26-16S
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny26-16S](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny26-16S)
 - Short Link: [http://oom.lt/SZKMCUMCHIPATTINYATTINY2616S](http://oom.lt/SZKMCUMCHIPATTINYATTINY2616S)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Heatsink-Heatsink_Stonecold_HS-132_32x14mm_2xFixation1.5mm
 - Hex ID: FZKHHSTONECOLDHS13232X142XFIXATION15
 - Name: Heatsink : Heatsink_Stonecold_HS-132_32x14mm_2xFixation1.5mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Heatsink/Heatsink_Stonecold_HS-132_32x14mm_2xFixation1.5mm/
 - Description: Heatsink : Heatsink_Stonecold_HS-132_32x14mm_2xFixation1.5mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Heatsink-Heatsink_Stonecold_HS-132_32x14mm_2xFixation1.5mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Heatsink-Heatsink_Stonecold_HS-132_32x14mm_2xFixation1.5mm)
 - Short Link: [http://oom.lt/FZKHHSTONECOLDHS13232X142XFIXATION15](http://oom.lt/FZKHHSTONECOLDHS13232X142XFIXATION15)

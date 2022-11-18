@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-LGA-12_4.8x2.8_VL6180
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSLGA1248X28VL618
 - Name: digikey-footprints : LGA-12_4.8x2.8_VL6180
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/LGA-12_4.8x2.8_VL6180/
 - Description: digikey-footprints : LGA-12_4.8x2.8_VL6180
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-LGA-12_4.8x2.8_VL6180](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-LGA-12_4.8x2.8_VL6180)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSLGA1248X28VL618](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSLGA1248X28VL618)

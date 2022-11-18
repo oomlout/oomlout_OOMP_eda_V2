@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-RESE-0603-X-O244-01-R6O244-C4197
 - Hex ID: SZOOMPKJLCRESE63XO2441R6O244C4197
 - Name: oomlout_OOMP_JLCC_Basic : RESE-0603-X-O244-01-R6O244-C4197
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_JLCC_Basic/RESE-0603-X-O244-01-R6O244-C4197/
 - Description: oomlout_OOMP_JLCC_Basic : RESE-0603-X-O244-01-R6O244-C4197
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-RESE-0603-X-O244-01-R6O244-C4197](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-RESE-0603-X-O244-01-R6O244-C4197)
 - Short Link: [http://oom.lt/SZOOMPKJLCRESE63XO2441R6O244C4197](http://oom.lt/SZOOMPKJLCRESE63XO2441R6O244C4197)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Buzzer_Beeper-Buzzer_Murata_PKMCS0909E
 - Hex ID: FZKBZBUZZERMPKMCS99E
 - Name: Buzzer_Beeper : Buzzer_Murata_PKMCS0909E
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Buzzer_Beeper/Buzzer_Murata_PKMCS0909E/
 - Description: Buzzer_Beeper : Buzzer_Murata_PKMCS0909E
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Buzzer_Beeper-Buzzer_Murata_PKMCS0909E](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Buzzer_Beeper-Buzzer_Murata_PKMCS0909E)
 - Short Link: [http://oom.lt/FZKBZBUZZERMPKMCS99E](http://oom.lt/FZKBZBUZZERMPKMCS99E)

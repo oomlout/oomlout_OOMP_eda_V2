@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-TLV71328PDBV
 - Hex ID: SZKREGULATORLINEARTLV71328PDBV
 - Name: Regulator_Linear : TLV71328PDBV
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/TLV71328PDBV/
 - Description: Regulator_Linear : TLV71328PDBV
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-TLV71328PDBV](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-TLV71328PDBV)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARTLV71328PDBV](http://oom.lt/SZKREGULATORLINEARTLV71328PDBV)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-relay-DIL06
 - Hex ID: FZERELAYDIL6
 - Name: relay : DIL06
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/relay/DIL06/
 - Description: relay : DIL06
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-DIL06](http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-DIL06)
 - Short Link: [http://oom.lt/FZERELAYDIL6](http://oom.lt/FZERELAYDIL6)

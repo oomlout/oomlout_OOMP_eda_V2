@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-allegro-ACS75050
 - Hex ID: FZEALLEGROACS755
 - Name: allegro : ACS75050
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/allegro/ACS75050/
 - Description: allegro : ACS75050
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-allegro-ACS75050](http://oom.lt/FOOTPRINT-eagle-eagle-default-allegro-ACS75050)
 - Short Link: [http://oom.lt/FZEALLEGROACS755](http://oom.lt/FZEALLEGROACS755)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-molex-KK-156-13
 - Hex ID: FZECONMXKK15613
 - Name: con-molex : KK-156-13
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-molex/KK-156-13/
 - Description: con-molex : KK-156-13
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-molex-KK-156-13](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-molex-KK-156-13)
 - Short Link: [http://oom.lt/FZECONMXKK15613](http://oom.lt/FZECONMXKK15613)

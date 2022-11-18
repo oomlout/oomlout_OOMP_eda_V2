@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-smd-ipc-LCC-44
 - Hex ID: FZESMIPCLCC44
 - Name: smd-ipc : LCC-44
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/smd-ipc/LCC-44/
 - Description: smd-ipc : LCC-44
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-LCC-44](http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-LCC-44)
 - Short Link: [http://oom.lt/FZESMIPCLCC44](http://oom.lt/FZESMIPCLCC44)

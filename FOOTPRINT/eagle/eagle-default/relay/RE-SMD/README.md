@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-relay-RE-SMD
 - Hex ID: FZERELAYRESM
 - Name: relay : RE-SMD
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/relay/RE-SMD/
 - Description: relay : RE-SMD
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-RE-SMD](http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-RE-SMD)
 - Short Link: [http://oom.lt/FZERELAYRESM](http://oom.lt/FZERELAYRESM)

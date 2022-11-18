@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-linear-H10C
 - Hex ID: FZELINEARH1C
 - Name: linear : H10C
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/linear/H10C/
 - Description: linear : H10C
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-linear-H10C](http://oom.lt/FOOTPRINT-eagle-eagle-default-linear-H10C)
 - Short Link: [http://oom.lt/FZELINEARH1C](http://oom.lt/FZELINEARH1C)

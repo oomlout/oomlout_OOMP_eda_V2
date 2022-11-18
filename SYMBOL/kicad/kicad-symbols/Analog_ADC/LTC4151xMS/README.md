@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Analog_ADC-LTC4151xMS
 - Hex ID: SZKANALOGADCLTC4151XMS
 - Name: Analog_ADC : LTC4151xMS
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog_ADC/LTC4151xMS/
 - Description: Analog_ADC : LTC4151xMS
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-LTC4151xMS](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-LTC4151xMS)
 - Short Link: [http://oom.lt/SZKANALOGADCLTC4151XMS](http://oom.lt/SZKANALOGADCLTC4151XMS)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-BMP085
 - Hex ID: FZABMP85
 - Name: adafruit : BMP085
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/BMP085/
 - Description: adafruit : BMP085
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-BMP085](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-BMP085)
 - Short Link: [http://oom.lt/FZABMP85](http://oom.lt/FZABMP85)

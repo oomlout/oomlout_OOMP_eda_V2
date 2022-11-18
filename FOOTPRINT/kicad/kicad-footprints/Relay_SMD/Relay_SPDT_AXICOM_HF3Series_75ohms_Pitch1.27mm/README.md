@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Relay_SMD-Relay_SPDT_AXICOM_HF3Series_75ohms_Pitch1.27mm
 - Hex ID: FZKRELRELAYSPDTAXICOMHF3SERIES75OHMSPITCH127
 - Name: Relay_SMD : Relay_SPDT_AXICOM_HF3Series_75ohms_Pitch1.27mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Relay_SMD/Relay_SPDT_AXICOM_HF3Series_75ohms_Pitch1.27mm/
 - Description: Relay_SMD : Relay_SPDT_AXICOM_HF3Series_75ohms_Pitch1.27mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Relay_SMD-Relay_SPDT_AXICOM_HF3Series_75ohms_Pitch1.27mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Relay_SMD-Relay_SPDT_AXICOM_HF3Series_75ohms_Pitch1.27mm)
 - Short Link: [http://oom.lt/FZKRELRELAYSPDTAXICOMHF3SERIES75OHMSPITCH127](http://oom.lt/FZKRELRELAYSPDTAXICOMHF3SERIES75OHMSPITCH127)

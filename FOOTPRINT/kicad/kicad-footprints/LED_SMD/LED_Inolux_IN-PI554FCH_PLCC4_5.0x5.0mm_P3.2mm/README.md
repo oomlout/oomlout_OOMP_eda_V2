@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_Inolux_IN-PI554FCH_PLCC4_5.0x5.0mm_P3.2mm
 - Hex ID: FZKLLINOLUXINPI554FCHPLCC45X5P32
 - Name: LED_SMD : LED_Inolux_IN-PI554FCH_PLCC4_5.0x5.0mm_P3.2mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_Inolux_IN-PI554FCH_PLCC4_5.0x5.0mm_P3.2mm/
 - Description: LED_SMD : LED_Inolux_IN-PI554FCH_PLCC4_5.0x5.0mm_P3.2mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_Inolux_IN-PI554FCH_PLCC4_5.0x5.0mm_P3.2mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_Inolux_IN-PI554FCH_PLCC4_5.0x5.0mm_P3.2mm)
 - Short Link: [http://oom.lt/FZKLLINOLUXINPI554FCHPLCC45X5P32](http://oom.lt/FZKLLINOLUXINPI554FCHPLCC45X5P32)

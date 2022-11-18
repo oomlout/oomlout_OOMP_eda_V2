@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Module-Adafruit_HUZZAH_ESP8266_breakout_WithMountingHoles
 - Hex ID: FZKMOADAHUZZAHESP8266BREAKOUTWITHHOLS
 - Name: Module : Adafruit_HUZZAH_ESP8266_breakout_WithMountingHoles
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Module/Adafruit_HUZZAH_ESP8266_breakout_WithMountingHoles/
 - Description: Module : Adafruit_HUZZAH_ESP8266_breakout_WithMountingHoles
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Module-Adafruit_HUZZAH_ESP8266_breakout_WithMountingHoles](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Module-Adafruit_HUZZAH_ESP8266_breakout_WithMountingHoles)
 - Short Link: [http://oom.lt/FZKMOADAHUZZAHESP8266BREAKOUTWITHHOLS](http://oom.lt/FZKMOADAHUZZAHESP8266BREAKOUTWITHHOLS)

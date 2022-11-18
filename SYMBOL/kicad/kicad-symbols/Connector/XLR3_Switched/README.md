@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Connector-XLR3_Switched
 - Hex ID: SZKCNXLR3SWED
 - Name: Connector : XLR3_Switched
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector/XLR3_Switched/
 - Description: Connector : XLR3_Switched
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-XLR3_Switched](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-XLR3_Switched)
 - Short Link: [http://oom.lt/SZKCNXLR3SWED](http://oom.lt/SZKCNXLR3SWED)

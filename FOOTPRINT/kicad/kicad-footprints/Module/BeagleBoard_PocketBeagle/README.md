@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Module-BeagleBoard_PocketBeagle
 - Hex ID: FZKMOBEAGLEBOARDPOCKETBEAGLE
 - Name: Module : BeagleBoard_PocketBeagle
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Module/BeagleBoard_PocketBeagle/
 - Description: Module : BeagleBoard_PocketBeagle
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Module-BeagleBoard_PocketBeagle](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Module-BeagleBoard_PocketBeagle)
 - Short Link: [http://oom.lt/FZKMOBEAGLEBOARDPOCKETBEAGLE](http://oom.lt/FZKMOBEAGLEBOARDPOCKETBEAGLE)

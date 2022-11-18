@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_UART-LTC2861
 - Hex ID: SZKINTERFACEUARTLTC2861
 - Name: Interface_UART : LTC2861
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_UART/LTC2861/
 - Description: Interface_UART : LTC2861
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_UART-LTC2861](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_UART-LTC2861)
 - Short Link: [http://oom.lt/SZKINTERFACEUARTLTC2861](http://oom.lt/SZKINTERFACEUARTLTC2861)

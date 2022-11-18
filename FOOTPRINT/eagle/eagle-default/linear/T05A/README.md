@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-linear-T05A
 - Hex ID: FZELINEART5A
 - Name: linear : T05A
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/linear/T05A/
 - Description: linear : T05A
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-linear-T05A](http://oom.lt/FOOTPRINT-eagle-eagle-default-linear-T05A)
 - Short Link: [http://oom.lt/FZELINEART5A](http://oom.lt/FZELINEART5A)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-power-+VSW
 - Hex ID: SZKPOWER+VSW
 - Name: power : +VSW
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/power/+VSW/
 - Description: power : +VSW
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-power-+VSW](http://oom.lt/SYMBOL-kicad-kicad-symbols-power-+VSW)
 - Short Link: [http://oom.lt/SZKPOWER+VSW](http://oom.lt/SZKPOWER+VSW)

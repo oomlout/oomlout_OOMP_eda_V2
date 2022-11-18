@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SOT-523
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSSOT523
 - Name: digikey-footprints : SOT-523
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/SOT-523/
 - Description: digikey-footprints : SOT-523
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SOT-523](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SOT-523)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSSOT523](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSSOT523)

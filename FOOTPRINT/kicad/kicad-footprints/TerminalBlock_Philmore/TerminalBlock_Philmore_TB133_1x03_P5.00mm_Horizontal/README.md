@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-TerminalBlock_Philmore-TerminalBlock_Philmore_TB133_1x03_P5.00mm_Horizontal
 - Hex ID: FZKTBPHILMORETBPHILMORETB1331X3P5H
 - Name: TerminalBlock_Philmore : TerminalBlock_Philmore_TB133_1x03_P5.00mm_Horizontal
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/TerminalBlock_Philmore/TerminalBlock_Philmore_TB133_1x03_P5.00mm_Horizontal/
 - Description: TerminalBlock_Philmore : TerminalBlock_Philmore_TB133_1x03_P5.00mm_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-TerminalBlock_Philmore-TerminalBlock_Philmore_TB133_1x03_P5.00mm_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-TerminalBlock_Philmore-TerminalBlock_Philmore_TB133_1x03_P5.00mm_Horizontal)
 - Short Link: [http://oom.lt/FZKTBPHILMORETBPHILMORETB1331X3P5H](http://oom.lt/FZKTBPHILMORETBPHILMORETB1331X3P5H)

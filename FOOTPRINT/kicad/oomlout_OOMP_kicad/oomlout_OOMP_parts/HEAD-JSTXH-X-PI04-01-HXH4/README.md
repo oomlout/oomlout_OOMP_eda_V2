@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-JSTXH-X-PI04-01-HXH4
 - Hex ID: FZOOMPKOOMPPHEADJSTXHXPI41HXH4
 - Name: oomlout_OOMP_parts : HEAD-JSTXH-X-PI04-01-HXH4
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/HEAD-JSTXH-X-PI04-01-HXH4/
 - Description: oomlout_OOMP_parts : HEAD-JSTXH-X-PI04-01-HXH4
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-JSTXH-X-PI04-01-HXH4](http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-JSTXH-X-PI04-01-HXH4)
 - Short Link: [http://oom.lt/FZOOMPKOOMPPHEADJSTXHXPI41HXH4](http://oom.lt/FZOOMPKOOMPPHEADJSTXHXPI41HXH4)

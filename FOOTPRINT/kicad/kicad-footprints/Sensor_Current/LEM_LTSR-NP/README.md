@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Sensor_Current-LEM_LTSR-NP
 - Hex ID: FZKSENCURRENTLEMLTSRNP
 - Name: Sensor_Current : LEM_LTSR-NP
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Sensor_Current/LEM_LTSR-NP/
 - Description: Sensor_Current : LEM_LTSR-NP
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Sensor_Current-LEM_LTSR-NP](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Sensor_Current-LEM_LTSR-NP)
 - Short Link: [http://oom.lt/FZKSENCURRENTLEMLTSRNP](http://oom.lt/FZKSENCURRENTLEMLTSRNP)

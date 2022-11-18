@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-amp-champ-50HP
 - Hex ID: FZECONAMPCHAMP5HP
 - Name: con-amp-champ : 50HP
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-amp-champ/50HP/
 - Description: con-amp-champ : 50HP
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-amp-champ-50HP](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-amp-champ-50HP)
 - Short Link: [http://oom.lt/FZECONAMPCHAMP5HP](http://oom.lt/FZECONAMPCHAMP5HP)

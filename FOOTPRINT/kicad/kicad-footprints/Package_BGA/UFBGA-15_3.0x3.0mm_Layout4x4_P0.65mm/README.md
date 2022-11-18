@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_BGA-UFBGA-15_3.0x3.0mm_Layout4x4_P0.65mm
 - Hex ID: FZKBGAUFBGA153X3LAYOUT4X4P65
 - Name: Package_BGA : UFBGA-15_3.0x3.0mm_Layout4x4_P0.65mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_BGA/UFBGA-15_3.0x3.0mm_Layout4x4_P0.65mm/
 - Description: Package_BGA : UFBGA-15_3.0x3.0mm_Layout4x4_P0.65mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_BGA-UFBGA-15_3.0x3.0mm_Layout4x4_P0.65mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_BGA-UFBGA-15_3.0x3.0mm_Layout4x4_P0.65mm)
 - Short Link: [http://oom.lt/FZKBGAUFBGA153X3LAYOUT4X4P65](http://oom.lt/FZKBGAUFBGA153X3LAYOUT4X4P65)

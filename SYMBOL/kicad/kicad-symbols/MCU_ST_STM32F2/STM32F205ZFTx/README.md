@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F2-STM32F205ZFTx
 - Hex ID: SZKMCUSTSTM32F2STM32F25ZFTX
 - Name: MCU_ST_STM32F2 : STM32F205ZFTx
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32F2/STM32F205ZFTx/
 - Description: MCU_ST_STM32F2 : STM32F205ZFTx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F2-STM32F205ZFTx](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F2-STM32F205ZFTx)
 - Short Link: [http://oom.lt/SZKMCUSTSTM32F2STM32F25ZFTX](http://oom.lt/SZKMCUSTSTM32F2STM32F25ZFTX)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_7.3x7.3_H3.5
 - Hex ID: FZKINL73X73H35
 - Name: Inductor_SMD : L_7.3x7.3_H3.5
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_7.3x7.3_H3.5/
 - Description: Inductor_SMD : L_7.3x7.3_H3.5
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_7.3x7.3_H3.5](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_7.3x7.3_H3.5)
 - Short Link: [http://oom.lt/FZKINL73X73H35](http://oom.lt/FZKINL73X73H35)

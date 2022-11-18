@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Device-Q_NMOS_SDGD
 - Hex ID: SZKDEVICEQNMOSSDGD
 - Name: Device : Q_NMOS_SDGD
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/Q_NMOS_SDGD/
 - Description: Device : Q_NMOS_SDGD
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Q_NMOS_SDGD](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Q_NMOS_SDGD)
 - Short Link: [http://oom.lt/SZKDEVICEQNMOSSDGD](http://oom.lt/SZKDEVICEQNMOSSDGD)

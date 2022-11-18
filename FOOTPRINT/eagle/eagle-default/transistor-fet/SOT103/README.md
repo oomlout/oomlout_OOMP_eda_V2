@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-transistor-fet-SOT103
 - Hex ID: FZETRANSISTORFETSOT13
 - Name: transistor-fet : SOT103
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/transistor-fet/SOT103/
 - Description: transistor-fet : SOT103
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-fet-SOT103](http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-fet-SOT103)
 - Short Link: [http://oom.lt/FZETRANSISTORFETSOT13](http://oom.lt/FZETRANSISTORFETSOT13)

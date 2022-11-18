@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-switch-3PDT
 - Hex ID: FZESW3PDT
 - Name: switch : 3PDT
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/switch/3PDT/
 - Description: switch : 3PDT
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-3PDT](http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-3PDT)
 - Short Link: [http://oom.lt/FZESW3PDT](http://oom.lt/FZESW3PDT)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Reference_Current-LM134H
 - Hex ID: SZKREFERENCECURRENTLM134H
 - Name: Reference_Current : LM134H
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Reference_Current/LM134H/
 - Description: Reference_Current : LM134H
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Current-LM134H](http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Current-LM134H)
 - Short Link: [http://oom.lt/SZKREFERENCECURRENTLM134H](http://oom.lt/SZKREFERENCECURRENTLM134H)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-power-GNDREF
 - Hex ID: SZKPOWERGNDREF
 - Name: power : GNDREF
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/power/GNDREF/
 - Description: power : GNDREF
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-power-GNDREF](http://oom.lt/SYMBOL-kicad-kicad-symbols-power-GNDREF)
 - Short Link: [http://oom.lt/SZKPOWERGNDREF](http://oom.lt/SZKPOWERGNDREF)

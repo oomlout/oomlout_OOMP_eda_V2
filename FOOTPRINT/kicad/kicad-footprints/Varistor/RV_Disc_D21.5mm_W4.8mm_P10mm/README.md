@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Varistor-RV_Disc_D21.5mm_W4.8mm_P10mm
 - Hex ID: FZKVRVDISCD215W48P1
 - Name: Varistor : RV_Disc_D21.5mm_W4.8mm_P10mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Varistor/RV_Disc_D21.5mm_W4.8mm_P10mm/
 - Description: Varistor : RV_Disc_D21.5mm_W4.8mm_P10mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Varistor-RV_Disc_D21.5mm_W4.8mm_P10mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Varistor-RV_Disc_D21.5mm_W4.8mm_P10mm)
 - Short Link: [http://oom.lt/FZKVRVDISCD215W48P1](http://oom.lt/FZKVRVDISCD215W48P1)

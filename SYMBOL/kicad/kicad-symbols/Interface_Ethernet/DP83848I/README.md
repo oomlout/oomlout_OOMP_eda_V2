@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_Ethernet-DP83848I
 - Hex ID: SZKINTERFACEETHERNETDP83848I
 - Name: Interface_Ethernet : DP83848I
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_Ethernet/DP83848I/
 - Description: Interface_Ethernet : DP83848I
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Ethernet-DP83848I](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Ethernet-DP83848I)
 - Short Link: [http://oom.lt/SZKINTERFACEETHERNETDP83848I](http://oom.lt/SZKINTERFACEETHERNETDP83848I)

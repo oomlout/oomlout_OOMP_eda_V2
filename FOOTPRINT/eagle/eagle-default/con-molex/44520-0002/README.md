@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-molex-44520-0002
 - Hex ID: FZECONMX44522
 - Name: con-molex : 44520-0002
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-molex/44520-0002/
 - Description: con-molex : 44520-0002
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-molex-44520-0002](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-molex-44520-0002)
 - Short Link: [http://oom.lt/FZECONMX44522](http://oom.lt/FZECONMX44522)

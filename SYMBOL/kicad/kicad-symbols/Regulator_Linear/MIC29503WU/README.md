@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-MIC29503WU
 - Hex ID: SZKREGULATORLINEARMIC2953WU
 - Name: Regulator_Linear : MIC29503WU
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/MIC29503WU/
 - Description: Regulator_Linear : MIC29503WU
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-MIC29503WU](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-MIC29503WU)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARMIC2953WU](http://oom.lt/SZKREGULATORLINEARMIC2953WU)

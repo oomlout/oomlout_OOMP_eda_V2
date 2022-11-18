@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-amp-champ-24HP
 - Hex ID: FZECONAMPCHAMP24HP
 - Name: con-amp-champ : 24HP
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-amp-champ/24HP/
 - Description: con-amp-champ : 24HP
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-amp-champ-24HP](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-amp-champ-24HP)
 - Short Link: [http://oom.lt/FZECONAMPCHAMP24HP](http://oom.lt/FZECONAMPCHAMP24HP)

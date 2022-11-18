@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_ST_STM32L4-STM32L431KCUx
 - Hex ID: SZKMCUSTSTM32L4STM32L431KCUX
 - Name: MCU_ST_STM32L4 : STM32L431KCUx
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32L4/STM32L431KCUx/
 - Description: MCU_ST_STM32L4 : STM32L431KCUx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32L4-STM32L431KCUx](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32L4-STM32L431KCUx)
 - Short Link: [http://oom.lt/SZKMCUSTSTM32L4STM32L431KCUX](http://oom.lt/SZKMCUSTSTM32L4STM32L431KCUX)

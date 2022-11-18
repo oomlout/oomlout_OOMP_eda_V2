@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-amp-SIMBRD30
 - Hex ID: FZECONAMPSIMBRD3
 - Name: con-amp : SIMBRD30
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-amp/SIMBRD30/
 - Description: con-amp : SIMBRD30
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-amp-SIMBRD30](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-amp-SIMBRD30)
 - Short Link: [http://oom.lt/FZECONAMPSIMBRD3](http://oom.lt/FZECONAMPSIMBRD3)

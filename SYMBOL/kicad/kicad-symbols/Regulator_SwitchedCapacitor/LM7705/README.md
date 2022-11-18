@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_SwitchedCapacitor-LM7705
 - Hex ID: SZKREGULATORSWEDCAPACITORLM775
 - Name: Regulator_SwitchedCapacitor : LM7705
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_SwitchedCapacitor/LM7705/
 - Description: Regulator_SwitchedCapacitor : LM7705
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_SwitchedCapacitor-LM7705](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_SwitchedCapacitor-LM7705)
 - Short Link: [http://oom.lt/SZKREGULATORSWEDCAPACITORLM775](http://oom.lt/SZKREGULATORSWEDCAPACITORLM775)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode_Bridge-DF08M
 - Hex ID: SZKDIODEBRIDGEDF8M
 - Name: Diode_Bridge : DF08M
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode_Bridge/DF08M/
 - Description: Diode_Bridge : DF08M
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode_Bridge-DF08M](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode_Bridge-DF08M)
 - Short Link: [http://oom.lt/SZKDIODEBRIDGEDF8M](http://oom.lt/SZKDIODEBRIDGEDF8M)

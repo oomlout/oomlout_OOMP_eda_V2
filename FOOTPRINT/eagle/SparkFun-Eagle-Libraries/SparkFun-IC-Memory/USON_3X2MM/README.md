@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Memory-USON_3X2MM
 - Hex ID: FZSIMUSON3X2
 - Name: SparkFun-IC-Memory : USON_3X2MM
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-IC-Memory/USON_3X2MM/
 - Description: SparkFun-IC-Memory : USON_3X2MM
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Memory-USON_3X2MM](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Memory-USON_3X2MM)
 - Short Link: [http://oom.lt/FZSIMUSON3X2](http://oom.lt/FZSIMUSON3X2)

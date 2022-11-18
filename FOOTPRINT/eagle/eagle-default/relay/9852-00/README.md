@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-relay-9852-00
 - Hex ID: FZERELAY9852
 - Name: relay : 9852-00
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/relay/9852-00/
 - Description: relay : 9852-00
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-9852-00](http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-9852-00)
 - Short Link: [http://oom.lt/FZERELAY9852](http://oom.lt/FZERELAY9852)

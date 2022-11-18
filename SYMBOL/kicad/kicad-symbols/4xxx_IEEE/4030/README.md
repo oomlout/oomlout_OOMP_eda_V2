@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-4xxx_IEEE-4030
 - Hex ID: SZK4XXXIEEE43
 - Name: 4xxx_IEEE : 4030
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/4xxx_IEEE/4030/
 - Description: 4xxx_IEEE : 4030
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-4xxx_IEEE-4030](http://oom.lt/SYMBOL-kicad-kicad-symbols-4xxx_IEEE-4030)
 - Short Link: [http://oom.lt/SZK4XXXIEEE43](http://oom.lt/SZK4XXXIEEE43)

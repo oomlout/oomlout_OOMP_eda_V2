@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Switches-NAV_SWITCH
 - Hex ID: FZSWNAVSW
 - Name: SparkFun-Switches : NAV_SWITCH
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Switches/NAV_SWITCH/
 - Description: SparkFun-Switches : NAV_SWITCH
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Switches-NAV_SWITCH](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Switches-NAV_SWITCH)
 - Short Link: [http://oom.lt/FZSWNAVSW](http://oom.lt/FZSWNAVSW)

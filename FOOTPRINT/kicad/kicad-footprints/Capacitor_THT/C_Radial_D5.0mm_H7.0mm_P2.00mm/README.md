@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Capacitor_THT-C_Radial_D5.0mm_H7.0mm_P2.00mm
 - Hex ID: FZKCCRD5H7P2
 - Name: Capacitor_THT : C_Radial_D5.0mm_H7.0mm_P2.00mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Capacitor_THT/C_Radial_D5.0mm_H7.0mm_P2.00mm/
 - Description: Capacitor_THT : C_Radial_D5.0mm_H7.0mm_P2.00mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_THT-C_Radial_D5.0mm_H7.0mm_P2.00mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_THT-C_Radial_D5.0mm_H7.0mm_P2.00mm)
 - Short Link: [http://oom.lt/FZKCCRD5H7P2](http://oom.lt/FZKCCRD5H7P2)

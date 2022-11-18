@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-power-VS
 - Hex ID: SZKPOWERVS
 - Name: power : VS
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/power/VS/
 - Description: power : VS
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-power-VS](http://oom.lt/SYMBOL-kicad-kicad-symbols-power-VS)
 - Short Link: [http://oom.lt/SZKPOWERVS](http://oom.lt/SZKPOWERVS)

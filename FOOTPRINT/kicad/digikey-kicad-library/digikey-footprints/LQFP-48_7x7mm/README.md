@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-LQFP-48_7x7mm
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSLQFP487X7
 - Name: digikey-footprints : LQFP-48_7x7mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/LQFP-48_7x7mm/
 - Description: digikey-footprints : LQFP-48_7x7mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-LQFP-48_7x7mm](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-LQFP-48_7x7mm)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSLQFP487X7](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSLQFP487X7)

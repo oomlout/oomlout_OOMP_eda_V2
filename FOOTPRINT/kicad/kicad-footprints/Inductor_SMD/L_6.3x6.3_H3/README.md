@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_6.3x6.3_H3
 - Hex ID: FZKINL63X63H3
 - Name: Inductor_SMD : L_6.3x6.3_H3
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_6.3x6.3_H3/
 - Description: Inductor_SMD : L_6.3x6.3_H3
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_6.3x6.3_H3](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_6.3x6.3_H3)
 - Short Link: [http://oom.lt/FZKINL63X63H3](http://oom.lt/FZKINL63X63H3)

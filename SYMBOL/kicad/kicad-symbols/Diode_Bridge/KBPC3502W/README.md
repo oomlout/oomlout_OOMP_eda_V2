@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-Diode_Bridge-KBPC3502W
 - Hex ID: SZKDIODEBRIDGEKBPC352W
 - Name: Diode_Bridge : KBPC3502W
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode_Bridge/KBPC3502W/
 - Description: Diode_Bridge : KBPC3502W
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode_Bridge-KBPC3502W](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode_Bridge-KBPC3502W)
 - Short Link: [http://oom.lt/SZKDIODEBRIDGEKBPC352W](http://oom.lt/SZKDIODEBRIDGEKBPC352W)

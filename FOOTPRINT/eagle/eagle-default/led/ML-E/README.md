@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-led-ML-E
 - Hex ID: FZELMLE
 - Name: led : ML-E
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/led/ML-E/
 - Description: led : ML-E
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-led-ML-E](http://oom.lt/FOOTPRINT-eagle-eagle-default-led-ML-E)
 - Short Link: [http://oom.lt/FZELMLE](http://oom.lt/FZELMLE)

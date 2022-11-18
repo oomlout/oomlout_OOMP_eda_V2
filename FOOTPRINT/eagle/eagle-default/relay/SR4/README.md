@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-relay-SR4
 - Hex ID: FZERELAYSR4
 - Name: relay : SR4
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/relay/SR4/
 - Description: relay : SR4
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-SR4](http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-SR4)
 - Short Link: [http://oom.lt/FZERELAYSR4](http://oom.lt/FZERELAYSR4)

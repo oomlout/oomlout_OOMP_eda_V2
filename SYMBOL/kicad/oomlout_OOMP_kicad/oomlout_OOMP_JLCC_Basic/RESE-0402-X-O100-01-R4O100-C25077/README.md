@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-RESE-0402-X-O100-01-R4O100-C25077
 - Hex ID: SZOOMPKJLCRESE42XO11R4O1C2577
 - Name: oomlout_OOMP_JLCC_Basic : RESE-0402-X-O100-01-R4O100-C25077
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_JLCC_Basic/RESE-0402-X-O100-01-R4O100-C25077/
 - Description: oomlout_OOMP_JLCC_Basic : RESE-0402-X-O100-01-R4O100-C25077
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-RESE-0402-X-O100-01-R4O100-C25077](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-RESE-0402-X-O100-01-R4O100-C25077)
 - Short Link: [http://oom.lt/SZOOMPKJLCRESE42XO11R4O1C2577](http://oom.lt/SZOOMPKJLCRESE42XO11R4O1C2577)

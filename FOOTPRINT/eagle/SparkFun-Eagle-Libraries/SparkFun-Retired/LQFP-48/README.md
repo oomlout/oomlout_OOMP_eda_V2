@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-LQFP-48
 - Hex ID: FZSRTLQFP48
 - Name: SparkFun-Retired : LQFP-48
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Retired/LQFP-48/
 - Description: SparkFun-Retired : LQFP-48
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-LQFP-48](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-LQFP-48)
 - Short Link: [http://oom.lt/FZSRTLQFP48](http://oom.lt/FZSRTLQFP48)

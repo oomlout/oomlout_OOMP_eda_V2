@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-rcl-175TMP-0808
 - Hex ID: FZERCL175TMP88
 - Name: rcl : 175TMP-0808
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/rcl/175TMP-0808/
 - Description: rcl : 175TMP-0808
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-175TMP-0808](http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-175TMP-0808)
 - Short Link: [http://oom.lt/FZERCL175TMP88](http://oom.lt/FZERCL175TMP88)

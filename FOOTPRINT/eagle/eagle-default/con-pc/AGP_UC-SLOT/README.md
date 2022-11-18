@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-pc-AGP_UC-SLOT
 - Hex ID: FZECONPCAGPUCSLOT
 - Name: con-pc : AGP_UC-SLOT
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-pc/AGP_UC-SLOT/
 - Description: con-pc : AGP_UC-SLOT
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-pc-AGP_UC-SLOT](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-pc-AGP_UC-SLOT)
 - Short Link: [http://oom.lt/FZECONPCAGPUCSLOT](http://oom.lt/FZECONPCAGPUCSLOT)

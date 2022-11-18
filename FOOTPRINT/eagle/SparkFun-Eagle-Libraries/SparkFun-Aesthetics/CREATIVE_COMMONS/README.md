@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Aesthetics-CREATIVE_COMMONS
 - Hex ID: FZSACREATIVECOONS
 - Name: SparkFun-Aesthetics : CREATIVE_COMMONS
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Aesthetics/CREATIVE_COMMONS/
 - Description: SparkFun-Aesthetics : CREATIVE_COMMONS
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Aesthetics-CREATIVE_COMMONS](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Aesthetics-CREATIVE_COMMONS)
 - Short Link: [http://oom.lt/FZSACREATIVECOONS](http://oom.lt/FZSACREATIVECOONS)

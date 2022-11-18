@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-BAR42FILM
 - Hex ID: SZKDIODEBAR42FILM
 - Name: Diode : BAR42FILM
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/BAR42FILM/
 - Description: Diode : BAR42FILM
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-BAR42FILM](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-BAR42FILM)
 - Short Link: [http://oom.lt/SZKDIODEBAR42FILM](http://oom.lt/SZKDIODEBAR42FILM)

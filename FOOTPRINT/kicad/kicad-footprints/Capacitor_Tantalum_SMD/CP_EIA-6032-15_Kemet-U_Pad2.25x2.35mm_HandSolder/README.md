@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKCCPEIA63215KEMETUPAD225X235HANDSOLDER > Capacitor_Tantalum_SMD : CP_EIA-6032-15_Kemet-U_Pad2.25x2.35mm_HandSolder](#fzkccpeia63215kemetupad225x235handsolder--capacitor_tantalum_smd--cp_eia-6032-15_kemet-u_pad225x235mm_handsolder)
+* [FZKCCPEIA63215KEMETUP225X235HSOLDER > Capacitor_Tantalum_SMD : CP_EIA-6032-15_Kemet-U_Pad2.25x2.35mm_HandSolder](#fzkccpeia63215kemetup225x235hsolder--capacitor_tantalum_smd--cp_eia-6032-15_kemet-u_pad225x235mm_handsolder)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKCCPEIA63215KEMETUPAD225X235HANDSOLDER > Capacitor_Tantalum_SMD : CP_EIA-6032-15_Kemet-U_Pad2.25x2.35mm_HandSolder
+# FZKCCPEIA63215KEMETUP225X235HSOLDER > Capacitor_Tantalum_SMD : CP_EIA-6032-15_Kemet-U_Pad2.25x2.35mm_HandSolder
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Capacitor_Tantalum_SMD-CP_EIA-6032-15_Kemet-U_Pad2.25x2.35mm_HandSolder
-- Hex ID: FZKCCPEIA63215KEMETUPAD225X235HANDSOLDER
+- Hex ID: FZKCCPEIA63215KEMETUP225X235HSOLDER
 - Name: Capacitor_Tantalum_SMD : CP_EIA-6032-15_Kemet-U_Pad2.25x2.35mm_HandSolder
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Capacitor_Tantalum_SMD/CP_EIA-6032-15_Kemet-U_Pad2.25x2.35mm_HandSolder/
 - Description: Capacitor_Tantalum_SMD : CP_EIA-6032-15_Kemet-U_Pad2.25x2.35mm_HandSolder
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_Tantalum_SMD-CP_EIA-6032-15_Kemet-U_Pad2.25x2.35mm_HandSolder](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_Tantalum_SMD-CP_EIA-6032-15_Kemet-U_Pad2.25x2.35mm_HandSolder)
-- Short Link: [http://oom.lt/FZKCCPEIA63215KEMETUPAD225X235HANDSOLDER](http://oom.lt/FZKCCPEIA63215KEMETUPAD225X235HANDSOLDER)
+- Short Link: [http://oom.lt/FZKCCPEIA63215KEMETUP225X235HSOLDER](http://oom.lt/FZKCCPEIA63215KEMETUP225X235HSOLDER)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Capacitor_Tantalum_SMD|
 |OOMP Index|oompIndex|CP_EIA-6032-15_Kemet-U_Pad2.25x2.35mm_HandSolder|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Capacitor_Tantalum_SMD-CP_EIA-6032-15_Kemet-U_Pad2.25x2.35mm_HandSolder|
-|Hex ID (short code)|hexID|FZKCCPEIA63215KEMETUPAD225X235HANDSOLDER|
+|Hex ID (short code)|hexID|FZKCCPEIA63215KEMETUP225X235HSOLDER|
 |name|name|Capacitor_Tantalum_SMD : CP_EIA-6032-15_Kemet-U_Pad2.25x2.35mm_HandSolder|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'CP_EIA-6032-15_Kemet-U_Pad2.25x2.35mm_HandSolder'</td><td> 'description'</td></tr><tr><td> 'Tantalum Capacitor SMD Kemet-U (6032-15 Metric)</td><td> IPC_7351 nominal</td><td> (Body size from</td></tr><tr><td> http</td></tr><tr><td>//www.kemet.com/Lists/ProductCatalog/Attachments/253/KEM_TC101_STD.pdf)</td><td> generated with kicad-footprint-generator'</td><td> 'tags'</td></tr><tr><td> 'capacitor tantalum'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Capacitor_Tantalum_SMD.3dshapes/CP_EIA-6032-15_Kemet-U.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||

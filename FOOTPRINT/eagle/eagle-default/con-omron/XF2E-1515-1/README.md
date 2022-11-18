@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-omron-XF2E-1515-1
 - Hex ID: FZECONOMRONXF2E15151
 - Name: con-omron : XF2E-1515-1
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-omron/XF2E-1515-1/
 - Description: con-omron : XF2E-1515-1
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-omron-XF2E-1515-1](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-omron-XF2E-1515-1)
 - Short Link: [http://oom.lt/FZECONOMRONXF2E15151](http://oom.lt/FZECONOMRONXF2E15151)

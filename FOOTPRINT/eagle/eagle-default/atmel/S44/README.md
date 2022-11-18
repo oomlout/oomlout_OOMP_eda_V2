@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-atmel-S44
 - Hex ID: FZEATMELS44
 - Name: atmel : S44
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/atmel/S44/
 - Description: atmel : S44
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-atmel-S44](http://oom.lt/FOOTPRINT-eagle-eagle-default-atmel-S44)
 - Short Link: [http://oom.lt/FZEATMELS44](http://oom.lt/FZEATMELS44)

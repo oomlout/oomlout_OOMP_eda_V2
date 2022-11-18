@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-I01-W-PI08-01-H08W
 - Hex ID: SZOOMPKOOMPPHEADI1WPI81H8W
 - Name: oomlout_OOMP_parts : HEAD-I01-W-PI08-01-H08W
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/HEAD-I01-W-PI08-01-H08W/
 - Description: oomlout_OOMP_parts : HEAD-I01-W-PI08-01-H08W
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-I01-W-PI08-01-H08W](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-I01-W-PI08-01-H08W)
 - Short Link: [http://oom.lt/SZOOMPKOOMPPHEADI1WPI81H8W](http://oom.lt/SZOOMPKOOMPPHEADI1WPI81H8W)

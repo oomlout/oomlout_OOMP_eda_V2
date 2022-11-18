@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_HID-JoyWarrior24A10L
 - Hex ID: SZKINTERFACEHIDJOYWARRIOR24A1L
 - Name: Interface_HID : JoyWarrior24A10L
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_HID/JoyWarrior24A10L/
 - Description: Interface_HID : JoyWarrior24A10L
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_HID-JoyWarrior24A10L](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_HID-JoyWarrior24A10L)
 - Short Link: [http://oom.lt/SZKINTERFACEHIDJOYWARRIOR24A1L](http://oom.lt/SZKINTERFACEHIDJOYWARRIOR24A1L)

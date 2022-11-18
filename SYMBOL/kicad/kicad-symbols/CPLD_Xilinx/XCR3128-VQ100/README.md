@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-CPLD_Xilinx-XCR3128-VQ100
 - Hex ID: SZKCPLDXILINXXCR3128VQ1
 - Name: CPLD_Xilinx : XCR3128-VQ100
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/CPLD_Xilinx/XCR3128-VQ100/
 - Description: CPLD_Xilinx : XCR3128-VQ100
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-CPLD_Xilinx-XCR3128-VQ100](http://oom.lt/SYMBOL-kicad-kicad-symbols-CPLD_Xilinx-XCR3128-VQ100)
 - Short Link: [http://oom.lt/SZKCPLDXILINXXCR3128VQ1](http://oom.lt/SZKCPLDXILINXXCR3128VQ1)

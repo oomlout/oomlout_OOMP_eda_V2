@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Relay_THT-Relay_DPDT_Kemet_EC2_DoubleCoil
 - Hex ID: FZKRELRELAYDPDTKEMETEC2DOUBLECOIL
 - Name: Relay_THT : Relay_DPDT_Kemet_EC2_DoubleCoil
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Relay_THT/Relay_DPDT_Kemet_EC2_DoubleCoil/
 - Description: Relay_THT : Relay_DPDT_Kemet_EC2_DoubleCoil
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Relay_THT-Relay_DPDT_Kemet_EC2_DoubleCoil](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Relay_THT-Relay_DPDT_Kemet_EC2_DoubleCoil)
 - Short Link: [http://oom.lt/FZKRELRELAYDPDTKEMETEC2DOUBLECOIL](http://oom.lt/FZKRELRELAYDPDTKEMETEC2DOUBLECOIL)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_HC49-4H_Vertical
 - Hex ID: FZKXXHC494HF
 - Name: Crystal : Crystal_HC49-4H_Vertical
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_HC49-4H_Vertical/
 - Description: Crystal : Crystal_HC49-4H_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_HC49-4H_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_HC49-4H_Vertical)
 - Short Link: [http://oom.lt/FZKXXHC494HF](http://oom.lt/FZKXXHC494HF)

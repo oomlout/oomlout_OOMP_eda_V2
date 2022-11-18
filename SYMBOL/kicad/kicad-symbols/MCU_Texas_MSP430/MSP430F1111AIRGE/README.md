@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Texas_MSP430-MSP430F1111AIRGE
 - Hex ID: SZKMCUTEXASMSP43MSP43F1111AIRGE
 - Name: MCU_Texas_MSP430 : MSP430F1111AIRGE
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Texas_MSP430/MSP430F1111AIRGE/
 - Description: MCU_Texas_MSP430 : MSP430F1111AIRGE
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Texas_MSP430-MSP430F1111AIRGE](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Texas_MSP430-MSP430F1111AIRGE)
 - Short Link: [http://oom.lt/SZKMCUTEXASMSP43MSP43F1111AIRGE](http://oom.lt/SZKMCUTEXASMSP43MSP43F1111AIRGE)

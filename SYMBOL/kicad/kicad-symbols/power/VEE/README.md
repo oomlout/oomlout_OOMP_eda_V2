@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-power-VEE
 - Hex ID: SZKPOWERVEE
 - Name: power : VEE
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/power/VEE/
 - Description: power : VEE
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-power-VEE](http://oom.lt/SYMBOL-kicad-kicad-symbols-power-VEE)
 - Short Link: [http://oom.lt/SZKPOWERVEE](http://oom.lt/SZKPOWERVEE)

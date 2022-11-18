@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_CAN_LIN-PCA82C251
 - Hex ID: SZKINTERFACECANLINPCA82C251
 - Name: Interface_CAN_LIN : PCA82C251
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_CAN_LIN/PCA82C251/
 - Description: Interface_CAN_LIN : PCA82C251
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_CAN_LIN-PCA82C251](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_CAN_LIN-PCA82C251)
 - Short Link: [http://oom.lt/SZKINTERFACECANLINPCA82C251](http://oom.lt/SZKINTERFACECANLINPCA82C251)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Driver_FET-IR2110S
 - Hex ID: SZKDRIVERFETIR211S
 - Name: Driver_FET : IR2110S
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Driver_FET/IR2110S/
 - Description: Driver_FET : IR2110S
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-IR2110S](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-IR2110S)
 - Short Link: [http://oom.lt/SZKDRIVERFETIR211S](http://oom.lt/SZKDRIVERFETIR211S)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-buzzer-EFBAA40D101
 - Hex ID: FZEBUZZEREFBAA4D11
 - Name: buzzer : EFBAA40D101
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/buzzer/EFBAA40D101/
 - Description: buzzer : EFBAA40D101
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-buzzer-EFBAA40D101](http://oom.lt/FOOTPRINT-eagle-eagle-default-buzzer-EFBAA40D101)
 - Short Link: [http://oom.lt/FZEBUZZEREFBAA4D11](http://oom.lt/FZEBUZZEREFBAA4D11)

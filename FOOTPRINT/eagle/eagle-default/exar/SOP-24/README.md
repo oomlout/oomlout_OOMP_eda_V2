@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-exar-SOP-24
 - Hex ID: FZEEXARS24
 - Name: exar : SOP-24
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/exar/SOP-24/
 - Description: exar : SOP-24
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-exar-SOP-24](http://oom.lt/FOOTPRINT-eagle-eagle-default-exar-SOP-24)
 - Short Link: [http://oom.lt/FZEEXARS24](http://oom.lt/FZEEXARS24)

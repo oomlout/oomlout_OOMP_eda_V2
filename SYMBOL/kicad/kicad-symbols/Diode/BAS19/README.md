@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-BAS19
 - Hex ID: SZKDIODEBAS19
 - Name: Diode : BAS19
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/BAS19/
 - Description: Diode : BAS19
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-BAS19](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-BAS19)
 - Short Link: [http://oom.lt/SZKDIODEBAS19](http://oom.lt/SZKDIODEBAS19)

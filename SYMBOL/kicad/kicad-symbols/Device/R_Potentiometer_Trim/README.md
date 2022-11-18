@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Device-R_Potentiometer_Trim
 - Hex ID: SZKDEVICERPOTTRIM
 - Name: Device : R_Potentiometer_Trim
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/R_Potentiometer_Trim/
 - Description: Device : R_Potentiometer_Trim
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-R_Potentiometer_Trim](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-R_Potentiometer_Trim)
 - Short Link: [http://oom.lt/SZKDEVICERPOTTRIM](http://oom.lt/SZKDEVICERPOTTRIM)

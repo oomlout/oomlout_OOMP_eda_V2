@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Device-Thermistor_US
 - Hex ID: SZKDEVICETHERMISTORUS
 - Name: Device : Thermistor_US
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/Thermistor_US/
 - Description: Device : Thermistor_US
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Thermistor_US](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Thermistor_US)
 - Short Link: [http://oom.lt/SZKDEVICETHERMISTORUS](http://oom.lt/SZKDEVICETHERMISTORUS)

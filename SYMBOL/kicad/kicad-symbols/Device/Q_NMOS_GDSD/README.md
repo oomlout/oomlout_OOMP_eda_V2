@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Device-Q_NMOS_GDSD
 - Hex ID: SZKDEVICEQNMOSGDSD
 - Name: Device : Q_NMOS_GDSD
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/Q_NMOS_GDSD/
 - Description: Device : Q_NMOS_GDSD
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Q_NMOS_GDSD](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Q_NMOS_GDSD)
 - Short Link: [http://oom.lt/SZKDEVICEQNMOSGDSD](http://oom.lt/SZKDEVICEQNMOSGDSD)

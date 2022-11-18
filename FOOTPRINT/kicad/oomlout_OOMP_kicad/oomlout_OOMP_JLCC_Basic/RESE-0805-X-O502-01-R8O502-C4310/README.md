@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-RESE-0805-X-O502-01-R8O502-C4310
 - Hex ID: FZOOMPKJLCRESE85XO521R8O52C431
 - Name: oomlout_OOMP_JLCC_Basic : RESE-0805-X-O502-01-R8O502-C4310
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_JLCC_Basic/RESE-0805-X-O502-01-R8O502-C4310/
 - Description: oomlout_OOMP_JLCC_Basic : RESE-0805-X-O502-01-R8O502-C4310
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-RESE-0805-X-O502-01-R8O502-C4310](http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-RESE-0805-X-O502-01-R8O502-C4310)
 - Short Link: [http://oom.lt/FZOOMPKJLCRESE85XO521R8O52C431](http://oom.lt/FZOOMPKJLCRESE85XO521R8O52C431)

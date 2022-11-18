@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Special-Function-HTSSOP28
 - Hex ID: FZSISHTSS28
 - Name: SparkFun-IC-Special-Function : HTSSOP28
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-IC-Special-Function/HTSSOP28/
 - Description: SparkFun-IC-Special-Function : HTSSOP28
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Special-Function-HTSSOP28](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Special-Function-HTSSOP28)
 - Short Link: [http://oom.lt/FZSISHTSS28](http://oom.lt/FZSISHTSS28)

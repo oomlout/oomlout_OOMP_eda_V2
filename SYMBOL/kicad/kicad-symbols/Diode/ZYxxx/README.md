@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-ZYxxx
 - Hex ID: SZKDIODEZYXXX
 - Name: Diode : ZYxxx
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/ZYxxx/
 - Description: Diode : ZYxxx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-ZYxxx](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-ZYxxx)
 - Short Link: [http://oom.lt/SZKDIODEZYXXX](http://oom.lt/SZKDIODEZYXXX)

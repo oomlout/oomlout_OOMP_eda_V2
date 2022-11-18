@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Controller-TL494
 - Hex ID: SZKREGULATORCONTROLLERTL494
 - Name: Regulator_Controller : TL494
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Controller/TL494/
 - Description: Regulator_Controller : TL494
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Controller-TL494](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Controller-TL494)
 - Short Link: [http://oom.lt/SZKREGULATORCONTROLLERTL494](http://oom.lt/SZKREGULATORCONTROLLERTL494)

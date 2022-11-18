@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-TERS-05-G-PI02-01-ST502G
 - Hex ID: SZOOMPKOOMPPTERS5GPI21ST52G
 - Name: oomlout_OOMP_parts : TERS-05-G-PI02-01-ST502G
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/TERS-05-G-PI02-01-ST502G/
 - Description: oomlout_OOMP_parts : TERS-05-G-PI02-01-ST502G
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-TERS-05-G-PI02-01-ST502G](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-TERS-05-G-PI02-01-ST502G)
 - Short Link: [http://oom.lt/SZOOMPKOOMPPTERS5GPI21ST52G](http://oom.lt/SZOOMPKOOMPPTERS5GPI21ST52G)

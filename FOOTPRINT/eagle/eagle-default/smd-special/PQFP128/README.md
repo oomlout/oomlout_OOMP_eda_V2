@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-smd-special-PQFP128
 - Hex ID: FZESMSPECIALPQFP128
 - Name: smd-special : PQFP128
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/smd-special/PQFP128/
 - Description: smd-special : PQFP128
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-special-PQFP128](http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-special-PQFP128)
 - Short Link: [http://oom.lt/FZESMSPECIALPQFP128](http://oom.lt/FZESMSPECIALPQFP128)

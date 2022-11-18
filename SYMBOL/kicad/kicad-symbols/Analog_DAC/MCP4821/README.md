@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Analog_DAC-MCP4821
 - Hex ID: SZKANALOGDACMCP4821
 - Name: Analog_DAC : MCP4821
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog_DAC/MCP4821/
 - Description: Analog_DAC : MCP4821
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_DAC-MCP4821](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_DAC-MCP4821)
 - Short Link: [http://oom.lt/SZKANALOGDACMCP4821](http://oom.lt/SZKANALOGDACMCP4821)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Relay_SMD-Relay_DPDT_Omron_G6S-2G
 - Hex ID: FZKRELRELAYDPDTOMRONG6S2G
 - Name: Relay_SMD : Relay_DPDT_Omron_G6S-2G
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Relay_SMD/Relay_DPDT_Omron_G6S-2G/
 - Description: Relay_SMD : Relay_DPDT_Omron_G6S-2G
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Relay_SMD-Relay_DPDT_Omron_G6S-2G](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Relay_SMD-Relay_DPDT_Omron_G6S-2G)
 - Short Link: [http://oom.lt/FZKRELRELAYDPDTOMRONG6S2G](http://oom.lt/FZKRELRELAYDPDTOMRONG6S2G)

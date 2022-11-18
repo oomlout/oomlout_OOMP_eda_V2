@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-OptoDevice-R_LDR_7x6mm_P5.1mm_Vertical
 - Hex ID: FZKOPRLDR7X6P51F
 - Name: OptoDevice : R_LDR_7x6mm_P5.1mm_Vertical
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/OptoDevice/R_LDR_7x6mm_P5.1mm_Vertical/
 - Description: OptoDevice : R_LDR_7x6mm_P5.1mm_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-OptoDevice-R_LDR_7x6mm_P5.1mm_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-OptoDevice-R_LDR_7x6mm_P5.1mm_Vertical)
 - Short Link: [http://oom.lt/FZKOPRLDR7X6P51F](http://oom.lt/FZKOPRLDR7X6P51F)

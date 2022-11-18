@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-led-7-segment-LA-401
 - Hex ID: FZEL7SLA41
 - Name: led-7-segment : LA-401
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/led-7-segment/LA-401/
 - Description: led-7-segment : LA-401
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-led-7-segment-LA-401](http://oom.lt/FOOTPRINT-eagle-eagle-default-led-7-segment-LA-401)
 - Short Link: [http://oom.lt/FZEL7SLA41](http://oom.lt/FZEL7SLA41)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-LNK615PG
 - Hex ID: SZKREGULATORSWINGLNK615PG
 - Name: Regulator_Switching : LNK615PG
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/LNK615PG/
 - Description: Regulator_Switching : LNK615PG
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LNK615PG](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LNK615PG)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGLNK615PG](http://oom.lt/SZKREGULATORSWINGLNK615PG)

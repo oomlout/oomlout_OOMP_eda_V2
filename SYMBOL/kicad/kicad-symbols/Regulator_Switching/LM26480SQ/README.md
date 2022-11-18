@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-LM26480SQ
 - Hex ID: SZKREGULATORSWINGLM2648SQ
 - Name: Regulator_Switching : LM26480SQ
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/LM26480SQ/
 - Description: Regulator_Switching : LM26480SQ
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LM26480SQ](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LM26480SQ)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGLM2648SQ](http://oom.lt/SZKREGULATORSWINGLM2648SQ)

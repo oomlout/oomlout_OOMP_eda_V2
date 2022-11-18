@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Capacitors-DSK-RADIAL-4.8MM
 - Hex ID: FZSCDSKR48
 - Name: SparkFun-Capacitors : DSK-RADIAL-4.8MM
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Capacitors/DSK-RADIAL-4.8MM/
 - Description: SparkFun-Capacitors : DSK-RADIAL-4.8MM
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Capacitors-DSK-RADIAL-4.8MM](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Capacitors-DSK-RADIAL-4.8MM)
 - Short Link: [http://oom.lt/FZSCDSKR48](http://oom.lt/FZSCDSKR48)

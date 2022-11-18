@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny40-MM
 - Hex ID: SZKMCUMCHIPATTINYATTINY4
 - Name: MCU_Microchip_ATtiny : ATtiny40-MM
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_ATtiny/ATtiny40-MM/
 - Description: MCU_Microchip_ATtiny : ATtiny40-MM
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny40-MM](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny40-MM)
 - Short Link: [http://oom.lt/SZKMCUMCHIPATTINYATTINY4](http://oom.lt/SZKMCUMCHIPATTINYATTINY4)

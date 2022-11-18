@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Converter_ACDC-RAC04-05SGA
 - Hex ID: SZKCONRAC45SGA
 - Name: Converter_ACDC : RAC04-05SGA
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Converter_ACDC/RAC04-05SGA/
 - Description: Converter_ACDC : RAC04-05SGA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_ACDC-RAC04-05SGA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_ACDC-RAC04-05SGA)
 - Short Link: [http://oom.lt/SZKCONRAC45SGA](http://oom.lt/SZKCONRAC45SGA)

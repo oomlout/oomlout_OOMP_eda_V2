@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-LT1175-ADJ_TO263_TO220
 - Hex ID: SZKREGULATORLINEARLT1175ADJTO263TO22
 - Name: Regulator_Linear : LT1175-ADJ_TO263_TO220
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LT1175-ADJ_TO263_TO220/
 - Description: Regulator_Linear : LT1175-ADJ_TO263_TO220
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LT1175-ADJ_TO263_TO220](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LT1175-ADJ_TO263_TO220)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARLT1175ADJTO263TO22](http://oom.lt/SZKREGULATORLINEARLT1175ADJTO263TO22)

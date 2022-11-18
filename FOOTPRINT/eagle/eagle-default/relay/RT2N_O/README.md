@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-relay-RT2N_O
 - Hex ID: FZERELAYRT2NO
 - Name: relay : RT2N_O
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/relay/RT2N_O/
 - Description: relay : RT2N_O
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-RT2N_O](http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-RT2N_O)
 - Short Link: [http://oom.lt/FZERELAYRT2NO](http://oom.lt/FZERELAYRT2NO)

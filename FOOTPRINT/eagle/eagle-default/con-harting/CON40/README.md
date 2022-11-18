@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-harting-CON40
 - Hex ID: FZECONHARTINGCON4
 - Name: con-harting : CON40
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-harting/CON40/
 - Description: con-harting : CON40
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-harting-CON40](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-harting-CON40)
 - Short Link: [http://oom.lt/FZECONHARTINGCON4](http://oom.lt/FZECONHARTINGCON4)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-maxim-UDFN8
 - Hex ID: FZEMAXIMUDFN8
 - Name: maxim : UDFN8
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/maxim/UDFN8/
 - Description: maxim : UDFN8
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-maxim-UDFN8](http://oom.lt/FOOTPRINT-eagle-eagle-default-maxim-UDFN8)
 - Short Link: [http://oom.lt/FZEMAXIMUDFN8](http://oom.lt/FZEMAXIMUDFN8)

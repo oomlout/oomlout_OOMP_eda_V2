@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Potentiometer_THT-Potentiometer_Alps_RK097_Dual_Horizontal
 - Hex ID: FZKPPOTALPSRK97DUALH
 - Name: Potentiometer_THT : Potentiometer_Alps_RK097_Dual_Horizontal
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Potentiometer_THT/Potentiometer_Alps_RK097_Dual_Horizontal/
 - Description: Potentiometer_THT : Potentiometer_Alps_RK097_Dual_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Potentiometer_THT-Potentiometer_Alps_RK097_Dual_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Potentiometer_THT-Potentiometer_Alps_RK097_Dual_Horizontal)
 - Short Link: [http://oom.lt/FZKPPOTALPSRK97DUALH](http://oom.lt/FZKPPOTALPSRK97DUALH)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-SM4004
 - Hex ID: SZKDIODESM44
 - Name: Diode : SM4004
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/SM4004/
 - Description: Diode : SM4004
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-SM4004](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-SM4004)
 - Short Link: [http://oom.lt/SZKDIODESM44](http://oom.lt/SZKDIODESM44)

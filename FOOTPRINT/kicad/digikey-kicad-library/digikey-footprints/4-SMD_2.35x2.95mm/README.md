@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-4-SMD_2.35x2.95mm
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTS4SM235X295
 - Name: digikey-footprints : 4-SMD_2.35x2.95mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/4-SMD_2.35x2.95mm/
 - Description: digikey-footprints : 4-SMD_2.35x2.95mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-4-SMD_2.35x2.95mm](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-4-SMD_2.35x2.95mm)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTS4SM235X295](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTS4SM235X295)

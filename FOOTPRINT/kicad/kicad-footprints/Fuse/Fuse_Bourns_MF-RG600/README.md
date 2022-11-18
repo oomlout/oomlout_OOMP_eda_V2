@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Fuse-Fuse_Bourns_MF-RG600
 - Hex ID: FZKFUFUBOURNSMFRG6
 - Name: Fuse : Fuse_Bourns_MF-RG600
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Fuse/Fuse_Bourns_MF-RG600/
 - Description: Fuse : Fuse_Bourns_MF-RG600
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Fuse-Fuse_Bourns_MF-RG600](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Fuse-Fuse_Bourns_MF-RG600)
 - Short Link: [http://oom.lt/FZKFUFUBOURNSMFRG6](http://oom.lt/FZKFUFUBOURNSMFRG6)

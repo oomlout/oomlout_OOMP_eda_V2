@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-switch-misc-9450-1
 - Hex ID: FZESWMISC9451
 - Name: switch-misc : 9450-1
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/switch-misc/9450-1/
 - Description: switch-misc : 9450-1
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-misc-9450-1](http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-misc-9450-1)
 - Short Link: [http://oom.lt/FZESWMISC9451](http://oom.lt/FZESWMISC9451)

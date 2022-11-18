@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-XBEE-LOCK
 - Hex ID: FZSRFXBEEL
 - Name: SparkFun-RF : XBEE-LOCK
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-RF/XBEE-LOCK/
 - Description: SparkFun-RF : XBEE-LOCK
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-XBEE-LOCK](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-XBEE-LOCK)
 - Short Link: [http://oom.lt/FZSRFXBEEL](http://oom.lt/FZSRFXBEEL)

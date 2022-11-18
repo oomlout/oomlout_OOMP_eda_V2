@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_SOD-323
 - Hex ID: FZKDDSOD323
 - Name: Diode_SMD : D_SOD-323
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Diode_SMD/D_SOD-323/
 - Description: Diode_SMD : D_SOD-323
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_SOD-323](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_SOD-323)
 - Short Link: [http://oom.lt/FZKDDSOD323](http://oom.lt/FZKDDSOD323)

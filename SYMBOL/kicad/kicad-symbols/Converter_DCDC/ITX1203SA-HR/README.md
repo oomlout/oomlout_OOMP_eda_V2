@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Converter_DCDC-ITX1203SA-HR
 - Hex ID: SZKCONITX123SAHR
 - Name: Converter_DCDC : ITX1203SA-HR
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Converter_DCDC/ITX1203SA-HR/
 - Description: Converter_DCDC : ITX1203SA-HR
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-ITX1203SA-HR](http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-ITX1203SA-HR)
 - Short Link: [http://oom.lt/SZKCONITX123SAHR](http://oom.lt/SZKCONITX123SAHR)

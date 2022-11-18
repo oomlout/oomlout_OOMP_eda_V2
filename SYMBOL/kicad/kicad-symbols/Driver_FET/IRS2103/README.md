@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Driver_FET-IRS2103
 - Hex ID: SZKDRIVERFETIRS213
 - Name: Driver_FET : IRS2103
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Driver_FET/IRS2103/
 - Description: Driver_FET : IRS2103
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-IRS2103](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-IRS2103)
 - Short Link: [http://oom.lt/SZKDRIVERFETIRS213](http://oom.lt/SZKDRIVERFETIRS213)

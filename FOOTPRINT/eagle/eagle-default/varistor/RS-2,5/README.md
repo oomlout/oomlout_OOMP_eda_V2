@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-varistor-RS-2,5
 - Hex ID: FZEVRS25
 - Name: varistor : RS-2,5
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/varistor/RS-2,5/
 - Description: varistor : RS-2,5
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-varistor-RS-2,5](http://oom.lt/FOOTPRINT-eagle-eagle-default-varistor-RS-2,5)
 - Short Link: [http://oom.lt/FZEVRS25](http://oom.lt/FZEVRS25)

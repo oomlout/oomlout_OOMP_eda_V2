@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-vg-MAB64Q
 - Hex ID: FZECONVGMAB64Q
 - Name: con-vg : MAB64Q
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-vg/MAB64Q/
 - Description: con-vg : MAB64Q
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-vg-MAB64Q](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-vg-MAB64Q)
 - Short Link: [http://oom.lt/FZECONVGMAB64Q](http://oom.lt/FZECONVGMAB64Q)

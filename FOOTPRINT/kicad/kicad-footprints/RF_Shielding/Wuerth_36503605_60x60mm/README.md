@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-RF_Shielding-Wuerth_36503605_60x60mm
 - Hex ID: FZKRFSWUERTH3653656X6
 - Name: RF_Shielding : Wuerth_36503605_60x60mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/RF_Shielding/Wuerth_36503605_60x60mm/
 - Description: RF_Shielding : Wuerth_36503605_60x60mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_Shielding-Wuerth_36503605_60x60mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_Shielding-Wuerth_36503605_60x60mm)
 - Short Link: [http://oom.lt/FZKRFSWUERTH3653656X6](http://oom.lt/FZKRFSWUERTH3653656X6)

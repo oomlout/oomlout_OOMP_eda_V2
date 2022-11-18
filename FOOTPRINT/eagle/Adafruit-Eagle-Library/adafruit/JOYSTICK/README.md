@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-JOYSTICK
 - Hex ID: FZAJOYSTICK
 - Name: adafruit : JOYSTICK
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/JOYSTICK/
 - Description: adafruit : JOYSTICK
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-JOYSTICK](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-JOYSTICK)
 - Short Link: [http://oom.lt/FZAJOYSTICK](http://oom.lt/FZAJOYSTICK)

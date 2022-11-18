@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC10-PIC10F200-IOT
 - Hex ID: SZKMCUMCHIPPIC1PIC1F2IOT
 - Name: MCU_Microchip_PIC10 : PIC10F200-IOT
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC10/PIC10F200-IOT/
 - Description: MCU_Microchip_PIC10 : PIC10F200-IOT
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC10-PIC10F200-IOT](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC10-PIC10F200-IOT)
 - Short Link: [http://oom.lt/SZKMCUMCHIPPIC1PIC1F2IOT](http://oom.lt/SZKMCUMCHIPPIC1PIC1F2IOT)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-CB-5_Formed_Leads
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSCB5FORMEDLEADS
 - Name: digikey-footprints : CB-5_Formed_Leads
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/CB-5_Formed_Leads/
 - Description: digikey-footprints : CB-5_Formed_Leads
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-CB-5_Formed_Leads](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-CB-5_Formed_Leads)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSCB5FORMEDLEADS](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSCB5FORMEDLEADS)

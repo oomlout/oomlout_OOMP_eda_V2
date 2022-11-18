@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-DiscreteSemi-8-SMD
 - Hex ID: FZSDS8SM
 - Name: SparkFun-DiscreteSemi : 8-SMD
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-DiscreteSemi/8-SMD/
 - Description: SparkFun-DiscreteSemi : 8-SMD
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-DiscreteSemi-8-SMD](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-DiscreteSemi-8-SMD)
 - Short Link: [http://oom.lt/FZSDS8SM](http://oom.lt/FZSDS8SM)

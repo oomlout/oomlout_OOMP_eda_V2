@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-2X4_SMT_NO_POSTS_NS
 - Hex ID: FZSSPARKFUNCNS2X4SNOPOSTSNS
 - Name: SparkFun-Connectors : 2X4_SMT_NO_POSTS_NS
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Connectors/2X4_SMT_NO_POSTS_NS/
 - Description: SparkFun-Connectors : 2X4_SMT_NO_POSTS_NS
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-2X4_SMT_NO_POSTS_NS](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-2X4_SMT_NO_POSTS_NS)
 - Short Link: [http://oom.lt/FZSSPARKFUNCNS2X4SNOPOSTSNS](http://oom.lt/FZSSPARKFUNCNS2X4SNOPOSTSNS)

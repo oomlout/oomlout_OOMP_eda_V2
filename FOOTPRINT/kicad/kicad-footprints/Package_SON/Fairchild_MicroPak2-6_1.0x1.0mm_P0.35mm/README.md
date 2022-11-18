@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_SON-Fairchild_MicroPak2-6_1.0x1.0mm_P0.35mm
 - Hex ID: FZKSONFAIRCHILDMPAK261X1P35
 - Name: Package_SON : Fairchild_MicroPak2-6_1.0x1.0mm_P0.35mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SON/Fairchild_MicroPak2-6_1.0x1.0mm_P0.35mm/
 - Description: Package_SON : Fairchild_MicroPak2-6_1.0x1.0mm_P0.35mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SON-Fairchild_MicroPak2-6_1.0x1.0mm_P0.35mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SON-Fairchild_MicroPak2-6_1.0x1.0mm_P0.35mm)
 - Short Link: [http://oom.lt/FZKSONFAIRCHILDMPAK261X1P35](http://oom.lt/FZKSONFAIRCHILDMPAK261X1P35)

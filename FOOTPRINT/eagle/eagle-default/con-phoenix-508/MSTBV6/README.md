@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-phoenix-508-MSTBV6
 - Hex ID: FZECONPHOENIX58MSTBV6
 - Name: con-phoenix-508 : MSTBV6
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-phoenix-508/MSTBV6/
 - Description: con-phoenix-508 : MSTBV6
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-phoenix-508-MSTBV6](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-phoenix-508-MSTBV6)
 - Short Link: [http://oom.lt/FZECONPHOENIX58MSTBV6](http://oom.lt/FZECONPHOENIX58MSTBV6)

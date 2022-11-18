@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-DiscreteSemi-SO16
 - Hex ID: FZSDSSO16
 - Name: SparkFun-DiscreteSemi : SO16
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-DiscreteSemi/SO16/
 - Description: SparkFun-DiscreteSemi : SO16
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-DiscreteSemi-SO16](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-DiscreteSemi-SO16)
 - Short Link: [http://oom.lt/FZSDSSO16](http://oom.lt/FZSDSSO16)

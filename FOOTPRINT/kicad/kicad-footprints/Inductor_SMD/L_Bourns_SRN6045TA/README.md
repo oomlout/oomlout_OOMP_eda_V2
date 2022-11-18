@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Bourns_SRN6045TA
 - Hex ID: FZKINLBOURNSSRN645TA
 - Name: Inductor_SMD : L_Bourns_SRN6045TA
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Bourns_SRN6045TA/
 - Description: Inductor_SMD : L_Bourns_SRN6045TA
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Bourns_SRN6045TA](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Bourns_SRN6045TA)
 - Short Link: [http://oom.lt/FZKINLBOURNSSRN645TA](http://oom.lt/FZKINLBOURNSSRN645TA)

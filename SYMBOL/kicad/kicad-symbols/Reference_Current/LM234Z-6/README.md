@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Reference_Current-LM234Z-6
 - Hex ID: SZKREFERENCECURRENTLM234Z6
 - Name: Reference_Current : LM234Z-6
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Reference_Current/LM234Z-6/
 - Description: Reference_Current : LM234Z-6
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Current-LM234Z-6](http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Current-LM234Z-6)
 - Short Link: [http://oom.lt/SZKREFERENCECURRENTLM234Z6](http://oom.lt/SZKREFERENCECURRENTLM234Z6)

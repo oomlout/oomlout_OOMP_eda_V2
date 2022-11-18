@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-0617V
 - Hex ID: FZA617V
 - Name: adafruit : 0617V
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/0617V/
 - Description: adafruit : 0617V
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-0617V](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-0617V)
 - Short Link: [http://oom.lt/FZA617V](http://oom.lt/FZA617V)

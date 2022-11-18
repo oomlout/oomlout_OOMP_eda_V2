@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKCNPINHEADER1PINHEADER2X28P1F > Connector_PinHeader_1.00mm : PinHeader_2x28_P1.00mm_Vertical](#fzkcnpinheader1pinheader2x28p1f--connector_pinheader_100mm--pinheader_2x28_p100mm_vertical)
+* [FZKCNPH1PH2X28P1F > Connector_PinHeader_1.00mm : PinHeader_2x28_P1.00mm_Vertical](#fzkcnph1ph2x28p1f--connector_pinheader_100mm--pinheader_2x28_p100mm_vertical)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKCNPINHEADER1PINHEADER2X28P1F > Connector_PinHeader_1.00mm : PinHeader_2x28_P1.00mm_Vertical
+# FZKCNPH1PH2X28P1F > Connector_PinHeader_1.00mm : PinHeader_2x28_P1.00mm_Vertical
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_PinHeader_1.00mm-PinHeader_2x28_P1.00mm_Vertical
-- Hex ID: FZKCNPINHEADER1PINHEADER2X28P1F
+- Hex ID: FZKCNPH1PH2X28P1F
 - Name: Connector_PinHeader_1.00mm : PinHeader_2x28_P1.00mm_Vertical
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_PinHeader_1.00mm/PinHeader_2x28_P1.00mm_Vertical/
 - Description: Connector_PinHeader_1.00mm : PinHeader_2x28_P1.00mm_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_PinHeader_1.00mm-PinHeader_2x28_P1.00mm_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_PinHeader_1.00mm-PinHeader_2x28_P1.00mm_Vertical)
-- Short Link: [http://oom.lt/FZKCNPINHEADER1PINHEADER2X28P1F](http://oom.lt/FZKCNPINHEADER1PINHEADER2X28P1F)
+- Short Link: [http://oom.lt/FZKCNPH1PH2X28P1F](http://oom.lt/FZKCNPH1PH2X28P1F)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Connector_PinHeader_1.00mm|
 |OOMP Index|oompIndex|PinHeader_2x28_P1.00mm_Vertical|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_PinHeader_1.00mm-PinHeader_2x28_P1.00mm_Vertical|
-|Hex ID (short code)|hexID|FZKCNPINHEADER1PINHEADER2X28P1F|
+|Hex ID (short code)|hexID|FZKCNPH1PH2X28P1F|
 |name|name|Connector_PinHeader_1.00mm : PinHeader_2x28_P1.00mm_Vertical|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'PinHeader_2x28_P1.00mm_Vertical'</td><td> 'description'</td></tr><tr><td> 'Through hole straight pin header</td><td> 2x28</td><td> 1.00mm pitch</td><td> double rows'</td><td> 'tags'</td></tr><tr><td> 'Through hole pin header THT 2x28 1.00mm double row'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_PinHeader_1.00mm.3dshapes/PinHeader_2x28_P1.00mm_Vertical.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

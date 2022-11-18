@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-1X06-BIGLOCK
 - Hex ID: FZA1X6BL
 - Name: adafruit : 1X06-BIGLOCK
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/1X06-BIGLOCK/
 - Description: adafruit : 1X06-BIGLOCK
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-1X06-BIGLOCK](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-1X06-BIGLOCK)
 - Short Link: [http://oom.lt/FZA1X6BL](http://oom.lt/FZA1X6BL)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Logic_LevelTranslator-NLSV2T244D
 - Hex ID: SZKLOGICLEVELTRANSLATORNLSV2T244D
 - Name: Logic_LevelTranslator : NLSV2T244D
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Logic_LevelTranslator/NLSV2T244D/
 - Description: Logic_LevelTranslator : NLSV2T244D
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Logic_LevelTranslator-NLSV2T244D](http://oom.lt/SYMBOL-kicad-kicad-symbols-Logic_LevelTranslator-NLSV2T244D)
 - Short Link: [http://oom.lt/SZKLOGICLEVELTRANSLATORNLSV2T244D](http://oom.lt/SZKLOGICLEVELTRANSLATORNLSV2T244D)

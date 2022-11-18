@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-I01-X-PI18-01-H18
 - Hex ID: SZOOMPKOOMPPHEADI1XPI181H18
 - Name: oomlout_OOMP_parts : HEAD-I01-X-PI18-01-H18
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/HEAD-I01-X-PI18-01-H18/
 - Description: oomlout_OOMP_parts : HEAD-I01-X-PI18-01-H18
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-I01-X-PI18-01-H18](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-I01-X-PI18-01-H18)
 - Short Link: [http://oom.lt/SZOOMPKOOMPPHEADI1XPI181H18](http://oom.lt/SZOOMPKOOMPPHEADI1XPI181H18)

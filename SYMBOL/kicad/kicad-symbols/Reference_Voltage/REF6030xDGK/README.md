@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Reference_Voltage-REF6030xDGK
 - Hex ID: SZKREFERENCEVOLTAGEREF63XDGK
 - Name: Reference_Voltage : REF6030xDGK
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Reference_Voltage/REF6030xDGK/
 - Description: Reference_Voltage : REF6030xDGK
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Voltage-REF6030xDGK](http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Voltage-REF6030xDGK)
 - Short Link: [http://oom.lt/SZKREFERENCEVOLTAGEREF63XDGK](http://oom.lt/SZKREFERENCEVOLTAGEREF63XDGK)

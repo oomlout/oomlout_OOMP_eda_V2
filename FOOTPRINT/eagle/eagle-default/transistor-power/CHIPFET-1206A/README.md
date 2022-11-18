@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-transistor-power-CHIPFET-1206A
 - Hex ID: FZETRANSISTORPOWERCHIPFET126A
 - Name: transistor-power : CHIPFET-1206A
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/transistor-power/CHIPFET-1206A/
 - Description: transistor-power : CHIPFET-1206A
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-power-CHIPFET-1206A](http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-power-CHIPFET-1206A)
 - Short Link: [http://oom.lt/FZETRANSISTORPOWERCHIPFET126A](http://oom.lt/FZETRANSISTORPOWERCHIPFET126A)

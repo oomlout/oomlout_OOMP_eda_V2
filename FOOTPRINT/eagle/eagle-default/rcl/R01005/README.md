@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-rcl-R01005
 - Hex ID: FZERCLR15
 - Name: rcl : R01005
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/rcl/R01005/
 - Description: rcl : R01005
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-R01005](http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-R01005)
 - Short Link: [http://oom.lt/FZERCLR15](http://oom.lt/FZERCLR15)

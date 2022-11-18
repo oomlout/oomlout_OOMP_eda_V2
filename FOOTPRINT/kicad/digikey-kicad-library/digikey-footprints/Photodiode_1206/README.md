@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Photodiode_1206
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSPHOTODIODE126
 - Name: digikey-footprints : Photodiode_1206
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Photodiode_1206/
 - Description: digikey-footprints : Photodiode_1206
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Photodiode_1206](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Photodiode_1206)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSPHOTODIODE126](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSPHOTODIODE126)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Sensor_Current-Honeywell_CSLW
 - Hex ID: FZKSENCURRENTHONEYWELLCSLW
 - Name: Sensor_Current : Honeywell_CSLW
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Sensor_Current/Honeywell_CSLW/
 - Description: Sensor_Current : Honeywell_CSLW
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Sensor_Current-Honeywell_CSLW](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Sensor_Current-Honeywell_CSLW)
 - Short Link: [http://oom.lt/FZKSENCURRENTHONEYWELLCSLW](http://oom.lt/FZKSENCURRENTHONEYWELLCSLW)

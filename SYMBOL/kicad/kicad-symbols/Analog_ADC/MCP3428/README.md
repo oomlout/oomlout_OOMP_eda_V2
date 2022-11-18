@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Analog_ADC-MCP3428
 - Hex ID: SZKANALOGADCMCP3428
 - Name: Analog_ADC : MCP3428
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog_ADC/MCP3428/
 - Description: Analog_ADC : MCP3428
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-MCP3428](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-MCP3428)
 - Short Link: [http://oom.lt/SZKANALOGADCMCP3428](http://oom.lt/SZKANALOGADCMCP3428)

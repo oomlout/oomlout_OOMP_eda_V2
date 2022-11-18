@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_ST_STM32L0-STM32L072CBYx
 - Hex ID: SZKMCUSTSTM32LSTM32L72CBYX
 - Name: MCU_ST_STM32L0 : STM32L072CBYx
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32L0/STM32L072CBYx/
 - Description: MCU_ST_STM32L0 : STM32L072CBYx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32L0-STM32L072CBYx](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32L0-STM32L072CBYx)
 - Short Link: [http://oom.lt/SZKMCUSTSTM32LSTM32L72CBYX](http://oom.lt/SZKMCUSTSTM32LSTM32L72CBYX)

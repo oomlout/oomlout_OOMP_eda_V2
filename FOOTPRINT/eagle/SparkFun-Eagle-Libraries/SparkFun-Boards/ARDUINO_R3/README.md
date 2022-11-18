@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Boards-ARDUINO_R3
 - Hex ID: FZSBOARDR3
 - Name: SparkFun-Boards : ARDUINO_R3
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Boards/ARDUINO_R3/
 - Description: SparkFun-Boards : ARDUINO_R3
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Boards-ARDUINO_R3](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Boards-ARDUINO_R3)
 - Short Link: [http://oom.lt/FZSBOARDR3](http://oom.lt/FZSBOARDR3)

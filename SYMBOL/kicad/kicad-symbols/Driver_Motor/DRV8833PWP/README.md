@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Driver_Motor-DRV8833PWP
 - Hex ID: SZKDRIVERMOTORDRV8833PWP
 - Name: Driver_Motor : DRV8833PWP
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Driver_Motor/DRV8833PWP/
 - Description: Driver_Motor : DRV8833PWP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_Motor-DRV8833PWP](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_Motor-DRV8833PWP)
 - Short Link: [http://oom.lt/SZKDRIVERMOTORDRV8833PWP](http://oom.lt/SZKDRIVERMOTORDRV8833PWP)

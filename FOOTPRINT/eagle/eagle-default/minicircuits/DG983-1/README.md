@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-minicircuits-DG983-1
 - Hex ID: FZEMCIRCUITSDG9831
 - Name: minicircuits : DG983-1
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/minicircuits/DG983-1/
 - Description: minicircuits : DG983-1
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-minicircuits-DG983-1](http://oom.lt/FOOTPRINT-eagle-eagle-default-minicircuits-DG983-1)
 - Short Link: [http://oom.lt/FZEMCIRCUITSDG9831](http://oom.lt/FZEMCIRCUITSDG9831)

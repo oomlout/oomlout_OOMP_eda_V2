@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Driver_FET-MCP14A0305xMNY
 - Hex ID: SZKDRIVERFETMCP14A35XMNY
 - Name: Driver_FET : MCP14A0305xMNY
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Driver_FET/MCP14A0305xMNY/
 - Description: Driver_FET : MCP14A0305xMNY
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-MCP14A0305xMNY](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-MCP14A0305xMNY)
 - Short Link: [http://oom.lt/SZKDRIVERFETMCP14A35XMNY](http://oom.lt/SZKDRIVERFETMCP14A35XMNY)

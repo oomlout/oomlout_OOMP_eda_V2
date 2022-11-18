@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC18-PIC18LF2331-ISO
 - Hex ID: SZKMCUMCHIPPIC18PIC18LF2331ISO
 - Name: MCU_Microchip_PIC18 : PIC18LF2331-ISO
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC18/PIC18LF2331-ISO/
 - Description: MCU_Microchip_PIC18 : PIC18LF2331-ISO
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC18-PIC18LF2331-ISO](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC18-PIC18LF2331-ISO)
 - Short Link: [http://oom.lt/SZKMCUMCHIPPIC18PIC18LF2331ISO](http://oom.lt/SZKMCUMCHIPPIC18PIC18LF2331ISO)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-rcl-P128-35
 - Hex ID: FZERCLP12835
 - Name: rcl : P128-35
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/rcl/P128-35/
 - Description: rcl : P128-35
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-P128-35](http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-P128-35)
 - Short Link: [http://oom.lt/FZERCLP12835](http://oom.lt/FZERCLP12835)

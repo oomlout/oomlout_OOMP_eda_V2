@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-OptoDevice-Sharp_IS485
 - Hex ID: FZKOPSHARPIS485
 - Name: OptoDevice : Sharp_IS485
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/OptoDevice/Sharp_IS485/
 - Description: OptoDevice : Sharp_IS485
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-OptoDevice-Sharp_IS485](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-OptoDevice-Sharp_IS485)
 - Short Link: [http://oom.lt/FZKOPSHARPIS485](http://oom.lt/FZKOPSHARPIS485)

@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKDFNQFN481EP5X5P35EP37X37THERMALVIAS > Package_DFN_QFN : QFN-48-1EP_5x5mm_P0.35mm_EP3.7x3.7mm_ThermalVias](#fzkdfnqfn481ep5x5p35ep37x37thermalvias--package_dfn_qfn--qfn-48-1ep_5x5mm_p035mm_ep37x37mm_thermalvias)
+* [FZKDFNQFN481EP5X5P35EP37X37THV > Package_DFN_QFN : QFN-48-1EP_5x5mm_P0.35mm_EP3.7x3.7mm_ThermalVias](#fzkdfnqfn481ep5x5p35ep37x37thv--package_dfn_qfn--qfn-48-1ep_5x5mm_p035mm_ep37x37mm_thermalvias)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKDFNQFN481EP5X5P35EP37X37THERMALVIAS > Package_DFN_QFN : QFN-48-1EP_5x5mm_P0.35mm_EP3.7x3.7mm_ThermalVias
+# FZKDFNQFN481EP5X5P35EP37X37THV > Package_DFN_QFN : QFN-48-1EP_5x5mm_P0.35mm_EP3.7x3.7mm_ThermalVias
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-QFN-48-1EP_5x5mm_P0.35mm_EP3.7x3.7mm_ThermalVias
-- Hex ID: FZKDFNQFN481EP5X5P35EP37X37THERMALVIAS
+- Hex ID: FZKDFNQFN481EP5X5P35EP37X37THV
 - Name: Package_DFN_QFN : QFN-48-1EP_5x5mm_P0.35mm_EP3.7x3.7mm_ThermalVias
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/QFN-48-1EP_5x5mm_P0.35mm_EP3.7x3.7mm_ThermalVias/
 - Description: Package_DFN_QFN : QFN-48-1EP_5x5mm_P0.35mm_EP3.7x3.7mm_ThermalVias
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-QFN-48-1EP_5x5mm_P0.35mm_EP3.7x3.7mm_ThermalVias](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-QFN-48-1EP_5x5mm_P0.35mm_EP3.7x3.7mm_ThermalVias)
-- Short Link: [http://oom.lt/FZKDFNQFN481EP5X5P35EP37X37THERMALVIAS](http://oom.lt/FZKDFNQFN481EP5X5P35EP37X37THERMALVIAS)
+- Short Link: [http://oom.lt/FZKDFNQFN481EP5X5P35EP37X37THV](http://oom.lt/FZKDFNQFN481EP5X5P35EP37X37THV)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Package_DFN_QFN|
 |OOMP Index|oompIndex|QFN-48-1EP_5x5mm_P0.35mm_EP3.7x3.7mm_ThermalVias|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-QFN-48-1EP_5x5mm_P0.35mm_EP3.7x3.7mm_ThermalVias|
-|Hex ID (short code)|hexID|FZKDFNQFN481EP5X5P35EP37X37THERMALVIAS|
+|Hex ID (short code)|hexID|FZKDFNQFN481EP5X5P35EP37X37THV|
 |name|name|Package_DFN_QFN : QFN-48-1EP_5x5mm_P0.35mm_EP3.7x3.7mm_ThermalVias|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'QFN-48-1EP_5x5mm_P0.35mm_EP3.7x3.7mm_ThermalVias'</td><td> 'description'</td></tr><tr><td> 'QFN</td><td> 48 Pin (https</td></tr><tr><td>//www.espressif.com/sites/default/files/documentation/esp32_datasheet_en.pdf#page=38)</td><td> generated with kicad-footprint-generator ipc_noLead_generator.py'</td><td> 'tags'</td></tr><tr><td> 'QFN NoLead'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_DFN_QFN.3dshapes/QFN-48-1EP_5x5mm_P0.35mm_EP3.7x3.7mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'custom'</td></tr></table></td></tr></table>|
 ||||

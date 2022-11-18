@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Converter_DCDC-OKI-78SR-3.3_1.5-W36-C
 - Hex ID: SZKCONOKI78SR3315W36C
 - Name: Converter_DCDC : OKI-78SR-3.3_1.5-W36-C
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Converter_DCDC/OKI-78SR-3.3_1.5-W36-C/
 - Description: Converter_DCDC : OKI-78SR-3.3_1.5-W36-C
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-OKI-78SR-3.3_1.5-W36-C](http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-OKI-78SR-3.3_1.5-W36-C)
 - Short Link: [http://oom.lt/SZKCONOKI78SR3315W36C](http://oom.lt/SZKCONOKI78SR3315W36C)

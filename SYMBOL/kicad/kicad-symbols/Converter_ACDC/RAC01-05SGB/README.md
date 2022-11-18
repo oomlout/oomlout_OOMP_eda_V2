@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Converter_ACDC-RAC01-05SGB
 - Hex ID: SZKCONRAC15SGB
 - Name: Converter_ACDC : RAC01-05SGB
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Converter_ACDC/RAC01-05SGB/
 - Description: Converter_ACDC : RAC01-05SGB
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_ACDC-RAC01-05SGB](http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_ACDC-RAC01-05SGB)
 - Short Link: [http://oom.lt/SZKCONRAC15SGB](http://oom.lt/SZKCONRAC15SGB)

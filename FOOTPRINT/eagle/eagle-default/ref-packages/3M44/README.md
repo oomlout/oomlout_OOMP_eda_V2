@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEREFPACKAGES3M44 > ref-packages : 3M44](#fzerefpackages3m44--ref-packages--3m44)
+* [FZEREFPS3M44 > ref-packages : 3M44](#fzerefps3m44--ref-packages--3m44)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEREFPACKAGES3M44 > ref-packages : 3M44
+# FZEREFPS3M44 > ref-packages : 3M44
 
 - ID: FOOTPRINT-eagle-eagle-default-ref-packages-3M44
-- Hex ID: FZEREFPACKAGES3M44
+- Hex ID: FZEREFPS3M44
 - Name: ref-packages : 3M44
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ref-packages/3M44/
 - Description: ref-packages : 3M44
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-3M44](http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-3M44)
-- Short Link: [http://oom.lt/FZEREFPACKAGES3M44](http://oom.lt/FZEREFPACKAGES3M44)
+- Short Link: [http://oom.lt/FZEREFPS3M44](http://oom.lt/FZEREFPS3M44)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|ref-packages|
 |OOMP Index|oompIndex|3M44|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-ref-packages-3M44|
-|Hex ID (short code)|hexID|FZEREFPACKAGES3M44|
+|Hex ID (short code)|hexID|FZEREFPS3M44|
 |name|name|ref-packages : 3M44|
 ||||

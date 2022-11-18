@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-display-hp-HDSP47
 - Hex ID: FZEDIHPHDSP47
 - Name: display-hp : HDSP47
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/display-hp/HDSP47/
 - Description: display-hp : HDSP47
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-display-hp-HDSP47](http://oom.lt/FOOTPRINT-eagle-eagle-default-display-hp-HDSP47)
 - Short Link: [http://oom.lt/FZEDIHPHDSP47](http://oom.lt/FZEDIHPHDSP47)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0402-X-PF33-V50-C42P033
 - Hex ID: SZOOMPKOOMPPCAPC42XPF33V5C42P33
 - Name: oomlout_OOMP_parts : CAPC-0402-X-PF33-V50-C42P033
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/CAPC-0402-X-PF33-V50-C42P033/
 - Description: oomlout_OOMP_parts : CAPC-0402-X-PF33-V50-C42P033
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0402-X-PF33-V50-C42P033](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0402-X-PF33-V50-C42P033)
 - Short Link: [http://oom.lt/SZOOMPKOOMPPCAPC42XPF33V5C42P33](http://oom.lt/SZOOMPKOOMPPCAPC42XPF33V5C42P33)

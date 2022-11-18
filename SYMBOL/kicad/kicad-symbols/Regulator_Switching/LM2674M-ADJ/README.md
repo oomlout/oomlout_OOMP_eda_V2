@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-LM2674M-ADJ
 - Hex ID: SZKREGULATORSWINGLM2674MADJ
 - Name: Regulator_Switching : LM2674M-ADJ
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/LM2674M-ADJ/
 - Description: Regulator_Switching : LM2674M-ADJ
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LM2674M-ADJ](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LM2674M-ADJ)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGLM2674MADJ](http://oom.lt/SZKREGULATORSWINGLM2674MADJ)

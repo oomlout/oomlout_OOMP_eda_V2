@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode_Bridge-RB151
 - Hex ID: SZKDIODEBRIDGERB151
 - Name: Diode_Bridge : RB151
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode_Bridge/RB151/
 - Description: Diode_Bridge : RB151
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode_Bridge-RB151](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode_Bridge-RB151)
 - Short Link: [http://oom.lt/SZKDIODEBRIDGERB151](http://oom.lt/SZKDIODEBRIDGERB151)

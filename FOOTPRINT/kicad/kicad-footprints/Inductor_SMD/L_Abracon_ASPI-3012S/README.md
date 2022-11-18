@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Abracon_ASPI-3012S
 - Hex ID: FZKINLABRACONASPI312S
 - Name: Inductor_SMD : L_Abracon_ASPI-3012S
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Abracon_ASPI-3012S/
 - Description: Inductor_SMD : L_Abracon_ASPI-3012S
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Abracon_ASPI-3012S](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Abracon_ASPI-3012S)
 - Short Link: [http://oom.lt/FZKINLABRACONASPI312S](http://oom.lt/FZKINLABRACONASPI312S)

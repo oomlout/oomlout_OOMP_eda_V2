@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-relay-JT-TMB
 - Hex ID: FZERELAYJTTMB
 - Name: relay : JT-TMB
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/relay/JT-TMB/
 - Description: relay : JT-TMB
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-JT-TMB](http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-JT-TMB)
 - Short Link: [http://oom.lt/FZERELAYJTTMB](http://oom.lt/FZERELAYJTTMB)

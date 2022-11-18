@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-E25-10
 - Hex ID: FZAE251
 - Name: adafruit : E25-10
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/E25-10/
 - Description: adafruit : E25-10
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-E25-10](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-E25-10)
 - Short Link: [http://oom.lt/FZAE251](http://oom.lt/FZAE251)

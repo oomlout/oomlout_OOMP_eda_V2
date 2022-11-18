@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-molex-70553-25
 - Hex ID: FZECONMX755325
 - Name: con-molex : 70553-25
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-molex/70553-25/
 - Description: con-molex : 70553-25
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-molex-70553-25](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-molex-70553-25)
 - Short Link: [http://oom.lt/FZECONMX755325](http://oom.lt/FZECONMX755325)

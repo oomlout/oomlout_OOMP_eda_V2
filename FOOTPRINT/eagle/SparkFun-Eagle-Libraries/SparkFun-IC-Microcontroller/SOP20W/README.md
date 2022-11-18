@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Microcontroller-SOP20W
 - Hex ID: FZSIUS2W
 - Name: SparkFun-IC-Microcontroller : SOP20W
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-IC-Microcontroller/SOP20W/
 - Description: SparkFun-IC-Microcontroller : SOP20W
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Microcontroller-SOP20W](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Microcontroller-SOP20W)
 - Short Link: [http://oom.lt/FZSIUS2W](http://oom.lt/FZSIUS2W)

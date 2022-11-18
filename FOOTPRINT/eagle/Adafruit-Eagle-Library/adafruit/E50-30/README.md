@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-E50-30
 - Hex ID: FZAE53
 - Name: adafruit : E50-30
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/E50-30/
 - Description: adafruit : E50-30
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-E50-30](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-E50-30)
 - Short Link: [http://oom.lt/FZAE53](http://oom.lt/FZAE53)

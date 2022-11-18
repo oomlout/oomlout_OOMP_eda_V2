@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-linear-TO78H
 - Hex ID: FZELINEARTO78H
 - Name: linear : TO78H
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/linear/TO78H/
 - Description: linear : TO78H
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-linear-TO78H](http://oom.lt/FOOTPRINT-eagle-eagle-default-linear-TO78H)
 - Short Link: [http://oom.lt/FZELINEARTO78H](http://oom.lt/FZELINEARTO78H)

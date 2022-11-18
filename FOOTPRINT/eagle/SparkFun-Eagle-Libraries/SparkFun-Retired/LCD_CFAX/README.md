@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-LCD_CFAX
 - Hex ID: FZSRTLCDCFAX
 - Name: SparkFun-Retired : LCD_CFAX
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Retired/LCD_CFAX/
 - Description: SparkFun-Retired : LCD_CFAX
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-LCD_CFAX](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-LCD_CFAX)
 - Short Link: [http://oom.lt/FZSRTLCDCFAX](http://oom.lt/FZSRTLCDCFAX)

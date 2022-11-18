@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-dc-dc-converter-EMCO-A_3000-5000V
 - Hex ID: FZEDCDCCONVERTEREMCOA35V
 - Name: dc-dc-converter : EMCO-A_3000-5000V
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/dc-dc-converter/EMCO-A_3000-5000V/
 - Description: dc-dc-converter : EMCO-A_3000-5000V
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-dc-dc-converter-EMCO-A_3000-5000V](http://oom.lt/FOOTPRINT-eagle-eagle-default-dc-dc-converter-EMCO-A_3000-5000V)
 - Short Link: [http://oom.lt/FZEDCDCCONVERTEREMCOA35V](http://oom.lt/FZEDCDCCONVERTEREMCOA35V)

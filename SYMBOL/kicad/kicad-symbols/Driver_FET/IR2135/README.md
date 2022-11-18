@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Driver_FET-IR2135
 - Hex ID: SZKDRIVERFETIR2135
 - Name: Driver_FET : IR2135
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Driver_FET/IR2135/
 - Description: Driver_FET : IR2135
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-IR2135](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-IR2135)
 - Short Link: [http://oom.lt/SZKDRIVERFETIR2135](http://oom.lt/SZKDRIVERFETIR2135)

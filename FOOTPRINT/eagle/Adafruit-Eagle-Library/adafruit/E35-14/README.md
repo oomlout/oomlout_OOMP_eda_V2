@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-E35-14
 - Hex ID: FZAE3514
 - Name: adafruit : E35-14
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/E35-14/
 - Description: adafruit : E35-14
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-E35-14](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-E35-14)
 - Short Link: [http://oom.lt/FZAE3514](http://oom.lt/FZAE3514)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Power_Protection-CDSOT236-0504C
 - Hex ID: SZKPOWERPROTECTIONCDSOT23654C
 - Name: Power_Protection : CDSOT236-0504C
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Power_Protection/CDSOT236-0504C/
 - Description: Power_Protection : CDSOT236-0504C
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Protection-CDSOT236-0504C](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Protection-CDSOT236-0504C)
 - Short Link: [http://oom.lt/SZKPOWERPROTECTIONCDSOT23654C](http://oom.lt/SZKPOWERPROTECTIONCDSOT23654C)

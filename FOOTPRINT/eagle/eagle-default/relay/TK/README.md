@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-relay-TK
 - Hex ID: FZERELAYTK
 - Name: relay : TK
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/relay/TK/
 - Description: relay : TK
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-TK](http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-TK)
 - Short Link: [http://oom.lt/FZERELAYTK](http://oom.lt/FZERELAYTK)

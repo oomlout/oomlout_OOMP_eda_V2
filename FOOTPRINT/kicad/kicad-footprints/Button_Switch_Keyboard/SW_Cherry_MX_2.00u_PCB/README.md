@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Button_Switch_Keyboard-SW_Cherry_MX_2.00u_PCB
 - Hex ID: FZKBSWCHERRYMX2UPCB
 - Name: Button_Switch_Keyboard : SW_Cherry_MX_2.00u_PCB
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Button_Switch_Keyboard/SW_Cherry_MX_2.00u_PCB/
 - Description: Button_Switch_Keyboard : SW_Cherry_MX_2.00u_PCB
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Button_Switch_Keyboard-SW_Cherry_MX_2.00u_PCB](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Button_Switch_Keyboard-SW_Cherry_MX_2.00u_PCB)
 - Short Link: [http://oom.lt/FZKBSWCHERRYMX2UPCB](http://oom.lt/FZKBSWCHERRYMX2UPCB)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-amp-mt-L11P
 - Hex ID: FZECONAMPMTL11P
 - Name: con-amp-mt : L11P
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-amp-mt/L11P/
 - Description: con-amp-mt : L11P
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-amp-mt-L11P](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-amp-mt-L11P)
 - Short Link: [http://oom.lt/FZECONAMPMTL11P](http://oom.lt/FZECONAMPMTL11P)

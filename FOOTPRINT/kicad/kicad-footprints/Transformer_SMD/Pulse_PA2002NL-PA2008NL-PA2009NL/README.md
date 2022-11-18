@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Transformer_SMD-Pulse_PA2002NL-PA2008NL-PA2009NL
 - Hex ID: FZKTRPULSEPA22NLPA28NLPA29NL
 - Name: Transformer_SMD : Pulse_PA2002NL-PA2008NL-PA2009NL
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Transformer_SMD/Pulse_PA2002NL-PA2008NL-PA2009NL/
 - Description: Transformer_SMD : Pulse_PA2002NL-PA2008NL-PA2009NL
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Transformer_SMD-Pulse_PA2002NL-PA2008NL-PA2009NL](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Transformer_SMD-Pulse_PA2002NL-PA2008NL-PA2009NL)
 - Short Link: [http://oom.lt/FZKTRPULSEPA22NLPA28NLPA29NL](http://oom.lt/FZKTRPULSEPA22NLPA28NLPA29NL)

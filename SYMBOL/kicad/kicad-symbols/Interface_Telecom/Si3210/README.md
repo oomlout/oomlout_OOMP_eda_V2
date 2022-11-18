@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_Telecom-Si3210
 - Hex ID: SZKINTERFACETELECOMSI321
 - Name: Interface_Telecom : Si3210
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_Telecom/Si3210/
 - Description: Interface_Telecom : Si3210
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Telecom-Si3210](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Telecom-Si3210)
 - Short Link: [http://oom.lt/SZKINTERFACETELECOMSI321](http://oom.lt/SZKINTERFACETELECOMSI321)

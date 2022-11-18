@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-MountingHole-MountingHole_3mm
 - Hex ID: FZKHOLHOL3
 - Name: MountingHole : MountingHole_3mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/MountingHole/MountingHole_3mm/
 - Description: MountingHole : MountingHole_3mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-MountingHole-MountingHole_3mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-MountingHole-MountingHole_3mm)
 - Short Link: [http://oom.lt/FZKHOLHOL3](http://oom.lt/FZKHOLHOL3)

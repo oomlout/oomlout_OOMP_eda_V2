@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Test_Point_3.43x1.78mm
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSTESTPOINT343X178
 - Name: digikey-footprints : Test_Point_3.43x1.78mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Test_Point_3.43x1.78mm/
 - Description: digikey-footprints : Test_Point_3.43x1.78mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Test_Point_3.43x1.78mm](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Test_Point_3.43x1.78mm)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSTESTPOINT343X178](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSTESTPOINT343X178)

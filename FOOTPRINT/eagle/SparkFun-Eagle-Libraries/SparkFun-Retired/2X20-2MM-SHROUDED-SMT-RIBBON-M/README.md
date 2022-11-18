@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-2X20-2MM-SHROUDED-SMT-RIBBON-M
 - Hex ID: FZSRT2X22SHRIBBONM
 - Name: SparkFun-Retired : 2X20-2MM-SHROUDED-SMT-RIBBON-M
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Retired/2X20-2MM-SHROUDED-SMT-RIBBON-M/
 - Description: SparkFun-Retired : 2X20-2MM-SHROUDED-SMT-RIBBON-M
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-2X20-2MM-SHROUDED-SMT-RIBBON-M](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-2X20-2MM-SHROUDED-SMT-RIBBON-M)
 - Short Link: [http://oom.lt/FZSRT2X22SHRIBBONM](http://oom.lt/FZSRT2X22SHRIBBONM)

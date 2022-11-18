@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Driver_Motor-TMC262
 - Hex ID: SZKDRIVERMOTORTMC262
 - Name: Driver_Motor : TMC262
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Driver_Motor/TMC262/
 - Description: Driver_Motor : TMC262
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_Motor-TMC262](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_Motor-TMC262)
 - Short Link: [http://oom.lt/SZKDRIVERMOTORTMC262](http://oom.lt/SZKDRIVERMOTORTMC262)

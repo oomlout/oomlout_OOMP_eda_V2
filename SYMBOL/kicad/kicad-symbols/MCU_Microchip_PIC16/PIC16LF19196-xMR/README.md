@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16LF19196-xMR
 - Hex ID: SZKMCUMCHIPPIC16PIC16LF19196XMR
 - Name: MCU_Microchip_PIC16 : PIC16LF19196-xMR
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC16/PIC16LF19196-xMR/
 - Description: MCU_Microchip_PIC16 : PIC16LF19196-xMR
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16LF19196-xMR](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16LF19196-xMR)
 - Short Link: [http://oom.lt/SZKMCUMCHIPPIC16PIC16LF19196XMR](http://oom.lt/SZKMCUMCHIPPIC16PIC16LF19196XMR)

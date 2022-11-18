@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-texas-LP_O-PBCY-W3
 - Hex ID: FZETEXASLPOPBCYW3
 - Name: texas : LP_O-PBCY-W3
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/texas/LP_O-PBCY-W3/
 - Description: texas : LP_O-PBCY-W3
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-texas-LP_O-PBCY-W3](http://oom.lt/FOOTPRINT-eagle-eagle-default-texas-LP_O-PBCY-W3)
 - Short Link: [http://oom.lt/FZETEXASLPOPBCYW3](http://oom.lt/FZETEXASLPOPBCYW3)

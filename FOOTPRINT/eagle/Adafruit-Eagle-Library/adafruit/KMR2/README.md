@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-KMR2
 - Hex ID: FZAKMR2
 - Name: adafruit : KMR2
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/KMR2/
 - Description: adafruit : KMR2
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-KMR2](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-KMR2)
 - Short Link: [http://oom.lt/FZAKMR2](http://oom.lt/FZAKMR2)

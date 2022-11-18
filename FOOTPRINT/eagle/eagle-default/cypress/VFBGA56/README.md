@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-cypress-VFBGA56
 - Hex ID: FZECYPRESSVFBGA56
 - Name: cypress : VFBGA56
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/cypress/VFBGA56/
 - Description: cypress : VFBGA56
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-cypress-VFBGA56](http://oom.lt/FOOTPRINT-eagle-eagle-default-cypress-VFBGA56)
 - Short Link: [http://oom.lt/FZECYPRESSVFBGA56](http://oom.lt/FZECYPRESSVFBGA56)

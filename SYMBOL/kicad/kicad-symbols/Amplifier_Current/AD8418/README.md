@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Current-AD8418
 - Hex ID: SZKAMPLIFIERCURRENTAD8418
 - Name: Amplifier_Current : AD8418
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Current/AD8418/
 - Description: Amplifier_Current : AD8418
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Current-AD8418](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Current-AD8418)
 - Short Link: [http://oom.lt/SZKAMPLIFIERCURRENTAD8418](http://oom.lt/SZKAMPLIFIERCURRENTAD8418)

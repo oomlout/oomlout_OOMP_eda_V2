@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Device-Q_SCR_AKG
 - Hex ID: SZKDEVICEQSCRAKG
 - Name: Device : Q_SCR_AKG
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/Q_SCR_AKG/
 - Description: Device : Q_SCR_AKG
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Q_SCR_AKG](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Q_SCR_AKG)
 - Short Link: [http://oom.lt/SZKDEVICEQSCRAKG](http://oom.lt/SZKDEVICEQSCRAKG)

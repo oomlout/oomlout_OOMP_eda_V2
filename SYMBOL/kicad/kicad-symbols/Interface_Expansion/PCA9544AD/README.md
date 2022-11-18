@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_Expansion-PCA9544AD
 - Hex ID: SZKINTERFACEEXPANSIONPCA9544AD
 - Name: Interface_Expansion : PCA9544AD
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_Expansion/PCA9544AD/
 - Description: Interface_Expansion : PCA9544AD
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Expansion-PCA9544AD](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Expansion-PCA9544AD)
 - Short Link: [http://oom.lt/SZKINTERFACEEXPANSIONPCA9544AD](http://oom.lt/SZKINTERFACEEXPANSIONPCA9544AD)

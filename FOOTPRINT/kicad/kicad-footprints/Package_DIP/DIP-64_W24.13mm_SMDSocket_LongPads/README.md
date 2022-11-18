@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKDIPDIP64W2413SMSOL > Package_DIP : DIP-64_W24.13mm_SMDSocket_LongPads](#fzkdipdip64w2413smsol--package_dip--dip-64_w2413mm_smdsocket_longpads)
+* [FZKDD64W2413SMSOL > Package_DIP : DIP-64_W24.13mm_SMDSocket_LongPads](#fzkdd64w2413smsol--package_dip--dip-64_w2413mm_smdsocket_longpads)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKDIPDIP64W2413SMSOL > Package_DIP : DIP-64_W24.13mm_SMDSocket_LongPads
+# FZKDD64W2413SMSOL > Package_DIP : DIP-64_W24.13mm_SMDSocket_LongPads
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_DIP-DIP-64_W24.13mm_SMDSocket_LongPads
-- Hex ID: FZKDIPDIP64W2413SMSOL
+- Hex ID: FZKDD64W2413SMSOL
 - Name: Package_DIP : DIP-64_W24.13mm_SMDSocket_LongPads
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DIP/DIP-64_W24.13mm_SMDSocket_LongPads/
 - Description: Package_DIP : DIP-64_W24.13mm_SMDSocket_LongPads
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DIP-DIP-64_W24.13mm_SMDSocket_LongPads](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DIP-DIP-64_W24.13mm_SMDSocket_LongPads)
-- Short Link: [http://oom.lt/FZKDIPDIP64W2413SMSOL](http://oom.lt/FZKDIPDIP64W2413SMSOL)
+- Short Link: [http://oom.lt/FZKDD64W2413SMSOL](http://oom.lt/FZKDD64W2413SMSOL)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Package_DIP|
 |OOMP Index|oompIndex|DIP-64_W24.13mm_SMDSocket_LongPads|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DIP-DIP-64_W24.13mm_SMDSocket_LongPads|
-|Hex ID (short code)|hexID|FZKDIPDIP64W2413SMSOL|
+|Hex ID (short code)|hexID|FZKDD64W2413SMSOL|
 |name|name|Package_DIP : DIP-64_W24.13mm_SMDSocket_LongPads|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'DIP-64_W24.13mm_SMDSocket_LongPads'</td><td> 'description'</td></tr><tr><td> '64-lead though-hole mounted DIP package</td><td> row spacing 24.13 mm (950 mils)</td><td> SMDSocket</td><td> LongPads'</td><td> 'tags'</td></tr><tr><td> 'THT DIP DIL PDIP 2.54mm 24.13mm 950mil SMDSocket LongPads'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_DIP.3dshapes/DIP-64_W24.13mm_SMDSocket.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

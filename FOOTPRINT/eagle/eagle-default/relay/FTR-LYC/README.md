@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-relay-FTR-LYC
 - Hex ID: FZERELAYFTRLYC
 - Name: relay : FTR-LYC
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/relay/FTR-LYC/
 - Description: relay : FTR-LYC
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-FTR-LYC](http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-FTR-LYC)
 - Short Link: [http://oom.lt/FZERELAYFTRLYC](http://oom.lt/FZERELAYFTRLYC)

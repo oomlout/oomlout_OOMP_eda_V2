@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_1W_3W_R8
 - Hex ID: FZKLL1W3WR8
 - Name: LED_SMD : LED_1W_3W_R8
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_1W_3W_R8/
 - Description: LED_SMD : LED_1W_3W_R8
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_1W_3W_R8](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_1W_3W_R8)
 - Short Link: [http://oom.lt/FZKLL1W3WR8](http://oom.lt/FZKLL1W3WR8)

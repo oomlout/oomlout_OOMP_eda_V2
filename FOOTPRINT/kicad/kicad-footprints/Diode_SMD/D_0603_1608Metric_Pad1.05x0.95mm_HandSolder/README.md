@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKDD63168VAPAD15X95HANDSOLDER > Diode_SMD : D_0603_1608Metric_Pad1.05x0.95mm_HandSolder](#fzkdd63168vapad15x95handsolder--diode_smd--d_0603_1608metric_pad105x095mm_handsolder)
+* [FZKDD63168VAP15X95HSOLDER > Diode_SMD : D_0603_1608Metric_Pad1.05x0.95mm_HandSolder](#fzkdd63168vap15x95hsolder--diode_smd--d_0603_1608metric_pad105x095mm_handsolder)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKDD63168VAPAD15X95HANDSOLDER > Diode_SMD : D_0603_1608Metric_Pad1.05x0.95mm_HandSolder
+# FZKDD63168VAP15X95HSOLDER > Diode_SMD : D_0603_1608Metric_Pad1.05x0.95mm_HandSolder
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_0603_1608Metric_Pad1.05x0.95mm_HandSolder
-- Hex ID: FZKDD63168VAPAD15X95HANDSOLDER
+- Hex ID: FZKDD63168VAP15X95HSOLDER
 - Name: Diode_SMD : D_0603_1608Metric_Pad1.05x0.95mm_HandSolder
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Diode_SMD/D_0603_1608Metric_Pad1.05x0.95mm_HandSolder/
 - Description: Diode_SMD : D_0603_1608Metric_Pad1.05x0.95mm_HandSolder
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_0603_1608Metric_Pad1.05x0.95mm_HandSolder](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_0603_1608Metric_Pad1.05x0.95mm_HandSolder)
-- Short Link: [http://oom.lt/FZKDD63168VAPAD15X95HANDSOLDER](http://oom.lt/FZKDD63168VAPAD15X95HANDSOLDER)
+- Short Link: [http://oom.lt/FZKDD63168VAP15X95HSOLDER](http://oom.lt/FZKDD63168VAP15X95HSOLDER)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Diode_SMD|
 |OOMP Index|oompIndex|D_0603_1608Metric_Pad1.05x0.95mm_HandSolder|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_0603_1608Metric_Pad1.05x0.95mm_HandSolder|
-|Hex ID (short code)|hexID|FZKDD63168VAPAD15X95HANDSOLDER|
+|Hex ID (short code)|hexID|FZKDD63168VAP15X95HSOLDER|
 |name|name|Diode_SMD : D_0603_1608Metric_Pad1.05x0.95mm_HandSolder|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'D_0603_1608Metric_Pad1.05x0.95mm_HandSolder'</td><td> 'description'</td></tr><tr><td> 'Diode SMD 0603 (1608 Metric)</td><td> square (rectangular) end terminal</td><td> IPC_7351 nominal</td><td> (Body size source</td></tr><tr><td> http</td></tr><tr><td>//www.tortai-tech.com/upload/download/2011102023233369053.pdf)</td><td> generated with kicad-footprint-generator'</td><td> 'tags'</td></tr><tr><td> 'diode handsolder'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Diode_SMD.3dshapes/D_0603_1608Metric.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||

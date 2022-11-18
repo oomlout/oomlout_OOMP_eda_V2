@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Analog_DAC-DAC5311xDCK
 - Hex ID: SZKANALOGDACDAC5311XDCK
 - Name: Analog_DAC : DAC5311xDCK
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog_DAC/DAC5311xDCK/
 - Description: Analog_DAC : DAC5311xDCK
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_DAC-DAC5311xDCK](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_DAC-DAC5311xDCK)
 - Short Link: [http://oom.lt/SZKANALOGDACDAC5311XDCK](http://oom.lt/SZKANALOGDACDAC5311XDCK)

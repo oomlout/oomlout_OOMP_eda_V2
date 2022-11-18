@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_HC52-6mm_Vertical
 - Hex ID: FZKXXHC526F
 - Name: Crystal : Crystal_HC52-6mm_Vertical
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_HC52-6mm_Vertical/
 - Description: Crystal : Crystal_HC52-6mm_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_HC52-6mm_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_HC52-6mm_Vertical)
 - Short Link: [http://oom.lt/FZKXXHC526F](http://oom.lt/FZKXXHC526F)

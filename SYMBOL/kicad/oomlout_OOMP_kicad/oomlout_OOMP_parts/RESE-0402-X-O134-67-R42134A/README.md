@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0402-X-O134-67-R42134A
 - Hex ID: SZOOMPKOOMPPRESE42XO13467R42134A
 - Name: oomlout_OOMP_parts : RESE-0402-X-O134-67-R42134A
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/RESE-0402-X-O134-67-R42134A/
 - Description: oomlout_OOMP_parts : RESE-0402-X-O134-67-R42134A
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0402-X-O134-67-R42134A](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0402-X-O134-67-R42134A)
 - Short Link: [http://oom.lt/SZOOMPKOOMPPRESE42XO13467R42134A](http://oom.lt/SZOOMPKOOMPPRESE42XO13467R42134A)

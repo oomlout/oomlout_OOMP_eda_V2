@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Comparator-LP2901D
 - Hex ID: SZKCOMPARATORLP291D
 - Name: Comparator : LP2901D
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Comparator/LP2901D/
 - Description: Comparator : LP2901D
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Comparator-LP2901D](http://oom.lt/SYMBOL-kicad-kicad-symbols-Comparator-LP2901D)
 - Short Link: [http://oom.lt/SZKCOMPARATORLP291D](http://oom.lt/SZKCOMPARATORLP291D)

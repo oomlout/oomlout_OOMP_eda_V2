@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-micro-renesas-PWQN0028KA-B
 - Hex ID: FZEMRENESASPWQN28KAB
 - Name: micro-renesas : PWQN0028KA-B
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/micro-renesas/PWQN0028KA-B/
 - Description: micro-renesas : PWQN0028KA-B
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-renesas-PWQN0028KA-B](http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-renesas-PWQN0028KA-B)
 - Short Link: [http://oom.lt/FZEMRENESASPWQN28KAB](http://oom.lt/FZEMRENESASPWQN28KAB)

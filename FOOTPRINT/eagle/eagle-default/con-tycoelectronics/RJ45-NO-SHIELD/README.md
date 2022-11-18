@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-tycoelectronics-RJ45-NO-SHIELD
 - Hex ID: FZECONTYCOELECTRONICSRJ45NOSH
 - Name: con-tycoelectronics : RJ45-NO-SHIELD
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-tycoelectronics/RJ45-NO-SHIELD/
 - Description: con-tycoelectronics : RJ45-NO-SHIELD
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-tycoelectronics-RJ45-NO-SHIELD](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-tycoelectronics-RJ45-NO-SHIELD)
 - Short Link: [http://oom.lt/FZECONTYCOELECTRONICSRJ45NOSH](http://oom.lt/FZECONTYCOELECTRONICSRJ45NOSH)

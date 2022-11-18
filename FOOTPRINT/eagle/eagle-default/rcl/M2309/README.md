@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-rcl-M2309
 - Hex ID: FZERCLM239
 - Name: rcl : M2309
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/rcl/M2309/
 - Description: rcl : M2309
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-M2309](http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-M2309)
 - Short Link: [http://oom.lt/FZERCLM239](http://oom.lt/FZERCLM239)

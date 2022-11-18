@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-4xxx-4066
 - Hex ID: SZK4XXX466
 - Name: 4xxx : 4066
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/4xxx/4066/
 - Description: 4xxx : 4066
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-4xxx-4066](http://oom.lt/SYMBOL-kicad-kicad-symbols-4xxx-4066)
 - Short Link: [http://oom.lt/SZK4XXX466](http://oom.lt/SZK4XXX466)

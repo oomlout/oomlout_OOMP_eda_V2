@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_ST_STM32L1-STM32L162RDTx
 - Hex ID: SZKMCUSTSTM32L1STM32L162RDTX
 - Name: MCU_ST_STM32L1 : STM32L162RDTx
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32L1/STM32L162RDTx/
 - Description: MCU_ST_STM32L1 : STM32L162RDTx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32L1-STM32L162RDTx](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32L1-STM32L162RDTx)
 - Short Link: [http://oom.lt/SZKMCUSTSTM32L1STM32L162RDTX](http://oom.lt/SZKMCUSTSTM32L1STM32L162RDTX)

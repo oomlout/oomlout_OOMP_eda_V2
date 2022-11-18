@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Device-R_Network12
 - Hex ID: SZKDEVICERNETWORK12
 - Name: Device : R_Network12
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/R_Network12/
 - Description: Device : R_Network12
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-R_Network12](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-R_Network12)
 - Short Link: [http://oom.lt/SZKDEVICERNETWORK12](http://oom.lt/SZKDEVICERNETWORK12)

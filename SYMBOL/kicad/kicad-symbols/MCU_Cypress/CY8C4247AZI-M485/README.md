@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Cypress-CY8C4247AZI-M485
 - Hex ID: SZKMCUCYPRESSCY8C4247AZIM485
 - Name: MCU_Cypress : CY8C4247AZI-M485
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Cypress/CY8C4247AZI-M485/
 - Description: MCU_Cypress : CY8C4247AZI-M485
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Cypress-CY8C4247AZI-M485](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Cypress-CY8C4247AZI-M485)
 - Short Link: [http://oom.lt/SZKMCUCYPRESSCY8C4247AZIM485](http://oom.lt/SZKMCUCYPRESSCY8C4247AZIM485)

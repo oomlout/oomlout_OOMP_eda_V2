@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0805-X-O121-67-R85121A
 - Hex ID: FZOOMPKOOMPPRESE85XO12167R85121A
 - Name: oomlout_OOMP_parts : RESE-0805-X-O121-67-R85121A
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/RESE-0805-X-O121-67-R85121A/
 - Description: oomlout_OOMP_parts : RESE-0805-X-O121-67-R85121A
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0805-X-O121-67-R85121A](http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0805-X-O121-67-R85121A)
 - Short Link: [http://oom.lt/FZOOMPKOOMPPRESE85XO12167R85121A](http://oom.lt/FZOOMPKOOMPPRESE85XO12167R85121A)

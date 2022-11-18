@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Audio-TDA7496
 - Hex ID: SZKAMPLIFIERAUDIOTDA7496
 - Name: Amplifier_Audio : TDA7496
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Audio/TDA7496/
 - Description: Amplifier_Audio : TDA7496
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Audio-TDA7496](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Audio-TDA7496)
 - Short Link: [http://oom.lt/SZKAMPLIFIERAUDIOTDA7496](http://oom.lt/SZKAMPLIFIERAUDIOTDA7496)

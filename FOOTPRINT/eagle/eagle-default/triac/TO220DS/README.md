@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-triac-TO220DS
 - Hex ID: FZETRIACTO22DS
 - Name: triac : TO220DS
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/triac/TO220DS/
 - Description: triac : TO220DS
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-triac-TO220DS](http://oom.lt/FOOTPRINT-eagle-eagle-default-triac-TO220DS)
 - Short Link: [http://oom.lt/FZETRIACTO22DS](http://oom.lt/FZETRIACTO22DS)

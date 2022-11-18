@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-140CLH-1010
 - Hex ID: FZA14CLH11
 - Name: adafruit : 140CLH-1010
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/140CLH-1010/
 - Description: adafruit : 140CLH-1010
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-140CLH-1010](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-140CLH-1010)
 - Short Link: [http://oom.lt/FZA14CLH11](http://oom.lt/FZA14CLH11)

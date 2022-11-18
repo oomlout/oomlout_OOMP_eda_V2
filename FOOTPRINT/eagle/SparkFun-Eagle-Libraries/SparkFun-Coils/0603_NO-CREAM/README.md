@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Coils-0603_NO-CREAM
 - Hex ID: FZSCO63NOCREAM
 - Name: SparkFun-Coils : 0603_NO-CREAM
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Coils/0603_NO-CREAM/
 - Description: SparkFun-Coils : 0603_NO-CREAM
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Coils-0603_NO-CREAM](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Coils-0603_NO-CREAM)
 - Short Link: [http://oom.lt/FZSCO63NOCREAM](http://oom.lt/FZSCO63NOCREAM)

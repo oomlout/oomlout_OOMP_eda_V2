@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_CommonModeChoke_Coilcraft_0603USB
 - Hex ID: FZKINLCOONMODECHOKECOILCRAFT63U
 - Name: Inductor_SMD : L_CommonModeChoke_Coilcraft_0603USB
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_CommonModeChoke_Coilcraft_0603USB/
 - Description: Inductor_SMD : L_CommonModeChoke_Coilcraft_0603USB
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_CommonModeChoke_Coilcraft_0603USB](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_CommonModeChoke_Coilcraft_0603USB)
 - Short Link: [http://oom.lt/FZKINLCOONMODECHOKECOILCRAFT63U](http://oom.lt/FZKINLCOONMODECHOKECOILCRAFT63U)

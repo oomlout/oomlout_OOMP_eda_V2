@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-19inch-EK-FP
 - Hex ID: FZE19INCHEKFP
 - Name: 19inch : EK-FP
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/19inch/EK-FP/
 - Description: 19inch : EK-FP
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-19inch-EK-FP](http://oom.lt/FOOTPRINT-eagle-eagle-default-19inch-EK-FP)
 - Short Link: [http://oom.lt/FZE19INCHEKFP](http://oom.lt/FZE19INCHEKFP)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_Trimmer_Murata_TZC3
 - Hex ID: FZKCCTRIERMTZC3
 - Name: Capacitor_SMD : C_Trimmer_Murata_TZC3
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Capacitor_SMD/C_Trimmer_Murata_TZC3/
 - Description: Capacitor_SMD : C_Trimmer_Murata_TZC3
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_Trimmer_Murata_TZC3](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_Trimmer_Murata_TZC3)
 - Short Link: [http://oom.lt/FZKCCTRIERMTZC3](http://oom.lt/FZKCCTRIERMTZC3)

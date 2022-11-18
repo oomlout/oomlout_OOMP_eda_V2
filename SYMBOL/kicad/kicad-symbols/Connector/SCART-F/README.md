@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Connector-SCART-F
 - Hex ID: SZKCNSCARTF
 - Name: Connector : SCART-F
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector/SCART-F/
 - Description: Connector : SCART-F
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-SCART-F](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-SCART-F)
 - Short Link: [http://oom.lt/SZKCNSCARTF](http://oom.lt/SZKCNSCARTF)

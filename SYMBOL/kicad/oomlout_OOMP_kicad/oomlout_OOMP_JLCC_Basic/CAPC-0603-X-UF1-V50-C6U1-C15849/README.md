@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0603-X-UF1-V50-C6U1-C15849
 - Hex ID: SZOOMPKJLCCAPC63XUF1V5C6U1C15849
 - Name: oomlout_OOMP_JLCC_Basic : CAPC-0603-X-UF1-V50-C6U1-C15849
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_JLCC_Basic/CAPC-0603-X-UF1-V50-C6U1-C15849/
 - Description: oomlout_OOMP_JLCC_Basic : CAPC-0603-X-UF1-V50-C6U1-C15849
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0603-X-UF1-V50-C6U1-C15849](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0603-X-UF1-V50-C6U1-C15849)
 - Short Link: [http://oom.lt/SZOOMPKJLCCAPC63XUF1V5C6U1C15849](http://oom.lt/SZOOMPKJLCCAPC63XUF1V5C6U1C15849)

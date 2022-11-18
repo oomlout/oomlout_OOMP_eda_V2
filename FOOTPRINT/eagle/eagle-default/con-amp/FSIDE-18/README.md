@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-amp-FSIDE-18
 - Hex ID: FZECONAMPFSIDE18
 - Name: con-amp : FSIDE-18
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-amp/FSIDE-18/
 - Description: con-amp : FSIDE-18
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-amp-FSIDE-18](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-amp-FSIDE-18)
 - Short Link: [http://oom.lt/FZECONAMPFSIDE18](http://oom.lt/FZECONAMPFSIDE18)

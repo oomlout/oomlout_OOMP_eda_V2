@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_Audio-Jack_3.5mm_Switronic_ST-005-G_horizontal
 - Hex ID: FZKCNAUDIOJ35SWITRONICST5GH
 - Name: Connector_Audio : Jack_3.5mm_Switronic_ST-005-G_horizontal
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Audio/Jack_3.5mm_Switronic_ST-005-G_horizontal/
 - Description: Connector_Audio : Jack_3.5mm_Switronic_ST-005-G_horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Audio-Jack_3.5mm_Switronic_ST-005-G_horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Audio-Jack_3.5mm_Switronic_ST-005-G_horizontal)
 - Short Link: [http://oom.lt/FZKCNAUDIOJ35SWITRONICST5GH](http://oom.lt/FZKCNAUDIOJ35SWITRONICST5GH)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-E30-12
 - Hex ID: FZAE312
 - Name: adafruit : E30-12
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/E30-12/
 - Description: adafruit : E30-12
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-E30-12](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-E30-12)
 - Short Link: [http://oom.lt/FZAE312](http://oom.lt/FZAE312)

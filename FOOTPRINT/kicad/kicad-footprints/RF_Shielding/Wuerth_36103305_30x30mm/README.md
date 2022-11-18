@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-RF_Shielding-Wuerth_36103305_30x30mm
 - Hex ID: FZKRFSWUERTH3613353X3
 - Name: RF_Shielding : Wuerth_36103305_30x30mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/RF_Shielding/Wuerth_36103305_30x30mm/
 - Description: RF_Shielding : Wuerth_36103305_30x30mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_Shielding-Wuerth_36103305_30x30mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_Shielding-Wuerth_36103305_30x30mm)
 - Short Link: [http://oom.lt/FZKRFSWUERTH3613353X3](http://oom.lt/FZKRFSWUERTH3613353X3)

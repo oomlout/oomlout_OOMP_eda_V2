@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-opto-trans-siemens-BPX81
 - Hex ID: FZEOPTOTRANSSIEMENSBPX81
 - Name: opto-trans-siemens : BPX81
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/opto-trans-siemens/BPX81/
 - Description: opto-trans-siemens : BPX81
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-opto-trans-siemens-BPX81](http://oom.lt/FOOTPRINT-eagle-eagle-default-opto-trans-siemens-BPX81)
 - Short Link: [http://oom.lt/FZEOPTOTRANSSIEMENSBPX81](http://oom.lt/FZEOPTOTRANSSIEMENSBPX81)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-fifo-PLCC68
 - Hex ID: FZEFIFOPLCC68
 - Name: fifo : PLCC68
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/fifo/PLCC68/
 - Description: fifo : PLCC68
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-fifo-PLCC68](http://oom.lt/FOOTPRINT-eagle-eagle-default-fifo-PLCC68)
 - Short Link: [http://oom.lt/FZEFIFOPLCC68](http://oom.lt/FZEFIFOPLCC68)

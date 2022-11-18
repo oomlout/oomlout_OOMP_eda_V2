@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEREFPACKAGESSO24X > ref-packages : SO24X](#fzerefpackagesso24x--ref-packages--so24x)
+* [FZEREFPSSO24X > ref-packages : SO24X](#fzerefpsso24x--ref-packages--so24x)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEREFPACKAGESSO24X > ref-packages : SO24X
+# FZEREFPSSO24X > ref-packages : SO24X
 
 - ID: FOOTPRINT-eagle-eagle-default-ref-packages-SO24X
-- Hex ID: FZEREFPACKAGESSO24X
+- Hex ID: FZEREFPSSO24X
 - Name: ref-packages : SO24X
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ref-packages/SO24X/
 - Description: ref-packages : SO24X
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-SO24X](http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-SO24X)
-- Short Link: [http://oom.lt/FZEREFPACKAGESSO24X](http://oom.lt/FZEREFPACKAGESSO24X)
+- Short Link: [http://oom.lt/FZEREFPSSO24X](http://oom.lt/FZEREFPSSO24X)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|ref-packages|
 |OOMP Index|oompIndex|SO24X|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-ref-packages-SO24X|
-|Hex ID (short code)|hexID|FZEREFPACKAGESSO24X|
+|Hex ID (short code)|hexID|FZEREFPSSO24X|
 |name|name|ref-packages : SO24X|
 ||||

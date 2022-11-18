@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Isolator-TLP2761
 - Hex ID: SZKISOLATORTLP2761
 - Name: Isolator : TLP2761
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Isolator/TLP2761/
 - Description: Isolator : TLP2761
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-TLP2761](http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-TLP2761)
 - Short Link: [http://oom.lt/SZKISOLATORTLP2761](http://oom.lt/SZKISOLATORTLP2761)

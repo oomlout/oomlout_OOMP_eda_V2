@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Axial_L24.0mm_D7.1mm_P5.08mm_Vertical_Vishay_IM-10-28
 - Hex ID: FZKINLAXIALL24D71P58FVISHAYIM128
 - Name: Inductor_THT : L_Axial_L24.0mm_D7.1mm_P5.08mm_Vertical_Vishay_IM-10-28
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Axial_L24.0mm_D7.1mm_P5.08mm_Vertical_Vishay_IM-10-28/
 - Description: Inductor_THT : L_Axial_L24.0mm_D7.1mm_P5.08mm_Vertical_Vishay_IM-10-28
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Axial_L24.0mm_D7.1mm_P5.08mm_Vertical_Vishay_IM-10-28](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Axial_L24.0mm_D7.1mm_P5.08mm_Vertical_Vishay_IM-10-28)
 - Short Link: [http://oom.lt/FZKINLAXIALL24D71P58FVISHAYIM128](http://oom.lt/FZKINLAXIALL24D71P58FVISHAYIM128)

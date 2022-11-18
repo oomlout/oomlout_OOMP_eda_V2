@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Relay_THT-Relay_SPST_RAYEX-L90B
 - Hex ID: FZKRELRELAYSPSTRAYEXL9B
 - Name: Relay_THT : Relay_SPST_RAYEX-L90B
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Relay_THT/Relay_SPST_RAYEX-L90B/
 - Description: Relay_THT : Relay_SPST_RAYEX-L90B
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Relay_THT-Relay_SPST_RAYEX-L90B](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Relay_THT-Relay_SPST_RAYEX-L90B)
 - Short Link: [http://oom.lt/FZKRELRELAYSPSTRAYEXL9B](http://oom.lt/FZKRELRELAYSPSTRAYEXL9B)

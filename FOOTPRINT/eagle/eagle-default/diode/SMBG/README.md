@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-diode-SMBG
 - Hex ID: FZEDIODESMBG
 - Name: diode : SMBG
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/diode/SMBG/
 - Description: diode : SMBG
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-diode-SMBG](http://oom.lt/FOOTPRINT-eagle-eagle-default-diode-SMBG)
 - Short Link: [http://oom.lt/FZEDIODESMBG](http://oom.lt/FZEDIODESMBG)

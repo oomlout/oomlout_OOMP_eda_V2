@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-switch-TL1105
 - Hex ID: FZESWTL115
 - Name: switch : TL1105
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/switch/TL1105/
 - Description: switch : TL1105
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-TL1105](http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-TL1105)
 - Short Link: [http://oom.lt/FZESWTL115](http://oom.lt/FZESWTL115)

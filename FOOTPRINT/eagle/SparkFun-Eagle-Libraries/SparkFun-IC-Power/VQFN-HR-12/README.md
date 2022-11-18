@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Power-VQFN-HR-12
 - Hex ID: FZSIPVQFNHR12
 - Name: SparkFun-IC-Power : VQFN-HR-12
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-IC-Power/VQFN-HR-12/
 - Description: SparkFun-IC-Power : VQFN-HR-12
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Power-VQFN-HR-12](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Power-VQFN-HR-12)
 - Short Link: [http://oom.lt/FZSIPVQFNHR12](http://oom.lt/FZSIPVQFNHR12)

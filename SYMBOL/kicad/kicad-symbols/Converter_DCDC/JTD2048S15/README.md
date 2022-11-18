@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Converter_DCDC-JTD2048S15
 - Hex ID: SZKCONJTD248S15
 - Name: Converter_DCDC : JTD2048S15
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Converter_DCDC/JTD2048S15/
 - Description: Converter_DCDC : JTD2048S15
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-JTD2048S15](http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-JTD2048S15)
 - Short Link: [http://oom.lt/SZKCONJTD248S15](http://oom.lt/SZKCONJTD248S15)

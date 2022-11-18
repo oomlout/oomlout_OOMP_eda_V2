@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-QFN-72-1EP_10x10mm_P0.5mm_EP6x6mm
 - Hex ID: FZKDFNQFN721EP1X1P5EP6X6
 - Name: Package_DFN_QFN : QFN-72-1EP_10x10mm_P0.5mm_EP6x6mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/QFN-72-1EP_10x10mm_P0.5mm_EP6x6mm/
 - Description: Package_DFN_QFN : QFN-72-1EP_10x10mm_P0.5mm_EP6x6mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-QFN-72-1EP_10x10mm_P0.5mm_EP6x6mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-QFN-72-1EP_10x10mm_P0.5mm_EP6x6mm)
 - Short Link: [http://oom.lt/FZKDFNQFN721EP1X1P5EP6X6](http://oom.lt/FZKDFNQFN721EP1X1P5EP6X6)

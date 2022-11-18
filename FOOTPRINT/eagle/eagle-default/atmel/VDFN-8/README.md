@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-atmel-VDFN-8
 - Hex ID: FZEATMELVDFN8
 - Name: atmel : VDFN-8
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/atmel/VDFN-8/
 - Description: atmel : VDFN-8
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-atmel-VDFN-8](http://oom.lt/FOOTPRINT-eagle-eagle-default-atmel-VDFN-8)
 - Short Link: [http://oom.lt/FZEATMELVDFN8](http://oom.lt/FZEATMELVDFN8)

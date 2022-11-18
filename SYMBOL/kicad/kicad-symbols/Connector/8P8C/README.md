@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Connector-8P8C
 - Hex ID: SZKCN8P8C
 - Name: Connector : 8P8C
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector/8P8C/
 - Description: Connector : 8P8C
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-8P8C](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-8P8C)
 - Short Link: [http://oom.lt/SZKCN8P8C](http://oom.lt/SZKCN8P8C)

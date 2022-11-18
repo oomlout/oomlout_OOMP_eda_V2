@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-2747
 - Hex ID: FZA2747
 - Name: adafruit : 2747
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/2747/
 - Description: adafruit : 2747
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-2747](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-2747)
 - Short Link: [http://oom.lt/FZA2747](http://oom.lt/FZA2747)

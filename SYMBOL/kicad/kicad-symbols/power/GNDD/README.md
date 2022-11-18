@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-power-GNDD
 - Hex ID: SZKPOWERGNDD
 - Name: power : GNDD
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/power/GNDD/
 - Description: power : GNDD
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-power-GNDD](http://oom.lt/SYMBOL-kicad-kicad-symbols-power-GNDD)
 - Short Link: [http://oom.lt/SZKPOWERGNDD](http://oom.lt/SZKPOWERGNDD)

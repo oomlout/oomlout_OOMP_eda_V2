@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0805-X-O113-01-R8O113
 - Hex ID: SZOOMPKOOMPPRESE85XO1131R8O113
 - Name: oomlout_OOMP_parts : RESE-0805-X-O113-01-R8O113
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/RESE-0805-X-O113-01-R8O113/
 - Description: oomlout_OOMP_parts : RESE-0805-X-O113-01-R8O113
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0805-X-O113-01-R8O113](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0805-X-O113-01-R8O113)
 - Short Link: [http://oom.lt/SZOOMPKOOMPPRESE85XO1131R8O113](http://oom.lt/SZOOMPKOOMPPRESE85XO1131R8O113)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-maxim-SO08-208
 - Hex ID: FZEMAXIMSO828
 - Name: maxim : SO08-208
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/maxim/SO08-208/
 - Description: maxim : SO08-208
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-maxim-SO08-208](http://oom.lt/FOOTPRINT-eagle-eagle-default-maxim-SO08-208)
 - Short Link: [http://oom.lt/FZEMAXIMSO828](http://oom.lt/FZEMAXIMSO828)

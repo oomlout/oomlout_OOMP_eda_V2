@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-triac-TO126L
 - Hex ID: FZETRIACTO126L
 - Name: triac : TO126L
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/triac/TO126L/
 - Description: triac : TO126L
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-triac-TO126L](http://oom.lt/FOOTPRINT-eagle-eagle-default-triac-TO126L)
 - Short Link: [http://oom.lt/FZETRIACTO126L](http://oom.lt/FZETRIACTO126L)

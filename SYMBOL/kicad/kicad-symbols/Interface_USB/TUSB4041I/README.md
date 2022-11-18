@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_USB-TUSB4041I
 - Hex ID: SZKINTERFACEUTU441I
 - Name: Interface_USB : TUSB4041I
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_USB/TUSB4041I/
 - Description: Interface_USB : TUSB4041I
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_USB-TUSB4041I](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_USB-TUSB4041I)
 - Short Link: [http://oom.lt/SZKINTERFACEUTU441I](http://oom.lt/SZKINTERFACEUTU441I)

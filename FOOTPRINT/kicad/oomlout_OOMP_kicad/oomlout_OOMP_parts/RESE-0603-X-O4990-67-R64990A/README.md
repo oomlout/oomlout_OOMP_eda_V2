@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O4990-67-R64990A
 - Hex ID: FZOOMPKOOMPPRESE63XO49967R6499A
 - Name: oomlout_OOMP_parts : RESE-0603-X-O4990-67-R64990A
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/RESE-0603-X-O4990-67-R64990A/
 - Description: oomlout_OOMP_parts : RESE-0603-X-O4990-67-R64990A
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O4990-67-R64990A](http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O4990-67-R64990A)
 - Short Link: [http://oom.lt/FZOOMPKOOMPPRESE63XO49967R6499A](http://oom.lt/FZOOMPKOOMPPRESE63XO49967R6499A)

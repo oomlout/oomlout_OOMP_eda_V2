@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-FSQ0565RQWDTU
 - Hex ID: SZKREGULATORSWINGFSQ565RQWDTU
 - Name: Regulator_Switching : FSQ0565RQWDTU
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/FSQ0565RQWDTU/
 - Description: Regulator_Switching : FSQ0565RQWDTU
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-FSQ0565RQWDTU](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-FSQ0565RQWDTU)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGFSQ565RQWDTU](http://oom.lt/SZKREGULATORSWINGFSQ565RQWDTU)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-CRE1S2405SC
 - Hex ID: SZKREGULATORSWINGCRE1S245SC
 - Name: Regulator_Switching : CRE1S2405SC
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/CRE1S2405SC/
 - Description: Regulator_Switching : CRE1S2405SC
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-CRE1S2405SC](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-CRE1S2405SC)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGCRE1S245SC](http://oom.lt/SZKREGULATORSWINGCRE1S245SC)

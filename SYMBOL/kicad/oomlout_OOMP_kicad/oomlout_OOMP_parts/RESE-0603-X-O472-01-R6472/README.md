@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O472-01-R6472
 - Hex ID: SZOOMPKOOMPPRESE63XO4721R6472
 - Name: oomlout_OOMP_parts : RESE-0603-X-O472-01-R6472
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/RESE-0603-X-O472-01-R6472/
 - Description: oomlout_OOMP_parts : RESE-0603-X-O472-01-R6472
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O472-01-R6472](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O472-01-R6472)
 - Short Link: [http://oom.lt/SZOOMPKOOMPPRESE63XO4721R6472](http://oom.lt/SZOOMPKOOMPPRESE63XO4721R6472)

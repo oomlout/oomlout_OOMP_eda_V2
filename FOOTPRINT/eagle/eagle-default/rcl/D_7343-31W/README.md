@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-rcl-D_7343-31W
 - Hex ID: FZERCLD734331W
 - Name: rcl : D_7343-31W
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/rcl/D_7343-31W/
 - Description: rcl : D_7343-31W
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-D_7343-31W](http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-D_7343-31W)
 - Short Link: [http://oom.lt/FZERCLD734331W](http://oom.lt/FZERCLD734331W)

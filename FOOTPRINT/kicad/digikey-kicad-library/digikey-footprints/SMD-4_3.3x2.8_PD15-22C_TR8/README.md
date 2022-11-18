@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SMD-4_3.3x2.8_PD15-22C_TR8
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSSM433X28PD1522CTR8
 - Name: digikey-footprints : SMD-4_3.3x2.8_PD15-22C_TR8
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/SMD-4_3.3x2.8_PD15-22C_TR8/
 - Description: digikey-footprints : SMD-4_3.3x2.8_PD15-22C_TR8
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SMD-4_3.3x2.8_PD15-22C_TR8](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SMD-4_3.3x2.8_PD15-22C_TR8)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSSM433X28PD1522CTR8](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSSM433X28PD1522CTR8)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_BGA-BGA-9_1.6x1.6mm_Layout3x3_P0.5mm
 - Hex ID: FZKBGABGA916X16LAYOUT3X3P5
 - Name: Package_BGA : BGA-9_1.6x1.6mm_Layout3x3_P0.5mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_BGA/BGA-9_1.6x1.6mm_Layout3x3_P0.5mm/
 - Description: Package_BGA : BGA-9_1.6x1.6mm_Layout3x3_P0.5mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_BGA-BGA-9_1.6x1.6mm_Layout3x3_P0.5mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_BGA-BGA-9_1.6x1.6mm_Layout3x3_P0.5mm)
 - Short Link: [http://oom.lt/FZKBGABGA916X16LAYOUT3X3P5](http://oom.lt/FZKBGABGA916X16LAYOUT3X3P5)

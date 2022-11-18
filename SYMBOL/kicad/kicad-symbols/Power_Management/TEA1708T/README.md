@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Power_Management-TEA1708T
 - Hex ID: SZKPOWERMANAGEMENTTEA178T
 - Name: Power_Management : TEA1708T
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Power_Management/TEA1708T/
 - Description: Power_Management : TEA1708T
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-TEA1708T](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-TEA1708T)
 - Short Link: [http://oom.lt/SZKPOWERMANAGEMENTTEA178T](http://oom.lt/SZKPOWERMANAGEMENTTEA178T)

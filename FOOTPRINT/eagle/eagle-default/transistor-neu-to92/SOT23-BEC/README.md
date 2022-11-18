@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-transistor-neu-to92-SOT23-BEC
 - Hex ID: FZETRANSISTORNEUTO92SOT23BEC
 - Name: transistor-neu-to92 : SOT23-BEC
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/transistor-neu-to92/SOT23-BEC/
 - Description: transistor-neu-to92 : SOT23-BEC
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-neu-to92-SOT23-BEC](http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-neu-to92-SOT23-BEC)
 - Short Link: [http://oom.lt/FZETRANSISTORNEUTO92SOT23BEC](http://oom.lt/FZETRANSISTORNEUTO92SOT23BEC)

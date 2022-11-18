@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_Samtec-Samtec_FMC_ASP-134486-01_10x40_P1.27mm_Vertical
 - Hex ID: FZKCNSAMTECSAMTECFMCASP13448611X4P127F
 - Name: Connector_Samtec : Samtec_FMC_ASP-134486-01_10x40_P1.27mm_Vertical
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Samtec/Samtec_FMC_ASP-134486-01_10x40_P1.27mm_Vertical/
 - Description: Connector_Samtec : Samtec_FMC_ASP-134486-01_10x40_P1.27mm_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Samtec-Samtec_FMC_ASP-134486-01_10x40_P1.27mm_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Samtec-Samtec_FMC_ASP-134486-01_10x40_P1.27mm_Vertical)
 - Short Link: [http://oom.lt/FZKCNSAMTECSAMTECFMCASP13448611X4P127F](http://oom.lt/FZKCNSAMTECSAMTECFMCASP13448611X4P127F)

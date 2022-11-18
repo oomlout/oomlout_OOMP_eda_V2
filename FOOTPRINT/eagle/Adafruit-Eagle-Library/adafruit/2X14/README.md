@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-2X14
 - Hex ID: FZA2X14
 - Name: adafruit : 2X14
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/2X14/
 - Description: adafruit : 2X14
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-2X14](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-2X14)
 - Short Link: [http://oom.lt/FZA2X14](http://oom.lt/FZA2X14)

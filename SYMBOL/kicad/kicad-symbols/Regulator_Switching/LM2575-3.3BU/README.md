@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-LM2575-3.3BU
 - Hex ID: SZKREGULATORSWINGLM257533BU
 - Name: Regulator_Switching : LM2575-3.3BU
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/LM2575-3.3BU/
 - Description: Regulator_Switching : LM2575-3.3BU
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LM2575-3.3BU](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LM2575-3.3BU)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGLM257533BU](http://oom.lt/SZKREGULATORSWINGLM257533BU)

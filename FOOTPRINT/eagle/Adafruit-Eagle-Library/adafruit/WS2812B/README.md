@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-WS2812B
 - Hex ID: FZAWS2812B
 - Name: adafruit : WS2812B
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/WS2812B/
 - Description: adafruit : WS2812B
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-WS2812B](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-WS2812B)
 - Short Link: [http://oom.lt/FZAWS2812B](http://oom.lt/FZAWS2812B)

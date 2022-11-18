@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-infineon-PG-VQFN-108-2
 - Hex ID: FZEINFINEONPGVQFN182
 - Name: infineon : PG-VQFN-108-2
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/infineon/PG-VQFN-108-2/
 - Description: infineon : PG-VQFN-108-2
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-infineon-PG-VQFN-108-2](http://oom.lt/FOOTPRINT-eagle-eagle-default-infineon-PG-VQFN-108-2)
 - Short Link: [http://oom.lt/FZEINFINEONPGVQFN182](http://oom.lt/FZEINFINEONPGVQFN182)

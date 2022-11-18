@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_LGA-LGA-16_3x3mm_P0.5mm_LayoutBorder3x5y
 - Hex ID: FZKLGALGA163X3P5LAYOUTBORDER3X5Y
 - Name: Package_LGA : LGA-16_3x3mm_P0.5mm_LayoutBorder3x5y
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_LGA/LGA-16_3x3mm_P0.5mm_LayoutBorder3x5y/
 - Description: Package_LGA : LGA-16_3x3mm_P0.5mm_LayoutBorder3x5y
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_LGA-LGA-16_3x3mm_P0.5mm_LayoutBorder3x5y](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_LGA-LGA-16_3x3mm_P0.5mm_LayoutBorder3x5y)
 - Short Link: [http://oom.lt/FZKLGALGA163X3P5LAYOUTBORDER3X5Y](http://oom.lt/FZKLGALGA163X3P5LAYOUTBORDER3X5Y)

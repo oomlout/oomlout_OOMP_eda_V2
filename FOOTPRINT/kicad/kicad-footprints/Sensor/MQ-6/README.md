@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Sensor-MQ-6
 - Hex ID: FZKSENMQ6
 - Name: Sensor : MQ-6
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Sensor/MQ-6/
 - Description: Sensor : MQ-6
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Sensor-MQ-6](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Sensor-MQ-6)
 - Short Link: [http://oom.lt/FZKSENMQ6](http://oom.lt/FZKSENMQ6)

@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEREFPACKAGESSOT457WPHILIPS > ref-packages : SOT457W_PHILIPS](#fzerefpackagessot457wphilips--ref-packages--sot457w_philips)
+* [FZEREFPSSOT457WPHILIPS > ref-packages : SOT457W_PHILIPS](#fzerefpssot457wphilips--ref-packages--sot457w_philips)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEREFPACKAGESSOT457WPHILIPS > ref-packages : SOT457W_PHILIPS
+# FZEREFPSSOT457WPHILIPS > ref-packages : SOT457W_PHILIPS
 
 - ID: FOOTPRINT-eagle-eagle-default-ref-packages-SOT457W_PHILIPS
-- Hex ID: FZEREFPACKAGESSOT457WPHILIPS
+- Hex ID: FZEREFPSSOT457WPHILIPS
 - Name: ref-packages : SOT457W_PHILIPS
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ref-packages/SOT457W_PHILIPS/
 - Description: ref-packages : SOT457W_PHILIPS
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-SOT457W_PHILIPS](http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-SOT457W_PHILIPS)
-- Short Link: [http://oom.lt/FZEREFPACKAGESSOT457WPHILIPS](http://oom.lt/FZEREFPACKAGESSOT457WPHILIPS)
+- Short Link: [http://oom.lt/FZEREFPSSOT457WPHILIPS](http://oom.lt/FZEREFPSSOT457WPHILIPS)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|ref-packages|
 |OOMP Index|oompIndex|SOT457W_PHILIPS|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-ref-packages-SOT457W_PHILIPS|
-|Hex ID (short code)|hexID|FZEREFPACKAGESSOT457WPHILIPS|
+|Hex ID (short code)|hexID|FZEREFPSSOT457WPHILIPS|
 |name|name|ref-packages : SOT457W_PHILIPS|
 ||||

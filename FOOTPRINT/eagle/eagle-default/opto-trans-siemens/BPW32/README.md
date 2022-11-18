@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-opto-trans-siemens-BPW32
 - Hex ID: FZEOPTOTRANSSIEMENSBPW32
 - Name: opto-trans-siemens : BPW32
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/opto-trans-siemens/BPW32/
 - Description: opto-trans-siemens : BPW32
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-opto-trans-siemens-BPW32](http://oom.lt/FOOTPRINT-eagle-eagle-default-opto-trans-siemens-BPW32)
 - Short Link: [http://oom.lt/FZEOPTOTRANSSIEMENSBPW32](http://oom.lt/FZEOPTOTRANSSIEMENSBPW32)

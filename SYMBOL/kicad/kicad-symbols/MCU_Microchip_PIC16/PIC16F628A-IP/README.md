@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F628A-IP
 - Hex ID: SZKMCUMCHIPPIC16PIC16F628AIP
 - Name: MCU_Microchip_PIC16 : PIC16F628A-IP
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC16/PIC16F628A-IP/
 - Description: MCU_Microchip_PIC16 : PIC16F628A-IP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F628A-IP](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F628A-IP)
 - Short Link: [http://oom.lt/SZKMCUMCHIPPIC16PIC16F628AIP](http://oom.lt/SZKMCUMCHIPPIC16PIC16F628AIP)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-TPS76330
 - Hex ID: SZKREGULATORLINEARTPS7633
 - Name: Regulator_Linear : TPS76330
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/TPS76330/
 - Description: Regulator_Linear : TPS76330
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-TPS76330](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-TPS76330)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARTPS7633](http://oom.lt/SZKREGULATORLINEARTPS7633)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-TERS-35D-G-PI02-01-ST302G
 - Hex ID: FZOOMPKOOMPPTERS35DGPI21ST32G
 - Name: oomlout_OOMP_parts : TERS-35D-G-PI02-01-ST302G
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/TERS-35D-G-PI02-01-ST302G/
 - Description: oomlout_OOMP_parts : TERS-35D-G-PI02-01-ST302G
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-TERS-35D-G-PI02-01-ST302G](http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-TERS-35D-G-PI02-01-ST302G)
 - Short Link: [http://oom.lt/FZOOMPKOOMPPTERS35DGPI21ST32G](http://oom.lt/FZOOMPKOOMPPTERS35DGPI21ST32G)

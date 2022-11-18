@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Switches-SWITCH_SPDT_8.6X4.3MM_LOCK
 - Hex ID: FZSWSWSPDT86X43L
 - Name: SparkFun-Switches : SWITCH_SPDT_8.6X4.3MM_LOCK
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Switches/SWITCH_SPDT_8.6X4.3MM_LOCK/
 - Description: SparkFun-Switches : SWITCH_SPDT_8.6X4.3MM_LOCK
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Switches-SWITCH_SPDT_8.6X4.3MM_LOCK](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Switches-SWITCH_SPDT_8.6X4.3MM_LOCK)
 - Short Link: [http://oom.lt/FZSWSWSPDT86X43L](http://oom.lt/FZSWSWSPDT86X43L)

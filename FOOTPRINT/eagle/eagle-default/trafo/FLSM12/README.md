@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-trafo-FLSM12
 - Hex ID: FZETRAFOFLSM12
 - Name: trafo : FLSM12
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/trafo/FLSM12/
 - Description: trafo : FLSM12
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-trafo-FLSM12](http://oom.lt/FOOTPRINT-eagle-eagle-default-trafo-FLSM12)
 - Short Link: [http://oom.lt/FZETRAFOFLSM12](http://oom.lt/FZETRAFOFLSM12)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Power_Supervisor-MCP101-300D
 - Hex ID: SZKPOWERSUPERVISORMCP113D
 - Name: Power_Supervisor : MCP101-300D
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Power_Supervisor/MCP101-300D/
 - Description: Power_Supervisor : MCP101-300D
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Supervisor-MCP101-300D](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Supervisor-MCP101-300D)
 - Short Link: [http://oom.lt/SZKPOWERSUPERVISORMCP113D](http://oom.lt/SZKPOWERSUPERVISORMCP113D)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_ST_STM32L4-STM32L452VCTx
 - Hex ID: SZKMCUSTSTM32L4STM32L452VCTX
 - Name: MCU_ST_STM32L4 : STM32L452VCTx
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32L4/STM32L452VCTx/
 - Description: MCU_ST_STM32L4 : STM32L452VCTx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32L4-STM32L452VCTx](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32L4-STM32L452VCTx)
 - Short Link: [http://oom.lt/SZKMCUSTSTM32L4STM32L452VCTX](http://oom.lt/SZKMCUSTSTM32L4STM32L452VCTX)

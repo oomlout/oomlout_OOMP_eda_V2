@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Analog_Switch-DG418LEUA
 - Hex ID: SZKANALOGSWDG418LEUA
 - Name: Analog_Switch : DG418LEUA
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog_Switch/DG418LEUA/
 - Description: Analog_Switch : DG418LEUA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_Switch-DG418LEUA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_Switch-DG418LEUA)
 - Short Link: [http://oom.lt/SZKANALOGSWDG418LEUA](http://oom.lt/SZKANALOGSWDG418LEUA)

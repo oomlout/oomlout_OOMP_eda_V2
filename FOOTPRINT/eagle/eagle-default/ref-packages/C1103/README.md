@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEREFPACKAGESC113 > ref-packages : C1103](#fzerefpackagesc113--ref-packages--c1103)
+* [FZEREFPSC113 > ref-packages : C1103](#fzerefpsc113--ref-packages--c1103)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEREFPACKAGESC113 > ref-packages : C1103
+# FZEREFPSC113 > ref-packages : C1103
 
 - ID: FOOTPRINT-eagle-eagle-default-ref-packages-C1103
-- Hex ID: FZEREFPACKAGESC113
+- Hex ID: FZEREFPSC113
 - Name: ref-packages : C1103
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ref-packages/C1103/
 - Description: ref-packages : C1103
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-C1103](http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-C1103)
-- Short Link: [http://oom.lt/FZEREFPACKAGESC113](http://oom.lt/FZEREFPACKAGESC113)
+- Short Link: [http://oom.lt/FZEREFPSC113](http://oom.lt/FZEREFPSC113)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|ref-packages|
 |OOMP Index|oompIndex|C1103|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-ref-packages-C1103|
-|Hex ID (short code)|hexID|FZEREFPACKAGESC113|
+|Hex ID (short code)|hexID|FZEREFPSC113|
 |name|name|ref-packages : C1103|
 ||||

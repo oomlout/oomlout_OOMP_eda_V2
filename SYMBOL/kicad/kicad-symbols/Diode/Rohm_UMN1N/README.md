@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-Rohm_UMN1N
 - Hex ID: SZKDIODEROHMUMN1N
 - Name: Diode : Rohm_UMN1N
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/Rohm_UMN1N/
 - Description: Diode : Rohm_UMN1N
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-Rohm_UMN1N](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-Rohm_UMN1N)
 - Short Link: [http://oom.lt/SZKDIODEROHMUMN1N](http://oom.lt/SZKDIODEROHMUMN1N)

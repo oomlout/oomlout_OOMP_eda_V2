@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-1X08_LOCK_LONGPADS
 - Hex ID: FZSSPARKFUNCNS1X8LL
 - Name: SparkFun-Connectors : 1X08_LOCK_LONGPADS
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Connectors/1X08_LOCK_LONGPADS/
 - Description: SparkFun-Connectors : 1X08_LOCK_LONGPADS
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-1X08_LOCK_LONGPADS](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-1X08_LOCK_LONGPADS)
 - Short Link: [http://oom.lt/FZSSPARKFUNCNS1X8LL](http://oom.lt/FZSSPARKFUNCNS1X8LL)

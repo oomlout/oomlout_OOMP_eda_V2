@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Device-D_Capacitance_Filled
 - Hex ID: SZKDEVICEDCAPACITANCEFILL
 - Name: Device : D_Capacitance_Filled
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/D_Capacitance_Filled/
 - Description: Device : D_Capacitance_Filled
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-D_Capacitance_Filled](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-D_Capacitance_Filled)
 - Short Link: [http://oom.lt/SZKDEVICEDCAPACITANCEFILL](http://oom.lt/SZKDEVICEDCAPACITANCEFILL)

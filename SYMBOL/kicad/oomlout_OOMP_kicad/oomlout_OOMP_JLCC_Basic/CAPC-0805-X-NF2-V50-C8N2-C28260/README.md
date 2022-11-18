@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0805-X-NF2-V50-C8N2-C28260
 - Hex ID: SZOOMPKJLCCAPC85XNF2V5C8N2C2826
 - Name: oomlout_OOMP_JLCC_Basic : CAPC-0805-X-NF2-V50-C8N2-C28260
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_JLCC_Basic/CAPC-0805-X-NF2-V50-C8N2-C28260/
 - Description: oomlout_OOMP_JLCC_Basic : CAPC-0805-X-NF2-V50-C8N2-C28260
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0805-X-NF2-V50-C8N2-C28260](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0805-X-NF2-V50-C8N2-C28260)
 - Short Link: [http://oom.lt/SZOOMPKJLCCAPC85XNF2V5C8N2C2826](http://oom.lt/SZOOMPKJLCCAPC85XNF2V5C8N2C2826)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Battery_Management-LT3652IMSE
 - Hex ID: SZKBATMANAGEMENTLT3652IMSE
 - Name: Battery_Management : LT3652IMSE
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Battery_Management/LT3652IMSE/
 - Description: Battery_Management : LT3652IMSE
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Battery_Management-LT3652IMSE](http://oom.lt/SYMBOL-kicad-kicad-symbols-Battery_Management-LT3652IMSE)
 - Short Link: [http://oom.lt/SZKBATMANAGEMENTLT3652IMSE](http://oom.lt/SZKBATMANAGEMENTLT3652IMSE)

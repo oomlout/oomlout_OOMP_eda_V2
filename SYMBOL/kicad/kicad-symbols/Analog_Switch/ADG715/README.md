@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Analog_Switch-ADG715
 - Hex ID: SZKANALOGSWADG715
 - Name: Analog_Switch : ADG715
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog_Switch/ADG715/
 - Description: Analog_Switch : ADG715
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_Switch-ADG715](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_Switch-ADG715)
 - Short Link: [http://oom.lt/SZKANALOGSWADG715](http://oom.lt/SZKANALOGSWADG715)

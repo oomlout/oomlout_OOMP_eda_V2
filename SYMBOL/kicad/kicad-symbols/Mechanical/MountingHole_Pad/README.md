@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [SZKMECHANICALHOLPAD > Mechanical : MountingHole_Pad](#szkmechanicalholpad--mechanical--mountinghole_pad)
+* [SZKMECHANICALHOLP > Mechanical : MountingHole_Pad](#szkmechanicalholp--mechanical--mountinghole_pad)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# SZKMECHANICALHOLPAD > Mechanical : MountingHole_Pad
+# SZKMECHANICALHOLP > Mechanical : MountingHole_Pad
 
 - ID: SYMBOL-kicad-kicad-symbols-Mechanical-MountingHole_Pad
-- Hex ID: SZKMECHANICALHOLPAD
+- Hex ID: SZKMECHANICALHOLP
 - Name: Mechanical : MountingHole_Pad
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Mechanical/MountingHole_Pad/
 - Description: Mechanical : MountingHole_Pad
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Mechanical-MountingHole_Pad](http://oom.lt/SYMBOL-kicad-kicad-symbols-Mechanical-MountingHole_Pad)
-- Short Link: [http://oom.lt/SZKMECHANICALHOLPAD](http://oom.lt/SZKMECHANICALHOLPAD)
+- Short Link: [http://oom.lt/SZKMECHANICALHOLP](http://oom.lt/SZKMECHANICALHOLP)
 
 ## Images
   
@@ -36,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Mechanical|
 |OOMP Index|oompIndex|MountingHole_Pad|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Mechanical-MountingHole_Pad|
-|Hex ID (short code)|hexID|SZKMECHANICALHOLPAD|
+|Hex ID (short code)|hexID|SZKMECHANICALHOLP|
 |name|name|Mechanical : MountingHole_Pad|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'H'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MountingHole_Pad'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'mounting hole'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Mounting Hole with connection'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'MountingHole*Pad*'</td></tr></table>]|
 ||||

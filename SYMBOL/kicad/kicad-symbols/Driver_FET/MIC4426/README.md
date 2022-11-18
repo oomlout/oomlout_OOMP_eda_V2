@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Driver_FET-MIC4426
 - Hex ID: SZKDRIVERFETMIC4426
 - Name: Driver_FET : MIC4426
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Driver_FET/MIC4426/
 - Description: Driver_FET : MIC4426
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-MIC4426](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-MIC4426)
 - Short Link: [http://oom.lt/SZKDRIVERFETMIC4426](http://oom.lt/SZKDRIVERFETMIC4426)

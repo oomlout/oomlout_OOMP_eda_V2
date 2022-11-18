@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Power_Management-CAP008DG
 - Hex ID: SZKPOWERMANAGEMENTCAP8DG
 - Name: Power_Management : CAP008DG
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Power_Management/CAP008DG/
 - Description: Power_Management : CAP008DG
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-CAP008DG](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-CAP008DG)
 - Short Link: [http://oom.lt/SZKPOWERMANAGEMENTCAP8DG](http://oom.lt/SZKPOWERMANAGEMENTCAP8DG)

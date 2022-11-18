@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Device-Filter_EMI_CommonMode
 - Hex ID: SZKDEVICEFILEMICOONMODE
 - Name: Device : Filter_EMI_CommonMode
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/Filter_EMI_CommonMode/
 - Description: Device : Filter_EMI_CommonMode
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Filter_EMI_CommonMode](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Filter_EMI_CommonMode)
 - Short Link: [http://oom.lt/SZKDEVICEFILEMICOONMODE](http://oom.lt/SZKDEVICEFILEMICOONMODE)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC18-PIC18F2420-xSP
 - Hex ID: SZKMCUMCHIPPIC18PIC18F242XSP
 - Name: MCU_Microchip_PIC18 : PIC18F2420-xSP
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC18/PIC18F2420-xSP/
 - Description: MCU_Microchip_PIC18 : PIC18F2420-xSP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC18-PIC18F2420-xSP](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC18-PIC18F2420-xSP)
 - Short Link: [http://oom.lt/SZKMCUMCHIPPIC18PIC18F242XSP](http://oom.lt/SZKMCUMCHIPPIC18PIC18F242XSP)

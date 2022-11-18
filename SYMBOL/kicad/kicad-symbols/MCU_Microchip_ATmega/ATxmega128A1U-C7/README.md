@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATxmega128A1U-C7
 - Hex ID: SZKMCUMCHIPATMEGAATXMEGA128A1UC7
 - Name: MCU_Microchip_ATmega : ATxmega128A1U-C7
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_ATmega/ATxmega128A1U-C7/
 - Description: MCU_Microchip_ATmega : ATxmega128A1U-C7
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATxmega128A1U-C7](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATxmega128A1U-C7)
 - Short Link: [http://oom.lt/SZKMCUMCHIPATMEGAATXMEGA128A1UC7](http://oom.lt/SZKMCUMCHIPATMEGAATXMEGA128A1UC7)

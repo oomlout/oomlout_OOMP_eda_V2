@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Connector-AudioJack2_Switch
 - Hex ID: SZKCNAUDIOJ2SW
 - Name: Connector : AudioJack2_Switch
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector/AudioJack2_Switch/
 - Description: Connector : AudioJack2_Switch
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-AudioJack2_Switch](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-AudioJack2_Switch)
 - Short Link: [http://oom.lt/SZKCNAUDIOJ2SW](http://oom.lt/SZKCNAUDIOJ2SW)

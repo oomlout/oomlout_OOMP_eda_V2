@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0805-X-O105-67-R85105A
 - Hex ID: SZOOMPKOOMPPRESE85XO1567R8515A
 - Name: oomlout_OOMP_parts : RESE-0805-X-O105-67-R85105A
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/RESE-0805-X-O105-67-R85105A/
 - Description: oomlout_OOMP_parts : RESE-0805-X-O105-67-R85105A
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0805-X-O105-67-R85105A](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0805-X-O105-67-R85105A)
 - Short Link: [http://oom.lt/SZOOMPKOOMPPRESE85XO1567R8515A](http://oom.lt/SZOOMPKOOMPPRESE85XO1567R8515A)

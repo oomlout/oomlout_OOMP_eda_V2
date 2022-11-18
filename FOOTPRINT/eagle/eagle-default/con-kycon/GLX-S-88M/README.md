@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-kycon-GLX-S-88M
 - Hex ID: FZECONKYCONGLXS88M
 - Name: con-kycon : GLX-S-88M
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-kycon/GLX-S-88M/
 - Description: con-kycon : GLX-S-88M
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-kycon-GLX-S-88M](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-kycon-GLX-S-88M)
 - Short Link: [http://oom.lt/FZECONKYCONGLXS88M](http://oom.lt/FZECONKYCONGLXS88M)

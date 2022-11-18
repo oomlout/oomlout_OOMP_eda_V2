@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-VQFN-48-1EP_7x7mm_P0.5mm_EP4.1x4.1mm
 - Hex ID: FZKDFNVQFN481EP7X7P5EP41X41
 - Name: Package_DFN_QFN : VQFN-48-1EP_7x7mm_P0.5mm_EP4.1x4.1mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/VQFN-48-1EP_7x7mm_P0.5mm_EP4.1x4.1mm/
 - Description: Package_DFN_QFN : VQFN-48-1EP_7x7mm_P0.5mm_EP4.1x4.1mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-VQFN-48-1EP_7x7mm_P0.5mm_EP4.1x4.1mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-VQFN-48-1EP_7x7mm_P0.5mm_EP4.1x4.1mm)
 - Short Link: [http://oom.lt/FZKDFNVQFN481EP7X7P5EP41X41](http://oom.lt/FZKDFNVQFN481EP7X7P5EP41X41)

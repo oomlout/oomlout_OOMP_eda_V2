@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC12-PIC12F635-ISN
 - Hex ID: SZKMCUMCHIPPIC12PIC12F635ISN
 - Name: MCU_Microchip_PIC12 : PIC12F635-ISN
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC12/PIC12F635-ISN/
 - Description: MCU_Microchip_PIC12 : PIC12F635-ISN
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC12-PIC12F635-ISN](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC12-PIC12F635-ISN)
 - Short Link: [http://oom.lt/SZKMCUMCHIPPIC12PIC12F635ISN](http://oom.lt/SZKMCUMCHIPPIC12PIC12F635ISN)

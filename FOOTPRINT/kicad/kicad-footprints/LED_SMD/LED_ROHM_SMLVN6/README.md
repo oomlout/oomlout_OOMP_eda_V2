@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_ROHM_SMLVN6
 - Hex ID: FZKLLROHMSMLVN6
 - Name: LED_SMD : LED_ROHM_SMLVN6
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_ROHM_SMLVN6/
 - Description: LED_SMD : LED_ROHM_SMLVN6
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_ROHM_SMLVN6](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_ROHM_SMLVN6)
 - Short Link: [http://oom.lt/FZKLLROHMSMLVN6](http://oom.lt/FZKLLROHMSMLVN6)

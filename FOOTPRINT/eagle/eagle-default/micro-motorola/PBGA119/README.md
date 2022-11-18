@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-micro-motorola-PBGA119
 - Hex ID: FZEMMOTOROLAPBGA119
 - Name: micro-motorola : PBGA119
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/micro-motorola/PBGA119/
 - Description: micro-motorola : PBGA119
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-motorola-PBGA119](http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-motorola-PBGA119)
 - Short Link: [http://oom.lt/FZEMMOTOROLAPBGA119](http://oom.lt/FZEMMOTOROLAPBGA119)

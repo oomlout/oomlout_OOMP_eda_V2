@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-BD90GA5WEFJ
 - Hex ID: SZKREGULATORLINEARBD9GA5WEFJ
 - Name: Regulator_Linear : BD90GA5WEFJ
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/BD90GA5WEFJ/
 - Description: Regulator_Linear : BD90GA5WEFJ
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-BD90GA5WEFJ](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-BD90GA5WEFJ)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARBD9GA5WEFJ](http://oom.lt/SZKREGULATORLINEARBD9GA5WEFJ)

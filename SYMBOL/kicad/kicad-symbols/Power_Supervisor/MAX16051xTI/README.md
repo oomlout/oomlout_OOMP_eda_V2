@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Power_Supervisor-MAX16051xTI
 - Hex ID: SZKPOWERSUPERVISORMAX1651XTI
 - Name: Power_Supervisor : MAX16051xTI
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Power_Supervisor/MAX16051xTI/
 - Description: Power_Supervisor : MAX16051xTI
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Supervisor-MAX16051xTI](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Supervisor-MAX16051xTI)
 - Short Link: [http://oom.lt/SZKPOWERSUPERVISORMAX1651XTI](http://oom.lt/SZKPOWERSUPERVISORMAX1651XTI)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Potentiometer_Digital-MAX5436
 - Hex ID: SZKPOTDIGITALMAX5436
 - Name: Potentiometer_Digital : MAX5436
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Potentiometer_Digital/MAX5436/
 - Description: Potentiometer_Digital : MAX5436
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Potentiometer_Digital-MAX5436](http://oom.lt/SYMBOL-kicad-kicad-symbols-Potentiometer_Digital-MAX5436)
 - Short Link: [http://oom.lt/SZKPOTDIGITALMAX5436](http://oom.lt/SZKPOTDIGITALMAX5436)

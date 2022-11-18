@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-fuse-F456
 - Hex ID: FZEFUF456
 - Name: fuse : F456
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/fuse/F456/
 - Description: fuse : F456
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-fuse-F456](http://oom.lt/FOOTPRINT-eagle-eagle-default-fuse-F456)
 - Short Link: [http://oom.lt/FZEFUF456](http://oom.lt/FZEFUF456)

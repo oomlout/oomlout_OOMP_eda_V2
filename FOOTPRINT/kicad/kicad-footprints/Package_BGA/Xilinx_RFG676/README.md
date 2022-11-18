@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_BGA-Xilinx_RFG676
 - Hex ID: FZKBGAXILINXRFG676
 - Name: Package_BGA : Xilinx_RFG676
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_BGA/Xilinx_RFG676/
 - Description: Package_BGA : Xilinx_RFG676
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_BGA-Xilinx_RFG676](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_BGA-Xilinx_RFG676)
 - Short Link: [http://oom.lt/FZKBGAXILINXRFG676](http://oom.lt/FZKBGAXILINXRFG676)

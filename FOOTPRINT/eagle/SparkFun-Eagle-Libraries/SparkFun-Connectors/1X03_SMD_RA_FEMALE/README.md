@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-1X03_SMD_RA_FEMALE
 - Hex ID: FZSSPARKFUNCNS1X3SMRAF
 - Name: SparkFun-Connectors : 1X03_SMD_RA_FEMALE
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Connectors/1X03_SMD_RA_FEMALE/
 - Description: SparkFun-Connectors : 1X03_SMD_RA_FEMALE
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-1X03_SMD_RA_FEMALE](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-1X03_SMD_RA_FEMALE)
 - Short Link: [http://oom.lt/FZSSPARKFUNCNS1X3SMRAF](http://oom.lt/FZSSPARKFUNCNS1X3SMRAF)

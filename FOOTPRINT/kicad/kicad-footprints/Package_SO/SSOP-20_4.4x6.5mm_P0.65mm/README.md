@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_SO-SSOP-20_4.4x6.5mm_P0.65mm
 - Hex ID: FZKSOSS244X65P65
 - Name: Package_SO : SSOP-20_4.4x6.5mm_P0.65mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SO/SSOP-20_4.4x6.5mm_P0.65mm/
 - Description: Package_SO : SSOP-20_4.4x6.5mm_P0.65mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SO-SSOP-20_4.4x6.5mm_P0.65mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SO-SSOP-20_4.4x6.5mm_P0.65mm)
 - Short Link: [http://oom.lt/FZKSOSS244X65P65](http://oom.lt/FZKSOSS244X65P65)

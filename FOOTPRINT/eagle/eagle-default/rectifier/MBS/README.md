@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-rectifier-MBS
 - Hex ID: FZERECTIFIERMBS
 - Name: rectifier : MBS
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/rectifier/MBS/
 - Description: rectifier : MBS
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-rectifier-MBS](http://oom.lt/FOOTPRINT-eagle-eagle-default-rectifier-MBS)
 - Short Link: [http://oom.lt/FZERECTIFIERMBS](http://oom.lt/FZERECTIFIERMBS)

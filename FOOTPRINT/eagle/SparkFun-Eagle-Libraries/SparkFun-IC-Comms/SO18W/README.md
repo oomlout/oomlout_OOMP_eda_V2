@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Comms-SO18W
 - Hex ID: FZSICSO18W
 - Name: SparkFun-IC-Comms : SO18W
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-IC-Comms/SO18W/
 - Description: SparkFun-IC-Comms : SO18W
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Comms-SO18W](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Comms-SO18W)
 - Short Link: [http://oom.lt/FZSICSO18W](http://oom.lt/FZSICSO18W)

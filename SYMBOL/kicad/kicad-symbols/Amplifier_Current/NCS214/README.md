@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Current-NCS214
 - Hex ID: SZKAMPLIFIERCURRENTNCS214
 - Name: Amplifier_Current : NCS214
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Current/NCS214/
 - Description: Amplifier_Current : NCS214
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Current-NCS214](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Current-NCS214)
 - Short Link: [http://oom.lt/SZKAMPLIFIERCURRENTNCS214](http://oom.lt/SZKAMPLIFIERCURRENTNCS214)

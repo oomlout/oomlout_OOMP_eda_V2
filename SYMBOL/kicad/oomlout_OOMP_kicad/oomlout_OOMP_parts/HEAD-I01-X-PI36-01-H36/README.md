@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-I01-X-PI36-01-H36
 - Hex ID: SZOOMPKOOMPPHEADI1XPI361H36
 - Name: oomlout_OOMP_parts : HEAD-I01-X-PI36-01-H36
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/HEAD-I01-X-PI36-01-H36/
 - Description: oomlout_OOMP_parts : HEAD-I01-X-PI36-01-H36
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-I01-X-PI36-01-H36](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-I01-X-PI36-01-H36)
 - Short Link: [http://oom.lt/SZOOMPKOOMPPHEADI1XPI361H36](http://oom.lt/SZOOMPKOOMPPHEADI1XPI361H36)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0805-X-O750-67-R85750A
 - Hex ID: SZOOMPKOOMPPRESE85XO7567R8575A
 - Name: oomlout_OOMP_parts : RESE-0805-X-O750-67-R85750A
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/RESE-0805-X-O750-67-R85750A/
 - Description: oomlout_OOMP_parts : RESE-0805-X-O750-67-R85750A
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0805-X-O750-67-R85750A](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0805-X-O750-67-R85750A)
 - Short Link: [http://oom.lt/SZOOMPKOOMPPRESE85XO7567R8575A](http://oom.lt/SZOOMPKOOMPPRESE85XO7567R8575A)

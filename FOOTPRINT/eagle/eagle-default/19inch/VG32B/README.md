@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-19inch-VG32B
 - Hex ID: FZE19INCHVG32B
 - Name: 19inch : VG32B
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/19inch/VG32B/
 - Description: 19inch : VG32B
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-19inch-VG32B](http://oom.lt/FOOTPRINT-eagle-eagle-default-19inch-VG32B)
 - Short Link: [http://oom.lt/FZE19INCHVG32B](http://oom.lt/FZE19INCHVG32B)

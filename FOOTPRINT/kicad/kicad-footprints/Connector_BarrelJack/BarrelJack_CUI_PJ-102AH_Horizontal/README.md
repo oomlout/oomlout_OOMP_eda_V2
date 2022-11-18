@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_BarrelJack-BarrelJack_CUI_PJ-102AH_Horizontal
 - Hex ID: FZKCNBARRELJBARRELJCUIPJ12AHH
 - Name: Connector_BarrelJack : BarrelJack_CUI_PJ-102AH_Horizontal
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_BarrelJack/BarrelJack_CUI_PJ-102AH_Horizontal/
 - Description: Connector_BarrelJack : BarrelJack_CUI_PJ-102AH_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_BarrelJack-BarrelJack_CUI_PJ-102AH_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_BarrelJack-BarrelJack_CUI_PJ-102AH_Horizontal)
 - Short Link: [http://oom.lt/FZKCNBARRELJBARRELJCUIPJ12AHH](http://oom.lt/FZKCNBARRELJBARRELJCUIPJ12AHH)

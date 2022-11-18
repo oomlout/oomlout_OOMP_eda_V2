@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEREFPACKAGESLONGPADPGA145 > ref-packages-longpad : PGA145](#fzerefpackageslongpadpga145--ref-packages-longpad--pga145)
+* [FZEREFPSLPPGA145 > ref-packages-longpad : PGA145](#fzerefpslppga145--ref-packages-longpad--pga145)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEREFPACKAGESLONGPADPGA145 > ref-packages-longpad : PGA145
+# FZEREFPSLPPGA145 > ref-packages-longpad : PGA145
 
 - ID: FOOTPRINT-eagle-eagle-default-ref-packages-longpad-PGA145
-- Hex ID: FZEREFPACKAGESLONGPADPGA145
+- Hex ID: FZEREFPSLPPGA145
 - Name: ref-packages-longpad : PGA145
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ref-packages-longpad/PGA145/
 - Description: ref-packages-longpad : PGA145
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-longpad-PGA145](http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-longpad-PGA145)
-- Short Link: [http://oom.lt/FZEREFPACKAGESLONGPADPGA145](http://oom.lt/FZEREFPACKAGESLONGPADPGA145)
+- Short Link: [http://oom.lt/FZEREFPSLPPGA145](http://oom.lt/FZEREFPSLPPGA145)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|ref-packages-longpad|
 |OOMP Index|oompIndex|PGA145|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-ref-packages-longpad-PGA145|
-|Hex ID (short code)|hexID|FZEREFPACKAGESLONGPADPGA145|
+|Hex ID (short code)|hexID|FZEREFPSLPPGA145|
 |name|name|ref-packages-longpad : PGA145|
 ||||

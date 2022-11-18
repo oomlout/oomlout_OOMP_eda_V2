@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Buzzer_Beeper-Buzzer_CUI_CPT-9019S-SMT
 - Hex ID: FZKBZBUZZERCUICPT919SS
 - Name: Buzzer_Beeper : Buzzer_CUI_CPT-9019S-SMT
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Buzzer_Beeper/Buzzer_CUI_CPT-9019S-SMT/
 - Description: Buzzer_Beeper : Buzzer_CUI_CPT-9019S-SMT
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Buzzer_Beeper-Buzzer_CUI_CPT-9019S-SMT](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Buzzer_Beeper-Buzzer_CUI_CPT-9019S-SMT)
 - Short Link: [http://oom.lt/FZKBZBUZZERCUICPT919SS](http://oom.lt/FZKBZBUZZERCUICPT919SS)

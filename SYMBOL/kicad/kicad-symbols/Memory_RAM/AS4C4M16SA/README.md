@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Memory_RAM-AS4C4M16SA
 - Hex ID: SZKMEMORYRAMAS4C4M16SA
 - Name: Memory_RAM : AS4C4M16SA
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Memory_RAM/AS4C4M16SA/
 - Description: Memory_RAM : AS4C4M16SA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_RAM-AS4C4M16SA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_RAM-AS4C4M16SA)
 - Short Link: [http://oom.lt/SZKMEMORYRAMAS4C4M16SA](http://oom.lt/SZKMEMORYRAMAS4C4M16SA)

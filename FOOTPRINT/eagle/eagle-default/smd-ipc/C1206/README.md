@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-smd-ipc-C1206
 - Hex ID: FZESMIPCC126
 - Name: smd-ipc : C1206
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/smd-ipc/C1206/
 - Description: smd-ipc : C1206
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-C1206](http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-C1206)
 - Short Link: [http://oom.lt/FZESMIPCC126](http://oom.lt/FZESMIPCC126)

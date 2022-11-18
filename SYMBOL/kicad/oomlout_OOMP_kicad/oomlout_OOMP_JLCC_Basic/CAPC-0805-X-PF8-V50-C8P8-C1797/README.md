@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0805-X-PF8-V50-C8P8-C1797
 - Hex ID: SZOOMPKJLCCAPC85XPF8V5C8P8C1797
 - Name: oomlout_OOMP_JLCC_Basic : CAPC-0805-X-PF8-V50-C8P8-C1797
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_JLCC_Basic/CAPC-0805-X-PF8-V50-C8P8-C1797/
 - Description: oomlout_OOMP_JLCC_Basic : CAPC-0805-X-PF8-V50-C8P8-C1797
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0805-X-PF8-V50-C8P8-C1797](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0805-X-PF8-V50-C8P8-C1797)
 - Short Link: [http://oom.lt/SZOOMPKJLCCAPC85XPF8V5C8P8C1797](http://oom.lt/SZOOMPKJLCCAPC85XPF8V5C8P8C1797)

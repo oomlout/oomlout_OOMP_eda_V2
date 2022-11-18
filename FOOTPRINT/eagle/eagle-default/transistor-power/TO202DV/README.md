@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-transistor-power-TO202DV
 - Hex ID: FZETRANSISTORPOWERTO22DV
 - Name: transistor-power : TO202DV
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/transistor-power/TO202DV/
 - Description: transistor-power : TO202DV
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-power-TO202DV](http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-power-TO202DV)
 - Short Link: [http://oom.lt/FZETRANSISTORPOWERTO22DV](http://oom.lt/FZETRANSISTORPOWERTO22DV)

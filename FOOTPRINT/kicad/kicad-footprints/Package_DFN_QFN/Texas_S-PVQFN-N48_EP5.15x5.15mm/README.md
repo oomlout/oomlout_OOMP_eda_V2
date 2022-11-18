@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Texas_S-PVQFN-N48_EP5.15x5.15mm
 - Hex ID: FZKDFNTEXASSPVQFNN48EP515X515
 - Name: Package_DFN_QFN : Texas_S-PVQFN-N48_EP5.15x5.15mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/Texas_S-PVQFN-N48_EP5.15x5.15mm/
 - Description: Package_DFN_QFN : Texas_S-PVQFN-N48_EP5.15x5.15mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Texas_S-PVQFN-N48_EP5.15x5.15mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Texas_S-PVQFN-N48_EP5.15x5.15mm)
 - Short Link: [http://oom.lt/FZKDFNTEXASSPVQFNN48EP515X515](http://oom.lt/FZKDFNTEXASSPVQFNN48EP515X515)

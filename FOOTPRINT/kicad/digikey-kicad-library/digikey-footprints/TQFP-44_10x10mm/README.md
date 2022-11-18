@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-TQFP-44_10x10mm
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSTQFP441X1
 - Name: digikey-footprints : TQFP-44_10x10mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/TQFP-44_10x10mm/
 - Description: digikey-footprints : TQFP-44_10x10mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-TQFP-44_10x10mm](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-TQFP-44_10x10mm)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSTQFP441X1](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSTQFP441X1)

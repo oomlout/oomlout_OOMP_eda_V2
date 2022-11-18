@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-micrel-MLF44
 - Hex ID: FZEMICRELMLF44
 - Name: micrel : MLF44
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/micrel/MLF44/
 - Description: micrel : MLF44
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-micrel-MLF44](http://oom.lt/FOOTPRINT-eagle-eagle-default-micrel-MLF44)
 - Short Link: [http://oom.lt/FZEMICRELMLF44](http://oom.lt/FZEMICRELMLF44)

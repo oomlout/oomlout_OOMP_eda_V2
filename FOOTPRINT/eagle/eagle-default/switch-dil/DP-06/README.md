@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-switch-dil-DP-06
 - Hex ID: FZESWDILDP6
 - Name: switch-dil : DP-06
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/switch-dil/DP-06/
 - Description: switch-dil : DP-06
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-dil-DP-06](http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-dil-DP-06)
 - Short Link: [http://oom.lt/FZESWDILDP6](http://oom.lt/FZESWDILDP6)

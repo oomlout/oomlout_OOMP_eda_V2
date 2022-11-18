@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Diode_SMD-Diode_Bridge_Diotec_MicroDil_3.0x3.0x1.8mm
 - Hex ID: FZKDDIODEBRIDGEDIOTECMDIL3X3X18
 - Name: Diode_SMD : Diode_Bridge_Diotec_MicroDil_3.0x3.0x1.8mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Diode_SMD/Diode_Bridge_Diotec_MicroDil_3.0x3.0x1.8mm/
 - Description: Diode_SMD : Diode_Bridge_Diotec_MicroDil_3.0x3.0x1.8mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Diode_SMD-Diode_Bridge_Diotec_MicroDil_3.0x3.0x1.8mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Diode_SMD-Diode_Bridge_Diotec_MicroDil_3.0x3.0x1.8mm)
 - Short Link: [http://oom.lt/FZKDDIODEBRIDGEDIOTECMDIL3X3X18](http://oom.lt/FZKDDIODEBRIDGEDIOTECMDIL3X3X18)

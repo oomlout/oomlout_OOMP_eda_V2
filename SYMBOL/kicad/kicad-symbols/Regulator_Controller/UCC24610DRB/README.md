@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Controller-UCC24610DRB
 - Hex ID: SZKREGULATORCONTROLLERUCC2461DRB
 - Name: Regulator_Controller : UCC24610DRB
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Controller/UCC24610DRB/
 - Description: Regulator_Controller : UCC24610DRB
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Controller-UCC24610DRB](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Controller-UCC24610DRB)
 - Short Link: [http://oom.lt/SZKREGULATORCONTROLLERUCC2461DRB](http://oom.lt/SZKREGULATORCONTROLLERUCC2461DRB)

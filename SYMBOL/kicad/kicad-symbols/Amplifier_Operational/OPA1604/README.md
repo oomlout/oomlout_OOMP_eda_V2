@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-OPA1604
 - Hex ID: SZKAMPLIFIEROPERATIONALOPA164
 - Name: Amplifier_Operational : OPA1604
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/OPA1604/
 - Description: Amplifier_Operational : OPA1604
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-OPA1604](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-OPA1604)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALOPA164](http://oom.lt/SZKAMPLIFIEROPERATIONALOPA164)

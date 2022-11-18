@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-ODFN-6
 - Hex ID: FZSSPARKFUNSENSODFN6
 - Name: SparkFun-Sensors : ODFN-6
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Sensors/ODFN-6/
 - Description: SparkFun-Sensors : ODFN-6
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-ODFN-6](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-ODFN-6)
 - Short Link: [http://oom.lt/FZSSPARKFUNSENSODFN6](http://oom.lt/FZSSPARKFUNSENSODFN6)

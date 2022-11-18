@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEREFPACKAGESLONGPADPLCC42 > ref-packages-longpad : P-LCC-4_2](#fzerefpackageslongpadplcc42--ref-packages-longpad--p-lcc-4_2)
+* [FZEREFPSLPPLCC42 > ref-packages-longpad : P-LCC-4_2](#fzerefpslpplcc42--ref-packages-longpad--p-lcc-4_2)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEREFPACKAGESLONGPADPLCC42 > ref-packages-longpad : P-LCC-4_2
+# FZEREFPSLPPLCC42 > ref-packages-longpad : P-LCC-4_2
 
 - ID: FOOTPRINT-eagle-eagle-default-ref-packages-longpad-P-LCC-4_2
-- Hex ID: FZEREFPACKAGESLONGPADPLCC42
+- Hex ID: FZEREFPSLPPLCC42
 - Name: ref-packages-longpad : P-LCC-4_2
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ref-packages-longpad/P-LCC-4_2/
 - Description: ref-packages-longpad : P-LCC-4_2
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-longpad-P-LCC-4_2](http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-longpad-P-LCC-4_2)
-- Short Link: [http://oom.lt/FZEREFPACKAGESLONGPADPLCC42](http://oom.lt/FZEREFPACKAGESLONGPADPLCC42)
+- Short Link: [http://oom.lt/FZEREFPSLPPLCC42](http://oom.lt/FZEREFPSLPPLCC42)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|ref-packages-longpad|
 |OOMP Index|oompIndex|P-LCC-4_2|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-ref-packages-longpad-P-LCC-4_2|
-|Hex ID (short code)|hexID|FZEREFPACKAGESLONGPADPLCC42|
+|Hex ID (short code)|hexID|FZEREFPSLPPLCC42|
 |name|name|ref-packages-longpad : P-LCC-4_2|
 ||||

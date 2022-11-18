@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_2512_6332Metric
 - Hex ID: FZKINL25126332VA
 - Name: Inductor_SMD : L_2512_6332Metric
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_2512_6332Metric/
 - Description: Inductor_SMD : L_2512_6332Metric
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_2512_6332Metric](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_2512_6332Metric)
 - Short Link: [http://oom.lt/FZKINL25126332VA](http://oom.lt/FZKINL25126332VA)

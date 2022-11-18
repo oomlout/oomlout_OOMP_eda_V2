@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_Yuji_5730
 - Hex ID: FZKLLYUJI573
 - Name: LED_SMD : LED_Yuji_5730
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_Yuji_5730/
 - Description: LED_SMD : LED_Yuji_5730
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_Yuji_5730](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_Yuji_5730)
 - Short Link: [http://oom.lt/FZKLLYUJI573](http://oom.lt/FZKLLYUJI573)

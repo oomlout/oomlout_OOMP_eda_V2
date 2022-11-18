@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-LED-SFH482
 - Hex ID: SZKLSFH482
 - Name: LED : SFH482
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/LED/SFH482/
 - Description: LED : SFH482
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-LED-SFH482](http://oom.lt/SYMBOL-kicad-kicad-symbols-LED-SFH482)
 - Short Link: [http://oom.lt/SZKLSFH482](http://oom.lt/SZKLSFH482)

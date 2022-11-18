@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F4-STM32F439BGTx
 - Hex ID: SZKMCUSTSTM32F4STM32F439BGTX
 - Name: MCU_ST_STM32F4 : STM32F439BGTx
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32F4/STM32F439BGTx/
 - Description: MCU_ST_STM32F4 : STM32F439BGTx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F4-STM32F439BGTx](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F4-STM32F439BGTx)
 - Short Link: [http://oom.lt/SZKMCUSTSTM32F4STM32F439BGTX](http://oom.lt/SZKMCUSTSTM32F4STM32F439BGTX)

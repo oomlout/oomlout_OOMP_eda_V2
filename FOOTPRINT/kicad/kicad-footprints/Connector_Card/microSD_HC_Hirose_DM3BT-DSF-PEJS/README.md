@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_Card-microSD_HC_Hirose_DM3BT-DSF-PEJS
 - Hex ID: FZKCNCARDMSDHCHIROSEDM3BTDSFPEJS
 - Name: Connector_Card : microSD_HC_Hirose_DM3BT-DSF-PEJS
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Card/microSD_HC_Hirose_DM3BT-DSF-PEJS/
 - Description: Connector_Card : microSD_HC_Hirose_DM3BT-DSF-PEJS
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Card-microSD_HC_Hirose_DM3BT-DSF-PEJS](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Card-microSD_HC_Hirose_DM3BT-DSF-PEJS)
 - Short Link: [http://oom.lt/FZKCNCARDMSDHCHIROSEDM3BTDSFPEJS](http://oom.lt/FZKCNCARDMSDHCHIROSEDM3BTDSFPEJS)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-analog-devices-TSSOP28
 - Hex ID: FZEANALOGDEVICESTSS28
 - Name: analog-devices : TSSOP28
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/analog-devices/TSSOP28/
 - Description: analog-devices : TSSOP28
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-analog-devices-TSSOP28](http://oom.lt/FOOTPRINT-eagle-eagle-default-analog-devices-TSSOP28)
 - Short Link: [http://oom.lt/FZEANALOGDEVICESTSS28](http://oom.lt/FZEANALOGDEVICESTSS28)

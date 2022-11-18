@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SMD-14_Grideye
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSSM14GRIDEYE
 - Name: digikey-footprints : SMD-14_Grideye
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/SMD-14_Grideye/
 - Description: digikey-footprints : SMD-14_Grideye
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SMD-14_Grideye](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SMD-14_Grideye)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSSM14GRIDEYE](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSSM14GRIDEYE)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-LED-LED-0603
 - Hex ID: FZSLL63
 - Name: SparkFun-LED : LED-0603
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-LED/LED-0603/
 - Description: SparkFun-LED : LED-0603
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-LED-LED-0603](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-LED-LED-0603)
 - Short Link: [http://oom.lt/FZSLL63](http://oom.lt/FZSLL63)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-RF-Skyworks_SKY13575_639LF
 - Hex ID: FZKRFSKYWORKSSKY13575639LF
 - Name: RF : Skyworks_SKY13575_639LF
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/RF/Skyworks_SKY13575_639LF/
 - Description: RF : Skyworks_SKY13575_639LF
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF-Skyworks_SKY13575_639LF](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF-Skyworks_SKY13575_639LF)
 - Short Link: [http://oom.lt/FZKRFSKYWORKSSKY13575639LF](http://oom.lt/FZKRFSKYWORKSSKY13575639LF)

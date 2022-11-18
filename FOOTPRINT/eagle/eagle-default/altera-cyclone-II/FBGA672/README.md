@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-altera-cyclone-II-FBGA672
 - Hex ID: FZEALTERACYCLONEIIFBGA672
 - Name: altera-cyclone-II : FBGA672
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/altera-cyclone-II/FBGA672/
 - Description: altera-cyclone-II : FBGA672
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-altera-cyclone-II-FBGA672](http://oom.lt/FOOTPRINT-eagle-eagle-default-altera-cyclone-II-FBGA672)
 - Short Link: [http://oom.lt/FZEALTERACYCLONEIIFBGA672](http://oom.lt/FZEALTERACYCLONEIIFBGA672)

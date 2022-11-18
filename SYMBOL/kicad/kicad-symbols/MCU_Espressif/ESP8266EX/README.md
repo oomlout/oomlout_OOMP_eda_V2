@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Espressif-ESP8266EX
 - Hex ID: SZKMCUESPRESSIFESP8266EX
 - Name: MCU_Espressif : ESP8266EX
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Espressif/ESP8266EX/
 - Description: MCU_Espressif : ESP8266EX
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Espressif-ESP8266EX](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Espressif-ESP8266EX)
 - Short Link: [http://oom.lt/SZKMCUESPRESSIFESP8266EX](http://oom.lt/SZKMCUESPRESSIFESP8266EX)

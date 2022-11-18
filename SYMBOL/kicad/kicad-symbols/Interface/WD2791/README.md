@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface-WD2791
 - Hex ID: SZKINTERFACEWD2791
 - Name: Interface : WD2791
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface/WD2791/
 - Description: Interface : WD2791
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-WD2791](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-WD2791)
 - Short Link: [http://oom.lt/SZKINTERFACEWD2791](http://oom.lt/SZKINTERFACEWD2791)

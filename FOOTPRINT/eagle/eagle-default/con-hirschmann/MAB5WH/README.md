@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-hirschmann-MAB5WH
 - Hex ID: FZECONHIRSCHMANNMAB5WH
 - Name: con-hirschmann : MAB5WH
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-hirschmann/MAB5WH/
 - Description: con-hirschmann : MAB5WH
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-hirschmann-MAB5WH](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-hirschmann-MAB5WH)
 - Short Link: [http://oom.lt/FZECONHIRSCHMANNMAB5WH](http://oom.lt/FZECONHIRSCHMANNMAB5WH)

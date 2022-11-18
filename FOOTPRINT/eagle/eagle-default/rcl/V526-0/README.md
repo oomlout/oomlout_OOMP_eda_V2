@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-rcl-V526-0
 - Hex ID: FZERCLV526
 - Name: rcl : V526-0
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/rcl/V526-0/
 - Description: rcl : V526-0
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-V526-0](http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-V526-0)
 - Short Link: [http://oom.lt/FZERCLV526](http://oom.lt/FZERCLV526)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SOD-80
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSSOD8
 - Name: digikey-footprints : SOD-80
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/SOD-80/
 - Description: digikey-footprints : SOD-80
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SOD-80](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SOD-80)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSSOD8](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSSOD8)

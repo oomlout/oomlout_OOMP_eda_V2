@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-trafo-FT14-30
 - Hex ID: FZETRAFOFT143
 - Name: trafo : FT14-30
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/trafo/FT14-30/
 - Description: trafo : FT14-30
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-trafo-FT14-30](http://oom.lt/FOOTPRINT-eagle-eagle-default-trafo-FT14-30)
 - Short Link: [http://oom.lt/FZETRAFOFT143](http://oom.lt/FZETRAFOFT143)

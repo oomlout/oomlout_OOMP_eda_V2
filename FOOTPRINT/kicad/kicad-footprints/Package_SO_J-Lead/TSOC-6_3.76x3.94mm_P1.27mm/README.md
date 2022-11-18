@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_SO_J-Lead-TSOC-6_3.76x3.94mm_P1.27mm
 - Hex ID: FZKSOJLEADTSOC6376X394P127
 - Name: Package_SO_J-Lead : TSOC-6_3.76x3.94mm_P1.27mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SO_J-Lead/TSOC-6_3.76x3.94mm_P1.27mm/
 - Description: Package_SO_J-Lead : TSOC-6_3.76x3.94mm_P1.27mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SO_J-Lead-TSOC-6_3.76x3.94mm_P1.27mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SO_J-Lead-TSOC-6_3.76x3.94mm_P1.27mm)
 - Short Link: [http://oom.lt/FZKSOJLEADTSOC6376X394P127](http://oom.lt/FZKSOJLEADTSOC6376X394P127)

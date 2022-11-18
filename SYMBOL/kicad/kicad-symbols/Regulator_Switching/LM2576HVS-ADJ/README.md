@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-LM2576HVS-ADJ
 - Hex ID: SZKREGULATORSWINGLM2576HVSADJ
 - Name: Regulator_Switching : LM2576HVS-ADJ
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/LM2576HVS-ADJ/
 - Description: Regulator_Switching : LM2576HVS-ADJ
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LM2576HVS-ADJ](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LM2576HVS-ADJ)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGLM2576HVSADJ](http://oom.lt/SZKREGULATORSWINGLM2576HVSADJ)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Connector-USB3_B
 - Hex ID: SZKCNU3B
 - Name: Connector : USB3_B
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector/USB3_B/
 - Description: Connector : USB3_B
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-USB3_B](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-USB3_B)
 - Short Link: [http://oom.lt/SZKCNU3B](http://oom.lt/SZKCNU3B)

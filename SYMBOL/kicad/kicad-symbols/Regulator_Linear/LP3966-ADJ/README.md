@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-LP3966-ADJ
 - Hex ID: SZKREGULATORLINEARLP3966ADJ
 - Name: Regulator_Linear : LP3966-ADJ
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LP3966-ADJ/
 - Description: Regulator_Linear : LP3966-ADJ
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LP3966-ADJ](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LP3966-ADJ)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARLP3966ADJ](http://oom.lt/SZKREGULATORLINEARLP3966ADJ)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Analog_DAC-LTC1446L
 - Hex ID: SZKANALOGDACLTC1446L
 - Name: Analog_DAC : LTC1446L
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog_DAC/LTC1446L/
 - Description: Analog_DAC : LTC1446L
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_DAC-LTC1446L](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_DAC-LTC1446L)
 - Short Link: [http://oom.lt/SZKANALOGDACLTC1446L](http://oom.lt/SZKANALOGDACLTC1446L)

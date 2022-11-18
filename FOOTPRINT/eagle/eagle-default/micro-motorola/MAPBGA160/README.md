@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-micro-motorola-MAPBGA160
 - Hex ID: FZEMMOTOROLAMAPBGA16
 - Name: micro-motorola : MAPBGA160
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/micro-motorola/MAPBGA160/
 - Description: micro-motorola : MAPBGA160
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-motorola-MAPBGA160](http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-motorola-MAPBGA160)
 - Short Link: [http://oom.lt/FZEMMOTOROLAMAPBGA16](http://oom.lt/FZEMMOTOROLAMAPBGA16)

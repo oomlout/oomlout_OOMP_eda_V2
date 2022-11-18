@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-national-semiconductor-TSSOP16
 - Hex ID: FZENATIONALSEMICONDUCTORTSS16
 - Name: national-semiconductor : TSSOP16
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/national-semiconductor/TSSOP16/
 - Description: national-semiconductor : TSSOP16
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-national-semiconductor-TSSOP16](http://oom.lt/FOOTPRINT-eagle-eagle-default-national-semiconductor-TSSOP16)
 - Short Link: [http://oom.lt/FZENATIONALSEMICONDUCTORTSS16](http://oom.lt/FZENATIONALSEMICONDUCTORTSS16)

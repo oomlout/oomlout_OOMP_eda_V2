@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-74ttl-din-DIL16
 - Hex ID: FZE74TTLDINDIL16
 - Name: 74ttl-din : DIL16
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/74ttl-din/DIL16/
 - Description: 74ttl-din : DIL16
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-74ttl-din-DIL16](http://oom.lt/FOOTPRINT-eagle-eagle-default-74ttl-din-DIL16)
 - Short Link: [http://oom.lt/FZE74TTLDINDIL16](http://oom.lt/FZE74TTLDINDIL16)

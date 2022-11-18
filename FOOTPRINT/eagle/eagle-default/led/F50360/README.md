@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-led-F50360
 - Hex ID: FZELF536
 - Name: led : F50360
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/led/F50360/
 - Description: led : F50360
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-led-F50360](http://oom.lt/FOOTPRINT-eagle-eagle-default-led-F50360)
 - Short Link: [http://oom.lt/FZELF536](http://oom.lt/FZELF536)

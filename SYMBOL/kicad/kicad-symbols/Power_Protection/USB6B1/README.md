@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Power_Protection-USB6B1
 - Hex ID: SZKPOWERPROTECTIONU6B1
 - Name: Power_Protection : USB6B1
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Power_Protection/USB6B1/
 - Description: Power_Protection : USB6B1
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Protection-USB6B1](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Protection-USB6B1)
 - Short Link: [http://oom.lt/SZKPOWERPROTECTIONU6B1](http://oom.lt/SZKPOWERPROTECTIONU6B1)

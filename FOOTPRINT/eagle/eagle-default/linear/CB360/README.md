@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-linear-CB360
 - Hex ID: FZELINEARCB36
 - Name: linear : CB360
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/linear/CB360/
 - Description: linear : CB360
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-linear-CB360](http://oom.lt/FOOTPRINT-eagle-eagle-default-linear-CB360)
 - Short Link: [http://oom.lt/FZELINEARCB36](http://oom.lt/FZELINEARCB36)

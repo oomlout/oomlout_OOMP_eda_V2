@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEREFPACKAGESLONGPADRTRIM334W > ref-packages-longpad : RTRIM3304W](#fzerefpackageslongpadrtrim334w--ref-packages-longpad--rtrim3304w)
+* [FZEREFPSLPRTRIM334W > ref-packages-longpad : RTRIM3304W](#fzerefpslprtrim334w--ref-packages-longpad--rtrim3304w)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEREFPACKAGESLONGPADRTRIM334W > ref-packages-longpad : RTRIM3304W
+# FZEREFPSLPRTRIM334W > ref-packages-longpad : RTRIM3304W
 
 - ID: FOOTPRINT-eagle-eagle-default-ref-packages-longpad-RTRIM3304W
-- Hex ID: FZEREFPACKAGESLONGPADRTRIM334W
+- Hex ID: FZEREFPSLPRTRIM334W
 - Name: ref-packages-longpad : RTRIM3304W
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ref-packages-longpad/RTRIM3304W/
 - Description: ref-packages-longpad : RTRIM3304W
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-longpad-RTRIM3304W](http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-longpad-RTRIM3304W)
-- Short Link: [http://oom.lt/FZEREFPACKAGESLONGPADRTRIM334W](http://oom.lt/FZEREFPACKAGESLONGPADRTRIM334W)
+- Short Link: [http://oom.lt/FZEREFPSLPRTRIM334W](http://oom.lt/FZEREFPSLPRTRIM334W)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|ref-packages-longpad|
 |OOMP Index|oompIndex|RTRIM3304W|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-ref-packages-longpad-RTRIM3304W|
-|Hex ID (short code)|hexID|FZEREFPACKAGESLONGPADRTRIM334W|
+|Hex ID (short code)|hexID|FZEREFPSLPRTRIM334W|
 |name|name|ref-packages-longpad : RTRIM3304W|
 ||||

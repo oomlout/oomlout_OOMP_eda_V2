@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-rcl-L5650M
 - Hex ID: FZERCLL565M
 - Name: rcl : L5650M
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/rcl/L5650M/
 - Description: rcl : L5650M
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-L5650M](http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-L5650M)
 - Short Link: [http://oom.lt/FZERCLL565M](http://oom.lt/FZERCLL565M)

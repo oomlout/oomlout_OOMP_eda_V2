@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-smd-ipc-SOP14
 - Hex ID: FZESMIPCS14
 - Name: smd-ipc : SOP14
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/smd-ipc/SOP14/
 - Description: smd-ipc : SOP14
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-SOP14](http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-SOP14)
 - Short Link: [http://oom.lt/FZESMIPCS14](http://oom.lt/FZESMIPCS14)

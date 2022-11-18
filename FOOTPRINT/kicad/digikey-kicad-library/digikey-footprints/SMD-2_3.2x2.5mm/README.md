@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SMD-2_3.2x2.5mm
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSSM232X25
 - Name: digikey-footprints : SMD-2_3.2x2.5mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/SMD-2_3.2x2.5mm/
 - Description: digikey-footprints : SMD-2_3.2x2.5mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SMD-2_3.2x2.5mm](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SMD-2_3.2x2.5mm)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSSM232X25](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSSM232X25)

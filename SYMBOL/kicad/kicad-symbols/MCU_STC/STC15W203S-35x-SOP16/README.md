@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_STC-STC15W203S-35x-SOP16
 - Hex ID: SZKMCUSTCSTC15W23S35XS16
 - Name: MCU_STC : STC15W203S-35x-SOP16
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_STC/STC15W203S-35x-SOP16/
 - Description: MCU_STC : STC15W203S-35x-SOP16
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_STC-STC15W203S-35x-SOP16](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_STC-STC15W203S-35x-SOP16)
 - Short Link: [http://oom.lt/SZKMCUSTCSTC15W23S35XS16](http://oom.lt/SZKMCUSTCSTC15W23S35XS16)

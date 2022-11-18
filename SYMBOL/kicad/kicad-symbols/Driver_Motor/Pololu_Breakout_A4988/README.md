@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Driver_Motor-Pololu_Breakout_A4988
 - Hex ID: SZKDRIVERMOTORPOLOLUBREAKOUTA4988
 - Name: Driver_Motor : Pololu_Breakout_A4988
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Driver_Motor/Pololu_Breakout_A4988/
 - Description: Driver_Motor : Pololu_Breakout_A4988
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_Motor-Pololu_Breakout_A4988](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_Motor-Pololu_Breakout_A4988)
 - Short Link: [http://oom.lt/SZKDRIVERMOTORPOLOLUBREAKOUTA4988](http://oom.lt/SZKDRIVERMOTORPOLOLUBREAKOUTA4988)

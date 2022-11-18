@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-RF_Module-Modtronix_inAir9
 - Hex ID: FZKRFMOMODTRONIXINAIR9
 - Name: RF_Module : Modtronix_inAir9
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/RF_Module/Modtronix_inAir9/
 - Description: RF_Module : Modtronix_inAir9
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_Module-Modtronix_inAir9](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_Module-Modtronix_inAir9)
 - Short Link: [http://oom.lt/FZKRFMOMODTRONIXINAIR9](http://oom.lt/FZKRFMOMODTRONIXINAIR9)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-led-SMARTLED-TTW
 - Hex ID: FZELSRTLTTW
 - Name: led : SMARTLED-TTW
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/led/SMARTLED-TTW/
 - Description: led : SMARTLED-TTW
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-led-SMARTLED-TTW](http://oom.lt/FOOTPRINT-eagle-eagle-default-led-SMARTLED-TTW)
 - Short Link: [http://oom.lt/FZELSRTLTTW](http://oom.lt/FZELSRTLTTW)

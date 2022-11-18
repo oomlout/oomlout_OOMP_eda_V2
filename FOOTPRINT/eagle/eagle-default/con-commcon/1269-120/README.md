@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-commcon-1269-120
 - Hex ID: FZECONCOCON126912
 - Name: con-commcon : 1269-120
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-commcon/1269-120/
 - Description: con-commcon : 1269-120
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-commcon-1269-120](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-commcon-1269-120)
 - Short Link: [http://oom.lt/FZECONCOCON126912](http://oom.lt/FZECONCOCON126912)

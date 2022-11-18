@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Sumida_CDMC6D28_7.25x6.5mm
 - Hex ID: FZKINLSUMIDACDMC6D28725X65
 - Name: Inductor_SMD : L_Sumida_CDMC6D28_7.25x6.5mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Sumida_CDMC6D28_7.25x6.5mm/
 - Description: Inductor_SMD : L_Sumida_CDMC6D28_7.25x6.5mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Sumida_CDMC6D28_7.25x6.5mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Sumida_CDMC6D28_7.25x6.5mm)
 - Short Link: [http://oom.lt/FZKINLSUMIDACDMC6D28725X65](http://oom.lt/FZKINLSUMIDACDMC6D28725X65)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Driver_FET-MCP14A0902xMNY
 - Hex ID: SZKDRIVERFETMCP14A92XMNY
 - Name: Driver_FET : MCP14A0902xMNY
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Driver_FET/MCP14A0902xMNY/
 - Description: Driver_FET : MCP14A0902xMNY
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-MCP14A0902xMNY](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-MCP14A0902xMNY)
 - Short Link: [http://oom.lt/SZKDRIVERFETMCP14A92XMNY](http://oom.lt/SZKDRIVERFETMCP14A92XMNY)

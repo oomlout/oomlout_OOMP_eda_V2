@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-LMR10510XMF
 - Hex ID: SZKREGULATORSWINGLMR151XMF
 - Name: Regulator_Switching : LMR10510XMF
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/LMR10510XMF/
 - Description: Regulator_Switching : LMR10510XMF
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LMR10510XMF](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LMR10510XMF)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGLMR151XMF](http://oom.lt/SZKREGULATORSWINGLMR151XMF)

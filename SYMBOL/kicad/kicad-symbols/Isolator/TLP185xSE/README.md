@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Isolator-TLP185xSE
 - Hex ID: SZKISOLATORTLP185XSE
 - Name: Isolator : TLP185xSE
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Isolator/TLP185xSE/
 - Description: Isolator : TLP185xSE
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-TLP185xSE](http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-TLP185xSE)
 - Short Link: [http://oom.lt/SZKISOLATORTLP185XSE](http://oom.lt/SZKISOLATORTLP185XSE)

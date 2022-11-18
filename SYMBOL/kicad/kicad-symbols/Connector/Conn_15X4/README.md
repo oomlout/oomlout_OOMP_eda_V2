@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [SZKCNCONN15X4 > Connector : Conn_15X4](#szkcnconn15x4--connector--conn_15x4)
+* [SZKCNC15X4 > Connector : Conn_15X4](#szkcnc15x4--connector--conn_15x4)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# SZKCNCONN15X4 > Connector : Conn_15X4
+# SZKCNC15X4 > Connector : Conn_15X4
 
 - ID: SYMBOL-kicad-kicad-symbols-Connector-Conn_15X4
-- Hex ID: SZKCNCONN15X4
+- Hex ID: SZKCNC15X4
 - Name: Connector : Conn_15X4
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector/Conn_15X4/
 - Description: Connector : Conn_15X4
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-Conn_15X4](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-Conn_15X4)
-- Short Link: [http://oom.lt/SZKCNCONN15X4](http://oom.lt/SZKCNCONN15X4)
+- Short Link: [http://oom.lt/SZKCNC15X4](http://oom.lt/SZKCNC15X4)
 
 ## Images
   
@@ -36,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Connector|
 |OOMP Index|oompIndex|Conn_15X4|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector-Conn_15X4|
-|Hex ID (short code)|hexID|SZKCNCONN15X4|
+|Hex ID (short code)|hexID|SZKCNC15X4|
 |name|name|Connector : Conn_15X4|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'J'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'Conn_15X4'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> ' ~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'connector'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Connector Europe</td><td> 60 contacts</td><td> ranges A</td><td>B</td><td>C</td><td>D'</td></tr></table>]|
 ||||

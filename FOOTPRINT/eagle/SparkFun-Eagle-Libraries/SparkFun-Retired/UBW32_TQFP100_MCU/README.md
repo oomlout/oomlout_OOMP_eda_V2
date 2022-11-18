@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-UBW32_TQFP100_MCU
 - Hex ID: FZSRTUBW32TQFP1MCU
 - Name: SparkFun-Retired : UBW32_TQFP100_MCU
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Retired/UBW32_TQFP100_MCU/
 - Description: SparkFun-Retired : UBW32_TQFP100_MCU
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-UBW32_TQFP100_MCU](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-UBW32_TQFP100_MCU)
 - Short Link: [http://oom.lt/FZSRTUBW32TQFP1MCU](http://oom.lt/FZSRTUBW32TQFP1MCU)

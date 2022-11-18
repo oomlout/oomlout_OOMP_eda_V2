@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Converter_DCDC-IA0505S
 - Hex ID: SZKCONIA55S
 - Name: Converter_DCDC : IA0505S
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Converter_DCDC/IA0505S/
 - Description: Converter_DCDC : IA0505S
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-IA0505S](http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-IA0505S)
 - Short Link: [http://oom.lt/SZKCONIA55S](http://oom.lt/SZKCONIA55S)

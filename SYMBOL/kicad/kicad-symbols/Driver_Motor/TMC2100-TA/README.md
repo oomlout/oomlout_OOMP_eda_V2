@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Driver_Motor-TMC2100-TA
 - Hex ID: SZKDRIVERMOTORTMC21TA
 - Name: Driver_Motor : TMC2100-TA
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Driver_Motor/TMC2100-TA/
 - Description: Driver_Motor : TMC2100-TA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_Motor-TMC2100-TA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_Motor-TMC2100-TA)
 - Short Link: [http://oom.lt/SZKDRIVERMOTORTMC21TA](http://oom.lt/SZKDRIVERMOTORTMC21TA)

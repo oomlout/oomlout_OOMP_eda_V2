@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Buzzer_Beeper-Buzzer_TDK_PS1240P02BT_D12.2mm_H6.5mm
 - Hex ID: FZKBZBUZZERTDKPS124P2BTD122H65
 - Name: Buzzer_Beeper : Buzzer_TDK_PS1240P02BT_D12.2mm_H6.5mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Buzzer_Beeper/Buzzer_TDK_PS1240P02BT_D12.2mm_H6.5mm/
 - Description: Buzzer_Beeper : Buzzer_TDK_PS1240P02BT_D12.2mm_H6.5mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Buzzer_Beeper-Buzzer_TDK_PS1240P02BT_D12.2mm_H6.5mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Buzzer_Beeper-Buzzer_TDK_PS1240P02BT_D12.2mm_H6.5mm)
 - Short Link: [http://oom.lt/FZKBZBUZZERTDKPS124P2BTD122H65](http://oom.lt/FZKBZBUZZERTDKPS124P2BTD122H65)

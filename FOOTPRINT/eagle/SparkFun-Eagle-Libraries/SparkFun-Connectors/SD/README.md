@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-SD
 - Hex ID: FZSSPARKFUNCNSSD
 - Name: SparkFun-Connectors : SD
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Connectors/SD/
 - Description: SparkFun-Connectors : SD
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-SD](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-SD)
 - Short Link: [http://oom.lt/FZSSPARKFUNCNSSD](http://oom.lt/FZSSPARKFUNCNSSD)

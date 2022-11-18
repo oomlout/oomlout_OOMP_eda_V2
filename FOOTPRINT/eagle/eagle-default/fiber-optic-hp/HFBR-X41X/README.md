@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-fiber-optic-hp-HFBR-X41X
 - Hex ID: FZEFIBEROPTICHPHFBRX41X
 - Name: fiber-optic-hp : HFBR-X41X
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/fiber-optic-hp/HFBR-X41X/
 - Description: fiber-optic-hp : HFBR-X41X
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-fiber-optic-hp-HFBR-X41X](http://oom.lt/FOOTPRINT-eagle-eagle-default-fiber-optic-hp-HFBR-X41X)
 - Short Link: [http://oom.lt/FZEFIBEROPTICHPHFBRX41X](http://oom.lt/FZEFIBEROPTICHPHFBRX41X)

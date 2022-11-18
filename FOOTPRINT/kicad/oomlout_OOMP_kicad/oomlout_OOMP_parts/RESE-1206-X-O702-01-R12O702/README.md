@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-1206-X-O702-01-R12O702
 - Hex ID: FZOOMPKOOMPPRESE126XO721R12O72
 - Name: oomlout_OOMP_parts : RESE-1206-X-O702-01-R12O702
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/RESE-1206-X-O702-01-R12O702/
 - Description: oomlout_OOMP_parts : RESE-1206-X-O702-01-R12O702
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-1206-X-O702-01-R12O702](http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-1206-X-O702-01-R12O702)
 - Short Link: [http://oom.lt/FZOOMPKOOMPPRESE126XO721R12O72](http://oom.lt/FZOOMPKOOMPPRESE126XO721R12O72)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Device-D_Dual_CommonCathode_AAK
 - Hex ID: SZKDEVICEDDUALCOONCATHODEAAK
 - Name: Device : D_Dual_CommonCathode_AAK
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/D_Dual_CommonCathode_AAK/
 - Description: Device : D_Dual_CommonCathode_AAK
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-D_Dual_CommonCathode_AAK](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-D_Dual_CommonCathode_AAK)
 - Short Link: [http://oom.lt/SZKDEVICEDDUALCOONCATHODEAAK](http://oom.lt/SZKDEVICEDDUALCOONCATHODEAAK)

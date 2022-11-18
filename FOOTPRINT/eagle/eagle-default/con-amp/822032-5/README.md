@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-amp-822032-5
 - Hex ID: FZECONAMP822325
 - Name: con-amp : 822032-5
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-amp/822032-5/
 - Description: con-amp : 822032-5
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-amp-822032-5](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-amp-822032-5)
 - Short Link: [http://oom.lt/FZECONAMP822325](http://oom.lt/FZECONAMP822325)

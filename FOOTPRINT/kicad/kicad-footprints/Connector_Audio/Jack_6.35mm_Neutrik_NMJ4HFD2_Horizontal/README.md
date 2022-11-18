@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_Audio-Jack_6.35mm_Neutrik_NMJ4HFD2_Horizontal
 - Hex ID: FZKCNAUDIOJ635NEUTRIKNMJ4HFD2H
 - Name: Connector_Audio : Jack_6.35mm_Neutrik_NMJ4HFD2_Horizontal
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Audio/Jack_6.35mm_Neutrik_NMJ4HFD2_Horizontal/
 - Description: Connector_Audio : Jack_6.35mm_Neutrik_NMJ4HFD2_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Audio-Jack_6.35mm_Neutrik_NMJ4HFD2_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Audio-Jack_6.35mm_Neutrik_NMJ4HFD2_Horizontal)
 - Short Link: [http://oom.lt/FZKCNAUDIOJ635NEUTRIKNMJ4HFD2H](http://oom.lt/FZKCNAUDIOJ635NEUTRIKNMJ4HFD2H)

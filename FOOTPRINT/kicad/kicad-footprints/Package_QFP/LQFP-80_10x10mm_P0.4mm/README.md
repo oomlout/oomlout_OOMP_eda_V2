@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_QFP-LQFP-80_10x10mm_P0.4mm
 - Hex ID: FZKQFPLQFP81X1P4
 - Name: Package_QFP : LQFP-80_10x10mm_P0.4mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_QFP/LQFP-80_10x10mm_P0.4mm/
 - Description: Package_QFP : LQFP-80_10x10mm_P0.4mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_QFP-LQFP-80_10x10mm_P0.4mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_QFP-LQFP-80_10x10mm_P0.4mm)
 - Short Link: [http://oom.lt/FZKQFPLQFP81X1P4](http://oom.lt/FZKQFPLQFP81X1P4)

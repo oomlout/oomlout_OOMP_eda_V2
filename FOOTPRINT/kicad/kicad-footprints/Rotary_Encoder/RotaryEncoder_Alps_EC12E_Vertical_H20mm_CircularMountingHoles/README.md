@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Rotary_Encoder-RotaryEncoder_Alps_EC12E_Vertical_H20mm_CircularMountingHoles
 - Hex ID: FZKREROTARYENCODERALPSEC12EFH2CIRCULARHOLS
 - Name: Rotary_Encoder : RotaryEncoder_Alps_EC12E_Vertical_H20mm_CircularMountingHoles
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Rotary_Encoder/RotaryEncoder_Alps_EC12E_Vertical_H20mm_CircularMountingHoles/
 - Description: Rotary_Encoder : RotaryEncoder_Alps_EC12E_Vertical_H20mm_CircularMountingHoles
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Rotary_Encoder-RotaryEncoder_Alps_EC12E_Vertical_H20mm_CircularMountingHoles](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Rotary_Encoder-RotaryEncoder_Alps_EC12E_Vertical_H20mm_CircularMountingHoles)
 - Short Link: [http://oom.lt/FZKREROTARYENCODERALPSEC12EFH2CIRCULARHOLS](http://oom.lt/FZKREROTARYENCODERALPSEC12EFH2CIRCULARHOLS)

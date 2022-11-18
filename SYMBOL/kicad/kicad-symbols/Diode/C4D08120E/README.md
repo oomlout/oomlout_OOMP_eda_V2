@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-C4D08120E
 - Hex ID: SZKDIODEC4D812E
 - Name: Diode : C4D08120E
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/C4D08120E/
 - Description: Diode : C4D08120E
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-C4D08120E](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-C4D08120E)
 - Short Link: [http://oom.lt/SZKDIODEC4D812E](http://oom.lt/SZKDIODEC4D812E)

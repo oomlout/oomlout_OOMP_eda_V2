@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-microwave-QSOP16
 - Hex ID: FZEMWAVEQS16
 - Name: microwave : QSOP16
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/microwave/QSOP16/
 - Description: microwave : QSOP16
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-microwave-QSOP16](http://oom.lt/FOOTPRINT-eagle-eagle-default-microwave-QSOP16)
 - Short Link: [http://oom.lt/FZEMWAVEQS16](http://oom.lt/FZEMWAVEQS16)

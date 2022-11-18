@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_UART-LT1080
 - Hex ID: SZKINTERFACEUARTLT18
 - Name: Interface_UART : LT1080
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_UART/LT1080/
 - Description: Interface_UART : LT1080
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_UART-LT1080](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_UART-LT1080)
 - Short Link: [http://oom.lt/SZKINTERFACEUARTLT18](http://oom.lt/SZKINTERFACEUARTLT18)

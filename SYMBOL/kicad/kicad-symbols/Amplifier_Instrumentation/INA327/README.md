@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Instrumentation-INA327
 - Hex ID: SZKAMPLIFIERINSTRUMENTATIONINA327
 - Name: Amplifier_Instrumentation : INA327
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Instrumentation/INA327/
 - Description: Amplifier_Instrumentation : INA327
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Instrumentation-INA327](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Instrumentation-INA327)
 - Short Link: [http://oom.lt/SZKAMPLIFIERINSTRUMENTATIONINA327](http://oom.lt/SZKAMPLIFIERINSTRUMENTATIONINA327)

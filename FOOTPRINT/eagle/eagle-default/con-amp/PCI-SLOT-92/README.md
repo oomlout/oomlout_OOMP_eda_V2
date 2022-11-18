@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-amp-PCI-SLOT-92
 - Hex ID: FZECONAMPPCISLOT92
 - Name: con-amp : PCI-SLOT-92
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-amp/PCI-SLOT-92/
 - Description: con-amp : PCI-SLOT-92
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-amp-PCI-SLOT-92](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-amp-PCI-SLOT-92)
 - Short Link: [http://oom.lt/FZECONAMPPCISLOT92](http://oom.lt/FZECONAMPPCISLOT92)

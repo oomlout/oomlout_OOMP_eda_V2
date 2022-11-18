@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-OSHWLOGO_TOP_0.2
 - Hex ID: FZAOSHWLTOP2
 - Name: adafruit : OSHWLOGO_TOP_0.2
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/OSHWLOGO_TOP_0.2/
 - Description: adafruit : OSHWLOGO_TOP_0.2
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-OSHWLOGO_TOP_0.2](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-OSHWLOGO_TOP_0.2)
 - Short Link: [http://oom.lt/FZAOSHWLTOP2](http://oom.lt/FZAOSHWLTOP2)

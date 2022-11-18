@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Memory_Flash-AT25SF081-SSHF-X
 - Hex ID: SZKMEMORYFLASHAT25SF81SSHFX
 - Name: Memory_Flash : AT25SF081-SSHF-X
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Memory_Flash/AT25SF081-SSHF-X/
 - Description: Memory_Flash : AT25SF081-SSHF-X
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_Flash-AT25SF081-SSHF-X](http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_Flash-AT25SF081-SSHF-X)
 - Short Link: [http://oom.lt/SZKMEMORYFLASHAT25SF81SSHFX](http://oom.lt/SZKMEMORYFLASHAT25SF81SSHFX)

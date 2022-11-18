@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Gas_Sensor_110-109
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSGASSEN1119
 - Name: digikey-footprints : Gas_Sensor_110-109
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Gas_Sensor_110-109/
 - Description: digikey-footprints : Gas_Sensor_110-109
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Gas_Sensor_110-109](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Gas_Sensor_110-109)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSGASSEN1119](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSGASSEN1119)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Power-TO220-ADJ
 - Hex ID: FZSIPTO22ADJ
 - Name: SparkFun-IC-Power : TO220-ADJ
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-IC-Power/TO220-ADJ/
 - Description: SparkFun-IC-Power : TO220-ADJ
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Power-TO220-ADJ](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Power-TO220-ADJ)
 - Short Link: [http://oom.lt/FZSIPTO22ADJ](http://oom.lt/FZSIPTO22ADJ)

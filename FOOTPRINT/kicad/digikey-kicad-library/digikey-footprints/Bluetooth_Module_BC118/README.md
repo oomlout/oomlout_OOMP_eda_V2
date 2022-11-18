@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Bluetooth_Module_BC118
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSBLUETOOTHMOBC118
 - Name: digikey-footprints : Bluetooth_Module_BC118
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Bluetooth_Module_BC118/
 - Description: digikey-footprints : Bluetooth_Module_BC118
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Bluetooth_Module_BC118](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Bluetooth_Module_BC118)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSBLUETOOTHMOBC118](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSBLUETOOTHMOBC118)

@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEREFPACKAGESMPGA179 > ref-packages : MPGA179](#fzerefpackagesmpga179--ref-packages--mpga179)
+* [FZEREFPSMPGA179 > ref-packages : MPGA179](#fzerefpsmpga179--ref-packages--mpga179)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEREFPACKAGESMPGA179 > ref-packages : MPGA179
+# FZEREFPSMPGA179 > ref-packages : MPGA179
 
 - ID: FOOTPRINT-eagle-eagle-default-ref-packages-MPGA179
-- Hex ID: FZEREFPACKAGESMPGA179
+- Hex ID: FZEREFPSMPGA179
 - Name: ref-packages : MPGA179
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ref-packages/MPGA179/
 - Description: ref-packages : MPGA179
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-MPGA179](http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-MPGA179)
-- Short Link: [http://oom.lt/FZEREFPACKAGESMPGA179](http://oom.lt/FZEREFPACKAGESMPGA179)
+- Short Link: [http://oom.lt/FZEREFPSMPGA179](http://oom.lt/FZEREFPSMPGA179)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|ref-packages|
 |OOMP Index|oompIndex|MPGA179|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-ref-packages-MPGA179|
-|Hex ID (short code)|hexID|FZEREFPACKAGESMPGA179|
+|Hex ID (short code)|hexID|FZEREFPSMPGA179|
 |name|name|ref-packages : MPGA179|
 ||||

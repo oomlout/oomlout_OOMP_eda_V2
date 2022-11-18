@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-PMEG2020EJ
 - Hex ID: SZKDIODEPMEG22EJ
 - Name: Diode : PMEG2020EJ
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/PMEG2020EJ/
 - Description: Diode : PMEG2020EJ
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-PMEG2020EJ](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-PMEG2020EJ)
 - Short Link: [http://oom.lt/SZKDIODEPMEG22EJ](http://oom.lt/SZKDIODEPMEG22EJ)

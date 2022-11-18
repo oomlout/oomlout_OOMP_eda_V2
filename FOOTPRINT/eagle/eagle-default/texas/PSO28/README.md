@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-texas-PSO28
 - Hex ID: FZETEXASPSO28
 - Name: texas : PSO28
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/texas/PSO28/
 - Description: texas : PSO28
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-texas-PSO28](http://oom.lt/FOOTPRINT-eagle-eagle-default-texas-PSO28)
 - Short Link: [http://oom.lt/FZETEXASPSO28](http://oom.lt/FZETEXASPSO28)

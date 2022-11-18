@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Resistors-POT-PTH-ALPS-KIT
 - Hex ID: FZSRPOTPALPSK
 - Name: SparkFun-Resistors : POT-PTH-ALPS-KIT
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Resistors/POT-PTH-ALPS-KIT/
 - Description: SparkFun-Resistors : POT-PTH-ALPS-KIT
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Resistors-POT-PTH-ALPS-KIT](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Resistors-POT-PTH-ALPS-KIT)
 - Short Link: [http://oom.lt/FZSRPOTPALPSK](http://oom.lt/FZSRPOTPALPSK)

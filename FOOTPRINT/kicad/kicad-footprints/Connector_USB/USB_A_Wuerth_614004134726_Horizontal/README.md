@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_A_Wuerth_614004134726_Horizontal
 - Hex ID: FZKCNUUAWUERTH6144134726H
 - Name: Connector_USB : USB_A_Wuerth_614004134726_Horizontal
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB_A_Wuerth_614004134726_Horizontal/
 - Description: Connector_USB : USB_A_Wuerth_614004134726_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_A_Wuerth_614004134726_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_A_Wuerth_614004134726_Horizontal)
 - Short Link: [http://oom.lt/FZKCNUUAWUERTH6144134726H](http://oom.lt/FZKCNUUAWUERTH6144134726H)

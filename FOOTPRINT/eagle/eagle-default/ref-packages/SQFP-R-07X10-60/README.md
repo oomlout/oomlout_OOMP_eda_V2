@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEREFPACKAGESSQFPR7X16 > ref-packages : SQFP-R-07X10-60](#fzerefpackagessqfpr7x16--ref-packages--sqfp-r-07x10-60)
+* [FZEREFPSSQFPR7X16 > ref-packages : SQFP-R-07X10-60](#fzerefpssqfpr7x16--ref-packages--sqfp-r-07x10-60)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEREFPACKAGESSQFPR7X16 > ref-packages : SQFP-R-07X10-60
+# FZEREFPSSQFPR7X16 > ref-packages : SQFP-R-07X10-60
 
 - ID: FOOTPRINT-eagle-eagle-default-ref-packages-SQFP-R-07X10-60
-- Hex ID: FZEREFPACKAGESSQFPR7X16
+- Hex ID: FZEREFPSSQFPR7X16
 - Name: ref-packages : SQFP-R-07X10-60
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ref-packages/SQFP-R-07X10-60/
 - Description: ref-packages : SQFP-R-07X10-60
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-SQFP-R-07X10-60](http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-SQFP-R-07X10-60)
-- Short Link: [http://oom.lt/FZEREFPACKAGESSQFPR7X16](http://oom.lt/FZEREFPACKAGESSQFPR7X16)
+- Short Link: [http://oom.lt/FZEREFPSSQFPR7X16](http://oom.lt/FZEREFPSSQFPR7X16)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|ref-packages|
 |OOMP Index|oompIndex|SQFP-R-07X10-60|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-ref-packages-SQFP-R-07X10-60|
-|Hex ID (short code)|hexID|FZEREFPACKAGESSQFPR7X16|
+|Hex ID (short code)|hexID|FZEREFPSSQFPR7X16|
 |name|name|ref-packages : SQFP-R-07X10-60|
 ||||

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-LNK305P
 - Hex ID: SZKREGULATORSWINGLNK35P
 - Name: Regulator_Switching : LNK305P
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/LNK305P/
 - Description: Regulator_Switching : LNK305P
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LNK305P](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LNK305P)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGLNK35P](http://oom.lt/SZKREGULATORSWINGLNK35P)

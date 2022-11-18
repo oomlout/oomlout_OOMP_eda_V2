@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_Micro-B_GCT_USB3076-30-A
 - Hex ID: FZKCNUUMBGCTU3763A
 - Name: Connector_USB : USB_Micro-B_GCT_USB3076-30-A
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB_Micro-B_GCT_USB3076-30-A/
 - Description: Connector_USB : USB_Micro-B_GCT_USB3076-30-A
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_Micro-B_GCT_USB3076-30-A](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_Micro-B_GCT_USB3076-30-A)
 - Short Link: [http://oom.lt/FZKCNUUMBGCTU3763A](http://oom.lt/FZKCNUUMBGCTU3763A)

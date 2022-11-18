@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_SwitchedCapacitor-MAX1044
 - Hex ID: SZKREGULATORSWEDCAPACITORMAX144
 - Name: Regulator_SwitchedCapacitor : MAX1044
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_SwitchedCapacitor/MAX1044/
 - Description: Regulator_SwitchedCapacitor : MAX1044
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_SwitchedCapacitor-MAX1044](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_SwitchedCapacitor-MAX1044)
 - Short Link: [http://oom.lt/SZKREGULATORSWEDCAPACITORMAX144](http://oom.lt/SZKREGULATORSWEDCAPACITORMAX144)

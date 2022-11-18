@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-led-MICRO-SIDELED
 - Hex ID: FZELMSDL
 - Name: led : MICRO-SIDELED
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/led/MICRO-SIDELED/
 - Description: led : MICRO-SIDELED
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-led-MICRO-SIDELED](http://oom.lt/FOOTPRINT-eagle-eagle-default-led-MICRO-SIDELED)
 - Short Link: [http://oom.lt/FZELMSDL](http://oom.lt/FZELMSDL)

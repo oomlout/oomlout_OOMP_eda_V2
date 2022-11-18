@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_Mini-Fit_Sr_43915-xx12_2x06_P10.00mm_Vertical
 - Hex ID: FZKCNMXMXMFITSR43915XX122X6P1F
 - Name: Connector_Molex : Molex_Mini-Fit_Sr_43915-xx12_2x06_P10.00mm_Vertical
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_Mini-Fit_Sr_43915-xx12_2x06_P10.00mm_Vertical/
 - Description: Connector_Molex : Molex_Mini-Fit_Sr_43915-xx12_2x06_P10.00mm_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_Mini-Fit_Sr_43915-xx12_2x06_P10.00mm_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_Mini-Fit_Sr_43915-xx12_2x06_P10.00mm_Vertical)
 - Short Link: [http://oom.lt/FZKCNMXMXMFITSR43915XX122X6P1F](http://oom.lt/FZKCNMXMXMFITSR43915XX122X6P1F)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O752-67-R6752A
 - Hex ID: FZOOMPKOOMPPRESE63XO75267R6752A
 - Name: oomlout_OOMP_parts : RESE-0603-X-O752-67-R6752A
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/RESE-0603-X-O752-67-R6752A/
 - Description: oomlout_OOMP_parts : RESE-0603-X-O752-67-R6752A
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O752-67-R6752A](http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O752-67-R6752A)
 - Short Link: [http://oom.lt/FZOOMPKOOMPPRESE63XO75267R6752A](http://oom.lt/FZOOMPKOOMPPRESE63XO75267R6752A)

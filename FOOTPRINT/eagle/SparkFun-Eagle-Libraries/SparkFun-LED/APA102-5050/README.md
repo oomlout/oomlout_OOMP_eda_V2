@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-LED-APA102-5050
 - Hex ID: FZSLAPA1255
 - Name: SparkFun-LED : APA102-5050
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-LED/APA102-5050/
 - Description: SparkFun-LED : APA102-5050
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-LED-APA102-5050](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-LED-APA102-5050)
 - Short Link: [http://oom.lt/FZSLAPA1255](http://oom.lt/FZSLAPA1255)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-QFN-48-1EP_6x6mm
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSQFN481EP6X6
 - Name: digikey-footprints : QFN-48-1EP_6x6mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/QFN-48-1EP_6x6mm/
 - Description: digikey-footprints : QFN-48-1EP_6x6mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-QFN-48-1EP_6x6mm](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-QFN-48-1EP_6x6mm)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSQFN481EP6X6](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSQFN481EP6X6)

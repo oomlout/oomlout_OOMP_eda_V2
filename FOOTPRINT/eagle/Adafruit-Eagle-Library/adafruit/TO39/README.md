@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-TO39
 - Hex ID: FZATO39
 - Name: adafruit : TO39
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/TO39/
 - Description: adafruit : TO39
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-TO39](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-TO39)
 - Short Link: [http://oom.lt/FZATO39](http://oom.lt/FZATO39)

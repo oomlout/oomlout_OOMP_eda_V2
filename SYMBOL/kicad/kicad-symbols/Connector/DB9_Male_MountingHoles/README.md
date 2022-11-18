@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Connector-DB9_Male_MountingHoles
 - Hex ID: SZKCNDB9MALEHOLS
 - Name: Connector : DB9_Male_MountingHoles
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector/DB9_Male_MountingHoles/
 - Description: Connector : DB9_Male_MountingHoles
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-DB9_Male_MountingHoles](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-DB9_Male_MountingHoles)
 - Short Link: [http://oom.lt/SZKCNDB9MALEHOLS](http://oom.lt/SZKCNDB9MALEHOLS)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-LNK3205G
 - Hex ID: SZKREGULATORSWINGLNK325G
 - Name: Regulator_Switching : LNK3205G
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/LNK3205G/
 - Description: Regulator_Switching : LNK3205G
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LNK3205G](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LNK3205G)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGLNK325G](http://oom.lt/SZKREGULATORSWINGLNK325G)

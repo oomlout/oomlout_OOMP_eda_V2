@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-JSTSH-X-PI04-RS-HSHR4
 - Hex ID: SZOOMPKOOMPPHEADJSTSHXPI4RSHSHR4
 - Name: oomlout_OOMP_parts : HEAD-JSTSH-X-PI04-RS-HSHR4
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/HEAD-JSTSH-X-PI04-RS-HSHR4/
 - Description: oomlout_OOMP_parts : HEAD-JSTSH-X-PI04-RS-HSHR4
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-JSTSH-X-PI04-RS-HSHR4](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-JSTSH-X-PI04-RS-HSHR4)
 - Short Link: [http://oom.lt/SZOOMPKOOMPPHEADJSTSHXPI4RSHSHR4](http://oom.lt/SZOOMPKOOMPPHEADJSTSHXPI4RSHSHR4)

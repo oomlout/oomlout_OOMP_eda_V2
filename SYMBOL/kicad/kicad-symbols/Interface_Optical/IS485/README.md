@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_Optical-IS485
 - Hex ID: SZKINTERFACEOPTICALIS485
 - Name: Interface_Optical : IS485
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_Optical/IS485/
 - Description: Interface_Optical : IS485
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Optical-IS485](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Optical-IS485)
 - Short Link: [http://oom.lt/SZKINTERFACEOPTICALIS485](http://oom.lt/SZKINTERFACEOPTICALIS485)

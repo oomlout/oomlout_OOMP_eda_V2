@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Power_Management-LT4231xUF
 - Hex ID: SZKPOWERMANAGEMENTLT4231XUF
 - Name: Power_Management : LT4231xUF
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Power_Management/LT4231xUF/
 - Description: Power_Management : LT4231xUF
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-LT4231xUF](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-LT4231xUF)
 - Short Link: [http://oom.lt/SZKPOWERMANAGEMENTLT4231XUF](http://oom.lt/SZKPOWERMANAGEMENTLT4231XUF)

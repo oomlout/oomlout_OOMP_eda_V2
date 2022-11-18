@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode_Bridge-SC35VB160S-G
 - Hex ID: SZKDIODEBRIDGESC35VB16SG
 - Name: Diode_Bridge : SC35VB160S-G
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode_Bridge/SC35VB160S-G/
 - Description: Diode_Bridge : SC35VB160S-G
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode_Bridge-SC35VB160S-G](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode_Bridge-SC35VB160S-G)
 - Short Link: [http://oom.lt/SZKDIODEBRIDGESC35VB16SG](http://oom.lt/SZKDIODEBRIDGESC35VB16SG)

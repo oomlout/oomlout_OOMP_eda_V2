@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-DSUB-9_Receptical_A-DF_09_A_KG-T2S
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSDSUB9RECEPTICALADF9AKGT2S
 - Name: digikey-footprints : DSUB-9_Receptical_A-DF_09_A_KG-T2S
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/DSUB-9_Receptical_A-DF_09_A_KG-T2S/
 - Description: digikey-footprints : DSUB-9_Receptical_A-DF_09_A_KG-T2S
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-DSUB-9_Receptical_A-DF_09_A_KG-T2S](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-DSUB-9_Receptical_A-DF_09_A_KG-T2S)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSDSUB9RECEPTICALADF9AKGT2S](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSDSUB9RECEPTICALADF9AKGT2S)

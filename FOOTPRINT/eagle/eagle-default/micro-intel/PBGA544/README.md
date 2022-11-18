@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-micro-intel-PBGA544
 - Hex ID: FZEMINTELPBGA544
 - Name: micro-intel : PBGA544
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/micro-intel/PBGA544/
 - Description: micro-intel : PBGA544
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-intel-PBGA544](http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-intel-PBGA544)
 - Short Link: [http://oom.lt/FZEMINTELPBGA544](http://oom.lt/FZEMINTELPBGA544)

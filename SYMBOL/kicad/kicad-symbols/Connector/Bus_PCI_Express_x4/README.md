@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Connector-Bus_PCI_Express_x4
 - Hex ID: SZKCNBUSPCIEXPRESSX4
 - Name: Connector : Bus_PCI_Express_x4
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector/Bus_PCI_Express_x4/
 - Description: Connector : Bus_PCI_Express_x4
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-Bus_PCI_Express_x4](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-Bus_PCI_Express_x4)
 - Short Link: [http://oom.lt/SZKCNBUSPCIEXPRESSX4](http://oom.lt/SZKCNBUSPCIEXPRESSX4)

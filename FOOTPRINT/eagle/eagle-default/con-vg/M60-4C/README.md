@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-vg-M60-4C
 - Hex ID: FZECONVGM64C
 - Name: con-vg : M60-4C
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-vg/M60-4C/
 - Description: con-vg : M60-4C
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-vg-M60-4C](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-vg-M60-4C)
 - Short Link: [http://oom.lt/FZECONVGM64C](http://oom.lt/FZECONVGM64C)

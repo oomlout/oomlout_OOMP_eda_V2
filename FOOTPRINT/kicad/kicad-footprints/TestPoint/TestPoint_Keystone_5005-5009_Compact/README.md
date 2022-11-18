@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-TestPoint-TestPoint_Keystone_5005-5009_Compact
 - Hex ID: FZKTPTPKEYSTONE5559COMPACT
 - Name: TestPoint : TestPoint_Keystone_5005-5009_Compact
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/TestPoint/TestPoint_Keystone_5005-5009_Compact/
 - Description: TestPoint : TestPoint_Keystone_5005-5009_Compact
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-TestPoint-TestPoint_Keystone_5005-5009_Compact](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-TestPoint-TestPoint_Keystone_5005-5009_Compact)
 - Short Link: [http://oom.lt/FZKTPTPKEYSTONE5559COMPACT](http://oom.lt/FZKTPTPKEYSTONE5559COMPACT)

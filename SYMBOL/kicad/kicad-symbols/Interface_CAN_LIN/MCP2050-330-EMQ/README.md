@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_CAN_LIN-MCP2050-330-EMQ
 - Hex ID: SZKINTERFACECANLINMCP2533EMQ
 - Name: Interface_CAN_LIN : MCP2050-330-EMQ
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_CAN_LIN/MCP2050-330-EMQ/
 - Description: Interface_CAN_LIN : MCP2050-330-EMQ
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_CAN_LIN-MCP2050-330-EMQ](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_CAN_LIN-MCP2050-330-EMQ)
 - Short Link: [http://oom.lt/SZKINTERFACECANLINMCP2533EMQ](http://oom.lt/SZKINTERFACECANLINMCP2533EMQ)

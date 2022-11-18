@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-trafo-UI48
 - Hex ID: FZETRAFOUI48
 - Name: trafo : UI48
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/trafo/UI48/
 - Description: trafo : UI48
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-trafo-UI48](http://oom.lt/FOOTPRINT-eagle-eagle-default-trafo-UI48)
 - Short Link: [http://oom.lt/FZETRAFOUI48](http://oom.lt/FZETRAFOUI48)

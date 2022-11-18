@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Module-Onion_Omega2S
 - Hex ID: FZKMOONIONOMEGA2S
 - Name: Module : Onion_Omega2S
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Module/Onion_Omega2S/
 - Description: Module : Onion_Omega2S
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Module-Onion_Omega2S](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Module-Onion_Omega2S)
 - Short Link: [http://oom.lt/FZKMOONIONOMEGA2S](http://oom.lt/FZKMOONIONOMEGA2S)

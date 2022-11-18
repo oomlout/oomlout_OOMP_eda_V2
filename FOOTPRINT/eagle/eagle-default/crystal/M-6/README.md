@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-crystal-M-6
 - Hex ID: FZEXM6
 - Name: crystal : M-6
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/crystal/M-6/
 - Description: crystal : M-6
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-crystal-M-6](http://oom.lt/FOOTPRINT-eagle-eagle-default-crystal-M-6)
 - Short Link: [http://oom.lt/FZEXM6](http://oom.lt/FZEXM6)

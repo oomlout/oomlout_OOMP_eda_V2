@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_SK6812_EC15_1.5x1.5mm
 - Hex ID: FZKLLSK6812EC1515X15
 - Name: LED_SMD : LED_SK6812_EC15_1.5x1.5mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_SK6812_EC15_1.5x1.5mm/
 - Description: LED_SMD : LED_SK6812_EC15_1.5x1.5mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_SK6812_EC15_1.5x1.5mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_SK6812_EC15_1.5x1.5mm)
 - Short Link: [http://oom.lt/FZKLLSK6812EC1515X15](http://oom.lt/FZKLLSK6812EC1515X15)

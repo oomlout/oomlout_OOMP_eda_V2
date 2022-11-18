@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0603-X-PF200-V50-C6P200
 - Hex ID: SZOOMPKOOMPPCAPC63XPF2V5C6P2
 - Name: oomlout_OOMP_parts : CAPC-0603-X-PF200-V50-C6P200
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/CAPC-0603-X-PF200-V50-C6P200/
 - Description: oomlout_OOMP_parts : CAPC-0603-X-PF200-V50-C6P200
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0603-X-PF200-V50-C6P200](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0603-X-PF200-V50-C6P200)
 - Short Link: [http://oom.lt/SZOOMPKOOMPPCAPC63XPF2V5C6P2](http://oom.lt/SZOOMPKOOMPPCAPC63XPF2V5C6P2)

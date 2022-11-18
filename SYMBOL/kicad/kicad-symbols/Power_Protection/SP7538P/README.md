@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Power_Protection-SP7538P
 - Hex ID: SZKPOWERPROTECTIONSP7538P
 - Name: Power_Protection : SP7538P
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Power_Protection/SP7538P/
 - Description: Power_Protection : SP7538P
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Protection-SP7538P](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Protection-SP7538P)
 - Short Link: [http://oom.lt/SZKPOWERPROTECTIONSP7538P](http://oom.lt/SZKPOWERPROTECTIONSP7538P)

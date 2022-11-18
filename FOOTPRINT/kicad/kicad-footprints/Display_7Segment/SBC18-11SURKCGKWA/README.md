@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Display_7Segment-SBC18-11SURKCGKWA
 - Hex ID: FZKDI7SSBC1811SURKCGKWA
 - Name: Display_7Segment : SBC18-11SURKCGKWA
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Display_7Segment/SBC18-11SURKCGKWA/
 - Description: Display_7Segment : SBC18-11SURKCGKWA
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Display_7Segment-SBC18-11SURKCGKWA](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Display_7Segment-SBC18-11SURKCGKWA)
 - Short Link: [http://oom.lt/FZKDI7SSBC1811SURKCGKWA](http://oom.lt/FZKDI7SSBC1811SURKCGKWA)

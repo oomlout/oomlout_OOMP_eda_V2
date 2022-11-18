@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_Audio-Jack_3.5mm_PJ320E_Horizontal
 - Hex ID: FZKCNAUDIOJ35PJ32EH
 - Name: Connector_Audio : Jack_3.5mm_PJ320E_Horizontal
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Audio/Jack_3.5mm_PJ320E_Horizontal/
 - Description: Connector_Audio : Jack_3.5mm_PJ320E_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Audio-Jack_3.5mm_PJ320E_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Audio-Jack_3.5mm_PJ320E_Horizontal)
 - Short Link: [http://oom.lt/FZKCNAUDIOJ35PJ32EH](http://oom.lt/FZKCNAUDIOJ35PJ32EH)

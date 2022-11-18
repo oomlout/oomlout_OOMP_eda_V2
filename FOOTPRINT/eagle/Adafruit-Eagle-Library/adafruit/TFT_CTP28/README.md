@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-TFT_CTP28
 - Hex ID: FZATFTCTP28
 - Name: adafruit : TFT_CTP28
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/TFT_CTP28/
 - Description: adafruit : TFT_CTP28
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-TFT_CTP28](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-TFT_CTP28)
 - Short Link: [http://oom.lt/FZATFTCTP28](http://oom.lt/FZATFTCTP28)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Device-R_Pack06
 - Hex ID: SZKDEVICERPACK6
 - Name: Device : R_Pack06
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/R_Pack06/
 - Description: Device : R_Pack06
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-R_Pack06](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-R_Pack06)
 - Short Link: [http://oom.lt/SZKDEVICERPACK6](http://oom.lt/SZKDEVICERPACK6)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-LGA-28_5.2x3.8mm_BNO0055
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSLGA2852X38BNO55
 - Name: digikey-footprints : LGA-28_5.2x3.8mm_BNO0055
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/LGA-28_5.2x3.8mm_BNO0055/
 - Description: digikey-footprints : LGA-28_5.2x3.8mm_BNO0055
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-LGA-28_5.2x3.8mm_BNO0055](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-LGA-28_5.2x3.8mm_BNO0055)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSLGA2852X38BNO55](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSLGA2852X38BNO55)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-CPLD_Xilinx-XCR3064XL-VQ100
 - Hex ID: SZKCPLDXILINXXCR364XLVQ1
 - Name: CPLD_Xilinx : XCR3064XL-VQ100
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/CPLD_Xilinx/XCR3064XL-VQ100/
 - Description: CPLD_Xilinx : XCR3064XL-VQ100
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-CPLD_Xilinx-XCR3064XL-VQ100](http://oom.lt/SYMBOL-kicad-kicad-symbols-CPLD_Xilinx-XCR3064XL-VQ100)
 - Short Link: [http://oom.lt/SZKCPLDXILINXXCR364XLVQ1](http://oom.lt/SZKCPLDXILINXXCR364XLVQ1)

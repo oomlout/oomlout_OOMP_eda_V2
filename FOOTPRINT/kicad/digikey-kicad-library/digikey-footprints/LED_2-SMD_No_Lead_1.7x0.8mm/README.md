@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-LED_2-SMD_No_Lead_1.7x0.8mm
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSL2SMNOLEAD17X8
 - Name: digikey-footprints : LED_2-SMD_No_Lead_1.7x0.8mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/LED_2-SMD_No_Lead_1.7x0.8mm/
 - Description: digikey-footprints : LED_2-SMD_No_Lead_1.7x0.8mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-LED_2-SMD_No_Lead_1.7x0.8mm](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-LED_2-SMD_No_Lead_1.7x0.8mm)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSL2SMNOLEAD17X8](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSL2SMNOLEAD17X8)

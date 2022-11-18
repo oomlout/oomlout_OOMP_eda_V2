@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-BTA
 - Hex ID: FZSSPARKFUNCNSBTA
 - Name: SparkFun-Connectors : BTA
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Connectors/BTA/
 - Description: SparkFun-Connectors : BTA
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-BTA](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-BTA)
 - Short Link: [http://oom.lt/FZSSPARKFUNCNSBTA](http://oom.lt/FZSSPARKFUNCNSBTA)

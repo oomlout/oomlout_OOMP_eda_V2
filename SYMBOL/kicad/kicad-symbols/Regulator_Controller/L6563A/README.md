@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Controller-L6563A
 - Hex ID: SZKREGULATORCONTROLLERL6563A
 - Name: Regulator_Controller : L6563A
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Controller/L6563A/
 - Description: Regulator_Controller : L6563A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Controller-L6563A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Controller-L6563A)
 - Short Link: [http://oom.lt/SZKREGULATORCONTROLLERL6563A](http://oom.lt/SZKREGULATORCONTROLLERL6563A)

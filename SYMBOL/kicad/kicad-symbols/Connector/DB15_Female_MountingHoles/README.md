@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Connector-DB15_Female_MountingHoles
 - Hex ID: SZKCNDB15FHOLS
 - Name: Connector : DB15_Female_MountingHoles
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector/DB15_Female_MountingHoles/
 - Description: Connector : DB15_Female_MountingHoles
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-DB15_Female_MountingHoles](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-DB15_Female_MountingHoles)
 - Short Link: [http://oom.lt/SZKCNDB15FHOLS](http://oom.lt/SZKCNDB15FHOLS)

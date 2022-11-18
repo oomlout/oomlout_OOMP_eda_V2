@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-microchip-DIL18
 - Hex ID: FZEMCHIPDIL18
 - Name: microchip : DIL18
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/microchip/DIL18/
 - Description: microchip : DIL18
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-microchip-DIL18](http://oom.lt/FOOTPRINT-eagle-eagle-default-microchip-DIL18)
 - Short Link: [http://oom.lt/FZEMCHIPDIL18](http://oom.lt/FZEMCHIPDIL18)

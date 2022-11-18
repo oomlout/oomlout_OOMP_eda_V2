@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Current-MAX471
 - Hex ID: SZKAMPLIFIERCURRENTMAX471
 - Name: Amplifier_Current : MAX471
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Current/MAX471/
 - Description: Amplifier_Current : MAX471
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Current-MAX471](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Current-MAX471)
 - Short Link: [http://oom.lt/SZKAMPLIFIERCURRENTMAX471](http://oom.lt/SZKAMPLIFIERCURRENTMAX471)

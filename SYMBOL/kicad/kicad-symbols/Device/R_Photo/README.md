@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Device-R_Photo
 - Hex ID: SZKDEVICERPHOTO
 - Name: Device : R_Photo
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/R_Photo/
 - Description: Device : R_Photo
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-R_Photo](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-R_Photo)
 - Short Link: [http://oom.lt/SZKDEVICERPHOTO](http://oom.lt/SZKDEVICERPHOTO)

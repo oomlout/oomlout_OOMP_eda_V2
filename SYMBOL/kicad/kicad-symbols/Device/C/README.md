@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Device-C
 - Hex ID: SZKDEVICEC
 - Name: Device : C
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/C/
 - Description: Device : C
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-C](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-C)
 - Short Link: [http://oom.lt/SZKDEVICEC](http://oom.lt/SZKDEVICEC)

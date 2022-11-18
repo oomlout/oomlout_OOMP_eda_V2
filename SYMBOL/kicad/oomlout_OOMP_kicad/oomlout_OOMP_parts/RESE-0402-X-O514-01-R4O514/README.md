@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0402-X-O514-01-R4O514
 - Hex ID: SZOOMPKOOMPPRESE42XO5141R4O514
 - Name: oomlout_OOMP_parts : RESE-0402-X-O514-01-R4O514
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/RESE-0402-X-O514-01-R4O514/
 - Description: oomlout_OOMP_parts : RESE-0402-X-O514-01-R4O514
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0402-X-O514-01-R4O514](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0402-X-O514-01-R4O514)
 - Short Link: [http://oom.lt/SZOOMPKOOMPPRESE42XO5141R4O514](http://oom.lt/SZOOMPKOOMPPRESE42XO5141R4O514)

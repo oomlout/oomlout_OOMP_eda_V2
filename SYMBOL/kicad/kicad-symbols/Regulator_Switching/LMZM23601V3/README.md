@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-LMZM23601V3
 - Hex ID: SZKREGULATORSWINGLMZM2361V3
 - Name: Regulator_Switching : LMZM23601V3
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/LMZM23601V3/
 - Description: Regulator_Switching : LMZM23601V3
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LMZM23601V3](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LMZM23601V3)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGLMZM2361V3](http://oom.lt/SZKREGULATORSWINGLMZM2361V3)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-QFN48-6X6MM
 - Hex ID: FZSRFQFN486X6
 - Name: SparkFun-RF : QFN48-6X6MM
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-RF/QFN48-6X6MM/
 - Description: SparkFun-RF : QFN48-6X6MM
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-QFN48-6X6MM](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-QFN48-6X6MM)
 - Short Link: [http://oom.lt/FZSRFQFN486X6](http://oom.lt/FZSRFQFN486X6)

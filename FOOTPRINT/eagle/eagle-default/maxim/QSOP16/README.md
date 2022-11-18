@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-maxim-QSOP16
 - Hex ID: FZEMAXIMQS16
 - Name: maxim : QSOP16
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/maxim/QSOP16/
 - Description: maxim : QSOP16
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-maxim-QSOP16](http://oom.lt/FOOTPRINT-eagle-eagle-default-maxim-QSOP16)
 - Short Link: [http://oom.lt/FZEMAXIMQS16](http://oom.lt/FZEMAXIMQS16)

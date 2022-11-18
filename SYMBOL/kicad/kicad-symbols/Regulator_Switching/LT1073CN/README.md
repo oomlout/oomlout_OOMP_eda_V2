@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-LT1073CN
 - Hex ID: SZKREGULATORSWINGLT173CN
 - Name: Regulator_Switching : LT1073CN
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/LT1073CN/
 - Description: Regulator_Switching : LT1073CN
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LT1073CN](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LT1073CN)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGLT173CN](http://oom.lt/SZKREGULATORSWINGLT173CN)

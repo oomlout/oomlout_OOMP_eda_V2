@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-resistor-net-CTS753DRT18
 - Hex ID: FZERESISTORNETCTS753DRT18
 - Name: resistor-net : CTS753DRT18
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/resistor-net/CTS753DRT18/
 - Description: resistor-net : CTS753DRT18
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-resistor-net-CTS753DRT18](http://oom.lt/FOOTPRINT-eagle-eagle-default-resistor-net-CTS753DRT18)
 - Short Link: [http://oom.lt/FZERESISTORNETCTS753DRT18](http://oom.lt/FZERESISTORNETCTS753DRT18)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-resistor-bourns-4814P
 - Hex ID: FZERESISTORBOURNS4814P
 - Name: resistor-bourns : 4814P
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/resistor-bourns/4814P/
 - Description: resistor-bourns : 4814P
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-resistor-bourns-4814P](http://oom.lt/FOOTPRINT-eagle-eagle-default-resistor-bourns-4814P)
 - Short Link: [http://oom.lt/FZERESISTORBOURNS4814P](http://oom.lt/FZERESISTORBOURNS4814P)

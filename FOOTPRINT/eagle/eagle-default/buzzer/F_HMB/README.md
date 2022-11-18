@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-buzzer-F_HMB
 - Hex ID: FZEBUZZERFHMB
 - Name: buzzer : F_HMB
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/buzzer/F_HMB/
 - Description: buzzer : F_HMB
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-buzzer-F_HMB](http://oom.lt/FOOTPRINT-eagle-eagle-default-buzzer-F_HMB)
 - Short Link: [http://oom.lt/FZEBUZZERFHMB](http://oom.lt/FZEBUZZERFHMB)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-analog-devices-QFP64_SOT393
 - Hex ID: FZEANALOGDEVICESQFP64SOT393
 - Name: analog-devices : QFP64_SOT393
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/analog-devices/QFP64_SOT393/
 - Description: analog-devices : QFP64_SOT393
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-analog-devices-QFP64_SOT393](http://oom.lt/FOOTPRINT-eagle-eagle-default-analog-devices-QFP64_SOT393)
 - Short Link: [http://oom.lt/FZEANALOGDEVICESQFP64SOT393](http://oom.lt/FZEANALOGDEVICESQFP64SOT393)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Motor-Motor_Servo_Grapner_JR
 - Hex ID: SZKMOTORMOTORSERVOGRAPNERJR
 - Name: Motor : Motor_Servo_Grapner_JR
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Motor/Motor_Servo_Grapner_JR/
 - Description: Motor : Motor_Servo_Grapner_JR
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Motor-Motor_Servo_Grapner_JR](http://oom.lt/SYMBOL-kicad-kicad-symbols-Motor-Motor_Servo_Grapner_JR)
 - Short Link: [http://oom.lt/SZKMOTORMOTORSERVOGRAPNERJR](http://oom.lt/SZKMOTORMOTORSERVOGRAPNERJR)

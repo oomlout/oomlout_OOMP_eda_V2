@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Driver_Motor-L293D
 - Hex ID: SZKDRIVERMOTORL293D
 - Name: Driver_Motor : L293D
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Driver_Motor/L293D/
 - Description: Driver_Motor : L293D
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_Motor-L293D](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_Motor-L293D)
 - Short Link: [http://oom.lt/SZKDRIVERMOTORL293D](http://oom.lt/SZKDRIVERMOTORL293D)

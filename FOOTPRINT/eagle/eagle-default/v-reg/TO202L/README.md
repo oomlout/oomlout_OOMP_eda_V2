@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-v-reg-TO202L
 - Hex ID: FZEVREGTO22L
 - Name: v-reg : TO202L
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/v-reg/TO202L/
 - Description: v-reg : TO202L
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-v-reg-TO202L](http://oom.lt/FOOTPRINT-eagle-eagle-default-v-reg-TO202L)
 - Short Link: [http://oom.lt/FZEVREGTO22L](http://oom.lt/FZEVREGTO22L)

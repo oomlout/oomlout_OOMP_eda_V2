@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-lprs-SIL9
 - Hex ID: FZELPRSSIL9
 - Name: lprs : SIL9
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/lprs/SIL9/
 - Description: lprs : SIL9
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-lprs-SIL9](http://oom.lt/FOOTPRINT-eagle-eagle-default-lprs-SIL9)
 - Short Link: [http://oom.lt/FZELPRSSIL9](http://oom.lt/FZELPRSSIL9)

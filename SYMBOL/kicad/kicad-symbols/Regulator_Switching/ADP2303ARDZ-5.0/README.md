@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-ADP2303ARDZ-5.0
 - Hex ID: SZKREGULATORSWINGADP233ARDZ5
 - Name: Regulator_Switching : ADP2303ARDZ-5.0
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/ADP2303ARDZ-5.0/
 - Description: Regulator_Switching : ADP2303ARDZ-5.0
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-ADP2303ARDZ-5.0](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-ADP2303ARDZ-5.0)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGADP233ARDZ5](http://oom.lt/SZKREGULATORSWINGADP233ARDZ5)

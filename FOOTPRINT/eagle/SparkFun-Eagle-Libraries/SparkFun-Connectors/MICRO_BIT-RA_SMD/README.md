@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-MICRO_BIT-RA_SMD
 - Hex ID: FZSSPARKFUNCNSMBITRASM
 - Name: SparkFun-Connectors : MICRO_BIT-RA_SMD
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Connectors/MICRO_BIT-RA_SMD/
 - Description: SparkFun-Connectors : MICRO_BIT-RA_SMD
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-MICRO_BIT-RA_SMD](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-MICRO_BIT-RA_SMD)
 - Short Link: [http://oom.lt/FZSSPARKFUNCNSMBITRASM](http://oom.lt/FZSSPARKFUNCNSMBITRASM)

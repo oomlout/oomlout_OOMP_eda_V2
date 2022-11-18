@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-power-VD
 - Hex ID: SZKPOWERVD
 - Name: power : VD
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/power/VD/
 - Description: power : VD
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-power-VD](http://oom.lt/SYMBOL-kicad-kicad-symbols-power-VD)
 - Short Link: [http://oom.lt/SZKPOWERVD](http://oom.lt/SZKPOWERVD)

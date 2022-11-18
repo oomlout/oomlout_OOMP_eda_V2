@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Oscillator-Oscillator_SeikoEpson_SG-8002DB
 - Hex ID: FZKOCSOCSSEIKOEPSONSG82DB
 - Name: Oscillator : Oscillator_SeikoEpson_SG-8002DB
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Oscillator/Oscillator_SeikoEpson_SG-8002DB/
 - Description: Oscillator : Oscillator_SeikoEpson_SG-8002DB
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Oscillator-Oscillator_SeikoEpson_SG-8002DB](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Oscillator-Oscillator_SeikoEpson_SG-8002DB)
 - Short Link: [http://oom.lt/FZKOCSOCSSEIKOEPSONSG82DB](http://oom.lt/FZKOCSOCSSEIKOEPSONSG82DB)

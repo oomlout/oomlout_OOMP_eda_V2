@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_12x12mm_H4.5mm
 - Hex ID: FZKINL12X12H45
 - Name: Inductor_SMD : L_12x12mm_H4.5mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_12x12mm_H4.5mm/
 - Description: Inductor_SMD : L_12x12mm_H4.5mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_12x12mm_H4.5mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_12x12mm_H4.5mm)
 - Short Link: [http://oom.lt/FZKINL12X12H45](http://oom.lt/FZKINL12X12H45)

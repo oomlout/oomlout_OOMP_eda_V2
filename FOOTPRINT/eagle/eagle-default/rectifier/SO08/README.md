@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-rectifier-SO08
 - Hex ID: FZERECTIFIERSO8
 - Name: rectifier : SO08
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/rectifier/SO08/
 - Description: rectifier : SO08
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-rectifier-SO08](http://oom.lt/FOOTPRINT-eagle-eagle-default-rectifier-SO08)
 - Short Link: [http://oom.lt/FZERECTIFIERSO8](http://oom.lt/FZERECTIFIERSO8)

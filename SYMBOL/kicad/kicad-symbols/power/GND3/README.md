@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-power-GND3
 - Hex ID: SZKPOWERGND3
 - Name: power : GND3
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/power/GND3/
 - Description: power : GND3
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-power-GND3](http://oom.lt/SYMBOL-kicad-kicad-symbols-power-GND3)
 - Short Link: [http://oom.lt/SZKPOWERGND3](http://oom.lt/SZKPOWERGND3)

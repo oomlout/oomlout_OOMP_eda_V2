@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-logo-VDE
 - Hex ID: FZELVDE
 - Name: logo : VDE
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/logo/VDE/
 - Description: logo : VDE
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-logo-VDE](http://oom.lt/FOOTPRINT-eagle-eagle-default-logo-VDE)
 - Short Link: [http://oom.lt/FZELVDE](http://oom.lt/FZELVDE)

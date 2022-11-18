@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Battery_Management-BQ25570
 - Hex ID: SZKBATMANAGEMENTBQ2557
 - Name: Battery_Management : BQ25570
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Battery_Management/BQ25570/
 - Description: Battery_Management : BQ25570
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Battery_Management-BQ25570](http://oom.lt/SYMBOL-kicad-kicad-symbols-Battery_Management-BQ25570)
 - Short Link: [http://oom.lt/SZKBATMANAGEMENTBQ2557](http://oom.lt/SZKBATMANAGEMENTBQ2557)

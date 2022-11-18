@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-SMF15A
 - Hex ID: SZKDIODESMF15A
 - Name: Diode : SMF15A
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/SMF15A/
 - Description: Diode : SMF15A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-SMF15A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-SMF15A)
 - Short Link: [http://oom.lt/SZKDIODESMF15A](http://oom.lt/SZKDIODESMF15A)

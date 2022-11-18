@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Switches-REED_SWITCH_GLASS
 - Hex ID: FZSWREEDSWGLASS
 - Name: SparkFun-Switches : REED_SWITCH_GLASS
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Switches/REED_SWITCH_GLASS/
 - Description: SparkFun-Switches : REED_SWITCH_GLASS
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Switches-REED_SWITCH_GLASS](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Switches-REED_SWITCH_GLASS)
 - Short Link: [http://oom.lt/FZSWREEDSWGLASS](http://oom.lt/FZSWREEDSWGLASS)

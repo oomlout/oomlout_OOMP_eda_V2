@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-M2309
 - Hex ID: FZAM239
 - Name: adafruit : M2309
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/M2309/
 - Description: adafruit : M2309
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-M2309](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-M2309)
 - Short Link: [http://oom.lt/FZAM239](http://oom.lt/FZAM239)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_KK-396_A-41791-0003_1x03_P3.96mm_Vertical
 - Hex ID: FZKCNMXMXKK396A4179131X3P396F
 - Name: Connector_Molex : Molex_KK-396_A-41791-0003_1x03_P3.96mm_Vertical
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_KK-396_A-41791-0003_1x03_P3.96mm_Vertical/
 - Description: Connector_Molex : Molex_KK-396_A-41791-0003_1x03_P3.96mm_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_KK-396_A-41791-0003_1x03_P3.96mm_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_KK-396_A-41791-0003_1x03_P3.96mm_Vertical)
 - Short Link: [http://oom.lt/FZKCNMXMXKK396A4179131X3P396F](http://oom.lt/FZKCNMXMXKK396A4179131X3P396F)

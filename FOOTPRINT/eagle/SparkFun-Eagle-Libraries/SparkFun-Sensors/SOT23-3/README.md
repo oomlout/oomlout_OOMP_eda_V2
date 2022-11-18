@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-SOT23-3
 - Hex ID: FZSSPARKFUNSENSSOT233
 - Name: SparkFun-Sensors : SOT23-3
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Sensors/SOT23-3/
 - Description: SparkFun-Sensors : SOT23-3
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-SOT23-3](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-SOT23-3)
 - Short Link: [http://oom.lt/FZSSPARKFUNSENSSOT233](http://oom.lt/FZSSPARKFUNSENSSOT233)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-microchip-DIL28-3
 - Hex ID: FZEMCHIPDIL283
 - Name: microchip : DIL28-3
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/microchip/DIL28-3/
 - Description: microchip : DIL28-3
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-microchip-DIL28-3](http://oom.lt/FOOTPRINT-eagle-eagle-default-microchip-DIL28-3)
 - Short Link: [http://oom.lt/FZEMCHIPDIL283](http://oom.lt/FZEMCHIPDIL283)

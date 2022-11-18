@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-trafo-PT22-1
 - Hex ID: FZETRAFOPT221
 - Name: trafo : PT22-1
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/trafo/PT22-1/
 - Description: trafo : PT22-1
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-trafo-PT22-1](http://oom.lt/FOOTPRINT-eagle-eagle-default-trafo-PT22-1)
 - Short Link: [http://oom.lt/FZETRAFOPT221](http://oom.lt/FZETRAFOPT221)

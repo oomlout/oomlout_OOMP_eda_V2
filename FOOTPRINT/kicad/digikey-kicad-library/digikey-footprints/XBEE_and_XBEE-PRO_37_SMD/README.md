@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-XBEE_and_XBEE-PRO_37_SMD
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSXBEEANDXBEEPRO37SM
 - Name: digikey-footprints : XBEE_and_XBEE-PRO_37_SMD
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/XBEE_and_XBEE-PRO_37_SMD/
 - Description: digikey-footprints : XBEE_and_XBEE-PRO_37_SMD
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-XBEE_and_XBEE-PRO_37_SMD](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-XBEE_and_XBEE-PRO_37_SMD)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSXBEEANDXBEEPRO37SM](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSXBEEANDXBEEPRO37SM)

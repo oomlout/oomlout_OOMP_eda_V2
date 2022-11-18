@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-LM5164DDA
 - Hex ID: SZKREGULATORSWINGLM5164DDA
 - Name: Regulator_Switching : LM5164DDA
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/LM5164DDA/
 - Description: Regulator_Switching : LM5164DDA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LM5164DDA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LM5164DDA)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGLM5164DDA](http://oom.lt/SZKREGULATORSWINGLM5164DDA)

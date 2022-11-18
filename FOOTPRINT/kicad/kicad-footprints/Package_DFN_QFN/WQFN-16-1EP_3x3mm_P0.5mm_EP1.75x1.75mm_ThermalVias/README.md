@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKDFNWQFN161EP3X3P5EP175X175THERMALVIAS > Package_DFN_QFN : WQFN-16-1EP_3x3mm_P0.5mm_EP1.75x1.75mm_ThermalVias](#fzkdfnwqfn161ep3x3p5ep175x175thermalvias--package_dfn_qfn--wqfn-16-1ep_3x3mm_p05mm_ep175x175mm_thermalvias)
+* [FZKDFNWQFN161EP3X3P5EP175X175THV > Package_DFN_QFN : WQFN-16-1EP_3x3mm_P0.5mm_EP1.75x1.75mm_ThermalVias](#fzkdfnwqfn161ep3x3p5ep175x175thv--package_dfn_qfn--wqfn-16-1ep_3x3mm_p05mm_ep175x175mm_thermalvias)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKDFNWQFN161EP3X3P5EP175X175THERMALVIAS > Package_DFN_QFN : WQFN-16-1EP_3x3mm_P0.5mm_EP1.75x1.75mm_ThermalVias
+# FZKDFNWQFN161EP3X3P5EP175X175THV > Package_DFN_QFN : WQFN-16-1EP_3x3mm_P0.5mm_EP1.75x1.75mm_ThermalVias
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-WQFN-16-1EP_3x3mm_P0.5mm_EP1.75x1.75mm_ThermalVias
-- Hex ID: FZKDFNWQFN161EP3X3P5EP175X175THERMALVIAS
+- Hex ID: FZKDFNWQFN161EP3X3P5EP175X175THV
 - Name: Package_DFN_QFN : WQFN-16-1EP_3x3mm_P0.5mm_EP1.75x1.75mm_ThermalVias
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/WQFN-16-1EP_3x3mm_P0.5mm_EP1.75x1.75mm_ThermalVias/
 - Description: Package_DFN_QFN : WQFN-16-1EP_3x3mm_P0.5mm_EP1.75x1.75mm_ThermalVias
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-WQFN-16-1EP_3x3mm_P0.5mm_EP1.75x1.75mm_ThermalVias](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-WQFN-16-1EP_3x3mm_P0.5mm_EP1.75x1.75mm_ThermalVias)
-- Short Link: [http://oom.lt/FZKDFNWQFN161EP3X3P5EP175X175THERMALVIAS](http://oom.lt/FZKDFNWQFN161EP3X3P5EP175X175THERMALVIAS)
+- Short Link: [http://oom.lt/FZKDFNWQFN161EP3X3P5EP175X175THV](http://oom.lt/FZKDFNWQFN161EP3X3P5EP175X175THV)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Package_DFN_QFN|
 |OOMP Index|oompIndex|WQFN-16-1EP_3x3mm_P0.5mm_EP1.75x1.75mm_ThermalVias|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-WQFN-16-1EP_3x3mm_P0.5mm_EP1.75x1.75mm_ThermalVias|
-|Hex ID (short code)|hexID|FZKDFNWQFN161EP3X3P5EP175X175THERMALVIAS|
+|Hex ID (short code)|hexID|FZKDFNWQFN161EP3X3P5EP175X175THV|
 |name|name|Package_DFN_QFN : WQFN-16-1EP_3x3mm_P0.5mm_EP1.75x1.75mm_ThermalVias|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'WQFN-16-1EP_3x3mm_P0.5mm_EP1.75x1.75mm_ThermalVias'</td><td> 'description'</td></tr><tr><td> 'WQFN</td><td> 16 Pin (https</td></tr><tr><td>//www.onsemi.com/pub/Collateral/FUSB307B-D.PDF#page=56)</td><td> generated with kicad-footprint-generator ipc_noLead_generator.py'</td><td> 'tags'</td></tr><tr><td> 'WQFN NoLead'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_DFN_QFN.3dshapes/WQFN-16-1EP_3x3mm_P0.5mm_EP1.75x1.75mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||

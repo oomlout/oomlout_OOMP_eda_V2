@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Capacitor_THT-C_Axial_L5.1mm_D3.1mm_P15.00mm_Horizontal
 - Hex ID: FZKCCAXIALL51D31P15H
 - Name: Capacitor_THT : C_Axial_L5.1mm_D3.1mm_P15.00mm_Horizontal
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Capacitor_THT/C_Axial_L5.1mm_D3.1mm_P15.00mm_Horizontal/
 - Description: Capacitor_THT : C_Axial_L5.1mm_D3.1mm_P15.00mm_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_THT-C_Axial_L5.1mm_D3.1mm_P15.00mm_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_THT-C_Axial_L5.1mm_D3.1mm_P15.00mm_Horizontal)
 - Short Link: [http://oom.lt/FZKCCAXIALL51D31P15H](http://oom.lt/FZKCCAXIALL51D31P15H)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_LCC-PLCC-68
 - Hex ID: FZKLCCPLCC68
 - Name: Package_LCC : PLCC-68
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_LCC/PLCC-68/
 - Description: Package_LCC : PLCC-68
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_LCC-PLCC-68](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_LCC-PLCC-68)
 - Short Link: [http://oom.lt/FZKLCCPLCC68](http://oom.lt/FZKLCCPLCC68)

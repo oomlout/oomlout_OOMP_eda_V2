@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-power-+2V8
 - Hex ID: SZKPOWER+2V8
 - Name: power : +2V8
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/power/+2V8/
 - Description: power : +2V8
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-power-+2V8](http://oom.lt/SYMBOL-kicad-kicad-symbols-power-+2V8)
 - Short Link: [http://oom.lt/SZKPOWER+2V8](http://oom.lt/SZKPOWER+2V8)

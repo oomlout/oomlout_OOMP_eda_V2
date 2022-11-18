@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-buzzer-AL30P
 - Hex ID: FZEBUZZERAL3P
 - Name: buzzer : AL30P
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/buzzer/AL30P/
 - Description: buzzer : AL30P
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-buzzer-AL30P](http://oom.lt/FOOTPRINT-eagle-eagle-default-buzzer-AL30P)
 - Short Link: [http://oom.lt/FZEBUZZERAL3P](http://oom.lt/FZEBUZZERAL3P)

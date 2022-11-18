@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Display_Character-RC1602A-GHW-ESX
 - Hex ID: SZKDICHARACTERRC162AGHWESX
 - Name: Display_Character : RC1602A-GHW-ESX
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Display_Character/RC1602A-GHW-ESX/
 - Description: Display_Character : RC1602A-GHW-ESX
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-RC1602A-GHW-ESX](http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-RC1602A-GHW-ESX)
 - Short Link: [http://oom.lt/SZKDICHARACTERRC162AGHWESX](http://oom.lt/SZKDICHARACTERRC162AGHWESX)

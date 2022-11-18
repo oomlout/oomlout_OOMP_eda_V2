@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_Expansion-TCA9548APWR
 - Hex ID: SZKINTERFACEEXPANSIONTCA9548APWR
 - Name: Interface_Expansion : TCA9548APWR
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_Expansion/TCA9548APWR/
 - Description: Interface_Expansion : TCA9548APWR
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Expansion-TCA9548APWR](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Expansion-TCA9548APWR)
 - Short Link: [http://oom.lt/SZKINTERFACEEXPANSIONTCA9548APWR](http://oom.lt/SZKINTERFACEEXPANSIONTCA9548APWR)

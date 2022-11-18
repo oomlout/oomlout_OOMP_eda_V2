@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKSONTEXASSPWSONN1THERMALVIAS > Package_SON : Texas_S-PWSON-N10_ThermalVias](#fzksontexasspwsonn1thermalvias--package_son--texas_s-pwson-n10_thermalvias)
+* [FZKSONTEXASSPWSONN1THV > Package_SON : Texas_S-PWSON-N10_ThermalVias](#fzksontexasspwsonn1thv--package_son--texas_s-pwson-n10_thermalvias)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKSONTEXASSPWSONN1THERMALVIAS > Package_SON : Texas_S-PWSON-N10_ThermalVias
+# FZKSONTEXASSPWSONN1THV > Package_SON : Texas_S-PWSON-N10_ThermalVias
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_SON-Texas_S-PWSON-N10_ThermalVias
-- Hex ID: FZKSONTEXASSPWSONN1THERMALVIAS
+- Hex ID: FZKSONTEXASSPWSONN1THV
 - Name: Package_SON : Texas_S-PWSON-N10_ThermalVias
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SON/Texas_S-PWSON-N10_ThermalVias/
 - Description: Package_SON : Texas_S-PWSON-N10_ThermalVias
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SON-Texas_S-PWSON-N10_ThermalVias](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SON-Texas_S-PWSON-N10_ThermalVias)
-- Short Link: [http://oom.lt/FZKSONTEXASSPWSONN1THERMALVIAS](http://oom.lt/FZKSONTEXASSPWSONN1THERMALVIAS)
+- Short Link: [http://oom.lt/FZKSONTEXASSPWSONN1THV](http://oom.lt/FZKSONTEXASSPWSONN1THV)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Package_SON|
 |OOMP Index|oompIndex|Texas_S-PWSON-N10_ThermalVias|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_SON-Texas_S-PWSON-N10_ThermalVias|
-|Hex ID (short code)|hexID|FZKSONTEXASSPWSONN1THERMALVIAS|
+|Hex ID (short code)|hexID|FZKSONTEXASSPWSONN1THV|
 |name|name|Package_SON : Texas_S-PWSON-N10_ThermalVias|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Texas_S-PWSON-N10_ThermalVias'</td><td> 'description'</td></tr><tr><td> '3x3mm Body</td><td> 0.5mm Pitch</td><td> S-PWSON-N10</td><td> DSC</td><td> http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/tps63060.pdf'</td><td> 'tags'</td></tr><tr><td> '0.5 S-PWSON-N10 DSC'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_SON.3dshapes/Texas_S-PWSON-N10.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

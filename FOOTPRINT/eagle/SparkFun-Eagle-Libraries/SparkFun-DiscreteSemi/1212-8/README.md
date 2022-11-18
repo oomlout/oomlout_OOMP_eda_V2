@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-DiscreteSemi-1212-8
 - Hex ID: FZSDS12128
 - Name: SparkFun-DiscreteSemi : 1212-8
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-DiscreteSemi/1212-8/
 - Description: SparkFun-DiscreteSemi : 1212-8
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-DiscreteSemi-1212-8](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-DiscreteSemi-1212-8)
 - Short Link: [http://oom.lt/FZSDS12128](http://oom.lt/FZSDS12128)

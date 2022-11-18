@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Ethernet_Jack_ARJC02-111008B
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSETHERNETJARJC21118B
 - Name: digikey-footprints : Ethernet_Jack_ARJC02-111008B
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Ethernet_Jack_ARJC02-111008B/
 - Description: digikey-footprints : Ethernet_Jack_ARJC02-111008B
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Ethernet_Jack_ARJC02-111008B](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Ethernet_Jack_ARJC02-111008B)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSETHERNETJARJC21118B](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSETHERNETJARJC21118B)

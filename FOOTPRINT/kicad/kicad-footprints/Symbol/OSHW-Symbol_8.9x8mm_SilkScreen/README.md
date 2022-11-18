@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Symbol-OSHW-Symbol_8.9x8mm_SilkScreen
 - Hex ID: FZKSZOSHWSY89X8SILKSCREEN
 - Name: Symbol : OSHW-Symbol_8.9x8mm_SilkScreen
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Symbol/OSHW-Symbol_8.9x8mm_SilkScreen/
 - Description: Symbol : OSHW-Symbol_8.9x8mm_SilkScreen
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Symbol-OSHW-Symbol_8.9x8mm_SilkScreen](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Symbol-OSHW-Symbol_8.9x8mm_SilkScreen)
 - Short Link: [http://oom.lt/FZKSZOSHWSY89X8SILKSCREEN](http://oom.lt/FZKSZOSHWSY89X8SILKSCREEN)

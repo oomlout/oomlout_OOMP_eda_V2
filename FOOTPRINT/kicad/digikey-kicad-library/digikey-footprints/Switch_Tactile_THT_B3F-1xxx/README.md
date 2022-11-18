@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Switch_Tactile_THT_B3F-1xxx
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSSWTTHTB3F1XXX
 - Name: digikey-footprints : Switch_Tactile_THT_B3F-1xxx
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Switch_Tactile_THT_B3F-1xxx/
 - Description: digikey-footprints : Switch_Tactile_THT_B3F-1xxx
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Switch_Tactile_THT_B3F-1xxx](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Switch_Tactile_THT_B3F-1xxx)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSSWTTHTB3F1XXX](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSSWTTHTB3F1XXX)

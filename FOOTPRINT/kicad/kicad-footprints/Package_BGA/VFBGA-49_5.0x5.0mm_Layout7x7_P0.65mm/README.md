@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_BGA-VFBGA-49_5.0x5.0mm_Layout7x7_P0.65mm
 - Hex ID: FZKBGAVFBGA495X5LAYOUT7X7P65
 - Name: Package_BGA : VFBGA-49_5.0x5.0mm_Layout7x7_P0.65mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_BGA/VFBGA-49_5.0x5.0mm_Layout7x7_P0.65mm/
 - Description: Package_BGA : VFBGA-49_5.0x5.0mm_Layout7x7_P0.65mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_BGA-VFBGA-49_5.0x5.0mm_Layout7x7_P0.65mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_BGA-VFBGA-49_5.0x5.0mm_Layout7x7_P0.65mm)
 - Short Link: [http://oom.lt/FZKBGAVFBGA495X5LAYOUT7X7P65](http://oom.lt/FZKBGAVFBGA495X5LAYOUT7X7P65)

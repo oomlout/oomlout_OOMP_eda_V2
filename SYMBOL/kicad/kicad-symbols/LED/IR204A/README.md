@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-LED-IR204A
 - Hex ID: SZKLIR24A
 - Name: LED : IR204A
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/LED/IR204A/
 - Description: LED : IR204A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-LED-IR204A](http://oom.lt/SYMBOL-kicad-kicad-symbols-LED-IR204A)
 - Short Link: [http://oom.lt/SZKLIR24A](http://oom.lt/SZKLIR24A)

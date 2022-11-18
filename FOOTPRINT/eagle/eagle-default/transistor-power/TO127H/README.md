@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-transistor-power-TO127H
 - Hex ID: FZETRANSISTORPOWERTO127H
 - Name: transistor-power : TO127H
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/transistor-power/TO127H/
 - Description: transistor-power : TO127H
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-power-TO127H](http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-power-TO127H)
 - Short Link: [http://oom.lt/FZETRANSISTORPOWERTO127H](http://oom.lt/FZETRANSISTORPOWERTO127H)

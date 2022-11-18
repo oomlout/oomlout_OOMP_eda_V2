@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_PHD_B34B-PHDSS_2x17_P2.00mm_Vertical
 - Hex ID: FZKCNJSTJSTPHDB34BPHDSS2X17P2F
 - Name: Connector_JST : JST_PHD_B34B-PHDSS_2x17_P2.00mm_Vertical
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_PHD_B34B-PHDSS_2x17_P2.00mm_Vertical/
 - Description: Connector_JST : JST_PHD_B34B-PHDSS_2x17_P2.00mm_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_PHD_B34B-PHDSS_2x17_P2.00mm_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_PHD_B34B-PHDSS_2x17_P2.00mm_Vertical)
 - Short Link: [http://oom.lt/FZKCNJSTJSTPHDB34BPHDSS2X17P2F](http://oom.lt/FZKCNJSTJSTPHDB34BPHDSS2X17P2F)

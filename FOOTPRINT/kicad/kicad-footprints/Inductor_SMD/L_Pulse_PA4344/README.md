@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Pulse_PA4344
 - Hex ID: FZKINLPULSEPA4344
 - Name: Inductor_SMD : L_Pulse_PA4344
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Pulse_PA4344/
 - Description: Inductor_SMD : L_Pulse_PA4344
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Pulse_PA4344](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Pulse_PA4344)
 - Short Link: [http://oom.lt/FZKINLPULSEPA4344](http://oom.lt/FZKINLPULSEPA4344)

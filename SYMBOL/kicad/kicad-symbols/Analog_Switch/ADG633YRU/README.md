@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Analog_Switch-ADG633YRU
 - Hex ID: SZKANALOGSWADG633YRU
 - Name: Analog_Switch : ADG633YRU
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog_Switch/ADG633YRU/
 - Description: Analog_Switch : ADG633YRU
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_Switch-ADG633YRU](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_Switch-ADG633YRU)
 - Short Link: [http://oom.lt/SZKANALOGSWADG633YRU](http://oom.lt/SZKANALOGSWADG633YRU)

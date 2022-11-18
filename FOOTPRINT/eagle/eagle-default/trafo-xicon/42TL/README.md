@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-trafo-xicon-42TL
 - Hex ID: FZETRAFOXICON42TL
 - Name: trafo-xicon : 42TL
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/trafo-xicon/42TL/
 - Description: trafo-xicon : 42TL
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-trafo-xicon-42TL](http://oom.lt/FOOTPRINT-eagle-eagle-default-trafo-xicon-42TL)
 - Short Link: [http://oom.lt/FZETRAFOXICON42TL](http://oom.lt/FZETRAFOXICON42TL)

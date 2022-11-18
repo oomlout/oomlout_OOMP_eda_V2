@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Device-LED_RABG
 - Hex ID: SZKDEVICELRABG
 - Name: Device : LED_RABG
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/LED_RABG/
 - Description: Device : LED_RABG
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-LED_RABG](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-LED_RABG)
 - Short Link: [http://oom.lt/SZKDEVICELRABG](http://oom.lt/SZKDEVICELRABG)

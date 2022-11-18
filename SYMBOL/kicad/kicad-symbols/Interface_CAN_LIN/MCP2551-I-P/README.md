@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_CAN_LIN-MCP2551-I-P
 - Hex ID: SZKINTERFACECANLINMCP2551IP
 - Name: Interface_CAN_LIN : MCP2551-I-P
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_CAN_LIN/MCP2551-I-P/
 - Description: Interface_CAN_LIN : MCP2551-I-P
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_CAN_LIN-MCP2551-I-P](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_CAN_LIN-MCP2551-I-P)
 - Short Link: [http://oom.lt/SZKINTERFACECANLINMCP2551IP](http://oom.lt/SZKINTERFACECANLINMCP2551IP)

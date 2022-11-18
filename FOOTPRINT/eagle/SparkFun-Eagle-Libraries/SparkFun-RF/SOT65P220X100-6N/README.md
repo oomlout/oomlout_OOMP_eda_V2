@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-SOT65P220X100-6N
 - Hex ID: FZSRFSOT65P22X16N
 - Name: SparkFun-RF : SOT65P220X100-6N
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-RF/SOT65P220X100-6N/
 - Description: SparkFun-RF : SOT65P220X100-6N
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-SOT65P220X100-6N](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-SOT65P220X100-6N)
 - Short Link: [http://oom.lt/FZSRFSOT65P22X16N](http://oom.lt/FZSRFSOT65P22X16N)

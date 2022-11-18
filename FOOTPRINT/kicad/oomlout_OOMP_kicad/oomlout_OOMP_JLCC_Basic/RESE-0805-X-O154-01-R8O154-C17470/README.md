@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-RESE-0805-X-O154-01-R8O154-C17470
 - Hex ID: FZOOMPKJLCRESE85XO1541R8O154C1747
 - Name: oomlout_OOMP_JLCC_Basic : RESE-0805-X-O154-01-R8O154-C17470
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_JLCC_Basic/RESE-0805-X-O154-01-R8O154-C17470/
 - Description: oomlout_OOMP_JLCC_Basic : RESE-0805-X-O154-01-R8O154-C17470
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-RESE-0805-X-O154-01-R8O154-C17470](http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-RESE-0805-X-O154-01-R8O154-C17470)
 - Short Link: [http://oom.lt/FZOOMPKJLCRESE85XO1541R8O154C1747](http://oom.lt/FZOOMPKJLCRESE85XO1541R8O154C1747)

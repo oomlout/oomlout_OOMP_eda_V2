@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-diode-SC70-3-R
 - Hex ID: FZEDIODESC73R
 - Name: diode : SC70-3-R
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/diode/SC70-3-R/
 - Description: diode : SC70-3-R
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-diode-SC70-3-R](http://oom.lt/FOOTPRINT-eagle-eagle-default-diode-SC70-3-R)
 - Short Link: [http://oom.lt/FZEDIODESC73R](http://oom.lt/FZEDIODESC73R)

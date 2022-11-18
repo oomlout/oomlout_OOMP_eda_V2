@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-LP5907MFX-1.5
 - Hex ID: SZKREGULATORLINEARLP597MFX15
 - Name: Regulator_Linear : LP5907MFX-1.5
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LP5907MFX-1.5/
 - Description: Regulator_Linear : LP5907MFX-1.5
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LP5907MFX-1.5](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LP5907MFX-1.5)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARLP597MFX15](http://oom.lt/SZKREGULATORLINEARLP597MFX15)

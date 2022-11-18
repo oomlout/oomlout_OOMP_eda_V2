@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEINDUCTORSCR32 > inductors : CR32](#fzeinductorscr32--inductors--cr32)
+* [FZEINSCR32 > inductors : CR32](#fzeinscr32--inductors--cr32)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEINDUCTORSCR32 > inductors : CR32
+# FZEINSCR32 > inductors : CR32
 
 - ID: FOOTPRINT-eagle-eagle-default-inductors-CR32
-- Hex ID: FZEINDUCTORSCR32
+- Hex ID: FZEINSCR32
 - Name: inductors : CR32
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/inductors/CR32/
 - Description: inductors : CR32
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-inductors-CR32](http://oom.lt/FOOTPRINT-eagle-eagle-default-inductors-CR32)
-- Short Link: [http://oom.lt/FZEINDUCTORSCR32](http://oom.lt/FZEINDUCTORSCR32)
+- Short Link: [http://oom.lt/FZEINSCR32](http://oom.lt/FZEINSCR32)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|inductors|
 |OOMP Index|oompIndex|CR32|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-inductors-CR32|
-|Hex ID (short code)|hexID|FZEINDUCTORSCR32|
+|Hex ID (short code)|hexID|FZEINSCR32|
 |name|name|inductors : CR32|
 ||||

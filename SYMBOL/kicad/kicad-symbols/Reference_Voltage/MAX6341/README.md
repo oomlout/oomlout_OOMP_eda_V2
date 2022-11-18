@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Reference_Voltage-MAX6341
 - Hex ID: SZKREFERENCEVOLTAGEMAX6341
 - Name: Reference_Voltage : MAX6341
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Reference_Voltage/MAX6341/
 - Description: Reference_Voltage : MAX6341
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Voltage-MAX6341](http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Voltage-MAX6341)
 - Short Link: [http://oom.lt/SZKREFERENCEVOLTAGEMAX6341](http://oom.lt/SZKREFERENCEVOLTAGEMAX6341)

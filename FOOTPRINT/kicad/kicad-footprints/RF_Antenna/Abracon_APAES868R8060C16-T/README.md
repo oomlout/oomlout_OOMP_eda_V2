@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-RF_Antenna-Abracon_APAES868R8060C16-T
 - Hex ID: FZKRFABRACONAPAES868R86C16T
 - Name: RF_Antenna : Abracon_APAES868R8060C16-T
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/RF_Antenna/Abracon_APAES868R8060C16-T/
 - Description: RF_Antenna : Abracon_APAES868R8060C16-T
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_Antenna-Abracon_APAES868R8060C16-T](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_Antenna-Abracon_APAES868R8060C16-T)
 - Short Link: [http://oom.lt/FZKRFABRACONAPAES868R86C16T](http://oom.lt/FZKRFABRACONAPAES868R86C16T)

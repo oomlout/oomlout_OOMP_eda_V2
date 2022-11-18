@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-memory-SOP28X
 - Hex ID: FZEMEMORYS28X
 - Name: memory : SOP28X
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/memory/SOP28X/
 - Description: memory : SOP28X
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-memory-SOP28X](http://oom.lt/FOOTPRINT-eagle-eagle-default-memory-SOP28X)
 - Short Link: [http://oom.lt/FZEMEMORYS28X](http://oom.lt/FZEMEMORYS28X)

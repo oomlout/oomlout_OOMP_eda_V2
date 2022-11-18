@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-special-AG
 - Hex ID: FZESPECIALAG
 - Name: special : AG
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/special/AG/
 - Description: special : AG
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-special-AG](http://oom.lt/FOOTPRINT-eagle-eagle-default-special-AG)
 - Short Link: [http://oom.lt/FZESPECIALAG](http://oom.lt/FZESPECIALAG)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-4xxx_IEEE-4174
 - Hex ID: SZK4XXXIEEE4174
 - Name: 4xxx_IEEE : 4174
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/4xxx_IEEE/4174/
 - Description: 4xxx_IEEE : 4174
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-4xxx_IEEE-4174](http://oom.lt/SYMBOL-kicad-kicad-symbols-4xxx_IEEE-4174)
 - Short Link: [http://oom.lt/SZK4XXXIEEE4174](http://oom.lt/SZK4XXXIEEE4174)

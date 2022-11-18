@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Analog_ADC-LTC2358-18
 - Hex ID: SZKANALOGADCLTC235818
 - Name: Analog_ADC : LTC2358-18
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog_ADC/LTC2358-18/
 - Description: Analog_ADC : LTC2358-18
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-LTC2358-18](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-LTC2358-18)
 - Short Link: [http://oom.lt/SZKANALOGADCLTC235818](http://oom.lt/SZKANALOGADCLTC235818)

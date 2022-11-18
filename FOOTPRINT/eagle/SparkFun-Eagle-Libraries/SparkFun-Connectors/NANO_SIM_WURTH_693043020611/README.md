@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-NANO_SIM_WURTH_693043020611
 - Hex ID: FZSSPARKFUNCNSNANOSIMWURTH693432611
 - Name: SparkFun-Connectors : NANO_SIM_WURTH_693043020611
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Connectors/NANO_SIM_WURTH_693043020611/
 - Description: SparkFun-Connectors : NANO_SIM_WURTH_693043020611
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-NANO_SIM_WURTH_693043020611](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-NANO_SIM_WURTH_693043020611)
 - Short Link: [http://oom.lt/FZSSPARKFUNCNSNANOSIMWURTH693432611](http://oom.lt/FZSSPARKFUNCNSNANOSIMWURTH693432611)

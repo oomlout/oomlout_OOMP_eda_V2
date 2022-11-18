@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-TO-92-AMMO
 - Hex ID: FZSSPARKFUNSENSTO92AO
 - Name: SparkFun-Sensors : TO-92-AMMO
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Sensors/TO-92-AMMO/
 - Description: SparkFun-Sensors : TO-92-AMMO
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-TO-92-AMMO](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-TO-92-AMMO)
 - Short Link: [http://oom.lt/FZSSPARKFUNSENSTO92AO](http://oom.lt/FZSSPARKFUNSENSTO92AO)

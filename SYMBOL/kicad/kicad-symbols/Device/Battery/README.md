@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Device-Battery
 - Hex ID: SZKDEVICEBAT
 - Name: Device : Battery
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/Battery/
 - Description: Device : Battery
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Battery](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Battery)
 - Short Link: [http://oom.lt/SZKDEVICEBAT](http://oom.lt/SZKDEVICEBAT)

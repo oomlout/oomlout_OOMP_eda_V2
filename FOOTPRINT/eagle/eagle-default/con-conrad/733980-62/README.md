@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-conrad-733980-62
 - Hex ID: FZECONCONRAD7339862
 - Name: con-conrad : 733980-62
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-conrad/733980-62/
 - Description: con-conrad : 733980-62
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-conrad-733980-62](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-conrad-733980-62)
 - Short Link: [http://oom.lt/FZECONCONRAD7339862](http://oom.lt/FZECONCONRAD7339862)

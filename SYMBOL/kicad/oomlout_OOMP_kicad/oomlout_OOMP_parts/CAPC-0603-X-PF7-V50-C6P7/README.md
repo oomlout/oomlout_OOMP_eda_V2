@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0603-X-PF7-V50-C6P7
 - Hex ID: SZOOMPKOOMPPCAPC63XPF7V5C6P7
 - Name: oomlout_OOMP_parts : CAPC-0603-X-PF7-V50-C6P7
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/CAPC-0603-X-PF7-V50-C6P7/
 - Description: oomlout_OOMP_parts : CAPC-0603-X-PF7-V50-C6P7
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0603-X-PF7-V50-C6P7](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0603-X-PF7-V50-C6P7)
 - Short Link: [http://oom.lt/SZOOMPKOOMPPCAPC63XPF7V5C6P7](http://oom.lt/SZOOMPKOOMPPCAPC63XPF7V5C6P7)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-LEDS-0805-G-STAN-01-L85G
 - Hex ID: SZOOMPKOOMPPLS85GSTAN1L85G
 - Name: oomlout_OOMP_parts : LEDS-0805-G-STAN-01-L85G
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/LEDS-0805-G-STAN-01-L85G/
 - Description: oomlout_OOMP_parts : LEDS-0805-G-STAN-01-L85G
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-LEDS-0805-G-STAN-01-L85G](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-LEDS-0805-G-STAN-01-L85G)
 - Short Link: [http://oom.lt/SZOOMPKOOMPPLS85GSTAN1L85G](http://oom.lt/SZOOMPKOOMPPLS85GSTAN1L85G)

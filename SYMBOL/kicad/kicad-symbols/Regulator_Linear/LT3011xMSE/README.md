@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-LT3011xMSE
 - Hex ID: SZKREGULATORLINEARLT311XMSE
 - Name: Regulator_Linear : LT3011xMSE
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LT3011xMSE/
 - Description: Regulator_Linear : LT3011xMSE
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LT3011xMSE](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LT3011xMSE)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARLT311XMSE](http://oom.lt/SZKREGULATORLINEARLT311XMSE)

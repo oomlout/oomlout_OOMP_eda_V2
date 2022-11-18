@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-battery-CRAA
 - Hex ID: FZEBATCRAA
 - Name: battery : CRAA
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/battery/CRAA/
 - Description: battery : CRAA
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-battery-CRAA](http://oom.lt/FOOTPRINT-eagle-eagle-default-battery-CRAA)
 - Short Link: [http://oom.lt/FZEBATCRAA](http://oom.lt/FZEBATCRAA)

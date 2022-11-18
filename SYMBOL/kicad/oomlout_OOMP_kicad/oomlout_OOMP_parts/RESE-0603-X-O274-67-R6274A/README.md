@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O274-67-R6274A
 - Hex ID: SZOOMPKOOMPPRESE63XO27467R6274A
 - Name: oomlout_OOMP_parts : RESE-0603-X-O274-67-R6274A
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/RESE-0603-X-O274-67-R6274A/
 - Description: oomlout_OOMP_parts : RESE-0603-X-O274-67-R6274A
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O274-67-R6274A](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O274-67-R6274A)
 - Short Link: [http://oom.lt/SZOOMPKOOMPPRESE63XO27467R6274A](http://oom.lt/SZOOMPKOOMPPRESE63XO27467R6274A)

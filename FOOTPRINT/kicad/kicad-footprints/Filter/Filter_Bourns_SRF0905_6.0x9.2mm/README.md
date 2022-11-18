@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Filter-Filter_Bourns_SRF0905_6.0x9.2mm
 - Hex ID: FZKFILFILBOURNSSRF956X92
 - Name: Filter : Filter_Bourns_SRF0905_6.0x9.2mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Filter/Filter_Bourns_SRF0905_6.0x9.2mm/
 - Description: Filter : Filter_Bourns_SRF0905_6.0x9.2mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Filter-Filter_Bourns_SRF0905_6.0x9.2mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Filter-Filter_Bourns_SRF0905_6.0x9.2mm)
 - Short Link: [http://oom.lt/FZKFILFILBOURNSSRF956X92](http://oom.lt/FZKFILFILBOURNSSRF956X92)

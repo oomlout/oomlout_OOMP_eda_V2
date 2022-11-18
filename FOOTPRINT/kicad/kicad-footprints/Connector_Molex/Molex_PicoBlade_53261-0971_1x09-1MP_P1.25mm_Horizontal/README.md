@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_PicoBlade_53261-0971_1x09-1MP_P1.25mm_Horizontal
 - Hex ID: FZKCNMXMXPICOBLADE532619711X91MPP125H
 - Name: Connector_Molex : Molex_PicoBlade_53261-0971_1x09-1MP_P1.25mm_Horizontal
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_PicoBlade_53261-0971_1x09-1MP_P1.25mm_Horizontal/
 - Description: Connector_Molex : Molex_PicoBlade_53261-0971_1x09-1MP_P1.25mm_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_PicoBlade_53261-0971_1x09-1MP_P1.25mm_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_PicoBlade_53261-0971_1x09-1MP_P1.25mm_Horizontal)
 - Short Link: [http://oom.lt/FZKCNMXMXPICOBLADE532619711X91MPP125H](http://oom.lt/FZKCNMXMXPICOBLADE532619711X91MPP125H)

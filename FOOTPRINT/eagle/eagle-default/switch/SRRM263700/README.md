@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-switch-SRRM263700
 - Hex ID: FZESWSRRM2637
 - Name: switch : SRRM263700
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/switch/SRRM263700/
 - Description: switch : SRRM263700
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-SRRM263700](http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-SRRM263700)
 - Short Link: [http://oom.lt/FZESWSRRM2637](http://oom.lt/FZESWSRRM2637)

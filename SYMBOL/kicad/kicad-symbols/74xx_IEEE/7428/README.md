@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-74xx_IEEE-7428
 - Hex ID: SZK74XXIEEE7428
 - Name: 74xx_IEEE : 7428
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/74xx_IEEE/7428/
 - Description: 74xx_IEEE : 7428
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-74xx_IEEE-7428](http://oom.lt/SYMBOL-kicad-kicad-symbols-74xx_IEEE-7428)
 - Short Link: [http://oom.lt/SZK74XXIEEE7428](http://oom.lt/SZK74XXIEEE7428)

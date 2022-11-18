@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_Mini-Fit_Jr_5569-02A2_2x01_P4.20mm_Horizontal
 - Hex ID: FZKCNMXMXMFITJR55692A22X1P42H
 - Name: Connector_Molex : Molex_Mini-Fit_Jr_5569-02A2_2x01_P4.20mm_Horizontal
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_Mini-Fit_Jr_5569-02A2_2x01_P4.20mm_Horizontal/
 - Description: Connector_Molex : Molex_Mini-Fit_Jr_5569-02A2_2x01_P4.20mm_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_Mini-Fit_Jr_5569-02A2_2x01_P4.20mm_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_Mini-Fit_Jr_5569-02A2_2x01_P4.20mm_Horizontal)
 - Short Link: [http://oom.lt/FZKCNMXMXMFITJR55692A22X1P42H](http://oom.lt/FZKCNMXMXMFITJR55692A22X1P42H)

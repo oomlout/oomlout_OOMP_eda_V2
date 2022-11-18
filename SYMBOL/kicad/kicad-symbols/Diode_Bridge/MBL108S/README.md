@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode_Bridge-MBL108S
 - Hex ID: SZKDIODEBRIDGEMBL18S
 - Name: Diode_Bridge : MBL108S
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode_Bridge/MBL108S/
 - Description: Diode_Bridge : MBL108S
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode_Bridge-MBL108S](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode_Bridge-MBL108S)
 - Short Link: [http://oom.lt/SZKDIODEBRIDGEMBL18S](http://oom.lt/SZKDIODEBRIDGEMBL18S)

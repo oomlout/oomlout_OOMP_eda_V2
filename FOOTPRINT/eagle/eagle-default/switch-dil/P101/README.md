@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-switch-dil-P101
 - Hex ID: FZESWDILP11
 - Name: switch-dil : P101
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/switch-dil/P101/
 - Description: switch-dil : P101
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-dil-P101](http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-dil-P101)
 - Short Link: [http://oom.lt/FZESWDILP11](http://oom.lt/FZESWDILP11)

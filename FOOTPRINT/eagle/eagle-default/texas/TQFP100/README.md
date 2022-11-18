@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-texas-TQFP100
 - Hex ID: FZETEXASTQFP1
 - Name: texas : TQFP100
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/texas/TQFP100/
 - Description: texas : TQFP100
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-texas-TQFP100](http://oom.lt/FOOTPRINT-eagle-eagle-default-texas-TQFP100)
 - Short Link: [http://oom.lt/FZETEXASTQFP1](http://oom.lt/FZETEXASTQFP1)

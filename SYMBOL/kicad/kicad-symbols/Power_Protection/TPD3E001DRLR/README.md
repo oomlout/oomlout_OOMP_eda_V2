@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Power_Protection-TPD3E001DRLR
 - Hex ID: SZKPOWERPROTECTIONTPD3E1DRLR
 - Name: Power_Protection : TPD3E001DRLR
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Power_Protection/TPD3E001DRLR/
 - Description: Power_Protection : TPD3E001DRLR
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Protection-TPD3E001DRLR](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Protection-TPD3E001DRLR)
 - Short Link: [http://oom.lt/SZKPOWERPROTECTIONTPD3E1DRLR](http://oom.lt/SZKPOWERPROTECTIONTPD3E1DRLR)

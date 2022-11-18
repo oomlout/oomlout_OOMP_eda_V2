@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Device-Q_NPN_Darlington_CEB
 - Hex ID: SZKDEVICEQNPNDARLINGTONCEB
 - Name: Device : Q_NPN_Darlington_CEB
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/Q_NPN_Darlington_CEB/
 - Description: Device : Q_NPN_Darlington_CEB
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Q_NPN_Darlington_CEB](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Q_NPN_Darlington_CEB)
 - Short Link: [http://oom.lt/SZKDEVICEQNPNDARLINGTONCEB](http://oom.lt/SZKDEVICEQNPNDARLINGTONCEB)

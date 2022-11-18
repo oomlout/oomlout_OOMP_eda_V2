@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Audio-PAM8403D
 - Hex ID: SZKAMPLIFIERAUDIOPAM843D
 - Name: Amplifier_Audio : PAM8403D
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Audio/PAM8403D/
 - Description: Amplifier_Audio : PAM8403D
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Audio-PAM8403D](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Audio-PAM8403D)
 - Short Link: [http://oom.lt/SZKAMPLIFIERAUDIOPAM843D](http://oom.lt/SZKAMPLIFIERAUDIOPAM843D)

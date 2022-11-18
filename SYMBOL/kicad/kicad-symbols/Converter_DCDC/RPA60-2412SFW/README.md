@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Converter_DCDC-RPA60-2412SFW
 - Hex ID: SZKCONRPA62412SFW
 - Name: Converter_DCDC : RPA60-2412SFW
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Converter_DCDC/RPA60-2412SFW/
 - Description: Converter_DCDC : RPA60-2412SFW
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-RPA60-2412SFW](http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-RPA60-2412SFW)
 - Short Link: [http://oom.lt/SZKCONRPA62412SFW](http://oom.lt/SZKCONRPA62412SFW)

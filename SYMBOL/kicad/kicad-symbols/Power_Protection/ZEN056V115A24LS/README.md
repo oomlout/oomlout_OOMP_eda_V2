@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Power_Protection-ZEN056V115A24LS
 - Hex ID: SZKPOWERPROTECTIONZEN56V115A24LS
 - Name: Power_Protection : ZEN056V115A24LS
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Power_Protection/ZEN056V115A24LS/
 - Description: Power_Protection : ZEN056V115A24LS
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Protection-ZEN056V115A24LS](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Protection-ZEN056V115A24LS)
 - Short Link: [http://oom.lt/SZKPOWERPROTECTIONZEN56V115A24LS](http://oom.lt/SZKPOWERPROTECTIONZEN56V115A24LS)

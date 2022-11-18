@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-C3D25170H
 - Hex ID: SZKDIODEC3D2517H
 - Name: Diode : C3D25170H
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/C3D25170H/
 - Description: Diode : C3D25170H
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-C3D25170H](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-C3D25170H)
 - Short Link: [http://oom.lt/SZKDIODEC3D2517H](http://oom.lt/SZKDIODEC3D2517H)

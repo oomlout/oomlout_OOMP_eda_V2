@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Module-Adafruit_Feather
 - Hex ID: FZKMOADAFEATHER
 - Name: Module : Adafruit_Feather
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Module/Adafruit_Feather/
 - Description: Module : Adafruit_Feather
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Module-Adafruit_Feather](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Module-Adafruit_Feather)
 - Short Link: [http://oom.lt/FZKMOADAFEATHER](http://oom.lt/FZKMOADAFEATHER)

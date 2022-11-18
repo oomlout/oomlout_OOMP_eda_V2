@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Power_Management-TPS2592xx
 - Hex ID: SZKPOWERMANAGEMENTTPS2592XX
 - Name: Power_Management : TPS2592xx
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Power_Management/TPS2592xx/
 - Description: Power_Management : TPS2592xx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-TPS2592xx](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-TPS2592xx)
 - Short Link: [http://oom.lt/SZKPOWERMANAGEMENTTPS2592XX](http://oom.lt/SZKPOWERMANAGEMENTTPS2592XX)

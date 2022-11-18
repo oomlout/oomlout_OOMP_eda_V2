@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Memory_EEPROM-93LCxxAxxOT
 - Hex ID: SZKMEMORYEEPROM93LCXXAXXOT
 - Name: Memory_EEPROM : 93LCxxAxxOT
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Memory_EEPROM/93LCxxAxxOT/
 - Description: Memory_EEPROM : 93LCxxAxxOT
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_EEPROM-93LCxxAxxOT](http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_EEPROM-93LCxxAxxOT)
 - Short Link: [http://oom.lt/SZKMEMORYEEPROM93LCXXAXXOT](http://oom.lt/SZKMEMORYEEPROM93LCXXAXXOT)

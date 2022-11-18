@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-photo-elements-W55XX
 - Hex ID: FZEPHOTOELEMENTSW55XX
 - Name: photo-elements : W55XX
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/photo-elements/W55XX/
 - Description: photo-elements : W55XX
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-photo-elements-W55XX](http://oom.lt/FOOTPRINT-eagle-eagle-default-photo-elements-W55XX)
 - Short Link: [http://oom.lt/FZEPHOTOELEMENTSW55XX](http://oom.lt/FZEPHOTOELEMENTSW55XX)

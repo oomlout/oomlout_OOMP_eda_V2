@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-1X06-SMD_RA_MALE
 - Hex ID: FZSSPARKFUNCNS1X6SMRAMALE
 - Name: SparkFun-Connectors : 1X06-SMD_RA_MALE
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Connectors/1X06-SMD_RA_MALE/
 - Description: SparkFun-Connectors : 1X06-SMD_RA_MALE
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-1X06-SMD_RA_MALE](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-1X06-SMD_RA_MALE)
 - Short Link: [http://oom.lt/FZSSPARKFUNCNS1X6SMRAMALE](http://oom.lt/FZSSPARKFUNCNS1X6SMRAMALE)

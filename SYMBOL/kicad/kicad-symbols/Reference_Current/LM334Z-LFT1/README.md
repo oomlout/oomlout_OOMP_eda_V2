@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Reference_Current-LM334Z-LFT1
 - Hex ID: SZKREFERENCECURRENTLM334ZLFT1
 - Name: Reference_Current : LM334Z-LFT1
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Reference_Current/LM334Z-LFT1/
 - Description: Reference_Current : LM334Z-LFT1
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Current-LM334Z-LFT1](http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Current-LM334Z-LFT1)
 - Short Link: [http://oom.lt/SZKREFERENCECURRENTLM334ZLFT1](http://oom.lt/SZKREFERENCECURRENTLM334ZLFT1)

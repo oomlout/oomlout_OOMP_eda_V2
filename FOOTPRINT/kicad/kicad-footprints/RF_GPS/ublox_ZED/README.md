@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-RF_GPS-ublox_ZED
 - Hex ID: FZKGPSUBLOXZED
 - Name: RF_GPS : ublox_ZED
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/RF_GPS/ublox_ZED/
 - Description: RF_GPS : ublox_ZED
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_GPS-ublox_ZED](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_GPS-ublox_ZED)
 - Short Link: [http://oom.lt/FZKGPSUBLOXZED](http://oom.lt/FZKGPSUBLOXZED)

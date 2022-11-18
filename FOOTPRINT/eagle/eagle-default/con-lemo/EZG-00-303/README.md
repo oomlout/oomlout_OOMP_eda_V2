@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-lemo-EZG-00-303
 - Hex ID: FZECONLEMOEZG33
 - Name: con-lemo : EZG-00-303
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-lemo/EZG-00-303/
 - Description: con-lemo : EZG-00-303
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-lemo-EZG-00-303](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-lemo-EZG-00-303)
 - Short Link: [http://oom.lt/FZECONLEMOEZG33](http://oom.lt/FZECONLEMOEZG33)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Intel-8039
 - Hex ID: SZKMCUINTEL839
 - Name: MCU_Intel : 8039
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Intel/8039/
 - Description: MCU_Intel : 8039
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Intel-8039](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Intel-8039)
 - Short Link: [http://oom.lt/SZKMCUINTEL839](http://oom.lt/SZKMCUINTEL839)

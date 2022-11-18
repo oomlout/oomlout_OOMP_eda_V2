@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0402-X-NF8-V50-C4N8
 - Hex ID: FZOOMPKOOMPPCAPC42XNF8V5C4N8
 - Name: oomlout_OOMP_parts : CAPC-0402-X-NF8-V50-C4N8
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/CAPC-0402-X-NF8-V50-C4N8/
 - Description: oomlout_OOMP_parts : CAPC-0402-X-NF8-V50-C4N8
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0402-X-NF8-V50-C4N8](http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0402-X-NF8-V50-C4N8)
 - Short Link: [http://oom.lt/FZOOMPKOOMPPCAPC42XNF8V5C4N8](http://oom.lt/FZOOMPKOOMPPCAPC42XNF8V5C4N8)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-relay-CR2
 - Hex ID: FZERELAYCR2
 - Name: relay : CR2
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/relay/CR2/
 - Description: relay : CR2
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-CR2](http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-CR2)
 - Short Link: [http://oom.lt/FZERELAYCR2](http://oom.lt/FZERELAYCR2)

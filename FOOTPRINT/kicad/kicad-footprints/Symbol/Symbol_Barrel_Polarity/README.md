@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Symbol-Symbol_Barrel_Polarity
 - Hex ID: FZKSZSYBARRELPOLARITY
 - Name: Symbol : Symbol_Barrel_Polarity
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Symbol/Symbol_Barrel_Polarity/
 - Description: Symbol : Symbol_Barrel_Polarity
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Symbol-Symbol_Barrel_Polarity](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Symbol-Symbol_Barrel_Polarity)
 - Short Link: [http://oom.lt/FZKSZSYBARRELPOLARITY](http://oom.lt/FZKSZSYBARRELPOLARITY)

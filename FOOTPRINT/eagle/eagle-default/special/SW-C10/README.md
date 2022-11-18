@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-special-SW-C10
 - Hex ID: FZESPECIALSWC1
 - Name: special : SW-C10
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/special/SW-C10/
 - Description: special : SW-C10
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-special-SW-C10](http://oom.lt/FOOTPRINT-eagle-eagle-default-special-SW-C10)
 - Short Link: [http://oom.lt/FZESPECIALSWC1](http://oom.lt/FZESPECIALSWC1)

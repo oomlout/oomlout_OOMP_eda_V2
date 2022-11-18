@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Capacitor_Tantalum_SMD-CP_EIA-3528-15_AVX-H
 - Hex ID: FZKCCPEIA352815AVXH
 - Name: Capacitor_Tantalum_SMD : CP_EIA-3528-15_AVX-H
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Capacitor_Tantalum_SMD/CP_EIA-3528-15_AVX-H/
 - Description: Capacitor_Tantalum_SMD : CP_EIA-3528-15_AVX-H
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_Tantalum_SMD-CP_EIA-3528-15_AVX-H](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_Tantalum_SMD-CP_EIA-3528-15_AVX-H)
 - Short Link: [http://oom.lt/FZKCCPEIA352815AVXH](http://oom.lt/FZKCCPEIA352815AVXH)

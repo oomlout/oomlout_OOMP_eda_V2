@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_QFP-LQFP-128_14x20mm_P0.5mm
 - Hex ID: FZKQFPLQFP12814X2P5
 - Name: Package_QFP : LQFP-128_14x20mm_P0.5mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_QFP/LQFP-128_14x20mm_P0.5mm/
 - Description: Package_QFP : LQFP-128_14x20mm_P0.5mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_QFP-LQFP-128_14x20mm_P0.5mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_QFP-LQFP-128_14x20mm_P0.5mm)
 - Short Link: [http://oom.lt/FZKQFPLQFP12814X2P5](http://oom.lt/FZKQFPLQFP12814X2P5)

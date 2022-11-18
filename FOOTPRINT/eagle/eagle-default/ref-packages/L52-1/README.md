@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEREFPACKAGESL521 > ref-packages : L52-1](#fzerefpackagesl521--ref-packages--l52-1)
+* [FZEREFPSL521 > ref-packages : L52-1](#fzerefpsl521--ref-packages--l52-1)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEREFPACKAGESL521 > ref-packages : L52-1
+# FZEREFPSL521 > ref-packages : L52-1
 
 - ID: FOOTPRINT-eagle-eagle-default-ref-packages-L52-1
-- Hex ID: FZEREFPACKAGESL521
+- Hex ID: FZEREFPSL521
 - Name: ref-packages : L52-1
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ref-packages/L52-1/
 - Description: ref-packages : L52-1
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-L52-1](http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-L52-1)
-- Short Link: [http://oom.lt/FZEREFPACKAGESL521](http://oom.lt/FZEREFPACKAGESL521)
+- Short Link: [http://oom.lt/FZEREFPSL521](http://oom.lt/FZEREFPSL521)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|ref-packages|
 |OOMP Index|oompIndex|L52-1|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-ref-packages-L52-1|
-|Hex ID (short code)|hexID|FZEREFPACKAGESL521|
+|Hex ID (short code)|hexID|FZEREFPSL521|
 |name|name|ref-packages : L52-1|
 ||||

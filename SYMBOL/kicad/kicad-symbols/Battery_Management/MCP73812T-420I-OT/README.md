@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Battery_Management-MCP73812T-420I-OT
 - Hex ID: SZKBATMANAGEMENTMCP73812T42IOT
 - Name: Battery_Management : MCP73812T-420I-OT
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Battery_Management/MCP73812T-420I-OT/
 - Description: Battery_Management : MCP73812T-420I-OT
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Battery_Management-MCP73812T-420I-OT](http://oom.lt/SYMBOL-kicad-kicad-symbols-Battery_Management-MCP73812T-420I-OT)
 - Short Link: [http://oom.lt/SZKBATMANAGEMENTMCP73812T42IOT](http://oom.lt/SZKBATMANAGEMENTMCP73812T42IOT)

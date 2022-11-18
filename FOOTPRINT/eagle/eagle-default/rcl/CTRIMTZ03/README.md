@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-rcl-CTRIMTZ03
 - Hex ID: FZERCLCTRIMTZ3
 - Name: rcl : CTRIMTZ03
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/rcl/CTRIMTZ03/
 - Description: rcl : CTRIMTZ03
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-CTRIMTZ03](http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-CTRIMTZ03)
 - Short Link: [http://oom.lt/FZERCLCTRIMTZ3](http://oom.lt/FZERCLCTRIMTZ3)

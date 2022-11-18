@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-THS3491xDDA
 - Hex ID: SZKAMPLIFIEROPERATIONALTHS3491XDDA
 - Name: Amplifier_Operational : THS3491xDDA
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/THS3491xDDA/
 - Description: Amplifier_Operational : THS3491xDDA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-THS3491xDDA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-THS3491xDDA)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALTHS3491XDDA](http://oom.lt/SZKAMPLIFIEROPERATIONALTHS3491XDDA)

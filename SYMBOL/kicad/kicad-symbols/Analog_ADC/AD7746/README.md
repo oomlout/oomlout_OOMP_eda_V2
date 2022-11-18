@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Analog_ADC-AD7746
 - Hex ID: SZKANALOGADCAD7746
 - Name: Analog_ADC : AD7746
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog_ADC/AD7746/
 - Description: Analog_ADC : AD7746
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-AD7746](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-AD7746)
 - Short Link: [http://oom.lt/SZKANALOGADCAD7746](http://oom.lt/SZKANALOGADCAD7746)

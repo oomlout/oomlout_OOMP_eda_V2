@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEREFPACKAGESLONGPADC1264X133 > ref-packages-longpad : C102-064X133](#fzerefpackageslongpadc1264x133--ref-packages-longpad--c102-064x133)
+* [FZEREFPSLPC1264X133 > ref-packages-longpad : C102-064X133](#fzerefpslpc1264x133--ref-packages-longpad--c102-064x133)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEREFPACKAGESLONGPADC1264X133 > ref-packages-longpad : C102-064X133
+# FZEREFPSLPC1264X133 > ref-packages-longpad : C102-064X133
 
 - ID: FOOTPRINT-eagle-eagle-default-ref-packages-longpad-C102-064X133
-- Hex ID: FZEREFPACKAGESLONGPADC1264X133
+- Hex ID: FZEREFPSLPC1264X133
 - Name: ref-packages-longpad : C102-064X133
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ref-packages-longpad/C102-064X133/
 - Description: ref-packages-longpad : C102-064X133
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-longpad-C102-064X133](http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-longpad-C102-064X133)
-- Short Link: [http://oom.lt/FZEREFPACKAGESLONGPADC1264X133](http://oom.lt/FZEREFPACKAGESLONGPADC1264X133)
+- Short Link: [http://oom.lt/FZEREFPSLPC1264X133](http://oom.lt/FZEREFPSLPC1264X133)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|ref-packages-longpad|
 |OOMP Index|oompIndex|C102-064X133|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-ref-packages-longpad-C102-064X133|
-|Hex ID (short code)|hexID|FZEREFPACKAGESLONGPADC1264X133|
+|Hex ID (short code)|hexID|FZEREFPSLPC1264X133|
 |name|name|ref-packages-longpad : C102-064X133|
 ||||

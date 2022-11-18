@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_SlimStack_502430-2610_2x13_P0.40mm_Vertical
 - Hex ID: FZKCNMXMXSLIMSTACK52432612X13P4F
 - Name: Connector_Molex : Molex_SlimStack_502430-2610_2x13_P0.40mm_Vertical
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_SlimStack_502430-2610_2x13_P0.40mm_Vertical/
 - Description: Connector_Molex : Molex_SlimStack_502430-2610_2x13_P0.40mm_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_SlimStack_502430-2610_2x13_P0.40mm_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_SlimStack_502430-2610_2x13_P0.40mm_Vertical)
 - Short Link: [http://oom.lt/FZKCNMXMXSLIMSTACK52432612X13P4F](http://oom.lt/FZKCNMXMXSLIMSTACK52432612X13P4F)

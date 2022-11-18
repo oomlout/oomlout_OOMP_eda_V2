@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Oscillator-ASCO
 - Hex ID: SZKOCSASCO
 - Name: Oscillator : ASCO
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Oscillator/ASCO/
 - Description: Oscillator : ASCO
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Oscillator-ASCO](http://oom.lt/SYMBOL-kicad-kicad-symbols-Oscillator-ASCO)
 - Short Link: [http://oom.lt/SZKOCSASCO](http://oom.lt/SZKOCSASCO)

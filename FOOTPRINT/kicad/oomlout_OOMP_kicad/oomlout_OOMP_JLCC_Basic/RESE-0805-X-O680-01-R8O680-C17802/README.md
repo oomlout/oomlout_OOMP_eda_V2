@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-RESE-0805-X-O680-01-R8O680-C17802
 - Hex ID: FZOOMPKJLCRESE85XO681R8O68C1782
 - Name: oomlout_OOMP_JLCC_Basic : RESE-0805-X-O680-01-R8O680-C17802
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_JLCC_Basic/RESE-0805-X-O680-01-R8O680-C17802/
 - Description: oomlout_OOMP_JLCC_Basic : RESE-0805-X-O680-01-R8O680-C17802
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-RESE-0805-X-O680-01-R8O680-C17802](http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-RESE-0805-X-O680-01-R8O680-C17802)
 - Short Link: [http://oom.lt/FZOOMPKJLCRESE85XO681R8O68C1782](http://oom.lt/FZOOMPKJLCRESE85XO681R8O68C1782)

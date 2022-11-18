@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Diode_SMD-Diode_Bridge_Bourns_CD-DF4xxS
 - Hex ID: FZKDDIODEBRIDGEBOURNSCDDF4XXS
 - Name: Diode_SMD : Diode_Bridge_Bourns_CD-DF4xxS
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Diode_SMD/Diode_Bridge_Bourns_CD-DF4xxS/
 - Description: Diode_SMD : Diode_Bridge_Bourns_CD-DF4xxS
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Diode_SMD-Diode_Bridge_Bourns_CD-DF4xxS](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Diode_SMD-Diode_Bridge_Bourns_CD-DF4xxS)
 - Short Link: [http://oom.lt/FZKDDIODEBRIDGEBOURNSCDDF4XXS](http://oom.lt/FZKDDIODEBRIDGEBOURNSCDDF4XXS)

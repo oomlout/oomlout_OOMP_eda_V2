@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Display_Character-MAN3610A
 - Hex ID: SZKDICHARACTERMAN361A
 - Name: Display_Character : MAN3610A
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Display_Character/MAN3610A/
 - Description: Display_Character : MAN3610A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-MAN3610A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-MAN3610A)
 - Short Link: [http://oom.lt/SZKDICHARACTERMAN361A](http://oom.lt/SZKDICHARACTERMAN361A)

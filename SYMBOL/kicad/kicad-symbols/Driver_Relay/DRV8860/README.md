@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Driver_Relay-DRV8860
 - Hex ID: SZKDRIVERRELAYDRV886
 - Name: Driver_Relay : DRV8860
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Driver_Relay/DRV8860/
 - Description: Driver_Relay : DRV8860
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_Relay-DRV8860](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_Relay-DRV8860)
 - Short Link: [http://oom.lt/SZKDRIVERRELAYDRV886](http://oom.lt/SZKDRIVERRELAYDRV886)

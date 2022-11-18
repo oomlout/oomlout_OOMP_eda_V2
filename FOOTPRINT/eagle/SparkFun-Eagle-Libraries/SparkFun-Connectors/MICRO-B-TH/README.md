@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-MICRO-B-TH
 - Hex ID: FZSSPARKFUNCNSMBTH
 - Name: SparkFun-Connectors : MICRO-B-TH
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Connectors/MICRO-B-TH/
 - Description: SparkFun-Connectors : MICRO-B-TH
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-MICRO-B-TH](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-MICRO-B-TH)
 - Short Link: [http://oom.lt/FZSSPARKFUNCNSMBTH](http://oom.lt/FZSSPARKFUNCNSMBTH)

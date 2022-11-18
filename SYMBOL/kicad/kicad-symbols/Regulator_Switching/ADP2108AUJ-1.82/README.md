@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-ADP2108AUJ-1.82
 - Hex ID: SZKREGULATORSWINGADP218AUJ182
 - Name: Regulator_Switching : ADP2108AUJ-1.82
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/ADP2108AUJ-1.82/
 - Description: Regulator_Switching : ADP2108AUJ-1.82
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-ADP2108AUJ-1.82](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-ADP2108AUJ-1.82)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGADP218AUJ182](http://oom.lt/SZKREGULATORSWINGADP218AUJ182)

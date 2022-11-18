@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-GL2576-ASF8DR
 - Hex ID: SZKREGULATORSWINGGL2576ASF8DR
 - Name: Regulator_Switching : GL2576-ASF8DR
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/GL2576-ASF8DR/
 - Description: Regulator_Switching : GL2576-ASF8DR
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-GL2576-ASF8DR](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-GL2576-ASF8DR)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGGL2576ASF8DR](http://oom.lt/SZKREGULATORSWINGGL2576ASF8DR)

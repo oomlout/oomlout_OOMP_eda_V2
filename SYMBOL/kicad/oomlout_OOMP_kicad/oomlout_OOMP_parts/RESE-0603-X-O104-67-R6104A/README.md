@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O104-67-R6104A
 - Hex ID: SZOOMPKOOMPPRESE63XO1467R614A
 - Name: oomlout_OOMP_parts : RESE-0603-X-O104-67-R6104A
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/RESE-0603-X-O104-67-R6104A/
 - Description: oomlout_OOMP_parts : RESE-0603-X-O104-67-R6104A
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O104-67-R6104A](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O104-67-R6104A)
 - Short Link: [http://oom.lt/SZOOMPKOOMPPRESE63XO1467R614A](http://oom.lt/SZOOMPKOOMPPRESE63XO1467R614A)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_ZE_SM14B-ZESS-TB_1x14-1MP_P1.50mm_Horizontal
 - Hex ID: FZKCNJSTJSTZESM14BZESSTB1X141MPP15H
 - Name: Connector_JST : JST_ZE_SM14B-ZESS-TB_1x14-1MP_P1.50mm_Horizontal
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_ZE_SM14B-ZESS-TB_1x14-1MP_P1.50mm_Horizontal/
 - Description: Connector_JST : JST_ZE_SM14B-ZESS-TB_1x14-1MP_P1.50mm_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_ZE_SM14B-ZESS-TB_1x14-1MP_P1.50mm_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_ZE_SM14B-ZESS-TB_1x14-1MP_P1.50mm_Horizontal)
 - Short Link: [http://oom.lt/FZKCNJSTJSTZESM14BZESSTB1X141MPP15H](http://oom.lt/FZKCNJSTJSTZESM14BZESSTB1X141MPP15H)

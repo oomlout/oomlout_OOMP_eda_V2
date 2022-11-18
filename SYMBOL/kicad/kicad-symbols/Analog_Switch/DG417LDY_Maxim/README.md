@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Analog_Switch-DG417LDY_Maxim
 - Hex ID: SZKANALOGSWDG417LDYMAXIM
 - Name: Analog_Switch : DG417LDY_Maxim
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog_Switch/DG417LDY_Maxim/
 - Description: Analog_Switch : DG417LDY_Maxim
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_Switch-DG417LDY_Maxim](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_Switch-DG417LDY_Maxim)
 - Short Link: [http://oom.lt/SZKANALOGSWDG417LDYMAXIM](http://oom.lt/SZKANALOGSWDG417LDYMAXIM)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Button_Switch_THT-SW_Push_2P2T_Toggle_CK_PVA2xxH3xxxxxxV2
 - Hex ID: FZKBSWPUSH2P2TTOGGLECKPVA2XXH3XXXXXXV2
 - Name: Button_Switch_THT : SW_Push_2P2T_Toggle_CK_PVA2xxH3xxxxxxV2
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/SW_Push_2P2T_Toggle_CK_PVA2xxH3xxxxxxV2/
 - Description: Button_Switch_THT : SW_Push_2P2T_Toggle_CK_PVA2xxH3xxxxxxV2
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Button_Switch_THT-SW_Push_2P2T_Toggle_CK_PVA2xxH3xxxxxxV2](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Button_Switch_THT-SW_Push_2P2T_Toggle_CK_PVA2xxH3xxxxxxV2)
 - Short Link: [http://oom.lt/FZKBSWPUSH2P2TTOGGLECKPVA2XXH3XXXXXXV2](http://oom.lt/FZKBSWPUSH2P2TTOGGLECKPVA2XXH3XXXXXXV2)

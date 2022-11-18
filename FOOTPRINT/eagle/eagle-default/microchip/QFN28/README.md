@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-microchip-QFN28
 - Hex ID: FZEMCHIPQFN28
 - Name: microchip : QFN28
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/microchip/QFN28/
 - Description: microchip : QFN28
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-microchip-QFN28](http://oom.lt/FOOTPRINT-eagle-eagle-default-microchip-QFN28)
 - Short Link: [http://oom.lt/FZEMCHIPQFN28](http://oom.lt/FZEMCHIPQFN28)

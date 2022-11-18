@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Memory_RAM-KM62256CLP
 - Hex ID: SZKMEMORYRAMKM62256CLP
 - Name: Memory_RAM : KM62256CLP
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Memory_RAM/KM62256CLP/
 - Description: Memory_RAM : KM62256CLP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_RAM-KM62256CLP](http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_RAM-KM62256CLP)
 - Short Link: [http://oom.lt/SZKMEMORYRAMKM62256CLP](http://oom.lt/SZKMEMORYRAMKM62256CLP)

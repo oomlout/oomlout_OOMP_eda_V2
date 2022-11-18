@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-vg-MAE32E
 - Hex ID: FZECONVGMAE32E
 - Name: con-vg : MAE32E
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-vg/MAE32E/
 - Description: con-vg : MAE32E
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-vg-MAE32E](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-vg-MAE32E)
 - Short Link: [http://oom.lt/FZECONVGMAE32E](http://oom.lt/FZECONVGMAE32E)

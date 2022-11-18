@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-xilinx-xcv-CS144
 - Hex ID: FZEXILINXXCVCS144
 - Name: xilinx-xcv : CS144
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/xilinx-xcv/CS144/
 - Description: xilinx-xcv : CS144
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-xilinx-xcv-CS144](http://oom.lt/FOOTPRINT-eagle-eagle-default-xilinx-xcv-CS144)
 - Short Link: [http://oom.lt/FZEXILINXXCVCS144](http://oom.lt/FZEXILINXXCVCS144)

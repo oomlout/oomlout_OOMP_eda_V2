@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Comms-LQFP-64
 - Hex ID: FZSICLQFP64
 - Name: SparkFun-IC-Comms : LQFP-64
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-IC-Comms/LQFP-64/
 - Description: SparkFun-IC-Comms : LQFP-64
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Comms-LQFP-64](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Comms-LQFP-64)
 - Short Link: [http://oom.lt/FZSICLQFP64](http://oom.lt/FZSICLQFP64)

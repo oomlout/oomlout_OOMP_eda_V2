@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-1206-X-UF2-V25-C12U2-C12891
 - Hex ID: FZOOMPKJLCCAPC126XUF2V25C12U2C12891
 - Name: oomlout_OOMP_JLCC_Basic : CAPC-1206-X-UF2-V25-C12U2-C12891
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_JLCC_Basic/CAPC-1206-X-UF2-V25-C12U2-C12891/
 - Description: oomlout_OOMP_JLCC_Basic : CAPC-1206-X-UF2-V25-C12U2-C12891
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-1206-X-UF2-V25-C12U2-C12891](http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-1206-X-UF2-V25-C12U2-C12891)
 - Short Link: [http://oom.lt/FZOOMPKJLCCAPC126XUF2V25C12U2C12891](http://oom.lt/FZOOMPKJLCCAPC126XUF2V25C12U2C12891)

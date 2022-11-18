@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Connector-RJ34
 - Hex ID: SZKCNRJ34
 - Name: Connector : RJ34
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector/RJ34/
 - Description: Connector : RJ34
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-RJ34](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-RJ34)
 - Short Link: [http://oom.lt/SZKCNRJ34](http://oom.lt/SZKCNRJ34)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Transformer_SMD-Transformer_Ethernet_Wuerth_749013011A
 - Hex ID: FZKTRTRETHERNETWUERTH7491311A
 - Name: Transformer_SMD : Transformer_Ethernet_Wuerth_749013011A
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Transformer_SMD/Transformer_Ethernet_Wuerth_749013011A/
 - Description: Transformer_SMD : Transformer_Ethernet_Wuerth_749013011A
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Transformer_SMD-Transformer_Ethernet_Wuerth_749013011A](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Transformer_SMD-Transformer_Ethernet_Wuerth_749013011A)
 - Short Link: [http://oom.lt/FZKTRTRETHERNETWUERTH7491311A](http://oom.lt/FZKTRTRETHERNETWUERTH7491311A)

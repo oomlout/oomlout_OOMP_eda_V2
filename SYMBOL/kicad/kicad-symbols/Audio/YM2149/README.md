@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Audio-YM2149
 - Hex ID: SZKAUDIOYM2149
 - Name: Audio : YM2149
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Audio/YM2149/
 - Description: Audio : YM2149
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Audio-YM2149](http://oom.lt/SYMBOL-kicad-kicad-symbols-Audio-YM2149)
 - Short Link: [http://oom.lt/SZKAUDIOYM2149](http://oom.lt/SZKAUDIOYM2149)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode_Bridge-GBU6J
 - Hex ID: SZKDIODEBRIDGEGBU6J
 - Name: Diode_Bridge : GBU6J
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode_Bridge/GBU6J/
 - Description: Diode_Bridge : GBU6J
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode_Bridge-GBU6J](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode_Bridge-GBU6J)
 - Short Link: [http://oom.lt/SZKDIODEBRIDGEGBU6J](http://oom.lt/SZKDIODEBRIDGEGBU6J)

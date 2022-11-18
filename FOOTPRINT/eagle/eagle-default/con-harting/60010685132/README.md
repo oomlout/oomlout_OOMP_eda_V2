@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-harting-60010685132
 - Hex ID: FZECONHARTING61685132
 - Name: con-harting : 60010685132
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-harting/60010685132/
 - Description: con-harting : 60010685132
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-harting-60010685132](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-harting-60010685132)
 - Short Link: [http://oom.lt/FZECONHARTING61685132](http://oom.lt/FZECONHARTING61685132)

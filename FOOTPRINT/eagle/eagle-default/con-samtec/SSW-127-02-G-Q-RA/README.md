@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-con-samtec-SSW-127-02-G-Q-RA
 - Hex ID: FZECONSAMTECSSW1272GQRA
 - Name: con-samtec : SSW-127-02-G-Q-RA
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-samtec/SSW-127-02-G-Q-RA/
 - Description: con-samtec : SSW-127-02-G-Q-RA
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-samtec-SSW-127-02-G-Q-RA](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-samtec-SSW-127-02-G-Q-RA)
 - Short Link: [http://oom.lt/FZECONSAMTECSSW1272GQRA](http://oom.lt/FZECONSAMTECSSW1272GQRA)

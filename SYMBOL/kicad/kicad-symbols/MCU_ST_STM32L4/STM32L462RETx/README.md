@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_ST_STM32L4-STM32L462RETx
 - Hex ID: SZKMCUSTSTM32L4STM32L462RETX
 - Name: MCU_ST_STM32L4 : STM32L462RETx
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32L4/STM32L462RETx/
 - Description: MCU_ST_STM32L4 : STM32L462RETx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32L4-STM32L462RETx](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32L4-STM32L462RETx)
 - Short Link: [http://oom.lt/SZKMCUSTSTM32L4STM32L462RETX](http://oom.lt/SZKMCUSTSTM32L4STM32L462RETX)

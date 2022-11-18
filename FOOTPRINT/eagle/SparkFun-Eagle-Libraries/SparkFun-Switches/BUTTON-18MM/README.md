@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Switches-BUTTON-18MM
 - Hex ID: FZSWB18
 - Name: SparkFun-Switches : BUTTON-18MM
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Switches/BUTTON-18MM/
 - Description: SparkFun-Switches : BUTTON-18MM
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Switches-BUTTON-18MM](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Switches-BUTTON-18MM)
 - Short Link: [http://oom.lt/FZSWB18](http://oom.lt/FZSWB18)

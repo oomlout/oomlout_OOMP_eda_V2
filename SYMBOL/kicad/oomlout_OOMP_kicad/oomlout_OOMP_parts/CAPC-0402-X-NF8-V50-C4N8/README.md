@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0402-X-NF8-V50-C4N8
 - Hex ID: SZOOMPKOOMPPCAPC42XNF8V5C4N8
 - Name: oomlout_OOMP_parts : CAPC-0402-X-NF8-V50-C4N8
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/CAPC-0402-X-NF8-V50-C4N8/
 - Description: oomlout_OOMP_parts : CAPC-0402-X-NF8-V50-C4N8
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0402-X-NF8-V50-C4N8](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0402-X-NF8-V50-C4N8)
 - Short Link: [http://oom.lt/SZOOMPKOOMPPCAPC42XNF8V5C4N8](http://oom.lt/SZOOMPKOOMPPCAPC42XNF8V5C4N8)

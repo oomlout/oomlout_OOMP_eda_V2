@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-ir-36MT
 - Hex ID: FZEIR36MT
 - Name: ir : 36MT
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ir/36MT/
 - Description: ir : 36MT
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ir-36MT](http://oom.lt/FOOTPRINT-eagle-eagle-default-ir-36MT)
 - Short Link: [http://oom.lt/FZEIR36MT](http://oom.lt/FZEIR36MT)

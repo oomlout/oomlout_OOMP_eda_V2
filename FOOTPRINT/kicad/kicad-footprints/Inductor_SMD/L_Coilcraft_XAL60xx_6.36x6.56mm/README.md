@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Coilcraft_XAL60xx_6.36x6.56mm
 - Hex ID: FZKINLCOILCRAFTXAL6XX636X656
 - Name: Inductor_SMD : L_Coilcraft_XAL60xx_6.36x6.56mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Coilcraft_XAL60xx_6.36x6.56mm/
 - Description: Inductor_SMD : L_Coilcraft_XAL60xx_6.36x6.56mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Coilcraft_XAL60xx_6.36x6.56mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Coilcraft_XAL60xx_6.36x6.56mm)
 - Short Link: [http://oom.lt/FZKINLCOILCRAFTXAL6XX636X656](http://oom.lt/FZKINLCOILCRAFTXAL6XX636X656)

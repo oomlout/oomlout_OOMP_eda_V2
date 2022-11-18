@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_1218_3246Metric
 - Hex ID: FZKRR12183246VA
 - Name: Resistor_SMD : R_1218_3246Metric
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_1218_3246Metric/
 - Description: Resistor_SMD : R_1218_3246Metric
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_1218_3246Metric](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_1218_3246Metric)
 - Short Link: [http://oom.lt/FZKRR12183246VA](http://oom.lt/FZKRR12183246VA)

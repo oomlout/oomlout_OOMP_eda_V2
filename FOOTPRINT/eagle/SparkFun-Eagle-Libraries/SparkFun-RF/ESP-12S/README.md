@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-ESP-12S
 - Hex ID: FZSRFESP12S
 - Name: SparkFun-RF : ESP-12S
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-RF/ESP-12S/
 - Description: SparkFun-RF : ESP-12S
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-ESP-12S](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-ESP-12S)
 - Short Link: [http://oom.lt/FZSRFESP12S](http://oom.lt/FZSRFESP12S)

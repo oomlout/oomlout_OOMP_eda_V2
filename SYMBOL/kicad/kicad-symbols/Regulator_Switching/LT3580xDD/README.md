@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-LT3580xDD
 - Hex ID: SZKREGULATORSWINGLT358XDD
 - Name: Regulator_Switching : LT3580xDD
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/LT3580xDD/
 - Description: Regulator_Switching : LT3580xDD
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LT3580xDD](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LT3580xDD)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGLT358XDD](http://oom.lt/SZKREGULATORSWINGLT358XDD)

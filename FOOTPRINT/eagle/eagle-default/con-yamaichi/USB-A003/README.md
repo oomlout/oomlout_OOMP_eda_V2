@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-con-yamaichi-USB-A003
 - Hex ID: FZECONYAMAICHIUA3
 - Name: con-yamaichi : USB-A003
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-yamaichi/USB-A003/
 - Description: con-yamaichi : USB-A003
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-yamaichi-USB-A003](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-yamaichi-USB-A003)
 - Short Link: [http://oom.lt/FZECONYAMAICHIUA3](http://oom.lt/FZECONYAMAICHIUA3)

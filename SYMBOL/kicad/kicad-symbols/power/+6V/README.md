@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-power-+6V
 - Hex ID: SZKPOWER+6V
 - Name: power : +6V
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/power/+6V/
 - Description: power : +6V
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-power-+6V](http://oom.lt/SYMBOL-kicad-kicad-symbols-power-+6V)
 - Short Link: [http://oom.lt/SZKPOWER+6V](http://oom.lt/SZKPOWER+6V)

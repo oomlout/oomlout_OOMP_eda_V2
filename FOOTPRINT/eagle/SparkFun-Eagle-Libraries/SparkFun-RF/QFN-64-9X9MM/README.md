@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-QFN-64-9X9MM
 - Hex ID: FZSRFQFN649X9
 - Name: SparkFun-RF : QFN-64-9X9MM
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-RF/QFN-64-9X9MM/
 - Description: SparkFun-RF : QFN-64-9X9MM
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-QFN-64-9X9MM](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-QFN-64-9X9MM)
 - Short Link: [http://oom.lt/FZSRFQFN649X9](http://oom.lt/FZSRFQFN649X9)

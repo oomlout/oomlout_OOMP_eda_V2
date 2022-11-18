@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-I01-X-PI2X02-01-H2X2
 - Hex ID: SZOOMPKOOMPPHEADI1XPI2X21H2X2
 - Name: oomlout_OOMP_parts : HEAD-I01-X-PI2X02-01-H2X2
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/HEAD-I01-X-PI2X02-01-H2X2/
 - Description: oomlout_OOMP_parts : HEAD-I01-X-PI2X02-01-H2X2
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-I01-X-PI2X02-01-H2X2](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-I01-X-PI2X02-01-H2X2)
 - Short Link: [http://oom.lt/SZOOMPKOOMPPHEADI1XPI2X21H2X2](http://oom.lt/SZOOMPKOOMPPHEADI1XPI2X21H2X2)

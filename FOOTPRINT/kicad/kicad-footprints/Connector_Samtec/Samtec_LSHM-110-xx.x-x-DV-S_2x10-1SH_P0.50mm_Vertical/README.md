@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_Samtec-Samtec_LSHM-110-xx.x-x-DV-S_2x10-1SH_P0.50mm_Vertical
 - Hex ID: FZKCNSAMTECSAMTECLSHM11XXXXDVS2X11SHP5F
 - Name: Connector_Samtec : Samtec_LSHM-110-xx.x-x-DV-S_2x10-1SH_P0.50mm_Vertical
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Samtec/Samtec_LSHM-110-xx.x-x-DV-S_2x10-1SH_P0.50mm_Vertical/
 - Description: Connector_Samtec : Samtec_LSHM-110-xx.x-x-DV-S_2x10-1SH_P0.50mm_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Samtec-Samtec_LSHM-110-xx.x-x-DV-S_2x10-1SH_P0.50mm_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Samtec-Samtec_LSHM-110-xx.x-x-DV-S_2x10-1SH_P0.50mm_Vertical)
 - Short Link: [http://oom.lt/FZKCNSAMTECSAMTECLSHM11XXXXDVS2X11SHP5F](http://oom.lt/FZKCNSAMTECSAMTECLSHM11XXXXDVS2X11SHP5F)

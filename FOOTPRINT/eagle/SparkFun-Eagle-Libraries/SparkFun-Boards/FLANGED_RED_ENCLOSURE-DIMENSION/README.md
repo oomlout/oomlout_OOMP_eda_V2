@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Boards-FLANGED_RED_ENCLOSURE-DIMENSION
 - Hex ID: FZSBOFDREDENCLOSUREDENSION
 - Name: SparkFun-Boards : FLANGED_RED_ENCLOSURE-DIMENSION
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Boards/FLANGED_RED_ENCLOSURE-DIMENSION/
 - Description: SparkFun-Boards : FLANGED_RED_ENCLOSURE-DIMENSION
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Boards-FLANGED_RED_ENCLOSURE-DIMENSION](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Boards-FLANGED_RED_ENCLOSURE-DIMENSION)
 - Short Link: [http://oom.lt/FZSBOFDREDENCLOSUREDENSION](http://oom.lt/FZSBOFDREDENCLOSUREDENSION)

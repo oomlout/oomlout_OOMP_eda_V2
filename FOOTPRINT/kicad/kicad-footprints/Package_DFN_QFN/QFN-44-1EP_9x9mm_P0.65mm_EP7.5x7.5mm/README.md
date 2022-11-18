@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-QFN-44-1EP_9x9mm_P0.65mm_EP7.5x7.5mm
 - Hex ID: FZKDFNQFN441EP9X9P65EP75X75
 - Name: Package_DFN_QFN : QFN-44-1EP_9x9mm_P0.65mm_EP7.5x7.5mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/QFN-44-1EP_9x9mm_P0.65mm_EP7.5x7.5mm/
 - Description: Package_DFN_QFN : QFN-44-1EP_9x9mm_P0.65mm_EP7.5x7.5mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-QFN-44-1EP_9x9mm_P0.65mm_EP7.5x7.5mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-QFN-44-1EP_9x9mm_P0.65mm_EP7.5x7.5mm)
 - Short Link: [http://oom.lt/FZKDFNQFN441EP9X9P65EP75X75](http://oom.lt/FZKDFNQFN441EP9X9P65EP75X75)

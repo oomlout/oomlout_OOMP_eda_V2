@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-coax-BU-SMC-V
 - Hex ID: FZECONCOAXBUSMCV
 - Name: con-coax : BU-SMC-V
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-coax/BU-SMC-V/
 - Description: con-coax : BU-SMC-V
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-coax-BU-SMC-V](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-coax-BU-SMC-V)
 - Short Link: [http://oom.lt/FZECONCOAXBUSMCV](http://oom.lt/FZECONCOAXBUSMCV)

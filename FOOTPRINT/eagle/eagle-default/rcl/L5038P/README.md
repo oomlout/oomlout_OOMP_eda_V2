@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-rcl-L5038P
 - Hex ID: FZERCLL538P
 - Name: rcl : L5038P
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/rcl/L5038P/
 - Description: rcl : L5038P
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-L5038P](http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-L5038P)
 - Short Link: [http://oom.lt/FZERCLL538P](http://oom.lt/FZERCLL538P)

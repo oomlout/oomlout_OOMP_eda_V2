@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-display-hp-HTIL311A
 - Hex ID: FZEDIHPHTIL311A
 - Name: display-hp : HTIL311A
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/display-hp/HTIL311A/
 - Description: display-hp : HTIL311A
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-display-hp-HTIL311A](http://oom.lt/FOOTPRINT-eagle-eagle-default-display-hp-HTIL311A)
 - Short Link: [http://oom.lt/FZEDIHPHTIL311A](http://oom.lt/FZEDIHPHTIL311A)

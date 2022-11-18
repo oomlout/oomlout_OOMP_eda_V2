@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_BarrelJack-BarrelJack_Wuerth_6941xx301002
 - Hex ID: FZKCNBARRELJBARRELJWUERTH6941XX312
 - Name: Connector_BarrelJack : BarrelJack_Wuerth_6941xx301002
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_BarrelJack/BarrelJack_Wuerth_6941xx301002/
 - Description: Connector_BarrelJack : BarrelJack_Wuerth_6941xx301002
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_BarrelJack-BarrelJack_Wuerth_6941xx301002](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_BarrelJack-BarrelJack_Wuerth_6941xx301002)
 - Short Link: [http://oom.lt/FZKCNBARRELJBARRELJWUERTH6941XX312](http://oom.lt/FZKCNBARRELJBARRELJWUERTH6941XX312)

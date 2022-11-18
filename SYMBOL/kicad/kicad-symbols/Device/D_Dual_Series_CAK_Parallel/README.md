@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Device-D_Dual_Series_CAK_Parallel
 - Hex ID: SZKDEVICEDDUALSERIESCAKPARALLEL
 - Name: Device : D_Dual_Series_CAK_Parallel
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/D_Dual_Series_CAK_Parallel/
 - Description: Device : D_Dual_Series_CAK_Parallel
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-D_Dual_Series_CAK_Parallel](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-D_Dual_Series_CAK_Parallel)
 - Short Link: [http://oom.lt/SZKDEVICEDDUALSERIESCAKPARALLEL](http://oom.lt/SZKDEVICEDDUALSERIESCAKPARALLEL)

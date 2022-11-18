@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_ST_STM32L4-STM32L431VCTx
 - Hex ID: SZKMCUSTSTM32L4STM32L431VCTX
 - Name: MCU_ST_STM32L4 : STM32L431VCTx
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32L4/STM32L431VCTx/
 - Description: MCU_ST_STM32L4 : STM32L431VCTx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32L4-STM32L431VCTx](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32L4-STM32L431VCTx)
 - Short Link: [http://oom.lt/SZKMCUSTSTM32L4STM32L431VCTX](http://oom.lt/SZKMCUSTSTM32L4STM32L431VCTX)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_B_Amphenol_MUSB-D511_Vertical_Rugged
 - Hex ID: FZKCNUUBAMPHENOLMUD511FRUGGED
 - Name: Connector_USB : USB_B_Amphenol_MUSB-D511_Vertical_Rugged
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB_B_Amphenol_MUSB-D511_Vertical_Rugged/
 - Description: Connector_USB : USB_B_Amphenol_MUSB-D511_Vertical_Rugged
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_B_Amphenol_MUSB-D511_Vertical_Rugged](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_B_Amphenol_MUSB-D511_Vertical_Rugged)
 - Short Link: [http://oom.lt/FZKCNUUBAMPHENOLMUD511FRUGGED](http://oom.lt/FZKCNUUBAMPHENOLMUD511FRUGGED)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Device-LED_BKGR
 - Hex ID: SZKDEVICELBKGR
 - Name: Device : LED_BKGR
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/LED_BKGR/
 - Description: Device : LED_BKGR
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-LED_BKGR](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-LED_BKGR)
 - Short Link: [http://oom.lt/SZKDEVICELBKGR](http://oom.lt/SZKDEVICELBKGR)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-relay-REED-SERIES-A
 - Hex ID: FZERELAYREEDSERIESA
 - Name: relay : REED-SERIES-A
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/relay/REED-SERIES-A/
 - Description: relay : REED-SERIES-A
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-REED-SERIES-A](http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-REED-SERIES-A)
 - Short Link: [http://oom.lt/FZERELAYREEDSERIESA](http://oom.lt/FZERELAYREEDSERIESA)

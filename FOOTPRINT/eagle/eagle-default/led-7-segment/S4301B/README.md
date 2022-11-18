@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-led-7-segment-S4301B
 - Hex ID: FZEL7SS431B
 - Name: led-7-segment : S4301B
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/led-7-segment/S4301B/
 - Description: led-7-segment : S4301B
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-led-7-segment-S4301B](http://oom.lt/FOOTPRINT-eagle-eagle-default-led-7-segment-S4301B)
 - Short Link: [http://oom.lt/FZEL7SS431B](http://oom.lt/FZEL7SS431B)

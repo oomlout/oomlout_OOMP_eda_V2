@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Analog_Switch-DG308AxY
 - Hex ID: SZKANALOGSWDG38AXY
 - Name: Analog_Switch : DG308AxY
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog_Switch/DG308AxY/
 - Description: Analog_Switch : DG308AxY
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_Switch-DG308AxY](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_Switch-DG308AxY)
 - Short Link: [http://oom.lt/SZKANALOGSWDG38AXY](http://oom.lt/SZKANALOGSWDG38AXY)

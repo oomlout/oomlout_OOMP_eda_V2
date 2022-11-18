@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_USB-STULPI01B
 - Hex ID: SZKINTERFACEUSTULPI1B
 - Name: Interface_USB : STULPI01B
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_USB/STULPI01B/
 - Description: Interface_USB : STULPI01B
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_USB-STULPI01B](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_USB-STULPI01B)
 - Short Link: [http://oom.lt/SZKINTERFACEUSTULPI1B](http://oom.lt/SZKINTERFACEUSTULPI1B)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-C1608
 - Hex ID: FZAC168
 - Name: adafruit : C1608
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/C1608/
 - Description: adafruit : C1608
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-C1608](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-C1608)
 - Short Link: [http://oom.lt/FZAC168](http://oom.lt/FZAC168)

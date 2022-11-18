@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-thomas-betts-9090-4R
 - Hex ID: FZECONTHOMASBETTS994R
 - Name: con-thomas-betts : 9090-4R
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-thomas-betts/9090-4R/
 - Description: con-thomas-betts : 9090-4R
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-thomas-betts-9090-4R](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-thomas-betts-9090-4R)
 - Short Link: [http://oom.lt/FZECONTHOMASBETTS994R](http://oom.lt/FZECONTHOMASBETTS994R)

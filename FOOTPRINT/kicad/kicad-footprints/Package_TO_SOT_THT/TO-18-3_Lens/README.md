@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-TO-18-3_Lens
 - Hex ID: FZKSOTTO183LENS
 - Name: Package_TO_SOT_THT : TO-18-3_Lens
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_THT/TO-18-3_Lens/
 - Description: Package_TO_SOT_THT : TO-18-3_Lens
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-TO-18-3_Lens](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-TO-18-3_Lens)
 - Short Link: [http://oom.lt/FZKSOTTO183LENS](http://oom.lt/FZKSOTTO183LENS)

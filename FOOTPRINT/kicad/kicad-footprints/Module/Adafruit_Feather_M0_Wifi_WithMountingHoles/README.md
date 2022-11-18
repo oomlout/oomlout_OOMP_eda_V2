@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Module-Adafruit_Feather_M0_Wifi_WithMountingHoles
 - Hex ID: FZKMOADAFEATHERMWIFIWITHHOLS
 - Name: Module : Adafruit_Feather_M0_Wifi_WithMountingHoles
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Module/Adafruit_Feather_M0_Wifi_WithMountingHoles/
 - Description: Module : Adafruit_Feather_M0_Wifi_WithMountingHoles
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Module-Adafruit_Feather_M0_Wifi_WithMountingHoles](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Module-Adafruit_Feather_M0_Wifi_WithMountingHoles)
 - Short Link: [http://oom.lt/FZKMOADAFEATHERMWIFIWITHHOLS](http://oom.lt/FZKMOADAFEATHERMWIFIWITHHOLS)

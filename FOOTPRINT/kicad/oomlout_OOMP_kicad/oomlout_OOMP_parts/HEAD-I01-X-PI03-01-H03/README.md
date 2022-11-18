@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-I01-X-PI03-01-H03
 - Hex ID: FZOOMPKOOMPPHEADI1XPI31H3
 - Name: oomlout_OOMP_parts : HEAD-I01-X-PI03-01-H03
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/HEAD-I01-X-PI03-01-H03/
 - Description: oomlout_OOMP_parts : HEAD-I01-X-PI03-01-H03
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-I01-X-PI03-01-H03](http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-I01-X-PI03-01-H03)
 - Short Link: [http://oom.lt/FZOOMPKOOMPPHEADI1XPI31H3](http://oom.lt/FZOOMPKOOMPPHEADI1XPI31H3)

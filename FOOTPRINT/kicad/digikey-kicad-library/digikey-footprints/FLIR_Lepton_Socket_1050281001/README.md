@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-FLIR_Lepton_Socket_1050281001
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSFLIRLEPTONSO152811
 - Name: digikey-footprints : FLIR_Lepton_Socket_1050281001
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/FLIR_Lepton_Socket_1050281001/
 - Description: digikey-footprints : FLIR_Lepton_Socket_1050281001
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-FLIR_Lepton_Socket_1050281001](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-FLIR_Lepton_Socket_1050281001)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSFLIRLEPTONSO152811](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSFLIRLEPTONSO152811)

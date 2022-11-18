@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-diode-TO220AC
 - Hex ID: FZEDIODETO22AC
 - Name: diode : TO220AC
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/diode/TO220AC/
 - Description: diode : TO220AC
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-diode-TO220AC](http://oom.lt/FOOTPRINT-eagle-eagle-default-diode-TO220AC)
 - Short Link: [http://oom.lt/FZEDIODETO22AC](http://oom.lt/FZEDIODETO22AC)

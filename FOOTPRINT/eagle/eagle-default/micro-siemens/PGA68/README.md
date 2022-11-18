@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-micro-siemens-PGA68
 - Hex ID: FZEMSIEMENSPGA68
 - Name: micro-siemens : PGA68
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/micro-siemens/PGA68/
 - Description: micro-siemens : PGA68
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-siemens-PGA68](http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-siemens-PGA68)
 - Short Link: [http://oom.lt/FZEMSIEMENSPGA68](http://oom.lt/FZEMSIEMENSPGA68)

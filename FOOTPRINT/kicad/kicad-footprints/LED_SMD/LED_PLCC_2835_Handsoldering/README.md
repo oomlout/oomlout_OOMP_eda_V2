@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKLLPLCC2835HANDSOLDERING > LED_SMD : LED_PLCC_2835_Handsoldering](#fzkllplcc2835handsoldering--led_smd--led_plcc_2835_handsoldering)
+* [FZKLLPLCC2835HS > LED_SMD : LED_PLCC_2835_Handsoldering](#fzkllplcc2835hs--led_smd--led_plcc_2835_handsoldering)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKLLPLCC2835HANDSOLDERING > LED_SMD : LED_PLCC_2835_Handsoldering
+# FZKLLPLCC2835HS > LED_SMD : LED_PLCC_2835_Handsoldering
 
 - ID: FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_PLCC_2835_Handsoldering
-- Hex ID: FZKLLPLCC2835HANDSOLDERING
+- Hex ID: FZKLLPLCC2835HS
 - Name: LED_SMD : LED_PLCC_2835_Handsoldering
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_PLCC_2835_Handsoldering/
 - Description: LED_SMD : LED_PLCC_2835_Handsoldering
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_PLCC_2835_Handsoldering](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_PLCC_2835_Handsoldering)
-- Short Link: [http://oom.lt/FZKLLPLCC2835HANDSOLDERING](http://oom.lt/FZKLLPLCC2835HANDSOLDERING)
+- Short Link: [http://oom.lt/FZKLLPLCC2835HS](http://oom.lt/FZKLLPLCC2835HS)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|LED_SMD|
 |OOMP Index|oompIndex|LED_PLCC_2835_Handsoldering|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_PLCC_2835_Handsoldering|
-|Hex ID (short code)|hexID|FZKLLPLCC2835HANDSOLDERING|
+|Hex ID (short code)|hexID|FZKLLPLCC2835HS|
 |name|name|LED_SMD : LED_PLCC_2835_Handsoldering|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'LED_PLCC_2835_Handsoldering'</td><td> 'description'</td></tr><tr><td> 'https</td></tr><tr><td>//www.luckylight.cn/media/component/data-sheet/R2835BC-B2M-M10.pdf'</td><td> 'tags'</td></tr><tr><td> 'LED'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/LED_SMD.3dshapes/LED_PLCC_2835.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

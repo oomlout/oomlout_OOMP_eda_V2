@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Converter_ACDC-HS-40024
 - Hex ID: SZKCONHS424
 - Name: Converter_ACDC : HS-40024
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Converter_ACDC/HS-40024/
 - Description: Converter_ACDC : HS-40024
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_ACDC-HS-40024](http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_ACDC-HS-40024)
 - Short Link: [http://oom.lt/SZKCONHS424](http://oom.lt/SZKCONHS424)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_CSP-WLCSP-16_1.409x1.409mm_P0.35mm
 - Hex ID: FZKCSPWLCSP16149X149P35
 - Name: Package_CSP : WLCSP-16_1.409x1.409mm_P0.35mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_CSP/WLCSP-16_1.409x1.409mm_P0.35mm/
 - Description: Package_CSP : WLCSP-16_1.409x1.409mm_P0.35mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_CSP-WLCSP-16_1.409x1.409mm_P0.35mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_CSP-WLCSP-16_1.409x1.409mm_P0.35mm)
 - Short Link: [http://oom.lt/FZKCSPWLCSP16149X149P35](http://oom.lt/FZKCSPWLCSP16149X149P35)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Relay_SMD-Relay_2P2T_10x6mm_TE_IMxxG
 - Hex ID: FZKRELRELAY2P2T1X6TEIMXXG
 - Name: Relay_SMD : Relay_2P2T_10x6mm_TE_IMxxG
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Relay_SMD/Relay_2P2T_10x6mm_TE_IMxxG/
 - Description: Relay_SMD : Relay_2P2T_10x6mm_TE_IMxxG
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Relay_SMD-Relay_2P2T_10x6mm_TE_IMxxG](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Relay_SMD-Relay_2P2T_10x6mm_TE_IMxxG)
 - Short Link: [http://oom.lt/FZKRELRELAY2P2T1X6TEIMXXG](http://oom.lt/FZKRELRELAY2P2T1X6TEIMXXG)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LM6142xIx
 - Hex ID: SZKAMPLIFIEROPERATIONALLM6142XIX
 - Name: Amplifier_Operational : LM6142xIx
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/LM6142xIx/
 - Description: Amplifier_Operational : LM6142xIx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LM6142xIx](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LM6142xIx)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALLM6142XIX](http://oom.lt/SZKAMPLIFIEROPERATIONALLM6142XIX)

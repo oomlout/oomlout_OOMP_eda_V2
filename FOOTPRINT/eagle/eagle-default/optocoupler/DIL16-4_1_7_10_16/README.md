@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-optocoupler-DIL16-4_1_7_10_16
 - Hex ID: FZEOPTOCOUPLERDIL16417116
 - Name: optocoupler : DIL16-4_1_7_10_16
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/optocoupler/DIL16-4_1_7_10_16/
 - Description: optocoupler : DIL16-4_1_7_10_16
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-optocoupler-DIL16-4_1_7_10_16](http://oom.lt/FOOTPRINT-eagle-eagle-default-optocoupler-DIL16-4_1_7_10_16)
 - Short Link: [http://oom.lt/FZEOPTOCOUPLERDIL16417116](http://oom.lt/FZEOPTOCOUPLERDIL16417116)

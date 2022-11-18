@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_Expansion-TCA9535PWR
 - Hex ID: SZKINTERFACEEXPANSIONTCA9535PWR
 - Name: Interface_Expansion : TCA9535PWR
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_Expansion/TCA9535PWR/
 - Description: Interface_Expansion : TCA9535PWR
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Expansion-TCA9535PWR](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Expansion-TCA9535PWR)
 - Short Link: [http://oom.lt/SZKINTERFACEEXPANSIONTCA9535PWR](http://oom.lt/SZKINTERFACEEXPANSIONTCA9535PWR)

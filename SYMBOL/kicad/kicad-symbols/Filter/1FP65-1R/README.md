@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Filter-1FP65-1R
 - Hex ID: SZKFIL1FP651R
 - Name: Filter : 1FP65-1R
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Filter/1FP65-1R/
 - Description: Filter : 1FP65-1R
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Filter-1FP65-1R](http://oom.lt/SYMBOL-kicad-kicad-symbols-Filter-1FP65-1R)
 - Short Link: [http://oom.lt/SZKFIL1FP651R](http://oom.lt/SZKFIL1FP651R)

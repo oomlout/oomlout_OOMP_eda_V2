@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Valve-Valve_Mini_G
 - Hex ID: FZKVAVAMG
 - Name: Valve : Valve_Mini_G
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Valve/Valve_Mini_G/
 - Description: Valve : Valve_Mini_G
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Valve-Valve_Mini_G](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Valve-Valve_Mini_G)
 - Short Link: [http://oom.lt/FZKVAVAMG](http://oom.lt/FZKVAVAMG)

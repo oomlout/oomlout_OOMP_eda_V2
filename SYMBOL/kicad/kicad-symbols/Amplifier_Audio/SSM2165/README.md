@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Audio-SSM2165
 - Hex ID: SZKAMPLIFIERAUDIOSSM2165
 - Name: Amplifier_Audio : SSM2165
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Audio/SSM2165/
 - Description: Amplifier_Audio : SSM2165
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Audio-SSM2165](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Audio-SSM2165)
 - Short Link: [http://oom.lt/SZKAMPLIFIERAUDIOSSM2165](http://oom.lt/SZKAMPLIFIERAUDIOSSM2165)

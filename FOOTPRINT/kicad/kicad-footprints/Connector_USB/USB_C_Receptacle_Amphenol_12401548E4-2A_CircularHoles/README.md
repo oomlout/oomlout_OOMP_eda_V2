@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_C_Receptacle_Amphenol_12401548E4-2A_CircularHoles
 - Hex ID: FZKCNUUCRECEPTACLEAMPHENOL1241548E42ACIRCULARH
 - Name: Connector_USB : USB_C_Receptacle_Amphenol_12401548E4-2A_CircularHoles
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB_C_Receptacle_Amphenol_12401548E4-2A_CircularHoles/
 - Description: Connector_USB : USB_C_Receptacle_Amphenol_12401548E4-2A_CircularHoles
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_C_Receptacle_Amphenol_12401548E4-2A_CircularHoles](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_C_Receptacle_Amphenol_12401548E4-2A_CircularHoles)
 - Short Link: [http://oom.lt/FZKCNUUCRECEPTACLEAMPHENOL1241548E42ACIRCULARH](http://oom.lt/FZKCNUUCRECEPTACLEAMPHENOL1241548E42ACIRCULARH)

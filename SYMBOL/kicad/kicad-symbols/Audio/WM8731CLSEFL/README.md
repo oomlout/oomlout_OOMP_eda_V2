@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Audio-WM8731CLSEFL
 - Hex ID: SZKAUDIOWM8731CLSEFL
 - Name: Audio : WM8731CLSEFL
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Audio/WM8731CLSEFL/
 - Description: Audio : WM8731CLSEFL
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Audio-WM8731CLSEFL](http://oom.lt/SYMBOL-kicad-kicad-symbols-Audio-WM8731CLSEFL)
 - Short Link: [http://oom.lt/SZKAUDIOWM8731CLSEFL](http://oom.lt/SZKAUDIOWM8731CLSEFL)

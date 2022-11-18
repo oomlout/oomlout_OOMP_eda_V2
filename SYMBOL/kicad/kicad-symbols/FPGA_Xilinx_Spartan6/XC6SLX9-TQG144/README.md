@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-FPGA_Xilinx_Spartan6-XC6SLX9-TQG144
 - Hex ID: SZKFPGAXILINXSPARTAN6XC6SLX9TQG144
 - Name: FPGA_Xilinx_Spartan6 : XC6SLX9-TQG144
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/FPGA_Xilinx_Spartan6/XC6SLX9-TQG144/
 - Description: FPGA_Xilinx_Spartan6 : XC6SLX9-TQG144
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-FPGA_Xilinx_Spartan6-XC6SLX9-TQG144](http://oom.lt/SYMBOL-kicad-kicad-symbols-FPGA_Xilinx_Spartan6-XC6SLX9-TQG144)
 - Short Link: [http://oom.lt/SZKFPGAXILINXSPARTAN6XC6SLX9TQG144](http://oom.lt/SZKFPGAXILINXSPARTAN6XC6SLX9TQG144)

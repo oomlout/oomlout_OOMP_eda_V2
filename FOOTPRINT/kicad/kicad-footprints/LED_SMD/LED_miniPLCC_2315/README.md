@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_miniPLCC_2315
 - Hex ID: FZKLLMPLCC2315
 - Name: LED_SMD : LED_miniPLCC_2315
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_miniPLCC_2315/
 - Description: LED_SMD : LED_miniPLCC_2315
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_miniPLCC_2315](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_miniPLCC_2315)
 - Short Link: [http://oom.lt/FZKLLMPLCC2315](http://oom.lt/FZKLLMPLCC2315)

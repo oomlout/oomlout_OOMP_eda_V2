@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-OP179GS
 - Hex ID: SZKAMPLIFIEROPERATIONALOP179GS
 - Name: Amplifier_Operational : OP179GS
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/OP179GS/
 - Description: Amplifier_Operational : OP179GS
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-OP179GS](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-OP179GS)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALOP179GS](http://oom.lt/SZKAMPLIFIEROPERATIONALOP179GS)

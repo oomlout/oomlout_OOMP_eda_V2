@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_1206_3216Metric_ReverseMount_Hole1.8x2.4mm
 - Hex ID: FZKLL1263216VARMH18X24
 - Name: LED_SMD : LED_1206_3216Metric_ReverseMount_Hole1.8x2.4mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_1206_3216Metric_ReverseMount_Hole1.8x2.4mm/
 - Description: LED_SMD : LED_1206_3216Metric_ReverseMount_Hole1.8x2.4mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_1206_3216Metric_ReverseMount_Hole1.8x2.4mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_1206_3216Metric_ReverseMount_Hole1.8x2.4mm)
 - Short Link: [http://oom.lt/FZKLL1263216VARMH18X24](http://oom.lt/FZKLL1263216VARMH18X24)

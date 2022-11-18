@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Sensor_Current-Diodes_SIP-3_4.1x1.5mm_P2.65mm
 - Hex ID: FZKSENCURRENTDIODESSIP341X15P265
 - Name: Sensor_Current : Diodes_SIP-3_4.1x1.5mm_P2.65mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Sensor_Current/Diodes_SIP-3_4.1x1.5mm_P2.65mm/
 - Description: Sensor_Current : Diodes_SIP-3_4.1x1.5mm_P2.65mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Sensor_Current-Diodes_SIP-3_4.1x1.5mm_P2.65mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Sensor_Current-Diodes_SIP-3_4.1x1.5mm_P2.65mm)
 - Short Link: [http://oom.lt/FZKSENCURRENTDIODESSIP341X15P265](http://oom.lt/FZKSENCURRENTDIODESSIP341X15P265)

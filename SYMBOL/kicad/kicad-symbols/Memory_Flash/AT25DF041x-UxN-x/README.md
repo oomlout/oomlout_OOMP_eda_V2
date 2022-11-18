@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Memory_Flash-AT25DF041x-UxN-x
 - Hex ID: SZKMEMORYFLASHAT25DF41XUXNX
 - Name: Memory_Flash : AT25DF041x-UxN-x
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Memory_Flash/AT25DF041x-UxN-x/
 - Description: Memory_Flash : AT25DF041x-UxN-x
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_Flash-AT25DF041x-UxN-x](http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_Flash-AT25DF041x-UxN-x)
 - Short Link: [http://oom.lt/SZKMEMORYFLASHAT25DF41XUXNX](http://oom.lt/SZKMEMORYFLASHAT25DF41XUXNX)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-L272M
 - Hex ID: SZKAMPLIFIEROPERATIONALL272M
 - Name: Amplifier_Operational : L272M
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/L272M/
 - Description: Amplifier_Operational : L272M
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-L272M](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-L272M)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALL272M](http://oom.lt/SZKAMPLIFIEROPERATIONALL272M)

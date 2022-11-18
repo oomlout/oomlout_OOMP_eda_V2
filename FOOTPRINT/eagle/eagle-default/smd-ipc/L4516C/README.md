@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-smd-ipc-L4516C
 - Hex ID: FZESMIPCL4516C
 - Name: smd-ipc : L4516C
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/smd-ipc/L4516C/
 - Description: smd-ipc : L4516C
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-L4516C](http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-L4516C)
 - Short Link: [http://oom.lt/FZESMIPCL4516C](http://oom.lt/FZESMIPCL4516C)

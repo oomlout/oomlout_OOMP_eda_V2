@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-1X02_POKEHOME
 - Hex ID: FZSSPARKFUNCNS1X2POKEHOME
 - Name: SparkFun-Connectors : 1X02_POKEHOME
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Connectors/1X02_POKEHOME/
 - Description: SparkFun-Connectors : 1X02_POKEHOME
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-1X02_POKEHOME](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-1X02_POKEHOME)
 - Short Link: [http://oom.lt/FZSSPARKFUNCNS1X2POKEHOME](http://oom.lt/FZSSPARKFUNCNS1X2POKEHOME)

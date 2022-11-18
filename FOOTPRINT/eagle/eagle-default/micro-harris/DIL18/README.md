@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-micro-harris-DIL18
 - Hex ID: FZEMHARRISDIL18
 - Name: micro-harris : DIL18
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/micro-harris/DIL18/
 - Description: micro-harris : DIL18
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-harris-DIL18](http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-harris-DIL18)
 - Short Link: [http://oom.lt/FZEMHARRISDIL18](http://oom.lt/FZEMHARRISDIL18)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-USB_Male_A_UP2-AH-1-TH
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSUMALEAUP2AH1TH
 - Name: digikey-footprints : USB_Male_A_UP2-AH-1-TH
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/USB_Male_A_UP2-AH-1-TH/
 - Description: digikey-footprints : USB_Male_A_UP2-AH-1-TH
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-USB_Male_A_UP2-AH-1-TH](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-USB_Male_A_UP2-AH-1-TH)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSUMALEAUP2AH1TH](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSUMALEAUP2AH1TH)

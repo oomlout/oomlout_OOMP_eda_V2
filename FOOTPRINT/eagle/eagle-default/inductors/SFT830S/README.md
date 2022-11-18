@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEINDUCTORSSFT83S > inductors : SFT830S](#fzeinductorssft83s--inductors--sft830s)
+* [FZEINSSFT83S > inductors : SFT830S](#fzeinssft83s--inductors--sft830s)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEINDUCTORSSFT83S > inductors : SFT830S
+# FZEINSSFT83S > inductors : SFT830S
 
 - ID: FOOTPRINT-eagle-eagle-default-inductors-SFT830S
-- Hex ID: FZEINDUCTORSSFT83S
+- Hex ID: FZEINSSFT83S
 - Name: inductors : SFT830S
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/inductors/SFT830S/
 - Description: inductors : SFT830S
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-inductors-SFT830S](http://oom.lt/FOOTPRINT-eagle-eagle-default-inductors-SFT830S)
-- Short Link: [http://oom.lt/FZEINDUCTORSSFT83S](http://oom.lt/FZEINDUCTORSSFT83S)
+- Short Link: [http://oom.lt/FZEINSSFT83S](http://oom.lt/FZEINSSFT83S)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|inductors|
 |OOMP Index|oompIndex|SFT830S|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-inductors-SFT830S|
-|Hex ID (short code)|hexID|FZEINDUCTORSSFT83S|
+|Hex ID (short code)|hexID|FZEINSSFT83S|
 |name|name|inductors : SFT830S|
 ||||

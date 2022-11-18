@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-exar-SO-16LD
 - Hex ID: FZEEXARSO16LD
 - Name: exar : SO-16LD
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/exar/SO-16LD/
 - Description: exar : SO-16LD
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-exar-SO-16LD](http://oom.lt/FOOTPRINT-eagle-eagle-default-exar-SO-16LD)
 - Short Link: [http://oom.lt/FZEEXARSO16LD](http://oom.lt/FZEEXARSO16LD)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-VEML6070
 - Hex ID: FZSSPARKFUNSENSVEML67
 - Name: SparkFun-Sensors : VEML6070
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Sensors/VEML6070/
 - Description: SparkFun-Sensors : VEML6070
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-VEML6070](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-VEML6070)
 - Short Link: [http://oom.lt/FZSSPARKFUNSENSVEML67](http://oom.lt/FZSSPARKFUNSENSVEML67)

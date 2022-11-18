@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0402-X-PF22D-V50-C4P22D
 - Hex ID: SZOOMPKOOMPPCAPC42XPF22DV5C4P22D
 - Name: oomlout_OOMP_parts : CAPC-0402-X-PF22D-V50-C4P22D
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/CAPC-0402-X-PF22D-V50-C4P22D/
 - Description: oomlout_OOMP_parts : CAPC-0402-X-PF22D-V50-C4P22D
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0402-X-PF22D-V50-C4P22D](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0402-X-PF22D-V50-C4P22D)
 - Short Link: [http://oom.lt/SZOOMPKOOMPPCAPC42XPF22DV5C4P22D](http://oom.lt/SZOOMPKOOMPPCAPC42XPF22DV5C4P22D)

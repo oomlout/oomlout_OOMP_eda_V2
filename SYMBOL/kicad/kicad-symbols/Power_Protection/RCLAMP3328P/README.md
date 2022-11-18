@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Power_Protection-RCLAMP3328P
 - Hex ID: SZKPOWERPROTECTIONRCLAMP3328P
 - Name: Power_Protection : RCLAMP3328P
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Power_Protection/RCLAMP3328P/
 - Description: Power_Protection : RCLAMP3328P
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Protection-RCLAMP3328P](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Protection-RCLAMP3328P)
 - Short Link: [http://oom.lt/SZKPOWERPROTECTIONRCLAMP3328P](http://oom.lt/SZKPOWERPROTECTIONRCLAMP3328P)

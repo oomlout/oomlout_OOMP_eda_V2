@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Oscillator-MV267
 - Hex ID: SZKOCSMV267
 - Name: Oscillator : MV267
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Oscillator/MV267/
 - Description: Oscillator : MV267
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Oscillator-MV267](http://oom.lt/SYMBOL-kicad-kicad-symbols-Oscillator-MV267)
 - Short Link: [http://oom.lt/SZKOCSMV267](http://oom.lt/SZKOCSMV267)

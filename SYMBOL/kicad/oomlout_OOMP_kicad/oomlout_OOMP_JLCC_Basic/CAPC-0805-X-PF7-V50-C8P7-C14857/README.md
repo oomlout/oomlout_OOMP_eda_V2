@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0805-X-PF7-V50-C8P7-C14857
 - Hex ID: SZOOMPKJLCCAPC85XPF7V5C8P7C14857
 - Name: oomlout_OOMP_JLCC_Basic : CAPC-0805-X-PF7-V50-C8P7-C14857
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_JLCC_Basic/CAPC-0805-X-PF7-V50-C8P7-C14857/
 - Description: oomlout_OOMP_JLCC_Basic : CAPC-0805-X-PF7-V50-C8P7-C14857
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0805-X-PF7-V50-C8P7-C14857](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0805-X-PF7-V50-C8P7-C14857)
 - Short Link: [http://oom.lt/SZOOMPKJLCCAPC85XPF7V5C8P7C14857](http://oom.lt/SZOOMPKJLCCAPC85XPF7V5C8P7C14857)

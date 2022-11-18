@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-E35-12
 - Hex ID: FZAE3512
 - Name: adafruit : E35-12
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/E35-12/
 - Description: adafruit : E35-12
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-E35-12](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-E35-12)
 - Short Link: [http://oom.lt/FZAE3512](http://oom.lt/FZAE3512)

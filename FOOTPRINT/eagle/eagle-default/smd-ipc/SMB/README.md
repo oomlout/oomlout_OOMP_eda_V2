@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-smd-ipc-SMB
 - Hex ID: FZESMIPCSMB
 - Name: smd-ipc : SMB
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/smd-ipc/SMB/
 - Description: smd-ipc : SMB
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-SMB](http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-SMB)
 - Short Link: [http://oom.lt/FZESMIPCSMB](http://oom.lt/FZESMIPCSMB)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-ptc-ntc-SOD70
 - Hex ID: FZEPTCNTCSOD7
 - Name: ptc-ntc : SOD70
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ptc-ntc/SOD70/
 - Description: ptc-ntc : SOD70
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ptc-ntc-SOD70](http://oom.lt/FOOTPRINT-eagle-eagle-default-ptc-ntc-SOD70)
 - Short Link: [http://oom.lt/FZEPTCNTCSOD7](http://oom.lt/FZEPTCNTCSOD7)

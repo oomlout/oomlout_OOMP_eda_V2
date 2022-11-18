@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_NXP_HC12-MC68HC912
 - Hex ID: SZKMCUNXPHC12MC68HC912
 - Name: MCU_NXP_HC12 : MC68HC912
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_NXP_HC12/MC68HC912/
 - Description: MCU_NXP_HC12 : MC68HC912
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_NXP_HC12-MC68HC912](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_NXP_HC12-MC68HC912)
 - Short Link: [http://oom.lt/SZKMCUNXPHC12MC68HC912](http://oom.lt/SZKMCUNXPHC12MC68HC912)

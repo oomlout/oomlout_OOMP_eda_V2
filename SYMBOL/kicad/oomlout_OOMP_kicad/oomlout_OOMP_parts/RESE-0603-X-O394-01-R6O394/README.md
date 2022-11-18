@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O394-01-R6O394
 - Hex ID: SZOOMPKOOMPPRESE63XO3941R6O394
 - Name: oomlout_OOMP_parts : RESE-0603-X-O394-01-R6O394
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/RESE-0603-X-O394-01-R6O394/
 - Description: oomlout_OOMP_parts : RESE-0603-X-O394-01-R6O394
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O394-01-R6O394](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O394-01-R6O394)
 - Short Link: [http://oom.lt/SZOOMPKOOMPPRESE63XO3941R6O394](http://oom.lt/SZOOMPKOOMPPRESE63XO3941R6O394)

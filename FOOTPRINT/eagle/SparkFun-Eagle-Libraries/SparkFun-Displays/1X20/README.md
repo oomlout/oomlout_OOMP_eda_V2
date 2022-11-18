@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Displays-1X20
 - Hex ID: FZSSPARKFUNDIS1X2
 - Name: SparkFun-Displays : 1X20
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Displays/1X20/
 - Description: SparkFun-Displays : 1X20
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Displays-1X20](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Displays-1X20)
 - Short Link: [http://oom.lt/FZSSPARKFUNDIS1X2](http://oom.lt/FZSSPARKFUNDIS1X2)

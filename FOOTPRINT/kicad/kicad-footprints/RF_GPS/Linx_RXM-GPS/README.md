@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-RF_GPS-Linx_RXM-GPS
 - Hex ID: FZKGPSLINXRXMGPS
 - Name: RF_GPS : Linx_RXM-GPS
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/RF_GPS/Linx_RXM-GPS/
 - Description: RF_GPS : Linx_RXM-GPS
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_GPS-Linx_RXM-GPS](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_GPS-Linx_RXM-GPS)
 - Short Link: [http://oom.lt/FZKGPSLINXRXMGPS](http://oom.lt/FZKGPSLINXRXMGPS)

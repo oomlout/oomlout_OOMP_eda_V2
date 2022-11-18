@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0402-X-O802-01-R4O802
 - Hex ID: SZOOMPKOOMPPRESE42XO821R4O82
 - Name: oomlout_OOMP_parts : RESE-0402-X-O802-01-R4O802
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/RESE-0402-X-O802-01-R4O802/
 - Description: oomlout_OOMP_parts : RESE-0402-X-O802-01-R4O802
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0402-X-O802-01-R4O802](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0402-X-O802-01-R4O802)
 - Short Link: [http://oom.lt/SZOOMPKOOMPPRESE42XO821R4O82](http://oom.lt/SZOOMPKOOMPPRESE42XO821R4O82)

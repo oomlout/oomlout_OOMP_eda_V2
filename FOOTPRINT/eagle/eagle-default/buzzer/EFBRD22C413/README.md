@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-buzzer-EFBRD22C413
 - Hex ID: FZEBUZZEREFBRD22C413
 - Name: buzzer : EFBRD22C413
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/buzzer/EFBRD22C413/
 - Description: buzzer : EFBRD22C413
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-buzzer-EFBRD22C413](http://oom.lt/FOOTPRINT-eagle-eagle-default-buzzer-EFBRD22C413)
 - Short Link: [http://oom.lt/FZEBUZZEREFBRD22C413](http://oom.lt/FZEBUZZEREFBRD22C413)

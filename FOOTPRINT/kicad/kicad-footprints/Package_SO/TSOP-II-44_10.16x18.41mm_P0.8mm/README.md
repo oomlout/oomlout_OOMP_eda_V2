@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_SO-TSOP-II-44_10.16x18.41mm_P0.8mm
 - Hex ID: FZKSOTSII44116X1841P8
 - Name: Package_SO : TSOP-II-44_10.16x18.41mm_P0.8mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SO/TSOP-II-44_10.16x18.41mm_P0.8mm/
 - Description: Package_SO : TSOP-II-44_10.16x18.41mm_P0.8mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SO-TSOP-II-44_10.16x18.41mm_P0.8mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SO-TSOP-II-44_10.16x18.41mm_P0.8mm)
 - Short Link: [http://oom.lt/FZKSOTSII44116X1841P8](http://oom.lt/FZKSOTSII44116X1841P8)

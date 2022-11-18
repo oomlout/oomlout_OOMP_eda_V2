@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_LGA-LGA-24L_3x3.5mm_P0.43mm
 - Hex ID: FZKLGALGA24L3X35P43
 - Name: Package_LGA : LGA-24L_3x3.5mm_P0.43mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_LGA/LGA-24L_3x3.5mm_P0.43mm/
 - Description: Package_LGA : LGA-24L_3x3.5mm_P0.43mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_LGA-LGA-24L_3x3.5mm_P0.43mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_LGA-LGA-24L_3x3.5mm_P0.43mm)
 - Short Link: [http://oom.lt/FZKLGALGA24L3X35P43](http://oom.lt/FZKLGALGA24L3X35P43)

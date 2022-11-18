@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-analog-devices-LQFP100
 - Hex ID: FZEANALOGDEVICESLQFP1
 - Name: analog-devices : LQFP100
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/analog-devices/LQFP100/
 - Description: analog-devices : LQFP100
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-analog-devices-LQFP100](http://oom.lt/FOOTPRINT-eagle-eagle-default-analog-devices-LQFP100)
 - Short Link: [http://oom.lt/FZEANALOGDEVICESLQFP1](http://oom.lt/FZEANALOGDEVICESLQFP1)

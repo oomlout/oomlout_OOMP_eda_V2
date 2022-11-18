@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-micro-fujitsu-DIL32-6
 - Hex ID: FZEMFUJITSUDIL326
 - Name: micro-fujitsu : DIL32-6
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/micro-fujitsu/DIL32-6/
 - Description: micro-fujitsu : DIL32-6
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-fujitsu-DIL32-6](http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-fujitsu-DIL32-6)
 - Short Link: [http://oom.lt/FZEMFUJITSUDIL326](http://oom.lt/FZEMFUJITSUDIL326)

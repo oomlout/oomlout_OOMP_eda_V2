@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-microchip-QFN40ML6X6MM
 - Hex ID: FZEMCHIPQFN4ML6X6
 - Name: microchip : QFN40ML6X6MM
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/microchip/QFN40ML6X6MM/
 - Description: microchip : QFN40ML6X6MM
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-microchip-QFN40ML6X6MM](http://oom.lt/FOOTPRINT-eagle-eagle-default-microchip-QFN40ML6X6MM)
 - Short Link: [http://oom.lt/FZEMCHIPQFN4ML6X6](http://oom.lt/FZEMCHIPQFN4ML6X6)

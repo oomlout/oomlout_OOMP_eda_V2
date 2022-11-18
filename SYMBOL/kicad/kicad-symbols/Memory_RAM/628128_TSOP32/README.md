@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Memory_RAM-628128_TSOP32
 - Hex ID: SZKMEMORYRAM628128TS32
 - Name: Memory_RAM : 628128_TSOP32
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Memory_RAM/628128_TSOP32/
 - Description: Memory_RAM : 628128_TSOP32
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_RAM-628128_TSOP32](http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_RAM-628128_TSOP32)
 - Short Link: [http://oom.lt/SZKMEMORYRAM628128TS32](http://oom.lt/SZKMEMORYRAM628128TS32)

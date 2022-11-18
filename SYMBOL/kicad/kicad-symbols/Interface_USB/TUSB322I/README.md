@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_USB-TUSB322I
 - Hex ID: SZKINTERFACEUTU322I
 - Name: Interface_USB : TUSB322I
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_USB/TUSB322I/
 - Description: Interface_USB : TUSB322I
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_USB-TUSB322I](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_USB-TUSB322I)
 - Short Link: [http://oom.lt/SZKINTERFACEUTU322I](http://oom.lt/SZKINTERFACEUTU322I)

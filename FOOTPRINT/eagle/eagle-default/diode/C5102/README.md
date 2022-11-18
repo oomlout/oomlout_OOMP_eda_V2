@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-diode-C5102
 - Hex ID: FZEDIODEC512
 - Name: diode : C5102
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/diode/C5102/
 - Description: diode : C5102
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-diode-C5102](http://oom.lt/FOOTPRINT-eagle-eagle-default-diode-C5102)
 - Short Link: [http://oom.lt/FZEDIODEC512](http://oom.lt/FZEDIODEC512)

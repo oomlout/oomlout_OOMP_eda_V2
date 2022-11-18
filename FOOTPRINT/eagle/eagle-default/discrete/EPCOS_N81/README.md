@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-discrete-EPCOS_N81
 - Hex ID: FZEDISCRETEEPCOSN81
 - Name: discrete : EPCOS_N81
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/discrete/EPCOS_N81/
 - Description: discrete : EPCOS_N81
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-discrete-EPCOS_N81](http://oom.lt/FOOTPRINT-eagle-eagle-default-discrete-EPCOS_N81)
 - Short Link: [http://oom.lt/FZEDISCRETEEPCOSN81](http://oom.lt/FZEDISCRETEEPCOSN81)

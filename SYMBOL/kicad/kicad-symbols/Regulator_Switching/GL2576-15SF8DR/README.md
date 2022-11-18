@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-GL2576-15SF8DR
 - Hex ID: SZKREGULATORSWINGGL257615SF8DR
 - Name: Regulator_Switching : GL2576-15SF8DR
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/GL2576-15SF8DR/
 - Description: Regulator_Switching : GL2576-15SF8DR
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-GL2576-15SF8DR](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-GL2576-15SF8DR)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGGL257615SF8DR](http://oom.lt/SZKREGULATORSWINGGL257615SF8DR)

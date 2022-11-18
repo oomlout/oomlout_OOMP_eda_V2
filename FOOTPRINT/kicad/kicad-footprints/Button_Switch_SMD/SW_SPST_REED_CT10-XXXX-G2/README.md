@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-SW_SPST_REED_CT10-XXXX-G2
 - Hex ID: FZKBSWSPSTREEDCT1XXXXG2
 - Name: Button_Switch_SMD : SW_SPST_REED_CT10-XXXX-G2
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Button_Switch_SMD/SW_SPST_REED_CT10-XXXX-G2/
 - Description: Button_Switch_SMD : SW_SPST_REED_CT10-XXXX-G2
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-SW_SPST_REED_CT10-XXXX-G2](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-SW_SPST_REED_CT10-XXXX-G2)
 - Short Link: [http://oom.lt/FZKBSWSPSTREEDCT1XXXXG2](http://oom.lt/FZKBSWSPSTREEDCT1XXXXG2)

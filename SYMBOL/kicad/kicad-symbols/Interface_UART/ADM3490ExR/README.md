@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_UART-ADM3490ExR
 - Hex ID: SZKINTERFACEUARTADM349EXR
 - Name: Interface_UART : ADM3490ExR
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_UART/ADM3490ExR/
 - Description: Interface_UART : ADM3490ExR
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_UART-ADM3490ExR](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_UART-ADM3490ExR)
 - Short Link: [http://oom.lt/SZKINTERFACEUARTADM349EXR](http://oom.lt/SZKINTERFACEUARTADM349EXR)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-phoenix-508-MKDSN1,5_3-5,08
 - Hex ID: FZECONPHOENIX58MKDSN15358
 - Name: con-phoenix-508 : MKDSN1,5_3-5,08
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-phoenix-508/MKDSN1,5_3-5,08/
 - Description: con-phoenix-508 : MKDSN1,5_3-5,08
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-phoenix-508-MKDSN1,5_3-5,08](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-phoenix-508-MKDSN1,5_3-5,08)
 - Short Link: [http://oom.lt/FZECONPHOENIX58MKDSN15358](http://oom.lt/FZECONPHOENIX58MKDSN15358)

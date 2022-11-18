@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-SW_Push_1P1T_NO_CK_PTS125Sx43PSMTR
 - Hex ID: FZKBSWPUSH1P1TNOCKPTS125SX43PSMTR
 - Name: Button_Switch_SMD : SW_Push_1P1T_NO_CK_PTS125Sx43PSMTR
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Button_Switch_SMD/SW_Push_1P1T_NO_CK_PTS125Sx43PSMTR/
 - Description: Button_Switch_SMD : SW_Push_1P1T_NO_CK_PTS125Sx43PSMTR
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-SW_Push_1P1T_NO_CK_PTS125Sx43PSMTR](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-SW_Push_1P1T_NO_CK_PTS125Sx43PSMTR)
 - Short Link: [http://oom.lt/FZKBSWPUSH1P1TNOCKPTS125SX43PSMTR](http://oom.lt/FZKBSWPUSH1P1TNOCKPTS125SX43PSMTR)

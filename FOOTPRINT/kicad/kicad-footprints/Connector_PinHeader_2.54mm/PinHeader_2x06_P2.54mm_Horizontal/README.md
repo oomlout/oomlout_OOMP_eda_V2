@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKCNPINHEADER254PINHEADER2X6P254H > Connector_PinHeader_2.54mm : PinHeader_2x06_P2.54mm_Horizontal](#fzkcnpinheader254pinheader2x6p254h--connector_pinheader_254mm--pinheader_2x06_p254mm_horizontal)
+* [FZKCNPH254PH2X6P254H > Connector_PinHeader_2.54mm : PinHeader_2x06_P2.54mm_Horizontal](#fzkcnph254ph2x6p254h--connector_pinheader_254mm--pinheader_2x06_p254mm_horizontal)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKCNPINHEADER254PINHEADER2X6P254H > Connector_PinHeader_2.54mm : PinHeader_2x06_P2.54mm_Horizontal
+# FZKCNPH254PH2X6P254H > Connector_PinHeader_2.54mm : PinHeader_2x06_P2.54mm_Horizontal
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_PinHeader_2.54mm-PinHeader_2x06_P2.54mm_Horizontal
-- Hex ID: FZKCNPINHEADER254PINHEADER2X6P254H
+- Hex ID: FZKCNPH254PH2X6P254H
 - Name: Connector_PinHeader_2.54mm : PinHeader_2x06_P2.54mm_Horizontal
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_PinHeader_2.54mm/PinHeader_2x06_P2.54mm_Horizontal/
 - Description: Connector_PinHeader_2.54mm : PinHeader_2x06_P2.54mm_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_PinHeader_2.54mm-PinHeader_2x06_P2.54mm_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_PinHeader_2.54mm-PinHeader_2x06_P2.54mm_Horizontal)
-- Short Link: [http://oom.lt/FZKCNPINHEADER254PINHEADER2X6P254H](http://oom.lt/FZKCNPINHEADER254PINHEADER2X6P254H)
+- Short Link: [http://oom.lt/FZKCNPH254PH2X6P254H](http://oom.lt/FZKCNPH254PH2X6P254H)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Connector_PinHeader_2.54mm|
 |OOMP Index|oompIndex|PinHeader_2x06_P2.54mm_Horizontal|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_PinHeader_2.54mm-PinHeader_2x06_P2.54mm_Horizontal|
-|Hex ID (short code)|hexID|FZKCNPINHEADER254PINHEADER2X6P254H|
+|Hex ID (short code)|hexID|FZKCNPH254PH2X6P254H|
 |name|name|Connector_PinHeader_2.54mm : PinHeader_2x06_P2.54mm_Horizontal|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'PinHeader_2x06_P2.54mm_Horizontal'</td><td> 'description'</td></tr><tr><td> 'Through hole angled pin header</td><td> 2x06</td><td> 2.54mm pitch</td><td> 6mm pin length</td><td> double rows'</td><td> 'tags'</td></tr><tr><td> 'Through hole angled pin header THT 2x06 2.54mm double row'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_PinHeader_2.54mm.3dshapes/PinHeader_2x06_P2.54mm_Horizontal.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

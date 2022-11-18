@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-SMF22A
 - Hex ID: SZKDIODESMF22A
 - Name: Diode : SMF22A
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/SMF22A/
 - Description: Diode : SMF22A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-SMF22A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-SMF22A)
 - Short Link: [http://oom.lt/SZKDIODESMF22A](http://oom.lt/SZKDIODESMF22A)

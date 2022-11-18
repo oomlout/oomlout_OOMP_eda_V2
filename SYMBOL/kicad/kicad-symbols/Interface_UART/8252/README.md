@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_UART-8252
 - Hex ID: SZKINTERFACEUART8252
 - Name: Interface_UART : 8252
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_UART/8252/
 - Description: Interface_UART : 8252
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_UART-8252](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_UART-8252)
 - Short Link: [http://oom.lt/SZKINTERFACEUART8252](http://oom.lt/SZKINTERFACEUART8252)

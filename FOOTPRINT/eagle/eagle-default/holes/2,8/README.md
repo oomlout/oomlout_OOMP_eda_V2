@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-holes-2,8
 - Hex ID: FZEH28
 - Name: holes : 2,8
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/holes/2,8/
 - Description: holes : 2,8
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-holes-2,8](http://oom.lt/FOOTPRINT-eagle-eagle-default-holes-2,8)
 - Short Link: [http://oom.lt/FZEH28](http://oom.lt/FZEH28)

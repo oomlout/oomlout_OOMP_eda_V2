@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-rcl-PANASONIC_A
 - Hex ID: FZERCLPA
 - Name: rcl : PANASONIC_A
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/rcl/PANASONIC_A/
 - Description: rcl : PANASONIC_A
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-PANASONIC_A](http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-PANASONIC_A)
 - Short Link: [http://oom.lt/FZERCLPA](http://oom.lt/FZERCLPA)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-coax-ST-SMB-V
 - Hex ID: FZECONCOAXSTSMBV
 - Name: con-coax : ST-SMB-V
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-coax/ST-SMB-V/
 - Description: con-coax : ST-SMB-V
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-coax-ST-SMB-V](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-coax-ST-SMB-V)
 - Short Link: [http://oom.lt/FZECONCOAXSTSMBV](http://oom.lt/FZECONCOAXSTSMBV)

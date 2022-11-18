@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Transformer_SMD-Transformer_NF_ETAL_P3188
 - Hex ID: FZKTRTRNFETALP3188
 - Name: Transformer_SMD : Transformer_NF_ETAL_P3188
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Transformer_SMD/Transformer_NF_ETAL_P3188/
 - Description: Transformer_SMD : Transformer_NF_ETAL_P3188
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Transformer_SMD-Transformer_NF_ETAL_P3188](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Transformer_SMD-Transformer_NF_ETAL_P3188)
 - Short Link: [http://oom.lt/FZKTRTRNFETALP3188](http://oom.lt/FZKTRTRNFETALP3188)

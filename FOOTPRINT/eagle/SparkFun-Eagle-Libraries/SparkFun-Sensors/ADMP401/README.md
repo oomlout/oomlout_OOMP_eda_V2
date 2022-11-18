@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-ADMP401
 - Hex ID: FZSSPARKFUNSENSADMP41
 - Name: SparkFun-Sensors : ADMP401
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Sensors/ADMP401/
 - Description: SparkFun-Sensors : ADMP401
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-ADMP401](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-ADMP401)
 - Short Link: [http://oom.lt/FZSSPARKFUNSENSADMP41](http://oom.lt/FZSSPARKFUNSENSADMP41)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-3m-240-3639-00-0602J
 - Hex ID: FZECON3M24363962J
 - Name: con-3m : 240-3639-00-0602J
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-3m/240-3639-00-0602J/
 - Description: con-3m : 240-3639-00-0602J
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-3m-240-3639-00-0602J](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-3m-240-3639-00-0602J)
 - Short Link: [http://oom.lt/FZECON3M24363962J](http://oom.lt/FZECON3M24363962J)

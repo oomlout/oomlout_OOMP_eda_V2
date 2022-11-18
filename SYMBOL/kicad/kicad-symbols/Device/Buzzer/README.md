@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Device-Buzzer
 - Hex ID: SZKDEVICEBUZZER
 - Name: Device : Buzzer
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/Buzzer/
 - Description: Device : Buzzer
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Buzzer](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Buzzer)
 - Short Link: [http://oom.lt/SZKDEVICEBUZZER](http://oom.lt/SZKDEVICEBUZZER)

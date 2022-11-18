@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Bourns_SRN8040TA
 - Hex ID: FZKINLBOURNSSRN84TA
 - Name: Inductor_SMD : L_Bourns_SRN8040TA
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Bourns_SRN8040TA/
 - Description: Inductor_SMD : L_Bourns_SRN8040TA
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Bourns_SRN8040TA](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Bourns_SRN8040TA)
 - Short Link: [http://oom.lt/FZKINLBOURNSSRN84TA](http://oom.lt/FZKINLBOURNSSRN84TA)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-OptoDevice-Everlight_ITR8307_Reverse
 - Hex ID: FZKOPEVERLIGHTITR837R
 - Name: OptoDevice : Everlight_ITR8307_Reverse
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/OptoDevice/Everlight_ITR8307_Reverse/
 - Description: OptoDevice : Everlight_ITR8307_Reverse
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-OptoDevice-Everlight_ITR8307_Reverse](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-OptoDevice-Everlight_ITR8307_Reverse)
 - Short Link: [http://oom.lt/FZKOPEVERLIGHTITR837R](http://oom.lt/FZKOPEVERLIGHTITR837R)

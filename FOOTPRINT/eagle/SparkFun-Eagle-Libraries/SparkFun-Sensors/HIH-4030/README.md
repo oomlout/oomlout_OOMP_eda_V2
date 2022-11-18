@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-HIH-4030
 - Hex ID: FZSSPARKFUNSENSHIH43
 - Name: SparkFun-Sensors : HIH-4030
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Sensors/HIH-4030/
 - Description: SparkFun-Sensors : HIH-4030
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-HIH-4030](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-HIH-4030)
 - Short Link: [http://oom.lt/FZSSPARKFUNSENSHIH43](http://oom.lt/FZSSPARKFUNSENSHIH43)

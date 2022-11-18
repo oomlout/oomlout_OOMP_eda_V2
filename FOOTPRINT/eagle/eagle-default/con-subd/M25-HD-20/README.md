@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-subd-M25-HD-20
 - Hex ID: FZECONSUBDM25HD2
 - Name: con-subd : M25-HD-20
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-subd/M25-HD-20/
 - Description: con-subd : M25-HD-20
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-subd-M25-HD-20](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-subd-M25-HD-20)
 - Short Link: [http://oom.lt/FZECONSUBDM25HD2](http://oom.lt/FZECONSUBDM25HD2)

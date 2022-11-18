@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Comparator-ADCMP356
 - Hex ID: SZKCOMPARATORADCMP356
 - Name: Comparator : ADCMP356
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Comparator/ADCMP356/
 - Description: Comparator : ADCMP356
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Comparator-ADCMP356](http://oom.lt/SYMBOL-kicad-kicad-symbols-Comparator-ADCMP356)
 - Short Link: [http://oom.lt/SZKCOMPARATORADCMP356](http://oom.lt/SZKCOMPARATORADCMP356)

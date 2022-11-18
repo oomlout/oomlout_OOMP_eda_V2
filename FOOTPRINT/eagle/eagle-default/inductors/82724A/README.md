@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEINDUCTORS82724A > inductors : 82724A](#fzeinductors82724a--inductors--82724a)
+* [FZEINS82724A > inductors : 82724A](#fzeins82724a--inductors--82724a)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEINDUCTORS82724A > inductors : 82724A
+# FZEINS82724A > inductors : 82724A
 
 - ID: FOOTPRINT-eagle-eagle-default-inductors-82724A
-- Hex ID: FZEINDUCTORS82724A
+- Hex ID: FZEINS82724A
 - Name: inductors : 82724A
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/inductors/82724A/
 - Description: inductors : 82724A
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-inductors-82724A](http://oom.lt/FOOTPRINT-eagle-eagle-default-inductors-82724A)
-- Short Link: [http://oom.lt/FZEINDUCTORS82724A](http://oom.lt/FZEINDUCTORS82724A)
+- Short Link: [http://oom.lt/FZEINS82724A](http://oom.lt/FZEINS82724A)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|inductors|
 |OOMP Index|oompIndex|82724A|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-inductors-82724A|
-|Hex ID (short code)|hexID|FZEINDUCTORS82724A|
+|Hex ID (short code)|hexID|FZEINS82724A|
 |name|name|inductors : 82724A|
 ||||

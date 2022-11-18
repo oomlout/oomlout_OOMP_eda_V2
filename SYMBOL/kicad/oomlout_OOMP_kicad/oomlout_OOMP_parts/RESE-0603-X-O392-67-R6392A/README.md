@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O392-67-R6392A
 - Hex ID: SZOOMPKOOMPPRESE63XO39267R6392A
 - Name: oomlout_OOMP_parts : RESE-0603-X-O392-67-R6392A
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/RESE-0603-X-O392-67-R6392A/
 - Description: oomlout_OOMP_parts : RESE-0603-X-O392-67-R6392A
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O392-67-R6392A](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O392-67-R6392A)
 - Short Link: [http://oom.lt/SZOOMPKOOMPPRESE63XO39267R6392A](http://oom.lt/SZOOMPKOOMPPRESE63XO39267R6392A)

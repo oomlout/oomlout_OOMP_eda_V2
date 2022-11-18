@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-smd-ipc-SQFP-S-24X24-304
 - Hex ID: FZESMIPCSQFPS24X2434
 - Name: smd-ipc : SQFP-S-24X24-304
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/smd-ipc/SQFP-S-24X24-304/
 - Description: smd-ipc : SQFP-S-24X24-304
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-SQFP-S-24X24-304](http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-SQFP-S-24X24-304)
 - Short Link: [http://oom.lt/FZESMIPCSQFPS24X2434](http://oom.lt/FZESMIPCSQFPS24X2434)

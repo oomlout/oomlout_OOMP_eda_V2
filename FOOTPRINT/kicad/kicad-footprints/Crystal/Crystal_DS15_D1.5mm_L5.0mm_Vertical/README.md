@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_DS15_D1.5mm_L5.0mm_Vertical
 - Hex ID: FZKXXDS15D15L5F
 - Name: Crystal : Crystal_DS15_D1.5mm_L5.0mm_Vertical
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_DS15_D1.5mm_L5.0mm_Vertical/
 - Description: Crystal : Crystal_DS15_D1.5mm_L5.0mm_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_DS15_D1.5mm_L5.0mm_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_DS15_D1.5mm_L5.0mm_Vertical)
 - Short Link: [http://oom.lt/FZKXXDS15D15L5F](http://oom.lt/FZKXXDS15D15L5F)

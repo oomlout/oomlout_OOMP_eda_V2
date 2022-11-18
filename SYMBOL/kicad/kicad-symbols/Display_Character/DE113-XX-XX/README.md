@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Display_Character-DE113-XX-XX
 - Hex ID: SZKDICHARACTERDE113XXXX
 - Name: Display_Character : DE113-XX-XX
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Display_Character/DE113-XX-XX/
 - Description: Display_Character : DE113-XX-XX
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-DE113-XX-XX](http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-DE113-XX-XX)
 - Short Link: [http://oom.lt/SZKDICHARACTERDE113XXXX](http://oom.lt/SZKDICHARACTERDE113XXXX)

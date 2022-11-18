@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Button_Switch_Keyboard-SW_Cherry_MX_1.50u_Plate
 - Hex ID: FZKBSWCHERRYMX15UPLATE
 - Name: Button_Switch_Keyboard : SW_Cherry_MX_1.50u_Plate
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Button_Switch_Keyboard/SW_Cherry_MX_1.50u_Plate/
 - Description: Button_Switch_Keyboard : SW_Cherry_MX_1.50u_Plate
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Button_Switch_Keyboard-SW_Cherry_MX_1.50u_Plate](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Button_Switch_Keyboard-SW_Cherry_MX_1.50u_Plate)
 - Short Link: [http://oom.lt/FZKBSWCHERRYMX15UPLATE](http://oom.lt/FZKBSWCHERRYMX15UPLATE)

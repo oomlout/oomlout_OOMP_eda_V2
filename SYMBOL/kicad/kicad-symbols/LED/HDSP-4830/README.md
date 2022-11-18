@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-LED-HDSP-4830
 - Hex ID: SZKLHDSP483
 - Name: LED : HDSP-4830
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/LED/HDSP-4830/
 - Description: LED : HDSP-4830
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-LED-HDSP-4830](http://oom.lt/SYMBOL-kicad-kicad-symbols-LED-HDSP-4830)
 - Short Link: [http://oom.lt/SZKLHDSP483](http://oom.lt/SZKLHDSP483)

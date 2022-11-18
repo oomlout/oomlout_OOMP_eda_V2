@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-transistor-neu-to92-SOT89-BCE
 - Hex ID: FZETRANSISTORNEUTO92SOT89BCE
 - Name: transistor-neu-to92 : SOT89-BCE
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/transistor-neu-to92/SOT89-BCE/
 - Description: transistor-neu-to92 : SOT89-BCE
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-neu-to92-SOT89-BCE](http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-neu-to92-SOT89-BCE)
 - Short Link: [http://oom.lt/FZETRANSISTORNEUTO92SOT89BCE](http://oom.lt/FZETRANSISTORNEUTO92SOT89BCE)

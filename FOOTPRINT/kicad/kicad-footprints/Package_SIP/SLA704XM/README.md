@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_SIP-SLA704XM
 - Hex ID: FZKSIPSLA74XM
 - Name: Package_SIP : SLA704XM
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SIP/SLA704XM/
 - Description: Package_SIP : SLA704XM
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SIP-SLA704XM](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SIP-SLA704XM)
 - Short Link: [http://oom.lt/FZKSIPSLA74XM](http://oom.lt/FZKSIPSLA74XM)

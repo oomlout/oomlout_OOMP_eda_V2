@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Device-LED_Series
 - Hex ID: SZKDEVICELSERIES
 - Name: Device : LED_Series
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/LED_Series/
 - Description: Device : LED_Series
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-LED_Series](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-LED_Series)
 - Short Link: [http://oom.lt/SZKDEVICELSERIES](http://oom.lt/SZKDEVICELSERIES)

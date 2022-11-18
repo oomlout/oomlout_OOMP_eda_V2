@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Connector-JK00177
 - Hex ID: SZKCNJK177
 - Name: Connector : JK00177
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector/JK00177/
 - Description: Connector : JK00177
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-JK00177](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-JK00177)
 - Short Link: [http://oom.lt/SZKCNJK177](http://oom.lt/SZKCNJK177)

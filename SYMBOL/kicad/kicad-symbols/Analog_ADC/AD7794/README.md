@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Analog_ADC-AD7794
 - Hex ID: SZKANALOGADCAD7794
 - Name: Analog_ADC : AD7794
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog_ADC/AD7794/
 - Description: Analog_ADC : AD7794
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-AD7794](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-AD7794)
 - Short Link: [http://oom.lt/SZKANALOGADCAD7794](http://oom.lt/SZKANALOGADCAD7794)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Driver_FET-PE29102
 - Hex ID: SZKDRIVERFETPE2912
 - Name: Driver_FET : PE29102
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Driver_FET/PE29102/
 - Description: Driver_FET : PE29102
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-PE29102](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-PE29102)
 - Short Link: [http://oom.lt/SZKDRIVERFETPE2912](http://oom.lt/SZKDRIVERFETPE2912)

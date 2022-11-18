@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-altera-cyclone-II-FBGA484
 - Hex ID: FZEALTERACYCLONEIIFBGA484
 - Name: altera-cyclone-II : FBGA484
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/altera-cyclone-II/FBGA484/
 - Description: altera-cyclone-II : FBGA484
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-altera-cyclone-II-FBGA484](http://oom.lt/FOOTPRINT-eagle-eagle-default-altera-cyclone-II-FBGA484)
 - Short Link: [http://oom.lt/FZEALTERACYCLONEIIFBGA484](http://oom.lt/FZEALTERACYCLONEIIFBGA484)

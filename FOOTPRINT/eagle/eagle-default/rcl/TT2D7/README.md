@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-rcl-TT2D7
 - Hex ID: FZERCLTT2D7
 - Name: rcl : TT2D7
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/rcl/TT2D7/
 - Description: rcl : TT2D7
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-TT2D7](http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-TT2D7)
 - Short Link: [http://oom.lt/FZERCLTT2D7](http://oom.lt/FZERCLTT2D7)

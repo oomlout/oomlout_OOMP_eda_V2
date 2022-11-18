@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-OptoDevice-Toshiba_TOTX170_TOTX173_TOTX193_TOTX194
 - Hex ID: FZKOPTOSHIBATOTX17TOTX173TOTX193TOTX194
 - Name: OptoDevice : Toshiba_TOTX170_TOTX173_TOTX193_TOTX194
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/OptoDevice/Toshiba_TOTX170_TOTX173_TOTX193_TOTX194/
 - Description: OptoDevice : Toshiba_TOTX170_TOTX173_TOTX193_TOTX194
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-OptoDevice-Toshiba_TOTX170_TOTX173_TOTX193_TOTX194](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-OptoDevice-Toshiba_TOTX170_TOTX173_TOTX193_TOTX194)
 - Short Link: [http://oom.lt/FZKOPTOSHIBATOTX17TOTX173TOTX193TOTX194](http://oom.lt/FZKOPTOSHIBATOTX17TOTX173TOTX193TOTX194)

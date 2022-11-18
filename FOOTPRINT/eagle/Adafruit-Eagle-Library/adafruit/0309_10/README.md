@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-0309_10
 - Hex ID: FZA391
 - Name: adafruit : 0309_10
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/0309_10/
 - Description: adafruit : 0309_10
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-0309_10](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-0309_10)
 - Short Link: [http://oom.lt/FZA391](http://oom.lt/FZA391)

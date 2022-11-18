@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Power_Management-AUIPS1042G
 - Hex ID: SZKPOWERMANAGEMENTAUIPS142G
 - Name: Power_Management : AUIPS1042G
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Power_Management/AUIPS1042G/
 - Description: Power_Management : AUIPS1042G
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-AUIPS1042G](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-AUIPS1042G)
 - Short Link: [http://oom.lt/SZKPOWERMANAGEMENTAUIPS142G](http://oom.lt/SZKPOWERMANAGEMENTAUIPS142G)

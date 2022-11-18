@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-NCP115AMX250TCG
 - Hex ID: SZKREGULATORLINEARNCP115AMX25TCG
 - Name: Regulator_Linear : NCP115AMX250TCG
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/NCP115AMX250TCG/
 - Description: Regulator_Linear : NCP115AMX250TCG
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-NCP115AMX250TCG](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-NCP115AMX250TCG)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARNCP115AMX25TCG](http://oom.lt/SZKREGULATORLINEARNCP115AMX25TCG)

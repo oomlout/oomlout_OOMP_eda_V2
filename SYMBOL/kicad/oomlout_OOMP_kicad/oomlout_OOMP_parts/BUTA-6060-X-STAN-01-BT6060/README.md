@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-BUTA-6060-X-STAN-01-BT6060
 - Hex ID: SZOOMPKOOMPPBUTA66XSTAN1BT66
 - Name: oomlout_OOMP_parts : BUTA-6060-X-STAN-01-BT6060
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/BUTA-6060-X-STAN-01-BT6060/
 - Description: oomlout_OOMP_parts : BUTA-6060-X-STAN-01-BT6060
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-BUTA-6060-X-STAN-01-BT6060](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-BUTA-6060-X-STAN-01-BT6060)
 - Short Link: [http://oom.lt/SZOOMPKOOMPPBUTA66XSTAN1BT66](http://oom.lt/SZOOMPKOOMPPBUTA66XSTAN1BT66)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Bluetooth_Module_CYBLE-022001-00
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSBLUETOOTHMOCYBLE221
 - Name: digikey-footprints : Bluetooth_Module_CYBLE-022001-00
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Bluetooth_Module_CYBLE-022001-00/
 - Description: digikey-footprints : Bluetooth_Module_CYBLE-022001-00
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Bluetooth_Module_CYBLE-022001-00](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Bluetooth_Module_CYBLE-022001-00)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSBLUETOOTHMOCYBLE221](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSBLUETOOTHMOCYBLE221)

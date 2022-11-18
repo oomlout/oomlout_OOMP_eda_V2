@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Device-R_Potentiometer_Small
 - Hex ID: SZKDEVICERPOTSLL
 - Name: Device : R_Potentiometer_Small
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/R_Potentiometer_Small/
 - Description: Device : R_Potentiometer_Small
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-R_Potentiometer_Small](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-R_Potentiometer_Small)
 - Short Link: [http://oom.lt/SZKDEVICERPOTSLL](http://oom.lt/SZKDEVICERPOTSLL)

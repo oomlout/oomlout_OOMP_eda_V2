@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-1X08_SMT
 - Hex ID: FZA1X8S
 - Name: adafruit : 1X08_SMT
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/1X08_SMT/
 - Description: adafruit : 1X08_SMT
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-1X08_SMT](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-1X08_SMT)
 - Short Link: [http://oom.lt/FZA1X8S](http://oom.lt/FZA1X8S)

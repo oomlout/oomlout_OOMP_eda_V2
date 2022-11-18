@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-DIO6970
 - Hex ID: SZKREGULATORSWINGDIO697
 - Name: Regulator_Switching : DIO6970
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/DIO6970/
 - Description: Regulator_Switching : DIO6970
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-DIO6970](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-DIO6970)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGDIO697](http://oom.lt/SZKREGULATORSWINGDIO697)

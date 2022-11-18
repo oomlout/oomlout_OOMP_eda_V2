@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-LNK3204D
 - Hex ID: SZKREGULATORSWINGLNK324D
 - Name: Regulator_Switching : LNK3204D
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/LNK3204D/
 - Description: Regulator_Switching : LNK3204D
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LNK3204D](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LNK3204D)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGLNK324D](http://oom.lt/SZKREGULATORSWINGLNK324D)

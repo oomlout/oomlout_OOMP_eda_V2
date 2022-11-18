@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-smd-special-SMS-010
 - Hex ID: FZESMSPECIALSMS1
 - Name: smd-special : SMS-010
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/smd-special/SMS-010/
 - Description: smd-special : SMS-010
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-special-SMS-010](http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-special-SMS-010)
 - Short Link: [http://oom.lt/FZESMSPECIALSMS1](http://oom.lt/FZESMSPECIALSMS1)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-power-+3.3VP
 - Hex ID: SZKPOWER+33VP
 - Name: power : +3.3VP
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/power/+3.3VP/
 - Description: power : +3.3VP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-power-+3.3VP](http://oom.lt/SYMBOL-kicad-kicad-symbols-power-+3.3VP)
 - Short Link: [http://oom.lt/SZKPOWER+33VP](http://oom.lt/SZKPOWER+33VP)

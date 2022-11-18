@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKSZPOLARITYCENTERNEGATIVE3SILKSCREEN > Symbol : Polarity_Center_Negative_30mm_SilkScreen](#fzkszpolaritycenternegative3silkscreen--symbol--polarity_center_negative_30mm_silkscreen)
+* [FZKSZPOLARITYCENTERN3SILKSCREEN > Symbol : Polarity_Center_Negative_30mm_SilkScreen](#fzkszpolaritycentern3silkscreen--symbol--polarity_center_negative_30mm_silkscreen)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKSZPOLARITYCENTERNEGATIVE3SILKSCREEN > Symbol : Polarity_Center_Negative_30mm_SilkScreen
+# FZKSZPOLARITYCENTERN3SILKSCREEN > Symbol : Polarity_Center_Negative_30mm_SilkScreen
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Symbol-Polarity_Center_Negative_30mm_SilkScreen
-- Hex ID: FZKSZPOLARITYCENTERNEGATIVE3SILKSCREEN
+- Hex ID: FZKSZPOLARITYCENTERN3SILKSCREEN
 - Name: Symbol : Polarity_Center_Negative_30mm_SilkScreen
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Symbol/Polarity_Center_Negative_30mm_SilkScreen/
 - Description: Symbol : Polarity_Center_Negative_30mm_SilkScreen
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Symbol-Polarity_Center_Negative_30mm_SilkScreen](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Symbol-Polarity_Center_Negative_30mm_SilkScreen)
-- Short Link: [http://oom.lt/FZKSZPOLARITYCENTERNEGATIVE3SILKSCREEN](http://oom.lt/FZKSZPOLARITYCENTERNEGATIVE3SILKSCREEN)
+- Short Link: [http://oom.lt/FZKSZPOLARITYCENTERN3SILKSCREEN](http://oom.lt/FZKSZPOLARITYCENTERN3SILKSCREEN)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Symbol|
 |OOMP Index|oompIndex|Polarity_Center_Negative_30mm_SilkScreen|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Symbol-Polarity_Center_Negative_30mm_SilkScreen|
-|Hex ID (short code)|hexID|FZKSZPOLARITYCENTERNEGATIVE3SILKSCREEN|
+|Hex ID (short code)|hexID|FZKSZPOLARITYCENTERN3SILKSCREEN|
 |name|name|Symbol : Polarity_Center_Negative_30mm_SilkScreen|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Polarity_Center_Negative_30mm_SilkScreen'</td><td> 'description'</td></tr><tr><td> 'Polarity Logo</td><td> Center Negative'</td><td> 'tags'</td></tr><tr><td> 'Logo Polarity Center Negative'</td><td> 'attributeType'</td></tr><tr><td> None</td><td> 'pins'</td></tr><tr><td> <table><tr><td></td></tr></table></td></tr></table>|
 ||||

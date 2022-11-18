@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Driver_Haptic-DRV2605LDGS
 - Hex ID: SZKDRIVERHAPTICDRV265LDGS
 - Name: Driver_Haptic : DRV2605LDGS
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Driver_Haptic/DRV2605LDGS/
 - Description: Driver_Haptic : DRV2605LDGS
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_Haptic-DRV2605LDGS](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_Haptic-DRV2605LDGS)
 - Short Link: [http://oom.lt/SZKDRIVERHAPTICDRV265LDGS](http://oom.lt/SZKDRIVERHAPTICDRV265LDGS)

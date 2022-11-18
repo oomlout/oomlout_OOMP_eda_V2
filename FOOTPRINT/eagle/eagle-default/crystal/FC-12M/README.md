@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-crystal-FC-12M
 - Hex ID: FZEXFC12M
 - Name: crystal : FC-12M
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/crystal/FC-12M/
 - Description: crystal : FC-12M
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-crystal-FC-12M](http://oom.lt/FOOTPRINT-eagle-eagle-default-crystal-FC-12M)
 - Short Link: [http://oom.lt/FZEXFC12M](http://oom.lt/FZEXFC12M)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-crystal-DIL14S
 - Hex ID: FZEXDIL14S
 - Name: crystal : DIL14S
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/crystal/DIL14S/
 - Description: crystal : DIL14S
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-crystal-DIL14S](http://oom.lt/FOOTPRINT-eagle-eagle-default-crystal-DIL14S)
 - Short Link: [http://oom.lt/FZEXDIL14S](http://oom.lt/FZEXDIL14S)

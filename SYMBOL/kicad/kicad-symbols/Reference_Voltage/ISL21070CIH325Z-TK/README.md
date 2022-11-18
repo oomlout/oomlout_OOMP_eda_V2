@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Reference_Voltage-ISL21070CIH325Z-TK
 - Hex ID: SZKREFERENCEVOLTAGEISL217CIH325ZTK
 - Name: Reference_Voltage : ISL21070CIH325Z-TK
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Reference_Voltage/ISL21070CIH325Z-TK/
 - Description: Reference_Voltage : ISL21070CIH325Z-TK
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Voltage-ISL21070CIH325Z-TK](http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Voltage-ISL21070CIH325Z-TK)
 - Short Link: [http://oom.lt/SZKREFERENCEVOLTAGEISL217CIH325ZTK](http://oom.lt/SZKREFERENCEVOLTAGEISL217CIH325ZTK)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-VEML6075_A3OP
 - Hex ID: FZSSPARKFUNSENSVEML675A3OP
 - Name: SparkFun-Sensors : VEML6075_A3OP
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Sensors/VEML6075_A3OP/
 - Description: SparkFun-Sensors : VEML6075_A3OP
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-VEML6075_A3OP](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-VEML6075_A3OP)
 - Short Link: [http://oom.lt/FZSSPARKFUNSENSVEML675A3OP](http://oom.lt/FZSSPARKFUNSENSVEML675A3OP)

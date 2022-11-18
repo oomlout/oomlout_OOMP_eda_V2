@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-MCP6L01x-xLT
 - Hex ID: SZKAMPLIFIEROPERATIONALMCP6L1XXLT
 - Name: Amplifier_Operational : MCP6L01x-xLT
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/MCP6L01x-xLT/
 - Description: Amplifier_Operational : MCP6L01x-xLT
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-MCP6L01x-xLT](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-MCP6L01x-xLT)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALMCP6L1XXLT](http://oom.lt/SZKAMPLIFIEROPERATIONALMCP6L1XXLT)

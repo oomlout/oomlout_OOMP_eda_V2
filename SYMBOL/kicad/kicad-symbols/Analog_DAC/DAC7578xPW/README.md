@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Analog_DAC-DAC7578xPW
 - Hex ID: SZKANALOGDACDAC7578XPW
 - Name: Analog_DAC : DAC7578xPW
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog_DAC/DAC7578xPW/
 - Description: Analog_DAC : DAC7578xPW
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_DAC-DAC7578xPW](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_DAC-DAC7578xPW)
 - Short Link: [http://oom.lt/SZKANALOGDACDAC7578XPW](http://oom.lt/SZKANALOGDACDAC7578XPW)

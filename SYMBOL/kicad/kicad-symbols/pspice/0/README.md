@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-pspice-0
 - Hex ID: SZKPSPICE
 - Name: pspice : 0
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/pspice/0/
 - Description: pspice : 0
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-pspice-0](http://oom.lt/SYMBOL-kicad-kicad-symbols-pspice-0)
 - Short Link: [http://oom.lt/SZKPSPICE](http://oom.lt/SZKPSPICE)

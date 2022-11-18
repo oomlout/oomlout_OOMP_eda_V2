@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-LM2990SX-15
 - Hex ID: SZKREGULATORLINEARLM299SX15
 - Name: Regulator_Linear : LM2990SX-15
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LM2990SX-15/
 - Description: Regulator_Linear : LM2990SX-15
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LM2990SX-15](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LM2990SX-15)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARLM299SX15](http://oom.lt/SZKREGULATORLINEARLM299SX15)

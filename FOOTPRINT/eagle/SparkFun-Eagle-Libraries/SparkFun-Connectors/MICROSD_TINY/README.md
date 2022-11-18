@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-MICROSD_TINY
 - Hex ID: FZSSPARKFUNCNSMSDTINY
 - Name: SparkFun-Connectors : MICROSD_TINY
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Connectors/MICROSD_TINY/
 - Description: SparkFun-Connectors : MICROSD_TINY
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-MICROSD_TINY](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-MICROSD_TINY)
 - Short Link: [http://oom.lt/FZSSPARKFUNCNSMSDTINY](http://oom.lt/FZSSPARKFUNCNSMSDTINY)

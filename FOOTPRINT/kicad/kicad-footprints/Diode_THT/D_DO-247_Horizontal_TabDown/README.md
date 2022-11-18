@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Diode_THT-D_DO-247_Horizontal_TabDown
 - Hex ID: FZKDDDO247HTABDOWN
 - Name: Diode_THT : D_DO-247_Horizontal_TabDown
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Diode_THT/D_DO-247_Horizontal_TabDown/
 - Description: Diode_THT : D_DO-247_Horizontal_TabDown
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Diode_THT-D_DO-247_Horizontal_TabDown](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Diode_THT-D_DO-247_Horizontal_TabDown)
 - Short Link: [http://oom.lt/FZKDDDO247HTABDOWN](http://oom.lt/FZKDDDO247HTABDOWN)

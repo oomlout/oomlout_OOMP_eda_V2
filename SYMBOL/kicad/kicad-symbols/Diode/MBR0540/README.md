@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-MBR0540
 - Hex ID: SZKDIODEMBR54
 - Name: Diode : MBR0540
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/MBR0540/
 - Description: Diode : MBR0540
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-MBR0540](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-MBR0540)
 - Short Link: [http://oom.lt/SZKDIODEMBR54](http://oom.lt/SZKDIODEMBR54)

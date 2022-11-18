@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_SO-Zetex_SM8
 - Hex ID: FZKSOZETEXSM8
 - Name: Package_SO : Zetex_SM8
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SO/Zetex_SM8/
 - Description: Package_SO : Zetex_SM8
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SO-Zetex_SM8](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SO-Zetex_SM8)
 - Short Link: [http://oom.lt/FZKSOZETEXSM8](http://oom.lt/FZKSOZETEXSM8)

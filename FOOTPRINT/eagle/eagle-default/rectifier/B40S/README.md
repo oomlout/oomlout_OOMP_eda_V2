@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-rectifier-B40S
 - Hex ID: FZERECTIFIERB4S
 - Name: rectifier : B40S
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/rectifier/B40S/
 - Description: rectifier : B40S
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-rectifier-B40S](http://oom.lt/FOOTPRINT-eagle-eagle-default-rectifier-B40S)
 - Short Link: [http://oom.lt/FZERECTIFIERB4S](http://oom.lt/FZERECTIFIERB4S)

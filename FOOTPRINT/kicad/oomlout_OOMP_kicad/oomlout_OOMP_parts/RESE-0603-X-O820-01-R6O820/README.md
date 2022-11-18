@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O820-01-R6O820
 - Hex ID: FZOOMPKOOMPPRESE63XO821R6O82
 - Name: oomlout_OOMP_parts : RESE-0603-X-O820-01-R6O820
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/RESE-0603-X-O820-01-R6O820/
 - Description: oomlout_OOMP_parts : RESE-0603-X-O820-01-R6O820
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O820-01-R6O820](http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O820-01-R6O820)
 - Short Link: [http://oom.lt/FZOOMPKOOMPPRESE63XO821R6O82](http://oom.lt/FZOOMPKOOMPPRESE63XO821R6O82)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-special-SK-13
 - Hex ID: FZESPECIALSK13
 - Name: special : SK-13
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/special/SK-13/
 - Description: special : SK-13
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-special-SK-13](http://oom.lt/FOOTPRINT-eagle-eagle-default-special-SK-13)
 - Short Link: [http://oom.lt/FZESPECIALSK13](http://oom.lt/FZESPECIALSK13)

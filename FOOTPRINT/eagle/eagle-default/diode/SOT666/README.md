@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-diode-SOT666
 - Hex ID: FZEDIODESOT666
 - Name: diode : SOT666
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/diode/SOT666/
 - Description: diode : SOT666
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-diode-SOT666](http://oom.lt/FOOTPRINT-eagle-eagle-default-diode-SOT666)
 - Short Link: [http://oom.lt/FZEDIODESOT666](http://oom.lt/FZEDIODESOT666)

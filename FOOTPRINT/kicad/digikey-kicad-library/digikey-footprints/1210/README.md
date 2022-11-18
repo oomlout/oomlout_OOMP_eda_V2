@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-1210
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTS121
 - Name: digikey-footprints : 1210
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/1210/
 - Description: digikey-footprints : 1210
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-1210](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-1210)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTS121](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTS121)

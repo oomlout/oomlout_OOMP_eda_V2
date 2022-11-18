@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Special-Function-DUAL_UDFN_2X3MM_SOIC-8
 - Hex ID: FZSISDUALUDFN2X3SOIC8
 - Name: SparkFun-IC-Special-Function : DUAL_UDFN_2X3MM_SOIC-8
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-IC-Special-Function/DUAL_UDFN_2X3MM_SOIC-8/
 - Description: SparkFun-IC-Special-Function : DUAL_UDFN_2X3MM_SOIC-8
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Special-Function-DUAL_UDFN_2X3MM_SOIC-8](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Special-Function-DUAL_UDFN_2X3MM_SOIC-8)
 - Short Link: [http://oom.lt/FZSISDUALUDFN2X3SOIC8](http://oom.lt/FZSISDUALUDFN2X3SOIC8)

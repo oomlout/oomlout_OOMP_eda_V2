@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-TRACE_ANTENNA_2.4GHZ_25.7MM
 - Hex ID: FZSRFTRACEANTENNA24GHZ257
 - Name: SparkFun-RF : TRACE_ANTENNA_2.4GHZ_25.7MM
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-RF/TRACE_ANTENNA_2.4GHZ_25.7MM/
 - Description: SparkFun-RF : TRACE_ANTENNA_2.4GHZ_25.7MM
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-TRACE_ANTENNA_2.4GHZ_25.7MM](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-TRACE_ANTENNA_2.4GHZ_25.7MM)
 - Short Link: [http://oom.lt/FZSRFTRACEANTENNA24GHZ257](http://oom.lt/FZSRFTRACEANTENNA24GHZ257)

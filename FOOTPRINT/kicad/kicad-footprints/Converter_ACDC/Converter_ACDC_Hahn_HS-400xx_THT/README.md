@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Converter_ACDC-Converter_ACDC_Hahn_HS-400xx_THT
 - Hex ID: FZKCONCONHAHNHS4XXTHT
 - Name: Converter_ACDC : Converter_ACDC_Hahn_HS-400xx_THT
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Converter_ACDC/Converter_ACDC_Hahn_HS-400xx_THT/
 - Description: Converter_ACDC : Converter_ACDC_Hahn_HS-400xx_THT
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Converter_ACDC-Converter_ACDC_Hahn_HS-400xx_THT](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Converter_ACDC-Converter_ACDC_Hahn_HS-400xx_THT)
 - Short Link: [http://oom.lt/FZKCONCONHAHNHS4XXTHT](http://oom.lt/FZKCONCONHAHNHS4XXTHT)

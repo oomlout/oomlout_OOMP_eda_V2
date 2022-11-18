@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_BGA-Xilinx_CSG324
 - Hex ID: FZKBGAXILINXCSG324
 - Name: Package_BGA : Xilinx_CSG324
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_BGA/Xilinx_CSG324/
 - Description: Package_BGA : Xilinx_CSG324
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_BGA-Xilinx_CSG324](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_BGA-Xilinx_CSG324)
 - Short Link: [http://oom.lt/FZKBGAXILINXCSG324](http://oom.lt/FZKBGAXILINXCSG324)

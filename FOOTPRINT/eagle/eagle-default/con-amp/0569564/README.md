@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-amp-0569564
 - Hex ID: FZECONAMP569564
 - Name: con-amp : 0569564
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-amp/0569564/
 - Description: con-amp : 0569564
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-amp-0569564](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-amp-0569564)
 - Short Link: [http://oom.lt/FZECONAMP569564](http://oom.lt/FZECONAMP569564)

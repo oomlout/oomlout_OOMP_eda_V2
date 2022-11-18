@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_FFC-FPC-Omron_XF2M-4015-1A_1x40-1MP_P0.5mm_Horizontal
 - Hex ID: FZKCNFFCFPCOMRONXF2M4151A1X41MPP5H
 - Name: Connector_FFC-FPC : Omron_XF2M-4015-1A_1x40-1MP_P0.5mm_Horizontal
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_FFC-FPC/Omron_XF2M-4015-1A_1x40-1MP_P0.5mm_Horizontal/
 - Description: Connector_FFC-FPC : Omron_XF2M-4015-1A_1x40-1MP_P0.5mm_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_FFC-FPC-Omron_XF2M-4015-1A_1x40-1MP_P0.5mm_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_FFC-FPC-Omron_XF2M-4015-1A_1x40-1MP_P0.5mm_Horizontal)
 - Short Link: [http://oom.lt/FZKCNFFCFPCOMRONXF2M4151A1X41MPP5H](http://oom.lt/FZKCNFFCFPCOMRONXF2M4151A1X41MPP5H)

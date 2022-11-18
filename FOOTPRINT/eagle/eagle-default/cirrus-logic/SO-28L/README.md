@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-cirrus-logic-SO-28L
 - Hex ID: FZECIRRUSLOGICSO28L
 - Name: cirrus-logic : SO-28L
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/cirrus-logic/SO-28L/
 - Description: cirrus-logic : SO-28L
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-cirrus-logic-SO-28L](http://oom.lt/FOOTPRINT-eagle-eagle-default-cirrus-logic-SO-28L)
 - Short Link: [http://oom.lt/FZECIRRUSLOGICSO28L](http://oom.lt/FZECIRRUSLOGICSO28L)

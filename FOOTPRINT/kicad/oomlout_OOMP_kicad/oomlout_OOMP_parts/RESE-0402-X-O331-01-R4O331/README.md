@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0402-X-O331-01-R4O331
 - Hex ID: FZOOMPKOOMPPRESE42XO3311R4O331
 - Name: oomlout_OOMP_parts : RESE-0402-X-O331-01-R4O331
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/RESE-0402-X-O331-01-R4O331/
 - Description: oomlout_OOMP_parts : RESE-0402-X-O331-01-R4O331
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0402-X-O331-01-R4O331](http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0402-X-O331-01-R4O331)
 - Short Link: [http://oom.lt/FZOOMPKOOMPPRESE42XO3311R4O331](http://oom.lt/FZOOMPKOOMPPRESE42XO3311R4O331)

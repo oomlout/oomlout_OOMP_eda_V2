@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-zetex-QSOP16
 - Hex ID: FZEZETEXQS16
 - Name: zetex : QSOP16
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/zetex/QSOP16/
 - Description: zetex : QSOP16
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-zetex-QSOP16](http://oom.lt/FOOTPRINT-eagle-eagle-default-zetex-QSOP16)
 - Short Link: [http://oom.lt/FZEZETEXQS16](http://oom.lt/FZEZETEXQS16)

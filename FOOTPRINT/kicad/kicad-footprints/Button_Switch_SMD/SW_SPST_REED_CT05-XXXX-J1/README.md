@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-SW_SPST_REED_CT05-XXXX-J1
 - Hex ID: FZKBSWSPSTREEDCT5XXXXJ1
 - Name: Button_Switch_SMD : SW_SPST_REED_CT05-XXXX-J1
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Button_Switch_SMD/SW_SPST_REED_CT05-XXXX-J1/
 - Description: Button_Switch_SMD : SW_SPST_REED_CT05-XXXX-J1
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-SW_SPST_REED_CT05-XXXX-J1](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-SW_SPST_REED_CT05-XXXX-J1)
 - Short Link: [http://oom.lt/FZKBSWSPSTREEDCT5XXXXJ1](http://oom.lt/FZKBSWSPSTREEDCT5XXXXJ1)

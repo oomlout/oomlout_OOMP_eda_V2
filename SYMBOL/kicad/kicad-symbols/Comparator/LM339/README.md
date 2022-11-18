@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Comparator-LM339
 - Hex ID: SZKCOMPARATORLM339
 - Name: Comparator : LM339
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Comparator/LM339/
 - Description: Comparator : LM339
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Comparator-LM339](http://oom.lt/SYMBOL-kicad-kicad-symbols-Comparator-LM339)
 - Short Link: [http://oom.lt/SZKCOMPARATORLM339](http://oom.lt/SZKCOMPARATORLM339)

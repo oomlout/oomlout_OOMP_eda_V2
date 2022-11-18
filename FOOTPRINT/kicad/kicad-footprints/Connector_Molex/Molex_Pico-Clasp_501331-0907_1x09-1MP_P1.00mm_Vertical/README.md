@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_Pico-Clasp_501331-0907_1x09-1MP_P1.00mm_Vertical
 - Hex ID: FZKCNMXMXPICOCLASP51331971X91MPP1F
 - Name: Connector_Molex : Molex_Pico-Clasp_501331-0907_1x09-1MP_P1.00mm_Vertical
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_Pico-Clasp_501331-0907_1x09-1MP_P1.00mm_Vertical/
 - Description: Connector_Molex : Molex_Pico-Clasp_501331-0907_1x09-1MP_P1.00mm_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_Pico-Clasp_501331-0907_1x09-1MP_P1.00mm_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_Pico-Clasp_501331-0907_1x09-1MP_P1.00mm_Vertical)
 - Short Link: [http://oom.lt/FZKCNMXMXPICOCLASP51331971X91MPP1F](http://oom.lt/FZKCNMXMXPICOCLASP51331971X91MPP1F)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Capacitor_THT-C_Axial_L22.0mm_D9.5mm_P27.50mm_Horizontal
 - Hex ID: FZKCCAXIALL22D95P275H
 - Name: Capacitor_THT : C_Axial_L22.0mm_D9.5mm_P27.50mm_Horizontal
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Capacitor_THT/C_Axial_L22.0mm_D9.5mm_P27.50mm_Horizontal/
 - Description: Capacitor_THT : C_Axial_L22.0mm_D9.5mm_P27.50mm_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_THT-C_Axial_L22.0mm_D9.5mm_P27.50mm_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_THT-C_Axial_L22.0mm_D9.5mm_P27.50mm_Horizontal)
 - Short Link: [http://oom.lt/FZKCCAXIALL22D95P275H](http://oom.lt/FZKCCAXIALL22D95P275H)

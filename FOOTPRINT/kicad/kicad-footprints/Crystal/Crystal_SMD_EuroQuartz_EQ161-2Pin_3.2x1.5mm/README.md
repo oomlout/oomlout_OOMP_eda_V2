@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKXXSMEUROQUARTZEQ1612PIN32X15 > Crystal : Crystal_SMD_EuroQuartz_EQ161-2Pin_3.2x1.5mm](#fzkxxsmeuroquartzeq1612pin32x15--crystal--crystal_smd_euroquartz_eq161-2pin_32x15mm)
+* [FZKXXSMEUROQUARTZEQ1612P32X15 > Crystal : Crystal_SMD_EuroQuartz_EQ161-2Pin_3.2x1.5mm](#fzkxxsmeuroquartzeq1612p32x15--crystal--crystal_smd_euroquartz_eq161-2pin_32x15mm)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKXXSMEUROQUARTZEQ1612PIN32X15 > Crystal : Crystal_SMD_EuroQuartz_EQ161-2Pin_3.2x1.5mm
+# FZKXXSMEUROQUARTZEQ1612P32X15 > Crystal : Crystal_SMD_EuroQuartz_EQ161-2Pin_3.2x1.5mm
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_SMD_EuroQuartz_EQ161-2Pin_3.2x1.5mm
-- Hex ID: FZKXXSMEUROQUARTZEQ1612PIN32X15
+- Hex ID: FZKXXSMEUROQUARTZEQ1612P32X15
 - Name: Crystal : Crystal_SMD_EuroQuartz_EQ161-2Pin_3.2x1.5mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_SMD_EuroQuartz_EQ161-2Pin_3.2x1.5mm/
 - Description: Crystal : Crystal_SMD_EuroQuartz_EQ161-2Pin_3.2x1.5mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_SMD_EuroQuartz_EQ161-2Pin_3.2x1.5mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_SMD_EuroQuartz_EQ161-2Pin_3.2x1.5mm)
-- Short Link: [http://oom.lt/FZKXXSMEUROQUARTZEQ1612PIN32X15](http://oom.lt/FZKXXSMEUROQUARTZEQ1612PIN32X15)
+- Short Link: [http://oom.lt/FZKXXSMEUROQUARTZEQ1612P32X15](http://oom.lt/FZKXXSMEUROQUARTZEQ1612P32X15)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Crystal|
 |OOMP Index|oompIndex|Crystal_SMD_EuroQuartz_EQ161-2Pin_3.2x1.5mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_SMD_EuroQuartz_EQ161-2Pin_3.2x1.5mm|
-|Hex ID (short code)|hexID|FZKXXSMEUROQUARTZEQ1612PIN32X15|
+|Hex ID (short code)|hexID|FZKXXSMEUROQUARTZEQ1612P32X15|
 |name|name|Crystal : Crystal_SMD_EuroQuartz_EQ161-2Pin_3.2x1.5mm|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Crystal_SMD_EuroQuartz_EQ161-2Pin_3.2x1.5mm'</td><td> 'description'</td></tr><tr><td> 'SMD Crystal EuroQuartz EQ161 series http</td></tr><tr><td>//cdn-reichelt.de/documents/datenblatt/B400/PG32768C.pdf</td><td> 3.2x1.5mm^2 package'</td><td> 'tags'</td></tr><tr><td> 'SMD SMT crystal'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Crystal.3dshapes/Crystal_SMD_EuroQuartz_EQ161-2Pin_3.2x1.5mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

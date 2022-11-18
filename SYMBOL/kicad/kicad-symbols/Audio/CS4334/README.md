@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Audio-CS4334
 - Hex ID: SZKAUDIOCS4334
 - Name: Audio : CS4334
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Audio/CS4334/
 - Description: Audio : CS4334
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Audio-CS4334](http://oom.lt/SYMBOL-kicad-kicad-symbols-Audio-CS4334)
 - Short Link: [http://oom.lt/SZKAUDIOCS4334](http://oom.lt/SZKAUDIOCS4334)

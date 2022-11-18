@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-special-KK-505
 - Hex ID: FZESPECIALKK55
 - Name: special : KK-505
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/special/KK-505/
 - Description: special : KK-505
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-special-KK-505](http://oom.lt/FOOTPRINT-eagle-eagle-default-special-KK-505)
 - Short Link: [http://oom.lt/FZESPECIALKK55](http://oom.lt/FZESPECIALKK55)

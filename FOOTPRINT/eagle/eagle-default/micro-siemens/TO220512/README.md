@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-micro-siemens-TO220512
 - Hex ID: FZEMSIEMENSTO22512
 - Name: micro-siemens : TO220512
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/micro-siemens/TO220512/
 - Description: micro-siemens : TO220512
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-siemens-TO220512](http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-siemens-TO220512)
 - Short Link: [http://oom.lt/FZEMSIEMENSTO22512](http://oom.lt/FZEMSIEMENSTO22512)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Piezo_Transducer_THT_PS1240P02BT
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSPIEZOTRANSDUCERTHTPS124P2BT
 - Name: digikey-footprints : Piezo_Transducer_THT_PS1240P02BT
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Piezo_Transducer_THT_PS1240P02BT/
 - Description: digikey-footprints : Piezo_Transducer_THT_PS1240P02BT
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Piezo_Transducer_THT_PS1240P02BT](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Piezo_Transducer_THT_PS1240P02BT)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSPIEZOTRANSDUCERTHTPS124P2BT](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSPIEZOTRANSDUCERTHTPS124P2BT)

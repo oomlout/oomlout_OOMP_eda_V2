@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-MountingHole-MountingHole_2mm
 - Hex ID: FZKHOLHOL2
 - Name: MountingHole : MountingHole_2mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/MountingHole/MountingHole_2mm/
 - Description: MountingHole : MountingHole_2mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-MountingHole-MountingHole_2mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-MountingHole-MountingHole_2mm)
 - Short Link: [http://oom.lt/FZKHOLHOL2](http://oom.lt/FZKHOLHOL2)

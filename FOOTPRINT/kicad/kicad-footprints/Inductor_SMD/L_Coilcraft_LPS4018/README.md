@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Coilcraft_LPS4018
 - Hex ID: FZKINLCOILCRAFTLPS418
 - Name: Inductor_SMD : L_Coilcraft_LPS4018
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Coilcraft_LPS4018/
 - Description: Inductor_SMD : L_Coilcraft_LPS4018
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Coilcraft_LPS4018](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Coilcraft_LPS4018)
 - Short Link: [http://oom.lt/FZKINLCOILCRAFTLPS418](http://oom.lt/FZKINLCOILCRAFTLPS418)

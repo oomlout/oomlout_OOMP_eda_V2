@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-LEDS-10-L-FROS-01-L10L
 - Hex ID: SZOOMPKOOMPPLS1LFROS1L1L
 - Name: oomlout_OOMP_parts : LEDS-10-L-FROS-01-L10L
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/LEDS-10-L-FROS-01-L10L/
 - Description: oomlout_OOMP_parts : LEDS-10-L-FROS-01-L10L
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-LEDS-10-L-FROS-01-L10L](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-LEDS-10-L-FROS-01-L10L)
 - Short Link: [http://oom.lt/SZOOMPKOOMPPLS1LFROS1L1L](http://oom.lt/SZOOMPKOOMPPLS1LFROS1L1L)

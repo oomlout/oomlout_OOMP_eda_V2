@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-ARDUINOR3-NOTEXT-NOIOREF
 - Hex ID: FZAARDR3NTNI
 - Name: adafruit : ARDUINOR3-NOTEXT-NOIOREF
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/ARDUINOR3-NOTEXT-NOIOREF/
 - Description: adafruit : ARDUINOR3-NOTEXT-NOIOREF
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-ARDUINOR3-NOTEXT-NOIOREF](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-ARDUINOR3-NOTEXT-NOIOREF)
 - Short Link: [http://oom.lt/FZAARDR3NTNI](http://oom.lt/FZAARDR3NTNI)

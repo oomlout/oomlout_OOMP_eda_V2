@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-opto-honeywell-STPF201
 - Hex ID: FZEOPTOHONEYWELLSTPF21
 - Name: opto-honeywell : STPF201
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/opto-honeywell/STPF201/
 - Description: opto-honeywell : STPF201
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-opto-honeywell-STPF201](http://oom.lt/FOOTPRINT-eagle-eagle-default-opto-honeywell-STPF201)
 - Short Link: [http://oom.lt/FZEOPTOHONEYWELLSTPF21](http://oom.lt/FZEOPTOHONEYWELLSTPF21)

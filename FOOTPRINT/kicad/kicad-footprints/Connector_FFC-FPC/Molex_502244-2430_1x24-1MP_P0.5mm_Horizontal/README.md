@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_FFC-FPC-Molex_502244-2430_1x24-1MP_P0.5mm_Horizontal
 - Hex ID: FZKCNFFCFPCMX522442431X241MPP5H
 - Name: Connector_FFC-FPC : Molex_502244-2430_1x24-1MP_P0.5mm_Horizontal
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_FFC-FPC/Molex_502244-2430_1x24-1MP_P0.5mm_Horizontal/
 - Description: Connector_FFC-FPC : Molex_502244-2430_1x24-1MP_P0.5mm_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_FFC-FPC-Molex_502244-2430_1x24-1MP_P0.5mm_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_FFC-FPC-Molex_502244-2430_1x24-1MP_P0.5mm_Horizontal)
 - Short Link: [http://oom.lt/FZKCNFFCFPCMX522442431X241MPP5H](http://oom.lt/FZKCNFFCFPCMX522442431X241MPP5H)

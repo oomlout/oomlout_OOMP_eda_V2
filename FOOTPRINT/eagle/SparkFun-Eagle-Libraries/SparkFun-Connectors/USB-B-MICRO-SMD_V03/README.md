@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-USB-B-MICRO-SMD_V03
 - Hex ID: FZSSPARKFUNCNSUBMSMV3
 - Name: SparkFun-Connectors : USB-B-MICRO-SMD_V03
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Connectors/USB-B-MICRO-SMD_V03/
 - Description: SparkFun-Connectors : USB-B-MICRO-SMD_V03
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-USB-B-MICRO-SMD_V03](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-USB-B-MICRO-SMD_V03)
 - Short Link: [http://oom.lt/FZSSPARKFUNCNSUBMSMV3](http://oom.lt/FZSSPARKFUNCNSUBMSMV3)

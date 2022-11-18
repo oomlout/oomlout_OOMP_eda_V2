@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Isolator-ADuM3152
 - Hex ID: SZKISOLATORADUM3152
 - Name: Isolator : ADuM3152
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Isolator/ADuM3152/
 - Description: Isolator : ADuM3152
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-ADuM3152](http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-ADuM3152)
 - Short Link: [http://oom.lt/SZKISOLATORADUM3152](http://oom.lt/SZKISOLATORADUM3152)

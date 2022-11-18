@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-fiber-optic-hp-HFBR-15X1V
 - Hex ID: FZEFIBEROPTICHPHFBR15X1V
 - Name: fiber-optic-hp : HFBR-15X1V
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/fiber-optic-hp/HFBR-15X1V/
 - Description: fiber-optic-hp : HFBR-15X1V
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-fiber-optic-hp-HFBR-15X1V](http://oom.lt/FOOTPRINT-eagle-eagle-default-fiber-optic-hp-HFBR-15X1V)
 - Short Link: [http://oom.lt/FZEFIBEROPTICHPHFBR15X1V](http://oom.lt/FZEFIBEROPTICHPHFBR15X1V)

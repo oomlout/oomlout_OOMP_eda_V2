@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Module-ST_Morpho_Connector_144_STLink_MountingHoles
 - Hex ID: FZKMOSTMORPHOCN144STLINKHOLS
 - Name: Module : ST_Morpho_Connector_144_STLink_MountingHoles
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Module/ST_Morpho_Connector_144_STLink_MountingHoles/
 - Description: Module : ST_Morpho_Connector_144_STLink_MountingHoles
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Module-ST_Morpho_Connector_144_STLink_MountingHoles](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Module-ST_Morpho_Connector_144_STLink_MountingHoles)
 - Short Link: [http://oom.lt/FZKMOSTMORPHOCN144STLINKHOLS](http://oom.lt/FZKMOSTMORPHOCN144STLINKHOLS)

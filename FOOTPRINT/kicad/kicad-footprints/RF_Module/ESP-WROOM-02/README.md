@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-RF_Module-ESP-WROOM-02
 - Hex ID: FZKRFMOESPWROOM2
 - Name: RF_Module : ESP-WROOM-02
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/RF_Module/ESP-WROOM-02/
 - Description: RF_Module : ESP-WROOM-02
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_Module-ESP-WROOM-02](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_Module-ESP-WROOM-02)
 - Short Link: [http://oom.lt/FZKRFMOESPWROOM2](http://oom.lt/FZKRFMOESPWROOM2)

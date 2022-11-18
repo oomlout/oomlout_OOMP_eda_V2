@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-coax-AMP_227161
 - Hex ID: FZECONCOAXAMP227161
 - Name: con-coax : AMP_227161
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-coax/AMP_227161/
 - Description: con-coax : AMP_227161
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-coax-AMP_227161](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-coax-AMP_227161)
 - Short Link: [http://oom.lt/FZECONCOAXAMP227161](http://oom.lt/FZECONCOAXAMP227161)

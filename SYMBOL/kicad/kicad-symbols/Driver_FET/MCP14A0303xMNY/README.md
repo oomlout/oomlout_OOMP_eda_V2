@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Driver_FET-MCP14A0303xMNY
 - Hex ID: SZKDRIVERFETMCP14A33XMNY
 - Name: Driver_FET : MCP14A0303xMNY
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Driver_FET/MCP14A0303xMNY/
 - Description: Driver_FET : MCP14A0303xMNY
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-MCP14A0303xMNY](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-MCP14A0303xMNY)
 - Short Link: [http://oom.lt/SZKDRIVERFETMCP14A33XMNY](http://oom.lt/SZKDRIVERFETMCP14A33XMNY)

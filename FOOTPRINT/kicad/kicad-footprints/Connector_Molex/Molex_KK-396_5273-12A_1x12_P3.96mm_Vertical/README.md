@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_KK-396_5273-12A_1x12_P3.96mm_Vertical
 - Hex ID: FZKCNMXMXKK396527312A1X12P396F
 - Name: Connector_Molex : Molex_KK-396_5273-12A_1x12_P3.96mm_Vertical
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_KK-396_5273-12A_1x12_P3.96mm_Vertical/
 - Description: Connector_Molex : Molex_KK-396_5273-12A_1x12_P3.96mm_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_KK-396_5273-12A_1x12_P3.96mm_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_KK-396_5273-12A_1x12_P3.96mm_Vertical)
 - Short Link: [http://oom.lt/FZKCNMXMXKK396527312A1X12P396F](http://oom.lt/FZKCNMXMXKK396527312A1X12P396F)

@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKSOS81EP457X457P127EP457X445THERMALVIAS > Package_SO : SOP-8-1EP_4.57x4.57mm_P1.27mm_EP4.57x4.45mm_ThermalVias](#fzksos81ep457x457p127ep457x445thermalvias--package_so--sop-8-1ep_457x457mm_p127mm_ep457x445mm_thermalvias)
+* [FZKSOS81EP457X457P127EP457X445THV > Package_SO : SOP-8-1EP_4.57x4.57mm_P1.27mm_EP4.57x4.45mm_ThermalVias](#fzksos81ep457x457p127ep457x445thv--package_so--sop-8-1ep_457x457mm_p127mm_ep457x445mm_thermalvias)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKSOS81EP457X457P127EP457X445THERMALVIAS > Package_SO : SOP-8-1EP_4.57x4.57mm_P1.27mm_EP4.57x4.45mm_ThermalVias
+# FZKSOS81EP457X457P127EP457X445THV > Package_SO : SOP-8-1EP_4.57x4.57mm_P1.27mm_EP4.57x4.45mm_ThermalVias
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_SO-SOP-8-1EP_4.57x4.57mm_P1.27mm_EP4.57x4.45mm_ThermalVias
-- Hex ID: FZKSOS81EP457X457P127EP457X445THERMALVIAS
+- Hex ID: FZKSOS81EP457X457P127EP457X445THV
 - Name: Package_SO : SOP-8-1EP_4.57x4.57mm_P1.27mm_EP4.57x4.45mm_ThermalVias
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SO/SOP-8-1EP_4.57x4.57mm_P1.27mm_EP4.57x4.45mm_ThermalVias/
 - Description: Package_SO : SOP-8-1EP_4.57x4.57mm_P1.27mm_EP4.57x4.45mm_ThermalVias
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SO-SOP-8-1EP_4.57x4.57mm_P1.27mm_EP4.57x4.45mm_ThermalVias](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SO-SOP-8-1EP_4.57x4.57mm_P1.27mm_EP4.57x4.45mm_ThermalVias)
-- Short Link: [http://oom.lt/FZKSOS81EP457X457P127EP457X445THERMALVIAS](http://oom.lt/FZKSOS81EP457X457P127EP457X445THERMALVIAS)
+- Short Link: [http://oom.lt/FZKSOS81EP457X457P127EP457X445THV](http://oom.lt/FZKSOS81EP457X457P127EP457X445THV)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Package_SO|
 |OOMP Index|oompIndex|SOP-8-1EP_4.57x4.57mm_P1.27mm_EP4.57x4.45mm_ThermalVias|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_SO-SOP-8-1EP_4.57x4.57mm_P1.27mm_EP4.57x4.45mm_ThermalVias|
-|Hex ID (short code)|hexID|FZKSOS81EP457X457P127EP457X445THERMALVIAS|
+|Hex ID (short code)|hexID|FZKSOS81EP457X457P127EP457X445THV|
 |name|name|Package_SO : SOP-8-1EP_4.57x4.57mm_P1.27mm_EP4.57x4.45mm_ThermalVias|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'SOP-8-1EP_4.57x4.57mm_P1.27mm_EP4.57x4.45mm_ThermalVias'</td><td> 'description'</td></tr><tr><td> 'SOP</td><td> 8 Pin (https</td></tr><tr><td>//ww2.minicircuits.com/case_style/XX112.pdf)</td><td> generated with kicad-footprint-generator ipc_gullwing_generator.py'</td><td> 'tags'</td></tr><tr><td> 'SOP SO'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_SO.3dshapes/SOP-8-1EP_4.57x4.57mm_P1.27mm_EP4.57x4.45mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Capacitor_Tantalum_SMD-CP_EIA-7343-43_Kemet-X
 - Hex ID: FZKCCPEIA734343KEMETX
 - Name: Capacitor_Tantalum_SMD : CP_EIA-7343-43_Kemet-X
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Capacitor_Tantalum_SMD/CP_EIA-7343-43_Kemet-X/
 - Description: Capacitor_Tantalum_SMD : CP_EIA-7343-43_Kemet-X
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_Tantalum_SMD-CP_EIA-7343-43_Kemet-X](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_Tantalum_SMD-CP_EIA-7343-43_Kemet-X)
 - Short Link: [http://oom.lt/FZKCCPEIA734343KEMETX](http://oom.lt/FZKCCPEIA734343KEMETX)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Special-Function-LGA-28
 - Hex ID: FZSISLGA28
 - Name: SparkFun-IC-Special-Function : LGA-28
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-IC-Special-Function/LGA-28/
 - Description: SparkFun-IC-Special-Function : LGA-28
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Special-Function-LGA-28](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Special-Function-LGA-28)
 - Short Link: [http://oom.lt/FZSISLGA28](http://oom.lt/FZSISLGA28)

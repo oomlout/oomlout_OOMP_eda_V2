@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LMH6551MA
 - Hex ID: SZKAMPLIFIEROPERATIONALLMH6551MA
 - Name: Amplifier_Operational : LMH6551MA
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/LMH6551MA/
 - Description: Amplifier_Operational : LMH6551MA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LMH6551MA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LMH6551MA)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALLMH6551MA](http://oom.lt/SZKAMPLIFIEROPERATIONALLMH6551MA)

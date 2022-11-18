@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_UART-LTC2850xS8
 - Hex ID: SZKINTERFACEUARTLTC285XS8
 - Name: Interface_UART : LTC2850xS8
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_UART/LTC2850xS8/
 - Description: Interface_UART : LTC2850xS8
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_UART-LTC2850xS8](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_UART-LTC2850xS8)
 - Short Link: [http://oom.lt/SZKINTERFACEUARTLTC285XS8](http://oom.lt/SZKINTERFACEUARTLTC285XS8)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-TO-92-2_W4.0mm_Horizontal_FlatSideUp
 - Hex ID: FZKSOTTO922W4HFLATSIDEUP
 - Name: Package_TO_SOT_THT : TO-92-2_W4.0mm_Horizontal_FlatSideUp
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_THT/TO-92-2_W4.0mm_Horizontal_FlatSideUp/
 - Description: Package_TO_SOT_THT : TO-92-2_W4.0mm_Horizontal_FlatSideUp
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-TO-92-2_W4.0mm_Horizontal_FlatSideUp](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-TO-92-2_W4.0mm_Horizontal_FlatSideUp)
 - Short Link: [http://oom.lt/FZKSOTTO922W4HFLATSIDEUP](http://oom.lt/FZKSOTTO922W4HFLATSIDEUP)

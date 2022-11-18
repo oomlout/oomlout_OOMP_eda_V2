@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Boards-TEENSYVIEW
 - Hex ID: FZSBOTEENSYVIEW
 - Name: SparkFun-Boards : TEENSYVIEW
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Boards/TEENSYVIEW/
 - Description: SparkFun-Boards : TEENSYVIEW
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Boards-TEENSYVIEW](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Boards-TEENSYVIEW)
 - Short Link: [http://oom.lt/FZSBOTEENSYVIEW](http://oom.lt/FZSBOTEENSYVIEW)

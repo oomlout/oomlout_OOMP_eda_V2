@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-C3D16065D
 - Hex ID: SZKDIODEC3D1665D
 - Name: Diode : C3D16065D
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/C3D16065D/
 - Description: Diode : C3D16065D
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-C3D16065D](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-C3D16065D)
 - Short Link: [http://oom.lt/SZKDIODEC3D1665D](http://oom.lt/SZKDIODEC3D1665D)

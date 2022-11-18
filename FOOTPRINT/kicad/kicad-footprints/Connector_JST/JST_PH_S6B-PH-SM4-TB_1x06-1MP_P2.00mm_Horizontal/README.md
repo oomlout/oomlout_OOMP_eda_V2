@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_PH_S6B-PH-SM4-TB_1x06-1MP_P2.00mm_Horizontal
 - Hex ID: FZKCNJSTJSTPHS6BPHSM4TB1X61MPP2H
 - Name: Connector_JST : JST_PH_S6B-PH-SM4-TB_1x06-1MP_P2.00mm_Horizontal
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_PH_S6B-PH-SM4-TB_1x06-1MP_P2.00mm_Horizontal/
 - Description: Connector_JST : JST_PH_S6B-PH-SM4-TB_1x06-1MP_P2.00mm_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_PH_S6B-PH-SM4-TB_1x06-1MP_P2.00mm_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_PH_S6B-PH-SM4-TB_1x06-1MP_P2.00mm_Horizontal)
 - Short Link: [http://oom.lt/FZKCNJSTJSTPHS6BPHSM4TB1X61MPP2H](http://oom.lt/FZKCNJSTJSTPHS6BPHSM4TB1X61MPP2H)

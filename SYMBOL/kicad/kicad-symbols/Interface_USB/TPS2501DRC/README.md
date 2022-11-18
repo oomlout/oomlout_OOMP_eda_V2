@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_USB-TPS2501DRC
 - Hex ID: SZKINTERFACEUTPS251DRC
 - Name: Interface_USB : TPS2501DRC
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_USB/TPS2501DRC/
 - Description: Interface_USB : TPS2501DRC
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_USB-TPS2501DRC](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_USB-TPS2501DRC)
 - Short Link: [http://oom.lt/SZKINTERFACEUTPS251DRC](http://oom.lt/SZKINTERFACEUTPS251DRC)

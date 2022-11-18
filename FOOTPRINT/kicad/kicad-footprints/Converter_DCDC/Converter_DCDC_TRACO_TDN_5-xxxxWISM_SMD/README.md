@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Converter_DCDC-Converter_DCDC_TRACO_TDN_5-xxxxWISM_SMD
 - Hex ID: FZKCONCONTRACOTDN5XXXXWISMSM
 - Name: Converter_DCDC : Converter_DCDC_TRACO_TDN_5-xxxxWISM_SMD
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Converter_DCDC/Converter_DCDC_TRACO_TDN_5-xxxxWISM_SMD/
 - Description: Converter_DCDC : Converter_DCDC_TRACO_TDN_5-xxxxWISM_SMD
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Converter_DCDC-Converter_DCDC_TRACO_TDN_5-xxxxWISM_SMD](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Converter_DCDC-Converter_DCDC_TRACO_TDN_5-xxxxWISM_SMD)
 - Short Link: [http://oom.lt/FZKCONCONTRACOTDN5XXXXWISMSM](http://oom.lt/FZKCONCONTRACOTDN5XXXXWISMSM)

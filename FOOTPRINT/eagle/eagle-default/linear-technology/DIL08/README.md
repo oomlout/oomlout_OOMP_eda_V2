@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-linear-technology-DIL08
 - Hex ID: FZELINEARTECHNOLOGYDIL8
 - Name: linear-technology : DIL08
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/linear-technology/DIL08/
 - Description: linear-technology : DIL08
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-linear-technology-DIL08](http://oom.lt/FOOTPRINT-eagle-eagle-default-linear-technology-DIL08)
 - Short Link: [http://oom.lt/FZELINEARTECHNOLOGYDIL8](http://oom.lt/FZELINEARTECHNOLOGYDIL8)

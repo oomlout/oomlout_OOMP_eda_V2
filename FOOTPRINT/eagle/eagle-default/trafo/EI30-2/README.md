@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-trafo-EI30-2
 - Hex ID: FZETRAFOEI32
 - Name: trafo : EI30-2
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/trafo/EI30-2/
 - Description: trafo : EI30-2
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-trafo-EI30-2](http://oom.lt/FOOTPRINT-eagle-eagle-default-trafo-EI30-2)
 - Short Link: [http://oom.lt/FZETRAFOEI32](http://oom.lt/FZETRAFOEI32)

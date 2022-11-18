@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Power_Management-LTC4417HGN
 - Hex ID: SZKPOWERMANAGEMENTLTC4417HGN
 - Name: Power_Management : LTC4417HGN
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Power_Management/LTC4417HGN/
 - Description: Power_Management : LTC4417HGN
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-LTC4417HGN](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-LTC4417HGN)
 - Short Link: [http://oom.lt/SZKPOWERMANAGEMENTLTC4417HGN](http://oom.lt/SZKPOWERMANAGEMENTLTC4417HGN)

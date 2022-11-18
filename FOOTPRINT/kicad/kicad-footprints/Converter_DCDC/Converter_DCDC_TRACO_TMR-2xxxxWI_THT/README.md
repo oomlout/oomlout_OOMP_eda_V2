@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Converter_DCDC-Converter_DCDC_TRACO_TMR-2xxxxWI_THT
 - Hex ID: FZKCONCONTRACOTMR2XXXXWITHT
 - Name: Converter_DCDC : Converter_DCDC_TRACO_TMR-2xxxxWI_THT
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Converter_DCDC/Converter_DCDC_TRACO_TMR-2xxxxWI_THT/
 - Description: Converter_DCDC : Converter_DCDC_TRACO_TMR-2xxxxWI_THT
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Converter_DCDC-Converter_DCDC_TRACO_TMR-2xxxxWI_THT](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Converter_DCDC-Converter_DCDC_TRACO_TMR-2xxxxWI_THT)
 - Short Link: [http://oom.lt/FZKCONCONTRACOTMR2XXXXWITHT](http://oom.lt/FZKCONCONTRACOTMR2XXXXWITHT)

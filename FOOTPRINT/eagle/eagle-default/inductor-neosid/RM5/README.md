@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEINDUCTORNEOSIDRM5 > inductor-neosid : RM5](#fzeinductorneosidrm5--inductor-neosid--rm5)
+* [FZEINNEOSIDRM5 > inductor-neosid : RM5](#fzeinneosidrm5--inductor-neosid--rm5)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEINDUCTORNEOSIDRM5 > inductor-neosid : RM5
+# FZEINNEOSIDRM5 > inductor-neosid : RM5
 
 - ID: FOOTPRINT-eagle-eagle-default-inductor-neosid-RM5
-- Hex ID: FZEINDUCTORNEOSIDRM5
+- Hex ID: FZEINNEOSIDRM5
 - Name: inductor-neosid : RM5
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/inductor-neosid/RM5/
 - Description: inductor-neosid : RM5
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-inductor-neosid-RM5](http://oom.lt/FOOTPRINT-eagle-eagle-default-inductor-neosid-RM5)
-- Short Link: [http://oom.lt/FZEINDUCTORNEOSIDRM5](http://oom.lt/FZEINDUCTORNEOSIDRM5)
+- Short Link: [http://oom.lt/FZEINNEOSIDRM5](http://oom.lt/FZEINNEOSIDRM5)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|inductor-neosid|
 |OOMP Index|oompIndex|RM5|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-inductor-neosid-RM5|
-|Hex ID (short code)|hexID|FZEINDUCTORNEOSIDRM5|
+|Hex ID (short code)|hexID|FZEINNEOSIDRM5|
 |name|name|inductor-neosid : RM5|
 ||||

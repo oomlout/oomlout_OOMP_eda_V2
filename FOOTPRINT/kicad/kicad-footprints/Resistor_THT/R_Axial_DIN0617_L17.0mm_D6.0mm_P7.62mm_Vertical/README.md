@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Resistor_THT-R_Axial_DIN0617_L17.0mm_D6.0mm_P7.62mm_Vertical
 - Hex ID: FZKRRAXIALDIN617L17D6P762F
 - Name: Resistor_THT : R_Axial_DIN0617_L17.0mm_D6.0mm_P7.62mm_Vertical
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Resistor_THT/R_Axial_DIN0617_L17.0mm_D6.0mm_P7.62mm_Vertical/
 - Description: Resistor_THT : R_Axial_DIN0617_L17.0mm_D6.0mm_P7.62mm_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Resistor_THT-R_Axial_DIN0617_L17.0mm_D6.0mm_P7.62mm_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Resistor_THT-R_Axial_DIN0617_L17.0mm_D6.0mm_P7.62mm_Vertical)
 - Short Link: [http://oom.lt/FZKRRAXIALDIN617L17D6P762F](http://oom.lt/FZKRRAXIALDIN617L17D6P762F)

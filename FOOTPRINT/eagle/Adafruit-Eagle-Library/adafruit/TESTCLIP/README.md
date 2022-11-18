@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZATESTCLIP > adafruit : TESTCLIP](#fzatestclip--adafruit--testclip)
+* [FZATESTCL > adafruit : TESTCLIP](#fzatestcl--adafruit--testclip)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZATESTCLIP > adafruit : TESTCLIP
+# FZATESTCL > adafruit : TESTCLIP
 
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-TESTCLIP
-- Hex ID: FZATESTCLIP
+- Hex ID: FZATESTCL
 - Name: adafruit : TESTCLIP
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/TESTCLIP/
 - Description: adafruit : TESTCLIP
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-TESTCLIP](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-TESTCLIP)
-- Short Link: [http://oom.lt/FZATESTCLIP](http://oom.lt/FZATESTCLIP)
+- Short Link: [http://oom.lt/FZATESTCL](http://oom.lt/FZATESTCL)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|adafruit|
 |OOMP Index|oompIndex|TESTCLIP|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-TESTCLIP|
-|Hex ID (short code)|hexID|FZATESTCLIP|
+|Hex ID (short code)|hexID|FZATESTCL|
 |name|name|adafruit : TESTCLIP|
 ||||
 

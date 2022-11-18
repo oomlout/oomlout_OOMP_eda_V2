@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC18-PIC18LF2450-ISP
 - Hex ID: SZKMCUMCHIPPIC18PIC18LF245ISP
 - Name: MCU_Microchip_PIC18 : PIC18LF2450-ISP
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC18/PIC18LF2450-ISP/
 - Description: MCU_Microchip_PIC18 : PIC18LF2450-ISP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC18-PIC18LF2450-ISP](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC18-PIC18LF2450-ISP)
 - Short Link: [http://oom.lt/SZKMCUMCHIPPIC18PIC18LF245ISP](http://oom.lt/SZKMCUMCHIPPIC18PIC18LF245ISP)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_DS26_D2.0mm_L6.0mm_Horizontal
 - Hex ID: FZKXXDS26D2L6H
 - Name: Crystal : Crystal_DS26_D2.0mm_L6.0mm_Horizontal
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_DS26_D2.0mm_L6.0mm_Horizontal/
 - Description: Crystal : Crystal_DS26_D2.0mm_L6.0mm_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_DS26_D2.0mm_L6.0mm_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_DS26_D2.0mm_L6.0mm_Horizontal)
 - Short Link: [http://oom.lt/FZKXXDS26D2L6H](http://oom.lt/FZKXXDS26D2L6H)

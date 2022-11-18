@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEREFPACKAGESLONGPADQFP12SOT3492 > ref-packages-longpad : QFP120_SOT349-2](#fzerefpackageslongpadqfp12sot3492--ref-packages-longpad--qfp120_sot349-2)
+* [FZEREFPSLPQFP12SOT3492 > ref-packages-longpad : QFP120_SOT349-2](#fzerefpslpqfp12sot3492--ref-packages-longpad--qfp120_sot349-2)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEREFPACKAGESLONGPADQFP12SOT3492 > ref-packages-longpad : QFP120_SOT349-2
+# FZEREFPSLPQFP12SOT3492 > ref-packages-longpad : QFP120_SOT349-2
 
 - ID: FOOTPRINT-eagle-eagle-default-ref-packages-longpad-QFP120_SOT349-2
-- Hex ID: FZEREFPACKAGESLONGPADQFP12SOT3492
+- Hex ID: FZEREFPSLPQFP12SOT3492
 - Name: ref-packages-longpad : QFP120_SOT349-2
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ref-packages-longpad/QFP120_SOT349-2/
 - Description: ref-packages-longpad : QFP120_SOT349-2
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-longpad-QFP120_SOT349-2](http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-longpad-QFP120_SOT349-2)
-- Short Link: [http://oom.lt/FZEREFPACKAGESLONGPADQFP12SOT3492](http://oom.lt/FZEREFPACKAGESLONGPADQFP12SOT3492)
+- Short Link: [http://oom.lt/FZEREFPSLPQFP12SOT3492](http://oom.lt/FZEREFPSLPQFP12SOT3492)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|ref-packages-longpad|
 |OOMP Index|oompIndex|QFP120_SOT349-2|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-ref-packages-longpad-QFP120_SOT349-2|
-|Hex ID (short code)|hexID|FZEREFPACKAGESLONGPADQFP12SOT3492|
+|Hex ID (short code)|hexID|FZEREFPSLPQFP12SOT3492|
 |name|name|ref-packages-longpad : QFP120_SOT349-2|
 ||||

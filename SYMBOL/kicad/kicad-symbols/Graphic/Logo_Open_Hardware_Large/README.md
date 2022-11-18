@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Graphic-Logo_Open_Hardware_Large
 - Hex ID: SZKGRAPHICLOPENHARDWAREL
 - Name: Graphic : Logo_Open_Hardware_Large
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Graphic/Logo_Open_Hardware_Large/
 - Description: Graphic : Logo_Open_Hardware_Large
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Graphic-Logo_Open_Hardware_Large](http://oom.lt/SYMBOL-kicad-kicad-symbols-Graphic-Logo_Open_Hardware_Large)
 - Short Link: [http://oom.lt/SZKGRAPHICLOPENHARDWAREL](http://oom.lt/SZKGRAPHICLOPENHARDWAREL)

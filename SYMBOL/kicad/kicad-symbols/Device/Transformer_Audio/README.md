@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Device-Transformer_Audio
 - Hex ID: SZKDEVICETRAUDIO
 - Name: Device : Transformer_Audio
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/Transformer_Audio/
 - Description: Device : Transformer_Audio
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Transformer_Audio](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Transformer_Audio)
 - Short Link: [http://oom.lt/SZKDEVICETRAUDIO](http://oom.lt/SZKDEVICETRAUDIO)

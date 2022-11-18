@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Switches-REED_SWITCH_PLASTIC
 - Hex ID: FZSWREEDSWPLASTIC
 - Name: SparkFun-Switches : REED_SWITCH_PLASTIC
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Switches/REED_SWITCH_PLASTIC/
 - Description: SparkFun-Switches : REED_SWITCH_PLASTIC
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Switches-REED_SWITCH_PLASTIC](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Switches-REED_SWITCH_PLASTIC)
 - Short Link: [http://oom.lt/FZSWREEDSWPLASTIC](http://oom.lt/FZSWREEDSWPLASTIC)

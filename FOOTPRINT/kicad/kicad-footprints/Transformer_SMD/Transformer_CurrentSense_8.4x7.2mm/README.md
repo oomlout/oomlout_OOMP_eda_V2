@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKTRTRCURRENTSENSE84X72 > Transformer_SMD : Transformer_CurrentSense_8.4x7.2mm](#fzktrtrcurrentsense84x72--transformer_smd--transformer_currentsense_84x72mm)
+* [FZKTRTRCURRENTS84X72 > Transformer_SMD : Transformer_CurrentSense_8.4x7.2mm](#fzktrtrcurrents84x72--transformer_smd--transformer_currentsense_84x72mm)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKTRTRCURRENTSENSE84X72 > Transformer_SMD : Transformer_CurrentSense_8.4x7.2mm
+# FZKTRTRCURRENTS84X72 > Transformer_SMD : Transformer_CurrentSense_8.4x7.2mm
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Transformer_SMD-Transformer_CurrentSense_8.4x7.2mm
-- Hex ID: FZKTRTRCURRENTSENSE84X72
+- Hex ID: FZKTRTRCURRENTS84X72
 - Name: Transformer_SMD : Transformer_CurrentSense_8.4x7.2mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Transformer_SMD/Transformer_CurrentSense_8.4x7.2mm/
 - Description: Transformer_SMD : Transformer_CurrentSense_8.4x7.2mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Transformer_SMD-Transformer_CurrentSense_8.4x7.2mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Transformer_SMD-Transformer_CurrentSense_8.4x7.2mm)
-- Short Link: [http://oom.lt/FZKTRTRCURRENTSENSE84X72](http://oom.lt/FZKTRTRCURRENTSENSE84X72)
+- Short Link: [http://oom.lt/FZKTRTRCURRENTS84X72](http://oom.lt/FZKTRTRCURRENTS84X72)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Transformer_SMD|
 |OOMP Index|oompIndex|Transformer_CurrentSense_8.4x7.2mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Transformer_SMD-Transformer_CurrentSense_8.4x7.2mm|
-|Hex ID (short code)|hexID|FZKTRTRCURRENTSENSE84X72|
+|Hex ID (short code)|hexID|FZKTRTRCURRENTS84X72|
 |name|name|Transformer_SMD : Transformer_CurrentSense_8.4x7.2mm|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Transformer_CurrentSense_8.4x7.2mm'</td><td> 'description'</td></tr><tr><td> 'Transformer current sense SMD 8.4x7.2mm'</td><td> 'tags'</td></tr><tr><td> 'Transformer current sense SMD'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Transformer_SMD.3dshapes/Transformer_CurrentSense_8.4x7.2mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

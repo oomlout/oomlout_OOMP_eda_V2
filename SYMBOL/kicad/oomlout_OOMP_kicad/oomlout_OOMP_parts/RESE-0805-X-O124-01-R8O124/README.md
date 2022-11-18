@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0805-X-O124-01-R8O124
 - Hex ID: SZOOMPKOOMPPRESE85XO1241R8O124
 - Name: oomlout_OOMP_parts : RESE-0805-X-O124-01-R8O124
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/RESE-0805-X-O124-01-R8O124/
 - Description: oomlout_OOMP_parts : RESE-0805-X-O124-01-R8O124
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0805-X-O124-01-R8O124](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0805-X-O124-01-R8O124)
 - Short Link: [http://oom.lt/SZOOMPKOOMPPRESE85XO1241R8O124](http://oom.lt/SZOOMPKOOMPPRESE85XO1241R8O124)

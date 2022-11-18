@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-74xx_IEEE-74132
 - Hex ID: SZK74XXIEEE74132
 - Name: 74xx_IEEE : 74132
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/74xx_IEEE/74132/
 - Description: 74xx_IEEE : 74132
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-74xx_IEEE-74132](http://oom.lt/SYMBOL-kicad-kicad-symbols-74xx_IEEE-74132)
 - Short Link: [http://oom.lt/SZK74XXIEEE74132](http://oom.lt/SZK74XXIEEE74132)

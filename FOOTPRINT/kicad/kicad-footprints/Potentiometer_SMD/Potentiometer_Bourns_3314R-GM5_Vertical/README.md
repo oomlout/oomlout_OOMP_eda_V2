@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Potentiometer_SMD-Potentiometer_Bourns_3314R-GM5_Vertical
 - Hex ID: FZKPPOTBOURNS3314RGM5F
 - Name: Potentiometer_SMD : Potentiometer_Bourns_3314R-GM5_Vertical
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Potentiometer_SMD/Potentiometer_Bourns_3314R-GM5_Vertical/
 - Description: Potentiometer_SMD : Potentiometer_Bourns_3314R-GM5_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Potentiometer_SMD-Potentiometer_Bourns_3314R-GM5_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Potentiometer_SMD-Potentiometer_Bourns_3314R-GM5_Vertical)
 - Short Link: [http://oom.lt/FZKPPOTBOURNS3314RGM5F](http://oom.lt/FZKPPOTBOURNS3314RGM5F)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-vg-FZBD48F
 - Hex ID: FZECONVGFZBD48F
 - Name: con-vg : FZBD48F
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-vg/FZBD48F/
 - Description: con-vg : FZBD48F
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-vg-FZBD48F](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-vg-FZBD48F)
 - Short Link: [http://oom.lt/FZECONVGFZBD48F](http://oom.lt/FZECONVGFZBD48F)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-relay-AQY27
 - Hex ID: FZERELAYAQY27
 - Name: relay : AQY27
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/relay/AQY27/
 - Description: relay : AQY27
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-AQY27](http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-AQY27)
 - Short Link: [http://oom.lt/FZERELAYAQY27](http://oom.lt/FZERELAYAQY27)

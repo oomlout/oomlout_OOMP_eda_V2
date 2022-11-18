@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-molex-87832-26
 - Hex ID: FZECONMX8783226
 - Name: con-molex : 87832-26
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-molex/87832-26/
 - Description: con-molex : 87832-26
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-molex-87832-26](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-molex-87832-26)
 - Short Link: [http://oom.lt/FZECONMX8783226](http://oom.lt/FZECONMX8783226)

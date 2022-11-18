@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-DiscreteSemi-MICROFET_2X2
 - Hex ID: FZSDSMFET2X2
 - Name: SparkFun-DiscreteSemi : MICROFET_2X2
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-DiscreteSemi/MICROFET_2X2/
 - Description: SparkFun-DiscreteSemi : MICROFET_2X2
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-DiscreteSemi-MICROFET_2X2](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-DiscreteSemi-MICROFET_2X2)
 - Short Link: [http://oom.lt/FZSDSMFET2X2](http://oom.lt/FZSDSMFET2X2)

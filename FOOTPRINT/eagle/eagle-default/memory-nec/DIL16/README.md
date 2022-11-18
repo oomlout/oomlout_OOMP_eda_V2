@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-memory-nec-DIL16
 - Hex ID: FZEMEMORYNECDIL16
 - Name: memory-nec : DIL16
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/memory-nec/DIL16/
 - Description: memory-nec : DIL16
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-memory-nec-DIL16](http://oom.lt/FOOTPRINT-eagle-eagle-default-memory-nec-DIL16)
 - Short Link: [http://oom.lt/FZEMEMORYNECDIL16](http://oom.lt/FZEMEMORYNECDIL16)

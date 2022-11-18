@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O302-67-R6302A
 - Hex ID: FZOOMPKOOMPPRESE63XO3267R632A
 - Name: oomlout_OOMP_parts : RESE-0603-X-O302-67-R6302A
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/RESE-0603-X-O302-67-R6302A/
 - Description: oomlout_OOMP_parts : RESE-0603-X-O302-67-R6302A
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O302-67-R6302A](http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O302-67-R6302A)
 - Short Link: [http://oom.lt/FZOOMPKOOMPPRESE63XO3267R632A](http://oom.lt/FZOOMPKOOMPPRESE63XO3267R632A)

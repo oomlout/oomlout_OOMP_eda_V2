@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_B_Lumberg_2411_02_Horizontal
 - Hex ID: FZKCNUUBLUMBERG24112H
 - Name: Connector_USB : USB_B_Lumberg_2411_02_Horizontal
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB_B_Lumberg_2411_02_Horizontal/
 - Description: Connector_USB : USB_B_Lumberg_2411_02_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_B_Lumberg_2411_02_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_B_Lumberg_2411_02_Horizontal)
 - Short Link: [http://oom.lt/FZKCNUUBLUMBERG24112H](http://oom.lt/FZKCNUUBLUMBERG24112H)

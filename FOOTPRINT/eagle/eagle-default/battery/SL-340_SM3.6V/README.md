@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-battery-SL-340_SM3.6V
 - Hex ID: FZEBATSL34SM36V
 - Name: battery : SL-340_SM3.6V
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/battery/SL-340_SM3.6V/
 - Description: battery : SL-340_SM3.6V
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-battery-SL-340_SM3.6V](http://oom.lt/FOOTPRINT-eagle-eagle-default-battery-SL-340_SM3.6V)
 - Short Link: [http://oom.lt/FZEBATSL34SM36V](http://oom.lt/FZEBATSL34SM36V)

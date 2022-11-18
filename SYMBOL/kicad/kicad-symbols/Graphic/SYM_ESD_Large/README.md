@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Graphic-SYM_ESD_Large
 - Hex ID: SZKGRAPHICSYMESDL
 - Name: Graphic : SYM_ESD_Large
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Graphic/SYM_ESD_Large/
 - Description: Graphic : SYM_ESD_Large
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Graphic-SYM_ESD_Large](http://oom.lt/SYMBOL-kicad-kicad-symbols-Graphic-SYM_ESD_Large)
 - Short Link: [http://oom.lt/SZKGRAPHICSYMESDL](http://oom.lt/SZKGRAPHICSYMESDL)

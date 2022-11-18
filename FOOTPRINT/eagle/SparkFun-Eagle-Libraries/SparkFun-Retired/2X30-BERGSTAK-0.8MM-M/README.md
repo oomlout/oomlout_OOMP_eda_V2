@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-2X30-BERGSTAK-0.8MM-M
 - Hex ID: FZSRT2X3BERGSTAK8M
 - Name: SparkFun-Retired : 2X30-BERGSTAK-0.8MM-M
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Retired/2X30-BERGSTAK-0.8MM-M/
 - Description: SparkFun-Retired : 2X30-BERGSTAK-0.8MM-M
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-2X30-BERGSTAK-0.8MM-M](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-2X30-BERGSTAK-0.8MM-M)
 - Short Link: [http://oom.lt/FZSRT2X3BERGSTAK8M](http://oom.lt/FZSRT2X3BERGSTAK8M)

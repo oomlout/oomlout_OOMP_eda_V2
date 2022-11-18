@@ -15,6 +15,7 @@ NO IMAGE
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Bluetooth_Module_450-0064
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSBLUETOOTHMO4564
 - Name: digikey-footprints : Bluetooth_Module_450-0064
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Bluetooth_Module_450-0064/
 - Description: digikey-footprints : Bluetooth_Module_450-0064
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Bluetooth_Module_450-0064](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Bluetooth_Module_450-0064)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSBLUETOOTHMO4564](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSBLUETOOTHMO4564)

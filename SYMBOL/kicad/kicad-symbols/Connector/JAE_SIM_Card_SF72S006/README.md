@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Connector-JAE_SIM_Card_SF72S006
 - Hex ID: SZKCNJAESIMCARDSF72S6
 - Name: Connector : JAE_SIM_Card_SF72S006
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector/JAE_SIM_Card_SF72S006/
 - Description: Connector : JAE_SIM_Card_SF72S006
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-JAE_SIM_Card_SF72S006](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-JAE_SIM_Card_SF72S006)
 - Short Link: [http://oom.lt/SZKCNJAESIMCARDSF72S6](http://oom.lt/SZKCNJAESIMCARDSF72S6)

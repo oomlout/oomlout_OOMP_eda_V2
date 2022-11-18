@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-DFN-10
 - Hex ID: FZSSPARKFUNSENSDFN1
 - Name: SparkFun-Sensors : DFN-10
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Sensors/DFN-10/
 - Description: SparkFun-Sensors : DFN-10
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-DFN-10](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-DFN-10)
 - Short Link: [http://oom.lt/FZSSPARKFUNSENSDFN1](http://oom.lt/FZSSPARKFUNSENSDFN1)

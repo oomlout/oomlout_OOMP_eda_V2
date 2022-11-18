@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-2XAAA
 - Hex ID: FZA2XAAA
 - Name: adafruit : 2XAAA
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/2XAAA/
 - Description: adafruit : 2XAAA
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-2XAAA](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-2XAAA)
 - Short Link: [http://oom.lt/FZA2XAAA](http://oom.lt/FZA2XAAA)

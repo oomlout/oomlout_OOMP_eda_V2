@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC12-PIC12F629-ISN
 - Hex ID: SZKMCUMCHIPPIC12PIC12F629ISN
 - Name: MCU_Microchip_PIC12 : PIC12F629-ISN
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC12/PIC12F629-ISN/
 - Description: MCU_Microchip_PIC12 : PIC12F629-ISN
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC12-PIC12F629-ISN](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC12-PIC12F629-ISN)
 - Short Link: [http://oom.lt/SZKMCUMCHIPPIC12PIC12F629ISN](http://oom.lt/SZKMCUMCHIPPIC12PIC12F629ISN)

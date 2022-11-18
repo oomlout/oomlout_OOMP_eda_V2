@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_AMASS-AMASS_XT30UPB-M_1x02_P5.0mm_Vertical
 - Hex ID: FZKCNAMASSAMASSXT3UPBM1X2P5F
 - Name: Connector_AMASS : AMASS_XT30UPB-M_1x02_P5.0mm_Vertical
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_AMASS/AMASS_XT30UPB-M_1x02_P5.0mm_Vertical/
 - Description: Connector_AMASS : AMASS_XT30UPB-M_1x02_P5.0mm_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_AMASS-AMASS_XT30UPB-M_1x02_P5.0mm_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_AMASS-AMASS_XT30UPB-M_1x02_P5.0mm_Vertical)
 - Short Link: [http://oom.lt/FZKCNAMASSAMASSXT3UPBM1X2P5F](http://oom.lt/FZKCNAMASSAMASSXT3UPBM1X2P5F)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Jumper-Jumper_2_Open
 - Hex ID: SZKJJ2OPEN
 - Name: Jumper : Jumper_2_Open
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Jumper/Jumper_2_Open/
 - Description: Jumper : Jumper_2_Open
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Jumper-Jumper_2_Open](http://oom.lt/SYMBOL-kicad-kicad-symbols-Jumper-Jumper_2_Open)
 - Short Link: [http://oom.lt/SZKJJ2OPEN](http://oom.lt/SZKJJ2OPEN)

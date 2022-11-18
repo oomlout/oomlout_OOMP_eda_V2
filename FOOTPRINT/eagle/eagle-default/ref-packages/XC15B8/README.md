@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEREFPACKAGESXC15B8 > ref-packages : XC15B8](#fzerefpackagesxc15b8--ref-packages--xc15b8)
+* [FZEREFPSXC15B8 > ref-packages : XC15B8](#fzerefpsxc15b8--ref-packages--xc15b8)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEREFPACKAGESXC15B8 > ref-packages : XC15B8
+# FZEREFPSXC15B8 > ref-packages : XC15B8
 
 - ID: FOOTPRINT-eagle-eagle-default-ref-packages-XC15B8
-- Hex ID: FZEREFPACKAGESXC15B8
+- Hex ID: FZEREFPSXC15B8
 - Name: ref-packages : XC15B8
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ref-packages/XC15B8/
 - Description: ref-packages : XC15B8
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-XC15B8](http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-XC15B8)
-- Short Link: [http://oom.lt/FZEREFPACKAGESXC15B8](http://oom.lt/FZEREFPACKAGESXC15B8)
+- Short Link: [http://oom.lt/FZEREFPSXC15B8](http://oom.lt/FZEREFPSXC15B8)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|ref-packages|
 |OOMP Index|oompIndex|XC15B8|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-ref-packages-XC15B8|
-|Hex ID (short code)|hexID|FZEREFPACKAGESXC15B8|
+|Hex ID (short code)|hexID|FZEREFPSXC15B8|
 |name|name|ref-packages : XC15B8|
 ||||

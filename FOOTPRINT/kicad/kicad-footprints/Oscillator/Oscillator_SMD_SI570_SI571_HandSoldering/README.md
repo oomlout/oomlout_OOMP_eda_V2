@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKOCSOCSSMSI57SI571HANDSOLDERING > Oscillator : Oscillator_SMD_SI570_SI571_HandSoldering](#fzkocsocssmsi57si571handsoldering--oscillator--oscillator_smd_si570_si571_handsoldering)
+* [FZKOCSOCSSMSI57SI571HS > Oscillator : Oscillator_SMD_SI570_SI571_HandSoldering](#fzkocsocssmsi57si571hs--oscillator--oscillator_smd_si570_si571_handsoldering)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKOCSOCSSMSI57SI571HANDSOLDERING > Oscillator : Oscillator_SMD_SI570_SI571_HandSoldering
+# FZKOCSOCSSMSI57SI571HS > Oscillator : Oscillator_SMD_SI570_SI571_HandSoldering
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Oscillator-Oscillator_SMD_SI570_SI571_HandSoldering
-- Hex ID: FZKOCSOCSSMSI57SI571HANDSOLDERING
+- Hex ID: FZKOCSOCSSMSI57SI571HS
 - Name: Oscillator : Oscillator_SMD_SI570_SI571_HandSoldering
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Oscillator/Oscillator_SMD_SI570_SI571_HandSoldering/
 - Description: Oscillator : Oscillator_SMD_SI570_SI571_HandSoldering
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Oscillator-Oscillator_SMD_SI570_SI571_HandSoldering](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Oscillator-Oscillator_SMD_SI570_SI571_HandSoldering)
-- Short Link: [http://oom.lt/FZKOCSOCSSMSI57SI571HANDSOLDERING](http://oom.lt/FZKOCSOCSSMSI57SI571HANDSOLDERING)
+- Short Link: [http://oom.lt/FZKOCSOCSSMSI57SI571HS](http://oom.lt/FZKOCSOCSSMSI57SI571HS)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Oscillator|
 |OOMP Index|oompIndex|Oscillator_SMD_SI570_SI571_HandSoldering|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Oscillator-Oscillator_SMD_SI570_SI571_HandSoldering|
-|Hex ID (short code)|hexID|FZKOCSOCSSMSI57SI571HANDSOLDERING|
+|Hex ID (short code)|hexID|FZKOCSOCSSMSI57SI571HS|
 |name|name|Oscillator : Oscillator_SMD_SI570_SI571_HandSoldering|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Oscillator_SMD_SI570_SI571_HandSoldering'</td><td> 'description'</td></tr><tr><td> 'SI570</td><td> SI571</td><td> Programmable oscillator</td><td> Standard'</td><td> 'tags'</td></tr><tr><td> 'SI570 SI571 Programmable oscillator Standard'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Oscillator.3dshapes/Oscillator_SMD_SI570_SI571_HandSoldering.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

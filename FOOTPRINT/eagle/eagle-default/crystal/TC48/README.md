@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-crystal-TC48
 - Hex ID: FZEXTC48
 - Name: crystal : TC48
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/crystal/TC48/
 - Description: crystal : TC48
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-crystal-TC48](http://oom.lt/FOOTPRINT-eagle-eagle-default-crystal-TC48)
 - Short Link: [http://oom.lt/FZEXTC48](http://oom.lt/FZEXTC48)

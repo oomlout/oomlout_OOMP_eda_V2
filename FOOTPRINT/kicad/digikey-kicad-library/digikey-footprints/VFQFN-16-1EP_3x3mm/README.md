@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-VFQFN-16-1EP_3x3mm
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSVFQFN161EP3X3
 - Name: digikey-footprints : VFQFN-16-1EP_3x3mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/VFQFN-16-1EP_3x3mm/
 - Description: digikey-footprints : VFQFN-16-1EP_3x3mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-VFQFN-16-1EP_3x3mm](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-VFQFN-16-1EP_3x3mm)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSVFQFN161EP3X3](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSVFQFN161EP3X3)

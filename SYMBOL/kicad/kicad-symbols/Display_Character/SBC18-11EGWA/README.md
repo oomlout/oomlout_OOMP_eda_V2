@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Display_Character-SBC18-11EGWA
 - Hex ID: SZKDICHARACTERSBC1811EGWA
 - Name: Display_Character : SBC18-11EGWA
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Display_Character/SBC18-11EGWA/
 - Description: Display_Character : SBC18-11EGWA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-SBC18-11EGWA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-SBC18-11EGWA)
 - Short Link: [http://oom.lt/SZKDICHARACTERSBC1811EGWA](http://oom.lt/SZKDICHARACTERSBC1811EGWA)

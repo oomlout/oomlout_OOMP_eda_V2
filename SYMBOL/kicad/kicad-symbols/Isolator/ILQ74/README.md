@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Isolator-ILQ74
 - Hex ID: SZKISOLATORILQ74
 - Name: Isolator : ILQ74
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Isolator/ILQ74/
 - Description: Isolator : ILQ74
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-ILQ74](http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-ILQ74)
 - Short Link: [http://oom.lt/SZKISOLATORILQ74](http://oom.lt/SZKISOLATORILQ74)

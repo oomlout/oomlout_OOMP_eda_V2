@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_XA_B07B-XASK-1_1x07_P2.50mm_Vertical
 - Hex ID: FZKCNJSTJSTXAB7BXASK11X7P25F
 - Name: Connector_JST : JST_XA_B07B-XASK-1_1x07_P2.50mm_Vertical
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_XA_B07B-XASK-1_1x07_P2.50mm_Vertical/
 - Description: Connector_JST : JST_XA_B07B-XASK-1_1x07_P2.50mm_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_XA_B07B-XASK-1_1x07_P2.50mm_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_XA_B07B-XASK-1_1x07_P2.50mm_Vertical)
 - Short Link: [http://oom.lt/FZKCNJSTJSTXAB7BXASK11X7P25F](http://oom.lt/FZKCNJSTJSTXAB7BXASK11X7P25F)

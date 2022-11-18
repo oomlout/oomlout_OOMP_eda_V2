@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-rcl-E30-10
 - Hex ID: FZERCLE31
 - Name: rcl : E30-10
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/rcl/E30-10/
 - Description: rcl : E30-10
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-E30-10](http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-E30-10)
 - Short Link: [http://oom.lt/FZERCLE31](http://oom.lt/FZERCLE31)

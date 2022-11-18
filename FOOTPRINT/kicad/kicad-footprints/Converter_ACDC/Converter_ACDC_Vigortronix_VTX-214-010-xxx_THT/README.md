@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Converter_ACDC-Converter_ACDC_Vigortronix_VTX-214-010-xxx_THT
 - Hex ID: FZKCONCONVIGORTRONIXVTX2141XXXTHT
 - Name: Converter_ACDC : Converter_ACDC_Vigortronix_VTX-214-010-xxx_THT
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Converter_ACDC/Converter_ACDC_Vigortronix_VTX-214-010-xxx_THT/
 - Description: Converter_ACDC : Converter_ACDC_Vigortronix_VTX-214-010-xxx_THT
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Converter_ACDC-Converter_ACDC_Vigortronix_VTX-214-010-xxx_THT](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Converter_ACDC-Converter_ACDC_Vigortronix_VTX-214-010-xxx_THT)
 - Short Link: [http://oom.lt/FZKCONCONVIGORTRONIXVTX2141XXXTHT](http://oom.lt/FZKCONCONVIGORTRONIXVTX2141XXXTHT)

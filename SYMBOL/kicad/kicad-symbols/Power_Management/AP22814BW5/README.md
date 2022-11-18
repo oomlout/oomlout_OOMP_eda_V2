@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Power_Management-AP22814BW5
 - Hex ID: SZKPOWERMANAGEMENTAP22814BW5
 - Name: Power_Management : AP22814BW5
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Power_Management/AP22814BW5/
 - Description: Power_Management : AP22814BW5
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-AP22814BW5](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-AP22814BW5)
 - Short Link: [http://oom.lt/SZKPOWERMANAGEMENTAP22814BW5](http://oom.lt/SZKPOWERMANAGEMENTAP22814BW5)

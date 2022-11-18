@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-rectifier-DFS
 - Hex ID: FZERECTIFIERDFS
 - Name: rectifier : DFS
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/rectifier/DFS/
 - Description: rectifier : DFS
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-rectifier-DFS](http://oom.lt/FOOTPRINT-eagle-eagle-default-rectifier-DFS)
 - Short Link: [http://oom.lt/FZERECTIFIERDFS](http://oom.lt/FZERECTIFIERDFS)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Axial_L30.0mm_D8.0mm_P7.62mm_Vertical_Fastron_77A
 - Hex ID: FZKINLAXIALL3D8P762FFASTRON77A
 - Name: Inductor_THT : L_Axial_L30.0mm_D8.0mm_P7.62mm_Vertical_Fastron_77A
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Axial_L30.0mm_D8.0mm_P7.62mm_Vertical_Fastron_77A/
 - Description: Inductor_THT : L_Axial_L30.0mm_D8.0mm_P7.62mm_Vertical_Fastron_77A
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Axial_L30.0mm_D8.0mm_P7.62mm_Vertical_Fastron_77A](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Axial_L30.0mm_D8.0mm_P7.62mm_Vertical_Fastron_77A)
 - Short Link: [http://oom.lt/FZKINLAXIALL3D8P762FFASTRON77A](http://oom.lt/FZKINLAXIALL3D8P762FFASTRON77A)

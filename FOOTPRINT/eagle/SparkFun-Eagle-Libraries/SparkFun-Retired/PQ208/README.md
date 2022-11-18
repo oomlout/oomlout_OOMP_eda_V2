@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-PQ208
 - Hex ID: FZSRTPQ28
 - Name: SparkFun-Retired : PQ208
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Retired/PQ208/
 - Description: SparkFun-Retired : PQ208
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-PQ208](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-PQ208)
 - Short Link: [http://oom.lt/FZSRTPQ28](http://oom.lt/FZSRTPQ28)

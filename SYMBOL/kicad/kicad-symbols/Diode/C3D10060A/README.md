@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-C3D10060A
 - Hex ID: SZKDIODEC3D16A
 - Name: Diode : C3D10060A
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/C3D10060A/
 - Description: Diode : C3D10060A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-C3D10060A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-C3D10060A)
 - Short Link: [http://oom.lt/SZKDIODEC3D16A](http://oom.lt/SZKDIODEC3D16A)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-USB_Mini_B_Female_690-005-299-043
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSUMBF69529943
 - Name: digikey-footprints : USB_Mini_B_Female_690-005-299-043
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/USB_Mini_B_Female_690-005-299-043/
 - Description: digikey-footprints : USB_Mini_B_Female_690-005-299-043
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-USB_Mini_B_Female_690-005-299-043](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-USB_Mini_B_Female_690-005-299-043)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSUMBF69529943](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSUMBF69529943)

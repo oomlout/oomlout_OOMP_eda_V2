@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-rcl-XC15B8
 - Hex ID: FZERCLXC15B8
 - Name: rcl : XC15B8
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/rcl/XC15B8/
 - Description: rcl : XC15B8
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-XC15B8](http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-XC15B8)
 - Short Link: [http://oom.lt/FZERCLXC15B8](http://oom.lt/FZERCLXC15B8)

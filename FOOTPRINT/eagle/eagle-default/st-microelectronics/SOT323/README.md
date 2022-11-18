@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-st-microelectronics-SOT323
 - Hex ID: FZESTMELECTRONICSSOT323
 - Name: st-microelectronics : SOT323
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/st-microelectronics/SOT323/
 - Description: st-microelectronics : SOT323
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-st-microelectronics-SOT323](http://oom.lt/FOOTPRINT-eagle-eagle-default-st-microelectronics-SOT323)
 - Short Link: [http://oom.lt/FZESTMELECTRONICSSOT323](http://oom.lt/FZESTMELECTRONICSSOT323)

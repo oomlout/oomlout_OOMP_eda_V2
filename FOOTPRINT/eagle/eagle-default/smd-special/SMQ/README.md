@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-smd-special-SMQ
 - Hex ID: FZESMSPECIALSMQ
 - Name: smd-special : SMQ
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/smd-special/SMQ/
 - Description: smd-special : SMQ
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-special-SMQ](http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-special-SMQ)
 - Short Link: [http://oom.lt/FZESMSPECIALSMQ](http://oom.lt/FZESMSPECIALSMQ)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-LED-APA102-2020-TEST
 - Hex ID: FZSLAPA1222TEST
 - Name: SparkFun-LED : APA102-2020-TEST
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-LED/APA102-2020-TEST/
 - Description: SparkFun-LED : APA102-2020-TEST
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-LED-APA102-2020-TEST](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-LED-APA102-2020-TEST)
 - Short Link: [http://oom.lt/FZSLAPA1222TEST](http://oom.lt/FZSLAPA1222TEST)

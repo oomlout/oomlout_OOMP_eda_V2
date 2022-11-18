@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Isolator-PC827
 - Hex ID: SZKISOLATORPC827
 - Name: Isolator : PC827
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Isolator/PC827/
 - Description: Isolator : PC827
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-PC827](http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-PC827)
 - Short Link: [http://oom.lt/SZKISOLATORPC827](http://oom.lt/SZKISOLATORPC827)

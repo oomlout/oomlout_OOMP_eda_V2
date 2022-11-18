@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-5X2_2MM
 - Hex ID: FZSSPARKFUNSENS5X22
 - Name: SparkFun-Sensors : 5X2_2MM
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Sensors/5X2_2MM/
 - Description: SparkFun-Sensors : 5X2_2MM
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-5X2_2MM](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-5X2_2MM)
 - Short Link: [http://oom.lt/FZSSPARKFUNSENS5X22](http://oom.lt/FZSSPARKFUNSENS5X22)

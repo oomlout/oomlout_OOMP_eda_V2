@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Reference_Voltage-REF01CS
 - Hex ID: SZKREFERENCEVOLTAGEREF1CS
 - Name: Reference_Voltage : REF01CS
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Reference_Voltage/REF01CS/
 - Description: Reference_Voltage : REF01CS
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Voltage-REF01CS](http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Voltage-REF01CS)
 - Short Link: [http://oom.lt/SZKREFERENCEVOLTAGEREF1CS](http://oom.lt/SZKREFERENCEVOLTAGEREF1CS)

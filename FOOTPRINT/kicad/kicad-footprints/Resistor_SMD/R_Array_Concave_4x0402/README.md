@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_Array_Concave_4x0402
 - Hex ID: FZKRRARRAYCONCAVE4X42
 - Name: Resistor_SMD : R_Array_Concave_4x0402
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_Array_Concave_4x0402/
 - Description: Resistor_SMD : R_Array_Concave_4x0402
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_Array_Concave_4x0402](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_Array_Concave_4x0402)
 - Short Link: [http://oom.lt/FZKRRARRAYCONCAVE4X42](http://oom.lt/FZKRRARRAYCONCAVE4X42)

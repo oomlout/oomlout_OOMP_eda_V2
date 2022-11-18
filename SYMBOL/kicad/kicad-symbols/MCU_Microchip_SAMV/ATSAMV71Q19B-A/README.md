@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_SAMV-ATSAMV71Q19B-A
 - Hex ID: SZKMCUMCHIPSAMVATSAMV71Q19BA
 - Name: MCU_Microchip_SAMV : ATSAMV71Q19B-A
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_SAMV/ATSAMV71Q19B-A/
 - Description: MCU_Microchip_SAMV : ATSAMV71Q19B-A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_SAMV-ATSAMV71Q19B-A](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_SAMV-ATSAMV71Q19B-A)
 - Short Link: [http://oom.lt/SZKMCUMCHIPSAMVATSAMV71Q19BA](http://oom.lt/SZKMCUMCHIPSAMVATSAMV71Q19BA)

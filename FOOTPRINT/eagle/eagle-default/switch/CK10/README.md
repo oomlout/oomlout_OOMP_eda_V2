@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-switch-CK10
 - Hex ID: FZESWCK1
 - Name: switch : CK10
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/switch/CK10/
 - Description: switch : CK10
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-CK10](http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-CK10)
 - Short Link: [http://oom.lt/FZESWCK1](http://oom.lt/FZESWCK1)

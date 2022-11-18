@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0402-X-NF100-V16-C4N10016
 - Hex ID: SZOOMPKOOMPPCAPC42XNF1V16C4N116
 - Name: oomlout_OOMP_parts : CAPC-0402-X-NF100-V16-C4N10016
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/CAPC-0402-X-NF100-V16-C4N10016/
 - Description: oomlout_OOMP_parts : CAPC-0402-X-NF100-V16-C4N10016
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0402-X-NF100-V16-C4N10016](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0402-X-NF100-V16-C4N10016)
 - Short Link: [http://oom.lt/SZOOMPKOOMPPCAPC42XNF1V16C4N116](http://oom.lt/SZOOMPKOOMPPCAPC42XNF1V16C4N116)

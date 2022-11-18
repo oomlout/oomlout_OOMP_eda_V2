@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-samtec-TSW-133-07-G-T
 - Hex ID: FZECONSAMTECTSW1337GT
 - Name: con-samtec : TSW-133-07-G-T
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-samtec/TSW-133-07-G-T/
 - Description: con-samtec : TSW-133-07-G-T
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-samtec-TSW-133-07-G-T](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-samtec-TSW-133-07-G-T)
 - Short Link: [http://oom.lt/FZECONSAMTECTSW1337GT](http://oom.lt/FZECONSAMTECTSW1337GT)

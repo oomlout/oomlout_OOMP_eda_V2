@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_Coaxial-CoaxialSwitch_Hirose_MS-156C3_Horizontal
 - Hex ID: FZKCNCOACOAXIALSWHIROSEMS156C3H
 - Name: Connector_Coaxial : CoaxialSwitch_Hirose_MS-156C3_Horizontal
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Coaxial/CoaxialSwitch_Hirose_MS-156C3_Horizontal/
 - Description: Connector_Coaxial : CoaxialSwitch_Hirose_MS-156C3_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Coaxial-CoaxialSwitch_Hirose_MS-156C3_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Coaxial-CoaxialSwitch_Hirose_MS-156C3_Horizontal)
 - Short Link: [http://oom.lt/FZKCNCOACOAXIALSWHIROSEMS156C3H](http://oom.lt/FZKCNCOACOAXIALSWHIROSEMS156C3H)

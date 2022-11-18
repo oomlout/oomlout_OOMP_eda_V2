@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Device-LED_BRAG
 - Hex ID: SZKDEVICELBRAG
 - Name: Device : LED_BRAG
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/LED_BRAG/
 - Description: Device : LED_BRAG
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-LED_BRAG](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-LED_BRAG)
 - Short Link: [http://oom.lt/SZKDEVICELBRAG](http://oom.lt/SZKDEVICELBRAG)

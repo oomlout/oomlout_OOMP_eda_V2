@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Device-LED_BRGA
 - Hex ID: SZKDEVICELBRGA
 - Name: Device : LED_BRGA
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/LED_BRGA/
 - Description: Device : LED_BRGA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-LED_BRGA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-LED_BRGA)
 - Short Link: [http://oom.lt/SZKDEVICELBRGA](http://oom.lt/SZKDEVICELBRGA)

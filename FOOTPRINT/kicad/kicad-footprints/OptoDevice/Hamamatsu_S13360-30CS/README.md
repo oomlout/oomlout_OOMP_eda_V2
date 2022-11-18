@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-OptoDevice-Hamamatsu_S13360-30CS
 - Hex ID: FZKOPHAMAMATSUS13363CS
 - Name: OptoDevice : Hamamatsu_S13360-30CS
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/OptoDevice/Hamamatsu_S13360-30CS/
 - Description: OptoDevice : Hamamatsu_S13360-30CS
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-OptoDevice-Hamamatsu_S13360-30CS](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-OptoDevice-Hamamatsu_S13360-30CS)
 - Short Link: [http://oom.lt/FZKOPHAMAMATSUS13363CS](http://oom.lt/FZKOPHAMAMATSUS13363CS)

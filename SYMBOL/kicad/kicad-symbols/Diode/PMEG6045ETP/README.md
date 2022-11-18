@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-PMEG6045ETP
 - Hex ID: SZKDIODEPMEG645ETP
 - Name: Diode : PMEG6045ETP
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/PMEG6045ETP/
 - Description: Diode : PMEG6045ETP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-PMEG6045ETP](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-PMEG6045ETP)
 - Short Link: [http://oom.lt/SZKDIODEPMEG645ETP](http://oom.lt/SZKDIODEPMEG645ETP)

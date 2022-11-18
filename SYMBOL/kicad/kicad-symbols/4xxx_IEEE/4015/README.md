@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-4xxx_IEEE-4015
 - Hex ID: SZK4XXXIEEE415
 - Name: 4xxx_IEEE : 4015
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/4xxx_IEEE/4015/
 - Description: 4xxx_IEEE : 4015
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-4xxx_IEEE-4015](http://oom.lt/SYMBOL-kicad-kicad-symbols-4xxx_IEEE-4015)
 - Short Link: [http://oom.lt/SZK4XXXIEEE415](http://oom.lt/SZK4XXXIEEE415)

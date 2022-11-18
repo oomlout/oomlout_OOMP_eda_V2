@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-TO-269AA
 - Hex ID: FZKSOTTO269AA
 - Name: Package_TO_SOT_SMD : TO-269AA
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/TO-269AA/
 - Description: Package_TO_SOT_SMD : TO-269AA
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-TO-269AA](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-TO-269AA)
 - Short Link: [http://oom.lt/FZKSOTTO269AA](http://oom.lt/FZKSOTTO269AA)

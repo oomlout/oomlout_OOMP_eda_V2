@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny44A-SS
 - Hex ID: SZKMCUMCHIPATTINYATTINY44ASS
 - Name: MCU_Microchip_ATtiny : ATtiny44A-SS
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_ATtiny/ATtiny44A-SS/
 - Description: MCU_Microchip_ATtiny : ATtiny44A-SS
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny44A-SS](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny44A-SS)
 - Short Link: [http://oom.lt/SZKMCUMCHIPATTINYATTINY44ASS](http://oom.lt/SZKMCUMCHIPATTINYATTINY44ASS)

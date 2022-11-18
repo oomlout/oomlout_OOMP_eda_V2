@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-power-VCCQ
 - Hex ID: SZKPOWERVCCQ
 - Name: power : VCCQ
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/power/VCCQ/
 - Description: power : VCCQ
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-power-VCCQ](http://oom.lt/SYMBOL-kicad-kicad-symbols-power-VCCQ)
 - Short Link: [http://oom.lt/SZKPOWERVCCQ](http://oom.lt/SZKPOWERVCCQ)

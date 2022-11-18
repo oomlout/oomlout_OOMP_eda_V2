@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Device-D_Dual_CommonCathode_AKA_Split
 - Hex ID: SZKDEVICEDDUALCOONCATHODEAKASPLIT
 - Name: Device : D_Dual_CommonCathode_AKA_Split
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/D_Dual_CommonCathode_AKA_Split/
 - Description: Device : D_Dual_CommonCathode_AKA_Split
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-D_Dual_CommonCathode_AKA_Split](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-D_Dual_CommonCathode_AKA_Split)
 - Short Link: [http://oom.lt/SZKDEVICEDDUALCOONCATHODEAKASPLIT](http://oom.lt/SZKDEVICEDDUALCOONCATHODEAKASPLIT)

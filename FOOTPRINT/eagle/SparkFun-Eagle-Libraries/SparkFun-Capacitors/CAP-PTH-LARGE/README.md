@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Capacitors-CAP-PTH-LARGE
 - Hex ID: FZSCCAPPL
 - Name: SparkFun-Capacitors : CAP-PTH-LARGE
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Capacitors/CAP-PTH-LARGE/
 - Description: SparkFun-Capacitors : CAP-PTH-LARGE
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Capacitors-CAP-PTH-LARGE](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Capacitors-CAP-PTH-LARGE)
 - Short Link: [http://oom.lt/FZSCCAPPL](http://oom.lt/FZSCCAPPL)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-MCL4448
 - Hex ID: SZKDIODEMCL4448
 - Name: Diode : MCL4448
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/MCL4448/
 - Description: Diode : MCL4448
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-MCL4448](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-MCL4448)
 - Short Link: [http://oom.lt/SZKDIODEMCL4448](http://oom.lt/SZKDIODEMCL4448)

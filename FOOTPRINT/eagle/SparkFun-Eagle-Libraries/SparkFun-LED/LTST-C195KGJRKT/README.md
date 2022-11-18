@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-LED-LTST-C195KGJRKT
 - Hex ID: FZSLLTSTC195KGJRKT
 - Name: SparkFun-LED : LTST-C195KGJRKT
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-LED/LTST-C195KGJRKT/
 - Description: SparkFun-LED : LTST-C195KGJRKT
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-LED-LTST-C195KGJRKT](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-LED-LTST-C195KGJRKT)
 - Short Link: [http://oom.lt/FZSLLTSTC195KGJRKT](http://oom.lt/FZSLLTSTC195KGJRKT)

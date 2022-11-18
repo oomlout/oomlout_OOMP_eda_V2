@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-BAT48ZFILM
 - Hex ID: SZKDIODEBAT48ZFILM
 - Name: Diode : BAT48ZFILM
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/BAT48ZFILM/
 - Description: Diode : BAT48ZFILM
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-BAT48ZFILM](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-BAT48ZFILM)
 - Short Link: [http://oom.lt/SZKDIODEBAT48ZFILM](http://oom.lt/SZKDIODEBAT48ZFILM)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_AVX_LMLP07A7
 - Hex ID: FZKINLAVXLMLP7A7
 - Name: Inductor_SMD : L_AVX_LMLP07A7
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_AVX_LMLP07A7/
 - Description: Inductor_SMD : L_AVX_LMLP07A7
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_AVX_LMLP07A7](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_AVX_LMLP07A7)
 - Short Link: [http://oom.lt/FZKINLAVXLMLP7A7](http://oom.lt/FZKINLAVXLMLP7A7)

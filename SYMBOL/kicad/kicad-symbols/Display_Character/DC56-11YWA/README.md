@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Display_Character-DC56-11YWA
 - Hex ID: SZKDICHARACTERDC5611YWA
 - Name: Display_Character : DC56-11YWA
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Display_Character/DC56-11YWA/
 - Description: Display_Character : DC56-11YWA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-DC56-11YWA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-DC56-11YWA)
 - Short Link: [http://oom.lt/SZKDICHARACTERDC5611YWA](http://oom.lt/SZKDICHARACTERDC5611YWA)

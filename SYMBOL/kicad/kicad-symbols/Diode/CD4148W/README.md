@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-CD4148W
 - Hex ID: SZKDIODECD4148W
 - Name: Diode : CD4148W
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/CD4148W/
 - Description: Diode : CD4148W
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-CD4148W](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-CD4148W)
 - Short Link: [http://oom.lt/SZKDIODECD4148W](http://oom.lt/SZKDIODECD4148W)

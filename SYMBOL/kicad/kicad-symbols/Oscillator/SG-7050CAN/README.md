@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Oscillator-SG-7050CAN
 - Hex ID: SZKOCSSG75CAN
 - Name: Oscillator : SG-7050CAN
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Oscillator/SG-7050CAN/
 - Description: Oscillator : SG-7050CAN
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Oscillator-SG-7050CAN](http://oom.lt/SYMBOL-kicad-kicad-symbols-Oscillator-SG-7050CAN)
 - Short Link: [http://oom.lt/SZKOCSSG75CAN](http://oom.lt/SZKOCSSG75CAN)

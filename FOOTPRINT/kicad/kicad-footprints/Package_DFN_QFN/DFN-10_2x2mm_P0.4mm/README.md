@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-DFN-10_2x2mm_P0.4mm
 - Hex ID: FZKDFNDFN12X2P4
 - Name: Package_DFN_QFN : DFN-10_2x2mm_P0.4mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/DFN-10_2x2mm_P0.4mm/
 - Description: Package_DFN_QFN : DFN-10_2x2mm_P0.4mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-DFN-10_2x2mm_P0.4mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-DFN-10_2x2mm_P0.4mm)
 - Short Link: [http://oom.lt/FZKDFNDFN12X2P4](http://oom.lt/FZKDFNDFN12X2P4)

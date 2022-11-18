@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-micro-siemens-DIL18
 - Hex ID: FZEMSIEMENSDIL18
 - Name: micro-siemens : DIL18
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/micro-siemens/DIL18/
 - Description: micro-siemens : DIL18
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-siemens-DIL18](http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-siemens-DIL18)
 - Short Link: [http://oom.lt/FZEMSIEMENSDIL18](http://oom.lt/FZEMSIEMENSDIL18)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-con-yamaichi-FPS009-3000
 - Hex ID: FZECONYAMAICHIFPS93
 - Name: con-yamaichi : FPS009-3000
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-yamaichi/FPS009-3000/
 - Description: con-yamaichi : FPS009-3000
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-yamaichi-FPS009-3000](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-yamaichi-FPS009-3000)
 - Short Link: [http://oom.lt/FZECONYAMAICHIFPS93](http://oom.lt/FZECONYAMAICHIFPS93)

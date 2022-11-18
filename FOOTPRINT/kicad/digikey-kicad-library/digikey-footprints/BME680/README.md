@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-BME680
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSBME68
 - Name: digikey-footprints : BME680
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/BME680/
 - Description: digikey-footprints : BME680
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-BME680](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-BME680)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSBME68](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSBME68)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_Telecom-FX614
 - Hex ID: SZKINTERFACETELECOMFX614
 - Name: Interface_Telecom : FX614
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_Telecom/FX614/
 - Description: Interface_Telecom : FX614
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Telecom-FX614](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Telecom-FX614)
 - Short Link: [http://oom.lt/SZKINTERFACETELECOMFX614](http://oom.lt/SZKINTERFACETELECOMFX614)

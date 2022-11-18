@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Buzzard-SCL_IO
 - Hex ID: FZSBUSCLIO
 - Name: SparkFun-Buzzard : SCL_IO
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Buzzard/SCL_IO/
 - Description: SparkFun-Buzzard : SCL_IO
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Buzzard-SCL_IO](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Buzzard-SCL_IO)
 - Short Link: [http://oom.lt/FZSBUSCLIO](http://oom.lt/FZSBUSCLIO)

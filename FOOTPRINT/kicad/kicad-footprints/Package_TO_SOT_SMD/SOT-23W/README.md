@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-23W
 - Hex ID: FZKSOTSOT23W
 - Name: Package_TO_SOT_SMD : SOT-23W
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/SOT-23W/
 - Description: Package_TO_SOT_SMD : SOT-23W
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-23W](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-23W)
 - Short Link: [http://oom.lt/FZKSOTSOT23W](http://oom.lt/FZKSOTSOT23W)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-2X14-SMT
 - Hex ID: FZA2X14S
 - Name: adafruit : 2X14-SMT
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/2X14-SMT/
 - Description: adafruit : 2X14-SMT
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-2X14-SMT](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-2X14-SMT)
 - Short Link: [http://oom.lt/FZA2X14S](http://oom.lt/FZA2X14S)

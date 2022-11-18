@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Power_Supervisor-MC34064SN
 - Hex ID: SZKPOWERSUPERVISORMC3464SN
 - Name: Power_Supervisor : MC34064SN
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Power_Supervisor/MC34064SN/
 - Description: Power_Supervisor : MC34064SN
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Supervisor-MC34064SN](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Supervisor-MC34064SN)
 - Short Link: [http://oom.lt/SZKPOWERSUPERVISORMC3464SN](http://oom.lt/SZKPOWERSUPERVISORMC3464SN)

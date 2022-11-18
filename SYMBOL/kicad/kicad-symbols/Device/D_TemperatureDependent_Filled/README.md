@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Device-D_TemperatureDependent_Filled
 - Hex ID: SZKDEVICEDTEMPERATUREDEPENDENTFILL
 - Name: Device : D_TemperatureDependent_Filled
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/D_TemperatureDependent_Filled/
 - Description: Device : D_TemperatureDependent_Filled
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-D_TemperatureDependent_Filled](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-D_TemperatureDependent_Filled)
 - Short Link: [http://oom.lt/SZKDEVICEDTEMPERATUREDEPENDENTFILL](http://oom.lt/SZKDEVICEDTEMPERATUREDEPENDENTFILL)

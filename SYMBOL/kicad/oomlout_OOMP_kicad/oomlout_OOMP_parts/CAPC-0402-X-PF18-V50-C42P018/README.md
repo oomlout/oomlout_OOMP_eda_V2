@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0402-X-PF18-V50-C42P018
 - Hex ID: SZOOMPKOOMPPCAPC42XPF18V5C42P18
 - Name: oomlout_OOMP_parts : CAPC-0402-X-PF18-V50-C42P018
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/CAPC-0402-X-PF18-V50-C42P018/
 - Description: oomlout_OOMP_parts : CAPC-0402-X-PF18-V50-C42P018
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0402-X-PF18-V50-C42P018](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0402-X-PF18-V50-C42P018)
 - Short Link: [http://oom.lt/SZOOMPKOOMPPCAPC42XPF18V5C42P18](http://oom.lt/SZOOMPKOOMPPCAPC42XPF18V5C42P18)

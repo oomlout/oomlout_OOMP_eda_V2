@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Boards-TEENSY_TEENSY-3.2-PTH
 - Hex ID: FZSBOTEENSYTEENSY32P
 - Name: SparkFun-Boards : TEENSY_TEENSY-3.2-PTH
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Boards/TEENSY_TEENSY-3.2-PTH/
 - Description: SparkFun-Boards : TEENSY_TEENSY-3.2-PTH
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Boards-TEENSY_TEENSY-3.2-PTH](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Boards-TEENSY_TEENSY-3.2-PTH)
 - Short Link: [http://oom.lt/FZSBOTEENSYTEENSY32P](http://oom.lt/FZSBOTEENSYTEENSY32P)

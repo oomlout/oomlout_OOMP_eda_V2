@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-1206-X-UF10-V25-C1U10
 - Hex ID: SZOOMPKOOMPPCAPC126XUF1V25C1U1
 - Name: oomlout_OOMP_parts : CAPC-1206-X-UF10-V25-C1U10
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/CAPC-1206-X-UF10-V25-C1U10/
 - Description: oomlout_OOMP_parts : CAPC-1206-X-UF10-V25-C1U10
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-1206-X-UF10-V25-C1U10](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-1206-X-UF10-V25-C1U10)
 - Short Link: [http://oom.lt/SZOOMPKOOMPPCAPC126XUF1V25C1U1](http://oom.lt/SZOOMPKOOMPPCAPC126XUF1V25C1U1)

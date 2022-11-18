@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Motor-Motor_Servo_Hitec
 - Hex ID: SZKMOTORMOTORSERVOHITEC
 - Name: Motor : Motor_Servo_Hitec
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Motor/Motor_Servo_Hitec/
 - Description: Motor : Motor_Servo_Hitec
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Motor-Motor_Servo_Hitec](http://oom.lt/SYMBOL-kicad-kicad-symbols-Motor-Motor_Servo_Hitec)
 - Short Link: [http://oom.lt/SZKMOTORMOTORSERVOHITEC](http://oom.lt/SZKMOTORMOTORSERVOHITEC)

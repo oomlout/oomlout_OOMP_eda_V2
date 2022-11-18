@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-power-VCC
 - Hex ID: SZKPOWERVCC
 - Name: power : VCC
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/power/VCC/
 - Description: power : VCC
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-power-VCC](http://oom.lt/SYMBOL-kicad-kicad-symbols-power-VCC)
 - Short Link: [http://oom.lt/SZKPOWERVCC](http://oom.lt/SZKPOWERVCC)

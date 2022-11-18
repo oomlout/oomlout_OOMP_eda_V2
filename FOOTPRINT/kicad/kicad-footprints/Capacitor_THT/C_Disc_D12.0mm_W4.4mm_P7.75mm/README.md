@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Capacitor_THT-C_Disc_D12.0mm_W4.4mm_P7.75mm
 - Hex ID: FZKCCDISCD12W44P775
 - Name: Capacitor_THT : C_Disc_D12.0mm_W4.4mm_P7.75mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Capacitor_THT/C_Disc_D12.0mm_W4.4mm_P7.75mm/
 - Description: Capacitor_THT : C_Disc_D12.0mm_W4.4mm_P7.75mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_THT-C_Disc_D12.0mm_W4.4mm_P7.75mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_THT-C_Disc_D12.0mm_W4.4mm_P7.75mm)
 - Short Link: [http://oom.lt/FZKCCDISCD12W44P775](http://oom.lt/FZKCCDISCD12W44P775)

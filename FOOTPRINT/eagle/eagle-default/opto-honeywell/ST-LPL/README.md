@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-opto-honeywell-ST-LPL
 - Hex ID: FZEOPTOHONEYWELLSTLPL
 - Name: opto-honeywell : ST-LPL
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/opto-honeywell/ST-LPL/
 - Description: opto-honeywell : ST-LPL
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-opto-honeywell-ST-LPL](http://oom.lt/FOOTPRINT-eagle-eagle-default-opto-honeywell-ST-LPL)
 - Short Link: [http://oom.lt/FZEOPTOHONEYWELLSTLPL](http://oom.lt/FZEOPTOHONEYWELLSTLPL)

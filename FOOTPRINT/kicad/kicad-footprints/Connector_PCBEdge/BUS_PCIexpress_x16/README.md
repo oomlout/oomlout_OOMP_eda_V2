@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKCNPCBEDGEBUSPCIEXPRESSX16 > Connector_PCBEdge : BUS_PCIexpress_x16](#fzkcnpcbedgebuspciexpressx16--connector_pcbedge--bus_pciexpress_x16)
+* [FZKCNPEBUSPCIEXPRESSX16 > Connector_PCBEdge : BUS_PCIexpress_x16](#fzkcnpebuspciexpressx16--connector_pcbedge--bus_pciexpress_x16)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKCNPCBEDGEBUSPCIEXPRESSX16 > Connector_PCBEdge : BUS_PCIexpress_x16
+# FZKCNPEBUSPCIEXPRESSX16 > Connector_PCBEdge : BUS_PCIexpress_x16
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_PCBEdge-BUS_PCIexpress_x16
-- Hex ID: FZKCNPCBEDGEBUSPCIEXPRESSX16
+- Hex ID: FZKCNPEBUSPCIEXPRESSX16
 - Name: Connector_PCBEdge : BUS_PCIexpress_x16
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_PCBEdge/BUS_PCIexpress_x16/
 - Description: Connector_PCBEdge : BUS_PCIexpress_x16
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_PCBEdge-BUS_PCIexpress_x16](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_PCBEdge-BUS_PCIexpress_x16)
-- Short Link: [http://oom.lt/FZKCNPCBEDGEBUSPCIEXPRESSX16](http://oom.lt/FZKCNPCBEDGEBUSPCIEXPRESSX16)
+- Short Link: [http://oom.lt/FZKCNPEBUSPCIEXPRESSX16](http://oom.lt/FZKCNPEBUSPCIEXPRESSX16)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Connector_PCBEdge|
 |OOMP Index|oompIndex|BUS_PCIexpress_x16|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_PCBEdge-BUS_PCIexpress_x16|
-|Hex ID (short code)|hexID|FZKCNPCBEDGEBUSPCIEXPRESSX16|
+|Hex ID (short code)|hexID|FZKCNPEBUSPCIEXPRESSX16|
 |name|name|Connector_PCBEdge : BUS_PCIexpress_x16|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'BUS_PCIexpress_x16'</td><td> 'description'</td></tr><tr><td> 'PCIexpress Bus Edge Connector x1 http</td></tr><tr><td>//www.ritrontek.com/uploadfile/2016/1026/20161026105231124.pdf#page=70'</td><td> 'tags'</td></tr><tr><td> 'PCIe'</td><td> 'attributeType'</td></tr><tr><td> None</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'connect'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

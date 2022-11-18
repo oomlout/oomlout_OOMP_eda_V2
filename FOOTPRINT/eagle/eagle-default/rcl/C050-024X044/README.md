@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-rcl-C050-024X044
 - Hex ID: FZERCLC524X44
 - Name: rcl : C050-024X044
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/rcl/C050-024X044/
 - Description: rcl : C050-024X044
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-C050-024X044](http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-C050-024X044)
 - Short Link: [http://oom.lt/FZERCLC524X44](http://oom.lt/FZERCLC524X44)

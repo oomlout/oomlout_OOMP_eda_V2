@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-I01-L-PI08-01-H08L
 - Hex ID: FZOOMPKOOMPPHEADI1LPI81H8L
 - Name: oomlout_OOMP_parts : HEAD-I01-L-PI08-01-H08L
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/HEAD-I01-L-PI08-01-H08L/
 - Description: oomlout_OOMP_parts : HEAD-I01-L-PI08-01-H08L
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-I01-L-PI08-01-H08L](http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-I01-L-PI08-01-H08L)
 - Short Link: [http://oom.lt/FZOOMPKOOMPPHEADI1LPI81H8L](http://oom.lt/FZOOMPKOOMPPHEADI1LPI81H8L)

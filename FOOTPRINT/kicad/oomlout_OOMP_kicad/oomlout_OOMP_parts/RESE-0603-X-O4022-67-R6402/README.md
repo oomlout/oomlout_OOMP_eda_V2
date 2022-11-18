@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O4022-67-R6402
 - Hex ID: FZOOMPKOOMPPRESE63XO42267R642
 - Name: oomlout_OOMP_parts : RESE-0603-X-O4022-67-R6402
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/RESE-0603-X-O4022-67-R6402/
 - Description: oomlout_OOMP_parts : RESE-0603-X-O4022-67-R6402
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O4022-67-R6402](http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O4022-67-R6402)
 - Short Link: [http://oom.lt/FZOOMPKOOMPPRESE63XO42267R642](http://oom.lt/FZOOMPKOOMPPRESE63XO42267R642)

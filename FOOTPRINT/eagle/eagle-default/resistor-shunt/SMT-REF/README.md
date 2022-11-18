@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-resistor-shunt-SMT-REF
 - Hex ID: FZERESISTORSHUNTSREF
 - Name: resistor-shunt : SMT-REF
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/resistor-shunt/SMT-REF/
 - Description: resistor-shunt : SMT-REF
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-resistor-shunt-SMT-REF](http://oom.lt/FOOTPRINT-eagle-eagle-default-resistor-shunt-SMT-REF)
 - Short Link: [http://oom.lt/FZERESISTORSHUNTSREF](http://oom.lt/FZERESISTORSHUNTSREF)

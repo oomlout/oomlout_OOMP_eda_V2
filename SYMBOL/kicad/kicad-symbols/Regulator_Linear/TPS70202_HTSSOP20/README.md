@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-TPS70202_HTSSOP20
 - Hex ID: SZKREGULATORLINEARTPS722HTSS2
 - Name: Regulator_Linear : TPS70202_HTSSOP20
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/TPS70202_HTSSOP20/
 - Description: Regulator_Linear : TPS70202_HTSSOP20
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-TPS70202_HTSSOP20](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-TPS70202_HTSSOP20)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARTPS722HTSS2](http://oom.lt/SZKREGULATORLINEARTPS722HTSS2)

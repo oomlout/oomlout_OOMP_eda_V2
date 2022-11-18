@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-logo-FCC_20X8.35MM
 - Hex ID: FZELFCC2X835
 - Name: logo : FCC_20X8.35MM
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/logo/FCC_20X8.35MM/
 - Description: logo : FCC_20X8.35MM
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-logo-FCC_20X8.35MM](http://oom.lt/FOOTPRINT-eagle-eagle-default-logo-FCC_20X8.35MM)
 - Short Link: [http://oom.lt/FZELFCC2X835](http://oom.lt/FZELFCC2X835)

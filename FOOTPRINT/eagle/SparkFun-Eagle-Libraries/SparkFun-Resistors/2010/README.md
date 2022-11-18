@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Resistors-2010
 - Hex ID: FZSR21
 - Name: SparkFun-Resistors : 2010
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Resistors/2010/
 - Description: SparkFun-Resistors : 2010
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Resistors-2010](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Resistors-2010)
 - Short Link: [http://oom.lt/FZSR21](http://oom.lt/FZSR21)

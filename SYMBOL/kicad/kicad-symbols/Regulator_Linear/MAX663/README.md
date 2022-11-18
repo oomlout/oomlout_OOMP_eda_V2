@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-MAX663
 - Hex ID: SZKREGULATORLINEARMAX663
 - Name: Regulator_Linear : MAX663
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/MAX663/
 - Description: Regulator_Linear : MAX663
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-MAX663](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-MAX663)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARMAX663](http://oom.lt/SZKREGULATORLINEARMAX663)

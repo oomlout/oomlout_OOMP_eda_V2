@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_SO-TSSOP-24-1EP_4.4x7.8mm_P0.65mm_EP3.2x5mm
 - Hex ID: FZKSOTSS241EP44X78P65EP32X5
 - Name: Package_SO : TSSOP-24-1EP_4.4x7.8mm_P0.65mm_EP3.2x5mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SO/TSSOP-24-1EP_4.4x7.8mm_P0.65mm_EP3.2x5mm/
 - Description: Package_SO : TSSOP-24-1EP_4.4x7.8mm_P0.65mm_EP3.2x5mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SO-TSSOP-24-1EP_4.4x7.8mm_P0.65mm_EP3.2x5mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SO-TSSOP-24-1EP_4.4x7.8mm_P0.65mm_EP3.2x5mm)
 - Short Link: [http://oom.lt/FZKSOTSS241EP44X78P65EP32X5](http://oom.lt/FZKSOTSS241EP44X78P65EP32X5)

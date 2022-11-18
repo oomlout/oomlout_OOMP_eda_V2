@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_SO-PowerIntegrations_eSOP-12B
 - Hex ID: FZKSOPOWERINTEGRATIONSES12B
 - Name: Package_SO : PowerIntegrations_eSOP-12B
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SO/PowerIntegrations_eSOP-12B/
 - Description: Package_SO : PowerIntegrations_eSOP-12B
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SO-PowerIntegrations_eSOP-12B](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SO-PowerIntegrations_eSOP-12B)
 - Short Link: [http://oom.lt/FZKSOPOWERINTEGRATIONSES12B](http://oom.lt/FZKSOPOWERINTEGRATIONSES12B)

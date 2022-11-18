@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-BATTCON_24.5MM
 - Hex ID: FZSRTBC245
 - Name: SparkFun-Retired : BATTCON_24.5MM
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Retired/BATTCON_24.5MM/
 - Description: SparkFun-Retired : BATTCON_24.5MM
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-BATTCON_24.5MM](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-BATTCON_24.5MM)
 - Short Link: [http://oom.lt/FZSRTBC245](http://oom.lt/FZSRTBC245)

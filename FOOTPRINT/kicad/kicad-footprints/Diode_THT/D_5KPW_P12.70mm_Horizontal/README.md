@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Diode_THT-D_5KPW_P12.70mm_Horizontal
 - Hex ID: FZKDD5KPWP127H
 - Name: Diode_THT : D_5KPW_P12.70mm_Horizontal
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Diode_THT/D_5KPW_P12.70mm_Horizontal/
 - Description: Diode_THT : D_5KPW_P12.70mm_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Diode_THT-D_5KPW_P12.70mm_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Diode_THT-D_5KPW_P12.70mm_Horizontal)
 - Short Link: [http://oom.lt/FZKDD5KPWP127H](http://oom.lt/FZKDD5KPWP127H)

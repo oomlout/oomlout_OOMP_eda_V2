@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-OPA2197xDGK
 - Hex ID: SZKAMPLIFIEROPERATIONALOPA2197XDGK
 - Name: Amplifier_Operational : OPA2197xDGK
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/OPA2197xDGK/
 - Description: Amplifier_Operational : OPA2197xDGK
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-OPA2197xDGK](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-OPA2197xDGK)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALOPA2197XDGK](http://oom.lt/SZKAMPLIFIEROPERATIONALOPA2197XDGK)

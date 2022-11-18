@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_Shunt_Ohmite_LVK24
 - Hex ID: FZKRRSHUNTOHMITELVK24
 - Name: Resistor_SMD : R_Shunt_Ohmite_LVK24
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_Shunt_Ohmite_LVK24/
 - Description: Resistor_SMD : R_Shunt_Ohmite_LVK24
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_Shunt_Ohmite_LVK24](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_Shunt_Ohmite_LVK24)
 - Short Link: [http://oom.lt/FZKRRSHUNTOHMITELVK24](http://oom.lt/FZKRRSHUNTOHMITELVK24)

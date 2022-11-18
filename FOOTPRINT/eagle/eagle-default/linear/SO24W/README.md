@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-linear-SO24W
 - Hex ID: FZELINEARSO24W
 - Name: linear : SO24W
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/linear/SO24W/
 - Description: linear : SO24W
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-linear-SO24W](http://oom.lt/FOOTPRINT-eagle-eagle-default-linear-SO24W)
 - Short Link: [http://oom.lt/FZELINEARSO24W](http://oom.lt/FZELINEARSO24W)

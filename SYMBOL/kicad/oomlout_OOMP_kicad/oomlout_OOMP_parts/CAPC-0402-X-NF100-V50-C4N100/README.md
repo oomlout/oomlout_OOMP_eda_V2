@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0402-X-NF100-V50-C4N100
 - Hex ID: SZOOMPKOOMPPCAPC42XNF1V5C4N1
 - Name: oomlout_OOMP_parts : CAPC-0402-X-NF100-V50-C4N100
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/CAPC-0402-X-NF100-V50-C4N100/
 - Description: oomlout_OOMP_parts : CAPC-0402-X-NF100-V50-C4N100
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0402-X-NF100-V50-C4N100](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0402-X-NF100-V50-C4N100)
 - Short Link: [http://oom.lt/SZOOMPKOOMPPCAPC42XNF1V5C4N1](http://oom.lt/SZOOMPKOOMPPCAPC42XNF1V5C4N1)

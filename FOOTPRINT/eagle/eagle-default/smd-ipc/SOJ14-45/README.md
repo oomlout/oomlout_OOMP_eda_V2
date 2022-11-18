@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-smd-ipc-SOJ14-45
 - Hex ID: FZESMIPCSOJ1445
 - Name: smd-ipc : SOJ14-45
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/smd-ipc/SOJ14-45/
 - Description: smd-ipc : SOJ14-45
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-SOJ14-45](http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-SOJ14-45)
 - Short Link: [http://oom.lt/FZESMIPCSOJ1445](http://oom.lt/FZESMIPCSOJ1445)

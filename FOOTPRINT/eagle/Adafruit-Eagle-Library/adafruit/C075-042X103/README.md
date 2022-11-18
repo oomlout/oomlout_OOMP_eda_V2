@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-C075-042X103
 - Hex ID: FZAC7542X13
 - Name: adafruit : C075-042X103
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/C075-042X103/
 - Description: adafruit : C075-042X103
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-C075-042X103](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-C075-042X103)
 - Short Link: [http://oom.lt/FZAC7542X13](http://oom.lt/FZAC7542X13)

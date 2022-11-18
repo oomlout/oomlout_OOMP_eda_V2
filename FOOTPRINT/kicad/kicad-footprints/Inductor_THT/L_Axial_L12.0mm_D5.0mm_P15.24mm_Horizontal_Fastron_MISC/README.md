@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Axial_L12.0mm_D5.0mm_P15.24mm_Horizontal_Fastron_MISC
 - Hex ID: FZKINLAXIALL12D5P1524HFASTRONMISC
 - Name: Inductor_THT : L_Axial_L12.0mm_D5.0mm_P15.24mm_Horizontal_Fastron_MISC
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Axial_L12.0mm_D5.0mm_P15.24mm_Horizontal_Fastron_MISC/
 - Description: Inductor_THT : L_Axial_L12.0mm_D5.0mm_P15.24mm_Horizontal_Fastron_MISC
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Axial_L12.0mm_D5.0mm_P15.24mm_Horizontal_Fastron_MISC](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Axial_L12.0mm_D5.0mm_P15.24mm_Horizontal_Fastron_MISC)
 - Short Link: [http://oom.lt/FZKINLAXIALL12D5P1524HFASTRONMISC](http://oom.lt/FZKINLAXIALL12D5P1524HFASTRONMISC)

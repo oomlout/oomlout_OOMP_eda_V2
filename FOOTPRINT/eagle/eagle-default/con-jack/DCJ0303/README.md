@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-jack-DCJ0303
 - Hex ID: FZECONJDCJ33
 - Name: con-jack : DCJ0303
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-jack/DCJ0303/
 - Description: con-jack : DCJ0303
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-jack-DCJ0303](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-jack-DCJ0303)
 - Short Link: [http://oom.lt/FZECONJDCJ33](http://oom.lt/FZECONJDCJ33)

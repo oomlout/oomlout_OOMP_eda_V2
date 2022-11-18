@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-uln-udn-DIL16
 - Hex ID: FZEULNUDNDIL16
 - Name: uln-udn : DIL16
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/uln-udn/DIL16/
 - Description: uln-udn : DIL16
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-uln-udn-DIL16](http://oom.lt/FOOTPRINT-eagle-eagle-default-uln-udn-DIL16)
 - Short Link: [http://oom.lt/FZEULNUDNDIL16](http://oom.lt/FZEULNUDNDIL16)

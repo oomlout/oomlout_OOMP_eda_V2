@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-power-+15V
 - Hex ID: SZKPOWER+15V
 - Name: power : +15V
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/power/+15V/
 - Description: power : +15V
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-power-+15V](http://oom.lt/SYMBOL-kicad-kicad-symbols-power-+15V)
 - Short Link: [http://oom.lt/SZKPOWER+15V](http://oom.lt/SZKPOWER+15V)

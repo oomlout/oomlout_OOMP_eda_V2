@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_THT_Wurth-L_Wurth_WE-HCFT-2504
 - Hex ID: FZKINWURTHLWURTHWEHCFT254
 - Name: Inductor_THT_Wurth : L_Wurth_WE-HCFT-2504
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_THT_Wurth/L_Wurth_WE-HCFT-2504/
 - Description: Inductor_THT_Wurth : L_Wurth_WE-HCFT-2504
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_THT_Wurth-L_Wurth_WE-HCFT-2504](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_THT_Wurth-L_Wurth_WE-HCFT-2504)
 - Short Link: [http://oom.lt/FZKINWURTHLWURTHWEHCFT254](http://oom.lt/FZKINWURTHLWURTHWEHCFT254)

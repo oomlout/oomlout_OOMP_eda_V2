@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0201_0603Metric
 - Hex ID: FZKRR2163VA
 - Name: Resistor_SMD : R_0201_0603Metric
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_0201_0603Metric/
 - Description: Resistor_SMD : R_0201_0603Metric
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0201_0603Metric](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0201_0603Metric)
 - Short Link: [http://oom.lt/FZKRR2163VA](http://oom.lt/FZKRR2163VA)

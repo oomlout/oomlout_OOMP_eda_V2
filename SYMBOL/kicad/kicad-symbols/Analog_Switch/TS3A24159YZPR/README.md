@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Analog_Switch-TS3A24159YZPR
 - Hex ID: SZKANALOGSWTS3A24159YZPR
 - Name: Analog_Switch : TS3A24159YZPR
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog_Switch/TS3A24159YZPR/
 - Description: Analog_Switch : TS3A24159YZPR
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_Switch-TS3A24159YZPR](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_Switch-TS3A24159YZPR)
 - Short Link: [http://oom.lt/SZKANALOGSWTS3A24159YZPR](http://oom.lt/SZKANALOGSWTS3A24159YZPR)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Connector-Bus_PCI_32bit_Universal
 - Hex ID: SZKCNBUSPCI32BITUNIVERSAL
 - Name: Connector : Bus_PCI_32bit_Universal
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector/Bus_PCI_32bit_Universal/
 - Description: Connector : Bus_PCI_32bit_Universal
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-Bus_PCI_32bit_Universal](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-Bus_PCI_32bit_Universal)
 - Short Link: [http://oom.lt/SZKCNBUSPCI32BITUNIVERSAL](http://oom.lt/SZKCNBUSPCI32BITUNIVERSAL)

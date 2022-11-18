@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-smd-ipc-R0402
 - Hex ID: FZESMIPCR42
 - Name: smd-ipc : R0402
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/smd-ipc/R0402/
 - Description: smd-ipc : R0402
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-R0402](http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-R0402)
 - Short Link: [http://oom.lt/FZESMIPCR42](http://oom.lt/FZESMIPCR42)

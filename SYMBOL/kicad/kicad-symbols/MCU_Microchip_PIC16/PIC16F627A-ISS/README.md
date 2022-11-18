@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F627A-ISS
 - Hex ID: SZKMCUMCHIPPIC16PIC16F627AISS
 - Name: MCU_Microchip_PIC16 : PIC16F627A-ISS
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC16/PIC16F627A-ISS/
 - Description: MCU_Microchip_PIC16 : PIC16F627A-ISS
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F627A-ISS](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F627A-ISS)
 - Short Link: [http://oom.lt/SZKMCUMCHIPPIC16PIC16F627AISS](http://oom.lt/SZKMCUMCHIPPIC16PIC16F627AISS)

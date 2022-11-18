@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-trafo-FT04-10
 - Hex ID: FZETRAFOFT41
 - Name: trafo : FT04-10
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/trafo/FT04-10/
 - Description: trafo : FT04-10
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-trafo-FT04-10](http://oom.lt/FOOTPRINT-eagle-eagle-default-trafo-FT04-10)
 - Short Link: [http://oom.lt/FZETRAFOFT41](http://oom.lt/FZETRAFOFT41)

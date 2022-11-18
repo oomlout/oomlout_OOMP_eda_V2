@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_J2100_S08B-J21DK-GGXR_2x04_P2.50mm_Horizontal
 - Hex ID: FZKCNJSTJSTJ21S8BJ21DKGGXR2X4P25H
 - Name: Connector_JST : JST_J2100_S08B-J21DK-GGXR_2x04_P2.50mm_Horizontal
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_J2100_S08B-J21DK-GGXR_2x04_P2.50mm_Horizontal/
 - Description: Connector_JST : JST_J2100_S08B-J21DK-GGXR_2x04_P2.50mm_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_J2100_S08B-J21DK-GGXR_2x04_P2.50mm_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_J2100_S08B-J21DK-GGXR_2x04_P2.50mm_Horizontal)
 - Short Link: [http://oom.lt/FZKCNJSTJSTJ21S8BJ21DKGGXR2X4P25H](http://oom.lt/FZKCNJSTJSTJ21S8BJ21DKGGXR2X4P25H)

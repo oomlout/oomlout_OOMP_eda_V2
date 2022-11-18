@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-switch-misc-STKL
 - Hex ID: FZESWMISCSTKL
 - Name: switch-misc : STKL
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/switch-misc/STKL/
 - Description: switch-misc : STKL
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-misc-STKL](http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-misc-STKL)
 - Short Link: [http://oom.lt/FZESWMISCSTKL](http://oom.lt/FZESWMISCSTKL)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Potentiometer_THT-Potentiometer_Vishay_T7-YA_Single_Vertical
 - Hex ID: FZKPPOTVISHAYT7YASINGLEF
 - Name: Potentiometer_THT : Potentiometer_Vishay_T7-YA_Single_Vertical
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Potentiometer_THT/Potentiometer_Vishay_T7-YA_Single_Vertical/
 - Description: Potentiometer_THT : Potentiometer_Vishay_T7-YA_Single_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Potentiometer_THT-Potentiometer_Vishay_T7-YA_Single_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Potentiometer_THT-Potentiometer_Vishay_T7-YA_Single_Vertical)
 - Short Link: [http://oom.lt/FZKPPOTVISHAYT7YASINGLEF](http://oom.lt/FZKPPOTVISHAYT7YASINGLEF)

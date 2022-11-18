@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-fairchild-semic-FSBB30CH60
 - Hex ID: FZEFAIRCHILDSEMICFSBB3CH6
 - Name: fairchild-semic : FSBB30CH60
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/fairchild-semic/FSBB30CH60/
 - Description: fairchild-semic : FSBB30CH60
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-fairchild-semic-FSBB30CH60](http://oom.lt/FOOTPRINT-eagle-eagle-default-fairchild-semic-FSBB30CH60)
 - Short Link: [http://oom.lt/FZEFAIRCHILDSEMICFSBB3CH6](http://oom.lt/FZEFAIRCHILDSEMICFSBB3CH6)

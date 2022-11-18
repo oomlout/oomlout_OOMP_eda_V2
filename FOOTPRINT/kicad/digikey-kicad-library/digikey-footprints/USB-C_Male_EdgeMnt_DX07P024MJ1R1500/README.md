@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-USB-C_Male_EdgeMnt_DX07P024MJ1R1500
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSUCMALEEDGEMNTDX7P24MJ1R15
 - Name: digikey-footprints : USB-C_Male_EdgeMnt_DX07P024MJ1R1500
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/USB-C_Male_EdgeMnt_DX07P024MJ1R1500/
 - Description: digikey-footprints : USB-C_Male_EdgeMnt_DX07P024MJ1R1500
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-USB-C_Male_EdgeMnt_DX07P024MJ1R1500](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-USB-C_Male_EdgeMnt_DX07P024MJ1R1500)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSUCMALEEDGEMNTDX7P24MJ1R15](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSUCMALEEDGEMNTDX7P24MJ1R15)

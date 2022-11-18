@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Transformer_THT-Transformer_Microphone_Lundahl_LL1587
 - Hex ID: FZKTRTRMPHONELUNDAHLLL1587
 - Name: Transformer_THT : Transformer_Microphone_Lundahl_LL1587
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Transformer_THT/Transformer_Microphone_Lundahl_LL1587/
 - Description: Transformer_THT : Transformer_Microphone_Lundahl_LL1587
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Transformer_THT-Transformer_Microphone_Lundahl_LL1587](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Transformer_THT-Transformer_Microphone_Lundahl_LL1587)
 - Short Link: [http://oom.lt/FZKTRTRMPHONELUNDAHLLL1587](http://oom.lt/FZKTRTRMPHONELUNDAHLLL1587)

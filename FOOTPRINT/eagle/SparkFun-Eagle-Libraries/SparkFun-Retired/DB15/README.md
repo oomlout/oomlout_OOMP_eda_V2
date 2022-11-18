@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-DB15
 - Hex ID: FZSRTDB15
 - Name: SparkFun-Retired : DB15
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Retired/DB15/
 - Description: SparkFun-Retired : DB15
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-DB15](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-DB15)
 - Short Link: [http://oom.lt/FZSRTDB15](http://oom.lt/FZSRTDB15)

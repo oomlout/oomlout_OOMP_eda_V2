@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-QFN-24_ALT2
 - Hex ID: FZSRTQFN24ALT2
 - Name: SparkFun-Retired : QFN-24_ALT2
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Retired/QFN-24_ALT2/
 - Description: SparkFun-Retired : QFN-24_ALT2
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-QFN-24_ALT2](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-QFN-24_ALT2)
 - Short Link: [http://oom.lt/FZSRTQFN24ALT2](http://oom.lt/FZSRTQFN24ALT2)

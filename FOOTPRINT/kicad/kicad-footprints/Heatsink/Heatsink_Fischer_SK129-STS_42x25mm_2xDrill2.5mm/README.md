@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Heatsink-Heatsink_Fischer_SK129-STS_42x25mm_2xDrill2.5mm
 - Hex ID: FZKHHFISCHERSK129STS42X252XDRILL25
 - Name: Heatsink : Heatsink_Fischer_SK129-STS_42x25mm_2xDrill2.5mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Heatsink/Heatsink_Fischer_SK129-STS_42x25mm_2xDrill2.5mm/
 - Description: Heatsink : Heatsink_Fischer_SK129-STS_42x25mm_2xDrill2.5mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Heatsink-Heatsink_Fischer_SK129-STS_42x25mm_2xDrill2.5mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Heatsink-Heatsink_Fischer_SK129-STS_42x25mm_2xDrill2.5mm)
 - Short Link: [http://oom.lt/FZKHHFISCHERSK129STS42X252XDRILL25](http://oom.lt/FZKHHFISCHERSK129STS42X252XDRILL25)

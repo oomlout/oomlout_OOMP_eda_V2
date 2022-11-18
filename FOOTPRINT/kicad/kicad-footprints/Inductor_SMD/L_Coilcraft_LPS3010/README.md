@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Coilcraft_LPS3010
 - Hex ID: FZKINLCOILCRAFTLPS31
 - Name: Inductor_SMD : L_Coilcraft_LPS3010
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Coilcraft_LPS3010/
 - Description: Inductor_SMD : L_Coilcraft_LPS3010
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Coilcraft_LPS3010](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Coilcraft_LPS3010)
 - Short Link: [http://oom.lt/FZKINLCOILCRAFTLPS31](http://oom.lt/FZKINLCOILCRAFTLPS31)

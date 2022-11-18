@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-battery-2V110R
 - Hex ID: FZEBAT2V11R
 - Name: battery : 2V110R
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/battery/2V110R/
 - Description: battery : 2V110R
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-battery-2V110R](http://oom.lt/FOOTPRINT-eagle-eagle-default-battery-2V110R)
 - Short Link: [http://oom.lt/FZEBAT2V11R](http://oom.lt/FZEBAT2V11R)

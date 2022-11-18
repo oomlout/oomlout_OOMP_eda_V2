@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Audio-ISD2560S
 - Hex ID: SZKAUDIOISD256S
 - Name: Audio : ISD2560S
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Audio/ISD2560S/
 - Description: Audio : ISD2560S
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Audio-ISD2560S](http://oom.lt/SYMBOL-kicad-kicad-symbols-Audio-ISD2560S)
 - Short Link: [http://oom.lt/SZKAUDIOISD256S](http://oom.lt/SZKAUDIOISD256S)

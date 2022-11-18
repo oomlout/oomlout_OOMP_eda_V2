@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Device-D_Zener_Dual_CommonAnode_KKA_Parallel
 - Hex ID: SZKDEVICEDZENERDUALCOONANODEKKAPARALLEL
 - Name: Device : D_Zener_Dual_CommonAnode_KKA_Parallel
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/D_Zener_Dual_CommonAnode_KKA_Parallel/
 - Description: Device : D_Zener_Dual_CommonAnode_KKA_Parallel
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-D_Zener_Dual_CommonAnode_KKA_Parallel](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-D_Zener_Dual_CommonAnode_KKA_Parallel)
 - Short Link: [http://oom.lt/SZKDEVICEDZENERDUALCOONANODEKKAPARALLEL](http://oom.lt/SZKDEVICEDZENERDUALCOONANODEKKAPARALLEL)

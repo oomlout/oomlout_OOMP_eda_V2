@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-rcl-B_3528-21W
 - Hex ID: FZERCLB352821W
 - Name: rcl : B_3528-21W
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/rcl/B_3528-21W/
 - Description: rcl : B_3528-21W
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-B_3528-21W](http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-B_3528-21W)
 - Short Link: [http://oom.lt/FZERCLB352821W](http://oom.lt/FZERCLB352821W)

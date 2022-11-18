@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-45D-X-NF10-V50-CCN010
 - Hex ID: SZOOMPKOOMPPCAPC45DXNF1V5CCN1
 - Name: oomlout_OOMP_parts : CAPC-45D-X-NF10-V50-CCN010
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/CAPC-45D-X-NF10-V50-CCN010/
 - Description: oomlout_OOMP_parts : CAPC-45D-X-NF10-V50-CCN010
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-45D-X-NF10-V50-CCN010](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-45D-X-NF10-V50-CCN010)
 - Short Link: [http://oom.lt/SZOOMPKOOMPPCAPC45DXNF1V5CCN1](http://oom.lt/SZOOMPKOOMPPCAPC45DXNF1V5CCN1)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-MAGJACK-SYM_LED
 - Hex ID: FZSSPARKFUNCNSMAGJSYML
 - Name: SparkFun-Connectors : MAGJACK-SYM_LED
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Connectors/MAGJACK-SYM_LED/
 - Description: SparkFun-Connectors : MAGJACK-SYM_LED
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-MAGJACK-SYM_LED](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-MAGJACK-SYM_LED)
 - Short Link: [http://oom.lt/FZSSPARKFUNCNSMAGJSYML](http://oom.lt/FZSSPARKFUNCNSMAGJSYML)

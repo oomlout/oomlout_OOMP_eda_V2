@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Switches-SWITCH_DPDT_SMD_AYZ0202
 - Hex ID: FZSWSWDPDTSMAYZ22
 - Name: SparkFun-Switches : SWITCH_DPDT_SMD_AYZ0202
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Switches/SWITCH_DPDT_SMD_AYZ0202/
 - Description: SparkFun-Switches : SWITCH_DPDT_SMD_AYZ0202
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Switches-SWITCH_DPDT_SMD_AYZ0202](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Switches-SWITCH_DPDT_SMD_AYZ0202)
 - Short Link: [http://oom.lt/FZSWSWDPDTSMAYZ22](http://oom.lt/FZSWSWDPDTSMAYZ22)

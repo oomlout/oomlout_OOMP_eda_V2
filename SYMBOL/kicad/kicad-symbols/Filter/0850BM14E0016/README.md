@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Filter-0850BM14E0016
 - Hex ID: SZKFIL85BM14E16
 - Name: Filter : 0850BM14E0016
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Filter/0850BM14E0016/
 - Description: Filter : 0850BM14E0016
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Filter-0850BM14E0016](http://oom.lt/SYMBOL-kicad-kicad-symbols-Filter-0850BM14E0016)
 - Short Link: [http://oom.lt/SZKFIL85BM14E16](http://oom.lt/SZKFIL85BM14E16)

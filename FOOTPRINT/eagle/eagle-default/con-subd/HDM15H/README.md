@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-subd-HDM15H
 - Hex ID: FZECONSUBDHDM15H
 - Name: con-subd : HDM15H
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-subd/HDM15H/
 - Description: con-subd : HDM15H
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-subd-HDM15H](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-subd-HDM15H)
 - Short Link: [http://oom.lt/FZECONSUBDHDM15H](http://oom.lt/FZECONSUBDHDM15H)

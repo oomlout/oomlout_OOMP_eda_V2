@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-smd-ipc-SOP06
 - Hex ID: FZESMIPCS6
 - Name: smd-ipc : SOP06
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/smd-ipc/SOP06/
 - Description: smd-ipc : SOP06
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-SOP06](http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-SOP06)
 - Short Link: [http://oom.lt/FZESMIPCS6](http://oom.lt/FZESMIPCS6)

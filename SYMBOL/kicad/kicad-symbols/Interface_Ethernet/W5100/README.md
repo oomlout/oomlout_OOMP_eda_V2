@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_Ethernet-W5100
 - Hex ID: SZKINTERFACEETHERNETW51
 - Name: Interface_Ethernet : W5100
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_Ethernet/W5100/
 - Description: Interface_Ethernet : W5100
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Ethernet-W5100](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Ethernet-W5100)
 - Short Link: [http://oom.lt/SZKINTERFACEETHERNETW51](http://oom.lt/SZKINTERFACEETHERNETW51)

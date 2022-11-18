@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0603-X-NF70-V25-C6N70
 - Hex ID: SZOOMPKOOMPPCAPC63XNF7V25C6N7
 - Name: oomlout_OOMP_parts : CAPC-0603-X-NF70-V25-C6N70
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/CAPC-0603-X-NF70-V25-C6N70/
 - Description: oomlout_OOMP_parts : CAPC-0603-X-NF70-V25-C6N70
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0603-X-NF70-V25-C6N70](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0603-X-NF70-V25-C6N70)
 - Short Link: [http://oom.lt/SZOOMPKOOMPPCAPC63XNF7V25C6N7](http://oom.lt/SZOOMPKOOMPPCAPC63XNF7V25C6N7)

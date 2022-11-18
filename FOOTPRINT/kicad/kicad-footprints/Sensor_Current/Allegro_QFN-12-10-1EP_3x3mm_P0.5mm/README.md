@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Sensor_Current-Allegro_QFN-12-10-1EP_3x3mm_P0.5mm
 - Hex ID: FZKSENCURRENTALLEGROQFN1211EP3X3P5
 - Name: Sensor_Current : Allegro_QFN-12-10-1EP_3x3mm_P0.5mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Sensor_Current/Allegro_QFN-12-10-1EP_3x3mm_P0.5mm/
 - Description: Sensor_Current : Allegro_QFN-12-10-1EP_3x3mm_P0.5mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Sensor_Current-Allegro_QFN-12-10-1EP_3x3mm_P0.5mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Sensor_Current-Allegro_QFN-12-10-1EP_3x3mm_P0.5mm)
 - Short Link: [http://oom.lt/FZKSENCURRENTALLEGROQFN1211EP3X3P5](http://oom.lt/FZKSENCURRENTALLEGROQFN1211EP3X3P5)

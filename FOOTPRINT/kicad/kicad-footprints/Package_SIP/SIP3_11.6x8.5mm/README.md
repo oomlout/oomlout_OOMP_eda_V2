@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_SIP-SIP3_11.6x8.5mm
 - Hex ID: FZKSIPSIP3116X85
 - Name: Package_SIP : SIP3_11.6x8.5mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SIP/SIP3_11.6x8.5mm/
 - Description: Package_SIP : SIP3_11.6x8.5mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SIP-SIP3_11.6x8.5mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SIP-SIP3_11.6x8.5mm)
 - Short Link: [http://oom.lt/FZKSIPSIP3116X85](http://oom.lt/FZKSIPSIP3116X85)

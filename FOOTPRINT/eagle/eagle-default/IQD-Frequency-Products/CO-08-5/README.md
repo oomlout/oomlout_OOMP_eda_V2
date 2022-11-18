@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-IQD-Frequency-Products-CO-08-5
 - Hex ID: FZEIQDFREQUENCYPRODUCTSCO85
 - Name: IQD-Frequency-Products : CO-08-5
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/IQD-Frequency-Products/CO-08-5/
 - Description: IQD-Frequency-Products : CO-08-5
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-IQD-Frequency-Products-CO-08-5](http://oom.lt/FOOTPRINT-eagle-eagle-default-IQD-Frequency-Products-CO-08-5)
 - Short Link: [http://oom.lt/FZEIQDFREQUENCYPRODUCTSCO85](http://oom.lt/FZEIQDFREQUENCYPRODUCTSCO85)

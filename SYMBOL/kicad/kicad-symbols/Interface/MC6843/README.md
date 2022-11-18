@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface-MC6843
 - Hex ID: SZKINTERFACEMC6843
 - Name: Interface : MC6843
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface/MC6843/
 - Description: Interface : MC6843
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-MC6843](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-MC6843)
 - Short Link: [http://oom.lt/SZKINTERFACEMC6843](http://oom.lt/SZKINTERFACEMC6843)

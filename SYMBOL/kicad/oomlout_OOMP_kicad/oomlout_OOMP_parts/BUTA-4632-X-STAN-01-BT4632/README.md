@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-BUTA-4632-X-STAN-01-BT4632
 - Hex ID: SZOOMPKOOMPPBUTA4632XSTAN1BT4632
 - Name: oomlout_OOMP_parts : BUTA-4632-X-STAN-01-BT4632
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/BUTA-4632-X-STAN-01-BT4632/
 - Description: oomlout_OOMP_parts : BUTA-4632-X-STAN-01-BT4632
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-BUTA-4632-X-STAN-01-BT4632](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-BUTA-4632-X-STAN-01-BT4632)
 - Short Link: [http://oom.lt/SZOOMPKOOMPPBUTA4632XSTAN1BT4632](http://oom.lt/SZOOMPKOOMPPBUTA4632XSTAN1BT4632)

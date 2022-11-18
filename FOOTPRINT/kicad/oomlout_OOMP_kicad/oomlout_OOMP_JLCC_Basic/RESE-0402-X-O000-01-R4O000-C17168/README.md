@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-RESE-0402-X-O000-01-R4O000-C17168
 - Hex ID: FZOOMPKJLCRESE42XO1R4OC17168
 - Name: oomlout_OOMP_JLCC_Basic : RESE-0402-X-O000-01-R4O000-C17168
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_JLCC_Basic/RESE-0402-X-O000-01-R4O000-C17168/
 - Description: oomlout_OOMP_JLCC_Basic : RESE-0402-X-O000-01-R4O000-C17168
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-RESE-0402-X-O000-01-R4O000-C17168](http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-RESE-0402-X-O000-01-R4O000-C17168)
 - Short Link: [http://oom.lt/FZOOMPKJLCRESE42XO1R4OC17168](http://oom.lt/FZOOMPKJLCRESE42XO1R4OC17168)

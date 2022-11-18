@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega164P-20M
 - Hex ID: SZKMCUMCHIPATMEGAATMEGA164P2M
 - Name: MCU_Microchip_ATmega : ATmega164P-20M
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_ATmega/ATmega164P-20M/
 - Description: MCU_Microchip_ATmega : ATmega164P-20M
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega164P-20M](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega164P-20M)
 - Short Link: [http://oom.lt/SZKMCUMCHIPATMEGAATMEGA164P2M](http://oom.lt/SZKMCUMCHIPATMEGAATMEGA164P2M)

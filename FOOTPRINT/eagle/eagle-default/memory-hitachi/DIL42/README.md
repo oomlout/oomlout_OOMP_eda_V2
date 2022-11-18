@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-memory-hitachi-DIL42
 - Hex ID: FZEMEMORYHITACHIDIL42
 - Name: memory-hitachi : DIL42
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/memory-hitachi/DIL42/
 - Description: memory-hitachi : DIL42
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-memory-hitachi-DIL42](http://oom.lt/FOOTPRINT-eagle-eagle-default-memory-hitachi-DIL42)
 - Short Link: [http://oom.lt/FZEMEMORYHITACHIDIL42](http://oom.lt/FZEMEMORYHITACHIDIL42)

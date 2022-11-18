@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-AG
 - Hex ID: FZAAG
 - Name: adafruit : AG
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/AG/
 - Description: adafruit : AG
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-AG](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-AG)
 - Short Link: [http://oom.lt/FZAAG](http://oom.lt/FZAAG)

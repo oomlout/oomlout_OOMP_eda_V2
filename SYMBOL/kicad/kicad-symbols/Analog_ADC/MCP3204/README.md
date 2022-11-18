@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Analog_ADC-MCP3204
 - Hex ID: SZKANALOGADCMCP324
 - Name: Analog_ADC : MCP3204
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog_ADC/MCP3204/
 - Description: Analog_ADC : MCP3204
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-MCP3204](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-MCP3204)
 - Short Link: [http://oom.lt/SZKANALOGADCMCP324](http://oom.lt/SZKANALOGADCMCP324)

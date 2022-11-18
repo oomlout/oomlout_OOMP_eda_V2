@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_Mini-B_AdamTech_MUSB-B5-S-VT-TSMT-1_SMD_Vertical
 - Hex ID: FZKCNUUMBADAMTECHMUB5SVTTSMT1SMF
 - Name: Connector_USB : USB_Mini-B_AdamTech_MUSB-B5-S-VT-TSMT-1_SMD_Vertical
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB_Mini-B_AdamTech_MUSB-B5-S-VT-TSMT-1_SMD_Vertical/
 - Description: Connector_USB : USB_Mini-B_AdamTech_MUSB-B5-S-VT-TSMT-1_SMD_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_Mini-B_AdamTech_MUSB-B5-S-VT-TSMT-1_SMD_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_Mini-B_AdamTech_MUSB-B5-S-VT-TSMT-1_SMD_Vertical)
 - Short Link: [http://oom.lt/FZKCNUUMBADAMTECHMUB5SVTTSMT1SMF](http://oom.lt/FZKCNUUMBADAMTECHMUB5SVTTSMT1SMF)

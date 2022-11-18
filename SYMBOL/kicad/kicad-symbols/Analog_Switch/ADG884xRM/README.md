@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Analog_Switch-ADG884xRM
 - Hex ID: SZKANALOGSWADG884XRM
 - Name: Analog_Switch : ADG884xRM
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog_Switch/ADG884xRM/
 - Description: Analog_Switch : ADG884xRM
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_Switch-ADG884xRM](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_Switch-ADG884xRM)
 - Short Link: [http://oom.lt/SZKANALOGSWADG884XRM](http://oom.lt/SZKANALOGSWADG884XRM)

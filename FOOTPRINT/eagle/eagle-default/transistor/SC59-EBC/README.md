@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-transistor-SC59-EBC
 - Hex ID: FZETRANSISTORSC59EBC
 - Name: transistor : SC59-EBC
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/transistor/SC59-EBC/
 - Description: transistor : SC59-EBC
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-SC59-EBC](http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-SC59-EBC)
 - Short Link: [http://oom.lt/FZETRANSISTORSC59EBC](http://oom.lt/FZETRANSISTORSC59EBC)

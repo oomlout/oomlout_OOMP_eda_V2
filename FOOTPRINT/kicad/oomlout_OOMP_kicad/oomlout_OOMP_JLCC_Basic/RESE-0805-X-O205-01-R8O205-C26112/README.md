@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-RESE-0805-X-O205-01-R8O205-C26112
 - Hex ID: FZOOMPKJLCRESE85XO251R8O25C26112
 - Name: oomlout_OOMP_JLCC_Basic : RESE-0805-X-O205-01-R8O205-C26112
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_JLCC_Basic/RESE-0805-X-O205-01-R8O205-C26112/
 - Description: oomlout_OOMP_JLCC_Basic : RESE-0805-X-O205-01-R8O205-C26112
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-RESE-0805-X-O205-01-R8O205-C26112](http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-RESE-0805-X-O205-01-R8O205-C26112)
 - Short Link: [http://oom.lt/FZOOMPKJLCRESE85XO251R8O25C26112](http://oom.lt/FZOOMPKJLCRESE85XO251R8O25C26112)

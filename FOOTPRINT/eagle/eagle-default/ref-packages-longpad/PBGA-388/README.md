@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEREFPACKAGESLONGPADPBGA388 > ref-packages-longpad : PBGA-388](#fzerefpackageslongpadpbga388--ref-packages-longpad--pbga-388)
+* [FZEREFPSLPPBGA388 > ref-packages-longpad : PBGA-388](#fzerefpslppbga388--ref-packages-longpad--pbga-388)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEREFPACKAGESLONGPADPBGA388 > ref-packages-longpad : PBGA-388
+# FZEREFPSLPPBGA388 > ref-packages-longpad : PBGA-388
 
 - ID: FOOTPRINT-eagle-eagle-default-ref-packages-longpad-PBGA-388
-- Hex ID: FZEREFPACKAGESLONGPADPBGA388
+- Hex ID: FZEREFPSLPPBGA388
 - Name: ref-packages-longpad : PBGA-388
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ref-packages-longpad/PBGA-388/
 - Description: ref-packages-longpad : PBGA-388
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-longpad-PBGA-388](http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-longpad-PBGA-388)
-- Short Link: [http://oom.lt/FZEREFPACKAGESLONGPADPBGA388](http://oom.lt/FZEREFPACKAGESLONGPADPBGA388)
+- Short Link: [http://oom.lt/FZEREFPSLPPBGA388](http://oom.lt/FZEREFPSLPPBGA388)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|ref-packages-longpad|
 |OOMP Index|oompIndex|PBGA-388|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-ref-packages-longpad-PBGA-388|
-|Hex ID (short code)|hexID|FZEREFPACKAGESLONGPADPBGA388|
+|Hex ID (short code)|hexID|FZEREFPSLPPBGA388|
 |name|name|ref-packages-longpad : PBGA-388|
 ||||

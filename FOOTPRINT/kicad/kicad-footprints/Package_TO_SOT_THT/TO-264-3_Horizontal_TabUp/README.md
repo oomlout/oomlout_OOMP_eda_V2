@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-TO-264-3_Horizontal_TabUp
 - Hex ID: FZKSOTTO2643HTABUP
 - Name: Package_TO_SOT_THT : TO-264-3_Horizontal_TabUp
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_THT/TO-264-3_Horizontal_TabUp/
 - Description: Package_TO_SOT_THT : TO-264-3_Horizontal_TabUp
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-TO-264-3_Horizontal_TabUp](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-TO-264-3_Horizontal_TabUp)
 - Short Link: [http://oom.lt/FZKSOTTO2643HTABUP](http://oom.lt/FZKSOTTO2643HTABUP)

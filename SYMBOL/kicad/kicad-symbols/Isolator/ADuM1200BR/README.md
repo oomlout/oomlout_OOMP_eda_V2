@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Isolator-ADuM1200BR
 - Hex ID: SZKISOLATORADUM12BR
 - Name: Isolator : ADuM1200BR
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Isolator/ADuM1200BR/
 - Description: Isolator : ADuM1200BR
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-ADuM1200BR](http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-ADuM1200BR)
 - Short Link: [http://oom.lt/SZKISOLATORADUM12BR](http://oom.lt/SZKISOLATORADUM12BR)

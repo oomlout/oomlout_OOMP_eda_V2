@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-v-reg-D2PACK
 - Hex ID: FZEVREGD2PACK
 - Name: v-reg : D2PACK
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/v-reg/D2PACK/
 - Description: v-reg : D2PACK
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-v-reg-D2PACK](http://oom.lt/FOOTPRINT-eagle-eagle-default-v-reg-D2PACK)
 - Short Link: [http://oom.lt/FZEVREGD2PACK](http://oom.lt/FZEVREGD2PACK)

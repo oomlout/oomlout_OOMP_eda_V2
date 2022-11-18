@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-transistor-power-TO220AHV
 - Hex ID: FZETRANSISTORPOWERTO22AHV
 - Name: transistor-power : TO220AHV
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/transistor-power/TO220AHV/
 - Description: transistor-power : TO220AHV
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-power-TO220AHV](http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-power-TO220AHV)
 - Short Link: [http://oom.lt/FZETRANSISTORPOWERTO22AHV](http://oom.lt/FZETRANSISTORPOWERTO22AHV)

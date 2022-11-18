@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-RF_Mini-Circuits-Mini-Circuits_HZ1198
 - Hex ID: FZKRFMCIRCUITSHZ1198
 - Name: RF_Mini-Circuits : Mini-Circuits_HZ1198
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/RF_Mini-Circuits/Mini-Circuits_HZ1198/
 - Description: RF_Mini-Circuits : Mini-Circuits_HZ1198
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_Mini-Circuits-Mini-Circuits_HZ1198](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_Mini-Circuits-Mini-Circuits_HZ1198)
 - Short Link: [http://oom.lt/FZKRFMCIRCUITSHZ1198](http://oom.lt/FZKRFMCIRCUITSHZ1198)

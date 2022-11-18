@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_Samtec_HLE_SMD-Samtec_HLE-104-02-xxx-DV-BE-A_2x04_P2.54mm_Horizontal
 - Hex ID: FZKCNSAMTECHLESMSAMTECHLE142XXXDVBEA2X4P254H
 - Name: Connector_Samtec_HLE_SMD : Samtec_HLE-104-02-xxx-DV-BE-A_2x04_P2.54mm_Horizontal
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Samtec_HLE_SMD/Samtec_HLE-104-02-xxx-DV-BE-A_2x04_P2.54mm_Horizontal/
 - Description: Connector_Samtec_HLE_SMD : Samtec_HLE-104-02-xxx-DV-BE-A_2x04_P2.54mm_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Samtec_HLE_SMD-Samtec_HLE-104-02-xxx-DV-BE-A_2x04_P2.54mm_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Samtec_HLE_SMD-Samtec_HLE-104-02-xxx-DV-BE-A_2x04_P2.54mm_Horizontal)
 - Short Link: [http://oom.lt/FZKCNSAMTECHLESMSAMTECHLE142XXXDVBEA2X4P254H](http://oom.lt/FZKCNSAMTECHLESMSAMTECHLE142XXXDVBEA2X4P254H)

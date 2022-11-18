@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-PMEG45T15EPD
 - Hex ID: SZKDIODEPMEG45T15EPD
 - Name: Diode : PMEG45T15EPD
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/PMEG45T15EPD/
 - Description: Diode : PMEG45T15EPD
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-PMEG45T15EPD](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-PMEG45T15EPD)
 - Short Link: [http://oom.lt/SZKDIODEPMEG45T15EPD](http://oom.lt/SZKDIODEPMEG45T15EPD)

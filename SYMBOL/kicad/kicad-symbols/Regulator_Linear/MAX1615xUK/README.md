@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-MAX1615xUK
 - Hex ID: SZKREGULATORLINEARMAX1615XUK
 - Name: Regulator_Linear : MAX1615xUK
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/MAX1615xUK/
 - Description: Regulator_Linear : MAX1615xUK
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-MAX1615xUK](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-MAX1615xUK)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARMAX1615XUK](http://oom.lt/SZKREGULATORLINEARMAX1615XUK)

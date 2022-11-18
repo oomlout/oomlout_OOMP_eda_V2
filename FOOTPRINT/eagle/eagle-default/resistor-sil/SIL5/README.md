@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-resistor-sil-SIL5
 - Hex ID: FZERESISTORSILSIL5
 - Name: resistor-sil : SIL5
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/resistor-sil/SIL5/
 - Description: resistor-sil : SIL5
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-resistor-sil-SIL5](http://oom.lt/FOOTPRINT-eagle-eagle-default-resistor-sil-SIL5)
 - Short Link: [http://oom.lt/FZERESISTORSILSIL5](http://oom.lt/FZERESISTORSILSIL5)

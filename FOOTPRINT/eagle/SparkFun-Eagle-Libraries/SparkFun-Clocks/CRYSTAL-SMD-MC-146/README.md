@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Clocks-CRYSTAL-SMD-MC-146
 - Hex ID: FZSCLXSMMC146
 - Name: SparkFun-Clocks : CRYSTAL-SMD-MC-146
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Clocks/CRYSTAL-SMD-MC-146/
 - Description: SparkFun-Clocks : CRYSTAL-SMD-MC-146
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Clocks-CRYSTAL-SMD-MC-146](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Clocks-CRYSTAL-SMD-MC-146)
 - Short Link: [http://oom.lt/FZSCLXSMMC146](http://oom.lt/FZSCLXSMMC146)

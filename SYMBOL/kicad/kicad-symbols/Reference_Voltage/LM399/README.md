@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Reference_Voltage-LM399
 - Hex ID: SZKREFERENCEVOLTAGELM399
 - Name: Reference_Voltage : LM399
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Reference_Voltage/LM399/
 - Description: Reference_Voltage : LM399
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Voltage-LM399](http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Voltage-LM399)
 - Short Link: [http://oom.lt/SZKREFERENCEVOLTAGELM399](http://oom.lt/SZKREFERENCEVOLTAGELM399)

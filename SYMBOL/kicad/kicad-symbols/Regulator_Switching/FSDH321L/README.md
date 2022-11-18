@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-FSDH321L
 - Hex ID: SZKREGULATORSWINGFSDH321L
 - Name: Regulator_Switching : FSDH321L
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/FSDH321L/
 - Description: Regulator_Switching : FSDH321L
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-FSDH321L](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-FSDH321L)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGFSDH321L](http://oom.lt/SZKREGULATORSWINGFSDH321L)

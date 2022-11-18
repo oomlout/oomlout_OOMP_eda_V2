@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-memory-sram-TSOPII-32
 - Hex ID: FZEMEMORYSRAMTSII32
 - Name: memory-sram : TSOPII-32
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/memory-sram/TSOPII-32/
 - Description: memory-sram : TSOPII-32
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-memory-sram-TSOPII-32](http://oom.lt/FOOTPRINT-eagle-eagle-default-memory-sram-TSOPII-32)
 - Short Link: [http://oom.lt/FZEMEMORYSRAMTSII32](http://oom.lt/FZEMEMORYSRAMTSII32)

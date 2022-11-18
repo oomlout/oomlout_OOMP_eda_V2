@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-TestPoint-TestPoint_Loop_D2.50mm_Drill1.85mm
 - Hex ID: FZKTPTPLOOPD25DRILL185
 - Name: TestPoint : TestPoint_Loop_D2.50mm_Drill1.85mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/TestPoint/TestPoint_Loop_D2.50mm_Drill1.85mm/
 - Description: TestPoint : TestPoint_Loop_D2.50mm_Drill1.85mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-TestPoint-TestPoint_Loop_D2.50mm_Drill1.85mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-TestPoint-TestPoint_Loop_D2.50mm_Drill1.85mm)
 - Short Link: [http://oom.lt/FZKTPTPLOOPD25DRILL185](http://oom.lt/FZKTPTPLOOPD25DRILL185)

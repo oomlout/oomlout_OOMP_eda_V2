@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-display-hp-HD-0762
 - Hex ID: FZEDIHPHD762
 - Name: display-hp : HD-0762
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/display-hp/HD-0762/
 - Description: display-hp : HD-0762
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-display-hp-HD-0762](http://oom.lt/FOOTPRINT-eagle-eagle-default-display-hp-HD-0762)
 - Short Link: [http://oom.lt/FZEDIHPHD762](http://oom.lt/FZEDIHPHD762)

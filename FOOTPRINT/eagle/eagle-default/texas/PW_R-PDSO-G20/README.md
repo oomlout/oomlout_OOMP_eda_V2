@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-texas-PW_R-PDSO-G20
 - Hex ID: FZETEXASPWRPDSOG2
 - Name: texas : PW_R-PDSO-G20
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/texas/PW_R-PDSO-G20/
 - Description: texas : PW_R-PDSO-G20
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-texas-PW_R-PDSO-G20](http://oom.lt/FOOTPRINT-eagle-eagle-default-texas-PW_R-PDSO-G20)
 - Short Link: [http://oom.lt/FZETEXASPWRPDSOG2](http://oom.lt/FZETEXASPWRPDSOG2)

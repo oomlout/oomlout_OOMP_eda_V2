@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Power_Management-LTC4365TS8
 - Hex ID: SZKPOWERMANAGEMENTLTC4365TS8
 - Name: Power_Management : LTC4365TS8
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Power_Management/LTC4365TS8/
 - Description: Power_Management : LTC4365TS8
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-LTC4365TS8](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-LTC4365TS8)
 - Short Link: [http://oom.lt/SZKPOWERMANAGEMENTLTC4365TS8](http://oom.lt/SZKPOWERMANAGEMENTLTC4365TS8)

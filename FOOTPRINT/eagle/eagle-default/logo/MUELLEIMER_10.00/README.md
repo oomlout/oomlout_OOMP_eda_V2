@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-logo-MUELLEIMER_10.00
 - Hex ID: FZELMUELLEIMER1
 - Name: logo : MUELLEIMER_10.00
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/logo/MUELLEIMER_10.00/
 - Description: logo : MUELLEIMER_10.00
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-logo-MUELLEIMER_10.00](http://oom.lt/FOOTPRINT-eagle-eagle-default-logo-MUELLEIMER_10.00)
 - Short Link: [http://oom.lt/FZELMUELLEIMER1](http://oom.lt/FZELMUELLEIMER1)

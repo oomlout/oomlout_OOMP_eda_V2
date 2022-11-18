@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Connector-TestPoint_Probe
 - Hex ID: SZKCNTPPROBE
 - Name: Connector : TestPoint_Probe
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector/TestPoint_Probe/
 - Description: Connector : TestPoint_Probe
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-TestPoint_Probe](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-TestPoint_Probe)
 - Short Link: [http://oom.lt/SZKCNTPPROBE](http://oom.lt/SZKCNTPPROBE)

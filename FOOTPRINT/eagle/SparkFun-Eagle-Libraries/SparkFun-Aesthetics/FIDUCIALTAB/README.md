@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Aesthetics-FIDUCIALTAB
 - Hex ID: FZSAFIDTAB
 - Name: SparkFun-Aesthetics : FIDUCIALTAB
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Aesthetics/FIDUCIALTAB/
 - Description: SparkFun-Aesthetics : FIDUCIALTAB
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Aesthetics-FIDUCIALTAB](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Aesthetics-FIDUCIALTAB)
 - Short Link: [http://oom.lt/FZSAFIDTAB](http://oom.lt/FZSAFIDTAB)

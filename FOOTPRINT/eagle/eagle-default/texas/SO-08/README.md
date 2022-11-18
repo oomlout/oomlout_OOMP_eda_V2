@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-texas-SO-08
 - Hex ID: FZETEXASSO8
 - Name: texas : SO-08
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/texas/SO-08/
 - Description: texas : SO-08
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-texas-SO-08](http://oom.lt/FOOTPRINT-eagle-eagle-default-texas-SO-08)
 - Short Link: [http://oom.lt/FZETEXASSO8](http://oom.lt/FZETEXASSO8)

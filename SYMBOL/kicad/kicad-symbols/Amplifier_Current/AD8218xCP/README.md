@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Current-AD8218xCP
 - Hex ID: SZKAMPLIFIERCURRENTAD8218XCP
 - Name: Amplifier_Current : AD8218xCP
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Current/AD8218xCP/
 - Description: Amplifier_Current : AD8218xCP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Current-AD8218xCP](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Current-AD8218xCP)
 - Short Link: [http://oom.lt/SZKAMPLIFIERCURRENTAD8218XCP](http://oom.lt/SZKAMPLIFIERCURRENTAD8218XCP)

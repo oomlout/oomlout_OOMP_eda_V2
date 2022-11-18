@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-RESE-0805-X-O000-01-R8O000-C17477
 - Hex ID: SZOOMPKJLCRESE85XO1R8OC17477
 - Name: oomlout_OOMP_JLCC_Basic : RESE-0805-X-O000-01-R8O000-C17477
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_JLCC_Basic/RESE-0805-X-O000-01-R8O000-C17477/
 - Description: oomlout_OOMP_JLCC_Basic : RESE-0805-X-O000-01-R8O000-C17477
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-RESE-0805-X-O000-01-R8O000-C17477](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-RESE-0805-X-O000-01-R8O000-C17477)
 - Short Link: [http://oom.lt/SZOOMPKJLCRESE85XO1R8OC17477](http://oom.lt/SZOOMPKJLCRESE85XO1R8OC17477)

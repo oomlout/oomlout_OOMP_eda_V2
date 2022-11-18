@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Device-D_Dual_Series_CAK_Split
 - Hex ID: SZKDEVICEDDUALSERIESCAKSPLIT
 - Name: Device : D_Dual_Series_CAK_Split
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/D_Dual_Series_CAK_Split/
 - Description: Device : D_Dual_Series_CAK_Split
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-D_Dual_Series_CAK_Split](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-D_Dual_Series_CAK_Split)
 - Short Link: [http://oom.lt/SZKDEVICEDDUALSERIESCAKSPLIT](http://oom.lt/SZKDEVICEDDUALSERIESCAKSPLIT)

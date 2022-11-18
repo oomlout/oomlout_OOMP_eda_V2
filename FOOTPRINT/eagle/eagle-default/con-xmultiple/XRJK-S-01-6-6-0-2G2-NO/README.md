@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-con-xmultiple-XRJK-S-01-6-6-0-2G2-NO
 - Hex ID: FZECONXMULTIPLEXRJKS1662G2NO
 - Name: con-xmultiple : XRJK-S-01-6-6-0-2G2-NO
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-xmultiple/XRJK-S-01-6-6-0-2G2-NO/
 - Description: con-xmultiple : XRJK-S-01-6-6-0-2G2-NO
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-xmultiple-XRJK-S-01-6-6-0-2G2-NO](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-xmultiple-XRJK-S-01-6-6-0-2G2-NO)
 - Short Link: [http://oom.lt/FZECONXMULTIPLEXRJKS1662G2NO](http://oom.lt/FZECONXMULTIPLEXRJKS1662G2NO)

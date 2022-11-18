@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-rcl-C0805
 - Hex ID: FZERCLC85
 - Name: rcl : C0805
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/rcl/C0805/
 - Description: rcl : C0805
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-C0805](http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-C0805)
 - Short Link: [http://oom.lt/FZERCLC85](http://oom.lt/FZERCLC85)

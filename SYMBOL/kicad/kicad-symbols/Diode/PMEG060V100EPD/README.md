@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-PMEG060V100EPD
 - Hex ID: SZKDIODEPMEG6V1EPD
 - Name: Diode : PMEG060V100EPD
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/PMEG060V100EPD/
 - Description: Diode : PMEG060V100EPD
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-PMEG060V100EPD](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-PMEG060V100EPD)
 - Short Link: [http://oom.lt/SZKDIODEPMEG6V1EPD](http://oom.lt/SZKDIODEPMEG6V1EPD)

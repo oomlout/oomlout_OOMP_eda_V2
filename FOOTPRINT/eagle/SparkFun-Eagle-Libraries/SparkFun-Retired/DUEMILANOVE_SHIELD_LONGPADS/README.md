@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-DUEMILANOVE_SHIELD_LONGPADS
 - Hex ID: FZSRTDUEMANOVESHL
 - Name: SparkFun-Retired : DUEMILANOVE_SHIELD_LONGPADS
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Retired/DUEMILANOVE_SHIELD_LONGPADS/
 - Description: SparkFun-Retired : DUEMILANOVE_SHIELD_LONGPADS
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-DUEMILANOVE_SHIELD_LONGPADS](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-DUEMILANOVE_SHIELD_LONGPADS)
 - Short Link: [http://oom.lt/FZSRTDUEMANOVESHL](http://oom.lt/FZSRTDUEMANOVESHL)

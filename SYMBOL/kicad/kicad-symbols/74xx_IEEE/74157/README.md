@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-74xx_IEEE-74157
 - Hex ID: SZK74XXIEEE74157
 - Name: 74xx_IEEE : 74157
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/74xx_IEEE/74157/
 - Description: 74xx_IEEE : 74157
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-74xx_IEEE-74157](http://oom.lt/SYMBOL-kicad-kicad-symbols-74xx_IEEE-74157)
 - Short Link: [http://oom.lt/SZK74XXIEEE74157](http://oom.lt/SZK74XXIEEE74157)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-transistor-neu-to92-TO218
 - Hex ID: FZETRANSISTORNEUTO92TO218
 - Name: transistor-neu-to92 : TO218
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/transistor-neu-to92/TO218/
 - Description: transistor-neu-to92 : TO218
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-neu-to92-TO218](http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-neu-to92-TO218)
 - Short Link: [http://oom.lt/FZETRANSISTORNEUTO92TO218](http://oom.lt/FZETRANSISTORNEUTO92TO218)

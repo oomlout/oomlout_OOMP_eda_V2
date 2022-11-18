@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-PC_TEST-POINT_MINI_3.43x1.78mm
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSPCTESTPOINTM343X178
 - Name: digikey-footprints : PC_TEST-POINT_MINI_3.43x1.78mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/PC_TEST-POINT_MINI_3.43x1.78mm/
 - Description: digikey-footprints : PC_TEST-POINT_MINI_3.43x1.78mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-PC_TEST-POINT_MINI_3.43x1.78mm](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-PC_TEST-POINT_MINI_3.43x1.78mm)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSPCTESTPOINTM343X178](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSPCTESTPOINTM343X178)

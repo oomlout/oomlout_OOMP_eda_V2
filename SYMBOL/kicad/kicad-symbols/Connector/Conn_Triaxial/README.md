@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [SZKCNCONNTRIAXIAL > Connector : Conn_Triaxial](#szkcnconntriaxial--connector--conn_triaxial)
+* [SZKCNCTRIAXIAL > Connector : Conn_Triaxial](#szkcnctriaxial--connector--conn_triaxial)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# SZKCNCONNTRIAXIAL > Connector : Conn_Triaxial
+# SZKCNCTRIAXIAL > Connector : Conn_Triaxial
 
 - ID: SYMBOL-kicad-kicad-symbols-Connector-Conn_Triaxial
-- Hex ID: SZKCNCONNTRIAXIAL
+- Hex ID: SZKCNCTRIAXIAL
 - Name: Connector : Conn_Triaxial
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector/Conn_Triaxial/
 - Description: Connector : Conn_Triaxial
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-Conn_Triaxial](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-Conn_Triaxial)
-- Short Link: [http://oom.lt/SZKCNCONNTRIAXIAL](http://oom.lt/SZKCNCONNTRIAXIAL)
+- Short Link: [http://oom.lt/SZKCNCTRIAXIAL](http://oom.lt/SZKCNCTRIAXIAL)
 
 ## Images
   
@@ -36,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Connector|
 |OOMP Index|oompIndex|Conn_Triaxial|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector-Conn_Triaxial|
-|Hex ID (short code)|hexID|SZKCNCONNTRIAXIAL|
+|Hex ID (short code)|hexID|SZKCNCTRIAXIAL|
 |name|name|Connector : Conn_Triaxial|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'J'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'Conn_Triaxial'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> ' ~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'LEMO triaxial connector differential LVDS'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'triaxial connector (LEMO 00.302</td><td> ...)'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> '*LEMO*'</td></tr></table>]|
 ||||

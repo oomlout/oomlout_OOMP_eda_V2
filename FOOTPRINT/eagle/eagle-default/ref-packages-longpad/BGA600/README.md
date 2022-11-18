@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEREFPACKAGESLONGPADBGA6 > ref-packages-longpad : BGA600](#fzerefpackageslongpadbga6--ref-packages-longpad--bga600)
+* [FZEREFPSLPBGA6 > ref-packages-longpad : BGA600](#fzerefpslpbga6--ref-packages-longpad--bga600)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEREFPACKAGESLONGPADBGA6 > ref-packages-longpad : BGA600
+# FZEREFPSLPBGA6 > ref-packages-longpad : BGA600
 
 - ID: FOOTPRINT-eagle-eagle-default-ref-packages-longpad-BGA600
-- Hex ID: FZEREFPACKAGESLONGPADBGA6
+- Hex ID: FZEREFPSLPBGA6
 - Name: ref-packages-longpad : BGA600
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ref-packages-longpad/BGA600/
 - Description: ref-packages-longpad : BGA600
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-longpad-BGA600](http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-longpad-BGA600)
-- Short Link: [http://oom.lt/FZEREFPACKAGESLONGPADBGA6](http://oom.lt/FZEREFPACKAGESLONGPADBGA6)
+- Short Link: [http://oom.lt/FZEREFPSLPBGA6](http://oom.lt/FZEREFPSLPBGA6)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|ref-packages-longpad|
 |OOMP Index|oompIndex|BGA600|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-ref-packages-longpad-BGA600|
-|Hex ID (short code)|hexID|FZEREFPACKAGESLONGPADBGA6|
+|Hex ID (short code)|hexID|FZEREFPSLPBGA6|
 |name|name|ref-packages-longpad : BGA600|
 ||||

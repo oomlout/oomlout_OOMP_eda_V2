@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-relay-DS1E
 - Hex ID: FZERELAYDS1E
 - Name: relay : DS1E
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/relay/DS1E/
 - Description: relay : DS1E
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-DS1E](http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-DS1E)
 - Short Link: [http://oom.lt/FZERELAYDS1E](http://oom.lt/FZERELAYDS1E)

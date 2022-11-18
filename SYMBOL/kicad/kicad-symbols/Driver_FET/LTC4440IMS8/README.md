@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Driver_FET-LTC4440IMS8
 - Hex ID: SZKDRIVERFETLTC444IMS8
 - Name: Driver_FET : LTC4440IMS8
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Driver_FET/LTC4440IMS8/
 - Description: Driver_FET : LTC4440IMS8
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-LTC4440IMS8](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-LTC4440IMS8)
 - Short Link: [http://oom.lt/SZKDRIVERFETLTC444IMS8](http://oom.lt/SZKDRIVERFETLTC444IMS8)

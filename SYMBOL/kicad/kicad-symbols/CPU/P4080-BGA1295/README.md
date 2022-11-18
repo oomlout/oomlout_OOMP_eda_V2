@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-CPU-P4080-BGA1295
 - Hex ID: SZKCPUP48BGA1295
 - Name: CPU : P4080-BGA1295
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/CPU/P4080-BGA1295/
 - Description: CPU : P4080-BGA1295
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-CPU-P4080-BGA1295](http://oom.lt/SYMBOL-kicad-kicad-symbols-CPU-P4080-BGA1295)
 - Short Link: [http://oom.lt/SZKCPUP48BGA1295](http://oom.lt/SZKCPUP48BGA1295)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny426-S
 - Hex ID: SZKMCUMCHIPATTINYATTINY426S
 - Name: MCU_Microchip_ATtiny : ATtiny426-S
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_ATtiny/ATtiny426-S/
 - Description: MCU_Microchip_ATtiny : ATtiny426-S
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny426-S](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny426-S)
 - Short Link: [http://oom.lt/SZKMCUMCHIPATTINYATTINY426S](http://oom.lt/SZKMCUMCHIPATTINYATTINY426S)

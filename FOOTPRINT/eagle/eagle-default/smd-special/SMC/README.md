@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-smd-special-SMC
 - Hex ID: FZESMSPECIALSMC
 - Name: smd-special : SMC
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/smd-special/SMC/
 - Description: smd-special : SMC
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-special-SMC](http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-special-SMC)
 - Short Link: [http://oom.lt/FZESMSPECIALSMC](http://oom.lt/FZESMSPECIALSMC)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0603-X-PF50-V50-C6P50-C1594
 - Hex ID: SZOOMPKJLCCAPC63XPF5V5C6P5C1594
 - Name: oomlout_OOMP_JLCC_Basic : CAPC-0603-X-PF50-V50-C6P50-C1594
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_JLCC_Basic/CAPC-0603-X-PF50-V50-C6P50-C1594/
 - Description: oomlout_OOMP_JLCC_Basic : CAPC-0603-X-PF50-V50-C6P50-C1594
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0603-X-PF50-V50-C6P50-C1594](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0603-X-PF50-V50-C6P50-C1594)
 - Short Link: [http://oom.lt/SZOOMPKJLCCAPC63XPF5V5C6P5C1594](http://oom.lt/SZOOMPKJLCCAPC63XPF5V5C6P5C1594)

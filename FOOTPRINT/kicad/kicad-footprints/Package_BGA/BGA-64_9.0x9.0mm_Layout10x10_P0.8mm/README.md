@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_BGA-BGA-64_9.0x9.0mm_Layout10x10_P0.8mm
 - Hex ID: FZKBGABGA649X9LAYOUT1X1P8
 - Name: Package_BGA : BGA-64_9.0x9.0mm_Layout10x10_P0.8mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_BGA/BGA-64_9.0x9.0mm_Layout10x10_P0.8mm/
 - Description: Package_BGA : BGA-64_9.0x9.0mm_Layout10x10_P0.8mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_BGA-BGA-64_9.0x9.0mm_Layout10x10_P0.8mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_BGA-BGA-64_9.0x9.0mm_Layout10x10_P0.8mm)
 - Short Link: [http://oom.lt/FZKBGABGA649X9LAYOUT1X1P8](http://oom.lt/FZKBGABGA649X9LAYOUT1X1P8)

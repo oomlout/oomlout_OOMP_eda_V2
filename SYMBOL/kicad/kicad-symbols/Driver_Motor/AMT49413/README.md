@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Driver_Motor-AMT49413
 - Hex ID: SZKDRIVERMOTORAMT49413
 - Name: Driver_Motor : AMT49413
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Driver_Motor/AMT49413/
 - Description: Driver_Motor : AMT49413
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_Motor-AMT49413](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_Motor-AMT49413)
 - Short Link: [http://oom.lt/SZKDRIVERMOTORAMT49413](http://oom.lt/SZKDRIVERMOTORAMT49413)

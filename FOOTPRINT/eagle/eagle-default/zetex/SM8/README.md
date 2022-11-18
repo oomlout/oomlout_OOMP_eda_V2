@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-zetex-SM8
 - Hex ID: FZEZETEXSM8
 - Name: zetex : SM8
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/zetex/SM8/
 - Description: zetex : SM8
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-zetex-SM8](http://oom.lt/FOOTPRINT-eagle-eagle-default-zetex-SM8)
 - Short Link: [http://oom.lt/FZEZETEXSM8](http://oom.lt/FZEZETEXSM8)

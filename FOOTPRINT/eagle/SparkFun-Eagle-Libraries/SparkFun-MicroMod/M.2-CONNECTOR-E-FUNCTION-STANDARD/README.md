@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-MicroMod-M.2-CONNECTOR-E-FUNCTION-STANDARD
 - Hex ID: FZS2CNEFUNCTIONSTANDARD
 - Name: SparkFun-MicroMod : M.2-CONNECTOR-E-FUNCTION-STANDARD
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-MicroMod/M.2-CONNECTOR-E-FUNCTION-STANDARD/
 - Description: SparkFun-MicroMod : M.2-CONNECTOR-E-FUNCTION-STANDARD
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-MicroMod-M.2-CONNECTOR-E-FUNCTION-STANDARD](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-MicroMod-M.2-CONNECTOR-E-FUNCTION-STANDARD)
 - Short Link: [http://oom.lt/FZS2CNEFUNCTIONSTANDARD](http://oom.lt/FZS2CNEFUNCTIONSTANDARD)

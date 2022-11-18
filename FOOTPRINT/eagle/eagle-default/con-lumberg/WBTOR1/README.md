@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-lumberg-WBTOR1
 - Hex ID: FZECONLUMBERGWBTOR1
 - Name: con-lumberg : WBTOR1
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-lumberg/WBTOR1/
 - Description: con-lumberg : WBTOR1
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-lumberg-WBTOR1](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-lumberg-WBTOR1)
 - Short Link: [http://oom.lt/FZECONLUMBERGWBTOR1](http://oom.lt/FZECONLUMBERGWBTOR1)

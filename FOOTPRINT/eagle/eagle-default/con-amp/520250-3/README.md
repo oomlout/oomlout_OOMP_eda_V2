@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-amp-520250-3
 - Hex ID: FZECONAMP52253
 - Name: con-amp : 520250-3
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-amp/520250-3/
 - Description: con-amp : 520250-3
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-amp-520250-3](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-amp-520250-3)
 - Short Link: [http://oom.lt/FZECONAMP52253](http://oom.lt/FZECONAMP52253)

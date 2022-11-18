@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-texas-GTS_S-PBGA-N288
 - Hex ID: FZETEXASGTSSPBGAN288
 - Name: texas : GTS_S-PBGA-N288
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/texas/GTS_S-PBGA-N288/
 - Description: texas : GTS_S-PBGA-N288
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-texas-GTS_S-PBGA-N288](http://oom.lt/FOOTPRINT-eagle-eagle-default-texas-GTS_S-PBGA-N288)
 - Short Link: [http://oom.lt/FZETEXASGTSSPBGAN288](http://oom.lt/FZETEXASGTSSPBGAN288)

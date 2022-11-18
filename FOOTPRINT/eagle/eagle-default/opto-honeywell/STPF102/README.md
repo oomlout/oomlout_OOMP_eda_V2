@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-opto-honeywell-STPF102
 - Hex ID: FZEOPTOHONEYWELLSTPF12
 - Name: opto-honeywell : STPF102
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/opto-honeywell/STPF102/
 - Description: opto-honeywell : STPF102
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-opto-honeywell-STPF102](http://oom.lt/FOOTPRINT-eagle-eagle-default-opto-honeywell-STPF102)
 - Short Link: [http://oom.lt/FZEOPTOHONEYWELLSTPF12](http://oom.lt/FZEOPTOHONEYWELLSTPF12)

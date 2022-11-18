@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-IQD-Frequency-Products-5.0X3.2-TCXO
 - Hex ID: FZEIQDFREQUENCYPRODUCTS5X32TCXO
 - Name: IQD-Frequency-Products : 5.0X3.2-TCXO
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/IQD-Frequency-Products/5.0X3.2-TCXO/
 - Description: IQD-Frequency-Products : 5.0X3.2-TCXO
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-IQD-Frequency-Products-5.0X3.2-TCXO](http://oom.lt/FOOTPRINT-eagle-eagle-default-IQD-Frequency-Products-5.0X3.2-TCXO)
 - Short Link: [http://oom.lt/FZEIQDFREQUENCYPRODUCTS5X32TCXO](http://oom.lt/FZEIQDFREQUENCYPRODUCTS5X32TCXO)

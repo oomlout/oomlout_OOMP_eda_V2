@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-cypress-SO24L
 - Hex ID: FZECYPRESSSO24L
 - Name: cypress : SO24L
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/cypress/SO24L/
 - Description: cypress : SO24L
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-cypress-SO24L](http://oom.lt/FOOTPRINT-eagle-eagle-default-cypress-SO24L)
 - Short Link: [http://oom.lt/FZECYPRESSSO24L](http://oom.lt/FZECYPRESSSO24L)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Display-NHD-C0220BiZ
 - Hex ID: FZKDINHDC22BIZ
 - Name: Display : NHD-C0220BiZ
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Display/NHD-C0220BiZ/
 - Description: Display : NHD-C0220BiZ
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Display-NHD-C0220BiZ](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Display-NHD-C0220BiZ)
 - Short Link: [http://oom.lt/FZKDINHDC22BIZ](http://oom.lt/FZKDINHDC22BIZ)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_MicroClasp_55932-0410_1x04_P2.00mm_Vertical
 - Hex ID: FZKCNMXMXMCLASP55932411X4P2F
 - Name: Connector_Molex : Molex_MicroClasp_55932-0410_1x04_P2.00mm_Vertical
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_MicroClasp_55932-0410_1x04_P2.00mm_Vertical/
 - Description: Connector_Molex : Molex_MicroClasp_55932-0410_1x04_P2.00mm_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_MicroClasp_55932-0410_1x04_P2.00mm_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_MicroClasp_55932-0410_1x04_P2.00mm_Vertical)
 - Short Link: [http://oom.lt/FZKCNMXMXMCLASP55932411X4P2F](http://oom.lt/FZKCNMXMXMCLASP55932411X4P2F)

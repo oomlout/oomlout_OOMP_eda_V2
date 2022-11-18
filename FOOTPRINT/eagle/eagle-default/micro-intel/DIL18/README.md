@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-micro-intel-DIL18
 - Hex ID: FZEMINTELDIL18
 - Name: micro-intel : DIL18
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/micro-intel/DIL18/
 - Description: micro-intel : DIL18
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-intel-DIL18](http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-intel-DIL18)
 - Short Link: [http://oom.lt/FZEMINTELDIL18](http://oom.lt/FZEMINTELDIL18)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-smd-ipc-R1206W
 - Hex ID: FZESMIPCR126W
 - Name: smd-ipc : R1206W
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/smd-ipc/R1206W/
 - Description: smd-ipc : R1206W
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-R1206W](http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-R1206W)
 - Short Link: [http://oom.lt/FZESMIPCR126W](http://oom.lt/FZESMIPCR126W)

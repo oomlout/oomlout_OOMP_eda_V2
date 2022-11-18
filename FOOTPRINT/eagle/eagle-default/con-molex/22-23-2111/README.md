@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-molex-22-23-2111
 - Hex ID: FZECONMX22232111
 - Name: con-molex : 22-23-2111
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-molex/22-23-2111/
 - Description: con-molex : 22-23-2111
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-molex-22-23-2111](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-molex-22-23-2111)
 - Short Link: [http://oom.lt/FZECONMX22232111](http://oom.lt/FZECONMX22232111)

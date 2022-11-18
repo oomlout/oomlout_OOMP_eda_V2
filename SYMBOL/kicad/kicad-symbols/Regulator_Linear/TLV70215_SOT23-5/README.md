@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-TLV70215_SOT23-5
 - Hex ID: SZKREGULATORLINEARTLV7215SOT235
 - Name: Regulator_Linear : TLV70215_SOT23-5
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/TLV70215_SOT23-5/
 - Description: Regulator_Linear : TLV70215_SOT23-5
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-TLV70215_SOT23-5](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-TLV70215_SOT23-5)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARTLV7215SOT235](http://oom.lt/SZKREGULATORLINEARTLV7215SOT235)

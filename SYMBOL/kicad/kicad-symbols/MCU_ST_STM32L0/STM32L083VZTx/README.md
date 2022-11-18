@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_ST_STM32L0-STM32L083VZTx
 - Hex ID: SZKMCUSTSTM32LSTM32L83VZTX
 - Name: MCU_ST_STM32L0 : STM32L083VZTx
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32L0/STM32L083VZTx/
 - Description: MCU_ST_STM32L0 : STM32L083VZTx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32L0-STM32L083VZTx](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32L0-STM32L083VZTx)
 - Short Link: [http://oom.lt/SZKMCUSTSTM32LSTM32L83VZTX](http://oom.lt/SZKMCUSTSTM32LSTM32L83VZTX)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-vg-MAC64L
 - Hex ID: FZECONVGMAC64L
 - Name: con-vg : MAC64L
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-vg/MAC64L/
 - Description: con-vg : MAC64L
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-vg-MAC64L](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-vg-MAC64L)
 - Short Link: [http://oom.lt/FZECONVGMAC64L](http://oom.lt/FZECONVGMAC64L)

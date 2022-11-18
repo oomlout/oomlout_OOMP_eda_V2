@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-led-PC56H19_V0
 - Hex ID: FZELPC56H19V
 - Name: led : PC56H19_V0
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/led/PC56H19_V0/
 - Description: led : PC56H19_V0
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-led-PC56H19_V0](http://oom.lt/FOOTPRINT-eagle-eagle-default-led-PC56H19_V0)
 - Short Link: [http://oom.lt/FZELPC56H19V](http://oom.lt/FZELPC56H19V)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm
 - Hex ID: FZKLLSK6812MPLCC435X35P175
 - Name: LED_SMD : LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm/
 - Description: LED_SMD : LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm)
 - Short Link: [http://oom.lt/FZKLLSK6812MPLCC435X35P175](http://oom.lt/FZKLLSK6812MPLCC435X35P175)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Filter-1FP61-4R
 - Hex ID: SZKFIL1FP614R
 - Name: Filter : 1FP61-4R
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Filter/1FP61-4R/
 - Description: Filter : 1FP61-4R
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Filter-1FP61-4R](http://oom.lt/SYMBOL-kicad-kicad-symbols-Filter-1FP61-4R)
 - Short Link: [http://oom.lt/SZKFIL1FP614R](http://oom.lt/SZKFIL1FP614R)

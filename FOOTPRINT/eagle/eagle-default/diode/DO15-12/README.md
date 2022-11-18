@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-diode-DO15-12
 - Hex ID: FZEDIODEDO1512
 - Name: diode : DO15-12
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/diode/DO15-12/
 - Description: diode : DO15-12
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-diode-DO15-12](http://oom.lt/FOOTPRINT-eagle-eagle-default-diode-DO15-12)
 - Short Link: [http://oom.lt/FZEDIODEDO1512](http://oom.lt/FZEDIODEDO1512)

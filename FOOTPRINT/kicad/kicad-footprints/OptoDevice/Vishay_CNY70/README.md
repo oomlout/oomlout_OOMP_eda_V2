@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-OptoDevice-Vishay_CNY70
 - Hex ID: FZKOPVISHAYCNY7
 - Name: OptoDevice : Vishay_CNY70
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/OptoDevice/Vishay_CNY70/
 - Description: OptoDevice : Vishay_CNY70
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-OptoDevice-Vishay_CNY70](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-OptoDevice-Vishay_CNY70)
 - Short Link: [http://oom.lt/FZKOPVISHAYCNY7](http://oom.lt/FZKOPVISHAYCNY7)

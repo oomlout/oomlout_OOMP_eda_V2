@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-LMR33620ADDA
 - Hex ID: SZKREGULATORSWINGLMR3362ADDA
 - Name: Regulator_Switching : LMR33620ADDA
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/LMR33620ADDA/
 - Description: Regulator_Switching : LMR33620ADDA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LMR33620ADDA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LMR33620ADDA)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGLMR3362ADDA](http://oom.lt/SZKREGULATORSWINGLMR3362ADDA)

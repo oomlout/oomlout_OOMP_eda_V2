@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-vg-ML64ECB
 - Hex ID: FZECONVGML64ECB
 - Name: con-vg : ML64ECB
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-vg/ML64ECB/
 - Description: con-vg : ML64ECB
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-vg-ML64ECB](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-vg-ML64ECB)
 - Short Link: [http://oom.lt/FZECONVGML64ECB](http://oom.lt/FZECONVGML64ECB)

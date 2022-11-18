@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-microchip-PLCC-68
 - Hex ID: FZEMCHIPPLCC68
 - Name: microchip : PLCC-68
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/microchip/PLCC-68/
 - Description: microchip : PLCC-68
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-microchip-PLCC-68](http://oom.lt/FOOTPRINT-eagle-eagle-default-microchip-PLCC-68)
 - Short Link: [http://oom.lt/FZEMCHIPPLCC68](http://oom.lt/FZEMCHIPPLCC68)

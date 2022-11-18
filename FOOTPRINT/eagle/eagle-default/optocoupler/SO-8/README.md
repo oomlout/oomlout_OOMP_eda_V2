@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-optocoupler-SO-8
 - Hex ID: FZEOPTOCOUPLERSO8
 - Name: optocoupler : SO-8
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/optocoupler/SO-8/
 - Description: optocoupler : SO-8
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-optocoupler-SO-8](http://oom.lt/FOOTPRINT-eagle-eagle-default-optocoupler-SO-8)
 - Short Link: [http://oom.lt/FZEOPTOCOUPLERSO8](http://oom.lt/FZEOPTOCOUPLERSO8)

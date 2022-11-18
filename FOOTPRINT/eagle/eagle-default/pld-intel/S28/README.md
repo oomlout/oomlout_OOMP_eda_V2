@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-pld-intel-S28
 - Hex ID: FZEPLDINTELS28
 - Name: pld-intel : S28
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/pld-intel/S28/
 - Description: pld-intel : S28
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-pld-intel-S28](http://oom.lt/FOOTPRINT-eagle-eagle-default-pld-intel-S28)
 - Short Link: [http://oom.lt/FZEPLDINTELS28](http://oom.lt/FZEPLDINTELS28)

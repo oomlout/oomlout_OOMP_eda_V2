@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Symbol-Symbol_CreativeCommonsPublicDomain_SilkScreenTop_Small
 - Hex ID: FZKSZSYCREATIVECOONSPUBLICDOMAINSILKSCREENTOPSLL
 - Name: Symbol : Symbol_CreativeCommonsPublicDomain_SilkScreenTop_Small
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Symbol/Symbol_CreativeCommonsPublicDomain_SilkScreenTop_Small/
 - Description: Symbol : Symbol_CreativeCommonsPublicDomain_SilkScreenTop_Small
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Symbol-Symbol_CreativeCommonsPublicDomain_SilkScreenTop_Small](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Symbol-Symbol_CreativeCommonsPublicDomain_SilkScreenTop_Small)
 - Short Link: [http://oom.lt/FZKSZSYCREATIVECOONSPUBLICDOMAINSILKSCREENTOPSLL](http://oom.lt/FZKSZSYCREATIVECOONSPUBLICDOMAINSILKSCREENTOPSLL)

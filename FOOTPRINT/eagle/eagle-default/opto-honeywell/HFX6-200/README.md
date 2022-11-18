@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-opto-honeywell-HFX6-200
 - Hex ID: FZEOPTOHONEYWELLHFX62
 - Name: opto-honeywell : HFX6-200
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/opto-honeywell/HFX6-200/
 - Description: opto-honeywell : HFX6-200
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-opto-honeywell-HFX6-200](http://oom.lt/FOOTPRINT-eagle-eagle-default-opto-honeywell-HFX6-200)
 - Short Link: [http://oom.lt/FZEOPTOHONEYWELLHFX62](http://oom.lt/FZEOPTOHONEYWELLHFX62)

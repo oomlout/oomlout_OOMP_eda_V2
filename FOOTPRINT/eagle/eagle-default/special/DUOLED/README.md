@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-special-DUOLED
 - Hex ID: FZESPECIALDUOL
 - Name: special : DUOLED
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/special/DUOLED/
 - Description: special : DUOLED
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-special-DUOLED](http://oom.lt/FOOTPRINT-eagle-eagle-default-special-DUOLED)
 - Short Link: [http://oom.lt/FZESPECIALDUOL](http://oom.lt/FZESPECIALDUOL)

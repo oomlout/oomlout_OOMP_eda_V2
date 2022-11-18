@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-SMF7V5A
 - Hex ID: SZKDIODESMF7V5A
 - Name: Diode : SMF7V5A
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/SMF7V5A/
 - Description: Diode : SMF7V5A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-SMF7V5A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-SMF7V5A)
 - Short Link: [http://oom.lt/SZKDIODESMF7V5A](http://oom.lt/SZKDIODESMF7V5A)

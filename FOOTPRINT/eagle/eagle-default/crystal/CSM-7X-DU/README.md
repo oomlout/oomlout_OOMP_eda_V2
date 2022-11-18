@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-crystal-CSM-7X-DU
 - Hex ID: FZEXCSM7XDU
 - Name: crystal : CSM-7X-DU
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/crystal/CSM-7X-DU/
 - Description: crystal : CSM-7X-DU
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-crystal-CSM-7X-DU](http://oom.lt/FOOTPRINT-eagle-eagle-default-crystal-CSM-7X-DU)
 - Short Link: [http://oom.lt/FZEXCSM7XDU](http://oom.lt/FZEXCSM7XDU)

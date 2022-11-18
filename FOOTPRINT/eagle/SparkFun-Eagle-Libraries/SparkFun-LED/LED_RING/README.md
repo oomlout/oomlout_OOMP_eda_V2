@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-LED-LED_RING
 - Hex ID: FZSLLRING
 - Name: SparkFun-LED : LED_RING
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-LED/LED_RING/
 - Description: SparkFun-LED : LED_RING
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-LED-LED_RING](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-LED-LED_RING)
 - Short Link: [http://oom.lt/FZSLLRING](http://oom.lt/FZSLLRING)

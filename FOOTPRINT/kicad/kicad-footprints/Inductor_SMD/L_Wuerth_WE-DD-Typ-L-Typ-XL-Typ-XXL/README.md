@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Wuerth_WE-DD-Typ-L-Typ-XL-Typ-XXL
 - Hex ID: FZKINLWUERTHWEDDTYPLTYPXLTYPXXL
 - Name: Inductor_SMD : L_Wuerth_WE-DD-Typ-L-Typ-XL-Typ-XXL
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Wuerth_WE-DD-Typ-L-Typ-XL-Typ-XXL/
 - Description: Inductor_SMD : L_Wuerth_WE-DD-Typ-L-Typ-XL-Typ-XXL
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Wuerth_WE-DD-Typ-L-Typ-XL-Typ-XXL](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Wuerth_WE-DD-Typ-L-Typ-XL-Typ-XXL)
 - Short Link: [http://oom.lt/FZKINLWUERTHWEDDTYPLTYPXLTYPXXL](http://oom.lt/FZKINLWUERTHWEDDTYPLTYPXLTYPXXL)

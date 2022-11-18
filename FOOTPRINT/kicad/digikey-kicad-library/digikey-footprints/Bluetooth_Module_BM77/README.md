@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Bluetooth_Module_BM77
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSBLUETOOTHMOBM77
 - Name: digikey-footprints : Bluetooth_Module_BM77
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Bluetooth_Module_BM77/
 - Description: digikey-footprints : Bluetooth_Module_BM77
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Bluetooth_Module_BM77](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Bluetooth_Module_BM77)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSBLUETOOTHMOBM77](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSBLUETOOTHMOBM77)

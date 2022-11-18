@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [SZKCNGENERICMOUNTINGPINCONN1X12MOUNTINGPIN > Connector_Generic_MountingPin : Conn_01x12_MountingPin](#szkcngenericmountingpinconn1x12mountingpin--connector_generic_mountingpin--conn_01x12_mountingpin)
+* [SZKCNGMPC1X12MP > Connector_Generic_MountingPin : Conn_01x12_MountingPin](#szkcngmpc1x12mp--connector_generic_mountingpin--conn_01x12_mountingpin)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# SZKCNGENERICMOUNTINGPINCONN1X12MOUNTINGPIN > Connector_Generic_MountingPin : Conn_01x12_MountingPin
+# SZKCNGMPC1X12MP > Connector_Generic_MountingPin : Conn_01x12_MountingPin
 
 - ID: SYMBOL-kicad-kicad-symbols-Connector_Generic_MountingPin-Conn_01x12_MountingPin
-- Hex ID: SZKCNGENERICMOUNTINGPINCONN1X12MOUNTINGPIN
+- Hex ID: SZKCNGMPC1X12MP
 - Name: Connector_Generic_MountingPin : Conn_01x12_MountingPin
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector_Generic_MountingPin/Conn_01x12_MountingPin/
 - Description: Connector_Generic_MountingPin : Conn_01x12_MountingPin
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector_Generic_MountingPin-Conn_01x12_MountingPin](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector_Generic_MountingPin-Conn_01x12_MountingPin)
-- Short Link: [http://oom.lt/SZKCNGENERICMOUNTINGPINCONN1X12MOUNTINGPIN](http://oom.lt/SZKCNGENERICMOUNTINGPINCONN1X12MOUNTINGPIN)
+- Short Link: [http://oom.lt/SZKCNGMPC1X12MP](http://oom.lt/SZKCNGMPC1X12MP)
 
 ## Images
   
@@ -36,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Connector_Generic_MountingPin|
 |OOMP Index|oompIndex|Conn_01x12_MountingPin|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector_Generic_MountingPin-Conn_01x12_MountingPin|
-|Hex ID (short code)|hexID|SZKCNGENERICMOUNTINGPINCONN1X12MOUNTINGPIN|
+|Hex ID (short code)|hexID|SZKCNGMPC1X12MP|
 |name|name|Connector_Generic_MountingPin : Conn_01x12_MountingPin|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'J'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'Conn_01x12_MountingPin'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'connector'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Generic connectable mounting pin connector</td><td> single row</td><td> 01x12</td><td> script generated (kicad-library-utils/schlib/autogen/connector/)'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Connector*</td></tr><tr><td>*_1x??-1MP*'</td></tr></table>]|
 ||||

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-LED-SFH4356P
 - Hex ID: SZKLSFH4356P
 - Name: LED : SFH4356P
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/LED/SFH4356P/
 - Description: LED : SFH4356P
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-LED-SFH4356P](http://oom.lt/SYMBOL-kicad-kicad-symbols-LED-SFH4356P)
 - Short Link: [http://oom.lt/SZKLSFH4356P](http://oom.lt/SZKLSFH4356P)

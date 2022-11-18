@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-MCP601R
 - Hex ID: SZKAMPLIFIEROPERATIONALMCP61R
 - Name: Amplifier_Operational : MCP601R
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/MCP601R/
 - Description: Amplifier_Operational : MCP601R
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-MCP601R](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-MCP601R)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALMCP61R](http://oom.lt/SZKAMPLIFIEROPERATIONALMCP61R)

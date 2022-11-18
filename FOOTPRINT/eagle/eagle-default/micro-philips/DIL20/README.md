@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-micro-philips-DIL20
 - Hex ID: FZEMPHILIPSDIL2
 - Name: micro-philips : DIL20
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/micro-philips/DIL20/
 - Description: micro-philips : DIL20
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-philips-DIL20](http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-philips-DIL20)
 - Short Link: [http://oom.lt/FZEMPHILIPSDIL2](http://oom.lt/FZEMPHILIPSDIL2)

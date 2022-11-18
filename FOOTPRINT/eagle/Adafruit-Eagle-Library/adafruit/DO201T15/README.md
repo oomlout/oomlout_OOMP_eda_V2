@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-DO201T15
 - Hex ID: FZADO21T15
 - Name: adafruit : DO201T15
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/DO201T15/
 - Description: adafruit : DO201T15
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-DO201T15](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-DO201T15)
 - Short Link: [http://oom.lt/FZADO21T15](http://oom.lt/FZADO21T15)

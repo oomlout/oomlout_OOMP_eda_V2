@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-linear-PLCC-S44
 - Hex ID: FZELINEARPLCCS44
 - Name: linear : PLCC-S44
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/linear/PLCC-S44/
 - Description: linear : PLCC-S44
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-linear-PLCC-S44](http://oom.lt/FOOTPRINT-eagle-eagle-default-linear-PLCC-S44)
 - Short Link: [http://oom.lt/FZELINEARPLCCS44](http://oom.lt/FZELINEARPLCCS44)

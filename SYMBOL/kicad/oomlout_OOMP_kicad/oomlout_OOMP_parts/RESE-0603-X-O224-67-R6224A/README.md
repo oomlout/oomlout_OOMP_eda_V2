@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O224-67-R6224A
 - Hex ID: SZOOMPKOOMPPRESE63XO22467R6224A
 - Name: oomlout_OOMP_parts : RESE-0603-X-O224-67-R6224A
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/RESE-0603-X-O224-67-R6224A/
 - Description: oomlout_OOMP_parts : RESE-0603-X-O224-67-R6224A
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O224-67-R6224A](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O224-67-R6224A)
 - Short Link: [http://oom.lt/SZOOMPKOOMPPRESE63XO22467R6224A](http://oom.lt/SZOOMPKOOMPPRESE63XO22467R6224A)

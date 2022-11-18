@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-relay-V23040201
 - Hex ID: FZERELAYV23421
 - Name: relay : V23040201
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/relay/V23040201/
 - Description: relay : V23040201
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-V23040201](http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-V23040201)
 - Short Link: [http://oom.lt/FZERELAYV23421](http://oom.lt/FZERELAYV23421)

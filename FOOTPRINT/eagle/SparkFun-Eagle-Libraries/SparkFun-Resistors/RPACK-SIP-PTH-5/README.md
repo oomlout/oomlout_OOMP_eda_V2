@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Resistors-RPACK-SIP-PTH-5
 - Hex ID: FZSRRPACKSIPP5
 - Name: SparkFun-Resistors : RPACK-SIP-PTH-5
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Resistors/RPACK-SIP-PTH-5/
 - Description: SparkFun-Resistors : RPACK-SIP-PTH-5
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Resistors-RPACK-SIP-PTH-5](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Resistors-RPACK-SIP-PTH-5)
 - Short Link: [http://oom.lt/FZSRRPACKSIPP5](http://oom.lt/FZSRRPACKSIPP5)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_UART-ADM101E
 - Hex ID: SZKINTERFACEUARTADM11E
 - Name: Interface_UART : ADM101E
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_UART/ADM101E/
 - Description: Interface_UART : ADM101E
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_UART-ADM101E](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_UART-ADM101E)
 - Short Link: [http://oom.lt/SZKINTERFACEUARTADM11E](http://oom.lt/SZKINTERFACEUARTADM11E)

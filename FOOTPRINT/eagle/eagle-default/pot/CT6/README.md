@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-pot-CT6
 - Hex ID: FZEPOTCT6
 - Name: pot : CT6
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/pot/CT6/
 - Description: pot : CT6
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-pot-CT6](http://oom.lt/FOOTPRINT-eagle-eagle-default-pot-CT6)
 - Short Link: [http://oom.lt/FZEPOTCT6](http://oom.lt/FZEPOTCT6)

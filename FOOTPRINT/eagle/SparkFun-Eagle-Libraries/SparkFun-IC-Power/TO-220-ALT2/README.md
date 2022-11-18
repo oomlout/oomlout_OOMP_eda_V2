@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Power-TO-220-ALT2
 - Hex ID: FZSIPTO22ALT2
 - Name: SparkFun-IC-Power : TO-220-ALT2
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-IC-Power/TO-220-ALT2/
 - Description: SparkFun-IC-Power : TO-220-ALT2
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Power-TO-220-ALT2](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Power-TO-220-ALT2)
 - Short Link: [http://oom.lt/FZSIPTO22ALT2](http://oom.lt/FZSIPTO22ALT2)

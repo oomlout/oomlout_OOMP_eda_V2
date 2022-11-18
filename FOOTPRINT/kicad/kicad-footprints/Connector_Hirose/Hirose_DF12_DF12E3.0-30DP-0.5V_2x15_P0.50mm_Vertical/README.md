@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_Hirose-Hirose_DF12_DF12E3.0-30DP-0.5V_2x15_P0.50mm_Vertical
 - Hex ID: FZKCNHIROSEHIROSEDF12DF12E33DP5V2X15P5F
 - Name: Connector_Hirose : Hirose_DF12_DF12E3.0-30DP-0.5V_2x15_P0.50mm_Vertical
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Hirose/Hirose_DF12_DF12E3.0-30DP-0.5V_2x15_P0.50mm_Vertical/
 - Description: Connector_Hirose : Hirose_DF12_DF12E3.0-30DP-0.5V_2x15_P0.50mm_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Hirose-Hirose_DF12_DF12E3.0-30DP-0.5V_2x15_P0.50mm_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Hirose-Hirose_DF12_DF12E3.0-30DP-0.5V_2x15_P0.50mm_Vertical)
 - Short Link: [http://oom.lt/FZKCNHIROSEHIROSEDF12DF12E33DP5V2X15P5F](http://oom.lt/FZKCNHIROSEHIROSEDF12DF12E33DP5V2X15P5F)

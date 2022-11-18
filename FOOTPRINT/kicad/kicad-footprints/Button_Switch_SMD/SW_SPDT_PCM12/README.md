@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-SW_SPDT_PCM12
 - Hex ID: FZKBSWSPDTPCM12
 - Name: Button_Switch_SMD : SW_SPDT_PCM12
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Button_Switch_SMD/SW_SPDT_PCM12/
 - Description: Button_Switch_SMD : SW_SPDT_PCM12
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-SW_SPDT_PCM12](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-SW_SPDT_PCM12)
 - Short Link: [http://oom.lt/FZKBSWSPDTPCM12](http://oom.lt/FZKBSWSPDTPCM12)

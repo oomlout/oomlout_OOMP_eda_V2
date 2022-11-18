@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Wuerth_HCM-1052
 - Hex ID: FZKINLWUERTHHCM152
 - Name: Inductor_SMD : L_Wuerth_HCM-1052
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Wuerth_HCM-1052/
 - Description: Inductor_SMD : L_Wuerth_HCM-1052
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Wuerth_HCM-1052](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Wuerth_HCM-1052)
 - Short Link: [http://oom.lt/FZKINLWUERTHHCM152](http://oom.lt/FZKINLWUERTHHCM152)

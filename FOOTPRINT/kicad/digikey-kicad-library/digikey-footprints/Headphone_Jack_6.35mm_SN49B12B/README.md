@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Headphone_Jack_6.35mm_SN49B12B
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSHEADPHONEJ635SN49B12B
 - Name: digikey-footprints : Headphone_Jack_6.35mm_SN49B12B
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Headphone_Jack_6.35mm_SN49B12B/
 - Description: digikey-footprints : Headphone_Jack_6.35mm_SN49B12B
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Headphone_Jack_6.35mm_SN49B12B](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Headphone_Jack_6.35mm_SN49B12B)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSHEADPHONEJ635SN49B12B](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSHEADPHONEJ635SN49B12B)

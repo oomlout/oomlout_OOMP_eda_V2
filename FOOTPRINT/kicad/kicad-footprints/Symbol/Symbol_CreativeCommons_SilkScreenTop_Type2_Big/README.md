@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKSZSYCREATIVECOONSSILKSCREENTOPTYPE2BIG > Symbol : Symbol_CreativeCommons_SilkScreenTop_Type2_Big](#fzkszsycreativecoonssilkscreentoptype2big--symbol--symbol_creativecommons_silkscreentop_type2_big)
+* [FZKSZSYCREATIVECOONSSILKSCREENTOPT2BIG > Symbol : Symbol_CreativeCommons_SilkScreenTop_Type2_Big](#fzkszsycreativecoonssilkscreentopt2big--symbol--symbol_creativecommons_silkscreentop_type2_big)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKSZSYCREATIVECOONSSILKSCREENTOPTYPE2BIG > Symbol : Symbol_CreativeCommons_SilkScreenTop_Type2_Big
+# FZKSZSYCREATIVECOONSSILKSCREENTOPT2BIG > Symbol : Symbol_CreativeCommons_SilkScreenTop_Type2_Big
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Symbol-Symbol_CreativeCommons_SilkScreenTop_Type2_Big
-- Hex ID: FZKSZSYCREATIVECOONSSILKSCREENTOPTYPE2BIG
+- Hex ID: FZKSZSYCREATIVECOONSSILKSCREENTOPT2BIG
 - Name: Symbol : Symbol_CreativeCommons_SilkScreenTop_Type2_Big
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Symbol/Symbol_CreativeCommons_SilkScreenTop_Type2_Big/
 - Description: Symbol : Symbol_CreativeCommons_SilkScreenTop_Type2_Big
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Symbol-Symbol_CreativeCommons_SilkScreenTop_Type2_Big](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Symbol-Symbol_CreativeCommons_SilkScreenTop_Type2_Big)
-- Short Link: [http://oom.lt/FZKSZSYCREATIVECOONSSILKSCREENTOPTYPE2BIG](http://oom.lt/FZKSZSYCREATIVECOONSSILKSCREENTOPTYPE2BIG)
+- Short Link: [http://oom.lt/FZKSZSYCREATIVECOONSSILKSCREENTOPT2BIG](http://oom.lt/FZKSZSYCREATIVECOONSSILKSCREENTOPT2BIG)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Symbol|
 |OOMP Index|oompIndex|Symbol_CreativeCommons_SilkScreenTop_Type2_Big|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Symbol-Symbol_CreativeCommons_SilkScreenTop_Type2_Big|
-|Hex ID (short code)|hexID|FZKSZSYCREATIVECOONSSILKSCREENTOPTYPE2BIG|
+|Hex ID (short code)|hexID|FZKSZSYCREATIVECOONSSILKSCREENTOPT2BIG|
 |name|name|Symbol : Symbol_CreativeCommons_SilkScreenTop_Type2_Big|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Symbol_CreativeCommons_SilkScreenTop_Type2_Big'</td><td> 'description'</td></tr><tr><td> 'Symbol</td><td> Creative Commons</td><td> SilkScreen Top</td><td> Type 2</td><td> Big</td><td>'</td><td> 'tags'</td></tr><tr><td> 'Symbol</td><td> Creative Commons</td><td> SilkScreen Top</td><td> Type 2</td><td> Big</td><td>'</td><td> 'attributeType'</td></tr><tr><td> None</td><td> 'pins'</td></tr><tr><td> <table><tr><td></td></tr></table></td></tr></table>|
 ||||

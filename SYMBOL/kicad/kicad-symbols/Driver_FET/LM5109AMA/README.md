@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Driver_FET-LM5109AMA
 - Hex ID: SZKDRIVERFETLM519AMA
 - Name: Driver_FET : LM5109AMA
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Driver_FET/LM5109AMA/
 - Description: Driver_FET : LM5109AMA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-LM5109AMA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-LM5109AMA)
 - Short Link: [http://oom.lt/SZKDRIVERFETLM519AMA](http://oom.lt/SZKDRIVERFETLM519AMA)

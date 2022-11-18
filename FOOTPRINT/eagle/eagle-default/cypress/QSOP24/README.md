@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-cypress-QSOP24
 - Hex ID: FZECYPRESSQS24
 - Name: cypress : QSOP24
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/cypress/QSOP24/
 - Description: cypress : QSOP24
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-cypress-QSOP24](http://oom.lt/FOOTPRINT-eagle-eagle-default-cypress-QSOP24)
 - Short Link: [http://oom.lt/FZECYPRESSQS24](http://oom.lt/FZECYPRESSQS24)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-LM5007MM
 - Hex ID: SZKREGULATORSWINGLM57
 - Name: Regulator_Switching : LM5007MM
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/LM5007MM/
 - Description: Regulator_Switching : LM5007MM
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LM5007MM](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LM5007MM)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGLM57](http://oom.lt/SZKREGULATORSWINGLM57)

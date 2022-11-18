@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-ADP2302ARDZ
 - Hex ID: SZKREGULATORSWINGADP232ARDZ
 - Name: Regulator_Switching : ADP2302ARDZ
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/ADP2302ARDZ/
 - Description: Regulator_Switching : ADP2302ARDZ
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-ADP2302ARDZ](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-ADP2302ARDZ)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGADP232ARDZ](http://oom.lt/SZKREGULATORSWINGADP232ARDZ)

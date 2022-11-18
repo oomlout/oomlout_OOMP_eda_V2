@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKTPTPTHTPAD4X4DRILL2 > TestPoint : TestPoint_THTPad_4.0x4.0mm_Drill2.0mm](#fzktptpthtpad4x4drill2--testpoint--testpoint_thtpad_40x40mm_drill20mm)
+* [FZKTPTPTHTP4X4DRILL2 > TestPoint : TestPoint_THTPad_4.0x4.0mm_Drill2.0mm](#fzktptpthtp4x4drill2--testpoint--testpoint_thtpad_40x40mm_drill20mm)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKTPTPTHTPAD4X4DRILL2 > TestPoint : TestPoint_THTPad_4.0x4.0mm_Drill2.0mm
+# FZKTPTPTHTP4X4DRILL2 > TestPoint : TestPoint_THTPad_4.0x4.0mm_Drill2.0mm
 
 - ID: FOOTPRINT-kicad-kicad-footprints-TestPoint-TestPoint_THTPad_4.0x4.0mm_Drill2.0mm
-- Hex ID: FZKTPTPTHTPAD4X4DRILL2
+- Hex ID: FZKTPTPTHTP4X4DRILL2
 - Name: TestPoint : TestPoint_THTPad_4.0x4.0mm_Drill2.0mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/TestPoint/TestPoint_THTPad_4.0x4.0mm_Drill2.0mm/
 - Description: TestPoint : TestPoint_THTPad_4.0x4.0mm_Drill2.0mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-TestPoint-TestPoint_THTPad_4.0x4.0mm_Drill2.0mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-TestPoint-TestPoint_THTPad_4.0x4.0mm_Drill2.0mm)
-- Short Link: [http://oom.lt/FZKTPTPTHTPAD4X4DRILL2](http://oom.lt/FZKTPTPTHTPAD4X4DRILL2)
+- Short Link: [http://oom.lt/FZKTPTPTHTP4X4DRILL2](http://oom.lt/FZKTPTPTHTP4X4DRILL2)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|TestPoint|
 |OOMP Index|oompIndex|TestPoint_THTPad_4.0x4.0mm_Drill2.0mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-TestPoint-TestPoint_THTPad_4.0x4.0mm_Drill2.0mm|
-|Hex ID (short code)|hexID|FZKTPTPTHTPAD4X4DRILL2|
+|Hex ID (short code)|hexID|FZKTPTPTHTP4X4DRILL2|
 |name|name|TestPoint : TestPoint_THTPad_4.0x4.0mm_Drill2.0mm|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'TestPoint_THTPad_4.0x4.0mm_Drill2.0mm'</td><td> 'description'</td></tr><tr><td> 'THT rectangular pad as test Point</td><td> square 4.0mm  side length</td><td> hole diameter 2.0mm'</td><td> 'tags'</td></tr><tr><td> 'test point THT pad rectangle square'</td><td> 'attributeType'</td></tr><tr><td> None</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

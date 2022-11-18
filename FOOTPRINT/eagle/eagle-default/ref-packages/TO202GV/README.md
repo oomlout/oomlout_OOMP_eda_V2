@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEREFPACKAGESTO22GV > ref-packages : TO202GV](#fzerefpackagesto22gv--ref-packages--to202gv)
+* [FZEREFPSTO22GV > ref-packages : TO202GV](#fzerefpsto22gv--ref-packages--to202gv)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEREFPACKAGESTO22GV > ref-packages : TO202GV
+# FZEREFPSTO22GV > ref-packages : TO202GV
 
 - ID: FOOTPRINT-eagle-eagle-default-ref-packages-TO202GV
-- Hex ID: FZEREFPACKAGESTO22GV
+- Hex ID: FZEREFPSTO22GV
 - Name: ref-packages : TO202GV
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ref-packages/TO202GV/
 - Description: ref-packages : TO202GV
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-TO202GV](http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-TO202GV)
-- Short Link: [http://oom.lt/FZEREFPACKAGESTO22GV](http://oom.lt/FZEREFPACKAGESTO22GV)
+- Short Link: [http://oom.lt/FZEREFPSTO22GV](http://oom.lt/FZEREFPSTO22GV)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|ref-packages|
 |OOMP Index|oompIndex|TO202GV|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-ref-packages-TO202GV|
-|Hex ID (short code)|hexID|FZEREFPACKAGESTO22GV|
+|Hex ID (short code)|hexID|FZEREFPSTO22GV|
 |name|name|ref-packages : TO202GV|
 ||||

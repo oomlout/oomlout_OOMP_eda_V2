@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_Expansion-LTC4314xGN
 - Hex ID: SZKINTERFACEEXPANSIONLTC4314XGN
 - Name: Interface_Expansion : LTC4314xGN
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_Expansion/LTC4314xGN/
 - Description: Interface_Expansion : LTC4314xGN
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Expansion-LTC4314xGN](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Expansion-LTC4314xGN)
 - Short Link: [http://oom.lt/SZKINTERFACEEXPANSIONLTC4314XGN](http://oom.lt/SZKINTERFACEEXPANSIONLTC4314XGN)

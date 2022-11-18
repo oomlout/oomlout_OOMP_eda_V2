@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Driver_FET-IRS2106
 - Hex ID: SZKDRIVERFETIRS216
 - Name: Driver_FET : IRS2106
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Driver_FET/IRS2106/
 - Description: Driver_FET : IRS2106
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-IRS2106](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-IRS2106)
 - Short Link: [http://oom.lt/SZKDRIVERFETIRS216](http://oom.lt/SZKDRIVERFETIRS216)

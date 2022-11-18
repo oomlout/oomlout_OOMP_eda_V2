@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-DiscreteSemi-TO-252_DPAK
 - Hex ID: FZSDSTO252DPAK
 - Name: SparkFun-DiscreteSemi : TO-252_DPAK
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-DiscreteSemi/TO-252_DPAK/
 - Description: SparkFun-DiscreteSemi : TO-252_DPAK
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-DiscreteSemi-TO-252_DPAK](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-DiscreteSemi-TO-252_DPAK)
 - Short Link: [http://oom.lt/FZSDSTO252DPAK](http://oom.lt/FZSDSTO252DPAK)

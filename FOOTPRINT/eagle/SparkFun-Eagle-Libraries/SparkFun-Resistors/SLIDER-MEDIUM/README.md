@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZSRSLIDERMEDIUM > SparkFun-Resistors : SLIDER-MEDIUM](#fzsrslidermedium--sparkfun-resistors--slider-medium)
+* [FZSRSLRM > SparkFun-Resistors : SLIDER-MEDIUM](#fzsrslrm--sparkfun-resistors--slider-medium)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZSRSLIDERMEDIUM > SparkFun-Resistors : SLIDER-MEDIUM
+# FZSRSLRM > SparkFun-Resistors : SLIDER-MEDIUM
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Resistors-SLIDER-MEDIUM
-- Hex ID: FZSRSLIDERMEDIUM
+- Hex ID: FZSRSLRM
 - Name: SparkFun-Resistors : SLIDER-MEDIUM
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Resistors/SLIDER-MEDIUM/
 - Description: SparkFun-Resistors : SLIDER-MEDIUM
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Resistors-SLIDER-MEDIUM](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Resistors-SLIDER-MEDIUM)
-- Short Link: [http://oom.lt/FZSRSLIDERMEDIUM](http://oom.lt/FZSRSLIDERMEDIUM)
+- Short Link: [http://oom.lt/FZSRSLRM](http://oom.lt/FZSRSLRM)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|SparkFun-Resistors|
 |OOMP Index|oompIndex|SLIDER-MEDIUM|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Resistors-SLIDER-MEDIUM|
-|Hex ID (short code)|hexID|FZSRSLIDERMEDIUM|
+|Hex ID (short code)|hexID|FZSRSLRM|
 |name|name|SparkFun-Resistors : SLIDER-MEDIUM|
 ||||

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Connector-AVR-PDI-6
 - Hex ID: SZKCNAVRPDI6
 - Name: Connector : AVR-PDI-6
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector/AVR-PDI-6/
 - Description: Connector : AVR-PDI-6
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-AVR-PDI-6](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-AVR-PDI-6)
 - Short Link: [http://oom.lt/SZKCNAVRPDI6](http://oom.lt/SZKCNAVRPDI6)

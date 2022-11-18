@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_SATA_SAS-SATA_Amphenol_10029364-001LF_Horizontal
 - Hex ID: FZKCNSATASASSATAAMPHENOL1293641LFH
 - Name: Connector_SATA_SAS : SATA_Amphenol_10029364-001LF_Horizontal
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_SATA_SAS/SATA_Amphenol_10029364-001LF_Horizontal/
 - Description: Connector_SATA_SAS : SATA_Amphenol_10029364-001LF_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_SATA_SAS-SATA_Amphenol_10029364-001LF_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_SATA_SAS-SATA_Amphenol_10029364-001LF_Horizontal)
 - Short Link: [http://oom.lt/FZKCNSATASASSATAAMPHENOL1293641LFH](http://oom.lt/FZKCNSATASASSATAAMPHENOL1293641LFH)

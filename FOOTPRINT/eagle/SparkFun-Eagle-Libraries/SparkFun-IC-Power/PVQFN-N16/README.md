@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Power-PVQFN-N16
 - Hex ID: FZSIPPVQFNN16
 - Name: SparkFun-IC-Power : PVQFN-N16
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-IC-Power/PVQFN-N16/
 - Description: SparkFun-IC-Power : PVQFN-N16
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Power-PVQFN-N16](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Power-PVQFN-N16)
 - Short Link: [http://oom.lt/FZSIPPVQFNN16](http://oom.lt/FZSIPPVQFNN16)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-ICL_THT_P7.8mm
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSICLTHTP78
 - Name: digikey-footprints : ICL_THT_P7.8mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/ICL_THT_P7.8mm/
 - Description: digikey-footprints : ICL_THT_P7.8mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-ICL_THT_P7.8mm](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-ICL_THT_P7.8mm)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSICLTHTP78](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSICLTHTP78)

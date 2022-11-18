@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny828-M
 - Hex ID: SZKMCUMCHIPATTINYATTINY828M
 - Name: MCU_Microchip_ATtiny : ATtiny828-M
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_ATtiny/ATtiny828-M/
 - Description: MCU_Microchip_ATtiny : ATtiny828-M
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny828-M](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny828-M)
 - Short Link: [http://oom.lt/SZKMCUMCHIPATTINYATTINY828M](http://oom.lt/SZKMCUMCHIPATTINYATTINY828M)

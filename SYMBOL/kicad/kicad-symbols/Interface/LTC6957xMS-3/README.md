@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface-LTC6957xMS-3
 - Hex ID: SZKINTERFACELTC6957XMS3
 - Name: Interface : LTC6957xMS-3
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface/LTC6957xMS-3/
 - Description: Interface : LTC6957xMS-3
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-LTC6957xMS-3](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-LTC6957xMS-3)
 - Short Link: [http://oom.lt/SZKINTERFACELTC6957XMS3](http://oom.lt/SZKINTERFACELTC6957XMS3)

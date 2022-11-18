@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Connector-TestPoint_Flag
 - Hex ID: SZKCNTPFLAG
 - Name: Connector : TestPoint_Flag
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector/TestPoint_Flag/
 - Description: Connector : TestPoint_Flag
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-TestPoint_Flag](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-TestPoint_Flag)
 - Short Link: [http://oom.lt/SZKCNTPFLAG](http://oom.lt/SZKCNTPFLAG)

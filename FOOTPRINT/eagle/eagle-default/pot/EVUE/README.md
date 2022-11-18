@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-pot-EVUE
 - Hex ID: FZEPOTEVUE
 - Name: pot : EVUE
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/pot/EVUE/
 - Description: pot : EVUE
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-pot-EVUE](http://oom.lt/FOOTPRINT-eagle-eagle-default-pot-EVUE)
 - Short Link: [http://oom.lt/FZEPOTEVUE](http://oom.lt/FZEPOTEVUE)

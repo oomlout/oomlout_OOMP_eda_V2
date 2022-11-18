@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-analog-devices-SO24R
 - Hex ID: FZEANALOGDEVICESSO24R
 - Name: analog-devices : SO24R
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/analog-devices/SO24R/
 - Description: analog-devices : SO24R
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-analog-devices-SO24R](http://oom.lt/FOOTPRINT-eagle-eagle-default-analog-devices-SO24R)
 - Short Link: [http://oom.lt/FZEANALOGDEVICESSO24R](http://oom.lt/FZEANALOGDEVICESSO24R)

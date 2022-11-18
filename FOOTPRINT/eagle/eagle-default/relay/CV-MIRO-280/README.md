@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-relay-CV-MIRO-280
 - Hex ID: FZERELAYCVMIRO28
 - Name: relay : CV-MIRO-280
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/relay/CV-MIRO-280/
 - Description: relay : CV-MIRO-280
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-CV-MIRO-280](http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-CV-MIRO-280)
 - Short Link: [http://oom.lt/FZERELAYCVMIRO28](http://oom.lt/FZERELAYCVMIRO28)

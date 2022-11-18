@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-RF_GPS-ublox_MAX
 - Hex ID: FZKGPSUBLOXMAX
 - Name: RF_GPS : ublox_MAX
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/RF_GPS/ublox_MAX/
 - Description: RF_GPS : ublox_MAX
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_GPS-ublox_MAX](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_GPS-ublox_MAX)
 - Short Link: [http://oom.lt/FZKGPSUBLOXMAX](http://oom.lt/FZKGPSUBLOXMAX)

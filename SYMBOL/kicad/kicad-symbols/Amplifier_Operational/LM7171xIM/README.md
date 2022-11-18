@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LM7171xIM
 - Hex ID: SZKAMPLIFIEROPERATIONALLM7171XIM
 - Name: Amplifier_Operational : LM7171xIM
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/LM7171xIM/
 - Description: Amplifier_Operational : LM7171xIM
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LM7171xIM](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LM7171xIM)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALLM7171XIM](http://oom.lt/SZKAMPLIFIEROPERATIONALLM7171XIM)

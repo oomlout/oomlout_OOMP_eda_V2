@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Analog_DAC-MAX5741
 - Hex ID: SZKANALOGDACMAX5741
 - Name: Analog_DAC : MAX5741
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog_DAC/MAX5741/
 - Description: Analog_DAC : MAX5741
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_DAC-MAX5741](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_DAC-MAX5741)
 - Short Link: [http://oom.lt/SZKANALOGDACMAX5741](http://oom.lt/SZKANALOGDACMAX5741)

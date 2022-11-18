@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Potentiometer_Digital-X9250
 - Hex ID: SZKPOTDIGITALX925
 - Name: Potentiometer_Digital : X9250
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Potentiometer_Digital/X9250/
 - Description: Potentiometer_Digital : X9250
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Potentiometer_Digital-X9250](http://oom.lt/SYMBOL-kicad-kicad-symbols-Potentiometer_Digital-X9250)
 - Short Link: [http://oom.lt/SZKPOTDIGITALX925](http://oom.lt/SZKPOTDIGITALX925)

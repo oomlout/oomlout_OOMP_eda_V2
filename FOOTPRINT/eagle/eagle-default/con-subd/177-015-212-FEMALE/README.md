@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-subd-177-015-212-FEMALE
 - Hex ID: FZECONSUBD17715212F
 - Name: con-subd : 177-015-212-FEMALE
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-subd/177-015-212-FEMALE/
 - Description: con-subd : 177-015-212-FEMALE
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-subd-177-015-212-FEMALE](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-subd-177-015-212-FEMALE)
 - Short Link: [http://oom.lt/FZECONSUBD17715212F](http://oom.lt/FZECONSUBD17715212F)

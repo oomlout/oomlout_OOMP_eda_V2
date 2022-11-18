@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Analog_Switch-TS3L501ERUA
 - Hex ID: SZKANALOGSWTS3L51ERUA
 - Name: Analog_Switch : TS3L501ERUA
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog_Switch/TS3L501ERUA/
 - Description: Analog_Switch : TS3L501ERUA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_Switch-TS3L501ERUA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_Switch-TS3L501ERUA)
 - Short Link: [http://oom.lt/SZKANALOGSWTS3L51ERUA](http://oom.lt/SZKANALOGSWTS3L51ERUA)

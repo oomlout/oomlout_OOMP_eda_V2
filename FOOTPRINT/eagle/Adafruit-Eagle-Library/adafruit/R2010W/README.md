@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-R2010W
 - Hex ID: FZAR21W
 - Name: adafruit : R2010W
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/R2010W/
 - Description: adafruit : R2010W
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-R2010W](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-R2010W)
 - Short Link: [http://oom.lt/FZAR21W](http://oom.lt/FZAR21W)

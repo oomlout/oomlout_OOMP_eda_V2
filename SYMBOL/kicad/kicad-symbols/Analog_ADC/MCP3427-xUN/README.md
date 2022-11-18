@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Analog_ADC-MCP3427-xUN
 - Hex ID: SZKANALOGADCMCP3427XUN
 - Name: Analog_ADC : MCP3427-xUN
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog_ADC/MCP3427-xUN/
 - Description: Analog_ADC : MCP3427-xUN
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-MCP3427-xUN](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-MCP3427-xUN)
 - Short Link: [http://oom.lt/SZKANALOGADCMCP3427XUN](http://oom.lt/SZKANALOGADCMCP3427XUN)

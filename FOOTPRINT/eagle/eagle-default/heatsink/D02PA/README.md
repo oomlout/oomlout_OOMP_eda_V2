@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-heatsink-D02PA
 - Hex ID: FZEHD2PA
 - Name: heatsink : D02PA
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/heatsink/D02PA/
 - Description: heatsink : D02PA
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-heatsink-D02PA](http://oom.lt/FOOTPRINT-eagle-eagle-default-heatsink-D02PA)
 - Short Link: [http://oom.lt/FZEHD2PA](http://oom.lt/FZEHD2PA)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-linear-technology-QFN64-9X9
 - Hex ID: FZELINEARTECHNOLOGYQFN649X9
 - Name: linear-technology : QFN64-9X9
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/linear-technology/QFN64-9X9/
 - Description: linear-technology : QFN64-9X9
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-linear-technology-QFN64-9X9](http://oom.lt/FOOTPRINT-eagle-eagle-default-linear-technology-QFN64-9X9)
 - Short Link: [http://oom.lt/FZELINEARTECHNOLOGYQFN649X9](http://oom.lt/FZELINEARTECHNOLOGYQFN649X9)

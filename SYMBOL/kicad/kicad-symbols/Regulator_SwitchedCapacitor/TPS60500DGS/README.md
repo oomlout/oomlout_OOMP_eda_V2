@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_SwitchedCapacitor-TPS60500DGS
 - Hex ID: SZKREGULATORSWEDCAPACITORTPS65DGS
 - Name: Regulator_SwitchedCapacitor : TPS60500DGS
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_SwitchedCapacitor/TPS60500DGS/
 - Description: Regulator_SwitchedCapacitor : TPS60500DGS
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_SwitchedCapacitor-TPS60500DGS](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_SwitchedCapacitor-TPS60500DGS)
 - Short Link: [http://oom.lt/SZKREGULATORSWEDCAPACITORTPS65DGS](http://oom.lt/SZKREGULATORSWEDCAPACITORTPS65DGS)

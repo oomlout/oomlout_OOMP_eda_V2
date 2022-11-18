@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O499D-01-R6O499D
 - Hex ID: SZOOMPKOOMPPRESE63XO499D1R6O499D
 - Name: oomlout_OOMP_parts : RESE-0603-X-O499D-01-R6O499D
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/RESE-0603-X-O499D-01-R6O499D/
 - Description: oomlout_OOMP_parts : RESE-0603-X-O499D-01-R6O499D
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O499D-01-R6O499D](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O499D-01-R6O499D)
 - Short Link: [http://oom.lt/SZOOMPKOOMPPRESE63XO499D1R6O499D](http://oom.lt/SZOOMPKOOMPPRESE63XO499D1R6O499D)

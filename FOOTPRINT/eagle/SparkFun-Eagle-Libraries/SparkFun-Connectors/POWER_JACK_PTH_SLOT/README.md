@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-POWER_JACK_PTH_SLOT
 - Hex ID: FZSSPARKFUNCNSPOWERJPSLOT
 - Name: SparkFun-Connectors : POWER_JACK_PTH_SLOT
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Connectors/POWER_JACK_PTH_SLOT/
 - Description: SparkFun-Connectors : POWER_JACK_PTH_SLOT
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-POWER_JACK_PTH_SLOT](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-POWER_JACK_PTH_SLOT)
 - Short Link: [http://oom.lt/FZSSPARKFUNCNSPOWERJPSLOT](http://oom.lt/FZSSPARKFUNCNSPOWERJPSLOT)

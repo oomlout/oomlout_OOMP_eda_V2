@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0805_2012Metric
 - Hex ID: FZKRR85212VA
 - Name: Resistor_SMD : R_0805_2012Metric
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_0805_2012Metric/
 - Description: Resistor_SMD : R_0805_2012Metric
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0805_2012Metric](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0805_2012Metric)
 - Short Link: [http://oom.lt/FZKRR85212VA](http://oom.lt/FZKRR85212VA)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Converter_DCDC-TEN20-2411WIN
 - Hex ID: SZKCONTEN22411WIN
 - Name: Converter_DCDC : TEN20-2411WIN
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Converter_DCDC/TEN20-2411WIN/
 - Description: Converter_DCDC : TEN20-2411WIN
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-TEN20-2411WIN](http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-TEN20-2411WIN)
 - Short Link: [http://oom.lt/SZKCONTEN22411WIN](http://oom.lt/SZKCONTEN22411WIN)

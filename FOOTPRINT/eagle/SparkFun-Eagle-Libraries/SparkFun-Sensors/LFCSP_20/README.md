@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-LFCSP_20
 - Hex ID: FZSSPARKFUNSENSLFCSP2
 - Name: SparkFun-Sensors : LFCSP_20
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Sensors/LFCSP_20/
 - Description: SparkFun-Sensors : LFCSP_20
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-LFCSP_20](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-LFCSP_20)
 - Short Link: [http://oom.lt/FZSSPARKFUNSENSLFCSP2](http://oom.lt/FZSSPARKFUNSENSLFCSP2)

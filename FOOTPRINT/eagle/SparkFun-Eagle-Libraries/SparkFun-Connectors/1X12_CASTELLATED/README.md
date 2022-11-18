@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-1X12_CASTELLATED
 - Hex ID: FZSSPARKFUNCNS1X12CASTELLATED
 - Name: SparkFun-Connectors : 1X12_CASTELLATED
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Connectors/1X12_CASTELLATED/
 - Description: SparkFun-Connectors : 1X12_CASTELLATED
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-1X12_CASTELLATED](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-1X12_CASTELLATED)
 - Short Link: [http://oom.lt/FZSSPARKFUNCNS1X12CASTELLATED](http://oom.lt/FZSSPARKFUNCNS1X12CASTELLATED)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_Micro-B_Wuerth_629105150521
 - Hex ID: FZKCNUUMBWUERTH6291515521
 - Name: Connector_USB : USB_Micro-B_Wuerth_629105150521
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB_Micro-B_Wuerth_629105150521/
 - Description: Connector_USB : USB_Micro-B_Wuerth_629105150521
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_Micro-B_Wuerth_629105150521](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_Micro-B_Wuerth_629105150521)
 - Short Link: [http://oom.lt/FZKCNUUMBWUERTH6291515521](http://oom.lt/FZKCNUUMBWUERTH6291515521)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-SMLK34
 - Hex ID: FZASMLK34
 - Name: adafruit : SMLK34
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/SMLK34/
 - Description: adafruit : SMLK34
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-SMLK34](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-SMLK34)
 - Short Link: [http://oom.lt/FZASMLK34](http://oom.lt/FZASMLK34)

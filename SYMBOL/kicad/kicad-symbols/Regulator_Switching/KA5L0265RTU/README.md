@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-KA5L0265RTU
 - Hex ID: SZKREGULATORSWINGKA5L265RTU
 - Name: Regulator_Switching : KA5L0265RTU
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/KA5L0265RTU/
 - Description: Regulator_Switching : KA5L0265RTU
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-KA5L0265RTU](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-KA5L0265RTU)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGKA5L265RTU](http://oom.lt/SZKREGULATORSWINGKA5L265RTU)

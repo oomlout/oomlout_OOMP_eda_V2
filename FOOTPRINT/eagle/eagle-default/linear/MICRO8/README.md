@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-linear-MICRO8
 - Hex ID: FZELINEARM8
 - Name: linear : MICRO8
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/linear/MICRO8/
 - Description: linear : MICRO8
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-linear-MICRO8](http://oom.lt/FOOTPRINT-eagle-eagle-default-linear-MICRO8)
 - Short Link: [http://oom.lt/FZELINEARM8](http://oom.lt/FZELINEARM8)

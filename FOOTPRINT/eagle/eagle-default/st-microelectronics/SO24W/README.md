@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-st-microelectronics-SO24W
 - Hex ID: FZESTMELECTRONICSSO24W
 - Name: st-microelectronics : SO24W
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/st-microelectronics/SO24W/
 - Description: st-microelectronics : SO24W
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-st-microelectronics-SO24W](http://oom.lt/FOOTPRINT-eagle-eagle-default-st-microelectronics-SO24W)
 - Short Link: [http://oom.lt/FZESTMELECTRONICSSO24W](http://oom.lt/FZESTMELECTRONICSSO24W)

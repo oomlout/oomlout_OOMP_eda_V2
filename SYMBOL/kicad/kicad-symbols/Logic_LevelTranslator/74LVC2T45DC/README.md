@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Logic_LevelTranslator-74LVC2T45DC
 - Hex ID: SZKLOGICLEVELTRANSLATOR74LVC2T45DC
 - Name: Logic_LevelTranslator : 74LVC2T45DC
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Logic_LevelTranslator/74LVC2T45DC/
 - Description: Logic_LevelTranslator : 74LVC2T45DC
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Logic_LevelTranslator-74LVC2T45DC](http://oom.lt/SYMBOL-kicad-kicad-symbols-Logic_LevelTranslator-74LVC2T45DC)
 - Short Link: [http://oom.lt/SZKLOGICLEVELTRANSLATOR74LVC2T45DC](http://oom.lt/SZKLOGICLEVELTRANSLATOR74LVC2T45DC)

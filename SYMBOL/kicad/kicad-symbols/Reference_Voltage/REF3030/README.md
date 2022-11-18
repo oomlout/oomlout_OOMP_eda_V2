@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Reference_Voltage-REF3030
 - Hex ID: SZKREFERENCEVOLTAGEREF33
 - Name: Reference_Voltage : REF3030
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Reference_Voltage/REF3030/
 - Description: Reference_Voltage : REF3030
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Voltage-REF3030](http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Voltage-REF3030)
 - Short Link: [http://oom.lt/SZKREFERENCEVOLTAGEREF33](http://oom.lt/SZKREFERENCEVOLTAGEREF33)

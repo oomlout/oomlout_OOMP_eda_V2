@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEINDUCTORNEOSIDSME13 > inductor-neosid : SM-E13](#fzeinductorneosidsme13--inductor-neosid--sm-e13)
+* [FZEINNEOSIDSME13 > inductor-neosid : SM-E13](#fzeinneosidsme13--inductor-neosid--sm-e13)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEINDUCTORNEOSIDSME13 > inductor-neosid : SM-E13
+# FZEINNEOSIDSME13 > inductor-neosid : SM-E13
 
 - ID: FOOTPRINT-eagle-eagle-default-inductor-neosid-SM-E13
-- Hex ID: FZEINDUCTORNEOSIDSME13
+- Hex ID: FZEINNEOSIDSME13
 - Name: inductor-neosid : SM-E13
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/inductor-neosid/SM-E13/
 - Description: inductor-neosid : SM-E13
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-inductor-neosid-SM-E13](http://oom.lt/FOOTPRINT-eagle-eagle-default-inductor-neosid-SM-E13)
-- Short Link: [http://oom.lt/FZEINDUCTORNEOSIDSME13](http://oom.lt/FZEINDUCTORNEOSIDSME13)
+- Short Link: [http://oom.lt/FZEINNEOSIDSME13](http://oom.lt/FZEINNEOSIDSME13)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|inductor-neosid|
 |OOMP Index|oompIndex|SM-E13|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-inductor-neosid-SM-E13|
-|Hex ID (short code)|hexID|FZEINDUCTORNEOSIDSME13|
+|Hex ID (short code)|hexID|FZEINNEOSIDSME13|
 |name|name|inductor-neosid : SM-E13|
 ||||

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-micro-philips-DIL28
 - Hex ID: FZEMPHILIPSDIL28
 - Name: micro-philips : DIL28
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/micro-philips/DIL28/
 - Description: micro-philips : DIL28
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-philips-DIL28](http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-philips-DIL28)
 - Short Link: [http://oom.lt/FZEMPHILIPSDIL28](http://oom.lt/FZEMPHILIPSDIL28)

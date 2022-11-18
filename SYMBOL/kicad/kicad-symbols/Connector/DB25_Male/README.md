@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Connector-DB25_Male
 - Hex ID: SZKCNDB25MALE
 - Name: Connector : DB25_Male
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector/DB25_Male/
 - Description: Connector : DB25_Male
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-DB25_Male](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-DB25_Male)
 - Short Link: [http://oom.lt/SZKCNDB25MALE](http://oom.lt/SZKCNDB25MALE)

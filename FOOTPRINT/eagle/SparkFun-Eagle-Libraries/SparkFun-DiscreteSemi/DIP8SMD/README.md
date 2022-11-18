@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZSDSDIP8SM > SparkFun-DiscreteSemi : DIP8SMD](#fzsdsdip8sm--sparkfun-discretesemi--dip8smd)
+* [FZSDSD8SM > SparkFun-DiscreteSemi : DIP8SMD](#fzsdsd8sm--sparkfun-discretesemi--dip8smd)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZSDSDIP8SM > SparkFun-DiscreteSemi : DIP8SMD
+# FZSDSD8SM > SparkFun-DiscreteSemi : DIP8SMD
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-DiscreteSemi-DIP8SMD
-- Hex ID: FZSDSDIP8SM
+- Hex ID: FZSDSD8SM
 - Name: SparkFun-DiscreteSemi : DIP8SMD
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-DiscreteSemi/DIP8SMD/
 - Description: SparkFun-DiscreteSemi : DIP8SMD
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-DiscreteSemi-DIP8SMD](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-DiscreteSemi-DIP8SMD)
-- Short Link: [http://oom.lt/FZSDSDIP8SM](http://oom.lt/FZSDSDIP8SM)
+- Short Link: [http://oom.lt/FZSDSD8SM](http://oom.lt/FZSDSD8SM)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|SparkFun-DiscreteSemi|
 |OOMP Index|oompIndex|DIP8SMD|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-DiscreteSemi-DIP8SMD|
-|Hex ID (short code)|hexID|FZSDSDIP8SM|
+|Hex ID (short code)|hexID|FZSDSD8SM|
 |name|name|SparkFun-DiscreteSemi : DIP8SMD|
 ||||

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-4xxx_IEEE-4029
 - Hex ID: SZK4XXXIEEE429
 - Name: 4xxx_IEEE : 4029
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/4xxx_IEEE/4029/
 - Description: 4xxx_IEEE : 4029
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-4xxx_IEEE-4029](http://oom.lt/SYMBOL-kicad-kicad-symbols-4xxx_IEEE-4029)
 - Short Link: [http://oom.lt/SZK4XXXIEEE429](http://oom.lt/SZK4XXXIEEE429)

@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEREFPACKAGESC42K > ref-packages : C0402K](#fzerefpackagesc42k--ref-packages--c0402k)
+* [FZEREFPSC42K > ref-packages : C0402K](#fzerefpsc42k--ref-packages--c0402k)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEREFPACKAGESC42K > ref-packages : C0402K
+# FZEREFPSC42K > ref-packages : C0402K
 
 - ID: FOOTPRINT-eagle-eagle-default-ref-packages-C0402K
-- Hex ID: FZEREFPACKAGESC42K
+- Hex ID: FZEREFPSC42K
 - Name: ref-packages : C0402K
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ref-packages/C0402K/
 - Description: ref-packages : C0402K
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-C0402K](http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-C0402K)
-- Short Link: [http://oom.lt/FZEREFPACKAGESC42K](http://oom.lt/FZEREFPACKAGESC42K)
+- Short Link: [http://oom.lt/FZEREFPSC42K](http://oom.lt/FZEREFPSC42K)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|ref-packages|
 |OOMP Index|oompIndex|C0402K|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-ref-packages-C0402K|
-|Hex ID (short code)|hexID|FZEREFPACKAGESC42K|
+|Hex ID (short code)|hexID|FZEREFPSC42K|
 |name|name|ref-packages : C0402K|
 ||||

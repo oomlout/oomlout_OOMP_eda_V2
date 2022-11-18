@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-TO-39-6
 - Hex ID: FZKSOTTO396
 - Name: Package_TO_SOT_THT : TO-39-6
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_THT/TO-39-6/
 - Description: Package_TO_SOT_THT : TO-39-6
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-TO-39-6](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-TO-39-6)
 - Short Link: [http://oom.lt/FZKSOTTO396](http://oom.lt/FZKSOTTO396)

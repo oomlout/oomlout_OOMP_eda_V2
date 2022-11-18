@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-USB_Micro_B_Female_Vert_1051330001
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSUMBFVERT151331
 - Name: digikey-footprints : USB_Micro_B_Female_Vert_1051330001
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/USB_Micro_B_Female_Vert_1051330001/
 - Description: digikey-footprints : USB_Micro_B_Female_Vert_1051330001
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-USB_Micro_B_Female_Vert_1051330001](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-USB_Micro_B_Female_Vert_1051330001)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSUMBFVERT151331](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSUMBFVERT151331)

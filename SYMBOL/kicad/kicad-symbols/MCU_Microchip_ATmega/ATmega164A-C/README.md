@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega164A-C
 - Hex ID: SZKMCUMCHIPATMEGAATMEGA164AC
 - Name: MCU_Microchip_ATmega : ATmega164A-C
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_ATmega/ATmega164A-C/
 - Description: MCU_Microchip_ATmega : ATmega164A-C
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega164A-C](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega164A-C)
 - Short Link: [http://oom.lt/SZKMCUMCHIPATMEGAATMEGA164AC](http://oom.lt/SZKMCUMCHIPATMEGAATMEGA164AC)

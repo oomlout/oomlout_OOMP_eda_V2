@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-heatsink-SK09_20V
 - Hex ID: FZEHSK92V
 - Name: heatsink : SK09_20V
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/heatsink/SK09_20V/
 - Description: heatsink : SK09_20V
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-heatsink-SK09_20V](http://oom.lt/FOOTPRINT-eagle-eagle-default-heatsink-SK09_20V)
 - Short Link: [http://oom.lt/FZEHSK92V](http://oom.lt/FZEHSK92V)

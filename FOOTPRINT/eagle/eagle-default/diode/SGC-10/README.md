@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-diode-SGC-10
 - Hex ID: FZEDIODESGC1
 - Name: diode : SGC-10
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/diode/SGC-10/
 - Description: diode : SGC-10
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-diode-SGC-10](http://oom.lt/FOOTPRINT-eagle-eagle-default-diode-SGC-10)
 - Short Link: [http://oom.lt/FZEDIODESGC1](http://oom.lt/FZEDIODESGC1)

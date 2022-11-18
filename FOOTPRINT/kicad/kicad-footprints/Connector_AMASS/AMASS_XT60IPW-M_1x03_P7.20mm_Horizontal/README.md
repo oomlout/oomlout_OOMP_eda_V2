@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_AMASS-AMASS_XT60IPW-M_1x03_P7.20mm_Horizontal
 - Hex ID: FZKCNAMASSAMASSXT6IPWM1X3P72H
 - Name: Connector_AMASS : AMASS_XT60IPW-M_1x03_P7.20mm_Horizontal
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_AMASS/AMASS_XT60IPW-M_1x03_P7.20mm_Horizontal/
 - Description: Connector_AMASS : AMASS_XT60IPW-M_1x03_P7.20mm_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_AMASS-AMASS_XT60IPW-M_1x03_P7.20mm_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_AMASS-AMASS_XT60IPW-M_1x03_P7.20mm_Horizontal)
 - Short Link: [http://oom.lt/FZKCNAMASSAMASSXT6IPWM1X3P72H](http://oom.lt/FZKCNAMASSAMASSXT6IPWM1X3P72H)

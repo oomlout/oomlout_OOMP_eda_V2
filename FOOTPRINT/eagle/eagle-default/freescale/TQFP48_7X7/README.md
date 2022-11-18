@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-freescale-TQFP48_7X7
 - Hex ID: FZEFREESCALETQFP487X7
 - Name: freescale : TQFP48_7X7
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/freescale/TQFP48_7X7/
 - Description: freescale : TQFP48_7X7
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-freescale-TQFP48_7X7](http://oom.lt/FOOTPRINT-eagle-eagle-default-freescale-TQFP48_7X7)
 - Short Link: [http://oom.lt/FZEFREESCALETQFP487X7](http://oom.lt/FZEFREESCALETQFP487X7)

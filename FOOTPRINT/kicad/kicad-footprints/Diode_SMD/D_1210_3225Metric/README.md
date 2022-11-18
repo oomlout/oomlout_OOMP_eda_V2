@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_1210_3225Metric
 - Hex ID: FZKDD1213225VA
 - Name: Diode_SMD : D_1210_3225Metric
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Diode_SMD/D_1210_3225Metric/
 - Description: Diode_SMD : D_1210_3225Metric
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_1210_3225Metric](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_1210_3225Metric)
 - Short Link: [http://oom.lt/FZKDD1213225VA](http://oom.lt/FZKDD1213225VA)

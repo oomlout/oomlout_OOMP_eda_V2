@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-rcl-2200-12.7
 - Hex ID: FZERCL22127
 - Name: rcl : 2200-12.7
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/rcl/2200-12.7/
 - Description: rcl : 2200-12.7
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-2200-12.7](http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-2200-12.7)
 - Short Link: [http://oom.lt/FZERCL22127](http://oom.lt/FZERCL22127)

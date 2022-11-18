@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-linx-RXD-XXX-KH2
 - Hex ID: FZELINXRXDXXXKH2
 - Name: linx : RXD-XXX-KH2
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/linx/RXD-XXX-KH2/
 - Description: linx : RXD-XXX-KH2
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-linx-RXD-XXX-KH2](http://oom.lt/FOOTPRINT-eagle-eagle-default-linx-RXD-XXX-KH2)
 - Short Link: [http://oom.lt/FZELINXRXDXXXKH2](http://oom.lt/FZELINXRXDXXXKH2)

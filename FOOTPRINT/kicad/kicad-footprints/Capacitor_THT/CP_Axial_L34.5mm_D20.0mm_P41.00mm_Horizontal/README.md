@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Capacitor_THT-CP_Axial_L34.5mm_D20.0mm_P41.00mm_Horizontal
 - Hex ID: FZKCCPAXIALL345D2P41H
 - Name: Capacitor_THT : CP_Axial_L34.5mm_D20.0mm_P41.00mm_Horizontal
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Capacitor_THT/CP_Axial_L34.5mm_D20.0mm_P41.00mm_Horizontal/
 - Description: Capacitor_THT : CP_Axial_L34.5mm_D20.0mm_P41.00mm_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_THT-CP_Axial_L34.5mm_D20.0mm_P41.00mm_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_THT-CP_Axial_L34.5mm_D20.0mm_P41.00mm_Horizontal)
 - Short Link: [http://oom.lt/FZKCCPAXIALL345D2P41H](http://oom.lt/FZKCCPAXIALL345D2P41H)

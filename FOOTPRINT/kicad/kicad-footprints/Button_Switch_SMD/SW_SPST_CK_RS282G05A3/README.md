@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-SW_SPST_CK_RS282G05A3
 - Hex ID: FZKBSWSPSTCKRS282G5A3
 - Name: Button_Switch_SMD : SW_SPST_CK_RS282G05A3
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Button_Switch_SMD/SW_SPST_CK_RS282G05A3/
 - Description: Button_Switch_SMD : SW_SPST_CK_RS282G05A3
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-SW_SPST_CK_RS282G05A3](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-SW_SPST_CK_RS282G05A3)
 - Short Link: [http://oom.lt/FZKBSWSPSTCKRS282G5A3](http://oom.lt/FZKBSWSPSTCKRS282G5A3)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-analog-devices-QSOP16
 - Hex ID: FZEANALOGDEVICESQS16
 - Name: analog-devices : QSOP16
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/analog-devices/QSOP16/
 - Description: analog-devices : QSOP16
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-analog-devices-QSOP16](http://oom.lt/FOOTPRINT-eagle-eagle-default-analog-devices-QSOP16)
 - Short Link: [http://oom.lt/FZEANALOGDEVICESQS16](http://oom.lt/FZEANALOGDEVICESQS16)

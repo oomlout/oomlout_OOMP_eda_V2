@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0805-X-UF7-V63D-C8U763D
 - Hex ID: SZOOMPKOOMPPCAPC85XUF7V63DC8U763D
 - Name: oomlout_OOMP_parts : CAPC-0805-X-UF7-V63D-C8U763D
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/CAPC-0805-X-UF7-V63D-C8U763D/
 - Description: oomlout_OOMP_parts : CAPC-0805-X-UF7-V63D-C8U763D
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0805-X-UF7-V63D-C8U763D](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0805-X-UF7-V63D-C8U763D)
 - Short Link: [http://oom.lt/SZOOMPKOOMPPCAPC85XUF7V63DC8U763D](http://oom.lt/SZOOMPKOOMPPCAPC85XUF7V63DC8U763D)

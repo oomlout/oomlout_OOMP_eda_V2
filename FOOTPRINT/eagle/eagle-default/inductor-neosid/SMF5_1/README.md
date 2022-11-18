@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEINDUCTORNEOSIDSMF51 > inductor-neosid : SMF5_1](#fzeinductorneosidsmf51--inductor-neosid--smf5_1)
+* [FZEINNEOSIDSMF51 > inductor-neosid : SMF5_1](#fzeinneosidsmf51--inductor-neosid--smf5_1)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEINDUCTORNEOSIDSMF51 > inductor-neosid : SMF5_1
+# FZEINNEOSIDSMF51 > inductor-neosid : SMF5_1
 
 - ID: FOOTPRINT-eagle-eagle-default-inductor-neosid-SMF5_1
-- Hex ID: FZEINDUCTORNEOSIDSMF51
+- Hex ID: FZEINNEOSIDSMF51
 - Name: inductor-neosid : SMF5_1
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/inductor-neosid/SMF5_1/
 - Description: inductor-neosid : SMF5_1
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-inductor-neosid-SMF5_1](http://oom.lt/FOOTPRINT-eagle-eagle-default-inductor-neosid-SMF5_1)
-- Short Link: [http://oom.lt/FZEINDUCTORNEOSIDSMF51](http://oom.lt/FZEINDUCTORNEOSIDSMF51)
+- Short Link: [http://oom.lt/FZEINNEOSIDSMF51](http://oom.lt/FZEINNEOSIDSMF51)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|inductor-neosid|
 |OOMP Index|oompIndex|SMF5_1|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-inductor-neosid-SMF5_1|
-|Hex ID (short code)|hexID|FZEINDUCTORNEOSIDSMF51|
+|Hex ID (short code)|hexID|FZEINNEOSIDSMF51|
 |name|name|inductor-neosid : SMF5_1|
 ||||

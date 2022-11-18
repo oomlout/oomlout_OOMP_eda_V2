@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-crystal-SON-10
 - Hex ID: FZEXSON1
 - Name: crystal : SON-10
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/crystal/SON-10/
 - Description: crystal : SON-10
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-crystal-SON-10](http://oom.lt/FOOTPRINT-eagle-eagle-default-crystal-SON-10)
 - Short Link: [http://oom.lt/FZEXSON1](http://oom.lt/FZEXSON1)

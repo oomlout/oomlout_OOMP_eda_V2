@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Converter_ACDC-RAC04-3.3SGB
 - Hex ID: SZKCONRAC433SGB
 - Name: Converter_ACDC : RAC04-3.3SGB
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Converter_ACDC/RAC04-3.3SGB/
 - Description: Converter_ACDC : RAC04-3.3SGB
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_ACDC-RAC04-3.3SGB](http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_ACDC-RAC04-3.3SGB)
 - Short Link: [http://oom.lt/SZKCONRAC433SGB](http://oom.lt/SZKCONRAC433SGB)

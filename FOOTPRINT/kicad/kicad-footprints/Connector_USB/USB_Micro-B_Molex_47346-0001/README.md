@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_Micro-B_Molex_47346-0001
 - Hex ID: FZKCNUUMBMX473461
 - Name: Connector_USB : USB_Micro-B_Molex_47346-0001
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB_Micro-B_Molex_47346-0001/
 - Description: Connector_USB : USB_Micro-B_Molex_47346-0001
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_Micro-B_Molex_47346-0001](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_Micro-B_Molex_47346-0001)
 - Short Link: [http://oom.lt/FZKCNUUMBMX473461](http://oom.lt/FZKCNUUMBMX473461)

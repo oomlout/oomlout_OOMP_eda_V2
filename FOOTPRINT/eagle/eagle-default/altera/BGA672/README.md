@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-altera-BGA672
 - Hex ID: FZEALTERABGA672
 - Name: altera : BGA672
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/altera/BGA672/
 - Description: altera : BGA672
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-altera-BGA672](http://oom.lt/FOOTPRINT-eagle-eagle-default-altera-BGA672)
 - Short Link: [http://oom.lt/FZEALTERABGA672](http://oom.lt/FZEALTERABGA672)

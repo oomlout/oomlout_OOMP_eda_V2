@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Fuse-Fuse_SunFuse-6HP
 - Hex ID: FZKFUFUSUNFU6HP
 - Name: Fuse : Fuse_SunFuse-6HP
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Fuse/Fuse_SunFuse-6HP/
 - Description: Fuse : Fuse_SunFuse-6HP
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Fuse-Fuse_SunFuse-6HP](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Fuse-Fuse_SunFuse-6HP)
 - Short Link: [http://oom.lt/FZKFUFUSUNFU6HP](http://oom.lt/FZKFUFUSUNFU6HP)

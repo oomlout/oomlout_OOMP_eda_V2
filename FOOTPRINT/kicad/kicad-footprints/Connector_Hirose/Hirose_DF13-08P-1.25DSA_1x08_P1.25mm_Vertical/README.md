@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_Hirose-Hirose_DF13-08P-1.25DSA_1x08_P1.25mm_Vertical
 - Hex ID: FZKCNHIROSEHIROSEDF138P125DSA1X8P125F
 - Name: Connector_Hirose : Hirose_DF13-08P-1.25DSA_1x08_P1.25mm_Vertical
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Hirose/Hirose_DF13-08P-1.25DSA_1x08_P1.25mm_Vertical/
 - Description: Connector_Hirose : Hirose_DF13-08P-1.25DSA_1x08_P1.25mm_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Hirose-Hirose_DF13-08P-1.25DSA_1x08_P1.25mm_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Hirose-Hirose_DF13-08P-1.25DSA_1x08_P1.25mm_Vertical)
 - Short Link: [http://oom.lt/FZKCNHIROSEHIROSEDF138P125DSA1X8P125F](http://oom.lt/FZKCNHIROSEHIROSEDF138P125DSA1X8P125F)

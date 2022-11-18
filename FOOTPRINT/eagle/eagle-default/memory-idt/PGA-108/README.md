@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-memory-idt-PGA-108
 - Hex ID: FZEMEMORYIDTPGA18
 - Name: memory-idt : PGA-108
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/memory-idt/PGA-108/
 - Description: memory-idt : PGA-108
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-memory-idt-PGA-108](http://oom.lt/FOOTPRINT-eagle-eagle-default-memory-idt-PGA-108)
 - Short Link: [http://oom.lt/FZEMEMORYIDTPGA18](http://oom.lt/FZEMEMORYIDTPGA18)

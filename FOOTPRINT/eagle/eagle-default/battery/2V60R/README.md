@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-battery-2V60R
 - Hex ID: FZEBAT2V6R
 - Name: battery : 2V60R
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/battery/2V60R/
 - Description: battery : 2V60R
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-battery-2V60R](http://oom.lt/FOOTPRINT-eagle-eagle-default-battery-2V60R)
 - Short Link: [http://oom.lt/FZEBAT2V6R](http://oom.lt/FZEBAT2V6R)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Controller-UC3527
 - Hex ID: SZKREGULATORCONTROLLERUC3527
 - Name: Regulator_Controller : UC3527
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Controller/UC3527/
 - Description: Regulator_Controller : UC3527
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Controller-UC3527](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Controller-UC3527)
 - Short Link: [http://oom.lt/SZKREGULATORCONTROLLERUC3527](http://oom.lt/SZKREGULATORCONTROLLERUC3527)

@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEREFPACKAGESMQFP16 > ref-packages : MQFP160](#fzerefpackagesmqfp16--ref-packages--mqfp160)
+* [FZEREFPSMQFP16 > ref-packages : MQFP160](#fzerefpsmqfp16--ref-packages--mqfp160)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEREFPACKAGESMQFP16 > ref-packages : MQFP160
+# FZEREFPSMQFP16 > ref-packages : MQFP160
 
 - ID: FOOTPRINT-eagle-eagle-default-ref-packages-MQFP160
-- Hex ID: FZEREFPACKAGESMQFP16
+- Hex ID: FZEREFPSMQFP16
 - Name: ref-packages : MQFP160
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ref-packages/MQFP160/
 - Description: ref-packages : MQFP160
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-MQFP160](http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-MQFP160)
-- Short Link: [http://oom.lt/FZEREFPACKAGESMQFP16](http://oom.lt/FZEREFPACKAGESMQFP16)
+- Short Link: [http://oom.lt/FZEREFPSMQFP16](http://oom.lt/FZEREFPSMQFP16)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|ref-packages|
 |OOMP Index|oompIndex|MQFP160|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-ref-packages-MQFP160|
-|Hex ID (short code)|hexID|FZEREFPACKAGESMQFP16|
+|Hex ID (short code)|hexID|FZEREFPSMQFP16|
 |name|name|ref-packages : MQFP160|
 ||||

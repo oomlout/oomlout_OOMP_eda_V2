@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega406-1AA
 - Hex ID: SZKMCUMCHIPATMEGAATMEGA461AA
 - Name: MCU_Microchip_ATmega : ATmega406-1AA
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_ATmega/ATmega406-1AA/
 - Description: MCU_Microchip_ATmega : ATmega406-1AA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega406-1AA](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega406-1AA)
 - Short Link: [http://oom.lt/SZKMCUMCHIPATMEGAATMEGA461AA](http://oom.lt/SZKMCUMCHIPATMEGAATMEGA461AA)

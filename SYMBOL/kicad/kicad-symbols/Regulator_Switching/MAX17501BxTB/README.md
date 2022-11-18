@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-MAX17501BxTB
 - Hex ID: SZKREGULATORSWINGMAX1751BXTB
 - Name: Regulator_Switching : MAX17501BxTB
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/MAX17501BxTB/
 - Description: Regulator_Switching : MAX17501BxTB
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-MAX17501BxTB](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-MAX17501BxTB)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGMAX1751BXTB](http://oom.lt/SZKREGULATORSWINGMAX1751BXTB)

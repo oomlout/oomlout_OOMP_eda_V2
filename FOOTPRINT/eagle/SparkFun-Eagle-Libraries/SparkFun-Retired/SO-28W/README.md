@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-SO-28W
 - Hex ID: FZSRTSO28W
 - Name: SparkFun-Retired : SO-28W
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Retired/SO-28W/
 - Description: SparkFun-Retired : SO-28W
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-SO-28W](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-SO-28W)
 - Short Link: [http://oom.lt/FZSRTSO28W](http://oom.lt/FZSRTSO28W)

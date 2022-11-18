@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-analog-devices-BGA_160
 - Hex ID: FZEANALOGDEVICESBGA16
 - Name: analog-devices : BGA_160
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/analog-devices/BGA_160/
 - Description: analog-devices : BGA_160
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-analog-devices-BGA_160](http://oom.lt/FOOTPRINT-eagle-eagle-default-analog-devices-BGA_160)
 - Short Link: [http://oom.lt/FZEANALOGDEVICESBGA16](http://oom.lt/FZEANALOGDEVICESBGA16)

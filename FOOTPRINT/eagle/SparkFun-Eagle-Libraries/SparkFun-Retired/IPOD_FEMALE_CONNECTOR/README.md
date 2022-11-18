@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-IPOD_FEMALE_CONNECTOR
 - Hex ID: FZSRTIPODFCN
 - Name: SparkFun-Retired : IPOD_FEMALE_CONNECTOR
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Retired/IPOD_FEMALE_CONNECTOR/
 - Description: SparkFun-Retired : IPOD_FEMALE_CONNECTOR
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-IPOD_FEMALE_CONNECTOR](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-IPOD_FEMALE_CONNECTOR)
 - Short Link: [http://oom.lt/FZSRTIPODFCN](http://oom.lt/FZSRTIPODFCN)

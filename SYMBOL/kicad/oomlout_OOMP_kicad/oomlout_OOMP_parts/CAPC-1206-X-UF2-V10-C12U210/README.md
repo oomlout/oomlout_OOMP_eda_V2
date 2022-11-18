@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-1206-X-UF2-V10-C12U210
 - Hex ID: SZOOMPKOOMPPCAPC126XUF2V1C12U21
 - Name: oomlout_OOMP_parts : CAPC-1206-X-UF2-V10-C12U210
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/CAPC-1206-X-UF2-V10-C12U210/
 - Description: oomlout_OOMP_parts : CAPC-1206-X-UF2-V10-C12U210
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-1206-X-UF2-V10-C12U210](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-1206-X-UF2-V10-C12U210)
 - Short Link: [http://oom.lt/SZOOMPKOOMPPCAPC126XUF2V1C12U21](http://oom.lt/SZOOMPKOOMPPCAPC126XUF2V1C12U21)

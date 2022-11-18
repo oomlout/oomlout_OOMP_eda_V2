@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Display_Character-DA56-11GWA
 - Hex ID: SZKDICHARACTERDA5611GWA
 - Name: Display_Character : DA56-11GWA
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Display_Character/DA56-11GWA/
 - Description: Display_Character : DA56-11GWA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-DA56-11GWA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-DA56-11GWA)
 - Short Link: [http://oom.lt/SZKDICHARACTERDA5611GWA](http://oom.lt/SZKDICHARACTERDA5611GWA)

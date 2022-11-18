@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Isolator-ADuM121N
 - Hex ID: SZKISOLATORADUM121N
 - Name: Isolator : ADuM121N
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Isolator/ADuM121N/
 - Description: Isolator : ADuM121N
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-ADuM121N](http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-ADuM121N)
 - Short Link: [http://oom.lt/SZKISOLATORADUM121N](http://oom.lt/SZKISOLATORADUM121N)

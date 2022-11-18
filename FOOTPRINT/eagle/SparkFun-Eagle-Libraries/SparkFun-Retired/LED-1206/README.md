@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-LED-1206
 - Hex ID: FZSRTL126
 - Name: SparkFun-Retired : LED-1206
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Retired/LED-1206/
 - Description: SparkFun-Retired : LED-1206
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-LED-1206](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-LED-1206)
 - Short Link: [http://oom.lt/FZSRTL126](http://oom.lt/FZSRTL126)

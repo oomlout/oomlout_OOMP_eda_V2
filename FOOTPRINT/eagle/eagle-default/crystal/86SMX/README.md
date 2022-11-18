@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-crystal-86SMX
 - Hex ID: FZEX86SMX
 - Name: crystal : 86SMX
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/crystal/86SMX/
 - Description: crystal : 86SMX
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-crystal-86SMX](http://oom.lt/FOOTPRINT-eagle-eagle-default-crystal-86SMX)
 - Short Link: [http://oom.lt/FZEX86SMX](http://oom.lt/FZEX86SMX)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-FPGA_Xilinx_Spartan6-XC6SLX150T-CSG484
 - Hex ID: SZKFPGAXILINXSPARTAN6XC6SLX15TCSG484
 - Name: FPGA_Xilinx_Spartan6 : XC6SLX150T-CSG484
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/FPGA_Xilinx_Spartan6/XC6SLX150T-CSG484/
 - Description: FPGA_Xilinx_Spartan6 : XC6SLX150T-CSG484
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-FPGA_Xilinx_Spartan6-XC6SLX150T-CSG484](http://oom.lt/SYMBOL-kicad-kicad-symbols-FPGA_Xilinx_Spartan6-XC6SLX150T-CSG484)
 - Short Link: [http://oom.lt/SZKFPGAXILINXSPARTAN6XC6SLX15TCSG484](http://oom.lt/SZKFPGAXILINXSPARTAN6XC6SLX15TCSG484)

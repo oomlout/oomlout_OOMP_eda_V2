@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_SMB
 - Hex ID: FZKDDSMB
 - Name: Diode_SMD : D_SMB
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Diode_SMD/D_SMB/
 - Description: Diode_SMD : D_SMB
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_SMB](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_SMB)
 - Short Link: [http://oom.lt/FZKDDSMB](http://oom.lt/FZKDDSMB)

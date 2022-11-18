@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-st-microelectronics-DIL20
 - Hex ID: FZESTMELECTRONICSDIL2
 - Name: st-microelectronics : DIL20
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/st-microelectronics/DIL20/
 - Description: st-microelectronics : DIL20
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-st-microelectronics-DIL20](http://oom.lt/FOOTPRINT-eagle-eagle-default-st-microelectronics-DIL20)
 - Short Link: [http://oom.lt/FZESTMELECTRONICSDIL2](http://oom.lt/FZESTMELECTRONICSDIL2)

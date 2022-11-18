@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-TLV76701DRVx
 - Hex ID: SZKREGULATORLINEARTLV7671DRVX
 - Name: Regulator_Linear : TLV76701DRVx
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/TLV76701DRVx/
 - Description: Regulator_Linear : TLV76701DRVx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-TLV76701DRVx](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-TLV76701DRVx)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARTLV7671DRVX](http://oom.lt/SZKREGULATORLINEARTLV7671DRVX)

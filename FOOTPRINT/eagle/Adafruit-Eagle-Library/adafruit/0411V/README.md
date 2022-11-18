@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-0411V
 - Hex ID: FZA411V
 - Name: adafruit : 0411V
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/0411V/
 - Description: adafruit : 0411V
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-0411V](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-0411V)
 - Short Link: [http://oom.lt/FZA411V](http://oom.lt/FZA411V)

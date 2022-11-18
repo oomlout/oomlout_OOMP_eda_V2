@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-BAW76
 - Hex ID: SZKDIODEBAW76
 - Name: Diode : BAW76
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/BAW76/
 - Description: Diode : BAW76
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-BAW76](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-BAW76)
 - Short Link: [http://oom.lt/SZKDIODEBAW76](http://oom.lt/SZKDIODEBAW76)

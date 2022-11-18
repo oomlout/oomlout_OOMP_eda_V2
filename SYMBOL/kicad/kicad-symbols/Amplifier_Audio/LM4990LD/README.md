@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Audio-LM4990LD
 - Hex ID: SZKAMPLIFIERAUDIOLM499LD
 - Name: Amplifier_Audio : LM4990LD
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Audio/LM4990LD/
 - Description: Amplifier_Audio : LM4990LD
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Audio-LM4990LD](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Audio-LM4990LD)
 - Short Link: [http://oom.lt/SZKAMPLIFIERAUDIOLM499LD](http://oom.lt/SZKAMPLIFIERAUDIOLM499LD)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-TO-220-5_Vertical
 - Hex ID: FZKSOTTO225F
 - Name: Package_TO_SOT_THT : TO-220-5_Vertical
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_THT/TO-220-5_Vertical/
 - Description: Package_TO_SOT_THT : TO-220-5_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-TO-220-5_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-TO-220-5_Vertical)
 - Short Link: [http://oom.lt/FZKSOTTO225F](http://oom.lt/FZKSOTTO225F)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-LEDS-0402-W-STAN-01-L42W
 - Hex ID: FZOOMPKOOMPPLS42WSTAN1L42W
 - Name: oomlout_OOMP_parts : LEDS-0402-W-STAN-01-L42W
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/LEDS-0402-W-STAN-01-L42W/
 - Description: oomlout_OOMP_parts : LEDS-0402-W-STAN-01-L42W
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-LEDS-0402-W-STAN-01-L42W](http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-LEDS-0402-W-STAN-01-L42W)
 - Short Link: [http://oom.lt/FZOOMPKOOMPPLS42WSTAN1L42W](http://oom.lt/FZOOMPKOOMPPLS42WSTAN1L42W)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_SlimStack_54722-0404_2x20_P0.50mm_Vertical
 - Hex ID: FZKCNMXMXSLIMSTACK54722442X2P5F
 - Name: Connector_Molex : Molex_SlimStack_54722-0404_2x20_P0.50mm_Vertical
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_SlimStack_54722-0404_2x20_P0.50mm_Vertical/
 - Description: Connector_Molex : Molex_SlimStack_54722-0404_2x20_P0.50mm_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_SlimStack_54722-0404_2x20_P0.50mm_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_SlimStack_54722-0404_2x20_P0.50mm_Vertical)
 - Short Link: [http://oom.lt/FZKCNMXMXSLIMSTACK54722442X2P5F](http://oom.lt/FZKCNMXMXSLIMSTACK54722442X2P5F)

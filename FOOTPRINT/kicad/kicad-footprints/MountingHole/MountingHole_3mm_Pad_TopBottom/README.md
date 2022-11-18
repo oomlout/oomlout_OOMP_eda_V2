@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKHOLHOL3PADTOPBOTTOM > MountingHole : MountingHole_3mm_Pad_TopBottom](#fzkholhol3padtopbottom--mountinghole--mountinghole_3mm_pad_topbottom)
+* [FZKHOLHOL3PTOPB > MountingHole : MountingHole_3mm_Pad_TopBottom](#fzkholhol3ptopb--mountinghole--mountinghole_3mm_pad_topbottom)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKHOLHOL3PADTOPBOTTOM > MountingHole : MountingHole_3mm_Pad_TopBottom
+# FZKHOLHOL3PTOPB > MountingHole : MountingHole_3mm_Pad_TopBottom
 
 - ID: FOOTPRINT-kicad-kicad-footprints-MountingHole-MountingHole_3mm_Pad_TopBottom
-- Hex ID: FZKHOLHOL3PADTOPBOTTOM
+- Hex ID: FZKHOLHOL3PTOPB
 - Name: MountingHole : MountingHole_3mm_Pad_TopBottom
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/MountingHole/MountingHole_3mm_Pad_TopBottom/
 - Description: MountingHole : MountingHole_3mm_Pad_TopBottom
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-MountingHole-MountingHole_3mm_Pad_TopBottom](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-MountingHole-MountingHole_3mm_Pad_TopBottom)
-- Short Link: [http://oom.lt/FZKHOLHOL3PADTOPBOTTOM](http://oom.lt/FZKHOLHOL3PADTOPBOTTOM)
+- Short Link: [http://oom.lt/FZKHOLHOL3PTOPB](http://oom.lt/FZKHOLHOL3PTOPB)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|MountingHole|
 |OOMP Index|oompIndex|MountingHole_3mm_Pad_TopBottom|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-MountingHole-MountingHole_3mm_Pad_TopBottom|
-|Hex ID (short code)|hexID|FZKHOLHOL3PADTOPBOTTOM|
+|Hex ID (short code)|hexID|FZKHOLHOL3PTOPB|
 |name|name|MountingHole : MountingHole_3mm_Pad_TopBottom|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'MountingHole_3mm_Pad_TopBottom'</td><td> 'description'</td></tr><tr><td> 'Mounting Hole 3mm'</td><td> 'tags'</td></tr><tr><td> 'mounting hole 3mm'</td><td> 'attributeType'</td></tr><tr><td> None</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-Rohm_HRP7
 - Hex ID: FZKSOTROHMHRP7
 - Name: Package_TO_SOT_SMD : Rohm_HRP7
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/Rohm_HRP7/
 - Description: Package_TO_SOT_SMD : Rohm_HRP7
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-Rohm_HRP7](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-Rohm_HRP7)
 - Short Link: [http://oom.lt/FZKSOTROHMHRP7](http://oom.lt/FZKSOTROHMHRP7)

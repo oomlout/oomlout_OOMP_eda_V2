@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-TO-18-2
 - Hex ID: FZKSOTTO182
 - Name: Package_TO_SOT_THT : TO-18-2
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_THT/TO-18-2/
 - Description: Package_TO_SOT_THT : TO-18-2
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-TO-18-2](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-TO-18-2)
 - Short Link: [http://oom.lt/FZKSOTTO182](http://oom.lt/FZKSOTTO182)

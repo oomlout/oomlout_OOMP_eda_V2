@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Reference_Voltage-LM329xZ
 - Hex ID: SZKREFERENCEVOLTAGELM329XZ
 - Name: Reference_Voltage : LM329xZ
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Reference_Voltage/LM329xZ/
 - Description: Reference_Voltage : LM329xZ
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Voltage-LM329xZ](http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Voltage-LM329xZ)
 - Short Link: [http://oom.lt/SZKREFERENCEVOLTAGELM329XZ](http://oom.lt/SZKREFERENCEVOLTAGELM329XZ)

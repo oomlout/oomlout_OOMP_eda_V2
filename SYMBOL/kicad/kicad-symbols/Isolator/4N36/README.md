@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Isolator-4N36
 - Hex ID: SZKISOLATOR4N36
 - Name: Isolator : 4N36
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Isolator/4N36/
 - Description: Isolator : 4N36
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-4N36](http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-4N36)
 - Short Link: [http://oom.lt/SZKISOLATOR4N36](http://oom.lt/SZKISOLATOR4N36)

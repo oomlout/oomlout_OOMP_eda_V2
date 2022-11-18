@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-USB_A_Female_AU-Y1006-3
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSUAFAUY163
 - Name: digikey-footprints : USB_A_Female_AU-Y1006-3
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/USB_A_Female_AU-Y1006-3/
 - Description: digikey-footprints : USB_A_Female_AU-Y1006-3
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-USB_A_Female_AU-Y1006-3](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-USB_A_Female_AU-Y1006-3)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSUAFAUY163](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSUAFAUY163)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-con-yamaichi-MDIN04K
 - Hex ID: FZECONYAMAICHIMDIN4K
 - Name: con-yamaichi : MDIN04K
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-yamaichi/MDIN04K/
 - Description: con-yamaichi : MDIN04K
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-yamaichi-MDIN04K](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-yamaichi-MDIN04K)
 - Short Link: [http://oom.lt/FZECONYAMAICHIMDIN4K](http://oom.lt/FZECONYAMAICHIMDIN4K)

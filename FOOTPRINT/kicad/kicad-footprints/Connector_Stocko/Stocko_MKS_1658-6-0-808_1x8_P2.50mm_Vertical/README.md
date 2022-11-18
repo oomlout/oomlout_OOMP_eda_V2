@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_Stocko-Stocko_MKS_1658-6-0-808_1x8_P2.50mm_Vertical
 - Hex ID: FZKCNSTOCKOSTOCKOMKS16586881X8P25F
 - Name: Connector_Stocko : Stocko_MKS_1658-6-0-808_1x8_P2.50mm_Vertical
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Stocko/Stocko_MKS_1658-6-0-808_1x8_P2.50mm_Vertical/
 - Description: Connector_Stocko : Stocko_MKS_1658-6-0-808_1x8_P2.50mm_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Stocko-Stocko_MKS_1658-6-0-808_1x8_P2.50mm_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Stocko-Stocko_MKS_1658-6-0-808_1x8_P2.50mm_Vertical)
 - Short Link: [http://oom.lt/FZKCNSTOCKOSTOCKOMKS16586881X8P25F](http://oom.lt/FZKCNSTOCKOSTOCKOMKS16586881X8P25F)

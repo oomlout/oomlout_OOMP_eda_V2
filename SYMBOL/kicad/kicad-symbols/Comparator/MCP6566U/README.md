@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Comparator-MCP6566U
 - Hex ID: SZKCOMPARATORMCP6566U
 - Name: Comparator : MCP6566U
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Comparator/MCP6566U/
 - Description: Comparator : MCP6566U
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Comparator-MCP6566U](http://oom.lt/SYMBOL-kicad-kicad-symbols-Comparator-MCP6566U)
 - Short Link: [http://oom.lt/SZKCOMPARATORMCP6566U](http://oom.lt/SZKCOMPARATORMCP6566U)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-ptc-ntc-B57164
 - Hex ID: FZEPTCNTCB57164
 - Name: ptc-ntc : B57164
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ptc-ntc/B57164/
 - Description: ptc-ntc : B57164
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ptc-ntc-B57164](http://oom.lt/FOOTPRINT-eagle-eagle-default-ptc-ntc-B57164)
 - Short Link: [http://oom.lt/FZEPTCNTCB57164](http://oom.lt/FZEPTCNTCB57164)

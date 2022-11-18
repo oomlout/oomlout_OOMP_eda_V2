@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Transistor_Power_Module-ST_ACEPACK-2-CIB
 - Hex ID: FZKTRANSISTORPOWERMOSTACEPACK2CIB
 - Name: Transistor_Power_Module : ST_ACEPACK-2-CIB
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Transistor_Power_Module/ST_ACEPACK-2-CIB/
 - Description: Transistor_Power_Module : ST_ACEPACK-2-CIB
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Transistor_Power_Module-ST_ACEPACK-2-CIB](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Transistor_Power_Module-ST_ACEPACK-2-CIB)
 - Short Link: [http://oom.lt/FZKTRANSISTORPOWERMOSTACEPACK2CIB](http://oom.lt/FZKTRANSISTORPOWERMOSTACEPACK2CIB)

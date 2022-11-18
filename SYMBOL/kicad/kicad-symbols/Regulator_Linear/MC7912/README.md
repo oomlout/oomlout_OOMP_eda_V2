@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-MC7912
 - Hex ID: SZKREGULATORLINEARMC7912
 - Name: Regulator_Linear : MC7912
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/MC7912/
 - Description: Regulator_Linear : MC7912
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-MC7912](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-MC7912)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARMC7912](http://oom.lt/SZKREGULATORLINEARMC7912)

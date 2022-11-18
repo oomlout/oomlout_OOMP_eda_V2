@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-diode-SMB
 - Hex ID: FZEDIODESMB
 - Name: diode : SMB
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/diode/SMB/
 - Description: diode : SMB
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-diode-SMB](http://oom.lt/FOOTPRINT-eagle-eagle-default-diode-SMB)
 - Short Link: [http://oom.lt/FZEDIODESMB](http://oom.lt/FZEDIODESMB)

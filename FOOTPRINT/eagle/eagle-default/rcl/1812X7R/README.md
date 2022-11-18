@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-rcl-1812X7R
 - Hex ID: FZERCL1812X7R
 - Name: rcl : 1812X7R
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/rcl/1812X7R/
 - Description: rcl : 1812X7R
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-1812X7R](http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-1812X7R)
 - Short Link: [http://oom.lt/FZERCL1812X7R](http://oom.lt/FZERCL1812X7R)

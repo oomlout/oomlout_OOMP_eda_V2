@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKCNCOABNCTECONNECTIVITY147824F > Connector_Coaxial : BNC_TEConnectivity_1478204_Vertical](#fzkcncoabncteconnectivity147824f--connector_coaxial--bnc_teconnectivity_1478204_vertical)
+* [FZKCNCOABNCTECECTIVITY147824F > Connector_Coaxial : BNC_TEConnectivity_1478204_Vertical](#fzkcncoabnctecectivity147824f--connector_coaxial--bnc_teconnectivity_1478204_vertical)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKCNCOABNCTECONNECTIVITY147824F > Connector_Coaxial : BNC_TEConnectivity_1478204_Vertical
+# FZKCNCOABNCTECECTIVITY147824F > Connector_Coaxial : BNC_TEConnectivity_1478204_Vertical
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_Coaxial-BNC_TEConnectivity_1478204_Vertical
-- Hex ID: FZKCNCOABNCTECONNECTIVITY147824F
+- Hex ID: FZKCNCOABNCTECECTIVITY147824F
 - Name: Connector_Coaxial : BNC_TEConnectivity_1478204_Vertical
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Coaxial/BNC_TEConnectivity_1478204_Vertical/
 - Description: Connector_Coaxial : BNC_TEConnectivity_1478204_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Coaxial-BNC_TEConnectivity_1478204_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Coaxial-BNC_TEConnectivity_1478204_Vertical)
-- Short Link: [http://oom.lt/FZKCNCOABNCTECONNECTIVITY147824F](http://oom.lt/FZKCNCOABNCTECONNECTIVITY147824F)
+- Short Link: [http://oom.lt/FZKCNCOABNCTECECTIVITY147824F](http://oom.lt/FZKCNCOABNCTECECTIVITY147824F)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Connector_Coaxial|
 |OOMP Index|oompIndex|BNC_TEConnectivity_1478204_Vertical|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Coaxial-BNC_TEConnectivity_1478204_Vertical|
-|Hex ID (short code)|hexID|FZKCNCOABNCTECONNECTIVITY147824F|
+|Hex ID (short code)|hexID|FZKCNCOABNCTECECTIVITY147824F|
 |name|name|Connector_Coaxial : BNC_TEConnectivity_1478204_Vertical|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'BNC_TEConnectivity_1478204_Vertical'</td><td> 'description'</td></tr><tr><td> 'BNC female PCB mount 4 pin straight chassis connector http</td></tr><tr><td>//www.te.com/usa-en/product-1-1478204-0.html'</td><td> 'tags'</td></tr><tr><td> 'BNC female PCB mount 4 pin straight chassis connector '</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_Coaxial.3dshapes/BNC_TEConnectivity_1478204_Vertical.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||

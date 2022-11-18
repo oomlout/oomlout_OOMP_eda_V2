@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface-DS90LV027A
 - Hex ID: SZKINTERFACEDS9LV27A
 - Name: Interface : DS90LV027A
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface/DS90LV027A/
 - Description: Interface : DS90LV027A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-DS90LV027A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-DS90LV027A)
 - Short Link: [http://oom.lt/SZKINTERFACEDS9LV27A](http://oom.lt/SZKINTERFACEDS9LV27A)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-RF_Mini-Circuits-Mini-Circuits_TTT167
 - Hex ID: FZKRFMCIRCUITSTTT167
 - Name: RF_Mini-Circuits : Mini-Circuits_TTT167
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/RF_Mini-Circuits/Mini-Circuits_TTT167/
 - Description: RF_Mini-Circuits : Mini-Circuits_TTT167
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_Mini-Circuits-Mini-Circuits_TTT167](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_Mini-Circuits-Mini-Circuits_TTT167)
 - Short Link: [http://oom.lt/FZKRFMCIRCUITSTTT167](http://oom.lt/FZKRFMCIRCUITSTTT167)

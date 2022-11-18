@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0402-X-PF390-V50-C42P390
 - Hex ID: SZOOMPKOOMPPCAPC42XPF39V5C42P39
 - Name: oomlout_OOMP_parts : CAPC-0402-X-PF390-V50-C42P390
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/CAPC-0402-X-PF390-V50-C42P390/
 - Description: oomlout_OOMP_parts : CAPC-0402-X-PF390-V50-C42P390
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0402-X-PF390-V50-C42P390](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0402-X-PF390-V50-C42P390)
 - Short Link: [http://oom.lt/SZOOMPKOOMPPCAPC42XPF39V5C42P39](http://oom.lt/SZOOMPKOOMPPCAPC42XPF39V5C42P39)

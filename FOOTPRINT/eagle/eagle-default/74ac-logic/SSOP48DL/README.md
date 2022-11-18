@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-74ac-logic-SSOP48DL
 - Hex ID: FZE74ACLOGICSS48DL
 - Name: 74ac-logic : SSOP48DL
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/74ac-logic/SSOP48DL/
 - Description: 74ac-logic : SSOP48DL
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-74ac-logic-SSOP48DL](http://oom.lt/FOOTPRINT-eagle-eagle-default-74ac-logic-SSOP48DL)
 - Short Link: [http://oom.lt/FZE74ACLOGICSS48DL](http://oom.lt/FZE74ACLOGICSS48DL)

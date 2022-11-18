@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-LT1762-2.5
 - Hex ID: SZKREGULATORLINEARLT176225
 - Name: Regulator_Linear : LT1762-2.5
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LT1762-2.5/
 - Description: Regulator_Linear : LT1762-2.5
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LT1762-2.5](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LT1762-2.5)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARLT176225](http://oom.lt/SZKREGULATORLINEARLT176225)

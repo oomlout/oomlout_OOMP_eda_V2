@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-MountingHole-MountingHole_2.7mm_M2.5_ISO7380
 - Hex ID: FZKHOLHOL27M25ISO738
 - Name: MountingHole : MountingHole_2.7mm_M2.5_ISO7380
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/MountingHole/MountingHole_2.7mm_M2.5_ISO7380/
 - Description: MountingHole : MountingHole_2.7mm_M2.5_ISO7380
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-MountingHole-MountingHole_2.7mm_M2.5_ISO7380](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-MountingHole-MountingHole_2.7mm_M2.5_ISO7380)
 - Short Link: [http://oom.lt/FZKHOLHOL27M25ISO738](http://oom.lt/FZKHOLHOL27M25ISO738)

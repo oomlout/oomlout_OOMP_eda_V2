@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-omron-XF3B-67
 - Hex ID: FZECONOMRONXF3B67
 - Name: con-omron : XF3B-67
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-omron/XF3B-67/
 - Description: con-omron : XF3B-67
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-omron-XF3B-67](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-omron-XF3B-67)
 - Short Link: [http://oom.lt/FZECONOMRONXF3B67](http://oom.lt/FZECONOMRONXF3B67)

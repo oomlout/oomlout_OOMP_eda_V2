@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-con-samtec-TSW-103-08-G-S-RA
 - Hex ID: FZECONSAMTECTSW138GSRA
 - Name: con-samtec : TSW-103-08-G-S-RA
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-samtec/TSW-103-08-G-S-RA/
 - Description: con-samtec : TSW-103-08-G-S-RA
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-samtec-TSW-103-08-G-S-RA](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-samtec-TSW-103-08-G-S-RA)
 - Short Link: [http://oom.lt/FZECONSAMTECTSW138GSRA](http://oom.lt/FZECONSAMTECTSW138GSRA)

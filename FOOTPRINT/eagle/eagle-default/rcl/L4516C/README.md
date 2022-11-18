@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-rcl-L4516C
 - Hex ID: FZERCLL4516C
 - Name: rcl : L4516C
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/rcl/L4516C/
 - Description: rcl : L4516C
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-L4516C](http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-L4516C)
 - Short Link: [http://oom.lt/FZERCLL4516C](http://oom.lt/FZERCLL4516C)

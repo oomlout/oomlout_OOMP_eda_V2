@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Module-Arduino_Nano_WithMountingHoles
 - Hex ID: FZKMOARDNANOWITHHOLS
 - Name: Module : Arduino_Nano_WithMountingHoles
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Module/Arduino_Nano_WithMountingHoles/
 - Description: Module : Arduino_Nano_WithMountingHoles
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Module-Arduino_Nano_WithMountingHoles](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Module-Arduino_Nano_WithMountingHoles)
 - Short Link: [http://oom.lt/FZKMOARDNANOWITHHOLS](http://oom.lt/FZKMOARDNANOWITHHOLS)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface-6822
 - Hex ID: SZKINTERFACE6822
 - Name: Interface : 6822
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface/6822/
 - Description: Interface : 6822
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-6822](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-6822)
 - Short Link: [http://oom.lt/SZKINTERFACE6822](http://oom.lt/SZKINTERFACE6822)

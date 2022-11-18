@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-LGA-14_3x5mm_RevA
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSLGA143X5REVA
 - Name: digikey-footprints : LGA-14_3x5mm_RevA
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/LGA-14_3x5mm_RevA/
 - Description: digikey-footprints : LGA-14_3x5mm_RevA
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-LGA-14_3x5mm_RevA](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-LGA-14_3x5mm_RevA)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSLGA143X5REVA](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSLGA143X5REVA)

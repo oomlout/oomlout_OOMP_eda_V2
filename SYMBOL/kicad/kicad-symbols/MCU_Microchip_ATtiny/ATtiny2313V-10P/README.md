@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny2313V-10P
 - Hex ID: SZKMCUMCHIPATTINYATTINY2313V1P
 - Name: MCU_Microchip_ATtiny : ATtiny2313V-10P
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_ATtiny/ATtiny2313V-10P/
 - Description: MCU_Microchip_ATtiny : ATtiny2313V-10P
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny2313V-10P](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny2313V-10P)
 - Short Link: [http://oom.lt/SZKMCUMCHIPATTINYATTINY2313V1P](http://oom.lt/SZKMCUMCHIPATTINYATTINY2313V1P)

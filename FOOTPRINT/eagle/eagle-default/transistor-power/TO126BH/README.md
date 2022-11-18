@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-transistor-power-TO126BH
 - Hex ID: FZETRANSISTORPOWERTO126BH
 - Name: transistor-power : TO126BH
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/transistor-power/TO126BH/
 - Description: transistor-power : TO126BH
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-power-TO126BH](http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-power-TO126BH)
 - Short Link: [http://oom.lt/FZETRANSISTORPOWERTO126BH](http://oom.lt/FZETRANSISTORPOWERTO126BH)

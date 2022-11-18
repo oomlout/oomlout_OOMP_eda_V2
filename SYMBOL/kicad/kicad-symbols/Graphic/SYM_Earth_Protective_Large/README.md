@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Graphic-SYM_Earth_Protective_Large
 - Hex ID: SZKGRAPHICSYMEARTHPROTECTIVEL
 - Name: Graphic : SYM_Earth_Protective_Large
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Graphic/SYM_Earth_Protective_Large/
 - Description: Graphic : SYM_Earth_Protective_Large
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Graphic-SYM_Earth_Protective_Large](http://oom.lt/SYMBOL-kicad-kicad-symbols-Graphic-SYM_Earth_Protective_Large)
 - Short Link: [http://oom.lt/SZKGRAPHICSYMEARTHPROTECTIVEL](http://oom.lt/SZKGRAPHICSYMEARTHPROTECTIVEL)

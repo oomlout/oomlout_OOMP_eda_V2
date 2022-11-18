@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEREFPACKAGESTO92D > ref-packages : TO92D](#fzerefpackagesto92d--ref-packages--to92d)
+* [FZEREFPSTO92D > ref-packages : TO92D](#fzerefpsto92d--ref-packages--to92d)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEREFPACKAGESTO92D > ref-packages : TO92D
+# FZEREFPSTO92D > ref-packages : TO92D
 
 - ID: FOOTPRINT-eagle-eagle-default-ref-packages-TO92D
-- Hex ID: FZEREFPACKAGESTO92D
+- Hex ID: FZEREFPSTO92D
 - Name: ref-packages : TO92D
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ref-packages/TO92D/
 - Description: ref-packages : TO92D
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-TO92D](http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-TO92D)
-- Short Link: [http://oom.lt/FZEREFPACKAGESTO92D](http://oom.lt/FZEREFPACKAGESTO92D)
+- Short Link: [http://oom.lt/FZEREFPSTO92D](http://oom.lt/FZEREFPSTO92D)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|ref-packages|
 |OOMP Index|oompIndex|TO92D|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-ref-packages-TO92D|
-|Hex ID (short code)|hexID|FZEREFPACKAGESTO92D|
+|Hex ID (short code)|hexID|FZEREFPSTO92D|
 |name|name|ref-packages : TO92D|
 ||||

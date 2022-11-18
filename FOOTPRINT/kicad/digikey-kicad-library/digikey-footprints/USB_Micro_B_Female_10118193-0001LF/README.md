@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-USB_Micro_B_Female_10118193-0001LF
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSUMBF11181931LF
 - Name: digikey-footprints : USB_Micro_B_Female_10118193-0001LF
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/USB_Micro_B_Female_10118193-0001LF/
 - Description: digikey-footprints : USB_Micro_B_Female_10118193-0001LF
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-USB_Micro_B_Female_10118193-0001LF](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-USB_Micro_B_Female_10118193-0001LF)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSUMBF11181931LF](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSUMBF11181931LF)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Texas-TMS320LF2406
 - Hex ID: SZKMCUTEXASTMS32LF246
 - Name: MCU_Texas : TMS320LF2406
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Texas/TMS320LF2406/
 - Description: MCU_Texas : TMS320LF2406
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Texas-TMS320LF2406](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Texas-TMS320LF2406)
 - Short Link: [http://oom.lt/SZKMCUTEXASTMS32LF246](http://oom.lt/SZKMCUTEXASTMS32LF246)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_USB-MCP2200-I-SO
 - Hex ID: SZKINTERFACEUMCP22ISO
 - Name: Interface_USB : MCP2200-I-SO
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_USB/MCP2200-I-SO/
 - Description: Interface_USB : MCP2200-I-SO
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_USB-MCP2200-I-SO](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_USB-MCP2200-I-SO)
 - Short Link: [http://oom.lt/SZKINTERFACEUMCP22ISO](http://oom.lt/SZKINTERFACEUMCP22ISO)

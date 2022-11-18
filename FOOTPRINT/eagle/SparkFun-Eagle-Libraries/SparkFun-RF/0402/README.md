@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-0402
 - Hex ID: FZSRF42
 - Name: SparkFun-RF : 0402
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-RF/0402/
 - Description: SparkFun-RF : 0402
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-0402](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-0402)
 - Short Link: [http://oom.lt/FZSRF42](http://oom.lt/FZSRF42)

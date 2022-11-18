@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Axial_L24.0mm_D7.5mm_P27.94mm_Horizontal_Fastron_MESC
 - Hex ID: FZKINLAXIALL24D75P2794HFASTRONMESC
 - Name: Inductor_THT : L_Axial_L24.0mm_D7.5mm_P27.94mm_Horizontal_Fastron_MESC
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Axial_L24.0mm_D7.5mm_P27.94mm_Horizontal_Fastron_MESC/
 - Description: Inductor_THT : L_Axial_L24.0mm_D7.5mm_P27.94mm_Horizontal_Fastron_MESC
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Axial_L24.0mm_D7.5mm_P27.94mm_Horizontal_Fastron_MESC](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Axial_L24.0mm_D7.5mm_P27.94mm_Horizontal_Fastron_MESC)
 - Short Link: [http://oom.lt/FZKINLAXIALL24D75P2794HFASTRONMESC](http://oom.lt/FZKINLAXIALL24D75P2794HFASTRONMESC)

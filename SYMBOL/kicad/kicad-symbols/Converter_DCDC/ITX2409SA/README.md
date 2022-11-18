@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Converter_DCDC-ITX2409SA
 - Hex ID: SZKCONITX249SA
 - Name: Converter_DCDC : ITX2409SA
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Converter_DCDC/ITX2409SA/
 - Description: Converter_DCDC : ITX2409SA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-ITX2409SA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-ITX2409SA)
 - Short Link: [http://oom.lt/SZKCONITX249SA](http://oom.lt/SZKCONITX249SA)

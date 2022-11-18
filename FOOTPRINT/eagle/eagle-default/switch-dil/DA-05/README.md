@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-switch-dil-DA-05
 - Hex ID: FZESWDILDA5
 - Name: switch-dil : DA-05
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/switch-dil/DA-05/
 - Description: switch-dil : DA-05
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-dil-DA-05](http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-dil-DA-05)
 - Short Link: [http://oom.lt/FZESWDILDA5](http://oom.lt/FZESWDILDA5)

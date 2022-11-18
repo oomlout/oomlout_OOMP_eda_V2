@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-texas-DRZ
 - Hex ID: FZETEXASDRZ
 - Name: texas : DRZ
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/texas/DRZ/
 - Description: texas : DRZ
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-texas-DRZ](http://oom.lt/FOOTPRINT-eagle-eagle-default-texas-DRZ)
 - Short Link: [http://oom.lt/FZETEXASDRZ](http://oom.lt/FZETEXASDRZ)

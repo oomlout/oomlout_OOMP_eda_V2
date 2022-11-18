@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-SO08
 - Hex ID: FZSSPARKFUNSENSSO8
 - Name: SparkFun-Sensors : SO08
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Sensors/SO08/
 - Description: SparkFun-Sensors : SO08
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-SO08](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-SO08)
 - Short Link: [http://oom.lt/FZSSPARKFUNSENSSO8](http://oom.lt/FZSSPARKFUNSENSSO8)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-LT8610AC
 - Hex ID: SZKREGULATORSWINGLT861AC
 - Name: Regulator_Switching : LT8610AC
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/LT8610AC/
 - Description: Regulator_Switching : LT8610AC
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LT8610AC](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LT8610AC)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGLT861AC](http://oom.lt/SZKREGULATORSWINGLT861AC)

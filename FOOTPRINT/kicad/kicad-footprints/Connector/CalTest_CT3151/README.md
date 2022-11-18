@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector-CalTest_CT3151
 - Hex ID: FZKCNCALTESTCT3151
 - Name: Connector : CalTest_CT3151
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector/CalTest_CT3151/
 - Description: Connector : CalTest_CT3151
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector-CalTest_CT3151](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector-CalTest_CT3151)
 - Short Link: [http://oom.lt/FZKCNCALTESTCT3151](http://oom.lt/FZKCNCALTESTCT3151)

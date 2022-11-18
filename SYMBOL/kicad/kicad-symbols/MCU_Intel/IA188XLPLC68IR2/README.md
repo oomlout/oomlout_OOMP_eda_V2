@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Intel-IA188XLPLC68IR2
 - Hex ID: SZKMCUINTELIA188XLPLC68IR2
 - Name: MCU_Intel : IA188XLPLC68IR2
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Intel/IA188XLPLC68IR2/
 - Description: MCU_Intel : IA188XLPLC68IR2
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Intel-IA188XLPLC68IR2](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Intel-IA188XLPLC68IR2)
 - Short Link: [http://oom.lt/SZKMCUINTELIA188XLPLC68IR2](http://oom.lt/SZKMCUINTELIA188XLPLC68IR2)

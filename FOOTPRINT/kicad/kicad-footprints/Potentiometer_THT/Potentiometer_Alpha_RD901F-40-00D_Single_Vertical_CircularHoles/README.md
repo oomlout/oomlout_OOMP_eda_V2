@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Potentiometer_THT-Potentiometer_Alpha_RD901F-40-00D_Single_Vertical_CircularHoles
 - Hex ID: FZKPPOTALPHARD91F4DSINGLEFCIRCULARH
 - Name: Potentiometer_THT : Potentiometer_Alpha_RD901F-40-00D_Single_Vertical_CircularHoles
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Potentiometer_THT/Potentiometer_Alpha_RD901F-40-00D_Single_Vertical_CircularHoles/
 - Description: Potentiometer_THT : Potentiometer_Alpha_RD901F-40-00D_Single_Vertical_CircularHoles
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Potentiometer_THT-Potentiometer_Alpha_RD901F-40-00D_Single_Vertical_CircularHoles](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Potentiometer_THT-Potentiometer_Alpha_RD901F-40-00D_Single_Vertical_CircularHoles)
 - Short Link: [http://oom.lt/FZKPPOTALPHARD91F4DSINGLEFCIRCULARH](http://oom.lt/FZKPPOTALPHARD91F4DSINGLEFCIRCULARH)

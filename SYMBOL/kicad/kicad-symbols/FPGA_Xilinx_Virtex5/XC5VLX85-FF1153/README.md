@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-FPGA_Xilinx_Virtex5-XC5VLX85-FF1153
 - Hex ID: SZKFPGAXILINXVIRTEX5XC5VLX85FF1153
 - Name: FPGA_Xilinx_Virtex5 : XC5VLX85-FF1153
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/FPGA_Xilinx_Virtex5/XC5VLX85-FF1153/
 - Description: FPGA_Xilinx_Virtex5 : XC5VLX85-FF1153
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-FPGA_Xilinx_Virtex5-XC5VLX85-FF1153](http://oom.lt/SYMBOL-kicad-kicad-symbols-FPGA_Xilinx_Virtex5-XC5VLX85-FF1153)
 - Short Link: [http://oom.lt/SZKFPGAXILINXVIRTEX5XC5VLX85FF1153](http://oom.lt/SZKFPGAXILINXVIRTEX5XC5VLX85FF1153)

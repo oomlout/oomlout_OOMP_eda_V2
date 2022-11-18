@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-micro-renesas-P-LSSOP30-6.1X9.7
 - Hex ID: FZEMRENESASPLSS361X97
 - Name: micro-renesas : P-LSSOP30-6.1X9.7
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/micro-renesas/P-LSSOP30-6.1X9.7/
 - Description: micro-renesas : P-LSSOP30-6.1X9.7
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-renesas-P-LSSOP30-6.1X9.7](http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-renesas-P-LSSOP30-6.1X9.7)
 - Short Link: [http://oom.lt/FZEMRENESASPLSS361X97](http://oom.lt/FZEMRENESASPLSS361X97)

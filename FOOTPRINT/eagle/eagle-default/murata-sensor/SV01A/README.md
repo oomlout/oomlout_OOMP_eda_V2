@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-murata-sensor-SV01A
 - Hex ID: FZEMURATASENSV1A
 - Name: murata-sensor : SV01A
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/murata-sensor/SV01A/
 - Description: murata-sensor : SV01A
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-murata-sensor-SV01A](http://oom.lt/FOOTPRINT-eagle-eagle-default-murata-sensor-SV01A)
 - Short Link: [http://oom.lt/FZEMURATASENSV1A](http://oom.lt/FZEMURATASENSV1A)

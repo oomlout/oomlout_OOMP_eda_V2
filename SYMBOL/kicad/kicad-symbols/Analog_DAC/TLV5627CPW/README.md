@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Analog_DAC-TLV5627CPW
 - Hex ID: SZKANALOGDACTLV5627CPW
 - Name: Analog_DAC : TLV5627CPW
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog_DAC/TLV5627CPW/
 - Description: Analog_DAC : TLV5627CPW
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_DAC-TLV5627CPW](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_DAC-TLV5627CPW)
 - Short Link: [http://oom.lt/SZKANALOGDACTLV5627CPW](http://oom.lt/SZKANALOGDACTLV5627CPW)

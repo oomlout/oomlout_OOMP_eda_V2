@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-SFE-LOGO-FLAME-COPPER
 - Hex ID: FZSRTSFELFC
 - Name: SparkFun-Retired : SFE-LOGO-FLAME-COPPER
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Retired/SFE-LOGO-FLAME-COPPER/
 - Description: SparkFun-Retired : SFE-LOGO-FLAME-COPPER
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-SFE-LOGO-FLAME-COPPER](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-SFE-LOGO-FLAME-COPPER)
 - Short Link: [http://oom.lt/FZSRTSFELFC](http://oom.lt/FZSRTSFELFC)

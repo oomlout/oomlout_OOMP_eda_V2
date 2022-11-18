@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-SM6T27A
 - Hex ID: SZKDIODESM6T27A
 - Name: Diode : SM6T27A
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/SM6T27A/
 - Description: Diode : SM6T27A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-SM6T27A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-SM6T27A)
 - Short Link: [http://oom.lt/SZKDIODESM6T27A](http://oom.lt/SZKDIODESM6T27A)

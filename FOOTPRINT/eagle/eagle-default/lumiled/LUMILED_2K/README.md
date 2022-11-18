@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-lumiled-LUMILED_2K
 - Hex ID: FZELUMLUM2K
 - Name: lumiled : LUMILED_2K
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/lumiled/LUMILED_2K/
 - Description: lumiled : LUMILED_2K
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-lumiled-LUMILED_2K](http://oom.lt/FOOTPRINT-eagle-eagle-default-lumiled-LUMILED_2K)
 - Short Link: [http://oom.lt/FZELUMLUM2K](http://oom.lt/FZELUMLUM2K)

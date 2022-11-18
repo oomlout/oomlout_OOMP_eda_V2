@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-4xxx_IEEE-4028
 - Hex ID: SZK4XXXIEEE428
 - Name: 4xxx_IEEE : 4028
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/4xxx_IEEE/4028/
 - Description: 4xxx_IEEE : 4028
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-4xxx_IEEE-4028](http://oom.lt/SYMBOL-kicad-kicad-symbols-4xxx_IEEE-4028)
 - Short Link: [http://oom.lt/SZK4XXXIEEE428](http://oom.lt/SZK4XXXIEEE428)

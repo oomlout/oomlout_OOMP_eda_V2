@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_RJ-RJ45_Pulse_JK00177NL_Horizontal
 - Hex ID: FZKCNRJRJ45PULSEJK177NLH
 - Name: Connector_RJ : RJ45_Pulse_JK00177NL_Horizontal
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_RJ/RJ45_Pulse_JK00177NL_Horizontal/
 - Description: Connector_RJ : RJ45_Pulse_JK00177NL_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_RJ-RJ45_Pulse_JK00177NL_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_RJ-RJ45_Pulse_JK00177NL_Horizontal)
 - Short Link: [http://oom.lt/FZKCNRJRJ45PULSEJK177NLH](http://oom.lt/FZKCNRJRJ45PULSEJK177NLH)

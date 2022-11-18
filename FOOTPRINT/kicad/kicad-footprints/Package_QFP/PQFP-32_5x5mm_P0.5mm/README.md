@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_QFP-PQFP-32_5x5mm_P0.5mm
 - Hex ID: FZKQFPPQFP325X5P5
 - Name: Package_QFP : PQFP-32_5x5mm_P0.5mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_QFP/PQFP-32_5x5mm_P0.5mm/
 - Description: Package_QFP : PQFP-32_5x5mm_P0.5mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_QFP-PQFP-32_5x5mm_P0.5mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_QFP-PQFP-32_5x5mm_P0.5mm)
 - Short Link: [http://oom.lt/FZKQFPPQFP325X5P5](http://oom.lt/FZKQFPPQFP325X5P5)

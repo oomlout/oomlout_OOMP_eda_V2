@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-VFLGA-16_3x3mm
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSVFLGA163X3
 - Name: digikey-footprints : VFLGA-16_3x3mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/VFLGA-16_3x3mm/
 - Description: digikey-footprints : VFLGA-16_3x3mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-VFLGA-16_3x3mm](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-VFLGA-16_3x3mm)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSVFLGA163X3](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSVFLGA163X3)

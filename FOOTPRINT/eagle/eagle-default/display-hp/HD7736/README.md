@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-display-hp-HD7736
 - Hex ID: FZEDIHPHD7736
 - Name: display-hp : HD7736
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/display-hp/HD7736/
 - Description: display-hp : HD7736
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-display-hp-HD7736](http://oom.lt/FOOTPRINT-eagle-eagle-default-display-hp-HD7736)
 - Short Link: [http://oom.lt/FZEDIHPHD7736](http://oom.lt/FZEDIHPHD7736)

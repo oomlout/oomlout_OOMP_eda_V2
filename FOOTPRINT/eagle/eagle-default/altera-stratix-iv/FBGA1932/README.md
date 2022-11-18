@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-altera-stratix-iv-FBGA1932
 - Hex ID: FZEALTERASTRATIXIVFBGA1932
 - Name: altera-stratix-iv : FBGA1932
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/altera-stratix-iv/FBGA1932/
 - Description: altera-stratix-iv : FBGA1932
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-altera-stratix-iv-FBGA1932](http://oom.lt/FOOTPRINT-eagle-eagle-default-altera-stratix-iv-FBGA1932)
 - Short Link: [http://oom.lt/FZEALTERASTRATIXIVFBGA1932](http://oom.lt/FZEALTERASTRATIXIVFBGA1932)

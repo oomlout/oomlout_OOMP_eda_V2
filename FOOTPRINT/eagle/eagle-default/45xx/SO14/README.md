@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-45xx-SO14
 - Hex ID: FZE45XXSO14
 - Name: 45xx : SO14
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/45xx/SO14/
 - Description: 45xx : SO14
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-45xx-SO14](http://oom.lt/FOOTPRINT-eagle-eagle-default-45xx-SO14)
 - Short Link: [http://oom.lt/FZE45XXSO14](http://oom.lt/FZE45XXSO14)

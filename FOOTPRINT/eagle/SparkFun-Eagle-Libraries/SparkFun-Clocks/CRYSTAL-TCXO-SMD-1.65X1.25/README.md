@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Clocks-CRYSTAL-TCXO-SMD-1.65X1.25
 - Hex ID: FZSCLXTCXOSM165X125
 - Name: SparkFun-Clocks : CRYSTAL-TCXO-SMD-1.65X1.25
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Clocks/CRYSTAL-TCXO-SMD-1.65X1.25/
 - Description: SparkFun-Clocks : CRYSTAL-TCXO-SMD-1.65X1.25
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Clocks-CRYSTAL-TCXO-SMD-1.65X1.25](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Clocks-CRYSTAL-TCXO-SMD-1.65X1.25)
 - Short Link: [http://oom.lt/FZSCLXTCXOSM165X125](http://oom.lt/FZSCLXTCXOSM165X125)

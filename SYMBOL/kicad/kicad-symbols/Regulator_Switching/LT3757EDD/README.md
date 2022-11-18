@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-LT3757EDD
 - Hex ID: SZKREGULATORSWINGLT3757EDD
 - Name: Regulator_Switching : LT3757EDD
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/LT3757EDD/
 - Description: Regulator_Switching : LT3757EDD
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LT3757EDD](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LT3757EDD)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGLT3757EDD](http://oom.lt/SZKREGULATORSWINGLT3757EDD)

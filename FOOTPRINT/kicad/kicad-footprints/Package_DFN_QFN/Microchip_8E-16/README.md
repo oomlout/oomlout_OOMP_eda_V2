@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Microchip_8E-16
 - Hex ID: FZKDFNMCHIP8E16
 - Name: Package_DFN_QFN : Microchip_8E-16
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/Microchip_8E-16/
 - Description: Package_DFN_QFN : Microchip_8E-16
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Microchip_8E-16](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Microchip_8E-16)
 - Short Link: [http://oom.lt/FZKDFNMCHIP8E16](http://oom.lt/FZKDFNMCHIP8E16)

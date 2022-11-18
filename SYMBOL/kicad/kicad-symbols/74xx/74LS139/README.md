@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-74xx-74LS139
 - Hex ID: SZK74XX74LS139
 - Name: 74xx : 74LS139
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/74xx/74LS139/
 - Description: 74xx : 74LS139
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-74xx-74LS139](http://oom.lt/SYMBOL-kicad-kicad-symbols-74xx-74LS139)
 - Short Link: [http://oom.lt/SZK74XX74LS139](http://oom.lt/SZK74XX74LS139)

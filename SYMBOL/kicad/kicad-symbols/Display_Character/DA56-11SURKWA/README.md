@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Display_Character-DA56-11SURKWA
 - Hex ID: SZKDICHARACTERDA5611SURKWA
 - Name: Display_Character : DA56-11SURKWA
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Display_Character/DA56-11SURKWA/
 - Description: Display_Character : DA56-11SURKWA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-DA56-11SURKWA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-DA56-11SURKWA)
 - Short Link: [http://oom.lt/SZKDICHARACTERDA5611SURKWA](http://oom.lt/SZKDICHARACTERDA5611SURKWA)

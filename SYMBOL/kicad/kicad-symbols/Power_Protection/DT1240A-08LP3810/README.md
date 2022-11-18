@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Power_Protection-DT1240A-08LP3810
 - Hex ID: SZKPOWERPROTECTIONDT124A8LP381
 - Name: Power_Protection : DT1240A-08LP3810
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Power_Protection/DT1240A-08LP3810/
 - Description: Power_Protection : DT1240A-08LP3810
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Protection-DT1240A-08LP3810](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Protection-DT1240A-08LP3810)
 - Short Link: [http://oom.lt/SZKPOWERPROTECTIONDT124A8LP381](http://oom.lt/SZKPOWERPROTECTIONDT124A8LP381)

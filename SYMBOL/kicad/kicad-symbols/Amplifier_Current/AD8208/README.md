@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Current-AD8208
 - Hex ID: SZKAMPLIFIERCURRENTAD828
 - Name: Amplifier_Current : AD8208
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Current/AD8208/
 - Description: Amplifier_Current : AD8208
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Current-AD8208](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Current-AD8208)
 - Short Link: [http://oom.lt/SZKAMPLIFIERCURRENTAD828](http://oom.lt/SZKAMPLIFIERCURRENTAD828)

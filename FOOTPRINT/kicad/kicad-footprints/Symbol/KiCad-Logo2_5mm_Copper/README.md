@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Symbol-KiCad-Logo2_5mm_Copper
 - Hex ID: FZKSZKICADL25C
 - Name: Symbol : KiCad-Logo2_5mm_Copper
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Symbol/KiCad-Logo2_5mm_Copper/
 - Description: Symbol : KiCad-Logo2_5mm_Copper
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Symbol-KiCad-Logo2_5mm_Copper](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Symbol-KiCad-Logo2_5mm_Copper)
 - Short Link: [http://oom.lt/FZKSZKICADL25C](http://oom.lt/FZKSZKICADL25C)

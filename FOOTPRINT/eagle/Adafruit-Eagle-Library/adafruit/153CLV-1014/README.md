@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-153CLV-1014
 - Hex ID: FZA153CLV114
 - Name: adafruit : 153CLV-1014
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/153CLV-1014/
 - Description: adafruit : 153CLV-1014
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-153CLV-1014](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-153CLV-1014)
 - Short Link: [http://oom.lt/FZA153CLV114](http://oom.lt/FZA153CLV114)

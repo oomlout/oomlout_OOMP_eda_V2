@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_Expansion-MCP23017_ML
 - Hex ID: SZKINTERFACEEXPANSIONMCP2317ML
 - Name: Interface_Expansion : MCP23017_ML
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_Expansion/MCP23017_ML/
 - Description: Interface_Expansion : MCP23017_ML
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Expansion-MCP23017_ML](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Expansion-MCP23017_ML)
 - Short Link: [http://oom.lt/SZKINTERFACEEXPANSIONMCP2317ML](http://oom.lt/SZKINTERFACEEXPANSIONMCP2317ML)

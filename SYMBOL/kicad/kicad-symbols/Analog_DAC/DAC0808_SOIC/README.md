@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Analog_DAC-DAC0808_SOIC
 - Hex ID: SZKANALOGDACDAC88SOIC
 - Name: Analog_DAC : DAC0808_SOIC
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog_DAC/DAC0808_SOIC/
 - Description: Analog_DAC : DAC0808_SOIC
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_DAC-DAC0808_SOIC](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_DAC-DAC0808_SOIC)
 - Short Link: [http://oom.lt/SZKANALOGDACDAC88SOIC](http://oom.lt/SZKANALOGDACDAC88SOIC)

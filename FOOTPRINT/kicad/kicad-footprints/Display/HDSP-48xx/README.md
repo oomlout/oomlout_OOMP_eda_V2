@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Display-HDSP-48xx
 - Hex ID: FZKDIHDSP48XX
 - Name: Display : HDSP-48xx
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Display/HDSP-48xx/
 - Description: Display : HDSP-48xx
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Display-HDSP-48xx](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Display-HDSP-48xx)
 - Short Link: [http://oom.lt/FZKDIHDSP48XX](http://oom.lt/FZKDIHDSP48XX)

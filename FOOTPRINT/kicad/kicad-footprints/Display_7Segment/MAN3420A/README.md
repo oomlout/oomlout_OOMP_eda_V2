@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Display_7Segment-MAN3420A
 - Hex ID: FZKDI7SMAN342A
 - Name: Display_7Segment : MAN3420A
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Display_7Segment/MAN3420A/
 - Description: Display_7Segment : MAN3420A
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Display_7Segment-MAN3420A](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Display_7Segment-MAN3420A)
 - Short Link: [http://oom.lt/FZKDI7SMAN342A](http://oom.lt/FZKDI7SMAN342A)

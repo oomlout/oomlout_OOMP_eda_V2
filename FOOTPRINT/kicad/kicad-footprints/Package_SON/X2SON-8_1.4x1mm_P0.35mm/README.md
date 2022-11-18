@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_SON-X2SON-8_1.4x1mm_P0.35mm
 - Hex ID: FZKSONX2SON814X1P35
 - Name: Package_SON : X2SON-8_1.4x1mm_P0.35mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SON/X2SON-8_1.4x1mm_P0.35mm/
 - Description: Package_SON : X2SON-8_1.4x1mm_P0.35mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SON-X2SON-8_1.4x1mm_P0.35mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SON-X2SON-8_1.4x1mm_P0.35mm)
 - Short Link: [http://oom.lt/FZKSONX2SON814X1P35](http://oom.lt/FZKSONX2SON814X1P35)

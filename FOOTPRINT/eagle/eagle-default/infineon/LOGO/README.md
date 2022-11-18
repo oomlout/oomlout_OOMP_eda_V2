@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-infineon-LOGO
 - Hex ID: FZEINFINEONL
 - Name: infineon : LOGO
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/infineon/LOGO/
 - Description: infineon : LOGO
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-infineon-LOGO](http://oom.lt/FOOTPRINT-eagle-eagle-default-infineon-LOGO)
 - Short Link: [http://oom.lt/FZEINFINEONL](http://oom.lt/FZEINFINEONL)

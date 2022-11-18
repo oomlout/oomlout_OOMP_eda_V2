@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_LCC-PLCC-84
 - Hex ID: FZKLCCPLCC84
 - Name: Package_LCC : PLCC-84
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_LCC/PLCC-84/
 - Description: Package_LCC : PLCC-84
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_LCC-PLCC-84](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_LCC-PLCC-84)
 - Short Link: [http://oom.lt/FZKLCCPLCC84](http://oom.lt/FZKLCCPLCC84)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Boards-SPARKFUN_PRO_MICRO
 - Hex ID: FZSBOSPARKFUNPROM
 - Name: SparkFun-Boards : SPARKFUN_PRO_MICRO
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Boards/SPARKFUN_PRO_MICRO/
 - Description: SparkFun-Boards : SPARKFUN_PRO_MICRO
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Boards-SPARKFUN_PRO_MICRO](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Boards-SPARKFUN_PRO_MICRO)
 - Short Link: [http://oom.lt/FZSBOSPARKFUNPROM](http://oom.lt/FZSBOSPARKFUNPROM)

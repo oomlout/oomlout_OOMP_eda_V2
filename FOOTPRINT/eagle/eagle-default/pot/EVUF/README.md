@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-pot-EVUF
 - Hex ID: FZEPOTEVUF
 - Name: pot : EVUF
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/pot/EVUF/
 - Description: pot : EVUF
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-pot-EVUF](http://oom.lt/FOOTPRINT-eagle-eagle-default-pot-EVUF)
 - Short Link: [http://oom.lt/FZEPOTEVUF](http://oom.lt/FZEPOTEVUF)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Display_Character-HDSP-7808
 - Hex ID: SZKDICHARACTERHDSP788
 - Name: Display_Character : HDSP-7808
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Display_Character/HDSP-7808/
 - Description: Display_Character : HDSP-7808
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-HDSP-7808](http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-HDSP-7808)
 - Short Link: [http://oom.lt/SZKDICHARACTERHDSP788](http://oom.lt/SZKDICHARACTERHDSP788)

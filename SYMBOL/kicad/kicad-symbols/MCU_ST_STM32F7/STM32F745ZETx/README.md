@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F7-STM32F745ZETx
 - Hex ID: SZKMCUSTSTM32F7STM32F745ZETX
 - Name: MCU_ST_STM32F7 : STM32F745ZETx
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32F7/STM32F745ZETx/
 - Description: MCU_ST_STM32F7 : STM32F745ZETx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F7-STM32F745ZETx](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F7-STM32F745ZETx)
 - Short Link: [http://oom.lt/SZKMCUSTSTM32F7STM32F745ZETX](http://oom.lt/SZKMCUSTSTM32F7STM32F745ZETX)

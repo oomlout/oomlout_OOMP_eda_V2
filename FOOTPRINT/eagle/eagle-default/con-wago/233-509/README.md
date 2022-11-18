@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-wago-233-509
 - Hex ID: FZECONWAGO23359
 - Name: con-wago : 233-509
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-wago/233-509/
 - Description: con-wago : 233-509
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-wago-233-509](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-wago-233-509)
 - Short Link: [http://oom.lt/FZECONWAGO23359](http://oom.lt/FZECONWAGO23359)

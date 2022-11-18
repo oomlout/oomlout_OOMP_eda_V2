@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-171050601
 - Hex ID: SZKREGULATORSWING171561
 - Name: Regulator_Switching : 171050601
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/171050601/
 - Description: Regulator_Switching : 171050601
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-171050601](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-171050601)
 - Short Link: [http://oom.lt/SZKREGULATORSWING171561](http://oom.lt/SZKREGULATORSWING171561)

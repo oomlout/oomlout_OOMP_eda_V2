@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Special-Function-POWERSO20
 - Hex ID: FZSISPOWERSO2
 - Name: SparkFun-IC-Special-Function : POWERSO20
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-IC-Special-Function/POWERSO20/
 - Description: SparkFun-IC-Special-Function : POWERSO20
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Special-Function-POWERSO20](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Special-Function-POWERSO20)
 - Short Link: [http://oom.lt/FZSISPOWERSO2](http://oom.lt/FZSISPOWERSO2)

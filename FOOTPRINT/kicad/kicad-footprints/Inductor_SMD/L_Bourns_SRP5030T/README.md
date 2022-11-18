@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Bourns_SRP5030T
 - Hex ID: FZKINLBOURNSSRP53T
 - Name: Inductor_SMD : L_Bourns_SRP5030T
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Bourns_SRP5030T/
 - Description: Inductor_SMD : L_Bourns_SRP5030T
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Bourns_SRP5030T](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Bourns_SRP5030T)
 - Short Link: [http://oom.lt/FZKINLBOURNSSRP53T](http://oom.lt/FZKINLBOURNSSRP53T)

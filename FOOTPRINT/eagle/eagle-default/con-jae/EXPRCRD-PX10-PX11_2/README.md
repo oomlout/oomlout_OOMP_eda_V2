@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-jae-EXPRCRD-PX10-PX11_2
 - Hex ID: FZECONJAEEXPRCRDPX1PX112
 - Name: con-jae : EXPRCRD-PX10-PX11_2
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-jae/EXPRCRD-PX10-PX11_2/
 - Description: con-jae : EXPRCRD-PX10-PX11_2
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-jae-EXPRCRD-PX10-PX11_2](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-jae-EXPRCRD-PX10-PX11_2)
 - Short Link: [http://oom.lt/FZECONJAEEXPRCRDPX1PX112](http://oom.lt/FZECONJAEEXPRCRDPX1PX112)

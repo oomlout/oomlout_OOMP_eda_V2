@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-E5R
 - Hex ID: FZAE5R
 - Name: adafruit : E5R
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/E5R/
 - Description: adafruit : E5R
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-E5R](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-E5R)
 - Short Link: [http://oom.lt/FZAE5R](http://oom.lt/FZAE5R)

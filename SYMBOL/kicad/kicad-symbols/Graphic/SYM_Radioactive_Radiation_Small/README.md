@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Graphic-SYM_Radioactive_Radiation_Small
 - Hex ID: SZKGRAPHICSYMRADIOACTIVERADIATIONSLL
 - Name: Graphic : SYM_Radioactive_Radiation_Small
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Graphic/SYM_Radioactive_Radiation_Small/
 - Description: Graphic : SYM_Radioactive_Radiation_Small
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Graphic-SYM_Radioactive_Radiation_Small](http://oom.lt/SYMBOL-kicad-kicad-symbols-Graphic-SYM_Radioactive_Radiation_Small)
 - Short Link: [http://oom.lt/SZKGRAPHICSYMRADIOACTIVERADIATIONSLL](http://oom.lt/SZKGRAPHICSYMRADIOACTIVERADIATIONSLL)

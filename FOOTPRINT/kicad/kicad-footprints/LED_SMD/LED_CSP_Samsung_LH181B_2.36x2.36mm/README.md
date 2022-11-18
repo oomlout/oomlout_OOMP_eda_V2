@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_CSP_Samsung_LH181B_2.36x2.36mm
 - Hex ID: FZKLLCSPSAMSUNGLH181B236X236
 - Name: LED_SMD : LED_CSP_Samsung_LH181B_2.36x2.36mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_CSP_Samsung_LH181B_2.36x2.36mm/
 - Description: LED_SMD : LED_CSP_Samsung_LH181B_2.36x2.36mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_CSP_Samsung_LH181B_2.36x2.36mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_CSP_Samsung_LH181B_2.36x2.36mm)
 - Short Link: [http://oom.lt/FZKLLCSPSAMSUNGLH181B236X236](http://oom.lt/FZKLLCSPSAMSUNGLH181B236X236)

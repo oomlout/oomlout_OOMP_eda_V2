@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-smd-ipc-SSO48
 - Hex ID: FZESMIPCSSO48
 - Name: smd-ipc : SSO48
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/smd-ipc/SSO48/
 - Description: smd-ipc : SSO48
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-SSO48](http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-SSO48)
 - Short Link: [http://oom.lt/FZESMIPCSSO48](http://oom.lt/FZESMIPCSSO48)

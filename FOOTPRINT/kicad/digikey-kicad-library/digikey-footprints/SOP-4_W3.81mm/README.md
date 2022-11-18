@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SOP-4_W3.81mm
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSS4W381
 - Name: digikey-footprints : SOP-4_W3.81mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/SOP-4_W3.81mm/
 - Description: digikey-footprints : SOP-4_W3.81mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SOP-4_W3.81mm](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SOP-4_W3.81mm)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSS4W381](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSS4W381)

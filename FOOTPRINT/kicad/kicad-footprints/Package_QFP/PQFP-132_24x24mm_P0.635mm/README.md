@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_QFP-PQFP-132_24x24mm_P0.635mm
 - Hex ID: FZKQFPPQFP13224X24P635
 - Name: Package_QFP : PQFP-132_24x24mm_P0.635mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_QFP/PQFP-132_24x24mm_P0.635mm/
 - Description: Package_QFP : PQFP-132_24x24mm_P0.635mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_QFP-PQFP-132_24x24mm_P0.635mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_QFP-PQFP-132_24x24mm_P0.635mm)
 - Short Link: [http://oom.lt/FZKQFPPQFP13224X24P635](http://oom.lt/FZKQFPPQFP13224X24P635)

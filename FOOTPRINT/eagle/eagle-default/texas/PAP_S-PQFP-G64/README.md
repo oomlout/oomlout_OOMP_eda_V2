@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-texas-PAP_S-PQFP-G64
 - Hex ID: FZETEXASPAPSPQFPG64
 - Name: texas : PAP_S-PQFP-G64
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/texas/PAP_S-PQFP-G64/
 - Description: texas : PAP_S-PQFP-G64
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-texas-PAP_S-PQFP-G64](http://oom.lt/FOOTPRINT-eagle-eagle-default-texas-PAP_S-PQFP-G64)
 - Short Link: [http://oom.lt/FZETEXASPAPSPQFPG64](http://oom.lt/FZETEXASPAPSPQFPG64)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Logic_LevelTranslator-TXB0104RUT
 - Hex ID: SZKLOGICLEVELTRANSLATORTXB14RUT
 - Name: Logic_LevelTranslator : TXB0104RUT
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Logic_LevelTranslator/TXB0104RUT/
 - Description: Logic_LevelTranslator : TXB0104RUT
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Logic_LevelTranslator-TXB0104RUT](http://oom.lt/SYMBOL-kicad-kicad-symbols-Logic_LevelTranslator-TXB0104RUT)
 - Short Link: [http://oom.lt/SZKLOGICLEVELTRANSLATORTXB14RUT](http://oom.lt/SZKLOGICLEVELTRANSLATORTXB14RUT)

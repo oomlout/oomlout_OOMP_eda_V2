@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_AMASS-AMASS_MR30PW-FB_1x03_P3.50mm_Horizontal
 - Hex ID: FZKCNAMASSAMASSMR3PWFB1X3P35H
 - Name: Connector_AMASS : AMASS_MR30PW-FB_1x03_P3.50mm_Horizontal
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_AMASS/AMASS_MR30PW-FB_1x03_P3.50mm_Horizontal/
 - Description: Connector_AMASS : AMASS_MR30PW-FB_1x03_P3.50mm_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_AMASS-AMASS_MR30PW-FB_1x03_P3.50mm_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_AMASS-AMASS_MR30PW-FB_1x03_P3.50mm_Horizontal)
 - Short Link: [http://oom.lt/FZKCNAMASSAMASSMR3PWFB1X3P35H](http://oom.lt/FZKCNAMASSAMASSMR3PWFB1X3P35H)

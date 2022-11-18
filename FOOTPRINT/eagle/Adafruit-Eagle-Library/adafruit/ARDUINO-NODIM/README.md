@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-ARDUINO-NODIM
 - Hex ID: FZAARDND
 - Name: adafruit : ARDUINO-NODIM
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/ARDUINO-NODIM/
 - Description: adafruit : ARDUINO-NODIM
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-ARDUINO-NODIM](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-ARDUINO-NODIM)
 - Short Link: [http://oom.lt/FZAARDND](http://oom.lt/FZAARDND)

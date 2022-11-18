@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-rcl-0204V
 - Hex ID: FZERCL24V
 - Name: rcl : 0204V
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/rcl/0204V/
 - Description: rcl : 0204V
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-0204V](http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-0204V)
 - Short Link: [http://oom.lt/FZERCL24V](http://oom.lt/FZERCL24V)

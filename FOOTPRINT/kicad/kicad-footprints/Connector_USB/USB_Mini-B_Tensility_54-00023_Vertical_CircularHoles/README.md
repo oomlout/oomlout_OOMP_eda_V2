@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_Mini-B_Tensility_54-00023_Vertical_CircularHoles
 - Hex ID: FZKCNUUMBTENSILITY5423FCIRCULARH
 - Name: Connector_USB : USB_Mini-B_Tensility_54-00023_Vertical_CircularHoles
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB_Mini-B_Tensility_54-00023_Vertical_CircularHoles/
 - Description: Connector_USB : USB_Mini-B_Tensility_54-00023_Vertical_CircularHoles
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_Mini-B_Tensility_54-00023_Vertical_CircularHoles](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_Mini-B_Tensility_54-00023_Vertical_CircularHoles)
 - Short Link: [http://oom.lt/FZKCNUUMBTENSILITY5423FCIRCULARH](http://oom.lt/FZKCNUUMBTENSILITY5423FCIRCULARH)

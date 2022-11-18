@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_SOD-128
 - Hex ID: FZKDDSOD128
 - Name: Diode_SMD : D_SOD-128
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Diode_SMD/D_SOD-128/
 - Description: Diode_SMD : D_SOD-128
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_SOD-128](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_SOD-128)
 - Short Link: [http://oom.lt/FZKDDSOD128](http://oom.lt/FZKDDSOD128)

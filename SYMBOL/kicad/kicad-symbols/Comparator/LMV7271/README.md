@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Comparator-LMV7271
 - Hex ID: SZKCOMPARATORLMV7271
 - Name: Comparator : LMV7271
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Comparator/LMV7271/
 - Description: Comparator : LMV7271
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Comparator-LMV7271](http://oom.lt/SYMBOL-kicad-kicad-symbols-Comparator-LMV7271)
 - Short Link: [http://oom.lt/SZKCOMPARATORLMV7271](http://oom.lt/SZKCOMPARATORLMV7271)

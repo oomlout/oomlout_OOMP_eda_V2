@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_BarrelJack-BarrelJack_CUI_PJ-063AH_Horizontal_CircularHoles
 - Hex ID: FZKCNBARRELJBARRELJCUIPJ63AHHCIRCULARH
 - Name: Connector_BarrelJack : BarrelJack_CUI_PJ-063AH_Horizontal_CircularHoles
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_BarrelJack/BarrelJack_CUI_PJ-063AH_Horizontal_CircularHoles/
 - Description: Connector_BarrelJack : BarrelJack_CUI_PJ-063AH_Horizontal_CircularHoles
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_BarrelJack-BarrelJack_CUI_PJ-063AH_Horizontal_CircularHoles](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_BarrelJack-BarrelJack_CUI_PJ-063AH_Horizontal_CircularHoles)
 - Short Link: [http://oom.lt/FZKCNBARRELJBARRELJCUIPJ63AHHCIRCULARH](http://oom.lt/FZKCNBARRELJBARRELJCUIPJ63AHHCIRCULARH)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-SCDA
 - Hex ID: FZASCDA
 - Name: adafruit : SCDA
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/SCDA/
 - Description: adafruit : SCDA
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-SCDA](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-SCDA)
 - Short Link: [http://oom.lt/FZASCDA](http://oom.lt/FZASCDA)

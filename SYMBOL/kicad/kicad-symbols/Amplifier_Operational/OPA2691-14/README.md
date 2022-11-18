@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-OPA2691-14
 - Hex ID: SZKAMPLIFIEROPERATIONALOPA269114
 - Name: Amplifier_Operational : OPA2691-14
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/OPA2691-14/
 - Description: Amplifier_Operational : OPA2691-14
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-OPA2691-14](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-OPA2691-14)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALOPA269114](http://oom.lt/SZKAMPLIFIEROPERATIONALOPA269114)

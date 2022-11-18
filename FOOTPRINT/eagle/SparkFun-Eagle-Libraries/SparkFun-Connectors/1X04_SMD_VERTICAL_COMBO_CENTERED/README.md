@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-1X04_SMD_VERTICAL_COMBO_CENTERED
 - Hex ID: FZSSPARKFUNCNS1X4SMFCOMBOCENTERED
 - Name: SparkFun-Connectors : 1X04_SMD_VERTICAL_COMBO_CENTERED
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Connectors/1X04_SMD_VERTICAL_COMBO_CENTERED/
 - Description: SparkFun-Connectors : 1X04_SMD_VERTICAL_COMBO_CENTERED
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-1X04_SMD_VERTICAL_COMBO_CENTERED](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-1X04_SMD_VERTICAL_COMBO_CENTERED)
 - Short Link: [http://oom.lt/FZSSPARKFUNCNS1X4SMFCOMBOCENTERED](http://oom.lt/FZSSPARKFUNCNS1X4SMFCOMBOCENTERED)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-LM5001MA
 - Hex ID: SZKREGULATORSWINGLM51MA
 - Name: Regulator_Switching : LM5001MA
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/LM5001MA/
 - Description: Regulator_Switching : LM5001MA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LM5001MA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LM5001MA)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGLM51MA](http://oom.lt/SZKREGULATORSWINGLM51MA)

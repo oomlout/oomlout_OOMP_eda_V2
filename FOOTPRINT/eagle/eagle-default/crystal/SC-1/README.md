@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-crystal-SC-1
 - Hex ID: FZEXSC1
 - Name: crystal : SC-1
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/crystal/SC-1/
 - Description: crystal : SC-1
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-crystal-SC-1](http://oom.lt/FOOTPRINT-eagle-eagle-default-crystal-SC-1)
 - Short Link: [http://oom.lt/FZEXSC1](http://oom.lt/FZEXSC1)

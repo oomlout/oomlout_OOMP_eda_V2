@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-thomas-betts-HFS12R
 - Hex ID: FZECONTHOMASBETTSHFS12R
 - Name: con-thomas-betts : HFS12R
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-thomas-betts/HFS12R/
 - Description: con-thomas-betts : HFS12R
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-thomas-betts-HFS12R](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-thomas-betts-HFS12R)
 - Short Link: [http://oom.lt/FZECONTHOMASBETTSHFS12R](http://oom.lt/FZECONTHOMASBETTSHFS12R)

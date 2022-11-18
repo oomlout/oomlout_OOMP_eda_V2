@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Memory_RAM-IDT7027_TQ100
 - Hex ID: SZKMEMORYRAMIDT727TQ1
 - Name: Memory_RAM : IDT7027_TQ100
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Memory_RAM/IDT7027_TQ100/
 - Description: Memory_RAM : IDT7027_TQ100
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_RAM-IDT7027_TQ100](http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_RAM-IDT7027_TQ100)
 - Short Link: [http://oom.lt/SZKMEMORYRAMIDT727TQ1](http://oom.lt/SZKMEMORYRAMIDT727TQ1)

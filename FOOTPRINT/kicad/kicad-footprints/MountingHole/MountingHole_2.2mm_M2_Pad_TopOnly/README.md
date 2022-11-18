@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKHOLHOL22M2PADTOPONLY > MountingHole : MountingHole_2.2mm_M2_Pad_TopOnly](#fzkholhol22m2padtoponly--mountinghole--mountinghole_22mm_m2_pad_toponly)
+* [FZKHOLHOL22M2PTOPONLY > MountingHole : MountingHole_2.2mm_M2_Pad_TopOnly](#fzkholhol22m2ptoponly--mountinghole--mountinghole_22mm_m2_pad_toponly)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKHOLHOL22M2PADTOPONLY > MountingHole : MountingHole_2.2mm_M2_Pad_TopOnly
+# FZKHOLHOL22M2PTOPONLY > MountingHole : MountingHole_2.2mm_M2_Pad_TopOnly
 
 - ID: FOOTPRINT-kicad-kicad-footprints-MountingHole-MountingHole_2.2mm_M2_Pad_TopOnly
-- Hex ID: FZKHOLHOL22M2PADTOPONLY
+- Hex ID: FZKHOLHOL22M2PTOPONLY
 - Name: MountingHole : MountingHole_2.2mm_M2_Pad_TopOnly
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/MountingHole/MountingHole_2.2mm_M2_Pad_TopOnly/
 - Description: MountingHole : MountingHole_2.2mm_M2_Pad_TopOnly
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-MountingHole-MountingHole_2.2mm_M2_Pad_TopOnly](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-MountingHole-MountingHole_2.2mm_M2_Pad_TopOnly)
-- Short Link: [http://oom.lt/FZKHOLHOL22M2PADTOPONLY](http://oom.lt/FZKHOLHOL22M2PADTOPONLY)
+- Short Link: [http://oom.lt/FZKHOLHOL22M2PTOPONLY](http://oom.lt/FZKHOLHOL22M2PTOPONLY)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|MountingHole|
 |OOMP Index|oompIndex|MountingHole_2.2mm_M2_Pad_TopOnly|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-MountingHole-MountingHole_2.2mm_M2_Pad_TopOnly|
-|Hex ID (short code)|hexID|FZKHOLHOL22M2PADTOPONLY|
+|Hex ID (short code)|hexID|FZKHOLHOL22M2PTOPONLY|
 |name|name|MountingHole : MountingHole_2.2mm_M2_Pad_TopOnly|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'MountingHole_2.2mm_M2_Pad_TopOnly'</td><td> 'description'</td></tr><tr><td> 'Mounting Hole 2.2mm</td><td> M2'</td><td> 'tags'</td></tr><tr><td> 'mounting hole 2.2mm m2'</td><td> 'attributeType'</td></tr><tr><td> None</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||

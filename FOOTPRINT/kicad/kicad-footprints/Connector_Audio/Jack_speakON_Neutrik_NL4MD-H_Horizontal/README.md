@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_Audio-Jack_speakON_Neutrik_NL4MD-H_Horizontal
 - Hex ID: FZKCNAUDIOJSPEAKONNEUTRIKNL4MDHH
 - Name: Connector_Audio : Jack_speakON_Neutrik_NL4MD-H_Horizontal
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Audio/Jack_speakON_Neutrik_NL4MD-H_Horizontal/
 - Description: Connector_Audio : Jack_speakON_Neutrik_NL4MD-H_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Audio-Jack_speakON_Neutrik_NL4MD-H_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Audio-Jack_speakON_Neutrik_NL4MD-H_Horizontal)
 - Short Link: [http://oom.lt/FZKCNAUDIOJSPEAKONNEUTRIKNL4MDHH](http://oom.lt/FZKCNAUDIOJSPEAKONNEUTRIKNL4MDHH)

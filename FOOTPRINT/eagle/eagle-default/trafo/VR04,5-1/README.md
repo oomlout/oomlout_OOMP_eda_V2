@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-trafo-VR04,5-1
 - Hex ID: FZETRAFOVR451
 - Name: trafo : VR04,5-1
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/trafo/VR04,5-1/
 - Description: trafo : VR04,5-1
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-trafo-VR04,5-1](http://oom.lt/FOOTPRINT-eagle-eagle-default-trafo-VR04,5-1)
 - Short Link: [http://oom.lt/FZETRAFOVR451](http://oom.lt/FZETRAFOVR451)

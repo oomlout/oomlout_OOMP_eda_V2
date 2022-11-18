@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-etx-board-C-5353652-36-3
 - Hex ID: FZEETXBOARDC5353652363
 - Name: etx-board : C-5353652-36-3
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/etx-board/C-5353652-36-3/
 - Description: etx-board : C-5353652-36-3
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-etx-board-C-5353652-36-3](http://oom.lt/FOOTPRINT-eagle-eagle-default-etx-board-C-5353652-36-3)
 - Short Link: [http://oom.lt/FZEETXBOARDC5353652363](http://oom.lt/FZEETXBOARDC5353652363)

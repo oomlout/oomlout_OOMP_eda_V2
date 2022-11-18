@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKDFNTEXASSPVQFNN24EP21X21THERMALVIAS > Package_DFN_QFN : Texas_S-PVQFN-N24_EP2.1x2.1mm_ThermalVias](#fzkdfntexasspvqfnn24ep21x21thermalvias--package_dfn_qfn--texas_s-pvqfn-n24_ep21x21mm_thermalvias)
+* [FZKDFNTEXASSPVQFNN24EP21X21THV > Package_DFN_QFN : Texas_S-PVQFN-N24_EP2.1x2.1mm_ThermalVias](#fzkdfntexasspvqfnn24ep21x21thv--package_dfn_qfn--texas_s-pvqfn-n24_ep21x21mm_thermalvias)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKDFNTEXASSPVQFNN24EP21X21THERMALVIAS > Package_DFN_QFN : Texas_S-PVQFN-N24_EP2.1x2.1mm_ThermalVias
+# FZKDFNTEXASSPVQFNN24EP21X21THV > Package_DFN_QFN : Texas_S-PVQFN-N24_EP2.1x2.1mm_ThermalVias
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Texas_S-PVQFN-N24_EP2.1x2.1mm_ThermalVias
-- Hex ID: FZKDFNTEXASSPVQFNN24EP21X21THERMALVIAS
+- Hex ID: FZKDFNTEXASSPVQFNN24EP21X21THV
 - Name: Package_DFN_QFN : Texas_S-PVQFN-N24_EP2.1x2.1mm_ThermalVias
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/Texas_S-PVQFN-N24_EP2.1x2.1mm_ThermalVias/
 - Description: Package_DFN_QFN : Texas_S-PVQFN-N24_EP2.1x2.1mm_ThermalVias
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Texas_S-PVQFN-N24_EP2.1x2.1mm_ThermalVias](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Texas_S-PVQFN-N24_EP2.1x2.1mm_ThermalVias)
-- Short Link: [http://oom.lt/FZKDFNTEXASSPVQFNN24EP21X21THERMALVIAS](http://oom.lt/FZKDFNTEXASSPVQFNN24EP21X21THERMALVIAS)
+- Short Link: [http://oom.lt/FZKDFNTEXASSPVQFNN24EP21X21THV](http://oom.lt/FZKDFNTEXASSPVQFNN24EP21X21THV)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Package_DFN_QFN|
 |OOMP Index|oompIndex|Texas_S-PVQFN-N24_EP2.1x2.1mm_ThermalVias|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Texas_S-PVQFN-N24_EP2.1x2.1mm_ThermalVias|
-|Hex ID (short code)|hexID|FZKDFNTEXASSPVQFNN24EP21X21THERMALVIAS|
+|Hex ID (short code)|hexID|FZKDFNTEXASSPVQFNN24EP21X21THV|
 |name|name|Package_DFN_QFN : Texas_S-PVQFN-N24_EP2.1x2.1mm_ThermalVias|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Texas_S-PVQFN-N24_EP2.1x2.1mm_ThermalVias'</td><td> 'description'</td></tr><tr><td> 'QFN</td><td> 24 Pin (http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/msp430fr5720.pdf#page=108)</td><td> generated with kicad-footprint-generator ipc_noLead_generator.py'</td><td> 'tags'</td></tr><tr><td> 'QFN NoLead'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_DFN_QFN.3dshapes/Texas_S-PVQFN-N24_EP2.1x2.1mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||

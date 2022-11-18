@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-JST-3-SMD
 - Hex ID: FZSSPARKFUNCNSJST3SM
 - Name: SparkFun-Connectors : JST-3-SMD
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Connectors/JST-3-SMD/
 - Description: SparkFun-Connectors : JST-3-SMD
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-JST-3-SMD](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-JST-3-SMD)
 - Short Link: [http://oom.lt/FZSSPARKFUNCNSJST3SM](http://oom.lt/FZSSPARKFUNCNSJST3SM)

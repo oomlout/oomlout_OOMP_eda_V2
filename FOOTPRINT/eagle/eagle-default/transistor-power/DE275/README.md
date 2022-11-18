@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-transistor-power-DE275
 - Hex ID: FZETRANSISTORPOWERDE275
 - Name: transistor-power : DE275
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/transistor-power/DE275/
 - Description: transistor-power : DE275
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-power-DE275](http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-power-DE275)
 - Short Link: [http://oom.lt/FZETRANSISTORPOWERDE275](http://oom.lt/FZETRANSISTORPOWERDE275)

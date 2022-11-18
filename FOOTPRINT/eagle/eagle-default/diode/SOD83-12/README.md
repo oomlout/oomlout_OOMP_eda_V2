@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-diode-SOD83-12
 - Hex ID: FZEDIODESOD8312
 - Name: diode : SOD83-12
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/diode/SOD83-12/
 - Description: diode : SOD83-12
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-diode-SOD83-12](http://oom.lt/FOOTPRINT-eagle-eagle-default-diode-SOD83-12)
 - Short Link: [http://oom.lt/FZEDIODESOD8312](http://oom.lt/FZEDIODESOD8312)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Aesthetics-REDBOT_LOGO
 - Hex ID: FZSAREDBOTL
 - Name: SparkFun-Aesthetics : REDBOT_LOGO
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Aesthetics/REDBOT_LOGO/
 - Description: SparkFun-Aesthetics : REDBOT_LOGO
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Aesthetics-REDBOT_LOGO](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Aesthetics-REDBOT_LOGO)
 - Short Link: [http://oom.lt/FZSAREDBOTL](http://oom.lt/FZSAREDBOTL)

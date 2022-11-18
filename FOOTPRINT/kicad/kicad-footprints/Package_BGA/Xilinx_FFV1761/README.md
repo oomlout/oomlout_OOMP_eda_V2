@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_BGA-Xilinx_FFV1761
 - Hex ID: FZKBGAXILINXFFV1761
 - Name: Package_BGA : Xilinx_FFV1761
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_BGA/Xilinx_FFV1761/
 - Description: Package_BGA : Xilinx_FFV1761
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_BGA-Xilinx_FFV1761](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_BGA-Xilinx_FFV1761)
 - Short Link: [http://oom.lt/FZKBGAXILINXFFV1761](http://oom.lt/FZKBGAXILINXFFV1761)

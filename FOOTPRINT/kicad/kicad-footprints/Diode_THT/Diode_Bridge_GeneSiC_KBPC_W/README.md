@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-kicad-kicad-footprints-Diode_THT-Diode_Bridge_GeneSiC_KBPC_W
 - Hex ID: FZKDDIODEBRIDGEGENESICKBPCW
 - Name: Diode_THT : Diode_Bridge_GeneSiC_KBPC_W
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Diode_THT/Diode_Bridge_GeneSiC_KBPC_W/
 - Description: Diode_THT : Diode_Bridge_GeneSiC_KBPC_W
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Diode_THT-Diode_Bridge_GeneSiC_KBPC_W](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Diode_THT-Diode_Bridge_GeneSiC_KBPC_W)
 - Short Link: [http://oom.lt/FZKDDIODEBRIDGEGENESICKBPCW](http://oom.lt/FZKDDIODEBRIDGEGENESICKBPCW)

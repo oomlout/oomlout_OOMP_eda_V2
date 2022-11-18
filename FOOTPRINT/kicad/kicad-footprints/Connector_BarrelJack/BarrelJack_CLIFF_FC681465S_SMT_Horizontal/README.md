@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_BarrelJack-BarrelJack_CLIFF_FC681465S_SMT_Horizontal
 - Hex ID: FZKCNBARRELJBARRELJCLIFFFC681465SSH
 - Name: Connector_BarrelJack : BarrelJack_CLIFF_FC681465S_SMT_Horizontal
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_BarrelJack/BarrelJack_CLIFF_FC681465S_SMT_Horizontal/
 - Description: Connector_BarrelJack : BarrelJack_CLIFF_FC681465S_SMT_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_BarrelJack-BarrelJack_CLIFF_FC681465S_SMT_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_BarrelJack-BarrelJack_CLIFF_FC681465S_SMT_Horizontal)
 - Short Link: [http://oom.lt/FZKCNBARRELJBARRELJCLIFFFC681465SSH](http://oom.lt/FZKCNBARRELJBARRELJCLIFFFC681465SSH)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-rectifier-B-DIL
 - Hex ID: FZERECTIFIERBDIL
 - Name: rectifier : B-DIL
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/rectifier/B-DIL/
 - Description: rectifier : B-DIL
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-rectifier-B-DIL](http://oom.lt/FOOTPRINT-eagle-eagle-default-rectifier-B-DIL)
 - Short Link: [http://oom.lt/FZERECTIFIERBDIL](http://oom.lt/FZERECTIFIERBDIL)

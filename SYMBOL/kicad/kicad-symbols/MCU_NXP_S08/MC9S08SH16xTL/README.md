@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_NXP_S08-MC9S08SH16xTL
 - Hex ID: SZKMCUNXPS8MC9S8SH16XTL
 - Name: MCU_NXP_S08 : MC9S08SH16xTL
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_NXP_S08/MC9S08SH16xTL/
 - Description: MCU_NXP_S08 : MC9S08SH16xTL
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_NXP_S08-MC9S08SH16xTL](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_NXP_S08-MC9S08SH16xTL)
 - Short Link: [http://oom.lt/SZKMCUNXPS8MC9S8SH16XTL](http://oom.lt/SZKMCUNXPS8MC9S8SH16XTL)

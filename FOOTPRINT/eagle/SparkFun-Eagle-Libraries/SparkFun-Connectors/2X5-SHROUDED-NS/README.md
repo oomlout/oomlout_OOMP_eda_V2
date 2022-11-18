@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-2X5-SHROUDED-NS
 - Hex ID: FZSSPARKFUNCNS2X5SHNS
 - Name: SparkFun-Connectors : 2X5-SHROUDED-NS
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Connectors/2X5-SHROUDED-NS/
 - Description: SparkFun-Connectors : 2X5-SHROUDED-NS
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-2X5-SHROUDED-NS](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-2X5-SHROUDED-NS)
 - Short Link: [http://oom.lt/FZSSPARKFUNCNS2X5SHNS](http://oom.lt/FZSSPARKFUNCNS2X5SHNS)

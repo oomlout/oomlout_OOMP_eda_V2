@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-conrad-737755-4_POL_KLEMME-SPK
 - Hex ID: FZECONCONRAD7377554POLKLEESPK
 - Name: con-conrad : 737755-4_POL_KLEMME-SPK
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-conrad/737755-4_POL_KLEMME-SPK/
 - Description: con-conrad : 737755-4_POL_KLEMME-SPK
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-conrad-737755-4_POL_KLEMME-SPK](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-conrad-737755-4_POL_KLEMME-SPK)
 - Short Link: [http://oom.lt/FZECONCONRAD7377554POLKLEESPK](http://oom.lt/FZECONCONRAD7377554POLKLEESPK)

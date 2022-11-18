@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-CPLD_Xilinx-XC7336
 - Hex ID: SZKCPLDXILINXXC7336
 - Name: CPLD_Xilinx : XC7336
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/CPLD_Xilinx/XC7336/
 - Description: CPLD_Xilinx : XC7336
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-CPLD_Xilinx-XC7336](http://oom.lt/SYMBOL-kicad-kicad-symbols-CPLD_Xilinx-XC7336)
 - Short Link: [http://oom.lt/SZKCPLDXILINXXC7336](http://oom.lt/SZKCPLDXILINXXC7336)

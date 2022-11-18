@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Oscillator-KT2520K-T
 - Hex ID: SZKOCSKT252KT
 - Name: Oscillator : KT2520K-T
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Oscillator/KT2520K-T/
 - Description: Oscillator : KT2520K-T
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Oscillator-KT2520K-T](http://oom.lt/SYMBOL-kicad-kicad-symbols-Oscillator-KT2520K-T)
 - Short Link: [http://oom.lt/SZKOCSKT252KT](http://oom.lt/SZKOCSKT252KT)

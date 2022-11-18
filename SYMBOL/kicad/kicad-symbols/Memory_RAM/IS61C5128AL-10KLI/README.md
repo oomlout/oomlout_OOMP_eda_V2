@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Memory_RAM-IS61C5128AL-10KLI
 - Hex ID: SZKMEMORYRAMIS61C5128AL1KLI
 - Name: Memory_RAM : IS61C5128AL-10KLI
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Memory_RAM/IS61C5128AL-10KLI/
 - Description: Memory_RAM : IS61C5128AL-10KLI
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_RAM-IS61C5128AL-10KLI](http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_RAM-IS61C5128AL-10KLI)
 - Short Link: [http://oom.lt/SZKMEMORYRAMIS61C5128AL1KLI](http://oom.lt/SZKMEMORYRAMIS61C5128AL1KLI)

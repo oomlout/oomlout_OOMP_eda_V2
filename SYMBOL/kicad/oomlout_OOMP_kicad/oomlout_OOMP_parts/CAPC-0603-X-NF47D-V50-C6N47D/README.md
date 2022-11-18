@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0603-X-NF47D-V50-C6N47D
 - Hex ID: SZOOMPKOOMPPCAPC63XNF47DV5C6N47D
 - Name: oomlout_OOMP_parts : CAPC-0603-X-NF47D-V50-C6N47D
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/CAPC-0603-X-NF47D-V50-C6N47D/
 - Description: oomlout_OOMP_parts : CAPC-0603-X-NF47D-V50-C6N47D
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0603-X-NF47D-V50-C6N47D](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0603-X-NF47D-V50-C6N47D)
 - Short Link: [http://oom.lt/SZOOMPKOOMPPCAPC63XNF47DV5C6N47D](http://oom.lt/SZOOMPKOOMPPCAPC63XNF47DV5C6N47D)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Comparator-LM311
 - Hex ID: SZKCOMPARATORLM311
 - Name: Comparator : LM311
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Comparator/LM311/
 - Description: Comparator : LM311
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Comparator-LM311](http://oom.lt/SYMBOL-kicad-kicad-symbols-Comparator-LM311)
 - Short Link: [http://oom.lt/SZKCOMPARATORLM311](http://oom.lt/SZKCOMPARATORLM311)

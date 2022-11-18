@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Potentiometer_THT-Potentiometer_ACP_CA14V-15_Vertical
 - Hex ID: FZKPPOTACPCA14V15F
 - Name: Potentiometer_THT : Potentiometer_ACP_CA14V-15_Vertical
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Potentiometer_THT/Potentiometer_ACP_CA14V-15_Vertical/
 - Description: Potentiometer_THT : Potentiometer_ACP_CA14V-15_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Potentiometer_THT-Potentiometer_ACP_CA14V-15_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Potentiometer_THT-Potentiometer_ACP_CA14V-15_Vertical)
 - Short Link: [http://oom.lt/FZKPPOTACPCA14V15F](http://oom.lt/FZKPPOTACPCA14V15F)

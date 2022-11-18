@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEREFPACKAGES3DSOJ127P192X43228 > ref-packages-3d : SOJ127P1092X432-28](#fzerefpackages3dsoj127p192x43228--ref-packages-3d--soj127p1092x432-28)
+* [FZEREFPS3DSOJ127P192X43228 > ref-packages-3d : SOJ127P1092X432-28](#fzerefps3dsoj127p192x43228--ref-packages-3d--soj127p1092x432-28)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEREFPACKAGES3DSOJ127P192X43228 > ref-packages-3d : SOJ127P1092X432-28
+# FZEREFPS3DSOJ127P192X43228 > ref-packages-3d : SOJ127P1092X432-28
 
 - ID: FOOTPRINT-eagle-eagle-default-ref-packages-3d-SOJ127P1092X432-28
-- Hex ID: FZEREFPACKAGES3DSOJ127P192X43228
+- Hex ID: FZEREFPS3DSOJ127P192X43228
 - Name: ref-packages-3d : SOJ127P1092X432-28
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ref-packages-3d/SOJ127P1092X432-28/
 - Description: ref-packages-3d : SOJ127P1092X432-28
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-3d-SOJ127P1092X432-28](http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-3d-SOJ127P1092X432-28)
-- Short Link: [http://oom.lt/FZEREFPACKAGES3DSOJ127P192X43228](http://oom.lt/FZEREFPACKAGES3DSOJ127P192X43228)
+- Short Link: [http://oom.lt/FZEREFPS3DSOJ127P192X43228](http://oom.lt/FZEREFPS3DSOJ127P192X43228)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|ref-packages-3d|
 |OOMP Index|oompIndex|SOJ127P1092X432-28|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-ref-packages-3d-SOJ127P1092X432-28|
-|Hex ID (short code)|hexID|FZEREFPACKAGES3DSOJ127P192X43228|
+|Hex ID (short code)|hexID|FZEREFPS3DSOJ127P192X43228|
 |name|name|ref-packages-3d : SOJ127P1092X432-28|
 ||||

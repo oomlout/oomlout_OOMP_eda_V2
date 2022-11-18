@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-smd-ipc-C1608
 - Hex ID: FZESMIPCC168
 - Name: smd-ipc : C1608
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/smd-ipc/C1608/
 - Description: smd-ipc : C1608
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-C1608](http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-C1608)
 - Short Link: [http://oom.lt/FZESMIPCC168](http://oom.lt/FZESMIPCC168)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Aesthetics-OSHW-LOGO-L
 - Hex ID: FZSAOSHWLL
 - Name: SparkFun-Aesthetics : OSHW-LOGO-L
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Aesthetics/OSHW-LOGO-L/
 - Description: SparkFun-Aesthetics : OSHW-LOGO-L
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Aesthetics-OSHW-LOGO-L](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Aesthetics-OSHW-LOGO-L)
 - Short Link: [http://oom.lt/FZSAOSHWLL](http://oom.lt/FZSAOSHWLL)

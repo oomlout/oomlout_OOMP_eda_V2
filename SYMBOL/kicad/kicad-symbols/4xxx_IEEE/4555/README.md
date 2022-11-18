@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-4xxx_IEEE-4555
 - Hex ID: SZK4XXXIEEE4555
 - Name: 4xxx_IEEE : 4555
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/4xxx_IEEE/4555/
 - Description: 4xxx_IEEE : 4555
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-4xxx_IEEE-4555](http://oom.lt/SYMBOL-kicad-kicad-symbols-4xxx_IEEE-4555)
 - Short Link: [http://oom.lt/SZK4XXXIEEE4555](http://oom.lt/SZK4XXXIEEE4555)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface-CH376T
 - Hex ID: SZKINTERFACECH376T
 - Name: Interface : CH376T
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface/CH376T/
 - Description: Interface : CH376T
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-CH376T](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-CH376T)
 - Short Link: [http://oom.lt/SZKINTERFACECH376T](http://oom.lt/SZKINTERFACECH376T)

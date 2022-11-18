@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEICPACKAGEDIL249 > ic-package : DIL24-9](#fzeicpackagedil249--ic-package--dil24-9)
+* [FZEICPDIL249 > ic-package : DIL24-9](#fzeicpdil249--ic-package--dil24-9)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEICPACKAGEDIL249 > ic-package : DIL24-9
+# FZEICPDIL249 > ic-package : DIL24-9
 
 - ID: FOOTPRINT-eagle-eagle-default-ic-package-DIL24-9
-- Hex ID: FZEICPACKAGEDIL249
+- Hex ID: FZEICPDIL249
 - Name: ic-package : DIL24-9
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ic-package/DIL24-9/
 - Description: ic-package : DIL24-9
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ic-package-DIL24-9](http://oom.lt/FOOTPRINT-eagle-eagle-default-ic-package-DIL24-9)
-- Short Link: [http://oom.lt/FZEICPACKAGEDIL249](http://oom.lt/FZEICPACKAGEDIL249)
+- Short Link: [http://oom.lt/FZEICPDIL249](http://oom.lt/FZEICPDIL249)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|ic-package|
 |OOMP Index|oompIndex|DIL24-9|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-ic-package-DIL24-9|
-|Hex ID (short code)|hexID|FZEICPACKAGEDIL249|
+|Hex ID (short code)|hexID|FZEICPDIL249|
 |name|name|ic-package : DIL24-9|
 ||||

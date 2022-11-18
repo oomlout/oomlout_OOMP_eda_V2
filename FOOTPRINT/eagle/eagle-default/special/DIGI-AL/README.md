@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-special-DIGI-AL
 - Hex ID: FZESPECIALDIGIAL
 - Name: special : DIGI-AL
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/special/DIGI-AL/
 - Description: special : DIGI-AL
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-special-DIGI-AL](http://oom.lt/FOOTPRINT-eagle-eagle-default-special-DIGI-AL)
 - Short Link: [http://oom.lt/FZESPECIALDIGIAL](http://oom.lt/FZESPECIALDIGIAL)

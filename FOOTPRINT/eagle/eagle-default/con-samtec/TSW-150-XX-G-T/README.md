@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-samtec-TSW-150-XX-G-T
 - Hex ID: FZECONSAMTECTSW15XXGT
 - Name: con-samtec : TSW-150-XX-G-T
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-samtec/TSW-150-XX-G-T/
 - Description: con-samtec : TSW-150-XX-G-T
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-samtec-TSW-150-XX-G-T](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-samtec-TSW-150-XX-G-T)
 - Short Link: [http://oom.lt/FZECONSAMTECTSW15XXGT](http://oom.lt/FZECONSAMTECTSW15XXGT)

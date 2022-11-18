@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_Ethernet-KSZ8081MLX
 - Hex ID: SZKINTERFACEETHERNETKSZ881MLX
 - Name: Interface_Ethernet : KSZ8081MLX
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_Ethernet/KSZ8081MLX/
 - Description: Interface_Ethernet : KSZ8081MLX
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Ethernet-KSZ8081MLX](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Ethernet-KSZ8081MLX)
 - Short Link: [http://oom.lt/SZKINTERFACEETHERNETKSZ881MLX](http://oom.lt/SZKINTERFACEETHERNETKSZ881MLX)

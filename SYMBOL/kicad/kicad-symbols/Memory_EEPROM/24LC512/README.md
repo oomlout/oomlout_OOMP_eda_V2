@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Memory_EEPROM-24LC512
 - Hex ID: SZKMEMORYEEPROM24LC512
 - Name: Memory_EEPROM : 24LC512
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Memory_EEPROM/24LC512/
 - Description: Memory_EEPROM : 24LC512
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_EEPROM-24LC512](http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_EEPROM-24LC512)
 - Short Link: [http://oom.lt/SZKMEMORYEEPROM24LC512](http://oom.lt/SZKMEMORYEEPROM24LC512)

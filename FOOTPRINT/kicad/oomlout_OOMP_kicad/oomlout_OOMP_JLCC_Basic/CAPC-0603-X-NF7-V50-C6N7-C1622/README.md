@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0603-X-NF7-V50-C6N7-C1622
 - Hex ID: FZOOMPKJLCCAPC63XNF7V5C6N7C1622
 - Name: oomlout_OOMP_JLCC_Basic : CAPC-0603-X-NF7-V50-C6N7-C1622
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_JLCC_Basic/CAPC-0603-X-NF7-V50-C6N7-C1622/
 - Description: oomlout_OOMP_JLCC_Basic : CAPC-0603-X-NF7-V50-C6N7-C1622
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0603-X-NF7-V50-C6N7-C1622](http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0603-X-NF7-V50-C6N7-C1622)
 - Short Link: [http://oom.lt/FZOOMPKJLCCAPC63XNF7V5C6N7C1622](http://oom.lt/FZOOMPKJLCCAPC63XNF7V5C6N7C1622)

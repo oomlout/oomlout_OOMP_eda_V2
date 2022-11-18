@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Module-Adafruit_Feather_HUZZAH32_ESP32
 - Hex ID: SZKMCUMOADAFEATHERHUZZAH32ESP32
 - Name: MCU_Module : Adafruit_Feather_HUZZAH32_ESP32
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Module/Adafruit_Feather_HUZZAH32_ESP32/
 - Description: MCU_Module : Adafruit_Feather_HUZZAH32_ESP32
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Module-Adafruit_Feather_HUZZAH32_ESP32](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Module-Adafruit_Feather_HUZZAH32_ESP32)
 - Short Link: [http://oom.lt/SZKMCUMOADAFEATHERHUZZAH32ESP32](http://oom.lt/SZKMCUMOADAFEATHERHUZZAH32ESP32)

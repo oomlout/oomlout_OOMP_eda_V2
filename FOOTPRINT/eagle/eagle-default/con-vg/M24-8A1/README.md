@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-vg-M24-8A1
 - Hex ID: FZECONVGM248A1
 - Name: con-vg : M24-8A1
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-vg/M24-8A1/
 - Description: con-vg : M24-8A1
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-vg-M24-8A1](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-vg-M24-8A1)
 - Short Link: [http://oom.lt/FZECONVGM248A1](http://oom.lt/FZECONVGM248A1)

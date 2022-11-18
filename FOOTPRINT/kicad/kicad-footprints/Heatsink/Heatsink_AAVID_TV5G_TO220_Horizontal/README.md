@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Heatsink-Heatsink_AAVID_TV5G_TO220_Horizontal
 - Hex ID: FZKHHAAVIDTV5GTO22H
 - Name: Heatsink : Heatsink_AAVID_TV5G_TO220_Horizontal
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Heatsink/Heatsink_AAVID_TV5G_TO220_Horizontal/
 - Description: Heatsink : Heatsink_AAVID_TV5G_TO220_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Heatsink-Heatsink_AAVID_TV5G_TO220_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Heatsink-Heatsink_AAVID_TV5G_TO220_Horizontal)
 - Short Link: [http://oom.lt/FZKHHAAVIDTV5GTO22H](http://oom.lt/FZKHHAAVIDTV5GTO22H)

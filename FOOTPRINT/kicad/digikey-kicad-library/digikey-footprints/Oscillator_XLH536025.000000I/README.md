@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Oscillator_XLH536025.000000I
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSOCSXLH53625I
 - Name: digikey-footprints : Oscillator_XLH536025.000000I
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Oscillator_XLH536025.000000I/
 - Description: digikey-footprints : Oscillator_XLH536025.000000I
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Oscillator_XLH536025.000000I](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Oscillator_XLH536025.000000I)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSOCSXLH53625I](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSOCSXLH53625I)

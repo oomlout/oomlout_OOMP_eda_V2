@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Fuse-Fuse_Bourns_MF-RHT100
 - Hex ID: FZKFUFUBOURNSMFRHT1
 - Name: Fuse : Fuse_Bourns_MF-RHT100
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Fuse/Fuse_Bourns_MF-RHT100/
 - Description: Fuse : Fuse_Bourns_MF-RHT100
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Fuse-Fuse_Bourns_MF-RHT100](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Fuse-Fuse_Bourns_MF-RHT100)
 - Short Link: [http://oom.lt/FZKFUFUBOURNSMFRHT1](http://oom.lt/FZKFUFUBOURNSMFRHT1)

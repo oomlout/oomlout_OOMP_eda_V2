@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0805-X-UF1-V50-C8U1-C28323
 - Hex ID: FZOOMPKJLCCAPC85XUF1V5C8U1C28323
 - Name: oomlout_OOMP_JLCC_Basic : CAPC-0805-X-UF1-V50-C8U1-C28323
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_JLCC_Basic/CAPC-0805-X-UF1-V50-C8U1-C28323/
 - Description: oomlout_OOMP_JLCC_Basic : CAPC-0805-X-UF1-V50-C8U1-C28323
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0805-X-UF1-V50-C8U1-C28323](http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0805-X-UF1-V50-C8U1-C28323)
 - Short Link: [http://oom.lt/FZOOMPKJLCCAPC85XUF1V5C8U1C28323](http://oom.lt/FZOOMPKJLCCAPC85XUF1V5C8U1C28323)

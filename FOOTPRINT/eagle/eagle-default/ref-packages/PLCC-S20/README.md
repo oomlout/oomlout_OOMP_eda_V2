@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEREFPACKAGESPLCCS2 > ref-packages : PLCC-S20](#fzerefpackagesplccs2--ref-packages--plcc-s20)
+* [FZEREFPSPLCCS2 > ref-packages : PLCC-S20](#fzerefpsplccs2--ref-packages--plcc-s20)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEREFPACKAGESPLCCS2 > ref-packages : PLCC-S20
+# FZEREFPSPLCCS2 > ref-packages : PLCC-S20
 
 - ID: FOOTPRINT-eagle-eagle-default-ref-packages-PLCC-S20
-- Hex ID: FZEREFPACKAGESPLCCS2
+- Hex ID: FZEREFPSPLCCS2
 - Name: ref-packages : PLCC-S20
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ref-packages/PLCC-S20/
 - Description: ref-packages : PLCC-S20
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-PLCC-S20](http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-PLCC-S20)
-- Short Link: [http://oom.lt/FZEREFPACKAGESPLCCS2](http://oom.lt/FZEREFPACKAGESPLCCS2)
+- Short Link: [http://oom.lt/FZEREFPSPLCCS2](http://oom.lt/FZEREFPSPLCCS2)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|ref-packages|
 |OOMP Index|oompIndex|PLCC-S20|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-ref-packages-PLCC-S20|
-|Hex ID (short code)|hexID|FZEREFPACKAGESPLCCS2|
+|Hex ID (short code)|hexID|FZEREFPSPLCCS2|
 |name|name|ref-packages : PLCC-S20|
 ||||

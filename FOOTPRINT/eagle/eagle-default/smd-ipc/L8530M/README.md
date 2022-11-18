@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-smd-ipc-L8530M
 - Hex ID: FZESMIPCL853M
 - Name: smd-ipc : L8530M
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/smd-ipc/L8530M/
 - Description: smd-ipc : L8530M
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-L8530M](http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-L8530M)
 - Short Link: [http://oom.lt/FZESMIPCL853M](http://oom.lt/FZESMIPCL853M)

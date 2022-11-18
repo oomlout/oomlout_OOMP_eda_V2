@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Audio-LM2876
 - Hex ID: SZKAMPLIFIERAUDIOLM2876
 - Name: Amplifier_Audio : LM2876
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Audio/LM2876/
 - Description: Amplifier_Audio : LM2876
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Audio-LM2876](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Audio-LM2876)
 - Short Link: [http://oom.lt/SZKAMPLIFIERAUDIOLM2876](http://oom.lt/SZKAMPLIFIERAUDIOLM2876)

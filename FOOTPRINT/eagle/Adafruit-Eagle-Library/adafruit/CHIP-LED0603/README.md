@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-CHIP-LED0603
 - Hex ID: FZACHIPL63
 - Name: adafruit : CHIP-LED0603
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/CHIP-LED0603/
 - Description: adafruit : CHIP-LED0603
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-CHIP-LED0603](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-CHIP-LED0603)
 - Short Link: [http://oom.lt/FZACHIPL63](http://oom.lt/FZACHIPL63)

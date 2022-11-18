@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-B230
 - Hex ID: SZKDIODEB23
 - Name: Diode : B230
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/B230/
 - Description: Diode : B230
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-B230](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-B230)
 - Short Link: [http://oom.lt/SZKDIODEB23](http://oom.lt/SZKDIODEB23)

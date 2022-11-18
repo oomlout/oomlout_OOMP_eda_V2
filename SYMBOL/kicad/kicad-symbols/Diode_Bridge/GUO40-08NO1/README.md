@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode_Bridge-GUO40-08NO1
 - Hex ID: SZKDIODEBRIDGEGUO48NO1
 - Name: Diode_Bridge : GUO40-08NO1
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode_Bridge/GUO40-08NO1/
 - Description: Diode_Bridge : GUO40-08NO1
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode_Bridge-GUO40-08NO1](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode_Bridge-GUO40-08NO1)
 - Short Link: [http://oom.lt/SZKDIODEBRIDGEGUO48NO1](http://oom.lt/SZKDIODEBRIDGEGUO48NO1)

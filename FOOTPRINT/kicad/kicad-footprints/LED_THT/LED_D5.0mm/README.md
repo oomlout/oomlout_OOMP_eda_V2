@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-LED_THT-LED_D5.0mm
 - Hex ID: FZKLLD5
 - Name: LED_THT : LED_D5.0mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/LED_THT/LED_D5.0mm/
 - Description: LED_THT : LED_D5.0mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-LED_THT-LED_D5.0mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-LED_THT-LED_D5.0mm)
 - Short Link: [http://oom.lt/FZKLLD5](http://oom.lt/FZKLLD5)

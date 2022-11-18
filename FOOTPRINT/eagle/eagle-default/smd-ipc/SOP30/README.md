@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-smd-ipc-SOP30
 - Hex ID: FZESMIPCS3
 - Name: smd-ipc : SOP30
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/smd-ipc/SOP30/
 - Description: smd-ipc : SOP30
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-SOP30](http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-SOP30)
 - Short Link: [http://oom.lt/FZESMIPCS3](http://oom.lt/FZESMIPCS3)

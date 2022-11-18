@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-con-xmultiple-XRJF-01A-0-D2A-010
 - Hex ID: FZECONXMULTIPLEXRJF1AD2A1
 - Name: con-xmultiple : XRJF-01A-0-D2A-010
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-xmultiple/XRJF-01A-0-D2A-010/
 - Description: con-xmultiple : XRJF-01A-0-D2A-010
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-xmultiple-XRJF-01A-0-D2A-010](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-xmultiple-XRJF-01A-0-D2A-010)
 - Short Link: [http://oom.lt/FZECONXMULTIPLEXRJF1AD2A1](http://oom.lt/FZECONXMULTIPLEXRJF1AD2A1)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-LM5118MH
 - Hex ID: SZKREGULATORSWINGLM5118MH
 - Name: Regulator_Switching : LM5118MH
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/LM5118MH/
 - Description: Regulator_Switching : LM5118MH
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LM5118MH](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LM5118MH)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGLM5118MH](http://oom.lt/SZKREGULATORSWINGLM5118MH)

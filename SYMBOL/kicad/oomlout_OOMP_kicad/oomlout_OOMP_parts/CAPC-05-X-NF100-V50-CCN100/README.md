@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-05-X-NF100-V50-CCN100
 - Hex ID: SZOOMPKOOMPPCAPC5XNF1V5CCN1
 - Name: oomlout_OOMP_parts : CAPC-05-X-NF100-V50-CCN100
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/CAPC-05-X-NF100-V50-CCN100/
 - Description: oomlout_OOMP_parts : CAPC-05-X-NF100-V50-CCN100
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-05-X-NF100-V50-CCN100](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-05-X-NF100-V50-CCN100)
 - Short Link: [http://oom.lt/SZOOMPKOOMPPCAPC5XNF1V5CCN1](http://oom.lt/SZOOMPKOOMPPCAPC5XNF1V5CCN1)

@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKDFNTEXASRPWQFNN28EP21X31THERMALVIAS > Package_DFN_QFN : Texas_R-PWQFN-N28_EP2.1x3.1mm_ThermalVias](#fzkdfntexasrpwqfnn28ep21x31thermalvias--package_dfn_qfn--texas_r-pwqfn-n28_ep21x31mm_thermalvias)
+* [FZKDFNTEXASRPWQFNN28EP21X31THV > Package_DFN_QFN : Texas_R-PWQFN-N28_EP2.1x3.1mm_ThermalVias](#fzkdfntexasrpwqfnn28ep21x31thv--package_dfn_qfn--texas_r-pwqfn-n28_ep21x31mm_thermalvias)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKDFNTEXASRPWQFNN28EP21X31THERMALVIAS > Package_DFN_QFN : Texas_R-PWQFN-N28_EP2.1x3.1mm_ThermalVias
+# FZKDFNTEXASRPWQFNN28EP21X31THV > Package_DFN_QFN : Texas_R-PWQFN-N28_EP2.1x3.1mm_ThermalVias
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Texas_R-PWQFN-N28_EP2.1x3.1mm_ThermalVias
-- Hex ID: FZKDFNTEXASRPWQFNN28EP21X31THERMALVIAS
+- Hex ID: FZKDFNTEXASRPWQFNN28EP21X31THV
 - Name: Package_DFN_QFN : Texas_R-PWQFN-N28_EP2.1x3.1mm_ThermalVias
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/Texas_R-PWQFN-N28_EP2.1x3.1mm_ThermalVias/
 - Description: Package_DFN_QFN : Texas_R-PWQFN-N28_EP2.1x3.1mm_ThermalVias
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Texas_R-PWQFN-N28_EP2.1x3.1mm_ThermalVias](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Texas_R-PWQFN-N28_EP2.1x3.1mm_ThermalVias)
-- Short Link: [http://oom.lt/FZKDFNTEXASRPWQFNN28EP21X31THERMALVIAS](http://oom.lt/FZKDFNTEXASRPWQFNN28EP21X31THERMALVIAS)
+- Short Link: [http://oom.lt/FZKDFNTEXASRPWQFNN28EP21X31THV](http://oom.lt/FZKDFNTEXASRPWQFNN28EP21X31THV)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Package_DFN_QFN|
 |OOMP Index|oompIndex|Texas_R-PWQFN-N28_EP2.1x3.1mm_ThermalVias|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Texas_R-PWQFN-N28_EP2.1x3.1mm_ThermalVias|
-|Hex ID (short code)|hexID|FZKDFNTEXASRPWQFNN28EP21X31THERMALVIAS|
+|Hex ID (short code)|hexID|FZKDFNTEXASRPWQFNN28EP21X31THV|
 |name|name|Package_DFN_QFN : Texas_R-PWQFN-N28_EP2.1x3.1mm_ThermalVias|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Texas_R-PWQFN-N28_EP2.1x3.1mm_ThermalVias'</td><td> 'description'</td></tr><tr><td> 'QFN</td><td> 28 Pin (http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/tps51363.pdf#page=29)</td><td> generated with kicad-footprint-generator ipc_noLead_generator.py'</td><td> 'tags'</td></tr><tr><td> 'QFN NoLead'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_DFN_QFN.3dshapes/Texas_R-PWQFN-N28_EP2.1x3.1mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||

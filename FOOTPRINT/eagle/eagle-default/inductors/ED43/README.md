@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEINDUCTORSED43 > inductors : ED43](#fzeinductorsed43--inductors--ed43)
+* [FZEINSED43 > inductors : ED43](#fzeinsed43--inductors--ed43)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEINDUCTORSED43 > inductors : ED43
+# FZEINSED43 > inductors : ED43
 
 - ID: FOOTPRINT-eagle-eagle-default-inductors-ED43
-- Hex ID: FZEINDUCTORSED43
+- Hex ID: FZEINSED43
 - Name: inductors : ED43
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/inductors/ED43/
 - Description: inductors : ED43
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-inductors-ED43](http://oom.lt/FOOTPRINT-eagle-eagle-default-inductors-ED43)
-- Short Link: [http://oom.lt/FZEINDUCTORSED43](http://oom.lt/FZEINDUCTORSED43)
+- Short Link: [http://oom.lt/FZEINSED43](http://oom.lt/FZEINSED43)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|inductors|
 |OOMP Index|oompIndex|ED43|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-inductors-ED43|
-|Hex ID (short code)|hexID|FZEINDUCTORSED43|
+|Hex ID (short code)|hexID|FZEINSED43|
 |name|name|inductors : ED43|
 ||||

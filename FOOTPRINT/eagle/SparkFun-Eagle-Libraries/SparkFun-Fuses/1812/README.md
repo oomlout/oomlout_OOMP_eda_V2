@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Fuses-1812
 - Hex ID: FZSSPARKFUNFUS1812
 - Name: SparkFun-Fuses : 1812
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Fuses/1812/
 - Description: SparkFun-Fuses : 1812
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Fuses-1812](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Fuses-1812)
 - Short Link: [http://oom.lt/FZSSPARKFUNFUS1812](http://oom.lt/FZSSPARKFUNFUS1812)

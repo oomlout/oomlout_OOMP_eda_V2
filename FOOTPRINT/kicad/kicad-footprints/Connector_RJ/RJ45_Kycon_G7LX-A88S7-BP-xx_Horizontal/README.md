@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_RJ-RJ45_Kycon_G7LX-A88S7-BP-xx_Horizontal
 - Hex ID: FZKCNRJRJ45KYCONG7LXA88S7BPXXH
 - Name: Connector_RJ : RJ45_Kycon_G7LX-A88S7-BP-xx_Horizontal
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_RJ/RJ45_Kycon_G7LX-A88S7-BP-xx_Horizontal/
 - Description: Connector_RJ : RJ45_Kycon_G7LX-A88S7-BP-xx_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_RJ-RJ45_Kycon_G7LX-A88S7-BP-xx_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_RJ-RJ45_Kycon_G7LX-A88S7-BP-xx_Horizontal)
 - Short Link: [http://oom.lt/FZKCNRJRJ45KYCONG7LXA88S7BPXXH](http://oom.lt/FZKCNRJRJ45KYCONG7LXA88S7BPXXH)

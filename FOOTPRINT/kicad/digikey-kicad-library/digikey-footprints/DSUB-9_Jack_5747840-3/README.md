@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-DSUB-9_Jack_5747840-3
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSDSUB9J5747843
 - Name: digikey-footprints : DSUB-9_Jack_5747840-3
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/DSUB-9_Jack_5747840-3/
 - Description: digikey-footprints : DSUB-9_Jack_5747840-3
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-DSUB-9_Jack_5747840-3](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-DSUB-9_Jack_5747840-3)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSDSUB9J5747843](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSDSUB9J5747843)

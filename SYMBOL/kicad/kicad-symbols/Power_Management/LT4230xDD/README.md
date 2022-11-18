@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Power_Management-LT4230xDD
 - Hex ID: SZKPOWERMANAGEMENTLT423XDD
 - Name: Power_Management : LT4230xDD
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Power_Management/LT4230xDD/
 - Description: Power_Management : LT4230xDD
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-LT4230xDD](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-LT4230xDD)
 - Short Link: [http://oom.lt/SZKPOWERMANAGEMENTLT423XDD](http://oom.lt/SZKPOWERMANAGEMENTLT423XDD)

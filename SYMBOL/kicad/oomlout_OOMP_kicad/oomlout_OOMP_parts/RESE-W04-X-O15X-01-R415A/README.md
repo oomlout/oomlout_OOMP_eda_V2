@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-W04-X-O15X-01-R415A
 - Hex ID: SZOOMPKOOMPPRESEW4XO15X1R415A
 - Name: oomlout_OOMP_parts : RESE-W04-X-O15X-01-R415A
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/RESE-W04-X-O15X-01-R415A/
 - Description: oomlout_OOMP_parts : RESE-W04-X-O15X-01-R415A
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-W04-X-O15X-01-R415A](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-W04-X-O15X-01-R415A)
 - Short Link: [http://oom.lt/SZOOMPKOOMPPRESEW4XO15X1R415A](http://oom.lt/SZOOMPKOOMPPRESEW4XO15X1R415A)

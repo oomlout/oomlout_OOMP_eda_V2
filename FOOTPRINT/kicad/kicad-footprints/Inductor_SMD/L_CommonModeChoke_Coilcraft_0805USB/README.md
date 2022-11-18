@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_CommonModeChoke_Coilcraft_0805USB
 - Hex ID: FZKINLCOONMODECHOKECOILCRAFT85U
 - Name: Inductor_SMD : L_CommonModeChoke_Coilcraft_0805USB
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_CommonModeChoke_Coilcraft_0805USB/
 - Description: Inductor_SMD : L_CommonModeChoke_Coilcraft_0805USB
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_CommonModeChoke_Coilcraft_0805USB](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_CommonModeChoke_Coilcraft_0805USB)
 - Short Link: [http://oom.lt/FZKINLCOONMODECHOKECOILCRAFT85U](http://oom.lt/FZKINLCOONMODECHOKECOILCRAFT85U)

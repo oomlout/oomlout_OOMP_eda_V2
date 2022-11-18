@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-Diode_Bridge-KBPC5002W
 - Hex ID: SZKDIODEBRIDGEKBPC52W
 - Name: Diode_Bridge : KBPC5002W
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode_Bridge/KBPC5002W/
 - Description: Diode_Bridge : KBPC5002W
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode_Bridge-KBPC5002W](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode_Bridge-KBPC5002W)
 - Short Link: [http://oom.lt/SZKDIODEBRIDGEKBPC52W](http://oom.lt/SZKDIODEBRIDGEKBPC52W)

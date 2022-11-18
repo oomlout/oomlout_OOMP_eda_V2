@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-pot-LI10
 - Hex ID: FZEPOTLI1
 - Name: pot : LI10
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/pot/LI10/
 - Description: pot : LI10
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-pot-LI10](http://oom.lt/FOOTPRINT-eagle-eagle-default-pot-LI10)
 - Short Link: [http://oom.lt/FZEPOTLI1](http://oom.lt/FZEPOTLI1)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Bluetooth_Module_RFD22301
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSBLUETOOTHMORFD2231
 - Name: digikey-footprints : Bluetooth_Module_RFD22301
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Bluetooth_Module_RFD22301/
 - Description: digikey-footprints : Bluetooth_Module_RFD22301
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Bluetooth_Module_RFD22301](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Bluetooth_Module_RFD22301)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSBLUETOOTHMORFD2231](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSBLUETOOTHMORFD2231)

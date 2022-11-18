@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Filter-Filter_1109-5_1.1x0.9mm
 - Hex ID: FZKFILFIL119511X9
 - Name: Filter : Filter_1109-5_1.1x0.9mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Filter/Filter_1109-5_1.1x0.9mm/
 - Description: Filter : Filter_1109-5_1.1x0.9mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Filter-Filter_1109-5_1.1x0.9mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Filter-Filter_1109-5_1.1x0.9mm)
 - Short Link: [http://oom.lt/FZKFILFIL119511X9](http://oom.lt/FZKFILFIL119511X9)

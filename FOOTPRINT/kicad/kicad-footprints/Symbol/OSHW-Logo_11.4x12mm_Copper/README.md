@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Symbol-OSHW-Logo_11.4x12mm_Copper
 - Hex ID: FZKSZOSHWL114X12C
 - Name: Symbol : OSHW-Logo_11.4x12mm_Copper
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Symbol/OSHW-Logo_11.4x12mm_Copper/
 - Description: Symbol : OSHW-Logo_11.4x12mm_Copper
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Symbol-OSHW-Logo_11.4x12mm_Copper](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Symbol-OSHW-Logo_11.4x12mm_Copper)
 - Short Link: [http://oom.lt/FZKSZOSHWL114X12C](http://oom.lt/FZKSZOSHWL114X12C)

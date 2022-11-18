@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0603-X-NF3-V50-C6N3-C21117
 - Hex ID: FZOOMPKJLCCAPC63XNF3V5C6N3C21117
 - Name: oomlout_OOMP_JLCC_Basic : CAPC-0603-X-NF3-V50-C6N3-C21117
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_JLCC_Basic/CAPC-0603-X-NF3-V50-C6N3-C21117/
 - Description: oomlout_OOMP_JLCC_Basic : CAPC-0603-X-NF3-V50-C6N3-C21117
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0603-X-NF3-V50-C6N3-C21117](http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0603-X-NF3-V50-C6N3-C21117)
 - Short Link: [http://oom.lt/FZOOMPKJLCCAPC63XNF3V5C6N3C21117](http://oom.lt/FZOOMPKJLCCAPC63XNF3V5C6N3C21117)

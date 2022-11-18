@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-RJ45-8
 - Hex ID: FZSSPARKFUNCNSRJ458
 - Name: SparkFun-Connectors : RJ45-8
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Connectors/RJ45-8/
 - Description: SparkFun-Connectors : RJ45-8
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-RJ45-8](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-RJ45-8)
 - Short Link: [http://oom.lt/FZSSPARKFUNCNSRJ458](http://oom.lt/FZSSPARKFUNCNSRJ458)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-TQFP-32_7x7mm
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSTQFP327X7
 - Name: digikey-footprints : TQFP-32_7x7mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/TQFP-32_7x7mm/
 - Description: digikey-footprints : TQFP-32_7x7mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-TQFP-32_7x7mm](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-TQFP-32_7x7mm)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSTQFP327X7](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSTQFP327X7)

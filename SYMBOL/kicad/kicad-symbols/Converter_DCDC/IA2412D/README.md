@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Converter_DCDC-IA2412D
 - Hex ID: SZKCONIA2412D
 - Name: Converter_DCDC : IA2412D
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Converter_DCDC/IA2412D/
 - Description: Converter_DCDC : IA2412D
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-IA2412D](http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-IA2412D)
 - Short Link: [http://oom.lt/SZKCONIA2412D](http://oom.lt/SZKCONIA2412D)

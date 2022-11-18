@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEREFPACKAGESSOT143RINFINEON > ref-packages : SOT143R_INFINEON](#fzerefpackagessot143rinfineon--ref-packages--sot143r_infineon)
+* [FZEREFPSSOT143RINFINEON > ref-packages : SOT143R_INFINEON](#fzerefpssot143rinfineon--ref-packages--sot143r_infineon)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEREFPACKAGESSOT143RINFINEON > ref-packages : SOT143R_INFINEON
+# FZEREFPSSOT143RINFINEON > ref-packages : SOT143R_INFINEON
 
 - ID: FOOTPRINT-eagle-eagle-default-ref-packages-SOT143R_INFINEON
-- Hex ID: FZEREFPACKAGESSOT143RINFINEON
+- Hex ID: FZEREFPSSOT143RINFINEON
 - Name: ref-packages : SOT143R_INFINEON
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ref-packages/SOT143R_INFINEON/
 - Description: ref-packages : SOT143R_INFINEON
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-SOT143R_INFINEON](http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-SOT143R_INFINEON)
-- Short Link: [http://oom.lt/FZEREFPACKAGESSOT143RINFINEON](http://oom.lt/FZEREFPACKAGESSOT143RINFINEON)
+- Short Link: [http://oom.lt/FZEREFPSSOT143RINFINEON](http://oom.lt/FZEREFPSSOT143RINFINEON)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|ref-packages|
 |OOMP Index|oompIndex|SOT143R_INFINEON|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-ref-packages-SOT143R_INFINEON|
-|Hex ID (short code)|hexID|FZEREFPACKAGESSOT143RINFINEON|
+|Hex ID (short code)|hexID|FZEREFPSSOT143RINFINEON|
 |name|name|ref-packages : SOT143R_INFINEON|
 ||||

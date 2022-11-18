@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_Mini-B_Wuerth_65100516121_Horizontal
 - Hex ID: FZKCNUUMBWUERTH651516121H
 - Name: Connector_USB : USB_Mini-B_Wuerth_65100516121_Horizontal
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB_Mini-B_Wuerth_65100516121_Horizontal/
 - Description: Connector_USB : USB_Mini-B_Wuerth_65100516121_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_Mini-B_Wuerth_65100516121_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_Mini-B_Wuerth_65100516121_Horizontal)
 - Short Link: [http://oom.lt/FZKCNUUMBWUERTH651516121H](http://oom.lt/FZKCNUUMBWUERTH651516121H)

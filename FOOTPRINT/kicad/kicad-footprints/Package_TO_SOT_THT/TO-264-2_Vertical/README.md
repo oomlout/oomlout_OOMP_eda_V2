@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-TO-264-2_Vertical
 - Hex ID: FZKSOTTO2642F
 - Name: Package_TO_SOT_THT : TO-264-2_Vertical
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_THT/TO-264-2_Vertical/
 - Description: Package_TO_SOT_THT : TO-264-2_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-TO-264-2_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-TO-264-2_Vertical)
 - Short Link: [http://oom.lt/FZKSOTTO2642F](http://oom.lt/FZKSOTTO2642F)

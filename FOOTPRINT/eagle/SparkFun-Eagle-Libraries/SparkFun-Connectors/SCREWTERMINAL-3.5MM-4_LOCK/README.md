@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZSSPARKFUNCNSSCREWTERMINAL354L > SparkFun-Connectors : SCREWTERMINAL-3.5MM-4_LOCK](#fzssparkfuncnsscrewterminal354l--sparkfun-connectors--screwterminal-35mm-4_lock)
+* [FZSSPARKFUNCNSSCT354L > SparkFun-Connectors : SCREWTERMINAL-3.5MM-4_LOCK](#fzssparkfuncnssct354l--sparkfun-connectors--screwterminal-35mm-4_lock)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZSSPARKFUNCNSSCREWTERMINAL354L > SparkFun-Connectors : SCREWTERMINAL-3.5MM-4_LOCK
+# FZSSPARKFUNCNSSCT354L > SparkFun-Connectors : SCREWTERMINAL-3.5MM-4_LOCK
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-SCREWTERMINAL-3.5MM-4_LOCK
-- Hex ID: FZSSPARKFUNCNSSCREWTERMINAL354L
+- Hex ID: FZSSPARKFUNCNSSCT354L
 - Name: SparkFun-Connectors : SCREWTERMINAL-3.5MM-4_LOCK
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Connectors/SCREWTERMINAL-3.5MM-4_LOCK/
 - Description: SparkFun-Connectors : SCREWTERMINAL-3.5MM-4_LOCK
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-SCREWTERMINAL-3.5MM-4_LOCK](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-SCREWTERMINAL-3.5MM-4_LOCK)
-- Short Link: [http://oom.lt/FZSSPARKFUNCNSSCREWTERMINAL354L](http://oom.lt/FZSSPARKFUNCNSSCREWTERMINAL354L)
+- Short Link: [http://oom.lt/FZSSPARKFUNCNSSCT354L](http://oom.lt/FZSSPARKFUNCNSSCT354L)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|SparkFun-Connectors|
 |OOMP Index|oompIndex|SCREWTERMINAL-3.5MM-4_LOCK|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-SCREWTERMINAL-3.5MM-4_LOCK|
-|Hex ID (short code)|hexID|FZSSPARKFUNCNSSCREWTERMINAL354L|
+|Hex ID (short code)|hexID|FZSSPARKFUNCNSSCT354L|
 |name|name|SparkFun-Connectors : SCREWTERMINAL-3.5MM-4_LOCK|
 ||||

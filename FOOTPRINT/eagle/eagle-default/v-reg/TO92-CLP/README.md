@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-v-reg-TO92-CLP
 - Hex ID: FZEVREGTO92CLP
 - Name: v-reg : TO92-CLP
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/v-reg/TO92-CLP/
 - Description: v-reg : TO92-CLP
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-v-reg-TO92-CLP](http://oom.lt/FOOTPRINT-eagle-eagle-default-v-reg-TO92-CLP)
 - Short Link: [http://oom.lt/FZEVREGTO92CLP](http://oom.lt/FZEVREGTO92CLP)

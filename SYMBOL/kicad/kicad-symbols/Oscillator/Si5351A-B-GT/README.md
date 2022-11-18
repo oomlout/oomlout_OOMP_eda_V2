@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Oscillator-Si5351A-B-GT
 - Hex ID: SZKOCSSI5351ABGT
 - Name: Oscillator : Si5351A-B-GT
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Oscillator/Si5351A-B-GT/
 - Description: Oscillator : Si5351A-B-GT
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Oscillator-Si5351A-B-GT](http://oom.lt/SYMBOL-kicad-kicad-symbols-Oscillator-Si5351A-B-GT)
 - Short Link: [http://oom.lt/SZKOCSSI5351ABGT](http://oom.lt/SZKOCSSI5351ABGT)

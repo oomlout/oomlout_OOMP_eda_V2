@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Neosid_Air-Coil_SML_1turn_HDM0131A
 - Hex ID: FZKINLNEOSIDAIRCOILSML1TURNHDM131A
 - Name: Inductor_SMD : L_Neosid_Air-Coil_SML_1turn_HDM0131A
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Neosid_Air-Coil_SML_1turn_HDM0131A/
 - Description: Inductor_SMD : L_Neosid_Air-Coil_SML_1turn_HDM0131A
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Neosid_Air-Coil_SML_1turn_HDM0131A](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Neosid_Air-Coil_SML_1turn_HDM0131A)
 - Short Link: [http://oom.lt/FZKINLNEOSIDAIRCOILSML1TURNHDM131A](http://oom.lt/FZKINLNEOSIDAIRCOILSML1TURNHDM131A)

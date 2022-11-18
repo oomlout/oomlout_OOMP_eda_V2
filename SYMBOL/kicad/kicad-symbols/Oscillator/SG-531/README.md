@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Oscillator-SG-531
 - Hex ID: SZKOCSSG531
 - Name: Oscillator : SG-531
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Oscillator/SG-531/
 - Description: Oscillator : SG-531
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Oscillator-SG-531](http://oom.lt/SYMBOL-kicad-kicad-symbols-Oscillator-SG-531)
 - Short Link: [http://oom.lt/SZKOCSSG531](http://oom.lt/SZKOCSSG531)

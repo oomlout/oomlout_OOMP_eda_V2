@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-BZV55C22
 - Hex ID: SZKDIODEBZV55C22
 - Name: Diode : BZV55C22
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/BZV55C22/
 - Description: Diode : BZV55C22
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-BZV55C22](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-BZV55C22)
 - Short Link: [http://oom.lt/SZKDIODEBZV55C22](http://oom.lt/SZKDIODEBZV55C22)

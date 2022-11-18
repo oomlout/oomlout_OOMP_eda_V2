@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEREFPACKAGESPGA168 > ref-packages : PGA168](#fzerefpackagespga168--ref-packages--pga168)
+* [FZEREFPSPGA168 > ref-packages : PGA168](#fzerefpspga168--ref-packages--pga168)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEREFPACKAGESPGA168 > ref-packages : PGA168
+# FZEREFPSPGA168 > ref-packages : PGA168
 
 - ID: FOOTPRINT-eagle-eagle-default-ref-packages-PGA168
-- Hex ID: FZEREFPACKAGESPGA168
+- Hex ID: FZEREFPSPGA168
 - Name: ref-packages : PGA168
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ref-packages/PGA168/
 - Description: ref-packages : PGA168
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-PGA168](http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-PGA168)
-- Short Link: [http://oom.lt/FZEREFPACKAGESPGA168](http://oom.lt/FZEREFPACKAGESPGA168)
+- Short Link: [http://oom.lt/FZEREFPSPGA168](http://oom.lt/FZEREFPSPGA168)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|ref-packages|
 |OOMP Index|oompIndex|PGA168|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-ref-packages-PGA168|
-|Hex ID (short code)|hexID|FZEREFPACKAGESPGA168|
+|Hex ID (short code)|hexID|FZEREFPSPGA168|
 |name|name|ref-packages : PGA168|
 ||||

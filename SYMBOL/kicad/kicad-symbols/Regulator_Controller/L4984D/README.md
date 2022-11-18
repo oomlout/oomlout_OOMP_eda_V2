@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Controller-L4984D
 - Hex ID: SZKREGULATORCONTROLLERL4984D
 - Name: Regulator_Controller : L4984D
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Controller/L4984D/
 - Description: Regulator_Controller : L4984D
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Controller-L4984D](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Controller-L4984D)
 - Short Link: [http://oom.lt/SZKREGULATORCONTROLLERL4984D](http://oom.lt/SZKREGULATORCONTROLLERL4984D)

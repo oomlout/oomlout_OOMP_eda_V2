@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZECYPRESSSOIC28EPAD > cypress : SOIC28-EPAD](#fzecypresssoic28epad--cypress--soic28-epad)
+* [FZECYPRESSSOIC28EP > cypress : SOIC28-EPAD](#fzecypresssoic28ep--cypress--soic28-epad)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZECYPRESSSOIC28EPAD > cypress : SOIC28-EPAD
+# FZECYPRESSSOIC28EP > cypress : SOIC28-EPAD
 
 - ID: FOOTPRINT-eagle-eagle-default-cypress-SOIC28-EPAD
-- Hex ID: FZECYPRESSSOIC28EPAD
+- Hex ID: FZECYPRESSSOIC28EP
 - Name: cypress : SOIC28-EPAD
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/cypress/SOIC28-EPAD/
 - Description: cypress : SOIC28-EPAD
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-cypress-SOIC28-EPAD](http://oom.lt/FOOTPRINT-eagle-eagle-default-cypress-SOIC28-EPAD)
-- Short Link: [http://oom.lt/FZECYPRESSSOIC28EPAD](http://oom.lt/FZECYPRESSSOIC28EPAD)
+- Short Link: [http://oom.lt/FZECYPRESSSOIC28EP](http://oom.lt/FZECYPRESSSOIC28EP)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|cypress|
 |OOMP Index|oompIndex|SOIC28-EPAD|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-cypress-SOIC28-EPAD|
-|Hex ID (short code)|hexID|FZECYPRESSSOIC28EPAD|
+|Hex ID (short code)|hexID|FZECYPRESSSOIC28EP|
 |name|name|cypress : SOIC28-EPAD|
 ||||

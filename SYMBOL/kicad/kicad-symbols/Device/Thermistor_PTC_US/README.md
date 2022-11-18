@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Device-Thermistor_PTC_US
 - Hex ID: SZKDEVICETHERMISTORPTCUS
 - Name: Device : Thermistor_PTC_US
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/Thermistor_PTC_US/
 - Description: Device : Thermistor_PTC_US
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Thermistor_PTC_US](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Thermistor_PTC_US)
 - Short Link: [http://oom.lt/SZKDEVICETHERMISTORPTCUS](http://oom.lt/SZKDEVICETHERMISTORPTCUS)

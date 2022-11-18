@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEREFPACKAGESRAD25 > ref-packages : RAD2,5](#fzerefpackagesrad25--ref-packages--rad25)
+* [FZEREFPSRAD25 > ref-packages : RAD2,5](#fzerefpsrad25--ref-packages--rad25)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEREFPACKAGESRAD25 > ref-packages : RAD2,5
+# FZEREFPSRAD25 > ref-packages : RAD2,5
 
 - ID: FOOTPRINT-eagle-eagle-default-ref-packages-RAD2,5
-- Hex ID: FZEREFPACKAGESRAD25
+- Hex ID: FZEREFPSRAD25
 - Name: ref-packages : RAD2,5
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ref-packages/RAD2,5/
 - Description: ref-packages : RAD2,5
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-RAD2,5](http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-RAD2,5)
-- Short Link: [http://oom.lt/FZEREFPACKAGESRAD25](http://oom.lt/FZEREFPACKAGESRAD25)
+- Short Link: [http://oom.lt/FZEREFPSRAD25](http://oom.lt/FZEREFPSRAD25)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|ref-packages|
 |OOMP Index|oompIndex|RAD2,5|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-ref-packages-RAD2,5|
-|Hex ID (short code)|hexID|FZEREFPACKAGESRAD25|
+|Hex ID (short code)|hexID|FZEREFPSRAD25|
 |name|name|ref-packages : RAD2,5|
 ||||

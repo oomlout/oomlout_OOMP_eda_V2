@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-subd-F09H
 - Hex ID: FZECONSUBDF9H
 - Name: con-subd : F09H
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-subd/F09H/
 - Description: con-subd : F09H
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-subd-F09H](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-subd-F09H)
 - Short Link: [http://oom.lt/FZECONSUBDF9H](http://oom.lt/FZECONSUBDF9H)

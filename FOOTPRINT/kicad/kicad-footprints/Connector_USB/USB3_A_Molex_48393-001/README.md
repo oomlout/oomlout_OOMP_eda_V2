@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB3_A_Molex_48393-001
 - Hex ID: FZKCNUU3AMX483931
 - Name: Connector_USB : USB3_A_Molex_48393-001
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB3_A_Molex_48393-001/
 - Description: Connector_USB : USB3_A_Molex_48393-001
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB3_A_Molex_48393-001](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB3_A_Molex_48393-001)
 - Short Link: [http://oom.lt/FZKCNUU3AMX483931](http://oom.lt/FZKCNUU3AMX483931)

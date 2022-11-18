@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-amp-mt-L12P
 - Hex ID: FZECONAMPMTL12P
 - Name: con-amp-mt : L12P
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-amp-mt/L12P/
 - Description: con-amp-mt : L12P
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-amp-mt-L12P](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-amp-mt-L12P)
 - Short Link: [http://oom.lt/FZECONAMPMTL12P](http://oom.lt/FZECONAMPMTL12P)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-CVFD20065A
 - Hex ID: SZKDIODECVFD265A
 - Name: Diode : CVFD20065A
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/CVFD20065A/
 - Description: Diode : CVFD20065A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-CVFD20065A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-CVFD20065A)
 - Short Link: [http://oom.lt/SZKDIODECVFD265A](http://oom.lt/SZKDIODECVFD265A)

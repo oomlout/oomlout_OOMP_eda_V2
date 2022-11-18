@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Driver_FET-IRS2008S
 - Hex ID: SZKDRIVERFETIRS28S
 - Name: Driver_FET : IRS2008S
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Driver_FET/IRS2008S/
 - Description: Driver_FET : IRS2008S
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-IRS2008S](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-IRS2008S)
 - Short Link: [http://oom.lt/SZKDRIVERFETIRS28S](http://oom.lt/SZKDRIVERFETIRS28S)

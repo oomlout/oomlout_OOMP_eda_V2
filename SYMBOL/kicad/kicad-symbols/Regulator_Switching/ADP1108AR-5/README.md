@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-ADP1108AR-5
 - Hex ID: SZKREGULATORSWINGADP118AR5
 - Name: Regulator_Switching : ADP1108AR-5
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/ADP1108AR-5/
 - Description: Regulator_Switching : ADP1108AR-5
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-ADP1108AR-5](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-ADP1108AR-5)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGADP118AR5](http://oom.lt/SZKREGULATORSWINGADP118AR5)

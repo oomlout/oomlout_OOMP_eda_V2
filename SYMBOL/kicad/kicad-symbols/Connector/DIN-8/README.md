@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Connector-DIN-8
 - Hex ID: SZKCNDIN8
 - Name: Connector : DIN-8
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector/DIN-8/
 - Description: Connector : DIN-8
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-DIN-8](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-DIN-8)
 - Short Link: [http://oom.lt/SZKCNDIN8](http://oom.lt/SZKCNDIN8)

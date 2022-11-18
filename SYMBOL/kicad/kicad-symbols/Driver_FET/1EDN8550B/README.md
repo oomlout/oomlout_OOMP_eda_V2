@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Driver_FET-1EDN8550B
 - Hex ID: SZKDRIVERFET1EDN855B
 - Name: Driver_FET : 1EDN8550B
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Driver_FET/1EDN8550B/
 - Description: Driver_FET : 1EDN8550B
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-1EDN8550B](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-1EDN8550B)
 - Short Link: [http://oom.lt/SZKDRIVERFET1EDN855B](http://oom.lt/SZKDRIVERFET1EDN855B)

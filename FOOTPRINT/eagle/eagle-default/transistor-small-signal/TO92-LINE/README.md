@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-transistor-small-signal-TO92-LINE
 - Hex ID: FZETRANSISTORSLLSIGNALTO92LINE
 - Name: transistor-small-signal : TO92-LINE
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/transistor-small-signal/TO92-LINE/
 - Description: transistor-small-signal : TO92-LINE
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-small-signal-TO92-LINE](http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-small-signal-TO92-LINE)
 - Short Link: [http://oom.lt/FZETRANSISTORSLLSIGNALTO92LINE](http://oom.lt/FZETRANSISTORSLLSIGNALTO92LINE)

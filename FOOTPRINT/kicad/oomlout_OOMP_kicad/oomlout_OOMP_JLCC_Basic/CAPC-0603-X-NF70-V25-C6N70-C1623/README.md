@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0603-X-NF70-V25-C6N70-C1623
 - Hex ID: FZOOMPKJLCCAPC63XNF7V25C6N7C1623
 - Name: oomlout_OOMP_JLCC_Basic : CAPC-0603-X-NF70-V25-C6N70-C1623
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_JLCC_Basic/CAPC-0603-X-NF70-V25-C6N70-C1623/
 - Description: oomlout_OOMP_JLCC_Basic : CAPC-0603-X-NF70-V25-C6N70-C1623
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0603-X-NF70-V25-C6N70-C1623](http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0603-X-NF70-V25-C6N70-C1623)
 - Short Link: [http://oom.lt/FZOOMPKJLCCAPC63XNF7V25C6N7C1623](http://oom.lt/FZOOMPKJLCCAPC63XNF7V25C6N7C1623)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-BAT54J
 - Hex ID: SZKDIODEBAT54J
 - Name: Diode : BAT54J
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/BAT54J/
 - Description: Diode : BAT54J
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-BAT54J](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-BAT54J)
 - Short Link: [http://oom.lt/SZKDIODEBAT54J](http://oom.lt/SZKDIODEBAT54J)

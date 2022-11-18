@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-stocko-MKS1863-6-0-1313
 - Hex ID: FZECONSTOCKOMKS186361313
 - Name: con-stocko : MKS1863-6-0-1313
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-stocko/MKS1863-6-0-1313/
 - Description: con-stocko : MKS1863-6-0-1313
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-stocko-MKS1863-6-0-1313](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-stocko-MKS1863-6-0-1313)
 - Short Link: [http://oom.lt/FZECONSTOCKOMKS186361313](http://oom.lt/FZECONSTOCKOMKS186361313)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-TO-252-2
 - Hex ID: FZKSOTTO2522
 - Name: Package_TO_SOT_SMD : TO-252-2
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/TO-252-2/
 - Description: Package_TO_SOT_SMD : TO-252-2
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-TO-252-2](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-TO-252-2)
 - Short Link: [http://oom.lt/FZKSOTTO2522](http://oom.lt/FZKSOTTO2522)

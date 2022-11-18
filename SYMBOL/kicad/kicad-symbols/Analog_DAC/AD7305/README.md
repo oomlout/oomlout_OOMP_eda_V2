@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Analog_DAC-AD7305
 - Hex ID: SZKANALOGDACAD735
 - Name: Analog_DAC : AD7305
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog_DAC/AD7305/
 - Description: Analog_DAC : AD7305
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_DAC-AD7305](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_DAC-AD7305)
 - Short Link: [http://oom.lt/SZKANALOGDACAD735](http://oom.lt/SZKANALOGDACAD735)

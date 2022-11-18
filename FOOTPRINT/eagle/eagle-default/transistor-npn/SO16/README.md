@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-transistor-npn-SO16
 - Hex ID: FZETRANSISTORNPNSO16
 - Name: transistor-npn : SO16
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/transistor-npn/SO16/
 - Description: transistor-npn : SO16
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-npn-SO16](http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-npn-SO16)
 - Short Link: [http://oom.lt/FZETRANSISTORNPNSO16](http://oom.lt/FZETRANSISTORNPNSO16)

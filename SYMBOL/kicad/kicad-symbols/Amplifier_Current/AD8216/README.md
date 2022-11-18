@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Current-AD8216
 - Hex ID: SZKAMPLIFIERCURRENTAD8216
 - Name: Amplifier_Current : AD8216
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Current/AD8216/
 - Description: Amplifier_Current : AD8216
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Current-AD8216](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Current-AD8216)
 - Short Link: [http://oom.lt/SZKAMPLIFIERCURRENTAD8216](http://oom.lt/SZKAMPLIFIERCURRENTAD8216)

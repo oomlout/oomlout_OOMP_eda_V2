@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-SMF45A
 - Hex ID: SZKDIODESMF45A
 - Name: Diode : SMF45A
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/SMF45A/
 - Description: Diode : SMF45A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-SMF45A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-SMF45A)
 - Short Link: [http://oom.lt/SZKDIODESMF45A](http://oom.lt/SZKDIODESMF45A)

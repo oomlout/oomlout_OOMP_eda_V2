@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-RESE-0402-X-O702-01-R4O702-C25900
 - Hex ID: SZOOMPKJLCRESE42XO721R4O72C259
 - Name: oomlout_OOMP_JLCC_Basic : RESE-0402-X-O702-01-R4O702-C25900
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_JLCC_Basic/RESE-0402-X-O702-01-R4O702-C25900/
 - Description: oomlout_OOMP_JLCC_Basic : RESE-0402-X-O702-01-R4O702-C25900
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-RESE-0402-X-O702-01-R4O702-C25900](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-RESE-0402-X-O702-01-R4O702-C25900)
 - Short Link: [http://oom.lt/SZOOMPKJLCRESE42XO721R4O72C259](http://oom.lt/SZOOMPKJLCRESE42XO721R4O72C259)

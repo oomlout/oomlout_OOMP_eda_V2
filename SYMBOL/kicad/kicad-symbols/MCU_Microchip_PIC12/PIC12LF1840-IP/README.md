@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC12-PIC12LF1840-IP
 - Hex ID: SZKMCUMCHIPPIC12PIC12LF184IP
 - Name: MCU_Microchip_PIC12 : PIC12LF1840-IP
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC12/PIC12LF1840-IP/
 - Description: MCU_Microchip_PIC12 : PIC12LF1840-IP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC12-PIC12LF1840-IP](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC12-PIC12LF1840-IP)
 - Short Link: [http://oom.lt/SZKMCUMCHIPPIC12PIC12LF184IP](http://oom.lt/SZKMCUMCHIPPIC12PIC12LF184IP)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-OptoDevice-Sharp_IS471F
 - Hex ID: FZKOPSHARPIS471F
 - Name: OptoDevice : Sharp_IS471F
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/OptoDevice/Sharp_IS471F/
 - Description: OptoDevice : Sharp_IS471F
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-OptoDevice-Sharp_IS471F](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-OptoDevice-Sharp_IS471F)
 - Short Link: [http://oom.lt/FZKOPSHARPIS471F](http://oom.lt/FZKOPSHARPIS471F)

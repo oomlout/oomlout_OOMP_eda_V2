@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-jumper-04C
 - Hex ID: FZEJ4C
 - Name: jumper : 04C
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/jumper/04C/
 - Description: jumper : 04C
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-jumper-04C](http://oom.lt/FOOTPRINT-eagle-eagle-default-jumper-04C)
 - Short Link: [http://oom.lt/FZEJ4C](http://oom.lt/FZEJ4C)

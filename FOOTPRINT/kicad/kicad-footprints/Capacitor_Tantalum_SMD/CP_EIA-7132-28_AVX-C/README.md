@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Capacitor_Tantalum_SMD-CP_EIA-7132-28_AVX-C
 - Hex ID: FZKCCPEIA713228AVXC
 - Name: Capacitor_Tantalum_SMD : CP_EIA-7132-28_AVX-C
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Capacitor_Tantalum_SMD/CP_EIA-7132-28_AVX-C/
 - Description: Capacitor_Tantalum_SMD : CP_EIA-7132-28_AVX-C
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_Tantalum_SMD-CP_EIA-7132-28_AVX-C](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_Tantalum_SMD-CP_EIA-7132-28_AVX-C)
 - Short Link: [http://oom.lt/FZKCCPEIA713228AVXC](http://oom.lt/FZKCCPEIA713228AVXC)

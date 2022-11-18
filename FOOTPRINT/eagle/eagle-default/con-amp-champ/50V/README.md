@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-amp-champ-50V
 - Hex ID: FZECONAMPCHAMP5V
 - Name: con-amp-champ : 50V
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-amp-champ/50V/
 - Description: con-amp-champ : 50V
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-amp-champ-50V](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-amp-champ-50V)
 - Short Link: [http://oom.lt/FZECONAMPCHAMP5V](http://oom.lt/FZECONAMPCHAMP5V)

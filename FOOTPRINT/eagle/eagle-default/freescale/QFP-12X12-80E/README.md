@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-freescale-QFP-12X12-80E
 - Hex ID: FZEFREESCALEQFP12X128E
 - Name: freescale : QFP-12X12-80E
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/freescale/QFP-12X12-80E/
 - Description: freescale : QFP-12X12-80E
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-freescale-QFP-12X12-80E](http://oom.lt/FOOTPRINT-eagle-eagle-default-freescale-QFP-12X12-80E)
 - Short Link: [http://oom.lt/FZEFREESCALEQFP12X128E](http://oom.lt/FZEFREESCALEQFP12X128E)

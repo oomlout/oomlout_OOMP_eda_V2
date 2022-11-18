@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Power_Protection-TPD8F003
 - Hex ID: SZKPOWERPROTECTIONTPD8F3
 - Name: Power_Protection : TPD8F003
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Power_Protection/TPD8F003/
 - Description: Power_Protection : TPD8F003
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Protection-TPD8F003](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Protection-TPD8F003)
 - Short Link: [http://oom.lt/SZKPOWERPROTECTIONTPD8F3](http://oom.lt/SZKPOWERPROTECTIONTPD8F3)

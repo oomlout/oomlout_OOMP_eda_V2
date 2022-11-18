@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Capacitors-0402_NO_CREAM
 - Hex ID: FZSC42NC
 - Name: SparkFun-Capacitors : 0402_NO_CREAM
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Capacitors/0402_NO_CREAM/
 - Description: SparkFun-Capacitors : 0402_NO_CREAM
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Capacitors-0402_NO_CREAM](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Capacitors-0402_NO_CREAM)
 - Short Link: [http://oom.lt/FZSC42NC](http://oom.lt/FZSC42NC)

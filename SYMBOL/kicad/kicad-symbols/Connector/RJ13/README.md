@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Connector-RJ13
 - Hex ID: SZKCNRJ13
 - Name: Connector : RJ13
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector/RJ13/
 - Description: Connector : RJ13
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-RJ13](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-RJ13)
 - Short Link: [http://oom.lt/SZKCNRJ13](http://oom.lt/SZKCNRJ13)

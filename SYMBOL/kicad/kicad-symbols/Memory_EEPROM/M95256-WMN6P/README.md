@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Memory_EEPROM-M95256-WMN6P
 - Hex ID: SZKMEMORYEEPROMM95256WMN6P
 - Name: Memory_EEPROM : M95256-WMN6P
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Memory_EEPROM/M95256-WMN6P/
 - Description: Memory_EEPROM : M95256-WMN6P
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_EEPROM-M95256-WMN6P](http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_EEPROM-M95256-WMN6P)
 - Short Link: [http://oom.lt/SZKMEMORYEEPROMM95256WMN6P](http://oom.lt/SZKMEMORYEEPROMM95256WMN6P)

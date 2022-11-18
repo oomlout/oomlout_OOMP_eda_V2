@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-transistor-fet-SSOT6
 - Hex ID: FZETRANSISTORFETSSOT6
 - Name: transistor-fet : SSOT6
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/transistor-fet/SSOT6/
 - Description: transistor-fet : SSOT6
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-fet-SSOT6](http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-fet-SSOT6)
 - Short Link: [http://oom.lt/FZETRANSISTORFETSSOT6](http://oom.lt/FZETRANSISTORFETSSOT6)

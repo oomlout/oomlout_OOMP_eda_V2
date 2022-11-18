@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-v-reg-micrel-MSOP08
 - Hex ID: FZEVREGMICRELMS8
 - Name: v-reg-micrel : MSOP08
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/v-reg-micrel/MSOP08/
 - Description: v-reg-micrel : MSOP08
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-v-reg-micrel-MSOP08](http://oom.lt/FOOTPRINT-eagle-eagle-default-v-reg-micrel-MSOP08)
 - Short Link: [http://oom.lt/FZEVREGMICRELMS8](http://oom.lt/FZEVREGMICRELMS8)

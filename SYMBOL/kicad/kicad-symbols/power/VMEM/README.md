@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-power-VMEM
 - Hex ID: SZKPOWERVMEM
 - Name: power : VMEM
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/power/VMEM/
 - Description: power : VMEM
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-power-VMEM](http://oom.lt/SYMBOL-kicad-kicad-symbols-power-VMEM)
 - Short Link: [http://oom.lt/SZKPOWERVMEM](http://oom.lt/SZKPOWERVMEM)

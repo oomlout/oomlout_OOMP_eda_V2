@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_THT-Choke_Schaffner_RN114-04-22.5x21.5mm
 - Hex ID: FZKINCHOKESCHAFFNERRN1144225X215
 - Name: Inductor_THT : Choke_Schaffner_RN114-04-22.5x21.5mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/Choke_Schaffner_RN114-04-22.5x21.5mm/
 - Description: Inductor_THT : Choke_Schaffner_RN114-04-22.5x21.5mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_THT-Choke_Schaffner_RN114-04-22.5x21.5mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_THT-Choke_Schaffner_RN114-04-22.5x21.5mm)
 - Short Link: [http://oom.lt/FZKINCHOKESCHAFFNERRN1144225X215](http://oom.lt/FZKINCHOKESCHAFFNERRN1144225X215)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-OptoDevice-R_LDR_10x8.5mm_P7.6mm_Vertical
 - Hex ID: FZKOPRLDR1X85P76F
 - Name: OptoDevice : R_LDR_10x8.5mm_P7.6mm_Vertical
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/OptoDevice/R_LDR_10x8.5mm_P7.6mm_Vertical/
 - Description: OptoDevice : R_LDR_10x8.5mm_P7.6mm_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-OptoDevice-R_LDR_10x8.5mm_P7.6mm_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-OptoDevice-R_LDR_10x8.5mm_P7.6mm_Vertical)
 - Short Link: [http://oom.lt/FZKOPRLDR1X85P76F](http://oom.lt/FZKOPRLDR1X85P76F)

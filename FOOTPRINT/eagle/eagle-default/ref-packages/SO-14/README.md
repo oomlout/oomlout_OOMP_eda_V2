@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEREFPACKAGESSO14 > ref-packages : SO-14](#fzerefpackagesso14--ref-packages--so-14)
+* [FZEREFPSSO14 > ref-packages : SO-14](#fzerefpsso14--ref-packages--so-14)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEREFPACKAGESSO14 > ref-packages : SO-14
+# FZEREFPSSO14 > ref-packages : SO-14
 
 - ID: FOOTPRINT-eagle-eagle-default-ref-packages-SO-14
-- Hex ID: FZEREFPACKAGESSO14
+- Hex ID: FZEREFPSSO14
 - Name: ref-packages : SO-14
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ref-packages/SO-14/
 - Description: ref-packages : SO-14
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-SO-14](http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-SO-14)
-- Short Link: [http://oom.lt/FZEREFPACKAGESSO14](http://oom.lt/FZEREFPACKAGESSO14)
+- Short Link: [http://oom.lt/FZEREFPSSO14](http://oom.lt/FZEREFPSSO14)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|ref-packages|
 |OOMP Index|oompIndex|SO-14|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-ref-packages-SO-14|
-|Hex ID (short code)|hexID|FZEREFPACKAGESSO14|
+|Hex ID (short code)|hexID|FZEREFPSSO14|
 |name|name|ref-packages : SO-14|
 ||||

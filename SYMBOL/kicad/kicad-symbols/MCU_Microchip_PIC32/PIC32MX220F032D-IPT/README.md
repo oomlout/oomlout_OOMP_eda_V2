@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [SZKMCUMCHIPPIC32PIC32MX22F32DIPT > MCU_Microchip_PIC32 : PIC32MX220F032D-IPT](#szkmcumchippic32pic32mx22f32dipt--mcu_microchip_pic32--pic32mx220f032d-ipt)
+* [SZKMCUMCHIPPIC32PIC32MX22F32DT > MCU_Microchip_PIC32 : PIC32MX220F032D-IPT](#szkmcumchippic32pic32mx22f32dt--mcu_microchip_pic32--pic32mx220f032d-ipt)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# SZKMCUMCHIPPIC32PIC32MX22F32DIPT > MCU_Microchip_PIC32 : PIC32MX220F032D-IPT
+# SZKMCUMCHIPPIC32PIC32MX22F32DT > MCU_Microchip_PIC32 : PIC32MX220F032D-IPT
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC32-PIC32MX220F032D-IPT
-- Hex ID: SZKMCUMCHIPPIC32PIC32MX22F32DIPT
+- Hex ID: SZKMCUMCHIPPIC32PIC32MX22F32DT
 - Name: MCU_Microchip_PIC32 : PIC32MX220F032D-IPT
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC32/PIC32MX220F032D-IPT/
 - Description: MCU_Microchip_PIC32 : PIC32MX220F032D-IPT
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC32-PIC32MX220F032D-IPT](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC32-PIC32MX220F032D-IPT)
-- Short Link: [http://oom.lt/SZKMCUMCHIPPIC32PIC32MX22F32DIPT](http://oom.lt/SZKMCUMCHIPPIC32PIC32MX22F32DIPT)
+- Short Link: [http://oom.lt/SZKMCUMCHIPPIC32PIC32MX22F32DT](http://oom.lt/SZKMCUMCHIPPIC32PIC32MX22F32DT)
 
 ## Images
   
@@ -36,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|MCU_Microchip_PIC32|
 |OOMP Index|oompIndex|PIC32MX220F032D-IPT|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC32-PIC32MX220F032D-IPT|
-|Hex ID (short code)|hexID|SZKMCUMCHIPPIC32PIC32MX22F32DIPT|
+|Hex ID (short code)|hexID|SZKMCUMCHIPPIC32PIC32MX22F32DT|
 |name|name|MCU_Microchip_PIC32 : PIC32MX220F032D-IPT|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'PIC32MX210F016D-IPT'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'PIC32MX220F032D-IPT'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_QFP</td></tr><tr><td>TQFP-44_10x10mm_P0.8mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//ww1.microchip.com/downloads/en/DeviceDoc/60001168F.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Microchip PIC32 Microcontroller MIPS'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '32-bit Microcontrollers (32KB Flash and 8KB SRAM TQFP-44) with Audio and Graphics Interfaces</td><td> USB</td><td> and Advanced Analog'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TQFP*10x10mm*P0.8mm*'</td></tr></table>]|
 ||||

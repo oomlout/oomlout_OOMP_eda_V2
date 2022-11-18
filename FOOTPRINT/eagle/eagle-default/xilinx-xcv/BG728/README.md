@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-xilinx-xcv-BG728
 - Hex ID: FZEXILINXXCVBG728
 - Name: xilinx-xcv : BG728
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/xilinx-xcv/BG728/
 - Description: xilinx-xcv : BG728
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-xilinx-xcv-BG728](http://oom.lt/FOOTPRINT-eagle-eagle-default-xilinx-xcv-BG728)
 - Short Link: [http://oom.lt/FZEXILINXXCVBG728](http://oom.lt/FZEXILINXXCVBG728)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Potentiometer_THT-Potentiometer_Vishay_148E-149E_Dual_Horizontal
 - Hex ID: FZKPPOTVISHAY148E149EDUALH
 - Name: Potentiometer_THT : Potentiometer_Vishay_148E-149E_Dual_Horizontal
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Potentiometer_THT/Potentiometer_Vishay_148E-149E_Dual_Horizontal/
 - Description: Potentiometer_THT : Potentiometer_Vishay_148E-149E_Dual_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Potentiometer_THT-Potentiometer_Vishay_148E-149E_Dual_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Potentiometer_THT-Potentiometer_Vishay_148E-149E_Dual_Horizontal)
 - Short Link: [http://oom.lt/FZKPPOTVISHAY148E149EDUALH](http://oom.lt/FZKPPOTVISHAY148E149EDUALH)

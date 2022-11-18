@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-relay-NF4
 - Hex ID: FZERELAYNF4
 - Name: relay : NF4
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/relay/NF4/
 - Description: relay : NF4
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-NF4](http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-NF4)
 - Short Link: [http://oom.lt/FZERELAYNF4](http://oom.lt/FZERELAYNF4)

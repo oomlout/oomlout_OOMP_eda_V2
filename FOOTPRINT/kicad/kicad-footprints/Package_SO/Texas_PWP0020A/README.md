@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_SO-Texas_PWP0020A
 - Hex ID: FZKSOTEXASPWP2A
 - Name: Package_SO : Texas_PWP0020A
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SO/Texas_PWP0020A/
 - Description: Package_SO : Texas_PWP0020A
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SO-Texas_PWP0020A](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SO-Texas_PWP0020A)
 - Short Link: [http://oom.lt/FZKSOTEXASPWP2A](http://oom.lt/FZKSOTEXASPWP2A)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0603-X-PF70-V50-C6P70
 - Hex ID: FZOOMPKOOMPPCAPC63XPF7V5C6P7
 - Name: oomlout_OOMP_parts : CAPC-0603-X-PF70-V50-C6P70
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/CAPC-0603-X-PF70-V50-C6P70/
 - Description: oomlout_OOMP_parts : CAPC-0603-X-PF70-V50-C6P70
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0603-X-PF70-V50-C6P70](http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0603-X-PF70-V50-C6P70)
 - Short Link: [http://oom.lt/FZOOMPKOOMPPCAPC63XPF7V5C6P7](http://oom.lt/FZOOMPKOOMPPCAPC63XPF7V5C6P7)

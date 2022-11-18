@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Converter_DCDC-IA4824D
 - Hex ID: SZKCONIA4824D
 - Name: Converter_DCDC : IA4824D
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Converter_DCDC/IA4824D/
 - Description: Converter_DCDC : IA4824D
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-IA4824D](http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-IA4824D)
 - Short Link: [http://oom.lt/SZKCONIA4824D](http://oom.lt/SZKCONIA4824D)

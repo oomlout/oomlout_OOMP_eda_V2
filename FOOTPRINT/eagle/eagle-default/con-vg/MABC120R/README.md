@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-vg-MABC120R
 - Hex ID: FZECONVGMABC12R
 - Name: con-vg : MABC120R
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-vg/MABC120R/
 - Description: con-vg : MABC120R
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-vg-MABC120R](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-vg-MABC120R)
 - Short Link: [http://oom.lt/FZECONVGMABC12R](http://oom.lt/FZECONVGMABC12R)

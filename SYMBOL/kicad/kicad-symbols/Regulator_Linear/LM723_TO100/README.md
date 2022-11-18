@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-LM723_TO100
 - Hex ID: SZKREGULATORLINEARLM723TO1
 - Name: Regulator_Linear : LM723_TO100
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LM723_TO100/
 - Description: Regulator_Linear : LM723_TO100
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LM723_TO100](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LM723_TO100)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARLM723TO1](http://oom.lt/SZKREGULATORLINEARLM723TO1)

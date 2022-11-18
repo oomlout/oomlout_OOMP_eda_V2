@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Oscillator-KC2520Z
 - Hex ID: SZKOCSKC252Z
 - Name: Oscillator : KC2520Z
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Oscillator/KC2520Z/
 - Description: Oscillator : KC2520Z
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Oscillator-KC2520Z](http://oom.lt/SYMBOL-kicad-kicad-symbols-Oscillator-KC2520Z)
 - Short Link: [http://oom.lt/SZKOCSKC252Z](http://oom.lt/SZKOCSKC252Z)

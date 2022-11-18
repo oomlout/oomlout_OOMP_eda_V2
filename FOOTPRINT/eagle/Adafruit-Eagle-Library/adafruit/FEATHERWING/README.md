@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-FEATHERWING
 - Hex ID: FZAFW
 - Name: adafruit : FEATHERWING
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/FEATHERWING/
 - Description: adafruit : FEATHERWING
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-FEATHERWING](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-FEATHERWING)
 - Short Link: [http://oom.lt/FZAFW](http://oom.lt/FZAFW)

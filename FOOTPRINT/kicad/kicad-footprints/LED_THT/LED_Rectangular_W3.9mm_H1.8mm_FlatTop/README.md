@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-LED_THT-LED_Rectangular_W3.9mm_H1.8mm_FlatTop
 - Hex ID: FZKLLRW39H18FLATTOP
 - Name: LED_THT : LED_Rectangular_W3.9mm_H1.8mm_FlatTop
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/LED_THT/LED_Rectangular_W3.9mm_H1.8mm_FlatTop/
 - Description: LED_THT : LED_Rectangular_W3.9mm_H1.8mm_FlatTop
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-LED_THT-LED_Rectangular_W3.9mm_H1.8mm_FlatTop](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-LED_THT-LED_Rectangular_W3.9mm_H1.8mm_FlatTop)
 - Short Link: [http://oom.lt/FZKLLRW39H18FLATTOP](http://oom.lt/FZKLLRW39H18FLATTOP)

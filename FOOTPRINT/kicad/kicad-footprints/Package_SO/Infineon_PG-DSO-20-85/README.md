@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_SO-Infineon_PG-DSO-20-85
 - Hex ID: FZKSOINFINEONPGDSO285
 - Name: Package_SO : Infineon_PG-DSO-20-85
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SO/Infineon_PG-DSO-20-85/
 - Description: Package_SO : Infineon_PG-DSO-20-85
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SO-Infineon_PG-DSO-20-85](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SO-Infineon_PG-DSO-20-85)
 - Short Link: [http://oom.lt/FZKSOINFINEONPGDSO285](http://oom.lt/FZKSOINFINEONPGDSO285)

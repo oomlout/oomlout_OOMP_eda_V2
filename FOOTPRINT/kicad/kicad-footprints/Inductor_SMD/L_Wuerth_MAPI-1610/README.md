@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Wuerth_MAPI-1610
 - Hex ID: FZKINLWUERTHMAPI161
 - Name: Inductor_SMD : L_Wuerth_MAPI-1610
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Wuerth_MAPI-1610/
 - Description: Inductor_SMD : L_Wuerth_MAPI-1610
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Wuerth_MAPI-1610](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Wuerth_MAPI-1610)
 - Short Link: [http://oom.lt/FZKINLWUERTHMAPI161](http://oom.lt/FZKINLWUERTHMAPI161)

@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKHOLHOL5PADTOPBOTTOM > MountingHole : MountingHole_5mm_Pad_TopBottom](#fzkholhol5padtopbottom--mountinghole--mountinghole_5mm_pad_topbottom)
+* [FZKHOLHOL5PTOPB > MountingHole : MountingHole_5mm_Pad_TopBottom](#fzkholhol5ptopb--mountinghole--mountinghole_5mm_pad_topbottom)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKHOLHOL5PADTOPBOTTOM > MountingHole : MountingHole_5mm_Pad_TopBottom
+# FZKHOLHOL5PTOPB > MountingHole : MountingHole_5mm_Pad_TopBottom
 
 - ID: FOOTPRINT-kicad-kicad-footprints-MountingHole-MountingHole_5mm_Pad_TopBottom
-- Hex ID: FZKHOLHOL5PADTOPBOTTOM
+- Hex ID: FZKHOLHOL5PTOPB
 - Name: MountingHole : MountingHole_5mm_Pad_TopBottom
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/MountingHole/MountingHole_5mm_Pad_TopBottom/
 - Description: MountingHole : MountingHole_5mm_Pad_TopBottom
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-MountingHole-MountingHole_5mm_Pad_TopBottom](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-MountingHole-MountingHole_5mm_Pad_TopBottom)
-- Short Link: [http://oom.lt/FZKHOLHOL5PADTOPBOTTOM](http://oom.lt/FZKHOLHOL5PADTOPBOTTOM)
+- Short Link: [http://oom.lt/FZKHOLHOL5PTOPB](http://oom.lt/FZKHOLHOL5PTOPB)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|MountingHole|
 |OOMP Index|oompIndex|MountingHole_5mm_Pad_TopBottom|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-MountingHole-MountingHole_5mm_Pad_TopBottom|
-|Hex ID (short code)|hexID|FZKHOLHOL5PADTOPBOTTOM|
+|Hex ID (short code)|hexID|FZKHOLHOL5PTOPB|
 |name|name|MountingHole : MountingHole_5mm_Pad_TopBottom|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'MountingHole_5mm_Pad_TopBottom'</td><td> 'description'</td></tr><tr><td> 'Mounting Hole 5mm'</td><td> 'tags'</td></tr><tr><td> 'mounting hole 5mm'</td><td> 'attributeType'</td></tr><tr><td> None</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'connect'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||

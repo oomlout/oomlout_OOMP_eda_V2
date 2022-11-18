@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKBATBATPANASONICCR2477VCNFCIRCULARH > Battery : Battery_Panasonic_CR2477-VCN_Vertical_CircularHoles](#fzkbatbatpanasoniccr2477vcnfcircularh--battery--battery_panasonic_cr2477-vcn_vertical_circularholes)
+* [FZKBATBATPANCR2477VCNFCIRCULARH > Battery : Battery_Panasonic_CR2477-VCN_Vertical_CircularHoles](#fzkbatbatpancr2477vcnfcircularh--battery--battery_panasonic_cr2477-vcn_vertical_circularholes)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKBATBATPANASONICCR2477VCNFCIRCULARH > Battery : Battery_Panasonic_CR2477-VCN_Vertical_CircularHoles
+# FZKBATBATPANCR2477VCNFCIRCULARH > Battery : Battery_Panasonic_CR2477-VCN_Vertical_CircularHoles
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Battery-Battery_Panasonic_CR2477-VCN_Vertical_CircularHoles
-- Hex ID: FZKBATBATPANASONICCR2477VCNFCIRCULARH
+- Hex ID: FZKBATBATPANCR2477VCNFCIRCULARH
 - Name: Battery : Battery_Panasonic_CR2477-VCN_Vertical_CircularHoles
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Battery/Battery_Panasonic_CR2477-VCN_Vertical_CircularHoles/
 - Description: Battery : Battery_Panasonic_CR2477-VCN_Vertical_CircularHoles
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Battery-Battery_Panasonic_CR2477-VCN_Vertical_CircularHoles](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Battery-Battery_Panasonic_CR2477-VCN_Vertical_CircularHoles)
-- Short Link: [http://oom.lt/FZKBATBATPANASONICCR2477VCNFCIRCULARH](http://oom.lt/FZKBATBATPANASONICCR2477VCNFCIRCULARH)
+- Short Link: [http://oom.lt/FZKBATBATPANCR2477VCNFCIRCULARH](http://oom.lt/FZKBATBATPANCR2477VCNFCIRCULARH)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Battery|
 |OOMP Index|oompIndex|Battery_Panasonic_CR2477-VCN_Vertical_CircularHoles|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Battery-Battery_Panasonic_CR2477-VCN_Vertical_CircularHoles|
-|Hex ID (short code)|hexID|FZKBATBATPANASONICCR2477VCNFCIRCULARH|
+|Hex ID (short code)|hexID|FZKBATBATPANCR2477VCNFCIRCULARH|
 |name|name|Battery : Battery_Panasonic_CR2477-VCN_Vertical_CircularHoles|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Battery_Panasonic_CR2477-VCN_Vertical_CircularHoles'</td><td> 'description'</td></tr><tr><td> 'Panasonic CR-2477/VCN battery</td><td> https</td></tr><tr><td>//industrial.panasonic.com/cdbs/www-data/pdf2/AAA4000/AAA4000D502.PDF'</td><td> 'tags'</td></tr><tr><td> 'battery CR-2477 coin cell vertical'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Battery.3dshapes/Battery_Panasonic_CR2477-VCN_Vertical_CircularHoles.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

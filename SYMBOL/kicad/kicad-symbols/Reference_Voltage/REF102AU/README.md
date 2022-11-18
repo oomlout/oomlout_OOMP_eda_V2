@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Reference_Voltage-REF102AU
 - Hex ID: SZKREFERENCEVOLTAGEREF12AU
 - Name: Reference_Voltage : REF102AU
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Reference_Voltage/REF102AU/
 - Description: Reference_Voltage : REF102AU
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Voltage-REF102AU](http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Voltage-REF102AU)
 - Short Link: [http://oom.lt/SZKREFERENCEVOLTAGEREF12AU](http://oom.lt/SZKREFERENCEVOLTAGEREF12AU)

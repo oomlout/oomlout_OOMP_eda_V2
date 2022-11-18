@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC18-PIC18F26K22-xSO
 - Hex ID: SZKMCUMCHIPPIC18PIC18F26K22XSO
 - Name: MCU_Microchip_PIC18 : PIC18F26K22-xSO
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC18/PIC18F26K22-xSO/
 - Description: MCU_Microchip_PIC18 : PIC18F26K22-xSO
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC18-PIC18F26K22-xSO](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC18-PIC18F26K22-xSO)
 - Short Link: [http://oom.lt/SZKMCUMCHIPPIC18PIC18F26K22XSO](http://oom.lt/SZKMCUMCHIPPIC18PIC18F26K22XSO)

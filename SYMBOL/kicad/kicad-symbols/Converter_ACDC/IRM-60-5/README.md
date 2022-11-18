@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Converter_ACDC-IRM-60-5
 - Hex ID: SZKCONIRM65
 - Name: Converter_ACDC : IRM-60-5
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Converter_ACDC/IRM-60-5/
 - Description: Converter_ACDC : IRM-60-5
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_ACDC-IRM-60-5](http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_ACDC-IRM-60-5)
 - Short Link: [http://oom.lt/SZKCONIRM65](http://oom.lt/SZKCONIRM65)

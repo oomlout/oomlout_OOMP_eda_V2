@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SIM_Nano_5045200691
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSSIMNANO5452691
 - Name: digikey-footprints : SIM_Nano_5045200691
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/SIM_Nano_5045200691/
 - Description: digikey-footprints : SIM_Nano_5045200691
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SIM_Nano_5045200691](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SIM_Nano_5045200691)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSSIMNANO5452691](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSSIMNANO5452691)

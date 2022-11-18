@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Potentiometer_Digital-MAX5438
 - Hex ID: SZKPOTDIGITALMAX5438
 - Name: Potentiometer_Digital : MAX5438
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Potentiometer_Digital/MAX5438/
 - Description: Potentiometer_Digital : MAX5438
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Potentiometer_Digital-MAX5438](http://oom.lt/SYMBOL-kicad-kicad-symbols-Potentiometer_Digital-MAX5438)
 - Short Link: [http://oom.lt/SZKPOTDIGITALMAX5438](http://oom.lt/SZKPOTDIGITALMAX5438)

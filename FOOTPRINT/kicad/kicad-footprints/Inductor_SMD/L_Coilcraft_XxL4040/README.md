@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Coilcraft_XxL4040
 - Hex ID: FZKINLCOILCRAFTXXL44
 - Name: Inductor_SMD : L_Coilcraft_XxL4040
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Coilcraft_XxL4040/
 - Description: Inductor_SMD : L_Coilcraft_XxL4040
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Coilcraft_XxL4040](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Coilcraft_XxL4040)
 - Short Link: [http://oom.lt/FZKINLCOILCRAFTXXL44](http://oom.lt/FZKINLCOILCRAFTXXL44)

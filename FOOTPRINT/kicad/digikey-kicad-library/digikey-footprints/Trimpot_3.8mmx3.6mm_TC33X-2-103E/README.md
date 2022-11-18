@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Trimpot_3.8mmx3.6mm_TC33X-2-103E
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSTRIMPOT38X36TC33X213E
 - Name: digikey-footprints : Trimpot_3.8mmx3.6mm_TC33X-2-103E
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Trimpot_3.8mmx3.6mm_TC33X-2-103E/
 - Description: digikey-footprints : Trimpot_3.8mmx3.6mm_TC33X-2-103E
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Trimpot_3.8mmx3.6mm_TC33X-2-103E](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Trimpot_3.8mmx3.6mm_TC33X-2-103E)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSTRIMPOT38X36TC33X213E](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSTRIMPOT38X36TC33X213E)

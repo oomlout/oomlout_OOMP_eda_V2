@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O124-67-R6124A
 - Hex ID: FZOOMPKOOMPPRESE63XO12467R6124A
 - Name: oomlout_OOMP_parts : RESE-0603-X-O124-67-R6124A
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/RESE-0603-X-O124-67-R6124A/
 - Description: oomlout_OOMP_parts : RESE-0603-X-O124-67-R6124A
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O124-67-R6124A](http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O124-67-R6124A)
 - Short Link: [http://oom.lt/FZOOMPKOOMPPRESE63XO12467R6124A](http://oom.lt/FZOOMPKOOMPPRESE63XO12467R6124A)

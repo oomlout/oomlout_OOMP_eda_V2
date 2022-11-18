@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-XDFN-2_1x0.60mm
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSXDFN21X6
 - Name: digikey-footprints : XDFN-2_1x0.60mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/XDFN-2_1x0.60mm/
 - Description: digikey-footprints : XDFN-2_1x0.60mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-XDFN-2_1x0.60mm](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-XDFN-2_1x0.60mm)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSXDFN21X6](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSXDFN21X6)

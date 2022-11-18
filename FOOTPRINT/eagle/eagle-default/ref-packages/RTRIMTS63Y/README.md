@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEREFPACKAGESRTRIMTS63Y > ref-packages : RTRIMTS63Y](#fzerefpackagesrtrimts63y--ref-packages--rtrimts63y)
+* [FZEREFPSRTRIMTS63Y > ref-packages : RTRIMTS63Y](#fzerefpsrtrimts63y--ref-packages--rtrimts63y)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEREFPACKAGESRTRIMTS63Y > ref-packages : RTRIMTS63Y
+# FZEREFPSRTRIMTS63Y > ref-packages : RTRIMTS63Y
 
 - ID: FOOTPRINT-eagle-eagle-default-ref-packages-RTRIMTS63Y
-- Hex ID: FZEREFPACKAGESRTRIMTS63Y
+- Hex ID: FZEREFPSRTRIMTS63Y
 - Name: ref-packages : RTRIMTS63Y
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ref-packages/RTRIMTS63Y/
 - Description: ref-packages : RTRIMTS63Y
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-RTRIMTS63Y](http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-RTRIMTS63Y)
-- Short Link: [http://oom.lt/FZEREFPACKAGESRTRIMTS63Y](http://oom.lt/FZEREFPACKAGESRTRIMTS63Y)
+- Short Link: [http://oom.lt/FZEREFPSRTRIMTS63Y](http://oom.lt/FZEREFPSRTRIMTS63Y)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|ref-packages|
 |OOMP Index|oompIndex|RTRIMTS63Y|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-ref-packages-RTRIMTS63Y|
-|Hex ID (short code)|hexID|FZEREFPACKAGESRTRIMTS63Y|
+|Hex ID (short code)|hexID|FZEREFPSRTRIMTS63Y|
 |name|name|ref-packages : RTRIMTS63Y|
 ||||

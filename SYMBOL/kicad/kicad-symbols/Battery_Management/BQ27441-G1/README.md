@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Battery_Management-BQ27441-G1
 - Hex ID: SZKBATMANAGEMENTBQ27441G1
 - Name: Battery_Management : BQ27441-G1
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Battery_Management/BQ27441-G1/
 - Description: Battery_Management : BQ27441-G1
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Battery_Management-BQ27441-G1](http://oom.lt/SYMBOL-kicad-kicad-symbols-Battery_Management-BQ27441-G1)
 - Short Link: [http://oom.lt/SZKBATMANAGEMENTBQ27441G1](http://oom.lt/SZKBATMANAGEMENTBQ27441G1)

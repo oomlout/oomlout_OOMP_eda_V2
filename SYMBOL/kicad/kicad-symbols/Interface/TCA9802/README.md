@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface-TCA9802
 - Hex ID: SZKINTERFACETCA982
 - Name: Interface : TCA9802
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface/TCA9802/
 - Description: Interface : TCA9802
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-TCA9802](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-TCA9802)
 - Short Link: [http://oom.lt/SZKINTERFACETCA982](http://oom.lt/SZKINTERFACETCA982)

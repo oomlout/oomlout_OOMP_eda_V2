@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-I01-X-PI04-RS-
 - Hex ID: SZOOMPKOOMPPHEADI1XPI4RS
 - Name: oomlout_OOMP_parts : HEAD-I01-X-PI04-RS-
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/HEAD-I01-X-PI04-RS-/
 - Description: oomlout_OOMP_parts : HEAD-I01-X-PI04-RS-
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-I01-X-PI04-RS-](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-I01-X-PI04-RS-)
 - Short Link: [http://oom.lt/SZOOMPKOOMPPHEADI1XPI4RS](http://oom.lt/SZOOMPKOOMPPHEADI1XPI4RS)

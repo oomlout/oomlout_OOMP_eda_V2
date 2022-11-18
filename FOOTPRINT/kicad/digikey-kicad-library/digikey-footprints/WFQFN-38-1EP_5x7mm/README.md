@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-WFQFN-38-1EP_5x7mm
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSWFQFN381EP5X7
 - Name: digikey-footprints : WFQFN-38-1EP_5x7mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/WFQFN-38-1EP_5x7mm/
 - Description: digikey-footprints : WFQFN-38-1EP_5x7mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-WFQFN-38-1EP_5x7mm](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-WFQFN-38-1EP_5x7mm)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSWFQFN381EP5X7](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSWFQFN381EP5X7)

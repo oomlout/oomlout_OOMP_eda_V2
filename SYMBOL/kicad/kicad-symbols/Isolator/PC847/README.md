@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Isolator-PC847
 - Hex ID: SZKISOLATORPC847
 - Name: Isolator : PC847
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Isolator/PC847/
 - Description: Isolator : PC847
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-PC847](http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-PC847)
 - Short Link: [http://oom.lt/SZKISOLATORPC847](http://oom.lt/SZKISOLATORPC847)

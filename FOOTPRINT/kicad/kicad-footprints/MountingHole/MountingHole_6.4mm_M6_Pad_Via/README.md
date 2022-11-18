@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKHOLHOL64M6PADVIA > MountingHole : MountingHole_6.4mm_M6_Pad_Via](#fzkholhol64m6padvia--mountinghole--mountinghole_64mm_m6_pad_via)
+* [FZKHOLHOL64M6PVIA > MountingHole : MountingHole_6.4mm_M6_Pad_Via](#fzkholhol64m6pvia--mountinghole--mountinghole_64mm_m6_pad_via)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKHOLHOL64M6PADVIA > MountingHole : MountingHole_6.4mm_M6_Pad_Via
+# FZKHOLHOL64M6PVIA > MountingHole : MountingHole_6.4mm_M6_Pad_Via
 
 - ID: FOOTPRINT-kicad-kicad-footprints-MountingHole-MountingHole_6.4mm_M6_Pad_Via
-- Hex ID: FZKHOLHOL64M6PADVIA
+- Hex ID: FZKHOLHOL64M6PVIA
 - Name: MountingHole : MountingHole_6.4mm_M6_Pad_Via
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/MountingHole/MountingHole_6.4mm_M6_Pad_Via/
 - Description: MountingHole : MountingHole_6.4mm_M6_Pad_Via
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-MountingHole-MountingHole_6.4mm_M6_Pad_Via](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-MountingHole-MountingHole_6.4mm_M6_Pad_Via)
-- Short Link: [http://oom.lt/FZKHOLHOL64M6PADVIA](http://oom.lt/FZKHOLHOL64M6PADVIA)
+- Short Link: [http://oom.lt/FZKHOLHOL64M6PVIA](http://oom.lt/FZKHOLHOL64M6PVIA)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|MountingHole|
 |OOMP Index|oompIndex|MountingHole_6.4mm_M6_Pad_Via|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-MountingHole-MountingHole_6.4mm_M6_Pad_Via|
-|Hex ID (short code)|hexID|FZKHOLHOL64M6PADVIA|
+|Hex ID (short code)|hexID|FZKHOLHOL64M6PVIA|
 |name|name|MountingHole : MountingHole_6.4mm_M6_Pad_Via|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'MountingHole_6.4mm_M6_Pad_Via'</td><td> 'description'</td></tr><tr><td> 'Mounting Hole 6.4mm</td><td> M6'</td><td> 'tags'</td></tr><tr><td> 'mounting hole 6.4mm m6'</td><td> 'attributeType'</td></tr><tr><td> None</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Controller-UCC24630DBV
 - Hex ID: SZKREGULATORCONTROLLERUCC2463DBV
 - Name: Regulator_Controller : UCC24630DBV
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Controller/UCC24630DBV/
 - Description: Regulator_Controller : UCC24630DBV
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Controller-UCC24630DBV](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Controller-UCC24630DBV)
 - Short Link: [http://oom.lt/SZKREGULATORCONTROLLERUCC2463DBV](http://oom.lt/SZKREGULATORCONTROLLERUCC2463DBV)

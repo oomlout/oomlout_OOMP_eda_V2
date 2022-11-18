@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0805-X-PF22-V50-C8P22
 - Hex ID: SZOOMPKOOMPPCAPC85XPF22V5C8P22
 - Name: oomlout_OOMP_parts : CAPC-0805-X-PF22-V50-C8P22
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/CAPC-0805-X-PF22-V50-C8P22/
 - Description: oomlout_OOMP_parts : CAPC-0805-X-PF22-V50-C8P22
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0805-X-PF22-V50-C8P22](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0805-X-PF22-V50-C8P22)
 - Short Link: [http://oom.lt/SZOOMPKOOMPPCAPC85XPF22V5C8P22](http://oom.lt/SZOOMPKOOMPPCAPC85XPF22V5C8P22)

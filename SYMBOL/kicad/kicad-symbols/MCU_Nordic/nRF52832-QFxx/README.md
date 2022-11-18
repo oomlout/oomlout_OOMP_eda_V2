@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Nordic-nRF52832-QFxx
 - Hex ID: SZKMCUNORDICNRF52832QFXX
 - Name: MCU_Nordic : nRF52832-QFxx
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Nordic/nRF52832-QFxx/
 - Description: MCU_Nordic : nRF52832-QFxx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Nordic-nRF52832-QFxx](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Nordic-nRF52832-QFxx)
 - Short Link: [http://oom.lt/SZKMCUNORDICNRF52832QFXX](http://oom.lt/SZKMCUNORDICNRF52832QFXX)

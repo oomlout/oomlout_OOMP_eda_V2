@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Capacitor_Tantalum_SMD-CP_EIA-1608-10_AVX-L
 - Hex ID: FZKCCPEIA1681AVXL
 - Name: Capacitor_Tantalum_SMD : CP_EIA-1608-10_AVX-L
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Capacitor_Tantalum_SMD/CP_EIA-1608-10_AVX-L/
 - Description: Capacitor_Tantalum_SMD : CP_EIA-1608-10_AVX-L
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_Tantalum_SMD-CP_EIA-1608-10_AVX-L](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_Tantalum_SMD-CP_EIA-1608-10_AVX-L)
 - Short Link: [http://oom.lt/FZKCCPEIA1681AVXL](http://oom.lt/FZKCCPEIA1681AVXL)

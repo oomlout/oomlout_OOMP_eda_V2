@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Controller-NCP1203D60
 - Hex ID: SZKREGULATORCONTROLLERNCP123D6
 - Name: Regulator_Controller : NCP1203D60
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Controller/NCP1203D60/
 - Description: Regulator_Controller : NCP1203D60
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Controller-NCP1203D60](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Controller-NCP1203D60)
 - Short Link: [http://oom.lt/SZKREGULATORCONTROLLERNCP123D6](http://oom.lt/SZKREGULATORCONTROLLERNCP123D6)

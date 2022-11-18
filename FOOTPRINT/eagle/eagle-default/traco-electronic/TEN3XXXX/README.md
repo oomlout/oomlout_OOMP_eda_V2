@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-traco-electronic-TEN3XXXX
 - Hex ID: FZETRACOELECTRONICTEN3XXXX
 - Name: traco-electronic : TEN3XXXX
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/traco-electronic/TEN3XXXX/
 - Description: traco-electronic : TEN3XXXX
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-traco-electronic-TEN3XXXX](http://oom.lt/FOOTPRINT-eagle-eagle-default-traco-electronic-TEN3XXXX)
 - Short Link: [http://oom.lt/FZETRACOELECTRONICTEN3XXXX](http://oom.lt/FZETRACOELECTRONICTEN3XXXX)

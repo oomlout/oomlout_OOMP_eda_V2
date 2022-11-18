@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_Micro-Fit_3.0_43045-1818_2x09-1MP_P3.00mm_Vertical
 - Hex ID: FZKCNMXMXMFIT3434518182X91MPP3F
 - Name: Connector_Molex : Molex_Micro-Fit_3.0_43045-1818_2x09-1MP_P3.00mm_Vertical
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_Micro-Fit_3.0_43045-1818_2x09-1MP_P3.00mm_Vertical/
 - Description: Connector_Molex : Molex_Micro-Fit_3.0_43045-1818_2x09-1MP_P3.00mm_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_Micro-Fit_3.0_43045-1818_2x09-1MP_P3.00mm_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_Micro-Fit_3.0_43045-1818_2x09-1MP_P3.00mm_Vertical)
 - Short Link: [http://oom.lt/FZKCNMXMXMFIT3434518182X91MPP3F](http://oom.lt/FZKCNMXMXMFIT3434518182X91MPP3F)

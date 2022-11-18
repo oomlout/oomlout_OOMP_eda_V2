@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-4xxx_IEEE-4543
 - Hex ID: SZK4XXXIEEE4543
 - Name: 4xxx_IEEE : 4543
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/4xxx_IEEE/4543/
 - Description: 4xxx_IEEE : 4543
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-4xxx_IEEE-4543](http://oom.lt/SYMBOL-kicad-kicad-symbols-4xxx_IEEE-4543)
 - Short Link: [http://oom.lt/SZK4XXXIEEE4543](http://oom.lt/SZK4XXXIEEE4543)

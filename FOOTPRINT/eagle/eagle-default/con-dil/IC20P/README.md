@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-dil-IC20P
 - Hex ID: FZECONDILIC2P
 - Name: con-dil : IC20P
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-dil/IC20P/
 - Description: con-dil : IC20P
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-dil-IC20P](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-dil-IC20P)
 - Short Link: [http://oom.lt/FZECONDILIC2P](http://oom.lt/FZECONDILIC2P)

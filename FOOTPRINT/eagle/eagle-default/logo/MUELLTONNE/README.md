@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-logo-MUELLTONNE
 - Hex ID: FZELMUELLTONNE
 - Name: logo : MUELLTONNE
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/logo/MUELLTONNE/
 - Description: logo : MUELLTONNE
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-logo-MUELLTONNE](http://oom.lt/FOOTPRINT-eagle-eagle-default-logo-MUELLTONNE)
 - Short Link: [http://oom.lt/FZELMUELLTONNE](http://oom.lt/FZELMUELLTONNE)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-LP38512MR-ADJ
 - Hex ID: SZKREGULATORLINEARLP38512MRADJ
 - Name: Regulator_Linear : LP38512MR-ADJ
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LP38512MR-ADJ/
 - Description: Regulator_Linear : LP38512MR-ADJ
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LP38512MR-ADJ](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LP38512MR-ADJ)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARLP38512MRADJ](http://oom.lt/SZKREGULATORLINEARLP38512MRADJ)

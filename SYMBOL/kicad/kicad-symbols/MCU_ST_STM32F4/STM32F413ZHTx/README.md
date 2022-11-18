@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F4-STM32F413ZHTx
 - Hex ID: SZKMCUSTSTM32F4STM32F413ZHTX
 - Name: MCU_ST_STM32F4 : STM32F413ZHTx
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32F4/STM32F413ZHTx/
 - Description: MCU_ST_STM32F4 : STM32F413ZHTx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F4-STM32F413ZHTx](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F4-STM32F413ZHTx)
 - Short Link: [http://oom.lt/SZKMCUSTSTM32F4STM32F413ZHTX](http://oom.lt/SZKMCUSTSTM32F4STM32F413ZHTX)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_MELF_MMB-0207
 - Hex ID: FZKRRMELFB27
 - Name: Resistor_SMD : R_MELF_MMB-0207
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_MELF_MMB-0207/
 - Description: Resistor_SMD : R_MELF_MMB-0207
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_MELF_MMB-0207](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_MELF_MMB-0207)
 - Short Link: [http://oom.lt/FZKRRMELFB27](http://oom.lt/FZKRRMELFB27)

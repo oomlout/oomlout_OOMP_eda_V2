@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-I01-X-PI09-01-H09
 - Hex ID: SZOOMPKOOMPPHEADI1XPI91H9
 - Name: oomlout_OOMP_parts : HEAD-I01-X-PI09-01-H09
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/HEAD-I01-X-PI09-01-H09/
 - Description: oomlout_OOMP_parts : HEAD-I01-X-PI09-01-H09
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-I01-X-PI09-01-H09](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-I01-X-PI09-01-H09)
 - Short Link: [http://oom.lt/SZOOMPKOOMPPHEADI1XPI91H9](http://oom.lt/SZOOMPKOOMPPHEADI1XPI91H9)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-memory-sram-SOJV36-400
 - Hex ID: FZEMEMORYSRAMSOJV364
 - Name: memory-sram : SOJV36-400
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/memory-sram/SOJV36-400/
 - Description: memory-sram : SOJV36-400
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-memory-sram-SOJV36-400](http://oom.lt/FOOTPRINT-eagle-eagle-default-memory-sram-SOJV36-400)
 - Short Link: [http://oom.lt/FZEMEMORYSRAMSOJV364](http://oom.lt/FZEMEMORYSRAMSOJV364)

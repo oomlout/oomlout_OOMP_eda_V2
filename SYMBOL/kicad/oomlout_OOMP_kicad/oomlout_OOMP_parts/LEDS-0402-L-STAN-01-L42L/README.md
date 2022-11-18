@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-LEDS-0402-L-STAN-01-L42L
 - Hex ID: SZOOMPKOOMPPLS42LSTAN1L42L
 - Name: oomlout_OOMP_parts : LEDS-0402-L-STAN-01-L42L
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/LEDS-0402-L-STAN-01-L42L/
 - Description: oomlout_OOMP_parts : LEDS-0402-L-STAN-01-L42L
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-LEDS-0402-L-STAN-01-L42L](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-LEDS-0402-L-STAN-01-L42L)
 - Short Link: [http://oom.lt/SZOOMPKOOMPPLS42LSTAN1L42L](http://oom.lt/SZOOMPKOOMPPLS42LSTAN1L42L)

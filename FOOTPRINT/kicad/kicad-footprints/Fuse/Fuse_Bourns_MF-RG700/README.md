@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Fuse-Fuse_Bourns_MF-RG700
 - Hex ID: FZKFUFUBOURNSMFRG7
 - Name: Fuse : Fuse_Bourns_MF-RG700
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Fuse/Fuse_Bourns_MF-RG700/
 - Description: Fuse : Fuse_Bourns_MF-RG700
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Fuse-Fuse_Bourns_MF-RG700](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Fuse-Fuse_Bourns_MF-RG700)
 - Short Link: [http://oom.lt/FZKFUFUBOURNSMFRG7](http://oom.lt/FZKFUFUBOURNSMFRG7)

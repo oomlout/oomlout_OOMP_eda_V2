@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-diode-ZDIO12.5
 - Hex ID: FZEDIODEZDIO125
 - Name: diode : ZDIO12.5
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/diode/ZDIO12.5/
 - Description: diode : ZDIO12.5
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-diode-ZDIO12.5](http://oom.lt/FOOTPRINT-eagle-eagle-default-diode-ZDIO12.5)
 - Short Link: [http://oom.lt/FZEDIODEZDIO125](http://oom.lt/FZEDIODEZDIO125)

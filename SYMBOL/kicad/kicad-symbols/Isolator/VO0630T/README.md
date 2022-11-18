@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Isolator-VO0630T
 - Hex ID: SZKISOLATORVO63T
 - Name: Isolator : VO0630T
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Isolator/VO0630T/
 - Description: Isolator : VO0630T
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-VO0630T](http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-VO0630T)
 - Short Link: [http://oom.lt/SZKISOLATORVO63T](http://oom.lt/SZKISOLATORVO63T)

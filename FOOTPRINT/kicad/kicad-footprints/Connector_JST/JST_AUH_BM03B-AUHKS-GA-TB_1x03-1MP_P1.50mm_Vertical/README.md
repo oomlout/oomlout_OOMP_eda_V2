@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_AUH_BM03B-AUHKS-GA-TB_1x03-1MP_P1.50mm_Vertical
 - Hex ID: FZKCNJSTJSTAUHBM3BAUHKSGATB1X31MPP15F
 - Name: Connector_JST : JST_AUH_BM03B-AUHKS-GA-TB_1x03-1MP_P1.50mm_Vertical
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_AUH_BM03B-AUHKS-GA-TB_1x03-1MP_P1.50mm_Vertical/
 - Description: Connector_JST : JST_AUH_BM03B-AUHKS-GA-TB_1x03-1MP_P1.50mm_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_AUH_BM03B-AUHKS-GA-TB_1x03-1MP_P1.50mm_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_AUH_BM03B-AUHKS-GA-TB_1x03-1MP_P1.50mm_Vertical)
 - Short Link: [http://oom.lt/FZKCNJSTJSTAUHBM3BAUHKSGATB1X31MPP15F](http://oom.lt/FZKCNJSTJSTAUHBM3BAUHKSGATB1X31MPP15F)

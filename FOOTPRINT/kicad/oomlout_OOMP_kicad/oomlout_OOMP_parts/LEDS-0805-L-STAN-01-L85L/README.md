@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-LEDS-0805-L-STAN-01-L85L
 - Hex ID: FZOOMPKOOMPPLS85LSTAN1L85L
 - Name: oomlout_OOMP_parts : LEDS-0805-L-STAN-01-L85L
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/LEDS-0805-L-STAN-01-L85L/
 - Description: oomlout_OOMP_parts : LEDS-0805-L-STAN-01-L85L
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-LEDS-0805-L-STAN-01-L85L](http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-LEDS-0805-L-STAN-01-L85L)
 - Short Link: [http://oom.lt/FZOOMPKOOMPPLS85LSTAN1L85L](http://oom.lt/FZOOMPKOOMPPLS85LSTAN1L85L)

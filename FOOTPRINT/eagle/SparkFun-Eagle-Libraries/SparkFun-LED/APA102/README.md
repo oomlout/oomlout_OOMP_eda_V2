@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-LED-APA102
 - Hex ID: FZSLAPA12
 - Name: SparkFun-LED : APA102
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-LED/APA102/
 - Description: SparkFun-LED : APA102
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-LED-APA102](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-LED-APA102)
 - Short Link: [http://oom.lt/FZSLAPA12](http://oom.lt/FZSLAPA12)

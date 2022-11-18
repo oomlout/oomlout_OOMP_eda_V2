@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-zetex-QSOP20
 - Hex ID: FZEZETEXQS2
 - Name: zetex : QSOP20
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/zetex/QSOP20/
 - Description: zetex : QSOP20
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-zetex-QSOP20](http://oom.lt/FOOTPRINT-eagle-eagle-default-zetex-QSOP20)
 - Short Link: [http://oom.lt/FZEZETEXQS2](http://oom.lt/FZEZETEXQS2)

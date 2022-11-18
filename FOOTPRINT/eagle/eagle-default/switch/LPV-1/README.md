@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-switch-LPV-1
 - Hex ID: FZESWLPV1
 - Name: switch : LPV-1
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/switch/LPV-1/
 - Description: switch : LPV-1
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-LPV-1](http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-LPV-1)
 - Short Link: [http://oom.lt/FZESWLPV1](http://oom.lt/FZESWLPV1)

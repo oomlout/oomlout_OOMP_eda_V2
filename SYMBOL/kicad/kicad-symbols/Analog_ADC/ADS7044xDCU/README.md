@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Analog_ADC-ADS7044xDCU
 - Hex ID: SZKANALOGADCADS744XDCU
 - Name: Analog_ADC : ADS7044xDCU
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog_ADC/ADS7044xDCU/
 - Description: Analog_ADC : ADS7044xDCU
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-ADS7044xDCU](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-ADS7044xDCU)
 - Short Link: [http://oom.lt/SZKANALOGADCADS744XDCU](http://oom.lt/SZKANALOGADCADS744XDCU)

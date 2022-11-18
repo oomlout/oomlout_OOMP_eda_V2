@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-2X04_90
 - Hex ID: FZA2X49
 - Name: adafruit : 2X04_90
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/2X04_90/
 - Description: adafruit : 2X04_90
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-2X04_90](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-2X04_90)
 - Short Link: [http://oom.lt/FZA2X49](http://oom.lt/FZA2X49)

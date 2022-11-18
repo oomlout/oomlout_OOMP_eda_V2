@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-TMB-6
 - Hex ID: FZSSPARKFUNSENSTMB6
 - Name: SparkFun-Sensors : TMB-6
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Sensors/TMB-6/
 - Description: SparkFun-Sensors : TMB-6
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-TMB-6](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-TMB-6)
 - Short Link: [http://oom.lt/FZSSPARKFUNSENSTMB6](http://oom.lt/FZSSPARKFUNSENSTMB6)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-BUTA-52D-X-STAN-01-BT52
 - Hex ID: SZOOMPKOOMPPBUTA52DXSTAN1BT52
 - Name: oomlout_OOMP_parts : BUTA-52D-X-STAN-01-BT52
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/BUTA-52D-X-STAN-01-BT52/
 - Description: oomlout_OOMP_parts : BUTA-52D-X-STAN-01-BT52
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-BUTA-52D-X-STAN-01-BT52](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-BUTA-52D-X-STAN-01-BT52)
 - Short Link: [http://oom.lt/SZOOMPKOOMPPBUTA52DXSTAN1BT52](http://oom.lt/SZOOMPKOOMPPBUTA52DXSTAN1BT52)

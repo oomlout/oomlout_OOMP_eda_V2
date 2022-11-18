@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LM4562
 - Hex ID: SZKAMPLIFIEROPERATIONALLM4562
 - Name: Amplifier_Operational : LM4562
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/LM4562/
 - Description: Amplifier_Operational : LM4562
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LM4562](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LM4562)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALLM4562](http://oom.lt/SZKAMPLIFIEROPERATIONALLM4562)

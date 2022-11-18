@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEREFPACKAGESLONGPADGT32 > ref-packages-longpad : GT32](#fzerefpackageslongpadgt32--ref-packages-longpad--gt32)
+* [FZEREFPSLPGT32 > ref-packages-longpad : GT32](#fzerefpslpgt32--ref-packages-longpad--gt32)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEREFPACKAGESLONGPADGT32 > ref-packages-longpad : GT32
+# FZEREFPSLPGT32 > ref-packages-longpad : GT32
 
 - ID: FOOTPRINT-eagle-eagle-default-ref-packages-longpad-GT32
-- Hex ID: FZEREFPACKAGESLONGPADGT32
+- Hex ID: FZEREFPSLPGT32
 - Name: ref-packages-longpad : GT32
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ref-packages-longpad/GT32/
 - Description: ref-packages-longpad : GT32
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-longpad-GT32](http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-longpad-GT32)
-- Short Link: [http://oom.lt/FZEREFPACKAGESLONGPADGT32](http://oom.lt/FZEREFPACKAGESLONGPADGT32)
+- Short Link: [http://oom.lt/FZEREFPSLPGT32](http://oom.lt/FZEREFPSLPGT32)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|ref-packages-longpad|
 |OOMP Index|oompIndex|GT32|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-ref-packages-longpad-GT32|
-|Hex ID (short code)|hexID|FZEREFPACKAGESLONGPADGT32|
+|Hex ID (short code)|hexID|FZEREFPSLPGT32|
 |name|name|ref-packages-longpad : GT32|
 ||||

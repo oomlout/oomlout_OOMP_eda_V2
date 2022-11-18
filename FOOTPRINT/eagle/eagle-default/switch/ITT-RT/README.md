@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-switch-ITT-RT
 - Hex ID: FZESWITTRT
 - Name: switch : ITT-RT
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/switch/ITT-RT/
 - Description: switch : ITT-RT
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-ITT-RT](http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-ITT-RT)
 - Short Link: [http://oom.lt/FZESWITTRT](http://oom.lt/FZESWITTRT)

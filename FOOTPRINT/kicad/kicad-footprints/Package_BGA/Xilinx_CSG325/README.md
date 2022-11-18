@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_BGA-Xilinx_CSG325
 - Hex ID: FZKBGAXILINXCSG325
 - Name: Package_BGA : Xilinx_CSG325
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_BGA/Xilinx_CSG325/
 - Description: Package_BGA : Xilinx_CSG325
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_BGA-Xilinx_CSG325](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_BGA-Xilinx_CSG325)
 - Short Link: [http://oom.lt/FZKBGAXILINXCSG325](http://oom.lt/FZKBGAXILINXCSG325)

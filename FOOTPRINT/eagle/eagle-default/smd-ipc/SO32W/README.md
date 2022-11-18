@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-smd-ipc-SO32W
 - Hex ID: FZESMIPCSO32W
 - Name: smd-ipc : SO32W
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/smd-ipc/SO32W/
 - Description: smd-ipc : SO32W
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-SO32W](http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-SO32W)
 - Short Link: [http://oom.lt/FZESMIPCSO32W](http://oom.lt/FZESMIPCSO32W)

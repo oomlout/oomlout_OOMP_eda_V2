@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-2X10_LOCK_SPECIAL
 - Hex ID: FZSSPARKFUNCNS2X1LSPECIAL
 - Name: SparkFun-Connectors : 2X10_LOCK_SPECIAL
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Connectors/2X10_LOCK_SPECIAL/
 - Description: SparkFun-Connectors : 2X10_LOCK_SPECIAL
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-2X10_LOCK_SPECIAL](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-2X10_LOCK_SPECIAL)
 - Short Link: [http://oom.lt/FZSSPARKFUNCNS2X1LSPECIAL](http://oom.lt/FZSSPARKFUNCNS2X1LSPECIAL)

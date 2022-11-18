@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-trafo-siemens-RM3
 - Hex ID: FZETRAFOSIEMENSRM3
 - Name: trafo-siemens : RM3
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/trafo-siemens/RM3/
 - Description: trafo-siemens : RM3
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-trafo-siemens-RM3](http://oom.lt/FOOTPRINT-eagle-eagle-default-trafo-siemens-RM3)
 - Short Link: [http://oom.lt/FZETRAFOSIEMENSRM3](http://oom.lt/FZETRAFOSIEMENSRM3)

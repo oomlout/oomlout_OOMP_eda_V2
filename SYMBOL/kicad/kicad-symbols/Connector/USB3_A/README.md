@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Connector-USB3_A
 - Hex ID: SZKCNU3A
 - Name: Connector : USB3_A
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector/USB3_A/
 - Description: Connector : USB3_A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-USB3_A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-USB3_A)
 - Short Link: [http://oom.lt/SZKCNU3A](http://oom.lt/SZKCNU3A)

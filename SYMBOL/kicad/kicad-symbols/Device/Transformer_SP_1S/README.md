@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Device-Transformer_SP_1S
 - Hex ID: SZKDEVICETRSP1S
 - Name: Device : Transformer_SP_1S
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/Transformer_SP_1S/
 - Description: Device : Transformer_SP_1S
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Transformer_SP_1S](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Transformer_SP_1S)
 - Short Link: [http://oom.lt/SZKDEVICETRSP1S](http://oom.lt/SZKDEVICETRSP1S)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0805-X-UF2-V50-C8U2-C49217
 - Hex ID: FZOOMPKJLCCAPC85XUF2V5C8U2C49217
 - Name: oomlout_OOMP_JLCC_Basic : CAPC-0805-X-UF2-V50-C8U2-C49217
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_JLCC_Basic/CAPC-0805-X-UF2-V50-C8U2-C49217/
 - Description: oomlout_OOMP_JLCC_Basic : CAPC-0805-X-UF2-V50-C8U2-C49217
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0805-X-UF2-V50-C8U2-C49217](http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0805-X-UF2-V50-C8U2-C49217)
 - Short Link: [http://oom.lt/FZOOMPKJLCCAPC85XUF2V5C8U2C49217](http://oom.lt/FZOOMPKJLCCAPC85XUF2V5C8U2C49217)

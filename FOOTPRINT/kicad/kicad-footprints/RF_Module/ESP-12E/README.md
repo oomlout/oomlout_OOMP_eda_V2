@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-RF_Module-ESP-12E
 - Hex ID: FZKRFMOESP12E
 - Name: RF_Module : ESP-12E
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/RF_Module/ESP-12E/
 - Description: RF_Module : ESP-12E
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_Module-ESP-12E](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_Module-ESP-12E)
 - Short Link: [http://oom.lt/FZKRFMOESP12E](http://oom.lt/FZKRFMOESP12E)

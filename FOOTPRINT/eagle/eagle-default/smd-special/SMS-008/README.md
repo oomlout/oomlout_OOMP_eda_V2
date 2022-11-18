@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-smd-special-SMS-008
 - Hex ID: FZESMSPECIALSMS8
 - Name: smd-special : SMS-008
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/smd-special/SMS-008/
 - Description: smd-special : SMS-008
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-special-SMS-008](http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-special-SMS-008)
 - Short Link: [http://oom.lt/FZESMSPECIALSMS8](http://oom.lt/FZESMSPECIALSMS8)

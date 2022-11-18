@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Reference_Voltage-REF102CP
 - Hex ID: SZKREFERENCEVOLTAGEREF12CP
 - Name: Reference_Voltage : REF102CP
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Reference_Voltage/REF102CP/
 - Description: Reference_Voltage : REF102CP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Voltage-REF102CP](http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Voltage-REF102CP)
 - Short Link: [http://oom.lt/SZKREFERENCEVOLTAGEREF12CP](http://oom.lt/SZKREFERENCEVOLTAGEREF12CP)

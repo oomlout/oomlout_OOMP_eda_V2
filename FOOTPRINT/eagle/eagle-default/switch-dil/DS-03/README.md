@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-switch-dil-DS-03
 - Hex ID: FZESWDILDS3
 - Name: switch-dil : DS-03
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/switch-dil/DS-03/
 - Description: switch-dil : DS-03
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-dil-DS-03](http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-dil-DS-03)
 - Short Link: [http://oom.lt/FZESWDILDS3](http://oom.lt/FZESWDILDS3)

@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEREFPACKAGESPGA68L > ref-packages : PGA68L](#fzerefpackagespga68l--ref-packages--pga68l)
+* [FZEREFPSPGA68L > ref-packages : PGA68L](#fzerefpspga68l--ref-packages--pga68l)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEREFPACKAGESPGA68L > ref-packages : PGA68L
+# FZEREFPSPGA68L > ref-packages : PGA68L
 
 - ID: FOOTPRINT-eagle-eagle-default-ref-packages-PGA68L
-- Hex ID: FZEREFPACKAGESPGA68L
+- Hex ID: FZEREFPSPGA68L
 - Name: ref-packages : PGA68L
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ref-packages/PGA68L/
 - Description: ref-packages : PGA68L
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-PGA68L](http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-PGA68L)
-- Short Link: [http://oom.lt/FZEREFPACKAGESPGA68L](http://oom.lt/FZEREFPACKAGESPGA68L)
+- Short Link: [http://oom.lt/FZEREFPSPGA68L](http://oom.lt/FZEREFPSPGA68L)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|ref-packages|
 |OOMP Index|oompIndex|PGA68L|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-ref-packages-PGA68L|
-|Hex ID (short code)|hexID|FZEREFPACKAGESPGA68L|
+|Hex ID (short code)|hexID|FZEREFPSPGA68L|
 |name|name|ref-packages : PGA68L|
 ||||

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-LEDS-0603-G-STAN-01-L6G
 - Hex ID: SZOOMPKOOMPPLS63GSTAN1L6G
 - Name: oomlout_OOMP_parts : LEDS-0603-G-STAN-01-L6G
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/LEDS-0603-G-STAN-01-L6G/
 - Description: oomlout_OOMP_parts : LEDS-0603-G-STAN-01-L6G
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-LEDS-0603-G-STAN-01-L6G](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-LEDS-0603-G-STAN-01-L6G)
 - Short Link: [http://oom.lt/SZOOMPKOOMPPLS63GSTAN1L6G](http://oom.lt/SZOOMPKOOMPPLS63GSTAN1L6G)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-BATTERY
 - Hex ID: FZSRTBAT
 - Name: SparkFun-Retired : BATTERY
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Retired/BATTERY/
 - Description: SparkFun-Retired : BATTERY
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-BATTERY](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-BATTERY)
 - Short Link: [http://oom.lt/FZSRTBAT](http://oom.lt/FZSRTBAT)

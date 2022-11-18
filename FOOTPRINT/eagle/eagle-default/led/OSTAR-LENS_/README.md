@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-led-OSTAR-LENS_
 - Hex ID: FZELOSTARLENS
 - Name: led : OSTAR-LENS_
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/led/OSTAR-LENS_/
 - Description: led : OSTAR-LENS_
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-led-OSTAR-LENS_](http://oom.lt/FOOTPRINT-eagle-eagle-default-led-OSTAR-LENS_)
 - Short Link: [http://oom.lt/FZELOSTARLENS](http://oom.lt/FZELOSTARLENS)

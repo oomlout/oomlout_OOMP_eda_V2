@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0402-X-PF30-V50-C4P30-C13533
 - Hex ID: FZOOMPKJLCCAPC42XPF3V5C4P3C13533
 - Name: oomlout_OOMP_JLCC_Basic : CAPC-0402-X-PF30-V50-C4P30-C13533
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_JLCC_Basic/CAPC-0402-X-PF30-V50-C4P30-C13533/
 - Description: oomlout_OOMP_JLCC_Basic : CAPC-0402-X-PF30-V50-C4P30-C13533
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0402-X-PF30-V50-C4P30-C13533](http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0402-X-PF30-V50-C4P30-C13533)
 - Short Link: [http://oom.lt/FZOOMPKJLCCAPC42XPF3V5C4P3C13533](http://oom.lt/FZOOMPKJLCCAPC42XPF3V5C4P3C13533)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-weidmueller-sl35-135-4
 - Hex ID: FZECONWEIDMUELLERSL351354
 - Name: con-weidmueller-sl35 : 135-4
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-weidmueller-sl35/135-4/
 - Description: con-weidmueller-sl35 : 135-4
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-weidmueller-sl35-135-4](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-weidmueller-sl35-135-4)
 - Short Link: [http://oom.lt/FZECONWEIDMUELLERSL351354](http://oom.lt/FZECONWEIDMUELLERSL351354)

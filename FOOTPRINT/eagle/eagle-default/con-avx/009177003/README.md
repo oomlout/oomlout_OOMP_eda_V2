@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-avx-009177003
 - Hex ID: FZECONAVX91773
 - Name: con-avx : 009177003
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-avx/009177003/
 - Description: con-avx : 009177003
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-avx-009177003](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-avx-009177003)
 - Short Link: [http://oom.lt/FZECONAVX91773](http://oom.lt/FZECONAVX91773)

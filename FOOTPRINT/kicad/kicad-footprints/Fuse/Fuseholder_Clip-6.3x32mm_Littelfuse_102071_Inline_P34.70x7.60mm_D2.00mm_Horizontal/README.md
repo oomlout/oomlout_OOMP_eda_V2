@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKFUFUHOLDERCLIP63X32LITTELFU1271IP347X76D2H > Fuse : Fuseholder_Clip-6.3x32mm_Littelfuse_102071_Inline_P34.70x7.60mm_D2.00mm_Horizontal](#fzkfufuholderclip63x32littelfu1271ip347x76d2h--fuse--fuseholder_clip-63x32mm_littelfuse_102071_inline_p3470x760mm_d200mm_horizontal)
+* [FZKFUFUHCL63X32LITTELFU1271IP347X76D2H > Fuse : Fuseholder_Clip-6.3x32mm_Littelfuse_102071_Inline_P34.70x7.60mm_D2.00mm_Horizontal](#fzkfufuhcl63x32littelfu1271ip347x76d2h--fuse--fuseholder_clip-63x32mm_littelfuse_102071_inline_p3470x760mm_d200mm_horizontal)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKFUFUHOLDERCLIP63X32LITTELFU1271IP347X76D2H > Fuse : Fuseholder_Clip-6.3x32mm_Littelfuse_102071_Inline_P34.70x7.60mm_D2.00mm_Horizontal
+# FZKFUFUHCL63X32LITTELFU1271IP347X76D2H > Fuse : Fuseholder_Clip-6.3x32mm_Littelfuse_102071_Inline_P34.70x7.60mm_D2.00mm_Horizontal
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Fuse-Fuseholder_Clip-6.3x32mm_Littelfuse_102071_Inline_P34.70x7.60mm_D2.00mm_Horizontal
-- Hex ID: FZKFUFUHOLDERCLIP63X32LITTELFU1271IP347X76D2H
+- Hex ID: FZKFUFUHCL63X32LITTELFU1271IP347X76D2H
 - Name: Fuse : Fuseholder_Clip-6.3x32mm_Littelfuse_102071_Inline_P34.70x7.60mm_D2.00mm_Horizontal
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Fuse/Fuseholder_Clip-6.3x32mm_Littelfuse_102071_Inline_P34.70x7.60mm_D2.00mm_Horizontal/
 - Description: Fuse : Fuseholder_Clip-6.3x32mm_Littelfuse_102071_Inline_P34.70x7.60mm_D2.00mm_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Fuse-Fuseholder_Clip-6.3x32mm_Littelfuse_102071_Inline_P34.70x7.60mm_D2.00mm_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Fuse-Fuseholder_Clip-6.3x32mm_Littelfuse_102071_Inline_P34.70x7.60mm_D2.00mm_Horizontal)
-- Short Link: [http://oom.lt/FZKFUFUHOLDERCLIP63X32LITTELFU1271IP347X76D2H](http://oom.lt/FZKFUFUHOLDERCLIP63X32LITTELFU1271IP347X76D2H)
+- Short Link: [http://oom.lt/FZKFUFUHCL63X32LITTELFU1271IP347X76D2H](http://oom.lt/FZKFUFUHCL63X32LITTELFU1271IP347X76D2H)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Fuse|
 |OOMP Index|oompIndex|Fuseholder_Clip-6.3x32mm_Littelfuse_102071_Inline_P34.70x7.60mm_D2.00mm_Horizontal|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Fuse-Fuseholder_Clip-6.3x32mm_Littelfuse_102071_Inline_P34.70x7.60mm_D2.00mm_Horizontal|
-|Hex ID (short code)|hexID|FZKFUFUHOLDERCLIP63X32LITTELFU1271IP347X76D2H|
+|Hex ID (short code)|hexID|FZKFUFUHCL63X32LITTELFU1271IP347X76D2H|
 |name|name|Fuse : Fuseholder_Clip-6.3x32mm_Littelfuse_102071_Inline_P34.70x7.60mm_D2.00mm_Horizontal|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Fuseholder_Clip-6.3x32mm_Littelfuse_102071_Inline_P34.70x7.60mm_D2.00mm_Horizontal'</td><td> 'description'</td></tr><tr><td> 'Fuseholder Clips</td><td> 6.3x32mm Cylinder Fuse</td><td> Pins Inline</td><td> Horizontal</td><td> Littelfuse 102071</td><td> https</td></tr><tr><td>//www.littelfuse.com/~/media/electronics/datasheets/fuse_clips/littelfuse_fuse_clip_520_521_102071_datasheet.pdf.pdf'</td><td> 'tags'</td></tr><tr><td> 'fuse clip open'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Fuse.3dshapes/Fuseholder_Clip-6.3x32mm_Littelfuse_102071_Inline_P34.70x7.60mm_D2.00mm_Horizontal.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||

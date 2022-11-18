@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-micro-fujitsu-SOJ32-3
 - Hex ID: FZEMFUJITSUSOJ323
 - Name: micro-fujitsu : SOJ32-3
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/micro-fujitsu/SOJ32-3/
 - Description: micro-fujitsu : SOJ32-3
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-fujitsu-SOJ32-3](http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-fujitsu-SOJ32-3)
 - Short Link: [http://oom.lt/FZEMFUJITSUSOJ323](http://oom.lt/FZEMFUJITSUSOJ323)

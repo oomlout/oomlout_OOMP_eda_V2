@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-USB_Mini_B_Female_UJ2-MBH-1-SMT-TR
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSUMBFUJ2MBH1STR
 - Name: digikey-footprints : USB_Mini_B_Female_UJ2-MBH-1-SMT-TR
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/USB_Mini_B_Female_UJ2-MBH-1-SMT-TR/
 - Description: digikey-footprints : USB_Mini_B_Female_UJ2-MBH-1-SMT-TR
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-USB_Mini_B_Female_UJ2-MBH-1-SMT-TR](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-USB_Mini_B_Female_UJ2-MBH-1-SMT-TR)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSUMBFUJ2MBH1STR](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSUMBFUJ2MBH1STR)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0603-X-NF2-V50-C6N2-C27920
 - Hex ID: SZOOMPKJLCCAPC63XNF2V5C6N2C2792
 - Name: oomlout_OOMP_JLCC_Basic : CAPC-0603-X-NF2-V50-C6N2-C27920
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_JLCC_Basic/CAPC-0603-X-NF2-V50-C6N2-C27920/
 - Description: oomlout_OOMP_JLCC_Basic : CAPC-0603-X-NF2-V50-C6N2-C27920
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0603-X-NF2-V50-C6N2-C27920](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0603-X-NF2-V50-C6N2-C27920)
 - Short Link: [http://oom.lt/SZOOMPKJLCCAPC63XNF2V5C6N2C2792](http://oom.lt/SZOOMPKJLCCAPC63XNF2V5C6N2C2792)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-vg-FH15
 - Hex ID: FZECONVGFH15
 - Name: con-vg : FH15
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-vg/FH15/
 - Description: con-vg : FH15
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-vg-FH15](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-vg-FH15)
 - Short Link: [http://oom.lt/FZECONVGFH15](http://oom.lt/FZECONVGFH15)

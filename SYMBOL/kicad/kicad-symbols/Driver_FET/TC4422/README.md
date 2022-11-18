@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Driver_FET-TC4422
 - Hex ID: SZKDRIVERFETTC4422
 - Name: Driver_FET : TC4422
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Driver_FET/TC4422/
 - Description: Driver_FET : TC4422
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-TC4422](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-TC4422)
 - Short Link: [http://oom.lt/SZKDRIVERFETTC4422](http://oom.lt/SZKDRIVERFETTC4422)

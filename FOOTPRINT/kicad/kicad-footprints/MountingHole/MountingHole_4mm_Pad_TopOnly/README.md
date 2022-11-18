@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKHOLHOL4PADTOPONLY > MountingHole : MountingHole_4mm_Pad_TopOnly](#fzkholhol4padtoponly--mountinghole--mountinghole_4mm_pad_toponly)
+* [FZKHOLHOL4PTOPONLY > MountingHole : MountingHole_4mm_Pad_TopOnly](#fzkholhol4ptoponly--mountinghole--mountinghole_4mm_pad_toponly)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKHOLHOL4PADTOPONLY > MountingHole : MountingHole_4mm_Pad_TopOnly
+# FZKHOLHOL4PTOPONLY > MountingHole : MountingHole_4mm_Pad_TopOnly
 
 - ID: FOOTPRINT-kicad-kicad-footprints-MountingHole-MountingHole_4mm_Pad_TopOnly
-- Hex ID: FZKHOLHOL4PADTOPONLY
+- Hex ID: FZKHOLHOL4PTOPONLY
 - Name: MountingHole : MountingHole_4mm_Pad_TopOnly
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/MountingHole/MountingHole_4mm_Pad_TopOnly/
 - Description: MountingHole : MountingHole_4mm_Pad_TopOnly
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-MountingHole-MountingHole_4mm_Pad_TopOnly](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-MountingHole-MountingHole_4mm_Pad_TopOnly)
-- Short Link: [http://oom.lt/FZKHOLHOL4PADTOPONLY](http://oom.lt/FZKHOLHOL4PADTOPONLY)
+- Short Link: [http://oom.lt/FZKHOLHOL4PTOPONLY](http://oom.lt/FZKHOLHOL4PTOPONLY)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|MountingHole|
 |OOMP Index|oompIndex|MountingHole_4mm_Pad_TopOnly|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-MountingHole-MountingHole_4mm_Pad_TopOnly|
-|Hex ID (short code)|hexID|FZKHOLHOL4PADTOPONLY|
+|Hex ID (short code)|hexID|FZKHOLHOL4PTOPONLY|
 |name|name|MountingHole : MountingHole_4mm_Pad_TopOnly|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'MountingHole_4mm_Pad_TopOnly'</td><td> 'description'</td></tr><tr><td> 'Mounting Hole 4mm'</td><td> 'tags'</td></tr><tr><td> 'mounting hole 4mm'</td><td> 'attributeType'</td></tr><tr><td> None</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||

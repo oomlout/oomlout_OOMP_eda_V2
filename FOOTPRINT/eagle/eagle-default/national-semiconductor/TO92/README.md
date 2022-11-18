@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-national-semiconductor-TO92
 - Hex ID: FZENATIONALSEMICONDUCTORTO92
 - Name: national-semiconductor : TO92
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/national-semiconductor/TO92/
 - Description: national-semiconductor : TO92
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-national-semiconductor-TO92](http://oom.lt/FOOTPRINT-eagle-eagle-default-national-semiconductor-TO92)
 - Short Link: [http://oom.lt/FZENATIONALSEMICONDUCTORTO92](http://oom.lt/FZENATIONALSEMICONDUCTORTO92)

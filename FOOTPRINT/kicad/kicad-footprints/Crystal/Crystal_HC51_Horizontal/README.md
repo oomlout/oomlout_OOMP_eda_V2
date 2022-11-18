@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_HC51_Horizontal
 - Hex ID: FZKXXHC51H
 - Name: Crystal : Crystal_HC51_Horizontal
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_HC51_Horizontal/
 - Description: Crystal : Crystal_HC51_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_HC51_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_HC51_Horizontal)
 - Short Link: [http://oom.lt/FZKXXHC51H](http://oom.lt/FZKXXHC51H)

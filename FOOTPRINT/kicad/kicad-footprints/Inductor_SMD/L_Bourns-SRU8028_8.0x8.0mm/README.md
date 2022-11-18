@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Bourns-SRU8028_8.0x8.0mm
 - Hex ID: FZKINLBOURNSSRU8288X8
 - Name: Inductor_SMD : L_Bourns-SRU8028_8.0x8.0mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Bourns-SRU8028_8.0x8.0mm/
 - Description: Inductor_SMD : L_Bourns-SRU8028_8.0x8.0mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Bourns-SRU8028_8.0x8.0mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Bourns-SRU8028_8.0x8.0mm)
 - Short Link: [http://oom.lt/FZKINLBOURNSSRU8288X8](http://oom.lt/FZKINLBOURNSSRU8288X8)

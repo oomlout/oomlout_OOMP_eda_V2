@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-ADP2360xCP-5.0
 - Hex ID: SZKREGULATORSWINGADP236XCP5
 - Name: Regulator_Switching : ADP2360xCP-5.0
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/ADP2360xCP-5.0/
 - Description: Regulator_Switching : ADP2360xCP-5.0
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-ADP2360xCP-5.0](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-ADP2360xCP-5.0)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGADP236XCP5](http://oom.lt/SZKREGULATORSWINGADP236XCP5)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Driver_FET-NCV8402xST
 - Hex ID: SZKDRIVERFETNCV842XST
 - Name: Driver_FET : NCV8402xST
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Driver_FET/NCV8402xST/
 - Description: Driver_FET : NCV8402xST
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-NCV8402xST](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-NCV8402xST)
 - Short Link: [http://oom.lt/SZKDRIVERFETNCV842XST](http://oom.lt/SZKDRIVERFETNCV842XST)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Symbol-OSHW-Logo2_24.3x20mm_Copper
 - Hex ID: FZKSZOSHWL2243X2C
 - Name: Symbol : OSHW-Logo2_24.3x20mm_Copper
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Symbol/OSHW-Logo2_24.3x20mm_Copper/
 - Description: Symbol : OSHW-Logo2_24.3x20mm_Copper
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Symbol-OSHW-Logo2_24.3x20mm_Copper](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Symbol-OSHW-Logo2_24.3x20mm_Copper)
 - Short Link: [http://oom.lt/FZKSZOSHWL2243X2C](http://oom.lt/FZKSZOSHWL2243X2C)

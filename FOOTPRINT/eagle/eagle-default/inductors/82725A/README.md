@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEINDUCTORS82725A > inductors : 82725A](#fzeinductors82725a--inductors--82725a)
+* [FZEINS82725A > inductors : 82725A](#fzeins82725a--inductors--82725a)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEINDUCTORS82725A > inductors : 82725A
+# FZEINS82725A > inductors : 82725A
 
 - ID: FOOTPRINT-eagle-eagle-default-inductors-82725A
-- Hex ID: FZEINDUCTORS82725A
+- Hex ID: FZEINS82725A
 - Name: inductors : 82725A
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/inductors/82725A/
 - Description: inductors : 82725A
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-inductors-82725A](http://oom.lt/FOOTPRINT-eagle-eagle-default-inductors-82725A)
-- Short Link: [http://oom.lt/FZEINDUCTORS82725A](http://oom.lt/FZEINDUCTORS82725A)
+- Short Link: [http://oom.lt/FZEINS82725A](http://oom.lt/FZEINS82725A)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|inductors|
 |OOMP Index|oompIndex|82725A|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-inductors-82725A|
-|Hex ID (short code)|hexID|FZEINDUCTORS82725A|
+|Hex ID (short code)|hexID|FZEINS82725A|
 |name|name|inductors : 82725A|
 ||||

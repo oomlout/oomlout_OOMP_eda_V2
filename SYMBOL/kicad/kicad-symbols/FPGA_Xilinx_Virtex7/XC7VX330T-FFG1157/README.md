@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-FPGA_Xilinx_Virtex7-XC7VX330T-FFG1157
 - Hex ID: SZKFPGAXILINXVIRTEX7XC7VX33TFFG1157
 - Name: FPGA_Xilinx_Virtex7 : XC7VX330T-FFG1157
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/FPGA_Xilinx_Virtex7/XC7VX330T-FFG1157/
 - Description: FPGA_Xilinx_Virtex7 : XC7VX330T-FFG1157
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-FPGA_Xilinx_Virtex7-XC7VX330T-FFG1157](http://oom.lt/SYMBOL-kicad-kicad-symbols-FPGA_Xilinx_Virtex7-XC7VX330T-FFG1157)
 - Short Link: [http://oom.lt/SZKFPGAXILINXVIRTEX7XC7VX33TFFG1157](http://oom.lt/SZKFPGAXILINXVIRTEX7XC7VX33TFFG1157)

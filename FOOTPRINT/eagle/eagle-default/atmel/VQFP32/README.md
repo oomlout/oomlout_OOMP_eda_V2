@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-atmel-VQFP32
 - Hex ID: FZEATMELVQFP32
 - Name: atmel : VQFP32
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/atmel/VQFP32/
 - Description: atmel : VQFP32
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-atmel-VQFP32](http://oom.lt/FOOTPRINT-eagle-eagle-default-atmel-VQFP32)
 - Short Link: [http://oom.lt/FZEATMELVQFP32](http://oom.lt/FZEATMELVQFP32)

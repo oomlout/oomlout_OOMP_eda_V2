@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Texas_RGY_R-PVQFN-N24_EP2.05x3.1mm
 - Hex ID: FZKDFNTEXASRGYRPVQFNN24EP25X31
 - Name: Package_DFN_QFN : Texas_RGY_R-PVQFN-N24_EP2.05x3.1mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/Texas_RGY_R-PVQFN-N24_EP2.05x3.1mm/
 - Description: Package_DFN_QFN : Texas_RGY_R-PVQFN-N24_EP2.05x3.1mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Texas_RGY_R-PVQFN-N24_EP2.05x3.1mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Texas_RGY_R-PVQFN-N24_EP2.05x3.1mm)
 - Short Link: [http://oom.lt/FZKDFNTEXASRGYRPVQFNN24EP25X31](http://oom.lt/FZKDFNTEXASRGYRPVQFNN24EP25X31)

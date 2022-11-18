@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Connector-USB_B
 - Hex ID: SZKCNUB
 - Name: Connector : USB_B
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector/USB_B/
 - Description: Connector : USB_B
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-USB_B](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-USB_B)
 - Short Link: [http://oom.lt/SZKCNUB](http://oom.lt/SZKCNUB)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Capacitors-EIA7343
 - Hex ID: FZSCEIA7343
 - Name: SparkFun-Capacitors : EIA7343
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Capacitors/EIA7343/
 - Description: SparkFun-Capacitors : EIA7343
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Capacitors-EIA7343](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Capacitors-EIA7343)
 - Short Link: [http://oom.lt/FZSCEIA7343](http://oom.lt/FZSCEIA7343)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-on-semiconductor-MICRO8
 - Hex ID: FZEONSEMICONDUCTORM8
 - Name: on-semiconductor : MICRO8
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/on-semiconductor/MICRO8/
 - Description: on-semiconductor : MICRO8
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-on-semiconductor-MICRO8](http://oom.lt/FOOTPRINT-eagle-eagle-default-on-semiconductor-MICRO8)
 - Short Link: [http://oom.lt/FZEONSEMICONDUCTORM8](http://oom.lt/FZEONSEMICONDUCTORM8)

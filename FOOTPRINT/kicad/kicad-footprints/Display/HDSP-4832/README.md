@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Display-HDSP-4832
 - Hex ID: FZKDIHDSP4832
 - Name: Display : HDSP-4832
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Display/HDSP-4832/
 - Description: Display : HDSP-4832
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Display-HDSP-4832](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Display-HDSP-4832)
 - Short Link: [http://oom.lt/FZKDIHDSP4832](http://oom.lt/FZKDIHDSP4832)

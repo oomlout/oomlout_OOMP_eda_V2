@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-TLV75510PDRV
 - Hex ID: SZKREGULATORLINEARTLV7551PDRV
 - Name: Regulator_Linear : TLV75510PDRV
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/TLV75510PDRV/
 - Description: Regulator_Linear : TLV75510PDRV
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-TLV75510PDRV](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-TLV75510PDRV)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARTLV7551PDRV](http://oom.lt/SZKREGULATORLINEARTLV7551PDRV)

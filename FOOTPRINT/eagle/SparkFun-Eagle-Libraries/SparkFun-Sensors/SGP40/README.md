@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-SGP40
 - Hex ID: FZSSPARKFUNSENSSGP4
 - Name: SparkFun-Sensors : SGP40
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Sensors/SGP40/
 - Description: SparkFun-Sensors : SGP40
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-SGP40](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-SGP40)
 - Short Link: [http://oom.lt/FZSSPARKFUNSENSSGP4](http://oom.lt/FZSSPARKFUNSENSSGP4)

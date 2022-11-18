@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O391-67-R6391A
 - Hex ID: SZOOMPKOOMPPRESE63XO39167R6391A
 - Name: oomlout_OOMP_parts : RESE-0603-X-O391-67-R6391A
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/RESE-0603-X-O391-67-R6391A/
 - Description: oomlout_OOMP_parts : RESE-0603-X-O391-67-R6391A
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O391-67-R6391A](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O391-67-R6391A)
 - Short Link: [http://oom.lt/SZOOMPKOOMPPRESE63XO39167R6391A](http://oom.lt/SZOOMPKOOMPPRESE63XO39167R6391A)

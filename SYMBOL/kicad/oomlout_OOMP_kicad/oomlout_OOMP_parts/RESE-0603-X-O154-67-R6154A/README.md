@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O154-67-R6154A
 - Hex ID: SZOOMPKOOMPPRESE63XO15467R6154A
 - Name: oomlout_OOMP_parts : RESE-0603-X-O154-67-R6154A
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/RESE-0603-X-O154-67-R6154A/
 - Description: oomlout_OOMP_parts : RESE-0603-X-O154-67-R6154A
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O154-67-R6154A](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O154-67-R6154A)
 - Short Link: [http://oom.lt/SZOOMPKOOMPPRESE63XO15467R6154A](http://oom.lt/SZOOMPKOOMPPRESE63XO15467R6154A)

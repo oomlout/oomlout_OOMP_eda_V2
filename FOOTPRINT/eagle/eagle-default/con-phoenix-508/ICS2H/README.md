@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-phoenix-508-ICS2H
 - Hex ID: FZECONPHOENIX58ICS2H
 - Name: con-phoenix-508 : ICS2H
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-phoenix-508/ICS2H/
 - Description: con-phoenix-508 : ICS2H
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-phoenix-508-ICS2H](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-phoenix-508-ICS2H)
 - Short Link: [http://oom.lt/FZECONPHOENIX58ICS2H](http://oom.lt/FZECONPHOENIX58ICS2H)

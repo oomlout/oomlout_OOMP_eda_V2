@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-philips-semiconductors-DIL08
 - Hex ID: FZEPHILIPSSEMICONDUCTORSDIL8
 - Name: philips-semiconductors : DIL08
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/philips-semiconductors/DIL08/
 - Description: philips-semiconductors : DIL08
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-philips-semiconductors-DIL08](http://oom.lt/FOOTPRINT-eagle-eagle-default-philips-semiconductors-DIL08)
 - Short Link: [http://oom.lt/FZEPHILIPSSEMICONDUCTORSDIL8](http://oom.lt/FZEPHILIPSSEMICONDUCTORSDIL8)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_8051-AT89C2051-12P
 - Hex ID: SZKMCUMCHIP851AT89C25112P
 - Name: MCU_Microchip_8051 : AT89C2051-12P
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_8051/AT89C2051-12P/
 - Description: MCU_Microchip_8051 : AT89C2051-12P
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_8051-AT89C2051-12P](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_8051-AT89C2051-12P)
 - Short Link: [http://oom.lt/SZKMCUMCHIP851AT89C25112P](http://oom.lt/SZKMCUMCHIP851AT89C25112P)

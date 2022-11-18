@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-CQFP-44
 - Hex ID: FZACQFP44
 - Name: adafruit : CQFP-44
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/CQFP-44/
 - Description: adafruit : CQFP-44
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-CQFP-44](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-CQFP-44)
 - Short Link: [http://oom.lt/FZACQFP44](http://oom.lt/FZACQFP44)

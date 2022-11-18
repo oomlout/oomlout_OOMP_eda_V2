@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-LT1086-ADJ
 - Hex ID: SZKREGULATORLINEARLT186ADJ
 - Name: Regulator_Linear : LT1086-ADJ
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LT1086-ADJ/
 - Description: Regulator_Linear : LT1086-ADJ
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LT1086-ADJ](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LT1086-ADJ)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARLT186ADJ](http://oom.lt/SZKREGULATORLINEARLT186ADJ)

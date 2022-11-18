@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O270-67-R6270
 - Hex ID: SZOOMPKOOMPPRESE63XO2767R627
 - Name: oomlout_OOMP_parts : RESE-0603-X-O270-67-R6270
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/RESE-0603-X-O270-67-R6270/
 - Description: oomlout_OOMP_parts : RESE-0603-X-O270-67-R6270
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O270-67-R6270](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O270-67-R6270)
 - Short Link: [http://oom.lt/SZOOMPKOOMPPRESE63XO2767R627](http://oom.lt/SZOOMPKOOMPPRESE63XO2767R627)

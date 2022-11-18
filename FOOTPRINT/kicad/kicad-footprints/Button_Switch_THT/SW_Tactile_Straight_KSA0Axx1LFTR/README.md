@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Button_Switch_THT-SW_Tactile_Straight_KSA0Axx1LFTR
 - Hex ID: FZKBSWTSKSAAXX1LFTR
 - Name: Button_Switch_THT : SW_Tactile_Straight_KSA0Axx1LFTR
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/SW_Tactile_Straight_KSA0Axx1LFTR/
 - Description: Button_Switch_THT : SW_Tactile_Straight_KSA0Axx1LFTR
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Button_Switch_THT-SW_Tactile_Straight_KSA0Axx1LFTR](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Button_Switch_THT-SW_Tactile_Straight_KSA0Axx1LFTR)
 - Short Link: [http://oom.lt/FZKBSWTSKSAAXX1LFTR](http://oom.lt/FZKBSWTSKSAAXX1LFTR)

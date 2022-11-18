@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O305-01-R6O305
 - Hex ID: SZOOMPKOOMPPRESE63XO351R6O35
 - Name: oomlout_OOMP_parts : RESE-0603-X-O305-01-R6O305
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/RESE-0603-X-O305-01-R6O305/
 - Description: oomlout_OOMP_parts : RESE-0603-X-O305-01-R6O305
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O305-01-R6O305](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O305-01-R6O305)
 - Short Link: [http://oom.lt/SZOOMPKOOMPPRESE63XO351R6O35](http://oom.lt/SZOOMPKOOMPPRESE63XO351R6O35)

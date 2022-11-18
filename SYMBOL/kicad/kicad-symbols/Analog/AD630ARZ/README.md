@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Analog-AD630ARZ
 - Hex ID: SZKANALOGAD63ARZ
 - Name: Analog : AD630ARZ
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog/AD630ARZ/
 - Description: Analog : AD630ARZ
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog-AD630ARZ](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog-AD630ARZ)
 - Short Link: [http://oom.lt/SZKANALOGAD63ARZ](http://oom.lt/SZKANALOGAD63ARZ)

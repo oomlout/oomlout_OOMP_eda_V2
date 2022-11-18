@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-PMEG6002EJ
 - Hex ID: SZKDIODEPMEG62EJ
 - Name: Diode : PMEG6002EJ
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/PMEG6002EJ/
 - Description: Diode : PMEG6002EJ
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-PMEG6002EJ](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-PMEG6002EJ)
 - Short Link: [http://oom.lt/SZKDIODEPMEG62EJ](http://oom.lt/SZKDIODEPMEG62EJ)

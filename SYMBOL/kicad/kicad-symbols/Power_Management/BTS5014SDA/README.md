@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Power_Management-BTS5014SDA
 - Hex ID: SZKPOWERMANAGEMENTBTS514SDA
 - Name: Power_Management : BTS5014SDA
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Power_Management/BTS5014SDA/
 - Description: Power_Management : BTS5014SDA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-BTS5014SDA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-BTS5014SDA)
 - Short Link: [http://oom.lt/SZKPOWERMANAGEMENTBTS514SDA](http://oom.lt/SZKPOWERMANAGEMENTBTS514SDA)

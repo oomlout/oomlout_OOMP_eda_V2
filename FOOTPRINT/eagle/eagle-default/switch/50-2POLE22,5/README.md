@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-switch-50-2POLE22,5
 - Hex ID: FZESW52POLE225
 - Name: switch : 50-2POLE22,5
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/switch/50-2POLE22,5/
 - Description: switch : 50-2POLE22,5
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-50-2POLE22,5](http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-50-2POLE22,5)
 - Short Link: [http://oom.lt/FZESW52POLE225](http://oom.lt/FZESW52POLE225)

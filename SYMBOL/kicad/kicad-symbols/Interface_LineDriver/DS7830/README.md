@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_LineDriver-DS7830
 - Hex ID: SZKINTERFACELINEDRIVERDS783
 - Name: Interface_LineDriver : DS7830
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_LineDriver/DS7830/
 - Description: Interface_LineDriver : DS7830
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_LineDriver-DS7830](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_LineDriver-DS7830)
 - Short Link: [http://oom.lt/SZKINTERFACELINEDRIVERDS783](http://oom.lt/SZKINTERFACELINEDRIVERDS783)

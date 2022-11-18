@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Current-INA138
 - Hex ID: SZKAMPLIFIERCURRENTINA138
 - Name: Amplifier_Current : INA138
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Current/INA138/
 - Description: Amplifier_Current : INA138
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Current-INA138](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Current-INA138)
 - Short Link: [http://oom.lt/SZKAMPLIFIERCURRENTINA138](http://oom.lt/SZKAMPLIFIERCURRENTINA138)

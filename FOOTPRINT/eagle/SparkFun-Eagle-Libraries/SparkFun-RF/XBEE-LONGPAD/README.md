@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZSRFXBEELONGPAD > SparkFun-RF : XBEE-LONGPAD](#fzsrfxbeelongpad--sparkfun-rf--xbee-longpad)
+* [FZSRFXBEELP > SparkFun-RF : XBEE-LONGPAD](#fzsrfxbeelp--sparkfun-rf--xbee-longpad)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZSRFXBEELONGPAD > SparkFun-RF : XBEE-LONGPAD
+# FZSRFXBEELP > SparkFun-RF : XBEE-LONGPAD
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-XBEE-LONGPAD
-- Hex ID: FZSRFXBEELONGPAD
+- Hex ID: FZSRFXBEELP
 - Name: SparkFun-RF : XBEE-LONGPAD
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-RF/XBEE-LONGPAD/
 - Description: SparkFun-RF : XBEE-LONGPAD
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-XBEE-LONGPAD](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-XBEE-LONGPAD)
-- Short Link: [http://oom.lt/FZSRFXBEELONGPAD](http://oom.lt/FZSRFXBEELONGPAD)
+- Short Link: [http://oom.lt/FZSRFXBEELP](http://oom.lt/FZSRFXBEELP)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|SparkFun-RF|
 |OOMP Index|oompIndex|XBEE-LONGPAD|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-XBEE-LONGPAD|
-|Hex ID (short code)|hexID|FZSRFXBEELONGPAD|
+|Hex ID (short code)|hexID|FZSRFXBEELP|
 |name|name|SparkFun-RF : XBEE-LONGPAD|
 ||||

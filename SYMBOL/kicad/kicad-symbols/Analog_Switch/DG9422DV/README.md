@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Analog_Switch-DG9422DV
 - Hex ID: SZKANALOGSWDG9422DV
 - Name: Analog_Switch : DG9422DV
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog_Switch/DG9422DV/
 - Description: Analog_Switch : DG9422DV
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_Switch-DG9422DV](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_Switch-DG9422DV)
 - Short Link: [http://oom.lt/SZKANALOGSWDG9422DV](http://oom.lt/SZKANALOGSWDG9422DV)

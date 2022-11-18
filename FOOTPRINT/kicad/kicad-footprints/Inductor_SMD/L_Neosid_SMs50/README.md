@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Neosid_SMs50
 - Hex ID: FZKINLNEOSIDSMS5
 - Name: Inductor_SMD : L_Neosid_SMs50
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Neosid_SMs50/
 - Description: Inductor_SMD : L_Neosid_SMs50
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Neosid_SMs50](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Neosid_SMs50)
 - Short Link: [http://oom.lt/FZKINLNEOSIDSMS5](http://oom.lt/FZKINLNEOSIDSMS5)

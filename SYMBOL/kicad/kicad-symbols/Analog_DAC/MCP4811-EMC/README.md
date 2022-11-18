@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Analog_DAC-MCP4811-EMC
 - Hex ID: SZKANALOGDACMCP4811EMC
 - Name: Analog_DAC : MCP4811-EMC
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog_DAC/MCP4811-EMC/
 - Description: Analog_DAC : MCP4811-EMC
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_DAC-MCP4811-EMC](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_DAC-MCP4811-EMC)
 - Short Link: [http://oom.lt/SZKANALOGDACMCP4811EMC](http://oom.lt/SZKANALOGDACMCP4811EMC)

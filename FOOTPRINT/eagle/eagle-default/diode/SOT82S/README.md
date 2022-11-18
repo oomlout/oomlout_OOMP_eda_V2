@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-diode-SOT82S
 - Hex ID: FZEDIODESOT82S
 - Name: diode : SOT82S
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/diode/SOT82S/
 - Description: diode : SOT82S
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-diode-SOT82S](http://oom.lt/FOOTPRINT-eagle-eagle-default-diode-SOT82S)
 - Short Link: [http://oom.lt/FZEDIODESOT82S](http://oom.lt/FZEDIODESOT82S)

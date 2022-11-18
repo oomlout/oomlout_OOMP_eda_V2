@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-JUDCOSPST
 - Hex ID: FZAJUDCOSPST
 - Name: adafruit : JUDCOSPST
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/JUDCOSPST/
 - Description: adafruit : JUDCOSPST
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-JUDCOSPST](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-JUDCOSPST)
 - Short Link: [http://oom.lt/FZAJUDCOSPST](http://oom.lt/FZAJUDCOSPST)

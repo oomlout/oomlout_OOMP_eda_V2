@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-relay-AQY27-SMD04
 - Hex ID: FZERELAYAQY27SM4
 - Name: relay : AQY27-SMD04
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/relay/AQY27-SMD04/
 - Description: relay : AQY27-SMD04
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-AQY27-SMD04](http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-AQY27-SMD04)
 - Short Link: [http://oom.lt/FZERELAYAQY27SM4](http://oom.lt/FZERELAYAQY27SM4)

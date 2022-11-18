@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Heatsink-Heatsink_125x35x50mm_3xFixationM3
 - Hex ID: FZKHH125X35X53XFIXATIONM3
 - Name: Heatsink : Heatsink_125x35x50mm_3xFixationM3
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Heatsink/Heatsink_125x35x50mm_3xFixationM3/
 - Description: Heatsink : Heatsink_125x35x50mm_3xFixationM3
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Heatsink-Heatsink_125x35x50mm_3xFixationM3](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Heatsink-Heatsink_125x35x50mm_3xFixationM3)
 - Short Link: [http://oom.lt/FZKHH125X35X53XFIXATIONM3](http://oom.lt/FZKHH125X35X53XFIXATIONM3)

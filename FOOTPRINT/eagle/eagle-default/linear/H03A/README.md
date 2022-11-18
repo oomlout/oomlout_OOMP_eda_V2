@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-linear-H03A
 - Hex ID: FZELINEARH3A
 - Name: linear : H03A
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/linear/H03A/
 - Description: linear : H03A
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-linear-H03A](http://oom.lt/FOOTPRINT-eagle-eagle-default-linear-H03A)
 - Short Link: [http://oom.lt/FZELINEARH3A](http://oom.lt/FZELINEARH3A)

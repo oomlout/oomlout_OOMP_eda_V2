@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Power_Supervisor-TPS3839DBZ
 - Hex ID: SZKPOWERSUPERVISORTPS3839DBZ
 - Name: Power_Supervisor : TPS3839DBZ
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Power_Supervisor/TPS3839DBZ/
 - Description: Power_Supervisor : TPS3839DBZ
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Supervisor-TPS3839DBZ](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Supervisor-TPS3839DBZ)
 - Short Link: [http://oom.lt/SZKPOWERSUPERVISORTPS3839DBZ](http://oom.lt/SZKPOWERSUPERVISORTPS3839DBZ)

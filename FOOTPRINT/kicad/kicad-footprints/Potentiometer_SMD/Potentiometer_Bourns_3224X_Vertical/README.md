@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Potentiometer_SMD-Potentiometer_Bourns_3224X_Vertical
 - Hex ID: FZKPPOTBOURNS3224XF
 - Name: Potentiometer_SMD : Potentiometer_Bourns_3224X_Vertical
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Potentiometer_SMD/Potentiometer_Bourns_3224X_Vertical/
 - Description: Potentiometer_SMD : Potentiometer_Bourns_3224X_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Potentiometer_SMD-Potentiometer_Bourns_3224X_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Potentiometer_SMD-Potentiometer_Bourns_3224X_Vertical)
 - Short Link: [http://oom.lt/FZKPPOTBOURNS3224XF](http://oom.lt/FZKPPOTBOURNS3224XF)

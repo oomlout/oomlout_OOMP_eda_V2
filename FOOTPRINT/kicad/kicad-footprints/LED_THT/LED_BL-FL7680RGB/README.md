@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-LED_THT-LED_BL-FL7680RGB
 - Hex ID: FZKLLBLFL768RGB
 - Name: LED_THT : LED_BL-FL7680RGB
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/LED_THT/LED_BL-FL7680RGB/
 - Description: LED_THT : LED_BL-FL7680RGB
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-LED_THT-LED_BL-FL7680RGB](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-LED_THT-LED_BL-FL7680RGB)
 - Short Link: [http://oom.lt/FZKLLBLFL768RGB](http://oom.lt/FZKLLBLFL768RGB)

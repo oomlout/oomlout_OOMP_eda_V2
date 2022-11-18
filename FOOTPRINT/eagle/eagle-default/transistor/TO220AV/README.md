@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-transistor-TO220AV
 - Hex ID: FZETRANSISTORTO22AV
 - Name: transistor : TO220AV
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/transistor/TO220AV/
 - Description: transistor : TO220AV
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-TO220AV](http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-TO220AV)
 - Short Link: [http://oom.lt/FZETRANSISTORTO22AV](http://oom.lt/FZETRANSISTORTO22AV)

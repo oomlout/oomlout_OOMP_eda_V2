@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-national-semiconductor-SOT223
 - Hex ID: FZENATIONALSEMICONDUCTORSOT223
 - Name: national-semiconductor : SOT223
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/national-semiconductor/SOT223/
 - Description: national-semiconductor : SOT223
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-national-semiconductor-SOT223](http://oom.lt/FOOTPRINT-eagle-eagle-default-national-semiconductor-SOT223)
 - Short Link: [http://oom.lt/FZENATIONALSEMICONDUCTORSOT223](http://oom.lt/FZENATIONALSEMICONDUCTORSOT223)

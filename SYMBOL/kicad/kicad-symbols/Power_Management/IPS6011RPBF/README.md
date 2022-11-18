@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Power_Management-IPS6011RPBF
 - Hex ID: SZKPOWERMANAGEMENTIPS611RPBF
 - Name: Power_Management : IPS6011RPBF
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Power_Management/IPS6011RPBF/
 - Description: Power_Management : IPS6011RPBF
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-IPS6011RPBF](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-IPS6011RPBF)
 - Short Link: [http://oom.lt/SZKPOWERMANAGEMENTIPS611RPBF](http://oom.lt/SZKPOWERMANAGEMENTIPS611RPBF)

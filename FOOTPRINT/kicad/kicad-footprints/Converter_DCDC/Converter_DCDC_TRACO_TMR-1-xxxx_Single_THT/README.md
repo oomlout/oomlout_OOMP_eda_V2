@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Converter_DCDC-Converter_DCDC_TRACO_TMR-1-xxxx_Single_THT
 - Hex ID: FZKCONCONTRACOTMR1XXXXSINGLETHT
 - Name: Converter_DCDC : Converter_DCDC_TRACO_TMR-1-xxxx_Single_THT
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Converter_DCDC/Converter_DCDC_TRACO_TMR-1-xxxx_Single_THT/
 - Description: Converter_DCDC : Converter_DCDC_TRACO_TMR-1-xxxx_Single_THT
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Converter_DCDC-Converter_DCDC_TRACO_TMR-1-xxxx_Single_THT](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Converter_DCDC-Converter_DCDC_TRACO_TMR-1-xxxx_Single_THT)
 - Short Link: [http://oom.lt/FZKCONCONTRACOTMR1XXXXSINGLETHT](http://oom.lt/FZKCONCONTRACOTMR1XXXXSINGLETHT)

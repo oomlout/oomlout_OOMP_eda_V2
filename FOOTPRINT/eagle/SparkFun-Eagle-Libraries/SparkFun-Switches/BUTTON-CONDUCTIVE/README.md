@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Switches-BUTTON-CONDUCTIVE
 - Hex ID: FZSWBCONDUCTIVE
 - Name: SparkFun-Switches : BUTTON-CONDUCTIVE
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Switches/BUTTON-CONDUCTIVE/
 - Description: SparkFun-Switches : BUTTON-CONDUCTIVE
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Switches-BUTTON-CONDUCTIVE](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Switches-BUTTON-CONDUCTIVE)
 - Short Link: [http://oom.lt/FZSWBCONDUCTIVE](http://oom.lt/FZSWBCONDUCTIVE)

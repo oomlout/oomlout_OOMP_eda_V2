@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-linear-technology-QFN3X3-16
 - Hex ID: FZELINEARTECHNOLOGYQFN3X316
 - Name: linear-technology : QFN3X3-16
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/linear-technology/QFN3X3-16/
 - Description: linear-technology : QFN3X3-16
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-linear-technology-QFN3X3-16](http://oom.lt/FOOTPRINT-eagle-eagle-default-linear-technology-QFN3X3-16)
 - Short Link: [http://oom.lt/FZELINEARTECHNOLOGYQFN3X316](http://oom.lt/FZELINEARTECHNOLOGYQFN3X316)

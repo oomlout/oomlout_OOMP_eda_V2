@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-USB-MINIB-THM-MOLEX-PWRONLY
 - Hex ID: FZAUMBTMX
 - Name: adafruit : USB-MINIB-THM-MOLEX-PWRONLY
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/USB-MINIB-THM-MOLEX-PWRONLY/
 - Description: adafruit : USB-MINIB-THM-MOLEX-PWRONLY
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-USB-MINIB-THM-MOLEX-PWRONLY](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-USB-MINIB-THM-MOLEX-PWRONLY)
 - Short Link: [http://oom.lt/FZAUMBTMX](http://oom.lt/FZAUMBTMX)

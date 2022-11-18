@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-TO-220F-4_P5.08x2.05mm_StaggerEven_Lead1.85mm_Vertical
 - Hex ID: FZKSOTTO22F4P58X25STAGGEREVENLEAD185F
 - Name: Package_TO_SOT_THT : TO-220F-4_P5.08x2.05mm_StaggerEven_Lead1.85mm_Vertical
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_THT/TO-220F-4_P5.08x2.05mm_StaggerEven_Lead1.85mm_Vertical/
 - Description: Package_TO_SOT_THT : TO-220F-4_P5.08x2.05mm_StaggerEven_Lead1.85mm_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-TO-220F-4_P5.08x2.05mm_StaggerEven_Lead1.85mm_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-TO-220F-4_P5.08x2.05mm_StaggerEven_Lead1.85mm_Vertical)
 - Short Link: [http://oom.lt/FZKSOTTO22F4P58X25STAGGEREVENLEAD185F](http://oom.lt/FZKSOTTO22F4P58X25STAGGEREVENLEAD185F)

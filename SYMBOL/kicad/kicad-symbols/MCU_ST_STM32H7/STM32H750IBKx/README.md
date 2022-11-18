@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_ST_STM32H7-STM32H750IBKx
 - Hex ID: SZKMCUSTSTM32H7STM32H75IBKX
 - Name: MCU_ST_STM32H7 : STM32H750IBKx
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32H7/STM32H750IBKx/
 - Description: MCU_ST_STM32H7 : STM32H750IBKx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32H7-STM32H750IBKx](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32H7-STM32H750IBKx)
 - Short Link: [http://oom.lt/SZKMCUSTSTM32H7STM32H75IBKX](http://oom.lt/SZKMCUSTSTM32H7STM32H75IBKX)

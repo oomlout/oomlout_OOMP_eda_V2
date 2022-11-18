@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-NVC8674DS50
 - Hex ID: SZKREGULATORLINEARNVC8674DS5
 - Name: Regulator_Linear : NVC8674DS50
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/NVC8674DS50/
 - Description: Regulator_Linear : NVC8674DS50
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-NVC8674DS50](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-NVC8674DS50)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARNVC8674DS5](http://oom.lt/SZKREGULATORLINEARNVC8674DS5)

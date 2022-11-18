@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Power_Management-HF81
 - Hex ID: SZKPOWERMANAGEMENTHF81
 - Name: Power_Management : HF81
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Power_Management/HF81/
 - Description: Power_Management : HF81
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-HF81](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-HF81)
 - Short Link: [http://oom.lt/SZKPOWERMANAGEMENTHF81](http://oom.lt/SZKPOWERMANAGEMENTHF81)

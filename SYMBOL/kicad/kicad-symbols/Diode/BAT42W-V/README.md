@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-BAT42W-V
 - Hex ID: SZKDIODEBAT42WV
 - Name: Diode : BAT42W-V
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/BAT42W-V/
 - Description: Diode : BAT42W-V
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-BAT42W-V](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-BAT42W-V)
 - Short Link: [http://oom.lt/SZKDIODEBAT42WV](http://oom.lt/SZKDIODEBAT42WV)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-I01-X-PI2X13-RS-HRS2X13
 - Hex ID: SZOOMPKOOMPPHEADI1XPI2X13RSHRS2X13
 - Name: oomlout_OOMP_parts : HEAD-I01-X-PI2X13-RS-HRS2X13
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/HEAD-I01-X-PI2X13-RS-HRS2X13/
 - Description: oomlout_OOMP_parts : HEAD-I01-X-PI2X13-RS-HRS2X13
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-I01-X-PI2X13-RS-HRS2X13](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-I01-X-PI2X13-RS-HRS2X13)
 - Short Link: [http://oom.lt/SZOOMPKOOMPPHEADI1XPI2X13RSHRS2X13](http://oom.lt/SZOOMPKOOMPPHEADI1XPI2X13RSHRS2X13)

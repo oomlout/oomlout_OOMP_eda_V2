@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Displays-SILSMART_DISPLAY
 - Hex ID: FZSSPARKFUNDISSILSRTDI
 - Name: SparkFun-Displays : SILSMART_DISPLAY
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Displays/SILSMART_DISPLAY/
 - Description: SparkFun-Displays : SILSMART_DISPLAY
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Displays-SILSMART_DISPLAY](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Displays-SILSMART_DISPLAY)
 - Short Link: [http://oom.lt/FZSSPARKFUNDISSILSRTDI](http://oom.lt/FZSSPARKFUNDISSILSRTDI)

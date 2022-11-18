@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Diode_THT-D_DO-41_SOD81_P7.62mm_Horizontal
 - Hex ID: FZKDDDO41SOD81P762H
 - Name: Diode_THT : D_DO-41_SOD81_P7.62mm_Horizontal
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Diode_THT/D_DO-41_SOD81_P7.62mm_Horizontal/
 - Description: Diode_THT : D_DO-41_SOD81_P7.62mm_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Diode_THT-D_DO-41_SOD81_P7.62mm_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Diode_THT-D_DO-41_SOD81_P7.62mm_Horizontal)
 - Short Link: [http://oom.lt/FZKDDDO41SOD81P762H](http://oom.lt/FZKDDDO41SOD81P762H)

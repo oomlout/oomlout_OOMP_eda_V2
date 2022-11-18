@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Battery_Management-BQ24133RGY
 - Hex ID: SZKBATMANAGEMENTBQ24133RGY
 - Name: Battery_Management : BQ24133RGY
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Battery_Management/BQ24133RGY/
 - Description: Battery_Management : BQ24133RGY
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Battery_Management-BQ24133RGY](http://oom.lt/SYMBOL-kicad-kicad-symbols-Battery_Management-BQ24133RGY)
 - Short Link: [http://oom.lt/SZKBATMANAGEMENTBQ24133RGY](http://oom.lt/SZKBATMANAGEMENTBQ24133RGY)

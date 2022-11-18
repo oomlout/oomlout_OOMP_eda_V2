@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0805-X-NF20-V50-C8N20-C5378
 - Hex ID: FZOOMPKJLCCAPC85XNF2V5C8N2C5378
 - Name: oomlout_OOMP_JLCC_Basic : CAPC-0805-X-NF20-V50-C8N20-C5378
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_JLCC_Basic/CAPC-0805-X-NF20-V50-C8N20-C5378/
 - Description: oomlout_OOMP_JLCC_Basic : CAPC-0805-X-NF20-V50-C8N20-C5378
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0805-X-NF20-V50-C8N20-C5378](http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0805-X-NF20-V50-C8N20-C5378)
 - Short Link: [http://oom.lt/FZOOMPKJLCCAPC85XNF2V5C8N2C5378](http://oom.lt/FZOOMPKJLCCAPC85XNF2V5C8N2C5378)

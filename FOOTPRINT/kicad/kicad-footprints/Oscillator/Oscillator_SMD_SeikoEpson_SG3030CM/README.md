@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Oscillator-Oscillator_SMD_SeikoEpson_SG3030CM
 - Hex ID: FZKOCSOCSSMSEIKOEPSONSG33CM
 - Name: Oscillator : Oscillator_SMD_SeikoEpson_SG3030CM
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Oscillator/Oscillator_SMD_SeikoEpson_SG3030CM/
 - Description: Oscillator : Oscillator_SMD_SeikoEpson_SG3030CM
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Oscillator-Oscillator_SMD_SeikoEpson_SG3030CM](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Oscillator-Oscillator_SMD_SeikoEpson_SG3030CM)
 - Short Link: [http://oom.lt/FZKOCSOCSSMSEIKOEPSONSG33CM](http://oom.lt/FZKOCSOCSSMSEIKOEPSONSG33CM)

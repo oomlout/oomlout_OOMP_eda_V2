@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-FPGA_Lattice-ICE5LP1K-SG48
 - Hex ID: SZKFPGALATTICEICE5LP1KSG48
 - Name: FPGA_Lattice : ICE5LP1K-SG48
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/FPGA_Lattice/ICE5LP1K-SG48/
 - Description: FPGA_Lattice : ICE5LP1K-SG48
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-FPGA_Lattice-ICE5LP1K-SG48](http://oom.lt/SYMBOL-kicad-kicad-symbols-FPGA_Lattice-ICE5LP1K-SG48)
 - Short Link: [http://oom.lt/SZKFPGALATTICEICE5LP1KSG48](http://oom.lt/SZKFPGALATTICEICE5LP1KSG48)

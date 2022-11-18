@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface-TB5R2D
 - Hex ID: SZKINTERFACETB5R2D
 - Name: Interface : TB5R2D
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface/TB5R2D/
 - Description: Interface : TB5R2D
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-TB5R2D](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-TB5R2D)
 - Short Link: [http://oom.lt/SZKINTERFACETB5R2D](http://oom.lt/SZKINTERFACETB5R2D)

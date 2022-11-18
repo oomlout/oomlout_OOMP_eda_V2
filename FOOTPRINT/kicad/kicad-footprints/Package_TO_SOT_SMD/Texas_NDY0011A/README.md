@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-Texas_NDY0011A
 - Hex ID: FZKSOTTEXASNDY11A
 - Name: Package_TO_SOT_SMD : Texas_NDY0011A
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/Texas_NDY0011A/
 - Description: Package_TO_SOT_SMD : Texas_NDY0011A
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-Texas_NDY0011A](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-Texas_NDY0011A)
 - Short Link: [http://oom.lt/FZKSOTTEXASNDY11A](http://oom.lt/FZKSOTTEXASNDY11A)

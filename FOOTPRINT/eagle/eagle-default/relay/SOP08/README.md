@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-relay-SOP08
 - Hex ID: FZERELAYS8
 - Name: relay : SOP08
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/relay/SOP08/
 - Description: relay : SOP08
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-SOP08](http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-SOP08)
 - Short Link: [http://oom.lt/FZERELAYS8](http://oom.lt/FZERELAYS8)

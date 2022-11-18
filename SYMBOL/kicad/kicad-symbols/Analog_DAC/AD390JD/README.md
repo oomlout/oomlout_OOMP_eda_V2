@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Analog_DAC-AD390JD
 - Hex ID: SZKANALOGDACAD39JD
 - Name: Analog_DAC : AD390JD
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog_DAC/AD390JD/
 - Description: Analog_DAC : AD390JD
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_DAC-AD390JD](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_DAC-AD390JD)
 - Short Link: [http://oom.lt/SZKANALOGDACAD39JD](http://oom.lt/SZKANALOGDACAD39JD)

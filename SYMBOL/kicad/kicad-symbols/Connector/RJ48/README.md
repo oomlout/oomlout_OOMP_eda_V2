@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Connector-RJ48
 - Hex ID: SZKCNRJ48
 - Name: Connector : RJ48
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector/RJ48/
 - Description: Connector : RJ48
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-RJ48](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-RJ48)
 - Short Link: [http://oom.lt/SZKCNRJ48](http://oom.lt/SZKCNRJ48)

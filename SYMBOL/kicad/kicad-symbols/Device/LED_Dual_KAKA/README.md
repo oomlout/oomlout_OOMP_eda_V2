@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Device-LED_Dual_KAKA
 - Hex ID: SZKDEVICELDUALKAKA
 - Name: Device : LED_Dual_KAKA
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/LED_Dual_KAKA/
 - Description: Device : LED_Dual_KAKA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-LED_Dual_KAKA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-LED_Dual_KAKA)
 - Short Link: [http://oom.lt/SZKDEVICELDUALKAKA](http://oom.lt/SZKDEVICELDUALKAKA)

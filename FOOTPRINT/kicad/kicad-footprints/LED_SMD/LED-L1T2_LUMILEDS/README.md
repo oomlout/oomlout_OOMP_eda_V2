@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED-L1T2_LUMILEDS
 - Hex ID: FZKLLL1T2LUMS
 - Name: LED_SMD : LED-L1T2_LUMILEDS
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED-L1T2_LUMILEDS/
 - Description: LED_SMD : LED-L1T2_LUMILEDS
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED-L1T2_LUMILEDS](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED-L1T2_LUMILEDS)
 - Short Link: [http://oom.lt/FZKLLL1T2LUMS](http://oom.lt/FZKLLL1T2LUMS)

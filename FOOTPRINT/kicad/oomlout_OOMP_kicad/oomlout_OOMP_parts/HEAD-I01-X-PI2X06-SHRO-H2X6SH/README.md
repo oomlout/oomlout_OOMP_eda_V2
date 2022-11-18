@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-I01-X-PI2X06-SHRO-H2X6SH
 - Hex ID: FZOOMPKOOMPPHEADI1XPI2X6SHROH2X6SH
 - Name: oomlout_OOMP_parts : HEAD-I01-X-PI2X06-SHRO-H2X6SH
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/HEAD-I01-X-PI2X06-SHRO-H2X6SH/
 - Description: oomlout_OOMP_parts : HEAD-I01-X-PI2X06-SHRO-H2X6SH
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-I01-X-PI2X06-SHRO-H2X6SH](http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-I01-X-PI2X06-SHRO-H2X6SH)
 - Short Link: [http://oom.lt/FZOOMPKOOMPPHEADI1XPI2X6SHROH2X6SH](http://oom.lt/FZOOMPKOOMPPHEADI1XPI2X6SHROH2X6SH)

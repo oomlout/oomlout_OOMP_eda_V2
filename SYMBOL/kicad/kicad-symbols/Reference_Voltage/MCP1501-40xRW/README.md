@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Reference_Voltage-MCP1501-40xRW
 - Hex ID: SZKREFERENCEVOLTAGEMCP1514XRW
 - Name: Reference_Voltage : MCP1501-40xRW
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Reference_Voltage/MCP1501-40xRW/
 - Description: Reference_Voltage : MCP1501-40xRW
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Voltage-MCP1501-40xRW](http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Voltage-MCP1501-40xRW)
 - Short Link: [http://oom.lt/SZKREFERENCEVOLTAGEMCP1514XRW](http://oom.lt/SZKREFERENCEVOLTAGEMCP1514XRW)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-WIFI_Module_WF111-E-V1
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSWIFIMOWF111EV1
 - Name: digikey-footprints : WIFI_Module_WF111-E-V1
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/WIFI_Module_WF111-E-V1/
 - Description: digikey-footprints : WIFI_Module_WF111-E-V1
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-WIFI_Module_WF111-E-V1](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-WIFI_Module_WF111-E-V1)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSWIFIMOWF111EV1](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSWIFIMOWF111EV1)

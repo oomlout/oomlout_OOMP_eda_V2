@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-RF_GPS-ublox_NEO
 - Hex ID: FZKGPSUBLOXNEO
 - Name: RF_GPS : ublox_NEO
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/RF_GPS/ublox_NEO/
 - Description: RF_GPS : ublox_NEO
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_GPS-ublox_NEO](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_GPS-ublox_NEO)
 - Short Link: [http://oom.lt/FZKGPSUBLOXNEO](http://oom.lt/FZKGPSUBLOXNEO)

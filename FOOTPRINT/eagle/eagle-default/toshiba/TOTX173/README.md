@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-toshiba-TOTX173
 - Hex ID: FZETOSHIBATOTX173
 - Name: toshiba : TOTX173
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/toshiba/TOTX173/
 - Description: toshiba : TOTX173
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-toshiba-TOTX173](http://oom.lt/FOOTPRINT-eagle-eagle-default-toshiba-TOTX173)
 - Short Link: [http://oom.lt/FZETOSHIBATOTX173](http://oom.lt/FZETOSHIBATOTX173)

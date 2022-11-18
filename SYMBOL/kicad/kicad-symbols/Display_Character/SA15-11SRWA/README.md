@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Display_Character-SA15-11SRWA
 - Hex ID: SZKDICHARACTERSA1511SRWA
 - Name: Display_Character : SA15-11SRWA
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Display_Character/SA15-11SRWA/
 - Description: Display_Character : SA15-11SRWA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-SA15-11SRWA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-SA15-11SRWA)
 - Short Link: [http://oom.lt/SZKDICHARACTERSA1511SRWA](http://oom.lt/SZKDICHARACTERSA1511SRWA)

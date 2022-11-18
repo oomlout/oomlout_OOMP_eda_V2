@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_BarrelJack-BarrelJack_GCT_DCJ200-10-A_Horizontal
 - Hex ID: FZKCNBARRELJBARRELJGCTDCJ21AH
 - Name: Connector_BarrelJack : BarrelJack_GCT_DCJ200-10-A_Horizontal
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_BarrelJack/BarrelJack_GCT_DCJ200-10-A_Horizontal/
 - Description: Connector_BarrelJack : BarrelJack_GCT_DCJ200-10-A_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_BarrelJack-BarrelJack_GCT_DCJ200-10-A_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_BarrelJack-BarrelJack_GCT_DCJ200-10-A_Horizontal)
 - Short Link: [http://oom.lt/FZKCNBARRELJBARRELJGCTDCJ21AH](http://oom.lt/FZKCNBARRELJBARRELJGCTDCJ21AH)

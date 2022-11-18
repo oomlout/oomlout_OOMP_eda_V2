@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-W04-X-O470-01-R4470
 - Hex ID: SZOOMPKOOMPPRESEW4XO471R447
 - Name: oomlout_OOMP_parts : RESE-W04-X-O470-01-R4470
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/RESE-W04-X-O470-01-R4470/
 - Description: oomlout_OOMP_parts : RESE-W04-X-O470-01-R4470
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-W04-X-O470-01-R4470](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-W04-X-O470-01-R4470)
 - Short Link: [http://oom.lt/SZOOMPKOOMPPRESEW4XO471R447](http://oom.lt/SZOOMPKOOMPPRESEW4XO471R447)

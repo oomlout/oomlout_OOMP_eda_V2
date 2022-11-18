@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_Expansion-PCF8584
 - Hex ID: SZKINTERFACEEXPANSIONPCF8584
 - Name: Interface_Expansion : PCF8584
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_Expansion/PCF8584/
 - Description: Interface_Expansion : PCF8584
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Expansion-PCF8584](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Expansion-PCF8584)
 - Short Link: [http://oom.lt/SZKINTERFACEEXPANSIONPCF8584](http://oom.lt/SZKINTERFACEEXPANSIONPCF8584)

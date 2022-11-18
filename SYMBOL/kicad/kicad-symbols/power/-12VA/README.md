@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-power--12VA
 - Hex ID: SZKPOWER12VA
 - Name: power : -12VA
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/power/-12VA/
 - Description: power : -12VA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-power--12VA](http://oom.lt/SYMBOL-kicad-kicad-symbols-power--12VA)
 - Short Link: [http://oom.lt/SZKPOWER12VA](http://oom.lt/SZKPOWER12VA)

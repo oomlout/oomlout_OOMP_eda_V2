@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEREFPACKAGESLONGPADZDIO75 > ref-packages-longpad : ZDIO-7.5](#fzerefpackageslongpadzdio75--ref-packages-longpad--zdio-75)
+* [FZEREFPSLPZDIO75 > ref-packages-longpad : ZDIO-7.5](#fzerefpslpzdio75--ref-packages-longpad--zdio-75)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEREFPACKAGESLONGPADZDIO75 > ref-packages-longpad : ZDIO-7.5
+# FZEREFPSLPZDIO75 > ref-packages-longpad : ZDIO-7.5
 
 - ID: FOOTPRINT-eagle-eagle-default-ref-packages-longpad-ZDIO-7.5
-- Hex ID: FZEREFPACKAGESLONGPADZDIO75
+- Hex ID: FZEREFPSLPZDIO75
 - Name: ref-packages-longpad : ZDIO-7.5
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ref-packages-longpad/ZDIO-7.5/
 - Description: ref-packages-longpad : ZDIO-7.5
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-longpad-ZDIO-7.5](http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-longpad-ZDIO-7.5)
-- Short Link: [http://oom.lt/FZEREFPACKAGESLONGPADZDIO75](http://oom.lt/FZEREFPACKAGESLONGPADZDIO75)
+- Short Link: [http://oom.lt/FZEREFPSLPZDIO75](http://oom.lt/FZEREFPSLPZDIO75)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|ref-packages-longpad|
 |OOMP Index|oompIndex|ZDIO-7.5|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-ref-packages-longpad-ZDIO-7.5|
-|Hex ID (short code)|hexID|FZEREFPACKAGESLONGPADZDIO75|
+|Hex ID (short code)|hexID|FZEREFPSLPZDIO75|
 |name|name|ref-packages-longpad : ZDIO-7.5|
 ||||

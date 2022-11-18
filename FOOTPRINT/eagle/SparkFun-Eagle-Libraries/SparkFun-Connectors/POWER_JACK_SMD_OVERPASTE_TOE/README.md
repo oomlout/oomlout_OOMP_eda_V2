@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-POWER_JACK_SMD_OVERPASTE_TOE
 - Hex ID: FZSSPARKFUNCNSPOWERJSMOVERPASTETOE
 - Name: SparkFun-Connectors : POWER_JACK_SMD_OVERPASTE_TOE
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Connectors/POWER_JACK_SMD_OVERPASTE_TOE/
 - Description: SparkFun-Connectors : POWER_JACK_SMD_OVERPASTE_TOE
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-POWER_JACK_SMD_OVERPASTE_TOE](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-POWER_JACK_SMD_OVERPASTE_TOE)
 - Short Link: [http://oom.lt/FZSSPARKFUNCNSPOWERJSMOVERPASTETOE](http://oom.lt/FZSSPARKFUNCNSPOWERJSMOVERPASTETOE)

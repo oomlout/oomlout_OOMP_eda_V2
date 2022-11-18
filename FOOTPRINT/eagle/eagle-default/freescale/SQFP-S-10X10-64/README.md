@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-freescale-SQFP-S-10X10-64
 - Hex ID: FZEFREESCALESQFPS1X164
 - Name: freescale : SQFP-S-10X10-64
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/freescale/SQFP-S-10X10-64/
 - Description: freescale : SQFP-S-10X10-64
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-freescale-SQFP-S-10X10-64](http://oom.lt/FOOTPRINT-eagle-eagle-default-freescale-SQFP-S-10X10-64)
 - Short Link: [http://oom.lt/FZEFREESCALESQFPS1X164](http://oom.lt/FZEFREESCALESQFPS1X164)

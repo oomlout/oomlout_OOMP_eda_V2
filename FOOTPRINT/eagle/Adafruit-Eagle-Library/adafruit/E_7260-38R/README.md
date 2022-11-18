@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-E_7260-38R
 - Hex ID: FZAE72638R
 - Name: adafruit : E_7260-38R
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/E_7260-38R/
 - Description: adafruit : E_7260-38R
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-E_7260-38R](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-E_7260-38R)
 - Short Link: [http://oom.lt/FZAE72638R](http://oom.lt/FZAE72638R)

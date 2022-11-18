@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Neosid_SMs85
 - Hex ID: FZKINLNEOSIDSMS85
 - Name: Inductor_SMD : L_Neosid_SMs85
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Neosid_SMs85/
 - Description: Inductor_SMD : L_Neosid_SMs85
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Neosid_SMs85](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Neosid_SMs85)
 - Short Link: [http://oom.lt/FZKINLNEOSIDSMS85](http://oom.lt/FZKINLNEOSIDSMS85)

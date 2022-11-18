@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_Card-CF-Card_3M_N7E50-E516xx-30
 - Hex ID: FZKCNCARDCFCARD3MN7E5E516XX3
 - Name: Connector_Card : CF-Card_3M_N7E50-E516xx-30
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Card/CF-Card_3M_N7E50-E516xx-30/
 - Description: Connector_Card : CF-Card_3M_N7E50-E516xx-30
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Card-CF-Card_3M_N7E50-E516xx-30](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Card-CF-Card_3M_N7E50-E516xx-30)
 - Short Link: [http://oom.lt/FZKCNCARDCFCARD3MN7E5E516XX3](http://oom.lt/FZKCNCARDCFCARD3MN7E5E516XX3)

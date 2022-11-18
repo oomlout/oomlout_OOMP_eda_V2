@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Aesthetics-LOGOMATIC_LOGO
 - Hex ID: FZSALMATICL
 - Name: SparkFun-Aesthetics : LOGOMATIC_LOGO
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Aesthetics/LOGOMATIC_LOGO/
 - Description: SparkFun-Aesthetics : LOGOMATIC_LOGO
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Aesthetics-LOGOMATIC_LOGO](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Aesthetics-LOGOMATIC_LOGO)
 - Short Link: [http://oom.lt/FZSALMATICL](http://oom.lt/FZSALMATICL)

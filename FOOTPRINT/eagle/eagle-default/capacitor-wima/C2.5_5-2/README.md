@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-capacitor-wima-C2.5_5-2
 - Hex ID: FZECAPACITORWIMAC2552
 - Name: capacitor-wima : C2.5_5-2
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/capacitor-wima/C2.5_5-2/
 - Description: capacitor-wima : C2.5_5-2
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-capacitor-wima-C2.5_5-2](http://oom.lt/FOOTPRINT-eagle-eagle-default-capacitor-wima-C2.5_5-2)
 - Short Link: [http://oom.lt/FZECAPACITORWIMAC2552](http://oom.lt/FZECAPACITORWIMAC2552)

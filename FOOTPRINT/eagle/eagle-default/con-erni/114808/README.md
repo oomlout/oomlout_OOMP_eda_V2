@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-erni-114808
 - Hex ID: FZECONERNI11488
 - Name: con-erni : 114808
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-erni/114808/
 - Description: con-erni : 114808
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-erni-114808](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-erni-114808)
 - Short Link: [http://oom.lt/FZECONERNI11488](http://oom.lt/FZECONERNI11488)

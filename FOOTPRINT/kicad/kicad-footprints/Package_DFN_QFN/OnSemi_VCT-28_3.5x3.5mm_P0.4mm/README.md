@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-OnSemi_VCT-28_3.5x3.5mm_P0.4mm
 - Hex ID: FZKDFNONSEMIVCT2835X35P4
 - Name: Package_DFN_QFN : OnSemi_VCT-28_3.5x3.5mm_P0.4mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/OnSemi_VCT-28_3.5x3.5mm_P0.4mm/
 - Description: Package_DFN_QFN : OnSemi_VCT-28_3.5x3.5mm_P0.4mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-OnSemi_VCT-28_3.5x3.5mm_P0.4mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-OnSemi_VCT-28_3.5x3.5mm_P0.4mm)
 - Short Link: [http://oom.lt/FZKDFNONSEMIVCT2835X35P4](http://oom.lt/FZKDFNONSEMIVCT2835X35P4)

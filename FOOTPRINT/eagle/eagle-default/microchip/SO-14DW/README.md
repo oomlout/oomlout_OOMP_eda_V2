@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-microchip-SO-14DW
 - Hex ID: FZEMCHIPSO14DW
 - Name: microchip : SO-14DW
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/microchip/SO-14DW/
 - Description: microchip : SO-14DW
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-microchip-SO-14DW](http://oom.lt/FOOTPRINT-eagle-eagle-default-microchip-SO-14DW)
 - Short Link: [http://oom.lt/FZEMCHIPSO14DW](http://oom.lt/FZEMCHIPSO14DW)

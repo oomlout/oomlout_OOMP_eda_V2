@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-thomas-betts-H2R37ST
 - Hex ID: FZECONTHOMASBETTSH2R37ST
 - Name: con-thomas-betts : H2R37ST
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-thomas-betts/H2R37ST/
 - Description: con-thomas-betts : H2R37ST
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-thomas-betts-H2R37ST](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-thomas-betts-H2R37ST)
 - Short Link: [http://oom.lt/FZECONTHOMASBETTSH2R37ST](http://oom.lt/FZECONTHOMASBETTSH2R37ST)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-4xxx-4025
 - Hex ID: SZK4XXX425
 - Name: 4xxx : 4025
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/4xxx/4025/
 - Description: 4xxx : 4025
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-4xxx-4025](http://oom.lt/SYMBOL-kicad-kicad-symbols-4xxx-4025)
 - Short Link: [http://oom.lt/SZK4XXX425](http://oom.lt/SZK4XXX425)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-TO-PMOD-7
 - Hex ID: FZSRTTOPMOD7
 - Name: SparkFun-Retired : TO-PMOD-7
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Retired/TO-PMOD-7/
 - Description: SparkFun-Retired : TO-PMOD-7
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-TO-PMOD-7](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-TO-PMOD-7)
 - Short Link: [http://oom.lt/FZSRTTOPMOD7](http://oom.lt/FZSRTTOPMOD7)

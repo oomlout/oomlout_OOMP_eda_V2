@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Driver_FET-HIP2101_DFN
 - Hex ID: SZKDRIVERFETHIP211DFN
 - Name: Driver_FET : HIP2101_DFN
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Driver_FET/HIP2101_DFN/
 - Description: Driver_FET : HIP2101_DFN
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-HIP2101_DFN](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-HIP2101_DFN)
 - Short Link: [http://oom.lt/SZKDRIVERFETHIP211DFN](http://oom.lt/SZKDRIVERFETHIP211DFN)

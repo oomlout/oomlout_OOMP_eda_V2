@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Power-SOT223
 - Hex ID: FZSIPSOT223
 - Name: SparkFun-IC-Power : SOT223
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-IC-Power/SOT223/
 - Description: SparkFun-IC-Power : SOT223
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Power-SOT223](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Power-SOT223)
 - Short Link: [http://oom.lt/FZSIPSOT223](http://oom.lt/FZSIPSOT223)

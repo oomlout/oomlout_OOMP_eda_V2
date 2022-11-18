@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Audio-TPA6132A2RTE
 - Hex ID: SZKAMPLIFIERAUDIOTPA6132A2RTE
 - Name: Amplifier_Audio : TPA6132A2RTE
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Audio/TPA6132A2RTE/
 - Description: Amplifier_Audio : TPA6132A2RTE
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Audio-TPA6132A2RTE](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Audio-TPA6132A2RTE)
 - Short Link: [http://oom.lt/SZKAMPLIFIERAUDIOTPA6132A2RTE](http://oom.lt/SZKAMPLIFIERAUDIOTPA6132A2RTE)

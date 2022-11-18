@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_Stocko-Stocko_MKS_1669-6-0-1919_1x19_P2.50mm_Vertical
 - Hex ID: FZKCNSTOCKOSTOCKOMKS1669619191X19P25F
 - Name: Connector_Stocko : Stocko_MKS_1669-6-0-1919_1x19_P2.50mm_Vertical
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Stocko/Stocko_MKS_1669-6-0-1919_1x19_P2.50mm_Vertical/
 - Description: Connector_Stocko : Stocko_MKS_1669-6-0-1919_1x19_P2.50mm_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Stocko-Stocko_MKS_1669-6-0-1919_1x19_P2.50mm_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Stocko-Stocko_MKS_1669-6-0-1919_1x19_P2.50mm_Vertical)
 - Short Link: [http://oom.lt/FZKCNSTOCKOSTOCKOMKS1669619191X19P25F](http://oom.lt/FZKCNSTOCKOSTOCKOMKS1669619191X19P25F)

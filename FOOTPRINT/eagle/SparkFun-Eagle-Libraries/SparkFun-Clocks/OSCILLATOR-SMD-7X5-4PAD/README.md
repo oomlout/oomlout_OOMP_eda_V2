@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZSCLOCSSM7X54PAD > SparkFun-Clocks : OSCILLATOR-SMD-7X5-4PAD](#fzsclocssm7x54pad--sparkfun-clocks--oscillator-smd-7x5-4pad)
+* [FZSCLOCSSM7X54P > SparkFun-Clocks : OSCILLATOR-SMD-7X5-4PAD](#fzsclocssm7x54p--sparkfun-clocks--oscillator-smd-7x5-4pad)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZSCLOCSSM7X54PAD > SparkFun-Clocks : OSCILLATOR-SMD-7X5-4PAD
+# FZSCLOCSSM7X54P > SparkFun-Clocks : OSCILLATOR-SMD-7X5-4PAD
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Clocks-OSCILLATOR-SMD-7X5-4PAD
-- Hex ID: FZSCLOCSSM7X54PAD
+- Hex ID: FZSCLOCSSM7X54P
 - Name: SparkFun-Clocks : OSCILLATOR-SMD-7X5-4PAD
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Clocks/OSCILLATOR-SMD-7X5-4PAD/
 - Description: SparkFun-Clocks : OSCILLATOR-SMD-7X5-4PAD
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Clocks-OSCILLATOR-SMD-7X5-4PAD](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Clocks-OSCILLATOR-SMD-7X5-4PAD)
-- Short Link: [http://oom.lt/FZSCLOCSSM7X54PAD](http://oom.lt/FZSCLOCSSM7X54PAD)
+- Short Link: [http://oom.lt/FZSCLOCSSM7X54P](http://oom.lt/FZSCLOCSSM7X54P)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|SparkFun-Clocks|
 |OOMP Index|oompIndex|OSCILLATOR-SMD-7X5-4PAD|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Clocks-OSCILLATOR-SMD-7X5-4PAD|
-|Hex ID (short code)|hexID|FZSCLOCSSM7X54PAD|
+|Hex ID (short code)|hexID|FZSCLOCSSM7X54P|
 |name|name|SparkFun-Clocks : OSCILLATOR-SMD-7X5-4PAD|
 ||||

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0805-X-O392-67-R85392A
 - Hex ID: SZOOMPKOOMPPRESE85XO39267R85392A
 - Name: oomlout_OOMP_parts : RESE-0805-X-O392-67-R85392A
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/RESE-0805-X-O392-67-R85392A/
 - Description: oomlout_OOMP_parts : RESE-0805-X-O392-67-R85392A
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0805-X-O392-67-R85392A](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0805-X-O392-67-R85392A)
 - Short Link: [http://oom.lt/SZOOMPKOOMPPRESE85XO39267R85392A](http://oom.lt/SZOOMPKOOMPPRESE85XO39267R85392A)

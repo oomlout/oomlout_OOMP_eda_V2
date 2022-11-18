@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-national-semiconductor-T05D
 - Hex ID: FZENATIONALSEMICONDUCTORT5D
 - Name: national-semiconductor : T05D
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/national-semiconductor/T05D/
 - Description: national-semiconductor : T05D
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-national-semiconductor-T05D](http://oom.lt/FOOTPRINT-eagle-eagle-default-national-semiconductor-T05D)
 - Short Link: [http://oom.lt/FZENATIONALSEMICONDUCTORT5D](http://oom.lt/FZENATIONALSEMICONDUCTORT5D)

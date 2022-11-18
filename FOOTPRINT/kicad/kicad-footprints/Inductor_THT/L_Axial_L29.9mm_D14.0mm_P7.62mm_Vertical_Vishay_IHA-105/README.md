@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Axial_L29.9mm_D14.0mm_P7.62mm_Vertical_Vishay_IHA-105
 - Hex ID: FZKINLAXIALL299D14P762FVISHAYIHA15
 - Name: Inductor_THT : L_Axial_L29.9mm_D14.0mm_P7.62mm_Vertical_Vishay_IHA-105
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Axial_L29.9mm_D14.0mm_P7.62mm_Vertical_Vishay_IHA-105/
 - Description: Inductor_THT : L_Axial_L29.9mm_D14.0mm_P7.62mm_Vertical_Vishay_IHA-105
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Axial_L29.9mm_D14.0mm_P7.62mm_Vertical_Vishay_IHA-105](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Axial_L29.9mm_D14.0mm_P7.62mm_Vertical_Vishay_IHA-105)
 - Short Link: [http://oom.lt/FZKINLAXIALL299D14P762FVISHAYIHA15](http://oom.lt/FZKINLAXIALL299D14P762FVISHAYIHA15)

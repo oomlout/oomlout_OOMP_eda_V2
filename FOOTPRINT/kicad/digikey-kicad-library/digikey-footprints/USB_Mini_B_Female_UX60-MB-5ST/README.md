@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-USB_Mini_B_Female_UX60-MB-5ST
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSUMBFUX6MB5ST
 - Name: digikey-footprints : USB_Mini_B_Female_UX60-MB-5ST
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/USB_Mini_B_Female_UX60-MB-5ST/
 - Description: digikey-footprints : USB_Mini_B_Female_UX60-MB-5ST
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-USB_Mini_B_Female_UX60-MB-5ST](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-USB_Mini_B_Female_UX60-MB-5ST)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSUMBFUX6MB5ST](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSUMBFUX6MB5ST)

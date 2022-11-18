@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_RJ-RJ45_Abracon_ARJP11A-MA_Horizontal
 - Hex ID: FZKCNRJRJ45ABRACONARJP11AMAH
 - Name: Connector_RJ : RJ45_Abracon_ARJP11A-MA_Horizontal
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_RJ/RJ45_Abracon_ARJP11A-MA_Horizontal/
 - Description: Connector_RJ : RJ45_Abracon_ARJP11A-MA_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_RJ-RJ45_Abracon_ARJP11A-MA_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_RJ-RJ45_Abracon_ARJP11A-MA_Horizontal)
 - Short Link: [http://oom.lt/FZKCNRJRJ45ABRACONARJP11AMAH](http://oom.lt/FZKCNRJRJ45ABRACONARJP11AMAH)

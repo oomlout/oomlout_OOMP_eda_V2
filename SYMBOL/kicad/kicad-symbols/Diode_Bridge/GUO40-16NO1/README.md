@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode_Bridge-GUO40-16NO1
 - Hex ID: SZKDIODEBRIDGEGUO416NO1
 - Name: Diode_Bridge : GUO40-16NO1
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode_Bridge/GUO40-16NO1/
 - Description: Diode_Bridge : GUO40-16NO1
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode_Bridge-GUO40-16NO1](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode_Bridge-GUO40-16NO1)
 - Short Link: [http://oom.lt/SZKDIODEBRIDGEGUO416NO1](http://oom.lt/SZKDIODEBRIDGEGUO416NO1)

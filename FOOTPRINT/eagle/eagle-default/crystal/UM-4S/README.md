@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-crystal-UM-4S
 - Hex ID: FZEXUM4S
 - Name: crystal : UM-4S
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/crystal/UM-4S/
 - Description: crystal : UM-4S
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-crystal-UM-4S](http://oom.lt/FOOTPRINT-eagle-eagle-default-crystal-UM-4S)
 - Short Link: [http://oom.lt/FZEXUM4S](http://oom.lt/FZEXUM4S)

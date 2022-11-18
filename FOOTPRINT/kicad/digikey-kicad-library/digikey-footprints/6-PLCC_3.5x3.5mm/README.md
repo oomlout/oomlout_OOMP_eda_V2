@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-6-PLCC_3.5x3.5mm
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTS6PLCC35X35
 - Name: digikey-footprints : 6-PLCC_3.5x3.5mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/6-PLCC_3.5x3.5mm/
 - Description: digikey-footprints : 6-PLCC_3.5x3.5mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-6-PLCC_3.5x3.5mm](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-6-PLCC_3.5x3.5mm)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTS6PLCC35X35](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTS6PLCC35X35)

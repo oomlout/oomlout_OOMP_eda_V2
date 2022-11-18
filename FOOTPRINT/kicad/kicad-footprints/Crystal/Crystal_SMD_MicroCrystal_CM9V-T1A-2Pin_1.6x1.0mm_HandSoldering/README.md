@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKXXSMMXCM9VT1A2PIN16X1HANDSOLDERING > Crystal : Crystal_SMD_MicroCrystal_CM9V-T1A-2Pin_1.6x1.0mm_HandSoldering](#fzkxxsmmxcm9vt1a2pin16x1handsoldering--crystal--crystal_smd_microcrystal_cm9v-t1a-2pin_16x10mm_handsoldering)
+* [FZKXXSMMXCM9VT1A2P16X1HS > Crystal : Crystal_SMD_MicroCrystal_CM9V-T1A-2Pin_1.6x1.0mm_HandSoldering](#fzkxxsmmxcm9vt1a2p16x1hs--crystal--crystal_smd_microcrystal_cm9v-t1a-2pin_16x10mm_handsoldering)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKXXSMMXCM9VT1A2PIN16X1HANDSOLDERING > Crystal : Crystal_SMD_MicroCrystal_CM9V-T1A-2Pin_1.6x1.0mm_HandSoldering
+# FZKXXSMMXCM9VT1A2P16X1HS > Crystal : Crystal_SMD_MicroCrystal_CM9V-T1A-2Pin_1.6x1.0mm_HandSoldering
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_SMD_MicroCrystal_CM9V-T1A-2Pin_1.6x1.0mm_HandSoldering
-- Hex ID: FZKXXSMMXCM9VT1A2PIN16X1HANDSOLDERING
+- Hex ID: FZKXXSMMXCM9VT1A2P16X1HS
 - Name: Crystal : Crystal_SMD_MicroCrystal_CM9V-T1A-2Pin_1.6x1.0mm_HandSoldering
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_SMD_MicroCrystal_CM9V-T1A-2Pin_1.6x1.0mm_HandSoldering/
 - Description: Crystal : Crystal_SMD_MicroCrystal_CM9V-T1A-2Pin_1.6x1.0mm_HandSoldering
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_SMD_MicroCrystal_CM9V-T1A-2Pin_1.6x1.0mm_HandSoldering](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_SMD_MicroCrystal_CM9V-T1A-2Pin_1.6x1.0mm_HandSoldering)
-- Short Link: [http://oom.lt/FZKXXSMMXCM9VT1A2PIN16X1HANDSOLDERING](http://oom.lt/FZKXXSMMXCM9VT1A2PIN16X1HANDSOLDERING)
+- Short Link: [http://oom.lt/FZKXXSMMXCM9VT1A2P16X1HS](http://oom.lt/FZKXXSMMXCM9VT1A2P16X1HS)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Crystal|
 |OOMP Index|oompIndex|Crystal_SMD_MicroCrystal_CM9V-T1A-2Pin_1.6x1.0mm_HandSoldering|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_SMD_MicroCrystal_CM9V-T1A-2Pin_1.6x1.0mm_HandSoldering|
-|Hex ID (short code)|hexID|FZKXXSMMXCM9VT1A2PIN16X1HANDSOLDERING|
+|Hex ID (short code)|hexID|FZKXXSMMXCM9VT1A2P16X1HS|
 |name|name|Crystal : Crystal_SMD_MicroCrystal_CM9V-T1A-2Pin_1.6x1.0mm_HandSoldering|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Crystal_SMD_MicroCrystal_CM9V-T1A-2Pin_1.6x1.0mm_HandSoldering'</td><td> 'description'</td></tr><tr><td> 'SMD Crystal MicroCrystal CM9V-T1A series http</td></tr><tr><td>//www.microcrystal.com/images/_Product-Documentation/01_TF_ceramic_Packages/01_Datasheet/CM9V-T1A.pdf</td><td> hand-soldering</td><td> 1.6x1.0mm^2 package'</td><td> 'tags'</td></tr><tr><td> 'SMD SMT crystal hand-soldering'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Crystal.3dshapes/Crystal_SMD_MicroCrystal_CM9V-T1A-2Pin_1.6x1.0mm_HandSoldering.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

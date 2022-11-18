@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-CTS406
 - Hex ID: FZACTS46
 - Name: adafruit : CTS406
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/CTS406/
 - Description: adafruit : CTS406
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-CTS406](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-CTS406)
 - Short Link: [http://oom.lt/FZACTS46](http://oom.lt/FZACTS46)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Texas_QFN-41_10x16mm
 - Hex ID: FZKDFNTEXASQFN411X16
 - Name: Package_DFN_QFN : Texas_QFN-41_10x16mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/Texas_QFN-41_10x16mm/
 - Description: Package_DFN_QFN : Texas_QFN-41_10x16mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Texas_QFN-41_10x16mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Texas_QFN-41_10x16mm)
 - Short Link: [http://oom.lt/FZKDFNTEXASQFN411X16](http://oom.lt/FZKDFNTEXASQFN411X16)

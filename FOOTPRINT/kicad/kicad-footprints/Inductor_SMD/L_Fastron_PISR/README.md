@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Fastron_PISR
 - Hex ID: FZKINLFASTRONPISR
 - Name: Inductor_SMD : L_Fastron_PISR
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Fastron_PISR/
 - Description: Inductor_SMD : L_Fastron_PISR
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Fastron_PISR](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Fastron_PISR)
 - Short Link: [http://oom.lt/FZKINLFASTRONPISR](http://oom.lt/FZKINLFASTRONPISR)

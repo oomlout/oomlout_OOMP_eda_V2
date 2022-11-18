@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-jst-6FLZ-SM
 - Hex ID: FZECONJST6FLZSM
 - Name: con-jst : 6FLZ-SM
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-jst/6FLZ-SM/
 - Description: con-jst : 6FLZ-SM
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-jst-6FLZ-SM](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-jst-6FLZ-SM)
 - Short Link: [http://oom.lt/FZECONJST6FLZSM](http://oom.lt/FZECONJST6FLZSM)

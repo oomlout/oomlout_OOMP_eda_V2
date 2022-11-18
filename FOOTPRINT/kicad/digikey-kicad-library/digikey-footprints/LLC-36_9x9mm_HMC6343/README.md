@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-LLC-36_9x9mm_HMC6343
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSLLC369X9HMC6343
 - Name: digikey-footprints : LLC-36_9x9mm_HMC6343
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/LLC-36_9x9mm_HMC6343/
 - Description: digikey-footprints : LLC-36_9x9mm_HMC6343
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-LLC-36_9x9mm_HMC6343](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-LLC-36_9x9mm_HMC6343)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSLLC369X9HMC6343](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSLLC369X9HMC6343)

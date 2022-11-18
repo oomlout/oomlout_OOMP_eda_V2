@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Reference_Voltage-MAX6241
 - Hex ID: SZKREFERENCEVOLTAGEMAX6241
 - Name: Reference_Voltage : MAX6241
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Reference_Voltage/MAX6241/
 - Description: Reference_Voltage : MAX6241
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Voltage-MAX6241](http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Voltage-MAX6241)
 - Short Link: [http://oom.lt/SZKREFERENCEVOLTAGEMAX6241](http://oom.lt/SZKREFERENCEVOLTAGEMAX6241)

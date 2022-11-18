@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-trafo-OB115_6
 - Hex ID: FZETRAFOOB1156
 - Name: trafo : OB115_6
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/trafo/OB115_6/
 - Description: trafo : OB115_6
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-trafo-OB115_6](http://oom.lt/FOOTPRINT-eagle-eagle-default-trafo-OB115_6)
 - Short Link: [http://oom.lt/FZETRAFOOB1156](http://oom.lt/FZETRAFOOB1156)

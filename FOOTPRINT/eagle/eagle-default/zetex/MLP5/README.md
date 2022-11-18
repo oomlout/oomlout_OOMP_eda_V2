@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-zetex-MLP5
 - Hex ID: FZEZETEXMLP5
 - Name: zetex : MLP5
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/zetex/MLP5/
 - Description: zetex : MLP5
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-zetex-MLP5](http://oom.lt/FOOTPRINT-eagle-eagle-default-zetex-MLP5)
 - Short Link: [http://oom.lt/FZEZETEXMLP5](http://oom.lt/FZEZETEXMLP5)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-rcl-C1310
 - Hex ID: FZERCLC131
 - Name: rcl : C1310
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/rcl/C1310/
 - Description: rcl : C1310
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-C1310](http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-C1310)
 - Short Link: [http://oom.lt/FZERCLC131](http://oom.lt/FZERCLC131)

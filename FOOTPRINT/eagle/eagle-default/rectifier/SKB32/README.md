@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-rectifier-SKB32
 - Hex ID: FZERECTIFIERSKB32
 - Name: rectifier : SKB32
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/rectifier/SKB32/
 - Description: rectifier : SKB32
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-rectifier-SKB32](http://oom.lt/FOOTPRINT-eagle-eagle-default-rectifier-SKB32)
 - Short Link: [http://oom.lt/FZERECTIFIERSKB32](http://oom.lt/FZERECTIFIERSKB32)

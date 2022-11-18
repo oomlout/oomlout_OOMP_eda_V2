@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEREFPACKAGESEB3D > ref-packages : EB30D](#fzerefpackageseb3d--ref-packages--eb30d)
+* [FZEREFPSEB3D > ref-packages : EB30D](#fzerefpseb3d--ref-packages--eb30d)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEREFPACKAGESEB3D > ref-packages : EB30D
+# FZEREFPSEB3D > ref-packages : EB30D
 
 - ID: FOOTPRINT-eagle-eagle-default-ref-packages-EB30D
-- Hex ID: FZEREFPACKAGESEB3D
+- Hex ID: FZEREFPSEB3D
 - Name: ref-packages : EB30D
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ref-packages/EB30D/
 - Description: ref-packages : EB30D
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-EB30D](http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-EB30D)
-- Short Link: [http://oom.lt/FZEREFPACKAGESEB3D](http://oom.lt/FZEREFPACKAGESEB3D)
+- Short Link: [http://oom.lt/FZEREFPSEB3D](http://oom.lt/FZEREFPSEB3D)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|ref-packages|
 |OOMP Index|oompIndex|EB30D|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-ref-packages-EB30D|
-|Hex ID (short code)|hexID|FZEREFPACKAGESEB3D|
+|Hex ID (short code)|hexID|FZEREFPSEB3D|
 |name|name|ref-packages : EB30D|
 ||||

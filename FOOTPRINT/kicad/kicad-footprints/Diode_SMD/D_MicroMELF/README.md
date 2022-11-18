@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_MicroMELF
 - Hex ID: FZKDDELF
 - Name: Diode_SMD : D_MicroMELF
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Diode_SMD/D_MicroMELF/
 - Description: Diode_SMD : D_MicroMELF
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_MicroMELF](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_MicroMELF)
 - Short Link: [http://oom.lt/FZKDDELF](http://oom.lt/FZKDDELF)

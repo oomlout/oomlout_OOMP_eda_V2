@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Isolator-TLP291
 - Hex ID: SZKISOLATORTLP291
 - Name: Isolator : TLP291
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Isolator/TLP291/
 - Description: Isolator : TLP291
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-TLP291](http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-TLP291)
 - Short Link: [http://oom.lt/SZKISOLATORTLP291](http://oom.lt/SZKISOLATORTLP291)

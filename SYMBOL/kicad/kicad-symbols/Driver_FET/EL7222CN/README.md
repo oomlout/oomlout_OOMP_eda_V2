@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Driver_FET-EL7222CN
 - Hex ID: SZKDRIVERFETEL7222CN
 - Name: Driver_FET : EL7222CN
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Driver_FET/EL7222CN/
 - Description: Driver_FET : EL7222CN
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-EL7222CN](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-EL7222CN)
 - Short Link: [http://oom.lt/SZKDRIVERFETEL7222CN](http://oom.lt/SZKDRIVERFETEL7222CN)

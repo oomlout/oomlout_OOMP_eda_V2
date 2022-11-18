@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-opto-trans-siemens-BP103
 - Hex ID: FZEOPTOTRANSSIEMENSBP13
 - Name: opto-trans-siemens : BP103
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/opto-trans-siemens/BP103/
 - Description: opto-trans-siemens : BP103
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-opto-trans-siemens-BP103](http://oom.lt/FOOTPRINT-eagle-eagle-default-opto-trans-siemens-BP103)
 - Short Link: [http://oom.lt/FZEOPTOTRANSSIEMENSBP13](http://oom.lt/FZEOPTOTRANSSIEMENSBP13)

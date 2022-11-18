@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-BAV99
 - Hex ID: SZKDIODEBAV99
 - Name: Diode : BAV99
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/BAV99/
 - Description: Diode : BAV99
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-BAV99](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-BAV99)
 - Short Link: [http://oom.lt/SZKDIODEBAV99](http://oom.lt/SZKDIODEBAV99)

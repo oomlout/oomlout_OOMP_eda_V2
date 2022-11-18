@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-JSTSH-X-PI05-RS-HSHR5
 - Hex ID: SZOOMPKOOMPPHEADJSTSHXPI5RSHSHR5
 - Name: oomlout_OOMP_parts : HEAD-JSTSH-X-PI05-RS-HSHR5
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/HEAD-JSTSH-X-PI05-RS-HSHR5/
 - Description: oomlout_OOMP_parts : HEAD-JSTSH-X-PI05-RS-HSHR5
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-JSTSH-X-PI05-RS-HSHR5](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-JSTSH-X-PI05-RS-HSHR5)
 - Short Link: [http://oom.lt/SZOOMPKOOMPPHEADJSTSHXPI5RSHSHR5](http://oom.lt/SZOOMPKOOMPPHEADJSTSHXPI5RSHSHR5)

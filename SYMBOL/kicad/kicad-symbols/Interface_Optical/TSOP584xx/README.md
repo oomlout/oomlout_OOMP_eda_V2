@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_Optical-TSOP584xx
 - Hex ID: SZKINTERFACEOPTICALTS584XX
 - Name: Interface_Optical : TSOP584xx
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_Optical/TSOP584xx/
 - Description: Interface_Optical : TSOP584xx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Optical-TSOP584xx](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Optical-TSOP584xx)
 - Short Link: [http://oom.lt/SZKINTERFACEOPTICALTS584XX](http://oom.lt/SZKINTERFACEOPTICALTS584XX)

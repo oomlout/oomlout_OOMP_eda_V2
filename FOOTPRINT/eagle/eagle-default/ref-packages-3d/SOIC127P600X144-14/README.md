@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEREFPACKAGES3DSOIC127P6X14414 > ref-packages-3d : SOIC127P600X144-14](#fzerefpackages3dsoic127p6x14414--ref-packages-3d--soic127p600x144-14)
+* [FZEREFPS3DSOIC127P6X14414 > ref-packages-3d : SOIC127P600X144-14](#fzerefps3dsoic127p6x14414--ref-packages-3d--soic127p600x144-14)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEREFPACKAGES3DSOIC127P6X14414 > ref-packages-3d : SOIC127P600X144-14
+# FZEREFPS3DSOIC127P6X14414 > ref-packages-3d : SOIC127P600X144-14
 
 - ID: FOOTPRINT-eagle-eagle-default-ref-packages-3d-SOIC127P600X144-14
-- Hex ID: FZEREFPACKAGES3DSOIC127P6X14414
+- Hex ID: FZEREFPS3DSOIC127P6X14414
 - Name: ref-packages-3d : SOIC127P600X144-14
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ref-packages-3d/SOIC127P600X144-14/
 - Description: ref-packages-3d : SOIC127P600X144-14
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-3d-SOIC127P600X144-14](http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-3d-SOIC127P600X144-14)
-- Short Link: [http://oom.lt/FZEREFPACKAGES3DSOIC127P6X14414](http://oom.lt/FZEREFPACKAGES3DSOIC127P6X14414)
+- Short Link: [http://oom.lt/FZEREFPS3DSOIC127P6X14414](http://oom.lt/FZEREFPS3DSOIC127P6X14414)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|ref-packages-3d|
 |OOMP Index|oompIndex|SOIC127P600X144-14|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-ref-packages-3d-SOIC127P600X144-14|
-|Hex ID (short code)|hexID|FZEREFPACKAGES3DSOIC127P6X14414|
+|Hex ID (short code)|hexID|FZEREFPS3DSOIC127P6X14414|
 |name|name|ref-packages-3d : SOIC127P600X144-14|
 ||||

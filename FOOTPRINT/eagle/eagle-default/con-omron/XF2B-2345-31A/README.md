@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-omron-XF2B-2345-31A
 - Hex ID: FZECONOMRONXF2B234531A
 - Name: con-omron : XF2B-2345-31A
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-omron/XF2B-2345-31A/
 - Description: con-omron : XF2B-2345-31A
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-omron-XF2B-2345-31A](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-omron-XF2B-2345-31A)
 - Short Link: [http://oom.lt/FZECONOMRONXF2B234531A](http://oom.lt/FZECONOMRONXF2B234531A)

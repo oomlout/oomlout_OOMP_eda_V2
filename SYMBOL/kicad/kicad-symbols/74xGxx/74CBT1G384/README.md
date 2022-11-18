@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-74xGxx-74CBT1G384
 - Hex ID: SZK74XGXX74CBT1G384
 - Name: 74xGxx : 74CBT1G384
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/74xGxx/74CBT1G384/
 - Description: 74xGxx : 74CBT1G384
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-74xGxx-74CBT1G384](http://oom.lt/SYMBOL-kicad-kicad-symbols-74xGxx-74CBT1G384)
 - Short Link: [http://oom.lt/SZK74XGXX74CBT1G384](http://oom.lt/SZK74XGXX74CBT1G384)

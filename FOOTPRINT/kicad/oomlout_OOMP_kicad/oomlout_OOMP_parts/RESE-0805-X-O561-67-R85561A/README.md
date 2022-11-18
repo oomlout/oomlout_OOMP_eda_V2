@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0805-X-O561-67-R85561A
 - Hex ID: FZOOMPKOOMPPRESE85XO56167R85561A
 - Name: oomlout_OOMP_parts : RESE-0805-X-O561-67-R85561A
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/RESE-0805-X-O561-67-R85561A/
 - Description: oomlout_OOMP_parts : RESE-0805-X-O561-67-R85561A
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0805-X-O561-67-R85561A](http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0805-X-O561-67-R85561A)
 - Short Link: [http://oom.lt/FZOOMPKOOMPPRESE85XO56167R85561A](http://oom.lt/FZOOMPKOOMPPRESE85XO56167R85561A)

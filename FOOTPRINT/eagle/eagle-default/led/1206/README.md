@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-led-1206
 - Hex ID: FZEL126
 - Name: led : 1206
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/led/1206/
 - Description: led : 1206
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-led-1206](http://oom.lt/FOOTPRINT-eagle-eagle-default-led-1206)
 - Short Link: [http://oom.lt/FZEL126](http://oom.lt/FZEL126)

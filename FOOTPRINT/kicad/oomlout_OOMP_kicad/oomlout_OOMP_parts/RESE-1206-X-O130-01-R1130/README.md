@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-1206-X-O130-01-R1130
 - Hex ID: FZOOMPKOOMPPRESE126XO131R113
 - Name: oomlout_OOMP_parts : RESE-1206-X-O130-01-R1130
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/RESE-1206-X-O130-01-R1130/
 - Description: oomlout_OOMP_parts : RESE-1206-X-O130-01-R1130
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-1206-X-O130-01-R1130](http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-1206-X-O130-01-R1130)
 - Short Link: [http://oom.lt/FZOOMPKOOMPPRESE126XO131R113](http://oom.lt/FZOOMPKOOMPPRESE126XO131R113)

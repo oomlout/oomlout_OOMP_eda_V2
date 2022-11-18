@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-TO-92_Inline_Horizontal2
 - Hex ID: FZKSOTTO92IH2
 - Name: Package_TO_SOT_THT : TO-92_Inline_Horizontal2
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_THT/TO-92_Inline_Horizontal2/
 - Description: Package_TO_SOT_THT : TO-92_Inline_Horizontal2
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-TO-92_Inline_Horizontal2](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-TO-92_Inline_Horizontal2)
 - Short Link: [http://oom.lt/FZKSOTTO92IH2](http://oom.lt/FZKSOTTO92IH2)

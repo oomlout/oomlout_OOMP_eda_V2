@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-1206-X-UF47D-V50-C12U47D
 - Hex ID: FZOOMPKOOMPPCAPC126XUF47DV5C12U47D
 - Name: oomlout_OOMP_parts : CAPC-1206-X-UF47D-V50-C12U47D
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/CAPC-1206-X-UF47D-V50-C12U47D/
 - Description: oomlout_OOMP_parts : CAPC-1206-X-UF47D-V50-C12U47D
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-1206-X-UF47D-V50-C12U47D](http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-1206-X-UF47D-V50-C12U47D)
 - Short Link: [http://oom.lt/FZOOMPKOOMPPCAPC126XUF47DV5C12U47D](http://oom.lt/FZOOMPKOOMPPCAPC126XUF47DV5C12U47D)

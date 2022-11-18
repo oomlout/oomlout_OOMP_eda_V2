@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Converter_ACDC-RAC04-09SGB
 - Hex ID: SZKCONRAC49SGB
 - Name: Converter_ACDC : RAC04-09SGB
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Converter_ACDC/RAC04-09SGB/
 - Description: Converter_ACDC : RAC04-09SGB
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_ACDC-RAC04-09SGB](http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_ACDC-RAC04-09SGB)
 - Short Link: [http://oom.lt/SZKCONRAC49SGB](http://oom.lt/SZKCONRAC49SGB)

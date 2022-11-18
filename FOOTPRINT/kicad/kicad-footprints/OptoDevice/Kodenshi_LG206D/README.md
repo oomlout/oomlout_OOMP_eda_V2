@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-OptoDevice-Kodenshi_LG206D
 - Hex ID: FZKOPKODENSHILG26D
 - Name: OptoDevice : Kodenshi_LG206D
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/OptoDevice/Kodenshi_LG206D/
 - Description: OptoDevice : Kodenshi_LG206D
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-OptoDevice-Kodenshi_LG206D](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-OptoDevice-Kodenshi_LG206D)
 - Short Link: [http://oom.lt/FZKOPKODENSHILG26D](http://oom.lt/FZKOPKODENSHILG26D)

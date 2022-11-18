@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-DFN-18-1EP_3x5mm_P0.5mm_EP1.66x4.4mm
 - Hex ID: FZKDFNDFN181EP3X5P5EP166X44
 - Name: Package_DFN_QFN : DFN-18-1EP_3x5mm_P0.5mm_EP1.66x4.4mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/DFN-18-1EP_3x5mm_P0.5mm_EP1.66x4.4mm/
 - Description: Package_DFN_QFN : DFN-18-1EP_3x5mm_P0.5mm_EP1.66x4.4mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-DFN-18-1EP_3x5mm_P0.5mm_EP1.66x4.4mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-DFN-18-1EP_3x5mm_P0.5mm_EP1.66x4.4mm)
 - Short Link: [http://oom.lt/FZKDFNDFN181EP3X5P5EP166X44](http://oom.lt/FZKDFNDFN181EP3X5P5EP166X44)

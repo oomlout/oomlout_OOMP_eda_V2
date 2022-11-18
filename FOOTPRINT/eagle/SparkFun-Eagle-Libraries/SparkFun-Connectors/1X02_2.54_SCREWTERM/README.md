@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZSSPARKFUNCNS1X2254SCREWTERM > SparkFun-Connectors : 1X02_2.54_SCREWTERM](#fzssparkfuncns1x2254screwterm--sparkfun-connectors--1x02_254_screwterm)
+* [FZSSPARKFUNCNS1X2254SCTERM > SparkFun-Connectors : 1X02_2.54_SCREWTERM](#fzssparkfuncns1x2254scterm--sparkfun-connectors--1x02_254_screwterm)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZSSPARKFUNCNS1X2254SCREWTERM > SparkFun-Connectors : 1X02_2.54_SCREWTERM
+# FZSSPARKFUNCNS1X2254SCTERM > SparkFun-Connectors : 1X02_2.54_SCREWTERM
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-1X02_2.54_SCREWTERM
-- Hex ID: FZSSPARKFUNCNS1X2254SCREWTERM
+- Hex ID: FZSSPARKFUNCNS1X2254SCTERM
 - Name: SparkFun-Connectors : 1X02_2.54_SCREWTERM
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Connectors/1X02_2.54_SCREWTERM/
 - Description: SparkFun-Connectors : 1X02_2.54_SCREWTERM
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-1X02_2.54_SCREWTERM](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-1X02_2.54_SCREWTERM)
-- Short Link: [http://oom.lt/FZSSPARKFUNCNS1X2254SCREWTERM](http://oom.lt/FZSSPARKFUNCNS1X2254SCREWTERM)
+- Short Link: [http://oom.lt/FZSSPARKFUNCNS1X2254SCTERM](http://oom.lt/FZSSPARKFUNCNS1X2254SCTERM)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|SparkFun-Connectors|
 |OOMP Index|oompIndex|1X02_2.54_SCREWTERM|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-1X02_2.54_SCREWTERM|
-|Hex ID (short code)|hexID|FZSSPARKFUNCNS1X2254SCREWTERM|
+|Hex ID (short code)|hexID|FZSSPARKFUNCNS1X2254SCTERM|
 |name|name|SparkFun-Connectors : 1X02_2.54_SCREWTERM|
 ||||

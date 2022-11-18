@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-B3F-31XX-SKINNIER
 - Hex ID: FZAB3F31XXSK
 - Name: adafruit : B3F-31XX-SKINNIER
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/B3F-31XX-SKINNIER/
 - Description: adafruit : B3F-31XX-SKINNIER
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-B3F-31XX-SKINNIER](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-B3F-31XX-SKINNIER)
 - Short Link: [http://oom.lt/FZAB3F31XXSK](http://oom.lt/FZAB3F31XXSK)

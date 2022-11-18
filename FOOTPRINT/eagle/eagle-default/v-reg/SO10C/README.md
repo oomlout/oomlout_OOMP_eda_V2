@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-v-reg-SO10C
 - Hex ID: FZEVREGSO1C
 - Name: v-reg : SO10C
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/v-reg/SO10C/
 - Description: v-reg : SO10C
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-v-reg-SO10C](http://oom.lt/FOOTPRINT-eagle-eagle-default-v-reg-SO10C)
 - Short Link: [http://oom.lt/FZEVREGSO1C](http://oom.lt/FZEVREGSO1C)

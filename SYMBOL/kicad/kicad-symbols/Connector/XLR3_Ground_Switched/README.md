@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Connector-XLR3_Ground_Switched
 - Hex ID: SZKCNXLR3GROUNDSWED
 - Name: Connector : XLR3_Ground_Switched
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector/XLR3_Ground_Switched/
 - Description: Connector : XLR3_Ground_Switched
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-XLR3_Ground_Switched](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-XLR3_Ground_Switched)
 - Short Link: [http://oom.lt/SZKCNXLR3GROUNDSWED](http://oom.lt/SZKCNXLR3GROUNDSWED)

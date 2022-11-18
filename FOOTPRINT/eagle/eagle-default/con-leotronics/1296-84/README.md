@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-leotronics-1296-84
 - Hex ID: FZECONLEOTRONICS129684
 - Name: con-leotronics : 1296-84
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-leotronics/1296-84/
 - Description: con-leotronics : 1296-84
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-leotronics-1296-84](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-leotronics-1296-84)
 - Short Link: [http://oom.lt/FZECONLEOTRONICS129684](http://oom.lt/FZECONLEOTRONICS129684)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-TLV9001IDCK
 - Hex ID: SZKAMPLIFIEROPERATIONALTLV91IDCK
 - Name: Amplifier_Operational : TLV9001IDCK
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/TLV9001IDCK/
 - Description: Amplifier_Operational : TLV9001IDCK
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-TLV9001IDCK](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-TLV9001IDCK)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALTLV91IDCK](http://oom.lt/SZKAMPLIFIEROPERATIONALTLV91IDCK)

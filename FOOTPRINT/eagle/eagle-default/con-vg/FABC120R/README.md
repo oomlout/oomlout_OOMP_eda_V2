@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-vg-FABC120R
 - Hex ID: FZECONVGFABC12R
 - Name: con-vg : FABC120R
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-vg/FABC120R/
 - Description: con-vg : FABC120R
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-vg-FABC120R](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-vg-FABC120R)
 - Short Link: [http://oom.lt/FZECONVGFABC12R](http://oom.lt/FZECONVGFABC12R)

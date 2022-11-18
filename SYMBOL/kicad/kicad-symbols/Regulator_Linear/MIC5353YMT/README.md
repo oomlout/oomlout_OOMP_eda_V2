@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-MIC5353YMT
 - Hex ID: SZKREGULATORLINEARMIC5353YMT
 - Name: Regulator_Linear : MIC5353YMT
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/MIC5353YMT/
 - Description: Regulator_Linear : MIC5353YMT
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-MIC5353YMT](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-MIC5353YMT)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARMIC5353YMT](http://oom.lt/SZKREGULATORLINEARMIC5353YMT)

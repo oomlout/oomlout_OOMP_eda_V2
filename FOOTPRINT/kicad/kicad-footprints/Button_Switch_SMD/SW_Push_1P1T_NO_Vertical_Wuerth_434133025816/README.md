@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-SW_Push_1P1T_NO_Vertical_Wuerth_434133025816
 - Hex ID: FZKBSWPUSH1P1TNOFWUERTH43413325816
 - Name: Button_Switch_SMD : SW_Push_1P1T_NO_Vertical_Wuerth_434133025816
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Button_Switch_SMD/SW_Push_1P1T_NO_Vertical_Wuerth_434133025816/
 - Description: Button_Switch_SMD : SW_Push_1P1T_NO_Vertical_Wuerth_434133025816
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-SW_Push_1P1T_NO_Vertical_Wuerth_434133025816](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-SW_Push_1P1T_NO_Vertical_Wuerth_434133025816)
 - Short Link: [http://oom.lt/FZKBSWPUSH1P1TNOFWUERTH43413325816](http://oom.lt/FZKBSWPUSH1P1TNOFWUERTH43413325816)

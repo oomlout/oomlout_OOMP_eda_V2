@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Button_Switch_THT-SW_TH_Tactile_Omron_B3F-10xx
 - Hex ID: FZKBSWTHTOMRONB3F1XX
 - Name: Button_Switch_THT : SW_TH_Tactile_Omron_B3F-10xx
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/SW_TH_Tactile_Omron_B3F-10xx/
 - Description: Button_Switch_THT : SW_TH_Tactile_Omron_B3F-10xx
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Button_Switch_THT-SW_TH_Tactile_Omron_B3F-10xx](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Button_Switch_THT-SW_TH_Tactile_Omron_B3F-10xx)
 - Short Link: [http://oom.lt/FZKBSWTHTOMRONB3F1XX](http://oom.lt/FZKBSWTHTOMRONB3F1XX)

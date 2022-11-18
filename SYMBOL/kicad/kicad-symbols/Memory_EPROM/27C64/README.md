@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Memory_EPROM-27C64
 - Hex ID: SZKMEMORYEPROM27C64
 - Name: Memory_EPROM : 27C64
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Memory_EPROM/27C64/
 - Description: Memory_EPROM : 27C64
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_EPROM-27C64](http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_EPROM-27C64)
 - Short Link: [http://oom.lt/SZKMEMORYEPROM27C64](http://oom.lt/SZKMEMORYEPROM27C64)

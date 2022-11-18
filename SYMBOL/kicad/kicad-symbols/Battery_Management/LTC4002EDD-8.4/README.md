@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Battery_Management-LTC4002EDD-8.4
 - Hex ID: SZKBATMANAGEMENTLTC42EDD84
 - Name: Battery_Management : LTC4002EDD-8.4
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Battery_Management/LTC4002EDD-8.4/
 - Description: Battery_Management : LTC4002EDD-8.4
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Battery_Management-LTC4002EDD-8.4](http://oom.lt/SYMBOL-kicad-kicad-symbols-Battery_Management-LTC4002EDD-8.4)
 - Short Link: [http://oom.lt/SZKBATMANAGEMENTLTC42EDD84](http://oom.lt/SZKBATMANAGEMENTLTC42EDD84)

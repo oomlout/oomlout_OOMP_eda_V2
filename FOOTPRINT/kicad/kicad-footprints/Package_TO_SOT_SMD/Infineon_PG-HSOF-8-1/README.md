@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-Infineon_PG-HSOF-8-1
 - Hex ID: FZKSOTINFINEONPGHSOF81
 - Name: Package_TO_SOT_SMD : Infineon_PG-HSOF-8-1
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/Infineon_PG-HSOF-8-1/
 - Description: Package_TO_SOT_SMD : Infineon_PG-HSOF-8-1
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-Infineon_PG-HSOF-8-1](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-Infineon_PG-HSOF-8-1)
 - Short Link: [http://oom.lt/FZKSOTINFINEONPGHSOF81](http://oom.lt/FZKSOTINFINEONPGHSOF81)

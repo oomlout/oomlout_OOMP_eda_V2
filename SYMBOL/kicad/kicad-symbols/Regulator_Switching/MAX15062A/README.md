@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-MAX15062A
 - Hex ID: SZKREGULATORSWINGMAX1562A
 - Name: Regulator_Switching : MAX15062A
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/MAX15062A/
 - Description: Regulator_Switching : MAX15062A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-MAX15062A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-MAX15062A)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGMAX1562A](http://oom.lt/SZKREGULATORSWINGMAX1562A)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0805-X-UF22-V63D-C85U022
 - Hex ID: FZOOMPKOOMPPCAPC85XUF22V63DC85U22
 - Name: oomlout_OOMP_parts : CAPC-0805-X-UF22-V63D-C85U022
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/CAPC-0805-X-UF22-V63D-C85U022/
 - Description: oomlout_OOMP_parts : CAPC-0805-X-UF22-V63D-C85U022
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0805-X-UF22-V63D-C85U022](http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0805-X-UF22-V63D-C85U022)
 - Short Link: [http://oom.lt/FZOOMPKOOMPPCAPC85XUF22V63DC85U22](http://oom.lt/FZOOMPKOOMPPCAPC85XUF22V63DC85U22)

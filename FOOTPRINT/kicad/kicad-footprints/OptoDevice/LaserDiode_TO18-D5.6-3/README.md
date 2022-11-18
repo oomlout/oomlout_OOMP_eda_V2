@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-OptoDevice-LaserDiode_TO18-D5.6-3
 - Hex ID: FZKOPLASERDIODETO18D563
 - Name: OptoDevice : LaserDiode_TO18-D5.6-3
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/OptoDevice/LaserDiode_TO18-D5.6-3/
 - Description: OptoDevice : LaserDiode_TO18-D5.6-3
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-OptoDevice-LaserDiode_TO18-D5.6-3](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-OptoDevice-LaserDiode_TO18-D5.6-3)
 - Short Link: [http://oom.lt/FZKOPLASERDIODETO18D563](http://oom.lt/FZKOPLASERDIODETO18D563)

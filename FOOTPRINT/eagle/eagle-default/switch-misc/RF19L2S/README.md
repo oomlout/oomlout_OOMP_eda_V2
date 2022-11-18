@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-switch-misc-RF19L2S
 - Hex ID: FZESWMISCRF19L2S
 - Name: switch-misc : RF19L2S
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/switch-misc/RF19L2S/
 - Description: switch-misc : RF19L2S
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-misc-RF19L2S](http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-misc-RF19L2S)
 - Short Link: [http://oom.lt/FZESWMISCRF19L2S](http://oom.lt/FZESWMISCRF19L2S)

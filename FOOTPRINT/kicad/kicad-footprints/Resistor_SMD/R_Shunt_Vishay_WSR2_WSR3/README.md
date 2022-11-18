@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_Shunt_Vishay_WSR2_WSR3
 - Hex ID: FZKRRSHUNTVISHAYWSR2WSR3
 - Name: Resistor_SMD : R_Shunt_Vishay_WSR2_WSR3
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_Shunt_Vishay_WSR2_WSR3/
 - Description: Resistor_SMD : R_Shunt_Vishay_WSR2_WSR3
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_Shunt_Vishay_WSR2_WSR3](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_Shunt_Vishay_WSR2_WSR3)
 - Short Link: [http://oom.lt/FZKRRSHUNTVISHAYWSR2WSR3](http://oom.lt/FZKRRSHUNTVISHAYWSR2WSR3)

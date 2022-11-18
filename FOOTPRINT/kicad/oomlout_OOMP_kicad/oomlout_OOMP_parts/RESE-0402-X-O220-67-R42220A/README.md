@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0402-X-O220-67-R42220A
 - Hex ID: FZOOMPKOOMPPRESE42XO2267R4222A
 - Name: oomlout_OOMP_parts : RESE-0402-X-O220-67-R42220A
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/RESE-0402-X-O220-67-R42220A/
 - Description: oomlout_OOMP_parts : RESE-0402-X-O220-67-R42220A
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0402-X-O220-67-R42220A](http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0402-X-O220-67-R42220A)
 - Short Link: [http://oom.lt/FZOOMPKOOMPPRESE42XO2267R4222A](http://oom.lt/FZOOMPKOOMPPRESE42XO2267R4222A)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-micro-siemens-MQFP64-1
 - Hex ID: FZEMSIEMENSMQFP641
 - Name: micro-siemens : MQFP64-1
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/micro-siemens/MQFP64-1/
 - Description: micro-siemens : MQFP64-1
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-siemens-MQFP64-1](http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-siemens-MQFP64-1)
 - Short Link: [http://oom.lt/FZEMSIEMENSMQFP641](http://oom.lt/FZEMSIEMENSMQFP641)

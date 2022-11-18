@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-smd-ipc-PLCCR18L
 - Hex ID: FZESMIPCPLCCR18L
 - Name: smd-ipc : PLCCR18L
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/smd-ipc/PLCCR18L/
 - Description: smd-ipc : PLCCR18L
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-PLCCR18L](http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-PLCCR18L)
 - Short Link: [http://oom.lt/FZESMIPCPLCCR18L](http://oom.lt/FZESMIPCPLCCR18L)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_SUR_SM22B-SURS-TF_1x22-1MP_P0.80mm_Horizontal
 - Hex ID: FZKCNJSTJSTSURSM22BSURSTF1X221MPP8H
 - Name: Connector_JST : JST_SUR_SM22B-SURS-TF_1x22-1MP_P0.80mm_Horizontal
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_SUR_SM22B-SURS-TF_1x22-1MP_P0.80mm_Horizontal/
 - Description: Connector_JST : JST_SUR_SM22B-SURS-TF_1x22-1MP_P0.80mm_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_SUR_SM22B-SURS-TF_1x22-1MP_P0.80mm_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_SUR_SM22B-SURS-TF_1x22-1MP_P0.80mm_Horizontal)
 - Short Link: [http://oom.lt/FZKCNJSTJSTSURSM22BSURSTF1X221MPP8H](http://oom.lt/FZKCNJSTJSTSURSM22BSURSTF1X221MPP8H)

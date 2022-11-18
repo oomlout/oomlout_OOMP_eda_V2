@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Power_Protection-SP0502BAHT
 - Hex ID: SZKPOWERPROTECTIONSP52BAHT
 - Name: Power_Protection : SP0502BAHT
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Power_Protection/SP0502BAHT/
 - Description: Power_Protection : SP0502BAHT
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Protection-SP0502BAHT](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Protection-SP0502BAHT)
 - Short Link: [http://oom.lt/SZKPOWERPROTECTIONSP52BAHT](http://oom.lt/SZKPOWERPROTECTIONSP52BAHT)

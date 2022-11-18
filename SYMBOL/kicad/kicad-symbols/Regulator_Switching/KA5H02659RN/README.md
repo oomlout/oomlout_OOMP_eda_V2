@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-KA5H02659RN
 - Hex ID: SZKREGULATORSWINGKA5H2659RN
 - Name: Regulator_Switching : KA5H02659RN
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/KA5H02659RN/
 - Description: Regulator_Switching : KA5H02659RN
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-KA5H02659RN](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-KA5H02659RN)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGKA5H2659RN](http://oom.lt/SZKREGULATORSWINGKA5H2659RN)

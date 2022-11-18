@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Radial_D10.0mm_P5.00mm_Fastron_07M
 - Hex ID: FZKINLRD1P5FASTRON7M
 - Name: Inductor_THT : L_Radial_D10.0mm_P5.00mm_Fastron_07M
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Radial_D10.0mm_P5.00mm_Fastron_07M/
 - Description: Inductor_THT : L_Radial_D10.0mm_P5.00mm_Fastron_07M
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Radial_D10.0mm_P5.00mm_Fastron_07M](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Radial_D10.0mm_P5.00mm_Fastron_07M)
 - Short Link: [http://oom.lt/FZKINLRD1P5FASTRON7M](http://oom.lt/FZKINLRD1P5FASTRON7M)

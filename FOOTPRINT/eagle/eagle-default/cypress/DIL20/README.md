@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-cypress-DIL20
 - Hex ID: FZECYPRESSDIL2
 - Name: cypress : DIL20
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/cypress/DIL20/
 - Description: cypress : DIL20
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-cypress-DIL20](http://oom.lt/FOOTPRINT-eagle-eagle-default-cypress-DIL20)
 - Short Link: [http://oom.lt/FZECYPRESSDIL2](http://oom.lt/FZECYPRESSDIL2)

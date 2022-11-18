@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-RF_GPS-ublox_LEA
 - Hex ID: FZKGPSUBLOXLEA
 - Name: RF_GPS : ublox_LEA
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/RF_GPS/ublox_LEA/
 - Description: RF_GPS : ublox_LEA
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_GPS-ublox_LEA](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_GPS-ublox_LEA)
 - Short Link: [http://oom.lt/FZKGPSUBLOXLEA](http://oom.lt/FZKGPSUBLOXLEA)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_LCC-PLCC-52_SMD-Socket
 - Hex ID: FZKLCCPLCC52SMSO
 - Name: Package_LCC : PLCC-52_SMD-Socket
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_LCC/PLCC-52_SMD-Socket/
 - Description: Package_LCC : PLCC-52_SMD-Socket
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_LCC-PLCC-52_SMD-Socket](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_LCC-PLCC-52_SMD-Socket)
 - Short Link: [http://oom.lt/FZKLCCPLCC52SMSO](http://oom.lt/FZKLCCPLCC52SMSO)

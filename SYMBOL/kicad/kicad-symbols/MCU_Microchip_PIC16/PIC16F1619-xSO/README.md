@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F1619-xSO
 - Hex ID: SZKMCUMCHIPPIC16PIC16F1619XSO
 - Name: MCU_Microchip_PIC16 : PIC16F1619-xSO
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC16/PIC16F1619-xSO/
 - Description: MCU_Microchip_PIC16 : PIC16F1619-xSO
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F1619-xSO](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F1619-xSO)
 - Short Link: [http://oom.lt/SZKMCUMCHIPPIC16PIC16F1619XSO](http://oom.lt/SZKMCUMCHIPPIC16PIC16F1619XSO)

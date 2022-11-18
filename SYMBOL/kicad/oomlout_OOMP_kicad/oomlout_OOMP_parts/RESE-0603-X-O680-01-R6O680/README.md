@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O680-01-R6O680
 - Hex ID: SZOOMPKOOMPPRESE63XO681R6O68
 - Name: oomlout_OOMP_parts : RESE-0603-X-O680-01-R6O680
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/RESE-0603-X-O680-01-R6O680/
 - Description: oomlout_OOMP_parts : RESE-0603-X-O680-01-R6O680
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O680-01-R6O680](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O680-01-R6O680)
 - Short Link: [http://oom.lt/SZOOMPKOOMPPRESE63XO681R6O68](http://oom.lt/SZOOMPKOOMPPRESE63XO681R6O68)

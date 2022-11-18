@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZECONNEUTRIKAGNC4MAH > con-neutrik_ag : NC4MAH](#fzeconneutrikagnc4mah--con-neutrik_ag--nc4mah)
+* [FZECEUTRIKAGNC4MAH > con-neutrik_ag : NC4MAH](#fzeceutrikagnc4mah--con-neutrik_ag--nc4mah)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZECONNEUTRIKAGNC4MAH > con-neutrik_ag : NC4MAH
+# FZECEUTRIKAGNC4MAH > con-neutrik_ag : NC4MAH
 
 - ID: FOOTPRINT-eagle-eagle-default-con-neutrik_ag-NC4MAH
-- Hex ID: FZECONNEUTRIKAGNC4MAH
+- Hex ID: FZECEUTRIKAGNC4MAH
 - Name: con-neutrik_ag : NC4MAH
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-neutrik_ag/NC4MAH/
 - Description: con-neutrik_ag : NC4MAH
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-neutrik_ag-NC4MAH](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-neutrik_ag-NC4MAH)
-- Short Link: [http://oom.lt/FZECONNEUTRIKAGNC4MAH](http://oom.lt/FZECONNEUTRIKAGNC4MAH)
+- Short Link: [http://oom.lt/FZECEUTRIKAGNC4MAH](http://oom.lt/FZECEUTRIKAGNC4MAH)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|con-neutrik_ag|
 |OOMP Index|oompIndex|NC4MAH|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-con-neutrik_ag-NC4MAH|
-|Hex ID (short code)|hexID|FZECONNEUTRIKAGNC4MAH|
+|Hex ID (short code)|hexID|FZECEUTRIKAGNC4MAH|
 |name|name|con-neutrik_ag : NC4MAH|
 ||||
 

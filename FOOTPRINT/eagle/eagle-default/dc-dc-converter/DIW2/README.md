@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-dc-dc-converter-DIW2
 - Hex ID: FZEDCDCCONVERTERDIW2
 - Name: dc-dc-converter : DIW2
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/dc-dc-converter/DIW2/
 - Description: dc-dc-converter : DIW2
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-dc-dc-converter-DIW2](http://oom.lt/FOOTPRINT-eagle-eagle-default-dc-dc-converter-DIW2)
 - Short Link: [http://oom.lt/FZEDCDCCONVERTERDIW2](http://oom.lt/FZEDCDCCONVERTERDIW2)

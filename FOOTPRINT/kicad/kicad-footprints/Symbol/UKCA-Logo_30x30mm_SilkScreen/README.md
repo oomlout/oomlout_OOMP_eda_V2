@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Symbol-UKCA-Logo_30x30mm_SilkScreen
 - Hex ID: FZKSZUKCAL3X3SILKSCREEN
 - Name: Symbol : UKCA-Logo_30x30mm_SilkScreen
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Symbol/UKCA-Logo_30x30mm_SilkScreen/
 - Description: Symbol : UKCA-Logo_30x30mm_SilkScreen
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Symbol-UKCA-Logo_30x30mm_SilkScreen](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Symbol-UKCA-Logo_30x30mm_SilkScreen)
 - Short Link: [http://oom.lt/FZKSZUKCAL3X3SILKSCREEN](http://oom.lt/FZKSZUKCAL3X3SILKSCREEN)

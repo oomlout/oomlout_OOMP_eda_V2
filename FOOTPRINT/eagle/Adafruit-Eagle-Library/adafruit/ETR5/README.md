@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-ETR5
 - Hex ID: FZAETR5
 - Name: adafruit : ETR5
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/ETR5/
 - Description: adafruit : ETR5
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-ETR5](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-ETR5)
 - Short Link: [http://oom.lt/FZAETR5](http://oom.lt/FZAETR5)

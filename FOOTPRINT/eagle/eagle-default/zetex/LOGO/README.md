@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-zetex-LOGO
 - Hex ID: FZEZETEXL
 - Name: zetex : LOGO
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/zetex/LOGO/
 - Description: zetex : LOGO
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-zetex-LOGO](http://oom.lt/FOOTPRINT-eagle-eagle-default-zetex-LOGO)
 - Short Link: [http://oom.lt/FZEZETEXL](http://oom.lt/FZEZETEXL)

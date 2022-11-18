@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-QFN-38-1EP_5x7mm_P0.5mm_EP3.15x5.15mm
 - Hex ID: FZKDFNQFN381EP5X7P5EP315X515
 - Name: Package_DFN_QFN : QFN-38-1EP_5x7mm_P0.5mm_EP3.15x5.15mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/QFN-38-1EP_5x7mm_P0.5mm_EP3.15x5.15mm/
 - Description: Package_DFN_QFN : QFN-38-1EP_5x7mm_P0.5mm_EP3.15x5.15mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-QFN-38-1EP_5x7mm_P0.5mm_EP3.15x5.15mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-QFN-38-1EP_5x7mm_P0.5mm_EP3.15x5.15mm)
 - Short Link: [http://oom.lt/FZKDFNQFN381EP5X7P5EP315X515](http://oom.lt/FZKDFNQFN381EP5X7P5EP315X515)

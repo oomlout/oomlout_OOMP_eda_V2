@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Switches-ENCODER-16MM-QUAD
 - Hex ID: FZSWENCODER16QUAD
 - Name: SparkFun-Switches : ENCODER-16MM-QUAD
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Switches/ENCODER-16MM-QUAD/
 - Description: SparkFun-Switches : ENCODER-16MM-QUAD
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Switches-ENCODER-16MM-QUAD](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Switches-ENCODER-16MM-QUAD)
 - Short Link: [http://oom.lt/FZSWENCODER16QUAD](http://oom.lt/FZSWENCODER16QUAD)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F1-STM32F103RDYx
 - Hex ID: SZKMCUSTSTM32F1STM32F13RDYX
 - Name: MCU_ST_STM32F1 : STM32F103RDYx
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32F1/STM32F103RDYx/
 - Description: MCU_ST_STM32F1 : STM32F103RDYx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F1-STM32F103RDYx](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F1-STM32F103RDYx)
 - Short Link: [http://oom.lt/SZKMCUSTSTM32F1STM32F13RDYX](http://oom.lt/SZKMCUSTSTM32F1STM32F13RDYX)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Button_Switch_THT-SW_E-Switch_EG1271_DPDT
 - Hex ID: FZKBSWESWEG1271DPDT
 - Name: Button_Switch_THT : SW_E-Switch_EG1271_DPDT
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/SW_E-Switch_EG1271_DPDT/
 - Description: Button_Switch_THT : SW_E-Switch_EG1271_DPDT
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Button_Switch_THT-SW_E-Switch_EG1271_DPDT](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Button_Switch_THT-SW_E-Switch_EG1271_DPDT)
 - Short Link: [http://oom.lt/FZKBSWESWEG1271DPDT](http://oom.lt/FZKBSWESWEG1271DPDT)

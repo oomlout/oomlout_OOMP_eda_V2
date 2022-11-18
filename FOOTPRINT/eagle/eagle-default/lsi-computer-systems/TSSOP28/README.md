@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-lsi-computer-systems-TSSOP28
 - Hex ID: FZELSICOMPUTERSYSTEMSTSS28
 - Name: lsi-computer-systems : TSSOP28
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/lsi-computer-systems/TSSOP28/
 - Description: lsi-computer-systems : TSSOP28
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-lsi-computer-systems-TSSOP28](http://oom.lt/FOOTPRINT-eagle-eagle-default-lsi-computer-systems-TSSOP28)
 - Short Link: [http://oom.lt/FZELSICOMPUTERSYSTEMSTSS28](http://oom.lt/FZELSICOMPUTERSYSTEMSTSS28)

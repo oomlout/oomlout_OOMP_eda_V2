@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_QFP-VQFP-100_14x14mm_P0.5mm
 - Hex ID: FZKQFPVQFP114X14P5
 - Name: Package_QFP : VQFP-100_14x14mm_P0.5mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_QFP/VQFP-100_14x14mm_P0.5mm/
 - Description: Package_QFP : VQFP-100_14x14mm_P0.5mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_QFP-VQFP-100_14x14mm_P0.5mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_QFP-VQFP-100_14x14mm_P0.5mm)
 - Short Link: [http://oom.lt/FZKQFPVQFP114X14P5](http://oom.lt/FZKQFPVQFP114X14P5)

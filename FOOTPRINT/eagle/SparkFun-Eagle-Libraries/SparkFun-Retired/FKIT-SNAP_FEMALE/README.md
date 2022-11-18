@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-FKIT-SNAP_FEMALE
 - Hex ID: FZSRTFKITSNAPF
 - Name: SparkFun-Retired : FKIT-SNAP_FEMALE
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Retired/FKIT-SNAP_FEMALE/
 - Description: SparkFun-Retired : FKIT-SNAP_FEMALE
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-FKIT-SNAP_FEMALE](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-FKIT-SNAP_FEMALE)
 - Short Link: [http://oom.lt/FZSRTFKITSNAPF](http://oom.lt/FZSRTFKITSNAPF)

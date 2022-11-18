@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Video-MAX453
 - Hex ID: SZKAMPLIFIERVIDEOMAX453
 - Name: Amplifier_Video : MAX453
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Video/MAX453/
 - Description: Amplifier_Video : MAX453
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Video-MAX453](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Video-MAX453)
 - Short Link: [http://oom.lt/SZKAMPLIFIERVIDEOMAX453](http://oom.lt/SZKAMPLIFIERVIDEOMAX453)

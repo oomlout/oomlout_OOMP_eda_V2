@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Driver_Motor-DRV8711
 - Hex ID: SZKDRIVERMOTORDRV8711
 - Name: Driver_Motor : DRV8711
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Driver_Motor/DRV8711/
 - Description: Driver_Motor : DRV8711
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_Motor-DRV8711](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_Motor-DRV8711)
 - Short Link: [http://oom.lt/SZKDRIVERMOTORDRV8711](http://oom.lt/SZKDRIVERMOTORDRV8711)

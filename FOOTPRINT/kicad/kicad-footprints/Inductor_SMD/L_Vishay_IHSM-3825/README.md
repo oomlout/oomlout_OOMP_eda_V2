@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Vishay_IHSM-3825
 - Hex ID: FZKINLVISHAYIHSM3825
 - Name: Inductor_SMD : L_Vishay_IHSM-3825
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Vishay_IHSM-3825/
 - Description: Inductor_SMD : L_Vishay_IHSM-3825
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Vishay_IHSM-3825](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Vishay_IHSM-3825)
 - Short Link: [http://oom.lt/FZKINLVISHAYIHSM3825](http://oom.lt/FZKINLVISHAYIHSM3825)

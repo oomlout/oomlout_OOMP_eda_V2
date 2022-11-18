@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Display_Character-ELD-426SYGWA
 - Hex ID: SZKDICHARACTERELD426SYGWA
 - Name: Display_Character : ELD-426SYGWA
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Display_Character/ELD-426SYGWA/
 - Description: Display_Character : ELD-426SYGWA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-ELD-426SYGWA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-ELD-426SYGWA)
 - Short Link: [http://oom.lt/SZKDICHARACTERELD426SYGWA](http://oom.lt/SZKDICHARACTERELD426SYGWA)

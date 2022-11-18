@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Device-Ammeter_AC
 - Hex ID: SZKDEVICEAETERAC
 - Name: Device : Ammeter_AC
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/Ammeter_AC/
 - Description: Device : Ammeter_AC
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Ammeter_AC](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Ammeter_AC)
 - Short Link: [http://oom.lt/SZKDEVICEAETERAC](http://oom.lt/SZKDEVICEAETERAC)

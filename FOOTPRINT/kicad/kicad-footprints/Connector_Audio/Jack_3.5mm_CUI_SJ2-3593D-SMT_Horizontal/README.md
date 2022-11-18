@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_Audio-Jack_3.5mm_CUI_SJ2-3593D-SMT_Horizontal
 - Hex ID: FZKCNAUDIOJ35CUISJ23593DSH
 - Name: Connector_Audio : Jack_3.5mm_CUI_SJ2-3593D-SMT_Horizontal
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Audio/Jack_3.5mm_CUI_SJ2-3593D-SMT_Horizontal/
 - Description: Connector_Audio : Jack_3.5mm_CUI_SJ2-3593D-SMT_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Audio-Jack_3.5mm_CUI_SJ2-3593D-SMT_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Audio-Jack_3.5mm_CUI_SJ2-3593D-SMT_Horizontal)
 - Short Link: [http://oom.lt/FZKCNAUDIOJ35CUISJ23593DSH](http://oom.lt/FZKCNAUDIOJ35CUISJ23593DSH)

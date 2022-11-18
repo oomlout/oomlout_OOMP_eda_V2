@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-cpci-064783
 - Hex ID: FZECONCPCI64783
 - Name: con-cpci : 064783
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-cpci/064783/
 - Description: con-cpci : 064783
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-cpci-064783](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-cpci-064783)
 - Short Link: [http://oom.lt/FZECONCPCI64783](http://oom.lt/FZECONCPCI64783)

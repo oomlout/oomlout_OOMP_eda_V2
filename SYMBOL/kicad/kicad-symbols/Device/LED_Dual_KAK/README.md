@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Device-LED_Dual_KAK
 - Hex ID: SZKDEVICELDUALKAK
 - Name: Device : LED_Dual_KAK
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/LED_Dual_KAK/
 - Description: Device : LED_Dual_KAK
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-LED_Dual_KAK](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-LED_Dual_KAK)
 - Short Link: [http://oom.lt/SZKDEVICELDUALKAK](http://oom.lt/SZKDEVICELDUALKAK)

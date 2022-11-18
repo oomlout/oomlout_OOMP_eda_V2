@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Converter_DCDC-IA2403D
 - Hex ID: SZKCONIA243D
 - Name: Converter_DCDC : IA2403D
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Converter_DCDC/IA2403D/
 - Description: Converter_DCDC : IA2403D
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-IA2403D](http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-IA2403D)
 - Short Link: [http://oom.lt/SZKCONIA243D](http://oom.lt/SZKCONIA243D)

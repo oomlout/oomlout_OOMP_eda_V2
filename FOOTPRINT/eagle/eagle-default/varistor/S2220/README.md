@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-varistor-S2220
 - Hex ID: FZEVS222
 - Name: varistor : S2220
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/varistor/S2220/
 - Description: varistor : S2220
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-varistor-S2220](http://oom.lt/FOOTPRINT-eagle-eagle-default-varistor-S2220)
 - Short Link: [http://oom.lt/FZEVS222](http://oom.lt/FZEVS222)

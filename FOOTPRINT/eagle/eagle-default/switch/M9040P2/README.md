@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-switch-M9040P2
 - Hex ID: FZESWM94P2
 - Name: switch : M9040P2
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/switch/M9040P2/
 - Description: switch : M9040P2
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-M9040P2](http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-M9040P2)
 - Short Link: [http://oom.lt/FZESWM94P2](http://oom.lt/FZESWM94P2)

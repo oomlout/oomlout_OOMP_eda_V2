@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-dc-dc-converter-4SIL
 - Hex ID: FZEDCDCCONVERTER4SIL
 - Name: dc-dc-converter : 4SIL
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/dc-dc-converter/4SIL/
 - Description: dc-dc-converter : 4SIL
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-dc-dc-converter-4SIL](http://oom.lt/FOOTPRINT-eagle-eagle-default-dc-dc-converter-4SIL)
 - Short Link: [http://oom.lt/FZEDCDCCONVERTER4SIL](http://oom.lt/FZEDCDCCONVERTER4SIL)

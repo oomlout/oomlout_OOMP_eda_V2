@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-display-lcd-SBLCDA4
 - Hex ID: FZEDILCDSBLCDA4
 - Name: display-lcd : SBLCDA4
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/display-lcd/SBLCDA4/
 - Description: display-lcd : SBLCDA4
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-display-lcd-SBLCDA4](http://oom.lt/FOOTPRINT-eagle-eagle-default-display-lcd-SBLCDA4)
 - Short Link: [http://oom.lt/FZEDILCDSBLCDA4](http://oom.lt/FZEDILCDSBLCDA4)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Current-INA240A2PW
 - Hex ID: SZKAMPLIFIERCURRENTINA24A2PW
 - Name: Amplifier_Current : INA240A2PW
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Current/INA240A2PW/
 - Description: Amplifier_Current : INA240A2PW
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Current-INA240A2PW](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Current-INA240A2PW)
 - Short Link: [http://oom.lt/SZKAMPLIFIERCURRENTINA24A2PW](http://oom.lt/SZKAMPLIFIERCURRENTINA24A2PW)

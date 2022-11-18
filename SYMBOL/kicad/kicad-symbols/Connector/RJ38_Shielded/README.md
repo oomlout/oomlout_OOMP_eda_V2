@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Connector-RJ38_Shielded
 - Hex ID: SZKCNRJ38SHED
 - Name: Connector : RJ38_Shielded
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector/RJ38_Shielded/
 - Description: Connector : RJ38_Shielded
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-RJ38_Shielded](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-RJ38_Shielded)
 - Short Link: [http://oom.lt/SZKCNRJ38SHED](http://oom.lt/SZKCNRJ38SHED)

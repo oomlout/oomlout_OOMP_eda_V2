@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_SiFive-FU540-C000
 - Hex ID: SZKMCUSIFIVEFU54C
 - Name: MCU_SiFive : FU540-C000
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_SiFive/FU540-C000/
 - Description: MCU_SiFive : FU540-C000
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_SiFive-FU540-C000](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_SiFive-FU540-C000)
 - Short Link: [http://oom.lt/SZKMCUSIFIVEFU54C](http://oom.lt/SZKMCUSIFIVEFU54C)

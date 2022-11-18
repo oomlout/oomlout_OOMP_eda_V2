@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-con-yamaichi-MD04SSP
 - Hex ID: FZECONYAMAICHIMD4SSP
 - Name: con-yamaichi : MD04SSP
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-yamaichi/MD04SSP/
 - Description: con-yamaichi : MD04SSP
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-yamaichi-MD04SSP](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-yamaichi-MD04SSP)
 - Short Link: [http://oom.lt/FZECONYAMAICHIMD4SSP](http://oom.lt/FZECONYAMAICHIMD4SSP)

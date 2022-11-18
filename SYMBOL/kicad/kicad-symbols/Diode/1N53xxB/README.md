@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-1N53xxB
 - Hex ID: SZKDIODE1N53XXB
 - Name: Diode : 1N53xxB
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/1N53xxB/
 - Description: Diode : 1N53xxB
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-1N53xxB](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-1N53xxB)
 - Short Link: [http://oom.lt/SZKDIODE1N53XXB](http://oom.lt/SZKDIODE1N53XXB)

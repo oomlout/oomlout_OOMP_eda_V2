@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Analog_DAC-AD9142
 - Hex ID: SZKANALOGDACAD9142
 - Name: Analog_DAC : AD9142
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog_DAC/AD9142/
 - Description: Analog_DAC : AD9142
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_DAC-AD9142](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_DAC-AD9142)
 - Short Link: [http://oom.lt/SZKANALOGDACAD9142](http://oom.lt/SZKANALOGDACAD9142)

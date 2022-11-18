@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Cellular_Breakout_2542
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSCELLULARBREAKOUT2542
 - Name: digikey-footprints : Cellular_Breakout_2542
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Cellular_Breakout_2542/
 - Description: digikey-footprints : Cellular_Breakout_2542
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Cellular_Breakout_2542](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Cellular_Breakout_2542)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSCELLULARBREAKOUT2542](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSCELLULARBREAKOUT2542)

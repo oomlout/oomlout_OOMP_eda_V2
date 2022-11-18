@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Analog_DAC-MCP4911
 - Hex ID: SZKANALOGDACMCP4911
 - Name: Analog_DAC : MCP4911
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog_DAC/MCP4911/
 - Description: Analog_DAC : MCP4911
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_DAC-MCP4911](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_DAC-MCP4911)
 - Short Link: [http://oom.lt/SZKANALOGDACMCP4911](http://oom.lt/SZKANALOGDACMCP4911)

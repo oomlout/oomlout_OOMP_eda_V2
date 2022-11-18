@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEREFPACKAGESPLCC43 > ref-packages : P-LCC-4-3](#fzerefpackagesplcc43--ref-packages--p-lcc-4-3)
+* [FZEREFPSPLCC43 > ref-packages : P-LCC-4-3](#fzerefpsplcc43--ref-packages--p-lcc-4-3)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEREFPACKAGESPLCC43 > ref-packages : P-LCC-4-3
+# FZEREFPSPLCC43 > ref-packages : P-LCC-4-3
 
 - ID: FOOTPRINT-eagle-eagle-default-ref-packages-P-LCC-4-3
-- Hex ID: FZEREFPACKAGESPLCC43
+- Hex ID: FZEREFPSPLCC43
 - Name: ref-packages : P-LCC-4-3
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ref-packages/P-LCC-4-3/
 - Description: ref-packages : P-LCC-4-3
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-P-LCC-4-3](http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-P-LCC-4-3)
-- Short Link: [http://oom.lt/FZEREFPACKAGESPLCC43](http://oom.lt/FZEREFPACKAGESPLCC43)
+- Short Link: [http://oom.lt/FZEREFPSPLCC43](http://oom.lt/FZEREFPSPLCC43)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|ref-packages|
 |OOMP Index|oompIndex|P-LCC-4-3|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-ref-packages-P-LCC-4-3|
-|Hex ID (short code)|hexID|FZEREFPACKAGESPLCC43|
+|Hex ID (short code)|hexID|FZEREFPSPLCC43|
 |name|name|ref-packages : P-LCC-4-3|
 ||||

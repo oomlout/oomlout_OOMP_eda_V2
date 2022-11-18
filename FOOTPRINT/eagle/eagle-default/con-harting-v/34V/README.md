@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-harting-v-34V
 - Hex ID: FZECONHARTINGV34V
 - Name: con-harting-v : 34V
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-harting-v/34V/
 - Description: con-harting-v : 34V
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-harting-v-34V](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-harting-v-34V)
 - Short Link: [http://oom.lt/FZECONHARTINGV34V](http://oom.lt/FZECONHARTINGV34V)

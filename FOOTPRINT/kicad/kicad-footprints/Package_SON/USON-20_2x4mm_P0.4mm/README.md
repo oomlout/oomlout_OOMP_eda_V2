@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_SON-USON-20_2x4mm_P0.4mm
 - Hex ID: FZKSONUSON22X4P4
 - Name: Package_SON : USON-20_2x4mm_P0.4mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SON/USON-20_2x4mm_P0.4mm/
 - Description: Package_SON : USON-20_2x4mm_P0.4mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SON-USON-20_2x4mm_P0.4mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SON-USON-20_2x4mm_P0.4mm)
 - Short Link: [http://oom.lt/FZKSONUSON22X4P4](http://oom.lt/FZKSONUSON22X4P4)

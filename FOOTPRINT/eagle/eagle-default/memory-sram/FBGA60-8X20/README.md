@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-memory-sram-FBGA60-8X20
 - Hex ID: FZEMEMORYSRAMFBGA68X2
 - Name: memory-sram : FBGA60-8X20
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/memory-sram/FBGA60-8X20/
 - Description: memory-sram : FBGA60-8X20
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-memory-sram-FBGA60-8X20](http://oom.lt/FOOTPRINT-eagle-eagle-default-memory-sram-FBGA60-8X20)
 - Short Link: [http://oom.lt/FZEMEMORYSRAMFBGA68X2](http://oom.lt/FZEMEMORYSRAMFBGA68X2)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-analog-devices-LGA16
 - Hex ID: FZEANALOGDEVICESLGA16
 - Name: analog-devices : LGA16
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/analog-devices/LGA16/
 - Description: analog-devices : LGA16
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-analog-devices-LGA16](http://oom.lt/FOOTPRINT-eagle-eagle-default-analog-devices-LGA16)
 - Short Link: [http://oom.lt/FZEANALOGDEVICESLGA16](http://oom.lt/FZEANALOGDEVICESLGA16)

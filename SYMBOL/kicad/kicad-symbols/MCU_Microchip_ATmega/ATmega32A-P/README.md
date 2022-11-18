@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega32A-P
 - Hex ID: SZKMCUMCHIPATMEGAATMEGA32AP
 - Name: MCU_Microchip_ATmega : ATmega32A-P
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_ATmega/ATmega32A-P/
 - Description: MCU_Microchip_ATmega : ATmega32A-P
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega32A-P](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega32A-P)
 - Short Link: [http://oom.lt/SZKMCUMCHIPATMEGAATMEGA32AP](http://oom.lt/SZKMCUMCHIPATMEGAATMEGA32AP)

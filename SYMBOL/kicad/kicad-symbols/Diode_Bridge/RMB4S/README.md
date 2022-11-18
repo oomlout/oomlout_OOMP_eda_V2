@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode_Bridge-RMB4S
 - Hex ID: SZKDIODEBRIDGERMB4S
 - Name: Diode_Bridge : RMB4S
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode_Bridge/RMB4S/
 - Description: Diode_Bridge : RMB4S
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode_Bridge-RMB4S](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode_Bridge-RMB4S)
 - Short Link: [http://oom.lt/SZKDIODEBRIDGERMB4S](http://oom.lt/SZKDIODEBRIDGERMB4S)

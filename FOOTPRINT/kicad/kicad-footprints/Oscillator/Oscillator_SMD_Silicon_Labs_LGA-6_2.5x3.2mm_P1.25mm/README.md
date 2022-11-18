@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Oscillator-Oscillator_SMD_Silicon_Labs_LGA-6_2.5x3.2mm_P1.25mm
 - Hex ID: FZKOCSOCSSMSILICONLABSLGA625X32P125
 - Name: Oscillator : Oscillator_SMD_Silicon_Labs_LGA-6_2.5x3.2mm_P1.25mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Oscillator/Oscillator_SMD_Silicon_Labs_LGA-6_2.5x3.2mm_P1.25mm/
 - Description: Oscillator : Oscillator_SMD_Silicon_Labs_LGA-6_2.5x3.2mm_P1.25mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Oscillator-Oscillator_SMD_Silicon_Labs_LGA-6_2.5x3.2mm_P1.25mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Oscillator-Oscillator_SMD_Silicon_Labs_LGA-6_2.5x3.2mm_P1.25mm)
 - Short Link: [http://oom.lt/FZKOCSOCSSMSILICONLABSLGA625X32P125](http://oom.lt/FZKOCSOCSSMSILICONLABSLGA625X32P125)

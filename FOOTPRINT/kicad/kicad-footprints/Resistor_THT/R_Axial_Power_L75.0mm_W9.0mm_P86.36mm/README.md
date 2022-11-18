@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Resistor_THT-R_Axial_Power_L75.0mm_W9.0mm_P86.36mm
 - Hex ID: FZKRRAXIALPOWERL75W9P8636
 - Name: Resistor_THT : R_Axial_Power_L75.0mm_W9.0mm_P86.36mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Resistor_THT/R_Axial_Power_L75.0mm_W9.0mm_P86.36mm/
 - Description: Resistor_THT : R_Axial_Power_L75.0mm_W9.0mm_P86.36mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Resistor_THT-R_Axial_Power_L75.0mm_W9.0mm_P86.36mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Resistor_THT-R_Axial_Power_L75.0mm_W9.0mm_P86.36mm)
 - Short Link: [http://oom.lt/FZKRRAXIALPOWERL75W9P8636](http://oom.lt/FZKRRAXIALPOWERL75W9P8636)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-resistor-power-RS002
 - Hex ID: FZERESISTORPOWERRS2
 - Name: resistor-power : RS002
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/resistor-power/RS002/
 - Description: resistor-power : RS002
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-resistor-power-RS002](http://oom.lt/FOOTPRINT-eagle-eagle-default-resistor-power-RS002)
 - Short Link: [http://oom.lt/FZERESISTORPOWERRS2](http://oom.lt/FZERESISTORPOWERRS2)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_Wago-Wago_734-140_1x10_P3.50mm_Vertical
 - Hex ID: FZKCNWAGOWAGO734141X1P35F
 - Name: Connector_Wago : Wago_734-140_1x10_P3.50mm_Vertical
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Wago/Wago_734-140_1x10_P3.50mm_Vertical/
 - Description: Connector_Wago : Wago_734-140_1x10_P3.50mm_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Wago-Wago_734-140_1x10_P3.50mm_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Wago-Wago_734-140_1x10_P3.50mm_Vertical)
 - Short Link: [http://oom.lt/FZKCNWAGOWAGO734141X1P35F](http://oom.lt/FZKCNWAGOWAGO734141X1P35F)

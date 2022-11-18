@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_Card-microSD_HC_Wuerth_693072010801
 - Hex ID: FZKCNCARDMSDHCWUERTH69372181
 - Name: Connector_Card : microSD_HC_Wuerth_693072010801
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Card/microSD_HC_Wuerth_693072010801/
 - Description: Connector_Card : microSD_HC_Wuerth_693072010801
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Card-microSD_HC_Wuerth_693072010801](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Card-microSD_HC_Wuerth_693072010801)
 - Short Link: [http://oom.lt/FZKCNCARDMSDHCWUERTH69372181](http://oom.lt/FZKCNCARDMSDHCWUERTH69372181)

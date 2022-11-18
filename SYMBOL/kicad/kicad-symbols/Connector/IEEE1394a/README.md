@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Connector-IEEE1394a
 - Hex ID: SZKCNIEEE1394A
 - Name: Connector : IEEE1394a
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector/IEEE1394a/
 - Description: Connector : IEEE1394a
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-IEEE1394a](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-IEEE1394a)
 - Short Link: [http://oom.lt/SZKCNIEEE1394A](http://oom.lt/SZKCNIEEE1394A)

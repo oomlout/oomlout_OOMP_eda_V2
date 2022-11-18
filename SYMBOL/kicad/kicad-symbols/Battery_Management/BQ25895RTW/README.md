@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Battery_Management-BQ25895RTW
 - Hex ID: SZKBATMANAGEMENTBQ25895RTW
 - Name: Battery_Management : BQ25895RTW
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Battery_Management/BQ25895RTW/
 - Description: Battery_Management : BQ25895RTW
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Battery_Management-BQ25895RTW](http://oom.lt/SYMBOL-kicad-kicad-symbols-Battery_Management-BQ25895RTW)
 - Short Link: [http://oom.lt/SZKBATMANAGEMENTBQ25895RTW](http://oom.lt/SZKBATMANAGEMENTBQ25895RTW)

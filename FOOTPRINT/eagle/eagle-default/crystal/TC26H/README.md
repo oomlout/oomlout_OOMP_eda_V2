@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-crystal-TC26H
 - Hex ID: FZEXTC26H
 - Name: crystal : TC26H
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/crystal/TC26H/
 - Description: crystal : TC26H
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-crystal-TC26H](http://oom.lt/FOOTPRINT-eagle-eagle-default-crystal-TC26H)
 - Short Link: [http://oom.lt/FZEXTC26H](http://oom.lt/FZEXTC26H)

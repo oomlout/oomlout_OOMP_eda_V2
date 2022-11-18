@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-74xx-little-de-SSOP08
 - Hex ID: FZE74XXLITTLEDESS8
 - Name: 74xx-little-de : SSOP08
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/74xx-little-de/SSOP08/
 - Description: 74xx-little-de : SSOP08
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-74xx-little-de-SSOP08](http://oom.lt/FOOTPRINT-eagle-eagle-default-74xx-little-de-SSOP08)
 - Short Link: [http://oom.lt/FZE74XXLITTLEDESS8](http://oom.lt/FZE74XXLITTLEDESS8)

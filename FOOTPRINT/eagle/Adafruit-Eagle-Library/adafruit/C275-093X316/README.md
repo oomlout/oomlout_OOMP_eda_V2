@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-C275-093X316
 - Hex ID: FZAC27593X316
 - Name: adafruit : C275-093X316
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/C275-093X316/
 - Description: adafruit : C275-093X316
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-C275-093X316](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-C275-093X316)
 - Short Link: [http://oom.lt/FZAC27593X316](http://oom.lt/FZAC27593X316)

@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZDIGIDIGIKEYFOOTPRINTSPINHEADER2X5P127 > digikey-footprints : PinHeader_2x5_P1.27mm](#fzdigidigikeyfootprintspinheader2x5p127--digikey-footprints--pinheader_2x5_p127mm)
+* [FZDIGIDIGIKEYFOOTPRINTSPH2X5P127 > digikey-footprints : PinHeader_2x5_P1.27mm](#fzdigidigikeyfootprintsph2x5p127--digikey-footprints--pinheader_2x5_p127mm)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZDIGIDIGIKEYFOOTPRINTSPINHEADER2X5P127 > digikey-footprints : PinHeader_2x5_P1.27mm
+# FZDIGIDIGIKEYFOOTPRINTSPH2X5P127 > digikey-footprints : PinHeader_2x5_P1.27mm
 
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-PinHeader_2x5_P1.27mm
-- Hex ID: FZDIGIDIGIKEYFOOTPRINTSPINHEADER2X5P127
+- Hex ID: FZDIGIDIGIKEYFOOTPRINTSPH2X5P127
 - Name: digikey-footprints : PinHeader_2x5_P1.27mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/PinHeader_2x5_P1.27mm/
 - Description: digikey-footprints : PinHeader_2x5_P1.27mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-PinHeader_2x5_P1.27mm](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-PinHeader_2x5_P1.27mm)
-- Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSPINHEADER2X5P127](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSPINHEADER2X5P127)
+- Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSPH2X5P127](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSPH2X5P127)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|digikey-footprints|
 |OOMP Index|oompIndex|PinHeader_2x5_P1.27mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-PinHeader_2x5_P1.27mm|
-|Hex ID (short code)|hexID|FZDIGIDIGIKEYFOOTPRINTSPINHEADER2X5P127|
+|Hex ID (short code)|hexID|FZDIGIDIGIKEYFOOTPRINTSPH2X5P127|
 |name|name|digikey-footprints : PinHeader_2x5_P1.27mm|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'PinHeader_2x5_P1.27mm'</td><td> 'description'</td></tr><tr><td> 'https</td></tr><tr><td>//cdn.amphenol-icc.com/media/wysiwyg/files/drawing/20021121.pdf'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

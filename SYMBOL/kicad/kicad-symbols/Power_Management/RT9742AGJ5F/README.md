@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Power_Management-RT9742AGJ5F
 - Hex ID: SZKPOWERMANAGEMENTRT9742AGJ5F
 - Name: Power_Management : RT9742AGJ5F
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Power_Management/RT9742AGJ5F/
 - Description: Power_Management : RT9742AGJ5F
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-RT9742AGJ5F](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-RT9742AGJ5F)
 - Short Link: [http://oom.lt/SZKPOWERMANAGEMENTRT9742AGJ5F](http://oom.lt/SZKPOWERMANAGEMENTRT9742AGJ5F)

@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEREFPACKAGES3DSODFL7959X11 > ref-packages-3d : SODFL7959X110](#fzerefpackages3dsodfl7959x11--ref-packages-3d--sodfl7959x110)
+* [FZEREFPS3DSODFL7959X11 > ref-packages-3d : SODFL7959X110](#fzerefps3dsodfl7959x11--ref-packages-3d--sodfl7959x110)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEREFPACKAGES3DSODFL7959X11 > ref-packages-3d : SODFL7959X110
+# FZEREFPS3DSODFL7959X11 > ref-packages-3d : SODFL7959X110
 
 - ID: FOOTPRINT-eagle-eagle-default-ref-packages-3d-SODFL7959X110
-- Hex ID: FZEREFPACKAGES3DSODFL7959X11
+- Hex ID: FZEREFPS3DSODFL7959X11
 - Name: ref-packages-3d : SODFL7959X110
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ref-packages-3d/SODFL7959X110/
 - Description: ref-packages-3d : SODFL7959X110
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-3d-SODFL7959X110](http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-3d-SODFL7959X110)
-- Short Link: [http://oom.lt/FZEREFPACKAGES3DSODFL7959X11](http://oom.lt/FZEREFPACKAGES3DSODFL7959X11)
+- Short Link: [http://oom.lt/FZEREFPS3DSODFL7959X11](http://oom.lt/FZEREFPS3DSODFL7959X11)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|ref-packages-3d|
 |OOMP Index|oompIndex|SODFL7959X110|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-ref-packages-3d-SODFL7959X110|
-|Hex ID (short code)|hexID|FZEREFPACKAGES3DSODFL7959X11|
+|Hex ID (short code)|hexID|FZEREFPS3DSODFL7959X11|
 |name|name|ref-packages-3d : SODFL7959X110|
 ||||

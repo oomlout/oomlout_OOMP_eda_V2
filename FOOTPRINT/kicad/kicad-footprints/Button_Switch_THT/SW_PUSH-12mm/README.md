@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Button_Switch_THT-SW_PUSH-12mm
 - Hex ID: FZKBSWPUSH12
 - Name: Button_Switch_THT : SW_PUSH-12mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/SW_PUSH-12mm/
 - Description: Button_Switch_THT : SW_PUSH-12mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Button_Switch_THT-SW_PUSH-12mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Button_Switch_THT-SW_PUSH-12mm)
 - Short Link: [http://oom.lt/FZKBSWPUSH12](http://oom.lt/FZKBSWPUSH12)

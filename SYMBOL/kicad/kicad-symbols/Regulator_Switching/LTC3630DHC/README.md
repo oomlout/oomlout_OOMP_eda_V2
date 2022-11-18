@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-LTC3630DHC
 - Hex ID: SZKREGULATORSWINGLTC363DHC
 - Name: Regulator_Switching : LTC3630DHC
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/LTC3630DHC/
 - Description: Regulator_Switching : LTC3630DHC
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LTC3630DHC](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LTC3630DHC)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGLTC363DHC](http://oom.lt/SZKREGULATORSWINGLTC363DHC)

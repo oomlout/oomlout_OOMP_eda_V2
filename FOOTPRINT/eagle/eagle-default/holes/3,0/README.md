@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-holes-3,0
 - Hex ID: FZEH3
 - Name: holes : 3,0
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/holes/3,0/
 - Description: holes : 3,0
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-holes-3,0](http://oom.lt/FOOTPRINT-eagle-eagle-default-holes-3,0)
 - Short Link: [http://oom.lt/FZEH3](http://oom.lt/FZEH3)

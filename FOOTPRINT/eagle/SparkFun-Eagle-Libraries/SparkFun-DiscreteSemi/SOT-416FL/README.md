@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-DiscreteSemi-SOT-416FL
 - Hex ID: FZSDSSOT416FL
 - Name: SparkFun-DiscreteSemi : SOT-416FL
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-DiscreteSemi/SOT-416FL/
 - Description: SparkFun-DiscreteSemi : SOT-416FL
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-DiscreteSemi-SOT-416FL](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-DiscreteSemi-SOT-416FL)
 - Short Link: [http://oom.lt/FZSDSSOT416FL](http://oom.lt/FZSDSSOT416FL)

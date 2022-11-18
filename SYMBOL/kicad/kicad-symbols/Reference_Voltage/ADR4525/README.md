@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Reference_Voltage-ADR4525
 - Hex ID: SZKREFERENCEVOLTAGEADR4525
 - Name: Reference_Voltage : ADR4525
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Reference_Voltage/ADR4525/
 - Description: Reference_Voltage : ADR4525
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Voltage-ADR4525](http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Voltage-ADR4525)
 - Short Link: [http://oom.lt/SZKREFERENCEVOLTAGEADR4525](http://oom.lt/SZKREFERENCEVOLTAGEADR4525)

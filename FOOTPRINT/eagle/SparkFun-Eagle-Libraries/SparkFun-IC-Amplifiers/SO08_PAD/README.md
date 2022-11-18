@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZSIASO8PAD > SparkFun-IC-Amplifiers : SO08_PAD](#fzsiaso8pad--sparkfun-ic-amplifiers--so08_pad)
+* [FZSIASO8P > SparkFun-IC-Amplifiers : SO08_PAD](#fzsiaso8p--sparkfun-ic-amplifiers--so08_pad)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZSIASO8PAD > SparkFun-IC-Amplifiers : SO08_PAD
+# FZSIASO8P > SparkFun-IC-Amplifiers : SO08_PAD
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Amplifiers-SO08_PAD
-- Hex ID: FZSIASO8PAD
+- Hex ID: FZSIASO8P
 - Name: SparkFun-IC-Amplifiers : SO08_PAD
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-IC-Amplifiers/SO08_PAD/
 - Description: SparkFun-IC-Amplifiers : SO08_PAD
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Amplifiers-SO08_PAD](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Amplifiers-SO08_PAD)
-- Short Link: [http://oom.lt/FZSIASO8PAD](http://oom.lt/FZSIASO8PAD)
+- Short Link: [http://oom.lt/FZSIASO8P](http://oom.lt/FZSIASO8P)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|SparkFun-IC-Amplifiers|
 |OOMP Index|oompIndex|SO08_PAD|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Amplifiers-SO08_PAD|
-|Hex ID (short code)|hexID|FZSIASO8PAD|
+|Hex ID (short code)|hexID|FZSIASO8P|
 |name|name|SparkFun-IC-Amplifiers : SO08_PAD|
 ||||

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-micro-motorola-PLCC68S
 - Hex ID: FZEMMOTOROLAPLCC68S
 - Name: micro-motorola : PLCC68S
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/micro-motorola/PLCC68S/
 - Description: micro-motorola : PLCC68S
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-motorola-PLCC68S](http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-motorola-PLCC68S)
 - Short Link: [http://oom.lt/FZEMMOTOROLAPLCC68S](http://oom.lt/FZEMMOTOROLAPLCC68S)

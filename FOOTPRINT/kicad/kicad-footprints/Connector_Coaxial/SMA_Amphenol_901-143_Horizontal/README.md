@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_Coaxial-SMA_Amphenol_901-143_Horizontal
 - Hex ID: FZKCNCOASAMPHENOL91143H
 - Name: Connector_Coaxial : SMA_Amphenol_901-143_Horizontal
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Coaxial/SMA_Amphenol_901-143_Horizontal/
 - Description: Connector_Coaxial : SMA_Amphenol_901-143_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Coaxial-SMA_Amphenol_901-143_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Coaxial-SMA_Amphenol_901-143_Horizontal)
 - Short Link: [http://oom.lt/FZKCNCOASAMPHENOL91143H](http://oom.lt/FZKCNCOASAMPHENOL91143H)

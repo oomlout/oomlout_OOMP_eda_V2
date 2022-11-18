@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-atmel-TQFP144
 - Hex ID: FZEATMELTQFP144
 - Name: atmel : TQFP144
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/atmel/TQFP144/
 - Description: atmel : TQFP144
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-atmel-TQFP144](http://oom.lt/FOOTPRINT-eagle-eagle-default-atmel-TQFP144)
 - Short Link: [http://oom.lt/FZEATMELTQFP144](http://oom.lt/FZEATMELTQFP144)

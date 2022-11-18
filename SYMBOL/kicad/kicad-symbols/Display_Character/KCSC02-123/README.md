@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Display_Character-KCSC02-123
 - Hex ID: SZKDICHARACTERKCSC2123
 - Name: Display_Character : KCSC02-123
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Display_Character/KCSC02-123/
 - Description: Display_Character : KCSC02-123
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-KCSC02-123](http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-KCSC02-123)
 - Short Link: [http://oom.lt/SZKDICHARACTERKCSC2123](http://oom.lt/SZKDICHARACTERKCSC2123)

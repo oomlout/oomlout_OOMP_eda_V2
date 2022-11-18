@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Aesthetics-FIO_LOGO
 - Hex ID: FZSAFIOL
 - Name: SparkFun-Aesthetics : FIO_LOGO
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Aesthetics/FIO_LOGO/
 - Description: SparkFun-Aesthetics : FIO_LOGO
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Aesthetics-FIO_LOGO](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Aesthetics-FIO_LOGO)
 - Short Link: [http://oom.lt/FZSAFIOL](http://oom.lt/FZSAFIOL)

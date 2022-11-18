@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-ml-ML16L
 - Hex ID: FZECONMLML16L
 - Name: con-ml : ML16L
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-ml/ML16L/
 - Description: con-ml : ML16L
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-ml-ML16L](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-ml-ML16L)
 - Short Link: [http://oom.lt/FZECONMLML16L](http://oom.lt/FZECONMLML16L)

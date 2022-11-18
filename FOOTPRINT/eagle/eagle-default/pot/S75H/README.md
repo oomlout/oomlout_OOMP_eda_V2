@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-pot-S75H
 - Hex ID: FZEPOTS75H
 - Name: pot : S75H
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/pot/S75H/
 - Description: pot : S75H
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-pot-S75H](http://oom.lt/FOOTPRINT-eagle-eagle-default-pot-S75H)
 - Short Link: [http://oom.lt/FZEPOTS75H](http://oom.lt/FZEPOTS75H)

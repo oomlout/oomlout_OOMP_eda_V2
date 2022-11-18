@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16LF15386-xMV
 - Hex ID: SZKMCUMCHIPPIC16PIC16LF15386XMV
 - Name: MCU_Microchip_PIC16 : PIC16LF15386-xMV
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC16/PIC16LF15386-xMV/
 - Description: MCU_Microchip_PIC16 : PIC16LF15386-xMV
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16LF15386-xMV](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16LF15386-xMV)
 - Short Link: [http://oom.lt/SZKMCUMCHIPPIC16PIC16LF15386XMV](http://oom.lt/SZKMCUMCHIPPIC16PIC16LF15386XMV)

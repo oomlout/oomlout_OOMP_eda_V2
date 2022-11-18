@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Bluetooth_Module_WT32I-A-AI6
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSBLUETOOTHMOWT32IAAI6
 - Name: digikey-footprints : Bluetooth_Module_WT32I-A-AI6
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Bluetooth_Module_WT32I-A-AI6/
 - Description: digikey-footprints : Bluetooth_Module_WT32I-A-AI6
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Bluetooth_Module_WT32I-A-AI6](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Bluetooth_Module_WT32I-A-AI6)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSBLUETOOTHMOWT32IAAI6](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSBLUETOOTHMOWT32IAAI6)

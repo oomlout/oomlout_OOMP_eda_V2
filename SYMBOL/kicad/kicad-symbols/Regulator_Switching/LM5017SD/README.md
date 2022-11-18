@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-LM5017SD
 - Hex ID: SZKREGULATORSWINGLM517SD
 - Name: Regulator_Switching : LM5017SD
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/LM5017SD/
 - Description: Regulator_Switching : LM5017SD
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LM5017SD](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LM5017SD)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGLM517SD](http://oom.lt/SZKREGULATORSWINGLM517SD)

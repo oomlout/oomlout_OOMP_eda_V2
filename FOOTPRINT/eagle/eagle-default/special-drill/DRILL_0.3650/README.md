@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-special-drill-DRILL_0.3650
 - Hex ID: FZESPECIALDRILLDRILL365
 - Name: special-drill : DRILL_0.3650
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/special-drill/DRILL_0.3650/
 - Description: special-drill : DRILL_0.3650
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-special-drill-DRILL_0.3650](http://oom.lt/FOOTPRINT-eagle-eagle-default-special-drill-DRILL_0.3650)
 - Short Link: [http://oom.lt/FZESPECIALDRILLDRILL365](http://oom.lt/FZESPECIALDRILLDRILL365)

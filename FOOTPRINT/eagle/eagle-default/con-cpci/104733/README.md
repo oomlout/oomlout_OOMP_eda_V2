@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-cpci-104733
 - Hex ID: FZECONCPCI14733
 - Name: con-cpci : 104733
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-cpci/104733/
 - Description: con-cpci : 104733
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-cpci-104733](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-cpci-104733)
 - Short Link: [http://oom.lt/FZECONCPCI14733](http://oom.lt/FZECONCPCI14733)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_BGA-Texas_MicroStar_Junior_BGA-12_2.0x2.5mm_Layout4x3_P0.5mm
 - Hex ID: FZKBGATEXASMSTARJUNIORBGA122X25LAYOUT4X3P5
 - Name: Package_BGA : Texas_MicroStar_Junior_BGA-12_2.0x2.5mm_Layout4x3_P0.5mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_BGA/Texas_MicroStar_Junior_BGA-12_2.0x2.5mm_Layout4x3_P0.5mm/
 - Description: Package_BGA : Texas_MicroStar_Junior_BGA-12_2.0x2.5mm_Layout4x3_P0.5mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_BGA-Texas_MicroStar_Junior_BGA-12_2.0x2.5mm_Layout4x3_P0.5mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_BGA-Texas_MicroStar_Junior_BGA-12_2.0x2.5mm_Layout4x3_P0.5mm)
 - Short Link: [http://oom.lt/FZKBGATEXASMSTARJUNIORBGA122X25LAYOUT4X3P5](http://oom.lt/FZKBGATEXASMSTARJUNIORBGA122X25LAYOUT4X3P5)

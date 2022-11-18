@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O511-67-R6511A
 - Hex ID: SZOOMPKOOMPPRESE63XO51167R6511A
 - Name: oomlout_OOMP_parts : RESE-0603-X-O511-67-R6511A
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/RESE-0603-X-O511-67-R6511A/
 - Description: oomlout_OOMP_parts : RESE-0603-X-O511-67-R6511A
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O511-67-R6511A](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O511-67-R6511A)
 - Short Link: [http://oom.lt/SZOOMPKOOMPPRESE63XO51167R6511A](http://oom.lt/SZOOMPKOOMPPRESE63XO51167R6511A)

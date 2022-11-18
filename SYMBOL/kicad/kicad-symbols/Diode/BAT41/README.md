@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-BAT41
 - Hex ID: SZKDIODEBAT41
 - Name: Diode : BAT41
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/BAT41/
 - Description: Diode : BAT41
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-BAT41](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-BAT41)
 - Short Link: [http://oom.lt/SZKDIODEBAT41](http://oom.lt/SZKDIODEBAT41)

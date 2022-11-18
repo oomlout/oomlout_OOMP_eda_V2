@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Display_Character-SA39-11YWA
 - Hex ID: SZKDICHARACTERSA3911YWA
 - Name: Display_Character : SA39-11YWA
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Display_Character/SA39-11YWA/
 - Description: Display_Character : SA39-11YWA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-SA39-11YWA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-SA39-11YWA)
 - Short Link: [http://oom.lt/SZKDICHARACTERSA3911YWA](http://oom.lt/SZKDICHARACTERSA3911YWA)

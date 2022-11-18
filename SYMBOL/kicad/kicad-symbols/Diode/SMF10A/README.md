@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-SMF10A
 - Hex ID: SZKDIODESMF1A
 - Name: Diode : SMF10A
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/SMF10A/
 - Description: Diode : SMF10A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-SMF10A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-SMF10A)
 - Short Link: [http://oom.lt/SZKDIODESMF1A](http://oom.lt/SZKDIODESMF1A)

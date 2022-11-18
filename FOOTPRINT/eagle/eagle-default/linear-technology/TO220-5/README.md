@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-linear-technology-TO220-5
 - Hex ID: FZELINEARTECHNOLOGYTO225
 - Name: linear-technology : TO220-5
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/linear-technology/TO220-5/
 - Description: linear-technology : TO220-5
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-linear-technology-TO220-5](http://oom.lt/FOOTPRINT-eagle-eagle-default-linear-technology-TO220-5)
 - Short Link: [http://oom.lt/FZELINEARTECHNOLOGYTO225](http://oom.lt/FZELINEARTECHNOLOGYTO225)

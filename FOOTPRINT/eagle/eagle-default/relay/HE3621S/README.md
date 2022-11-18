@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-relay-HE3621S
 - Hex ID: FZERELAYHE3621S
 - Name: relay : HE3621S
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/relay/HE3621S/
 - Description: relay : HE3621S
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-HE3621S](http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-HE3621S)
 - Short Link: [http://oom.lt/FZERELAYHE3621S](http://oom.lt/FZERELAYHE3621S)

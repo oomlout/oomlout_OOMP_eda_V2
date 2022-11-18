@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-LED_2-SMD_Gull_Wing_4.4x3.85mm
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSL2SMGULLWING44X385
 - Name: digikey-footprints : LED_2-SMD_Gull_Wing_4.4x3.85mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/LED_2-SMD_Gull_Wing_4.4x3.85mm/
 - Description: digikey-footprints : LED_2-SMD_Gull_Wing_4.4x3.85mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-LED_2-SMD_Gull_Wing_4.4x3.85mm](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-LED_2-SMD_Gull_Wing_4.4x3.85mm)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSL2SMGULLWING44X385](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSL2SMGULLWING44X385)

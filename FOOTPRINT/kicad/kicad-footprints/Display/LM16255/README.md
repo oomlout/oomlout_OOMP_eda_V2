@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Display-LM16255
 - Hex ID: FZKDILM16255
 - Name: Display : LM16255
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Display/LM16255/
 - Description: Display : LM16255
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Display-LM16255](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Display-LM16255)
 - Short Link: [http://oom.lt/FZKDILM16255](http://oom.lt/FZKDILM16255)

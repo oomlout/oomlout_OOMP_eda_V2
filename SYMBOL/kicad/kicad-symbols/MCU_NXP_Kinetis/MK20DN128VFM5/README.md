@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_NXP_Kinetis-MK20DN128VFM5
 - Hex ID: SZKMCUNXPKINETISMK2DN128VFM5
 - Name: MCU_NXP_Kinetis : MK20DN128VFM5
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_NXP_Kinetis/MK20DN128VFM5/
 - Description: MCU_NXP_Kinetis : MK20DN128VFM5
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_NXP_Kinetis-MK20DN128VFM5](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_NXP_Kinetis-MK20DN128VFM5)
 - Short Link: [http://oom.lt/SZKMCUNXPKINETISMK2DN128VFM5](http://oom.lt/SZKMCUNXPKINETISMK2DN128VFM5)

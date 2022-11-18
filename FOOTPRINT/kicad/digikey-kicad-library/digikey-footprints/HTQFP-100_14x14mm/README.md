@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-HTQFP-100_14x14mm
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSHTQFP114X14
 - Name: digikey-footprints : HTQFP-100_14x14mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/HTQFP-100_14x14mm/
 - Description: digikey-footprints : HTQFP-100_14x14mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-HTQFP-100_14x14mm](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-HTQFP-100_14x14mm)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSHTQFP114X14](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSHTQFP114X14)

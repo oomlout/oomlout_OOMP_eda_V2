@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-1206-X-O102-01-R12O102
 - Hex ID: SZOOMPKOOMPPRESE126XO121R12O12
 - Name: oomlout_OOMP_parts : RESE-1206-X-O102-01-R12O102
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/RESE-1206-X-O102-01-R12O102/
 - Description: oomlout_OOMP_parts : RESE-1206-X-O102-01-R12O102
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-1206-X-O102-01-R12O102](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-1206-X-O102-01-R12O102)
 - Short Link: [http://oom.lt/SZOOMPKOOMPPRESE126XO121R12O12](http://oom.lt/SZOOMPKOOMPPRESE126XO121R12O12)

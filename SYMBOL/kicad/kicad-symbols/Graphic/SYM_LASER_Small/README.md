@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Graphic-SYM_LASER_Small
 - Hex ID: SZKGRAPHICSYMLASERSLL
 - Name: Graphic : SYM_LASER_Small
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Graphic/SYM_LASER_Small/
 - Description: Graphic : SYM_LASER_Small
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Graphic-SYM_LASER_Small](http://oom.lt/SYMBOL-kicad-kicad-symbols-Graphic-SYM_LASER_Small)
 - Short Link: [http://oom.lt/SZKGRAPHICSYMLASERSLL](http://oom.lt/SZKGRAPHICSYMLASERSLL)

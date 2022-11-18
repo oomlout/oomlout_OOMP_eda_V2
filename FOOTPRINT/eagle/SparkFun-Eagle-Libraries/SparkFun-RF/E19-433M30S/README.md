@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-E19-433M30S
 - Hex ID: FZSRFE19433M3S
 - Name: SparkFun-RF : E19-433M30S
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-RF/E19-433M30S/
 - Description: SparkFun-RF : E19-433M30S
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-E19-433M30S](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-E19-433M30S)
 - Short Link: [http://oom.lt/FZSRFE19433M3S](http://oom.lt/FZSRFE19433M3S)

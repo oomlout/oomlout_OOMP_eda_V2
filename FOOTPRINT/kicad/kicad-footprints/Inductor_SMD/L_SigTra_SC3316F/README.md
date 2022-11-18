@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_SigTra_SC3316F
 - Hex ID: FZKINLSIGTRASC3316F
 - Name: Inductor_SMD : L_SigTra_SC3316F
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_SigTra_SC3316F/
 - Description: Inductor_SMD : L_SigTra_SC3316F
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_SigTra_SC3316F](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_SigTra_SC3316F)
 - Short Link: [http://oom.lt/FZKINLSIGTRASC3316F](http://oom.lt/FZKINLSIGTRASC3316F)

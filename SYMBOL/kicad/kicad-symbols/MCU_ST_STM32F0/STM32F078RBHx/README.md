@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F0-STM32F078RBHx
 - Hex ID: SZKMCUSTSTM32FSTM32F78RBHX
 - Name: MCU_ST_STM32F0 : STM32F078RBHx
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32F0/STM32F078RBHx/
 - Description: MCU_ST_STM32F0 : STM32F078RBHx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F0-STM32F078RBHx](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F0-STM32F078RBHx)
 - Short Link: [http://oom.lt/SZKMCUSTSTM32FSTM32F78RBHX](http://oom.lt/SZKMCUSTSTM32FSTM32F78RBHX)

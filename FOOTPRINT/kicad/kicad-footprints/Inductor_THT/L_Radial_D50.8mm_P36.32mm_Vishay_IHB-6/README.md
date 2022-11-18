@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Radial_D50.8mm_P36.32mm_Vishay_IHB-6
 - Hex ID: FZKINLRD58P3632VISHAYIHB6
 - Name: Inductor_THT : L_Radial_D50.8mm_P36.32mm_Vishay_IHB-6
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Radial_D50.8mm_P36.32mm_Vishay_IHB-6/
 - Description: Inductor_THT : L_Radial_D50.8mm_P36.32mm_Vishay_IHB-6
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Radial_D50.8mm_P36.32mm_Vishay_IHB-6](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Radial_D50.8mm_P36.32mm_Vishay_IHB-6)
 - Short Link: [http://oom.lt/FZKINLRD58P3632VISHAYIHB6](http://oom.lt/FZKINLRD58P3632VISHAYIHB6)

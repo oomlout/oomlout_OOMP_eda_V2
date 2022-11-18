@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Driver_FET-IRS2109
 - Hex ID: SZKDRIVERFETIRS219
 - Name: Driver_FET : IRS2109
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Driver_FET/IRS2109/
 - Description: Driver_FET : IRS2109
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-IRS2109](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-IRS2109)
 - Short Link: [http://oom.lt/SZKDRIVERFETIRS219](http://oom.lt/SZKDRIVERFETIRS219)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Display_Graphic-EA_DOGL128X-6
 - Hex ID: SZKDIGRAPHICEADOGL128X6
 - Name: Display_Graphic : EA_DOGL128X-6
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Display_Graphic/EA_DOGL128X-6/
 - Description: Display_Graphic : EA_DOGL128X-6
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Graphic-EA_DOGL128X-6](http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Graphic-EA_DOGL128X-6)
 - Short Link: [http://oom.lt/SZKDIGRAPHICEADOGL128X6](http://oom.lt/SZKDIGRAPHICEADOGL128X6)

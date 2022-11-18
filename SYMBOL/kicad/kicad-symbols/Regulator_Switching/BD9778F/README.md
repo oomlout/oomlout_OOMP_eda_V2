@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-BD9778F
 - Hex ID: SZKREGULATORSWINGBD9778F
 - Name: Regulator_Switching : BD9778F
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/BD9778F/
 - Description: Regulator_Switching : BD9778F
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-BD9778F](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-BD9778F)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGBD9778F](http://oom.lt/SZKREGULATORSWINGBD9778F)

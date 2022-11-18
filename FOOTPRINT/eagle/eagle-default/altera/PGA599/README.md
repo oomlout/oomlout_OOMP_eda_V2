@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-altera-PGA599
 - Hex ID: FZEALTERAPGA599
 - Name: altera : PGA599
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/altera/PGA599/
 - Description: altera : PGA599
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-altera-PGA599](http://oom.lt/FOOTPRINT-eagle-eagle-default-altera-PGA599)
 - Short Link: [http://oom.lt/FZEALTERAPGA599](http://oom.lt/FZEALTERAPGA599)

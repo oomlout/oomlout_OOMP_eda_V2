@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Mounting_Wuerth-Mounting_Wuerth_WA-SMST-3.3mm_H13mm_9774130960
 - Hex ID: FZKMONMONWASMST33H1397741396
 - Name: Mounting_Wuerth : Mounting_Wuerth_WA-SMST-3.3mm_H13mm_9774130960
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Mounting_Wuerth/Mounting_Wuerth_WA-SMST-3.3mm_H13mm_9774130960/
 - Description: Mounting_Wuerth : Mounting_Wuerth_WA-SMST-3.3mm_H13mm_9774130960
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Mounting_Wuerth-Mounting_Wuerth_WA-SMST-3.3mm_H13mm_9774130960](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Mounting_Wuerth-Mounting_Wuerth_WA-SMST-3.3mm_H13mm_9774130960)
 - Short Link: [http://oom.lt/FZKMONMONWASMST33H1397741396](http://oom.lt/FZKMONMONWASMST33H1397741396)

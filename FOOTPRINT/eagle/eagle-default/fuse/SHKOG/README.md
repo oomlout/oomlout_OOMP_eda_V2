@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-fuse-SHKOG
 - Hex ID: FZEFUSHKOG
 - Name: fuse : SHKOG
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/fuse/SHKOG/
 - Description: fuse : SHKOG
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-fuse-SHKOG](http://oom.lt/FOOTPRINT-eagle-eagle-default-fuse-SHKOG)
 - Short Link: [http://oom.lt/FZEFUSHKOG](http://oom.lt/FZEFUSHKOG)

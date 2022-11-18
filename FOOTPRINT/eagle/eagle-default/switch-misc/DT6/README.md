@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-switch-misc-DT6
 - Hex ID: FZESWMISCDT6
 - Name: switch-misc : DT6
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/switch-misc/DT6/
 - Description: switch-misc : DT6
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-misc-DT6](http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-misc-DT6)
 - Short Link: [http://oom.lt/FZESWMISCDT6](http://oom.lt/FZESWMISCDT6)

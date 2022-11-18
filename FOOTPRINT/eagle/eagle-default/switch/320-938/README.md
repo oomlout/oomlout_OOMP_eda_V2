@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-switch-320-938
 - Hex ID: FZESW32938
 - Name: switch : 320-938
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/switch/320-938/
 - Description: switch : 320-938
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-320-938](http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-320-938)
 - Short Link: [http://oom.lt/FZESW32938](http://oom.lt/FZESW32938)

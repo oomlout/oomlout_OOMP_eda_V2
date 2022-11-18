@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Capacitor_Tantalum_SMD-CP_EIA-6032-15_Kemet-U
 - Hex ID: FZKCCPEIA63215KEMETU
 - Name: Capacitor_Tantalum_SMD : CP_EIA-6032-15_Kemet-U
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Capacitor_Tantalum_SMD/CP_EIA-6032-15_Kemet-U/
 - Description: Capacitor_Tantalum_SMD : CP_EIA-6032-15_Kemet-U
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_Tantalum_SMD-CP_EIA-6032-15_Kemet-U](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_Tantalum_SMD-CP_EIA-6032-15_Kemet-U)
 - Short Link: [http://oom.lt/FZKCCPEIA63215KEMETU](http://oom.lt/FZKCCPEIA63215KEMETU)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-JSTSH-X-PI09-SM-HSH9
 - Hex ID: SZOOMPKOOMPPHEADJSTSHXPI9SMHSH9
 - Name: oomlout_OOMP_parts : HEAD-JSTSH-X-PI09-SM-HSH9
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/HEAD-JSTSH-X-PI09-SM-HSH9/
 - Description: oomlout_OOMP_parts : HEAD-JSTSH-X-PI09-SM-HSH9
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-JSTSH-X-PI09-SM-HSH9](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-JSTSH-X-PI09-SM-HSH9)
 - Short Link: [http://oom.lt/SZOOMPKOOMPPHEADJSTSHXPI9SMHSH9](http://oom.lt/SZOOMPKOOMPPHEADJSTSHXPI9SMHSH9)

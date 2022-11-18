@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0603-X-NF8-V50-C6N8-C31658
 - Hex ID: SZOOMPKJLCCAPC63XNF8V5C6N8C31658
 - Name: oomlout_OOMP_JLCC_Basic : CAPC-0603-X-NF8-V50-C6N8-C31658
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_JLCC_Basic/CAPC-0603-X-NF8-V50-C6N8-C31658/
 - Description: oomlout_OOMP_JLCC_Basic : CAPC-0603-X-NF8-V50-C6N8-C31658
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0603-X-NF8-V50-C6N8-C31658](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0603-X-NF8-V50-C6N8-C31658)
 - Short Link: [http://oom.lt/SZOOMPKJLCCAPC63XNF8V5C6N8C31658](http://oom.lt/SZOOMPKJLCCAPC63XNF8V5C6N8C31658)

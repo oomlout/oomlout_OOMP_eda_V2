@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0805-X-UF47D-V25-C8U47D
 - Hex ID: FZOOMPKOOMPPCAPC85XUF47DV25C8U47D
 - Name: oomlout_OOMP_parts : CAPC-0805-X-UF47D-V25-C8U47D
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/CAPC-0805-X-UF47D-V25-C8U47D/
 - Description: oomlout_OOMP_parts : CAPC-0805-X-UF47D-V25-C8U47D
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0805-X-UF47D-V25-C8U47D](http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0805-X-UF47D-V25-C8U47D)
 - Short Link: [http://oom.lt/FZOOMPKOOMPPCAPC85XUF47DV25C8U47D](http://oom.lt/FZOOMPKOOMPPCAPC85XUF47DV25C8U47D)

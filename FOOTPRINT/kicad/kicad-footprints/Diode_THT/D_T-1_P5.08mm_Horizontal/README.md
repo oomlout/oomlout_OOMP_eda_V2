@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Diode_THT-D_T-1_P5.08mm_Horizontal
 - Hex ID: FZKDDT1P58H
 - Name: Diode_THT : D_T-1_P5.08mm_Horizontal
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Diode_THT/D_T-1_P5.08mm_Horizontal/
 - Description: Diode_THT : D_T-1_P5.08mm_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Diode_THT-D_T-1_P5.08mm_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Diode_THT-D_T-1_P5.08mm_Horizontal)
 - Short Link: [http://oom.lt/FZKDDT1P58H](http://oom.lt/FZKDDT1P58H)

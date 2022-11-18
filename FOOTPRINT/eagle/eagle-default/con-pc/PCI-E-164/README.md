@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-pc-PCI-E-164
 - Hex ID: FZECONPCPCIE164
 - Name: con-pc : PCI-E-164
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-pc/PCI-E-164/
 - Description: con-pc : PCI-E-164
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-pc-PCI-E-164](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-pc-PCI-E-164)
 - Short Link: [http://oom.lt/FZECONPCPCIE164](http://oom.lt/FZECONPCPCIE164)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-power-HT
 - Hex ID: SZKPOWERHT
 - Name: power : HT
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/power/HT/
 - Description: power : HT
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-power-HT](http://oom.lt/SYMBOL-kicad-kicad-symbols-power-HT)
 - Short Link: [http://oom.lt/SZKPOWERHT](http://oom.lt/SZKPOWERHT)

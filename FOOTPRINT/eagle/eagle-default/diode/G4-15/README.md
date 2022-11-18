@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-diode-G4-15
 - Hex ID: FZEDIODEG415
 - Name: diode : G4-15
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/diode/G4-15/
 - Description: diode : G4-15
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-diode-G4-15](http://oom.lt/FOOTPRINT-eagle-eagle-default-diode-G4-15)
 - Short Link: [http://oom.lt/FZEDIODEG415](http://oom.lt/FZEDIODEG415)

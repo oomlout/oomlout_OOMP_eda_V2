@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Analog_DAC-AD5693RxRM
 - Hex ID: SZKANALOGDACAD5693RXRM
 - Name: Analog_DAC : AD5693RxRM
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog_DAC/AD5693RxRM/
 - Description: Analog_DAC : AD5693RxRM
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_DAC-AD5693RxRM](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_DAC-AD5693RxRM)
 - Short Link: [http://oom.lt/SZKANALOGDACAD5693RXRM](http://oom.lt/SZKANALOGDACAD5693RXRM)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_SOD-123F
 - Hex ID: FZKDDSOD123F
 - Name: Diode_SMD : D_SOD-123F
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Diode_SMD/D_SOD-123F/
 - Description: Diode_SMD : D_SOD-123F
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_SOD-123F](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_SOD-123F)
 - Short Link: [http://oom.lt/FZKDDSOD123F](http://oom.lt/FZKDDSOD123F)

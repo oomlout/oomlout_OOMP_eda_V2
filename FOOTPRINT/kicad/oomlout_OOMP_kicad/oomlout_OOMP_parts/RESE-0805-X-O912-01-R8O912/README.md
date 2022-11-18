@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0805-X-O912-01-R8O912
 - Hex ID: FZOOMPKOOMPPRESE85XO9121R8O912
 - Name: oomlout_OOMP_parts : RESE-0805-X-O912-01-R8O912
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/RESE-0805-X-O912-01-R8O912/
 - Description: oomlout_OOMP_parts : RESE-0805-X-O912-01-R8O912
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0805-X-O912-01-R8O912](http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0805-X-O912-01-R8O912)
 - Short Link: [http://oom.lt/FZOOMPKOOMPPRESE85XO9121R8O912](http://oom.lt/FZOOMPKOOMPPRESE85XO9121R8O912)

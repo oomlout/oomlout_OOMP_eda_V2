@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_Samtec_HLE_SMD-Samtec_HLE-128-02-xxx-DV-LC_2x28_P2.54mm_Horizontal
 - Hex ID: FZKCNSAMTECHLESMSAMTECHLE1282XXXDVLC2X28P254H
 - Name: Connector_Samtec_HLE_SMD : Samtec_HLE-128-02-xxx-DV-LC_2x28_P2.54mm_Horizontal
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Samtec_HLE_SMD/Samtec_HLE-128-02-xxx-DV-LC_2x28_P2.54mm_Horizontal/
 - Description: Connector_Samtec_HLE_SMD : Samtec_HLE-128-02-xxx-DV-LC_2x28_P2.54mm_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Samtec_HLE_SMD-Samtec_HLE-128-02-xxx-DV-LC_2x28_P2.54mm_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Samtec_HLE_SMD-Samtec_HLE-128-02-xxx-DV-LC_2x28_P2.54mm_Horizontal)
 - Short Link: [http://oom.lt/FZKCNSAMTECHLESMSAMTECHLE1282XXXDVLC2X28P254H](http://oom.lt/FZKCNSAMTECHLESMSAMTECHLE1282XXXDVLC2X28P254H)

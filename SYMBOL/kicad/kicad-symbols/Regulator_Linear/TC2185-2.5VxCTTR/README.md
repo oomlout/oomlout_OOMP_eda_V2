@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-TC2185-2.5VxCTTR
 - Hex ID: SZKREGULATORLINEARTC218525VXCTTR
 - Name: Regulator_Linear : TC2185-2.5VxCTTR
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/TC2185-2.5VxCTTR/
 - Description: Regulator_Linear : TC2185-2.5VxCTTR
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-TC2185-2.5VxCTTR](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-TC2185-2.5VxCTTR)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARTC218525VXCTTR](http://oom.lt/SZKREGULATORLINEARTC218525VXCTTR)

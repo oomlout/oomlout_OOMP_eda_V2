@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Valve-Valve_Glimm
 - Hex ID: FZKVAVAGLI
 - Name: Valve : Valve_Glimm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Valve/Valve_Glimm/
 - Description: Valve : Valve_Glimm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Valve-Valve_Glimm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Valve-Valve_Glimm)
 - Short Link: [http://oom.lt/FZKVAVAGLI](http://oom.lt/FZKVAVAGLI)

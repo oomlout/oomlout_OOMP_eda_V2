@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-41xx-SO16
 - Hex ID: FZE41XXSO16
 - Name: 41xx : SO16
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/41xx/SO16/
 - Description: 41xx : SO16
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-41xx-SO16](http://oom.lt/FOOTPRINT-eagle-eagle-default-41xx-SO16)
 - Short Link: [http://oom.lt/FZE41XXSO16](http://oom.lt/FZE41XXSO16)

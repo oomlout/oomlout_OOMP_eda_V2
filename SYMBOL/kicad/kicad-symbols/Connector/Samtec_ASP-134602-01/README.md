@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Connector-Samtec_ASP-134602-01
 - Hex ID: SZKCNSAMTECASP134621
 - Name: Connector : Samtec_ASP-134602-01
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector/Samtec_ASP-134602-01/
 - Description: Connector : Samtec_ASP-134602-01
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-Samtec_ASP-134602-01](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-Samtec_ASP-134602-01)
 - Short Link: [http://oom.lt/SZKCNSAMTECASP134621](http://oom.lt/SZKCNSAMTECASP134621)

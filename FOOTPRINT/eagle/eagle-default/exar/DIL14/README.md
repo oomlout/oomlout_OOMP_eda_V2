@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-exar-DIL14
 - Hex ID: FZEEXARDIL14
 - Name: exar : DIL14
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/exar/DIL14/
 - Description: exar : DIL14
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-exar-DIL14](http://oom.lt/FOOTPRINT-eagle-eagle-default-exar-DIL14)
 - Short Link: [http://oom.lt/FZEEXARDIL14](http://oom.lt/FZEEXARDIL14)

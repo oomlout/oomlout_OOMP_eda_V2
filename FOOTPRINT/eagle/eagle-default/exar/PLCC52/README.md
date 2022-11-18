@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-exar-PLCC52
 - Hex ID: FZEEXARPLCC52
 - Name: exar : PLCC52
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/exar/PLCC52/
 - Description: exar : PLCC52
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-exar-PLCC52](http://oom.lt/FOOTPRINT-eagle-eagle-default-exar-PLCC52)
 - Short Link: [http://oom.lt/FZEEXARPLCC52](http://oom.lt/FZEEXARPLCC52)

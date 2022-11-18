@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-2X3_SMT_POSTS
 - Hex ID: FZSSPARKFUNCNS2X3SPOSTS
 - Name: SparkFun-Connectors : 2X3_SMT_POSTS
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Connectors/2X3_SMT_POSTS/
 - Description: SparkFun-Connectors : 2X3_SMT_POSTS
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-2X3_SMT_POSTS](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-2X3_SMT_POSTS)
 - Short Link: [http://oom.lt/FZSSPARKFUNCNS2X3SPOSTS](http://oom.lt/FZSSPARKFUNCNS2X3SPOSTS)

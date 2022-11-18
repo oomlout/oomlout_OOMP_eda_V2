@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-atmel-TSOP32
 - Hex ID: FZEATMELTS32
 - Name: atmel : TSOP32
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/atmel/TSOP32/
 - Description: atmel : TSOP32
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-atmel-TSOP32](http://oom.lt/FOOTPRINT-eagle-eagle-default-atmel-TSOP32)
 - Short Link: [http://oom.lt/FZEATMELTS32](http://oom.lt/FZEATMELTS32)

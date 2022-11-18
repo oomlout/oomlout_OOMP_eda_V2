@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-MC33079
 - Hex ID: SZKAMPLIFIEROPERATIONALMC3379
 - Name: Amplifier_Operational : MC33079
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/MC33079/
 - Description: Amplifier_Operational : MC33079
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-MC33079](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-MC33079)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALMC3379](http://oom.lt/SZKAMPLIFIEROPERATIONALMC3379)

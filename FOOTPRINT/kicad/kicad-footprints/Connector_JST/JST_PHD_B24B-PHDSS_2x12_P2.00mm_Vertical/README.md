@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_PHD_B24B-PHDSS_2x12_P2.00mm_Vertical
 - Hex ID: FZKCNJSTJSTPHDB24BPHDSS2X12P2F
 - Name: Connector_JST : JST_PHD_B24B-PHDSS_2x12_P2.00mm_Vertical
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_PHD_B24B-PHDSS_2x12_P2.00mm_Vertical/
 - Description: Connector_JST : JST_PHD_B24B-PHDSS_2x12_P2.00mm_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_PHD_B24B-PHDSS_2x12_P2.00mm_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_PHD_B24B-PHDSS_2x12_P2.00mm_Vertical)
 - Short Link: [http://oom.lt/FZKCNJSTJSTPHDB24BPHDSS2X12P2F](http://oom.lt/FZKCNJSTJSTPHDB24BPHDSS2X12P2F)

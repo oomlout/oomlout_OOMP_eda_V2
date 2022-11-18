@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-smd-ipc-R6332W
 - Hex ID: FZESMIPCR6332W
 - Name: smd-ipc : R6332W
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/smd-ipc/R6332W/
 - Description: smd-ipc : R6332W
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-R6332W](http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-R6332W)
 - Short Link: [http://oom.lt/FZESMIPCR6332W](http://oom.lt/FZESMIPCR6332W)

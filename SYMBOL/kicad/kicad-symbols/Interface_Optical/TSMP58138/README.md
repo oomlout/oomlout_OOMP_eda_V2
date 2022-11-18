@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_Optical-TSMP58138
 - Hex ID: SZKINTERFACEOPTICALTSMP58138
 - Name: Interface_Optical : TSMP58138
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_Optical/TSMP58138/
 - Description: Interface_Optical : TSMP58138
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Optical-TSMP58138](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Optical-TSMP58138)
 - Short Link: [http://oom.lt/SZKINTERFACEOPTICALTSMP58138](http://oom.lt/SZKINTERFACEOPTICALTSMP58138)

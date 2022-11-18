@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-ICS40180
 - Hex ID: FZSSPARKFUNSENSICS418
 - Name: SparkFun-Sensors : ICS40180
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Sensors/ICS40180/
 - Description: SparkFun-Sensors : ICS40180
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-ICS40180](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-ICS40180)
 - Short Link: [http://oom.lt/FZSSPARKFUNSENSICS418](http://oom.lt/FZSSPARKFUNSENSICS418)

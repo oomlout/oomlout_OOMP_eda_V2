@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Analog_Switch-MAX312CPE
 - Hex ID: SZKANALOGSWMAX312CPE
 - Name: Analog_Switch : MAX312CPE
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog_Switch/MAX312CPE/
 - Description: Analog_Switch : MAX312CPE
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_Switch-MAX312CPE](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_Switch-MAX312CPE)
 - Short Link: [http://oom.lt/SZKANALOGSWMAX312CPE](http://oom.lt/SZKANALOGSWMAX312CPE)

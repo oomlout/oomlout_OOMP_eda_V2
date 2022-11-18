@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0805-X-NF10-V50-C8N10-C1710
 - Hex ID: SZOOMPKJLCCAPC85XNF1V5C8N1C171
 - Name: oomlout_OOMP_JLCC_Basic : CAPC-0805-X-NF10-V50-C8N10-C1710
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_JLCC_Basic/CAPC-0805-X-NF10-V50-C8N10-C1710/
 - Description: oomlout_OOMP_JLCC_Basic : CAPC-0805-X-NF10-V50-C8N10-C1710
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0805-X-NF10-V50-C8N10-C1710](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0805-X-NF10-V50-C8N10-C1710)
 - Short Link: [http://oom.lt/SZOOMPKJLCCAPC85XNF1V5C8N1C171](http://oom.lt/SZOOMPKJLCCAPC85XNF1V5C8N1C171)

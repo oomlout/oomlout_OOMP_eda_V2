@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZSCOINDUCTORLQH32 > SparkFun-Coils : INDUCTOR_LQH32](#fzscoinductorlqh32--sparkfun-coils--inductor_lqh32)
+* [FZSCOINLQH32 > SparkFun-Coils : INDUCTOR_LQH32](#fzscoinlqh32--sparkfun-coils--inductor_lqh32)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZSCOINDUCTORLQH32 > SparkFun-Coils : INDUCTOR_LQH32
+# FZSCOINLQH32 > SparkFun-Coils : INDUCTOR_LQH32
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Coils-INDUCTOR_LQH32
-- Hex ID: FZSCOINDUCTORLQH32
+- Hex ID: FZSCOINLQH32
 - Name: SparkFun-Coils : INDUCTOR_LQH32
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Coils/INDUCTOR_LQH32/
 - Description: SparkFun-Coils : INDUCTOR_LQH32
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Coils-INDUCTOR_LQH32](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Coils-INDUCTOR_LQH32)
-- Short Link: [http://oom.lt/FZSCOINDUCTORLQH32](http://oom.lt/FZSCOINDUCTORLQH32)
+- Short Link: [http://oom.lt/FZSCOINLQH32](http://oom.lt/FZSCOINLQH32)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|SparkFun-Coils|
 |OOMP Index|oompIndex|INDUCTOR_LQH32|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Coils-INDUCTOR_LQH32|
-|Hex ID (short code)|hexID|FZSCOINDUCTORLQH32|
+|Hex ID (short code)|hexID|FZSCOINLQH32|
 |name|name|SparkFun-Coils : INDUCTOR_LQH32|
 ||||

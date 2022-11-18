@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-USB-C_Rugged_RA_MUSBRM1C1M0
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSUCRUGGEDRAMURM1C1M
 - Name: digikey-footprints : USB-C_Rugged_RA_MUSBRM1C1M0
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/USB-C_Rugged_RA_MUSBRM1C1M0/
 - Description: digikey-footprints : USB-C_Rugged_RA_MUSBRM1C1M0
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-USB-C_Rugged_RA_MUSBRM1C1M0](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-USB-C_Rugged_RA_MUSBRM1C1M0)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSUCRUGGEDRAMURM1C1M](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSUCRUGGEDRAMURM1C1M)

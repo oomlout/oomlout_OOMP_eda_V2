@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-crystal-1100S
 - Hex ID: FZEX11S
 - Name: crystal : 1100S
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/crystal/1100S/
 - Description: crystal : 1100S
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-crystal-1100S](http://oom.lt/FOOTPRINT-eagle-eagle-default-crystal-1100S)
 - Short Link: [http://oom.lt/FZEX11S](http://oom.lt/FZEX11S)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-lsi-computer-systems-TSSOP14
 - Hex ID: FZELSICOMPUTERSYSTEMSTSS14
 - Name: lsi-computer-systems : TSSOP14
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/lsi-computer-systems/TSSOP14/
 - Description: lsi-computer-systems : TSSOP14
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-lsi-computer-systems-TSSOP14](http://oom.lt/FOOTPRINT-eagle-eagle-default-lsi-computer-systems-TSSOP14)
 - Short Link: [http://oom.lt/FZELSICOMPUTERSYSTEMSTSS14](http://oom.lt/FZELSICOMPUTERSYSTEMSTSS14)

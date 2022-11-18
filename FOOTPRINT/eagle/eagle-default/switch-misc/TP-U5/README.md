@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-switch-misc-TP-U5
 - Hex ID: FZESWMISCTPU5
 - Name: switch-misc : TP-U5
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/switch-misc/TP-U5/
 - Description: switch-misc : TP-U5
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-misc-TP-U5](http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-misc-TP-U5)
 - Short Link: [http://oom.lt/FZESWMISCTPU5](http://oom.lt/FZESWMISCTPU5)

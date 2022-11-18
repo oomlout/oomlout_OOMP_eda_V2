@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Display_Character-SC39-11EWA
 - Hex ID: SZKDICHARACTERSC3911EWA
 - Name: Display_Character : SC39-11EWA
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Display_Character/SC39-11EWA/
 - Description: Display_Character : SC39-11EWA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-SC39-11EWA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-SC39-11EWA)
 - Short Link: [http://oom.lt/SZKDICHARACTERSC3911EWA](http://oom.lt/SZKDICHARACTERSC3911EWA)

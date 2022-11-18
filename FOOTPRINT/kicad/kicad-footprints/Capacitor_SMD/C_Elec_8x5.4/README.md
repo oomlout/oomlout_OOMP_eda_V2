@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_Elec_8x5.4
 - Hex ID: FZKCCELEC8X54
 - Name: Capacitor_SMD : C_Elec_8x5.4
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Capacitor_SMD/C_Elec_8x5.4/
 - Description: Capacitor_SMD : C_Elec_8x5.4
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_Elec_8x5.4](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_Elec_8x5.4)
 - Short Link: [http://oom.lt/FZKCCELEC8X54](http://oom.lt/FZKCCELEC8X54)

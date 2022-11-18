@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-SFE-NEW-WEB-SOLDERMASK
 - Hex ID: FZSRTSFENEWWEBSOLDERMASK
 - Name: SparkFun-Retired : SFE-NEW-WEB-SOLDERMASK
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Retired/SFE-NEW-WEB-SOLDERMASK/
 - Description: SparkFun-Retired : SFE-NEW-WEB-SOLDERMASK
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-SFE-NEW-WEB-SOLDERMASK](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-SFE-NEW-WEB-SOLDERMASK)
 - Short Link: [http://oom.lt/FZSRTSFENEWWEBSOLDERMASK](http://oom.lt/FZSRTSFENEWWEBSOLDERMASK)

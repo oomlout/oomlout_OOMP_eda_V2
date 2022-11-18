@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-jae-JAE_TX25-100P-6ST-H1E
 - Hex ID: FZECONJAEJAETX251P6STH1E
 - Name: con-jae : JAE_TX25-100P-6ST-H1E
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-jae/JAE_TX25-100P-6ST-H1E/
 - Description: con-jae : JAE_TX25-100P-6ST-H1E
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-jae-JAE_TX25-100P-6ST-H1E](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-jae-JAE_TX25-100P-6ST-H1E)
 - Short Link: [http://oom.lt/FZECONJAEJAETX251P6STH1E](http://oom.lt/FZECONJAEJAETX251P6STH1E)

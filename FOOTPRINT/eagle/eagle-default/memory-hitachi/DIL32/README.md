@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-memory-hitachi-DIL32
 - Hex ID: FZEMEMORYHITACHIDIL32
 - Name: memory-hitachi : DIL32
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/memory-hitachi/DIL32/
 - Description: memory-hitachi : DIL32
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-memory-hitachi-DIL32](http://oom.lt/FOOTPRINT-eagle-eagle-default-memory-hitachi-DIL32)
 - Short Link: [http://oom.lt/FZEMEMORYHITACHIDIL32](http://oom.lt/FZEMEMORYHITACHIDIL32)

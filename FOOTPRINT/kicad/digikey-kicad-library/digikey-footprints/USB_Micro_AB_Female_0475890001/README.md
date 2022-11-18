@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-USB_Micro_AB_Female_0475890001
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSUMABF475891
 - Name: digikey-footprints : USB_Micro_AB_Female_0475890001
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/USB_Micro_AB_Female_0475890001/
 - Description: digikey-footprints : USB_Micro_AB_Female_0475890001
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-USB_Micro_AB_Female_0475890001](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-USB_Micro_AB_Female_0475890001)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSUMABF475891](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSUMABF475891)

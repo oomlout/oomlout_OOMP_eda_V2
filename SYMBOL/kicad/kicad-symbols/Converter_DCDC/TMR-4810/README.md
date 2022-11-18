@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Converter_DCDC-TMR-4810
 - Hex ID: SZKCONTMR481
 - Name: Converter_DCDC : TMR-4810
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Converter_DCDC/TMR-4810/
 - Description: Converter_DCDC : TMR-4810
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-TMR-4810](http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-TMR-4810)
 - Short Link: [http://oom.lt/SZKCONTMR481](http://oom.lt/SZKCONTMR481)

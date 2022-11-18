@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-TO-39-4
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSTO394
 - Name: digikey-footprints : TO-39-4
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/TO-39-4/
 - Description: digikey-footprints : TO-39-4
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-TO-39-4](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-TO-39-4)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSTO394](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSTO394)

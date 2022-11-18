@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-LT1086-12
 - Hex ID: SZKREGULATORLINEARLT18612
 - Name: Regulator_Linear : LT1086-12
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LT1086-12/
 - Description: Regulator_Linear : LT1086-12
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LT1086-12](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LT1086-12)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARLT18612](http://oom.lt/SZKREGULATORLINEARLT18612)

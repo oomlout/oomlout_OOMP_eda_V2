@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-RF_Module-HOPERF_RFM9XW_SMD
 - Hex ID: FZKRFMOHOPERFRFM9XWSM
 - Name: RF_Module : HOPERF_RFM9XW_SMD
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/RF_Module/HOPERF_RFM9XW_SMD/
 - Description: RF_Module : HOPERF_RFM9XW_SMD
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_Module-HOPERF_RFM9XW_SMD](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_Module-HOPERF_RFM9XW_SMD)
 - Short Link: [http://oom.lt/FZKRFMOHOPERFRFM9XWSM](http://oom.lt/FZKRFMOHOPERFRFM9XWSM)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Isolator-VO0600T
 - Hex ID: SZKISOLATORVO6T
 - Name: Isolator : VO0600T
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Isolator/VO0600T/
 - Description: Isolator : VO0600T
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-VO0600T](http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-VO0600T)
 - Short Link: [http://oom.lt/SZKISOLATORVO6T](http://oom.lt/SZKISOLATORVO6T)

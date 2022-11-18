@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-MBR0530
 - Hex ID: SZKDIODEMBR53
 - Name: Diode : MBR0530
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/MBR0530/
 - Description: Diode : MBR0530
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-MBR0530](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-MBR0530)
 - Short Link: [http://oom.lt/SZKDIODEMBR53](http://oom.lt/SZKDIODEMBR53)

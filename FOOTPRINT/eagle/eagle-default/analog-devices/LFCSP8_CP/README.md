@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-analog-devices-LFCSP8_CP
 - Hex ID: FZEANALOGDEVICESLFCSP8CP
 - Name: analog-devices : LFCSP8_CP
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/analog-devices/LFCSP8_CP/
 - Description: analog-devices : LFCSP8_CP
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-analog-devices-LFCSP8_CP](http://oom.lt/FOOTPRINT-eagle-eagle-default-analog-devices-LFCSP8_CP)
 - Short Link: [http://oom.lt/FZEANALOGDEVICESLFCSP8CP](http://oom.lt/FZEANALOGDEVICESLFCSP8CP)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Device-C_Trim
 - Hex ID: SZKDEVICECTRIM
 - Name: Device : C_Trim
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/C_Trim/
 - Description: Device : C_Trim
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-C_Trim](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-C_Trim)
 - Short Link: [http://oom.lt/SZKDEVICECTRIM](http://oom.lt/SZKDEVICECTRIM)

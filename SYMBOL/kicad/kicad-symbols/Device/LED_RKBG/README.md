@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Device-LED_RKBG
 - Hex ID: SZKDEVICELRKBG
 - Name: Device : LED_RKBG
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/LED_RKBG/
 - Description: Device : LED_RKBG
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-LED_RKBG](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-LED_RKBG)
 - Short Link: [http://oom.lt/SZKDEVICELRKBG](http://oom.lt/SZKDEVICELRKBG)

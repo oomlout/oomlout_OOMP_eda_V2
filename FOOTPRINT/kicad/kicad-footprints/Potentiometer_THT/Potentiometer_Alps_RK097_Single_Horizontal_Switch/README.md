@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Potentiometer_THT-Potentiometer_Alps_RK097_Single_Horizontal_Switch
 - Hex ID: FZKPPOTALPSRK97SINGLEHSW
 - Name: Potentiometer_THT : Potentiometer_Alps_RK097_Single_Horizontal_Switch
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Potentiometer_THT/Potentiometer_Alps_RK097_Single_Horizontal_Switch/
 - Description: Potentiometer_THT : Potentiometer_Alps_RK097_Single_Horizontal_Switch
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Potentiometer_THT-Potentiometer_Alps_RK097_Single_Horizontal_Switch](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Potentiometer_THT-Potentiometer_Alps_RK097_Single_Horizontal_Switch)
 - Short Link: [http://oom.lt/FZKPPOTALPSRK97SINGLEHSW](http://oom.lt/FZKPPOTALPSRK97SINGLEHSW)

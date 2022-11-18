@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Reference_Voltage-REF6041xDGK
 - Hex ID: SZKREFERENCEVOLTAGEREF641XDGK
 - Name: Reference_Voltage : REF6041xDGK
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Reference_Voltage/REF6041xDGK/
 - Description: Reference_Voltage : REF6041xDGK
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Voltage-REF6041xDGK](http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Voltage-REF6041xDGK)
 - Short Link: [http://oom.lt/SZKREFERENCEVOLTAGEREF641XDGK](http://oom.lt/SZKREFERENCEVOLTAGEREF641XDGK)

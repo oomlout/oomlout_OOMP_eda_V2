@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-diode-MINIMELF
 - Hex ID: FZEDIODEMMELF
 - Name: diode : MINIMELF
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/diode/MINIMELF/
 - Description: diode : MINIMELF
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-diode-MINIMELF](http://oom.lt/FOOTPRINT-eagle-eagle-default-diode-MINIMELF)
 - Short Link: [http://oom.lt/FZEDIODEMMELF](http://oom.lt/FZEDIODEMMELF)

@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEREFPACKAGESDO357A > ref-packages : DO35-7A](#fzerefpackagesdo357a--ref-packages--do35-7a)
+* [FZEREFPSDO357A > ref-packages : DO35-7A](#fzerefpsdo357a--ref-packages--do35-7a)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEREFPACKAGESDO357A > ref-packages : DO35-7A
+# FZEREFPSDO357A > ref-packages : DO35-7A
 
 - ID: FOOTPRINT-eagle-eagle-default-ref-packages-DO35-7A
-- Hex ID: FZEREFPACKAGESDO357A
+- Hex ID: FZEREFPSDO357A
 - Name: ref-packages : DO35-7A
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ref-packages/DO35-7A/
 - Description: ref-packages : DO35-7A
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-DO35-7A](http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-DO35-7A)
-- Short Link: [http://oom.lt/FZEREFPACKAGESDO357A](http://oom.lt/FZEREFPACKAGESDO357A)
+- Short Link: [http://oom.lt/FZEREFPSDO357A](http://oom.lt/FZEREFPSDO357A)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|ref-packages|
 |OOMP Index|oompIndex|DO35-7A|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-ref-packages-DO35-7A|
-|Hex ID (short code)|hexID|FZEREFPACKAGESDO357A|
+|Hex ID (short code)|hexID|FZEREFPSDO357A|
 |name|name|ref-packages : DO35-7A|
 ||||

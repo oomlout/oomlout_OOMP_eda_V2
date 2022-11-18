@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0805-X-O470-67-R85470A
 - Hex ID: FZOOMPKOOMPPRESE85XO4767R8547A
 - Name: oomlout_OOMP_parts : RESE-0805-X-O470-67-R85470A
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/RESE-0805-X-O470-67-R85470A/
 - Description: oomlout_OOMP_parts : RESE-0805-X-O470-67-R85470A
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0805-X-O470-67-R85470A](http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0805-X-O470-67-R85470A)
 - Short Link: [http://oom.lt/FZOOMPKOOMPPRESE85XO4767R8547A](http://oom.lt/FZOOMPKOOMPPRESE85XO4767R8547A)

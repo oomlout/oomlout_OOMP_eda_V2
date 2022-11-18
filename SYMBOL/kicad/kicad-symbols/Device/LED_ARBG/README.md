@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Device-LED_ARBG
 - Hex ID: SZKDEVICELARBG
 - Name: Device : LED_ARBG
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/LED_ARBG/
 - Description: Device : LED_ARBG
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-LED_ARBG](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-LED_ARBG)
 - Short Link: [http://oom.lt/SZKDEVICELARBG](http://oom.lt/SZKDEVICELARBG)

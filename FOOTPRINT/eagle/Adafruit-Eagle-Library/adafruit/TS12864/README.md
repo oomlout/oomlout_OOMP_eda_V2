@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-TS12864
 - Hex ID: FZATS12864
 - Name: adafruit : TS12864
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/TS12864/
 - Description: adafruit : TS12864
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-TS12864](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-TS12864)
 - Short Link: [http://oom.lt/FZATS12864](http://oom.lt/FZATS12864)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-TL064
 - Hex ID: SZKAMPLIFIEROPERATIONALTL64
 - Name: Amplifier_Operational : TL064
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/TL064/
 - Description: Amplifier_Operational : TL064
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-TL064](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-TL064)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALTL64](http://oom.lt/SZKAMPLIFIEROPERATIONALTL64)

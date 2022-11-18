@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Analog_ADC-MCP3551-EMS
 - Hex ID: SZKANALOGADCMCP3551EMS
 - Name: Analog_ADC : MCP3551-EMS
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog_ADC/MCP3551-EMS/
 - Description: Analog_ADC : MCP3551-EMS
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-MCP3551-EMS](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-MCP3551-EMS)
 - Short Link: [http://oom.lt/SZKANALOGADCMCP3551EMS](http://oom.lt/SZKANALOGADCMCP3551EMS)

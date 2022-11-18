@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKSOTSC59HANDSOLDERING > Package_TO_SOT_SMD : SC-59_Handsoldering](#fzksotsc59handsoldering--package_to_sot_smd--sc-59_handsoldering)
+* [FZKSOTSC59HS > Package_TO_SOT_SMD : SC-59_Handsoldering](#fzksotsc59hs--package_to_sot_smd--sc-59_handsoldering)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKSOTSC59HANDSOLDERING > Package_TO_SOT_SMD : SC-59_Handsoldering
+# FZKSOTSC59HS > Package_TO_SOT_SMD : SC-59_Handsoldering
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SC-59_Handsoldering
-- Hex ID: FZKSOTSC59HANDSOLDERING
+- Hex ID: FZKSOTSC59HS
 - Name: Package_TO_SOT_SMD : SC-59_Handsoldering
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/SC-59_Handsoldering/
 - Description: Package_TO_SOT_SMD : SC-59_Handsoldering
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SC-59_Handsoldering](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SC-59_Handsoldering)
-- Short Link: [http://oom.lt/FZKSOTSC59HANDSOLDERING](http://oom.lt/FZKSOTSC59HANDSOLDERING)
+- Short Link: [http://oom.lt/FZKSOTSC59HS](http://oom.lt/FZKSOTSC59HS)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Package_TO_SOT_SMD|
 |OOMP Index|oompIndex|SC-59_Handsoldering|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SC-59_Handsoldering|
-|Hex ID (short code)|hexID|FZKSOTSC59HANDSOLDERING|
+|Hex ID (short code)|hexID|FZKSOTSC59HS|
 |name|name|Package_TO_SOT_SMD : SC-59_Handsoldering|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'SC-59_Handsoldering'</td><td> 'description'</td></tr><tr><td> 'SC-59</td><td> hand-soldering varaint</td><td> https</td></tr><tr><td>//lib.chipdip.ru/images/import_diod/original/SOT-23_SC-59.jpg'</td><td> 'tags'</td></tr><tr><td> 'SC-59 hand-soldering'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_TO_SOT_SMD.3dshapes/SC-59.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

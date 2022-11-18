@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-TSV914
 - Hex ID: SZKAMPLIFIEROPERATIONALTSV914
 - Name: Amplifier_Operational : TSV914
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/TSV914/
 - Description: Amplifier_Operational : TSV914
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-TSV914](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-TSV914)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALTSV914](http://oom.lt/SZKAMPLIFIEROPERATIONALTSV914)

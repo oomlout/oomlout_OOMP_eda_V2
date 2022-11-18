@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-led-OSRAM-SIDELED
 - Hex ID: FZELOSRAMSDL
 - Name: led : OSRAM-SIDELED
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/led/OSRAM-SIDELED/
 - Description: led : OSRAM-SIDELED
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-led-OSRAM-SIDELED](http://oom.lt/FOOTPRINT-eagle-eagle-default-led-OSRAM-SIDELED)
 - Short Link: [http://oom.lt/FZELOSRAMSDL](http://oom.lt/FZELOSRAMSDL)

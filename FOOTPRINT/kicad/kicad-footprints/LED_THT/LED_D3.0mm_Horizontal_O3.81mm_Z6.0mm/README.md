@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-LED_THT-LED_D3.0mm_Horizontal_O3.81mm_Z6.0mm
 - Hex ID: FZKLLD3HO381Z6
 - Name: LED_THT : LED_D3.0mm_Horizontal_O3.81mm_Z6.0mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/LED_THT/LED_D3.0mm_Horizontal_O3.81mm_Z6.0mm/
 - Description: LED_THT : LED_D3.0mm_Horizontal_O3.81mm_Z6.0mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-LED_THT-LED_D3.0mm_Horizontal_O3.81mm_Z6.0mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-LED_THT-LED_D3.0mm_Horizontal_O3.81mm_Z6.0mm)
 - Short Link: [http://oom.lt/FZKLLD3HO381Z6](http://oom.lt/FZKLLD3HO381Z6)

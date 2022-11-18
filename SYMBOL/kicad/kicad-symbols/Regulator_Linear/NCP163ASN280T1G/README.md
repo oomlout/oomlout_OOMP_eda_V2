@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-NCP163ASN280T1G
 - Hex ID: SZKREGULATORLINEARNCP163ASN28T1G
 - Name: Regulator_Linear : NCP163ASN280T1G
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/NCP163ASN280T1G/
 - Description: Regulator_Linear : NCP163ASN280T1G
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-NCP163ASN280T1G](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-NCP163ASN280T1G)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARNCP163ASN28T1G](http://oom.lt/SZKREGULATORLINEARNCP163ASN28T1G)

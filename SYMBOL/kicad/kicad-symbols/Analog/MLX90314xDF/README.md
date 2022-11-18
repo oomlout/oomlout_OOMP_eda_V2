@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Analog-MLX90314xDF
 - Hex ID: SZKANALOGMLX9314XDF
 - Name: Analog : MLX90314xDF
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog/MLX90314xDF/
 - Description: Analog : MLX90314xDF
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog-MLX90314xDF](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog-MLX90314xDF)
 - Short Link: [http://oom.lt/SZKANALOGMLX9314XDF](http://oom.lt/SZKANALOGMLX9314XDF)

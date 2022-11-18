@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Device-D_Schottky_Dual_Series_CKA_Parallel
 - Hex ID: SZKDEVICEDSCHOTTKYDUALSERIESCKAPARALLEL
 - Name: Device : D_Schottky_Dual_Series_CKA_Parallel
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/D_Schottky_Dual_Series_CKA_Parallel/
 - Description: Device : D_Schottky_Dual_Series_CKA_Parallel
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-D_Schottky_Dual_Series_CKA_Parallel](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-D_Schottky_Dual_Series_CKA_Parallel)
 - Short Link: [http://oom.lt/SZKDEVICEDSCHOTTKYDUALSERIESCKAPARALLEL](http://oom.lt/SZKDEVICEDSCHOTTKYDUALSERIESCKAPARALLEL)

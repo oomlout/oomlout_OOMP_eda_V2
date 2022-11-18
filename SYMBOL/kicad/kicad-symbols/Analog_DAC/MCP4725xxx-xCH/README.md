@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Analog_DAC-MCP4725xxx-xCH
 - Hex ID: SZKANALOGDACMCP4725XXXXCH
 - Name: Analog_DAC : MCP4725xxx-xCH
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog_DAC/MCP4725xxx-xCH/
 - Description: Analog_DAC : MCP4725xxx-xCH
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_DAC-MCP4725xxx-xCH](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_DAC-MCP4725xxx-xCH)
 - Short Link: [http://oom.lt/SZKANALOGDACMCP4725XXXXCH](http://oom.lt/SZKANALOGDACMCP4725XXXXCH)

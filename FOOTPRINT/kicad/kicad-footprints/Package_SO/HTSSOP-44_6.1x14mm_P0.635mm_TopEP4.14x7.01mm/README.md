@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_SO-HTSSOP-44_6.1x14mm_P0.635mm_TopEP4.14x7.01mm
 - Hex ID: FZKSOHTSS4461X14P635TOPEP414X71
 - Name: Package_SO : HTSSOP-44_6.1x14mm_P0.635mm_TopEP4.14x7.01mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SO/HTSSOP-44_6.1x14mm_P0.635mm_TopEP4.14x7.01mm/
 - Description: Package_SO : HTSSOP-44_6.1x14mm_P0.635mm_TopEP4.14x7.01mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SO-HTSSOP-44_6.1x14mm_P0.635mm_TopEP4.14x7.01mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SO-HTSSOP-44_6.1x14mm_P0.635mm_TopEP4.14x7.01mm)
 - Short Link: [http://oom.lt/FZKSOHTSS4461X14P635TOPEP414X71](http://oom.lt/FZKSOHTSS4461X14P635TOPEP414X71)

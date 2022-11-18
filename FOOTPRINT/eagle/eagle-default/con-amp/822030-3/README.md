@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-amp-822030-3
 - Hex ID: FZECONAMP82233
 - Name: con-amp : 822030-3
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-amp/822030-3/
 - Description: con-amp : 822030-3
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-amp-822030-3](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-amp-822030-3)
 - Short Link: [http://oom.lt/FZECONAMP82233](http://oom.lt/FZECONAMP82233)

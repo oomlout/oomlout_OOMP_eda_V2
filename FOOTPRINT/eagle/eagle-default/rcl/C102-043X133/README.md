@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-rcl-C102-043X133
 - Hex ID: FZERCLC1243X133
 - Name: rcl : C102-043X133
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/rcl/C102-043X133/
 - Description: rcl : C102-043X133
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-C102-043X133](http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-C102-043X133)
 - Short Link: [http://oom.lt/FZERCLC1243X133](http://oom.lt/FZERCLC1243X133)

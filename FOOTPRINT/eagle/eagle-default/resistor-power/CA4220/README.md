@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-resistor-power-CA4220
 - Hex ID: FZERESISTORPOWERCA422
 - Name: resistor-power : CA4220
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/resistor-power/CA4220/
 - Description: resistor-power : CA4220
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-resistor-power-CA4220](http://oom.lt/FOOTPRINT-eagle-eagle-default-resistor-power-CA4220)
 - Short Link: [http://oom.lt/FZERESISTORPOWERCA422](http://oom.lt/FZERESISTORPOWERCA422)

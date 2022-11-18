@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Logic-SSOP24
 - Hex ID: FZSILSS24
 - Name: SparkFun-IC-Logic : SSOP24
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-IC-Logic/SSOP24/
 - Description: SparkFun-IC-Logic : SSOP24
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Logic-SSOP24](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Logic-SSOP24)
 - Short Link: [http://oom.lt/FZSILSS24](http://oom.lt/FZSILSS24)

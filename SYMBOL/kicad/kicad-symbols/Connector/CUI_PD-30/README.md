@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Connector-CUI_PD-30
 - Hex ID: SZKCNCUIPD3
 - Name: Connector : CUI_PD-30
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector/CUI_PD-30/
 - Description: Connector : CUI_PD-30
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-CUI_PD-30](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-CUI_PD-30)
 - Short Link: [http://oom.lt/SZKCNCUIPD3](http://oom.lt/SZKCNCUIPD3)

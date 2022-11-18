@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Analog_Switch-TS5A3159ADBVR
 - Hex ID: SZKANALOGSWTS5A3159ADBVR
 - Name: Analog_Switch : TS5A3159ADBVR
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog_Switch/TS5A3159ADBVR/
 - Description: Analog_Switch : TS5A3159ADBVR
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_Switch-TS5A3159ADBVR](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_Switch-TS5A3159ADBVR)
 - Short Link: [http://oom.lt/SZKANALOGSWTS5A3159ADBVR](http://oom.lt/SZKANALOGSWTS5A3159ADBVR)

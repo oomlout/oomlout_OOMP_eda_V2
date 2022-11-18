@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_ZE_BM03B-ZESS-TBT_1x03-1MP_P1.50mm_Vertical
 - Hex ID: FZKCNJSTJSTZEBM3BZESSTBT1X31MPP15F
 - Name: Connector_JST : JST_ZE_BM03B-ZESS-TBT_1x03-1MP_P1.50mm_Vertical
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_ZE_BM03B-ZESS-TBT_1x03-1MP_P1.50mm_Vertical/
 - Description: Connector_JST : JST_ZE_BM03B-ZESS-TBT_1x03-1MP_P1.50mm_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_ZE_BM03B-ZESS-TBT_1x03-1MP_P1.50mm_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_ZE_BM03B-ZESS-TBT_1x03-1MP_P1.50mm_Vertical)
 - Short Link: [http://oom.lt/FZKCNJSTJSTZEBM3BZESSTBT1X31MPP15F](http://oom.lt/FZKCNJSTJSTZEBM3BZESSTBT1X31MPP15F)

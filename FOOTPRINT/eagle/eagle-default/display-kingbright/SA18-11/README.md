@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEDIKINGBRIGHTSA1811 > display-kingbright : SA18-11](#fzedikingbrightsa1811--display-kingbright--sa18-11)
+* [FZEDIKBRSA1811 > display-kingbright : SA18-11](#fzedikbrsa1811--display-kingbright--sa18-11)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEDIKINGBRIGHTSA1811 > display-kingbright : SA18-11
+# FZEDIKBRSA1811 > display-kingbright : SA18-11
 
 - ID: FOOTPRINT-eagle-eagle-default-display-kingbright-SA18-11
-- Hex ID: FZEDIKINGBRIGHTSA1811
+- Hex ID: FZEDIKBRSA1811
 - Name: display-kingbright : SA18-11
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/display-kingbright/SA18-11/
 - Description: display-kingbright : SA18-11
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-display-kingbright-SA18-11](http://oom.lt/FOOTPRINT-eagle-eagle-default-display-kingbright-SA18-11)
-- Short Link: [http://oom.lt/FZEDIKINGBRIGHTSA1811](http://oom.lt/FZEDIKINGBRIGHTSA1811)
+- Short Link: [http://oom.lt/FZEDIKBRSA1811](http://oom.lt/FZEDIKBRSA1811)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|display-kingbright|
 |OOMP Index|oompIndex|SA18-11|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-display-kingbright-SA18-11|
-|Hex ID (short code)|hexID|FZEDIKINGBRIGHTSA1811|
+|Hex ID (short code)|hexID|FZEDIKBRSA1811|
 |name|name|display-kingbright : SA18-11|
 ||||

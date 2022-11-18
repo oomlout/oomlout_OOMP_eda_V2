@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-LMR36510ADDA
 - Hex ID: SZKREGULATORSWINGLMR3651ADDA
 - Name: Regulator_Switching : LMR36510ADDA
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/LMR36510ADDA/
 - Description: Regulator_Switching : LMR36510ADDA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LMR36510ADDA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LMR36510ADDA)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGLMR3651ADDA](http://oom.lt/SZKREGULATORSWINGLMR3651ADDA)

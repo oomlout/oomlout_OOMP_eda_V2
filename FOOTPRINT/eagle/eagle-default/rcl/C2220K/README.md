@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-rcl-C2220K
 - Hex ID: FZERCLC222K
 - Name: rcl : C2220K
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/rcl/C2220K/
 - Description: rcl : C2220K
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-C2220K](http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-C2220K)
 - Short Link: [http://oom.lt/FZERCLC222K](http://oom.lt/FZERCLC222K)

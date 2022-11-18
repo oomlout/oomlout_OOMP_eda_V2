@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny861A-M
 - Hex ID: SZKMCUMCHIPATTINYATTINY861AM
 - Name: MCU_Microchip_ATtiny : ATtiny861A-M
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_ATtiny/ATtiny861A-M/
 - Description: MCU_Microchip_ATtiny : ATtiny861A-M
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny861A-M](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny861A-M)
 - Short Link: [http://oom.lt/SZKMCUMCHIPATTINYATTINY861AM](http://oom.lt/SZKMCUMCHIPATTINYATTINY861AM)

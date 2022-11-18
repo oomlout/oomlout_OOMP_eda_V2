@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Display_7Segment-MAN72A
 - Hex ID: FZKDI7SMAN72A
 - Name: Display_7Segment : MAN72A
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Display_7Segment/MAN72A/
 - Description: Display_7Segment : MAN72A
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Display_7Segment-MAN72A](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Display_7Segment-MAN72A)
 - Short Link: [http://oom.lt/FZKDI7SMAN72A](http://oom.lt/FZKDI7SMAN72A)

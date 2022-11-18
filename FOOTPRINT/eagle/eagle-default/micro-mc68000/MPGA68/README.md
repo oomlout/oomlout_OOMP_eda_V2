@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-micro-mc68000-MPGA68
 - Hex ID: FZEMMC68MPGA68
 - Name: micro-mc68000 : MPGA68
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/micro-mc68000/MPGA68/
 - Description: micro-mc68000 : MPGA68
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-mc68000-MPGA68](http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-mc68000-MPGA68)
 - Short Link: [http://oom.lt/FZEMMC68MPGA68](http://oom.lt/FZEMMC68MPGA68)

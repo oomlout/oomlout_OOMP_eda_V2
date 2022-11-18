@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Driver_Motor-DRV8870DDA
 - Hex ID: SZKDRIVERMOTORDRV887DDA
 - Name: Driver_Motor : DRV8870DDA
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Driver_Motor/DRV8870DDA/
 - Description: Driver_Motor : DRV8870DDA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_Motor-DRV8870DDA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_Motor-DRV8870DDA)
 - Short Link: [http://oom.lt/SZKDRIVERMOTORDRV887DDA](http://oom.lt/SZKDRIVERMOTORDRV887DDA)

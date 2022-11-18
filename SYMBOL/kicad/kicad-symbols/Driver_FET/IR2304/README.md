@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Driver_FET-IR2304
 - Hex ID: SZKDRIVERFETIR234
 - Name: Driver_FET : IR2304
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Driver_FET/IR2304/
 - Description: Driver_FET : IR2304
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-IR2304](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-IR2304)
 - Short Link: [http://oom.lt/SZKDRIVERFETIR234](http://oom.lt/SZKDRIVERFETIR234)

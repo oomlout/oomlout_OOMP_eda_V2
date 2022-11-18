@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector-CUI_PD-30S_CircularHoles
 - Hex ID: FZKCNCUIPD3SCIRCULARH
 - Name: Connector : CUI_PD-30S_CircularHoles
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector/CUI_PD-30S_CircularHoles/
 - Description: Connector : CUI_PD-30S_CircularHoles
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector-CUI_PD-30S_CircularHoles](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector-CUI_PD-30S_CircularHoles)
 - Short Link: [http://oom.lt/FZKCNCUIPD3SCIRCULARH](http://oom.lt/FZKCNCUIPD3SCIRCULARH)

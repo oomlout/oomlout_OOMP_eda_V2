@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-TAB_GATOR_MINI
 - Hex ID: FZSSPARKFUNCNSTABGATORM
 - Name: SparkFun-Connectors : TAB_GATOR_MINI
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Connectors/TAB_GATOR_MINI/
 - Description: SparkFun-Connectors : TAB_GATOR_MINI
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-TAB_GATOR_MINI](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-TAB_GATOR_MINI)
 - Short Link: [http://oom.lt/FZSSPARKFUNCNSTABGATORM](http://oom.lt/FZSSPARKFUNCNSTABGATORM)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-rcl-085CS_1AW
 - Hex ID: FZERCL85CS1AW
 - Name: rcl : 085CS_1AW
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/rcl/085CS_1AW/
 - Description: rcl : 085CS_1AW
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-085CS_1AW](http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-085CS_1AW)
 - Short Link: [http://oom.lt/FZERCL85CS1AW](http://oom.lt/FZERCL85CS1AW)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-opto-honeywell-4000-ADA-4
 - Hex ID: FZEOPTOHONEYWELL4ADA4
 - Name: opto-honeywell-4000 : ADA-4
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/opto-honeywell-4000/ADA-4/
 - Description: opto-honeywell-4000 : ADA-4
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-opto-honeywell-4000-ADA-4](http://oom.lt/FOOTPRINT-eagle-eagle-default-opto-honeywell-4000-ADA-4)
 - Short Link: [http://oom.lt/FZEOPTOHONEYWELL4ADA4](http://oom.lt/FZEOPTOHONEYWELL4ADA4)

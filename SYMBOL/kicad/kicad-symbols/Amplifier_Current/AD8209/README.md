@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Current-AD8209
 - Hex ID: SZKAMPLIFIERCURRENTAD829
 - Name: Amplifier_Current : AD8209
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Current/AD8209/
 - Description: Amplifier_Current : AD8209
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Current-AD8209](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Current-AD8209)
 - Short Link: [http://oom.lt/SZKAMPLIFIERCURRENTAD829](http://oom.lt/SZKAMPLIFIERCURRENTAD829)

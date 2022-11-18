@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Analog_ADC-ADS1120-PW
 - Hex ID: SZKANALOGADCADS112PW
 - Name: Analog_ADC : ADS1120-PW
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog_ADC/ADS1120-PW/
 - Description: Analog_ADC : ADS1120-PW
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-ADS1120-PW](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-ADS1120-PW)
 - Short Link: [http://oom.lt/SZKANALOGADCADS112PW](http://oom.lt/SZKANALOGADCADS112PW)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-JSTXH-X-PI12-01-HXH12
 - Hex ID: SZOOMPKOOMPPHEADJSTXHXPI121HXH12
 - Name: oomlout_OOMP_parts : HEAD-JSTXH-X-PI12-01-HXH12
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/HEAD-JSTXH-X-PI12-01-HXH12/
 - Description: oomlout_OOMP_parts : HEAD-JSTXH-X-PI12-01-HXH12
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-JSTXH-X-PI12-01-HXH12](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-JSTXH-X-PI12-01-HXH12)
 - Short Link: [http://oom.lt/SZOOMPKOOMPPHEADJSTXHXPI121HXH12](http://oom.lt/SZOOMPKOOMPPHEADJSTXHXPI121HXH12)

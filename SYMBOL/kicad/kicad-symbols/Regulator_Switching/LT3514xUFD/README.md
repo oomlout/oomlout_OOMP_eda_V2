@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-LT3514xUFD
 - Hex ID: SZKREGULATORSWINGLT3514XUFD
 - Name: Regulator_Switching : LT3514xUFD
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/LT3514xUFD/
 - Description: Regulator_Switching : LT3514xUFD
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LT3514xUFD](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LT3514xUFD)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGLT3514XUFD](http://oom.lt/SZKREGULATORSWINGLT3514XUFD)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-cypress-QFN32-MAX06
 - Hex ID: FZECYPRESSQFN32MAX6
 - Name: cypress : QFN32-MAX06
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/cypress/QFN32-MAX06/
 - Description: cypress : QFN32-MAX06
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-cypress-QFN32-MAX06](http://oom.lt/FOOTPRINT-eagle-eagle-default-cypress-QFN32-MAX06)
 - Short Link: [http://oom.lt/FZECYPRESSQFN32MAX6](http://oom.lt/FZECYPRESSQFN32MAX6)

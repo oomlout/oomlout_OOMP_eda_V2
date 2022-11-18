@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-amd-mach-PLCC44
 - Hex ID: FZEAMDMACHPLCC44
 - Name: amd-mach : PLCC44
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/amd-mach/PLCC44/
 - Description: amd-mach : PLCC44
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-amd-mach-PLCC44](http://oom.lt/FOOTPRINT-eagle-eagle-default-amd-mach-PLCC44)
 - Short Link: [http://oom.lt/FZEAMDMACHPLCC44](http://oom.lt/FZEAMDMACHPLCC44)

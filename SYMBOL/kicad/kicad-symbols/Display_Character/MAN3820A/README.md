@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Display_Character-MAN3820A
 - Hex ID: SZKDICHARACTERMAN382A
 - Name: Display_Character : MAN3820A
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Display_Character/MAN3820A/
 - Description: Display_Character : MAN3820A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-MAN3820A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-MAN3820A)
 - Short Link: [http://oom.lt/SZKDICHARACTERMAN382A](http://oom.lt/SZKDICHARACTERMAN382A)

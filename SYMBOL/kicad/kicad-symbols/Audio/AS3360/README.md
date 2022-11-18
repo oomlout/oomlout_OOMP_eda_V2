@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Audio-AS3360
 - Hex ID: SZKAUDIOAS336
 - Name: Audio : AS3360
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Audio/AS3360/
 - Description: Audio : AS3360
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Audio-AS3360](http://oom.lt/SYMBOL-kicad-kicad-symbols-Audio-AS3360)
 - Short Link: [http://oom.lt/SZKAUDIOAS336](http://oom.lt/SZKAUDIOAS336)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Relay_SMD-Relay_DPDT_Kemet_EE2_NUX_NKX
 - Hex ID: FZKRELRELAYDPDTKEMETEE2NUXNKX
 - Name: Relay_SMD : Relay_DPDT_Kemet_EE2_NUX_NKX
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Relay_SMD/Relay_DPDT_Kemet_EE2_NUX_NKX/
 - Description: Relay_SMD : Relay_DPDT_Kemet_EE2_NUX_NKX
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Relay_SMD-Relay_DPDT_Kemet_EE2_NUX_NKX](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Relay_SMD-Relay_DPDT_Kemet_EE2_NUX_NKX)
 - Short Link: [http://oom.lt/FZKRELRELAYDPDTKEMETEE2NUXNKX](http://oom.lt/FZKRELRELAYDPDTKEMETEE2NUXNKX)

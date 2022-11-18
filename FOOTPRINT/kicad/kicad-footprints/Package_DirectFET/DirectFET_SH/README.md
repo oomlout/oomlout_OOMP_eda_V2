@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_DirectFET-DirectFET_SH
 - Hex ID: FZKDFETDIRECTFETSH
 - Name: Package_DirectFET : DirectFET_SH
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DirectFET/DirectFET_SH/
 - Description: Package_DirectFET : DirectFET_SH
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DirectFET-DirectFET_SH](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DirectFET-DirectFET_SH)
 - Short Link: [http://oom.lt/FZKDFETDIRECTFETSH](http://oom.lt/FZKDFETDIRECTFETSH)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Display_Character-KCSA02-107
 - Hex ID: SZKDICHARACTERKCSA217
 - Name: Display_Character : KCSA02-107
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Display_Character/KCSA02-107/
 - Description: Display_Character : KCSA02-107
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-KCSA02-107](http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-KCSA02-107)
 - Short Link: [http://oom.lt/SZKDICHARACTERKCSA217](http://oom.lt/SZKDICHARACTERKCSA217)

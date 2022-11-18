@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-MLF32
 - Hex ID: FZAMLF32
 - Name: adafruit : MLF32
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/MLF32/
 - Description: adafruit : MLF32
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-MLF32](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-MLF32)
 - Short Link: [http://oom.lt/FZAMLF32](http://oom.lt/FZAMLF32)

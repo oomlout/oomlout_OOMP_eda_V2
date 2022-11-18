@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-MC33172
 - Hex ID: SZKAMPLIFIEROPERATIONALMC33172
 - Name: Amplifier_Operational : MC33172
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/MC33172/
 - Description: Amplifier_Operational : MC33172
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-MC33172](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-MC33172)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALMC33172](http://oom.lt/SZKAMPLIFIEROPERATIONALMC33172)

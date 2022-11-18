@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-display-hp-HDSP21XX
 - Hex ID: FZEDIHPHDSP21XX
 - Name: display-hp : HDSP21XX
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/display-hp/HDSP21XX/
 - Description: display-hp : HDSP21XX
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-display-hp-HDSP21XX](http://oom.lt/FOOTPRINT-eagle-eagle-default-display-hp-HDSP21XX)
 - Short Link: [http://oom.lt/FZEDIHPHDSP21XX](http://oom.lt/FZEDIHPHDSP21XX)

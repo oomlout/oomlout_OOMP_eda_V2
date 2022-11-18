@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-SEGMENT_BICOL_BL-AR12Z3010
 - Hex ID: FZASBICOLBLAR12Z31
 - Name: adafruit : SEGMENT_BICOL_BL-AR12Z3010
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/SEGMENT_BICOL_BL-AR12Z3010/
 - Description: adafruit : SEGMENT_BICOL_BL-AR12Z3010
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-SEGMENT_BICOL_BL-AR12Z3010](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-SEGMENT_BICOL_BL-AR12Z3010)
 - Short Link: [http://oom.lt/FZASBICOLBLAR12Z31](http://oom.lt/FZASBICOLBLAR12Z31)

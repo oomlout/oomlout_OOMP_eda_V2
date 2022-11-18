@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-smd-ipc-SOP20
 - Hex ID: FZESMIPCS2
 - Name: smd-ipc : SOP20
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/smd-ipc/SOP20/
 - Description: smd-ipc : SOP20
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-SOP20](http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-SOP20)
 - Short Link: [http://oom.lt/FZESMIPCS2](http://oom.lt/FZESMIPCS2)

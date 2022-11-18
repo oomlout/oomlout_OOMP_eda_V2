@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-wago-508-W232-3
 - Hex ID: FZECONWAGO58W2323
 - Name: con-wago-508 : W232-3
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-wago-508/W232-3/
 - Description: con-wago-508 : W232-3
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-wago-508-W232-3](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-wago-508-W232-3)
 - Short Link: [http://oom.lt/FZECONWAGO58W2323](http://oom.lt/FZECONWAGO58W2323)

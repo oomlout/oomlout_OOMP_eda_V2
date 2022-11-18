@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F4-STM32F439IIHx
 - Hex ID: SZKMCUSTSTM32F4STM32F439IIHX
 - Name: MCU_ST_STM32F4 : STM32F439IIHx
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32F4/STM32F439IIHx/
 - Description: MCU_ST_STM32F4 : STM32F439IIHx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F4-STM32F439IIHx](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F4-STM32F439IIHx)
 - Short Link: [http://oom.lt/SZKMCUSTSTM32F4STM32F439IIHX](http://oom.lt/SZKMCUSTSTM32F4STM32F439IIHX)

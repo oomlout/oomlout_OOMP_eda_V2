@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-switch-TL4XWO
 - Hex ID: FZESWTL4XWO
 - Name: switch : TL4XWO
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/switch/TL4XWO/
 - Description: switch : TL4XWO
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-TL4XWO](http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-TL4XWO)
 - Short Link: [http://oom.lt/FZESWTL4XWO](http://oom.lt/FZESWTL4XWO)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-relay-G5Y-1
 - Hex ID: FZERELAYG5Y1
 - Name: relay : G5Y-1
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/relay/G5Y-1/
 - Description: relay : G5Y-1
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-G5Y-1](http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-G5Y-1)
 - Short Link: [http://oom.lt/FZERELAYG5Y1](http://oom.lt/FZERELAYG5Y1)

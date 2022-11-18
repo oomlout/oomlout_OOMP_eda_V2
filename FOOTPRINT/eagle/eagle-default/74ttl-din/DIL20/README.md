@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-74ttl-din-DIL20
 - Hex ID: FZE74TTLDINDIL2
 - Name: 74ttl-din : DIL20
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/74ttl-din/DIL20/
 - Description: 74ttl-din : DIL20
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-74ttl-din-DIL20](http://oom.lt/FOOTPRINT-eagle-eagle-default-74ttl-din-DIL20)
 - Short Link: [http://oom.lt/FZE74TTLDINDIL2](http://oom.lt/FZE74TTLDINDIL2)

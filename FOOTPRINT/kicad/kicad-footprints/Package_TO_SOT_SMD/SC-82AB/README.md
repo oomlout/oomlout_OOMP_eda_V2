@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SC-82AB
 - Hex ID: FZKSOTSC82AB
 - Name: Package_TO_SOT_SMD : SC-82AB
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/SC-82AB/
 - Description: Package_TO_SOT_SMD : SC-82AB
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SC-82AB](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SC-82AB)
 - Short Link: [http://oom.lt/FZKSOTSC82AB](http://oom.lt/FZKSOTSC82AB)

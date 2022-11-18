@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Term_Block_1x8_P5.08mm
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSTERMBL1X8P58
 - Name: digikey-footprints : Term_Block_1x8_P5.08mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Term_Block_1x8_P5.08mm/
 - Description: digikey-footprints : Term_Block_1x8_P5.08mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Term_Block_1x8_P5.08mm](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Term_Block_1x8_P5.08mm)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSTERMBL1X8P58](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSTERMBL1X8P58)

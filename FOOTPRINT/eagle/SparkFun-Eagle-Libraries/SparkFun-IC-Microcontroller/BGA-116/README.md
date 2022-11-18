@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Microcontroller-BGA-116
 - Hex ID: FZSIUBGA116
 - Name: SparkFun-IC-Microcontroller : BGA-116
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-IC-Microcontroller/BGA-116/
 - Description: SparkFun-IC-Microcontroller : BGA-116
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Microcontroller-BGA-116](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Microcontroller-BGA-116)
 - Short Link: [http://oom.lt/FZSIUBGA116](http://oom.lt/FZSIUBGA116)

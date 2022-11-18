@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Device-LED_Small
 - Hex ID: SZKDEVICELSLL
 - Name: Device : LED_Small
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/LED_Small/
 - Description: Device : LED_Small
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-LED_Small](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-LED_Small)
 - Short Link: [http://oom.lt/SZKDEVICELSLL](http://oom.lt/SZKDEVICELSLL)

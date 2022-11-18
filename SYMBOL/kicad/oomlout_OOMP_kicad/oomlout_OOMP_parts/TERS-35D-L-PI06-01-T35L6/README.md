@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-TERS-35D-L-PI06-01-T35L6
 - Hex ID: SZOOMPKOOMPPTERS35DLPI61T35L6
 - Name: oomlout_OOMP_parts : TERS-35D-L-PI06-01-T35L6
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/TERS-35D-L-PI06-01-T35L6/
 - Description: oomlout_OOMP_parts : TERS-35D-L-PI06-01-T35L6
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-TERS-35D-L-PI06-01-T35L6](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-TERS-35D-L-PI06-01-T35L6)
 - Short Link: [http://oom.lt/SZOOMPKOOMPPTERS35DLPI61T35L6](http://oom.lt/SZOOMPKOOMPPTERS35DLPI61T35L6)

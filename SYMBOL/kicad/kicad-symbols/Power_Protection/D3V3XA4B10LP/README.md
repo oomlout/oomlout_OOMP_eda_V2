@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Power_Protection-D3V3XA4B10LP
 - Hex ID: SZKPOWERPROTECTIOND3V3XA4B1LP
 - Name: Power_Protection : D3V3XA4B10LP
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Power_Protection/D3V3XA4B10LP/
 - Description: Power_Protection : D3V3XA4B10LP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Protection-D3V3XA4B10LP](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Protection-D3V3XA4B10LP)
 - Short Link: [http://oom.lt/SZKPOWERPROTECTIOND3V3XA4B1LP](http://oom.lt/SZKPOWERPROTECTIOND3V3XA4B1LP)

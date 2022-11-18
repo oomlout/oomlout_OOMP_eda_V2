@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-ptc-ntc-P642
 - Hex ID: FZEPTCNTCP642
 - Name: ptc-ntc : P642
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ptc-ntc/P642/
 - Description: ptc-ntc : P642
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ptc-ntc-P642](http://oom.lt/FOOTPRINT-eagle-eagle-default-ptc-ntc-P642)
 - Short Link: [http://oom.lt/FZEPTCNTCP642](http://oom.lt/FZEPTCNTCP642)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-RELAY-T9A-2
 - Hex ID: FZSRTRELAYT9A2
 - Name: SparkFun-Retired : RELAY-T9A-2
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Retired/RELAY-T9A-2/
 - Description: SparkFun-Retired : RELAY-T9A-2
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-RELAY-T9A-2](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-RELAY-T9A-2)
 - Short Link: [http://oom.lt/FZSRTRELAYT9A2](http://oom.lt/FZSRTRELAYT9A2)

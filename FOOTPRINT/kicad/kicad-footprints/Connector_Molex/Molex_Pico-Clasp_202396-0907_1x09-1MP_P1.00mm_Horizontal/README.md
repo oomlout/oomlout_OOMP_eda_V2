@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_Pico-Clasp_202396-0907_1x09-1MP_P1.00mm_Horizontal
 - Hex ID: FZKCNMXMXPICOCLASP22396971X91MPP1H
 - Name: Connector_Molex : Molex_Pico-Clasp_202396-0907_1x09-1MP_P1.00mm_Horizontal
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_Pico-Clasp_202396-0907_1x09-1MP_P1.00mm_Horizontal/
 - Description: Connector_Molex : Molex_Pico-Clasp_202396-0907_1x09-1MP_P1.00mm_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_Pico-Clasp_202396-0907_1x09-1MP_P1.00mm_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_Pico-Clasp_202396-0907_1x09-1MP_P1.00mm_Horizontal)
 - Short Link: [http://oom.lt/FZKCNMXMXPICOCLASP22396971X91MPP1H](http://oom.lt/FZKCNMXMXPICOCLASP22396971X91MPP1H)

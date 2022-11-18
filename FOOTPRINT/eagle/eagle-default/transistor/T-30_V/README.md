@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-transistor-T-30_V
 - Hex ID: FZETRANSISTORT3V
 - Name: transistor : T-30_V
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/transistor/T-30_V/
 - Description: transistor : T-30_V
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-T-30_V](http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-T-30_V)
 - Short Link: [http://oom.lt/FZETRANSISTORT3V](http://oom.lt/FZETRANSISTORT3V)

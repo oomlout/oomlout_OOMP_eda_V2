@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-smd-ipc-PQFP164
 - Hex ID: FZESMIPCPQFP164
 - Name: smd-ipc : PQFP164
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/smd-ipc/PQFP164/
 - Description: smd-ipc : PQFP164
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-PQFP164](http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-PQFP164)
 - Short Link: [http://oom.lt/FZESMIPCPQFP164](http://oom.lt/FZESMIPCPQFP164)

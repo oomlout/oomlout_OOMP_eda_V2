@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Analog_DAC-MCP4728
 - Hex ID: SZKANALOGDACMCP4728
 - Name: Analog_DAC : MCP4728
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog_DAC/MCP4728/
 - Description: Analog_DAC : MCP4728
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_DAC-MCP4728](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_DAC-MCP4728)
 - Short Link: [http://oom.lt/SZKANALOGDACMCP4728](http://oom.lt/SZKANALOGDACMCP4728)

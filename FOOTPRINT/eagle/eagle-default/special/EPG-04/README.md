@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-special-EPG-04
 - Hex ID: FZESPECIALEPG4
 - Name: special : EPG-04
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/special/EPG-04/
 - Description: special : EPG-04
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-special-EPG-04](http://oom.lt/FOOTPRINT-eagle-eagle-default-special-EPG-04)
 - Short Link: [http://oom.lt/FZESPECIALEPG4](http://oom.lt/FZESPECIALEPG4)

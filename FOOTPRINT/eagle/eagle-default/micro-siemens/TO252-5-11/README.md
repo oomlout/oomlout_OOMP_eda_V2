@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-micro-siemens-TO252-5-11
 - Hex ID: FZEMSIEMENSTO252511
 - Name: micro-siemens : TO252-5-11
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/micro-siemens/TO252-5-11/
 - Description: micro-siemens : TO252-5-11
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-siemens-TO252-5-11](http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-siemens-TO252-5-11)
 - Short Link: [http://oom.lt/FZEMSIEMENSTO252511](http://oom.lt/FZEMSIEMENSTO252511)

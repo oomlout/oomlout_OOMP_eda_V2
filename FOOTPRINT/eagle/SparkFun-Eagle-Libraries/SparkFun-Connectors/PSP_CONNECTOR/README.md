@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-PSP_CONNECTOR
 - Hex ID: FZSSPARKFUNCNSPSPCN
 - Name: SparkFun-Connectors : PSP_CONNECTOR
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Connectors/PSP_CONNECTOR/
 - Description: SparkFun-Connectors : PSP_CONNECTOR
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-PSP_CONNECTOR](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-PSP_CONNECTOR)
 - Short Link: [http://oom.lt/FZSSPARKFUNCNSPSPCN](http://oom.lt/FZSSPARKFUNCNSPSPCN)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Amplifiers-POWER-SOP8
 - Hex ID: FZSIAPOWERS8
 - Name: SparkFun-IC-Amplifiers : POWER-SOP8
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-IC-Amplifiers/POWER-SOP8/
 - Description: SparkFun-IC-Amplifiers : POWER-SOP8
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Amplifiers-POWER-SOP8](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Amplifiers-POWER-SOP8)
 - Short Link: [http://oom.lt/FZSIAPOWERS8](http://oom.lt/FZSIAPOWERS8)

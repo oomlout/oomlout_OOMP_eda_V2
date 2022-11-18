@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F0-STM32F071CBTx
 - Hex ID: SZKMCUSTSTM32FSTM32F71CBTX
 - Name: MCU_ST_STM32F0 : STM32F071CBTx
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32F0/STM32F071CBTx/
 - Description: MCU_ST_STM32F0 : STM32F071CBTx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F0-STM32F071CBTx](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F0-STM32F071CBTx)
 - Short Link: [http://oom.lt/SZKMCUSTSTM32FSTM32F71CBTX](http://oom.lt/SZKMCUSTSTM32FSTM32F71CBTX)

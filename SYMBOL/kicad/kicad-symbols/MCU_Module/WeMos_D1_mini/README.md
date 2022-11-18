@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Module-WeMos_D1_mini
 - Hex ID: SZKMCUMOWEMOSD1M
 - Name: MCU_Module : WeMos_D1_mini
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Module/WeMos_D1_mini/
 - Description: MCU_Module : WeMos_D1_mini
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Module-WeMos_D1_mini](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Module-WeMos_D1_mini)
 - Short Link: [http://oom.lt/SZKMCUMOWEMOSD1M](http://oom.lt/SZKMCUMOWEMOSD1M)

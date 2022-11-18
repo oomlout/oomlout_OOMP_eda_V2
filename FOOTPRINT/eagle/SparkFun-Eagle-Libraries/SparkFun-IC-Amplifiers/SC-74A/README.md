@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Amplifiers-SC-74A
 - Hex ID: FZSIASC74A
 - Name: SparkFun-IC-Amplifiers : SC-74A
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-IC-Amplifiers/SC-74A/
 - Description: SparkFun-IC-Amplifiers : SC-74A
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Amplifiers-SC-74A](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Amplifiers-SC-74A)
 - Short Link: [http://oom.lt/FZSIASC74A](http://oom.lt/FZSIASC74A)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Capacitor_Tantalum_SMD-CP_EIA-3216-10_Kemet-I
 - Hex ID: FZKCCPEIA32161KEMETI
 - Name: Capacitor_Tantalum_SMD : CP_EIA-3216-10_Kemet-I
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Capacitor_Tantalum_SMD/CP_EIA-3216-10_Kemet-I/
 - Description: Capacitor_Tantalum_SMD : CP_EIA-3216-10_Kemet-I
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_Tantalum_SMD-CP_EIA-3216-10_Kemet-I](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_Tantalum_SMD-CP_EIA-3216-10_Kemet-I)
 - Short Link: [http://oom.lt/FZKCCPEIA32161KEMETI](http://oom.lt/FZKCCPEIA32161KEMETI)

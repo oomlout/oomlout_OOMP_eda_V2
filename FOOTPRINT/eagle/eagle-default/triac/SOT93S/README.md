@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-triac-SOT93S
 - Hex ID: FZETRIACSOT93S
 - Name: triac : SOT93S
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/triac/SOT93S/
 - Description: triac : SOT93S
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-triac-SOT93S](http://oom.lt/FOOTPRINT-eagle-eagle-default-triac-SOT93S)
 - Short Link: [http://oom.lt/FZETRIACSOT93S](http://oom.lt/FZETRIACSOT93S)

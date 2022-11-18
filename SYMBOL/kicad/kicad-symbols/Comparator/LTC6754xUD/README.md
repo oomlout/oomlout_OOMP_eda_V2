@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Comparator-LTC6754xUD
 - Hex ID: SZKCOMPARATORLTC6754XUD
 - Name: Comparator : LTC6754xUD
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Comparator/LTC6754xUD/
 - Description: Comparator : LTC6754xUD
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Comparator-LTC6754xUD](http://oom.lt/SYMBOL-kicad-kicad-symbols-Comparator-LTC6754xUD)
 - Short Link: [http://oom.lt/SZKCOMPARATORLTC6754XUD](http://oom.lt/SZKCOMPARATORLTC6754XUD)

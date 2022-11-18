@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-DIL16
 - Hex ID: FZADIL16
 - Name: adafruit : DIL16
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/DIL16/
 - Description: adafruit : DIL16
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-DIL16](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-DIL16)
 - Short Link: [http://oom.lt/FZADIL16](http://oom.lt/FZADIL16)

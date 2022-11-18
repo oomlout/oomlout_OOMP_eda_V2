@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0805-X-O471-67-R85471A
 - Hex ID: SZOOMPKOOMPPRESE85XO47167R85471A
 - Name: oomlout_OOMP_parts : RESE-0805-X-O471-67-R85471A
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/RESE-0805-X-O471-67-R85471A/
 - Description: oomlout_OOMP_parts : RESE-0805-X-O471-67-R85471A
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0805-X-O471-67-R85471A](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0805-X-O471-67-R85471A)
 - Short Link: [http://oom.lt/SZOOMPKOOMPPRESE85XO47167R85471A](http://oom.lt/SZOOMPKOOMPPRESE85XO47167R85471A)

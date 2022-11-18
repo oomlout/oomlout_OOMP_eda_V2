@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Display_Character-DA04-11SRWA
 - Hex ID: SZKDICHARACTERDA411SRWA
 - Name: Display_Character : DA04-11SRWA
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Display_Character/DA04-11SRWA/
 - Description: Display_Character : DA04-11SRWA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-DA04-11SRWA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-DA04-11SRWA)
 - Short Link: [http://oom.lt/SZKDICHARACTERDA411SRWA](http://oom.lt/SZKDICHARACTERDA411SRWA)

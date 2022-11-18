@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Reference_Voltage-LT1790-2.048
 - Hex ID: SZKREFERENCEVOLTAGELT179248
 - Name: Reference_Voltage : LT1790-2.048
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Reference_Voltage/LT1790-2.048/
 - Description: Reference_Voltage : LT1790-2.048
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Voltage-LT1790-2.048](http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Voltage-LT1790-2.048)
 - Short Link: [http://oom.lt/SZKREFERENCEVOLTAGELT179248](http://oom.lt/SZKREFERENCEVOLTAGELT179248)

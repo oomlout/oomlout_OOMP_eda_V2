@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-cpci-044579_PRESS
 - Hex ID: FZECONCPCI44579PRESS
 - Name: con-cpci : 044579_PRESS
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-cpci/044579_PRESS/
 - Description: con-cpci : 044579_PRESS
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-cpci-044579_PRESS](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-cpci-044579_PRESS)
 - Short Link: [http://oom.lt/FZECONCPCI44579PRESS](http://oom.lt/FZECONCPCI44579PRESS)

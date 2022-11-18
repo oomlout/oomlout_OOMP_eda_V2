@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Reference_Voltage-LT6657AHMS8-5
 - Hex ID: SZKREFERENCEVOLTAGELT6657AHMS85
 - Name: Reference_Voltage : LT6657AHMS8-5
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Reference_Voltage/LT6657AHMS8-5/
 - Description: Reference_Voltage : LT6657AHMS8-5
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Voltage-LT6657AHMS8-5](http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Voltage-LT6657AHMS8-5)
 - Short Link: [http://oom.lt/SZKREFERENCEVOLTAGELT6657AHMS85](http://oom.lt/SZKREFERENCEVOLTAGELT6657AHMS85)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O432-67-R6432A
 - Hex ID: SZOOMPKOOMPPRESE63XO43267R6432A
 - Name: oomlout_OOMP_parts : RESE-0603-X-O432-67-R6432A
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/RESE-0603-X-O432-67-R6432A/
 - Description: oomlout_OOMP_parts : RESE-0603-X-O432-67-R6432A
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O432-67-R6432A](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O432-67-R6432A)
 - Short Link: [http://oom.lt/SZOOMPKOOMPPRESE63XO43267R6432A](http://oom.lt/SZOOMPKOOMPPRESE63XO43267R6432A)

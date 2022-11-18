@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-LED-SK6812MINI
 - Hex ID: SZKLSK6812M
 - Name: LED : SK6812MINI
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/LED/SK6812MINI/
 - Description: LED : SK6812MINI
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-LED-SK6812MINI](http://oom.lt/SYMBOL-kicad-kicad-symbols-LED-SK6812MINI)
 - Short Link: [http://oom.lt/SZKLSK6812M](http://oom.lt/SZKLSK6812M)

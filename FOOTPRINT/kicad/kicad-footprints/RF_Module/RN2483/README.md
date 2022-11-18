@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-RF_Module-RN2483
 - Hex ID: FZKRFMORN2483
 - Name: RF_Module : RN2483
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/RF_Module/RN2483/
 - Description: RF_Module : RN2483
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_Module-RN2483](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_Module-RN2483)
 - Short Link: [http://oom.lt/FZKRFMORN2483](http://oom.lt/FZKRFMORN2483)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-DFN-8-1EP_2x2mm_P0.45mm_EP0.64x1.38mm
 - Hex ID: FZKDFNDFN81EP2X2P45EP64X138
 - Name: Package_DFN_QFN : DFN-8-1EP_2x2mm_P0.45mm_EP0.64x1.38mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/DFN-8-1EP_2x2mm_P0.45mm_EP0.64x1.38mm/
 - Description: Package_DFN_QFN : DFN-8-1EP_2x2mm_P0.45mm_EP0.64x1.38mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-DFN-8-1EP_2x2mm_P0.45mm_EP0.64x1.38mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-DFN-8-1EP_2x2mm_P0.45mm_EP0.64x1.38mm)
 - Short Link: [http://oom.lt/FZKDFNDFN81EP2X2P45EP64X138](http://oom.lt/FZKDFNDFN81EP2X2P45EP64X138)

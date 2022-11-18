@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-weidmueller-sl35-110-3
 - Hex ID: FZECONWEIDMUELLERSL35113
 - Name: con-weidmueller-sl35 : 110-3
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-weidmueller-sl35/110-3/
 - Description: con-weidmueller-sl35 : 110-3
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-weidmueller-sl35-110-3](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-weidmueller-sl35-110-3)
 - Short Link: [http://oom.lt/FZECONWEIDMUELLERSL35113](http://oom.lt/FZECONWEIDMUELLERSL35113)

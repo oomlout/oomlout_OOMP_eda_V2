@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-samtec-TSW-120-XX-G-D
 - Hex ID: FZECONSAMTECTSW12XXGD
 - Name: con-samtec : TSW-120-XX-G-D
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-samtec/TSW-120-XX-G-D/
 - Description: con-samtec : TSW-120-XX-G-D
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-samtec-TSW-120-XX-G-D](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-samtec-TSW-120-XX-G-D)
 - Short Link: [http://oom.lt/FZECONSAMTECTSW12XXGD](http://oom.lt/FZECONSAMTECTSW12XXGD)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-linear-technology-QFN38-5X7
 - Hex ID: FZELINEARTECHNOLOGYQFN385X7
 - Name: linear-technology : QFN38-5X7
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/linear-technology/QFN38-5X7/
 - Description: linear-technology : QFN38-5X7
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-linear-technology-QFN38-5X7](http://oom.lt/FOOTPRINT-eagle-eagle-default-linear-technology-QFN38-5X7)
 - Short Link: [http://oom.lt/FZELINEARTECHNOLOGYQFN385X7](http://oom.lt/FZELINEARTECHNOLOGYQFN385X7)

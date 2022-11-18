@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-texas-RUG_(R-PQFP-N8)
 - Hex ID: FZETEXASRUG(RPQFPN8)
 - Name: texas : RUG_(R-PQFP-N8)
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/texas/RUG_(R-PQFP-N8)/
 - Description: texas : RUG_(R-PQFP-N8)
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-texas-RUG_(R-PQFP-N8)](http://oom.lt/FOOTPRINT-eagle-eagle-default-texas-RUG_(R-PQFP-N8))
 - Short Link: [http://oom.lt/FZETEXASRUG(RPQFPN8)](http://oom.lt/FZETEXASRUG(RPQFPN8))

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0603-X-NF30-V25-C6N30-C1615
 - Hex ID: SZOOMPKJLCCAPC63XNF3V25C6N3C1615
 - Name: oomlout_OOMP_JLCC_Basic : CAPC-0603-X-NF30-V25-C6N30-C1615
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_JLCC_Basic/CAPC-0603-X-NF30-V25-C6N30-C1615/
 - Description: oomlout_OOMP_JLCC_Basic : CAPC-0603-X-NF30-V25-C6N30-C1615
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0603-X-NF30-V25-C6N30-C1615](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0603-X-NF30-V25-C6N30-C1615)
 - Short Link: [http://oom.lt/SZOOMPKJLCCAPC63XNF3V25C6N3C1615](http://oom.lt/SZOOMPKJLCCAPC63XNF3V25C6N3C1615)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-A4403GEU
 - Hex ID: SZKREGULATORSWINGA443GEU
 - Name: Regulator_Switching : A4403GEU
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/A4403GEU/
 - Description: Regulator_Switching : A4403GEU
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-A4403GEU](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-A4403GEU)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGA443GEU](http://oom.lt/SZKREGULATORSWINGA443GEU)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_SH_SM09B-SRSS-TB_1x09-1MP_P1.00mm_Horizontal
 - Hex ID: FZKCNJSTJSTSHSM9BSRSSTB1X91MPP1H
 - Name: Connector_JST : JST_SH_SM09B-SRSS-TB_1x09-1MP_P1.00mm_Horizontal
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_SH_SM09B-SRSS-TB_1x09-1MP_P1.00mm_Horizontal/
 - Description: Connector_JST : JST_SH_SM09B-SRSS-TB_1x09-1MP_P1.00mm_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_SH_SM09B-SRSS-TB_1x09-1MP_P1.00mm_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_SH_SM09B-SRSS-TB_1x09-1MP_P1.00mm_Horizontal)
 - Short Link: [http://oom.lt/FZKCNJSTJSTSHSM9BSRSSTB1X91MPP1H](http://oom.lt/FZKCNJSTJSTSHSM9BSRSSTB1X91MPP1H)

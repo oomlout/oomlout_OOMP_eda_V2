@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-power-LINE
 - Hex ID: SZKPOWERLINE
 - Name: power : LINE
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/power/LINE/
 - Description: power : LINE
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-power-LINE](http://oom.lt/SYMBOL-kicad-kicad-symbols-power-LINE)
 - Short Link: [http://oom.lt/SZKPOWERLINE](http://oom.lt/SZKPOWERLINE)

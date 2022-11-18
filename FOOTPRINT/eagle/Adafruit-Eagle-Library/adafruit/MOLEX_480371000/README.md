@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-MOLEX_480371000
 - Hex ID: FZAMX48371
 - Name: adafruit : MOLEX_480371000
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/MOLEX_480371000/
 - Description: adafruit : MOLEX_480371000
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-MOLEX_480371000](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-MOLEX_480371000)
 - Short Link: [http://oom.lt/FZAMX48371](http://oom.lt/FZAMX48371)

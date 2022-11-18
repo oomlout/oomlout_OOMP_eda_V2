@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Analog_Switch-DG309xY
 - Hex ID: SZKANALOGSWDG39XY
 - Name: Analog_Switch : DG309xY
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog_Switch/DG309xY/
 - Description: Analog_Switch : DG309xY
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_Switch-DG309xY](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_Switch-DG309xY)
 - Short Link: [http://oom.lt/SZKANALOGSWDG39XY](http://oom.lt/SZKANALOGSWDG39XY)

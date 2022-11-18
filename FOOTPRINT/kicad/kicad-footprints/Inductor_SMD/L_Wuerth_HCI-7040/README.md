@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Wuerth_HCI-7040
 - Hex ID: FZKINLWUERTHHCI74
 - Name: Inductor_SMD : L_Wuerth_HCI-7040
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Wuerth_HCI-7040/
 - Description: Inductor_SMD : L_Wuerth_HCI-7040
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Wuerth_HCI-7040](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Wuerth_HCI-7040)
 - Short Link: [http://oom.lt/FZKINLWUERTHHCI74](http://oom.lt/FZKINLWUERTHHCI74)

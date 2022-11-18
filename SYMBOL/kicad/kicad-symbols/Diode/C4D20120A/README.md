@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-C4D20120A
 - Hex ID: SZKDIODEC4D212A
 - Name: Diode : C4D20120A
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/C4D20120A/
 - Description: Diode : C4D20120A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-C4D20120A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-C4D20120A)
 - Short Link: [http://oom.lt/SZKDIODEC4D212A](http://oom.lt/SZKDIODEC4D212A)

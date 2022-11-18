@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Analog_DAC-DAC6578xPW
 - Hex ID: SZKANALOGDACDAC6578XPW
 - Name: Analog_DAC : DAC6578xPW
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog_DAC/DAC6578xPW/
 - Description: Analog_DAC : DAC6578xPW
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_DAC-DAC6578xPW](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_DAC-DAC6578xPW)
 - Short Link: [http://oom.lt/SZKANALOGDACDAC6578XPW](http://oom.lt/SZKANALOGDACDAC6578XPW)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0603-X-NF20-V25-C6N20
 - Hex ID: SZOOMPKOOMPPCAPC63XNF2V25C6N2
 - Name: oomlout_OOMP_parts : CAPC-0603-X-NF20-V25-C6N20
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/CAPC-0603-X-NF20-V25-C6N20/
 - Description: oomlout_OOMP_parts : CAPC-0603-X-NF20-V25-C6N20
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0603-X-NF20-V25-C6N20](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0603-X-NF20-V25-C6N20)
 - Short Link: [http://oom.lt/SZOOMPKOOMPPCAPC63XNF2V25C6N2](http://oom.lt/SZOOMPKOOMPPCAPC63XNF2V25C6N2)

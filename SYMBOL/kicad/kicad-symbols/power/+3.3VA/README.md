@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-power-+3.3VA
 - Hex ID: SZKPOWER+33VA
 - Name: power : +3.3VA
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/power/+3.3VA/
 - Description: power : +3.3VA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-power-+3.3VA](http://oom.lt/SYMBOL-kicad-kicad-symbols-power-+3.3VA)
 - Short Link: [http://oom.lt/SZKPOWER+33VA](http://oom.lt/SZKPOWER+33VA)

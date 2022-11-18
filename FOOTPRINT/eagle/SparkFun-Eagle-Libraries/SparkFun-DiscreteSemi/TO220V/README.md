@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-DiscreteSemi-TO220V
 - Hex ID: FZSDSTO22V
 - Name: SparkFun-DiscreteSemi : TO220V
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-DiscreteSemi/TO220V/
 - Description: SparkFun-DiscreteSemi : TO220V
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-DiscreteSemi-TO220V](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-DiscreteSemi-TO220V)
 - Short Link: [http://oom.lt/FZSDSTO22V](http://oom.lt/FZSDSTO22V)

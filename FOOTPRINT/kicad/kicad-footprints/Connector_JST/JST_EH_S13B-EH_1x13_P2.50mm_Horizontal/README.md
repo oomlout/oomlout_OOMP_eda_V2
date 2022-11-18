@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_EH_S13B-EH_1x13_P2.50mm_Horizontal
 - Hex ID: FZKCNJSTJSTEHS13BEH1X13P25H
 - Name: Connector_JST : JST_EH_S13B-EH_1x13_P2.50mm_Horizontal
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_EH_S13B-EH_1x13_P2.50mm_Horizontal/
 - Description: Connector_JST : JST_EH_S13B-EH_1x13_P2.50mm_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_EH_S13B-EH_1x13_P2.50mm_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_EH_S13B-EH_1x13_P2.50mm_Horizontal)
 - Short Link: [http://oom.lt/FZKCNJSTJSTEHS13BEH1X13P25H](http://oom.lt/FZKCNJSTJSTEHS13BEH1X13P25H)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_Wago-Wago_734-178_1x18_P3.50mm_Horizontal
 - Hex ID: FZKCNWAGOWAGO7341781X18P35H
 - Name: Connector_Wago : Wago_734-178_1x18_P3.50mm_Horizontal
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Wago/Wago_734-178_1x18_P3.50mm_Horizontal/
 - Description: Connector_Wago : Wago_734-178_1x18_P3.50mm_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Wago-Wago_734-178_1x18_P3.50mm_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Wago-Wago_734-178_1x18_P3.50mm_Horizontal)
 - Short Link: [http://oom.lt/FZKCNWAGOWAGO7341781X18P35H](http://oom.lt/FZKCNWAGOWAGO7341781X18P35H)

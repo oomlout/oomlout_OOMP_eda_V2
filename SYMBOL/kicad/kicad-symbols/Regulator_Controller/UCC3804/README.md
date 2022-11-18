@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Controller-UCC3804
 - Hex ID: SZKREGULATORCONTROLLERUCC384
 - Name: Regulator_Controller : UCC3804
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Controller/UCC3804/
 - Description: Regulator_Controller : UCC3804
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Controller-UCC3804](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Controller-UCC3804)
 - Short Link: [http://oom.lt/SZKREGULATORCONTROLLERUCC384](http://oom.lt/SZKREGULATORCONTROLLERUCC384)

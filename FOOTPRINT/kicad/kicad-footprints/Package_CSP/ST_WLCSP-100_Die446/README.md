@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_CSP-ST_WLCSP-100_Die446
 - Hex ID: FZKCSPSTWLCSP1DIE446
 - Name: Package_CSP : ST_WLCSP-100_Die446
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_CSP/ST_WLCSP-100_Die446/
 - Description: Package_CSP : ST_WLCSP-100_Die446
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_CSP-ST_WLCSP-100_Die446](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_CSP-ST_WLCSP-100_Die446)
 - Short Link: [http://oom.lt/FZKCSPSTWLCSP1DIE446](http://oom.lt/FZKCSPSTWLCSP1DIE446)

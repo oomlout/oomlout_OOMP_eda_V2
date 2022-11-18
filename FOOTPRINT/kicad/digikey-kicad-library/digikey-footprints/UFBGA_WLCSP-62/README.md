@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-UFBGA_WLCSP-62
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSUFBGAWLCSP62
 - Name: digikey-footprints : UFBGA_WLCSP-62
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/UFBGA_WLCSP-62/
 - Description: digikey-footprints : UFBGA_WLCSP-62
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-UFBGA_WLCSP-62](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-UFBGA_WLCSP-62)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSUFBGAWLCSP62](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSUFBGAWLCSP62)

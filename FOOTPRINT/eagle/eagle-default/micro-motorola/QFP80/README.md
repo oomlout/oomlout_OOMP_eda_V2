@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-micro-motorola-QFP80
 - Hex ID: FZEMMOTOROLAQFP8
 - Name: micro-motorola : QFP80
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/micro-motorola/QFP80/
 - Description: micro-motorola : QFP80
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-motorola-QFP80](http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-motorola-QFP80)
 - Short Link: [http://oom.lt/FZEMMOTOROLAQFP8](http://oom.lt/FZEMMOTOROLAQFP8)

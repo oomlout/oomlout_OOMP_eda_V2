@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Memory_Flash-AT45DB161B-RC
 - Hex ID: SZKMEMORYFLASHAT45DB161BRC
 - Name: Memory_Flash : AT45DB161B-RC
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Memory_Flash/AT45DB161B-RC/
 - Description: Memory_Flash : AT45DB161B-RC
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_Flash-AT45DB161B-RC](http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_Flash-AT45DB161B-RC)
 - Short Link: [http://oom.lt/SZKMEMORYFLASHAT45DB161BRC](http://oom.lt/SZKMEMORYFLASHAT45DB161BRC)

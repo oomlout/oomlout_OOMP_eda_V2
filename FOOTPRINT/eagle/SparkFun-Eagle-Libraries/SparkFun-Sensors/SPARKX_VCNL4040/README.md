@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-SPARKX_VCNL4040
 - Hex ID: FZSSPARKFUNSENSSPARKXVCNL44
 - Name: SparkFun-Sensors : SPARKX_VCNL4040
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Sensors/SPARKX_VCNL4040/
 - Description: SparkFun-Sensors : SPARKX_VCNL4040
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-SPARKX_VCNL4040](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-SPARKX_VCNL4040)
 - Short Link: [http://oom.lt/FZSSPARKFUNSENSSPARKXVCNL44](http://oom.lt/FZSSPARKFUNSENSSPARKXVCNL44)

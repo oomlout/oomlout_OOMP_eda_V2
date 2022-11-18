@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega8535-16J
 - Hex ID: SZKMCUMCHIPATMEGAATMEGA853516J
 - Name: MCU_Microchip_ATmega : ATmega8535-16J
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_ATmega/ATmega8535-16J/
 - Description: MCU_Microchip_ATmega : ATmega8535-16J
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega8535-16J](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega8535-16J)
 - Short Link: [http://oom.lt/SZKMCUMCHIPATMEGAATMEGA853516J](http://oom.lt/SZKMCUMCHIPATMEGAATMEGA853516J)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-HC49_S
 - Hex ID: FZAHC49S
 - Name: adafruit : HC49_S
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/HC49_S/
 - Description: adafruit : HC49_S
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-HC49_S](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-HC49_S)
 - Short Link: [http://oom.lt/FZAHC49S](http://oom.lt/FZAHC49S)

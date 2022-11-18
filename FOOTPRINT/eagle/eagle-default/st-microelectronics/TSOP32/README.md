@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-st-microelectronics-TSOP32
 - Hex ID: FZESTMELECTRONICSTS32
 - Name: st-microelectronics : TSOP32
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/st-microelectronics/TSOP32/
 - Description: st-microelectronics : TSOP32
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-st-microelectronics-TSOP32](http://oom.lt/FOOTPRINT-eagle-eagle-default-st-microelectronics-TSOP32)
 - Short Link: [http://oom.lt/FZESTMELECTRONICSTS32](http://oom.lt/FZESTMELECTRONICSTS32)

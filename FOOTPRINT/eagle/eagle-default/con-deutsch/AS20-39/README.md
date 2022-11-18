@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-deutsch-AS20-39
 - Hex ID: FZECONDEUTSCHAS239
 - Name: con-deutsch : AS20-39
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-deutsch/AS20-39/
 - Description: con-deutsch : AS20-39
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-deutsch-AS20-39](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-deutsch-AS20-39)
 - Short Link: [http://oom.lt/FZECONDEUTSCHAS239](http://oom.lt/FZECONDEUTSCHAS239)

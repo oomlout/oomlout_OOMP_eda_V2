@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-recom-international-RCD-24_W_X3
 - Hex ID: FZERECOMINTERNATIONALRCD24WX3
 - Name: recom-international : RCD-24_W_X3
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/recom-international/RCD-24_W_X3/
 - Description: recom-international : RCD-24_W_X3
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-recom-international-RCD-24_W_X3](http://oom.lt/FOOTPRINT-eagle-eagle-default-recom-international-RCD-24_W_X3)
 - Short Link: [http://oom.lt/FZERECOMINTERNATIONALRCD24WX3](http://oom.lt/FZERECOMINTERNATIONALRCD24WX3)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-OPA340UA
 - Hex ID: SZKAMPLIFIEROPERATIONALOPA34UA
 - Name: Amplifier_Operational : OPA340UA
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/OPA340UA/
 - Description: Amplifier_Operational : OPA340UA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-OPA340UA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-OPA340UA)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALOPA34UA](http://oom.lt/SZKAMPLIFIEROPERATIONALOPA34UA)

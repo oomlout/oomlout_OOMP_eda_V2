@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-micro-intel-DIL48
 - Hex ID: FZEMINTELDIL48
 - Name: micro-intel : DIL48
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/micro-intel/DIL48/
 - Description: micro-intel : DIL48
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-intel-DIL48](http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-intel-DIL48)
 - Short Link: [http://oom.lt/FZEMINTELDIL48](http://oom.lt/FZEMINTELDIL48)

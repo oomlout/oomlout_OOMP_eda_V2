@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-C1825
 - Hex ID: FZAC1825
 - Name: adafruit : C1825
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/C1825/
 - Description: adafruit : C1825
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-C1825](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-C1825)
 - Short Link: [http://oom.lt/FZAC1825](http://oom.lt/FZAC1825)

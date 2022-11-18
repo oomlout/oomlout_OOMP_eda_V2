@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-fuse-MF-SMDF050
 - Hex ID: FZEFUMFSMF5
 - Name: fuse : MF-SMDF050
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/fuse/MF-SMDF050/
 - Description: fuse : MF-SMDF050
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-fuse-MF-SMDF050](http://oom.lt/FOOTPRINT-eagle-eagle-default-fuse-MF-SMDF050)
 - Short Link: [http://oom.lt/FZEFUMFSMF5](http://oom.lt/FZEFUMFSMF5)

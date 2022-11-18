@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-MCP1700-5002E_SOT89
 - Hex ID: SZKREGULATORLINEARMCP1752ESOT89
 - Name: Regulator_Linear : MCP1700-5002E_SOT89
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/MCP1700-5002E_SOT89/
 - Description: Regulator_Linear : MCP1700-5002E_SOT89
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-MCP1700-5002E_SOT89](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-MCP1700-5002E_SOT89)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARMCP1752ESOT89](http://oom.lt/SZKREGULATORLINEARMCP1752ESOT89)

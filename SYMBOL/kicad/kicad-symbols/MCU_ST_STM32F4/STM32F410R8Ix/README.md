@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F4-STM32F410R8Ix
 - Hex ID: SZKMCUSTSTM32F4STM32F41R8IX
 - Name: MCU_ST_STM32F4 : STM32F410R8Ix
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32F4/STM32F410R8Ix/
 - Description: MCU_ST_STM32F4 : STM32F410R8Ix
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F4-STM32F410R8Ix](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F4-STM32F410R8Ix)
 - Short Link: [http://oom.lt/SZKMCUSTSTM32F4STM32F41R8IX](http://oom.lt/SZKMCUSTSTM32F4STM32F41R8IX)

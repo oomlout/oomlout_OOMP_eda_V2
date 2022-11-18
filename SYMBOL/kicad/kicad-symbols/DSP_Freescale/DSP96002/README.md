@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-DSP_Freescale-DSP96002
 - Hex ID: SZKDSPFREESCALEDSP962
 - Name: DSP_Freescale : DSP96002
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/DSP_Freescale/DSP96002/
 - Description: DSP_Freescale : DSP96002
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-DSP_Freescale-DSP96002](http://oom.lt/SYMBOL-kicad-kicad-symbols-DSP_Freescale-DSP96002)
 - Short Link: [http://oom.lt/SZKDSPFREESCALEDSP962](http://oom.lt/SZKDSPFREESCALEDSP962)

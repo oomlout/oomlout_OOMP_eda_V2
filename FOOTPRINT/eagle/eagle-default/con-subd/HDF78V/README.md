@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-subd-HDF78V
 - Hex ID: FZECONSUBDHDF78V
 - Name: con-subd : HDF78V
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-subd/HDF78V/
 - Description: con-subd : HDF78V
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-subd-HDF78V](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-subd-HDF78V)
 - Short Link: [http://oom.lt/FZECONSUBDHDF78V](http://oom.lt/FZECONSUBDHDF78V)

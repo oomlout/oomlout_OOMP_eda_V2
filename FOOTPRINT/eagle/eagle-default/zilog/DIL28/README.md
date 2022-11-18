@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-zilog-DIL28
 - Hex ID: FZEZILOGDIL28
 - Name: zilog : DIL28
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/zilog/DIL28/
 - Description: zilog : DIL28
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-zilog-DIL28](http://oom.lt/FOOTPRINT-eagle-eagle-default-zilog-DIL28)
 - Short Link: [http://oom.lt/FZEZILOGDIL28](http://oom.lt/FZEZILOGDIL28)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-plxtech-QFP18-176
 - Hex ID: FZEPLXTECHQFP18176
 - Name: plxtech : QFP18-176
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/plxtech/QFP18-176/
 - Description: plxtech : QFP18-176
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-plxtech-QFP18-176](http://oom.lt/FOOTPRINT-eagle-eagle-default-plxtech-QFP18-176)
 - Short Link: [http://oom.lt/FZEPLXTECHQFP18176](http://oom.lt/FZEPLXTECHQFP18176)

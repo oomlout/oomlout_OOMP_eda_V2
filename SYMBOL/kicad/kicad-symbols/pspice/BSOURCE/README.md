@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-pspice-BSOURCE
 - Hex ID: SZKPSPICEBSOURCE
 - Name: pspice : BSOURCE
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/pspice/BSOURCE/
 - Description: pspice : BSOURCE
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-pspice-BSOURCE](http://oom.lt/SYMBOL-kicad-kicad-symbols-pspice-BSOURCE)
 - Short Link: [http://oom.lt/SZKPSPICEBSOURCE](http://oom.lt/SZKPSPICEBSOURCE)

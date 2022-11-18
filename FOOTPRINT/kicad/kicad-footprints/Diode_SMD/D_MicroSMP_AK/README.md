@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_MicroSMP_AK
 - Hex ID: FZKDDMSMPAK
 - Name: Diode_SMD : D_MicroSMP_AK
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Diode_SMD/D_MicroSMP_AK/
 - Description: Diode_SMD : D_MicroSMP_AK
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_MicroSMP_AK](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_MicroSMP_AK)
 - Short Link: [http://oom.lt/FZKDDMSMPAK](http://oom.lt/FZKDDMSMPAK)

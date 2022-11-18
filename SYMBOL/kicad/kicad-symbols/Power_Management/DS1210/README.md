@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Power_Management-DS1210
 - Hex ID: SZKPOWERMANAGEMENTDS121
 - Name: Power_Management : DS1210
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Power_Management/DS1210/
 - Description: Power_Management : DS1210
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-DS1210](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-DS1210)
 - Short Link: [http://oom.lt/SZKPOWERMANAGEMENTDS121](http://oom.lt/SZKPOWERMANAGEMENTDS121)

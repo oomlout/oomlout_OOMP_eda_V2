@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-GL2576-12TA5R
 - Hex ID: SZKREGULATORSWINGGL257612TA5R
 - Name: Regulator_Switching : GL2576-12TA5R
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/GL2576-12TA5R/
 - Description: Regulator_Switching : GL2576-12TA5R
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-GL2576-12TA5R](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-GL2576-12TA5R)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGGL257612TA5R](http://oom.lt/SZKREGULATORSWINGGL257612TA5R)

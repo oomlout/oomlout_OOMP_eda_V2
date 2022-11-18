@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEREFPACKAGESLONGPADSGB1 > ref-packages-longpad : SGB-10](#fzerefpackageslongpadsgb1--ref-packages-longpad--sgb-10)
+* [FZEREFPSLPSGB1 > ref-packages-longpad : SGB-10](#fzerefpslpsgb1--ref-packages-longpad--sgb-10)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEREFPACKAGESLONGPADSGB1 > ref-packages-longpad : SGB-10
+# FZEREFPSLPSGB1 > ref-packages-longpad : SGB-10
 
 - ID: FOOTPRINT-eagle-eagle-default-ref-packages-longpad-SGB-10
-- Hex ID: FZEREFPACKAGESLONGPADSGB1
+- Hex ID: FZEREFPSLPSGB1
 - Name: ref-packages-longpad : SGB-10
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ref-packages-longpad/SGB-10/
 - Description: ref-packages-longpad : SGB-10
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-longpad-SGB-10](http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-longpad-SGB-10)
-- Short Link: [http://oom.lt/FZEREFPACKAGESLONGPADSGB1](http://oom.lt/FZEREFPACKAGESLONGPADSGB1)
+- Short Link: [http://oom.lt/FZEREFPSLPSGB1](http://oom.lt/FZEREFPSLPSGB1)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|ref-packages-longpad|
 |OOMP Index|oompIndex|SGB-10|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-ref-packages-longpad-SGB-10|
-|Hex ID (short code)|hexID|FZEREFPACKAGESLONGPADSGB1|
+|Hex ID (short code)|hexID|FZEREFPSLPSGB1|
 |name|name|ref-packages-longpad : SGB-10|
 ||||

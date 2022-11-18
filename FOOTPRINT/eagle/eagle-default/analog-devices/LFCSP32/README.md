@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-analog-devices-LFCSP32
 - Hex ID: FZEANALOGDEVICESLFCSP32
 - Name: analog-devices : LFCSP32
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/analog-devices/LFCSP32/
 - Description: analog-devices : LFCSP32
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-analog-devices-LFCSP32](http://oom.lt/FOOTPRINT-eagle-eagle-default-analog-devices-LFCSP32)
 - Short Link: [http://oom.lt/FZEANALOGDEVICESLFCSP32](http://oom.lt/FZEANALOGDEVICESLFCSP32)

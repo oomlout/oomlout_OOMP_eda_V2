@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Difference-LM733CN
 - Hex ID: SZKAMPLIFIERDIFFERENCELM733CN
 - Name: Amplifier_Difference : LM733CN
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Difference/LM733CN/
 - Description: Amplifier_Difference : LM733CN
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Difference-LM733CN](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Difference-LM733CN)
 - Short Link: [http://oom.lt/SZKAMPLIFIERDIFFERENCELM733CN](http://oom.lt/SZKAMPLIFIERDIFFERENCELM733CN)

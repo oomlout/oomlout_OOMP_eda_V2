@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Oscillator-SG-5032CBN
 - Hex ID: SZKOCSSG532CBN
 - Name: Oscillator : SG-5032CBN
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Oscillator/SG-5032CBN/
 - Description: Oscillator : SG-5032CBN
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Oscillator-SG-5032CBN](http://oom.lt/SYMBOL-kicad-kicad-symbols-Oscillator-SG-5032CBN)
 - Short Link: [http://oom.lt/SZKOCSSG532CBN](http://oom.lt/SZKOCSSG532CBN)

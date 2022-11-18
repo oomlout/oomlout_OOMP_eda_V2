@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-QFN-16_WITH_AXIES
 - Hex ID: FZSSPARKFUNSENSQFN16WITHAXIES
 - Name: SparkFun-Sensors : QFN-16_WITH_AXIES
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Sensors/QFN-16_WITH_AXIES/
 - Description: SparkFun-Sensors : QFN-16_WITH_AXIES
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-QFN-16_WITH_AXIES](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-QFN-16_WITH_AXIES)
 - Short Link: [http://oom.lt/FZSSPARKFUNSENSQFN16WITHAXIES](http://oom.lt/FZSSPARKFUNSENSQFN16WITHAXIES)

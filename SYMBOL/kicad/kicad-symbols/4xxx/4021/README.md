@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-4xxx-4021
 - Hex ID: SZK4XXX421
 - Name: 4xxx : 4021
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/4xxx/4021/
 - Description: 4xxx : 4021
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-4xxx-4021](http://oom.lt/SYMBOL-kicad-kicad-symbols-4xxx-4021)
 - Short Link: [http://oom.lt/SZK4XXX421](http://oom.lt/SZK4XXX421)

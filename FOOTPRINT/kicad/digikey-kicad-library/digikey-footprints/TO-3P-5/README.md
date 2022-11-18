@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-TO-3P-5
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSTO3P5
 - Name: digikey-footprints : TO-3P-5
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/TO-3P-5/
 - Description: digikey-footprints : TO-3P-5
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-TO-3P-5](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-TO-3P-5)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSTO3P5](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSTO3P5)

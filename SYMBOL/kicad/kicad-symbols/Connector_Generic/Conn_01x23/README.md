@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [SZKCNGENERICCONN1X23 > Connector_Generic : Conn_01x23](#szkcngenericconn1x23--connector_generic--conn_01x23)
+* [SZKCNGC1X23 > Connector_Generic : Conn_01x23](#szkcngc1x23--connector_generic--conn_01x23)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# SZKCNGENERICCONN1X23 > Connector_Generic : Conn_01x23
+# SZKCNGC1X23 > Connector_Generic : Conn_01x23
 
 - ID: SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x23
-- Hex ID: SZKCNGENERICCONN1X23
+- Hex ID: SZKCNGC1X23
 - Name: Connector_Generic : Conn_01x23
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_01x23/
 - Description: Connector_Generic : Conn_01x23
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x23](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x23)
-- Short Link: [http://oom.lt/SZKCNGENERICCONN1X23](http://oom.lt/SZKCNGENERICCONN1X23)
+- Short Link: [http://oom.lt/SZKCNGC1X23](http://oom.lt/SZKCNGC1X23)
 
 ## Images
   
@@ -36,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Connector_Generic|
 |OOMP Index|oompIndex|Conn_01x23|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x23|
-|Hex ID (short code)|hexID|SZKCNGENERICCONN1X23|
+|Hex ID (short code)|hexID|SZKCNGC1X23|
 |name|name|Connector_Generic : Conn_01x23|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'J'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'Conn_01x23'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'connector'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Generic connector</td><td> single row</td><td> 01x23</td><td> script generated (kicad-library-utils/schlib/autogen/connector/)'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Connector*</td></tr><tr><td>*_1x??_*'</td></tr></table>]|
 ||||

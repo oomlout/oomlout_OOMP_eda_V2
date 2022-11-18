@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZSRTTSS28GROUNDPAD > SparkFun-Retired : TSSOP28-GROUNDPAD](#fzsrttss28groundpad--sparkfun-retired--tssop28-groundpad)
+* [FZSRTTSS28GROUNDP > SparkFun-Retired : TSSOP28-GROUNDPAD](#fzsrttss28groundp--sparkfun-retired--tssop28-groundpad)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZSRTTSS28GROUNDPAD > SparkFun-Retired : TSSOP28-GROUNDPAD
+# FZSRTTSS28GROUNDP > SparkFun-Retired : TSSOP28-GROUNDPAD
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-TSSOP28-GROUNDPAD
-- Hex ID: FZSRTTSS28GROUNDPAD
+- Hex ID: FZSRTTSS28GROUNDP
 - Name: SparkFun-Retired : TSSOP28-GROUNDPAD
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Retired/TSSOP28-GROUNDPAD/
 - Description: SparkFun-Retired : TSSOP28-GROUNDPAD
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-TSSOP28-GROUNDPAD](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-TSSOP28-GROUNDPAD)
-- Short Link: [http://oom.lt/FZSRTTSS28GROUNDPAD](http://oom.lt/FZSRTTSS28GROUNDPAD)
+- Short Link: [http://oom.lt/FZSRTTSS28GROUNDP](http://oom.lt/FZSRTTSS28GROUNDP)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|SparkFun-Retired|
 |OOMP Index|oompIndex|TSSOP28-GROUNDPAD|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-TSSOP28-GROUNDPAD|
-|Hex ID (short code)|hexID|FZSRTTSS28GROUNDPAD|
+|Hex ID (short code)|hexID|FZSRTTSS28GROUNDP|
 |name|name|SparkFun-Retired : TSSOP28-GROUNDPAD|
 ||||

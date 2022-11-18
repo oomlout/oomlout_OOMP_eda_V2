@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-AP62150Z6
 - Hex ID: SZKREGULATORSWINGAP6215Z6
 - Name: Regulator_Switching : AP62150Z6
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/AP62150Z6/
 - Description: Regulator_Switching : AP62150Z6
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-AP62150Z6](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-AP62150Z6)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGAP6215Z6](http://oom.lt/SZKREGULATORSWINGAP6215Z6)

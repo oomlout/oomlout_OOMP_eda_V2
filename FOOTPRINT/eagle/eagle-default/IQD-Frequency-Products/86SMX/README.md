@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-IQD-Frequency-Products-86SMX
 - Hex ID: FZEIQDFREQUENCYPRODUCTS86SMX
 - Name: IQD-Frequency-Products : 86SMX
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/IQD-Frequency-Products/86SMX/
 - Description: IQD-Frequency-Products : 86SMX
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-IQD-Frequency-Products-86SMX](http://oom.lt/FOOTPRINT-eagle-eagle-default-IQD-Frequency-Products-86SMX)
 - Short Link: [http://oom.lt/FZEIQDFREQUENCYPRODUCTS86SMX](http://oom.lt/FZEIQDFREQUENCYPRODUCTS86SMX)

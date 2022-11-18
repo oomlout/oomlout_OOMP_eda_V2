@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-6000
 - Hex ID: FZA6
 - Name: adafruit : 6000
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/6000/
 - Description: adafruit : 6000
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-6000](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-6000)
 - Short Link: [http://oom.lt/FZA6](http://oom.lt/FZA6)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_Wuerth-Wuerth_WR-WTB_64800611622_1x06_P1.50mm_Vertical
 - Hex ID: FZKCNWUERTHWUERTHWRWTB6486116221X6P15F
 - Name: Connector_Wuerth : Wuerth_WR-WTB_64800611622_1x06_P1.50mm_Vertical
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Wuerth/Wuerth_WR-WTB_64800611622_1x06_P1.50mm_Vertical/
 - Description: Connector_Wuerth : Wuerth_WR-WTB_64800611622_1x06_P1.50mm_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Wuerth-Wuerth_WR-WTB_64800611622_1x06_P1.50mm_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Wuerth-Wuerth_WR-WTB_64800611622_1x06_P1.50mm_Vertical)
 - Short Link: [http://oom.lt/FZKCNWUERTHWUERTHWRWTB6486116221X6P15F](http://oom.lt/FZKCNWUERTHWUERTHWRWTB6486116221X6P15F)

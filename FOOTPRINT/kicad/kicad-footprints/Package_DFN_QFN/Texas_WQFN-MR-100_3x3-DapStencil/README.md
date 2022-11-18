@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Texas_WQFN-MR-100_3x3-DapStencil
 - Hex ID: FZKDFNTEXASWQFNMR13X3DAPSTENCIL
 - Name: Package_DFN_QFN : Texas_WQFN-MR-100_3x3-DapStencil
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/Texas_WQFN-MR-100_3x3-DapStencil/
 - Description: Package_DFN_QFN : Texas_WQFN-MR-100_3x3-DapStencil
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Texas_WQFN-MR-100_3x3-DapStencil](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Texas_WQFN-MR-100_3x3-DapStencil)
 - Short Link: [http://oom.lt/FZKDFNTEXASWQFNMR13X3DAPSTENCIL](http://oom.lt/FZKDFNTEXASWQFNMR13X3DAPSTENCIL)

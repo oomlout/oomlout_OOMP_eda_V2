@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Battery_Management-BQ78350DBT
 - Hex ID: SZKBATMANAGEMENTBQ7835DBT
 - Name: Battery_Management : BQ78350DBT
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Battery_Management/BQ78350DBT/
 - Description: Battery_Management : BQ78350DBT
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Battery_Management-BQ78350DBT](http://oom.lt/SYMBOL-kicad-kicad-symbols-Battery_Management-BQ78350DBT)
 - Short Link: [http://oom.lt/SZKBATMANAGEMENTBQ7835DBT](http://oom.lt/SZKBATMANAGEMENTBQ7835DBT)

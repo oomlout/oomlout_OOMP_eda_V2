@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-TFLGA-16_3x3.25mm
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSTFLGA163X325
 - Name: digikey-footprints : TFLGA-16_3x3.25mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/TFLGA-16_3x3.25mm/
 - Description: digikey-footprints : TFLGA-16_3x3.25mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-TFLGA-16_3x3.25mm](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-TFLGA-16_3x3.25mm)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSTFLGA163X325](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSTFLGA163X325)

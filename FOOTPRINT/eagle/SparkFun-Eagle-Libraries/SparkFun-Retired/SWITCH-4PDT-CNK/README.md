@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-SWITCH-4PDT-CNK
 - Hex ID: FZSRTSW4PDTCNK
 - Name: SparkFun-Retired : SWITCH-4PDT-CNK
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Retired/SWITCH-4PDT-CNK/
 - Description: SparkFun-Retired : SWITCH-4PDT-CNK
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-SWITCH-4PDT-CNK](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-SWITCH-4PDT-CNK)
 - Short Link: [http://oom.lt/FZSRTSW4PDTCNK](http://oom.lt/FZSRTSW4PDTCNK)

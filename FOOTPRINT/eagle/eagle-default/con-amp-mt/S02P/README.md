@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-amp-mt-S02P
 - Hex ID: FZECONAMPMTS2P
 - Name: con-amp-mt : S02P
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-amp-mt/S02P/
 - Description: con-amp-mt : S02P
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-amp-mt-S02P](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-amp-mt-S02P)
 - Short Link: [http://oom.lt/FZECONAMPMTS2P](http://oom.lt/FZECONAMPMTS2P)

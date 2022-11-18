@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-linear-K02B
 - Hex ID: FZELINEARK2B
 - Name: linear : K02B
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/linear/K02B/
 - Description: linear : K02B
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-linear-K02B](http://oom.lt/FOOTPRINT-eagle-eagle-default-linear-K02B)
 - Short Link: [http://oom.lt/FZELINEARK2B](http://oom.lt/FZELINEARK2B)

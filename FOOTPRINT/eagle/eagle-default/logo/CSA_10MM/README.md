@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-logo-CSA_10MM
 - Hex ID: FZELCSA1
 - Name: logo : CSA_10MM
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/logo/CSA_10MM/
 - Description: logo : CSA_10MM
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-logo-CSA_10MM](http://oom.lt/FOOTPRINT-eagle-eagle-default-logo-CSA_10MM)
 - Short Link: [http://oom.lt/FZELCSA1](http://oom.lt/FZELCSA1)

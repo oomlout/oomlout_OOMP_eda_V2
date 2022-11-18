@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-cypress-QFN32-SAWN
 - Hex ID: FZECYPRESSQFN32SAWN
 - Name: cypress : QFN32-SAWN
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/cypress/QFN32-SAWN/
 - Description: cypress : QFN32-SAWN
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-cypress-QFN32-SAWN](http://oom.lt/FOOTPRINT-eagle-eagle-default-cypress-QFN32-SAWN)
 - Short Link: [http://oom.lt/FZECYPRESSQFN32SAWN](http://oom.lt/FZECYPRESSQFN32SAWN)

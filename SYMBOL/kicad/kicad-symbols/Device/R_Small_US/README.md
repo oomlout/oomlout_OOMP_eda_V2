@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Device-R_Small_US
 - Hex ID: SZKDEVICERSLLUS
 - Name: Device : R_Small_US
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/R_Small_US/
 - Description: Device : R_Small_US
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-R_Small_US](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-R_Small_US)
 - Short Link: [http://oom.lt/SZKDEVICERSLLUS](http://oom.lt/SZKDEVICERSLLUS)

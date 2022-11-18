@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Relay_THT-Relay_SPST_Schrack-RT1-16A-FormA_RM5mm
 - Hex ID: FZKRELRELAYSPSTSCHRACKRT116AFORMARM5
 - Name: Relay_THT : Relay_SPST_Schrack-RT1-16A-FormA_RM5mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Relay_THT/Relay_SPST_Schrack-RT1-16A-FormA_RM5mm/
 - Description: Relay_THT : Relay_SPST_Schrack-RT1-16A-FormA_RM5mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Relay_THT-Relay_SPST_Schrack-RT1-16A-FormA_RM5mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Relay_THT-Relay_SPST_Schrack-RT1-16A-FormA_RM5mm)
 - Short Link: [http://oom.lt/FZKRELRELAYSPSTSCHRACKRT116AFORMARM5](http://oom.lt/FZKRELRELAYSPSTSCHRACKRT116AFORMARM5)

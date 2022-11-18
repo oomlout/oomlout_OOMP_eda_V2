@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-lem-LA25P
 - Hex ID: FZELEMLA25P
 - Name: lem : LA25P
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/lem/LA25P/
 - Description: lem : LA25P
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-lem-LA25P](http://oom.lt/FOOTPRINT-eagle-eagle-default-lem-LA25P)
 - Short Link: [http://oom.lt/FZELEMLA25P](http://oom.lt/FZELEMLA25P)

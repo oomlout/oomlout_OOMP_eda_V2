@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-con-samtec-SSW-135-02-G-D-RA
 - Hex ID: FZECONSAMTECSSW1352GDRA
 - Name: con-samtec : SSW-135-02-G-D-RA
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-samtec/SSW-135-02-G-D-RA/
 - Description: con-samtec : SSW-135-02-G-D-RA
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-samtec-SSW-135-02-G-D-RA](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-samtec-SSW-135-02-G-D-RA)
 - Short Link: [http://oom.lt/FZECONSAMTECSSW1352GDRA](http://oom.lt/FZECONSAMTECSSW1352GDRA)

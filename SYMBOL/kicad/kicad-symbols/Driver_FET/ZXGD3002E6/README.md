@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Driver_FET-ZXGD3002E6
 - Hex ID: SZKDRIVERFETZXGD32E6
 - Name: Driver_FET : ZXGD3002E6
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Driver_FET/ZXGD3002E6/
 - Description: Driver_FET : ZXGD3002E6
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-ZXGD3002E6](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-ZXGD3002E6)
 - Short Link: [http://oom.lt/SZKDRIVERFETZXGD32E6](http://oom.lt/SZKDRIVERFETZXGD32E6)

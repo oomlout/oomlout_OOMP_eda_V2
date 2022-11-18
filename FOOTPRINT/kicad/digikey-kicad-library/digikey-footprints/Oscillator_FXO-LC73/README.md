@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Oscillator_FXO-LC73
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSOCSFXOLC73
 - Name: digikey-footprints : Oscillator_FXO-LC73
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Oscillator_FXO-LC73/
 - Description: digikey-footprints : Oscillator_FXO-LC73
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Oscillator_FXO-LC73](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Oscillator_FXO-LC73)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSOCSFXOLC73](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSOCSFXOLC73)

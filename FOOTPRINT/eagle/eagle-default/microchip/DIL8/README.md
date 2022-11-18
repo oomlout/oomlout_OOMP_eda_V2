@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-microchip-DIL8
 - Hex ID: FZEMCHIPDIL8
 - Name: microchip : DIL8
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/microchip/DIL8/
 - Description: microchip : DIL8
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-microchip-DIL8](http://oom.lt/FOOTPRINT-eagle-eagle-default-microchip-DIL8)
 - Short Link: [http://oom.lt/FZEMCHIPDIL8](http://oom.lt/FZEMCHIPDIL8)

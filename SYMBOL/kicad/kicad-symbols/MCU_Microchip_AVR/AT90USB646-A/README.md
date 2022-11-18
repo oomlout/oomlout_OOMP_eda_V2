@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_AVR-AT90USB646-A
 - Hex ID: SZKMCUMCHIPAVRAT9U646A
 - Name: MCU_Microchip_AVR : AT90USB646-A
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_AVR/AT90USB646-A/
 - Description: MCU_Microchip_AVR : AT90USB646-A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_AVR-AT90USB646-A](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_AVR-AT90USB646-A)
 - Short Link: [http://oom.lt/SZKMCUMCHIPAVRAT9U646A](http://oom.lt/SZKMCUMCHIPAVRAT9U646A)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_1825_4564Metric
 - Hex ID: FZKCC18254564VA
 - Name: Capacitor_SMD : C_1825_4564Metric
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Capacitor_SMD/C_1825_4564Metric/
 - Description: Capacitor_SMD : C_1825_4564Metric
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_1825_4564Metric](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_1825_4564Metric)
 - Short Link: [http://oom.lt/FZKCC18254564VA](http://oom.lt/FZKCC18254564VA)

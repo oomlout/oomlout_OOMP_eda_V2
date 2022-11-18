@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Button_Switch_THT-SW_Push_1P2T_Vertical_E-Switch_800UDP8P1A1M6
 - Hex ID: FZKBSWPUSH1P2TFESW8UDP8P1A1M6
 - Name: Button_Switch_THT : SW_Push_1P2T_Vertical_E-Switch_800UDP8P1A1M6
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/SW_Push_1P2T_Vertical_E-Switch_800UDP8P1A1M6/
 - Description: Button_Switch_THT : SW_Push_1P2T_Vertical_E-Switch_800UDP8P1A1M6
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Button_Switch_THT-SW_Push_1P2T_Vertical_E-Switch_800UDP8P1A1M6](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Button_Switch_THT-SW_Push_1P2T_Vertical_E-Switch_800UDP8P1A1M6)
 - Short Link: [http://oom.lt/FZKBSWPUSH1P2TFESW8UDP8P1A1M6](http://oom.lt/FZKBSWPUSH1P2TFESW8UDP8P1A1M6)

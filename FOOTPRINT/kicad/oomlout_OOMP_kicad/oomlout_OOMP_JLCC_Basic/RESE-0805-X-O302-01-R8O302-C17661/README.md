@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-RESE-0805-X-O302-01-R8O302-C17661
 - Hex ID: FZOOMPKJLCRESE85XO321R8O32C17661
 - Name: oomlout_OOMP_JLCC_Basic : RESE-0805-X-O302-01-R8O302-C17661
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_JLCC_Basic/RESE-0805-X-O302-01-R8O302-C17661/
 - Description: oomlout_OOMP_JLCC_Basic : RESE-0805-X-O302-01-R8O302-C17661
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-RESE-0805-X-O302-01-R8O302-C17661](http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-RESE-0805-X-O302-01-R8O302-C17661)
 - Short Link: [http://oom.lt/FZOOMPKJLCRESE85XO321R8O32C17661](http://oom.lt/FZOOMPKJLCRESE85XO321R8O32C17661)

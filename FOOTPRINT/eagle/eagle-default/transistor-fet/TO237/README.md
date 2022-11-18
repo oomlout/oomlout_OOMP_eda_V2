@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-transistor-fet-TO237
 - Hex ID: FZETRANSISTORFETTO237
 - Name: transistor-fet : TO237
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/transistor-fet/TO237/
 - Description: transistor-fet : TO237
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-fet-TO237](http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-fet-TO237)
 - Short Link: [http://oom.lt/FZETRANSISTORFETTO237](http://oom.lt/FZETRANSISTORFETTO237)

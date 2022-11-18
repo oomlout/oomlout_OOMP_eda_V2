@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-linear-technology-S8
 - Hex ID: FZELINEARTECHNOLOGYS8
 - Name: linear-technology : S8
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/linear-technology/S8/
 - Description: linear-technology : S8
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-linear-technology-S8](http://oom.lt/FOOTPRINT-eagle-eagle-default-linear-technology-S8)
 - Short Link: [http://oom.lt/FZELINEARTECHNOLOGYS8](http://oom.lt/FZELINEARTECHNOLOGYS8)

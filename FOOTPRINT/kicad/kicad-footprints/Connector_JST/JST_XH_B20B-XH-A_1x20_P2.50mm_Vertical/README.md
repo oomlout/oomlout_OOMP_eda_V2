@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_XH_B20B-XH-A_1x20_P2.50mm_Vertical
 - Hex ID: FZKCNJSTJSTXHB2BXHA1X2P25F
 - Name: Connector_JST : JST_XH_B20B-XH-A_1x20_P2.50mm_Vertical
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_XH_B20B-XH-A_1x20_P2.50mm_Vertical/
 - Description: Connector_JST : JST_XH_B20B-XH-A_1x20_P2.50mm_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_XH_B20B-XH-A_1x20_P2.50mm_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_XH_B20B-XH-A_1x20_P2.50mm_Vertical)
 - Short Link: [http://oom.lt/FZKCNJSTJSTXHB2BXHA1X2P25F](http://oom.lt/FZKCNJSTJSTXHB2BXHA1X2P25F)

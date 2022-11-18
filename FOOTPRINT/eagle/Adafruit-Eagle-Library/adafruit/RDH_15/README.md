@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-RDH_15
 - Hex ID: FZARDH15
 - Name: adafruit : RDH_15
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/RDH_15/
 - Description: adafruit : RDH_15
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-RDH_15](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-RDH_15)
 - Short Link: [http://oom.lt/FZARDH15](http://oom.lt/FZARDH15)

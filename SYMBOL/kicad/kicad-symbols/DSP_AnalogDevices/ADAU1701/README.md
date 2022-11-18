@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-DSP_AnalogDevices-ADAU1701
 - Hex ID: SZKDSPANALOGDEVICESADAU171
 - Name: DSP_AnalogDevices : ADAU1701
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/DSP_AnalogDevices/ADAU1701/
 - Description: DSP_AnalogDevices : ADAU1701
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-DSP_AnalogDevices-ADAU1701](http://oom.lt/SYMBOL-kicad-kicad-symbols-DSP_AnalogDevices-ADAU1701)
 - Short Link: [http://oom.lt/SZKDSPANALOGDEVICESADAU171](http://oom.lt/SZKDSPANALOGDEVICESADAU171)

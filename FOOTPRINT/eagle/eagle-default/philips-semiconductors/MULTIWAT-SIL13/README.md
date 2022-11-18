@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-philips-semiconductors-MULTIWAT-SIL13
 - Hex ID: FZEPHILIPSSEMICONDUCTORSMULTIWATSIL13
 - Name: philips-semiconductors : MULTIWAT-SIL13
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/philips-semiconductors/MULTIWAT-SIL13/
 - Description: philips-semiconductors : MULTIWAT-SIL13
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-philips-semiconductors-MULTIWAT-SIL13](http://oom.lt/FOOTPRINT-eagle-eagle-default-philips-semiconductors-MULTIWAT-SIL13)
 - Short Link: [http://oom.lt/FZEPHILIPSSEMICONDUCTORSMULTIWATSIL13](http://oom.lt/FZEPHILIPSSEMICONDUCTORSMULTIWATSIL13)

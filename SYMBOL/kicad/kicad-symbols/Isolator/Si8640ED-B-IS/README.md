@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Isolator-Si8640ED-B-IS
 - Hex ID: SZKISOLATORSI864EDBIS
 - Name: Isolator : Si8640ED-B-IS
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Isolator/Si8640ED-B-IS/
 - Description: Isolator : Si8640ED-B-IS
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-Si8640ED-B-IS](http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-Si8640ED-B-IS)
 - Short Link: [http://oom.lt/SZKISOLATORSI864EDBIS](http://oom.lt/SZKISOLATORSI864EDBIS)

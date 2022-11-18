@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_HC33-U_Horizontal
 - Hex ID: FZKXXHC33UH
 - Name: Crystal : Crystal_HC33-U_Horizontal
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_HC33-U_Horizontal/
 - Description: Crystal : Crystal_HC33-U_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_HC33-U_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_HC33-U_Horizontal)
 - Short Link: [http://oom.lt/FZKXXHC33UH](http://oom.lt/FZKXXHC33UH)

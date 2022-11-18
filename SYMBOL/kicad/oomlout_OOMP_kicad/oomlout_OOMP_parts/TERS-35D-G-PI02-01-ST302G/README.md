@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-TERS-35D-G-PI02-01-ST302G
 - Hex ID: SZOOMPKOOMPPTERS35DGPI21ST32G
 - Name: oomlout_OOMP_parts : TERS-35D-G-PI02-01-ST302G
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/TERS-35D-G-PI02-01-ST302G/
 - Description: oomlout_OOMP_parts : TERS-35D-G-PI02-01-ST302G
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-TERS-35D-G-PI02-01-ST302G](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-TERS-35D-G-PI02-01-ST302G)
 - Short Link: [http://oom.lt/SZOOMPKOOMPPTERS35DGPI21ST32G](http://oom.lt/SZOOMPKOOMPPTERS35DGPI21ST32G)

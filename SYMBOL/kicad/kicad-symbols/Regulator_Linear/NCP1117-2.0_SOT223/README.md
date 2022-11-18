@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-NCP1117-2.0_SOT223
 - Hex ID: SZKREGULATORLINEARNCP11172SOT223
 - Name: Regulator_Linear : NCP1117-2.0_SOT223
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/NCP1117-2.0_SOT223/
 - Description: Regulator_Linear : NCP1117-2.0_SOT223
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-NCP1117-2.0_SOT223](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-NCP1117-2.0_SOT223)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARNCP11172SOT223](http://oom.lt/SZKREGULATORLINEARNCP11172SOT223)

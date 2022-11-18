@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface-DS90C402
 - Hex ID: SZKINTERFACEDS9C42
 - Name: Interface : DS90C402
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface/DS90C402/
 - Description: Interface : DS90C402
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-DS90C402](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-DS90C402)
 - Short Link: [http://oom.lt/SZKINTERFACEDS9C42](http://oom.lt/SZKINTERFACEDS9C42)

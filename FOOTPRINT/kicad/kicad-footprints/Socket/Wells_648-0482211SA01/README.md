@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Socket-Wells_648-0482211SA01
 - Hex ID: FZKSOWELLS648482211SA1
 - Name: Socket : Wells_648-0482211SA01
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Socket/Wells_648-0482211SA01/
 - Description: Socket : Wells_648-0482211SA01
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Socket-Wells_648-0482211SA01](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Socket-Wells_648-0482211SA01)
 - Short Link: [http://oom.lt/FZKSOWELLS648482211SA1](http://oom.lt/FZKSOWELLS648482211SA1)

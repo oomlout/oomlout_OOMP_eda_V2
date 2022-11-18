@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-con-rib-SH7-12
 - Hex ID: FZECONRIBSH712
 - Name: con-rib : SH7-12
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-rib/SH7-12/
 - Description: con-rib : SH7-12
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-rib-SH7-12](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-rib-SH7-12)
 - Short Link: [http://oom.lt/FZECONRIBSH712](http://oom.lt/FZECONRIBSH712)

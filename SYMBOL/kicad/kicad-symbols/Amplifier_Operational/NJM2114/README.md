@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-NJM2114
 - Hex ID: SZKAMPLIFIEROPERATIONALNJM2114
 - Name: Amplifier_Operational : NJM2114
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/NJM2114/
 - Description: Amplifier_Operational : NJM2114
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-NJM2114](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-NJM2114)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALNJM2114](http://oom.lt/SZKAMPLIFIEROPERATIONALNJM2114)

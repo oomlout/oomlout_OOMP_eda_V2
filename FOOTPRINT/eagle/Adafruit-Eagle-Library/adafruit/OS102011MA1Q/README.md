@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-OS102011MA1Q
 - Hex ID: FZAOS1211MA1Q
 - Name: adafruit : OS102011MA1Q
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/OS102011MA1Q/
 - Description: adafruit : OS102011MA1Q
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-OS102011MA1Q](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-OS102011MA1Q)
 - Short Link: [http://oom.lt/FZAOS1211MA1Q](http://oom.lt/FZAOS1211MA1Q)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-relay-FINDER-43.61
 - Hex ID: FZERELAYFINDER4361
 - Name: relay : FINDER-43.61
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/relay/FINDER-43.61/
 - Description: relay : FINDER-43.61
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-FINDER-43.61](http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-FINDER-43.61)
 - Short Link: [http://oom.lt/FZERELAYFINDER4361](http://oom.lt/FZERELAYFINDER4361)

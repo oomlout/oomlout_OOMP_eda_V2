@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-smd-special-SMR-5010
 - Hex ID: FZESMSPECIALSMR51
 - Name: smd-special : SMR-5010
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/smd-special/SMR-5010/
 - Description: smd-special : SMR-5010
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-special-SMR-5010](http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-special-SMR-5010)
 - Short Link: [http://oom.lt/FZESMSPECIALSMR51](http://oom.lt/FZESMSPECIALSMR51)

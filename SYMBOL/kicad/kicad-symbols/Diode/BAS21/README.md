@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-BAS21
 - Hex ID: SZKDIODEBAS21
 - Name: Diode : BAS21
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/BAS21/
 - Description: Diode : BAS21
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-BAS21](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-BAS21)
 - Short Link: [http://oom.lt/SZKDIODEBAS21](http://oom.lt/SZKDIODEBAS21)

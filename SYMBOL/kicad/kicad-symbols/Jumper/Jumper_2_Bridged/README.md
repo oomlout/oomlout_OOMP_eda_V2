@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Jumper-Jumper_2_Bridged
 - Hex ID: SZKJJ2BRIDGED
 - Name: Jumper : Jumper_2_Bridged
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Jumper/Jumper_2_Bridged/
 - Description: Jumper : Jumper_2_Bridged
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Jumper-Jumper_2_Bridged](http://oom.lt/SYMBOL-kicad-kicad-symbols-Jumper-Jumper_2_Bridged)
 - Short Link: [http://oom.lt/SZKJJ2BRIDGED](http://oom.lt/SZKJJ2BRIDGED)

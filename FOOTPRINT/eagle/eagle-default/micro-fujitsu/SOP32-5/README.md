@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-micro-fujitsu-SOP32-5
 - Hex ID: FZEMFUJITSUS325
 - Name: micro-fujitsu : SOP32-5
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/micro-fujitsu/SOP32-5/
 - Description: micro-fujitsu : SOP32-5
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-fujitsu-SOP32-5](http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-fujitsu-SOP32-5)
 - Short Link: [http://oom.lt/FZEMFUJITSUS325](http://oom.lt/FZEMFUJITSUS325)

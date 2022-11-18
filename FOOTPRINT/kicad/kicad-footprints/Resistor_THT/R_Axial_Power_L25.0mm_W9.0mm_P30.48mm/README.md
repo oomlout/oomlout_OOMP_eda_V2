@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Resistor_THT-R_Axial_Power_L25.0mm_W9.0mm_P30.48mm
 - Hex ID: FZKRRAXIALPOWERL25W9P348
 - Name: Resistor_THT : R_Axial_Power_L25.0mm_W9.0mm_P30.48mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Resistor_THT/R_Axial_Power_L25.0mm_W9.0mm_P30.48mm/
 - Description: Resistor_THT : R_Axial_Power_L25.0mm_W9.0mm_P30.48mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Resistor_THT-R_Axial_Power_L25.0mm_W9.0mm_P30.48mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Resistor_THT-R_Axial_Power_L25.0mm_W9.0mm_P30.48mm)
 - Short Link: [http://oom.lt/FZKRRAXIALPOWERL25W9P348](http://oom.lt/FZKRRAXIALPOWERL25W9P348)

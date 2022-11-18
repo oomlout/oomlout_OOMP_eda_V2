@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-smd-special-PLCC-32-SMT-TT
 - Hex ID: FZESMSPECIALPLCC32STT
 - Name: smd-special : PLCC-32-SMT-TT
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/smd-special/PLCC-32-SMT-TT/
 - Description: smd-special : PLCC-32-SMT-TT
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-special-PLCC-32-SMT-TT](http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-special-PLCC-32-SMT-TT)
 - Short Link: [http://oom.lt/FZESMSPECIALPLCC32STT](http://oom.lt/FZESMSPECIALPLCC32STT)

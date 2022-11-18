@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Fuse-Fuse_Littelfuse-NANO2-451_453
 - Hex ID: FZKFUFULITTELFUNANO2451453
 - Name: Fuse : Fuse_Littelfuse-NANO2-451_453
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Fuse/Fuse_Littelfuse-NANO2-451_453/
 - Description: Fuse : Fuse_Littelfuse-NANO2-451_453
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Fuse-Fuse_Littelfuse-NANO2-451_453](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Fuse-Fuse_Littelfuse-NANO2-451_453)
 - Short Link: [http://oom.lt/FZKFUFULITTELFUNANO2451453](http://oom.lt/FZKFUFULITTELFUNANO2451453)

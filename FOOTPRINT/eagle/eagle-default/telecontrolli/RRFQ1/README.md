@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-telecontrolli-RRFQ1
 - Hex ID: FZETELECONTROLLIRRFQ1
 - Name: telecontrolli : RRFQ1
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/telecontrolli/RRFQ1/
 - Description: telecontrolli : RRFQ1
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-telecontrolli-RRFQ1](http://oom.lt/FOOTPRINT-eagle-eagle-default-telecontrolli-RRFQ1)
 - Short Link: [http://oom.lt/FZETELECONTROLLIRRFQ1](http://oom.lt/FZETELECONTROLLIRRFQ1)

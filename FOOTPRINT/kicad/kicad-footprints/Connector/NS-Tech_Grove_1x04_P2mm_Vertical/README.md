@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector-NS-Tech_Grove_1x04_P2mm_Vertical
 - Hex ID: FZKCNNSTECHGROVE1X4P2F
 - Name: Connector : NS-Tech_Grove_1x04_P2mm_Vertical
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector/NS-Tech_Grove_1x04_P2mm_Vertical/
 - Description: Connector : NS-Tech_Grove_1x04_P2mm_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector-NS-Tech_Grove_1x04_P2mm_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector-NS-Tech_Grove_1x04_P2mm_Vertical)
 - Short Link: [http://oom.lt/FZKCNNSTECHGROVE1X4P2F](http://oom.lt/FZKCNNSTECHGROVE1X4P2F)

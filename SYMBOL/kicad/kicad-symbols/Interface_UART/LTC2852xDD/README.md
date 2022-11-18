@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_UART-LTC2852xDD
 - Hex ID: SZKINTERFACEUARTLTC2852XDD
 - Name: Interface_UART : LTC2852xDD
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_UART/LTC2852xDD/
 - Description: Interface_UART : LTC2852xDD
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_UART-LTC2852xDD](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_UART-LTC2852xDD)
 - Short Link: [http://oom.lt/SZKINTERFACEUARTLTC2852XDD](http://oom.lt/SZKINTERFACEUARTLTC2852XDD)

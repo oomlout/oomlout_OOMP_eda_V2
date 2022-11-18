@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Power_Management-LTC4412xS6
 - Hex ID: SZKPOWERMANAGEMENTLTC4412XS6
 - Name: Power_Management : LTC4412xS6
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Power_Management/LTC4412xS6/
 - Description: Power_Management : LTC4412xS6
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-LTC4412xS6](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-LTC4412xS6)
 - Short Link: [http://oom.lt/SZKPOWERMANAGEMENTLTC4412XS6](http://oom.lt/SZKPOWERMANAGEMENTLTC4412XS6)

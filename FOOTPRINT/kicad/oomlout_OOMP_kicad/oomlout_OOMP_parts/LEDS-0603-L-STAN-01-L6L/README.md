@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-LEDS-0603-L-STAN-01-L6L
 - Hex ID: FZOOMPKOOMPPLS63LSTAN1L6L
 - Name: oomlout_OOMP_parts : LEDS-0603-L-STAN-01-L6L
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/LEDS-0603-L-STAN-01-L6L/
 - Description: oomlout_OOMP_parts : LEDS-0603-L-STAN-01-L6L
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-LEDS-0603-L-STAN-01-L6L](http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-LEDS-0603-L-STAN-01-L6L)
 - Short Link: [http://oom.lt/FZOOMPKOOMPPLS63LSTAN1L6L](http://oom.lt/FZOOMPKOOMPPLS63LSTAN1L6L)

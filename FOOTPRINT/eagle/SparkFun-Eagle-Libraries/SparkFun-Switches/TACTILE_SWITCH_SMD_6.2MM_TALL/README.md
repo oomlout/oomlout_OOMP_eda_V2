@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Switches-TACTILE_SWITCH_SMD_6.2MM_TALL
 - Hex ID: FZSWTSWSM62TALL
 - Name: SparkFun-Switches : TACTILE_SWITCH_SMD_6.2MM_TALL
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Switches/TACTILE_SWITCH_SMD_6.2MM_TALL/
 - Description: SparkFun-Switches : TACTILE_SWITCH_SMD_6.2MM_TALL
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Switches-TACTILE_SWITCH_SMD_6.2MM_TALL](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Switches-TACTILE_SWITCH_SMD_6.2MM_TALL)
 - Short Link: [http://oom.lt/FZSWTSWSM62TALL](http://oom.lt/FZSWTSWSM62TALL)

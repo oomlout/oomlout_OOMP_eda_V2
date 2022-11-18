@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Controller-TPS2375-1
 - Hex ID: SZKREGULATORCONTROLLERTPS23751
 - Name: Regulator_Controller : TPS2375-1
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Controller/TPS2375-1/
 - Description: Regulator_Controller : TPS2375-1
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Controller-TPS2375-1](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Controller-TPS2375-1)
 - Short Link: [http://oom.lt/SZKREGULATORCONTROLLERTPS23751](http://oom.lt/SZKREGULATORCONTROLLERTPS23751)

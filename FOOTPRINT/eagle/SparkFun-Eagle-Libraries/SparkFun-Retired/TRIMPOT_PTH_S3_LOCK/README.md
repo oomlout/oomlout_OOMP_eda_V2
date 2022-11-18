@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-TRIMPOT_PTH_S3_LOCK
 - Hex ID: FZSRTTRIMPOTPS3L
 - Name: SparkFun-Retired : TRIMPOT_PTH_S3_LOCK
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Retired/TRIMPOT_PTH_S3_LOCK/
 - Description: SparkFun-Retired : TRIMPOT_PTH_S3_LOCK
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-TRIMPOT_PTH_S3_LOCK](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-TRIMPOT_PTH_S3_LOCK)
 - Short Link: [http://oom.lt/FZSRTTRIMPOTPS3L](http://oom.lt/FZSRTTRIMPOTPS3L)

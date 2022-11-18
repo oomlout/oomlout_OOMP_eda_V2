@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Batteries-BATTCON_12MM
 - Hex ID: FZSBBC12
 - Name: SparkFun-Batteries : BATTCON_12MM
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Batteries/BATTCON_12MM/
 - Description: SparkFun-Batteries : BATTCON_12MM
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Batteries-BATTCON_12MM](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Batteries-BATTCON_12MM)
 - Short Link: [http://oom.lt/FZSBBC12](http://oom.lt/FZSBBC12)

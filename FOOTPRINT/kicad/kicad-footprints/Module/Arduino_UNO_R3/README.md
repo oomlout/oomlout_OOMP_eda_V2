@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Module-Arduino_UNO_R3
 - Hex ID: FZKMOARDUNOR3
 - Name: Module : Arduino_UNO_R3
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Module/Arduino_UNO_R3/
 - Description: Module : Arduino_UNO_R3
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Module-Arduino_UNO_R3](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Module-Arduino_UNO_R3)
 - Short Link: [http://oom.lt/FZKMOARDUNOR3](http://oom.lt/FZKMOARDUNOR3)

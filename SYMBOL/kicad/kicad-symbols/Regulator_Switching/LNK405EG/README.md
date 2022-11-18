@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-LNK405EG
 - Hex ID: SZKREGULATORSWINGLNK45EG
 - Name: Regulator_Switching : LNK405EG
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/LNK405EG/
 - Description: Regulator_Switching : LNK405EG
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LNK405EG](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LNK405EG)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGLNK45EG](http://oom.lt/SZKREGULATORSWINGLNK45EG)

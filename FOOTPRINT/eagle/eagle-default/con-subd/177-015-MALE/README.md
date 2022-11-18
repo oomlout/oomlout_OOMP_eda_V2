@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-subd-177-015-MALE
 - Hex ID: FZECONSUBD17715MALE
 - Name: con-subd : 177-015-MALE
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-subd/177-015-MALE/
 - Description: con-subd : 177-015-MALE
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-subd-177-015-MALE](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-subd-177-015-MALE)
 - Short Link: [http://oom.lt/FZECONSUBD17715MALE](http://oom.lt/FZECONSUBD17715MALE)

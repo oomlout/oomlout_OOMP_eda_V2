@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-MM20SS
 - Hex ID: FZA2SS
 - Name: adafruit : MM20SS
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/MM20SS/
 - Description: adafruit : MM20SS
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-MM20SS](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-MM20SS)
 - Short Link: [http://oom.lt/FZA2SS](http://oom.lt/FZA2SS)

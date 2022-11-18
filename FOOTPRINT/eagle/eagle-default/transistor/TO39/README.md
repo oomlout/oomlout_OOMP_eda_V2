@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-transistor-TO39
 - Hex ID: FZETRANSISTORTO39
 - Name: transistor : TO39
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/transistor/TO39/
 - Description: transistor : TO39
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-TO39](http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-TO39)
 - Short Link: [http://oom.lt/FZETRANSISTORTO39](http://oom.lt/FZETRANSISTORTO39)

@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEPINHEAD1X139 > pinhead : 1X13_90](#fzepinhead1x139--pinhead--1x13_90)
+* [FZEPHEAD1X139 > pinhead : 1X13_90](#fzephead1x139--pinhead--1x13_90)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEPINHEAD1X139 > pinhead : 1X13_90
+# FZEPHEAD1X139 > pinhead : 1X13_90
 
 - ID: FOOTPRINT-eagle-eagle-default-pinhead-1X13_90
-- Hex ID: FZEPINHEAD1X139
+- Hex ID: FZEPHEAD1X139
 - Name: pinhead : 1X13_90
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/pinhead/1X13_90/
 - Description: pinhead : 1X13_90
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-pinhead-1X13_90](http://oom.lt/FOOTPRINT-eagle-eagle-default-pinhead-1X13_90)
-- Short Link: [http://oom.lt/FZEPINHEAD1X139](http://oom.lt/FZEPINHEAD1X139)
+- Short Link: [http://oom.lt/FZEPHEAD1X139](http://oom.lt/FZEPHEAD1X139)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|pinhead|
 |OOMP Index|oompIndex|1X13_90|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-pinhead-1X13_90|
-|Hex ID (short code)|hexID|FZEPINHEAD1X139|
+|Hex ID (short code)|hexID|FZEPHEAD1X139|
 |name|name|pinhead : 1X13_90|
 ||||

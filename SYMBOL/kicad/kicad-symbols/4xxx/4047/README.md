@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-4xxx-4047
 - Hex ID: SZK4XXX447
 - Name: 4xxx : 4047
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/4xxx/4047/
 - Description: 4xxx : 4047
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-4xxx-4047](http://oom.lt/SYMBOL-kicad-kicad-symbols-4xxx-4047)
 - Short Link: [http://oom.lt/SZK4XXX447](http://oom.lt/SZK4XXX447)

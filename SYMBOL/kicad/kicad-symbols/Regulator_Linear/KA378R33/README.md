@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-KA378R33
 - Hex ID: SZKREGULATORLINEARKA378R33
 - Name: Regulator_Linear : KA378R33
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/KA378R33/
 - Description: Regulator_Linear : KA378R33
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-KA378R33](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-KA378R33)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARKA378R33](http://oom.lt/SZKREGULATORLINEARKA378R33)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-vg-MACE48E
 - Hex ID: FZECONVGMACE48E
 - Name: con-vg : MACE48E
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-vg/MACE48E/
 - Description: con-vg : MACE48E
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-vg-MACE48E](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-vg-MACE48E)
 - Short Link: [http://oom.lt/FZECONVGMACE48E](http://oom.lt/FZECONVGMACE48E)

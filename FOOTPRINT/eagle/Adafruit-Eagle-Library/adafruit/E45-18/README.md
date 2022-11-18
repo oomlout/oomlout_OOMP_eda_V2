@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-E45-18
 - Hex ID: FZAE4518
 - Name: adafruit : E45-18
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/E45-18/
 - Description: adafruit : E45-18
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-E45-18](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-E45-18)
 - Short Link: [http://oom.lt/FZAE4518](http://oom.lt/FZAE4518)

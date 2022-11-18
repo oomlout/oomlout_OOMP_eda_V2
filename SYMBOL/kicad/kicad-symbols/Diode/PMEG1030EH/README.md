@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-PMEG1030EH
 - Hex ID: SZKDIODEPMEG13EH
 - Name: Diode : PMEG1030EH
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/PMEG1030EH/
 - Description: Diode : PMEG1030EH
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-PMEG1030EH](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-PMEG1030EH)
 - Short Link: [http://oom.lt/SZKDIODEPMEG13EH](http://oom.lt/SZKDIODEPMEG13EH)

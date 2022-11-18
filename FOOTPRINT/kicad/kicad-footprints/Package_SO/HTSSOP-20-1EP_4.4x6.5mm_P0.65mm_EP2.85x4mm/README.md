@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_SO-HTSSOP-20-1EP_4.4x6.5mm_P0.65mm_EP2.85x4mm
 - Hex ID: FZKSOHTSS21EP44X65P65EP285X4
 - Name: Package_SO : HTSSOP-20-1EP_4.4x6.5mm_P0.65mm_EP2.85x4mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SO/HTSSOP-20-1EP_4.4x6.5mm_P0.65mm_EP2.85x4mm/
 - Description: Package_SO : HTSSOP-20-1EP_4.4x6.5mm_P0.65mm_EP2.85x4mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SO-HTSSOP-20-1EP_4.4x6.5mm_P0.65mm_EP2.85x4mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SO-HTSSOP-20-1EP_4.4x6.5mm_P0.65mm_EP2.85x4mm)
 - Short Link: [http://oom.lt/FZKSOHTSS21EP44X65P65EP285X4](http://oom.lt/FZKSOHTSS21EP44X65P65EP285X4)

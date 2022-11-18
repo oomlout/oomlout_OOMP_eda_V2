@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Battery_Management-AP9101CK
 - Hex ID: SZKBATMANAGEMENTAP911CK
 - Name: Battery_Management : AP9101CK
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Battery_Management/AP9101CK/
 - Description: Battery_Management : AP9101CK
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Battery_Management-AP9101CK](http://oom.lt/SYMBOL-kicad-kicad-symbols-Battery_Management-AP9101CK)
 - Short Link: [http://oom.lt/SZKBATMANAGEMENTAP911CK](http://oom.lt/SZKBATMANAGEMENTAP911CK)

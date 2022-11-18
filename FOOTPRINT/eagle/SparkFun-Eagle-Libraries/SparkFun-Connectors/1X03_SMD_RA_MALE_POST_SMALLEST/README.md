@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-1X03_SMD_RA_MALE_POST_SMALLEST
 - Hex ID: FZSSPARKFUNCNS1X3SMRAMALEPOSTSLLEST
 - Name: SparkFun-Connectors : 1X03_SMD_RA_MALE_POST_SMALLEST
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Connectors/1X03_SMD_RA_MALE_POST_SMALLEST/
 - Description: SparkFun-Connectors : 1X03_SMD_RA_MALE_POST_SMALLEST
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-1X03_SMD_RA_MALE_POST_SMALLEST](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-1X03_SMD_RA_MALE_POST_SMALLEST)
 - Short Link: [http://oom.lt/FZSSPARKFUNCNS1X3SMRAMALEPOSTSLLEST](http://oom.lt/FZSSPARKFUNCNS1X3SMRAMALEPOSTSLLEST)

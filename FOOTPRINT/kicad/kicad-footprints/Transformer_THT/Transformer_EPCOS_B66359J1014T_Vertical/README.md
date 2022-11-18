@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Transformer_THT-Transformer_EPCOS_B66359J1014T_Vertical
 - Hex ID: FZKTRTREPCOSB66359J114TF
 - Name: Transformer_THT : Transformer_EPCOS_B66359J1014T_Vertical
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Transformer_THT/Transformer_EPCOS_B66359J1014T_Vertical/
 - Description: Transformer_THT : Transformer_EPCOS_B66359J1014T_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Transformer_THT-Transformer_EPCOS_B66359J1014T_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Transformer_THT-Transformer_EPCOS_B66359J1014T_Vertical)
 - Short Link: [http://oom.lt/FZKTRTREPCOSB66359J114TF](http://oom.lt/FZKTRTREPCOSB66359J114TF)

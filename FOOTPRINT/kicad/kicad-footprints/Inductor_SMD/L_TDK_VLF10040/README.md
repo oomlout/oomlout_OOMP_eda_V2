@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_TDK_VLF10040
 - Hex ID: FZKINLTDKVLF14
 - Name: Inductor_SMD : L_TDK_VLF10040
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_TDK_VLF10040/
 - Description: Inductor_SMD : L_TDK_VLF10040
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_TDK_VLF10040](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_TDK_VLF10040)
 - Short Link: [http://oom.lt/FZKINLTDKVLF14](http://oom.lt/FZKINLTDKVLF14)

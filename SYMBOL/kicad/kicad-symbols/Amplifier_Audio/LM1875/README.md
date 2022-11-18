@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Audio-LM1875
 - Hex ID: SZKAMPLIFIERAUDIOLM1875
 - Name: Amplifier_Audio : LM1875
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Audio/LM1875/
 - Description: Amplifier_Audio : LM1875
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Audio-LM1875](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Audio-LM1875)
 - Short Link: [http://oom.lt/SZKAMPLIFIERAUDIOLM1875](http://oom.lt/SZKAMPLIFIERAUDIOLM1875)

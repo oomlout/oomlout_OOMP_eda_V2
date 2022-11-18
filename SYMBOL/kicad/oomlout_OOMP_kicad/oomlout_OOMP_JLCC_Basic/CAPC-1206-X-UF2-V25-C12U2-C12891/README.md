@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-1206-X-UF2-V25-C12U2-C12891
 - Hex ID: SZOOMPKJLCCAPC126XUF2V25C12U2C12891
 - Name: oomlout_OOMP_JLCC_Basic : CAPC-1206-X-UF2-V25-C12U2-C12891
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_JLCC_Basic/CAPC-1206-X-UF2-V25-C12U2-C12891/
 - Description: oomlout_OOMP_JLCC_Basic : CAPC-1206-X-UF2-V25-C12U2-C12891
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-1206-X-UF2-V25-C12U2-C12891](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-1206-X-UF2-V25-C12U2-C12891)
 - Short Link: [http://oom.lt/SZOOMPKJLCCAPC126XUF2V25C12U2C12891](http://oom.lt/SZOOMPKJLCCAPC126XUF2V25C12U2C12891)

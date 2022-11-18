@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-1X02_RA_PTH_FEMALE
 - Hex ID: FZSSPARKFUNCNS1X2RAPF
 - Name: SparkFun-Connectors : 1X02_RA_PTH_FEMALE
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Connectors/1X02_RA_PTH_FEMALE/
 - Description: SparkFun-Connectors : 1X02_RA_PTH_FEMALE
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-1X02_RA_PTH_FEMALE](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-1X02_RA_PTH_FEMALE)
 - Short Link: [http://oom.lt/FZSSPARKFUNCNS1X2RAPF](http://oom.lt/FZSSPARKFUNCNS1X2RAPF)

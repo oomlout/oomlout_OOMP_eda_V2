@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Module-Adafruit_Feather_32u4_FONA_WithMountingHoles
 - Hex ID: FZKMOADAFEATHER32U4FONAWITHHOLS
 - Name: Module : Adafruit_Feather_32u4_FONA_WithMountingHoles
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Module/Adafruit_Feather_32u4_FONA_WithMountingHoles/
 - Description: Module : Adafruit_Feather_32u4_FONA_WithMountingHoles
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Module-Adafruit_Feather_32u4_FONA_WithMountingHoles](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Module-Adafruit_Feather_32u4_FONA_WithMountingHoles)
 - Short Link: [http://oom.lt/FZKMOADAFEATHER32U4FONAWITHHOLS](http://oom.lt/FZKMOADAFEATHER32U4FONAWITHHOLS)

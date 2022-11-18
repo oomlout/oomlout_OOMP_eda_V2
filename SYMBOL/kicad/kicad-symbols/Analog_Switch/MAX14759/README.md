@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Analog_Switch-MAX14759
 - Hex ID: SZKANALOGSWMAX14759
 - Name: Analog_Switch : MAX14759
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog_Switch/MAX14759/
 - Description: Analog_Switch : MAX14759
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_Switch-MAX14759](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_Switch-MAX14759)
 - Short Link: [http://oom.lt/SZKANALOGSWMAX14759](http://oom.lt/SZKANALOGSWMAX14759)

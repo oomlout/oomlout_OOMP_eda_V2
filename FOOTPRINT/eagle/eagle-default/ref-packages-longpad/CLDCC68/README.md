@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEREFPACKAGESLONGPADCLDCC68 > ref-packages-longpad : CLDCC68](#fzerefpackageslongpadcldcc68--ref-packages-longpad--cldcc68)
+* [FZEREFPSLPCLDCC68 > ref-packages-longpad : CLDCC68](#fzerefpslpcldcc68--ref-packages-longpad--cldcc68)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEREFPACKAGESLONGPADCLDCC68 > ref-packages-longpad : CLDCC68
+# FZEREFPSLPCLDCC68 > ref-packages-longpad : CLDCC68
 
 - ID: FOOTPRINT-eagle-eagle-default-ref-packages-longpad-CLDCC68
-- Hex ID: FZEREFPACKAGESLONGPADCLDCC68
+- Hex ID: FZEREFPSLPCLDCC68
 - Name: ref-packages-longpad : CLDCC68
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ref-packages-longpad/CLDCC68/
 - Description: ref-packages-longpad : CLDCC68
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-longpad-CLDCC68](http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-longpad-CLDCC68)
-- Short Link: [http://oom.lt/FZEREFPACKAGESLONGPADCLDCC68](http://oom.lt/FZEREFPACKAGESLONGPADCLDCC68)
+- Short Link: [http://oom.lt/FZEREFPSLPCLDCC68](http://oom.lt/FZEREFPSLPCLDCC68)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|ref-packages-longpad|
 |OOMP Index|oompIndex|CLDCC68|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-ref-packages-longpad-CLDCC68|
-|Hex ID (short code)|hexID|FZEREFPACKAGESLONGPADCLDCC68|
+|Hex ID (short code)|hexID|FZEREFPSLPCLDCC68|
 |name|name|ref-packages-longpad : CLDCC68|
 ||||

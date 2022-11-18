@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-User-Submitted-TO-92-AMMO
 - Hex ID: FZSUTO92AO
 - Name: User-Submitted : TO-92-AMMO
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/User-Submitted/TO-92-AMMO/
 - Description: User-Submitted : TO-92-AMMO
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-User-Submitted-TO-92-AMMO](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-User-Submitted-TO-92-AMMO)
 - Short Link: [http://oom.lt/FZSUTO92AO](http://oom.lt/FZSUTO92AO)

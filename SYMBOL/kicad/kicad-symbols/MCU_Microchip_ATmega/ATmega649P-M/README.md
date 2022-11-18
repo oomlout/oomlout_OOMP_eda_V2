@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega649P-M
 - Hex ID: SZKMCUMCHIPATMEGAATMEGA649PM
 - Name: MCU_Microchip_ATmega : ATmega649P-M
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_ATmega/ATmega649P-M/
 - Description: MCU_Microchip_ATmega : ATmega649P-M
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega649P-M](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega649P-M)
 - Short Link: [http://oom.lt/SZKMCUMCHIPATMEGAATMEGA649PM](http://oom.lt/SZKMCUMCHIPATMEGAATMEGA649PM)

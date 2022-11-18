@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Resistors-0402-TIGHT
 - Hex ID: FZSR42T
 - Name: SparkFun-Resistors : 0402-TIGHT
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Resistors/0402-TIGHT/
 - Description: SparkFun-Resistors : 0402-TIGHT
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Resistors-0402-TIGHT](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Resistors-0402-TIGHT)
 - Short Link: [http://oom.lt/FZSR42T](http://oom.lt/FZSR42T)

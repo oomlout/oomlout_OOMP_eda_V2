@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-led-Q62902-B153
 - Hex ID: FZELQ6292B153
 - Name: led : Q62902-B153
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/led/Q62902-B153/
 - Description: led : Q62902-B153
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-led-Q62902-B153](http://oom.lt/FOOTPRINT-eagle-eagle-default-led-Q62902-B153)
 - Short Link: [http://oom.lt/FZELQ6292B153](http://oom.lt/FZELQ6292B153)

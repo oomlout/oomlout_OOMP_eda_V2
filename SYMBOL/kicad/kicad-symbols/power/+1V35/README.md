@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-power-+1V35
 - Hex ID: SZKPOWER+1V35
 - Name: power : +1V35
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/power/+1V35/
 - Description: power : +1V35
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-power-+1V35](http://oom.lt/SYMBOL-kicad-kicad-symbols-power-+1V35)
 - Short Link: [http://oom.lt/SZKPOWER+1V35](http://oom.lt/SZKPOWER+1V35)

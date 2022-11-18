@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-MS5803
 - Hex ID: FZSSPARKFUNSENSMS583
 - Name: SparkFun-Sensors : MS5803
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Sensors/MS5803/
 - Description: SparkFun-Sensors : MS5803
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-MS5803](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-MS5803)
 - Short Link: [http://oom.lt/FZSSPARKFUNSENSMS583](http://oom.lt/FZSSPARKFUNSENSMS583)

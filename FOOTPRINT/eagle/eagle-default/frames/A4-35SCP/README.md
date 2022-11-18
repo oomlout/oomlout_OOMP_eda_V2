@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-frames-A4-35SCP
 - Hex ID: FZEFRAMESA435SCP
 - Name: frames : A4-35SCP
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/frames/A4-35SCP/
 - Description: frames : A4-35SCP
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-frames-A4-35SCP](http://oom.lt/FOOTPRINT-eagle-eagle-default-frames-A4-35SCP)
 - Short Link: [http://oom.lt/FZEFRAMESA435SCP](http://oom.lt/FZEFRAMESA435SCP)

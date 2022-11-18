@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Power_Protection-ZEN065V230A16LS
 - Hex ID: SZKPOWERPROTECTIONZEN65V23A16LS
 - Name: Power_Protection : ZEN065V230A16LS
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Power_Protection/ZEN065V230A16LS/
 - Description: Power_Protection : ZEN065V230A16LS
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Protection-ZEN065V230A16LS](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Protection-ZEN065V230A16LS)
 - Short Link: [http://oom.lt/SZKPOWERPROTECTIONZEN65V23A16LS](http://oom.lt/SZKPOWERPROTECTIONZEN65V23A16LS)

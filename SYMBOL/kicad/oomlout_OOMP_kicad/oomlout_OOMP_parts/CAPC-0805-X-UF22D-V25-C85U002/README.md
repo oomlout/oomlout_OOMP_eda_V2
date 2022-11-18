@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0805-X-UF22D-V25-C85U002
 - Hex ID: SZOOMPKOOMPPCAPC85XUF22DV25C85U2
 - Name: oomlout_OOMP_parts : CAPC-0805-X-UF22D-V25-C85U002
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/CAPC-0805-X-UF22D-V25-C85U002/
 - Description: oomlout_OOMP_parts : CAPC-0805-X-UF22D-V25-C85U002
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0805-X-UF22D-V25-C85U002](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0805-X-UF22D-V25-C85U002)
 - Short Link: [http://oom.lt/SZOOMPKOOMPPCAPC85XUF22DV25C85U2](http://oom.lt/SZOOMPKOOMPPCAPC85XUF22DV25C85U2)

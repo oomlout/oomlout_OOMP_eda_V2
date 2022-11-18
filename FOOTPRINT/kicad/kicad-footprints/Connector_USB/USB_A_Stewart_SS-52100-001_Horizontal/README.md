@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_A_Stewart_SS-52100-001_Horizontal
 - Hex ID: FZKCNUUASTEWARTSS5211H
 - Name: Connector_USB : USB_A_Stewart_SS-52100-001_Horizontal
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB_A_Stewart_SS-52100-001_Horizontal/
 - Description: Connector_USB : USB_A_Stewart_SS-52100-001_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_A_Stewart_SS-52100-001_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_A_Stewart_SS-52100-001_Horizontal)
 - Short Link: [http://oom.lt/FZKCNUUASTEWARTSS5211H](http://oom.lt/FZKCNUUASTEWARTSS5211H)

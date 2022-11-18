@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-LT8303
 - Hex ID: SZKREGULATORSWINGLT833
 - Name: Regulator_Switching : LT8303
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/LT8303/
 - Description: Regulator_Switching : LT8303
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LT8303](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LT8303)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGLT833](http://oom.lt/SZKREGULATORSWINGLT833)

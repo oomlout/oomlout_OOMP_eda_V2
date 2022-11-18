@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-led-LUXEON_REBEL
 - Hex ID: FZELLUXEONREBEL
 - Name: led : LUXEON_REBEL
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/led/LUXEON_REBEL/
 - Description: led : LUXEON_REBEL
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-led-LUXEON_REBEL](http://oom.lt/FOOTPRINT-eagle-eagle-default-led-LUXEON_REBEL)
 - Short Link: [http://oom.lt/FZELLUXEONREBEL](http://oom.lt/FZELLUXEONREBEL)

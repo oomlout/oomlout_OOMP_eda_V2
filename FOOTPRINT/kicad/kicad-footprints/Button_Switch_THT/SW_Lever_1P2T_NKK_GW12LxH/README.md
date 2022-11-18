@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Button_Switch_THT-SW_Lever_1P2T_NKK_GW12LxH
 - Hex ID: FZKBSWLEVER1P2TNKKGW12LXH
 - Name: Button_Switch_THT : SW_Lever_1P2T_NKK_GW12LxH
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/SW_Lever_1P2T_NKK_GW12LxH/
 - Description: Button_Switch_THT : SW_Lever_1P2T_NKK_GW12LxH
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Button_Switch_THT-SW_Lever_1P2T_NKK_GW12LxH](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Button_Switch_THT-SW_Lever_1P2T_NKK_GW12LxH)
 - Short Link: [http://oom.lt/FZKBSWLEVER1P2TNKKGW12LXH](http://oom.lt/FZKBSWLEVER1P2TNKKGW12LXH)

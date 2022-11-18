@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Comparator-LMV331
 - Hex ID: SZKCOMPARATORLMV331
 - Name: Comparator : LMV331
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Comparator/LMV331/
 - Description: Comparator : LMV331
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Comparator-LMV331](http://oom.lt/SYMBOL-kicad-kicad-symbols-Comparator-LMV331)
 - Short Link: [http://oom.lt/SZKCOMPARATORLMV331](http://oom.lt/SZKCOMPARATORLMV331)

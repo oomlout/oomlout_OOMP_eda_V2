@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Cellular_Modem_NL-SW-EVDO-V
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSCELLULARMODEMNLSWEVDOV
 - Name: digikey-footprints : Cellular_Modem_NL-SW-EVDO-V
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Cellular_Modem_NL-SW-EVDO-V/
 - Description: digikey-footprints : Cellular_Modem_NL-SW-EVDO-V
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Cellular_Modem_NL-SW-EVDO-V](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Cellular_Modem_NL-SW-EVDO-V)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSCELLULARMODEMNLSWEVDOV](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSCELLULARMODEMNLSWEVDOV)

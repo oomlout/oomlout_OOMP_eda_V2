@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-relay-NV2R
 - Hex ID: FZERELAYNV2R
 - Name: relay : NV2R
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/relay/NV2R/
 - Description: relay : NV2R
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-NV2R](http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-NV2R)
 - Short Link: [http://oom.lt/FZERELAYNV2R](http://oom.lt/FZERELAYNV2R)

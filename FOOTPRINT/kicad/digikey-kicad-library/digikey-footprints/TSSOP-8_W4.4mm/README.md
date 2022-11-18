@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-TSSOP-8_W4.4mm
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSTSS8W44
 - Name: digikey-footprints : TSSOP-8_W4.4mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/TSSOP-8_W4.4mm/
 - Description: digikey-footprints : TSSOP-8_W4.4mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-TSSOP-8_W4.4mm](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-TSSOP-8_W4.4mm)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSTSS8W44](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSTSS8W44)

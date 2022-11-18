@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-SMF36A
 - Hex ID: SZKDIODESMF36A
 - Name: Diode : SMF36A
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/SMF36A/
 - Description: Diode : SMF36A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-SMF36A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-SMF36A)
 - Short Link: [http://oom.lt/SZKDIODESMF36A](http://oom.lt/SZKDIODESMF36A)

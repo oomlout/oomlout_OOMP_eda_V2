@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-transistor-small-signal-TO72
 - Hex ID: FZETRANSISTORSLLSIGNALTO72
 - Name: transistor-small-signal : TO72
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/transistor-small-signal/TO72/
 - Description: transistor-small-signal : TO72
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-small-signal-TO72](http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-small-signal-TO72)
 - Short Link: [http://oom.lt/FZETRANSISTORSLLSIGNALTO72](http://oom.lt/FZETRANSISTORSLLSIGNALTO72)

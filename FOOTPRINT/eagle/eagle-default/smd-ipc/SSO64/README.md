@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-smd-ipc-SSO64
 - Hex ID: FZESMIPCSSO64
 - Name: smd-ipc : SSO64
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/smd-ipc/SSO64/
 - Description: smd-ipc : SSO64
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-SSO64](http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-SSO64)
 - Short Link: [http://oom.lt/FZESMIPCSSO64](http://oom.lt/FZESMIPCSSO64)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_USB-FUSB307BMPX
 - Hex ID: SZKINTERFACEUFU37BMPX
 - Name: Interface_USB : FUSB307BMPX
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_USB/FUSB307BMPX/
 - Description: Interface_USB : FUSB307BMPX
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_USB-FUSB307BMPX](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_USB-FUSB307BMPX)
 - Short Link: [http://oom.lt/SZKINTERFACEUFU37BMPX](http://oom.lt/SZKINTERFACEUFU37BMPX)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-TERS-35D-L-PI05-01-T35L5
 - Hex ID: SZOOMPKOOMPPTERS35DLPI51T35L5
 - Name: oomlout_OOMP_parts : TERS-35D-L-PI05-01-T35L5
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/TERS-35D-L-PI05-01-T35L5/
 - Description: oomlout_OOMP_parts : TERS-35D-L-PI05-01-T35L5
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-TERS-35D-L-PI05-01-T35L5](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-TERS-35D-L-PI05-01-T35L5)
 - Short Link: [http://oom.lt/SZOOMPKOOMPPTERS35DLPI51T35L5](http://oom.lt/SZOOMPKOOMPPTERS35DLPI51T35L5)

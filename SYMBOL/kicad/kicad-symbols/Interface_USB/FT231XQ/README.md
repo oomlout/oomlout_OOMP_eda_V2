@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_USB-FT231XQ
 - Hex ID: SZKINTERFACEUFT231XQ
 - Name: Interface_USB : FT231XQ
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_USB/FT231XQ/
 - Description: Interface_USB : FT231XQ
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_USB-FT231XQ](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_USB-FT231XQ)
 - Short Link: [http://oom.lt/SZKINTERFACEUFT231XQ](http://oom.lt/SZKINTERFACEUFT231XQ)

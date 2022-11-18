@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-SMF43A
 - Hex ID: SZKDIODESMF43A
 - Name: Diode : SMF43A
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/SMF43A/
 - Description: Diode : SMF43A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-SMF43A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-SMF43A)
 - Short Link: [http://oom.lt/SZKDIODESMF43A](http://oom.lt/SZKDIODESMF43A)

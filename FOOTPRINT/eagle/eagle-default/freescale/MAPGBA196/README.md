@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-freescale-MAPGBA196
 - Hex ID: FZEFREESCALEMAPGBA196
 - Name: freescale : MAPGBA196
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/freescale/MAPGBA196/
 - Description: freescale : MAPGBA196
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-freescale-MAPGBA196](http://oom.lt/FOOTPRINT-eagle-eagle-default-freescale-MAPGBA196)
 - Short Link: [http://oom.lt/FZEFREESCALEMAPGBA196](http://oom.lt/FZEFREESCALEMAPGBA196)

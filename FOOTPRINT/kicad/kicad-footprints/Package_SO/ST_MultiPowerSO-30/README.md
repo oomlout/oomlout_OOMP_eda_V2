@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_SO-ST_MultiPowerSO-30
 - Hex ID: FZKSOSTMULTIPOWERSO3
 - Name: Package_SO : ST_MultiPowerSO-30
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SO/ST_MultiPowerSO-30/
 - Description: Package_SO : ST_MultiPowerSO-30
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SO-ST_MultiPowerSO-30](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SO-ST_MultiPowerSO-30)
 - Short Link: [http://oom.lt/FZKSOSTMULTIPOWERSO3](http://oom.lt/FZKSOSTMULTIPOWERSO3)

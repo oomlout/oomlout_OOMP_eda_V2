@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-diode-P1-10E
 - Hex ID: FZEDIODEP11E
 - Name: diode : P1-10E
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/diode/P1-10E/
 - Description: diode : P1-10E
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-diode-P1-10E](http://oom.lt/FOOTPRINT-eagle-eagle-default-diode-P1-10E)
 - Short Link: [http://oom.lt/FZEDIODEP11E](http://oom.lt/FZEDIODEP11E)

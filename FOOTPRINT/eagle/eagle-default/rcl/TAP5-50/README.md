@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-rcl-TAP5-50
 - Hex ID: FZERCLTAP55
 - Name: rcl : TAP5-50
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/rcl/TAP5-50/
 - Description: rcl : TAP5-50
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-TAP5-50](http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-TAP5-50)
 - Short Link: [http://oom.lt/FZERCLTAP55](http://oom.lt/FZERCLTAP55)

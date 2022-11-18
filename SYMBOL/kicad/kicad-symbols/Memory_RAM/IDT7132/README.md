@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Memory_RAM-IDT7132
 - Hex ID: SZKMEMORYRAMIDT7132
 - Name: Memory_RAM : IDT7132
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Memory_RAM/IDT7132/
 - Description: Memory_RAM : IDT7132
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_RAM-IDT7132](http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_RAM-IDT7132)
 - Short Link: [http://oom.lt/SZKMEMORYRAMIDT7132](http://oom.lt/SZKMEMORYRAMIDT7132)

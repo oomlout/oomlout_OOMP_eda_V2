@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-1X03
 - Hex ID: FZSSPARKFUNSENS1X3
 - Name: SparkFun-Sensors : 1X03
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Sensors/1X03/
 - Description: SparkFun-Sensors : 1X03
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-1X03](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-1X03)
 - Short Link: [http://oom.lt/FZSSPARKFUNSENS1X3](http://oom.lt/FZSSPARKFUNSENS1X3)

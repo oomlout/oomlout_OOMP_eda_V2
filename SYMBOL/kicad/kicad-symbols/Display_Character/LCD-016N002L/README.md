@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Display_Character-LCD-016N002L
 - Hex ID: SZKDICHARACTERLCD16N2L
 - Name: Display_Character : LCD-016N002L
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Display_Character/LCD-016N002L/
 - Description: Display_Character : LCD-016N002L
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-LCD-016N002L](http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-LCD-016N002L)
 - Short Link: [http://oom.lt/SZKDICHARACTERLCD16N2L](http://oom.lt/SZKDICHARACTERLCD16N2L)

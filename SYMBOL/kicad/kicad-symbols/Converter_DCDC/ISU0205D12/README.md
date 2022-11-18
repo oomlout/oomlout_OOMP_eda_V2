@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Converter_DCDC-ISU0205D12
 - Hex ID: SZKCONISU25D12
 - Name: Converter_DCDC : ISU0205D12
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Converter_DCDC/ISU0205D12/
 - Description: Converter_DCDC : ISU0205D12
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-ISU0205D12](http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-ISU0205D12)
 - Short Link: [http://oom.lt/SZKCONISU25D12](http://oom.lt/SZKCONISU25D12)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-W04-X-O101-01-R4101
 - Hex ID: SZOOMPKOOMPPRESEW4XO111R411
 - Name: oomlout_OOMP_parts : RESE-W04-X-O101-01-R4101
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/RESE-W04-X-O101-01-R4101/
 - Description: oomlout_OOMP_parts : RESE-W04-X-O101-01-R4101
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-W04-X-O101-01-R4101](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-W04-X-O101-01-R4101)
 - Short Link: [http://oom.lt/SZOOMPKOOMPPRESEW4XO111R411](http://oom.lt/SZOOMPKOOMPPRESEW4XO111R411)

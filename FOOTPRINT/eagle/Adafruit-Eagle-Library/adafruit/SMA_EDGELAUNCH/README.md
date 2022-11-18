@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-SMA_EDGELAUNCH
 - Hex ID: FZASEL
 - Name: adafruit : SMA_EDGELAUNCH
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/SMA_EDGELAUNCH/
 - Description: adafruit : SMA_EDGELAUNCH
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-SMA_EDGELAUNCH](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-SMA_EDGELAUNCH)
 - Short Link: [http://oom.lt/FZASEL](http://oom.lt/FZASEL)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-jst-18FLZ-SM
 - Hex ID: FZECONJST18FLZSM
 - Name: con-jst : 18FLZ-SM
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-jst/18FLZ-SM/
 - Description: con-jst : 18FLZ-SM
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-jst-18FLZ-SM](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-jst-18FLZ-SM)
 - Short Link: [http://oom.lt/FZECONJST18FLZSM](http://oom.lt/FZECONJST18FLZSM)

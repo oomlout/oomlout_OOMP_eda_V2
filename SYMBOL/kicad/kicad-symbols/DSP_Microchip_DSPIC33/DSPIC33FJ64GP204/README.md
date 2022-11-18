@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-DSP_Microchip_DSPIC33-DSPIC33FJ64GP204
 - Hex ID: SZKDSPMCHIPDSPIC33DSPIC33FJ64GP24
 - Name: DSP_Microchip_DSPIC33 : DSPIC33FJ64GP204
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/DSP_Microchip_DSPIC33/DSPIC33FJ64GP204/
 - Description: DSP_Microchip_DSPIC33 : DSPIC33FJ64GP204
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-DSP_Microchip_DSPIC33-DSPIC33FJ64GP204](http://oom.lt/SYMBOL-kicad-kicad-symbols-DSP_Microchip_DSPIC33-DSPIC33FJ64GP204)
 - Short Link: [http://oom.lt/SZKDSPMCHIPDSPIC33DSPIC33FJ64GP24](http://oom.lt/SZKDSPMCHIPDSPIC33DSPIC33FJ64GP24)

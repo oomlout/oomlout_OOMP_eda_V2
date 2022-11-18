@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-LT3042xMSE
 - Hex ID: SZKREGULATORLINEARLT342XMSE
 - Name: Regulator_Linear : LT3042xMSE
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LT3042xMSE/
 - Description: Regulator_Linear : LT3042xMSE
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LT3042xMSE](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LT3042xMSE)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARLT342XMSE](http://oom.lt/SZKREGULATORLINEARLT342XMSE)

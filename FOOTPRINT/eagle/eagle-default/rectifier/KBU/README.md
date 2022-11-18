@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-rectifier-KBU
 - Hex ID: FZERECTIFIERKBU
 - Name: rectifier : KBU
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/rectifier/KBU/
 - Description: rectifier : KBU
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-rectifier-KBU](http://oom.lt/FOOTPRINT-eagle-eagle-default-rectifier-KBU)
 - Short Link: [http://oom.lt/FZERECTIFIERKBU](http://oom.lt/FZERECTIFIERKBU)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O392-01-R6392
 - Hex ID: FZOOMPKOOMPPRESE63XO3921R6392
 - Name: oomlout_OOMP_parts : RESE-0603-X-O392-01-R6392
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/RESE-0603-X-O392-01-R6392/
 - Description: oomlout_OOMP_parts : RESE-0603-X-O392-01-R6392
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O392-01-R6392](http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O392-01-R6392)
 - Short Link: [http://oom.lt/FZOOMPKOOMPPRESE63XO3921R6392](http://oom.lt/FZOOMPKOOMPPRESE63XO3921R6392)

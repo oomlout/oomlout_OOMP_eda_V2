@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-subd-M09VP
 - Hex ID: FZECONSUBDM9VP
 - Name: con-subd : M09VP
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-subd/M09VP/
 - Description: con-subd : M09VP
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-subd-M09VP](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-subd-M09VP)
 - Short Link: [http://oom.lt/FZECONSUBDM9VP](http://oom.lt/FZECONSUBDM9VP)

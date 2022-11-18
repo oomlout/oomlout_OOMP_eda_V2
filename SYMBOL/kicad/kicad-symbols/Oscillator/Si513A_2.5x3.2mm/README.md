@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Oscillator-Si513A_2.5x3.2mm
 - Hex ID: SZKOCSSI513A25X32
 - Name: Oscillator : Si513A_2.5x3.2mm
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Oscillator/Si513A_2.5x3.2mm/
 - Description: Oscillator : Si513A_2.5x3.2mm
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Oscillator-Si513A_2.5x3.2mm](http://oom.lt/SYMBOL-kicad-kicad-symbols-Oscillator-Si513A_2.5x3.2mm)
 - Short Link: [http://oom.lt/SZKOCSSI513A25X32](http://oom.lt/SZKOCSSI513A25X32)

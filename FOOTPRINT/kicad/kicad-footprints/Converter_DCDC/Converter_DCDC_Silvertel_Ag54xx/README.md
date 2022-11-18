@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-kicad-kicad-footprints-Converter_DCDC-Converter_DCDC_Silvertel_Ag54xx
 - Hex ID: FZKCONCONSILVERTELAG54XX
 - Name: Converter_DCDC : Converter_DCDC_Silvertel_Ag54xx
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Converter_DCDC/Converter_DCDC_Silvertel_Ag54xx/
 - Description: Converter_DCDC : Converter_DCDC_Silvertel_Ag54xx
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Converter_DCDC-Converter_DCDC_Silvertel_Ag54xx](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Converter_DCDC-Converter_DCDC_Silvertel_Ag54xx)
 - Short Link: [http://oom.lt/FZKCONCONSILVERTELAG54XX](http://oom.lt/FZKCONCONSILVERTELAG54XX)

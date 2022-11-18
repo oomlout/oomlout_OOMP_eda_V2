@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-0603
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTS63
 - Name: digikey-footprints : 0603
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/0603/
 - Description: digikey-footprints : 0603
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-0603](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-0603)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTS63](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTS63)

@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEREFPACKAGESLONGPADCPGA44 > ref-packages-longpad : CPGA44](#fzerefpackageslongpadcpga44--ref-packages-longpad--cpga44)
+* [FZEREFPSLPCPGA44 > ref-packages-longpad : CPGA44](#fzerefpslpcpga44--ref-packages-longpad--cpga44)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEREFPACKAGESLONGPADCPGA44 > ref-packages-longpad : CPGA44
+# FZEREFPSLPCPGA44 > ref-packages-longpad : CPGA44
 
 - ID: FOOTPRINT-eagle-eagle-default-ref-packages-longpad-CPGA44
-- Hex ID: FZEREFPACKAGESLONGPADCPGA44
+- Hex ID: FZEREFPSLPCPGA44
 - Name: ref-packages-longpad : CPGA44
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ref-packages-longpad/CPGA44/
 - Description: ref-packages-longpad : CPGA44
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-longpad-CPGA44](http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-longpad-CPGA44)
-- Short Link: [http://oom.lt/FZEREFPACKAGESLONGPADCPGA44](http://oom.lt/FZEREFPACKAGESLONGPADCPGA44)
+- Short Link: [http://oom.lt/FZEREFPSLPCPGA44](http://oom.lt/FZEREFPSLPCPGA44)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|ref-packages-longpad|
 |OOMP Index|oompIndex|CPGA44|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-ref-packages-longpad-CPGA44|
-|Hex ID (short code)|hexID|FZEREFPACKAGESLONGPADCPGA44|
+|Hex ID (short code)|hexID|FZEREFPSLPCPGA44|
 |name|name|ref-packages-longpad : CPGA44|
 ||||

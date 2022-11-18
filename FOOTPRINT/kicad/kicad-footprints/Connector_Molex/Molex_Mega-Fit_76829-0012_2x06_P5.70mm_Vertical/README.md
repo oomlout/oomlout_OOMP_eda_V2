@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_Mega-Fit_76829-0012_2x06_P5.70mm_Vertical
 - Hex ID: FZKCNMXMXMEGAFIT76829122X6P57F
 - Name: Connector_Molex : Molex_Mega-Fit_76829-0012_2x06_P5.70mm_Vertical
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_Mega-Fit_76829-0012_2x06_P5.70mm_Vertical/
 - Description: Connector_Molex : Molex_Mega-Fit_76829-0012_2x06_P5.70mm_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_Mega-Fit_76829-0012_2x06_P5.70mm_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_Mega-Fit_76829-0012_2x06_P5.70mm_Vertical)
 - Short Link: [http://oom.lt/FZKCNMXMXMEGAFIT76829122X6P57F](http://oom.lt/FZKCNMXMXMEGAFIT76829122X6P57F)

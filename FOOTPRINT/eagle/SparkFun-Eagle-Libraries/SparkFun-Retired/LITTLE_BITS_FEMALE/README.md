@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-LITTLE_BITS_FEMALE
 - Hex ID: FZSRTLITTLEBITSF
 - Name: SparkFun-Retired : LITTLE_BITS_FEMALE
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Retired/LITTLE_BITS_FEMALE/
 - Description: SparkFun-Retired : LITTLE_BITS_FEMALE
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-LITTLE_BITS_FEMALE](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-LITTLE_BITS_FEMALE)
 - Short Link: [http://oom.lt/FZSRTLITTLEBITSF](http://oom.lt/FZSRTLITTLEBITSF)

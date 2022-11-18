@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_NXP_Kinetis-MKL28Z512VLL7
 - Hex ID: SZKMCUNXPKINETISMKL28Z512VLL7
 - Name: MCU_NXP_Kinetis : MKL28Z512VLL7
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_NXP_Kinetis/MKL28Z512VLL7/
 - Description: MCU_NXP_Kinetis : MKL28Z512VLL7
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_NXP_Kinetis-MKL28Z512VLL7](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_NXP_Kinetis-MKL28Z512VLL7)
 - Short Link: [http://oom.lt/SZKMCUNXPKINETISMKL28Z512VLL7](http://oom.lt/SZKMCUNXPKINETISMKL28Z512VLL7)

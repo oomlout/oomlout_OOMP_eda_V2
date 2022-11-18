@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega168-20M
 - Hex ID: SZKMCUMCHIPATMEGAATMEGA1682M
 - Name: MCU_Microchip_ATmega : ATmega168-20M
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_ATmega/ATmega168-20M/
 - Description: MCU_Microchip_ATmega : ATmega168-20M
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega168-20M](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega168-20M)
 - Short Link: [http://oom.lt/SZKMCUMCHIPATMEGAATMEGA1682M](http://oom.lt/SZKMCUMCHIPATMEGAATMEGA1682M)

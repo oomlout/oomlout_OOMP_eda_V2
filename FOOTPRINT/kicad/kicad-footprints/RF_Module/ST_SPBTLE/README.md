@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-RF_Module-ST_SPBTLE
 - Hex ID: FZKRFMOSTSPBTLE
 - Name: RF_Module : ST_SPBTLE
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/RF_Module/ST_SPBTLE/
 - Description: RF_Module : ST_SPBTLE
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_Module-ST_SPBTLE](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_Module-ST_SPBTLE)
 - Short Link: [http://oom.lt/FZKRFMOSTSPBTLE](http://oom.lt/FZKRFMOSTSPBTLE)

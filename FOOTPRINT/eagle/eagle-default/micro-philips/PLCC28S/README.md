@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-micro-philips-PLCC28S
 - Hex ID: FZEMPHILIPSPLCC28S
 - Name: micro-philips : PLCC28S
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/micro-philips/PLCC28S/
 - Description: micro-philips : PLCC28S
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-philips-PLCC28S](http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-philips-PLCC28S)
 - Short Link: [http://oom.lt/FZEMPHILIPSPLCC28S](http://oom.lt/FZEMPHILIPSPLCC28S)

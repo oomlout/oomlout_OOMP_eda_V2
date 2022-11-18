@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_BGA-Microchip_TFBGA-196_11x11mm_Layout14x14_P0.75mm_SMD
 - Hex ID: FZKBGAMCHIPTFBGA19611X11LAYOUT14X14P75SM
 - Name: Package_BGA : Microchip_TFBGA-196_11x11mm_Layout14x14_P0.75mm_SMD
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_BGA/Microchip_TFBGA-196_11x11mm_Layout14x14_P0.75mm_SMD/
 - Description: Package_BGA : Microchip_TFBGA-196_11x11mm_Layout14x14_P0.75mm_SMD
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_BGA-Microchip_TFBGA-196_11x11mm_Layout14x14_P0.75mm_SMD](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_BGA-Microchip_TFBGA-196_11x11mm_Layout14x14_P0.75mm_SMD)
 - Short Link: [http://oom.lt/FZKBGAMCHIPTFBGA19611X11LAYOUT14X14P75SM](http://oom.lt/FZKBGAMCHIPTFBGA19611X11LAYOUT14X14P75SM)

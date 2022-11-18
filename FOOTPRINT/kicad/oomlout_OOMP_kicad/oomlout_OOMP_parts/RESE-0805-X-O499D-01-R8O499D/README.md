@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0805-X-O499D-01-R8O499D
 - Hex ID: FZOOMPKOOMPPRESE85XO499D1R8O499D
 - Name: oomlout_OOMP_parts : RESE-0805-X-O499D-01-R8O499D
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/RESE-0805-X-O499D-01-R8O499D/
 - Description: oomlout_OOMP_parts : RESE-0805-X-O499D-01-R8O499D
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0805-X-O499D-01-R8O499D](http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0805-X-O499D-01-R8O499D)
 - Short Link: [http://oom.lt/FZOOMPKOOMPPRESE85XO499D1R8O499D](http://oom.lt/FZOOMPKOOMPPRESE85XO499D1R8O499D)

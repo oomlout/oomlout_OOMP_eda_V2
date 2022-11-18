@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Potentiometer_Digital-AD5272BRM
 - Hex ID: SZKPOTDIGITALAD5272BRM
 - Name: Potentiometer_Digital : AD5272BRM
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Potentiometer_Digital/AD5272BRM/
 - Description: Potentiometer_Digital : AD5272BRM
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Potentiometer_Digital-AD5272BRM](http://oom.lt/SYMBOL-kicad-kicad-symbols-Potentiometer_Digital-AD5272BRM)
 - Short Link: [http://oom.lt/SZKPOTDIGITALAD5272BRM](http://oom.lt/SZKPOTDIGITALAD5272BRM)

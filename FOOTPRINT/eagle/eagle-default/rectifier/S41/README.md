@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-rectifier-S41
 - Hex ID: FZERECTIFIERS41
 - Name: rectifier : S41
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/rectifier/S41/
 - Description: rectifier : S41
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-rectifier-S41](http://oom.lt/FOOTPRINT-eagle-eagle-default-rectifier-S41)
 - Short Link: [http://oom.lt/FZERECTIFIERS41](http://oom.lt/FZERECTIFIERS41)

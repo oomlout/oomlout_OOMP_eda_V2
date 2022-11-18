@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-smd-ipc-TSOP6X16
 - Hex ID: FZESMIPCTS6X16
 - Name: smd-ipc : TSOP6X16
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/smd-ipc/TSOP6X16/
 - Description: smd-ipc : TSOP6X16
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-TSOP6X16](http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-TSOP6X16)
 - Short Link: [http://oom.lt/FZESMIPCTS6X16](http://oom.lt/FZESMIPCTS6X16)

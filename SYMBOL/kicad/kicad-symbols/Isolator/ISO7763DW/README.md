@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Isolator-ISO7763DW
 - Hex ID: SZKISOLATORISO7763DW
 - Name: Isolator : ISO7763DW
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Isolator/ISO7763DW/
 - Description: Isolator : ISO7763DW
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-ISO7763DW](http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-ISO7763DW)
 - Short Link: [http://oom.lt/SZKISOLATORISO7763DW](http://oom.lt/SZKISOLATORISO7763DW)

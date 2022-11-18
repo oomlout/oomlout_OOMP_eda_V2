@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-exar-DIL08
 - Hex ID: FZEEXARDIL8
 - Name: exar : DIL08
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/exar/DIL08/
 - Description: exar : DIL08
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-exar-DIL08](http://oom.lt/FOOTPRINT-eagle-eagle-default-exar-DIL08)
 - Short Link: [http://oom.lt/FZEEXARDIL8](http://oom.lt/FZEEXARDIL8)

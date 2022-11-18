@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Isolator-LTV-247
 - Hex ID: SZKISOLATORLTV247
 - Name: Isolator : LTV-247
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Isolator/LTV-247/
 - Description: Isolator : LTV-247
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-LTV-247](http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-LTV-247)
 - Short Link: [http://oom.lt/SZKISOLATORLTV247](http://oom.lt/SZKISOLATORLTV247)

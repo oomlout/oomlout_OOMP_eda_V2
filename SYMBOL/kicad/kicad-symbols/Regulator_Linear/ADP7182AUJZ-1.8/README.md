@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-ADP7182AUJZ-1.8
 - Hex ID: SZKREGULATORLINEARADP7182AUJZ18
 - Name: Regulator_Linear : ADP7182AUJZ-1.8
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/ADP7182AUJZ-1.8/
 - Description: Regulator_Linear : ADP7182AUJZ-1.8
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-ADP7182AUJZ-1.8](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-ADP7182AUJZ-1.8)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARADP7182AUJZ18](http://oom.lt/SZKREGULATORLINEARADP7182AUJZ18)

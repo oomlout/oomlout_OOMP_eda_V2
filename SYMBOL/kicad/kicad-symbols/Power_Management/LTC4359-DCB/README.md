@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Power_Management-LTC4359-DCB
 - Hex ID: SZKPOWERMANAGEMENTLTC4359DCB
 - Name: Power_Management : LTC4359-DCB
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Power_Management/LTC4359-DCB/
 - Description: Power_Management : LTC4359-DCB
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-LTC4359-DCB](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-LTC4359-DCB)
 - Short Link: [http://oom.lt/SZKPOWERMANAGEMENTLTC4359DCB](http://oom.lt/SZKPOWERMANAGEMENTLTC4359DCB)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-SIM800L
 - Hex ID: FZASIM8L
 - Name: adafruit : SIM800L
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/SIM800L/
 - Description: adafruit : SIM800L
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-SIM800L](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-SIM800L)
 - Short Link: [http://oom.lt/FZASIM8L](http://oom.lt/FZASIM8L)

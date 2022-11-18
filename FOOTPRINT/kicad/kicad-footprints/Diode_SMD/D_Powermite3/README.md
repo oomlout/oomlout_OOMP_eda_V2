@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_Powermite3
 - Hex ID: FZKDDPOWERMITE3
 - Name: Diode_SMD : D_Powermite3
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Diode_SMD/D_Powermite3/
 - Description: Diode_SMD : D_Powermite3
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_Powermite3](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_Powermite3)
 - Short Link: [http://oom.lt/FZKDDPOWERMITE3](http://oom.lt/FZKDDPOWERMITE3)

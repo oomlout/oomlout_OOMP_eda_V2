@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-LTC7138
 - Hex ID: SZKREGULATORSWINGLTC7138
 - Name: Regulator_Switching : LTC7138
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/LTC7138/
 - Description: Regulator_Switching : LTC7138
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LTC7138](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LTC7138)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGLTC7138](http://oom.lt/SZKREGULATORSWINGLTC7138)

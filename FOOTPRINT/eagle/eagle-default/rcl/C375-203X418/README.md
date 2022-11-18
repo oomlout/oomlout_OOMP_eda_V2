@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-rcl-C375-203X418
 - Hex ID: FZERCLC37523X418
 - Name: rcl : C375-203X418
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/rcl/C375-203X418/
 - Description: rcl : C375-203X418
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-C375-203X418](http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-C375-203X418)
 - Short Link: [http://oom.lt/FZERCLC37523X418](http://oom.lt/FZERCLC37523X418)

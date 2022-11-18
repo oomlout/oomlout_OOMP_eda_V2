@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-GPS-ZED-F9P
 - Hex ID: FZSGZEDF9P
 - Name: SparkFun-GPS : ZED-F9P
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-GPS/ZED-F9P/
 - Description: SparkFun-GPS : ZED-F9P
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-GPS-ZED-F9P](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-GPS-ZED-F9P)
 - Short Link: [http://oom.lt/FZSGZEDF9P](http://oom.lt/FZSGZEDF9P)

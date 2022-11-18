@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Diode_THT-Diode_Bridge_IXYS_GUFP
 - Hex ID: FZKDDIODEBRIDGEIXYSGUFP
 - Name: Diode_THT : Diode_Bridge_IXYS_GUFP
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Diode_THT/Diode_Bridge_IXYS_GUFP/
 - Description: Diode_THT : Diode_Bridge_IXYS_GUFP
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Diode_THT-Diode_Bridge_IXYS_GUFP](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Diode_THT-Diode_Bridge_IXYS_GUFP)
 - Short Link: [http://oom.lt/FZKDDIODEBRIDGEIXYSGUFP](http://oom.lt/FZKDDIODEBRIDGEIXYSGUFP)

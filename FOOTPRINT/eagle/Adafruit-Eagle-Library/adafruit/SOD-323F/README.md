@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-SOD-323F
 - Hex ID: FZASOD323F
 - Name: adafruit : SOD-323F
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/SOD-323F/
 - Description: adafruit : SOD-323F
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-SOD-323F](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-SOD-323F)
 - Short Link: [http://oom.lt/FZASOD323F](http://oom.lt/FZASOD323F)

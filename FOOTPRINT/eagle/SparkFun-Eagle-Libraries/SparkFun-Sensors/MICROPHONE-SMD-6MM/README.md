@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-MICROPHONE-SMD-6MM
 - Hex ID: FZSSPARKFUNSENSMPHONESM6
 - Name: SparkFun-Sensors : MICROPHONE-SMD-6MM
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Sensors/MICROPHONE-SMD-6MM/
 - Description: SparkFun-Sensors : MICROPHONE-SMD-6MM
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-MICROPHONE-SMD-6MM](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-MICROPHONE-SMD-6MM)
 - Short Link: [http://oom.lt/FZSSPARKFUNSENSMPHONESM6](http://oom.lt/FZSSPARKFUNSENSMPHONESM6)

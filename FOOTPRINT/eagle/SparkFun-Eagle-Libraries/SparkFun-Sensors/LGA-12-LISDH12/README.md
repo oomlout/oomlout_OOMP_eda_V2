@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-LGA-12-LISDH12
 - Hex ID: FZSSPARKFUNSENSLGA12LISDH12
 - Name: SparkFun-Sensors : LGA-12-LISDH12
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Sensors/LGA-12-LISDH12/
 - Description: SparkFun-Sensors : LGA-12-LISDH12
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-LGA-12-LISDH12](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-LGA-12-LISDH12)
 - Short Link: [http://oom.lt/FZSSPARKFUNSENSLGA12LISDH12](http://oom.lt/FZSSPARKFUNSENSLGA12LISDH12)

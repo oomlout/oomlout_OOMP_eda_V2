@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Isolator-VTL5Cx2
 - Hex ID: SZKISOLATORVTL5CX2
 - Name: Isolator : VTL5Cx2
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Isolator/VTL5Cx2/
 - Description: Isolator : VTL5Cx2
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-VTL5Cx2](http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-VTL5Cx2)
 - Short Link: [http://oom.lt/SZKISOLATORVTL5CX2](http://oom.lt/SZKISOLATORVTL5CX2)

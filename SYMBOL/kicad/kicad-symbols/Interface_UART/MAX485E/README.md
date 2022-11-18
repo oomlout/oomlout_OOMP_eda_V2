@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_UART-MAX485E
 - Hex ID: SZKINTERFACEUARTMAX485E
 - Name: Interface_UART : MAX485E
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_UART/MAX485E/
 - Description: Interface_UART : MAX485E
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_UART-MAX485E](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_UART-MAX485E)
 - Short Link: [http://oom.lt/SZKINTERFACEUARTMAX485E](http://oom.lt/SZKINTERFACEUARTMAX485E)

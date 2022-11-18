@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_CLIK-Mate_502585-0870_1x08-1MP_P1.50mm_Horizontal
 - Hex ID: FZKCNMXMXCLIKMATE52585871X81MPP15H
 - Name: Connector_Molex : Molex_CLIK-Mate_502585-0870_1x08-1MP_P1.50mm_Horizontal
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_CLIK-Mate_502585-0870_1x08-1MP_P1.50mm_Horizontal/
 - Description: Connector_Molex : Molex_CLIK-Mate_502585-0870_1x08-1MP_P1.50mm_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_CLIK-Mate_502585-0870_1x08-1MP_P1.50mm_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_CLIK-Mate_502585-0870_1x08-1MP_P1.50mm_Horizontal)
 - Short Link: [http://oom.lt/FZKCNMXMXCLIKMATE52585871X81MPP15H](http://oom.lt/FZKCNMXMXCLIKMATE52585871X81MPP15H)

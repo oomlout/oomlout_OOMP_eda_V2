@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Axial_L13.0mm_D4.5mm_P7.62mm_Vertical_Fastron_HCCC
 - Hex ID: FZKINLAXIALL13D45P762FFASTRONHCCC
 - Name: Inductor_THT : L_Axial_L13.0mm_D4.5mm_P7.62mm_Vertical_Fastron_HCCC
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Axial_L13.0mm_D4.5mm_P7.62mm_Vertical_Fastron_HCCC/
 - Description: Inductor_THT : L_Axial_L13.0mm_D4.5mm_P7.62mm_Vertical_Fastron_HCCC
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Axial_L13.0mm_D4.5mm_P7.62mm_Vertical_Fastron_HCCC](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Axial_L13.0mm_D4.5mm_P7.62mm_Vertical_Fastron_HCCC)
 - Short Link: [http://oom.lt/FZKINLAXIALL13D45P762FFASTRONHCCC](http://oom.lt/FZKINLAXIALL13D45P762FFASTRONHCCC)

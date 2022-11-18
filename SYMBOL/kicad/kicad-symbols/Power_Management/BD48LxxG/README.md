@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Power_Management-BD48LxxG
 - Hex ID: SZKPOWERMANAGEMENTBD48LXXG
 - Name: Power_Management : BD48LxxG
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Power_Management/BD48LxxG/
 - Description: Power_Management : BD48LxxG
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-BD48LxxG](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-BD48LxxG)
 - Short Link: [http://oom.lt/SZKPOWERMANAGEMENTBD48LXXG](http://oom.lt/SZKPOWERMANAGEMENTBD48LXXG)

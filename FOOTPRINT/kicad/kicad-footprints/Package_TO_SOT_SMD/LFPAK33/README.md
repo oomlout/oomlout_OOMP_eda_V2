@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-LFPAK33
 - Hex ID: FZKSOTLFPAK33
 - Name: Package_TO_SOT_SMD : LFPAK33
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/LFPAK33/
 - Description: Package_TO_SOT_SMD : LFPAK33
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-LFPAK33](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-LFPAK33)
 - Short Link: [http://oom.lt/FZKSOTLFPAK33](http://oom.lt/FZKSOTLFPAK33)

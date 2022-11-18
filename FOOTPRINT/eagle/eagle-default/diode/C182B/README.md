@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-diode-C182B
 - Hex ID: FZEDIODEC182B
 - Name: diode : C182B
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/diode/C182B/
 - Description: diode : C182B
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-diode-C182B](http://oom.lt/FOOTPRINT-eagle-eagle-default-diode-C182B)
 - Short Link: [http://oom.lt/FZEDIODEC182B](http://oom.lt/FZEDIODEC182B)

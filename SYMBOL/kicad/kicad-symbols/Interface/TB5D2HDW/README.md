@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface-TB5D2HDW
 - Hex ID: SZKINTERFACETB5D2HDW
 - Name: Interface : TB5D2HDW
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface/TB5D2HDW/
 - Description: Interface : TB5D2HDW
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-TB5D2HDW](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-TB5D2HDW)
 - Short Link: [http://oom.lt/SZKINTERFACETB5D2HDW](http://oom.lt/SZKINTERFACETB5D2HDW)

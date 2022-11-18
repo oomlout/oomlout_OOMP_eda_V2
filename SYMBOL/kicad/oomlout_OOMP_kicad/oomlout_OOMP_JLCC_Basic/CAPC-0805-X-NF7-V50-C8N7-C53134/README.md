@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0805-X-NF7-V50-C8N7-C53134
 - Hex ID: SZOOMPKJLCCAPC85XNF7V5C8N7C53134
 - Name: oomlout_OOMP_JLCC_Basic : CAPC-0805-X-NF7-V50-C8N7-C53134
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_JLCC_Basic/CAPC-0805-X-NF7-V50-C8N7-C53134/
 - Description: oomlout_OOMP_JLCC_Basic : CAPC-0805-X-NF7-V50-C8N7-C53134
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0805-X-NF7-V50-C8N7-C53134](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0805-X-NF7-V50-C8N7-C53134)
 - Short Link: [http://oom.lt/SZOOMPKJLCCAPC85XNF7V5C8N7C53134](http://oom.lt/SZOOMPKJLCCAPC85XNF7V5C8N7C53134)

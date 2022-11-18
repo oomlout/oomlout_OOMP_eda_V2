@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-TDFN14
 - Hex ID: FZATDFN14
 - Name: adafruit : TDFN14
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/TDFN14/
 - Description: adafruit : TDFN14
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-TDFN14](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-TDFN14)
 - Short Link: [http://oom.lt/FZATDFN14](http://oom.lt/FZATDFN14)

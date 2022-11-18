@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-micro-motorola-S44
 - Hex ID: FZEMMOTOROLAS44
 - Name: micro-motorola : S44
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/micro-motorola/S44/
 - Description: micro-motorola : S44
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-motorola-S44](http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-motorola-S44)
 - Short Link: [http://oom.lt/FZEMMOTOROLAS44](http://oom.lt/FZEMMOTOROLAS44)

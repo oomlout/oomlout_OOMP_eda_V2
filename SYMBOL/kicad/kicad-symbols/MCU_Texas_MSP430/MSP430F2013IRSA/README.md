@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Texas_MSP430-MSP430F2013IRSA
 - Hex ID: SZKMCUTEXASMSP43MSP43F213IRSA
 - Name: MCU_Texas_MSP430 : MSP430F2013IRSA
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Texas_MSP430/MSP430F2013IRSA/
 - Description: MCU_Texas_MSP430 : MSP430F2013IRSA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Texas_MSP430-MSP430F2013IRSA](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Texas_MSP430-MSP430F2013IRSA)
 - Short Link: [http://oom.lt/SZKMCUTEXASMSP43MSP43F213IRSA](http://oom.lt/SZKMCUTEXASMSP43MSP43F213IRSA)

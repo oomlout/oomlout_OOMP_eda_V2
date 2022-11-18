@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-LEDS-XHP70-W-CREE-01-
 - Hex ID: FZOOMPKOOMPPLSXHP7WCREE1
 - Name: oomlout_OOMP_parts : LEDS-XHP70-W-CREE-01-
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/LEDS-XHP70-W-CREE-01-/
 - Description: oomlout_OOMP_parts : LEDS-XHP70-W-CREE-01-
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-LEDS-XHP70-W-CREE-01-](http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-LEDS-XHP70-W-CREE-01-)
 - Short Link: [http://oom.lt/FZOOMPKOOMPPLSXHP7WCREE1](http://oom.lt/FZOOMPKOOMPPLSXHP7WCREE1)

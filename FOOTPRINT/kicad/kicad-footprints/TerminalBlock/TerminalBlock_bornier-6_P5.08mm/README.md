@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-TerminalBlock-TerminalBlock_bornier-6_P5.08mm
 - Hex ID: FZKTBTBBORNIER6P58
 - Name: TerminalBlock : TerminalBlock_bornier-6_P5.08mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/TerminalBlock/TerminalBlock_bornier-6_P5.08mm/
 - Description: TerminalBlock : TerminalBlock_bornier-6_P5.08mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-TerminalBlock-TerminalBlock_bornier-6_P5.08mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-TerminalBlock-TerminalBlock_bornier-6_P5.08mm)
 - Short Link: [http://oom.lt/FZKTBTBBORNIER6P58](http://oom.lt/FZKTBTBBORNIER6P58)

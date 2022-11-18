@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-pld-intel-QFP132
 - Hex ID: FZEPLDINTELQFP132
 - Name: pld-intel : QFP132
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/pld-intel/QFP132/
 - Description: pld-intel : QFP132
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-pld-intel-QFP132](http://oom.lt/FOOTPRINT-eagle-eagle-default-pld-intel-QFP132)
 - Short Link: [http://oom.lt/FZEPLDINTELQFP132](http://oom.lt/FZEPLDINTELQFP132)

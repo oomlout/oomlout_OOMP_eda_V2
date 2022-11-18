@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_CSP-WLCSP-56_3.170x3.444mm_Layout7x8_P0.4mm
 - Hex ID: FZKCSPWLCSP56317X3444LAYOUT7X8P4
 - Name: Package_CSP : WLCSP-56_3.170x3.444mm_Layout7x8_P0.4mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_CSP/WLCSP-56_3.170x3.444mm_Layout7x8_P0.4mm/
 - Description: Package_CSP : WLCSP-56_3.170x3.444mm_Layout7x8_P0.4mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_CSP-WLCSP-56_3.170x3.444mm_Layout7x8_P0.4mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_CSP-WLCSP-56_3.170x3.444mm_Layout7x8_P0.4mm)
 - Short Link: [http://oom.lt/FZKCSPWLCSP56317X3444LAYOUT7X8P4](http://oom.lt/FZKCSPWLCSP56317X3444LAYOUT7X8P4)

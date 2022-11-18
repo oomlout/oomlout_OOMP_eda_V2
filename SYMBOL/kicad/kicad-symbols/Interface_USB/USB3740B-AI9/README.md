@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_USB-USB3740B-AI9
 - Hex ID: SZKINTERFACEUU374BAI9
 - Name: Interface_USB : USB3740B-AI9
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_USB/USB3740B-AI9/
 - Description: Interface_USB : USB3740B-AI9
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_USB-USB3740B-AI9](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_USB-USB3740B-AI9)
 - Short Link: [http://oom.lt/SZKINTERFACEUU374BAI9](http://oom.lt/SZKINTERFACEUU374BAI9)

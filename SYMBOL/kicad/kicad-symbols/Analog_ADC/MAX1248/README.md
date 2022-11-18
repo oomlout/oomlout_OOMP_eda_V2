@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Analog_ADC-MAX1248
 - Hex ID: SZKANALOGADCMAX1248
 - Name: Analog_ADC : MAX1248
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog_ADC/MAX1248/
 - Description: Analog_ADC : MAX1248
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-MAX1248](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-MAX1248)
 - Short Link: [http://oom.lt/SZKANALOGADCMAX1248](http://oom.lt/SZKANALOGADCMAX1248)

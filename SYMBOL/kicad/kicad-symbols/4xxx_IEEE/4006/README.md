@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-4xxx_IEEE-4006
 - Hex ID: SZK4XXXIEEE46
 - Name: 4xxx_IEEE : 4006
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/4xxx_IEEE/4006/
 - Description: 4xxx_IEEE : 4006
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-4xxx_IEEE-4006](http://oom.lt/SYMBOL-kicad-kicad-symbols-4xxx_IEEE-4006)
 - Short Link: [http://oom.lt/SZK4XXXIEEE46](http://oom.lt/SZK4XXXIEEE46)

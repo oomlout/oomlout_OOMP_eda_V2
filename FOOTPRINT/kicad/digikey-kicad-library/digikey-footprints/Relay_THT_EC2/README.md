@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Relay_THT_EC2
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSRELEC2
 - Name: digikey-footprints : Relay_THT_EC2
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Relay_THT_EC2/
 - Description: digikey-footprints : Relay_THT_EC2
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Relay_THT_EC2](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Relay_THT_EC2)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSRELEC2](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSRELEC2)

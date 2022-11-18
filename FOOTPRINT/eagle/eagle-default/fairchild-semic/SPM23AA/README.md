@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-fairchild-semic-SPM23AA
 - Hex ID: FZEFAIRCHILDSEMICSPM23AA
 - Name: fairchild-semic : SPM23AA
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/fairchild-semic/SPM23AA/
 - Description: fairchild-semic : SPM23AA
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-fairchild-semic-SPM23AA](http://oom.lt/FOOTPRINT-eagle-eagle-default-fairchild-semic-SPM23AA)
 - Short Link: [http://oom.lt/FZEFAIRCHILDSEMICSPM23AA](http://oom.lt/FZEFAIRCHILDSEMICSPM23AA)

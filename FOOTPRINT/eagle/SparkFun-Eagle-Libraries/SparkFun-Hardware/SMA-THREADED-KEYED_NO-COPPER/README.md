@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Hardware-SMA-THREADED-KEYED_NO-COPPER
 - Hex ID: FZSHSTHKEYEDNOC
 - Name: SparkFun-Hardware : SMA-THREADED-KEYED_NO-COPPER
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Hardware/SMA-THREADED-KEYED_NO-COPPER/
 - Description: SparkFun-Hardware : SMA-THREADED-KEYED_NO-COPPER
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Hardware-SMA-THREADED-KEYED_NO-COPPER](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Hardware-SMA-THREADED-KEYED_NO-COPPER)
 - Short Link: [http://oom.lt/FZSHSTHKEYEDNOC](http://oom.lt/FZSHSTHKEYEDNOC)

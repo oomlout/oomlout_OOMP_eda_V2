@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_ST_STM32L4-STM32L486JGYx
 - Hex ID: SZKMCUSTSTM32L4STM32L486JGYX
 - Name: MCU_ST_STM32L4 : STM32L486JGYx
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32L4/STM32L486JGYx/
 - Description: MCU_ST_STM32L4 : STM32L486JGYx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32L4-STM32L486JGYx](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32L4-STM32L486JGYx)
 - Short Link: [http://oom.lt/SZKMCUSTSTM32L4STM32L486JGYX](http://oom.lt/SZKMCUSTSTM32L4STM32L486JGYX)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Display-Adafruit_SSD1306
 - Hex ID: FZKDIADASSD136
 - Name: Display : Adafruit_SSD1306
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Display/Adafruit_SSD1306/
 - Description: Display : Adafruit_SSD1306
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Display-Adafruit_SSD1306](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Display-Adafruit_SSD1306)
 - Short Link: [http://oom.lt/FZKDIADASSD136](http://oom.lt/FZKDIADASSD136)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-lumberg-1613_14
 - Hex ID: FZECONLUMBERG161314
 - Name: con-lumberg : 1613_14
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-lumberg/1613_14/
 - Description: con-lumberg : 1613_14
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-lumberg-1613_14](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-lumberg-1613_14)
 - Short Link: [http://oom.lt/FZECONLUMBERG161314](http://oom.lt/FZECONLUMBERG161314)

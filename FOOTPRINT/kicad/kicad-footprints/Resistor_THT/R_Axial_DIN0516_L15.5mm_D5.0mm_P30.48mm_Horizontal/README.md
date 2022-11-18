@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Resistor_THT-R_Axial_DIN0516_L15.5mm_D5.0mm_P30.48mm_Horizontal
 - Hex ID: FZKRRAXIALDIN516L155D5P348H
 - Name: Resistor_THT : R_Axial_DIN0516_L15.5mm_D5.0mm_P30.48mm_Horizontal
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Resistor_THT/R_Axial_DIN0516_L15.5mm_D5.0mm_P30.48mm_Horizontal/
 - Description: Resistor_THT : R_Axial_DIN0516_L15.5mm_D5.0mm_P30.48mm_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Resistor_THT-R_Axial_DIN0516_L15.5mm_D5.0mm_P30.48mm_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Resistor_THT-R_Axial_DIN0516_L15.5mm_D5.0mm_P30.48mm_Horizontal)
 - Short Link: [http://oom.lt/FZKRRAXIALDIN516L155D5P348H](http://oom.lt/FZKRRAXIALDIN516L155D5P348H)

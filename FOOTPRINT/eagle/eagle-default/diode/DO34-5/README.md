@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-diode-DO34-5
 - Hex ID: FZEDIODEDO345
 - Name: diode : DO34-5
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/diode/DO34-5/
 - Description: diode : DO34-5
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-diode-DO34-5](http://oom.lt/FOOTPRINT-eagle-eagle-default-diode-DO34-5)
 - Short Link: [http://oom.lt/FZEDIODEDO345](http://oom.lt/FZEDIODEDO345)

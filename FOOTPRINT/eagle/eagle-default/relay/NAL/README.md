@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-relay-NAL
 - Hex ID: FZERELAYNAL
 - Name: relay : NAL
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/relay/NAL/
 - Description: relay : NAL
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-NAL](http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-NAL)
 - Short Link: [http://oom.lt/FZERELAYNAL](http://oom.lt/FZERELAYNAL)

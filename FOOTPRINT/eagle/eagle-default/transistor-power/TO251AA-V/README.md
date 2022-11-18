@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-transistor-power-TO251AA-V
 - Hex ID: FZETRANSISTORPOWERTO251AAV
 - Name: transistor-power : TO251AA-V
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/transistor-power/TO251AA-V/
 - Description: transistor-power : TO251AA-V
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-power-TO251AA-V](http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-power-TO251AA-V)
 - Short Link: [http://oom.lt/FZETRANSISTORPOWERTO251AAV](http://oom.lt/FZETRANSISTORPOWERTO251AAV)

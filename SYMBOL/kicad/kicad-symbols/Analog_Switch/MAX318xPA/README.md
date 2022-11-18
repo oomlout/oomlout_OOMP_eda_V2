@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Analog_Switch-MAX318xPA
 - Hex ID: SZKANALOGSWMAX318XPA
 - Name: Analog_Switch : MAX318xPA
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog_Switch/MAX318xPA/
 - Description: Analog_Switch : MAX318xPA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_Switch-MAX318xPA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_Switch-MAX318xPA)
 - Short Link: [http://oom.lt/SZKANALOGSWMAX318XPA](http://oom.lt/SZKANALOGSWMAX318XPA)

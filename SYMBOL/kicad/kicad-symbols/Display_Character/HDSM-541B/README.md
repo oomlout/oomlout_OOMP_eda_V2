@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Display_Character-HDSM-541B
 - Hex ID: SZKDICHARACTERHDSM541B
 - Name: Display_Character : HDSM-541B
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Display_Character/HDSM-541B/
 - Description: Display_Character : HDSM-541B
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-HDSM-541B](http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-HDSM-541B)
 - Short Link: [http://oom.lt/SZKDICHARACTERHDSM541B](http://oom.lt/SZKDICHARACTERHDSM541B)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-linear-SOIC8
 - Hex ID: FZELINEARSOIC8
 - Name: linear : SOIC8
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/linear/SOIC8/
 - Description: linear : SOIC8
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-linear-SOIC8](http://oom.lt/FOOTPRINT-eagle-eagle-default-linear-SOIC8)
 - Short Link: [http://oom.lt/FZELINEARSOIC8](http://oom.lt/FZELINEARSOIC8)

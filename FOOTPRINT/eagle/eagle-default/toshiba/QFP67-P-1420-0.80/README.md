@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-toshiba-QFP67-P-1420-0.80
 - Hex ID: FZETOSHIBAQFP67P1428
 - Name: toshiba : QFP67-P-1420-0.80
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/toshiba/QFP67-P-1420-0.80/
 - Description: toshiba : QFP67-P-1420-0.80
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-toshiba-QFP67-P-1420-0.80](http://oom.lt/FOOTPRINT-eagle-eagle-default-toshiba-QFP67-P-1420-0.80)
 - Short Link: [http://oom.lt/FZETOSHIBAQFP67P1428](http://oom.lt/FZETOSHIBAQFP67P1428)

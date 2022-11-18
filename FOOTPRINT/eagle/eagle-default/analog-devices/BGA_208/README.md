@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-analog-devices-BGA_208
 - Hex ID: FZEANALOGDEVICESBGA28
 - Name: analog-devices : BGA_208
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/analog-devices/BGA_208/
 - Description: analog-devices : BGA_208
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-analog-devices-BGA_208](http://oom.lt/FOOTPRINT-eagle-eagle-default-analog-devices-BGA_208)
 - Short Link: [http://oom.lt/FZEANALOGDEVICESBGA28](http://oom.lt/FZEANALOGDEVICESBGA28)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Analog_Switch-DG441xJ
 - Hex ID: SZKANALOGSWDG441XJ
 - Name: Analog_Switch : DG441xJ
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog_Switch/DG441xJ/
 - Description: Analog_Switch : DG441xJ
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_Switch-DG441xJ](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_Switch-DG441xJ)
 - Short Link: [http://oom.lt/SZKANALOGSWDG441XJ](http://oom.lt/SZKANALOGSWDG441XJ)

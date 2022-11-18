@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-Comchip_CDSV6-4448TI-G
 - Hex ID: SZKDIODECOMCHIPCDSV64448TIG
 - Name: Diode : Comchip_CDSV6-4448TI-G
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/Comchip_CDSV6-4448TI-G/
 - Description: Diode : Comchip_CDSV6-4448TI-G
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-Comchip_CDSV6-4448TI-G](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-Comchip_CDSV6-4448TI-G)
 - Short Link: [http://oom.lt/SZKDIODECOMCHIPCDSV64448TIG](http://oom.lt/SZKDIODECOMCHIPCDSV64448TIG)

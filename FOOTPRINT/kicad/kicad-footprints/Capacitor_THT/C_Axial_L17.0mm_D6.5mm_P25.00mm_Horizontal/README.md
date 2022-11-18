@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Capacitor_THT-C_Axial_L17.0mm_D6.5mm_P25.00mm_Horizontal
 - Hex ID: FZKCCAXIALL17D65P25H
 - Name: Capacitor_THT : C_Axial_L17.0mm_D6.5mm_P25.00mm_Horizontal
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Capacitor_THT/C_Axial_L17.0mm_D6.5mm_P25.00mm_Horizontal/
 - Description: Capacitor_THT : C_Axial_L17.0mm_D6.5mm_P25.00mm_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_THT-C_Axial_L17.0mm_D6.5mm_P25.00mm_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_THT-C_Axial_L17.0mm_D6.5mm_P25.00mm_Horizontal)
 - Short Link: [http://oom.lt/FZKCCAXIALL17D65P25H](http://oom.lt/FZKCCAXIALL17D65P25H)

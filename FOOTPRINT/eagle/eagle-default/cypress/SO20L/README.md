@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-cypress-SO20L
 - Hex ID: FZECYPRESSSO2L
 - Name: cypress : SO20L
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/cypress/SO20L/
 - Description: cypress : SO20L
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-cypress-SO20L](http://oom.lt/FOOTPRINT-eagle-eagle-default-cypress-SO20L)
 - Short Link: [http://oom.lt/FZECYPRESSSO2L](http://oom.lt/FZECYPRESSSO2L)

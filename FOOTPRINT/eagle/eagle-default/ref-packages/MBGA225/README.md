@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEREFPACKAGESMBGA225 > ref-packages : MBGA225](#fzerefpackagesmbga225--ref-packages--mbga225)
+* [FZEREFPSMBGA225 > ref-packages : MBGA225](#fzerefpsmbga225--ref-packages--mbga225)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEREFPACKAGESMBGA225 > ref-packages : MBGA225
+# FZEREFPSMBGA225 > ref-packages : MBGA225
 
 - ID: FOOTPRINT-eagle-eagle-default-ref-packages-MBGA225
-- Hex ID: FZEREFPACKAGESMBGA225
+- Hex ID: FZEREFPSMBGA225
 - Name: ref-packages : MBGA225
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ref-packages/MBGA225/
 - Description: ref-packages : MBGA225
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-MBGA225](http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-MBGA225)
-- Short Link: [http://oom.lt/FZEREFPACKAGESMBGA225](http://oom.lt/FZEREFPACKAGESMBGA225)
+- Short Link: [http://oom.lt/FZEREFPSMBGA225](http://oom.lt/FZEREFPSMBGA225)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|ref-packages|
 |OOMP Index|oompIndex|MBGA225|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-ref-packages-MBGA225|
-|Hex ID (short code)|hexID|FZEREFPACKAGESMBGA225|
+|Hex ID (short code)|hexID|FZEREFPSMBGA225|
 |name|name|ref-packages : MBGA225|
 ||||

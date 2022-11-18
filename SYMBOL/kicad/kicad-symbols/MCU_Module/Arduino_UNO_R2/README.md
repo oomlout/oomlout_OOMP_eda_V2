@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Module-Arduino_UNO_R2
 - Hex ID: SZKMCUMOARDUNOR2
 - Name: MCU_Module : Arduino_UNO_R2
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Module/Arduino_UNO_R2/
 - Description: MCU_Module : Arduino_UNO_R2
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Module-Arduino_UNO_R2](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Module-Arduino_UNO_R2)
 - Short Link: [http://oom.lt/SZKMCUMOARDUNOR2](http://oom.lt/SZKMCUMOARDUNOR2)

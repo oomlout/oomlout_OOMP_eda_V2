@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Power-SOT25
 - Hex ID: FZSIPSOT25
 - Name: SparkFun-IC-Power : SOT25
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-IC-Power/SOT25/
 - Description: SparkFun-IC-Power : SOT25
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Power-SOT25](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Power-SOT25)
 - Short Link: [http://oom.lt/FZSIPSOT25](http://oom.lt/FZSIPSOT25)

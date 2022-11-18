@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-vg-F160FR
 - Hex ID: FZECONVGF16FR
 - Name: con-vg : F160FR
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-vg/F160FR/
 - Description: con-vg : F160FR
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-vg-F160FR](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-vg-F160FR)
 - Short Link: [http://oom.lt/FZECONVGF16FR](http://oom.lt/FZECONVGF16FR)

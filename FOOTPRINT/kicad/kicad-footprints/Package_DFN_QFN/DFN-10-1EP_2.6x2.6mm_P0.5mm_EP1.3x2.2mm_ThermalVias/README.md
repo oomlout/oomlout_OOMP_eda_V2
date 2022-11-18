@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKDFNDFN11EP26X26P5EP13X22THERMALVIAS > Package_DFN_QFN : DFN-10-1EP_2.6x2.6mm_P0.5mm_EP1.3x2.2mm_ThermalVias](#fzkdfndfn11ep26x26p5ep13x22thermalvias--package_dfn_qfn--dfn-10-1ep_26x26mm_p05mm_ep13x22mm_thermalvias)
+* [FZKDFNDFN11EP26X26P5EP13X22THV > Package_DFN_QFN : DFN-10-1EP_2.6x2.6mm_P0.5mm_EP1.3x2.2mm_ThermalVias](#fzkdfndfn11ep26x26p5ep13x22thv--package_dfn_qfn--dfn-10-1ep_26x26mm_p05mm_ep13x22mm_thermalvias)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKDFNDFN11EP26X26P5EP13X22THERMALVIAS > Package_DFN_QFN : DFN-10-1EP_2.6x2.6mm_P0.5mm_EP1.3x2.2mm_ThermalVias
+# FZKDFNDFN11EP26X26P5EP13X22THV > Package_DFN_QFN : DFN-10-1EP_2.6x2.6mm_P0.5mm_EP1.3x2.2mm_ThermalVias
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-DFN-10-1EP_2.6x2.6mm_P0.5mm_EP1.3x2.2mm_ThermalVias
-- Hex ID: FZKDFNDFN11EP26X26P5EP13X22THERMALVIAS
+- Hex ID: FZKDFNDFN11EP26X26P5EP13X22THV
 - Name: Package_DFN_QFN : DFN-10-1EP_2.6x2.6mm_P0.5mm_EP1.3x2.2mm_ThermalVias
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/DFN-10-1EP_2.6x2.6mm_P0.5mm_EP1.3x2.2mm_ThermalVias/
 - Description: Package_DFN_QFN : DFN-10-1EP_2.6x2.6mm_P0.5mm_EP1.3x2.2mm_ThermalVias
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-DFN-10-1EP_2.6x2.6mm_P0.5mm_EP1.3x2.2mm_ThermalVias](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-DFN-10-1EP_2.6x2.6mm_P0.5mm_EP1.3x2.2mm_ThermalVias)
-- Short Link: [http://oom.lt/FZKDFNDFN11EP26X26P5EP13X22THERMALVIAS](http://oom.lt/FZKDFNDFN11EP26X26P5EP13X22THERMALVIAS)
+- Short Link: [http://oom.lt/FZKDFNDFN11EP26X26P5EP13X22THV](http://oom.lt/FZKDFNDFN11EP26X26P5EP13X22THV)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Package_DFN_QFN|
 |OOMP Index|oompIndex|DFN-10-1EP_2.6x2.6mm_P0.5mm_EP1.3x2.2mm_ThermalVias|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-DFN-10-1EP_2.6x2.6mm_P0.5mm_EP1.3x2.2mm_ThermalVias|
-|Hex ID (short code)|hexID|FZKDFNDFN11EP26X26P5EP13X22THERMALVIAS|
+|Hex ID (short code)|hexID|FZKDFNDFN11EP26X26P5EP13X22THV|
 |name|name|Package_DFN_QFN : DFN-10-1EP_2.6x2.6mm_P0.5mm_EP1.3x2.2mm_ThermalVias|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'DFN-10-1EP_2.6x2.6mm_P0.5mm_EP1.3x2.2mm_ThermalVias'</td><td> 'description'</td></tr><tr><td> 'DFN</td><td> 10 Pin (https</td></tr><tr><td>//www.nxp.com/docs/en/data-sheet/PCF85063A.pdf#page=48)</td><td> generated with kicad-footprint-generator ipc_noLead_generator.py'</td><td> 'tags'</td></tr><tr><td> 'DFN NoLead'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_DFN_QFN.3dshapes/DFN-10-1EP_2.6x2.6mm_P0.5mm_EP1.3x2.2mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||

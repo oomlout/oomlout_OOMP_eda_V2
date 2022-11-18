@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Device-L_Iron_Coupled
 - Hex ID: SZKDEVICELIRONCOUPL
 - Name: Device : L_Iron_Coupled
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/L_Iron_Coupled/
 - Description: Device : L_Iron_Coupled
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-L_Iron_Coupled](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-L_Iron_Coupled)
 - Short Link: [http://oom.lt/SZKDEVICELIRONCOUPL](http://oom.lt/SZKDEVICELIRONCOUPL)

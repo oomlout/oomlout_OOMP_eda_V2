@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-frames-FRAME_D_L
 - Hex ID: FZEFRAMESFRAMEDL
 - Name: frames : FRAME_D_L
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/frames/FRAME_D_L/
 - Description: frames : FRAME_D_L
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-frames-FRAME_D_L](http://oom.lt/FOOTPRINT-eagle-eagle-default-frames-FRAME_D_L)
 - Short Link: [http://oom.lt/FZEFRAMESFRAMEDL](http://oom.lt/FZEFRAMESFRAMEDL)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-JSTXH-X-PI06-01-HXH6
 - Hex ID: SZOOMPKOOMPPHEADJSTXHXPI61HXH6
 - Name: oomlout_OOMP_parts : HEAD-JSTXH-X-PI06-01-HXH6
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/HEAD-JSTXH-X-PI06-01-HXH6/
 - Description: oomlout_OOMP_parts : HEAD-JSTXH-X-PI06-01-HXH6
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-JSTXH-X-PI06-01-HXH6](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-JSTXH-X-PI06-01-HXH6)
 - Short Link: [http://oom.lt/SZOOMPKOOMPPHEADJSTXHXPI61HXH6](http://oom.lt/SZOOMPKOOMPPHEADJSTXHXPI61HXH6)

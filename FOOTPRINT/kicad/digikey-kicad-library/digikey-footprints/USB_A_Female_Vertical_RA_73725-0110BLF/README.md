@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-USB_A_Female_Vertical_RA_73725-0110BLF
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSUAFFRA7372511BLF
 - Name: digikey-footprints : USB_A_Female_Vertical_RA_73725-0110BLF
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/USB_A_Female_Vertical_RA_73725-0110BLF/
 - Description: digikey-footprints : USB_A_Female_Vertical_RA_73725-0110BLF
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-USB_A_Female_Vertical_RA_73725-0110BLF](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-USB_A_Female_Vertical_RA_73725-0110BLF)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSUAFFRA7372511BLF](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSUAFFRA7372511BLF)

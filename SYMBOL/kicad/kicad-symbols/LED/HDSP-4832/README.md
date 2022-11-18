@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-LED-HDSP-4832
 - Hex ID: SZKLHDSP4832
 - Name: LED : HDSP-4832
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/LED/HDSP-4832/
 - Description: LED : HDSP-4832
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-LED-HDSP-4832](http://oom.lt/SYMBOL-kicad-kicad-symbols-LED-HDSP-4832)
 - Short Link: [http://oom.lt/SZKLHDSP4832](http://oom.lt/SZKLHDSP4832)

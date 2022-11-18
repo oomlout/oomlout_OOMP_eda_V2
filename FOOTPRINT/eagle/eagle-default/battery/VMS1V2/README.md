@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-battery-VMS1V2
 - Hex ID: FZEBATVMS1V2
 - Name: battery : VMS1V2
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/battery/VMS1V2/
 - Description: battery : VMS1V2
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-battery-VMS1V2](http://oom.lt/FOOTPRINT-eagle-eagle-default-battery-VMS1V2)
 - Short Link: [http://oom.lt/FZEBATVMS1V2](http://oom.lt/FZEBATVMS1V2)

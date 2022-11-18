@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-ml-ML64
 - Hex ID: FZECONMLML64
 - Name: con-ml : ML64
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-ml/ML64/
 - Description: con-ml : ML64
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-ml-ML64](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-ml-ML64)
 - Short Link: [http://oom.lt/FZECONMLML64](http://oom.lt/FZECONMLML64)

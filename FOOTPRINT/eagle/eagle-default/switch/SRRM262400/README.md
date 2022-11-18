@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-switch-SRRM262400
 - Hex ID: FZESWSRRM2624
 - Name: switch : SRRM262400
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/switch/SRRM262400/
 - Description: switch : SRRM262400
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-SRRM262400](http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-SRRM262400)
 - Short Link: [http://oom.lt/FZESWSRRM2624](http://oom.lt/FZESWSRRM2624)

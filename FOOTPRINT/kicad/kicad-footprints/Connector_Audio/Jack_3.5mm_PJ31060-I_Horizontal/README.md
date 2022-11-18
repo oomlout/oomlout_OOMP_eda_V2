@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_Audio-Jack_3.5mm_PJ31060-I_Horizontal
 - Hex ID: FZKCNAUDIOJ35PJ316IH
 - Name: Connector_Audio : Jack_3.5mm_PJ31060-I_Horizontal
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Audio/Jack_3.5mm_PJ31060-I_Horizontal/
 - Description: Connector_Audio : Jack_3.5mm_PJ31060-I_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Audio-Jack_3.5mm_PJ31060-I_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Audio-Jack_3.5mm_PJ31060-I_Horizontal)
 - Short Link: [http://oom.lt/FZKCNAUDIOJ35PJ316IH](http://oom.lt/FZKCNAUDIOJ35PJ316IH)

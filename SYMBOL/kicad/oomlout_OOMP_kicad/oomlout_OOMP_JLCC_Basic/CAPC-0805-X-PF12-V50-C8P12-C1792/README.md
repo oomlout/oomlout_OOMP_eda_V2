@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0805-X-PF12-V50-C8P12-C1792
 - Hex ID: SZOOMPKJLCCAPC85XPF12V5C8P12C1792
 - Name: oomlout_OOMP_JLCC_Basic : CAPC-0805-X-PF12-V50-C8P12-C1792
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_JLCC_Basic/CAPC-0805-X-PF12-V50-C8P12-C1792/
 - Description: oomlout_OOMP_JLCC_Basic : CAPC-0805-X-PF12-V50-C8P12-C1792
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0805-X-PF12-V50-C8P12-C1792](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0805-X-PF12-V50-C8P12-C1792)
 - Short Link: [http://oom.lt/SZOOMPKJLCCAPC85XPF12V5C8P12C1792](http://oom.lt/SZOOMPKJLCCAPC85XPF12V5C8P12C1792)

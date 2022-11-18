@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-MicroMod-M.2-CARD-E-22
 - Hex ID: FZS2CARDE22
 - Name: SparkFun-MicroMod : M.2-CARD-E-22
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-MicroMod/M.2-CARD-E-22/
 - Description: SparkFun-MicroMod : M.2-CARD-E-22
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-MicroMod-M.2-CARD-E-22](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-MicroMod-M.2-CARD-E-22)
 - Short Link: [http://oom.lt/FZS2CARDE22](http://oom.lt/FZS2CARDE22)

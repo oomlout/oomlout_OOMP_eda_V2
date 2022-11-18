@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O505-01-R6O505
 - Hex ID: FZOOMPKOOMPPRESE63XO551R6O55
 - Name: oomlout_OOMP_parts : RESE-0603-X-O505-01-R6O505
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/RESE-0603-X-O505-01-R6O505/
 - Description: oomlout_OOMP_parts : RESE-0603-X-O505-01-R6O505
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O505-01-R6O505](http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O505-01-R6O505)
 - Short Link: [http://oom.lt/FZOOMPKOOMPPRESE63XO551R6O55](http://oom.lt/FZOOMPKOOMPPRESE63XO551R6O55)

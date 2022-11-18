@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-relay-REED
 - Hex ID: FZERELAYREED
 - Name: relay : REED
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/relay/REED/
 - Description: relay : REED
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-REED](http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-REED)
 - Short Link: [http://oom.lt/FZERELAYREED](http://oom.lt/FZERELAYREED)

@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKDDSOD323HANDSOLDERING > Diode_SMD : D_SOD-323_HandSoldering](#fzkddsod323handsoldering--diode_smd--d_sod-323_handsoldering)
+* [FZKDDSOD323HS > Diode_SMD : D_SOD-323_HandSoldering](#fzkddsod323hs--diode_smd--d_sod-323_handsoldering)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKDDSOD323HANDSOLDERING > Diode_SMD : D_SOD-323_HandSoldering
+# FZKDDSOD323HS > Diode_SMD : D_SOD-323_HandSoldering
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_SOD-323_HandSoldering
-- Hex ID: FZKDDSOD323HANDSOLDERING
+- Hex ID: FZKDDSOD323HS
 - Name: Diode_SMD : D_SOD-323_HandSoldering
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Diode_SMD/D_SOD-323_HandSoldering/
 - Description: Diode_SMD : D_SOD-323_HandSoldering
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_SOD-323_HandSoldering](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_SOD-323_HandSoldering)
-- Short Link: [http://oom.lt/FZKDDSOD323HANDSOLDERING](http://oom.lt/FZKDDSOD323HANDSOLDERING)
+- Short Link: [http://oom.lt/FZKDDSOD323HS](http://oom.lt/FZKDDSOD323HS)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Diode_SMD|
 |OOMP Index|oompIndex|D_SOD-323_HandSoldering|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_SOD-323_HandSoldering|
-|Hex ID (short code)|hexID|FZKDDSOD323HANDSOLDERING|
+|Hex ID (short code)|hexID|FZKDDSOD323HS|
 |name|name|Diode_SMD : D_SOD-323_HandSoldering|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'D_SOD-323_HandSoldering'</td><td> 'description'</td></tr><tr><td> 'SOD-323'</td><td> 'tags'</td></tr><tr><td> 'SOD-323'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Diode_SMD.3dshapes/D_SOD-323.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

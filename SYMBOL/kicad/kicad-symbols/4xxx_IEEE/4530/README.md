@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-4xxx_IEEE-4530
 - Hex ID: SZK4XXXIEEE453
 - Name: 4xxx_IEEE : 4530
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/4xxx_IEEE/4530/
 - Description: 4xxx_IEEE : 4530
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-4xxx_IEEE-4530](http://oom.lt/SYMBOL-kicad-kicad-symbols-4xxx_IEEE-4530)
 - Short Link: [http://oom.lt/SZK4XXXIEEE453](http://oom.lt/SZK4XXXIEEE453)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode_Bridge-DF06M
 - Hex ID: SZKDIODEBRIDGEDF6M
 - Name: Diode_Bridge : DF06M
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode_Bridge/DF06M/
 - Description: Diode_Bridge : DF06M
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode_Bridge-DF06M](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode_Bridge-DF06M)
 - Short Link: [http://oom.lt/SZKDIODEBRIDGEDF6M](http://oom.lt/SZKDIODEBRIDGEDF6M)

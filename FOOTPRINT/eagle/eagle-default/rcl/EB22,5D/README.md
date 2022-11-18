@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-rcl-EB22,5D
 - Hex ID: FZERCLEB225D
 - Name: rcl : EB22,5D
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/rcl/EB22,5D/
 - Description: rcl : EB22,5D
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-EB22,5D](http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-EB22,5D)
 - Short Link: [http://oom.lt/FZERCLEB225D](http://oom.lt/FZERCLEB225D)

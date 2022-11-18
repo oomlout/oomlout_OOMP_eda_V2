@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-memory-idt-SO18-1
 - Hex ID: FZEMEMORYIDTSO181
 - Name: memory-idt : SO18-1
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/memory-idt/SO18-1/
 - Description: memory-idt : SO18-1
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-memory-idt-SO18-1](http://oom.lt/FOOTPRINT-eagle-eagle-default-memory-idt-SO18-1)
 - Short Link: [http://oom.lt/FZEMEMORYIDTSO181](http://oom.lt/FZEMEMORYIDTSO181)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Reference_Voltage-LT1019xN8
 - Hex ID: SZKREFERENCEVOLTAGELT119XN8
 - Name: Reference_Voltage : LT1019xN8
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Reference_Voltage/LT1019xN8/
 - Description: Reference_Voltage : LT1019xN8
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Voltage-LT1019xN8](http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Voltage-LT1019xN8)
 - Short Link: [http://oom.lt/SZKREFERENCEVOLTAGELT119XN8](http://oom.lt/SZKREFERENCEVOLTAGELT119XN8)

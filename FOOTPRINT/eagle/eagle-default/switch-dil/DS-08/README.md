@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-switch-dil-DS-08
 - Hex ID: FZESWDILDS8
 - Name: switch-dil : DS-08
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/switch-dil/DS-08/
 - Description: switch-dil : DS-08
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-dil-DS-08](http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-dil-DS-08)
 - Short Link: [http://oom.lt/FZESWDILDS8](http://oom.lt/FZESWDILDS8)

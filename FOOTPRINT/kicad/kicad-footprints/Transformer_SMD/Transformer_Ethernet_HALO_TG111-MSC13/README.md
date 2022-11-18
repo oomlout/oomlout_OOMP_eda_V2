@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Transformer_SMD-Transformer_Ethernet_HALO_TG111-MSC13
 - Hex ID: FZKTRTRETHERNETHALOTG111MSC13
 - Name: Transformer_SMD : Transformer_Ethernet_HALO_TG111-MSC13
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Transformer_SMD/Transformer_Ethernet_HALO_TG111-MSC13/
 - Description: Transformer_SMD : Transformer_Ethernet_HALO_TG111-MSC13
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Transformer_SMD-Transformer_Ethernet_HALO_TG111-MSC13](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Transformer_SMD-Transformer_Ethernet_HALO_TG111-MSC13)
 - Short Link: [http://oom.lt/FZKTRTRETHERNETHALOTG111MSC13](http://oom.lt/FZKTRTRETHERNETHALOTG111MSC13)

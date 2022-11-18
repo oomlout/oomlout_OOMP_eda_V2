@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-1X08_FEMALE_LOCK
 - Hex ID: FZSSPARKFUNCNS1X8FL
 - Name: SparkFun-Connectors : 1X08_FEMALE_LOCK
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Connectors/1X08_FEMALE_LOCK/
 - Description: SparkFun-Connectors : 1X08_FEMALE_LOCK
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-1X08_FEMALE_LOCK](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-1X08_FEMALE_LOCK)
 - Short Link: [http://oom.lt/FZSSPARKFUNCNS1X8FL](http://oom.lt/FZSSPARKFUNCNS1X8FL)

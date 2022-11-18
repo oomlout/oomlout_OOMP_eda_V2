@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Oscillator-Oscillator_SMD_SI570_SI571_Standard
 - Hex ID: FZKOCSOCSSMSI57SI571STANDARD
 - Name: Oscillator : Oscillator_SMD_SI570_SI571_Standard
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Oscillator/Oscillator_SMD_SI570_SI571_Standard/
 - Description: Oscillator : Oscillator_SMD_SI570_SI571_Standard
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Oscillator-Oscillator_SMD_SI570_SI571_Standard](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Oscillator-Oscillator_SMD_SI570_SI571_Standard)
 - Short Link: [http://oom.lt/FZKOCSOCSSMSI57SI571STANDARD](http://oom.lt/FZKOCSOCSSMSI57SI571STANDARD)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Analog_DAC-AD7533LN
 - Hex ID: SZKANALOGDACAD7533LN
 - Name: Analog_DAC : AD7533LN
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog_DAC/AD7533LN/
 - Description: Analog_DAC : AD7533LN
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_DAC-AD7533LN](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_DAC-AD7533LN)
 - Short Link: [http://oom.lt/SZKANALOGDACAD7533LN](http://oom.lt/SZKANALOGDACAD7533LN)

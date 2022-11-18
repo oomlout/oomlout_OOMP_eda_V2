@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-PS12
 - Hex ID: FZAPS12
 - Name: adafruit : PS12
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/PS12/
 - Description: adafruit : PS12
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-PS12](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-PS12)
 - Short Link: [http://oom.lt/FZAPS12](http://oom.lt/FZAPS12)

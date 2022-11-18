@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-GPS-UBLOX_ZOE_M8-0-10
 - Hex ID: FZSGUBLOXZOEM81
 - Name: SparkFun-GPS : UBLOX_ZOE_M8-0-10
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-GPS/UBLOX_ZOE_M8-0-10/
 - Description: SparkFun-GPS : UBLOX_ZOE_M8-0-10
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-GPS-UBLOX_ZOE_M8-0-10](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-GPS-UBLOX_ZOE_M8-0-10)
 - Short Link: [http://oom.lt/FZSGUBLOXZOEM81](http://oom.lt/FZSGUBLOXZOEM81)

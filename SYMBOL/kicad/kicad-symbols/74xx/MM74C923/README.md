@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-74xx-MM74C923
 - Hex ID: SZK74XX74C923
 - Name: 74xx : MM74C923
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/74xx/MM74C923/
 - Description: 74xx : MM74C923
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-74xx-MM74C923](http://oom.lt/SYMBOL-kicad-kicad-symbols-74xx-MM74C923)
 - Short Link: [http://oom.lt/SZK74XX74C923](http://oom.lt/SZK74XX74C923)

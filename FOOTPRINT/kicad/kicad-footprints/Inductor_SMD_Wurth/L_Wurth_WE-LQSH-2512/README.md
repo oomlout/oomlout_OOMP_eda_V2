@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_SMD_Wurth-L_Wurth_WE-LQSH-2512
 - Hex ID: FZKINWURTHLWURTHWELQSH2512
 - Name: Inductor_SMD_Wurth : L_Wurth_WE-LQSH-2512
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD_Wurth/L_Wurth_WE-LQSH-2512/
 - Description: Inductor_SMD_Wurth : L_Wurth_WE-LQSH-2512
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD_Wurth-L_Wurth_WE-LQSH-2512](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD_Wurth-L_Wurth_WE-LQSH-2512)
 - Short Link: [http://oom.lt/FZKINWURTHLWURTHWELQSH2512](http://oom.lt/FZKINWURTHLWURTHWELQSH2512)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-cpci-044458
 - Hex ID: FZECONCPCI44458
 - Name: con-cpci : 044458
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-cpci/044458/
 - Description: con-cpci : 044458
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-cpci-044458](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-cpci-044458)
 - Short Link: [http://oom.lt/FZECONCPCI44458](http://oom.lt/FZECONCPCI44458)

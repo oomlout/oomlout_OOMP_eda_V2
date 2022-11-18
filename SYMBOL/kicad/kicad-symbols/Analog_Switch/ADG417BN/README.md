@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Analog_Switch-ADG417BN
 - Hex ID: SZKANALOGSWADG417BN
 - Name: Analog_Switch : ADG417BN
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog_Switch/ADG417BN/
 - Description: Analog_Switch : ADG417BN
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_Switch-ADG417BN](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_Switch-ADG417BN)
 - Short Link: [http://oom.lt/SZKANALOGSWADG417BN](http://oom.lt/SZKANALOGSWADG417BN)

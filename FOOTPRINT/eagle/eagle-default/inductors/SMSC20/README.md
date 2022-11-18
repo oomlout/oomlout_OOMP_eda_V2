@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEINDUCTORSSMSC2 > inductors : SMSC20](#fzeinductorssmsc2--inductors--smsc20)
+* [FZEINSSMSC2 > inductors : SMSC20](#fzeinssmsc2--inductors--smsc20)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEINDUCTORSSMSC2 > inductors : SMSC20
+# FZEINSSMSC2 > inductors : SMSC20
 
 - ID: FOOTPRINT-eagle-eagle-default-inductors-SMSC20
-- Hex ID: FZEINDUCTORSSMSC2
+- Hex ID: FZEINSSMSC2
 - Name: inductors : SMSC20
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/inductors/SMSC20/
 - Description: inductors : SMSC20
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-inductors-SMSC20](http://oom.lt/FOOTPRINT-eagle-eagle-default-inductors-SMSC20)
-- Short Link: [http://oom.lt/FZEINDUCTORSSMSC2](http://oom.lt/FZEINDUCTORSSMSC2)
+- Short Link: [http://oom.lt/FZEINSSMSC2](http://oom.lt/FZEINSSMSC2)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|inductors|
 |OOMP Index|oompIndex|SMSC20|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-inductors-SMSC20|
-|Hex ID (short code)|hexID|FZEINDUCTORSSMSC2|
+|Hex ID (short code)|hexID|FZEINSSMSC2|
 |name|name|inductors : SMSC20|
 ||||

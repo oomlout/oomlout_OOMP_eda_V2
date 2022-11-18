@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-resistor-power-MPC70-2
 - Hex ID: FZERESISTORPOWERMPC72
 - Name: resistor-power : MPC70-2
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/resistor-power/MPC70-2/
 - Description: resistor-power : MPC70-2
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-resistor-power-MPC70-2](http://oom.lt/FOOTPRINT-eagle-eagle-default-resistor-power-MPC70-2)
 - Short Link: [http://oom.lt/FZERESISTORPOWERMPC72](http://oom.lt/FZERESISTORPOWERMPC72)

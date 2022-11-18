@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_Telecom-HT9170D
 - Hex ID: SZKINTERFACETELECOMHT917D
 - Name: Interface_Telecom : HT9170D
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_Telecom/HT9170D/
 - Description: Interface_Telecom : HT9170D
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Telecom-HT9170D](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Telecom-HT9170D)
 - Short Link: [http://oom.lt/SZKINTERFACETELECOMHT917D](http://oom.lt/SZKINTERFACETELECOMHT917D)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-crystal-geyer_V1_0-8.2X3.8
 - Hex ID: FZEXGEYERV182X38
 - Name: crystal-geyer_V1_0 : 8.2X3.8
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/crystal-geyer_V1_0/8.2X3.8/
 - Description: crystal-geyer_V1_0 : 8.2X3.8
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-crystal-geyer_V1_0-8.2X3.8](http://oom.lt/FOOTPRINT-eagle-eagle-default-crystal-geyer_V1_0-8.2X3.8)
 - Short Link: [http://oom.lt/FZEXGEYERV182X38](http://oom.lt/FZEXGEYERV182X38)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-switch-misc-RF15L2
 - Hex ID: FZESWMISCRF15L2
 - Name: switch-misc : RF15L2
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/switch-misc/RF15L2/
 - Description: switch-misc : RF15L2
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-misc-RF15L2](http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-misc-RF15L2)
 - Short Link: [http://oom.lt/FZESWMISCRF15L2](http://oom.lt/FZESWMISCRF15L2)

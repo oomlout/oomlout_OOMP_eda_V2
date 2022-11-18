@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-JSTSH-X-PI02-SM-HSH2
 - Hex ID: FZOOMPKOOMPPHEADJSTSHXPI2SMHSH2
 - Name: oomlout_OOMP_parts : HEAD-JSTSH-X-PI02-SM-HSH2
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/HEAD-JSTSH-X-PI02-SM-HSH2/
 - Description: oomlout_OOMP_parts : HEAD-JSTSH-X-PI02-SM-HSH2
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-JSTSH-X-PI02-SM-HSH2](http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-JSTSH-X-PI02-SM-HSH2)
 - Short Link: [http://oom.lt/FZOOMPKOOMPPHEADJSTSHXPI2SMHSH2](http://oom.lt/FZOOMPKOOMPPHEADJSTSHXPI2SMHSH2)

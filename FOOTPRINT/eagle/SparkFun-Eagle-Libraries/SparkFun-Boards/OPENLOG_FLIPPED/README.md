@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Boards-OPENLOG_FLIPPED
 - Hex ID: FZSBOOPENLOGFLIPPED
 - Name: SparkFun-Boards : OPENLOG_FLIPPED
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Boards/OPENLOG_FLIPPED/
 - Description: SparkFun-Boards : OPENLOG_FLIPPED
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Boards-OPENLOG_FLIPPED](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Boards-OPENLOG_FLIPPED)
 - Short Link: [http://oom.lt/FZSBOOPENLOGFLIPPED](http://oom.lt/FZSBOOPENLOGFLIPPED)

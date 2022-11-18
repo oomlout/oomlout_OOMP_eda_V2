@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-SIPAK_Vertical
 - Hex ID: FZKSOTSIPAKF
 - Name: Package_TO_SOT_THT : SIPAK_Vertical
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_THT/SIPAK_Vertical/
 - Description: Package_TO_SOT_THT : SIPAK_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-SIPAK_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-SIPAK_Vertical)
 - Short Link: [http://oom.lt/FZKSOTSIPAKF](http://oom.lt/FZKSOTSIPAKF)

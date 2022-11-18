@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_CAN_LIN-TJA1052i-2
 - Hex ID: SZKINTERFACECANLINTJA152I2
 - Name: Interface_CAN_LIN : TJA1052i-2
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_CAN_LIN/TJA1052i-2/
 - Description: Interface_CAN_LIN : TJA1052i-2
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_CAN_LIN-TJA1052i-2](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_CAN_LIN-TJA1052i-2)
 - Short Link: [http://oom.lt/SZKINTERFACECANLINTJA152I2](http://oom.lt/SZKINTERFACECANLINTJA152I2)

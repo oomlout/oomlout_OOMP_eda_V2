@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_ST_STM32L4-STM32L432KBUx
 - Hex ID: SZKMCUSTSTM32L4STM32L432KBUX
 - Name: MCU_ST_STM32L4 : STM32L432KBUx
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32L4/STM32L432KBUx/
 - Description: MCU_ST_STM32L4 : STM32L432KBUx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32L4-STM32L432KBUx](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32L4-STM32L432KBUx)
 - Short Link: [http://oom.lt/SZKMCUSTSTM32L4STM32L432KBUX](http://oom.lt/SZKMCUSTSTM32L4STM32L432KBUX)

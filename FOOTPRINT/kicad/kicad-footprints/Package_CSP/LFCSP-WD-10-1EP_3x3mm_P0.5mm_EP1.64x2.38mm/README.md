@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_CSP-LFCSP-WD-10-1EP_3x3mm_P0.5mm_EP1.64x2.38mm
 - Hex ID: FZKCSPLFCSPWD11EP3X3P5EP164X238
 - Name: Package_CSP : LFCSP-WD-10-1EP_3x3mm_P0.5mm_EP1.64x2.38mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_CSP/LFCSP-WD-10-1EP_3x3mm_P0.5mm_EP1.64x2.38mm/
 - Description: Package_CSP : LFCSP-WD-10-1EP_3x3mm_P0.5mm_EP1.64x2.38mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_CSP-LFCSP-WD-10-1EP_3x3mm_P0.5mm_EP1.64x2.38mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_CSP-LFCSP-WD-10-1EP_3x3mm_P0.5mm_EP1.64x2.38mm)
 - Short Link: [http://oom.lt/FZKCSPLFCSPWD11EP3X3P5EP164X238](http://oom.lt/FZKCSPLFCSPWD11EP3X3P5EP164X238)

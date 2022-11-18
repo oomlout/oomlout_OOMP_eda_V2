@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_SO-TSSOP-44_6.1x11mm_P0.5mm
 - Hex ID: FZKSOTSS4461X11P5
 - Name: Package_SO : TSSOP-44_6.1x11mm_P0.5mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SO/TSSOP-44_6.1x11mm_P0.5mm/
 - Description: Package_SO : TSSOP-44_6.1x11mm_P0.5mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SO-TSSOP-44_6.1x11mm_P0.5mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SO-TSSOP-44_6.1x11mm_P0.5mm)
 - Short Link: [http://oom.lt/FZKSOTSS4461X11P5](http://oom.lt/FZKSOTSS4461X11P5)

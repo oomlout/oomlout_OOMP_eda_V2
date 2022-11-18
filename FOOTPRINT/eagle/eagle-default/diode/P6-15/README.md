@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-diode-P6-15
 - Hex ID: FZEDIODEP615
 - Name: diode : P6-15
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/diode/P6-15/
 - Description: diode : P6-15
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-diode-P6-15](http://oom.lt/FOOTPRINT-eagle-eagle-default-diode-P6-15)
 - Short Link: [http://oom.lt/FZEDIODEP615](http://oom.lt/FZEDIODEP615)

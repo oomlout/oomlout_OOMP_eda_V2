@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SOT-553
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSSOT553
 - Name: digikey-footprints : SOT-553
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/SOT-553/
 - Description: digikey-footprints : SOT-553
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SOT-553](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SOT-553)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSSOT553](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSSOT553)

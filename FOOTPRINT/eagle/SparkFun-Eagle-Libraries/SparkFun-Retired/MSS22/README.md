@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-MSS22
 - Hex ID: FZSRTMSS22
 - Name: SparkFun-Retired : MSS22
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Retired/MSS22/
 - Description: SparkFun-Retired : MSS22
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-MSS22](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-MSS22)
 - Short Link: [http://oom.lt/FZSRTMSS22](http://oom.lt/FZSRTMSS22)

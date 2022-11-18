@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-special-SK-95
 - Hex ID: FZESPECIALSK95
 - Name: special : SK-95
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/special/SK-95/
 - Description: special : SK-95
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-special-SK-95](http://oom.lt/FOOTPRINT-eagle-eagle-default-special-SK-95)
 - Short Link: [http://oom.lt/FZESPECIALSK95](http://oom.lt/FZESPECIALSK95)

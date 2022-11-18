@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Device-L_Coupled_Small_1342
 - Hex ID: SZKDEVICELCOUPLSLL1342
 - Name: Device : L_Coupled_Small_1342
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/L_Coupled_Small_1342/
 - Description: Device : L_Coupled_Small_1342
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-L_Coupled_Small_1342](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-L_Coupled_Small_1342)
 - Short Link: [http://oom.lt/SZKDEVICELCOUPLSLL1342](http://oom.lt/SZKDEVICELCOUPLSLL1342)

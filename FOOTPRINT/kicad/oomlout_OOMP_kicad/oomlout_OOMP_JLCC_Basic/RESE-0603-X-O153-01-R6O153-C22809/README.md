@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-RESE-0603-X-O153-01-R6O153-C22809
 - Hex ID: FZOOMPKJLCRESE63XO1531R6O153C2289
 - Name: oomlout_OOMP_JLCC_Basic : RESE-0603-X-O153-01-R6O153-C22809
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_JLCC_Basic/RESE-0603-X-O153-01-R6O153-C22809/
 - Description: oomlout_OOMP_JLCC_Basic : RESE-0603-X-O153-01-R6O153-C22809
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-RESE-0603-X-O153-01-R6O153-C22809](http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-RESE-0603-X-O153-01-R6O153-C22809)
 - Short Link: [http://oom.lt/FZOOMPKJLCRESE63XO1531R6O153C2289](http://oom.lt/FZOOMPKJLCRESE63XO1531R6O153C2289)

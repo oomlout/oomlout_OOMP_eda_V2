@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Device-RFShield_TwoPieces
 - Hex ID: SZKDEVICERFSHTWOPIECES
 - Name: Device : RFShield_TwoPieces
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/RFShield_TwoPieces/
 - Description: Device : RFShield_TwoPieces
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-RFShield_TwoPieces](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-RFShield_TwoPieces)
 - Short Link: [http://oom.lt/SZKDEVICERFSHTWOPIECES](http://oom.lt/SZKDEVICERFSHTWOPIECES)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-optocoupler-SMD4-7
 - Hex ID: FZEOPTOCOUPLERSM47
 - Name: optocoupler : SMD4-7
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/optocoupler/SMD4-7/
 - Description: optocoupler : SMD4-7
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-optocoupler-SMD4-7](http://oom.lt/FOOTPRINT-eagle-eagle-default-optocoupler-SMD4-7)
 - Short Link: [http://oom.lt/FZEOPTOCOUPLERSM47](http://oom.lt/FZEOPTOCOUPLERSM47)

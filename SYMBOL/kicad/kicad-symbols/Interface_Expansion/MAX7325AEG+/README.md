@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_Expansion-MAX7325AEG+
 - Hex ID: SZKINTERFACEEXPANSIONMAX7325AEG+
 - Name: Interface_Expansion : MAX7325AEG+
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_Expansion/MAX7325AEG+/
 - Description: Interface_Expansion : MAX7325AEG+
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Expansion-MAX7325AEG+](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Expansion-MAX7325AEG+)
 - Short Link: [http://oom.lt/SZKINTERFACEEXPANSIONMAX7325AEG+](http://oom.lt/SZKINTERFACEEXPANSIONMAX7325AEG+)

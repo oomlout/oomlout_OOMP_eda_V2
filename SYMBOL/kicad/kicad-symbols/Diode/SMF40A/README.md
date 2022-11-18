@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-SMF40A
 - Hex ID: SZKDIODESMF4A
 - Name: Diode : SMF40A
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/SMF40A/
 - Description: Diode : SMF40A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-SMF40A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-SMF40A)
 - Short Link: [http://oom.lt/SZKDIODESMF4A](http://oom.lt/SZKDIODESMF4A)

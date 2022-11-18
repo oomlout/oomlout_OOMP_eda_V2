@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Analog-LF398_SOIC8
 - Hex ID: SZKANALOGLF398SOIC8
 - Name: Analog : LF398_SOIC8
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog/LF398_SOIC8/
 - Description: Analog : LF398_SOIC8
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog-LF398_SOIC8](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog-LF398_SOIC8)
 - Short Link: [http://oom.lt/SZKANALOGLF398SOIC8](http://oom.lt/SZKANALOGLF398SOIC8)

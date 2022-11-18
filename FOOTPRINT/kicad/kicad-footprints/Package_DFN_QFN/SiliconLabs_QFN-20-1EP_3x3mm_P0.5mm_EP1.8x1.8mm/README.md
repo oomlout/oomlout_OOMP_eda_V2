@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-SiliconLabs_QFN-20-1EP_3x3mm_P0.5mm_EP1.8x1.8mm
 - Hex ID: FZKDFNSILICONLABSQFN21EP3X3P5EP18X18
 - Name: Package_DFN_QFN : SiliconLabs_QFN-20-1EP_3x3mm_P0.5mm_EP1.8x1.8mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/SiliconLabs_QFN-20-1EP_3x3mm_P0.5mm_EP1.8x1.8mm/
 - Description: Package_DFN_QFN : SiliconLabs_QFN-20-1EP_3x3mm_P0.5mm_EP1.8x1.8mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-SiliconLabs_QFN-20-1EP_3x3mm_P0.5mm_EP1.8x1.8mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-SiliconLabs_QFN-20-1EP_3x3mm_P0.5mm_EP1.8x1.8mm)
 - Short Link: [http://oom.lt/FZKDFNSILICONLABSQFN21EP3X3P5EP18X18](http://oom.lt/FZKDFNSILICONLABSQFN21EP3X3P5EP18X18)

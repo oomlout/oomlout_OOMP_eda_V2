@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Logic_LevelTranslator-TXB0108DQSR
 - Hex ID: SZKLOGICLEVELTRANSLATORTXB18DQSR
 - Name: Logic_LevelTranslator : TXB0108DQSR
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Logic_LevelTranslator/TXB0108DQSR/
 - Description: Logic_LevelTranslator : TXB0108DQSR
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Logic_LevelTranslator-TXB0108DQSR](http://oom.lt/SYMBOL-kicad-kicad-symbols-Logic_LevelTranslator-TXB0108DQSR)
 - Short Link: [http://oom.lt/SZKLOGICLEVELTRANSLATORTXB18DQSR](http://oom.lt/SZKLOGICLEVELTRANSLATORTXB18DQSR)

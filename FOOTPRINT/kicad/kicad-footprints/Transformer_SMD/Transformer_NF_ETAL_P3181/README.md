@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Transformer_SMD-Transformer_NF_ETAL_P3181
 - Hex ID: FZKTRTRNFETALP3181
 - Name: Transformer_SMD : Transformer_NF_ETAL_P3181
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Transformer_SMD/Transformer_NF_ETAL_P3181/
 - Description: Transformer_SMD : Transformer_NF_ETAL_P3181
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Transformer_SMD-Transformer_NF_ETAL_P3181](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Transformer_SMD-Transformer_NF_ETAL_P3181)
 - Short Link: [http://oom.lt/FZKTRTRNFETALP3181](http://oom.lt/FZKTRTRNFETALP3181)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Neosid_SM-PIC0512H
 - Hex ID: FZKINLNEOSIDSMPIC512H
 - Name: Inductor_SMD : L_Neosid_SM-PIC0512H
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Neosid_SM-PIC0512H/
 - Description: Inductor_SMD : L_Neosid_SM-PIC0512H
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Neosid_SM-PIC0512H](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Neosid_SM-PIC0512H)
 - Short Link: [http://oom.lt/FZKINLNEOSIDSMPIC512H](http://oom.lt/FZKINLNEOSIDSMPIC512H)

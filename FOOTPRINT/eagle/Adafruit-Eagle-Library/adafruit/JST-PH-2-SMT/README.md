@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-JST-PH-2-SMT
 - Hex ID: FZAJSTPH2S
 - Name: adafruit : JST-PH-2-SMT
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/JST-PH-2-SMT/
 - Description: adafruit : JST-PH-2-SMT
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-JST-PH-2-SMT](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-JST-PH-2-SMT)
 - Short Link: [http://oom.lt/FZAJSTPH2S](http://oom.lt/FZAJSTPH2S)

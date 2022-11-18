@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-micro-siemens-PDSO_36-12
 - Hex ID: FZEMSIEMENSPDSO3612
 - Name: micro-siemens : PDSO_36-12
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/micro-siemens/PDSO_36-12/
 - Description: micro-siemens : PDSO_36-12
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-siemens-PDSO_36-12](http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-siemens-PDSO_36-12)
 - Short Link: [http://oom.lt/FZEMSIEMENSPDSO3612](http://oom.lt/FZEMSIEMENSPDSO3612)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-RESE-0603-X-O124-01-R6O124-C25808
 - Hex ID: SZOOMPKJLCRESE63XO1241R6O124C2588
 - Name: oomlout_OOMP_JLCC_Basic : RESE-0603-X-O124-01-R6O124-C25808
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_JLCC_Basic/RESE-0603-X-O124-01-R6O124-C25808/
 - Description: oomlout_OOMP_JLCC_Basic : RESE-0603-X-O124-01-R6O124-C25808
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-RESE-0603-X-O124-01-R6O124-C25808](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-RESE-0603-X-O124-01-R6O124-C25808)
 - Short Link: [http://oom.lt/SZOOMPKJLCRESE63XO1241R6O124C2588](http://oom.lt/SZOOMPKJLCRESE63XO1241R6O124C2588)

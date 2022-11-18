@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-altera-BGA356
 - Hex ID: FZEALTERABGA356
 - Name: altera : BGA356
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/altera/BGA356/
 - Description: altera : BGA356
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-altera-BGA356](http://oom.lt/FOOTPRINT-eagle-eagle-default-altera-BGA356)
 - Short Link: [http://oom.lt/FZEALTERABGA356](http://oom.lt/FZEALTERABGA356)

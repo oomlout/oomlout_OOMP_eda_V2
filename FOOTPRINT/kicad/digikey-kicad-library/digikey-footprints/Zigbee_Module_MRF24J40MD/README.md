@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Zigbee_Module_MRF24J40MD
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSZIGBEEMOMRF24J4MD
 - Name: digikey-footprints : Zigbee_Module_MRF24J40MD
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Zigbee_Module_MRF24J40MD/
 - Description: digikey-footprints : Zigbee_Module_MRF24J40MD
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Zigbee_Module_MRF24J40MD](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Zigbee_Module_MRF24J40MD)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSZIGBEEMOMRF24J4MD](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSZIGBEEMOMRF24J4MD)

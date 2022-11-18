@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-smd-ipc-CQFP-132
 - Hex ID: FZESMIPCCQFP132
 - Name: smd-ipc : CQFP-132
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/smd-ipc/CQFP-132/
 - Description: smd-ipc : CQFP-132
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-CQFP-132](http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-CQFP-132)
 - Short Link: [http://oom.lt/FZESMIPCCQFP132](http://oom.lt/FZESMIPCCQFP132)

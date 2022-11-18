@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-smd-ipc-SOJ20-4
 - Hex ID: FZESMIPCSOJ24
 - Name: smd-ipc : SOJ20-4
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/smd-ipc/SOJ20-4/
 - Description: smd-ipc : SOJ20-4
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-SOJ20-4](http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-SOJ20-4)
 - Short Link: [http://oom.lt/FZESMIPCSOJ24](http://oom.lt/FZESMIPCSOJ24)

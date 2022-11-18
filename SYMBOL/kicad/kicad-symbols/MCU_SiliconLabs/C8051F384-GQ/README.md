@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_SiliconLabs-C8051F384-GQ
 - Hex ID: SZKMCUSILICONLABSC851F384GQ
 - Name: MCU_SiliconLabs : C8051F384-GQ
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_SiliconLabs/C8051F384-GQ/
 - Description: MCU_SiliconLabs : C8051F384-GQ
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_SiliconLabs-C8051F384-GQ](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_SiliconLabs-C8051F384-GQ)
 - Short Link: [http://oom.lt/SZKMCUSILICONLABSC851F384GQ](http://oom.lt/SZKMCUSILICONLABSC851F384GQ)

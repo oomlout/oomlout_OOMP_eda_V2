@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Relay_THT_G5V-1
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSRELG5V1
 - Name: digikey-footprints : Relay_THT_G5V-1
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Relay_THT_G5V-1/
 - Description: digikey-footprints : Relay_THT_G5V-1
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Relay_THT_G5V-1](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Relay_THT_G5V-1)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSRELG5V1](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSRELG5V1)

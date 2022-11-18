@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Connector-RJ25
 - Hex ID: SZKCNRJ25
 - Name: Connector : RJ25
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector/RJ25/
 - Description: Connector : RJ25
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-RJ25](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-RJ25)
 - Short Link: [http://oom.lt/SZKCNRJ25](http://oom.lt/SZKCNRJ25)

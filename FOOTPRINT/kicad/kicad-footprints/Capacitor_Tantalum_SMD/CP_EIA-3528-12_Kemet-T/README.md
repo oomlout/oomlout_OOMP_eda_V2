@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Capacitor_Tantalum_SMD-CP_EIA-3528-12_Kemet-T
 - Hex ID: FZKCCPEIA352812KEMETT
 - Name: Capacitor_Tantalum_SMD : CP_EIA-3528-12_Kemet-T
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Capacitor_Tantalum_SMD/CP_EIA-3528-12_Kemet-T/
 - Description: Capacitor_Tantalum_SMD : CP_EIA-3528-12_Kemet-T
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_Tantalum_SMD-CP_EIA-3528-12_Kemet-T](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_Tantalum_SMD-CP_EIA-3528-12_Kemet-T)
 - Short Link: [http://oom.lt/FZKCCPEIA352812KEMETT](http://oom.lt/FZKCCPEIA352812KEMETT)

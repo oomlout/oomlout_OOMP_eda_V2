@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-DO-35
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSDO35
 - Name: digikey-footprints : DO-35
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/DO-35/
 - Description: digikey-footprints : DO-35
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-DO-35](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-DO-35)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSDO35](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSDO35)

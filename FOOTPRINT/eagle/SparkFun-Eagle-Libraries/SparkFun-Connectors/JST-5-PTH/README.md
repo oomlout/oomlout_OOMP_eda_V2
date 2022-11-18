@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-JST-5-PTH
 - Hex ID: FZSSPARKFUNCNSJST5P
 - Name: SparkFun-Connectors : JST-5-PTH
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Connectors/JST-5-PTH/
 - Description: SparkFun-Connectors : JST-5-PTH
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-JST-5-PTH](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-JST-5-PTH)
 - Short Link: [http://oom.lt/FZSSPARKFUNCNSJST5P](http://oom.lt/FZSSPARKFUNCNSJST5P)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-LGA-14L_2.5x3mm__LSM6DS3
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSLGA14L25X3LSM6DS3
 - Name: digikey-footprints : LGA-14L_2.5x3mm__LSM6DS3
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/LGA-14L_2.5x3mm__LSM6DS3/
 - Description: digikey-footprints : LGA-14L_2.5x3mm__LSM6DS3
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-LGA-14L_2.5x3mm__LSM6DS3](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-LGA-14L_2.5x3mm__LSM6DS3)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSLGA14L25X3LSM6DS3](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSLGA14L25X3LSM6DS3)

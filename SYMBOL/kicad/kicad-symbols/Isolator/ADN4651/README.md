@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Isolator-ADN4651
 - Hex ID: SZKISOLATORADN4651
 - Name: Isolator : ADN4651
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Isolator/ADN4651/
 - Description: Isolator : ADN4651
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-ADN4651](http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-ADN4651)
 - Short Link: [http://oom.lt/SZKISOLATORADN4651](http://oom.lt/SZKISOLATORADN4651)

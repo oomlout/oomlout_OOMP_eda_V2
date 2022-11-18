@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Murata_LQH2MCNxxxx02_2.0x1.6mm
 - Hex ID: FZKINLMLQH2MCNXXXX22X16
 - Name: Inductor_SMD : L_Murata_LQH2MCNxxxx02_2.0x1.6mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Murata_LQH2MCNxxxx02_2.0x1.6mm/
 - Description: Inductor_SMD : L_Murata_LQH2MCNxxxx02_2.0x1.6mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Murata_LQH2MCNxxxx02_2.0x1.6mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Murata_LQH2MCNxxxx02_2.0x1.6mm)
 - Short Link: [http://oom.lt/FZKINLMLQH2MCNXXXX22X16](http://oom.lt/FZKINLMLQH2MCNXXXX22X16)

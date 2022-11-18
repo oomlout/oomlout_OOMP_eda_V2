@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-JST04_1MM_RA_STRESSRELIEF
 - Hex ID: FZSSPARKFUNCNSJST41RASTRESSRELIEF
 - Name: SparkFun-Connectors : JST04_1MM_RA_STRESSRELIEF
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Connectors/JST04_1MM_RA_STRESSRELIEF/
 - Description: SparkFun-Connectors : JST04_1MM_RA_STRESSRELIEF
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-JST04_1MM_RA_STRESSRELIEF](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-JST04_1MM_RA_STRESSRELIEF)
 - Short Link: [http://oom.lt/FZSSPARKFUNCNSJST41RASTRESSRELIEF](http://oom.lt/FZSSPARKFUNCNSJST41RASTRESSRELIEF)

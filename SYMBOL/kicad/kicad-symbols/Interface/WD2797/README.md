@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface-WD2797
 - Hex ID: SZKINTERFACEWD2797
 - Name: Interface : WD2797
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface/WD2797/
 - Description: Interface : WD2797
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-WD2797](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-WD2797)
 - Short Link: [http://oom.lt/SZKINTERFACEWD2797](http://oom.lt/SZKINTERFACEWD2797)

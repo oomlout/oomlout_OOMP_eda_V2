@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Device-Ammeter_DC
 - Hex ID: SZKDEVICEAETERDC
 - Name: Device : Ammeter_DC
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/Ammeter_DC/
 - Description: Device : Ammeter_DC
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Ammeter_DC](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Ammeter_DC)
 - Short Link: [http://oom.lt/SZKDEVICEAETERDC](http://oom.lt/SZKDEVICEAETERDC)

@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKXXSMABRACONABM72PIN6X35 > Crystal : Crystal_SMD_Abracon_ABM7-2Pin_6.0x3.5mm](#fzkxxsmabraconabm72pin6x35--crystal--crystal_smd_abracon_abm7-2pin_60x35mm)
+* [FZKXXSMABRACONABM72P6X35 > Crystal : Crystal_SMD_Abracon_ABM7-2Pin_6.0x3.5mm](#fzkxxsmabraconabm72p6x35--crystal--crystal_smd_abracon_abm7-2pin_60x35mm)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKXXSMABRACONABM72PIN6X35 > Crystal : Crystal_SMD_Abracon_ABM7-2Pin_6.0x3.5mm
+# FZKXXSMABRACONABM72P6X35 > Crystal : Crystal_SMD_Abracon_ABM7-2Pin_6.0x3.5mm
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_SMD_Abracon_ABM7-2Pin_6.0x3.5mm
-- Hex ID: FZKXXSMABRACONABM72PIN6X35
+- Hex ID: FZKXXSMABRACONABM72P6X35
 - Name: Crystal : Crystal_SMD_Abracon_ABM7-2Pin_6.0x3.5mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_SMD_Abracon_ABM7-2Pin_6.0x3.5mm/
 - Description: Crystal : Crystal_SMD_Abracon_ABM7-2Pin_6.0x3.5mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_SMD_Abracon_ABM7-2Pin_6.0x3.5mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_SMD_Abracon_ABM7-2Pin_6.0x3.5mm)
-- Short Link: [http://oom.lt/FZKXXSMABRACONABM72PIN6X35](http://oom.lt/FZKXXSMABRACONABM72PIN6X35)
+- Short Link: [http://oom.lt/FZKXXSMABRACONABM72P6X35](http://oom.lt/FZKXXSMABRACONABM72P6X35)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Crystal|
 |OOMP Index|oompIndex|Crystal_SMD_Abracon_ABM7-2Pin_6.0x3.5mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_SMD_Abracon_ABM7-2Pin_6.0x3.5mm|
-|Hex ID (short code)|hexID|FZKXXSMABRACONABM72PIN6X35|
+|Hex ID (short code)|hexID|FZKXXSMABRACONABM72P6X35|
 |name|name|Crystal : Crystal_SMD_Abracon_ABM7-2Pin_6.0x3.5mm|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Crystal_SMD_Abracon_ABM7-2Pin_6.0x3.5mm'</td><td> 'description'</td></tr><tr><td> 'SMD Crystal Abracon ABM7</td><td> https</td></tr><tr><td>//abracon.com/Resonators/abm7.pdf'</td><td> 'tags'</td></tr><tr><td> 'SMD SMT crystal'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Crystal.3dshapes/Crystal_SMD_Abracon_ABM7-2Pin_6.0x3.5mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

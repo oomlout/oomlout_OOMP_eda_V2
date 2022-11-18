@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-amp-DIM5VK2
 - Hex ID: FZECONAMPD5VK2
 - Name: con-amp : DIM5VK2
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-amp/DIM5VK2/
 - Description: con-amp : DIM5VK2
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-amp-DIM5VK2](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-amp-DIM5VK2)
 - Short Link: [http://oom.lt/FZECONAMPD5VK2](http://oom.lt/FZECONAMPD5VK2)

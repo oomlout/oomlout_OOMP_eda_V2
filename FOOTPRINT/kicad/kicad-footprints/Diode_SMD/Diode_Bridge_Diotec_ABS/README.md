@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Diode_SMD-Diode_Bridge_Diotec_ABS
 - Hex ID: FZKDDIODEBRIDGEDIOTECABS
 - Name: Diode_SMD : Diode_Bridge_Diotec_ABS
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Diode_SMD/Diode_Bridge_Diotec_ABS/
 - Description: Diode_SMD : Diode_Bridge_Diotec_ABS
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Diode_SMD-Diode_Bridge_Diotec_ABS](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Diode_SMD-Diode_Bridge_Diotec_ABS)
 - Short Link: [http://oom.lt/FZKDDIODEBRIDGEDIOTECABS](http://oom.lt/FZKDDIODEBRIDGEDIOTECABS)

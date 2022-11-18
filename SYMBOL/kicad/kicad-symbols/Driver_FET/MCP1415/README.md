@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Driver_FET-MCP1415
 - Hex ID: SZKDRIVERFETMCP1415
 - Name: Driver_FET : MCP1415
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Driver_FET/MCP1415/
 - Description: Driver_FET : MCP1415
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-MCP1415](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-MCP1415)
 - Short Link: [http://oom.lt/SZKDRIVERFETMCP1415](http://oom.lt/SZKDRIVERFETMCP1415)

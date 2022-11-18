@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Module-Adafruit_Feather_M0_RFM_WithMountingHoles
 - Hex ID: FZKMOADAFEATHERMRFMWITHHOLS
 - Name: Module : Adafruit_Feather_M0_RFM_WithMountingHoles
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Module/Adafruit_Feather_M0_RFM_WithMountingHoles/
 - Description: Module : Adafruit_Feather_M0_RFM_WithMountingHoles
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Module-Adafruit_Feather_M0_RFM_WithMountingHoles](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Module-Adafruit_Feather_M0_RFM_WithMountingHoles)
 - Short Link: [http://oom.lt/FZKMOADAFEATHERMRFMWITHHOLS](http://oom.lt/FZKMOADAFEATHERMRFMWITHHOLS)

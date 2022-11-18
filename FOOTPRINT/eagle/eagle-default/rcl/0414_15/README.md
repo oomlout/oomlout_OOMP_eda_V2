@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-rcl-0414_15
 - Hex ID: FZERCL41415
 - Name: rcl : 0414_15
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/rcl/0414_15/
 - Description: rcl : 0414_15
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-0414_15](http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-0414_15)
 - Short Link: [http://oom.lt/FZERCL41415](http://oom.lt/FZERCL41415)

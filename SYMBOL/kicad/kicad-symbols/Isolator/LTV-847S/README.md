@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Isolator-LTV-847S
 - Hex ID: SZKISOLATORLTV847S
 - Name: Isolator : LTV-847S
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Isolator/LTV-847S/
 - Description: Isolator : LTV-847S
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-LTV-847S](http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-LTV-847S)
 - Short Link: [http://oom.lt/SZKISOLATORLTV847S](http://oom.lt/SZKISOLATORLTV847S)

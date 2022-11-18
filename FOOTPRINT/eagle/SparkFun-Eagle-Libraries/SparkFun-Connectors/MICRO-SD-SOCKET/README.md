@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-MICRO-SD-SOCKET
 - Hex ID: FZSSPARKFUNCNSMSDSO
 - Name: SparkFun-Connectors : MICRO-SD-SOCKET
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Connectors/MICRO-SD-SOCKET/
 - Description: SparkFun-Connectors : MICRO-SD-SOCKET
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-MICRO-SD-SOCKET](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-MICRO-SD-SOCKET)
 - Short Link: [http://oom.lt/FZSSPARKFUNCNSMSDSO](http://oom.lt/FZSSPARKFUNCNSMSDSO)

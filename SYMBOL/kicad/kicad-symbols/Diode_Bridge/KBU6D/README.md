@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode_Bridge-KBU6D
 - Hex ID: SZKDIODEBRIDGEKBU6D
 - Name: Diode_Bridge : KBU6D
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode_Bridge/KBU6D/
 - Description: Diode_Bridge : KBU6D
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode_Bridge-KBU6D](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode_Bridge-KBU6D)
 - Short Link: [http://oom.lt/SZKDIODEBRIDGEKBU6D](http://oom.lt/SZKDIODEBRIDGEKBU6D)

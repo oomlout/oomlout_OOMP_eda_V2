@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Capacitor_Tantalum_SMD-CP_EIA-7360-38_Kemet-E
 - Hex ID: FZKCCPEIA73638KEMETE
 - Name: Capacitor_Tantalum_SMD : CP_EIA-7360-38_Kemet-E
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Capacitor_Tantalum_SMD/CP_EIA-7360-38_Kemet-E/
 - Description: Capacitor_Tantalum_SMD : CP_EIA-7360-38_Kemet-E
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_Tantalum_SMD-CP_EIA-7360-38_Kemet-E](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_Tantalum_SMD-CP_EIA-7360-38_Kemet-E)
 - Short Link: [http://oom.lt/FZKCCPEIA73638KEMETE](http://oom.lt/FZKCCPEIA73638KEMETE)

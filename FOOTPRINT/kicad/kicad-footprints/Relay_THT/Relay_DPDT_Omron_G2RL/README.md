@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Relay_THT-Relay_DPDT_Omron_G2RL
 - Hex ID: FZKRELRELAYDPDTOMRONG2RL
 - Name: Relay_THT : Relay_DPDT_Omron_G2RL
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Relay_THT/Relay_DPDT_Omron_G2RL/
 - Description: Relay_THT : Relay_DPDT_Omron_G2RL
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Relay_THT-Relay_DPDT_Omron_G2RL](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Relay_THT-Relay_DPDT_Omron_G2RL)
 - Short Link: [http://oom.lt/FZKRELRELAYDPDTOMRONG2RL](http://oom.lt/FZKRELRELAYDPDTOMRONG2RL)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Special-Function-SOT23-5
 - Hex ID: FZSISSOT235
 - Name: SparkFun-IC-Special-Function : SOT23-5
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-IC-Special-Function/SOT23-5/
 - Description: SparkFun-IC-Special-Function : SOT23-5
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Special-Function-SOT23-5](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Special-Function-SOT23-5)
 - Short Link: [http://oom.lt/FZSISSOT235](http://oom.lt/FZSISSOT235)

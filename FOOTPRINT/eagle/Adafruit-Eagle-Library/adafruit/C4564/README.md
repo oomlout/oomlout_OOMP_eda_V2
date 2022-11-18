@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-C4564
 - Hex ID: FZAC4564
 - Name: adafruit : C4564
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/C4564/
 - Description: adafruit : C4564
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-C4564](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-C4564)
 - Short Link: [http://oom.lt/FZAC4564](http://oom.lt/FZAC4564)

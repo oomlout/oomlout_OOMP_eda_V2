@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F2-STM32F205REYx
 - Hex ID: SZKMCUSTSTM32F2STM32F25REYX
 - Name: MCU_ST_STM32F2 : STM32F205REYx
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32F2/STM32F205REYx/
 - Description: MCU_ST_STM32F2 : STM32F205REYx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F2-STM32F205REYx](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F2-STM32F205REYx)
 - Short Link: [http://oom.lt/SZKMCUSTSTM32F2STM32F25REYX](http://oom.lt/SZKMCUSTSTM32F2STM32F25REYX)

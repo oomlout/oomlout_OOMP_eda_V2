@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Capacitor_THT-CP_Axial_L80.0mm_D26.0mm_P85.00mm_Horizontal
 - Hex ID: FZKCCPAXIALL8D26P85H
 - Name: Capacitor_THT : CP_Axial_L80.0mm_D26.0mm_P85.00mm_Horizontal
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Capacitor_THT/CP_Axial_L80.0mm_D26.0mm_P85.00mm_Horizontal/
 - Description: Capacitor_THT : CP_Axial_L80.0mm_D26.0mm_P85.00mm_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_THT-CP_Axial_L80.0mm_D26.0mm_P85.00mm_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_THT-CP_Axial_L80.0mm_D26.0mm_P85.00mm_Horizontal)
 - Short Link: [http://oom.lt/FZKCCPAXIALL8D26P85H](http://oom.lt/FZKCCPAXIALL8D26P85H)

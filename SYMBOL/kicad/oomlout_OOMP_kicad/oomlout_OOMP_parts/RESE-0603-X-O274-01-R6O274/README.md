@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O274-01-R6O274
 - Hex ID: SZOOMPKOOMPPRESE63XO2741R6O274
 - Name: oomlout_OOMP_parts : RESE-0603-X-O274-01-R6O274
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/RESE-0603-X-O274-01-R6O274/
 - Description: oomlout_OOMP_parts : RESE-0603-X-O274-01-R6O274
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O274-01-R6O274](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O274-01-R6O274)
 - Short Link: [http://oom.lt/SZOOMPKOOMPPRESE63XO2741R6O274](http://oom.lt/SZOOMPKOOMPPRESE63XO2741R6O274)

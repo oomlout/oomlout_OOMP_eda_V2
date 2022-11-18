@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-trafo-EP07,5B
 - Hex ID: FZETRAFOEP75B
 - Name: trafo : EP07,5B
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/trafo/EP07,5B/
 - Description: trafo : EP07,5B
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-trafo-EP07,5B](http://oom.lt/FOOTPRINT-eagle-eagle-default-trafo-EP07,5B)
 - Short Link: [http://oom.lt/FZETRAFOEP75B](http://oom.lt/FZETRAFOEP75B)

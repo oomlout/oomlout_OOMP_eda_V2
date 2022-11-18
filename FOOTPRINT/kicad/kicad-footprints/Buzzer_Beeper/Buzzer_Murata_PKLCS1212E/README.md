@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Buzzer_Beeper-Buzzer_Murata_PKLCS1212E
 - Hex ID: FZKBZBUZZERMPKLCS1212E
 - Name: Buzzer_Beeper : Buzzer_Murata_PKLCS1212E
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Buzzer_Beeper/Buzzer_Murata_PKLCS1212E/
 - Description: Buzzer_Beeper : Buzzer_Murata_PKLCS1212E
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Buzzer_Beeper-Buzzer_Murata_PKLCS1212E](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Buzzer_Beeper-Buzzer_Murata_PKLCS1212E)
 - Short Link: [http://oom.lt/FZKBZBUZZERMPKLCS1212E](http://oom.lt/FZKBZBUZZERMPKLCS1212E)

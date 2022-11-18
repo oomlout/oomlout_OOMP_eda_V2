@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-MC33178
 - Hex ID: SZKAMPLIFIEROPERATIONALMC33178
 - Name: Amplifier_Operational : MC33178
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/MC33178/
 - Description: Amplifier_Operational : MC33178
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-MC33178](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-MC33178)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALMC33178](http://oom.lt/SZKAMPLIFIEROPERATIONALMC33178)

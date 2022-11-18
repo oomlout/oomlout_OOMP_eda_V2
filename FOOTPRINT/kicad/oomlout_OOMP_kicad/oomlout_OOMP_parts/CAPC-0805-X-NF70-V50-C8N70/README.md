@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0805-X-NF70-V50-C8N70
 - Hex ID: FZOOMPKOOMPPCAPC85XNF7V5C8N7
 - Name: oomlout_OOMP_parts : CAPC-0805-X-NF70-V50-C8N70
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/CAPC-0805-X-NF70-V50-C8N70/
 - Description: oomlout_OOMP_parts : CAPC-0805-X-NF70-V50-C8N70
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0805-X-NF70-V50-C8N70](http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0805-X-NF70-V50-C8N70)
 - Short Link: [http://oom.lt/FZOOMPKOOMPPCAPC85XNF7V5C8N7](http://oom.lt/FZOOMPKOOMPPCAPC85XNF7V5C8N7)

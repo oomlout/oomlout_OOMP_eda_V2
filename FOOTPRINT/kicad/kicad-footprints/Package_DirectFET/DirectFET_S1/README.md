@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_DirectFET-DirectFET_S1
 - Hex ID: FZKDFETDIRECTFETS1
 - Name: Package_DirectFET : DirectFET_S1
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DirectFET/DirectFET_S1/
 - Description: Package_DirectFET : DirectFET_S1
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DirectFET-DirectFET_S1](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DirectFET-DirectFET_S1)
 - Short Link: [http://oom.lt/FZKDFETDIRECTFETS1](http://oom.lt/FZKDFETDIRECTFETS1)

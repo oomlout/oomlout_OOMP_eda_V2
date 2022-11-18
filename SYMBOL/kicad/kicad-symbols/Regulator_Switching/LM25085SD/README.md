@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-LM25085SD
 - Hex ID: SZKREGULATORSWINGLM2585SD
 - Name: Regulator_Switching : LM25085SD
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/LM25085SD/
 - Description: Regulator_Switching : LM25085SD
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LM25085SD](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LM25085SD)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGLM2585SD](http://oom.lt/SZKREGULATORSWINGLM2585SD)

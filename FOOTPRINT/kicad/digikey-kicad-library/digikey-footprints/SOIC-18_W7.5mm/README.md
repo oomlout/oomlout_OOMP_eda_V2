@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SOIC-18_W7.5mm
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSSOIC18W75
 - Name: digikey-footprints : SOIC-18_W7.5mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/SOIC-18_W7.5mm/
 - Description: digikey-footprints : SOIC-18_W7.5mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SOIC-18_W7.5mm](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SOIC-18_W7.5mm)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSSOIC18W75](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSSOIC18W75)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-SO-24W
 - Hex ID: FZSRTSO24W
 - Name: SparkFun-Retired : SO-24W
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Retired/SO-24W/
 - Description: SparkFun-Retired : SO-24W
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-SO-24W](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-SO-24W)
 - Short Link: [http://oom.lt/FZSRTSO24W](http://oom.lt/FZSRTSO24W)

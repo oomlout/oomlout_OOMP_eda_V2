@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-JST-8POS
 - Hex ID: FZAJST8POS
 - Name: adafruit : JST-8POS
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/JST-8POS/
 - Description: adafruit : JST-8POS
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-JST-8POS](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-JST-8POS)
 - Short Link: [http://oom.lt/FZAJST8POS](http://oom.lt/FZAJST8POS)

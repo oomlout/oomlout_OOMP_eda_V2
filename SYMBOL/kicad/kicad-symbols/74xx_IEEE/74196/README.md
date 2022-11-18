@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-74xx_IEEE-74196
 - Hex ID: SZK74XXIEEE74196
 - Name: 74xx_IEEE : 74196
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/74xx_IEEE/74196/
 - Description: 74xx_IEEE : 74196
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-74xx_IEEE-74196](http://oom.lt/SYMBOL-kicad-kicad-symbols-74xx_IEEE-74196)
 - Short Link: [http://oom.lt/SZK74XXIEEE74196](http://oom.lt/SZK74XXIEEE74196)

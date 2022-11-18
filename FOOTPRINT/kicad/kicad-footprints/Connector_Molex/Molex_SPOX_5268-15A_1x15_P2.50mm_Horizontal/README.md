@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_SPOX_5268-15A_1x15_P2.50mm_Horizontal
 - Hex ID: FZKCNMXMXSPOX526815A1X15P25H
 - Name: Connector_Molex : Molex_SPOX_5268-15A_1x15_P2.50mm_Horizontal
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_SPOX_5268-15A_1x15_P2.50mm_Horizontal/
 - Description: Connector_Molex : Molex_SPOX_5268-15A_1x15_P2.50mm_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_SPOX_5268-15A_1x15_P2.50mm_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_SPOX_5268-15A_1x15_P2.50mm_Horizontal)
 - Short Link: [http://oom.lt/FZKCNMXMXSPOX526815A1X15P25H](http://oom.lt/FZKCNMXMXSPOX526815A1X15P25H)

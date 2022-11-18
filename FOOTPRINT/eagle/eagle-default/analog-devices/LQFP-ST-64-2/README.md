@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-analog-devices-LQFP-ST-64-2
 - Hex ID: FZEANALOGDEVICESLQFPST642
 - Name: analog-devices : LQFP-ST-64-2
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/analog-devices/LQFP-ST-64-2/
 - Description: analog-devices : LQFP-ST-64-2
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-analog-devices-LQFP-ST-64-2](http://oom.lt/FOOTPRINT-eagle-eagle-default-analog-devices-LQFP-ST-64-2)
 - Short Link: [http://oom.lt/FZEANALOGDEVICESLQFPST642](http://oom.lt/FZEANALOGDEVICESLQFPST642)

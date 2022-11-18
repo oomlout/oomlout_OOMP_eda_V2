@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Aesthetics-SFE_LOGO_NAME_FLAME_9MM
 - Hex ID: FZSASFELNF9
 - Name: SparkFun-Aesthetics : SFE_LOGO_NAME_FLAME_9MM
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Aesthetics/SFE_LOGO_NAME_FLAME_9MM/
 - Description: SparkFun-Aesthetics : SFE_LOGO_NAME_FLAME_9MM
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Aesthetics-SFE_LOGO_NAME_FLAME_9MM](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Aesthetics-SFE_LOGO_NAME_FLAME_9MM)
 - Short Link: [http://oom.lt/FZSASFELNF9](http://oom.lt/FZSASFELNF9)

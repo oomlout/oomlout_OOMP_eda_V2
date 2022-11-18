@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-ARDUINOR3
 - Hex ID: FZAARDR3
 - Name: adafruit : ARDUINOR3
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/ARDUINOR3/
 - Description: adafruit : ARDUINOR3
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-ARDUINOR3](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-ARDUINOR3)
 - Short Link: [http://oom.lt/FZAARDR3](http://oom.lt/FZAARDR3)

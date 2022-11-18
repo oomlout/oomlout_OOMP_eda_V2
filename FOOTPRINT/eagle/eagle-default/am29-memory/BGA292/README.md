@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-am29-memory-BGA292
 - Hex ID: FZEAM29MEMORYBGA292
 - Name: am29-memory : BGA292
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/am29-memory/BGA292/
 - Description: am29-memory : BGA292
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-am29-memory-BGA292](http://oom.lt/FOOTPRINT-eagle-eagle-default-am29-memory-BGA292)
 - Short Link: [http://oom.lt/FZEAM29MEMORYBGA292](http://oom.lt/FZEAM29MEMORYBGA292)

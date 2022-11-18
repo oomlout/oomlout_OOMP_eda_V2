@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKBGABGA1447X7LAYOUT13X13P5BALL3PAD25NSM > Package_BGA : BGA-144_7.0x7.0mm_Layout13x13_P0.5mm_Ball0.3mm_Pad0.25mm_NSMD](#fzkbgabga1447x7layout13x13p5ball3pad25nsm--package_bga--bga-144_70x70mm_layout13x13_p05mm_ball03mm_pad025mm_nsmd)
+* [FZKBGABGA1447X7LAYOUT13X13P5BALL3P25NSM > Package_BGA : BGA-144_7.0x7.0mm_Layout13x13_P0.5mm_Ball0.3mm_Pad0.25mm_NSMD](#fzkbgabga1447x7layout13x13p5ball3p25nsm--package_bga--bga-144_70x70mm_layout13x13_p05mm_ball03mm_pad025mm_nsmd)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKBGABGA1447X7LAYOUT13X13P5BALL3PAD25NSM > Package_BGA : BGA-144_7.0x7.0mm_Layout13x13_P0.5mm_Ball0.3mm_Pad0.25mm_NSMD
+# FZKBGABGA1447X7LAYOUT13X13P5BALL3P25NSM > Package_BGA : BGA-144_7.0x7.0mm_Layout13x13_P0.5mm_Ball0.3mm_Pad0.25mm_NSMD
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_BGA-BGA-144_7.0x7.0mm_Layout13x13_P0.5mm_Ball0.3mm_Pad0.25mm_NSMD
-- Hex ID: FZKBGABGA1447X7LAYOUT13X13P5BALL3PAD25NSM
+- Hex ID: FZKBGABGA1447X7LAYOUT13X13P5BALL3P25NSM
 - Name: Package_BGA : BGA-144_7.0x7.0mm_Layout13x13_P0.5mm_Ball0.3mm_Pad0.25mm_NSMD
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_BGA/BGA-144_7.0x7.0mm_Layout13x13_P0.5mm_Ball0.3mm_Pad0.25mm_NSMD/
 - Description: Package_BGA : BGA-144_7.0x7.0mm_Layout13x13_P0.5mm_Ball0.3mm_Pad0.25mm_NSMD
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_BGA-BGA-144_7.0x7.0mm_Layout13x13_P0.5mm_Ball0.3mm_Pad0.25mm_NSMD](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_BGA-BGA-144_7.0x7.0mm_Layout13x13_P0.5mm_Ball0.3mm_Pad0.25mm_NSMD)
-- Short Link: [http://oom.lt/FZKBGABGA1447X7LAYOUT13X13P5BALL3PAD25NSM](http://oom.lt/FZKBGABGA1447X7LAYOUT13X13P5BALL3PAD25NSM)
+- Short Link: [http://oom.lt/FZKBGABGA1447X7LAYOUT13X13P5BALL3P25NSM](http://oom.lt/FZKBGABGA1447X7LAYOUT13X13P5BALL3P25NSM)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Package_BGA|
 |OOMP Index|oompIndex|BGA-144_7.0x7.0mm_Layout13x13_P0.5mm_Ball0.3mm_Pad0.25mm_NSMD|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_BGA-BGA-144_7.0x7.0mm_Layout13x13_P0.5mm_Ball0.3mm_Pad0.25mm_NSMD|
-|Hex ID (short code)|hexID|FZKBGABGA1447X7LAYOUT13X13P5BALL3PAD25NSM|
+|Hex ID (short code)|hexID|FZKBGABGA1447X7LAYOUT13X13P5BALL3P25NSM|
 |name|name|Package_BGA : BGA-144_7.0x7.0mm_Layout13x13_P0.5mm_Ball0.3mm_Pad0.25mm_NSMD|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'BGA-144_7.0x7.0mm_Layout13x13_P0.5mm_Ball0.3mm_Pad0.25mm_NSMD'</td><td> 'description'</td></tr><tr><td> 'Altera MBGA-144</td><td> https</td></tr><tr><td>//www.altera.com/content/dam/altera-www/global/en_US/pdfs/literature/packaging/04r00346-00.pdf'</td><td> 'tags'</td></tr><tr><td> 'Altera BGA-144 M144 MBGA'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_BGA.3dshapes/BGA-144_7.0x7.0mm_Layout13x13_P0.5mm_Ball0.3mm_Pad0.25mm_NSMD.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||

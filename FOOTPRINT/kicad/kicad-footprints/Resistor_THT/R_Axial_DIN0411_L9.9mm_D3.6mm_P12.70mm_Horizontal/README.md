@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Resistor_THT-R_Axial_DIN0411_L9.9mm_D3.6mm_P12.70mm_Horizontal
 - Hex ID: FZKRRAXIALDIN411L99D36P127H
 - Name: Resistor_THT : R_Axial_DIN0411_L9.9mm_D3.6mm_P12.70mm_Horizontal
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Resistor_THT/R_Axial_DIN0411_L9.9mm_D3.6mm_P12.70mm_Horizontal/
 - Description: Resistor_THT : R_Axial_DIN0411_L9.9mm_D3.6mm_P12.70mm_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Resistor_THT-R_Axial_DIN0411_L9.9mm_D3.6mm_P12.70mm_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Resistor_THT-R_Axial_DIN0411_L9.9mm_D3.6mm_P12.70mm_Horizontal)
 - Short Link: [http://oom.lt/FZKRRAXIALDIN411L99D36P127H](http://oom.lt/FZKRRAXIALDIN411L99D36P127H)

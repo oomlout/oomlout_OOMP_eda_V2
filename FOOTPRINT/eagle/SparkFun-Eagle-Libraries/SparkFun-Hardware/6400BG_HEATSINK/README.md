@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Hardware-6400BG_HEATSINK
 - Hex ID: FZSH64BGH
 - Name: SparkFun-Hardware : 6400BG_HEATSINK
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Hardware/6400BG_HEATSINK/
 - Description: SparkFun-Hardware : 6400BG_HEATSINK
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Hardware-6400BG_HEATSINK](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Hardware-6400BG_HEATSINK)
 - Short Link: [http://oom.lt/FZSH64BGH](http://oom.lt/FZSH64BGH)

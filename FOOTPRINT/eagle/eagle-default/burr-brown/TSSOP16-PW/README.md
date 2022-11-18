@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZEBURRBROWNTSS16PW > burr-brown : TSSOP16-PW](#fzeburrbrowntss16pw--burr-brown--tssop16-pw)
+* [FZEBURRBRNTSS16PW > burr-brown : TSSOP16-PW](#fzeburrbrntss16pw--burr-brown--tssop16-pw)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZEBURRBROWNTSS16PW > burr-brown : TSSOP16-PW
+# FZEBURRBRNTSS16PW > burr-brown : TSSOP16-PW
 
 - ID: FOOTPRINT-eagle-eagle-default-burr-brown-TSSOP16-PW
-- Hex ID: FZEBURRBROWNTSS16PW
+- Hex ID: FZEBURRBRNTSS16PW
 - Name: burr-brown : TSSOP16-PW
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/burr-brown/TSSOP16-PW/
 - Description: burr-brown : TSSOP16-PW
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-burr-brown-TSSOP16-PW](http://oom.lt/FOOTPRINT-eagle-eagle-default-burr-brown-TSSOP16-PW)
-- Short Link: [http://oom.lt/FZEBURRBROWNTSS16PW](http://oom.lt/FZEBURRBROWNTSS16PW)
+- Short Link: [http://oom.lt/FZEBURRBRNTSS16PW](http://oom.lt/FZEBURRBRNTSS16PW)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|burr-brown|
 |OOMP Index|oompIndex|TSSOP16-PW|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-burr-brown-TSSOP16-PW|
-|Hex ID (short code)|hexID|FZEBURRBROWNTSS16PW|
+|Hex ID (short code)|hexID|FZEBURRBRNTSS16PW|
 |name|name|burr-brown : TSSOP16-PW|
 ||||
 

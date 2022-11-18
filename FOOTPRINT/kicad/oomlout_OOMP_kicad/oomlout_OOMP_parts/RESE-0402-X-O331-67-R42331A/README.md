@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0402-X-O331-67-R42331A
 - Hex ID: FZOOMPKOOMPPRESE42XO33167R42331A
 - Name: oomlout_OOMP_parts : RESE-0402-X-O331-67-R42331A
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/RESE-0402-X-O331-67-R42331A/
 - Description: oomlout_OOMP_parts : RESE-0402-X-O331-67-R42331A
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0402-X-O331-67-R42331A](http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0402-X-O331-67-R42331A)
 - Short Link: [http://oom.lt/FZOOMPKOOMPPRESE42XO33167R42331A](http://oom.lt/FZOOMPKOOMPPRESE42XO33167R42331A)

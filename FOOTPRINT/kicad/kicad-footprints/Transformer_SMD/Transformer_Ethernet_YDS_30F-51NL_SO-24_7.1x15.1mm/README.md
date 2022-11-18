@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Transformer_SMD-Transformer_Ethernet_YDS_30F-51NL_SO-24_7.1x15.1mm
 - Hex ID: FZKTRTRETHERNETYDS3F51NLSO2471X151
 - Name: Transformer_SMD : Transformer_Ethernet_YDS_30F-51NL_SO-24_7.1x15.1mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Transformer_SMD/Transformer_Ethernet_YDS_30F-51NL_SO-24_7.1x15.1mm/
 - Description: Transformer_SMD : Transformer_Ethernet_YDS_30F-51NL_SO-24_7.1x15.1mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Transformer_SMD-Transformer_Ethernet_YDS_30F-51NL_SO-24_7.1x15.1mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Transformer_SMD-Transformer_Ethernet_YDS_30F-51NL_SO-24_7.1x15.1mm)
 - Short Link: [http://oom.lt/FZKTRTRETHERNETYDS3F51NLSO2471X151](http://oom.lt/FZKTRTRETHERNETYDS3F51NLSO2471X151)

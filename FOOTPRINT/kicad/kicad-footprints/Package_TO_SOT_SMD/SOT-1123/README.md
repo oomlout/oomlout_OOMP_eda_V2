@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-1123
 - Hex ID: FZKSOTSOT1123
 - Name: Package_TO_SOT_SMD : SOT-1123
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/SOT-1123/
 - Description: Package_TO_SOT_SMD : SOT-1123
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-1123](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-1123)
 - Short Link: [http://oom.lt/FZKSOTSOT1123](http://oom.lt/FZKSOTSOT1123)

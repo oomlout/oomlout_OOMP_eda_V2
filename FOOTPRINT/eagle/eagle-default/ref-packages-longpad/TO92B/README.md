@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEREFPACKAGESLONGPADTO92B > ref-packages-longpad : TO92B](#fzerefpackageslongpadto92b--ref-packages-longpad--to92b)
+* [FZEREFPSLPTO92B > ref-packages-longpad : TO92B](#fzerefpslpto92b--ref-packages-longpad--to92b)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEREFPACKAGESLONGPADTO92B > ref-packages-longpad : TO92B
+# FZEREFPSLPTO92B > ref-packages-longpad : TO92B
 
 - ID: FOOTPRINT-eagle-eagle-default-ref-packages-longpad-TO92B
-- Hex ID: FZEREFPACKAGESLONGPADTO92B
+- Hex ID: FZEREFPSLPTO92B
 - Name: ref-packages-longpad : TO92B
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ref-packages-longpad/TO92B/
 - Description: ref-packages-longpad : TO92B
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-longpad-TO92B](http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-longpad-TO92B)
-- Short Link: [http://oom.lt/FZEREFPACKAGESLONGPADTO92B](http://oom.lt/FZEREFPACKAGESLONGPADTO92B)
+- Short Link: [http://oom.lt/FZEREFPSLPTO92B](http://oom.lt/FZEREFPSLPTO92B)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|ref-packages-longpad|
 |OOMP Index|oompIndex|TO92B|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-ref-packages-longpad-TO92B|
-|Hex ID (short code)|hexID|FZEREFPACKAGESLONGPADTO92B|
+|Hex ID (short code)|hexID|FZEREFPSLPTO92B|
 |name|name|ref-packages-longpad : TO92B|
 ||||

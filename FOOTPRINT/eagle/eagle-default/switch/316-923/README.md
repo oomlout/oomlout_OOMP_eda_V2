@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-switch-316-923
 - Hex ID: FZESW316923
 - Name: switch : 316-923
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/switch/316-923/
 - Description: switch : 316-923
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-316-923](http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-316-923)
 - Short Link: [http://oom.lt/FZESW316923](http://oom.lt/FZESW316923)

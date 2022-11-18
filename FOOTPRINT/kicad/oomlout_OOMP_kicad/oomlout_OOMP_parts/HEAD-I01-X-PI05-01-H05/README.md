@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-I01-X-PI05-01-H05
 - Hex ID: FZOOMPKOOMPPHEADI1XPI51H5
 - Name: oomlout_OOMP_parts : HEAD-I01-X-PI05-01-H05
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/HEAD-I01-X-PI05-01-H05/
 - Description: oomlout_OOMP_parts : HEAD-I01-X-PI05-01-H05
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-I01-X-PI05-01-H05](http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-I01-X-PI05-01-H05)
 - Short Link: [http://oom.lt/FZOOMPKOOMPPHEADI1XPI51H5](http://oom.lt/FZOOMPKOOMPPHEADI1XPI51H5)

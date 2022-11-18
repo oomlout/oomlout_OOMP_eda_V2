@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_Dsub-DSUB-37_Female_Vertical_P2.77x2.84mm_MountingHoles
 - Hex ID: FZKCNDSUBDSUB37FFP277X284HOLS
 - Name: Connector_Dsub : DSUB-37_Female_Vertical_P2.77x2.84mm_MountingHoles
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Dsub/DSUB-37_Female_Vertical_P2.77x2.84mm_MountingHoles/
 - Description: Connector_Dsub : DSUB-37_Female_Vertical_P2.77x2.84mm_MountingHoles
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Dsub-DSUB-37_Female_Vertical_P2.77x2.84mm_MountingHoles](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Dsub-DSUB-37_Female_Vertical_P2.77x2.84mm_MountingHoles)
 - Short Link: [http://oom.lt/FZKCNDSUBDSUB37FFP277X284HOLS](http://oom.lt/FZKCNDSUBDSUB37FFP277X284HOLS)

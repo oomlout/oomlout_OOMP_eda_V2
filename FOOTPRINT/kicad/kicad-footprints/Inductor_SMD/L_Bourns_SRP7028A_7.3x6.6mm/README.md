@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Bourns_SRP7028A_7.3x6.6mm
 - Hex ID: FZKINLBOURNSSRP728A73X66
 - Name: Inductor_SMD : L_Bourns_SRP7028A_7.3x6.6mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Bourns_SRP7028A_7.3x6.6mm/
 - Description: Inductor_SMD : L_Bourns_SRP7028A_7.3x6.6mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Bourns_SRP7028A_7.3x6.6mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Bourns_SRP7028A_7.3x6.6mm)
 - Short Link: [http://oom.lt/FZKINLBOURNSSRP728A73X66](http://oom.lt/FZKINLBOURNSSRP728A73X66)

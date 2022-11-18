@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-SA5534
 - Hex ID: SZKAMPLIFIEROPERATIONALSA5534
 - Name: Amplifier_Operational : SA5534
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/SA5534/
 - Description: Amplifier_Operational : SA5534
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-SA5534](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-SA5534)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALSA5534](http://oom.lt/SZKAMPLIFIEROPERATIONALSA5534)

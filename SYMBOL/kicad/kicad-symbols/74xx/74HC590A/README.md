@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-74xx-74HC590A
 - Hex ID: SZK74XX74HC59A
 - Name: 74xx : 74HC590A
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/74xx/74HC590A/
 - Description: 74xx : 74HC590A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-74xx-74HC590A](http://oom.lt/SYMBOL-kicad-kicad-symbols-74xx-74HC590A)
 - Short Link: [http://oom.lt/SZK74XX74HC59A](http://oom.lt/SZK74XX74HC59A)

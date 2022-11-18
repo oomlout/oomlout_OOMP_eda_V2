@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-LED-LED_BARGRAPH_10
 - Hex ID: FZSLLBARGRAPH1
 - Name: SparkFun-LED : LED_BARGRAPH_10
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-LED/LED_BARGRAPH_10/
 - Description: SparkFun-LED : LED_BARGRAPH_10
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-LED-LED_BARGRAPH_10](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-LED-LED_BARGRAPH_10)
 - Short Link: [http://oom.lt/FZSLLBARGRAPH1](http://oom.lt/FZSLLBARGRAPH1)

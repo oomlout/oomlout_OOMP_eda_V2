@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Capacitors-CPOL-RADIAL-2.5MM-5MM
 - Hex ID: FZSCCPOLR255
 - Name: SparkFun-Capacitors : CPOL-RADIAL-2.5MM-5MM
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Capacitors/CPOL-RADIAL-2.5MM-5MM/
 - Description: SparkFun-Capacitors : CPOL-RADIAL-2.5MM-5MM
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Capacitors-CPOL-RADIAL-2.5MM-5MM](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Capacitors-CPOL-RADIAL-2.5MM-5MM)
 - Short Link: [http://oom.lt/FZSCCPOLR255](http://oom.lt/FZSCCPOLR255)

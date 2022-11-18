@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Fuse-Fuse_2920_7451Metric
 - Hex ID: FZKFUFU2927451VA
 - Name: Fuse : Fuse_2920_7451Metric
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Fuse/Fuse_2920_7451Metric/
 - Description: Fuse : Fuse_2920_7451Metric
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Fuse-Fuse_2920_7451Metric](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Fuse-Fuse_2920_7451Metric)
 - Short Link: [http://oom.lt/FZKFUFU2927451VA](http://oom.lt/FZKFUFU2927451VA)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Battery_Management-BQ27441DRZR-G1B
 - Hex ID: SZKBATMANAGEMENTBQ27441DRZRG1B
 - Name: Battery_Management : BQ27441DRZR-G1B
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Battery_Management/BQ27441DRZR-G1B/
 - Description: Battery_Management : BQ27441DRZR-G1B
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Battery_Management-BQ27441DRZR-G1B](http://oom.lt/SYMBOL-kicad-kicad-symbols-Battery_Management-BQ27441DRZR-G1B)
 - Short Link: [http://oom.lt/SZKBATMANAGEMENTBQ27441DRZRG1B](http://oom.lt/SZKBATMANAGEMENTBQ27441DRZRG1B)

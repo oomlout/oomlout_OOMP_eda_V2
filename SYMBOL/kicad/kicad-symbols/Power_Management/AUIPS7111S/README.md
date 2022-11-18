@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Power_Management-AUIPS7111S
 - Hex ID: SZKPOWERMANAGEMENTAUIPS7111S
 - Name: Power_Management : AUIPS7111S
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Power_Management/AUIPS7111S/
 - Description: Power_Management : AUIPS7111S
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-AUIPS7111S](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-AUIPS7111S)
 - Short Link: [http://oom.lt/SZKPOWERMANAGEMENTAUIPS7111S](http://oom.lt/SZKPOWERMANAGEMENTAUIPS7111S)

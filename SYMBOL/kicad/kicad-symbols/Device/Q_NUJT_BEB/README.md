@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Device-Q_NUJT_BEB
 - Hex ID: SZKDEVICEQNUJTBEB
 - Name: Device : Q_NUJT_BEB
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/Q_NUJT_BEB/
 - Description: Device : Q_NUJT_BEB
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Q_NUJT_BEB](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Q_NUJT_BEB)
 - Short Link: [http://oom.lt/SZKDEVICEQNUJTBEB](http://oom.lt/SZKDEVICEQNUJTBEB)

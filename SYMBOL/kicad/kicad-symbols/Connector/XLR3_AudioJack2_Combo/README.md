@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Connector-XLR3_AudioJack2_Combo
 - Hex ID: SZKCNXLR3AUDIOJ2COMBO
 - Name: Connector : XLR3_AudioJack2_Combo
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector/XLR3_AudioJack2_Combo/
 - Description: Connector : XLR3_AudioJack2_Combo
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-XLR3_AudioJack2_Combo](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-XLR3_AudioJack2_Combo)
 - Short Link: [http://oom.lt/SZKCNXLR3AUDIOJ2COMBO](http://oom.lt/SZKCNXLR3AUDIOJ2COMBO)

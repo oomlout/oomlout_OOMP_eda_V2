@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-ALTOIDSTIN
 - Hex ID: FZAALTOIDSTIN
 - Name: adafruit : ALTOIDSTIN
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/ALTOIDSTIN/
 - Description: adafruit : ALTOIDSTIN
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-ALTOIDSTIN](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-ALTOIDSTIN)
 - Short Link: [http://oom.lt/FZAALTOIDSTIN](http://oom.lt/FZAALTOIDSTIN)

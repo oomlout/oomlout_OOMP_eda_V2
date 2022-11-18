@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Axial_L20.0mm_D8.0mm_P25.40mm_Horizontal
 - Hex ID: FZKINLAXIALL2D8P254H
 - Name: Inductor_THT : L_Axial_L20.0mm_D8.0mm_P25.40mm_Horizontal
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Axial_L20.0mm_D8.0mm_P25.40mm_Horizontal/
 - Description: Inductor_THT : L_Axial_L20.0mm_D8.0mm_P25.40mm_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Axial_L20.0mm_D8.0mm_P25.40mm_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Axial_L20.0mm_D8.0mm_P25.40mm_Horizontal)
 - Short Link: [http://oom.lt/FZKINLAXIALL2D8P254H](http://oom.lt/FZKINLAXIALL2D8P254H)

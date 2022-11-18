@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_ZE_SM13B-ZESS-TB_1x13-1MP_P1.50mm_Horizontal
 - Hex ID: FZKCNJSTJSTZESM13BZESSTB1X131MPP15H
 - Name: Connector_JST : JST_ZE_SM13B-ZESS-TB_1x13-1MP_P1.50mm_Horizontal
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_ZE_SM13B-ZESS-TB_1x13-1MP_P1.50mm_Horizontal/
 - Description: Connector_JST : JST_ZE_SM13B-ZESS-TB_1x13-1MP_P1.50mm_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_ZE_SM13B-ZESS-TB_1x13-1MP_P1.50mm_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_ZE_SM13B-ZESS-TB_1x13-1MP_P1.50mm_Horizontal)
 - Short Link: [http://oom.lt/FZKCNJSTJSTZESM13BZESSTB1X131MPP15H](http://oom.lt/FZKCNJSTJSTZESM13BZESSTB1X131MPP15H)

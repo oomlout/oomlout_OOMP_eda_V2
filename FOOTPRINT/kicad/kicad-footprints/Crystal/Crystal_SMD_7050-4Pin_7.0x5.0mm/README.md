@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKXXSM754PIN7X5 > Crystal : Crystal_SMD_7050-4Pin_7.0x5.0mm](#fzkxxsm754pin7x5--crystal--crystal_smd_7050-4pin_70x50mm)
+* [FZKXXSM754P7X5 > Crystal : Crystal_SMD_7050-4Pin_7.0x5.0mm](#fzkxxsm754p7x5--crystal--crystal_smd_7050-4pin_70x50mm)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKXXSM754PIN7X5 > Crystal : Crystal_SMD_7050-4Pin_7.0x5.0mm
+# FZKXXSM754P7X5 > Crystal : Crystal_SMD_7050-4Pin_7.0x5.0mm
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_SMD_7050-4Pin_7.0x5.0mm
-- Hex ID: FZKXXSM754PIN7X5
+- Hex ID: FZKXXSM754P7X5
 - Name: Crystal : Crystal_SMD_7050-4Pin_7.0x5.0mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_SMD_7050-4Pin_7.0x5.0mm/
 - Description: Crystal : Crystal_SMD_7050-4Pin_7.0x5.0mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_SMD_7050-4Pin_7.0x5.0mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_SMD_7050-4Pin_7.0x5.0mm)
-- Short Link: [http://oom.lt/FZKXXSM754PIN7X5](http://oom.lt/FZKXXSM754PIN7X5)
+- Short Link: [http://oom.lt/FZKXXSM754P7X5](http://oom.lt/FZKXXSM754P7X5)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Crystal|
 |OOMP Index|oompIndex|Crystal_SMD_7050-4Pin_7.0x5.0mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_SMD_7050-4Pin_7.0x5.0mm|
-|Hex ID (short code)|hexID|FZKXXSM754PIN7X5|
+|Hex ID (short code)|hexID|FZKXXSM754P7X5|
 |name|name|Crystal : Crystal_SMD_7050-4Pin_7.0x5.0mm|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Crystal_SMD_7050-4Pin_7.0x5.0mm'</td><td> 'description'</td></tr><tr><td> 'SMD Crystal SERIES SMD7050/4 https</td></tr><tr><td>//www.foxonline.com/pdfs/FQ7050.pdf</td><td> 7.0x5.0mm^2 package'</td><td> 'tags'</td></tr><tr><td> 'SMD SMT crystal'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Crystal.3dshapes/Crystal_SMD_7050-4Pin_7.0x5.0mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-conrad-733989-5
 - Hex ID: FZECONCONRAD7339895
 - Name: con-conrad : 733989-5
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-conrad/733989-5/
 - Description: con-conrad : 733989-5
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-conrad-733989-5](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-conrad-733989-5)
 - Short Link: [http://oom.lt/FZECONCONRAD7339895](http://oom.lt/FZECONCONRAD7339895)

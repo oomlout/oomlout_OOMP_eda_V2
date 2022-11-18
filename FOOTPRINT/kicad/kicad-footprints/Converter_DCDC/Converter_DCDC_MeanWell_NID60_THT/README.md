@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Converter_DCDC-Converter_DCDC_MeanWell_NID60_THT
 - Hex ID: FZKCONCONMEANWELLNID6THT
 - Name: Converter_DCDC : Converter_DCDC_MeanWell_NID60_THT
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Converter_DCDC/Converter_DCDC_MeanWell_NID60_THT/
 - Description: Converter_DCDC : Converter_DCDC_MeanWell_NID60_THT
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Converter_DCDC-Converter_DCDC_MeanWell_NID60_THT](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Converter_DCDC-Converter_DCDC_MeanWell_NID60_THT)
 - Short Link: [http://oom.lt/FZKCONCONMEANWELLNID6THT](http://oom.lt/FZKCONCONMEANWELLNID6THT)

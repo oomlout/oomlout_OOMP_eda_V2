@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-4xxx_IEEE-4040
 - Hex ID: SZK4XXXIEEE44
 - Name: 4xxx_IEEE : 4040
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/4xxx_IEEE/4040/
 - Description: 4xxx_IEEE : 4040
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-4xxx_IEEE-4040](http://oom.lt/SYMBOL-kicad-kicad-symbols-4xxx_IEEE-4040)
 - Short Link: [http://oom.lt/SZK4XXXIEEE44](http://oom.lt/SZK4XXXIEEE44)

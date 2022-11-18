@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Battery_Management-BQ297xy
 - Hex ID: SZKBATMANAGEMENTBQ297XY
 - Name: Battery_Management : BQ297xy
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Battery_Management/BQ297xy/
 - Description: Battery_Management : BQ297xy
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Battery_Management-BQ297xy](http://oom.lt/SYMBOL-kicad-kicad-symbols-Battery_Management-BQ297xy)
 - Short Link: [http://oom.lt/SZKBATMANAGEMENTBQ297XY](http://oom.lt/SZKBATMANAGEMENTBQ297XY)

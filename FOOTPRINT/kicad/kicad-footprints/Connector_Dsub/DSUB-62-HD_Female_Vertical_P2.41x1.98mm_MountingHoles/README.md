@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_Dsub-DSUB-62-HD_Female_Vertical_P2.41x1.98mm_MountingHoles
 - Hex ID: FZKCNDSUBDSUB62HDFFP241X198HOLS
 - Name: Connector_Dsub : DSUB-62-HD_Female_Vertical_P2.41x1.98mm_MountingHoles
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Dsub/DSUB-62-HD_Female_Vertical_P2.41x1.98mm_MountingHoles/
 - Description: Connector_Dsub : DSUB-62-HD_Female_Vertical_P2.41x1.98mm_MountingHoles
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Dsub-DSUB-62-HD_Female_Vertical_P2.41x1.98mm_MountingHoles](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Dsub-DSUB-62-HD_Female_Vertical_P2.41x1.98mm_MountingHoles)
 - Short Link: [http://oom.lt/FZKCNDSUBDSUB62HDFFP241X198HOLS](http://oom.lt/FZKCNDSUBDSUB62HDFFP241X198HOLS)

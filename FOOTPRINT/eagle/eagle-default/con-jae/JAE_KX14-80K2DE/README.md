@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-jae-JAE_KX14-80K2DE
 - Hex ID: FZECONJAEJAEKX148K2DE
 - Name: con-jae : JAE_KX14-80K2DE
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-jae/JAE_KX14-80K2DE/
 - Description: con-jae : JAE_KX14-80K2DE
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-jae-JAE_KX14-80K2DE](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-jae-JAE_KX14-80K2DE)
 - Short Link: [http://oom.lt/FZECONJAEJAEKX148K2DE](http://oom.lt/FZECONJAEJAEKX148K2DE)

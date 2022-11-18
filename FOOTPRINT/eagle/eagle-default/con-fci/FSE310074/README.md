@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-fci-FSE310074
 - Hex ID: FZECONFCIFSE3174
 - Name: con-fci : FSE310074
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-fci/FSE310074/
 - Description: con-fci : FSE310074
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-fci-FSE310074](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-fci-FSE310074)
 - Short Link: [http://oom.lt/FZECONFCIFSE3174](http://oom.lt/FZECONFCIFSE3174)

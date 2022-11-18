@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-amd-mach-BGA256S
 - Hex ID: FZEAMDMACHBGA256S
 - Name: amd-mach : BGA256S
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/amd-mach/BGA256S/
 - Description: amd-mach : BGA256S
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-amd-mach-BGA256S](http://oom.lt/FOOTPRINT-eagle-eagle-default-amd-mach-BGA256S)
 - Short Link: [http://oom.lt/FZEAMDMACHBGA256S](http://oom.lt/FZEAMDMACHBGA256S)

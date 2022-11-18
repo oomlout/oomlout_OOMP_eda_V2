@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-power-GND1
 - Hex ID: SZKPOWERGND1
 - Name: power : GND1
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/power/GND1/
 - Description: power : GND1
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-power-GND1](http://oom.lt/SYMBOL-kicad-kicad-symbols-power-GND1)
 - Short Link: [http://oom.lt/SZKPOWERGND1](http://oom.lt/SZKPOWERGND1)

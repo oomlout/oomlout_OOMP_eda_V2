@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-C3225
 - Hex ID: FZAC3225
 - Name: adafruit : C3225
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/C3225/
 - Description: adafruit : C3225
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-C3225](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-C3225)
 - Short Link: [http://oom.lt/FZAC3225](http://oom.lt/FZAC3225)

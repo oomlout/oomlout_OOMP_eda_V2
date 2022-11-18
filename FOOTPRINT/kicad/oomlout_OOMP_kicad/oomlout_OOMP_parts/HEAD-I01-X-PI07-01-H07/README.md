@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-I01-X-PI07-01-H07
 - Hex ID: FZOOMPKOOMPPHEADI1XPI71H7
 - Name: oomlout_OOMP_parts : HEAD-I01-X-PI07-01-H07
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/HEAD-I01-X-PI07-01-H07/
 - Description: oomlout_OOMP_parts : HEAD-I01-X-PI07-01-H07
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-I01-X-PI07-01-H07](http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-I01-X-PI07-01-H07)
 - Short Link: [http://oom.lt/FZOOMPKOOMPPHEADI1XPI71H7](http://oom.lt/FZOOMPKOOMPPHEADI1XPI71H7)

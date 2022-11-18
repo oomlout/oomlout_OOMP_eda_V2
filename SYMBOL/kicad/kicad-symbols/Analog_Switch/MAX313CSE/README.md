@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Analog_Switch-MAX313CSE
 - Hex ID: SZKANALOGSWMAX313CSE
 - Name: Analog_Switch : MAX313CSE
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog_Switch/MAX313CSE/
 - Description: Analog_Switch : MAX313CSE
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_Switch-MAX313CSE](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_Switch-MAX313CSE)
 - Short Link: [http://oom.lt/SZKANALOGSWMAX313CSE](http://oom.lt/SZKANALOGSWMAX313CSE)

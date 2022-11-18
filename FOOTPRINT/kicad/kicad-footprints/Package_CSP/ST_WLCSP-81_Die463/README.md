@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_CSP-ST_WLCSP-81_Die463
 - Hex ID: FZKCSPSTWLCSP81DIE463
 - Name: Package_CSP : ST_WLCSP-81_Die463
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_CSP/ST_WLCSP-81_Die463/
 - Description: Package_CSP : ST_WLCSP-81_Die463
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_CSP-ST_WLCSP-81_Die463](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_CSP-ST_WLCSP-81_Die463)
 - Short Link: [http://oom.lt/FZKCSPSTWLCSP81DIE463](http://oom.lt/FZKCSPSTWLCSP81DIE463)

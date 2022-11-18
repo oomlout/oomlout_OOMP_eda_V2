@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-ATARI_CONNECTOR
 - Hex ID: FZSRTATARICN
 - Name: SparkFun-Retired : ATARI_CONNECTOR
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Retired/ATARI_CONNECTOR/
 - Description: SparkFun-Retired : ATARI_CONNECTOR
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-ATARI_CONNECTOR](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-ATARI_CONNECTOR)
 - Short Link: [http://oom.lt/FZSRTATARICN](http://oom.lt/FZSRTATARICN)

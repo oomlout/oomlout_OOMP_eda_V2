@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-rcl-C1812
 - Hex ID: FZERCLC1812
 - Name: rcl : C1812
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/rcl/C1812/
 - Description: rcl : C1812
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-C1812](http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-C1812)
 - Short Link: [http://oom.lt/FZERCLC1812](http://oom.lt/FZERCLC1812)

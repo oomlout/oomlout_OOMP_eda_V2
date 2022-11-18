@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-RF_Module-Garmin_M8-35_9.8x14.0mm_Layout6x6_P1.5mm
 - Hex ID: FZKRFMOGARMINM83598X14LAYOUT6X6P15
 - Name: RF_Module : Garmin_M8-35_9.8x14.0mm_Layout6x6_P1.5mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/RF_Module/Garmin_M8-35_9.8x14.0mm_Layout6x6_P1.5mm/
 - Description: RF_Module : Garmin_M8-35_9.8x14.0mm_Layout6x6_P1.5mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_Module-Garmin_M8-35_9.8x14.0mm_Layout6x6_P1.5mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_Module-Garmin_M8-35_9.8x14.0mm_Layout6x6_P1.5mm)
 - Short Link: [http://oom.lt/FZKRFMOGARMINM83598X14LAYOUT6X6P15](http://oom.lt/FZKRFMOGARMINM83598X14LAYOUT6X6P15)

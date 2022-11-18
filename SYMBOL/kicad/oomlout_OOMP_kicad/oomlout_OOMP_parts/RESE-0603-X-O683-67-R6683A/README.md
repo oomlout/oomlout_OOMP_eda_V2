@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O683-67-R6683A
 - Hex ID: SZOOMPKOOMPPRESE63XO68367R6683A
 - Name: oomlout_OOMP_parts : RESE-0603-X-O683-67-R6683A
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/RESE-0603-X-O683-67-R6683A/
 - Description: oomlout_OOMP_parts : RESE-0603-X-O683-67-R6683A
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O683-67-R6683A](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O683-67-R6683A)
 - Short Link: [http://oom.lt/SZOOMPKOOMPPRESE63XO68367R6683A](http://oom.lt/SZOOMPKOOMPPRESE63XO68367R6683A)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-LCC-8
 - Hex ID: FZSSPARKFUNSENSLCC8
 - Name: SparkFun-Sensors : LCC-8
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Sensors/LCC-8/
 - Description: SparkFun-Sensors : LCC-8
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-LCC-8](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-LCC-8)
 - Short Link: [http://oom.lt/FZSSPARKFUNSENSLCC8](http://oom.lt/FZSSPARKFUNSENSLCC8)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_Micro-Fit_3.0_43045-2210_2x11-1MP_P3.00mm_Horizontal
 - Hex ID: FZKCNMXMXMFIT343452212X111MPP3H
 - Name: Connector_Molex : Molex_Micro-Fit_3.0_43045-2210_2x11-1MP_P3.00mm_Horizontal
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_Micro-Fit_3.0_43045-2210_2x11-1MP_P3.00mm_Horizontal/
 - Description: Connector_Molex : Molex_Micro-Fit_3.0_43045-2210_2x11-1MP_P3.00mm_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_Micro-Fit_3.0_43045-2210_2x11-1MP_P3.00mm_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_Micro-Fit_3.0_43045-2210_2x11-1MP_P3.00mm_Horizontal)
 - Short Link: [http://oom.lt/FZKCNMXMXMFIT343452212X111MPP3H](http://oom.lt/FZKCNMXMXMFIT343452212X111MPP3H)

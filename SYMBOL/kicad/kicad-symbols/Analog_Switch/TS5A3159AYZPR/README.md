@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Analog_Switch-TS5A3159AYZPR
 - Hex ID: SZKANALOGSWTS5A3159AYZPR
 - Name: Analog_Switch : TS5A3159AYZPR
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog_Switch/TS5A3159AYZPR/
 - Description: Analog_Switch : TS5A3159AYZPR
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_Switch-TS5A3159AYZPR](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_Switch-TS5A3159AYZPR)
 - Short Link: [http://oom.lt/SZKANALOGSWTS5A3159AYZPR](http://oom.lt/SZKANALOGSWTS5A3159AYZPR)

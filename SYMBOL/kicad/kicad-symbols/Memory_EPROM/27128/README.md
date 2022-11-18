@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Memory_EPROM-27128
 - Hex ID: SZKMEMORYEPROM27128
 - Name: Memory_EPROM : 27128
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Memory_EPROM/27128/
 - Description: Memory_EPROM : 27128
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_EPROM-27128](http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_EPROM-27128)
 - Short Link: [http://oom.lt/SZKMEMORYEPROM27128](http://oom.lt/SZKMEMORYEPROM27128)

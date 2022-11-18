@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0603-X-UF47D-V10-C6U004
 - Hex ID: SZOOMPKOOMPPCAPC63XUF47DV1C6U4
 - Name: oomlout_OOMP_parts : CAPC-0603-X-UF47D-V10-C6U004
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/CAPC-0603-X-UF47D-V10-C6U004/
 - Description: oomlout_OOMP_parts : CAPC-0603-X-UF47D-V10-C6U004
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0603-X-UF47D-V10-C6U004](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0603-X-UF47D-V10-C6U004)
 - Short Link: [http://oom.lt/SZOOMPKOOMPPCAPC63XUF47DV1C6U4](http://oom.lt/SZOOMPKOOMPPCAPC63XUF47DV1C6U4)

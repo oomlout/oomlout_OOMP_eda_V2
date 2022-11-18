@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Device-Thermistor_NTC
 - Hex ID: SZKDEVICETHERMISTORNTC
 - Name: Device : Thermistor_NTC
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/Thermistor_NTC/
 - Description: Device : Thermistor_NTC
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Thermistor_NTC](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Thermistor_NTC)
 - Short Link: [http://oom.lt/SZKDEVICETHERMISTORNTC](http://oom.lt/SZKDEVICETHERMISTORNTC)

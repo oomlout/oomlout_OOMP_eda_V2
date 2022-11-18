@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_Sabre_43160-1103_1x03_P7.49mm_Horizontal
 - Hex ID: FZKCNMXMXSABRE43161131X3P749H
 - Name: Connector_Molex : Molex_Sabre_43160-1103_1x03_P7.49mm_Horizontal
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_Sabre_43160-1103_1x03_P7.49mm_Horizontal/
 - Description: Connector_Molex : Molex_Sabre_43160-1103_1x03_P7.49mm_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_Sabre_43160-1103_1x03_P7.49mm_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_Sabre_43160-1103_1x03_P7.49mm_Horizontal)
 - Short Link: [http://oom.lt/FZKCNMXMXSABRE43161131X3P749H](http://oom.lt/FZKCNMXMXSABRE43161131X3P749H)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Displays-SERIES6288
 - Hex ID: FZSSPARKFUNDISSERIES6288
 - Name: SparkFun-Displays : SERIES6288
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Displays/SERIES6288/
 - Description: SparkFun-Displays : SERIES6288
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Displays-SERIES6288](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Displays-SERIES6288)
 - Short Link: [http://oom.lt/FZSSPARKFUNDISSERIES6288](http://oom.lt/FZSSPARKFUNDISSERIES6288)

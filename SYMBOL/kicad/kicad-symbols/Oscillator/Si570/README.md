@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Oscillator-Si570
 - Hex ID: SZKOCSSI57
 - Name: Oscillator : Si570
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Oscillator/Si570/
 - Description: Oscillator : Si570
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Oscillator-Si570](http://oom.lt/SYMBOL-kicad-kicad-symbols-Oscillator-Si570)
 - Short Link: [http://oom.lt/SZKOCSSI57](http://oom.lt/SZKOCSSI57)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0402-X-O333-01-R4O333
 - Hex ID: SZOOMPKOOMPPRESE42XO3331R4O333
 - Name: oomlout_OOMP_parts : RESE-0402-X-O333-01-R4O333
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/RESE-0402-X-O333-01-R4O333/
 - Description: oomlout_OOMP_parts : RESE-0402-X-O333-01-R4O333
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0402-X-O333-01-R4O333](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0402-X-O333-01-R4O333)
 - Short Link: [http://oom.lt/SZOOMPKOOMPPRESE42XO3331R4O333](http://oom.lt/SZOOMPKOOMPPRESE42XO3331R4O333)

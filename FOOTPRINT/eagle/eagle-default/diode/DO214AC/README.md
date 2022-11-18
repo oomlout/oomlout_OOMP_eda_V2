@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-diode-DO214AC
 - Hex ID: FZEDIODEDO214AC
 - Name: diode : DO214AC
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/diode/DO214AC/
 - Description: diode : DO214AC
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-diode-DO214AC](http://oom.lt/FOOTPRINT-eagle-eagle-default-diode-DO214AC)
 - Short Link: [http://oom.lt/FZEDIODEDO214AC](http://oom.lt/FZEDIODEDO214AC)

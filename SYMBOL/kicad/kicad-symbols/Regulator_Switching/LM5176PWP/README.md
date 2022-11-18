@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-LM5176PWP
 - Hex ID: SZKREGULATORSWINGLM5176PWP
 - Name: Regulator_Switching : LM5176PWP
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/LM5176PWP/
 - Description: Regulator_Switching : LM5176PWP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LM5176PWP](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LM5176PWP)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGLM5176PWP](http://oom.lt/SZKREGULATORSWINGLM5176PWP)

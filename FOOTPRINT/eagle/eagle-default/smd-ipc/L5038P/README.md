@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-smd-ipc-L5038P
 - Hex ID: FZESMIPCL538P
 - Name: smd-ipc : L5038P
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/smd-ipc/L5038P/
 - Description: smd-ipc : L5038P
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-L5038P](http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-L5038P)
 - Short Link: [http://oom.lt/FZESMIPCL538P](http://oom.lt/FZESMIPCL538P)

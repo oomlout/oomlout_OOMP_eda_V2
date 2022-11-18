@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega162V-8P
 - Hex ID: SZKMCUMCHIPATMEGAATMEGA162V8P
 - Name: MCU_Microchip_ATmega : ATmega162V-8P
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_ATmega/ATmega162V-8P/
 - Description: MCU_Microchip_ATmega : ATmega162V-8P
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega162V-8P](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega162V-8P)
 - Short Link: [http://oom.lt/SZKMCUMCHIPATMEGAATMEGA162V8P](http://oom.lt/SZKMCUMCHIPATMEGAATMEGA162V8P)

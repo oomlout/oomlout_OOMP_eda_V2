@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Analog_ADC-ADS8681RUM
 - Hex ID: SZKANALOGADCADS8681RUM
 - Name: Analog_ADC : ADS8681RUM
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog_ADC/ADS8681RUM/
 - Description: Analog_ADC : ADS8681RUM
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-ADS8681RUM](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-ADS8681RUM)
 - Short Link: [http://oom.lt/SZKANALOGADCADS8681RUM](http://oom.lt/SZKANALOGADCADS8681RUM)

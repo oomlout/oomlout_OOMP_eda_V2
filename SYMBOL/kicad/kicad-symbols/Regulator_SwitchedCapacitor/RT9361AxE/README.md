@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_SwitchedCapacitor-RT9361AxE
 - Hex ID: SZKREGULATORSWEDCAPACITORRT9361AXE
 - Name: Regulator_SwitchedCapacitor : RT9361AxE
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_SwitchedCapacitor/RT9361AxE/
 - Description: Regulator_SwitchedCapacitor : RT9361AxE
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_SwitchedCapacitor-RT9361AxE](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_SwitchedCapacitor-RT9361AxE)
 - Short Link: [http://oom.lt/SZKREGULATORSWEDCAPACITORRT9361AXE](http://oom.lt/SZKREGULATORSWEDCAPACITORRT9361AXE)

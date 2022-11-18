@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-MLF-8-1EP_3x3mm_P0.65mm_EP1.55x2.3mm
 - Hex ID: FZKDFNMLF81EP3X3P65EP155X23
 - Name: Package_DFN_QFN : MLF-8-1EP_3x3mm_P0.65mm_EP1.55x2.3mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/MLF-8-1EP_3x3mm_P0.65mm_EP1.55x2.3mm/
 - Description: Package_DFN_QFN : MLF-8-1EP_3x3mm_P0.65mm_EP1.55x2.3mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-MLF-8-1EP_3x3mm_P0.65mm_EP1.55x2.3mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-MLF-8-1EP_3x3mm_P0.65mm_EP1.55x2.3mm)
 - Short Link: [http://oom.lt/FZKDFNMLF81EP3X3P65EP155X23](http://oom.lt/FZKDFNMLF81EP3X3P65EP155X23)

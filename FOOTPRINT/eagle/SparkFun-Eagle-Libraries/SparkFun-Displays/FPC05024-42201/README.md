@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Displays-FPC05024-42201
 - Hex ID: FZSSPARKFUNDISFPC5244221
 - Name: SparkFun-Displays : FPC05024-42201
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Displays/FPC05024-42201/
 - Description: SparkFun-Displays : FPC05024-42201
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Displays-FPC05024-42201](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Displays-FPC05024-42201)
 - Short Link: [http://oom.lt/FZSSPARKFUNDISFPC5244221](http://oom.lt/FZSSPARKFUNDISFPC5244221)

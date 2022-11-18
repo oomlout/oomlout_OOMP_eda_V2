@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_USB-FSUSB42MUX
 - Hex ID: SZKINTERFACEUFSU42MUX
 - Name: Interface_USB : FSUSB42MUX
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_USB/FSUSB42MUX/
 - Description: Interface_USB : FSUSB42MUX
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_USB-FSUSB42MUX](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_USB-FSUSB42MUX)
 - Short Link: [http://oom.lt/SZKINTERFACEUFSU42MUX](http://oom.lt/SZKINTERFACEUFSU42MUX)

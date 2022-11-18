@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Driver_FET-IR25607S
 - Hex ID: SZKDRIVERFETIR2567S
 - Name: Driver_FET : IR25607S
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Driver_FET/IR25607S/
 - Description: Driver_FET : IR25607S
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-IR25607S](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-IR25607S)
 - Short Link: [http://oom.lt/SZKDRIVERFETIR2567S](http://oom.lt/SZKDRIVERFETIR2567S)

@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKTRTRNFETALP3188HANDSOLDERING > Transformer_SMD : Transformer_NF_ETAL_P3188_HandSoldering](#fzktrtrnfetalp3188handsoldering--transformer_smd--transformer_nf_etal_p3188_handsoldering)
+* [FZKTRTRNFETALP3188HS > Transformer_SMD : Transformer_NF_ETAL_P3188_HandSoldering](#fzktrtrnfetalp3188hs--transformer_smd--transformer_nf_etal_p3188_handsoldering)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKTRTRNFETALP3188HANDSOLDERING > Transformer_SMD : Transformer_NF_ETAL_P3188_HandSoldering
+# FZKTRTRNFETALP3188HS > Transformer_SMD : Transformer_NF_ETAL_P3188_HandSoldering
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Transformer_SMD-Transformer_NF_ETAL_P3188_HandSoldering
-- Hex ID: FZKTRTRNFETALP3188HANDSOLDERING
+- Hex ID: FZKTRTRNFETALP3188HS
 - Name: Transformer_SMD : Transformer_NF_ETAL_P3188_HandSoldering
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Transformer_SMD/Transformer_NF_ETAL_P3188_HandSoldering/
 - Description: Transformer_SMD : Transformer_NF_ETAL_P3188_HandSoldering
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Transformer_SMD-Transformer_NF_ETAL_P3188_HandSoldering](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Transformer_SMD-Transformer_NF_ETAL_P3188_HandSoldering)
-- Short Link: [http://oom.lt/FZKTRTRNFETALP3188HANDSOLDERING](http://oom.lt/FZKTRTRNFETALP3188HANDSOLDERING)
+- Short Link: [http://oom.lt/FZKTRTRNFETALP3188HS](http://oom.lt/FZKTRTRNFETALP3188HS)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Transformer_SMD|
 |OOMP Index|oompIndex|Transformer_NF_ETAL_P3188_HandSoldering|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Transformer_SMD-Transformer_NF_ETAL_P3188_HandSoldering|
-|Hex ID (short code)|hexID|FZKTRTRNFETALP3188HANDSOLDERING|
+|Hex ID (short code)|hexID|FZKTRTRNFETALP3188HS|
 |name|name|Transformer_SMD : Transformer_NF_ETAL_P3188_HandSoldering|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Transformer_NF_ETAL_P3188_HandSoldering'</td><td> 'description'</td></tr><tr><td> 'NF-Transformer</td><td> ETAL</td><td> P3188</td><td> SMD</td><td> Handsoldering</td><td>'</td><td> 'tags'</td></tr><tr><td> 'NF-Transformer ETAL P3188 SMD Handsoldering '</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Transformer_SMD.3dshapes/Transformer_NF_ETAL_P3188_HandSoldering.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-GPS-VENUS638FLPX
 - Hex ID: FZSGVENUS638FLPX
 - Name: SparkFun-GPS : VENUS638FLPX
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-GPS/VENUS638FLPX/
 - Description: SparkFun-GPS : VENUS638FLPX
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-GPS-VENUS638FLPX](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-GPS-VENUS638FLPX)
 - Short Link: [http://oom.lt/FZSGVENUS638FLPX](http://oom.lt/FZSGVENUS638FLPX)

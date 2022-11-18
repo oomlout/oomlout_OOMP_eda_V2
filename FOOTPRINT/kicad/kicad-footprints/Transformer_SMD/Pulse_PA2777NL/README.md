@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Transformer_SMD-Pulse_PA2777NL
 - Hex ID: FZKTRPULSEPA2777NL
 - Name: Transformer_SMD : Pulse_PA2777NL
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Transformer_SMD/Pulse_PA2777NL/
 - Description: Transformer_SMD : Pulse_PA2777NL
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Transformer_SMD-Pulse_PA2777NL](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Transformer_SMD-Pulse_PA2777NL)
 - Short Link: [http://oom.lt/FZKTRPULSEPA2777NL](http://oom.lt/FZKTRPULSEPA2777NL)

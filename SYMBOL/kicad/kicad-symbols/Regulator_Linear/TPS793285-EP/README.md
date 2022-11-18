@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-TPS793285-EP
 - Hex ID: SZKREGULATORLINEARTPS793285EP
 - Name: Regulator_Linear : TPS793285-EP
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/TPS793285-EP/
 - Description: Regulator_Linear : TPS793285-EP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-TPS793285-EP](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-TPS793285-EP)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARTPS793285EP](http://oom.lt/SZKREGULATORLINEARTPS793285EP)

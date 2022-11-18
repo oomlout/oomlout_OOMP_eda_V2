@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-amp-FLOP-4V
 - Hex ID: FZECONAMPFLOP4V
 - Name: con-amp : FLOP-4V
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-amp/FLOP-4V/
 - Description: con-amp : FLOP-4V
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-amp-FLOP-4V](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-amp-FLOP-4V)
 - Short Link: [http://oom.lt/FZECONAMPFLOP4V](http://oom.lt/FZECONAMPFLOP4V)

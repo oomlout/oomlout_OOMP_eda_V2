@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-texas-DGK_S-PDSO-G8
 - Hex ID: FZETEXASDGKSPDSOG8
 - Name: texas : DGK_S-PDSO-G8
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/texas/DGK_S-PDSO-G8/
 - Description: texas : DGK_S-PDSO-G8
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-texas-DGK_S-PDSO-G8](http://oom.lt/FOOTPRINT-eagle-eagle-default-texas-DGK_S-PDSO-G8)
 - Short Link: [http://oom.lt/FZETEXASDGKSPDSOG8](http://oom.lt/FZETEXASDGKSPDSOG8)

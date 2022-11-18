@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Instrumentation-AD8421BRMZ
 - Hex ID: SZKAMPLIFIERINSTRUMENTATIONAD8421BRMZ
 - Name: Amplifier_Instrumentation : AD8421BRMZ
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Instrumentation/AD8421BRMZ/
 - Description: Amplifier_Instrumentation : AD8421BRMZ
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Instrumentation-AD8421BRMZ](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Instrumentation-AD8421BRMZ)
 - Short Link: [http://oom.lt/SZKAMPLIFIERINSTRUMENTATIONAD8421BRMZ](http://oom.lt/SZKAMPLIFIERINSTRUMENTATIONAD8421BRMZ)

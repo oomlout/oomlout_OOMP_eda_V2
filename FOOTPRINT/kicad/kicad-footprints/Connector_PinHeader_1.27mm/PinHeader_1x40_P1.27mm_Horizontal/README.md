@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKCNPINHEADER127PINHEADER1X4P127H > Connector_PinHeader_1.27mm : PinHeader_1x40_P1.27mm_Horizontal](#fzkcnpinheader127pinheader1x4p127h--connector_pinheader_127mm--pinheader_1x40_p127mm_horizontal)
+* [FZKCNPH127PH1X4P127H > Connector_PinHeader_1.27mm : PinHeader_1x40_P1.27mm_Horizontal](#fzkcnph127ph1x4p127h--connector_pinheader_127mm--pinheader_1x40_p127mm_horizontal)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKCNPINHEADER127PINHEADER1X4P127H > Connector_PinHeader_1.27mm : PinHeader_1x40_P1.27mm_Horizontal
+# FZKCNPH127PH1X4P127H > Connector_PinHeader_1.27mm : PinHeader_1x40_P1.27mm_Horizontal
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_PinHeader_1.27mm-PinHeader_1x40_P1.27mm_Horizontal
-- Hex ID: FZKCNPINHEADER127PINHEADER1X4P127H
+- Hex ID: FZKCNPH127PH1X4P127H
 - Name: Connector_PinHeader_1.27mm : PinHeader_1x40_P1.27mm_Horizontal
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_PinHeader_1.27mm/PinHeader_1x40_P1.27mm_Horizontal/
 - Description: Connector_PinHeader_1.27mm : PinHeader_1x40_P1.27mm_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_PinHeader_1.27mm-PinHeader_1x40_P1.27mm_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_PinHeader_1.27mm-PinHeader_1x40_P1.27mm_Horizontal)
-- Short Link: [http://oom.lt/FZKCNPINHEADER127PINHEADER1X4P127H](http://oom.lt/FZKCNPINHEADER127PINHEADER1X4P127H)
+- Short Link: [http://oom.lt/FZKCNPH127PH1X4P127H](http://oom.lt/FZKCNPH127PH1X4P127H)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Connector_PinHeader_1.27mm|
 |OOMP Index|oompIndex|PinHeader_1x40_P1.27mm_Horizontal|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_PinHeader_1.27mm-PinHeader_1x40_P1.27mm_Horizontal|
-|Hex ID (short code)|hexID|FZKCNPINHEADER127PINHEADER1X4P127H|
+|Hex ID (short code)|hexID|FZKCNPH127PH1X4P127H|
 |name|name|Connector_PinHeader_1.27mm : PinHeader_1x40_P1.27mm_Horizontal|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'PinHeader_1x40_P1.27mm_Horizontal'</td><td> 'description'</td></tr><tr><td> 'Through hole angled pin header</td><td> 1x40</td><td> 1.27mm pitch</td><td> 4.0mm pin length</td><td> single row'</td><td> 'tags'</td></tr><tr><td> 'Through hole angled pin header THT 1x40 1.27mm single row'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_PinHeader_1.27mm.3dshapes/PinHeader_1x40_P1.27mm_Horizontal.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

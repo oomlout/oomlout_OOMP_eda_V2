@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-relay-DIL04
 - Hex ID: FZERELAYDIL4
 - Name: relay : DIL04
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/relay/DIL04/
 - Description: relay : DIL04
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-DIL04](http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-DIL04)
 - Short Link: [http://oom.lt/FZERELAYDIL4](http://oom.lt/FZERELAYDIL4)

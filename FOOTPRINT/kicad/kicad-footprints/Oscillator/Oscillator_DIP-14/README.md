@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKOCSOCSDIP14 > Oscillator : Oscillator_DIP-14](#fzkocsocsdip14--oscillator--oscillator_dip-14)
+* [FZKOCSOCSD14 > Oscillator : Oscillator_DIP-14](#fzkocsocsd14--oscillator--oscillator_dip-14)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKOCSOCSDIP14 > Oscillator : Oscillator_DIP-14
+# FZKOCSOCSD14 > Oscillator : Oscillator_DIP-14
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Oscillator-Oscillator_DIP-14
-- Hex ID: FZKOCSOCSDIP14
+- Hex ID: FZKOCSOCSD14
 - Name: Oscillator : Oscillator_DIP-14
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Oscillator/Oscillator_DIP-14/
 - Description: Oscillator : Oscillator_DIP-14
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Oscillator-Oscillator_DIP-14](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Oscillator-Oscillator_DIP-14)
-- Short Link: [http://oom.lt/FZKOCSOCSDIP14](http://oom.lt/FZKOCSOCSDIP14)
+- Short Link: [http://oom.lt/FZKOCSOCSD14](http://oom.lt/FZKOCSOCSD14)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Oscillator|
 |OOMP Index|oompIndex|Oscillator_DIP-14|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Oscillator-Oscillator_DIP-14|
-|Hex ID (short code)|hexID|FZKOCSOCSDIP14|
+|Hex ID (short code)|hexID|FZKOCSOCSD14|
 |name|name|Oscillator : Oscillator_DIP-14|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Oscillator_DIP-14'</td><td> 'description'</td></tr><tr><td> 'Oscillator</td><td> DIP14</td><td> http</td></tr><tr><td>//cdn-reichelt.de/documents/datenblatt/B400/OSZI.pdf'</td><td> 'tags'</td></tr><tr><td> 'oscillator'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Oscillator.3dshapes/Oscillator_DIP-14.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

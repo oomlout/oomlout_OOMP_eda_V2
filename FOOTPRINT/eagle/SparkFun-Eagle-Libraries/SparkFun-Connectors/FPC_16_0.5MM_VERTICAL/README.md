@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-FPC_16_0.5MM_VERTICAL
 - Hex ID: FZSSPARKFUNCNSFPC165F
 - Name: SparkFun-Connectors : FPC_16_0.5MM_VERTICAL
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Connectors/FPC_16_0.5MM_VERTICAL/
 - Description: SparkFun-Connectors : FPC_16_0.5MM_VERTICAL
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-FPC_16_0.5MM_VERTICAL](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-FPC_16_0.5MM_VERTICAL)
 - Short Link: [http://oom.lt/FZSSPARKFUNCNSFPC165F](http://oom.lt/FZSSPARKFUNCNSFPC165F)

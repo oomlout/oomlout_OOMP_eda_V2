@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-trafo-siemens-RM14-10
 - Hex ID: FZETRAFOSIEMENSRM141
 - Name: trafo-siemens : RM14-10
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/trafo-siemens/RM14-10/
 - Description: trafo-siemens : RM14-10
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-trafo-siemens-RM14-10](http://oom.lt/FOOTPRINT-eagle-eagle-default-trafo-siemens-RM14-10)
 - Short Link: [http://oom.lt/FZETRAFOSIEMENSRM141](http://oom.lt/FZETRAFOSIEMENSRM141)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-OptoDevice-Osram_DIL2_4.3x4.65mm_P5.08mm
 - Hex ID: FZKOPOSRAMDIL243X465P58
 - Name: OptoDevice : Osram_DIL2_4.3x4.65mm_P5.08mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/OptoDevice/Osram_DIL2_4.3x4.65mm_P5.08mm/
 - Description: OptoDevice : Osram_DIL2_4.3x4.65mm_P5.08mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-OptoDevice-Osram_DIL2_4.3x4.65mm_P5.08mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-OptoDevice-Osram_DIL2_4.3x4.65mm_P5.08mm)
 - Short Link: [http://oom.lt/FZKOPOSRAMDIL243X465P58](http://oom.lt/FZKOPOSRAMDIL243X465P58)

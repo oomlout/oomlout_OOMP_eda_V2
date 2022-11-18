@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Analog_Switch-ADG417BR
 - Hex ID: SZKANALOGSWADG417BR
 - Name: Analog_Switch : ADG417BR
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog_Switch/ADG417BR/
 - Description: Analog_Switch : ADG417BR
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_Switch-ADG417BR](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_Switch-ADG417BR)
 - Short Link: [http://oom.lt/SZKANALOGSWADG417BR](http://oom.lt/SZKANALOGSWADG417BR)

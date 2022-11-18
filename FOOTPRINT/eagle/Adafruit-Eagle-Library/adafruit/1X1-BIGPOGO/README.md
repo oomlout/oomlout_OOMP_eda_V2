@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-1X1-BIGPOGO
 - Hex ID: FZA1X1BPOGO
 - Name: adafruit : 1X1-BIGPOGO
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/1X1-BIGPOGO/
 - Description: adafruit : 1X1-BIGPOGO
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-1X1-BIGPOGO](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-1X1-BIGPOGO)
 - Short Link: [http://oom.lt/FZA1X1BPOGO](http://oom.lt/FZA1X1BPOGO)

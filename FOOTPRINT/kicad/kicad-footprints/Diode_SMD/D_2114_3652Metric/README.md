@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_2114_3652Metric
 - Hex ID: FZKDD21143652VA
 - Name: Diode_SMD : D_2114_3652Metric
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Diode_SMD/D_2114_3652Metric/
 - Description: Diode_SMD : D_2114_3652Metric
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_2114_3652Metric](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_2114_3652Metric)
 - Short Link: [http://oom.lt/FZKDD21143652VA](http://oom.lt/FZKDD21143652VA)

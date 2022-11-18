@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_Audio-Jack_speakON_Neutrik_NL8MD-V_Vertical
 - Hex ID: FZKCNAUDIOJSPEAKONNEUTRIKNL8MDVF
 - Name: Connector_Audio : Jack_speakON_Neutrik_NL8MD-V_Vertical
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Audio/Jack_speakON_Neutrik_NL8MD-V_Vertical/
 - Description: Connector_Audio : Jack_speakON_Neutrik_NL8MD-V_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Audio-Jack_speakON_Neutrik_NL8MD-V_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Audio-Jack_speakON_Neutrik_NL8MD-V_Vertical)
 - Short Link: [http://oom.lt/FZKCNAUDIOJSPEAKONNEUTRIKNL8MDVF](http://oom.lt/FZKCNAUDIOJSPEAKONNEUTRIKNL8MDVF)

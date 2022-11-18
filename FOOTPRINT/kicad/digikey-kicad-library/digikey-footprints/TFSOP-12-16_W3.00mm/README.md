@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-TFSOP-12-16_W3.00mm
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSTFS1216W3
 - Name: digikey-footprints : TFSOP-12-16_W3.00mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/TFSOP-12-16_W3.00mm/
 - Description: digikey-footprints : TFSOP-12-16_W3.00mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-TFSOP-12-16_W3.00mm](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-TFSOP-12-16_W3.00mm)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSTFS1216W3](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSTFS1216W3)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_SO-SOIC-28W_7.5x17.9mm_P1.27mm
 - Hex ID: FZKSOSOIC28W75X179P127
 - Name: Package_SO : SOIC-28W_7.5x17.9mm_P1.27mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SO/SOIC-28W_7.5x17.9mm_P1.27mm/
 - Description: Package_SO : SOIC-28W_7.5x17.9mm_P1.27mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SO-SOIC-28W_7.5x17.9mm_P1.27mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SO-SOIC-28W_7.5x17.9mm_P1.27mm)
 - Short Link: [http://oom.lt/FZKSOSOIC28W75X179P127](http://oom.lt/FZKSOSOIC28W75X179P127)

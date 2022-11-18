@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKBSWDIPSPSTX4SLIDEOMRONA6H411W615P127 > Button_Switch_SMD : SW_DIP_SPSTx04_Slide_Omron_A6H-4101_W6.15mm_P1.27mm](#fzkbswdipspstx4slideomrona6h411w615p127--button_switch_smd--sw_dip_spstx04_slide_omron_a6h-4101_w615mm_p127mm)
+* [FZKBSWDSPSTX4SLOMRONA6H411W615P127 > Button_Switch_SMD : SW_DIP_SPSTx04_Slide_Omron_A6H-4101_W6.15mm_P1.27mm](#fzkbswdspstx4slomrona6h411w615p127--button_switch_smd--sw_dip_spstx04_slide_omron_a6h-4101_w615mm_p127mm)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKBSWDIPSPSTX4SLIDEOMRONA6H411W615P127 > Button_Switch_SMD : SW_DIP_SPSTx04_Slide_Omron_A6H-4101_W6.15mm_P1.27mm
+# FZKBSWDSPSTX4SLOMRONA6H411W615P127 > Button_Switch_SMD : SW_DIP_SPSTx04_Slide_Omron_A6H-4101_W6.15mm_P1.27mm
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-SW_DIP_SPSTx04_Slide_Omron_A6H-4101_W6.15mm_P1.27mm
-- Hex ID: FZKBSWDIPSPSTX4SLIDEOMRONA6H411W615P127
+- Hex ID: FZKBSWDSPSTX4SLOMRONA6H411W615P127
 - Name: Button_Switch_SMD : SW_DIP_SPSTx04_Slide_Omron_A6H-4101_W6.15mm_P1.27mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Button_Switch_SMD/SW_DIP_SPSTx04_Slide_Omron_A6H-4101_W6.15mm_P1.27mm/
 - Description: Button_Switch_SMD : SW_DIP_SPSTx04_Slide_Omron_A6H-4101_W6.15mm_P1.27mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-SW_DIP_SPSTx04_Slide_Omron_A6H-4101_W6.15mm_P1.27mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-SW_DIP_SPSTx04_Slide_Omron_A6H-4101_W6.15mm_P1.27mm)
-- Short Link: [http://oom.lt/FZKBSWDIPSPSTX4SLIDEOMRONA6H411W615P127](http://oom.lt/FZKBSWDIPSPSTX4SLIDEOMRONA6H411W615P127)
+- Short Link: [http://oom.lt/FZKBSWDSPSTX4SLOMRONA6H411W615P127](http://oom.lt/FZKBSWDSPSTX4SLOMRONA6H411W615P127)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Button_Switch_SMD|
 |OOMP Index|oompIndex|SW_DIP_SPSTx04_Slide_Omron_A6H-4101_W6.15mm_P1.27mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-SW_DIP_SPSTx04_Slide_Omron_A6H-4101_W6.15mm_P1.27mm|
-|Hex ID (short code)|hexID|FZKBSWDIPSPSTX4SLIDEOMRONA6H411W615P127|
+|Hex ID (short code)|hexID|FZKBSWDSPSTX4SLOMRONA6H411W615P127|
 |name|name|Button_Switch_SMD : SW_DIP_SPSTx04_Slide_Omron_A6H-4101_W6.15mm_P1.27mm|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'SW_DIP_SPSTx04_Slide_Omron_A6H-4101_W6.15mm_P1.27mm'</td><td> 'description'</td></tr><tr><td> 'SMD 4x-dip-switch SPST Omron_A6H-4101</td><td> Slide</td><td> row spacing 6.15 mm (242 mils)</td><td> body size  (see https</td></tr><tr><td>//www.omron.com/ecb/products/pdf/en-a6h.pdf)'</td><td> 'tags'</td></tr><tr><td> 'SMD DIP Switch SPST Slide 6.15mm 242mil'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Button_Switch_SMD.3dshapes/SW_DIP_SPSTx04_Slide_Omron_A6H-4101_W6.15mm_P1.27mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

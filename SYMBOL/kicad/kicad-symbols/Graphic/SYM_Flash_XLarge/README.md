@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Graphic-SYM_Flash_XLarge
 - Hex ID: SZKGRAPHICSYMFLASHXL
 - Name: Graphic : SYM_Flash_XLarge
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Graphic/SYM_Flash_XLarge/
 - Description: Graphic : SYM_Flash_XLarge
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Graphic-SYM_Flash_XLarge](http://oom.lt/SYMBOL-kicad-kicad-symbols-Graphic-SYM_Flash_XLarge)
 - Short Link: [http://oom.lt/SZKGRAPHICSYMFLASHXL](http://oom.lt/SZKGRAPHICSYMFLASHXL)

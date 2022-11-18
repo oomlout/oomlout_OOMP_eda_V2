@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-E5-13
 - Hex ID: FZAE513
 - Name: adafruit : E5-13
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/E5-13/
 - Description: adafruit : E5-13
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-E5-13](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-E5-13)
 - Short Link: [http://oom.lt/FZAE513](http://oom.lt/FZAE513)

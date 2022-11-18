@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_SAME-ATSAME53J18A-M
 - Hex ID: SZKMCUMCHIPSAMEATSAME53J18AM
 - Name: MCU_Microchip_SAME : ATSAME53J18A-M
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_SAME/ATSAME53J18A-M/
 - Description: MCU_Microchip_SAME : ATSAME53J18A-M
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_SAME-ATSAME53J18A-M](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_SAME-ATSAME53J18A-M)
 - Short Link: [http://oom.lt/SZKMCUMCHIPSAMEATSAME53J18AM](http://oom.lt/SZKMCUMCHIPSAMEATSAME53J18AM)

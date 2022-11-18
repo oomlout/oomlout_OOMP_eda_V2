@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-ARDUINO_MINI
 - Hex ID: FZSRTARDM
 - Name: SparkFun-Retired : ARDUINO_MINI
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Retired/ARDUINO_MINI/
 - Description: SparkFun-Retired : ARDUINO_MINI
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-ARDUINO_MINI](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-ARDUINO_MINI)
 - Short Link: [http://oom.lt/FZSRTARDM](http://oom.lt/FZSRTARDM)

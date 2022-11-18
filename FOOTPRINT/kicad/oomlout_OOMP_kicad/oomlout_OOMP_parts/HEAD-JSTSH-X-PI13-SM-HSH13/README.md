@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-JSTSH-X-PI13-SM-HSH13
 - Hex ID: FZOOMPKOOMPPHEADJSTSHXPI13SMHSH13
 - Name: oomlout_OOMP_parts : HEAD-JSTSH-X-PI13-SM-HSH13
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/HEAD-JSTSH-X-PI13-SM-HSH13/
 - Description: oomlout_OOMP_parts : HEAD-JSTSH-X-PI13-SM-HSH13
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-JSTSH-X-PI13-SM-HSH13](http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-JSTSH-X-PI13-SM-HSH13)
 - Short Link: [http://oom.lt/FZOOMPKOOMPPHEADJSTSHXPI13SMHSH13](http://oom.lt/FZOOMPKOOMPPHEADJSTSHXPI13SMHSH13)

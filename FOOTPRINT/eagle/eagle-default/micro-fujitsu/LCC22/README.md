@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-micro-fujitsu-LCC22
 - Hex ID: FZEMFUJITSULCC22
 - Name: micro-fujitsu : LCC22
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/micro-fujitsu/LCC22/
 - Description: micro-fujitsu : LCC22
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-fujitsu-LCC22](http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-fujitsu-LCC22)
 - Short Link: [http://oom.lt/FZEMFUJITSULCC22](http://oom.lt/FZEMFUJITSULCC22)

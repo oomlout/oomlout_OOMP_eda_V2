@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Analog-MPY634KU
 - Hex ID: SZKANALOGMPY634KU
 - Name: Analog : MPY634KU
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog/MPY634KU/
 - Description: Analog : MPY634KU
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog-MPY634KU](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog-MPY634KU)
 - Short Link: [http://oom.lt/SZKANALOGMPY634KU](http://oom.lt/SZKANALOGMPY634KU)

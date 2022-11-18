@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-heatsink-FK213
 - Hex ID: FZEHFK213
 - Name: heatsink : FK213
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/heatsink/FK213/
 - Description: heatsink : FK213
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-heatsink-FK213](http://oom.lt/FOOTPRINT-eagle-eagle-default-heatsink-FK213)
 - Short Link: [http://oom.lt/FZEHFK213](http://oom.lt/FZEHFK213)

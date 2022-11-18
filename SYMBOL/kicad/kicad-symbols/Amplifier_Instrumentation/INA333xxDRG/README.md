@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Instrumentation-INA333xxDRG
 - Hex ID: SZKAMPLIFIERINSTRUMENTATIONINA333XXDRG
 - Name: Amplifier_Instrumentation : INA333xxDRG
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Instrumentation/INA333xxDRG/
 - Description: Amplifier_Instrumentation : INA333xxDRG
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Instrumentation-INA333xxDRG](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Instrumentation-INA333xxDRG)
 - Short Link: [http://oom.lt/SZKAMPLIFIERINSTRUMENTATIONINA333XXDRG](http://oom.lt/SZKAMPLIFIERINSTRUMENTATIONINA333XXDRG)

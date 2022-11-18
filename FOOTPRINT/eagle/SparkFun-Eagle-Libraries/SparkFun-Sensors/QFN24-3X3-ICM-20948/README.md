@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-QFN24-3X3-ICM-20948
 - Hex ID: FZSSPARKFUNSENSQFN243X3ICM2948
 - Name: SparkFun-Sensors : QFN24-3X3-ICM-20948
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Sensors/QFN24-3X3-ICM-20948/
 - Description: SparkFun-Sensors : QFN24-3X3-ICM-20948
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-QFN24-3X3-ICM-20948](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-QFN24-3X3-ICM-20948)
 - Short Link: [http://oom.lt/FZSSPARKFUNSENSQFN243X3ICM2948](http://oom.lt/FZSSPARKFUNSENSQFN243X3ICM2948)

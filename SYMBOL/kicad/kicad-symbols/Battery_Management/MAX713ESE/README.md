@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Battery_Management-MAX713ESE
 - Hex ID: SZKBATMANAGEMENTMAX713ESE
 - Name: Battery_Management : MAX713ESE
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Battery_Management/MAX713ESE/
 - Description: Battery_Management : MAX713ESE
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Battery_Management-MAX713ESE](http://oom.lt/SYMBOL-kicad-kicad-symbols-Battery_Management-MAX713ESE)
 - Short Link: [http://oom.lt/SZKBATMANAGEMENTMAX713ESE](http://oom.lt/SZKBATMANAGEMENTMAX713ESE)

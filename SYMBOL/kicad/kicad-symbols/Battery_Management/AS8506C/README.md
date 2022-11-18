@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Battery_Management-AS8506C
 - Hex ID: SZKBATMANAGEMENTAS856C
 - Name: Battery_Management : AS8506C
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Battery_Management/AS8506C/
 - Description: Battery_Management : AS8506C
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Battery_Management-AS8506C](http://oom.lt/SYMBOL-kicad-kicad-symbols-Battery_Management-AS8506C)
 - Short Link: [http://oom.lt/SZKBATMANAGEMENTAS856C](http://oom.lt/SZKBATMANAGEMENTAS856C)

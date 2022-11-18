@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Analog_Switch-TS5A23159DGS
 - Hex ID: SZKANALOGSWTS5A23159DGS
 - Name: Analog_Switch : TS5A23159DGS
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog_Switch/TS5A23159DGS/
 - Description: Analog_Switch : TS5A23159DGS
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_Switch-TS5A23159DGS](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_Switch-TS5A23159DGS)
 - Short Link: [http://oom.lt/SZKANALOGSWTS5A23159DGS](http://oom.lt/SZKANALOGSWTS5A23159DGS)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-TC26H
 - Hex ID: FZATC26H
 - Name: adafruit : TC26H
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/TC26H/
 - Description: adafruit : TC26H
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-TC26H](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-TC26H)
 - Short Link: [http://oom.lt/FZATC26H](http://oom.lt/FZATC26H)

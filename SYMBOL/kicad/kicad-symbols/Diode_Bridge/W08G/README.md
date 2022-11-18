@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode_Bridge-W08G
 - Hex ID: SZKDIODEBRIDGEW8G
 - Name: Diode_Bridge : W08G
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode_Bridge/W08G/
 - Description: Diode_Bridge : W08G
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode_Bridge-W08G](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode_Bridge-W08G)
 - Short Link: [http://oom.lt/SZKDIODEBRIDGEW8G](http://oom.lt/SZKDIODEBRIDGEW8G)

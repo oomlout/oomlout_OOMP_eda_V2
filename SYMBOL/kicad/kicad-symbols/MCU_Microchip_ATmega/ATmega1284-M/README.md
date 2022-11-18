@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega1284-M
 - Hex ID: SZKMCUMCHIPATMEGAATMEGA1284M
 - Name: MCU_Microchip_ATmega : ATmega1284-M
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_ATmega/ATmega1284-M/
 - Description: MCU_Microchip_ATmega : ATmega1284-M
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega1284-M](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega1284-M)
 - Short Link: [http://oom.lt/SZKMCUMCHIPATMEGAATMEGA1284M](http://oom.lt/SZKMCUMCHIPATMEGAATMEGA1284M)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0402-X-O100-01-R4O100
 - Hex ID: FZOOMPKOOMPPRESE42XO11R4O1
 - Name: oomlout_OOMP_parts : RESE-0402-X-O100-01-R4O100
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/RESE-0402-X-O100-01-R4O100/
 - Description: oomlout_OOMP_parts : RESE-0402-X-O100-01-R4O100
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0402-X-O100-01-R4O100](http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0402-X-O100-01-R4O100)
 - Short Link: [http://oom.lt/FZOOMPKOOMPPRESE42XO11R4O1](http://oom.lt/FZOOMPKOOMPPRESE42XO11R4O1)

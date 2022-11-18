@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SSOP-20_W3.9mm
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSSS2W39
 - Name: digikey-footprints : SSOP-20_W3.9mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/SSOP-20_W3.9mm/
 - Description: digikey-footprints : SSOP-20_W3.9mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SSOP-20_W3.9mm](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SSOP-20_W3.9mm)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSSS2W39](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSSS2W39)

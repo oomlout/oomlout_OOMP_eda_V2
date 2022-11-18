@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SiTIME_SMD-6-1EP
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSSITIMESM61EP
 - Name: digikey-footprints : SiTIME_SMD-6-1EP
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/SiTIME_SMD-6-1EP/
 - Description: digikey-footprints : SiTIME_SMD-6-1EP
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SiTIME_SMD-6-1EP](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SiTIME_SMD-6-1EP)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSSITIMESM61EP](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSSITIMESM61EP)

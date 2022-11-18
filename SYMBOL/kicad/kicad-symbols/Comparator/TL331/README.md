@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Comparator-TL331
 - Hex ID: SZKCOMPARATORTL331
 - Name: Comparator : TL331
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Comparator/TL331/
 - Description: Comparator : TL331
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Comparator-TL331](http://oom.lt/SYMBOL-kicad-kicad-symbols-Comparator-TL331)
 - Short Link: [http://oom.lt/SZKCOMPARATORTL331](http://oom.lt/SZKCOMPARATORTL331)

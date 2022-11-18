@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Display_Character-HDSP-7803
 - Hex ID: SZKDICHARACTERHDSP783
 - Name: Display_Character : HDSP-7803
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Display_Character/HDSP-7803/
 - Description: Display_Character : HDSP-7803
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-HDSP-7803](http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-HDSP-7803)
 - Short Link: [http://oom.lt/SZKDICHARACTERHDSP783](http://oom.lt/SZKDICHARACTERHDSP783)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Converter_DCDC-TMR2-4813WI
 - Hex ID: SZKCONTMR24813WI
 - Name: Converter_DCDC : TMR2-4813WI
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Converter_DCDC/TMR2-4813WI/
 - Description: Converter_DCDC : TMR2-4813WI
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-TMR2-4813WI](http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-TMR2-4813WI)
 - Short Link: [http://oom.lt/SZKCONTMR24813WI](http://oom.lt/SZKCONTMR24813WI)

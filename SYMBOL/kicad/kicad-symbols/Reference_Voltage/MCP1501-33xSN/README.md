@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Reference_Voltage-MCP1501-33xSN
 - Hex ID: SZKREFERENCEVOLTAGEMCP15133XSN
 - Name: Reference_Voltage : MCP1501-33xSN
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Reference_Voltage/MCP1501-33xSN/
 - Description: Reference_Voltage : MCP1501-33xSN
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Voltage-MCP1501-33xSN](http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Voltage-MCP1501-33xSN)
 - Short Link: [http://oom.lt/SZKREFERENCEVOLTAGEMCP15133XSN](http://oom.lt/SZKREFERENCEVOLTAGEMCP15133XSN)

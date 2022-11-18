@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-switch-dil-A1353HEX
 - Hex ID: FZESWDILA1353HEX
 - Name: switch-dil : A1353HEX
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/switch-dil/A1353HEX/
 - Description: switch-dil : A1353HEX
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-dil-A1353HEX](http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-dil-A1353HEX)
 - Short Link: [http://oom.lt/FZESWDILA1353HEX](http://oom.lt/FZESWDILA1353HEX)

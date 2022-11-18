@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-micro-philips-HBCC16
 - Hex ID: FZEMPHILIPSHBCC16
 - Name: micro-philips : HBCC16
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/micro-philips/HBCC16/
 - Description: micro-philips : HBCC16
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-philips-HBCC16](http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-philips-HBCC16)
 - Short Link: [http://oom.lt/FZEMPHILIPSHBCC16](http://oom.lt/FZEMPHILIPSHBCC16)

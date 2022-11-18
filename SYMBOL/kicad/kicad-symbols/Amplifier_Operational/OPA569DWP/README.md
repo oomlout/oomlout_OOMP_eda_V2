@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-OPA569DWP
 - Hex ID: SZKAMPLIFIEROPERATIONALOPA569DWP
 - Name: Amplifier_Operational : OPA569DWP
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/OPA569DWP/
 - Description: Amplifier_Operational : OPA569DWP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-OPA569DWP](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-OPA569DWP)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALOPA569DWP](http://oom.lt/SZKAMPLIFIEROPERATIONALOPA569DWP)

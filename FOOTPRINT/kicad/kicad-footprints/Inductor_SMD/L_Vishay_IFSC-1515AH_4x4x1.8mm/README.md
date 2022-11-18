@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Vishay_IFSC-1515AH_4x4x1.8mm
 - Hex ID: FZKINLVISHAYIFSC1515AH4X4X18
 - Name: Inductor_SMD : L_Vishay_IFSC-1515AH_4x4x1.8mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Vishay_IFSC-1515AH_4x4x1.8mm/
 - Description: Inductor_SMD : L_Vishay_IFSC-1515AH_4x4x1.8mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Vishay_IFSC-1515AH_4x4x1.8mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Vishay_IFSC-1515AH_4x4x1.8mm)
 - Short Link: [http://oom.lt/FZKINLVISHAYIFSC1515AH4X4X18](http://oom.lt/FZKINLVISHAYIFSC1515AH4X4X18)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-varistor-CU3225K
 - Hex ID: FZEVCU3225K
 - Name: varistor : CU3225K
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/varistor/CU3225K/
 - Description: varistor : CU3225K
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-varistor-CU3225K](http://oom.lt/FOOTPRINT-eagle-eagle-default-varistor-CU3225K)
 - Short Link: [http://oom.lt/FZEVCU3225K](http://oom.lt/FZEVCU3225K)

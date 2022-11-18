@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-analog-devices-MBGA225
 - Hex ID: FZEANALOGDEVICESMBGA225
 - Name: analog-devices : MBGA225
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/analog-devices/MBGA225/
 - Description: analog-devices : MBGA225
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-analog-devices-MBGA225](http://oom.lt/FOOTPRINT-eagle-eagle-default-analog-devices-MBGA225)
 - Short Link: [http://oom.lt/FZEANALOGDEVICESMBGA225](http://oom.lt/FZEANALOGDEVICESMBGA225)

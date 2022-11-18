@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Analog-PGA113
 - Hex ID: SZKANALOGPGA113
 - Name: Analog : PGA113
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog/PGA113/
 - Description: Analog : PGA113
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog-PGA113](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog-PGA113)
 - Short Link: [http://oom.lt/SZKANALOGPGA113](http://oom.lt/SZKANALOGPGA113)

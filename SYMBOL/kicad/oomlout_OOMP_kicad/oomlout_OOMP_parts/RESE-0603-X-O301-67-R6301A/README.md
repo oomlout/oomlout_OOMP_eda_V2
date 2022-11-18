@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O301-67-R6301A
 - Hex ID: SZOOMPKOOMPPRESE63XO3167R631A
 - Name: oomlout_OOMP_parts : RESE-0603-X-O301-67-R6301A
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/RESE-0603-X-O301-67-R6301A/
 - Description: oomlout_OOMP_parts : RESE-0603-X-O301-67-R6301A
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O301-67-R6301A](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O301-67-R6301A)
 - Short Link: [http://oom.lt/SZOOMPKOOMPPRESE63XO3167R631A](http://oom.lt/SZOOMPKOOMPPRESE63XO3167R631A)

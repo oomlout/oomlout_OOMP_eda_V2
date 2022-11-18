@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-varistor-P595
 - Hex ID: FZEVP595
 - Name: varistor : P595
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/varistor/P595/
 - Description: varistor : P595
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-varistor-P595](http://oom.lt/FOOTPRINT-eagle-eagle-default-varistor-P595)
 - Short Link: [http://oom.lt/FZEVP595](http://oom.lt/FZEVP595)

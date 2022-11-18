@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_THT-Choke_Schaffner_RN204-04-9.0x14.0mm
 - Hex ID: FZKINCHOKESCHAFFNERRN2449X14
 - Name: Inductor_THT : Choke_Schaffner_RN204-04-9.0x14.0mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/Choke_Schaffner_RN204-04-9.0x14.0mm/
 - Description: Inductor_THT : Choke_Schaffner_RN204-04-9.0x14.0mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_THT-Choke_Schaffner_RN204-04-9.0x14.0mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_THT-Choke_Schaffner_RN204-04-9.0x14.0mm)
 - Short Link: [http://oom.lt/FZKINCHOKESCHAFFNERRN2449X14](http://oom.lt/FZKINCHOKESCHAFFNERRN2449X14)

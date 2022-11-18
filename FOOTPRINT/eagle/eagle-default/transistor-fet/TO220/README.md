@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-transistor-fet-TO220
 - Hex ID: FZETRANSISTORFETTO22
 - Name: transistor-fet : TO220
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/transistor-fet/TO220/
 - Description: transistor-fet : TO220
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-fet-TO220](http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-fet-TO220)
 - Short Link: [http://oom.lt/FZETRANSISTORFETTO22](http://oom.lt/FZETRANSISTORFETTO22)

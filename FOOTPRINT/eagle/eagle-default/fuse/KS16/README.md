@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-fuse-KS16
 - Hex ID: FZEFUKS16
 - Name: fuse : KS16
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/fuse/KS16/
 - Description: fuse : KS16
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-fuse-KS16](http://oom.lt/FOOTPRINT-eagle-eagle-default-fuse-KS16)
 - Short Link: [http://oom.lt/FZEFUKS16](http://oom.lt/FZEFUKS16)

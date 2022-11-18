@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-MCP1825S
 - Hex ID: SZKREGULATORLINEARMCP1825S
 - Name: Regulator_Linear : MCP1825S
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/MCP1825S/
 - Description: Regulator_Linear : MCP1825S
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-MCP1825S](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-MCP1825S)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARMCP1825S](http://oom.lt/SZKREGULATORLINEARMCP1825S)

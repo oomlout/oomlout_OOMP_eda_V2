@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-exar-JSOP-18
 - Hex ID: FZEEXARJS18
 - Name: exar : JSOP-18
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/exar/JSOP-18/
 - Description: exar : JSOP-18
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-exar-JSOP-18](http://oom.lt/FOOTPRINT-eagle-eagle-default-exar-JSOP-18)
 - Short Link: [http://oom.lt/FZEEXARJS18](http://oom.lt/FZEEXARJS18)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-exar-DIL20
 - Hex ID: FZEEXARDIL2
 - Name: exar : DIL20
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/exar/DIL20/
 - Description: exar : DIL20
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-exar-DIL20](http://oom.lt/FOOTPRINT-eagle-eagle-default-exar-DIL20)
 - Short Link: [http://oom.lt/FZEEXARDIL2](http://oom.lt/FZEEXARDIL2)

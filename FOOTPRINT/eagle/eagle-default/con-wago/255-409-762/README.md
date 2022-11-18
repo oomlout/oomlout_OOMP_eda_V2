@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-wago-255-409-762
 - Hex ID: FZECONWAGO25549762
 - Name: con-wago : 255-409-762
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-wago/255-409-762/
 - Description: con-wago : 255-409-762
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-wago-255-409-762](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-wago-255-409-762)
 - Short Link: [http://oom.lt/FZECONWAGO25549762](http://oom.lt/FZECONWAGO25549762)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Current-AD8217
 - Hex ID: SZKAMPLIFIERCURRENTAD8217
 - Name: Amplifier_Current : AD8217
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Current/AD8217/
 - Description: Amplifier_Current : AD8217
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Current-AD8217](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Current-AD8217)
 - Short Link: [http://oom.lt/SZKAMPLIFIERCURRENTAD8217](http://oom.lt/SZKAMPLIFIERCURRENTAD8217)

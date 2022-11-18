@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-CPLD_Xilinx-XCR3256-TQ144
 - Hex ID: SZKCPLDXILINXXCR3256TQ144
 - Name: CPLD_Xilinx : XCR3256-TQ144
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/CPLD_Xilinx/XCR3256-TQ144/
 - Description: CPLD_Xilinx : XCR3256-TQ144
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-CPLD_Xilinx-XCR3256-TQ144](http://oom.lt/SYMBOL-kicad-kicad-symbols-CPLD_Xilinx-XCR3256-TQ144)
 - Short Link: [http://oom.lt/SZKCPLDXILINXXCR3256TQ144](http://oom.lt/SZKCPLDXILINXXCR3256TQ144)

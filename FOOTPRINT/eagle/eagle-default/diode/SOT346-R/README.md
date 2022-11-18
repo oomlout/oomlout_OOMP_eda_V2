@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-diode-SOT346-R
 - Hex ID: FZEDIODESOT346R
 - Name: diode : SOT346-R
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/diode/SOT346-R/
 - Description: diode : SOT346-R
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-diode-SOT346-R](http://oom.lt/FOOTPRINT-eagle-eagle-default-diode-SOT346-R)
 - Short Link: [http://oom.lt/FZEDIODESOT346R](http://oom.lt/FZEDIODESOT346R)

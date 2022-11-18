@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_SON-ROHM_VML0806
 - Hex ID: FZKSONROHMVML86
 - Name: Package_SON : ROHM_VML0806
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SON/ROHM_VML0806/
 - Description: Package_SON : ROHM_VML0806
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SON-ROHM_VML0806](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SON-ROHM_VML0806)
 - Short Link: [http://oom.lt/FZKSONROHMVML86](http://oom.lt/FZKSONROHMVML86)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-VOC_Sensor_LGA-10-1EP-2.7x4mm_CCS811B
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSVOCSENLGA11EP27X4CCS811B
 - Name: digikey-footprints : VOC_Sensor_LGA-10-1EP-2.7x4mm_CCS811B
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/VOC_Sensor_LGA-10-1EP-2.7x4mm_CCS811B/
 - Description: digikey-footprints : VOC_Sensor_LGA-10-1EP-2.7x4mm_CCS811B
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-VOC_Sensor_LGA-10-1EP-2.7x4mm_CCS811B](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-VOC_Sensor_LGA-10-1EP-2.7x4mm_CCS811B)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSVOCSENLGA11EP27X4CCS811B](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSVOCSENLGA11EP27X4CCS811B)

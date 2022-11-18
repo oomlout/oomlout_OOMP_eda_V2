@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-EB-85A
 - Hex ID: FZSSPARKFUNCNSEB85A
 - Name: SparkFun-Connectors : EB-85A
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Connectors/EB-85A/
 - Description: SparkFun-Connectors : EB-85A
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-EB-85A](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-EB-85A)
 - Short Link: [http://oom.lt/FZSSPARKFUNCNSEB85A](http://oom.lt/FZSSPARKFUNCNSEB85A)

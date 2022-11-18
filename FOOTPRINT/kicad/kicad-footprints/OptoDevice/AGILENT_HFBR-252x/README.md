@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-OptoDevice-AGILENT_HFBR-252x
 - Hex ID: FZKOPAGILENTHFBR252X
 - Name: OptoDevice : AGILENT_HFBR-252x
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/OptoDevice/AGILENT_HFBR-252x/
 - Description: OptoDevice : AGILENT_HFBR-252x
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-OptoDevice-AGILENT_HFBR-252x](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-OptoDevice-AGILENT_HFBR-252x)
 - Short Link: [http://oom.lt/FZKOPAGILENTHFBR252X](http://oom.lt/FZKOPAGILENTHFBR252X)

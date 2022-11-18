@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Fuse-Fuse_Blade_ATO_directSolder
 - Hex ID: FZKFUFUBLADEATODIRECTSOLDER
 - Name: Fuse : Fuse_Blade_ATO_directSolder
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Fuse/Fuse_Blade_ATO_directSolder/
 - Description: Fuse : Fuse_Blade_ATO_directSolder
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Fuse-Fuse_Blade_ATO_directSolder](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Fuse-Fuse_Blade_ATO_directSolder)
 - Short Link: [http://oom.lt/FZKFUFUBLADEATODIRECTSOLDER](http://oom.lt/FZKFUFUBLADEATODIRECTSOLDER)

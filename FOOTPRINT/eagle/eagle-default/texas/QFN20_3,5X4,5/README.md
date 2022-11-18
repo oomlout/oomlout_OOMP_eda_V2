@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-texas-QFN20_3,5X4,5
 - Hex ID: FZETEXASQFN235X45
 - Name: texas : QFN20_3,5X4,5
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/texas/QFN20_3,5X4,5/
 - Description: texas : QFN20_3,5X4,5
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-texas-QFN20_3,5X4,5](http://oom.lt/FOOTPRINT-eagle-eagle-default-texas-QFN20_3,5X4,5)
 - Short Link: [http://oom.lt/FZETEXASQFN235X45](http://oom.lt/FZETEXASQFN235X45)

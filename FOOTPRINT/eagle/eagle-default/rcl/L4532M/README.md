@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-rcl-L4532M
 - Hex ID: FZERCLL4532M
 - Name: rcl : L4532M
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/rcl/L4532M/
 - Description: rcl : L4532M
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-L4532M](http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-L4532M)
 - Short Link: [http://oom.lt/FZERCLL4532M](http://oom.lt/FZERCLL4532M)

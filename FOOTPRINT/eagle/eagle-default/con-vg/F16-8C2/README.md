@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-vg-F16-8C2
 - Hex ID: FZECONVGF168C2
 - Name: con-vg : F16-8C2
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-vg/F16-8C2/
 - Description: con-vg : F16-8C2
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-vg-F16-8C2](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-vg-F16-8C2)
 - Short Link: [http://oom.lt/FZECONVGF168C2](http://oom.lt/FZECONVGF168C2)

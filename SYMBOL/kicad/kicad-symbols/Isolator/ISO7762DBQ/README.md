@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Isolator-ISO7762DBQ
 - Hex ID: SZKISOLATORISO7762DBQ
 - Name: Isolator : ISO7762DBQ
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Isolator/ISO7762DBQ/
 - Description: Isolator : ISO7762DBQ
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-ISO7762DBQ](http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-ISO7762DBQ)
 - Short Link: [http://oom.lt/SZKISOLATORISO7762DBQ](http://oom.lt/SZKISOLATORISO7762DBQ)

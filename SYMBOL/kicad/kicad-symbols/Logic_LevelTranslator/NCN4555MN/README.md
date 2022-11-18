@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Logic_LevelTranslator-NCN4555MN
 - Hex ID: SZKLOGICLEVELTRANSLATORNCN4555MN
 - Name: Logic_LevelTranslator : NCN4555MN
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Logic_LevelTranslator/NCN4555MN/
 - Description: Logic_LevelTranslator : NCN4555MN
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Logic_LevelTranslator-NCN4555MN](http://oom.lt/SYMBOL-kicad-kicad-symbols-Logic_LevelTranslator-NCN4555MN)
 - Short Link: [http://oom.lt/SZKLOGICLEVELTRANSLATORNCN4555MN](http://oom.lt/SZKLOGICLEVELTRANSLATORNCN4555MN)

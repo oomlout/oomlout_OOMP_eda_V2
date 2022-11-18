@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-C4111-15
 - Hex ID: FZAC411115
 - Name: adafruit : C4111-15
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/C4111-15/
 - Description: adafruit : C4111-15
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-C4111-15](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-C4111-15)
 - Short Link: [http://oom.lt/FZAC411115](http://oom.lt/FZAC411115)

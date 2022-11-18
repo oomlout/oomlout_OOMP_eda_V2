@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-IQD-Frequency-Products-HC49-3L
 - Hex ID: FZEIQDFREQUENCYPRODUCTSHC493L
 - Name: IQD-Frequency-Products : HC49-3L
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/IQD-Frequency-Products/HC49-3L/
 - Description: IQD-Frequency-Products : HC49-3L
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-IQD-Frequency-Products-HC49-3L](http://oom.lt/FOOTPRINT-eagle-eagle-default-IQD-Frequency-Products-HC49-3L)
 - Short Link: [http://oom.lt/FZEIQDFREQUENCYPRODUCTSHC493L](http://oom.lt/FZEIQDFREQUENCYPRODUCTSHC493L)

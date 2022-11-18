@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-display-lcd-HDM64GS12_-R
 - Hex ID: FZEDILCDHDM64GS12R
 - Name: display-lcd : HDM64GS12_-R
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/display-lcd/HDM64GS12_-R/
 - Description: display-lcd : HDM64GS12_-R
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-display-lcd-HDM64GS12_-R](http://oom.lt/FOOTPRINT-eagle-eagle-default-display-lcd-HDM64GS12_-R)
 - Short Link: [http://oom.lt/FZEDILCDHDM64GS12R](http://oom.lt/FZEDILCDHDM64GS12R)

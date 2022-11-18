@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEREFPACKAGESE72638R > ref-packages : E_7260-38R](#fzerefpackagese72638r--ref-packages--e_7260-38r)
+* [FZEREFPSE72638R > ref-packages : E_7260-38R](#fzerefpse72638r--ref-packages--e_7260-38r)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEREFPACKAGESE72638R > ref-packages : E_7260-38R
+# FZEREFPSE72638R > ref-packages : E_7260-38R
 
 - ID: FOOTPRINT-eagle-eagle-default-ref-packages-E_7260-38R
-- Hex ID: FZEREFPACKAGESE72638R
+- Hex ID: FZEREFPSE72638R
 - Name: ref-packages : E_7260-38R
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ref-packages/E_7260-38R/
 - Description: ref-packages : E_7260-38R
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-E_7260-38R](http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-E_7260-38R)
-- Short Link: [http://oom.lt/FZEREFPACKAGESE72638R](http://oom.lt/FZEREFPACKAGESE72638R)
+- Short Link: [http://oom.lt/FZEREFPSE72638R](http://oom.lt/FZEREFPSE72638R)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|ref-packages|
 |OOMP Index|oompIndex|E_7260-38R|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-ref-packages-E_7260-38R|
-|Hex ID (short code)|hexID|FZEREFPACKAGESE72638R|
+|Hex ID (short code)|hexID|FZEREFPSE72638R|
 |name|name|ref-packages : E_7260-38R|
 ||||

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-logo-FCC_10X4.175MM
 - Hex ID: FZELFCC1X4175
 - Name: logo : FCC_10X4.175MM
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/logo/FCC_10X4.175MM/
 - Description: logo : FCC_10X4.175MM
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-logo-FCC_10X4.175MM](http://oom.lt/FOOTPRINT-eagle-eagle-default-logo-FCC_10X4.175MM)
 - Short Link: [http://oom.lt/FZELFCC1X4175](http://oom.lt/FZELFCC1X4175)

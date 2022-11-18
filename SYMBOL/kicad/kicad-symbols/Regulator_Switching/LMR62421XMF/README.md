@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-LMR62421XMF
 - Hex ID: SZKREGULATORSWINGLMR62421XMF
 - Name: Regulator_Switching : LMR62421XMF
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/LMR62421XMF/
 - Description: Regulator_Switching : LMR62421XMF
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LMR62421XMF](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LMR62421XMF)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGLMR62421XMF](http://oom.lt/SZKREGULATORSWINGLMR62421XMF)

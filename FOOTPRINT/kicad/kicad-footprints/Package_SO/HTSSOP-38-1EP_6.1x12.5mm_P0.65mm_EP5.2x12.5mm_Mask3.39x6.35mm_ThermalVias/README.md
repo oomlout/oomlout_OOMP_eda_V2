@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKSOHTSS381EP61X125P65EP52X125MASK339X635THERMALVIAS > Package_SO : HTSSOP-38-1EP_6.1x12.5mm_P0.65mm_EP5.2x12.5mm_Mask3.39x6.35mm_ThermalVias](#fzksohtss381ep61x125p65ep52x125mask339x635thermalvias--package_so--htssop-38-1ep_61x125mm_p065mm_ep52x125mm_mask339x635mm_thermalvias)
+* [FZKSOHTSS381EP61X125P65EP52X125MASK339X635THV > Package_SO : HTSSOP-38-1EP_6.1x12.5mm_P0.65mm_EP5.2x12.5mm_Mask3.39x6.35mm_ThermalVias](#fzksohtss381ep61x125p65ep52x125mask339x635thv--package_so--htssop-38-1ep_61x125mm_p065mm_ep52x125mm_mask339x635mm_thermalvias)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKSOHTSS381EP61X125P65EP52X125MASK339X635THERMALVIAS > Package_SO : HTSSOP-38-1EP_6.1x12.5mm_P0.65mm_EP5.2x12.5mm_Mask3.39x6.35mm_ThermalVias
+# FZKSOHTSS381EP61X125P65EP52X125MASK339X635THV > Package_SO : HTSSOP-38-1EP_6.1x12.5mm_P0.65mm_EP5.2x12.5mm_Mask3.39x6.35mm_ThermalVias
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_SO-HTSSOP-38-1EP_6.1x12.5mm_P0.65mm_EP5.2x12.5mm_Mask3.39x6.35mm_ThermalVias
-- Hex ID: FZKSOHTSS381EP61X125P65EP52X125MASK339X635THERMALVIAS
+- Hex ID: FZKSOHTSS381EP61X125P65EP52X125MASK339X635THV
 - Name: Package_SO : HTSSOP-38-1EP_6.1x12.5mm_P0.65mm_EP5.2x12.5mm_Mask3.39x6.35mm_ThermalVias
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SO/HTSSOP-38-1EP_6.1x12.5mm_P0.65mm_EP5.2x12.5mm_Mask3.39x6.35mm_ThermalVias/
 - Description: Package_SO : HTSSOP-38-1EP_6.1x12.5mm_P0.65mm_EP5.2x12.5mm_Mask3.39x6.35mm_ThermalVias
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SO-HTSSOP-38-1EP_6.1x12.5mm_P0.65mm_EP5.2x12.5mm_Mask3.39x6.35mm_ThermalVias](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SO-HTSSOP-38-1EP_6.1x12.5mm_P0.65mm_EP5.2x12.5mm_Mask3.39x6.35mm_ThermalVias)
-- Short Link: [http://oom.lt/FZKSOHTSS381EP61X125P65EP52X125MASK339X635THERMALVIAS](http://oom.lt/FZKSOHTSS381EP61X125P65EP52X125MASK339X635THERMALVIAS)
+- Short Link: [http://oom.lt/FZKSOHTSS381EP61X125P65EP52X125MASK339X635THV](http://oom.lt/FZKSOHTSS381EP61X125P65EP52X125MASK339X635THV)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Package_SO|
 |OOMP Index|oompIndex|HTSSOP-38-1EP_6.1x12.5mm_P0.65mm_EP5.2x12.5mm_Mask3.39x6.35mm_ThermalVias|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_SO-HTSSOP-38-1EP_6.1x12.5mm_P0.65mm_EP5.2x12.5mm_Mask3.39x6.35mm_ThermalVias|
-|Hex ID (short code)|hexID|FZKSOHTSS381EP61X125P65EP52X125MASK339X635THERMALVIAS|
+|Hex ID (short code)|hexID|FZKSOHTSS381EP61X125P65EP52X125MASK339X635THV|
 |name|name|Package_SO : HTSSOP-38-1EP_6.1x12.5mm_P0.65mm_EP5.2x12.5mm_Mask3.39x6.35mm_ThermalVias|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'HTSSOP-38-1EP_6.1x12.5mm_P0.65mm_EP5.2x12.5mm_Mask3.39x6.35mm_ThermalVias'</td><td> 'description'</td></tr><tr><td> 'HTSSOP</td><td> 38 Pin (http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/tlc5951.pdf#page=47&zoom=140</td><td>-67</td><td>15)</td><td> generated with kicad-footprint-generator ipc_gullwing_generator.py'</td><td> 'tags'</td></tr><tr><td> 'HTSSOP SO'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_SO.3dshapes/HTSSOP-38-1EP_6.1x12.5mm_P0.65mm_EP5.2x12.5mm_Mask3.39x6.35mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||

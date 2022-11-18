@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Converter_DCDC-ITX0505SA
 - Hex ID: SZKCONITX55SA
 - Name: Converter_DCDC : ITX0505SA
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Converter_DCDC/ITX0505SA/
 - Description: Converter_DCDC : ITX0505SA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-ITX0505SA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-ITX0505SA)
 - Short Link: [http://oom.lt/SZKCONITX55SA](http://oom.lt/SZKCONITX55SA)

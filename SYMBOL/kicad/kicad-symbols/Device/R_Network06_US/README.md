@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Device-R_Network06_US
 - Hex ID: SZKDEVICERNETWORK6US
 - Name: Device : R_Network06_US
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/R_Network06_US/
 - Description: Device : R_Network06_US
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-R_Network06_US](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-R_Network06_US)
 - Short Link: [http://oom.lt/SZKDEVICERNETWORK6US](http://oom.lt/SZKDEVICERNETWORK6US)

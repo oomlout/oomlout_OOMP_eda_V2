@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-MCP1754S-1802xCB
 - Hex ID: SZKREGULATORLINEARMCP1754S182XCB
 - Name: Regulator_Linear : MCP1754S-1802xCB
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/MCP1754S-1802xCB/
 - Description: Regulator_Linear : MCP1754S-1802xCB
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-MCP1754S-1802xCB](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-MCP1754S-1802xCB)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARMCP1754S182XCB](http://oom.lt/SZKREGULATORLINEARMCP1754S182XCB)

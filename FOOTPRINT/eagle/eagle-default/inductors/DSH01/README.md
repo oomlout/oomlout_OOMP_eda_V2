@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEINDUCTORSDSH1 > inductors : DSH01](#fzeinductorsdsh1--inductors--dsh01)
+* [FZEINSDSH1 > inductors : DSH01](#fzeinsdsh1--inductors--dsh01)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEINDUCTORSDSH1 > inductors : DSH01
+# FZEINSDSH1 > inductors : DSH01
 
 - ID: FOOTPRINT-eagle-eagle-default-inductors-DSH01
-- Hex ID: FZEINDUCTORSDSH1
+- Hex ID: FZEINSDSH1
 - Name: inductors : DSH01
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/inductors/DSH01/
 - Description: inductors : DSH01
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-inductors-DSH01](http://oom.lt/FOOTPRINT-eagle-eagle-default-inductors-DSH01)
-- Short Link: [http://oom.lt/FZEINDUCTORSDSH1](http://oom.lt/FZEINDUCTORSDSH1)
+- Short Link: [http://oom.lt/FZEINSDSH1](http://oom.lt/FZEINSDSH1)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|inductors|
 |OOMP Index|oompIndex|DSH01|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-inductors-DSH01|
-|Hex ID (short code)|hexID|FZEINDUCTORSDSH1|
+|Hex ID (short code)|hexID|FZEINSDSH1|
 |name|name|inductors : DSH01|
 ||||

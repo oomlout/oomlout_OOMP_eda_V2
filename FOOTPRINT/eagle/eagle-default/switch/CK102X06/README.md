@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-switch-CK102X06
 - Hex ID: FZESWCK12X6
 - Name: switch : CK102X06
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/switch/CK102X06/
 - Description: switch : CK102X06
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-CK102X06](http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-CK102X06)
 - Short Link: [http://oom.lt/FZESWCK12X6](http://oom.lt/FZESWCK12X6)

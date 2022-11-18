@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_Audio-Jack_6.35mm_Neutrik_NSJ8HL_Horizontal
 - Hex ID: FZKCNAUDIOJ635NEUTRIKNSJ8HLH
 - Name: Connector_Audio : Jack_6.35mm_Neutrik_NSJ8HL_Horizontal
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Audio/Jack_6.35mm_Neutrik_NSJ8HL_Horizontal/
 - Description: Connector_Audio : Jack_6.35mm_Neutrik_NSJ8HL_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Audio-Jack_6.35mm_Neutrik_NSJ8HL_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Audio-Jack_6.35mm_Neutrik_NSJ8HL_Horizontal)
 - Short Link: [http://oom.lt/FZKCNAUDIOJ635NEUTRIKNSJ8HLH](http://oom.lt/FZKCNAUDIOJ635NEUTRIKNSJ8HLH)

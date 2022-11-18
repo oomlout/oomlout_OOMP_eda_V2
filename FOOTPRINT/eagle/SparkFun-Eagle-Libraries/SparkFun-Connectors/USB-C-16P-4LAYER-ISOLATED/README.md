@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-USB-C-16P-4LAYER-ISOLATED
 - Hex ID: FZSSPARKFUNCNSUC16P4LAYERISOLATED
 - Name: SparkFun-Connectors : USB-C-16P-4LAYER-ISOLATED
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Connectors/USB-C-16P-4LAYER-ISOLATED/
 - Description: SparkFun-Connectors : USB-C-16P-4LAYER-ISOLATED
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-USB-C-16P-4LAYER-ISOLATED](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-USB-C-16P-4LAYER-ISOLATED)
 - Short Link: [http://oom.lt/FZSSPARKFUNCNSUC16P4LAYERISOLATED](http://oom.lt/FZSSPARKFUNCNSUC16P4LAYERISOLATED)

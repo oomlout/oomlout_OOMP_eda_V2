@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-uln-udn-SO18W
 - Hex ID: FZEULNUDNSO18W
 - Name: uln-udn : SO18W
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/uln-udn/SO18W/
 - Description: uln-udn : SO18W
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-uln-udn-SO18W](http://oom.lt/FOOTPRINT-eagle-eagle-default-uln-udn-SO18W)
 - Short Link: [http://oom.lt/FZEULNUDNSO18W](http://oom.lt/FZEULNUDNSO18W)

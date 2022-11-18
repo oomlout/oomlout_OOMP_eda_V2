@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-TAP5-80
 - Hex ID: FZATAP58
 - Name: adafruit : TAP5-80
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/TAP5-80/
 - Description: adafruit : TAP5-80
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-TAP5-80](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-TAP5-80)
 - Short Link: [http://oom.lt/FZATAP58](http://oom.lt/FZATAP58)

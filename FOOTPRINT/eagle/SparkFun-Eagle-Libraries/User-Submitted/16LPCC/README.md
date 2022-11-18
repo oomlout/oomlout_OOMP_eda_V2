@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-User-Submitted-16LPCC
 - Hex ID: FZSU16LPCC
 - Name: User-Submitted : 16LPCC
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/User-Submitted/16LPCC/
 - Description: User-Submitted : 16LPCC
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-User-Submitted-16LPCC](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-User-Submitted-16LPCC)
 - Short Link: [http://oom.lt/FZSU16LPCC](http://oom.lt/FZSU16LPCC)

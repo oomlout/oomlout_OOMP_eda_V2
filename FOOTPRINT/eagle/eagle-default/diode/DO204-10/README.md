@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-diode-DO204-10
 - Hex ID: FZEDIODEDO241
 - Name: diode : DO204-10
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/diode/DO204-10/
 - Description: diode : DO204-10
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-diode-DO204-10](http://oom.lt/FOOTPRINT-eagle-eagle-default-diode-DO204-10)
 - Short Link: [http://oom.lt/FZEDIODEDO241](http://oom.lt/FZEDIODEDO241)

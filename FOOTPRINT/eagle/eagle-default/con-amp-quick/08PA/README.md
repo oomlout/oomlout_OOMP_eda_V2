@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-amp-quick-08PA
 - Hex ID: FZECONAMPQUICK8PA
 - Name: con-amp-quick : 08PA
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-amp-quick/08PA/
 - Description: con-amp-quick : 08PA
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-amp-quick-08PA](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-amp-quick-08PA)
 - Short Link: [http://oom.lt/FZECONAMPQUICK8PA](http://oom.lt/FZECONAMPQUICK8PA)

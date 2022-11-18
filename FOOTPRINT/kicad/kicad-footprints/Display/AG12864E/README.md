@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Display-AG12864E
 - Hex ID: FZKDIAG12864E
 - Name: Display : AG12864E
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Display/AG12864E/
 - Description: Display : AG12864E
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Display-AG12864E](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Display-AG12864E)
 - Short Link: [http://oom.lt/FZKDIAG12864E](http://oom.lt/FZKDIAG12864E)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-v-reg-SOT23
 - Hex ID: FZEVREGSOT23
 - Name: v-reg : SOT23
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/v-reg/SOT23/
 - Description: v-reg : SOT23
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-v-reg-SOT23](http://oom.lt/FOOTPRINT-eagle-eagle-default-v-reg-SOT23)
 - Short Link: [http://oom.lt/FZEVREGSOT23](http://oom.lt/FZEVREGSOT23)

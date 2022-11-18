@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-LCD1602
 - Hex ID: FZALCD162
 - Name: adafruit : LCD1602
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/LCD1602/
 - Description: adafruit : LCD1602
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-LCD1602](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-LCD1602)
 - Short Link: [http://oom.lt/FZALCD162](http://oom.lt/FZALCD162)

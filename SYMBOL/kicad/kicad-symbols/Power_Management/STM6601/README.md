@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Power_Management-STM6601
 - Hex ID: SZKPOWERMANAGEMENTSTM661
 - Name: Power_Management : STM6601
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Power_Management/STM6601/
 - Description: Power_Management : STM6601
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-STM6601](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-STM6601)
 - Short Link: [http://oom.lt/SZKPOWERMANAGEMENTSTM661](http://oom.lt/SZKPOWERMANAGEMENTSTM661)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_AVR_Dx-AVR64DB64x-xPT
 - Hex ID: SZKMCUMCHIPAVRDXAVR64DB64XXPT
 - Name: MCU_Microchip_AVR_Dx : AVR64DB64x-xPT
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_AVR_Dx/AVR64DB64x-xPT/
 - Description: MCU_Microchip_AVR_Dx : AVR64DB64x-xPT
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_AVR_Dx-AVR64DB64x-xPT](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_AVR_Dx-AVR64DB64x-xPT)
 - Short Link: [http://oom.lt/SZKMCUMCHIPAVRDXAVR64DB64XXPT](http://oom.lt/SZKMCUMCHIPAVRDXAVR64DB64XXPT)

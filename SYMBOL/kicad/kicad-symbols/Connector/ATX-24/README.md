@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Connector-ATX-24
 - Hex ID: SZKCNATX24
 - Name: Connector : ATX-24
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector/ATX-24/
 - Description: Connector : ATX-24
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-ATX-24](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-ATX-24)
 - Short Link: [http://oom.lt/SZKCNATX24](http://oom.lt/SZKCNATX24)

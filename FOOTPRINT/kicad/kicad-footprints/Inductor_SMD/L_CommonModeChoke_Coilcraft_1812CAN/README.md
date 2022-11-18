@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_CommonModeChoke_Coilcraft_1812CAN
 - Hex ID: FZKINLCOONMODECHOKECOILCRAFT1812CAN
 - Name: Inductor_SMD : L_CommonModeChoke_Coilcraft_1812CAN
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_CommonModeChoke_Coilcraft_1812CAN/
 - Description: Inductor_SMD : L_CommonModeChoke_Coilcraft_1812CAN
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_CommonModeChoke_Coilcraft_1812CAN](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_CommonModeChoke_Coilcraft_1812CAN)
 - Short Link: [http://oom.lt/FZKINLCOONMODECHOKECOILCRAFT1812CAN](http://oom.lt/FZKINLCOONMODECHOKECOILCRAFT1812CAN)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-PMEG3020EJ
 - Hex ID: SZKDIODEPMEG32EJ
 - Name: Diode : PMEG3020EJ
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/PMEG3020EJ/
 - Description: Diode : PMEG3020EJ
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-PMEG3020EJ](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-PMEG3020EJ)
 - Short Link: [http://oom.lt/SZKDIODEPMEG32EJ](http://oom.lt/SZKDIODEPMEG32EJ)

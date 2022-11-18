@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-VSOF5
 - Hex ID: FZKSOTVSOF5
 - Name: Package_TO_SOT_SMD : VSOF5
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/VSOF5/
 - Description: Package_TO_SOT_SMD : VSOF5
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-VSOF5](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-VSOF5)
 - Short Link: [http://oom.lt/FZKSOTVSOF5](http://oom.lt/FZKSOTVSOF5)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-OptoDevice-Lightpipe_Mentor_1276.2004
 - Hex ID: FZKOPLIGHTPIPEMENTOR127624
 - Name: OptoDevice : Lightpipe_Mentor_1276.2004
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/OptoDevice/Lightpipe_Mentor_1276.2004/
 - Description: OptoDevice : Lightpipe_Mentor_1276.2004
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-OptoDevice-Lightpipe_Mentor_1276.2004](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-OptoDevice-Lightpipe_Mentor_1276.2004)
 - Short Link: [http://oom.lt/FZKOPLIGHTPIPEMENTOR127624](http://oom.lt/FZKOPLIGHTPIPEMENTOR127624)

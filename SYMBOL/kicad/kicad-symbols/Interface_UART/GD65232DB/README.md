@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_UART-GD65232DB
 - Hex ID: SZKINTERFACEUARTGD65232DB
 - Name: Interface_UART : GD65232DB
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_UART/GD65232DB/
 - Description: Interface_UART : GD65232DB
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_UART-GD65232DB](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_UART-GD65232DB)
 - Short Link: [http://oom.lt/SZKINTERFACEUARTGD65232DB](http://oom.lt/SZKINTERFACEUARTGD65232DB)

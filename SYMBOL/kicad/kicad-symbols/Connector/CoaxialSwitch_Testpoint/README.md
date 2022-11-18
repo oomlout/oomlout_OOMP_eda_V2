@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Connector-CoaxialSwitch_Testpoint
 - Hex ID: SZKCNCOAXIALSWTP
 - Name: Connector : CoaxialSwitch_Testpoint
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector/CoaxialSwitch_Testpoint/
 - Description: Connector : CoaxialSwitch_Testpoint
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-CoaxialSwitch_Testpoint](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-CoaxialSwitch_Testpoint)
 - Short Link: [http://oom.lt/SZKCNCOAXIALSWTP](http://oom.lt/SZKCNCOAXIALSWTP)

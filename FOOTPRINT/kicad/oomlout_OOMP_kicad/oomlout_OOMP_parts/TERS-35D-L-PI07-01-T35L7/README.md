@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-TERS-35D-L-PI07-01-T35L7
 - Hex ID: FZOOMPKOOMPPTERS35DLPI71T35L7
 - Name: oomlout_OOMP_parts : TERS-35D-L-PI07-01-T35L7
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/TERS-35D-L-PI07-01-T35L7/
 - Description: oomlout_OOMP_parts : TERS-35D-L-PI07-01-T35L7
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-TERS-35D-L-PI07-01-T35L7](http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-TERS-35D-L-PI07-01-T35L7)
 - Short Link: [http://oom.lt/FZOOMPKOOMPPTERS35DLPI71T35L7](http://oom.lt/FZOOMPKOOMPPTERS35DLPI71T35L7)

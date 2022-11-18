@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-micro-renesas-P-HVQFN48-7X7
 - Hex ID: FZEMRENESASPHVQFN487X7
 - Name: micro-renesas : P-HVQFN48-7X7
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/micro-renesas/P-HVQFN48-7X7/
 - Description: micro-renesas : P-HVQFN48-7X7
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-renesas-P-HVQFN48-7X7](http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-renesas-P-HVQFN48-7X7)
 - Short Link: [http://oom.lt/FZEMRENESASPHVQFN487X7](http://oom.lt/FZEMRENESASPHVQFN487X7)

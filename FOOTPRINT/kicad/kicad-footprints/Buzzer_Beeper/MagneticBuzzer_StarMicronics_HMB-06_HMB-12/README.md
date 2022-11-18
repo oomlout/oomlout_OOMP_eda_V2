@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Buzzer_Beeper-MagneticBuzzer_StarMicronics_HMB-06_HMB-12
 - Hex ID: FZKBZMAGNETICBUZZERSTARMNICSHMB6HMB12
 - Name: Buzzer_Beeper : MagneticBuzzer_StarMicronics_HMB-06_HMB-12
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Buzzer_Beeper/MagneticBuzzer_StarMicronics_HMB-06_HMB-12/
 - Description: Buzzer_Beeper : MagneticBuzzer_StarMicronics_HMB-06_HMB-12
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Buzzer_Beeper-MagneticBuzzer_StarMicronics_HMB-06_HMB-12](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Buzzer_Beeper-MagneticBuzzer_StarMicronics_HMB-06_HMB-12)
 - Short Link: [http://oom.lt/FZKBZMAGNETICBUZZERSTARMNICSHMB6HMB12](http://oom.lt/FZKBZMAGNETICBUZZERSTARMNICSHMB6HMB12)

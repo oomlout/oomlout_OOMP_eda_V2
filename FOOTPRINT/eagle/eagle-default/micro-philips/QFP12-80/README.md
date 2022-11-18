@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-micro-philips-QFP12-80
 - Hex ID: FZEMPHILIPSQFP128
 - Name: micro-philips : QFP12-80
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/micro-philips/QFP12-80/
 - Description: micro-philips : QFP12-80
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-philips-QFP12-80](http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-philips-QFP12-80)
 - Short Link: [http://oom.lt/FZEMPHILIPSQFP128](http://oom.lt/FZEMPHILIPSQFP128)

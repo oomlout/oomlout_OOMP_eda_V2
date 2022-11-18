@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Converter_ACDC-TMLM20124
 - Hex ID: SZKCONTMLM2124
 - Name: Converter_ACDC : TMLM20124
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Converter_ACDC/TMLM20124/
 - Description: Converter_ACDC : TMLM20124
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_ACDC-TMLM20124](http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_ACDC-TMLM20124)
 - Short Link: [http://oom.lt/SZKCONTMLM2124](http://oom.lt/SZKCONTMLM2124)

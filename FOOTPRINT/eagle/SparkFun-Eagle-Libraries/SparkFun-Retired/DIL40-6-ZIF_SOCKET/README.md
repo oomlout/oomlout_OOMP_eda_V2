@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-DIL40-6-ZIF_SOCKET
 - Hex ID: FZSRTDIL46ZIFSO
 - Name: SparkFun-Retired : DIL40-6-ZIF_SOCKET
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Retired/DIL40-6-ZIF_SOCKET/
 - Description: SparkFun-Retired : DIL40-6-ZIF_SOCKET
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-DIL40-6-ZIF_SOCKET](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-DIL40-6-ZIF_SOCKET)
 - Short Link: [http://oom.lt/FZSRTDIL46ZIFSO](http://oom.lt/FZSRTDIL46ZIFSO)

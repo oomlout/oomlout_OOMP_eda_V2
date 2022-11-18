@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Driver_FET-HIP2101_EPSOIC
 - Hex ID: SZKDRIVERFETHIP211EPSOIC
 - Name: Driver_FET : HIP2101_EPSOIC
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Driver_FET/HIP2101_EPSOIC/
 - Description: Driver_FET : HIP2101_EPSOIC
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-HIP2101_EPSOIC](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-HIP2101_EPSOIC)
 - Short Link: [http://oom.lt/SZKDRIVERFETHIP211EPSOIC](http://oom.lt/SZKDRIVERFETHIP211EPSOIC)

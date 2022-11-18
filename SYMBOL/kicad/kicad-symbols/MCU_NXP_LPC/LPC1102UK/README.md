@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_NXP_LPC-LPC1102UK
 - Hex ID: SZKMCUNXPLPCLPC112UK
 - Name: MCU_NXP_LPC : LPC1102UK
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_NXP_LPC/LPC1102UK/
 - Description: MCU_NXP_LPC : LPC1102UK
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_NXP_LPC-LPC1102UK](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_NXP_LPC-LPC1102UK)
 - Short Link: [http://oom.lt/SZKMCUNXPLPCLPC112UK](http://oom.lt/SZKMCUNXPLPCLPC112UK)

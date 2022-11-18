@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-LED-IR26-21C_L110_TR8
 - Hex ID: SZKLIR2621CL11TR8
 - Name: LED : IR26-21C_L110_TR8
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/LED/IR26-21C_L110_TR8/
 - Description: LED : IR26-21C_L110_TR8
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-LED-IR26-21C_L110_TR8](http://oom.lt/SYMBOL-kicad-kicad-symbols-LED-IR26-21C_L110_TR8)
 - Short Link: [http://oom.lt/SZKLIR2621CL11TR8](http://oom.lt/SZKLIR2621CL11TR8)

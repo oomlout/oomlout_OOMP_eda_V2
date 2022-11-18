@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-USB-C_Female_Vert_DX07S024WJ3R400
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSUCFVERTDX7S24WJ3R4
 - Name: digikey-footprints : USB-C_Female_Vert_DX07S024WJ3R400
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/USB-C_Female_Vert_DX07S024WJ3R400/
 - Description: digikey-footprints : USB-C_Female_Vert_DX07S024WJ3R400
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-USB-C_Female_Vert_DX07S024WJ3R400](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-USB-C_Female_Vert_DX07S024WJ3R400)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSUCFVERTDX7S24WJ3R4](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSUCFVERTDX7S24WJ3R4)

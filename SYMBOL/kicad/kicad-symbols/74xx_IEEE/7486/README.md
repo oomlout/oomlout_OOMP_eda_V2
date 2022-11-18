@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-74xx_IEEE-7486
 - Hex ID: SZK74XXIEEE7486
 - Name: 74xx_IEEE : 7486
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/74xx_IEEE/7486/
 - Description: 74xx_IEEE : 7486
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-74xx_IEEE-7486](http://oom.lt/SYMBOL-kicad-kicad-symbols-74xx_IEEE-7486)
 - Short Link: [http://oom.lt/SZK74XXIEEE7486](http://oom.lt/SZK74XXIEEE7486)

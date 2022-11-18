@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Diode_THT-D_DO-201AD_P15.24mm_Horizontal
 - Hex ID: FZKDDDO21ADP1524H
 - Name: Diode_THT : D_DO-201AD_P15.24mm_Horizontal
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Diode_THT/D_DO-201AD_P15.24mm_Horizontal/
 - Description: Diode_THT : D_DO-201AD_P15.24mm_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Diode_THT-D_DO-201AD_P15.24mm_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Diode_THT-D_DO-201AD_P15.24mm_Horizontal)
 - Short Link: [http://oom.lt/FZKDDDO21ADP1524H](http://oom.lt/FZKDDDO21ADP1524H)

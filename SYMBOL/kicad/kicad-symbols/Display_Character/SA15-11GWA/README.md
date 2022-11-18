@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Display_Character-SA15-11GWA
 - Hex ID: SZKDICHARACTERSA1511GWA
 - Name: Display_Character : SA15-11GWA
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Display_Character/SA15-11GWA/
 - Description: Display_Character : SA15-11GWA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-SA15-11GWA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-SA15-11GWA)
 - Short Link: [http://oom.lt/SZKDICHARACTERSA1511GWA](http://oom.lt/SZKDICHARACTERSA1511GWA)

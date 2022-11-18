@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-battery-SL-150-1_2AA_PR
 - Hex ID: FZEBATSL1512AAPR
 - Name: battery : SL-150-1_2AA_PR
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/battery/SL-150-1_2AA_PR/
 - Description: battery : SL-150-1_2AA_PR
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-battery-SL-150-1_2AA_PR](http://oom.lt/FOOTPRINT-eagle-eagle-default-battery-SL-150-1_2AA_PR)
 - Short Link: [http://oom.lt/FZEBATSL1512AAPR](http://oom.lt/FZEBATSL1512AAPR)

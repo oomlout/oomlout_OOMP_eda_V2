@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Isolator-NSL-32
 - Hex ID: SZKISOLATORNSL32
 - Name: Isolator : NSL-32
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Isolator/NSL-32/
 - Description: Isolator : NSL-32
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-NSL-32](http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-NSL-32)
 - Short Link: [http://oom.lt/SZKISOLATORNSL32](http://oom.lt/SZKISOLATORNSL32)

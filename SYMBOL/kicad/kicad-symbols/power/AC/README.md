@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-power-AC
 - Hex ID: SZKPOWERAC
 - Name: power : AC
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/power/AC/
 - Description: power : AC
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-power-AC](http://oom.lt/SYMBOL-kicad-kicad-symbols-power-AC)
 - Short Link: [http://oom.lt/SZKPOWERAC](http://oom.lt/SZKPOWERAC)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-smd-ipc-M3516
 - Hex ID: FZESMIPCM3516
 - Name: smd-ipc : M3516
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/smd-ipc/M3516/
 - Description: smd-ipc : M3516
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-M3516](http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-M3516)
 - Short Link: [http://oom.lt/FZESMIPCM3516](http://oom.lt/FZESMIPCM3516)

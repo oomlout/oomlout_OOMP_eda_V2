@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-LED_THT-LED_D3.0mm_FlatTop
 - Hex ID: FZKLLD3FLATTOP
 - Name: LED_THT : LED_D3.0mm_FlatTop
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/LED_THT/LED_D3.0mm_FlatTop/
 - Description: LED_THT : LED_D3.0mm_FlatTop
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-LED_THT-LED_D3.0mm_FlatTop](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-LED_THT-LED_D3.0mm_FlatTop)
 - Short Link: [http://oom.lt/FZKLLD3FLATTOP](http://oom.lt/FZKLLD3FLATTOP)

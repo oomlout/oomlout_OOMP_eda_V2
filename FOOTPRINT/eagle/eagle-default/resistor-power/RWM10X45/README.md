@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-resistor-power-RWM10X45
 - Hex ID: FZERESISTORPOWERRWM1X45
 - Name: resistor-power : RWM10X45
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/resistor-power/RWM10X45/
 - Description: resistor-power : RWM10X45
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-resistor-power-RWM10X45](http://oom.lt/FOOTPRINT-eagle-eagle-default-resistor-power-RWM10X45)
 - Short Link: [http://oom.lt/FZERESISTORPOWERRWM1X45](http://oom.lt/FZERESISTORPOWERRWM1X45)

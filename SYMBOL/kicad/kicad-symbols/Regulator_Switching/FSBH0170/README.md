@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-FSBH0170
 - Hex ID: SZKREGULATORSWINGFSBH17
 - Name: Regulator_Switching : FSBH0170
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/FSBH0170/
 - Description: Regulator_Switching : FSBH0170
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-FSBH0170](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-FSBH0170)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGFSBH17](http://oom.lt/SZKREGULATORSWINGFSBH17)

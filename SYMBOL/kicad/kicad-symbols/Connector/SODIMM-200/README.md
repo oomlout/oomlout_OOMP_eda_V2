@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Connector-SODIMM-200
 - Hex ID: SZKCNSODI2
 - Name: Connector : SODIMM-200
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector/SODIMM-200/
 - Description: Connector : SODIMM-200
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-SODIMM-200](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-SODIMM-200)
 - Short Link: [http://oom.lt/SZKCNSODI2](http://oom.lt/SZKCNSODI2)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-DFN-10-1EP_3x3mm_P0.5mm_EP1.7x2.5mm
 - Hex ID: FZKDFNDFN11EP3X3P5EP17X25
 - Name: Package_DFN_QFN : DFN-10-1EP_3x3mm_P0.5mm_EP1.7x2.5mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/DFN-10-1EP_3x3mm_P0.5mm_EP1.7x2.5mm/
 - Description: Package_DFN_QFN : DFN-10-1EP_3x3mm_P0.5mm_EP1.7x2.5mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-DFN-10-1EP_3x3mm_P0.5mm_EP1.7x2.5mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-DFN-10-1EP_3x3mm_P0.5mm_EP1.7x2.5mm)
 - Short Link: [http://oom.lt/FZKDFNDFN11EP3X3P5EP17X25](http://oom.lt/FZKDFNDFN11EP3X3P5EP17X25)

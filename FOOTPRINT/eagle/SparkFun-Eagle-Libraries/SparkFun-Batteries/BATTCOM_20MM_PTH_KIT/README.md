@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Batteries-BATTCOM_20MM_PTH_KIT
 - Hex ID: FZSBBATTCOM2PK
 - Name: SparkFun-Batteries : BATTCOM_20MM_PTH_KIT
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Batteries/BATTCOM_20MM_PTH_KIT/
 - Description: SparkFun-Batteries : BATTCOM_20MM_PTH_KIT
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Batteries-BATTCOM_20MM_PTH_KIT](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Batteries-BATTCOM_20MM_PTH_KIT)
 - Short Link: [http://oom.lt/FZSBBATTCOM2PK](http://oom.lt/FZSBBATTCOM2PK)

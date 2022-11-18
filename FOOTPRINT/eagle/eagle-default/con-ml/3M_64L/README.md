@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-ml-3M_64L
 - Hex ID: FZECONML3M64L
 - Name: con-ml : 3M_64L
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-ml/3M_64L/
 - Description: con-ml : 3M_64L
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-ml-3M_64L](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-ml-3M_64L)
 - Short Link: [http://oom.lt/FZECONML3M64L](http://oom.lt/FZECONML3M64L)

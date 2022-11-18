@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-74ac-logic-DIL28-6
 - Hex ID: FZE74ACLOGICDIL286
 - Name: 74ac-logic : DIL28-6
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/74ac-logic/DIL28-6/
 - Description: 74ac-logic : DIL28-6
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-74ac-logic-DIL28-6](http://oom.lt/FOOTPRINT-eagle-eagle-default-74ac-logic-DIL28-6)
 - Short Link: [http://oom.lt/FZE74ACLOGICDIL286](http://oom.lt/FZE74ACLOGICDIL286)

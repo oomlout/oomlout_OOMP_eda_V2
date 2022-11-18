@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-LT1129-3.3_TO220_TO263
 - Hex ID: SZKREGULATORLINEARLT112933TO22TO263
 - Name: Regulator_Linear : LT1129-3.3_TO220_TO263
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LT1129-3.3_TO220_TO263/
 - Description: Regulator_Linear : LT1129-3.3_TO220_TO263
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LT1129-3.3_TO220_TO263](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LT1129-3.3_TO220_TO263)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARLT112933TO22TO263](http://oom.lt/SZKREGULATORLINEARLT112933TO22TO263)

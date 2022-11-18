@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0805-X-PF22-V50-C8P22
 - Hex ID: FZOOMPKOOMPPCAPC85XPF22V5C8P22
 - Name: oomlout_OOMP_parts : CAPC-0805-X-PF22-V50-C8P22
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/CAPC-0805-X-PF22-V50-C8P22/
 - Description: oomlout_OOMP_parts : CAPC-0805-X-PF22-V50-C8P22
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0805-X-PF22-V50-C8P22](http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0805-X-PF22-V50-C8P22)
 - Short Link: [http://oom.lt/FZOOMPKOOMPPCAPC85XPF22V5C8P22](http://oom.lt/FZOOMPKOOMPPCAPC85XPF22V5C8P22)

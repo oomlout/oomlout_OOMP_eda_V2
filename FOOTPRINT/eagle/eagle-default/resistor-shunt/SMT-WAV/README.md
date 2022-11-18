@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-resistor-shunt-SMT-WAV
 - Hex ID: FZERESISTORSHUNTSWAV
 - Name: resistor-shunt : SMT-WAV
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/resistor-shunt/SMT-WAV/
 - Description: resistor-shunt : SMT-WAV
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-resistor-shunt-SMT-WAV](http://oom.lt/FOOTPRINT-eagle-eagle-default-resistor-shunt-SMT-WAV)
 - Short Link: [http://oom.lt/FZERESISTORSHUNTSWAV](http://oom.lt/FZERESISTORSHUNTSWAV)

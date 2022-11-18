@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-FPC_12_0.5MM
 - Hex ID: FZSSPARKFUNCNSFPC125
 - Name: SparkFun-Connectors : FPC_12_0.5MM
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Connectors/FPC_12_0.5MM/
 - Description: SparkFun-Connectors : FPC_12_0.5MM
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-FPC_12_0.5MM](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-FPC_12_0.5MM)
 - Short Link: [http://oom.lt/FZSSPARKFUNCNSFPC125](http://oom.lt/FZSSPARKFUNCNSFPC125)

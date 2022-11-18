@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-transistor-power-DIRECTFET
 - Hex ID: FZETRANSISTORPOWERDIRECTFET
 - Name: transistor-power : DIRECTFET
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/transistor-power/DIRECTFET/
 - Description: transistor-power : DIRECTFET
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-power-DIRECTFET](http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-power-DIRECTFET)
 - Short Link: [http://oom.lt/FZETRANSISTORPOWERDIRECTFET](http://oom.lt/FZETRANSISTORPOWERDIRECTFET)

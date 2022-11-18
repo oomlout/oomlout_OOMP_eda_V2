@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Current-MAX4080F
 - Hex ID: SZKAMPLIFIERCURRENTMAX48F
 - Name: Amplifier_Current : MAX4080F
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Current/MAX4080F/
 - Description: Amplifier_Current : MAX4080F
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Current-MAX4080F](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Current-MAX4080F)
 - Short Link: [http://oom.lt/SZKAMPLIFIERCURRENTMAX48F](http://oom.lt/SZKAMPLIFIERCURRENTMAX48F)

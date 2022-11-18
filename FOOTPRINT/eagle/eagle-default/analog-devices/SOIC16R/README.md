@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-analog-devices-SOIC16R
 - Hex ID: FZEANALOGDEVICESSOIC16R
 - Name: analog-devices : SOIC16R
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/analog-devices/SOIC16R/
 - Description: analog-devices : SOIC16R
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-analog-devices-SOIC16R](http://oom.lt/FOOTPRINT-eagle-eagle-default-analog-devices-SOIC16R)
 - Short Link: [http://oom.lt/FZEANALOGDEVICESSOIC16R](http://oom.lt/FZEANALOGDEVICESSOIC16R)

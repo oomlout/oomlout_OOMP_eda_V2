@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-OptoDevice-ONSemi_QSE15x
 - Hex ID: FZKOPONSEMIQSE15X
 - Name: OptoDevice : ONSemi_QSE15x
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/OptoDevice/ONSemi_QSE15x/
 - Description: OptoDevice : ONSemi_QSE15x
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-OptoDevice-ONSemi_QSE15x](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-OptoDevice-ONSemi_QSE15x)
 - Short Link: [http://oom.lt/FZKOPONSEMIQSE15X](http://oom.lt/FZKOPONSEMIQSE15X)

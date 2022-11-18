@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-transistor-power-TO126AH
 - Hex ID: FZETRANSISTORPOWERTO126AH
 - Name: transistor-power : TO126AH
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/transistor-power/TO126AH/
 - Description: transistor-power : TO126AH
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-power-TO126AH](http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-power-TO126AH)
 - Short Link: [http://oom.lt/FZETRANSISTORPOWERTO126AH](http://oom.lt/FZETRANSISTORPOWERTO126AH)

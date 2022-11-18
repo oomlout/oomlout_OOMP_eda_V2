@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Reference_Voltage-REF5025AD
 - Hex ID: SZKREFERENCEVOLTAGEREF525AD
 - Name: Reference_Voltage : REF5025AD
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Reference_Voltage/REF5025AD/
 - Description: Reference_Voltage : REF5025AD
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Voltage-REF5025AD](http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Voltage-REF5025AD)
 - Short Link: [http://oom.lt/SZKREFERENCEVOLTAGEREF525AD](http://oom.lt/SZKREFERENCEVOLTAGEREF525AD)

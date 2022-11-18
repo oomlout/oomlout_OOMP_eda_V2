@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-LM3150MH
 - Hex ID: SZKREGULATORSWINGLM315MH
 - Name: Regulator_Switching : LM3150MH
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/LM3150MH/
 - Description: Regulator_Switching : LM3150MH
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LM3150MH](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LM3150MH)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGLM315MH](http://oom.lt/SZKREGULATORSWINGLM315MH)

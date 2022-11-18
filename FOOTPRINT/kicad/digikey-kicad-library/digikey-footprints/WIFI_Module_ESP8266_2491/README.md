@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-WIFI_Module_ESP8266_2491
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSWIFIMOESP82662491
 - Name: digikey-footprints : WIFI_Module_ESP8266_2491
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/WIFI_Module_ESP8266_2491/
 - Description: digikey-footprints : WIFI_Module_ESP8266_2491
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-WIFI_Module_ESP8266_2491](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-WIFI_Module_ESP8266_2491)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSWIFIMOESP82662491](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSWIFIMOESP82662491)

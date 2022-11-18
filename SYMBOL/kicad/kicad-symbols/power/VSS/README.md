@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-power-VSS
 - Hex ID: SZKPOWERVSS
 - Name: power : VSS
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/power/VSS/
 - Description: power : VSS
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-power-VSS](http://oom.lt/SYMBOL-kicad-kicad-symbols-power-VSS)
 - Short Link: [http://oom.lt/SZKPOWERVSS](http://oom.lt/SZKPOWERVSS)

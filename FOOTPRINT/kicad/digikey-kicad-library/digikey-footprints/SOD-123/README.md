@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SOD-123
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSSOD123
 - Name: digikey-footprints : SOD-123
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/SOD-123/
 - Description: digikey-footprints : SOD-123
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SOD-123](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SOD-123)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSSOD123](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSSOD123)

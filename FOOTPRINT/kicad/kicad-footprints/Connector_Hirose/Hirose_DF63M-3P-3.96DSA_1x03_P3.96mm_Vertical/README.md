@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_Hirose-Hirose_DF63M-3P-3.96DSA_1x03_P3.96mm_Vertical
 - Hex ID: FZKCNHIROSEHIROSEDF63M3P396DSA1X3P396F
 - Name: Connector_Hirose : Hirose_DF63M-3P-3.96DSA_1x03_P3.96mm_Vertical
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Hirose/Hirose_DF63M-3P-3.96DSA_1x03_P3.96mm_Vertical/
 - Description: Connector_Hirose : Hirose_DF63M-3P-3.96DSA_1x03_P3.96mm_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Hirose-Hirose_DF63M-3P-3.96DSA_1x03_P3.96mm_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Hirose-Hirose_DF63M-3P-3.96DSA_1x03_P3.96mm_Vertical)
 - Short Link: [http://oom.lt/FZKCNHIROSEHIROSEDF63M3P396DSA1X3P396F](http://oom.lt/FZKCNHIROSEHIROSEDF63M3P396DSA1X3P396F)

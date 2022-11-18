@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-USB_Micro_B_Female_0473460001
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSUMBF473461
 - Name: digikey-footprints : USB_Micro_B_Female_0473460001
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/USB_Micro_B_Female_0473460001/
 - Description: digikey-footprints : USB_Micro_B_Female_0473460001
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-USB_Micro_B_Female_0473460001](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-USB_Micro_B_Female_0473460001)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSUMBF473461](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSUMBF473461)

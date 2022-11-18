@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Audio-SSM2018
 - Hex ID: SZKAMPLIFIERAUDIOSSM218
 - Name: Amplifier_Audio : SSM2018
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Audio/SSM2018/
 - Description: Amplifier_Audio : SSM2018
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Audio-SSM2018](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Audio-SSM2018)
 - Short Link: [http://oom.lt/SZKAMPLIFIERAUDIOSSM218](http://oom.lt/SZKAMPLIFIERAUDIOSSM218)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Valve-Valve_ECC-83-2
 - Hex ID: FZKVAVAECC832
 - Name: Valve : Valve_ECC-83-2
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Valve/Valve_ECC-83-2/
 - Description: Valve : Valve_ECC-83-2
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Valve-Valve_ECC-83-2](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Valve-Valve_ECC-83-2)
 - Short Link: [http://oom.lt/FZKVAVAECC832](http://oom.lt/FZKVAVAECC832)

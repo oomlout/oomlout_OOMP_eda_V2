@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-SM513
 - Hex ID: SZKDIODESM513
 - Name: Diode : SM513
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/SM513/
 - Description: Diode : SM513
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-SM513](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-SM513)
 - Short Link: [http://oom.lt/SZKDIODESM513](http://oom.lt/SZKDIODESM513)

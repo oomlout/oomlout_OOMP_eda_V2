@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_B_OST_USB-B1HSxx_Horizontal
 - Hex ID: FZKCNUUBOSTUB1HSXXH
 - Name: Connector_USB : USB_B_OST_USB-B1HSxx_Horizontal
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB_B_OST_USB-B1HSxx_Horizontal/
 - Description: Connector_USB : USB_B_OST_USB-B1HSxx_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_B_OST_USB-B1HSxx_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_B_OST_USB-B1HSxx_Horizontal)
 - Short Link: [http://oom.lt/FZKCNUUBOSTUB1HSXXH](http://oom.lt/FZKCNUUBOSTUB1HSXXH)

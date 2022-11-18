@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Switches-CHERRY-MX-LED-BIG-ASS-ENTER
 - Hex ID: FZSWCHERRYMXLBASSENTER
 - Name: SparkFun-Switches : CHERRY-MX-LED-BIG-ASS-ENTER
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Switches/CHERRY-MX-LED-BIG-ASS-ENTER/
 - Description: SparkFun-Switches : CHERRY-MX-LED-BIG-ASS-ENTER
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Switches-CHERRY-MX-LED-BIG-ASS-ENTER](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Switches-CHERRY-MX-LED-BIG-ASS-ENTER)
 - Short Link: [http://oom.lt/FZSWCHERRYMXLBASSENTER](http://oom.lt/FZSWCHERRYMXLBASSENTER)

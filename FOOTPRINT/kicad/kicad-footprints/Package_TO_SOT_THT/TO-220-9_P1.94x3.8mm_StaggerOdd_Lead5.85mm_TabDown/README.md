@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-TO-220-9_P1.94x3.8mm_StaggerOdd_Lead5.85mm_TabDown
 - Hex ID: FZKSOTTO229P194X38STAGGERODDLEAD585TABDOWN
 - Name: Package_TO_SOT_THT : TO-220-9_P1.94x3.8mm_StaggerOdd_Lead5.85mm_TabDown
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_THT/TO-220-9_P1.94x3.8mm_StaggerOdd_Lead5.85mm_TabDown/
 - Description: Package_TO_SOT_THT : TO-220-9_P1.94x3.8mm_StaggerOdd_Lead5.85mm_TabDown
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-TO-220-9_P1.94x3.8mm_StaggerOdd_Lead5.85mm_TabDown](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-TO-220-9_P1.94x3.8mm_StaggerOdd_Lead5.85mm_TabDown)
 - Short Link: [http://oom.lt/FZKSOTTO229P194X38STAGGERODDLEAD585TABDOWN](http://oom.lt/FZKSOTTO229P194X38STAGGERODDLEAD585TABDOWN)

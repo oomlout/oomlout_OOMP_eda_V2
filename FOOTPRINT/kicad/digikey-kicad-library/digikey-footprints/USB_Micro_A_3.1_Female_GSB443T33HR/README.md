@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-USB_Micro_A_3.1_Female_GSB443T33HR
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSUMA31FGSB443T33HR
 - Name: digikey-footprints : USB_Micro_A_3.1_Female_GSB443T33HR
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/USB_Micro_A_3.1_Female_GSB443T33HR/
 - Description: digikey-footprints : USB_Micro_A_3.1_Female_GSB443T33HR
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-USB_Micro_A_3.1_Female_GSB443T33HR](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-USB_Micro_A_3.1_Female_GSB443T33HR)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSUMA31FGSB443T33HR](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSUMA31FGSB443T33HR)

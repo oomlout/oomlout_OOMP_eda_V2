@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-maxim-TDFN8-3X3MM
 - Hex ID: FZEMAXIMTDFN83X3
 - Name: maxim : TDFN8-3X3MM
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/maxim/TDFN8-3X3MM/
 - Description: maxim : TDFN8-3X3MM
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-maxim-TDFN8-3X3MM](http://oom.lt/FOOTPRINT-eagle-eagle-default-maxim-TDFN8-3X3MM)
 - Short Link: [http://oom.lt/FZEMAXIMTDFN83X3](http://oom.lt/FZEMAXIMTDFN83X3)

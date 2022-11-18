@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-LEDS-05-I9-STAN-01-L5I9
 - Hex ID: SZOOMPKOOMPPLS5I9STAN1L5I9
 - Name: oomlout_OOMP_parts : LEDS-05-I9-STAN-01-L5I9
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/LEDS-05-I9-STAN-01-L5I9/
 - Description: oomlout_OOMP_parts : LEDS-05-I9-STAN-01-L5I9
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-LEDS-05-I9-STAN-01-L5I9](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-LEDS-05-I9-STAN-01-L5I9)
 - Short Link: [http://oom.lt/SZOOMPKOOMPPLS5I9STAN1L5I9](http://oom.lt/SZOOMPKOOMPPLS5I9STAN1L5I9)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Memory_RAM-IDT7006PF
 - Hex ID: SZKMEMORYRAMIDT76PF
 - Name: Memory_RAM : IDT7006PF
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Memory_RAM/IDT7006PF/
 - Description: Memory_RAM : IDT7006PF
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_RAM-IDT7006PF](http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_RAM-IDT7006PF)
 - Short Link: [http://oom.lt/SZKMEMORYRAMIDT76PF](http://oom.lt/SZKMEMORYRAMIDT76PF)

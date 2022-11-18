@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_Coaxial-SMA_Amphenol_132203-12_Horizontal
 - Hex ID: FZKCNCOASAMPHENOL1322312H
 - Name: Connector_Coaxial : SMA_Amphenol_132203-12_Horizontal
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Coaxial/SMA_Amphenol_132203-12_Horizontal/
 - Description: Connector_Coaxial : SMA_Amphenol_132203-12_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Coaxial-SMA_Amphenol_132203-12_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Coaxial-SMA_Amphenol_132203-12_Horizontal)
 - Short Link: [http://oom.lt/FZKCNCOASAMPHENOL1322312H](http://oom.lt/FZKCNCOASAMPHENOL1322312H)

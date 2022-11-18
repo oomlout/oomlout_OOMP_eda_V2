@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_HC51-U_Vertical
 - Hex ID: FZKXXHC51UF
 - Name: Crystal : Crystal_HC51-U_Vertical
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_HC51-U_Vertical/
 - Description: Crystal : Crystal_HC51-U_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_HC51-U_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_HC51-U_Vertical)
 - Short Link: [http://oom.lt/FZKXXHC51UF](http://oom.lt/FZKXXHC51UF)

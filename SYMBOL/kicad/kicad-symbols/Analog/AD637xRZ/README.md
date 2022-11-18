@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Analog-AD637xRZ
 - Hex ID: SZKANALOGAD637XRZ
 - Name: Analog : AD637xRZ
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog/AD637xRZ/
 - Description: Analog : AD637xRZ
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog-AD637xRZ](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog-AD637xRZ)
 - Short Link: [http://oom.lt/SZKANALOGAD637XRZ](http://oom.lt/SZKANALOGAD637XRZ)

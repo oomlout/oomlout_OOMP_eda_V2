@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Panasonic_HQFN-16-1EP_4x4mm_P0.65mm_EP2.9x2.9mm
 - Hex ID: FZKDFNPHQFN161EP4X4P65EP29X29
 - Name: Package_DFN_QFN : Panasonic_HQFN-16-1EP_4x4mm_P0.65mm_EP2.9x2.9mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/Panasonic_HQFN-16-1EP_4x4mm_P0.65mm_EP2.9x2.9mm/
 - Description: Package_DFN_QFN : Panasonic_HQFN-16-1EP_4x4mm_P0.65mm_EP2.9x2.9mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Panasonic_HQFN-16-1EP_4x4mm_P0.65mm_EP2.9x2.9mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Panasonic_HQFN-16-1EP_4x4mm_P0.65mm_EP2.9x2.9mm)
 - Short Link: [http://oom.lt/FZKDFNPHQFN161EP4X4P65EP29X29](http://oom.lt/FZKDFNPHQFN161EP4X4P65EP29X29)

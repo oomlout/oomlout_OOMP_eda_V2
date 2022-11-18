@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-smd-ipc-C0504
 - Hex ID: FZESMIPCC54
 - Name: smd-ipc : C0504
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/smd-ipc/C0504/
 - Description: smd-ipc : C0504
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-C0504](http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-C0504)
 - Short Link: [http://oom.lt/FZESMIPCC54](http://oom.lt/FZESMIPCC54)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-smd-special-SMB
 - Hex ID: FZESMSPECIALSMB
 - Name: smd-special : SMB
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/smd-special/SMB/
 - Description: smd-special : SMB
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-special-SMB](http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-special-SMB)
 - Short Link: [http://oom.lt/FZESMSPECIALSMB](http://oom.lt/FZESMSPECIALSMB)

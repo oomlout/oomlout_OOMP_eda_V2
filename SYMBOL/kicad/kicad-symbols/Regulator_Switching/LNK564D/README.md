@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-LNK564D
 - Hex ID: SZKREGULATORSWINGLNK564D
 - Name: Regulator_Switching : LNK564D
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/LNK564D/
 - Description: Regulator_Switching : LNK564D
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LNK564D](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LNK564D)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGLNK564D](http://oom.lt/SZKREGULATORSWINGLNK564D)

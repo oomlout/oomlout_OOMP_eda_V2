@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKDDSMCRM1UNIVERSALHANDSOLDERING > Diode_SMD : D_SMC-RM10_Universal_Handsoldering](#fzkddsmcrm1universalhandsoldering--diode_smd--d_smc-rm10_universal_handsoldering)
+* [FZKDDSMCRM1UNIVERSALHS > Diode_SMD : D_SMC-RM10_Universal_Handsoldering](#fzkddsmcrm1universalhs--diode_smd--d_smc-rm10_universal_handsoldering)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKDDSMCRM1UNIVERSALHANDSOLDERING > Diode_SMD : D_SMC-RM10_Universal_Handsoldering
+# FZKDDSMCRM1UNIVERSALHS > Diode_SMD : D_SMC-RM10_Universal_Handsoldering
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_SMC-RM10_Universal_Handsoldering
-- Hex ID: FZKDDSMCRM1UNIVERSALHANDSOLDERING
+- Hex ID: FZKDDSMCRM1UNIVERSALHS
 - Name: Diode_SMD : D_SMC-RM10_Universal_Handsoldering
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Diode_SMD/D_SMC-RM10_Universal_Handsoldering/
 - Description: Diode_SMD : D_SMC-RM10_Universal_Handsoldering
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_SMC-RM10_Universal_Handsoldering](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_SMC-RM10_Universal_Handsoldering)
-- Short Link: [http://oom.lt/FZKDDSMCRM1UNIVERSALHANDSOLDERING](http://oom.lt/FZKDDSMCRM1UNIVERSALHANDSOLDERING)
+- Short Link: [http://oom.lt/FZKDDSMCRM1UNIVERSALHS](http://oom.lt/FZKDDSMCRM1UNIVERSALHS)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Diode_SMD|
 |OOMP Index|oompIndex|D_SMC-RM10_Universal_Handsoldering|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_SMC-RM10_Universal_Handsoldering|
-|Hex ID (short code)|hexID|FZKDDSMCRM1UNIVERSALHANDSOLDERING|
+|Hex ID (short code)|hexID|FZKDDSMCRM1UNIVERSALHS|
 |name|name|Diode_SMD : D_SMC-RM10_Universal_Handsoldering|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'D_SMC-RM10_Universal_Handsoldering'</td><td> 'description'</td></tr><tr><td> 'Diode</td><td> Universal</td><td> SMC (DO-214AB)</td><td> RM10</td><td> Handsoldering</td><td> SMD</td><td> Thruhole'</td><td> 'tags'</td></tr><tr><td> 'Diode Universal SMC (DO-214AB) RM10 Handsoldering SMD Thruhole'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Diode_SMD.3dshapes/D_SMC.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

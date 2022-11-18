@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [SZKCNGENERICSHEDCONN2ROWS39PINSSHED > Connector_Generic_Shielded : Conn_2Rows-39Pins_Shielded](#szkcngenericshedconn2rows39pinsshed--connector_generic_shielded--conn_2rows-39pins_shielded)
+* [SZKCNGSHEDC2RS39PSSHED > Connector_Generic_Shielded : Conn_2Rows-39Pins_Shielded](#szkcngshedc2rs39psshed--connector_generic_shielded--conn_2rows-39pins_shielded)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# SZKCNGENERICSHEDCONN2ROWS39PINSSHED > Connector_Generic_Shielded : Conn_2Rows-39Pins_Shielded
+# SZKCNGSHEDC2RS39PSSHED > Connector_Generic_Shielded : Conn_2Rows-39Pins_Shielded
 
 - ID: SYMBOL-kicad-kicad-symbols-Connector_Generic_Shielded-Conn_2Rows-39Pins_Shielded
-- Hex ID: SZKCNGENERICSHEDCONN2ROWS39PINSSHED
+- Hex ID: SZKCNGSHEDC2RS39PSSHED
 - Name: Connector_Generic_Shielded : Conn_2Rows-39Pins_Shielded
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector_Generic_Shielded/Conn_2Rows-39Pins_Shielded/
 - Description: Connector_Generic_Shielded : Conn_2Rows-39Pins_Shielded
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector_Generic_Shielded-Conn_2Rows-39Pins_Shielded](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector_Generic_Shielded-Conn_2Rows-39Pins_Shielded)
-- Short Link: [http://oom.lt/SZKCNGENERICSHEDCONN2ROWS39PINSSHED](http://oom.lt/SZKCNGENERICSHEDCONN2ROWS39PINSSHED)
+- Short Link: [http://oom.lt/SZKCNGSHEDC2RS39PSSHED](http://oom.lt/SZKCNGSHEDC2RS39PSSHED)
 
 ## Images
   
@@ -36,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Connector_Generic_Shielded|
 |OOMP Index|oompIndex|Conn_2Rows-39Pins_Shielded|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector_Generic_Shielded-Conn_2Rows-39Pins_Shielded|
-|Hex ID (short code)|hexID|SZKCNGENERICSHEDCONN2ROWS39PINSSHED|
+|Hex ID (short code)|hexID|SZKCNGSHEDC2RS39PSSHED|
 |name|name|Connector_Generic_Shielded : Conn_2Rows-39Pins_Shielded|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'J'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'Conn_2Rows-39Pins_Shielded'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'connector'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Generic shielded connector</td><td> double row</td><td> 39 pins</td><td> odd/even pin numbering scheme (row 1 odd numbers</td><td> row 2 even numbers)</td><td> script generated (kicad-library-utils/schlib/autogen/connector/)'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Connector*</td></tr><tr><td>*2Rows*Pins-1SH_* *FCC*2Rows*Pins-1SH_*'</td></tr></table>]|
 ||||

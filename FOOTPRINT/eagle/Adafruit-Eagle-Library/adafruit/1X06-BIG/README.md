@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-1X06-BIG
 - Hex ID: FZA1X6B
 - Name: adafruit : 1X06-BIG
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/1X06-BIG/
 - Description: adafruit : 1X06-BIG
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-1X06-BIG](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-1X06-BIG)
 - Short Link: [http://oom.lt/FZA1X6B](http://oom.lt/FZA1X6B)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega325-16M
 - Hex ID: SZKMCUMCHIPATMEGAATMEGA32516M
 - Name: MCU_Microchip_ATmega : ATmega325-16M
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_ATmega/ATmega325-16M/
 - Description: MCU_Microchip_ATmega : ATmega325-16M
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega325-16M](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega325-16M)
 - Short Link: [http://oom.lt/SZKMCUMCHIPATMEGAATMEGA32516M](http://oom.lt/SZKMCUMCHIPATMEGAATMEGA32516M)

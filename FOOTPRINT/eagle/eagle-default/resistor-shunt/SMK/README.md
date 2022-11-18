@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-resistor-shunt-SMK
 - Hex ID: FZERESISTORSHUNTSMK
 - Name: resistor-shunt : SMK
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/resistor-shunt/SMK/
 - Description: resistor-shunt : SMK
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-resistor-shunt-SMK](http://oom.lt/FOOTPRINT-eagle-eagle-default-resistor-shunt-SMK)
 - Short Link: [http://oom.lt/FZERESISTORSHUNTSMK](http://oom.lt/FZERESISTORSHUNTSMK)

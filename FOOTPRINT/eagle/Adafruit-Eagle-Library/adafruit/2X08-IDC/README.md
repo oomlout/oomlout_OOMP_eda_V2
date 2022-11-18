@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-2X08-IDC
 - Hex ID: FZA2X8IDC
 - Name: adafruit : 2X08-IDC
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/2X08-IDC/
 - Description: adafruit : 2X08-IDC
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-2X08-IDC](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-2X08-IDC)
 - Short Link: [http://oom.lt/FZA2X8IDC](http://oom.lt/FZA2X8IDC)

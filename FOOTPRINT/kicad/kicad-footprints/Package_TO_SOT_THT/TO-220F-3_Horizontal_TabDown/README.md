@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-TO-220F-3_Horizontal_TabDown
 - Hex ID: FZKSOTTO22F3HTABDOWN
 - Name: Package_TO_SOT_THT : TO-220F-3_Horizontal_TabDown
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_THT/TO-220F-3_Horizontal_TabDown/
 - Description: Package_TO_SOT_THT : TO-220F-3_Horizontal_TabDown
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-TO-220F-3_Horizontal_TabDown](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-TO-220F-3_Horizontal_TabDown)
 - Short Link: [http://oom.lt/FZKSOTTO22F3HTABDOWN](http://oom.lt/FZKSOTTO22F3HTABDOWN)

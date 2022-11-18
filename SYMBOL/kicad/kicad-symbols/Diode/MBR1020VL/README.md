@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-MBR1020VL
 - Hex ID: SZKDIODEMBR12VL
 - Name: Diode : MBR1020VL
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/MBR1020VL/
 - Description: Diode : MBR1020VL
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-MBR1020VL](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-MBR1020VL)
 - Short Link: [http://oom.lt/SZKDIODEMBR12VL](http://oom.lt/SZKDIODEMBR12VL)

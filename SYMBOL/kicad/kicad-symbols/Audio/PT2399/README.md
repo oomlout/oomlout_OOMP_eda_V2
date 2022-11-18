@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Audio-PT2399
 - Hex ID: SZKAUDIOPT2399
 - Name: Audio : PT2399
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Audio/PT2399/
 - Description: Audio : PT2399
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Audio-PT2399](http://oom.lt/SYMBOL-kicad-kicad-symbols-Audio-PT2399)
 - Short Link: [http://oom.lt/SZKAUDIOPT2399](http://oom.lt/SZKAUDIOPT2399)

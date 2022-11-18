@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-micro-siemens-QFP100R
 - Hex ID: FZEMSIEMENSQFP1R
 - Name: micro-siemens : QFP100R
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/micro-siemens/QFP100R/
 - Description: micro-siemens : QFP100R
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-siemens-QFP100R](http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-siemens-QFP100R)
 - Short Link: [http://oom.lt/FZEMSIEMENSQFP1R](http://oom.lt/FZEMSIEMENSQFP1R)

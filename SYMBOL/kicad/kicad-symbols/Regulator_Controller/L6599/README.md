@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Controller-L6599
 - Hex ID: SZKREGULATORCONTROLLERL6599
 - Name: Regulator_Controller : L6599
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Controller/L6599/
 - Description: Regulator_Controller : L6599
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Controller-L6599](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Controller-L6599)
 - Short Link: [http://oom.lt/SZKREGULATORCONTROLLERL6599](http://oom.lt/SZKREGULATORCONTROLLERL6599)

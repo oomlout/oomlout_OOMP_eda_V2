@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Analog_DAC-AD7228ABP
 - Hex ID: SZKANALOGDACAD7228ABP
 - Name: Analog_DAC : AD7228ABP
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog_DAC/AD7228ABP/
 - Description: Analog_DAC : AD7228ABP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_DAC-AD7228ABP](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_DAC-AD7228ABP)
 - Short Link: [http://oom.lt/SZKANALOGDACAD7228ABP](http://oom.lt/SZKANALOGDACAD7228ABP)

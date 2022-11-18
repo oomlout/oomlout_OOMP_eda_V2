@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Bourns_SRR1208_12.7x12.7mm
 - Hex ID: FZKINLBOURNSSRR128127X127
 - Name: Inductor_SMD : L_Bourns_SRR1208_12.7x12.7mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Bourns_SRR1208_12.7x12.7mm/
 - Description: Inductor_SMD : L_Bourns_SRR1208_12.7x12.7mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Bourns_SRR1208_12.7x12.7mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Bourns_SRR1208_12.7x12.7mm)
 - Short Link: [http://oom.lt/FZKINLBOURNSSRR128127X127](http://oom.lt/FZKINLBOURNSSRR128127X127)

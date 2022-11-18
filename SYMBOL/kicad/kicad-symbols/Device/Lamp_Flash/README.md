@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Device-Lamp_Flash
 - Hex ID: SZKDEVICELAMPFLASH
 - Name: Device : Lamp_Flash
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/Lamp_Flash/
 - Description: Device : Lamp_Flash
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Lamp_Flash](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Lamp_Flash)
 - Short Link: [http://oom.lt/SZKDEVICELAMPFLASH](http://oom.lt/SZKDEVICELAMPFLASH)

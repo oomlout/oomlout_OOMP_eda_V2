@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0805-X-UF10-V10-C85U010
 - Hex ID: SZOOMPKOOMPPCAPC85XUF1V1C85U1
 - Name: oomlout_OOMP_parts : CAPC-0805-X-UF10-V10-C85U010
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/CAPC-0805-X-UF10-V10-C85U010/
 - Description: oomlout_OOMP_parts : CAPC-0805-X-UF10-V10-C85U010
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0805-X-UF10-V10-C85U010](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0805-X-UF10-V10-C85U010)
 - Short Link: [http://oom.lt/SZOOMPKOOMPPCAPC85XUF1V1C85U1](http://oom.lt/SZOOMPKOOMPPCAPC85XUF1V1C85U1)

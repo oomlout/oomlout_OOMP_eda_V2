@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-MCP603-xST
 - Hex ID: SZKAMPLIFIEROPERATIONALMCP63XST
 - Name: Amplifier_Operational : MCP603-xST
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/MCP603-xST/
 - Description: Amplifier_Operational : MCP603-xST
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-MCP603-xST](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-MCP603-xST)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALMCP63XST](http://oom.lt/SZKAMPLIFIEROPERATIONALMCP63XST)

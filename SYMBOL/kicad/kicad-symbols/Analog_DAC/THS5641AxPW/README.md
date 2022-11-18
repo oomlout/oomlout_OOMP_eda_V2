@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Analog_DAC-THS5641AxPW
 - Hex ID: SZKANALOGDACTHS5641AXPW
 - Name: Analog_DAC : THS5641AxPW
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog_DAC/THS5641AxPW/
 - Description: Analog_DAC : THS5641AxPW
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_DAC-THS5641AxPW](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_DAC-THS5641AxPW)
 - Short Link: [http://oom.lt/SZKANALOGDACTHS5641AXPW](http://oom.lt/SZKANALOGDACTHS5641AXPW)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-logo-RECYCLING_10.00
 - Hex ID: FZELRECYCLING1
 - Name: logo : RECYCLING_10.00
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/logo/RECYCLING_10.00/
 - Description: logo : RECYCLING_10.00
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-logo-RECYCLING_10.00](http://oom.lt/FOOTPRINT-eagle-eagle-default-logo-RECYCLING_10.00)
 - Short Link: [http://oom.lt/FZELRECYCLING1](http://oom.lt/FZELRECYCLING1)

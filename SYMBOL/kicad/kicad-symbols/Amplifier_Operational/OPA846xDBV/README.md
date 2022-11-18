@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-OPA846xDBV
 - Hex ID: SZKAMPLIFIEROPERATIONALOPA846XDBV
 - Name: Amplifier_Operational : OPA846xDBV
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/OPA846xDBV/
 - Description: Amplifier_Operational : OPA846xDBV
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-OPA846xDBV](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-OPA846xDBV)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALOPA846XDBV](http://oom.lt/SZKAMPLIFIEROPERATIONALOPA846XDBV)

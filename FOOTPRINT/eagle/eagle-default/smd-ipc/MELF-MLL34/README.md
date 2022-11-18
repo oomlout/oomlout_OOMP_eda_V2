@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-smd-ipc-MELF-MLL34
 - Hex ID: FZESMIPCMELFMLL34
 - Name: smd-ipc : MELF-MLL34
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/smd-ipc/MELF-MLL34/
 - Description: smd-ipc : MELF-MLL34
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-MELF-MLL34](http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-MELF-MLL34)
 - Short Link: [http://oom.lt/FZESMIPCMELFMLL34](http://oom.lt/FZESMIPCMELFMLL34)

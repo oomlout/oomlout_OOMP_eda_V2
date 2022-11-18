@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-I01-X-PI18-01-H18
 - Hex ID: FZOOMPKOOMPPHEADI1XPI181H18
 - Name: oomlout_OOMP_parts : HEAD-I01-X-PI18-01-H18
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/HEAD-I01-X-PI18-01-H18/
 - Description: oomlout_OOMP_parts : HEAD-I01-X-PI18-01-H18
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-I01-X-PI18-01-H18](http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-I01-X-PI18-01-H18)
 - Short Link: [http://oom.lt/FZOOMPKOOMPPHEADI1XPI181H18](http://oom.lt/FZOOMPKOOMPPHEADI1XPI181H18)

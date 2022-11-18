@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-opto-honeywell-TO18-4
 - Hex ID: FZEOPTOHONEYWELLTO184
 - Name: opto-honeywell : TO18-4
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/opto-honeywell/TO18-4/
 - Description: opto-honeywell : TO18-4
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-opto-honeywell-TO18-4](http://oom.lt/FOOTPRINT-eagle-eagle-default-opto-honeywell-TO18-4)
 - Short Link: [http://oom.lt/FZEOPTOHONEYWELLTO184](http://oom.lt/FZEOPTOHONEYWELLTO184)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-LEDS-05-V-STAN-01-L5V
 - Hex ID: SZOOMPKOOMPPLS5VSTAN1L5V
 - Name: oomlout_OOMP_parts : LEDS-05-V-STAN-01-L5V
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/LEDS-05-V-STAN-01-L5V/
 - Description: oomlout_OOMP_parts : LEDS-05-V-STAN-01-L5V
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-LEDS-05-V-STAN-01-L5V](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-LEDS-05-V-STAN-01-L5V)
 - Short Link: [http://oom.lt/SZOOMPKOOMPPLS5VSTAN1L5V](http://oom.lt/SZOOMPKOOMPPLS5VSTAN1L5V)

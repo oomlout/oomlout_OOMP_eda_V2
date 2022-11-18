@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKTBMETZCONNECTTBMETZCONNECTTYPE71RT11L3HGLU1X3P635H > TerminalBlock_MetzConnect : TerminalBlock_MetzConnect_Type701_RT11L03HGLU_1x03_P6.35mm_Horizontal](#fzktbmetzconnecttbmetzconnecttype71rt11l3hglu1x3p635h--terminalblock_metzconnect--terminalblock_metzconnect_type701_rt11l03hglu_1x03_p635mm_horizontal)
+* [FZKTBMETZCECTTBMETZCECTT71RT11L3HGLU1X3P635H > TerminalBlock_MetzConnect : TerminalBlock_MetzConnect_Type701_RT11L03HGLU_1x03_P6.35mm_Horizontal](#fzktbmetzcecttbmetzcectt71rt11l3hglu1x3p635h--terminalblock_metzconnect--terminalblock_metzconnect_type701_rt11l03hglu_1x03_p635mm_horizontal)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKTBMETZCONNECTTBMETZCONNECTTYPE71RT11L3HGLU1X3P635H > TerminalBlock_MetzConnect : TerminalBlock_MetzConnect_Type701_RT11L03HGLU_1x03_P6.35mm_Horizontal
+# FZKTBMETZCECTTBMETZCECTT71RT11L3HGLU1X3P635H > TerminalBlock_MetzConnect : TerminalBlock_MetzConnect_Type701_RT11L03HGLU_1x03_P6.35mm_Horizontal
 
 - ID: FOOTPRINT-kicad-kicad-footprints-TerminalBlock_MetzConnect-TerminalBlock_MetzConnect_Type701_RT11L03HGLU_1x03_P6.35mm_Horizontal
-- Hex ID: FZKTBMETZCONNECTTBMETZCONNECTTYPE71RT11L3HGLU1X3P635H
+- Hex ID: FZKTBMETZCECTTBMETZCECTT71RT11L3HGLU1X3P635H
 - Name: TerminalBlock_MetzConnect : TerminalBlock_MetzConnect_Type701_RT11L03HGLU_1x03_P6.35mm_Horizontal
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/TerminalBlock_MetzConnect/TerminalBlock_MetzConnect_Type701_RT11L03HGLU_1x03_P6.35mm_Horizontal/
 - Description: TerminalBlock_MetzConnect : TerminalBlock_MetzConnect_Type701_RT11L03HGLU_1x03_P6.35mm_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-TerminalBlock_MetzConnect-TerminalBlock_MetzConnect_Type701_RT11L03HGLU_1x03_P6.35mm_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-TerminalBlock_MetzConnect-TerminalBlock_MetzConnect_Type701_RT11L03HGLU_1x03_P6.35mm_Horizontal)
-- Short Link: [http://oom.lt/FZKTBMETZCONNECTTBMETZCONNECTTYPE71RT11L3HGLU1X3P635H](http://oom.lt/FZKTBMETZCONNECTTBMETZCONNECTTYPE71RT11L3HGLU1X3P635H)
+- Short Link: [http://oom.lt/FZKTBMETZCECTTBMETZCECTT71RT11L3HGLU1X3P635H](http://oom.lt/FZKTBMETZCECTTBMETZCECTT71RT11L3HGLU1X3P635H)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|TerminalBlock_MetzConnect|
 |OOMP Index|oompIndex|TerminalBlock_MetzConnect_Type701_RT11L03HGLU_1x03_P6.35mm_Horizontal|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-TerminalBlock_MetzConnect-TerminalBlock_MetzConnect_Type701_RT11L03HGLU_1x03_P6.35mm_Horizontal|
-|Hex ID (short code)|hexID|FZKTBMETZCONNECTTBMETZCONNECTTYPE71RT11L3HGLU1X3P635H|
+|Hex ID (short code)|hexID|FZKTBMETZCECTTBMETZCECTT71RT11L3HGLU1X3P635H|
 |name|name|TerminalBlock_MetzConnect : TerminalBlock_MetzConnect_Type701_RT11L03HGLU_1x03_P6.35mm_Horizontal|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'TerminalBlock_MetzConnect_Type701_RT11L03HGLU_1x03_P6.35mm_Horizontal'</td><td> 'description'</td></tr><tr><td> 'terminal block Metz Connect Type701_RT11L03HGLU</td><td> 3 pins</td><td> pitch 6.35mm</td><td> size 19x12.5mm^2</td><td> drill diamater 1.3mm</td><td> pad diameter 2.5mm</td><td> see http</td></tr><tr><td>//www.metz-connect.com/de/system/files/productfiles/Datenblatt_317011_RT11LxxHGLU_OFF-022798U.pdf</td><td> script-generated using https</td></tr><tr><td>//github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_MetzConnect'</td><td> 'tags'</td></tr><tr><td> 'THT terminal block Metz Connect Type701_RT11L03HGLU pitch 6.35mm size 19x12.5mm^2 drill 1.3mm pad 2.5mm'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/TerminalBlock_MetzConnect.3dshapes/TerminalBlock_MetzConnect_Type701_RT11L03HGLU_1x03_P6.35mm_Horizontal.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

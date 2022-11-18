@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_PHD_S32B-PHDSS_2x16_P2.00mm_Horizontal
 - Hex ID: FZKCNJSTJSTPHDS32BPHDSS2X16P2H
 - Name: Connector_JST : JST_PHD_S32B-PHDSS_2x16_P2.00mm_Horizontal
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_PHD_S32B-PHDSS_2x16_P2.00mm_Horizontal/
 - Description: Connector_JST : JST_PHD_S32B-PHDSS_2x16_P2.00mm_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_PHD_S32B-PHDSS_2x16_P2.00mm_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_PHD_S32B-PHDSS_2x16_P2.00mm_Horizontal)
 - Short Link: [http://oom.lt/FZKCNJSTJSTPHDS32BPHDSS2X16P2H](http://oom.lt/FZKCNJSTJSTPHDS32BPHDSS2X16P2H)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Device-D_TVS_Dual_ACA
 - Hex ID: SZKDEVICEDTVSDUALACA
 - Name: Device : D_TVS_Dual_ACA
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/D_TVS_Dual_ACA/
 - Description: Device : D_TVS_Dual_ACA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-D_TVS_Dual_ACA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-D_TVS_Dual_ACA)
 - Short Link: [http://oom.lt/SZKDEVICEDTVSDUALACA](http://oom.lt/SZKDEVICEDTVSDUALACA)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Transistor_Power_Module-Infineon_AG-ECONO2
 - Hex ID: FZKTRANSISTORPOWERMOINFINEONAGECONO2
 - Name: Transistor_Power_Module : Infineon_AG-ECONO2
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Transistor_Power_Module/Infineon_AG-ECONO2/
 - Description: Transistor_Power_Module : Infineon_AG-ECONO2
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Transistor_Power_Module-Infineon_AG-ECONO2](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Transistor_Power_Module-Infineon_AG-ECONO2)
 - Short Link: [http://oom.lt/FZKTRANSISTORPOWERMOINFINEONAGECONO2](http://oom.lt/FZKTRANSISTORPOWERMOINFINEONAGECONO2)

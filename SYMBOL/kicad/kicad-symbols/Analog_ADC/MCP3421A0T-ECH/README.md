@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Analog_ADC-MCP3421A0T-ECH
 - Hex ID: SZKANALOGADCMCP3421ATECH
 - Name: Analog_ADC : MCP3421A0T-ECH
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog_ADC/MCP3421A0T-ECH/
 - Description: Analog_ADC : MCP3421A0T-ECH
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-MCP3421A0T-ECH](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-MCP3421A0T-ECH)
 - Short Link: [http://oom.lt/SZKANALOGADCMCP3421ATECH](http://oom.lt/SZKANALOGADCMCP3421ATECH)

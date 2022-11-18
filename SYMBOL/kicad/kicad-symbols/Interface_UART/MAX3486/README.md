@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_UART-MAX3486
 - Hex ID: SZKINTERFACEUARTMAX3486
 - Name: Interface_UART : MAX3486
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_UART/MAX3486/
 - Description: Interface_UART : MAX3486
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_UART-MAX3486](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_UART-MAX3486)
 - Short Link: [http://oom.lt/SZKINTERFACEUARTMAX3486](http://oom.lt/SZKINTERFACEUARTMAX3486)

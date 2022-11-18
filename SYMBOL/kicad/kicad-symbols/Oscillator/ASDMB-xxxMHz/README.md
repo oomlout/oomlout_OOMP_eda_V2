@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Oscillator-ASDMB-xxxMHz
 - Hex ID: SZKOCSASDMBXXXMHZ
 - Name: Oscillator : ASDMB-xxxMHz
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Oscillator/ASDMB-xxxMHz/
 - Description: Oscillator : ASDMB-xxxMHz
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Oscillator-ASDMB-xxxMHz](http://oom.lt/SYMBOL-kicad-kicad-symbols-Oscillator-ASDMB-xxxMHz)
 - Short Link: [http://oom.lt/SZKOCSASDMBXXXMHZ](http://oom.lt/SZKOCSASDMBXXXMHZ)

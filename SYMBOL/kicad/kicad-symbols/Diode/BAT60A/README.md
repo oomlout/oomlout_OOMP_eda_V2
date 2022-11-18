@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-BAT60A
 - Hex ID: SZKDIODEBAT6A
 - Name: Diode : BAT60A
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/BAT60A/
 - Description: Diode : BAT60A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-BAT60A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-BAT60A)
 - Short Link: [http://oom.lt/SZKDIODEBAT6A](http://oom.lt/SZKDIODEBAT6A)

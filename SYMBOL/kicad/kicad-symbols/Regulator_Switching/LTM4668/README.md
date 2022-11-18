@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-LTM4668
 - Hex ID: SZKREGULATORSWINGLTM4668
 - Name: Regulator_Switching : LTM4668
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/LTM4668/
 - Description: Regulator_Switching : LTM4668
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LTM4668](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LTM4668)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGLTM4668](http://oom.lt/SZKREGULATORSWINGLTM4668)

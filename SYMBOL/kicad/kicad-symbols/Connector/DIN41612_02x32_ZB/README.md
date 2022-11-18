@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Connector-DIN41612_02x32_ZB
 - Hex ID: SZKCNDIN416122X32ZB
 - Name: Connector : DIN41612_02x32_ZB
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector/DIN41612_02x32_ZB/
 - Description: Connector : DIN41612_02x32_ZB
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-DIN41612_02x32_ZB](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-DIN41612_02x32_ZB)
 - Short Link: [http://oom.lt/SZKCNDIN416122X32ZB](http://oom.lt/SZKCNDIN416122X32ZB)

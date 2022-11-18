@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_DS10_D1.0mm_L4.3mm_Horizontal
 - Hex ID: FZKXXDS1D1L43H
 - Name: Crystal : Crystal_DS10_D1.0mm_L4.3mm_Horizontal
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_DS10_D1.0mm_L4.3mm_Horizontal/
 - Description: Crystal : Crystal_DS10_D1.0mm_L4.3mm_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_DS10_D1.0mm_L4.3mm_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_DS10_D1.0mm_L4.3mm_Horizontal)
 - Short Link: [http://oom.lt/FZKXXDS1D1L43H](http://oom.lt/FZKXXDS1D1L43H)

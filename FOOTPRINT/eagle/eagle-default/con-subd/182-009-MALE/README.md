@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-subd-182-009-MALE
 - Hex ID: FZECONSUBD1829MALE
 - Name: con-subd : 182-009-MALE
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-subd/182-009-MALE/
 - Description: con-subd : 182-009-MALE
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-subd-182-009-MALE](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-subd-182-009-MALE)
 - Short Link: [http://oom.lt/FZECONSUBD1829MALE](http://oom.lt/FZECONSUBD1829MALE)

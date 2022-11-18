@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-ecl-DIL16
 - Hex ID: FZEECLDIL16
 - Name: ecl : DIL16
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ecl/DIL16/
 - Description: ecl : DIL16
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ecl-DIL16](http://oom.lt/FOOTPRINT-eagle-eagle-default-ecl-DIL16)
 - Short Link: [http://oom.lt/FZEECLDIL16](http://oom.lt/FZEECLDIL16)

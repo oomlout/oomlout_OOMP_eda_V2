@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-SB150
 - Hex ID: SZKDIODESB15
 - Name: Diode : SB150
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/SB150/
 - Description: Diode : SB150
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-SB150](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-SB150)
 - Short Link: [http://oom.lt/SZKDIODESB15](http://oom.lt/SZKDIODESB15)

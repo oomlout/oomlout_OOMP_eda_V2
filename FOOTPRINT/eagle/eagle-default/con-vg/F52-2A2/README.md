@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-vg-F52-2A2
 - Hex ID: FZECONVGF522A2
 - Name: con-vg : F52-2A2
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-vg/F52-2A2/
 - Description: con-vg : F52-2A2
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-vg-F52-2A2](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-vg-F52-2A2)
 - Short Link: [http://oom.lt/FZECONVGF522A2](http://oom.lt/FZECONVGF522A2)

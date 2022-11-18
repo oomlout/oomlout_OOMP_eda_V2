@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Display_Character-MAN3420A
 - Hex ID: SZKDICHARACTERMAN342A
 - Name: Display_Character : MAN3420A
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Display_Character/MAN3420A/
 - Description: Display_Character : MAN3420A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-MAN3420A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-MAN3420A)
 - Short Link: [http://oom.lt/SZKDICHARACTERMAN342A](http://oom.lt/SZKDICHARACTERMAN342A)

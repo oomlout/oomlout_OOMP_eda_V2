@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-LIPO-1100MAH
 - Hex ID: FZSRTLIPO11MAH
 - Name: SparkFun-Retired : LIPO-1100MAH
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Retired/LIPO-1100MAH/
 - Description: SparkFun-Retired : LIPO-1100MAH
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-LIPO-1100MAH](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-LIPO-1100MAH)
 - Short Link: [http://oom.lt/FZSRTLIPO11MAH](http://oom.lt/FZSRTLIPO11MAH)

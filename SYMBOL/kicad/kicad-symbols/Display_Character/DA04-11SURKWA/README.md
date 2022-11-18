@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Display_Character-DA04-11SURKWA
 - Hex ID: SZKDICHARACTERDA411SURKWA
 - Name: Display_Character : DA04-11SURKWA
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Display_Character/DA04-11SURKWA/
 - Description: Display_Character : DA04-11SURKWA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-DA04-11SURKWA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-DA04-11SURKWA)
 - Short Link: [http://oom.lt/SZKDICHARACTERDA411SURKWA](http://oom.lt/SZKDICHARACTERDA411SURKWA)

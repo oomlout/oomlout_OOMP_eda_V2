@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-LT3011xDD
 - Hex ID: SZKREGULATORLINEARLT311XDD
 - Name: Regulator_Linear : LT3011xDD
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LT3011xDD/
 - Description: Regulator_Linear : LT3011xDD
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LT3011xDD](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LT3011xDD)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARLT311XDD](http://oom.lt/SZKREGULATORLINEARLT311XDD)

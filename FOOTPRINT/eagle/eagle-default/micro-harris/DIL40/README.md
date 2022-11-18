@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-micro-harris-DIL40
 - Hex ID: FZEMHARRISDIL4
 - Name: micro-harris : DIL40
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/micro-harris/DIL40/
 - Description: micro-harris : DIL40
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-harris-DIL40](http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-harris-DIL40)
 - Short Link: [http://oom.lt/FZEMHARRISDIL4](http://oom.lt/FZEMHARRISDIL4)

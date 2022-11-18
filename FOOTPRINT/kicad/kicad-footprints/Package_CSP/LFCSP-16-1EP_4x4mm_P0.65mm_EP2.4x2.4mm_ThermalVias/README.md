@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKCSPLFCSP161EP4X4P65EP24X24THERMALVIAS > Package_CSP : LFCSP-16-1EP_4x4mm_P0.65mm_EP2.4x2.4mm_ThermalVias](#fzkcsplfcsp161ep4x4p65ep24x24thermalvias--package_csp--lfcsp-16-1ep_4x4mm_p065mm_ep24x24mm_thermalvias)
+* [FZKCSPLFCSP161EP4X4P65EP24X24THV > Package_CSP : LFCSP-16-1EP_4x4mm_P0.65mm_EP2.4x2.4mm_ThermalVias](#fzkcsplfcsp161ep4x4p65ep24x24thv--package_csp--lfcsp-16-1ep_4x4mm_p065mm_ep24x24mm_thermalvias)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKCSPLFCSP161EP4X4P65EP24X24THERMALVIAS > Package_CSP : LFCSP-16-1EP_4x4mm_P0.65mm_EP2.4x2.4mm_ThermalVias
+# FZKCSPLFCSP161EP4X4P65EP24X24THV > Package_CSP : LFCSP-16-1EP_4x4mm_P0.65mm_EP2.4x2.4mm_ThermalVias
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_CSP-LFCSP-16-1EP_4x4mm_P0.65mm_EP2.4x2.4mm_ThermalVias
-- Hex ID: FZKCSPLFCSP161EP4X4P65EP24X24THERMALVIAS
+- Hex ID: FZKCSPLFCSP161EP4X4P65EP24X24THV
 - Name: Package_CSP : LFCSP-16-1EP_4x4mm_P0.65mm_EP2.4x2.4mm_ThermalVias
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_CSP/LFCSP-16-1EP_4x4mm_P0.65mm_EP2.4x2.4mm_ThermalVias/
 - Description: Package_CSP : LFCSP-16-1EP_4x4mm_P0.65mm_EP2.4x2.4mm_ThermalVias
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_CSP-LFCSP-16-1EP_4x4mm_P0.65mm_EP2.4x2.4mm_ThermalVias](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_CSP-LFCSP-16-1EP_4x4mm_P0.65mm_EP2.4x2.4mm_ThermalVias)
-- Short Link: [http://oom.lt/FZKCSPLFCSP161EP4X4P65EP24X24THERMALVIAS](http://oom.lt/FZKCSPLFCSP161EP4X4P65EP24X24THERMALVIAS)
+- Short Link: [http://oom.lt/FZKCSPLFCSP161EP4X4P65EP24X24THV](http://oom.lt/FZKCSPLFCSP161EP4X4P65EP24X24THV)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Package_CSP|
 |OOMP Index|oompIndex|LFCSP-16-1EP_4x4mm_P0.65mm_EP2.4x2.4mm_ThermalVias|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_CSP-LFCSP-16-1EP_4x4mm_P0.65mm_EP2.4x2.4mm_ThermalVias|
-|Hex ID (short code)|hexID|FZKCSPLFCSP161EP4X4P65EP24X24THERMALVIAS|
+|Hex ID (short code)|hexID|FZKCSPLFCSP161EP4X4P65EP24X24THV|
 |name|name|Package_CSP : LFCSP-16-1EP_4x4mm_P0.65mm_EP2.4x2.4mm_ThermalVias|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'LFCSP-16-1EP_4x4mm_P0.65mm_EP2.4x2.4mm_ThermalVias'</td><td> 'description'</td></tr><tr><td> 'LFCSP</td><td> 16 Pin (https</td></tr><tr><td>//www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/lfcspcp/cp-16/cp-16-40.pdf)</td><td> generated with kicad-footprint-generator ipc_noLead_generator.py'</td><td> 'tags'</td></tr><tr><td> 'LFCSP NoLead'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_CSP.3dshapes/LFCSP-16-1EP_4x4mm_P0.65mm_EP2.4x2.4mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||

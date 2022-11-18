@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-power-+12L
 - Hex ID: SZKPOWER+12L
 - Name: power : +12L
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/power/+12L/
 - Description: power : +12L
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-power-+12L](http://oom.lt/SYMBOL-kicad-kicad-symbols-power-+12L)
 - Short Link: [http://oom.lt/SZKPOWER+12L](http://oom.lt/SZKPOWER+12L)

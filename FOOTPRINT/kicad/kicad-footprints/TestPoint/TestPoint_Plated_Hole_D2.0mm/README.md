@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKTPTPPLATEDHOLED2 > TestPoint : TestPoint_Plated_Hole_D2.0mm](#fzktptpplatedholed2--testpoint--testpoint_plated_hole_d20mm)
+* [FZKTPTPPLATEDHD2 > TestPoint : TestPoint_Plated_Hole_D2.0mm](#fzktptpplatedhd2--testpoint--testpoint_plated_hole_d20mm)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKTPTPPLATEDHOLED2 > TestPoint : TestPoint_Plated_Hole_D2.0mm
+# FZKTPTPPLATEDHD2 > TestPoint : TestPoint_Plated_Hole_D2.0mm
 
 - ID: FOOTPRINT-kicad-kicad-footprints-TestPoint-TestPoint_Plated_Hole_D2.0mm
-- Hex ID: FZKTPTPPLATEDHOLED2
+- Hex ID: FZKTPTPPLATEDHD2
 - Name: TestPoint : TestPoint_Plated_Hole_D2.0mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/TestPoint/TestPoint_Plated_Hole_D2.0mm/
 - Description: TestPoint : TestPoint_Plated_Hole_D2.0mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-TestPoint-TestPoint_Plated_Hole_D2.0mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-TestPoint-TestPoint_Plated_Hole_D2.0mm)
-- Short Link: [http://oom.lt/FZKTPTPPLATEDHOLED2](http://oom.lt/FZKTPTPPLATEDHOLED2)
+- Short Link: [http://oom.lt/FZKTPTPPLATEDHD2](http://oom.lt/FZKTPTPPLATEDHD2)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|TestPoint|
 |OOMP Index|oompIndex|TestPoint_Plated_Hole_D2.0mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-TestPoint-TestPoint_Plated_Hole_D2.0mm|
-|Hex ID (short code)|hexID|FZKTPTPPLATEDHOLED2|
+|Hex ID (short code)|hexID|FZKTPTPPLATEDHD2|
 |name|name|TestPoint : TestPoint_Plated_Hole_D2.0mm|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'TestPoint_Plated_Hole_D2.0mm'</td><td> 'description'</td></tr><tr><td> 'Plated Hole as test Point</td><td> diameter 2.0mm'</td><td> 'tags'</td></tr><tr><td> 'test point plated hole'</td><td> 'attributeType'</td></tr><tr><td> None</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||

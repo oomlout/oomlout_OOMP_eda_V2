@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKSOTTO2635TABPIN6 > Package_TO_SOT_SMD : TO-263-5_TabPin6](#fzksotto2635tabpin6--package_to_sot_smd--to-263-5_tabpin6)
+* [FZKSOTTO2635TABP6 > Package_TO_SOT_SMD : TO-263-5_TabPin6](#fzksotto2635tabp6--package_to_sot_smd--to-263-5_tabpin6)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKSOTTO2635TABPIN6 > Package_TO_SOT_SMD : TO-263-5_TabPin6
+# FZKSOTTO2635TABP6 > Package_TO_SOT_SMD : TO-263-5_TabPin6
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-TO-263-5_TabPin6
-- Hex ID: FZKSOTTO2635TABPIN6
+- Hex ID: FZKSOTTO2635TABP6
 - Name: Package_TO_SOT_SMD : TO-263-5_TabPin6
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/TO-263-5_TabPin6/
 - Description: Package_TO_SOT_SMD : TO-263-5_TabPin6
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-TO-263-5_TabPin6](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-TO-263-5_TabPin6)
-- Short Link: [http://oom.lt/FZKSOTTO2635TABPIN6](http://oom.lt/FZKSOTTO2635TABPIN6)
+- Short Link: [http://oom.lt/FZKSOTTO2635TABP6](http://oom.lt/FZKSOTTO2635TABP6)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Package_TO_SOT_SMD|
 |OOMP Index|oompIndex|TO-263-5_TabPin6|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-TO-263-5_TabPin6|
-|Hex ID (short code)|hexID|FZKSOTTO2635TABPIN6|
+|Hex ID (short code)|hexID|FZKSOTTO2635TABP6|
 |name|name|Package_TO_SOT_SMD : TO-263-5_TabPin6|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'TO-263-5_TabPin6'</td><td> 'description'</td></tr><tr><td> 'TO-263 / D2PAK / DDPAK SMD package</td><td> http</td></tr><tr><td>//www.infineon.com/cms/en/product/packages/PG-TO263/PG-TO263-5-1/'</td><td> 'tags'</td></tr><tr><td> 'D2PAK DDPAK TO-263 D2PAK-5 TO-263-5 SOT-426'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_TO_SOT_SMD.3dshapes/TO-263-5_TabPin6.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

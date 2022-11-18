@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Bluetooth_Module_RN42-I_RM
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSBLUETOOTHMORN42IRM
 - Name: digikey-footprints : Bluetooth_Module_RN42-I_RM
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Bluetooth_Module_RN42-I_RM/
 - Description: digikey-footprints : Bluetooth_Module_RN42-I_RM
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Bluetooth_Module_RN42-I_RM](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Bluetooth_Module_RN42-I_RM)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSBLUETOOTHMORN42IRM](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSBLUETOOTHMORN42IRM)

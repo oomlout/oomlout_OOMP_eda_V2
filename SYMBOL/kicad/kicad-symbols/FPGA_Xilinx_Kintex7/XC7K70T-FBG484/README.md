@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-FPGA_Xilinx_Kintex7-XC7K70T-FBG484
 - Hex ID: SZKFPGAXILINXKINTEX7XC7K7TFBG484
 - Name: FPGA_Xilinx_Kintex7 : XC7K70T-FBG484
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/FPGA_Xilinx_Kintex7/XC7K70T-FBG484/
 - Description: FPGA_Xilinx_Kintex7 : XC7K70T-FBG484
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-FPGA_Xilinx_Kintex7-XC7K70T-FBG484](http://oom.lt/SYMBOL-kicad-kicad-symbols-FPGA_Xilinx_Kintex7-XC7K70T-FBG484)
 - Short Link: [http://oom.lt/SZKFPGAXILINXKINTEX7XC7K7TFBG484](http://oom.lt/SZKFPGAXILINXKINTEX7XC7K7TFBG484)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-BYV79-100
 - Hex ID: SZKDIODEBYV791
 - Name: Diode : BYV79-100
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/BYV79-100/
 - Description: Diode : BYV79-100
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-BYV79-100](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-BYV79-100)
 - Short Link: [http://oom.lt/SZKDIODEBYV791](http://oom.lt/SZKDIODEBYV791)

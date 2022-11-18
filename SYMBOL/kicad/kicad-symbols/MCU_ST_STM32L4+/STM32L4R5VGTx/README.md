@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_ST_STM32L4+-STM32L4R5VGTx
 - Hex ID: SZKMCUSTSTM32L4+STM32L4R5VGTX
 - Name: MCU_ST_STM32L4+ : STM32L4R5VGTx
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32L4+/STM32L4R5VGTx/
 - Description: MCU_ST_STM32L4+ : STM32L4R5VGTx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32L4+-STM32L4R5VGTx](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32L4+-STM32L4R5VGTx)
 - Short Link: [http://oom.lt/SZKMCUSTSTM32L4+STM32L4R5VGTX](http://oom.lt/SZKMCUSTSTM32L4+STM32L4R5VGTX)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-smd-ipc-CQFP-84
 - Hex ID: FZESMIPCCQFP84
 - Name: smd-ipc : CQFP-84
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/smd-ipc/CQFP-84/
 - Description: smd-ipc : CQFP-84
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-CQFP-84](http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-CQFP-84)
 - Short Link: [http://oom.lt/FZESMIPCCQFP84](http://oom.lt/FZESMIPCCQFP84)

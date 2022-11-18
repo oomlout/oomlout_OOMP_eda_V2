@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Device-R_Network11_US
 - Hex ID: SZKDEVICERNETWORK11US
 - Name: Device : R_Network11_US
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/R_Network11_US/
 - Description: Device : R_Network11_US
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-R_Network11_US](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-R_Network11_US)
 - Short Link: [http://oom.lt/SZKDEVICERNETWORK11US](http://oom.lt/SZKDEVICERNETWORK11US)

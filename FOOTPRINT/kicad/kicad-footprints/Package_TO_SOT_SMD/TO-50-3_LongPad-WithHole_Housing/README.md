@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKSOTTO53LONGPADWITHHOLEHOUSING > Package_TO_SOT_SMD : TO-50-3_LongPad-WithHole_Housing](#fzksotto53longpadwithholehousing--package_to_sot_smd--to-50-3_longpad-withhole_housing)
+* [FZKSOTTO53LPWITHHHOUSING > Package_TO_SOT_SMD : TO-50-3_LongPad-WithHole_Housing](#fzksotto53lpwithhhousing--package_to_sot_smd--to-50-3_longpad-withhole_housing)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKSOTTO53LONGPADWITHHOLEHOUSING > Package_TO_SOT_SMD : TO-50-3_LongPad-WithHole_Housing
+# FZKSOTTO53LPWITHHHOUSING > Package_TO_SOT_SMD : TO-50-3_LongPad-WithHole_Housing
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-TO-50-3_LongPad-WithHole_Housing
-- Hex ID: FZKSOTTO53LONGPADWITHHOLEHOUSING
+- Hex ID: FZKSOTTO53LPWITHHHOUSING
 - Name: Package_TO_SOT_SMD : TO-50-3_LongPad-WithHole_Housing
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/TO-50-3_LongPad-WithHole_Housing/
 - Description: Package_TO_SOT_SMD : TO-50-3_LongPad-WithHole_Housing
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-TO-50-3_LongPad-WithHole_Housing](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-TO-50-3_LongPad-WithHole_Housing)
-- Short Link: [http://oom.lt/FZKSOTTO53LONGPADWITHHOLEHOUSING](http://oom.lt/FZKSOTTO53LONGPADWITHHOLEHOUSING)
+- Short Link: [http://oom.lt/FZKSOTTO53LPWITHHHOUSING](http://oom.lt/FZKSOTTO53LPWITHHHOUSING)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Package_TO_SOT_SMD|
 |OOMP Index|oompIndex|TO-50-3_LongPad-WithHole_Housing|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-TO-50-3_LongPad-WithHole_Housing|
-|Hex ID (short code)|hexID|FZKSOTTO53LONGPADWITHHOLEHOUSING|
+|Hex ID (short code)|hexID|FZKSOTTO53LPWITHHHOUSING|
 |name|name|Package_TO_SOT_SMD : TO-50-3_LongPad-WithHole_Housing|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'TO-50-3_LongPad-WithHole_Housing'</td><td> 'description'</td></tr><tr><td> 'TO-50-3 Macro T Package Style M236'</td><td> 'tags'</td></tr><tr><td> 'TO-50-3 Macro T Package Style M236'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_TO_SOT_SMD.3dshapes/TO-50-3_LongPad-WithHole_Housing.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'np_thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||

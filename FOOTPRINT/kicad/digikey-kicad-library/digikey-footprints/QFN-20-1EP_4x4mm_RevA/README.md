@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-QFN-20-1EP_4x4mm_RevA
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSQFN21EP4X4REVA
 - Name: digikey-footprints : QFN-20-1EP_4x4mm_RevA
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/QFN-20-1EP_4x4mm_RevA/
 - Description: digikey-footprints : QFN-20-1EP_4x4mm_RevA
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-QFN-20-1EP_4x4mm_RevA](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-QFN-20-1EP_4x4mm_RevA)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSQFN21EP4X4REVA](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSQFN21EP4X4REVA)

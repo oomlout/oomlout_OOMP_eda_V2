@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEINDUCTORSETD29LN2 > inductors : ETD29LN2](#fzeinductorsetd29ln2--inductors--etd29ln2)
+* [FZEINSETD29LN2 > inductors : ETD29LN2](#fzeinsetd29ln2--inductors--etd29ln2)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEINDUCTORSETD29LN2 > inductors : ETD29LN2
+# FZEINSETD29LN2 > inductors : ETD29LN2
 
 - ID: FOOTPRINT-eagle-eagle-default-inductors-ETD29LN2
-- Hex ID: FZEINDUCTORSETD29LN2
+- Hex ID: FZEINSETD29LN2
 - Name: inductors : ETD29LN2
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/inductors/ETD29LN2/
 - Description: inductors : ETD29LN2
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-inductors-ETD29LN2](http://oom.lt/FOOTPRINT-eagle-eagle-default-inductors-ETD29LN2)
-- Short Link: [http://oom.lt/FZEINDUCTORSETD29LN2](http://oom.lt/FZEINDUCTORSETD29LN2)
+- Short Link: [http://oom.lt/FZEINSETD29LN2](http://oom.lt/FZEINSETD29LN2)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|inductors|
 |OOMP Index|oompIndex|ETD29LN2|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-inductors-ETD29LN2|
-|Hex ID (short code)|hexID|FZEINDUCTORSETD29LN2|
+|Hex ID (short code)|hexID|FZEINSETD29LN2|
 |name|name|inductors : ETD29LN2|
 ||||

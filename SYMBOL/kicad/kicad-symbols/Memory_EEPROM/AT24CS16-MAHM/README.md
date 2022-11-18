@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Memory_EEPROM-AT24CS16-MAHM
 - Hex ID: SZKMEMORYEEPROMAT24CS16MAHM
 - Name: Memory_EEPROM : AT24CS16-MAHM
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Memory_EEPROM/AT24CS16-MAHM/
 - Description: Memory_EEPROM : AT24CS16-MAHM
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_EEPROM-AT24CS16-MAHM](http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_EEPROM-AT24CS16-MAHM)
 - Short Link: [http://oom.lt/SZKMEMORYEEPROMAT24CS16MAHM](http://oom.lt/SZKMEMORYEEPROMAT24CS16MAHM)

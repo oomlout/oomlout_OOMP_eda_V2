@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-atmel-MLF32-TH
 - Hex ID: FZEATMELMLF32TH
 - Name: atmel : MLF32-TH
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/atmel/MLF32-TH/
 - Description: atmel : MLF32-TH
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-atmel-MLF32-TH](http://oom.lt/FOOTPRINT-eagle-eagle-default-atmel-MLF32-TH)
 - Short Link: [http://oom.lt/FZEATMELMLF32TH](http://oom.lt/FZEATMELMLF32TH)

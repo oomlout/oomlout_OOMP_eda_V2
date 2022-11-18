@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-stocko-MKS1870-6-0-2020
 - Hex ID: FZECONSTOCKOMKS187622
 - Name: con-stocko : MKS1870-6-0-2020
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-stocko/MKS1870-6-0-2020/
 - Description: con-stocko : MKS1870-6-0-2020
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-stocko-MKS1870-6-0-2020](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-stocko-MKS1870-6-0-2020)
 - Short Link: [http://oom.lt/FZECONSTOCKOMKS187622](http://oom.lt/FZECONSTOCKOMKS187622)

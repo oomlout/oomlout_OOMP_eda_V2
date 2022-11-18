@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Analog_Switch-CD4053B
 - Hex ID: SZKANALOGSWCD453B
 - Name: Analog_Switch : CD4053B
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog_Switch/CD4053B/
 - Description: Analog_Switch : CD4053B
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_Switch-CD4053B](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_Switch-CD4053B)
 - Short Link: [http://oom.lt/SZKANALOGSWCD453B](http://oom.lt/SZKANALOGSWCD453B)

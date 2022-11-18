@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny45V-10P
 - Hex ID: SZKMCUMCHIPATTINYATTINY45V1P
 - Name: MCU_Microchip_ATtiny : ATtiny45V-10P
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_ATtiny/ATtiny45V-10P/
 - Description: MCU_Microchip_ATtiny : ATtiny45V-10P
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny45V-10P](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny45V-10P)
 - Short Link: [http://oom.lt/SZKMCUMCHIPATTINYATTINY45V1P](http://oom.lt/SZKMCUMCHIPATTINYATTINY45V1P)

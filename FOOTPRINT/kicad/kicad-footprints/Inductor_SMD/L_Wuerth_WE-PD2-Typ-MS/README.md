@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Wuerth_WE-PD2-Typ-MS
 - Hex ID: FZKINLWUERTHWEPD2TYPMS
 - Name: Inductor_SMD : L_Wuerth_WE-PD2-Typ-MS
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Wuerth_WE-PD2-Typ-MS/
 - Description: Inductor_SMD : L_Wuerth_WE-PD2-Typ-MS
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Wuerth_WE-PD2-Typ-MS](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Wuerth_WE-PD2-Typ-MS)
 - Short Link: [http://oom.lt/FZKINLWUERTHWEPD2TYPMS](http://oom.lt/FZKINLWUERTHWEPD2TYPMS)

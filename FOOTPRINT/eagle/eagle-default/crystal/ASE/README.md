@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-crystal-ASE
 - Hex ID: FZEXASE
 - Name: crystal : ASE
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/crystal/ASE/
 - Description: crystal : ASE
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-crystal-ASE](http://oom.lt/FOOTPRINT-eagle-eagle-default-crystal-ASE)
 - Short Link: [http://oom.lt/FZEXASE](http://oom.lt/FZEXASE)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-OptoDevice-Osram_SFH205
 - Hex ID: FZKOPOSRAMSFH25
 - Name: OptoDevice : Osram_SFH205
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/OptoDevice/Osram_SFH205/
 - Description: OptoDevice : Osram_SFH205
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-OptoDevice-Osram_SFH205](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-OptoDevice-Osram_SFH205)
 - Short Link: [http://oom.lt/FZKOPOSRAMSFH25](http://oom.lt/FZKOPOSRAMSFH25)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-JST-3-PTH-VERT
 - Hex ID: FZSSPARKFUNCNSJST3PVERT
 - Name: SparkFun-Connectors : JST-3-PTH-VERT
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Connectors/JST-3-PTH-VERT/
 - Description: SparkFun-Connectors : JST-3-PTH-VERT
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-JST-3-PTH-VERT](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-JST-3-PTH-VERT)
 - Short Link: [http://oom.lt/FZSSPARKFUNCNSJST3PVERT](http://oom.lt/FZSSPARKFUNCNSJST3PVERT)

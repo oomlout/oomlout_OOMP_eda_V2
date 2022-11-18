@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-switch-M251
 - Hex ID: FZESWM251
 - Name: switch : M251
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/switch/M251/
 - Description: switch : M251
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-M251](http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-M251)
 - Short Link: [http://oom.lt/FZESWM251](http://oom.lt/FZESWM251)

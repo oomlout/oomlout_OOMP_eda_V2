@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-C3D02060F
 - Hex ID: SZKDIODEC3D26F
 - Name: Diode : C3D02060F
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/C3D02060F/
 - Description: Diode : C3D02060F
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-C3D02060F](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-C3D02060F)
 - Short Link: [http://oom.lt/SZKDIODEC3D26F](http://oom.lt/SZKDIODEC3D26F)

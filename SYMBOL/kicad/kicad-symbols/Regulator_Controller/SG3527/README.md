@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Controller-SG3527
 - Hex ID: SZKREGULATORCONTROLLERSG3527
 - Name: Regulator_Controller : SG3527
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Controller/SG3527/
 - Description: Regulator_Controller : SG3527
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Controller-SG3527](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Controller-SG3527)
 - Short Link: [http://oom.lt/SZKREGULATORCONTROLLERSG3527](http://oom.lt/SZKREGULATORCONTROLLERSG3527)

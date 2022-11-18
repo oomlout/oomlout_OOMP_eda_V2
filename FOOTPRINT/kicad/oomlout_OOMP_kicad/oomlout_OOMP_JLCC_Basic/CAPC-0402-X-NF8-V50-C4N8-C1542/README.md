@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0402-X-NF8-V50-C4N8-C1542
 - Hex ID: FZOOMPKJLCCAPC42XNF8V5C4N8C1542
 - Name: oomlout_OOMP_JLCC_Basic : CAPC-0402-X-NF8-V50-C4N8-C1542
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_JLCC_Basic/CAPC-0402-X-NF8-V50-C4N8-C1542/
 - Description: oomlout_OOMP_JLCC_Basic : CAPC-0402-X-NF8-V50-C4N8-C1542
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0402-X-NF8-V50-C4N8-C1542](http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0402-X-NF8-V50-C4N8-C1542)
 - Short Link: [http://oom.lt/FZOOMPKJLCCAPC42XNF8V5C4N8C1542](http://oom.lt/FZOOMPKJLCCAPC42XNF8V5C4N8C1542)

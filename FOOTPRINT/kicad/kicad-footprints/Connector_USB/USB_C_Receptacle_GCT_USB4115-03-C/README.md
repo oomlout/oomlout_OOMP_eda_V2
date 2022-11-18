@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_C_Receptacle_GCT_USB4115-03-C
 - Hex ID: FZKCNUUCRECEPTACLEGCTU41153C
 - Name: Connector_USB : USB_C_Receptacle_GCT_USB4115-03-C
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB_C_Receptacle_GCT_USB4115-03-C/
 - Description: Connector_USB : USB_C_Receptacle_GCT_USB4115-03-C
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_C_Receptacle_GCT_USB4115-03-C](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_C_Receptacle_GCT_USB4115-03-C)
 - Short Link: [http://oom.lt/FZKCNUUCRECEPTACLEGCTU41153C](http://oom.lt/FZKCNUUCRECEPTACLEGCTU41153C)

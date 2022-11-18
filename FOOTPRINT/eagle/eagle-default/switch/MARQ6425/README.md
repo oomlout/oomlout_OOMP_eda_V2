@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-switch-MARQ6425
 - Hex ID: FZESWMARQ6425
 - Name: switch : MARQ6425
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/switch/MARQ6425/
 - Description: switch : MARQ6425
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-MARQ6425](http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-MARQ6425)
 - Short Link: [http://oom.lt/FZESWMARQ6425](http://oom.lt/FZESWMARQ6425)

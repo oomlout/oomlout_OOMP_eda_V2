@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Device-Filter_EMI_CLC
 - Hex ID: SZKDEVICEFILEMICLC
 - Name: Device : Filter_EMI_CLC
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/Filter_EMI_CLC/
 - Description: Device : Filter_EMI_CLC
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Filter_EMI_CLC](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Filter_EMI_CLC)
 - Short Link: [http://oom.lt/SZKDEVICEFILEMICLC](http://oom.lt/SZKDEVICEFILEMICLC)

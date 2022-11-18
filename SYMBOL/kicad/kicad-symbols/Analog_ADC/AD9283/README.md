@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Analog_ADC-AD9283
 - Hex ID: SZKANALOGADCAD9283
 - Name: Analog_ADC : AD9283
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog_ADC/AD9283/
 - Description: Analog_ADC : AD9283
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-AD9283](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-AD9283)
 - Short Link: [http://oom.lt/SZKANALOGADCAD9283](http://oom.lt/SZKANALOGADCAD9283)

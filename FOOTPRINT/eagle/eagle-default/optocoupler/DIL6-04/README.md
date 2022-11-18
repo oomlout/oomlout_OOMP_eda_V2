@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-optocoupler-DIL6-04
 - Hex ID: FZEOPTOCOUPLERDIL64
 - Name: optocoupler : DIL6-04
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/optocoupler/DIL6-04/
 - Description: optocoupler : DIL6-04
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-optocoupler-DIL6-04](http://oom.lt/FOOTPRINT-eagle-eagle-default-optocoupler-DIL6-04)
 - Short Link: [http://oom.lt/FZEOPTOCOUPLERDIL64](http://oom.lt/FZEOPTOCOUPLERDIL64)

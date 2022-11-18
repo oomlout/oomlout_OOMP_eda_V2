@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_JAE-JAE_LY20-14P-DLT1_2x07_P2.00mm_Horizontal
 - Hex ID: FZKCNJAEJAELY214PDLT12X7P2H
 - Name: Connector_JAE : JAE_LY20-14P-DLT1_2x07_P2.00mm_Horizontal
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_JAE/JAE_LY20-14P-DLT1_2x07_P2.00mm_Horizontal/
 - Description: Connector_JAE : JAE_LY20-14P-DLT1_2x07_P2.00mm_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_JAE-JAE_LY20-14P-DLT1_2x07_P2.00mm_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_JAE-JAE_LY20-14P-DLT1_2x07_P2.00mm_Horizontal)
 - Short Link: [http://oom.lt/FZKCNJAEJAELY214PDLT12X7P2H](http://oom.lt/FZKCNJAEJAELY214PDLT12X7P2H)

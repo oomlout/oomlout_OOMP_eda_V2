@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-transistor-SOT37
 - Hex ID: FZETRANSISTORSOT37
 - Name: transistor : SOT37
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/transistor/SOT37/
 - Description: transistor : SOT37
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-SOT37](http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-SOT37)
 - Short Link: [http://oom.lt/FZETRANSISTORSOT37](http://oom.lt/FZETRANSISTORSOT37)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Analog_DAC-AD7225BRS
 - Hex ID: SZKANALOGDACAD7225BRS
 - Name: Analog_DAC : AD7225BRS
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog_DAC/AD7225BRS/
 - Description: Analog_DAC : AD7225BRS
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_DAC-AD7225BRS](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_DAC-AD7225BRS)
 - Short Link: [http://oom.lt/SZKANALOGDACAD7225BRS](http://oom.lt/SZKANALOGDACAD7225BRS)

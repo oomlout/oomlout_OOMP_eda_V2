@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Connector-Bus_M.2_Socket_A
 - Hex ID: SZKCNBUSM2SOA
 - Name: Connector : Bus_M.2_Socket_A
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector/Bus_M.2_Socket_A/
 - Description: Connector : Bus_M.2_Socket_A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-Bus_M.2_Socket_A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-Bus_M.2_Socket_A)
 - Short Link: [http://oom.lt/SZKCNBUSM2SOA](http://oom.lt/SZKCNBUSM2SOA)

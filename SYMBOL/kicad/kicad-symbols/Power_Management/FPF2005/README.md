@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Power_Management-FPF2005
 - Hex ID: SZKPOWERMANAGEMENTFPF25
 - Name: Power_Management : FPF2005
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Power_Management/FPF2005/
 - Description: Power_Management : FPF2005
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-FPF2005](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-FPF2005)
 - Short Link: [http://oom.lt/SZKPOWERMANAGEMENTFPF25](http://oom.lt/SZKPOWERMANAGEMENTFPF25)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-FPGA_Xilinx-XC3S1400A-FG484
 - Hex ID: SZKFPGAXILINXXC3S14AFG484
 - Name: FPGA_Xilinx : XC3S1400A-FG484
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/FPGA_Xilinx/XC3S1400A-FG484/
 - Description: FPGA_Xilinx : XC3S1400A-FG484
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-FPGA_Xilinx-XC3S1400A-FG484](http://oom.lt/SYMBOL-kicad-kicad-symbols-FPGA_Xilinx-XC3S1400A-FG484)
 - Short Link: [http://oom.lt/SZKFPGAXILINXXC3S14AFG484](http://oom.lt/SZKFPGAXILINXXC3S14AFG484)

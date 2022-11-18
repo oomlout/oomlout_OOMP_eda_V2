@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-XTAL3215
 - Hex ID: FZAXTAL3215
 - Name: adafruit : XTAL3215
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/XTAL3215/
 - Description: adafruit : XTAL3215
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-XTAL3215](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-XTAL3215)
 - Short Link: [http://oom.lt/FZAXTAL3215](http://oom.lt/FZAXTAL3215)

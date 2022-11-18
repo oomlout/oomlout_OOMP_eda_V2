@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Audio-DSD1794A
 - Hex ID: SZKAUDIODSD1794A
 - Name: Audio : DSD1794A
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Audio/DSD1794A/
 - Description: Audio : DSD1794A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Audio-DSD1794A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Audio-DSD1794A)
 - Short Link: [http://oom.lt/SZKAUDIODSD1794A](http://oom.lt/SZKAUDIODSD1794A)

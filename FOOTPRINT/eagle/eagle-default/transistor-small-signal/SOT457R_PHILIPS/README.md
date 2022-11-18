@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-transistor-small-signal-SOT457R_PHILIPS
 - Hex ID: FZETRANSISTORSLLSIGNALSOT457RPHILIPS
 - Name: transistor-small-signal : SOT457R_PHILIPS
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/transistor-small-signal/SOT457R_PHILIPS/
 - Description: transistor-small-signal : SOT457R_PHILIPS
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-small-signal-SOT457R_PHILIPS](http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-small-signal-SOT457R_PHILIPS)
 - Short Link: [http://oom.lt/FZETRANSISTORSLLSIGNALSOT457RPHILIPS](http://oom.lt/FZETRANSISTORSLLSIGNALSOT457RPHILIPS)

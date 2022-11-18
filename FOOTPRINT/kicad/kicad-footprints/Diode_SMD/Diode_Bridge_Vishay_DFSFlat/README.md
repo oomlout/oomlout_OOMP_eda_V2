@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Diode_SMD-Diode_Bridge_Vishay_DFSFlat
 - Hex ID: FZKDDIODEBRIDGEVISHAYDFSFLAT
 - Name: Diode_SMD : Diode_Bridge_Vishay_DFSFlat
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Diode_SMD/Diode_Bridge_Vishay_DFSFlat/
 - Description: Diode_SMD : Diode_Bridge_Vishay_DFSFlat
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Diode_SMD-Diode_Bridge_Vishay_DFSFlat](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Diode_SMD-Diode_Bridge_Vishay_DFSFlat)
 - Short Link: [http://oom.lt/FZKDDIODEBRIDGEVISHAYDFSFLAT](http://oom.lt/FZKDDIODEBRIDGEVISHAYDFSFLAT)

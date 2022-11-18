@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-GL2576-ATB5T
 - Hex ID: SZKREGULATORSWINGGL2576ATB5T
 - Name: Regulator_Switching : GL2576-ATB5T
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/GL2576-ATB5T/
 - Description: Regulator_Switching : GL2576-ATB5T
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-GL2576-ATB5T](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-GL2576-ATB5T)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGGL2576ATB5T](http://oom.lt/SZKREGULATORSWINGGL2576ATB5T)

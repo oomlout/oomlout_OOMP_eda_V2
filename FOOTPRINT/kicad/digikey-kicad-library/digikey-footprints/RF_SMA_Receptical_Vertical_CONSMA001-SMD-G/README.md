@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-RF_SMA_Receptical_Vertical_CONSMA001-SMD-G
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSRFSRECEPTICALFCONS1SMG
 - Name: digikey-footprints : RF_SMA_Receptical_Vertical_CONSMA001-SMD-G
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/RF_SMA_Receptical_Vertical_CONSMA001-SMD-G/
 - Description: digikey-footprints : RF_SMA_Receptical_Vertical_CONSMA001-SMD-G
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-RF_SMA_Receptical_Vertical_CONSMA001-SMD-G](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-RF_SMA_Receptical_Vertical_CONSMA001-SMD-G)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSRFSRECEPTICALFCONS1SMG](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSRFSRECEPTICALFCONS1SMG)

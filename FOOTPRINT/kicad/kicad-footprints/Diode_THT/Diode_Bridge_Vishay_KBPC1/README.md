@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Diode_THT-Diode_Bridge_Vishay_KBPC1
 - Hex ID: FZKDDIODEBRIDGEVISHAYKBPC1
 - Name: Diode_THT : Diode_Bridge_Vishay_KBPC1
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Diode_THT/Diode_Bridge_Vishay_KBPC1/
 - Description: Diode_THT : Diode_Bridge_Vishay_KBPC1
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Diode_THT-Diode_Bridge_Vishay_KBPC1](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Diode_THT-Diode_Bridge_Vishay_KBPC1)
 - Short Link: [http://oom.lt/FZKDDIODEBRIDGEVISHAYKBPC1](http://oom.lt/FZKDDIODEBRIDGEVISHAYKBPC1)

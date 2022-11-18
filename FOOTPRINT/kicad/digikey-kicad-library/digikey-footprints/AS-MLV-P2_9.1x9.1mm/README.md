@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-AS-MLV-P2_9.1x9.1mm
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSASMLVP291X91
 - Name: digikey-footprints : AS-MLV-P2_9.1x9.1mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/AS-MLV-P2_9.1x9.1mm/
 - Description: digikey-footprints : AS-MLV-P2_9.1x9.1mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-AS-MLV-P2_9.1x9.1mm](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-AS-MLV-P2_9.1x9.1mm)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSASMLVP291X91](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSASMLVP291X91)

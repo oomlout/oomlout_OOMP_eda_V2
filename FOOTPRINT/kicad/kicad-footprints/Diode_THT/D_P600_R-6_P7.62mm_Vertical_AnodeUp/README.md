@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Diode_THT-D_P600_R-6_P7.62mm_Vertical_AnodeUp
 - Hex ID: FZKDDP6R6P762FANODEUP
 - Name: Diode_THT : D_P600_R-6_P7.62mm_Vertical_AnodeUp
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Diode_THT/D_P600_R-6_P7.62mm_Vertical_AnodeUp/
 - Description: Diode_THT : D_P600_R-6_P7.62mm_Vertical_AnodeUp
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Diode_THT-D_P600_R-6_P7.62mm_Vertical_AnodeUp](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Diode_THT-D_P600_R-6_P7.62mm_Vertical_AnodeUp)
 - Short Link: [http://oom.lt/FZKDDP6R6P762FANODEUP](http://oom.lt/FZKDDP6R6P762FANODEUP)

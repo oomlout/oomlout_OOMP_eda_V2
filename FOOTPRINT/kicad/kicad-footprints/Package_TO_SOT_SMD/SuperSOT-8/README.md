@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SuperSOT-8
 - Hex ID: FZKSOTSUPERSOT8
 - Name: Package_TO_SOT_SMD : SuperSOT-8
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/SuperSOT-8/
 - Description: Package_TO_SOT_SMD : SuperSOT-8
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SuperSOT-8](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SuperSOT-8)
 - Short Link: [http://oom.lt/FZKSOTSUPERSOT8](http://oom.lt/FZKSOTSUPERSOT8)

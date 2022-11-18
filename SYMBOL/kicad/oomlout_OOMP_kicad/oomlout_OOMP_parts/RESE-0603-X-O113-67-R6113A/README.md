@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O113-67-R6113A
 - Hex ID: SZOOMPKOOMPPRESE63XO11367R6113A
 - Name: oomlout_OOMP_parts : RESE-0603-X-O113-67-R6113A
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/RESE-0603-X-O113-67-R6113A/
 - Description: oomlout_OOMP_parts : RESE-0603-X-O113-67-R6113A
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O113-67-R6113A](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O113-67-R6113A)
 - Short Link: [http://oom.lt/SZOOMPKOOMPPRESE63XO11367R6113A](http://oom.lt/SZOOMPKOOMPPRESE63XO11367R6113A)

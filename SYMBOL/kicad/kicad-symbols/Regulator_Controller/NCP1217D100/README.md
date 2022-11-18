@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Controller-NCP1217D100
 - Hex ID: SZKREGULATORCONTROLLERNCP1217D1
 - Name: Regulator_Controller : NCP1217D100
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Controller/NCP1217D100/
 - Description: Regulator_Controller : NCP1217D100
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Controller-NCP1217D100](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Controller-NCP1217D100)
 - Short Link: [http://oom.lt/SZKREGULATORCONTROLLERNCP1217D1](http://oom.lt/SZKREGULATORCONTROLLERNCP1217D1)

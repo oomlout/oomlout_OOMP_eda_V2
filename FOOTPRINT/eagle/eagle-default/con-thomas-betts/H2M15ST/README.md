@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-thomas-betts-H2M15ST
 - Hex ID: FZECONTHOMASBETTSH2M15ST
 - Name: con-thomas-betts : H2M15ST
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-thomas-betts/H2M15ST/
 - Description: con-thomas-betts : H2M15ST
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-thomas-betts-H2M15ST](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-thomas-betts-H2M15ST)
 - Short Link: [http://oom.lt/FZECONTHOMASBETTSH2M15ST](http://oom.lt/FZECONTHOMASBETTSH2M15ST)

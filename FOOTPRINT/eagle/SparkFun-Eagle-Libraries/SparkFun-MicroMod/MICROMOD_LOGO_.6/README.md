@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-MicroMod-MICROMOD_LOGO_.6
 - Hex ID: FZSMODL6
 - Name: SparkFun-MicroMod : MICROMOD_LOGO_.6
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-MicroMod/MICROMOD_LOGO_.6/
 - Description: SparkFun-MicroMod : MICROMOD_LOGO_.6
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-MicroMod-MICROMOD_LOGO_.6](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-MicroMod-MICROMOD_LOGO_.6)
 - Short Link: [http://oom.lt/FZSMODL6](http://oom.lt/FZSMODL6)

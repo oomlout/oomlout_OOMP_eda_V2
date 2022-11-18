@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F628-xxISO
 - Hex ID: SZKMCUMCHIPPIC16PIC16F628XXISO
 - Name: MCU_Microchip_PIC16 : PIC16F628-xxISO
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC16/PIC16F628-xxISO/
 - Description: MCU_Microchip_PIC16 : PIC16F628-xxISO
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F628-xxISO](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F628-xxISO)
 - Short Link: [http://oom.lt/SZKMCUMCHIPPIC16PIC16F628XXISO](http://oom.lt/SZKMCUMCHIPPIC16PIC16F628XXISO)

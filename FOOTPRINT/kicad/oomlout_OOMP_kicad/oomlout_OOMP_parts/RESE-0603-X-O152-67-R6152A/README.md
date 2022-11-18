@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O152-67-R6152A
 - Hex ID: FZOOMPKOOMPPRESE63XO15267R6152A
 - Name: oomlout_OOMP_parts : RESE-0603-X-O152-67-R6152A
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/RESE-0603-X-O152-67-R6152A/
 - Description: oomlout_OOMP_parts : RESE-0603-X-O152-67-R6152A
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O152-67-R6152A](http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O152-67-R6152A)
 - Short Link: [http://oom.lt/FZOOMPKOOMPPRESE63XO15267R6152A](http://oom.lt/FZOOMPKOOMPPRESE63XO15267R6152A)

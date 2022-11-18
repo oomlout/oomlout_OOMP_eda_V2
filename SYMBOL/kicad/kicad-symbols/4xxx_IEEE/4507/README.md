@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-4xxx_IEEE-4507
 - Hex ID: SZK4XXXIEEE457
 - Name: 4xxx_IEEE : 4507
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/4xxx_IEEE/4507/
 - Description: 4xxx_IEEE : 4507
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-4xxx_IEEE-4507](http://oom.lt/SYMBOL-kicad-kicad-symbols-4xxx_IEEE-4507)
 - Short Link: [http://oom.lt/SZK4XXXIEEE457](http://oom.lt/SZK4XXXIEEE457)

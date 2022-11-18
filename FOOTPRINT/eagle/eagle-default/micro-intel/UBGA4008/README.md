@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-micro-intel-UBGA4008
 - Hex ID: FZEMINTELUBGA48
 - Name: micro-intel : UBGA4008
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/micro-intel/UBGA4008/
 - Description: micro-intel : UBGA4008
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-intel-UBGA4008](http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-intel-UBGA4008)
 - Short Link: [http://oom.lt/FZEMINTELUBGA48](http://oom.lt/FZEMINTELUBGA48)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0402-X-O134-67-R42134A
 - Hex ID: FZOOMPKOOMPPRESE42XO13467R42134A
 - Name: oomlout_OOMP_parts : RESE-0402-X-O134-67-R42134A
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/RESE-0402-X-O134-67-R42134A/
 - Description: oomlout_OOMP_parts : RESE-0402-X-O134-67-R42134A
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0402-X-O134-67-R42134A](http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0402-X-O134-67-R42134A)
 - Short Link: [http://oom.lt/FZOOMPKOOMPPRESE42XO13467R42134A](http://oom.lt/FZOOMPKOOMPPRESE42XO13467R42134A)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-heatsink-SK12_25
 - Hex ID: FZEHSK1225
 - Name: heatsink : SK12_25
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/heatsink/SK12_25/
 - Description: heatsink : SK12_25
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-heatsink-SK12_25](http://oom.lt/FOOTPRINT-eagle-eagle-default-heatsink-SK12_25)
 - Short Link: [http://oom.lt/FZEHSK1225](http://oom.lt/FZEHSK1225)

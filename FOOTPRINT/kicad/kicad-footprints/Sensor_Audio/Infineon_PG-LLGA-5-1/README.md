@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Sensor_Audio-Infineon_PG-LLGA-5-1
 - Hex ID: FZKSENAUDIOINFINEONPGLLGA51
 - Name: Sensor_Audio : Infineon_PG-LLGA-5-1
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Sensor_Audio/Infineon_PG-LLGA-5-1/
 - Description: Sensor_Audio : Infineon_PG-LLGA-5-1
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Sensor_Audio-Infineon_PG-LLGA-5-1](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Sensor_Audio-Infineon_PG-LLGA-5-1)
 - Short Link: [http://oom.lt/FZKSENAUDIOINFINEONPGLLGA51](http://oom.lt/FZKSENAUDIOINFINEONPGLLGA51)

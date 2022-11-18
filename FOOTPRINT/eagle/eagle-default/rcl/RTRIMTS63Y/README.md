@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-rcl-RTRIMTS63Y
 - Hex ID: FZERCLRTRIMTS63Y
 - Name: rcl : RTRIMTS63Y
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/rcl/RTRIMTS63Y/
 - Description: rcl : RTRIMTS63Y
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-RTRIMTS63Y](http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-RTRIMTS63Y)
 - Short Link: [http://oom.lt/FZERCLRTRIMTS63Y](http://oom.lt/FZERCLRTRIMTS63Y)

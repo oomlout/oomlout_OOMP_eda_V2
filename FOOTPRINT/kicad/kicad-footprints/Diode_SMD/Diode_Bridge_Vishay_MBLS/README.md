@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Diode_SMD-Diode_Bridge_Vishay_MBLS
 - Hex ID: FZKDDIODEBRIDGEVISHAYMBLS
 - Name: Diode_SMD : Diode_Bridge_Vishay_MBLS
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Diode_SMD/Diode_Bridge_Vishay_MBLS/
 - Description: Diode_SMD : Diode_Bridge_Vishay_MBLS
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Diode_SMD-Diode_Bridge_Vishay_MBLS](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Diode_SMD-Diode_Bridge_Vishay_MBLS)
 - Short Link: [http://oom.lt/FZKDDIODEBRIDGEVISHAYMBLS](http://oom.lt/FZKDDIODEBRIDGEVISHAYMBLS)

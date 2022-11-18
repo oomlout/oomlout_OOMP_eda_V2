@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-transistor-neu-to92-TOP3
 - Hex ID: FZETRANSISTORNEUTO92TOP3
 - Name: transistor-neu-to92 : TOP3
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/transistor-neu-to92/TOP3/
 - Description: transistor-neu-to92 : TOP3
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-neu-to92-TOP3](http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-neu-to92-TOP3)
 - Short Link: [http://oom.lt/FZETRANSISTORNEUTO92TOP3](http://oom.lt/FZETRANSISTORNEUTO92TOP3)

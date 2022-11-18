@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_ST_STM32L1-STM32L152QCHx
 - Hex ID: SZKMCUSTSTM32L1STM32L152QCHX
 - Name: MCU_ST_STM32L1 : STM32L152QCHx
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32L1/STM32L152QCHx/
 - Description: MCU_ST_STM32L1 : STM32L152QCHx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32L1-STM32L152QCHx](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32L1-STM32L152QCHx)
 - Short Link: [http://oom.lt/SZKMCUSTSTM32L1STM32L152QCHX](http://oom.lt/SZKMCUSTSTM32L1STM32L152QCHX)

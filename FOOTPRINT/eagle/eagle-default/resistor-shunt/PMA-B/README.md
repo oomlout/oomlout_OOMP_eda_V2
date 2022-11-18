@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-resistor-shunt-PMA-B
 - Hex ID: FZERESISTORSHUNTPMAB
 - Name: resistor-shunt : PMA-B
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/resistor-shunt/PMA-B/
 - Description: resistor-shunt : PMA-B
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-resistor-shunt-PMA-B](http://oom.lt/FOOTPRINT-eagle-eagle-default-resistor-shunt-PMA-B)
 - Short Link: [http://oom.lt/FZERESISTORSHUNTPMAB](http://oom.lt/FZERESISTORSHUNTPMAB)

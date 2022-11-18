@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-LTC3525-5
 - Hex ID: SZKREGULATORSWINGLTC35255
 - Name: Regulator_Switching : LTC3525-5
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/LTC3525-5/
 - Description: Regulator_Switching : LTC3525-5
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LTC3525-5](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LTC3525-5)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGLTC35255](http://oom.lt/SZKREGULATORSWINGLTC35255)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Batteries-BATTCON_20MM_4LEGS_OVERPASTE
 - Hex ID: FZSBBC24LEGSOVERPASTE
 - Name: SparkFun-Batteries : BATTCON_20MM_4LEGS_OVERPASTE
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Batteries/BATTCON_20MM_4LEGS_OVERPASTE/
 - Description: SparkFun-Batteries : BATTCON_20MM_4LEGS_OVERPASTE
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Batteries-BATTCON_20MM_4LEGS_OVERPASTE](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Batteries-BATTCON_20MM_4LEGS_OVERPASTE)
 - Short Link: [http://oom.lt/FZSBBC24LEGSOVERPASTE](http://oom.lt/FZSBBC24LEGSOVERPASTE)

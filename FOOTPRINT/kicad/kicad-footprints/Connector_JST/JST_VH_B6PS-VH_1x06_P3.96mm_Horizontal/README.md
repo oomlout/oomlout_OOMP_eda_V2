@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_VH_B6PS-VH_1x06_P3.96mm_Horizontal
 - Hex ID: FZKCNJSTJSTVHB6PSVH1X6P396H
 - Name: Connector_JST : JST_VH_B6PS-VH_1x06_P3.96mm_Horizontal
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_VH_B6PS-VH_1x06_P3.96mm_Horizontal/
 - Description: Connector_JST : JST_VH_B6PS-VH_1x06_P3.96mm_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_VH_B6PS-VH_1x06_P3.96mm_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_VH_B6PS-VH_1x06_P3.96mm_Horizontal)
 - Short Link: [http://oom.lt/FZKCNJSTJSTVHB6PSVH1X6P396H](http://oom.lt/FZKCNJSTJSTVHB6PSVH1X6P396H)

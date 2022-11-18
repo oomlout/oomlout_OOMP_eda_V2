@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_SAMD-ATSAMD21E17D-M
 - Hex ID: SZKMCUMCHIPSAMDATSAMD21E17DM
 - Name: MCU_Microchip_SAMD : ATSAMD21E17D-M
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_SAMD/ATSAMD21E17D-M/
 - Description: MCU_Microchip_SAMD : ATSAMD21E17D-M
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_SAMD-ATSAMD21E17D-M](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_SAMD-ATSAMD21E17D-M)
 - Short Link: [http://oom.lt/SZKMCUMCHIPSAMDATSAMD21E17DM](http://oom.lt/SZKMCUMCHIPSAMDATSAMD21E17DM)

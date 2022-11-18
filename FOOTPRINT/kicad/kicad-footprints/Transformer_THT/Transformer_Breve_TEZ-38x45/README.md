@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Transformer_THT-Transformer_Breve_TEZ-38x45
 - Hex ID: FZKTRTRBREVETEZ38X45
 - Name: Transformer_THT : Transformer_Breve_TEZ-38x45
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Transformer_THT/Transformer_Breve_TEZ-38x45/
 - Description: Transformer_THT : Transformer_Breve_TEZ-38x45
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Transformer_THT-Transformer_Breve_TEZ-38x45](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Transformer_THT-Transformer_Breve_TEZ-38x45)
 - Short Link: [http://oom.lt/FZKTRTRBREVETEZ38X45](http://oom.lt/FZKTRTRBREVETEZ38X45)

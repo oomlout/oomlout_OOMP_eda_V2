@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-buzzer-F_CM04P
 - Hex ID: FZEBUZZERFCM4P
 - Name: buzzer : F_CM04P
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/buzzer/F_CM04P/
 - Description: buzzer : F_CM04P
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-buzzer-F_CM04P](http://oom.lt/FOOTPRINT-eagle-eagle-default-buzzer-F_CM04P)
 - Short Link: [http://oom.lt/FZEBUZZERFCM4P](http://oom.lt/FZEBUZZERFCM4P)

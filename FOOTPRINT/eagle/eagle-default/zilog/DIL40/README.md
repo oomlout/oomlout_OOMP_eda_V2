@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-zilog-DIL40
 - Hex ID: FZEZILOGDIL4
 - Name: zilog : DIL40
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/zilog/DIL40/
 - Description: zilog : DIL40
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-zilog-DIL40](http://oom.lt/FOOTPRINT-eagle-eagle-default-zilog-DIL40)
 - Short Link: [http://oom.lt/FZEZILOGDIL4](http://oom.lt/FZEZILOGDIL4)

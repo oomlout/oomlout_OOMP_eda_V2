@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Display-CR2013-MI2120
 - Hex ID: FZKDICR213MI212
 - Name: Display : CR2013-MI2120
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Display/CR2013-MI2120/
 - Description: Display : CR2013-MI2120
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Display-CR2013-MI2120](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Display-CR2013-MI2120)
 - Short Link: [http://oom.lt/FZKDICR213MI212](http://oom.lt/FZKDICR213MI212)

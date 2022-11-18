@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Transformer_THT-Transformer_Myrra_EF20_7408x
 - Hex ID: FZKTRTRMYRRAEF2748X
 - Name: Transformer_THT : Transformer_Myrra_EF20_7408x
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Transformer_THT/Transformer_Myrra_EF20_7408x/
 - Description: Transformer_THT : Transformer_Myrra_EF20_7408x
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Transformer_THT-Transformer_Myrra_EF20_7408x](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Transformer_THT-Transformer_Myrra_EF20_7408x)
 - Short Link: [http://oom.lt/FZKTRTRMYRRAEF2748X](http://oom.lt/FZKTRTRMYRRAEF2748X)

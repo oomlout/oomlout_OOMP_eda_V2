@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-dc-dc-converter-DCW
 - Hex ID: FZEDCDCCONVERTERDCW
 - Name: dc-dc-converter : DCW
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/dc-dc-converter/DCW/
 - Description: dc-dc-converter : DCW
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-dc-dc-converter-DCW](http://oom.lt/FOOTPRINT-eagle-eagle-default-dc-dc-converter-DCW)
 - Short Link: [http://oom.lt/FZEDCDCCONVERTERDCW](http://oom.lt/FZEDCDCCONVERTERDCW)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-2X03
 - Hex ID: FZSRT2X3
 - Name: SparkFun-Retired : 2X03
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Retired/2X03/
 - Description: SparkFun-Retired : 2X03
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-2X03](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-2X03)
 - Short Link: [http://oom.lt/FZSRT2X3](http://oom.lt/FZSRT2X3)

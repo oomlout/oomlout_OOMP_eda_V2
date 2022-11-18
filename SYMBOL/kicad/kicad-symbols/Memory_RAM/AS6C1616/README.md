@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Memory_RAM-AS6C1616
 - Hex ID: SZKMEMORYRAMAS6C1616
 - Name: Memory_RAM : AS6C1616
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Memory_RAM/AS6C1616/
 - Description: Memory_RAM : AS6C1616
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_RAM-AS6C1616](http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_RAM-AS6C1616)
 - Short Link: [http://oom.lt/SZKMEMORYRAMAS6C1616](http://oom.lt/SZKMEMORYRAMAS6C1616)

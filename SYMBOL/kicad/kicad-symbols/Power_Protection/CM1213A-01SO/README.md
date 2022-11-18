@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Power_Protection-CM1213A-01SO
 - Hex ID: SZKPOWERPROTECTIONCM1213A1SO
 - Name: Power_Protection : CM1213A-01SO
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Power_Protection/CM1213A-01SO/
 - Description: Power_Protection : CM1213A-01SO
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Protection-CM1213A-01SO](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Protection-CM1213A-01SO)
 - Short Link: [http://oom.lt/SZKPOWERPROTECTIONCM1213A1SO](http://oom.lt/SZKPOWERPROTECTIONCM1213A1SO)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0402-X-O304-01-R4O304
 - Hex ID: FZOOMPKOOMPPRESE42XO341R4O34
 - Name: oomlout_OOMP_parts : RESE-0402-X-O304-01-R4O304
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/RESE-0402-X-O304-01-R4O304/
 - Description: oomlout_OOMP_parts : RESE-0402-X-O304-01-R4O304
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0402-X-O304-01-R4O304](http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0402-X-O304-01-R4O304)
 - Short Link: [http://oom.lt/FZOOMPKOOMPPRESE42XO341R4O34](http://oom.lt/FZOOMPKOOMPPRESE42XO341R4O34)

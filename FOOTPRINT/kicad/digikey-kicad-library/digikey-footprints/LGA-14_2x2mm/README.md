@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-LGA-14_2x2mm
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSLGA142X2
 - Name: digikey-footprints : LGA-14_2x2mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/LGA-14_2x2mm/
 - Description: digikey-footprints : LGA-14_2x2mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-LGA-14_2x2mm](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-LGA-14_2x2mm)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSLGA142X2](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSLGA142X2)

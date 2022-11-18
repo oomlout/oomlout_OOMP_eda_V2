@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Power_Management-BTN8982TA
 - Hex ID: SZKPOWERMANAGEMENTBTN8982TA
 - Name: Power_Management : BTN8982TA
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Power_Management/BTN8982TA/
 - Description: Power_Management : BTN8982TA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-BTN8982TA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-BTN8982TA)
 - Short Link: [http://oom.lt/SZKPOWERMANAGEMENTBTN8982TA](http://oom.lt/SZKPOWERMANAGEMENTBTN8982TA)

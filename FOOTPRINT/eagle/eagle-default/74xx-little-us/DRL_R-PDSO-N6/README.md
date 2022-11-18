@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-74xx-little-us-DRL_R-PDSO-N6
 - Hex ID: FZE74XXLITTLEUSDRLRPDSON6
 - Name: 74xx-little-us : DRL_R-PDSO-N6
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/74xx-little-us/DRL_R-PDSO-N6/
 - Description: 74xx-little-us : DRL_R-PDSO-N6
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-74xx-little-us-DRL_R-PDSO-N6](http://oom.lt/FOOTPRINT-eagle-eagle-default-74xx-little-us-DRL_R-PDSO-N6)
 - Short Link: [http://oom.lt/FZE74XXLITTLEUSDRLRPDSON6](http://oom.lt/FZE74XXLITTLEUSDRLRPDSON6)

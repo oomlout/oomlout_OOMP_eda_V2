@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-transistor-2-10H1A
 - Hex ID: FZETRANSISTOR21H1A
 - Name: transistor : 2-10H1A
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/transistor/2-10H1A/
 - Description: transistor : 2-10H1A
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-2-10H1A](http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-2-10H1A)
 - Short Link: [http://oom.lt/FZETRANSISTOR21H1A](http://oom.lt/FZETRANSISTOR21H1A)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Symbol-OSHW-Logo2_7.3x6mm_SilkScreen
 - Hex ID: FZKSZOSHWL273X6SILKSCREEN
 - Name: Symbol : OSHW-Logo2_7.3x6mm_SilkScreen
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Symbol/OSHW-Logo2_7.3x6mm_SilkScreen/
 - Description: Symbol : OSHW-Logo2_7.3x6mm_SilkScreen
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Symbol-OSHW-Logo2_7.3x6mm_SilkScreen](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Symbol-OSHW-Logo2_7.3x6mm_SilkScreen)
 - Short Link: [http://oom.lt/FZKSZOSHWL273X6SILKSCREEN](http://oom.lt/FZKSZOSHWL273X6SILKSCREEN)

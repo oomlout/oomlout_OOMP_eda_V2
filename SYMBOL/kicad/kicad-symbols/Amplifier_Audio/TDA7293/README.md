@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Audio-TDA7293
 - Hex ID: SZKAMPLIFIERAUDIOTDA7293
 - Name: Amplifier_Audio : TDA7293
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Audio/TDA7293/
 - Description: Amplifier_Audio : TDA7293
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Audio-TDA7293](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Audio-TDA7293)
 - Short Link: [http://oom.lt/SZKAMPLIFIERAUDIOTDA7293](http://oom.lt/SZKAMPLIFIERAUDIOTDA7293)

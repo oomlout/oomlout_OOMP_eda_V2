@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Capacitor_THT-C_Rect_L27.0mm_W9.0mm_P22.00mm
 - Hex ID: FZKCCRECTL27W9P22
 - Name: Capacitor_THT : C_Rect_L27.0mm_W9.0mm_P22.00mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Capacitor_THT/C_Rect_L27.0mm_W9.0mm_P22.00mm/
 - Description: Capacitor_THT : C_Rect_L27.0mm_W9.0mm_P22.00mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_THT-C_Rect_L27.0mm_W9.0mm_P22.00mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_THT-C_Rect_L27.0mm_W9.0mm_P22.00mm)
 - Short Link: [http://oom.lt/FZKCCRECTL27W9P22](http://oom.lt/FZKCCRECTL27W9P22)

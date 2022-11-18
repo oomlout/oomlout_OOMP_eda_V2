@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Memory_EEPROM-AT24CS01-STUM
 - Hex ID: SZKMEMORYEEPROMAT24CS1STUM
 - Name: Memory_EEPROM : AT24CS01-STUM
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Memory_EEPROM/AT24CS01-STUM/
 - Description: Memory_EEPROM : AT24CS01-STUM
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_EEPROM-AT24CS01-STUM](http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_EEPROM-AT24CS01-STUM)
 - Short Link: [http://oom.lt/SZKMEMORYEEPROMAT24CS1STUM](http://oom.lt/SZKMEMORYEEPROMAT24CS1STUM)

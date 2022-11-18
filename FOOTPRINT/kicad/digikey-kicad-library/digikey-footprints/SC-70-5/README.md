@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SC-70-5
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSSC75
 - Name: digikey-footprints : SC-70-5
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/SC-70-5/
 - Description: digikey-footprints : SC-70-5
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SC-70-5](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SC-70-5)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSSC75](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSSC75)

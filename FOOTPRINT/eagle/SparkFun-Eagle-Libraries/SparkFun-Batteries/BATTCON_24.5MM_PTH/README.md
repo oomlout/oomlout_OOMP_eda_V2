@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Batteries-BATTCON_24.5MM_PTH
 - Hex ID: FZSBBC245P
 - Name: SparkFun-Batteries : BATTCON_24.5MM_PTH
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Batteries/BATTCON_24.5MM_PTH/
 - Description: SparkFun-Batteries : BATTCON_24.5MM_PTH
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Batteries-BATTCON_24.5MM_PTH](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Batteries-BATTCON_24.5MM_PTH)
 - Short Link: [http://oom.lt/FZSBBC245P](http://oom.lt/FZSBBC245P)

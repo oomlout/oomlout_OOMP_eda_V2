@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-ICL_THT_P17.1mm
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSICLTHTP171
 - Name: digikey-footprints : ICL_THT_P17.1mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/ICL_THT_P17.1mm/
 - Description: digikey-footprints : ICL_THT_P17.1mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-ICL_THT_P17.1mm](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-ICL_THT_P17.1mm)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSICLTHTP171](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSICLTHTP171)

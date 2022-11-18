@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-OptoDevice-R_LDR_5.0x4.1mm_P3mm_Vertical
 - Hex ID: FZKOPRLDR5X41P3F
 - Name: OptoDevice : R_LDR_5.0x4.1mm_P3mm_Vertical
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/OptoDevice/R_LDR_5.0x4.1mm_P3mm_Vertical/
 - Description: OptoDevice : R_LDR_5.0x4.1mm_P3mm_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-OptoDevice-R_LDR_5.0x4.1mm_P3mm_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-OptoDevice-R_LDR_5.0x4.1mm_P3mm_Vertical)
 - Short Link: [http://oom.lt/FZKOPRLDR5X41P3F](http://oom.lt/FZKOPRLDR5X41P3F)

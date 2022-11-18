@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-CPLD_Altera-EPM570ZM100
 - Hex ID: SZKCPLDALTERAEPM57ZM1
 - Name: CPLD_Altera : EPM570ZM100
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/CPLD_Altera/EPM570ZM100/
 - Description: CPLD_Altera : EPM570ZM100
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-CPLD_Altera-EPM570ZM100](http://oom.lt/SYMBOL-kicad-kicad-symbols-CPLD_Altera-EPM570ZM100)
 - Short Link: [http://oom.lt/SZKCPLDALTERAEPM57ZM1](http://oom.lt/SZKCPLDALTERAEPM57ZM1)

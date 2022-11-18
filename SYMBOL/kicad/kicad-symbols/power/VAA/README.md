@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-power-VAA
 - Hex ID: SZKPOWERVAA
 - Name: power : VAA
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/power/VAA/
 - Description: power : VAA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-power-VAA](http://oom.lt/SYMBOL-kicad-kicad-symbols-power-VAA)
 - Short Link: [http://oom.lt/SZKPOWERVAA](http://oom.lt/SZKPOWERVAA)

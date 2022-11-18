@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-RESE-0402-X-O304-01-R4O304-C25774
 - Hex ID: FZOOMPKJLCRESE42XO341R4O34C25774
 - Name: oomlout_OOMP_JLCC_Basic : RESE-0402-X-O304-01-R4O304-C25774
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_JLCC_Basic/RESE-0402-X-O304-01-R4O304-C25774/
 - Description: oomlout_OOMP_JLCC_Basic : RESE-0402-X-O304-01-R4O304-C25774
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-RESE-0402-X-O304-01-R4O304-C25774](http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-RESE-0402-X-O304-01-R4O304-C25774)
 - Short Link: [http://oom.lt/FZOOMPKJLCRESE42XO341R4O34C25774](http://oom.lt/FZOOMPKJLCRESE42XO341R4O34C25774)

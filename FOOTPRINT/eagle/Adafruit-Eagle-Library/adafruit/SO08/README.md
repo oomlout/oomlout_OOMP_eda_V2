@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-SO08
 - Hex ID: FZASO8
 - Name: adafruit : SO08
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/SO08/
 - Description: adafruit : SO08
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-SO08](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-SO08)
 - Short Link: [http://oom.lt/FZASO8](http://oom.lt/FZASO8)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O471-01-R6O471
 - Hex ID: SZOOMPKOOMPPRESE63XO4711R6O471
 - Name: oomlout_OOMP_parts : RESE-0603-X-O471-01-R6O471
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/RESE-0603-X-O471-01-R6O471/
 - Description: oomlout_OOMP_parts : RESE-0603-X-O471-01-R6O471
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O471-01-R6O471](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O471-01-R6O471)
 - Short Link: [http://oom.lt/SZOOMPKOOMPPRESE63XO4711R6O471](http://oom.lt/SZOOMPKOOMPPRESE63XO4711R6O471)

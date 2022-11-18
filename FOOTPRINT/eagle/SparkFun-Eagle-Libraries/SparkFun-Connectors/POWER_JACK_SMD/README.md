@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-POWER_JACK_SMD
 - Hex ID: FZSSPARKFUNCNSPOWERJSM
 - Name: SparkFun-Connectors : POWER_JACK_SMD
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Connectors/POWER_JACK_SMD/
 - Description: SparkFun-Connectors : POWER_JACK_SMD
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-POWER_JACK_SMD](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-POWER_JACK_SMD)
 - Short Link: [http://oom.lt/FZSSPARKFUNCNSPOWERJSM](http://oom.lt/FZSSPARKFUNCNSPOWERJSM)

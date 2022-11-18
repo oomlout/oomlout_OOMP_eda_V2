@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega329P-20A
 - Hex ID: SZKMCUMCHIPATMEGAATMEGA329P2A
 - Name: MCU_Microchip_ATmega : ATmega329P-20A
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_ATmega/ATmega329P-20A/
 - Description: MCU_Microchip_ATmega : ATmega329P-20A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega329P-20A](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega329P-20A)
 - Short Link: [http://oom.lt/SZKMCUMCHIPATMEGAATMEGA329P2A](http://oom.lt/SZKMCUMCHIPATMEGAATMEGA329P2A)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-rcl-LAL02
 - Hex ID: FZERCLLAL2
 - Name: rcl : LAL02
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/rcl/LAL02/
 - Description: rcl : LAL02
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-LAL02](http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-LAL02)
 - Short Link: [http://oom.lt/FZERCLLAL2](http://oom.lt/FZERCLLAL2)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Converter_DCDC-MEE1S1512SC
 - Hex ID: SZKCONMEE1S1512SC
 - Name: Converter_DCDC : MEE1S1512SC
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Converter_DCDC/MEE1S1512SC/
 - Description: Converter_DCDC : MEE1S1512SC
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-MEE1S1512SC](http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-MEE1S1512SC)
 - Short Link: [http://oom.lt/SZKCONMEE1S1512SC](http://oom.lt/SZKCONMEE1S1512SC)

@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEREFPACKAGESRTRIM3296X > ref-packages : RTRIM3296X](#fzerefpackagesrtrim3296x--ref-packages--rtrim3296x)
+* [FZEREFPSRTRIM3296X > ref-packages : RTRIM3296X](#fzerefpsrtrim3296x--ref-packages--rtrim3296x)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEREFPACKAGESRTRIM3296X > ref-packages : RTRIM3296X
+# FZEREFPSRTRIM3296X > ref-packages : RTRIM3296X
 
 - ID: FOOTPRINT-eagle-eagle-default-ref-packages-RTRIM3296X
-- Hex ID: FZEREFPACKAGESRTRIM3296X
+- Hex ID: FZEREFPSRTRIM3296X
 - Name: ref-packages : RTRIM3296X
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ref-packages/RTRIM3296X/
 - Description: ref-packages : RTRIM3296X
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-RTRIM3296X](http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-RTRIM3296X)
-- Short Link: [http://oom.lt/FZEREFPACKAGESRTRIM3296X](http://oom.lt/FZEREFPACKAGESRTRIM3296X)
+- Short Link: [http://oom.lt/FZEREFPSRTRIM3296X](http://oom.lt/FZEREFPSRTRIM3296X)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|ref-packages|
 |OOMP Index|oompIndex|RTRIM3296X|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-ref-packages-RTRIM3296X|
-|Hex ID (short code)|hexID|FZEREFPACKAGESRTRIM3296X|
+|Hex ID (short code)|hexID|FZEREFPSRTRIM3296X|
 |name|name|ref-packages : RTRIM3296X|
 ||||

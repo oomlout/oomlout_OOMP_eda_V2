@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-micro-intel-UBGA56-2
 - Hex ID: FZEMINTELUBGA562
 - Name: micro-intel : UBGA56-2
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/micro-intel/UBGA56-2/
 - Description: micro-intel : UBGA56-2
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-intel-UBGA56-2](http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-intel-UBGA56-2)
 - Short Link: [http://oom.lt/FZEMINTELUBGA562](http://oom.lt/FZEMINTELUBGA562)

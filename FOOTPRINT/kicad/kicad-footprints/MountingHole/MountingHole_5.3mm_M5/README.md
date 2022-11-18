@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-MountingHole-MountingHole_5.3mm_M5
 - Hex ID: FZKHOLHOL53M5
 - Name: MountingHole : MountingHole_5.3mm_M5
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/MountingHole/MountingHole_5.3mm_M5/
 - Description: MountingHole : MountingHole_5.3mm_M5
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-MountingHole-MountingHole_5.3mm_M5](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-MountingHole-MountingHole_5.3mm_M5)
 - Short Link: [http://oom.lt/FZKHOLHOL53M5](http://oom.lt/FZKHOLHOL53M5)

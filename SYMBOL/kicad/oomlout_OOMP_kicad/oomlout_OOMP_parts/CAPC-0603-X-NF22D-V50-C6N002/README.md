@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0603-X-NF22D-V50-C6N002
 - Hex ID: SZOOMPKOOMPPCAPC63XNF22DV5C6N2
 - Name: oomlout_OOMP_parts : CAPC-0603-X-NF22D-V50-C6N002
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/CAPC-0603-X-NF22D-V50-C6N002/
 - Description: oomlout_OOMP_parts : CAPC-0603-X-NF22D-V50-C6N002
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0603-X-NF22D-V50-C6N002](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0603-X-NF22D-V50-C6N002)
 - Short Link: [http://oom.lt/SZOOMPKOOMPPCAPC63XNF22DV5C6N2](http://oom.lt/SZOOMPKOOMPPCAPC63XNF22DV5C6N2)

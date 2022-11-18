@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Potentiometer_SMD-Potentiometer_Bourns_PRS11S_Vertical
 - Hex ID: FZKPPOTBOURNSPRS11SF
 - Name: Potentiometer_SMD : Potentiometer_Bourns_PRS11S_Vertical
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Potentiometer_SMD/Potentiometer_Bourns_PRS11S_Vertical/
 - Description: Potentiometer_SMD : Potentiometer_Bourns_PRS11S_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Potentiometer_SMD-Potentiometer_Bourns_PRS11S_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Potentiometer_SMD-Potentiometer_Bourns_PRS11S_Vertical)
 - Short Link: [http://oom.lt/FZKPPOTBOURNSPRS11SF](http://oom.lt/FZKPPOTBOURNSPRS11SF)

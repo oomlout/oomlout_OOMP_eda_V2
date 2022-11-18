@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Memory_EEPROM-TMS4C1050N
 - Hex ID: SZKMEMORYEEPROMTMS4C15N
 - Name: Memory_EEPROM : TMS4C1050N
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Memory_EEPROM/TMS4C1050N/
 - Description: Memory_EEPROM : TMS4C1050N
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_EEPROM-TMS4C1050N](http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_EEPROM-TMS4C1050N)
 - Short Link: [http://oom.lt/SZKMEMORYEEPROMTMS4C15N](http://oom.lt/SZKMEMORYEEPROMTMS4C15N)

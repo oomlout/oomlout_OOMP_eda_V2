@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0805-X-O151-67-R85151A
 - Hex ID: FZOOMPKOOMPPRESE85XO15167R85151A
 - Name: oomlout_OOMP_parts : RESE-0805-X-O151-67-R85151A
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/RESE-0805-X-O151-67-R85151A/
 - Description: oomlout_OOMP_parts : RESE-0805-X-O151-67-R85151A
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0805-X-O151-67-R85151A](http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0805-X-O151-67-R85151A)
 - Short Link: [http://oom.lt/FZOOMPKOOMPPRESE85XO15167R85151A](http://oom.lt/FZOOMPKOOMPPRESE85XO15167R85151A)

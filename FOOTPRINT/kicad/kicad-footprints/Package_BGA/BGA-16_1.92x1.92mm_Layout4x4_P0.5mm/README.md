@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_BGA-BGA-16_1.92x1.92mm_Layout4x4_P0.5mm
 - Hex ID: FZKBGABGA16192X192LAYOUT4X4P5
 - Name: Package_BGA : BGA-16_1.92x1.92mm_Layout4x4_P0.5mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_BGA/BGA-16_1.92x1.92mm_Layout4x4_P0.5mm/
 - Description: Package_BGA : BGA-16_1.92x1.92mm_Layout4x4_P0.5mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_BGA-BGA-16_1.92x1.92mm_Layout4x4_P0.5mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_BGA-BGA-16_1.92x1.92mm_Layout4x4_P0.5mm)
 - Short Link: [http://oom.lt/FZKBGABGA16192X192LAYOUT4X4P5](http://oom.lt/FZKBGABGA16192X192LAYOUT4X4P5)

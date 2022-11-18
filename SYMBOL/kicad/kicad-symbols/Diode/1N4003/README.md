@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-1N4003
 - Hex ID: SZKDIODE1N43
 - Name: Diode : 1N4003
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/1N4003/
 - Description: Diode : 1N4003
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-1N4003](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-1N4003)
 - Short Link: [http://oom.lt/SZKDIODE1N43](http://oom.lt/SZKDIODE1N43)

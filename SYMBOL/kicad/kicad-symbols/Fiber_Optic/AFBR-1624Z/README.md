@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Fiber_Optic-AFBR-1624Z
 - Hex ID: SZKFIBEROPTICAFBR1624Z
 - Name: Fiber_Optic : AFBR-1624Z
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Fiber_Optic/AFBR-1624Z/
 - Description: Fiber_Optic : AFBR-1624Z
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Fiber_Optic-AFBR-1624Z](http://oom.lt/SYMBOL-kicad-kicad-symbols-Fiber_Optic-AFBR-1624Z)
 - Short Link: [http://oom.lt/SZKFIBEROPTICAFBR1624Z](http://oom.lt/SZKFIBEROPTICAFBR1624Z)

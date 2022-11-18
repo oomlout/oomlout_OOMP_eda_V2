@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-amd-mach-TQFP144
 - Hex ID: FZEAMDMACHTQFP144
 - Name: amd-mach : TQFP144
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/amd-mach/TQFP144/
 - Description: amd-mach : TQFP144
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-amd-mach-TQFP144](http://oom.lt/FOOTPRINT-eagle-eagle-default-amd-mach-TQFP144)
 - Short Link: [http://oom.lt/FZEAMDMACHTQFP144](http://oom.lt/FZEAMDMACHTQFP144)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Resistor_THT-R_Axial_Shunt_L22.2mm_W9.5mm_PS14.30mm_P25.40mm
 - Hex ID: FZKRRAXIALSHUNTL222W95PS143P254
 - Name: Resistor_THT : R_Axial_Shunt_L22.2mm_W9.5mm_PS14.30mm_P25.40mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Resistor_THT/R_Axial_Shunt_L22.2mm_W9.5mm_PS14.30mm_P25.40mm/
 - Description: Resistor_THT : R_Axial_Shunt_L22.2mm_W9.5mm_PS14.30mm_P25.40mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Resistor_THT-R_Axial_Shunt_L22.2mm_W9.5mm_PS14.30mm_P25.40mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Resistor_THT-R_Axial_Shunt_L22.2mm_W9.5mm_PS14.30mm_P25.40mm)
 - Short Link: [http://oom.lt/FZKRRAXIALSHUNTL222W95PS143P254](http://oom.lt/FZKRRAXIALSHUNTL222W95PS143P254)

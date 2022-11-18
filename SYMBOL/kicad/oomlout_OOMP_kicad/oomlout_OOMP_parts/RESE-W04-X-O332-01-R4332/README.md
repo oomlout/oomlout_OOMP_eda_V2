@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-W04-X-O332-01-R4332
 - Hex ID: SZOOMPKOOMPPRESEW4XO3321R4332
 - Name: oomlout_OOMP_parts : RESE-W04-X-O332-01-R4332
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/RESE-W04-X-O332-01-R4332/
 - Description: oomlout_OOMP_parts : RESE-W04-X-O332-01-R4332
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-W04-X-O332-01-R4332](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-W04-X-O332-01-R4332)
 - Short Link: [http://oom.lt/SZOOMPKOOMPPRESEW4XO3321R4332](http://oom.lt/SZOOMPKOOMPPRESEW4XO3321R4332)

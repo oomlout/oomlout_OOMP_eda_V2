@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0805-X-O201-67-R85201A
 - Hex ID: SZOOMPKOOMPPRESE85XO2167R8521A
 - Name: oomlout_OOMP_parts : RESE-0805-X-O201-67-R85201A
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/RESE-0805-X-O201-67-R85201A/
 - Description: oomlout_OOMP_parts : RESE-0805-X-O201-67-R85201A
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0805-X-O201-67-R85201A](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0805-X-O201-67-R85201A)
 - Short Link: [http://oom.lt/SZOOMPKOOMPPRESE85XO2167R8521A](http://oom.lt/SZOOMPKOOMPPRESE85XO2167R8521A)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-ML8511
 - Hex ID: FZSSPARKFUNSENSML8511
 - Name: SparkFun-Sensors : ML8511
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Sensors/ML8511/
 - Description: SparkFun-Sensors : ML8511
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-ML8511](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-ML8511)
 - Short Link: [http://oom.lt/FZSSPARKFUNSENSML8511](http://oom.lt/FZSSPARKFUNSENSML8511)

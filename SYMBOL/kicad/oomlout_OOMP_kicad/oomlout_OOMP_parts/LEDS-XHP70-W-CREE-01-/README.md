@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-LEDS-XHP70-W-CREE-01-
 - Hex ID: SZOOMPKOOMPPLSXHP7WCREE1
 - Name: oomlout_OOMP_parts : LEDS-XHP70-W-CREE-01-
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/LEDS-XHP70-W-CREE-01-/
 - Description: oomlout_OOMP_parts : LEDS-XHP70-W-CREE-01-
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-LEDS-XHP70-W-CREE-01-](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-LEDS-XHP70-W-CREE-01-)
 - Short Link: [http://oom.lt/SZOOMPKOOMPPLSXHP7WCREE1](http://oom.lt/SZOOMPKOOMPPLSXHP7WCREE1)

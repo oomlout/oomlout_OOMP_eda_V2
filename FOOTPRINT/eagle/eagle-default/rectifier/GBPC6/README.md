@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-rectifier-GBPC6
 - Hex ID: FZERECTIFIERGBPC6
 - Name: rectifier : GBPC6
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/rectifier/GBPC6/
 - Description: rectifier : GBPC6
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-rectifier-GBPC6](http://oom.lt/FOOTPRINT-eagle-eagle-default-rectifier-GBPC6)
 - Short Link: [http://oom.lt/FZERECTIFIERGBPC6](http://oom.lt/FZERECTIFIERGBPC6)

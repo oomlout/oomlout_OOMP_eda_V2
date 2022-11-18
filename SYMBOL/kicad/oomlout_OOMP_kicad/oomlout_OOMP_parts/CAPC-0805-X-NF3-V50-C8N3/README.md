@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0805-X-NF3-V50-C8N3
 - Hex ID: SZOOMPKOOMPPCAPC85XNF3V5C8N3
 - Name: oomlout_OOMP_parts : CAPC-0805-X-NF3-V50-C8N3
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/CAPC-0805-X-NF3-V50-C8N3/
 - Description: oomlout_OOMP_parts : CAPC-0805-X-NF3-V50-C8N3
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0805-X-NF3-V50-C8N3](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0805-X-NF3-V50-C8N3)
 - Short Link: [http://oom.lt/SZOOMPKOOMPPCAPC85XNF3V5C8N3](http://oom.lt/SZOOMPKOOMPPCAPC85XNF3V5C8N3)

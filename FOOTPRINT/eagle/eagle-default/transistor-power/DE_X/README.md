@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-transistor-power-DE_X
 - Hex ID: FZETRANSISTORPOWERDEX
 - Name: transistor-power : DE_X
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/transistor-power/DE_X/
 - Description: transistor-power : DE_X
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-power-DE_X](http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-power-DE_X)
 - Short Link: [http://oom.lt/FZETRANSISTORPOWERDEX](http://oom.lt/FZETRANSISTORPOWERDEX)

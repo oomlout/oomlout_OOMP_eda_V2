@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_AVR_Dx-AVR64DB32x-xRXB
 - Hex ID: SZKMCUMCHIPAVRDXAVR64DB32XXRXB
 - Name: MCU_Microchip_AVR_Dx : AVR64DB32x-xRXB
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_AVR_Dx/AVR64DB32x-xRXB/
 - Description: MCU_Microchip_AVR_Dx : AVR64DB32x-xRXB
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_AVR_Dx-AVR64DB32x-xRXB](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_AVR_Dx-AVR64DB32x-xRXB)
 - Short Link: [http://oom.lt/SZKMCUMCHIPAVRDXAVR64DB32XXRXB](http://oom.lt/SZKMCUMCHIPAVRDXAVR64DB32XXRXB)

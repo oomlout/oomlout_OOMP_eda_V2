@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0805-X-NF100-V100-C8N100100
 - Hex ID: FZOOMPKOOMPPCAPC85XNF1V1C8N11
 - Name: oomlout_OOMP_parts : CAPC-0805-X-NF100-V100-C8N100100
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/CAPC-0805-X-NF100-V100-C8N100100/
 - Description: oomlout_OOMP_parts : CAPC-0805-X-NF100-V100-C8N100100
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0805-X-NF100-V100-C8N100100](http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0805-X-NF100-V100-C8N100100)
 - Short Link: [http://oom.lt/FZOOMPKOOMPPCAPC85XNF1V1C8N11](http://oom.lt/FZOOMPKOOMPPCAPC85XNF1V1C8N11)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Device-C_Variable
 - Hex ID: SZKDEVICECVARIABLE
 - Name: Device : C_Variable
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/C_Variable/
 - Description: Device : C_Variable
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-C_Variable](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-C_Variable)
 - Short Link: [http://oom.lt/SZKDEVICECVARIABLE](http://oom.lt/SZKDEVICECVARIABLE)

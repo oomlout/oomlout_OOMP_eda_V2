@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-harting-CON26
 - Hex ID: FZECONHARTINGCON26
 - Name: con-harting : CON26
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-harting/CON26/
 - Description: con-harting : CON26
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-harting-CON26](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-harting-CON26)
 - Short Link: [http://oom.lt/FZECONHARTINGCON26](http://oom.lt/FZECONHARTINGCON26)

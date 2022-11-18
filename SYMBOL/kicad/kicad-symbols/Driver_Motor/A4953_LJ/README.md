@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Driver_Motor-A4953_LJ
 - Hex ID: SZKDRIVERMOTORA4953LJ
 - Name: Driver_Motor : A4953_LJ
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Driver_Motor/A4953_LJ/
 - Description: Driver_Motor : A4953_LJ
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_Motor-A4953_LJ](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_Motor-A4953_LJ)
 - Short Link: [http://oom.lt/SZKDRIVERMOTORA4953LJ](http://oom.lt/SZKDRIVERMOTORA4953LJ)

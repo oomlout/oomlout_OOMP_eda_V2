@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-XCVR_DA16200MOD-AAC4WA32
 - Hex ID: FZSRFXCVRDA162MODAAC4WA32
 - Name: SparkFun-RF : XCVR_DA16200MOD-AAC4WA32
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-RF/XCVR_DA16200MOD-AAC4WA32/
 - Description: SparkFun-RF : XCVR_DA16200MOD-AAC4WA32
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-XCVR_DA16200MOD-AAC4WA32](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-XCVR_DA16200MOD-AAC4WA32)
 - Short Link: [http://oom.lt/FZSRFXCVRDA162MODAAC4WA32](http://oom.lt/FZSRFXCVRDA162MODAAC4WA32)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-RF_Module-RAK4200
 - Hex ID: FZKRFMORAK42
 - Name: RF_Module : RAK4200
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/RF_Module/RAK4200/
 - Description: RF_Module : RAK4200
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_Module-RAK4200](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_Module-RAK4200)
 - Short Link: [http://oom.lt/FZKRFMORAK42](http://oom.lt/FZKRFMORAK42)

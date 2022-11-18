@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-phoenix-508-MDSTB10
 - Hex ID: FZECONPHOENIX58MDSTB1
 - Name: con-phoenix-508 : MDSTB10
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-phoenix-508/MDSTB10/
 - Description: con-phoenix-508 : MDSTB10
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-phoenix-508-MDSTB10](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-phoenix-508-MDSTB10)
 - Short Link: [http://oom.lt/FZECONPHOENIX58MDSTB1](http://oom.lt/FZECONPHOENIX58MDSTB1)

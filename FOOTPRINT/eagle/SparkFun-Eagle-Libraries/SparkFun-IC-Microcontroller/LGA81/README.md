@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Microcontroller-LGA81
 - Hex ID: FZSIULGA81
 - Name: SparkFun-IC-Microcontroller : LGA81
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-IC-Microcontroller/LGA81/
 - Description: SparkFun-IC-Microcontroller : LGA81
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Microcontroller-LGA81](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Microcontroller-LGA81)
 - Short Link: [http://oom.lt/FZSIULGA81](http://oom.lt/FZSIULGA81)

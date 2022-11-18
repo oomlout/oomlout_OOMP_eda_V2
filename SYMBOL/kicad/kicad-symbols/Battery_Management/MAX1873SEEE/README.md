@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Battery_Management-MAX1873SEEE
 - Hex ID: SZKBATMANAGEMENTMAX1873SEEE
 - Name: Battery_Management : MAX1873SEEE
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Battery_Management/MAX1873SEEE/
 - Description: Battery_Management : MAX1873SEEE
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Battery_Management-MAX1873SEEE](http://oom.lt/SYMBOL-kicad-kicad-symbols-Battery_Management-MAX1873SEEE)
 - Short Link: [http://oom.lt/SZKBATMANAGEMENTMAX1873SEEE](http://oom.lt/SZKBATMANAGEMENTMAX1873SEEE)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-phoenix-500-MSTBV8GR
 - Hex ID: FZECONPHOENIX5MSTBV8GR
 - Name: con-phoenix-500 : MSTBV8GR
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-phoenix-500/MSTBV8GR/
 - Description: con-phoenix-500 : MSTBV8GR
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-phoenix-500-MSTBV8GR](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-phoenix-500-MSTBV8GR)
 - Short Link: [http://oom.lt/FZECONPHOENIX5MSTBV8GR](http://oom.lt/FZECONPHOENIX5MSTBV8GR)

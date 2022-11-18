@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-MAX5092BATE
 - Hex ID: SZKREGULATORLINEARMAX592BATE
 - Name: Regulator_Linear : MAX5092BATE
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/MAX5092BATE/
 - Description: Regulator_Linear : MAX5092BATE
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-MAX5092BATE](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-MAX5092BATE)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARMAX592BATE](http://oom.lt/SZKREGULATORLINEARMAX592BATE)

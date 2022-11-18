@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-89-5
 - Hex ID: FZKSOTSOT895
 - Name: Package_TO_SOT_SMD : SOT-89-5
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/SOT-89-5/
 - Description: Package_TO_SOT_SMD : SOT-89-5
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-89-5](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-89-5)
 - Short Link: [http://oom.lt/FZKSOTSOT895](http://oom.lt/FZKSOTSOT895)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-FPGA_Xilinx_Virtex6-XC6VLX550T-FF1760
 - Hex ID: SZKFPGAXILINXVIRTEX6XC6VLX55TFF176
 - Name: FPGA_Xilinx_Virtex6 : XC6VLX550T-FF1760
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/FPGA_Xilinx_Virtex6/XC6VLX550T-FF1760/
 - Description: FPGA_Xilinx_Virtex6 : XC6VLX550T-FF1760
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-FPGA_Xilinx_Virtex6-XC6VLX550T-FF1760](http://oom.lt/SYMBOL-kicad-kicad-symbols-FPGA_Xilinx_Virtex6-XC6VLX550T-FF1760)
 - Short Link: [http://oom.lt/SZKFPGAXILINXVIRTEX6XC6VLX55TFF176](http://oom.lt/SZKFPGAXILINXVIRTEX6XC6VLX55TFF176)

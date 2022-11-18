@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_CAN_LIN-TJA1042T
 - Hex ID: SZKINTERFACECANLINTJA142T
 - Name: Interface_CAN_LIN : TJA1042T
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_CAN_LIN/TJA1042T/
 - Description: Interface_CAN_LIN : TJA1042T
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_CAN_LIN-TJA1042T](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_CAN_LIN-TJA1042T)
 - Short Link: [http://oom.lt/SZKINTERFACECANLINTJA142T](http://oom.lt/SZKINTERFACECANLINTJA142T)

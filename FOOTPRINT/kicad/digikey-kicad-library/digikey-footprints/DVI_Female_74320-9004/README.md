@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-DVI_Female_74320-9004
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSDVIF743294
 - Name: digikey-footprints : DVI_Female_74320-9004
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/DVI_Female_74320-9004/
 - Description: digikey-footprints : DVI_Female_74320-9004
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-DVI_Female_74320-9004](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-DVI_Female_74320-9004)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSDVIF743294](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSDVIF743294)

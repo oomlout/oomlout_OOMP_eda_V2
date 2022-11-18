@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-micro-philips-HLLGA48R
 - Hex ID: FZEMPHILIPSHLLGA48R
 - Name: micro-philips : HLLGA48R
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/micro-philips/HLLGA48R/
 - Description: micro-philips : HLLGA48R
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-philips-HLLGA48R](http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-philips-HLLGA48R)
 - Short Link: [http://oom.lt/FZEMPHILIPSHLLGA48R](http://oom.lt/FZEMPHILIPSHLLGA48R)

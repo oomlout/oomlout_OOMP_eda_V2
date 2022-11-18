@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-oomlout_OOMP_kicad-oobbOutlines-OOBB-BASE
 - Hex ID: FZOOMPKOOBBOOBBBASE
 - Name: oobbOutlines : OOBB-BASE
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/oomlout_OOMP_kicad/oobbOutlines/OOBB-BASE/
 - Description: oobbOutlines : OOBB-BASE
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oobbOutlines-OOBB-BASE](http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oobbOutlines-OOBB-BASE)
 - Short Link: [http://oom.lt/FZOOMPKOOBBOOBBBASE](http://oom.lt/FZOOMPKOOBBOOBBBASE)

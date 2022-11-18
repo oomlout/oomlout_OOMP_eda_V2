@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0603-X-PF6-V50-C6P6-C39148
 - Hex ID: FZOOMPKJLCCAPC63XPF6V5C6P6C39148
 - Name: oomlout_OOMP_JLCC_Basic : CAPC-0603-X-PF6-V50-C6P6-C39148
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_JLCC_Basic/CAPC-0603-X-PF6-V50-C6P6-C39148/
 - Description: oomlout_OOMP_JLCC_Basic : CAPC-0603-X-PF6-V50-C6P6-C39148
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0603-X-PF6-V50-C6P6-C39148](http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0603-X-PF6-V50-C6P6-C39148)
 - Short Link: [http://oom.lt/FZOOMPKJLCCAPC63XPF6V5C6P6C39148](http://oom.lt/FZOOMPKJLCCAPC63XPF6V5C6P6C39148)

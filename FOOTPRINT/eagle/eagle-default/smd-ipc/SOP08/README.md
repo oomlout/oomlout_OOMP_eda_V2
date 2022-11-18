@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-smd-ipc-SOP08
 - Hex ID: FZESMIPCS8
 - Name: smd-ipc : SOP08
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/smd-ipc/SOP08/
 - Description: smd-ipc : SOP08
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-SOP08](http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-SOP08)
 - Short Link: [http://oom.lt/FZESMIPCS8](http://oom.lt/FZESMIPCS8)

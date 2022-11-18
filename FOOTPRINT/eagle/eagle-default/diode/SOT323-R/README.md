@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-diode-SOT323-R
 - Hex ID: FZEDIODESOT323R
 - Name: diode : SOT323-R
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/diode/SOT323-R/
 - Description: diode : SOT323-R
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-diode-SOT323-R](http://oom.lt/FOOTPRINT-eagle-eagle-default-diode-SOT323-R)
 - Short Link: [http://oom.lt/FZEDIODESOT323R](http://oom.lt/FZEDIODESOT323R)

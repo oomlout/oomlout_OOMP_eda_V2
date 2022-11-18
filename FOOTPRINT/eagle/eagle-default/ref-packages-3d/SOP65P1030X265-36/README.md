@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEREFPACKAGES3DS65P13X26536 > ref-packages-3d : SOP65P1030X265-36](#fzerefpackages3ds65p13x26536--ref-packages-3d--sop65p1030x265-36)
+* [FZEREFPS3DS65P13X26536 > ref-packages-3d : SOP65P1030X265-36](#fzerefps3ds65p13x26536--ref-packages-3d--sop65p1030x265-36)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEREFPACKAGES3DS65P13X26536 > ref-packages-3d : SOP65P1030X265-36
+# FZEREFPS3DS65P13X26536 > ref-packages-3d : SOP65P1030X265-36
 
 - ID: FOOTPRINT-eagle-eagle-default-ref-packages-3d-SOP65P1030X265-36
-- Hex ID: FZEREFPACKAGES3DS65P13X26536
+- Hex ID: FZEREFPS3DS65P13X26536
 - Name: ref-packages-3d : SOP65P1030X265-36
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ref-packages-3d/SOP65P1030X265-36/
 - Description: ref-packages-3d : SOP65P1030X265-36
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-3d-SOP65P1030X265-36](http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-3d-SOP65P1030X265-36)
-- Short Link: [http://oom.lt/FZEREFPACKAGES3DS65P13X26536](http://oom.lt/FZEREFPACKAGES3DS65P13X26536)
+- Short Link: [http://oom.lt/FZEREFPS3DS65P13X26536](http://oom.lt/FZEREFPS3DS65P13X26536)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|ref-packages-3d|
 |OOMP Index|oompIndex|SOP65P1030X265-36|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-ref-packages-3d-SOP65P1030X265-36|
-|Hex ID (short code)|hexID|FZEREFPACKAGES3DS65P13X26536|
+|Hex ID (short code)|hexID|FZEREFPS3DS65P13X26536|
 |name|name|ref-packages-3d : SOP65P1030X265-36|
 ||||

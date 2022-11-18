@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Battery_Management-BQ24166RGE
 - Hex ID: SZKBATMANAGEMENTBQ24166RGE
 - Name: Battery_Management : BQ24166RGE
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Battery_Management/BQ24166RGE/
 - Description: Battery_Management : BQ24166RGE
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Battery_Management-BQ24166RGE](http://oom.lt/SYMBOL-kicad-kicad-symbols-Battery_Management-BQ24166RGE)
 - Short Link: [http://oom.lt/SZKBATMANAGEMENTBQ24166RGE](http://oom.lt/SZKBATMANAGEMENTBQ24166RGE)

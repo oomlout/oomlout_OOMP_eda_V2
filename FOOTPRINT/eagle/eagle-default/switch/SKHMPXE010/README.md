@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-switch-SKHMPXE010
 - Hex ID: FZESWSKHMPXE1
 - Name: switch : SKHMPXE010
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/switch/SKHMPXE010/
 - Description: switch : SKHMPXE010
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-SKHMPXE010](http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-SKHMPXE010)
 - Short Link: [http://oom.lt/FZESWSKHMPXE1](http://oom.lt/FZESWSKHMPXE1)

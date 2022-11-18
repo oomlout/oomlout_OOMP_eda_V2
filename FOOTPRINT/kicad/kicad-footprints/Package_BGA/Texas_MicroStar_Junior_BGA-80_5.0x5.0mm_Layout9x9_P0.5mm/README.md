@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_BGA-Texas_MicroStar_Junior_BGA-80_5.0x5.0mm_Layout9x9_P0.5mm
 - Hex ID: FZKBGATEXASMSTARJUNIORBGA85X5LAYOUT9X9P5
 - Name: Package_BGA : Texas_MicroStar_Junior_BGA-80_5.0x5.0mm_Layout9x9_P0.5mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_BGA/Texas_MicroStar_Junior_BGA-80_5.0x5.0mm_Layout9x9_P0.5mm/
 - Description: Package_BGA : Texas_MicroStar_Junior_BGA-80_5.0x5.0mm_Layout9x9_P0.5mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_BGA-Texas_MicroStar_Junior_BGA-80_5.0x5.0mm_Layout9x9_P0.5mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_BGA-Texas_MicroStar_Junior_BGA-80_5.0x5.0mm_Layout9x9_P0.5mm)
 - Short Link: [http://oom.lt/FZKBGATEXASMSTARJUNIORBGA85X5LAYOUT9X9P5](http://oom.lt/FZKBGATEXASMSTARJUNIORBGA85X5LAYOUT9X9P5)

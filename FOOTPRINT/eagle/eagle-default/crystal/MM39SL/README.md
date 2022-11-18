@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-crystal-MM39SL
 - Hex ID: FZEX39SL
 - Name: crystal : MM39SL
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/crystal/MM39SL/
 - Description: crystal : MM39SL
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-crystal-MM39SL](http://oom.lt/FOOTPRINT-eagle-eagle-default-crystal-MM39SL)
 - Short Link: [http://oom.lt/FZEX39SL](http://oom.lt/FZEX39SL)

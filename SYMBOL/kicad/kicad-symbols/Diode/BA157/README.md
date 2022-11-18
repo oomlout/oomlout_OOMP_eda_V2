@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-BA157
 - Hex ID: SZKDIODEBA157
 - Name: Diode : BA157
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/BA157/
 - Description: Diode : BA157
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-BA157](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-BA157)
 - Short Link: [http://oom.lt/SZKDIODEBA157](http://oom.lt/SZKDIODEBA157)

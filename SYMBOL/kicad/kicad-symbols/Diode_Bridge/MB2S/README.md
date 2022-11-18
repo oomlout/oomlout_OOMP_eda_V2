@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode_Bridge-MB2S
 - Hex ID: SZKDIODEBRIDGEMB2S
 - Name: Diode_Bridge : MB2S
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode_Bridge/MB2S/
 - Description: Diode_Bridge : MB2S
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode_Bridge-MB2S](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode_Bridge-MB2S)
 - Short Link: [http://oom.lt/SZKDIODEBRIDGEMB2S](http://oom.lt/SZKDIODEBRIDGEMB2S)

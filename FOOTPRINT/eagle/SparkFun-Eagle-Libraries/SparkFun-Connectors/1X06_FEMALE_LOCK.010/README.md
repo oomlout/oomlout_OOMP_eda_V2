@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-1X06_FEMALE_LOCK.010
 - Hex ID: FZSSPARKFUNCNS1X6FL1
 - Name: SparkFun-Connectors : 1X06_FEMALE_LOCK.010
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Connectors/1X06_FEMALE_LOCK.010/
 - Description: SparkFun-Connectors : 1X06_FEMALE_LOCK.010
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-1X06_FEMALE_LOCK.010](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-1X06_FEMALE_LOCK.010)
 - Short Link: [http://oom.lt/FZSSPARKFUNCNS1X6FL1](http://oom.lt/FZSSPARKFUNCNS1X6FL1)

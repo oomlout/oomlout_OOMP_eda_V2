@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC12-PIC12LF1501-IMS
 - Hex ID: SZKMCUMCHIPPIC12PIC12LF151IMS
 - Name: MCU_Microchip_PIC12 : PIC12LF1501-IMS
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC12/PIC12LF1501-IMS/
 - Description: MCU_Microchip_PIC12 : PIC12LF1501-IMS
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC12-PIC12LF1501-IMS](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC12-PIC12LF1501-IMS)
 - Short Link: [http://oom.lt/SZKMCUMCHIPPIC12PIC12LF151IMS](http://oom.lt/SZKMCUMCHIPPIC12PIC12LF151IMS)

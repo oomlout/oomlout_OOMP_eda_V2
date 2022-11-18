@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEREFPACKAGESSOT236L > ref-packages : SOT23-6L](#fzerefpackagessot236l--ref-packages--sot23-6l)
+* [FZEREFPSSOT236L > ref-packages : SOT23-6L](#fzerefpssot236l--ref-packages--sot23-6l)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEREFPACKAGESSOT236L > ref-packages : SOT23-6L
+# FZEREFPSSOT236L > ref-packages : SOT23-6L
 
 - ID: FOOTPRINT-eagle-eagle-default-ref-packages-SOT23-6L
-- Hex ID: FZEREFPACKAGESSOT236L
+- Hex ID: FZEREFPSSOT236L
 - Name: ref-packages : SOT23-6L
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ref-packages/SOT23-6L/
 - Description: ref-packages : SOT23-6L
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-SOT23-6L](http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-SOT23-6L)
-- Short Link: [http://oom.lt/FZEREFPACKAGESSOT236L](http://oom.lt/FZEREFPACKAGESSOT236L)
+- Short Link: [http://oom.lt/FZEREFPSSOT236L](http://oom.lt/FZEREFPSSOT236L)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|ref-packages|
 |OOMP Index|oompIndex|SOT23-6L|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-ref-packages-SOT23-6L|
-|Hex ID (short code)|hexID|FZEREFPACKAGESSOT236L|
+|Hex ID (short code)|hexID|FZEREFPSSOT236L|
 |name|name|ref-packages : SOT23-6L|
 ||||

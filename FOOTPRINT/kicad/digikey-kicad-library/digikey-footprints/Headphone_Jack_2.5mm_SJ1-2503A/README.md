@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Headphone_Jack_2.5mm_SJ1-2503A
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSHEADPHONEJ25SJ1253A
 - Name: digikey-footprints : Headphone_Jack_2.5mm_SJ1-2503A
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Headphone_Jack_2.5mm_SJ1-2503A/
 - Description: digikey-footprints : Headphone_Jack_2.5mm_SJ1-2503A
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Headphone_Jack_2.5mm_SJ1-2503A](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Headphone_Jack_2.5mm_SJ1-2503A)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSHEADPHONEJ25SJ1253A](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSHEADPHONEJ25SJ1253A)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-led-OSRAM-MINI-TOP-LED
 - Hex ID: FZELOSRAMMTOPL
 - Name: led : OSRAM-MINI-TOP-LED
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/led/OSRAM-MINI-TOP-LED/
 - Description: led : OSRAM-MINI-TOP-LED
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-led-OSRAM-MINI-TOP-LED](http://oom.lt/FOOTPRINT-eagle-eagle-default-led-OSRAM-MINI-TOP-LED)
 - Short Link: [http://oom.lt/FZELOSRAMMTOPL](http://oom.lt/FZELOSRAMMTOPL)

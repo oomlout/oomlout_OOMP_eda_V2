@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Converter_ACDC-RAC20-48SK
 - Hex ID: SZKCONRAC248SK
 - Name: Converter_ACDC : RAC20-48SK
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Converter_ACDC/RAC20-48SK/
 - Description: Converter_ACDC : RAC20-48SK
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_ACDC-RAC20-48SK](http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_ACDC-RAC20-48SK)
 - Short Link: [http://oom.lt/SZKCONRAC248SK](http://oom.lt/SZKCONRAC248SK)

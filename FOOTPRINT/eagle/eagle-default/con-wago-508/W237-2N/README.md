@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-wago-508-W237-2N
 - Hex ID: FZECONWAGO58W2372N
 - Name: con-wago-508 : W237-2N
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-wago-508/W237-2N/
 - Description: con-wago-508 : W237-2N
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-wago-508-W237-2N](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-wago-508-W237-2N)
 - Short Link: [http://oom.lt/FZECONWAGO58W2372N](http://oom.lt/FZECONWAGO58W2372N)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-texas-SO-16DW
 - Hex ID: FZETEXASSO16DW
 - Name: texas : SO-16DW
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/texas/SO-16DW/
 - Description: texas : SO-16DW
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-texas-SO-16DW](http://oom.lt/FOOTPRINT-eagle-eagle-default-texas-SO-16DW)
 - Short Link: [http://oom.lt/FZETEXASSO16DW](http://oom.lt/FZETEXASSO16DW)

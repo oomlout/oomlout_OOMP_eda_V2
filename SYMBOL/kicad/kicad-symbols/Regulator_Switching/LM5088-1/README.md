@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-LM5088-1
 - Hex ID: SZKREGULATORSWINGLM5881
 - Name: Regulator_Switching : LM5088-1
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/LM5088-1/
 - Description: Regulator_Switching : LM5088-1
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LM5088-1](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LM5088-1)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGLM5881](http://oom.lt/SZKREGULATORSWINGLM5881)

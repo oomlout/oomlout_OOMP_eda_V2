@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0805-X-O202-01-R8O202
 - Hex ID: SZOOMPKOOMPPRESE85XO221R8O22
 - Name: oomlout_OOMP_parts : RESE-0805-X-O202-01-R8O202
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/RESE-0805-X-O202-01-R8O202/
 - Description: oomlout_OOMP_parts : RESE-0805-X-O202-01-R8O202
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0805-X-O202-01-R8O202](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0805-X-O202-01-R8O202)
 - Short Link: [http://oom.lt/SZOOMPKOOMPPRESE85XO221R8O22](http://oom.lt/SZOOMPKOOMPPRESE85XO221R8O22)

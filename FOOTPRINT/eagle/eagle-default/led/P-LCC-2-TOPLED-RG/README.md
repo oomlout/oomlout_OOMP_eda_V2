@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-led-P-LCC-2-TOPLED-RG
 - Hex ID: FZELPLCC2TOPLRG
 - Name: led : P-LCC-2-TOPLED-RG
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/led/P-LCC-2-TOPLED-RG/
 - Description: led : P-LCC-2-TOPLED-RG
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-led-P-LCC-2-TOPLED-RG](http://oom.lt/FOOTPRINT-eagle-eagle-default-led-P-LCC-2-TOPLED-RG)
 - Short Link: [http://oom.lt/FZELPLCC2TOPLRG](http://oom.lt/FZELPLCC2TOPLRG)

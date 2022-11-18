@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZSSPARKFUNCNSSCREWTERMINAL355 > SparkFun-Connectors : SCREWTERMINAL-3.5MM-5](#fzssparkfuncnsscrewterminal355--sparkfun-connectors--screwterminal-35mm-5)
+* [FZSSPARKFUNCNSSCT355 > SparkFun-Connectors : SCREWTERMINAL-3.5MM-5](#fzssparkfuncnssct355--sparkfun-connectors--screwterminal-35mm-5)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZSSPARKFUNCNSSCREWTERMINAL355 > SparkFun-Connectors : SCREWTERMINAL-3.5MM-5
+# FZSSPARKFUNCNSSCT355 > SparkFun-Connectors : SCREWTERMINAL-3.5MM-5
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-SCREWTERMINAL-3.5MM-5
-- Hex ID: FZSSPARKFUNCNSSCREWTERMINAL355
+- Hex ID: FZSSPARKFUNCNSSCT355
 - Name: SparkFun-Connectors : SCREWTERMINAL-3.5MM-5
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Connectors/SCREWTERMINAL-3.5MM-5/
 - Description: SparkFun-Connectors : SCREWTERMINAL-3.5MM-5
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-SCREWTERMINAL-3.5MM-5](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-SCREWTERMINAL-3.5MM-5)
-- Short Link: [http://oom.lt/FZSSPARKFUNCNSSCREWTERMINAL355](http://oom.lt/FZSSPARKFUNCNSSCREWTERMINAL355)
+- Short Link: [http://oom.lt/FZSSPARKFUNCNSSCT355](http://oom.lt/FZSSPARKFUNCNSSCT355)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|SparkFun-Connectors|
 |OOMP Index|oompIndex|SCREWTERMINAL-3.5MM-5|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-SCREWTERMINAL-3.5MM-5|
-|Hex ID (short code)|hexID|FZSSPARKFUNCNSSCREWTERMINAL355|
+|Hex ID (short code)|hexID|FZSSPARKFUNCNSSCT355|
 |name|name|SparkFun-Connectors : SCREWTERMINAL-3.5MM-5|
 ||||

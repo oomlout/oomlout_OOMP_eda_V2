@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Memory_Flash-28F400
 - Hex ID: SZKMEMORYFLASH28F4
 - Name: Memory_Flash : 28F400
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Memory_Flash/28F400/
 - Description: Memory_Flash : 28F400
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_Flash-28F400](http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_Flash-28F400)
 - Short Link: [http://oom.lt/SZKMEMORYFLASH28F4](http://oom.lt/SZKMEMORYFLASH28F4)

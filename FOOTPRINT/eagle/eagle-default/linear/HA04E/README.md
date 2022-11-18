@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-linear-HA04E
 - Hex ID: FZELINEARHA4E
 - Name: linear : HA04E
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/linear/HA04E/
 - Description: linear : HA04E
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-linear-HA04E](http://oom.lt/FOOTPRINT-eagle-eagle-default-linear-HA04E)
 - Short Link: [http://oom.lt/FZELINEARHA4E](http://oom.lt/FZELINEARHA4E)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-RESE-0603-X-O510-01-R6O510-C23197
 - Hex ID: SZOOMPKJLCRESE63XO511R6O51C23197
 - Name: oomlout_OOMP_JLCC_Basic : RESE-0603-X-O510-01-R6O510-C23197
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_JLCC_Basic/RESE-0603-X-O510-01-R6O510-C23197/
 - Description: oomlout_OOMP_JLCC_Basic : RESE-0603-X-O510-01-R6O510-C23197
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-RESE-0603-X-O510-01-R6O510-C23197](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-RESE-0603-X-O510-01-R6O510-C23197)
 - Short Link: [http://oom.lt/SZOOMPKJLCRESE63XO511R6O51C23197](http://oom.lt/SZOOMPKJLCRESE63XO511R6O51C23197)

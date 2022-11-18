@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-smd-ipc-MO019-24
 - Hex ID: FZESMIPCMO1924
 - Name: smd-ipc : MO019-24
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/smd-ipc/MO019-24/
 - Description: smd-ipc : MO019-24
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-MO019-24](http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-MO019-24)
 - Short Link: [http://oom.lt/FZESMIPCMO1924](http://oom.lt/FZESMIPCMO1924)

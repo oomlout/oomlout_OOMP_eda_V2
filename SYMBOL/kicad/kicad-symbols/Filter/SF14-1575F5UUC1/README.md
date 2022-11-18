@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Filter-SF14-1575F5UUC1
 - Hex ID: SZKFILSF141575F5UUC1
 - Name: Filter : SF14-1575F5UUC1
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Filter/SF14-1575F5UUC1/
 - Description: Filter : SF14-1575F5UUC1
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Filter-SF14-1575F5UUC1](http://oom.lt/SYMBOL-kicad-kicad-symbols-Filter-SF14-1575F5UUC1)
 - Short Link: [http://oom.lt/SZKFILSF141575F5UUC1](http://oom.lt/SZKFILSF141575F5UUC1)

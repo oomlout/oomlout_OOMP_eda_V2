@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Device-D_Dual_CommonCathode_KAA_Parallel
 - Hex ID: SZKDEVICEDDUALCOONCATHODEKAAPARALLEL
 - Name: Device : D_Dual_CommonCathode_KAA_Parallel
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/D_Dual_CommonCathode_KAA_Parallel/
 - Description: Device : D_Dual_CommonCathode_KAA_Parallel
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-D_Dual_CommonCathode_KAA_Parallel](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-D_Dual_CommonCathode_KAA_Parallel)
 - Short Link: [http://oom.lt/SZKDEVICEDDUALCOONCATHODEKAAPARALLEL](http://oom.lt/SZKDEVICEDDUALCOONCATHODEKAAPARALLEL)

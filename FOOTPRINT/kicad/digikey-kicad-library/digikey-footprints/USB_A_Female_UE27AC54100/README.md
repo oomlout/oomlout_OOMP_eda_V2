@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-USB_A_Female_UE27AC54100
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSUAFUE27AC541
 - Name: digikey-footprints : USB_A_Female_UE27AC54100
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/USB_A_Female_UE27AC54100/
 - Description: digikey-footprints : USB_A_Female_UE27AC54100
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-USB_A_Female_UE27AC54100](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-USB_A_Female_UE27AC54100)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSUAFUE27AC541](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSUAFUE27AC541)

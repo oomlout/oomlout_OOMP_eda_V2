@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_DirectFET-DirectFET_S3C
 - Hex ID: FZKDFETDIRECTFETS3C
 - Name: Package_DirectFET : DirectFET_S3C
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DirectFET/DirectFET_S3C/
 - Description: Package_DirectFET : DirectFET_S3C
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DirectFET-DirectFET_S3C](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DirectFET-DirectFET_S3C)
 - Short Link: [http://oom.lt/FZKDFETDIRECTFETS3C](http://oom.lt/FZKDFETDIRECTFETS3C)

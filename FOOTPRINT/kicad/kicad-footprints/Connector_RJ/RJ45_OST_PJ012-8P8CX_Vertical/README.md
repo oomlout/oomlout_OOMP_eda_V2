@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_RJ-RJ45_OST_PJ012-8P8CX_Vertical
 - Hex ID: FZKCNRJRJ45OSTPJ128P8CXF
 - Name: Connector_RJ : RJ45_OST_PJ012-8P8CX_Vertical
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_RJ/RJ45_OST_PJ012-8P8CX_Vertical/
 - Description: Connector_RJ : RJ45_OST_PJ012-8P8CX_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_RJ-RJ45_OST_PJ012-8P8CX_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_RJ-RJ45_OST_PJ012-8P8CX_Vertical)
 - Short Link: [http://oom.lt/FZKCNRJRJ45OSTPJ128P8CXF](http://oom.lt/FZKCNRJRJ45OSTPJ128P8CXF)

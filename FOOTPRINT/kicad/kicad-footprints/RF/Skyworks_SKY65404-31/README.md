@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-RF-Skyworks_SKY65404-31
 - Hex ID: FZKRFSKYWORKSSKY654431
 - Name: RF : Skyworks_SKY65404-31
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/RF/Skyworks_SKY65404-31/
 - Description: RF : Skyworks_SKY65404-31
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF-Skyworks_SKY65404-31](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF-Skyworks_SKY65404-31)
 - Short Link: [http://oom.lt/FZKRFSKYWORKSSKY654431](http://oom.lt/FZKRFSKYWORKSSKY654431)

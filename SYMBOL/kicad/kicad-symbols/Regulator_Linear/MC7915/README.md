@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-MC7915
 - Hex ID: SZKREGULATORLINEARMC7915
 - Name: Regulator_Linear : MC7915
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/MC7915/
 - Description: Regulator_Linear : MC7915
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-MC7915](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-MC7915)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARMC7915](http://oom.lt/SZKREGULATORLINEARMC7915)

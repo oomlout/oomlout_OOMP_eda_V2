@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Buzzard-VIN_P
 - Hex ID: FZSBUVINP
 - Name: SparkFun-Buzzard : VIN_P
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Buzzard/VIN_P/
 - Description: SparkFun-Buzzard : VIN_P
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Buzzard-VIN_P](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Buzzard-VIN_P)
 - Short Link: [http://oom.lt/FZSBUVINP](http://oom.lt/FZSBUVINP)

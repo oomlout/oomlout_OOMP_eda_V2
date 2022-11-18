@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-TO-263-6
 - Hex ID: FZKSOTTO2636
 - Name: Package_TO_SOT_SMD : TO-263-6
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/TO-263-6/
 - Description: Package_TO_SOT_SMD : TO-263-6
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-TO-263-6](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-TO-263-6)
 - Short Link: [http://oom.lt/FZKSOTTO2636](http://oom.lt/FZKSOTTO2636)

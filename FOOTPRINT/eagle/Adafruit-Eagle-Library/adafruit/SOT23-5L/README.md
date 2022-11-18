@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-SOT23-5L
 - Hex ID: FZASOT235L
 - Name: adafruit : SOT23-5L
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/SOT23-5L/
 - Description: adafruit : SOT23-5L
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-SOT23-5L](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-SOT23-5L)
 - Short Link: [http://oom.lt/FZASOT235L](http://oom.lt/FZASOT235L)

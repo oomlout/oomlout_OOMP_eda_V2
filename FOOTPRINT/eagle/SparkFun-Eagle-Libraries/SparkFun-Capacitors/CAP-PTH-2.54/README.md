@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Capacitors-CAP-PTH-2.54
 - Hex ID: FZSCCAPP254
 - Name: SparkFun-Capacitors : CAP-PTH-2.54
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Capacitors/CAP-PTH-2.54/
 - Description: SparkFun-Capacitors : CAP-PTH-2.54
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Capacitors-CAP-PTH-2.54](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Capacitors-CAP-PTH-2.54)
 - Short Link: [http://oom.lt/FZSCCAPP254](http://oom.lt/FZSCCAPP254)

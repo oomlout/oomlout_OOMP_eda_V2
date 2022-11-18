@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-CRE1S0305S3C
 - Hex ID: SZKREGULATORSWINGCRE1S35S3C
 - Name: Regulator_Switching : CRE1S0305S3C
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/CRE1S0305S3C/
 - Description: Regulator_Switching : CRE1S0305S3C
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-CRE1S0305S3C](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-CRE1S0305S3C)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGCRE1S35S3C](http://oom.lt/SZKREGULATORSWINGCRE1S35S3C)

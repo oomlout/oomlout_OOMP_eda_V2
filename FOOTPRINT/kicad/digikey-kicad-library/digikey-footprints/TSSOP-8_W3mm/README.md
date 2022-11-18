@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-TSSOP-8_W3mm
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSTSS8W3
 - Name: digikey-footprints : TSSOP-8_W3mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/TSSOP-8_W3mm/
 - Description: digikey-footprints : TSSOP-8_W3mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-TSSOP-8_W3mm](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-TSSOP-8_W3mm)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSTSS8W3](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSTSS8W3)

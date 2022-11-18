@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-relay-SR6B
 - Hex ID: FZERELAYSR6B
 - Name: relay : SR6B
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/relay/SR6B/
 - Description: relay : SR6B
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-SR6B](http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-SR6B)
 - Short Link: [http://oom.lt/FZERELAYSR6B](http://oom.lt/FZERELAYSR6B)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Buzzard-MEAS
 - Hex ID: FZSBUMEAS
 - Name: SparkFun-Buzzard : MEAS
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Buzzard/MEAS/
 - Description: SparkFun-Buzzard : MEAS
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Buzzard-MEAS](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Buzzard-MEAS)
 - Short Link: [http://oom.lt/FZSBUMEAS](http://oom.lt/FZSBUMEAS)

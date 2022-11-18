@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Valve-Valve_Mini_Pentode_Linear
 - Hex ID: FZKVAVAMPENTODELINEAR
 - Name: Valve : Valve_Mini_Pentode_Linear
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Valve/Valve_Mini_Pentode_Linear/
 - Description: Valve : Valve_Mini_Pentode_Linear
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Valve-Valve_Mini_Pentode_Linear](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Valve-Valve_Mini_Pentode_Linear)
 - Short Link: [http://oom.lt/FZKVAVAMPENTODELINEAR](http://oom.lt/FZKVAVAMPENTODELINEAR)

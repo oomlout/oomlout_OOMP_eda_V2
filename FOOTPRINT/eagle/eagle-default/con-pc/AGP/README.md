@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-pc-AGP
 - Hex ID: FZECONPCAGP
 - Name: con-pc : AGP
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-pc/AGP/
 - Description: con-pc : AGP
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-pc-AGP](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-pc-AGP)
 - Short Link: [http://oom.lt/FZECONPCAGP](http://oom.lt/FZECONPCAGP)

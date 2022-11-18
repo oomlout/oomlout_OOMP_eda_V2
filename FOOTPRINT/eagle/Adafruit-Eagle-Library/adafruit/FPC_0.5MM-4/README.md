@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-FPC_0.5MM-4
 - Hex ID: FZAFPC54
 - Name: adafruit : FPC_0.5MM-4
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/FPC_0.5MM-4/
 - Description: adafruit : FPC_0.5MM-4
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-FPC_0.5MM-4](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-FPC_0.5MM-4)
 - Short Link: [http://oom.lt/FZAFPC54](http://oom.lt/FZAFPC54)

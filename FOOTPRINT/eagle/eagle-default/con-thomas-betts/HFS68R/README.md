@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-thomas-betts-HFS68R
 - Hex ID: FZECONTHOMASBETTSHFS68R
 - Name: con-thomas-betts : HFS68R
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-thomas-betts/HFS68R/
 - Description: con-thomas-betts : HFS68R
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-thomas-betts-HFS68R](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-thomas-betts-HFS68R)
 - Short Link: [http://oom.lt/FZECONTHOMASBETTSHFS68R](http://oom.lt/FZECONTHOMASBETTSHFS68R)

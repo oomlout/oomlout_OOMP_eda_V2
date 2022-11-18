@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0805-X-NF2-V50-C8N2-C28260
 - Hex ID: FZOOMPKJLCCAPC85XNF2V5C8N2C2826
 - Name: oomlout_OOMP_JLCC_Basic : CAPC-0805-X-NF2-V50-C8N2-C28260
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_JLCC_Basic/CAPC-0805-X-NF2-V50-C8N2-C28260/
 - Description: oomlout_OOMP_JLCC_Basic : CAPC-0805-X-NF2-V50-C8N2-C28260
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0805-X-NF2-V50-C8N2-C28260](http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0805-X-NF2-V50-C8N2-C28260)
 - Short Link: [http://oom.lt/FZOOMPKJLCCAPC85XNF2V5C8N2C2826](http://oom.lt/FZOOMPKJLCCAPC85XNF2V5C8N2C2826)

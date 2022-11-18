@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Power_Management-BTS40K2-1EJC
 - Hex ID: SZKPOWERMANAGEMENTBTS4K21EJC
 - Name: Power_Management : BTS40K2-1EJC
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Power_Management/BTS40K2-1EJC/
 - Description: Power_Management : BTS40K2-1EJC
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-BTS40K2-1EJC](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-BTS40K2-1EJC)
 - Short Link: [http://oom.lt/SZKPOWERMANAGEMENTBTS4K21EJC](http://oom.lt/SZKPOWERMANAGEMENTBTS4K21EJC)

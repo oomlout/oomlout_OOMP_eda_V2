@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Clocks-CRYSTAL-SMD-2X1.2MM
 - Hex ID: FZSCLXSM2X12
 - Name: SparkFun-Clocks : CRYSTAL-SMD-2X1.2MM
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Clocks/CRYSTAL-SMD-2X1.2MM/
 - Description: SparkFun-Clocks : CRYSTAL-SMD-2X1.2MM
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Clocks-CRYSTAL-SMD-2X1.2MM](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Clocks-CRYSTAL-SMD-2X1.2MM)
 - Short Link: [http://oom.lt/FZSCLXSM2X12](http://oom.lt/FZSCLXSM2X12)

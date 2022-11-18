@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface-MC68B40
 - Hex ID: SZKINTERFACEMC68B4
 - Name: Interface : MC68B40
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface/MC68B40/
 - Description: Interface : MC68B40
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-MC68B40](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-MC68B40)
 - Short Link: [http://oom.lt/SZKINTERFACEMC68B4](http://oom.lt/SZKINTERFACEMC68B4)

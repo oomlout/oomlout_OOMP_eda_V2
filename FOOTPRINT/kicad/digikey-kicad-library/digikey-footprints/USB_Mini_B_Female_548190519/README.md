@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-USB_Mini_B_Female_548190519
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSUMBF54819519
 - Name: digikey-footprints : USB_Mini_B_Female_548190519
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/USB_Mini_B_Female_548190519/
 - Description: digikey-footprints : USB_Mini_B_Female_548190519
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-USB_Mini_B_Female_548190519](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-USB_Mini_B_Female_548190519)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSUMBF54819519](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSUMBF54819519)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Sensor_Voltage-LEM_LV25-P
 - Hex ID: FZKSENVOLTAGELEMLV25P
 - Name: Sensor_Voltage : LEM_LV25-P
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Sensor_Voltage/LEM_LV25-P/
 - Description: Sensor_Voltage : LEM_LV25-P
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Sensor_Voltage-LEM_LV25-P](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Sensor_Voltage-LEM_LV25-P)
 - Short Link: [http://oom.lt/FZKSENVOLTAGELEMLV25P](http://oom.lt/FZKSENVOLTAGELEMLV25P)

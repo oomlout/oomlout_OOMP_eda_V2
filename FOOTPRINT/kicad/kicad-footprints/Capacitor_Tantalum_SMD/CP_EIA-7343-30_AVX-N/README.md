@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Capacitor_Tantalum_SMD-CP_EIA-7343-30_AVX-N
 - Hex ID: FZKCCPEIA73433AVXN
 - Name: Capacitor_Tantalum_SMD : CP_EIA-7343-30_AVX-N
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Capacitor_Tantalum_SMD/CP_EIA-7343-30_AVX-N/
 - Description: Capacitor_Tantalum_SMD : CP_EIA-7343-30_AVX-N
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_Tantalum_SMD-CP_EIA-7343-30_AVX-N](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_Tantalum_SMD-CP_EIA-7343-30_AVX-N)
 - Short Link: [http://oom.lt/FZKCCPEIA73433AVXN](http://oom.lt/FZKCCPEIA73433AVXN)

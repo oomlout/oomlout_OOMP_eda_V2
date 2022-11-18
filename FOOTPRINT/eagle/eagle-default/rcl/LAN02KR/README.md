@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-rcl-LAN02KR
 - Hex ID: FZERCLLAN2KR
 - Name: rcl : LAN02KR
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/rcl/LAN02KR/
 - Description: rcl : LAN02KR
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-LAN02KR](http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-LAN02KR)
 - Short Link: [http://oom.lt/FZERCLLAN2KR](http://oom.lt/FZERCLLAN2KR)

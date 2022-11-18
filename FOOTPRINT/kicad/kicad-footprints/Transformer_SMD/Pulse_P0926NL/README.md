@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Transformer_SMD-Pulse_P0926NL
 - Hex ID: FZKTRPULSEP926NL
 - Name: Transformer_SMD : Pulse_P0926NL
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Transformer_SMD/Pulse_P0926NL/
 - Description: Transformer_SMD : Pulse_P0926NL
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Transformer_SMD-Pulse_P0926NL](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Transformer_SMD-Pulse_P0926NL)
 - Short Link: [http://oom.lt/FZKTRPULSEP926NL](http://oom.lt/FZKTRPULSEP926NL)

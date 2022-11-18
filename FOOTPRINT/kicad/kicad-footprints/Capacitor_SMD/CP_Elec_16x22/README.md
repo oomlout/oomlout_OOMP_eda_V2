@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-CP_Elec_16x22
 - Hex ID: FZKCCPELEC16X22
 - Name: Capacitor_SMD : CP_Elec_16x22
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Capacitor_SMD/CP_Elec_16x22/
 - Description: Capacitor_SMD : CP_Elec_16x22
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-CP_Elec_16x22](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-CP_Elec_16x22)
 - Short Link: [http://oom.lt/FZKCCPELEC16X22](http://oom.lt/FZKCCPELEC16X22)

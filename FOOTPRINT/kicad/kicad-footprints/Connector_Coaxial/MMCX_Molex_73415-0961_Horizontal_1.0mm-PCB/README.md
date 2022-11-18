@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_Coaxial-MMCX_Molex_73415-0961_Horizontal_1.0mm-PCB
 - Hex ID: FZKCNCOACXMX73415961H1PCB
 - Name: Connector_Coaxial : MMCX_Molex_73415-0961_Horizontal_1.0mm-PCB
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Coaxial/MMCX_Molex_73415-0961_Horizontal_1.0mm-PCB/
 - Description: Connector_Coaxial : MMCX_Molex_73415-0961_Horizontal_1.0mm-PCB
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Coaxial-MMCX_Molex_73415-0961_Horizontal_1.0mm-PCB](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Coaxial-MMCX_Molex_73415-0961_Horizontal_1.0mm-PCB)
 - Short Link: [http://oom.lt/FZKCNCOACXMX73415961H1PCB](http://oom.lt/FZKCNCOACXMX73415961H1PCB)

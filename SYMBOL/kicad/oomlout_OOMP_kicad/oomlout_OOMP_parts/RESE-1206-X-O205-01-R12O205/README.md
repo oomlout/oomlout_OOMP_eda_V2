@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-1206-X-O205-01-R12O205
 - Hex ID: SZOOMPKOOMPPRESE126XO251R12O25
 - Name: oomlout_OOMP_parts : RESE-1206-X-O205-01-R12O205
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/RESE-1206-X-O205-01-R12O205/
 - Description: oomlout_OOMP_parts : RESE-1206-X-O205-01-R12O205
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-1206-X-O205-01-R12O205](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-1206-X-O205-01-R12O205)
 - Short Link: [http://oom.lt/SZOOMPKOOMPPRESE126XO251R12O25](http://oom.lt/SZOOMPKOOMPPRESE126XO251R12O25)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-omron-XF2J-2224-12
 - Hex ID: FZECONOMRONXF2J222412
 - Name: con-omron : XF2J-2224-12
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-omron/XF2J-2224-12/
 - Description: con-omron : XF2J-2224-12
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-omron-XF2J-2224-12](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-omron-XF2J-2224-12)
 - Short Link: [http://oom.lt/FZECONOMRONXF2J222412](http://oom.lt/FZECONOMRONXF2J222412)

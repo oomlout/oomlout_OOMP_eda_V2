@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O822-67-R6822A
 - Hex ID: SZOOMPKOOMPPRESE63XO82267R6822A
 - Name: oomlout_OOMP_parts : RESE-0603-X-O822-67-R6822A
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/RESE-0603-X-O822-67-R6822A/
 - Description: oomlout_OOMP_parts : RESE-0603-X-O822-67-R6822A
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O822-67-R6822A](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O822-67-R6822A)
 - Short Link: [http://oom.lt/SZOOMPKOOMPPRESE63XO82267R6822A](http://oom.lt/SZOOMPKOOMPPRESE63XO82267R6822A)

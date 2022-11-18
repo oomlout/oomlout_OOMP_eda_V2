@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega1284P-M
 - Hex ID: SZKMCUMCHIPATMEGAATMEGA1284PM
 - Name: MCU_Microchip_ATmega : ATmega1284P-M
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_ATmega/ATmega1284P-M/
 - Description: MCU_Microchip_ATmega : ATmega1284P-M
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega1284P-M](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega1284P-M)
 - Short Link: [http://oom.lt/SZKMCUMCHIPATMEGAATMEGA1284PM](http://oom.lt/SZKMCUMCHIPATMEGAATMEGA1284PM)

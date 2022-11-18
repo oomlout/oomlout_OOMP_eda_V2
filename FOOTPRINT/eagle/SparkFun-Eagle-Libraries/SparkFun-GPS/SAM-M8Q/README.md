@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-GPS-SAM-M8Q
 - Hex ID: FZSGSAMM8Q
 - Name: SparkFun-GPS : SAM-M8Q
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-GPS/SAM-M8Q/
 - Description: SparkFun-GPS : SAM-M8Q
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-GPS-SAM-M8Q](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-GPS-SAM-M8Q)
 - Short Link: [http://oom.lt/FZSGSAMM8Q](http://oom.lt/FZSGSAMM8Q)

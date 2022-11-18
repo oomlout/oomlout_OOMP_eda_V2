@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Microcontroller-SO14
 - Hex ID: FZSIUSO14
 - Name: SparkFun-IC-Microcontroller : SO14
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-IC-Microcontroller/SO14/
 - Description: SparkFun-IC-Microcontroller : SO14
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Microcontroller-SO14](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Microcontroller-SO14)
 - Short Link: [http://oom.lt/FZSIUSO14](http://oom.lt/FZSIUSO14)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SOIC-8-1EP_W3.9mm
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSSOIC81EPW39
 - Name: digikey-footprints : SOIC-8-1EP_W3.9mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/SOIC-8-1EP_W3.9mm/
 - Description: digikey-footprints : SOIC-8-1EP_W3.9mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SOIC-8-1EP_W3.9mm](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SOIC-8-1EP_W3.9mm)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSSOIC81EPW39](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSSOIC81EPW39)

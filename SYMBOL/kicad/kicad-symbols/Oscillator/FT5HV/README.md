@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Oscillator-FT5HV
 - Hex ID: SZKOCSFT5HV
 - Name: Oscillator : FT5HV
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Oscillator/FT5HV/
 - Description: Oscillator : FT5HV
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Oscillator-FT5HV](http://oom.lt/SYMBOL-kicad-kicad-symbols-Oscillator-FT5HV)
 - Short Link: [http://oom.lt/SZKOCSFT5HV](http://oom.lt/SZKOCSFT5HV)

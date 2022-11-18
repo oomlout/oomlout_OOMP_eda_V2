@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-transistor-power-M08A
 - Hex ID: FZETRANSISTORPOWERM8A
 - Name: transistor-power : M08A
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/transistor-power/M08A/
 - Description: transistor-power : M08A
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-power-M08A](http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-power-M08A)
 - Short Link: [http://oom.lt/FZETRANSISTORPOWERM8A](http://oom.lt/FZETRANSISTORPOWERM8A)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-battery-B2430UNI
 - Hex ID: FZEBATB243UNI
 - Name: battery : B2430UNI
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/battery/B2430UNI/
 - Description: battery : B2430UNI
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-battery-B2430UNI](http://oom.lt/FOOTPRINT-eagle-eagle-default-battery-B2430UNI)
 - Short Link: [http://oom.lt/FZEBATB243UNI](http://oom.lt/FZEBATB243UNI)

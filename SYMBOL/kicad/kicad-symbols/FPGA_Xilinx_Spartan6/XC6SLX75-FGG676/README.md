@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-FPGA_Xilinx_Spartan6-XC6SLX75-FGG676
 - Hex ID: SZKFPGAXILINXSPARTAN6XC6SLX75FGG676
 - Name: FPGA_Xilinx_Spartan6 : XC6SLX75-FGG676
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/FPGA_Xilinx_Spartan6/XC6SLX75-FGG676/
 - Description: FPGA_Xilinx_Spartan6 : XC6SLX75-FGG676
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-FPGA_Xilinx_Spartan6-XC6SLX75-FGG676](http://oom.lt/SYMBOL-kicad-kicad-symbols-FPGA_Xilinx_Spartan6-XC6SLX75-FGG676)
 - Short Link: [http://oom.lt/SZKFPGAXILINXSPARTAN6XC6SLX75FGG676](http://oom.lt/SZKFPGAXILINXSPARTAN6XC6SLX75FGG676)

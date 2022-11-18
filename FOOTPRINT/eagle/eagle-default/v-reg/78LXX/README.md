@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-v-reg-78LXX
 - Hex ID: FZEVREG78LXX
 - Name: v-reg : 78LXX
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/v-reg/78LXX/
 - Description: v-reg : 78LXX
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-v-reg-78LXX](http://oom.lt/FOOTPRINT-eagle-eagle-default-v-reg-78LXX)
 - Short Link: [http://oom.lt/FZEVREG78LXX](http://oom.lt/FZEVREG78LXX)

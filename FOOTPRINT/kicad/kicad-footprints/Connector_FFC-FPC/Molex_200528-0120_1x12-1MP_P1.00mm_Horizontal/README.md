@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_FFC-FPC-Molex_200528-0120_1x12-1MP_P1.00mm_Horizontal
 - Hex ID: FZKCNFFCFPCMX2528121X121MPP1H
 - Name: Connector_FFC-FPC : Molex_200528-0120_1x12-1MP_P1.00mm_Horizontal
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_FFC-FPC/Molex_200528-0120_1x12-1MP_P1.00mm_Horizontal/
 - Description: Connector_FFC-FPC : Molex_200528-0120_1x12-1MP_P1.00mm_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_FFC-FPC-Molex_200528-0120_1x12-1MP_P1.00mm_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_FFC-FPC-Molex_200528-0120_1x12-1MP_P1.00mm_Horizontal)
 - Short Link: [http://oom.lt/FZKCNFFCFPCMX2528121X121MPP1H](http://oom.lt/FZKCNFFCFPCMX2528121X121MPP1H)

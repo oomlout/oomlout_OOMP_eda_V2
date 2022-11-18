@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Aesthetics-PRODUCT_IDENT_PASTE_SILK
 - Hex ID: FZSAPRODUCTIDENTPASTESILK
 - Name: SparkFun-Aesthetics : PRODUCT_IDENT_PASTE_SILK
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Aesthetics/PRODUCT_IDENT_PASTE_SILK/
 - Description: SparkFun-Aesthetics : PRODUCT_IDENT_PASTE_SILK
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Aesthetics-PRODUCT_IDENT_PASTE_SILK](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Aesthetics-PRODUCT_IDENT_PASTE_SILK)
 - Short Link: [http://oom.lt/FZSAPRODUCTIDENTPASTESILK](http://oom.lt/FZSAPRODUCTIDENTPASTESILK)

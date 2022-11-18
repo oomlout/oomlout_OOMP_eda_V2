@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Memory_Flash-W25Q128JVS
 - Hex ID: SZKMEMORYFLASHW25Q128JVS
 - Name: Memory_Flash : W25Q128JVS
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Memory_Flash/W25Q128JVS/
 - Description: Memory_Flash : W25Q128JVS
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_Flash-W25Q128JVS](http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_Flash-W25Q128JVS)
 - Short Link: [http://oom.lt/SZKMEMORYFLASHW25Q128JVS](http://oom.lt/SZKMEMORYFLASHW25Q128JVS)

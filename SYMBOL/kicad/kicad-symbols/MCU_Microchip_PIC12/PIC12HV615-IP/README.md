@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC12-PIC12HV615-IP
 - Hex ID: SZKMCUMCHIPPIC12PIC12HV615IP
 - Name: MCU_Microchip_PIC12 : PIC12HV615-IP
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC12/PIC12HV615-IP/
 - Description: MCU_Microchip_PIC12 : PIC12HV615-IP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC12-PIC12HV615-IP](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC12-PIC12HV615-IP)
 - Short Link: [http://oom.lt/SZKMCUMCHIPPIC12PIC12HV615IP](http://oom.lt/SZKMCUMCHIPPIC12PIC12HV615IP)

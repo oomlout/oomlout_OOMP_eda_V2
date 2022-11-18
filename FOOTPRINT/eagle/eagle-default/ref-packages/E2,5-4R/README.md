@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEREFPACKAGESE254R > ref-packages : E2,5-4R](#fzerefpackagese254r--ref-packages--e25-4r)
+* [FZEREFPSE254R > ref-packages : E2,5-4R](#fzerefpse254r--ref-packages--e25-4r)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEREFPACKAGESE254R > ref-packages : E2,5-4R
+# FZEREFPSE254R > ref-packages : E2,5-4R
 
 - ID: FOOTPRINT-eagle-eagle-default-ref-packages-E2,5-4R
-- Hex ID: FZEREFPACKAGESE254R
+- Hex ID: FZEREFPSE254R
 - Name: ref-packages : E2,5-4R
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ref-packages/E2,5-4R/
 - Description: ref-packages : E2,5-4R
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-E2,5-4R](http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-E2,5-4R)
-- Short Link: [http://oom.lt/FZEREFPACKAGESE254R](http://oom.lt/FZEREFPACKAGESE254R)
+- Short Link: [http://oom.lt/FZEREFPSE254R](http://oom.lt/FZEREFPSE254R)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|ref-packages|
 |OOMP Index|oompIndex|E2,5-4R|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-ref-packages-E2,5-4R|
-|Hex ID (short code)|hexID|FZEREFPACKAGESE254R|
+|Hex ID (short code)|hexID|FZEREFPSE254R|
 |name|name|ref-packages : E2,5-4R|
 ||||

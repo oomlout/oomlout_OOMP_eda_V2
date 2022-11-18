@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_BGA-VFBGA-100_7.0x7.0mm_Layout10x10_P0.65mm
 - Hex ID: FZKBGAVFBGA17X7LAYOUT1X1P65
 - Name: Package_BGA : VFBGA-100_7.0x7.0mm_Layout10x10_P0.65mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_BGA/VFBGA-100_7.0x7.0mm_Layout10x10_P0.65mm/
 - Description: Package_BGA : VFBGA-100_7.0x7.0mm_Layout10x10_P0.65mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_BGA-VFBGA-100_7.0x7.0mm_Layout10x10_P0.65mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_BGA-VFBGA-100_7.0x7.0mm_Layout10x10_P0.65mm)
 - Short Link: [http://oom.lt/FZKBGAVFBGA17X7LAYOUT1X1P65](http://oom.lt/FZKBGAVFBGA17X7LAYOUT1X1P65)

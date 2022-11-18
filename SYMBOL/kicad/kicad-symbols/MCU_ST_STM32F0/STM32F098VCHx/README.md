@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F0-STM32F098VCHx
 - Hex ID: SZKMCUSTSTM32FSTM32F98VCHX
 - Name: MCU_ST_STM32F0 : STM32F098VCHx
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32F0/STM32F098VCHx/
 - Description: MCU_ST_STM32F0 : STM32F098VCHx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F0-STM32F098VCHx](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F0-STM32F098VCHx)
 - Short Link: [http://oom.lt/SZKMCUSTSTM32FSTM32F98VCHX](http://oom.lt/SZKMCUSTSTM32FSTM32F98VCHX)

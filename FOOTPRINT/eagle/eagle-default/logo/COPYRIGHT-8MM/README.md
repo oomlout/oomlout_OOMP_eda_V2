@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZELCOPYRIGHT8 > logo : COPYRIGHT-8MM](#fzelcopyright8--logo--copyright-8mm)
+* [FZELCOPYR8 > logo : COPYRIGHT-8MM](#fzelcopyr8--logo--copyright-8mm)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZELCOPYRIGHT8 > logo : COPYRIGHT-8MM
+# FZELCOPYR8 > logo : COPYRIGHT-8MM
 
 - ID: FOOTPRINT-eagle-eagle-default-logo-COPYRIGHT-8MM
-- Hex ID: FZELCOPYRIGHT8
+- Hex ID: FZELCOPYR8
 - Name: logo : COPYRIGHT-8MM
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/logo/COPYRIGHT-8MM/
 - Description: logo : COPYRIGHT-8MM
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-logo-COPYRIGHT-8MM](http://oom.lt/FOOTPRINT-eagle-eagle-default-logo-COPYRIGHT-8MM)
-- Short Link: [http://oom.lt/FZELCOPYRIGHT8](http://oom.lt/FZELCOPYRIGHT8)
+- Short Link: [http://oom.lt/FZELCOPYR8](http://oom.lt/FZELCOPYR8)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|logo|
 |OOMP Index|oompIndex|COPYRIGHT-8MM|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-logo-COPYRIGHT-8MM|
-|Hex ID (short code)|hexID|FZELCOPYRIGHT8|
+|Hex ID (short code)|hexID|FZELCOPYR8|
 |name|name|logo : COPYRIGHT-8MM|
 ||||

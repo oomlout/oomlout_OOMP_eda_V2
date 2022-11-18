@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Converter_DCDC-ITX0512S-HR
 - Hex ID: SZKCONITX512SHR
 - Name: Converter_DCDC : ITX0512S-HR
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Converter_DCDC/ITX0512S-HR/
 - Description: Converter_DCDC : ITX0512S-HR
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-ITX0512S-HR](http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-ITX0512S-HR)
 - Short Link: [http://oom.lt/SZKCONITX512SHR](http://oom.lt/SZKCONITX512SHR)

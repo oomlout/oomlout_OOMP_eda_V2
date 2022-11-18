@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-linear-DFN8-4X4
 - Hex ID: FZELINEARDFN84X4
 - Name: linear : DFN8-4X4
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/linear/DFN8-4X4/
 - Description: linear : DFN8-4X4
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-linear-DFN8-4X4](http://oom.lt/FOOTPRINT-eagle-eagle-default-linear-DFN8-4X4)
 - Short Link: [http://oom.lt/FZELINEARDFN84X4](http://oom.lt/FZELINEARDFN84X4)

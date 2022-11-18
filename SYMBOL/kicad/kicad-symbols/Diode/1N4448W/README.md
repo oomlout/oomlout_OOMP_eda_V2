@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-1N4448W
 - Hex ID: SZKDIODE1N4448W
 - Name: Diode : 1N4448W
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/1N4448W/
 - Description: Diode : 1N4448W
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-1N4448W](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-1N4448W)
 - Short Link: [http://oom.lt/SZKDIODE1N4448W](http://oom.lt/SZKDIODE1N4448W)

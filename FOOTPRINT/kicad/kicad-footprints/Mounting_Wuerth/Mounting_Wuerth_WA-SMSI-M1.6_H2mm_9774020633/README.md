@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Mounting_Wuerth-Mounting_Wuerth_WA-SMSI-M1.6_H2mm_9774020633
 - Hex ID: FZKMONMONWASMSIM16H297742633
 - Name: Mounting_Wuerth : Mounting_Wuerth_WA-SMSI-M1.6_H2mm_9774020633
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Mounting_Wuerth/Mounting_Wuerth_WA-SMSI-M1.6_H2mm_9774020633/
 - Description: Mounting_Wuerth : Mounting_Wuerth_WA-SMSI-M1.6_H2mm_9774020633
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Mounting_Wuerth-Mounting_Wuerth_WA-SMSI-M1.6_H2mm_9774020633](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Mounting_Wuerth-Mounting_Wuerth_WA-SMSI-M1.6_H2mm_9774020633)
 - Short Link: [http://oom.lt/FZKMONMONWASMSIM16H297742633](http://oom.lt/FZKMONMONWASMSIM16H297742633)

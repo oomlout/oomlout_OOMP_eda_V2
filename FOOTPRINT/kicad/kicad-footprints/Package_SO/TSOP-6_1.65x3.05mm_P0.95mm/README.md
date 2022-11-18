@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_SO-TSOP-6_1.65x3.05mm_P0.95mm
 - Hex ID: FZKSOTS6165X35P95
 - Name: Package_SO : TSOP-6_1.65x3.05mm_P0.95mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SO/TSOP-6_1.65x3.05mm_P0.95mm/
 - Description: Package_SO : TSOP-6_1.65x3.05mm_P0.95mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SO-TSOP-6_1.65x3.05mm_P0.95mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SO-TSOP-6_1.65x3.05mm_P0.95mm)
 - Short Link: [http://oom.lt/FZKSOTS6165X35P95](http://oom.lt/FZKSOTS6165X35P95)

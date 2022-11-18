@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-TO-220-15_P2.54x2.54mm_StaggerOdd_Lead4.58mm_Vertical
 - Hex ID: FZKSOTTO2215P254X254STAGGERODDLEAD458F
 - Name: Package_TO_SOT_THT : TO-220-15_P2.54x2.54mm_StaggerOdd_Lead4.58mm_Vertical
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_THT/TO-220-15_P2.54x2.54mm_StaggerOdd_Lead4.58mm_Vertical/
 - Description: Package_TO_SOT_THT : TO-220-15_P2.54x2.54mm_StaggerOdd_Lead4.58mm_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-TO-220-15_P2.54x2.54mm_StaggerOdd_Lead4.58mm_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-TO-220-15_P2.54x2.54mm_StaggerOdd_Lead4.58mm_Vertical)
 - Short Link: [http://oom.lt/FZKSOTTO2215P254X254STAGGERODDLEAD458F](http://oom.lt/FZKSOTTO2215P254X254STAGGERODDLEAD458F)

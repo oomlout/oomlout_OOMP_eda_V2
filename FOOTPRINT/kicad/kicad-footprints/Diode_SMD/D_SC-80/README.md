@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_SC-80
 - Hex ID: FZKDDSC8
 - Name: Diode_SMD : D_SC-80
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Diode_SMD/D_SC-80/
 - Description: Diode_SMD : D_SC-80
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_SC-80](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_SC-80)
 - Short Link: [http://oom.lt/FZKDDSC8](http://oom.lt/FZKDDSC8)

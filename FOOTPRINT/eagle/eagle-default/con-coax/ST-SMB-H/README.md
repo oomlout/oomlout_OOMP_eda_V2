@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-coax-ST-SMB-H
 - Hex ID: FZECONCOAXSTSMBH
 - Name: con-coax : ST-SMB-H
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-coax/ST-SMB-H/
 - Description: con-coax : ST-SMB-H
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-coax-ST-SMB-H](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-coax-ST-SMB-H)
 - Short Link: [http://oom.lt/FZECONCOAXSTSMBH](http://oom.lt/FZECONCOAXSTSMBH)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Module-OPOS6UL_NANO
 - Hex ID: SZKMCUMOOPOS6ULNANO
 - Name: MCU_Module : OPOS6UL_NANO
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Module/OPOS6UL_NANO/
 - Description: MCU_Module : OPOS6UL_NANO
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Module-OPOS6UL_NANO](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Module-OPOS6UL_NANO)
 - Short Link: [http://oom.lt/SZKMCUMOOPOS6ULNANO](http://oom.lt/SZKMCUMOOPOS6ULNANO)

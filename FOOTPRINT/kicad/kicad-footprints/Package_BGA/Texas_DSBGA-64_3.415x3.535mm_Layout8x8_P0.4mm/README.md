@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_BGA-Texas_DSBGA-64_3.415x3.535mm_Layout8x8_P0.4mm
 - Hex ID: FZKBGATEXASDSBGA643415X3535LAYOUT8X8P4
 - Name: Package_BGA : Texas_DSBGA-64_3.415x3.535mm_Layout8x8_P0.4mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_BGA/Texas_DSBGA-64_3.415x3.535mm_Layout8x8_P0.4mm/
 - Description: Package_BGA : Texas_DSBGA-64_3.415x3.535mm_Layout8x8_P0.4mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_BGA-Texas_DSBGA-64_3.415x3.535mm_Layout8x8_P0.4mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_BGA-Texas_DSBGA-64_3.415x3.535mm_Layout8x8_P0.4mm)
 - Short Link: [http://oom.lt/FZKBGATEXASDSBGA643415X3535LAYOUT8X8P4](http://oom.lt/FZKBGATEXASDSBGA643415X3535LAYOUT8X8P4)

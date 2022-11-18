@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-SW_SPST_TL3305B
 - Hex ID: FZKBSWSPSTTL335B
 - Name: Button_Switch_SMD : SW_SPST_TL3305B
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Button_Switch_SMD/SW_SPST_TL3305B/
 - Description: Button_Switch_SMD : SW_SPST_TL3305B
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-SW_SPST_TL3305B](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-SW_SPST_TL3305B)
 - Short Link: [http://oom.lt/FZKBSWSPSTTL335B](http://oom.lt/FZKBSWSPSTTL335B)

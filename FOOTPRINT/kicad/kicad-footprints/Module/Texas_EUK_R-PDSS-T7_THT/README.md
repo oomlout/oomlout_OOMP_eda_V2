@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Module-Texas_EUK_R-PDSS-T7_THT
 - Hex ID: FZKMOTEXASEUKRPDSST7THT
 - Name: Module : Texas_EUK_R-PDSS-T7_THT
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Module/Texas_EUK_R-PDSS-T7_THT/
 - Description: Module : Texas_EUK_R-PDSS-T7_THT
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Module-Texas_EUK_R-PDSS-T7_THT](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Module-Texas_EUK_R-PDSS-T7_THT)
 - Short Link: [http://oom.lt/FZKMOTEXASEUKRPDSST7THT](http://oom.lt/FZKMOTEXASEUKRPDSST7THT)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Coils-MA5532-AE
 - Hex ID: FZSCOMA5532AE
 - Name: SparkFun-Coils : MA5532-AE
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Coils/MA5532-AE/
 - Description: SparkFun-Coils : MA5532-AE
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Coils-MA5532-AE](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Coils-MA5532-AE)
 - Short Link: [http://oom.lt/FZSCOMA5532AE](http://oom.lt/FZSCOMA5532AE)

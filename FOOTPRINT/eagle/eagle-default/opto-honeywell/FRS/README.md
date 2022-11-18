@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-opto-honeywell-FRS
 - Hex ID: FZEOPTOHONEYWELLFRS
 - Name: opto-honeywell : FRS
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/opto-honeywell/FRS/
 - Description: opto-honeywell : FRS
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-opto-honeywell-FRS](http://oom.lt/FOOTPRINT-eagle-eagle-default-opto-honeywell-FRS)
 - Short Link: [http://oom.lt/FZEOPTOHONEYWELLFRS](http://oom.lt/FZEOPTOHONEYWELLFRS)

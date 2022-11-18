@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-PMEG4050EP
 - Hex ID: SZKDIODEPMEG45EP
 - Name: Diode : PMEG4050EP
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/PMEG4050EP/
 - Description: Diode : PMEG4050EP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-PMEG4050EP](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-PMEG4050EP)
 - Short Link: [http://oom.lt/SZKDIODEPMEG45EP](http://oom.lt/SZKDIODEPMEG45EP)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_Pico-EZmate_78171-0005_1x05-1MP_P1.20mm_Vertical
 - Hex ID: FZKCNMXMXPICOEZMATE7817151X51MPP12F
 - Name: Connector_Molex : Molex_Pico-EZmate_78171-0005_1x05-1MP_P1.20mm_Vertical
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_Pico-EZmate_78171-0005_1x05-1MP_P1.20mm_Vertical/
 - Description: Connector_Molex : Molex_Pico-EZmate_78171-0005_1x05-1MP_P1.20mm_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_Pico-EZmate_78171-0005_1x05-1MP_P1.20mm_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_Pico-EZmate_78171-0005_1x05-1MP_P1.20mm_Vertical)
 - Short Link: [http://oom.lt/FZKCNMXMXPICOEZMATE7817151X51MPP12F](http://oom.lt/FZKCNMXMXPICOEZMATE7817151X51MPP12F)

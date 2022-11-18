@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Analog_DAC-ADS7830
 - Hex ID: SZKANALOGDACADS783
 - Name: Analog_DAC : ADS7830
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog_DAC/ADS7830/
 - Description: Analog_DAC : ADS7830
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_DAC-ADS7830](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_DAC-ADS7830)
 - Short Link: [http://oom.lt/SZKANALOGDACADS783](http://oom.lt/SZKANALOGDACADS783)

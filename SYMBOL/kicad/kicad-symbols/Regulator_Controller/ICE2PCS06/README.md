@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Controller-ICE2PCS06
 - Hex ID: SZKREGULATORCONTROLLERICE2PCS6
 - Name: Regulator_Controller : ICE2PCS06
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Controller/ICE2PCS06/
 - Description: Regulator_Controller : ICE2PCS06
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Controller-ICE2PCS06](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Controller-ICE2PCS06)
 - Short Link: [http://oom.lt/SZKREGULATORCONTROLLERICE2PCS6](http://oom.lt/SZKREGULATORCONTROLLERICE2PCS6)

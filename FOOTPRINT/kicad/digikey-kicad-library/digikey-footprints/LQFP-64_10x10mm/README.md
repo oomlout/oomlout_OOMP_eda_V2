@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-LQFP-64_10x10mm
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSLQFP641X1
 - Name: digikey-footprints : LQFP-64_10x10mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/LQFP-64_10x10mm/
 - Description: digikey-footprints : LQFP-64_10x10mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-LQFP-64_10x10mm](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-LQFP-64_10x10mm)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSLQFP641X1](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSLQFP641X1)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Device-Antenna_Chip
 - Hex ID: SZKDEVICEANTENNACHIP
 - Name: Device : Antenna_Chip
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/Antenna_Chip/
 - Description: Device : Antenna_Chip
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Antenna_Chip](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Antenna_Chip)
 - Short Link: [http://oom.lt/SZKDEVICEANTENNACHIP](http://oom.lt/SZKDEVICEANTENNACHIP)

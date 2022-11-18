@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-texas-HTSSOP44DCP
 - Hex ID: FZETEXASHTSS44DCP
 - Name: texas : HTSSOP44DCP
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/texas/HTSSOP44DCP/
 - Description: texas : HTSSOP44DCP
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-texas-HTSSOP44DCP](http://oom.lt/FOOTPRINT-eagle-eagle-default-texas-HTSSOP44DCP)
 - Short Link: [http://oom.lt/FZETEXASHTSS44DCP](http://oom.lt/FZETEXASHTSS44DCP)

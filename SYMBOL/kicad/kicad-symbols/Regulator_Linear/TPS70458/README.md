@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-TPS70458
 - Hex ID: SZKREGULATORLINEARTPS7458
 - Name: Regulator_Linear : TPS70458
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/TPS70458/
 - Description: Regulator_Linear : TPS70458
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-TPS70458](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-TPS70458)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARTPS7458](http://oom.lt/SZKREGULATORLINEARTPS7458)

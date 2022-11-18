@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-smd-ipc-TS-003
 - Hex ID: FZESMIPCTS3
 - Name: smd-ipc : TS-003
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/smd-ipc/TS-003/
 - Description: smd-ipc : TS-003
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-TS-003](http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-TS-003)
 - Short Link: [http://oom.lt/FZESMIPCTS3](http://oom.lt/FZESMIPCTS3)

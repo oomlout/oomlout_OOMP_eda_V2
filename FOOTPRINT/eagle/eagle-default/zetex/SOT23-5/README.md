@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-zetex-SOT23-5
 - Hex ID: FZEZETEXSOT235
 - Name: zetex : SOT23-5
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/zetex/SOT23-5/
 - Description: zetex : SOT23-5
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-zetex-SOT23-5](http://oom.lt/FOOTPRINT-eagle-eagle-default-zetex-SOT23-5)
 - Short Link: [http://oom.lt/FZEZETEXSOT235](http://oom.lt/FZEZETEXSOT235)

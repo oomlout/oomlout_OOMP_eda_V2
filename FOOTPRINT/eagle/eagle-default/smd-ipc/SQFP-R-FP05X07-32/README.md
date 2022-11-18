@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-smd-ipc-SQFP-R-FP05X07-32
 - Hex ID: FZESMIPCSQFPRFP5X732
 - Name: smd-ipc : SQFP-R-FP05X07-32
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/smd-ipc/SQFP-R-FP05X07-32/
 - Description: smd-ipc : SQFP-R-FP05X07-32
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-SQFP-R-FP05X07-32](http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-SQFP-R-FP05X07-32)
 - Short Link: [http://oom.lt/FZESMIPCSQFPRFP5X732](http://oom.lt/FZESMIPCSQFPRFP5X732)

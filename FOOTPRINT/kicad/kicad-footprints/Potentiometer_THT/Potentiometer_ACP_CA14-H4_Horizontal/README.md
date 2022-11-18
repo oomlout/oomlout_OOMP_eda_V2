@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Potentiometer_THT-Potentiometer_ACP_CA14-H4_Horizontal
 - Hex ID: FZKPPOTACPCA14H4H
 - Name: Potentiometer_THT : Potentiometer_ACP_CA14-H4_Horizontal
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Potentiometer_THT/Potentiometer_ACP_CA14-H4_Horizontal/
 - Description: Potentiometer_THT : Potentiometer_ACP_CA14-H4_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Potentiometer_THT-Potentiometer_ACP_CA14-H4_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Potentiometer_THT-Potentiometer_ACP_CA14-H4_Horizontal)
 - Short Link: [http://oom.lt/FZKPPOTACPCA14H4H](http://oom.lt/FZKPPOTACPCA14H4H)

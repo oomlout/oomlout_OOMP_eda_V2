@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB3_A_Receptacle_Wuerth_692122030100
 - Hex ID: FZKCNUU3ARECEPTACLEWUERTH69212231
 - Name: Connector_USB : USB3_A_Receptacle_Wuerth_692122030100
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB3_A_Receptacle_Wuerth_692122030100/
 - Description: Connector_USB : USB3_A_Receptacle_Wuerth_692122030100
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB3_A_Receptacle_Wuerth_692122030100](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB3_A_Receptacle_Wuerth_692122030100)
 - Short Link: [http://oom.lt/FZKCNUU3ARECEPTACLEWUERTH69212231](http://oom.lt/FZKCNUU3ARECEPTACLEWUERTH69212231)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0805-X-O750-67-R85750A
 - Hex ID: FZOOMPKOOMPPRESE85XO7567R8575A
 - Name: oomlout_OOMP_parts : RESE-0805-X-O750-67-R85750A
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/RESE-0805-X-O750-67-R85750A/
 - Description: oomlout_OOMP_parts : RESE-0805-X-O750-67-R85750A
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0805-X-O750-67-R85750A](http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0805-X-O750-67-R85750A)
 - Short Link: [http://oom.lt/FZOOMPKOOMPPRESE85XO7567R8575A](http://oom.lt/FZOOMPKOOMPPRESE85XO7567R8575A)

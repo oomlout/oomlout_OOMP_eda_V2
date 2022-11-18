@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-wago255-233-536
 - Hex ID: FZECONWAGO255233536
 - Name: con-wago255 : 233-536
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-wago255/233-536/
 - Description: con-wago255 : 233-536
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-wago255-233-536](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-wago255-233-536)
 - Short Link: [http://oom.lt/FZECONWAGO255233536](http://oom.lt/FZECONWAGO255233536)

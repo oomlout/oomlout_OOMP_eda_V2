@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_VH_B2P3-VH_1x02_P7.92mm_Vertical
 - Hex ID: FZKCNJSTJSTVHB2P3VH1X2P792F
 - Name: Connector_JST : JST_VH_B2P3-VH_1x02_P7.92mm_Vertical
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_VH_B2P3-VH_1x02_P7.92mm_Vertical/
 - Description: Connector_JST : JST_VH_B2P3-VH_1x02_P7.92mm_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_VH_B2P3-VH_1x02_P7.92mm_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_VH_B2P3-VH_1x02_P7.92mm_Vertical)
 - Short Link: [http://oom.lt/FZKCNJSTJSTVHB2P3VH1X2P792F](http://oom.lt/FZKCNJSTJSTVHB2P3VH1X2P792F)

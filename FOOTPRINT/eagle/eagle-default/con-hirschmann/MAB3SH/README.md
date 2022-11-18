@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-hirschmann-MAB3SH
 - Hex ID: FZECONHIRSCHMANNMAB3SH
 - Name: con-hirschmann : MAB3SH
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-hirschmann/MAB3SH/
 - Description: con-hirschmann : MAB3SH
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-hirschmann-MAB3SH](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-hirschmann-MAB3SH)
 - Short Link: [http://oom.lt/FZECONHIRSCHMANNMAB3SH](http://oom.lt/FZECONHIRSCHMANNMAB3SH)

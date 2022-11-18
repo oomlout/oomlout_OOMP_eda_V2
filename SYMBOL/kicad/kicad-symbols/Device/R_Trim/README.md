@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Device-R_Trim
 - Hex ID: SZKDEVICERTRIM
 - Name: Device : R_Trim
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/R_Trim/
 - Description: Device : R_Trim
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-R_Trim](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-R_Trim)
 - Short Link: [http://oom.lt/SZKDEVICERTRIM](http://oom.lt/SZKDEVICERTRIM)

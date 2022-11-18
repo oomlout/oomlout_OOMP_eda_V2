@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-TerminalBlock_RND-TerminalBlock_RND_205-00243_1x04_P10.16mm_Horizontal
 - Hex ID: FZKTBRNDTBRND252431X4P116H
 - Name: TerminalBlock_RND : TerminalBlock_RND_205-00243_1x04_P10.16mm_Horizontal
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/TerminalBlock_RND/TerminalBlock_RND_205-00243_1x04_P10.16mm_Horizontal/
 - Description: TerminalBlock_RND : TerminalBlock_RND_205-00243_1x04_P10.16mm_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-TerminalBlock_RND-TerminalBlock_RND_205-00243_1x04_P10.16mm_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-TerminalBlock_RND-TerminalBlock_RND_205-00243_1x04_P10.16mm_Horizontal)
 - Short Link: [http://oom.lt/FZKTBRNDTBRND252431X4P116H](http://oom.lt/FZKTBRNDTBRND252431X4P116H)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-BM08B-SRSS-TB
 - Hex ID: FZSSPARKFUNCNSBM8BSRSSTB
 - Name: SparkFun-Connectors : BM08B-SRSS-TB
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Connectors/BM08B-SRSS-TB/
 - Description: SparkFun-Connectors : BM08B-SRSS-TB
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-BM08B-SRSS-TB](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-BM08B-SRSS-TB)
 - Short Link: [http://oom.lt/FZSSPARKFUNCNSBM8BSRSSTB](http://oom.lt/FZSSPARKFUNCNSBM8BSRSSTB)

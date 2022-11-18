@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Graphic-SYM_Flash_Large
 - Hex ID: SZKGRAPHICSYMFLASHL
 - Name: Graphic : SYM_Flash_Large
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Graphic/SYM_Flash_Large/
 - Description: Graphic : SYM_Flash_Large
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Graphic-SYM_Flash_Large](http://oom.lt/SYMBOL-kicad-kicad-symbols-Graphic-SYM_Flash_Large)
 - Short Link: [http://oom.lt/SZKGRAPHICSYMFLASHL](http://oom.lt/SZKGRAPHICSYMFLASHL)

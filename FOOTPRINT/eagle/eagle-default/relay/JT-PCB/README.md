@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-relay-JT-PCB
 - Hex ID: FZERELAYJTPCB
 - Name: relay : JT-PCB
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/relay/JT-PCB/
 - Description: relay : JT-PCB
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-JT-PCB](http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-JT-PCB)
 - Short Link: [http://oom.lt/FZERELAYJTPCB](http://oom.lt/FZERELAYJTPCB)

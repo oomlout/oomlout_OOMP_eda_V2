@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-NX5032
 - Hex ID: FZANX532
 - Name: adafruit : NX5032
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/NX5032/
 - Description: adafruit : NX5032
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-NX5032](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-NX5032)
 - Short Link: [http://oom.lt/FZANX532](http://oom.lt/FZANX532)

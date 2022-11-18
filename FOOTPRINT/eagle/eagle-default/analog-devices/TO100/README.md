@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-analog-devices-TO100
 - Hex ID: FZEANALOGDEVICESTO1
 - Name: analog-devices : TO100
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/analog-devices/TO100/
 - Description: analog-devices : TO100
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-analog-devices-TO100](http://oom.lt/FOOTPRINT-eagle-eagle-default-analog-devices-TO100)
 - Short Link: [http://oom.lt/FZEANALOGDEVICESTO1](http://oom.lt/FZEANALOGDEVICESTO1)

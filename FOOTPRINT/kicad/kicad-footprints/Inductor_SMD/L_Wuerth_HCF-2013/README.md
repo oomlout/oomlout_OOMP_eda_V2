@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Wuerth_HCF-2013
 - Hex ID: FZKINLWUERTHHCF213
 - Name: Inductor_SMD : L_Wuerth_HCF-2013
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Wuerth_HCF-2013/
 - Description: Inductor_SMD : L_Wuerth_HCF-2013
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Wuerth_HCF-2013](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Wuerth_HCF-2013)
 - Short Link: [http://oom.lt/FZKINLWUERTHHCF213](http://oom.lt/FZKINLWUERTHHCF213)

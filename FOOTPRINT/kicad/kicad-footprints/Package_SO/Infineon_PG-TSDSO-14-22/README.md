@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_SO-Infineon_PG-TSDSO-14-22
 - Hex ID: FZKSOINFINEONPGTSDSO1422
 - Name: Package_SO : Infineon_PG-TSDSO-14-22
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SO/Infineon_PG-TSDSO-14-22/
 - Description: Package_SO : Infineon_PG-TSDSO-14-22
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SO-Infineon_PG-TSDSO-14-22](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SO-Infineon_PG-TSDSO-14-22)
 - Short Link: [http://oom.lt/FZKSOINFINEONPGTSDSO1422](http://oom.lt/FZKSOINFINEONPGTSDSO1422)

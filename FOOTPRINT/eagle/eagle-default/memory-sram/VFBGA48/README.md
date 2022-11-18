@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-memory-sram-VFBGA48
 - Hex ID: FZEMEMORYSRAMVFBGA48
 - Name: memory-sram : VFBGA48
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/memory-sram/VFBGA48/
 - Description: memory-sram : VFBGA48
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-memory-sram-VFBGA48](http://oom.lt/FOOTPRINT-eagle-eagle-default-memory-sram-VFBGA48)
 - Short Link: [http://oom.lt/FZEMEMORYSRAMVFBGA48](http://oom.lt/FZEMEMORYSRAMVFBGA48)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-NCV8114BSN120T1G
 - Hex ID: SZKREGULATORLINEARNCV8114BSN12T1G
 - Name: Regulator_Linear : NCV8114BSN120T1G
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/NCV8114BSN120T1G/
 - Description: Regulator_Linear : NCV8114BSN120T1G
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-NCV8114BSN120T1G](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-NCV8114BSN120T1G)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARNCV8114BSN12T1G](http://oom.lt/SZKREGULATORLINEARNCV8114BSN12T1G)

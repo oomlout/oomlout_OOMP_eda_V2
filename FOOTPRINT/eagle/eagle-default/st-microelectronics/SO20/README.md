@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-st-microelectronics-SO20
 - Hex ID: FZESTMELECTRONICSSO2
 - Name: st-microelectronics : SO20
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/st-microelectronics/SO20/
 - Description: st-microelectronics : SO20
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-st-microelectronics-SO20](http://oom.lt/FOOTPRINT-eagle-eagle-default-st-microelectronics-SO20)
 - Short Link: [http://oom.lt/FZESTMELECTRONICSSO2](http://oom.lt/FZESTMELECTRONICSSO2)

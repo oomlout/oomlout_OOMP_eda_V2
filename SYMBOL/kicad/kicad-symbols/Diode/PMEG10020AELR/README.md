@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-PMEG10020AELR
 - Hex ID: SZKDIODEPMEG12AELR
 - Name: Diode : PMEG10020AELR
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/PMEG10020AELR/
 - Description: Diode : PMEG10020AELR
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-PMEG10020AELR](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-PMEG10020AELR)
 - Short Link: [http://oom.lt/SZKDIODEPMEG12AELR](http://oom.lt/SZKDIODEPMEG12AELR)

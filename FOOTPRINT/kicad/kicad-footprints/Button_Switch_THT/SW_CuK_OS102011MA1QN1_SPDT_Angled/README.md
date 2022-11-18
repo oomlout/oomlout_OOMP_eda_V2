@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Button_Switch_THT-SW_CuK_OS102011MA1QN1_SPDT_Angled
 - Hex ID: FZKBSWCUKOS1211MA1QN1SPDTANGL
 - Name: Button_Switch_THT : SW_CuK_OS102011MA1QN1_SPDT_Angled
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/SW_CuK_OS102011MA1QN1_SPDT_Angled/
 - Description: Button_Switch_THT : SW_CuK_OS102011MA1QN1_SPDT_Angled
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Button_Switch_THT-SW_CuK_OS102011MA1QN1_SPDT_Angled](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Button_Switch_THT-SW_CuK_OS102011MA1QN1_SPDT_Angled)
 - Short Link: [http://oom.lt/FZKBSWCUKOS1211MA1QN1SPDTANGL](http://oom.lt/FZKBSWCUKOS1211MA1QN1SPDTANGL)

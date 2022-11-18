@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Isolator-ISO7341C
 - Hex ID: SZKISOLATORISO7341C
 - Name: Isolator : ISO7341C
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Isolator/ISO7341C/
 - Description: Isolator : ISO7341C
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-ISO7341C](http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-ISO7341C)
 - Short Link: [http://oom.lt/SZKISOLATORISO7341C](http://oom.lt/SZKISOLATORISO7341C)

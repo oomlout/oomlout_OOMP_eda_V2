@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-DFN-10-1EP_3x3mm_P0.5mm_EP1.55x2.48mm
 - Hex ID: FZKDFNDFN11EP3X3P5EP155X248
 - Name: Package_DFN_QFN : DFN-10-1EP_3x3mm_P0.5mm_EP1.55x2.48mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/DFN-10-1EP_3x3mm_P0.5mm_EP1.55x2.48mm/
 - Description: Package_DFN_QFN : DFN-10-1EP_3x3mm_P0.5mm_EP1.55x2.48mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-DFN-10-1EP_3x3mm_P0.5mm_EP1.55x2.48mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-DFN-10-1EP_3x3mm_P0.5mm_EP1.55x2.48mm)
 - Short Link: [http://oom.lt/FZKDFNDFN11EP3X3P5EP155X248](http://oom.lt/FZKDFNDFN11EP3X3P5EP155X248)

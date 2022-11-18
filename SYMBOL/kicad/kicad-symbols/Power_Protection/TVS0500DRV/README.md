@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Power_Protection-TVS0500DRV
 - Hex ID: SZKPOWERPROTECTIONTVS5DRV
 - Name: Power_Protection : TVS0500DRV
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Power_Protection/TVS0500DRV/
 - Description: Power_Protection : TVS0500DRV
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Protection-TVS0500DRV](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Protection-TVS0500DRV)
 - Short Link: [http://oom.lt/SZKPOWERPROTECTIONTVS5DRV](http://oom.lt/SZKPOWERPROTECTIONTVS5DRV)

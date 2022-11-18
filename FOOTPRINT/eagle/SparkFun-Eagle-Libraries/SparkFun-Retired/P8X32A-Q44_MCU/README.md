@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-P8X32A-Q44_MCU
 - Hex ID: FZSRTP8X32AQ44MCU
 - Name: SparkFun-Retired : P8X32A-Q44_MCU
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Retired/P8X32A-Q44_MCU/
 - Description: SparkFun-Retired : P8X32A-Q44_MCU
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-P8X32A-Q44_MCU](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-P8X32A-Q44_MCU)
 - Short Link: [http://oom.lt/FZSRTP8X32AQ44MCU](http://oom.lt/FZSRTP8X32AQ44MCU)

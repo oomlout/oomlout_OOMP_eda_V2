@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Driver_FET-IR2108
 - Hex ID: SZKDRIVERFETIR218
 - Name: Driver_FET : IR2108
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Driver_FET/IR2108/
 - Description: Driver_FET : IR2108
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-IR2108](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-IR2108)
 - Short Link: [http://oom.lt/SZKDRIVERFETIR218](http://oom.lt/SZKDRIVERFETIR218)

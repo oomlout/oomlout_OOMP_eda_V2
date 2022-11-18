@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-v-reg-TO3-79
 - Hex ID: FZEVREGTO379
 - Name: v-reg : TO3-79
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/v-reg/TO3-79/
 - Description: v-reg : TO3-79
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-v-reg-TO3-79](http://oom.lt/FOOTPRINT-eagle-eagle-default-v-reg-TO3-79)
 - Short Link: [http://oom.lt/FZEVREGTO379](http://oom.lt/FZEVREGTO379)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-infineon-PG-SOT-223
 - Hex ID: FZEINFINEONPGSOT223
 - Name: infineon : PG-SOT-223
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/infineon/PG-SOT-223/
 - Description: infineon : PG-SOT-223
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-infineon-PG-SOT-223](http://oom.lt/FOOTPRINT-eagle-eagle-default-infineon-PG-SOT-223)
 - Short Link: [http://oom.lt/FZEINFINEONPGSOT223](http://oom.lt/FZEINFINEONPGSOT223)

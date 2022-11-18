@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-dc-dc-converter-SIP3
 - Hex ID: FZEDCDCCONVERTERSIP3
 - Name: dc-dc-converter : SIP3
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/dc-dc-converter/SIP3/
 - Description: dc-dc-converter : SIP3
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-dc-dc-converter-SIP3](http://oom.lt/FOOTPRINT-eagle-eagle-default-dc-dc-converter-SIP3)
 - Short Link: [http://oom.lt/FZEDCDCCONVERTERSIP3](http://oom.lt/FZEDCDCCONVERTERSIP3)

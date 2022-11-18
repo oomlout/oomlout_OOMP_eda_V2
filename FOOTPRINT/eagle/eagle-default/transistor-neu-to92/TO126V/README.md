@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-transistor-neu-to92-TO126V
 - Hex ID: FZETRANSISTORNEUTO92TO126V
 - Name: transistor-neu-to92 : TO126V
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/transistor-neu-to92/TO126V/
 - Description: transistor-neu-to92 : TO126V
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-neu-to92-TO126V](http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-neu-to92-TO126V)
 - Short Link: [http://oom.lt/FZETRANSISTORNEUTO92TO126V](http://oom.lt/FZETRANSISTORNEUTO92TO126V)

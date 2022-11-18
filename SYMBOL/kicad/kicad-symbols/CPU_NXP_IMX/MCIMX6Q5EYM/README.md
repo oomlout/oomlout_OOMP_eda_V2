@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-CPU_NXP_IMX-MCIMX6Q5EYM
 - Hex ID: SZKCPUNXPIMXMCIMX6Q5EYM
 - Name: CPU_NXP_IMX : MCIMX6Q5EYM
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/CPU_NXP_IMX/MCIMX6Q5EYM/
 - Description: CPU_NXP_IMX : MCIMX6Q5EYM
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-CPU_NXP_IMX-MCIMX6Q5EYM](http://oom.lt/SYMBOL-kicad-kicad-symbols-CPU_NXP_IMX-MCIMX6Q5EYM)
 - Short Link: [http://oom.lt/SZKCPUNXPIMXMCIMX6Q5EYM](http://oom.lt/SZKCPUNXPIMXMCIMX6Q5EYM)

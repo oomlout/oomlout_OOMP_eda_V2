@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Device-Lamp_Neon
 - Hex ID: SZKDEVICELAMPNEON
 - Name: Device : Lamp_Neon
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/Lamp_Neon/
 - Description: Device : Lamp_Neon
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Lamp_Neon](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Lamp_Neon)
 - Short Link: [http://oom.lt/SZKDEVICELAMPNEON](http://oom.lt/SZKDEVICELAMPNEON)

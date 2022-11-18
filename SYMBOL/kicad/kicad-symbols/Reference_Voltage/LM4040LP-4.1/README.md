@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Reference_Voltage-LM4040LP-4.1
 - Hex ID: SZKREFERENCEVOLTAGELM44LP41
 - Name: Reference_Voltage : LM4040LP-4.1
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Reference_Voltage/LM4040LP-4.1/
 - Description: Reference_Voltage : LM4040LP-4.1
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Voltage-LM4040LP-4.1](http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Voltage-LM4040LP-4.1)
 - Short Link: [http://oom.lt/SZKREFERENCEVOLTAGELM44LP41](http://oom.lt/SZKREFERENCEVOLTAGELM44LP41)

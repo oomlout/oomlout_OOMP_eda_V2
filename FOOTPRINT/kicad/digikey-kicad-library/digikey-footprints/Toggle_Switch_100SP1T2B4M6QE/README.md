@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Toggle_Switch_100SP1T2B4M6QE
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSTOGGLESW1SP1T2B4M6QE
 - Name: digikey-footprints : Toggle_Switch_100SP1T2B4M6QE
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Toggle_Switch_100SP1T2B4M6QE/
 - Description: digikey-footprints : Toggle_Switch_100SP1T2B4M6QE
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Toggle_Switch_100SP1T2B4M6QE](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Toggle_Switch_100SP1T2B4M6QE)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSTOGGLESW1SP1T2B4M6QE](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSTOGGLESW1SP1T2B4M6QE)

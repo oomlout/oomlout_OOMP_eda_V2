@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Motor-Motor_Servo_JR
 - Hex ID: SZKMOTORMOTORSERVOJR
 - Name: Motor : Motor_Servo_JR
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Motor/Motor_Servo_JR/
 - Description: Motor : Motor_Servo_JR
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Motor-Motor_Servo_JR](http://oom.lt/SYMBOL-kicad-kicad-symbols-Motor-Motor_Servo_JR)
 - Short Link: [http://oom.lt/SZKMOTORMOTORSERVOJR](http://oom.lt/SZKMOTORMOTORSERVOJR)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Memory_RAM-AS6C4008-55PCN
 - Hex ID: SZKMEMORYRAMAS6C4855PCN
 - Name: Memory_RAM : AS6C4008-55PCN
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Memory_RAM/AS6C4008-55PCN/
 - Description: Memory_RAM : AS6C4008-55PCN
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_RAM-AS6C4008-55PCN](http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_RAM-AS6C4008-55PCN)
 - Short Link: [http://oom.lt/SZKMEMORYRAMAS6C4855PCN](http://oom.lt/SZKMEMORYRAMAS6C4855PCN)

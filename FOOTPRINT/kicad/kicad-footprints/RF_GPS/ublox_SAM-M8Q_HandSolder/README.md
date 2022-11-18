@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKGPSUBLOXSAMM8QHANDSOLDER > RF_GPS : ublox_SAM-M8Q_HandSolder](#fzkgpsubloxsamm8qhandsolder--rf_gps--ublox_sam-m8q_handsolder)
+* [FZKGPSUBLOXSAMM8QHSOLDER > RF_GPS : ublox_SAM-M8Q_HandSolder](#fzkgpsubloxsamm8qhsolder--rf_gps--ublox_sam-m8q_handsolder)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKGPSUBLOXSAMM8QHANDSOLDER > RF_GPS : ublox_SAM-M8Q_HandSolder
+# FZKGPSUBLOXSAMM8QHSOLDER > RF_GPS : ublox_SAM-M8Q_HandSolder
 
 - ID: FOOTPRINT-kicad-kicad-footprints-RF_GPS-ublox_SAM-M8Q_HandSolder
-- Hex ID: FZKGPSUBLOXSAMM8QHANDSOLDER
+- Hex ID: FZKGPSUBLOXSAMM8QHSOLDER
 - Name: RF_GPS : ublox_SAM-M8Q_HandSolder
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/RF_GPS/ublox_SAM-M8Q_HandSolder/
 - Description: RF_GPS : ublox_SAM-M8Q_HandSolder
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_GPS-ublox_SAM-M8Q_HandSolder](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_GPS-ublox_SAM-M8Q_HandSolder)
-- Short Link: [http://oom.lt/FZKGPSUBLOXSAMM8QHANDSOLDER](http://oom.lt/FZKGPSUBLOXSAMM8QHANDSOLDER)
+- Short Link: [http://oom.lt/FZKGPSUBLOXSAMM8QHSOLDER](http://oom.lt/FZKGPSUBLOXSAMM8QHSOLDER)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|RF_GPS|
 |OOMP Index|oompIndex|ublox_SAM-M8Q_HandSolder|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-RF_GPS-ublox_SAM-M8Q_HandSolder|
-|Hex ID (short code)|hexID|FZKGPSUBLOXSAMM8QHANDSOLDER|
+|Hex ID (short code)|hexID|FZKGPSUBLOXSAMM8QHSOLDER|
 |name|name|RF_GPS : ublox_SAM-M8Q_HandSolder|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'ublox_SAM-M8Q_HandSolder'</td><td> 'description'</td></tr><tr><td> 'GPS Module</td><td> 15.5x15.5x6.3mm</td><td> https</td></tr><tr><td>//www.u-blox.com/sites/default/files/SAM-M8Q_HardwareIntegrationManual_%28UBX-16018358%29.pdf'</td><td> 'tags'</td></tr><tr><td> 'ublox SAM-M8Q'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/RF_GPS.3dshapes/ublox_SAM-M8Q.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

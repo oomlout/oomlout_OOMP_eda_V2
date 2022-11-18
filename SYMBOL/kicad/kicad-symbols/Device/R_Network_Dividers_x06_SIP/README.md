@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Device-R_Network_Dividers_x06_SIP
 - Hex ID: SZKDEVICERNETWORKDIVIDERSX6SIP
 - Name: Device : R_Network_Dividers_x06_SIP
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/R_Network_Dividers_x06_SIP/
 - Description: Device : R_Network_Dividers_x06_SIP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-R_Network_Dividers_x06_SIP](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-R_Network_Dividers_x06_SIP)
 - Short Link: [http://oom.lt/SZKDEVICERNETWORKDIVIDERSX6SIP](http://oom.lt/SZKDEVICERNETWORKDIVIDERSX6SIP)

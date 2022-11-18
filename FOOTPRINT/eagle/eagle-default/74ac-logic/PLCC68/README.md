@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-74ac-logic-PLCC68
 - Hex ID: FZE74ACLOGICPLCC68
 - Name: 74ac-logic : PLCC68
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/74ac-logic/PLCC68/
 - Description: 74ac-logic : PLCC68
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-74ac-logic-PLCC68](http://oom.lt/FOOTPRINT-eagle-eagle-default-74ac-logic-PLCC68)
 - Short Link: [http://oom.lt/FZE74ACLOGICPLCC68](http://oom.lt/FZE74ACLOGICPLCC68)

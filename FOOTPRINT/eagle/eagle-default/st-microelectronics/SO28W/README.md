@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-st-microelectronics-SO28W
 - Hex ID: FZESTMELECTRONICSSO28W
 - Name: st-microelectronics : SO28W
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/st-microelectronics/SO28W/
 - Description: st-microelectronics : SO28W
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-st-microelectronics-SO28W](http://oom.lt/FOOTPRINT-eagle-eagle-default-st-microelectronics-SO28W)
 - Short Link: [http://oom.lt/FZESTMELECTRONICSSO28W](http://oom.lt/FZESTMELECTRONICSSO28W)

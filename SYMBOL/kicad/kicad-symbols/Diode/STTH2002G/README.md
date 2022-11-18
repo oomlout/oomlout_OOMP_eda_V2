@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-STTH2002G
 - Hex ID: SZKDIODESTTH22G
 - Name: Diode : STTH2002G
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/STTH2002G/
 - Description: Diode : STTH2002G
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-STTH2002G](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-STTH2002G)
 - Short Link: [http://oom.lt/SZKDIODESTTH22G](http://oom.lt/SZKDIODESTTH22G)

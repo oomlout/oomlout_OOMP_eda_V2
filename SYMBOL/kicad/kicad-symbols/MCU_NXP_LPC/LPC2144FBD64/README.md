@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_NXP_LPC-LPC2144FBD64
 - Hex ID: SZKMCUNXPLPCLPC2144FBD64
 - Name: MCU_NXP_LPC : LPC2144FBD64
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_NXP_LPC/LPC2144FBD64/
 - Description: MCU_NXP_LPC : LPC2144FBD64
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_NXP_LPC-LPC2144FBD64](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_NXP_LPC-LPC2144FBD64)
 - Short Link: [http://oom.lt/SZKMCUNXPLPCLPC2144FBD64](http://oom.lt/SZKMCUNXPLPCLPC2144FBD64)

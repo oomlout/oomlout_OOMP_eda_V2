@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-CPU_NXP_6800-MC68A02
 - Hex ID: SZKCPUNXP68MC68A2
 - Name: CPU_NXP_6800 : MC68A02
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/CPU_NXP_6800/MC68A02/
 - Description: CPU_NXP_6800 : MC68A02
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-CPU_NXP_6800-MC68A02](http://oom.lt/SYMBOL-kicad-kicad-symbols-CPU_NXP_6800-MC68A02)
 - Short Link: [http://oom.lt/SZKCPUNXP68MC68A2](http://oom.lt/SZKCPUNXP68MC68A2)

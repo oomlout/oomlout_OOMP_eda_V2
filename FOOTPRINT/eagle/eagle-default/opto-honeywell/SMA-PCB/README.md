@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-opto-honeywell-SMA-PCB
 - Hex ID: FZEOPTOHONEYWELLSPCB
 - Name: opto-honeywell : SMA-PCB
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/opto-honeywell/SMA-PCB/
 - Description: opto-honeywell : SMA-PCB
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-opto-honeywell-SMA-PCB](http://oom.lt/FOOTPRINT-eagle-eagle-default-opto-honeywell-SMA-PCB)
 - Short Link: [http://oom.lt/FZEOPTOHONEYWELLSPCB](http://oom.lt/FZEOPTOHONEYWELLSPCB)

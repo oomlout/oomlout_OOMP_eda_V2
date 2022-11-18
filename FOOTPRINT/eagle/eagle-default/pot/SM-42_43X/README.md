@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-pot-SM-42_43X
 - Hex ID: FZEPOTSM4243X
 - Name: pot : SM-42_43X
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/pot/SM-42_43X/
 - Description: pot : SM-42_43X
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-pot-SM-42_43X](http://oom.lt/FOOTPRINT-eagle-eagle-default-pot-SM-42_43X)
 - Short Link: [http://oom.lt/FZEPOTSM4243X](http://oom.lt/FZEPOTSM4243X)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-molex-KK-156-4
 - Hex ID: FZECONMXKK1564
 - Name: con-molex : KK-156-4
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-molex/KK-156-4/
 - Description: con-molex : KK-156-4
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-molex-KK-156-4](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-molex-KK-156-4)
 - Short Link: [http://oom.lt/FZECONMXKK1564](http://oom.lt/FZECONMXKK1564)

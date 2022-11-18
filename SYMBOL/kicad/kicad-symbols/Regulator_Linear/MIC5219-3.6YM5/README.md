@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-MIC5219-3.6YM5
 - Hex ID: SZKREGULATORLINEARMIC521936YM5
 - Name: Regulator_Linear : MIC5219-3.6YM5
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/MIC5219-3.6YM5/
 - Description: Regulator_Linear : MIC5219-3.6YM5
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-MIC5219-3.6YM5](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-MIC5219-3.6YM5)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARMIC521936YM5](http://oom.lt/SZKREGULATORLINEARMIC521936YM5)

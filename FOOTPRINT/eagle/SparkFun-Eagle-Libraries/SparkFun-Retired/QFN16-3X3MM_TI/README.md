@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-QFN16-3X3MM_TI
 - Hex ID: FZSRTQFN163X3TI
 - Name: SparkFun-Retired : QFN16-3X3MM_TI
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Retired/QFN16-3X3MM_TI/
 - Description: SparkFun-Retired : QFN16-3X3MM_TI
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-QFN16-3X3MM_TI](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-QFN16-3X3MM_TI)
 - Short Link: [http://oom.lt/FZSRTQFN163X3TI](http://oom.lt/FZSRTQFN163X3TI)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_UART-ADM1491EBR
 - Hex ID: SZKINTERFACEUARTADM1491EBR
 - Name: Interface_UART : ADM1491EBR
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_UART/ADM1491EBR/
 - Description: Interface_UART : ADM1491EBR
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_UART-ADM1491EBR](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_UART-ADM1491EBR)
 - Short Link: [http://oom.lt/SZKINTERFACEUARTADM1491EBR](http://oom.lt/SZKINTERFACEUARTADM1491EBR)

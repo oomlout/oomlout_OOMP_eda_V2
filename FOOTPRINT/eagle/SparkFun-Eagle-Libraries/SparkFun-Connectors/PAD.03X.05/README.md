@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZSSPARKFUNCNSPAD3X5 > SparkFun-Connectors : PAD.03X.05](#fzssparkfuncnspad3x5--sparkfun-connectors--pad03x05)
+* [FZSSPARKFUNCNSP3X5 > SparkFun-Connectors : PAD.03X.05](#fzssparkfuncnsp3x5--sparkfun-connectors--pad03x05)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZSSPARKFUNCNSPAD3X5 > SparkFun-Connectors : PAD.03X.05
+# FZSSPARKFUNCNSP3X5 > SparkFun-Connectors : PAD.03X.05
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-PAD.03X.05
-- Hex ID: FZSSPARKFUNCNSPAD3X5
+- Hex ID: FZSSPARKFUNCNSP3X5
 - Name: SparkFun-Connectors : PAD.03X.05
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Connectors/PAD.03X.05/
 - Description: SparkFun-Connectors : PAD.03X.05
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-PAD.03X.05](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-PAD.03X.05)
-- Short Link: [http://oom.lt/FZSSPARKFUNCNSPAD3X5](http://oom.lt/FZSSPARKFUNCNSPAD3X5)
+- Short Link: [http://oom.lt/FZSSPARKFUNCNSP3X5](http://oom.lt/FZSSPARKFUNCNSP3X5)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|SparkFun-Connectors|
 |OOMP Index|oompIndex|PAD.03X.05|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-PAD.03X.05|
-|Hex ID (short code)|hexID|FZSSPARKFUNCNSPAD3X5|
+|Hex ID (short code)|hexID|FZSSPARKFUNCNSP3X5|
 |name|name|SparkFun-Connectors : PAD.03X.05|
 ||||

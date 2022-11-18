@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-BC118
 - Hex ID: FZSRFBC118
 - Name: SparkFun-RF : BC118
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-RF/BC118/
 - Description: SparkFun-RF : BC118
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-BC118](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-BC118)
 - Short Link: [http://oom.lt/FZSRFBC118](http://oom.lt/FZSRFBC118)

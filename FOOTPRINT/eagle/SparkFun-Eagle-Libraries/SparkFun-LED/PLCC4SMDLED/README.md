@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-LED-PLCC4SMDLED
 - Hex ID: FZSLPLCC4SML
 - Name: SparkFun-LED : PLCC4SMDLED
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-LED/PLCC4SMDLED/
 - Description: SparkFun-LED : PLCC4SMDLED
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-LED-PLCC4SMDLED](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-LED-PLCC4SMDLED)
 - Short Link: [http://oom.lt/FZSLPLCC4SML](http://oom.lt/FZSLPLCC4SML)

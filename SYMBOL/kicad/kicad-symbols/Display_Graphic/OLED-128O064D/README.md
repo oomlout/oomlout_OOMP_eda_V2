@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Display_Graphic-OLED-128O064D
 - Hex ID: SZKDIGRAPHICOL128O64D
 - Name: Display_Graphic : OLED-128O064D
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Display_Graphic/OLED-128O064D/
 - Description: Display_Graphic : OLED-128O064D
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Graphic-OLED-128O064D](http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Graphic-OLED-128O064D)
 - Short Link: [http://oom.lt/SZKDIGRAPHICOL128O64D](http://oom.lt/SZKDIGRAPHICOL128O64D)

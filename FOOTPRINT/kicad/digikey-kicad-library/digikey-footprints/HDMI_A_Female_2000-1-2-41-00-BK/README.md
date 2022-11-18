@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-HDMI_A_Female_2000-1-2-41-00-BK
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSHDMIAF21241BK
 - Name: digikey-footprints : HDMI_A_Female_2000-1-2-41-00-BK
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/HDMI_A_Female_2000-1-2-41-00-BK/
 - Description: digikey-footprints : HDMI_A_Female_2000-1-2-41-00-BK
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-HDMI_A_Female_2000-1-2-41-00-BK](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-HDMI_A_Female_2000-1-2-41-00-BK)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSHDMIAF21241BK](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSHDMIAF21241BK)

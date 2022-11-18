@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-MAX17572
 - Hex ID: SZKREGULATORSWINGMAX17572
 - Name: Regulator_Switching : MAX17572
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/MAX17572/
 - Description: Regulator_Switching : MAX17572
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-MAX17572](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-MAX17572)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGMAX17572](http://oom.lt/SZKREGULATORSWINGMAX17572)

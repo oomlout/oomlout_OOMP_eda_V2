@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Current-INA196
 - Hex ID: SZKAMPLIFIERCURRENTINA196
 - Name: Amplifier_Current : INA196
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Current/INA196/
 - Description: Amplifier_Current : INA196
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Current-INA196](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Current-INA196)
 - Short Link: [http://oom.lt/SZKAMPLIFIERCURRENTINA196](http://oom.lt/SZKAMPLIFIERCURRENTINA196)

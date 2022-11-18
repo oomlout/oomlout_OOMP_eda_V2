@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-coax-A1944
 - Hex ID: FZECONCOAXA1944
 - Name: con-coax : A1944
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-coax/A1944/
 - Description: con-coax : A1944
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-coax-A1944](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-coax-A1944)
 - Short Link: [http://oom.lt/FZECONCOAXA1944](http://oom.lt/FZECONCOAXA1944)

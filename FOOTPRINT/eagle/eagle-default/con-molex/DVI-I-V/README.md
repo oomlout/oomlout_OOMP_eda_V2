@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-molex-DVI-I-V
 - Hex ID: FZECONMXDVIIV
 - Name: con-molex : DVI-I-V
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-molex/DVI-I-V/
 - Description: con-molex : DVI-I-V
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-molex-DVI-I-V](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-molex-DVI-I-V)
 - Short Link: [http://oom.lt/FZECONMXDVIIV](http://oom.lt/FZECONMXDVIIV)

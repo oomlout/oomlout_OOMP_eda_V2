@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_CAN_LIN-TJA1049T
 - Hex ID: SZKINTERFACECANLINTJA149T
 - Name: Interface_CAN_LIN : TJA1049T
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_CAN_LIN/TJA1049T/
 - Description: Interface_CAN_LIN : TJA1049T
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_CAN_LIN-TJA1049T](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_CAN_LIN-TJA1049T)
 - Short Link: [http://oom.lt/SZKINTERFACECANLINTJA149T](http://oom.lt/SZKINTERFACECANLINTJA149T)

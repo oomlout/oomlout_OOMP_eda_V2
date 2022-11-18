@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-smd-ipc-M2309
 - Hex ID: FZESMIPCM239
 - Name: smd-ipc : M2309
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/smd-ipc/M2309/
 - Description: smd-ipc : M2309
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-M2309](http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-M2309)
 - Short Link: [http://oom.lt/FZESMIPCM239](http://oom.lt/FZESMIPCM239)

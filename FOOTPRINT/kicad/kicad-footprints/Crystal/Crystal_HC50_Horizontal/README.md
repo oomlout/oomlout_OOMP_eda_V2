@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_HC50_Horizontal
 - Hex ID: FZKXXHC5H
 - Name: Crystal : Crystal_HC50_Horizontal
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_HC50_Horizontal/
 - Description: Crystal : Crystal_HC50_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_HC50_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_HC50_Horizontal)
 - Short Link: [http://oom.lt/FZKXXHC5H](http://oom.lt/FZKXXHC5H)

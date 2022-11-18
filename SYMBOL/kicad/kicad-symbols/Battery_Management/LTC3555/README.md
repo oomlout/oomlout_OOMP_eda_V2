@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Battery_Management-LTC3555
 - Hex ID: SZKBATMANAGEMENTLTC3555
 - Name: Battery_Management : LTC3555
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Battery_Management/LTC3555/
 - Description: Battery_Management : LTC3555
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Battery_Management-LTC3555](http://oom.lt/SYMBOL-kicad-kicad-symbols-Battery_Management-LTC3555)
 - Short Link: [http://oom.lt/SZKBATMANAGEMENTLTC3555](http://oom.lt/SZKBATMANAGEMENTLTC3555)

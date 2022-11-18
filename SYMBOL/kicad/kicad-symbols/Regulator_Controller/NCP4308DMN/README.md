@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Controller-NCP4308DMN
 - Hex ID: SZKREGULATORCONTROLLERNCP438DMN
 - Name: Regulator_Controller : NCP4308DMN
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Controller/NCP4308DMN/
 - Description: Regulator_Controller : NCP4308DMN
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Controller-NCP4308DMN](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Controller-NCP4308DMN)
 - Short Link: [http://oom.lt/SZKREGULATORCONTROLLERNCP438DMN](http://oom.lt/SZKREGULATORCONTROLLERNCP438DMN)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Analog_ADC-MCP3426-xSN
 - Hex ID: SZKANALOGADCMCP3426XSN
 - Name: Analog_ADC : MCP3426-xSN
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog_ADC/MCP3426-xSN/
 - Description: Analog_ADC : MCP3426-xSN
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-MCP3426-xSN](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-MCP3426-xSN)
 - Short Link: [http://oom.lt/SZKANALOGADCMCP3426XSN](http://oom.lt/SZKANALOGADCMCP3426XSN)

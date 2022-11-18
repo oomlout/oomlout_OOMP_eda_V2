@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-linear-K04A
 - Hex ID: FZELINEARK4A
 - Name: linear : K04A
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/linear/K04A/
 - Description: linear : K04A
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-linear-K04A](http://oom.lt/FOOTPRINT-eagle-eagle-default-linear-K04A)
 - Short Link: [http://oom.lt/FZELINEARK4A](http://oom.lt/FZELINEARK4A)

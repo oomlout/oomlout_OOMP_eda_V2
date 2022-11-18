@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-TO-253-4
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSTO2534
 - Name: digikey-footprints : TO-253-4
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/TO-253-4/
 - Description: digikey-footprints : TO-253-4
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-TO-253-4](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-TO-253-4)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSTO2534](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSTO2534)

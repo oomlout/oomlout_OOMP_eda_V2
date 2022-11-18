@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-TPS70451
 - Hex ID: SZKREGULATORLINEARTPS7451
 - Name: Regulator_Linear : TPS70451
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/TPS70451/
 - Description: Regulator_Linear : TPS70451
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-TPS70451](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-TPS70451)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARTPS7451](http://oom.lt/SZKREGULATORLINEARTPS7451)

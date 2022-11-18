@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Transformer_THT-Transformer_Coilcraft_Q4434-B_Rhombus-T1311
 - Hex ID: FZKTRTRCOILCRAFTQ4434BRHOMBUST1311
 - Name: Transformer_THT : Transformer_Coilcraft_Q4434-B_Rhombus-T1311
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Transformer_THT/Transformer_Coilcraft_Q4434-B_Rhombus-T1311/
 - Description: Transformer_THT : Transformer_Coilcraft_Q4434-B_Rhombus-T1311
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Transformer_THT-Transformer_Coilcraft_Q4434-B_Rhombus-T1311](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Transformer_THT-Transformer_Coilcraft_Q4434-B_Rhombus-T1311)
 - Short Link: [http://oom.lt/FZKTRTRCOILCRAFTQ4434BRHOMBUST1311](http://oom.lt/FZKTRTRCOILCRAFTQ4434BRHOMBUST1311)

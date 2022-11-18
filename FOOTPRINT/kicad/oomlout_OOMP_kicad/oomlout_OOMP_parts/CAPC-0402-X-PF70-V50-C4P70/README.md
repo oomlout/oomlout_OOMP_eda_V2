@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0402-X-PF70-V50-C4P70
 - Hex ID: FZOOMPKOOMPPCAPC42XPF7V5C4P7
 - Name: oomlout_OOMP_parts : CAPC-0402-X-PF70-V50-C4P70
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/CAPC-0402-X-PF70-V50-C4P70/
 - Description: oomlout_OOMP_parts : CAPC-0402-X-PF70-V50-C4P70
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0402-X-PF70-V50-C4P70](http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0402-X-PF70-V50-C4P70)
 - Short Link: [http://oom.lt/FZOOMPKOOMPPCAPC42XPF7V5C4P7](http://oom.lt/FZOOMPKOOMPPCAPC42XPF7V5C4P7)

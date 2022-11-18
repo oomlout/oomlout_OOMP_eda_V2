@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F2-STM32F215RETx
 - Hex ID: SZKMCUSTSTM32F2STM32F215RETX
 - Name: MCU_ST_STM32F2 : STM32F215RETx
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32F2/STM32F215RETx/
 - Description: MCU_ST_STM32F2 : STM32F215RETx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F2-STM32F215RETx](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F2-STM32F215RETx)
 - Short Link: [http://oom.lt/SZKMCUSTSTM32F2STM32F215RETX](http://oom.lt/SZKMCUSTSTM32F2STM32F215RETX)

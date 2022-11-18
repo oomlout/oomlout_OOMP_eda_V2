@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Connector-RJ41_Shielded
 - Hex ID: SZKCNRJ41SHED
 - Name: Connector : RJ41_Shielded
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector/RJ41_Shielded/
 - Description: Connector : RJ41_Shielded
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-RJ41_Shielded](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-RJ41_Shielded)
 - Short Link: [http://oom.lt/SZKCNRJ41SHED](http://oom.lt/SZKCNRJ41SHED)

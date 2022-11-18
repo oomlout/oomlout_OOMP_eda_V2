@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-led-OSTAR_6-LEW3A
 - Hex ID: FZELOSTAR6LEW3A
 - Name: led : OSTAR_6-LEW3A
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/led/OSTAR_6-LEW3A/
 - Description: led : OSTAR_6-LEW3A
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-led-OSTAR_6-LEW3A](http://oom.lt/FOOTPRINT-eagle-eagle-default-led-OSTAR_6-LEW3A)
 - Short Link: [http://oom.lt/FZELOSTAR6LEW3A](http://oom.lt/FZELOSTAR6LEW3A)

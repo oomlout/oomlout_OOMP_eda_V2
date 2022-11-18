@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZEBURRBROWNSS24DB > burr-brown : SSOP24DB](#fzeburrbrownss24db--burr-brown--ssop24db)
+* [FZEBURRBRNSS24DB > burr-brown : SSOP24DB](#fzeburrbrnss24db--burr-brown--ssop24db)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZEBURRBROWNSS24DB > burr-brown : SSOP24DB
+# FZEBURRBRNSS24DB > burr-brown : SSOP24DB
 
 - ID: FOOTPRINT-eagle-eagle-default-burr-brown-SSOP24DB
-- Hex ID: FZEBURRBROWNSS24DB
+- Hex ID: FZEBURRBRNSS24DB
 - Name: burr-brown : SSOP24DB
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/burr-brown/SSOP24DB/
 - Description: burr-brown : SSOP24DB
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-burr-brown-SSOP24DB](http://oom.lt/FOOTPRINT-eagle-eagle-default-burr-brown-SSOP24DB)
-- Short Link: [http://oom.lt/FZEBURRBROWNSS24DB](http://oom.lt/FZEBURRBROWNSS24DB)
+- Short Link: [http://oom.lt/FZEBURRBRNSS24DB](http://oom.lt/FZEBURRBRNSS24DB)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|burr-brown|
 |OOMP Index|oompIndex|SSOP24DB|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-burr-brown-SSOP24DB|
-|Hex ID (short code)|hexID|FZEBURRBROWNSS24DB|
+|Hex ID (short code)|hexID|FZEBURRBRNSS24DB|
 |name|name|burr-brown : SSOP24DB|
 ||||
 

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Audio-LME49600
 - Hex ID: SZKAMPLIFIERAUDIOLME496
 - Name: Amplifier_Audio : LME49600
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Audio/LME49600/
 - Description: Amplifier_Audio : LME49600
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Audio-LME49600](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Audio-LME49600)
 - Short Link: [http://oom.lt/SZKAMPLIFIERAUDIOLME496](http://oom.lt/SZKAMPLIFIERAUDIOLME496)

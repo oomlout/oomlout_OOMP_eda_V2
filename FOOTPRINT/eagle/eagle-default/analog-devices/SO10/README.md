@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-analog-devices-SO10
 - Hex ID: FZEANALOGDEVICESSO1
 - Name: analog-devices : SO10
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/analog-devices/SO10/
 - Description: analog-devices : SO10
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-analog-devices-SO10](http://oom.lt/FOOTPRINT-eagle-eagle-default-analog-devices-SO10)
 - Short Link: [http://oom.lt/FZEANALOGDEVICESSO1](http://oom.lt/FZEANALOGDEVICESSO1)

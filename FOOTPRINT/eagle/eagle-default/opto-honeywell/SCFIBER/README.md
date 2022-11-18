@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-opto-honeywell-SCFIBER
 - Hex ID: FZEOPTOHONEYWELLSCFIBER
 - Name: opto-honeywell : SCFIBER
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/opto-honeywell/SCFIBER/
 - Description: opto-honeywell : SCFIBER
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-opto-honeywell-SCFIBER](http://oom.lt/FOOTPRINT-eagle-eagle-default-opto-honeywell-SCFIBER)
 - Short Link: [http://oom.lt/FZEOPTOHONEYWELLSCFIBER](http://oom.lt/FZEOPTOHONEYWELLSCFIBER)

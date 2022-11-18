@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-power-GNDA
 - Hex ID: SZKPOWERGNDA
 - Name: power : GNDA
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/power/GNDA/
 - Description: power : GNDA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-power-GNDA](http://oom.lt/SYMBOL-kicad-kicad-symbols-power-GNDA)
 - Short Link: [http://oom.lt/SZKPOWERGNDA](http://oom.lt/SZKPOWERGNDA)

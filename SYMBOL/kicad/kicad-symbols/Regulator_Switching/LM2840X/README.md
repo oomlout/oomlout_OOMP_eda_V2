@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-LM2840X
 - Hex ID: SZKREGULATORSWINGLM284X
 - Name: Regulator_Switching : LM2840X
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/LM2840X/
 - Description: Regulator_Switching : LM2840X
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LM2840X](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LM2840X)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGLM284X](http://oom.lt/SZKREGULATORSWINGLM284X)

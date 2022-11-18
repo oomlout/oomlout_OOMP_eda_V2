@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SOT-23-8
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSSOT238
 - Name: digikey-footprints : SOT-23-8
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/SOT-23-8/
 - Description: digikey-footprints : SOT-23-8
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SOT-23-8](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SOT-23-8)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSSOT238](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSSOT238)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Switches-SWITCH_SPST_SMD_A
 - Hex ID: FZSWSWSPSTSMA
 - Name: SparkFun-Switches : SWITCH_SPST_SMD_A
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Switches/SWITCH_SPST_SMD_A/
 - Description: SparkFun-Switches : SWITCH_SPST_SMD_A
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Switches-SWITCH_SPST_SMD_A](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Switches-SWITCH_SPST_SMD_A)
 - Short Link: [http://oom.lt/FZSWSWSPSTSMA](http://oom.lt/FZSWSWSPSTSMA)

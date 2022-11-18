@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_USB-FT232RL
 - Hex ID: SZKINTERFACEUFT232RL
 - Name: Interface_USB : FT232RL
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_USB/FT232RL/
 - Description: Interface_USB : FT232RL
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_USB-FT232RL](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_USB-FT232RL)
 - Short Link: [http://oom.lt/SZKINTERFACEUFT232RL](http://oom.lt/SZKINTERFACEUFT232RL)

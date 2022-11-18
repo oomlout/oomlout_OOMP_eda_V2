@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-pc-IBM_8AB
 - Hex ID: FZECONPCIBM8AB
 - Name: con-pc : IBM_8AB
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-pc/IBM_8AB/
 - Description: con-pc : IBM_8AB
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-pc-IBM_8AB](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-pc-IBM_8AB)
 - Short Link: [http://oom.lt/FZECONPCIBM8AB](http://oom.lt/FZECONPCIBM8AB)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_XA_S06B-XASK-1_1x06_P2.50mm_Horizontal
 - Hex ID: FZKCNJSTJSTXAS6BXASK11X6P25H
 - Name: Connector_JST : JST_XA_S06B-XASK-1_1x06_P2.50mm_Horizontal
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_XA_S06B-XASK-1_1x06_P2.50mm_Horizontal/
 - Description: Connector_JST : JST_XA_S06B-XASK-1_1x06_P2.50mm_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_XA_S06B-XASK-1_1x06_P2.50mm_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_XA_S06B-XASK-1_1x06_P2.50mm_Horizontal)
 - Short Link: [http://oom.lt/FZKCNJSTJSTXAS6BXASK11X6P25H](http://oom.lt/FZKCNJSTJSTXAS6BXASK11X6P25H)

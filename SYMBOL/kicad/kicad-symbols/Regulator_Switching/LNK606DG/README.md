@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-LNK606DG
 - Hex ID: SZKREGULATORSWINGLNK66DG
 - Name: Regulator_Switching : LNK606DG
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/LNK606DG/
 - Description: Regulator_Switching : LNK606DG
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LNK606DG](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LNK606DG)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGLNK66DG](http://oom.lt/SZKREGULATORSWINGLNK66DG)

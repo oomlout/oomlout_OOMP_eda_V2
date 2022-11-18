@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Fuse-Fuse_Littelfuse_395Series
 - Hex ID: FZKFUFULITTELFU395SERIES
 - Name: Fuse : Fuse_Littelfuse_395Series
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Fuse/Fuse_Littelfuse_395Series/
 - Description: Fuse : Fuse_Littelfuse_395Series
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Fuse-Fuse_Littelfuse_395Series](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Fuse-Fuse_Littelfuse_395Series)
 - Short Link: [http://oom.lt/FZKFUFULITTELFU395SERIES](http://oom.lt/FZKFUFULITTELFU395SERIES)

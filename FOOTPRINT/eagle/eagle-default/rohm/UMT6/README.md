@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-rohm-UMT6
 - Hex ID: FZEROHMUMT6
 - Name: rohm : UMT6
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/rohm/UMT6/
 - Description: rohm : UMT6
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-rohm-UMT6](http://oom.lt/FOOTPRINT-eagle-eagle-default-rohm-UMT6)
 - Short Link: [http://oom.lt/FZEROHMUMT6](http://oom.lt/FZEROHMUMT6)

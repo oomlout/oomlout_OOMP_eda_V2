@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_BGA-BGA-484_23.0x23.0mm_Layout22x22_P1.0mm
 - Hex ID: FZKBGABGA48423X23LAYOUT22X22P1
 - Name: Package_BGA : BGA-484_23.0x23.0mm_Layout22x22_P1.0mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_BGA/BGA-484_23.0x23.0mm_Layout22x22_P1.0mm/
 - Description: Package_BGA : BGA-484_23.0x23.0mm_Layout22x22_P1.0mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_BGA-BGA-484_23.0x23.0mm_Layout22x22_P1.0mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_BGA-BGA-484_23.0x23.0mm_Layout22x22_P1.0mm)
 - Short Link: [http://oom.lt/FZKBGABGA48423X23LAYOUT22X22P1](http://oom.lt/FZKBGABGA48423X23LAYOUT22X22P1)

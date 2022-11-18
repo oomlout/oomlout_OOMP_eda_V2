@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LMC6062
 - Hex ID: SZKAMPLIFIEROPERATIONALLMC662
 - Name: Amplifier_Operational : LMC6062
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/LMC6062/
 - Description: Amplifier_Operational : LMC6062
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LMC6062](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LMC6062)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALLMC662](http://oom.lt/SZKAMPLIFIEROPERATIONALLMC662)

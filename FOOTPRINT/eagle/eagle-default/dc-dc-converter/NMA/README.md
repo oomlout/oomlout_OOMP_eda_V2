@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-dc-dc-converter-NMA
 - Hex ID: FZEDCDCCONVERTERNMA
 - Name: dc-dc-converter : NMA
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/dc-dc-converter/NMA/
 - Description: dc-dc-converter : NMA
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-dc-dc-converter-NMA](http://oom.lt/FOOTPRINT-eagle-eagle-default-dc-dc-converter-NMA)
 - Short Link: [http://oom.lt/FZEDCDCCONVERTERNMA](http://oom.lt/FZEDCDCCONVERTERNMA)

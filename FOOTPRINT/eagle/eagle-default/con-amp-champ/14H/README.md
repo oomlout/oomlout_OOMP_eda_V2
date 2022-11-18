@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-amp-champ-14H
 - Hex ID: FZECONAMPCHAMP14H
 - Name: con-amp-champ : 14H
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-amp-champ/14H/
 - Description: con-amp-champ : 14H
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-amp-champ-14H](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-amp-champ-14H)
 - Short Link: [http://oom.lt/FZECONAMPCHAMP14H](http://oom.lt/FZECONAMPCHAMP14H)

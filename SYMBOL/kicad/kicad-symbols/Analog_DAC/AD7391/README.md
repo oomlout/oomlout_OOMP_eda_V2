@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Analog_DAC-AD7391
 - Hex ID: SZKANALOGDACAD7391
 - Name: Analog_DAC : AD7391
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog_DAC/AD7391/
 - Description: Analog_DAC : AD7391
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_DAC-AD7391](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_DAC-AD7391)
 - Short Link: [http://oom.lt/SZKANALOGDACAD7391](http://oom.lt/SZKANALOGDACAD7391)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-SM6T33A
 - Hex ID: SZKDIODESM6T33A
 - Name: Diode : SM6T33A
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/SM6T33A/
 - Description: Diode : SM6T33A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-SM6T33A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-SM6T33A)
 - Short Link: [http://oom.lt/SZKDIODESM6T33A](http://oom.lt/SZKDIODESM6T33A)

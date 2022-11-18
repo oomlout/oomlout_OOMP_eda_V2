@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEREFPACKAGES3DTO17P155X256 > ref-packages-3d : TO170P1055X205-6](#fzerefpackages3dto17p155x256--ref-packages-3d--to170p1055x205-6)
+* [FZEREFPS3DTO17P155X256 > ref-packages-3d : TO170P1055X205-6](#fzerefps3dto17p155x256--ref-packages-3d--to170p1055x205-6)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEREFPACKAGES3DTO17P155X256 > ref-packages-3d : TO170P1055X205-6
+# FZEREFPS3DTO17P155X256 > ref-packages-3d : TO170P1055X205-6
 
 - ID: FOOTPRINT-eagle-eagle-default-ref-packages-3d-TO170P1055X205-6
-- Hex ID: FZEREFPACKAGES3DTO17P155X256
+- Hex ID: FZEREFPS3DTO17P155X256
 - Name: ref-packages-3d : TO170P1055X205-6
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ref-packages-3d/TO170P1055X205-6/
 - Description: ref-packages-3d : TO170P1055X205-6
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-3d-TO170P1055X205-6](http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-3d-TO170P1055X205-6)
-- Short Link: [http://oom.lt/FZEREFPACKAGES3DTO17P155X256](http://oom.lt/FZEREFPACKAGES3DTO17P155X256)
+- Short Link: [http://oom.lt/FZEREFPS3DTO17P155X256](http://oom.lt/FZEREFPS3DTO17P155X256)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|ref-packages-3d|
 |OOMP Index|oompIndex|TO170P1055X205-6|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-ref-packages-3d-TO170P1055X205-6|
-|Hex ID (short code)|hexID|FZEREFPACKAGES3DTO17P155X256|
+|Hex ID (short code)|hexID|FZEREFPS3DTO17P155X256|
 |name|name|ref-packages-3d : TO170P1055X205-6|
 ||||

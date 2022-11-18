@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-diode-SOD110-R
 - Hex ID: FZEDIODESOD11R
 - Name: diode : SOD110-R
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/diode/SOD110-R/
 - Description: diode : SOD110-R
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-diode-SOD110-R](http://oom.lt/FOOTPRINT-eagle-eagle-default-diode-SOD110-R)
 - Short Link: [http://oom.lt/FZEDIODESOD11R](http://oom.lt/FZEDIODESOD11R)

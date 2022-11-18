@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-frames-DINA4_L
 - Hex ID: FZEFRAMESDINA4L
 - Name: frames : DINA4_L
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/frames/DINA4_L/
 - Description: frames : DINA4_L
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-frames-DINA4_L](http://oom.lt/FOOTPRINT-eagle-eagle-default-frames-DINA4_L)
 - Short Link: [http://oom.lt/FZEFRAMESDINA4L](http://oom.lt/FZEFRAMESDINA4L)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_BGA-UFBGA-32_4.0x4.0mm_Layout6x6_P0.5mm
 - Hex ID: FZKBGAUFBGA324X4LAYOUT6X6P5
 - Name: Package_BGA : UFBGA-32_4.0x4.0mm_Layout6x6_P0.5mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_BGA/UFBGA-32_4.0x4.0mm_Layout6x6_P0.5mm/
 - Description: Package_BGA : UFBGA-32_4.0x4.0mm_Layout6x6_P0.5mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_BGA-UFBGA-32_4.0x4.0mm_Layout6x6_P0.5mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_BGA-UFBGA-32_4.0x4.0mm_Layout6x6_P0.5mm)
 - Short Link: [http://oom.lt/FZKBGAUFBGA324X4LAYOUT6X6P5](http://oom.lt/FZKBGAUFBGA324X4LAYOUT6X6P5)

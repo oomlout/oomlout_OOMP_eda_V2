@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Power_Management-LMG5200
 - Hex ID: SZKPOWERMANAGEMENTLMG52
 - Name: Power_Management : LMG5200
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Power_Management/LMG5200/
 - Description: Power_Management : LMG5200
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-LMG5200](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-LMG5200)
 - Short Link: [http://oom.lt/SZKPOWERMANAGEMENTLMG52](http://oom.lt/SZKPOWERMANAGEMENTLMG52)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Memory-SOT23-5
 - Hex ID: FZSIMSOT235
 - Name: SparkFun-IC-Memory : SOT23-5
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-IC-Memory/SOT23-5/
 - Description: SparkFun-IC-Memory : SOT23-5
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Memory-SOT23-5](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Memory-SOT23-5)
 - Short Link: [http://oom.lt/FZSIMSOT235](http://oom.lt/FZSIMSOT235)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_RJ-RJ45_Amphenol_RJMG1BD3B8K1ANR
 - Hex ID: FZKCNRJRJ45AMPHENOLRJMG1BD3B8K1ANR
 - Name: Connector_RJ : RJ45_Amphenol_RJMG1BD3B8K1ANR
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_RJ/RJ45_Amphenol_RJMG1BD3B8K1ANR/
 - Description: Connector_RJ : RJ45_Amphenol_RJMG1BD3B8K1ANR
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_RJ-RJ45_Amphenol_RJMG1BD3B8K1ANR](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_RJ-RJ45_Amphenol_RJMG1BD3B8K1ANR)
 - Short Link: [http://oom.lt/FZKCNRJRJ45AMPHENOLRJMG1BD3B8K1ANR](http://oom.lt/FZKCNRJRJ45AMPHENOLRJMG1BD3B8K1ANR)

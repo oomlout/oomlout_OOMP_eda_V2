@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Analog_Switch-DG411xUE
 - Hex ID: SZKANALOGSWDG411XUE
 - Name: Analog_Switch : DG411xUE
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog_Switch/DG411xUE/
 - Description: Analog_Switch : DG411xUE
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_Switch-DG411xUE](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_Switch-DG411xUE)
 - Short Link: [http://oom.lt/SZKANALOGSWDG411XUE](http://oom.lt/SZKANALOGSWDG411XUE)

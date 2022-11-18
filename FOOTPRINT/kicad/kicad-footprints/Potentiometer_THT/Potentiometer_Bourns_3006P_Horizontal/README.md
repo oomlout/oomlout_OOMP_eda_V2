@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Potentiometer_THT-Potentiometer_Bourns_3006P_Horizontal
 - Hex ID: FZKPPOTBOURNS36PH
 - Name: Potentiometer_THT : Potentiometer_Bourns_3006P_Horizontal
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Potentiometer_THT/Potentiometer_Bourns_3006P_Horizontal/
 - Description: Potentiometer_THT : Potentiometer_Bourns_3006P_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Potentiometer_THT-Potentiometer_Bourns_3006P_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Potentiometer_THT-Potentiometer_Bourns_3006P_Horizontal)
 - Short Link: [http://oom.lt/FZKPPOTBOURNS36PH](http://oom.lt/FZKPPOTBOURNS36PH)

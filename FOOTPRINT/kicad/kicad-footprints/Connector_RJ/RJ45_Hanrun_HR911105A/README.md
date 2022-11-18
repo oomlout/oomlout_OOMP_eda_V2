@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_RJ-RJ45_Hanrun_HR911105A
 - Hex ID: FZKCNRJRJ45HANRUNHR91115A
 - Name: Connector_RJ : RJ45_Hanrun_HR911105A
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_RJ/RJ45_Hanrun_HR911105A/
 - Description: Connector_RJ : RJ45_Hanrun_HR911105A
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_RJ-RJ45_Hanrun_HR911105A](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_RJ-RJ45_Hanrun_HR911105A)
 - Short Link: [http://oom.lt/FZKCNRJRJ45HANRUNHR91115A](http://oom.lt/FZKCNRJRJ45HANRUNHR91115A)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Taiyo-Yuden_MD-4040
 - Hex ID: FZKINLTAIYOYUDENMD44
 - Name: Inductor_SMD : L_Taiyo-Yuden_MD-4040
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Taiyo-Yuden_MD-4040/
 - Description: Inductor_SMD : L_Taiyo-Yuden_MD-4040
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Taiyo-Yuden_MD-4040](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Taiyo-Yuden_MD-4040)
 - Short Link: [http://oom.lt/FZKINLTAIYOYUDENMD44](http://oom.lt/FZKINLTAIYOYUDENMD44)

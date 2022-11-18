@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-LED-SFH4641-SHORT2
 - Hex ID: FZSLSFH4641SHORT2
 - Name: SparkFun-LED : SFH4641-SHORT2
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-LED/SFH4641-SHORT2/
 - Description: SparkFun-LED : SFH4641-SHORT2
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-LED-SFH4641-SHORT2](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-LED-SFH4641-SHORT2)
 - Short Link: [http://oom.lt/FZSLSFH4641SHORT2](http://oom.lt/FZSLSFH4641SHORT2)

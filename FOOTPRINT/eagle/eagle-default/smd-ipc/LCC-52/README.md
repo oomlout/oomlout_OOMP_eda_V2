@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-smd-ipc-LCC-52
 - Hex ID: FZESMIPCLCC52
 - Name: smd-ipc : LCC-52
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/smd-ipc/LCC-52/
 - Description: smd-ipc : LCC-52
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-LCC-52](http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-LCC-52)
 - Short Link: [http://oom.lt/FZESMIPCLCC52](http://oom.lt/FZESMIPCLCC52)

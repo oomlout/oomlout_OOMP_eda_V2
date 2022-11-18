@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Jumper-SolderJumper_3_Bridged12
 - Hex ID: SZKJSOLDERJ3BRIDGED12
 - Name: Jumper : SolderJumper_3_Bridged12
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Jumper/SolderJumper_3_Bridged12/
 - Description: Jumper : SolderJumper_3_Bridged12
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Jumper-SolderJumper_3_Bridged12](http://oom.lt/SYMBOL-kicad-kicad-symbols-Jumper-SolderJumper_3_Bridged12)
 - Short Link: [http://oom.lt/SZKJSOLDERJ3BRIDGED12](http://oom.lt/SZKJSOLDERJ3BRIDGED12)

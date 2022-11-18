@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0402-X-PF20-V50-C4P20-C1554
 - Hex ID: FZOOMPKJLCCAPC42XPF2V5C4P2C1554
 - Name: oomlout_OOMP_JLCC_Basic : CAPC-0402-X-PF20-V50-C4P20-C1554
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_JLCC_Basic/CAPC-0402-X-PF20-V50-C4P20-C1554/
 - Description: oomlout_OOMP_JLCC_Basic : CAPC-0402-X-PF20-V50-C4P20-C1554
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0402-X-PF20-V50-C4P20-C1554](http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0402-X-PF20-V50-C4P20-C1554)
 - Short Link: [http://oom.lt/FZOOMPKJLCCAPC42XPF2V5C4P2C1554](http://oom.lt/FZOOMPKJLCCAPC42XPF2V5C4P2C1554)

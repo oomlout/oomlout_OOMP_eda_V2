@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-relay-HC2-PS-K
 - Hex ID: FZERELAYHC2PSK
 - Name: relay : HC2-PS-K
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/relay/HC2-PS-K/
 - Description: relay : HC2-PS-K
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-HC2-PS-K](http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-HC2-PS-K)
 - Short Link: [http://oom.lt/FZERELAYHC2PSK](http://oom.lt/FZERELAYHC2PSK)

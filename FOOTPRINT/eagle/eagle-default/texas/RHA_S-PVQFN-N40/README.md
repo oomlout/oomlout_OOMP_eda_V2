@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-texas-RHA_S-PVQFN-N40
 - Hex ID: FZETEXASRHASPVQFNN4
 - Name: texas : RHA_S-PVQFN-N40
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/texas/RHA_S-PVQFN-N40/
 - Description: texas : RHA_S-PVQFN-N40
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-texas-RHA_S-PVQFN-N40](http://oom.lt/FOOTPRINT-eagle-eagle-default-texas-RHA_S-PVQFN-N40)
 - Short Link: [http://oom.lt/FZETEXASRHASPVQFNN4](http://oom.lt/FZETEXASRHASPVQFNN4)

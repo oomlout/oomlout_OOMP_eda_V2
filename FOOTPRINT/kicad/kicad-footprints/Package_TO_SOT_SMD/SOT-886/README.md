@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-886
 - Hex ID: FZKSOTSOT886
 - Name: Package_TO_SOT_SMD : SOT-886
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/SOT-886/
 - Description: Package_TO_SOT_SMD : SOT-886
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-886](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-886)
 - Short Link: [http://oom.lt/FZKSOTSOT886](http://oom.lt/FZKSOTSOT886)

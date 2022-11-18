@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-jumper-SJ
 - Hex ID: FZEJSJ
 - Name: jumper : SJ
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/jumper/SJ/
 - Description: jumper : SJ
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-jumper-SJ](http://oom.lt/FOOTPRINT-eagle-eagle-default-jumper-SJ)
 - Short Link: [http://oom.lt/FZEJSJ](http://oom.lt/FZEJSJ)

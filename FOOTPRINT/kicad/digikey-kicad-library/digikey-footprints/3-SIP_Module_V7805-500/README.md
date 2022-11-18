@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-3-SIP_Module_V7805-500
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTS3SIPMOV7855
 - Name: digikey-footprints : 3-SIP_Module_V7805-500
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/3-SIP_Module_V7805-500/
 - Description: digikey-footprints : 3-SIP_Module_V7805-500
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-3-SIP_Module_V7805-500](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-3-SIP_Module_V7805-500)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTS3SIPMOV7855](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTS3SIPMOV7855)

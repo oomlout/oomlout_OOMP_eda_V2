@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-TO-33-4
 - Hex ID: FZKSOTTO334
 - Name: Package_TO_SOT_THT : TO-33-4
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_THT/TO-33-4/
 - Description: Package_TO_SOT_THT : TO-33-4
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-TO-33-4](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-TO-33-4)
 - Short Link: [http://oom.lt/FZKSOTTO334](http://oom.lt/FZKSOTTO334)

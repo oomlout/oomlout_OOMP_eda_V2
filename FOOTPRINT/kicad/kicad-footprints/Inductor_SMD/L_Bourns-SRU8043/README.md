@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Bourns-SRU8043
 - Hex ID: FZKINLBOURNSSRU843
 - Name: Inductor_SMD : L_Bourns-SRU8043
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Bourns-SRU8043/
 - Description: Inductor_SMD : L_Bourns-SRU8043
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Bourns-SRU8043](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Bourns-SRU8043)
 - Short Link: [http://oom.lt/FZKINLBOURNSSRU843](http://oom.lt/FZKINLBOURNSSRU843)

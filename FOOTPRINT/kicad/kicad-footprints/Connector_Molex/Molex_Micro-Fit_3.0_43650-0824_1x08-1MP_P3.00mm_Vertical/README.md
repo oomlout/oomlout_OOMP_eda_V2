@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_Micro-Fit_3.0_43650-0824_1x08-1MP_P3.00mm_Vertical
 - Hex ID: FZKCNMXMXMFIT343658241X81MPP3F
 - Name: Connector_Molex : Molex_Micro-Fit_3.0_43650-0824_1x08-1MP_P3.00mm_Vertical
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_Micro-Fit_3.0_43650-0824_1x08-1MP_P3.00mm_Vertical/
 - Description: Connector_Molex : Molex_Micro-Fit_3.0_43650-0824_1x08-1MP_P3.00mm_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_Micro-Fit_3.0_43650-0824_1x08-1MP_P3.00mm_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_Micro-Fit_3.0_43650-0824_1x08-1MP_P3.00mm_Vertical)
 - Short Link: [http://oom.lt/FZKCNMXMXMFIT343658241X81MPP3F](http://oom.lt/FZKCNMXMXMFIT343658241X81MPP3F)

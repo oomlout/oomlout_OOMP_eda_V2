@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0402-X-PF100-V50-C4P100-C1546
 - Hex ID: SZOOMPKJLCCAPC42XPF1V5C4P1C1546
 - Name: oomlout_OOMP_JLCC_Basic : CAPC-0402-X-PF100-V50-C4P100-C1546
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_JLCC_Basic/CAPC-0402-X-PF100-V50-C4P100-C1546/
 - Description: oomlout_OOMP_JLCC_Basic : CAPC-0402-X-PF100-V50-C4P100-C1546
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0402-X-PF100-V50-C4P100-C1546](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0402-X-PF100-V50-C4P100-C1546)
 - Short Link: [http://oom.lt/SZOOMPKJLCCAPC42XPF1V5C4P1C1546](http://oom.lt/SZOOMPKJLCCAPC42XPF1V5C4P1C1546)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Diode_THT-D_P600_R-6_P20.00mm_Horizontal
 - Hex ID: FZKDDP6R6P2H
 - Name: Diode_THT : D_P600_R-6_P20.00mm_Horizontal
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Diode_THT/D_P600_R-6_P20.00mm_Horizontal/
 - Description: Diode_THT : D_P600_R-6_P20.00mm_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Diode_THT-D_P600_R-6_P20.00mm_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Diode_THT-D_P600_R-6_P20.00mm_Horizontal)
 - Short Link: [http://oom.lt/FZKDDP6R6P2H](http://oom.lt/FZKDDP6R6P2H)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0805-X-O682-01-R85682
 - Hex ID: FZOOMPKOOMPPRESE85XO6821R85682
 - Name: oomlout_OOMP_parts : RESE-0805-X-O682-01-R85682
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/RESE-0805-X-O682-01-R85682/
 - Description: oomlout_OOMP_parts : RESE-0805-X-O682-01-R85682
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0805-X-O682-01-R85682](http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0805-X-O682-01-R85682)
 - Short Link: [http://oom.lt/FZOOMPKOOMPPRESE85XO6821R85682](http://oom.lt/FZOOMPKOOMPPRESE85XO6821R85682)

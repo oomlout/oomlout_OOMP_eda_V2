@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Power_Management-LTC4357MS8
 - Hex ID: SZKPOWERMANAGEMENTLTC4357MS8
 - Name: Power_Management : LTC4357MS8
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Power_Management/LTC4357MS8/
 - Description: Power_Management : LTC4357MS8
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-LTC4357MS8](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-LTC4357MS8)
 - Short Link: [http://oom.lt/SZKPOWERMANAGEMENTLTC4357MS8](http://oom.lt/SZKPOWERMANAGEMENTLTC4357MS8)

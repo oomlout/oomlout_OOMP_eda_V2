@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_ST_STM32L0-STM32L011F4Px
 - Hex ID: SZKMCUSTSTM32LSTM32L11F4PX
 - Name: MCU_ST_STM32L0 : STM32L011F4Px
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32L0/STM32L011F4Px/
 - Description: MCU_ST_STM32L0 : STM32L011F4Px
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32L0-STM32L011F4Px](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32L0-STM32L011F4Px)
 - Short Link: [http://oom.lt/SZKMCUSTSTM32LSTM32L11F4PX](http://oom.lt/SZKMCUSTSTM32LSTM32L11F4PX)

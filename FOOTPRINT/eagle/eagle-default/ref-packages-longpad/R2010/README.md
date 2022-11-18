@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEREFPACKAGESLONGPADR21 > ref-packages-longpad : R2010](#fzerefpackageslongpadr21--ref-packages-longpad--r2010)
+* [FZEREFPSLPR21 > ref-packages-longpad : R2010](#fzerefpslpr21--ref-packages-longpad--r2010)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEREFPACKAGESLONGPADR21 > ref-packages-longpad : R2010
+# FZEREFPSLPR21 > ref-packages-longpad : R2010
 
 - ID: FOOTPRINT-eagle-eagle-default-ref-packages-longpad-R2010
-- Hex ID: FZEREFPACKAGESLONGPADR21
+- Hex ID: FZEREFPSLPR21
 - Name: ref-packages-longpad : R2010
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ref-packages-longpad/R2010/
 - Description: ref-packages-longpad : R2010
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-longpad-R2010](http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-longpad-R2010)
-- Short Link: [http://oom.lt/FZEREFPACKAGESLONGPADR21](http://oom.lt/FZEREFPACKAGESLONGPADR21)
+- Short Link: [http://oom.lt/FZEREFPSLPR21](http://oom.lt/FZEREFPSLPR21)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|ref-packages-longpad|
 |OOMP Index|oompIndex|R2010|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-ref-packages-longpad-R2010|
-|Hex ID (short code)|hexID|FZEREFPACKAGESLONGPADR21|
+|Hex ID (short code)|hexID|FZEREFPSLPR21|
 |name|name|ref-packages-longpad : R2010|
 ||||

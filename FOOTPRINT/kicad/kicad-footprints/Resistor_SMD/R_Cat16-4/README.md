@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_Cat16-4
 - Hex ID: FZKRRCAT164
 - Name: Resistor_SMD : R_Cat16-4
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_Cat16-4/
 - Description: Resistor_SMD : R_Cat16-4
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_Cat16-4](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_Cat16-4)
 - Short Link: [http://oom.lt/FZKRRCAT164](http://oom.lt/FZKRRCAT164)

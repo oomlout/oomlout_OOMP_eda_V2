@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-switch-coto-CT10-XXXX-G4
 - Hex ID: FZESWCOTOCT1XXXXG4
 - Name: switch-coto : CT10-XXXX-G4
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/switch-coto/CT10-XXXX-G4/
 - Description: switch-coto : CT10-XXXX-G4
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-coto-CT10-XXXX-G4](http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-coto-CT10-XXXX-G4)
 - Short Link: [http://oom.lt/FZESWCOTOCT1XXXXG4](http://oom.lt/FZESWCOTOCT1XXXXG4)

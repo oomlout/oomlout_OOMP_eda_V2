@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Display_Character-SC39-11SRWA
 - Hex ID: SZKDICHARACTERSC3911SRWA
 - Name: Display_Character : SC39-11SRWA
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Display_Character/SC39-11SRWA/
 - Description: Display_Character : SC39-11SRWA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-SC39-11SRWA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-SC39-11SRWA)
 - Short Link: [http://oom.lt/SZKDICHARACTERSC3911SRWA](http://oom.lt/SZKDICHARACTERSC3911SRWA)

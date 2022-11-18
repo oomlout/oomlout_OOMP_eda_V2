@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-national-semiconductor-DIL08
 - Hex ID: FZENATIONALSEMICONDUCTORDIL8
 - Name: national-semiconductor : DIL08
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/national-semiconductor/DIL08/
 - Description: national-semiconductor : DIL08
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-national-semiconductor-DIL08](http://oom.lt/FOOTPRINT-eagle-eagle-default-national-semiconductor-DIL08)
 - Short Link: [http://oom.lt/FZENATIONALSEMICONDUCTORDIL8](http://oom.lt/FZENATIONALSEMICONDUCTORDIL8)

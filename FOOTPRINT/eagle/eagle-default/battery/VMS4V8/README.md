@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-battery-VMS4V8
 - Hex ID: FZEBATVMS4V8
 - Name: battery : VMS4V8
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/battery/VMS4V8/
 - Description: battery : VMS4V8
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-battery-VMS4V8](http://oom.lt/FOOTPRINT-eagle-eagle-default-battery-VMS4V8)
 - Short Link: [http://oom.lt/FZEBATVMS4V8](http://oom.lt/FZEBATVMS4V8)

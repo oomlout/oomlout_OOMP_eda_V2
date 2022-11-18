@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-SWITCH-SPST-VERTICAL
 - Hex ID: FZSRTSWSPSTF
 - Name: SparkFun-Retired : SWITCH-SPST-VERTICAL
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Retired/SWITCH-SPST-VERTICAL/
 - Description: SparkFun-Retired : SWITCH-SPST-VERTICAL
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-SWITCH-SPST-VERTICAL](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-SWITCH-SPST-VERTICAL)
 - Short Link: [http://oom.lt/FZSRTSWSPSTF](http://oom.lt/FZSRTSWSPSTF)

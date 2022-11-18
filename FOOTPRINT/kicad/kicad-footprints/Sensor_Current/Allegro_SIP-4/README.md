@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Sensor_Current-Allegro_SIP-4
 - Hex ID: FZKSENCURRENTALLEGROSIP4
 - Name: Sensor_Current : Allegro_SIP-4
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Sensor_Current/Allegro_SIP-4/
 - Description: Sensor_Current : Allegro_SIP-4
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Sensor_Current-Allegro_SIP-4](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Sensor_Current-Allegro_SIP-4)
 - Short Link: [http://oom.lt/FZKSENCURRENTALLEGROSIP4](http://oom.lt/FZKSENCURRENTALLEGROSIP4)

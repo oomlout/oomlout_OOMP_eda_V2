@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Module-OPOS6UL
 - Hex ID: SZKMCUMOOPOS6UL
 - Name: MCU_Module : OPOS6UL
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Module/OPOS6UL/
 - Description: MCU_Module : OPOS6UL
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Module-OPOS6UL](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Module-OPOS6UL)
 - Short Link: [http://oom.lt/SZKMCUMOOPOS6UL](http://oom.lt/SZKMCUMOOPOS6UL)

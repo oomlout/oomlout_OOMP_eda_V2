@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-COMPUTER-PERIPHERAL-POWER-RA
 - Hex ID: FZSRTCOMPUTERPERIPHERALPOWERRA
 - Name: SparkFun-Retired : COMPUTER-PERIPHERAL-POWER-RA
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Retired/COMPUTER-PERIPHERAL-POWER-RA/
 - Description: SparkFun-Retired : COMPUTER-PERIPHERAL-POWER-RA
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-COMPUTER-PERIPHERAL-POWER-RA](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-COMPUTER-PERIPHERAL-POWER-RA)
 - Short Link: [http://oom.lt/FZSRTCOMPUTERPERIPHERALPOWERRA](http://oom.lt/FZSRTCOMPUTERPERIPHERALPOWERRA)

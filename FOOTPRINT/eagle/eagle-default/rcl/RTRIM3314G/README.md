@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-rcl-RTRIM3314G
 - Hex ID: FZERCLRTRIM3314G
 - Name: rcl : RTRIM3314G
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/rcl/RTRIM3314G/
 - Description: rcl : RTRIM3314G
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-RTRIM3314G](http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-RTRIM3314G)
 - Short Link: [http://oom.lt/FZERCLRTRIM3314G](http://oom.lt/FZERCLRTRIM3314G)

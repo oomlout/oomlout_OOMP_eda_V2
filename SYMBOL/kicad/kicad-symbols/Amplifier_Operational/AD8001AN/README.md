@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-AD8001AN
 - Hex ID: SZKAMPLIFIEROPERATIONALAD81AN
 - Name: Amplifier_Operational : AD8001AN
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/AD8001AN/
 - Description: Amplifier_Operational : AD8001AN
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-AD8001AN](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-AD8001AN)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALAD81AN](http://oom.lt/SZKAMPLIFIEROPERATIONALAD81AN)

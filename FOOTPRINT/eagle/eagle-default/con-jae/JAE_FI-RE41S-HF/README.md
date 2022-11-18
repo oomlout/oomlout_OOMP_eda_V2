@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-jae-JAE_FI-RE41S-HF
 - Hex ID: FZECONJAEJAEFIRE41SHF
 - Name: con-jae : JAE_FI-RE41S-HF
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-jae/JAE_FI-RE41S-HF/
 - Description: con-jae : JAE_FI-RE41S-HF
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-jae-JAE_FI-RE41S-HF](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-jae-JAE_FI-RE41S-HF)
 - Short Link: [http://oom.lt/FZECONJAEJAEFIRE41SHF](http://oom.lt/FZECONJAEJAEFIRE41SHF)

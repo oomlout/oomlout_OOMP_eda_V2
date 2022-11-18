@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_Samtec_HLE_THT-Samtec_HLE-148-02-xx-DV-PE_2x48_P2.54mm_Horizontal
 - Hex ID: FZKCNSAMTECHLETHTSAMTECHLE1482XXDVPE2X48P254H
 - Name: Connector_Samtec_HLE_THT : Samtec_HLE-148-02-xx-DV-PE_2x48_P2.54mm_Horizontal
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Samtec_HLE_THT/Samtec_HLE-148-02-xx-DV-PE_2x48_P2.54mm_Horizontal/
 - Description: Connector_Samtec_HLE_THT : Samtec_HLE-148-02-xx-DV-PE_2x48_P2.54mm_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Samtec_HLE_THT-Samtec_HLE-148-02-xx-DV-PE_2x48_P2.54mm_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Samtec_HLE_THT-Samtec_HLE-148-02-xx-DV-PE_2x48_P2.54mm_Horizontal)
 - Short Link: [http://oom.lt/FZKCNSAMTECHLETHTSAMTECHLE1482XXDVPE2X48P254H](http://oom.lt/FZKCNSAMTECHLETHTSAMTECHLE1482XXDVPE2X48P254H)

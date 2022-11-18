@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_SON-Texas_DQK
 - Hex ID: FZKSONTEXASDQK
 - Name: Package_SON : Texas_DQK
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SON/Texas_DQK/
 - Description: Package_SON : Texas_DQK
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SON-Texas_DQK](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SON-Texas_DQK)
 - Short Link: [http://oom.lt/FZKSONTEXASDQK](http://oom.lt/FZKSONTEXASDQK)

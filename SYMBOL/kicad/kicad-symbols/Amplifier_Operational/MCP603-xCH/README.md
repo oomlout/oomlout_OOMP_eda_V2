@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-MCP603-xCH
 - Hex ID: SZKAMPLIFIEROPERATIONALMCP63XCH
 - Name: Amplifier_Operational : MCP603-xCH
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/MCP603-xCH/
 - Description: Amplifier_Operational : MCP603-xCH
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-MCP603-xCH](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-MCP603-xCH)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALMCP63XCH](http://oom.lt/SZKAMPLIFIEROPERATIONALMCP63XCH)

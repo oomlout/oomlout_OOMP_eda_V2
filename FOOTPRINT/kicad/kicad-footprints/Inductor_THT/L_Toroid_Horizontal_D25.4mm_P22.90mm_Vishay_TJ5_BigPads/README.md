@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKINLTOROIDHD254P229VISHAYTJ5BIGPADS > Inductor_THT : L_Toroid_Horizontal_D25.4mm_P22.90mm_Vishay_TJ5_BigPads](#fzkinltoroidhd254p229vishaytj5bigpads--inductor_tht--l_toroid_horizontal_d254mm_p2290mm_vishay_tj5_bigpads)
+* [FZKINLTHD254P229VISHAYTJ5BIGPS > Inductor_THT : L_Toroid_Horizontal_D25.4mm_P22.90mm_Vishay_TJ5_BigPads](#fzkinlthd254p229vishaytj5bigps--inductor_tht--l_toroid_horizontal_d254mm_p2290mm_vishay_tj5_bigpads)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKINLTOROIDHD254P229VISHAYTJ5BIGPADS > Inductor_THT : L_Toroid_Horizontal_D25.4mm_P22.90mm_Vishay_TJ5_BigPads
+# FZKINLTHD254P229VISHAYTJ5BIGPS > Inductor_THT : L_Toroid_Horizontal_D25.4mm_P22.90mm_Vishay_TJ5_BigPads
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Toroid_Horizontal_D25.4mm_P22.90mm_Vishay_TJ5_BigPads
-- Hex ID: FZKINLTOROIDHD254P229VISHAYTJ5BIGPADS
+- Hex ID: FZKINLTHD254P229VISHAYTJ5BIGPS
 - Name: Inductor_THT : L_Toroid_Horizontal_D25.4mm_P22.90mm_Vishay_TJ5_BigPads
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Toroid_Horizontal_D25.4mm_P22.90mm_Vishay_TJ5_BigPads/
 - Description: Inductor_THT : L_Toroid_Horizontal_D25.4mm_P22.90mm_Vishay_TJ5_BigPads
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Toroid_Horizontal_D25.4mm_P22.90mm_Vishay_TJ5_BigPads](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Toroid_Horizontal_D25.4mm_P22.90mm_Vishay_TJ5_BigPads)
-- Short Link: [http://oom.lt/FZKINLTOROIDHD254P229VISHAYTJ5BIGPADS](http://oom.lt/FZKINLTOROIDHD254P229VISHAYTJ5BIGPADS)
+- Short Link: [http://oom.lt/FZKINLTHD254P229VISHAYTJ5BIGPS](http://oom.lt/FZKINLTHD254P229VISHAYTJ5BIGPS)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Inductor_THT|
 |OOMP Index|oompIndex|L_Toroid_Horizontal_D25.4mm_P22.90mm_Vishay_TJ5_BigPads|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Toroid_Horizontal_D25.4mm_P22.90mm_Vishay_TJ5_BigPads|
-|Hex ID (short code)|hexID|FZKINLTOROIDHD254P229VISHAYTJ5BIGPADS|
+|Hex ID (short code)|hexID|FZKINLTHD254P229VISHAYTJ5BIGPS|
 |name|name|Inductor_THT : L_Toroid_Horizontal_D25.4mm_P22.90mm_Vishay_TJ5_BigPads|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'L_Toroid_Horizontal_D25.4mm_P22.90mm_Vishay_TJ5_BigPads'</td><td> 'description'</td></tr><tr><td> 'L_Toroid</td><td> Horizontal series</td><td> Radial</td><td> pin pitch=22.90mm</td><td> </td><td> diameter=25.4mm</td><td> Vishay</td><td> TJ5</td><td> BigPads</td><td> http</td></tr><tr><td>//www.vishay.com/docs/34079/tj.pdf'</td><td> 'tags'</td></tr><tr><td> 'L_Toroid Horizontal series Radial pin pitch 22.90mm  diameter 25.4mm Vishay TJ5 BigPads'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Inductor_THT.3dshapes/L_Toroid_Horizontal_D25.4mm_P22.90mm_Vishay_TJ5_BigPads.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-DiscreteSemi-PT17-21C-L41-TR8
 - Hex ID: FZSDSPT1721CL41TR8
 - Name: SparkFun-DiscreteSemi : PT17-21C-L41-TR8
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-DiscreteSemi/PT17-21C-L41-TR8/
 - Description: SparkFun-DiscreteSemi : PT17-21C-L41-TR8
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-DiscreteSemi-PT17-21C-L41-TR8](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-DiscreteSemi-PT17-21C-L41-TR8)
 - Short Link: [http://oom.lt/FZSDSPT1721CL41TR8](http://oom.lt/FZSDSPT1721CL41TR8)

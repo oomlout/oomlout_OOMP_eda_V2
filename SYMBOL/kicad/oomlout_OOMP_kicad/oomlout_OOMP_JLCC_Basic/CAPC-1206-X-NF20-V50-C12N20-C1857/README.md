@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-1206-X-NF20-V50-C12N20-C1857
 - Hex ID: SZOOMPKJLCCAPC126XNF2V5C12N2C1857
 - Name: oomlout_OOMP_JLCC_Basic : CAPC-1206-X-NF20-V50-C12N20-C1857
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_JLCC_Basic/CAPC-1206-X-NF20-V50-C12N20-C1857/
 - Description: oomlout_OOMP_JLCC_Basic : CAPC-1206-X-NF20-V50-C12N20-C1857
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-1206-X-NF20-V50-C12N20-C1857](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-1206-X-NF20-V50-C12N20-C1857)
 - Short Link: [http://oom.lt/SZOOMPKJLCCAPC126XNF2V5C12N2C1857](http://oom.lt/SZOOMPKJLCCAPC126XNF2V5C12N2C1857)

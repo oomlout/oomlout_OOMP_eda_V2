@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Battery_Management-LTC4156
 - Hex ID: SZKBATMANAGEMENTLTC4156
 - Name: Battery_Management : LTC4156
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Battery_Management/LTC4156/
 - Description: Battery_Management : LTC4156
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Battery_Management-LTC4156](http://oom.lt/SYMBOL-kicad-kicad-symbols-Battery_Management-LTC4156)
 - Short Link: [http://oom.lt/SZKBATMANAGEMENTLTC4156](http://oom.lt/SZKBATMANAGEMENTLTC4156)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_LiteOn_LTST-S326
 - Hex ID: FZKLLLITEONLTSTS326
 - Name: LED_SMD : LED_LiteOn_LTST-S326
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_LiteOn_LTST-S326/
 - Description: LED_SMD : LED_LiteOn_LTST-S326
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_LiteOn_LTST-S326](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_LiteOn_LTST-S326)
 - Short Link: [http://oom.lt/FZKLLLITEONLTSTS326](http://oom.lt/FZKLLLITEONLTSTS326)

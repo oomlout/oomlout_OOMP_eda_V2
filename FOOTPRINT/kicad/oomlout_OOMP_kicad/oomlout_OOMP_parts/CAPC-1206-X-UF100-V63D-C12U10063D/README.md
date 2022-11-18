@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-1206-X-UF100-V63D-C12U10063D
 - Hex ID: FZOOMPKOOMPPCAPC126XUF1V63DC12U163D
 - Name: oomlout_OOMP_parts : CAPC-1206-X-UF100-V63D-C12U10063D
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/CAPC-1206-X-UF100-V63D-C12U10063D/
 - Description: oomlout_OOMP_parts : CAPC-1206-X-UF100-V63D-C12U10063D
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-1206-X-UF100-V63D-C12U10063D](http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-1206-X-UF100-V63D-C12U10063D)
 - Short Link: [http://oom.lt/FZOOMPKOOMPPCAPC126XUF1V63DC12U163D](http://oom.lt/FZOOMPKOOMPPCAPC126XUF1V63DC12U163D)

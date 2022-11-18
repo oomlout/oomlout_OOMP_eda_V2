@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Connector-RJ34_Shielded
 - Hex ID: SZKCNRJ34SHED
 - Name: Connector : RJ34_Shielded
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector/RJ34_Shielded/
 - Description: Connector : RJ34_Shielded
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-RJ34_Shielded](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-RJ34_Shielded)
 - Short Link: [http://oom.lt/SZKCNRJ34SHED](http://oom.lt/SZKCNRJ34SHED)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-microphon-WM-64PN
 - Hex ID: FZEMPHONWM64PN
 - Name: microphon : WM-64PN
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/microphon/WM-64PN/
 - Description: microphon : WM-64PN
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-microphon-WM-64PN](http://oom.lt/FOOTPRINT-eagle-eagle-default-microphon-WM-64PN)
 - Short Link: [http://oom.lt/FZEMPHONWM64PN](http://oom.lt/FZEMPHONWM64PN)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Device-Thermocouple_Block
 - Hex ID: SZKDEVICETHERMOCOUPLEBL
 - Name: Device : Thermocouple_Block
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/Thermocouple_Block/
 - Description: Device : Thermocouple_Block
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Thermocouple_Block](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Thermocouple_Block)
 - Short Link: [http://oom.lt/SZKDEVICETHERMOCOUPLEBL](http://oom.lt/SZKDEVICETHERMOCOUPLEBL)

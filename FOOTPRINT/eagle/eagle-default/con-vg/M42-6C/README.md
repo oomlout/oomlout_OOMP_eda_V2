@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-vg-M42-6C
 - Hex ID: FZECONVGM426C
 - Name: con-vg : M42-6C
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-vg/M42-6C/
 - Description: con-vg : M42-6C
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-vg-M42-6C](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-vg-M42-6C)
 - Short Link: [http://oom.lt/FZECONVGM426C](http://oom.lt/FZECONVGM426C)

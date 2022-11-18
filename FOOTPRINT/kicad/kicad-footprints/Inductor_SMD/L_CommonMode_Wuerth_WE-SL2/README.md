@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_CommonMode_Wuerth_WE-SL2
 - Hex ID: FZKINLCOONMODEWUERTHWESL2
 - Name: Inductor_SMD : L_CommonMode_Wuerth_WE-SL2
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_CommonMode_Wuerth_WE-SL2/
 - Description: Inductor_SMD : L_CommonMode_Wuerth_WE-SL2
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_CommonMode_Wuerth_WE-SL2](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_CommonMode_Wuerth_WE-SL2)
 - Short Link: [http://oom.lt/FZKINLCOONMODEWUERTHWESL2](http://oom.lt/FZKINLCOONMODEWUERTHWESL2)

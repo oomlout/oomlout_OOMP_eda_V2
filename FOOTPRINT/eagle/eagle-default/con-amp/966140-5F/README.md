@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-amp-966140-5F
 - Hex ID: FZECONAMP966145F
 - Name: con-amp : 966140-5F
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-amp/966140-5F/
 - Description: con-amp : 966140-5F
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-amp-966140-5F](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-amp-966140-5F)
 - Short Link: [http://oom.lt/FZECONAMP966145F](http://oom.lt/FZECONAMP966145F)

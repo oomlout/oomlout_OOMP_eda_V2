@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Reference_Voltage-LT6657BHMS8-2.5
 - Hex ID: SZKREFERENCEVOLTAGELT6657BHMS825
 - Name: Reference_Voltage : LT6657BHMS8-2.5
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Reference_Voltage/LT6657BHMS8-2.5/
 - Description: Reference_Voltage : LT6657BHMS8-2.5
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Voltage-LT6657BHMS8-2.5](http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Voltage-LT6657BHMS8-2.5)
 - Short Link: [http://oom.lt/SZKREFERENCEVOLTAGELT6657BHMS825](http://oom.lt/SZKREFERENCEVOLTAGELT6657BHMS825)

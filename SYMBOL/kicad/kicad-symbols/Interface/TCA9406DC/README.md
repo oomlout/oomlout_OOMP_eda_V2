@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface-TCA9406DC
 - Hex ID: SZKINTERFACETCA946DC
 - Name: Interface : TCA9406DC
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface/TCA9406DC/
 - Description: Interface : TCA9406DC
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-TCA9406DC](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-TCA9406DC)
 - Short Link: [http://oom.lt/SZKINTERFACETCA946DC](http://oom.lt/SZKINTERFACETCA946DC)

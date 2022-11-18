@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-QFN-32-1EP_5x5mm_P0.5mm_EP3.6x3.6mm
 - Hex ID: FZKDFNQFN321EP5X5P5EP36X36
 - Name: Package_DFN_QFN : QFN-32-1EP_5x5mm_P0.5mm_EP3.6x3.6mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/QFN-32-1EP_5x5mm_P0.5mm_EP3.6x3.6mm/
 - Description: Package_DFN_QFN : QFN-32-1EP_5x5mm_P0.5mm_EP3.6x3.6mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-QFN-32-1EP_5x5mm_P0.5mm_EP3.6x3.6mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-QFN-32-1EP_5x5mm_P0.5mm_EP3.6x3.6mm)
 - Short Link: [http://oom.lt/FZKDFNQFN321EP5X5P5EP36X36](http://oom.lt/FZKDFNQFN321EP5X5P5EP36X36)

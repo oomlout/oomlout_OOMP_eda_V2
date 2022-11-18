@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Display_7Segment-DA56-11SURKWA
 - Hex ID: FZKDI7SDA5611SURKWA
 - Name: Display_7Segment : DA56-11SURKWA
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Display_7Segment/DA56-11SURKWA/
 - Description: Display_7Segment : DA56-11SURKWA
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Display_7Segment-DA56-11SURKWA](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Display_7Segment-DA56-11SURKWA)
 - Short Link: [http://oom.lt/FZKDI7SDA5611SURKWA](http://oom.lt/FZKDI7SDA5611SURKWA)

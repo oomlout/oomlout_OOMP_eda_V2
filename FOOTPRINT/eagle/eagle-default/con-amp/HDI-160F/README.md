@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-amp-HDI-160F
 - Hex ID: FZECONAMPHDI16F
 - Name: con-amp : HDI-160F
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-amp/HDI-160F/
 - Description: con-amp : HDI-160F
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-amp-HDI-160F](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-amp-HDI-160F)
 - Short Link: [http://oom.lt/FZECONAMPHDI16F](http://oom.lt/FZECONAMPHDI16F)

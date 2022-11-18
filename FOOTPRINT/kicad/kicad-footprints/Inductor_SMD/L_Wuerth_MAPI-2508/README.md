@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Wuerth_MAPI-2508
 - Hex ID: FZKINLWUERTHMAPI258
 - Name: Inductor_SMD : L_Wuerth_MAPI-2508
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Wuerth_MAPI-2508/
 - Description: Inductor_SMD : L_Wuerth_MAPI-2508
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Wuerth_MAPI-2508](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Wuerth_MAPI-2508)
 - Short Link: [http://oom.lt/FZKINLWUERTHMAPI258](http://oom.lt/FZKINLWUERTHMAPI258)

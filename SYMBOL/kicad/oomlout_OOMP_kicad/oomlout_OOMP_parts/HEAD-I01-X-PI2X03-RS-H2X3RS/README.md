@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-I01-X-PI2X03-RS-H2X3RS
 - Hex ID: SZOOMPKOOMPPHEADI1XPI2X3RSH2X3RS
 - Name: oomlout_OOMP_parts : HEAD-I01-X-PI2X03-RS-H2X3RS
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/HEAD-I01-X-PI2X03-RS-H2X3RS/
 - Description: oomlout_OOMP_parts : HEAD-I01-X-PI2X03-RS-H2X3RS
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-I01-X-PI2X03-RS-H2X3RS](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-I01-X-PI2X03-RS-H2X3RS)
 - Short Link: [http://oom.lt/SZOOMPKOOMPPHEADI1XPI2X3RSH2X3RS](http://oom.lt/SZOOMPKOOMPPHEADI1XPI2X3RSH2X3RS)

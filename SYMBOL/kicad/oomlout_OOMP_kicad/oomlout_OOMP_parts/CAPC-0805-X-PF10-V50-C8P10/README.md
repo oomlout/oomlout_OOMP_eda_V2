@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0805-X-PF10-V50-C8P10
 - Hex ID: SZOOMPKOOMPPCAPC85XPF1V5C8P1
 - Name: oomlout_OOMP_parts : CAPC-0805-X-PF10-V50-C8P10
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/CAPC-0805-X-PF10-V50-C8P10/
 - Description: oomlout_OOMP_parts : CAPC-0805-X-PF10-V50-C8P10
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0805-X-PF10-V50-C8P10](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0805-X-PF10-V50-C8P10)
 - Short Link: [http://oom.lt/SZOOMPKOOMPPCAPC85XPF1V5C8P1](http://oom.lt/SZOOMPKOOMPPCAPC85XPF1V5C8P1)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Device-Oscilloscope
 - Hex ID: SZKDEVICEOSCILLOSCOPE
 - Name: Device : Oscilloscope
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/Oscilloscope/
 - Description: Device : Oscilloscope
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Oscilloscope](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Oscilloscope)
 - Short Link: [http://oom.lt/SZKDEVICEOSCILLOSCOPE](http://oom.lt/SZKDEVICEOSCILLOSCOPE)

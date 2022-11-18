@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Analog_DAC-MCP4901
 - Hex ID: SZKANALOGDACMCP491
 - Name: Analog_DAC : MCP4901
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog_DAC/MCP4901/
 - Description: Analog_DAC : MCP4901
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_DAC-MCP4901](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_DAC-MCP4901)
 - Short Link: [http://oom.lt/SZKANALOGDACMCP491](http://oom.lt/SZKANALOGDACMCP491)

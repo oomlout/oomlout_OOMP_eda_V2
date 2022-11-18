@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_SON-NXP_XSON-16
 - Hex ID: FZKSONNXPXSON16
 - Name: Package_SON : NXP_XSON-16
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SON/NXP_XSON-16/
 - Description: Package_SON : NXP_XSON-16
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SON-NXP_XSON-16](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SON-NXP_XSON-16)
 - Short Link: [http://oom.lt/FZKSONNXPXSON16](http://oom.lt/FZKSONNXPXSON16)

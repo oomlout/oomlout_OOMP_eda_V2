@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Power_Supervisor-TL7715A
 - Hex ID: SZKPOWERSUPERVISORTL7715A
 - Name: Power_Supervisor : TL7715A
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Power_Supervisor/TL7715A/
 - Description: Power_Supervisor : TL7715A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Supervisor-TL7715A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Supervisor-TL7715A)
 - Short Link: [http://oom.lt/SZKPOWERSUPERVISORTL7715A](http://oom.lt/SZKPOWERSUPERVISORTL7715A)

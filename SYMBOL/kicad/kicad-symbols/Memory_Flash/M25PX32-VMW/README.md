@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Memory_Flash-M25PX32-VMW
 - Hex ID: SZKMEMORYFLASHM25PX32VMW
 - Name: Memory_Flash : M25PX32-VMW
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Memory_Flash/M25PX32-VMW/
 - Description: Memory_Flash : M25PX32-VMW
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_Flash-M25PX32-VMW](http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_Flash-M25PX32-VMW)
 - Short Link: [http://oom.lt/SZKMEMORYFLASHM25PX32VMW](http://oom.lt/SZKMEMORYFLASHM25PX32VMW)

@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEINDUCTORNKLB8 > inductor-nkl : B8](#fzeinductornklb8--inductor-nkl--b8)
+* [FZEINNKLB8 > inductor-nkl : B8](#fzeinnklb8--inductor-nkl--b8)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEINDUCTORNKLB8 > inductor-nkl : B8
+# FZEINNKLB8 > inductor-nkl : B8
 
 - ID: FOOTPRINT-eagle-eagle-default-inductor-nkl-B8
-- Hex ID: FZEINDUCTORNKLB8
+- Hex ID: FZEINNKLB8
 - Name: inductor-nkl : B8
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/inductor-nkl/B8/
 - Description: inductor-nkl : B8
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-inductor-nkl-B8](http://oom.lt/FOOTPRINT-eagle-eagle-default-inductor-nkl-B8)
-- Short Link: [http://oom.lt/FZEINDUCTORNKLB8](http://oom.lt/FZEINDUCTORNKLB8)
+- Short Link: [http://oom.lt/FZEINNKLB8](http://oom.lt/FZEINNKLB8)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|inductor-nkl|
 |OOMP Index|oompIndex|B8|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-inductor-nkl-B8|
-|Hex ID (short code)|hexID|FZEINDUCTORNKLB8|
+|Hex ID (short code)|hexID|FZEINNKLB8|
 |name|name|inductor-nkl : B8|
 ||||

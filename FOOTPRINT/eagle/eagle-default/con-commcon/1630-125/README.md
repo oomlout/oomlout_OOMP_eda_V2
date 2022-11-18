@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-commcon-1630-125
 - Hex ID: FZECONCOCON163125
 - Name: con-commcon : 1630-125
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-commcon/1630-125/
 - Description: con-commcon : 1630-125
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-commcon-1630-125](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-commcon-1630-125)
 - Short Link: [http://oom.lt/FZECONCOCON163125](http://oom.lt/FZECONCOCON163125)

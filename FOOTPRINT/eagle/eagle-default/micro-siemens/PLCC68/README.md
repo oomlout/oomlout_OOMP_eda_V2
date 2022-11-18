@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-micro-siemens-PLCC68
 - Hex ID: FZEMSIEMENSPLCC68
 - Name: micro-siemens : PLCC68
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/micro-siemens/PLCC68/
 - Description: micro-siemens : PLCC68
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-siemens-PLCC68](http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-siemens-PLCC68)
 - Short Link: [http://oom.lt/FZEMSIEMENSPLCC68](http://oom.lt/FZEMSIEMENSPLCC68)

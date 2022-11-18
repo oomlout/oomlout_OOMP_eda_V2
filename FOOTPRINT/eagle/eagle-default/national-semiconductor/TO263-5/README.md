@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-national-semiconductor-TO263-5
 - Hex ID: FZENATIONALSEMICONDUCTORTO2635
 - Name: national-semiconductor : TO263-5
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/national-semiconductor/TO263-5/
 - Description: national-semiconductor : TO263-5
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-national-semiconductor-TO263-5](http://oom.lt/FOOTPRINT-eagle-eagle-default-national-semiconductor-TO263-5)
 - Short Link: [http://oom.lt/FZENATIONALSEMICONDUCTORTO2635](http://oom.lt/FZENATIONALSEMICONDUCTORTO2635)

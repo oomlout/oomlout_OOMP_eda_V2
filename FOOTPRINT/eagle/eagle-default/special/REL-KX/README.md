@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-special-REL-KX
 - Hex ID: FZESPECIALRELKX
 - Name: special : REL-KX
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/special/REL-KX/
 - Description: special : REL-KX
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-special-REL-KX](http://oom.lt/FOOTPRINT-eagle-eagle-default-special-REL-KX)
 - Short Link: [http://oom.lt/FZESPECIALRELKX](http://oom.lt/FZESPECIALRELKX)

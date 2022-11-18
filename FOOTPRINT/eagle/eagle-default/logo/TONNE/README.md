@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-logo-TONNE
 - Hex ID: FZELTONNE
 - Name: logo : TONNE
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/logo/TONNE/
 - Description: logo : TONNE
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-logo-TONNE](http://oom.lt/FOOTPRINT-eagle-eagle-default-logo-TONNE)
 - Short Link: [http://oom.lt/FZELTONNE](http://oom.lt/FZELTONNE)

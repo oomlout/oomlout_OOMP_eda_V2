@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Connector-AVR-ISP-10
 - Hex ID: SZKCNAVRISP1
 - Name: Connector : AVR-ISP-10
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector/AVR-ISP-10/
 - Description: Connector : AVR-ISP-10
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-AVR-ISP-10](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-AVR-ISP-10)
 - Short Link: [http://oom.lt/SZKCNAVRISP1](http://oom.lt/SZKCNAVRISP1)

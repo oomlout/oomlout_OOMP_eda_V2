@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-CP_Elec_CAP-XX_DMF3Zxxxxxxxx3D
 - Hex ID: FZKCCPELECCAPXXDMF3ZXXXXXXXX3D
 - Name: Capacitor_SMD : CP_Elec_CAP-XX_DMF3Zxxxxxxxx3D
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Capacitor_SMD/CP_Elec_CAP-XX_DMF3Zxxxxxxxx3D/
 - Description: Capacitor_SMD : CP_Elec_CAP-XX_DMF3Zxxxxxxxx3D
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-CP_Elec_CAP-XX_DMF3Zxxxxxxxx3D](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-CP_Elec_CAP-XX_DMF3Zxxxxxxxx3D)
 - Short Link: [http://oom.lt/FZKCCPELECCAPXXDMF3ZXXXXXXXX3D](http://oom.lt/FZKCCPELECCAPXXDMF3ZXXXXXXXX3D)

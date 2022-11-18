@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Analog_DAC-MAX5138
 - Hex ID: SZKANALOGDACMAX5138
 - Name: Analog_DAC : MAX5138
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog_DAC/MAX5138/
 - Description: Analog_DAC : MAX5138
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_DAC-MAX5138](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_DAC-MAX5138)
 - Short Link: [http://oom.lt/SZKANALOGDACMAX5138](http://oom.lt/SZKANALOGDACMAX5138)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-LED_THT-LED_D3.0mm_Horizontal_O1.27mm_Z2.0mm_Clear
 - Hex ID: FZKLLD3HO127Z2CLEAR
 - Name: LED_THT : LED_D3.0mm_Horizontal_O1.27mm_Z2.0mm_Clear
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/LED_THT/LED_D3.0mm_Horizontal_O1.27mm_Z2.0mm_Clear/
 - Description: LED_THT : LED_D3.0mm_Horizontal_O1.27mm_Z2.0mm_Clear
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-LED_THT-LED_D3.0mm_Horizontal_O1.27mm_Z2.0mm_Clear](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-LED_THT-LED_D3.0mm_Horizontal_O1.27mm_Z2.0mm_Clear)
 - Short Link: [http://oom.lt/FZKLLD3HO127Z2CLEAR](http://oom.lt/FZKLLD3HO127Z2CLEAR)

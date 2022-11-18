@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-4xxx_IEEE-4070
 - Hex ID: SZK4XXXIEEE47
 - Name: 4xxx_IEEE : 4070
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/4xxx_IEEE/4070/
 - Description: 4xxx_IEEE : 4070
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-4xxx_IEEE-4070](http://oom.lt/SYMBOL-kicad-kicad-symbols-4xxx_IEEE-4070)
 - Short Link: [http://oom.lt/SZK4XXXIEEE47](http://oom.lt/SZK4XXXIEEE47)

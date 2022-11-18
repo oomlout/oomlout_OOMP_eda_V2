@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-BD9778HFP
 - Hex ID: SZKREGULATORSWINGBD9778HFP
 - Name: Regulator_Switching : BD9778HFP
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/BD9778HFP/
 - Description: Regulator_Switching : BD9778HFP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-BD9778HFP](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-BD9778HFP)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGBD9778HFP](http://oom.lt/SZKREGULATORSWINGBD9778HFP)

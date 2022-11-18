@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Texas_S-PVQFN-N14
 - Hex ID: FZKDFNTEXASSPVQFNN14
 - Name: Package_DFN_QFN : Texas_S-PVQFN-N14
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/Texas_S-PVQFN-N14/
 - Description: Package_DFN_QFN : Texas_S-PVQFN-N14
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Texas_S-PVQFN-N14](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Texas_S-PVQFN-N14)
 - Short Link: [http://oom.lt/FZKDFNTEXASSPVQFNN14](http://oom.lt/FZKDFNTEXASSPVQFNN14)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC18-PIC18LF13K50-ESS
 - Hex ID: SZKMCUMCHIPPIC18PIC18LF13K5ESS
 - Name: MCU_Microchip_PIC18 : PIC18LF13K50-ESS
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC18/PIC18LF13K50-ESS/
 - Description: MCU_Microchip_PIC18 : PIC18LF13K50-ESS
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC18-PIC18LF13K50-ESS](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC18-PIC18LF13K50-ESS)
 - Short Link: [http://oom.lt/SZKMCUMCHIPPIC18PIC18LF13K5ESS](http://oom.lt/SZKMCUMCHIPPIC18PIC18LF13K5ESS)

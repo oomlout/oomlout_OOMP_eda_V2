@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-PushButton_12x12mm_THT_GPTS203211B
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSPB12X12THTGPTS23211B
 - Name: digikey-footprints : PushButton_12x12mm_THT_GPTS203211B
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/PushButton_12x12mm_THT_GPTS203211B/
 - Description: digikey-footprints : PushButton_12x12mm_THT_GPTS203211B
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-PushButton_12x12mm_THT_GPTS203211B](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-PushButton_12x12mm_THT_GPTS203211B)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSPB12X12THTGPTS23211B](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSPB12X12THTGPTS23211B)

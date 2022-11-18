@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Driver_Display-XPT2046QF
 - Hex ID: SZKDRIVERDIXPT246QF
 - Name: Driver_Display : XPT2046QF
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Driver_Display/XPT2046QF/
 - Description: Driver_Display : XPT2046QF
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_Display-XPT2046QF](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_Display-XPT2046QF)
 - Short Link: [http://oom.lt/SZKDRIVERDIXPT246QF](http://oom.lt/SZKDRIVERDIXPT246QF)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-trafo-siemens-E30_7
 - Hex ID: FZETRAFOSIEMENSE37
 - Name: trafo-siemens : E30_7
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/trafo-siemens/E30_7/
 - Description: trafo-siemens : E30_7
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-trafo-siemens-E30_7](http://oom.lt/FOOTPRINT-eagle-eagle-default-trafo-siemens-E30_7)
 - Short Link: [http://oom.lt/FZETRAFOSIEMENSE37](http://oom.lt/FZETRAFOSIEMENSE37)

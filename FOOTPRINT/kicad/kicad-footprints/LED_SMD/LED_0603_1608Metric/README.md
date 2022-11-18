@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_0603_1608Metric
 - Hex ID: FZKLL63168VA
 - Name: LED_SMD : LED_0603_1608Metric
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_0603_1608Metric/
 - Description: LED_SMD : LED_0603_1608Metric
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_0603_1608Metric](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_0603_1608Metric)
 - Short Link: [http://oom.lt/FZKLL63168VA](http://oom.lt/FZKLL63168VA)

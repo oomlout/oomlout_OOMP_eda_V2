@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-OPA355NA
 - Hex ID: SZKAMPLIFIEROPERATIONALOPA355NA
 - Name: Amplifier_Operational : OPA355NA
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/OPA355NA/
 - Description: Amplifier_Operational : OPA355NA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-OPA355NA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-OPA355NA)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALOPA355NA](http://oom.lt/SZKAMPLIFIEROPERATIONALOPA355NA)

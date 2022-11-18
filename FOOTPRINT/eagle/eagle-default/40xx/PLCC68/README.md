@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-40xx-PLCC68
 - Hex ID: FZE4XXPLCC68
 - Name: 40xx : PLCC68
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/40xx/PLCC68/
 - Description: 40xx : PLCC68
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-40xx-PLCC68](http://oom.lt/FOOTPRINT-eagle-eagle-default-40xx-PLCC68)
 - Short Link: [http://oom.lt/FZE4XXPLCC68](http://oom.lt/FZE4XXPLCC68)

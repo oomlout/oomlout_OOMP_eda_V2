@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Boards-SPARKFUN_EDISON_PCB
 - Hex ID: FZSBOSPARKFUNEDISONPCB
 - Name: SparkFun-Boards : SPARKFUN_EDISON_PCB
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Boards/SPARKFUN_EDISON_PCB/
 - Description: SparkFun-Boards : SPARKFUN_EDISON_PCB
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Boards-SPARKFUN_EDISON_PCB](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Boards-SPARKFUN_EDISON_PCB)
 - Short Link: [http://oom.lt/FZSBOSPARKFUNEDISONPCB](http://oom.lt/FZSBOSPARKFUNEDISONPCB)

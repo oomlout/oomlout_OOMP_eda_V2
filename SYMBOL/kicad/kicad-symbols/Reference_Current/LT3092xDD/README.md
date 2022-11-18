@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Reference_Current-LT3092xDD
 - Hex ID: SZKREFERENCECURRENTLT392XDD
 - Name: Reference_Current : LT3092xDD
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Reference_Current/LT3092xDD/
 - Description: Reference_Current : LT3092xDD
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Current-LT3092xDD](http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Current-LT3092xDD)
 - Short Link: [http://oom.lt/SZKREFERENCECURRENTLT392XDD](http://oom.lt/SZKREFERENCECURRENTLT392XDD)

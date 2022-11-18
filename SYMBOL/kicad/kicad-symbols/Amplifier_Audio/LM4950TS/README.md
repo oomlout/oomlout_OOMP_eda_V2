@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Audio-LM4950TS
 - Hex ID: SZKAMPLIFIERAUDIOLM495TS
 - Name: Amplifier_Audio : LM4950TS
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Audio/LM4950TS/
 - Description: Amplifier_Audio : LM4950TS
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Audio-LM4950TS](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Audio-LM4950TS)
 - Short Link: [http://oom.lt/SZKAMPLIFIERAUDIOLM495TS](http://oom.lt/SZKAMPLIFIERAUDIOLM495TS)

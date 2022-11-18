@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-thomas-betts-DXX37P3
 - Hex ID: FZECONTHOMASBETTSDXX37P3
 - Name: con-thomas-betts : DXX37P3
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-thomas-betts/DXX37P3/
 - Description: con-thomas-betts : DXX37P3
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-thomas-betts-DXX37P3](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-thomas-betts-DXX37P3)
 - Short Link: [http://oom.lt/FZECONTHOMASBETTSDXX37P3](http://oom.lt/FZECONTHOMASBETTSDXX37P3)

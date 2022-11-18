@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0402-X-O474-01-R4O474
 - Hex ID: FZOOMPKOOMPPRESE42XO4741R4O474
 - Name: oomlout_OOMP_parts : RESE-0402-X-O474-01-R4O474
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/RESE-0402-X-O474-01-R4O474/
 - Description: oomlout_OOMP_parts : RESE-0402-X-O474-01-R4O474
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0402-X-O474-01-R4O474](http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0402-X-O474-01-R4O474)
 - Short Link: [http://oom.lt/FZOOMPKOOMPPRESE42XO4741R4O474](http://oom.lt/FZOOMPKOOMPPRESE42XO4741R4O474)

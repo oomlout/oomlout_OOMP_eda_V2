@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O680-67-R6680A
 - Hex ID: FZOOMPKOOMPPRESE63XO6867R668A
 - Name: oomlout_OOMP_parts : RESE-0603-X-O680-67-R6680A
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/RESE-0603-X-O680-67-R6680A/
 - Description: oomlout_OOMP_parts : RESE-0603-X-O680-67-R6680A
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O680-67-R6680A](http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O680-67-R6680A)
 - Short Link: [http://oom.lt/FZOOMPKOOMPPRESE63XO6867R668A](http://oom.lt/FZOOMPKOOMPPRESE63XO6867R668A)

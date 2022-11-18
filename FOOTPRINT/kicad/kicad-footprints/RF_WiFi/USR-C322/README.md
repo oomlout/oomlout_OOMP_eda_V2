@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-RF_WiFi-USR-C322
 - Hex ID: FZKRFUSRC322
 - Name: RF_WiFi : USR-C322
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/RF_WiFi/USR-C322/
 - Description: RF_WiFi : USR-C322
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_WiFi-USR-C322](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_WiFi-USR-C322)
 - Short Link: [http://oom.lt/FZKRFUSRC322](http://oom.lt/FZKRFUSRC322)

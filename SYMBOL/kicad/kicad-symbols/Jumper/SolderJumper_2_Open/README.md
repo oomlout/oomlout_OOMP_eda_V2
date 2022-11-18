@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Jumper-SolderJumper_2_Open
 - Hex ID: SZKJSOLDERJ2OPEN
 - Name: Jumper : SolderJumper_2_Open
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Jumper/SolderJumper_2_Open/
 - Description: Jumper : SolderJumper_2_Open
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Jumper-SolderJumper_2_Open](http://oom.lt/SYMBOL-kicad-kicad-symbols-Jumper-SolderJumper_2_Open)
 - Short Link: [http://oom.lt/SZKJSOLDERJ2OPEN](http://oom.lt/SZKJSOLDERJ2OPEN)

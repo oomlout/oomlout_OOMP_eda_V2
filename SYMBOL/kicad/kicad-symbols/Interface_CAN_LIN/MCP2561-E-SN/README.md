@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_CAN_LIN-MCP2561-E-SN
 - Hex ID: SZKINTERFACECANLINMCP2561ESN
 - Name: Interface_CAN_LIN : MCP2561-E-SN
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_CAN_LIN/MCP2561-E-SN/
 - Description: Interface_CAN_LIN : MCP2561-E-SN
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_CAN_LIN-MCP2561-E-SN](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_CAN_LIN-MCP2561-E-SN)
 - Short Link: [http://oom.lt/SZKINTERFACECANLINMCP2561ESN](http://oom.lt/SZKINTERFACECANLINMCP2561ESN)

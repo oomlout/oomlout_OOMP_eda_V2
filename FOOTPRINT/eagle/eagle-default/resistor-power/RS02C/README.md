@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-resistor-power-RS02C
 - Hex ID: FZERESISTORPOWERRS2C
 - Name: resistor-power : RS02C
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/resistor-power/RS02C/
 - Description: resistor-power : RS02C
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-resistor-power-RS02C](http://oom.lt/FOOTPRINT-eagle-eagle-default-resistor-power-RS02C)
 - Short Link: [http://oom.lt/FZERESISTORPOWERRS2C](http://oom.lt/FZERESISTORPOWERRS2C)

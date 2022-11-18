@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-frames-TABL_L
 - Hex ID: FZEFRAMESTABLL
 - Name: frames : TABL_L
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/frames/TABL_L/
 - Description: frames : TABL_L
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-frames-TABL_L](http://oom.lt/FOOTPRINT-eagle-eagle-default-frames-TABL_L)
 - Short Link: [http://oom.lt/FZEFRAMESTABLL](http://oom.lt/FZEFRAMESTABLL)

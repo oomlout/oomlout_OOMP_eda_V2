@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_GH_BM07B-GHS-TBT_1x07-1MP_P1.25mm_Vertical
 - Hex ID: FZKCNJSTJSTGHBM7BGHSTBT1X71MPP125F
 - Name: Connector_JST : JST_GH_BM07B-GHS-TBT_1x07-1MP_P1.25mm_Vertical
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_GH_BM07B-GHS-TBT_1x07-1MP_P1.25mm_Vertical/
 - Description: Connector_JST : JST_GH_BM07B-GHS-TBT_1x07-1MP_P1.25mm_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_GH_BM07B-GHS-TBT_1x07-1MP_P1.25mm_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_GH_BM07B-GHS-TBT_1x07-1MP_P1.25mm_Vertical)
 - Short Link: [http://oom.lt/FZKCNJSTJSTGHBM7BGHSTBT1X71MPP125F](http://oom.lt/FZKCNJSTJSTGHBM7BGHSTBT1X71MPP125F)

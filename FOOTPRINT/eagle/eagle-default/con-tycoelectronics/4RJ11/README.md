@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-tycoelectronics-4RJ11
 - Hex ID: FZECONTYCOELECTRONICS4RJ11
 - Name: con-tycoelectronics : 4RJ11
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-tycoelectronics/4RJ11/
 - Description: con-tycoelectronics : 4RJ11
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-tycoelectronics-4RJ11](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-tycoelectronics-4RJ11)
 - Short Link: [http://oom.lt/FZECONTYCOELECTRONICS4RJ11](http://oom.lt/FZECONTYCOELECTRONICS4RJ11)

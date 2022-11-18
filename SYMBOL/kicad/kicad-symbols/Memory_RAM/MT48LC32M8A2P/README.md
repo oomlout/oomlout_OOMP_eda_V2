@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Memory_RAM-MT48LC32M8A2P
 - Hex ID: SZKMEMORYRAMMT48LC32M8A2P
 - Name: Memory_RAM : MT48LC32M8A2P
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Memory_RAM/MT48LC32M8A2P/
 - Description: Memory_RAM : MT48LC32M8A2P
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_RAM-MT48LC32M8A2P](http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_RAM-MT48LC32M8A2P)
 - Short Link: [http://oom.lt/SZKMEMORYRAMMT48LC32M8A2P](http://oom.lt/SZKMEMORYRAMMT48LC32M8A2P)

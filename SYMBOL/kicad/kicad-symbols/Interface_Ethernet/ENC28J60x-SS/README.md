@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_Ethernet-ENC28J60x-SS
 - Hex ID: SZKINTERFACEETHERNETENC28J6XSS
 - Name: Interface_Ethernet : ENC28J60x-SS
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_Ethernet/ENC28J60x-SS/
 - Description: Interface_Ethernet : ENC28J60x-SS
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Ethernet-ENC28J60x-SS](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Ethernet-ENC28J60x-SS)
 - Short Link: [http://oom.lt/SZKINTERFACEETHERNETENC28J6XSS](http://oom.lt/SZKINTERFACEETHERNETENC28J6XSS)

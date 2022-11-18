@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_SO-TSOP-II-32_21.0x10.2mm_P1.27mm
 - Hex ID: FZKSOTSII3221X12P127
 - Name: Package_SO : TSOP-II-32_21.0x10.2mm_P1.27mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SO/TSOP-II-32_21.0x10.2mm_P1.27mm/
 - Description: Package_SO : TSOP-II-32_21.0x10.2mm_P1.27mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SO-TSOP-II-32_21.0x10.2mm_P1.27mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SO-TSOP-II-32_21.0x10.2mm_P1.27mm)
 - Short Link: [http://oom.lt/FZKSOTSII3221X12P127](http://oom.lt/FZKSOTSII3221X12P127)

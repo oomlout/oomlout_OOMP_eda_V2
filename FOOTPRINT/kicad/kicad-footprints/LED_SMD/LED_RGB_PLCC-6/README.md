@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_RGB_PLCC-6
 - Hex ID: FZKLLRGBPLCC6
 - Name: LED_SMD : LED_RGB_PLCC-6
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_RGB_PLCC-6/
 - Description: LED_SMD : LED_RGB_PLCC-6
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_RGB_PLCC-6](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_RGB_PLCC-6)
 - Short Link: [http://oom.lt/FZKLLRGBPLCC6](http://oom.lt/FZKLLRGBPLCC6)

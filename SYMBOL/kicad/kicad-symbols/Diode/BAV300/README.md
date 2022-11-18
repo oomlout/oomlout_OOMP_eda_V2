@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-BAV300
 - Hex ID: SZKDIODEBAV3
 - Name: Diode : BAV300
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/BAV300/
 - Description: Diode : BAV300
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-BAV300](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-BAV300)
 - Short Link: [http://oom.lt/SZKDIODEBAV3](http://oom.lt/SZKDIODEBAV3)

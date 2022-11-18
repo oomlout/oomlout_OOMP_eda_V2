@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-SW_Push_1P1T_NO_CK_KSC7xxJ
 - Hex ID: FZKBSWPUSH1P1TNOCKKSC7XXJ
 - Name: Button_Switch_SMD : SW_Push_1P1T_NO_CK_KSC7xxJ
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Button_Switch_SMD/SW_Push_1P1T_NO_CK_KSC7xxJ/
 - Description: Button_Switch_SMD : SW_Push_1P1T_NO_CK_KSC7xxJ
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-SW_Push_1P1T_NO_CK_KSC7xxJ](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-SW_Push_1P1T_NO_CK_KSC7xxJ)
 - Short Link: [http://oom.lt/FZKBSWPUSH1P1TNOCKKSC7XXJ](http://oom.lt/FZKBSWPUSH1P1TNOCKKSC7XXJ)

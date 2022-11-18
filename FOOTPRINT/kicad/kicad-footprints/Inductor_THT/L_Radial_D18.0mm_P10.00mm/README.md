@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Radial_D18.0mm_P10.00mm
 - Hex ID: FZKINLRD18P1
 - Name: Inductor_THT : L_Radial_D18.0mm_P10.00mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Radial_D18.0mm_P10.00mm/
 - Description: Inductor_THT : L_Radial_D18.0mm_P10.00mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Radial_D18.0mm_P10.00mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Radial_D18.0mm_P10.00mm)
 - Short Link: [http://oom.lt/FZKINLRD18P1](http://oom.lt/FZKINLRD18P1)

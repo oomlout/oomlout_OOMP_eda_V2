@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-micronas-MQFP44-2
 - Hex ID: FZEMNASMQFP442
 - Name: micronas : MQFP44-2
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/micronas/MQFP44-2/
 - Description: micronas : MQFP44-2
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-micronas-MQFP44-2](http://oom.lt/FOOTPRINT-eagle-eagle-default-micronas-MQFP44-2)
 - Short Link: [http://oom.lt/FZEMNASMQFP442](http://oom.lt/FZEMNASMQFP442)

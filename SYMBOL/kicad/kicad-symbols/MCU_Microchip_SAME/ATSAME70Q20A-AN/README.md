@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_SAME-ATSAME70Q20A-AN
 - Hex ID: SZKMCUMCHIPSAMEATSAME7Q2AAN
 - Name: MCU_Microchip_SAME : ATSAME70Q20A-AN
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_SAME/ATSAME70Q20A-AN/
 - Description: MCU_Microchip_SAME : ATSAME70Q20A-AN
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_SAME-ATSAME70Q20A-AN](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_SAME-ATSAME70Q20A-AN)
 - Short Link: [http://oom.lt/SZKMCUMCHIPSAMEATSAME7Q2AAN](http://oom.lt/SZKMCUMCHIPSAMEATSAME7Q2AAN)

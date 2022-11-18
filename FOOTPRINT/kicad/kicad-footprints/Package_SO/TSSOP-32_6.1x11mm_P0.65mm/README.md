@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_SO-TSSOP-32_6.1x11mm_P0.65mm
 - Hex ID: FZKSOTSS3261X11P65
 - Name: Package_SO : TSSOP-32_6.1x11mm_P0.65mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SO/TSSOP-32_6.1x11mm_P0.65mm/
 - Description: Package_SO : TSSOP-32_6.1x11mm_P0.65mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SO-TSSOP-32_6.1x11mm_P0.65mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SO-TSSOP-32_6.1x11mm_P0.65mm)
 - Short Link: [http://oom.lt/FZKSOTSS3261X11P65](http://oom.lt/FZKSOTSS3261X11P65)

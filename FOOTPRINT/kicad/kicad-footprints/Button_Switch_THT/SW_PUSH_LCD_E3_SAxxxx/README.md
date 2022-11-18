@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Button_Switch_THT-SW_PUSH_LCD_E3_SAxxxx
 - Hex ID: FZKBSWPUSHLCDE3SAXXXX
 - Name: Button_Switch_THT : SW_PUSH_LCD_E3_SAxxxx
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/SW_PUSH_LCD_E3_SAxxxx/
 - Description: Button_Switch_THT : SW_PUSH_LCD_E3_SAxxxx
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Button_Switch_THT-SW_PUSH_LCD_E3_SAxxxx](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Button_Switch_THT-SW_PUSH_LCD_E3_SAxxxx)
 - Short Link: [http://oom.lt/FZKBSWPUSHLCDE3SAXXXX](http://oom.lt/FZKBSWPUSHLCDE3SAXXXX)

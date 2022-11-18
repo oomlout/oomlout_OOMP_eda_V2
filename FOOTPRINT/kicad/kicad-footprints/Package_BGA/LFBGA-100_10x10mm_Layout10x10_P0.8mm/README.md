@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_BGA-LFBGA-100_10x10mm_Layout10x10_P0.8mm
 - Hex ID: FZKBGALFBGA11X1LAYOUT1X1P8
 - Name: Package_BGA : LFBGA-100_10x10mm_Layout10x10_P0.8mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_BGA/LFBGA-100_10x10mm_Layout10x10_P0.8mm/
 - Description: Package_BGA : LFBGA-100_10x10mm_Layout10x10_P0.8mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_BGA-LFBGA-100_10x10mm_Layout10x10_P0.8mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_BGA-LFBGA-100_10x10mm_Layout10x10_P0.8mm)
 - Short Link: [http://oom.lt/FZKBGALFBGA11X1LAYOUT1X1P8](http://oom.lt/FZKBGALFBGA11X1LAYOUT1X1P8)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-amd-mach-PQFP160
 - Hex ID: FZEAMDMACHPQFP16
 - Name: amd-mach : PQFP160
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/amd-mach/PQFP160/
 - Description: amd-mach : PQFP160
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-amd-mach-PQFP160](http://oom.lt/FOOTPRINT-eagle-eagle-default-amd-mach-PQFP160)
 - Short Link: [http://oom.lt/FZEAMDMACHPQFP16](http://oom.lt/FZEAMDMACHPQFP16)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_AVR_Dx-AVR128DA64x-xMR
 - Hex ID: SZKMCUMCHIPAVRDXAVR128DA64XXMR
 - Name: MCU_Microchip_AVR_Dx : AVR128DA64x-xMR
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_AVR_Dx/AVR128DA64x-xMR/
 - Description: MCU_Microchip_AVR_Dx : AVR128DA64x-xMR
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_AVR_Dx-AVR128DA64x-xMR](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_AVR_Dx-AVR128DA64x-xMR)
 - Short Link: [http://oom.lt/SZKMCUMCHIPAVRDXAVR128DA64XXMR](http://oom.lt/SZKMCUMCHIPAVRDXAVR128DA64XXMR)

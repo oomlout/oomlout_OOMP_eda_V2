@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-LM2734X
 - Hex ID: SZKREGULATORSWINGLM2734X
 - Name: Regulator_Switching : LM2734X
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/LM2734X/
 - Description: Regulator_Switching : LM2734X
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LM2734X](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LM2734X)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGLM2734X](http://oom.lt/SZKREGULATORSWINGLM2734X)

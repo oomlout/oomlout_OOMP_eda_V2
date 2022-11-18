@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-micro-intel-QFP-132
 - Hex ID: FZEMINTELQFP132
 - Name: micro-intel : QFP-132
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/micro-intel/QFP-132/
 - Description: micro-intel : QFP-132
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-intel-QFP-132](http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-intel-QFP-132)
 - Short Link: [http://oom.lt/FZEMINTELQFP132](http://oom.lt/FZEMINTELQFP132)

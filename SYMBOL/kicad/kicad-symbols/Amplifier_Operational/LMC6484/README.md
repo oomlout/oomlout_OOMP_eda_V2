@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LMC6484
 - Hex ID: SZKAMPLIFIEROPERATIONALLMC6484
 - Name: Amplifier_Operational : LMC6484
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/LMC6484/
 - Description: Amplifier_Operational : LMC6484
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LMC6484](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LMC6484)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALLMC6484](http://oom.lt/SZKAMPLIFIEROPERATIONALLMC6484)

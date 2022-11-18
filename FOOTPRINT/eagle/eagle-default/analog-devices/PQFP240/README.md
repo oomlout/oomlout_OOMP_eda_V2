@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-analog-devices-PQFP240
 - Hex ID: FZEANALOGDEVICESPQFP24
 - Name: analog-devices : PQFP240
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/analog-devices/PQFP240/
 - Description: analog-devices : PQFP240
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-analog-devices-PQFP240](http://oom.lt/FOOTPRINT-eagle-eagle-default-analog-devices-PQFP240)
 - Short Link: [http://oom.lt/FZEANALOGDEVICESPQFP24](http://oom.lt/FZEANALOGDEVICESPQFP24)

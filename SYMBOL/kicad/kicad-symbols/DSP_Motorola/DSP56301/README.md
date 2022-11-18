@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-DSP_Motorola-DSP56301
 - Hex ID: SZKDSPMOTOROLADSP5631
 - Name: DSP_Motorola : DSP56301
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/DSP_Motorola/DSP56301/
 - Description: DSP_Motorola : DSP56301
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-DSP_Motorola-DSP56301](http://oom.lt/SYMBOL-kicad-kicad-symbols-DSP_Motorola-DSP56301)
 - Short Link: [http://oom.lt/SZKDSPMOTOROLADSP5631](http://oom.lt/SZKDSPMOTOROLADSP5631)

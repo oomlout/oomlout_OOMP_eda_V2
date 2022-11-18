@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-FPGA_Xilinx_Virtex5-XC5VFX70T-FF665
 - Hex ID: SZKFPGAXILINXVIRTEX5XC5VFX7TFF665
 - Name: FPGA_Xilinx_Virtex5 : XC5VFX70T-FF665
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/FPGA_Xilinx_Virtex5/XC5VFX70T-FF665/
 - Description: FPGA_Xilinx_Virtex5 : XC5VFX70T-FF665
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-FPGA_Xilinx_Virtex5-XC5VFX70T-FF665](http://oom.lt/SYMBOL-kicad-kicad-symbols-FPGA_Xilinx_Virtex5-XC5VFX70T-FF665)
 - Short Link: [http://oom.lt/SZKFPGAXILINXVIRTEX5XC5VFX7TFF665](http://oom.lt/SZKFPGAXILINXVIRTEX5XC5VFX7TFF665)

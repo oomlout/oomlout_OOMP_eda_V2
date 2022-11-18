@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Intel-8088_Max_Mode
 - Hex ID: SZKMCUINTEL888MAXMODE
 - Name: MCU_Intel : 8088_Max_Mode
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Intel/8088_Max_Mode/
 - Description: MCU_Intel : 8088_Max_Mode
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Intel-8088_Max_Mode](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Intel-8088_Max_Mode)
 - Short Link: [http://oom.lt/SZKMCUINTEL888MAXMODE](http://oom.lt/SZKMCUINTEL888MAXMODE)

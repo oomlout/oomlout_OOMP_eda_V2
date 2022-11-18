@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_ZE_BM07B-ZESS-TBT_1x07-1MP_P1.50mm_Vertical
 - Hex ID: FZKCNJSTJSTZEBM7BZESSTBT1X71MPP15F
 - Name: Connector_JST : JST_ZE_BM07B-ZESS-TBT_1x07-1MP_P1.50mm_Vertical
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_ZE_BM07B-ZESS-TBT_1x07-1MP_P1.50mm_Vertical/
 - Description: Connector_JST : JST_ZE_BM07B-ZESS-TBT_1x07-1MP_P1.50mm_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_ZE_BM07B-ZESS-TBT_1x07-1MP_P1.50mm_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_ZE_BM07B-ZESS-TBT_1x07-1MP_P1.50mm_Vertical)
 - Short Link: [http://oom.lt/FZKCNJSTJSTZEBM7BZESSTBT1X71MPP15F](http://oom.lt/FZKCNJSTJSTZEBM7BZESSTBT1X71MPP15F)

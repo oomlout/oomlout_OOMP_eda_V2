@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-TPS7150
 - Hex ID: SZKREGULATORLINEARTPS715
 - Name: Regulator_Linear : TPS7150
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/TPS7150/
 - Description: Regulator_Linear : TPS7150
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-TPS7150](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-TPS7150)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARTPS715](http://oom.lt/SZKREGULATORLINEARTPS715)

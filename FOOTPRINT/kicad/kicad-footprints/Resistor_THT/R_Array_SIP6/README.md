@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Resistor_THT-R_Array_SIP6
 - Hex ID: FZKRRARRAYSIP6
 - Name: Resistor_THT : R_Array_SIP6
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Resistor_THT/R_Array_SIP6/
 - Description: Resistor_THT : R_Array_SIP6
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Resistor_THT-R_Array_SIP6](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Resistor_THT-R_Array_SIP6)
 - Short Link: [http://oom.lt/FZKRRARRAYSIP6](http://oom.lt/FZKRRARRAYSIP6)

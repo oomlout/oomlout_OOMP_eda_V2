@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Module-PocketBeagle
 - Hex ID: SZKMCUMOPOCKETBEAGLE
 - Name: MCU_Module : PocketBeagle
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Module/PocketBeagle/
 - Description: MCU_Module : PocketBeagle
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Module-PocketBeagle](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Module-PocketBeagle)
 - Short Link: [http://oom.lt/SZKMCUMOPOCKETBEAGLE](http://oom.lt/SZKMCUMOPOCKETBEAGLE)

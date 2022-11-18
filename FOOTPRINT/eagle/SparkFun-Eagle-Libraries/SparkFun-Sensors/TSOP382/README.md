@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-TSOP382
 - Hex ID: FZSSPARKFUNSENSTS382
 - Name: SparkFun-Sensors : TSOP382
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Sensors/TSOP382/
 - Description: SparkFun-Sensors : TSOP382
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-TSOP382](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-TSOP382)
 - Short Link: [http://oom.lt/FZSSPARKFUNSENSTS382](http://oom.lt/FZSSPARKFUNSENSTS382)

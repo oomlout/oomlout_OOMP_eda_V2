@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_Dsub-DSUB-44-HD_Male_Horizontal_P2.29x2.54mm_EdgePinOffset9.40mm
 - Hex ID: FZKCNDSUBDSUB44HDMALEHP229X254EPO94
 - Name: Connector_Dsub : DSUB-44-HD_Male_Horizontal_P2.29x2.54mm_EdgePinOffset9.40mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Dsub/DSUB-44-HD_Male_Horizontal_P2.29x2.54mm_EdgePinOffset9.40mm/
 - Description: Connector_Dsub : DSUB-44-HD_Male_Horizontal_P2.29x2.54mm_EdgePinOffset9.40mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Dsub-DSUB-44-HD_Male_Horizontal_P2.29x2.54mm_EdgePinOffset9.40mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Dsub-DSUB-44-HD_Male_Horizontal_P2.29x2.54mm_EdgePinOffset9.40mm)
 - Short Link: [http://oom.lt/FZKCNDSUBDSUB44HDMALEHP229X254EPO94](http://oom.lt/FZKCNDSUBDSUB44HDMALEHP229X254EPO94)

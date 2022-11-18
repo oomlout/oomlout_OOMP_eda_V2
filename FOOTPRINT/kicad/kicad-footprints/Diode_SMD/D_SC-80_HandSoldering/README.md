@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKDDSC8HANDSOLDERING > Diode_SMD : D_SC-80_HandSoldering](#fzkddsc8handsoldering--diode_smd--d_sc-80_handsoldering)
+* [FZKDDSC8HS > Diode_SMD : D_SC-80_HandSoldering](#fzkddsc8hs--diode_smd--d_sc-80_handsoldering)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKDDSC8HANDSOLDERING > Diode_SMD : D_SC-80_HandSoldering
+# FZKDDSC8HS > Diode_SMD : D_SC-80_HandSoldering
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_SC-80_HandSoldering
-- Hex ID: FZKDDSC8HANDSOLDERING
+- Hex ID: FZKDDSC8HS
 - Name: Diode_SMD : D_SC-80_HandSoldering
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Diode_SMD/D_SC-80_HandSoldering/
 - Description: Diode_SMD : D_SC-80_HandSoldering
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_SC-80_HandSoldering](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_SC-80_HandSoldering)
-- Short Link: [http://oom.lt/FZKDDSC8HANDSOLDERING](http://oom.lt/FZKDDSC8HANDSOLDERING)
+- Short Link: [http://oom.lt/FZKDDSC8HS](http://oom.lt/FZKDDSC8HS)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Diode_SMD|
 |OOMP Index|oompIndex|D_SC-80_HandSoldering|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_SC-80_HandSoldering|
-|Hex ID (short code)|hexID|FZKDDSC8HANDSOLDERING|
+|Hex ID (short code)|hexID|FZKDDSC8HS|
 |name|name|Diode_SMD : D_SC-80_HandSoldering|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'D_SC-80_HandSoldering'</td><td> 'description'</td></tr><tr><td> 'JEITA SC-80'</td><td> 'tags'</td></tr><tr><td> 'SC-80'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Diode_SMD.3dshapes/D_SC-80.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

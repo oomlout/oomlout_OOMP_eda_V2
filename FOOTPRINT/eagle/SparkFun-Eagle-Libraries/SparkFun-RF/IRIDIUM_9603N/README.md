@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-IRIDIUM_9603N
 - Hex ID: FZSRFIRIDIUM963N
 - Name: SparkFun-RF : IRIDIUM_9603N
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-RF/IRIDIUM_9603N/
 - Description: SparkFun-RF : IRIDIUM_9603N
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-IRIDIUM_9603N](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-IRIDIUM_9603N)
 - Short Link: [http://oom.lt/FZSRFIRIDIUM963N](http://oom.lt/FZSRFIRIDIUM963N)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Axial_L9.5mm_D4.0mm_P15.24mm_Horizontal_Fastron_SMCC
 - Hex ID: FZKINLAXIALL95D4P1524HFASTRONSMCC
 - Name: Inductor_THT : L_Axial_L9.5mm_D4.0mm_P15.24mm_Horizontal_Fastron_SMCC
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Axial_L9.5mm_D4.0mm_P15.24mm_Horizontal_Fastron_SMCC/
 - Description: Inductor_THT : L_Axial_L9.5mm_D4.0mm_P15.24mm_Horizontal_Fastron_SMCC
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Axial_L9.5mm_D4.0mm_P15.24mm_Horizontal_Fastron_SMCC](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Axial_L9.5mm_D4.0mm_P15.24mm_Horizontal_Fastron_SMCC)
 - Short Link: [http://oom.lt/FZKINLAXIALL95D4P1524HFASTRONSMCC](http://oom.lt/FZKINLAXIALL95D4P1524HFASTRONSMCC)

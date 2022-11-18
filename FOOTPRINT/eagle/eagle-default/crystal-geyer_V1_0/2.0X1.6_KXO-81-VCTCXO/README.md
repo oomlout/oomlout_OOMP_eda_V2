@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-crystal-geyer_V1_0-2.0X1.6_KXO-81-VCTCXO
 - Hex ID: FZEXGEYERV12X16KXO81VCTCXO
 - Name: crystal-geyer_V1_0 : 2.0X1.6_KXO-81-VCTCXO
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/crystal-geyer_V1_0/2.0X1.6_KXO-81-VCTCXO/
 - Description: crystal-geyer_V1_0 : 2.0X1.6_KXO-81-VCTCXO
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-crystal-geyer_V1_0-2.0X1.6_KXO-81-VCTCXO](http://oom.lt/FOOTPRINT-eagle-eagle-default-crystal-geyer_V1_0-2.0X1.6_KXO-81-VCTCXO)
 - Short Link: [http://oom.lt/FZEXGEYERV12X16KXO81VCTCXO](http://oom.lt/FZEXGEYERV12X16KXO81VCTCXO)

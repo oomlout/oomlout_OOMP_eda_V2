@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-BUTA-4628-X-STAN-01-BT4628
 - Hex ID: SZOOMPKOOMPPBUTA4628XSTAN1BT4628
 - Name: oomlout_OOMP_parts : BUTA-4628-X-STAN-01-BT4628
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/BUTA-4628-X-STAN-01-BT4628/
 - Description: oomlout_OOMP_parts : BUTA-4628-X-STAN-01-BT4628
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-BUTA-4628-X-STAN-01-BT4628](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-BUTA-4628-X-STAN-01-BT4628)
 - Short Link: [http://oom.lt/SZOOMPKOOMPPBUTA4628XSTAN1BT4628](http://oom.lt/SZOOMPKOOMPPBUTA4628XSTAN1BT4628)

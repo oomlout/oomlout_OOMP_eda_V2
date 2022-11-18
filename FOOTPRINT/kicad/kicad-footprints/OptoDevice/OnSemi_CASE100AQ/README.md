@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-OptoDevice-OnSemi_CASE100AQ
 - Hex ID: FZKOPONSEMICASE1AQ
 - Name: OptoDevice : OnSemi_CASE100AQ
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/OptoDevice/OnSemi_CASE100AQ/
 - Description: OptoDevice : OnSemi_CASE100AQ
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-OptoDevice-OnSemi_CASE100AQ](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-OptoDevice-OnSemi_CASE100AQ)
 - Short Link: [http://oom.lt/FZKOPONSEMICASE1AQ](http://oom.lt/FZKOPONSEMICASE1AQ)

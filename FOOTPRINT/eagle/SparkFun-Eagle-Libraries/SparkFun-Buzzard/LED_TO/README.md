@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Buzzard-LED_TO
 - Hex ID: FZSBULTO
 - Name: SparkFun-Buzzard : LED_TO
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Buzzard/LED_TO/
 - Description: SparkFun-Buzzard : LED_TO
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Buzzard-LED_TO](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Buzzard-LED_TO)
 - Short Link: [http://oom.lt/FZSBULTO](http://oom.lt/FZSBULTO)

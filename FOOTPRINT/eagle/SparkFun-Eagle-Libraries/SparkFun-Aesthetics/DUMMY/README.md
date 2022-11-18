@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Aesthetics-DUMMY
 - Hex ID: FZSADUY
 - Name: SparkFun-Aesthetics : DUMMY
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Aesthetics/DUMMY/
 - Description: SparkFun-Aesthetics : DUMMY
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Aesthetics-DUMMY](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Aesthetics-DUMMY)
 - Short Link: [http://oom.lt/FZSADUY](http://oom.lt/FZSADUY)

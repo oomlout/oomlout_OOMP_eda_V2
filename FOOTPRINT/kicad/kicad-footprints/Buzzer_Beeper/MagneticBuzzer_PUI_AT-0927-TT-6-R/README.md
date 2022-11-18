@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Buzzer_Beeper-MagneticBuzzer_PUI_AT-0927-TT-6-R
 - Hex ID: FZKBZMAGNETICBUZZERPUIAT927TT6R
 - Name: Buzzer_Beeper : MagneticBuzzer_PUI_AT-0927-TT-6-R
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Buzzer_Beeper/MagneticBuzzer_PUI_AT-0927-TT-6-R/
 - Description: Buzzer_Beeper : MagneticBuzzer_PUI_AT-0927-TT-6-R
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Buzzer_Beeper-MagneticBuzzer_PUI_AT-0927-TT-6-R](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Buzzer_Beeper-MagneticBuzzer_PUI_AT-0927-TT-6-R)
 - Short Link: [http://oom.lt/FZKBZMAGNETICBUZZERPUIAT927TT6R](http://oom.lt/FZKBZMAGNETICBUZZERPUIAT927TT6R)

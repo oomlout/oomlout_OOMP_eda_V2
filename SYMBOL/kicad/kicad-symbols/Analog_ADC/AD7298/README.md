@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Analog_ADC-AD7298
 - Hex ID: SZKANALOGADCAD7298
 - Name: Analog_ADC : AD7298
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog_ADC/AD7298/
 - Description: Analog_ADC : AD7298
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-AD7298](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-AD7298)
 - Short Link: [http://oom.lt/SZKANALOGADCAD7298](http://oom.lt/SZKANALOGADCAD7298)

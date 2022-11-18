@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_01005_0402Metric
 - Hex ID: FZKRR1542VA
 - Name: Resistor_SMD : R_01005_0402Metric
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_01005_0402Metric/
 - Description: Resistor_SMD : R_01005_0402Metric
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_01005_0402Metric](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_01005_0402Metric)
 - Short Link: [http://oom.lt/FZKRR1542VA](http://oom.lt/FZKRR1542VA)

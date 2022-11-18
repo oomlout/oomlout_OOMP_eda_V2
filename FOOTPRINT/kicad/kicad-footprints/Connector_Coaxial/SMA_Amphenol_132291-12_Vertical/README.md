@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_Coaxial-SMA_Amphenol_132291-12_Vertical
 - Hex ID: FZKCNCOASAMPHENOL13229112F
 - Name: Connector_Coaxial : SMA_Amphenol_132291-12_Vertical
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Coaxial/SMA_Amphenol_132291-12_Vertical/
 - Description: Connector_Coaxial : SMA_Amphenol_132291-12_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Coaxial-SMA_Amphenol_132291-12_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Coaxial-SMA_Amphenol_132291-12_Vertical)
 - Short Link: [http://oom.lt/FZKCNCOASAMPHENOL13229112F](http://oom.lt/FZKCNCOASAMPHENOL13229112F)

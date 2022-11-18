@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Button_Switch_THT-Push_E-Switch_KS01Q01
 - Hex ID: FZKBPUSHESWKS1Q1
 - Name: Button_Switch_THT : Push_E-Switch_KS01Q01
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/Push_E-Switch_KS01Q01/
 - Description: Button_Switch_THT : Push_E-Switch_KS01Q01
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Button_Switch_THT-Push_E-Switch_KS01Q01](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Button_Switch_THT-Push_E-Switch_KS01Q01)
 - Short Link: [http://oom.lt/FZKBPUSHESWKS1Q1](http://oom.lt/FZKBPUSHESWKS1Q1)

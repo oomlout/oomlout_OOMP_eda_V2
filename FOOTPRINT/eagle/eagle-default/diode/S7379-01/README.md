@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-diode-S7379-01
 - Hex ID: FZEDIODES73791
 - Name: diode : S7379-01
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/diode/S7379-01/
 - Description: diode : S7379-01
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-diode-S7379-01](http://oom.lt/FOOTPRINT-eagle-eagle-default-diode-S7379-01)
 - Short Link: [http://oom.lt/FZEDIODES73791](http://oom.lt/FZEDIODES73791)

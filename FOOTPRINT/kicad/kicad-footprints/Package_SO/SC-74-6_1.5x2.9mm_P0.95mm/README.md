@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_SO-SC-74-6_1.5x2.9mm_P0.95mm
 - Hex ID: FZKSOSC74615X29P95
 - Name: Package_SO : SC-74-6_1.5x2.9mm_P0.95mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SO/SC-74-6_1.5x2.9mm_P0.95mm/
 - Description: Package_SO : SC-74-6_1.5x2.9mm_P0.95mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SO-SC-74-6_1.5x2.9mm_P0.95mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SO-SC-74-6_1.5x2.9mm_P0.95mm)
 - Short Link: [http://oom.lt/FZKSOSC74615X29P95](http://oom.lt/FZKSOSC74615X29P95)

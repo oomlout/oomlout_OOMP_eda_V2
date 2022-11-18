@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector-IHI_B6A-PCB-45_Vertical
 - Hex ID: FZKCNIHIB6APCB45F
 - Name: Connector : IHI_B6A-PCB-45_Vertical
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector/IHI_B6A-PCB-45_Vertical/
 - Description: Connector : IHI_B6A-PCB-45_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector-IHI_B6A-PCB-45_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector-IHI_B6A-PCB-45_Vertical)
 - Short Link: [http://oom.lt/FZKCNIHIB6APCB45F](http://oom.lt/FZKCNIHIB6APCB45F)

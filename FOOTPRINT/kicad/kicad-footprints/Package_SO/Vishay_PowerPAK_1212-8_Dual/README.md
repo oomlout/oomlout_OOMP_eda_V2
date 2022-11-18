@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_SO-Vishay_PowerPAK_1212-8_Dual
 - Hex ID: FZKSOVISHAYPOWERPAK12128DUAL
 - Name: Package_SO : Vishay_PowerPAK_1212-8_Dual
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SO/Vishay_PowerPAK_1212-8_Dual/
 - Description: Package_SO : Vishay_PowerPAK_1212-8_Dual
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SO-Vishay_PowerPAK_1212-8_Dual](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SO-Vishay_PowerPAK_1212-8_Dual)
 - Short Link: [http://oom.lt/FZKSOVISHAYPOWERPAK12128DUAL](http://oom.lt/FZKSOVISHAYPOWERPAK12128DUAL)

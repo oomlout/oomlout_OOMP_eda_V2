@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-smd-ipc-MO018-20
 - Hex ID: FZESMIPCMO182
 - Name: smd-ipc : MO018-20
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/smd-ipc/MO018-20/
 - Description: smd-ipc : MO018-20
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-MO018-20](http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-MO018-20)
 - Short Link: [http://oom.lt/FZESMIPCMO182](http://oom.lt/FZESMIPCMO182)

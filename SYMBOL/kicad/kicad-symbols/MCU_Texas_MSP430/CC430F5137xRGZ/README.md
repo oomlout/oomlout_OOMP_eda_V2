@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Texas_MSP430-CC430F5137xRGZ
 - Hex ID: SZKMCUTEXASMSP43CC43F5137XRGZ
 - Name: MCU_Texas_MSP430 : CC430F5137xRGZ
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Texas_MSP430/CC430F5137xRGZ/
 - Description: MCU_Texas_MSP430 : CC430F5137xRGZ
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Texas_MSP430-CC430F5137xRGZ](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Texas_MSP430-CC430F5137xRGZ)
 - Short Link: [http://oom.lt/SZKMCUTEXASMSP43CC43F5137XRGZ](http://oom.lt/SZKMCUTEXASMSP43CC43F5137XRGZ)

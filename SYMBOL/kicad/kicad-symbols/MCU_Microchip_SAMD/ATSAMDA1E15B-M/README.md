@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_SAMD-ATSAMDA1E15B-M
 - Hex ID: SZKMCUMCHIPSAMDATSAMDA1E15BM
 - Name: MCU_Microchip_SAMD : ATSAMDA1E15B-M
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_SAMD/ATSAMDA1E15B-M/
 - Description: MCU_Microchip_SAMD : ATSAMDA1E15B-M
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_SAMD-ATSAMDA1E15B-M](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_SAMD-ATSAMDA1E15B-M)
 - Short Link: [http://oom.lt/SZKMCUMCHIPSAMDATSAMDA1E15BM](http://oom.lt/SZKMCUMCHIPSAMDATSAMDA1E15BM)

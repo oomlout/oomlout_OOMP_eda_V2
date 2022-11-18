@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-amp-SLOT-1376408-1_1.8V
 - Hex ID: FZECONAMPSLOT137648118V
 - Name: con-amp : SLOT-1376408-1_1.8V
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-amp/SLOT-1376408-1_1.8V/
 - Description: con-amp : SLOT-1376408-1_1.8V
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-amp-SLOT-1376408-1_1.8V](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-amp-SLOT-1376408-1_1.8V)
 - Short Link: [http://oom.lt/FZECONAMPSLOT137648118V](http://oom.lt/FZECONAMPSLOT137648118V)

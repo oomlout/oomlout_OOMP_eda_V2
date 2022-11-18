@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKHOLHOL25PADTOPBOTTOM > MountingHole : MountingHole_2.5mm_Pad_TopBottom](#fzkholhol25padtopbottom--mountinghole--mountinghole_25mm_pad_topbottom)
+* [FZKHOLHOL25PTOPB > MountingHole : MountingHole_2.5mm_Pad_TopBottom](#fzkholhol25ptopb--mountinghole--mountinghole_25mm_pad_topbottom)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKHOLHOL25PADTOPBOTTOM > MountingHole : MountingHole_2.5mm_Pad_TopBottom
+# FZKHOLHOL25PTOPB > MountingHole : MountingHole_2.5mm_Pad_TopBottom
 
 - ID: FOOTPRINT-kicad-kicad-footprints-MountingHole-MountingHole_2.5mm_Pad_TopBottom
-- Hex ID: FZKHOLHOL25PADTOPBOTTOM
+- Hex ID: FZKHOLHOL25PTOPB
 - Name: MountingHole : MountingHole_2.5mm_Pad_TopBottom
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/MountingHole/MountingHole_2.5mm_Pad_TopBottom/
 - Description: MountingHole : MountingHole_2.5mm_Pad_TopBottom
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-MountingHole-MountingHole_2.5mm_Pad_TopBottom](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-MountingHole-MountingHole_2.5mm_Pad_TopBottom)
-- Short Link: [http://oom.lt/FZKHOLHOL25PADTOPBOTTOM](http://oom.lt/FZKHOLHOL25PADTOPBOTTOM)
+- Short Link: [http://oom.lt/FZKHOLHOL25PTOPB](http://oom.lt/FZKHOLHOL25PTOPB)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|MountingHole|
 |OOMP Index|oompIndex|MountingHole_2.5mm_Pad_TopBottom|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-MountingHole-MountingHole_2.5mm_Pad_TopBottom|
-|Hex ID (short code)|hexID|FZKHOLHOL25PADTOPBOTTOM|
+|Hex ID (short code)|hexID|FZKHOLHOL25PTOPB|
 |name|name|MountingHole : MountingHole_2.5mm_Pad_TopBottom|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'MountingHole_2.5mm_Pad_TopBottom'</td><td> 'description'</td></tr><tr><td> 'Mounting Hole 2.5mm'</td><td> 'tags'</td></tr><tr><td> 'mounting hole 2.5mm'</td><td> 'attributeType'</td></tr><tr><td> None</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'connect'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||

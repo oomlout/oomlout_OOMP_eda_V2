@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-molex-71061-0003
 - Hex ID: FZECONMX71613
 - Name: con-molex : 71061-0003
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-molex/71061-0003/
 - Description: con-molex : 71061-0003
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-molex-71061-0003](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-molex-71061-0003)
 - Short Link: [http://oom.lt/FZECONMX71613](http://oom.lt/FZECONMX71613)

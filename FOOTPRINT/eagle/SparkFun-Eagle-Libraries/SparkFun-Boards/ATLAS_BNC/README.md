@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Boards-ATLAS_BNC
 - Hex ID: FZSBOATLASBNC
 - Name: SparkFun-Boards : ATLAS_BNC
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Boards/ATLAS_BNC/
 - Description: SparkFun-Boards : ATLAS_BNC
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Boards-ATLAS_BNC](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Boards-ATLAS_BNC)
 - Short Link: [http://oom.lt/FZSBOATLASBNC](http://oom.lt/FZSBOATLASBNC)

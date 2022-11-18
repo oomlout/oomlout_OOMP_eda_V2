@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-smd-ipc-C1005
 - Hex ID: FZESMIPCC15
 - Name: smd-ipc : C1005
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/smd-ipc/C1005/
 - Description: smd-ipc : C1005
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-C1005](http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-C1005)
 - Short Link: [http://oom.lt/FZESMIPCC15](http://oom.lt/FZESMIPCC15)

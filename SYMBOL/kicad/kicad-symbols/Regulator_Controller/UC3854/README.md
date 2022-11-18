@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Controller-UC3854
 - Hex ID: SZKREGULATORCONTROLLERUC3854
 - Name: Regulator_Controller : UC3854
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Controller/UC3854/
 - Description: Regulator_Controller : UC3854
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Controller-UC3854](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Controller-UC3854)
 - Short Link: [http://oom.lt/SZKREGULATORCONTROLLERUC3854](http://oom.lt/SZKREGULATORCONTROLLERUC3854)

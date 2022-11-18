@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-switch-REKN
 - Hex ID: FZESWREKN
 - Name: switch : REKN
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/switch/REKN/
 - Description: switch : REKN
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-REKN](http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-REKN)
 - Short Link: [http://oom.lt/FZESWREKN](http://oom.lt/FZESWREKN)

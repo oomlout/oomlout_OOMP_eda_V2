@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-MOSN-T252-X-A50-01-MNAOD4184A
 - Hex ID: FZOOMPKOOMPPMOSNT252XA51MNAOD4184A
 - Name: oomlout_OOMP_parts : MOSN-T252-X-A50-01-MNAOD4184A
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/MOSN-T252-X-A50-01-MNAOD4184A/
 - Description: oomlout_OOMP_parts : MOSN-T252-X-A50-01-MNAOD4184A
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-MOSN-T252-X-A50-01-MNAOD4184A](http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-MOSN-T252-X-A50-01-MNAOD4184A)
 - Short Link: [http://oom.lt/FZOOMPKOOMPPMOSNT252XA51MNAOD4184A](http://oom.lt/FZOOMPKOOMPPMOSNT252XA51MNAOD4184A)

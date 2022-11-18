@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-TAP5-70
 - Hex ID: FZATAP57
 - Name: adafruit : TAP5-70
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/TAP5-70/
 - Description: adafruit : TAP5-70
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-TAP5-70](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-TAP5-70)
 - Short Link: [http://oom.lt/FZATAP57](http://oom.lt/FZATAP57)

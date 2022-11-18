@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Power-TO220-IGO
 - Hex ID: FZSIPTO22IGO
 - Name: SparkFun-IC-Power : TO220-IGO
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-IC-Power/TO220-IGO/
 - Description: SparkFun-IC-Power : TO220-IGO
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Power-TO220-IGO](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Power-TO220-IGO)
 - Short Link: [http://oom.lt/FZSIPTO22IGO](http://oom.lt/FZSIPTO22IGO)

@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZASPRINGTERMINAL17 > adafruit : SPRINGTERMINAL-17](#fzaspringterminal17--adafruit--springterminal-17)
+* [FZASPT17 > adafruit : SPRINGTERMINAL-17](#fzaspt17--adafruit--springterminal-17)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZASPRINGTERMINAL17 > adafruit : SPRINGTERMINAL-17
+# FZASPT17 > adafruit : SPRINGTERMINAL-17
 
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-SPRINGTERMINAL-17
-- Hex ID: FZASPRINGTERMINAL17
+- Hex ID: FZASPT17
 - Name: adafruit : SPRINGTERMINAL-17
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/SPRINGTERMINAL-17/
 - Description: adafruit : SPRINGTERMINAL-17
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-SPRINGTERMINAL-17](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-SPRINGTERMINAL-17)
-- Short Link: [http://oom.lt/FZASPRINGTERMINAL17](http://oom.lt/FZASPRINGTERMINAL17)
+- Short Link: [http://oom.lt/FZASPT17](http://oom.lt/FZASPT17)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|adafruit|
 |OOMP Index|oompIndex|SPRINGTERMINAL-17|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-SPRINGTERMINAL-17|
-|Hex ID (short code)|hexID|FZASPRINGTERMINAL17|
+|Hex ID (short code)|hexID|FZASPT17|
 |name|name|adafruit : SPRINGTERMINAL-17|
 ||||
 

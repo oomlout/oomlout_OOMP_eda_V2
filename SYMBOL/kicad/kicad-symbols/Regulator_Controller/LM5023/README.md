@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Controller-LM5023
 - Hex ID: SZKREGULATORCONTROLLERLM523
 - Name: Regulator_Controller : LM5023
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Controller/LM5023/
 - Description: Regulator_Controller : LM5023
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Controller-LM5023](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Controller-LM5023)
 - Short Link: [http://oom.lt/SZKREGULATORCONTROLLERLM523](http://oom.lt/SZKREGULATORCONTROLLERLM523)

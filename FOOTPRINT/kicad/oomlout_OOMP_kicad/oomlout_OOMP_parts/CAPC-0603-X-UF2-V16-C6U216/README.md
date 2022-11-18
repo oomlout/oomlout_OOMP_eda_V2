@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0603-X-UF2-V16-C6U216
 - Hex ID: FZOOMPKOOMPPCAPC63XUF2V16C6U216
 - Name: oomlout_OOMP_parts : CAPC-0603-X-UF2-V16-C6U216
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/CAPC-0603-X-UF2-V16-C6U216/
 - Description: oomlout_OOMP_parts : CAPC-0603-X-UF2-V16-C6U216
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0603-X-UF2-V16-C6U216](http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0603-X-UF2-V16-C6U216)
 - Short Link: [http://oom.lt/FZOOMPKOOMPPCAPC63XUF2V16C6U216](http://oom.lt/FZOOMPKOOMPPCAPC63XUF2V16C6U216)

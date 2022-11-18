@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-rcl-CTRIM808-1
 - Hex ID: FZERCLCTRIM881
 - Name: rcl : CTRIM808-1
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/rcl/CTRIM808-1/
 - Description: rcl : CTRIM808-1
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-CTRIM808-1](http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-CTRIM808-1)
 - Short Link: [http://oom.lt/FZERCLCTRIM881](http://oom.lt/FZERCLCTRIM881)

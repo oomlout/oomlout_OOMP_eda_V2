@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Bourns-SRN8040_8x8.15mm
 - Hex ID: FZKINLBOURNSSRN848X815
 - Name: Inductor_SMD : L_Bourns-SRN8040_8x8.15mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Bourns-SRN8040_8x8.15mm/
 - Description: Inductor_SMD : L_Bourns-SRN8040_8x8.15mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Bourns-SRN8040_8x8.15mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Bourns-SRN8040_8x8.15mm)
 - Short Link: [http://oom.lt/FZKINLBOURNSSRN848X815](http://oom.lt/FZKINLBOURNSSRN848X815)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_AT310_D3.0mm_L10.0mm_Horizontal
 - Hex ID: FZKXXAT31D3L1H
 - Name: Crystal : Crystal_AT310_D3.0mm_L10.0mm_Horizontal
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_AT310_D3.0mm_L10.0mm_Horizontal/
 - Description: Crystal : Crystal_AT310_D3.0mm_L10.0mm_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_AT310_D3.0mm_L10.0mm_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_AT310_D3.0mm_L10.0mm_Horizontal)
 - Short Link: [http://oom.lt/FZKXXAT31D3L1H](http://oom.lt/FZKXXAT31D3L1H)

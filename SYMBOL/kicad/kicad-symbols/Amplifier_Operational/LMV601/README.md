@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LMV601
 - Hex ID: SZKAMPLIFIEROPERATIONALLMV61
 - Name: Amplifier_Operational : LMV601
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/LMV601/
 - Description: Amplifier_Operational : LMV601
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LMV601](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LMV601)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALLMV61](http://oom.lt/SZKAMPLIFIEROPERATIONALLMV61)

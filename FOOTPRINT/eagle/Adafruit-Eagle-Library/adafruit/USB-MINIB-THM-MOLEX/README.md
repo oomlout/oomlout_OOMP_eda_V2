@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-USB-MINIB-THM-MOLEX
 - Hex ID: FZAUMBTMX
 - Name: adafruit : USB-MINIB-THM-MOLEX
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/USB-MINIB-THM-MOLEX/
 - Description: adafruit : USB-MINIB-THM-MOLEX
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-USB-MINIB-THM-MOLEX](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-USB-MINIB-THM-MOLEX)
 - Short Link: [http://oom.lt/FZAUMBTMX](http://oom.lt/FZAUMBTMX)

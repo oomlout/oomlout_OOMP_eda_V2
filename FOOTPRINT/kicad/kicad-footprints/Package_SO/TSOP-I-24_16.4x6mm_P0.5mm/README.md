@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_SO-TSOP-I-24_16.4x6mm_P0.5mm
 - Hex ID: FZKSOTSI24164X6P5
 - Name: Package_SO : TSOP-I-24_16.4x6mm_P0.5mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SO/TSOP-I-24_16.4x6mm_P0.5mm/
 - Description: Package_SO : TSOP-I-24_16.4x6mm_P0.5mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SO-TSOP-I-24_16.4x6mm_P0.5mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SO-TSOP-I-24_16.4x6mm_P0.5mm)
 - Short Link: [http://oom.lt/FZKSOTSI24164X6P5](http://oom.lt/FZKSOTSI24164X6P5)

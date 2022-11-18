@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-LEDS-5050-RGB-K2812-01-L502
 - Hex ID: SZOOMPKOOMPPLS55RGBK28121L52
 - Name: oomlout_OOMP_parts : LEDS-5050-RGB-K2812-01-L502
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/LEDS-5050-RGB-K2812-01-L502/
 - Description: oomlout_OOMP_parts : LEDS-5050-RGB-K2812-01-L502
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-LEDS-5050-RGB-K2812-01-L502](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-LEDS-5050-RGB-K2812-01-L502)
 - Short Link: [http://oom.lt/SZOOMPKOOMPPLS55RGBK28121L52](http://oom.lt/SZOOMPKOOMPPLS55RGBK28121L52)

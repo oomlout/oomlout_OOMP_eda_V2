@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_CSP-ST_WLCSP-66_Die432
 - Hex ID: FZKCSPSTWLCSP66DIE432
 - Name: Package_CSP : ST_WLCSP-66_Die432
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_CSP/ST_WLCSP-66_Die432/
 - Description: Package_CSP : ST_WLCSP-66_Die432
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_CSP-ST_WLCSP-66_Die432](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_CSP-ST_WLCSP-66_Die432)
 - Short Link: [http://oom.lt/FZKCSPSTWLCSP66DIE432](http://oom.lt/FZKCSPSTWLCSP66DIE432)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Converter_DCDC-Converter_DCDC_XP_POWER-IAxxxxD_THT
 - Hex ID: FZKCONCONXPPOWERIAXXXXDTHT
 - Name: Converter_DCDC : Converter_DCDC_XP_POWER-IAxxxxD_THT
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Converter_DCDC/Converter_DCDC_XP_POWER-IAxxxxD_THT/
 - Description: Converter_DCDC : Converter_DCDC_XP_POWER-IAxxxxD_THT
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Converter_DCDC-Converter_DCDC_XP_POWER-IAxxxxD_THT](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Converter_DCDC-Converter_DCDC_XP_POWER-IAxxxxD_THT)
 - Short Link: [http://oom.lt/FZKCONCONXPPOWERIAXXXXDTHT](http://oom.lt/FZKCONCONXPPOWERIAXXXXDTHT)

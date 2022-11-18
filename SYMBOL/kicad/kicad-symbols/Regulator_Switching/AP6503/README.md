@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-AP6503
 - Hex ID: SZKREGULATORSWINGAP653
 - Name: Regulator_Switching : AP6503
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/AP6503/
 - Description: Regulator_Switching : AP6503
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-AP6503](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-AP6503)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGAP653](http://oom.lt/SZKREGULATORSWINGAP653)

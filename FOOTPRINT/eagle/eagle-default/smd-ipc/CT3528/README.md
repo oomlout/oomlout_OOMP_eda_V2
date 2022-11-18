@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-smd-ipc-CT3528
 - Hex ID: FZESMIPCCT3528
 - Name: smd-ipc : CT3528
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/smd-ipc/CT3528/
 - Description: smd-ipc : CT3528
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-CT3528](http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-CT3528)
 - Short Link: [http://oom.lt/FZESMIPCCT3528](http://oom.lt/FZESMIPCCT3528)

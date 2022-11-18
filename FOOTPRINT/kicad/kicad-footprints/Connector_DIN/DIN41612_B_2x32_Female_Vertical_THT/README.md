@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_DIN-DIN41612_B_2x32_Female_Vertical_THT
 - Hex ID: FZKCNDINDIN41612B2X32FFTHT
 - Name: Connector_DIN : DIN41612_B_2x32_Female_Vertical_THT
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_DIN/DIN41612_B_2x32_Female_Vertical_THT/
 - Description: Connector_DIN : DIN41612_B_2x32_Female_Vertical_THT
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_DIN-DIN41612_B_2x32_Female_Vertical_THT](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_DIN-DIN41612_B_2x32_Female_Vertical_THT)
 - Short Link: [http://oom.lt/FZKCNDINDIN41612B2X32FFTHT](http://oom.lt/FZKCNDINDIN41612B2X32FFTHT)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-MSOP-10-1EP_W3mm
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSMS11EPW3
 - Name: digikey-footprints : MSOP-10-1EP_W3mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/MSOP-10-1EP_W3mm/
 - Description: digikey-footprints : MSOP-10-1EP_W3mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-MSOP-10-1EP_W3mm](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-MSOP-10-1EP_W3mm)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSMS11EPW3](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSMS11EPW3)

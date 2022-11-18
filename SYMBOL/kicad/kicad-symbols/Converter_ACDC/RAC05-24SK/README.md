@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Converter_ACDC-RAC05-24SK
 - Hex ID: SZKCONRAC524SK
 - Name: Converter_ACDC : RAC05-24SK
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Converter_ACDC/RAC05-24SK/
 - Description: Converter_ACDC : RAC05-24SK
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_ACDC-RAC05-24SK](http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_ACDC-RAC05-24SK)
 - Short Link: [http://oom.lt/SZKCONRAC524SK](http://oom.lt/SZKCONRAC524SK)

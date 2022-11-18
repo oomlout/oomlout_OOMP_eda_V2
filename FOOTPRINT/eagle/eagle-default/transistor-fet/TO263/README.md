@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-transistor-fet-TO263
 - Hex ID: FZETRANSISTORFETTO263
 - Name: transistor-fet : TO263
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/transistor-fet/TO263/
 - Description: transistor-fet : TO263
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-fet-TO263](http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-fet-TO263)
 - Short Link: [http://oom.lt/FZETRANSISTORFETTO263](http://oom.lt/FZETRANSISTORFETTO263)

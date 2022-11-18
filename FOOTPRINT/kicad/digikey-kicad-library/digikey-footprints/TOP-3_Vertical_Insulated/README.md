@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-TOP-3_Vertical_Insulated
 - Hex ID: FZDIGIDIGIKEYFOOTPRINTSTOP3FINSULATED
 - Name: digikey-footprints : TOP-3_Vertical_Insulated
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/TOP-3_Vertical_Insulated/
 - Description: digikey-footprints : TOP-3_Vertical_Insulated
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-TOP-3_Vertical_Insulated](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-TOP-3_Vertical_Insulated)
 - Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSTOP3FINSULATED](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSTOP3FINSULATED)

@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEREFPACKAGESCTRIMTZ3 > ref-packages : CTRIMTZ03](#fzerefpackagesctrimtz3--ref-packages--ctrimtz03)
+* [FZEREFPSCTRIMTZ3 > ref-packages : CTRIMTZ03](#fzerefpsctrimtz3--ref-packages--ctrimtz03)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEREFPACKAGESCTRIMTZ3 > ref-packages : CTRIMTZ03
+# FZEREFPSCTRIMTZ3 > ref-packages : CTRIMTZ03
 
 - ID: FOOTPRINT-eagle-eagle-default-ref-packages-CTRIMTZ03
-- Hex ID: FZEREFPACKAGESCTRIMTZ3
+- Hex ID: FZEREFPSCTRIMTZ3
 - Name: ref-packages : CTRIMTZ03
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ref-packages/CTRIMTZ03/
 - Description: ref-packages : CTRIMTZ03
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-CTRIMTZ03](http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-CTRIMTZ03)
-- Short Link: [http://oom.lt/FZEREFPACKAGESCTRIMTZ3](http://oom.lt/FZEREFPACKAGESCTRIMTZ3)
+- Short Link: [http://oom.lt/FZEREFPSCTRIMTZ3](http://oom.lt/FZEREFPSCTRIMTZ3)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|ref-packages|
 |OOMP Index|oompIndex|CTRIMTZ03|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-ref-packages-CTRIMTZ03|
-|Hex ID (short code)|hexID|FZEREFPACKAGESCTRIMTZ3|
+|Hex ID (short code)|hexID|FZEREFPSCTRIMTZ3|
 |name|name|ref-packages : CTRIMTZ03|
 ||||

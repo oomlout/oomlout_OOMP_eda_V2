@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Boards-SPARKFUN_EDISON_DAUGHTER
 - Hex ID: FZSBOSPARKFUNEDISONDAUGHTER
 - Name: SparkFun-Boards : SPARKFUN_EDISON_DAUGHTER
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Boards/SPARKFUN_EDISON_DAUGHTER/
 - Description: SparkFun-Boards : SPARKFUN_EDISON_DAUGHTER
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Boards-SPARKFUN_EDISON_DAUGHTER](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Boards-SPARKFUN_EDISON_DAUGHTER)
 - Short Link: [http://oom.lt/FZSBOSPARKFUNEDISONDAUGHTER](http://oom.lt/FZSBOSPARKFUNEDISONDAUGHTER)

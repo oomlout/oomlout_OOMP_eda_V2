@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-chipcard-iso7816-AFNOR-CHIPCARD
 - Hex ID: FZECONCHIPCARDISO7816AFNORCHIPCARD
 - Name: con-chipcard-iso7816 : AFNOR-CHIPCARD
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-chipcard-iso7816/AFNOR-CHIPCARD/
 - Description: con-chipcard-iso7816 : AFNOR-CHIPCARD
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-chipcard-iso7816-AFNOR-CHIPCARD](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-chipcard-iso7816-AFNOR-CHIPCARD)
 - Short Link: [http://oom.lt/FZECONCHIPCARDISO7816AFNORCHIPCARD](http://oom.lt/FZECONCHIPCARDISO7816AFNORCHIPCARD)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-DZ2S047X0L
 - Hex ID: SZKDIODEDZ2S47XL
 - Name: Diode : DZ2S047X0L
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/DZ2S047X0L/
 - Description: Diode : DZ2S047X0L
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-DZ2S047X0L](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-DZ2S047X0L)
 - Short Link: [http://oom.lt/SZKDIODEDZ2S47XL](http://oom.lt/SZKDIODEDZ2S47XL)

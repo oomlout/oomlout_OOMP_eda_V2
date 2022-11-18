@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_Hirose-Hirose_DF13-05P-1.25DS_1x05_P1.25mm_Horizontal
 - Hex ID: FZKCNHIROSEHIROSEDF135P125DS1X5P125H
 - Name: Connector_Hirose : Hirose_DF13-05P-1.25DS_1x05_P1.25mm_Horizontal
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Hirose/Hirose_DF13-05P-1.25DS_1x05_P1.25mm_Horizontal/
 - Description: Connector_Hirose : Hirose_DF13-05P-1.25DS_1x05_P1.25mm_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Hirose-Hirose_DF13-05P-1.25DS_1x05_P1.25mm_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Hirose-Hirose_DF13-05P-1.25DS_1x05_P1.25mm_Horizontal)
 - Short Link: [http://oom.lt/FZKCNHIROSEHIROSEDF135P125DS1X5P125H](http://oom.lt/FZKCNHIROSEHIROSEDF135P125DS1X5P125H)

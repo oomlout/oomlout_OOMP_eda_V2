@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-infineon-P-TO220-7-11
 - Hex ID: FZEINFINEONPTO22711
 - Name: infineon : P-TO220-7-11
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/infineon/P-TO220-7-11/
 - Description: infineon : P-TO220-7-11
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-infineon-P-TO220-7-11](http://oom.lt/FOOTPRINT-eagle-eagle-default-infineon-P-TO220-7-11)
 - Short Link: [http://oom.lt/FZEINFINEONPTO22711](http://oom.lt/FZEINFINEONPTO22711)

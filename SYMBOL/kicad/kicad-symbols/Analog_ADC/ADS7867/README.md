@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Analog_ADC-ADS7867
 - Hex ID: SZKANALOGADCADS7867
 - Name: Analog_ADC : ADS7867
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog_ADC/ADS7867/
 - Description: Analog_ADC : ADS7867
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-ADS7867](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-ADS7867)
 - Short Link: [http://oom.lt/SZKANALOGADCADS7867](http://oom.lt/SZKANALOGADCADS7867)

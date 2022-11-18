@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Isolator-MAX14850ASE+
 - Hex ID: SZKISOLATORMAX1485ASE+
 - Name: Isolator : MAX14850ASE+
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Isolator/MAX14850ASE+/
 - Description: Isolator : MAX14850ASE+
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-MAX14850ASE+](http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-MAX14850ASE+)
 - Short Link: [http://oom.lt/SZKISOLATORMAX1485ASE+](http://oom.lt/SZKISOLATORMAX1485ASE+)

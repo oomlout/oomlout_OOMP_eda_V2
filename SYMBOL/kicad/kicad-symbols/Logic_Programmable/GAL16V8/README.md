@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Logic_Programmable-GAL16V8
 - Hex ID: SZKLOGICPROGRAABLEGAL16V8
 - Name: Logic_Programmable : GAL16V8
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Logic_Programmable/GAL16V8/
 - Description: Logic_Programmable : GAL16V8
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Logic_Programmable-GAL16V8](http://oom.lt/SYMBOL-kicad-kicad-symbols-Logic_Programmable-GAL16V8)
 - Short Link: [http://oom.lt/SZKLOGICPROGRAABLEGAL16V8](http://oom.lt/SZKLOGICPROGRAABLEGAL16V8)

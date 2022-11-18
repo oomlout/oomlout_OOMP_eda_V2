@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-CA3130
 - Hex ID: SZKAMPLIFIEROPERATIONALCA313
 - Name: Amplifier_Operational : CA3130
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/CA3130/
 - Description: Amplifier_Operational : CA3130
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-CA3130](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-CA3130)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALCA313](http://oom.lt/SZKAMPLIFIEROPERATIONALCA313)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-memory-hitachi-DIL24-6
 - Hex ID: FZEMEMORYHITACHIDIL246
 - Name: memory-hitachi : DIL24-6
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/memory-hitachi/DIL24-6/
 - Description: memory-hitachi : DIL24-6
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-memory-hitachi-DIL24-6](http://oom.lt/FOOTPRINT-eagle-eagle-default-memory-hitachi-DIL24-6)
 - Short Link: [http://oom.lt/FZEMEMORYHITACHIDIL246](http://oom.lt/FZEMEMORYHITACHIDIL246)

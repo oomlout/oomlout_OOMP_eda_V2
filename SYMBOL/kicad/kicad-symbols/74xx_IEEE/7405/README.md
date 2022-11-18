@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-74xx_IEEE-7405
 - Hex ID: SZK74XXIEEE745
 - Name: 74xx_IEEE : 7405
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/74xx_IEEE/7405/
 - Description: 74xx_IEEE : 7405
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-74xx_IEEE-7405](http://oom.lt/SYMBOL-kicad-kicad-symbols-74xx_IEEE-7405)
 - Short Link: [http://oom.lt/SZK74XXIEEE745](http://oom.lt/SZK74XXIEEE745)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-BUTA-3025-X-PI02-01-BT3025
 - Hex ID: SZOOMPKOOMPPBUTA325XPI21BT325
 - Name: oomlout_OOMP_parts : BUTA-3025-X-PI02-01-BT3025
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/BUTA-3025-X-PI02-01-BT3025/
 - Description: oomlout_OOMP_parts : BUTA-3025-X-PI02-01-BT3025
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-BUTA-3025-X-PI02-01-BT3025](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-BUTA-3025-X-PI02-01-BT3025)
 - Short Link: [http://oom.lt/SZOOMPKOOMPPBUTA325XPI21BT325](http://oom.lt/SZOOMPKOOMPPBUTA325XPI21BT325)

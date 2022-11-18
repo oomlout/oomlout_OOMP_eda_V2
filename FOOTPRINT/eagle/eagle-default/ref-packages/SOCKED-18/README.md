@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEREFPACKAGESSOCKED18 > ref-packages : SOCKED-18](#fzerefpackagessocked18--ref-packages--socked-18)
+* [FZEREFPSSOCKED18 > ref-packages : SOCKED-18](#fzerefpssocked18--ref-packages--socked-18)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEREFPACKAGESSOCKED18 > ref-packages : SOCKED-18
+# FZEREFPSSOCKED18 > ref-packages : SOCKED-18
 
 - ID: FOOTPRINT-eagle-eagle-default-ref-packages-SOCKED-18
-- Hex ID: FZEREFPACKAGESSOCKED18
+- Hex ID: FZEREFPSSOCKED18
 - Name: ref-packages : SOCKED-18
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ref-packages/SOCKED-18/
 - Description: ref-packages : SOCKED-18
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-SOCKED-18](http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-SOCKED-18)
-- Short Link: [http://oom.lt/FZEREFPACKAGESSOCKED18](http://oom.lt/FZEREFPACKAGESSOCKED18)
+- Short Link: [http://oom.lt/FZEREFPSSOCKED18](http://oom.lt/FZEREFPSSOCKED18)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|ref-packages|
 |OOMP Index|oompIndex|SOCKED-18|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-ref-packages-SOCKED-18|
-|Hex ID (short code)|hexID|FZEREFPACKAGESSOCKED18|
+|Hex ID (short code)|hexID|FZEREFPSSOCKED18|
 |name|name|ref-packages : SOCKED-18|
 ||||

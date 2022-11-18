@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-ADAFRUIT450MIL
 - Hex ID: FZAADA45M
 - Name: adafruit : ADAFRUIT450MIL
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/ADAFRUIT450MIL/
 - Description: adafruit : ADAFRUIT450MIL
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-ADAFRUIT450MIL](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-ADAFRUIT450MIL)
 - Short Link: [http://oom.lt/FZAADA45M](http://oom.lt/FZAADA45M)

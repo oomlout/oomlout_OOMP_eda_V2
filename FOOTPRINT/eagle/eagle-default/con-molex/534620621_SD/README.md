@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-molex-534620621_SD
 - Hex ID: FZECONMX53462621SD
 - Name: con-molex : 534620621_SD
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-molex/534620621_SD/
 - Description: con-molex : 534620621_SD
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-molex-534620621_SD](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-molex-534620621_SD)
 - Short Link: [http://oom.lt/FZECONMX53462621SD](http://oom.lt/FZECONMX53462621SD)

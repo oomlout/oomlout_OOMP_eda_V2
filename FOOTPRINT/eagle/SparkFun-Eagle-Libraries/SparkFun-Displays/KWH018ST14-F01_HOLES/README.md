@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Displays-KWH018ST14-F01_HOLES
 - Hex ID: FZSSPARKFUNDISKWH18ST14F1H
 - Name: SparkFun-Displays : KWH018ST14-F01_HOLES
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Displays/KWH018ST14-F01_HOLES/
 - Description: SparkFun-Displays : KWH018ST14-F01_HOLES
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Displays-KWH018ST14-F01_HOLES](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Displays-KWH018ST14-F01_HOLES)
 - Short Link: [http://oom.lt/FZSSPARKFUNDISKWH18ST14F1H](http://oom.lt/FZSSPARKFUNDISKWH18ST14F1H)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0805-X-NF8-V50-C8N8-C1755
 - Hex ID: FZOOMPKJLCCAPC85XNF8V5C8N8C1755
 - Name: oomlout_OOMP_JLCC_Basic : CAPC-0805-X-NF8-V50-C8N8-C1755
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_JLCC_Basic/CAPC-0805-X-NF8-V50-C8N8-C1755/
 - Description: oomlout_OOMP_JLCC_Basic : CAPC-0805-X-NF8-V50-C8N8-C1755
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0805-X-NF8-V50-C8N8-C1755](http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0805-X-NF8-V50-C8N8-C1755)
 - Short Link: [http://oom.lt/FZOOMPKJLCCAPC85XNF8V5C8N8C1755](http://oom.lt/FZOOMPKJLCCAPC85XNF8V5C8N8C1755)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-optocoupler-DIL08
 - Hex ID: FZEOPTOCOUPLERDIL8
 - Name: optocoupler : DIL08
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/optocoupler/DIL08/
 - Description: optocoupler : DIL08
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-optocoupler-DIL08](http://oom.lt/FOOTPRINT-eagle-eagle-default-optocoupler-DIL08)
 - Short Link: [http://oom.lt/FZEOPTOCOUPLERDIL8](http://oom.lt/FZEOPTOCOUPLERDIL8)

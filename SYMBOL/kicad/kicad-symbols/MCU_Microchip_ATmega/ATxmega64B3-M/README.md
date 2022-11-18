@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATxmega64B3-M
 - Hex ID: SZKMCUMCHIPATMEGAATXMEGA64B3M
 - Name: MCU_Microchip_ATmega : ATxmega64B3-M
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_ATmega/ATxmega64B3-M/
 - Description: MCU_Microchip_ATmega : ATxmega64B3-M
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATxmega64B3-M](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATxmega64B3-M)
 - Short Link: [http://oom.lt/SZKMCUMCHIPATMEGAATXMEGA64B3M](http://oom.lt/SZKMCUMCHIPATMEGAATXMEGA64B3M)

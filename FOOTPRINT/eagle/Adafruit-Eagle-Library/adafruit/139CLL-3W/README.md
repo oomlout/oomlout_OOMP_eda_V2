@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-139CLL-3W
 - Hex ID: FZA139CLL3W
 - Name: adafruit : 139CLL-3W
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/139CLL-3W/
 - Description: adafruit : 139CLL-3W
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-139CLL-3W](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-139CLL-3W)
 - Short Link: [http://oom.lt/FZA139CLL3W](http://oom.lt/FZA139CLL3W)

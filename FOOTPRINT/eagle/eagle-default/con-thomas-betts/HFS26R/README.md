@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-thomas-betts-HFS26R
 - Hex ID: FZECONTHOMASBETTSHFS26R
 - Name: con-thomas-betts : HFS26R
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-thomas-betts/HFS26R/
 - Description: con-thomas-betts : HFS26R
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-thomas-betts-HFS26R](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-thomas-betts-HFS26R)
 - Short Link: [http://oom.lt/FZECONTHOMASBETTSHFS26R](http://oom.lt/FZECONTHOMASBETTSHFS26R)

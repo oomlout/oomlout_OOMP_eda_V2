@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Diode_THT-Diode_Bridge_Round_D8.9mm
 - Hex ID: FZKDDIODEBRIDGEROUNDD89
 - Name: Diode_THT : Diode_Bridge_Round_D8.9mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Diode_THT/Diode_Bridge_Round_D8.9mm/
 - Description: Diode_THT : Diode_Bridge_Round_D8.9mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Diode_THT-Diode_Bridge_Round_D8.9mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Diode_THT-Diode_Bridge_Round_D8.9mm)
 - Short Link: [http://oom.lt/FZKDDIODEBRIDGEROUNDD89](http://oom.lt/FZKDDIODEBRIDGEROUNDD89)

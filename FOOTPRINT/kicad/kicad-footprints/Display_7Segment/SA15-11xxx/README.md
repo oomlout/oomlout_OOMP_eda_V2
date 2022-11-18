@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Display_7Segment-SA15-11xxx
 - Hex ID: FZKDI7SSA1511XXX
 - Name: Display_7Segment : SA15-11xxx
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Display_7Segment/SA15-11xxx/
 - Description: Display_7Segment : SA15-11xxx
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Display_7Segment-SA15-11xxx](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Display_7Segment-SA15-11xxx)
 - Short Link: [http://oom.lt/FZKDI7SSA1511XXX](http://oom.lt/FZKDI7SSA1511XXX)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-rcl-RTRIM3296W
 - Hex ID: FZERCLRTRIM3296W
 - Name: rcl : RTRIM3296W
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/rcl/RTRIM3296W/
 - Description: rcl : RTRIM3296W
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-RTRIM3296W](http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-RTRIM3296W)
 - Short Link: [http://oom.lt/FZERCLRTRIM3296W](http://oom.lt/FZERCLRTRIM3296W)

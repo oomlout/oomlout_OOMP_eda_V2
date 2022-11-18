@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Symbol-OSHW-Symbol_33.5x30mm_Copper
 - Hex ID: FZKSZOSHWSY335X3C
 - Name: Symbol : OSHW-Symbol_33.5x30mm_Copper
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Symbol/OSHW-Symbol_33.5x30mm_Copper/
 - Description: Symbol : OSHW-Symbol_33.5x30mm_Copper
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Symbol-OSHW-Symbol_33.5x30mm_Copper](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Symbol-OSHW-Symbol_33.5x30mm_Copper)
 - Short Link: [http://oom.lt/FZKSZOSHWSY335X3C](http://oom.lt/FZKSZOSHWSY335X3C)

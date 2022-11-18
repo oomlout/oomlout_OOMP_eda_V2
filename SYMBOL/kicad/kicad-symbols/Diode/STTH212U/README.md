@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-STTH212U
 - Hex ID: SZKDIODESTTH212U
 - Name: Diode : STTH212U
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/STTH212U/
 - Description: Diode : STTH212U
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-STTH212U](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-STTH212U)
 - Short Link: [http://oom.lt/SZKDIODESTTH212U](http://oom.lt/SZKDIODESTTH212U)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-SM2000
 - Hex ID: SZKDIODESM2
 - Name: Diode : SM2000
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/SM2000/
 - Description: Diode : SM2000
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-SM2000](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-SM2000)
 - Short Link: [http://oom.lt/SZKDIODESM2](http://oom.lt/SZKDIODESM2)

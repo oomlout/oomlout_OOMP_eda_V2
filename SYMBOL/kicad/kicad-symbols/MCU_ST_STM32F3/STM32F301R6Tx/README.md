@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F3-STM32F301R6Tx
 - Hex ID: SZKMCUSTSTM32F3STM32F31R6TX
 - Name: MCU_ST_STM32F3 : STM32F301R6Tx
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32F3/STM32F301R6Tx/
 - Description: MCU_ST_STM32F3 : STM32F301R6Tx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F3-STM32F301R6Tx](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F3-STM32F301R6Tx)
 - Short Link: [http://oom.lt/SZKMCUSTSTM32F3STM32F31R6TX](http://oom.lt/SZKMCUSTSTM32F3STM32F31R6TX)

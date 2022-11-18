@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Isolator-ADuM3151
 - Hex ID: SZKISOLATORADUM3151
 - Name: Isolator : ADuM3151
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Isolator/ADuM3151/
 - Description: Isolator : ADuM3151
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-ADuM3151](http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-ADuM3151)
 - Short Link: [http://oom.lt/SZKISOLATORADUM3151](http://oom.lt/SZKISOLATORADUM3151)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Buzzard-BYP
 - Hex ID: FZSBUBYP
 - Name: SparkFun-Buzzard : BYP
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Buzzard/BYP/
 - Description: SparkFun-Buzzard : BYP
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Buzzard-BYP](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Buzzard-BYP)
 - Short Link: [http://oom.lt/FZSBUBYP](http://oom.lt/FZSBUBYP)

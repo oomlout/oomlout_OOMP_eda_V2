@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_SO-SOP-4_3.8x4.1mm_P2.54mm
 - Hex ID: FZKSOS438X41P254
 - Name: Package_SO : SOP-4_3.8x4.1mm_P2.54mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SO/SOP-4_3.8x4.1mm_P2.54mm/
 - Description: Package_SO : SOP-4_3.8x4.1mm_P2.54mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SO-SOP-4_3.8x4.1mm_P2.54mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SO-SOP-4_3.8x4.1mm_P2.54mm)
 - Short Link: [http://oom.lt/FZKSOS438X41P254](http://oom.lt/FZKSOS438X41P254)

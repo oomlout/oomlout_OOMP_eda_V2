@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZSIPMS1GNDPAD > SparkFun-IC-Power : MSOP-10-GNDPAD](#fzsipms1gndpad--sparkfun-ic-power--msop-10-gndpad)
+* [FZSIPMS1GNDP > SparkFun-IC-Power : MSOP-10-GNDPAD](#fzsipms1gndp--sparkfun-ic-power--msop-10-gndpad)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZSIPMS1GNDPAD > SparkFun-IC-Power : MSOP-10-GNDPAD
+# FZSIPMS1GNDP > SparkFun-IC-Power : MSOP-10-GNDPAD
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Power-MSOP-10-GNDPAD
-- Hex ID: FZSIPMS1GNDPAD
+- Hex ID: FZSIPMS1GNDP
 - Name: SparkFun-IC-Power : MSOP-10-GNDPAD
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-IC-Power/MSOP-10-GNDPAD/
 - Description: SparkFun-IC-Power : MSOP-10-GNDPAD
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Power-MSOP-10-GNDPAD](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Power-MSOP-10-GNDPAD)
-- Short Link: [http://oom.lt/FZSIPMS1GNDPAD](http://oom.lt/FZSIPMS1GNDPAD)
+- Short Link: [http://oom.lt/FZSIPMS1GNDP](http://oom.lt/FZSIPMS1GNDP)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|SparkFun-IC-Power|
 |OOMP Index|oompIndex|MSOP-10-GNDPAD|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Power-MSOP-10-GNDPAD|
-|Hex ID (short code)|hexID|FZSIPMS1GNDPAD|
+|Hex ID (short code)|hexID|FZSIPMS1GNDP|
 |name|name|SparkFun-IC-Power : MSOP-10-GNDPAD|
 ||||

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Transformer_SMD-Pulse_PA2006NL
 - Hex ID: FZKTRPULSEPA26NL
 - Name: Transformer_SMD : Pulse_PA2006NL
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Transformer_SMD/Pulse_PA2006NL/
 - Description: Transformer_SMD : Pulse_PA2006NL
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Transformer_SMD-Pulse_PA2006NL](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Transformer_SMD-Pulse_PA2006NL)
 - Short Link: [http://oom.lt/FZKTRPULSEPA26NL](http://oom.lt/FZKTRPULSEPA26NL)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Reference_Voltage-REF3040
 - Hex ID: SZKREFERENCEVOLTAGEREF34
 - Name: Reference_Voltage : REF3040
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Reference_Voltage/REF3040/
 - Description: Reference_Voltage : REF3040
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Voltage-REF3040](http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Voltage-REF3040)
 - Short Link: [http://oom.lt/SZKREFERENCEVOLTAGEREF34](http://oom.lt/SZKREFERENCEVOLTAGEREF34)

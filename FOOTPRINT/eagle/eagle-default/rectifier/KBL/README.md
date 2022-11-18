@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-rectifier-KBL
 - Hex ID: FZERECTIFIERKBL
 - Name: rectifier : KBL
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/rectifier/KBL/
 - Description: rectifier : KBL
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-rectifier-KBL](http://oom.lt/FOOTPRINT-eagle-eagle-default-rectifier-KBL)
 - Short Link: [http://oom.lt/FZERECTIFIERKBL](http://oom.lt/FZERECTIFIERKBL)

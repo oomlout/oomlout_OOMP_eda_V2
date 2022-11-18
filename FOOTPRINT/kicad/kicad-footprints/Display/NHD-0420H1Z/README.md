@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Display-NHD-0420H1Z
 - Hex ID: FZKDINHD42H1Z
 - Name: Display : NHD-0420H1Z
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Display/NHD-0420H1Z/
 - Description: Display : NHD-0420H1Z
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Display-NHD-0420H1Z](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Display-NHD-0420H1Z)
 - Short Link: [http://oom.lt/FZKDINHD42H1Z](http://oom.lt/FZKDINHD42H1Z)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny412-SS
 - Hex ID: SZKMCUMCHIPATTINYATTINY412SS
 - Name: MCU_Microchip_ATtiny : ATtiny412-SS
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_ATtiny/ATtiny412-SS/
 - Description: MCU_Microchip_ATtiny : ATtiny412-SS
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny412-SS](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny412-SS)
 - Short Link: [http://oom.lt/SZKMCUMCHIPATTINYATTINY412SS](http://oom.lt/SZKMCUMCHIPATTINYATTINY412SS)
